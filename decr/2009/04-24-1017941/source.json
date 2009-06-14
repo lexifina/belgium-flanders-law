@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017941,
+  "title": "Decreet van 2009-04-24 houdende een herfinancieringsgarantie en een doorbetalingsverbintenis met betrekking tot beschikbaarheidsvergoedingen en bepaalde beëindigingsvergoedingen, in het kader van bepaalde Vlaamse pps-projecten van de Vlaamse Vervoermaatschappij - De Lijn",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017941/VolledigDocument?datum=2009-06-14",
+  "source_sha256": "ac267ae7a11a3b1977b8f2c4c7213f56ecc0c342ddcdaa853f36e3fd371d148c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017941&param=informatie",
+  "as_of": "2009-06-14",
+  "made": "2009-04-24",
+  "gazette": "2009-06-04",
+  "numac": 2009202316,
+  "document_start": "2009-06-14",
+  "document_end": null,
+  "in_force": "2009-06-14",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2009-06-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
