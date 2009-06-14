@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017942,
+  "title": "Besluit van de Vlaamse Regering van 2009-03-20 tot verdeling van de trekkingsrechten uit het Stedenfonds voor het jaar 2009",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017942/VolledigDocument?datum=2009-06-14",
+  "source_sha256": "63e3ec5b626030c88e16c8e4b99eebc855a33f6c92cb8fde728c90e11b88311c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017942&param=informatie",
+  "as_of": "2009-06-14",
+  "made": "2009-03-20",
+  "gazette": "2009-06-04",
+  "numac": 2009202313,
+  "document_start": "2009-06-14",
+  "document_end": null,
+  "in_force": "2009-06-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-06-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
