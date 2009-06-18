@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017958,
+  "title": "Decreet van 2009-04-30 tot wijziging van het decreet van 24 januari 2003 houdende bescherming van het roerend cultureel erfgoed van uitzonderlijk belang",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017958/VolledigDocument?datum=2009-06-18",
+  "source_sha256": "617b9ce05f1bcd26a00896cce04d385af37d0d61a34db3d01a264b32eb0f99c1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017958&param=informatie",
+  "as_of": "2009-06-18",
+  "made": "2009-04-30",
+  "gazette": "2009-06-08",
+  "numac": 2009202282,
+  "document_start": "2009-06-18",
+  "document_end": null,
+  "in_force": "2009-06-18",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2009-06-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
