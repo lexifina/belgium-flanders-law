@@ -598,7 +598,7 @@ Voor dit decreet en zijn uitvoeringsbesluiten worden het toezicht en de bestuurl
 
 ### ART. 56.
 
-Met betrekking tot dit decreet en zijn uitvoeringsbesluiten gebeuren het onderzoek, de vaststelling en de sanctionering van de milieu-inbreuken en milieumisdrijven volgens de regels bepaald in titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br /><br />Deze bepaling is evenwel niet van toepassing op de overtreding van de verplichting om aan de heffing te voldoen, vermeld in artikel 51.
+Met betrekking tot dit decreet en zijn uitvoeringsbesluiten gebeuren het onderzoek, de vaststelling en de sanctionering van de milieu-inbreuken en milieumisdrijven volgens de regels bepaald in titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br /><br />Deze bepaling is evenwel niet van toepassing op de overtreding van de verplichting om aan de heffing te voldoen, vermeld in artikelen 50 en 51.
 
 ### ART. 57.
 
