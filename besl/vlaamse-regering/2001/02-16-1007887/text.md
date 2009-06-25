@@ -90,7 +90,7 @@ De aan de stedenbouwkundige vergunningsplicht onderworpen ontbossing wordt vrijg
 
 ### ART. 18.
 
-Overtredingen van dit besluit worden opgespoord, vervolgd en bestraft overeenkomstig de bepalingen van het Bosdecreet van 13 juni 1990.
+...
 
 ## HOOFDSTUK VI SLOTBEPALINGEN
 
