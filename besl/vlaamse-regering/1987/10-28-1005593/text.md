@@ -18,7 +18,7 @@ Onverminderd de bepalingen van artikel 1 mogen alleen de onderstaande geweren wo
 
 ### ART. 4.
 
-Overtredingen op dit besluit worden opgespoord, vastgesteld, vervolgd en gestraft overeenkomstig de bepalingen van artikel 31ter van de jachtwet van 28 februari 1882.
+...
 
 ### ART. 5.
 
