@@ -101,7 +101,7 @@ Onverminderd de bepalingen van artikel 2.1.9. van het decreet van 5 april 1995 h
 
 ### ART. 14.
 
-[Iedereen die handelingen verricht of hiertoe de opdracht verleent, en die weet of redelijkerwijze kan vermoeden dat de natuurelementen in de onmiddellijke omgeving daardoor kunnen worden vernietigd of ernstig geschaad, is verplicht om alle maatregelen te nemen die redelijkerwijze van hem kunnen worden gevergd om de vernietiging of de schade te voorkomen, te beperken of indien dit niet mogelijk is, te herstellen.<br /><br />De Vlaamse regering kan een code van goede natuurpraktijk vaststellen die de in het voorgaande lid bedoelde zorgplicht verduidelijkt.  <span class="reference">(verv. decr. 19 juli 2002, art. 6, I: 10 september 2002)</span> ]
+§ 1. Iedere natuurlijke persoon of rechtspersoon die manueel, met mechanische middelen of bestrijdingsmiddelen en met vaste of mobiele geluidsbronnen ingrijpt op of in de onmiddellijke omgeving van natuurlijke en deels natuurlijke habitats of ecosystemen, op waterrijke gebieden, op natuurlijke en halfnatuurlijke vegetaties, op wilde inheemse fauna of flora of trekkende wilde diersoorten of hun respectieve habitats of leefgebieden, of op kleine landschapselementen, en die weet of redelijkerwijze kan vermoeden dat deze habitats, ecosystemen, waterrijke gebieden, vegetaties, fauna, flora of kleine landschapselementen daardoor kunnen worden vernietigd of ernstig geschaad, is verplicht om alle maatregelen te nemen die redelijkerwijze van hem kunnen worden gevergd om de vernietiging of de schade te voorkomen, te beperken of indien dit niet mogelijk is, te herstellen.<br /><br />De bepaling van het vorige lid geldt eveneens ten aanzien van wie opdracht geeft tot de in dat lid bedoelde ingrepen.<br /><br />§ 2. De Vlaamse Regering kan codes van goede natuurpraktijk voor de bescherming, het beheer of de inrichting van de in § 1 bedoelde habitats, ecosystemen, waterrijke gebieden, vegetaties, fauna, flora of kleine landschapselementen vaststellen. <br /><br />Deze codes zijn in beginsel vrijwillig toe te passen, doch kunnen een verplicht karakter krijgen door verwijzing ernaar in bindende bepalingen, zoals in beheerverplichtingen opgelegd door of ter uitvoering van dit decreet of het Bosdecreet, in natuurrichtplannen of in ter uitvoering van dit decreet of het Bosdecreet opgestelde beheerplannen.
 
 ### ART. 15.
 
@@ -345,25 +345,25 @@ Personen die ingevolge hun ambt of in opdracht van de overheid werken ten behoev
 
 ### ART. 58.
 
-§ 1. Met een gevangenisstraf van acht dagen tot drie jaar en met een geldboete van zesentwintig frank tot één miljoen frank wordt gestraft of met één van deze straffen alleen:<br /><br />1° - hij die de maatregelen of voorschriften vastgesteld in of ter uitvoering van artikel 8, 13, hoofdstuk IV en V van dit decreet overtreedt en/of deze overtredingen instandhoudt;<br /><br />- hij die het toezicht op deze maatregelen of voorschriften verhindert of bemoeilijkt;<br /><br />2° - hij die de overige maatregelen of voorschriften vastgesteld door of ter uitvoering van dit decreet overtreedt;<br /><br />- hij die het toezicht op deze maatregelen of voorschriften van dit decreet of zijn uitvoering verhindert of bemoeilijkt.<br /><br />§ 2. De bepalingen van hoofdstuk VII en artikel 85 van het Strafwetboek zijn op de in dit artikel bepaalde overtredingen van toepassing.
+Voor dit decreet en haar uitvoeringsbesluiten gebeurt het uitoefenen van toezicht, het opleggen van bestuurlijke maatregelen, het onderzoeken van milieu-inbreuken, het opleggen van bestuurlijke geldboeten, het innen en invorderen van verschuldigde bedragen, het opsporen van milieumisdrijven, het strafrechtelijk sanctioneren van milieumisdrijven en het opleggen van veiligheidsmaatregelen volgens de regels bepaald in titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.
 
 ### ART. 59.
 
-§ 1. Bij elk vonnis van veroordeling wordt bevel gegeven het goed of de goederen in hun vroegere toestand te herstellen op kosten van de veroordeelde, onverminderd de schadeloosstelling en de opgelegde dwangsom.<br /><br />Indien het herstel niet mogelijk is, kunnen, op vordering van de Vlaamse regering, aanpassingsmaatregelen of maatregelen ter herstel van de natuur worden bevolen.<br /><br />§ 2. Bij het verstrijken van de in het vonnis of arrest vastgestelde termijn kan het openbaar ministerie of de burgerlijke partij de werkzaamheden op kosten van de veroordeelde laten uitvoeren.
+...
 
 ## AFDELING 2 HET TOEZICHT
 
 ### ART. 60.
 
-§ 1. Onverminderd de bevoegdheid van de officieren van gerechtelijke politie, worden de overtredingen van dit decreet en van de ter uitvoering ervan genomen besluiten opgespoord en vastgesteld door de leden van de rijkswacht, van de gemeentepolitie en van de landelijke politie, door de daartoe aangestelde personeelsleden van het Agentschap voor Natuur en Bos, door de ambtenaren belast met het toezicht inzake de stedenbouw en ruimtelijke ordening, door de andere door de minister aangewezen ambtenaren evenals door de wachters beddigd op grond van artikel 61 van het Veldwetboek.<br /><br />§ 2. Binnen de grenzen van hun territoriale bevoegdheid, worden de overtredingen van dit decreet en van de ter uitvoering ervan genomen besluiten ook opgespoord en vastgesteld door:<br /><br />1° de burgemeesters, alsook de gemeentelijke ambtenaren die door de gemeenteraad met dit toezicht belast worden;<br /><br />2° de provinciegouverneur, alsook de provinciale ambtenaren die door de provincieraad met dit toezicht belast worden.
+...
 
 ### ART. 61.
 
-In de uitoefening van hun opdracht mogen de in artikel 60 vermelde overheidspersonen fabrieken, magazijnen, bergplaatsen, kantoren, boten, bedrijfsgebouwen, stallen, stapelhuizen, stations, wagons, voertuigen en de in de open lucht gelegen bedrijven alsook alle gronden en wateren betreden en mogen zij dieneinde boten, wagons en voertuigen aanhouden.
+...
 
 ### ART. 62.
 
-§ 1. De in artikel 60 vermelde overheidspersonen zijn, met betrekking tot de toepassing van dit decreet, bevoegd:<br /><br />1° inzage en afschrift te nemen van bescheiden, documenten en andere informatiedragers waarvan inzage voor de vervulling van hun opdracht nodig is, een kopie ervan te maken en ze tegen ontvangstbewijs in beslag te nemen voor de tijd die vereist is voor hun onderzoek;<br /><br />2° elk onderzoek, elke controle of enquête te doen, alsook alle inlichtingen in te winnen die zij nodig achten voor de uitoefening van hun opdracht;<br /><br />3° zonder kosten voorwerpen en stoffen voor onderzoek mee te nemen of ter plekke monsters te nemen;<br /><br />4° zich te laten vergezellen door personen die daartoe door hen zijn aangewezen op grond van hun specifieke technische kennis;<br /><br />5° in de uitoefening van hun opdracht de bijstand van de openbare macht te vorderen;<br /><br />6° mondeling of schriftelijk ter plaatse de staking van werkzaamheden of handelingen te gelasten die niet in overeenstemming zijn met de bepalingen van dit decreet of van zijn uitvoeringsbesluiten. Van die lastgeving wordt proces-verbaal opgesteld. Dit proces-verbaal wordt bij aangetekende brief ter kennis gebracht van de opdrachtgever en van de persoon of de aannemer die het werk uitvoert;<br /><br />7° [alle maatregelen te treffen, met inbegrip van verzegeling, inbeslagname van materiaal en materieel, om te voorzien in de toepassing van het bevel tot staking van de werkzaamheden of, in voorkomend geval, de beschikking in kort geding.  <span class="reference">(verv. decr. 19 juli 2002, art. 40, I: 10 september 2002)</span> ]<br /><br />§ 2. Eenieder is verplicht de in artikel 60 aangewezen personen in de uitoefening van hun opdracht desgevraagd medewerking te verlenen en hen alle inlichtingen te verstrekken.
+...
 
 ## HOOFDSTUK X WIJZIGINGS-, OPHEFFINGS- EN OVERGANGSBEPALINGEN
 
