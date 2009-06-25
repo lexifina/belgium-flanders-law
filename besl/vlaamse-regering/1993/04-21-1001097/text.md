@@ -18,7 +18,7 @@ Ter bescherming van de inheemse flora, de inheemse vegetatie en de inheemse faun
 
 ### ART. 5.
 
-Op overtredingen van dit besluit staan de straffen bepaald in artikel 44, paragraaf 1, van de wet van 12 juli 1973 op het natuurbehoud.
+...
 
 ### ART. 6.
 
