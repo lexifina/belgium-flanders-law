@@ -36,11 +36,11 @@ Elk visverlof geeft het recht te vissen op de wijze die krachtens de minder dure
 
 ### ART. 8.
 
-De visverloven, waarvan de Vlaamse minister de vorm vaststelt, worden door de postkantoren afgege-ven.<br /><br />Zij gelden voor het jaar waarin zij zijn afgegeven. Zij zijn persoonlijk.<br /><br />De uitoefening van de visserij in het Vlaamse Gewest op grond van een visverlof dat niet werd afgeleverd door een postkantoor gelegen in het Vlaamse Gewest, wordt gelijkgesteld met het uitoefenen van de visserij zonder verlof en wordt overeenkomstig artikel 7 van de wet van 1 juli 1954 op de riviervisserij bestraft.
+De visverloven, waarvan de Vlaamse minister de vorm vaststelt, worden door de postkantoren afgege-ven.<br /><br />Zij gelden voor het jaar waarin zij zijn afgegeven. Zij zijn persoonlijk.<br /><br />De uitoefening van de visserij in het Vlaamse Gewest op grond van een visverlof dat niet werd afgeleverd door een postkantoor gelegen in het Vlaamse Gewest, wordt gelijkgesteld met het uitoefenen van de visserij zonder verlof.
 
 ### ART. 9.
 
-Elke veroordeling wegens visserijmisdrijf heeft tot gevolg het van rechtswege onttrekken van het vis-verlof en het verbod te vissen:<br /><br />1° gedurende vijf jaar aan hen die wegens overtreding van artikel 22 van de wet van 1 juli 1954 zijn veroordeeld;<br /><br />2° gedurende twee jaar aan hen die bij toepassing van artikel 13, § 2, van voornoemde wet zijn veroordeeld;<br /><br />3° gedurende één jaar aan hen die wegens enig ander visserijmisdrijf; met uitzondering van het zonder regelmatige vergunning vissen met de hengel, zijn veroordeeld.<br /><br />Elk verlof dat tijdens de periode van verval is verkregen, is van rechtswege nietig.<br /><br />In geen enkel geval worden de rechten terugbetaald.<br /><br />De Vlaamse minister kan degene die het verzoekt, ontheffen van het verval van het recht om een verlof te krijgen.
+Elke veroordeling wegens visserijmisdrijf heeft tot gevolg het van rechtswege onttrekken van het vis-verlof en het verbod te vissen:<br />1° gedurende vijf jaar aan hen die wegens overtreding van artikel 22 van de wet van 1 juli 1954 zijn veroordeeld;<br />2° gedurende twee jaar aan hen die wegens overtreding van artikel 12, 2° en 3°, van voornoemde wet zijn veroordeeld;<br />3° gedurende één jaar aan hen die wegens enig ander visserijmisdrijf; met uitzondering van het zonder regelmatige vergunning vissen met de hengel, zijn veroordeeld.<br /><br />Elk verlof dat tijdens de periode van verval is verkregen, is van rechtswege nietig.<br /><br />In geen enkel geval worden de rechten terugbetaald.<br /><br />De Vlaamse minister kan degene die het verzoekt, ontheffen van het verval van het recht om een verlof te krijgen.
 
 ### ART. 10.
 
