@@ -98,7 +98,7 @@ Het vruchtgebruik, gevestigd op onbebouwde of bebouwde percelen gelegen in een o
 
 ### ART. 18.
 
-De vergunninghouders moeten, ten voordele van de Vlaamse regering, financiële zekerheden stellen om de kosten voor de realisatie van de eindafwerking van de percelen te waarborgen.
+Na de ontginning moeten de vergunninghouders de eindafwerking van de percelen realiseren.<br /><br />De vergunninghouders moeten, ten voordele van de Vlaamse regering, financiële zekerheden stellen om de kosten voor de realisatie van de eindafwerking van de percelen te waarborgen.
 
 ### ART. 19.
 
@@ -132,11 +132,11 @@ De Vlaamse regering kan nadere regels bepalen voor de financiële zekerheden.
 
 ### ART. 26.
 
-De Vlaamse regering bepaalt de regels tot vaststelling van de natuurlijke samenstelling van oppervlaktedelfstoffen.
+De Vlaamse Regering bepaalt de criteria van de natuurlijke samenstelling waaraan een oppervlaktedelfstof die uit een ontginningsgebied afkomstig is, moet voldoen om een primaire oppervlaktedelfstof te zijn.<br /><br />Als het departement vaststelt dat het om een primaire oppervlaktedelfstof gaat, levert het een certificaat van herkomst af.
 
 ### ART. 27.
 
-§ 1. Indien de primaire oppervlaktedelfstoffen beantwoorden aan deze natuurlijke samenstelling, wordt door het departement een certificaat van herkomst afgeleverd dat het gebruik van deze primaire oppervlaktedelfstoffen regelt.<br /><br />§ 2. De Vlaamse regering bepaalt de voorwaarden voor de aanvraag, de toekenning en het gebruik van het certificaat.
+§ 1. Met uitzondering van het geval, vermeld in het tweede lid, mogen in ontginningsgebieden alleen primaire oppervlaktedelfstoffen waarvoor een certificaat van herkomst is afgeleverd, ontgonnen worden.<br /><br />Oppervlaktedelfstoffen die, zonder enige behandeling die de milieuhygiënische kwaliteit negatief beïnvloedt en zonder tussentijdse opslag, onder de verantwoordelijkheid van de vergunninghouder getransporteerd worden van de plaats van ontginning naar de plaats van een productieproces waarbij die oppervlaktedelfstoffen als grondstof ingezet worden, mogen ontgonnen worden zonder dat daarvoor een certificaat van herkomst is afgeleverd. Het is aan de vergunninghouder om aan te tonen dat de oppervlaktedelfstoffen aan deze voorwaarden voldoen. Het departement ziet erop toe of aan deze voorwaarden is voldaan. <br /><br />§ 2. De Vlaamse Regering bepaalt de voorwaarden voor de aanvraag, de toekenning, de schorsing, de intrekking en het gebruik van het certificaat van herkomst.
 
 ## HOOFDSTUK VI ALTERNATIEVE MATERIALEN
 
@@ -148,7 +148,7 @@ De Vlaamse regering kan binnen de beschikbare begrotingsmiddelen, ter stimulerin
 
 ### ART. 29.
 
-§ 1. Worden gestraft met een gevangenisstraf van acht dagen tot één maand en met een geldboete van vijftig tot twintigduizend euro of met één van deze straffen alleen:<br />1° diegenen die onderzoeken van of in opdracht van het departement of de Vlaamse regering hinderen of weigeren informatie te verstrekken die zij moeten meedelen krachtens dit decreet, of de personen die bewust verkeerde of onvolledige informatie verstrekken;<br />2° de vergunninghouders die de bepalingen van artikelen 9 en 20 overtreden;<br />3° diegenen die deels of volledig in gebreke blijven bij de uitvoering van de vastgelegde eindafwerking.<br /><br />§ 2. Naast de opgelegde sanctie kunnen de hoven en de rechtbanken beslissen tot herstel van de plaats in de oorspronkelijke toestand.
+Voor dit decreet en haar uitvoeringsbesluiten gebeurt het uitoefenen van toezicht, het opleggen van bestuurlijke maatregelen, het onderzoeken van milieu-inbreuken, het opleggen van bestuurlijke geldboeten, het innen en invorderen van verschuldigde bedragen, het opsporen van milieumisdrijven, het strafrechtelijk sanctioneren van milieumisdrijven en het opleggen van veiligheidsmaatregelen volgens de regels bepaald in titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.
 
 ## HOOFDSTUK VIII SLOTBEPALINGEN
 
