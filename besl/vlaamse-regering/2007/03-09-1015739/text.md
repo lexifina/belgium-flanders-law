@@ -1344,7 +1344,7 @@ In uitvoering van artikel 29, § 1, van het Mestdecreet, wordt in de lijst, die 
 
 ### ART. 15.
 
-Onverminderd de bevoegdheden van de officieren van gerechtelijke politie en van de burgemeester houden de volgende ambtenaren, ieder wat hun opdracht betreft, toezicht op de toepassing van het Mestdecreet en de uitvoeringsbesluiten ervan :<br />1° de door de minister aangestelde ambtenaren van niveau A, B en C van de<br />Vlaamse Landmaatschappij;<br />2° de door de minister aangestelde ambtenaren van niveau A, B en C van het Vlaams Ministerie van Leefmilieu, Natuur en Energie;<br />3° de door de gemeente aangewezen agenten van de lokale politie en de technische ambtenaren van de gemeente die :<br />a) ofwel in het bezit zijn van een bekwaamheidsbewijs waaruit blijkt dat zij een opleiding hebben genoten overeenkomstig de bepalingen van het besluit van de Vlaamse regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de Milieuvergunning;<br />b) ofwel van voormelde opleiding zijn vrijgesteld overeenkomstig de bepalingen van hetzelfde besluit.<br />
+...
 
 ## HOOFDSTUK VII [... (opgeh. BVR 22 december 2017, art. 2, I: 1 januari 2018)]
 
