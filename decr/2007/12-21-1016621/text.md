@@ -106,7 +106,7 @@ Artikel 55 van hetzelfde decreet, gewijzigd bij het decreet van 20 april 1994, w
 
 ### ART. 23.
 
-Artikel 56 van hetzelfde decreet, gewijzigd bij de decreten van 19 april 1994, 30 april 2004 en 22 april 2005, wordt vervangen door wat volgt :<br />« Artikel 56. Met betrekking tot dit decreet en zijn uitvoeringsbesluiten gebeuren het onderzoek, de vaststelling en de sanctionering van de milieu-inbreuken en milieumisdrijven volgens de regels bepaald in titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br /><br />Deze bepaling is evenwel niet van toepassing op de overtreding van de verplichting om aan de heffing te voldoen, vermeld in artikel 51. ».<br /><br />
+Artikel 56 van hetzelfde decreet, gewijzigd bij de decreten van 19 april 1994, 30 april 2004 en 22 april 2005, wordt vervangen door wat volgt :<br />« Artikel 56. Met betrekking tot dit decreet en zijn uitvoeringsbesluiten gebeuren het onderzoek, de vaststelling en de sanctionering van de milieu-inbreuken en milieumisdrijven volgens de regels bepaald in titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br /><br />Deze bepaling is evenwel niet van toepassing op de overtreding van de verplichting om aan de heffing te voldoen, vermeld in de artikelen 50 en 51. ».<br /><br />
 
 ### ART. 24.
 
@@ -186,7 +186,7 @@ Artikel 173 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Artik
 
 ### ART. 41.
 
-De Vlaamse Regering bezorgt binnen drie jaar na de inwerkingtreding van dit decreet aan het Vlaams Parlement een verslag over de wijze waarop het is toegepast en doet eventueel de nodige voorstellen tot aanpassing van het decreet. Bij deze evaluatie onderzoekt de Vlaamse Regering ook de mogelijkheid om bij de oplegging van bestuurlijke maatregelen ook een bestuurlijke dwangsom te voorzien.<br /><br />
+De Vlaamse Regering bezorgt binnen drie jaar na de inwerkingtreding van dit decreet aan het Vlaams Parlement een verslag over de wijze waarop het is toegepast en doet eventueel de nodige voorstellen tot aanpassing van het decreet. Bij deze evaluatie onderzoekt de Vlaamse Regering ook de mogelijkheid om bij de oplegging van bestuurlijke maatregelen ook een bestuurlijke transactie en een bestuurlijke dwangsom te voorzien.<br /><br />
 
 ### ART. 42.
 
