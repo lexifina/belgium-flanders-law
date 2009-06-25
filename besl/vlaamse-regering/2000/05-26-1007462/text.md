@@ -254,31 +254,31 @@ Het afdelingshoofd en de ambtenaren van de dienst heffingen van de afdeling Mest
 
 ### ART. 53.
 
-§ 1. De in het decreet bedoelde stalen kunnen worden genomen van alle meststoffen, voeders, bodem, lucht, water, fauna en flora en van alle stoffen, voor zover zij tot doel hebben de oorzaken van verontreiniging door meststoffen op te sporen.<br /><br />§ 2. De stalen worden genomen door de ambtenaar belast met het toezicht.<br /><br />Laboratoria kunnen, in aanwezigheid van en volgens de instructies van de toezichthoudende ambtenaar, eveneens tot staalname overgaan, indien zij hiertoe erkend zijn volgens de criteria bepaald in hoofdstuk X.
+...
 
 ### ART. 54.
 
-§ 1. De grootte van de in artikel 53 bedoelde stalen wordt zodanig gekozen dat voldoende materiaal aanwezig is om de beoordeling en/of de analyses mogelijk te maken die nodig zijn om de samenstelling van de stalen te bepalen.<br /><br />§ 2. Elk staal zal bestaan uit twee identieke delen waarvan de recipiënten na staalname ter plaatse verzegeld worden. Alle verrichtingen bij de staalname, die noodzakelijk zijn voor een goede ontleding van het staal, moeten op beide delen gebeuren en in het proces-verbaal worden vermeld.<br /><br />§ 3. De stalen worden verzameld in gepaste recipinten, afhankelijk van de aard van de te bemonsteren stof. De stalen worden verpakt en verzegeld met de stempel van de toezichthoudende ambtenaar die tot de staalname overgaat om elke vervanging, verwijdering of bijvoeging van welke aard dan ook te vermijden.<br /><br />De buitenverpakking van elk staal bevat de volgende aanduidingen:<br /><br />1° opdrachtgever<br /><br />2° een volgnummer<br /><br />3° aard van de genomen stof;<br /><br />4° uit te voeren analyses<br /><br />5° datum, uur en plaats van de staalname;<br /><br />6° naam en handtekening van de toezichthoudende ambtenaar die de staalname uitgevoerd heeft.<br /><br />§ 4. De toezichthoudende ambtenaar die de staalname heeft uitgevoerd, nodigt de vermoedelijke overtreder, zijn vertegenwoordiger, een getuige of een andere ambtenaar uit een willekeurig merkteken aan te brengen op de buitenverpakking van de 2 exemplaren van het staal.<br /><br />§ 5. Van iedere staalname moet een proces-verbaal worden opgesteld, waarbij de uitvoering van de staalname vastgesteld wordt. Het proces-verbaal van staalname en zijn bijlage, worden gedateerd en ondertekend door de ambtenaar die de stalen neemt en medeondertekend door een andere ambtenaar, of bij ontstentenis, door een getuige, opgeroepen om de staalname bij te wonen.
+...
 
 ### ART. 55.
 
-De ambtenaar die de stalen heeft genomen, overhandigt of zendt binnen vijf werkdagen, volgend op de datum van de staalname, een afschrift van het proces-verbaal van staalname en zijn bijlage:<br /><br />1° aan de vermoedelijke overtreder of aan zijn vertegenwoordiger;<br /><br />2° aan het hoofd van het laboratorium dat de officiële analyse uitvoert voor het monster dat genomen werd.
+...
 
 ### ART. 56.
 
-§ 1. Zowel voor de analyse als voor de contra-analyse, worden de monsters door de toezichthoudend ambtenaar bewaard en uiterlijk de eerste werkdag, volgend op de monsterneming aan een voor de uitvoering van deze analyse erkend laboratorium, belast met de officiële analyse, verstuurd onder fysische omstandigheden die wijzigingen in de samenstelling van het staal zoveel mogelijk vermijden.<br /><br />§ 2. Het gedeelte van het monster dat voor een eventuele contra-analyse is bestemd, wordt gedurende 30 dagen, volgend op de dag van de bemonstering, onder de fysische en chemische voorwaarden zoals bepaald door het referentielaboratorium ter beschikking gehouden van de vermoedelijke overtreder. De vermoedelijke overtreder of zijn vertegenwoordiger bewaart in dit geval eveneens het monster onder de fysische en chemische voorwaarden zoals bepaald door het referentielaboratorium. Een eventuele contra-analyse gebeurt op kosten van de vermoedelijke overtreder door een erkend laboratorium.
+...
 
 ### ART. 57.
 
-§ 1. Als uit het analyseverslag een overtreding blijkt, zal een proces-verbaal van overtreding worden opgemaakt waarna dit samen met het analyseverslag en het proces-verbaal van monstername binnen veertien dagen na vaststelling van de overtreding gezonden wordt naar het bevoegde parket.<br /><br />§ 2. Een afschrift van het proces-verbaal van overtreding samen met het analyseverslag wordt eveneens binnen veertien dagen na vaststelling van de overtreding toegezonden aan de overtreder.
+...
 
 ### ART. 58.
 
-De Mestbank kan op dierlijke mest en andere meststoffen alle analyses laten uitvoeren die zij nodig acht.
+...
 
 ### ART. 59.
 
-Als uit een dergelijke analyse blijkt dat er in de dierlijke mest of andere meststoffen, stoffen in abnormale concentraties aanwezig zijn, of dat er zich in de dierlijke mest of andere meststoffen chemische of biologische stoffen bevinden vreemd aan dierlijke mest of andere meststoffen, kan de Mestbank aan de producent verplichtingen opleggen, dat hetzij afzet niet op de gebruikelijke wijze of op slechts een beperkt aantal cultuurgronden mogelijk is, hetzij de dierlijke mest of andere meststoffen dienen te worden vernietigd.
+...
 
 ## HOOFDSTUK X VOORWAARDEN VOOR DE ERKENNING VAN LABORATORIA
 
