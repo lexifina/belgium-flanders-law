@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017999,
+  "title": "Besluit van de Vlaamse Regering van 2009-04-24 betreffende de omzetting van de Europese Richtlijn 2005/36 voor wervingsambten in het onderwijs en voor sommige functies in de basiseducatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017999/VolledigDocument?datum=2009-06-26",
+  "source_sha256": "85e1971f559d337034580f9201138276066648476a02322cef819b8882e30568",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017999&param=informatie",
+  "as_of": "2009-06-26",
+  "made": "2009-04-24",
+  "gazette": "2009-06-16",
+  "numac": 2009035539,
+  "document_start": "2009-06-26",
+  "document_end": "2016-01-17",
+  "in_force": "2009-06-26",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2009-06-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
