@@ -2,16 +2,16 @@
   "codex_id": 1005463,
   "title": "Besluit van de Vlaamse Regering van 1997-04-15 [tot bepaling van de voorwaarden en vorm van het conformiteitsattest voor wervingsambten in het onderwijs ter uitvoering van de Europese Richtlijnen 89/48/, 92/51 en 2001/19]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005463/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "74fc6b268e8580fcb30f0e249a502b109dd5049dd882f7868e767e26b9b20af7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005463/VolledigDocument?datum=2009-06-26",
+  "source_sha256": "b7571095b0d5bb7cefe9bc228f292a038eea6829ec73eaa7218661e132b7c8d8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005463&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-06-26",
   "made": "1997-04-15",
   "gazette": "1997-07-10",
   "numac": 1997035646,
   "document_start": "1997-07-10",
   "document_end": "2009-06-25",
-  "in_force": "2006-06-01",
+  "in_force": "2009-06-26",
   "article_versions": 51,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-06-26; future article versions excluded; article text as the API gives it"
 }
