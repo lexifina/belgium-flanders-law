@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018138,
+  "title": "Ministerieel besluit van 2009-06-25 tot vaststelling van de steunbedragen voor het landbouwdeel uit het Herstructureringsfonds van de suikerindustrie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018138/VolledigDocument?datum=2009-06-26",
+  "source_sha256": "60b08f3d36e962f1421948815fbbea71a75d53ff933176e9224c111e6df53b28",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018138&param=informatie",
+  "as_of": "2009-06-26",
+  "made": "2009-06-25",
+  "gazette": "2009-07-16",
+  "numac": 2009035661,
+  "document_start": "2009-06-26",
+  "document_end": null,
+  "in_force": "2009-06-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-06-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
