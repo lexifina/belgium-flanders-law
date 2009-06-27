@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018002,
+  "title": "Besluit van de Vlaamse Regering van 2009-04-30 houdende de toekenning van subsidies aan de Vlaamse Maatschappij voor Sociaal Wonen voor het vervangen van ramen door thermisch isolerende ramen door sociale huisvestingsmaatschappijen en voor het uitwerken van een energetische optimalisatieprocedure door de VMSW met toepassing van REG-maatregelen voor bestaande collectieve installaties voor verwarming, sanitair en ventilatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018002/VolledigDocument?datum=2009-06-27",
+  "source_sha256": "7882d61171c01655ab40e89857a6da1d4985b77d53d9a6c437fb5327b6423df1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018002&param=informatie",
+  "as_of": "2009-06-27",
+  "made": "2009-04-30",
+  "gazette": "2009-06-17",
+  "numac": 2009202374,
+  "document_start": "2009-06-27",
+  "document_end": null,
+  "in_force": "2009-06-27",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2009-06-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
