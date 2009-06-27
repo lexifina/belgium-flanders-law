@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018003,
+  "title": "Ministerieel besluit van 2009-05-20 houdende de erkenning van het intern tuchtreglement inzake dopingpraktijken van elitesporters of begeleiders",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018003/VolledigDocument?datum=2009-06-27",
+  "source_sha256": "1eda600929888f50ff454a9fbb34a530e83a6ab962f54c66e2b9dade88cf96c8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018003&param=informatie",
+  "as_of": "2009-06-27",
+  "made": "2009-05-20",
+  "gazette": "2009-06-17",
+  "numac": 2009202540,
+  "document_start": "2009-06-27",
+  "document_end": null,
+  "in_force": "2009-06-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-06-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
