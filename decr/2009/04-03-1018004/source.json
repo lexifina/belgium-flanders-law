@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018004,
+  "title": "Decreet van 2009-04-03 houdende instemming met het besluit van de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, betreffende de voorrechten en immuniteiten die aan het Europees Defensieagentschap en zijn personeel worden verleend, ondertekend in Brussel op 10 november 2004",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018004/VolledigDocument?datum=2009-06-28",
+  "source_sha256": "29f4815ba4435370b2bde7688ad4a68a566b84574515bb5d9e1b11c2c45f36e9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018004&param=informatie",
+  "as_of": "2009-06-28",
+  "made": "2009-04-03",
+  "gazette": "2009-06-18",
+  "numac": 2009202389,
+  "document_start": "2009-06-28",
+  "document_end": null,
+  "in_force": "2009-06-28",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-06-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
