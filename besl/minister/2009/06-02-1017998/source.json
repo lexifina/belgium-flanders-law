@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017998,
+  "title": "Ministerieel besluit van 2009-06-02 tot vaststelling van bepaalde afwijkingen voor de toelating van landrassen en rassen in de landbouw die zich op natuurlijke wijze hebben aangepast aan de lokale en regionale omstandigheden en die door genetische erosie worden bedreigd, en voor het in de handel brengen van zaaizaad en pootaardappelen van die landrassen en rassen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017998/VolledigDocument?datum=2009-06-30",
+  "source_sha256": "f7fd94a91a755f79722b044e91aad71c84f421bf43418e31becaf2bd03951764",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017998&param=informatie",
+  "as_of": "2009-06-30",
+  "made": "2009-06-02",
+  "gazette": "2009-06-15",
+  "numac": 2009035483,
+  "document_start": "2009-06-30",
+  "document_end": null,
+  "in_force": "2009-06-30",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2009-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
