@@ -92,19 +92,19 @@
 
 ### ART. 18.
 
-De verificatie en afrekening verlopen conform de procedure in hoofdstuk V, afdeling IV, van het algemene erkennings- en subsidiëringsbesluit.
+...
 
 ## Afdeling II Inspectie over de uitvoering van het convenant
 
 ### ART. 19.
 
-Het Bloso kan te allen tijde een inspectie uitvoeren over de wijze waarop het convenant zoals bepaald in artikel 10, respectievelijk artikel 13 wordt uitgevoerd tijdens het werkingsjaar.
+...
 
 ## HOOFDSTUK VI Wijze en tijdstip van uitbetaling
 
 ### ART. 20.
 
-De subsidie, bepaald in artikel 14, wordt uitbetaald in het jaar waarin de analyse wordt ingediend bij het Bloso.<br /><br />De subsidies, bepaald in artikel 15 en 16, worden als volgt uitbetaald: per trimester wordt een voorschot uitbetaald. Elk voorschot bedraagt 22,5 percent van de subsidies die toegekend werden voor het voorlaatste werkjaar, voorafgaand aan het begrotingsjaar.<br /><br />Voor sportfederaties en gehandicaptensportfederaties die tijdens het voorlaatste werkjaar voorafgaand aan het begrotingsjaar geen subsidies hebben gekregen, bedraagt elk voorschot 20 percent van de subsidies waarop de sportfederatie of gehandicaptensportfederatie aanspraak kan maken op basis van de ingediende subsidiëringsaanvraag voor het begrotingsjaar.<br /><br />Het saldo van de subsidies wordt uitbetaald vóór 1 juli van het jaar dat volgt op het gesubsidieerde werkingsjaar, nadat het Bloso de uitgaven die in het voorbije jaar gedaan werden en de voorgelegde betalingsbewijzen heeft goedgekeurd.
+...
 
 ## HOOFDSTUK VII Slotbepalingen
 
