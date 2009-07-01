@@ -12,7 +12,7 @@ De werkingskosten van de Beroepscommissie voor tuchtzaken zijn ten laste van de 
 
 ### ART. 2.
 
-De Beroepscommissie is samengesteld uit drie leden, die door de Vlaamse minister bevoegd voor binnenlands bestuur worden benoemd voor een hernieuwbare periode van zes jaar. De vacatures voor de Beroepscommissie zullen worden bekendgemaakt in het Belgisch Staatsblad.<br /><br />De Beroepscommissie bestaat uit een voorzitter, een assessor die werkzaam is in een lokaal of provinciaal bestuur en een assessor-deskundige met bijzondere kennis van het tuchtrecht of van het administratief recht. <br /><br />Voor de drie leden gelden de volgende voorwaarden<br />1° ze zijn Belg;<br />2° ze hebben het volledige genot van alle burgerlijke en politieke rechten;<br />3° ze oefenen geen mandaat uit van gemeente- of provincieraadslid.<br /><br />Voor ieder effectief lid van de Beroepscommissie wijst de Vlaamse minister bevoegd voor binnenlands bestuur een plaatsvervanger aan die voldoet aan dezelfde voorwaarden. <br /><br />
+De Beroepscommissie is samengesteld uit drie leden, die door de Vlaamse minister bevoegd voor binnenlands bestuur worden benoemd voor een hernieuwbare periode van zes jaar. De vacatures voor de Beroepscommissie zullen worden bekendgemaakt in het Belgisch Staatsblad.<br /><br />De Beroepscommissie bestaat uit een voorzitter, een assessor die in een gemeentebestuur, een provinciebestuur of een openbaar centrum voor maatschappelijk welzijn werkt en een assessor-deskundige met bijzondere kennis van het tuchtrecht of van het administratief recht. <br /><br />Voor de drie leden gelden de volgende voorwaarden<br />1° ze zijn Belg;<br />2° ze hebben het volledige genot van alle burgerlijke en politieke rechten;<br />3° ze oefenen geen mandaat uit van gemeenteraadslid, provincieraadslid of lid van een raad voor maatschappelijk welzijn.<br /><br />Voor ieder effectief lid van de Beroepscommissie wijst de Vlaamse minister bevoegd voor binnenlands bestuur een plaatsvervanger aan die voldoet aan dezelfde voorwaarden. <br /><br />
 
 ### ART. 3.
 
@@ -20,7 +20,7 @@ De voorzitter van de Beroepscommissie voldoet aan een van de volgende voorwaarde
 
 ### ART. 4.
 
-De assessor, afkomstig uit een lokaal of provinciaal bestuur, moet minstens zeven jaar een functie op A-niveau uitoefenen in een lokaal of provinciaal bestuur. <br /><br />
+De assessor, afkomstig uit een gemeentebestuur, een provinciebestuur of een openbaar centrum voor maatschappelijk welzijn moet minstens zeven jaar een functie op A-niveau uitoefenen in een gemeentebestuur, een provinciebestuur of een openbaar centrum voor maatschappelijk welzijn. <br /><br />
 
 ### ART. 5.
 
@@ -28,7 +28,7 @@ De assessor-deskundige met bijzondere kennis van het tuchtrecht moet een academi
 
 ### ART. 6.
 
-Een lid van de Beroepscommissie mag niet optreden als raadsman van een personeelslid voor de Beroepscommissie of voor de tuchtoverheid. De assessor afkomstig uit een lokaal of provinciaal bestuur mag niet deelnemen aan de behandeling van een zaak waarbij zijn eigen bestuur betrokken partij is.<br /><br />
+Een lid van de Beroepscommissie mag niet optreden als raadsman van een personeelslid voor de Beroepscommissie of voor de tuchtoverheid. De assessor, die bij een gemeentebestuur, een provinciebestuur of bij een openbaar centrum voor maatschappelijk welzijn werkt, mag niet deelnemen aan de behandeling van een zaak als het eigen bestuur betrokken partij is.<br /><br />
 
 ### ART. 7.
 
@@ -64,7 +64,7 @@ Op elk ogenblik van de beroepsprocedure kan de Beroepscommissie aanvullende onde
 
 ### ART. 14.
 
-Met toepassing van artikel 141 van het Gemeentedecreet en artikel 137 van het Provinciedecreet kan de Beroepscommissie een andere kwalificatie aan de feiten geven en kan een andere tuchtstraf worden opgelegd.<br>
+Met toepassing van artikel 141 van het Gemeentedecreet, artikel 140 van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn en artikel 137 van het Provinciedecreet kan de Beroepscommissie een andere kwalificatie aan de feiten geven en kan een andere tuchtstraf worden opgelegd.<br>
 &nbsp;
 
 ### ART. 15.
