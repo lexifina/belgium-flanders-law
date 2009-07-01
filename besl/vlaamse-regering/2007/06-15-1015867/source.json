@@ -2,16 +2,16 @@
   "codex_id": 1015867,
   "title": "Besluit van de Vlaamse Regering van 2007-06-15 houdende vaststelling van de tuchtprocedure voor de mandatarissen in uitvoering van artikelen 71 en 274 van het gemeentedecreet, [artikel 70 van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn (verv. BVR 3 april 2009)] en artikel 69 van het provinciedecreet",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015867/VolledigDocument?datum=2007-06-29",
-  "source_sha256": "118d87aadff0b17549c7453a562a3041678363e39bab2187a67bd293eb193424",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015867/VolledigDocument?datum=2009-07-01",
+  "source_sha256": "278594418d0fa37f499b6b991ae0db0bec195f0d6caf07d7fef16150a17d6cf2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015867&param=informatie",
-  "as_of": "2007-06-29",
+  "as_of": "2009-07-01",
   "made": "2007-06-15",
   "gazette": "2007-06-19",
   "numac": 2007035946,
   "document_start": "2007-06-29",
   "document_end": "2009-06-30",
-  "in_force": "2007-06-29",
+  "in_force": "2009-07-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2007-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-07-01; future article versions excluded; article text as the API gives it"
 }
