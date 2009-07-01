@@ -22,7 +22,7 @@ Het exploitatiebudget is het budget van kosten en opbrengsten van het centrum in
 
 ### ART. 5.
 
-Het investeringsbudget is het budget van uitgaven en ontvangsten, en kosten en opbrengsten verbonden aan de aanschaf en vervreemding van duurzame middelen.<br /><br />Er wordt een investeringsbudget per investeringsproject opgesteld. In het investeringsbudget worden minimaal opgenomen:<br /><br />1° de te investeren som;<br /><br />2° de vooropgestelde realisatietermijn;<br /><br />3° de te ontvangen subsidies;<br /><br />4° de kosten, opbrengsten, schulden en vorderingen uit de exploitatie van het project;<br /><br />5° de kasstroom per jaar en de financieringswijze;<br /><br />6° de verdeling over de activiteitencentra;<br /><br />7° de verdeling over de verschillende rekeningen van het door het centrum gebruikte rekeningstelsel.<br /><br />De minister, bevoegd voor de bijstand aan personen, bepaalt de nadere regelen inzake de vorm en de inhoud van het investeringsbudget.<br /><br />Het investeringsbudget blijft, wanneer de investering nog niet in uitvoering is, drie jaar geldig. Verlenging is mogelijk voor zover de raad daarmee instemt. Eénmaal een investering in uitvoering blijft het budget geldig. De raad kan echter bij de goedkeuring van een bepaald investeringsbudget de termijn beperken.
+Het investeringsbudget is het budget van uitgaven en ontvangsten, en kosten en opbrengsten verbonden aan de aanschaf en vervreemding van duurzame middelen.<br /><br />Er wordt een investeringsbudget per investeringsproject opgesteld. In het investeringsbudget worden minimaal opgenomen:<br />1° de te investeren som;<br />2° de vooropgestelde realisatietermijn;<br />3° de te ontvangen subsidies;<br />4° de kosten, opbrengsten, schulden en vorderingen uit de exploitatie van het project;<br />5° de kasstroom per jaar en de financieringswijze;<br />6° de verdeling over de activiteitencentra;<br />7° de verdeling over de verschillende rekeningen van het door het centrum gebruikte rekeningstelsel.<br /><br />De minister, bevoegd voor de bijstand aan personen, bepaalt de nadere regelen inzake de vorm en de inhoud van het investeringsbudget.
 
 ### ART. 6.
 
@@ -34,11 +34,15 @@ De gebudgetteerde gemeentelijke bijdrage wordt bepaald door samentelling van de 
 
 ### ART. 8.
 
-De beleidsnota verwoordt het beleid dat de raad gedurende het boekjaar wenst te voeren.<br /><br />De beleidsnota omvat minimaal:<br /><br />1° een bespreking van de beleidsdoelstellingen van het centrum en van de operationele doelstellingen van elke budgethouder;<br /><br />2° een bespreking van de gebudgetteerde kosten en opbrengsten per activiteitencentrum;<br /><br />3° een analyse van de kostprijzen;<br /><br />4° een bespreking van de financiële toestand van het centrum.
+...
 
 ### ART. 9.
 
 Voor de definitieve vaststelling van het exploitatiebudget mogen, door middel van voorlopige kredieten, uitgaven worden gedaan waarvoor een uitvoerbaar krediet uitgetrokken was op het exploitatiebudget van het vorige boekjaar.<br /><br />Deze voorlopige kredieten mogen, per verlopen of begonnen maand, niet meer bedragen dan één twaalfde van het exploitatiebudget van het vorige boekjaar met een maximum van drie twaalfden.
+
+### ART. 9bis.
+
+Interne kredietaanpassingen zijn, wat betreft de exploitatie, kredietaanpassingen die het totaalbedrag aan kaskosten en kasopbrengsten van een bepaald activiteitencentrum niet wijzigen, interne facturatie niet meegerekend.<br /> <br />Interne kredietaanpassingen zijn, wat betreft investeringen, kredietaanpassingen die uitgevoerd worden binnen dezelfde investeringsenveloppe en die het totaalbedrag aan investeringsuitgaven niet verhogen of die niet tot gevolg hebben dat de financieringswijze van een investeringsproject wordt gewijzigd.
 
 ## TITEL III BOEKHOUDING EN JAARREKENING
 
@@ -310,13 +314,17 @@ Het financieel gedeelte omvat minimaal de volgende informatie:<br /><br />1° ee
 
 ### ART. 67.
 
-De secretaris en de ontvanger zijn elk verantwoordelijk voor de administratieve organisatie en voor het opzetten van interne controleprocedures aangaande de materies die tot hun respectieve bevoegdheden behoren. Deze worden opgenomen in het administratief handboek dat ter kennis wordt gebracht van de raad.<br /><br />Met administratieve organisatie wordt bedoeld: de procedures en richtlijnen die ervoor moeten zorgen dat, binnen het kader van de door de raad vastgestelde beleidslijnen, de administratie ordelijk en efficiënt verloopt.
+...
 
 ### ART. 68.
 
 De secretaris en de ontvanger hebben inzage in alle stukken die voor het uitoefenen van hun bevoegdheden van belang zijn.
 
 ## HOOFDSTUK II UITGAVENCYCLUS
+
+### ART. 68bis.
+
+In de openbare centra voor maatschappelijk welzijn van gemeenten waarvan het inwonersaantal 20 000 inwoners of minder bedraagt, kunnen de verrichtingen, waarvan het bedrag niet hoger is dan 7.500 euro, belasting over de toegevoegde waarde niet inbegrepen, door de raad voor maatschappelijk welzijn uitgesloten worden van de visumverplichting.<br /><br />In de openbare centra voor maatschappelijk welzijn van gemeenten waarvan het inwonersaantal meer dan 20 000 inwoners maar niet meer dan 35 000 inwoners bedraagt, kunnen de verrichtingen, waarvan het bedrag niet hoger is dan 25.000 euro, belasting over de toegevoegde waarde niet inbegrepen, door de raad voor maatschappelijk welzijn uitgesloten worden van de visumverplichting.<br /><br />In de openbare centra voor maatschappelijk welzijn van gemeenten waarvan het inwonersaantal meer dan 35 000 inwoners bedraagt, kunnen de verrichtingen, waarvan het bedrag niet hoger is dan 67.000 euro, belasting over de toegevoegde waarde niet inbegrepen, door de raad voor maatschappelijk welzijn uitgesloten worden van de visumverplichting.<br /><br />In afwijking van het eerste, tweede en het derde lid kunnen de aanstellingen waarvan de duur niet meer bedraagt dan één jaar, door de raad voor maatschappelijk welzijn uitgesloten worden van de visumverplichting. Contracten van onbepaalde duur worden voor de toepassing van deze bepaling gelijkgesteld met een aanstelling van meer dan één jaar. Bij opeenvolgende contracten voor dezelfde functie moet de totale duur worden aangenomen voor de toepassing van deze bepaling.<br /><br />De beperking tot aanstellingen van niet meer dan één jaar vermeld in het vierde lid geldt niet in de volgende gevallen :<br />1° een tewerkstelling met toepassing van artikel 60, § 7, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn;<br />2° een tewerkstelling ter uitvoering van andere dan in het 1° vermelde werkgelegenheidsmaatregelen van hogere overheden voor maximum 4 jaar in het kader van de opdracht van het openbaar centrum voor maatschappelijk welzijn vermeld in hoofdstuk IV, afdeling 1, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn of in het kader van de opdracht van het openbaar centrum voor maatschappelijk welzijn vermeld in artikelen 8, 9 of 13, van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie.<br /><br />In afwijking van het eerste, tweede en het derde lid kunnen investeringssubsidies door de raad voor maatschappelijk welzijn niet uitgesloten worden van de visumverplichting.
 
 ### ART. 69.
 
@@ -328,11 +336,11 @@ Voor zover vereist, legt de budgethouder het stuk dat aanleiding geeft tot een u
 
 ### ART. 71.
 
-Voor ieder uitgaand stuk dat aanleiding geeft tot een betaling moet onmiddellijk het nodige krediet gereserveerd worden. De financiële dienst registreert iedere binnenkomende factuur en stuurt ze ter goedkeuring aan de budgethouder.<br /><br />Wanneer een factuur niet in overeenstemming is met de bestelling neemt de budgethouder contact op met de leverancier om zich te vergewissen van de rechtsgeldigheid van de factuur. Als de budgethouder de factuur niet goedkeurt, neemt deze gepaste maatregelen om het centrum te vrijwaren in al zijn rechten en stelt hij de ontvanger daarvan in kennis.
+Voor ieder uitgaand stuk dat aanleiding geeft tot een betaling moet onmiddellijk het nodige krediet gereserveerd worden. <br /><br />Wanneer een factuur niet in overeenstemming is met de bestelling neemt de budgethouder of zijn gemachtigde contact op met de leverancier om zich te vergewissen van de rechtsgeldigheid van de factuur. Als de budgethouder of zijn gemachtigde de factuur niet goedkeurt, neemt deze gepaste maatregelen om het centrum te vrijwaren in al zijn rechten en stelt hij de ontvanger daarvan in kennis.
 
 ### ART. 72.
 
-Enkel de door de budgethouder goedgekeurde facturen waarvan de wetmatigheid door de ontvanger is nagezien, worden door de ontvanger betaald.<br /><br />De kwijting bij betaling in gereed geld wordt gegeven op de factuur.
+...
 
 ### ART. 73.
 
@@ -364,7 +372,7 @@ De totale loonstaten volgen voor de inboeking de doorlopende nummering van de aa
 
 ### ART. 79.
 
-Ieder activiteitencentrum zorgt, onder verantwoordelijkheid van de secretaris, voor het opstellen van een uitgaande factuur voor zijn prestaties of zijn leveringen van goederen, desgevallend na kennisgeving door de ontvanger van een inning waarvoor geen factuur werd opgesteld.<br /><br />De uitgaande facturen zijn doorlopend genummerd. Zij worden minimaal eens per maand onder verantwoordelijkheid van de ontvanger centraal ingeboekt. Het per activiteitencentrum inboeken van één of meer verzamelfacturen van gelijksoortige prestaties is toegestaan.<br /><br />Alle vorderingen worden ingeboekt op basis van afzonderlijke bewijsdocumenten.<br /><br />De ontvanger stelt de secretaris in kennis van de ontvangsten waarvoor nog geen uitgaande facturen werden opgesteld. Indien de secretaris deze ontvangsten niet heeft toegewezen binnen een termijn van één maand na kennisgeving, en uiterlijk op 31 december, dan beslist de ontvanger over de toewijzing.
+De uitgaande facturen zijn doorlopend genummerd. Zij worden minimaal eens per maand onder verantwoordelijkheid van de ontvanger centraal ingeboekt. Het per activiteitencentrum inboeken van één of meer verzamelfacturen van gelijksoortige prestaties is toegestaan.<br /><br />Alle vorderingen worden ingeboekt op basis van afzonderlijke bewijsdocumenten.<br /><br />De ontvanger stelt de secretaris in kennis van de ontvangsten waarvoor nog geen uitgaande facturen werden opgesteld. Indien de secretaris deze ontvangsten niet heeft toegewezen binnen een termijn van één maand na kennisgeving, en uiterlijk op 31 december, dan beslist de ontvanger over de toewijzing.
 
 ### ART. 80.
 
@@ -412,7 +420,7 @@ De jaarrekeningen en de eindrekeningen kunnen niet meer gewijzigd worden nadat z
 
 ### ART. 90.
 
-Er wordt een Vlaamse Commissie voor de OCMW-Boekhouding ingesteld.<br /><br />Deze heeft tot taak de Vlaamse regering of de minister, bevoegd voor de bijstand aan personen, op hun verzoek of uit eigen beweging, van advies te dienen over:<br /><br />1° de boekhoudkundige voorschriften die op de openbare centra voor maatschappelijk welzijn van toepassing zijn;<br /><br />2° de algemeen aanvaarde goede praktijk inzake financieel management en audit van de openbare centra voor maatschappelijk welzijn.<br /><br />De minister, bevoegd voor de bijstand aan personen, bepaalt de samenstelling en de werking van deze commissie.
+...
 
 ### ART. 91.
 
