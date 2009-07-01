@@ -2,16 +2,16 @@
   "codex_id": 1019172,
   "title": "Besluit van de Vlaamse Regering van 2010-06-04 tot wijziging van diverse besluiten inzake de infrastructuur voor persoonsgebonden aangelegenheden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019172/VolledigDocument?datum=2008-10-03",
-  "source_sha256": "817f40d6c09fc4c251adb640af364612cd393bb4f398f873693ec8321ce261af",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019172/VolledigDocument?datum=2009-07-01",
+  "source_sha256": "1014f3091f842078edbcb17a605a1358c4e3449825211ea491878923e0fcd6c4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019172&param=informatie",
-  "as_of": "2008-10-03",
+  "as_of": "2009-07-01",
   "made": "2010-06-04",
   "gazette": "2010-06-25",
   "numac": 2010203423,
   "document_start": "2010-07-05",
   "document_end": null,
-  "in_force": "2008-10-03",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2008-10-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-07-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2009-07-01; future article versions excluded; article text as the API gives it"
 }
