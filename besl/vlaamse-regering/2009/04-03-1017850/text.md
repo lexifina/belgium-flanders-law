@@ -20,13 +20,65 @@ De volgende bepalingen van hetzelfde decreet treden in werking op 7 januari 2013
 
 Als artikelen van hetzelfde decreet in werking worden gesteld waarin een verwijzing naar een ander artikel van dat decreet is opgenomen en het artikel waarnaar wordt verwezen nog niet in werking is getreden, moet de tekst gelezen worden als een verwijzing naar de overeenstemmende bepaling in de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn voor zover er een overeenstemmende bepaling bestaat.
 
+### ART. 5.
+
+In artikel 5 van het besluit van de Vlaamse Regering van 17 december 1997 betreffende de boekhouding en de administratieve organisatie van de openbare centra voor maatschappelijk welzijn, wordt het vierde lid opgeheven.
+
+### ART. 6.
+
+Artikel 8 van hetzelfde besluit wordt opgeheven.
+
+### ART. 7.
+
+In titel II van hetzelfde besluit wordt een artikel 9bis ingevoegd, dat luidt als volgt :<br /><br />« Art. 9bis. Interne kredietaanpassingen zijn, wat betreft de exploitatie, kredietaanpassingen die het totaalbedrag aan kaskosten en kasopbrengsten van een bepaald activiteitencentrum niet wijzigen, interne facturatie niet meegerekend. <br /><br />Interne kredietaanpassingen zijn, wat betreft investeringen, kredietaanpassingen die uitgevoerd worden binnen dezelfde investeringsenveloppe en die het totaalbedrag aan investeringsuitgaven niet verhogen of die niet tot gevolg hebben dat de financieringswijze van een investeringsproject wordt gewijzigd. »
+
+### ART. 8.
+
+Artikel 67 van hetzelfde besluit wordt opgeheven.
+
+### ART. 9.
+
+In titel IV, hoofdstuk II, van hetzelfde besluit wordt een artikel 68bis ingevoegd, dat luidt als volgt :<br /><br />« Art. 68bis. In de openbare centra voor maatschappelijk welzijn van gemeenten waarvan het inwonersaantal 20 000 inwoners of minder bedraagt, kunnen de verrichtingen, waarvan het bedrag niet hoger is dan 7.500 euro, belasting over de toegevoegde waarde niet inbegrepen, door de raad voor maatschappelijk welzijn uitgesloten worden van de visumverplichting.<br /><br />In de openbare centra voor maatschappelijk welzijn van gemeenten waarvan het inwonersaantal meer dan 20 000 inwoners maar niet meer dan 35 000 inwoners bedraagt, kunnen de verrichtingen, waarvan het bedrag niet hoger is dan 25.000 euro, belasting over de toegevoegde waarde niet inbegrepen, door de raad voor maatschappelijk welzijn uitgesloten worden van de visumverplichting.<br /><br />In de openbare centra voor maatschappelijk welzijn van gemeenten waarvan het inwonersaantal meer dan 35 000 inwoners bedraagt, kunnen de verrichtingen, waarvan het bedrag niet hoger is dan 67.000 euro, belasting over de toegevoegde waarde niet inbegrepen, door de raad voor maatschappelijk welzijn uitgesloten worden van de visumverplichting.<br /><br />In afwijking van het eerste, tweede en het derde lid kunnen de aanstellingen waarvan de duur niet meer bedraagt dan één jaar, door de raad voor maatschappelijk welzijn uitgesloten worden van de visumverplichting. Contracten van onbepaalde duur worden voor de toepassing van deze bepaling gelijkgesteld met een aanstelling van meer dan één jaar. Bij opeenvolgende contracten voor dezelfde functie moet de totale duur worden aangenomen voor de toepassing van deze bepaling.<br /><br />De beperking tot aanstellingen van niet meer dan één jaar vermeld in het vierde lid geldt niet in de volgende gevallen :<br />1° een tewerkstelling met toepassing van artikel 60, § 7, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn;<br />2° een tewerkstelling ter uitvoering van andere dan in het 1° vermelde werkgelegenheidsmaatregelen van hogere overheden voor maximum 4 jaar in het kader van de opdracht van het openbaar centrum voor maatschappelijk welzijn vermeld in hoofdstuk IV, afdeling 1, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn of in het kader van de opdracht van het openbaar centrum voor maatschappelijk welzijn vermeld in artikelen 8, 9 of 13, van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie.<br /><br />In afwijking van het eerste, tweede en het derde lid kunnen investeringssubsidies door de raad voor maatschappelijk welzijn niet uitgesloten worden van de visumverplichting. »
+
+### ART. 10.
+
+In artikel 71 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid wordt de tweede zin opgeheven;<br />2° in het tweede lid worden de woorden « de budgethouder » telkens vervangen door de woorden « de budgethouder of zijn gemachtigde ».
+
+### ART. 11.
+
+Artikel 72 van hetzelfde besluit wordt opgeheven.
+
 ### ART. 12.
 
 Artikel 77 van hetzelfde besluit wordt vervangen door wat volgt :<br /><br />« Art. 77. § 1. De personen, vermeld in artikel 165, § 3, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn, zijn de kredietinstellingen en de financiële instellingen die erkend zijn overeenkomstig de wet van 22 maart 1993 op het statuut van en het toezicht op de kredietinstellingen.<br /><br />De opeisbare schulden die aangegaan zijn door de openbare centra voor maatschappelijk welzijn bij die personen, kunnen in mindering gebracht worden op de rekeningen van het openbaar centrum voor maatschappelijk welzijn.<br /><br />§ 2. De opeisbare schulden voortkomende uit verbintenissen uit leasingovereenkomsten zijn opeisbare schulden, vermeld in artikel 165, § 3, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn.<br /><br />De opeisbare schulden die aldus aangegaan zijn door de openbare centra voor maatschappelijk welzijn kunnen, als dat zo overeengekomen werd tussen het bestuur en de leasinggever, in mindering gebracht worden op de rekeningen van het openbaar centrum voor maatschappelijk welzijn.<br /><br />§ 3. De aan de Vlaamse overheid verschuldigde bijdrage door het openbaar centrum voor maatschappelijk welzijn voor de wedde, de kantoor-, de vormings- en de reiskosten van de gewestelijk ontvanger en de aan de Rijksdienst voor Sociale Zekerheid van de Provinciale en Plaatselijke overheidsdiensten verschuldigde sommen zijn opeisbare schulden, als vermeld in artikel 165, § 3, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn. »
 
+### ART. 13.
+
+In artikel 79 van hetzelfde besluit wordt het eerste lid opgeheven.
+
+### ART. 14.
+
+Artikel 90 van hetzelfde besluit wordt opgeheven.
+
+### ART. 15.
+
+In artikel 9, tweede lid, van het besluit van de Vlaamse Regering van 21 december 2007 houdende vaststelling van de voorwaarden waaronder de ambten van gemeentesecretaris, gemeentelijk financieel beheerder, secretaris van een openbaar centrum voor maatschappelijk welzijn en ontvanger van een openbaar centrum voor maatschappelijk welzijn deeltijds kunnen worden uitgeoefend, en houdende vaststelling van sommige gevallen waarin de ambten van gemeentelijk financieel beheerder en van ontvanger van een openbaar centrum voor maatschappelijk welzijn kunnen worden uitgeoefend door een gewestelijke ontvanger wordt de zinsnede « artikel 43, § 2, 3°, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn » vervangen door de zinsnede « artikel 75, § 3, 3°, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn ».
+
+### ART. 16.
+
+Aan artikel 219 van het besluit van de Vlaamse Regering van 7 december 2007 houdende de minimale voorwaarden voor de personeelsformatie, de rechtspositieregeling en het mandaatstelsel van het gemeentepersoneel en het provinciepersoneel en houdende enkele bepalingen betreffende de rechtspositie van de secretaris en de ontvanger van de openbare centra voor maatschappelijk welzijn, wordt een paragraaf 3 toegevoegd, die luidt als volgt :<br /><br />« § 3. Voor de toepassing van paragraaf 1 en 2 geldt het bevolkingscijfer van de gemeente, vermeld in artikel 5, § 2, eerste lid, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn. »
+
 ### ART. 17.
 
 De raad voor maatschappelijk welzijn kan geen taalpremie instellen of behouden voor de personeelsleden. Onder taalpremie wordt verstaan elke toelage, toegekend aan het personeelslid dat op grond van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd bij het koninklijk besluit van 18 juli 1966, verplicht is tot kennis van de tweede taal, of elke andere toelage, toegekend aan het personeelslid voor het gebruik van een andere taal dan het Nederlands.<br /><br />In afwijking van het eerste lid, behoudt het personeelslid dat al een taalpremie ontvangt op de datum dat dit besluit in werking treedt, die taalpremie verder tot het uit dienst van het bestuur treedt.
+
+### ART. 18.
+
+In het opschrift van het besluit van de Vlaamse Regering van 15 juni 2007 houdende vaststelling van de tuchtprocedure voor de mandatarissen in uitvoering van artikel 71 en 274 van het Gemeentedecreet, artikel 21ter van de O.C.M.W.-wet en artikel 69 van het Provinciedecreet worden de woorden « artikel 21ter van de O.C.M.W.-wet » vervangen door de woorden « artikel 70 van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn ».
+
+### ART. 19.
+
+Onder belangrijke aangelegenheden van de beleidsvoering en dienstverlening van het openbaar centrum voor maatschappelijk welzijn in de zin van artikel 206 van het decreet 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn, worden alle aangelegenheden als vermeld in artikel 270, § 1, 4° tot en met 6°, van het decreet 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn verstaan.
 
 ### ART. 20.
 
