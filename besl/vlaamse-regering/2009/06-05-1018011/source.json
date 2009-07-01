@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018011,
+  "title": "Besluit van de Vlaamse Regering van 2009-06-05 betreffende de inwerkingtreding van sommige bepalingen van het Provinciedecreet van 9 december 2005 en ter uitvoering van artikelen 151, 156, 159, 175 en 268 van het Provinciedecreet van 9 december 2005",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018011/VolledigDocument?datum=2009-07-01",
+  "source_sha256": "f9db3475986bf44780258ba5906458ce5024292b1b680300ab76a828a1990be8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018011&param=informatie",
+  "as_of": "2009-07-01",
+  "made": "2009-06-05",
+  "gazette": "2009-06-19",
+  "numac": 2009035554,
+  "document_start": "2009-07-01",
+  "document_end": null,
+  "in_force": "2009-07-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2009-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
