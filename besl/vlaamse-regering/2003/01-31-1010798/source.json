@@ -2,16 +2,16 @@
   "codex_id": 1010798,
   "title": "Besluit van de Vlaamse Regering van 2003-01-31 met betrekking tot de sociale openbaredienstverplichtingen in de vrijgemaakte electriciteitsmarkt",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010798/VolledigDocument?datum=2008-05-21",
-  "source_sha256": "7f0bc91dc654a4c6a18a018483856b7449276845ad29fda51f094997782854dd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010798/VolledigDocument?datum=2009-07-01",
+  "source_sha256": "1e997e744670d348c5b832b51178c330b3a1709a2afefb5d453de90300d0d011",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010798&param=informatie",
-  "as_of": "2008-05-21",
+  "as_of": "2009-07-01",
   "made": "2003-01-31",
   "gazette": "2003-03-21",
   "numac": 2003200288,
   "document_start": "2003-07-01",
   "document_end": "2009-06-30",
-  "in_force": "2008-05-21",
+  "in_force": "2009-07-01",
   "article_versions": 28,
-  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-07-01; future article versions excluded; article text as the API gives it"
 }
