@@ -2,16 +2,16 @@
   "codex_id": 1016432,
   "title": "Ministerieel besluit van 2007-12-06 betreffende de melkafrekeningen aan de producenten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016432/VolledigDocument?datum=2007-12-31",
-  "source_sha256": "9541a21fea3a896bb778d6bfe978abb8b4c2815e51f19dda3b64430fa7dc5d3d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016432/VolledigDocument?datum=2009-07-01",
+  "source_sha256": "927956985100756c5fac221f6ae762e9c0415095e69e77802992ef78fb6687e3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016432&param=informatie",
-  "as_of": "2007-12-31",
+  "as_of": "2009-07-01",
   "made": "2007-12-06",
   "gazette": "2007-12-21",
   "numac": 2007037256,
   "document_start": "2007-12-31",
   "document_end": "2009-06-30",
-  "in_force": "2007-12-31",
+  "in_force": "2009-07-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2007-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-07-01; future article versions excluded; article text as the API gives it"
 }
