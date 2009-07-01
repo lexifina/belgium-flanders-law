@@ -2,40 +2,40 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit verstaat men onder:<br /><br />1° landbouwer: de producent zoals gedefinieerd in artikel 1, derde lid, van het koninklijk besluit tot instelling van een steunregeling voor producenten van bepaalde akkerbouwgewassen van 19 december 2001;<br /><br />2° erkende eerste verwerker: de natuurlijke persoon of rechtspersoon dan wel de groepering van natuurlijke of rechtspersonen, ongeacht de rechtspositie van de groepering of haar leden volgens het nationale recht, die is erkend door de bevoegde overheid op het grondgebied waarvan de inrichtingen voor de productie van vlas- en hennepvezels zich bevin-den;<br /><br />3° met een verwerker gelijkgestelde teler : een landbouwer die overeenkomstig artikel 2, eerste lid, derde alinea, b), van Verordening (EG) nr. 1673/2000 met een erkende eerste verwerker een contract voor loonverwerking heeft gesloten om vezels uit stro te verkrijgen waarvan hij eigenaar is;<br /><br />4° lange vlasvezels: vlasvezels die verkregen zijn door een volledige scheiding van de vezels en de houtige bestanddelen van de stengel en die bij het verlaten van de zwingelinrichting bestaan uit technische vezels met een gemiddelde lengte van ten minste 50 cm die evenwijdig liggen in een bundel, laag of lint;<br /><br />5° korte vlasvezels: andere vlasvezels dan de onder 4 bedoelde vezels, die zijn verkregen door een op zijn minst gedeeltelijke scheiding van de vezels en de houtige bestanddelen van de stengel;<br /><br />6° hennepvezels: hennepvezels die zijn verkregen door een op zijn minst gedeeltelijke scheiding van de vezels en de houtige bestanddelen van de stengel;<br /><br />7° verkoopseizoen: de periode, bedoeld in artikel 1, tweede lid, eerste gedachtestreep, van Verordening (EG) nr. 1251/1999 van de Raad van 17 mei 1999;<br /><br />8° bevoegde overheden:<br /><br />a) voor het uitbetalen van de steun en het beheer van de zekerheden: het betaalorgaan. De minister wijst het betaalorgaan aan;<br /><br />b) voor de controle van de verwerking en de toekenning van de erkenningen: het controleorgaan. De minister wijst het controleorgaan aan;<br /><br />9° raadsverordening: Verordening (EG) nr. 1673/2000 van de Raad van 27 juli 2000 houdende een gemeenschappelijke ordening der markten in de sector vezelvlas en -hennep;<br /><br />10° commissieverordening: Verordening (EG) nr. 245/2001 van de Commissie van 5 februari 2001 tot vaststelling van uitvoeringsbepalingen voor Verordening (EG) nr. 1673/2000 van de Raad houdende een gemeenschappelijke ordening der markten in de sector vezelvlas en -hennep;<br /><br />11° de minister: de Vlaamse minister, bevoegd voor het Landbouwbeleid.
+...
 
 ### ART. 2.
 
-§ 1. Overeenkomstig de raadsverordening verleent het betaalorgaan jaarlijks op aanvraag een verwerkingssteun aan:<br /><br />1° de erkende eerste verwerker op basis van de hoeveelheid vezels die daadwerkelijk zijn verkregen uit het stro dat afkomstig is van in België gelegen percelen;<br /><br />2° de met een verwerker gelijkgestelde teler op basis van de hoeveelheid vezels bedoeld in 1°, die hij onder contract voor loonverwerking door een erkende eerste verwerker heeft laten verwerken en waarvoor hij kan bewijzen dat ze in de handel zijn gebracht.<br /><br />§ 2. De verwerkingssteun wordt vastgesteld overeenkomstig artikelen 2 en 4 van de raadsverordening.<br /><br />§ 3. Overeenkomstig artikel 2, derde lid, van de raadsverordening wordt steun verleend voor:<br /><br />1° lange vlasvezels vanaf het verkoopseizoen 2001/2002;<br /><br />2° korte vlasvezels en voor hennepvezels met maximaal 7,5 % onzuiverheden en lemen voor de verkoopseizoenen 2001/2002 tot en met 2005/2006.<br /><br />§ 4. Overeenkomstig artikel 2, derde lid, b), tweede en derde alinea, van de raadsverordening, verleent het betaalorgaan voor de verkoopseizoenen 2001/2002 tot en met 2003/2004 jaarlijks op aanvraag een steun voor het verwerken van stro tot korte vlas- en hennepvezels respectievelijk met maximaal 7,5 % tot 15 % en 7,5 % tot 25 % onzuiverheden en lemen. Om voor die steun in aanmerking te komen, moet de erkende eerste verwerker respectievelijk de met een verwerker gelijk-gestelde teler in de steunaanvraag het onzuiverheidpercentage opgeven dat hij voor het betreffende verkoopseizoen in acht zal nemen.<br /><br />De minister stelt de methode(s) vast voor de bepaling van het percentage onzuiverheden en lemen in korte vlas- en hennepvezels.
+...
 
 ### ART. 3.
 
-De eerste verwerker, waarvan de inrichtingen voor de productie van vlas -en hennepvezels zich in Vlaanderen bevinden, vraagt zijn erkenning, zoals bedoeld in artikelen 3 en 17, tweede lid, van de commissieverordening, aan bij het controleorgaan met een formulier dat bij het controleorgaan te verkrijgen is. De erkenning wordt door de minister verleend en kan worden ingetrokken overeenkomstig het bepaalde in de commissieverordening. De minister bepaalt de voorwaarden waaronder traditionele kopers van vlas als eerste verwerker tijdelijk erkend kunnen worden.
+...
 
 ### ART. 4.
 
-Het voornemen tot loonschonen van korte vezel zoals bedoeld in artikel 3, vierde lid, van de commis-sieverordening, moet door middel van het formulier bedoeld in artikel 3, aan het controleorgaan kenbaar worden gemaakt. De toestemming wordt door het controleorgaan verleend overeenkomstig de commissieverordening.
+...
 
 ### ART. 5.
 
-§ 1. Om voor steun in aanmerking te komen, moet de erkende eerste verwerker respectievelijk de met een verwerker gelijkgestelde teler bij het betaalorgaan binnen de gestelde termijnen in de commissieverordening formulieren met de volgende gegevens indienen:<br /><br />1° een lijst voor dat verkoopseizoen, afzonderlijk voor vlas en voor hennep, van de aankoop-verkoopcontracten, verwerkingsverbintenissen en contracten voor loonverwerking als bedoeld in artikel 5 van de commissieverordening. In deze lijst zijn telkens het identificatienummer van de landbouwer in het gentegreerde beheers- en controlesysteem en de desbetreffende percelen vermeld;<br /><br />2° een steunaanvraag met aangifte van de totale oppervlakten vlas en de totale oppervlakten hennep waarop de aankoopverkoopcontracten, de verwerkingsverbintenissen en de contracten voor loonverwerking betrekking hebben;<br /><br />3° een voorraadboekhouding zoals bepaald in artikel 6, tweede lid, van de commissieverordening.<br /><br />De formulieren zijn bij het betaalorgaan te verkrijgen en moeten door de erkende eerste verwerker respectievelijk door de met een verwerker gelijkgestelde teler volledig ingevuld en ondertekend, afzonderlijk voor vlas en hennep, worden ingediend. Bij die formulieren moeten alle vereiste bewijsstukken gevoegd worden.<br /><br />§ 2. De met een verwerker gelijkgestelde teler moet tegelijk met de voorraadboekhouding de documenten voorleggen vermeld in artikel 6, tweede lid, voorlaatste alinea, van de commissieverordening, die bewijzen dat de vezels in de handel zijn gebracht, alsmede een certificaat van de erkende eerste verwerker die het stro heeft verwerkt. Dit formulier kan door de erkende eerste verwerker worden aangevraagd bij het betaalorgaan.<br /><br />§ 3. De erkende eerste verwerker moet aan het betaalorgaan de belangrijkste gebruiksdoeleinden meedelen waarvoor de verkregen vezels en andere producten zijn bestemd. Die mededeling moet gebeuren samen met de indiening van de voorraadboekhouding, binnen de in de commissieverordening gestelde termijn.
+...
 
 ### ART. 6.
 
-De erkende eerste verwerker die na 1 januari van het verkoopseizoen in kwestie het aankoop-ver-koopcontract of het contract voor loonverwerking aan een andere erkende eerste verwerker wil overdragen, moet hiervoor vooraf toestemming vragen aan het betaalorgaan. De toestemming wordt door het betaalorgaan verleend overeenkomstig het bepaalde in de commissieverordening.
+...
 
 ### ART. 7.
 
-Als de erkende eerste verwerker respectievelijk de met een verwerker gelijkgestelde teler bij het indienen van zijn voorraadboekhouding daarom verzoekt, kan hem door het betaalorgaan een voorschot op de steun worden verleend, mits bij het betaalorgaan een zekerheid is gesteld en voldaan is aan het bepaalde in de commissieverordening.<br /><br />Het betaalorgaan geeft de zekerheid, bedoeld in het eerste lid, vrij overeenkomstig het bepaalde in de commissieverordening.
+...
 
 ### ART. 8.
 
-Overtredingen van dit besluit, van de uitvoeringsbesluiten, van Verordening (EEG) nr. 3508/92, (EG) nr. 1251/1999 en 1673/2000 van de Raad en van Verordening (EG) nr. 2419/2001, 2316/1999 en 245/2001 van de Commissie worden opgespoord, vastgesteld en bestraft overeenkomstig de wet van 28 maart 1975 betreffende de handel in landbouw-, tuinbouw- en zeevisserijproducten.
+...
 
 ### ART. 9.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2002, met uitzondering van artikel 8 welke uitwerking heeft de dag waarop dit besluit in het Belgisch Staatsblad wordt bekendgemaakt.
+...
 
 ### ART. 10.
 
-De Vlaamse minister, bevoegd voor het Landbouwbeleid, is belast met de uitvoering van dit besluit.
+...
