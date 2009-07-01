@@ -8,18 +8,7 @@ De Vlaamse Regering, <br /><br />Gelet op het Gemeentedecreet van 15 juli 2005, 
 
 ### ART. 1.
 
-§ 1. De tuchtoverheid die feiten vaststelt die mogelijk een tuchtvergrijp uitmaken, of er kennis van krijgt, geeft, conform het artikel 124 van het Gemeentedecreet en het artikel 120 van het Provinciedecreet, aan een tuchtonderzoeker opdracht tot het voeren van een tuchtonderzoek, het opmaken van een tuchtverslag en de samenstelling van een tuchtdossier.<br>
-<br>
-De tuchtoverheid brengt het betrokken personeelslid onmiddellijk op de hoogte van haar beslissing tot het opstarten van een tuchtonderzoek, met vermelding van de aard van de feiten en de datum van vaststelling of kennisneming van de feiten.<br>
-<br>
-Bij partijdigheid van de in het Gemeentedecreet of het Provinciedecreet voorziene tuchtonderzoeker wordt die functie waargenomen door een andere door de tuchtoverheid aan te duiden persoon.<br>
-<br>
-§ 2. Bij aanduiding van een leidinggevend personeelslid door de gemeentesecretaris of de provinciegriffier die optreedt als tuchtoverheid, moet dit personeelslid ook minstens dezelfde of een gelijkwaardige graad hebben als het personeelslid dat het voorwerp is van het onderzoek.<br>
-<br>
-De tuchtoverheid wordt regelmatig geïnformeerd over het verloop van het onderzoek.<br>
-<br>
-Zodra het tuchtonderzoek langer duurt dan drie maanden moet de tuchtoverheid bovendien in ieder geval regelmatig worden geïnformeerd over de redenen waarom het tuchtonderzoek nog niet kan worden afgesloten.<br>
-&nbsp;
+§ 1. De tuchtoverheid die feiten vaststelt die mogelijk een tuchtvergrijp uitmaken, of er kennis van krijgt, geeft, naargelang het geval, conform artikel 124 van het Gemeentedecreet, artikel 123 van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn of artikel 120 van het Provinciedecreet, aan een tuchtonderzoeker de opdracht een tuchtonderzoek te verrichten en een tuchtverslag op te maken, en ze belast de aangestelde tuchtonderzoeker ermee een tuchtdossier samen te stellen.<br /><br />De tuchtoverheid brengt het betrokken personeelslid onmiddellijk op de hoogte van haar beslissing tot het opstarten van een tuchtonderzoek, met vermelding van de aard van de feiten en de datum van vaststelling of kennisneming van de feiten.<br /><br />De tuchtoverheid is bevoegd om te oordelen of er, bij kennisneming van de feiten, een schijn van partijdigheid kan zijn in hoofde van de decretaal voorziene tuchtonderzoeker. Als de tuchtoverheid oordeelt dat er sprake is van een mogelijke partijdigheid, wijst zij een andere tuchtonderzoeker aan. Indien de tuchtonderzoeker zelf meent dat hij niet kan optreden wegens een mogelijke schijn van partijdigheid, dan deelt hij dit mee aan de tuchtoverheid, die vervolgens een nieuwe aanwijzing doet als zij oordeelt dat er sprake is van mogelijke partijdigheid.<br /><br />§ 2. Bij aanwijzing van een leidinggevend personeelslid door de gemeentesecretaris, de secretaris van het openbaar centrum voor maatschappelijk welzijn of de provinciegriffier die optreedt als tuchtoverheid, moet dat personeelslid minstens dezelfde of een gelijkwaardige graad hebben als het personeelslid dat het voorwerp is van het onderzoek.<br /><br />De tuchtoverheid wordt regelmatig geïnformeerd over het verloop van het onderzoek.<br /><br />Zodra het tuchtonderzoek langer duurt dan drie maanden moet de tuchtoverheid bovendien in ieder geval regelmatig worden geïnformeerd over de redenen waarom het tuchtonderzoek nog niet kan worden afgesloten.<br /><br />
 
 ### ART. 2.
 
@@ -49,10 +38,10 @@ De oproeping vermeldt :<br>
 3° plaats, dag en uur van de hoorzitting;<br>
 4° het recht op bijstand en vertegenwoordiging door een verdediger naar keuze;<br>
 5° het recht van de betrokkene om de openbaarheid van de hoorzitting te vragen;<br>
-6° het recht om het horen van getuigen te vragen desgevallend in openbaarheid;<br>
+6° het recht om het horen van getuigen te vragen;<br>
 7° het recht om een schriftelijk verweer in te dienen tot op de dag voor de hoorzitting.<br>
 <br>
-Het tuchtverslag en het tuchtdossier worden als bijlage gevoegd bij de oproepingsbrief in toepassing van het artikel 127 van het Gemeentedecreet en het artikel 123 van het Provinciedecreet. De beslissing waarbij kennis wordt genomen van het tuchtverslag wordt bij het tuchtdossier gevoegd.<br>
+Het tuchtverslag en het tuchtdossier worden als bijlage gevoegd bij de oproepingsbrief met toepassing van, naargelang het geval, artikel 127 van het Gemeentedecreet, artikel 126 van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn of artikel 123 van het Provinciedecreet. De beslissing waarbij kennis wordt genomen van het tuchtverslag wordt bij het dossier gevoegd.<br>
 <br>
 § 3. Aan de betrokkene wordt gemeld dat indien er getuigen moeten worden gehoord, dit tien dagen voor de hoorzitting wordt meegedeeld aan de tuchtoverheid, met het oog op de oproeping, dat moet worden aangeduid welke getuigen moeten worden gehoord, en dat ook moet worden aangegeven waarover de getuigen een verklaring dienen te geven.<br>
 <br>
@@ -77,17 +66,17 @@ Het proces-verbaal van het verhoor van de getuigen wordt op dezelfde wijze als d
 
 ### ART. 9.
 
-De wraking van een lid van de tuchtoverheid moet door de betrokkene bij de aanvang van de hoorzitting worden gevraagd waarna de tuchtoverheid, zonder het gewraakte lid, hierover beraadslaagt en beslist vooraleer de hoorzitting verder te zetten.<br /><br />Als de gemeentesecretaris of de provinciegriffier optreedt als tuchtoverheid, en hij oordeelt dat hij terecht wordt gewraakt, geeft hij het tuchtdossier onmiddellijk in handen van het college van burgemeester en schepenen, respectievelijk de bestendige deputatie. In afwijking van het voorgaande wordt de zaak onmiddellijk in handen gegeven van de adjunct-gemeentesecretaris in de gemeenten die over een adjunct-gemeentesecretaris beschikken. Indien nadien ook de adjunct-gemeentesecretaris zou worden gewraakt, wordt de zaak verder gezet door het college van burgemeester en schepenen. De adjunct-gemeentesecretaris mag in dezelfde zaak niet optreden als tuchtonderzoeker en als tuchtoverheid.<br /><br />Alle betrokkenen worden door de adjunct-gemeentesecretaris of door het uitvoerend college dat de procedure overneemt uitgenodigd voor een nieuwe hoorzitting. Die moet plaatshebben binnen de dertig dagen na de dag van de wraking.<br /><br />
+De wraking van een lid van de tuchtoverheid moet door de betrokkene bij de aanvang van de hoorzitting worden gevraagd waarna de tuchtoverheid, zonder het gewraakte lid, hierover beraadslaagt en beslist vooraleer de hoorzitting verder te zetten.<br /><br />Als de gemeentesecretaris, de provinciegriffier of de secretaris van het openbaar centrum voor maatschappelijk welzijn, optreedt als tuchtoverheid, en hij oordeelt dat hij terecht wordt gewraakt, geeft hij het tuchtdossier onmiddellijk, al naargelang het geval, in handen van het college van burgemeester en schepenen, of de deputatie, of, in het geval van een openbaar centrum voor maatschappelijk welzijn, aan het vast bureau, als er een vast bureau bestaat, en als er geen vast bureau bestaat, aan de raad voor maatschappelijk welzijn. In afwijking van het voorgaande wordt de zaak onmiddellijk in handen gegeven van de adjunct-gemeentesecretaris in de gemeenten die over een adjunct-gemeentesecretaris beschikken. Indien nadien ook de adjunct-gemeentesecretaris zou worden gewraakt, wordt de zaak verder gezet door het college van burgemeester en schepenen. De adjunct-gemeentesecretaris mag in dezelfde zaak niet optreden als tuchtonderzoeker en als tuchtoverheid.<br /><br />Alle betrokkenen worden door de adjunct-gemeentesecretaris of door het uitvoerend college dat de procedure overneemt uitgenodigd voor een nieuwe hoorzitting. Die moet plaatshebben binnen de dertig dagen na de dag van de wraking.<br /><br />
 
 ### ART. 10.
 
-De gemeentesecretaris, de adjunct-gemeentesecretaris of de provincie-griffier die optreedt als tuchtoverheid kan zich bij het verhoor laten bijstaan door een griffier die door hem wordt aangeduid onder het gemeentepersoneel of het provinciepersoneel.<br /><br />
+De gemeentesecretaris, de adjunct-gemeentesecretaris, de secretaris van het openbaar centrum voor maatschappelijk welzijn of de provinciegriffier die optreedt als tuchtoverheid, kan zich bij het verhoor, en met het oog op de notulering, laten bijstaan door een door hem aangewezen lid van, naargelang het geval, het gemeentepersoneel, het personeel van het openbaar centrum voor maatschappelijk welzijn of het provinciepersoneel.<br />
 
 ## HOOFDSTUK IV Beraadslaging en kennisgeving
 
 ### ART. 11.
 
-§ 1. De tuchtoverheid doet binnen twee maanden na het afsluiten van het proces-verbaal van de laatste hoorzitting, of van niet-verschijnen, uitspraak over de op te leggen tuchtmaatregel.<br /><br />Indien geen uitspraak wordt gedaan binnen die termijn, wordt de tuchtoverheid geacht af te zien van vervolging voor de feiten die de betrokkene ten laste worden gelegd.<br /><br />§ 2. De leden van de gemeenteraad, provincieraad en van het college van burgemeester en schepenen of de bestendige deputatie van de provincieraad, die niet permanent aanwezig waren tijdens het geheel van de hoorzittingen, mogen niet deelnemen aan de beraadslagingen en aan de stemming over de op te leggen tuchtmaatregel.<br /><br />
+§ 1. De tuchtoverheid doet binnen twee maanden na het afsluiten van het proces-verbaal van de laatste hoorzitting, of van niet-verschijnen, uitspraak over de op te leggen tuchtmaatregel.<br /><br />Indien geen uitspraak wordt gedaan binnen die termijn, wordt de tuchtoverheid geacht af te zien van vervolging voor de feiten die de betrokkene ten laste worden gelegd.<br /><br />§ 2. De leden van, naargelang het geval, de gemeenteraad, de raad voor maatschappelijk welzijn, de provincieraad, het college van burgemeester en schepenen, het vast bureau of de deputatie, die niet permanent aanwezig waren tijdens het geheel van de hoorzittingen, mogen niet deelnemen aan de beraadslagingen en aan de stemming over de op te leggen maatregel.<br />
 
 ### ART. 12.
 
@@ -101,21 +90,13 @@ De tuchtoverheid geeft de opdracht tot onderzoek, opmaak van het verslag en same
 
 ### ART. 14.
 
-In toepassing van het artikel 135, § 1 van het Gemeentedecreet en het artikel 131 eerste lid van het Provinciedecreet, wordt de betrokkene door de tuchtoverheid gehoord vooraleer de preventieve schorsing wordt opgelegd.<br>
-<br>
-De bepalingen van de hoofdstukken 2, 3 en 4 zijn eveneens van toepassing met de vermelding dat het gaat over mogelijke tuchtfeiten en de toepassing van de ordemaatregel. De oproepingstermijn voor de hoorzitting wordt evenwel teruggebracht tot vijf dagen. De andere termijnen worden gehalveerd, behalve indien zeven dagen zijn voorzien.<br>
-&nbsp;
+Met toepassing van artikel 135, § 1, van het Gemeentedecreet, artikel 134, eerste lid, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn of artikel 131, eerste lid, van het Provinciedecreet, wordt de betrokkene door de tuchtoverheid gehoord voor de preventieve schorsing wordt opgelegd. <br /><br />De bepalingen van de hoofdstukken 2, 3 en 4 zijn eveneens van toepassing met de vermelding dat het gaat over mogelijke tuchtfeiten en de toepassing van de ordemaatregel. De oproepingstermijn voor de hoorzitting wordt evenwel teruggebracht tot vijf dagen. De andere termijnen worden gehalveerd, behalve indien zeven dagen zijn voorzien.<br /><br />
 
 ## HOOFDSTUK VI De Beroepscommissie voor tuchtzaken
 
 ### ART. 15.
 
-§ 1. De betrokkene kan bij de Beroepscommissie voor tuchtzaken een beroepsschrift indienen zoals bepaald wordt in het artikel 139 van het Gemeentedecreet en het artikel 135 van het Provinciedecreet.<br>
-<br>
-§ 2. Het beroepsschrift bevat de argumenten van de betrokkene.<br>
-<br>
-Bij afwezigheid van enig argument verzoekt de voorzitter van de Beroepscommissie de betrokkene schriftelijk om aan die verplichting tegemoet te komen. Dit verzoek wordt aan betrokkene toegezonden per aangetekende zending. Indien binnen tien dagen na ontvangst van dit verzoek hieraan geen gevolg wordt gegeven is het beroepsschrift onontvankelijk.<br>
-&nbsp;
+§ 1. De betrokkene kan bij de Beroepscommissie voor tuchtzaken een beroepsschrift indienen als vermeld in artikel 139 van het Gemeentedecreet, in artikel 138 van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn en in artikel 135 van het Provinciedecreet.<br /><br />§ 2. Het beroepsschrift bevat de argumenten van de betrokkene.<br /><br />Bij afwezigheid van enig argument verzoekt de voorzitter van de Beroepscommissie de betrokkene schriftelijk om aan die verplichting tegemoet te komen. Dit verzoek wordt aan betrokkene toegezonden per aangetekende zending. Indien binnen tien dagen na ontvangst van dit verzoek hieraan geen gevolg wordt gegeven is het beroepsschrift onontvankelijk.<br /><br />
 
 ### ART. 16.
 
