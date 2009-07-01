@@ -18,7 +18,7 @@ In het koninklijk besluit van 2 augustus 1990 houdende het algemeen reglement op
 
 ### ART. 4.
 
-De verrichtingen waarvan het bedrag niet hoger is dan het bedrag van de verrichtingen die in het kader van de wet op de overheidsopdrachten gegund worden op basis van artikel 122, 1° van het koninklijk besluit van 8 januari 1996 betreffende de overheidsopdrachten van werken, leveringen en diensten en de concessies voor openbare werken, kunnen door de gemeenteraad uitgesloten worden van de visumverplichting.<br /><br />
+...<br />
 
 ### ART. 5.
 
