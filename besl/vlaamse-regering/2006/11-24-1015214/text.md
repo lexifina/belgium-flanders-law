@@ -22,7 +22,7 @@ In het koninklijk besluit van 2 juni 1999 houdende de algemene regeling van de p
 
 ### ART. 5.
 
-De verrichtingen waarvan het bedrag niet hoger is dan het bedrag van de verrichtingen die in het kader van de wet op de overheidsopdrachten kunnen gegund worden op basis van artikel 122, 1° van het koninklijk besluit van 8 januari 1996 betreffende de overheidsopdrachten van werken, leveringen en diensten en de concessies voor openbare werken, kunnen door de provincieraad uitgesloten worden van de visumverplichting.<br /><br />
+...<br /><br />
 
 ### ART. 6.
 
