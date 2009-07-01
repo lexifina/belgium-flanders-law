@@ -2,16 +2,16 @@
   "codex_id": 1007871,
   "title": "Besluit van de Vlaamse Regering van 2001-02-02 betreffende de erkenning van mammografische eenheden en regionale screeningscentra voor borstkankeropsporing",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007871/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "3d1be0e0e91d492d5ec930c2ce64da4ddd20e1a57a7377cb31441767e6e7ec48",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007871/VolledigDocument?datum=2009-07-01",
+  "source_sha256": "e5b70e1f85ff7567a2ae908f7d91eb6d4f8f75a3e79d5f6c22a22a77debc8702",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007871&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2009-07-01",
   "made": "2001-02-02",
   "gazette": "2001-03-15",
   "numac": 2001035245,
   "document_start": "2001-02-01",
   "document_end": "2012-04-01",
-  "in_force": "2006-07-01",
+  "in_force": "2009-07-01",
   "article_versions": 35,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-07-01; future article versions excluded; article text as the API gives it"
 }
