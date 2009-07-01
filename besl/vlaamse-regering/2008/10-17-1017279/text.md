@@ -38,7 +38,7 @@ Elk jaar worden de totale kosten die de Vlaamse overheid tijdens het voorgaande 
 
 ### ART. 4.
 
-In afwijking van artikel 3, tweede lid, wordt voor de gemeenten tot 1 000 inwoners en de openbare centra voor maatschappelijk welzijn van die gemeenten het product, verkregen door de vermenigvuldiging in artikel 3, tweede lid, gedeeld door twee.<br /><br />Voor de toepassing van dit besluit geldt het bevolkingscijfer van de gemeente, vermeld in artikel 5, § 3, van het gemeentedecreet van 15 juli 2005.
+In afwijking van artikel 3, tweede lid, wordt voor de gemeenten tot 1 000 inwoners en de openbare centra voor maatschappelijk welzijn van die gemeenten het product, verkregen door de vermenigvuldiging in artikel 3, tweede lid, gedeeld door twee.<br /><br />Voor de toepassing van dit besluit geldt het bevolkingscijfer van de gemeente, vermeld in artikel 5, § 3, eerste lid, van het gemeentedecreet van 15 juli 2005.
 
 ### ART. 5.
 
