@@ -12,7 +12,7 @@ dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 ### ART. 2.
 
-Binnen de beschikbare begrotingskredieten voorziet de Vlaamse regering in een subsidieregeling tot aanmoediging van het uitvoeren van kleinschalige erosiebestrijdingsmaatregelen door gemeenten, zowel op het openbaar en privaat domein van de gemeenten, als op gronden van publiekrechtelijke rechtspersonen, privaatrechtelijke rechtspersonen en natuurlijke personen voorzover de bedoelde personen daarmee instemmen.<br /><br />De kleinschalige erosiebestrijdingsmaatregelen zijn brongericht, en kunnen zowel het opmaken van een gemeentelijk erosiebestrijdingsplan als het uitvoeren van erosiebestrijdingswerken omvatten.<br /><br />In voorkomend geval dienen zowel de eigenaars en de vruchtgebruikers als de houders van zakelijke rechten hun instemming te betuigen met de uitvoering van de erosiebestrijdingswerken.<br /><br />Deze instemming wordt vastgelegd in een tussen de partijen opgestelde overeenkomst, die eveneens de nodige waarborgen omvat betreffende het beheer van de uit te voeren werken.<br /><br />De Vlaamse regering bepaalt de voorwaarden waaraan de door de gemeenten uit te voeren erosiebestrijdingsmaat-regelen moeten beantwoorden om te kunnen worden gesubsidieerd, stelt de nadere procedureregelen inzake de toekenning van de subsidies vast, en bepaalt de tussenkomst van het Vlaamse Gewest in de kostprijs van de bedoelde maatregelen.
+...
 
 ## AFDELING 2 GRONDWATER
 
