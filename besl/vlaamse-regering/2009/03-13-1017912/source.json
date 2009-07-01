@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017912,
+  "title": "Besluit van de Vlaamse Regering van 2009-03-13 betreffende de sociale openbaredienstverplichtingen in de vrijgemaakte elektriciteits- en aardgasmarkt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017912/VolledigDocument?datum=2009-07-01",
+  "source_sha256": "8c368373820fc5be6fe04618707d92fa987c1132713640d25a3c72b332f98718",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017912&param=informatie",
+  "as_of": "2009-07-01",
+  "made": "2009-03-13",
+  "gazette": "2009-05-26",
+  "numac": 2009035405,
+  "document_start": "2009-07-01",
+  "document_end": "2010-12-31",
+  "in_force": "2009-07-01",
+  "article_versions": 62,
+  "record_form": "consolidated version as in force on 2009-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
