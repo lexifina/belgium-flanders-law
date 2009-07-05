@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018045,
+  "title": "Ministerieel besluit van 2009-06-05 tot toekenning van een specifieke delegatie aan het hoofd van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018045/VolledigDocument?datum=2009-07-05",
+  "source_sha256": "8a496d928327e08faf9c4c962c1f43dbd1a190f29484780bf269186c7fe8cfed",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018045&param=informatie",
+  "as_of": "2009-07-05",
+  "made": "2009-06-05",
+  "gazette": "2009-06-25",
+  "numac": 2009202715,
+  "document_start": "2009-07-05",
+  "document_end": null,
+  "in_force": "2009-07-05",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2009-07-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
