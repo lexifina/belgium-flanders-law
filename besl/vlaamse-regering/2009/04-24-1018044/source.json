@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018044,
+  "title": "Besluit van de Vlaamse Regering van 2009-04-24 houdende de gedeeltelijke herverdeling van het provisionele krediet voor het economisch relancebeleid, ingeschreven onder de basisallocatie 0117 b van het programma CB van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2009",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018044/VolledigDocument?datum=2009-07-05",
+  "source_sha256": "af64c0ee0b68bc6b7cf7e3569a0174e1fecc72a41c5af9740139fab669215670",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018044&param=informatie",
+  "as_of": "2009-07-05",
+  "made": "2009-04-24",
+  "gazette": "2009-06-25",
+  "numac": 2009202397,
+  "document_start": "2009-07-05",
+  "document_end": null,
+  "in_force": "2009-07-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-07-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
