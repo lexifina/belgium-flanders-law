@@ -2,16 +2,16 @@
   "codex_id": 1007552,
   "title": "Decreet van 2000-07-17 houdende de organisatie van de elektriciteitsmarkt",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007552/VolledigDocument?datum=2009-02-14",
-  "source_sha256": "9844eb473241105f2c3c68cde27cf226160ba4063a5c28ea8263b9f2301d6609",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007552/VolledigDocument?datum=2009-07-06",
+  "source_sha256": "a9e807b14a55f96a28864caf0d87e32043220a7c83302e131cbb34f7bb3d5a22",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007552&param=informatie",
-  "as_of": "2009-02-14",
+  "as_of": "2009-07-06",
   "made": "2000-07-17",
   "gazette": "2000-09-22",
   "numac": 2000035898,
   "document_start": null,
   "document_end": "2010-12-31",
-  "in_force": "2009-02-14",
-  "article_versions": 70,
-  "record_form": "consolidated version as in force on 2009-02-14; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-07-06",
+  "article_versions": 71,
+  "record_form": "consolidated version as in force on 2009-07-06; future article versions excluded; article text as the API gives it"
 }
