@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018098,
+  "title": "Ministerieel besluit van 2009-06-04 tot bepaling van de standaard voor de titel van industrieel elektrotechnisch installateur",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018098/VolledigDocument?datum=2009-07-07",
+  "source_sha256": "0f85ed5248eabf304cbb67bbcaa40bd0f4932ce513555a40d08ee5d0e97e0a88",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018098&param=informatie",
+  "as_of": "2009-07-07",
+  "made": "2009-06-04",
+  "gazette": "2009-07-07",
+  "numac": 2009202827,
+  "document_start": "2009-07-07",
+  "document_end": "2018-12-31",
+  "in_force": "2009-07-07",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-07-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
