@@ -2,16 +2,16 @@
   "codex_id": 1014953,
   "title": "Ministerieel besluit van 2006-08-18 tot aanduiding van de ambtenaren in uitvoering van artikel 16 van het besluit van de Vlaamse Regering van 26 maart 2004 houdende regels tot uitvoering van het oppervlaktedelfstoffendecreet",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014953/VolledigDocument?datum=2006-09-25",
-  "source_sha256": "47796776773926858099fc595e4ba0b9a0a6ec84995d4499c4c642840671bb4c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014953/VolledigDocument?datum=2009-07-09",
+  "source_sha256": "c5df77de16ac4c84964028f172fe605177b0c4d9e7f8bce5909b6e391b1829dc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014953&param=informatie",
-  "as_of": "2006-09-25",
+  "as_of": "2009-07-09",
   "made": "2006-08-18",
   "gazette": "2006-09-15",
   "numac": 2006036381,
   "document_start": "2006-09-25",
   "document_end": "2009-07-08",
-  "in_force": "2006-09-25",
+  "in_force": "2009-07-09",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-09-25; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-07-09; future article versions excluded; article text as the API gives it"
 }
