@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018059,
+  "title": "Omzendbrief van 2009-06-19 BB 2009/4 - Betreft : Toelichting bij de wijzigingen aan het Provinciedecreet ingevolge het decreet van 30 april 2009 tot wijziging van het Provinciedecreet, het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking en ingevolge het decreet van 30 april 2009 houdende diverse wijzigingen van de wet van 19 oktober 1921 tot regeling van de provincieraadsverkiezingen, de Gemeentekieswet gecoördineerd op 4 augustus 1932, het Gemeentedecreet van 15 juli 2005 en het Provinciedecreet van 9 december 2005 wat de regeling van de procedure inzake verkiezingsbezwaren betreft",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018059/VolledigDocument?datum=2009-07-09",
+  "source_sha256": "e5602e3fbb951d686d6f353baadf388ea43804316d81c43a772d184487c0f7e4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018059&param=informatie",
+  "as_of": "2009-07-09",
+  "made": "2009-06-19",
+  "gazette": "2009-06-29",
+  "numac": 2009035565,
+  "document_start": "2009-07-09",
+  "document_end": null,
+  "in_force": "2009-07-09",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-07-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
