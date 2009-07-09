@@ -263,6 +263,10 @@ Onverminderd de sancties, vermeld in de verordening en de toepassingsverordening
 
 Als het operationele programma geheel of gedeeltelijk niet wordt uitgevoerd, kunnen de voordelen van de communautaire financiële steun geheel of gedeeltelijk worden geweigerd, zowel voor het goedgekeurde programma als voor eventuele toekomstige ontwerpen die worden ingediend tijdens de duur van het goedgekeurde programma.<br /><br />
 
+### ART. 56.
+
+Overtredingen van bepalingen van dit besluit, van de bepalingen die genomen zijn ter uitvoering van dit besluit of die verbindend verklaard zijn ter uitvoering van dit besluit, worden opgespoord, vastgesteld en bestraft in overeenstemming met de wet van 28 maart 1975 betreffende de handel in landbouw-, tuinbouw- en zeevisserijproducten.<br /><br />
+
 ### ART. 57.
 
 Op verzoek van de bevoegde dienst bezorgen de producentenorganisaties of unies van producentenorganisaties de nodige productiegegevens.<br /><br />
