@@ -480,59 +480,59 @@ Artikel X 26 en X 27 van het VPS zijn van overeenkomstige toepassing op de gewes
 
 ### ART. 95.
 
-De gewestelijk ontvanger heeft recht op de hierna vermelde vormen van loopbaanonderbreking voor palliatief verlof, bijstand aan of verzorging van een zwaar ziek gezins- of familielid en ouderschapsverlof.
+§ 1. De gewestelijk ontvanger kan de loopbaan in totaal 72 maanden voltijds en 72 maanden deeltijds onderbreken met al dan niet opeenvolgende periodes van ten minste drie maanden en ten hoogste twaalf maanden.<br /><br />Het verlof wordt toegestaan door de arrondissementscommissaris, die beoordeelt of het geven van de toestemming verenigbaar is met de goede werking van de dienst.<br /><br />De deeltijdse loopbaanonderbreking kan opgenomen worden in de vorm van :<br />1° halftijdse loopbaanonderbreking;<br />2° loopbaanonderbreking met een vierde;<br />3° loopbaanonderbreking met een vijfde.<br /><br />§ 2. De maximumduur voor voltijdse en deeltijdse loopbaanonderbreking wordt verminderd met de duur van de voltijdse, respectievelijk deeltijdse loopbaanonderbrekingen die de gewestelijk ontvanger heeft genoten in welke hoedanigheid ook bij dezelfde of een andere werkgever.<br /><br />§ 3. De gewestelijk ontvanger kan tegen de weigering van het verlof voor loopbaanonderbreking binnen vijftien kalenderdagen vanaf de kennisgeving van de beslissing tot weigering in beroep gaan bij de gouverneur. De gouverneur neemt een definitieve beslissing binnen dertig kalenderdagen.<br /><br />§ 4. Het verlof voor loopbaanonderbreking kan worden opgezegd door de gewestelijk ontvanger en door de arrondissementscommissaris.
 
 ### ART. 96.
 
-§ 1. De duur van de loopbaanonderbreking om palliatieve zorgen te verstrekken bedraagt per patiënt één maand, eenmaal verlengbaar met één maand.<br /><br />§ 2. Onder "palliatieve zorgen" wordt begrepen: elke vorm van bijstand en inzonderheid medische, sociale, administratieve en psychologische bijstand en verzorging van personen die lijden aan een ongeneeslijke ziekte en die zich in een terminale fase bevinden.
+In afwijking van artikel 95, § 1, eerste lid, en § 2, kan de gewestelijk ontvanger van minstens 50 jaar halftijdse loopbaanonderbreking of loopbaanonderbreking met een vierde of een vijfde nemen tot aan de pensioenleeftijd, ongeacht de totale duur van de loopbaanonderbrekingen die hij heeft genoten vóór het begin van de deeltijdse loopbaanonderbreking tot aan de pensioenleeftijd.
 
 ### ART. 97.
 
-De gewestelijk ontvanger die loopbaanonderbreking neemt om palliatieve zorgen te verstrekken, deelt dit schriftelijk mee aan de arrondissementscommissaris. Hij voegt bij die mededeling het aanvraagformulier voor onderbrekingsuitkeringen en een attest van de behandelend geneesheer van de persoon die de palliatieve zorgen nodig heeft. Daaruit moet blijken dat de gewestelijk ontvanger zich bereid heeft verklaard deze palliatieve zorgen te verstrekken. Dit attest vermeldt de identiteit van de patiënt niet.
+Artikel X 29 tot en met X 31 van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger, waarbij in artikel X 29, § 4, het woord "lijnmanager" gelezen wordt als "arrondissementscommissaris".
 
 ## [HOOFDSTUK 2 PALLIATIEF VERLOF (verv. BVR 4 september 2009, art. 1)]
 
 ### ART. 98.
 
-De loopbaanonderbreking om palliatieve zorgen te verstrekken kan ingaan op een andere dag dan de eerste van de maand.
+De bepalingen van deel X, titel 6, hoofdstuk 2, Palliatief verlof, van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger.
 
 ## [HOOFDSTUK 3 BIJSTAND AAN OF VERZORGING VAN EEN ZWAAR ZIEK GEZINS- OF FAMILIELID (verv. BVR 4 september 2009, art. 1)]
 
 ### ART. 99.
 
-§ 1. De maximumduur van de voltijdse loopbaanonderbreking voor bijstand aan of verzorging van een zwaar ziek gezins- of familielid bedraagt per patiënt 12 maanden; de maximumduur van de halftijdse loopbaanonderbreking voor bijstand aan of verzorging van een zwaar ziek gezins- of familielid per patiënt bedraagt 24 maanden.<br /><br />De maximumduur van 12 maanden of 24 maanden wordt evenwel verminderd met de duur van de voltijdse respectievelijk halftijdse loopbaanonderbrekingen die de gewestelijk ontvanger heeft genoten voor de bijstand aan of verzorging van dezelfde patiënt.<br /><br />§ 2. De gewestelijk ontvanger kan de loopbaanonderbreking voor bijstand aan of verzorging van een zwaar ziek gezins- of familielid nemen met al dan niet opeenvolgende perioden van 1 tot 3 maand.<br /><br />§ 3. Onder "zware ziekte" wordt begrepen elke ziekte of medische ingreep die door de behandelende arts als dusdanig wordt beschouwd, en waarbij deze oordeelt dat elke vorm van sociale, familiale of emotionele bijstand of verzorging noodzakelijk is voor het herstel.<br /><br />§ 4. Onder "gezinslid" wordt begrepen elke persoon die samenwoont met de gewestelijk ontvanger. Onder "familielid" wordt begrepen zowel de bloed- als de aanverwant tot de 2e graad.
+De bepalingen van deel X, titel 6, hoofdstuk 3, Bijstand aan of verzorging van een zwaar ziek gezins- of familielid, van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger.
 
 ## [HOOFDSTUK 4 OUDERSCHAPSVERLOF (verv. BVR 4 september 2009, art. 1)]
 
 ### ART. 100.
 
-De gewestelijk ontvanger die loopbaanonderbreking neemt om een zwaar ziek gezins- of familielid bij te staan of te verzorgen, deelt dit schriftelijk mee aan de arrondissementscommissaris. Hierbij voegt hij het aanvraagformulier voor onderbrekingsuitkeringen en een attest van de geneesheer van de persoon die de bijstand of verzorging behoeft. Daaruit moet blijken dat de gewestelijk ontvanger zich bereid heeft verklaard om deze bijstand of verzorging te verstrekken. Dit attest vermeldt ook de identiteit van de patiënt.
+De bepalingen van deel X, titel 6, hoofdstuk 4, Ouderschapsverlof, van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger.
 
 ## [HOOFDSTUK 5 ONDERBREKINGSUITKERINGEN (verv. BVR 4 september 2009, art. 1)]
 
 ### ART. 101.
 
-De loopbaanonderbreking om bijstand of verzorging te verstrekken aan een zwaar ziek gezins- of familielid kan op om het even welke dag van de maand ingaan.
+De bepalingen van deel X, titel 6, hoofdstuk 5, Onderbrekingsuitkeringen, van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger.
 
 ## [HOOFDSTUK 6 VERVANGING (ing. BVR 4 september 2009, art. 1)]
 
 ### ART. 102.
 
-§ 1. De duur van het ouderschapsverlof onder de vorm van voltijdse loopbaanonderbreking bedraagt 3 maanden, die van het ouderschapsverlof onder de vorm van halftijdse loopbaanonderbreking 6 maanden.<br /><br />§ 2. Bij geboorte van een kind moet de gewestelijk ontvanger het ouderschapsverlof onder de vorm van loopbaanonderbreking opnemen voor het kind 4 jaar is.<br /><br />Bij adoptie moet de gewestelijk ontvanger het ouderschapsverlof onder de vorm van loopbaanonderbreking opnemen binnen een periode van 4 jaar die loopt vanaf de inschrijving van het kind als lid van het gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar de gewestelijk ontvanger zijn verblijfplaats heeft, en dit uiterlijk tot het kind 8 jaar wordt.<br /><br />Wanneer het kind voor minstens 66 % getroffen is door een vermindering van lichamelijke of geestelijke geschiktheid in de zin van de kinderbijslagregeling, krijgt de gewestelijk ontvanger het recht op ouderschapsverlof uiterlijk tot het kind 8 jaar wordt.<br /><br />§ 3. De gewestelijk ontvanger die voor hetzelfde kind al onder dezelfde of een andere vorm ouderschapsverlof heeft genoten als ambtenaar of contractueel personeelslid van een andere werkgever, kan voor dit kind geen ouderschapsverlof onder de vorm van loopbaanonderbreking meer krijgen.
+De bepalingen van deel X, titel 6, hoofdstuk 6, Vervanging, van het VPS zijn van overeenkomstige toepassing op de gewestelijk ontvanger.
 
 ## [HOOFDSTUK 7 LOOPBAANONDERBREKING VOOR CONTRACTUELE GEWESTELIJKE ONTVANGERS (ing. BVR 4 september 2009, art. 1)]
 
 ### ART. 103.
 
-De gewestelijk ontvanger kan ouderschapsverlof onder de vorm van loopbaanonderbreking nemen onmiddellijk na het bevallings-, het vaderschaps- of het opvangverlof.
+De bepalingen van deel X, titel 6, hoofdstuk 7, Loopbaanonderbreking voor contractuelen, van het VPS zijn van overeenkomstige toepassing op de contractuele gewestelijk ontvanger.
 
 ### ART. 104.
 
-De mannelijke gewestelijk ontvanger heeft alleen recht op ouderschapsverlof onder de vorm van loopbaanonderbreking voor zover de afstamming van het kind in zijnen hoofde vaststaat, of wanneer het gaat om een kind dat hij heeft geadopteerd.
+...
 
 ### ART. 105.
 
-Indien de gewestelijk ontvanger geen recht heeft op onderbrekingsuitkeringen als gevolg van een beslissing van de directeur van het werkloosheidsbureau bevoegd voor zijn verblijfplaats, of afziet van deze uitkeringen, wordt de loopbaanonderbreking omgezet in non-activiteit behalve voor de uitzonderingen die de federale overheid bepaalt.
+...
 
 ## [TITEL 7 VERLOF VOOR OPDRACHT(verv. BVR 14 november 2008, art. 43, I: 8 december 2008)]
 
