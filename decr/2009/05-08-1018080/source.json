@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018080,
+  "title": "Decreet van 2009-05-08 houdende wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, wat de verplichting tot het opstellen van een milieueffectrapportage betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018080/VolledigDocument?datum=2009-07-13",
+  "source_sha256": "47e44e9426183b475d257a9e52fa44aba8fb33e1e43866b00a28bdb465b33839",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018080&param=informatie",
+  "as_of": "2009-07-13",
+  "made": "2009-05-08",
+  "gazette": "2009-07-03",
+  "numac": 2009035578,
+  "document_start": "2009-07-13",
+  "document_end": null,
+  "in_force": "2009-07-13",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
