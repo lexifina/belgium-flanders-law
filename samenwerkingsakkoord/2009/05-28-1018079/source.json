@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018079,
+  "title": "Samenwerkingsakkoord van 2009-05-28 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest tot wijziging van het samenwerkingsakkoord van 30 maart 2004 met betrekking tot de uitoefening van de geregionaliseerde bevoegdheden op het gebied van landbouw en visserij",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018079/VolledigDocument?datum=2009-07-13",
+  "source_sha256": "1dbd02fa6a68b7db9bf3850377d3edb05c507f404f05d22183050ddd73a9fb55",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018079&param=informatie",
+  "as_of": "2009-07-13",
+  "made": "2009-05-28",
+  "gazette": "2009-07-03",
+  "numac": 2009031332,
+  "document_start": "2009-07-13",
+  "document_end": null,
+  "in_force": "2009-07-13",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
