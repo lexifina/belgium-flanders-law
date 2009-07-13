@@ -370,11 +370,11 @@ De Vlaamse Regering kan, binnen de perken van de begroting, subsidies verlenen a
 
 ### ART. 76.
 
-§ 1. Er kan een rooilijnplan worden opgemaakt met het oog op de verwezenlijking van een ruimtelijk uitvoeringsplan.<br /><br />§ 2. Het rooilijnplan dat ter uitvoering van dit decreet tegelijkertijd met het ruimtelijk uitvoeringsplan wordt opgemaakt, wordt tegelijkertijd met dat ruimtelijk uitvoeringsplan onderworpen aan de procedureregels voor het opmaken van dat ruimtelijk uitvoeringsplan.<br /><br />Het rooilijnplan dat na het ruimtelijk uitvoeringsplan waarvan het de verwezenlijking beoogt, wordt opgemaakt, is onderworpen aan de procedureregels voor het opmaken van dat ruimtelijk uitvoeringsplan, met uitzondering van de adviezen van de Vlaamse regering, het college van burgemeesters en schepenen van buurgemeenten en de bestendige deputatie, zoals vastgesteld in artikel 42, § 4, derde en vierde lid, artikel 45, § 4, derde, vierde en vijfde lid, artikel 49, § 4, tweede, derde en vierde lid.<br /><br />De eigenaars van de goederen, gelegen binnen de omtrek van de percelen in kwestie, worden vóór de aanvang van het openbaar onderzoek door de overheid die het ontwerpplan voorlopig vaststelt, bij aangetekende brief in hun woonplaats ervan op de hoogte gebracht dat het rooilijnplan in het gemeentehuis ter inzage ligt.
+...
 
 ### ART. 77.
 
-De artikelen 69 tot en met 74 zijn van toepassing op de verwerving van percelen, nodig voor de uitvoering van de rooilijnplannen opgemaakt ter uitvoering van artikel 76.<br /><br />Het besluit van de Vlaamse regering, de provincieraad of de gemeenteraad houdende de definitieve vaststelling van het rooilijnplan kan evenwel bepalen dat het rooilijnplan slechts kan worden uitgevoerd naarmate de aanvragen voor een stedenbouwkundige of verkavelingsvergunning worden ingediend. In dat geval is het artikel 74 niet van toepassing.
+...
 
 ## HOOFDSTUK VII [... (opgeh. decr. 27 maart 2009, art. 31, I: 1 september 2009)]
 
