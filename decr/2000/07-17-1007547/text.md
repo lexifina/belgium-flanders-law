@@ -54,7 +54,11 @@ GIS-Vlaanderen bestaat uit het Vlaamse Gewest, de Vlaamse Gemeenschap, alle inte
 
 ### ART. 12.
 
-§ 1. Er wordt een Geografische Informatie Raad opgericht, hierna de GI-raad te noemen.<br /><br />§ 2. De GI-raad heeft als opdracht, op eigen initiatief of op verzoek van de minister, advies te verlenen over aangelegenheden inzake de aanmaak, het gebruik en de uitwisseling van geografische informatie in Vlaanderen.<br /><br />§ 3. De Vlaamse regering bepaalt de samenstelling en de werking van de GI-raad en benoemt de voorzitter en de leden. De leden van de GI-raad zijn deskundig in geografische informatie en overheidsaangelegenheden.
+§ 1. Er wordt een Geografische Informatie Raad opgericht, hierna de GI-raad te noemen.<br>
+<br>
+§ 2. De GI-raad heeft als opdracht, op eigen initiatief of op verzoek van de minister, advies te verlenen over aangelegenheden inzake de aanmaak, het gebruik en de uitwisseling van geografische informatie in Vlaanderen. De GI-Raad is voor geografische gegevens een afnemersforum als vermeld in artikel 4, § 4, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.<br>
+<br>
+§ 3. De Vlaamse regering bepaalt de samenstelling en de werking van de GI-raad en benoemt de voorzitter en de leden. De leden van de GI-raad zijn deskundig in geografische informatie en overheidsaangelegenheden.
 
 ### ART. 13.
 
@@ -62,7 +66,7 @@ GIS-Vlaanderen bestaat uit het Vlaamse Gewest, de Vlaamse Gemeenschap, alle inte
 
 ### ART. 14.
 
-§ 1. Het [agentschap  <span class="reference">(verv. decr. 7 mei 2004, art. 14, I: 1 april 2006)</span> ] staat in voor de cordinatie, de organisatie en de dienstverlening van GIS-Vlaanderen en wordt belast met de uitvoering van het GIS-plan en het GIS-uitvoeringsplan.<br /><br />§ 2. Het [agentschap  <span class="reference">(verv. decr. 7 mei 2004, art. 14, I: 1 april 2006)</span> ] verkrijgt zijn middelen uit:<br /><br />1° een jaarlijkse dotatie lastens de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br /><br />2° vergoedingen voor het leveren van diensten, voor het leveren en het bijhouden van referentie- en themabestanden en eventuele bijdragen van de deelnemers van GIS-Vlaanderen in de werkingskosten van het [agentschap;  <span class="reference">(verv. decr. 7 mei 2004, art. 14, I: 1 april 2006)</span> ]<br /><br />3° bijdragen van de deelnemers in de uitvoering van projecten overeenkomstig artikel 21 van dit decreet.<br /><br />§ 3. [Onverminderd de bepalingen van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB) kan het  <span class="reference">(verv. decr. 16 april 2004, art. 44, I: 15 juli 2004)</span> ] [agentschap,  <span class="reference">(verv. decr. 7 mei 2004, art. 14, I: 1 april 2006)</span> ] [op voorstel van de stuurgroep, een vergoeding vaststellen voor het leveren van diensten of voor het leveren en bijhouden van referentie- en themabestanden aan de deelnemers en aan derden.  <span class="reference">(verv. decr. 16 april 2004, art. 44, I: 15 juli 2004)</span> ]<br /><br />§ 4. [...  <span class="reference">(opgeh. decr. 7 mei 2004, art. 14, I: 1 april 2006)</span> ]
+§ 1. Het agentschap staat in voor de cordinatie, de organisatie en de dienstverlening van GIS-Vlaanderen en wordt belast met de uitvoering van het GIS-plan en het GIS-uitvoeringsplan.<br /><br />§ 2. Het agentschap verkrijgt zijn middelen uit:<br />1° een jaarlijkse dotatie lastens de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br />2° vergoedingen voor het leveren van diensten, voor het leveren en het bijhouden van referentie- en themabestanden en eventuele bijdragen van de deelnemers van GIS-Vlaanderen in de werkingskosten van het agentschap; <br />3° bijdragen van de deelnemers in de uitvoering van projecten overeenkomstig artikel 21 van dit decreet.<br /><br />§ 3. Met behoud van de toepassing van de bepalingen van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB) kan het agentschap, op voorstel van de stuurgroep, een vergoeding vaststellen voor het leveren van diensten aan deelnemers en derden, alsook voor het bijhouden en leveren aan derden van referentie- en themabestanden. De elektronische mededeling van gegevens uit referentie- en themabestanden aan de deelnemers en de instanties, vermeld in artikel 2, 10°, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, is kosteloos.<br /><br />§ 4. ...
 
 ### ART. 15.
 
@@ -84,7 +88,7 @@ Het [agentschap  <span class="reference">(verv. decr. 7 mei 2004, art. 14, I: 1 
 
 ### ART. 19.
 
-[§ 1. De Vlaamse regering stelt, op voorstel van de stuurgroep, de referentiebestanden vast.<br /><br />§ 2. De Vlaamse regering zal, op voorstel van de stuurgroep, de deelnemers aan GIS-Vlaanderen aanwijzen die belast worden met het aanmaken, het beheren en het bijhouden van bepaalde themabestanden of onderdelen van referentiebestanden.<br /><br />§ 3. Voor het aanmaken, het beheren en het bijhouden van bestanden, bedoeld in § 2, zijn de deelnemers aan GIS-Vlaanderen gehouden aan de richtlijnen die hen door de stuurgroep worden verstrekt.  <span class="reference">(verv. decr. 16 april 2004, art. 46, I: 15 juli 2004)</span> ]
+§ 1. De Vlaamse regering stelt, op voorstel van de stuurgroep, de referentiebestanden vast. <br /><br />Tegelijkertijd wijst de Vlaamse Regering, op voorstel van de stuurgroep, de deelnemer aan GIS-Vlaanderen aan die het referentiebestand beheert overeenkomstig artikel 4, § 1, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.<br /><br />Die referentiebestanden zijn authentieke gegevensbronnen als vermeld in artikel 4 van het voormelde decreet. De Vlaamse Regering kan, op voorstel van de stuurgroep, de voorwaarden en de wijze bepalen waaronder de gegevens van de referentiebestanden worden verwerkt.<br /><br />§ 2. De Vlaamse regering zal, op voorstel van de stuurgroep, de deelnemers aan GIS-Vlaanderen aanwijzen die belast worden met het aanmaken, het beheren en het bijhouden van bepaalde themabestanden of onderdelen van referentiebestanden. Die themabestanden zijn authentieke gegevensbronnen als vermeld in artikel 4 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. De Vlaamse Regering kan, op voorstel van de stuurgroep, de voorwaarden en de wijze bepalen waaronder de gegevens van de themabestanden worden verwerkt.<br /><br />§ 3. Voor het aanmaken, het beheren en het bijhouden van bestanden, bedoeld in § 2, zijn de deelnemers aan GIS-Vlaanderen gehouden aan de richtlijnen die hen door de stuurgroep worden verstrekt.
 
 ### ART. 20.
 
@@ -110,7 +114,7 @@ Onverminderd de wettelijke of decretale bepalingen inzake de mededeling van info
 
 ### ART. 25.
 
-Onverminderd de bevoegdheid van de deelnemers aan GIS-Vlaanderen om hun geografische informatie ter beschikking te stellen van derden als bedoeld in artikel 6, fungeert het [agentschap  <span class="reference">(verv. decr. 7 mei 2004, art. 14, I: 1 april 2006)</span> ] als centraal distributiecentrum voor de geografische informatie van de Gronddatabank.
+Onverminderd de bevoegdheid van de deelnemers aan GIS-Vlaanderen om hun geografische informatie ter beschikking te stellen van derden als bedoeld in artikel 6, fungeert het agentschap als centraal distributiecentrum voor de geografische informatie van de Gronddatabank. Het agentschap is een entiteit als vermeld in artikel 4, § 3, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.
 
 ### ART. 26.
 
