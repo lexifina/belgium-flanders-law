@@ -2,29 +2,97 @@
 
 ## HOOFDSTUK I. Algemene bepalingen en definities
 
+### ART. 1.
+
+Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
+
+### ART. 2.
+
+Voor de toepassing van dit decreet wordt verstaan onder :<br />1° het elektronische bestuurlijke gegevensverkeer : het verkeer van gegevens binnen en tussen overheidsdiensten op elektronische wijze;<br />2° authentieke gegevensbron : een op elektronische wijze bijgehouden verzameling van gegevens die als de meest volledige, kwalitatief hoogstaande door de Vlaamse Regering is erkend, en die nuttig of noodzakelijk is in het kader van het elektronische bestuurlijke gegevensverkeer;<br />3° gebruiker : iedere natuurlijke persoon of rechtspersoon, met inbegrip van ondernemingen, instellingen, verenigingen en alle onderdelen van de overheid zelf, die in contact met de overheid staat in het kader van het elektronische bestuurlijke gegevensverkeer;<br />4° privacywet : de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens en de uitvoeringsbesluiten ervan;<br />5° Commissie voor de bescherming van de persoonlijke levenssfeer : de commissie, opgericht bij artikel 23 van de privacywet;<br />6° verwerken : iedere verwerking als vermeld in artikel 1, § 2, van de privacywet;<br />7° mededeling : een of meer handelingen als vermeld in artikel 1, § 2, van de privacywet, die slaan op het verstrekken van gegevens door middel van doorzending, het verspreiden, en het op welke andere wijze ook ter beschikking stellen van gegevens, voor zover dat op systematische en georganiseerde wijze gebeurt. De mededeling aan de personen op wie de gegevens betrekking hebben, aan hun wettelijke vertegenwoordigers, alsook aan degenen die door hen uitdrukkelijk werden gemachtigd om de gegevens te verwerken wordt niet als mededeling in de betekenis van dit decreet beschouwd;<br />8° toezichtcommissie : de Vlaamse toezichtcommissie voor het elektronische bestuurlijke gegevensverkeer, vermeld in artikel 10;<br />9° entiteiten van de Vlaamse administratie :<br />- de Vlaamse departementen en de intern en extern verzelfstandigde agentschappen, vermeld in artikel 3, eerste en tweede lid, van het kaderdecreet bestuurlijk beleid van 18 juli 2003;<br />- de strategische adviesraden, vermeld in artikel 2, 1°, van het decreet van 18 juli 2003 tot regeling van strategische adviesraden;<br />- de Vlaamse Radio- en Televisieomroep;<br />- de administratieve diensten van de Raad van het Gemeenschapsonderwijs, vermeld in artikel 66 van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs;<br />- de Vlaamse Maatschappij voor Watervoorziening, vermeld in artikel 2 van het decreet van 28 juni 1983 houdende oprichting van de instelling Vlaamse Maatschappij voor Watervoorziening;<br />- UZ Gent;<br />- de VITO, vermeld in artikel 2 van het decreet van 23 januari 1991 betreffende de Vlaamse Instelling voor Technologisch Onderzoek;<br />- het IWT-Vlaanderen, vermeld in artikel 2 van 23 januari 1991 betreffende de oprichting van een Instituut voor de aanmoediging van innovatie door Wetenschap en Technologie in Vlaanderen;<br />10° instantie : de instantie, vermeld in artikel 4, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur;<br />11° externe overheid : een overheid die tot het internationale of federale niveau behoort, een andere gemeenschap of een ander gewest, en de daarvan afhangende instellingen of rechtspersonen, alsmede de privaatrechtelijke rechtspersonen die belast zijn met taken of opdrachten van algemeen belang;<br />12° metagegevens : documentatie die beschrijft wat de inhoud en de frequentie van actualisering van de authentieke gegevensbron zijn, en op welke technische wijze die bron benaderd en ontsloten kan worden;<br />13° testgegevens : een in omvang beperkte kopie van de authentieke gegevensbron met technisch dezelfde kenmerken als de authentieke gegevensbron, maar die uit anonieme, geanonimiseerde of fictieve gegevens bestaat;<br />14° persoonsgegevens : de persoonsgegevens, vermeld in artikel 1 van de privacywet;<br />15° elektronische formulieren : elektronische documenten en digitale toepassingen waarin gegevens in voorgestructureerde antwoordruimten online worden ingevuld en met eventuele bijlagen aan de Vlaamse overheid via de aangeboden of aangewezen toepassing digitaal worden bezorgd met het oog op de toepassing van regelgeving;<br />16° papieren formulieren : papieren documenten waarin gegevens in voorgestructureerde antwoordruimten handmatig worden ingevuld en met eventuele bijlagen aan de Vlaamse overheid worden bezorgd met het oog op de toepassing van regelgeving;<br />17° afnemersforum : een forum dat bestaat uit afnemers van een authentieke gegevensbron in kwestie;<br />18° provinciale en lokale besturen : een provincie, een gemeente, een OCMW, een door hen opgericht verzelfstandigd agentschap of een vereniging waaraan zij deelnemen met toepassing van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking of van de organieke wet van 8 juli 1976 betreffende de Openbare Centra voor Maatschappelijk Welzijn of een bestuur van een erkende eredienst.
+
 ## [HOOFDSTUK II. Oprichting van gegevensbronnen met basisgegevens (ing. Decr. 23 juni 2023, art. 3, I: 21 augustus 2023)]
 
 ## [Afdeling I. Toepassingsgebied (ing. Decr. 23 juni 2023, art. 4 I: 21 augustus 2023)]
 
+### ART. 3.
+
+De entiteiten van de Vlaamse administratie moeten de gegevens die ze nodig hebben om het elektronische bestuurlijke gegevensverkeer uit te bouwen, bij authentieke gegevensbronnen opvragen.<br /><br />Alleen als het om technische of juridische redenen niet mogelijk is een gegeven op te vragen bij een authentieke gegevensbron of als er geen authentieke gegevensbron bestaat, vragen de entiteiten van de Vlaamse administratie gegevens bij de gebruiker op.<br /><br />De gebruiker bij wie een entiteit van de Vlaamse administratie een gegeven opvraagt, kan overeenkomstig het decreet van 1 juni 2001 houdende toekenning van een klachtrecht ten aanzien van bestuursinstellingen een klacht indienen met vermelding dat het gevraagde gegeven overeenkomstig § 1 bij een authentieke gegevensbron moet worden opgevraagd, zonder dat hij op basis van die klacht kan weigeren het gevraagde gegeven te verschaffen. Het klachtrecht kan worden uitgeoefend vanaf het ogenblik dat de Vlaamse Regering, ter uitvoering van artikel 4, §§ 1 en 2, de authentieke gegevensbronnen heeft aangewezen.
+
 ## [Afdeling II. Oprichting van een gegevensbron met gegevens van verenigingen (ing. Decr. 23 juni 2023, art. 6, I: 21 augustus 2023)]
+
+### ART. 4.
+
+§ 1. De Vlaamse Regering wijst de authentieke gegevensbronnen aan en bepaalt volgens de door haar bepaalde procedure welke instanties authentieke gegevensbronnen beheren. Die instanties zijn verantwoordelijk voor de instandhouding, de terbeschikkingstelling, de veiligheid, de toegang en het gebruik van de authentieke gegevensbron en van de gegevens van die authentieke gegevensbron in kwestie en kunnen daartoe gegevens bij de gebruiker opvragen.<br /><br />Om het elektronische bestuurlijke gegevensverkeer uit te bouwen, kan de Vlaamse Regering bepalen onder welke voorwaarden en op welke wijze die gegevens worden verwerkt.<br /><br />§ 2. De Vlaamse Regering stelt vast welke authentieke gegevensbronnen die door een externe overheid worden beheerd, door de entiteiten van de Vlaamse administratie moeten worden geraadpleegd om het elektronische bestuurlijke gegevensverkeer uit te bouwen. De Vlaamse Regering sluit met de externe overheden de nodige akkoorden zodat de gegevens die in die authentieke gegevensbronnen opgenomen zijn, kunnen worden gebruikt.<br /><br />§ 3. De Vlaamse Regering kan een of meer entiteiten van de Vlaamse administratie aanwijzen om tussenbeide te komen bij de mededeling van gegevens uit authentieke gegevensbronnen of om een ondersteunend gebruikers- en toegangsbeheer te verwezenlijken.<br /><br />Die entiteit kan of die entiteiten kunnen daartoe zo nodig elektronische repertoria en verwijzingsrepertoria beheren en gegevens met elkaar in verband brengen. Ze moeten er in voorkomend geval op toezien dat bij de mededeling van de gegevens de machtigingen, vermeld in artikel 8, § 1, worden geëerbiedigd. De Vlaamse Regering bepaalt de regels voor het aanmaken, het onderhoud, de actualisatie en de stopzetting van voormelde repertoria.<br /><br />§ 4. De Vlaamse Regering kan voor de instanties die authentieke gegevensbronnen beheren overeenkomstig artikel 4, § 1, en voor de entiteiten overeenkomstig artikel 4, § 3, afnemersfora samenstellen die advies verlenen aan die instanties en entiteiten om het elektronische bestuurlijke gegevensverkeer te verbeteren.
 
 ## [Afdeling III. Oprichting van een gegevensbron met rekeningnummers (ing. Decr. 23 juni 2023, art. 12, I: 21 augustus 2023)]
 
+### ART. 5.
+
+Er wordt een strategisch overleg- en samenwerkingsverband opgericht tot ondersteuning van de instanties bij de uitvoering van dit decreet en bij de uitbouw en exploitatie van een gestructureerd communicatie- en beheersysteem van maximale gegevensdeling tussen de administraties, hierna het MAGDA-samenwerkingsverband te noemen. Het MAGDA-samenwerkingsverband staat in voor ten minste :<br />1° het optimaliseren binnen de instanties van de aanmaak, het gebruik, de uitwisseling en het beheer van gegevens;<br />2° een gestructureerde aanpak bij de uitbouw van een stelsel van Vlaamse authentieke gegevensbronnen;<br />3° het overleg omtrent het aanmaken en het beheren van authentieke gegevensbronnen;<br />4° het ontwikkelen van een organisatie voor de uitwisseling van metadata;<br />5° het promoten, begeleiden en coördineren van authentieke gegevensbronnen bij de instanties;<br />6° het gemeenschappelijk verwerven van informatie.<br /><br />Het MAGDA-samenwerkingsverband bestaat uit vertegenwoordigers van de entiteiten van de Vlaamse administratie en van de provinciale en lokale besturen.<br /><br />De Vlaamse Regering stelt de verdere regeling, de organisatie, de samenstelling en de opdracht van het samenwerkingsverband vast.
+
 ## [Afdeling IV. Oprichting van een gegevensbron met de contactgegevens van de burgers (ing. Decr. 23 juni 2023, art. 21, I: 21 augustus 2023)]
+
+### ART. 6.
+
+§ 1. De instanties zijn in ieder geval verplicht :<br />1° persoonsgegevens te verwerken overeenkomstig de privacywet;<br />2° bij iedere nieuwe toepassing van het elektronische bestuurlijke gegevensverkeer vooraf adequate technische en organisatorische maatregelen in te bouwen voor de naleving van de privacywet;<br />3° op elk moment te waken over de kwaliteit en de veiligheid van gegevens en alle maatregelen te treffen om een perfecte bewaring van persoonsgegevens te garanderen;<br />4° de toezichtcommissie te ondersteunen bij de vervulling van haar opdrachten;<br />5° de toezichtcommissie informatie te verstrekken en inzage in alle dossiers en informatieverwerkende systemen te verschaffen telkens als ze daarom vraagt.<br /><br />§ 2. De elektronische mededeling van gegevens uit authentieke gegevensbronnen als vermeld in artikel 4, § 1, aan andere instanties is kosteloos.<br /><br />De Vlaamse Regering kan regels bepalen voor het aanrekenen van kosten voor de elektronische mededeling van die gegevens aan derden.<br /><br />Als de ontvanger van de gegevens vaststelt dat de gegevens onnauwkeurig, onvolledig of onjuist zijn, is hij verplicht dat onmiddellijk te melden aan de instantie die de authentieke gegevensbron in kwestie beheert. De Vlaamse Regering kan de regels voor die melding bepalen.
+
+### ART. 7.
+
+§ 1. De instanties die authentieke gegevensbronnen beheren overeenkomstig artikel 4, § 1, of de entiteiten, vermeld in artikel 4, § 3, stellen de metagegevens van de authentieke gegevensbronnen kosteloos en publiekelijk open, zonder evenwel inbreuk te plegen op de intellectuele rechten en de confidentialiteitsverplichtingen die met die gegevensbronnen samenhangen, en zonder informatie bekend te maken die ongeoorloofde toegang of ongeoorloofd gebruik van de gegevensbronnen mogelijk maakt of de integriteit ervan in gevaar brengt.<br /><br />Ze kunnen testgegevens ter beschikking stellen overeenkomstig het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie.<br /><br />§ 2. Om te verhinderen dat misbruik wordt gemaakt van de metagegevens of de testgegevens, kan de Vlaamse Regering nadere bepalingen uitvaardigen over de registratie van de raadpleging van de metagegevens en het gebruik van de testgegevens.
 
 ## HOOFDSTUK III. [De bescherming van natuurlijke personen bij de verwerking van persoonsgegevens en de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens (verv. Decr. 8 juni 2018, art. 14, I: 29 maart 2019)]
 
 ## Afdeling I. [De bescherming van natuurlijke personen bij de verwerking van persoonsgegevens (verv. Decr. 8 juni 2018, art. 15, I: 25 mei 2018)]
 
+### ART. 9.
+
+Iedere instantie die een authentieke gegevensbron beheert die persoonsgegevens bevat, iedere instantie die elektronische persoonsgegevens ontvangt of uitwisselt, en iedere entiteit die overeenkomstig artikel 4, § 3, aangewezen is en persoonsgegevens verwerkt, wijst een veiligheidsconsulent aan. De Vlaamse Regering bepaalt de opdrachten en de manier van aanwijzing van die veiligheidsconsulenten.
+
 ## [Afdeling I/2. Het Vlaamse Comité voor de mededeling van persoonsgegevens (ing. Decr. 23 juni 2023, art. 31, I: 21 augustus 2023)]
 
 ## Afdeling II. [De Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens (verv. Decr. 8 juni 2018, art. 18, I: 29 maart 2019)]
 
+### ART. 10.
+
+§ 1. Bij het Vlaams Parlement wordt een onafhankelijke Vlaamse toezichtcommissie voor het elektronische bestuurlijke gegevensverkeer opgericht, die bestaat uit zes leden en zes plaatsvervangende leden. Hun mandaat duurt vijf jaar en is hernieuwbaar.<br /><br />Binnen de toezichtcommissie kan het Vlaams Parlement kamers oprichten voor specifieke materies.<br /><br />§ 2. Het Vlaams Parlement stelt, na overleg met de Commissie voor de bescherming van de persoonlijke levenssfeer, onder de leden of plaatsvervangende leden van die commissie drie leden van de toezichtcommissie aan, waaronder de voorzitter, alsook een plaatsvervanger voor elk van hen.<br /><br />De andere drie leden van de toezichtcommissie zijn respectievelijk een jurist, een informaticus en een persoon die beroepservaring kan voorleggen in het beheer van persoonsgegevens. Ze worden aangesteld door het Vlaams Parlement, dat voor elk van hen ook een plaatsvervanger benoemt.<br /><br />§ 3. De plaatsvervanger vervangt het lid van wie hij de plaatsvervanger is, als dit niet aan de besluitvorming van de toezichtcommissie kan deelnemen wegens een belangenconflict, of in afwachting van zijn vervanging.<br /><br />Als het mandaat van een lid van de toezichtcommissie een einde neemt voor de vastgestelde datum, voorziet het Vlaams Parlement binnen zes maanden in de vervanging ervan.<br /><br />Het nieuwe lid voleindigt het mandaat van zijn voorganger.<br /><br />§ 4. Om tot lid of plaatsvervangend lid aangewezen te kunnen worden en het te kunnen blijven, moet de kandidaat aan de volgende voorwaarden voldoen :<br />1° de burgerlijke en politieke rechten genieten;<br />2° geen lid zijn van het Europees Parlement, de Senaat, de Kamer van Volksvertegenwoordigers, het Vlaams Parlement of een andere gemeenschaps- of gewestraad;<br />3° niet onder het hiërarchische gezag staan van het Vlaams Parlement;<br />4° alle waarborgen bieden met het oog op hun onafhankelijke uitoefening van hun opdracht.<br /><br />§ 5. Het Vlaams Parlement regelt de procedure voor de oproep of de uitnodiging tot kandidaatstelling en voor de kandidaatstelling voor een benoeming als lid of plaatsvervangend lid.<br /><br />§ 6. De leden van de toezichtcommissie zijn evenwaardig en hebben dezelfde bevoegdheden. Binnen de perken van hun bevoegdheden krijgen ze van niemand onderrichtingen. Ze kunnen niet van hun mandaat worden ontheven voor meningen die ze uiten of daden die ze stellen in het kader van hun functie in de toezichtcommissie.
+
+### ART. 12.
+
+§ 1. De toezichtcommissie beschikt over een secretariaat, waarvan de personeelsformatie, het statuut en de wijze van aanwerving worden bepaald door het Vlaams Parlement, op voorstel van de toezichtcommissie. De personeelsformatie kan, in beperkte en behoorlijk verantwoorde mate, voorzien in de mogelijkheid om werknemers met een arbeidsovereenkomst van bepaalde duur in dienst te nemen.<br /><br />De voorzitter van de toezichtcommissie heeft de leiding over dat secretariaat.<br /><br />§ 2. De plaatsvervangende voorzitter en de vaste of plaatsvervangende leden hebben recht op presentiegeld voor een bedrag van 223,18 euro (indexcijfer 1,2682). Dat bedrag is gekoppeld aan de evolutie van het indexcijfer van de consumptieprijzen.<br /><br />De voorzitter heeft recht op anderhalve maal het presentiegeld.<br /><br />Alle leden hebben recht op de vergoedingen voor reis- en verblijfskosten overeenkomstig de bepalingen die van toepassing zijn op het personeel van de ministeries.<br /><br />§ 3. Het Vlaams Parlement keurt jaarlijks op voorstel van de voorzitter de begroting en de rekeningen van de toezichtcommissie goed.
+
 ## HOOFDSTUK IV. [... (opgeh. Bestuursdecreet van 7 december 2018, art. 273, 7°, c), I: 1 januari 2019)]
+
+### ART. 13.
+
+De Vlaamse Regering kan decretale bepalingen aanpassen om de erin opgelegde verplichting om een bepaald formulier te gebruiken af te schaffen of om het model van een formulier af te schaffen en te vervangen door een opsomming van de gegevens die aan de bevoegde overheid moeten worden bezorgd met het oog op de toepassing van de regeling in kwestie.
+
+### ART. 14.
+
+De Vlaamse overheid kan voor de toepassing van de regelgeving waarvoor ze bevoegd is, elektronische formulieren ter beschikking stellen.<br /><br />Die elektronische formulieren worden gelijkgesteld met papieren formulieren die hetzelfde opschrift dragen en die ingevuld, gevalideerd en bezorgd worden overeenkomstig de voorwaarden die de Vlaamse Regering bepaalt.
 
 ## HOOFDSTUK V. Wijzigingsbepalingen
 
 ## Afdeling I. Wijzigingen in het decreet van 17 juli 2000 houdende het Geografisch Informatie Systeem Vlaanderen
+
+### ART. 15.
+
+Aan artikel 12, § 2, van het decreet van 17 juli 2000 houdende het Geografisch Informatie Systeem Vlaanderen wordt de volgende zin toegevoegd :<br /><br />« De GI-Raad is voor geografische gegevens een afnemersforum als vermeld in artikel 4, § 4, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. ».
+
+### ART. 16.
+
+In artikel 14 van hetzelfde decreet, gewijzigd bij de decreten van 16 april 2004 en 7 mei 2004, wordt § 3 vervangen door wat volgt :<br /><br />« § 3. Met behoud van de toepassing van de bepalingen van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB) kan het agentschap, op voorstel van de stuurgroep, een vergoeding vaststellen voor het leveren van diensten aan deelnemers en derden, alsook voor het bijhouden en leveren aan derden van referentie- en themabestanden. De elektronische mededeling van gegevens uit referentie- en themabestanden aan de deelnemers en de instanties, vermeld in artikel 2, 10°, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, is kosteloos. ».
+
+### ART. 17.
+
+Aan artikel 19, § 1, van hetzelfde decreet, vervangen bij het decreet van 16 april 2004, worden de volgende zinnen toegevoegd :<br /><br />« Tegelijkertijd wijst de Vlaamse Regering, op voorstel van de stuurgroep, de deelnemer aan GIS-Vlaanderen aan die het referentiebestand beheert overeenkomstig artikel 4, § 1, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.<br /><br />Die referentiebestanden zijn authentieke gegevensbronnen als vermeld in artikel 4 van het voormelde decreet. De Vlaamse Regering kan, op voorstel van de stuurgroep, de voorwaarden en de wijze bepalen waaronder de gegevens van de referentiebestanden worden verwerkt. ».
+
+### ART. 18.
+
+Aan artikel 19, § 2, van hetzelfde decreet, vervangen bij het decreet van 16 april 2004, worden de volgende zinnen toegevoegd :<br /><br />« Die themabestanden zijn authentieke gegevensbronnen als vermeld in artikel 4 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. De Vlaamse Regering kan, op voorstel van de stuurgroep, de voorwaarden en de wijze bepalen waaronder de gegevens van de themabestanden worden verwerkt. ».<br />
+
+### ART. 19.
+
+Aan artikel 25 van hetzelfde decreet, gewijzigd bij het decreet van 7 mei 2004, wordt de volgende zin toegevoegd :<br /><br />« Het agentschap is een entiteit als vermeld in artikel 4, § 3, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. ».
 
 ## Afdeling II. Wijziging in het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid
 
@@ -40,11 +108,27 @@ In artikel 16, § 3, en artikel 17, § 2, van het decreet van 3 maart 2004 betre
 
 ## Afdeling IV. Wijzigingen in het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB)
 
+### ART. 22.
+
+Aan artikel 3, § 2, tweede lid, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB) wordt de volgende zin toegevoegd :<br /><br />« De GRB-raad is een afnemersforum als vermeld in artikel 4, § 4, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. ».
+
+### ART. 23.
+
+Aan artikel 14 van hetzelfde decreet, gewijzigd bij het decreet van 21 april 2006, worden de volgende zinnen toegevoegd :<br /><br />« Het Agentschap is een instantie als vermeld in artikel 4, § 1, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. Het GRB is een authentieke gegevensbron als vermeld in artikel 4 van het voormelde decreet. ».
+
 ## Afdeling V. Wijziging in het decreet van 7 mei 2004 houdende de oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap « Agentschap voor Geografische Informatie Vlaanderen »
+
+### ART. 24.
+
+Aan artikel 5, 15°, van het decreet van 7 mei 2004 houdende de oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap « Agentschap voor Geografische Informatie Vlaanderen », vervangen bij het decreet van 21 april 2006, wordt de volgende zin toegevoegd :<br /><br />« Het Agentschap is een entiteit als vermeld in artikel 4, § 3, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. ».
 
 ## Afdeling VI. Wijzigingen in het decreet van 16 juni 2006 betreffende het gezondheidsinformatiesysteem
 
 ## Afdeling VII. Wijziging in het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten
+
+### ART. 28.
+
+Aan artikel 3 van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten wordt een vierde lid toegevoegd, dat luidt als volgt :<br /><br />« Het Agentschap voor Geografische Informatie Vlaanderen is een instantie als vermeld in artikel 4, § 1, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. Het geografisch themabestand Vlaamse voorkooprechten' is een authentieke gegevensbron als vermeld in artikel 4 van het voormelde decreet. ».
 
 ## HOOFDSTUK VI. Slotbepalingen
 
@@ -59,3 +143,11 @@ In artikel 26 van het decreet van 3 maart 2004 betreffende de eerstelijnsgezondh
 ### ART. 31.
 
 Hoofdstuk VI, bestaande uit artikelen 55 tot en met 69, en artikel 88 van het decreet van 16 juni 2006 betreffende het gezondheidsinformatiesysteem worden opgeheven.
+
+### ART. 32.
+
+De opdrachten van de toezichtcommissie of van een of meer kamers van de toezichtcommissie kunnen ter uitvoering van een samenwerkingsakkoord, gesloten tussen de federale overheid, de gemeenschappen en de gewesten, worden overgedragen aan een gemeenschappelijk sectoraal comité als vermeld in artikel 31bis van de privacywet, opgericht binnen de Commissie voor de bescherming van de persoonlijke levenssfeer.<br /><br />De Vlaamse Regering bepaalt dan op welk ogenblik de taken en de bevoegdheden van de toezichtcommissie of van een of meer kamers van de toezichtcommissie worden overgedragen aan het gemeenschappelijk sectoraal comité, vermeld in het eerste lid.
+
+### ART. 33.
+
+De Vlaamse Regering bepaalt voor elk van de artikelen de datum van inwerkingtreding en artikel 31 treedt in werking op datum van de inwerkingtreding van artikelen 25 tot en met 27.
