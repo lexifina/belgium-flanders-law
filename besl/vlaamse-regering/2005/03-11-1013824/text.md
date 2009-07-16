@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit en de bijlagen wordt verstaan onder:<br />1° minister: de Vlaamse minister, bevoegd voor het energiebeleid;<br />2° aanvraag tot het verkrijgen van een stedenbouwkundige vergunning: de aanvraag tot het verkrijgen van een stedenbouwkundige vergunning zoals bedoeld in artikel 99, § 1, 1°, 6° en 7° van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening;<br />3° woongebouw: gebouw bestemd voor individuele of collectieve huisvesting;<br />4° kantoorgebouw: gebouw bestemd voor een dienstverleningsfunctie waarin voornamelijk administratief werk wordt verricht en waaronder ook de gebouwen vallen die bestemd zijn om te worden gebruikt voor de uitoefening van een vrij beroep zoals gedefinieerd in de wet van 2 augustus 2002 betreffende de misleidende en vergelijkende reclame, de onrechtmatige bedingen en de op afstand gesloten overeenkomsten inzake de vrije beroepen;<br />5° schoolgebouw: gebouw bestemd voor een onderwijsfunctie;<br />6° industrieel gebouw: gebouw bestemd voor de productie, de bewerking, de opslag of manipulatie van goederen;<br />7° gebouw met een andere specifieke bestemming: gebouw dat niet valt onder woongebouw, kantoorgebouw, schoolgebouw of industrieel gebouw. Hieronder vallen:<br />- ziekenhuizen;<br />- hotels en restaurants;<br />- sportvoorzieningen;<br />- groot- en kleinhandelsgebouwen;<br />- andere typen energieverbruikende gebouwen;<br />8° R-waarde: warmteweerstand van een constructieonderdeel;<br />9° wooneenheid: elke eenheid in een woongebouw die over de nodige woonvoorzieningen beschikt om autonoom te kunnen functioneren.<br />10° haalbaarheidsstudie : studie waaruit blijkt dat de technische, milieukundige en economische haalbaarheid van alternatieve energiesystemen voor de start van de bouw in aanmerking werd genomen;<br />11° bruikbare vloeroppervlakte : de som van de bruto vloeroppervlakten van alle vloerniveaus binnen het beschermd volume van het gebouw, zoals berekend volgens de door het Vlaams Energieagentschap vastgelegde specificaties.
+Voor de toepassing van dit besluit en de bijlagen wordt verstaan onder:<br />1° minister: de Vlaamse minister, bevoegd voor het energiebeleid;<br />2° aanvraag tot het verkrijgen van een stedenbouwkundige vergunning: de aanvraag tot het verkrijgen van een stedenbouwkundige vergunning zoals bedoeld in artikel 99, § 1, 1°, 6° en 7° van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening;<br />3° woongebouw: gebouw bestemd voor individuele of collectieve huisvesting;<br />4° kantoorgebouw: gebouw bestemd voor een dienstverleningsfunctie waarin voornamelijk administratief werk wordt verricht en waaronder ook de gebouwen vallen die bestemd zijn om te worden gebruikt voor de uitoefening van een vrij beroep zoals gedefinieerd in de wet van 2 augustus 2002 betreffende de misleidende en vergelijkende reclame, de onrechtmatige bedingen en de op afstand gesloten overeenkomsten inzake de vrije beroepen;<br />5° schoolgebouw: gebouw bestemd voor een onderwijsfunctie;<br />6° industrieel gebouw: gebouw bestemd voor de productie, de bewerking, de opslag of manipulatie van goederen;<br />7° gebouw met een andere specifieke bestemming: gebouw dat niet valt onder woongebouw, kantoorgebouw, schoolgebouw of industrieel gebouw. Hieronder vallen:<br />- ziekenhuizen;<br />- hotels en restaurants;<br />- sportvoorzieningen;<br />- groot- en kleinhandelsgebouwen;<br />- andere typen energieverbruikende gebouwen;<br />8° R-waarde: warmteweerstand van een constructieonderdeel;<br />9° wooneenheid : elke eenheid in een woongebouw die ontworpen of aangepast is om afzonderlijk te worden gebruikt en die minstens over de volgende woonvoorzieningen beschikt : een woonruimte in combinatie met een toilet, een douche of bad en een keuken of kitchenette;<br />10° haalbaarheidsstudie : studie waaruit blijkt dat de technische, milieukundige en economische haalbaarheid van alternatieve energiesystemen voor de start van de bouw in aanmerking werd genomen;<br />11° bruikbare vloeroppervlakte : de som van de bruto vloeroppervlakten van alle vloerniveaus binnen het beschermd volume van het gebouw, zoals berekend volgens de door het Vlaams Energieagentschap vastgelegde specificaties;<br />12° stedenbouwkundige vergunning : de stedenbouwkundige vergunning, zoals bedoeld in artikel 99, § 1, 1°, 6° en 7° van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening.
 
 ### ART. 2.
 
@@ -56,7 +56,7 @@ Voor de bepaling van het E-peil gelden volgende conversiefactoren naar primaire 
 
 ### ART. 12.
 
-§ 1. het E-peil van nieuw op te richten woon-, kantoor- en schoolgebouwen mag niet hoger zijn dan E100.<br /><br />§ 2. Elke wooneenheid van nieuw op te richten woongebouwen dient afzonderlijk aan de § 1 gestelde E-peileis te voldoen.<br /><br />§ 3. In afwijking van de bepalingen van § 1 gelden voor een kantoorgebouw geen eisen op het vlak van het E-peil indien het aan elk van de volgende voorwaarden voldoet:<br /><br />1° het heeft een beschermd volume dat kleiner is dan 800 m3;<br /><br />2° het maakt deel uit van een gebouw met een andere specifieke bestemming of van een industrieel gebouw;<br /><br />3° alle kantoordelen samen omvatten ten hoogste 40 % van het totaal beschermd volume van de delen kantoor en industrie samen of van de delen kantoor en andere specifieke bestemming samen.
+§ 1. het E-peil van nieuw op te richten kantoor- en schoolgebouwen mag niet hoger zijn dan E100.<br /><br />Het E-peil van nieuw op te richten woongebouwen mag niet hoger zijn dan :<br />1° E100, als de stedenbouwkundige vergunning aangevraagd wordt voor 1 januari 2010;<br />2° E80, als de stedenbouwkundige vergunning aangevraagd wordt vanaf 1 januari 2010.<br /><br />§ 2. Elke wooneenheid van nieuw op te richten woongebouwen dient afzonderlijk aan de § 1 gestelde E-peileis te voldoen.<br /><br />§ 3. In afwijking van de bepalingen van § 1 gelden voor een kantoorgebouw geen eisen op het vlak van het E-peil indien het aan elk van de volgende voorwaarden voldoet:<br />1° het heeft een beschermd volume dat kleiner is dan 800 m3;<br />2° het maakt deel uit van een gebouw met een andere specifieke bestemming of van een industrieel gebouw;<br />3° alle kantoordelen samen omvatten ten hoogste 40 % van het totaal beschermd volume van de delen kantoor en industrie samen of van de delen kantoor en andere specifieke bestemming samen.
 
 ### ART. 13.
 
@@ -80,11 +80,11 @@ Bij herbouw na volledige afbraak van een gebouw gelden de voorwaarden voor een n
 
 ### ART. 15.
 
-§ 1. Volgende eisen gelden voor het nieuw gebouwde toegevoegde deel van een gebouw dat uitgebreid wordt, als het beschermde volume van de uitbreiding kleiner of gelijk is aan 800 m3 en als de uitbreiding niet bestaat uit het toevoegen van een of meerdere wooneenheden:<br /><br />1° de constructieonderdelen voldoen aan de maximale warmtedoorgangscoëfficiënt of aan de minimale warmteweerstand zoals vastgelegd in bijlage III bij dit besluit;<br /><br />2° inzake ventilatie wordt voldaan aan de eisen voor nieuwe gebouwen met een zelfde bestemming zoals bepaald in artikelen 7 en 8.<br /><br />§ 2. Indien een gebouw uitgebreid wordt met een of meer wooneenheden of met een bijkomend beschermd volume dat groter is dan 800 m3, gelden voor het nieuw gebouwde toegevoegde deel alle eisen die in hoofdstuk II worden gesteld aan nieuw op te richten gebouwen met een zelfde bestemming.<br /><br />Indien het eerste lid van toepassing is, worden het E-peil en het K-peil enkel berekend met betrekking tot het door de uitbreiding toegevoegde deel van het gebouw.
+§ 1. Volgende eisen gelden voor het nieuw gebouwde toegevoegde deel van een gebouw dat uitgebreid wordt, als het beschermde volume van de uitbreiding kleiner of gelijk is aan 800 m3 en als de uitbreiding niet bestaat uit het toevoegen van een of meerdere wooneenheden:<br />1° de constructieonderdelen voldoen aan de maximale warmtedoorgangscoëfficiënt of aan de minimale warmteweerstand zoals vastgelegd in bijlage III bij dit besluit;<br />2° inzake ventilatie wordt voldaan aan de eisen voor nieuwe gebouwen met een zelfde bestemming zoals bepaald in artikelen 7 en 8. Indien een nieuw gebouwde residentiële ruimte enkel met bestaande ruimten in verbinding staat via bestaande verticale scheidingsconstructies waaraan niets vervangen, vernieuwd of verbouwd wordt, dan moet in die ruimte niet voldaan worden aan :<br />- de luchtafvoereisen in geval de nieuw gebouwde residentiële ruimte een woonkamer, slaapkamer, studeerkamer, speelkamer of analoge ruimte is;<br />- de luchttoevoereisen in geval de nieuw gebouwde residentiële ruimte een keuken, toilet, wasplaats, badkamer, droogplaats of analoge ruimte is.<br /><br />§ 2. Indien een gebouw uitgebreid wordt met een of meer wooneenheden of met een bijkomend beschermd volume dat groter is dan 800 m3, gelden voor het nieuw gebouwde toegevoegde deel alle eisen die in hoofdstuk II worden gesteld aan nieuw op te richten gebouwen met een zelfde bestemming.<br /><br />Indien het eerste lid van toepassing is, worden het E-peil en het K-peil enkel berekend met betrekking tot het door de uitbreiding toegevoegde deel van het gebouw.
 
 ### ART. 16.
 
-Bij verbouwingen, gelden volgende eisen:<br /><br />1° de constructieonderdelen voldoen aan de maximale warmtedoorgangscoëfficiënt of aan de minimale warmteweerstand zoals vastgelegd in bijlage III bij dit besluit;<br /><br />2° in die ruimten van woon-, kantoor- en schoolgebouwen en gebouwen met andere specifieke bestemming waar ramen worden vervangen, moet worden voldaan aan de luchttoevoereisen vermeld in bijlage V bij dit besluit in het geval van woongebouwen, en aan de luchttoevoereisen vermeld in bijlage VI bij dit besluit in het geval van kantoor- en schoolgebouwen en gebouwen met een andere specifieke bestemming.
+Bij verbouwingen, gelden volgende eisen:<br />1° de nieuwe, vernieuwde en verbouwde constructieonderdelen voldoen aan de maximale warmtedoorgangscoëfficiënt of aan de minimale warmteweerstand zoals vastgelegd in bijlage III bij dit besluit;<br />2° In die ruimten van woongebouwen waar vensters worden vervangen of toegevoegd, moet worden voldaan aan de luchttoevoereisen vermeld in bijlage V bij dit besluit. Deze eis is niet geldig voor keukens, toiletten, wasplaatsen, badkamers, droogplaatsen en analoge ruimten. In die ruimten van kantoor- en schoolgebouwen en gebouwen met andere specifieke bestemming waar vensters worden vervangen of toegevoegd, moet worden voldaan aan de luchttoevoereisen vermeld in bijlage VI bij dit besluit.
 
 ### ART. 17.
 
@@ -134,11 +134,11 @@ Gebouwen die worden gebruikt voor erediensten en religieuze activiteiten en die 
 
 ### ART. 23.
 
-Voor gebouwen die gebruik maken van innovatieve bouwconcepten of technologieën waarop de in de bijlagen bij dit besluit gevoegde berekeningswijzen niet kunnen worden toegepast, kan een afwijking aangevraagd worden om te worden beoordeeld door middel van een alternatieve berekeningswijze, voor zover kan aangetoond worden dat de prestatieniveaus van het gebouw minstens gelijkwaardig zijn aan de in dit besluit gestelde eisen.
+Voor gebouwen die gebruik maken van innovatieve bouwconcepten of technologieën waarop de in bijlage I en II bij dit besluit gevoegde berekeningswijzen niet kunnen worden toegepast, kan een afwijking aangevraagd worden om te worden beoordeeld door middel van een alternatieve berekeningswijze, voor zover kan aangetoond worden dat de prestatieniveaus van het gebouw minstens gelijkwaardig zijn aan de in dit besluit gestelde eisen.
 
 ### ART. 24.
 
-§ 1. De vrijstellingen vermeld in de artikelen 20 en 20bis en de afwijking vermeld in artikel 20ter worden ten minste acht dagen voor het aanvatten van de werken en de handelingen gemeld aan het Vlaams Energieagentschap. <br /><br />§ 2. De vrijstellingen vermeld in artikel 22 en de afwijkingen vermeld in artikel 22bis worden ten laatste een maand na het aanvragen van de stedenbouwkundige vergunning door de aangifteplichtige aangevraagd.<br /><br />§ 3. De minister kan, na advies van het Vlaams Energieagentschap, de vrijstellingen bepalen, vermeld in de artikelen 21 en 22, evenals de nadere regels voor het toestaan van de afwijkingen, vermeld in artikel 22bis en 23.
+§ 1. De vrijstellingen vermeld in de artikelen 20 en 20bis en de afwijking vermeld in artikel 20ter worden voor het aanvatten van de werken en de handelingen gemeld aan het Vlaams Energieagentschap. <br /><br />§ 2. De vrijstellingen vermeld in artikel 22 en de afwijkingen vermeld in artikel 22bis worden ten laatste een maand na het aanvragen van de stedenbouwkundige vergunning door de aangifteplichtige aangevraagd.<br /><br />§ 3. De minister kan, na advies van het Vlaams Energieagentschap, de vrijstellingen bepalen, vermeld in de artikelen 21 en 22, evenals de nadere regels voor het toestaan van de afwijkingen, vermeld in artikel 22bis en 23.
 
 ## [HOOFDSTUK IVbis ENERGIEPRESTATIECERTIFICAAT (ing. B.V.R. 2 december 2005, art. 1)]
 
@@ -154,7 +154,7 @@ De minister bepaalt de nadere regels tot vaststelling van de vorm en inhoud en d
 
 ### ART. 26.
 
-De minister bepaalt welke gegevens van de aanvraag tot het verkrijgen van een stedenbouwkundige vergunning en van de stedenbouwkundige vergunning door de gemeente in de energieprestatiedatabank moeten worden opgenomen en bepaalt de minimale voorwaarden waaraan de energieprestatiedatabank moet voldoen. <br />
+De minister bepaalt welke gegevens van de melding of van de aanvraag tot het verkrijgen van een stedenbouwkundige vergunning en van de stedenbouwkundige vergunning door de gemeente in de energieprestatiedatabank moeten worden opgenomen en bepaalt de minimale voorwaarden waaraan de energieprestatiedatabank moet voldoen. <br />
 
 ### ART. 27.
 
@@ -310,242 +310,169 @@ Voorwoord <br /><br />Deze bijlage beschrijft de methode voor het bepalen van he
 
 ### BIJLAGE
 
-1. Normatieve verwijzingen<br>
+Normatieve verwijzingen<br>
 <br>
-Deze bijlage I en bijlage II (Bepalingsmethode van het peil van primair energieverbruik van kantoor- en schoolgebouwen) bij dit besluit bevatten bepalingen uit of verwijzen direct of indirect naar de volgende normen:<br>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+De Bijlage I tot en met V bij dit besluit verwijzen naar de volgende normen. Enkel de normversie met de geciteerde datum is van toepassing, tenzij de minister expliciet een andere versie ter vervanging aanduidt. De normatieve verwijzingen in bijlage VI worden in die bijlage zelf opgesomd.
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:4cm">
-			<p>EN ISO 13790<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>ARI Standard 560:2000<!--?xml:namespace prefix = o ns         = "urn:schemas-microsoft-com:office:office" /--></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:363.9pt">
-			<p>Thermal performance of buildings. Calculation of energy use for heating (supersedes EN 832)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>EN ISO 6946</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Building components and building elements. Thermal resistance and thermal transmittance. Calculation method</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
+			<p>Absorption water chilling and water heating packages (ARI : Air-Conditioning and Refrigeration Institute)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>EN ISO 10211-1</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>ISO 15099:2003</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Thermal bridges in building constructions. Heat flows and surface temperatures. Part 1: General calculation methods</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>EN ISO 10211-2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Thermal bridges in building constructions. Calculation of heat flows and surface temperatures. Part 2: linear thermal bridges</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
+			<p>Thermal performance of windows, doors and shading devices - Detailed calculations</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>EN ISO 14683</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>NBN D 50-001:1991</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Thermal bridges in building constructions. Linear thermal transmittance. Simplified methods and default values</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>EN ISO 13789</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Thermal performance of buildings. Transmission heat loss coefficient. Calculation method</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>EN ISO 13370</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Thermal performance of buildings. Heat transfer via the ground. Calculation methods</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>EN ISO 10077-1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Thermal performance of windows, doors and shutters. Calculation of thermal transmittance. Part 1: simplified method</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>prEN ISO 10077-2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Thermal performance of windows, doors and shutters. Calculation of thermal transmittance. Part 2: numerical method for frames</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>EN 12412-2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Thermal performance of windows, doors and shutters. Determination of thermal transmittance by hot box method. Part 2: frames</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>EN 13141-1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Ventilation for buildings. Performance testing of components/products for residential ventilation. Part 1: Performance testing of external and internal mounted air transfer devices</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>EN 13363-1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Solar protection devices combined with glazing. Calculation of solar and light transmittance. Part 1: Simplified method</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>prEN 13363-2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Solar protection devices combined with glazing. Calculation of solar and light transmittance. Part 2: reference calculation method</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>prEN 13947</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Thermal performances of curtain walling. Calculation of thermal transmittance. Simplified method</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>NBN EN 13829</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Thermal insulation - Determination of building airtightness. Fan pressurization method</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>EN 673</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Glass in buildings. Determination of thermal transmittance (U-value). Calculation method</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>EN 410</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Glass in buildings. Determination of light transmittance, solar direct transmittance, total solar energy transmittance, ultraviolet transmittance and related glazing characteristics</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>EN 14511</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Air conditioners, liquid chilling packages and heat pumps with electrical driven compressors for space heating and cooling</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>EN 12831</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Heating systems in buildings. Method for the calculation of the design heat load</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>ISO 15099</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Thermal performance of windows, doors and shading devices. Detailed calculations</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>EN IEC 60904-1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Photovoltaic devices. Part 1: measurement of photovoltaic current-voltage characteristics</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>NBN D 50-001</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
 			<p>Ventilatievoorzieningen in woongebouwen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>NBN B 62-002</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>NBN EN 308:1997</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Berekening van de warmtedoorgangscoëfficiënten van wanden van gebouwen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>NBN B 62-002/A1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Berekening van de warmtedoorgangscoëfficiënten van wanden van gebouwen. Addendum (2de uitgave)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>EN 308</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
 			<p>Heat exchangers - Test procedures for establishing performance of air to air and flue gases heat recovery devices</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>ARI Standard 560</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>NBN EN 410:1998</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Absorption water chilling and water heating packages</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>NBN EN IEC 60034-1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Rotating electrical machines. Part 1: Rating and performance</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
+			<p>Glass in building - Determination of luminous and solar characteristics of glazing</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>EN 14134</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>NBN EN 1027:2000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Performance testing and installation checks of residential ventilation systems</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
+			<p>Windows and doors - Watertightness - Test method</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
-			<p>EN ISO 12241</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>NBN EN 12309-2:2000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:363.9pt">
-			<p>Thermal insulation for building equipment and industrial installations -- Calculation rules</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
+			<p>Gas-fired absorption and adsorption air-conditioning and/or heat pump appliances with a net heat input not exceeding 70 kW - Part 2 : Rational use of energy</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>NBN EN 13141-1:2004</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
+			<p>Ventilation for buildings - Performance testing of components/products for residential ventilation - Part 1 : Externally and internally mounted air transfer devices.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>NBN EN 13363-1:2007</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
+			<p>Solar protection devices combined with glazing. Calculation of solar and light transmittance - Part 1 : Simplified method</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>NBN EN 13363-2:2005</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
+			<p>Solar protection devices combined with glazing - Calculation of solar and light transmittance - Part 2 : Detailed calculation method</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>NBN EN 13829:2001</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
+			<p>Thermal performance of buildings - Determination of air permeability of buildings - Fan pressurization method</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>NBN EN 14134:2004</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
+			<p>Ventilation for buildings - Performance testing and installation checks of residential ventilation systems</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>NBN EN 14511:2008</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
+			<p>Air conditioners, liquid chilling packages and heat pumps with electrically driven compressors for space heating and cooling</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>NBN EN 60034-1:2005</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
+			<p>Rotating electrical machines - Part 1 : Rating and performance</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>NBN EN 60904-1:2007</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
+			<p>Photovoltaic devices - Part 1 : measurement of photovoltaic current-voltage characteristics.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>NBN EN ISO 10211:2008</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
+			<p>Thermal bridges in building construction - Heat flows and surface temperatures - Detailed calculations</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>NBN EN ISO 12241:1998</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
+			<p>Thermal insulation for building equipment and industrial installations - Calculation rules</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>NBN EN ISO 13789:2008</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
+			<p>Thermal performance of buildings - Transmission and ventilation heat transfer coefficients - Calculation method</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>NBN EN ISO 13790:2004</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
+			<p>Thermal performance of buildings - Calculation of energy use for heating (supersedes EN 832)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:126.75pt">
+			<p>NBN EN ISO 14683:2008</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:328.35pt">
+			<p>Thermal bridges in building construction - Linear thermal transmittance - Simplified methods and default values";</p>
 			</td>
 		</tr>
 	</tbody>
@@ -658,7 +585,7 @@ Deze bijlage I en bijlage II (Bepalingsmethode van het peil van primair energiev
 			<p>COP</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:234pt">
-			<p>prestatiecoëfficiënt van een warmtepomp of koelmachine (coëfficiënt of performance)</p>
+			<p>prestatiecoëfficiënt van een warmtepomp (coëfficiënt of performance)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:108pt">
 			<p>-</p>
@@ -684,6 +611,17 @@ Deze bijlage I en bijlage II (Bepalingsmethode van het peil van primair energiev
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:108pt">
 			<p>-</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:59.4pt">
+			<p>EER</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:234pt">
+			<p>energie-efficiëntieverhouding van een koelmachine – (energy efficiency ratio)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:108pt">
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -1235,7 +1173,7 @@ Deze bijlage I en bijlage II (Bepalingsmethode van het peil van primair energiev
 <p>3.2 Indices<br>
 <br>
 &lt; betekent: afgeleid van<br>
-<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Elke</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>3</o:Revision><br>  <o:TotalTime>1</o:TotalTime><br>  <o:Created>2009-09-15T11:57:00Z</o:Created><br>  <o:LastSaved>2009-10-19T07:09:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>514</o:Words><br>  <o:Characters>2833</o:Characters><br>  <o:Lines>23</o:Lines><br>  <o:Paragraphs>6</o:Paragraphs><br>  <o:CharactersWithSpaces>3341</o:CharactersWithSpaces><br>  <o:Version>11.9999</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;4098"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]--></p>
+<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Elke</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>steenpfr</o:LastAuthor><br>  <o:Revision>3</o:Revision><br>  <o:TotalTime>37</o:TotalTime><br>  <o:Created>2009-10-20T12:41:00Z</o:Created><br>  <o:LastSaved>2009-10-20T13:17:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>517</o:Words><br>  <o:Characters>2846</o:Characters><br>  <o:Lines>23</o:Lines><br>  <o:Paragraphs>6</o:Paragraphs><br>  <o:CharactersWithSpaces>3357</o:CharactersWithSpaces><br>  <o:Version>11.9999</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;5122"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]--></p>
 
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1676,7 +1614,7 @@ Deze bijlage I en bijlage II (Bepalingsmethode van het peil van primair energiev
 			<p>f</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:252pt">
-			<p>gebruik</p>
+			<p>f vloer (&lt; floor)</p>
 			</td>
 		</tr>
 		<tr>
@@ -1684,7 +1622,7 @@ Deze bijlage I en bijlage II (Bepalingsmethode van het peil van primair energiev
 			<p>F</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:252pt">
-			<p>raamprofiel</p>
+			<p>raamprofiel (&lt; frame)</p>
 			</td>
 		</tr>
 		<tr>
@@ -1716,7 +1654,7 @@ Deze bijlage I en bijlage II (Bepalingsmethode van het peil van primair energiev
 			<p>f</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:252pt">
-			<p>vloer (&lt; floor)</p>
+			<p>flow debiet</p>
 			</td>
 		</tr>
 		<tr>
@@ -2540,7 +2478,7 @@ Deze bijlage I en bijlage II (Bepalingsmethode van het peil van primair energiev
 
 ### BIJLAGE
 
-5. Schematisering van het gebouw<BR><BR>5.1 Principe<BR><BR>De   energieprestatie heeft vaak betrekking op een deelvolume van een gebouw,   afhankelijk van bijvoorbeeld het al dan niet verwarmd (en/of gekoeld) zijn van   ruimten, de bestemming van verschillende delen en het eventueel aanwezig zijn   van verschillende wooneenheden. Voor de bepaling van de energieprestatie wordt   het gebouw daarom op conventionele manier opgesplitst in verschillende delen.   Elk deelvolume dat op zich aan een energieprestatie-eis voor een woongebouw moet   voldoen, wordt een 'EPW-volume' genoemd. Indien nodig gebeurt een verdere   opsplitsing in energiesectoren om verschillende types installaties correct te   kunnen inrekenen.<BR><BR>Opmerking<BR><BR>De opsplitsing van het volledig gebouw   die beschouwd wordt voor de bepaling van de energieprestatie kan verschillen van   de opdeling die eventueel gemaakt dient te worden voor de eis(en) van globale   warmte-isolatie (industriële of niet-industriële bestemming van verschillende   gebouwgedeelten). Bij het ontwerp van de ventilatievoorzieningen (zie bijlagen V   en VI bij dit besluit) kan nog een andere indeling van toepassing zijn: er dient   desgevallend onderscheid gemaakt te worden tussen gebouwdelen met enerzijds een   residentiële en anderzijds een niet-residentiële bestemming.<BR><BR>5.2 Opdeling   van het gebouw<BR><BR>Beschouw het volledige gebouw of de volledige uitbreiding   (van een bestaand gebouw) en maak achtereenvolgens de volgende opdelingen: <BR>•   Definieer het beschermd volume (BV). Het BV moet minstens alle (continu of   intermitterend) verwarmde (en/of gekoelde) ruimten omvatten die behoren tot het   beschouwde gebouw of tot de beschouwde uitbreiding. <BR>• Deel het beschermd   volume naar gelang het geval op in 1 of meer delen met elk 1 van de volgende   bestemmingen:<BR>- tot bewoning bestemd gebouwgedeelte: hierop zijn de   energieprestatie-eisen voor woongebouwen van toepassing<BR>-   utiliteitsbestemmingen waarvoor energieprestatie-eisen van toepassing zijn (zie   bijlage II bij dit besluit);<BR>- andere gebouwbestemmingen: hierop zijn geen   energieprestatie-eisen van toepassing, tenzij ze beschouwd worden als onderdeel   van 1 van de vorige 2 bestemmingen.<BR>• Beschouw dat deel van het beschermd   volume dat tot bewoning bestemd is. Ingeval dit deel in zijn geheel voor   individuele of collectieve huisvesting dient (bv. respectievelijk   eengezinswoning of bejaardentehuis), wordt dit volledig deel verder als   ‘EPW-volume’ omschreven. Dit ‘EPW-volume’ moet voldoen aan de   energieprestatie-eis die aan woongebouwen gesteld wordt. Ingeval er zich in dit   deel meer dan 1 individuele wooneenheid bevindt (bv. individuele appartementen   in een flatgebouw), vormt elke wooneenheid op zich een ‘EPW-volume’ dat elk op   zich moet voldoen aan de energieprestatie-eis die aan woongebouwen gesteld   wordt. Collectieve delen van een dergelijk gebouw (bv. gemeenschappelijke   traphal en gangen) worden niet in beschouwing genomen bij de EP-bepaling en   dienen niet aan een energieprestatie-eis te voldoen. (Wel kunnen er andere eisen   op deze collectieve delen van toepassing zijn, bv. maximale U-waarden en   bijdrage tot het K-peil van het gebouw in zijn geheel). Enkel het   energieverbruik van een ‘EPW-volume’ wordt beschouwd in de onderhavige   bepalingsmethode. Verdeel dit volume indien nodig of indien gewenst in meerdere   energiesectoren zoals beschreven in 5.3. <BR><BR>Opmerking:<BR><BR>Ruimten van   het beschouwde gebouw of van de beschouwde uitbreiding die niet in het beschermd   volume opgenomen zijn, zijn dus per definitie niet verwarmd.   <BR><BR>BELANGRIJK:<BR><BR>In het kader van deze regelgeving mag men er steeds   van uitgaan dat alle ruimten in aanpalende bestaande gebouwen verwarmde ruimten   zijn (ook al is dit fysisch niet noodzakelijk zo). <BR><BR>Bij de bepaling van   de energieprestatie wordt aangenomen dat er geen warmtestromen optreden doorheen   de scheidingsconstructies naar aangrenzende verwarmde ruimten. <BR><BR>Afgezien   van deze scheidingsconstructies met aangrenzende verwarmde ruimten, worden bij   de bepaling van de energieprestatie verder wel de transmissiestromen in rekening   gebracht doorheen alle andere scheidingsconstructies van het beschermd volume,   ook al geven deze schildelen uit op een belendend perceel. <BR><BR>5.3 Opdeling   van het ‘EPW-volume’ in energiesectoren<BR><BR>5.3.1 Principe<BR><BR>Opdat   verschillende ruimten samen een energiesector zouden kunnen vormen, dienen   ze:<BR>• tot dezelfde ventilatiezone te behoren<BR>• van hetzelfde type   warmteafgiftesysteem voorzien te zijn (tenzij, in geval van centrale verwarming,   met het slechtste afgifterendement gerekend wordt)<BR>• en verwarmd te worden   met hetzelfde opwekkingstoestel (of desgevallend dezelfde combinatie van   opwekkingstoestellen).<BR><BR>Deze formele opdeling laat toe de invloed van de   diverse deelrendementen correct in te rekenen.<BR><BR>5.3.2 Verdeling in   energiesectoren<BR><BR>Meestal is er in een ‘EPW-volume’ slechts 1   ventilatieinstallatie aanwezig, worden alle individuele ruimten op dezelfde   manier verwarmd en zorgt 1 enkel centraal opwekkingstoestel voor de warmte. In   deze gevallen is geen verdere opdeling van het ‘EPW-volume’ in energiesectoren   nodig: het ganse ‘EPW-volume’ vormt in dat geval de enige energiesector.   <BR><BR>Slechts indien er wel verschillende types installaties aanwezig zijn -   hetgeen veel minder gebruikelijk is - dient een opsplitsing in energiesectoren   te gebeuren zoals hieronder beschreven.<BR>Ventilatiesystemen worden opgedeeld   in 4 verschillende types (zie ook bijlagen V en VI bij dit besluit):<BR>•   natuurlijke ventilatie<BR>• mechanische toevoerventilatie<BR>• mechanische   afvoerventilatie<BR>• mechanische toe- en afvoerventilatie<BR><BR>Indien in   verschillende afgesloten delen van het ‘EPW-volume’ onafhankelijke   ventilatie-installaties voorkomen, al dan niet van een verschillend type volgens   de indeling hierboven, dan vormt elk dergelijk deel een ventilatiezone. Een   energiesector kan zich niet over verschillende ventilatiezones uitstrekken. Er   zijn dus steeds minstens even veel energiesectoren als ventilatiezones.   <BR><BR>Indien in een ruimte plaatselijke verwarming toegepast wordt (bv. lokale   elektrische weerstandsverwarming) en er ook warmteafgifte-elementen van een   centraal verwarmingssysteem aanwezig zouden zijn, dan wordt bij de bepaling van   de energieprestatie het centrale verwarmingssysteem in deze ruimte buiten   beschouwing gelaten: er wordt enkel gekeken naar de kenmerken van het   plaatselijk systeem. Voor open haarden en houtkachels, is het echter toch het   centrale verwarmingssysteem dat beschouwd wordt.<BR><BR>Indien verschillende   ruimten van het ‘EPW-volume’ op verschillende manieren verwarmd worden (na   toepassing van bovenstaande conventie i.v.m. gecombineerde centrale en   plaatselijke verwarming) zodanig dat de verschillende systemen in een andere   categorie vallen in Tabel 6, geeft dit aanleiding tot een verdere opdeling in   energiesectoren. In geval van centrale verwarming is deze opdeling echter niet   verplicht. In dat geval moet in de ganse energiesector met het slechtste   afgifterendement uit Tabel 6 gerekend worden en kan niet meer voor de   gedetailleerde rekenmethode volgens bijlage D geopteerd worden.<BR><BR>Indien   ten slotte meerdere centrale warmteopwekkers verschillende delen van het   ‘EPW-volume’ apart van warmte voorzien, leidt dit in principe tot een verdere   opsplitsing in energiesectoren. Deze opsplitsing is echter niet nodig indien de   warmteopwekkers (rekenkundig) hetzelfde opwekkingsrendement hebben (bv. in geval   van het gebruik van 2 identieke verwarmingsketels voor verschillende delen van   het ‘EPW-volume’).<BR>(Dezelfde opsplitsingsregels gelden evenzeer wanneer elk   deel van het gebouw door een combinatie van parallel geschakelde centrale   warmteopwekkers verwarmd wordt, i.p.v. door 1 enkel toestel.) <BR><BR>Het verder   opdelen van het ‘EPW-volume’ in nog meer energiesectoren is toegelaten, maar is   niet verplicht. Een groter aantal energiesectoren geeft gewoonlijk aanleiding   tot meer rekenwerk (extra invoergegevens nodig), maar beïnvloedt het berekend   karakteristiek jaarlijks energieverbruik weinig of niet.<BR><BR>Indien in het   ‘EPW-volume’ ruimten voorkomen die niet van een warmteafgiftesysteem voorzien   zijn (bv. WCs, gangen, bergruimten, ruimten die niet onmiddellijk in gebruik   genomen worden zoals slaapkamers, ...), dienen deze aan een energiesector   toegewezen te worden van een aangrenzende ruimte op dezelfde verdieping. Indien   in de onverwarmde ruimte in kwestie geen voorzieningen voor de toevoer van verse   buitenlucht aanwezig zijn maar er wel doorstroomopeningen vanuit aanpalende   ruimten zijn (het betreft bv. een doorstroom- of afvoerruimte, of bv. een   bergruimte), wijs de ruimte dan toe aan (1 van) de aangrenzende   energiesector(en) van waaruit de ruimte in kwestie toevoerlucht   betrekt.<BR><BR>Bepaal het karakteristiek en referentie jaarlijks primair   energieverbruik van het ‘EPW-volume’ volgens de onderhavige bepalingsmethode.   <BR><BR>5.3.3 Volume en oppervlakten van scheidingsconstructies van een   energiesector<BR><BR>Bij de bepaling van het volume Vsec i en van de   oppervlakten van scheidingsconstructies (beiden op basis van de   buitenafmetingen) wordt de afbakening tussen 2 energiesectoren gevormd door de   hartlijn van de tussenliggende scheidingsconstructie.<BR>
+5. Schematisering van het gebouw<br /><br />5.1 Principe<br /><br />De energieprestatie heeft vaak betrekking op een deelvolume van een gebouw, afhankelijk van bijvoorbeeld het al dan niet verwarmd (en/of gekoeld) zijn van ruimten, de bestemming van verschillende delen en het eventueel aanwezig zijn van verschillende wooneenheden. Voor de bepaling van de energieprestatie wordt het gebouw daarom op conventionele manier opgesplitst in verschillende delen. Elk deelvolume dat op zich aan een energieprestatie-eis voor een woongebouw moet voldoen, wordt een 'EPW-volume' genoemd. Indien nodig gebeurt een verdere opsplitsing in energiesectoren om verschillende types installaties correct te kunnen inrekenen.<br /><br />Opmerking<br /><br />De opsplitsing van het volledig gebouw die beschouwd wordt voor de bepaling van de energieprestatie kan verschillen van de opdeling die eventueel gemaakt dient te worden voor de eis(en) van globale warmte-isolatie (industriële of niet-industriële bestemming van verschillende gebouwgedeelten). Bij het ontwerp van de ventilatievoorzieningen (zie bijlagen V en VI bij dit besluit) kan nog een andere indeling van toepassing zijn: er dient desgevallend onderscheid gemaakt te worden tussen gebouwdelen met enerzijds een residentiële en anderzijds een niet-residentiële bestemming.<br /><br />5.2 Opdeling van het gebouw<br /><br />Beschouw het volledige gebouw of de volledige uitbreiding (van een bestaand gebouw) en maak achtereenvolgens de volgende opdelingen: <br />• Definieer het beschermd volume (BV). Het BV moet minstens alle (continu of intermitterend) verwarmde (en/of gekoelde) ruimten omvatten die behoren tot het beschouwde gebouw of tot de beschouwde uitbreiding. <br />• Deel het beschermd volume naar gelang het geval op in 1 of meer delen met elk 1 van de volgende bestemmingen:<br />- tot bewoning bestemd gebouwgedeelte: hierop zijn de energieprestatie-eisen voor woongebouwen van toepassing<br />- utiliteitsbestemmingen waarvoor energieprestatie-eisen van toepassing zijn (zie bijlage II bij dit besluit);<br />- andere gebouwbestemmingen: hierop zijn geen energieprestatie-eisen van toepassing, tenzij ze beschouwd worden als onderdeel van 1 van de vorige 2 bestemmingen.<br />• Beschouw dat deel van het beschermd volume dat tot bewoning bestemd is. Ingeval dit deel in zijn geheel voor individuele of collectieve huisvesting dient (bv. respectievelijk eengezinswoning of bejaardentehuis), wordt dit volledig deel verder als ‘EPW-volume’ omschreven. Dit ‘EPW-volume’ moet voldoen aan de energieprestatie-eis die aan woongebouwen gesteld wordt. Ingeval er zich in dit deel meer dan 1 individuele wooneenheid bevindt (bv. individuele appartementen in een flatgebouw), vormt elke wooneenheid op zich een ‘EPW-volume’ dat elk op zich moet voldoen aan de energieprestatie-eis die aan woongebouwen gesteld wordt. Collectieve delen van een dergelijk gebouw (bv. gemeenschappelijke traphal en gangen) worden niet in beschouwing genomen bij de EP-bepaling en dienen niet aan een energieprestatie-eis te voldoen. (Wel kunnen er andere eisen op deze collectieve delen van toepassing zijn, bv. maximale U-waarden en bijdrage tot het K-peil van het gebouw in zijn geheel). Enkel het energieverbruik van een ‘EPW-volume’ wordt beschouwd in de onderhavige bepalingsmethode. Verdeel dit volume indien nodig of indien gewenst in meerdere energiesectoren zoals beschreven in 5.3. <br /><br />Opmerking:<br /><br />Ruimten van het beschouwde gebouw of van de beschouwde uitbreiding die niet in het beschermd volume opgenomen zijn, zijn dus per definitie niet verwarmd. <br /><br />BELANGRIJK:<br /><br />In het kader van deze regelgeving mag men er steeds van uitgaan dat alle ruimten in aanpalende bestaande gebouwen verwarmde ruimten zijn (ook al is dit fysisch niet noodzakelijk zo). <br /><br />Bij de bepaling van de energieprestatie wordt aangenomen dat er geen warmtestromen optreden doorheen de scheidingsconstructies naar aangrenzende verwarmde ruimten. <br /><br />Afgezien van deze scheidingsconstructies met aangrenzende verwarmde ruimten, worden bij de bepaling van de energieprestatie verder wel de transmissiestromen in rekening gebracht doorheen alle andere scheidingsconstructies van het beschermd volume, ook al geven deze schildelen uit op een belendend perceel. <br /><br />5.3 Opdeling van het ‘EPW-volume’ in energiesectoren<br /><br />5.3.1 Principe<br /><br />Opdat verschillende ruimten samen een energiesector zouden kunnen vormen, dienen ze:<br />• tot dezelfde ventilatiezone te behoren<br />• van hetzelfde type warmteafgiftesysteem voorzien te zijn (tenzij, in geval van centrale verwarming, met het slechtste afgifterendement gerekend wordt)<br />• en verwarmd te worden met hetzelfde opwekkingstoestel (of desgevallend dezelfde combinatie van opwekkingstoestellen).<br /><br />Deze formele opdeling laat toe de invloed van de diverse deelrendementen correct in te rekenen.<br /><br />5.3.2 Verdeling in energiesectoren<br /><br />Meestal is er in een ‘EPW-volume’ slechts 1 ventilatieinstallatie aanwezig, worden alle individuele ruimten op dezelfde manier verwarmd en zorgt 1 enkel centraal opwekkingstoestel voor de warmte. In deze gevallen is geen verdere opdeling van het ‘EPW-volume’ in energiesectoren nodig: het ganse ‘EPW-volume’ vormt in dat geval de enige energiesector. <br /><br />Slechts indien er wel verschillende types installaties aanwezig zijn - hetgeen veel minder gebruikelijk is - dient een opsplitsing in energiesectoren te gebeuren zoals hieronder beschreven.<br />Ventilatiesystemen worden opgedeeld in 4 verschillende types (zie ook bijlagen V en VI bij dit besluit):<br />• natuurlijke ventilatie<br />• mechanische toevoerventilatie<br />• mechanische afvoerventilatie<br />• mechanische toe- en afvoerventilatie<br /><br />Indien in verschillende afgesloten delen van het ‘EPW-volume’ onafhankelijke ventilatie-installaties voorkomen, van een verschillend type volgens de indeling hierboven, dan vormt elk dergelijk deel een ventilatiezone. Een energiesector kan zich niet over verschillende ventilatiezones uitstrekken. Er zijn dus steeds minstens even veel energiesectoren als ventilatiezones. <br /><br />Indien in een ruimte plaatselijke verwarming toegepast wordt (bv. lokale elektrische weerstandsverwarming) en er ook warmteafgifte-elementen van een centraal verwarmingssysteem aanwezig zouden zijn, dan wordt bij de bepaling van de energieprestatie het centrale verwarmingssysteem in deze ruimte buiten beschouwing gelaten: er wordt enkel gekeken naar de kenmerken van het plaatselijk systeem. Voor open haarden en houtkachels, is het echter toch het centrale verwarmingssysteem dat beschouwd wordt.<br /><br />Indien verschillende ruimten van het ‘EPW-volume’ op verschillende manieren verwarmd worden (na toepassing van bovenstaande conventie i.v.m. gecombineerde centrale en plaatselijke verwarming) zodanig dat de verschillende systemen in een andere categorie vallen in Tabel 6, geeft dit aanleiding tot een verdere opdeling in energiesectoren. In geval van centrale verwarming is deze opdeling echter niet verplicht. In dat geval moet in de ganse energiesector met het slechtste afgifterendement uit Tabel 6 gerekend worden en kan niet meer voor de gedetailleerde rekenmethode volgens bijlage D geopteerd worden.<br /><br />Indien ten slotte meerdere centrale warmteopwekkers verschillende delen van het ‘EPW-volume’ apart van warmte voorzien, leidt dit in principe tot een verdere opsplitsing in energiesectoren. Deze opsplitsing is echter niet nodig indien de warmteopwekkers (rekenkundig) hetzelfde opwekkingsrendement hebben (bv. in geval van het gebruik van 2 identieke verwarmingsketels voor verschillende delen van het ‘EPW-volume’).<br />(Dezelfde opsplitsingsregels gelden evenzeer wanneer elk deel van het gebouw door een combinatie van parallel geschakelde centrale warmteopwekkers verwarmd wordt, i.p.v. door 1 enkel toestel.) <br /><br />Het verder opdelen van het ‘EPW-volume’ in nog meer energiesectoren is toegelaten, maar is niet verplicht. Een groter aantal energiesectoren geeft gewoonlijk aanleiding tot meer rekenwerk (extra invoergegevens nodig), maar beïnvloedt het berekend karakteristiek jaarlijks energieverbruik weinig of niet.<br /><br />Indien in het ‘EPW-volume’ ruimten voorkomen die niet van een warmteafgiftesysteem voorzien zijn (bv. WCs, gangen, bergruimten, ruimten die niet onmiddellijk in gebruik genomen worden zoals slaapkamers, ...), dienen deze aan een energiesector toegewezen te worden van een aangrenzende ruimte op dezelfde verdieping. Indien in de onverwarmde ruimte in kwestie geen voorzieningen voor de toevoer van verse buitenlucht aanwezig zijn maar er wel doorstroomopeningen vanuit aanpalende ruimten zijn (het betreft bv. een doorstroom- of afvoerruimte, of bv. een bergruimte), wijs de ruimte dan toe aan (1 van) de aangrenzende energiesector(en) van waaruit de ruimte in kwestie toevoerlucht betrekt.<br /><br />Bepaal het karakteristiek en referentie jaarlijks primair energieverbruik van het ‘EPW-volume’ volgens de onderhavige bepalingsmethode. <br /><br />5.3.3 Volume en oppervlakten van scheidingsconstructies van een energiesector<br /><br />Bij de bepaling van het volume Vsec i en van de oppervlakten van scheidingsconstructies (beiden op basis van de buitenafmetingen) wordt de afbakening tussen 2 energiesectoren gevormd door de hartlijn van de tussenliggende scheidingsconstructie.<br />
 
 ### BIJLAGE
 
@@ -2762,7 +2700,7 @@ Alle andere tappunten in het ‘EPW-volume’ (dus ook lavabo('s) in de badkamer
 			<p>r<sub>water,bath i,net</sub></p>
 			</td>
 			<td colspan="5" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:374.35pt">
-			<p>een reductiefactor voor het effect van de voorverwarming van de koudwatertoevoer naar douche of bad i d.m.v. warmteterugwinning uit de afloop, te bepalen volgens vooraf door de overheid erkende regels (-);</p>
+			<p>een reductiefactor voor het effect van de voorverwarming van de koudwatertoevoer naar douche of bad i d.m.v. warmteterugwinning uit de afloop, te bepalen volgens vooraf door de minister erkende regels (-);</p>
 			</td>
 		</tr>
 		<tr>
@@ -2770,7 +2708,7 @@ Alle andere tappunten in het ‘EPW-volume’ (dus ook lavabo('s) in de badkamer
 			<p>r<sub>water,sin k i,net</sub></p>
 			</td>
 			<td colspan="5" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:374.35pt">
-			<p>een reductiefactor voor het effect van de voorverwarming van de koudwatertoevoer naar keukenaanrecht i d.m.v. warmteterugwinning uit de afloop, te bepalen volgens vooraf door de overheid erkende regels (-);</p>
+			<p>een reductiefactor voor het effect van de voorverwarming van de koudwatertoevoer naar keukenaanrecht i d.m.v. warmteterugwinning uit de afloop, te bepalen volgens vooraf door de minister erkende regels (-);</p>
 			</td>
 		</tr>
 		<tr>
@@ -3437,7 +3375,7 @@ De berekening van de maandelijkse warmteverliezen door ventilatie gebeurt op ana
 <br>
 7.7.1 Principe<br>
 <br>
-Het specifiek warmteverlies door transmissie ontwikkelt zich zoals de gebouwgeometrie driedimensionaal. Het zou dan ook driedimensionaal berekend moeten worden, zie de normen EN ISO 13789 en EN ISO 10211-1. Dergelijke driedimensionale berekening geldt als referentie.<br>
+Het specifiek warmteverlies door transmissie ontwikkelt zich zoals de gebouwgeometrie driedimensionaal. Het zou dan ook driedimensionaal berekend moeten worden, zie de normen NBN EN ISO 13789 en NBN EN ISO 10211. Dergelijke driedimensionale berekening geldt als referentie.<br>
 <br>
 De driedimensionale referentieberekening wordt in deze bijlage vervangen door een vereenvoudigde berekening. Die gaat ervan uit dat:<br>
 1) de hoofdcomponent van de transmissieverliezen ééndimensionaal is,<br>
@@ -3501,11 +3439,11 @@ Het specifiek warmteverlies door transmissie wordt bepaald voor alle scheidingsc
 
 <p>&nbsp;</p>
 
-<p>De verschillende termen worden berekend volgens nadere specificaties vanwege de overheid.<br>
+<p>De verschillende termen worden berekend volgens nadere specificaties vanwege de minister.<br>
 <br>
 Voor nadere toelichting bij de verschillende mogelijkheden om koudebruggen (zowel lijnvormige als puntvormige) in rekening te brengen, wordt verwezen naar bijlage IV bij dit besluit.<br>
 <br>
-Voor componenten waarvan de thermische eigenschappen niet gekend zijn of bepaald kunnen worden (bv. ventilatieroosters, complex gestructureerde lagen in wandelementen, enz.), mag steeds aangenomen worden dat de eigen warmteweerstand van de laag of de component gelijk is aan nul. De totale warmtedoorgangscoëfficiënt wordt dan volledig bepaald door de oppervlakteweerstanden met de binnen- en buitenomgeving (rekening houdend met de ontwikkelde oppervlakte) en eventueel door de warmteweerstanden van de andere lagen van de component.<br>
+Voor componenten waarvan de thermische eigenschappen niet gekend zijn of bepaald kunnen worden (bv. complex gestructureerde lagen in wandelementen, enz.), mag steeds aangenomen worden dat de eigen warmteweerstand van de laag of de component gelijk is aan nul. De totale warmtedoorgangscoëfficiënt wordt dan volledig bepaald door de oppervlakteweerstanden met de binnen- en buitenomgeving (rekening houdend met de ontwikkelde oppervlakte) en eventueel door de warmteweerstanden van de andere lagen van de component.<br>
 <br>
 Hou geen rekening met leidingdoorvoeren (water, gas, elektriciteit, riolering, enz.) en daarmee vergelijkbare elementen in de uitwendige scheidingsconstructies, voor zover de totale oppervlakte ervan niet meer bedraagt dan 0,25% van de totale oppervlakte (AT,E) van het betrokken ‘EPW-volume’ waardoorheen transmissieverliezen optreden (dus met uitzondering van scheidingsconstructies met aangrenzende verwarmde ruimten). Genoemde elementen krijgen in dit geval dezelfde U-waarde als de scheidingsconstructies waarin ze zitten.<br>
 <br>
@@ -3798,7 +3736,7 @@ De zonnewinsten voor een bepaalde maand bestaan uit de som van 3 termen:<br>
 • zonnewinsten door de ongeventileerde passieve zonne-energiesystemen;<br>
 • zonnewinsten ingevolge aangrenzende onverwarmde ruimten.<br>
 <br>
-Met buiten- of binnenlucht geventileerde passieve zonne-energiesystemen dienen op basis van het principe van gelijkwaardigheid behandeld te worden volgens bijlage F van EN 13790.<br>
+Met buiten- of binnenlucht geventileerde passieve zonne-energiesystemen dienen op basis van het principe van gelijkwaardigheid behandeld te worden volgens bijlage F van NBN EN ISO 13790.<br>
 <br>
 7.10.2 Rekenregel</p>
 
@@ -3852,9 +3790,10 @@ De index ‘heat’ (d.w.z. de waarde gebruikt voor de bepaling van de netto ene
 <br>
 7.10.3.1 Definities<br>
 <br>
-Een venster is een scheidingsconstructie die (gedeeltelijk) transparant is. Het raamprofiel, de eventuele invulpanelen en eventuele roosters vormen het opake deel. Van glas voorziene deuren worden als vensters behandeld. De grootte van de zonnewinsten door een venster hangt af van de afscherming door gebouwvreemde en gebouwgebonden omgevingselementen, door vaste zonneweringen en door beweegbare zonneweringen. De afscherming door omgevingselementen wordt in rekening gebracht bij de berekening van de invallende bezonning; de afscherming door een zonnewering via aanpassing van de zonnetoetredingsfactor g.<br>
+Een venster is een scheidingsconstructie die (gedeeltelijk) transparant is. Het raamprofiel, de eventuele vulpanelen en eventuele roosters vormen het opake deel. Van glas voorziene deuren worden als vensters behandeld. De grootte van de zonnewinsten door een venster hangt af van de afscherming door gebouwvreemde en gebouwgebonden omgevingselementen, door vaste zonneweringen en door beweegbare zonneweringen. De afscherming door omgevingselementen wordt in rekening gebracht bij de berekening van de invallende bezonning; de afscherming door een zonnewering via aanpassing van de zonnetoetredingsfactor g.<br>
 <br>
-7.10.3.2 Rekenregel</p>
+7.10.3.2 Rekenregel<br>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -3897,6 +3836,19 @@ Een venster is een scheidingsconstructie die (gedeeltelijk) transparant is. Het 
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
 			<p>de bezonning op venster j voor de beschouwde maand rekening houdend met de beschaduwing van vaste obstakels, in MJ/m<sup>2</sup>, bepaald volgens bijlage C.</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Indien de U-waarde van venster j bepaald wordt met de vereenvoudigde methode, neem dan steeds:</p>
+
+			<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; indien U<sub>g&nbsp; </sub>≤ U<sub>f </sub>: A<sub>g, j </sub>= 0.7 A<sub>w, d, j</sub></p>
+
+			<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; indien U<sub>g&nbsp; </sub>&gt; U<sub>f </sub>: A<sub>g, j </sub>= 0.8 A<sub>w, d, j</sub></p>
+
+			<p>waarin</p>
+
+			<p>A<sub>w, d, j&nbsp; </sub>de oppervlakte van de dagopening van venster j.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -3954,7 +3906,7 @@ De gemiddelde zonnetoetredingsfactor van een venster (g) wordt bepaald door de z
 			<p>g<sub>g,┴</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>de zonnetoetredingsfactor van de beglazing bij normale inval, bepaald volgens EN 410.</p>
+			<p>de zonnetoetredingsfactor van de beglazing bij normale inval, bepaald volgens NBN EN 410.</p>
 			</td>
 		</tr>
 		<tr>
@@ -3991,7 +3943,7 @@ De gemiddelde zonnetoetredingsfactor van een venster (g) wordt bepaald door de z
 			<p>g<sub>g+C,┴</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>de zonnetoetredingsfactor bij normale inval van de combinatie transparant deel en zonnewering, bepaald volgens EN 13363-1, prEN 13363-2 of ISO 15099. EN 13363-1 mag enkel toegepast worden indien de zonnetoetredingsfactor van het transparante deel op zich, g<sub>g,l</sub>, groter dan 0.15 en kleiner dan 0.85 is;</p>
+			<p>de zonnetoetredingsfactor bij normale inval van de combinatie transparant deel en zonnewering, bepaald volgens NBN EN 13363-1, NBN EN 13363-2 of ISO 15099. EN 13363-1 mag enkel toegepast worden indien voldaan is aan alle voorwaarden die in de norm gesteld worden;</p>
 			</td>
 		</tr>
 		<tr>
@@ -3999,7 +3951,7 @@ De gemiddelde zonnetoetredingsfactor van een venster (g) wordt bepaald door de z
 			<p>g<sub>g,┴</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>de zonnetoetredingsfactor bij normale inval voor het transparante deel van het venster, bepaald volgens EN 410.</p>
+			<p>de zonnetoetredingsfactor bij normale inval voor het transparante deel van het venster, bepaald volgens NBN EN 410.</p>
 			</td>
 		</tr>
 		<tr>
@@ -4205,7 +4157,7 @@ Een ongeventileerd passief zonne-energiesysteem is een constructie die bestaat u
 		</tr>
 		<tr>
 			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>Bepaal g<sub>eff,t,m</sub> met:</p>
+			<p>Bepaal g<sub>eff,t,m,k</sub> met:</p>
 
 			<p>• voor voorzetconstructies met een niet verwaarloosbare transmissie voor zonne-energie, is de effectieve waarde evenredig met de absorptie van het opake deel:</p>
 
@@ -4651,8 +4603,7 @@ In geval de conventionele waarschijnlijkheid verschillend is van nul, wordt in e
 <br>
 Men is dus steeds verplicht het woongebouw zo te ontwerpen dat de oververhittingsindicator in elke energiesector altijd onder het toegelaten maximum blijft. Het is bovendien sterk aan te bevelen om ook onder de drempelwaarde voor fictieve koeling te blijven.<br>
 <br>
-8.2 Bepaling van de oververhittingsindicator<br>
-</p>
+8.2 Bepaling van de oververhittingsindicator</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -4784,7 +4735,7 @@ Men is dus steeds verplicht het woongebouw zo te ontwerpen dat de oververhitting
 			<p>H<sub>V,overh,sec i,m</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>het maandelijks specifiek warmteverlies van energiesector i door ventilatie voor de evaluatie van het oververhittingsrisico, in W/K, bepaald volgens nader door de overheid vast te leggen regels;</p>
+			<p>het maandelijks specifiek warmteverlies van energiesector i door ventilatie voor de evaluatie van het oververhittingsrisico, in W/K, bepaald volgens nader door de minister vast te leggen regels;</p>
 			</td>
 		</tr>
 		<tr>
@@ -4826,12 +4777,11 @@ Indien de oververhittingsindicator van een energiesector groter is dan de maxima
 - De effectieve thermische massa opdrijven. Binnen het kader van de conventionele bepaling van de energieprestatie beperkt deze ingreep zich tot een verhoging van licht naar matig zwaar, van matig zwaar naar half zwaar en van half zwaar naar zwaar.<br>
 - Voorzieningen voor intensieve ventilatie aanbrengen, in het bijzonder voor nachtelijke ventilatie.<br>
 <br>
-HT,overh,sec i,m wordt bepaald volgens 7.7.2. Indien echter de koudebruggen op forfaitaire manier ingerekend worden (volgens optie 5 van bijlage V bij dit besluit), wordt deze forfaitaire toeslag buiten beschouwing gelaten bij de evaluatie van het oververhittingsrisico.<br>
+HT,overh,sec i,m wordt bepaald volgens 7.7.2. Indien echter de koudebruggen op forfaitaire manier ingerekend worden (volgens optie 5 van bijlage IV bij dit besluit), wordt deze forfaitaire toeslag buiten beschouwing gelaten bij de evaluatie van het oververhittingsrisico.<br>
 <br>
 <br>
 8.3 Conventionele waarschijnlijkheid op de plaatsing van actieve koeling<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -4873,8 +4823,7 @@ HT,overh,sec i,m wordt bepaald volgens 7.7.2. Indien echter de koudebruggen op f
 
 <p>&nbsp;</p>
 
-<p>8.4 Koeling<br>
-</p>
+<p>8.4 Koeling</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -4907,7 +4856,7 @@ HT,overh,sec i,m wordt bepaald volgens 7.7.2. Indien echter de koudebruggen op f
 			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
 			<p>Bepaal de overtollige warmtewinsten t.o.v. de insteltemperatuur voor koeling, Q<sub>excess,cool,sec i,m</sub> met:</p>
 
-			<p>Q<sub>excess,coolseci,m</sub> = (1 - η<sub>util,cool,sec i,m</sub>) . Q<sub>g,cool,seci,η</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (MJ)</p>
+			<p>Q<sub>excess,coolseci,m</sub> = (1 - η<sub>util,cool,sec i,m</sub>) . Q<sub>g,cool,seci,</sub><sub>η</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (MJ)</p>
 
 			<p>waarbij:</p>
 
@@ -5033,7 +4982,7 @@ HT,overh,sec i,m wordt bepaald volgens 7.7.2. Indien echter de koudebruggen op f
 			<p>H<sub>V,cool,sec i</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>het maandelijks specifiek warmteverlies van energiesector i door ventilatie voor de bepaling van de koelbehoefte, in W/K, bepaald volgens 7.8.2;</p>
+			<p>het specifiek warmteverlies van energiesector i door ventilatie voor de bepaling van de koelbehoefte, in W/K, bepaald volgens 7.8.2;</p>
 			</td>
 		</tr>
 		<tr>
@@ -5541,7 +5490,7 @@ Tabel 8: Opslagrendement<br>
 			<p>r<sub>water,bath i,gross</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>een reductiefactor voor het effect van de voorverwarming van de koudwatertoevoer naar de warmteopwekker(s) voor de bereiding van het warm tapwater voor douche of bad i d.m.v. warmteterugwinning uit de afloop, te bepalen volgens vooraf door de overheid erkende regels (-);</p>
+			<p>een reductiefactor voor het effect van de voorverwarming van de koudwatertoevoer naar de warmteopwekker(s) voor de bereiding van het warm tapwater voor douche of bad i d.m.v. warmteterugwinning uit de afloop, te bepalen volgens vooraf door de minister erkende regels (-);</p>
 			</td>
 		</tr>
 		<tr>
@@ -5549,7 +5498,7 @@ Tabel 8: Opslagrendement<br>
 			<p>r<sub>water,sink i,gross</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>een reductiefactor voor het effect van de voorverwarming van de koudwatertoevoer naar de warmteopwekker(s) voor de bereiding van het warm tapwater voor keukenaanrecht i d.m.v. warmteterugwinning uit de afloop, te bepalen volgens vooraf door de overheid erkende regels (-).</p>
+			<p>een reductiefactor voor het effect van de voorverwarming van de koudwatertoevoer naar de warmteopwekker(s) voor de bereiding van het warm tapwater voor keukenaanrecht i d.m.v. warmteterugwinning uit de afloop, te bepalen volgens vooraf door de minister erkende regels (-).</p>
 			</td>
 		</tr>
 		<tr>
@@ -5650,7 +5599,7 @@ Het systeemrendement voor warm tapwater hangt af van de wijze van verdelen van h
 			<p>r<sub>water,bath i,net</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>een reductiefactor voor het effect van de voorverwarming van de koudwatertoevoer naar douche of bad i d.m.v. warmteterugwinning uit de afloop, te bepalen volgens vooraf door de overheid erkende regels (-);</p>
+			<p>een reductiefactor voor het effect van de voorverwarming van de koudwatertoevoer naar douche of bad i d.m.v. warmteterugwinning uit de afloop, te bepalen volgens vooraf door de minister erkende regels (-);</p>
 			</td>
 		</tr>
 		<tr>
@@ -5666,7 +5615,7 @@ Het systeemrendement voor warm tapwater hangt af van de wijze van verdelen van h
 			<p>r<sub>water,sink i,net</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>een reductiefactor voor het effect van de voorverwarming van de koudwatertoevoer naar keukenaanrecht i d.m.v. warmteterugwinning uit de afloop, te bepalen volgens vooraf door de overheid erkende regels (-).</p>
+			<p>een reductiefactor voor het effect van de voorverwarming van de koudwatertoevoer naar keukenaanrecht i d.m.v. warmteterugwinning uit de afloop, te bepalen volgens vooraf door de minister erkende regels (-).</p>
 			</td>
 		</tr>
 		<tr>
@@ -5675,7 +5624,7 @@ Het systeemrendement voor warm tapwater hangt af van de wijze van verdelen van h
 
 			<p>Bepaal de bijdrage van de circulatieleiding k als:</p>
 
-			<p>η<sub>water,circ k,m</sub> = Q<sub>waterout,cirk,m</sub> / Q<sub>waterout,cirk,m</sub>+t<sub>m</sub>∑<sub>j</sub>1<sub>circ,j</sub>.(60-θ<sub>amb,m,j</sub>)/R<sub>l,j</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (-)</p>
+			<p>η<sub>water,circ k,m</sub> = Q<sub>waterout,cirk,m</sub> / Q<sub>waterout,cirk,m</sub>+t<sub>m</sub>∑<sub>j</sub>1<sub>circ k,j</sub>.(60-θ<sub>amb,m,j</sub>)/R<sub>l,j</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (-)</p>
 
 			<p>met:</p>
 
@@ -5781,28 +5730,27 @@ Het systeemrendement voor warm tapwater hangt af van de wijze van verdelen van h
 <br>
 10.1 Vooraf<br>
 <br>
-Met het eindenergieverbruik verschijnen de warmteopwekkingsinstallaties in de beoordeling. Dat gebeurt bij ketels en generatoren via het opwekkingsrendement en bij warmtepompen via de seizoensprestatiefactor (SPF). In voorkomend geval wordt gelijktijdig rekening gehouden met de nuttige bijdrage van thermische zonne-energiesystemen. Voor koeling geldt een specifieke procedure.<br>
+Met het eindenergieverbruik verschijnen de warmteopwekkingstoestellen in de beoordeling. Dat gebeurt in het algemeen via het opwekkingsrendement en bij warmtepompen via de seizoensprestatiefactor (SPF). In voorkomend geval wordt gelijktijdig rekening gehouden met de nuttige bijdrage van thermische zonne-energiesystemen. Voor koeling geldt een specifieke procedure.<br>
 <br>
-Bij uitbreiding van een gebouw kunnen zich volgende gevallen voordoen:<br>
-</p>
+Bij uitbreiding van een gebouw kunnen zich volgende gevallen voordoen:</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
-			<p>• indien de uitbreiding verwarmd wordt met nieuwe warmteopwekkingsinstallaties die onafhankelijk van de bestaande installaties werken, wordt onderstaande procedure onverminderd toegepast.</p>
+			<p>• indien de uitbreiding verwarmd wordt met nieuwe warmteopwekkingstoestellen die onafhankelijk van de bestaande toestellen werken, wordt onderstaande procedure onverminderd toegepast.<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
 
-			<p>• indien er nieuwe warmteopwekkingsinstallaties geplaatst worden die in combinatie met de bestaande installaties werken, dan dient onderstaande procedure toegepast te worden waarbij de bestaande toestellen buiten beschouwing blijven.</p>
+			<p>• indien er nieuwe warmteopwekkingstoestellen geplaatst worden die in combinatie met de bestaande toestellen werken, dan dient onderstaande procedure toegepast te worden waarbij de bestaande toestellen buiten beschouwing blijven.</p>
 
 			<p>• indien er geen bijkomende toestellen geplaatst worden, maar enkel gebruik gemaakt wordt van bestaande toestellen, dan mag naar keuze:</p>
 
 			<p>&nbsp;onderstaande procedure toegepast worden op de bestaande toestellen mits alle benodigde informatie eenduidig beschikbaar is</p>
 
-			<p>&nbsp;gerekend worden met volgende waarden bij ontstentenis (waarbij aangenomen wordt dat het om verschillende opwekkingsinstallaties voor ruimteverwarming en warm tapwater gaat):</p>
+			<p>&nbsp;gerekend worden met volgende waarden bij ontstentenis (waarbij aangenomen wordt dat het om verschillende opwekkingstoestellen voor ruimteverwarming en warm tapwater gaat):</p>
 
 			<p>&nbsp;&nbsp; • energiedrager: gasolie</p>
 
-			<p>&nbsp;&nbsp; • η<sub>gen,heat</sub> = 0.77 (t.o.v. de onderste verbrandingswaarde)</p>
+			<p>&nbsp;&nbsp; • η<sub>gen,heat</sub> = 0.77 (ten opzichte van de bovenste verbrandingswaarde)</p>
 
 			<p>&nbsp;&nbsp; • η<sub>gen,water</sub> = 0.45 (t.o.v. de bovenste verbrandingswaarde)</p>
 			</td>
@@ -5812,16 +5760,13 @@ Bij uitbreiding van een gebouw kunnen zich volgende gevallen voordoen:<br>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 <p>10.2 Maandelijks eindenergieverbruik voor ruimteverwarming<br>
 <br>
 10.2.1 Principe<br>
 <br>
 De energie nodig om een energiesector te verwarmen kan door 1 enkel opwekkingstoestel geleverd worden, of door een combinatie van parallel geschakelde toestellen. Omwille van dit laatste geval wordt het formalisme ingevoerd van een preferent en niet-preferent geschakeld toestel. In het (meest gebruikelijke) geval dat er geen parallel toestel is, komt dit overeen met een preferent aandeel van 100%. Onderstaande uitdrukkingen geven dan als resultaat een nulverbruik voor het niet-preferente toestel.<br>
 <br>
-10.2.2 Rekenregel<br>
-</p>
+10.2.2 Rekenregel</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -5884,8 +5829,7 @@ De energie nodig om een energiesector te verwarmen kan door 1 enkel opwekkingsto
 <p>&nbsp;</p>
 
 <p>Voor de groepering van preferente en niet-preferente warmteopwekkers en het aandeel in het totaal geïnstalleerd vermogen, gelden dezelfde regels als gespecificeerd in 7.1 en 7.3.1 van bijlage II bij dit besluit (Bepalingsmethode van het peil van primair energieverbruik van kantoren en scholen).<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -6254,18 +6198,19 @@ De energie nodig om een energiesector te verwarmen kan door 1 enkel opwekkingsto
 
 <p>&nbsp;</p>
 
-<p>10.2.3 Opwekkingsrendement voor ruimteverwarming<br>
+<p>10.2.3 Opwekkingsrendement voor ruimteverwarming en bevochtiging<br>
 <br>
 10.2.3.1 Principe<br>
 <br>
 Het opwekkingsrendement voor ruimteverwarming wordt gedefinieerd als de verhouding tussen de warmtelevering door de warmteopwekkingsinstallatie aan het systeem voor warmteverdeling en de energie nodig om die warmte te genereren. Elektrisch hulpenergieverbruik voor waterketels en warme lucht generatoren wordt ingerekend in 11.1.2. Het verbruik van een waakvlam wordt in voorkomend geval ingerekend in 11.1.3.<br>
 <br>
+De bepaling van het opwekkingsrendement, vermeld in dit hoofdstuk, is ook van toepassing voor de warmteopwekking ten behoeve van de bevochtiging, zie paragraaf 7.4.1 van bijlage II bij dit besluit (Bepaling van het peil van primair energieverbruik van kantoor- en schoolgebouwen)<br>
+<br>
 10.2.3.2 Opwekkingsrendement van verwarmingstoestellen die geen elektrische warmtepomp zijn<br>
 <br>
 Ontleen het opwekkingsrendement aan Tabel 10.<br>
 <br>
-Tabel 10 Opwekkingsrendement voor ruimteverwarming (met uitzondering van warmtepompen)<br>
-</p>
+Tabel 10 Opwekkingsrendement voor ruimteverwarming (met uitzondering van warmtepompen)</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -6354,10 +6299,9 @@ Tabel 10 Opwekkingsrendement voor ruimteverwarming (met uitzondering van warmtep
 
 <p>(1) Indien het toestel buiten het beschermd volume opgesteld is, dient het bekomen rendement verminderd te worden met 0.02.<br>
 (2) Indien de ketel uitgerust is met een regeling die de ketel permanent, dus ook gedurende periodes zonder warmtevraag, warm houdt9 (d.w.z.: tussen 2 branderbeurten kan de ketel niet onbeperkt afkoelen, uiteindelijk tot op omgevingstemperatuur), dient het bekomen rendement verminderd te worden met 0.05.<br>
-(3) Indien de fabrikant voor het opwekkingsrendement van een plaatselijk verwarmingstoestel een waarde kan voorleggen die bepaald werd volgens vooraf door de overheid erkende regels, mag in plaats van de waarde bij ontstentenis hierboven, deze waarde worden gebruikt.<br>
-(4) Afwijkingen t.o.v. bovenstaande categorieën dienen o.b.v. gelijkwaardigheid volgens vooraf door de overheid erkende regels behandeld te worden.<br>
-<br>
-</p>
+(3) Indien de fabrikant voor het opwekkingsrendement van een plaatselijk verwarmingstoestel een waarde kan voorleggen die bepaald werd volgens vooraf door de minister erkende regels, mag in plaats van de waarde bij ontstentenis hierboven, deze waarde worden gebruikt.<br>
+(4) Afwijkingen t.o.v. bovenstaande categorieën dienen o.b.v. gelijkwaardigheid volgens vooraf door de minister erkende regels behandeld te worden.<br>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -6448,7 +6392,13 @@ Tabel 10 Opwekkingsrendement voor ruimteverwarming (met uitzondering van warmtep
 
 <p>&nbsp;</p>
 
-<p>De waarde bij ontstentenis voor de ontwerpretourtemperatuur is 45°C voor oppervlakteverwarmingssystemen (vloer-, muur- of plafondverwarming) en 70°C voor alle andere warmteafgiftesystemen. Betere waarden kunnen ingebracht worden overeenkomstig vooraf door de overheid erkende regels.<br>
+<p>Als in één energiesector beide types systemen voorkomen, moet het systeem met de hoogste ontwerpretourtemperatuur beschouwd worden. (1)<br>
+Indien in één energiesector beide types systemen voorkomen, moet het systeem met de hoogste vertrektemperatuur beschouwd worden. (2)<br>
+De waarde bij ontstentenis voor de ontwerpretourtemperatuur is 45°C voor oppervlakteverwarmingssystemen (vloer-, muur- of plafondverwarming) en 70°C voor alle andere warmteafgiftesystemen. Betere waarden kunnen ingebracht worden overeenkomstig vooraf door de minister erkende regels.<br>
+<br>
+(1) Het is steeds toegestaan de energiesector op te delen in verschillende kleinere energiesectoren en voor elke sector apart het van toepassing zijnde warmteafgiftesysteem te beschouwen.<br>
+(2) Het is steeds toegestaan de energiesector op te delen in verschillende kleinere energiesectoren en voor elke sector apart het van toepassing zijnde warmteafgiftesysteem te beschouwen.<br>
+<br>
 <br>
 10.2.3.3 Elektrische warmtepompen<br>
 <br>
@@ -6459,11 +6409,10 @@ Bij elektrische warmtepompen wordt het opwekkingsrendement gelijkgesteld aan de 
 - Afvoerlucht. De afvoerlucht van het ventilatiesysteem wordt over de verdamper geleid en staat er zijn warmte aan af.<br>
 <br>
 OPMERKING<br>
-Onder warmtepompen worden in deze tekst actieve machines verstaan die warmte opnemen vanuit een bron op lage temperatuur en die deze warmte afgeven op een hogere temperatuur voor ruimteverwarming of de opwekking van warm tapwater. Een dergelijke temperatuursverhoging van de warmte gebeurt noodzakelijkerwijze met toevoeging van (een beperktere hoeveelheid) hoogwaardige energie.<br>
+Onder warmtepompen worden in deze tekst actieve machines verstaan die warmte opnemen vanuit een bron op lage temperatuur en die deze warmte afgeven op een hogere temperatuur voor ruimteverwarming, bevochtiging of de opwekking van warm tapwater. Een dergelijke temperatuursverhoging van de warmte gebeurt noodzakelijkerwijze met toevoeging van (een beperktere hoeveelheid) hoogwaardige energie.<br>
 Bij ventilatiesystemen is het ook mogelijk met passieve warmtewisselaars warmte uit de afvoerlucht aan de (koudere) toevoerlucht over te dragen. De warmteoverdracht gebeurt in dit geval op volledig natuurlijke wijze van hoge naar lage temperatuur zonder toevoeging van extra energie (afgezien van een kleine hoeveelheid extra hulpenergie, bv. wat extra verbruik door de ventilatoren om de extra drukval van de warmtewisselaar te overwinnen). Dergelijke toestellen bestaan in verschillende varianten (bv. kruis- of tegenstroom platenwarmtewisselaars, roterende warmtewielen, warmtepijpbatterijen, regeneratieve systemen, enz.) en worden hier aangeduid met de algemene term warmteterugwinapparaat. De energetische evaluatie van warmteterugwinapparaten gebeurt bij de behandeling van de ventilatieverliezen in 7.4.<br>
 Wanneer warmtepompen toegepast worden op de ventilatielucht, worden ze vaak gecombineerd met warmteterugwinapparaten. Normaliter is dit energetisch gunstiger. Om dubbeltellingen te vermijden mag de prestatiecoëfficiënt van de warmtepomp die in dit hoofdstuk gebruikt wordt, enkel betrekking hebben op de warmtepomp zelf zonder het effect van het warmteterugwinapparaat mee te integreren, vermits dit laatste expliciet ingerekend wordt in het hoofdstuk ventilatie. De combinatie van de evaluatie van de warmtepomp in strikte zin in dit hoofdstuk, en van het warmteterugwinapparaat in het hoofdstuk ventilatie, geeft een correcte beoordeling van het gecombineerd systeem in zijn geheel bij de bepaling van het karakteristiek energieverbruik.<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -6485,7 +6434,7 @@ Wanneer warmtepompen toegepast worden op de ventilatielucht, worden ze vaak geco
 			<p>f<sub>θ</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>een correctiefactor voor het verschil tussen de ontwerpvertrektemperatuur naar het systeem van warmteafgifte (of desgevallend warmteopslag) en de uitlaattemperatuur van de condensor in de test volgens EN 14511, in geval van warmtetransport met water;</p>
+			<p>een correctiefactor voor het verschil tussen de ontwerpvertrektemperatuur naar het systeem van warmteafgifte (of desgevallend warmteopslag) en de uitlaattemperatuur van de condensor in de test volgens NBN EN 14511, in geval van warmtetransport met water;</p>
 			</td>
 		</tr>
 		<tr>
@@ -6493,7 +6442,7 @@ Wanneer warmtepompen toegepast worden op de ventilatielucht, worden ze vaak geco
 			<p>f<sub>∆θ</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>een correctiefactor voor het verschil in temperatuursvariatie van enerzijds het warmteafgiftesysteem bij ontwerpomstandigheden (of desgevallend warmteopslag) en van anderzijds het water over de condensor onder testomstandigheden volgens EN 14511, in geval van warmtetransport met water;</p>
+			<p>een correctiefactor voor het verschil in temperatuursvariatie van enerzijds het warmteafgiftesysteem bij ontwerpomstandigheden (of desgevallend warmteopslag) en van anderzijds het water over de condensor onder testomstandigheden volgens NBN EN 14511, in geval van warmtetransport met water;</p>
 			</td>
 		</tr>
 		<tr>
@@ -6509,7 +6458,7 @@ Wanneer warmtepompen toegepast worden op de ventilatielucht, worden ze vaak geco
 			<p>f<sub>AHU</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>een correctiefactor voor het verschil in luchtdebiet bij ontwerp en het luchtdebiet bij de test volgens EN 14511. f<sub>AHU</sub> komt enkel tussen bij de warmtepompen op ventilatielucht;</p>
+			<p>een correctiefactor voor het verschil in luchtdebiet bij ontwerp en het luchtdebiet bij de test volgens NBN EN 14511. f<sub>AHU</sub> komt enkel tussen bij de warmtepompen op ventilatielucht;</p>
 			</td>
 		</tr>
 		<tr>
@@ -6517,7 +6466,7 @@ Wanneer warmtepompen toegepast worden op de ventilatielucht, worden ze vaak geco
 			<p>COP<sub>test</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>de prestatiecoëfficiënt (coefficient of performance) van de warmtepomp volgens EN 14511 onder de testomstandigheden omschreven als 'standard rating conditions' in deel 2 van de norm.</p>
+			<p>de prestatiecoëfficiënt (coefficient of performance) van de warmtepomp volgens NBN EN 14511 onder de testomstandigheden omschreven als 'standard rating conditions' in deel 2 van de norm.</p>
 			</td>
 		</tr>
 		<tr>
@@ -6536,7 +6485,7 @@ Wanneer warmtepompen toegepast worden op de ventilatielucht, worden ze vaak geco
 			<p>θ<sub>supply,design</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>de vertrektemperatuur naar het systeem van warmteafgifte in °C bij de ontwerpomstandigheden. Hierbij dient niet enkel rekening gehouden te worden met het afgiftesysteem, maar ook met de dimensionering van een eventueel buffervat (maximale opslagtemperatuur). Als waarde bij ontstentenis mag voor oppervlakteverwarmingssytemen (vloer-, muur- en plafondverwarming) θ<sub>supply,design</sub> = 55°C genomen worden en voor radiatoren en convectoren θ<sub>supply,design</sub> = 90°C. Betere waarden kunnen ingebracht worden overeenkomstig vooraf door de overheid erkende regels.</p>
+			<p>de vertrektemperatuur naar het systeem van warmteafgifte in °C bij de ontwerpomstandigheden. Hierbij dient niet enkel rekening gehouden te worden met het afgiftesysteem, maar ook met de dimensionering van een eventueel buffervat (maximale opslagtemperatuur). Als waarde bij ontstentenis mag voor oppervlakteverwarmingssytemen (vloer-, muur- en plafondverwarming) θ<sub>supply,design</sub> = 55°C genomen worden en voor alle andere warmteafgiftesystemen θ<sub>supply,design</sub> = 90°C. Betere waarden kunnen ingebracht worden overeenkomstig vooraf door de minister erkende regels.</p>
 			</td>
 		</tr>
 		<tr>
@@ -6555,7 +6504,7 @@ Wanneer warmtepompen toegepast worden op de ventilatielucht, worden ze vaak geco
 			<p>∆θ<sub>design</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>het temperatuursverschil in °C tussen vertrek en retour van het afgiftesysteem (of desgevallend de warmteopslag) bij ontwerpomstandigheden en ∆θ<sub>test</sub> de temperatuurstoename van het water over de condensor in °C, bij het testen volgens EN 14511. Als waarde bij ontstentenis mag f<sub>∆θ</sub> = 0.93 genomen worden.</p>
+			<p>het temperatuursverschil in °C tussen vertrek en retour van het afgiftesysteem (of desgevallend de warmteopslag) bij ontwerpomstandigheden en ∆θ<sub>test</sub> de temperatuurstoename van het water over de condensor in °C, bij het testen volgens NBN EN 14511. Als waarde bij ontstentenis mag f<sub>∆θ</sub> = 0.93 genomen worden.</p>
 			</td>
 		</tr>
 		<tr>
@@ -6570,7 +6519,7 @@ Wanneer warmtepompen toegepast worden op de ventilatielucht, worden ze vaak geco
 
 			<p>- Elektrisch vermogen van de pomp (P<sub>pumps</sub>, in kW) wel gekend:</p>
 
-			<p>f<sub>pumps</sub> = 1 / 1+(P<sub>pumps</sub>/P<sub>HP</sub> met P<sub>HP</sub> het elektrisch vermogen (in kW) van de warmtepomp volgens EN 14511 bij dezelfde testomstandigheden als waarbij COPtest bepaald is.</p>
+			<p>f<sub>pumps</sub> = 1 / 1+(P<sub>pumps</sub>/P<sub>HP</sub> met P<sub>HP</sub> het elektrisch vermogen (in kW) van de warmtepomp volgens NBN EN 14511 bij dezelfde testomstandigheden als waarbij COPtest bepaald is.</p>
 			</td>
 		</tr>
 		<tr>
@@ -6619,7 +6568,7 @@ Wanneer warmtepompen toegepast worden op de ventilatielucht, worden ze vaak geco
 			<p>V<sup>·</sup><sub>test</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>het luchtdebiet doorheen de installatie in m<sup>3</sup>/h bij de test volgens EN 14511;</p>
+			<p>het luchtdebiet doorheen de installatie in m<sup>3</sup>/h bij de test volgens NBN EN 14511;</p>
 			</td>
 		</tr>
 		<tr>
@@ -6651,8 +6600,7 @@ Wanneer warmtepompen toegepast worden op de ventilatielucht, worden ze vaak geco
 <br>
 De energie nodig om warm tapwater te produceren kan door één enkel opwekkingstoestel geleverd worden, of door een combinatie van parallel geschakelde toestellen. Voor de verschillende tappunten in de badkamer en de keuken kunnen eventueel verschillende toestellen (of combinatie van toestellen) gebruikt worden. Omwille van het geval met meerdere parallelle toestellen wordt, volledig analoog aan ruimteverwarming, het formalisme ingevoerd van een preferent en niet-preferent geschakeld toestel. In het (meest gebruikelijke) geval dat er geen parallel toestel is, komt dit overeen met een preferent aandeel van 100%. Onderstaande uitdrukkingen geven dan als resultaat een nulverbruik voor het niet-preferente toestel.<br>
 <br>
-10.3.2 Rekenregel<br>
-</p>
+10.3.2 Rekenregel</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -6772,8 +6720,7 @@ Opwekkingsinstallaties die ogenblikkelijk het tapwater opwarmen, genereren slech
 <br>
 Opwekkingsinstallaties met warmteopslag houden een hoeveelheid warmte beschikbaar in een voorraadvat, ook op ogenblikken dat er geen warm water getapt wordt. De warmteopslag kan zowel onder de vorm van het warm tapwater zelf zijn, als onder de vorm van ketelwater, waarbij in dit laatste geval het tapwater zelf via een doorstroomwarmtewisselaar pas opgewarmd wordt op de tapmomenten. Ook als de installatie niet permanent warmte beschikbaar houdt, maar onbelemmerd kan afkoelen gedurende bepaalde periodes (bv. 's nachts) blijven dezelfde opwekkingsrendementen van toepassing.<br>
 <br>
-Tabel 11: Rekenwaarden voor het opwekkingsrendement ?gen,water voor de bereiding van warm tapwater<br>
-</p>
+Tabel 11: Rekenwaarden voor het opwekkingsrendement ?gen,water voor de bereiding van warm tapwater</p>
 
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -6859,10 +6806,9 @@ Tabel 11: Rekenwaarden voor het opwekkingsrendement ?gen,water voor de bereiding
 <p>&nbsp;</p>
 
 <p>(1) Deze cijfers zijn reeds de rendementen t.o.v. de bovenste verbrandingswaarde.<br>
-(2) Afwijkingen t.o.v. bovenstaande categorieën dienen o.b.v. gelijkwaardigheid volgens vooraf door de overheid erkende regels behandeld te worden.<br>
+(2) Afwijkingen t.o.v. bovenstaande categorieën dienen o.b.v. gelijkwaardigheid volgens vooraf door de minister erkende regels behandeld te worden.<br>
 <br>
-In de tabel zijn de symbolen als volgt gedefinieerd:<br>
-</p>
+In de tabel zijn de symbolen als volgt gedefinieerd:</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -6879,7 +6825,7 @@ In de tabel zijn de symbolen als volgt gedefinieerd:<br>
 			<p>η<sub>equiv,water,dh</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>het in te zetten rendement voor externe warmtelevering voor de warmtapwaterbereiding. Dit wordt bepaald t.o.v. de bovenste verbrandingswaarde van de gebruikte brandstof (zie ook bijlage F).</p>
+			<p>het in te zetten rendement voor externe warmtelevering voor de warmtapwaterbereiding.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -6893,8 +6839,7 @@ In de tabel zijn de symbolen als volgt gedefinieerd:<br>
 <br>
 10.4.1 Ruimteverwarming en warm tapwater<br>
 <br>
-10.4.1.1 Eenvoudige benadering<br>
-</p>
+10.4.1.1 Eenvoudige benadering</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -7054,12 +6999,11 @@ In de tabel zijn de symbolen als volgt gedefinieerd:<br>
 
 <p>10.4.1.2 Detailberekening<br>
 <br>
-Zijn het ontwerp van het thermisch zonne-energiesysteem en de karakteristieken van elk van de onderdelen gekend, dan mag men de maandelijkse nuttige energiebijdrage (zonnefractie) bepalen met een daartoe geschikt rekenprogramma dat vooraf door de overheid erkend is. De hulpenergie (bv. voor een circulatiepomp) dient daarbij vermenigvuldigd te worden met de primaire energie omrekenfactor voor elektriciteit en in mindering gebracht te worden bij de bepaling van de maandelijkse nuttige energiebijdrage.<br>
+Zijn het ontwerp van het thermisch zonne-energiesysteem en de karakteristieken van elk van de onderdelen gekend, dan mag men de maandelijkse nuttige energiebijdrage (zonnefractie) bepalen met een daartoe geschikt rekenprogramma dat vooraf door de minister erkend is. De hulpenergie (bv. voor een circulatiepomp) dient daarbij vermenigvuldigd te worden met de primaire energie omrekenfactor voor elektriciteit en in mindering gebracht te worden bij de bepaling van de maandelijkse nuttige energiebijdrage.<br>
 <br>
 10.4.2 Warm tapwater<br>
 <br>
-10.4.2.1 Eenvoudige methode<br>
-</p>
+10.4.2.1 Eenvoudige methode</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -7120,7 +7064,7 @@ Zijn het ontwerp van het thermisch zonne-energiesysteem en de karakteristieken v
 			<p>Q<sub>as,a</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>de jaarlijkse zonne-instraling op het thermisch zonne-energiesysteem, in MJ (gelijk aan de som van de 12 maandelijkse opvangwaarden, in MJ).</p>
+			<p>de jaarlijkse zonne-instraling op het thermisch zonne-energiesysteem, in MJ (gelijk aan de som van de zonne-instraling van elk van de 12 maanden, in MJ).</p>
 			</td>
 		</tr>
 	</tbody>
@@ -7132,15 +7076,14 @@ Zijn het ontwerp van het thermisch zonne-energiesysteem en de karakteristieken v
 
 <p>10.4.2.2 Detailberekening<br>
 <br>
-Zijn het ontwerp van het zonne-energiesysteem en de karakteristieken van elk van de onderdelen gekend, dan mag men de maandelijkse nuttige energiebijdrage (zonnefractie) ervan bepalen met een daartoe geschikt rekenprogramma dat vooraf door de overheid erkend is. De hulpenergie (bv. voor een circulatiepomp) dient daarbij vermenigvuldigd te worden met de primaire energie omrekenfactor voor elektriciteit en in mindering gebracht te worden bij de bepaling van de maandelijkse nuttige energiebijdrage.<br>
+Zijn het ontwerp van het zonne-energiesysteem en de karakteristieken van elk van de onderdelen gekend, dan mag men de maandelijkse nuttige energiebijdrage (zonnefractie) ervan bepalen met een daartoe geschikt rekenprogramma dat vooraf door de minister erkend is. De hulpenergie (bv. voor een circulatiepomp) dient daarbij vermenigvuldigd te worden met de primaire energie omrekenfactor voor elektriciteit en in mindering gebracht te worden bij de bepaling van de maandelijkse nuttige energiebijdrage.<br>
 <br>
 10 De Engelse term voor f is 'solar fraction', verder vertaald als zonnefractie. Ze kan theoretisch variëren tussen de waarden 0 (helemaal geen bijdrage van de zonne-energie) en 1 (volledige dekking door zonne-energie).<br>
 <br>
 <br>
 10.5 Equivalent maandelijks energieverbruik voor koeling<br>
 <br>
-Indien er teveel overtollige warmtewinsten optreden, is het risico op oververhitting groot. Zelfs indien er bij de bouw geen actieve koeling geplaatst wordt, blijft de kans bestaan dat deze achteraf toch nog geïnstalleerd wordt. Daarom wordt er ook in die gevallen met een equivalent fictief koelverbruik rekening gehouden, zie hoofdstuk 8.<br>
-</p>
+Indien er teveel netto energiebehoefte voor koeling optreden, is het risico op oververhitting groot. Zelfs indien er bij de bouw geen actieve koeling geplaatst wordt, blijft de kans bestaan dat deze achteraf toch nog geïnstalleerd wordt. Daarom wordt er ook in die gevallen met een equivalent fictief koelverbruik rekening gehouden, zie hoofdstuk 8.</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -7166,7 +7109,7 @@ Indien er teveel overtollige warmtewinsten optreden, is het risico op oververhit
 			<p>8.1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>het product van het forfaitair systeemrendement (0.9), een forfaitaire COP van het koelsysteem (2.5) en de omrekenfactor van MJ naar kWh (3.6).</p>
+			<p>het product van het forfaitair systeemrendement (0.9), een forfaitaire EER van het koelsysteem (2.5) en de omrekenfactor van MJ naar kWh (3.6).</p>
 			</td>
 		</tr>
 	</tbody>
@@ -7178,9 +7121,11 @@ Indien er teveel overtollige warmtewinsten optreden, is het risico op oververhit
 
 ### BIJLAGE
 
+Tabel 14: Rekenwaarden bij ontstentenis voor het elektrisch vermogen van<br>
+de ventilatoren voor ruimteverwarming (Vsec i: volume van de energiesector i)
 <p>11 Maandelijks hulpenergieverbruik<br>
 <br>
-11.1 Maandelijks energieverbruik voor de hulpfuncties van ruimteverwarming<br>
+11.1 Maandelijks energieverbruik voor de hulpfuncties<br>
 <br>
 11.1.1 Principe<br>
 <br>
@@ -7222,8 +7167,6 @@ In dit hoofdstuk wordt het conventioneel energieverbruik van de hulpfuncties bep
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -7451,7 +7394,7 @@ Het maandelijks elektriciteitsverbruik van de ventilatoren in mechanische ventil
 
 <p>&nbsp;</p>
 
-<p>Er dient gesommeerd te worden over alle ventilatoren j die bijdragen tot de bewuste ventilatie van het ’EPW-volume’ (toevoer en/of afvoer) en die niet tevens voor luchtverwarming dienen. (Deze laatsten worden beschouwd in 11.2.3.) In geval voor het gemiddeld elektrisch vermogen de waarde bij ontstentenis gebruikt wordt, geldt deze onmiddellijk voor de som van alle ventilatoren in een ventilatiezone en is er dus geen sommering binnen die ventilatiezone meer nodig.<br>
+<p>Er dient gesommeerd te worden over alle ventilatoren j die bijdragen tot de bewuste ventilatie van het ’EPW-volume’ (toevoer en/of afvoer en/of recirculatie) en die niet tevens voor luchtverwarming dienen. (Deze laatsten worden beschouwd in 11.2.3.) In geval voor het gemiddeld elektrisch vermogen de waarde bij ontstentenis gebruikt wordt, geldt deze onmiddellijk voor de som van alle ventilatoren in een ventilatiezone en is er dus geen sommering binnen die ventilatiezone meer nodig.<br>
 <br>
 11.2.2.2 Bepaling van de rekenwaarde voor het gemiddeld elektrisch ventilatorvermogen (voor bewuste ventilatie)<br>
 <br>
@@ -7580,7 +7523,7 @@ Neem als rekenwaarde voor het elektrisch vermogen van alle ventilatoren samen di
 <br>
 Bepaal de rekenwaarde voor het gemiddeld elektrisch vermogen op 1 van de volgende 2 manieren:<br>
 • de helft van het maximaal vermogen van de elektromotor-ventilator combinatie, desgevallend met inbegrip van alle voorschakelapparatuur,zoals opgegeven door de fabrikant, in W;<br>
-• de helft van het nominaal vermogen van de elektromotor, desgevallend met inbegrip van alle voorschakelapparatuur, bepaald volgens NBN EN IEC 60034-1, zoals opgegeven door de fabrikant, in W;<br>
+• de helft van het nominaal vermogen van de elektromotor, desgevallend met inbegrip van alle voorschakelapparatuur, bepaald volgens NBN EN 60034-1, zoals opgegeven door de fabrikant, in W;<br>
 <br>
 OPMERKING: Het nominaal vermogen van een elektromotor is gedefinieerd als het maximaal vermogen dat de motor bij continu bedrijf kan opnemen. (Dit staat dus volledig los van het vermogen dat de motor opneemt wanneer hij in een bepaalde toepassing het nominaal ventilatiedebiet levert.)<br>
 <br>
@@ -7748,7 +7691,7 @@ Neem als rekenwaarde voor het elektrisch vermogen van alle ventilatoren samen di
 			<p>Installatie</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:198pt">
-			<p>Type ventilator</p>
+			<p>Soort ventilatorregeling</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:144.25pt">
 			<p>Vermogen</p>
@@ -7761,7 +7704,7 @@ Neem als rekenwaarde voor het elektrisch vermogen van alle ventilatoren samen di
 			<p>Luchtverwarming</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:198pt">
-			<p>Zonder automatische ventilatorregeling</p>
+			<p>Geen of niet- automatische regeling</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:144.25pt">
 			<p>0.780 ΣV<sub>sec i</sub></p>
@@ -7769,7 +7712,7 @@ Neem als rekenwaarde voor het elektrisch vermogen van alle ventilatoren samen di
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:198pt">
-			<p>Met automatische ventilatorregeling</p>
+			<p>Automatische regeling</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:144.25pt">
 			<p>0.525 ΣV<sub>sec i</sub></p>
@@ -7788,7 +7731,7 @@ Neem als rekenwaarde voor het elektrisch vermogen van alle ventilatoren samen di
 <br>
 Bepaal de rekenwaarde voor het elektrisch vermogen op 1 van de volgende 2 manieren:<br>
 • het maximaal vermogen van de elektromotor-ventilator combinatie, desgevallend met inbegrip van alle voorschakelapparatuur, zoals opgegeven door de fabrikant, in W;<br>
-• het nominaal vermogen van de elektromotor, desgevallend met inbegrip van alle voorschakelapparatuur, bepaald volgens NBN EN IEC 60034-1, zoals opgegeven door de fabrikant, in W.<br>
+• het nominaal vermogen van de elektromotor, desgevallend met inbegrip van alle voorschakelapparatuur, bepaald volgens NBN EN 60034-1, zoals opgegeven door de fabrikant, in W.<br>
 <br>
 OPMERKING: Het nominaal vermogen van een elektromotor is gedefinieerd als het maximaal vermogen dat de motor bij continu bedrijf kan opnemen. (Dit staat dus volledig los van het vermogen dat de motor opneemt wanneer hij in een bepaalde toepassing het nominaal ventilatiedebiet levert.)</p>
 
@@ -7823,7 +7766,7 @@ Als het fotovoltaïsch zonne-energiesysteem gemeenschappelijk is aan meerdere �
 			<p>P<sub>pv,i</sub>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>het piekvermogen van fotovoltaïsch systeem i in W, bij een bezonningsstroom van 1000 W/m², bepaald volgens EN IEC 60904-1;</p>
+			<p>het piekvermogen van fotovoltaïsch systeem i in W, bij een bezonningsstroom van 1000 W/m², bepaald volgens NBN EN 60904-1;</p>
 			</td>
 		</tr>
 		<tr>
@@ -7965,6 +7908,7 @@ Ontleen de waarde voor de reductiefactor aan Tabel 15, tenzij op basis van gelij
 Gezien een deel van de energie-input in een warmtekrachtinstallatie omgezet wordt in elektriciteit, is voor een gegeven bruto warmtebehoefte het lokaal eindenergieverbruik gewoonlijk hoger dan voor gebruikelijke warmteopwekkers: zie hoofdstuk 10. De hoeveelheid elektriciteit geproduceerd door de WKK-installatie dient evenwel niet meer opgewekt te worden in conventionele elektriciteitscentrales (gescheiden productie) en daar wordt dus brandstofverbruik vermeden. Het uitgespaarde energieverbruik in de elektrische centrales wordt in de energieprestatie van het gebouw dan ook als bonus ingerekend zodat de impact op het algeheel landelijk primair energieverbruik correct geëvalueerd wordt. In dit hoofdstuk 12.2 wordt de elektriciteitsproductie door WKK bepaald. In 13.8 wordt dit omgerekend naar de uitgespaarde hoeveelheid primaire energie.<br>
 <br>
 12.2.2 Elektriciteitsproductie<br>
+<br>
 </p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
@@ -7973,7 +7917,7 @@ Gezien een deel van de energie-input in een warmtekrachtinstallatie omgezet word
 			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
 			<p>Bepaal de hoeveelheid elektriciteit die door de gebouwgebonden WKK-installatie geproduceerd wordt met:</p>
 
-			<p>W<sub>cogen,m</sub> = ε<sub>cogen,elec</sub>/3.6 x Q<sub>heat,demand,cogen,m</sub>/ε<sub>cogen,th</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (kWh)</p>
+			<p>W<sub>cogen,m</sub> = ε<sub>cogen,elec</sub>/3.6 x Q<sub>cogen, final,m</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (kWh)</p>
 
 			<p>met:</p>
 			</td>
@@ -7988,38 +7932,30 @@ Gezien een deel van de energie-input in een warmtekrachtinstallatie omgezet word
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.4pt">
-			<p>Q<sub>heat,demand,cogen,m</sub></p>
+			<p>Q<sub>cogen, final,m</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>de maandelijkse hoeveelheid warmte die de WKK-installatie nuttig aan het gebouw kan leveren, zoals hieronder bepaald, in MJ;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.4pt">
-			<p>ε<sub>cogen,th</sub></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>het thermisch omzettingsrendement van de WKK-installatie, zijnde de fractie van de door een WKK-installatie verbruikte brandstof (gerekend t.o.v. de bovenste verbrandingswaarde) die in nuttig bruikbare warmte wordt omgezet.</p>
+			<p>het maandelijks eindenergieverbruik van de WKK-installatie, zoals hieronder bepaald, in MJ;</p>
 			</td>
 		</tr>
 		<tr>
 			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
 			<p>&nbsp;</p>
 
-			<p>Ontleen de omzettingsrendementen ε<sub>cogen,elec</sub>&nbsp;en ε<sub>cogen,th</sub>&nbsp;aan Tabel 16 van bijlage A van bijlage II bij dit besluit Bepalingsmethode van het peil van primair energieverbruik van kantoren en scholen).</p>
+			<p>Ontleen het omzettingsrendement ε<sub>cogen,elec</sub>&nbsp;aan Tabel 16 van bijlage A van bijlage II bij dit besluit Bepalingsmethode van het peil van primair energieverbruik van kantoren en scholen).</p>
 
 			<p>&nbsp;</p>
 
-			<p>Bepaal de maandelijkse hoeveelheid warmte die de WKK-installatie nuttig aan het gebouw kan leveren met:</p>
+			<p>Bepaal het maandelijks eindenergieverbruik van de WKK-installatie, overeenkomend met de hoeveelheid warmte die de installatie nuttig aan het gebouw kan leveren, met:</p>
 
-			<p>Q<sub>heat,demand,cogen,m</sub> = ∑<sub>i</sub>f<sub>heat,m,pref</sub> x (1 - f<sub>as,heat,seci,m</sub>) x Q<sub>heat,gross,seci,m</sub>&nbsp;+&nbsp; ∑<sub>i</sub>f<sub>water,btahi,m,pref</sub> x (1 - f<sub>as,water,bathi,m</sub>) x Q<sub>water,bathi,gross,m</sub> + ∑<sub>i</sub>f<sub>water,sinki,m,pref</sub> x (1 - f<sub>as,water,sinki,m</sub>) x Q<sub>water,sinki,gross,m</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (MJ)</p>
+			<p>Q<sub>cogen, final, m</sub> = ∑<sub>i</sub>f<sub>heat,m,pref</sub> x (1 - f<sub>as,heat,seci,m</sub>) x Q<sub>heat,gross,seci,m</sub>&nbsp;/ η <sub>gen, heat, cogen</sub>&nbsp;+&nbsp; ∑<sub>i</sub>f<sub>water,bathi,m,pref</sub> x (1 - f<sub>as,water,bathi,m</sub>) x Q<sub>water,bathi,gross,m </sub>/ η <sub>gen, water, bath i, m cogen</sub>&nbsp;+ ∑<sub>i</sub>f<sub>water,sinki,m,pref</sub> x (1 - f<sub>as,water,sinki,m</sub>) x Q<sub>water,sinki,gross,m</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (MJ) / η <sub>gen, water, sin k i, m, cogen</sub></p>
 
 			<p>met:</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.4pt">
-			<p>f<sub>heat,m,sec i,pref</sub></p>
+			<p>f<sub>heat,m,sec ,pref</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
 			<p>het aandeel van WKK in de warmtelevering van energiesector i, bepaald volgens 10.2.2;</p>
@@ -8082,6 +8018,32 @@ Gezien een deel van de energie-input in een warmtekrachtinstallatie omgezet word
 			</td>
 		</tr>
 		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.4pt">
+			<p>η <sub>gen, heat, cogen</sub></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
+			<p>het maandgemiddeld opwekkingsrendement van de WKK-installatie, bepaald volgens 10.2.3 (-);</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.4pt">
+			<p>η <sub>gen, water, bath i, m cogen</sub></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
+			<p>het maandgemiddeld opwekkingsrendement van de WKK-installatie voor de bereiding van het warm tapwater voor douche of bad i, bepaald volgens 10.3.3 (-);</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.4pt">
+			<p>η <sub>gen, water, sin k i, m, cogen</sub></p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
+			<p>het maandgemiddeld opwekkingsrendement van de WKK-installatie voor de bereiding van het warm tapwater voor keukenaanrecht i, bepaald volgens 10.3.3 (-);</p>
+			</td>
+		</tr>
+		<tr>
 			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
 			<p>&nbsp;</p>
 
@@ -8094,9 +8056,6 @@ Gezien een deel van de energie-input in een warmtekrachtinstallatie omgezet word
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
-
-<p><br>
-&nbsp;</p>
 
 ### BIJLAGE
 
@@ -8357,7 +8316,7 @@ De stap van eindenergieverbruik naar primair energieverbruik introduceert de omr
 			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
 			<p>Bepaal het maandelijks equivalent primair energieverbruik voor koeling als:</p>
 
-			<p>E<sub>p,cool,m</sub> = ∑<sub>i</sub> (f<sub>p</sub> x 3.6 x Q<sub>cool,final,seci,a</sub>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (MJ)</p>
+			<p>E<sub>p,cool,m</sub> = ∑<sub>i</sub> (f<sub>p</sub> x 3.6 x Q<sub>cool,final,sec i, m</sub>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (MJ)</p>
 
 			<p>met:</p>
 			</td>
@@ -8437,15 +8396,16 @@ De stap van eindenergieverbruik naar primair energieverbruik introduceert de omr
 <p>&nbsp;</p>
 
 <p>13.8 De primaire energiebesparing ingevolge een gebouwgebonden warmte-krachtinstallatie<br>
+<br>
 </p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
-			<p>Bepaal de equivalente maandelijkse primaire energiebesparing van een gebouwgebonden WKK-installatie als:</p>
+			<p>Bepaal de equivalente maandelijkse primaire energiebesparing van de gebouwgebonden WKK-installatie(s) als:</p>
 
-			<p>E<sub>p,cogen,m</sub> = f<sub>p</sub> x 3.6 x W<sub>cogen,m</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (MJ)</p>
+			<p>E<sub>p,cogen,m</sub> = Σ<sub>i</sub> f<sub>p</sub> x 3.6 x W<sub>cogen,m, i</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (MJ)</p>
 
 			<p>met:</p>
 			</td>
@@ -8460,10 +8420,10 @@ De stap van eindenergieverbruik naar primair energieverbruik introduceert de omr
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:95.4pt">
-			<p>W<sub>cogen,m</sub></p>
+			<p>W<sub>cogen,m, i</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>de maandelijkse elektriciteitsproductie van de gebouwgebonden WKK-installatie, bepaald volgens 12.2.2, in kWh.</p>
+			<p>de maandelijkse hoeveelheid elektriciteit die door de gebouwgebonden WKK-installatie i geproduceerd wordt, bepaald volgens 12.2.2, in kWh.</p>
 			</td>
 		</tr>
 		<tr>
@@ -8471,6 +8431,8 @@ De stap van eindenergieverbruik naar primair energieverbruik introduceert de omr
 			<p>&nbsp;</p>
 
 			<p>Er dient gesommeerd te worden over alle energiesectoren i.</p>
+
+			<p>Er moet gesommeerd worden over alle gebouwgebonden WKK-installaties i.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -8482,13 +8444,13 @@ De stap van eindenergieverbruik naar primair energieverbruik introduceert de omr
 
 ### BIJLAGE A
 
-Bijlage A: Behandeling van aangrenzende onverwarmde ruimten   (AOR)<BR><BR>M.b.t. aangrenzende onverwarmde ruimten wordt een reductiefactor b   bepaald, zie EN 13789.<BR><BR>Voor de behandeling van aangrenzende onverwarmde   ruimten bij de bepaling van de energieprestatie, worden standaard volgende 2   vereenvoudigde mogelijkheden voorzien.<BR><BR>Mogelijkheid 1<BR><BR>Het is   steeds toegelaten de buitengeometrie van de AOR buiten beschouwing te   laten.<BR>* Voor de bepaling van de netto energiebehoefte voor ruimteverwarming   wordt er dan aangenomen dat de temperatuur van de AOR gelijk is aan de   buitentemperatuur (d.w.z. de reductiefactor b = 1). Er wordt geen doorzonning   naar het beschermd volume beschouwd.<BR>* Voor de bepaling van de   oververhittingsindicator en van de netto energiebehoefte voor ruimtekoeling   wordt er aangenomen dat de AOR zich op dezelfde temperatuur bevindt als het   beschermd volume (d.w.z. de reductiefactor b = 0). Er worden m.a.w. geen   transmissiewarmtestromen van het beschermd volume naar de AOR beschouwd. Voor de   bezonning wordt er aangenomen dat de AOR geen enkele belemmering   vormt.<BR><BR>Mogelijkheid 2 <BR><BR>* Deze mogelijkheid is enkel van toepassing   indien de AOR maar aan 1 energiesector grenst en indien er geen bewuste   ventilatie tussen de AOR en het beschermd volume optreedt.<BR>* Voor de gevallen   waarbij de AOR aan meerdere energiesectoren grenst, kan de overheid eventueel   bijkomende regels opgeven die toelaten de AOR op te delen in een aantal   kleinere, fictieve aangrenzende onverwarmde ruimten die elk op zich maar aan 1   energiesector grenzen.<BR><BR>Wanneer meerdere aangrenzende onverwarmde ruimten   ook onderling aan elkaar grenzen wordt bij conventie aangenomen dat er geen   warmtetransmissie of luchtuitwisseling (bewust of door in/exfiltratie) tussen de   aangrenzende onverwarmde ruimten plaatsvindt. Tevens wordt de   scheidingsconstructie als opaak beschouwd.<BR><BR>In aangrenzende onverwarmde   ruimten worden de interne warmtewinsten gelijk aan nul gesteld.<BR><BR>De   reductiefactor b wordt berekend volgens EN 13789. Voor de behandeling van   koudebruggen gelden dezelfde regels als in 7.4 (onderscheid tussen enerzijds   verwarmingsberekeningen en anderzijds berekeningen voor koeling en   oververhitting).<BR><BR>De indirecte zonnewinsten van de aangrenzende   energiesector (zie 7.10.2) zijn gelijk aan de fractie (1-b) van de geabsorbeerde   zonnewinsten in de AOR. Zowel de reductiefactor b als de zonnewinsten kunnen   verschillen voor enerzijds de berekeningen voor ruimteverwarming en anderzijds   de berekeningen voor het risico op oververhitting en ruimtekoeling, omwille van   een verschil in ventilatievoud en/of de gebruiksfactor van eventuele   zonnewering.<BR><BR>Directe doorzonning van de AOR wordt enkel beschouwd indien   loodrecht op het middelpunt van het venster tussen de AOR en het beschermd   volume (BV) ook de buitenwand van de AOR transparant is. Bij de bepaling van de   beschaduwingshoeken van het AOR-BV venster wordt rekening gehouden met de   geometrie van de AOR (bv. opaak dak). De invallende bezonning op het AOR-BV   venster wordt verminderd met het product 0.95 x FF x gg van de tegenoverliggende   transparante buitenwand. De directe doorzonning van de AOR wordt in mindering   gebracht van de totale binnenkomende zonnewinsten van de AOR om de in de AOR   geabsorbeerde zonnewinsten te bepalen.<BR>
+Bijlage A: Behandeling van aangrenzende onverwarmde ruimten   (AOR)<BR><BR>M.b.t. aangrenzende onverwarmde ruimten wordt een reductiefactor b   bepaald, zie NBN EN ISO 13789.<BR><BR>Voor de behandeling van aangrenzende   onverwarmde ruimten bij de bepaling van de energieprestatie, worden standaard   volgende 2 vereenvoudigde mogelijkheden voorzien.<BR><BR>Mogelijkheid   1<BR><BR>Het is steeds toegelaten de buitengeometrie van de AOR buiten   beschouwing te laten.<BR>* Voor de bepaling van de netto energiebehoefte voor   ruimteverwarming wordt er dan aangenomen dat de temperatuur van de AOR gelijk is   aan de buitentemperatuur (d.w.z. de reductiefactor b = 1). Er wordt geen   doorzonning naar het beschermd volume beschouwd.<BR>* Voor de bepaling van de   oververhittingsindicator en van de netto energiebehoefte voor ruimtekoeling   wordt er aangenomen dat de AOR zich op dezelfde temperatuur bevindt als het   beschermd volume (d.w.z. de reductiefactor b = 0). Er worden m.a.w. geen   transmissiewarmtestromen van het beschermd volume naar de AOR beschouwd. Voor de   bezonning wordt er aangenomen dat de AOR geen enkele belemmering   vormt.<BR><BR>Mogelijkheid 2 <BR><BR>* Deze mogelijkheid is enkel van toepassing   indien de AOR maar aan 1 energiesector grenst en indien er geen bewuste   ventilatie tussen de AOR en het beschermd volume optreedt.<BR>* Voor de gevallen   waarbij de AOR aan meerdere energiesectoren grenst, kan de minister eventueel   bijkomende regels opgeven die toelaten de AOR op te delen in een aantal   kleinere, fictieve aangrenzende onverwarmde ruimten die elk op zich maar aan 1   energiesector grenzen.<BR><BR>Wanneer meerdere aangrenzende onverwarmde ruimten   ook onderling aan elkaar grenzen wordt bij conventie aangenomen dat er geen   warmtetransmissie of luchtuitwisseling (bewust of door in/exfiltratie) tussen de   aangrenzende onverwarmde ruimten plaatsvindt. Tevens wordt de   scheidingsconstructie als opaak beschouwd.<BR><BR>In aangrenzende onverwarmde   ruimten worden de interne warmtewinsten gelijk aan nul gesteld.<BR><BR>De   reductiefactor b wordt berekend volgens NBN EN ISO 13789. Voor de behandeling   van koudebruggen gelden dezelfde regels als in 7.4 (onderscheid tussen enerzijds   verwarmingsberekeningen en anderzijds berekeningen voor koeling en   oververhitting).<BR><BR>De indirecte zonnewinsten van de aangrenzende   energiesector (zie 7.10.2) zijn gelijk aan de fractie (1-b) van de geabsorbeerde   zonnewinsten in de AOR. Zowel de reductiefactor b als de zonnewinsten kunnen   verschillen voor enerzijds de berekeningen voor ruimteverwarming en anderzijds   de berekeningen voor het risico op oververhitting en ruimtekoeling, omwille van   een verschil in ventilatievoud en/of de gebruiksfactor van eventuele   zonnewering.<BR><BR>Directe doorzonning van de AOR wordt enkel beschouwd indien   loodrecht op het middelpunt van het venster tussen de AOR en het beschermd   volume (BV) ook de buitenwand van de AOR transparant is. Bij de bepaling van de   beschaduwingshoeken van het AOR-BV venster wordt rekening gehouden met de   geometrie van de AOR (bv. opaak dak). De invallende bezonning op het AOR-BV   venster wordt verminderd met het product 0.95 x FF x gg van de tegenoverliggende   transparante buitenwand. De directe doorzonning van de AOR wordt in mindering   gebracht van de totale binnenkomende zonnewinsten van de AOR om de in de AOR   geabsorbeerde zonnewinsten te bepalen.<BR>
 
 ### BIJLAGE B
 
 <p>Bijlage B: Het bewuste ventilatiedebiet<br>
 <br>
-Een beperkt volume met kantoorbestemming kan deel uitmaken van een ‘EPW-volume’.<br>
+Een beperkt volume met niet-residentiële bestemming kan deel uitmaken van een ‘EPW-volume’.<br>
 <br>
 Voor het gedeelte van een gebouw met woonbestemming moeten de ventilatievoorzieningen voldoen aan de eisen volgens bijlage V bij dit besluit. Deze leggen minimale ontwerpdebieten op. Hieronder wordt met ‘geëist debiet’ dit minimaal ontwerpdebiet bedoeld.<br>
 <br>
@@ -8507,7 +8469,7 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
-			<p>De vermenigvuldigingsfactor m<sub>sec i</sub> van een energiesector i is gelijk aan de vermenigvuldigingsfactor van de ventilatiezone z waarvan de energiesector deel uitmaakt:</p>
+			<p>De vermenigvuldigingsfactor m<sub>sec i</sub> van een energiesector i is gelijk aan de vermenigvuldigingsfactor van de ventilatiezone z waarvan de energiesector deel uitmaakt:<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
 
 			<p>m<sub>sec i</sub> = m<sub>zone z</sub></p>
 
@@ -8518,6 +8480,10 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 			<p>&nbsp;</p>
 
 			<p>Nota: toepassing van onderstaande regels leidt voor elk van de ventilatiesystemen tot de waarde bij ontstentenis m<sub>zone z</sub> = 1.5</p>
+
+			<p>&nbsp;</p>
+
+			<p>Telkens er in deze paragraaf sprake is van “geëiste buitenluchttoevoerdebieten” wordt daarmee in voorkomend gevalook het “geëiste recirculatiedebiet” in een woonkamer bedoeld.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -8538,11 +8504,11 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 
 			<p>• m.b.t. de toevoer:</p>
 
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - de mate van zelfregelbaarheid van de regelbare toevoeropeningen</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - de mate van zelfregelendheid van de regelbare toevoeropeningen</p>
 
 			<p>• m.b.t. de afvoer:</p>
 
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - de mate van zelfregelbaarheid van de afvoeropeningen</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - de mate van zelfregelendheid van de afvoeropeningen</p>
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - de luchtondichtheid van de natuurlijke afvoerkanalen</p>
 
@@ -8560,7 +8526,7 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 			<p>r<sub>nat.supply,zone z</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>een correctiefactor voor de mate van zelfregelbaarheid van de regelbare toevoeropeningen in ventilatiezone z, zoals hieronder bepaald (-);</p>
+			<p>een correctiefactor voor de mate van zelfregelendheid van de regelbare toevoeropeningen in ventilatiezone z, zoals hieronder bepaald (-);</p>
 			</td>
 		</tr>
 		<tr>
@@ -8568,7 +8534,7 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 			<p>r<sub>nat.exh,zone z</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>een correctiefactor voor de mate van zelfregelbaarheid van de regelbare afvoeropeningen in ventilatiezone z, zoals hieronder bepaald (-);</p>
+			<p>een correctiefactor voor de mate van zelfregelendheid van de regelbare afvoeropeningen in ventilatiezone z, zoals hieronder bepaald (-);</p>
 			</td>
 		</tr>
 		<tr>
@@ -8611,7 +8577,7 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 
 			<p>&nbsp;</p>
 
-			<p>Natuurlijke toevoeropeningen die getest zijn conform EN 13141-1 kunnen in een bepaalde klasse ingedeeld worden volgens Tabel 16. Hierbij wordt beoordeeld in welke mate het debiet constant blijft bij variatie van het drukverschil.</p>
+			<p>Natuurlijke toevoeropeningen die getest zijn conform NBN EN 13141-1 kunnen in een bepaalde klasse ingedeeld worden volgens Tabel 16. Hierbij wordt beoordeeld in welke mate het debiet constant blijft bij variatie van het drukverschil.</p>
 
 			<p>&nbsp;</p>
 
@@ -8619,7 +8585,7 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 
 			<p>&nbsp;</p>
 
-			<p>Tabel 16: Klassering van de regelbaarheid i.f.v. het drukverschil</p>
+			<p>Tabel 16: Klassering van de regelendheid i.f.v. het drukverschil</p>
 
 			<p>&nbsp;</p>
 
@@ -8869,7 +8835,7 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 
 			<p>&nbsp;</p>
 
-			<p>Dit is ook de waarde bij ontstentenis. Betere waarden kunnen bepaald worden volgens vooraf door de overheid erkende regels.</p>
+			<p>Dit is ook de waarde bij ontstentenis. Betere waarden kunnen bepaald worden volgens vooraf door de minister erkende regels.</p>
 
 			<p>&nbsp;</p>
 
@@ -8906,7 +8872,7 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
 			<p>&nbsp;</p>
 
-			<p>Er dient gesommeerd te worden over alle natuurlijke afvoerkanalen k die in de ventilatiezone z voorkomen. Bepaal het lekdebiet V<sup>·</sup><sub>leak,stack,zonez,k</sub> van een natuurlijk afvoerkanaal k via meting, conform de procedures beschreven in EN 14134. De bij conventie te beschouwen werkingsdruk is 2 Pa.</p>
+			<p>Er dient gesommeerd te worden over alle natuurlijke afvoerkanalen k die in de ventilatiezone z voorkomen. Bepaal het lekdebiet V<sup>·</sup><sub>leak,stack,zonez,k</sub> van een natuurlijk afvoerkanaal k via meting, conform de procedures beschreven in NBN&nbsp; EN 14134. De bij conventie te beschouwen werkingsdruk is 2 Pa.</p>
 
 			<p>&nbsp;</p>
 
@@ -8943,7 +8909,7 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 
 			<p>• m.b.t. de afvoer:</p>
 
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - de mate van zelfregelbaarheid van de afvoeropeningen</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - de mate van zelfregelendheid van de afvoeropeningen</p>
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - de luchtondichtheid van de natuurlijke afvoerkanalen</p>
 
@@ -8969,7 +8935,7 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 			<p>r<sub>nat.exh,zone z</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:365.2pt">
-			<p>een correctiefactor voor de mate van zelfregelbaarheid van de afvoeropeningen in ventilatiezone z, zoals bepaald in B.1.1 (-);</p>
+			<p>een correctiefactor voor de mate van zelfregelendheid van de afvoeropeningen in ventilatiezone z, zoals bepaald in B.1.1 (-);</p>
 			</td>
 		</tr>
 		<tr>
@@ -9079,7 +9045,7 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 
 			<p>Bepaal de lekverliezen van de toevoerkanaalnetten in ventilatiezone z als volgt:</p>
 
-			<p>- via meting van elk van de toevoerkanaalnetten, conform de procedure beschreven in EN 14134. De te beschouwen werkingsdruk is de statische overdruk gemeten onmiddellijk na de ventilator bij werking in nominale stand.</p>
+			<p>- via meting van elk van de toevoerkanaalnetten, conform de procedure beschreven in NBN EN 14134. De te beschouwen werkingsdruk is de statische overdruk gemeten onmiddellijk na de ventilator bij werking in nominale stand.</p>
 
 			<p>- de waarde bij ontstentenis bedraagt:</p>
 
@@ -9112,7 +9078,7 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 
 			<p>• m.b.t. de toevoer:</p>
 
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - de mate van zelfregelbaarheid van de regelbare toevoeropeningen</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - de mate van zelfregelendheid van de regelbare toevoeropeningen</p>
 
 			<p>• m.b.t. de afvoer:</p>
 
@@ -9136,7 +9102,7 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 			<p>r<sub>nat.supply,zone z</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:365.2pt">
-			<p>een correctiefactor voor de mate van zelfregelbaarheid van de regelbare toevoeropeningen in ventilatiezone z, zoals bepaald in B.1.1 (-);</p>
+			<p>een correctiefactor voor de mate van zelfregelendheid van de regelbare toevoeropeningen in ventilatiezone z, zoals bepaald in B.1.1 (-);</p>
 			</td>
 		</tr>
 		<tr>
@@ -9232,13 +9198,13 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 
 			<p>- zoniet:</p>
 
-			<p>r<sub>adj,mech.supply,zone z</sub>&nbsp;= 0.20</p>
+			<p>r<sub>adj,mech. extr,zone z</sub>&nbsp;= 0.20</p>
 
 			<p>&nbsp;</p>
 
 			<p>Bepaal de lekverliezen van de afvoerkanaalnetten in ventilatiezone z als volgt:</p>
 
-			<p>- via meting van elk van de afvoerkanaalnetten, conform de procedure beschreven in EN 14134. De te beschouwen werkingsdruk is de statische onderdruk gemeten onmiddellijk voor de ventilator bij werking in nominale stand.</p>
+			<p>- via meting van elk van de afvoerkanaalnetten, conform de procedure beschreven in NBN EN 14134. De te beschouwen werkingsdruk is de statische onderdruk gemeten onmiddellijk voor de ventilator bij werking in nominale stand.</p>
 
 			<p>- de waarde bij ontstentenis bedraagt:</p>
 
@@ -9446,7 +9412,7 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 
 			<p>* indien de buitenlucht toevoerstroom p wel voorverwarmd wordt m.b.v. een warmteterugwinapparaat, geldt e<sub>heat,hr,p</sub>&nbsp;= r<sub>p</sub>.η<sub>test,p</sub>&nbsp;</p>
 
-			<p>De factor r<sub>p</sub> wordt bepaald zoals hieronder beschreven en η<sub>test,p</sub> is het thermisch rendement van warmteterugwinapparaat p, gemeten volgens EN 308 bij debieten die niet kleiner zijn dan respectievelijk V<sup>·</sup><sub>in,p</sub> en V<sup>·</sup><sub>out,p</sub>. De warmte-isolatie van het apparaat moet minstens even goed zijn als in de test;</p>
+			<p>De factor r<sub>p</sub> wordt bepaald zoals hieronder beschreven en η<sub>test,p</sub> is het thermisch rendement van warmteterugwinapparaat p, gemeten volgens NBN EN 308 bij debieten die niet kleiner zijn dan respectievelijk V<sup>·</sup><sub>in,p</sub> en V<sup>·</sup><sub>out,p</sub>. De warmte-isolatie van het apparaat moet minstens even goed zijn als in de test;</p>
 			</td>
 		</tr>
 		<tr>
@@ -9515,7 +9481,7 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 
 			<p>&nbsp;</p>
 
-			<p>Bepaal de reductiefactor bij voor de berekening van het risico op oververhitting en van de netto energiebehoefte voor ruimtekoeling als volgt:</p>
+			<p>Bepaal de reductiefactor voor de berekening van het risico op oververhitting en van de netto energiebehoefte voor ruimtekoeling als volgt:</p>
 
 			<p>r<sub>preh,cool,zonez</sub> = ∑<sub>p</sub>+max / max(∑<sub>p</sub>V<sup>·</sup><sub>in,p</sub>,∑<sub>p</sub>V<sup>·</sup><sub>out,p</sub>)</p>
 
@@ -9545,13 +9511,10 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 
 <p>&nbsp;</p>
 
-<p><br>
-<br>
-&nbsp;</p>
-
 ### BIJLAGE C
 
-<p>Bijlage C: De maandelijkse bezonning</p>
+Bijlage C: De maandelijkse bezonning<br>
+<br>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -9719,7 +9682,7 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 
 			<p>- Bereken de dagelijkse directe bezonning op een onbeschaduwd vlak en de dagelijkse directe bezonning op een onbeschaduwd horizontaal vlak voor de karakteristieke dag van de beschouwde maand als:</p>
 
-			<p>Q<sub>s,dir,char,j</sub> = 240∑<sup>ω2</sup><sub>ω1</sub> max&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (J/(m<sup>2</sup>.dag))</p>
+			<p>Q<sub>s,dir,char,j</sub> = 240∑<sup>ω2</sup><sub>ω1</sub> max&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;(J/(m<sup>2</sup>.dag))</p>
 
 			<p>Q<sub>s,dir,char,hor</sub> = 240∑<sup>ω4</sup><sub>ω3</sub> max&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (J/(m<sup>2</sup>.dag))</p>
 
@@ -9814,7 +9777,7 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 
 			<p>- Bepaal voor de karakteristieke dag van elke maand per uur de directe bezonning op een vlak loodrecht op de zonnerichting als:</p>
 
-			<p>q<sub>s,dir,n</sub> = max [0, 1353[1 + 0.033cos[360d/365]]exp(-md<sub>R</sub>T<sub>L</sub>)]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (W/m<sup>2</sup>)</p>
+			<p>q<sub>s,dir,n</sub> = max [0, 1353[1 + 0.033cos[360d/365]]exp(-md<sub>R</sub>T<sub>L</sub>)]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;(W/m<sup>2</sup>)</p>
 
 			<p>met:</p>
 			</td>
@@ -10432,6 +10395,10 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 		</tr>
 		<tr>
 			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:460.6pt">
+			<p>Als de formule voor cn leidt tot een negatief getal, stel dan cn=0;</p>
+
+			<p>&nbsp;</p>
+
 			<p>Gereflecteerde bezonning</p>
 
 			<p>&nbsp;</p>
@@ -10456,13 +10423,6 @@ B.1 Bepaling van de vermenigvuldigingsfactor msec i voor het debiet<br>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p><br>
-</p>
-
-<p>&nbsp;</p>
-
 ### BIJLAGE D
 
 <p>Bijlage D: Het afgifterendement<br>
@@ -10476,14 +10436,13 @@ In deze bijlage wordt meermaals onderscheid gemaakt tussen een variabele en een 
 D. 1 Conventionele werkingstijd van het systeem van warmteafgifte<br>
 <br>
 Bepaal de conventionele maandelijkse werkingstijd van het systeem van warmteafgifte van energiesector, als volgt:<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:477pt">
-			<p>- Indien de instelwaarde van de vertrektemperatuur van het kringwater variabel is, geldt:</p>
+			<p>- Indien de instelwaarde van de vertrektemperatuur van het kringwater variabel is, geldt:<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
 			</td>
 		</tr>
 		<tr>
@@ -10559,8 +10518,7 @@ Bepaal de conventionele maandelijkse werkingstijd van het systeem van warmteafgi
 <p>D. 2 Gemiddelde watertemperatuur in de afgiftekring<br>
 <br>
 Bepaal voor elke maand van het stookseizoen de gemiddelde watertemperatuur in de afgiftekring van energiesector i tijdens de werkingstijd als volgt:<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -10706,11 +10664,10 @@ Bepaal voor elke maand van het stookseizoen de gemiddelde watertemperatuur in de
 
 <p>&nbsp;</p>
 
-<p>Beter waarden kunnen ingebracht worden overeenkomstig vooraf door de overheid erkende regels.<br>
+<p>Beter waarden kunnen ingebracht worden overeenkomstig vooraf door de minister erkende regels.<br>
 <br>
 D. 3 Radiatoren<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -10842,8 +10799,6 @@ D. 3 Radiatoren<br>
 
 <p>&nbsp;</p>
 
-<p></p>
-
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
@@ -10874,18 +10829,7 @@ D. 3 Radiatoren<br>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Centraal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>0.90</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>0.92</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Decentraal</p>
+			<p>Temperatuurgestuurd per ruimte</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>0.92</p>
@@ -10894,16 +10838,27 @@ D. 3 Radiatoren<br>
 			<p>0.94</p>
 			</td>
 		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<p>Andere</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>0.90</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>0.92</p>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;D. 4 Vloerverwarming<br>
-<br>
+<p>&nbsp;</p>
 
+<p>&nbsp;</p>
 
-</p><p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -10998,7 +10953,7 @@ D. 3 Radiatoren<br>
 			<p>&nbsp;</p>
 			</td>
 			<td colspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:333pt">
-			<p>(zie bijlage A voor de betekenis van elk van de symbolen)</p>
+			<p>waarbij U<sub>f, j , </sub>U<sub>g, j </sub>en U<sub>x, j </sub>berekend worden volgens nadere specificaties vanwege de minister</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
 			<p>&nbsp;</p>
@@ -11024,7 +10979,7 @@ D. 3 Radiatoren<br>
 			<p>&nbsp;</p>
 			</td>
 			<td colspan="3" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:392.2pt">
-			<p>met U<sub>f, j </sub>&nbsp;&nbsp;de warmtedoorgangscoëfficiënt van de vloer van binnenomgeving tot buitenlucht, berekend volgens NBN EN ISO 6946, in W/ (m<sup>2</sup>K).</p>
+			<p>met U<sub>f, j </sub>&nbsp;&nbsp;de warmtedoorgangscoëfficiënt van de vloer van binnenomgeving tot buitenlucht, berekend volgens nadere specificaties vanwege de minister, in W/ (m<sup>2</sup>K).</p>
 			</td>
 		</tr>
 		<tr>
@@ -11099,8 +11054,7 @@ D. 3 Radiatoren<br>
 <p>&nbsp;</p>
 
 <p>D. 5 Muurverwarming<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -11457,7 +11411,7 @@ De lineaire warmteweerstand geeft de warmtestroom van een segment van het warmte
 <br>
 Ze kan in detail berekend worden als invoer voor bovenstaande berekeningen. Daarbij dient rekening gehouden te worden met het koudebrugeffect van ophangingen, afstandshouders, flenzen, enz. Ook alle speciale en/of niet geïsoleerde segmenten dienen in dit geval als aparte segmenten ingerekend te worden: afsluitkranen, regelaars, ev. Ongeïsoleerde bochten, enz.<br>
 <br>
-Indien geen detailberekening uitgevoerd wordt, dienen onderstaande vergelijkingen gebruikt te worden. Deze zijn gebaseerd op EN ISO 12241. Voor meerschalige isolatiemantels wordt direct naar deze norm verwezen, waarbij rekening moet gehouden worden met dezelfde reductiefactor van 0.6 als hieronder gebruikt is.<br>
+Indien geen detailberekening uitgevoerd wordt, dienen onderstaande vergelijkingen gebruikt te worden. Deze zijn gebaseerd op NBN EN ISO 12241. Voor meerschalige isolatiemantels wordt direct naar deze norm verwezen, waarbij rekening moet gehouden worden met dezelfde reductiefactor van 0.6 als hieronder gebruikt is.<br>
 <br>
 E. 3. 1 Ronde leidingen en kanalen<br>
 <br>
@@ -11725,8 +11679,7 @@ Bereken de lineaire warmteweerstand R1, j van segment j als:<br>
 
 ### BIJLAGE F
 
-<p>Bijlage F: Verhouding van de onderste tot de bovenste verbrandingswaarde van verschillende brandstoffen<br>
-</p>
+<p>Bijlage F: Verhouding van de onderste tot de bovenste verbrandingswaarde van verschillende brandstoffen</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -11778,12 +11731,20 @@ Bereken de lineaire warmteweerstand R1, j van segment j als:<br>
 			<p>gelijkwaardigheid</p>
 			</td>
 		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Hout</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>0,93</p>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
 <p>&nbsp;</p>
 
-<p>(1) voor brandstoffen die nog niet expliciet in de tabel vermeld zijn, dient vooraf bij de overheid de toe te passen waarde opgevraagd te worden.</p>
+<p>(1) voor brandstoffen die nog niet expliciet in de tabel vermeld zijn, dient vooraf bij de minister de toe te passen waarde opgevraagd te worden.</p>
 
 ## BIJLAGE II Bepalingsmethode van het peil van primair energieverbruik van kantoor- en schoolgebouwen.
 
@@ -12791,7 +12752,7 @@ Inhoud
 
 ### BIJLAGE II
 
-3. Schematisering van het gebouw<br /><br />3.1 Principe<br /><br />De energieprestatie heeft vaak betrekking op een deelvolume van een gebouw, afhankelijk van bijvoorbeeld het al dan niet verwarmd (en/of gekoeld) zijn van ruimten, de bestemming van verschillende delen, enz. Voor de bepaling van de energieprestatie wordt het gebouw daarom op conventionele manier opgesplitst in verschillende delen. Elk deelvolume dat op zich aan een energieprestatie-eis voor een utiliteitsbestemming moet voldoen, wordt een ‘EPU-volume’ genoemd. Indien nodig gebeurt een verdere opsplitsing in energiesectoren om verschillende types installaties correct te kunnen inrekenen.<br /><br />Opmerking<br /><br />De opsplitsing van het volledige gebouw die beschouwd wordt voor de bepaling van de energieprestatie kan verschillen van de opdeling die eventueel gemaakt dient te worden voor de eis(en) van globale warmte-isolatie (industriële of niet-industriële bestemming van verschillende gebouwgedeelten). Bij het ontwerp van de ventilatievoorzieningen (zie bijlagen V en VI bij dit besluit) kan nog een andere opdeling van toepassing zijn: er dient desgevallend onderscheid gemaakt te worden tussen gebouwdelen met enerzijds een residentiële en anderzijds een niet-residentiële bestemming.<br /><br />3.2 Opdeling van het gebouw<br /><br />Beschouw het volledige gebouw of de volledige uitbreiding (van een bestaand gebouw) en maak achtereenvolgens de volgende opdelingen:<br />° Definieer het beschermd volume (BV). Het BV moet minstens alle (continu of intermitterend) verwarmde (en/of gekoelde) ruimten omvatten die behoren tot het beschouwd gebouw of tot het beschouwde uitbreiding.<br />° Deel het beschermd volume naar gelang het geval op in 1 of meer delen met elk 1 van de volgende bestemmingen:<br />- tot bewoning bestemd gebouwgedeelte: hierop zijn energieprestatie-eisen voor woongebouwen van toepassing (zie bijlage I bij dit besluit)<br />- utiliteitsbestemmingen waarop energieprestatie-eisen van toepassing zijn<br />- andere gebouwbestemmingen: hierop zijn geen energieprestatie-eisen van toepassing, tenzij ze beschouwd worden als onderdeel van 1 van de vorige 2 bestemmingen.<br /> ° Beschouw dat deel van het beschermd volume waarop energieprestatie-eisen voor utiliteitsbestemmingen van toepassing zijn. Dit (deel)volume wordt verder als het ‘EPU-volume’ omschreven. Enkel het energieverbruik van dit deel van het gebouw wordt beschouw in de onderhavige bepalingsmethode. Verdeel dit volume indien nodig of indien gewenst in meerdere energiesectoren zoals beschreven in de volgende paragraaf.<br /><br />Opmerking: Ruimten van het beschouwd gebouw of van de beschouwde uitbreiding die niet in het beschermd volume opgenomen zijn, zijn dus per definitie niet verwarmd.<br /><br />Belangrijk:<br />In het kader van deze regelgeving mag men er steeds van uitgaan dat alle ruimten in aanpalende bestaande gebouwen verwarmde ruimten zijn (ook als is dit fysisch niet noodzakelijk zo).<br /><br />Bij de bepaling van de energieprestatie wordt aangenomen dat er geen warmtestromen optreden doorheen de scheidingsconstructies naar aangrenzende verwarmde ruimten.<br /><br />Afgezien van deze scheidingsconstructies met aangrenzende verwarmde ruimten, worden bij de bepaling van de energieprestatie verder wel de transmissiestromen in rekening gebracht doorheen alle andere scheidingsconstructies van het beschermd volume, ook al geven deze schildelen uit op een belendend perceel.<br /><br />3.3 Opdeling van het ‘EPU-volume’ in energiesectoren.<br /><br />3.3.1 Principe<br /><br />Opdat verschillende ruimten samen een energiesector zouden kunnen vormen, dienen ze:<br />° tot dezelfde ventilatiezone te behoren<br />° met hetzelfde type klimatiseringssysteem uitgerust te zijn<br />° verwarmd te worden m.b.v. warmte-opwekkingstoestellen met eenzelfde opwekkingsrendement (of desgevallend m.b.v. combinatie van meerdere warmte-opwekkingstoestellen die als groep eenzelfde rendement hebben).<br /><br />Desgevallend dient ook de (combinatie van) koude-opwekkingstoestellen in een energiesector hetzelfde opwekkingsrendement te hebben.<br /><br />Deze formele opdeling laat toe de invloed van de diverse deelrendementen correct in te rekenen.<br /><br />3.3.2 Verdeling in energiesectoren<br /><br />Er worden 4 verschillende types ventilatiesystemen onderscheiden (zie ook bijlage VI bij dit besluit):<br />° natuurlijke ventilatie<br />° mechanische toevoerventilatie<br />° mechanische afvoerventilatie<br />° mechanische toe- en afvoerventilatie<br /><br />Indien in verschillende afgesloten delen van het gebouw onafhankelijke ventilatie-installaties voorkomen, al dan niet van een verschillende type volgens de indeling hierboven, dan vormt elk dergelijk deel van het gebouw een ventilatiezone. Een energiesector kan zich niet over verschillende ventilatiezones uitstrekken. Er zijn dus steeds minstens even veel energiesectoren als ventilatiezones.<br /><br />Eventueel dient er een verdere opdeling te gebeuren zodat in elke energiesector niet meer dan 1 klimatiseringssysteem volgens de indeling van hoofdstuk 6.3 aanwezig is en alle warmte-opwekkingstoestellen (of combinatie ervan) hetzelfde opwekkingsrendement volgens hoofdstuk 7.4 hebben. In geval van actieve koeling van de energiesector moet ook de (combinatie van) koude-opwekkingstoestellen hetzelfde opwekkingsrendement volgens hoofdstuk 7.34 hebben, zoniet moet de sector verder opgesplitst worden.<br /><br />Het verder opdelen van het ‘EPU-volume’ in nog meer energiesectoren is toegelaten, maar is niet verplicht. Een groter aantal energiesectoren geeft gewoonlijk aanleiding tot meer rekenwerk (extra invoergegevens nodig), maar beïnvloedt het berekend karakteristiek jaarlijks energieverbruik weinig of niet.<br /><br />Indien in het ‘EPU-volume’ ruimten voorkomen die niet van een warmteafgiftesysteem voorzien zijn (bv. WC’s, gangen, bergruimten, …), dienen deze aan een energiesector toegewezen te worden van een aangrenzende ruimte. Indien in de onverwarmde ruimte in kwestie geen voorzieningen voor de toevoer van verse buitenlucht aanwezig zijn maar er wel voorzieningen voor luchttoevoer vanuit andere ruimten zijn (het betreft bv. Een doorstroom- of afvoerruimte, of bv. Een bergruimte), wijs de ruimte dan toe aan (1 van) de energiesector(en) van waaruit de ruimte in kwestie toevoerlucht betrekt.<br /><br />Bepaal het karakteristiek en het referentie energieverbruik van het ‘EPU-volume’ volgens de onderhavige bepalingsmethode.<br /><br />
+3. Schematisering van het gebouw<br /><br />3.1 Principe<br /><br />De energieprestatie heeft vaak betrekking op een deelvolume van een gebouw, afhankelijk van bijvoorbeeld het al dan niet verwarmd (en/of gekoeld) zijn van ruimten, de bestemming van verschillende delen, enz. Voor de bepaling van de energieprestatie wordt het gebouw daarom op conventionele manier opgesplitst in verschillende delen. Elk deelvolume dat op zich aan een energieprestatie-eis voor een utiliteitsbestemming moet voldoen, wordt een ‘EPU-volume’ genoemd. Indien nodig gebeurt een verdere opsplitsing in ventilatiezones en energiesectoren om verschillende types installaties correct te kunnen inrekenen.<br /><br />Opmerking<br /><br />De opsplitsing van het volledige gebouw die beschouwd wordt voor de bepaling van de energieprestatie kan verschillen van de opdeling die eventueel gemaakt dient te worden voor de eis(en) van globale warmte-isolatie (industriële of niet-industriële bestemming van verschillende gebouwgedeelten). Bij het ontwerp van de ventilatievoorzieningen (zie bijlagen V en VI bij dit besluit) kan nog een andere opdeling van toepassing zijn: er dient desgevallend onderscheid gemaakt te worden tussen gebouwdelen met enerzijds een residentiële en anderzijds een niet-residentiële bestemming.<br /><br />3.2 Opdeling van het gebouw<br /><br />Beschouw het volledige gebouw of de volledige uitbreiding (van een bestaand gebouw) en maak achtereenvolgens de volgende opdelingen:<br />° Definieer het beschermd volume (BV). Het BV moet minstens alle (continu of intermitterend) verwarmde (en/of gekoelde) ruimten omvatten die behoren tot het beschouwd gebouw of tot het beschouwde uitbreiding.<br />° Deel het beschermd volume naar gelang het geval op in 1 of meer delen met elk 1 van de volgende bestemmingen:<br />- tot bewoning bestemd gebouwgedeelte: hierop zijn energieprestatie-eisen voor woongebouwen van toepassing (zie bijlage I bij dit besluit)<br />- utiliteitsbestemmingen waarop energieprestatie-eisen van toepassing zijn<br />- andere gebouwbestemmingen: hierop zijn geen energieprestatie-eisen van toepassing, tenzij ze beschouwd worden als onderdeel van 1 van de vorige 2 bestemmingen.<br /> ° Beschouw dat deel van het beschermd volume waarop energieprestatie-eisen voor utiliteitsbestemmingen van toepassing zijn. Dit (deel)volume wordt verder als het ‘EPU-volume’ omschreven. Enkel het energieverbruik van dit deel van het gebouw wordt beschouw in de onderhavige bepalingsmethode. Verdeel dit volume indien nodig of indien gewenst in meerdere ventilatiezones en energiesectoren zoals beschreven in de volgende paragraaf.<br /><br />Opmerking: Ruimten van het beschouwd gebouw of van de beschouwde uitbreiding die niet in het beschermd volume opgenomen zijn, zijn dus per definitie niet verwarmd.<br /><br />Belangrijk:<br />In het kader van deze regelgeving mag men er steeds van uitgaan dat alle ruimten in aanpalende bestaande gebouwen verwarmde ruimten zijn (ook als is dit fysisch niet noodzakelijk zo).<br /><br />Bij de bepaling van de energieprestatie wordt aangenomen dat er geen warmtestromen optreden doorheen de scheidingsconstructies naar aangrenzende verwarmde ruimten.<br /><br />Afgezien van deze scheidingsconstructies met aangrenzende verwarmde ruimten, worden bij de bepaling van de energieprestatie verder wel de transmissiestromen in rekening gebracht doorheen alle andere scheidingsconstructies van het beschermd volume, ook al geven deze schildelen uit op een belendend perceel.<br /><br />3.3 Opdeling van het ‘EPU-volume’ in energiesectoren.<br /><br />3.3.1 Principe<br /><br />Opdat verschillende ruimten samen een energiesector zouden kunnen vormen, dienen ze:<br />° tot dezelfde ventilatiezone te behoren<br />° met hetzelfde type klimatiseringssysteem uitgerust te zijn<br />° verwarmd te worden m.b.v. warmte-opwekkingstoestellen met eenzelfde opwekkingsrendement (of desgevallend m.b.v. combinatie van meerdere warmte-opwekkingstoestellen die als groep eenzelfde rendement hebben).<br /><br />Desgevallend dient ook de (combinatie van) koude-opwekkingstoestellen in een energiesector hetzelfde opwekkingsrendement te hebben.<br /><br />Deze formele opdeling laat toe de invloed van de diverse deelrendementen correct in te rekenen.<br /><br />3.3.2 Verdeling in energiesectoren<br /><br />Er worden 4 verschillende types ventilatiesystemen onderscheiden (zie ook bijlage VI bij dit besluit):<br />° natuurlijke ventilatie<br />° mechanische toevoerventilatie<br />° mechanische afvoerventilatie<br />° mechanische toe- en afvoerventilatie<br /><br />Indien in verschillende afgesloten delen van het gebouw onafhankelijke ventilatie-installaties voorkomen, van een verschillende type volgens de indeling hierboven, dan vormt elk dergelijk deel van het gebouw een ventilatiezone. Een energiesector kan zich niet over verschillende ventilatiezones uitstrekken. Er zijn dus steeds minstens even veel energiesectoren als ventilatiezones.<br /><br />Als in een ruimte plaatselijke verwarming toegepast wordt (bv. lokale elektrische weerstandsverwarming) en er ook warmteafgifte-elementen van een centraleverwarmingssysteem aanwezig zouden zijn, dan wordt bij de bepaling van de energieprestatie het centraleverwarmingssysteem in die ruimte buiten beschouwing gelaten: er wordt alleen gekeken naar de kenmerken van het plaatselijke systeem. Voor open haarden en houtkachels is het echter toch het centrale verwarmingssysteem dat beschouwd wordt.<br /><br />Eventueel dient er een verdere opdeling te gebeuren zodat in elke energiesector niet meer dan 1 klimatiseringssysteem volgens de indeling van hoofdstuk 6.3 aanwezig is en alle warmte-opwekkingstoestellen (of combinatie ervan) hetzelfde opwekkingsrendement volgens hoofdstuk 7.4 hebben. In geval van actieve koeling van de energiesector moet ook de (combinatie van) koude-opwekkingstoestellen hetzelfde opwekkingsrendement volgens hoofdstuk 7.34 hebben, zoniet moet de sector verder opgesplitst worden.<br /><br />Het verder opdelen van het ‘EPU-volume’ in nog meer energiesectoren is toegelaten, maar is niet verplicht. Een groter aantal energiesectoren geeft gewoonlijk aanleiding tot meer rekenwerk (extra invoergegevens nodig), maar beïnvloedt het berekend karakteristiek jaarlijks energieverbruik weinig of niet.<br /><br />Indien in het ‘EPU-volume’ ruimten voorkomen die niet van een warmteafgiftesysteem voorzien zijn (bv. WC’s, gangen, bergruimten, …), dienen deze aan een energiesector toegewezen te worden van een aangrenzende ruimte. Indien in de onverwarmde ruimte in kwestie geen voorzieningen voor de toevoer van verse buitenlucht aanwezig zijn maar er wel voorzieningen voor luchttoevoer vanuit andere ruimten zijn (het betreft bv. Een doorstroom- of afvoerruimte, of bv. Een bergruimte), wijs de ruimte dan toe aan (1 van) de energiesector(en) van waaruit de ruimte in kwestie toevoerlucht betrekt.<br /><br />Bepaal het karakteristiek en het referentie energieverbruik van het ‘EPU-volume’ volgens de onderhavige bepalingsmethode.<br /><br />
 
 ### BIJLAGE II
 
@@ -12883,15 +12844,15 @@ Het peil van primair energieverbruik van het ‘EPU-volume’ wordt gegeven door
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.4pt">
-			<p>V<sup>•</sup> <sub>supply, min, rm r</sub></p>
+			<p>V<sup>•</sup> <sub>supply, min, r m r</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:374.2pt">
-			<p>Het minimale ontwerptoevoerdebiet aan buitenlucht van ruimte r, zoals opgelegd door de overheid (zie bijlage VI bij dit besluit), overeenkomstig de opgegeven ontwerpbezetting, in de veronderstelling dat er niet gerookt wordt en het gebouw weinig vervuilend is, in m<sup>3</sup>/h. Indien het een speciale ruimte betreft zoals bedoeld in hoofdstuk 6.3 van bijlage VI bij dit besluit, dan wordt V<sub>supply, min,&nbsp; r</sub> gelijk gesteld aan V<sub>supply, r</sub>;</p>
+			<p>Het minimale ontwerptoevoerdebiet aan buitenlucht van ruimte r, zoals opgelegd door de minister (zie bijlage VI bij dit besluit), overeenkomstig de opgegeven ontwerpbezetting, in de veronderstelling dat er niet gerookt wordt en het gebouw weinig vervuilend is, in m<sup>3</sup>/h. Als het een speciale ruimte betreft als vermeld in hoofdstuk 6.3 van bijlage VI bij dit besluit, dan wordt V<sub>supply, min,&nbsp; r m r</sub> gelijk gesteld aan V<sub>supply,r m r</sub>;</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.4pt">
-			<p>V<sup>•</sup> <sub>supply,&nbsp; rm r</sub></p>
+			<p>V<sup>•</sup> <sub>supply,&nbsp; r m r</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:374.2pt">
 			<p>Het ontwerptoevoerdebiet aan buitenlucht van ruimte r waarvoor de installatie ontworpen is, en zoals gebruikt bij de berekening in 5.5, in m<sup>3</sup>/h;</p>
@@ -12953,7 +12914,8 @@ De netto energiebehoefte voor ruimtekoeling wordt steeds berekend, ook als er ge
 Indien er in de gebouwinstallaties voorzieningen aanwezig zijn om de buitenlucht te bevochtigen die in (een deel van) het ‘EPU-volume’ ingebracht wordt, bepaal dan per bevochtigingstoestel de maandelijks benodigde hoeveelheid verdampingsenergie, rekening houdend met eventuele vochtterugwinning uit de afvoerlucht.<br>
 <br>
 Tabel 1 Maandwaarden voor de lengte van de maand, de gemiddelde buitentemperatuur en de rekenwaarde voor de temperatuur van de toegevoerde buitenlucht voor de berekening van de energiebehoefte voor ruimtekoeling.<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -13166,7 +13128,8 @@ Tabel 1 Maandwaarden voor de lengte van de maand, de gemiddelde buitentemperatuu
 <p>2 1 Ms, 1 Megaseconde, is 1 miljoen seconden.<br>
 <br>
 Tabel 2 Aan te houden binnentemperatuur voor de bepaling van de energiebehoefte voor ruimteverwarming en ruimtekoeling<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -13220,7 +13183,8 @@ Tabel 2 Aan te houden binnentemperatuur voor de bepaling van de energiebehoefte 
 <p>&nbsp;</p>
 
 <p>Tabel 3 Numerieke parameters bij de bepaling van de benuttingsfactor<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -13296,7 +13260,8 @@ Tabel 2 Aan te houden binnentemperatuur voor de bepaling van de energiebehoefte 
 <p>5. 2 Maandelijkse netto energiebehoefte voor ruimteverwarming per energiesector<br>
 <br>
 Bepaal de maandelijkse netto energiebehoefte voor ruimteverwarming per energiesector met:<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -13562,7 +13527,8 @@ Bepaal de maandelijkse netto energiebehoefte voor ruimteverwarming per energiese
 <p>5. 3 Maandelikse netto energiebehoefte voor ruimtekoeling per energiesector<br>
 <br>
 Bepaal de maandelijkse netto energiebehoefte voor ruimtekoeling per energiesector met:<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -13889,13 +13855,14 @@ Bepaal de maandelijkse netto energiebehoefte voor ruimtekoeling per energiesecto
 <p>&nbsp;</p>
 
 <p>5. 4 Specifiek warmteverlies door transmissie per energiesector<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
-			<p>Bepaal het specifiek warmteverlies door transmissie van energiesector i, H<sub>T, seci, m</sub>, per maand volgens 7.7 van bijlage I bij dit besluit (Bepalingsmethode van het peil van primair energieverbruik van woongebouwen). Scheidingsconstructies met aangrenzende verwarmde ruimten het ‘EPU-volume’, aangrenzende verwarmde gebouwen, enz.) blijven daarbij buiten beschouwing;</p>
+			<p>Bepaal het specifiek warmteverlies door transmissie van energiesector i, H<sub>T, seci, m</sub>, per maand volgens 7.7 van bijlage I bij dit besluit (Bepalingsmethode van het peil van primair energieverbruik van woongebouwen). Scheidingsconstructies met aangrenzende verwarmde ruimten het ‘EPU-volume’, aangrenzende verwarmde gebouwen, enz.) blijven daarbij buiten beschouwing. Voor koelberekeningen geldt daarenboven het volgende: als de koudebruggen op forfaitaire manier ingerekend worden (volgens optie 5 van bijlage IV bij dit besluit), wordt die forfaitaire toeslag buiten beschouwing gelaten bij de koelberekeningen.</p>
 
 			<p>&nbsp;</p>
 			</td>
@@ -13925,7 +13892,8 @@ Vooreerst moet per energiesector het totale ontwerptoevoerdebiet aan buitenlucht
 5. 5. 2 Rekenregel<br>
 <br>
 Bepaal het specifieke warmteverlies door in/exfiltratie en bewust ventilatie van energiesector i met:<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -14043,7 +14011,7 @@ Bepaal het specifieke warmteverlies door in/exfiltratie en bewust ventilatie van
 		</tr>
 		<tr>
 			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>Indien het ontwerptoevoerdebiet aan de buitenlucht in een ruimte kleiner is dan de minimale waarde (V<sup>•</sup><sub>supply, min, rm r</sub> in hoofdstuk 4) zoals opgelegd door de overheid (zie bijlage VI bij dit besluit), dan wordt voor de bepaling van H<sub>v</sub> gerekend met het minimaal geëist debiet. Deze regel geldt echter niet voor speciale ruimten zoals bedoeld in hoofdstuk 6.3 van bijlage VI bij dit besluit.</p>
+			<p>Indien het ontwerptoevoerdebiet aan de buitenlucht in een ruimte kleiner is dan de minimale waarde (V<sup>•</sup><sub>supply, min, rm r</sub> in hoofdstuk 4) zoals opgelegd door de minister (zie bijlage VI bij dit besluit), dan wordt voor de bepaling van H<sub>v</sub> gerekend met het minimaal geëist debiet. Deze regel geldt echter niet voor speciale ruimten zoals bedoeld in hoofdstuk 6.3 van bijlage VI bij dit besluit.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -14056,7 +14024,8 @@ Bepaal het specifieke warmteverlies door in/exfiltratie en bewust ventilatie van
 <p>5. 5. 3 Bepaling van het in/exfiltratiedebiet<br>
 <br>
 Het te hanteren gemiddeld in/exfiltratiedebiet van energiesector i, in m3/h, wordt bij conventie gegeven door:<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -14116,7 +14085,7 @@ Het te hanteren gemiddeld in/exfiltratiedebiet van energiesector i, in m3/h, wor
 		</tr>
 		<tr>
 			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>Indien een luchtdichtheidsmeting van het volledige ‘EPU-volume’ (of desgevallend van een groter deel van het beschermd volume) conform NBN EN ISO 13829 voorgelegd wordt, geldt voor het lekdebiet bij 50 Pa per eenheid oppervlakte, v<sup>•</sup><sub>50</sub> in m<sup>3</sup> / (h.m<sup>2</sup>):</p>
+			<p>Indien een luchtdichtheidsmeting van het volledige ‘EPU-volume’ (of desgevallend van een groter deel van het beschermd volume) conform NBN EN 13829 voorgelegd wordt, geldt voor het lekdebiet bij 50 Pa per eenheid oppervlakte, v<sup>•</sup><sub>50</sub> in m<sup>3</sup> / (h.m<sup>2</sup>):</p>
 			</td>
 		</tr>
 		<tr>
@@ -14152,7 +14121,7 @@ Het te hanteren gemiddeld in/exfiltratiedebiet van energiesector i, in m3/h, wor
 			<p>V<sup>•</sup><sub>50</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.2pt">
-			<p>Het lekdebiet bij 50 Pa van de uitwendige schil, in m<sup>3</sup>/h, afgeleid uit de luchtdichtheidsmeting conform NBN EN ISO 13829.</p>
+			<p>Het lekdebiet bij 50 Pa van de uitwendige schil, in m<sup>3</sup>/h, afgeleid uit de luchtdichtheidsmeting conform NBN EN 13829.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -14165,7 +14134,8 @@ Het te hanteren gemiddeld in/exfiltratiedebiet van energiesector i, in m3/h, wor
 <p>5. 5. 4 Reductiefactor ingevolge voorverwarming<br>
 <br>
 De reductiefactor voor voorverwarming r van een energiesector i is gelijk aan de reductiefactor voor voorverwarming van de ventilatiezone z waarvan de energiesector deel uitmaakt:<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -14195,7 +14165,8 @@ Een warmtepomp voor ruimteverwarming die als warmtebron de afgevoerde lucht gebr
 Warmteterugwinapparaat in geval van mechanische toe- en afvoerventilatie<br>
 <br>
 In een ventilatiezone z met mechanische toe- en afvoerventilatie is het mogelijk de toevoer van buitenlucht in min of meerdere mate voor te verwarmen m.b.v. een warmtewisselaar die warmte onttrekt aan de afvoerlucht naar buiten. Het is mogelijk dat de toevoer van buitenlucht in de ventilatiezone z op meerdere plaatsen gebeurt. In dat geval kan het voorkomen dat niet alle luchttoevoeren voorverwarmd worden. Omgekeerd is het mogelijk dat de mechanische afvoer naar buiten via meer dan 1 luchtuitlaat gebeurt en kan het voorkomen dat op sommige van deze luchtstromen geen warmterecuperatie plaatsvindt. Indien het totaal mechanisch toevoerdebiet verschilt van het totaal mechanisch afvoerdebiet in de ventilatiezone z, dan zal er noodzakelijkerwijs een extra (in- of uitwaartse) ongecontroleerde luchtstroom doorheen de schil optreden4.<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -14212,9 +14183,8 @@ In een ventilatiezone z met mechanische toe- en afvoerventilatie is het mogelijk
 <p>&nbsp;</p>
 
 <p>In het meest algemene geval kan de reductiefactor voor ruimteverwarming ingevolge de voorverwarming van de buitenluchttoevoer in een ventilatiezone z m.b.v. warmteterugwinning aan de hand van de volgende formule bepaald worden:<br>
-&nbsp;</p>
-
-<p>&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -14257,7 +14227,7 @@ In een ventilatiezone z met mechanische toe- en afvoerventilatie is het mogelijk
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:392.2pt">
-			<p>De factor r<sub>p</sub> wordt bepaald zoals hieronder beschreven en ŋ<sub>test, p</sub> is het thermisch rendement van warmteterugwinapparaat p, gemeten volgens EN 308 bij debieten die niet kleiner zijn dan respectievelijk V<sub>in, p</sub> eb V<sub>out, p</sub>. De warmte-isolatie van het apparaat moet minstens even goed zijn als in de test;</p>
+			<p>De factor r<sub>p</sub> wordt bepaald zoals hieronder beschreven en ŋ<sub>test, p</sub> is het thermisch rendement van warmteterugwinapparaat p, gemeten volgens NBN EN 308 bij debieten die niet kleiner zijn dan respectievelijk V<sub>in, p</sub> eb V<sub>out, p</sub>. De warmte-isolatie van het apparaat moet minstens even goed zijn als in de test;</p>
 			</td>
 		</tr>
 		<tr>
@@ -14429,7 +14399,8 @@ In een ventilatiezone z met mechanische toe- en afvoerventilatie is het mogelijk
 Ontleen de conventionele tijdsfracties dat een deelstroom j van de ventilatie ingerekend moet worden voor de verwarmings- en voor de koelberekeningen aan Tabel 4.<br>
 <br>
 Tabel 4 Fractie van de tijd dat er bij conventie geventileerd wordt<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -14506,7 +14477,8 @@ Tevens dienen alle ventilatoren van de ventilatiezone waartoe de energiesector b
 5. 6 Interne warmteproductie<br>
 <br>
 De beschouwde interne warmtebronnen zijn: personen, verlichting, ventilatoren en overige apparatuur. Bepaal de maandelijkse interne warmteproductie van energiesector i voor de verwarmingsberekeningen en voor koelberekeningen met:<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -14721,10 +14693,11 @@ De beschouwde interne warmtebronnen zijn: personen, verlichting, ventilatoren en
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<p>&nbsp;Tabel 5 Interne warmtewinsten ingevolge apparatuur en de reële bezettingsfractie in functie van de bestemming<br>
+<br>
+</p>
 
-<p>Tabel 5 Interne warmtewinsten ingevolge apparatuur en de reële bezettingsfractie in functie van de bestemming<br>
-&nbsp;</p>
+<p>&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -14769,10 +14742,11 @@ De beschouwde interne warmtebronnen zijn: personen, verlichting, ventilatoren en
 
 <p>&nbsp;</p>
 
-<p>&nbsp;5. 7 Zonnewarmtewinsten<br>
-&nbsp;</p>
-
 <p>&nbsp;</p>
+
+<p>5. 7 Zonnewarmtewinsten<br>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -14857,7 +14831,7 @@ De beschouwde interne warmtebronnen zijn: personen, verlichting, ventilatoren en
 		</tr>
 		<tr>
 			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>Indien een venster met 2 zonneweringssystemen (bv. binnen- en buitenzonnewering) uitgerust is, dient voor de verwarmingsberekeningen het systeem met de hoogste F<sub>c</sub> waarde beschouwd te worden, en voor koelberekeningen het systeem met de laagste F<sub>c</sub> waarde.</p>
+			<p>Als een venster met meerdere beweegbare zonneweringssystemen (bv. binnen- en buitenzonnewering) uitgerust is, moet voor de verwarmingsberekeningen het systeem met de hoogste F<sub>c</sub> waarde beschouwd worden, en voor koelberekeningen het systeem met de laagste F<sub>c</sub> waarde.</p>
 
 			<p>&nbsp;</p>
 			</td>
@@ -14879,7 +14853,8 @@ Voor de bepaling van de effectieve thermische capaciteit heeft men de keuze tuss
 - hetzij aan de hand van een gedetailleerde berekening volgens 5.8.3.<br>
 <br>
 5. 8. 2 Effectieve thermische capaciteit aan de hand van de vloermassa<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -14922,7 +14897,8 @@ Voor de bepaling van de effectieve thermische capaciteit heeft men de keuze tuss
 <p>&nbsp;Er dient gesommeerd te worden over alle delen j die samen de gebruiksoppervlakte van sector i uitmaken.<br>
 <br>
 Tabel 6 Specifieke effectieve thermische capaciteit Dj per eenheid gebruiksoppervlakte van de energiesector<br>
-&nbsp;</p>
+<br>
+</p>
 
 <p>&nbsp;</p>
 
@@ -15001,7 +14977,8 @@ Tabel 6 Specifieke effectieve thermische capaciteit Dj per eenheid gebruiksopper
 <p>Een verlaagd plafond geldt als gesloten van zodra minder dan netto 15 % van de plafondoppervlakte open is.<br>
 <br>
 5. 8. 3 Effectieve thermische capaciteit aan de hand van een berekening<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -15066,7 +15043,8 @@ Tabel 6 Specifieke effectieve thermische capaciteit Dj per eenheid gebruiksopper
 5. 9 Maandelijkse netto energiebehoefte voor bevochtiging<br>
 <br>
 Indien er in de gebouwinstallaties voorzieningen aanwezig zijn om de toegevoerde buitenlucht naar (een deel van) het ‘EPU-volume’ te bevochtigen, wordt de maandelijkse netto energiebehoefte voor bevochtiging van een toestel j gegeven door:<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -15129,7 +15107,8 @@ Indien er in de gebouwinstallaties voorzieningen aanwezig zijn om de toegevoerde
 - Recirculatie wordt in het kader van deze paragraaf niet als vochtterugwinning gezien. Het effect van recirculatie is reeds bij het te hanteren luchtdebiet in rekening gebracht.<br>
 <br>
 Tabel 7 Maandwaarden voor de toe te voeren hoeveelheid vocht per eenheid luchtdebiet Xh, m, in kg . h/m3<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -15241,6 +15220,10 @@ Tabel 7 Maandwaarden voor de toe te voeren hoeveelheid vocht per eenheid luchtde
 		</tr>
 	</tbody>
 </table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -15907,7 +15890,7 @@ Bepaal voor de energiesector de verhouding tussen de jaarlijkse netto energiebeh
 <br>
 7. 1 Principe<br>
 <br>
-Voor het opwekkingsrendement in een energiesector geldt het opwekkingsrendement van de installatie die de energiesector van warmte of koude voorziet. Er wordt steeds gerekend met jaargemiddelde waarden. Bij een combinatie van verschillende soorten warmte- of koude-opwekkingstoestellen wordtde bruto behoefte op een conventionele manier opgedeeld en toegewezen aan de preferente en de niet-preferente opwekker. Indien er meer dan 1 type niet-preferente opwekker is, wordt bij de behandeling van het niet-preferente aandeel enkel de opwekker beschouwd met de hoogste waarde voor het product van het rendement en de primaire energiefactor.<br>
+Voor het opwekkingsrendement in een energiesector geldt het opwekkingsrendement van de toestellen die de energiesector van warmte of koude voorzien. Er wordt steeds gerekend met jaargemiddelde waarden. Bij een combinatie van verschillende soorten warmte- of koude-opwekkingstoestellen wordtde bruto behoefte op een conventionele manier opgedeeld en toegewezen aan de preferente en de niet-preferente opwekker. Als er meer dan 1 type niet-preferente opwekker is, wordt bij de behandeling van het niet-preferente aandeel alleen de opwekker beschouwd met de laagste waarde voor de verhouding van de primaire energiefactor tot het opwekkingsrendement.<br>
 <br>
 Desgevallend wordt op analoge wijze ook het eindenergieverbruik voor bevochtiging bepaald.<br>
 <br>
@@ -15929,9 +15912,9 @@ Bij uitbreiding van een gebouw kunnen zich volgende gevallen voordoen:<br>
 
 			<p>° ofwel gerekend worden met volgende waarden bij ontstentenis:</p>
 
-			<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ŋ<sub>gen, heat</sub> = 0.77 op de onderwaarde, met gasolie als energiedrager</p>
+			<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ŋ<sub>gen, heat</sub> = 0.77 (t.o.v. de bovenste verbrandingswaarde), met gasolie als energiedrager</p>
 
-			<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ŋ<sub>gen, cool</sub> = 2.2</p>
+			<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ŋ<sub>gen, cool</sub> = 2.2 met elektriciteit als energiedrager</p>
 
 			<p>&nbsp;</p>
 			</td>
@@ -16085,7 +16068,7 @@ Het eindenergieverbruik voor ruimteverwarming wordt per maand en per energiesect
 
 <p>&nbsp;</p>
 
-<p>De maandelijkse nuttige energiebijdrage (zonnefractie) van een actief thermisch zonne-energiesysteem dient bepaald te worden met een daartoe geschikt rekenprogramma dat vooraf door de overheid erkend is. De hulpenergie (bv. voor een circulatiepomp) dient daarbij vermenigvuldigd te worden met de omrekenfactor naar primaire energie voor elektriciteit en in mindering gebracht te worden bij de bepalig van de maandelijkse nuttige energiebijdrage.<br>
+<p>De maandelijkse nuttige energiebijdrage (zonnefractie) van een actief thermisch zonne-energiesysteem dient bepaald te worden met een daartoe geschikt rekenprogramma dat vooraf door de minister erkend is. De hulpenergie (bv. voor een circulatiepomp) dient daarbij vermenigvuldigd te worden met de omrekenfactor naar primaire energie voor elektriciteit en in mindering gebracht te worden bij de bepalig van de maandelijkse nuttige energiebijdrage.<br>
 <br>
 7. 2. 2 Ruimtekoeling<br>
 <br>
@@ -16201,7 +16184,7 @@ Bij toepassing van een warmtepomp in combinatie met 1 of meerdere andere warmteo
 In alle andere gevallen geldt als preferent geschakeld warmteopwekkingstoestel het toestel met de laagste waarde voor de verhouding van de primaire energiefactor tot het rendement, bepaald volgens 7.4.1.<br>
 <br>
 Tabel 9<br>
-</p>
+&lt;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -16400,7 +16383,7 @@ Tabel 9<br>
 <br>
 1. Het nominale vermogen bij ketels is het nominale vermogen zoals bedoeld in de Europese ketelrichtlijn.<br>
 2. Bij warmtekracht moet het nominale vermogen overeenkomstig de methode voor gastoestellen worden bepaald.<br>
-3. Het thermisch vermogen van warmtepompen die hun warmte afgeven aan water wordt bepaald volgens EN 14511, bij de ‘standard rating conditions’ zoals vastgelegd in deel 2 van de norm.<br>
+3. Het thermisch vermogen van warmtepompen die hun warmte afgeven aan water wordt bepaald volgens NBN EN 14511, bij de ‘standard rating conditions’ zoals vastgelegd in deel 2 van de norm.<br>
 <br>
 7. 3. 2 Koeling<br>
 <br>
@@ -16423,7 +16406,10 @@ Indien er voor de beschouwde energiesector maar 1 koudeleverancier is, of alle k
 
 <p>&nbsp;</p>
 
-<p>Ontleen in alle andere gevallen de jaargemiddelde preferente fractie aan Tabel 10.<br>
+<p>Bij toepassing van een absorptiekoelmachine in combinatie met één of meer andere koudeleveranciers geldt de absorptiekoelmachine als preferent geschakelde koudeleverancier.<br>
+In alle andere gevallen geldt als preferent geschakelde koudeleverancier de leverancier met de laagste waarde voor de vrhouding van de primaire energiefactor tot het rendement, bepaald volgens 7.4.2<br>
+<br>
+Ontleen in alle andere gevallen de jaargemiddelde preferente fractie aan Tabel 10.<br>
 <br>
 Tabel 10<br>
 </p>
@@ -16546,7 +16532,7 @@ Tabel 10<br>
 		</tr>
 		<tr>
 			<td colspan="3" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>- absorptiekoelmachines: het koelvermogen zoals gemeten volgens hetzij NBN-EN 12309-2, hetzij “1992 STANDARD for ARI: Absorption water chilling and water heating packages”.</p>
+			<p>- absorptiekoelmachines: het koelvermogen zoals gemeten volgens hetzij NBN-EN 12309-2, hetzij “ARI Standard 560:2000: Absorption water chilling and water heating packages”.</p>
 			</td>
 		</tr>
 		<tr>
@@ -16592,7 +16578,7 @@ Aanvullend bedraagt de waarde bij ontstentenis voor de ontwerpretourtemperatuur 
 Stel, indien er geen actieve koeling toegepast wordt, het opwekkingsrendement gelijk aan 5, met elektriciteit als energiedrager.<br>
 <br>
 Indien er wel actieve koeling toegepast wordt, gelden volgende regels:<br>
-- Stel voor compressiekoelmachines het opwekkingsrendement gelijk aan de prestatiecoëfficiënt (COPtest) bepaald volgens EN 14511 bij de ‘standard rating conditions’ zoals vastgelegd in deel 2 van de norm.<br>
+- Stel voor compressiekoelmachines het opwekkingsrendement gelijk aan de energie-efficiëntieverhouding (EERtest) bepaald volgens NBN EN 14511 bij de ‘standard rating conditions’ zoals vastgelegd in deel 2 van de norm.<br>
 - Ontleen voor andere koudeleveranciers het opwekkingsrendement aan Tabel 11.<br>
 <br>
 Tabel 11 Opwekkingsrendement voor actieve koeling<br>
@@ -16677,11 +16663,7 @@ Tabel 11 Opwekkingsrendement voor actieve koeling<br>
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
-
-<p>Bij toepassing van een absorptiekoelmachine in combinatie met 1 of meer andere koudeleveranciers geldt absorptiekoeling als preferent geschakelde koudeleverancier.<br>
-<br>
-Neem voor het rendement van de overig koudeleveranciers, die als niet-preferent moeten worden beschouwd, het rendement van het toestel met het hoogste rendement indien het preferente toestel buiten beschouwing gelaten wordt.<br>
-&nbsp;</p>
+<!--[if !supportMisalignedColumns]--><!--[endif]-->
 
 ### BIJLAGE II
 
@@ -16842,7 +16824,7 @@ Bepaal in dit geval het maandelijks elektriciteitsverbruik voor ventilatoren in 
 			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
 			<p>Voor een systeem waarbij alleen de afvoer mechanisch is, geldt: C<sub>sys</sub> = 0.33 Wh/m<sup>3</sup></p>
 
-			<p>&nbsp;</p>
+			<p><strong>&nbsp;</strong></p>
 
 			<p>Voor een systeem waarbij de toevoer mechanisch is, eventueel in combinatie met mechanische afvoer, zonder koeling van de inblaaslucht, geldt: c<sub>sys</sub> = 0.55 Wh/m<sup>3</sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
@@ -17008,7 +16990,7 @@ Tabel 12 Reductiefactor fctrl, j voor de regeling van ventilatoren<br>
 Bepaal de rekenwaarde voor het geïnstalleerd elektrisch vermogen op 1 van de volgende 2 manieren:<br>
 <br>
 - het maximaal vermogen van de elektromotor-ventilator combinatie, desgevallend met inbegrip van alle voorschakelapparatuur, zoals opgegeven door de fabrikant, in W;<br>
-- het nominaal vermogen van de elktromotor, desgevallend met inbegrip van alle voorschakelapparatuur, bepaald volgens NBN EN IEC 60034-1, zoals opgegeven door de fabrikant, in W;<br>
+- het nominaal vermogen van de elktromotor, desgevallend met inbegrip van alle voorschakelapparatuur, bepaald volgens NBN EN 60034-1, zoals opgegeven door de fabrikant, in W;<br>
 <br>
 OPMERKING:<br>
 Het nominaal vermogen van een elektromotor is gedefinieerd als het maximaal vermogen dat de motor bij continu bedrijf kan opnemen.<br>
@@ -17054,7 +17036,7 @@ Indien er geen automatische nachtwerking is om overtollige warmtewinsten bij gev
 		</tr>
 		<tr>
 			<td colspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>&nbsp;</p>
+			<p><sup>&nbsp;</sup></p>
 			</td>
 		</tr>
 		<tr>
@@ -17255,7 +17237,7 @@ Het maandelijks hulpenergieverbruik van de waakvlammen, in MJ, wordt bekomen als
 
 <p>&nbsp;</p>
 
-<p>Er dient gesommeerd te worden over alle warmteopwekkingstoestellen j die bijdragen tot de verwarming van het ‘EPU-volume’ en die voorzien zijn van een waakvlam. Enige uitzondering: toestellen voor plaatselijke verwarming. Bij deze toestellen is het verbruik van de waakvlam reeds in het opwekkingsrendement in beschouwing genomen.<br>
+<p>Er moet gesommeerd worden over alle warmteopwekkingstoestellen j die bijdragen tot de verwarming en/of tot de bevochtiging van het ‘EPU-volume’ en die voorzien zijn van een waakvlam. Enige uitzondering: toestellen voor plaatselijke verwarming. Bij deze toestellen is het verbruik van de waakvlam reeds in het opwekkingsrendement in beschouwing genomen.<br>
 &nbsp;</p>
 
 ### BIJLAGE II
@@ -17386,7 +17368,7 @@ Het jaarlijkse elektriciteitsverbruik voor verlichting van het ‘EPU-volume’,
 			<p>P<sub>light, def</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.2pt">
-			<p>De forfaitaire waarde van het specifiek vermogen voor verlichting.</p>
+			<p>Een vaste waarde van het specifiek vermogen voor verlichting.</p>
 
 			<p>Neem: p<sub>light, def</sub> = 0.020 kW/m<sup>2</sup>;</p>
 			</td>
@@ -17624,7 +17606,7 @@ Bepaal voor elke ruimte vooreerst een hulpvariabele Lrm r (9.4.2). Deze is een b
 
 			<p>&nbsp;</p>
 
-			<p>In afwijking van de conventionele rekenmethode is het toegelaten om voor een ruimte met een rekenprogramma de gemiddelde verlichtingssterkte op een fictief werkvlak op een hoogte van 08 m te berekenen. Hierbij wordt gerekend met de reële geometrie van de (lege) ruimte (zonder meubilair). De te hanteren reflectiefactoren zijn: 0.7 voor het plafond,, 0.5 voor de wanden (met inbegrip van daglichtopeningen) en 0.2 voor de vloer. Bij de berekening dient voor de armaturen dezelfde positie genomen te worden als de effectieve plaatsing. Ingeval van oriënteerbare armaturen dient bij de berekeningen het armatuur zo gericht te worden dat de hoek tussen de hoofdas en de verticale zo groot mogelijk is (dus maximaal) naar boven gericht). Indien dan nog verschillende oriëntaties mogelijk zijn, dient het armatuur loodrecht op de dichtstbijzijnde wand gericht te worden. Voor de lichtstroom van de lampen dient een onveranderbare verminderingsfactor van 0.85 aangehouden te worden t.o.v. de CIE84 waarde. De overheid kan bijkomende of gewijzigde specificaties voor de berekeningen vastleggen.</p>
+			<p>In afwijking van de conventionele rekenmethode is het toegelaten om voor een ruimte met een rekenprogramma de gemiddelde verlichtingssterkte op een fictief werkvlak op een hoogte van 08 m te berekenen. Hierbij wordt gerekend met de reële geometrie van de (lege) ruimte (zonder meubilair). De te hanteren reflectiefactoren zijn: 0.7 voor het plafond,, 0.5 voor de wanden (met inbegrip van daglichtopeningen) en 0.2 voor de vloer. Bij de berekening dient voor de armaturen dezelfde positie genomen te worden als de effectieve plaatsing. Ingeval van oriënteerbare armaturen dient bij de berekeningen het armatuur zo gericht te worden dat de hoek tussen de hoofdas en de verticale zo groot mogelijk is (dus maximaal) naar boven gericht). Indien dan nog verschillende oriëntaties mogelijk zijn, dient het armatuur loodrecht op de dichtstbijzijnde wand gericht te worden. Voor de lichtstroom van de lampen dient een onveranderbare verminderingsfactor van 0.85 aangehouden te worden t.o.v. de CIE84 waarde. De minister kan bijkomende of gewijzigde specificaties voor de berekeningen vastleggen.</p>
 
 			<p>&nbsp;</p>
 
@@ -17640,7 +17622,7 @@ Bepaal voor elke ruimte vooreerst een hulpvariabele Lrm r (9.4.2). Deze is een b
 
 <p>&nbsp;</p>
 
-<p>Het programma dat voor de berekening gebruikt wordt dient vooraf erkend te worden door de overheid.<br>
+<p>Het programma dat voor de berekening gebruikt wordt dient vooraf erkend te worden door de minister.<br>
 <br>
 9. 4. 3 Bepaling van het elektriciteitsverbruik per energiesector<br>
 <br>
@@ -18046,11 +18028,7 @@ Tabel 13 Factor voor schakelende regelsystemen<br>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>Tabel 14 Factor voor modulerende regelsystemen<br>
-<br>
-</p>
+<p>&nbsp;Tabel 14 Factor voor modulerende regelsystemen</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -18121,6 +18099,9 @@ Tabel 13 Factor voor schakelende regelsystemen<br>
 
 <p>&nbsp;</p>
 
+<p><br>
+</p>
+
 <p>Tabel 15 Conventioneel vastgelegde rekenwaarde voor de gebruiksduur per jaar overdag tday en ’s nachts tnight<br>
 <br>
 </p>
@@ -18164,13 +18145,13 @@ Tabel 13 Factor voor schakelende regelsystemen<br>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;9.4.3.3.2 Elektriciteitsverbruik van een daglichtdeel<br>
+<p>&nbsp;</p>
+
+<p>9.4.3.3.2 Elektriciteitsverbruik van een daglichtdeel<br>
 <br>
 Bepaal het jaarlijks elektriciteitsverbruik van het daglichtdeel van een ruimte, zo dit uitgerust is met een daglichtafhankelijke regeling of schakeling, met:<br>
 <br>
 </p>
-
-<p>&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -18342,7 +18323,7 @@ Bepaal het jaarlijks elektriciteitsverbruik van het daglichtdeel van een ruimte,
 		</tr>
 		<tr>
 			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p><sup>9</sup> Het parasitair verbruik van verlichtingsinstallaties wordt bij het van kracht worden van dit besluit nog niet onmiddellijk ingerekend. Deze paragraaf treedt pas in werking vanaf een nader door de overheid te bepalen datum. In de tussentijd wordt gerekend met W<sub>light, rm r, ctrl</sub> = 0 kWh.</p>
+			<p><sup>9</sup> Het parasitair verbruik van verlichtingsinstallaties wordt bij het van kracht worden van dit besluit nog niet onmiddellijk ingerekend. Deze paragraaf treedt pas in werking vanaf een nader door de minister te bepalen datum. In de tussentijd wordt gerekend met W<sub>light, rm r, ctrl</sub> = 0 kWh.</p>
 
 			<p>&nbsp;</p>
 
@@ -18551,15 +18532,11 @@ Indien het daglichtdeel apart dimbaar is, kan een lager elektriciteitsverbruik i
 Indien gebruik gemaakt wordt van een gedetailleerde methode dienen volgende conventies aangehouden te worden:<br>
 - Voor de beglazing dienen de reële karakteristieken gebruikt te worden (visuele transmissie, geometrie, met inbegrip van de geometrie van het raamprofiel, …).<br>
 - Voor de ruimte dient de reële geometrie in lege toestand (zonder meubilair) gebruikt te worden. De te hanteren reflectoren zijn: 0.7 voor het plafond, 0.5 voor alle opake wanddelen (met inbegrip van de raamprofielen) en 0.2 voor de vloer. Voor de beglazing dienen de reële waarden voor transmissie gebruikt te worden.<br>
-- De overheid kan bijkomende of gewijzigde specificaties vastleggen.<br>
+- De minister kan bijkomende of gewijzigde specificaties vastleggen.<br>
 <br>
-De gedetailleerde methode (rekenprogramma) dient vooraf erkend te worden door de overheid.<br>
+De gedetailleerde methode (rekenprogramma) dient vooraf erkend te worden door de minister.<br>
 <br>
 9.4.5.2 Conventionele, vereenvoudigde methode<br>
-<br>
-Een eerste bijdrage aan het daglichtdeel wordt gevormd door de verticale projectie op de gebruiksoppervlakte van naar binnen hellende en horizontale (bv. daklichten) daglichtopeningen. Een tweede bijdrage wordt geleverd door verticale daglichtopeningen en door de equivalente verticale openingen van hellende vensters. Daartoe wordt elk hellend venster geprojecteerd op een verticaal vlak dat door de bovenste rand van het venster gaat (zie Figuur 2). De precieze bepaling van beide bijdragen gebeurt volgens 9.4.5.2.1 en 9.4.5.2.2.<br>
-<br>
-Overlappende gedeelten worden afgetrokken om de totale oppervlakte van het daglichtdeel te bepalen:<br>
 <br>
 </p>
 
@@ -18839,7 +18816,7 @@ Bepaal de daglichtdiepte per (equivalente) verticale daglichtopening als volgt.<
 
 			<p>h<sub>o </sub>de hoogte van de doorlaat van de daglichtopening, in m;</p>
 
-			<p>τ<sub>v</sub> de visuele transmissiefactor τ<sub>vis, dir, h</sub> (loodrechte inval, hemisferische transmissie) van de beglazing, bepaald volgens EN 410 (-).</p>
+			<p>τ<sub>v</sub> de visuele transmissiefactor τ<sub>vis, dir, h</sub> (loodrechte inval, hemisferische transmissie) van de beglazing, bepaald volgens NBN EN 410 (-).</p>
 
 			<p>&nbsp;</p>
 
@@ -18876,7 +18853,8 @@ Elk van de deeltermen van het eindenergieverbruik zoals bepaald in de vorige hoo
 10. 2 Het karakteristiek jaarlijks primair energieverbruik<br>
 <br>
 Bepaal het karakteristiek jaarlijks primair energieverbruik van het ‘EPU-volume’ met:<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -18956,7 +18934,8 @@ Bepaal het karakteristiek jaarlijks primair energieverbruik van het ‘EPU-volum
 <p>10. 3 Het primair energieverbruik voor verwarming en koeling<br>
 <br>
 Bepaal het maandelijks primair energieverbruik van het ‘EPU-volume’ voor verwarming en koeling met:<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -19064,7 +19043,8 @@ Bepaal het maandelijks primair energieverbruik van het ‘EPU-volume’ voor ver
 10. 4 Het primair hulpenergieverbruik<br>
 <br>
 Bepaal het maandelijks primair energieverbruik voor ventilatoren, pompen en waakvlammen met:<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -19128,7 +19108,8 @@ Bepaal het maandelijks primair energieverbruik voor ventilatoren, pompen en waak
 <p>10. 5 Het primair energieverbruik voor verlichting<br>
 <br>
 Bepaal het jaarlijks primair energieverbruik voor verlichting met:<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -19175,8 +19156,9 @@ Bepaal het jaarlijks primair energieverbruik voor verlichting met:<br>
 
 <p>10. 6 De primaire energiebesparing ingevolge gebouwgebonden warmtekrachtkoppeling (WKK)<br>
 <br>
-Bepaal de maandelijkse primaire energiebesparing van een gebouwgebonden WKK-installatie met:<br>
-&nbsp;</p>
+Bepaal de maandelijkse primaire energiebesparing van gebouwgebonden WKK met:<br>
+<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -19208,10 +19190,10 @@ Bepaal de maandelijkse primaire energiebesparing van een gebouwgebonden WKK-inst
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
-			<p>W<sub>cogen, m</sub></p>
+			<p>W<sub>cogen, m, i</sub></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.2pt">
-			<p>De maandelijkse hoeveelheid elektriciteit die door de WKK-installatie geproduceerd wordt bepaald volgens bijlage A, in kWh.</p>
+			<p>De maandelijkse hoeveelheid elektriciteit die door de gebouwgebonden WKK-installatie i geproduceerd wordt, bepaald volgens bijlage A, in kWh.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -19220,6 +19202,8 @@ Bepaal de maandelijkse primaire energiebesparing van een gebouwgebonden WKK-inst
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
+
+<p>Er moet gesommeerd worden over alle gebouwgebonden WKK-installaties i.</p>
 
 ### BIJLAGE II
 
@@ -19657,7 +19641,7 @@ In alle andere gevallen geldt:<br>
 			<p>&nbsp;</p>
 			</td>
 			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:325.8pt">
-			<p>1.1. TRANSPARANTE SCHEIDINGSCONSTRUCTIES, met uitzondering van deuren en poorten (zie 1.3, gordijngevels (zie 1.4) en glasbouwstenen (zie 1.5)</p>
+			<p>1.1. TRANSPARANTE SCHEIDINGSCONSTRUCTIES, met uitzondering van deuren en poorten (zie 1.3, lichte gevels (zie 1.4) en glasbouwsteenwanden (zie 1.5)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:55.6pt">
 			<p>U<sub>max</sub> = 2.5 (1)</p>
@@ -19675,7 +19659,7 @@ In alle andere gevallen geldt:<br>
 			<p>&nbsp;</p>
 			</td>
 			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:325.8pt">
-			<p>1.2. OPAKE SCHEIDINGSCONSTRUCTIES, met uitzondering van deuren en poorten (zie 1.3) en gordijngevels (zie 1.4)</p>
+			<p>1.2. OPAKE SCHEIDINGSCONSTRUCTIES, met uitzondering van deuren en poorten (zie 1.3) en lichte gevels (zie 1.4)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:55.6pt">
 			<p>&nbsp;</p>
@@ -19805,7 +19789,7 @@ In alle andere gevallen geldt:<br>
 			<p>&nbsp;</p>
 			</td>
 			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:325.8pt">
-			<p>1.4. GORDIJNGEVELS (volgens prEN 13947)</p>
+			<p>1.4. LICHTE GEVELS</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:55.6pt">
 			<p>U<sub>max</sub> = 2.9</p>
@@ -19823,7 +19807,7 @@ In alle andere gevallen geldt:<br>
 			<p>&nbsp;</p>
 			</td>
 			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:325.8pt">
-			<p>1.5. GLASBOUWSTENEN</p>
+			<p>1.5. GLASBOUWSTEENWANDEN</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:55.6pt">
 			<p>U<sub>max</sub> = 3.5</p>
@@ -19912,48 +19896,58 @@ In alle andere gevallen geldt:<br>
 		</tr>
 		<tr>
 			<td colspan="5" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:464.4pt">
+			<p>In afwijking van punt 1.2.1. en punt 1.2.2 gelden voor gebouwen waarvan de melding gedaan wordt of de vergunning aangevraagd wordt vanaf 1 januari 2010, de volgende maximaal toelaatbare U-waarden:</p>
+
 			<p>&nbsp;</p>
+
+			<p>1.2.1 daken en plafonds&nbsp; U<sub>max </sub>= 0,3</p>
+
+			<p>1.2.2 muren niet in contact met de grond, met uitzondering van de muren, vermeld in 1.2.4 U<sub>max </sub>= 0,4</p>
 			</td>
 		</tr>
 		<tr>
 			<td colspan="5" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:464.4pt">
-			<p>(1) Voor de evaluatie van U<sub>max</sub> dient de oppervlaktegewogen gemiddelde waarde beschouwd te worden van alle transparante scheidingsconstructies waarop de eis van toepassing is.</p>
+			<p>(1) Voor de evaluatie van Umax moet de oppervlaktegewogen gemiddelde waarde beschouwd worden van alle transparante scheidingsconstructies waarop de eis van toepassing is.</p>
 
-			<p>(2) U<sub>g</sub> is de centrale U-waarde van de beglazing voor de gegeven inbouwpositie. Elk glaspaneel op zich dient aan de centrale U<sub>g, max</sub> waarde te voldoen.</p>
+			<p>(2) Ug is de centrale U-waarde van de beglazing in verticale positie. Elk glaspaneel op zich moet aan de centrale Ug,max waarde voldoen.</p>
 
-			<p>(3) Totale R-waarde berekend van het binnenoppervlak tot het contactoppervlak met de volle grond, de kuipruimte of de onverwarmde kelder.</p>
+			<p>(3) Totale R-waarde, berekend van het binnenoppervlak tot het contactoppervlak met de volle grond, de kruipruimte of de onverwarmde kaleder.</p>
 
-			<p>(4) U-waarde berekend volgens EN ISO 13370. Voor ingegraven (kelder)vloeren geldt U<sub>max</sub> (of R<sub>min) </sub>enkel voor de U-waarde van de vloer (U<sub>b, f</sub> berekend volgens EN ISO 13370).</p>
+			<p>(4) De U-waarde houdt rekening met de weerstand van het grondmassief en wordt berekend volgens nadere specificaties vanwege de minister.</p>
 
-			<p>(5) Deze eisen worden slechts van kracht een jaar na de inwerkingtreding van dit besluit.</p>
+			<p>(5) In het kader van dit besluit mag men er steeds van uitgaan dat alle ruimten in gebouwen op een aangrenzend perceel verwarmde ruimten zijn.</p>
 
-			<p>(6) In het kader van dit besluit mag men er steeds van uitgaan dat alle ruimten in gebouwen op een aangrenzend perceel verwarmde ruimten zijn.</p>
+			<p>(6) Met uitzondering van dat deel van een reeds bestaande gemeenschappelijke scheidingsconstructie waartegen een nieuw gebouw wordt opgetrokken, als ter hoogte van de betreffende scheidingsconstructie de kleinste afstand tot de tegenoverliggende perceelsgrens minder dan 6 meter bedraagt.</p>
 
-			<p>(7) Met uitzondering van dat deel van een reeds bestaande gemeenschappelijke scheidingsconstructie waartegen een nieuw gebouw wordt opgetrokken indien ter hoogte van de betreffende scheidingsconstructie de kleinste afstand tot de tegenoverliggende perceelsgrens minder dan <!--?xml:namespace prefix = st1 ns =         "urn:schemas-microsoft-com:office:smarttags" /-->6 meter bedraagt.</p>
-
-			<p>(8) Bij de berekening van de U-waarde voor tussengelegen vloeren wordt de warmteflux van onder naar boven beschouwd.</p>
+			<p>(7) Bij de berekening van de U-waarde voor tussengelegen vloeren wordt de warmteflux van onder naar boven beschouwd.</p>
 
 			<p>&nbsp;</p>
 
-			<p>Beschouw de totale oppervlakte van alle scheidingsconstructies waaraan eisen gesteld worden in vak 1. Voor ten hoogste 2 % van deze oppervlakte moet niet voldaan worden aan de eisen gesteld in vak 1.</p>
+			<p>Beschouw de totale oppervlakte van alle scheidingsconstructies waaraan eisen gesteld worden in vak 1. Voor ten hoogste 2 % van die oppervlakte moet niet voldaan worden aan de eisen, vermeld in vak 1.</p>
 
 			<p>&nbsp;</p>
 
-			<p>Het beschermd volume is gedefinieerd in NBN B62-301.</p>
+			<p>Bij de oppervlaktebepaling van scheidinsconstructies worden dezelfde regels gehanteerd als diegene die gelden bij de bepaling van het E-peil.</p>
 
 			<p>&nbsp;</p>
 
-			<p>De warmtedoorgangscoëfficiënten U of warmteweerstanden R worden berekend volgens de norm of volgens de nadere specificaties van de Vlaamse overheid die van toepassing is op het type constructiedeel. Hoofdstuk 1 van bijlage I bij dit besluit (Bepalingsmethode van het peil van primair energieverbruik van woongebouwen) geeft een opsomming van deze normen.</p>
+			<p>Als aan 1 scheidingsconstructie 2 eisen gesteld worden (met name in vakken 1.1 en 1.4), dan wordt de oppervlakte waarop elke eis betrekking heeft apart in rekening gebracht om de totale oppervlakte van alle scheidingsconstructies waaraan eisen gesteld worden in vak 1 te bepalen (met name de dagmaat van de scheidingsconstructie en ook nog eens de glasoppervlakte).</p>
 
 			<p>&nbsp;</p>
 
-			<p>Indien de scheidingsconstructie het beschermd volume afscheidt van een aangrenzende onverwarmde ruimte, is het het product van de reductiefactor b met warmtedoorgangscoëfficiënt U dat aan de U<sub>max</sub> eis moet voldoen. De reductiefactor b van de aangrenzende onverwarmde ruimte wordt bepaald volgens 1 en 2 mogelijkheden voorzien in bijlage A van bijlage I bij dit besluit (Bepalingsmethode van het peil van primair energieverbruik van woongebouwen).</p>
+			<p>Als een gebouw meerdere eenheden bevat die afzonderlijk aan de EPB-eisen moeten voldoen, dan wordt de 2 % uitzonderingsregel toeepast op elk deel apart.</p>
 
 			<p>&nbsp;</p>
 
-			<p>Indien een scheidingsconstructie niet aan een minimaal te realiseren R-waarde voldoet, wordt bij de berekening van de administratieve geldboete de te beschouwen U-waarde bij conventie gelijk gesteld aan het inverse van de R-waarde, en dit zowel voor de gerealiseerde waarde (U<sub>aangiste</sub> = 1/R<sub>aangiste</sub>) als voor de eis (U<sub>eis</sub> = 1/R<sub>min</sub>). <strong>&nbsp;</strong></p>
+			<p>Het beschermd volume wordt berekend volgens nadere specificaties vanwege de minister.</p>
 
 			<p>&nbsp;</p>
+
+			<p>De warmtedoorgangscoëfficiënten U of warmteweerstanden R worden berekend volgens nadere specificaties vanwege de minister.</p>
+
+			<p>&nbsp;</p>
+
+			<p>Als de scheidingsconstrcutie het beschermd volume afscheidt van een aangrenzende onverwarmde ruimte, is het het product van de reductiefactor b met warmtedoorgangscoëfficiënt U dat aan de Umax-eis moet voldoen. De reductiefactor b van de aangrenzende onverwarmde ruimte wordt bepaald volgens één van de twee mogelijkheden, vermeld in bijlage A van bijlage I bij dit besluit (Bepalingsmethode van het peil van primair energieverbruik van woongebouwen).</p>
 			</td>
 		</tr>
 	</tbody>
@@ -19967,8 +19961,7 @@ In alle andere gevallen geldt:<br>
 
 ### BIJLAGE IV
 
-<p>BEHANDELING VAN KOUDEBRUGGEN<br>
-&nbsp;</p>
+<p>BEHANDELING VAN KOUDEBRUGGEN</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -19985,7 +19978,7 @@ In alle andere gevallen geldt:<br>
 		</tr>
 		<tr>
 			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>1) Het specifiek warmteverlies (L<sup>3D</sup><sub>D</sub>) kan volgens de richtlijnen van NBN EN ISO 13789 en NBN EN ISO 10211-1 rechtstreeks berekend worden op basis van een gevalideerde 3D-computerberekening, waarbij alle invloeden van eventueel aanwezige koudebruggen inbegrepen zijn. In dit geval geldt:</p>
+			<p>1) Het specifiek warmteverlies (L<sup>3D</sup><sub>D</sub>) kan volgens de richtlijnen van NBN EN ISO 13789 en NBN EN ISO 10211 rechtstreeks berekend worden op basis van een gevalideerde 3D-computerberekening, waarbij alle invloeden van eventueel aanwezige koudebruggen inbegrepen zijn. In dit geval geldt:</p>
 			</td>
 		</tr>
 		<tr>
@@ -19998,7 +19991,7 @@ In alle andere gevallen geldt:<br>
 		</tr>
 		<tr>
 			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>2) Het specifiek warmteverlies (L<sup>2D</sup><sub>D</sub>) kan volgens richtlijnen van NBN EN ISO 10211-1 en NBN EN ISO 10211-2 berekend worden, waarbij de lineaire Ψ-waarden en/of punt-χ-waarden bepaald worden op basis van een gevalideerde 2D- of 3D-computerberekening of benaderend volgens tabelwaarden uit NBN EN ISO 14683. In dit geval geldt:</p>
+			<p>2) Het specifiek warmteverlies (L<sup>2D</sup><sub>D</sub>) kan volgens richtlijnen van NBN EN ISO 10211 berekend worden, waarbij de lineaire Ψ-waarden en/of punt-χ-waarden bepaald worden op basis van een gevalideerde 2D- of 3D-computerberekening of benaderend volgens tabelwaarden uit NBN EN ISO 14683. In dit geval geldt:</p>
 			</td>
 		</tr>
 		<tr>
@@ -20021,7 +20014,7 @@ In alle andere gevallen geldt:<br>
 		</tr>
 		<tr>
 			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>a) alle bouwdetails van mogelijke koudebruggen uitgevoerd worden in overeenstemming met voorschriften die door de overheid bepaald of erkend zijn,</p>
+			<p>a) alle bouwdetails van mogelijke koudebruggen uitgevoerd worden in overeenstemming met voorschriften die door de minister bepaald of erkend zijn,</p>
 			</td>
 		</tr>
 		<tr>
@@ -20041,7 +20034,7 @@ In alle andere gevallen geldt:<br>
 		</tr>
 		<tr>
 			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>De forfaitaire toeslag ΔU<sub>c </sub>wordt door de overheid in combinatie met elk van de voorschriften vastgelegd.</p>
+			<p>De forfaitaire toeslag ΔU<sub>c </sub>wordt door de minister in combinatie met elk van de voorschriften vastgelegd.</p>
 			</td>
 		</tr>
 		<tr>
@@ -20051,7 +20044,7 @@ In alle andere gevallen geldt:<br>
 		</tr>
 		<tr>
 			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>a) de bouwdetails van mogelijke koudebruggen slechts gedeeltelijk uitgevoerd worden in overeenstemming met de voorschriften die door de overheid bepaald of erkend zijn,</p>
+			<p>a) de bouwdetails van mogelijke koudebruggen slechts gedeeltelijk uitgevoerd worden in overeenstemming met de voorschriften die door de minister bepaald of erkend zijn,</p>
 			</td>
 		</tr>
 		<tr>
@@ -20082,10 +20075,18 @@ In alle andere gevallen geldt:<br>
 		</tr>
 		<tr>
 			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:284.4pt">
-			<p>L<sub>D</sub> = Σ<sup>n</sup><sub>i = 1</sub> (U<sub>i</sub> . A<sub>i</sub>) + ΔU<sub>c</sub> . Σ<sup>n</sup><sub>i = 1</sub> A<sub>i</sub> + (Σ<sup>p</sup><sub>k = 1</sub> l<sub>k</sub> . Ψ<sub>k</sub> + Σ<sup>q</sup><sub>l = 1</sub> χ<sub>l</sub>)</p>
+			<p>L<sub>D</sub> = Σ<sup>n</sup><sub>i = 1</sub> (U<sub>i</sub> . A<sub>i</sub>) + ΔU<sub>c</sub> . Σ<sup>n</sup><sub>i = 1</sub> A<sub>i</sub> + (Σ<sup>p</sup><sub>k = 1</sub> l<sub>k</sub> . (Ψ<sub>k </sub>- Ψ<sub>k, 1im,gd</sub>) + Σ<sup>q</sup><sub>l = 1</sub> χ<sub>l</sub>)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:176.2pt">
 			<p>[W/K]</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:284.4pt">
+			<p>Ψ<sub>k, 1im,gd </sub>is de limietwaarde van de lineaire warmtedoorgangscoëfficiënt waaraan een koudebrug van het type k moet voldoen om als goed detail beschouwd te mogen worden. De minister legt hieromtrent nader voorschriften vast</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:176.2pt">
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -20100,7 +20101,7 @@ In alle andere gevallen geldt:<br>
 		</tr>
 		<tr>
 			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>b) die niet in overeenstemming zijn met de door de overheid erkende voorschriften,</p>
+			<p>b) die niet in overeenstemming zijn met de door de minister erkende voorschriften,</p>
 			</td>
 		</tr>
 		<tr>
@@ -20131,7 +20132,7 @@ In alle andere gevallen geldt:<br>
 
 			<p>Indien 4 ≤ C, dan is ΔU<sub>b</sub> = 0.2</p>
 
-			<p>Hierin is C = V/A<sub>T</sub> de volumecompactheid zoals gedefinieerd in NBN B62-301.</p>
+			<p>Hierin is C = V/A<sub>T</sub> de volumecompactheid met V het volume (m³) en&nbsp; A<sub>T</sub>&nbsp; de verliesoppervlakte (m²) van het beschermd volume, beide bepaald volgens nadere specificaties vanwege de minister.</p>
 			</td>
 		</tr>
 		<tr>
@@ -20148,7 +20149,7 @@ In alle andere gevallen geldt:<br>
 
 <p>OPMERKINGEN:<br>
 <br>
-1) Hoofdstuk 1 van bijlage I bij dit besluit (Bepalingsmethode van het peil van primair energieverbruik van woongebouwen) geeft een opsomming van de normen voor bepaling van de warmtedoorgangscoëfficiënten of warmteweerstanden van elk constructiedeel. Volgens deze normen wordt het effect van lijn- en puntkoudebruggen die eigen zijn aan een scheidingsconstructie en over het oppervlak ervan verdeeld zitten, opgenomen in het specifiek warmteverlies van die scheidingsconstructie.<br>
+1) Het effect van lijn- en puntkoudebruggen die eigen zijn aan een scheidingsconstructie en over het oppervlak ervan verdeeld zitten, worden opgenomen in het specifieke warmteverlies van die scheidingsconstructie. Zie daarvoor de nadere specificaties met betrekking tot transmissieberekeningen vanwege de minister.<br>
 2) voor de lengte van lijnkoudebruggen dient met de buitenafmetingen gerekend te worden.</p>
 
 ## BIJLAGE V Ventilatievoorzieningen in woongebouwen
@@ -20170,29 +20171,18 @@ In alle andere gevallen geldt:<br>
 
 			<p>b. In Tabel 1 van de norm NBN D 50-001 wordt de zin ‘Men moet de 10 l/s en per persoon (36 m<sup>3</sup>/h persoon) niet overschrijden.’ Vervangen door ‘Men moet de 20 l/s (72 m<sup>3</sup>/h) niet overschrijden.’</p>
 
-			<p>c. De volgende paragrafen van de norm NBN D 50-001 dienen beschouwd te worden als aanbevelingen:</p>
-
-			<p>- 4.3.2.3</p>
-
-			<p>- 4.3.2.6</p>
-
-			<p>- 4.3.3. 1), 4), 5) en 6)</p>
-
-			<p>- 5.2</p>
-
-			<p>- 5.3</p>
-
-			<p>- 5.4</p>
-
-			<p>- 5.5</p>
-
-			<p>- 5.6</p>
-
-			<p>- 5.8</p>
-
-			<p>- 6</p>
-
-			<p>- bijlage II, met uitzondering van AII-2. 1)</p>
+			<p>c. De volgende paragrafen van de norm NBN D 50-001 moeten beschouwd worden als aanbevelingen :<br>
+			- De zin « zonder nochtans het dubbele van dit nominale debiet te overschrijden » uit 4.3.1.2 b)<br>
+			- De zin « zonder nochtans het dubbele van dit nominale debiet te overschrijden » uit 4.3.1.4 b)<br>
+			- 4.3.2.3<br>
+			- 4.3.2.6<br>
+			- 4.3.3. 1), 4), 5) en 6)<br>
+			- 5<br>
+			- 6<br>
+			- bijlage II, met uitzondering van AII-2. 1).<br>
+			Aanvullend wordt in het kader van de regelgeving gesteld dat :<br>
+			• de aanbevelingen van paragraaf 5.7 enkel bedoeld zijn voor kelders en zolders buiten het beschermd volume.<br>
+			• voor kelders en zolders binnen het beschermd volume de voorschriften van paragraaf 5.7 niet gevolgd mogen worden. Voor deze kelders en zolders moet bepaald worden welk ander ruimtetype het best aansluit bij de beoogde functie. De ventilatie-eisen of -aanbevelingen van dat ruimtetype zijn dan van toepassing.</p>
 
 			<p>d. In bijlage AII-1.2 2) van de norm NBN D 50-001 dient voor daken met een helling groter dan 23° volgende bepaling toegevoegd te worden: ‘In elk geval moet de hoogte van de uitmonding boven het dak minstens 0.5 m bedragen’.</p>
 
@@ -20251,6 +20241,14 @@ In alle andere gevallen geldt:<br>
 			<p>&nbsp;</p>
 
 			<p>Conform aan paragraaf 4.5 en aan tabel 5 van de norm NBN EN 13141-1, wordt de bepaling van de luchtverspreiding in de gebruiksruimte uitgevoerd voor de combinatie Δθ = OK en Δp = 10Pa.&nbsp;&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>3. De minister kan nadere specificaties vastleggen voor de praktische toepassing van de ventilatie-eisen overeenkomstig punt 1.</p>
+
+			<p>&nbsp;</p>
+
+			<p>4. In tabel 1 van NBN D50-001 wordt de ruimteaanduiding 'woonkamer' vervangen door de aanduiding 'woonkamer + analoge ruimten' en wordt de ruimteaanduiding 'slaapkamer, studeerkamer of speelkamer' vervangen door de aanduiding 'slaapkamer, studeerkamer, speelkamer + analoge ruimten'.</p>
 
 			<p>&nbsp;</p>
 			</td>
@@ -20676,7 +20674,7 @@ Bepalingsmethode en eisen<br>
 
 ### BIJLAGE VI
 
-3. Normreferenties<br />Deze bijlage verwijst meermaals naar bepalingen uit andere publicaties die hieronder worden opgesomd:<br />1. NBN EN 12792: 2003 Ventilatie van gebouwen - Symbolen en terminologie<br />2. NBN EN 12599: 2000 Ventilatie van gebouwen - Beproevingsprocedures en meetmethoden voor de oplevering van geïnstalleerde ventilatie- en luchtbehandelingsystemen<br />3. NBN EN 13779: 2000 Ventilatie voor niet-residentiële gebouwen - Prestatie-eisen voor ventilatie- en kamerbehandelingssystemen<br />4. NBN EN 13141-1: 2004 Luchtverversing van gebouwen - Prestatiebeproeving van onderdelen/producten voor luchtverversing in woningen - Deel 1: Binnen en buiten gemonteerde luchtroosters<br />5. NBN EN 13141-2: 2004 Luchtverversing van gebouwen - Prestatiebeproeving van onderdelen/producten voor luchtverversing in woningen - Deel 2: Toe- en afvoerroosters<br />6. NBN EN 1027: 2000 Ramen en deuren - Waterdichtheid - Beproevingsmethode<br />7. NBN EN 13829: 2001 thermische eigenschappen van gebouwen - Bepaling van de luchtdoorlatendheid van gebouwen - Overdrukmethode<br />
+3. Normreferenties<br />Deze bijlage verwijst meermaals naar bepalingen uit andere publicaties die hieronder worden opgesomd:<br />1. NBN EN 12792: 2003 Ventilatie van gebouwen - Symbolen en terminologie<br />2. NBN EN 12599: 2000 Ventilatie van gebouwen - Beproevingsprocedures en meetmethoden voor de oplevering van geïnstalleerde ventilatie- en luchtbehandelingsystemen<br />3. NBN EN 13779: 2000 Ventilatie voor niet-residentiële gebouwen - Prestatie-eisen voor ventilatie- en kamerbehandelingssystemen<br />4. NBN EN 13141-1: 2004 Luchtverversing van gebouwen - Prestatiebeproeving van onderdelen/producten voor luchtverversing in woningen - Deel 1: Binnen en buiten gemonteerde luchtroosters<br />5. NBN EN 13141-2: 2004 Luchtverversing van gebouwen - Prestatiebeproeving van onderdelen/producten voor luchtverversing in woningen - Deel 2: Toe- en afvoerroosters<br />6. NBN EN 1027: 2000 Ramen en deuren - Waterdichtheid - Beproevingsmethode<br />7. NBN EN 13829: 2001 thermische eigenschappen van gebouwen - Bepaling van de luchtdoorlatendheid van gebouwen - Overdrukmethode<br /><br />Enkel de normversie met de geciteerde datum is van toepassing, tenzij de overheid expliciet een andere versie ter vervanging aanduidt.<br />
 
 ### BIJLAGE VI
 
@@ -20775,15 +20773,15 @@ De volgende ruimten moeten zeker als speciale ruimten worden beschouwd:<br>
 
 ### BIJLAGE VI
 
-<p>7. Minimale prestatieniveaus<br>
+7. Minimale prestatieniveaus<br>
 In deze paragraaf worden de minimaal te bereiken prestaties opgesomd.<br>
 <br>
-7. 1 Kwaliteit van de binnenlucht</p>
-
+7. 1 Kwaliteit van de binnenlucht<br>
+Bij de dimensionering van ventilatiesystemen mag het ontwerpdebiet nietkleiner zijn dan het minimum debiet overeenkomend met binnenluchtklasse IDA3
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<td style="vertical-align:top; width:460.6pt">
 			<p>Bij de dimensionering van ventilatiesystemen mag het ontwerpdebiet niet kleiner zijn dan het minimum debiet overeenkomend met binnenluchtklasse IDA3. Hierbij is de waarde uitgedrukt in [m<sup>3</sup> . h<sup>-1</sup>] van toepassing.</p>
 
 			<p>&nbsp;</p>
@@ -20793,8 +20791,7 @@ In deze paragraaf worden de minimaal te bereiken prestaties opgesomd.<br>
 </table>
 
 <p>&nbsp;</p>
-
-<p>7. 2 Ventilatiedebieten<br>
+7. 2 Ventilatiedebieten<br>
 Het ontwerpdebiet van een ruimte moet zowel bij de afvoer als bij de toevoer gerealiseerd kunnen worden.<br>
 <br>
 7.2.1 In ruimten bestemd voor menselijke bezetting<br>
@@ -20810,407 +20807,407 @@ Bij het gebruik van tabel 11 van de norm NBN EN 13779 dient er te worden vanuit 
 De hoofdcategorieën in onderstaande tabel (vette druk) zijn slechts indicatief. Binnen 1 gebouw kunnen in principe alle typen van ruimten uit de tabel voorkomen.<br>
 <br>
 Tabel 1: Te hanteren waarden bij de bepaling van de bezetting nodig voor de berekening van het minimum ontwerpdebiet in ruimten bestemd voor menselijke bezetting (zie tekst)<br>
-&nbsp;</p>
-
+<br>
+Vloeroppervlakte per persoon (m2/pers)
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:158.2pt">
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:158.2pt">
 			<p>Vloeroppervlakte per persoon (m<sup>2</sup>/pers)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p><strong>Horeca</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Restaurants, cafetaria, snelbuffet, kantine, bars, cocktailbars</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>1.5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Keukens, kitchenettes</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p><strong>Hotels, motels, vakantiecentra</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Slaapkamer in hotel, motel, vakantiecentra, …</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Slaapzalen in vakantiecentra</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Lobby, inkomhal</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>2</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Vergaderzaal, ontmoetingsruimte, polyvalente zaal</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>2</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p><strong>Kantoorgebouwen</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Kantoor</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>15</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Ontvangstruimten, receptie, vergaderzalen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>3.2</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Hoofdingang</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p><strong>Publieke ruimten</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Vertrekhal, wachtzaal</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Bibliotheek</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p><strong>Publieke verzamelplaatsen</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Kerken en andere religieuze gebouwen, regeringsgebouwen, gerechtszalen, musea en galerijen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>2.5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p><strong>Detailhandel</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Verkoopruimte, winkel (behalve winkelcentra)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>7</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Winkelcentrum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>2.5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Kapsalon, schoonheidssalon</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>4</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Winkels voor meubilair, tapijten, textiel, …</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Supermarkt, grootwarenhuis, dierenspeciaalzaak</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Wasserettes, wassalon</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p><strong>Sport en ontspanning</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Sporthal, stadion (speelruimte), turnzaal</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>3.5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Kleedkamers</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>2</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Toeschouwerruimte, tribunes</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Discotheek / dansgelegenheden</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Sportclub: aerobicruimten, fitnessruimte, bowlingclub</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p><strong>Werkruimten</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Fotostudio, donkere kamer, …</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Apotheek, (bereidingsruimte)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Lokettenzaal in banken / kluizenzaal voor publiek</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Kopieerruimte / ruimte voor printers</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Computerruimte (zonder ruimte voor printers)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>25</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p><strong>Onderwijsinstellingen</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Leslokalen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>4</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Polyvalente zaal</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p><strong>Gezondheidszorg</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Ziekenzaal</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Behandeling- en onderzoekskamers</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Operatie- en verloskamers, ontwaakzaal en intensieve zorgen, kinesitherapiezaal, fysiotherapie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p><strong>Correctionele instellingen</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Cellen, dagverblijf</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>4</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Bewakingsposten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>7</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Inschrijving / registratie / wachtruimte</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>2</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p><strong>Overige ruimten</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Overige ruimten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>15</p>
 			</td>
 		</tr>
@@ -21218,18 +21215,17 @@ Tabel 1: Te hanteren waarden bij de bepaling van de bezetting nodig voor de bere
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>7.2.2 In ruimten niet bestemd voor menselijke bezetting<br>
+De minister kan in nadere specificaties de te hanteren waarden bij de bepaling van de bezetting die nodig zijn voor de berekening van het minimum ontwerpdebiet vastleggen voor de ruimtes die in tabel 1 vallen onder « overige ruimten ».<br>
+<br>
+7.2.2 In ruimten niet bestemd voor menselijke bezetting<br>
 <br>
 Het minimum ontwerpdebiet in ruimten niet bestemd voor menselijke bezetting moet worden bepaald op basis van tabel 12 (Rates of outdoor or transferred air per unit Floor area (net area) foor rooms not designed for human occupancy) van de norm NBN EN 13779.<br>
-&nbsp;</p>
-
+<br>
+In afwijking van het voorgaande bedraagt in toiletruimten het minimumontwerpdebiet 25 m3
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<td style="vertical-align:top; width:460.6pt">
 			<p>In afwijking van het voorgaande bedraagt in toiletruimten het minimum ontwerpdebiet 25 m<sup>3</sup> . h<sup>-1</sup> per wc (met inbegrip van de urinoirs) of 15 m<sup>3</sup> . h<sup>-1</sup> per m<sup>2</sup> vloeroppervlakte indien het aantal wc’s niet gekend is op het ogenblik van de dimensionering van het ventilatiesysteem.</p>
 
 			<p>&nbsp;</p>
@@ -21239,10 +21235,9 @@ Het minimum ontwerpdebiet in ruimten niet bestemd voor menselijke bezetting moet
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>7. 3 Luchtkwaliteit van toevoerdebieten<br>
+<br>
+<br>
+7. 3 Luchtkwaliteit van toevoerdebieten<br>
 Het minimum ontwerptoevoerdebiet moet gerealiseerd worden met buitenlucht. Alle bijkomende debieten mogen gerealiseerd worden met buitenlucht, herbruikte lucht of doorstroomlucht.<br>
 <br>
 Bij hergebruik vana fvoerlucht dient voldaan te worden aan elk van de richtlijnen gegeven in bijlage A.6 van de norm NBN EN 13779.<br>
@@ -21256,13 +21251,13 @@ De mechanische ventilatiesystemen voorzien van een regelsysteem van het type IDA
 <br>
 De regelsystemen gebaseerd op de luchttemperatuur die toelaten het ventilatiedebiet onder het minimum ontwerpdebiet te verlagen zijn niet toegelaten.<br>
 <br>
-7. 5 Drukvoorwaarden in de ruimten of gebouwen</p>
-
+7. 5 Drukvoorwaarden in de ruimten of gebouwen<br>
+De drukvoorwaarde (PC) die in het gebouw wordt veroorzaakt door hetonevenwicht tussen de luchttoevoerdebieten (qv, supply) en deluchtafvoerdebieten (qv, extract) mag niet kleiner zijn dan -5 Pa of groterzijn dan 10 Pa (de berekening moet gebeuren met
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
-			<p>De drukvoorwaarde (PC) die in het gebouw wordt veroorzaakt door het onevenwicht tussen de luchttoevoerdebieten (q<sub>v, supply</sub>) en de luchtafvoerdebieten (q<sub>v, extract</sub>) mag niet kleiner zijn dan -5 Pa of groter zijn dan 10 Pa (de berekening moet gebeuren met een lekdebietwaarde bij 50 Pa (V<sup>•</sup><sub>50</sub>) gelijk aan V m<sup>3</sup> . h<sup>-1</sup> – waarbij V het volume (berekend op basis van de buitenafmetingen, in m<sup>3</sup>) van het gebouw of van het beschouwde deel van het gebouw is).</p>
+			<td style="vertical-align:top; width:460.6pt">
+			<p>De drukvoorwaarde (PC) die in het gebouw wordt veroorzaakt door het onevenwicht tussen de luchttoevoerdebieten (q<sub>v</sub><sub>, supply</sub>) en de luchtafvoerdebieten (q<sub>v</sub><sub>, extract</sub>) mag niet kleiner zijn dan -5 Pa of groter zijn dan 10 Pa (de berekening moet gebeuren met een lekdebietwaarde bij 50 Pa (V<sup>•</sup><sub>50</sub>) gelijk aan V m<sup>3</sup> . h<sup>-1</sup> – waarbij V het volume (berekend op basis van de buitenafmetingen, in m<sup>3</sup>) van het gebouw of van het beschouwde deel van het gebouw is).</p>
 
 			<p>&nbsp;</p>
 			</td>
@@ -21271,10 +21266,7 @@ De regelsystemen gebaseerd op de luchttemperatuur die toelaten het ventilatiedeb
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>7. 6 energieverbruik van de ventilatoren<br>
+7. 6 energieverbruik van de ventilatoren<br>
 De ventilatoren behoren tot de categorie SFP 1, SFP 2 of SFP 3.<br>
 <br>
 7.7 Dimensionering van de luchtopeningen<br>
@@ -21298,12 +21290,12 @@ De doorstroomopeningen moeten vast (niet-regelbaar) zijn.<br>
 <br>
 De toevoeropeningen voor natuurlijke ventilatie systemen of mechanische afvoerventilatiesystemen en de afvoeropeningen voor natuurlijke ventilatiesystemen of mechanische toevoerventilatiesystemen moeten manueel of automatisch regelbaar zijn. Ze moeten in voldoende tussenstanden kunnen worden afgesteld tussen de standen “Gesloten” en “Volledig open”. Die afstelling kan hetzij continu gebeuren, hetzij via ten minste 3 tussenstanden tussen standen ”Gesloten” en “Volledig open”.<br>
 <br>
-7. 9 Afvoer voor natuurlijke ventilatie</p>
-
+7. 9 Afvoer voor natuurlijke ventilatie<br>
+De afvoeropeningen voor natuurlijke ventilatie zijn verbonden met eenafvoerkanaal dat uitmondt boven het dak
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<td style="vertical-align:top; width:460.6pt">
 			<p>De afvoeropeningen voor natuurlijke ventilatie zijn verbonden met een afvoerkanaal dat uitmondt boven het dak. De afvoerkanalen moeten zo veel als mogelijk een verticaal tracé hebben. Afwijkingen voor hoogstens 30° t.o.v. de verticaal worden toegelaten.</p>
 
 			<p>&nbsp;</p>
@@ -21317,15 +21309,13 @@ De toevoeropeningen voor natuurlijke ventilatie systemen of mechanische afvoerve
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>7. 10 Aard van de doorstroomopeningen</p>
-
+<br>
+7. 10 Aard van de doorstroomopeningen<br>
+De spleten onder de binnendeuren mogen als doorstroomopeningen worden beschouwd voor zover de kleinste afmeting van de spleet ten minste 5 mmbedraagt (de spleethoogte wordt gemeten vanaf het niveau van de afgewerktevloer; indien de vloerafwerking niet
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<td style="vertical-align:top; width:460.6pt">
 			<p>De spleten onder de binnendeuren mogen als doorstroomopeningen worden beschouwd voor zover de kleinste afmeting van de spleet ten minste 5 mm bedraagt (de spleethoogte wordt gemeten vanaf het niveau van de afgewerkte vloer; indien de vloerafwerking niet gekend is, dan meet men voor deze vloerafwerking een dikte aan van 10 mm). In dat geval moet men rekening houden met een debiet van:</p>
 
 			<p>- 0,36 m<sup>3</sup> . h<sup>-1</sup> per cm<sup>2</sup> spleet voor een drukverschil van 2 Pa;</p>
@@ -21339,10 +21329,7 @@ De toevoeropeningen voor natuurlijke ventilatie systemen of mechanische afvoerve
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>7. 11 Het binnendringen van hinderlijk gedierte via toevoeropeningen van natuurlijke ventilatie systemen of mechanische afvoerventilatiesystemen<br>
+7. 11 Het binnendringen van hinderlijk gedierte via toevoeropeningen van natuurlijke ventilatie systemen of mechanische afvoerventilatiesystemen<br>
 Om het binnendringen van hinderlijk gedierte via een toevoeropening van een natuurlijk ventilatie systeem of via een toevoeropening van een mechanisch afvoerventilatiesysteem in de mate van het mogelijke tegen te gaan, mag het niet mogelijk zijn om volgende voorwerpen doorheen de toevoeropening te laten passeren, hetzij van binnen naar buiten, hetzij opgekeerd:<br>
 - Een metalen bolletje met een diameter van 4 mm<br>
 - Een metalen schijfje met een diameter van 10 mm en een dikte van 3 mm<br>
@@ -21369,12 +21356,12 @@ Daarbij zijn de volgende voorschriften van toepassing:<br>
 Om comfortproblemen in de mate van het mogelijke te voorkomen, moet de onderzijde van toevoeropeningen van een natuurlijk ventilatiesysteem en van toevoeropeningen van een mechanisch afvoerventilatiesysteem geplaatst worden op een hoogte van minstens 1.80 m boven het niveau van de afgewerkte vloer.<br>
 <br>
 In afwijking van de voorgaande eis, mag de onderzijde van toevoeropeningen van een natuurlijk ventilatiesysteem of van een mechanisch afvoerventilatiesysteem geplaatst worden op een hoogte lager dan 1.80 m boven het niveau van de afgewerkte vloer, mits een testrapport over de luchtverspreiding in de woonzone, opgemaakt volgens de norm NBN EN 13141-1, paragraaf 4.5 (Air diffusion in the occupied zone), beschikbaar is.<br>
-&nbsp;</p>
-
+<br>
+Conform aan paragraaf 4
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<td style="vertical-align:top; width:460.6pt">
 			<p>Conform aan paragraaf 4.5 en aan tabel 5 van de norm NBN EN 13141-1, wordt de bepaling van de luchtverspreiding in de gebruiksruimte uitgevoerd voor de combinatie Δθ = OK en Δp = 10 Pa.</p>
 
 			<p>&nbsp;</p>
@@ -21384,5 +21371,7 @@ In afwijking van de voorgaande eis, mag de onderzijde van toevoeropeningen van e
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
+<br>
+<br>
+<br>
+&nbsp;
