@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018101,
+  "title": "Decreet van 2009-05-08 houdende instemming met de stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en Bosnië en Herzegovina, anderzijds, en de Slotakte, ondertekend in Luxemburg op 16 juni 2008",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018101/VolledigDocument?datum=2009-07-18",
+  "source_sha256": "f3fa3d4b534af8e07e483140ed494d9e6de1c0ec479e8fe3b8a6b8137f474a32",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018101&param=informatie",
+  "as_of": "2009-07-18",
+  "made": "2009-05-08",
+  "gazette": "2009-07-08",
+  "numac": 2009202979,
+  "document_start": "2009-07-18",
+  "document_end": null,
+  "in_force": "2009-07-18",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-07-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
