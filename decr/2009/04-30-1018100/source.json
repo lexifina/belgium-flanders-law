@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018100,
+  "title": "Decreet van 2009-04-30 tot bekrachtiging van het besluit van de Vlaamse Regering van 13 februari 2009 betreffende de eindtermen en ontwikkelingsdoelen in het basis- en secundair onderwijs",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018100/VolledigDocument?datum=2009-07-18",
+  "source_sha256": "7bdc79ccfcf81c0ab4f55bca975847072b1f31ba6ef0645260b57fcf9058c8bb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018100&param=informatie",
+  "as_of": "2009-07-18",
+  "made": "2009-04-30",
+  "gazette": "2009-07-08",
+  "numac": 2009202970,
+  "document_start": "2009-07-18",
+  "document_end": null,
+  "in_force": "2009-07-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-07-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
