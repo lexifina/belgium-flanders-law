@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018102,
+  "title": "Decreet van 2009-05-08 tot wijziging van het decreet van 10 juli 2008 betreffende het beheer en de uitbating van de regionale luchthavens Oostende-Brugge en Kortrijk-Wevelgem",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018102/VolledigDocument?datum=2009-07-18",
+  "source_sha256": "d36cf7f6a1d152fa2337fd8ff2abd2dac843aecc62d59b63252f534b1bc28fcf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018102&param=informatie",
+  "as_of": "2009-07-18",
+  "made": "2009-05-08",
+  "gazette": "2009-07-08",
+  "numac": 2009202911,
+  "document_start": "2009-07-18",
+  "document_end": null,
+  "in_force": "2009-07-18",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-07-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
