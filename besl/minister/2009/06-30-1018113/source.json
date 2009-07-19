@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018113,
+  "title": "Ministerieel besluit van 2009-06-30 betreffende de aanwijzing van gewestelijke toezichthouders, gewestelijke milieuopsporingsambtenaren en gemachtigde ambtenaren bij het Agentschap voor Natuur en Bos van het Vlaams ministerie van Leefmilieu, Natuur en Energie overeenkomstig het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018113/VolledigDocument?datum=2009-07-19",
+  "source_sha256": "d19243e24a2c5782481e49ea1d5aa0049422193073858a472a11f422954f4b65",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018113&param=informatie",
+  "as_of": "2009-07-19",
+  "made": "2009-06-30",
+  "gazette": "2009-07-09",
+  "numac": 2009035650,
+  "document_start": "2009-07-19",
+  "document_end": "2010-01-31",
+  "in_force": "2009-07-19",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2009-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
