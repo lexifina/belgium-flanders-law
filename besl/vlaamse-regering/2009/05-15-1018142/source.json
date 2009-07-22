@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018142,
+  "title": "Besluit van de Vlaamse Regering van 2009-05-15 tot wijziging van het besluit van de Vlaamse Regering van 19 juli 2007 tot vaststelling van de criteria, de voorwaarden en de nadere regels voor het verlenen van subsidies ter ondersteuning en uitvoering van het beleid van evenredige arbeidsdeelname en diversiteit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018142/VolledigDocument?datum=2009-07-22",
+  "source_sha256": "5c15f9591d62929038e00b463f0a7783f6c7248e5360151818f68a01609bab7d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018142&param=informatie",
+  "as_of": "2009-07-22",
+  "made": "2009-05-15",
+  "gazette": "2009-07-22",
+  "numac": 2009203222,
+  "document_start": "2009-07-22",
+  "document_end": null,
+  "in_force": "2009-07-22",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2009-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
