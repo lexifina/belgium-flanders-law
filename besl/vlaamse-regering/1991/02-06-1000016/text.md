@@ -212,7 +212,7 @@ Bij het afsluiten van het openbaar onderzoek wordt door de burgemeester een doss
 
 ### ART. 20.
 
-§ 1. De overheidsorganen die advies uitbrengen over een vergunningsaanvraag, bedoeld in artikel 6, § 1, 1°, alsmede over een beroep tegen een beslissing van de bestendige deputatie van de provincie of van het college van burgemeester en schepenen zijn:<br />1° de afdeling, bevoegd voor milieuvergunningen;<br />2° wat de stedenbouwkundige aspecten betreft :<br />a) als het gaat om een vergunningsaanvraag, andere dan die van openbare besturen of een door hen opgerichte instelling, : het Agentschap R-O Vlaanderen, behalve wanneer het een inrichting betreft die is gelegen in een gemeente waarvan de Vlaamse Regering heeft vastgesteld dat ze voldoet aan de voorwaarden voorgeschreven door artikel 193, § 1, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, in welk geval de stedenbouwkundige aspecten worden geadviseerd door het college van burgemeester en schepenen, dat hiertoe het advies van de gemeentelijke stedenbouwkundige ambtenaar inwint en in zijn advies opneemt;<br />b) als het gaat om een vergunningsaanvraag van openbare besturen of van een door hen opgerichte instelling : het Agentschap R-O Vlaanderen;<br />c) als het gaat om een beroep tegen een beslissing van het college van burgemeester en schepenen : het Agentschap R-O Vlaanderen, behalve wanneer het een inrichting betreft die is gelegen in een gemeente waarvan de Vlaamse Regering heeft vastgesteld dat ze voldoet aan de voorwaarden voorgeschreven door artikel 193, § 1, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, in welk geval de stedenbouwkundige aspecten worden geadviseerd door de provinciale stedenbouwkundige ambtenaar;<br />d) als het gaat om een beroep tegen een beslissing van de deputatie van de provincieraad : de afdeling bevoegd voor het stedenbouwkundig beleid;<br />3° de afdeling, bevoegd voor het toezicht volksgezondheid;<br />4° de afdeling, bevoegd voor natuurlijke rijkdommen;<br />5° de Openbare Vlaamse Afvalstoffenmaatschappij; <br />6° de afdeling van de Vlaamse Milieumaatschappij, bevoegd voor het lozen van afvalwater en de emissie van afvalgassen in de atmosfeer;<br />7° ...;<br />8° de afdeling van de Vlaamse Milieumaatschappij, bevoegd voor grondwater;<br />9° de afdeling, bevoegd voor luchtverontreiniging;<br />10° het Vlaams Energieagentschap.<br /><br />Tenzij anders bepaald, brengen deze overheidsorganen hun advies uit in de schoot van de milieuvergunningscommissies bedoeld in hoofstuk VII.<br /><br />De afdelingen, bedoeld in het eerste lid 1° en 2°, verlenen advies over alle inrichtingen, de overige organen verlenen advies naar gelang van de aard van de inrichting, zoals bepaald in § 2, 3° tot en met 11°. <br /><br />Tenzij anders bepaald, brengen zij hun advies uit binnen een termijn van zestig kalenderdagen na ontvangst van het dossier, als het gaat om een vergunningsaanvraag, en van dertig kalenderdagen na ontvangst van het dossier, als het gaat om een mededeling kleine verandering of beroep. <br /><br />§ 2. De adviesverlenende overheidsorganen die advies uitbrengen over een vergunningsaanvraag als vermeld in artikel 6, § 1, 2°, zijn : <br />1° de dienst van de gemeente die met het onderzoek van milieudossiers is gelast;<br />2° wanneer het gaat om een inrichting die in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de letter A : het adviesverlenende overheidsorgaan<br />a) de in § 1,1°, vermelde afdeling Milieuvergunningen;<br />b) het Agentschap R-O Vlaanderen, behalve wanneer het een inrichting betreft die is gelegen in een gemeente waarvan de Vlaamse Regering heeft vastgesteld dat ze voldoet aan de voorwaarden voorgeschreven door artikel 193, § 1, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, in welk geval de stedenbouwkundige aspecten worden geadviseerd door de gemeentelijke stedenbouwkundige ambtenaar;<br />3° wanneer het gaat om een inrichting die in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de letter G : de afdeling, vermeld in § 1, 3°;<br />4° wanneer het gaat om een inrichting die in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de letter E : het agentschap, vermeld in § 1, 10°;<br />5° wanneer het gaat om een inrichting die in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de letter "O" : de Openbare Vlaamse Afvalstoffenmaatschappij;<br />6° wanneer het gaat om een inrichting die in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de letter "M" : de afdeling van de Vlaamse Milieumaatschappij, vermeld in in § 1, 6;<br />7° ...<br />8° wanneer het gaat om een inrichting die in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de letter "W" : de afdeling van de Vlaamse Milieumaatschappij, vermeld in § 1, 8°;<br />9° als het gaat om een inrichting die wordt vermeld onder artikel 5, § 8 : het agentschap, vermeld in § 1, 10°;<br />10° wanneer het gaat om een inrichting die in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de letter Y : de afdeling, vermeld in § 1, 9°;<br />11° wanneer het gaat om een inrichting die in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de letter "N" : de afdeling, vermeld in § 1, 4°.<br /><br />Tenzij anders bepaald, verlenen zij in dit geval hun advies binnen een termijn van dertig kalenderdagen na ontvangst van het dossier.<br /><br />§ 3. De afdeling bedoeld in § 1, eerste lid, 1° kan desgewenst adviezen inwinnen van de N.V. Aquafin, de beheerders van gewone oppervlaktewateren, en alle andere overheidsdiensten en overheidsinstellingen die activiteiten ontwikkelen op het vlak van het leefmilieu, het waterbeleid, de landinrichting en het natuurbehoud. Tenzij anders bepaald, verlenen deze hun advies binnen een termijn van twintig kalenderdagen. Wanneer het gevraagde subadvies niet binnen deze termijn van twintig kalenderdagen is uitgebracht, wordt dit geacht gunstig te zijn.<br /><br />§ 4. Wanneer een vergunningsaanvraag uitgaat van een in dit artikel bedoelde instelling of van een onderneming waarin zij een participatie heeft, is het advies van deze instelling niet vereist.
+§ 1. De overheidsorganen die advies uitbrengen over een vergunningsaanvraag, bedoeld in artikel 6, § 1, 1°, alsmede over een beroep tegen een beslissing van de bestendige deputatie van de provincie of van het college van burgemeester en schepenen zijn:<br />1° de afdeling, bevoegd voor milieuvergunningen;<br />2° wat de stedenbouwkundige aspecten betreft :<br />a) als het gaat om een vergunningsaanvraag, andere dan die van openbare besturen of een door hen opgerichte instelling, : het Agentschap R-O Vlaanderen, behalve wanneer het een inrichting betreft die is gelegen in een gemeente waarvan de Vlaamse Regering heeft vastgesteld dat ze voldoet aan de voorwaarden voorgeschreven door artikel 193, § 1, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, in welk geval de stedenbouwkundige aspecten worden geadviseerd door het college van burgemeester en schepenen, dat hiertoe het advies van de gemeentelijke stedenbouwkundige ambtenaar inwint en in zijn advies opneemt;<br />b) als het gaat om een vergunningsaanvraag van openbare besturen of van een door hen opgerichte instelling : het Agentschap R-O Vlaanderen;<br />c) als het gaat om een beroep tegen een beslissing van het college van burgemeester en schepenen : het Agentschap R-O Vlaanderen, behalve wanneer het een inrichting betreft die is gelegen in een gemeente waarvan de Vlaamse Regering heeft vastgesteld dat ze voldoet aan de voorwaarden voorgeschreven door artikel 193, § 1, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, in welk geval de stedenbouwkundige aspecten worden geadviseerd door de provinciale stedenbouwkundige ambtenaar;<br />d) als het gaat om een beroep tegen een beslissing van de deputatie van de provincieraad : de afdeling bevoegd voor het stedenbouwkundig beleid;<br />3° de afdeling, bevoegd voor het toezicht volksgezondheid;<br />4° de afdeling, bevoegd voor natuurlijke rijkdommen;<br />5° de Openbare Vlaamse Afvalstoffenmaatschappij; <br />6° de afdeling van de Vlaamse Milieumaatschappij, bevoegd voor het lozen van afvalwater en de emissie van afvalgassen in de atmosfeer;<br />7° ...;<br />8° de afdeling van de Vlaamse Milieumaatschappij, bevoegd voor grondwater;<br />9° de afdeling, bevoegd voor luchtverontreiniging;<br />10° het Vlaams Energieagentschap.<br /><br />Tenzij anders bepaald, brengen deze overheidsorganen hun advies uit in de schoot van de milieuvergunningscommissies bedoeld in hoofstuk VII.<br /><br />De afdelingen, bedoeld in het eerste lid 1° en 2°, verlenen advies over alle inrichtingen, de overige organen verlenen advies naar gelang van de aard van de inrichting, zoals bepaald in § 2, 3° tot en met 11°. <br /><br />Tenzij anders bepaald, brengen zij hun advies uit binnen een termijn van zestig kalenderdagen na ontvangst van het dossier, als het gaat om een vergunningsaanvraag, en van dertig kalenderdagen na ontvangst van het dossier, als het gaat om een mededeling kleine verandering of beroep. <br /><br />§ 2. De adviesverlenende overheidsorganen die advies uitbrengen over een vergunningsaanvraag als vermeld in artikel 6, § 1, 2°, zijn : <br />1° de dienst van de gemeente die met het onderzoek van milieudossiers is gelast;<br />2° wanneer het gaat om een inrichting die in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de letter A : het adviesverlenende overheidsorgaan<br />a) de in § 1,1°, vermelde afdeling Milieuvergunningen;<br />b) het Agentschap R-O Vlaanderen, behalve wanneer het een inrichting betreft die is gelegen in een gemeente waarvan de Vlaamse Regering heeft vastgesteld dat ze voldoet aan de voorwaarden voorgeschreven door artikel 193, § 1, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, in welk geval de stedenbouwkundige aspecten worden geadviseerd door de gemeentelijke stedenbouwkundige ambtenaar;<br /><br />3° wanneer het gaat om een inrichting die in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de letter G : de afdeling, vermeld in § 1, 3°;<br />4° wanneer het gaat om een inrichting die in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de letter E : het agentschap, vermeld in § 1, 10°;<br />5° wanneer het gaat om een inrichting die in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de letter "O" : de Openbare Vlaamse Afvalstoffenmaatschappij;<br />6° wanneer het gaat om een inrichting die in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de letter "M" : de afdeling van de Vlaamse Milieumaatschappij, vermeld in in § 1, 6;<br />7° ...<br />8° wanneer het gaat om een inrichting die in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de letter "W" : de afdeling van de Vlaamse Milieumaatschappij, vermeld in § 1, 8°;<br />9° als het gaat om een inrichting die wordt vermeld onder artikel 5, § 8 : het agentschap, vermeld in § 1, 10°;<br />10° wanneer het gaat om een inrichting die in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de letter Y : de afdeling, vermeld in § 1, 9°;<br />11° wanneer het gaat om een inrichting die in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de letter "N" : de afdeling, vermeld in § 1, 4°.<br /><br />Tenzij anders bepaald, verlenen zij in dit geval hun advies binnen een termijn van dertig kalenderdagen na ontvangst van het dossier.<br /><br />§ 3. De afdeling bedoeld in § 1, eerste lid, 1° kan desgewenst adviezen inwinnen van de N.V. Aquafin, de beheerders van gewone oppervlaktewateren, en alle andere overheidsdiensten en overheidsinstellingen die activiteiten ontwikkelen op het vlak van het leefmilieu, het waterbeleid, de landinrichting en het natuurbehoud. Tenzij anders bepaald, verlenen deze hun advies binnen een termijn van twintig kalenderdagen. Wanneer het gevraagde subadvies niet binnen deze termijn van twintig kalenderdagen is uitgebracht, wordt dit geacht gunstig te zijn.<br /><br />§ 4. Wanneer een vergunningsaanvraag uitgaat van een in dit artikel bedoelde instelling of van een onderneming waarin zij een participatie heeft, is het advies van deze instelling niet vereist.
 
 ### ART. 21.
 
@@ -254,7 +254,7 @@ Het in artikel 24 § 5 bedoelde advies van de provinciale milieuvergunningscommi
 
 ### ART. 29.
 
-Het in artikel 28 § 5 bedoelde advies van de gewestelijke milieuvergunningscommissie moet volgende gegevens bevatten:<br /><br />1° een gemotiveerde beoordeling van de risico's voor de externe veiligheid, de hinder, de effecten op het leefmilieu, op de wateren, op de natuur en op de inrichting, veroorzaakt door de inrichting, inzonderheid rekening houdend met de in de schoot van de commissie uitgebrachte adviezen;<br /><br />2° een gemotiveerde beoordeling van de verenigbaarheid van de inrichting, waarvoor een vergunning wordt gevraagd, met de omgeving en de goede plaatselijke ruimtelijke ordening;<br /><br />3° [...  <span class="reference">(opgeh. B.V.R. 12 januari 1999, art. 25, I: 1 mei 1999)</span> ]<br /><br />4° [...  <span class="reference">(geschr. B.V.R. 12 januari 1999, art. 25, I: 1 mei 1999)</span> ] een gemotiveerde beoordeling van de aanspraken en bezwaren geformuleerd door de indiener(s) van het beroep;<br /><br />5° een gemotiveerd voorstel van vergunningstermijn en vergunningsvoorwaarden wanneer de commissie van oordeel is dat de risico's voor de externe veiligheid, de hinder, de effecten op het leefmilieu, op de wateren, op de natuur en op de mens buiten de inrichting veroorzaakt door de inrichting mits naleving van gepaste milieuvergunningsvoorwaarden, tot een aanvaardbaar niveau kunnen worden beperkt en in zoverre de inrichting verenigbaar is met de voorschriften inzake ruimtelijke ordening.
+Het in artikel 28 § 5 bedoelde advies van de gewestelijke milieuvergunningscommissie moet volgende gegevens bevatten:<br />1° een gemotiveerde beoordeling van de risico's voor de externe veiligheid, de hinder, de effecten op het leefmilieu, op de wateren, op de natuur en op de mens, veroorzaakt door de inrichting, inzonderheid rekening houdend met de in de schoot van de commissie uitgebrachte adviezen;<br />2° een gemotiveerde beoordeling van de verenigbaarheid van de inrichting, waarvoor een vergunning wordt gevraagd, met de omgeving en de goede plaatselijke ruimtelijke ordening;<br />3° ... <br />4° een gemotiveerde beoordeling van de aanspraken en bezwaren geformuleerd door de indiener(s) van het beroep;<br />5° een gemotiveerd voorstel van vergunningstermijn en vergunningsvoorwaarden wanneer de commissie van oordeel is dat de risico's voor de externe veiligheid, de hinder, de effecten op het leefmilieu, op de wateren, op de natuur en op de mens buiten de inrichting veroorzaakt door de inrichting mits naleving van gepaste milieuvergunningsvoorwaarden, tot een aanvaardbaar niveau kunnen worden beperkt en in zoverre de inrichting verenigbaar is met de voorschriften inzake ruimtelijke ordening.
 
 ## HOOFDSTUK VIII BESLISSING OVER DE VERGUNNINGSAANVRAAG
 
@@ -268,7 +268,7 @@ Het in artikel 28 § 5 bedoelde advies van de gewestelijke milieuvergunningscomm
 
 ### ART. 30bis.
 
-§ 1. Een vergunning kan worden verleend wanneer deze voorwaarden bevat welke garanderen dat de inrichting voldoet aan de eisen die door dit reglement en titel II van het VLAREM zijn gesteld. De vergunning wordt geweigerd wanneer dat niet het geval is. <br /><br />In geval de vergunningsaanvraag betrekking heeft op een stortplaats moet de vergunning worden geweigerd, wanneer er niet is aangetoond dat:<br />° het beheer van de stortplaats in handen komt van een natuurlijke persoon die technisch bekwaam is om de stortplaats te beheren en het personeel dat instaat voor de exploitatie van de stortplaats een beroeps- en technische opleiding krijgt;<br />° de stortplaats zodanig wordt beheerd dat de nodige maatregelen worden getroffen om ongevallen te vermijden en de gevolgen ervan te beperken;<br />° door de aanvrager toereikende voorzieningen in de vorm van een financiële zekerheid of een equivalent daarvan zijn of zullen worden getroffen alvorens met het storten wordt begonnen, zoals omschreven in titel II van VLAREM;<br />° het stortplaatsproject verenigbaar is met de geldende uitvoeringsplannen voor het beheer van afvalstoffen. <br /><br />Ingeval de vergunningsaanvraag betrekking heeft op een BKG-inrichting, kan de vergunning slechts worden verleend indien de vergunningverlenende overheid ervan overtuigd is dat de exploitant in staat is de emissies van de voor de inrichting relevante broeikasgasemissies te bewaken en te rapporteren. Dit betekent dat de exploitant in bezit moet zijn van een door het verificatiebureau geverifieerd en door de afdeling bevoegd voor luchtverontreiniging goedgekeurd monitoringplan zoals bedoeld in artikel 5, § 9. <br /><br />Als de vergunningsaanvraag betrekking heeft op een inrichting die is ingedeeld in rubriek 2.3.11 van de indelingslijst, met uitzondering van wat betrekking heeft op het inert afval, afval uit de winning, de behandeling en de opslag van turf en het niet-gevaarlijk niet-inert afval, tenzij deze worden gestort in een afvalvoorziening van categorie A, en met uitzondering van de afvalvoorzieningen vermeld in artikel 5.2.6.10.1, § 3, van titel II van het VLAREM, kan de vergunning alleen worden verleend als is aangetoond dat :<br />1° het afvalbeheer niet rechtstreeks indruist tegen, noch een belemmering vormt voor de uitvoering van de toepasselijke afvalbeheersplannen, aangenomen ter uitvoering van artikel 35 en 36 van het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen;<br />2° het storten van winningsafval, ongeacht of dat zich in vaste vorm, in de vorm van slib of in vloeibare vorm bevindt, in een ander ontvangend waterlichaam dan het waterlichaam dat is aangelegd voor het verwijderen van winningsafval, voldoet aan de toepasselijke voorschriften van dit besluit, van titel II van het VLAREM en van het decreet van 18 juli 2003 betreffende het integraal waterbeleid en de uitvoeringsbesluiten ervan. <br /><br />§ 1bis. Gedurende de periode, zoals bedoeld in de artikelen 14, § 2, 1°, 5, en 15, § 2, van het Samenwerkingsakkoord van 13 december 2002 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering en financiering van bodemsanering van tankstations, zoals gewijzigd bij het Samenwerkingsakkoord van 9 februari 2007 tot wijziging van het samenwerkingsakkoord van 13 december 2002 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering en financiering van bodemsanering van tankstations, mag geen enkele milieuvergunning voor de uitbating of indienststelling van een tankstation verleend worden op een terrein waarvoor een ontvankelijke aanvraag tot tussenkomst in het kader van sluiting, al dan niet bij wijze van overgangsmaatregel, bij het Fonds, zoals bedoeld in artikel 1, 13° van het voormeld Samenwerkingsakkoord, werd ingediend. Dit verbod geldt evenwel niet indien het mandaat van het voormeld Fonds eindigt alvorens de bodemsanering beëindigd is of wanneer de erkenning van het Fonds opgeheven wordt.<br /><br />De in het eerste lid bedoelde periode gedurende dewelke geen milieuvergunning mag afgeleverd worden, zal blijken uit het attest, vermeld in bijlage 4B, punt F11, van dit besluit. <br /><br />Indien uit het attest, vermeld in bijlage 4B, punt F11, van dit besluit blijkt dat voor het terrein bij het voormeld Fonds een ontvankelijke aanvraag tot tussenkomst in het kader van sluiting, al dan niet bij wijze van overgangsmaatregel, werd ingediend waarbij de uitbating van het tankstation werd stopgezet vóór 1 januari 1993, mag geen milieuvergunning afgeleverd worden tenzij als bijlage aan het attest een document werd overgemaakt, opgesteld door de OVAM, waaruit blijkt dat de uitvoering van de bodemsanering niet wordt gehinderd door de nieuwe uitbating van het tankstation.<br /><br />§ 2. De vergunningsvoorwaarden, bedoeld in artikel 30, § 1, 6°, c), worden vastgesteld zodanig dat:<br />1° overeenkomstig de EU-richtlijn 96/61/EG van 24 september 1996 inzake geïntegreerde preventie en bestrijding van verontreiniging, rekening is gehouden met de algemene beginselen bedoeld in artikel 43ter;<br />2° ze de exploitatievoorwaarden en verplichtingen van de exploitant vastgesteld in het hoofdstuk XI van dit reglement bevatten;<br />3° ze de op de inrichting van toepassing zijnde milieuvoorwaarden vastgesteld door titel II van het VLAREM bevatten;<br />4° ze alle maatregelen bevatten die ter vervulling van de vergunningsvoorwaarden van inzonderheid de artikelen 43bis en 43ter nodig zijn om de bescherming van lucht, water en bodem te waarborgen en aldus een hoog niveau van bescherming van het milieu in zijn geheel te bereiken;<br />5° ze emissiegrenswaarden bevatten voor de verontreinigende stoffen, met name die van bijlage 1.1.2 bij titel II van het VLAREM, die in significante hoeveelheden uit de betrokken installatie kunnen vrijkomen, gelet op hun aard en hun potentieel voor overdracht van verontreiniging tussen milieucompartimenten (water, lucht en bodem); zo nodig, bevatten zij ook passende voorschriften ter bescherming van bodem en grondwater, en maatregelen voor het beheer van de door de installatie voortgebrachte afvalstoffen <br />5°bis ze uitdrukkelijk berekende emissiegrenswaarden bevatten die specifiek gelden voor meeverbranding van afvalstoffen; <br />6° ze in ieder geval bepalingen bevatten betreffende de minimalisering van de verontreiniging over lange afstand of van de grensoverschrijdende verontreiniging;<br />7° ze een hoog niveau van bescherming van het milieu in zijn geheel waarborgen;<br />8° ze passende eisen bevatten voor de controle op de lozingen, met vermelding van de meetmethode en -frequentie, de procedure voor de beoordeling van de metingen, alsmede de verplichting de bevoegde overheid in kennis te stellen van de gegevens die noodzakelijk zijn voor de controle op de naleving van de vergunningsvoorwaarden;<br />9° ze maatregelen bevatten voor andere dan de normale bedrijfsomstandigheden, waarbij op passende wijze wordt rekening gehouden met opstarten, lekken, storingen, korte stilleggingen en definitieve bedrijfsbeëindiging, wanneer het milieu daardoor kan worden beïnvloed;<br />10° ze ook tijdelijke afwijkingen van de eisen, bedoeld in § 2, 6° en 7° en § 5 van dit artikel, kunnen bevatten, indien een door de bevoegde overheid goedgekeurd saneringsplan de naleving binnen zes maanden van deze eisen waarborgt en het project tot vermindering van de verontreiniging leidt;<br />11° ze voor de in dit reglement beoogde geïntegreerde preventie en beperking van verontreiniging door de in de indelingslijst genoemde inrichtingen andere bijzondere voorwaarden kunnen bevatten die de bevoegde overheid doelmatig acht;<br />12° ze voorwaarden bevatten zodat er geen vermijdbare schade aan de natuur kan ontstaan;<br />13° ze een expliciete lijst bevatten van de afvalcategorieën die mogen worden verwerkt. Deze lijst omvat de totale hoeveelheid en indien mogelijk en nuttig de hoeveelheid per afvalcategorie.<br />14° ze, in het geval van een meeverbrandingsinstallatie waarin gevaarlijke afvalstoffen worden verbrand, volgende gegevens bevatten:<br />a) de minimale en de maximale toevoer van de afvalstoffen;<br />b) de laagste en de hoogste calorische waarde van de afvalstoffen;<br />c) de maximumgehalten aan verontreinigende stoffen (PCB's, PCP, chloor, fluor, zwavel en zware metalen) in de afvalstoffen. <br />15° ze bijdragen tot de verwezenlijking van de doelstellingen van artikel 5 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid.<br /><br />§ 2bis. Ingeval de vergunningsaanvraag betrekking heeft op een BKG-inrichting, kunnen met betrekking tot de emissie van voor de inrichting relevante broeikasgassen geen emissiegrenswaarden in de vergunning worden opgenomen voor directe emissies van deze broeikasgassen, tenzij zulks noodzakelijk is om te verzekeren dat er geen significante plaatselijke verontreiniging wordt veroorzaakt. <br /><br />§ 3. De grenswaarden, bedoeld in § 2, 5° kunnen, zo nodig, worden aangevuld of vervangen door gelijkwaardige parameters of gelijkwaardige technische maatregelen.<br /><br />Voor de varkens- en pluimveehouderijen wordt bij de emissiegrenswaarden, bedoeld in § 2, rekening gehouden met de aan die categorieën installaties aangepaste regelingen.<br /><br />§ 4. Indien met het oog op een milieukwaliteitsnorm strengere voorwaarden moeten gelden dan die welke door toepassing van de beste beschikbare technieken haalbaar zijn, moeten met name in de vergunning extra voorwaarden worden gesteld, onverminderd artikel 3.3.0.1 van titel II van het VLAREM en onverminderd andere maatregelen die getroffen kunnen worden om aan de milieukwaliteitsnormen te voldoen.<br /><br />§ 5. Onverminderd § 4 zijn de emissiegrenswaarden, de parameters en de gelijkwaardige technische maatregelen, bedoeld in § 2, 5° en § 3, gebaseerd op de beste beschikbare technieken, zonder dat daarmee het gebruik van een bepaalde techniek of technologie wordt voorgeschreven, met inachtneming van de technische kenmerken en de geografische ligging van de betrokken installatie, alsmede de plaatselijke milieuomstandigheden.<br /><br />§ 6. Voor de varkens- en pluimveehouderijen kan bij de in § 2, 8° bedoelde maatregelen rekening worden gehouden met de kosten en baten.
+§ 1. Een vergunning kan worden verleend wanneer deze voorwaarden bevat welke garanderen dat de inrichting voldoet aan de eisen die door dit reglement en titel II van het VLAREM zijn gesteld. De vergunning wordt geweigerd wanneer dat niet het geval is. <br /><br />In geval de vergunningsaanvraag betrekking heeft op een stortplaats moet de vergunning worden geweigerd, wanneer er niet is aangetoond dat:<br />° het beheer van de stortplaats in handen komt van een natuurlijke persoon die technisch bekwaam is om de stortplaats te beheren en het personeel dat instaat voor de exploitatie van de stortplaats een beroeps- en technische opleiding krijgt;<br />° de stortplaats zodanig wordt beheerd dat de nodige maatregelen worden getroffen om ongevallen te vermijden en de gevolgen ervan te beperken;<br />° door de aanvrager toereikende voorzieningen in de vorm van een financiële zekerheid of een equivalent daarvan zijn of zullen worden getroffen alvorens met het storten wordt begonnen, zoals omschreven in titel II van VLAREM;<br />° het stortplaatsproject verenigbaar is met de geldende uitvoeringsplannen voor het beheer van afvalstoffen. <br /><br />Ingeval de vergunningsaanvraag betrekking heeft op een BKG-inrichting, kan de vergunning slechts worden verleend indien de vergunningverlenende overheid ervan overtuigd is dat de exploitant in staat is de emissies van de voor de inrichting relevante broeikasgasemissies te bewaken en te rapporteren. Dit betekent dat de exploitant in bezit moet zijn van een door het verificatiebureau geverifieerd en door de afdeling bevoegd voor luchtverontreiniging goedgekeurd monitoringplan zoals bedoeld in artikel 5, § 9. <br /><br />Als de vergunningsaanvraag betrekking heeft op een inrichting die is ingedeeld in rubriek 2.3.11 van de indelingslijst, met uitzondering van wat betrekking heeft op het inert afval, afval uit de winning, de behandeling en de opslag van turf en het niet-gevaarlijk niet-inert afval, tenzij deze worden gestort in een afvalvoorziening van categorie A, en met uitzondering van de afvalvoorzieningen vermeld in artikel 5.2.6.10.1, § 3, van titel II van het VLAREM, kan de vergunning alleen worden verleend als is aangetoond dat :<br />1° het afvalbeheer niet rechtstreeks indruist tegen, noch een belemmering vormt voor de uitvoering van de toepasselijke afvalbeheersplannen, aangenomen ter uitvoering van artikel 35 en 36 van het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen;<br />2° het storten van winningsafval, ongeacht of dat zich in vaste vorm, in de vorm van slib of in vloeibare vorm bevindt, in een ander ontvangend waterlichaam dan het waterlichaam dat is aangelegd voor het verwijderen van winningsafval, voldoet aan de toepasselijke voorschriften van dit besluit, van titel II van het VLAREM en van het decreet van 18 juli 2003 betreffende het integraal waterbeleid en de uitvoeringsbesluiten ervan. <br /><br />§ 1bis. Gedurende de periode, zoals bedoeld in de artikelen 14, § 2, 1°, 5, en 15, § 2, van het Samenwerkingsakkoord van 13 december 2002 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering en financiering van bodemsanering van tankstations, zoals gewijzigd bij het Samenwerkingsakkoord van 9 februari 2007 tot wijziging van het samenwerkingsakkoord van 13 december 2002 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering en financiering van bodemsanering van tankstations, mag geen enkele milieuvergunning voor de uitbating of indienststelling van een tankstation verleend worden op een terrein waarvoor een ontvankelijke aanvraag tot tussenkomst in het kader van sluiting, al dan niet bij wijze van overgangsmaatregel, bij het Fonds, zoals bedoeld in artikel 1, 13° van het voormeld Samenwerkingsakkoord, werd ingediend. Dit verbod geldt evenwel niet indien het mandaat van het voormeld Fonds eindigt alvorens de bodemsanering beëindigd is of wanneer de erkenning van het Fonds opgeheven wordt.<br /><br />De in het eerste lid bedoelde periode gedurende dewelke geen milieuvergunning mag afgeleverd worden, zal blijken uit het attest, vermeld in bijlage 4B, punt F11, van dit besluit. <br /><br />Indien uit het attest, vermeld in bijlage 4B, punt F11, van dit besluit blijkt dat voor het terrein bij het voormeld Fonds een ontvankelijke aanvraag tot tussenkomst in het kader van sluiting, al dan niet bij wijze van overgangsmaatregel, werd ingediend waarbij de uitbating van het tankstation werd stopgezet vóór 1 januari 1993, mag geen milieuvergunning afgeleverd worden tenzij als bijlage aan het attest een document werd overgemaakt, opgesteld door de OVAM, waaruit blijkt dat de uitvoering van de bodemsanering niet wordt gehinderd door de nieuwe uitbating van het tankstation.<br /><br />§ 2. De vergunningsvoorwaarden, bedoeld in artikel 30, § 1, 6°, c), worden vastgesteld zodanig dat:<br />1° overeenkomstig de EU-richtlijn 2008/1/EG van het Europees Parlement en de Raad van 15 januari 2008 inzake geïntegreerde preventie en bestrijding van verontreiniging, rekening is gehouden met de algemene beginselen bedoeld in artikel 43ter;<br />2° ze de exploitatievoorwaarden en verplichtingen van de exploitant vastgesteld in het hoofdstuk XI van dit reglement bevatten;<br />3° ze de op de inrichting van toepassing zijnde milieuvoorwaarden vastgesteld door titel II van het VLAREM bevatten;<br />4° ze alle maatregelen bevatten die ter vervulling van de vergunningsvoorwaarden van inzonderheid de artikelen 43bis en 43ter nodig zijn om de bescherming van lucht, water en bodem te waarborgen en aldus een hoog niveau van bescherming van het milieu in zijn geheel te bereiken;<br />5° ze emissiegrenswaarden bevatten voor de verontreinigende stoffen, met name die van bijlage 1.1.2 bij titel II van het VLAREM, die in significante hoeveelheden uit de betrokken installatie kunnen vrijkomen, gelet op hun aard en hun potentieel voor overdracht van verontreiniging tussen milieucompartimenten (water, lucht en bodem); zo nodig, bevatten zij ook passende voorschriften ter bescherming van bodem en grondwater, en maatregelen voor het beheer van de door de installatie voortgebrachte afvalstoffen <br />5°bis ze uitdrukkelijk berekende emissiegrenswaarden bevatten die specifiek gelden voor meeverbranding van afvalstoffen; <br />6° ze in ieder geval bepalingen bevatten betreffende de minimalisering van de verontreiniging over lange afstand of van de grensoverschrijdende verontreiniging;<br />7° ze een hoog niveau van bescherming van het milieu in zijn geheel waarborgen;<br />8° ze passende eisen bevatten voor de controle op de lozingen, met vermelding van de meetmethode en -frequentie, de procedure voor de beoordeling van de metingen, alsmede de verplichting de bevoegde overheid in kennis te stellen van de gegevens die noodzakelijk zijn voor de controle op de naleving van de vergunningsvoorwaarden;<br />9° ze maatregelen bevatten voor andere dan de normale bedrijfsomstandigheden, waarbij op passende wijze wordt rekening gehouden met opstarten, lekken, storingen, korte stilleggingen en definitieve bedrijfsbeëindiging, wanneer het milieu daardoor kan worden beïnvloed;<br />10° ze ook tijdelijke afwijkingen van de eisen, bedoeld in § 2, 6° en 7° en § 5 van dit artikel, kunnen bevatten, indien een door de bevoegde overheid goedgekeurd saneringsplan de naleving binnen zes maanden van deze eisen waarborgt en het project tot vermindering van de verontreiniging leidt;<br />11° ze voor de in dit reglement beoogde geïntegreerde preventie en beperking van verontreiniging door de in de indelingslijst genoemde inrichtingen andere bijzondere voorwaarden kunnen bevatten die de bevoegde overheid doelmatig acht;<br />12° ze voorwaarden bevatten zodat er geen vermijdbare schade aan de natuur kan ontstaan;<br />13° ze een expliciete lijst bevatten van de afvalcategorieën die mogen worden verwerkt. Deze lijst omvat de totale hoeveelheid en indien mogelijk en nuttig de hoeveelheid per afvalcategorie.<br />14° ze, in het geval van een meeverbrandingsinstallatie waarin gevaarlijke afvalstoffen worden verbrand, volgende gegevens bevatten:<br />a) de minimale en de maximale toevoer van de afvalstoffen;<br />b) de laagste en de hoogste calorische waarde van de afvalstoffen;<br />c) de maximumgehalten aan verontreinigende stoffen (PCB's, PCP, chloor, fluor, zwavel en zware metalen) in de afvalstoffen. <br />15° ze bijdragen tot de verwezenlijking van de doelstellingen van artikel 5 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid.<br /><br />§ 2bis. Ingeval de vergunningsaanvraag betrekking heeft op een BKG-inrichting, kunnen met betrekking tot de emissie van voor de inrichting relevante broeikasgassen geen emissiegrenswaarden in de vergunning worden opgenomen voor directe emissies van deze broeikasgassen, tenzij zulks noodzakelijk is om te verzekeren dat er geen significante plaatselijke verontreiniging wordt veroorzaakt. <br /><br />§ 3. De grenswaarden, bedoeld in § 2, 5° kunnen, zo nodig, worden aangevuld of vervangen door gelijkwaardige parameters of gelijkwaardige technische maatregelen.<br /><br />Voor de varkens- en pluimveehouderijen wordt bij de emissiegrenswaarden, bedoeld in § 2, rekening gehouden met de aan die categorieën installaties aangepaste regelingen.<br /><br />§ 4. Indien met het oog op een milieukwaliteitsnorm strengere voorwaarden moeten gelden dan die welke door toepassing van de beste beschikbare technieken haalbaar zijn, moeten met name in de vergunning extra voorwaarden worden gesteld, onverminderd artikel 3.3.0.1 van titel II van het VLAREM en onverminderd andere maatregelen die getroffen kunnen worden om aan de milieukwaliteitsnormen te voldoen.<br /><br />§ 5. Onverminderd § 4 zijn de emissiegrenswaarden, de parameters en de gelijkwaardige technische maatregelen, bedoeld in § 2, 5° en § 3, gebaseerd op de beste beschikbare technieken, zonder dat daarmee het gebruik van een bepaalde techniek of technologie wordt voorgeschreven, met inachtneming van de technische kenmerken en de geografische ligging van de betrokken installatie, alsmede de plaatselijke milieuomstandigheden.<br /><br />§ 6. Voor de varkens- en pluimveehouderijen kan bij de in § 2, 8° bedoelde maatregelen rekening worden gehouden met de kosten en baten.
 
 ## HOOFDSTUK IX BEKENDMAKING EN TOEGANG TOT MILIEU-INFORMATIE
 
@@ -354,11 +354,11 @@ Voor inrichtingen die zijn ingedeeld in rubriek 2.3.11 van de indelingslijst, me
 
 ### ART. 43bis.
 
-Bij de bepaling van de beste beschikbare technieken omschreven in artikel 1, 29°, moeten de volgende punten speciaal in aanmerking worden genomen:<br /><br />1° de toepassing van technieken die weinig afval veroorzaken;<br /><br />2° de toepassing van minder gevaarlijke stoffen;<br /><br />3° de ontwikkeling, waar mogelijk, van technieken voor de terugwinning en recycling van de in het proces uitgesloten en gebruikte stoffen en van afval;<br /><br />4° vergelijkbare processen, apparaten of exploitatiemethoden die met succes op industriële schaal zijn beproefd;<br /><br />5° de vooruitgang van de techniek en de ontwikkeling van de wetenschappelijke kennis;<br /><br />6° de aard, de effecten en de omvang van de betrokken emissies;<br /><br />7° de data van ingebruikneming van de nieuwe of bestaande installaties en/of inrichtingen;<br /><br />8° de tijd die nodig is voor het omschakelen op een betere beschikbare techniek;<br /><br />9° het verbruik en de aard van de grondstoffen (met inbegrip van water) en de energie-efficiëntie;<br /><br />10° de noodzaak het algemene effect van de emissies en de risico's op het milieu te voorkomen of tot een minimum te beperken;<br /><br />11° de noodzaak ongevallen te voorkomen en de gevolgen daarvan voor het milieu te beperken;<br /><br />12° de milieuvoorwaarden vastgesteld door titel II van het VLAREM die inzonderheid de krachtens artikel 16, lid 2, van de EG-richtlijn 96/61/EG van 24 september 1996 inzake geïntegreerde preventie en bestrijding van verontreiniging door de EU-Commissie, of door internationale organisaties bekendgemaakte informatie omvat.  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 41, I: 1 mei 1999)</span> ]
+Bij de bepaling van de beste beschikbare technieken omschreven in artikel 1, 29°, moeten de volgende punten speciaal in aanmerking worden genomen:<br />1° de toepassing van technieken die weinig afval veroorzaken;<br />2° de toepassing van minder gevaarlijke stoffen;<br />3° de ontwikkeling, waar mogelijk, van technieken voor de terugwinning en recycling van de in het proces uitgesloten en gebruikte stoffen en van afval;<br />4° vergelijkbare processen, apparaten of exploitatiemethoden die met succes op industriële schaal zijn beproefd;<br />5° de vooruitgang van de techniek en de ontwikkeling van de wetenschappelijke kennis;<br />6° de aard, de effecten en de omvang van de betrokken emissies;<br />7° de data van ingebruikneming van de nieuwe of bestaande installaties en/of inrichtingen;<br />8° de tijd die nodig is voor het omschakelen op een betere beschikbare techniek;<br />9° het verbruik en de aard van de grondstoffen (met inbegrip van water) en de energie-efficiëntie;<br />10° de noodzaak het algemene effect van de emissies en de risico's op het milieu te voorkomen of tot een minimum te beperken;<br />11° de noodzaak ongevallen te voorkomen en de gevolgen daarvan voor het milieu te beperken;<br />12° de milieuvoorwaarden vastgesteld door titel II van het VLAREM die inzonderheid de krachtens artikel 17, tweede lid, van de EU-richtlijn 2008/1/EG van het Europees Parlement en de Raad van 15 januari 2008 inzake geïntegreerde preventie en bestrijding van verontreiniging door de EU-Commissie, of door internationale organisaties bekendgemaakte informatie omvat.
 
 ### ART. 43ter.
 
-Een inrichting en/of een installatie dient overeenkomstig de EU-richtlijn 96/61/EG van 24 september 1996 inzake geïntegreerde preventie en bestrijding van verontreiniging zo te worden geëxploiteerd dat:<br /><br />1° alle passende preventieve maatregelen tegen verontreiniging worden getroffen, met name door toepassing van de beste beschikbare technieken;<br /><br />2° geen belangrijke verontreiniging wordt veroorzaakt;<br /><br />3° overeenkomstig het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen en het Vlaams reglement inzake afvalvoorkoming en -beheer het ontstaan van afvalstoffen wordt voorkomen; waar dit niet gebeurt, moeten die stoffen nuttig worden toegepast of aangewend worden als secundaire grondstof of, wanneer dat technisch en economisch onmogelijk is, zodanig worden verwijderd dat milieu-effecten worden voorkomen of beperkt;<br /><br />4° de energie op doelmatige wijze wordt gebruikt;<br /><br />5° de nodige maatregelen worden getroffen om ongevallen te voorkomen en de gevolgen daarvan te beperken;<br /><br />6° bij de definitieve stopzetting van de activiteiten de nodige maatregelen worden getroffen om het gevaar van verontreiniging te voorkomen en het exploitatieterrein weer in een bevredigende toestand te brengen.  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 42, I: 1 mei 1999)</span> ]
+Een inrichting en/of een installatie dient overeenkomstig de EU-richtlijn 2008/1/EG van het Europees Parlement en de Raad van 15 januari 2008 inzake geïntegreerde preventie en bestrijding van verontreiniging zo te worden geëxploiteerd dat:<br />1° alle passende preventieve maatregelen tegen verontreiniging worden getroffen, met name door toepassing van de beste beschikbare technieken;<br />2° geen belangrijke verontreiniging wordt veroorzaakt;<br />3° overeenkomstig het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen en het Vlaams reglement inzake afvalvoorkoming en -beheer het ontstaan van afvalstoffen wordt voorkomen; waar dit niet gebeurt, moeten die stoffen nuttig worden toegepast of aangewend worden als secundaire grondstof of, wanneer dat technisch en economisch onmogelijk is, zodanig worden verwijderd dat milieu-effecten worden voorkomen of beperkt;<br />4° de energie op doelmatige wijze wordt gebruikt;<br />5° de nodige maatregelen worden getroffen om ongevallen te voorkomen en de gevolgen daarvan te beperken;<br />6° bij de definitieve stopzetting van de activiteiten de nodige maatregelen worden getroffen om het gevaar van verontreiniging te voorkomen en het exploitatieterrein weer in een bevredigende toestand te brengen.
 
 ### ART. 44.
 
@@ -366,7 +366,7 @@ Een inrichting en/of een installatie dient overeenkomstig de EU-richtlijn 96/61/
 
 ### ART. 45.
 
-§ 1. De bevoegde overheid kan bij gemotiveerde beslissing de in de lopende vergunning(en) opgelegde voorwaarden wijzigen of aanvullen:<br />1° ambtshalve;<br />2° op verzoek van de in artikel 20 vermelde adviesorganen in zoverre deze bevoegd zijn voor adviesverlening met betrekking tot bedoelde inrichting;<br />3° op verzoek van de exploitant;<br />4° op verzoek van elke natuurlijke persoon of rechtspersoon die tengevolge van de vestiging en de exploitatie van de inrichting rechtstreeks hinder kan ondervinden;<br />5° op verzoek van elke rechtspersoon die zich de bescherming tot doel heeft gesteld van het leefmilieu dat door de hinder tengevolge van de vestiging en de exploitatie van de inrichting kan worden getroffen.<br /><br />Voor de toepassing van dit artikel wordt onder "bevoegde overheid" verstaan de overheid die in eerste aanleg bevoegd is.<br /><br />§ 2. Het verzoek, bedoeld in § 1, dient per post aangetekende zending naar de overheid, bevoegd in § 1, gestuurd te worden. <br /><br />§ 3. Behoudens wanneer het gaat om een ambtshalve beslissing, dient het in § 1 bedoelde verzoek te vermelden : <br />1° de volgende gegevens inzake de identificatie van de inrichting :<br />a) - indien het om een natuurlijke persoon gaat : de naam, voornaam, hoedanigheid, het adres, telefoon-, R.S.Z.- en B.T.W.-nummer van de exploitant;<br />- indien het om een rechtspersoon gaat : de benaming, de rechtsvorm en de maatschappelijke zetel, telefoon-, R.S.Z.- en B.T.W.-nummer van de exploitant, evenals de naam, de hoedanigheid van de verantwoordelijke persoon die de vergunningsaanvraag namens de exploitant ondertekent; <br />b) de juridische grondslag op basis waarvan de exploitant de beschikking heeft over de bedoelde inrichting(en) alsmede het eigendomsstatuut van de percelen waarop de exploitatie gebeurt of is gepland; <br />c) het adres van de inrichting die het voorwerp uitmaakt van de vergunningsaanvraag evenals de gemeenten en provincies waarin de percelen zijn gelegen waarop de exploitatie of de verandering van de inrichting gebeurt of gepland is; <br />d) de vermelding of het gaat om een inrichting van : <br />i. de Staat, de Gemeenschap, het Gewest, een provincie of een door een van hen opgerichte instelling; <br />ii. een gemeente, een vereniging van gemeenten of een openbaar centrum voor maatschappelijk welzijn; <br />iii. een niet hier voren genoemde openbare instelling.<br />2° de gevraagde wijziging of aanvulling van de opgelegde vergunningsvoorwaarden;<br />3° de motivering van de gevraagde wijziging of aanvulling;<br />4° het voorwerp en de datum van de gedane meldingen, evenals een afschrift van eerdere beslissingen over vergunningsaanvragen die werden ingediend voor de exploitatie, de lozing van afvalwaters, de verwerking van afvalstoffen, de winning van grondwater of voor de bescherming van grondwater met betrekking tot de inrichting of in voorkomend geval de datum waarop alsmede de overheid bij wie dergelijke vergunning(en) werd(en) aangevraagd.<br /><br />Indien het gaat om een ambtshalve beslissing inzake een inrichting in haar geheel of waarvan een onderdeel, aangeduid is met de letter X in de vierde kolom van de indelingslijst, of een inrichting die is ingedeeld in rubriek 2.3.11 van de indelingslijst, met uitzondering van wat betrekking heeft op het inert afval, afval uit de winning, de behandeling en de opslag van turf en het niet-gevaarlijk niet-inert afval, tenzij deze worden gestort in een afvalvoorziening van categorie A, en met uitzondering van de afvalvoorzieningen vermeld in artikel 5.2.6.10.1, § 3, van titel II van het VLAREM, wordt het voornemen door de bevoegde overheid omschreven in een brief aan de exploitant, met vermelding van wat bepaald werd in het eerste lid, punt 1°,2° en 3°. <br /><br />§ 4. Tenzij het gaat om een ambtshalve beslissing, gelden met betrekking tot de adviesverlening, de uitspraak, de stilzwijgende weigering en de bekendmaking volgend op een verzoek, bedoeld in § 1, de volgende bepalingen:<br /><br />1° wanneer de bevoegde overheid de Vlaamse minister is:<br /><br />a) adviesverlening:<br />de Vlaamse minister of de daartoe gemachtigde ambtenaar van de afdeling bevoegd voor milieuvergunningen stuurt een afschrift van het verzoek, bedoeld in § 1, nadat dit ontvankelijk en volledig werd bevonden, naar de gewestelijke milieuvergunningscommissie met verzoek om advies;<br />de overheidsorganen die overeenkomstig artikel 20 advies dienen te verlenen alsmede de gewestelijke milieuvergunningscommissie, brengen hun advies uit overeenkomstig de bepalingen van de hoofdstukken VI en VII; de voorzitter en de secretaris van de commissie voeren de hen door artikel 27 en 28 toebedeelde opdrachten uit;<br /><br />b) uitspraak:<br />binnen een termijn van vier maanden te rekenen vanaf de datum van verzending van het verzoek, bedoeld in § 1, doet de Vlaamse minister hierover uitspraak;<br /><br />c) bekendmaking:<br />de Vlaamse minister of de gemachtigde ambtenaar, bedoeld in a), stuurt binnen een termijn van tien kalenderdagen na de datum van de beslissing, deze beslissing of een eensluidend verklaard afschrift ervan per ter post aangetekende zending met de opdracht tot bekendmaking ervan naar de bevoegde burgemeester;<br /><br />de burgemeester maakt de beslissing bekend overeenkomstig hoofdstuk IX;<br /><br />de Vlaamse minister of de gemachtigde ambtenaar, bedoeld in a), stuurt dezelfde dag als tot de verzending, bedoeld in het eerste lid, wordt overgegaan, per ter post aangetekende zending of bij afgifte tegen ontvangstbewijs een voor eensluidend verklaard afschrift van de beslissing ter kennisgeving naar:<br />- de gewestelijke milieuvergunningscommissie;<br />- de gouverneur alsmede de bestendige deputatie van de provincieraad van de provincie waartoe de percelen van de inrichting behoren;<br />- het college, de commissie, het comité, de overheidsorganen, diensten en maatschappijen genoemd in artikel 35, 5°, c);<br /><br />d) stilzwijgende weigering:<br />als de Vlaamse minister binnen een termijn van vier maanden, te rekenen vanaf de datum van verzending van het verzoek, bedoeld in § 1, geen uitspraak heeft gedaan, wordt de aangevraagde wijziging en/of aanvulling van vergunningsvoorwaarden geacht te zijn geweigerd;<br /><br />de Vlaamse minister of de gemachtigde ambtenaar, bedoeld in a), licht binnen een termijn van tien kalenderdagen na het verstrijken van de in het eerste lid vermelde termijn de aanvrager en de exploitant in over voormelde stilzwijgende weigering;<br /><br />de Vlaamse minister stuurt een eensluidend afschrift van het in het tweede lid bedoelde schrijven, bedoeld in het tweede lid, ter kennisgeving aan de bevoegde burgemeester alsmede aan de instanties genoemd in c), derde lid;<br /><br />2° wanneer de bevoegde overheid de bestendige deputatie van de provincieraad is: artikel 35, 3°, 4°, 5° en 6° met dien verstande dat de behandelingstermijn aanvangt op de datum van verzending van het in § 1 bedoelde verzoek in plaats van op de datum van verklaring tot ontvankelijkheid en volledigheid van de vergunningsaanvraag;<br />3° wanneer de bevoegde overheid het College van Burgemeester en Schepenen is: artikel 36, 3°, 4°, 5° en 6° met dien verstande dat de behandelingstermijn aanvangt op de datum van verzending van het in § 1 bedoelde verzoek in plaats van op de datum van verklaring tot ontvankelijkheid en volledigheid van de vergunningsaanvraag. <br /><br />Wanneer het in § 1 bedoelde verzoek niet uitgaat van de exploitant, wordt deze laatste door de in § 1 bedoelde overheid hiervan per ter post aangetekende zending in kennis gesteld binnen een termijn van tien kalenderdagen na ontvangst van het verzoek.<br /><br />Wanneer het om een ambtshalve beslissing gaat inzake een in § 3, tweede lid, bedoelde inrichting, wordt de exploitant door de in § 1 bedoelde overheid in een vroeg stadium, per ter post aangetekende zending in kennis gesteld van het voornemen van de overheid. <br /><br />§ 4bis. Er wordt een openbaar onderzoek georganiseerd overeenkomstig de procedure, bepaald in artikel 17, 19, 1° en 3°, artikel 35, 2°, c) en d) en artikel 36, 2°, b) en c), tenzij de ambtshalve beslissing een inrichting betreft die niet in § 3, tweede lid, is vermeld. In dit geval is evenwel de schriftelijke kennisgeving van eigenaars en gebruikers, bedoeld in artikel 17, § 3, 1°, niet vereist<br /><br /><br />Als een openbaar onderzoek is vereist, stuurt de overheid die bevoegd is voor de wijziging of aanvulling van de vergunningsvoorwaarden, het verzoek of een brief waarin het voornemen wordt geuit samen met de bijlagen aan de bevoegde burgemeester met de opdracht tot het instellen van een openbaar onderzoek. De bevoegde overheid doet dit op de dag van de verzending naar de exploitant van het verzoek of het voornemen, of op de dag dat de ontvangstmelding van het verzoek van de exploitant aan die exploitant wordt gestuurd.<br /><br />In afwijking van artikel 17, § 2, eerste lid, wordt de bekendmaking opgesteld overeenkomstig het model dat als bijlage 8bis bij dit besluit is gevoegd. De volgorde en formulering van de titels en de vragen in het model, moeten nageleefd worden. Bij meerkeuzevragen kan het voldoende zijn alleen het toepasselijke antwoord te vermelden.<br /><br />In afwijking van artikel 17, § 2, derde lid, 35, 2°, c), en 36, 2°, b), vangt de daarin vermelde termijn aan de dag na de datum van ontvangst van het verzoek of van de kennisgeving van het voornemen tot wijziging of aanvulling van de voorwaarden.<br /><br />De uitspraak over een verzoek tot wijziging of aanvulling van de opgelegde voorwaarden en de ambtshalve beslissing indien het een inrichting vermeld in § 3, tweede lid betreft, dient te voldoen aan de bepaling en van artikel 30, § 1, 3°, 5° en 8°.<br /><br />De bekendmaking, vermeld in § 4, 1°, c), wordt, in afwijking van hoofdstuk IX, opgesteld overeenkomstig het model dat als bijlage 10bis bij dit besluit is gevoegd. De volgorde en formulering van de titels en de vragen in het model moeten nageleefd worden. Bij meerkeuzevragen kan het voldoende zijn alleen het toepasselijke antwoord te vermelden. <br /><br />§ 5. Wanneer de in § 1 bedoelde beslissing ambtshalve wordt genomen, wordt deze bekendgemaakt overeenkomstig, naargelang de inrichting, de bepalingen van artikel 45, § 4, 1°, c),  van artikel 35, 5° of van artikel 36, 5°.<br /><br />§ 6. Indien na aanmaning door de Vlaamse minister de bevoegde overheid niet, of onvolkomen optreedt, of indien er ernstig gevaar dreigt voor de mens en het leefmilieu, kan de Vlaamse minister de vergunningsvoorwaarden ambtshalve wijzigen of aanvullen.<br /><br />Deze beslissing wordt bekendgemaakt overeenkomstig de bepalingen van § 5.
+§ 1. De bevoegde overheid kan bij gemotiveerde beslissing de in de lopende vergunning(en) opgelegde voorwaarden wijzigen of aanvullen:<br />1° ambtshalve;<br />2° op verzoek van de in artikel 20 vermelde adviesorganen in zoverre deze bevoegd zijn voor adviesverlening met betrekking tot bedoelde inrichting;<br />3° op verzoek van de exploitant;<br />4° op verzoek van elke natuurlijke persoon of rechtspersoon die tengevolge van de vestiging en de exploitatie van de inrichting rechtstreeks hinder kan ondervinden;<br />5° op verzoek van elke rechtspersoon die zich de bescherming tot doel heeft gesteld van het leefmilieu dat door de hinder tengevolge van de vestiging en de exploitatie van de inrichting kan worden getroffen.<br /><br />Voor de toepassing van dit artikel wordt onder "bevoegde overheid" verstaan de overheid die in eerste aanleg bevoegd is.<br /><br />§ 2. Het verzoek, bedoeld in § 1, dient per post aangetekende zending naar de overheid, bevoegd in § 1, gestuurd te worden. <br /><br />§ 3. Behoudens wanneer het gaat om een ambtshalve beslissing, dient het in § 1 bedoelde verzoek te vermelden : <br />1° de volgende gegevens inzake de identificatie van de inrichting :<br />a) - indien het om een natuurlijke persoon gaat : de naam, voornaam, hoedanigheid, het adres, telefoon-, R.S.Z.- en B.T.W.-nummer van de exploitant;<br />- indien het om een rechtspersoon gaat : de benaming, de rechtsvorm en de maatschappelijke zetel, telefoon-, R.S.Z.- en B.T.W.-nummer van de exploitant, evenals de naam, de hoedanigheid van de verantwoordelijke persoon die de vergunningsaanvraag namens de exploitant ondertekent; <br />b) de juridische grondslag op basis waarvan de exploitant de beschikking heeft over de bedoelde inrichting(en) alsmede het eigendomsstatuut van de percelen waarop de exploitatie gebeurt of is gepland; <br />c) het adres van de inrichting die het voorwerp uitmaakt van de vergunningsaanvraag evenals de gemeenten en provincies waarin de percelen zijn gelegen waarop de exploitatie of de verandering van de inrichting gebeurt of gepland is; <br />d) de vermelding of het gaat om een inrichting van : <br />i. de Staat, de Gemeenschap, het Gewest, een provincie of een door een van hen opgerichte instelling; <br />ii. een gemeente, een vereniging van gemeenten of een openbaar centrum voor maatschappelijk welzijn; <br />iii. een niet hier voren genoemde openbare instelling.<br />2° de gevraagde wijziging of aanvulling van de opgelegde vergunningsvoorwaarden;<br />3° de motivering van de gevraagde wijziging of aanvulling;<br />4° het voorwerp en de datum van de gedane meldingen, evenals een afschrift van eerdere beslissingen over vergunningsaanvragen die werden ingediend voor de exploitatie, de lozing van afvalwaters, de verwerking van afvalstoffen, de winning van grondwater of voor de bescherming van grondwater met betrekking tot de inrichting of in voorkomend geval de datum waarop alsmede de overheid bij wie dergelijke vergunning(en) werd(en) aangevraagd.<br /><br />Indien het gaat om een ambtshalve beslissing inzake een inrichting in haar geheel of waarvan een onderdeel, aangeduid is met de letter X in de vierde kolom van de indelingslijst, of een inrichting die is ingedeeld in rubriek 2.3.11 van de indelingslijst, met uitzondering van wat betrekking heeft op het inert afval, afval uit de winning, de behandeling en de opslag van turf en het niet-gevaarlijk niet-inert afval, tenzij deze worden gestort in een afvalvoorziening van categorie A, en met uitzondering van de afvalvoorzieningen vermeld in artikel 5.2.6.10.1, § 3, van titel II van het VLAREM, wordt het voornemen door de bevoegde overheid omschreven in een brief aan de exploitant, met vermelding van wat bepaald werd in het eerste lid, punt 1°,2° en 3°. <br /><br />§ 4. Tenzij het gaat om een ambtshalve beslissing, gelden met betrekking tot de adviesverlening, de uitspraak, de stilzwijgende weigering en de bekendmaking volgend op een verzoek, bedoeld in § 1, de volgende bepalingen:<br />1° ...<br />2° wanneer de bevoegde overheid de bestendige deputatie van de provincieraad is: artikel 35, 3°, 4°, 5° en 6° met dien verstande dat de behandelingstermijn aanvangt op de datum van verzending van het in § 1 bedoelde verzoek in plaats van op de datum van verklaring tot ontvankelijkheid en volledigheid van de vergunningsaanvraag;<br />3° wanneer de bevoegde overheid het College van Burgemeester en Schepenen is: artikel 36, 3°, 4°, 5° en 6° met dien verstande dat de behandelingstermijn aanvangt op de datum van verzending van het in § 1 bedoelde verzoek in plaats van op de datum van verklaring tot ontvankelijkheid en volledigheid van de vergunningsaanvraag. <br /><br />Wanneer het in § 1 bedoelde verzoek niet uitgaat van de exploitant, wordt deze laatste door de in § 1 bedoelde overheid hiervan per ter post aangetekende zending in kennis gesteld binnen een termijn van tien kalenderdagen na ontvangst van het verzoek.<br /><br />Wanneer het om een ambtshalve beslissing gaat inzake een in § 3, tweede lid, bedoelde inrichting, wordt de exploitant door de in § 1 bedoelde overheid in een vroeg stadium, per ter post aangetekende zending in kennis gesteld van het voornemen van de overheid. <br /><br />§ 4bis. Er wordt een openbaar onderzoek georganiseerd overeenkomstig de procedure, bepaald in artikel 17, 19, 1° en 3°, artikel 35, 2°, c) en d) en artikel 36, 2°, b) en c), tenzij de ambtshalve beslissing een inrichting betreft die niet in § 3, tweede lid, is vermeld. In dit geval is evenwel de schriftelijke kennisgeving van eigenaars en gebruikers, bedoeld in artikel 17, § 3, 1°, niet vereist<br /><br /><br />Als een openbaar onderzoek is vereist, stuurt de overheid die bevoegd is voor de wijziging of aanvulling van de vergunningsvoorwaarden, het verzoek of een brief waarin het voornemen wordt geuit samen met de bijlagen aan de bevoegde burgemeester met de opdracht tot het instellen van een openbaar onderzoek. De bevoegde overheid doet dit op de dag van de verzending naar de exploitant van het verzoek of het voornemen, of op de dag dat de ontvangstmelding van het verzoek van de exploitant aan die exploitant wordt gestuurd.<br /><br />In afwijking van artikel 17, § 2, eerste lid, wordt de bekendmaking opgesteld overeenkomstig het model dat als bijlage 8bis bij dit besluit is gevoegd. De volgorde en formulering van de titels en de vragen in het model, moeten nageleefd worden. Bij meerkeuzevragen kan het voldoende zijn alleen het toepasselijke antwoord te vermelden.<br /><br />In afwijking van artikel 17, § 2, derde lid, 35, 2°, c), en 36, 2°, b), vangt de daarin vermelde termijn aan de dag na de datum van ontvangst van het verzoek of van de kennisgeving van het voornemen tot wijziging of aanvulling van de voorwaarden.<br /><br />De uitspraak over een verzoek tot wijziging of aanvulling van de opgelegde voorwaarden en de ambtshalve beslissing indien het een inrichting vermeld in § 3, tweede lid betreft, dient te voldoen aan de bepaling en van artikel 30, § 1, 3°, 5° en 8°.<br /><br />De bekendmaking, vermeld in § 4, 1°, c), wordt, in afwijking van hoofdstuk IX, opgesteld overeenkomstig het model dat als bijlage 10bis bij dit besluit is gevoegd. De volgorde en formulering van de titels en de vragen in het model moeten nageleefd worden. Bij meerkeuzevragen kan het voldoende zijn alleen het toepasselijke antwoord te vermelden. <br /><br />§ 5. Wanneer de in § 1 bedoelde beslissing ambtshalve wordt genomen, wordt deze bekendgemaakt overeenkomstig, naargelang de inrichting, de bepalingen van artikel 45, § 4, 1°, c),  van artikel 35, 5° of van artikel 36, 5°.<br /><br />§ 6. Indien na aanmaning door de Vlaamse minister de bevoegde overheid niet, of onvolkomen optreedt, of indien er ernstig gevaar dreigt voor de mens en het leefmilieu, kan de Vlaamse minister de vergunningsvoorwaarden ambtshalve wijzigen of aanvullen.<br /><br />Deze beslissing wordt bekendgemaakt overeenkomstig de bepalingen van § 5.
 
 ## HOOFDSTUK XII VERVAL, SCHORSING EN OPHEFFING VAN DE VERGUNNING
 
@@ -416,11 +416,11 @@ Het in artikel 51 bedoelde beroep wordt bekendgemaakt en behandeld als volgt:<br
 
 ### ART. 54.
 
-§ 1. Tegen een beslissing van het College van Burgemeester en Schepenen, waarbij de vergunningsvoorwaarden overeenkomstig de bepalingen van artikel 45 werden gewijzigd of aangevuld, kan beroep worden aangetekend bij de Bestendige Deputatie van de provincieraad, door de personen en instanties vermeld in artikel 49, § 1.<br /><br />Tegen een beslissing van de Bestendige Deputatie van de provincieraad, waarbij de vergunningsvoorwaarden overeenkomstig de bepalingen van artikel 45 in eerste aanleg werden gewijzigd of aangevuld, kan beroep worden aangetekend bij de Vlaamse regering, vertegenwoordigd door de Vlaamse minister, door de personen en instanties vermeld in artikel 49, § 1 alsmede door het College van Burgemeester en Schepenen van de gemeente waarin de inrichting is gelegen.<br /><br />§ 2. Het in § 1 bedoelde beroep dient bij de bevoegde overheid ingediend bij ter post aangetekend schrijven binnen een termijn van tien kalenderdagen:<br />1° voor de in artikel 49, § 1, 1° en 3° vermelde personen en instanties, na de dag van verzending of afgifte van het voor eensluidend verklaard afschrift van de beslissing overeenkomstig het bepaalde in artikel 45, §§ 4 en 5;<br />2° voor de in artikel 49 § 1, 2° vermelde gouverneur van de provincie:<br />- na de dag dat de bestreden beslissing werd getroffen, wanneer deze laatste door de Bestendige Deputatie van de provincieraad is genomen;<br />- na de dag van verzending of afgifte van het voor eensluidend verklaard afschrift van de beslissing, wanneer deze laatste door het College van Burgemeester en Schepenen is genomen;<br />3° voor het College van Burgemeester en Schepenen:<br />- na de dag van verzending of afgifte van het voor eensluidend verklaard afschrift van de beslissing, genomen door de Bestendige Deputatie van de provincieraad;<br />4° voor de in artikel 49, § 1, 4° vermelde personen, na de dag dat tot de in artikel 31 bedoelde aanplakking van de bekendmaking is overgegaan;<br />5° indien het beroep betrekking heeft op een stilzwijgende weigering tot wijziging of aanvulling van de opgelegde voorwaarden, na de dag van de stilzwijgende weigering.<br /><br />Bij het beroepsschrift dient gevoegd een kopie van het in artikel 31, § 3 of artikel 31, § 4 bedoelde attest, behoudens wanneer het beroep betrekking heeft op een stilzwijgende weigering; in dit laatste geval dient een kopie bijgevoegd van het bewijs van de per post aangetekende verzending of van de afgifte van de aanvraag tot wijziging of aanvulling van de milieuvergunningsvoorwaarden.<br /><br />§ 3. Het in § 1 bedoelde beroep schorst de bestreden beslissing ongeacht de persoon of instantie die het beroep indient.<br /><br />§ 4. Het in § 1 bedoelde beroep wordt bekendgemaakt en behandeld als volgt:<br />1° onderzoek ontvankelijkheid:<br />dit onderzoek geschiedt overeenkomstig de bepalingen van artikel 50, 1°, wanneer de bestreden beslissing door het College van Burgemeester en Schepenen is getroffen respectievelijk van artikel 52, 1°, wanneer de betreden beslissing door de Bestendige Deputatie van de provincieraad is getroffen;<br />2° adviesverlening:<br />a) de bevoegde overheid of de respectieve gemachtigde ambtenaar zendt op de dag van de verzending van het in artikel 50, 1°, c) en artikel 52, 1°, c) bedoelde schrijven, een afschrift van het ontvankelijk bevonden beroep aan de adviesverlenende overheidsorganen die overeenkomstig artikel 20 advies dienen te verlenen met verzoek om advies;<br />b) de in sub a) vermelde adviesverlenende overheidsorganen brengen in dit geval hun advies uit binnen een termijn van tien kalenderdagen na ontvangst van het dossier;<br />3° uitspraak:<br />binnen een termijn van twee maanden te rekenen vanaf de datum van ontvangst van het beroep door de bevoegde overheid, doet deze laatste uitspraak over het beroep;<br />4° bekendmaking:<br />deze geschiedt overeenkomstig de bepalingen van artikel 50, 4° wanneer de uitspraak over het beroep door de Bestendige Deputatie van de provincieraad is genomen of van artikel 52, 4° wanneer de uitspraak over het beroep door de Vlaamse minister is genomen.
+§ 1. Tegen een beslissing van het College van Burgemeester en Schepenen, waarbij de vergunningsvoorwaarden overeenkomstig de bepalingen van artikel 45 werden gewijzigd of aangevuld, kan beroep worden aangetekend bij de Bestendige Deputatie van de provincieraad, door de personen en instanties vermeld in artikel 49, § 1.<br /><br />Tegen een beslissing van de Bestendige Deputatie van de provincieraad, waarbij de vergunningsvoorwaarden overeenkomstig de bepalingen van artikel 45 in eerste aanleg werden gewijzigd of aangevuld, kan beroep worden aangetekend bij de Vlaamse regering, vertegenwoordigd door de Vlaamse minister, door de personen en instanties vermeld in artikel 49, § 1 alsmede door het College van Burgemeester en Schepenen van de gemeente waarin de inrichting is gelegen.<br /><br />§ 2. Het in § 1 bedoelde beroep dient bij de bevoegde overheid ingediend bij ter post aangetekend schrijven binnen een termijn van dertig dagen:<br />1° voor de in artikel 49, § 1, 1° en 3° vermelde personen en instanties, na de dag van verzending of afgifte van het voor eensluidend verklaard afschrift van de beslissing overeenkomstig het bepaalde in artikel 45, §§ 4 en 5;<br />2° voor de in artikel 49 § 1, 2° vermelde gouverneur van de provincie:<br />- na de dag dat de bestreden beslissing werd getroffen, wanneer deze laatste door de Bestendige Deputatie van de provincieraad is genomen;<br />- na de dag van verzending of afgifte van het voor eensluidend verklaard afschrift van de beslissing, wanneer deze laatste door het College van Burgemeester en Schepenen is genomen;<br />3° voor het College van Burgemeester en Schepenen:<br />- na de dag van verzending of afgifte van het voor eensluidend verklaard afschrift van de beslissing, genomen door de Bestendige Deputatie van de provincieraad;<br />4° voor de in artikel 49, § 1, 4° vermelde personen, na de dag dat tot de in artikel 31 bedoelde aanplakking van de bekendmaking is overgegaan;<br />5° indien het beroep betrekking heeft op een stilzwijgende weigering tot wijziging of aanvulling van de opgelegde voorwaarden, na de dag van de stilzwijgende weigering.<br /><br />Bij het beroepsschrift dient gevoegd een kopie van het in artikel 31, § 3 of artikel 31, § 4 bedoelde attest, behoudens wanneer het beroep betrekking heeft op een stilzwijgende weigering; in dit laatste geval dient een kopie bijgevoegd van het bewijs van de per post aangetekende verzending of van de afgifte van de aanvraag tot wijziging of aanvulling van de milieuvergunningsvoorwaarden.<br /><br />§ 3. Het in § 1 bedoelde beroep schorst de bestreden beslissing ongeacht de persoon of instantie die het beroep indient.<br /><br />§ 4. Het in § 1 bedoelde beroep wordt bekendgemaakt en behandeld als volgt:<br />1° onderzoek ontvankelijkheid:<br />dit onderzoek geschiedt overeenkomstig de bepalingen van artikel 50, 1°, wanneer de bestreden beslissing door het College van Burgemeester en Schepenen is getroffen respectievelijk van artikel 52, 1°, wanneer de betreden beslissing door de Bestendige Deputatie van de provincieraad is getroffen;<br />2° adviesverlening:<br />a) de bevoegde overheid of de respectieve gemachtigde ambtenaar zendt op de dag van de verzending van het in artikel 50, 1°, c) en artikel 52, 1°, c) bedoelde schrijven, een afschrift van het ontvankelijk bevonden beroep aan de adviesverlenende overheidsorganen die overeenkomstig artikel 20 advies dienen te verlenen met verzoek om advies;<br />b) de in sub a) vermelde adviesverlenende overheidsorganen brengen in dit geval hun advies uit binnen een termijn van tien kalenderdagen na ontvangst van het dossier;<br />3° uitspraak:<br />binnen een termijn van twee maanden te rekenen vanaf de datum van ontvangst van het beroep door de bevoegde overheid, doet deze laatste uitspraak over het beroep;<br />4° bekendmaking:<br />deze geschiedt overeenkomstig de bepalingen van artikel 50, 4° wanneer de uitspraak over het beroep door de Bestendige Deputatie van de provincieraad is genomen of van artikel 52, 4° wanneer de uitspraak over het beroep door de Vlaamse minister is genomen.
 
 ### ART. 55.
 
-§ 1. Tegen een beslissing getroffen overeenkomstig de bepalingen van artikel 47 door het College Van Burgemeester en Schepenen of door de Bestendige Deputatie van de provincieraad kan door de exploitant beroep bij de Vlaamse regering, vertegenwoordigd door de Vlaamse minister, worden ingediend.<br /><br />§ 2. Het in § 1 bedoelde beroep dient bij de Vlaamse regering, vertegenwoordigd door de Vlaamse minister, ingediend bij ter post aangetekend schrijven binnen een termijn van tien kalenderdagen na de dag van verzending of afgifte van het voor eensluidend verklaard afschrift van de beslissing overeenkomstig artikel 47.<br /><br />Bij het beroepsschrift dient gevoegd een [kopie  <span class="reference">(verv. B.V.R. 23 april 2004, art. 3, I: 31 maart 2004)</span> ] van het in artikel 31, § 3 of artikel 31, § 4 bedoelde attest.<br /><br />§ 3. Het in § 1 bedoelde beroep schorst de bestreden beslissing.<br /><br />§ 4. Het in § 1 bedoelde beroep wordt behandeld volgens de volgende modaliteiten:<br /><br />1° het onderzoek naar de ontvankelijkheid geschiedt overeenkomstig de bepalingen van artikel 52, 1°;<br /><br />2° de adviesverlening, de uitspraak alsmede de bekendmaking geschiedt overeenkomstig de bepalingen van artikel 54, § 4, 2°, 3° en 4°.
+§ 1. Tegen een beslissing getroffen overeenkomstig de bepalingen van artikel 47 door het College Van Burgemeester en Schepenen of door de Bestendige Deputatie van de provincieraad kan door de exploitant beroep bij de Vlaamse regering, vertegenwoordigd door de Vlaamse minister, worden ingediend.<br /><br />§ 2. Het in § 1 bedoelde beroep dient bij de Vlaamse regering, vertegenwoordigd door de Vlaamse minister, ingediend bij ter post aangetekend schrijven binnen een termijn van dertig dagen na de dag van verzending of afgifte van het voor eensluidend verklaard afschrift van de beslissing overeenkomstig artikel 47.<br /><br />Bij het beroepsschrift dient gevoegd een kopie van het in artikel 31, § 3 of artikel 31, § 4 bedoelde attest.<br /><br />§ 3. Het in § 1 bedoelde beroep schorst de bestreden beslissing.<br /><br />§ 4. Het in § 1 bedoelde beroep wordt behandeld volgens de volgende modaliteiten:<br />1° het onderzoek naar de ontvankelijkheid geschiedt overeenkomstig de bepalingen van artikel 52, 1°;<br />2° de adviesverlening, de uitspraak alsmede de bekendmaking geschiedt overeenkomstig de bepalingen van artikel 54, § 4, 2°, 3° en 4°.
 
 ## HOOFDSTUK XIV [MILIEUVERGUNNINGEN EN STEDENBOUWKUNDIGE VERGUNNINGEN: UNIEK GEMEENTELIJK LOKET EN KOPPELING (verv. BVR 18 september 2009, art. 14)]
 
@@ -1204,7 +1204,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
-			<p>A, E, O</p>
+			<p>A, N, O</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>N</p>
@@ -1230,7 +1230,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
-			<p>E, O</p>
+			<p>N, O</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>N</p>
@@ -1252,7 +1252,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
 			<p><u>Opslag en nuttige toepassing van afvalstoffen</u></p>
 
-			<p>Alle inrichtingen onder 2.2. zijn inrichtingen waarin handelingen gebeuren waardoor nuttige toepassing van althans een gedeelte van de afvalstoffen mogelijk wordt. Het verbranden van afvalstoffen al of niet met terugwinning van energie en/of stoffen alsook het reinigen van recipiënten door uitbranden zijn ingedeeld onder 2.3.</p>
+			<p>Alle inrichtingen onder 2.2. zijn inrichtingen waarin handelingen gebeuren waardoor nuttige toepassing van althans een gedeelte van de afvalstoffen mogelijk wordt. Het verbranden van afvalstoffen al of niet met terugwinning van <!--?xml:namespace prefix = st1         ns = "urn:schemas-microsoft-com:office:smarttags" /-->energie en/of stoffen alsook het reinigen van recipiënten door uitbranden zijn ingedeeld onder 2.3.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -2294,7 +2294,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>&nbsp; &nbsp;2° opslag en/of composteerruimte van meer dan 25 m<sup>3</sup> tot en met 2.000 m<sup>3</sup></p>
+			<p>&nbsp;&nbsp; 2° opslag en/of composteerruimte van meer dan 25 m<sup>3</sup> tot en met 2.000 m<sup>3</sup></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -2684,9 +2684,9 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>2.2.4</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Dierlijke bijproducten die worden beschouwd als afvalstoffen zoals bedoeld in het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen.</p>
+			<p>Dierlijke bijproducten niet bestemd voor menselijke consumptie die worden beschouwd als afvalstoffen zoals bedoeld in het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen.</p>
 
-			<p>Voor dierlijke bijproducten, andere dan afvalstoffen: zie inzonderheid indelingsrubriek 45.18. De be- en verwerking van dierlijke mest valt onder de toepassing van de rubriek 28.3.</p>
+			<p>Voor dierlijke bijproducten niet bestemd voor menselijke consumptie, andere dan afvalstoffen: zie inzonderheid indelingsrubriek 45.18. De be- en verwerking van dierlijke mest valt onder de toepassing van de rubriek 28.3.</p>
 
 			<p>Voor de toepassing van deze subrubriek gelden de volgende definities conform de EU-verordening 1774/2002 van 3 oktober 2002 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten:</p>
 
@@ -3392,7 +3392,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>&nbsp;&nbsp; 2° meer dan 1 ton</p>
+			<p>&nbsp; &nbsp;2° meer dan 1 ton</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -4282,7 +4282,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 
 			<p>&nbsp;&nbsp; - onbehandeld houtafval, met een nominaal thermisch vermogen van:</p>
 
-			<p>&nbsp;&nbsp;&nbsp; &nbsp;1) tot en met 5MW</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp; 1) tot en met 5MW</p>
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp; 2) meer dan 5 MW</p>
 			</td>
@@ -4722,7 +4722,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 
 			<p>&nbsp;&nbsp; - onbehandeld houtafval, met een nominaal thermisch vermogen van:</p>
 
-			<p>&nbsp;&nbsp;&nbsp; &nbsp;1) tot en met 5MW</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp; 1) tot en met 5MW</p>
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp; 2) meer dan 5 MW</p>
 			</td>
@@ -6128,7 +6128,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
-			<p>E, G, O, X</p>
+			<p>N, G, O, X</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
@@ -14693,6 +14693,11 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p><em>De inrichtingen voor elektriciteitsproductie, vallend onder de toepassing van rubriek 15.5 en rubriek 19.8, zijn niet ingedeeld in onderhavige rubriek 12.1.</em></p>
 
 			<p><em>De in deze rubriek vermelde gebieden betreffen de gebieden zoals bepaald door de stedenbouwkundige voorschriften van een goedgekeurd plan van aanleg, een ruimtelijk uitvoeringsplan of een behoorlijk vergunde, niet vervallen verkavelingsvergunning.</em></p>
+
+			<p><em>Als de bestemming is vastgelegd in een ruimtelijk uitvoeringsplan, wordt onder « industriegebied » de categorie van gebiedsaanduiding « bedrijvigheid » verstaan, met uitzondering van de volgende gebiedsaanduidingen die onder deze categorie vallen :<br>
+			a) specifiek regionaal bedrijventerrein voor kantoren;<br>
+			b) specifiek regionaal bedrijventerrein voor kleinhandel;<br>
+			c) buffer voor bedrijventerreinen.</em></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -16464,7 +16469,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp; 1° 1 m<sup>3</sup>/h tot en met 10 m<sup>3</sup>/h</p>
+			<p>&nbsp;&nbsp; 1° 1 Nm<sup>3</sup>/h tot en met 10 Nm<sup>3</sup>/h</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -16490,7 +16495,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp; 2° meer dan 10 m<sup>3</sup>/h tot en met 100 m<sup>3</sup>/h</p>
+			<p>&nbsp;&nbsp; 2° meer dan 10 Nm<sup>3</sup>/h tot en met 100 Nm<sup>3</sup>/h</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -16516,7 +16521,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp; 3° meer dan 100 m<sup>3</sup>/h</p>
+			<p>&nbsp;&nbsp; 3° meer dan 100 Nm<sup>3</sup>/h</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -19292,8 +19297,6 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 
 ### rubriek 19
 
-<p>&nbsp;</p>
-
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
@@ -20421,17 +20424,19 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 
 			<p>&nbsp;&nbsp; d) opslagplaatsen van hout e.d. met een capaciteit van:</p>
 
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) wanneer de inrichting volledig is gelegen in een industriegebied:</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1° wanneer de inrichting volledig is gelegen in een industriegebied:</p>
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i) meer dan 20 ton tot en met 200 ton of meer dan 40 tot en met 400 m<sup>3</sup> in een lokaal</p>
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii) meer dan 100 ton tot en met 800 ton of meer dan 200 m<sup>3</sup> tot en met 1 600 m<sup>3</sup> in open lucht</p>
 
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied:</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2° wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied:</p>
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i) meer dan 20 ton tot en met 100 ton of meer dan 40 tot en met 200 m<sup>3</sup> in een lokaal</p>
 
-			<p>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii) meer dan 100 ton tot en met 400 ton of meer dan 200 m<sup>3</sup> tot en met 800 m<sup>3</sup> in open lucht</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii) meer dan 100 ton tot en met 400 ton of meer dan 200 m<sup>3</sup> tot en met 800 m<sup>3</sup> in open lucht</p>
+
+			<p>&nbsp;</p>
 
 			<p>2° en verder, benevens de niet-ingedeelde aanhorigheden, uitsluitend bijkomend één of meer van de volgende onderdelen omvatten:</p>
 
@@ -21007,7 +21012,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
 			<p>t) installaties voor het mechanisch behandelen van metalen met een geïnstalleerde totale drijfkracht:</p>
 
-			<p>- van 5 kW tot en met 10 kW wanneer volledig of gedeeltelijk gelegen in gebied ander dan industriegebied,</p>
+			<p>- van 5 kW tot en met 100 kW wanneer volledig of gedeeltelijk gelegen in gebied ander dan industriegebied,</p>
 
 			<p>- respectievelijk van 5 kW tot en met 200 kW wanneer volledig gelegen in industriegebied</p>
 			</td>
@@ -21114,1162 +21119,1162 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:40.05pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:40.05pt">
+			<p>Rubriek</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
 			<p>Klasse</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:57.6pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:57.6pt">
 			<p>Bemerkingen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
 			<p>Coördi-nator</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
 			<p>Audit</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
 			<p>Jaarver-slag</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
 			<p>Vlarebo</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p><strong>20.</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p><strong>Industriële inrichtingen die behoren tot de volgende categorieën, vallend onder de toepassing van de EG-richtlijn 84/360/EEG van 28 juni 1984 betreffende de bestrijding van door industriële inrichtingen veroorzaakte luchtverontreiniging</strong> (de in deze rubriek genoemde drempels hebben betrekking op de productiecapaciteit)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p><u>Energie-industrie</u> (zie ook rubriek 6)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.1.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Cokesfabriek</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>E, G, M, X, Y<sub>k</sub></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.1.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Raffinaderijen van ruwe aardolie, met uitzondering van deze waarin uitsluitend smeermiddelen uit ruwe olie worden vervaardigd (zie ook rubriek 1.1)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>E, M, X, Y<sub>k</sub></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.1.3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Installaties voor het vergassen en vloeibaar maken van steenkool of bitumineuze schisten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>E, M, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.1.4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Installaties voor het produceren van vaste brandstoffen:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.1.4.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>industrieel briketteren van steenkool en bruinkool met een jaarcapaciteit van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° 1.000 ton tot en met 10.000 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° meer dan 10.000 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.1.4.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>steenkoolwalserijen met een capaciteit van 1 ton per uur of meer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.1.4.3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>installaties voor de fabricage van steenkoolproducten en vaste rookvrije brandstof</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.1.5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Installaties voor de productie van hydro-elektrische energie met een elektrisch vermogen van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° 300 kW tot en met 500 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° meer dan 500 kW tot en met 5.000 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>3° meer dan 5.000 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.1.6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Installaties voor het opwekken van elektriciteit door middel van windenergie:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° met een elektrisch vermogen van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; a) 300 kW tot en met 500 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) meer dan 500 kW tot en met 5.000 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; c) meer dan 5.000 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° indien de activiteit betrekking heeft:</p>
 
 			<p>- op 20 windturbines of meer, of</p>
 
 			<p>- op 4 windturbines of meer, die een aanzienlijke invloed hebben of kunnen hebben op een bijzonder beschermd gebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p><u>Productie en omzetting van metalen</u></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.2.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Installaties voor het roosten, pelletiseren of sinteren van ertsen, met inbegrip van zwavelhoudend erts</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G, M, X, Y<sub>k</sub></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.2.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Installaties voor de productie van ijzer of staal (primaire en secundair smelting) met inbegrip van uitrusting voor continu-gieten met een capaciteit van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° 500 kg tot 2,5 ton per uur</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° meer dan 2,5 ton per uur</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G, M, X, Y<sub>k</sub></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.2.3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Installaties voor het smelten van ferrometalen met smeltinrichtingen met een productiecapaciteit per dag van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° 1 ton tot en met 5 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° meer dan 5 ton tot en met 20 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>3° meer dan 20 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.2.4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Installaties voor de productie en het smelten van non-ferrometalen met inbegrip van legeringen, inclusief terugwinningsproducten (affineren, vormgieten) met een smeltcapaciteit per dag van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>a) voor lood en cadmium:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; 1° 20 kg tot en met 1 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A, G, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; 2° meer dan 1 ton tot en met 4 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; 3° meer dan 4 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G, M, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>b) voor andere metalen:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; 1° 20 kg tot en met 0,5 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A, G, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; 2° meer dan 0,5 ton tot en met 20 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; 3° meer dan 20 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G, M, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.2.5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Installaties voor de winning van ruwe non-ferrometalen uit erts of concentraat met metallurgische, chemische of elektrolytische procédés</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G, M, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.2.6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Installaties voor de productie van ruw ijzer of staal (primaire of secundaire smelting), met inbegrip van continugieten, met een productiecapaciteit van 100 000 ton per jaar of meer.</p>
 
 			<p>Er kan overlapping zijn met een of meer subrubriek 20.2.2.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.2.7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Installaties voor het smelten (met inbegrip van het legeren), het (vorm)gieten, walsen (koud- en warmwalsen), het trekken van non-ferrometalen, met uitzondering van edele metalen - inclusief terugwinningsproducten (affineren, vormgieten, enz.) - met een productiecapaciteit van 50 000 ton per jaar of meer.</p>
 
 			<p>Er kan overlapping zijn met een of meer subrubrieken van de rubrieken 20 en 29.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p><u>Industrieën op het gebied van niet-metaalachtige minerale producten</u></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.3.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Installaties voor de productie van cement:</p>
 
 			<p>De in deze rubriek vermelde gebieden betreffen de gebieden zoals bepaald door de stedenbouwkundige voorschriften van een goedgekeurd plan van aanleg, een ruimtelijk uitvoeringsplan of een behoorlijk vergunde, niet vervallen verkavelingvergunning.</p>
@@ -22282,680 +22287,680 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 
 			<p>- buffer voor bedrijventerreinen.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° inrichtingen voor de productie van cement en kalk door middel van draaiovens met een geïnstalleerde totale drijfkracht:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; a) 1) 5 kW tot en met 200 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) 5 kW tot en met 100 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) 1) meer dan 200 kW tot en met 1.000 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp;&nbsp;&nbsp; 2) meer dan 100 kW tot en met 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; c) 1) meer dan 1.000 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) meer dan 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° installaties voor de vervaardiging van cement met een productiecapaciteit van 150.000 ton per jaar of meer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.3.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Inrichtingen voor productie en omzetting van asbestproducten (zie ook rubriek 30.6):</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>a) industriële activiteiten waarbij asbest wordt gebruikt, met een geïnstalleerde totale drijfkracht van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; 1° tot en met 200 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; 2° meer dan 200 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>b) fabricage van asbestcement niet begrepen in sub d) hierna</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>c) productie van asbestpapier of asbestkarton niet begrepen in sub d) hierna</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>d) installaties voor de winning van asbest en de fabricage van asbestproducten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G, M, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>e) installaties voor de behandeling en de verwerking van asbest en asbesthoudende producten:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; 1° voor producten van asbestcement, met een jaarproductie van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - minder dan 10.000 ton eindproducten</p>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) minder dan 10.000 ton eindproducten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A, G</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 10.000 ton eindproducten en meer</p>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) 10.000 ton eindproducten en meer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; 2° voor remvoeringen, met een jaarproductie van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - minder dan 25 ton eindproducten</p>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) &nbsp;minder dan 25 ton eindproducten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A, G</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 25 ton eindproducten en meer</p>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) &nbsp;25 ton eindproducten en meer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; 3° alsmede - voor andere toepassingsmogelijkheden van asbest - met een gebruik van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - minder dan 100 ton per jaar</p>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) minder dan 100 ton per jaar</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A, G</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 100 ton per jaar en meer</p>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) 100 ton per jaar en meer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.3.3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Installaties voor de productie van rotsvezels en glaswol:</p>
 
 			<p>De in deze rubriek vermelde gebieden betreffen de gebieden zoals bepaald door de stedenbouwkundige voorschriften van een goedgekeurd plan van aanleg, een ruimtelijk uitvoeringsplan of een behoorlijk vergunde, niet vervallen verkavelingvergunning.</p>
@@ -22968,372 +22973,372 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 
 			<p>- buffer voor bedrijventerreinen.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° met een geïnstalleerde totale drijfkracht:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; a) 1) 5 kW tot en met 200 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) 5 kW tot en met 100 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) 1) meer dan 200 kW tot en met 1.000 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp;&nbsp;&nbsp; 2) meer dan 100 kW tot en met 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; c) 1) meer dan 1.000 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) meer dan 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° met een productiecapaciteit van 30 000 ton per jaar of meer.</p>
 
 			<p>Er is overlapping mogelijk met 1°.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.3.4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Installaties voor het vervaardigen en behandelen van glas:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° installaties voor de fabricage van glas (plat, hol en speciaal) met inbegrip van installaties voor de fabricage van glasvezels, met een smeltcapaciteit per dag van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; a) 4 ton tot en met 20 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) meer dan 20 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M, X, Y<sub>k</sub></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° installaties voor het vervaardigen en behandelen van glas (met inbegrip van glasvezels) met een productiecapaciteit van 30.000 ton per jaar of meer.</p>
 
 			<p>Er is overlapping mogelijk met 1°.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.3.5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Inrichtingen voor het fabriceren van keramische producten door middel van bakken (of verhitting), met name dakpannen, bakstenen, vuurvaste stenen, tegels, aardewerk of porselein met:</p>
 
 			<p>De in deze rubriek vermelde gebieden betreffen de gebieden zoals bepaald door de stedenbouwkundige voorschriften van een goedgekeurd plan van aanleg, een ruimtelijk uitvoeringsplan of een behoorlijk vergunde, niet vervallen verkavelingvergunning.</p>
@@ -23346,709 +23351,707 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 
 			<p>- buffer voor bedrijventerreinen.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>a) een geïnstalleerde totale drijfkracht:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; 1° a) 5 kW tot en met 200 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;b) 5 kW tot en met 100 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; 2° a) meer dan 200 kW tot en met 1.000 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp;&nbsp;&nbsp; b) meer dan 100 kW tot en met 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; 3° a) meer dan 1.000 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>N, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) meer dan 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>N, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>b) een productiecapaciteit in gewicht van meer dan 75 ton per dag en/of een ovencapaciteit van meer dan 4 m<sup>3</sup> en met een plaatsingsdichtheid per oven van meer dan 300 kg/m<sup>3</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>N, M, X, Y<sub>k</sub></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.3.6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Installaties voor het smelten van minerale stoffen, met inbegrip van installaties voor de fabricage van mineraalvezels met een smeltcapaciteit per dag van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° 10 ton tot en met 20 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° meer dan 20 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.3.7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Installaties voor de fabricage van koolstof (harde gebrande steenkool) of elektrografiet door verbranding of grafitisering</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p><u>Chemische industrie</u> (zie ook rubriek 7)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.4.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Chemische inrichtingen voor de productie van alkenen, alkeenderivaten, monomeren en polymeren, niet begrepen in rubriek 7.3:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° met een productiecapaciteit van minder dan 10 ton per jaar</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° met een productiecapaciteit van 10 ton per jaar of meer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.4.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Chemische inrichtingen voor de fabricage van organische tussenproducten, niet begrepen in rubriek 7:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° met een productiecapaciteit van minder dan 10 ton per jaar</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° met een productiecapaciteit van 10 ton per jaar of meer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.4.3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Inrichtingen voor de fabricage van anorganische chemische basisproducten, niet begrepen in rubriek 7:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° met een productiecapaciteit van minder dan 10 ton per jaar</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° met een productiecapaciteit van 10 ton per jaar of meer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p><em>Inrichtingen voor de verwijdering van giftige en gevaarlijke afvalstoffen door verbranding: zie rubriek 2.3.4</em></p>
 
 			<p><em>Inrichtingen voor behandeling van andere vaste en vloeibare afvalstoffen door verbranding: zie rubriek 2.3.4</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>20.5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p><u>Diverse industrieën</u>:</p>
 
 			<p>Inrichtingen voor de chemische fabricage van papierpap met een productiecapaciteit van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° 1.000 ton tot en met 25.000 ton per jaar</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.05pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° meer dan 25.000 ton per jaar</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -30985,6 +30988,9 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
 			<p>Vast opgestelde motoren met een totaal nominaal vermogen van:</p>
 
+			<p>Uitzondering :<br>
+			motoren met inwendige verbranding opgesteld op een bouwplaats voor de uitvoering van eigenlijke bouw, sloop- of wegenwerken zijn niet (in deze rubriek) ingedeeld.</p>
+
 			<p><em>Opmerkingen:</em></p>
 
 			<p><em>De motoren, vallend onder de toepassing van rubriek 15.5 en rubriek 19.8, zijn niet ingedeeld in onderhavige rubriek.</em></p>
@@ -31952,16 +31958,24 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>32.8.2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Watersportzones in vijvers, meren en niet-openbare waterlopen evenals inrichtingen voor watersport waar waterski-racing en jetski op regelmatige wijze worden beoefend, met uitzondering van zeebadzones</p>
+			<p>Zwemgelegenheden en watersportzones in vijvers, meren en niet-openbare waterlopen, alsook inrichtingen voor watersport waar één of meer van de volgende activiteiten op regelmatige wijze worden beoefend, met uitzondering van zeebadzones:</p>
+
+			<p>a) windsurfen</p>
+
+			<p>b) de disciplines van waterski die niet vallen onder subrubriek 32.8.3</p>
+
+			<p>c) zwemmen</p>
+
+			<p>d) duiken</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>2</p>
+			<p>3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>G</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>N</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -31978,24 +31992,16 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>32.8.3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Zwemgelegenheden en watersportzones in vijvers, meren en niet-openbare waterlopen evenals inrichtingen voor watersport waar één of meerdere van volgende activiteiten op regelmatige wijze worden beoefend, met uitzondering van zeebadzones:</p>
-
-			<p>a) windsurfen</p>
-
-			<p>b) de disciplines van waterski die niet vallen onder subrubriek 32.8.2</p>
-
-			<p>c) zwemmen</p>
-
-			<p>d) duiken</p>
+			<p>Watersportzones in vijvers, meren en niet-openbare waterlopen, alsook inrichtingen voor watersport waar waterskiracing en jetski op regelmatige wijze worden beoefend, met uitzondering van zeebadzones</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>3</p>
+			<p>2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
+			<p>G</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>N</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -35508,37 +35514,37 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
+			<p>Rubriek</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
 			<p>Klasse</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:57.6pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:57.6pt">
 			<p>Bemerkingen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
 			<p>Coördi-nator</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
 			<p>Audit</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:48.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:48.3pt">
 			<p>Jaarverslag</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
 			<p>Vlarebo</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p><strong>41.</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p><strong>Textiel </strong>(vezels, garen, wol, weefsels, breiwerk, vlechtwerk, textielwaren, kunststoffen en soortgelijke producten)</p>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p><strong>Textiek</strong><strong> </strong>(vezels, garen, wol, weefsels, breiwerk, vlechtwerk, tewtielwaren, kunststoffen en soortgelijke producten)</p>
 
 			<p>De in deze rubriek vermelde gebieden betreffen de gebieden zoals bepaald door de stedenbouwkundige voorschriften van een goedgekeurd plan van aanleg, een ruimtelijk uitvoeringsplan of een behoorlijk vergunde, niet vervallen verkavelingvergunning.</p>
 
@@ -35550,1251 +35556,1249 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 
 			<p>- buffer voor bedrijventerreinen.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>41.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Inrichtingen voor het mechanisch behandelen van textiel met een geïnstalleerde totale drijfkracht van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° a) 5 kW tot en met 200 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) 5 kW tot en met 100 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° a) meer dan 200 kW tot en met 1.000 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) meer dan 100 kW tot en met 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>3° a) meer dan 1.000 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) meer dan 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>41.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Inrichtingen voor het vervaardigen van weefsels, breiwerk, vlechtwerk, textielwaren en soortgelijke producten met een totale drijfkracht van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° a) 5 kW tot en met 200 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) 5 kW tot en met 100 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° a) meer dan 200 kW tot en met 1.000 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) meer dan 100 kW tot en met 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>3° a) meer dan 1.000 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) meer dan 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>41.3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Wolontvettingsfabrieken, wolwasserijen, alsmede het kammen en/of carboniseren van wol met een totale drijfkracht van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° a) 5 kW tot en met 200 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) 5 kW tot en met 100 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° a) meer dan 200 kW tot en met 1.000 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) meer dan 100 kW tot en met 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>3° a) meer dan 1.000 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) meer dan 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>41.4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Inrichtingen voor het chemisch reinigen, voorbehandelen en behandelen van textiel, alsmede textielveredeling (uitgezonderd de inrichtingen bedoeld in rubriek 41.9 en 46) met een totale drijfkracht van</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° a) 5 kW tot en met 200 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) 5 kW tot en met 100 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° a) meer dan 200 kW tot en met 1.000 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) meer dan 100 kW tot en met 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>3° a) meer dan 1.000 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) meer dan 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>41.5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Opslagplaats voor textiel en voor textielwaren met een capaciteit van meer dan 10 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>41.6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Inrichtingen voor het vervaardigen van tapijten met een geïnstalleerde totale drijfkracht van</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° a) 5 kW tot en met 200 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) 5 kW tot en met 100 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° a) meer dan 200 kW tot en met 1.000 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) meer dan 100 kW tot en met 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>3° a) meer dan 1.000 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) meer dan 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>41.7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Inrichtingen voor het aanbrengen van een kunststofonderlaag bij tapijten met uitzondering van de precoat voor de poolverankering en de secundaire backing van textiel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>41.8</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Inrichtingen voor het roten van vlas, hennep en dergelijke vezelstoffen</p>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>Inrichtingen voor het roten van vlas, hennep en soortgelijke vezelstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>41.9</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Productie van viscose (cellulosenatriumxanthogenaat) voor vezels, filamentgaren, film, sponsen, kunstdarmen, enz. alsmede installaties voor het produceren en bewerken van celstof met een geïnstalleerde totale drijfkracht van:</p>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>Productie van viscose (cellulosenatriumxanthogenaat) voor vezels, filamentgaren, film, sponsen, kunstdarmen, enzovoort, alsook installaties voor het produceren en bewerken van celstof met een geïnstalleerde totale drijfkracht van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>1° a) 5 kW tot en met 200 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>1° a) 5 kW tot en met 200 kW, als de inrichting volledig is gelegen in een industriegebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp; b) 5 kW tot en met 100 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>&nbsp;&nbsp; b) 5 kW tot en met 100 kW, als de inrichting volledig of gedeeltelijk is gelegen in een ander gebied dan een industriegebied ligt</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>2° a) meer dan 200 kW tot en met 1.000 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>2° a) meer dan 200 kW tot en met 1.000 kW, als de inrichting volledig in een industriegebied ligt</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp; b) meer dan 100 kW tot en met 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>&nbsp;&nbsp; b) meer dan 100 kW tot en met 500 kW, als de inrichting volledig of gedeeltelijk in een ander gebied ander dan een industriegebied ligt</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A, M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>3° a) meer dan 1.000 kW, wanneer de inrichting volledig is gelegen in een industriegebied</p>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>3° a) meer dan 1.000 kW, als de inrichting volledig in een industriegebied ligt</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp; b) meer dan 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>&nbsp;&nbsp; b) meer dan 500 kW, als de inrichting volledig of gedeeltelijk in een ander gebied dan een industriegebied ligt</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>41.10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Installaties voor de voorbehandeling (zoals wassen, bleken, merceriseren) of het verven van vezels of textiel met een verwerkingscapaciteit van meer dan 10 ton per dag. <em>Er kan overlapping zijn met andere rubrieken van hoofdrubriek 41.</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>M, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>41.11</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Installaties voor het produceren en bewerken van celstof met een productiecapaciteit van 100 ton per dag en meer. <em>Er kan overlapping zijn met een of meer deelrubrieken van rubriek 41.</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -38434,7 +38438,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp; &nbsp;b) meer dan 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
+			<p>&nbsp;&nbsp; b) meer dan 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -38876,7 +38880,163 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;b) meer dan 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) meer dan 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<p>G, M</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<p>J</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<p>d) Verkoopspunten van producten van dierlijke oorsprong (vlees, vis en gevogelte) alsook de aan die verkoopspunten verbonden uitsnijderijen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<p>e) Opslagplaatsen voor producten van dierlijke oorsprong met uitzondering van de producten vermeld in rubriek 48, van:</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<p>&nbsp;&nbsp; 1° 1 ton tot en met 50 ton</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<p>&nbsp;&nbsp; 2° meer dan 50 ton</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<p>G, T</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<p>f) Niet in rubriek 2.11 of 26.3 begrepen inrichtingen voor het opslaan en verwerken van andere producten van dierlijke oorsprong dan die welke bestemd zijn voor consumptie, zoals beenderen en hoornen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<p>G, M, T</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<p>J</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<p>g) Vilderijen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -40566,7 +40726,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) meer dan 100 kW tot en met 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
+			<p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;b) meer dan 100 kW tot en met 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -44404,13 +44564,13 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>55.2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>Diepboringen, boringen voor het onderzoek naar de stabiliteit van de grond uitgezonderd,:</p>
+			<p>Diepboringen, boringen voor het onderzoek naar de stabiliteit van de grond uitgezonderd:</p>
 
-			<p>1° geothermische boringen</p>
+			<p>1. geothermische boringen vanaf een diepte van 500 m ten opzichte van het maaiveld;</p>
 
-			<p>2° boringen voor watervoorziening</p>
+			<p>2. boringen voor watervoorziening vanaf een diepte van 500 m ten opzichte van het maaiveld;</p>
 
-			<p>3° boringen in verband met de opslag van kernafval vanaf een diepte van 100 m ten opzichte van het maaiveld</p>
+			<p>3. boringen in verband met de opslag van kernafval vanaf een diepte van 100 m ten opzichte van het maaiveld.</p>
 
 			<p><em>(Er kan een overlapping zijn met de rubrieken 53 en 54)</em></p>
 			</td>
@@ -47068,7 +47228,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 
 			<p><em>Dit zijn permanente inrichtingen (die langer dan 1 jaar in exploitatie zullen zijn) voor grondpartijen die er tijdelijk worden gestockeerd.</em></p>
 
-			<p><em>Beperkte mechanische activiteiten, zoals het sorteren en/of zeven van uitgegraven dodem zijn begrepen in deze rubriek, en zijn niet vergunningsplichting volgens rubriek 30. </em></p>
+			<p><em>Beperkte mechanische activiteiten, zoals het sorteren en/of zeven van uitgegraven bodem zijn begrepen in deze rubriek, en zijn niet vergunningsplichtig volgens rubriek 30. </em></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -47094,7 +47254,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>61.1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>Tussentijdse opslagplaats voor uitgegraven bodem die niet voldoet aan een toepassing overeenkomstig het Vlarebo</p>
+			<p>…</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -47113,58 +47273,6 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>1°. met een capaciteit van 1000 m<sup>3</sup> tot en met 10.000 m<sup>3</sup></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>N, O, W</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>N</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>2° met een capaciteit van meer dan 10.000 m<sup>3</sup></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>N, O, W</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>N</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>A</p>
 			</td>
 		</tr>
 		<tr>
@@ -48750,13 +48858,13 @@ Van de hierna genoemde prioritaire stoffen zijn enkel de stoffen die in de laats
 
 ### BIJLAGE 3
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/01/27_1_3.pdf#page=43" target="_blank">bijlage 3</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2009/07/15_1.pdf#page=9" target="_blank">Bijlage 3</a>
 
 ## BIJLAGE 4
 
 ### BIJLAGE 4
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/01/27_1_3.pdf#page=71" title=" " target="_blank" class="pdf"></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2009/07/15_1.pdf#page=39" title=" Bijlage 4" target="_blank" class="pdf">Bijlage 4</a>
 
 ## BIJLAGE 5
 
@@ -50757,7 +50865,7 @@ MODEL VAN BESLUIT HOUDENDE EEN NEGATIEVE BESLISSING IN EERSTE AANLEG OVER EEN MI
 
 ### BIJLAGE 10bis
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2005/06/24_2.pdf#page=25" title=" formulier" target="_blank" class="pdf">formulier</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2005/06/24_2.pdf#page=25" title=" formulier" target="_blank" class="pdf">formulier</a> <br /><br />In dit formulier worden in het onderdeel "gegevens met betrekking tot de beroepsmogelijkheden" de woorden "10 dagen" vervangen door de woorden "dertig dagen". Zie BVR 24 april 2009, art. 12, B.S. 15 juli 2009.
 
 ## [BIJLAGE 10TER (ing. BVR 18 september 2009, art. 19)]
 
