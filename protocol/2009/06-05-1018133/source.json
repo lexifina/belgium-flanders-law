@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018133,
+  "title": "Protocol van 2009-06-05 Protocolakkoord tussen de Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie inzake slachtofferzorg",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018133/VolledigDocument?datum=2009-07-25",
+  "source_sha256": "67fbe9bd22dd586e626728c26565ba71604941ca3b2b39e92e09a05246f64415",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018133&param=informatie",
+  "as_of": "2009-07-25",
+  "made": "2009-06-05",
+  "gazette": "2009-07-15",
+  "numac": 2009000447,
+  "document_start": "2009-07-25",
+  "document_end": null,
+  "in_force": "2009-07-25",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2009-07-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
