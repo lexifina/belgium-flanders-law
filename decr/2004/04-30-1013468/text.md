@@ -30,6 +30,10 @@ Een opleiding heeft een studieomvang van 60 studiepunten of een veelvoud daarvan
 
 Het instellingsbestuur bepaalt voor elke opleiding een opleidingsprogramma dat bestaat uit een samenhangend geheel van opleidingsonderdelen.<br /><br />Bij de vaststelling van het opleidingsprogramma houdt het instellingsbestuur rekening met de bij of krachtens de wet, het decreet of de Europese richtlijn vastgelegde voorwaarden die de toegang tot bepaalde ambten of beroepen reguleren.
 
+### ART. 5bis.
+
+De instelling schrijft voor elke opleiding en voor elk opleidingsonderdeel leerresultaten uit.<br /><br />Op basis van de niveaudescriptoren zoals bepaald in artikel 58, § 2, van het decreet van 4 april 2003 betreffende de herstructurering in het hoger onderwijs, schrijven de instellingen onder coördinatie van de Vlaamse Hogescholenraad en de Vlaamse Interuniversitaire Raad daarenboven gezamenlijk de domein- specifieke leerresultaten uit. Zij waarborgen de toepassing van Vlaamse, federale en internationale regelgeving over beroepsuitoefening.<br /><br />Die beschrijving van de domeinspecifieke leerresultaten wordt gevalideerd door de Nederlands-Vlaamse accreditatieorganisatie.<br /><br />De Vlaamse Regering kan daarvoor nadere regels uitwerken.
+
 ### ART. 6.
 
 Het instellingsbestuur drukt de studieomvang van elk opleidingsonderdeel uit in gehele studiepunten.<br /><br />De studieomvang van een opleidingsonderdeel bedraagt ten minste 3 studiepunten.
