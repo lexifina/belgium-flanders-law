@@ -2,16 +2,16 @@
   "codex_id": 1008678,
   "title": "Decreet van 2002-01-18 betreffende de eindtermen, de ontwikkelingsdoelen en de specifieke eindtermen in het voltijds gewoon en buitengewoon secundair onderwijs",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008678/VolledigDocument?datum=2008-09-01",
-  "source_sha256": "b3994ef7f39663d3a2df08e9a8a9a01edf9d18f5e9e61fc46461292d7296e64e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008678/VolledigDocument?datum=2009-07-26",
+  "source_sha256": "27ff7828d32634275602c7c85d6a46911eb03376281c2ec12ba7ce578cbddca4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008678&param=informatie",
-  "as_of": "2008-09-01",
+  "as_of": "2009-07-26",
   "made": "2002-01-18",
   "gazette": "2002-02-08",
   "numac": 2002035155,
   "document_start": null,
   "document_end": "2011-04-30",
-  "in_force": "2008-09-01",
-  "article_versions": 13,
-  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-07-26",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2009-07-26; future article versions excluded; article text as the API gives it"
 }
