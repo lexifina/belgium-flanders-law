@@ -20,6 +20,10 @@ Binnen de Sociaal-Economische Raad van Vlaanderen, hierna de SERV te noemen, wor
 
 ## Afdeling II. [... (opgeh. Decr. 29 juni 2018, art. 34, I: 1 januari 2019)]
 
+### ART. 4.
+
+§ 1. Overeenkomstig artikel 4, § 1, van het decreet van 18 juli 2003, behalve voor wat betreft de punten 4°, 6° en 10° hierna, heeft de Raad de volgende opdrachten met betrekking tot het Vlaamse welzijns-, gezondheids- en gezinsbeleid :<br />1° uit eigen beweging of op verzoek advies uitbrengen over de hoofdlijnen van dat beleid;<br />2° bijdragen tot het vormen van een beleidsvisie;<br />3° de maatschappelijke ontwikkelingen volgen en interpreteren;<br />4° advies uitbrengen over voorontwerpen van decreet, waaraan de Vlaamse Regering haar principiële goedkeuring heeft gehecht;<br />5° uit eigen beweging of op verzoek advies uitbrengen over voorstellen van decreet;<br />6° uit eigen beweging of op verzoek advies uitbrengen over ontwerpen van besluit van de Vlaamse Regering, waaraan de Vlaamse Regering haar principiële goedkeuring heeft gehecht;<br />7° reflecties leveren over de bij het Vlaams Parlement ingediende beleidsnota's;<br />8° uit eigen beweging of op verzoek advies uitbrengen over ontwerpen van samenwerkingsakkoord die de Vlaamse Gemeenschap wil sluiten met de staat of met andere gemeenschappen en gewesten;<br />9° uit eigen beweging of op verzoek advies uitbrengen over beleidsvoornemens, beleidsplannen en regelgeving die voorbereid wordt op het niveau van de Europese Unie, alsook over de internationale verdragen die voorbereid worden;<br />10° beleidsvoorstellen formuleren en de effectiviteit en efficiëntie daarvan in kaart brengen.<br /><br />§ 2. In afwijking van artikel 4, § 2, van het decreet van 18 juli 2003, is de Vlaamse Regering verplicht om aan de Raad advies te vragen over :<br />1° de voorontwerpen van decreet, vermeld in § 1, 4°;<br />2° de ontwerpen van besluit van de Vlaamse Regering, vermeld in § 1, 6°, die van strategisch belang zijn.<br /><br />§ 3. Overeenkomstig artikel 4, § 3, van het decreet van 18 juli 2003, geeft de Vlaamse Regering aan de Raad duiding en toelichting over haar beslissing over de adviezen, vermeld in § 2.<br /><br />§ 4. Overeenkomstig artikel 4, § 4, van het decreet van 18 juli 2003, zijn de adviezen van de Raad openbaar.<br />
+
 ## Afdeling III. [... (opgeh. Decr. 29 juni 2018, art. 34, I: 1 januari 2019)]
 
 ### ART. 5.
@@ -36,6 +40,10 @@ Overeenkomstig artikel 8, eerste lid, van het decreet van 18 juli 2003, oefenen 
 
 ## Afdeling IV. [... (opgeh. Decr. 29 juni 2018, art. 34, I: 1 januari 2019)]
 
+### ART. 8.
+
+Voor de werking van de Raad is hoofdstuk IV van het decreet van 18 juli 2003 van toepassing.<br /><br />De Raad kan ter voorbereiding van adviezen permanente of ad-hocwerkcommissies oprichten als vermeld in artikel 11 van het decreet van 18 juli 2003. De Raad wijst de voorzitter en de leden van de permanente of ad-hocwerkcommissies aan. De voorzitter van een werkcommissie wordt bijgestaan door een lid van het secretariaat van de Raad.<br /><br />De werking van de Raad en de werkcommissies wordt nader geregeld in een huishoudelijk reglement, dat aan de Vlaamse Regering wordt meegedeeld.<br />
+
 ### ART. 9.
 
 § 1. In afwijking van artikel 12 van het decreet van 18 juli 2003, stelt de SERV een secretariaat ter beschikking van de Raad. Het secretariaat wordt samengesteld uit leden van het SERV-personeel daarvoor aangewezen door de leidend ambtenaar van de SERV. Het secretariaat is verantwoordelijk voor de inhoudelijke en voor de administratieve ondersteuning.<br /><br />De SERV zorgt tevens voor de huisvesting en de logistieke ondersteuning van de Raad.<br /><br />Het secretariaat wordt, onder gezag van de voorzitter van de Raad, geleid door een secretaris aangeduid onder de leden van het secretariaat door de leidend ambtenaar van de SERV.<br /><br />De Vlaamse Regering bepaalt de minimale omvang en samenstelling van het secretariaat dat verantwoordelijk is voor de inhoudelijke ondersteuning van de Raad.<br /><br />§ 2. De permanente of ad-hocwerkcommissies, vermeld in artikel 8, worden bijgestaan door het secretariaat, vermeld in § 1.<br />
@@ -44,6 +52,10 @@ Overeenkomstig artikel 8, eerste lid, van het decreet van 18 juli 2003, oefenen 
 
 ## Afdeling VI. Programmering en verslaggeving
 
+### ART. 11.
+
+Inzake de programmering en de verslaggeving van de werkzaamheden van de Raad is hoofdstuk V van het decreet van 18 juli 2003 van toepassing.<br />
+
 ## HOOFDSTUK III. [Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers (verv. Decr. 29 juni 2012, art. 40)]
 
 ## Afdeling I. Oprichting en opdracht
@@ -51,6 +63,10 @@ Overeenkomstig artikel 8, eerste lid, van het decreet van 18 juli 2003, oefenen 
 ## Afdeling II. Samenstelling en werking
 
 ## HOOFDSTUK IV. Wijzigingsbepaling
+
+### ART. 16.
+
+In het decreet van 25 februari 1997 betreffende de integrale kwaliteitszorg in de verzorgingsvoorzieningen worden in artikel 5, § 2, derde lid, en § 3, tweede lid, de woorden "Vlaamse Gezondheidsraad" vervangen door de woorden "Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid".<br />
 
 ### ART. 17.
 
