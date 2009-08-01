@@ -62,6 +62,14 @@ Artikel 15 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Artike
 
 In artikel 2 van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid worden de volgende wijzigingen aangebracht :<br />1° in punt 22° worden de woorden « een door de Vlaamse Regering erkende en/of gesubsidieerde organisatie » vervangen door de woorden « een door de Vlaamse Regering erkende of erkende en gesubsidieerde organisatie » en worden de woorden « en/of de diensten levert » vervangen door de woorden « of de diensten levert »;<br />2° in punt 23° worden de woorden « erkend en gesubsidieerd wordt door de Vlaamse Regering » vervangen door de woorden « door de Vlaamse Regering erkend of erkend en gesubsidieerd wordt »;<br />3° punt 31° wordt vervangen door wat volgt :<br />« 31° Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin : de commissie, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin; »;<br />4° punt 33° wordt vervangen door wat volgt :<br />« 33° Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid : de strategische adviesraad, vermeld in artikel 3 van het decreet van 7 december 2007 houdende de oprichting van een Strategische Adviesraad voor het Vlaamse Welzijns, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin; ».<br /><br />
 
+### ART. 15.
+
+In artikel 17, § 2, van hetzelfde decreet worden de woorden « de Vlaamse Gezondheidsraad » vervangen door de woorden « de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid ».<br /><br />
+
+### ART. 16.
+
+In artikel 18, § 1, van hetzelfde decreet worden de woorden « de Vlaamse Gezondheidsraad » vervangen door de woorden « de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid ».<br /><br />
+
 ### ART. 17.
 
 In artikel 20 van hetzelfde decreet wordt § 2 vervangen door wat volgt :<br />« § 2. De Vlaamse Regering bepaalt in voorkomend geval de opdracht, de samenstelling, de werkingsmodaliteiten en de financiering van die werkgroepen. ».<br /><br />
@@ -147,6 +155,10 @@ In artikel 55 van hetzelfde decreet wordt het vierde lid vervangen door wat volg
 ### ART. 48.
 
 In artikel 96, § 3, van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding worden de woorden « de Vlaamse Gezondheidsraad en/of » geschrapt.<br /><br />
+
+### ART. 50.
+
+In artikel 8, § 1, van het decreet van 17 juli 2000 houdende de oprichting van een Vlaams Instituut voor Wetenschappelijk en Technologisch Aspectenonderzoek worden de woorden « de Vlaamse Gezondheidsraad » vervangen door de woorden « de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid ».<br /><br />
 
 ## HOOFDSTUK X Kind en Gezin
 
