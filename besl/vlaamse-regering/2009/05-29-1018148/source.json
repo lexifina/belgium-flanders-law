@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018148,
+  "title": "Besluit van de Vlaamse Regering van 2009-05-29 tot verdeling van het provisionele krediet ingeschreven onder basisallocatie 01.07 B van het programma GB van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2009",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018148/VolledigDocument?datum=2009-08-02",
+  "source_sha256": "ba7682bc24e71d9736967c7e51479f7c118af1383bd1dcd4df645dc2ec2d39af",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018148&param=informatie",
+  "as_of": "2009-08-02",
+  "made": "2009-05-29",
+  "gazette": "2009-07-23",
+  "numac": 2009035680,
+  "document_start": "2009-08-02",
+  "document_end": null,
+  "in_force": "2009-08-02",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-08-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
