@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018155,
+  "title": "Besluit van de Vlaamse Regering van 2009-05-29 houdende de opheffing van de polder Niel-Wullebeek-Schelle",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018155/VolledigDocument?datum=2009-08-06",
+  "source_sha256": "d7ba84505a371122a78967288f38baa80bb1fee82b76b00b10902e41459e8558",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018155&param=informatie",
+  "as_of": "2009-08-06",
+  "made": "2009-05-29",
+  "gazette": "2009-07-27",
+  "numac": 2009035698,
+  "document_start": "2009-08-06",
+  "document_end": null,
+  "in_force": "2009-08-06",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2009-08-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
