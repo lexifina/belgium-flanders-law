@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018170,
+  "title": "Ministerieel besluit van 2009-06-17 tot wijziging van bijlagen III, IV en V van het ministerieel besluit van 11 juni 2008 betreffende het sluiten van beheersovereenkomsten en het toekennen van vergoedingen ter uitvoering van Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018170/VolledigDocument?datum=2009-08-08",
+  "source_sha256": "aedc6afe38fefcd0f90e6f63cd03806c7a5237e289c582abe3f24b5c4dd634aa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018170&param=informatie",
+  "as_of": "2009-08-08",
+  "made": "2009-06-17",
+  "gazette": "2009-07-29",
+  "numac": 2009203353,
+  "document_start": "2009-08-08",
+  "document_end": null,
+  "in_force": "2009-08-08",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2009-08-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
