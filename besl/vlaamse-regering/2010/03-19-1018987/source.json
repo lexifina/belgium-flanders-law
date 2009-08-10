@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018987,
+  "title": "Besluit van de Vlaamse Regering van 2010-03-19 houdende wijziging van het besluit van de Vlaamse Regering van 3 juli 2009 tot vaststelling van de voorwaarden voor erkenning en subsidiëring van de gelijkebehandelingsbureaus",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018987/VolledigDocument?datum=2009-08-10",
+  "source_sha256": "ea1f0d5603716b7b6a80e3fc8ebda41dd3ba0b07a3c69a2211e698ab97bbdc61",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018987&param=informatie",
+  "as_of": "2009-08-10",
+  "made": "2010-03-19",
+  "gazette": "2010-05-03",
+  "numac": 2010035300,
+  "document_start": "2009-08-10",
+  "document_end": null,
+  "in_force": "2009-08-10",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2009-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
