@@ -194,6 +194,14 @@ Onverminderd de bevoegdheden van de officieren van de federale politie houden de
 
 ## Afdeling VIII. Gelijkebehandelingsbureaus
 
+### ART. 42.
+
+§ 1. De Vlaamse Regering kan in de steden, vermeld in artikel 4 van het decreet van 13 december 2002 tot vaststelling van de regels inzake de werking en de verdeling van het Vlaams Stedenfonds, en in het tweetalig gebied Brussel-Hoofdstad, binnen de beschikbare begrotingskredieten, gelijkebehandelingsbureaus erkennen en subsidiëren.<br /><br />§ 2. De Vlaamse Regering bepaalt de voorwaarden en procedures voor erkenning en subsidiëring van de gelijkebehandelingsbureaus en de betrokkenheid van de gemeenten. De Vlaamse Regering bepaalt eveneens de verdere voorwaarden en procedure voor intrekking van de erkenning.
+
+### ART. 43.
+
+§ 1. Het gelijkebehandelingsbureau heeft als opdrachten :<br />1° het ontwikkelen van preventieve acties;<br />2° de lokale overheden en maatschappelijke sectoren te stimuleren om een beleid te voeren dat gericht is op het voorkomen en bestrijden van discriminatie;<br />3° het verlenen van bijstand aan de slachtoffers van discriminatie bij de niet-gerechtelijke afwikkeling van hun meldingen over discriminatie;<br />4° het onderhandelen of het organiseren van een onderhandeling met het oog op het stopzetten van het discriminerende gedrag en op een niet-gerechtelijke afwikkeling van meldingen over discriminatie;<br />5° het organiseren van een bemiddeling met het oog op het stopzetten van het discriminerende gedrag en op een niet-gerechtelijke afwikkeling van meldingen over discriminatie; <br />6° het uitbouwen van een netwerk van diensten en organisaties met het oog op samenwerking en doorverwijzing bij de behandeling van meldingen over discriminatie;<br />7° het rapporteren aan de Vlaamse Regering en de betrokken gemeenten over de meldingen van discriminatie.<br /><br />§ 2. De Vlaamse Regering concretiseert de opdrachten en de werking van de gelijkebehandelingsbureaus en vult die verder aan.
+
 ## HOOFDSTUK V. Slotbepalingen
 
 ### ART. 44.
