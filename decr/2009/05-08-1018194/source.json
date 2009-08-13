@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018194,
+  "title": "Decreet van 2009-05-08 houdende instemming met het verdrag inzake de rechten van personen met een handicap, en het facultatief protocol bij het verdrag inzake de rechten van personen met een handicap, opgemaakt in New York op 13 december 2006",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018194/VolledigDocument?datum=2009-08-13",
+  "source_sha256": "a33f8779b2347d6a81839c76be2d05e0afec5690f7e993f9c0f4564090050493",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018194&param=informatie",
+  "as_of": "2009-08-13",
+  "made": "2009-05-08",
+  "gazette": "2009-08-03",
+  "numac": 2009035676,
+  "document_start": "2009-08-13",
+  "document_end": null,
+  "in_force": "2009-08-13",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-08-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
