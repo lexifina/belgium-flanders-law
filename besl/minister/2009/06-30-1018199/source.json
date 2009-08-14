@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018199,
+  "title": "Ministerieel besluit van 2009-06-30 betreffende het vervoer van meststoffen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018199/VolledigDocument?datum=2009-08-14",
+  "source_sha256": "58a458bd14bc502809fae53695149f08d015aa72223ddeb2d4943941079b679b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018199&param=informatie",
+  "as_of": "2009-08-14",
+  "made": "2009-06-30",
+  "gazette": "2009-08-04",
+  "numac": 2009035667,
+  "document_start": "2009-08-14",
+  "document_end": "2014-08-06",
+  "in_force": "2009-08-14",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2009-08-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
