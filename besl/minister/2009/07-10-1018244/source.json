@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018244,
+  "title": "Ministerieel besluit van 2009-07-10 houdende beslissing inzake het nut van de ruilverkaveling Sint-Rijkers",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018244/VolledigDocument?datum=2009-08-29",
+  "source_sha256": "86f7d2adea02a8d20e47125546b0e3faa303361a830980f89198d6cf35dfae26",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018244&param=informatie",
+  "as_of": "2009-08-29",
+  "made": "2009-07-10",
+  "gazette": "2009-08-19",
+  "numac": 2009203679,
+  "document_start": "2009-08-29",
+  "document_end": null,
+  "in_force": "2009-08-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-08-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
