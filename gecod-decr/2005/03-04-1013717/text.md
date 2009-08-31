@@ -528,11 +528,67 @@
 
 ## Afdeling I Algemene bepalingen [betreffende reclame, telewinkelen, sponsoring en boodschappen van algemeen nut op radio en televisie (ing. decr. 16 december 2005, art. 10)]
 
+### ART. 97.
+
+...
+
 ## Afdeling II Reclame en telewinkelen
+
+### ART. 98.
+
+...
+
+### ART. 99.
+
+...
+
+### ART. 100.
+
+...
+
+### ART. 101.
+
+...
+
+### ART. 102.
+
+...
+
+### ART. 103.
+
+...
+
+### ART. 104.
+
+...
+
+### ART. 105.
+
+...
 
 ## Afdeling III Sponsoring
 
+### ART. 106.
+
+...
+
+### ART. 107.
+
+...
+
+### ART. 108.
+
+...
+
+### ART. 109.
+
+...
+
 ## Afdeling IV Boodschappen van algemeen nut
+
+### ART. 110.
+
+...
 
 ## Afdeling V Code voor reclame en sponsoring op radio en televisie
 
