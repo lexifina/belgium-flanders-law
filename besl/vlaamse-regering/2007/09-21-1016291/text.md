@@ -1881,7 +1881,7 @@ Als de minister oordeelt dat de overtreding bestraft moet worden, heeft het cent
 
 ### ART. 9.
 
-Dit besluit treedt in werking op 1 september 2007.<br /><br />Artikel 5, § 3 en § 4, tweede lid, houden op van kracht te zijn op 31 augustus 2009.<br /><br />
+Dit besluit treedt in werking op 1 september 2007.<br /><br />
 
 ### ART. 10.
 
