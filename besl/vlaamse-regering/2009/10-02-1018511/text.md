@@ -1,0 +1,17 @@
+# Besluit van de Vlaamse Regering van 2009-10-02 tot wijziging van het besluit van de Vlaamse Regering van 21 september 2007 tot regeling van een aantal aangelegenheden voor de Centra voor Volwassenenonderwijs in uitvoering van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs en het besluit van de Vlaamse Regering van 12 oktober 2007 tot regeling van een aantal aangelegenheden voor de Centra voor Basiseducatie ter uitvoering van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, artikel 33, artikel 85, § 3, gewijzigd bij het decreet van 8 mei 2009, artikel 87, § 2, artikel 89, gewijzigd bij het decreet van 4 juli 2008, artikel 90, artikel 98, § 3, gewijzigd bij het decreet van 30 april 2009, artikel 105, § 3, en op artikel 107, gewijzigd bij het decreet van 8 mei 2009;<br /><br />Gelet op het besluit van de Vlaamse Regering van 21 september 2007 tot regeling van een aantal aangelegenheden voor de Centra voor Volwassenenonderwijs in uitvoering van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br /><br />Gelet op het besluit van de Vlaamse Regering van 12 oktober 2007 tot regeling van een aantal aangelegenheden voor de Centra voor Basiseducatie ter uitvoering van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 5 juni 2009;<br /><br />Gelet op protocol nr. 707 van 9 juli 2009 houdende de conclusies van de onderhandelingen die gevoerd werden in de gemeenschappelijke vergadering van Sectorcomité X en van de onderafdeling Vlaamse Gemeenschap van afdeling 2 van het comité voor de provinciale en plaatselijke overheidsdiensten op 16 juni 2009 en 23 juni 2009;<br /><br />Gelet op protocol nr. 473 van 9 juli 2009 houdende de conclusies van de onderhandelingen die gevoerd werden in de vergadering van het overkoepelend onderhandelingscomité vrij gesubsidieerd onderwijs op 16 juni 2009 en 23 juni 2009;<br /><br />Gelet op protocol nr. 18 van 9 juli 2009 houdende de conclusies van de onderhandelingen die werden gevoerd in het Vlaams Onderhandelingscomité voor de basiseducatie, vermeld in het decreet van 23 januari 2009 houdende oprichting van onderhandelingscomités voor de basiseducatie en het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs;<br /><br />Gelet op advies 47.115/1/V van de Raad van State, gegeven op 2 september 2009, met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;<br /><br />Op voorstel van de Vlaamse minister van Onderwijs, Jeugd, Gelijke Kansen en Brussel;<br /><br />Na beraadslaging,<br /><br />Besluit :
+
+## HOOFDSTUK I Wijziging van het besluit van de Vlaamse Regering van 21 september 2007 tot regeling van een aantal aangelegenheden voor de Centra voor Volwassenenonderwijs in uitvoering van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs
+
+### ART. 5.
+
+In artikel 9 van hetzelfde besluit wordt het tweede lid opgeheven.
+
+## HOOFDSTUK II Wijziging van het besluit van de Vlaamse Regering van 12 oktober 2007 tot regeling van een aantal aangelegenheden voor de Centra voor Basiseducatie ter uitvoering van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs
+
+## HOOFDSTUK III Slotbepalingen
+
+## BIJLAGE I
