@@ -20,7 +20,7 @@ Besluit :
 
 ### ART. 1.
 
-Er wordt een tussenoverlegcomité opgericht, hierna te noemen beleidsdomeinoverlegcomité, voor het beleidsdomein Onderwijs en Vorming, inzonderheid voor volgende entiteiten :<br />- het departement Onderwijs en Vorming;<br />- het Agentschap voor Infrastructuur in het Onderwijs (AGIOn);<br />- het Agentschap voor Onderwijsdiensten (AgODi);<br />- het Onderwijsdienstencentrum Hoger Onderwijs en Volwassenenonderwijs;<br />- het Agentschap voor Onderwijscommunicatie;<br />- de Vlaamse Onderwijsraad (VLOR).<br />
+Er wordt een tussenoverlegcomité opgericht, hierna te noemen beleidsdomeinoverlegcomité, voor het beleidsdomein Onderwijs en Vorming, inzonderheid voor volgende entiteiten :<br />- het departement Onderwijs en Vorming;<br />- het Agentschap voor Infrastructuur in het Onderwijs (AGIOn);<br />- het Agentschap voor Onderwijsdiensten (AgODi);<br />- het Onderwijsdienstencentrum Hoger Onderwijs en Volwassenenonderwijs;<br />- het Agentschap voor Onderwijscommunicatie;<br />- de Vlaamse Onderwijsraad (VLOR);<br />- het Agentschap voor Kwaliteitszorg in Onderwijs en Vorming.<br /><br />
 
 ### ART. 2.
 
