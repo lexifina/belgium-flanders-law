@@ -2,16 +2,16 @@
   "codex_id": 1000295,
   "title": "Besluit van de Vlaamse Regering van 1993-12-22 tot regeling van de cumulatie van een andere bezigheid of een pensioen, met uitzondering van een overlevingspensioen, met een ambt in het onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000295/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "ecf34a4dd4ff221a0410af04f9ac965fc17789e42250c530a88b6f06b4e18334",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000295/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "48175eab660e0bbe1f9eb948d840b1e37a3ca21e939eb3ca2d3dfe698443010d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000295&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-09-01",
   "made": "1993-12-22",
   "gazette": "1994-03-30",
   "numac": 1994035311,
   "document_start": null,
   "document_end": "2009-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-09-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
