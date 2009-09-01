@@ -2,16 +2,16 @@
   "codex_id": 1017081,
   "title": "Ministerieel besluit van 2008-09-08 houdende beperking van de budgethoogte gedurende het eerste jaar van effectieve aanwending van het persoonlijke-assistentiebudget in het kader van het uitbreidingsbeleid 2008",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017081/VolledigDocument?datum=2008-09-01",
-  "source_sha256": "b204c7cee0e1131c2347fa41eb63af5e99fa8475707a6a2482e34156afd8f808",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017081/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "876f0bd87527315517d5b56051c4f57fa312ed56e588aa85d6373229b69f23e4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017081&param=informatie",
-  "as_of": "2008-09-01",
+  "as_of": "2009-09-01",
   "made": "2008-09-08",
   "gazette": "2008-09-23",
   "numac": 2008203296,
   "document_start": "2008-09-01",
   "document_end": "2009-09-01",
-  "in_force": "2008-09-01",
+  "in_force": "2009-09-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
