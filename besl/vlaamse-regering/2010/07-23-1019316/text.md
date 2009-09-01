@@ -18,6 +18,14 @@ In artikel 12 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Re
 
 In artikel 18 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 9 november 2007, wordt § 1 vervangen door wat volgt :<br /><br />« § 1. In afwijking van artikel 10 wordt aan de ten laatste op 31 januari 2009 vastbenoemde directeurs van een centrum met tot en met het schooljaar 2006-2007 alleen een tweede graad van het secundair onderwijs en/of alleen richtgraad 1 van het studiegebied talen en/of van het studiegebied Nederlands tweede taal, die houder zijn van een bekwaamheidsbewijs van ten minste hoger onderwijs van het korte type aangevuld met een getuigschrift van pedagogische bekwaamheid, salarisschaal 464 toegekend. »
 
+### ART. 11.
+
+Artikel 21 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 24 oktober 2008, wordt vervangen door wat volgt :<br /><br />« Art. 21. De bekwaamheidsbewijzen en salarisschalen, vermeld in bijlage I en II, die bij dit besluit zijn gevoegd, treden in werking op 1 september 2009. »
+
+### ART. 13.
+
+Bijlage I van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 24 oktober 2008, wordt vervangen door bijlage I, die als bijlage 1 bij dit besluit is gevoegd.
+
 ## HOOFDSTUK II. Wijziging in het besluit van de Vlaamse Regering van 24 april 2009 betreffende de omzetting van de Europese richtlijn 2005/36 voor wervingsambten in het onderwijs en voor sommige functies in de basiseducatie
 
 ## HOOFDSTUK III. Slotbepalingen
