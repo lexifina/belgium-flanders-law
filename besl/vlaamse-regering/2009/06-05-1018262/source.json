@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018262,
+  "title": "Besluit van de Vlaamse Regering van 2009-06-05 betreffende de beveiligde zendingen in de ruimtelijke ordeningsregelgeving",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018262/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "64cfdf917dc13015a8eba05f2e095aa33342269189760edef249f4624af0d6df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018262&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2009-06-05",
+  "gazette": "2009-08-26",
+  "numac": 2009035792,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
