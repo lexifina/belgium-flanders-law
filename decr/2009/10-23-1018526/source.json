@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018526,
+  "title": "Decreet van 2009-10-23 houdende interpretatie van de artikelen 44, 44bis en 62, § 1, 7°, 9° en 10°, van het decreet basisonderwijs van 25 februari 1997",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018526/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "e7393abb3e6a19f1148a097d1cc52eef2b2494f42ac0511d8b7488037d319706",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018526&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2009-10-23",
+  "gazette": "2009-11-24",
+  "numac": 2009036075,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
