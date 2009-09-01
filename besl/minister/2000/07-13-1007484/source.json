@@ -2,16 +2,16 @@
   "codex_id": 1007484,
   "title": "Ministerieel besluit van 2000-07-13 tot bepaling van de diploma's van een opleiding ruimtelijke ordening die voldoen om te kunnen worden geregistreerd als ruimtelijk planner",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007484/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "dbdf0c26d66f3df8f15b14f7a6265b40be7da2b95c8b771aef7396f5fdeef0e8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007484/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "1e8f4b6036cfada79cec43387661e5e81c58359978cbae7a4805f416085fa5b1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007484&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-09-01",
   "made": "2000-07-13",
   "gazette": "2000-07-28",
   "numac": 2000035736,
   "document_start": null,
   "document_end": "2009-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-09-01",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
