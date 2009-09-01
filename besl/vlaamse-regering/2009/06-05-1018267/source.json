@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018267,
+  "title": "Besluit van de Vlaamse Regering van 2009-06-05 tot wijziging van het besluit van de Vlaamse Regering van 28 april 2000 tot bepaling van de categorieën van bedrijven waarvoor en de gebieden waarbinnen de bepalingen van artikel 43, § 6, eerste lid, § 7, eerste lid en § 8 van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996, niet kunnen worden toegepast",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018267/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "ea7a9272150b388d9a3f77f38a8e48b38d940ed712d0010f4a7a8a81f5f958e7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018267&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2009-06-05",
+  "gazette": "2009-08-27",
+  "numac": 2009035807,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
