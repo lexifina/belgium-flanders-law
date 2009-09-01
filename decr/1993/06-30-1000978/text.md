@@ -22,7 +22,7 @@ Voor de toepassing van dit decreet en zijn uitvoeringsbesluiten wordt verstaan o
 
 ### ART. 5.
 
-Voor vergunningsaanvragen, ingediend overeenkomstig artikel 127 van het decreet houdende de organisatie van de ruimtelijke ordening, die een invloed kunnen hebben op de ondergrond, is de vergunningverlenende overheid verplicht binnen dertig dagen na ontvangst van het dossier advies in te winnen bij het agentschap.<br /><br />Deze brengt binnen dertig dagen na ontvangst van de adviesaanvraag een advies uit dat bindend is voorzover het voorwaarden oplegt. <br /><br />Dit advies  kan nadere voorwaarden opleggen en voorschriften bevatten ter bescherming van het archeologisch patrimonium.<br />
+Voor vergunningsaanvragen, ingediend overeenkomstig artikel 133/30, § 1, 2° van het decreet houdende de organisatie van de ruimtelijke ordening, die een invloed kunnen hebben op de ondergrond, is de vergunningverlenende overheid verplicht binnen dertig dagen na ontvangst van het dossier advies in te winnen bij het agentschap.<br /><br />Deze brengt binnen dertig dagen na ontvangst van de adviesaanvraag een advies uit dat bindend is voorzover het voorwaarden oplegt. <br /><br />Dit advies  kan nadere voorwaarden opleggen en voorschriften bevatten ter bescherming van het archeologisch patrimonium.<br />
 
 ### ART. 6.
 
