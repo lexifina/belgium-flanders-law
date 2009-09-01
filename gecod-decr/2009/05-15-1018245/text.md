@@ -1,0 +1,10160 @@
+# Gecodificeerd Decreet van 2009-05-15 Vlaamse Codex Ruimtelijke Ordening [citeeropschrift: "Vlaamse Codex Ruimtelijke Ordening", afgekort "VCRO"]
+
+## TITEL I Inleidende bepalingen
+
+## HOOFDSTUK I Doelstellingen en begrippen
+
+### ART. 1.1.1.
+
+Deze codex regelt een gewestaangelegenheid.<br /><br />
+
+### ART. 1.1.2.
+
+Voor de toepassing van deze codex wordt verstaan onder :<br />1° afschrift : een fotokopie of een digitale kopie;<br />2° agentschap : de entiteit die door de Vlaamse Regering belast wordt met taken van beleidsuitvoering inzake lokale ruimtelijke ordening;<br />3° beveiligde zending : één van de hiernavolgende betekeningswijzen :<br />a) een aangetekend schrijven,<br />b) een afgifte tegen ontvangstbewijs,<br />c) elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br />4° departement : het departement binnen het homogene beleidsdomein waaraan de beleidsondersteunende opdrachten inzake ruimtelijke ordening worden toevertrouwd;<br />5° functie : het feitelijk gebruik van een onroerend goed of een gedeelte daarvan;<br />6° gedelegeerde stedenbouwkundige ambtenaar : de ambtenaar van het departement die overeenkomstig artikel 4.7.26, § 1, belast wordt met de behandeling van en de beslissing over aanvragen van publiekrechtelijke rechtspersonen of voor handelingen van algemeen belang, vermeld in artikel 4.1.1, 5°;<br />7° handelingen : werkzaamheden, wijzigingen of activiteiten met ruimtelijke implicaties;<br />8° planologische ambtenaar : de gedelegeerde planologische ambtenaar die bevoegd is voor het geografische gebied waarop zijn taken vermeld in deze codex betrekking hebben;<br />9° plan van aanleg : een gewestplan, een algemeen plan van aanleg of een bijzonder plan van aanleg;<br />10° ruimtelijk kwetsbare gebieden :<br />a) de volgende gebieden, aangewezen op plannen van aanleg :<br />1) agrarische gebieden met ecologisch belang,<br />2) agrarische gebieden met ecologische waarde,<br />3) bosgebieden,<br />4) brongebieden,<br />5) groengebieden,<br />6) natuurgebieden,<br />7) natuurgebieden met wetenschappelijke waarde,<br />8) natuurontwikkelingsgebieden,<br />9) natuurreservaten,<br />10) overstromingsgebieden,<br />11) parkgebieden,<br />12) valleigebieden,<br />b) gebieden, aangewezen op ruimtelijke uitvoeringsplannen, en sorterend onder één van volgende categorieën of subcategorieën van gebiedsaanduiding :<br />1) bos,<br />2) parkgebied,<br />3) reservaat en natuur,<br />c) het Vlaams Ecologisch Netwerk, bestaande uit de gebiedscategorieën Grote Eenheden Natuur en Grote Eenheden Natuur in Ontwikkeling, vermeld in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu,<br />d) de beschermde duingebieden en de voor het duingebied belangrijke landbouwgebieden, aangeduid krachtens artikel 52, § 1, van de wet van 12 juli 1973 op het natuurbehoud;<br />11° stedenbouwkundige ambtenaar : de gewestelijke, de provinciale of de gemeentelijke stedenbouwkundige ambtenaar die bevoegd is voor het geografische gebied waarop zijn taken vermeld in deze codex betrekking hebben;<br />12° stedenbouwkundige inspecteur : de gewestelijke stedenbouwkundige inspecteur die bevoegd is voor het geografische gebied waarop zijn taken vermeld in deze codex betrekking hebben;<br />13° stedenbouwkundig voorschrift : een reglementaire bepaling, opgenomen in :<br />a) een ruimtelijk uitvoeringsplan,<br />b) een plan van aanleg,<br />c) een stedenbouwkundige verordening, of een bouwverordening vastgelegd op grond van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996;<br />14° strategische adviesraad : de strategische adviesraad, opgericht bij het decreet van 10 maart 2006 houdende de oprichting van de strategische adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<br />15° (sub)categorie van gebiedsaanduiding : een generieke gebiedsbestemming, vermeld in artikel 2.2.3, § 2;<br />16° Vlaamse Belastingdienst : de gewestelijke administratie, bevoegd voor de inning en invordering van de Vlaamse belastingen;<br />17° Vlaamse Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht volgens het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen.<br /><br />
+
+### ART. 1.1.3.
+
+De ruimtelijke ordening van het Vlaamse Gewest, de provincies en de gemeenten wordt vastgelegd in ruimtelijke structuurplannen, ruimtelijke uitvoeringsplannen en verordeningen.<br /><br />
+
+### ART. 1.1.4.
+
+De ruimtelijke ordening is gericht op een duurzame ruimtelijke ontwikkeling waarbij de ruimte beheerd wordt ten behoeve van de huidige generatie, zonder dat de behoeften van de toekomstige generaties in het gedrang gebracht worden. Daarbij worden de ruimtelijke behoeften van de verschillende maatschappelijke activiteiten gelijktijdig tegen elkaar afgewogen. Er wordt rekening gehouden met de ruimtelijke draagkracht, de gevolgen voor het leefmilieu en de culturele, economische, esthetische en sociale gevolgen. Op deze manier wordt gestreefd naar ruimtelijke kwaliteit.<br /><br />
+
+### ART. 1.1.5.
+
+Onverminderd specifieke delegaties, kan de Vlaamse Regering de samenstellings- en kennisgevingswijze bepalen van de aanvragen die krachtens deze codex worden verricht of de dossiers die op grond van deze codex worden samengesteld.<br /><br />In gevallen waarin deze codex een aangetekend schrijven of een afgifte tegen ontvangstbewijs vereist, kan de Vlaamse Regering tevens een beveiligde zending, vermeld in 1.1.2, 3°, c), toelaten.<br /><br />
+
+## HOOFDSTUK II Voortgangsbewaking inzake de uitvoering van het [ruimtelijk structuurplan Vlaanderen of Beleidsplan Ruimte Vlaanderen (verv. decr. 8 december 2017, art. 16, I: 30 december 2017)]
+
+### ART. 1.2.1.
+
+De bij het Vlaams Parlement in te dienen beleidsbrieven over het beleidsveld ruimtelijke ordening omvatten onder andere :<br />1° objectieven betreffende de opstart en behandeling van gewestelijke planningsprocessen in het betrokken kalenderjaar;<br />2° globale objectieven betreffende de opstart en behandeling van provinciale en gemeentelijke planningsprocessen in het betrokken kalenderjaar;<br />3° een rapportering omtrent de voortgang van planningsprocessen en de uitvoering van het ruimtelijk structuurplan Vlaanderen, telkens op gewestelijk, provinciaal en gemeentelijk niveau.<br /><br />De Vlaamse Regering kan nadere regelen bepalen met betrekking tot het aanleveren van provinciale en gemeentelijke gegevens in het kader van de rapporteringsplichten, vermeld in het eerste lid, 2° en 3°. Deze gegevens worden eerst aan de Vlaamse Regering overgemaakt nadat de provincieraad, respectievelijk de gemeenteraad van deze gegevens akte hebben genomen.<br /><br />
+
+## HOOFDSTUK III Adviesorganen
+
+## Afdeling 1 [... (opgeh. Decr. 18 november 2011, art. 2, I: 24 juli 2016)]
+
+### ART. 1.3.1.
+
+§ 1. Er wordt een gewestelijke technische adviescommissie voor ruimtelijke ordening opgericht, hierna de Vlaamse commissie voor ruimtelijke ordening te noemen.<br /><br />§ 2. De Vlaamse commissie voor ruimtelijke ordening voert de opdrachten uit die haar door deze codex zijn toevertrouwd en geeft technisch advies op verzoek van de Vlaamse Regering of de strategische adviesraad.<br /><br />§ 3. Een besluit van de Vlaamse Regering regelt de samenstelling van de Vlaamse commissie voor ruimtelijke ordening. Met behoud van de toepassing van artikel 2.2.7, § 6, worden daarin tenminste de volgende personen opgenomen :<br />1° deskundigen uit het homogene beleidsdomein waaraan beleidsondersteunende en uitvoerende opdrachten inzake ruimtelijke ordening worden toevertrouwd;<br />2° deskundigen inzake ruimtelijke ordening uit de homogene beleidsdomeinen met sectorale ruimtebehoeften, waaraan opdrachten inzake economie, toerisme en recreatie, cultuur, jeugd en sport, huisvesting, mobiliteit, landbouw, natuur en leefmilieu, en onroerend erfgoed worden toevertrouwd;<br />3° een provinciale en twee gemeentelijke stedenbouwkundige ambtenaren, gekozen uit dubbeltallen, respectievelijk voorgedragen door de Vereniging van de Vlaamse Provincies en de Vereniging van Vlaamse Steden en Gemeenten;<br />4° twee onafhankelijke deskundigen, gekozen uit een dubbeltal, voorgedragen door de strategische adviesraad uit zijn leden.<br /><br />Behoudens de onafhankelijke deskundigen, vermeld in het eerste lid, 4°, mogen de leden niet tegelijkertijd deel uitmaken van de strategische adviesraad.<br /><br />De Vlaamse Regering benoemt de voorzitter, de leden, de plaatsvervangers en de vaste secretaris. De voorzitter is een van de onafhankelijke deskundigen.<br /><br />Elk lid heeft een plaatsvervanger, de voorzitter uitgezonderd. De vaste secretaris is niet stemgerechtigd.<br /><br />Een planologische ambtenaar woont de vergaderingen van de Vlaamse commissie voor ruimtelijke ordening met raadgevende stem bij.<br /><br />§ 4. De leden van de Vlaamse commissie voor ruimtelijke ordening worden benoemd voor vijf jaar. Hun benoeming is hernieuwbaar. Na de hernieuwing van de Vlaamse Regering wordt overgegaan tot de benoeming van een nieuwe commissie.<br /><br />De oude commissie blijft zolang aan.<br /><br />§ 5. Het is voor een lid van de Vlaamse commissie voor ruimtelijke ordening verboden deel te nemen aan de bespreking en de stemming over aangelegenheden waarin hij een rechtstreeks belang heeft, hetzij persoonlijk, hetzij als gelastigde, of waarbij de echtgenoot, of bloed- of aanverwanten tot en met de tweede graad een persoonlijk en rechtstreeks belang hebben.<br /><br />Voor de toepassing van het eerste lid worden personen die wettelijk samenwonen, met echtgenoten gelijkgesteld.<br /><br />§ 6. De Vlaamse commissie voor ruimtelijke ordening is een adviesorgaan, onderworpen aan het decreet van 13 juli 2007 houdende bevordering van een meer evenwichtige participatie van vrouwen en mannen in advies- en bestuursorganen van de Vlaamse overheid.<br /><br />§ 7. De Vlaamse commissie voor ruimtelijke ordening stelt haar huishoudelijk reglement op. Dat reglement en zijn wijzigingen worden ter goedkeuring aan de Vlaamse Regering voorgelegd.<br /><br />De Vlaamse commissie voor ruimtelijke ordening kan, in het kader van de uitvoering van haar opdrachten, een beroep doen op externe deskundigen, en werkgroepen oprichten onder de voorwaarden, bepaald in het huishoudelijk reglement.<br /><br />§ 8. De Vlaamse Regering stelt aan de Vlaamse commissie voor ruimtelijke ordening een permanent secretariaat en de nodige middelen ter beschikking.<br /><br />De Vlaamse Regering kan nadere regels vaststellen voor de organisatie en de werkwijze van de Vlaamse commissie voor ruimtelijke ordening.<br /><br />
+
+## Afdeling 2 De provinciale commissie voor ruimtelijke ordening
+
+### ART. 1.3.2.
+
+§ 1. Er wordt een adviesraad voor ruimtelijke ordening opgericht op het   niveau van de provincie, hierna de provinciale commissie voor ruimtelijke   ordening te noemen.<BR><BR>§ 2. Naast de opdrachten die de provinciale commissie   voor ruimtelijke ordening heeft overeenkomstig deze codex, kan ze advies geven,   opmerkingen maken of voorstellen doen over alle aangelegenheden met betrekking   tot de provinciale ruimtelijke ordening, op eigen initiatief of op verzoek van   de provincieraad of de deputatie.<BR><BR>§ 3. De provincieraad benoemt de   voorzitter, de leden, de plaatsvervangers en de vaste secretaris. De benoeming   wordt ter goedkeuring voorgelegd aan de Vlaamse Regering, die haar beslissing   binnen dertig dagen na de betekening opstuurt naar de deputatie. Doet ze dat   niet, dan wordt de beslissing van de provincieraad geacht te zijn   goedgekeurd.<BR><BR>De provinciale commissie voor ruimtelijke ordening telt 23   leden, de voorzitter inbegrepen, 22 plaatsvervangers en een vaste secretaris. De   vaste secretaris is niet stemgerechtigd. Leden van de provincieraad of de   deputatie kunnen geen lid van de adviescommissie zijn.<BR><BR>De samenstelling   is als volgt :<BR>1° de voorzitter, zijnde een onafhankelijke deskundige inzake   ruimtelijke ordening, voorgedragen door de deputatie;<BR>2° twee leden, gekozen   uit een dubbeltal deskundigen inzake ruimtelijke ordening, voorgedragen door de   werkgeversorganisaties, vertegenwoordigd in de Sociaal-Economische Raad van   Vlaanderen;<BR>3° twee leden, gekozen uit een dubbeltal deskundigen inzake   ruimtelijke ordening, voorgedragen door de werknemersorganisaties,   vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<BR>4° twee   leden, gekozen uit een dubbeltal deskundigen inzake ruimtelijke ordening,   voorgedragen door de landbouworganisaties, vertegenwoordigd in de Strategische   Adviesraad voor Landbouw- en Visserij;<BR>5° drie leden, gekozen uit een   dubbeltal deskundigen inzake ruimtelijke ordening, voorgedragen door andere   organisaties dan sociaal-economische of landbouworganisaties, vertegenwoordigd   in de Milieu- en Natuurraad van Vlaanderen;<BR>6° twee leden, gekozen uit een   dubbeltal deskundigen inzake ruimtelijke ordening, voorgedragen door een   representatieve vereniging, opgericht op particulier initiatief in de vorm van   een vereniging zonder winstoogmerk, met zetel in het Vlaamse Gewest of in het   Brusselse Hoofdstedelijke Gewest, met als enige doelstelling het duurzame   ruimtegebruik, de kwaliteit van de stedenbouw, de ruimtelijke ordening en de   ruimtelijke planning;<BR>7° drie leden, gekozen uit een dubbeltal deskundigen   inzake ruimtelijke ordening van het provinciebestuur, voorgedragen door de   deputatie;<BR>8° acht leden, onder wie de ondervoorzitter, gekozen uit een   dubbeltal deskundigen inzake ruimtelijke ordening, voorgedragen door de   deputatie uit de diensten op provinciaal niveau voor economie, toerisme en   recreatie, huisvesting, infrastructuur, landbouw, leefmilieu, onroerend erfgoed,   en cultuur;<BR>9° de vaste secretaris, voorgedragen door de deputatie.<BR><BR>De   plaatsvervangers van de leden worden eveneens gekozen uit een dubbeltal   deskundigen, voorgedragen door de instanties en organisaties, vermeld in het   derde lid.<BR><BR>§ 4. De leden van de provinciale commissie voor ruimtelijke   ordening worden benoemd voor zes jaar. Hun benoeming is hernieuwbaar. Na de   installatie van een nieuwe provincieraad wordt overgegaan tot de benoeming van   een nieuwe commissie. De nieuwe commissie treedt eerst aan nadat de Vlaamse   Regering de benoeming van de leden ervan heeft goedgekeurd, of nadat de termijn   van dertig dagen, vermeld in § 3, eerste lid, verstreken is zonder dat de   Vlaamse Regering een beslissing heeft opgestuurd. De oude commissie blijft   zolang aan.<BR><BR>Het lid dat voortijdig zijn mandaat stopzet, wordt vervangen   door zijn plaatsvervanger tot een nieuw lid is benoemd.<BR><BR>Het lidmaatschap   van de leden eindigt op de datum, waarop de organisatie of de instantie die de   voordracht deed, een nieuw lid voordraagt ter vervanging van het betrokken   lid.<BR><BR>§ 5. Het is voor een lid van de provinciale commissie voor   ruimtelijke ordening verboden deel te nemen aan de bespreking en de stemming   over aangelegenheden waarin hij een rechtstreeks belang heeft, hetzij   persoonlijk, hetzij als gelastigde, of waarbij de echtgenoot, of bloed- of   aanverwanten tot en met de tweede graad een persoonlijk en rechtstreeks belang   hebben.<BR><BR>Voor de toepassing van het eerste lid worden personen die   wettelijk samenwonen, met echtgenoten gelijkgesteld.<BR><BR>§ 6. De regelingen   inzake evenwichtige vertegenwoordiging van vrouwen en mannen, vermeld in artikel   193, § 2, van het Provinciedecreet van 9 december 2005, zijn van overeenkomstige   toepassing op de provinciale commissie voor ruimtelijke ordening.<BR><BR>§ 7. De   provinciale commissie voor ruimtelijke ordening kan, voor het onderzoeken van   bijzondere vraagstukken, een beroep doen op externe deskundigen en werkgroepen   oprichten onder de voorwaarden, bepaald in het huishoudelijke   reglement.<BR><BR>§ 8. De provinciale commissie voor ruimtelijke ordening stelt   haar huishoudelijke reglement op.<BR><BR>Dit reglement en zijn wijzigingen   worden ter goedkeuring aan de provincieraad voorgelegd.<BR><BR>§ 9. De   provincieraad stelt de provinciale commissie voor ruimtelijke ordening een   permanent secretariaat en de nodige middelen ter beschikking.<BR><BR>§ 10. De   Vlaamse Regering stelt de nadere regels voor de samenstelling, de organisatie en   werkwijze van de provinciale commissie voor ruimtelijke ordening   vast.<BR><BR>
+
+## Afdeling 3 De gemeentelijke commissie voor ruimtelijke ordening
+
+### ART. 1.3.3.
+
+§ 1. Er wordt een adviesraad voor ruimtelijke ordening opgericht op het niveau van de gemeente, hierna de gemeentelijke commissie voor ruimtelijke ordening te noemen.<br /><br />§ 2. Naast de opdrachten die de gemeentelijke commissie voor ruimtelijke ordening heeft ingevolge deze codex, kan ze advies geven, opmerkingen maken of voorstellen doen over alle aangelegenheden met betrekking tot de gemeentelijke ruimtelijke ordening, op eigen initiatief of op verzoek van het college van burgemeester en schepenen of de gemeenteraad.<br /><br />§ 3. De gemeenteraad benoemt de voorzitter, de leden, de plaatsvervangers en de vaste secretaris. De gemeenteraad kan onder de leden een ondervoorzitter aanwijzen. De benoeming wordt ter goedkeuring voorgelegd aan de deputatie die haar beslissing binnen dertig dagen na de betekening opstuurt naar het college van burgemeester en schepenen en de Vlaamse Regering. Als ze dat niet doet, dan wordt de beslissing van de gemeenteraad geacht te zijn goedgekeurd.<br /><br />De voorzitter en de vaste secretaris worden voorgedragen door het college van burgemeester en schepenen. De vaste secretaris is niet stemgerechtigd.<br /><br />De gemeentelijke commissie voor ruimtelijke ordening telt het in het zesde lid vermelde aantal leden, de voorzitter inbegrepen. Minimum één vierde van de leden, waaronder de voorzitter, zijn deskundigen inzake ruimtelijke ordening. De overige leden zijn vertegenwoordigers van de voornaamste maatschappelijke geledingen binnen de gemeente. Ieder lid, met uitzondering van de voorzitter, heeft een plaatsvervanger. Leden van de gemeenteraad of het schepencollege kunnen geen lid van de adviescommissie zijn.<br /><br />De gemeenteraad beslist welke maatschappelijke geledingen binnen de gemeente worden opgeroepen om één of meerdere vertegenwoordigers voor te dragen als lid van de gemeentelijke commissie voor ruimtelijke ordening. De maatschappelijke geledingen die een lid voordragen, dragen tevens een plaatsvervanger voor.<br /><br />Het aantal leden is afhankelijk van het inwoneraantal van de gemeente :<br />1° minimum 7 en maximum 9 leden voor een gemeente met niet meer dan 10 000 inwoners;<br />2° minimum 9 en maximum 13 leden voor een gemeente met meer dan 10 000 en niet meer dan 30 000 inwoners;<br />3° minimum 13 en maximum 17 leden voor een gemeente met meer dan 30 000 en niet meer dan 50 000 inwoners;<br />4° minimum 17 en maximum 21 leden voor een gemeente met meer dan 50 000 inwoners.<br /><br />§ 4. De leden van de gemeentelijke commissie voor ruimtelijke ordening worden benoemd voor zes jaar. Hun benoeming is hernieuwbaar. Na de installatie van een nieuwe gemeenteraad wordt overgegaan tot de benoeming van een nieuwe commissie. De nieuwe commissie treedt eerst aan nadat de deputatie de benoeming van de leden ervan heeft goedgekeurd. De oude commissie blijft zolang aan.<br /><br />Het lid dat voortijdig zijn mandaat stopzet, wordt vervangen door zijn plaatsvervanger tot een nieuw lid is benoemd.<br /><br />§ 5. Het is voor een lid van de gemeentelijke commissie voor ruimtelijke ordening verboden deel te nemen aan de bespreking en de stemming over aangelegenheden waarin hij een rechtstreeks belang heeft, hetzij persoonlijk, hetzij als gelastigde, of waarbij de echtgenoot, of bloed- of aanverwanten tot en met de tweede graad een persoonlijk en rechtstreeks belang hebben.<br /><br />Voor de toepassing van het eerste lid worden personen die wettelijk samenwonen, met echtgenoten gelijkgesteld.<br /><br />§ 6. De regelingen inzake evenwichtige vertegenwoordiging van vrouwen en mannen, vermeld in artikel 200, § 2, van het Gemeentedecreet van 15 juli 2005, zijn van overeenkomstige toepassing op de gemeentelijke commissie voor ruimtelijke ordening.<br /><br />§ 7. De gemeentelijke commissie voor ruimtelijke ordening kan, voor het onderzoeken van bijzondere vraagstukken, een beroep doen op externe deskundigen en werkgroepen oprichten onder de voorwaarden, bepaald in het huishoudelijke reglement.<br /><br />§ 8. De gemeentelijke commissie voor ruimtelijke ordening stelt haar huishoudelijke reglement op.<br /><br />Dit reglement en zijn wijzigingen worden ter goedkeuring aan de gemeenteraad voorgelegd.<br /><br />§ 9. De gemeenteraad stelt de gemeentelijke commissie voor ruimtelijke ordening een permanent secretariaat en de nodige middelen ter beschikking.<br /><br />§ 10. De Vlaamse Regering stelt de nadere regels voor de samenstelling, de organisatie en werkwijze van de gemeentelijke commissie voor ruimtelijke ordening vast.<br /><br />§ 11. Voor een gemeente van 10.000 inwoners of minder kan de gemeenteraad een gemotiveerd verzoek richten aan de Vlaamse Regering om vrijgesteld te worden van de verplichting om een gemeentelijke commissie voor ruimtelijke ordening op te richten. De Vlaamse Regering stuurt haar beslissing binnen vijfendertig dagen na ontvangst van het verzoek tot vrijstelling naar de gemeenteraad, zo niet wordt het verzoek geacht niet te zijn ingewilligd.<br /><br />In een gemeente die vrijstelling heeft verkregen, worden de taken van de gemeentelijke commissie voor ruimtelijke ordening waargenomen door de bevoegde gewestelijke stedenbouwkundige ambtenaar. De taken van het secretariaat worden evenwel uitgeoefend door de gemeentelijke administratie. Deze codex moet voor die gemeenten dan ook in die zin gelezen worden.<br /><br />De Vlaamse Regering kan criteria bepalen die in aanmerking komen om een vrijstelling te verkrijgen van de verplichting om een gemeentelijke commissie voor ruimtelijke ordening op te richten.<br /><br />
+
+## Afdeling 4 Algemene bepaling
+
+### ART. 1.3.4.
+
+De Vlaamse Regering stelt een deontologische code vast. Deze omvat het geheel van beginselen, gedragsregels en richtlijnen die de leden van de Vlaamse, provinciale en gemeentelijke commissies voor ruimtelijke ordening tot leidraad dienen bij de uitoefening van hun mandaat.<br /><br />
+
+## HOOFDSTUK IV De ambtenaren van ruimtelijke ordening
+
+## Afdeling 1 De [... (geschr. decr. 4 april 2014, art. 5, I: 25 april 2014)] gewestelijke [... (geschr. decr. 25 april 2014, art. 3, I: 1 maart 2018)] stedenbouwkundige ambtenaren
+
+### ART. 1.4.1.
+
+De Vlaamse Regering stelt het aantal gedelegeerde planologische en stedenbouwkundige ambtenaren vast, stelt ze aan en bepaalt de voorwaarden waaraan personen moeten voldoen om als gedelegeerde planologische of stedenbouwkundige ambtenaar te kunnen worden aangesteld. Ze omschrijft het geografische werkgebied van iedere gedelegeerde ambtenaar.<br /><br />
+
+### ART. 1.4.2.
+
+De gedelegeerde planologische en stedenbouwkundige ambtenaren brengen per kalenderjaar aan de Vlaamse Regering verslag uit over hun activiteiten.<br /><br />
+
+### ART. 1.4.3.
+
+De Vlaamse Regering bepaalt de aanstellingsprocedure van :<br />1° de stedenbouwkundige inspecteurs, belast met taken inzake handhaving, vermeld in titel VI;<br />2° de gewestelijke stedenbouwkundige ambtenaren, belast met taken inzake lokale ruimtelijke planning en vergunningverlening.<br /><br />De Vlaamse Regering bepaalt de voorwaarden waaraan personen moeten voldoen om als stedenbouwkundige inspecteur of als gewestelijke stedenbouwkundige ambtenaar te kunnen worden aangesteld.<br /><br />
+
+## Afdeling 2 De provinciale stedenbouwkundige ambtenaren
+
+### ART. 1.4.4.
+
+§ 1. De provincieraad stelt het aantal provinciale stedenbouwkundige ambtenaren vast en wijst ze aan. Enkel vastbenoemde of op proef vastbenoemde ambtenaren kunnen aangewezen worden als provinciale stedenbouwkundige ambtenaar.<br /><br />§ 2. De provincieraad stelt bij verhindering van één van de stedenbouwkundige ambtenaren of bij vacature, een waarnemend stedenbouwkundige ambtenaar aan.<br /><br />In dringende gevallen stelt de deputatie een waarnemend stedenbouwkundig ambtenaar aan en bekrachtigt de provincieraad de aanstelling in zijn eerstvolgende vergadering.<br /><br />§ 3. De beroepsinstantie inzake tuchtmaatregelen ten aanzien van een provinciale stedenbouwkundige ambtenaar kan, onder voorbehoud van de toepassing van de wettelijke bepalingen terzake, het advies van het departement inwinnen. Als er geen advies wordt uitgebracht binnen dertig dagen na verzending van de adviesaanvraag, mag hieraan worden voorbijgegaan.<br /><br />
+
+### ART. 1.4.5.
+
+De Vlaamse Regering kan de voorwaarden bepalen waaraan personen moeten voldoen om als provinciale stedenbouwkundige ambtenaren te kunnen worden aangesteld. Als aanstellingsvoorwaarde geldt een studiebewijs, een bewijs van bekwaamheid, vermeld in artikel 38 van het decreet van 30 april 2004 betreffende de flexibilisering van het hoger onderwijs in Vlaanderen en houdende dringende hogeronderwijsmaatregelen, de competenties verworven door activiteiten die het personeelslid uitoefent of heeft uitgeoefend, en/of specifieke vereisten die verband houden met de ruimtelijke ordening.<br /><br />
+
+## Afdeling 3 De gemeentelijke stedenbouwkundige ambtenaren
+
+### ART. 1.4.6.
+
+§ 1. De gemeenteraad stelt het aantal gemeentelijke stedenbouwkundige ambtenaren vast en wijst ze aan. Enkel vastbenoemde of op proef vastbenoemde ambtenaren kunnen aangewezen worden als gemeentelijke stedenbouwkundig ambtenaar.<br /><br />§ 2. Iedere gemeente moet minimum één gemeentelijke stedenbouwkundige ambtenaar hebben.<br /><br />Twee of meer gemeenten kunnen een intergemeentelijk samenwerkingsverband belasten met de aanstelling en het loopbaanbeheer van één of meer gezamenlijke stedenbouwkundige ambtenaren. Ten minste wordt een voltijdse opdracht ingericht. De gezamenlijke stedenbouwkundige ambtenaren zijn onderworpen aan dezelfde geldelijke en administratieve rechtspositieregelingen als diegene die van toepassing zijn op de personeelsleden van de gemeente waar de zetel van de interlokale vereniging of de stichting gevestigd is. De Vlaamse Regering kan deontologische en/of institutionele waarborgen bepalen ter vrijwaring van de objectieve uitoefening van de opdrachten van de gezamenlijke stedenbouwkundige ambtenaren.<br /><br />§ 3. De gemeenteraad stelt bij verhindering van één van de stedenbouwkundige ambtenaren of bij vacature, een waarnemend stedenbouwkundige ambtenaar aan.<br /><br />In dringende gevallen stelt het college van burgemeester en schepenen een waarnemend stedenbouwkundig ambtenaar aan en bekrachtigt de gemeenteraad de aanstelling in zijn eerstvolgende vergadering.<br /><br />§ 4. De beroepsinstantie inzake tuchtmaatregelen ten aanzien van een gemeentelijke stedenbouwkundig ambtenaar kan, onder voorbehoud van de toepassing van de wettelijke bepalingen terzake, het advies van het departement inwinnen. Als er geen advies wordt uitgebracht binnen dertig dagen na verzending van de adviesaanvraag, mag hieraan worden voorbijgegaan.<br /><br />
+
+### ART. 1.4.7.
+
+De Vlaamse Regering kan de voorwaarden bepalen waaraan personen moeten voldoen om als gemeentelijke stedenbouwkundige ambtenaren te kunnen worden aangesteld. Die voorwaarden kunnen verschillen naar gelang van het inwoneraantal van de gemeente. Als aanstellingsvoorwaarde geldt een studiebewijs, een bewijs van bekwaamheid, vermeld in artikel 38 van het decreet van 30 april 2004 betreffende de flexibilisering van het hoger onderwijs in Vlaanderen en houdende dringende hogeronderwijsmaatregelen, de competenties verworven door activiteiten die het personeelslid uitoefent of heeft uitgeoefend, en/of specifieke vereisten die verband houden met de ruimtelijke ordening.<br /><br />
+
+### ART. 1.4.8.
+
+Binnen de perken van de begrotingskredieten kan de Vlaamse Regering (ook financiële) ondersteuning verlenen aan de gemeenten voor de opleiding van de gemeentelijke stedenbouwkundige ambtenaar, en voor de betaling van deze ambtenaar in de kleine gemeenten.<br /><br />De Vlaamse Regering bepaalt de voorwaarden en nadere regels hiertoe.<br /><br />
+
+## [Afdeling 4. De gewestelijke en gemeentelijke stedenbouwkundige inspecteurs (ing. Decr. 25 april 2014, art. 5, I: 1 maart 2018)]
+
+## [HOOFDSTUK V Het register van ruimtelijke planners (ing. decr. 8 december 2017, art. 21, I: 30 december 2017)]
+
+## [HOOFDSTUK VI BRV-Fonds (ing. decr. 16 december 2022, art. 45, I: 1 januari 2023)]
+
+## TITEL II Planning
+
+## [HOOFDSTUK I Ruimtelijke beleidsplannen (verv. decr. 8 december 2017, art. 23, I: 5 mei 2018)]
+
+## [Afdeling 1 Algemene bepalingen (verv. decr. 8 december 2017, art. 23, I: 5 mei 2018)]
+
+### ART. 2.1.1.
+
+Onder ruimtelijk structuurplan wordt verstaan een beleidsdocument dat het kader aangeeft voor de gewenste ruimtelijke structuur. Het geeft een langetermijnvisie op de ruimtelijke ontwikkeling van het gebied in kwestie. Het is erop gericht samenhang te brengen in de voorbereiding, de vaststelling en de uitvoering van beslissingen die de ruimtelijke ordening aanbelangen.<br /><br />Er worden ruimtelijke structuurplannen op de volgende niveaus opgemaakt :<br />1° door het Vlaamse Gewest voor het grondgebied van het Vlaamse Gewest : het ruimtelijk structuurplan Vlaanderen dat de structuurbepalende elementen van gewestelijk belang bevat en taakstellingen met betrekking tot de uitvoering ervan, met aanduiding van de onderdelen die door het Vlaamse Gewest, de provincies of de gemeenten moeten worden uitgevoerd;<br />2° door een provincie voor het grondgebied van de provincie : het provinciaal ruimtelijk structuurplan dat de structuurbepalende elementen van provinciaal belang bevat en taakstellingen met betrekking tot de uitvoering ervan, met aanduiding van de onderdelen die door de provincie of de gemeenten moeten worden uitgevoerd;<br />3° door een gemeente voor het grondgebied van de gemeente : het gemeentelijk ruimtelijk structuurplan dat de structuurbepalende elementen van gemeentelijk belang bevat en taakstellingen met betrekking tot de uitvoering ervan door de gemeente.<br /><br />Aangrenzende gemeenten kunnen voor de totaliteit van hun grondgebieden een gezamenlijk ruimtelijk structuurplan opmaken, met structuurbepalende elementen en taakstellingen van zowel gemeentegrensoverstijgend als gemeentelijk niveau. Voor de toepassing van deze codex wordt het gezamenlijk ruimtelijk structuurplan echter geacht te bestaan uit afzonderlijke gemeentelijke ruimtelijke structuurplannen per gemeentelijk grondgebied, onverminderd artikel 7.2.1, § 2.<br /><br />De structuurbepalende elementen zijn de elementen die de hoofdlijnen van de ruimtelijke structuur van het niveau in kwestie beschrijven.<br /><br />De Vlaamse Regering kan nadere regels vaststellen met betrekking tot bovenvermelde structuurbepalende elementen en tot invulling van de structuurbepalende elementen voor de drie niveaus.<br /><br />
+
+### ART. 2.1.2.
+
+§ 1. Ieder ruimtelijk structuurplan bevat een bindend, een richtinggevend en een informatief gedeelte.<br /><br />§ 2. Bij het opmaken van een ruimtelijk structuurplan duidt de instantie die het plan definitief vaststelt de onderdelen ervan aan die bindend zijn.<br /><br />Voor het ruimtelijk structuurplan Vlaanderen zijn deze onderdelen bindend voor het Vlaamse Gewest, de diensten van de Vlaamse Regering, de instellingen die ressorteren onder het Vlaamse Gewest en de besturen die onder het administratief toezicht staan van het Vlaamse Gewest en de vennootschappen die een erkenning hebben van de instellingen die ressorteren onder het Vlaamse Gewest.<br /><br />Voor het provinciaal ruimtelijk structuurplan zijn deze onderdelen bindend voor de provincie en de gemeenten op haar grondgebied en voor de instellingen die eronder ressorteren.<br /><br />Voor het gemeentelijk ruimtelijk structuurplan zijn deze onderdelen bindend voor de gemeente en voor de instellingen die eronder ressorteren. Van het bindend gedeelte van het gemeentelijk ruimtelijk structuurplan wordt afgeweken indien zulks genoodzaakt wordt door maatregelen die vereist zijn voor de verwezenlijking van het bindend sociaal objectief, vermeld in artikel 4.1.2 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.<br /><br />§ 3. Het richtinggevend gedeelte van een ruimtelijk structuurplan is het deel van het ruimtelijk structuurplan waarvan een overheid bij het nemen van beslissingen niet mag afwijken, tenzij omwille van onvoorziene ontwikkelingen van de ruimtelijke behoeften van de verschillende maatschappelijke activiteiten of omwille van dringende sociale, economische of budgettaire redenen. De uitzonderingsgronden voor een afwijking worden uitgebreid gemotiveerd. Ze mogen in geen geval een aanleiding zijn om de duurzame ruimtelijke ontwikkeling, de ruimtelijke draagkracht en de ruimtelijke kwaliteit van welk gebied ook in het gedrang te brengen. Onverminderd voormelde uitzonderingsgronden wordt tevens van het richtinggevend gedeelte van een gemeentelijk ruimtelijk structuurplan afgeweken indien zulks genoodzaakt wordt door maatregelen die vereist zijn voor de verwezenlijking van het bindend sociaal objectief, vermeld in artikel 4.1.2 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.<br /><br />Dit deel bevat ten minste :<br />1° de doelstellingen en de prioriteiten inzake ruimtelijke ontwikkeling;<br />2° een beschrijving van de gewenste ruimtelijke structuur uitgaande van de bestaande ruimtelijke structuur en van behoeften en gevolgen op economisch, sociaal, cultureel en agrarisch gebied, en op gebied van mobiliteit, natuur en milieu, met inbegrip van veiligheid, in het bijzonder vermeld in artikelen 2 en 24 van het samenwerkingsakkoord van 21 juni 1999 tussen de Federale Staat, het Vlaamse, het Waalse en het Brusselse Hoofdstedelijke Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen betrokken zijn;<br />3° de maatregelen, middelen, instrumenten en acties tot uitvoering van het ruimtelijk structuurplan.<br /><br />§ 4. Het informatief deel bevat ten minste :<br />1° een beschrijving, analyse en evaluatie van de bestaande fysische ruimtelijke toestand;<br />2° een onderzoek naar de toekomstige ruimtelijke behoeften van de verschillende maatschappelijke activiteiten;<br />3° het verband met het hogere ruimtelijk structuurplan of, in voorkomend geval, met de plannen van aanleg en de ruimtelijke uitvoeringsplannen;<br />4° de mogelijke alternatieven om de gewenste ruimtelijke structuur te bereiken.<br /><br />§ 5. Het actieprogramma van het Grond- en pandenbeleidsplan Vlaanderen, vermeld in artikel 2.2.1, § 2, 3°, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid, wordt geïntegreerd in het bindend en het richtinggevend gedeelte van het ruimtelijk structuurplan Vlaanderen, uiterlijk op het ogenblik van de voorlopige vaststelling van dat structuurplan.<br /><br />Provincie- en gemeenteraden kunnen in hun ruimtelijke structuurplannen de beleidskeuzen vastleggen met betrekking tot de door de lokale besturen behartigde aspecten van het grond- en pandenbeleid.<br /><br />§ 6. Na de vaststelling van een ruimtelijk structuurplan neemt de overheid die het structuurplan heeft vastgesteld de nodige maatregelen om de ruimtelijke uitvoeringsplannen in kwestie in overeenstemming te brengen met het ruimtelijk structuurplan.<br /><br />§ 7. De ruimtelijke structuurplannen vormen geen beoordelingsgrond voor vergunningsaanvragen, noch voor het stedenbouwkundig uittreksel en attest.<br /><br />§ 8. De Vlaamse Regering kan de voorwaarden bepalen waaraan één of meer fysieke personen of rechtspersonen, of een gewestelijk, provinciaal of gemeentelijk bestuur moeten voldoen om te kunnen worden aangewezen om een ontwerp van ruimtelijk structuurplan op te maken. Die voorwaarden kunnen onder meer variëren naar gelang van het planningsniveau of naar gelang van de grootte en de aard van de gemeente voor wat het gemeentelijke niveau betreft.<br /><br />De opmaak van het ontwerp van ruimtelijk structuurplan gebeurt onder de verantwoordelijkheid van één of meerdere ruimtelijk planners.<br /><br />De Vlaamse Regering legt een register aan waarin vermeld wordt welke personen conform deze codex als ruimtelijk planner worden beschouwd. Enkel natuurlijke personen kunnen conform deze codex als ruimtelijke planner worden beschouwd. De opname in het register geldt voor een periode van drie jaar. De Vlaamse Regering bepaalt de voorwaarden voor opname in het register.<br /><br />De Vlaamse Regering kan bepalen dat een ruimtelijk structuurplan door meerdere personen in een samenwerkingsverband dient te worden opgemaakt, waaronder minstens één ruimtelijke planner, en ze kan hierbij de vereiste deskundigheden specificeren.<br /><br />§ 9. Er wordt vooroverleg gepleegd tussen de betrokken overheden en instellingen die afhangen van het Vlaamse Gewest over de voorontwerpen van ruimtelijke structuurplannen.<br /><br />De Vlaamse Regering bepaalt welke overheden en instellingen bij het vooroverleg betrokken zijn en kan nadere regels vaststellen met betrekking tot de organisatie van het vooroverleg.<br /><br />
+
+### ART. 2.1.3.
+
+§ 1. De Vlaamse Regering besluit tot het opmaken van het ruimtelijk structuurplan Vlaanderen en neemt de nodige maatregelen tot opmaak.<br /><br />§ 2. De Vlaamse Regering stelt het ontwerp van het ruimtelijk structuurplan voorlopig vast na advies van de Vlaamse commissie voor ruimtelijke ordening en na het daaropvolgende advies van de strategische adviesraad.<br /><br />§ 3. De Vlaamse Regering onderwerpt het ontwerp van het ruimtelijk structuurplan Vlaanderen aan een openbaar onderzoek dat binnen dertig dagen na de voorlopige vaststelling, vermeld in § 2, minstens wordt aangekondigd door :<br />1° aanplakking in elke gemeente van het Vlaamse Gewest;<br />2° een bericht in het Belgisch Staatsblad en in ten minste drie dagbladen die in het Vlaamse Gewest worden verspreid;<br />3° een bericht dat driemaal door de openbare radio en televisie wordt uitgezonden;<br />4° een bericht op de website van het departement.<br /><br />Deze aankondiging vermeldt minstens :<br />1° waar het ontwerp ter inzage ligt;<br />2° de begin- en einddatum van het openbaar onderzoek;<br />3° het adres van de Vlaamse commissie voor ruimtelijke ordening waar adviezen, opmerkingen en bezwaren, vermeld in § 5, dienen toe te komen of kunnen worden afgegeven, en de vermelding dat opmerkingen en bezwaren ook kunnen worden afgegeven op het gemeentehuis.<br /><br />Het openbaar onderzoek start uiterlijk op de dertigste dag na deze waarop de aankondiging ervan in het Belgisch Staatsblad verschenen is. Deze termijn is een termijn van orde.<br /><br />De Vlaamse Regering kan nadere regels voor het openbaar onderzoek vaststellen.<br /><br />§ 4. Na de aankondiging wordt het ontwerp van het ruimtelijk structuurplan Vlaanderen gedurende negentig dagen ter inzage van de bevolking gelegd in het gemeentehuis van elke gemeente van het Vlaamse Gewest en wordt het ontwerp van het ruimtelijk structuurplan Vlaanderen onmiddellijk opgestuurd naar het Vlaams Parlement.<br /><br />De Vlaamse Regering organiseert in elke provincie ten minste één informatie- en inspraakvergadering.<br /><br />§ 5. De bezwaren en opmerkingen worden uiterlijk de laatste dag van de termijn van negentig dagen, vermeld in § 4, eerste lid, aan de Vlaamse commissie voor ruimtelijke ordening toegezonden bij aangetekende brief of afgegeven tegen ontvangstbewijs.<br /><br />De bezwaren en opmerkingen kunnen ook uiterlijk de laatste dag van die termijn aan het gemeentehuis van elke gemeente van het Vlaamse Gewest, worden afgegeven tegen ontvangstbewijs. De gemeente bezorgt in dat geval uiterlijk de derde werkdag na het openbaar onderzoek, de bezwaren en opmerkingen aan de Vlaamse commissie voor ruimtelijke ordening. Met bezwaren en opmerkingen die laattijdig aan de Vlaamse commissie voor ruimtelijke ordening worden bezorgd, moet geen rekening worden gehouden. De Vlaamse Regering kan nadere regels vaststellen met betrekking tot het ontvangen en bijhouden van bezwaren en opmerkingen door de gemeente en met betrekking tot de wijze waarop deze aan de Vlaamse commissie voor ruimtelijke ordening worden bezorgd.<br /><br />De provincieraden, de gemeenteraden en de door de Vlaamse Regering aan te wijzen gewestelijke diensten bezorgen hun advies aan de Vlaamse commissie voor ruimtelijke ordening binnen dezelfde termijn.<br /><br />Wanneer er geen advies is verleend binnen deze termijn, mag aan de adviesvereiste worden voorbijgegaan.<br /><br />§ 6. De Vlaamse commissie voor ruimtelijke ordening bundelt en coördineert alle adviezen, bezwaren en opmerkingen voor de strategische adviesraad, die binnen zestig dagen na het einde van het openbaar onderzoek een gemotiveerd advies uitbrengt bij het Vlaams Parlement en de Vlaamse Regering.<br /><br />§ 7. Binnen een termijn van honderdtachtig dagen, tweehonderdveertig dagen in geval van verlenging van de termijn zoals beschreven in § 8, vanaf het begin van het openbaar onderzoek, kan het Vlaams Parlement bij de Vlaamse Regering een standpunt uitbrengen over het ontwerp van het ruimtelijk structuurplan Vlaanderen.<br /><br />De Sociaal-Economische Raad van Vlaanderen en de Milieu- en Natuurraad van Vlaanderen kunnen eveneens, binnen de termijnregeling, vermeld in het eerste lid, een standpunt uitbrengen over het ontwerp van het ruimtelijk structuurplan Vlaanderen.<br /><br />§ 8. Op gemotiveerd verzoek van de Vlaamse commissie voor ruimtelijke ordening of de strategische adviesraad beslist de Vlaamse Regering over de verlenging met zestig dagen van de termijn, vermeld in § 6. Het verzoek moet worden ingediend uiterlijk de dertigste dag na het beëindigen van het openbaar onderzoek. Bij ontstentenis van een beslissing binnen een termijn van dertig dagen na het verzoek wordt de verlenging geacht te zijn toegekend.<br /><br />Wanneer de strategische adviesraad geen advies heeft verleend binnen de gestelde termijn, mag aan de adviesvereiste worden voorbijgegaan. In dat geval bezorgt ze onmiddellijk de gebundelde adviezen, opmerkingen en bezwaren aan de Vlaamse Regering.<br /><br />§ 9. De Vlaamse Regering stelt binnen tweehonderd veertig dagen na de begindatum van het openbaar onderzoek, driehonderd dagen in geval van verlenging van de termijn, vermeld in § 8, het ruimtelijk structuurplan Vlaanderen definitief vast.<br /><br />Bij de definitieve vaststelling van het plan kunnen ten opzichte van het voorlopig vastgestelde plan slechts wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit de tijdens het openbaar onderzoek geformuleerde bezwaren en opmerkingen of de adviezen, ingewonnen op grond van een bij of krachtens deze codex vastgestelde adviesverplichting.<br /><br />§ 10. Het bindend gedeelte dient, na de definitieve vaststelling, binnen zestig dagen bekrachtigd te worden door het Vlaams Parlement.<br /><br />
+
+### ART. 2.1.4.
+
+Het besluit houdende definitieve vaststelling van het ruimtelijk structuurplan Vlaanderen wordt door de Vlaamse Regering bij uittreksel bekendgemaakt in het Belgisch Staatsblad. Het ruimtelijk structuurplan Vlaanderen treedt in werking veertien dagen na de bekendmaking ervan.<br /><br />De Vlaamse Regering stuurt een afschrift van het ruimtelijk structuurplan Vlaanderen, van het advies van de strategische adviesraad en van het besluit houdende de definitieve vaststelling naar elke gemeente, waar deze documenten kunnen worden ingezien.<br /><br />
+
+## [Afdeling 2 Het Beleidsplan Ruimte Vlaanderen (verv. decr. 8 december 2017, art. 23, I: 5 mei 2018)]
+
+### ART. 2.1.5.
+
+§ 1. Het ruimtelijk structuurplan Vlaanderen wordt vastgesteld voor een termijn van vijf jaar. Het blijft in ieder geval van kracht tot het door een nieuw definitief vastgesteld ruimtelijk structuurplan Vlaanderen is vervangen.<br /><br />De bindende bepalingen van de bestaande provinciale en gemeentelijke ruimtelijke structuurplannen die strijdig zijn met de bindende bepalingen van het nieuw vastgestelde ruimtelijk structuurplan Vlaanderen, worden limitatief opgesomd of omschreven in het bindend deel van het nieuw vastgestelde ruimtelijk structuurplan Vlaanderen en zijn hierdoor van rechtswege opgeheven. De Vlaamse Regering kan tevens een termijn opleggen voor de herziening van de ruimtelijke structuurplannen die tegenstrijdige bindende bepalingen bevatten.<br /><br />§ 2. Het ruimtelijk structuurplan Vlaanderen kan te allen tijde geheel of gedeeltelijk worden herzien.<br /><br />§ 3. De regels voor de opmaak van het ruimtelijk structuurplan Vlaanderen zijn eveneens van toepassing op de herziening ervan.<br /><br />§ 4. Elke provincieraad, op voorstel van de deputatie, en elke gemeenteraad, op voorstel van het college van burgemeester en schepenen, kan een gemotiveerd verzoek richten aan de Vlaamse Regering om het ruimtelijk structuurplan Vlaanderen te herzien. Binnen negentig dagen vanaf de verzending van dit verzoek dient de Vlaamse Regering dit verzoek gemotiveerd te beantwoorden.<br /><br />
+
+### ART. 2.1.6.
+
+De Vlaamse Regering kan gewestelijke ruimtelijke uitvoeringsplannen opmaken en herzien en andere passende initiatieven nemen ter uitvoering van het ruimtelijk structuurplan Vlaanderen.<br /><br />De Vlaamse Regering kan tevens optreden in de plaats van de provincies of de gemeenten indien ze de krachtens het ruimtelijk structuurplan Vlaanderen opgedragen taken niet uitvoeren.<br /><br />De Vlaamse Regering kan, binnen de perken van de begroting, subsidies verlenen aan provincies, gemeenten, verenigingen van gemeenten, openbare instellingen en aan private rechtspersonen die betrokken zijn bij een samenwerkingsverband voor het opzetten en realiseren van een strategisch project in uitvoering van het Ruimtelijk Structuurplan Vlaanderen, als tegemoetkoming in de kosten voor de coördinatie van het betreffende project.<br /><br />
+
+### ART. 2.1.7.
+
+De provincie stelt hetzij uit eigen beweging, hetzij binnen de termijn die haar door de Vlaamse Regering wordt opgelegd, een provinciaal ruimtelijk structuurplan vast. Het provinciaal ruimtelijk structuurplan richt zich naar het ruimtelijk structuurplan Vlaanderen en kan slechts van het richtinggevend deel afwijken op grond van de motieven, bepaald in artikel 2.1.2, § 3. Van de als bindend aangeduide onderdelen kan niet worden afgeweken.<br /><br />
+
+## [Afdeling 3 Het provinciaal beleidsplan ruimte (verv. decr. 8 december 2017, art. 23, I: 5 mei 2018)]
+
+### ART. 2.1.8.
+
+§ 1. Onverminderd artikel 2.1.7, beslist de provincieraad tot het opmaken van een provinciaal ruimtelijk structuurplan.<br /><br />§ 2. De Vlaamse Regering kan een gemotiveerd verzoek richten aan de provincieraad om een provinciaal ruimtelijk structuurplan op te maken of te herzien.<br /><br />Binnen negentig dagen vanaf de verzending van dit verzoek dient de provincieraad dit verzoek gemotiveerd te beantwoorden.<br /><br />§ 3. Bij ontstentenis van een antwoord of bij een onvoldoend gemotiveerd antwoord, kan de Vlaamse Regering een termijn opleggen waarbinnen het provinciaal ruimtelijk structuurplan moet worden opgemaakt. Als de provincieraad deze termijn laat verstrijken, kan de Vlaamse Regering zelf het provinciaal ruimtelijk structuurplan laten opmaken en vaststellen op kosten van de provincie, overeenkomstig de regels voor de opmaak van een provinciaal ruimtelijk structuurplan, met dien verstande dat ze in de plaats treedt van de provincieraad, of de deputatie al naargelang van het geval, voor elke beslissing die met betrekking tot deze opmaak moet worden genomen.<br /><br />§ 4. De gemeenteraad van een gemeente gelegen binnen de provincie kan, op voorstel van het college van burgemeester en schepenen, een gemotiveerd verzoek richten aan de provincieraad om een provinciaal ruimtelijk structuurplan te herzien. Binnen negentig dagen vanaf de verzending van dit verzoek dient de provincieraad dit verzoek gemotiveerd te beantwoorden.<br /><br />
+
+### ART. 2.1.9.
+
+§ 1. De deputatie is belast met het opmaken van het provinciaal ruimtelijk structuurplan en neemt de nodige maatregelen tot opmaak.<br /><br />§ 2. De provincieraad stelt, na advies van de provinciale commissie voor ruimtelijke ordening, het ontwerp van provinciaal ruimtelijk structuurplan voorlopig vast.<br /><br />Tevens stuurt hij het onmiddellijk op naar de Vlaamse Regering.<br /><br />
+
+### ART. 2.1.10.
+
+§ 1. De deputatie onderwerpt het ontwerp van provinciaal ruimtelijk structuurplan aan een openbaar onderzoek dat binnen dertig dagen na de voorlopige vaststelling, vermeld in artikel 2.1.9, § 2, minstens wordt aangekondigd door :<br />1° aanplakking in elke gemeente van de provincie;<br />2° een bericht in het Belgisch Staatsblad en in ten minste drie dagbladen die in de provincie worden verspreid;<br />3° een bericht op de website van de provincie.<br /><br />Deze aankondiging vermeldt minstens :<br />1° waar het ontwerp ter inzage ligt;<br />2° de begin- en einddatum van het openbaar onderzoek;<br />3° het adres van de provinciale commissie voor ruimtelijke ordening waar adviezen, opmerkingen en bezwaren, vermeld in § 3, dienen toe te komen of kunnen worden afgegeven, en de vermelding dat opmerkingen en bezwaren ook kunnen worden afgegeven op het gemeentehuis.<br /><br />Het openbaar onderzoek start uiterlijk op de dertigste dag na deze waarop de aankondiging ervan in het Belgisch Staatsblad verschenen is. Deze termijn is een termijn van orde.<br /><br />De deputatie kan nadere regels voor het openbaar onderzoek vaststellen.<br /><br />De deputatie organiseert ten minste één informatie- en inspraakvergadering.<br /><br />§ 2. Na de aankondiging wordt het ontwerp van provinciaal ruimtelijk structuurplan gedurende negentig dagen ter inzage van de bevolking gelegd in het gemeentehuis van elke gemeente van de provincie en wordt het onmiddellijk aan de provincieraad bezorgd.<br /><br />§ 3. De bezwaren en opmerkingen worden uiterlijk bij het verstrijken van de termijn van negentig dagen, vermeld in § 2, eerste lid, aan de provinciale commissie voor ruimtelijke ordening toegezonden bij een aangetekende brief of afgegeven tegen ontvangstbewijs.<br /><br />De bezwaren en opmerkingen kunnen ook uiterlijk de laatste dag van die termijn aan het gemeentehuis van elke gemeente van de provincie, worden afgegeven tegen ontvangstbewijs. De gemeente bezorgt in dat geval uiterlijk de derde werkdag na het openbaar onderzoek, de bezwaren en opmerkingen aan de provinciale commissie voor ruimtelijke ordening. Met bezwaren en opmerkingen die laattijdig aan de provinciale commissie voor ruimtelijke ordening worden bezorgd, moet geen rekening worden gehouden. De Vlaamse Regering kan nadere regels vaststellen met betrekking tot het ontvangen en bijhouden van bezwaren en opmerkingen door de gemeente en met betrekking tot de wijze waarop deze aan de provinciale commissie voor ruimtelijke ordening worden bezorgd.<br /><br />De gemeenteraden van de gemeenten in kwestie bezorgen binnen dezelfde termijn hun advies aan de provinciale commissie voor ruimtelijke ordening.<br /><br />De provincieraden van de aanpalende provincies van het Vlaamse Gewest en de gemeenteraden van de gemeenten van het Vlaamse Gewest die aan de provincie grenzen, alsook de door de Vlaamse Regering aan te wijzen gewestelijke diensten kunnen ook binnen diezelfde termijn een advies sturen naar de provinciale commissie voor ruimtelijke ordening.<br /><br />De Vlaamse Regering brengt, na raadpleging van de Vlaamse commissie voor ruimtelijke ordening, binnen honderdtwintig dagen na de begindatum van het openbaar onderzoek een advies uit inzake de overeenstemming van het ontwerp van provinciaal ruimtelijk structuurplan met het ruimtelijk structuurplan Vlaanderen.<br /><br />Wanneer er binnen deze termijnen geen advies is verleend, mag aan de adviesvereiste worden voorbijgegaan.<br /><br />§ 4. De provinciale commissie voor ruimtelijke ordening bundelt en coördineert alle adviezen, bezwaren en opmerkingen en brengt binnen zestig dagen na het einde van het openbaar onderzoek een gemotiveerd advies uit bij de provincieraad. Dit advies bevat het integrale advies van de Vlaamse Regering.<br /><br />§ 5. Op gemotiveerd verzoek van de provinciale commissie voor ruimtelijke ordening beslist de deputatie over de verlenging met zestig dagen van de termijn, vermeld in § 4. Het verzoek moet worden ingediend uiterlijk de dertigste dag na het beëindigen van het openbaar onderzoek. Bij ontstentenis van een beslissing binnen een termijn van dertig dagen na de ontvangst van het verzoek wordt de verlenging geacht te zijn toegekend.<br /><br />Wanneer de provinciale commissie voor ruimtelijke ordening geen advies heeft verleend binnen de gestelde termijn, mag aan de adviesvereiste worden voorbijgegaan. In dat geval bezorgt ze onmiddellijk de gebundelde adviezen, opmerkingen en bezwaren aan de provincieraad.<br /><br />§ 6. De provincieraad stelt binnen tweehonderdtien dagen na de begindatum van het openbaar onderzoek, tweehonderdzeventig dagen in geval van verlenging van de termijn, vermeld in § 5, het provinciaal ruimtelijk structuurplan definitief vast.<br /><br />Bij de definitieve vaststelling van het plan kunnen ten opzichte van het voorlopig vastgestelde plan slechts wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit de tijdens het openbaar onderzoek geformuleerde bezwaren en opmerkingen of de adviezen, ingewonnen op grond van een bij of krachtens deze codex vastgestelde adviesverplichting.<br /><br />§ 7. Na de behandeling van het provinciaal ruimtelijk structuurplan beschikt de Vlaamse Regering over een termijn van zestig dagen om het al dan niet goed te keuren. Bij de goedkeuring onderzoekt de Vlaamse Regering of het provinciaal ruimtelijk structuurplan formeel en inhoudelijk in overeenstemming is met het ruimtelijk structuurplan Vlaanderen. De goedkeuring kan gedeeltelijk zijn. Als de Vlaamse Regering nalaat binnen die termijn van zestig dagen een beslissing te nemen, kan de deputatie bij aangetekende brief de Vlaamse Regering rappelleren.<br /><br />Als de Vlaamse Regering geen beslissing heeft verstuurd binnen twintig dagen met ingang van de dag waarop de rappelbrief is verstuurd, wordt het door de provincieraad vastgesteld provinciaal ruimtelijk structuurplan geacht te zijn goedgekeurd.<br /><br />
+
+## [Afdeling 4 Het gemeentelijk beleidsplan ruimte (verv. decr. 8 december 2017, art. 23, I: 5 mei 2018)]
+
+### ART. 2.1.11.
+
+Het goedkeuringsbesluit van de Vlaamse Regering wordt bij uittreksel in het Belgisch Staatsblad bekendgemaakt. Het provinciaal ruimtelijk structuurplan treedt in werking veertien dagen na de bekendmaking.<br /><br />Bij ontstentenis van een beslissing van de Vlaamse Regering, in de zin van artikel 2.1.10, § 7, tweede lid, treedt het plan in werking veertien dagen na de bekendmaking bij uittreksel in het Belgisch Staatsblad van de provincieraadsbeslissing houdende definitieve vaststelling van het plan. De deputatie meldt de Vlaamse Regering dat een uittreksel van de provincieraadsbeslissing voor bekendmaking in het Belgisch Staatsblad werd verzonden. Deze melding gebeurt tegelijkertijd met de verzending.<br /><br />De deputatie stuurt een afschrift van het provinciaal ruimtelijk structuurplan, van het advies van de provinciale commissie voor ruimtelijke ordening, van het vaststellingsbesluit en van het goedkeuringsbesluit naar elke gemeente, waar deze documenten kunnen worden ingezien.<br /><br />
+
+### ART. 2.1.12.
+
+§ 1. Het provinciaal ruimtelijk structuurplan wordt vastgesteld voor een termijn van vijf jaar. Het blijft in ieder geval van kracht tot het door een nieuw goedgekeurd provinciaal ruimtelijk structuurplan is vervangen, behoudens de bindende bepalingen die van rechtswege opgeheven zijn ingevolge artikel 2.1.5, § 1, tweede lid.<br /><br />De bindende bepalingen van de bestaande gemeentelijke ruimtelijke structuurplannen van de gemeenten binnen het grondgebied van de provincie, die strijdig zijn met de bindende bepalingen van het nieuw vastgestelde provinciaal ruimtelijk structuurplan, worden limitatief opgesomd in het bindend deel van het nieuw vastgestelde provinciaal ruimtelijk structuurplan en zijn hierdoor van rechtswege opgeheven. De provincieraad kan tevens een termijn opleggen voor de herziening van de gemeentelijke ruimtelijke structuurplannen die tegenstrijdige bindende bepalingen bevatten.<br /><br />§ 2. Het provinciaal ruimtelijk structuurplan kan te allen tijde geheel of gedeeltelijk worden herzien.<br /><br />§ 3. De regels voor de opmaak van het provinciaal ruimtelijk structuurplan zijn eveneens van toepassing op de herziening ervan.<br /><br />
+
+### ART. 2.1.13.
+
+De provincie kan provinciale ruimtelijke uitvoeringsplannen opmaken en herzien ter uitvoering van het provinciaal ruimtelijk structuurplan en van dat deel van het ruimtelijk structuurplan Vlaanderen waarvan de uitvoering aan de provincie werd toegewezen.<br /><br />De provincieraad kan tevens optreden in de plaats van de gemeenten indien ze de krachtens het provinciaal ruimtelijk structuurplan opgedragen taken niet uitvoeren.<br /><br />
+
+### ART. 2.1.14.
+
+Voor elke gemeente wordt een gemeentelijk ruimtelijk structuurplan vastgesteld. Het gemeentelijk ruimtelijk structuurplan richt zich naar het ruimtelijk structuurplan Vlaanderen en het provinciaal ruimtelijk structuurplan van de provincie waarbinnen de gemeente ligt. Het kan van het richtinggevend deel van het ruimtelijk structuurplan Vlaanderen en van het provinciaal ruimtelijk structuurplan slechts afwijken op grond van de motieven, bepaald in artikel 2.1.2, § 3. Van de als bindend aangeduide onderdelen kan niet worden afgeweken.<br /><br />
+
+### ART. 2.1.15.
+
+§ 1. De gemeenteraad beslist tot het opmaken van een gemeentelijk ruimtelijk structuurplan.<br /><br />§ 2. Zonder afbreuk te doen aan de bevoegdheden toegewezen door het gemeentedecreet, kan de Vlaamse Regering een gemotiveerd verzoek richten tot de gemeenteraad om een gemeentelijk ruimtelijk structuurplan op te maken of te herzien.<br /><br />Binnen negentig dagen nadat de gemeente het verzoek ontvangen heeft, beslist de gemeenteraad welk gevolg hij aan dit verzoek geeft.<br /><br />§ 3. Bij ontstentenis van een antwoord of bij een onvoldoende gemotiveerd antwoord, kan de Vlaamse Regering aan de gemeente een termijn opleggen waarbinnen het gemeentelijk ruimtelijk structuurplan moet worden opgemaakt.<br /><br />Als de gemeenteraad deze termijn laat verstrijken, kan de Vlaamse Regering zelf het gemeentelijk ruimtelijk structuurplan laten opmaken en vaststellen op kosten van de gemeente, overeenkomstig de regels voor de opmaak van een gemeentelijk ruimtelijk structuurplan, met dien verstande dat ze in de plaats treedt van de gemeenteraad, of van het college van burgemeester en schepenen al naargelang van het geval, voor elke beslissing die met betrekking tot deze opmaak moet worden genomen.<br /><br />
+
+### ART. 2.1.16.
+
+§ 1. Het college van burgemeester en schepenen is belast met het opmaken van het gemeentelijk ruimtelijk structuurplan en neemt de nodige maatregelen tot opmaak.<br /><br />§ 2. De gemeenteraad stelt, na advies van de gemeentelijke commissie voor ruimtelijke ordening, het ontwerp van gemeentelijk ruimtelijk structuurplan voorlopig vast.<br /><br />Tevens stuurt hij het onmiddellijk op naar de deputatie van de provincie en naar de Vlaamse Regering.<br /><br />§ 3. Het college van burgemeester en schepenen onderwerpt het ontwerp van gemeentelijk ruimtelijk structuurplan aan een openbaar onderzoek dat binnen dertig dagen na de voorlopige vaststelling, vermeld in § 2, minstens wordt aangekondigd door :<br />1° aanplakking in de gemeente;<br />2° door een bericht in het Belgisch Staatsblad en in ten minste drie dagbladen die in de provincie worden verspreid;<br />3° een bericht op de website van de gemeente.<br /><br />Deze aankondiging vermeldt minstens :<br />1° waar het ontwerp ter inzage ligt;<br />2° de begin- en einddatum van het openbaar onderzoek;<br />3° het adres waarop de aan de gemeentelijke commissie voor ruimtelijke ordening gerichte adviezen, opmerkingen en bezwaren, vermeld in § 5, dienen toe te komen of kunnen worden afgegeven.<br /><br />Het openbaar onderzoek start uiterlijk op de dertigste dag na deze waarop de aankondiging ervan in het Belgisch Staatsblad verschenen is. Deze termijn is een termijn van orde.<br /><br />Het college van burgemeester en schepenen kan nadere regels voor het openbaar onderzoek vaststellen.<br /><br />Het college van burgemeester en schepenen organiseert ten minste één informatie- en inspraakvergadering.<br /><br />§ 4. Het ontwerp van gemeentelijk ruimtelijk structuurplan wordt gedurende negentig dagen ter inzage van de bevolking gelegd in het gemeentehuis en het wordt onmiddellijk aan de gemeenteraad bezorgd.<br /><br />§ 5. De bezwaren en opmerkingen worden uiterlijk bij het verstrijken van de termijn van negentig dagen, vermeld in § 4, aan de gemeentelijke commissie voor ruimtelijke ordening toegezonden bij aangetekende brief of afgegeven tegen ontvangstbewijs.<br /><br />De gemeenteraden van de aanpalende gemeenten in het Vlaamse Gewest en de provincieraden van de aanpalende provincies in het Vlaamse Gewest sturen binnen dezelfde termijn hun advies naar de bevoegde gemeentelijke commissie voor ruimtelijke ordening.<br /><br />De deputatie brengt, na raadpleging van de provinciale commissie voor ruimtelijke ordening, binnen honderdtwintig dagen na de begindatum van het openbaar onderzoek een advies uit over de overeenstemming van het ontwerp van gemeentelijk ruimtelijk structuurplan met het provinciaal ruimtelijk structuurplan.<br /><br />Wanneer er binnen deze termijnen geen advies is verleend, mag aan de adviesvereiste worden voorbijgegaan.<br /><br />§ 6. De gemeentelijke commissie voor ruimtelijke ordening bundelt en coördineert alle adviezen, bezwaren en opmerkingen en brengt binnen zestig dagen na het einde van het openbaar onderzoek een gemotiveerd advies uit bij de gemeenteraad. Dit advies bevat het integrale advies van de deputatie.<br /><br />§ 7. Op gemotiveerd verzoek van de gemeentelijke commissie voor ruimtelijke ordening beslist het college van burgemeester en schepenen over de verlenging met zestig dagen van de termijn, vermeld in § 6. Het verzoek moet worden ingediend uiterlijk de dertigste dag na het beëindigen van het openbaar onderzoek. Bij ontstentenis van een beslissing binnen een termijn van dertig dagen na de ontvangst van het verzoek wordt de verlenging geacht te zijn toegekend.<br /><br />Wanneer de gemeentelijke commissie voor ruimtelijke ordening geen advies heeft verleend binnen de gestelde termijn, mag aan de adviesvereiste worden voorbijgegaan. In dat geval bezorgt ze onmiddellijk de gebundelde adviezen, opmerkingen en bezwaren aan de gemeenteraad.<br /><br />§ 8. De gemeenteraad stelt binnen tweehonderdtien dagen na de begindatum van het openbaar onderzoek, tweehonderdzeventig dagen in geval van verlenging van termijn, vermeld in § 7, het gemeentelijk ruimtelijk structuurplan definitief vast. Het college van burgemeester en schepenen betekent binnen een termijn van dertig dagen het definitief vastgestelde gemeentelijk ruimtelijk structuurplan aan de deputatie en aan de Vlaamse Regering.<br /><br />Bij de definitieve vaststelling van het plan kunnen ten opzichte van het voorlopig vastgestelde plan slechts wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit de tijdens het openbaar onderzoek geformuleerde bezwaren en opmerkingen of de adviezen, ingewonnen op grond van een bij of krachtens deze codex vastgestelde adviesverplichting.<br /><br />§ 9. Als er een provinciaal ruimtelijk structuurplan bestaat, beslist de deputatie binnen zestig dagen na ontvangst van het gemeentelijk ruimtelijk structuurplan om het al dan niet goed te keuren. De goedkeuring kan gedeeltelijk zijn. Als de deputatie nalaat binnen die termijn een beslissing te nemen, kan de gemeente bij aangetekend schrijven de deputatie rappelleren. Als geen beslissing wordt genomen binnen twintig dagen met ingang van de dag waarop de rappelbrief ter post is afgegeven, kan de gemeente het gemeentelijk ruimtelijk structuurplan voorleggen aan de Vlaamse Regering. De Vlaamse Regering beslist binnen zestig dagen na ontvangst van het gemeentelijk ruimtelijk structuurplan om het al dan niet goed te keuren. Bij ontstentenis van beslissing van de Vlaamse Regering binnen deze termijn kan de gemeente bij aangetekend schrijven de Vlaamse Regering rappelleren. Als geen beslissing wordt genomen binnen twintig dagen met ingang van de dag waarop de rappelbrief ter post is afgegeven, wordt het gemeentelijk ruimtelijk structuurplan geacht te zijn goedgekeurd.<br /><br />Bij de goedkeuring onderzoekt de deputatie, of in voorkomend geval de Vlaamse Regering, of het gemeentelijk ruimtelijk structuurplan formeel en inhoudelijk in overeenstemming is met het provinciaal ruimtelijk structuurplan en met het ruimtelijk structuurplan Vlaanderen. De goedkeuring kan gedeeltelijk zijn.<br /><br />
+
+### ART. 2.1.17.
+
+Het goedkeuringsbesluit van de deputatie of van de Vlaamse Regering wordt bij uittreksel in het Belgisch Staatsblad bekendgemaakt. Het gemeentelijk ruimtelijk structuurplan treedt in werking veertien dagen na de bekendmaking.<br /><br />Bij ontstentenis van een goedkeuringsbesluit, in de zin van artikel 2.1.16, § 9, eerste lid, laatste zin, treedt het plan in werking veertien dagen na de bekendmaking bij uittreksel in het Belgisch Staatsblad van de gemeenteraadsbeslissing houdende definitieve vaststelling van het plan. Het college van burgemeester en schepenen meldt de deputatie en de Vlaamse Regering dat een uittreksel van de gemeenteraadsbeslissing voor bekendmaking in het Belgisch Staatsblad werd verzonden. Deze melding gebeurt tegelijkertijd met de verzending.<br /><br />Het gemeentelijk ruimtelijk structuurplan, het advies van de gemeentelijke commissie voor ruimtelijke ordening, het vaststellingsbesluit en het goedkeuringsbesluit worden ter inzage gelegd in de gemeente.<br /><br />
+
+### ART. 2.1.18.
+
+§ 1. Het gemeentelijk ruimtelijk structuurplan wordt vastgesteld voor een termijn van vijf jaar. Het blijft in ieder geval van kracht totdat het door een nieuw goedgekeurd gemeentelijk ruimtelijk structuurplan is vervangen, behoudens de bindende bepalingen die van rechtswege opgeheven zijn ingevolge artikel 2.1.5, § 1, tweede lid en artikel 2.1.12, § 1, tweede lid.<br /><br />§ 2. Het gemeentelijk ruimtelijk structuurplan kan te allen tijde geheel of gedeeltelijk worden herzien.<br /><br />§ 3. De regels voor de opmaak van het gemeentelijk ruimtelijk structuurplan zijn eveneens van toepassing op de herziening ervan.<br /><br />§ 4. Binnen de perken van de begrotingskredieten kan de Vlaamse Regering (ook financiële) ondersteuning verlenen aan de gemeenten voor het vervullen van hun taken met betrekking tot de ruimtelijke structuurplannen.<br /><br />De Vlaamse Regering bepaalt de voorwaarden en nadere regels hiertoe.<br /><br />
+
+### ART. 2.1.19.
+
+De gemeente kan gemeentelijke ruimtelijke uitvoeringsplannen opmaken en herzien ter uitvoering van het gemeentelijk ruimtelijk structuurplan en van die delen van het ruimtelijk structuurplan Vlaanderen en van het provinciaal ruimtelijk structuurplan waarvan de uitvoering aan de gemeente werd toegewezen.<br /><br />
+
+## HOOFDSTUK II Ruimtelijke uitvoeringsplannen
+
+## Afdeling 1 Algemene bepalingen
+
+### ART. 2.2.1.
+
+§ 1. Er worden ruimtelijke uitvoeringsplannen op de volgende niveaus opgemaakt :<br />1° gewestelijke ruimtelijke uitvoeringsplannen voor een deel of delen van het grondgebied van het Gewest;<br />2° provinciale ruimtelijke uitvoeringsplannen voor een deel of delen van het grondgebied van de provincie;<br />3° gemeentelijke ruimtelijke uitvoeringsplannen voor een deel of delen van het grondgebied van de gemeente.<br /><br />§ 2. Een planningsniveau kan met instemming van alle op grond van de ruimtelijke structuurplanning bevoegde planningsniveaus een planningsinitiatief nemen voor de totaliteit van een bepaald gebied, ook al beschikt het daartoe niet over de noodzakelijke planningsbevoegdheden.<br /><br />De instemming, vermeld in het eerste lid, wordt verleend door de Vlaamse Regering, de deputatie, respectievelijk het college van burgemeester en schepenen. Zij wordt schriftelijk gegeven, uiterlijk op of naar aanleiding van de plenaire vergadering.<br /><br />De instemming houdt in dat aan het initiërende planningsniveau de nodige planningsbevoegdheden worden gedelegeerd.<br /><br />Bij het verlenen van de instemming kunnen de planningsniveaus afspraken maken over de verdeling van de kosten verbonden met de opmaak van het ruimtelijk uitvoeringsplan en van financiële lasten of opbrengsten ten gevolge van de planschadevergoeding of de planbatenheffing die in voorkomend geval uit het ruimtelijk uitvoeringsplan zal ontstaan. In voorkomend geval kan daarbij worden afgeweken van artikel 2.6.17, § 3, eerste lid, 2° tot en met 5°.<br /><br />De delegatie vervalt vanaf de inwerkingtreding van het ruimtelijk uitvoeringsplan.<br /><br />De principieel bevoegde planningsniveaus kunnen het in werking getreden ruimtelijk uitvoeringsplan later geheel of gedeeltelijk vervangen binnen hun eigen planningsbevoegdheden. In voorkomend geval wordt daarbij het beginsel dat lagere ruimtelijke uitvoeringsplannen niet mogen afwijken van hogere uitvoeringsplannen, vermeld in artikel 2.2.9, § 2, tweede lid, en artikel 2.2.13, § 3, buiten toepassing gelaten.<br /><br />De regeling van deze paragraaf kan niet worden aangewend voor ruimtelijke projecten van gewestelijk en strategisch belang respectievelijk ruimtelijke projecten van groot lokaal en strategisch belang in de zin van titel III.<br /><br />
+
+### ART. 2.2.2.
+
+§ 1. Een ruimtelijk uitvoeringsplan bevat :<br />1° een grafisch plan dat aangeeft voor welk gebied of welke gebieden het plan van toepassing is;<br />2° de erbij horende stedenbouwkundige voorschriften inzake de bestemming, de inrichting en/of het beheer, en, desgevallend, de normen, vermeld in artikel 4.1.12 en 4.1.13 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid;<br />3° een weergave van de feitelijke en juridische toestand;<br />4° de relatie met het ruimtelijk structuurplan of de ruimtelijke structuurplannen waarvan het een uitvoering is;<br />5° in voorkomend geval, een zo mogelijk limitatieve opgave van de voorschriften die strijdig zijn met het ruimtelijk uitvoeringsplan en die opgeheven worden;<br />6° in voorkomend geval een overzicht van de conclusies van :<br />a) het planmilieueffectenrapport,<br />b) de passende beoordeling,<br />c) het ruimtelijk veiligheidsrapport,<br />d) andere verplicht voorgeschreven effectenrapporten;<br />7° in voorkomend geval, een register, al dan niet grafisch, van de percelen waarop een bestemmingswijziging wordt doorgevoerd die aanleiding kan geven tot een planschadevergoeding, vermeld in artikel 2.6.1, een planbatenheffing, vermeld in artikel 2.6.4, of een compensatie, vermeld in boek 6, titel 2 of titel 3, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.<br /><br />In voorkomend geval wordt de verklaring, vermeld in artikel 4.2.11, § 4, eerste lid, 2°, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid opgenomen in een toelichtingsnota bij het ruimtelijk uitvoeringsplan.<br /><br />Alle aangelegenheden die krachtens artikel 2.3.1, geregeld kunnen worden in stedenbouwkundige verordeningen, met uitsluiting van artikel 2.3.1, eerste lid, 11°, kunnen het voorwerp uitmaken van een stedenbouwkundig voorschrift van een ruimtelijk uitvoeringsplan.<br /><br />Het grafische plan dat aangeeft voor welk gebied of welke gebieden het plan van toepassing is en de erbij horende stedenbouwkundige voorschriften hebben verordenende kracht.<br /><br />§ 2. Ruimtelijke uitvoeringsplannen blijven gelden tot ze worden vervangen. Ze kunnen te allen tijde geheel of gedeeltelijk worden vervangen.<br /><br />De regels voor het opmaken van ruimtelijke uitvoeringsplannen zijn eveneens van toepassing op de vervanging ervan.<br /><br />§ 3. De voorschriften van het gewestelijke ruimtelijke uitvoeringsplan heffen de voorschriften van de provinciale en gemeentelijke ruimtelijke uitvoeringsplannen die daar strijdig mee zijn, van rechtswege op.<br /><br />De voorschriften van het provinciale ruimtelijke uitvoeringsplan heffen de voorschriften van de gemeentelijke ruimtelijke uitvoeringsplannen die daar strijdig mee zijn, van rechtswege op.<br /><br />
+
+### ART. 2.2.3.
+
+§ 1. De stedenbouwkundige voorschriften kunnen eigendomsbeperkingen inhouden, met inbegrip van bouwverbod.<br /><br />De stedenbouwkundige voorschriften kunnen van die aard zijn dat ze na verloop van tijd in werking treden of dat de inhoud op een bepaald tijdstip verandert.<br /><br />De stedenbouwkundige voorschriften kunnen modaliteiten voorschrijven die bij de inrichting van het gebied in acht moeten worden genomen.<br /><br />§ 2. Een stedenbouwkundig voorschrift in een ruimtelijk uitvoeringsplan sorteert te allen tijde onder een categorie of een subcategorie van gebiedsaanduiding.<br /><br />De categorieën van gebiedsaanduiding zijn de volgende :<br />1° « wonen », ten minste bestaande uit volgende subcategorieën van gebiedsaanduiding :<br />a) « woongebied », in hoofdzaak bestemd voor wonen en aan het wonen verwante activiteiten en voorzieningen,<br />b) « gebied voor wonen en voor landbouw », in hoofdzaak bestemd voor wonen, landbouw, openbare groene ruimten en openbare verharde ruimten en aan het wonen verwante activiteiten;<br />2° « bedrijvigheid », in hoofdzaak bestemd voor bedrijfsactiviteiten en/of kantoren;<br />3° « recreatie », in hoofdzaak bestemd voor recreatie, dagrecreatie en/of verblijfsrecreatie;<br />4° « landbouw », ten minste bestaande uit volgende subcategorieën van gebiedsaanduiding :<br />a) « agrarisch gebied », in hoofdzaak bestemd voor beroepslandbouw,<br />b) « agrarische bedrijvenzone », in hoofdzaak bestemd voor de inplanting van agrarische bedrijven, in het bijzonder glastuinbouw,<br />c) « bouwvrij agrarisch gebied », in hoofdzaak bestemd voor beroepslandbouw, met dien verstande dat het oprichten van gebouwen niet is toegelaten;<br />5° « bos », in hoofdzaak bestemd voor de instandhouding, de ontwikkeling en het herstel van het bos;<br />6° « overig groen », ten minste bestaande uit volgende subcategorieën van gebiedsaanduiding :<br />a) « gemengd openruimtegebied », waarbij natuurbehoud, bosbouw, landschapszorg, landbouw en recreatie nevengeschikte functies zijn,<br />b) « parkgebied », in hoofdzaak bestemd voor de instandhouding, het herstel en de ontwikkeling van een park of parken;<br />7° « reservaat en natuur », in hoofdzaak bestemd voor de instandhouding, de ontwikkeling en het herstel van de natuur, het natuurlijk milieu en bos;<br />8° « lijninfrastructuur », in hoofdzaak bestemd voor verkeers- en vervoersinfrastructuur, wegeninfrastructuur, spoorinfrastructuur of waterweginfrastructuur en hun aanhorigheden;<br />9° « gemeenschaps- en nutsvoorzieningen », in hoofdzaak bestemd voor gemeenschapsvoorzieningen en openbare nutsvoorzieningen of infrastructuur van openbaar nut voor de zuivering van afvalwater;<br />10° « ontginning en waterwinning », ten minste bestaande uit volgende subcategorieën van gebiedsaaanduiding :<br />a) « gebied voor infrastructuur voor duurzame watervoorziening », in hoofdzaak bestemd voor infrastructuur van openbaar nut voor duurzame watervoorziening,<br />b) « gebied voor de winning van oppervlaktedelfstoffen », in hoofdzaak bestemd voor de ontginning van delfstoffen,<br />c) « gebied voor verwerking van oppervlaktedelfstoffen », in hoofdzaak bestemd voor bedrijven die oppervlaktedelfstoffen verwerken.<br /><br />De Vlaamse Regering kan bijkomende subcategorieën van gebiedsaanduiding bepalen.<br /><br />§ 3. De Vlaamse Regering kan nadere regels vaststellen met betrekking tot de vorm en de inhoud van de ruimtelijke uitvoeringsplannen.<br /><br />§ 4. Binnen de perken van de begrotingskredieten kan de Vlaamse Regering (ook financiële) ondersteuning verlenen aan de provincies en gemeenten voor het vervullen van hun taken met betrekking tot de ruimtelijke uitvoeringsplannen en bijzondere plannen van aanleg.<br /><br />De Vlaamse Regering bepaalt de voorwaarden en nadere regels hiertoe.<br /><br />
+
+### ART. 2.2.4.
+
+Met behoud van de toepassing van het integratiespoor voor de plan-MER, geregeld bij en krachtens artikel 4.2.4 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, kan de Vlaamse Regering de wijze bepalen waarop overige bij of krachtens decreet voorgeschreven effectenrapportages geïntegreerd worden in het planningsproces van ruimtelijke uitvoeringsplannen.<br /><br />Indien ten gevolge de toepassing van een integratiespoor elementen van een effectenrapport geïntegreerd worden in de inhoud van een ruimtelijk uitvoeringsplan, dan is het voorschrift van artikel 2.2.2, § 1, eerste lid, 6°, niet van toepassing.<br /><br />
+
+### ART. 2.2.5.
+
+De Vlaamse Regering kan de voorwaarden bepalen waaraan één of meer fysieke personen of rechtspersonen, of een gewestelijk, provinciaal of gemeentelijk bestuur moeten voldoen om te kunnen worden aangewezen om een ontwerp van ruimtelijk uitvoeringsplan op te maken. Die voorwaarden kunnen onder meer variëren naar gelang van het planningsniveau of naar gelang van de grootte en de aard van de gemeente voor wat het gemeentelijke niveau betreft.<br /><br />De opmaak van het ontwerp van ruimtelijk uitvoeringsplan gebeurt onder de verantwoordelijkheid van één of meerdere ruimtelijk planners.<br /><br />De Vlaamse Regering kan bepalen dat een ruimtelijk uitvoeringsplan door meerdere personen in een samenwerkingsverband dient te worden opgemaakt, waaronder minstens één ruimtelijke planner, en ze kan hierbij de vereiste deskundigheden specificeren.<br /><br />
+
+### ART. 2.2.6.
+
+§ 1. De Vlaamse Regering is belast met het opmaken van gewestelijke ruimtelijke uitvoeringsplannen en neemt de nodige maatregelen tot de opmaak.<br /><br />De Vlaamse Regering stuurt het voorontwerp van gewestelijk ruimtelijk uitvoeringsplan naar de deputatie van de betrokken provincie(s), de colleges van burgemeester en schepenen van de betrokken gemeenten en de door de Vlaamse Regering aangewezen gewestelijke diensten.<br /><br />Ten vroegste de eenentwintigste dag na het versturen van het voorontwerp door de Vlaamse Regering, houdt de Vlaamse Regering een plenaire vergadering met bovenvermelde instanties. De Vlaamse Regering kan beslissen om zo nodig meerdere plenaire vergaderingen te houden.<br /><br />Uiterlijk tijdens de plenaire vergadering brengen de deputatie(s) en de colleges van burgemeester en schepenen advies uit, en delen de gewestelijke diensten, vermeld in het tweede lid, hun al dan niet schriftelijke opmerkingen mee. De vertegenwoordigers van die instanties dienen gemandateerd te zijn voor het innemen van een standpunt tijdens de vergadering.<br /><br />Als het voorontwerp van gewestelijk ruimtelijk uitvoeringsplan beantwoordt aan de criteria, bepaald in toepassing van artikel 4.4.1., § 2, van het decreet van 5 april 1995 houdende de algemene bepalingen van het milieubeleid, stellen de door de Vlaamse Regering aangewezen diensten ten laatste tijdens de plenaire vergadering dat het voorontwerp het voorwerp vormt van een ruimtelijk veiligheidsrapport, tenzij het voorontwerp zo wordt gewijzigd dat het niet meer aan de vermelde criteria beantwoordt.<br /><br />Van de plenaire vergadering wordt een schriftelijk verslag opgemaakt. Dit verslag wordt binnen veertien dagen bezorgd aan de instanties die op de plenaire vergadering aanwezig dienden te zijn. Eventuele reacties op het verslag kunnen worden ingediend door de instanties die effectief aanwezig waren op de plenaire vergadering, en moeten binnen veertien dagen na ontvangst van het verslag, bezorgd worden aan de Vlaamse Regering.<br /><br />§ 2. Gewestelijke ruimtelijke uitvoeringsplannen worden opgemaakt ter uitvoering van het ruimtelijk structuurplan Vlaanderen.<br /><br />
+
+## Afdeling 2 [Gewestelijke ruimtelijke uitvoeringsplannen (verv. decr. 1 juli 2016, art. 20, I: 1 mei 2017)]
+
+### ART. 2.2.7.
+
+§ 1. De Vlaamse Regering stelt het ontwerp van gewestelijk ruimtelijk uitvoeringsplan voorlopig vast.<br /><br />Als overeenkomstig artikel 2.2.6, § 1, vijfde lid, een ruimtelijk veiligheidsrapport wordt opgelegd, moet bij de voorlopige vaststelling van het ontwerp van gewestelijk ruimtelijk uitvoeringsplan met de resultaten ervan rekening gehouden worden.<br /><br />§ 2. De Vlaamse Regering onderwerpt het ontwerp van gewestelijk ruimtelijk uitvoeringsplan aan een openbaar onderzoek dat binnen dertig dagen na de voorlopige vaststelling vermeld in § 1, minstens wordt aangekondigd door :<br />1° aanplakking in elke gemeente waarvan het grondgebied door het gewestelijk ruimtelijk uitvoeringsplan geheel of ten dele wordt bestreken;<br />2° een bericht in het Belgisch Staatsblad en in ten minste drie dagbladen die in het Vlaamse Gewest worden verspreid;<br />3° een bericht dat driemaal door de openbare radio wordt uitgezonden;<br />4° een bericht op de website van het departement.<br /><br />Deze aankondiging vermeldt minstens :<br />1° de hiervoor genoemde gemeenten waarop het ontwerp van het gewestelijk ruimtelijk uitvoeringsplan betrekking heeft;<br />2° waar het ontwerp ter inzage ligt;<br />3° de begin- en einddatum van het openbaar onderzoek;<br />4° het adres van de Vlaamse commissie voor ruimtelijke ordening waar adviezen, opmerkingen en bezwaren, vermeld in § 4, dienen toe te komen of kunnen worden afgegeven, en de vermelding dat opmerkingen en bezwaren ook kunnen worden afgegeven op het gemeentehuis van de gemeenten waarop het ontwerp van het gewestelijk ruimtelijk uitvoeringsplan betrekking heeft.<br /><br />De Vlaamse Regering kan beslissen tot een individuele kennisgeving van het openbaar onderzoek aan de eigenaars van percelen waarop het planningsinitiatief betrekking heeft.<br /><br />§ 3. Na de aankondiging wordt het ontwerp van gewestelijk ruimtelijk uitvoeringsplan gedurende zestig dagen ter inzage gelegd in het gemeentehuis van elke gemeente waarvan het grondgebied door het gewestelijk ruimtelijk uitvoeringsplan geheel of ten dele wordt bestreken. In voorkomend geval wordt ook het ruimtelijk veiligheidsrapport ter inzage gelegd.<br /><br />Het openbaar onderzoek start uiterlijk op de dertigste dag na deze waarop de aankondiging ervan in het Belgisch Staatsblad verschenen is. Deze termijn is een termijn van orde.<br /><br />§ 4. Opmerkingen en bezwaren worden uiterlijk de laatste dag van de termijn van het openbaar onderzoek per aangetekende brief toegezonden aan de Vlaamse commissie voor ruimtelijke ordening of afgegeven tegen ontvangstbewijs.<br /><br />De bezwaren en opmerkingen kunnen ook uiterlijk de laatste dag van die termijn aan het gemeentehuis van elke gemeente, vermeld in § 2, eerste lid, 1°, worden afgegeven tegen ontvangstbewijs. De gemeente bezorgt in dat geval uiterlijk de derde werkdag na het openbaar onderzoek, de bezwaren en opmerkingen aan de Vlaamse commissie voor ruimtelijke ordening. Met bezwaren en opmerkingen die laattijdig aan de Vlaamse commissie voor ruimtelijke ordening worden bezorgd, moet geen rekening worden gehouden. De Vlaamse Regering kan nadere regels vaststellen met betrekking tot het ontvangen en bijhouden van bezwaren en opmerkingen door de gemeente en met betrekking tot de wijze waarop deze aan de Vlaamse commissie voor ruimtelijke ordening worden bezorgd.<br /><br />De gemeenteraad en de provincieraad van respectievelijk de gemeenten en de provincies waarvan het grondgebied door het gewestelijk ruimtelijk uitvoeringsplan geheel of ten dele wordt bestreken, bezorgen hun advies aan de Vlaamse commissie voor ruimtelijke ordening uiterlijk de laatste dag van het openbaar onderzoek. Wanneer geen advies is verleend binnen die termijn, mag aan de adviesvereiste worden voorbijgegaan.<br /><br />De gemeenteraad en de provincieraad van respectievelijk de gemeenten en de provincies die grenzen aan gemeenten waarvan het grondgebied door het gewestelijk ruimtelijk uitvoeringsplan geheel of ten dele wordt bestreken, kunnen de Vlaamse commissie voor ruimtelijke ordening een advies bezorgen uiterlijk de laatste dag van het openbaar onderzoek.<br /><br />§ 5. De Vlaamse commissie voor ruimtelijke ordening bundelt en coördineert alle adviezen, opmerkingen en bezwaren en brengt binnen negentig dagen na het einde van het openbaar onderzoek gemotiveerd advies uit bij de Vlaamse Regering. Samen met dat advies bezorgt ze de Vlaamse Regering de gebundelde adviezen, opmerkingen en bezwaren.<br /><br />Op gemotiveerd verzoek van de Vlaamse commissie voor ruimtelijke ordening beslist de Vlaamse Regering over de verlenging met dertig dagen van de termijn, vermeld in het eerste lid. Het verzoek tot verlenging moet worden ingediend uiterlijk de dertigste dag na het beëindigen van het openbaar onderzoek. Bij het uitblijven van een beslissing door de Vlaamse Regering binnen een termijn van dertig dagen na het indienen van dat verzoek wordt de verlenging geacht te zijn toegekend.<br /><br />Wanneer de Vlaamse commissie voor ruimtelijke ordening geen advies heeft verleend binnen de gestelde termijn, mag aan de adviesvereiste worden voorbijgegaan. In dat geval bezorgt ze onmiddellijk de gebundelde adviezen, opmerkingen en bezwaren aan de Vlaamse Regering.<br /><br />§ 6. Voor de toepassing van § 5 worden de twee deskundigen, vermeld in artikel 1.3.1, § 3, eerste lid, 4°, vervangen door de twaalf vertegenwoordigers van het maatschappelijk middenveld in de strategische adviesraad. Artikel 1.3.1, § 3, tweede lid, is in dat geval niet van toepassing.<br /><br />§ 7. De Vlaamse Regering stelt binnen honderdtachtig dagen na het einde van het openbaar onderzoek, tweehonderdtien dagen in geval van verlenging van de termijn, vermeld in § 5, het gewestelijk ruimtelijk uitvoeringsplan definitief vast.<br /><br />Bij de definitieve vaststelling van het plan kunnen ten opzichte van het voorlopig vastgestelde plan slechts wijzigingen worden aangebracht, die gebaseerd zijn op of voortvloeien uit de tijdens het openbaar onderzoek geformuleerde bezwaren en opmerkingen of de adviezen, uitgebracht door de aangeduide gewestelijke diensten en overheden, of het advies van de Vlaamse commissie voor ruimtelijke ordening.<br /><br />De definitieve vaststelling van het plan kan echter geen betrekking hebben op delen van het grondgebied die niet opgenomen zijn in het voorlopig vastgestelde plan.<br /><br />Op gemotiveerd verzoek van het departement beslist de Vlaamse Regering over de verlenging met zestig dagen van de termijn waarbinnen het plan moet worden vastgesteld.<br /><br />§ 8. Als overeenkomstig artikel 2.2.6, § 1, vijfde lid, een ruimtelijk veiligheidsrapport wordt opgelegd, moet bij de definitieve vaststelling van het gewestelijk ruimtelijk uitvoeringsplan met de resultaten ervan rekening gehouden worden.<br /><br />§ 9. Indien het gewestelijk ruimtelijk uitvoeringsplan niet definitief wordt vastgesteld binnen de termijn, vermeld in § 7, vervalt het ontwerp van gewestelijk ruimtelijk uitvoeringsplan.<br /><br />Als een advies van de Raad van State nodig is, wordt deze termijn geschorst gedurende de volledige duur van de behandeling van de adviesaanvraag door de afdeling Wetgeving van de Raad van State, met een maximum van dertig dagen.<br /><br />
+
+### ART. 2.2.8.
+
+Het besluit houdende definitieve vaststelling van het gewestelijk ruimtelijk uitvoeringsplan wordt door de Vlaamse Regering bij uittreksel bekendgemaakt in het Belgisch Staatsblad binnen zestig dagen na de definitieve vaststelling.<br /><br />Het gewestelijk ruimtelijk uitvoeringsplan treedt in werking veertien dagen na de bekendmaking.<br /><br />De Vlaamse Regering stuurt een afschrift van het gewestelijk ruimtelijk uitvoeringsplan, van het advies van de Vlaamse commissie voor ruimtelijke ordening en van het vaststellingsbesluit naar de provincie(s) in kwestie en naar elke gemeente, vermeld in artikel 2.2.7, § 2, waar deze documenten kunnen worden ingezien.<br /><br />
+
+### ART. 2.2.9.
+
+§ 1. De deputatie is belast met het opmaken van provinciale ruimtelijke uitvoeringsplannen en neemt de nodige maatregelen tot opmaak.<br /><br />De deputatie stuurt het voorontwerp van provinciaal ruimtelijk uitvoeringsplan naar de planologische ambtenaar, de colleges van burgemeester en schepenen van de betrokken gemeenten en de adviserende diensten. De Vlaamse Regering kan bepalen aan welke gewestelijke diensten het voorontwerp van provinciaal ruimtelijk uitvoeringsplan minstens moet worden voorgelegd.<br /><br />Ten vroegste de eenentwintigste dag na het versturen van het voorontwerp door de deputatie, houdt de deputatie een plenaire vergadering met bovenvermelde instanties. De deputatie kan beslissen om zo nodig meerdere plenaire vergaderingen te houden.<br /><br />De planologische ambtenaar brengt uiterlijk tijdens de plenaire vergadering advies uit over de verenigbaarheid met het ruimtelijk structuurplan Vlaanderen en de gewestelijke ruimtelijke uitvoeringsplannen, of, in voorkomend geval, de overeenstemming met een ontwerp van ruimtelijk structuurplan Vlaanderen en een ontwerp of ontwerpen van gewestelijk ruimtelijk uitvoeringsplan.<br /><br />Uiterlijk tijdens de plenaire vergadering brengen de colleges van burgemeester en schepenen advies uit, en delen de adviserende diensten, vermeld in het tweede lid, hun al dan niet schriftelijke opmerkingen mee. De vertegenwoordigers van die instanties dienen gemandateerd te zijn voor het innemen van een standpunt tijdens de vergadering.<br /><br />Als het voorontwerp van provinciaal ruimtelijk uitvoeringsplan beantwoordt aan de criteria, bepaald in toepassing van artikel 4.4.1., § 2, van het decreet van 5 april 1995 houdende de algemene bepalingen van het milieubeleid, stellen de door de Vlaamse Regering aangewezen diensten ten laatste tijdens de plenaire vergadering dat het voorontwerp het voorwerp vormt van een ruimtelijk veiligheidsrapport, tenzij het voorontwerp zo wordt gewijzigd dat het niet meer aan de vermelde criteria beantwoordt.<br /><br />Van de plenaire vergadering wordt een schriftelijk verslag opgemaakt. Dit verslag wordt binnen veertien dagen bezorgd aan de instanties die op de plenaire vergadering aanwezig dienden te zijn. Eventuele reacties op het verslag kunnen worden ingediend door de instanties die effectief aanwezig waren op de plenaire vergadering, en moeten binnen veertien dagen na ontvangst van het verslag, bezorgd worden aan de deputatie.<br /><br />§ 2. De provinciale ruimtelijke uitvoeringsplannen worden opgemaakt ter uitvoering van het provinciaal ruimtelijk structuurplan.<br /><br />De voorschriften van de provinciale ruimtelijke uitvoeringsplannen kunnen niet afwijken van de voorschriften van de gewestelijke ruimtelijke uitvoeringsplannen.<br /><br />
+
+### ART. 2.2.10.
+
+§ 1. De provincieraad stelt het ontwerp van provinciaal ruimtelijk uitvoeringsplan voorlopig vast.<br /><br />Na de voorlopige vaststelling wordt het ontwerp van provinciaal ruimtelijk uitvoeringsplan onmiddellijk opgestuurd aan de Vlaamse Regering.<br /><br />Als overeenkomstig artikel 2.2.9, § 1, zesde lid, een ruimtelijk veiligheidsrapport wordt opgelegd, moet bij de voorlopige vaststelling van het ontwerp van provinciaal ruimtelijk uitvoeringsplan met de resultaten ervan rekening gehouden worden.<br /><br />§ 2. De deputatie onderwerpt het ontwerp van provinciaal ruimtelijk uitvoeringsplan aan een openbaar onderzoek dat binnen dertig dagen na de voorlopige vaststelling, vermeld in § 1, minstens wordt aangekondigd door :<br />1° aanplakking in elke gemeente waarvan het grondgebied door het provinciaal ruimtelijk uitvoeringsplan geheel of ten dele wordt bestreken;<br />2° een bericht in het Belgisch Staatsblad en in ten minste drie dagbladen die in de provincie worden verspreid<br />3° een bericht op de website van de provincie.<br /><br />Deze aankondiging vermeldt minstens :<br />1° de hiervoor genoemde gemeenten waarop het ontwerp van het provinciaal ruimtelijk uitvoeringsplan betrekking heeft;<br />2° waar het ontwerp ter inzage ligt;<br />3° de begin- en einddatum van het openbaar onderzoek;<br />4° het adres van de provinciale commissie voor ruimtelijke ordening waar adviezen, opmerkingen en bezwaren, vermeld in § 4, dienen toe te komen of kunnen worden afgegeven en de vermelding dat opmerkingen en bezwaren ook kunnen worden afgegeven op het gemeentehuis van de gemeenten waarop het ontwerp van het provinciaal ruimtelijk uitvoeringsplan betrekking heeft.<br /><br />De deputatie kan beslissen tot een individuele kennisgeving van het openbaar onderzoek aan de eigenaars van percelen waarop het planningsinitiatief betrekking heeft.<br /><br />§ 3. Na de aankondiging wordt het ontwerp van provinciaal ruimtelijk uitvoeringsplan gedurende zestig dagen ter inzage gelegd in het gemeentehuis van elke gemeente waarvan het grondgebied door het provinciaal ruimtelijk uitvoeringsplan geheel of ten dele wordt bestreken. In voorkomend geval wordt ook het ruimtelijk veiligheidsrapport ter inzage gelegd.<br /><br />Het openbaar onderzoek start uiterlijk op de dertigste dag na deze waarop de aankondiging ervan in het Belgisch Staatsblad verschenen is. Deze termijn is een termijn van orde.<br /><br />§ 4. Opmerkingen en bezwaren worden uiterlijk de laatste dag van de termijn van het openbaar onderzoek aan de provinciale commissie voor ruimtelijke ordening toegezonden per aangetekende brief of afgegeven tegen ontvangstbewijs.<br /><br />De bezwaren en opmerkingen kunnen ook uiterlijk de laatste dag van die termijn aan het gemeentehuis van elke gemeente, vermeld in § 2, eerste lid, 1°, worden afgegeven tegen ontvangstbewijs. De gemeente bezorgt in dat geval uiterlijk de derde werkdag na het openbaar onderzoek, de bezwaren en opmerkingen aan de provinciale commissie voor ruimtelijke ordening. Met bezwaren en opmerkingen die laattijdig aan de provinciale commissie voor ruimtelijke ordening worden bezorgd, moet geen rekening worden gehouden. De Vlaamse Regering kan nadere regels vaststellen met betrekking tot het ontvangen en bijhouden van bezwaren en opmerkingen door de gemeente en met betrekking tot de wijze waarop deze aan de provinciale commissie voor ruimtelijke ordening worden bezorgd.<br /><br />De gemeenteraden van de gemeenten waarvan het grondgebied door het provinciaal ruimtelijk uitvoeringsplan geheel of ten dele wordt bestreken, bezorgen hun advies aan de provinciale commissie voor ruimtelijke ordening binnen dezelfde termijn. Wanneer geen advies is verleend binnen die termijn, mag aan de adviesvereiste worden voorbijgegaan.<br /><br />De Vlaamse Regering bezorgt de provinciale commissie voor ruimtelijke ordening binnen dezelfde termijn een advies inzake de overeenstemming van het ontwerp van provinciaal ruimtelijk uitvoeringsplan met het ruimtelijk structuurplan Vlaanderen en de gewestelijke ruimtelijke uitvoeringsplannen, of, in voorkomend geval, de overeenstemming met een ontwerp van ruimtelijk structuurplan Vlaanderen en een ontwerp of ontwerpen van gewestelijk ruimtelijk uitvoeringsplan. Wanneer geen advies is verleend binnen die termijn, mag aan de adviesvereiste worden voorbijgegaan.<br /><br />De gemeenteraad en de deputatie van respectievelijk de gemeenten en de provincies die grenzen aan gemeenten waarvan het grondgebied door het provinciaal ruimtelijk uitvoeringsplan geheel of ten dele wordt bestreken, kunnen de provinciale commissie voor ruimtelijke ordening een advies bezorgen binnen dezelfde termijn.<br /><br />§ 5. De provinciale commissie voor ruimtelijke ordening bundelt en coördineert alle adviezen, opmerkingen en bezwaren en brengt binnen negentig dagen na het einde van het openbaar onderzoek gemotiveerd advies uit bij de provincieraad. Dat advies bevat het integrale advies van de Vlaamse Regering. Op hetzelfde ogenblik bezorgt de provinciale commissie voor ruimtelijke ordening de deputatie de gebundelde adviezen, opmerkingen en bezwaren.<br /><br />Op gemotiveerd verzoek van de provinciale commissie voor ruimtelijke ordening beslist de deputatie over de verlenging met dertig dagen van de termijn, vermeld in het eerste lid. Het verzoek tot verlenging moet worden ingediend uiterlijk de dertigste dag na het beëindigen van het openbaar onderzoek. Bij het uitblijven van een beslissing door de deputatie binnen een termijn van dertig dagen na het indienen van het verzoek wordt de verlenging geacht te zijn toegekend.<br /><br />Wanneer de provinciale commissie voor ruimtelijke ordening geen advies heeft verleend binnen de gestelde termijn, mag aan de adviesvereiste worden voorbijgegaan. In dat geval bezorgt ze onmiddellijk de gebundelde adviezen, opmerkingen en bezwaren aan de provincieraad.<br /><br />§ 6. De provincieraad stelt binnen honderdtachtig dagen na het einde van het openbaar onderzoek, tweehonderdtien dagen in geval van verlenging van de termijn, vermeld in § 5, het provinciaal ruimtelijk uitvoeringsplan definitief vast.<br /><br />Bij de definitieve vaststelling van het plan kunnen ten opzichte van het voorlopig vastgestelde plan slechts wijzigingen worden aangebracht, die gebaseerd zijn op of voortvloeien uit de tijdens het openbaar onderzoek geformuleerde bezwaren en opmerkingen of de adviezen, uitgebracht door de aangeduide diensten en overheden, of het advies van de provinciale commissie voor ruimtelijke ordening.<br /><br />De definitieve vaststelling van het plan kan echter geen betrekking hebben op delen van het grondgebied die niet opgenomen zijn in het voorlopig vastgestelde plan.<br /><br />Op gemotiveerd verzoek van de deputatie beslist de provincieraad over de verlenging met zestig dagen van de termijn waarbinnen het plan moet worden vastgesteld.<br /><br />§ 7. Als overeenkomstig artikel 2.2.9, § 1, zesde lid, een ruimtelijk veiligheidsrapport wordt opgelegd, moet bij de definitieve vaststelling van het provinciaal ruimtelijk uitvoeringsplan met de resultaten ervan rekening gehouden worden.<br /><br />§ 8. Indien het provinciaal ruimtelijk uitvoeringsplan niet definitief wordt vastgesteld binnen de termijn, vermeld in § 6, vervalt het ontwerp van provinciaal ruimtelijk uitvoeringsplan.<br /><br />
+
+### ART. 2.2.11.
+
+§ 1. Het provinciaal ruimtelijk uitvoeringsplan wordt samen met het besluit van de provincieraad en het volledige advies van de provinciale commissie voor ruimtelijke ordening onmiddellijk na de definitieve vaststelling aan de Vlaamse Regering ter goedkeuring toegezonden bij aangetekende brief of afgegeven tegen ontvangstbewijs.<br /><br />§ 2. De Vlaamse Regering neemt een beslissing binnen zestig dagen na ontvangst van het dossier. Wanneer aan het plan goedkeuring wordt onthouden, is het besluit gemotiveerd.<br /><br />§ 3. Als de Vlaamse Regering nalaat een beslissing te nemen binnen de termijn, vermeld in § 2, kan de deputatie de Vlaamse Regering rappelleren voor wat het ruimtelijk uitvoeringsplan betreft, binnen dertig dagen na het verstrijken van die termijn. De rappel kan niet worden ingetrokken. Indien de deputatie binnen die termijn geen rappelbrief heeft verstuurd, vervalt het ontwerp van provinciaal ruimtelijk uitvoeringsplan.<br /><br />Indien de Vlaamse Regering geen beslissing heeft verstuurd binnen vijfendertig dagen met ingang van de dag waarop de rappelbrief is verstuurd, wordt het door de provincieraad definitief vastgestelde provinciaal ruimtelijk uitvoeringsplan geacht te zijn goedgekeurd, behoudens wat het onteigeningsplan betreft.<br /><br />
+
+## Afdeling 3 [Provinciale ruimtelijke uitvoeringsplannen (verv. decr. 1 juli 2016, art. 27, I: 1 mei 2017)]
+
+### ART. 2.2.12.
+
+Het provinciaal ruimtelijk uitvoeringsplan treedt in werking veertien dagen na de bekendmaking van het goedkeuringbesluit van de Vlaamse Regering bij uittreksel in het Belgisch Staatsblad.<br /><br />Bij ontstentenis van een beslissing van de Vlaamse Regering, in de zin van in artikel 2.2.11, § 3, tweede lid, treedt het plan in werking veertien dagen na de bekendmaking bij uittreksel in het Belgisch Staatsblad van de provincieraadsbeslissing houdende definitieve vaststelling van het plan.<br /><br />De deputatie meldt de Vlaamse Regering dat een uittreksel van de provincieraadsbeslissing voor bekendmaking in het Belgisch Staatsblad werd verzonden. Deze melding gebeurt tegelijkertijd met de verzending. De deputatie stuurt een afschrift van provinciaal ruimtelijk uitvoeringsplan, van het advies van de provinciale commissie voor ruimtelijke ordening, van het vaststellingsbesluit en van het goedkeuringsbesluit van de Vlaamse Regering naar elke gemeente, vermeld in artikel 2.2.10, § 2, waar deze documenten kunnen worden ingezien.<br /><br />
+
+### ART. 2.2.13.
+
+§ 1. Het college van burgemeester en schepenen is belast met het opmaken van gemeentelijke ruimtelijke uitvoeringsplannen en neemt de nodige maatregelen tot opmaak.<br /><br />Het college van burgemeester en schepenen stuurt het voorontwerp van gemeentelijk ruimtelijk uitvoeringsplan naar de deputatie, de gewestelijke stedenbouwkundige ambtenaren en de andere adviserende diensten. De Vlaamse Regering kan bepalen aan welke gewestelijke diensten het voorontwerp van gemeentelijk ruimtelijk uitvoeringsplan minstens moet worden voorgelegd.<br /><br />Ten vroegste de eenentwintigste dag na het versturen van het voorontwerp door het college van burgemeester en schepenen, houdt dat college een plenaire vergadering met bovenvermelde instanties.<br /><br />De gewestelijke stedenbouwkundige ambtenaar brengt uiterlijk tijdens de plenaire vergadering advies uit over de verenigbaarheid met het ruimtelijk structuurplan Vlaanderen, de gewestelijke ruimtelijke uitvoeringsplannen, de provinciale ruimtelijke uitvoeringsplannen, of, in voorkomend geval, de overeenstemming met een ontwerp van ruimtelijk structuurplan Vlaanderen en een ontwerp of ontwerpen van gewestelijk ruimtelijk uitvoeringsplan.<br /><br />Uiterlijk tijdens de plenaire vergadering brengt de deputatie advies uit, en delen de adviserende diensten, vermeld in het tweede lid, hun al dan niet schriftelijke opmerkingen mee. De vertegenwoordigers van die instanties dienen gemandateerd te zijn voor het innemen van een standpunt tijdens de vergadering.<br /><br />Als het voorontwerp van gemeentelijk ruimtelijk uitvoeringsplan beantwoordt aan de criteria, bepaald in toepassing van artikel 4.4.1., § 2, van het decreet van 5 april 1995 houdende de algemene bepalingen van het milieubeleid, stellen de door de Vlaamse Regering aangewezen diensten ten laatste tijdens de plenaire vergadering dat het voorontwerp het voorwerp vormt van een ruimtelijk veiligheidsrapport, tenzij het voorontwerp zo wordt gewijzigd dat het niet meer aan de vermelde criteria beantwoordt.<br /><br />Van de plenaire vergadering wordt een schriftelijk verslag opgemaakt. Dit verslag wordt binnen veertien dagen bezorgd aan de instanties die op de plenaire vergadering aanwezig dienden te zijn. Eventuele reacties op het verslag kunnen worden ingediend door de instanties die effectief aanwezig waren op de plenaire vergadering, en moeten binnen veertien dagen na ontvangst van het verslag, bezorgd worden aan het college van burgemeester en schepenen.<br /><br />§ 2. De gemeentelijke ruimtelijke uitvoeringsplannen worden opgemaakt ter uitvoering van het gemeentelijk ruimtelijk structuurplan.<br /><br />§ 3. De voorschriften van de gemeentelijke ruimtelijke uitvoeringsplannen kunnen niet afwijken van de voorschriften van de provinciale en de gewestelijke ruimtelijke uitvoeringsplannen.<br /><br />
+
+### ART. 2.2.14.
+
+§ 1. De gemeenteraad stelt het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan voorlopig vast.<br /><br />Na de voorlopige vaststelling wordt het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan onmiddellijk opgestuurd naar de deputatie van de provincie waarin de gemeente is gelegen, naar het agentschap en naar de Vlaamse Regering.<br /><br />Als overeenkomstig artikel 2.2.13, § 1, zesde lid, een ruimtelijk veiligheidsrapport wordt opgelegd, moet bij de voorlopige vaststelling van het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan met de resultaten ervan rekening gehouden worden.<br /><br />§ 2. Het college van burgemeester en schepenen onderwerpt het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan aan een openbaar onderzoek dat binnen dertig dagen na de voorlopige vaststelling, vermeld in § 1, minstens wordt aangekondigd door :<br />1° aanplakking in de gemeente;<br />2° een bericht in het Belgisch Staatsblad en in ten minste drie dagbladen die in de provincie worden verspreid;<br />3° een bericht op de website van de gemeente.<br /><br />Deze aankondiging vermeldt minstens :<br />1° waar het ontwerp ter inzage ligt;<br />2° de begin- en einddatum van het openbaar onderzoek;<br />3° het adres waarop de aan de gemeentelijke commissie voor ruimtelijke ordening gerichte adviezen, opmerkingen en bezwaren, vermeld in § 4, dienen toe te komen of kunnen worden afgegeven.<br /><br />Het college van burgemeester en schepenen kan beslissen tot een individuele kennisgeving van het openbaar onderzoek aan de eigenaars van percelen waarop het planningsinitiatief betrekking heeft.<br /><br />§ 3. Na de aankondiging wordt het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan gedurende zestig dagen ter inzage gelegd in het gemeentehuis. In voorkomend geval wordt ook het ruimtelijk veiligheidsrapport ter inzage gelegd.<br /><br />Het openbaar onderzoek start uiterlijk op de dertigste dag na deze waarop de aankondiging ervan in het Belgisch Staatsblad verschenen is. Deze termijn is een termijn van orde.<br /><br />§ 4. Opmerkingen en bezwaren worden uiterlijk de laatste dag van het openbaar onderzoek toegezonden aan de gemeentelijke commissie voor ruimtelijke ordening per aangetekende brief of afgegeven tegen ontvangstbewijs.<br /><br />De deputatie van de provincie waarin de gemeente is gelegen bezorgt de gemeentelijke commissie voor ruimtelijke ordening binnen dezelfde termijn een advies inzake de overeenstemming van het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan met het provinciaal ruimtelijk structuurplan en de provinciale ruimtelijke uitvoeringsplannen, of, in voorkomend geval, de overeenstemming met een ontwerp van provinciaal ruimtelijk structuurplan en een ontwerp of ontwerpen van provinciaal ruimtelijk uitvoeringsplan. Wanneer geen advies is verleend binnen die termijn, mag aan de adviesvereiste worden voorbijgegaan.<br /><br />Het agentschap bezorgt de gemeentelijke commissie voor ruimtelijke ordening binnen dezelfde termijn een advies inzake de overeenstemming van het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan met het ruimtelijk structuurplan Vlaanderen en de gewestelijke ruimtelijke uitvoeringsplannen, of, in voorkomend geval, de overeenstemming met een ontwerp van ruimtelijk structuurplan Vlaanderen en een ontwerp of ontwerpen van gewestelijk ruimtelijk uitvoeringsplan. Wanneer geen advies is verleend binnen die termijn, mag aan de adviesvereiste worden voorbijgegaan.<br /><br />Het college van burgemeester en schepenen en de deputatie van respectievelijk de gemeenten en de provincies die grenzen aan de gemeente, kunnen de gemeentelijke commissie voor ruimtelijke ordening een advies bezorgen binnen dezelfde termijn.<br /><br />§ 5. De gemeentelijke commissie voor ruimtelijke ordening bundelt en coördineert alle adviezen, opmerkingen en bezwaren en brengt binnen negentig dagen na het einde van het openbaar onderzoek gemotiveerd advies uit bij de gemeenteraad. Dat advies bevat de integrale adviezen van de deputatie en het agentschap. Op hetzelfde ogenblik bezorgt de gemeentelijke commissie voor ruimtelijke ordening het college van burgemeester en schepenen de gebundelde adviezen, opmerkingen en bezwaren.<br /><br />Wanneer de gemeentelijke commissie voor ruimtelijke ordening geen advies heeft verleend binnen de gestelde termijn, mag aan de adviesvereiste worden voorbijgegaan. In dat geval bezorgt ze onmiddellijk de gebundelde adviezen, opmerkingen en bezwaren aan de gemeenteraad.<br /><br />§ 6. De gemeenteraad stelt binnen honderdtachtig dagen na het einde van het openbaar onderzoek het gemeentelijk ruimtelijk uitvoeringsplan definitief vast.<br /><br />Bij de definitieve vaststelling van het plan kunnen ten opzichte van het voorlopig vastgestelde plan slechts wijzigingen worden aangebracht, die gebaseerd zijn op of voortvloeien uit de tijdens het openbaar onderzoek geformuleerde bezwaren en opmerkingen of de adviezen, uitgebracht door de aangeduide diensten en overheden, of het advies van de gemeentelijke commissie voor ruimtelijke ordening.<br /><br />De definitieve vaststelling van het plan kan echter geen betrekking hebben op delen van het grondgebied die niet opgenomen zijn in het voorlopig vastgestelde plan.<br /><br />Op gemotiveerd verzoek van het college van burgemeester en schepenen beslist de gemeenteraad over de verlenging met zestig dagen van de termijn waarbinnen het plan moet worden vastgesteld.<br /><br />§ 7. Als overeenkomstig artikel 2.2.13, § 1, zesde lid, een ruimtelijk veiligheidsrapport wordt opgelegd, moet bij de definitieve vaststelling van het gemeentelijk ruimtelijk uitvoeringsplan met de resultaten ervan rekening gehouden worden.<br /><br />§ 8. Indien het gemeentelijk ruimtelijk uitvoeringsplan niet definitief wordt vastgesteld binnen de termijn, vermeld in § 6, vervalt het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan.<br /><br />
+
+### ART. 2.2.15.
+
+§ 1. Het gemeentelijk ruimtelijk uitvoeringsplan wordt samen met het besluit van de gemeenteraad en het volledige advies van de gemeentelijke commissie voor ruimtelijke ordening onmiddellijk na de definitieve vaststelling ter goedkeuring toegezonden aan de deputatie van de provincie waarin de gemeente is gelegen bij aangetekende brief of afgegeven tegen ontvangstbewijs. Op hetzelfde ogenblik bezorgt de gemeente het plan, het besluit van de gemeenteraad en het advies aan de bevoegde planologische ambtenaar en aan het agentschap.<br /><br />§ 2. De deputatie verstuurt haar beslissing naar het college van burgemeester en schepenen binnen zestig dagen na ontvangst van het dossier. Wanneer aan het plan goedkeuring wordt onthouden, is het besluit gemotiveerd. De beslissing van de deputatie wordt onmiddellijk gemeld aan de bevoegde planologische ambtenaar en aan het agentschap.<br /><br />§ 3. Als de deputatie nalaat een beslissing te nemen binnen de termijn, vermeld in § 2, kan het college van burgemeester en schepenen de deputatie rappelleren voor wat het ruimtelijk uitvoeringsplan betreft binnen dertig dagen na het verstrijken van die termijn. Deze rappel kan niet worden ingetrokken. <br /><br />Indien het college binnen die termijn geen rappelbrief heeft verstuurd, vervalt het ontwerp van gemeentelijk ruimtelijk uitvoeringsplan.<br /><br />Indien de deputatie geen beslissing heeft verstuurd binnen vijfendertig dagen met ingang van de dag waarop de rappelbrief is verstuurd, wordt het door de gemeenteraad definitief vastgestelde gemeentelijk ruimtelijk uitvoeringsplan geacht te zijn goedgekeurd, behalve wat het onteigeningsplan betreft. De gemeente brengt de bevoegde planologische ambtenaar en het agentschap onmiddellijk na het verstrijken van de termijn hiervan op de hoogte.<br /><br />
+
+### ART. 2.2.16.
+
+§ 1. De gewestelijke stedenbouwkundige ambtenaar kan beroep aantekenen bij de Vlaamse Regering tegen de goedkeuring van het gemeentelijk ruimtelijk uitvoeringsplan binnen een termijn van dertig dagen na de goedkeuringsbeslissing of, in voorkomend geval, de datum van het verstrijken van de termijn waarbinnen de deputatie overeenkomstig artikel 2.2.15, § 3, een beslissing moest nemen.<br /><br />Er kan slechts beroep worden aangetekend tegen het gemeentelijk ruimtelijk uitvoeringsplan wanneer het onverenigbaar is met het ruimtelijk structuurplan Vlaanderen, met een gewestelijk ruimtelijk uitvoeringsplan, of, in voorkomend geval, met een ontwerp van ruimtelijk structuurplan Vlaanderen of een ontwerp of ontwerpen van gewestelijk ruimtelijk uitvoeringsplan.<br /><br />Het beroepschrift bevat alle punten waarmee het gemeentelijk ruimtelijk uitvoeringsplan geacht wordt strijdig te zijn en een afschrift ervan wordt tegelijkertijd bezorgd aan de deputatie en het college van burgemeester en schepenen.<br /><br />De gemeente kan schriftelijk de grieven van het beroepschrift weerleggen. Het antwoord van de gemeente moet opgestuurd worden naar de Vlaamse Regering binnen dertig dagen na het instellen van het beroep.<br /><br />§ 2. De Vlaamse Regering beslist over het beroep binnen zestig dagen na het instellen ervan.<br /><br />Ze brengt de deputatie en het college van burgemeester en schepenen onmiddellijk op de hoogte van haar beslissing.<br /><br />Indien de Vlaamse Regering geen beslissing verstuurd heeft binnen zestig dagen na het instellen van het beroep, wordt het beroep geacht te zijn verworpen.<br /><br />
+
+### ART. 2.2.17.
+
+§ 1. Indien er geen of niet tijdig beroep is ingesteld tegen een goedkeuringsbesluit van de deputatie, of de Vlaamse Regering het beroep heeft verworpen of geen beslissing heeft genomen binnen de vastgestelde termijn, wordt het goedkeuringsbesluit van de deputatie bij uittreksel gepubliceerd in het Belgisch Staatsblad.<br /><br />§ 2. Indien er geen of niet tijdig beroep is ingesteld na het verstrijken van de termijn waarbinnen de deputatie, overeenkomstig artikel 2.2.15, § 3, diende te beslissen, of de Vlaamse Regering het beroep heeft verworpen of geen beslissing heeft genomen binnen de vastgestelde termijn, wordt de gemeenteraadsbeslissing tot definitieve vaststelling van het gemeentelijk ruimtelijk uitvoeringsplan bij uittreksel gepubliceerd in het Belgisch Staatsblad, behoudens het onteigeningsplan dat met toepassing van artikel 2.2.15, § 3, tweede lid, geacht wordt niet te zijn goedgekeurd.<br /><br />Het college van burgemeester en schepenen meldt de deputatie en de Vlaamse Regering dat een uittreksel van de gemeenteraadsbeslissing voor bekendmaking in het Belgisch Staatsblad werd verzonden. Deze melding gebeurt tegelijkertijd met de verzending.<br /><br />
+
+## Afdeling 4 [Gemeentelijke ruimtelijke uitvoeringsplannen (verv. decr. 1 juli 2016, art. 35, I: 1 mei 2017)]
+
+### ART. 2.2.18.
+
+Het gemeentelijk ruimtelijk uitvoeringsplan treedt in werking veertien dagen na de bekendmaking van het goedkeuringsbesluit van de deputatie bij uittreksel in het Belgisch Staatsblad.<br /><br />In de gevallen, vermeld in artikel 2.2.17, § 2, treedt het plan in werking veertien dagen na de bekendmaking bij uittreksel in het Belgisch Staatsblad van de gemeenteraadsbeslissing houdende definitieve vaststelling van het plan.<br /><br />Het gemeentelijk ruimtelijk uitvoeringsplan, het advies van de gemeentelijke commissie voor ruimtelijke ordening, het vaststellingsbesluit en het goedkeuringsbesluit kunnen worden ingezien in de gemeente.<br /><br />
+
+## HOOFDSTUK III Stedenbouwkundige verordeningen
+
+### ART. 2.3.1.
+
+De Vlaamse Regering kan gewestelijke stedenbouwkundige verordeningen vaststellen voor een deel van of voor het hele gewest. Die verordeningen bevatten de nodige stedenbouwkundige voorschriften om te zorgen voor :<br />1° de gezondheid, de instandhouding, de stevigheid, de fraaiheid en de esthetische waarde van de bouwwerken, de installaties en hun omgeving, en ook hun veiligheid, met name de beveiliging tegen brand en overstroming;<br />2° de thermische en akoestische kwaliteit van de bouwwerken, de energiebesparingen en de energieterugwinning, de uitbouw van collectieve energievoorzieningen waarop desgevallend verplicht moet worden aangesloten;<br />3° de instandhouding, de gezondheid, de veiligheid, de bruikbaarheid en de schoonheid van de wegen, de toegangen en de omgeving ervan, evenals het ruimtelijk waarborgen van een adequate mobiliteit;<br />4° de aanleg van voorzieningen, met name de water-, gas- en elektriciteitsvoorziening, de verwarming, de telecommunicatie, de opvang van afvalwater en regenwater, de afvalophaling en de windmolens;<br />5° de bewoonbaarheid van de woningen;<br />6° het verbieden van werken waarvoor een stedenbouwkundige vergunning vereist is op bepaalde uren en dagen met het oog op het behoud van de leefkwaliteit en de doorgang van het langzaam verkeer;<br />7° de toegang voor personen met een functiebeperking tot al dan niet bebouwde onroerende goederen of delen ervan toegankelijk voor het publiek, tot installaties en wegen;<br />8° de gebruiksveiligheid van een goed dat toegankelijk is voor het publiek;<br />9° de maatregelen inzake het ruimtelijk begrenzen van milieuhinder en het waarborgen van een adequate waterhuishouding;<br />10° de aanleg van groen en beplantingen;<br />11° de bewerkstelliging van een vermenging van kavels, woningen en woonvoorzieningen die tegemoetkomen aan de behoeften van diverse maatschappelijke groepen, met dien verstande dat voorschriften betreffende de creatie van een bescheiden woonaanbod opgenomen worden in bijzondere stedenbouwkundige verordeningen, onder de voorwaarden, vermeld in boek 4, titel 2, hoofdstuk 1, afdeling 1, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.<br /><br />Die stedenbouwkundige verordeningen kunnen betrekking hebben op de bouwwerken en installaties boven en onder de grond, op de publiciteitsinrichtingen, de antennes, de leidingen, de afsluitingen, de opslagplaatsen, de onbebouwde terreinen, de wijziging van het reliëf van de bodem, en de inrichting van ruimten ten behoeve van het verkeer en het parkeren van voertuigen buiten de openbare weg.<br /><br />De stedenbouwkundige verordeningen kunnen :<br />1° functiewijzigingen die in beginsel toegelaten zijn, uitsluiten, of aan dergelijke functiewijzigingen voorwaarden verbinden;<br />2° het wijzigen van het aantal woongelegenheden in een gebouw regelen.<br /><br />De stedenbouwkundige verordeningen bevatten voorschriften van stedenbouwkundige aard en moeten in overeenstemming zijn met de bestaande regelgeving voor de materie in kwestie.<br /><br />Het ontwerp van stedenbouwkundige verordening wordt voor advies voorgelegd aan de Vlaamse commissie voor ruimtelijke ordening. Wanneer er geen advies is verleend binnen een termijn van dertig dagen, mag aan de adviesvereiste worden voorbijgegaan.<br /><br />De Vlaamse Regering organiseert omtrent een ontwerp van gewestelijke stedenbouwkundige verordening een overlegvergadering met behoorlijk gemandateerde vertegenwoordigers van de Vereniging van de Vlaamse Provincies en van de Vlaamse Vereniging van Steden en Gemeenten.<br /><br />De gewestelijke, provinciale en gemeentelijke stedenbouwkundige verordeningen die werden vastgesteld vóór 1 september 2009 en die op grond van de mogelijkheden, voorzien in de vroegere regelgeving, andere aangelegenheden regelen dan deze, vermeld in het eerste lid, of andere constructies of handelingen betreffen dan deze, vermeld in het tweede lid, blijven geldig tot ze worden opgeheven. De verordenende overheid kan na 1 september 2009 wijzigingen aan deze stedenbouwkundige verordeningen aanbrengen binnen de marges, vermeld in het eerste en tweede lid.<br /><br />
+
+### ART. 2.3.2.
+
+§ 1. De provincieraad kan stedenbouwkundige verordeningen vaststellen voor de materie omschreven in artikel 2.3.1 en in artikel 4.2.5, voor het gehele grondgebied van de provincie of voor een deel waarvan hij de grenzen bepaalt met naleving van de door de Vlaamse Regering vastgestelde stedenbouwkundige verordeningen.<br /><br />Indien de Vlaamse Regering een gewestelijke stedenbouwkundige verordening vaststelt, brengt de provincieraad uit eigen beweging of binnen de termijn die door de Vlaamse Regering wordt opgelegd, de bestaande provinciale stedenbouwkundige verordening(en) in overeenstemming met de voorschriften van de door de Vlaamse Regering vastgestelde stedenbouwkundige verordening(en). Een gewestelijke stedenbouwkundige verordening kan worden aangevuld en verder worden uitgevoerd middels provinciale stedenbouwkundige verordeningen, tenzij de gewestelijke stedenbouwkundige verordening uitdrukkelijk anders bepaalt. In dat laatste geval kan de gewestelijke stedenbouwkundige verordening tevens bepalen dat bestaande provinciale stedenbouwkundige verordeningen met betrekking tot de geregelde aangelegenheid op een bepaalde datum ophouden uitwerking te hebben.<br /><br />De deputatie is belast met het opmaken van provinciale stedenbouwkundige verordeningen en neemt de nodige maatregelen tot opmaak.<br /><br />De deputatie legt het ontwerp van provinciale stedenbouwkundige verordening voor advies voor aan de planologische ambtenaar en aan de provinciale commissie voor ruimtelijke ordening. De planologische ambtenaar geeft bindend advies over de verenigbaarheid met gewestelijke verordeningen. De adviezen worden binnen dertig dagen na de ontvangst van het dossier naar de deputatie gestuurd. Wanneer er geen advies is verleend binnen deze termijn, mag aan de adviesvereisten worden voorbijgegaan.<br /><br />De provinciale stedenbouwkundige verordening wordt samen met het besluit van de provincieraad en het volledige advies van de provinciale commissie voor ruimtelijke ordening onmiddellijk na de definitieve vaststelling aan de Vlaamse Regering ter goedkeuring toegezonden bij aangetekende brief of afgegeven tegen ontvangstbewijs.<br /><br />De Vlaamse Regering stuurt haar beslissing binnen een termijn van zestig dagen, te rekenen vanaf de ontvangst van het dossier naar de deputatie. Wanneer de verordening niet wordt goedgekeurd, is het besluit gemotiveerd.<br /><br />Als de Vlaamse Regering nalaat een beslissing te nemen binnen de termijn van zestig dagen, kan de deputatie de Vlaamse Regering rappelleren binnen dertig dagen na het verstrijken van die termijn. De rappel kan niet worden ingetrokken.<br /><br />Indien de Vlaamse Regering geen beslissing heeft verstuurd binnen vijfendertig dagen met ingang van de dag waarop de rappelbrief is verstuurd, wordt de provinciale stedenbouwkundige verordening geacht te zijn goedgekeurd.<br /><br />De deputatie zorgt voor de bekendmaking bij uittreksel van de goedkeuringsbeslissing van de Vlaamse Regering en van de provinciale stedenbouwkundige verordening in het Belgisch Staatsblad.<br /><br />Bij ontstentenis van een beslissing van de Vlaamse Regering, in de zin van het achtste lid, meldt de deputatie aan de Vlaamse Regering dat de provinciale stedenbouwkundige verordening voor bekendmaking bij uittreksel in het Belgisch Staatsblad werd verzonden. Deze melding gebeurt tegelijkertijd met de verzending.<br /><br />§ 2. De gemeenteraad kan stedenbouwkundige verordeningen vaststellen voor de materie omschreven in artikel 2.3.1, voor het gehele grondgebied van de gemeente of voor een deel waarvan hij de grenzen bepaalt met naleving van de door de Vlaamse Regering en de provincieraad vastgestelde stedenbouwkundige verordeningen.<br /><br />Gemeentelijke stedenbouwkundige verordeningen kunnen de aanvrager van een stedenbouwkundige vergunning of van een verkavelingsvergunning technische en financiële lasten opleggen. Alle lasten die in artikel 4.2.20, § 1, eerste tot en met derde lid, vermeld worden, kunnen door middel van een gemeentelijke stedenbouwkundige verordening op algemene wijze opgelegd worden.<br /><br />Indien de Vlaamse Regering een gewestelijke stedenbouwkundige verordening vaststelt, brengt de gemeenteraad uit eigen beweging of binnen de termijn die door de Vlaamse Regering wordt opgelegd, de bestaande gemeentelijke stedenbouwkundige verordening(en) in overeenstemming met de voorschriften van de door de Vlaamse Regering vastgestelde stedenbouwkundige verordening(en). Een gewestelijke stedenbouwkundige verordening kan worden aangevuld en verder worden uitgevoerd middels gemeentelijke stedenbouwkundige verordeningen, tenzij de gewestelijke stedenbouwkundige verordening uitdrukkelijk anders bepaalt. In dat laatste geval kan de gewestelijke stedenbouwkundige verordening tevens bepalen dat bestaande gemeentelijke stedenbouwkundige verordeningen met betrekking tot de geregelde aangelegenheid op een bepaalde datum ophouden uitwerking te hebben.<br /><br />Indien de provincieraad een provinciale stedenbouwkundige verordening vaststelt, brengt de gemeenteraad uit eigen beweging of binnen de termijn die door de provincieraad wordt opgelegd, de bestaande gemeentelijke stedenbouwkundige verordening(en) in overeenstemming met de voorschriften van de door de provincieraad vastgestelde stedenbouwkundige verordening(en). Een provinciale stedenbouwkundige verordening kan worden aangevuld en verder worden uitgevoerd middels gemeentelijke stedenbouwkundige verordeningen, tenzij de provinciale stedenbouwkundige verordening uitdrukkelijk anders bepaalt. In dat laatste geval kan de provinciale stedenbouwkundige verordening tevens bepalen dat bestaande gemeentelijke stedenbouwkundige verordeningen met betrekking tot de geregelde aangelegenheid op een bepaalde datum ophouden uitwerking te hebben.<br /><br />Het college van burgemeester en schepenen is belast met het opmaken van gemeentelijke stedenbouwkundige verordeningen en neemt de nodige maatregelen tot opmaak.<br /><br />Het college van burgemeester en schepenen legt het ontwerp van stedenbouwkundige verordening voor advies voor aan de gewestelijke stedenbouwkundige ambtenaar en aan gemeentelijke commissie voor ruimtelijke ordening. De gewestelijke stedenbouwkundige ambtenaar geeft bindend advies over de verenigbaarheid met gewestelijke verordeningen. De adviezen worden binnen dertig dagen na de ontvangst van het dossier naar het college van burgemeester en schepenen gestuurd. Wanneer er geen advies is verleend binnen deze termijn, mag aan de adviesvereisten worden voorbijgegaan.<br /><br />De gemeentelijke stedenbouwkundige verordening wordt samen met het besluit van de gemeenteraad en het volledige advies van de gemeentelijke commissie voor ruimtelijke ordening onmiddellijk na de definitieve vaststelling aan de deputatie ter goedkeuring toegezonden bij aangetekende brief of afgegeven tegen ontvangstbewijs.<br /><br />De deputatie stuurt haar beslissing binnen een termijn van zestig dagen, te rekenen vanaf de ontvangst van het dossier naar het college van burgemeester en schepenen van de gemeente in kwestie. Wanneer de verordening niet wordt goedgekeurd, is het besluit gemotiveerd.<br /><br />Als de deputatie nalaat een beslissing te nemen binnen de termijn van zestig dagen, kan het college van burgemeester en schepenen de deputatie rappelleren binnen dertig dagen na het verstrijken van die termijn. De rappel kan niet worden ingetrokken.<br /><br />Indien de deputatie geen beslissing heeft verstuurd binnen vijfendertig dagen met ingang van de dag waarop de rappelbrief is verstuurd, wordt de gemeentelijke stedenbouwkundige verordening geacht te zijn goedgekeurd.<br /><br />Het college van burgemeester en schepenen stuurt een afschrift van de gemeentelijke stedenbouwkundige verordening naar de Vlaamse Regering en zorgt voor de bekendmaking bij uittreksel van de goedkeuringsbeslissing van de deputatie en van de gemeentelijke stedenbouwkundige verordening in het Belgisch Staatsblad.<br /><br />Bij ontstentenis van een beslissing van de deputatie, in de zin van het negende lid, meldt het college van burgemeester en schepenen aan de deputatie en aan de Vlaamse Regering dat de gemeentelijke stedenbouwkundige verordening voor bekendmaking bij uittreksel in het Belgisch Staatsblad werd verzonden. Deze melding gebeurt tegelijkertijd met de verzending.<br /><br />
+
+### ART. 2.3.3.
+
+De voorschriften van de ruimtelijke uitvoeringsplannen heffen, voor het grondgebied waarop ze betrekking hebben, de bepalingen van de bestaande stedenbouwkundige verordeningen die daar strijdig mee zijn, van rechtswege op.<br /><br />
+
+## HOOFDSTUK IV Recht van voorkoop, onteigening en aankoopplicht
+
+## Afdeling 1 Het recht van voorkoop
+
+### ART. 2.4.1.
+
+Het Vlaamse Gewest, de provincies, de gemeenten, de intercommunales, de instellingen die ressorteren onder het Vlaamse Gewest, de provincies en de gemeenten, alsook de vennootschappen die een erkenning hebben van die instellingen of besturen kunnen, ter verwezenlijking van een ruimtelijk uitvoeringsplan, een recht van voorkoop uitoefenen bij de verkoop van een onroerend goed dat gelegen is in die zones die in het definitief vastgestelde ruimtelijk uitvoeringsplan als zones waar het voorkooprecht geldt, worden aangeduid.<br /><br />Het Vlaamse Gewest, de provincies, de gemeenten, de intercommunales, de instellingen die ressorteren onder het Vlaamse Gewest, alsook de vennootschappen die een erkenning hebben van die instellingen of besturen kunnen, ter verwezenlijking van een ruimtelijk uitvoeringsplan de Vlaamse Grondenbank verzoeken om in hun naam en voor hun rekening en binnen de door hen gestelde voorwaarden, het recht van voorkoop uit te oefenen bij verkoop van onroerende goederen die gelegen zijn in die zones die in het definitief vastgestelde ruimtelijk uitvoeringsplan als zones waar het recht van voorkoop geldt, worden aangeduid.<br /><br />Elk definitief vastgesteld ruimtelijk uitvoeringsplan bepaalt voor elk van die zones welk bestuur, intercommunale, instelling of erkende vennootschap begunstigd is met het voorkooprecht. Indien meerdere instanties begunstigd worden, bepaalt het ruimtelijk uitvoeringsplan een rangorde.<br /><br />De eigenaars van de goederen, gelegen binnen de omtrek van de zones waar het voorkooprecht geldt, worden ten laatste op de dag van de inwerkingtreding van het uitvoeringsplan, bij aangetekend schrijven in hun woonplaats op de hoogte gesteld van dit feit. Dit gebeurt op basis van de kadastrale gegevens. De brief vermeldt de adressen van de instantie of instanties die moeten aangeschreven worden voor een eventueel aanbod van het voorkooprecht.<br /><br />Dat recht van voorkoop doet geen afbreuk aan een op 30 juli 1993 bestaand recht van voorkoop.<br /><br />Het recht van voorkoop is niet van toepassing op goederen die het voorwerp zijn van een handelshuurovereenkomst die afgesloten werd vóór 1 mei 2000.<br /><br />Het recht van voorkoop vervalt wanneer het niet wordt uitgeoefend binnen een termijn van acht jaar, te rekenen vanaf de inwerkingtreding van het ruimtelijk uitvoeringsplan.<br /><br />Titel IV, hoofdstukken I en VI, van het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen is van toepassing op dit recht van voorkoop.<br /><br />Het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten is van toepassing op dit recht van voorkoop. (1)<br /><br />
+
+### ART. 2.4.2.
+
+Onverminderd de bepalingen van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten geldt het recht van voorkoop niet in geval van :<br />1° verkoop van het goed aan een personenvennootschap waarvan de werkende vennoten of de vennoten die ten minste drie vierde van het kapitaal bezitten, in eenzelfde betrekking van bloedverwantschap, aanverwantschap of samenwoning staan tot de verkoper als vermeld onder artikel 8, 1°, van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten;<br />2° verkoop van loten in een verkaveling vergund na de inwerkingtreding van het ruimtelijk uitvoeringsplan, voor zover de verkavelingsvergunning werd aangevraagd door het Vlaamse Gewest, een provincie, een gemeente, een intercommunale, een instelling die ressorteert onder het Vlaamse Gewest, de provincie of de gemeente, of een vennootschap die een erkenning heeft van dergelijke instelling of bestuur. (2) (3)<br /><br />
+
+### ART. 2.4.2/1.
+
+Het goed kan slechts verkocht worden nadat de instrumenterende ambtenaar aan de begunstigden van het recht van voorkoop de gelegenheid heeft gegeven om hun voorkooprecht uit te oefenen en de verkoper hiervan op de hoogte heeft gesteld.<br /><br />
+
+### ART. 2.4.2/2.
+
+§ 1. Bij een openbare verkoop brengt de instrumenterende ambtenaar ten minste één maand vooraf de Vlaamse Grondenbank bij aangetekende brief op de hoogte van plaats, dag en uur van de verkoop.<br /><br />§ 2. Als de verkoop wordt gehouden zonder voorbehoud van eventuele uitoefening van het recht van hoger bod, vraagt de instrumenterende ambtenaar bij het einde van de opbieding en vóór de toewijzing, in het openbaar aan de begunstigden van het recht van voorkoop of aan de Vlaamse Grondenbank indien zij verzocht wordt de beslissing tot uitoefening van het recht van voorkoop uit te voeren, of zij dat recht wensen uit te oefenen.<br /><br />Willen twee of meer begunstigden hun recht uitoefenen, dan wordt het goed toegewezen aan die welke de hoogste rangorde heeft.<br /><br />§ 3. Als de verkoop wordt gehouden onder voorbehoud van eventuele uitoefening van het recht van hoger bod, is de instrumenterende ambtenaar er niet toe gehouden aan de begunstigden van het recht van voorkoop of aan de Vlaamse Grondenbank indien zij verzocht wordt de beslissing tot uitoefening van het recht van voorkoop uit te voeren te vragen of zij hun recht van voorkoop uitoefenen.<br /><br />Als er geen hoger bod wordt gedaan of als de instrumenterende ambtenaar het hoger bod niet aanneemt, betekent de instrumenterende ambtenaar het laatste bod aan de Vlaamse Grondenbank en vraagt hij of de begunstigde van het recht van voorkoop of de Vlaamse Grondenbank indien zij verzocht wordt de beslissing om het recht van voorkoop uit te oefenen uit te voeren, het recht van voorkoop wenst uit te oefenen. Als deze binnen een termijn van vijftien dagen hun instemming niet aan de instrumenterende ambtenaar hebben betekend bij aangetekend schrijven of die instemming niet hebben gegeven in een akte van de instrumenterende ambtenaar, is de toewijzing definitief. Hebben twee of meer begunstigden de aanvaarding laten betekenen dan geldt de rangorde die werd vastgesteld overeenkomstig artikel 2.4.1, derde lid.<br /><br />Als er wel een hoger bod is, wordt dit door de instrumenterende ambtenaar aan de Vlaamse Grondenbank en aan de koper meegedeeld. In dat geval gelden opnieuw de bepalingen van §§ 1 en 2. De Vlaamse Grondenbank zal deze kennisgeving op haar beurt mededelen aan de begunstigden van het recht van voorkoop.<br /><br />
+
+### ART. 2.4.2/3.
+
+§ 1. Bij een verkoop uit de hand brengt de instrumenterende ambtenaar de Vlaamse Grondenbank bij aangetekende brief op de hoogte van de inhoud van de akte, waarbij alleen de identiteit van de koper opengelaten wordt. De akte wordt opgesteld onder opschortende voorwaarde van niet-uitoefening van het recht van voorkoop. Deze kennisgeving geldt als aanbod van verkoop.<br /><br />§ 2. De overheden, vermeld in artikel 2.4.1, tweede lid, of de Vlaamse Grondenbank indien zij verzocht wordt de beslissing om het voorkooprecht uit te oefenen uit te voeren brengen de instrumenterende ambtenaar bij aangetekende brief op de hoogte binnen twee maanden na de kennisgeving, vermeld in § 1, indien ze het aanbod aanvaarden. De verkoop komt bij de aanvaarding tot stand onder opschortende voorwaarde van de niet-uitoefening van het recht van voorkoop door een begunstigde van een hogere rang. De eigenaar en de instrumenterende ambtenaar worden per aangetekende brief op de hoogte gebracht van de aanvaarding door één van de begunstigden.<br /><br />§ 3. Wordt het voorkooprecht niet uitgeoefend binnen de termijn vermeld in § 2, dan mag de eigenaar het goed niet uit de hand verkopen tegen een lagere prijs of tegen gunstiger voorwaarden zonder nieuwe kennisgeving aan de Vlaamse Grondenbank.<br /><br />§ 4. De instrumenterende ambtenaar voor wie een akte van verkoop uit de hand wordt verleden met betrekking tot een goed waarop een recht van voorkoop rust, moet binnen één maand na de registratie ervan, aan de Vlaamse Grondenbank de prijs en de voorwaarden van de verkoop bekendmaken.<br /><br />
+
+### ART. 2.4.2/4.
+
+In geval van verkoop met miskenning van het recht van voorkoop heeft elke begunstigde van het recht van voorkoop of de Vlaamse Grondenbank indien zij verzocht wordt de beslissing om het recht van voorkoop uit te oefenen uit te voeren, het recht, ofwel de indeplaatsstelling te vorderen van de koper, ofwel van de verkoper een schadevergoeding te eisen ten bedrage van twintig percent van de verkoopprijs. Bij samenloop van begunstigden wordt de rangorde gevolgd die werd vastgesteld overeenkomstig artikel 2.4.1, derde lid.<br /><br />De vordering moet gelijktijdig tegen de verkoper en de eerste koper worden ingesteld. De vordering is pas ontvankelijk na inschrijving op de kant van de overschrijving van de betwiste akte en zo nodig op de kant van de overschrijving van de laatst overgeschreven titel.<br /><br />De indeplaatsgestelde betaalt aan de koper de prijs terug die deze heeft betaald, en ook de kosten van de akte. Hij is slechts gebonden aan de verplichtingen die voor de koper voortvloeien uit de authentieke akte van verkoop en aan de lasten waarin de koper heeft toegestemd, voorzover die lasten zijn ingeschreven of overgeschreven vóór de inschrijving van zijn eis.<br /><br />De vordering tot indeplaatsstelling en de vordering tot schadeloosstelling verjaren, bij openbare verkoop, na drie maanden vanaf de definitieve toewijzing en bij verkoop uit de hand, na drie maanden vanaf de kennisgeving aan de Vlaamse Grondenbank. De Vlaamse Grondenbank zal op haar beurt deze kennisgeving doorgeven aan de begunstigden van het recht van voorkoop. Bij het uitblijven van die kennisgeving verjaart de vordering na twee jaar vanaf de overschrijving van de akte.<br /><br />Wanneer hij de vordering tot indeplaatsstelling inwilligt, geldt het vonnis van de rechter als titel. Elke uitspraak op een eis tot indeplaatsstelling wordt ingeschreven achter de inschrijving van de eis.<br /><br />
+
+## Afdeling 2 Onteigening
+
+### ART. 2.4.3.
+
+§ 1. Elke verwerving van onroerende goederen, vereist voor de verwezenlijking van de ruimtelijke uitvoeringsplannen, kan door onteigening ten algemenen nutte tot stand worden gebracht.<br /><br />§ 2. Ongeacht de bepalingen die andere overheden bevoegd verklaren tot onteigenen, kunnen de volgende instanties als onteigenende instanties optreden ter verwezenlijking van ruimtelijke uitvoeringsplannen : het gewest, de provincies, de gemeenten, de verenigingen van gemeenten, de openbare instellingen en ook de organen die door de Vlaamse Regering gemachtigd zijn om te onteigenen ten algemenen nutte.<br /><br />Wanneer de voorgenomen onteigening de ordening tot doel heeft van een gedeelte van het grondgebied dat bestemd is om verkaveld te worden met het oog op het oprichten van gebouwen voor huisvestings- of handelsdoeleinden, kan of kunnen de eigenaar of eigenaars die meer dan de helft van de oppervlakte van de in dat gebied begrepen gronden bezitten, vragen om, binnen de termijnen en onder de voorwaarden die de overheid heeft bepaald en voorzover ze er blijk van geven de nodige middelen te bezitten, belast te worden met de uitvoering van de voor die ordening vereiste werken en ook met de herverkavelings- en ruilverkavelingsverrichtingen.<br /><br />De aanvraag, vermeld in het tweede lid, moet, op straffe van verval, worden ingediend binnen drie maanden na de bekendmaking in het Belgisch Staatsblad van het besluit tot goedkeuring van het onteigeningsplan.<br /><br />Wanneer de onteigening de ordening tot doel heeft van een gedeelte van het grondgebied dat krachtens een gemeentelijk ruimtelijk uitvoeringsplan daartoe aangeduid is, kan de eigenaar of kunnen de eigenaars onder de voorwaarden bepaald in het tweede en derde lid, vragen om met de uitvoering van de ordeningswerken te worden belast.<br /><br />In gevallen als bepaald in het tweede en het vierde lid zal de onteigenende overheid, op verzoek van de personen die met de ordening van de strook zijn belast, de daartoe vereiste onroerende goederen onteigenen, wanneer de onderhandse verkrijging daarvan onmogelijk is gebleken.<br /><br />
+
+### ART. 2.4.4.
+
+§ 1. Een onteigeningsplan moet de omtrek van de te onteigenen goederen aangeven, afzonderlijk of tot stroken samengevoegd, met kadastrale vermelding van de sectie, de nummers, de grootte en de aard van de percelen, en met de naam van de eigenaars volgens de kadastrale gegevens.<br /><br />Het onteigeningsplan moet eveneens voor elk te onteigenen perceel de onteigenende rechtspersoon vermelden.<br /><br />Wat de uit te voeren werken en onroerende verrichtingen betreft, kan het onteigeningsplan zich beperken tot het overnemen van de voorschriften van het ruimtelijk uitvoeringsplan.<br /><br />§ 2. Het onteigeningsplan dat ter uitvoering van deze codex tegelijkertijd met het ruimtelijk uitvoeringsplan wordt opgemaakt, wordt tegelijk met het ruimtelijk uitvoeringsplan onderworpen aan de procedureregels bepaald voor het opmaken van dat ruimtelijk uitvoeringsplan.<br /><br />Het onteigeningsplan dat na het ruimtelijk uitvoeringsplan waarvan het de verwezenlijking beoogt, wordt opgemaakt, dient uiterlijk vijf jaar na de inwerkingtreding van dat ruimtelijk uitvoeringsplan definitief vastgesteld te worden en is onderworpen aan de procedureregels voor onteigeningen ten algemenen nutte inzake gewestelijke aangelegenheden.<br /><br />De eigenaars van de goederen, gelegen binnen de omtrek van de te onteigenen percelen, worden vóór de aanvang van het openbaar onderzoek door de overheid die het ontwerpplan voorlopig vaststelt, bij aangetekende brief in hun woonplaats ervan op de hoogte gebracht dat het ontwerp van onteigeningsplan in het gemeentehuis ter inzage ligt.<br /><br />Wordt tot de onteigening besloten door een andere instantie dan de gemeente waar de goederen gelegen zijn, dan komen de kosten van het door de gemeente uitgevoerde openbaar onderzoek ten laste van de onteigenaar.<br /><br />
+
+### ART. 2.4.5.
+
+Op verzoek van de onteigenende instantie worden de aankoopcomités van onroerende goederen belast met alle aankopen en onteigeningen van percelen ter uitvoering van de ruimtelijke uitvoeringsplannen.<br /><br />
+
+### ART. 2.4.6.
+
+§ 1. Bij het bepalen van de waarde van het onteigende perceel wordt geen rekening gehouden met de waardevermeerdering of -vermindering die voortvloeit uit de voorschriften van een ruimtelijk uitvoeringsplan, voorzover de onteigening wordt gevorderd voor de verwezenlijking van dat ruimtelijk uitvoeringsplan.<br /><br />Bij het bepalen van de waarde van het onteigende perceel wordt evenmin rekening gehouden met de waardevermeerdering die het goed heeft verkregen door werken of veranderingen uitgevoerd zonder vergunning of in strijd met de voorschriften van een plan van aanleg of een ruimtelijk uitvoeringsplan.<br /><br />§ 2. Onteigeningen die achtereenvolgens worden verordend ter verwezenlijking van een uitvoeringsplan, met inbegrip van een herzien ruimtelijk uitvoeringsplan, worden voor de waardebepaling van de te onteigenen goederen geacht een geheel te vormen op de datum van het eerste onteigeningsbesluit.<br /><br />
+
+### ART. 2.4.7.
+
+De onteigeningen in de zin van deze afdeling zullen worden gevorderd met toepassing van de gemeenrechtelijke onteigeningsprocedure of van de rechtspleging bij hoogdringende omstandigheden.<br /><br />
+
+### ART. 2.4.8.
+
+Wanneer binnen een termijn van vijf jaar, te rekenen vanaf de goedkeuring van het onteigeningsplan, de onteigeningsprocedure niet is begonnen, kan de eigenaar per aangetekende brief de onteigenende instantie verzoeken van de onteigening van zijn goed af te zien. De onteigenende instantie brengt de eigenaar per aangetekende brief binnen zes maanden, te rekenen vanaf de ontvangst van het verzoek, op de hoogte van haar beslissing. Doet ze dat niet, dan vervalt het onteigeningsplan van rechtswege voor het deel dat betrekking heeft op de goederen van de eigenaar die het verzoek heeft ingediend.<br /><br />Als de onteigenende instantie afziet van het voornemen om te onteigenen, dan vervalt het onteigeningsplan.<br /><br />Als de onteigenende instantie niet afziet van het voornemen om te onteigenen, dan dient ze binnen twee jaar, te rekenen vanaf de aangetekende brief waarmee ze de verzoeker op de hoogte brengt van haar beslissing, de onteigeningsprocedure aan te vatten, zo niet vervalt het onteigeningsplan van rechtswege voor het deel dat betrekking heeft op de goederen van de eigenaar die het verzoek heeft ingediend.<br /><br />
+
+### ART. 2.4.9.
+
+De Vlaamse Regering kan, binnen de perken van de begroting, subsidies verlenen aan provincies, gemeenten, verenigingen van gemeenten, openbare instellingen en aan de organen die door de Vlaamse Regering gemachtigd zijn tot onteigening voor het algemeen belang, als tegemoetkoming in :<br />1° de verwerving, met inbegrip van de onteigening en de inrichting van gronden en panden, ter verwezenlijking van een ruimtelijk uitvoeringsplan of een plan van aanleg;<br />2° de uitbouw en/of toepassing van specifieke instrumenten voor de voorbereiding van de oprichting van een grond- en pandenbank of de ondersteuning van ruil- en herverkavelingsinitiatieven.<br /><br />De Vlaamse Regering kan haar waarborg verlenen voor de goede afloop van leningen die door provincies, gemeenten, verenigingen van gemeenten, openbare instellingen en ook door de organen die door de Vlaamse Regering gemachtigd zijn tot onteigening ten algemenen nutte, worden aangegaan voor de verwerving, met inbegrip van de onteigening, en de inrichting van gronden en panden, ter verwezenlijking van een plan van aanleg of een ruimtelijk uitvoeringsplan.<br /><br />De Vlaamse Regering kan nadere regels vaststellen ter uitvoering van het eerste en tweede lid. De gronden of panden worden verworven met het oog op projecten die betrekking hebben op de aanleg van het openbaar domein ten voordele van zwakke weggebruikers of van het openbaar vervoer of op de verbetering van groenvoorzieningen en de woonomgeving.<br /><br />
+
+## Afdeling 3 Aankoopplicht
+
+### ART. 2.4.10.
+
+§ 1. De eigenaar van een onroerend goed kan van het Vlaamse Gewest de verwerving daarvan eisen indien hij aantoont dat, ten gevolge van de vaststelling van één of meer al dan niet opeenvolgende ruimtelijke uitvoeringsplannen, de waardevermindering van zijn onroerend goed ernstig is of de leefbaarheid van de bestaande bedrijfsvoering ernstig in het gedrang komt.<br /><br />De bepalingen van titel IV, hoofdstukken I, II en VII, van het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen zijn van toepassing op deze aankoopplicht.<br /><br />§ 2. De Vlaamse Regering bepaalt de nadere voorwaarden en de procedure van de aankoopplicht. De Vlaamse Regering bepaalt de wijze van berekening van het bedrag van de aankoopprijs waarop de eigenaar recht heeft.<br /><br />§ 3. Het bedrag dat de eigenaar van het Vlaamse Gewest ontvangt met toepassing van dit artikel, wordt in voorkomend geval verminderd met het bedrag dat de eigenaar reeds heeft ontvangen ten gevolge van planschade voor hetzelfde onroerend goed. Hetzelfde geldt wat betreft de bedragen die reeds werden ontvangen ten gevolge van kapitaalschade in de zin van boek 6 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.<br /><br />Wanneer een eigenaar toepassing maakt van deze aankoopplicht, kan hij jegens het Vlaamse Gewest en met betrekking tot hetzelfde onroerend goed geen aanspraak meer maken op schadeloosstellingen ingevolge planschade of patrimoniumverlies of op de toepassing van enige andere aankoopplicht.<br /><br />
+
+## HOOFDSTUK V [... ingetr. decr. 4 april 2014, art. 31)]
+
+### ART. 2.5.1.
+
+<P><STRONG><EM>...</EM></STRONG></P>
+
+### ART. 2.5.2.
+
+<P>...</P>
+
+## HOOFDSTUK VI Planschade en planbaten
+
+## Afdeling 1 Planschade
+
+### ART. 2.6.1.
+
+§ 1. De ruimtelijke uitvoeringsplannen kunnen erfdienstbaarheden van openbaar nut doen ontstaan en eigendomsbeperkingen inhouden, met inbegrip van bouwverbod.<br /><br />In de gevallen, vermeld in § 2 en § 3, kan een bouw- of verkavelingsverbod aanleiding geven tot een beperkte schadevergoeding, planschadevergoeding genaamd.<br /><br />§ 2. Planschadevergoeding wordt toegekend wanneer, op basis van een in werking getreden ruimtelijk uitvoeringsplan, een perceel niet meer in aanmerking komt voor een vergunning om te bouwen, vermeld in artikel 4.2.1, 1°, of te verkavelen, terwijl het de dag voorafgaand aan de inwerkingtreding van dat definitieve plan wel in aanmerking kwam voor een vergunning om te bouwen of te verkavelen.<br /><br />§ 3. Voor de toepassing van planschadevergoeding moet bovendien aan volgende criteria samen worden voldaan op de dag voorafgaand aan de inwerkingtreding van het definitieve plan :<br />1° het perceel moet gelegen zijn aan een voldoende uitgeruste weg overeenkomstig artikel 4.3.5, § 1;<br />2° het perceel moet stedenbouwkundig en bouwtechnisch voor bebouwing in aanmerking komen;<br />3° het perceel moet gelegen zijn binnen een bebouwbare zone zoals bepaald in een plan van aanleg of ruimtelijk uitvoeringsplan;<br />4° enkel de eerste 50 meter vanaf de rooilijn komt in aanmerking voor planschade.<br /><br />Het criterium, vermeld in het eerste lid, 1°, geldt evenwel niet voor de percelen waarop de bedrijfsgebouwen en de exploitantenwoning van een bestaand land- of tuinbouwbedrijf gelegen zijn.<br /><br />§ 4. Er is geen planschadevergoeding verschuldigd in de volgende gevallen :<br />1° bij verbod te bouwen of te verkavelen als gevolg van een vastgestelde en, in voorkomend geval, goedgekeurde onteigeningsbeslissing;<br />2° bij verbod een grotere oppervlakte van een perceel te bebouwen dan het ruimtelijk uitvoeringsplan toelaat, of bij een verkaveling de door het plan bepaalde bebouwingsdichtheid te overschrijden;<br />3° bij verbod de exploitatie van gevaarlijke, ongezonde en hinderlijke bedrijven voort te zetten na het verstrijken van de tijd waarvoor de milieuvergunning was verleend;<br />4° bij verbod te bouwen op een stuk grond dat de minimumafmetingen, vastgesteld in een ruimtelijk uitvoeringsplan, niet heeft;<br />5° bij verbod te bouwen of te verkavelen buiten de bebouwde kernen wegens de dwingende eisen van de verkeersveiligheid;<br />6° bij verbod een stuk grond te verkavelen waarvoor een vroeger verleende verkavelingsvergunning vervallen was op de datum van de inwerkingtreding van het ruimtelijk uitvoeringsplan of plan van aanleg dat vermeld verbod inhoudt;<br />7° voor de gebouwen of vaststaande inrichtingen, vernield door een natuurramp, als het verbod van hun wederopbouw voortvloeit uit artikel 12, § 3, eerste lid van de wet van 12 juli 1976 betreffende het herstel van zekere schade veroorzaakt aan private goederen door natuurrampen;<br />8° bij weigering van een aanvraag om de functie van een gebouw te wijzigen;<br />9° wanneer de overeenkomstig artikel 2.6.2, § 1, berekende waardevermindering die voor schadeloosstelling in aanmerking komt, niet meer bedraagt dan twintig ten honderd van de waarde van het goed op het ogenblik van de verwerving, geactualiseerd tot op de dag van het ontstaan van het recht op vergoeding en verhoogd met de lasten en kosten;<br />10° wanneer de schade in aanmerking komt voor een compensatie, vermeld in boek 6, titel 2 of titel 3, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.<br /><br />
+
+### ART. 2.6.2.
+
+§ 1. De waardevermindering die voor de planschadevergoeding in aanmerking komt, dient te worden geraamd als het verschil tussen de waarde van dat goed op het ogenblik van de verwerving, geactualiseerd tot op de dag van het ontstaan van het recht op schadevergoeding, verhoogd met de lasten en kosten, vóór de inwerkingtreding van het ruimtelijk uitvoeringsplan en de waarde van dat goed op het ogenblik van het ontstaan van het recht op schadevergoeding na de inwerkingtreding van dat ruimtelijk uitvoeringsplan.<br /><br />Als waarde van het goed op het ogenblik van verwerving wordt in aanmerking genomen, het bedrag dat als grondslag heeft gediend voor de heffing van de registratie- of successierechten over de volle eigendom van het goed, of, bij ontstentenis van zulke heffing, de verkoopwaarde van het goed in volle eigendom op de dag van de verwerving.<br /><br />Als waarde van het goed op het ogenblik van het ontstaan van het recht op schadevergoeding wordt in aanmerking genomen :<br />1° in geval van overdracht of inbreng van het goed, het bedrag dat als grondslag heeft gediend voor de heffing van de registratierechten over de volle eigendom van het goed, of, indien zulke heffing ontbreekt, de verkoopwaarde van het goed in volle eigendom op de dag van de overdracht of de inbreng met als minimum de overeengekomen waarde;<br />2° in geval van weigering van een vergunning om te bouwen of een verkavelingsvergunning, of in geval van een negatief stedenbouwkundig attest, de verkoopwaarde op dat ogenblik.<br /><br />De waarde van het goed op het ogenblik van de verwerving wordt geactualiseerd door ze te vermenigvuldigen met het indexcijfer van de consumptieprijzen van de kalendermaand voorafgaand aan die waarin de schadevergoeding is vastgesteld en het zo bekomen getal te delen door het gemiddelde indexcijfer van de consumptieprijzen van het jaar van verwerving door de vergoedingsgerechtigde, in voorkomend geval, omgerekend op dezelfde basis als eerstgenoemd indexcijfer. De aldus bekomen waarde wordt verhoogd met de kosten van verwerving en met de uitgaven die door de vergoedingsgerechtigde zijn gedragen met het oog op de realisatie van de bestemming van het goed op de dag voorafgaand aan de inwerkingtreding van het plan, vermeld in het eerste lid.<br /><br />Enkel de waardevermindering voortvloeiend uit het plan, vermeld in artikel 2.6.1, § 2, kan in aanmerking komen voor planschadevergoeding.<br /><br />Het recht op planschadevergoeding ontstaat ofwel bij een overdracht onder bezwarende titel van het goed, ofwel bij inbreng van het goed in een vennootschap, ofwel bij de weigering van een vergunning om te bouwen of een verkavelingsvergunning, ofwel bij het afleveren van een negatief stedenbouwkundig attest.<br /><br />Na verloop van een termijn van vijf jaar, te rekenen vanaf de datum van de inwerkingtreding van het plan, kan het recht op planschadevergoeding niet meer ontstaan. Deze vijfjarentermijn wordt opgeschort gedurende vijf jaar, in het geval, vermeld in artikel 2.6.1, § 4, 1°, tenzij de onteigeningsbeslissing eerder zou vervallen of eerder zou worden herroepen. Het vorderingsrecht vervalt definitief een jaar na de dag waarop het recht op planschadevergoeding is ontstaan.<br /><br />§ 2. De planschadevergoeding bedraagt tachtig percent van de waardevermindering.<br /><br />De planschadevergoeding wordt verminderd of geweigerd voorzover vaststaat dat de eiser in het Gewest andere onroerende goederen bezit of aandelen in een vennootschap die als hoofddoel het beheer van onroerende goederen heeft, die voordeel halen uit de inwerkingtreding van een ruimtelijk uitvoeringsplan of uit werken uitgevoerd op kosten van openbare besturen, behoudens de onroerende goederen waarvoor een planbatenheffing betaald wordt overeenkomstig artikel 2.6.4 tot en met 2.6.18.<br /><br />Op straffe van definitief verval van het recht op planschadevergoeding moeten alle eisende partijen binnen zes maanden na de inleiding van de zaak en uiterlijk vóór de eerste rechterlijke uitspraak over de grond van de zaak per aangetekende brief gericht aan de griffie van de bevoegde rechtbank een staat neerleggen met de vermelding op de dag voorafgaand aan de inwerkingtreding van het ruimtelijk uitvoeringsplan of zij al dan niet in het bezit zijn van andere, bebouwde of onbebouwde, gronden in het Gewest of aandelen in een vennootschap die als hoofddoel het beheer van onroerende goederen heeft. Als dat het geval is, moeten zij ook de precieze aanduiding geven van de kadastrale gegevens van die gronden en het aantal aandelen. Terzelfder tijd als de neerlegging ter griffie, wordt die staat op dezelfde wijze medegedeeld aan de verwerende partij en haar raadsman.<br /><br />De planschadevergoeding wordt niet verminderd voor de percelen waarvoor de eiser een planbatenheffing betaald heeft.<br /><br />§ 3. Aan de verplichting tot planschadevergoeding kan, ten laatste binnen twee jaar na een in kracht van gewijsde gegaan vonnis of arrest, en ongeacht de eigenaar, voldaan worden door een definitieve vaststelling van een ruimtelijk uitvoeringsplan tot wijziging van het bestaande plan, met het doel aan het goed opnieuw de bestemming te geven die het had de dag vóór de inwerkingtreding van het bestaande plan.<br /><br />Indien het besluit houdende definitieve vaststelling van het ruimtelijk uitvoeringsplan voor een deel aan het goed de bestemming geeft die het had de dag vóór de inwerkingtreding van het bestaande ruimtelijk uitvoeringsplan, dan wordt de betaling van de planschadevergoeding pro rata berekend.<br /><br />§ 4. Wanneer krachtens een definitief vastgesteld ruimtelijk uitvoeringsplan een bouwverbod kan worden tegengeworpen aan degene die een perceel in een verkaveling heeft aangekocht, kan het gewest, de provincie of de gemeente zich aan de verplichting tot planschadevergoeding onttrekken door dat perceel, in onderling akkoord, van de betrokkene terug te kopen, op voorwaarde dat hem de betaalde koopprijs, verhoogd met de lasten en kosten, en geactualiseerd aan de hand van het indexcijfer van de consumptieprijzen, wordt terugbetaald.<br /><br />Indien dat perceel het enige onroerende goed is waarvan de betrokkene eigenaar is, kan hij de terugkoop door het gewest, de provincie of de gemeente eisen door zijn wil te doen kennen bij aangetekende brief, te zenden binnen twaalf maanden na de bekendmaking van het bovenvermeld ruimtelijk uitvoeringsplan. In dat geval moet het perceel worden teruggekocht en betaald binnen twaalf maanden na de kennisgeving. De Vlaamse Regering bepaalt de nadere regelen inzake de terugkoop.<br /><br />
+
+### ART. 2.6.3.
+
+De vorderingen tot betaling van planschadevergoedingen, ongeacht het bedrag ervan, behoren tot de bevoegdheid van de rechtbanken van eerste aanleg.<br /><br />De planschadevergoeding is verschuldigd door de overheid die het ruimtelijk uitvoeringsplan opmaakte waardoor de planschade is ontstaan.<br /><br />
+
+## Afdeling 2 Planbatenheffing
+
+## Onderafdeling 1 Grondslag, uitzonderingen, vrijstellingen en schorsingen
+
+### ART. 2.6.4.
+
+Een planbatenheffing is verschuldigd wanneer een in werking getreden ruimtelijk uitvoeringsplan of bijzonder plan van aanleg op een perceel één of meer van de hiernavolgende bestemmingswijzigingen doorvoert :<br />1° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « bos », « overig groen » of « reservaat en natuur » valt, naar een zone die onder de categorie van gebiedsaanduiding « wonen » valt;<br />2° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « landbouw » valt, naar een zone die onder de categorie van gebiedsaanduiding « wonen » valt;<br />3° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « recreatie » valt, naar een zone die onder de categorie van gebiedsaanduiding « wonen » valt;<br />4° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « gemeenschaps- en nutsvoorzieningen » valt, naar een zone die onder de categorie van gebiedsaanduiding « wonen » valt;<br />5° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt, naar een zone die onder de categorie van gebiedsaanduiding « wonen » valt;<br />6° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « bos », « overig groen » of « reservaat en natuur » valt, naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt;<br />7° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « landbouw » valt, naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt;<br />8° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « recreatie » valt, naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt;<br />9° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « gemeenschaps- en nutsvoorzieningen » valt, naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt;<br />10° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « gemeenschaps- en nutsvoorzieningen » valt, naar een zone die onder de categorie van gebiedsaanduiding « recreatie » valt;<br />11° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « bos », « overig groen » of « reservaat en natuur » valt, naar een zone die onder de categorie van gebiedsaanduiding « recreatie » valt;<br />12° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « landbouw » valt, naar een zone die onder de categorie van gebiedsaanduiding « recreatie » valt;<br />13° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « bos », « overig groen » of « reservaat en natuur » valt, naar een zone die onder de categorie van gebiedsaanduiding « landbouw » valt;<br />14° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « bos », « overig groen » of « reservaat en natuur » valt, naar een zone die onder de subcategorie van gebiedsaanduiding « gebied voor de winning van oppervlaktedelfstoffen » valt;<br />15° de bestemmingswijziging van een zone die onder de categorie van gebiedsaanduiding « landbouw » valt, naar een zone die onder de subcategorie van gebiedsaanduiding « gebied voor de winning van oppervlaktedelfstoffen » valt.<br /><br />
+
+### ART. 2.6.5.
+
+Er is geen planbatenheffing verschuldigd in volgende gevallen :<br />1° wanneer de bestemmingswijziging niet voor gevolg heeft dat voortaan een verkavelingsvergunning of een stedenbouwkundige vergunning verkregen kan worden die vóór de inwerkingtreding van het ruimtelijk uitvoeringsplan of het bijzonder plan van aanleg niet verkregen kon worden;<br />2° wanneer de bestemmingswijziging minder dan vijfentwintig procent van een perceel bestrijkt en/of een perceelsgedeelte van minder dan 200 m2 betreft;<br />3° wanneer voor het perceel een ruimtelijk uitvoeringsplan, dan wel een bijzonder plan van aanleg, in werking treedt om te voldoen aan een verplichting tot planschadevergoeding;<br />4° wanneer het perceel waarop de dag voorafgaand aan de inwerkingtreding van het ruimtelijk uitvoeringsplan, dan wel het bijzonder plan van aanleg, een zonevreemde, hoofdzakelijk vergunde en niet-verkrotte woning in de zin van artikel 4.4.10 gevestigd is, een voor wonen geëigende bestemming krijgt ten gevolge van het plan;<br />5° wanneer een perceel, begrepen in een niet-vervallen verkaveling, bestemd voor woningbouw, een voor woningbouw geëigende bestemming krijgt ten gevolge van het plan;<br />6° wanneer het perceel waarop de dag voorafgaand aan de inwerkingtreding van het ruimtelijk uitvoeringsplan, dan wel het bijzonder plan van aanleg, een zonevreemd, hoofdzakelijk vergund en niet-verkrot bedrijf in de zin van artikel 4.4.10 gevestigd is, een voor bedrijvigheid geëigende bestemming krijgt ten gevolge van het plan;<br />7° wanneer het perceel waarop de dag voorafgaand aan de inwerkingtreding van het ruimtelijk uitvoeringsplan, dan wel het bijzonder plan van aanleg, zonevreemde, hoofdzakelijk vergunde en niet-verkrotte gebouwen of terreinen voor sport-, recreatie- en jeugdactiviteiten gelegen of gevestigd zijn, een voor deze activiteiten geëigende bestemming krijgt ten gevolge van het plan.<br /><br />
+
+### ART. 2.6.6.
+
+Percelen die worden onteigend of overgedragen in der minne ten algemenen nutte worden van planbatenheffing vrijgesteld, voor zover voldaan is aan beide hiernavolgende voorwaarden :<br />1° er wordt overeenkomstig artikel 2.4.6, § 1, eerste lid, geen rekening gehouden met de waardevermeerdering die voortvloeit uit de voorschriften van het ruimtelijk uitvoeringsplan, dan wel het bijzonder plan van aanleg;<br />2° de onteigening, respectievelijk de overdracht in der minne ten algemenen nutte, gebeurt ten laste van de heffingsplichtige en niet ten aanzien van een derde-verkrijger.<br /><br />Indien de onteigening of de overdracht in der minne ten algemenen nutte plaatsvindt nadat de planbatenheffing, of een gedeelte daarvan, reeds is betaald, worden de reeds betaalde bedragen terugbetaald, evenwel zonder dat moratoriuminteresten verschuldigd zijn.<br /><br />
+
+### ART. 2.6.7.
+
+De planbatenheffing wordt in voorkomend geval opgeschort :<br>
+1° gedurende de periode waarbinnen het ruimtelijk uitvoeringsplan of het bijzonder plan van aanleg geschorst is door de Raad van State;<br>
+2° vanaf de betekening, aan de ambtenaar belast met het invorderen van de planbatenheffing, van de intentie om onder de voorwaarden, vermeld in artikel 2.6.6, te onteigenen of te verwerven in der minne ten algemenen nutte, desgevallend tot en met de dag van de beslissing tot herroeping van deze intentie;<br>
+3° gedurende de periode waarbinnen het perceel niet bebouwd kan worden ten gevolge van redenen eigen aan het perceel;<br>
+4° gedurende de periode waarbinnen het perceel niet bebouwd kan worden ten gevolge van een erfdienstbaarheid van openbaar nut.<br>
+<br>
+De Vlaamse Regering kan nadere regelen bepalen betreffende de mededeling van de redenen, de aanvang en de beëindiging van de opschorting, vermeld in het eerste lid, aan de ambtenaar belast met het invorderen van de planbatenheffing.<br>
+&nbsp;
+
+## Onderafdeling 2 Heffingsplicht
+
+### ART. 2.6.8.
+
+Heffingsplichtig is diegene die op het ogenblik van de inwerkingtreding van het betrokken ruimtelijk uitvoeringsplan of bijzonder plan van aanleg het eigendomsrecht of het bloot eigendomsrecht op het perceel kan laten gelden.<br /><br />De heffingsplicht gaat over op de natuurlijke of rechtspersoon waaraan het eigendomsrecht of bloot eigendomsrecht, vermeld in het eerste lid, kosteloos of ingevolge erfopvolging of testament wordt overgedragen.<br /><br />
+
+### ART. 2.6.9.
+
+Indien er meerdere heffingsplichtigen zijn, zijn zij hoofdelijk gehouden voor de gehele planbatenheffing.<br /><br />
+
+## Onderafdeling 3 Bedrag
+
+### ART. 2.6.10.
+
+Aard van de bestemmingswijziging
+<p>§ 1. De planbatenheffing wordt berekend uitgaande van de vermoede meerwaarde van een perceel ten gevolge van de bestemmingswijziging en op basis van de oppervlakte van de bestemmingswijziging op het perceel. De oppervlakte van het perceel is de bij het kadaster gekende oppervlakte.<br>
+<br>
+§ 2. De vermoede meerwaarde van een perceel wordt berekend overeenkomstig volgende tabel :<br>
+<br>
+</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Aard van de bestemmingswijziging<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Bedrag van de vermoede meerwaarde per m<sup>2</sup></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Wijziging als vermeld in art. 2.6.4, 1°</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>86,31 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Wijziging als vermeld in art. 2.6.4, 2°</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>85,92 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Wijziging als vermeld in art. 2.6.4, 3°</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>83,73 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Wijziging als vermeld in art. 2.6.4, 4°</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>85,65 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Wijziging als vermeld in art. 2.6.4, 5°</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>54,89 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Wijziging als vermeld in art. 2.6.4, 6°</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>58,02 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Wijziging als vermeld in art. 2.6.4, 7°</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>57,63 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Wijziging als vermeld in art. 2.6.4, 8°</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>55,44 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Wijziging als vermeld in art. 2.6.4, 9°</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>57,36 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Wijziging als vermeld in art. 2.6.4, 10°</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>1,92 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Wijziging als vermeld in art. 2.6.4, 11°</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2,58 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Wijziging als vermeld in art. 2.6.4, 12°</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2,19 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Wijziging als vermeld in art. 2.6.4, 13°</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,39 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Wijziging als vermeld in art. 2.6.4, 14°</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2,85 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Wijziging als vermeld in art. 2.6.4, 15°</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2,46 euro</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Indien het perceel het voorwerp uitmaakt van meerdere gelijktijdige bestemmingswijzigingen, wordt de vermoede meerwaarde van het perceel berekend als de optelsom van de producten van de respectievelijke oppervlaktes van elke wijziging en het bedrag van de vermoede meerwaarde per m2, zoals weergegeven in de tabel, opgenomen in het eerste lid.<br>
+<br>
+Indien een zone die nog niet is afgebakend met toepassing van artikel 2.2.3, § 2, eerste lid, onder meerdere categorieën van gebiedsaanduiding valt, wordt de vermoede meerwaarde berekend aan de hand van de categorie waaronder de meerderheid van de functies van de zone ressorteert.<br>
+&nbsp;</p>
+
+### ART. 2.6.11.
+
+Voor de berekening van de planbatenheffing wordt het bedrag van de vermoede meerwaarde van een perceel verdeeld in schijven, die elk onderworpen worden aan een specifiek heffingspercentage.<br>
+<br>
+Deze berekening gebeurt aan de hand van volgende tabel :
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Gedeelte van de vermoede meerwaarde<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Percentage toepasselijk op het overeenstemmend gedeelte</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Totale bedrag van de heffing over het voorgaand gedeelte</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>van 0,01 tot en met 12.500 EUR</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>1 t.h.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>van 12.500 tot en met 25.000 EUR</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2 t.h.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>125 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>van 25.000 tot en met 50.000 EUR</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>3 t.h.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>375 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>van 50.000 tot en met 100.000 EUR</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>5 t.h.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>1.125 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>van 100.000 tot en met 150.000 EUR</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>8 t.h.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>3.625 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>van 150.000 tot en met 200.000 EUR</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>14 t.h.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>7.625 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>van 200.000 tot en met 250.000 EUR</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>18 t.h.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>14.625 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>van 250.000 tot en met 500.000 EUR</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>24 t.h.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>23.625 EUR</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>boven de 500.000 EUR</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>30 t.h.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>83.625 EUR</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+### ART. 2.6.12.
+
+§ 1. De in artikel 2.6.10, § 2, eerste lid, opgenomen vermoede meerwaarden per m2 worden vijfjaarlijks geactualiseerd. De Vlaamse Regering legt daartoe vijfjaarlijks een voorstel voor aan de decreetgever, op grond van het evaluatierapport, vermeld in artikel 2.6.19, tweede lid. De cyclus van vijf jaar vangt aan op 1 januari 2009.<br />Indien op 31 december van het laatste jaar van de cyclus van vijf jaar, vermeld in het eerste lid, geen actualisering is doorgevoerd, wordt het bedrag van de verschuldigde planbatenheffing, als bepaald overeenkomstig artikel 2.6.10 en 2.6.11, vanaf 1 januari van het daaropvolgende jaar geactualiseerd door dit te vermenigvuldigen met de gezondheidsindex voor de maand volgend op de maand van de inwerkingtreding van het ruimtelijk uitvoeringsplan of het bijzonder plan van aanleg, en te delen door de gezondheidsindex voor de maand volgend op de maand van de inwerkingtreding van het decreet waarin het toepasselijke bedrag van de vermoede meerwaarde per m2 voor het laatst werd vastgesteld of aangepast.<br /><br />§ 2. In afwijking van § 1 legt de Vlaamse Regering reeds uiterlijk op 31 december 2011 een eerste voorstel tot actualisering van de vermoede meerwaarden per m2 voor de bestemmingswijzigingen, vermeld in artikel 2.6.4, 14° en 15°, aan de decreetgever voor. Het voorstel is gebaseerd op een specifieke evaluatie betreffende deze bestemmingswijzigingen.<br /><br />De regeling, vermeld in het eerste lid, stelt de bestemmingswijzigingen, vermeld in artikel 2.6.4, 14° en 15°, niet vrij van de globale vijfjaarlijkse evaluatie en actualisering, vermeld in § 1, eerste lid. De regeling, vermeld in § 1, tweede lid, is ook op deze bestemmingswijzigingen onverkort van toepassing.<br /><br /><br />
+
+## Onderafdeling 4 Inkohiering en invordering
+
+### ART. 2.6.13.
+
+§ 1. De belastingschuld wordt eisbaar gemaakt door middel van kohieren die worden vastgesteld op basis van door het departement aangeleverde gegevens en die ten minste volgende elementen omvatten :<br />1° een verwijzing naar de bepalingen van deze afdeling;<br />2° de grondslag van de heffing en een verwijzing naar het ruimtelijk uitvoeringsplan of bijzonder plan van aanleg dat de bestemmingswijziging omvat die geldt als grondslag van de planbatenheffing;<br />3° de identiteit van de heffingsplichtige;<br />4° het te betalen bedrag;<br />5° het artikelnummer;<br />6° de datum van uitvoerbaarverklaring.<br /><br />Het departement verzamelt, ontsluit en beheert voormelde gegevens in een geoloket planbaten. De initiërende overheden en de betrokken instanties leveren, elk voor wat hun verantwoordelijkheid betreft, de gegevens digitaal aan overeenkomstig de technische richtlijnen van het departement.<br /><br />De kohieren worden door de daartoe door de Vlaamse Regering gemachtigde ambtenaar uitvoerbaar verklaard, uiterlijk op 31 december van het jaar, volgend op het kalenderjaar van de inwerkingtreding van het ruimtelijk uitvoeringsplan of het bijzonder plan van aanleg dat de bestemmingswijziging omvat die geldt als grondslag van de planbatenheffing.<br /><br />De Vlaamse Regering kan nadere regelen bepalen omtrent de inhoud en de vormgeving van de kohieren.<br /><br />§ 2. Het aanslagbiljet dat wordt verstuurd naar de heffingsplichtige, bevat de gegevens, vermeld in het kohier, alsook :<br />1° het aanslagjaar waarvoor de planbatenheffing verschuldigd is, zijnde het jaar van inkohiering;<br />2° de verzendingsdatum;<br />3° de berekeningswijze van het bedrag van de planbatenheffing;<br />4° de berekeningswijze van de betalingstermijn;<br />5° de termijn waarbinnen de heffingsplichtige bezwaar kan indienen, de benaming en het adres van de instantie die bevoegd is om deze te ontvangen en de formaliteiten die daarbij moeten worden nageleefd.<br /><br />
+
+## Onderafdeling 5 Betalingstermijn en bezwarenregeling
+
+### ART. 2.6.14.
+
+§ 1. De planbatenheffing wordt betaald :<br />1° op de datum van het verlijden van de authentieke akte betreffende een overdracht ten bezwarende titel, door de heffingsplichtige, van enig zakelijk recht met betrekking tot het perceel;<br />2° binnen een termijn van zes maanden na het verlenen, in laatste administratieve aanleg, van :<br />a) een stedenbouwkundige vergunning voor bouwwerken, vermeld in artikel 4.2.1, 1°, voor zover voldaan is aan alle hiernavolgende voorwaarden :<br />1) de betrokken bouwwerken betreffen niet enkel afbraakwerken of bodemsaneringswerken,<br />2) voor het verrichten van de betrokken bouwwerken is de medewerking van een architect vereist,<br />3) de vergunning kon vóór de inwerkingtreding van het ruimtelijk uitvoeringsplan of het bijzonder plan van aanleg niet worden verleend,<br />b) een verkavelingsvergunning.<br /><br />Indien een stedenbouwkundige vergunning of een verkavelingsvergunning, vermeld in het eerste lid, 2°, uitdrukkelijk melding maakt van verschillende fasen van een bouw- of verkavelingsproject, wordt de planbatenheffing gefaseerd betaald overeenkomstig de daartoe door de Vlaamse Regering bepaalde regelen. Binnen een termijn van zes maanden na de aanvang van elke fase wordt de voor die fase verschuldigde heffing betaald.<br /><br />§ 2. Indien een verrichting, vermeld in § 1, eerste lid, plaatsvond vóór de verzending van het aanslagbiljet, moet de planbatenheffing betaald worden binnen een termijn van zes maanden na de verzending van het aanslagbiljet.<br /><br />§ 3. Indien in de periode tussen de inwerkingtreding van het ruimtelijk uitvoeringsplan of het bijzonder plan van aanleg en een verrichting, vermeld in § 1, eerste lid, een tweede bestemmingswijziging in werking treedt, wordt de eerste bestemmingswijziging voor de toepassing van deze afdeling geacht nooit te hebben plaatsgevonden.<br /><br />
+
+### ART. 2.6.15.
+
+Een bonificatie wordt verleend aan de heffingsplichtige die de planbatenheffing betaalt binnen het jaar na de datum waarop het aanslagbiljet is verstuurd, terwijl het heffingsbedrag in de periode tussen de verzending van het aanslagbiljet en de betaling nog niet moest worden betaald :<br />1° ofwel omdat op het ogenblik van de betaling nog geen rechtshandelingen, vermeld in artikel 2.6.14, § 1, eerste lid, werden gesteld;<br />2° ofwel omdat de heffing op het ogenblik van de betaling opgeschort was ingevolge een van de redenen, vermeld in artikel 2.6.7.<br /><br />De bonificatie bedraagt vijftien procent van het bedrag van deze voorafbetaling.<br /><br />De Vlaamse Regering kan nadere regelen bepalen voor de toepassing van deze bonificatieregeling.<br /><br />
+
+### ART. 2.6.16.
+
+§ 1. De heffingsplichtige kan bij de Vlaamse Belastingdienst een gemotiveerd bezwaar indienen tegen een aanslag. Hij voegt bij het bezwaarschrift de nodige bewijskrachtige stukken om zijn bezwaren te staven.<br /><br />Het bezwaar wordt op straffe van verval ingediend binnen een termijn van drie maanden vanaf de betekening van het aanslagbiljet.<br /><br />§ 2. De Vlaamse Belastingdienst bezorgt aan de heffingsplichtige een ontvangstmelding die de datum van ontvangst van het bezwaar vermeldt.<br /><br />§ 3. De Vlaamse Belastingdienst kan de heffingsplichtige verzoeken alle stukken voor te leggen of te verstrekken die nuttig kunnen zijn om over het bezwaar te beslissen.<br /><br />§ 4. De beslissing van de Vlaamse Belastingdienst wordt per beveiligde zending aan de heffingsplichtige bezorgd.<br /><br />§ 5. Het indienen van een bezwaarschrift schort de verplichting tot betaling van de planbatenheffing niet op. Het indienen van een bezwaarschrift schort evenmin het lopen van de nalatigheidsintresten op.<br /><br />§ 6. De Vlaamse Belastingdienst sluit met het departement een protocol over de advisering over de ruimtelijke aspecten van ingediende bezwaren.<br /><br />De Vlaamse Regering kan nadere procedurele regelen bepalen betreffende de indiening en behandeling van het bezwaar.<br /><br />
+
+## Onderafdeling 6 Toewijzing en aanwending van de opbrengsten
+
+### ART. 2.6.17.
+
+§ 1. Er wordt een Planbatenfonds opgericht, hierna het Fonds te noemen. Het Fonds is een begrotingsfonds in de zin van artikel 45 van de wetten op de rijkscomptabiliteit, gecoördineerd bij het koninklijk besluit van 17 juli 1991. Het Fonds wordt beheerd door de Vlaamse Regering.<br /><br />§ 2. Aan het Fonds worden de inkomsten van de planbatenheffing rechtstreeks toegewezen.<br /><br />§ 3. Onverminderd artikel 2.2.1, § 2, vierde lid, worden uitgaven ten laste van het Fonds aangerekend als volgt :<br />1° overeenkomstig een door de Vlaamse Regering vastgestelde methodiek worden bedragen voorafgenomen ter dekking van de inningskosten en de kosten ingevolge de toepassing van artikel 2.6.6, tweede lid;<br />2° de inkomsten die voortkomen uit een gewestelijke bestemmingswijziging naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt, worden gestort in het Rubiconfonds, vermeld in artikel 28 van het decreet van 27 juni 2003 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2003;<br />3° de inkomsten die voortkomen uit een provinciale of gemeentelijke bestemmingswijziging naar een zone die onder de categorie van gebiedsaanduiding « bedrijvigheid » valt, worden doorgestort naar de betrokken provincie, respectievelijk gemeente;<br />4° de inkomsten die voortkomen uit planbatenheffingen die voortvloeien uit een planologische oplossing in de zin van artikel 5.4.2, worden doorgestort naar de gemeente waar de planologische oplossing haar beslag had;<br />5° de overblijvende middelen worden gestort op een rekening van het grondfonds, vermeld in artikel 5.6.3, en aangewend voor activeringsprojecten, vermeld in het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid, met dien verstande dat de door de erkende sociale huisvestingsmaatschappijen betaalde heffingen te allen tijde worden ingezet voor strategische projecten voor een doelgroepengericht woonbeleid.<br /><br />Provincies en gemeenten bewerkstelligen bij de opmaak van hun begrotingen dat ten minste een equivalent van de in het vorige begrotingsjaar doorgestorte inkomsten, vermeld in het eerste lid, 3°, bestemd wordt binnen het lokale ruimtelijke beleid, zoals in het bijzonder de verwezenlijking van de ontvoogdingsvoorwaarden, vermeld in artikel 7.2.1, § 1, het voldoen van planschadevergoedingen en de aanwending van het instrument « planologische ruil », zijnde de omwisseling van gebiedsbestemmingen vanuit een samenhangende visie op de duurzame ruimtelijke ordening van het volledige plangebied.<br /><br />
+
+## Onderafdeling 7 Overige bepalingen
+
+## Sectie 1 [Suppletieve toepassing van de Vlaamse Codex Fiscaliteit van 13 december 2013 (verv. decr. 13 december 2013, art. 4.4.0.0.2., I: 1 januari 2014)]
+
+### ART. 2.6.18.
+
+Onverminderd de uitzonderingen gesteld bij of krachtens deze codex, zijn de bepalingen van het Wetboek van de Inkomstenbelastingen 1992, in het bijzonder deze met betrekking tot de inning en invordering, de nalatigheids- en moratoire intresten, de vervolgingen, de voorrechten, de wettelijke hypotheek, de verjaring en de vestiging van de belastingen, zoals ze van toepassing zijn voor de onroerende voorheffing in het Vlaams Gewest, doch met uitzondering van titel VII, hoofdstuk VIII, afdeling IVbis, van toepassing op de planbatenheffing.<br /><br />
+
+## [Sectie 2 Monitoring (verv. decr. 26 mei 2023, art. 78)]
+
+### ART. 2.6.19.
+
+De Vlaamse Regering werkt een evaluatiemechanisme uit dat toelaat om de effectiviteit van de planbatenregeling op te volgen en om het adequaat karakter van de tariefregeling te bewaken.<br /><br />Het evaluatiemechanisme leidt vijfjaarlijks tot een globaal evaluatierapport dat voorgelegd wordt aan de Vlaamse Regering en aan het Vlaams Parlement.<br /><br />
+
+## [Afdeling 3 Decreet betreffende complexe projecten (ing. Decr. 25 april 2014, art. 55, I: 1 maart 2015)]
+
+## TITEL III [... (opgeh. decr. 25 april 2014, art. 57, I: 1 maart 2015)]
+
+## HOOFDSTUK I [... (opgeh. decr. 25 april 2014, art. 57, I: 1 maart 2015)]
+
+## Afdeling 1 [... (opgeh. decr. 25 april 2014, art. 57, I: 1 maart 2015)]
+
+### ART. 3.1.1.
+
+§ 1. De decreetgever kan op verzoek van de Vlaamse Regering verklaren dat een ruimtelijk project van gewestelijk en strategisch belang is. Dit verzoek kan niet worden verricht voor projecten waarvoor gebruik wordt gemaakt van de delegatieregeling, vermeld in artikel 2.2.1, § 2.<br /><br />De Vlaamse Regering staaft in het verzoek dat voldaan is aan alle hiernavolgende vereisten :<br />1° het ruimtelijk project bestaat uit een samenhangend geheel van structurele maatregelen, waarbij grootschalige publieke infrastructuren worden verwezenlijkt in combinatie met de ontwikkeling van het omliggende gebied;<br />2° het ruimtelijk project is onontbeerlijk voor een dringend noodzakelijke verbetering van woonkwaliteit, milieukwaliteit, economische ontwikkeling en/of bereikbaarheid;<br />3° het ruimtelijk project is niet in belangrijke mate gericht op werken ten behoeve van inrichtingen waarvoor een socio-economische vergunning moet worden gevraagd;<br />4° de doelstelling van het ruimtelijk project kan niet via een andere weg worden gerealiseerd, of slechts door middel van alternatieven die een manifeste sociale, economische, financiële, ruimtelijke of milieugebonden meerkost impliceren;<br />5° het ruimtelijk project heeft een ongebruikelijk grote rechtstreekse en onrechtstreekse socio-economische en ruimtelijke impact;<br />6° het ruimtelijk project noopt tot ongebruikelijke investeringen en inspanningen op het vlak van ontwikkeling en beheer.<br /><br />Indien in het verzoek wordt gestaafd dat het ruimtelijk project betrekking heeft op de inplanting van grootschalige publieke infrastructuren die dringend noodzakelijk zijn omwille van dwingende redenen van het veiligheidsbeleid, het defensiebeleid, het asielbeleid en/of het justitieel beleid, dan gelden de vereisten van het tweede lid, 1° en 2°, niet.<br /><br />Indien de Vlaamse Regering gebruik wenst te maken van de geïntegreerde plannings- en uitvoeringsprocedure, vermeld in afdeling 3, onderbouwt zij ten slotte waarom het project bij de opmaak of de laatste algehele herziening van het ruimtelijk structuurplan Vlaanderen niet voorzienbaar was.<br /><br />§ 2. De decreetgever beslist over het verzoek binnen een vervaltermijn van zestig dagen, die ingaat de dag na deze van de indiening van het verzoek bij het Vlaams Parlement. Deze zestigdagentermijn wordt geschorst tijdens de periode vanaf 11 juli tot en met de vierde maandag van september van het betrokken kalenderjaar. In het kalenderjaar waarin verkiezingen voor het Vlaams Parlement worden gehouden, wordt de zestigdagentermijn geschorst tijdens de periode vanaf 1 mei tot en met de vierde maandag van september van het betrokken kalenderjaar.<br /><br />Indien het Vlaams Parlement geen beslissing neemt binnen de termijn, vermeld in het eerste lid, wordt het verzoek geacht te zijn afgewezen.<br /><br />
+
+## Afdeling 2 [... (opgeh. decr. 25 april 2014, art. 57, I: 1 maart 2015)]
+
+### ART. 3.1.2.
+
+§ 1. De Vlaamse Regering kan ten behoeve van goedkeuringen, machtigingen, vergunningen, subsidies en andere steunmaatregelen voor handelingen en verrichtingen in het kader van een ruimtelijk project van gewestelijk en strategisch belang afwijken van de inhoud en de vormgeving van het aanvraagdossier, de chronologie van het procedureverloop en de duur van de behandeltermijnen, vastgesteld bij of krachtens deze codex of de hiernavolgende decreten :<br />1° het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten;<br />2° het decreet van 28 juli 1985 betreffende de milieuvergunning;<br />3° het bosdecreet van 13 juni 1990;<br />4° het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium;<br />5° het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br />6° het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten;<br />7° het decreet van 16 april 1996 betreffende de landschapszorg;<br />8° het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br />9° het decreet van 31 januari 2003 betreffende het economisch ondersteuningsbeleid;<br />10° het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br />11° het decreet van 16 juni 2006 betreffende het oprichten van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen;<br />12° het decreet van 11 oktober 2006 betreffende de bodemsanering en de bodembescherming.<br /><br />De Vlaamse Regering kan aan de afwijkingen, vermeld in het eerste lid, voorwaarden verbinden.<br /><br />De afwijkingen en de eventuele daaraan verbonden voorwaarden worden opgenomen in een door de Vlaamse Regering vastgestelde lijst, die aan het Vlaams Parlement wordt bezorgd. Indien in de lijst afwijkingen op wetskrachtige bepalingen zijn opgenomen, hebben deze eerst gevolg indien zij door de decreetgever zijn bekrachtigd. De decreetgever beslist over de bekrachtiging binnen een ordetermijn van zestig dagen na de indiening van de lijst bij het Vlaams Parlement. Deze zestigdagentermijn wordt geschorst tijdens de periode vanaf 11 juli tot en met de vierde maandag van september van het betrokken kalenderjaar. In het kalenderjaar waarin verkiezingen voor het Vlaams Parlement worden gehouden, wordt de zestigdagentermijn geschorst tijdens de periode vanaf 1 mei tot en met de vierde maandag van september van het betrokken kalenderjaar.<br /><br />§ 2. De afwijkingsregeling, vermeld in § 1, kan nimmer worden aangewend om vrijstelling te verlenen van de materiële verplichtingen die zijn vastgesteld bij of krachtens de decreten, vermeld in § 1, eerste lid.<br /><br />§ 3. De Vlaamse Regering kan nimmer afwijkingen verlenen op materiële of procedurele regelen die noodzakelijk zijn om te voldoen aan internationaalrechtelijke of Europese verplichtingen.<br /><br />
+
+## Afdeling 3 [... (opgeh. decr. 25 april 2014, art. 57, I: 1 maart 2015)]
+
+### ART. 3.1.3.
+
+§ 1. Indien de opmaak van een ruimtelijk uitvoeringsplan dat vorm geeft aan een ruimtelijk project van gewestelijk en strategisch belang, noopt tot een herziening van het bindende en desgevallend het richtinggevende gedeelte van het ruimtelijk structuurplan Vlaanderen, worden die opmaak en die herziening onderworpen aan de hierna chronologisch opgenomen procedureregelen.<br /><br />Tenzij uitdrukkelijk anders bepaald, vervangen deze procedureregelen de procedures, vermeld in titel II, hoofdstuk I, afdeling 2, en hoofdstuk II, afdeling 2.<br /><br />§ 2. De Vlaamse Regering beslist tot de opmaak van de voorontwerpen van de plannen.<br /><br />Het verzoek, vermeld in artikel 3.1.1, § 1, wordt uiterlijk naar aanleiding van deze beslissing tot opmaak bij het Vlaams Parlement ingediend.<br /><br />§ 3. De Vlaamse Regering organiseert omtrent de voorontwerpen een plenaire vergadering met :<br />1° de deputaties van de bij het project betrokken provincies;<br />2° de colleges van burgemeester en schepenen van de bij het project betrokken gemeenten;<br />3° de door de Vlaamse Regering aangewezen gewestelijke diensten.<br /><br />Bij de organisatie van de plenaire vergadering worden de voorschriften van artikel 2.2.6, § 1, tweede tot en met zesde lid, in acht genomen.<br /><br />De Vlaamse Regering onderwerpt het voorontwerp van structuurplanaanpassing daarenboven aan het advies van de Vlaamse commissie voor ruimtelijke ordening en aan het daaropvolgende advies van de strategische adviesraad.<br /><br />§ 4. De Vlaamse Regering stelt de ontwerpen voorlopig vast, eens het gewestelijk en strategisch belang van het project door het Vlaams Parlement bevestigd is.<br /><br />Bij de voorlopige vaststelling wordt in voorkomend geval artikel 2.2.7, § 1, tweede lid, in acht genomen.<br /><br />De Vlaamse Regering bezorgt de voorlopig vastgestelde ontwerpen onverwijld aan het Vlaams Parlement.<br /><br />§ 5. De Vlaamse Regering onderwerpt de ontwerpen aan een openbaar onderzoek overeenkomstig de regelen, vermeld in artikel 2.2.7, § 2, § 3 en § 4, eerste en tweede lid.<br /><br />Binnen de voor het openbaar onderzoek voorziene zestigdagentermijn wordt :<br />1° het ontwerp van structuurplanaanpassing onderworpen aan de adviesregeling, vermeld in artikel 2.1.3, § 5, derde en vierde lid, en aan de regeling, vermeld in artikel 2.1.3, § 7;<br />2° het ontwerp van ruimtelijk uitvoeringsplan onderworpen aan de adviesregeling, vermeld in artikel 2.2.7, § 4, derde en vierde lid.<br /><br />§ 6. De Vlaamse commissie voor ruimtelijke ordening bundelt en coördineert alle adviezen, opmerkingen en bezwaren. Zij brengt binnen een termijn van vijfenveertig dagen, ingaande de dag na deze van het afsluiten van het openbaar onderzoek, een gemotiveerd advies uit bij de Vlaamse Regering. Zij bezorgt het advies eveneens aan het Vlaams Parlement.<br /><br />Indien het gemotiveerd advies niet wordt uitgebracht binnen de termijn, vermeld in het eerste lid, kan aan deze verplichting tot het inwinnen van een advies bij de Vlaamse commissie voor ruimtelijke ordening worden voorbijgegaan. In dat geval worden de voorhanden zijnde adviezen, opmerkingen en bezwaren rechtstreeks door de Vlaamse Regering behandeld en beoordeeld.<br /><br />§ 7. Uiterlijk de negentigste dag na deze van het afsluiten van het openbaar onderzoek stelt de Vlaamse Regering de structuurplanaanpassing definitief vast. Zij neemt zo nodig terzelfdertijd een principebeslissing over het ontwerp van ruimtelijk uitvoeringsplan met het oog op de adviesinwinning bij de afdeling Wetgeving van de Raad van State.<br /><br />§ 8. Het bindend gedeelte van de structuurplanaanpassing is slechts uitvoerbaar indien het wordt bekrachtigd door het Vlaams Parlement, uiterlijk op de honderdvijftigste dag na deze van het afsluiten van het openbaar onderzoek.<br /><br />§ 9. Eens het bindend gedeelte bekrachtigd is, stelt de Vlaamse Regering het ruimtelijk uitvoeringsplan definitief vast, uiterlijk op de honderdvijftigste dag na deze van het afsluiten van het openbaar onderzoek. Bij de definitieve vaststelling gelden de beginselen, vermeld in artikel 2.2.7, § 7, tweede en derde lid.<br /><br />Indien het ruimtelijk uitvoeringsplan niet definitief is vastgesteld binnen de termijn, vermeld in het eerste lid, vervalt het ontwerp van ruimtelijk uitvoeringsplan.<br /><br />§ 10. De structuurplanaanpassing en het ruimtelijk uitvoeringsplan worden gezamenlijk bij uittreksel bekendgemaakt in het Belgisch Staatsblad. Zij treden in werking op de datum van bekendmaking.<br /><br />De informatieplichten van artikel 2.1.4, tweede lid, en artikel 2.2.8, derde lid, zijn van overeenkomstige toepassing.<br /><br />
+
+## HOOFDSTUK II [... (opgeh. decr. 25 april 2014, art. 57, I: 1 maart 2015)]
+
+## Afdeling 1 [... (opgeh. decr. 25 april 2014, art. 57, I: 1 maart 2015)]
+
+### ART. 3.2.1.
+
+§ 1. De deputatie kan de Vlaamse Regering verzoeken om te verklaren dat een ruimtelijk project van groot provinciaal en strategisch belang is. Dit verzoek kan niet worden verricht voor projecten waarvoor gebruik wordt gemaakt van de delegatieregeling, vermeld in artikel 2.2.1, § 2.<br />De deputatie onderbouwt in het kader van dit verzoek dat voldaan is aan alle hiernavolgende vereisten :<br />1° het ruimtelijk project bestaat uit een samenhangend geheel van structurele maatregelen, waarbij grootschalige publieke infrastructuren worden verwezenlijkt in combinatie met de ontwikkeling van het omliggende gebied;<br />2° het ruimtelijk project is onontbeerlijk voor een dringend noodzakelijke verbetering van woonkwaliteit, milieukwaliteit, economische ontwikkeling en/of bereikbaarheid;<br />3° het ruimtelijk project is niet in belangrijke mate gericht op werken ten behoeve van inrichtingen waarvoor een socio-economische vergunning moet worden gevraagd;<br />4° de doelstelling van het ruimtelijk project kan niet via een andere weg worden gerealiseerd, of slechts door middel van alternatieven die een manifeste sociale, economische, financiële, ruimtelijke of milieugebonden meerkost impliceren;<br />5° het ruimtelijk project heeft een ongebruikelijk grote rechtstreekse en onrechtstreekse socio-economische en ruimtelijke impact;<br />6° het ruimtelijk project noopt tot ongebruikelijke investeringen en inspanningen op het vlak van ontwikkeling en beheer;<br />7° het ruimtelijk project heeft geen betrekking op ruimtelijk kwetsbare gebieden.<br /><br />Indien in het verzoek wordt gestaafd dat het ruimtelijk project betrekking heeft op de inplanting van grootschalige publieke infrastructuren die dringend noodzakelijk zijn omwille van dwingende redenen van het veiligheidsbeleid, het defensiebeleid, het asielbeleid en/of het justitieel beleid, dan gelden de vereisten van het tweede lid, 1° en 2°, niet.<br /><br />De deputatie onderbouwt ten slotte waarom het project bij de opmaak of de laatste algehele herziening van het provinciaal ruimtelijk structuurplan niet voorzienbaar was.<br /><br />§ 2. De Vlaamse Regering beslist over het verzoek binnen een vervaltermijn van zestig dagen, die ingaat de dag na deze van ontvangst van het verzoek.<br /><br />Indien de Vlaamse Regering geen beslissing neemt binnen deze zestigdagentermijn, wordt het verzoek geacht te zijn afgewezen.<br /><br />
+
+### ART. 3.2.2.
+
+§ 1. Indien de opmaak van een ruimtelijk uitvoeringsplan dat vorm geeft aan een ruimtelijk project van groot provinciaal en strategisch belang, noopt tot een herziening van het bindende en desgevallend het richtinggevende gedeelte van het provinciaal ruimtelijk structuurplan, worden die opmaak en die herziening onderworpen aan de hierna chronologisch opgenomen procedureregelen.<br /><br />Tenzij uitdrukkelijk anders bepaald, vervangen deze procedureregelen de procedures, vermeld in titel II, hoofdstuk I, afdeling 3, en hoofdstuk II, afdeling 3.<br /><br />§ 2. De provincieraad beslist tot de opmaak van de voorontwerpen van de plannen.<br /><br />Het verzoek, vermeld in artikel 3.2.1, § 1, wordt uiterlijk naar aanleiding van deze beslissing tot opmaak aan de Vlaamse Regering verstuurd.<br /><br />§ 3. De deputatie organiseert omtrent de voorontwerpen een plenaire vergadering met :<br />1° de gedelegeerde planologische ambtenaar;<br />2° de colleges van burgemeester en schepenen van de bij het project betrokken gemeenten;<br />3° de adviserende diensten, vermeld in artikel 2.2.9, § 1, tweede lid;<br />4° de desgevallend in uitvoering van artikel 2.2.9, § 1, tweede lid, aangewezen gewestelijke diensten.<br /><br />Bij de organisatie van de plenaire vergadering worden de voorschriften van artikel 2.2.9, § 1, tweede tot en met zevende lid, in acht genomen.<br /><br />De deputatie onderwerpt het voorontwerp van structuurplanaanpassing daarenboven aan het advies van de provinciale commissie voor ruimtelijke ordening.<br /><br />§ 4. De deputatie stelt de ontwerpen voorlopig vast, eens het groot provinciaal en strategisch belang van het project door de Vlaamse Regering bevestigd is.<br /><br />Bij de voorlopige vaststelling wordt in voorkomend geval artikel 2.2.10, § 1, derde lid, in acht genomen.<br /><br />De deputatie bezorgt de voorlopig vastgestelde ontwerpen onverwijld aan de Vlaamse Regering.<br /><br />§ 5. De deputatie onderwerpt de ontwerpen aan een openbaar onderzoek overeenkomstig de regelen, vermeld in artikel 2.2.10, § 2, § 3 en § 4, eerste en tweede lid.<br /><br />Binnen de voor het openbaar onderzoek voorziene zestigdagentermijn wordt :<br />1° het ontwerp van structuurplanaanpassing onderworpen aan de adviesregeling, vermeld in artikel 2.1.10, § 3, derde en vierde lid;<br />2° het ontwerp van ruimtelijk uitvoeringsplan onderworpen aan de adviesregeling, vermeld in artikel 2.2.10, § 4, derde tot en met vijfde lid.<br /><br />§ 6. De provinciale commissie voor ruimtelijke ordening bundelt en coördineert alle adviezen, opmerkingen en bezwaren. Zij brengt binnen een termijn van vijfenveertig dagen, ingaande de dag na deze van het afsluiten van het openbaar onderzoek, een gemotiveerd advies uit bij de deputatie.<br /><br />Indien het gemotiveerd advies niet wordt uitgebracht binnen de termijn, vermeld in het eerste lid, kan aan deze verplichting tot het inwinnen van een advies bij de provinciale commissie voor ruimtelijke ordening worden voorbijgegaan. In dat geval worden de voorhanden zijnde adviezen, opmerkingen en bezwaren rechtstreeks door de deputatie behandeld en beoordeeld.<br /><br />§ 7. Uiterlijk de negentigste dag na deze van het afsluiten van het openbaar onderzoek stelt de provincieraad de structuurplanaanpassing en het ruimtelijk uitvoeringsplan definitief vast. Bij de definitieve vaststelling gelden de beginselen, vermeld in artikel 2.2.10, § 6, tweede en derde lid.<br /><br />§ 8. De structuurplanaanpassing en het ruimtelijk uitvoeringsplan worden samen met de besluiten van de provincieraad en het volledige advies van de provinciale commissie voor ruimtelijke ordening aan de Vlaamse Regering bezorgd per beveiligde zending.<br /><br />De Vlaamse Regering neemt binnen een vervaltermijn van zestig dagen na de ontvangst van het dossier een beslissing over de gehele of gedeeltelijke goedkeuring van de plannen.<br /><br />Indien binnen de termijn, vermeld in het tweede lid, geen goedkeuringsbeslissing wordt genomen, wordt dit gelijkgesteld met een stilzwijgende weigering tot goedkeuring.<br /><br />§ 9. De plannen treden in werking op de dag van de bekendmaking van het goedkeuringsbesluit bij uittreksel in het Belgisch Staatsblad.<br /><br />De informatieplichten van artikel 2.1.11, derde lid, en artikel 2.2.12, derde lid, zijn van overeenkomstige toepassing.<br /><br />
+
+## Afdeling 2 [... (opgeh. decr. 25 april 2014, art. 57, I: 1 maart 2015)]
+
+### ART. 3.2.3.
+
+§ 1. Het college van burgemeester en schepenen kan de Vlaamse Regering verzoeken om te verklaren dat een ruimtelijk project van groot gemeentelijk en strategisch belang is. Dit verzoek kan niet worden verricht voor projecten waarvoor gebruik wordt gemaakt van de delegatieregeling, vermeld in artikel 2.2.1, § 2.<br /><br />Het college van burgemeester en schepenen onderbouwt in het kader van dit verzoek dat voldaan is aan alle hiernavolgende vereisten :<br />1° het ruimtelijk project bestaat uit een samenhangend geheel van structurele maatregelen, waarbij grootschalige publieke infrastructuren worden verwezenlijkt in combinatie met de ontwikkeling van het omliggende gebied;<br />2° het ruimtelijk project is onontbeerlijk voor een dringend noodzakelijke verbetering van woonkwaliteit, milieukwaliteit, economische ontwikkeling en/of bereikbaarheid;<br />3° het ruimtelijk project is niet in belangrijke mate gericht op werken ten behoeve van inrichtingen waarvoor een socio-economische vergunning moet worden gevraagd;<br />4° de doelstelling van het ruimtelijk project kan niet via een andere weg worden gerealiseerd, of slechts door middel van alternatieven die een manifeste sociale, economische, financiële, ruimtelijke of milieugebonden meerkost impliceren;<br />5° het ruimtelijk project heeft een ongebruikelijk grote rechtstreekse en onrechtstreekse socio-economische en ruimtelijke impact;<br />6° het ruimtelijk project noopt tot ongebruikelijke investeringen en inspanningen op het vlak van ontwikkeling en beheer;<br />7° het ruimtelijk project heeft geen betrekking op ruimtelijk kwetsbare gebieden.<br /><br />Het college van burgemeester en schepenen onderbouwt daarenboven waarom het project bij de opmaak of de laatste algehele herziening van het gemeentelijk ruimtelijk structuurplan niet voorzienbaar was.<br /><br />§ 2. De Vlaamse Regering beslist over het verzoek binnen een vervaltermijn van zestig dagen, die ingaat de dag na deze van de ontvangst van het verzoek.<br /><br />Indien de Vlaamse Regering geen beslissing neemt binnen deze zestigdagentermijn, wordt het verzoek geacht te zijn afgewezen.<br /><br />
+
+### ART. 3.2.4.
+
+§ 1. Indien de opmaak van een ruimtelijk uitvoeringsplan dat vorm geeft aan een ruimtelijk project van groot gemeentelijk en strategisch belang, noopt tot een herziening van het bindende en desgevallend het richtinggevende gedeelte van het gemeentelijk ruimtelijk structuurplan, worden die opmaak en die herziening onderworpen aan de hierna chronologisch opgenomen procedureregelen.<br /><br />Tenzij uitdrukkelijk anders bepaald, vervangen deze procedureregelen de procedures, vermeld in titel II, hoofdstuk I, afdeling 4, en hoofdstuk II, afdeling 4.<br /><br />§ 2. De gemeenteraad beslist tot de opmaak van de voorontwerpen van de plannen.<br /><br />Het verzoek, vermeld in artikel 3.2.3, § 1, wordt uiterlijk naar aanleiding van deze beslissing tot opmaak aan de Vlaamse Regering verstuurd.<br /><br />§ 3. Het college van burgemeester en schepenen organiseert omtrent de voorontwerpen een plenaire vergadering met :<br />1° de deputatie;<br />2° de gewestelijke stedenbouwkundige ambtenaren;<br />3° de adviserende diensten, vermeld in artikel 2.2.13, § 1, tweede lid;<br />4° de desgevallend in uitvoering van artikel 2.2.13, § 1, tweede lid, aangewezen gewestelijke diensten.<br /><br />Bij de organisatie van de plenaire vergadering worden de voorschriften van artikel 2.2.13, § 1, tweede tot en met zevende lid, in acht genomen.<br /><br />Het college van burgemeester en schepenen onderwerpt het voorontwerp van structuurplanaanpassing daarenboven aan het advies van de gemeentelijke commissie voor ruimtelijke ordening.<br /><br />§ 4. Het college van burgemeester en schepenen stelt de ontwerpen voorlopig vast, eens het groot gemeentelijk en strategisch belang van het project door de Vlaamse Regering bevestigd is.<br /><br />Bij de voorlopige vaststelling wordt in voorkomend geval artikel 2.2.14, § 1, tweede lid, in acht genomen.<br /><br />Het college van burgemeester en schepenen bezorgt de voorlopig vastgestelde ontwerpen onverwijld aan de Vlaamse Regering en aan de deputatie.<br /><br />§ 5. Het college van burgemeester en schepenen onderwerpt de ontwerpen aan een openbaar onderzoek overeenkomstig de regelen, vermeld in artikel 2.2.14, § 2, § 3 en § 4, eerste lid.<br /><br />Binnen de voor het openbaar onderzoek voorziene zestigdagentermijn wordt :<br />1° het ontwerp van structuurplanaanpassing onderworpen aan de adviesregeling, vermeld in artikel 2.1.16, § 5, tweede tot en met vierde lid;<br />2° het ontwerp van ruimtelijk uitvoeringsplan onderworpen aan de adviesregeling, vermeld in artikel 2.2.14, § 4, tweede tot en met vierde lid.<br /><br />§ 6. De gemeentelijke commissie voor ruimtelijke ordening bundelt en coördineert alle adviezen, opmerkingen en bezwaren. Zij brengt binnen een termijn van vijfenveertig dagen, ingaande de dag na deze van het afsluiten van het openbaar onderzoek, een gemotiveerd advies uit bij het college van burgemeester en schepenen.<br /><br />Indien het gemotiveerd advies niet wordt uitgebracht binnen de termijn, vermeld in het eerste lid, kan aan deze verplichting tot het inwinnen van een advies bij de gemeentelijke commissie voor ruimtelijke ordening worden voorbijgegaan. In dat geval worden de voorhanden zijnde adviezen, opmerkingen en bezwaren rechtstreeks door het college van burgemeester en schepenen behandeld en beoordeeld.<br /><br />§ 7. Uiterlijk de negentigste dag na deze van het afsluiten van het openbaar onderzoek stelt de gemeenteraad de structuurplanaanpassing en het ruimtelijk uitvoeringsplan definitief vast. Bij de definitieve vaststelling gelden de beginselen, vermeld in artikel 2.2.14, § 6, tweede en derde lid.<br /><br />§ 8. De structuurplanaanpassing en het ruimtelijk uitvoeringsplan worden samen met de besluiten van de gemeenteraad en het volledige advies van de gemeentelijke commissie voor ruimtelijke ordening aan de Vlaamse Regering bezorgd per beveiligde zending. Een afschrift van het dossier wordt bezorgd aan de deputatie.<br /><br />De Vlaamse Regering neemt binnen een vervaltermijn van zestig dagen na de ontvangst van het dossier een beslissing over de gehele of gedeeltelijke goedkeuring van de plannen. Zij wint voorafgaandelijk het advies van de deputatie in.<br /><br />Indien binnen de termijn, vermeld in het tweede lid, geen goedkeuringsbeslissing wordt genomen, wordt dit gelijkgesteld met een stilzwijgende weigering tot goedkeuring.<br /><br />§ 9. De plannen treden in werking op de dag van de bekendmaking van het goedkeuringsbesluit bij uittreksel in het Belgisch Staatsblad.<br /><br />De informatieplichten van artikel 2.1.17, derde lid, en artikel 2.2.18, derde lid, zijn van overeenkomstige toepassing.<br /><br />
+
+## TITEL IV Vergunningenbeleid
+
+## HOOFDSTUK I Definities
+
+### ART. 4.1.1.
+
+Voor de toepassing van deze titel wordt verstaan onder :<br />1° bestemmingsvoorschrift : een stedenbouwkundig voorschrift dat is neergelegd in :<br />a) een gewestplan, in welk geval het betrekking heeft op de omschrijving van de bestemmingsgebieden, in de zin van artikel 1, § 1, tweede lid, van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen,<br />b) een algemeen plan van aanleg, in welk geval het betrekking heeft op de omschrijving van de algemene bestemming van de verschillende delen van het grondgebied voor bewoning, nijverheid, landbouw of enig ander gebruik,<br />c) een bijzonder plan van aanleg, in welk geval het betrekking heeft op de omschrijving van de gedetailleerde bestemming van de verschillende delen van het grondgebied voor bewoning, nijverheid, landbouw of enig ander gebruik,<br />d) een ruimtelijk uitvoeringsplan, in welk geval het betrekking heeft op de omschrijving van de bestemming van een gebied overeenkomstig artikel 2.2.2, § 1, eerste lid, 2°;<br />2° bouwvolume : het bruto-bouwvolume van een constructie en haar fysisch aansluitende aanhorigheden die in bouwtechnisch opzicht een rechtstreekse aansluiting of steun vinden bij het hoofdgebouw, zoals een aangebouwde garage, veranda of berging, gemeten met inbegrip van buitenmuren en dak, en met uitsluiting van het volume van de gebruikelijke onderkeldering onder het maaiveld;<br />3° constructie : een gebouw, een bouwwerk, een vaste inrichting, een verharding, een publiciteitsinrichting of uithangbord, al dan niet bestaande uit duurzame materialen, in de grond ingebouwd, aan de grond bevestigd of op de grond steunend omwille van de stabiliteit, en bestemd om ter plaatse te blijven staan of liggen, ook al kan het goed uit elkaar genomen worden, verplaatst worden, of is het goed volledig ondergronds;<br />4° gebouwencomplex : een functioneel geheel bestaande uit fysiek niet met elkaar verbonden gebouwen;<br />5° handelingen van algemeen belang : door de Vlaamse Regering aangewezen handelingen die betrekking hebben op openbare infrastructuur of openbare wegen, nutsvoorzieningen, infrastructuur op het grondgebied van meerdere gemeenten of infrastructuur ten behoeve of ten bate van de uitoefening van een openbare dienst;<br />6° herbouwen : een constructie volledig afbreken, of méér dan veertig procent van de buitenmuren van een constructie afbreken, en binnen het bestaande bouwvolume van de geheel of gedeeltelijk afgebroken constructie een nieuwe constructie bouwen;<br />7° hoofdzakelijk vergund : een stedenbouwkundige vergunningstoestand, waarbij geldt dat :<br />a) bedrijven en hun constructies slechts hoofdzakelijk vergund zijn indien de voor een normale bedrijfsvoering noodzakelijke constructies vergund of vergund geacht zijn, ook wat de functie betreft,<br />b) overige constructies slechts hoofdzakelijk vergund zijn indien ten minste negentig procent van het bruto-bouwvolume van de constructie, gemeten met inbegrip van buitenmuren en dak, en met uitsluiting van het volume van de gebruikelijke onderkeldering onder het maaiveld en van de fysisch aansluitende aanhorigheden die in bouwtechnisch opzicht een rechtstreekse aansluiting of steun vinden bij het hoofdgebouw, vergund of vergund geacht is, ook wat de functie betreft;<br />8° in laatste administratieve aanleg : in de graad van de vergunningsprocedure waarna geen georganiseerd administratief beroep bij een vergunningverlenend bestuursorgaan meer mogelijk is;<br />9° onderhoudswerken : werken, andere dan stabiliteitswerken, die het gebruik van een constructie voor de toekomst ongewijzigd veilig stellen door het bijwerken, herstellen of vervangen van geërodeerde of versleten materialen of onderdelen;<br />10° rechtens toegelaten bewijsmiddelen : de bewijsmiddelen, vermeld in boek III, titel III, hoofdstuk VI van het Burgerlijk Wetboek;<br />11° stabiliteitswerken : werken die betrekking hebben op de constructieve elementen van een constructie, zoals :<br />a) het vervangen van dakgebintes of dragende balken van het dak, met uitzondering van plaatselijke herstellingen,<br />b) het geheel of gedeeltelijk herbouwen of vervangen van buitenmuren of dragende binnenmuren, zelfs met recuperatie van de bestaande stenen;<br />12° verbouwen : aanpassingswerken doorvoeren binnen het bestaande bouwvolume van een constructie waarvan de buitenmuren voor ten minste zestig procent behouden worden;<br />13° vergunning : een stedenbouwkundige of verkavelingsvergunning;<br />14° verkavelen : een grond vrijwillig verdelen in twee of meer kavels om ten minste één van deze kavels te verkopen of te verhuren voor méér dan negen jaar, om er een recht van erfpacht of opstal op te vestigen, of om één van deze overdrachtsvormen aan te bieden, zelfs onder opschortende voorwaarde, zulks met het oog op woningbouw of de oprichting van constructies;<br />15° verkrot : niet voldoend aan de elementaire eisen van stabiliteit;<br />16° woning : een goed, vermeld in artikel 2, § 1, eerste lid, 31°, van de Vlaamse Wooncode;<br />17° zonevreemde constructie : hetzij een constructie die niet beantwoordt aan de voor het perceel geldende bestemmingsvoorschriften en die niet gelegen is binnen een niet-vervallen verkaveling, hetzij een constructie die gelegen is in een reservatiestrook en die niet behoort tot de nutswerken waarvoor de reservatiestrook is afgebakend;<br />18° zorgwonen : een vorm van wonen waarbij voldaan is aan alle hiernavolgende voorwaarden :<br />a) in een bestaande woning wordt één ondergeschikte wooneenheid gecreëerd,<br />b) de ondergeschikte wooneenheid vormt één fysiek geheel met de hoofdwooneenheid,<br />c) de ondergeschikte wooneenheid, daaronder niet begrepen de met de hoofdwooneenheid gedeelde ruimten, maakt ten hoogste één derde uit van het bouwvolume van de volledige woning,<br />d) de creatie van de ondergeschikte wooneenheid gebeurt met het oog op het huisvesten van :<br />1) hetzij ten hoogste twee ouderen in de zin van de gecoördineerde decreten van 18 december 1991 inzake voorzieningen voor ouderen,<br />2) hetzij ten hoogste twee hulpbehoevende personen, zijnde personen met een handicap, personen die in aanmerking komen voor een tenlasteneming door de Vlaamse zorgverzekering, alsmede personen met een nood aan ondersteuning om zich in het thuismilieu te kunnen handhaven,<br />e) de eigendom, of ten minste de blote eigendom, op de hoofd- en de ondergeschikte wooneenheid berust bij dezelfde titularis of titularissen.<br /><br />
+
+## HOOFDSTUK II Vergunningsplicht
+
+## Afdeling 1 Soorten
+
+## [Onderafdeling 1 Vergunningsplicht voor stedenbouwkundige handelingen (verv. decr. 25 april 2014, art. 295)]
+
+## Sectie 1 Vergunningsplichtige handelingen
+
+### ART. 4.2.1.
+
+Niemand mag zonder voorafgaande stedenbouwkundige vergunning :<br />1° de hiernavolgende bouwwerken verrichten, met uitzondering van onderhoudswerken :<br />a) het optrekken of plaatsen van een constructie,<br />b) het functioneel samenbrengen van materialen waardoor een constructie ontstaat,<br />c) het afbreken, herbouwen, verbouwen en uitbreiden van een constructie;<br />2° met bomen begroeide oppervlakten, vermeld in artikel 3, § 1 en § 2, van het bosdecreet van 13 juni 1990 ontbossen, zoals vermeld in artikel 4, 15°, van dat decreet;<br />3° bomen die op een hoogte van één meter boven het maaiveld een stamomtrek van één meter hebben, en geen deel uitmaken van de oppervlakten, vermeld in 2°, vellen;<br />4° het reliëf van de bodem aanmerkelijk wijzigen, onder meer door de bodem aan te vullen, op te hogen, uit te graven of uit te diepen waarbij de aard of de functie van het terrein wijzigt;<br />5° een grond gewoonlijk gebruiken, aanleggen of inrichten voor :<br />a) het opslaan van gebruikte of afgedankte voertuigen, of van allerlei materialen, materieel of afval,<br />b) het parkeren van voertuigen, wagens of aanhangwagens,<br />c) het plaatsen van één of meer verplaatsbare constructies die voor bewoning kunnen worden gebruikt, in het bijzonder woonwagens, kampeerwagens, afgedankte voertuigen en tenten, met uitzondering van het kamperen op een vergund of van vergunning vrijgesteld openluchtrecreatief terrein in de zin van de decreet van 10 juli 2008 betreffende het toeristische logies;<br />6° de hoofdfunctie van een bebouwd onroerend goed geheel of gedeeltelijk wijzigen, indien de Vlaamse Regering deze functiewijziging als vergunningsplichtig heeft aangemerkt;<br />7° een woning opsplitsen of in een gebouw het aantal woongelegenheden die hoofdzakelijk bestemd zijn voor de huisvesting van een gezin of een alleenstaande wijzigen, ongeacht of het gaat om een eengezinswoning, een etagewoning, een flatgebouw, een studio of een al dan niet gemeubileerde kamer;<br />8° recreatieve terreinen aanleggen of wijzigen, onder meer een golfterrein, een voetbalterrein, een tennisveld of een zwembad.<br /><br />
+
+## Sectie 2 Afwijkingen van de vergunningsplicht
+
+## Subsectie 1 Meldingsplichtige en vrijgestelde handelingen
+
+### ART. 4.2.2.
+
+§ 1. De Vlaamse Regering bepaalt de gevallen waarin de vergunningsplicht   vervangen wordt door een verplichte melding van de handelingen aan het college   van burgemeester en schepenen. De meldingsplicht betreft gevallen waarin de   beoordelingsruimte van het bestuur minimaal is omwille van het eenvoudige en   gangbare karakter van de betrokken handelingen, of de onderworpenheid van de   handelingen aan nauwkeurige stedenbouwkundige voorschriften,   verkavelingsvoorschriften of integrale ruimtelijke voorwaarden, vermeld in   artikel 4.3.1, § 2, tweede lid.<BR><BR>De Vlaamse Regering kan tevens de van de   vergunningsplicht vrijgestelde werken, vermeld in artikel 4.2.1, 5°, c), aan de   meldingsplicht onderwerpen.<BR><BR>De meldingsplichten, vermeld in het eerste en   het tweede lid, kunnen nooit worden ingevoerd voor handelingen die gelegen zijn   in een ruimtelijk kwetsbaar gebied.<BR><BR>§ 2. Een melding wordt verricht per   beveiligde zending.<BR><BR>§ 3. Het college van burgemeester en schepenen neemt   akte van de meldingen en ziet er op toe dat zij ingeschreven worden in het   vergunningenregister.<BR><BR>§ 4. De aangemelde handelingen mogen worden   aangevat vanaf de twintigste dag na de datum van de melding.<BR><BR>De   aangemelde handelingen kunnen niet meer worden aangevat indien twee jaar na de   datum van de melding verstreken zijn.<BR><BR>§ 5. Regulariserende meldingen   kunnen worden verricht, onverminderd de strafbaarstelling van inbreuken op de   meldingsplicht op grond van artikel 119bis van de Nieuwe Gemeentewet.<BR><BR>§   6. Een melding wordt als een stedenbouwkundige vergunning beschouwd voor de   toepassing van regelgeving binnen andere beleidsvelden dan de ruimtelijke   ordening. Een melding wordt tevens gelijkgesteld met een voorafgaande toelating   tot bouwen voor wat betreft de toepassing van artikel 4 van de wet van 20   februari 1939 op de bescherming van de titel en van het beroep van architect,   tenzij de melding enkel betrekking heeft op handelingen die niet gebouwd   worden.<BR><BR>§ 7. De Vlaamse Regering omschrijft de vereiste vermeldingen die   in een melding moeten zijn opgenomen en kan nadere procedurele regelen bepalen   voor de toepassing van dit artikel.<BR><BR>
+
+### ART. 4.2.3.
+
+De Vlaamse Regering bepaalt de lijst van de handelingen met een tijdelijk of occasioneel karakter of met een geringe ruimtelijke impact waarvoor in afwijking van artikel 4.2.1 geen stedenbouwkundige vergunning vereist is.<br /><br />
+
+## Subsectie 2 Bijzonderheden inzake zorgwonen
+
+### ART. 4.2.4.
+
+§ 1. In zoverre de verwezenlijking van een ondergeschikte wooneenheid met het oog op de creatie van een vorm van zorgwonen vergunningsplichtig is, wordt deze vergunningsplicht van rechtswege omgezet in een meldingsplicht, op voorwaarde dat de ondergeschikte wooneenheid verwezenlijkt wordt binnen het bestaande bouwvolume van de woning.<br /><br />Het beëindigen van de zorgsituatie, vermeld in artikel 4.1.1, 18°, d), is eveneens meldingsplichtig.<br /><br />§ 2. Indien een bestaande zorgwoning, na het beëindigen van de zorgsituatie, aangewend zal worden voor de huisvesting van meerdere gezinnen of alleenstaanden, is daartoe een voorafgaande stedenbouwkundige vergunning voor het opsplitsen van een woning vereist.<br /><br />
+
+## Sectie 3 Lokale voorschriften
+
+### ART. 4.2.5.
+
+Provinciale en gemeentelijke stedenbouwkundige verordeningen kunnen :<br />1° de vergunningsplichtige handelingen aanvullen;<br />2° voor meldingsplichtige handelingen een vergunningsplicht invoeren;<br />3° voor vrijgestelde handelingen een meldingsplicht invoeren.<br /><br />Provinciale en gemeentelijke stedenbouwkundige verordeningen kunnen de vergunningsplicht niet vervangen door een meldingsplicht. Zij kunnen vergunnings- of meldingsplichtige handelingen niet vrijstellen van de vergunnings- of meldingsplicht.<br /><br />
+
+### ART. 4.2.6.
+
+De provinciale en gemeentelijke stedenbouwkundige verordeningen die werden vastgesteld vóór 1 september 2009 en die op grond van de mogelijkheden, voorzien in de vroegere regelgeving, een vergunningsplicht hebben ingevoerd voor van vergunning vrijgestelde handelingen, blijven geldig tot ze worden opgeheven. De verordenende overheid kan na 1 september 2009 wijzigingen aan deze stedenbouwkundige verordeningen aanbrengen binnen de marges, vermeld in artikel 4.2.5.<br /><br />
+
+## [Sectie 4 As-built (verv. decr. 8 december 2017, art. 56, I: 30 december 2017)]
+
+### ART. 4.2.7.
+
+Een as-builtattest is een attest waarin wordt verklaard dat handelingen betreffende een constructie of een gebouwencomplex niet of slechts marginaal afwijken van de plannen die het voorwerp uitmaken van de stedenbouwkundige vergunning of de melding.<br /><br />Van marginale afwijkingen is slechts sprake wanneer deze niet op kennelijke wijze afbreuk doen aan volgende uit de vergunde of aangemelde plannen blijkende aangelegenheden :<br />1° de maatverhoudingen en vlakverdelingen van de constructie of het gebouwencomplex;<br />2° het karakter van de constructie of het gebouwencomplex, zoals dat gevormd wordt door middel van materiaalkeuze, textuur, kleur en licht;<br />3° het voorziene gebruik van de constructie of het gebouwencomplex.<br /><br />In een as-builtattest kunnen geen afwijkingen worden toegestaan op stedenbouwkundige voorschriften en verkavelingsvoorschriften. Artikel 4.4.1 is niet van toepassing.<br /><br />
+
+### ART. 4.2.8.
+
+§ 1. Een as-builtattest wordt afgeleverd door een daartoe door de Vlaamse Regering erkende instantie of persoon.<br /><br />De aanvrager van een as-builtattest kiest vrij de attesterende instantie of persoon waarbij het attest wordt aangevraagd.<br /><br />§ 2. De kosten voor de behandeling van de aanvraag voor een as-builtattest worden gedragen door de aanvrager van het attest.<br /><br />De Vlaamse Regering bepaalt de maximumtarieven.<br /><br />§ 3. De beslissing van de attesterende instantie of persoon over de afgifte van een as-builtattest wordt genomen binnen een ordetermijn van dertig dagen, ingaand de dag na deze van de indiening van de aanvraag.<br /><br />Bij de afgifte van een as-builtattest bezorgt de attesterende instantie of persoon onverwijld een afschrift aan het gemeentebestuur, ter validering overeenkomstig artikel 4.2.9.<br /><br />
+
+### ART. 4.2.9.
+
+§ 1. Het college van burgemeester en schepenen of zijn gemachtigde beslist over de validering van een as-builtattest.<br /><br />De attesterende instantie of persoon, en de persoon die het as-builtattest heeft aangevraagd, worden per beveiligde zending in kennis gesteld van de beslissing tot validering of tot weigering van de validering.<br /><br />§ 2. Een as-builtattest wordt eerst na validering opgenomen in het vergunningenregister. De datum van de opname van de valideringsbeslissing in het vergunningenregister wordt uitdrukkelijk in het register vermeld.<br /><br />§ 3. In geval van marginale afwijkingen treedt een as-builtattest na de validering ervan in de plaats van de vergunde of aangemelde plannen.<br /><br />§ 4. Ingevolge de validering van een as-builtattest worden de handelingen betreffende de constructie of het gebouwencomplex onweerlegbaar geacht vanaf de aanvang van de uitvoering van de werkzaamheden op een planconforme wijze te zijn verricht.<br /><br />Het onweerlegbare vermoeden, vermeld in het eerste lid, kan eerst worden ingeroepen :<br />1° hetzij vanaf de eenendertigste dag na deze van de opname van het gevalideerde as-builtattest in het vergunningenregister;<br />2° hetzij, indien vóór de datum, vermeld in 1°, een annulatieberoep aanhangig werd gemaakt bij de Raad voor vergunningsbetwistingen, vanaf het ogenblik waarop de Raad tot de gegrondheid van de valideringsbeslissing heeft besloten.<br /><br />
+
+### ART. 4.2.10.
+
+De Vlaamse Regering belast het agentschap met een steekproefsgewijze controle van de kwaliteit van de valideringsprocessen, vermeld in artikel 4.2.9, § 1. De resultaten van de steekproeven worden bezorgd aan de Vlaamse Regering. Indien de Vlaamse Regering op grond van deze resultaten oordeelt dat de valideringsprocessen in een gemeente onvoldoende kwaliteitswaarborgen bieden, kan zij die gemeente bindende aanwijzingen geven over de te nemen remediërende maatregelen.<br /><br />
+
+### ART. 4.2.11.
+
+§ 1. In het geval de afgifte van een as-builtattest geweigerd wordt, en onverminderd de gemeenrechtelijke rechtsmiddelen, beschikt de aanvrager over drie mogelijkheden.<br /><br />Hij kan de nodige handelingen stellen om de zaken waarvoor het as-builtattest geweigerd wordt, in overeenstemming te brengen met de vergunde plannen en vervolgens een nieuwe aanvraag indienen. Deze handelingen zijn nimmer vergunnings- of meldingsplichtig.<br /><br />Hij kan het college van burgemeester en schepenen of zijn gemachtigde verzoeken om het as-builtattest af te leveren. Indien het college van burgemeester en schepenen of zijn gemachtigde beslist het as-builtattest af te leveren, neemt het college of zijn gemachtigde tegelijkertijd de beslissing tot validering van het as-builtattest.<br /><br />Hij kan er ten slotte voor opteren om een aanvraag tot regularisatievergunning in te dienen.<br /><br />§ 2. De beslissing van het college van burgemeester en schepenen of zijn gemachtigde houdende de validering of de weigering tot validering van een as-builtattest kan door de belanghebbenden, vermeld in artikel 4.8.16, § 1, worden bestreden met een beroep bij de Raad voor vergunningsbetwistingen, overeenkomstig de procedureregelen, vermeld in hoofdstuk VIII.<br /><br />
+
+### ART. 4.2.12.
+
+§ 1. Een as-builtattest kan vanaf een door de Vlaamse Regering bepaalde datum te allen tijde worden aangevraagd door de eigenaar van een constructie, of de overdrager of overnemer van zakelijke of persoonlijke rechten ten aanzien van een constructie.<br /><br />§ 2. Vanaf de door de Vlaamse Regering bepaalde data wordt een as-builtattest verplicht aangevraagd door :<br />1° de verkrijger van een stedenbouwkundige vergunning betreffende een constructie;<br />2° de persoon die het eigendomsrecht of overige zakelijke rechten op een constructie overdraagt.<br /><br />De Vlaamse Regering kan afwijkingen bepalen op de aanvraagverplichtingen, vermeld in het eerste lid, rekening houdend met de eventuele aanwezigheid van een reeds eerder aangevraagd as-builtattest, de ruimtelijke impact van de betrokken constructie of de aard van de overgedragen zakelijke rechten.<br /><br />
+
+### ART. 4.2.13.
+
+§ 1. De Vlaamse Regering bepaalt de nadere materiële, methodologische en procedurele regelen voor de toepassing van deze sectie. Zij bepaalt in het bijzonder :<br />1° de vormen en termijnen voor de aanvraag, de afgifte en de validering van een as-builtattest;<br />2° de wijze van beoordeling van het marginaal karakter van de afwijkingen, vermeld in artikel 4.2.7, tweede lid;<br />3° de erkenningsvoorwaarden en -procedure ten aanzien van de attesterende instanties en personen;<br />4° de gevallen waarin en de wijze waarop de erkenning van een attesterende instantie of persoon kan worden geschorst of ingetrokken;<br />5° de maatregelen van interne en externe kwaliteitszorg waaraan attesterende instanties en personen onderworpen zijn.<br /><br />§ 2. De Vlaamse Regering kan bepalen in welke gevallen en op welke wijze het college van burgemeester en schepenen of zijn gemachtigde gevraagd kan worden om lopende de werkzaamheden een advies uit te brengen over het al dan niet marginaal karakter van afwijkingen van de vergunde of gemelde plannen.<br /><br />De in het advies uitgedrukte richtlijnen zijn verbindend voor de attesterende instantie en voor het college van burgemeester en schepenen.<br /><br />
+
+## Sectie 5 Vermoeden van vergunning
+
+### ART. 4.2.14.
+
+§ 1. Bestaande constructies waarvan door enig rechtens toegelaten bewijsmiddel wordt aangetoond dat ze gebouwd werden vóór 22 april 1962, worden voor de toepassing van deze codex te allen tijde geacht te zijn vergund.<br /><br />§ 2. Bestaande constructies waarvan door enig rechtens toegelaten bewijsmiddel wordt aangetoond dat ze gebouwd werden in de periode vanaf 22 april 1962 tot de eerste inwerkingtreding van het gewestplan waarbinnen zij gelegen zijn, worden voor de toepassing van deze codex geacht te zijn vergund, tenzij het vergund karakter wordt tegengesproken middels een proces-verbaal of een niet anoniem bezwaarschrift, telkens opgesteld binnen een termijn van vijf jaar na het optrekken of plaatsen van de constructie.<br /><br />Het tegenbewijs, vermeld in het eerste lid, kan niet meer worden geleverd eens de constructie één jaar als vergund geacht opgenomen is in het vergunningenregister. 1 september 2009 geldt als eerste mogelijke startdatum voor deze termijn van één jaar. Deze regeling geldt niet indien de constructie gelegen is in een ruimtelijk kwetsbaar gebied.<br /><br />§ 3. Indien met betrekking tot een vergund geachte constructie handelingen zijn verricht die niet aan de voorwaarden van § 1 en § 2, eerste lid, voldoen, worden deze handelingen niet door de vermoedens, vermeld in dit artikel, gedekt.<br /><br />§ 4. Dit artikel heeft nimmer voor gevolg dat teruggekomen wordt op in kracht van gewijsde gegane rechterlijke beslissingen die het vergund karakter van een constructie tegenspreken.<br /><br />
+
+## [Onderafdeling 2 Vergunningsplicht voor het verkavelen van gronden (verv. decr. 25 april 2014, art. 303)]
+
+### ART. 4.2.15.
+
+§ 1. Niemand mag zonder voorafgaande verkavelingsvergunning een stuk grond verkavelen voor woningbouw of voor het opstellen van vaste of verplaatsbare constructies die voor bewoning kunnen worden gebruikt. De verkoop van kavels die het voorwerp uitmaken van een verkoop van woningen op plan valt eveneens onder deze vergunningsplicht.<br /><br />Een verkavelingsvergunning kan worden aangevraagd en verleend voor het verkavelen voor de aanleg en het bebouwen van terreinen voor andere functies.<br /><br />§ 2. Een verkavelingsvergunning omvat reglementaire voorschriften aangaande de wijze waarop de verkaveling ingericht wordt en de kavels bebouwd kunnen worden.<br /><br />Op deze verkavelingsvoorschriften kunnen beperkte afwijkingen worden toegestaan met toepassing van artikel 4.4.1.<br /><br />
+
+### ART. 4.2.16.
+
+§ 1. Een kavel uit een vergunde verkaveling of verkavelingsfase kan enkel   verkocht worden, verhuurd worden voor méér dan negen jaar, of bezwaard worden   met een recht van erfpacht of opstal, nadat de verkavelingsakte door de   instrumenterende ambtenaar is verleden.<BR><BR>§ 2. De verkavelingsakte wordt   eerst verleden na overlegging van een attest van het college van burgemeester en   schepenen, waaruit blijkt dat, voor de volledige verkaveling of voor de   betrokken verkavelingsfase, het geheel van de lasten uitgevoerd is of   gewaarborgd is door :<BR>1° de storting van een afdoende financiële   waarborg;<BR>2° een door een bankinstelling op onherroepelijke wijze verleende   afdoende financiële waarborg.<BR><BR>Het attest, vermeld in het eerste lid, kan   worden afgeleverd indien de vergunninghouder deels zelf de lasten heeft   uitgevoerd, deels de nodige waarborgen heeft gegeven.<BR><BR>
+
+### ART. 4.2.17.
+
+§ 1. Een verkavelingsvergunning geldt als stedenbouwkundige vergunning voor wat betreft alle in de verkavelingsvergunning opgenomen handelingen die de verkaveling bouwrijp maken, zoals in het bijzonder :<br />1° de aanleg van nieuwe verkeerswegen, of de tracéwijziging, verbreding of opheffing daarvan;<br />2° het wijzigen van het reliëf van de bodem;<br />3° het ontbossen, onverminderd artikel 4.2.19, § 2, en artikel 4.3.1, § 4;<br />4° het afbreken van constructies.<br /><br />Het eerste lid geldt voor zover de aanvraag voor de verkavelingsvergunning ook voor wat betreft de handelingen die het voorwerp uitmaken van de stedenbouwkundige vergunningsplicht voldoet aan de vereisten inzake ontvankelijkheid en volledigheid.<br /><br />De gelijkstelling met een stedenbouwkundige vergunning geldt niet voor inrichtingen die onderworpen zijn aan de milieuvergunningsplicht of de meldingsplicht, vermeld in het decreet van 28 juni 1985 betreffende de milieuvergunning.<br /><br />§ 2. Indien de verkavelingsaanvraag wegeniswerken omvat waaromtrent de gemeenteraad beslissingsbevoegdheid heeft, en het vergunningverlenende bestuursorgaan oordeelt dat de verkavelingsvergunning van zijnentwege kan worden verleend, dan neemt de gemeenteraad een beslissing over de zaak van de wegen, alvorens het vergunningverlenende bestuursorgaan een beslissing neemt over de verkavelingsaanvraag.<br /><br />De gemeenteraad beslist uiterlijk op de tweede raadszitting waarop de zaak van de wegen geagendeerd is, zoniet wordt de beslissing over de wegenis geacht ongunstig te zijn.<br /><br />
+
+### ART. 4.2.18.
+
+De bepalingen van een verkavelingsvergunning worden niet opgeheven door de inwerkingtreding van een stedenbouwkundig voorschrift waarmee zij onverenigbaar zijn, onverminderd artikel 4.6.5.<br /><br />
+
+## Afdeling 2 Bepalingen, aan alle vergunningen gemeen
+
+## Onderafdeling 1 Voorwaarden en lasten
+
+### ART. 4.2.19.
+
+§ 1. Onverminderd de voorwaarde van rechtswege in de zin van § 2, kan het vergunningverlenende bestuursorgaan aan een vergunning voorwaarden verbinden.<br /><br />Voorwaarden zijn voldoende precies. Zij zijn redelijk in verhouding tot de vergunde handelingen.<br /><br />Zij kunnen worden verwezenlijkt door enig toedoen van de aanvrager.<br /><br />Zij kunnen de uitvoering van de vergunde handelingen niet afhankelijk maken van een bijkomende beoordeling door de overheid.<br /><br />§ 2. Met het oog op het behoud van een gelijkwaardig bosareaal :<br />1° wordt door de houder van de stedenbouwkundige vergunning tot ontbossing compensatie gegeven voor de ontbossing, vermeld in artikel 4.3.1, § 4, tweede lid, 1° tot en met 4°, of vierde lid;<br />2° wordt door de houder van de verkavelingsvergunning compensatie gegeven voor de beboste delen van de verkaveling waarvoor de verkavelingsvergunning wordt aangevraagd na de inwerkingtreding van het bosdecreet van 13 juni 1990.<br /><br />Voor de verkaveling, vermeld in het eerste lid, 2°, wordt compensatie gegeven voor de gezamenlijke oppervlakte, voorzover die bebost is, van de kavels en van de in de aanvraag vermelde of als last aan de verkavelaar opgelegde werken, met uitzondering van de oppervlakte van de in de aanvraag vermelde of als last aan de verkavelaar opgelegde groene ruimten. De aanvrager van de verkavelingsvergunning kan zowel openbare als niet-openbare beboste groene ruimten aanduiden. De verkaveling wordt vergund na voorafgaand advies van het Agentschap voor Natuur en Bos, dat wordt verleend volgens de bepalingen van artikel 4.3.1, § 4, derde lid.<br /><br />De stedenbouwkundige vergunning tot ontbossing van een grond in een verkaveling, vermeld in het eerste lid, 2°, is slechts onderworpen aan het advies, vermeld in artikel 4.3.1, § 4, derde lid, en aan de compensatieplicht voor zover deze stedenbouwkundige vergunning de ontbossing betreft van de groene ruimten, vermeld in het tweede lid.<br /><br />De compensatie wordt gegeven op één van de volgende wijzen :<br />1° in natura;<br />2° door storting van een bosbehoudsbijdrage;<br />3° door een combinatie van 1° en 2°.<br /><br />De Vlaamse Regering bepaalt de nadere regels inzake de wijze en de omvang van de compensatie, waarbij differentiatie mogelijk is. De integrale compensatie in natura betreft ten minste een gelijke oppervlakte. De Vlaamse Regering bepaalt de gebieden die in aanmerking komen voor compensatie in natura.<br /><br />De aanvrager van de stedenbouwkundige vergunning tot ontbossing of van de verkavelingsvergunning, vermeld in het eerste lid, 2°, stelt de compensatie voor overeenkomstig de eisen van het besluit in de zin van het vijfde lid en dient het voorstel in bij het vergunningverlenende bestuursorgaan, dat het ter goedkeuring voorlegt aan het Agentschap voor Natuur en Bos.<br /><br />Indien het voorstel niet voldoet aan de eisen van het besluit in de zin van het vijfde lid, of wanneer het voorstel om bosbouwkundige redenen niet aanvaardbaar is, past het Agentschap voor Natuur en Bos het voorstel aan aan de eisen van dat besluit of, wanneer het een compensatie in natura betreft, aan de eisen van wat bosbouwkundig aanvaardbaar is. Het Agentschap voor Natuur en Bos stelt de aanvrager schriftelijk in kennis van de aanpassing, met vermelding van de redenen. Een kopie van deze kennisgeving wordt aan het vergunningverlenende bestuursorgaan bezorgd. De aanvrager kan binnen de veertien dagen na ontvangst bezwaren tegen deze aanpassing of een alternatief compensatievoorstel aan het Agentschap voor Natuur en Bos overmaken. De adviestermijn, vermeld in artikel 4.7.16, § 1, derde lid, wordt gedurende de periode vanaf de kennisgeving van de aanpassing voor maximaal veertien dagen opgeschort. Na ontvangst van de bezwaren of het alternatief compensatievoorstel of, indien de aanvrager niet reageert op de kennisgeving van de aanpassing, na veertien dagen vanaf deze kennisgeving, neemt het Agentschap voor Natuur en Bos een definitieve beslissing met betrekking tot het compensatievoorstel.<br /><br />Het goedgekeurde of aangepaste voorstel geldt als voorwaarde bij de vergunning, vermeld in het eerste lid, 1° of 2°.<br /><br />De verkavelingsvergunning, vermeld in het eerste lid, 2°, laat slechts vervreemding van een kavel toe nadat volledige compensatie werd gegeven.<br /><br />Het vergunningverlenende bestuursorgaan bezorgt een afschrift van zijn beslissing inzake de aanvraag tot een vergunning, vermeld in het eerste lid, 1° of 2°, aan het Agentschap voor Natuur en Bos.<br /><br />De compensatieplicht, vermeld in het eerste lid, geldt niet voor gronden die spontaan bebost zijn na het in werking treden van het bosdecreet van 13 juni 1990, voorzover deze spontane bebossing de leeftijd van tweeëntwintig jaar niet heeft bereikt.<br /><br />Om sociale redenen worden uitzonderingen op de compensatieplicht, vermeld in het eerste lid, toegestaan in functie van de woningbouw in zones met de bestemming woongebied in de ruime zin of in zones die volgens de geldende plannen van aanleg of ruimtelijke uitvoeringsplannen gelijk te stellen zijn met de bestemming woongebied. De Vlaamse Regering bepaalt de voorwaarden waaronder deze uitzonderingen wordt verleend.<br /><br />Handelingen van algemeen belang worden, ongeacht de bestemming, altijd gecompenseerd.<br /><br />
+
+### ART. 4.2.20.
+
+§ 1. Het vergunningverlenende bestuursorgaan kan aan een vergunning lasten   verbinden. Deze lasten vinden hun oorsprong in het voordeel dat de begunstigde   van de vergunning uit die vergunning haalt, en in de bijkomende taken die de   overheid door de uitvoering van de vergunning op zich dient te   nemen.<BR><BR>Buiten het voorzien in de nodige financiële waarborgen, kunnen   lasten ondermeer betrekking hebben op :<BR>1° de verwezenlijking of de renovatie   van wegen, groene ruimten, ruimten voor openbaar nut, openbare gebouwen,   nutsvoorzieningen of woningen, op kosten van de vergunninghouder;<BR>2° de   bewerkstelliging van een vermenging van kavels die tegemoetkomen aan de   behoeften van diverse maatschappelijke groepen op grond van de grootte van de   kavels, respectievelijk de typologie, de kwaliteit, de vloeroppervlakte, het   volume of de lokalenindeling van de daarop op te richten woningen of op te   stellen vaste of verplaatsbare constructies die voor bewoning kunnen worden   gebruikt.<BR><BR>Lasten kunnen ook inhouden dat, wanneer de werken zijn   begonnen, aan de overheid gratis, vrij en onbelast de eigendom wordt   overgedragen van de in de vergunningsaanvraag vermelde openbare wegen, groene of   verharde ruimten, openbare gebouwen, nutsvoorzieningen, of de gronden waarop die   worden of zullen worden aangelegd.<BR><BR>Indien voldaan is aan de uitsluitende   voorwaarden, vermeld in artikel 4.2.5, van het decreet van 27 maart 2009   betreffende het grond- en pandenbeleid, verbindt het vergunningverlenende   bestuursorgaan van rechtswege een last aan de vergunning met het oog op de   verwezenlijking van een bescheiden woonaanbod.<BR><BR>Indien de uitvoering van   diverse lasten financieel moet worden gewaarborgd, dan hanteert het bestuur één   waarborg voor de totaliteit van de betrokken lasten, waarbij aangegeven wordt   welk waarborggedeelte betrekking heeft op elk van de lasten   afzonderlijk.<BR><BR>§ 2. Lasten zijn redelijk in verhouding tot de vergunde   handelingen.<BR><BR>Zij kunnen worden verwezenlijkt door enig toedoen van de   aanvrager.<BR><BR>§ 3. Het vergunningverlenende bestuursorgaan kan een   gefaseerde uitvoering van de lasten voorschrijven.<BR><BR>§ 4. Indien een last,   vermeld in § 1, tweede en derde lid, niet is uitgevoerd binnen de daartoe   gestelde termijn en niet of onvoldoende gedekt is door een financiële waarborg,   kan de schuldeiser van de last per beveiligde zending een beslissing tot   toepassing van bestuursdwang betekenen aan de schuldenaar van de last. De   beslissing vermeldt dat de toepassing van bestuursdwang op kosten van de   schuldenaar van de last plaatsvindt. In de beslissing wordt een termijn gesteld   waarbinnen de schuldenaar van de last de tenuitvoerlegging kan voorkomen door de   last alsnog uit te voeren. Indien niet tot tijdige uitvoering wordt overgegaan,   kan de schuldeiser van de last ambtshalve in de uitvoering van de lasten   voorzien. De schuldenaar van de last is verplicht alle uitvoeringskosten te   vergoeden, op voorlegging van een staat, opgesteld door de schuldeiser van de   last.<BR><BR>
+
+## Onderafdeling 2 Fasering
+
+### ART. 4.2.21.
+
+Een vergunning kan melding maken van de verschillende fasen van een bouw- of verkavelingsproject.<br /><br />De aanvangsdatum van elke fase wordt uitdrukkelijk in de vergunning vermeld.<br /><br />
+
+## Onderafdeling 3 Zakelijk karakter
+
+### ART. 4.2.22.
+
+§ 1. Vergunningen hebben een zakelijk karakter. Zij worden verleend onder voorbehoud van de op het onroerend goed betrokken burgerlijke rechten.<br /><br />§ 2. In afwijking van § 1 doet een verkavelingsvergunning door de mens gevestigde erfdienstbaarheden en bij overeenkomst vastgestelde verplichtingen met betrekking tot het grondgebruik teniet, voor zover zij met de vergunning onverenigbaar zijn, en uitdrukkelijk in de aanvraag werden vermeld.<br /><br />De afgifte van de verkavelingsvergunning verhindert op geen enkele wijze dat de begunstigden van deze erfdienstbaarheden of verplichtingen een eventueel recht op schadeloosstelling ten laste van de aanvrager uitoefenen.<br /><br />
+
+### ART. 4.2.23.
+
+Een vergunning kan zonder plichtplegingen worden overgedragen.<br /><br />Indien er lasten aan een vergunning verbonden zijn, blijft de overdrager gehouden jegens het vergunningverlenende bestuursorgaan, tenzij dit met de substitutie van haar schuldenaar heeft ingestemd.<br /><br />
+
+## Onderafdeling 4 Regularisatievergunningen
+
+### ART. 4.2.24.
+
+§ 1. Een regularisatievergunning is een stedenbouwkundige vergunning of een verkavelingsvergunning die tijdens of nà het verrichten van vergunningsplichtige handelingen wordt afgeleverd.<br /><br />Bij de beoordeling van het aangevraagde worden de actuele regelgeving, stedenbouwkundige voorschriften en eventuele verkavelingsvoorschriften als uitgangspunt genomen.<br /><br />§ 2. Een aanvraag tot regularisatie bevat een afschrift van eventuele processen-verbaal, administratieve beslissingen en rechterlijke beslissingen met betrekking tot de constructie, dewelke ter kennis van de aanvrager werden gebracht.<br /><br />§ 3. Het niet vervolgen van een inbreuk door de overheid, wettigt op zich de regularisatie niet.<br /><br />De sanctionering van een inbreuk sluit een regularisatie niet uit.<br /><br />§ 4. De regularisatievergunning wordt afgeleverd met inachtneming van de gebruikelijke beoordelingscriteria en conform de gebruikelijke vergunningsprocedure. Aan de vergunning kunnen de voorwaarden en lasten, vermeld in artikel 4.2.19 en 4.2.20, worden verbonden. Onverminderd de gebruikelijke verplichtingen tot de organisatie van een openbaar onderzoek over een vergunningsaanvraag, geldt dat alleszins een openbaar onderzoek moet worden ingericht indien het voorwerp van de regularisatieaanvraag gelegen is in ruimtelijk kwetsbaar gebied.<br /><br />
+
+## [Onderafdeling 5 Zaak van de wegen (ing. decr. 4 april 2014, art. 43, I: 25 april 2014)]
+
+## HOOFDSTUK III Beoordelingsgronden
+
+## Afdeling 1 Algemene bepalingen
+
+### ART. 4.3.1.
+
+§ 1. Een vergunning wordt geweigerd :<BR>1° indien het aangevraagde   onverenigbaar is met :<BR>a) stedenbouwkundige voorschriften of   verkavelingsvoorschriften, voor zover daarvan niet op geldige wijze is   afgeweken,<BR>b) een goede ruimtelijke ordening;<BR>2° indien de weigering   genoodzaakt wordt door de decretale beoordelingselementen, vermeld in afdeling   2;<BR>3° indien het aangevraagde onverenigbaar is met normen en percentages   betreffende de verwezenlijking van een ...bescheiden woonaanbod, vastgesteld bij   of krachtens het decreet van 27 maart 2009 betreffende het grond- en   pandenbeleid;<BR>4° in de gevallen waarin overeenkomstig artikel 8, § 1, van het   decreet van 18 juli 2003 betreffende het integraal waterbeleid geen vergunning   kan worden afgeleverd.<BR><BR>In de gevallen, vermeld in het eerste lid, 1° en   2°, kan het vergunningverlenende bestuursorgaan de vergunning toch afleveren,   wanneer het van oordeel is dat de overeenstemming van het aangevraagde met het   recht en de goede ruimtelijke ordening gewaarborgd kan worden door het opleggen   van voorwaarden, met inbegrip van het opleggen van een beperkte aanpassing van   de ter beoordeling voorgelegde plannen. Die voorwaarden kunnen niet dienen om de   leemten van een onvolledige of vage aanvraag op te vangen. De voorwaarde dat de   ter beoordeling voorgelegde plannen beperkt worden aangepast, kan enkel   betrekking hebben op kennelijk bijkomstige zaken, en kan enkel in eerste   administratieve aanleg worden opgelegd.<BR><BR>§ 2. De overeenstemming met een   goede ruimtelijke ordening wordt beoordeeld met inachtneming van volgende   beginselen :<BR>1° het aangevraagde wordt, voor zover noodzakelijk of relevant,   beoordeeld aan de hand van aandachtspunten en criteria die betrekking hebben op   de functionele inpasbaarheid, de mobiliteitsimpact, de schaal, het ruimtegebruik   en de bouwdichtheid, visueel-vormelijke elementen, cultuurhistorische aspecten   en het bodemreliëf, en op hinderaspecten, gezondheid, gebruiksgenot en   veiligheid in het algemeen, in het bijzonder met inachtneming van de   doelstellingen van artikel 1.1.4;<BR>2° het vergunningverlenende bestuursorgaan   houdt bij de beoordeling van het aangevraagde rekening met de in de omgeving   bestaande toestand, doch het kan ook beleidsmatig gewenste ontwikkelingen met   betrekking tot de aandachtspunten, vermeld in 1°, in rekening brengen;<BR>3°   indien het aangevraagde gelegen is in een gebied dat geordend wordt door een   ruimtelijk uitvoeringsplan, een gemeentelijk plan van aanleg of een   verkavelingsvergunning waarvan niet op geldige wijze afgeweken wordt, en in   zoverre dat plan of die vergunning voorschriften bevat die de aandachtspunten,   vermeld in 1°, behandelen en regelen, worden deze voorschriften geacht de   criteria van een goede ruimtelijke ordening weer te geven.<BR><BR>De Vlaamse   Regering kan, thematisch of gebiedsspecifiek, integrale ruimtelijke voorwaarden   bepalen, ter beoordeling van de inpassing van welbepaalde handelingstypes, of   van handelingen in specifieke gebieden, in een goede ruimtelijke ordening,   onverminderd strengere planologische voorschriften of   verkavelingsvoorschriften.<BR><BR>§ 3. Indien het aangevraagde getoetst dient te   worden aan de vijfentwintigprocentsnorm in de zin van artikel 4.1.7 van het   decreet van 27 maart 2009 betreffende het grond- en pandenbeleid, gebeurt deze   toetsing met inachtneming van het krachtens voormeld artikel vastgesteld   actieprogramma.<BR><BR>§ 4. Ontbossen in de zin van artikel 4, 15°, van het   bosdecreet van 13 juni 1990 is verboden, tenzij daartoe een stedenbouwkundige   vergunning of een verkavelingsvergunning in de zin van artikel 4.2.17, § 1,   eerste lid, 3°, afgegeven wordt.<BR><BR>Een stedenbouwkundige vergunning tot   ontbossing of een verkavelingsvergunning voor geheel of gedeeltelijk beboste   terreinen kan niet worden verleend tenzij in de hierna vermelde gevallen :<BR>1°   ontbossing met het oog op werken van handelingen van algemeen belang;<BR>2°   ontbossing of verkaveling in zones met de bestemmingen woongebied of   industriegebied in de ruime zin;<BR>3° ontbossing of verkaveling in zones die   volgens de geldende plannen van aanleg of de ruimtelijke uitvoeringsplannen   gelijk te stellen zijn met de bestemmingen woongebied of industriegebied in de   ruime zin;<BR>4° ontbossing van de uitvoerbare delen in een niet-vervallen   vergunde verkaveling;<BR>5° ontbossing in functie van vastgestelde   instandhoudingsdoelstellingen, opgemaakt voor speciale beschermingszones, op   grond van artikel 36ter, § 1, van het decreet van 21 oktober 1997 betreffende   het natuurbehoud en het natuurlijk milieu of opgemaakt voor soorten, vermeld in   bijlage II, III en IV van hetzelfde decreet.<BR><BR>De stedenbouwkundige   vergunning tot ontbossing of de verkavelingsvergunning voor geheel of   gedeeltelijk beboste terreinen wordt verleend na voorafgaand advies van het   Bosbeheer. Het advies wordt verleend op verzoek van het vergunningverlenende   bestuursorgaan. Als het advies niet wordt verleend binnen dertig dagen, wordt   het geacht gunstig te zijn.<BR><BR>Voor andere ontbossingen of voor andere   verkavelingen in geheel of gedeeltelijk beboste terreinen dan deze genoemd in   het tweede lid, kan de Vlaamse Regering, op individueel en op gemotiveerd   verzoek van diegene die in aanmerking wenst te komen voor een stedenbouwkundige   vergunning tot ontbossing of een verkavelingsvergunning, de ontheffing toestaan   van het verbod tot het verlenen van een stedenbouwkundige vergunning tot   ontbossing of een verkavelingsvergunning voor geheel of gedeeltelijk beboste   terreinen, met inachtneming van de wetgeving inzake de ruimtelijke ordening en   na advies van het Bosbeheer. De Vlaamse Regering bepaalt nadere regelen inzake   de ontheffing van dit verbod.<BR><BR>
+
+### ART. 4.3.2.
+
+Een vergunning kan worden geweigerd indien de aanvraag onverenigbaar is met een voorlopig vastgesteld ontwerp van ruimtelijk uitvoeringsplan of van bijzonder plan van aanleg. Deze weigeringsgrond vervalt wanneer het plan geen bindende kracht heeft gekregen binnen de termijn waarbinnen het definitief kan worden vastgesteld.<br /><br />
+
+### ART. 4.3.3.
+
+Indien uit de verplicht in te winnen adviezen blijkt dat het aangevraagde strijdig is met direct werkende normen binnen andere beleidsvelden dan de ruimtelijke ordening, of indien dergelijke strijdigheid manifest reeds uit het aanvraagdossier blijkt, wordt de vergunning geweigerd of worden in de aan de vergunning verbonden voorwaarden waarborgen opgenomen met betrekking tot de naleving van de sectorale regelgeving.<br /><br />Voor de toepassing van het eerste lid wordt onder « direct werkende normen » verstaan : supranationale, wetskrachtige, reglementaire of beschikkende bepalingen die op zichzelf volstaan om toepasbaar te zijn, zonder dat verdere reglementering met het oog op precisering of vervollediging noodzakelijk is.<br /><br />
+
+### ART. 4.3.4.
+
+Een vergunning kan worden geweigerd indien uit een verplicht in te winnen advies blijkt dat het aangevraagde onwenselijk is in het licht van doelstellingen of zorgplichten die gehanteerd worden binnen andere beleidsvelden dan de ruimtelijke ordening.<br /><br />Voor de toepassing van het eerste lid wordt onder « doelstellingen of zorgplichten » verstaan : internationaalrechtelijke, Europeesrechtelijke, wetskrachtige, reglementaire of beschikkende bepalingen die de overheid bij de uitvoering of de interpretatie van de regelgeving of het voeren van een beleid verplichten tot de inachtneming van een bepaalde doelstelling of van bepaalde voorzorgen, zonder dat deze op zichzelf beschouwd voldoende juridisch duidelijk zijn om onmiddellijk te kunnen worden uitgevoerd.<br /><br />
+
+## Afdeling 2 Decretale beoordelingselementen
+
+### ART. 4.3.5.
+
+§ 1. Een stedenbouwkundige vergunning voor het bouwen van een gebouw met als hoofdfunctie « wonen », « verblijfsrecreatie », « dagrecreatie », « handel », « horeca », « kantoorfunctie », « diensten », « industrie », « ambacht », « gemeenschapsvoorzieningen » of « openbare nutsvoorzieningen », kan slechts worden verleend op een stuk grond, gelegen aan een voldoende uitgeruste weg, die op het ogenblik van de aanvraag reeds bestaat.<br /><br />§ 2. Een voldoende uitgeruste weg is ten minste met duurzame materialen verhard en voorzien van een elektriciteitsnet. De Vlaamse Regering kan bepalen in welke gevallen, en onder welke voorwaarden, gelet op de plaatselijke toestand, van deze minimale uitrusting kan worden afgeweken.<br /><br />Een voldoende uitgeruste weg voldoet voorts aan de uitrustingsvoorwaarden die worden gesteld in stedenbouwkundige voorschriften of vereist worden door de plaatselijke toestand, daaronder begrepen de voorzieningen die in de gemeente voorhanden zijn en het ruimtelijk beleid van de gemeente.<br /><br />§ 3. In het geval de bouwheer instaat voor zowel het bouwen van de gebouwen als de verwezenlijking van de voor het project noodzakelijke wegeniswerken, kan de stedenbouwkundige vergunning voor de gebouwen worden afgeleverd zodra de stedenbouwkundige vergunning voor de wegeniswerken is verleend.<br /><br />Het vergunningverlenende bestuursorgaan kan in dat geval een afdoende financiële waarborg voor de uitvoering van de wegeniswerken eisen.<br /><br />§ 4. De voorwaarde, vermeld in § 1, is niet van toepassing :<br />1° in verkavelingen waar geen of beperktere lasten op het vlak van de weguitrusting zijn opgelegd;<br />2° voor land- of tuinbouwbedrijven en voor bedrijfswoningen van een land- of tuinbouwbedrijf;<br />3° op het verbouwen, herbouwen of uitbreiden van bestaande constructies.<br /><br />
+
+### ART. 4.3.6.
+
+Voor het bouwen of uitbreiden van een bedrijfswoning bij een bedrijf in een daartoe geschikt bestemmingsgebied, kan een stedenbouwkundige vergunning worden verleend voor een volume van ten hoogste 1 000 m3, of 1 250 m3 in geval van bewoning door meer dan één met het bedrijf verbonden gezin.<br /><br />
+
+### ART. 4.3.7.
+
+De stedenbouwkundige vergunning voor de handelingen, vermeld in artikel 4.2.1, 1°, 6°, 7° en 8°, wordt niet verleend wanneer niet is voldaan aan de bij of krachtens de wet of het decreet gestelde regelen betreffende toegang van personen met een functiebeperking tot openbare wegen en tot voor het publiek toegankelijke onroerende goederen.<br /><br />
+
+### ART. 4.3.8.
+
+§ 1. Een stedenbouwkundige vergunning kan niet worden verleend voor het bouwen of herbouwen van een constructie op een stuk grond dat door een rooilijn is getroffen, of voor verbouwings- of uitbreidingswerken, andere dan stabiliteitswerken, aan een door een rooilijn of een achteruitbouwstrook getroffen constructie, behoudens onder de voorwaarden die worden bepaald bij of krachtens het decreet van 8 mei 2009 houdende vaststelling en realisatie van de rooilijnen.<br /><br />§ 2. Een stedenbouwkundige vergunning kan niet worden verleend voor het bouwen van een constructie in een reservatiestrook, behoudens indien voldaan is aan een van volgende voorwaarden :<br />1° de aanvraag heeft betrekking op de uitvoering, bescherming of instandhouding van handelingen die betrekking hebben op openbare infrastructuren of openbare wegen of nutsvoorzieningen en kan worden gekaderd binnen de vigerende stedenbouwkundige voorschriften;<br />2° uit de adviezen van de bevoegde instanties blijkt dat de reservatiestrook niet binnen vijf jaar na afgifte van de vergunning zal worden aangewend voor de uitvoering, bescherming of instandhouding van handelingen, vermeld in 1°.<br /><br />In geval van onteigening na het verstrijken van de termijn, vermeld in het eerste lid, 2°, wordt bij het bepalen van de vergoeding geen rekening gehouden met de waardevermeerdering die uit de vergunde werken voortvloeit.<br /><br />§ 3. De Vlaamse Regering kan nadere formele en procedurele regelen voor de toepassing van § 1 en § 2 bepalen.<br /><br />
+
+## HOOFDSTUK IV Afwijkingen van stedenbouwkundige voorschriften
+
+## Afdeling 1 Afwijkingsmogelijkheden
+
+## Onderafdeling 1 Beperkte afwijkingen
+
+### ART. 4.4.1.
+
+In een vergunning kunnen, na een openbaar onderzoek, beperkte afwijkingen worden toegestaan op stedenbouwkundige voorschriften en verkavelingsvoorschriften met betrekking tot perceelsafmetingen, de afmetingen en de inplanting van constructies, de dakvorm en de gebruikte materialen.<br /><br />Afwijkingen kunnen niet worden toegestaan voor wat betreft :<br />1° de bestemming;<br />2° de maximaal mogelijke vloerterreinindex;<br />3° het aantal bouwlagen.<br /><br />
+
+## Onderafdeling 2 Stabiliteitswerken
+
+### ART. 4.4.2.
+
+§ 1. In een stedenbouwkundige vergunning voor het uitvoeren van stabiliteitswerken ten behoeve van een bestaande, hoofdzakelijk vergunde en niet-verkrotte constructie, kan worden afgeweken van stedenbouwkundige voorschriften of van verkavelingsvoorschriften.<br /><br />§ 2. Indien in laatste administratieve aanleg een stedenbouwkundige vergunning wordt geweigerd voor stabiliteitswerken aan constructies, vermeld in § 1, kan de eigenaar eisen dat het Vlaamse Gewest zijn perceel aankoopt, met inbegrip van alle op dat perceel vergunde of als vergund te beschouwen constructies.<br /><br />De eigenaar beschikt, op straffe van verval, over een termijn van één jaar om het agentschap bij beveiligde zending in kennis te stellen van het feit dat hij van het recht, vermeld in het eerste lid, gebruik wenst te maken. Deze termijn van één jaar gaat in de dag na deze van de betekening van de weigering in laatste administratieve aanleg. In het geval van een stilzwijgende weigering, gaat de termijn echter in op de dag die volgt op het verstrijken van de vervaltermijn waarbinnen het vergunningverlenende bestuursorgaan diende te beslissen of te betekenen.<br /><br />De aankoop gebeurt aan de verkoopwaarde van het goed op het ogenblik van de weigering in laatste administratieve aanleg.<br /><br />Voor zover de eigenaar daarmee instemt, kan de betaling van een aankoopprijs door het Vlaamse Gewest vervangen worden door een grondenruil door middel van de Vlaamse Grondenbank.<br /><br />§ 3. De goederen, vermeld in § 2, kunnen worden aangehouden, beheerd en overgedragen overeenkomstig artikel 5, § 7, van het decreet van 16 juni 2006 betreffende het oprichten van de Vlaamse Grondenbank.<br /><br />§ 4. De Vlaamse Regering kan nadere regelen bepalen voor de toepassing van dit artikel.<br /><br />
+
+## Onderafdeling 3 Afwerkingsregel
+
+### ART. 4.4.3.
+
+Voor een perceel dat niet voor woningbouw bestemd is, kan desalniettemin een stedenbouwkundige vergunning voor het bouwen van een eengezinswoning worden afgegeven, indien voldaan is aan alle hiernavolgende voorwaarden :<br />1° de nieuwe woning is van :<br />a) hetzij het driegeveltype, in welk geval zij aangebouwd wordt bij een wachtmuur van een bestaande woning op een belendend perceel,<br />b) hetzij het gesloten bouwtype, in welk geval zij gebouwd wordt op een perceel dat gelegen is tussen twee wachtmuren;<br />2° het perceel waarop de nieuwe woning opgericht wordt, heeft een oppervlakte van ten hoogste 650 m2;<br />3° het bouwvolume van de nieuwe woning bedraagt ten hoogste 1 000 m3;<br />4° de aanpalende bestaande woning of woningen is of zijn per 1 september 2009 op het ogenblik van de vergunningsaanvraag voor de nieuwe woning hoofdzakelijk vergund en niet verkrot.<br /><br />De mogelijkheden, vermeld in het eerste lid, gelden niet in ruimtelijk kwetsbare gebieden. Zij gelden evenmin in het geval waarin een aanbouw bij de bestaande woning of woningen uitdrukkelijk verboden wordt door een specifiek ruimtelijk uitvoeringsplan of bijzonder plan van aanleg betreffende zonevreemde constructies.<br /><br />Voor de toepassing van het eerste lid, 1°, wordt onder « wachtmuur » verstaan :<br />1° een wand die op 1 september 2009 deel uitmaakt van een dubbele wand, opgetrokken op de perceelsgrens;<br />2° een enkele wand die reeds op 1 september 2009 is opgetrokken tot tegen de perceelsgrens, en die beschermd is door een tijdelijke waterafstotende bekleding.<br /><br />
+
+## Onderafdeling 4 Sociaal-cultureel of recreatief medegebruik [en tijdelijk gebruik in afwachting van de realisatie van een bestemming (ing. decr. 11 mei 2012, art. 25, I: 16 juni 2012)]
+
+### ART. 4.4.4.
+
+§ 1. In alle bestemmingsgebieden kunnen, naast de handelingen die gericht zijn op de verwezenlijking van de bestemming, ook handelingen worden vergund die gericht zijn op het sociaal-culturele of recreatieve medegebruik, voor zover ze door hun beperkte impact de verwezenlijking van de algemene bestemming niet in het gedrang brengen.<br /><br />Voor niet van vergunningsplicht vrijgestelde handelingen die verbonden zijn met occasionele of hoogdynamische sociaal-culturele of recreatieve activiteiten, kan slechts een tijdelijke stedenbouwkundige vergunning worden afgeleverd, of een stedenbouwkundige vergunning onder de voorwaarde dat de betrokken handelingen slechts gedurende een specifieke periode of op bepaalde momenten aanwezig kunnen zijn.<br /><br />Sociaal-culturele of recreatieve activiteiten waarvan de inrichtingen onderworpen zijn aan de milieuvergunningsplicht, kunnen slechts op occasionele basis worden toegestaan.<br /><br />§ 2. De Vlaamse Regering kan de in § 1 gehanteerde begrippen verfijnen.<br /><br />
+
+## Onderafdeling 5 Medegebruik inzake natuurschoon
+
+### ART. 4.4.5.
+
+In alle bestemmingsgebieden kunnen, naast de handelingen die gericht zijn op de verwezenlijking van de bestemming, ook handelingen worden vergund die gericht zijn op de instandhouding, de ontwikkeling en het herstel van de natuur en het natuurlijk milieu en van landschapswaarden, voor zover ze door hun beperkte impact de verwezenlijking van de algemene bestemming niet in het gedrang brengen.<br /><br />De Vlaamse Regering kan nadere regelen bepalen voor de toepassing van het eerste lid.<br /><br />
+
+## Onderafdeling 6 Beschermde monumenten, stads- en dorpsgezichten en landschappen
+
+### ART. 4.4.6.
+
+In een stedenbouwkundige vergunning betreffende een bestaand hoofdzakelijk vergunde constructie die krachtens decreet definitief of voorlopig beschermd is als monument, of deel uitmaakt van een krachtens decreet definitief of voorlopig beschermd stads- of dorpsgezicht of landschap, kan worden afgeweken van stedenbouwkundige voorschriften, voor zover de betrokken handelingen gunstig worden geadviseerd vanuit het beleidsveld onroerend erfgoed.<br /><br />Hetzelfde geldt voor handelingen in de omgeving van een niet ontsloten monument die noodzakelijk zijn voor de rechtstreekse ontsluiting van het monument.<br /><br />
+
+## Onderafdeling 7 Handelingen van algemeen belang
+
+### ART. 4.4.7.
+
+§ 1. In een vergunning voor handelingen van algemeen belang mag worden afgeweken van stedenbouwkundige voorschriften, zodra de Vlaamse Regering, de gedelegeerde stedenbouwkundige ambtenaar of de gewestelijke stedenbouwkundige ambtenaar kennis heeft van de resultaten van het openbaar onderzoek met betrekking tot een ontwerp van nieuw ruimtelijk uitvoeringsplan of plan van aanleg waarmee de handelingen van algemeen belang verenigbaar zijn, voor zover :<br />1° het nieuwe plan de bestaande stedenbouwkundige voorschriften vervangt of van rechtswege opheft;<br />2° de Vlaamse Regering, het departement, het agentschap of de deputatie geen strijdigheid vaststelt van het ontwerpplan met hogere plannen of andere normen.<br /><br />§ 2. In een vergunning voor kleine handelingen van algemeen belang, of voor lijninfrastructuur- en nutswerken die een gemeentelijk karakter hebben of kleine wijziging inhouden, mag steeds worden afgeweken van stedenbouwkundige voorschriften, voor zover de betrokken handelingen de algemene bestemming en het architectonische en landschappelijke karakter van het gebied niet kennelijk in het gedrang brengen.<br /><br />De Vlaamse Regering bepaalt welke handelingen van algemeen belang als klein worden beschouwd, en welke lijninfrastructuur- en nutswerken een gemeentelijk karakter hebben of een kleine wijziging inhouden.<br /><br />Deze paragraaf verleent nimmer vrijstelling van de toepassing van de bepalingen inzake de milieueffectrapportage over projecten, opgenomen in hoofdstuk III van titel IV van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br /><br />
+
+### ART. 4.4.8.
+
+In de gebieden die op de gewestplannen zijn aangewezen als gebied voor gemeenschapsvoorzieningen en openbare nutsvoorzieningen, kunnen handelingen van algemeen belang en de daarmee verbonden activiteiten te allen tijde worden toegelaten, ongeacht het publiek- of privaatrechtelijk statuut van de aanvrager of het al dan niet aanwezig zijn van enig winstoogmerk.<br /><br />
+
+## [Onderafdeling 7/1. Handelingen in industriegebied (ing. decr. 4 april 2014, art. 47, I: 25 april 2014)]
+
+## [Onderafdeling 7/2 Stallen voor weidedieren (ing. decr. 8 december 2017, art. 66, I: 30 december 2017)]
+
+## Onderafdeling 8 Handelingen sorterend onder voorschriften van een [gewestplan (verv. decr. 16 juli 2010, art. 15)]
+
+### ART. 4.4.9.
+
+§ 1. Het vergunningverlenende bestuursorgaan mag bij het verlenen van een stedenbouwkundige vergunning of een verkavelingsvergunning in een gebied dat sorteert onder de voorschriften van een plan van aanleg, afwijken van de bestemmingsvoorschriften, indien het aangevraagde kan worden vergund op grond van de voor de vergelijkbare categorie of subcategorie van gebiedsaanduiding bepaalde standaardtypebepalingen, vermeld in de bijlage bij het besluit van de Vlaamse Regering van 11 april 2008 tot vaststelling van nadere regels met betrekking tot de vorm en de inhoud van de ruimtelijke uitvoeringsplannen, zoals de tekst ervan is vastgesteld bij het besluit van 11 april 2008.<br /><br />Het eerste lid laat geen afwijkingen toe op de voorschriften van het plan van aanleg die betrekking hebben op de inrichting en het beheer van het gebied.<br /><br />§ 2. Voor de toepassing van § 1, eerste lid, geldt dat een bestemmingsvoorschrift van een plan van aanleg alleszins vergelijkbaar is met een categorie of subcategorie van gebiedsaanduiding, indien deze concordantie vermeld wordt in de tabel, opgenomen in artikel 7.4.13, eerste lid, of in de concordantielijst, bepaald krachtens voornoemd artikel 7.4.13, tweede lid.<br /><br />De Vlaamse Regering kan overige concordanties vaststellen.<br /><br />
+
+## [Onderafdeling 9 Handelingen sorterend onder voorschriften van een bijzonder plan van aanleg dat ouder is dan vijftien jaar (ing. decr. 8 december 2017, art. 70, I: 30 december 2017)]
+
+## Afdeling 2 Basisrechten voor zonevreemde constructies
+
+## Onderafdeling 1 Toepassingsgebied, draagwijdte en algemene bepalingen
+
+### ART. 4.4.10.
+
+§ 1. Deze afdeling is van toepassing op vergunningsaanvragen die betrekking hebben op hoofdzakelijk vergunde en niet verkrotte zonevreemde constructies, met uitzondering van publiciteitsinrichtingen of uithangborden.<br /><br />Het voldoen aan de voorwaarden, vermeld in het eerste lid, wordt beoordeeld op het ogenblik van de eerste vergunningsaanvraag tot verbouwen, herbouwen of uitbreiden, of, in de gevallen, vermeld in onderafdeling 3 en 4, op de vooravond van de afbraak, de vernietiging of de beschadiging.<br /><br />§ 2. De basisrechten van deze afdeling zijn van toepassing in gebieden, geordend door een ruimtelijk uitvoeringsplan of een plan van aanleg.<br /><br />Een ruimtelijk uitvoeringsplan kan de basisrechten van deze afdeling aanvullen en uitbreiden. Dergelijk plan kan evenwel ook strengere voorwaarden bepalen op het vlak van de maximaal toegelaten volumes bij herbouw.<br /><br />
+
+### ART. 4.4.11.
+
+Bij de afgifte van een vergunning op grond van deze afdeling geldt de toetsing aan de goede ruimtelijke ordening, vermeld in artikel 4.3.1, § 1, eerste lid, 1°, onverkort. Deze toetsing gaat in het bijzonder na of het architecturaal karakter van de verbouwde, herbouwde, uitgebreide of herstelde constructies behouden blijft.<br /><br />
+
+## Onderafdeling 2 Bestaande zonevreemde constructies
+
+## Sectie 1 Bestaande zonevreemde woningen
+
+## Subsectie 1 Verbouwen
+
+### ART. 4.4.12.
+
+In alle bestemmingsgebieden geldt dat de vigerende bestemmingsvoorschriften op zichzelf geen weigeringsgrond vormen bij de beoordeling van een aanvraag voor een stedenbouwkundige vergunning voor het verbouwen van een bestaande zonevreemde woning, op voorwaarde dat het aantal woongelegenheden beperkt blijft tot het bestaande aantal.<br /><br />
+
+## Subsectie 2 Herbouwen op dezelfde plaats
+
+### ART. 4.4.13.
+
+§ 1. De vigerende bestemmingsvoorschriften vormen op zichzelf geen weigeringsgrond bij de beoordeling van een aanvraag voor een stedenbouwkundige vergunning voor het herbouwen van een bestaande zonevreemde woning op dezelfde plaats, op voorwaarde dat het aantal woongelegenheden beperkt blijft tot het bestaande aantal.<br /><br />Als het bestaande bouwvolume meer dan 1 000 m3 bedraagt, is het maximale volume van de herbouwde woning beperkt tot 1 000 m3.<br /><br />§ 2. Voor de toepassing van § 1, eerste lid, is sprake van een herbouw op dezelfde plaats indien de nieuwe woning ten minste drie kwart van de bestaande woonoppervlakte overlapt. De bestaande woonoppervlakte sluit zowel de oppervlakte van het hoofdgebouw in als deze van de fysisch aansluitende aanhorigheden die in bouwtechnisch opzicht een rechtstreekse aansluiting of steun vinden bij het hoofdgebouw.<br /><br />§ 3. De mogelijkheden, vermeld in § 1, gelden niet in :<br />1° ruimtelijk kwetsbare gebieden, met uitzondering van parkgebieden;<br />2° recreatiegebieden, zijnde de als dusdanig door een plan van aanleg aangewezen gebieden, en de gebieden, geordend door een ruimtelijk uitvoeringsplan, die onder de categorie van gebiedsaanduiding « recreatie » sorteren.<br /><br />
+
+## Subsectie 3 Herbouwen op een gewijzigde plaats
+
+### ART. 4.4.14.
+
+§ 1. De vigerende bestemmingsvoorschriften vormen op zichzelf geen weigeringsgrond bij de beoordeling van een aanvraag voor een stedenbouwkundige vergunning voor het herbouwen van een bestaande zonevreemde woning op een gewijzigde plaats, op voorwaarde dat voldaan is aan alle hiernavolgende vereisten :<br />1° het aantal woongelegenheden blijft beperkt tot het bestaande aantal;<br />2° voor het herbouwen is ten minste één van volgende oorzaken aanwijsbaar :<br />a) de woning is getroffen door een rooilijn,<br />b) de woning bevindt zich in een achteruitbouwzone,<br />c) de verplaatsing volgt uit redenen van een goede ruimtelijke ordening, en wordt door de aanvrager uitdrukkelijk gemotiveerd vanuit een betere integratie in de omgeving, een betere terreinbezetting of een kwalitatief concept;<br />3° ten minste één van volgende voorwaarden is vervuld :<br />a) de herbouwde woning krijgt dezelfde voorbouwlijn als de dichtstbijzijnde constructie,<br />b) de nieuwe toestand levert een betere plaatselijke aanleg op, en richt zich op de omgevende bebouwing of plaatselijk courante inplantingswijzen.<br /><br />Als het bestaande bouwvolume meer dan 1 000 m3 bedraagt, is het maximale volume van de herbouwde woning beperkt tot 1 000 m3.<br /><br />§ 2. De mogelijkheden, vermeld in § 1, gelden niet in :<br />1° ruimtelijk kwetsbare gebieden, met uitzondering van parkgebieden;<br />2° recreatiegebieden, zijnde de als dusdanig door een plan van aanleg aangewezen gebieden, en de gebieden, geordend door een ruimtelijk uitvoeringsplan, die onder de categorie van gebiedsaanduiding « recreatie » sorteren.<br /><br />
+
+## Subsectie 4 Uitbreiden
+
+### ART. 4.4.15.
+
+Het uitbreiden van een bestaande zonevreemde woning is vergunbaar, voor zover het bouwvolume beperkt blijft tot ten hoogste 1 000 m3 en op voorwaarde dat het aantal woongelegenheden beperkt blijft tot het bestaande aantal.<br /><br />De mogelijkheden, vermeld in het eerste lid, gelden niet in :<br />1° ruimtelijk kwetsbare gebieden, met uitzondering van parkgebieden;<br />2° recreatiegebieden, zijnde de als dusdanig door een plan van aanleg aangewezen gebieden, en de gebieden, geordend door een ruimtelijk uitvoeringsplan, die onder de categorie van gebiedsaanduiding « recreatie » sorteren.<br /><br />
+
+## Sectie 2 Bestaande zonevreemde constructies, niet zijnde woningbouw
+
+## Subsectie 1 Verbouwen
+
+### ART. 4.4.16.
+
+In alle bestemmingsgebieden geldt dat de vigerende bestemmingsvoorschriften op zichzelf geen weigeringsgrond vormen bij de beoordeling van een aanvraag voor een stedenbouwkundige vergunning voor het verbouwen van een bestaande zonevreemde constructie, niet zijnde woningbouw.<br /><br />Indien de verbouwingswerken betrekking hebben op milieuvergunningsplichtige inrichtingen, gelden de mogelijkheden, vermeld in het eerste lid, slechts indien voldaan is aan alle hiernavolgende voorwaarden :<br />1° de bouwheer beschikt op het ogenblik van de vergunningsaanvraag over de voor een normale bedrijfsvoering noodzakelijke milieuvergunning;<br />2° de constructie werd in het jaar voorafgaand aan de vergunningsaanvraag daadwerkelijk uitgebaat.<br /><br />
+
+## Subsectie 2 Herbouwen op dezelfde plaats
+
+### ART. 4.4.17.
+
+§ 1. De vigerende bestemmingsvoorschriften vormen op zichzelf geen weigeringsgrond bij de beoordeling van een aanvraag voor een stedenbouwkundige vergunning voor het op dezelfde plaats herbouwen van een bestaande zonevreemde constructie, niet zijnde woningbouw. Er is sprake van een herbouw op dezelfde plaats indien de nieuwe constructie ten minste drie kwart van de bestaande oppervlakte overlapt.<br /><br />Indien de herbouwingswerken betrekking hebben op milieuvergunningsplichtige inrichtingen, gelden de mogelijkheden, vermeld in het eerste lid, slechts indien voldaan is aan alle hiernavolgende voorwaarden :<br />1° de bouwheer beschikt op het ogenblik van de vergunningsaanvraag over de voor een normale bedrijfsvoering noodzakelijke milieuvergunning;<br />2° de constructie werd in het jaar voorafgaand aan de vergunningsaanvraag daadwerkelijk uitgebaat.<br /><br />§ 2. De mogelijkheden, vermeld in § 1, gelden niet in :<br />1° ruimtelijk kwetsbare gebieden, met uitzondering van parkgebieden;<br />2° recreatiegebieden, zijnde de als dusdanig door een plan van aanleg aangewezen gebieden, en de gebieden, geordend door een ruimtelijk uitvoeringsplan, die onder de categorie van gebiedsaanduiding « recreatie » sorteren.<br /><br />
+
+## Subsectie 3 Herbouwen op een gewijzigde plaats
+
+### ART. 4.4.18.
+
+§ 1. De vigerende bestemmingsvoorschriften vormen op zichzelf geen weigeringsgrond bij de beoordeling van een aanvraag voor een stedenbouwkundige vergunning voor het op een gewijzigde plaats herbouwen van een bestaande zonevreemde constructie, niet zijnde woningbouw, op voorwaarde dat voldaan is aan alle hiernavolgende vereisten :<br />1° voor het herbouwen is ten minste één van volgende oorzaken aanwijsbaar :<br />a) de constructie is getroffen door een rooilijn,<br />b) de constructie bevindt zich in een achteruitbouwzone,<br />c) de verplaatsing volgt uit redenen van een goede ruimtelijke ordening, en wordt door de aanvrager uitdrukkelijk gemotiveerd vanuit een betere integratie in de omgeving, een betere terreinbezetting of een kwalitatief concept;<br />2° ten minste één van volgende voorwaarden is vervuld :<br />a) de herbouwde constructie krijgt dezelfde voorbouwlijn als de dichtstbijzijnde constructie,<br />b) de nieuwe toestand levert een betere plaatselijke aanleg op, en richt zich op de omgevende bebouwing of plaatselijk courante inplantingswijzen.<br /><br />Indien de herbouwingswerken betrekking hebben op milieuvergunningsplichtige inrichtingen, gelden de mogelijkheden, vermeld in het eerste lid, slechts indien voldaan is aan beide hiernavolgende voorwaarden :<br />1° de bouwheer beschikt op het ogenblik van de vergunningsaanvraag over de voor een normale bedrijfsvoering noodzakelijke milieuvergunning;<br />2° de constructie werd in het jaar voorafgaand aan de vergunningsaanvraag daadwerkelijk uitgebaat.<br /><br />§ 2. De mogelijkheden, vermeld in § 1, gelden niet in :<br />1° ruimtelijk kwetsbare gebieden, met uitzondering van parkgebieden;<br />2° recreatiegebieden, zijnde de als dusdanig door een plan van aanleg aangewezen gebieden, en de gebieden, geordend door een ruimtelijk uitvoeringsplan, die onder de categorie van gebiedsaanduiding « recreatie » sorteren.<br /><br />
+
+## Subsectie 4 Uitbreiden en aanpassen
+
+### ART. 4.4.19.
+
+§ 1. Het uitbreiden van een bestaande zonevreemde constructie, niet zijnde woningbouw, is vergunbaar, op voorwaarde dat de uitbreiding noodzakelijk is omwille van :<br />1° milieuvoorwaarden;<br />2° gezondheidsredenen;<br />3° maatregelen opgelegd door de sociale inspecteurs die bevoegd zijn in het kader van de wet van 16 november 1972 betreffende de arbeidsinspectie;<br />4° de bestrijding van voor planten en plantaardige producten schadelijke organismen, de dierengezondheid of het dierenwelzijn;<br />5° infrastructurele noden ingevolge de uitbreiding van de werking van erkende, gesubsidieerde of gefinancierde onderwijsinstellingen of van een jeugdvereniging in de zin van het decreet van 29 maart 2002 op het Vlaamse jeugdbeleid.<br /><br />Indien de uitbreidingswerken betrekking hebben op milieuvergunningsplichtige inrichtingen, gelden de mogelijkheden, vermeld in het eerste lid, slechts indien voldaan is aan beide hiernavolgende voorwaarden :<br />1° de bouwheer beschikt op het ogenblik van de vergunningsaanvraag over de voor een normale bedrijfsvoering noodzakelijke milieuvergunning;<br />2° de constructie werd in het jaar voorafgaand aan de vergunningsaanvraag daadwerkelijk uitgebaat.<br /><br />De Vlaamse Regering kan de voorwaarden, vermeld in het eerste lid, nader omschrijven.<br /><br />§ 2. Aanpassingswerken aan of bij een zonevreemde constructie, niet zijnde woningbouw, zijn vergunbaar, op voorwaarde dat het overdekte volume niet wordt uitgebreid.<br /><br />§ 3. De mogelijkheden, vermeld in § 1 en § 2, gelden niet in :<br />1° ruimtelijk kwetsbare gebieden, met uitzondering van parkgebieden;<br />2° recreatiegebieden, zijnde de als dusdanig door een plan van aanleg aangewezen gebieden, en de gebieden, geordend door een ruimtelijk uitvoeringsplan, die onder de categorie van gebiedsaanduiding « recreatie » sorteren.<br /><br />
+
+## Onderafdeling 3 Recent afgebroken zonevreemde woningen of andere constructies
+
+### ART. 4.4.20.
+
+§ 1. De mogelijkheden, vermeld in onderafdeling 2, zijn van overeenkomstige toepassing op zonevreemde woningen of andere constructies die geheel of gedeeltelijk zijn afgebroken, indien voldaan is aan beide hiernavolgende voorwaarden :<br />1° voorafgaand aan de afbraak werd een stedenbouwkundige vergunning tot verbouw of tot herbouw afgeleverd, en de aanvrager wenst het plan nu aan te passen of om te zetten naar herbouw;<br />2° de aanvraag wordt ingediend binnen de geldigheidstermijn van de initiële stedenbouwkundige vergunning tot herbouw of tot verbouw.<br /><br />Telkens in onderafdeling 2 gerefereerd wordt aan het bestaande bouwvolume van een woning of een andere constructie, wordt daaronder voor de toepassing van het eerste lid het bouwvolume, voorafgaand aan de afbraak, verstaan.<br /><br />§ 2. De mogelijkheden die ingevolge de toepassing van § 1 worden geboden, gelden niet in :<br />1° ruimtelijk kwetsbare gebieden, met uitzondering van parkgebieden;<br />2° recreatiegebieden, zijnde de als dusdanig door een plan van aanleg aangewezen gebieden, en de gebieden, geordend door een ruimtelijk uitvoeringsplan, die onder de categorie van gebiedsaanduiding « recreatie » sorteren.
+
+## Onderafdeling 4 Herstelwerken bij vernietiging of beschadiging door vreemde oorzaak
+
+## Sectie 1 Vernietigde of beschadigde woningen
+
+### ART. 4.4.21.
+
+Als een zonevreemde woning vernield of beschadigd werd ten gevolge van een vreemde oorzaak die de eigenaar niet kan worden toegerekend, kunnen herstelwerken worden vergund, in afwijking van de bestemmingsvoorschriften, voor zover voldaan is aan alle hiernavolgende voorwaarden :<br />1° de woning werd in het jaar voorafgaand aan de vernieling of beschadiging daadwerkelijk bewoond, waarbij de bewoning kan worden aangetoond middels alle rechtens toegelaten bewijsmiddelen;<br />2° de aanvraag gebeurt binnen de drie jaar na de toekenning van het verzekeringsbedrag of, zo de vernieling of beschadiging niet door een verzekering gedekt zijn, binnen de vijf jaar na het optreden van deze vernieling of beschadiging;<br />3° het bouwvolume van de herstelde woning blijft beperkt tot :<br />a) het vergunde of vergund geachte bouwvolume, met een maximum van 1 000 m3, indien de woning gelegen is in een ruimtelijk kwetsbaar gebied, met uitzondering van parkgebieden en agrarische gebieden met ecologisch belang of ecologische waarde,<br />b) 1.000 m3, indien de woning gelegen is in een ruimtelijk niet kwetsbaar gebied, in een parkgebied of in een agrarisch gebied met ecologisch belang of ecologische waarde;<br />4° het aantal woongelegenheden blijft beperkt tot het voor de vernietiging of de beschadiging bestaande aantal.
+
+## Sectie 2 Andere vernietigde of beschadigde constructies
+
+### ART. 4.4.22.
+
+Als een zonevreemde constructie, niet zijnde woningbouw, vernield of beschadigd werd ten gevolge van een vreemde oorzaak die de eigenaar niet kan worden toegerekend, kunnen herstelwerken worden vergund, in afwijking van de bestemmingsvoorschriften, voor zover voldaan is aan alle hiernavolgende voorwaarden :<br />1° de constructie werd in het jaar voorafgaand aan de vernieling of beschadiging daadwerkelijk uitgebaat, waarbij deze uitbating kan worden aangetoond middels alle rechtens toegelaten bewijsmiddelen;<br />2° de aanvraag gebeurt binnen de drie jaar na de toekenning van het verzekeringsbedrag of, zo de vernieling of beschadiging niet door een verzekering gedekt zijn, binnen de vijf jaar na het optreden van deze vernieling of beschadiging;<br />3° het bouwvolume van de herstelde constructie blijft beperkt tot het vergunde of vergund geachte bouwvolume.<br /><br />Voor wat bedrijfsgebouwen betreft waarin milieuvergunningsplichtige activiteiten uitgevoerd worden, is tevens vereist dat deze activiteiten zijn vergund.
+
+## Afdeling 3 Zonevreemde functiewijzigingen
+
+### ART. 4.4.23.
+
+Het vergunningverlenende bestuursorgaan mag bij het verlenen van een stedenbouwkundige vergunning die betrekking heeft op een vergunningsplichtige functiewijziging van een gebouw of een gebouwencomplex, afwijken van de bestemmingsvoorschriften, voor zover voldaan is aan beide hiernavolgende voorwaarden :<br />1° het gebouw of het gebouwencomplex beantwoordt op het ogenblik van de aanvraag aan alle hiernavolgende vereisten :<br />a) het gebouw of het gebouwencomplex bestaat,<br />b) het gebouw of het gebouwencomplex is niet verkrot,<br />c) het gebouw of het gebouwencomplex is hoofdzakelijk vergund,<br />d) het gebouw of het gebouwencomplex is niet gelegen in :<br />1) ruimtelijk kwetsbare gebieden, met uitzondering van parkgebieden en agrarische gebieden met ecologisch belang of ecologische waarde,<br />2) recreatiegebieden, zijnde de als dusdanig door een plan van aanleg aangewezen gebieden, en de gebieden, geordend door een ruimtelijk uitvoeringsplan, die onder de categorie van gebiedsaanduiding « recreatie » sorteren;<br />2° de functiewijziging komt voor op een door de Vlaamse Regering vast te stellen lijst, waarin nadere regelen en bijkomende voorwaarden voor de betrokken wijzigingen van gebruik kunnen worden bepaald.<br /><br />De weigering om een afwijking, vermeld in het eerste lid, te verlenen, geeft nimmer aanleiding tot een planschadevergoeding.
+
+## Afdeling 4 Planologische attesten
+
+### ART. 4.4.24.
+
+Een planologisch attest vermeldt of een bestaand, hoofdzakelijk vergund en niet-verkrot bedrijf al dan niet behouden kan worden op de plaats waar het gevestigd is. Bij behoud vermeldt het planologisch attest welke ruimtelijke ontwikkelingsmogelijkheden er op korte en op lange termijn mogelijk zijn. Zowel aan het behoud als aan de ruimtelijke ontwikkelingsmogelijkheden kunnen voorwaarden worden verbonden.<br /><br />Het planologisch attest vermeldt, rekening gehouden met de uitspraak over het behoud en de ontwikkelingsmogelijkheden, of een procedure tot opmaak of tot wijziging van een ruimtelijk uitvoeringsplan of een plan van aanleg zal worden opgestart.<br /><br />In het planologisch attest worden de ruimtelijke behoeften van de verschillende maatschappelijke activiteiten gelijktijdig tegen elkaar afgewogen. Daarenboven houdt het planologisch attest rekening met de ruimtelijke draagkracht, de gevolgen voor het leefmilieu, en de culturele, economische, esthetische en sociale gevolgen.<br /><br />Het planologisch attest kan worden aangevraagd door en voor een bedrijf dat voldoet aan één van volgende voorwaarden :<br />1° het bedrijf is onderworpen aan de milieuvergunnings- of meldingsplicht, vermeld in het decreet van 28 juni 1985 betreffende de milieuvergunning;<br />2° het bedrijf betreft een volwaardig land- of tuinbouwbedrijf.
+
+### ART. 4.4.25.
+
+§ 1. Een planologisch attest wordt aangevraagd bij de gedelegeerde planologische ambtenaar.<br /><br />§ 2. De gedelegeerde planologische ambtenaar onderzoekt de volledigheid van de aanvraag. Indien een aanvraag niet voldoet aan de gestelde regelen, biedt de ambtenaar de aanvrager de gelegenheid binnen een daartoe gestelde termijn het verzuim te herstellen. Indien van deze gelegenheid geen dan wel op niet afdoende wijze gebruik wordt gemaakt, wordt de aanvraag niet-ontvankelijk verklaard.<br /><br />Is de aanvraag volledig, dan levert de gedelegeerde planologische ambtenaar een ontvangstbewijs af; hij stuurt de aanvraag door naar het bestuursorgaan, bevoegd voor de opmaak van een ruimtelijk uitvoeringsplan voor het betrokken gebied.<br /><br />§ 3. Het bevoegde bestuursorgaan vraagt advies aan alle bij of krachtens decreet aangewezen instanties die over het op te maken ruimtelijk uitvoeringsplan advies moeten geven.<br /><br />Het advies wordt vervolgens aan de bevoegde commissie voor ruimtelijke ordening overgemaakt.<br /><br />§ 4. Het bevoegde bestuursorgaan richt over de aanvraag een openbaar onderzoek in, gedurende dertig dagen. Binnen die periode moeten bezwaren en technische opmerkingen per beveiligde zending naar de bevoegde commissie voor ruimtelijk ordening gestuurd worden.<br /><br />De bevoegde commissie bundelt en coördineert alle adviezen, bezwaren en technische opmerkingen, en brengt een gemotiveerd advies uit bij het bestuursorgaan dat het ruimtelijk uitvoeringsplan moet opmaken.<br /><br />De gedelegeerde planologische ambtenaar dient het betrokken bestuursorgaan eveneens van advies. Voor planologische attesten die afgeleverd worden door het college van burgemeester en schepenen, wordt dat advies verstrekt door de gewestelijke stedenbouwkundige ambtenaar.<br /><br />§ 5. Naargelang het geval beslist de Vlaamse Regering, de deputatie of het college van burgemeester en schepenen over de aanvraag voor het planologisch attest.<br /><br />De beslissing wordt per beveiligde zending aan de aanvrager overgemaakt. Als het planologisch attest wordt uitgereikt door de deputatie, wordt onverwijld een afschrift aan de gedelegeerde planologische ambtenaar bezorgd. Als het planologisch attest wordt uitgereikt door de gemeente, wordt onverwijld een afschrift bezorgd aan de gedelegeerde planologische ambtenaar en aan de gewestelijke stedenbouwkundige ambtenaar.<br /><br />§ 6. In zoverre een planologisch attest dat het betrokken bestuursorgaan conform artikel 4.4.26, § 1, verplicht tot de opmaak of de wijziging van een ruimtelijk uitvoeringsplan of een plan van aanleg, onverenigbaar is met een ruimtelijk structuurplan, kan bij de Vlaamse Regering een schorsend administratief beroep worden ingesteld door :<br />1° de gedelegeerde planologische ambtenaar, voor wat betreft planologisch attesten, afgegeven door de deputatie;<br />2° de gewestelijke stedenbouwkundige ambtenaar, voor wat betreft planologische attesten, afgegeven door het college van burgemeester en schepenen.<br /><br />Het beroep wordt schriftelijk ingesteld binnen een termijn van dertig dagen, die ingaat de dag na deze van ontvangst van het afschrift van het planologisch attest. Een afschrift van het beroepschrift wordt bezorgd aan de houder van het planologisch attest en aan de deputatie, respectievelijk het college van burgemeester en schepenen.<br /><br />De Vlaamse Regering kan de houder van het planologisch attest en de deputatie, respectievelijk het college van burgemeester en schepenen, in staat stellen om schriftelijk hun zienswijzen over te maken, voor zover zulks nodig wordt geacht voor een zorgvuldige feitenvinding.<br /><br />De Vlaamse Regering verstuurt haar beroepsbeslissing per beveiligde zending naar de houder van het planologisch attest en naar de deputatie, respectievelijk het college van burgemeester en schepenen. De beroepsbeslissing wordt verstuurd binnen een ordetermijn van zestig dagen, ingaande de dag na deze waarop het beroep is ingesteld.<br /><br />Een afschrift van de beroepsbeslissing wordt aan de gedelegeerde planologische ambtenaar, respectievelijk de gewestelijke stedenbouwkundige ambtenaar bezorgd.
+
+### ART. 4.4.26.
+
+§ 1. Indien het planologisch attest besluit dat het bedrijf behouden kan worden op de plaats waar het gevestigd is, al dan niet met ruimtelijke ontwikkelingsmogelijkheden, en als dat behoud of die ontwikkelingsmogelijkheden de opmaak of de wijziging van een ruimtelijk uitvoeringsplan of een plan van aanleg veronderstellen, dan is het betrokken bestuursorgaan ertoe verplicht om binnen het jaar na de afgifte van het planologisch attest een voorontwerp van ruimtelijk uitvoeringsplan of bijzonder plan van aanleg op te maken.<br /><br />Indien het betrokken bestuursorgaan dat nalaat, dan wordt voor dat bestuursorgaan de mogelijkheid tot het voorlopig vaststellen van een ruimtelijk uitvoeringsplan of tot het voorlopig aannemen van een plan van aanleg voor een ander bestaand bedrijf of voor een nieuw bedrijventerrein opgeschort, totdat alsnog voldaan is aan de rechtsplicht, vermeld in het eerste lid, tenzij het attest inmiddels vervallen is.<br /><br />§ 2. Op vraag van de houder van een planologisch attest dat het betrokken bestuursorgaan conform § 1 verplicht tot de opmaak of de wijziging van een ruimtelijk uitvoeringsplan of een plan van aanleg, kan bij de aanvraag voor een stedenbouwkundige vergunning of een milieuvergunning worden afgeweken van de vigerende stedenbouwkundige voorschriften.<br /><br />Vereist is dat de houder van het attest bewijst dat aan alle volgende voorwaarden is voldaan :<br />1° de aanvraag is ingediend binnen een jaar na de afgifte van het planologisch attest;<br />2° de aanvraag beperkt zich tot regelingen en voorwaarden voor de invulling van kortetermijnbehoeften, zoals aangegeven in het planologisch attest.
+
+### ART. 4.4.27.
+
+Bij de afgifte van een attest dat het behoud van het bedrijf op de plaats waar het gevestigd is, uitsluit, bevestigt het bevoegde bestuursorgaan op het eerste verzoek van het bedrijf of er al dan niet een mogelijkheid tot herlocalisatie voorhanden is.
+
+### ART. 4.4.28.
+
+Een planologisch attest dat het betrokken bestuursorgaan conform artikel 4.4.26, § 1, verplicht tot de opmaak of de wijziging van een ruimtelijk uitvoeringsplan of een plan van aanleg, blijft gelden tot het ruimtelijk uitvoeringsplan definitief wordt vastgesteld.<br /><br />Dergelijk planologisch attest vervalt evenwel :<br />1° als binnen het jaar na afgifte van het planologisch attest geen aanvraag werd ingediend voor een stedenbouwkundige vergunning;<br />2° als deze stedenbouwkundige vergunning is vervallen;<br />3° als het bedrijf zijn activiteit stopzet;<br />4° bij overdracht van enig zakelijk recht op het bedrijf of individuele bedrijfsgebouwen;<br />5° vijf jaar na de afgifte van het planologisch attest.
+
+### ART. 4.4.29.
+
+De Vlaamse Regering bepaalt de nadere regelen voor de toepassing van deze afdeling, in het bijzonder :<br />1° de minimale inhoud van de aanvraag voor een planologisch attest; als de gebouwen slechts gedeeltelijk vergund zijn, bevat de aanvraag duidelijkheid over de verwijdering of de regularisatie van wat niet vergund is;<br />2° de regeling van de termijnen doorheen de procedure;<br />3° de procedureregeling voor het administratief beroep, vermeld in artikel 4.4.25, § 6.
+
+## HOOFDSTUK V Verhouding met de milieuvergunning en de milieumelding
+
+### ART. 4.5.1.
+
+§ 1. Een stedenbouwkundige vergunning voor een inrichting waarvoor een milieuvergunning vereist is, wordt voor de toepassing van artikel 5, § 2, van het decreet van 28 juni 1985 betreffende de milieuvergunning beschouwd als :<br />1° definitief verleend : vanaf de datum waarop van de stedenbouwkundige vergunning gebruik kan worden gemaakt overeenkomstig artikel 4.7.19, § 3, artikel 4.7.23, § 5, dan wel artikel 4.7.26, § 4, tweede lid;<br />2° definitief geweigerd : vanaf de datum waarop in laatste administratieve aanleg beslist werd om de stedenbouwkundige vergunning niet af te leveren.<br /><br />§ 2. Een stedenbouwkundige vergunning voor een inrichting, waarvoor een milieuvergunning nodig is of die onderworpen is aan de meldingsplicht conform het decreet van 28 juni 1985 betreffende de milieuvergunning, wordt geschorst zolang de milieuvergunning niet definitief werd verleend overeenkomstig artikel 5, § 1, van het decreet van 28 juni 1985 betreffende de milieuvergunning of de melding niet is gebeurd.<br /><br />In het geval, vermeld in het eerste lid, gaat de termijn van twee jaar, bepaald in artikel 4.6.2, § 1, eerste lid, 1°, pas in op de dag dat de milieuvergunning definitief wordt verleend, respectievelijk de melding is gebeurd.<br /><br />Wordt de milieuvergunning evenwel definitief geweigerd in de zin van artikel 5, § 1, van het decreet van 28 juni 1985 betreffende de milieuvergunning, dan vervalt de stedenbouwkundige vergunning van rechtswege. Het verval van de stedenbouwkundige vergunning wordt door de instantie die de milieuvergunning heeft geweigerd onverwijld meegedeeld aan de aanvrager en de overheid die de stedenbouwkundige vergunning heeft verleend.
+
+## HOOFDSTUK VI Geldingsduur en wijzigbaarheid
+
+## Afdeling 1 Stedenbouwkundige vergunningen
+
+### ART. 4.6.1.
+
+Een stedenbouwkundige vergunning geldt voor een onbepaalde duur, behoudens indien uitdrukkelijk anders vermeld.
+
+### ART. 4.6.2.
+
+§ 1. Een stedenbouwkundige vergunning voor onbepaalde duur vervalt van   rechtswege in elk van de volgende gevallen :<BR>1° de verwezenlijking van de   stedenbouwkundige vergunning wordt niet binnen twee jaar na de afgifte van de   vergunning in laatste administratieve aanleg gestart;<BR>2° de werken worden   gedurende meer dan twee jaar onderbroken;<BR>3° de vergunde gebouwen zijn niet   winddicht binnen drie jaar na de aanvang van de werken.<BR><BR>De termijnen van   twee of drie jaar, vermeld in het eerste lid, worden geschorst zolang een beroep   tot vernietiging van de stedenbouwkundige vergunning aanhangig is bij de Raad   voor vergunningsbetwistingen, behoudens indien de vergunde handelingen in strijd   zijn met een vóór de definitieve uitspraak van de Raad van kracht geworden   ruimtelijk uitvoeringsplan. In dat laatste geval blijft het eventuele recht op   planschade desalniettemin behouden.<BR><BR>Indien de stedenbouwkundige   vergunning voor onbepaalde duur uitdrukkelijk melding maakt van de verschillende   fasen van het bouwproject, worden de termijnen van twee of drie jaar, vermeld in   het eerste lid, gerekend per fase. Voor de tweede en volgende fasen worden de   termijnen van verval dientengevolge gerekend vanaf de aanvangsdatum van de   betrokken fase.<BR><BR>§ 2. ...<BR><BR>§ 3. Het verval van een stedenbouwkundige   vergunning voor onbepaalde duur geldt slechts ten aanzien van het niet   afgewerkte gedeelte van een bouwproject. Een gedeelte is eerst afgewerkt indien   het, desgevallend na sloping van de niet afgewerkte gedeelten, kan worden   beschouwd als een afzonderlijke constructie die voldoet aan de bouwfysische   vereisten.
+
+### ART. 4.6.3.
+
+De Vlaamse Regering kan nadere regelen bepalen op het vlak van de stedenbouwkundige vergunningen voor een bepaalde duur, in het bijzonder de minimale en maximale geldigheidsduur ervan.
+
+## Afdeling 2 Verkavelingsvergunningen
+
+### ART. 4.6.4.
+
+§ 1. Een verkavelingsvergunning, waarbij geen nieuwe wegen worden   aangelegd, of het tracé van bestaande gemeentewegen niet moet worden gewijzigd,   verbreed of opgeheven, vervalt van rechtswege wanneer :<BR>1° binnen een termijn   van vijf jaar na de afgifte van de vergunning in laatste administratieve aanleg   niet is overgegaan tot registratie van de verkoop, de verhuring voor meer dan   negen jaar, of de vestiging van erfpacht of opstalrecht ten aanzien van ten   minste één derde van de kavels;<BR>2° binnen een termijn van tien jaar na de   afgifte van de vergunning in laatste administratieve aanleg niet is overgegaan   tot dergelijke registratie ten aanzien van ten minste twee derde van de   kavels.<BR><BR>Voor de toepassing van het eerste lid :<BR>1° wordt met verkoop   gelijkgesteld : de nalatenschapsverdeling en de schenking, met dien verstande   dat slechts één kavel per deelgenoot of begunstigde in aanmerking komt;<BR>2°   komt de verkoop van de verkaveling in haar geheel niet in aanmerking;<BR>3° komt   alleen de huur die erop gericht is de huurder te laten bouwen op het gehuurde   goed in aanmerking.<BR><BR>§ 2. Een verkavelingsvergunning waarbij nieuwe wegen   worden aangelegd, of waarbij het tracé van bestaande gemeentewegen gewijzigd,   verbreed of opgeheven wordt, vervalt van rechtswege wanneer :<BR>1° binnen een   termijn van vijf jaar na de afgifte van de vergunning in laatste administratieve   aanleg niet is overgegaan tot de oplevering van de onmiddellijk uit te voeren   lasten of tot het verschaffen van waarborgen betreffende de uitvoering van deze   lasten op de wijze, vermeld in artikel 4.2.20, § 1;<BR>2° binnen een termijn van   tien jaar na de afgifte van de vergunning in laatste aanleg niet is overgegaan   tot registratie van de in § 1 vermelde rechtshandelingen ten aanzien van ten   minste één derde van de kavels;<BR>3° binnen een termijn van vijftien jaar na de   afgifte van de vergunning in laatste aanleg niet is overgegaan tot registratie   van de in § 1 vermelde rechtshandelingen ten aanzien van ten minste twee derde   van de kavels.<BR><BR>§ 3. ...<BR><BR>§ 4. Indien de verkavelingsvergunning   uitdrukkelijk melding maakt van de verschillende fasen van het   verkavelingsproject, worden de termijnen van verval, vermeld in § 1, § 2 en § 3,   gerekend per fase. Voor de tweede en volgende fasen worden de termijnen van   verval dientengevolge gerekend vanaf de aanvangsdatum van de betrokken   fase.<BR><BR>§ 5. Het verval, vermeld in § 1 en § 2, 2° en 3°, en § 3, geldt   slechts ten aanzien van het niet bebouwde, verkochte, verhuurde of aan een   erfpacht of opstalrecht onderworpen gedeelte van de verkaveling.<BR><BR>§ 6.   Onverminderd § 5, kan het verval van rechtswege niet worden tegengesteld aan   personen die zich op de verkavelingsvergunning beroepen, indien zij kunnen   aantonen dat de overheid, na het verval, en ten aanzien van één of meer van hun   kavels binnen de verkaveling, wijzigingen aan de verkavelingsvergunning heeft   toegestaan, of stedenbouwkundige of bouwvergunningen of stedenbouwkundige   attesten heeft verleend, in zoverre deze door de hogere overheid of de rechter   niet onrechtmatig werden bevonden.<BR><BR>§ 7. De Vlaamse Regering kan   maatregelen treffen aangaande de kennisgeving van het verval van   rechtswege.
+
+### ART. 4.6.5.
+
+§ 1. Een niet-vervallen verkavelingsvergunning kan worden herzien of opgeheven ingevolge de definitieve vaststelling van een ruimtelijk uitvoeringsplan of een bijzonder plan van aanleg, op voorwaarde dat dit bij de voorlopige en de definitieve vaststelling van het plan uitdrukkelijk aangegeven is, ten minste op het grafisch plan.<br /><br />In dat geval kan het voor de planopmaak bevoegde bestuursorgaan de schorsing gelasten van de verkoop of van de verhuring voor meer dan negen jaar en van de vestiging van een erfpacht of opstalrecht op het geheel of een gedeelte van de verkaveling.<br /><br />De Vlaamse Regering kan nadere regelen bepalen voor de toepassing van het tweede lid.<br /><br />§ 2. De bepalingen van dit artikel doen geen afbreuk aan de contractuele rechten tussen de verkavelaar en de eigenaars van de kavel, of tussen deze eigenaars onderling.
+
+### ART. 4.6.6.
+
+§ 1. Een niet-vervallen verkavelingsvergunning kan, voor wat het niet-vervallen gedeelte betreft, worden herzien of opgeheven op initiatief van het college van burgemeester en schepenen, na verloop van vijftien jaar na de afgifte van de verkavelingsvergunning in laatste administratieve aanleg.<br /><br />§ 2. Het college van burgemeester en schepenen plakt het voornemen om de herziening of de opheffing aan te vragen aan op de plaats waarop de verkavelingsvergunning betrekking heeft.<br /><br />Het college van burgemeester en schepenen brengt alle eigenaars van de kavels per beveiligde zending op de hoogte van het voornemen om de herziening of de opheffing aan te vragen. De kennisgeving vermeldt dat schriftelijke bezwaren kunnen worden ingediend bij het college van burgemeester en schepenen binnen een vervaltermijn van dertig dagen, die ingaat vanaf de datum van betekening. Indien de aanvraag onderworpen is aan een openbaar onderzoek, vermeldt de kennisgeving echter de aanvangsdatum en de sluitingsdatum van het openbaar onderzoek.<br /><br />§ 3. De procedurevoorschriften die van toepassing zijn op het verkrijgen van een verkavelingsvergunning, zijn eveneens van toepassing op de herziening of de opheffing van een verkavelingsvergunning. Het college van burgemeester en schepenen dient de aanvraag in overeenkomstig de bijzondere procedure, vermeld in artikel 4.7.26.<br /><br />§ 4. De herziening of opheffing wordt geweigerd als de eigenaars van meer dan één vierde van de in de oorspronkelijke vergunning toegestane kavels een ontvankelijk, gegrond en op ruimtelijke motieven gebaseerd schriftelijk bezwaar hebben ingediend.<br /><br />§ 5. De gewestelijke overheid die zich uitspreekt over de aanvraag kan de schorsing gelasten van de verkoop of van de verhuring voor meer dan negen jaar en van de vestiging van een erfpacht of opstalrecht op het geheel of een gedeelte van de verkaveling.<br /><br />§ 6. De Vlaamse Regering kan nadere procedurele regelen bepalen voor de toepassing van dit artikel.
+
+### ART. 4.6.7.
+
+§ 1. De eigenaar van een in een niet-vervallen verkavelingsvergunning   begrepen kavel kan een wijziging van de verkavelingsvergunning aanvragen voor   het deel dat hij in eigendom heeft.<BR><BR>Alvorens zijn aanvraag in te dienen,   verstuurt de eigenaar per beveiligde zending een afschrift van de aanvraag aan   alle eigenaars van een kavel die de aanvraag niet medeondertekend hebben. De   bewijzen van deze beveiligde zendingen worden op straffe van onontvankelijkheid   bij het aanvraagdossier gevoegd.<BR><BR>De aanvraag doorloopt dezelfde procedure   als een verkavelingsaanvraag,&nbsp; [... (vernietigd arrest GWH, arrest nr.   8/2011 van 27 januari 2011)].<BR><BR>§ 2. De wijziging van de   verkavelingsvergunning moet worden geweigerd als de eigenaars van meer dan de   helft van de in de oorspronkelijke vergunning toegestane kavels een   ontvankelijk, gegrond en op ruimtelijke motieven gebaseerd schriftelijk bezwaar   indienen bij het college van burgemeester en schepenen. Dat bezwaar moet worden   ingediend binnen een vervaltermijn van dertig dagen, die ingaat vanaf de datum   van overmaken van de beveiligde zending, vermeld in § 1, tweede   lid.
+
+### ART. 4.6.8.
+
+§ 1. Een verkavelaar kan eenzijdig afstand doen van uit de verkavelingsvergunning verkregen rechten, behoudens indien reeds een aanvang werd genomen met de verwezenlijking van de verkavelingsvergunning, hetzij door het stellen van één of meer rechtshandelingen, vermeld in artikel 4.6.4, § 1, hetzij door de uitvoering van de werken waaraan de aflevering van de verkavelingsvergunning verbonden werd.<br /><br />Aan een geheel of gedeeltelijk verwezenlijkte verkavelingsvergunning kan wél worden verzaakt door de eigenaar die alle kavels heeft verworven, of in geval van akkoord van alle eigenaars.<br /><br />§ 2. Een verzaking wordt per beveiligde zending gemeld aan het vergunningverlenende bestuursorgaan.<br /><br />§ 3. De verzaking heeft eerst gevolg vanaf de akteneming ervan door het vergunningverlenende bestuursorgaan.<br /><br />Het vergunningverlenende bestuursorgaan stelt de persoon die verzaakt van die akteneming in kennis.
+
+## HOOFDSTUK VII Administratieve procedure
+
+## Afdeling 1 Algemene bepalingen
+
+## Onderafdeling 1 Reguliere en bijzondere procedure
+
+### ART. 4.7.1.
+
+§ 1. Er bestaan twee onderscheiden administratieve procedures voor de   toekenning van een vergunning :<BR>1° een reguliere procedure, vermeld in   afdeling 2;<BR>2° een bijzondere procedure, vermeld in afdeling 3, voor   handelingen van algemeen belang of voor aanvragen ingediend door   publiekrechtelijke of semipublieke rechtspersonen.<BR><BR>§ 2. In afwijking van   § 1 worden volgende aanvragen overeenkomstig de reguliere procedure ingediend en   behandeld :<BR>1° aanvragen uitgaande van een sociale woonorganisatie, vermeld   in het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<BR>2° aanvragen   voor vergunningen waaraan een last verbonden moet worden ingevolge artikel 4.2.5   van het decreet van 27 maart 2009 betreffende het grond- en   pandenbeleid.<BR><BR>De Vlaamse Regering kan daarenboven de handelingen van   algemeen belang of van publiekrechtelijke of semipublieke rechtspersonen   aanwijzen, dewelke omwille van hun beperkte ruimtelijke impact of de eenvoud van   het dossier binnen de reguliere procedure worden behandeld.<BR><BR>De   gemeentelijke overheid mag aan de gemeentelijke stedenbouwkundige ambtenaar geen   instructies geven over de advisering van aanvragen, vermeld in het eerste en   tweede lid. Zij mag over de uitoefening van die specifieke adviserende taak geen   verantwoording vragen. De wijze van uitoefening van die taak wordt te allen   tijde buiten beschouwing gelaten bij rechtspositionele beslissingen betreffende   de gemeentelijke stedenbouwkundige ambtenaar.<BR><BR>§ 3. Binnen de reguliere   procedure wordt een onderscheid gemaakt tussen ontvoogde en niet-ontvoogde   gemeenten.<BR><BR>Een gemeente is ontvoogd vanaf de bekendmaking, in het   Belgisch Staatsblad, van het uittreksel, vermeld in artikel 7.2.1, § 1, eerste   of tweede lid. De aanvragen voor een vergunning die aan het college van   burgemeester en schepenen worden betekend vóór de eerste dag van de tweede maand   na deze van de bekendmaking in het Belgisch Staatsblad, worden evenwel nog   behandeld volgens de procedureregelingen die gelden in hoofde van niet-ontvoogde   gemeenten.<BR><BR>Een gemeente is niet langer ontvoogd vanaf de bekendmaking, in   het Belgisch Staatsblad, van het uittreksel, vermeld in artikel 7.2.1, § 4. De   aanvragen voor een vergunning worden vanaf die datum behandeld volgens de   procedureregelingen die gelden in hoofde van niet-ontvoogde gemeenten. De   gewestelijke stedenbouwkundige ambtenaar brengt het advies, vermeld in artikel   4.7.16, § 2, uit over alle aanvragen waarover op die datum nog geen advies is   ingewonnen bij de instanties, vermeld in artikel 4.7.16, § 1, eerste   lid.<BR><BR>§ 4. Voor de toepassing van § 1, 2°, worden rechtspersonen beschouwd   als semipubliek, wanneer voldaan is aan beide hiernavolgende voorwaarden :<BR>1°   hun werkzaamheden worden in hoofdzaak gefinancierd of gesubsidieerd door één of   meer publiekrechtelijke rechtspersonen;<BR>2° hun werking is rechtstreeks of   onrechtstreeks onderworpen aan enig toezicht in hoofde van een   publiekrechtelijke rechtspersoon middels één van de hiernavolgende regimes   :<BR>a) een administratief toezicht,<BR>b) een toezicht op de aanwending van de   werkingsmiddelen,<BR>c) de aanwijzing, door een publiekrechtelijke   rechtspersoon, van ten minste de helft van de leden van de directie, van de raad   van bestuur, of van de raad van toezicht.<BR><BR>De Vlaamse Regering kan een   niet-limitatieve lijst opstellen van de semipublieke   rechtspersonen.
+
+### ART. 4.7.2.
+
+§ 1. Indien de instantie die binnen de reguliere procedure belast is met het ontvankelijkheidsonderzoek, vaststelt dat een vergunningsaanvraag ten onrechte binnen de reguliere procedure werd ingediend, dan stuurt zij deze aanvraag zo spoedig mogelijk door naar het vergunningverlenende bestuursorgaan binnen de bijzondere procedure. Dat bestuursorgaan stelt de aanvrager onmiddellijk in kennis van de overzending van de vergunningsaanvraag. De aanvraag wordt dan verder behandeld overeenkomstig de bijzondere procedure.<br /><br />Het beginsel, vermeld in het eerste lid, geldt, met de nodige veranderingen, indien een aanvraag ten onrechte binnen de bijzondere procedure werd ingediend.<br /><br />§ 2. Voor de toepassing van deze codex geldt de datum waarop het bevoegde vergunningverlenende bestuursorgaan de aanvrager in kennis stelt van het feit dat de vergunningsaanvraag overgezonden werd, als datum waarop de aanvraag werd ingediend.
+
+## Onderafdeling 2 Afstemming aanvraagprocedure stedenbouwkundige en milieuvergunning
+
+## Afdeling 2 Reguliere procedure
+
+## Onderafdeling 1 Administratieve procedure in eerste aanleg
+
+### ART. 4.7.12.
+
+Een vergunning wordt binnen de reguliere procedure afgeleverd door het college van burgemeester en schepenen van de gemeente waarin het voorwerp van de vergunning gelegen is.
+
+### ART. 4.7.13.
+
+De vergunningsaanvraag wordt, op straffe van onontvankelijkheid, per beveiligde zending bezorgd aan het college van burgemeester en schepenen van de gemeente waarin het voorwerp van de aanvraag gelegen is.<br /><br />De Vlaamse Regering bepaalt de nadere regelen omtrent de opbouw van het aanvraagdossier. Zij kan daarbij diverse vormen van dossiersamenstelling onderscheiden, naar gelang van de aard, de ruimtelijke implicaties en de complexiteit van de betrokken handelingen.
+
+### ART. 4.7.14.
+
+§ 1. De gemeentelijke stedenbouwkundige ambtenaar of zijn gemachtigde gaat na of de vergunningsaanvraag ontvankelijk en volledig is. In niet-ontvoogde gemeenten die nog niet over een gemeentelijke stedenbouwkundige ambtenaar beschikken, wordt dit ontvankelijkheids- en volledigheidsonderzoek gevoerd door de gemeentelijke administratie.<br /><br />Een vergunningsaanvraag is ontvankelijk en volledig indien voldaan is aan alle voorwaarden, vermeld in artikel 4.7.13, en de dossiergegevens een onderzoek ten gronde toelaten.<br /><br />§ 2. Het resultaat van het ontvankelijkheids- en volledigheidsonderzoek wordt per beveiligde zending aan de aanvrager verstuurd, binnen een ordetermijn van veertien dagen, ingaand de dag na deze waarop de aanvraag werd ingediend.<br /><br />§ 3. Het verdere verloop van de procedure in eerste aanleg en de beroepsprocedure gelden alleen ten aanzien van ontvankelijke en volledige aanvragen.
+
+### ART. 4.7.15.
+
+§ 1. De Vlaamse Regering bepaalt welke vergunningsaanvragen onderworpen zijn aan een openbaar onderzoek, onverminderd artikel 4.4.1, eerste lid. Aanvragen voor een vergunning waarvoor een milieueffectenrapport moet worden opgemaakt, zijn te allen tijde aan een openbaar onderzoek onderworpen. Hetzelfde geldt voor vergunningsaanvragen op grond van artikel 4.4.6, artikel 4.4.10 tot en met 4.4.23, en artikel 4.4.26, § 2.<br /><br />§ 2. Het openbaar onderzoek duurt dertig dagen. Iedereen kan gedurende deze termijn schriftelijke en mondelinge bezwaren en technische opmerkingen indienen.<br /><br />Het openbaar onderzoek gebeurt op kosten van de aanvrager.<br /><br />§ 3. Het college van burgemeester en schepenen of zijn gemachtigde stelt een proces-verbaal op van het openbaar onderzoek.<br /><br />Het proces-verbaal omvat ten minste een inventaris van de tijdens het openbaar onderzoek ingediende schriftelijke en mondelinge bezwaren en technische opmerkingen.
+
+### ART. 4.7.16.
+
+§ 1. De Vlaamse Regering wijst de instanties aan die over een vergunningsaanvraag advies verlenen.<br /><br />Deze adviezen hebben de gevolgen als omschreven in artikel 4.3.3 en artikel 4.3.4. In voorkomend geval sorteren zij ook de gevolgen als bepaald in artikel 4.4.6, eerste lid, van deze codex of in artikel 11, § 4, vierde lid, van het decreet van 3 maart 1976 tot bescherming van monumenten, stads- en dorpsgezichten.<br /><br />De adviezen worden uitgebracht binnen een vervaltermijn van dertig dagen, ingaand de dag na deze van de ontvangst van de adviesvraag. Indien deze termijn wordt overschreden, kan aan de adviesvereiste voorbij worden gegaan.<br /><br />§ 2. In niet-ontvoogde gemeenten wordt de vergunningsaanvraag daarenboven voor advies voorgelegd aan de gewestelijke stedenbouwkundige ambtenaar, behoudens in de gevallen bepaald door de Vlaamse Regering.<br /><br />De adviesaanvraag is vergezeld van een bundeling van de adviezen, vermeld in § 1, en van een vooradvies van het college van burgemeester en schepenen of zijn gemachtigde.<br /><br />Het advies van de gewestelijke stedenbouwkundige ambtenaar is bindend, voor zover het negatief is, of voorwaarden oplegt. Het wordt uitgebracht binnen een vervaltermijn van dertig dagen, ingaand de dag na deze van de ontvangst van de adviesvraag. Indien deze termijn wordt overschreden, kan aan de adviesvereiste voorbij worden gegaan.<br /><br />§ 3. Het college van burgemeester en schepenen of de gemeentelijke stedenbouwkundige ambtenaar kan beslissen de vergunningsaanvraag voor advies voor te leggen aan de gemeentelijke commissie voor ruimtelijke ordening.<br /><br />§ 4. De adviezen, vermeld in dit artikel, worden verstrekt ten aanzien van het college van burgemeester en schepenen.<br /><br />In ontvoogde gemeenten worden zij aangevraagd door de gemeentelijke stedenbouwkundige ambtenaar of zijn gemachtigde.<br /><br />In niet-ontvoogde gemeenten worden zij aangevraagd door het college van burgemeester en schepenen of zijn gemachtigde.
+
+### ART. 4.7.17.
+
+In ontvoogde gemeenten maakt de gemeentelijke stedenbouwkundige ambtenaar voor elke beslissing over een vergunningsaanvraag een verslag op, dat deel uitmaakt van het vergunningendossier. Het verslag kadert de aanvraag binnen de regelgeving, de stedenbouwkundige voorschriften, de eventuele verkavelingsvoorschriften en een goede ruimtelijke ordening, en omvat desgevallend een voorstel van antwoord op de bezwaarschriften in het kader van het gevoerde openbaar onderzoek.
+
+### ART. 4.7.18.
+
+§ 1. Het college van burgemeester en schepenen neemt over de vergunningsaanvraag een beslissing binnen een vervaltermijn van :<br />1° zo de aanvraag een stedenbouwkundige vergunning betreft :<br />a) vijfenzeventig dagen, indien het aangevraagde gelegen is in een ontvoogde gemeente, over de aanvraag geen openbaar onderzoek moet worden gevoerd, en de aanvraag niet is samengevoegd met een milieuvergunningsaanvraag op de wijze, vermeld in artikel 4.7.3,<br />b) honderd en vijf dagen, in alle andere gevallen;<br />2° zo de aanvraag een verkavelingsvergunning betreft : honderdvijftig dagen.<br /><br />De vervaltermijnen gaan in de dag na deze waarop het resultaat van het ontvankelijkheids- en volledigheidsonderzoek aan de aanvrager wordt verstuurd. Zij gaan echter steeds ten laatste in op de dertigste dag na deze waarop de aanvraag werd ingediend.<br /><br />§ 2. Indien geen beslissing wordt genomen binnen de vervaltermijn, vermeld in § 1, wordt de aanvraag geacht afgewezen te zijn.
+
+### ART. 4.7.19.
+
+§ 1. Een afschrift van de uitdrukkelijke beslissing of een kennisgeving van de stilzwijgende beslissing wordt binnen een ordetermijn van tien dagen en per beveiligde zending bezorgd aan de aanvrager en aan de gewestelijke stedenbouwkundige ambtenaar. De gewestelijke stedenbouwkundige ambtenaar ontvangt ook een afschrift van het vergunningendossier, behoudens indien hij omtrent de vergunningsaanvraag een advies heeft verstrekt.<br /><br />Een afschrift van de uitdrukkelijke beslissing of een kennisgeving van de stilzwijgende beslissing wordt tevens bezorgd aan :<br />1° de adviserende instanties, vermeld in artikel 4.7.16, § 1, eerste lid;<br />2° de toezichthoudende architect, indien deze daarom verzoekt.<br /><br />De Vlaamse Regering bepaalt de gevallen waarin ontvoogde gemeenten geen afschriften of kennisgevingen moeten overmaken aan de gewestelijke stedenbouwkundige ambtenaar omwille van de beperkte ruimtelijke impact van de vergunde handelingen of de eenvoud van het dossier.<br /><br />§ 2. Op bevel van de bevoegde burgemeester wordt de uitdrukkelijke of stilzwijgende beslissing gedurende een periode van dertig dagen aangeplakt op de plaats waarop de vergunningsaanvraag betrekking heeft.<br /><br />De bevoegde burgemeester waakt er over dat tot aanplakking wordt overgegaan binnen een termijn van tien dagen te rekenen vanaf de datum van de beslissing van het college van burgemeester en schepenen.<br /><br />De burgemeester of zijn gemachtigde attesteert de aanplakking. Op eenvoudig verzoek levert het gemeentebestuur een gewaarmerkt afschrift van dit attest af aan elke belanghebbende, vermeld in artikel 4.7.21, § 2.<br /><br />§ 3. Van een vergunning mag gebruik worden gemaakt als de aanvrager niet binnen vijfendertig dagen, te rekenen vanaf de dag van aanplakking, op de hoogte werd gebracht van de instelling van een administratief beroep. Indien een administratief beroep wordt ingesteld, geldt artikel 4.7.21, § 8. Deze bepaling geldt onverminderd artikel 4.5.1, § 2, van deze codex en artikel 4.2.6, § 2, eerste lid, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.<br /><br />§ 4. Een door de gemeente gewaarmerkt afschrift van de vergunning en het bijhorende dossier ligt tijdens de duur van de werkzaamheden in uitvoering van de vergunning ter beschikking op de plaats die het voorwerp uitmaakt van de vergunning.
+
+### ART. 4.7.20.
+
+De Vlaamse Regering bepaalt de minimale organisatorische en procedurele vereisten bij de inrichting van een openbaar onderzoek, vermeld in artikel 4.7.15. Zij kan de colleges van burgemeester en schepenen belasten met de operationalisering van deze minimale vereisten in een reglement.<br /><br />De Vlaamse Regering kan voorts nadere formele en procedurele regelen bepalen betreffende de procedure in eerste aanleg, in het bijzonder :<br />1° de omschrijving van in de procedure te hanteren termijnen van orde;<br />2° de omschrijving van de vorm van het verslag van de gemeentelijke stedenbouwkundige ambtenaar.<br /><br />De Vlaamse Regering kan ten slotte bepalen welke maatregelen niet-ontvoogde gemeenten dienen te nemen om het gebrek aan een verslag van de gemeentelijke stedenbouwkundige ambtenaar te compenseren.
+
+## Onderafdeling 2 Administratieve beroepsprocedure
+
+### ART. 4.7.21.
+
+§ 1. Tegen de uitdrukkelijke of stilzwijgende beslissing van het college van burgemeester en schepenen omtrent de vergunningsaanvraag kan een georganiseerd administratief beroep worden ingesteld bij de deputatie van de provincie waarin de gemeente is gelegen. Bij het behandelen van het beroep onderzoekt de deputatie de aanvraag in haar volledigheid.<br /><br />§ 2. Het beroep, vermeld in § 1, kan door volgende belanghebbenden worden ingesteld :<br />1° de aanvrager van de vergunning;<br />2° elke natuurlijke persoon of rechtspersoon die rechtstreekse of onrechtstreekse hinder of nadelen kan ondervinden ingevolge de bestreden beslissing;<br />3° procesbekwame verenigingen die optreden namens een groep wiens collectieve belangen door de bestreden beslissing zijn bedreigd of geschaad, voor zover zij beschikken over een duurzame en effectieve werking overeenkomstig de statuten;<br />4° de gewestelijke stedenbouwkundige ambtenaar, behoudens in de gevallen, vermeld in artikel 4.7.19, § 1, derde lid;<br />5° de adviserende instanties aangewezen krachtens artikel 4.7.16, § 1, eerste lid, op voorwaarde dat zij tijdig advies hebben verstrekt of ten onrechte niet om advies werden verzocht.<br /><br />§ 3. Het beroep wordt op straffe van onontvankelijkheid ingesteld binnen een termijn van dertig dagen, die ingaat :<br />1° voor wat betreft het beroep ingesteld door de aanvrager : de dag na deze waarop het afschrift of de kennisgeving, vermeld in artikel 4.7.19, § 1, eerste lid, werd betekend;<br />2° voor wat betreft het beroep ingesteld door de gewestelijke stedenbouwkundige ambtenaar of door de adviserende instanties aangewezen krachtens artikel 4.7.16, § 1, eerste lid : de dag na deze waarop het afschrift of de kennisgeving, vermeld in artikel 4.7.19, § 1, tweede lid, werd betekend;<br />3° voor wat betreft het beroep ingesteld door elke andere belanghebbende : de dag na deze van aanplakking.<br /><br />§ 4. Het beroepschrift wordt op straffe van onontvankelijkheid per beveiligde zending ingediend bij de deputatie.<br /><br />De indiener van het beroep bezorgt gelijktijdig en per beveiligde zending een afschrift van het beroepschrift aan de aanvrager van de vergunning en aan het college van burgemeester en schepenen, in zoverre zij niet zelf de indiener van het beroep zijn. Aan de deputatie wordt, op straffe van onontvankelijkheid van het beroep, een bewijs bezorgd van deze beveiligde zending aan de aanvrager en aan het college.<br /><br />§ 5. In de gevallen, vermeld in § 2, eerste lid, 1°, 2° en 3°, dient het beroepschrift op straffe van onontvankelijkheid vergezeld te zijn van het bewijs dat een dossiervergoeding van 62,50 euro betaald werd, behalve als het beroep gericht is tegen een stilzwijgende weigering. De dossiervergoeding is verschuldigd op rekening van de provincie.<br /><br />§ 6. De daartoe aangewezen provinciale ambtenaar maakt een afschrift van het beroepschrift over aan de gewestelijke stedenbouwkundige ambtenaar.<br /><br />§ 7. Het college van burgemeester en schepenen maakt het vergunningsdossier of een afschrift daarvan over aan de deputatie, en zulks onverwijld na de ontvangst van het afschrift van het beroepschrift.<br /><br />§ 8. Het indienen van een beroepschrift schorst onmiddellijk de uitvoering van de vergunning tot aan de betekening van de beroepsbeslissing aan de aanvrager.
+
+### ART. 4.7.22.
+
+De provinciale stedenbouwkundige ambtenaar maakt voor elke beslissing in beroep een verslag op. Het verslag kadert de vergunningsaanvraag binnen de regelgeving, de stedenbouwkundige voorschriften, de eventuele verkavelingsvoorschriften en een goede ruimtelijke ordening. De provinciale stedenbouwkundige ambtenaar kan bij zijn onderzoek bijkomende inlichtingen inwinnen bij de adviserende instanties aangewezen krachtens artikel 4.7.16, § 1, eerste lid.<br /><br />Het vergunningsdossier van het college van burgemeester en schepenen wordt aan het verslag toegevoegd.
+
+### ART. 4.7.23.
+
+§ 1. De deputatie neemt haar beslissing omtrent het ingestelde beroep op grond van het verslag van de provinciaal stedenbouwkundige ambtenaar en nadat zij of haar gemachtigde de betrokken partijen op hun verzoek schriftelijk of mondeling heeft gehoord.<br /><br />De Vlaamse Regering kan nadere regelen met betrekking tot de hoorprocedure bepalen.<br /><br />§ 2. De deputatie neemt haar beslissing binnen een vervaltermijn van vijfenzeventig dagen, die ingaat de dag na deze van de betekening van het beroep. Deze vervaltermijn wordt verlengd tot honderdvijf dagen, indien toepassing wordt gemaakt van het mondelinge of schriftelijke hoorrecht, vermeld in § 1, eerste lid.<br /><br />Indien geen beslissing wordt genomen binnen de toepasselijke vervaltermijn, wordt het beroep geacht afgewezen te zijn.<br /><br />§ 3. Een afschrift van de uitdrukkelijke beslissing of een kennisgeving van de stilzwijgende beslissing wordt binnen een ordetermijn van tien dagen gelijktijdig en per beveiligde zending bezorgd aan de indiener van het beroep en aan de vergunningsaanvrager.<br /><br />Een afschrift van de uitdrukkelijke beslissing of een kennisgeving van de stilzwijgende beslissing wordt tevens bezorgd aan volgende personen of instanties, voor zover zij zelf niet de indiener van het beroep zijn :<br />1° het college van burgemeester en schepenen;<br />2° de gewestelijke stedenbouwkundige ambtenaar.<br /><br />Aan de gewestelijke stedenbouwkundige ambtenaar wordt tevens een kopie van het volledige dossier bezorgd.<br /><br />§ 4. Op bevel van de bevoegde burgemeester wordt de uitdrukkelijke of stilzwijgende beslissing gedurende een periode van dertig dagen aangeplakt op de plaats waarop de vergunningsaanvraag betrekking heeft.<br /><br />De bevoegde burgemeester waakt er over dat tot aanplakking wordt overgegaan binnen een termijn van tien dagen te rekenen vanaf de datum van de ontvangst, door het gemeentebestuur, van een afschrift van de uitdrukkelijke beslissing of een kennisgeving van de stilzwijgende beslissing.<br /><br />De burgemeester of zijn gemachtigde attesteert de aanplakking. Op eenvoudig verzoek levert het gemeentebestuur een gewaarmerkt afschrift van dit attest af aan elke belanghebbende, vermeld in artikel 4.8.16, § 1, eerste lid.<br /><br />§ 5. Van een vergunning, afgegeven door de deputatie, mag gebruik worden gemaakt vanaf de zesendertigste dag na de dag van aanplakking. Hetzelfde geldt voor de vergunning, afgegeven door het college van burgemeester en schepenen, waartegen het beroep door de deputatie stilzwijgend is afgewezen.<br /><br />Het eerste lid geldt onverminderd artikel 4.5.1, § 2, van deze codex en artikel 4.2.6, § 2, eerste lid, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.
+
+### ART. 4.7.24.
+
+De deputatie voegt beroepen tegen dezelfde beslissing verplicht samen. Alle betrokken partijen worden onverwijld in kennis gesteld van de samenvoeging.<br /><br />In geval van samenvoeging gaat de toepasselijke vervaltermijn, vermeld in artikel 4.7.23, § 2, eerste lid, in de dag na deze van betekening van het laatst ingestelde beroep.
+
+### ART. 4.7.25.
+
+De Vlaamse Regering kan nadere formele en procedureregelen in beroep bepalen, in het bijzonder wat betreft :<br />1° de opbouw van het beroepschrift;<br />2° de samenstelling van het beroepsdossier.
+
+## Afdeling 3 Bijzondere procedure
+
+### ART. 4.7.26.
+
+§ 1. Een vergunning wordt binnen de bijzondere procedure afgeleverd door :<br />1° hetzij de Vlaamse Regering of de gedelegeerde stedenbouwkundige ambtenaar, voor zover het aangevraagde onderworpen is aan de verplichting tot het opmaken van een milieueffectrapportage, of in aanmerking komt voor een gemotiveerd verzoek tot ontheffing van deze verplichting;<br />2° hetzij de gewestelijke stedenbouwkundige ambtenaar.<br /><br />§ 2. De Vlaamse Regering kan bepalen welke vergunningsaanvragen binnen de bijzondere procedure blijk moeten geven van vooroverleg met of instemming van de Vlaamse Bouwmeester.<br /><br />§ 3. Het vergunningverlenende bestuursorgaan of zijn gemachtigde onderzoekt of een vergunningsaanvraag ontvankelijk en volledig is. Een vergunningsaanvraag is ontvankelijk en volledig indien voldaan is aan de krachtens § 5 bepaalde ontvankelijkheidsvereisten en de dossiergegevens een onderzoek ten gronde toelaten.<br /><br />Het resultaat van het ontvankelijkheids- en volledigheidsonderzoek wordt per beveiligde zending aan de aanvrager verstuurd, binnen een ordetermijn van veertien dagen, ingaand de dag na deze waarop de aanvraag werd ingediend.<br /><br />§ 4. Ten aanzien van ontvankelijke vergunningsaanvragen wordt verder gehandeld overeenkomstig de hiernavolgende regelen :<br />1° in de door de Vlaamse Regering bepaalde gevallen, en telkens de vergunningsaanvraag het voorwerp moet uitmaken van een milieueffectrapport of gegrond is op artikel 4.4.6, artikel 4.4.10 tot en met 4.4.23, en artikel 4.4.26, § 2, wordt de vergunningsaanvraag onderworpen aan een openbaar onderzoek, met inachtneming van volgende regelingen :<br />a) het openbaar onderzoek duurt dertig dagen, of, indien een milieueffectrapport moet worden opgemaakt, zestig dagen,<br />b) iedereen kan gedurende deze termijn schriftelijke en mondelinge bezwaren en technische opmerkingen indienen,<br />c) het openbaar onderzoek gebeurt op kosten van de aanvrager,<br />d) het college van burgemeester en schepenen of zijn gemachtigde stelt een proces-verbaal op van het openbaar onderzoek,<br />e) het proces-verbaal omvat ten minste een inventaris van de tijdens het openbaar onderzoek ingediende schriftelijke en mondelinge bezwaren en technische opmerkingen;<br />2° het vergunningverlenende bestuursorgaan of zijn gemachtigde wint het voorafgaand advies in van de door de Vlaamse Regering aangewezen instanties en van het college van burgemeester en schepenen, rekening houdend met volgende regelingen :<br />a) indien de vergunningsaanvraag niet onderworpen is aan een openbaar onderzoek, worden alle adviezen uitgebracht binnen een termijn van dertig dagen, ingaand de dag na deze van de ontvangst van de adviesvraag, met dien verstande dat aan de adviesvereiste voorbij kan worden gegaan indien de adviezen niet tijdig worden uitgebracht,<br />b) indien de vergunningsaanvraag onderworpen is aan een openbaar onderzoek :<br />1) valt de adviseringstermijn in hoofde van de door de Vlaamse Regering aangewezen instanties samen met de duur van het openbaar onderzoek, met dien verstande dat aan de adviesvereiste voorbij kan worden gegaan indien de adviezen niet tijdig worden uitgebracht,<br />2) bezorgt het college van burgemeester en schepenen het proces-verbaal van het openbaar onderzoek, de gebundelde bezwaren en opmerkingen en zijn eigen advies aan het vergunningverlenende bestuursorgaan binnen een ordetermijn van dertig dagen, die ingaat de dag na deze waarop het openbaar onderzoek werd afgesloten;<br />3° het vergunningverlenende bestuursorgaan neemt over de vergunningsaanvraag een beslissing binnen een vervaltermijn van zestig dagen, die ingaat hetzij de dag na deze van het verstrijken van de adviseringstermijn, vermeld in 2°, a), hetzij de dag na deze van de ontvangst van de in stukken, vermeld in 2°, b), 2);<br />4° indien het vergunningverlenende bestuursorgaan niet tijdig beslist, wordt de aanvraag geacht afgewezen te zijn;<br />5° een afschrift van de uitdrukkelijke beslissing of een kennisgeving van de stilzwijgende beslissing wordt binnen een ordetermijn van tien dagen gelijktijdig en per beveiligde zending bezorgd aan de aanvrager en aan het college van burgemeester en schepenen, voor zover dat niet zelf de vergunning heeft aangevraagd;<br />6° op bevel van de bevoegde burgemeester wordt de uitdrukkelijke of stilzwijgende beslissing gedurende een periode van dertig dagen aangeplakt op de plaats waarop de vergunningsaanvraag betrekking heeft, waarbij de bevoegde burgemeester erover waakt dat tot aanplakking wordt overgegaan binnen een termijn van tien dagen te rekenen vanaf de datum van de ontvangst, door het gemeentebestuur, van een afschrift van de uitdrukkelijke beslissing of een kennisgeving van de stilzwijgende beslissing;<br />7° de burgemeester of zijn gemachtigde attesteert de aanplakking en levert op eenvoudig verzoek van elke belanghebbende, vermeld in artikel 4.8.16, § 1, eerste lid, een gewaarmerkt afschrift van dit attest af.<br /><br />Van een vergunning, afgegeven binnen de bijzondere procedure, mag gebruik worden gemaakt vanaf de zesendertigste dag na de dag van aanplakking. Deze bepaling geldt onverminderd artikel 4.5.1, § 2.<br /><br />§ 5. De Vlaamse Regering kan nadere formele en procedurele regelen bepalen voor de toepassing van dit artikel.
+
+## HOOFDSTUK VIII [Raad voor vergunningsbetwistingen (verv. decr. 6 juli 2012, art. 5, I: 1 september 2012)]
+
+## Afdeling 1 Oprichting
+
+### ART. 4.8.1.
+
+Er wordt een Raad voor vergunningsbetwistingen opgericht, hierna de Raad te noemen.<br /><br />De Raad spreekt zich als administratief rechtscollege uit over beroepen die worden ingesteld tegen :<br />1° vergunningsbeslissingen, zijnde uitdrukkelijke of stilzwijgende bestuurlijke beslissingen, genomen in laatste administratieve aanleg, betreffende het afleveren of weigeren van een vergunning;<br />2° valideringsbeslissingen, zijnde bestuurlijke beslissingen houdende de validering of de weigering tot validering van een as-builtattest;<br />3° registratiebeslissingen, zijnde bestuurlijke beslissingen waarbij een constructie als « vergund geacht » wordt opgenomen in het vergunningenregister, of waarbij dergelijke opname geweigerd wordt.
+
+## Afdeling 2 Bevoegdheid
+
+## [Onderafdeling 1. Vernietiging (ing.Decr. 6 juli 2012, art. 5, I: 1 september 2012)]
+
+### ART. 4.8.2.
+
+De Vlaamse Regering bepaalt de zetel van de Raad.
+
+## [Onderafdeling 2. Schorsing (ing. Decr. 6 juli 2012, art. 5, I: 1 september 2012)]
+
+### ART. 4.8.3.
+
+§ 1. Zo de Raad vaststelt dat een bestreden vergunnings-, validerings- of registratiebeslissing onregelmatig is, vernietigt hij deze beslissing. Een beslissing is onregelmatig, wanneer zij strijdt met regelgeving, stedenbouwkundige voorschriften of beginselen van behoorlijk bestuur.<br /><br />De Raad kan het bestuur dat de vernietigde beslissing nam, bevelen om een nieuwe beslissing te nemen, binnen de door de Raad bepaalde termijn. De Raad kan in dat verband :<br />1° welbepaalde onregelmatige of kennelijk onredelijke motieven aanwijzen die bij de totstandkoming van de nieuwe beslissing niet kunnen worden betrokken;<br />2° specifieke rechtsregelen of rechtsbeginselen aanwijzen die bij de totstandkoming van de nieuwe beslissing moeten worden betrokken;<br />3° de procedurele handelingen omschrijven die voorafgaand aan de nieuwe beslissing moeten worden gesteld.<br /><br />§ 2. De Raad kan ambtshalve middelen inroepen, die niet in het verzoekschrift zijn opgenomen, voor zover deze middelen de openbare orde betreffen.<br /><br />De kennelijke onredelijkheid of onzorgvuldigheid van de toetsing, door de overheid, aan de goede ruimtelijke ordening wordt steeds geacht een middel van openbare orde uit te maken.<br /><br />§ 3. De voorzitter van de Raad is bevoegd tot het nemen van de voorlopige voorzieningen, vermeld in artikel 4.8.13.
+
+## Onderafdeling 3. ...
+
+### ART. 4.8.4.
+
+<P>...</P>
+
+## [Onderafdeling 4. Bemiddeling (ing. Decr. 6 juli 2012, art. 5, I: 1 september 2012)]
+
+### ART. 4.8.5.
+
+§ 1. De Vlaamse Regering benoemt de raadsleden voor het leven.<br /><br />Niemand kan tot raadslid worden benoemd tenzij hij :<br />1° houder is van een masterdiploma in de rechten;<br />2° ten minste zevenendertig jaar oud is op het ogenblik van de benoeming;<br />3° een grondige kennis heeft van en ten minste tien jaar nuttige ervaring heeft in het domein van het Vlaamse ruimtelijkeordeningsrecht.<br /><br />De Vlaamse Regering maakt de oproepen tot de kandidaat-raadsleden bekend in het Belgisch Staatsblad. Kandidaturen worden op straffe van onontvankelijkheid overgemaakt per beveiligde zending, binnen een termijn van één maand na de bekendmaking.<br /><br />Kandidaten worden getoetst aan de uitsluitingscriteria, vermeld in het tweede lid. Zij worden vergeleken op grond van de drie volgende selectiecriteria :<br />1° de mate van vertrouwdheid met het Vlaamse ruimtelijkeordeningsrecht, gewogen aan de hand van een factor 0,4;<br />2° de mate van vertrouwdheid met procesvoering en rechtsbescherming in bestuurlijke aangelegenheden, gewogen aan de hand van een factor 0,4;<br />3° de organisatorische capaciteiten, gewogen aan de hand van een factor 0,2.<br /><br />De beoordeling in de zin van het vierde lid geschiedt door de Raad. Bij de eerste samenstelling van de Raad gebeurt de beoordeling evenwel door de Hoge Raad voor het Handhavingsbeleid of diens rechtsvoorganger. De beoordeling geschiedt aan de hand van een vergelijking van de curricula van de kandidaten, aangevuld met een interview met de batig gerangschikte kandidaten. De beoordelende instantie kan zich laten bijstaan door Jobpunt Vlaanderen of zijn rechtsopvolger, met het oog op de vergelijking op grond van het selectiecriterium, vermeld in het vierde lid, 3°.<br /><br />De Raad of, overgangsmatig, de Hoge Raad voor het Handhavingsbeleid of diens rechtsvoorganger, brengt op grond van de beoordeling van de kandidaten een voordracht uit.<br /><br />De Vlaamse Regering benoemt de raadsleden op grond van de voordracht, vermeld in het zesde lid. De raadsleden nemen hun ambt op nadat zij in handen van de minister-president van de Vlaamse Regering volgende eed hebben afgelegd : « Ik zweer de verplichtingen van mijn ambt na te komen ».<br /><br />§ 2. De raadsleden ontvangen de bezoldiging, de toelagen en de vergoedingen die de Vlaamse Regering bepaalt.<br /><br />§ 3. Het ambt van raadslid wordt voltijds uitgeoefend.<br /><br />Het ambt is onverenigbaar met bezoldigde beroepsactiviteiten, functies of mandaten. De Vlaamse Regering kan een uitdrukkelijke afwijking op dat verbod toestaan, in zoverre het gaat om een deeltijds lesgeverschap aan een instelling voor hoger onderwijs.<br /><br />§ 4. De raadsleden kunnen op ieder moment ontslag nemen. Zij blijven evenwel hun functie uitoefenen, totdat in hun vervanging is voorzien.<br /><br />De raadsleden kunnen enkel door de Raad worden ontzet uit hun ambt, of daarin worden geschorst, in geval van grove nalatigheid of kennelijk wangedrag.
+
+## Afdeling 3 [Procedure (verv. Decr. 6 juli 2012, art. 5, I: 1 september 2012)]
+
+## [Onderafdeling 1. Algemeen (ing. Decr. 6 juli 2012, art. 5, I: 1 september 2012)]
+
+### ART. 4.8.6.
+
+§ 1. De Raad benoemt zijn griffiers.<br /><br />Niemand kan tot griffier worden benoemd tenzij hij :<br />1° houder is van een masterdiploma in de rechten;<br />2° een nuttige juridische beroepservaring van ten minste vijf jaar kan doen gelden.<br /><br />§ 2. De Raad benoemt zijn adviseurs op grond van een vergelijkende proef waarvan de Raad de voorwaarden bepaalt. De examenuitslag blijft drie jaar geldig.<br /><br />Niemand kan tot adviseur worden benoemd tenzij hij :<br />1° houder is van een masterdiploma;<br />2° ten minste vijf jaar nuttige ervaring heeft op het vlak van de Vlaamse ruimtelijke ordening.<br /><br />§ 3. De Raad benoemt de leden van zijn administratief personeel. Hij kan deze bevoegdheid geheel of gedeeltelijk aan de voorzitter opdragen.
+
+### ART. 4.8.7.
+
+De geldelijke en administratieve rechtspositieregelingen die gelden in hoofde van het personeel van de diensten van de Vlaamse overheid, zijn van overeenkomstige toepassing op de griffiers, de adviseurs, en de leden van het administratief personeel. De Vlaamse Regering bepaalt de uitzonderingen waarvan de noodzakelijkheid blijkt.
+
+### ART. 4.8.8.
+
+De Raad kiest uit zijn midden jaarlijks een voorzitter.<br /><br />De voorzitter is belast met de dagelijkse leiding van de Raad. Hij staat in voor het opmaken en opvolgen van een beleidsplan.
+
+### ART. 4.8.9.
+
+De Raad neemt een reglement van orde aan, dat door de Vlaamse Regering bekrachtigd moet worden.<br /><br />Het reglement van orde treedt in werking de dag van bekendmaking in het Belgisch Staatsblad.
+
+### ART. 4.8.10.
+
+Het reglement van orde deelt de Raad in Kamers in en bepaalt de wijze waarop beroepsdossiers aan de Kamers worden toegewezen.<br /><br />De Kamers houden zitting met één raadslid. Zij houden evenwel zitting met drie raadsleden in de gevallen waarin zulks nodig wordt geacht om de eenheid van de rechtspraak te verzekeren of wanneer juridische moeilijkheden daartoe grond opleveren. De Raad wijst de kamervoorzitters van de meervoudige kamers aan.<br /><br />De Raad wijst elke griffier toe aan één of meer Kamers.
+
+## [Onderafdeling 2. Aanhangigmaking (ing. Decr. 6 juli 2012, art. 5, I: 1 september 2012)]
+
+### ART. 4.8.11.
+
+De partijen kunnen zich bij een procedure voor de Raad doen bijstaan of laten vertegenwoordigen door een raadsman.<br /><br />Indien deze raadsman optreedt als vertegenwoordiger, legt hij een schriftelijke machtiging daartoe voor, behoudens indien :<br />1° de raadsman ingeschreven is als advocaat of als advocaat-stagiair;<br />2° de raadsman verschijnt samen met de partij die hij vertegenwoordigt.
+
+### ART. 4.8.12.
+
+§ 1. De partijen kunnen één of meer raadsleden van de bevoegde Kamer schriftelijk en op gemotiveerde wijze wraken vóór de aanvang van de zitting, tenzij de reden tot wraking later is ontstaan. De voorzitter, of, zo deze wordt gewraakt, het oudste raadslid, doet onmiddellijk uitspraak over het verzoek tot wraking. Zo het verzoek wordt ingewilligd, wordt het gewraakte raadslid vervangen.<br /><br />Het raadslid dat weet dat er een reden tot wraking tegen hem bestaat, onthoudt zich van de zaak en laat zich vervangen.<br /><br />§ 2. De redenen tot wraking zijn dezelfde als deze, vermeld in artikel 828, 829, tweede lid en 830 van het Gerechtelijk Wetboek.
+
+### ART. 4.8.13.
+
+In elke stand van het dossier kan de voorzitter van de Raad, ter voorkoming van een moeilijk te herstellen ernstig nadeel, een bestreden vergunningsbeslissing schorsen bij wijze van voorlopige voorziening. De schorsingsbeslissing wordt ambtshalve of op verzoek genomen.
+
+## [Onderafdeling 3. Vereenvoudigde behandeling (ing. Decr. 6 juli 2012, art. 5, I: 1 september 2012)]
+
+### ART. 4.8.14.
+
+Alle processtukken worden aan de Raad toegezonden per beveiligde zending, op straffe van onontvankelijkheid.<br /><br />De Raad verricht alle betekeningen, kennisgevingen en oproepingen per beveiligde zending. Deze zendingen mogen echter bij gewone brief worden gedaan wanneer de ontvangst ervan geen termijn doet ingaan.
+
+## [Onderafdeling 4. Schorsing (ing. Decr. 6 juli 2012, art. 5, I: 1 september 2012)]
+
+### ART. 4.8.15.
+
+De Raad voert rechtstreeks briefwisseling met alle besturen die hij nuttig acht.<br /><br />Hij is gerechtigd alle bescheiden en inlichtingen omtrent de zaken waarover hij zich uit te spreken heeft, door deze besturen te doen overleggen.
+
+### ART. 4.8.16.
+
+§ 1. De beroepen bij de Raad kunnen door volgende belanghebbenden worden   ingesteld :<BR>1° de aanvrager van de vergunning of van het as-builtattest,   respectievelijk de persoon die beschikt over zakelijke of persoonlijke rechten   ten aanzien van een constructie die het voorwerp uitmaakt van een   registratiebeslissing, of die deze constructie feitelijk gebruikt;<BR>2° de bij   het dossier betrokken vergunningverlenende bestuursorganen;<BR>3° elke   natuurlijke persoon of rechtspersoon die rechtstreekse of onrechtstreekse hinder   of nadelen kan ondervinden ingevolge de vergunnings-, validerings- of   registratiebeslissing;<BR>4° procesbekwame verenigingen die optreden namens een   groep wiens collectieve belangen door de vergunnings-, validerings- of   registratiebeslissing zijn bedreigd of geschaad, voor zover zij beschikken over   een duurzame en effectieve werking overeenkomstig de statuten;<BR>5° de   gewestelijke stedenbouwkundige ambtenaar, voor wat betreft vergunningen   afgegeven binnen de reguliere procedure, behoudens in de gevallen, vermeld in   artikel 4.7.19, § 1, derde lid;<BR>6° de bij het dossier betrokken adviserende   instanties aangewezen krachtens artikel 4.7.16, § 1, eerste lid, respectievelijk   artikel 4.7.26, § 4, 2°, op voorwaarde dat zij tijdig advies hebben verstrekt of   ten onrechte niet om advies werden verzocht.<BR><BR>De belanghebbende aan wie   kan worden verweten dat hij een voor hem nadelige vergunningsbeslissing niet   heeft bestreden door middel van het daartoe openstaande georganiseerd   administratief beroep bij de deputatie, wordt geacht te hebben verzaakt aan zijn   recht om zich tot de Raad te wenden.<BR><BR>§ 2. De beroepen worden ingesteld   binnen een vervaltermijn van dertig dagen, die ingaat als volgt :<BR>1° wat   betreft vergunningsbeslissingen :<BR>a) hetzij de dag na deze van de betekening,   wanneer dergelijke betekening vereist is,<BR>b)&nbsp; [... (vernietigd arrest   GWH, arrest nr. 8/2011 van 27 januari 2011)]<BR>2° wat betreft   valideringsbeslissingen :<BR>a) hetzij de dag na deze van de betekening, wanneer   dergelijke betekening vereist is,<BR>b)&nbsp; [... (vernietigd arrest GWH,   arrest nr. 8/2011 van 27 januari 2011)];<BR>3° wat betreft   registratiebeslissingen :<BR>a) hetzij de dag na deze van de betekening, wanneer   dergelijke betekening vereist is,<BR>b)&nbsp; [... (vernietigd arrest GWH,   arrest nr. 8/2011 van 27 januari 2011)]<BR><BR>§ 3. De beroepen worden ingesteld   bij wijze van verzoekschrift.<BR><BR>Het verzoekschrift wordt gedagtekend en   bevat :<BR>1° de naam, de hoedanigheid en het adres van de verzoeker;<BR>2° de   naam en het adres van de verweerder;<BR>3° het voorwerp van het beroep;<BR>4°   een uiteenzetting van de feiten;<BR>5° een omschrijving van :<BR>a) de   geschonden geachte regelgeving, stedenbouwkundige voorschriften of beginselen   van behoorlijk bestuur,<BR>b) de wijze waarop deze regelgeving, voorschriften of   beginselen naar het oordeel van de verzoeker geschonden wordt of   worden.<BR><BR>Het verzoekschrift omschrijft in voorkomend geval de redenen op   grond waarvan, bij wijze van voorlopige voorziening, om de schorsing van de   vergunningsbeslissing wordt verzocht.<BR><BR>Het reglement van orde kan nadere   vormvereisten vaststellen.<BR><BR>§ 4. De verzoeker kan aan het verzoekschrift   de overtuigingsstukken toevoegen die hij nodig acht.<BR><BR>De   overtuigingsstukken worden door de verzoeker gebundeld en op een inventaris   ingeschreven.<BR><BR>§ 5. Gelijktijdig met de indiening van het verzoekschrift   stuurt de verzoeker een afschrift van het verzoekschrift per beveiligde zending   en ter informatie aan de verweerder en aan de begunstigde van de vergunning of   de valideringsbeslissing.
+
+### ART. 4.8.17.
+
+§ 1. De griffier schrijft elk inkomend verzoekschrift in op een register.<br /><br />Hij maakt een afschrift van het verzoekschrift over aan de verweerder en aan de belanghebbenden bij de zaak, vermeld in artikel 4.8.16, § 1, eerste lid, voor zover zij kunnen worden bepaald.<br /><br />Hij stelt verzoeker en verweerder schriftelijk in kennis van de samenstelling van de bevoegde Kamer.<br /><br />§ 2. Een beroep wordt niet geregistreerd indien niet voldaan is aan de vormen, vermeld in artikel 4.8.16, § 3.<br /><br />In dat geval stelt de griffier de verzoeker in staat om het verzoekschrift te regulariseren, binnen een vervaltermijn van vijftien dagen, die ingaat de dag na deze van de betekening van de regularisatiemogelijkheid.<br /><br />De verzoeker die zijn verzoekschrift tijdig regulariseert, wordt geacht het te hebben ingediend op de datum van de eerste verzending ervan.<br /><br />Een verzoekschrift dat niet, onvolledig of laattijdig is geregulariseerd, wordt geacht niet te zijn ingediend.
+
+### ART. 4.8.18.
+
+De verzoeker is een griffierecht verschuldigd.<br /><br />Het griffierecht wordt vastgesteld door de Vlaamse Regering.<br /><br />De griffier brengt de verzoeker schriftelijk op de hoogte van het verschuldigde bedrag.<br /><br />Het griffierecht wordt gestort op rekening van het grondfonds, vermeld in artikel 5.6.3. De storting wordt verricht binnen een termijn van dertig dagen, die ingaat de dag na deze van de betekening, vermeld in het derde lid. Indien het bedrag niet binnen deze termijn is gestort, wordt het beroep niet-ontvankelijk verklaard, tenzij de verzoeker gegronde redenen kan aanbrengen voor dit verzuim.
+
+### ART. 4.8.19.
+
+§ 1. Elk der belanghebbenden, vermeld in artikel 4.8.16, § 1, eerste lid, kan tussenkomen in een zaak.<br /><br />Een verzoek tot tussenkomst wordt ingediend binnen een vervaltermijn van dertig dagen, die ingaat de dag na deze van de betekening, vermeld in artikel 4.8.17, § 1, tweede lid. Bij ontstentenis van dergelijke betekening, kan de Raad echter een latere tussenkomst toelaten, voor zover deze tussenkomst de procedure op generlei wijze vertraagt.<br /><br />Een verzoek tot tussenkomst wordt gedagtekend en bevat :<br />1° de naam, de hoedanigheid en het adres van de tussenkomende partij;<br />2° de vermelding van de zaak waarin de tussenkomende partij wenst tussen te komen.<br /><br />§ 2. De bevoegde Kamer doet onmiddellijk uitspraak over de ontvankelijkheid van een verzoek tot tussenkomst.<br /><br />§ 3. De Raad stelt de tussenkomende partij in de gelegenheid om een schriftelijke uiteenzetting over de zaak te geven. De Raad stelt hiervoor een termijn vast, die niet korter mag zijn dan vijftien dagen. De tussenkomende partij kan aan de schriftelijke uiteenzetting de geïnventariseerde overtuigingsstukken toevoegen die hij nodig acht.<br /><br />§ 4. De griffier bezorgt aan de tussenkomende partij alle processtukken.
+
+### ART. 4.8.20.
+
+§ 1. De verweerder dient een antwoordnota, een geïnventariseerd administratief dossier en eventuele bijkomende en geïnventariseerde overtuigingsstukken in, binnen een termijn van dertig dagen, die ingaat de dag na deze van de betekening, vermeld in artikel 4.8.17, § 1, tweede lid.<br /><br />§ 2. Een afschrift van de antwoordnota wordt aan de verzoeker overgemaakt door de griffier, die de verzoeker tevens van de neerlegging van het administratief dossier in kennis stelt.<br /><br />De verzoeker kan een wederantwoordnota indienen binnen een vervaltermijn van vijftien dagen, die ingaat de dag na deze van de betekening, vermeld in het eerste lid. De verzoeker kan aan de wederantwoordnota de geïnventariseerde overtuigingsstukken toevoegen die hij nodig acht.<br /><br />Indien de verweerder verzuimd heeft om een tijdige antwoordnota in te dienen, wordt de verzoeker hiervan door de griffier in kennis gesteld, en mag hij de wederantwoordnota vervangen door een toelichtende nota.
+
+## [Onderafdeling 5. Tussenkomst (ing. Decr. 6 juli 2012, art. 5, I: 1 september 2012)]
+
+### ART. 4.8.21.
+
+Na afloop van het vooronderzoek, worden de partijen uitgenodigd om op een zitting van de Raad te verschijnen. De zitting wordt georganiseerd binnen een ordetermijn van zestig dagen na de betekening van de wederantwoordnota of de toelichtende nota van de verzoeker.<br /><br />De uitnodiging wordt ten laatste vijftien dagen vóór de zitting aan de partijen toegestuurd. De uitnodiging vermeldt :<br />1° de plaats en het tijdstip van de zitting;<br />2° desgevallend de door de Raad opgeroepen deskundige;<br />3° de voorwaarden waaronder de partijen eigen getuigen kunnen meebrengen.
+
+## [Onderafdeling 6. Vooronderzoek (ing. Decr. 6 juli 2012, art. 5, I: 1 september 2012)]
+
+### ART. 4.8.22.
+
+De partijen kunnen ter zitting geen bijkomende stukken overmaken aan de Raad, behoudens hun pleitnota's.
+
+### ART. 4.8.23.
+
+De zittingen zijn openbaar, behoudens indien het alleenzetelende raadslid of de kamervoorzitter, al dan niet op verzoek van de partijen of één ervan, oordeelt dat gewichtige redenen aanwezig zijn die zich tegen de openbaarheid verzetten.<br /><br />Het beroep wordt op tegenspraak behandeld. De partijen pleiten in elkaars aanwezigheid.<br /><br />Het alleenzetelende raadslid of de kamervoorzitter ondervraagt desgevallend de door de partijen meegebrachte getuigen.<br /><br />Het alleenzetelende raadslid of de kamervoorzitter sluit de debatten na de pleidooien en in voorkomend geval na de wederantwoorden.
+
+## [Onderafdeling 7. Zitting (ing. Decr. 6 juli 2012, art. 5, I: 1 september 2012)]
+
+### ART. 4.8.24.
+
+Bij regelmatige oproeping belet de afwezigheid van de partijen of één ervan de geldigheid van de zitting niet.
+
+### ART. 4.8.25.
+
+De griffier maakt een proces-verbaal op van de zitting.<br /><br />Het proces-verbaal wordt door het alleenzetelende raadslid of de kamervoorzitter en door de griffier ondertekend.<br /><br />Aan het proces-verbaal worden de eventueel overgelegde pleitnota's toegevoegd.
+
+### ART. 4.8.26.
+
+§ 1. De Raad beraadslaagt en beslist achter gesloten deuren over zijn uitspraken.<br /><br />De uitspraken van de Raad worden uitgebracht binnen een ordetermijn van zestig dagen, die ingaat de dag na die van de zitting.<br /><br />§ 2. De Raad legt in zijn uitspraak het geheel van de kosten ten laste gelegd van de partij die ten gronde in het ongelijk gesteld wordt. De kosten bestaan uit het griffierecht, vermeld in artikel 4.8.18, en uit het getuigengeld.<br /><br />Het getuigengeld wordt begroot en toegekend op grond van de daartoe door de Vlaamse Regering bepaalde regelen.<br /><br />§ 3. De uitspraken van de Raad worden ondertekend door het alleenzetelende raadslid of de kamervoorzitter en door de griffier.<br /><br />De uitspraken van de Raad zijn openbaar.
+
+### ART. 4.8.27.
+
+De griffier zendt kosteloos een afschrift van de uitspraak aan de partijen, binnen een ordetermijn van vijftien dagen na de dagtekening ervan.<br /><br />Anderen dan de partijen kunnen afschriften of uittreksels van de besluiten van de Raad verkrijgen. Voor een afschrift of uittreksel kan een vergoeding worden gevraagd, onder de voorwaarden als bepaald door de Vlaamse Regering.
+
+## [Onderafdeling 8. Beraadslaging en uitspraak (ing. Decr. 6 juli 2012, art. 5, I: 1 september 2012)]
+
+### ART. 4.8.28.
+
+De kredieten welke voor de werking van de Raad nodig zijn, worden uitgetrokken op de begroting van het departement.
+
+### ART. 4.8.29.
+
+De Vlaamse Regering kan alle aanvullende organieke maatregelen vaststellen welke ter uitvoering van dit hoofdstuk nodig zijn.
+
+### ART. 4.8.30.
+
+Onder het gezag van de Raad voorziet de website van het departement in de geanonimiseerde publicatie van de uitspraken van de Raad en van een jaarlijks verslagboek. Het verslagboek bevat onder meer een overzicht van de stand van de zaken die hangende zijn.
+
+### ART. 4.8.31.
+
+De Raad onderzoekt elk jaar in de loop van de maand september de stand van de zaken die hangende zijn en brengt hierover uiterlijk op 15 oktober verslag uit aan de Vlaamse Regering en aan de voorzitter van het Vlaams Parlement.
+
+## Afdeling 4 [Samenstelling (verv. Decr. 6 juli 2012, art. 5, I: 1 september 2012)]
+
+## Afdeling 5 [Werkingsregelen (verv. Decr. 6 juli 2012, art. 5, I: 1 september 2012)]
+
+## Afdeling 6 Diverse bepalingen
+
+## TITEL V Diverse bepalingen
+
+## HOOFDSTUK I Plannen- en vergunningenregisters
+
+## Afdeling 1 Plannenregister
+
+### ART. 5.1.1.
+
+§ 1. Een plannenregister is een gemeentelijk gegevensbestand, waarin voor het grondgebied van de gemeente ten minste volgende gegevens zijn opgenomen :<br />1° de grafische plannen en de daarbij horende stedenbouwkundige voorschriften van de ruimtelijke uitvoeringsplannen en de plannen van aanleg, evenals van de niet-vervallen ontwerpen van dergelijke plannen;<br />2° de aanduiding van de delen van de vigerende plannen waarop een voorkooprecht, vermeld in artikel 2.4.1, geldt;<br />3° de aanduiding van de percelen die het voorwerp hebben uitgemaakt van een planologische bestemmingswijziging die aanleiding kan geven tot een planschadevergoeding, vermeld in artikel 2.6.1, een planbatenheffing, vermeld in artikel 2.6.4, of een bestemmingswijzigingscompensatie, vermeld in boek 6, titel 2, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid;<br />4° de rooilijnplannen;<br />5° de onteigeningsplannen.<br /><br />De Vlaamse Regering kan de wijze bepalen waarop in het plannenregister ruimtelijk relevante beschermingsvoorschriften opgenomen worden ten gevolge van regelgeving binnen andere beleidsvelden dan de ruimtelijke ordening.<br /><br />§ 2. Elke gemeente is verplicht om een plannenregister op te maken, te actualiseren, ter inzage te leggen en er uittreksels uit af te leveren volgens de bepalingen van deze codex.<br /><br />De Vlaamse Regering kan nadere regels bepalen voor de opmaak en de actualisering van het plannenregister. Zij kan de specifieke wijze bepalen waarop artikel 261 van het Gemeentedecreet van 15 juli 2005 geoperationaliseerd wordt indien de gemeente zich niet gedraagt naar de bij of krachtens deze afdeling voorgeschreven regelen.<br /><br />§ 3. De overheden die belast zijn met het opmaken van stedenbouwkundige voorschriften, sturen ambtshalve een afschrift van het deel dat betrekking heeft op het grondgebied van de gemeente, naar het college van burgemeester en schepenen, uiterlijk binnen vijfenveertig dagen na de voorlopige vaststelling, de definitieve vaststelling, respectievelijk de goedkeuring. De betrokken overheden zijn verantwoordelijk voor de overeenstemming van het meegedeelde afschrift met de stukken die zij in hun bezit hebben.<br /><br />De gegevens, vermeld in § 1, worden geregistreerd binnen een termijn van veertien dagen, hetzij na de beslissing van de gemeenteraad, hetzij na de ontvangst van de betrokken informatie. Het college van burgemeester en schepenen is verantwoordelijk voor de overeenstemming van het plannenregister met de stukken die erin moeten worden opgenomen.<br /><br />De Vlaamse Regering kan nadere regels bepalen betreffende de informatieplichten, vermeld in het eerste lid.
+
+## Afdeling 2 Vergunningenregister
+
+### ART. 5.1.2.
+
+§ 1. Een vergunningenregister is een gemeentelijk gegevensbestand, waarin voor het grondgebied van de gemeente perceelsgebonden informatie is opgenomen met betrekking tot de ruimtelijke ordening.<br /><br />Het vergunningenregister omvat ten minste volgende gegevens, geordend per kadastraal perceel :<br />1° het kadastraal nummer, het huisnummer en de straatnaam;<br />2° de afgegeven stedenbouwkundige en planologische attesten;<br />3° elke aanvraag voor een stedenbouwkundige vergunning en de identiteit van de aanvrager;<br />4° elke aanvraag voor een verkavelingsvergunning en de identiteit van de aanvrager;<br />5° elke administratieve beslissing en rechterlijke uitspraak met betrekking tot die vergunningen, en de identiteit van de personen die beroep aantekenen;<br />6° elke melding en de identiteit van de persoon die de melding verricht;<br />7° de gevalideerde as-builtattesten;<br />8° het verval van een stedenbouwkundige vergunning of verkavelingsvergunning;<br />9° de vermelding van elk proces-verbaal dat opgemaakt wordt met betrekking tot inbreuken op deze codex, het verdere gevolg dat aan deze processen-verbaal gegeven wordt, iedere gerechtelijke uitspraak ter zake en de uitvoering van de herstelmaatregelen;<br />10° de vermelding van elk rechtsmiddel dat tegen de gerechtelijke uitspraken, vermeld in 9°, aangewend wordt, de daaropvolgende uitspraken en het gevolg dat daaraan gegeven wordt;<br />11° het verschuldigd zijn van een planbatenheffing en bewijs van betaling van de planbatenheffing;<br />12° in voorkomend geval het declaratief attest, vermeld in artikel 5.4.3, § 5.<br /><br />De Vlaamse Regering kan de bijkomende ruimtelijke gegevens bepalen die in het vergunningenregister opgenomen worden.<br /><br />§ 2. Elke gemeente is verplicht om een vergunningenregister op te maken, te actualiseren, ter inzage te houden van elkeen en er uittreksels uit af te leveren volgens de bepalingen van deze codex.<br /><br />De Vlaamse Regering kan nadere regels bepalen voor de opmaak en de actualisering van het vergunningenregister. Zij kan de specifieke wijze bepalen waarop artikel 261 van het Gemeentedecreet van 15 juli 2005 geoperationaliseerd wordt indien de gemeente zich niet gedraagt naar de bij of krachtens deze afdeling voorgeschreven regelen.
+
+### ART. 5.1.3.
+
+§ 1. Bestaande constructies, met uitzondering van publiciteitsinrichtingen of uithangborden, waarvan door enig rechtens toegelaten bewijsmiddel in de zin van boek III, titel III, hoofdstuk VI van het Burgerlijk Wetboek is aangetoond dat ze gebouwd werden vóór 22 april 1962, worden in het vergunningenregister opgenomen als « vergund geacht », onverminderd artikel 4.2.14, § 3 en § 4. Op de gemeentelijke overheid rust ter zake een actieve onderzoeksplicht.<br /><br />De vaststelling van de aanwezigheid van een geldig bewijs dat de bestaande constructie vóór 22 april 1962 gebouwd werd, en de omschrijving van de aard van dat bewijs, geldt als motivering voor de beslissing tot opname als « vergund geacht ».<br /><br />De vaststelling van het feit dat de constructie niet meer bestaat, van de afwezigheid van enig bewijsmiddel, of van het feit dat het voorhanden zijnde bewijsmiddel aangetast is door uitdrukkelijk aangegeven onregelmatigheden, geldt als motivering voor de weigering tot opname als « vergund geacht ».<br /><br />Een weigering tot opname als « vergund geacht », wordt per beveiligde zending aan de eigenaar betekend.<br /><br />§ 2. Bestaande constructies, met uitzondering van publiciteitsinrichtingen of uithangborden, waarvan door enig rechtens toegelaten bewijsmiddel in de zin van boek III, titel III, hoofdstuk VI van het Burgerlijk Wetboek is aangetoond dat ze gebouwd werden in de periode vanaf 22 april 1962 tot de eerste inwerkingtreding van het gewestplan waarbinnen zij gelegen zijn, en waarvan het vergund karakter door de overheid niet is tegengesproken middels een proces-verbaal of een niet anoniem bezwaarschrift, telkens opgesteld binnen een termijn van vijf jaar na het optrekken of plaatsen van de constructie, worden in het vergunningenregister opgenomen als « vergund geacht », onverminderd artikel 4.2.14, § 3 en § 4. Op de gemeentelijke overheid rust ter zake een actieve onderzoeksplicht. Het vergunningenregister vermeldt de datum van opname van de constructie als « vergund geacht ».<br /><br />De vaststelling van het feit dat bij de overheid geen geldig tegenbewijs bekend is, geldt als motivering voor een opname als « vergund geacht ».<br /><br />De vaststelling dat bij de overheid een geldig tegenbewijs bekend is, en de omschrijving van de aard daarvan, geldt als motivering voor de weigering tot opname als « vergund geacht ».<br /><br />Een weigering tot opname als « vergund geacht », wordt per beveiligde zending aan de eigenaar betekend. Deze mededelingsplicht geldt niet ten aanzien van die constructies waarvoor reeds een gemotiveerde mededeling werd verricht bij de opmaak van het ontwerp van vergunningenregister.<br /><br />§ 3. De opname of de weigering tot opname van een constructie als « vergund geacht » in het vergunningenregister kan worden bestreden met een beroep bij de Raad voor vergunningsbetwistingen, overeenkomstig en met inachtneming van de regelen, vermeld in hoofdstuk VIII van titel IV. Artikel 14, § 3, van de gecoördineerde wetten op de Raad van State is van overeenkomstige toepassing.
+
+### ART. 5.1.4.
+
+§ 1. De overheden die beslissingen nemen in verband met de vergunningverlening in het kader van deze codex sturen ambtshalve een afschrift van elke beslissing naar het college van burgemeester en schepenen van de gemeente waar het betrokken onroerend goed gelegen is.<br /><br />De overheden die betrokken zijn in een procedure die betrekking heeft op een betwisting in het kader van deze codex sturen ambtshalve een afschrift van elke dagvaarding of verzoekschrift, elke voorziening in hoger beroep of in cassatie, naar het college van burgemeester en schepenen van de gemeente waar het betrokken onroerend goed gelegen is. Iedere in de zaak gewezen beslissing wordt ambtshalve doorgestuurd naar het college van burgemeester en schepenen van de gemeente waar het betrokken onroerend goed gelegen is.<br /><br />De overheden die belast zijn met het bezorgen van de afschriften, vermeld in het eerste en tweede lid, zijn verantwoordelijk voor de overeenstemming van deze afschriften met de stukken die zij in hun bezit hebben.<br /><br />§ 2. De Vlaamse Regering kan nadere regelen bepalen betreffende de informatieplichten, vermeld in § 1.
+
+### ART. 5.1.5.
+
+De gegevens, vermeld in artikel 5.1.2, § 1, tweede en derde lid, worden geregistreerd binnen een termijn van vijf werkdagen, hetzij na de beslissing van het college van burgemeester en schepenen, hetzij na de ontvangst van de betrokken informatie. Het college van burgemeester en schepenen is verantwoordelijk voor de overeenstemming van het vergunningenregister met de stukken die erin moeten worden opgenomen.
+
+## Afdeling 3 Bepaling, aan beide registers gemeen
+
+### ART. 5.1.6.
+
+Het plannenregister, het vergunningenregister en de inhouden van beide registers, worden beschouwd als een bestuursdocument, vermeld in artikel 3, 4°, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur.<br /><br />Beide registers zijn toegankelijk voor het publiek in het gemeentehuis.<br /><br />Onverminderd hoofdstuk II, afdeling IV, van voormeld decreet van 26 maart 2004 krijgen de ambtenaren van ruimtelijke ordening, vermeld in artikel 1.4.1 tot en met 1.4.4, op eerste verzoek, onmiddellijk een kosteloos uittreksel.
+
+## HOOFDSTUK II Informatieplichten
+
+## Afdeling 1 Informatieplicht van de instrumenterende ambtenaar
+
+### ART. 5.2.1.
+
+§ 1. De instrumenterende ambtenaar vermeldt in alle onderhandse en authentieke akten van verkoop of van verhuring voor meer dan negen jaar van een onroerend goed, van een inbreng van een onroerend goed in een vennootschap, en ook in alle akten van vestiging van erfpacht of opstal en in elke andere akte van een eigendomsoverdracht ten bezwarende titel, met uitzondering van huwelijkscontracten en hun wijzigingen en contracten aangaande de mandeligheid :<br />1° of er voor het onroerend goed een stedenbouwkundige vergunning is uitgereikt;<br />2° de meest recente stedenbouwkundige bestemming van dit onroerend goed met de benamingen gebruikt in het plannenregister;<br />3° of er voor het onroerend goed een dagvaarding werd uitgebracht overeenkomstig artikel 6.1.1 of 6.1.41 tot en met 6.1.43 en iedere in de zaak gewezen beslissing;<br />4° of er op het onroerend goed een voorkooprecht rust, vermeld in artikel 2.4.1;<br />5° of er voor het onroerend goed een verkavelingsvergunning van toepassing is;<br />6° of het krachtens artikel 4.2.12, § 2, 2°, voor de overdracht verplichte as-builtattest is uitgereikt en gevalideerd.<br /><br />In de authentieke akte wordt de verklaring van de verkrijger opgenomen dat hij een stedenbouwkundig uittreksel heeft ontvangen, dat ten hoogste één jaar voor het verlijden van de authentieke akte werd verleend.<br /><br />De instrumenterende ambtenaar neemt bovendien een verwijzing naar artikel 4.2.1 van deze codex op in de akte.<br /><br />Indien op het onroerend goed, ten gevolge van een definitieve rechterlijke beslissing, een verplichting rust om herstelmaatregelen uit te voeren, in de zin van de artikelen 6.1.41 tot en met 6.1.43, dan wordt dit in een afzonderlijke akte vermeld. In deze akte wordt tevens vermeld dat de nieuwe eigenaar, voor zover de tenuitvoerlegging van de door de rechter bevolen herstelmaatregel niet verjaard is, de verbintenis aangaat om de opgelegde herstelmaatregel uit te voeren, onverminderd de verplichting van de oorspronkelijke eigenaar. De instrumenterende ambtenaar stuurt een afschrift van die akte aan de stedenbouwkundige inspecteur.<br /><br />Indien ten gevolge van de overdracht van een onroerend goed, opgenomen in een onderhandse of authentieke akte, de heffingsplicht, vermeld in artikel 2.6.8, wordt overgenomen, stuurt de instrumenterende ambtenaar binnen de dertig dagen een afschrift van deze akte aan de Vlaamse Belastingdienst. In voorkomend geval zijn artikelen 433 tot en met 435 van het Wetboek van Inkomstenbelastingen van overeenkomstige toepassing.<br /><br />Indien de instrumenterende ambtenaar een onderhandse akte in een authentieke akte dient op te nemen, waarbij de eerste niet beantwoordt aan de voorschriften van artikel 5.2.5, dan wijst hij de partijen bij de opmaak van de akte op artikel 5.2.5, 6.1.1, eerste lid, 4° en 6.3.1 van deze codex.<br /><br />§ 2. De instrumenterende ambtenaar vermeldt in alle akten betreffende een hypothecaire lening of krediet dezelfde gegevens als opgesomd in § 1 indien de lening of het krediet enkel betrekking heeft op de financiering en uitvoering van vergunningsplichtige werken.<br /><br />Daarnaast worden eveneens de gegevens over de vergunning opgenomen indien de lening betrekking heeft op de financiering van vergunningsplichtige werken ingevolge deze codex. Indien de vergunning nog niet verkregen werd, wordt de eerste schijf van de lening pas uitbetaald nadat de vergunning aan de leningmaatschappij bezorgd is.<br /><br />§ 3. De Vlaamse Regering kan de nadere voorschriften voor de informatieplicht bepalen.
+
+### ART. 5.2.2.
+
+Bij verdeling van een onroerend goed zonder dat een verkavelingsvergunning is afgegeven, stuurt de instrumenterende ambtenaar bij aangetekende brief, twintig dagen vóór de datum die voor de openbare verkoping of voor de ondertekening van de akte is vastgesteld, het plan van de verdeling en een attest waarin de aard van de akte en de in de akte te vermelden bestemming van de kavels nader worden aangegeven, naar het college van burgemeester en schepenen. De opmerkingen die het college van burgemeester en schepenen eventueel en bij wijze van inlichting maakt, moeten in de akte worden vermeld, evenals de vermelding dat voor de verdeling geen verkavelings- of stedenbouwkundige vergunning werd afgegeven en dat er geen zekerheid is wat betreft de mogelijkheid om op het goed te bouwen of daarop enige vaste of verplaatsbare inrichting op te stellen die voor bewoning kan worden gebruikt.<br /><br />De instrumenterende ambtenaar neemt bovendien een verwijzing naar artikel 4.2.1 van deze codex op in de akte.<br /><br />De onderhandse akten waarin die verrichtingen worden vastgelegd, bevatten dezelfde vermeldingen.<br /><br />Dit artikel geldt voor alle akten van eigendomsoverdracht of eigendomsverklaring, verhuring voor meer dan negen jaar, erfpacht of opstal.
+
+### ART. 5.2.3.
+
+§ 1. Vóór de vervreemding, verhuring voor meer dan negen jaar of vestiging van een zakelijk recht, met inbegrip van bezwaren met hypotheek, maar met uitzondering van erfdienstbaarheden, betreffende een kavel gelegen in een verkaveling waarvoor een verkavelingsvergunning is verkregen, moet, op verzoek van de eigenaar of eigenaars van de stukken grond, voor een instrumenterende ambtenaar een akte worden verleden van de verdeling van die stukken grond en van de aan de verkaveling verbonden lasten. De akte moet de kadastrale omschrijving van de goederen vermelden, de eigenaars identificeren en hun titel van eigendom aangeven. De verkavelingsvergunning en het verkavelingsplan worden als bijlagen bij die akte gevoegd en worden, samen met de akte, op verzoek van de instrumenterende ambtenaar die de akte heeft verleden, binnen twee maanden na het verlijden ervan, overgeschreven op het hypotheekkantoor van het arrondissement waar de goederen zijn gelegen. De overschrijving van het verkavelingsplan mag worden vervangen door de neerlegging op het hypotheekkantoor van een door de instrumenterende ambtenaar gewaarmerkte afdruk van dat plan.<br /><br />§ 2. Heeft een eigenaar van een kavel een wijziging van de verkavelingsvergunning verkregen, dan moet ook, op zijn verzoek, voor een instrumenterende ambtenaar een akte worden verleden van de wijzigingen die werden aangebracht in de verkaveling van de stukken grond of in de lasten van de verkaveling. De akte moet de kadastrale omschrijving van de goederen op het tijdstip van het verlijden vermelden, alle eigenaars van de in de verkavelingswijziging begrepen percelen identificeren en hun titel van eigendom aangeven. De akte moet eveneens een nauwkeurige opgave van de overschrijving van de verdelingsakte van de stukken grond bevatten. De beslissing tot wijziging van de verkavelingsvergunning en, in voorkomend geval, het nieuwe verdelingsplan worden als bijlage bij die akte gevoegd, om samen met die akte te worden overgeschreven zoals in § 1 is bepaald.<br /><br />§ 3. In de publiciteit voor een verkaveling moet de gemeente, waar de verkaveling gelegen is, vermeld worden, en ook de datum en het nummer van de vergunning.<br /><br />§ 4. De instrumenterende ambtenaar brengt de partijen op de hoogte van de akte van verdeling en van het bestek van de verkaveling, van de bepalingen van de verkavelingsvergunning en van de wijzigingsbepalingen. Hij maakt in de akte van verkoop, van verhuring, van erfpacht of opstal melding van die kennisgeving, en van de datum van de vergunning.<br /><br />De instrumenterende ambtenaar neemt een verwijzing naar artikel 4.2.1 van deze codex op in de akte.<br /><br />De onderhandse akten waarin die verrichtingen worden vastgelegd, bevatten dezelfde vermeldingen.
+
+### ART. 5.2.4.
+
+De Vlaamse Regering kan bepalen dat bij een overdracht onder levenden van een eigendomsrecht en de vestiging of de overdracht onder levenden van een recht van opstal, van erfpacht, of van vruchtgebruik op een grond, de instrumenterende ambtenaar aan het departement mededeling moet doen van de partijen bij die rechtshandeling en van de identificatie van de grond.
+
+## Afdeling 2 Informatieplicht met betrekking tot overeenkomsten
+
+### ART. 5.2.5.
+
+Iedereen die een onderhandse akte van verkoop of van verhuring voor meer dan negen jaar van een onroerend goed, en ook van vestiging van erfpacht of opstal opmaakt, moet vermelden of er voor het onroerend goed een stedenbouwkundige vergunning is uitgereikt en of het krachtens artikel 4.2.12, § 2, 2°, voor de overdracht verplichte as-builtattest is uitgereikt en gevalideerd, en moet de meest recente stedenbouwkundige bestemming van dit goed met de benamingen gebruikt in het plannenregister overnemen. In voorkomend geval worden ook vermeld : de dagvaardingen die met betrekking tot het goed werden uitgebracht overeenkomstig artikel 6.1.1 of artikelen 6.1.41 tot en met 6.1.43 alsook iedere in de zaak gewezen beslissing, de op het goed rustende voorkooprechten, vermeld in artikel 2.4.1, respectievelijk het feit dat op het goed een verkavelingsvergunning van toepassing is.<br /><br />De vastgoedmakelaars en andere personen die in de uitoefening van hun beroep of activiteit dergelijke onderhandse akten opmaken, moeten een verwijzing naar artikel 4.2.1 van deze codex opnemen in de akte.<br /><br />
+
+## Afdeling 3 Informatieplicht met betrekking tot publiciteit
+
+### ART. 5.2.6.
+
+Iedereen die voor eigen rekening of als tussenpersoon een goed verkoopt, verhuurt voor meer dan negen jaar, inbrengt in een vennootschap, een erfpacht of een opstalrecht overdraagt, of op andere wijze de eigendomsoverdacht met een vergeldend karakter van het goed bewerkstelligt, vermeldt in de hieraan verbonden publiciteit :<br />1° of er voor het goed een stedenbouwkundige vergunning is uitgereikt;<br />2° de meest recente stedenbouwkundige bestemming van dit goed met de benamingen gebruikt in het plannenregister;<br />3° of er voor het goed een dagvaarding werd uitgebracht overeenkomstig artikelen 6.1.1 of 6.1.41 tot en met 6.1.43 en iedere in de zaak gewezen beslissing;<br />4° of er op het goed een voorkooprecht rust, in de zin van artikel 2.4.1;<br />5° of voor het goed een verkavelingsvergunning van toepassing is;<br />6° of het krachtens artikel 4.2.12, § 2, 2°, voor de overdracht verplichte as-builtattest is uitgereikt en gevalideerd.<br /><br />De Vlaamse Regering kan nadere regels vaststellen voor de vorm en de modaliteiten van de vermeldingen in de publiciteit en voor de vrijstelling van deze bepalingen voor bepaalde vormen van publiciteit.
+
+## Afdeling 4 Stedenbouwkundig uittreksel
+
+### ART. 5.2.7.
+
+Het stedenbouwkundig uittreksel bestaat uit een informatief uittreksel uit het plannenregister en uit het vergunningenregister voor de percelen waarvoor de aanvraag ingediend werd.<br /><br />De Vlaamse Regering bepaalt de nadere regels voor de aanvraag van het stedenbouwkundig uittreksel.<br /><br />De Vlaamse Regering bepaalt tevens de wijze waarop gemeenten die nog niet beschikken over een plannenregister en een vergunningenregister stedenbouwkundige inlichtingen verstrekken.
+
+## HOOFDSTUK III Het stedenbouwkundig attest. Projectvergaderingen
+
+### ART. 5.3.1.
+
+§ 1. Het stedenbouwkundig attest geeft op basis van een plan aan of een overwogen project in redelijkheid de toets aan de stedenbouwkundige voorschriften, de eventuele verkavelingsvoorschriften en een goede ruimtelijke ordening zal kunnen doorstaan. Het wordt afgeleverd door het college van burgemeester en schepenen of, in de gevallen, vermeld in artikel 4.7.1, § 1, 2°, door de Vlaamse Regering, de gedelegeerde stedenbouwkundige ambtenaar of de gewestelijke stedenbouwkundige ambtenaar.<br /><br />Het stedenbouwkundig attest kan niet leiden tot de vrijstelling van een vergunningsaanvraag.<br /><br />§ 2. De bevindingen van het stedenbouwkundig attest kunnen bij het beslissende onderzoek over een aanvraag tot stedenbouwkundige vergunning of een verkavelingsvergunning niet worden gewijzigd of tegengesproken, voor zover :<br />1° in de periode van gelding van het stedenbouwkundig attest geen sprake is van substantiële wijzigingen aan het betrokken terrein of wijzigingen van de stedenbouwkundige voorschriften of de eventuele verkavelingsvoorschriften;<br />2° de verplicht in te winnen adviezen of de tijdens het eventuele openbaar onderzoek geformuleerde bezwaren en opmerkingen geen feiten of overwegingen aan het licht brengen waarmee bij de opmaak van het stedenbouwkundig attest geen rekening werd gehouden;<br />3° het stedenbouwkundig attest niet is aangetast door manifeste materiële fouten.<br /><br />§ 3. Het stedenbouwkundig attest blijft geldig gedurende twee jaar vanaf het ogenblik van de uitreiking ervan.<br /><br />§ 4. De Vlaamse Regering kan nadere formele en procedurele regelen bepalen voor de toepassing van dit artikel.
+
+### ART. 5.3.2.
+
+§ 1. Personen die instaan voor de ontwikkeling en verwezenlijking van belangrijke bouw- of verkavelingsprojecten kunnen, eens een realistische projectstudie voorhanden is, verzoeken om een projectvergadering met het bevoegde vergunningverlenende bestuursorgaan en de adviesverlenende instanties, aangewezen krachtens artikel 4.7.16, § 1, eerste lid, respectievelijk artikel 4.7.26, § 4, 2°. Indien de vergunningsaanvraag ingediend zal worden bij het college van burgemeester en schepenen van een niet-ontvoogde gemeente, wordt ook de gewestelijke stedenbouwkundige ambtenaar bij de projectvergadering betrokken. De projectvergadering beoogt de procedurele afstemming tussen de betrokken organen en instanties, de bespreking van de eventueel nodig of nuttig geachte projectbijsturingen en de eventuele toepassing van artikel 5.3.1.<br /><br />In het geval het project zal leiden tot een aanvraag voor zowel een stedenbouwkundige vergunning als een milieuvergunning, dan worden bij de projectvergadering tevens volgende instanties betrokken :<br />1° het bestuursorgaan dat bevoegd is voor het verlenen van de milieuvergunning;<br />2° de in het kader van de milieuvergunningsaanvraag adviesverlenende instanties.<br /><br />§ 2. Het verzoek tot organisatie van een projectvergadering kan niet worden geweigerd.<br /><br />§ 3. De Vlaamse Regering omschrijft de projecten die als belangrijke bouw- of verkavelingsprojecten in de zin van § 1, eerste lid, moeten worden beschouwd.<br /><br />Zij kan tevens nadere materiële, methodologische en procedurele regelen bepalen voor de toepassing van dit artikel.
+
+## HOOFDSTUK IV Aanpak permanente bewoning weekendverblijven
+
+## Afdeling 1 Begrip
+
+### ART. 5.4.1.
+
+Voor de toepassing van dit hoofdstuk wordt verstaan onder :<br />1° « weekendverblijf » : een al dan niet verplaatsbare en vanuit bouwfysisch oogpunt hoofdzakelijk vergunde constructie die krachtens de stedenbouwkundige voorschriften niet tot permanente bewoning kan worden bestemd, en die voldoet aan alle volgende voorwaarden :<br />a) zij heeft een maximaal bouwvolume van 300 m3,<br />b) onverminderd het tweede lid voldoet zij aan de vereisten, vastgesteld bij en krachtens artikel 5, § 1, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode,<br />c) zij is niet gelegen in een natuurgebied met wetenschappelijke waarde of natuurreservaat, aangewezen op een plan van aanleg of een ruimtelijk uitvoeringsplan;<br />2° « permanente bewoners » : personen die voldoen aan beide hiernavolgende voorwaarden :<br />a) op 31 augustus 2009 betrekken zij reeds gedurende ten minste één jaar een weekendverblijf als hoofdverblijfplaats, zulks blijkens een voorlopige of definitieve inschrijving in het bevolkingsregister of het vreemdelingenregister van de betrokken gemeente,<br />b) zij hebben geen andere woning volledig in volle eigendom of volledig in vruchtgebruik.<br /><br />Indien een constructie voldoet aan alle voorwaarden, vermeld in het eerste lid, 1°, a) en c). <br /><br />Maar volgens de bevindingen van het conformiteitsonderzoek, vermeld in artikel 5, § 2, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, aangetast is door tekortkomingen die verholpen kunnen worden door renovatie-, verbeterings- of aanpassingswerken, dan wordt de constructie voor de toepassing van dit hoofdstuk als een weekendverblijf beschouwd totdat deze werken zijn uitgevoerd, op voorwaarde dat de voltooiing van de werken geschiedt binnen de termijnen, gesteld krachtens artikel 18, § 1, eerste lid, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode. Indien de reglementaire normen in uitvoering van artikel 18, § 1, eerste lid, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, bepaalde personen vrijstellen van deze termijnen, dan wordt deze vrijstellingenregeling buiten toepassing gelaten.
+
+## Afdeling 2 Planologisch oplossingskader
+
+### ART. 5.4.2.
+
+De voor de planopmaak bevoegde bestuursniveaus onderzoeken of planologische oplossingen kunnen worden geboden voor bestaande knelpunten op het vlak van de ruimtelijke inplanting en de permanente bewoning van weekendverblijven. Deze onderzoeken worden uiterlijk op 30 april 2012 afgerond. De ruimtelijke uitvoeringsplannen die gevolg geven aan het door deze onderzoeken vooropgestelde oplossingskader, worden uiterlijk op 30 april 2015 definitief vastgesteld.<br /><br />Planologische omzettingen van op het ogenblik van de voorlopige vaststelling van het bestemmingsplan bestaande en al dan niet permanent bewoonde weekendverblijven naar een zone waar permanent verblijf toegelaten is, worden niet aangerekend op de gemeentelijke woonquota, zoals bepaald door het ruimtelijk structuurplan Vlaanderen. Zij worden evenmin meegerekend in de berekening van de woonbehoeften in het kader van de structuurplanning.<br /><br />In afwijking van artikel 2.6.14, § 1, eerste lid, 2°, betalen de heffingsplichtige eigenaars van een weekendverblijf de naar aanleiding van een planologische oplossing verschuldigde planbatenheffing binnen een termijn van zes maanden na het verlenen, in laatste administratieve aanleg, van een stedenbouwkundige vergunning voor een functiewijziging naar de functie « wonen ».
+
+## Afdeling 3 Woonrecht
+
+### ART. 5.4.3.
+
+§ 1. Tenzij het ruimtelijk uitvoeringsplan, vermeld in artikel 5.4.2, reeds vóór 1 september 2009 in werking is getreden, geldt in hoofde van permanente bewoners, ten persoonlijken titel, een tijdelijk woonrecht vanaf de dag van de inwerkingtreding van voormeld decreet tot en met de inwerkingtreding van het ruimtelijk uitvoeringsplan. Indien de op grond van het ruimtelijk uitvoeringsplan planologisch mogelijk geworden permanente bewoning echter pas kan worden voortgezet op grond van een stedenbouwkundige vergunning voor een functiewijziging naar de functie « wonen », dan wordt het tijdelijk woonrecht verlengd totdat deze vergunning in laatste administratieve aanleg is afgegeven. Deze verlenging geldt slechts indien deze vergunning is aangevraagd binnen de termijn van zes maanden volgend op de inwerkingtreding van het ruimtelijk uitvoeringsplan.<br /><br />In hoofde van permanente bewoners waarvoor geen planologische oplossing geboden wordt, geldt ten persoonlijken titel een aanvullend woonrecht vanaf de inwerkingtreding van het ruimtelijk uitvoeringsplan, vermeld in artikel 5.4.2, tot en met 31 december 2029. Indien het ruimtelijk uitvoeringsplan reeds vóór 1 september 2009 in werking is getreden, geldt het aanvullend woonrecht vanaf de dag van de inwerkingtreding van voormeld decreet. Het ruimtelijk uitvoeringsplan, vermeld in artikel 5.4.2, kan het aanvullend woonrecht verlengen, uiterlijk tot en met 31 december 2039. Indien het ruimtelijk uitvoeringsplan reeds vóór 1 september 2009 definitief is vastgesteld, kan het orgaan, bevoegd voor de definitieve vaststelling, een reglement tot dergelijke verlenging van het aanvullend woonrecht aannemen.<br /><br />Het tijdelijk woonrecht en het eventuele daaropvolgende aanvullend woonrecht worden hiernavolgend beschouwd als één integraal en continu gegeven, « woonrecht » genoemd.<br /><br />§ 2. Permanente bewoners zijn ertoe gehouden in te gaan op het eerste aanbod tot herhuisvesting van overheidswege, op straffe van verval van hun woonrecht.<br /><br />Het woonrecht vervalt eveneens indien en van zodra de permanente bewoner :<br />1° het weekendverblijf niet langer als hoofdverblijfplaats betrekt, zulks blijkens het bevolkingsregister of het vreemdelingenregister van de betrokken gemeente;<br />2° een andere woning volledig in volle eigendom of volledig in vruchtgebruik verwerft;<br />3° na 1 september 2009 met betrekking tot het weekendverblijf een misdrijf, vermeld in artikel 6.1.1, begaat.<br /><br />Het woonrecht vervalt ten slotte indien het weekendverblijf tenietgaat of niet langer voldoet aan de vereisten, vermeld in artikel 5 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.<br /><br />§ 3. Het woonrecht houdt in hoofde van de permanente bewoners en hun gezinsleden het recht in om het weekendverblijf permanent te bewonen gedurende de periode waarbinnen het woonrecht geldt. De gezinsleden genieten geen eigenstandig woonrecht en bouwen daartoe geen rechten op.<br /><br />Gedurende de uitoefening van het woonrecht :<br />1° geeft het strijdig gebruik van het weekendverblijf geen aanleiding tot vorderingen op grond van de artikelen 6.1.1 en 6.1.41 tot en met 6.1.43;<br />2° worden op het strijdig gebruik van het weekendverblijf gesteunde vorderingen op grond van de artikelen 6.1.1 en 6.1.41 tot en met 6.1.43, ontstaan vóór de aanvang van het woonrecht, geschorst, evenals de verjaring van deze vorderingen;<br />3° worden op het strijdig gebruik van het weekendverblijf betrekking hebbende herstelmaatregelen, en (de verjaring van) het recht om tot ambtshalve uitvoering van dergelijke herstelmaatregelen over te gaan, geschorst;<br />4° wordt het strijdig gebruik van het weekendverblijf geacht geen vertraging in de tenuitvoerlegging van een herstelmaatregel uit te maken, in het geval aan de uitvoering van de herstelmaatregel een dwangsom is verbonden.<br /><br />Voor de toepassing van het tweede lid, wordt onder « het strijdig gebruik van het weekendverblijf » verstaan : de permanente bewoning van het weekendverblijf door de permanente bewoners en hun gezinsleden.<br /><br />§ 4. Het woonrecht staat nimmer in de weg aan het vaststellen van een onteigeningsplan, het verlenen van een onteigeningsmachtiging en het uitvoeren van onteigeningsverrichtingen.<br /><br />§ 5. De Vlaamse Regering kan de wijze bepalen waarop het bestaan en het verval van het woonrecht in een declaratief attest worden vastgesteld.<br /><br />§ 6. Vanaf het verstrijken van het woonrecht kan de burgemeester ten aanzien van een weekendverblijf dat niet gelegen is in een gebied waarin verblijfsrecreatie toegelaten is, een woonverbod uitspreken en alle nuttige maatregelen nemen om dat woonverbod te doen naleven, zulks met overeenkomstige toepassing van artikel 135, § 2, van de Nieuwe Gemeentewet.
+
+## Afdeling 4 Handelingen betreffende een weekendverblijf waarop een woonrecht rust
+
+### ART. 5.4.4.
+
+Bij de afgifte van elke vergunning voor handelingen met betrekking tot een weekendverblijf waarop een woonrecht rust, geldt de toetsing aan de goede ruimtelijke ordening, vermeld in artikel 4.3.1, § 1, eerste lid, 1°, onverkort. Het woonrecht kan nimmer worden ingeroepen om deze toetsing af te wijzen.
+
+## HOOFDSTUK V Diverse ondersteunings- en evaluatiemaatregelen
+
+## Afdeling 1 Ondersteuning van de implementatie van het decreet van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid
+
+### ART. 5.5.1.
+
+De Vlaamse Regering bepaalt binnen de beschikbare begrotingskredieten de wijze waarop de provincies en gemeenten door middel van de toekenning van financiële, personele of materiële middelen ondersteund worden bij de implementatie van het decreet van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid.
+
+## Afdeling 2 Evaluatie en kwaliteitscontrole van aspecten van het vergunningenbeleid
+
+### ART. 5.5.2.
+
+§ 1. In 2012 evalueert de Vlaamse Regering de effectiviteit van de bepalingen van artikelen 4.7.3 tot en met 4.7.10.<br /><br />Het evaluatierapport wordt ter informatie voorgelegd aan het Vlaams Parlement.<br /><br />§ 2. De Vlaamse Regering belast het agentschap met een steekproefsgewijze controle van de kwaliteit van de vergunningen in de zin van artikel 4.7.19, § 1, derde lid. De resultaten van de steekproeven worden bezorgd aan de Vlaamse Regering.<br /><br />Wanneer de Vlaamse Regering op grond van deze inlichtingen meent dat een gemeente haar taken inzake het verlenen van vergunningen kennelijk verwaarloost, kan zij de gemeente verplichten om binnen een door haar bepaalde termijn te beraadslagen over voorzieningen en instrumenten om het vergunningenbeleid van de gemeente te remediëren.<br /><br />Wordt binnen de gestelde termijn geen beslissing genomen, of stemt de Vlaamse Regering niet in met de genomen beslissing, dan kan de Vlaamse Regering beslissen dat de vrijstellingenregeling, vermeld in artikel 4.7.19, § 1, derde lid, niet van toepassing is voor de betrokken gemeente, gedurende een door haar aangegeven termijn, die de drie jaar niet mag overschrijden.<br /><br />§ 3. De Vlaamse Regering evalueert op regelmatige basis de performantie van en het draagvlak voor de overleggerichte aanpak, vermeld in artikel 5.3.2. De evaluatie peilt daarenboven naar eventuele noodwendigheden of opportuniteiten betreffende de aanpassing van het toepassingsgebied van de regeling.
+
+## HOOFDSTUK VI Raakvlakken met sectorregelgeving
+
+## Afdeling 1 Grond- en pandenbeleid
+
+## Onderafdeling 1 Register van de onbebouwde percelen
+
+### ART. 5.6.1.
+
+De gemeenten houden een register bij van alle onbebouwde percelen gelegen in het woongebied zoals bepaald door de uitvoeringsplannen of plannen van aanleg. Bij de opbouw van het register wordt artikel 2.2.5 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid in acht genomen. De opmaak en de actualisering van het register kunnen worden opgedragen aan een intergemeentelijk samenwerkingsverband in de zin van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking.<br /><br />De Vlaamse Regering kan nadere regels bepalen met betrekking tot de opmaak en de actualisering van het register van de onbebouwde percelen.<br /><br />De Vlaamse Regering kan, binnen de perken van de begroting, subsidies verlenen aan provincies en gemeenten als tegemoetkoming voor de actualisatie van de inventaris van de onbebouwde percelen. Om in aanmerking te komen moet een gemeente beschikken over een registratiesysteem, een eerste geactualiseerde inventaris en een overzicht van de gronden en panden die ze in eigendom heeft, met vermelding van het gebruik ervan.<br /><br />De Vlaamse Regering bepaalt de overige voorwaarden waaronder die subsidies kunnen worden verleend.<br /><br />De Vlaamse Regering kan de specifieke wijze bepalen waarop artikel 261 van het Gemeentedecreet van 15 juli 2005, respectievelijk artikel 75 van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking, geoperationaliseerd wordt indien het gemeentebestuur of het intergemeentelijk samenwerkingsverband, vermeld in het eerste lid, zich niet gedraagt naar de bij of krachtens dit artikel voorgeschreven regelen.
+
+## Onderafdeling 2 Fiscale bepalingen
+
+### ART. 5.6.2.
+
+§ 1. De gemeenten kunnen buiten de opcentiemen op de onroerende voorheffing een jaarlijkse belasting heffen op de niet bebouwde gronden, gelegen in gebieden bestemd voor industrie volgens het plannenregister en palend aan een openbare weg die voldoende is uitgerust zoals bepaald in artikel 4.3.5, § 1.<br /><br />§ 2. De volgende personen zijn ontheven :<br />1° van de in § 1, 2°, vermelde belasting : de eigenaars van één enkele onbebouwde grond bij uitsluiting van enig ander onroerend goed;<br />2° van de in § 1 vermelde belastingen : de Vlaamse Maatschappij voor Sociaal Wonen en de erkende sociale huisvestingsmaatschappijen, vermeld in het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.<br /><br />De krachtens het eerste lid, 2°, verleende ontheffingen gelden slechts gedurende de vijf kalenderjaren die volgen op de verwerving van het goed. Ze gelden gedurende de vijf dienstjaren die volgen op de inwerkingtreding van de belastingverordening, indien het goed op dat tijdstip reeds verworven is.<br /><br />§ 3. Onverminderd het bepaalde in § 2, kunnen de gemeenten tariefdiversificaties en bijkomende ontheffingen van de belastingen, vermeld in § 1, vaststellen teneinde hun ruimtelijke doelstellingen te realiseren.
+
+## Onderafdeling 3 [... (opgeh. decr. 16 december 2022, art. 48, I: 1 januari 2023)]
+
+### ART. 5.6.3.
+
+§ 1. Er wordt een Grondfonds opgericht. Het Grondfonds is een Gewestdienst met Afzonderlijk Beheer, vermeld in artikel 140 van de gecoördineerde wetten op de Rijkscomptabiliteit.<br /><br />§ 2. De middelen waarover het Grondfonds beschikt zijn :<br />1° de dotaties ingeschreven in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br />2° het per 31 december van het jaar voorafgaand aan het begrotingsjaar beschikbare saldo van het Grondfonds onverminderd de bepaling van artikel 6.1.56;<br />3° alle ontvangsten voortvloeiend uit de toepassing van deze codex, titel VI uitgezonderd;<br />4° alle schulden, vorderingen en tegoeden van het Fonds voor de Planschade.<br /><br />§ 3. De middelen van het Grondfonds moeten aangewend worden voor de uitgaven die voortvloeien uit de toepassing van het decreet betreffende de ruimtelijke ordening gecoördineerd op 22 oktober 1996 en uit de toepassing van deze codex.<br /><br />§ 4. De Vlaamse Regering beheert het Grondfonds.<br /><br />Ze stelt de nodige administratieve en logistieke ondersteuning ter beschikking van het Grondfonds en kan, overeenkomstig de geldende regels, sommige van haar bevoegdheden delegeren aan de leidend ambtenaar die ze daartoe aanwijst.<br /><br />§ 5. De Vlaamse Regering bepaalt de organieke regels die van toepassing zijn op het financiële en materiële beheer van het Grondfonds.
+
+## Onderafdeling 4 [opgeh. decr. 26 mei 2023, art. 5, I: 7 juli 2023))]
+
+### ART. 5.6.4.
+
+Deze onderafdeling is van toepassing op de gebieden die ressorteren onder de gebiedsbestemming « woonuitbreidingsgebied », vermeld in artikel 5.1.1. van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerp-gewestplannen en gewestplannen.
+
+### ART. 5.6.5.
+
+Een gemeente kan een woonuitbreidingsgebied eerst omzetten naar woongebied door middel van een ruimtelijk uitvoeringsplan of een plan van aanleg, voor zover een toelichtingsnota bij dat bestemmingsplan een beleidsvisie op het gemeentelijk woonbeleid insluit of naar een bestaande beleidsvisie in het gemeentelijk ruimtelijk structuurplan verwijst. Een beleidsvisie bestaat ten minste uit een prioriteitenbepaling en een fasering met betrekking tot het ontwikkelen van de bijkomende ruimte voor woningbouw vanuit een globale visie op het wonen in de gemeente.<br /><br />Het eerste lid vindt toepassing ten aanzien van planningsprocessen waarbij de voorlopige vaststelling of de voorlopige aanneming geschiedt vanaf de inwerkingtreding van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.
+
+### ART. 5.6.6.
+
+§ 1. In woonuitbreidingsgebieden wordt de aanvraag van een sociale woonorganisatie voor een stedenbouwkundige vergunning voor het bouwen van woningen of een verkavelingsvergunning ingewilligd indien voldaan is aan alle hiernavolgende voorwaarden :<br />1° de gronden zijn niet gelegen in een overstromingsgebied, vermeld in artikel 1.1.2, 10°, a), 10);<br />2° de gronden palen aan woongebied, al dan niet met landelijk karakter;<br />3° de gronden worden niet belast door een bouwverbod ingevolge het decreet van 14 juli 1993 houdende maatregelen tot bescherming van de kustduinen;<br />4° het aangevraagde vormt geen betekenisvolle aantasting van de natuurlijke kenmerken van een speciale habitat- of vogelbeschermingszone, of komt ondanks het sociaal karakter van de geplande activiteit niet in aanmerking voor een afwijking, vermeld in artikel 36ter, § 5, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br />5° de inrichtingsaspecten van het bouw- of verkavelingsproject zijn in overeenstemming met de stedenbouwkundige voorschriften en de goede ruimtelijk ordening.<br /><br />De bepalingen van het gemeentelijk ruimtelijk structuurplan kunnen nimmer worden ingeroepen om de afgifte van de vergunningen, vermeld in het eerste lid, af te wijzen.<br /><br />§ 2. Buiten de gevallen, vermeld in § 1, en onverminderd de gevallen, toegelaten bij artikel 5.1.1 van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerp-gewestplannen en gewestplannen, kan een stedenbouwkundige vergunning voor het bouwen van woningen of een verkavelingsvergunning in woonuitbreidingsgebied eerst worden afgeleverd, indien de aanvrager beschikt over een principieel akkoord van de deputatie.<br /><br />In een principieel akkoord bevestigt de deputatie dat de vooropgestelde ontwikkeling ingepast kan worden in het lokaal woonbeleid, zoals vormgegeven in het gemeentelijk ruimtelijk structuurplan en desgevallend in andere openbare beleidsdocumenten. De deputatie wint daaromtrent het voorafgaand advies van de gemeenteraad in. Dat advies is bindend in zoverre het negatief is. Indien de gemeenteraad geen advies aflevert binnen een termijn van negentig dagen, ingaande de dag na deze van de betekening van de adviesvraag, kan aan deze adviesverplichting worden voorbijgegaan.<br /><br />Een principieel akkoord verplicht de gemeente ertoe om binnen het jaar een voorontwerp van ruimtelijk uitvoeringsplan of plan van aanleg op te maken.<br /><br />De Vlaamse Regering kan nadere materiële en procedurele regelen bepalen voor de toepassing van deze paragraaf.<br /><br />§ 3. De bepalingen van § 1 en § 2 vinden toepassing ten aanzien van bouwprojecten of verkavelingen waarvoor de vergunningsaanvragen vanaf de inwerkingtreding van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid betekend worden bij het college van burgemeester en schepenen, of, bij toepassing van de procedure, vermeld in artikel 4.7.1, § 1, 2°, de Vlaamse Regering, de gedelegeerde stedenbouwkundige ambtenaar of de gewestelijke stedenbouwkundige ambtenaar.<br /><br />De deputaties leveren hun principiële akkoorden vanaf de inwerkingtreding van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid af met toepassing van § 2. Principiële akkoorden die voorheen werden afgeleverd op grond van de Omzendbrief RO/2002/03 van 25 oktober 2002 « in verband met het opmaken van een gemeentelijke woonbehoeftestudie en het ontwikkelen van woonuitbreidingsgebieden met of zonder woonbehoeftestudie » sorteren vanaf voormelde inwerkingtredingsdatum het gevolg, vermeld in § 2, eerste lid.
+
+## Afdeling 2 Bijzondere bepaling betreffende de toetsing aan stedenbouwkundige voorschriften binnen andere beleidsvelden
+
+### ART. 5.6.7.
+
+§ 1. De mogelijkheden of verplichtingen om af te wijken van stedenbouwkundige voorschriften of om rekening te houden met ontwerpen van stedenbouwkundige voorschriften, zoals deze bij of krachtens deze codex zijn vastgesteld in hoofde van de vergunningenverlenende bestuursorganen en de ambtenaren van ruimtelijke ordening, gelden onder dezelfde voorwaarden in hoofde van de instanties en organen die over een vergunningenaanvraag adviseren en in hoofde van de instanties en organen die adviseren of beslissen over een onteigeningsplan of over een aanvraag voor een onteigeningsmachtiging, een milieuvergunning of een vergunning, vermeld in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu of in het bosdecreet van 13 juni 1990.<br /><br />§ 2. Onverminderd § 1 kan bij de advisering en beslissing over een milieuvergunningsaanvraag afgeweken worden van de bepalingen van het gewestplan ten bate van inrichtingen waarvan de exploitatie geheel of ten dele niet overeenstemt met de bestemmingsvoorschriften van dit gewestplan, voor zover voldaan is onder beide hiernavolgende voorwaarden :<br />1° de goede ruimtelijke ordening wordt niet geschaad, hetgeen in het bijzonder betekent dat de ruimtelijke draagkracht van het gebied niet wordt overschreden en dat de voorziene verweving van functies de aanwezige of te realiseren bestemmingen in de onmiddellijke omgeving niet in het gedrang brengt of verstoort;<br />2° de inrichting is hoofdzakelijk vergund.<br /><br />Indien de goede ruimtelijke ordening geschaad wordt, kan rekening worden gehouden met de termijn die nodig is om de inrichting te herlocaliseren. Deze termijn is ten hoogste gelijk aan vijf jaar.<br /><br />De Vlaamse Regering bepaalt de categorieën van bedrijven die door hun aard en omvang van het eerste lid zijn uitgesloten. Zij wijst de gebieden aan waarin het eerste lid niet kan worden toegepast.
+
+## [Afdeling 3 Bijzondere bepalingen over het aanduiden van gebieden als watergevoelig openruimtegebied met het oog op de bescherming van de belangen van het watersysteem (ing. decr. 8 december 2017, art. 90, I: 30 december 2017)]
+
+## [Afdeling 4 Woonreservegebieden (ing. decr. 26 mei 2023, art. 6, I: 7 juli 2023)]
+
+## [Onderafdeling 1 Algemene bepaling (ing. decr. 26 mei 2023, art. 7, I: 7 juli 2023)]
+
+## [Onderafdeling 2 Gemeentelijke besluitvorming (ing. decr. 26 mei 2023, art. 9, I: 7 juli 2023)]
+
+## [Onderafdeling 3 Regeling voor woonreservegebieden die al volledig of gedeeltelijk ontwikkeld zijn (ing. decr. 26 mei 2023, art. 13, I: 7 juli 2023)]
+
+## [Onderafdeling 4 Opmaak van ruimtelijke uitvoeringsplannen (ing. decr. 26 mei 2023, art. 15, I: 7 juli 2023)]
+
+## [HOOFDSTUK VII Gewestplanvoorschriften (ing. decr. 8 december 2017, art. 93, I: 30 december 2017)]
+
+## TITEL VI [Handhaving (verv. Decr. 25 april 2014, art. 12, I: 1 maart 2018)]
+
+## HOOFDSTUK I [Inleidende bepalingen (verv. Decr. 25 april 2014, art. 13, I: 1 maart 2018)]
+
+## Afdeling 1 [Definities (verv. Decr. 25 april 2014, art. 14, I: 1 maart 2018)]
+
+### ART. 6.1.1.
+
+Met een gevangenisstraf van acht dagen tot vijf jaar en met een geldboete van 26 euro tot 400.000 euro of met één van deze straffen alleen, wordt de persoon gestraft die :<br />1° de bij de artikelen 4.2.1 en 4.2.15 bepaalde handelingen hetzij zonder voorafgaande vergunning, hetzij in strijd met de vergunning, hetzij na verval, vernietiging of het verstrijken van de termijn van de vergunning, hetzij in geval van schorsing van de vergunning, uitvoert, voortzet of in stand houdt;<br />2° handelingen uitvoert, voortzet of in stand houdt in strijd met een ruimtelijk uitvoeringsplan, vermeld in de artikelen 2.2.1 tot en met 2.2.18, met een ontwerp van ruimtelijk uitvoeringsplan waarvoor toepassing werd gemaakt van artikel 4.3.2 of 4.4.7, § 1, of met de stedenbouwkundige en verkavelingsverordeningen, vermeld in de artikelen 2.3.1 tot en met 2.2.3, tenzij de uitgevoerde handelingen vergund zijn, of tenzij het gaat om onderhoudswerken aan een hoofdzakelijk vergunde constructie of om handelingen die vrijgesteld zijn van de vergunningsplicht;<br />3° als eigenaar toestaat of aanvaardt dat één van de onder 1° en 2° vermelde strafbare feiten worden gepleegd, voortgezet of in stand gehouden;<br />4° een inbreuk pleegt op de informatieplicht, vermeld in de artikelen 5.2.1 tot en met 5.2.6;<br />5° de handelingen voortzet in strijd met het bevel tot staking, de bekrachtigingsbeslissing of, in voorkomend geval, de beschikking in kortgeding;<br />6° een inbreuk op de plannen van aanleg en verordeningen die tot stand zijn gekomen volgens de bepalingen van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996 en die van kracht blijven zolang en in de mate dat ze niet vervangen worden door nieuwe voorschriften uitgevaardigd krachtens onderhavige codex, pleegt na 1 mei 2000, of dit voortzet of in stand houdt, op welke wijze ook, tenzij de uitgevoerde werken, handelingen of wijzigingen vergund zijn, of tenzij het gaat om onderhoudswerken aan een hoofdzakelijk vergunde constructie of om handelingen die vrijgesteld zijn van de vergunningsplicht;<br />7° handelingen die een inbreuk zijn op de bouw- en verkavelingsvergunningen die zijn verleend krachtens het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996, uitvoert, voortzet of in stand houdt.<br /><br />De minimumstraffen zijn echter een gevangenisstraf van vijftien dagen en een geldboete van 2.000 euro, of één van deze straffen alleen, indien de in het eerste lid vermelde misdrijven gepleegd worden door instrumenterende ambtenaren, vastgoedmakelaars en andere personen die in de uitoefening van hun beroep of activiteit onroerende goederen kopen, verkavelen, te koop of te huur zetten, verkopen of verhuren, bouwen of vaste of verplaatsbare inrichtingen ontwerpen en/of opstellen of personen die bij die verrichtingen als tussenpersonen optreden, bij de uitoefening van hun beroep.<br /><br />De strafsanctie voor het instandhouden van inbreuken, vermeld in het eerste lid, 1°, 2°, 3°, 6° en 7°, geldt niet voorzover de handelingen, werken, wijzigingen of het strijdige gebruik niet gelegen zijn in de ruimtelijk kwetsbare gebieden. Voor de strafbare instandhouding is uitsluitend vereist dat de wederrechtelijke handelingen op het ogenblik van de instandhouding gelegen zijn in ruimtelijk kwetsbaar gebied.<br /><br />Een herstelvordering die door de stedenbouwkundige inspecteur of het college van burgemeester en schepenen is ingesteld op grond van de instandhouding van handelingen, kan vanaf 1 september 2009 niet langer worden ingewilligd indien deze instandhouding op het ogenblik van de uitspraak niet meer strafbaar is gesteld.
+
+### ART. 6.1.2.
+
+Artikel 6.1.1, derde lid, toegevoegd bij decreet van 4 juni 2003 en gedeeltelijk vernietigd bij arrest nr. 14/2005 van 19 januari 2005 van het Grondwettelijk Hof, wordt geïnterpreteerd als volgt :<br />Deze bepaling heft de strafbaarstelling van de vermelde instandhoudingsmisdrijven op.
+
+## Afdeling 2 [Omgevingshandhavingsbeleid (verv. Decr. 26 februari 2021, art. 10, I: 1 april 2021)]
+
+### ART. 6.1.3.
+
+Alle bepalingen van het eerste boek van het Strafwetboek, met inbegrip van hoofdstuk VII en van artikel 85, zijn van toepassing op de in artikel 6.1.1 vermelde misdrijven.
+
+### ART. 6.1.4.
+
+§ 1. De Vlaamse Regering stelt een Handhavingsplan vast binnen de zes maanden na haar aantreden.<br /><br />Het Handhavingsplan omvat :<br />1° beleidsregels betreffende een strategische, programmatische en onderling afgestemde uitoefening van de bevoegdheden van de stedenbouwkundige inspecteurs en de door de Vlaamse Regering of de gouverneur aangewezen ambtenaren, vermeld in artikel 6.1.5, eerste lid;<br />2° beleidsregels die door de stedenbouwkundige inspecteurs en de ambtenaren, vermeld in het eerste lid, in acht worden genomen bij de uitoefening van hun toezichts- en handhavingstaak en van de overige bevoegdheden die hun krachtens deze titel worden opgedragen;<br />3° eventuele beleidsregels betreffende de eenvoudige afdoening van adviesvragen, vermeld in artikel 6.1.9;<br />4° aanbevelingen betreffende een preventieve en curatieve aanpak van misdrijven, vermeld in artikel 6.1.1;<br />5° aanbevelingen betreffende de bekostiging van het lokale handhavingsbeleid.<br /><br />§ 2. De Vlaamse Regering stelt het Handhavingsplan vast op grond van :<br />1° een ontwerpplan, opgemaakt door de gewestelijke administratie, belast met het toezicht en de handhaving inzake ruimtelijke ordening, na overleg met relevante handhavingsinstanties;<br />2° de adviezen van de Hoge Raad voor het Handhavingsbeleid, de strategische adviesraad en de Vlaamse Vereniging van Steden en Gemeenten over het ontwerpplan.<br /><br />§ 3. Een Handhavingsplan blijft gelden tot een nieuw Handhavingsplan is vastgesteld.<br /><br />Het kan te allen tijde geheel of gedeeltelijk worden herzien met inachtneming van de procedure, vermeld in § 2.
+
+## Afdeling 3 [... (opgeh. Decr. 25 april 2014, art. 20, I: 1 maart 2018)]
+
+### ART. 6.1.5.
+
+Onverminderd de bevoegdheden van de agenten en de officieren van gerechtelijke politie, zijn de stedenbouwkundige inspecteurs, de andere door de Vlaamse Regering aangewezen ambtenaren, alsmede de door de gouverneur aangewezen ambtenaren van de provincie en van de gemeenten in zijn provincie, bevoegd om de in deze titel omschreven misdrijven op te sporen en vast te stellen door een proces-verbaal. De processen-verbaal waarin de in deze titel omschreven misdrijven worden vastgesteld gelden tot bewijs van het tegendeel.<br /><br />De in het eerste lid vermelde agenten, officieren van de gerechtelijke politie en ambtenaren hebben toegang tot de bouwplaats en de gebouwen om alle nodige opsporingen en vaststellingen te verrichten.<br /><br />Als deze verrichtingen de kenmerken van een huiszoeking dragen, mogen ze enkel worden uitgevoerd op voorwaarde dat de politierechter daartoe een machtiging heeft verstrekt.<br /><br />Om de in deze titel omschreven misdrijven op te sporen en vast te stellen in een proces-verbaal krijgen de stedenbouwkundige inspecteurs de hoedanigheid van officier van gerechtelijke politie hulpofficier van de procureur des Konings.
+
+## Afdeling 4 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+## Onderafdeling 1 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+### ART. 6.1.6.
+
+§ 1. Bij het Vlaamse Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed wordt een Hoge Raad voor het Handhavingsbeleid opgericht, hierna de Hoge Raad te noemen.<br /><br />§ 2. De Hoge Raad is een orgaan van actief bestuur.<br /><br />Zijn adviezen, evenals de beslissingen, vermeld in artikel 6.1.21, zijn te allen tijde gesteund op motieven die ontleend worden aan :<br />1° het recht, met inbegrip van de algemene beginselen van behoorlijk bestuur zoals deze specifiek binnen de ruimtelijke ordening gelden;<br />2° de weerslag van inbreuken op de rechten van derden en op de plaatselijke ordening, zijnde het niveau van de goede ruimtelijke ordening van naburige percelen dat zou worden behaald indien zich geen schade ingevolge een misdrijf, vermeld in artikel 6.1.1, zou hebben voorgedaan.<br /><br />§ 3. De Vlaamse Regering geeft nimmer instructies omtrent de behandeling van concrete dossiers die aan de beoordeling van de Hoge Raad zijn voorgelegd.
+
+## Onderafdeling 2 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+## Sectie 1 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+### ART. 6.1.7.
+
+De stedenbouwkundige inspecteur en het college van burgemeester en schepenen kunnen slechts overgaan tot het inleiden van een herstelvordering voor de rechter of tot het ambtshalve uitvoeren van een herstelmaatregel, wanneer de Hoge Raad daartoe voorafgaandelijk een positief advies heeft verleend.
+
+### ART. 6.1.8.
+
+Het advies, vermeld in artikel 6.1.7, wordt gevraagd bij beveiligde zending.<br /><br />Bij de adviesaanvraag wordt een informatiedossier gevoegd, waarin de feitelijke en juridische historiek van het dossier wordt geduid.
+
+### ART. 6.1.9.
+
+Indien een adviesaanvraag zich leent tot eenvoudige afdoening, wordt het advies uitgebracht door de voorzitter of een door hem aangewezen lid.<br /><br />Een adviesvraag leent zich tot eenvoudige afdoening indien voldaan is aan beide hiernavolgende voorwaarden :<br />1° de adviesaanvraag is kennelijk onontvankelijk of kennelijk ongegrond, de voorgenomen herstelvordering of ambtshalve uitvoering is kennelijk rechtmatig, of het voorwerp van het betrokken misdrijf is gelegen in een ruimtelijk kwetsbaar gebied;<br />2° de zaak heeft geen betrekking op algemene rechtspunten of beleidsvragen die in het belang van het handhavingsbeleid door de plenaire vergadering van de Hoge Raad moeten worden beslecht, en evenmin verleent het belang van de zaak of een bijzondere omstandigheid grond tot een plenaire behandeling.<br /><br />De voorzitter of het door de voorzitter aangewezen lid brengt zijn advies uit binnen een vervaltermijn van dertig dagen, die ingaat de dag na deze van de betekening van de adviesvraag. Bij het overschrijden van deze termijn, mag aan de adviesvereiste voorbij worden gegaan.<br /><br />Aan de adviesvereiste mag tevens voorbij worden gegaan, indien de voorzitter of het door de voorzitter aangewezen lid binnen de dertigdagentermijn, vermeld in het derde lid, geen beslissing heeft uitgebracht houdende de verwijzing van de zaak naar de plenaire vergadering van de Hoge Raad.
+
+### ART. 6.1.10.
+
+Indien een adviesvraag zich niet leent tot eenvoudige afdoening, brengt de plenaire vergadering van de Hoge Raad een advies uit binnen een vervaltermijn van zestig dagen, die ingaat de dag na deze van de betekening van de adviesaanvraag.<br /><br />Bij het overschrijden van deze termijn, mag aan de adviesvereiste voorbij worden gegaan.<br /><br />De Hoge Raad behandelt bij voorrang de adviesaanvragen waarbij het voorwerp van het betrokken misdrijf gelegen is in een ruimtelijk kwetsbaar gebied.
+
+### ART. 6.1.11.
+
+Een advies wordt bij beveiligde zending betekend aan het betrokken bestuur. De Hoge Raad bezorgt een afschrift van het advies aan de belanghebbenden, vermeld in artikel 6.1.34, die in de zaak zijn gehoord of van wiens bestaan de Hoge Raad op grond van het dossier op de hoogte is.<br /><br />Een positief advies geldt voor een periode van twee jaar, te rekenen vanaf de datum waarop over het advies wordt beslist.<br /><br />Het betrokken bestuur of een derde-belanghebbende kan bij de Hoge Raad een gemotiveerd verzoek tot heroverweging instellen tegen de afgifte van een negatief advies.
+
+### ART. 6.1.12.
+
+In elke stand van de adviseringsprocedure kan de voorzitter van de Hoge Raad vaststellen dat de adviesaanvraag zonder voorwerp geworden is. In dat geval wordt het onderzoek van de zaak gesloten. De voorzitter maakt zijn vaststelling over aan het adviesvragende bestuur. Dat bestuur kan geen herstelvordering instellen en niet overgaan tot ambtshalve uitvoering.
+
+## Sectie 2 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+### ART. 6.1.13.
+
+Indien de stedenbouwkundige inspecteur of het college van burgemeester en schepenen overeenkomstig artikel 6.1.41, § 4, een herstelvordering heeft voorgelegd aan het Openbaar Ministerie, kan de inspecteur of het college naderhand voor dezelfde inbreuk slechts een herstelvordering inleiden voor de burgerlijke rechter, wanneer de Hoge Raad daartoe voorafgaandelijk een positief advies heeft verleend.<br /><br />Hetzelfde geldt indien een herstelvordering eerst voor de burgerlijke rechter werd ingeleid en vervolgens bij het Openbaar Ministerie aanhangig wordt gemaakt.
+
+### ART. 6.1.14.
+
+De adviezen, vermeld in artikel 6.1.13, worden gevraagd bij beveiligde zending.<br /><br />Bij de adviesaanvraag wordt een informatiedossier gevoegd, waarin de gronden om de initiële keuze van het bestuur te wijzigen, geduid worden.
+
+### ART. 6.1.15.
+
+Een advies wordt uitgebracht binnen een vervaltermijn van zestig dagen, die ingaat de dag na deze van de betekening van de adviesaanvraag.<br /><br />Bij het overschrijden van deze termijn, mag aan de adviesvereiste voorbij worden gegaan.
+
+### ART. 6.1.16.
+
+Een advies wordt bij beveiligde zending betekend aan het betrokken bestuur. De Hoge Raad bezorgt een afschrift van het advies aan de belanghebbenden, vermeld in artikel 6.1.34, die in de zaak zijn gehoord of van wiens bestaan de Hoge Raad op grond van het dossier op de hoogte is.<br /><br />Een positief advies geldt voor een periode van twee jaar, te rekenen vanaf de datum waarop over het advies wordt beslist.<br /><br />Het betrokken bestuur of een derde-belanghebbende kan bij de Hoge Raad een gemotiveerd verzoek tot heroverweging instellen tegen de afgifte van een negatief advies.
+
+## Sectie 3 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+### ART. 6.1.17.
+
+De stedenbouwkundige inspecteur en het college van burgemeester en schepenen winnen het advies in van de Hoge Raad voorafgaand aan de betekening van een vonnis of arrest waarin de rechter het bestuur heeft gemachtigd om ambtshalve in de uitvoering ervan te voorzien, indien, enerzijds, de termijn voor de uitvoering van de herstelmaatregelen op de betekeningsdatum reeds tien jaar of meer is verstreken en, anderzijds, voldaan is aan alle hiernavolgende voorwaarden :<br />1° het voorwerp van het betrokken misdrijf is niet gelegen in een ruimtelijk kwetsbaar gebied;<br />2° het misdrijf dat aanleiding heeft gegeven tot het vonnis of arrest, heeft geen betrekking op het verrichten van handelingen in strijd met een stakingsbevel of in strijd met de stedenbouwkundige voorschriften aangaande de voor het gebied toegelaten bestemmingen;<br />3° aan de overtreder werden na het vonnis of arrest geen nieuwe strafrechtelijke of bestuurlijke sancties of verplichtingen tot schadevergoeding opgelegd uit hoofde van een misdrijf, vermeld in artikel 6.1.1.<br /><br />Het vonnis of het arrest kan eerst worden betekend, indien de Hoge Raad daartoe een positief advies heeft uitgebracht.
+
+### ART. 6.1.18.
+
+Het advies, vermeld in artikel 6.1.17, wordt gevraagd bij beveiligde zending.<br /><br />Bij de adviesaanvraag wordt een informatiedossier gevoegd, waarin in het bijzonder wordt aangegeven of de overtreder reeds handelingen heeft gesteld om te voldoen aan het vonnis of arrest.
+
+### ART. 6.1.19.
+
+Een advies wordt uitgebracht binnen een vervaltermijn van zestig dagen, die ingaat de dag na deze van de betekening van de adviesaanvraag.<br /><br />Bij het overschrijden van deze termijn, mag aan de adviesvereiste voorbij worden gegaan.
+
+### ART. 6.1.20.
+
+Een advies wordt bij beveiligde zending betekend aan het betrokken bestuur.<br /><br />Een positief advies geldt voor een periode van twee jaar, te rekenen vanaf de datum waarop over het advies wordt beslist.<br /><br />Het betrokken bestuur of een derde-belanghebbende kan bij de Hoge Raad een gemotiveerd verzoek tot heroverweging instellen tegen de afgifte van een negatief advies.
+
+## Sectie 4 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+### ART. 6.1.21.
+
+§ 1. De Hoge Raad kan op gemotiveerd verzoek beslissen dat een opeisbaar geworden dwangsom, vermeld in artikel 6.1.41, § 3, slechts gedeeltelijk ingevorderd wordt, of dat deze invordering tijdelijk wordt opgeschort. De Hoge Raad houdt bij zijn beoordeling in het bijzonder rekening met de door de overtreder gestelde handelingen en genomen engagementen met het oog op een correcte uitvoering van de hoofdveroordeling.<br /><br />Een maatregel, vermeld in het eerste lid, heeft nimmer betrekking op de vaststaande gerechts- en uitvoeringskosten die zijn gemaakt door het bestuur dat instaat voor de invordering van de dwangsom.<br /><br />§ 2. Het gemotiveerd verzoek wordt op straffe van onontvankelijkheid bij beveiligde zending bezorgd aan de Hoge Raad en aan het bestuur dat instaat voor de invordering van de dwangsom. Bij het verzoek tot de Hoge Raad wordt op straffe van onontvankelijkheid een bewijs gevoegd van de beveiligde zending aan het betrokken bestuur.<br /><br />De verzoeker bezorgt een afschrift van het verzoek aan het Herstelfonds.<br /><br />§ 3. Het bestuur dat instaat voor de invordering van de dwangsom bezorgt een schriftelijk advies aan de Hoge Raad, binnen een vervaltermijn van twintig dagen, die ingaat de dag na deze van de betekening van het verzoek aan het bestuur.<br /><br />Indien binnen de gestelde termijn geen advies wordt verleend, mag de Hoge Raad aan de adviesvereiste voorbijgaan.<br /><br />§ 4. De Hoge Raad beslist over het verzoek binnen een ordetermijn van zestig dagen, die ingaat de dag na deze van de betekening van het verzoek aan de Hoge Raad.<br /><br />§ 5. De beslissing van de Hoge Raad wordt bij beveiligde zending ter kennis gebracht aan de verzoeker en aan het bestuur dat instaat voor de invordering van de dwangsom.<br /><br />De Hoge Raad bezorgt een afschrift van de beslissing aan het Herstelfonds.
+
+## Sectie 5 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+### ART. 6.1.22.
+
+De Hoge Raad is belast met de bemiddelingsopdrachten, vermeld in artikelen 6.1.52 en 6.1.53.
+
+## Sectie 6 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+### ART. 6.1.23.
+
+De Hoge Raad kan advies geven, opmerkingen maken of voorstellen doen over alle aangelegenheden met betrekking tot het handhavingsbeleid, op eigen initiatief of op verzoek van het Vlaams Parlement of de Vlaamse Regering.
+
+## Onderafdeling 3 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+### ART. 6.1.24.
+
+§ 1. De Hoge Raad wordt samengesteld uit een voorzitter, drie leden-juristen en drie leden-deskundigen.<br /><br />De voorzitter en de leden-juristen bezitten de graad van master in de rechten en bezitten ten minste tien jaar nuttige ervaring op het vlak van zowel het Vlaamse ruimtelijkeordeningsrecht als de rechtsbescherming tegen bestuurlijk optreden.<br /><br />De leden-deskundigen bezitten ten minste tien jaar nuttige ervaring op het vlak van de Vlaamse ruimtelijke ordening.<br /><br />§ 2. De Vlaamse Regering kan de selectiecriteria, vermeld in § 1, tweede en derde lid, verfijnen.
+
+### ART. 6.1.25.
+
+De voorzitter en de overige leden worden door de Vlaamse Regering aangeduid voor een hernieuwbare termijn van vijf jaar.<br /><br />Zij blijven in functie totdat in hun vervanging is voorzien.
+
+### ART. 6.1.26.
+
+Het mandaat van lid van de Hoge Raad is onverenigbaar met het lidmaatschap van een wetgevende vergadering, een provincieraad, een gemeenteraad, een districtsraad of een raad van een openbaar centrum voor maatschappelijk welzijn.
+
+### ART. 6.1.27.
+
+Indien een mandaat in de schoot van de Hoge Raad om onverschillig welke reden openvalt, wordt overgegaan tot de vervanging van het lid voor de verdere duur van het mandaat.
+
+### ART. 6.1.28.
+
+De Vlaamse Regering kan aan de Hoge Raad tijdelijke leden toevoegen om aan uitzonderlijke omstandigheden het hoofd te bieden. De tijdelijke leden voldoen aan de voorwaarden, vermeld in artikel 6.1.24, § 1, tweede of derde lid, desgevallend verfijnd door de Vlaamse Regering op grond van artikel 6.1.24, § 2.<br /><br />Behoudens verlenging eindigt de opdracht van de tijdelijke leden wanneer de termijn waarvoor zij zijn aangewezen, verstreken is. Voor zaken waarover de debatten aan de gang zijn of die in beraad zijn, blijft de opdracht evenwel geldig tot aan de beslissing van de Hoge Raad.
+
+### ART. 6.1.29.
+
+De leden van de Hoge Raad ontvangen ten laste van het Vlaamse Gewest een vergoeding, presentiegelden en reis- en verblijfskosten, waarvan het bedrag of de berekeningswijze wordt vastgelegd door de Vlaamse Regering.
+
+## Onderafdeling 4 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+## Sectie 1 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+## Subsectie 1 [... (opgeh. Decr. 25 april 2014, art. 21,I: 1 maart 2018)]
+
+### ART. 6.1.30.
+
+§ 1. De Hoge Raad vergadert geldig wanneer de meerderheid van de leden aanwezig is.<br /><br />§ 2. De Hoge Raad spreekt zich uit bij gewone meerderheid van stemmen.<br /><br />Bij staking van stemmen wordt een nieuwe stemming gehouden. Indien er bij deze tweede stemming opnieuw staking van stemmen is, beslist de voorzitter.
+
+## Subsectie 2 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+### ART. 6.1.31.
+
+De vergaderingen van de Hoge Raad kunnen worden bijgewoond door :<br />1° de stedenbouwkundige inspecteur, bevoegd voor het Vlaamse Gewest;<br />2° een vertegenwoordiger van het college van burgemeester en schepenen van een ontvoogde gemeente, voor wat betreft die agendapunten die een vordering of een maatregel van de betrokken gemeente betreffen.<br /><br />De besturen, vermeld in het eerste lid, kunnen voorafgaand aan de sluiting van de besprekingen hun standpunt weergeven en een stemadvies geven.
+
+## Subsectie 3 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+### ART. 6.1.32.
+
+Het is de leden van de Hoge Raad en van het permanent secretariaat, vermeld in artikel 6.1.39, verboden deel te nemen aan een beraadslaging of een beslissing over zaken waarbij zij een persoonlijk en rechtstreeks belang hebben, waarbij hun bloed- of aanverwanten tot in de vierde graad of de personen met wie zij een feitelijk gezin vormen en persoonlijk en rechtstreeks belang hebben, of waarbij zij of de rechtspersoon of feitelijke vereniging waarin zij een belang hebben, in een professionele hoedanigheid betrokken zijn of zijn geweest.
+
+### ART. 6.1.33.
+
+Artikel 458 van het Strafwetboek is van toepassing op de leden van de Hoge Raad voor alle gegevens waarvan zij kennis nemen in het kader van de uitoefening van hun opdrachten in de Hoge Raad.
+
+## Subsectie 4 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+### ART. 6.1.34.
+
+De Hoge Raad kan belanghebbenden schriftelijk horen telkens wanneer hij dit nodig acht voor een zorgvuldige feitenvinding of voor de eerbiediging van het verdedigingsbeginsel. De Hoge Raad kan deze beoordelingsbevoegdheid inzake de organisatie van het schriftelijk horen delegeren aan één of meer van zijn leden.<br /><br />Voor de toepassing van het eerste lid wordt onder « belanghebbenden » verstaan :<br />1° personen die getroffen worden of kunnen worden door de maatregel waaromtrent de Hoge Raad is geadieerd;<br />2° rechtspersonen die voldoen aan de voorwaarden, vermeld in artikel 2 van de wet van 12 januari 1993 betreffende een vorderingsrecht inzake bescherming van het leefmilieu, in zoverre de gediende collectieve belangen bedreigd of geschaad worden door het misdrijf, vermeld in artikel 6.1.1, dat aanleiding geeft tot de maatregel waaromtrent de Hoge Raad is geadieerd;<br />3° derden die in hun rechten worden geraakt door het misdrijf, vermeld in artikel 6.1.1, dat aanleiding geeft tot de maatregel waaromtrent de Hoge Raad is geadieerd.
+
+## Subsectie 5 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+### ART. 6.1.35.
+
+Elke persoon kan zich in het kader van een procedure voor de Hoge Raad doen bijstaan of laten vertegenwoordigen door een raadsman.<br /><br />Indien deze raadsman optreedt als vertegenwoordiger, legt hij een schriftelijke machtiging daartoe voor, behoudens indien de raadsman ingeschreven is als advocaat of als advocaat-stagiair.
+
+## Sectie 2 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+## Subsectie 1 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+### ART. 6.1.36.
+
+De Vlaamse Regering stelt een procedure- en werkingsreglement vast op voorstel van de Hoge Raad.<br /><br />Dit reglement kan, al dan niet op straffe van nietigheid of onontvankelijkheid voorgeschreven, vorm- en termijnvoorwaarden opleggen, in het bijzonder wat betreft de aanhangigmaking van zaken, het overmaken van overtuigingsstukken, het inzagerecht van belanghebbenden en het horen van belanghebbenden.<br /><br />Het reglement regelt voorts ten minste :<br />1° de werkverdeling in de schoot van de Hoge Raad;<br />2° de wijze waarop het horen, vermeld in artikel 6.1.34, georganiseerd wordt;<br />3° het verloop van de bemiddeling, vermeld in artikel 6.1.52 en 6.1.54;<br />4° de wijze waarop externe deskundigen bij de werking van de Hoge Raad kunnen worden betrokken voor het onderzoeken van bijzondere vraagstukken.<br /><br />Het reglement treedt in werking op de dag van bekendmaking in het Belgisch Staatsblad.
+
+## Subsectie 2 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+### ART. 6.1.37.
+
+De Hoge Raad neemt een huishoudelijk reglement aan.<br /><br />Het huishoudelijk reglement bevat ten minste de deontologische beginselen, gedragsregels en richtlijnen die de leden van de Hoge Raad tot leidraad dienen bij de uitoefening van hun mandaat.
+
+## Sectie 3 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+### ART. 6.1.38.
+
+De Vlaamse Regering stelt de Hoge Raad binnen de beschikbare begrotingskredieten de nodige werkingsmiddelen ter beschikking.
+
+### ART. 6.1.39.
+
+§ 1. De Hoge Raad stelt op grond van de werkingsmiddelen een permanent secretariaat samen.<br /><br />Het permanent secretariaat wordt geleid door een vaste secretaris en staat onder het gezag van de voorzitter in voor de algemene administratieve ondersteuning van de Hoge Raad. De vaste secretaris en de overige leden van het permanent secretariaat beschikken niet over enig stemrecht in de Hoge Raad.<br /><br />§ 2. De aanstelling van de vaste secretaris en de overige leden van het permanent secretariaat gebeurt op grond van een detacherings- of arbeidsovereenkomst.
+
+## Onderafdeling 5 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
+
+### ART. 6.1.40.
+
+Onder het gezag van de Hoge Raad brengt het departement jaarlijks een verslagboek uit, waarin een synthese is opgenomen van de overwegingen die tot de advies- en beslissingspraktijk van de Hoge Raad hebben geleid.
+
+## Afdeling 5 [... (opgeh. Decr. 25 april 2014, art. 22, I: 1 maart 2018)]
+
+### ART. 6.1.41.
+
+§ 1. Naast de straf kan de rechtbank bevelen de plaats in de oorspronkelijke toestand te herstellen of het strijdige gebruik te staken, en/of bouw- of aanpassingswerken uit te voeren en/of een geldsom te betalen gelijk aan de meerwaarde die het goed door het misdrijf heeft verkregen. Dit gebeurt, onverminderd artikel 6.1.7 en 6.1.18, op vordering van de stedenbouwkundig inspecteur of van het college van burgemeester en schepenen op wier grondgebied de werken, handelingen of wijzigingen, vermeld in artikel 6.1.1, werden uitgevoerd. De herstelvordering wordt ingesteld met inachtneming van volgende regelen :<br />1° voor misdrijven die bestaan, of ondermeer bestaan, uit het verrichten van handelingen in strijd met een stakingsbevel of in strijd met de stedenbouwkundige voorschriften aangaande de voor het gebied toegelaten bestemmingen, voor zover daarvan niet op geldige wijze is afgeweken, wordt gevorderd :<br />a) hetzij de uitvoering van het herstel van de plaats in de oorspronkelijke toestand of de staking van het strijdige gebruik,<br />b) hetzij, zo dit kennelijk volstaat om de plaatselijke ordening te herstellen, de uitvoering van bouw- of aanpassingswerken;<br />2° voor andere misdrijven dan deze, vermeld in 1°, wordt de betaling van de meerwaarde gevorderd, tenzij de overheid die de herstelvordering instelt, aantoont dat de plaatselijke ordening hierdoor kennelijk op onevenredige wijze zou worden geschaad, in welk geval één van de maatregelen, vermeld in 1°, wordt gevorderd.<br /><br />Voor de diverse onderdelen van éénzelfde misdrijf kunnen verschillende herstelmaatregelen worden gevorderd, indien deze voldoende individualiseerbaar zijn.<br /><br />§ 2. Indien de vorderingen van de stedenbouwkundig inspecteur en van het college van burgemeester en schepenen niet overeenstemmen, heeft de vordering van eerstgenoemde voorrang.<br /><br />§ 3. De rechtbank bepaalt een termijn voor de uitvoering van de herstelmaatregelen en kan, op vordering van de stedenbouwkundig inspecteur of van het college van burgemeester en schepenen, eveneens een dwangsom bepalen.<br /><br />§ 4. De herstelvordering wordt bij het parket ingeleid bij gewone brief, in naam van het Vlaamse Gewest of van het college van burgemeester en schepenen, door de stedenbouwkundige inspecteurs en de aangestelden van het college van burgemeester en schepenen.<br /><br />§ 5. Het vorderingsrecht van de stedenbouwkundige inspecteur en het college van burgemeester en schepenen verjaart in afwijking van artikel 2262bis, § 1, tweede lid, van het Burgerlijk Wetboek als volgt :<br />1° in ruimtelijk kwetsbare gebieden : door verloop van tien jaren, te rekenen vanaf de dag waarop het misdrijf, vermeld in artikel 6.1.1, gepleegd werd, evenwel met behoud van de toepassing van artikel 6.1.1, derde lid;<br />2° in openruimtegebied : door verloop van tien jaren, te rekenen vanaf de dag waarop het misdrijf, vermeld in artikel 6.1.1, gepleegd werd;<br />3° door verloop van vijf jaren, te rekenen vanaf de dag waarop het misdrijf, vermeld in artikel 6.1.1, gepleegd werd : in de gebieden die niet sorteren onder 1° en 2°.<br /><br />Het eerste lid doet geen afbreuk aan de gemeenrechtelijke schorsings- en stuitingsgronden betreffende burgerlijke rechtsvorderingen volgend uit een misdrijf, en aan de gelding van artikel 26 van de voorafgaande titel van het Wetboek van Strafvordering.<br /><br />Voor de toepassing van het eerste lid, 2°, wordt onder « openruimtegebied » verstaan :<br />1° de landelijke en recreatiegebieden, aangewezen op plannen van aanleg, voor zover zij geen ruimtelijk kwetsbaar gebied uitmaken;<br />2° de gebieden, aangewezen op ruimtelijke uitvoeringsplannen, die sorteren onder :<br />a) de categorie van gebiedsaanduiding « landbouw » of « recreatie », of<br />b) de subcategorie « gemengd openruimtegebied », in zoverre het gebied geen onderdeel is van het Vlaams Ecologisch Netwerk.<br /><br />§ 6. Op straffe van onontvankelijkheid voegt het bestuur het positief advies, vermeld in artikel 6.1.7, aan de herstelvordering toe, onverminderd artikel 6.1.9, derde en vierde lid, en artikel 6.1.10, tweede lid.<br /><br />De Vlaamse Regering kan nadere formele voorwaarden vastleggen waaraan de herstelvordering op straffe van onontvankelijkheid moet voldoen.<br /><br />§ 7. De rechtbank bepaalt het bedrag van de meerwaarde.<br /><br />Bij een veroordeling tot de betaling van een geldsom gelijk aan de meerwaarde kan de veroordeelde zich op een geldige wijze kwijten door binnen een jaar na de uitspraak de plaats te herstellen in de oorspronkelijke toestand of het strijdige gebruik te staken. Hetzelfde geldt ten aanzien van de veroordeling tot bouw- of aanpassingswerken.<br /><br />De Vlaamse Regering bepaalt de regels voor de berekening van het te vorderen bedrag en de betaling van de meerwaarde.
+
+### ART. 6.1.42.
+
+Indien de herstelvordering van de burgerlijke partij enerzijds en die van stedenbouwkundige inspecteur of het college van burgemeester en schepenen anderzijds niet overeenstemmen, bepaalt de rechtbank de gevorderde herstelmaatregel die ze passend acht.
+
+### ART. 6.1.43.
+
+De stedenbouwkundige inspecteur en het college van burgemeester en schepenen kunnen ook voor de rechtbank van eerste aanleg, zetelend in burgerlijke aangelegenheden, in het ambtsgebied waarvan de werken, de handelingen of de wijzigingen, vermeld in artikel 6.1.1, geheel of gedeeltelijk worden uitgevoerd, de herstelmaatregelen vorderen zoals omschreven in artikel 6.1.41, § 1. Artikel 6.1.41, § 1, § 2, § 3, § 5 en § 6, en artikel 6.1.42 zijn van overeenkomstige toepassing.
+
+### ART. 6.1.44.
+
+Een bestuur dat een herstelvordering aanhangig heeft gemaakt bij het Openbaar Ministerie, kan eerst na positief advies van de Hoge Raad voor dezelfde inbreuk een herstelvordering inleiden voor de burgerlijke rechtbank, onverminderd artikel 6.1.15, tweede lid. Hetzelfde geldt indien een herstelvordering eerst voor de burgerlijke rechter werd ingeleid en vervolgens bij het Openbaar Ministerie aanhangig wordt gemaakt.<br /><br />Het advies van de Hoge Raad wordt ingewonnen op de wijze als bepaald in artikel 6.1.13 tot en met 6.1.16.
+
+## Afdeling 6 [... (opgeh. Decr. 25 april 2014, art. 23, I: 1 maart 2018)]
+
+### ART. 6.1.45.
+
+De overtreder brengt de stedenbouwkundige inspecteur en het college van burgemeester en schepenen onmiddellijk, bij aangetekende brief of bij afgifte tegen ontvangstbewijs, op de hoogte indien hij de opgelegde herstelmaatregel vrijwillig heeft uitgevoerd. Daarop wordt door de stedenbouwkundige inspecteur onmiddellijk en na controle ter plaatse een proces-verbaal van vaststelling opgemaakt.<br /><br />De stedenbouwkundige inspecteur zendt een afschrift van het proces-verbaal van vaststelling aan de gemeente en de overtreder.<br /><br />Behoudens bewijs van het tegendeel, geldt enkel het proces-verbaal van vaststelling als bewijs van het herstel en van de datum van het herstel.
+
+### ART. 6.1.46.
+
+Voor het geval dat de plaats niet binnen de door de rechtbank gestelde termijn in de vorige staat wordt hersteld, dat het strijdige gebruik niet binnen die termijn wordt gestaakt of dat de bouw- of aanpassingswerken niet binnen deze termijn worden uitgevoerd, beveelt het vonnis van de rechter, vermeld in de artikelen 6.1.41 en 6.1.43, dat de stedenbouwkundige inspecteur, het college van burgemeester en schepenen en eventueel de burgerlijke partij, ambtshalve in de uitvoering ervan kunnen voorzien.<br /><br />Onverminderd artikel 6.1.10, tweede lid, kan de stedenbouwkundige inspecteur of het college van burgemeester en schepenen eerst na het verkrijgen van het positief advies, vermeld in artikel 6.1.7, overgaan tot het opstarten van een ambtshalve uitvoering. Voor de toepassing van dit lid wordt onder het opstarten van een ambtshalve uitvoering verstaan :<br />1° hetzij het aanvatten van een gunningsprocedure tot aanwijzing van een particulier die het vonnis of het arrest zal uitvoeren;<br />2° hetzij het schriftelijk of mondeling belasten van een particulier, binnen een raamovereenkomst, tot uitvoering van het vonnis of het arrest;<br />3° hetzij het geven van de nodige instructies aan een ambtenaar of een dienst tot uitvoering van het vonnis of het arrest.<br /><br />De overheid of de particulier die het vonnis of arrest uitvoert, is gerechtigd om de materialen en voorwerpen afkomstig van de herstelling van de plaats of van de staking van het strijdig gebruik te verkopen, te vervoeren en te verwijderen.<br /><br />De overtreder die in gebreke blijft, is verplicht alle uitvoeringskosten, verminderd met de opbrengst van de verkoop der materialen en voorwerpen, te vergoeden op vertoon van een staat, opgesteld door de overheid, vermeld in het tweede lid, of begroot en uitvoerbaar verklaard door de beslagrechter in de burgerlijke rechtbank.<br /><br />De verjaring van de herstelmaatregel neemt een aanvang vanaf het verstrijken van de termijn die de rechtbank, overeenkomstig artikel 6.1.41, § 1, laatste lid, bepaalde voor de tenuitvoerlegging ervan.
+
+## Afdeling 7 [... (opgeh. Decr. 25 april 2014, art. 24, I: 1 maart 2018)]
+
+### ART. 6.1.47.
+
+De in artikel 6.1.5 vermelde ambtenaren, agenten of officieren van gerechtelijke politie kunnen mondeling ter plaatse de onmiddellijke staking van het werk, van de handelingen of van het gebruik bevelen indien zij vaststellen dat het werk, de handelingen of de wijzigingen een inbreuk vormen, vermeld in artikel 6.1.1, of wanneer niet voldaan is aan de verplichting van artikel 4.7.19, § 4.<br /><br />Als de in artikel 6.1.5 vermelde ambtenaren, agenten of officieren van gerechtelijke politie ter plaatse niemand aantreffen, dan brengen zij ter plaatse het schriftelijke bevel tot onmiddellijke staking op een zichtbare plaats aan.<br /><br />Het proces-verbaal van de vaststelling wordt binnen acht dagen bij aangetekende brief met bericht van ontvangst of bij gerechtsdeurwaardersexploot ter kennis gebracht van de opdrachtgever, de architect en de persoon of aannemer die de werken of handelingen uitvoert. Betreft het bevel de staking van het gebruik van een goed, dan wordt het proces-verbaal op dezelfde manier ter kennis gebracht van de persoon die het goed gebruikt.<br /><br />Tegelijkertijd wordt bij aangetekende brief een afschrift van het proces-verbaal overgemaakt aan de burgemeester van de gemeente op wier grondgebied deze werken of handelingen werden uitgevoerd en naar de stedenbouwkundige inspecteur.<br /><br />Op straffe van verval moet het bevel tot staking binnen acht dagen na de kennisgeving van het procesverbaal aan de bevoegde stedenbouwkundig inspecteur, door hem worden bekrachtigd. Die bekrachtiging wordt binnen twee werkdagen per aangetekende brief verzonden naar de personen, vermeld in het derde lid.<br /><br />De betrokkene kan in kort geding de opheffing van de maatregel vorderen tegen het Vlaamse Gewest. De vordering wordt gebracht voor de voorzitter van de rechtbank van eerste aanleg in het ambtsgebied waarvan het werk en de handelingen werden uitgevoerd. Boek II, Titel VI van het Gerechtelijk Wetboek is van toepassing op de inleiding en de behandeling van de vordering.
+
+### ART. 6.1.48.
+
+De in artikel 6.1.5 vermelde ambtenaren en agenten of officieren van gerechtelijke politie zijn gerechtigd tot het nemen van alle maatregelen, met inbegrip van verzegeling, inbeslagname van materiaal en materieel, om het bevel tot staking, de bekrachtigingsbeslissing of, in voorkomend geval, de beschikking in kortgeding onmiddellijk te kunnen toepassen.
+
+### ART. 6.1.49.
+
+§ 1. Onverminderd de bepalingen van afdeling 1, wordt een administratieve geldboete van 5.000 euro opgelegd aan de persoon die handelingen, werken of wijzigingen voortzet in strijd met een door de stedenbouwkundige inspecteur bekrachtigd bevel tot staking, vermeld in artikel 6.1.47, vijfde lid.<br /><br />De bekrachtigingsbeslissing vermeldt de bepalingen van het eerste lid.<br /><br />§ 2. De administratieve geldboete wordt opgelegd door de door de Vlaamse Regering aangewezen ambtenaren.<br /><br />De betrokkene wordt van de beslissing tot het opleggen van de administratieve geldboete in kennis gesteld bij aangetekende brief met bericht van ontvangst.<br /><br />De Vlaamse Regering stelt hieromtrent de nadere regels vast.<br /><br />§ 3. De ambtenaren daartoe aangewezen door de Vlaamse Regering beslissen over de gemotiveerde verzoeken om kwijtschelding, vermindering of uitstel van betaling van de geldboeten, vermeld in § 1, die de betrokkene bij aangetekende brief tot hen richt.<br /><br />Het verzoek schorst de bestreden beslissing.<br /><br />§ 4. De verzoeken, vermeld in § 3, worden binnen vijftien dagen, te rekenen vanaf de datum van de afgifte ter post van de aangetekende brief, vermeld in § 2, tweede lid, gericht aan de daartoe door de Vlaamse Regering aangewezen ambtenaren.<br /><br />§ 5. De ambtenaren daartoe aangewezen door de Vlaamse Regering nemen een beslissing binnen dertig dagen, te rekenen vanaf de datum van het overmaken van het verzoek, vermeld in § 4.<br /><br />De beslissing van de bevoegde ambtenaren wordt bij aangetekende brief, met bericht van ontvangst, ter kennis gebracht van de indiener van het verzoekschrift.<br /><br />Bij met redenen omkleed aangetekend schrijven, gericht aan de indiener van het verzoek, kan de bevoegde ambtenaar de voormelde termijn eenmalig verlengen met dertig dagen.<br /><br />§ 6. Indien de beslissing niet is overgemaakt binnen de in § 5 gestelde termijn, wordt het verzoek geacht te zijn ingewilligd.<br /><br />§ 7. De administratieve geldboete moet worden betaald binnen zestig dagen na de kennisgeving van de definitieve beslissing.<br /><br />§ 8. De vordering tot voldoening van de administratieve geldboete verjaart door verloop van vijf jaar, te rekenen vanaf de dag waarop zij is ontstaan.<br /><br />De verjaring wordt gestuit op de wijze en onder de voorwaarden bepaald bij de artikelen 2244 en volgende van het Burgerlijk Wetboek.
+
+### ART. 6.1.50.
+
+§ 1. Bij gebrek aan voldoening van de administratieve geldboete en toebehoren, wordt door de met de invordering belaste ambtenaar een dwangbevel uitgevaardigd.<br /><br />Dit dwangbevel wordt geviseerd en uitvoerbaar verklaard door de daartoe door de Vlaamse Regering aangewezen ambtenaar.<br /><br />§ 2. De betekening van het dwangbevel gebeurt bij gerechtsdeurwaardersexploot of bij aangetekend schrijven.<br /><br />§ 3. Op het dwangbevel zijn de bepalingen van toepassing van deel V van het Gerechtelijk Wetboek houdende bewarend beslag en middelen tot tenuitvoerlegging.<br /><br />§ 4. Binnen een termijn van dertig dagen na de betekening van het dwangbevel kan de betrokkene bij gerechtsdeurwaardersexploot een met redenen omkleed verzet doen, houdende dagvaarding van het Vlaamse Gewest, bij de rechtbank van het arrondissement van de plaats waar de goederen gelegen zijn.<br /><br />Dit verzet schorst de tenuitvoerlegging van het dwangbevel.
+
+## Afdeling 8 [... (opgeh. Decr. 25 april 2014, art. 25, I: 1 maart 2018)]
+
+### ART. 6.1.51.
+
+§ 1. Vóór de hypothecaire overschrijving van de dagvaarding voor de correctionele rechtbank op grond van artikel 6.1.1 of het exploot tot inleiding van het geding in de zin van artikel 6.1.41 tot en met 6.1.43, kan een overtreder de stedenbouwkundige inspecteur per beveiligde zending verzoeken om een minnelijke schikking, behoudens in elk van volgende gevallen :<br />1° gevallen van recidive;<br />2° gevallen waarin meer dan drie misdrijven vastgesteld worden;<br />3° gevallen waarin het misdrijf bestaat, of ondermeer bestaat, uit het verrichten van handelingen in strijd met een stakingsbevel of in strijd met de stedenbouwkundige voorschriften aangaande de voor het gebied toegelaten bestemmingen.<br /><br />§ 2. Een minnelijke schikking is een vergelijk tussen de stedenbouwkundige inspecteur en de overtreder waarvan de uitvoering leidt tot het verval van de strafvordering en van de herstelvordering.<br />Het vergelijk betreft :<br />1° de betaling van een geldsom, en/of<br />2° de uitvoering van door de stedenbouwkundige inspecteur opgelegde bouw- of aanpassingswerken, tenzij :<br />a) een regularisatievergunning werd verkregen,<br />b) de overtreder voorafgaandelijk is overgegaan tot het herstel van de plaats in de oorspronkelijke staat, respectievelijk de staking van het strijdige gebruik.<br /><br />§ 3. De stedenbouwkundige inspecteur stemt slechts in met een minnelijke schikking indien hij daartoe het voorafgaand schriftelijk akkoord van de procureur des Konings verkrijgt.<br /><br />Indien bij het vergelijk bouw- of aanpassingswerken worden opgelegd, stemt de stedenbouwkundige inspecteur slechts in met de minnelijke schikking na een stedenbouwkundige toetsing op de wijze als voorgeschreven in een protocolakkoord tussen het agentschap en de gewestelijke administratie, belast met het toezicht en de handhaving inzake ruimtelijke ordening.<br /><br />§ 4. De stedenbouwkundige inspecteur geeft per beveiligde zending kennis van de instemming met een minnelijke schikking, respectievelijk van de weigering van die instemming.<br /><br />§ 5. De minnelijke schikking is uitgevoerd wanneer de geldsom is betaald en/of de stedenbouwkundige inspecteur heeft vastgesteld dat de door hem opgelegde bouw- of aanpassingswerken zijn uitgevoerd.<br /><br />§ 6. De Vlaamse Regering bepaalt de regelen tot vaststelling van het bedrag van de geldsom, vermeld in § 2, tweede lid, 1°, en regelt de betalingsmodaliteiten.<br /><br />Zij kan tevens nadere procedurele regelen vastleggen voor de toepassing van deze bepaling.
+
+### ART. 6.1.52.
+
+§ 1. Indien de stedenbouwkundige inspecteur een minnelijke schikking weigert om een andere reden dan een niet-akkoord van de procureur des Konings, kan de overtreder de Hoge Raad op gemotiveerde wijze verzoeken om een bemiddelingspoging te ondernemen.<br /><br />Het bemiddelingsverzoek wordt op straffe van onontvankelijkheid overgemaakt per beveiligde zending, binnen een vervaltermijn van dertig dagen, die ingaat de dag na deze van de betekening van de weigeringsbeslissing van de stedenbouwkundige inspecteur.<br /><br />§ 2. De Hoge Raad geeft de aanvrager en de stedenbouwkundige inspecteur per beveiligde zending kennis van de inaanmerkingneming of de niet-inaanmerkingneming van het bemiddelingsverzoek.<br /><br />§ 3. Een bemiddelingspoging neemt een einde indien de stedenbouwkundige inspecteur per beveiligde zending kennis geeft van het feit dat hij, mede rekening houdend met het bemiddelingsproces, alsnog instemt met een minnelijke schikking, of desalniettemin vasthoudt aan de weigering tot instemming met een minnelijke schikking. De stedenbouwkundige inspecteur bezorgt de Hoge Raad een afschrift van deze kennisgeving.<br /><br />Onverminderd het eerste lid, kan de Hoge Raad een bemiddelingspoging te allen tijde beëindigen eens hij vaststelt dat de randvoorwaarden voor een geslaagde bemiddeling niet of niet langer zijn vervuld. De Hoge Raad stelt de overtreder daarvan per beveiligde zending in kennis. Hij bezorgt de stedenbouwkundige inspecteur een afschrift van deze kennisgeving.
+
+### ART. 6.1.53.
+
+Een aanvraag tot minnelijke schikking schorst de verjaring van de strafvordering en van de herstelvordering. De schorsing vangt aan vanaf de datum van betekening van de aanvraag aan de stedenbouwkundige inspecteur. Zij neemt een einde vanaf :<br />1° hetzij de datum waarop de minnelijke schikking is uitgevoerd in de zin van artikel 6.1.51, § 5;<br />2° hetzij de datum waarop de stedenbouwkundige inspecteur de weigeringsbeslissing overmaakt.<br /><br />Een aanvraag tot bemiddeling door de Hoge Raad schorst eveneens de verjaring van de strafvordering en van de herstelvordering. De schorsing vangt aan vanaf de datum van betekening van de aanvraag aan de Hoge Raad. Zij neemt een einde vanaf :<br />1° hetzij de datum waarop de Hoge Raad de beslissing tot niet-inaanmerkingneming van de aanvraag aan de overtreder overmaakt;<br />2° hetzij de datum waarop de in het kader van de bemiddeling tot stand gekomen minnelijke schikking is uitgevoerd in de zin van artikel 6.1.51, § 5;<br />3° hetzij de datum waarop de stedenbouwkundige inspecteur aan de overtreder een nieuwe weigeringsbeslissing overmaakt;<br />4° hetzij de datum waarop de Hoge Raad aan de overtreder een kennisgeving verstuurt blijkens dewelke de randvoorwaarden voor een geslaagde bemiddeling niet of niet langer zijn vervuld.
+
+### ART. 6.1.54.
+
+§ 1. In elke stand van het geding kan de reeds geadieerde rechter een bemiddelingspoging door de Hoge Raad bevelen, zolang de zaak niet in beraad is genomen.<br /><br />Indien de bemiddelingspoging bevolen wordt door de strafrechter, geldt artikel 6.1.51, § 3, eerste lid, niet. Indien de bemiddelingspoging bevolen wordt door de burgerlijke rechter, kan voorbij worden gegaan aan de voorwaarde, vermeld in artikel 6.1.51, § 3, eerste lid, met dien verstande dat een minnelijke schikking in dat geval slechts leidt tot het verval van de herstelvordering en niet tot het verval van de strafvordering.<br /><br />De rechterlijke beslissing die een bemiddelingspoging beveelt, legt de duur van de bemiddelingsopdracht van de Hoge Raad vast, zonder dat deze drie maanden kan overschrijden. Zij vermeldt tevens de datum waarop de zaak is verdaagd.<br /><br />§ 2. Bij afloop van zijn bemiddelingsopdracht meldt de Hoge Raad de rechter schriftelijk of de partijen al dan niet tot een vergelijk zijn gekomen.<br /><br />Zo de bemiddeling niet tot een minnelijke schikking heeft geleid, wordt de gerechtelijke procedure op de vastgestelde dag voortgezet. De rechter behoudt niettemin de mogelijkheid om, zo hij dat opportuun acht en zowel de stedenbouwkundige inspecteur als de overtreder ermee instemmen, de bemiddelingsopdracht van de Hoge Raad voor een door hem bepaalde termijn te verlengen.<br /><br />§ 3. Gedurende de bemiddeling blijft de rechter geadieerd en kan hij op elk ogenblik de noodzakelijk geachte maatregel treffen. Op verzoek van de Hoge Raad kan hij ook vóór het verstrijken van de vastgestelde termijn een einde maken aan de bemiddeling.<br /><br />§ 4. Er is geen voorziening mogelijk tegen de beslissing waarbij de bemiddeling wordt bevolen, verlengd of beëindigd.
+
+## Afdeling 9 [... (opgeh. decr. 18 december 2009, art. 19, I: 1 september 2009)]
+
+### ART. 6.1.55.
+
+...
+
+## Afdeling 10 [... (opgeh. Decr. 25 april 2014, art. 26, I: 1 maart 2018)]
+
+### ART. 6.1.56.
+
+Er wordt een Herstelfonds opgericht als gewestdienst met afzonderlijk beheer, vermeld in artikel 140 van de gecoördineerde wetten op de Rijkscomptabiliteit.<br /><br />Aan het Herstelfonds worden toegewezen :<br />1° alle ontvangsten die voortvloeien uit de toepassing van titel VI;<br />2° het saldo van alle op het Grondfonds, vermeld in artikel 5.6.3, beschikbare middelen op 31 december 2005, verminderd met het bedrag dat voor planschadevergoedingen op de begroting van 2005 van het Grondfonds werd ingeschreven en de helft van het bedrag dat in hetzelfde jaar werd ingeschreven als naar het volgende begrotingsjaar over te dragen saldo;<br />3° het per 31 december van het jaar voorafgaande aan het begrotingsjaar beschikbare saldo van het Herstelfonds.<br /><br />Het op basis van deze ontvangsten gevormd Herstelfonds is bestemd voor alle uitgaven die voortvloeien uit de toepassing van titel VI.<br /><br />Alle schulden, vorderingen en tegoeden van het Grondfonds die betrekking hebben op de toepassing van titel VI worden overgenomen door het Herstelfonds.
+
+## Afdeling 11 [... (opgeh. Decr. 25 april 2014, art. 27, I: 1 maart 2018]
+
+### ART. 6.1.57.
+
+De bouw- of aanpassingswerken, vermeld in deze titel, kunnen afwijken van stedenbouwkundige voorschriften of verkavelingsvoorschriften, doch slechts voor zover zulks noodzakelijk is voor het verkrijgen van effectief rechtsherstel.<br /><br />Deze bouw- of aanpassingswerken zijn nimmer vergunnings- of meldingsplichtig. Zij kunnen niettemin leiden tot een regularisatievergunning voor de betrokken constructie indien aan de normale regels daarvoor is voldaan.
+
+### ART. 6.1.58.
+
+Ten aanzien van niet-geregulariseerde en wederrechtelijk opgerichte of in stand gehouden onderdelen van een goed kunnen stabiliteitswerken, vermeld in artikel 4.1.1, 11°, worden vergund, voor zover de overtreder voldaan heeft aan alle verplichtingen die zijn opgelegd in een minnelijke schikking, of in een vonnis of arrest waarin de uitvoering van bouw-of aanpassingswerken of de betaling van een meerwaardevergoeding bevolen wordt.
+
+## HOOFDSTUK II [Sancties (verv. Decr. 25 april 2014, art. 28, I: 1 maart 2018)]
+
+## [Afdeling 1. Stedenbouwkundige misdrijven en stedenbouwkundige inbreuken (ing. Dec. 25 april 2014, art. 29, I: 1 maart 2018)]
+
+### ART. 6.2.1.
+
+De dagvaarding voor de correctionele rechtbank op grond van artikel 6.1.1, of het exploot tot inleiding van het geding, vermeld in de artikelen 6.1.41 tot en met 6.1.43, is pas ontvankelijk na overschrijving in het hypotheekkantoor van het gebied waar de goederen gelegen zijn. Indien een ontvankelijk verzoek tot minnelijke schikking aan de stedenbouwkundige inspecteur wordt gericht, kan een overschrijving eerst worden gerealiseerd na het verstrijken van de termijn, vermeld in artikel 6.1.52, § 1, tweede lid, of, indien binnen deze termijn om een bemiddelingspoging bij de Hoge Raad is verzocht, na het beëindigen van deze bemiddelingspoging.<br /><br />Elke eindbeslissing die in de zaak gewezen is, wordt op de kant van de overgeschreven dagvaarding of van het overgeschreven exploot ingeschreven op de wijze, bepaald in artikel 84 van de hypotheekwet. Bij gebrek aan een overschrijving, vermeld in het eerste lid, wordt de eindbeslissing ingeschreven op de kant van de overschrijving van de titel van verkrijging.<br /><br />Hetzelfde geldt voor het proces-verbaal waarbij wordt vastgesteld dat het vonnis is uitgevoerd.<br /><br />De dagvaarding of het exploot vermeldt de kadastrale omschrijving van het onroerend goed dat het voorwerp is van het misdrijf, en identificeert de eigenaar ervan, in de vorm en onder de sanctie, voorgeschreven door de wetgeving inzake de hypotheken.<br /><br />Elke beslissing die in de zaak gewezen is, is steeds tegenstelbaar aan derden-verkrijgers, van wie de titel van verkrijging niet was overgeschreven vóór de in het eerste lid vermelde overschrijving, of vóór de inschrijving van de dagvaarding of het exploot tot inleiding van het geding, op de kant van de overschrijving van een eerdere titel van verkrijging.<br /><br />Wanneer openbare besturen of derden wegens het in gebreke blijven van de veroordeelde gedwongen zijn om het vonnis uit te voeren, wordt de daaruit te hunnen bate voortvloeiende schuldvordering gewaarborgd door een wettelijke hypotheek, die ingeschreven, vernieuwd, verminderd of geheel of gedeeltelijk doorgehaald wordt overeenkomstig de bepalingen in de hoofdstukken IV en V van de hypotheekwet.<br /><br />Die waarborg dekt ook de schuldvordering ten gevolge van de kosten van de hypothecaire formaliteiten, die door hen zijn voorgeschoten en die ten laste komen van de veroordeelde.
+
+### ART. 6.2.2.
+
+De dagvaarding voor de correctionele rechtbank op grond van artikel 6.1.1, of het exploot tot inleiding van het geding, vermeld in artikelen 6.1.41 tot en met 6.1.43, wordt in het vergunningenregister van de gemeente waar het onroerend goed gelegen is, ingeschreven op verzoek van de deurwaarder die het exploot heeft opgemaakt.<br /><br />Iedere in de zaak gewezen beslissing wordt ingeschreven in het vergunningenregister.<br /><br />Hetzelfde geldt voor het proces-verbaal waarbij wordt vastgesteld dat het vonnis is uitgevoerd.
+
+## [Afdeling 2. Voorkomen en vaststellen van stedenbouwkundige misdrijven en inbreuken (ing. Decr. 25 april 2014, art.32, I: 1 maart 2018)]
+
+## [Onderafdeling 1. Raadgeving en aanmaning (ing. Decr. 25 april 2014, art.33, I: 1 maart 2018)]
+
+## [Onderafdeling 2. Vaststelling van stedenbouwkundige misdrijven (ing. Decr. 25 april 2014, art.35, I: 1 maart 2018)]
+
+## [Onderafdeling 3. Vaststelling van stedenbouwkundige inbreuken (ing. Decr. 25 april 2014, art.37, I: 1 maart 2018)]
+
+## [Onderafdeling 4. Verbalisanten ruimtelijke ordening (ing. Decr. 25 april 2014, art. 38/1, I: 30 december 2017)]
+
+## [Afdeling 3. Het opleggen van een bestuurlijke geldboete (ing. Decr. 25 april 2014, art.39, I: 1 maart 2018)]
+
+## [Onderafdeling 1. Basisbepalingen (ing. Decr. 25 april 2014, art.40, I: 1 maart 2018)]
+
+## [Onderafdeling 2. Het opleggen van een exclusieve bestuurlijke geldboete voor inbreuken (ing. Decr. 25 april 2014, art.47, I: 1 maart 2018)]
+
+## [Onderafdeling 3. Het opleggen van een alternatieve bestuurlijke geldboete voor misdrijven (ing. Decr. 25 april 2014, art. 49, I: 1 maart 2018)]
+
+## [Afdeling 4. Voorstel tot betaling van een geldsom (ing. Decr. 25 april 2014, art. 51, I: 1 maart 2018)]
+
+## HOOFDSTUK III [Rechterlijke maatregelen (verv. Decr. 25 april 2014, art. 53, I: 1 maart 2018)]
+
+## [Afdeling 1. Rechterlijke herstelmaatregelen (ing. Decr. 25 april 2014, art. 54, I: 1 maart 2018 )]
+
+### ART. 6.3.1.
+
+De rechtbank kan, op vordering van de kopers of de huurders van het goed, voorwerp van de in de artikelen 6.1.41 tot en met 6.1.43 vermelde vordering, naar gelang van het geval, hun titel van eigendomsverkrijging of van huur op kosten van de veroordeelde vernietigen, onverminderd het recht om vergoeding van de schade te eisen van de schuldige.<br /><br />De vordering tot vernietiging kan niet meer worden ingeroepen indien de inbreuk op de informatieplicht met betrekking tot de publiciteit en de onderhandse overeenkomst is rechtgezet bij de authentieke akteverlening en de informatiegerechtigde in deze akte verzaakt aan de vordering tot nietigverklaring op basis van een inbreuk op de informatieplicht.
+
+## [Afdeling 2. De Hoge Raad voor de Handhavingsuitvoering (ing. Decr. 25 april 2014, art. 61, I: 1 maart 2018)]
+
+## [Onderafdeling 1. Algemene bepalingen (ing. Decr. 25 april 2014, art. 62, I: 1 maart 2018)]
+
+## [Onderafdeling 2. Adviesplichten (ing. Decr. 25 april 2014, art. 66, I: 1 maart 2018)]
+
+## [ Onderafdeling 3. Bevoegdheid inzake advisering bij opeisbare dwangsomschulden en bij beroepen tegen bestuurlijke besluiten (ing. Decr. 25 april 2014, art. 69, I: 1 maart 2018)]
+
+## [Onderafdeling 3/1. Bemiddeling (ing. Decr. 25 april 2014, art. 70/2, I: 30 december 2017)]
+
+## [Onderafdeling 4. Werking (ing. Decr. 25 april 2014, art. 71, I: 1 maart 2018)]
+
+## [HOOFDSTUK IV. Bestuurlijke maatregelen (ing. Decr. 25 april 2014, art. 77, I: 1 maart 2018)]
+
+## [Afdeling 1. Basisbepalingen (ing. Decr. 25 april 2014, art. 78, I: 1 maart 2018)]
+
+## [Afdeling 2. Stakingsbevel (ing. Decr. 25 april 2014, art. 82, I: 1 maart 2018)]
+
+## [Afdeling 3. Bestuursdwang (ing. Decr. 25 april 2014, art. 86, I: 1 maart 2018)]
+
+## [Afdeling 4. Last onder dwangsom (ing. Decr. 25 april 2014, art. 94, I: 1 maart 2018)]
+
+## [Afdeling 5. Minnelijke schikking (ing. Decr. 25 april 2014, art. 100, I: 1 maart 2018)]
+
+## [HOOFDSTUK V. Inkomsten uit handhaving (ing. Decr. 25 april 2014, art. 105, I: 1 maart 2018)]
+
+## [HOOFDSTUK VI. Diverse bepalingen (ing. Decr. 25 april 2014, art. 107, I: 1 maart 2018)]
+
+## TITEL VII Diverse temporele en overgangsmaatregelen
+
+## HOOFDSTUK I Algemene beginselen
+
+### ART. 7.1.1.
+
+Behoudens andersluidende bepalingen, hebben de regelingen van het decreet van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid onmiddellijke werking. Dat houdt in het bijzonder in dat zij vanaf hun datum van inwerkingtreding van toepassing zijn op de plannings-, vergunningen- en handhavingsprocedures als vastgelegd bij voorliggende codex, in de stand waarin zij zich bevinden.
+
+### ART. 7.1.2.
+
+De bestaande reglementaire bepalingen die onder het toepassingsgebied van deze codex vallen en die niet strijdig zijn met deze codex, blijven van kracht totdat ze worden gewijzigd, opgeheven of vervangen door besluiten genomen ter uitvoering van deze codex.<br /><br />Overtredingen op de in het eerste lid vermelde reglementaire bepalingen na het van kracht worden van deze codex worden gestraft met straffen bij deze codex bepaald.
+
+## HOOFDSTUK II Ontvoogding gemeenten
+
+### ART. 7.2.1.
+
+§ 1. Wanneer een gemeente beschikt over een goedgekeurd gemeentelijk ruimtelijk structuurplan waarin zowel een bindend, een richtinggevend als een informatief gedeelte zijn opgenomen, een gemeentelijke stedenbouwkundige ambtenaar, een conform verklaard plannenregister, een vastgesteld vergunningenregister en een register van de onbebouwde percelen, wordt dit vastgesteld door de Vlaamse Regering. Die vaststelling wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br /><br />Bij uitzondering kan de Vlaamse Regering bij de vaststelling, genoemd in het eerste lid, beslissen dat een gemeente die beschikt over een goedgekeurd gemeentelijk ruimtelijk structuurplan en een gemeentelijke stedenbouwkundige ambtenaar, en welke gemeente in ruime mate, maar niet volledig, voldoet aan de voorwaarden inzake een conform verklaard plannenregister, een vastgesteld vergunningenregister en een register van de onbebouwde percelen, geacht wordt te voldoen aan de voorwaarden, vermeld in de eerste zin van het eerste lid. Die beslissing geldt als vaststelling in de zin van het eerste lid, en wordt eveneens bij uittreksel bekendgemaakt in het Belgisch Staatsblad. De Vlaamse Regering kan bij die beslissing een termijn opleggen waarbinnen de gemeente volledig dient te voldoen aan de voorwaarden. De Vlaamse Regering stelt nadere regels vast voor de beoordeling van de voorwaarden die in aanmerking komen voor de toepassing van dit lid.<br /><br />§ 2. Indien in een gezamenlijk ruimtelijk structuurplan, vermeld in artikel 2.1.1, derde lid, bindende bepalingen zijn opgenomen, worden voor de toepassing van § 1, eerste lid, alle gemeenten die ressorteren onder dat gezamenlijk ruimtelijk structuurplan geacht te beschikken over een bindend gedeelte.<br /><br />§ 3. Vóór het einde van het vijfde jaar na 1 mei 2000 stelt de Vlaamse Regering vast welke gemeenten niet voldoen aan de voorwaarden, vermeld in § 1. De Vlaamse Regering kan op grond van die vaststelling de nodige initiatieven nemen om te verzekeren dat die gemeenten binnen een termijn van zeven jaar na 1 mei 2000 voldoen aan de voorwaarden, vermeld in § 1.<br /><br />§ 4. Wanneer een gemeente, nadat voldaan is aan de voorwaarden, vermeld in § 1, niet langer deze voorwaarden blijft vervullen, of de registers niet bijhoudt zoals in deze codex voorzien, of wanneer de stedenbouwkundige of verkavelingsvergunningen die worden verleend door het college van burgemeester en schepenen aanleiding geven tot het inwilligen van een beroep voor een significant aandeel van de afgeleverde vergunningen, of wanneer de gemeente op enige andere wijze blijk geeft van onbehoorlijk bestuur in het kader van de taken die haar krachtens deze codex worden opgedragen, dan wordt dit op voorstel van de gewestelijke stedenbouwkundige ambtenaar vastgesteld door de Vlaamse Regering. Deze vaststelling wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.
+
+## HOOFDSTUK III Man/vrouw-evenwicht in de GECORO
+
+### ART. 7.3.1.
+
+§ 1. Tijdens de gemeentelijke legislatuur 2006-2012 geldt dat het enkele feit dat niet voldaan is aan de regelingen inzake evenwichtige vertegenwoordiging van vrouwen en mannen, vermeld in artikel 200, § 2, van het Gemeentedecreet van 15 juli 2005, de rechtsgeldigheid van de door een gemeentelijke commissie voor ruimtelijke ordening uitgebrachte adviezen niet in het gedrang brengt.<br /><br />§ 2. Vanaf 1 september 2009 tot en met het einde van de gemeentelijke legislatuur 2006-2012 geldt een overgangsregime waarbij, indien in een gemeentelijke commissie voor ruimtelijke ordening méér dan twee derden van de leden van hetzelfde geslacht is, bij elke nieuwe benoeming een lid van het ondervertegenwoordigde geslacht wordt benoemd.<br /><br />Lopende het overgangsregime kan de gemeenteraad ook beslissen om van effectieve leden van het oververtegenwoordigde geslacht plaatsvervangende leden maken, en om van plaatsvervangende leden van het ondervertegenwoordigde geslacht effectieve leden maken, opdat de evenwichtige vertegenwoordiging van vrouwen en mannen ten minste bij de effectieve leden verwezenlijkt of benaderd zou worden. De verschuiving van effectief lid naar plaatsvervangend lid, en van plaatsvervangend lid naar effectief lid, wordt niet beschouwd als een nieuwe benoeming die noopt tot een goedkeuring door de deputatie.
+
+## HOOFDSTUK IV Planning
+
+## Afdeling 1 Bijzondere validaties
+
+### ART. 7.4.1.
+
+§ 1. De besluiten van de Vlaamse Regering houdende definitieve vaststelling van gewestplanwijzigingen worden geldig verklaard met ingang van de datum van inwerkingtreding ervan. De geldigverklaring is beperkt tot de schending van de verplichting om het advies van de afdeling Wetgeving van de Raad van State in te winnen, dan wel de schending van de verplichting om de spoedbehandeling van de adviesaanvraag bij de afdeling Wetgeving van de Raad van State met bijzondere redenen te omkleden.<br /><br />De geldigverklaring geldt tot het tijdstip van de inwerkingtreding van een ruimtelijk uitvoeringsplan dat, voor het gebied waarop het betrekking heeft, het gewestplan vervangt.<br /><br />§ 2. De Vlaamse Regering is ertoe gemachtigd de besluiten houdende definitieve vaststelling van gewestplanwijzigingen die volgens een vernietigingsarrest van de Raad van State aangetast zijn door een schending, vermeld in § 1, eerste lid, voor de toekomst ongewijzigd vast te stellen voor de percelen waarop het arrest betrekking heeft.<br /><br />De besluiten die de Vlaamse Regering vaststelt met toepassing van het eerste lid, hebben eerst uitwerking na de bekrachtiging ervan door de decreetgever.
+
+### ART. 7.4.1/2.
+
+<P><STRONG>[</STRONG>... <EM>(vernietigd GWH arrest 114/2013 van 31 juli   2013)</EM><STRONG>]</STRONG></P>
+
+### ART. 7.4.2.
+
+Bij de toepassing van de bijzondere gewestplanvoorschriften « regionaal bedrijventerrein met openbaar karakter », « lokaal bedrijventerrein met openbaar karakter », « transportzone », « gebied voor watergebonden bedrijven », « gebied voor zeehaven- en watergebonden bedrijven », « kantoor- en dienstenzone », « teleport » en « kleinhandelszone » worden de volgende onderdelen van de betrokken voorschriften voor onbestaande gehouden :<br />1° de woorden « met openbaar karakter » in de titel van het voorschrift;<br />2° de woorden « met openbaar karakter » in het eerste lid of de eerste zin van het voorschrift;<br />3° de vermelding dat het gebied en desgevallend de bufferzone die het omvat, alleen door de overheid kan worden gerealiseerd;<br />4° de vermelding dat de Vlaamse regering kan bepalen dat een bijzonder plan van aanleg voorafgaand aan de ontwikkeling van dat gebied goedgekeurd dient te worden, of dat het karakter van het terrein, de aard van de activiteiten, de omvang van de bebouwing, het architecturaal karakter, de breedte en de wijze van aanleg van de omringende bufferzone en dergelijke meer, voordat het gebied kan worden ontwikkeld, vastgelegd moeten worden in een bijzonder plan van aanleg en/of een ruimtelijk uitvoeringsplan.
+
+## Afdeling 2 Algemene en bijzondere plannen van aanleg
+
+### ART. 7.4.3.
+
+Nadat een eerste gemeentelijk ruimtelijk structuurplan definitief is vastgesteld en door de deputatie of de Vlaamse Regering is goedgekeurd, kunnen voor die gemeente geen procedures tot opmaak of herziening van algemene plannen van aanleg en bijzondere plannen van aanleg en daarmee samenhangende onteigeningsplannen overeenkomstig de artikelen 12 tot en met 34 van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996, meer aangevat worden.<br /><br />Vanaf datzelfde ogenblik zijn artikel 2.2.1 tot en met 2.2.5 en artikel 2.2.13 tot en met 2.2.18 van toepassing voor die gemeente.<br /><br />Procedures tot opmaak of herziening van algemene plannen van aanleg en bijzondere plannen van aanleg en daarmee samenhangende onteigeningsplannen die lopen op het moment van de goedkeuring van het gemeentelijk ruimtelijk structuurplan, worden voortgezet overeenkomstig de in het eerste lid vermelde artikelen. Hetzelfde geldt voor procedures tot opmaak of herziening van algemene plannen van aanleg en bijzondere plannen van aanleg en daarmee samenhangende onteigeningsplannen die lopen op 1 mei 2000 in gemeenten die op dat moment beschikken over een goedgekeurd gemeentelijk ruimtelijk structuurplan. Er is een lopende procedure in de zin van deze bepaling indien het plan van aanleg of het plan tot herziening van een bestaand plan van aanleg voorlopig is aangenomen door de gemeenteraad.
+
+### ART. 7.4.4.
+
+§ 1. De voorschriften van de plannen van aanleg behouden hun verordenende kracht tot zij worden vervangen. De grafische en tekstuele voorschriften van de plannen van aanleg hebben dezelfde waarde. Van deze voorschriften kan enkel worden afgeweken overeenkomstig de daartoe in deze codex vastgestelde afwijkingsmogelijkheden.<br /><br />§ 2. Gemeenten kunnen tot 31 december 2011 overgaan tot de definitieve aanname van bijzondere plannen van aanleg en daarmee samenhangende onteigeningsplannen overeenkomstig de bepalingen van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996, zoals dat gold op 31 augustus 2009, met dien verstande dat deze plannen niet kunnen afwijken van de voorschriften van het gewestplan, respectievelijk van het decreet van 27 maart 2009 houdende vaststelling van een kader voor de gebruikerscompensatie bij bestemmingswijzigingen, overdrukken en erfdienstbaarheden tot openbaar nut.<br /><br />In voorkomend geval omvat dergelijk bijzonder plan van aanleg een register, al dan niet grafisch, van de percelen waarop een bestemmingswijziging wordt doorgevoerd die aanleiding kan geven tot een planschadevergoeding, vermeld in artikel 2.6.1, een planbatenheffing, vermeld in artikel 2.6.4, of een compensatie, vermeld in boek 6, titel 2 of titel 3, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.
+
+### ART. 7.4.5.
+
+De voorschriften van de ruimtelijke uitvoeringsplannen vervangen, voor het grondgebied waarop ze betrekking hebben, de voorschriften van de plannen van aanleg, tenzij het ruimtelijk uitvoeringsplan het uitdrukkelijk anders bepaalt.
+
+## Afdeling 3 Provinciale structuurplanning
+
+### ART. 7.4.6.
+
+Vanaf het moment dat het eerste provinciaal ruimtelijk structuurplan door de Vlaamse Regering is goedgekeurd, zijn de artikelen 2.2.1 tot en met 2.2.5 en artikel 2.2.9 tot en met 2.2.12 van toepassing voor die provincie.
+
+## Afdeling 4 Gemeentelijke structuurplanning
+
+### ART. 7.4.7.
+
+In afwijking van artikel 2.1.2, § 1, kan een gemeenteraad beslissen om een ruimtelijk structuurplan vast te stellen waarin geen bindend gedeelte is opgenomen. Dergelijk ruimtelijk structuurplan wordt overeenkomstig deze codex uitgevoerd middels ruimtelijke uitvoeringsplannen. Desalniettemin voldoet de gemeente niet aan de ontvoogdingsvoorwaarden, vermeld in artikel 7.2.1, § 1.
+
+## Afdeling 5 Voorkooprecht
+
+### ART. 7.4.8.
+
+De verlenging, ingevolge artikel 26 van het decreet van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid, van de termijn waarbinnen het voorkooprecht, vermeld in artikel 2.4.1, moet worden uitgeoefend, is eerst van toepassing op de ruimtelijke uitvoeringsplannen die voorlopig worden vastgesteld vanaf 1 september 2009.<br /><br />Deze verlenging is niet van toepassing op ruimtelijke uitvoeringsplannen die eerder voorlopig of definitief werden vastgesteld, en doet vervallen voorkooprechten niet herleven.
+
+## Afdeling 6 Onteigening
+
+### ART. 7.4.9.
+
+De bepalingen van de artikelen 2.4.3 tot en met 2.4.9 zijn eveneens van toepassing bij de verwerving van onroerende goederen, vereist voor de verwezenlijking van de plannen van aanleg.<br /><br />Als het plannen van aanleg betreft die reeds zijn goedgekeurd vóór 8 februari 2004, vangt de termijn van vijf jaar, vermeld in artikel 2.4.4, § 2, tweede lid, evenwel aan op 8 februari 2004.<br /><br />Voor onteigeningsplannen, waarbij de termijn van vijf jaar, vermeld in artikel 2.4.8, eerste lid, reeds is verstreken, maar de termijn van tien jaar, genoemd in artikel 33, eerste lid, van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996 nog niet is verstreken, wordt deze termijn van vijf jaar geacht te verstrijken op 8 februari 2005.
+
+### ART. 7.4.10.
+
+Onteigeningsplannen, vermeld in artikel 2.4.4, § 2, die vóór 1 september 2009 voorlopig werden aangenomen, worden verder behandeld overeenkomstig de procedureregelen die golden op het ogenblik van de voorlopige aanneming.
+
+## Afdeling 7 Planschade en planbaten
+
+### ART. 7.4.11.
+
+Artikelen 2.6.1 tot en met 2.6.3 zijn van overeenkomstige toepassing op de plannen van aanleg die vanaf 1 september 2009 voorlopig worden aangenomen.<br /><br />Vorderingen tot betaling van planschadevergoedingen die zijn ontstaan uit eerdere plannen van aanleg, worden afgehandeld overeenkomstig de bepalingen van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996, zoals dat gold op 31 augustus 2009.
+
+### ART. 7.4.12.
+
+Voor de eerste toepassing van de planbatenregeling, vermeld in artikel 2.6.4, geldt dat alle ruimtelijke uitvoeringsplannen en bijzondere plannen van aanleg die vanaf 1 september 2009 voorlopig worden vastgesteld of aangenomen, planbaten kunnen doen ontstaan, ongeacht de datum waarop de opmaakprocedure een aanvang heeft genomen.<br /><br />De verplichting, opgenomen in artikel 2.2.2, § 1, eerste lid, 7°, respectievelijk artikel 7.4.4, § 2, tweede lid, om in ruimtelijke uitvoeringsplannen, respectievelijk bijzondere plannen van aanleg, een register op te nemen van de percelen waarop een bestemmingswijziging wordt doorgevoerd die aanleiding kan geven tot een planschadevergoeding, een planbatenheffing, vermeld in artikel 2.6.4, een compensatie, vermeld in boek 6, titel 2 of titel 3 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid, of een gebruikerscompensatie, geldt eveneens slechts ten aanzien van ruimtelijke uitvoeringsplannen en bijzondere plannen van aanleg die voorlopig worden vastgesteld of aangenomen vanaf 1 september 2009.
+
+### ART. 7.4.13.
+
+<p>Voor de toepassing van de planbatenregeling, vermeld in artikel 2.6.4, worden de bestemmingsvoorschriften van de plannen van aanleg als volgt geconcordeerd naar de aldaar gehanteerde categorieën of subcategorieën van gebiedsaanduiding :<br>
+&nbsp;</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Bestemmingsvoorschriften van de plannen van aanleg |ad <!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>(Sub)categorie van gebiedsaanduiding</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Woongebieden</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Wonen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Industriegebieden</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Bedrijvigheid</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Dienstverleningsgebieden</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Bedrijvigheid</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Agrarische gebieden</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Landbouw</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Bosgebieden</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Bos</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Groengebieden</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Overig groen en Reservaat en natuur</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Recreatiegebieden</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Recreatie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Gebieden voor gemeenschapsvoorzieningen en openbare nutsvoorzieningen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Gemeenschaps- en nutsvoorzieningen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Ontginningsgebieden</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Gebied voor de winning van oppervlaktedelfstoffen</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>De Vlaamse Regering bepaalt de concordantie van bijzondere bestemmingsvoorschriften van de plannen van aanleg naar de categorieën of subcategorieën van gebiedsaanduiding, vermeld in het eerste lid, in zoverre die bijzondere bestemmingsvoorschriften overeenstemmen met de bij de (sub)categorieën van gebiedsaanduiding horende voorschriften, vermeld in de bijlage bij het besluit van de Vlaamse Regering van 11 april 2008 tot vaststelling van nadere regels met betrekking tot de vorm en de inhoud van de ruimtelijke uitvoeringsplannen, zoals de tekst ervan is vastgesteld bij het besluit van 11 april 2008.</p>
+
+## HOOFDSTUK V Vergunningenbeleid
+
+## Afdeling 1 Vergunningsplichtige functiewijzigingen
+
+### ART. 7.5.1.
+
+Tot de dag waarop de door de Vlaamse Regering vast te stellen lijst van vergunningsplichtige functiewijzigingen in werking treedt en met terugwerkende kracht vanaf 9 september 1984, worden eveneens de hierna vermelde gebruikswijzigingen geacht vergunningsplichtig te zijn vanwege de belangrijke ruimtelijke weerslag op de onmiddellijke omgeving :<br />1° wanneer de hoofdfunctie van een vergund gebouw gewijzigd wordt, wanneer het gaat om een gebouw, gelegen in een gebied voor gemeenschapsvoorzieningen en openbare nutsvoorzieningen, een woongebied of een daarmee gelijkgesteld bestemmingsgebied, en het nieuwe gebruik bestaat uit een dancing, het opslaan van schroot, autowrakken of afvalproducten het te koop of in ruil aanbieden van diensten binnen een ruimte die groter is dan driehonderd vierkante meter;<br />2° wanneer de hoofdfunctie van een vergund gebouw gewijzigd wordt, wanneer het gaat om een gebouw, gelegen in een industriegebied of een daarmee gelijkgesteld bestemmingsgebied, en het nieuwe gebruik bestaat uit het te koop of in ruil aanbieden van goederen of diensten;<br />3° wanneer de hoofdfunctie van een vergund gebouw gewijzigd wordt, wanneer het gaat om een gebouw, gelegen in een agrarisch gebied of een daarmee gelijkgesteld bestemmingsgebied, en het nieuwe gebruik is niet agrarisch;<br />4° wanneer de hoofdfunctie van een vergund gebouw gewijzigd wordt, wanneer het gaat om een gebouw, gelegen in een bufferzone, een groen-, park- of bosgebied of daarmee gelijkgesteld bestemmingsgebied, en het nieuwe gebruik bestaat uit om het even welk gebruik dat anders is dan het oorspronkelijke;<br />5° wanneer de hoofdfunctie van een vergund gebouw gewijzigd wordt, wanneer het gaat om een gebouw, gelegen in een recreatiegebied of een daarmee gelijkgesteld bestemmingsgebied, en het nieuwe gebruik bestaat uit het permanent bewonen;<br />6° wanneer de hoofdfunctie van een vergund gebouw gewijzigd wordt, wanneer het gaat om een gebouw, gelegen in een ontginningsgebied of een daarmee gelijkgesteld bestemmingsgebied, en het nieuwe gebruik bestaat uit het opslaan van schroot, autowrakken of afvalproducten.
+
+## Afdeling 2 Planologische attesten
+
+### ART. 7.5.2.
+
+De aanvragen voor een planologisch attest die bij de bevoegde overheid zijn betekend vóór 1 september 2009, worden afgehandeld overeenkomstig de regelen die golden voorafgaand aan die datum.
+
+## Afdeling 3 Verkavelingsakkoorden en verkavelingen daterend van vóór 22 december 1970
+
+### ART. 7.5.3.
+
+§ 1.Verkavelingsakkoorden van vóór 22 april 1962 vervallen, behoudens overmacht, als op 1 oktober 1970 geen van de werken is aangevat die in het vermelde akkoord zijn opgenomen in verband met de geplande en in het akkoord aanvaarde aanleg van nieuwe verkeerswegen, wijziging of opheffing van bestaande verkeerswegen.<br /><br />Als de werken zijn aangevangen, dan vervalt het akkoord als deze werken niet voltooid zijn vóór 31 december 1972.<br /><br />Wanneer de verkavelingen langs een bestaande, voldoende uitgeruste weg moeten worden uitgevoerd, vervalt het akkoord eveneens als de verkoop van minstens een derde van de percelen niet vóór 1 oktober 1970 is geregistreerd.<br /><br />Deze verkavelingsakkoorden vormen geen basis voor het verlenen van stedenbouwkundige vergunningen.<br /><br />Het verbouwen, herbouwen of uitbreiden van een bestaande op basis van dit verkavelingsakkoord vergunde woning, die niet gelegen is in de geëigende bestemmingszone, kan echter worden toegestaan.<br /><br />Om een woning te bouwen op een onbebouwd perceel binnen de omschrijving van een verkavelingsakkoord, kan de vergunningverlenende overheid afwijken van de voorschriften van een gewestplan of een algemeen plan van aanleg als aan de volgende voorwaarden is voldaan :<br />1° het ontvangstbewijs van de aanvraag voor stedenbouwkundige vergunning wordt afgegeven vóór 30 april 2006;<br />2° de aanvraag heeft betrekking op een perceel, gelegen binnen een verkaveling waarvoor het bestuur van de stedenbouw vooraf zijn akkoord heeft gegeven. Enkel een schriftelijk bewijs dat de aanvrager bij zijn aanvraag voegt, kan het bestaan van dit akkoord aantonen;<br />3° na de vaststelling van het gewestplan zijn binnen éénzelfde verkaveling op grond van het verkavelingsakkoord nog stedenbouwkundige vergunningen of gunstige stedenbouwkundige attesten verleend, afwijkend van het gewestplan;<br />4° de eigenaar op 1 januari 1999 is niet dezelfde als de oorspronkelijke eigenaar op het ogenblik dat het verkavelingsakkoord werd verkregen;<br />5° de grond waarop de aanvraag tot stedenbouwkundige vergunning betrekking heeft, ligt tussen bebouwde percelen of maakt deel uit van een huizengroep.
+
+### ART. 7.5.4.
+
+Tot het in artikel 7.6.2, § 1, derde lid, 4°, vermelde deel van het vergunningenregister volledig is opgemaakt door de gemeente en goedgekeurd door de gewestelijke stedenbouwkundig ambtenaar, bestaat er een vermoeden dat een verkavelingsvergunning voor een niet-bebouwd deel van een verkaveling die dateert van vóór 22 december 1970 en die vanaf deze datum geen voorwerp heeft uitgemaakt van een verkavelingswijziging die geleid heeft tot een vermeerdering of een vermindering van het aantal kavels of tot een herverkaveling, vervallen is. De gewestelijke stedenbouwkundige ambtenaar neemt een beslissing over dit deel van het vergunningenregister binnen zestig dagen nadat de gemeente hem daarom verzocht heeft.<br /><br />In elke gemeente wordt een bericht aangeplakt dat de eigenaars van een niet-bebouwde kavel of meerdere niet-bebouwde kavels in vergunde niet-vervallen verkavelingen die dateren van vóór 22 december 1970, oproept om zich te melden bij het college van burgemeester en schepenen. De Vlaamse Regering neemt de nodige maatregelen om te zorgen voor de onmiddellijke aanplakking na de inwerkingtreding van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening op 1 mei 2000 en voor een bericht in ten minste drie dagbladen die in het Vlaamse Gewest worden verspreid.<br /><br />Als geen enkele eigenaar van een onbebouwde kavel zich gemeld heeft bij het college van burgemeester en schepenen binnen een termijn van negentig dagen na 1 mei 2000, dan is de verkavelingsvergunning voor de onbebouwde kavel of kavels definitief vervallen.<br /><br />Als een eigenaar zich bij het college van burgemeester en schepenen binnen een termijn van negentig dagen na 1 mei 2000 gemeld heeft, dan gaat het college van burgemeester en schepenen na of de verkavelingsvergunning niet reeds vervallen is met toepassing van de regeling, opgenomen in punt 12 van bijlage 2, « Niet in de coördinatie opgenomen bepalingen : wijzigings-, overgangs- en opheffingsbepalingen, alsmede reeds voorbijgestreefde bepalingen », gevoegd bij het besluit van de Vlaamse Regering van 22 oktober 1996 tot coördinatie van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedenbouw. Alleen als de verkavelingsvergunning nog niet vervallen is, worden alle onbebouwde kavels opgenomen in het vergunningenregister.<br /><br />Het verval van verkavelingsvergunningen, vermeld in het eerste lid, die niet moesten worden aangemeld omwille van het feit dat zij vanaf 22 december 1970 het voorwerp hebben uitgemaakt van een verkavelingswijziging die geleid heeft tot een vermeerdering of een vermindering van het aantal kavels of tot een herverkaveling, wordt beoordeeld met toepassing van de regeling, vermeld in het vierde lid.
+
+### ART. 7.5.5.
+
+Het verval van een verkavelingsakkoord of van een verkavelingsvergunning, vermeld in artikel 7.5.4, kan niet worden tegengesteld aan personen die zich op dat verkavelingsakkoord of die verkavelingsvergunning beroepen, indien zij kunnen aantonen dat de overheid, na het verval, hetzij op grond van of refererend aan het verkavelingsakkoord of de verkavelingsvergunning stedenbouwkundige of bouwvergunningen of stedenbouwkundige attesten heeft verleend, hetzij wijzigingen aan de verkavelingsvergunning heeft toegestaan. Daartoe is vereist dat voldaan is aan beide volgende voorwaarden :<br />1° de vergunningen of attesten zijn verleend ten aanzien van één of meer kavels van deze personen, binnen de omschrijving van het verkavelingsakkoord of de verkavelingsvergunning;<br />2° de vergunningen of attesten zijn door de hogere overheid of de rechter niet onrechtmatig bevonden.
+
+## [Afdeling 4 Verval, bijstelling of opheffing van omgevingsvergunningen voor het verkavelen van gronden (verv. decr. 25 april 2014, art. 359)]
+
+### ART. 7.5.6.
+
+De artikelen 4.6.4 tot en met 4.6.8 zijn van toepassing op de verkavelingsvergunningen die verleend zijn vóór 1 mei 2000. De beperking van artikel 4.6.4, § 1, tweede lid, 2°, geldt evenwel niet ten aanzien van de verkopen van verkavelingen in hun geheel die vaste datum hebben verkregen vóór 1 september 2009; dergelijke verkopen konden wél het verval van een verkavelingsvergunning verhinderen. Het voorgaande heeft nimmer voor gevolg dat teruggekomen wordt op in kracht van gewijsde gegane rechterlijke beslissingen die tot het verval van verkavelingsvergunningen hebben besloten op grond van het oordeel dat verkopen van verkavelingen in hun geheel niet van aard zijn het verval van een verkaveling te verhinderen.<br /><br />Onverminderd artikel 7.5.4 wordt de termijn van tien jaar na afgifte van de verkavelingsvergunning, vermeld in artikel 4.6.4, § 1, eerste lid, 2°, respectievelijk § 2, 2°, vervangen door een termijn van vijf jaar vanaf 1 mei 2000, voor niet-vervallen verkavelingsvergunningen die werden afgegeven meer dan vijf jaar vóór 1 mei 2000.<br /><br />Onverminderd artikel 7.5.4 wordt de termijn van vijftien jaar na afgifte van de verkavelingsvergunning, vermeld in artikel 4.6.4, § 2, 3°, vervangen door een termijn van tien jaar vanaf 1 mei 2000, voor niet-vervallen verkavelingsvergunningen die werden afgegeven meer dan vijf jaar vóór 1 mei 2000.
+
+### ART. 7.5.7.
+
+Artikel 4.6.5, § 1, eerste lid, is van toepassing op ruimtelijke uitvoeringsplannen en bijzondere plannen van aanleg die voorlopig worden vastgesteld of aangenomen vanaf 1 september 2009.<br /><br />De herziening of de opheffing van verkavelingsvergunningen ingevolge de definitieve vaststelling van een ruimtelijk uitvoeringsplan of een bijzonder plan van aanleg dat voorlopig werd vastgesteld of aangenomen vóór 1 september 2009, wordt afgehandeld overeenkomstig de regelen die golden voorafgaand aan die datum.
+
+## Afdeling 5 Invoering van het vergunningenstelsel van het decreet van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid
+
+### ART. 7.5.8.
+
+§ 1. Beslissingen van het college van burgemeester en schepenen tot toekenning of weigering van een vergunning, genomen vóór 1 september 2009, worden bekendgemaakt en kunnen worden uitgevoerd en bestreden overeenkomstig de regelen die golden voorafgaand aan die datum.<br /><br />Vergunningsaanvragen die bij het college van burgemeester en schepenen werden betekend vóór 1 september 2009, doch waarover het college op die datum nog niet heeft beslist, worden behandeld overeenkomstig de procedureregelen die golden voorafgaand aan die datum. De bekendmaking en de uitvoerbaarheid van de genomen beslissingen worden echter geregeld overeenkomstig artikel 4.7.19. Die genomen beslissingen kunnen worden bestreden bij de deputatie op grond van de regelingen, vastgelegd bij of krachtens artikel 4.7.21 tot en met 4.7.25.<br /><br />Vergunningsaanvragen die bij het college van burgemeester en schepenen worden betekend vanaf 1 september 2009, worden volledig behandeld overeenkomstig de regelingen, vastgelegd bij of krachtens artikel 4.7.12 tot en met 4.7.19. De genomen beslissingen kunnen worden bestreden bij de deputatie op grond van de regelingen, vastgelegd bij of krachtens artikel 4.7.21 tot en met 4.7.25.<br /><br />§ 2. Beslissingen van de deputatie tot toekenning of weigering van een vergunning, genomen vóór 1 september 2009, worden bekendgemaakt en kunnen worden uitgevoerd en bestreden overeenkomstig de regelen die golden voorafgaand aan die datum.<br /><br />Beroepsdossiers die bij de deputatie werden betekend vóór 1 september 2009, doch waarover de deputatie op die datum nog niet heeft beslist, worden behandeld overeenkomstig de procedureregelen die golden voorafgaand aan die datum. De bekendmaking en de uitvoerbaarheid van de genomen beslissingen worden echter geregeld overeenkomstig artikel 4.7.23, § 3 tot en met § 5. Die genomen beslissingen kunnen worden bestreden bij de Raad voor vergunningsbetwistingen op grond van de regelingen, vastgelegd bij of krachtens artikel 4.8.11 tot en met 4.8.27.<br /><br />De regelen van het tweede lid gelden eveneens ten aanzien van beroepsdossiers die bij de deputatie worden betekend vanaf 1 september 2009, op grond van de overgangsregeling, vermeld in § 1, eerste lid.<br /><br />Beroepsdossiers die bij de deputatie worden betekend vanaf 1 september 2009, worden volledig behandeld overeenkomstig de regelingen, vastgelegd bij of krachtens artikelen 4.7.21 tot en met 4.7.25. De genomen beslissingen kunnen worden bestreden bij de Raad voor vergunningsbetwistingen op grond van de regelingen, vastgelegd bij of krachtens artikelen 4.8.11 tot en met 4.8.27.<br /><br />§ 3. Beslissingen van de Vlaamse Regering, de gedelegeerde stedenbouwkundige ambtenaar of de gewestelijke stedenbouwkundige ambtenaar tot toekenning of weigering van een vergunning in eerste administratieve aanleg, genomen vóór 1 september 2009, worden bekendgemaakt en kunnen worden uitgevoerd en bestreden overeenkomstig de regelen die golden voorafgaand aan die datum.<br /><br />Vergunningsaanvragen die bij de Vlaamse Regering, de gedelegeerde stedenbouwkundige ambtenaar of de gewestelijke stedenbouwkundige ambtenaar werden betekend vóór 1 september 2009, doch waarover het vergunningverlenend bestuursorgaan op die datum nog niet heeft beslist, worden behandeld overeenkomstig de procedureregelen die golden voorafgaand aan die datum. De bekendmaking en de uitvoerbaarheid van de genomen beslissingen worden echter geregeld overeenkomstig artikel 4.7.26, § 4, eerste lid, 5°, 6° en 7°, en tweede lid. Die genomen beslissingen kunnen worden bestreden bij de Raad voor vergunningsbetwistingen op grond van de regelingen, vastgelegd bij of krachtens artikelen 4.8.11 tot en met 4.8.25.<br /><br />Vergunningsaanvragen die bij de Vlaamse Regering, de gedelegeerde stedenbouwkundige ambtenaar of de gewestelijke stedenbouwkundige ambtenaar worden betekend vanaf 1 september 2009, worden volledig behandeld overeenkomstig de regelingen, vastgelegd bij of krachtens artikel 4.7.26. De genomen beslissingen kunnen worden bestreden bij de Raad voor vergunningsbetwistingen op grond van de regelingen, vastgelegd bij of krachtens artikelen 4.8.11 tot en met 4.8.25.<br /><br />§ 4. Beslissingen van de Vlaamse Regering over administratieve beroepen betreffende de afgifte of de weigering van een vergunning, genomen vóór 1 september 2009, worden bekendgemaakt en kunnen worden uitgevoerd en bestreden overeenkomstig de regelen die golden voorafgaand aan die datum.<br /><br />Beroepsdossiers die bij de Vlaamse Regering werden betekend vóór 1 september 2009, doch waarover de Vlaamse Regering op die datum nog niet heeft beslist, worden behandeld, bekendgemaakt, uitgevoerd en desgevallend bestreden overeenkomstig de procedureregelen die golden voorafgaand aan die datum.<br /><br />De regelen van het tweede lid gelden eveneens ten aanzien van beroepsdossiers die bij de Vlaamse Regering worden betekend vanaf 1 september 2009, op grond van de overgangsregeling, vermeld in § 1, eerste lid, of § 2, eerste lid en tweede lid.<br /><br />§ 5. De griffier van de Raad voor vergunningsbetwistingen schrijft inkomende verzoekschriften eerst in op het register, vermeld in artikel 4.8.17, § 1, eerste lid, eens het reglement van orde van de Raad door de Vlaamse Regering is bekrachtigd.<br /><br />Die bekrachtiging geschiedt uiterlijk op 30 november 2009.<br /><br />§ 6. De Raad van State blijft bevoegd om zich uit te spreken over de beroepen tot nietigverklaring en tot schorsing, gericht tegen de vergunningsbeslissingen, vermeld in artikel 4.8.1, eerste lid, 1°, die niet kunnen worden bestreden bij de Raad voor vergunningsbetwistingen ingevolge § 1 tot en met § 4.
+
+## Afdeling 6 Tijdelijke regeling bindende advisering door de wegbeheerder
+
+### ART. 7.5.9.
+
+Vergunningsaanvragen die bij het college van burgemeester en schepenen of, in de bijzondere procedure, bij de Vlaamse Regering, de gedelegeerde stedenbouwkundige ambtenaar of de gewestelijke stedenbouwkundige ambtenaar zijn betekend vóór 31 december 2013, worden in afwijking van artikelen 4.3.3 en 4.3.4, onderworpen aan een bindende advisering door de wegbeheerder, in zoverre de aanvraag betrekking heeft op percelen die gelegen zijn :<br />1° op minder dan dertig meter van het domein van autosnelwegen;<br />2° op minder dan dertig meter van het domein van hoofdwegen of primaire wegen categorie I volgens het ruimtelijk structuurplan Vlaanderen;<br />3° langs gewest- of provinciewegen.<br /><br />Het bindend advies, vermeld in het eerste lid, verbindt het vergunningverlenende bestuursorgaan in zoverre het negatief is of voorwaarden oplegt.
+
+## HOOFDSTUK VI Diverse bepalingen
+
+## Afdeling 1 Plannen- en vergunningenregisters
+
+### ART. 7.6.1.
+
+Het plannenregister moet door elke gemeente opgemaakt worden en door de gemeenteraad vastgesteld worden binnen een jaar na 1 mei 2000. Een afschrift van dat plannenregister wordt gezonden naar de planologische ambtenaar en naar de gewestelijke stedenbouwkundige ambtenaar. Binnen het daaropvolgend jaar neemt de gewestelijke stedenbouwkundige ambtenaar een gemotiveerde beslissing inzake de conformverklaring van het plannenregister en stuurt die beslissing naar het college van burgemeester en schepenen, de deputatie en de Vlaamse Regering binnen tien dagen na de beslissing.<br /><br />In afwijking van het eerste lid, samengelezen met artikel 5.1.1, kan de gemeente een ontwerp van plannenregister opmaken en naar de planologische ambtenaar en de gewestelijke stedenbouwkundige ambtenaar sturen, waarin de in artikel 5.1.1, § 1, eerste lid, 3°, vermelde gegevens nog niet zijn opgenomen. De gemeente geeft dan aan binnen welke tijdsspanne deze gegeven aangevuld zullen worden.
+
+### ART. 7.6.2.
+
+§ 1. Het ontwerp van vergunningenregister moet door elke gemeente opgemaakt worden binnen een jaar na 1 mei 2000. Dat ontwerp wordt bezorgd aan de gewestelijke stedenbouwkundige ambtenaar.<br /><br />De Vlaamse Regering kan op gemotiveerd verzoek van de gemeente de termijn van een jaar eenmalig verlengen met een jaar.<br /><br />Het ontwerp van vergunningsregister bevat volgende gegevens, zoveel mogelijk per kadastraal perceel en voor zover beschikbaar :<br />1° het kadastraal nummer, het huisnummer en de straatnaam;<br />2° de gevalideerde as-builtattesten;<br />3° de bouwvergunningen en verkavelingsvergunningen die verleend werden met toepassing van de bestaande wettelijke voorschriften, de identiteit van de vergunninghouder, en de vermelding of die vergunningen al dan niet geheel of gedeeltelijk vervallen zijn;<br />4° voor de verkavelingsvergunningen die dateren van vóór 22 december 1970 wordt aangeduid of de verkaveling geheel of gedeeltelijk vervallen is, en indien de verkavelingsvergunning niet vervallen is wordt vermeld op welke rechtsgrond het niet-verval van de vergunning voor de onbebouwde percelen gebaseerd is;<br />5° de na 1 mei 1999 verleende stedenbouwkundige attesten nummer 2;<br />6° de vermelding van processen-verbaal die opgemaakt werden met betrekking tot inbreuken op de wetgeving inzake de ruimtelijke ordening en de stedenbouw, van iedere gerechtelijke uitspraak en van de uitvoering van de herstelmaatregelen;<br />7° de vermelding van elk rechtsmiddel dat aangewend wordt, van iedere schorsing, van de uitspraken en van het gevolg dat daaraan gegeven wordt;<br />8° het verschuldigd zijn van een planbatenheffing en bewijs van betaling van de planbatenheffing;<br />9° elke melding en de identiteit van de persoon die de melding verricht;<br />10° in voorkomend geval het declaratief attest, vermeld in artikel 5.4.3, § 5.<br /><br />De Vlaamse Regering kan bepalen dat het ontwerp van vergunningenregister in de mate van het mogelijke ook volgende informatie per kadastraal perceel bevat :<br />1° het gebruik, als dat afwijkt van de bestemming;<br />2° de identiteit van de eigenaar of van de titularis van een ander zakelijk recht, als de eigenaar of de titularis van een ander zakelijk recht een overheid of een openbare instelling is.<br /><br />Bestaande constructies, met uitzondering van publiciteitsinrichtingen en uithangborden, waarvan door enig rechtens toegelaten bewijsmiddel in de zin van boek III, titel III, hoofdstuk VI van het Burgerlijk Wetboek is aangetoond dat ze gebouwd werden vóór 22 april 1962, worden in het ontwerp van vergunningenregister opgenomen als « vergund geacht », onverminderd artikel 4.2.14, § 3 en § 4. Op de gemeentelijke overheid rust ter zake een actieve onderzoeksplicht. De vaststelling van de aanwezigheid van een geldig bewijs dat de bestaande constructie vóór 22 april 1962 gebouwd werd, en de omschrijving van de aard van dat bewijs, geldt als motivering voor de beslissing tot opname als « vergund geacht ». De vaststelling van het feit dat de constructie niet meer bestaat, van de afwezigheid van enig bewijsmiddel, of van het feit dat het voorhanden zijnde bewijsmiddel aangetast is door uitdrukkelijk aangegeven onregelmatigheden, geldt als motivering voor de weigering tot opname als « vergund geacht ». Een weigering tot opname als « vergund geacht », wordt bij gewone brief aan de eigenaar betekend.<br /><br />Bestaande constructies, met uitzondering van publiciteitsinrichtingen en uithangborden, waarvan door enig rechtens toegelaten bewijsmiddel in de zin van boek III, titel III, hoofdstuk VI van het Burgerlijk Wetboek is aangetoond dat ze gebouwd werden in de periode vanaf 22 april 1962 tot de eerste inwerkingtreding van het gewestplan waarbinnen zij gelegen zijn, en waarvan het vergund karakter door de overheid niet is tegengesproken middels een proces-verbaal of een niet anoniem bezwaarschrift, telkens opgesteld binnen een termijn van vijf jaar na het optrekken of plaatsen van de constructie, worden in het vergunningenregister opgenomen als « vergund geacht », onverminderd artikel 4.2.14, § 3 en § 4. Op de gemeentelijke overheid rust ter zake een actieve onderzoeksplicht. Het vergunningenregister vermeldt de datum van opname van de constructie als « vergund geacht ». De vaststelling van het feit dat bij de overheid geen geldig tegenbewijs bekend is, geldt als motivering voor een opname als « vergund geacht ». De vaststelling dat bij de overheid een geldig tegenbewijs bekend is, en de omschrijving van de aard daarvan, geldt als motivering voor de weigering tot opname als « vergund geacht ». Een weigering tot opname als « vergund geacht », wordt bij gewone brief aan de eigenaar betekend. Deze mededelingsplicht geldt niet ten aanzien van die constructies waarvoor reeds een gemotiveerde mededeling werd verricht bij de opmaak van het ontwerp van vergunningenregister.<br /><br />Binnen honderdtachtig dagen na ontvangst van het ontwerp van vergunningenregister formuleert de gewestelijke stedenbouwkundige ambtenaar een verslag dat opgenomen moet worden in het vergunningenregister. De gewestelijke stedenbouwkundige ambtenaar kan foutieve gegevens schrappen uit het vergunningenregister en meldt dit in zijn verslag.<br /><br />Het college van burgemeester en schepenen stelt, vijfenzeventig dagen na ontvangst van het verslag van de gewestelijke stedenbouwkundige ambtenaar, het vergunningenregister vast en maakt het toegankelijk voor het publiek.<br /><br />Het college van burgemeester en schepenen is verantwoordelijk voor de overeenstemming van het eerste vergunningenregister met de erin opgenomen stukken.<br /><br />§ 2. In afwijking van § 1 kan de gemeente een ontwerp van vergunningenregister opmaken en naar de gewestelijke stedenbouwkundig ambtenaar sturen, waarin de bouwvergunningen verleend vóór 1 januari 1990 en de gegevens, vermeld in § 1, vijfde en zesde lid, nog niet zijn opgenomen. De gemeente geeft dan aan binnen welke tijdsspanne deze gegevens zullen aangevuld worden.<br /><br />Voor wat betreft de gegevens, vermeld in § 1, vijfde en zesde lid, geldt dat zij alleszins binnen een termijn van drie jaar na het versturen van het ontwerp moeten worden opgenomen.<br /><br />§ 3. In afwijking van § 1 kan de gemeente een ontwerp van vergunningenregister opmaken en naar de gewestelijke stedenbouwkundige ambtenaar sturen, waarin de in § 1, eerste lid, 2° en 10°, vermelde gegevens nog niet zijn opgenomen. De gemeente geeft dan aan binnen welke tijdsspanne deze gegeven aangevuld zullen worden.
+
+### ART. 7.6.3.
+
+Binnen de perken van de begrotingskredieten kan de Vlaamse Regering (ook financiële) ondersteuning verlenen aan de gemeenten voor de opmaak van het eerste vergunningenregister en het eerste plannenregister. De Vlaamse Regering bepaalt de voorwaarden en nadere regels hiertoe.<br /><br />De gemeenten kunnen bij de opmaak van het plannenregister en het vergunningenregister begeleiding vragen van de bevoegde diensten van het Vlaamse Gewest.
+
+## Afdeling 2 Informatieplichten
+
+### ART. 7.6.4.
+
+De bepalingen met betrekking tot de informatieverplichtingen, zoals voorzien in de artikelen 5.2.1, 5.2.5 en 5.2.6, zijn slechts van toepassing ten vroegste eenendertig dagen nadat in het Belgisch Staatsblad gepubliceerd is dat de gemeente, waar het onroerend goed gelegen is, beschikt over een goedgekeurd plannenregister en vergunningenregister.<br /><br />Deze bepalingen zijn niet van toepassing op overeenkomsten die zijn gesloten en op openbare verkoopverrichtingen die zijn aangevat vóór het in het eerste lid vermelde tijdstip. Het bewijs hiervan kan met alle middelen worden geleverd.<br /><br />De lijst van de gemeenten, die beschikken over een goedgekeurd plannenregister en vergunningenregister, wordt driemaandelijks opgemaakt en gepubliceerd in het Belgisch Staatsblad, vanaf 1 mei 2000 en tot alle gemeenten op deze lijst zijn opgenomen.<br /><br />Zolang deze publicatie niet is gebeurd, zijn de benamingen die moeten worden gebruikt in de akten, overeenkomsten, vermeld in artikel 5.2.5, en publiciteit de benamingen zoals gebruikt in de plannen van aanleg of ruimtelijke uitvoeringsplannen.<br /><br />De bepalingen met betrekking tot de informatieverplichtingen, zoals vastgesteld in artikel 5.2.1, § 1, eerste lid, 1° en 3°, en § 1, derde en vierde lid, zijn echter van onmiddellijke toepassing, na het in werking treden van deze bepaling.
+
+### ART. 7.6.5.
+
+§ 1. Artikel 5.2.7 is van toepassing zodra de gemeente een plannenregister en een vergunningenregister heeft. Zolang artikel 5.2.7 niet van toepassing is voor een gemeente, blijven de bepalingen van artikel 63, § 1, 5° en 6° van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996, van toepassing.
+
+## Afdeling 3 Stedenbouwkundig attest
+
+### ART. 7.6.6.
+
+De aanvragen voor een stedenbouwkundig attest die bij de bevoegde overheid zijn betekend vóór 1 september 2009, worden afgehandeld overeenkomstig de regelen die golden voorafgaand aan die datum.
+
+## HOOFDSTUK VII Handhaving
+
+### ART. 7.7.1.
+
+De Hoge Raad voor het Handhavingsbeleid treedt op 1 september 2009 in de plaats van de Hoge Raad voor het Herstelbeleid.<br /><br />De artikelen 6.1.7 tot en met 6.1.23, de artikelen 6.1.30 tot en met 6.1.35, en de artikelen 6.1.52 tot en met 6.1.54, hebben echter eerst gevolg indien en zodra de Vlaamse Regering het procedure- en werkingsreglement, vermeld in artikel 6.1.36, heeft vastgesteld. Die vaststelling geschiedt uiterlijk op 30 november 2009.<br /><br />Voorafgaand aan de vaststelling van het procedure- en werkingsreglement, vermeld in artikel 6.1.36, worden dossiers bij de Hoge Raad aanhangig gemaakt overeenkomstig de materiële en procedurele regelen die golden voorafgaand aan 1 september 2009. De Hoge Raad behandelt deze aanhangig gemaakte dossiers conform die vroegere materiële en procedurele regelen, ook indien het procedure- en werkingsreglement intussen in werking is getreden.
+
+### ART. 7.7.2.
+
+De zetelende leden van de Hoge Raad voor het Herstelbeleid worden op 1 september 2009 van rechtswege bekleed met een mandaat in de schoot van de Hoge Raad voor het Handhavingsbeleid, behoudens indien zij daar uitdrukkelijk van afzien. In dat geval wordt het mandaat toegewezen aan een nieuw lid, op grond van de kandidaatstellingen die geschiedden op grond van de oproep tot de kandidaten, verschenen in het Belgisch Staatsblad van 27 mei 2005. Indien op grond van deze kandidaatstellingen geen nieuw lid kan worden aangewezen, wordt voor het openstaande mandaat een specifieke oproep tot de kandidaten georganiseerd. <br /><br />In afwijking van artikel 6.1.25 hebben de mandaten, vermeld in het eerste lid, een duurtijd tot en met 21 juli 2010. Enkel de leden die worden aangeduid op grond van een specifieke oproep tot de kandidaten worden aangeduid voor een volle en hernieuwbare termijn van vijf jaar.
+
+### ART. 7.7.3.
+
+De rechter kan vóór 16 december 2005 ingediende herstelvorderingen die nog niet door de Hoge Raad voor het Herstelbeleid of de Hoge Raad voor het Handhavingsbeleid werden geadviseerd, alsnog voor advies voorleggen aan de Hoge Raad voor het Handhavingsbeleid.<br /><br />Het advies van de Hoge Raad voor het Handhavingsbeleid is niet bindend voor de overheid die herstel vordert.
+
+### ART. 7.7.4.
+
+Wanneer het recht van de stedenbouwkundige inspecteur of het college van burgemeester en schepenen om een herstelvordering in te stellen ontstaan is vóór 1 september 2009, beginnen de termijnen, vermeld in artikel 6.1.41, § 5, eerste lid, slechts te lopen vanaf die datum. De totale duur van de verjaringstermijn mag evenwel niet méér bedragen dan de termijnen, vermeld in artikel 2262bis, § 1, tweede en derde lid, van het Burgerlijk Wetboek.<br /><br />Het eerste lid verhindert de toepassing van artikel 26 van de voorafgaande titel van het Wetboek van Strafvordering niet.<br /><br />Wanneer de herstelvordering bij een in kracht van gewijsde gegane beslissing verjaard is verklaard vóór 1 september 2009, vermeld in het eerste lid, kan de inwerkingtreding van het decreet van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid niet tot gevolg hebben dat een nieuwe verjaringstermijn begint te lopen.
+
+## TITEL VIII Aanhalingswijze
+
+### ART. 8.1.1.
+
+Deze codex wordt aangehaald als « Vlaamse Codex Ruimtelijke Ordening ».
+
+## Bijlage I Niet in de coördinatie opgenomen voorbijgestreefde bepalingen
+
+### ART. 1.
+
+De procedure voor opmaak van een provinciaal ruimtelijk structuurplan die op grond van het decreet van 24 juli 1996 houdende de ruimtelijke planning werd aangevat vóór de inwerkingtreding van dit decreet, wordt, vanaf de eerstvolgende fase van de procedure volgend op deze die loopt op het ogenblik van de inwerkingtreding van dit decreet, verder afgehandeld overeenkomstig de bepalingen van dit decreet, behoudens toepassing van artikel 175 van dit decreet. Als onderscheiden fasen van de procedure worden voor de toepassing van deze bepaling verstaan : de voorlopige vaststelling; de aankondiging van het openbaar onderzoek en het openbaar onderzoek; het advies van de Vlaamse Regering; het advies van de bevoegde adviescommissie; de goedkeuringsbeslissing; de bekendmaking (1).<br />--------------------------------------------<br />1) Overeenstemmend met artikel 188, eerste lid, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening.<br /><br /><br />
+
+### ART. 2.
+
+De in artikel 126, § 1 (2), en onderafdeling 2 van titel III, hoofdstuk IV, afdeling 2 (3), vermelde voorwaarde dat de werken en handelingen gebeuren aan een bestaand vergund of vergund geacht gebouw geldt niet voor vergunningsaanvragen, ingediend vóór 1 februari 2003, voorzover de aanvrager kan aantonen dat de werken of handelingen worden of zijn uitgevoerd aan een gebouw dat bij de aanvang van de werken bestond en geheel of gedeeltelijk vergund was of werd geacht.<br />Het eerste lid is ook van toepassing wanneer de tussen 13 juli 2001 en 1 februari 2003 ingediende aanvraag geweigerd is en een aangepaste aanvraag wordt ingediend om te voldoen aan de voorwaarden gesteld voor de toepassing van de decretale regelingen inzake de herbouw, verbouw of uitbreiding van zonevreemde constructies of voor zonevreemde stabiliteitswerken (4).<br />--------------------------------------------<br />(2) Artikel 4.4.2, § 1, van de codex.<br />(3) Onderafdeling 2 van titel IV, hoofdstuk IV, afdeling 2, van de codex.<br />(4) Overeenstemmend met artikel 195quinquies van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, ingevoegd bij decreet van 13 juli 2001 en gewijzigd door de decreten van 8 maart 2002 en 21 november 2003 en door het decreet van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid.<br />
+
+## Bijlage II Concordantietabel I
+
+### BIJLAGE 2
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p><strong>VLAAMSE CODEX RUIMTELIJKE ORDENING<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"     /--></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p><strong>CONCORDANTIETABEL I</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p><strong>Nieuwe nummering Vlaamse Codex Ruimtelijke Ordening</strong></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p><strong>Oude nummering decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p><strong>TITEL I. Inleidende bepalingen</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK I. Doelstellingen en begrippen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.1.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.1.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2</p>
+
+			<p>§ 1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.1.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.1.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.1.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2</p>
+
+			<p>§ 2</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK II. Voortgangsbewaking inzake de uitvoering van het ruimtelijk structuurplan Vlaanderen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.2.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK III. Adviesorganen</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 1. De Vlaamse commissie voor ruimtelijke ordening</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.3.1</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 4/1</p>
+
+			<p>§ 4/2</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 2. De provinciale commissie voor ruimtelijke ordening</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.3.2</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+
+			<p>§ 9</p>
+
+			<p>§ 10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 8</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 4/1</p>
+
+			<p>§ 4/2</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 3. De gemeentelijke commissie voor ruimtelijke ordening</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.3.3</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+
+			<p>§ 9</p>
+
+			<p>§ 10</p>
+
+			<p>§ 11</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 9</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 4/1</p>
+
+			<p>§ 4/2</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+
+			<p>§ 9</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 4. Algemene bepaling</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.3.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 9/1</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK IV. De ambtenaren van ruimtelijke ordening</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 1. De gedelegeerde planologische en stedenbouwkundige ambtenaren en de gewestelijke stedenbouwkundige inspecteurs en stedenbouwkundige ambtenaren</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.4.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.4.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 11</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.4.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 12</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 2. De provinciale stedenbouwkundige ambtenaren</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.4.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 13</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.4.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 14</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 3. De gemeentelijke stedenbouwkundige ambtenaren</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.4.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 15</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.4.7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 16</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.4.8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 17</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p><strong>TITEL II Planning</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK I. Ruimtelijke structuurplannen</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 1. Algemene bepalingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 18</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.2</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+
+			<p>§ 9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 19</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 4/1</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 2. Het ruimtelijk structuurplan Vlaanderen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 20</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 21</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 22</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 23</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 3. Het provinciaal ruimtelijk structuurplan</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 24</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 25</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 26</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 27</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.11</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 28</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.12</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 29</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.13</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 30</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 4. Het gemeentelijk ruimtelijk structuurplan</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.14</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 31</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.15</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 32</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.16</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 33</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.17</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 34</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.18</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 35</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.19</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 36</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK II. Ruimtelijke uitvoeringsplannen</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 1. Algemene bepalingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 37</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 38</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 39</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 39/1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 40</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 2. Gewestelijke ruimtelijke uitvoeringsplannen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>2.2.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 41</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.7</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+
+			<p>§ 9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 42</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 5bis</p>
+
+			<p>§ 6</p>
+
+			<p>§ 6bis</p>
+
+			<p>§ 7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 43</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 3. Provinciale ruimtelijke uitvoeringsplannen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 44</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.10</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 45</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 6bis</p>
+
+			<p>§ 7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.11</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 46</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.12</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 47</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 4. Gemeentelijke ruimtelijke uitvoeringsplannen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.13</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 48</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.14</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 49</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 6bis</p>
+
+			<p>§ 7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.15</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.16</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 51</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.17</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 52</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.18</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 53</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK III. Stedenbouwkundige verordeningen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.3.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 54</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.3.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 55</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.3.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 56</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Titel geschrapt (zie titel V, hoofdstuk VI, afdeling 1, onderafdeling 1)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK IV. Register van onbebouwde percelen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK IV. Recht van voorkoop en onteigening</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK V. Recht van voorkoop en onteigening</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 1. Het recht van voorkoop</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 63</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 64</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>(Artikel 2.4.2/1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>(Artikel 65)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>(Artikel 2.4.2/2)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>(Artikel 66)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>(Artikel 2.4.2/3)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>(Artikel 67)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>(Artikel 2.4.2/4)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>(Artikel 68)</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 2. Onteigening</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 69</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 70</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 71</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 72</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 73</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 74</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 75</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 3. Aankoopplicht</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 75/1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK V. De rooilijnplannen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK VI. De rooilijnplannen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.5.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 76</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.5.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 77</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK VI. Planschade en planbaten</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK VIII. Planschade en planbaten</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 1. Planschade</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 84</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 85</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 86</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 2. Planbatenheffing</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 1. Grondslag, uitzonderingen, vrijstellingen en schorsingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 87</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 88</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 89</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 90</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 2. Heffingsplicht</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/1</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 3. Bedrag</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.11</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.12</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/4</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 4. Inkohiering en invordering</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.13</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/5</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 5. Betalingstermijn en bezwarenregeling</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.14</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.15</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.16</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/8</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 6. Toewijzing en aanwending van de opbrengsten</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.17</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/9</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 7. Overige bepalingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 1. Suppletieve toepassing van het Wetboek van de Inkomstenbelastingen 1992</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.18</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/10</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 2. Evaluatie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.19</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/11</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p><strong>TITEL III. Bijzonderheden betreffende sommige grootschalige stedenbouwkundige projecten</strong></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p><strong>TITEL II/1. Bijzonderheden betreffende sommige grootschalige stedenbouwkundige projecten</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK I. Ruimtelijke projecten van geestelijk en strategisch belang</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 1. Criteria</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 3.1.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/12</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 2. Administratiefrechtelijke faciliteiten</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 3.1.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/13</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 3. Geïntegreerde plannings- en uitvoeringsprocedure</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 3.1.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/14</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK II. Ruimtelijke projecten van groot lokaal en strategisch belang</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 1. Ruimtelijke projecten van groot provinciaal en strategisch belang</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 3.2.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/15</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 3.2.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/16</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 2. Ruimtelijke projecten van groot gemeentelijk en strategisch belang</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 3.2.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/17</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 3.2.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/18</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+### BIJLAGE 2
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p><strong>Nieuwe nummering Vlaamse Codex Ruimtelijke Ordening<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></strong></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p><strong>Oude nummering decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p><strong>TITEL IV. Vergunningenbeleid</strong></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p><strong>TITEL III. Vergunningenbeleid</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK I. Definities</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.1.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 92</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK II. Vergunningsplicht</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 1. Soorten</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 1. Stedenbouwkundige vergunningsplicht</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 1. Vergunningsplichtige handelingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 93</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 2. Afwijkingen van de vergunningsplicht</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 1. Meldingsplichtige en vrijgestelde handelingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 94</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 95</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 2. Bijzonderheden inzake zorgwonen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 96</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 3. Lokale voorschriften</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 97</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 98</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 4. As-builtattest</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 1. Begrip</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 99</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 2. Aanvraag en beslissing</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 100</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 3. Validering</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 101</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 102</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 4. Rechtsbescherming</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.11</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 103</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 5. Tijdspad</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.12</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 104</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 6. Nadere regelen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.13</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 105</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 5. Vermoeden van vergunning</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.14</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 106</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 2. Verkavelingsvergunningsplicht</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.15</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 107</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.16</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 108</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.17</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 109</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.18</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 110</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 2. Bepalingen, aan alle vergunningen gemeen</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 1. Voorwaarden en lasten</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.19</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>&nbsp;</p>
+
+			<p>Artikel 111</p>
+
+			<p>Artikel 90bis, §§ 2-7, bosdecreet 13 juni 1990</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.20</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 112</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 2. Fasering</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.21</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 113</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 3. Zakelijk karakter</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.22</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 114</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.23</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 115</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 4. Regularisatievergunningen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.24</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 116</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK III. Beoordelingsgronden</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 1. Algemene bepalingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.3.1</p>
+
+			<p>§ 1 - § 3</p>
+
+			<p>§ 4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>&nbsp;</p>
+
+			<p>Artikel 117</p>
+
+			<p>Artikel 90bis,&nbsp; § 1, bosdecreet 13 juni 1990</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.3.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 118</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.3.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 119</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.3.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 120</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 2. Decretale beoordelingselementen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.3.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 121</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.3.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 122</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.3.7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 123</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.3.8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 124</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK IV. Afwijkingen van stedenbouwkundige voorschriften</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 1. Afwijkingsmogelijkheden</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 1. Beperkte afwijkingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 125</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 2. Stabiliteitswerken</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 126</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 3. Afwerkingsregel</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 127</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 4. Sociaal-cultureel of recreatief medegebruik</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 128</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 5. Medegebruik inzake natuurschoon</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 129</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 6. Beschermde monumenten, stads- en dorpsgezichten en landschappen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 130</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 7. Handelingen van algemeen belang</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 131</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 132</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 8. Handelingen sorterend onder voorschriften van een plan van aanleg</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 2. Basisrechten voor zonevreemde constructies</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 1. Toepassingsgebied, draagwijdte en algemene bepalingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.11</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/2</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 2. Bestaande zonevreemde constructies</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 1. Bestaande zonevreemde woningen</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 1. Verbouwen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.12</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/3</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 2. Herbouwen op dezelfde plaats</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.13</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/4</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 3. Herbouwen op een gewijzigde plaats</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.14</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/5</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 4. Uitbreiden</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.415</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/6</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 2. Bestaande zonevreemde constructies, niet zijnde woningbouw</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 1. Verbouwen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.16</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/7</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 2. Herbouwen op dezelfde plaats</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.17</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/8</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 3. Herbouwen op een gewijzigde plaats</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.18</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/9</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 4. Uitbreiden en aanpassen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.19</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/10</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 3. Recent afgebroken zonevreemde woningen of andere constructies</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.20</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/11</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 4. Herstelwerken bij vernietiging of beschadiging door vreemde oorzaak</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 1. Vernietigde of beschadigde woningen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.21</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/12</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 2. Andere vernietigde of beschadigde constructies</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.22</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/13</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 3. Zonevreemde functiewijzigingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.23</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/14</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 4. Planologische attesten</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.24</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/15</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.25</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/16</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.26</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/17</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.27</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/18</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.28</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/19</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.29</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/20</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK V. Verhouding met de milieuvergunning en de milieumelding</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.5.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/21</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK VI. Geldingsduur en wijzigbaarheid</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 1. Stedenbouwkundige vergunningen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.6.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/22</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.6.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/23</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.6.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/24</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 2. Verkavelingsvergunningen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.6.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/25</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.6.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/26</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.6.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/27</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.6.7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/28</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.6.8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/29</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK VII. Administratieve procedure</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 1. Algemene bepalingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 1. Reguliere en bijzondere procedure</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/30</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/31</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 2. Afstemming aanvraagprocedure stedenbouwkundige en milieuvergunning</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/32</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/33</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/34</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/35</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/36</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/37</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/38</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/39</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.11</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/40</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 2. Reguliere procedure</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 1. Administratieve procedure eerste aanleg</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.12</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/41</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.13</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/42</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.14</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/43</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.15</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/44</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.16</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/45</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.17</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/46</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.18</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/47</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.19</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/48</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.20</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/49</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 2. Administratieve beroepsprocedure</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.21</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.22</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/51</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.23</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/52</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.24</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/53</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.25</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/54</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 3. Bijzondere procedure</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.26</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/55</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK VIII. Raad voor vergunningsbetwistingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 1. Oprichting</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/56</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/57</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 2. Bevoegdheid</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/58</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 3. Samenstelling</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/59</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/60</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/61</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/62</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 4. Werkingsregelen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/63</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/64</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/65</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 5. Procedure</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 1. Algemeen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.11</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/66</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.12</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/67</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.13</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/68</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.14</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/69</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.15</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/70</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 2. Aanhangigmaking</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.16</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/71</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.17</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/72</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.18</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/73</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 3. Tussenkomst</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.19</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/74</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 4. Vooronderzoek</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.20</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/75</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 5. Zitting</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.21</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/76</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.22</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/77</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.23</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/78</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.24</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/79</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.25</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/80</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 6. Beraadslaging en uitspraak</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.26</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/81</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.27</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/82</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 6. Diverse bepalingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.28</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/83</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.29</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/84</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.30</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/85</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.31</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/86</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p><strong>TITEL V. Diverse bepalingen</strong></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p><strong>TITEL IV. Diverse bepalingen</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK I. Plannen en vergunningenregisters</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK I. Informatieverplichtingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 1. Plannenregister</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 1. Plannenregister en vergunningenregister</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Onderafdeling 1. Plannenregister</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.1.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 134</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 2. Vergunningenregister</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Onderafdeling 2. Vergunningenregister</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.1.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 134/1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.1.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 134/2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.1.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 134/3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.1.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 134/4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 3. Bepalingen, aan beide registers gemeen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Onderafdeling 3. Bepalingen, aan beide registers gemeen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.1.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 134/5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK II. Informatieplichten</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 1. Informatieplichten van de instrumenterende ambtenaar</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 4. Informatieplichten van de instrumenterende ambtenaar</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.2.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 137</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.2.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 138</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.2.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 139</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.2.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 140</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 2. Informatieplicht met betrekking tot overeenkomsten</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 5. Informatieplicht met betrekking tot overeenkomsten</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.2.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 141</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 3. Informatieplicht met betrekking tot publiciteit</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 6. Informatieplicht met betrekking tot publiciteit</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.2.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 142</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 4. Stedenbouwkundig uittreksel</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 2. Het stedenbouwkundig uittreksel en attest. Projectvergaderingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.2.7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 135</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK III. Het stedenbouwkundig attest.</p>
+
+			<p>Projectvergaderingen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 2. Het stedenbouwkundig uittreksel en attest. Projectvergaderingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.3.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 135/1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.3.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 135/2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 3. Het planologisch attest</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK IV. Aanpak permanente bewoning weekendverblijven</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 1. Begrip</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Onderafdeling 1. Begrip</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.4.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 2. Planologisch oplossingskader</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Onderafdeling 2. Planologisch oplossingskader</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.4.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145/1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 3. Woonrecht</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Onderafdeling 3. Woonrecht</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.4.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145/2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 4. Handelingen betreffende een weekendverblijf waarop een woonrecht rust</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Onderafdeling 4. Handelingen betreffende een weekendverblijf waarop een woonrecht rust</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.4.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145/3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK V. Diverse ondersteunings- en evaluatiemaatregelen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 1. Ondersteuning van de implementatie van het decreet van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingbeleid</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 2. Ondersteuning van de implementatie van het aanpassings- en aanvullingsdecreet</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.5.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 182</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 2. Evaluatie en kwaliteitscontrole van aspecten van het vergunningenbeleid</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 3. Evaluatie en kwaliteitscontrole van aspecten van het vergunningenbeleid</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.5.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 183</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK VI. Raakvlakken met sectorregelgeving</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 1. Grond- en pandenbeleid</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Onderafdeling 1. Register van de onbebouwde percelen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK IV. Register van onbebouwde percelen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.6.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 62</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Onderafdeling 2. Fiscale bepalingen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK II. Fiscale bepalingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.6.2</p>
+
+			<p>§ 1</p>
+
+			<p>&nbsp;</p>
+
+			<p>§ 2</p>
+
+			<p>1°</p>
+
+			<p>2°</p>
+
+			<p>§ 3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 143</p>
+
+			<p>§ 1</p>
+
+			<p>2°</p>
+
+			<p>§ 2</p>
+
+			<p>2°</p>
+
+			<p>3°</p>
+
+			<p>§ 4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Onderafdeling 3. Grondfonds</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK III. Grondfonds</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.6.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 144</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Onderafdeling 4. Woonuitbreidingsgebieden.</p>
+
+			<p>Ontwikkelingsmogelijkheden</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK VI. Woonuitbreidingsgebieden.</p>
+
+			<p>Ontwikkelingsmogelijkheden</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.6.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145/5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.6.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145/6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.6.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145/7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 2. Bijzondere bepaling betreffende de toetsing aan stedenbouwkundige voorschriften binnen andere beleidsvelden</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK V. Bijzondere bepaling betreffende de toetsing aan stedenbouwkundige voorschriften binnen andere beleidsvelden</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.6.7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145/4</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+### BIJLAGE 2
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p><strong>Nieuwe nummering Vlaamse Codex Ruimtelijke Ordening</strong><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<p><strong>Oude nummering decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p><strong>TITEL VI. Handhavingsmaatregelen</strong></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p><strong>TITEL V. Handhavingsmaatregelen</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK I. Strafbepalingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>AFDELING 1. Strafsancties</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 146</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 194</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 147</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 2. Handhavingsplan</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 1/1.Handhavingsplan</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 147/1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 3. Toezicht</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 2. Toezicht</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 4. Hoge Raad voor het Handhavingsbeleid</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 2/1. Hoge Raad voor het Handhavingsbeleid</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 1. Oprichting en missie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/1</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 2. Bevoegdheden</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 1. Advies betreffende de herstelvordering en de ambtshalve uitvoering</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.11</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.12</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/7</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 2. Advies betreffende opeenvolgende herstelvorderingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.13</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.14</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.15</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.16</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/11</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 3. Advies betreffende sommige betekeningen van vonnissen en arresten</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.17</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/12</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.18</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/13</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.19</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/14</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.20</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/15</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 4. specifieke bevoegdheid inzake de invordering van dwangsommen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.21</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/16</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 5. bemiddelingsopdracht</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.22</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/17</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 6. Adviezen ten behoeve van de Vlaamse Overheid</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.23</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/18</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 3. Samenstelling</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.24</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/19</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.25</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/20</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.26</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/21</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.27</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/22</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.28</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/23</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.29</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/24</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 4. Werkings- en procedureregelen</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 1. Algemene beginselen</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 1. Quorum en stemverhoudingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.30</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/25</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 2. Inspraak vanuit handhavende besturen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.31</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/26</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 3. Deontologie en beroepsgeheimen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.32</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/27</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.33</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/28</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 4. Horen van belanghebbenden</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.34</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/29</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 5. Bijstand en vertegenwoordiging</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.35</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/30</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 2. Reglementering</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 1. Procedure- en werkingsreglement</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.36</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/31</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Subsectie 2. Huishoudelijk reglement</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.37</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/32</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Sectie 3. Werkingsmiddelen en permanent secretariaat</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.38</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/33</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.39</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/34</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>Onderafdeling 5. Verslagboek</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.40</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/35</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 5. Herstelmaatregelen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 3. Herstelmaatregelen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.41</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 149</p>
+
+			<p>§ 1</p>
+
+			<p>§ 1/1</p>
+
+			<p>§ 1/2</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.42</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 150</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.43</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 151</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.44</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 151/1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 6. Uitvoering van de rechterlijke uitspraak</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 4. Uitvoering van de rechterlijke uitspraak</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.45</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 152</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.46</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 153</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 7. Staking van de in overtreding verrichte werken of handelingen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 5. Staking van de in overtreding verrichte werken of handelingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.47</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 154</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.48</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 155</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.49</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 156</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.50</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 157</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 8. Minnelijke schikking</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 6. Minnelijke schikking</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.51</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 158</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.52</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 158/1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.53</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 158/2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.54</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 158/3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 9. Fonds Minnelijke Schikkingen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 6/1. Fonds Minnelijke Schikkingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.55</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 159</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 10. Herstelfonds</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 7. Herstelfonds</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.56</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 159bis</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 11. Diverse bepalingen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 8. Diverse bepalingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.57</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 159ter</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.58</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 159quater</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK II Inschrijving op het hypotheekkantoor en in het vergunningenregister</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.2.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 160</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.2.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 161</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p>HOOFDSTUK III. Vernietiging titel</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.3.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 162</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p><strong>TITEL VII. Diverse temporele en overgangsmaatregelen</strong></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p><strong>TITEL VII. Slotbepalingen</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK I. Algemene beginselen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK I. Overgangsmaatregelen en temporele werking</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.1.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 167</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.1.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 200</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK II. Ontvoogding gemeenten</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK III. Algemene overgangsmaatregelen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.2.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 193</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK III. Man/vrouw-evenwicht in de GECORO</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.3.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 168</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK IV. Planning</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 1. Bijzondere validaties</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK VII. Specifieke validatie van sommige gewestplanwijzigingen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145/8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145/9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 2. Algemene en bijzondere plannen van aanleg</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 187</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 170</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 201</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 3. Provinciale structuurplanning</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 188 (tweede lid)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 4. Gemeentelijke structuurplanning</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 169</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 5. Verkooprecht</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 171</p>
+
+			<p>§ 1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 6. Onteigening</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 196bis</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 171</p>
+
+			<p>§ 2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 7. Planschade en planbaten</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.11</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 172</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.12</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 173</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.13</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 174</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK V. Vergunningenbeleid</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 1. Vergunningsplichtige functiewijzigingen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.5.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 192bis</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 2. Planologische attesten</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.5.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 178 (gedeeltelijk)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 3. Verkavelingsakkoorden en verkavelingen daterend van vóór 22 december 1970</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.5.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 192</p>
+
+			<p>§ 1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.5.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 192</p>
+
+			<p>§ 2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.5.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 192</p>
+
+			<p>§ 3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 4. Verval, herziening of opheffing van verkavelingsvergunningen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.5.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 203</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.5.7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 175</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 5. Invoering van het vergunningenstelsel van het decreet van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.5.8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 176</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 6. Tijdelijke regeling bindende advisering door de wegbeheerder</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.5.9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 177</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK VI. Diverse bepalingen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 1. Plannen- en vergunningenregisters</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.6.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 190</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.6.2</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 191</p>
+
+			<p>§ 1</p>
+
+			<p>§ 1bis</p>
+
+			<p>§ 1ter</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.6.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 191</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 2. Informatieplichten</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.6.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 199</p>
+
+			<p>§ 2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.6.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 199</p>
+
+			<p>§ 1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>AFDELING 3. Stedenbouwkundig attest</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.6.6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 178 (gedeeltelijk)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>HOOFDSTUK VII. Handhaving</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.7.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 179</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.7.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 180</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.7.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 198</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.7.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 181</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p><strong>TITEL VIII. Aanhalingswijze</strong></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p><strong>/</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 8.1.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+## Bijlage III Concordantietabel II
+
+### BIJLAGE 3
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p><strong>VLAAMSE CODEX RUIMTELIJKE ORDENING<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
+			<p><strong>CONCORDANTIETABEL II</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p><strong>Oude nummering decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening</strong></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p><strong>Nieuwe nummering Vlaamse Codex </strong></p>
+
+			<p><strong>Ruimtelijke Ordening</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.1.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2</p>
+
+			<p>§ 1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.1.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2</p>
+
+			<p>§ 2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.1.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.1.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.1.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.2.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 4/1</p>
+
+			<p>§ 4/2</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.3.1</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 8</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 4/1</p>
+
+			<p>§ 4/2</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.3.2</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+
+			<p>§ 9</p>
+
+			<p>§ 10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 9</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 4/1</p>
+
+			<p>§ 4/2</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+
+			<p>§ 9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.3.3</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+
+			<p>§ 9</p>
+
+			<p>§ 10</p>
+
+			<p>§ 11</p>
+
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 9/1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.3.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.4.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 11</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.4.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 12</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.4.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 13</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.4.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 14</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.4.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 15</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.4.6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 16</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.4.7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 17</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 1.4.8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 18</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 19</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 4/1</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.2</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+
+			<p>§ 9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 20</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 21</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 22</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 23</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 24</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 25</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 26</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 27</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 28</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.11</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 29</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.12</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 30</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.13</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 31</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.14</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 32</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.15</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 33</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.16</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 34</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.17</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 35</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.18</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 36</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.1.19</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 37</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 38</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 39</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 39/1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 40</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 41</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>2.2.6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 42</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 5bis</p>
+
+			<p>§ 6</p>
+
+			<p>§ 6bis</p>
+
+			<p>§ 7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.7</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+
+			<p>§ 9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 43</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 44</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 45</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 6bis</p>
+
+			<p>§ 7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.10</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 46</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.11</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 47</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.12</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 48</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.13</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 49</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 6bis</p>
+
+			<p>§ 7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.14</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+
+			<p>§ 8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 50</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.15</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 51</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.16</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 52</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.17</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 53</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.2.18</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 54</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.3.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 55</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.3.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 56</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.3.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 62</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.6.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 63</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 64</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>(Artikel 65)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>(Artikel 2.4.2/1)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>(Artikel 66)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>(Artikel 2.4.2/2)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>(Artikel 67)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>(Artikel 2.4.2/3)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>(Artikel 68)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>(Artikel 2.4.2/4)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 69</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 70</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 71</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 72</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 73</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 74</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 75</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 75/1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.4.10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 76</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.5.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 77</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.5.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 84</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 85</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 86</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 87</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 88</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 89</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 90</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.11</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.12</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.13</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.14</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.15</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.16</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.17</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.18</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/11</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 2.6.19</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/12</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 3.1.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/13</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 3.1.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/14</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 3.1.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/15</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 3.2.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/16</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 3.2.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/17</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 3.2.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 91/18</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 3.2.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 92</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.1.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 93</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 94</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 95</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 96</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 97</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 98</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 99</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 100</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 101</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 102</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 103</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.11</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 104</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.12</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 105</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.13</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 106</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.14</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 107</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.15</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 108</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.16</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 109</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.17</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 110</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.18</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 111</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.19</p>
+
+			<p>§ 1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 112</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.20</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 113</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.21</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 114</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.22</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 115</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.23</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 116</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.24</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 117</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.3.1</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 118</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.3.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 119</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.3.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 120</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.3.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 121</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.3.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 122</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.3.6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 123</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.3.7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 124</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.3.8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 125</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 126</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 127</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 128</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 129</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 130</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 131</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 132</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.11</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.12</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.13</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.14</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.15</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.16</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.17</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.18</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.19</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/11</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.20</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/12</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.21</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/13</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.22</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/14</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.23</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/15</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.24</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/16</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.25</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/17</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.26</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/18</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.27</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/19</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.28</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/20</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.4.29</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/21</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.5.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/22</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.6.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/23</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.6.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/24</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.6.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/25</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.6.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/26</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.6.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/27</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.6.6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/28</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.6.7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/29</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.6.8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/30</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/31</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/32</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/33</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/34</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/35</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/36</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/37</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/38</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/39</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/40</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.11</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/41</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.12</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/42</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.13</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/43</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.14</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/44</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.15</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/45</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.16</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/46</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.17</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/47</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.18</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/48</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.19</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/49</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.20</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/50</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.21</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/51</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.22</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/52</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.23</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/53</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.24</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/54</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.25</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/55</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.7.26</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/56</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/57</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/58</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/59</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/60</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/61</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/62</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/63</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/64</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/65</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/66</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.11</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/67</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.12</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/68</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.13</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/69</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.14</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/70</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.15</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/71</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.16</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/72</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.17</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/73</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.18</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/74</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.19</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/75</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.20</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/76</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.21</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/77</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.22</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/78</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.23</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/79</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.24</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/80</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.25</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/81</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.26</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/82</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.27</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/83</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.28</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/84</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.29</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/85</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.30</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 133/86</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.8.31</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 134</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.1.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 134/1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.1.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 134/2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.1.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 134/3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.1.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 134/4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.1.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 134/5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.1.6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 135</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.2.7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 135/1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.3.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 135/2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.3.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 137</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.2.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 138</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.2.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 139</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.2.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 140</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.2.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 141</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.2.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 142</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.2.6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 143</p>
+
+			<p>§ 1</p>
+
+			<p>&nbsp; 2°</p>
+
+			<p>§ 2</p>
+
+			<p>&nbsp; 2°</p>
+
+			<p>&nbsp; 3°</p>
+
+			<p>§ 4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.6.2</p>
+
+			<p>§ 1</p>
+
+			<p>&nbsp;</p>
+
+			<p>§ 2</p>
+
+			<p>&nbsp;&nbsp; 1°</p>
+
+			<p>&nbsp;&nbsp; 2°</p>
+
+			<p>§ 3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 144</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.6.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.4.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145/1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.4.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145/2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.4.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145/3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.4.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145/4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.6.7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145/5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.6.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145/6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.6.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145/7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.6.6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145/8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 145/9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 146</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 147</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 147/1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.11</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.12</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.13</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.14</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.15</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/11</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.16</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/12</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.17</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/13</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.18</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/14</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.19</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/15</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.20</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/16</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.21</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/17</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.22</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/18</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.23</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/19</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.24</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/20</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.25</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/21</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.26</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/22</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.27</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/23</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.28</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/24</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.29</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/25</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.30</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/26</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.31</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/27</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.32</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/28</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.33</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/29</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.34</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/30</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.35</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/31</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.36</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/32</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.37</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/33</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.38</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/34</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.39</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 148/35</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.40</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 149</p>
+
+			<p>§ 1</p>
+
+			<p>§ 1/1</p>
+
+			<p>§ 1/2</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.41</p>
+
+			<p>§ 1</p>
+
+			<p>§ 1/1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 150</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.42</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 151</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.43</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 151/1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.44</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 152</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.45</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 153</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.46</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 154</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.47</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 155</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.48</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 156</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.49</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 157</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 158</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.51</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 158/1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.52</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 158/2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.53</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 158/3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.54</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 159</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.55</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 159bis</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.56</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 159ter</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.57</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 159quater</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.58</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 160</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.2.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 161</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.2.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 162</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.3.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 167</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.1.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 168</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.3.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 169</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 170</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 171</p>
+
+			<p>§ 1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 171</p>
+
+			<p>§ 2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 172</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.11</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 173</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.12</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 174</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.13</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 175</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.5.7</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 176</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.5.8</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 177</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.5.9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 178</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.5.2</p>
+
+			<p>Artikel 7.6.6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 179</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.7.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 180</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.7.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 198</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.7.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 181</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.7.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 182</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.5.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 183</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 5.5.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 184</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 6.1.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 187</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 188</p>
+
+			<p>eerste lid</p>
+
+			<p>tweede lid</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>&nbsp;</p>
+
+			<p>niet in de coördinatie opgenomen bepaling</p>
+
+			<p>Artikel 7.4.6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 190</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.6.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 191</p>
+
+			<p>§ 1</p>
+
+			<p>§ 1bis</p>
+
+			<p>§ 1ter</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.6.2</p>
+
+			<p>§ 1</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 191</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.6.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 192</p>
+
+			<p>§ 1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.5.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 192</p>
+
+			<p>§ 2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.5.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 192</p>
+
+			<p>§ 3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.5.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 192bis</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.5.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 193</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.2.1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 195quinquies</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>niet in de coördinatie opgenomen bepaling</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 196bis</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 198</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.7.3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 199</p>
+
+			<p>§ 1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.6.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 199</p>
+
+			<p>§ 2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.6.4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 200</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.1.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 201</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.4.5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 203</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 7.5.6</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 204</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>/</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p><strong>Oude nummering bosdecreet 13 juni 1990</strong></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p><strong>Nieuwe nummering Vlaamse Codex</strong></p>
+
+			<p><strong>Ruimtelijke Ordening</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 90bis</p>
+
+			<p>§ 1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.3.1</p>
+
+			<p>§ 4</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 90bis</p>
+
+			<p>§ 2</p>
+
+			<p>§ 3</p>
+
+			<p>§ 4</p>
+
+			<p>§ 5</p>
+
+			<p>§ 6</p>
+
+			<p>§ 7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Artikel 4.2.19</p>
+
+			<p>§ 2</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+## Bijlage IV Verantwoordingsnotitie
+
+### BIJLAGE 4
+
+1. De opmaak van de Vlaamse Codex Ruimtelijke Ordening geeft uitvoering aan artikel 110 van het decreet van 27 maart 2009 tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid (verder : « Aanpassings- en aanvullingsdecreet »).<br /><br />2. Bij de redactie van de Vlaamse Codex Ruimtelijke Ordening werden volgende uitgangspunten gevolgd.<br /><br />Ten eerste.<br />De coördinatie dient zo nauw mogelijk aan te sluiten bij de letterlijke teksten van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening (verder : « DRO »), met inbegrip van alle wijzigingen die daaraan werden aangebracht, inzonderheid door het Aanpassings- en aanvullingsdecreet. Hetzelfde geldt voor de integratie van de vergunningsregeling van artikel 90bis van het bosdecreet van 13 juni 1990.<br /><br />Ten tweede.<br />De coördinatie dient de gekende indeling van het DRO (institutionele bepalingen; bepalingen inzake de ruimtelijke planning; bepalingen inzake het vergunningenbeleid; bepalingen inzake het handhavingsbeleid) te behouden, weze het dat een meer logische rubricering mag en moet worden uitgewerkt wat verscheidene « diverse bepalingen » en overgangsmaatregelen betreft.<br /><br />Ten derde.<br />De coördinatie dient een heldere en doorlopende nummering van de decreetartikelen te omvatten, waarbij het model gevolgd wordt van het Decreet Algemene Bepalingen Milieubeleid en het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid, zodanig dat men uit het artikelnummer kan afleiden op welke rubriek het betrekking heeft :<br />- artikelnummers die beginnen met « 1 » betreffen de inleidende bepalingen;<br />- artikelnummers die beginnen met « 2 » betreffen bepalingen die betrekking hebben op de ruimtelijke planning;<br />- artikelnummers die beginnen met « 3 » betreffen grootschalige stedenbouwkundige projecten;<br />- artikelnummers die beginnen met « 4 » betreffen het vergunningenbeleid;<br />- artikelnummers die beginnen met « 5 » betreffen diverse bepalingen inzake de plannen- en vergunningsregisters, de ruimtelijke informatieplichten, het stedenbouwkundig attest en projectvergaderingen, de aanpak van de permanente bewoning van weekendverblijven, ondersteunings- en evaluatiemaatregelen en de raakvlakken met sectorregelgeving;<br />- artikelnummers die beginnen met « 6 » betreffen het handhavingsbeleid;<br />- artikelnummers die beginnen met « 7 » betreffen temporele en overgangsmaatregelen;<br />- artikel 8.1.1 bevestigt in navolging van artikel 110, § 2, van het Aanpassings- en aanvullingsdecreet dat de coördinatie aangehaald wordt als « Vlaamse Codex Ruimtelijke Ordening ».<br /><br />3. Aan deze uitgangsprincipes werd meticuleus uitvoering gegeven.<br /><br />Aansluiting bij de bestaande libelleringen.<br /><br />Ten opzichte van de in de coördinatie betrokken teksten werden slechts volgende logische wijzigingen aangebracht, geheel en al binnen de machtiging verleend in artikel 110, § 1, tweede lid, 3°, van het Aanpassings- en aanvullingsdecreet (naar luid waarvan de Vlaamse Regering de te coördineren bepalingen « met het oog op onderlinge overeenstemming, eenheid van terminologie en vereenvoudiging qua vorm » kan herschrijven, « zonder te raken aan de erin neergelegde beginselen ») :<br />- in het definitieartikel 1.1.2 van de codex (dat de tekst van artikel 2, § 1, van het DRO omvat) werden de daarin omschreven begrippen alfabetisch geordend;<br />- bij de regeling van het voorkooprecht in de zin van de artikelen 2.4.1 en 2.4.2 is middels een voetnotenapparaat aangegeven welke voorkooprechtenregeling overgangsmatig zal gelden tot de inwerkingtreding van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten;<br />- artikel 90bis van het bosdecreet van 13 juni 1990 werd uiteengetrokken en ingepast in twee onderscheiden artikelen;<br />o § 1 van artikel 90bis van het bosdecreet (waarin aangegeven wordt onder welke voorwaarden een stedenbouwkundige vergunning tot ontbossing of een verkavelingsvergunning voor geheel of gedeeltelijk beboste terreinen kan worden verleend) zal een onderdeel (§ 4) vormen van de beoordelingsgronden, opgesomd in artikel 4.3.1;<br />o de paragrafen 2 en verder van artikel 90bis van het bosdecreet (waarin een decretale « compensatievoorwaarde » opgelegd wordt), zullen logischerwijs deel uitmaken van artikel 4.2.19, dat handelt over vergunningsvoorwaarden;<br />- in de bestaande tekst van artikel 90bis van het bosdecreet van 13 juni 1990 werden volgende kleine tekstuele aanpassingen aangebracht :<br />o de tekstinterne verwijzingen en de verwijzingen naar het DRO werden in overeenstemming gebracht met de nummeringswijze van de codex;<br />o de diverse verwijzingen naar « het Agentschap » werden overeenkomstig het definitieartikel 4, 1°ter, van het bosdecreet vervangen door verwijzingen naar « het Agentschap voor Natuur en Bos »;<br />o de term « vergunningverlenende overheid » werd stelselmatig vervangen door de elders in de codex gehanteerde term « vergunningverlenend bestuursorgaan »;<br />o in de aanhef van artikel 4.3.1, § 4, van de codex is het begrip « ontbossing », gehanteerd in de aanhef van artikel 90bis, § 1, eerste lid, van het bosdecreet, vervangen door het begrip « ontbossen in de zin van artikel 4, 15°, van het bosdecreet van 13 juni 1990 », zodanig dat duidelijk wordt gemaakt dat de decretale definiëring die aldaar gegeven wordt, ongewijzigd aangehouden blijft;<br />o waar artikel 90bis, § 1, eerste lid, (eerste zin), van het bosdecreet bepaalt dat een ontheffing van het ontbossingsverbod slechts kan worden verkregen middels een stedenbouwkundige vergunning, wordt in artikel 4.3.1, § 4, eerste lid, van de codex duidelijkheidshalve (en zonder dat de inhoud van de gecoördineerde bepaling aangepast wordt) vermeld dat zulks ook mogelijk is middels een verkavelingsvergunning in de zin van artikel 4.2.17, § 1, eerste lid, 3°, van de codex, dewelke immers expliciet decretaal gelijkgesteld wordt met een stedenbouwkundige vergunning;<br />o de paragrafen 2 t.e.m. 4 van artikel 90bis van het bosdecreet werden samengebracht in één paragraaf (§ 2) van artikel 4.2.19 van de codex;<br />o de verwijzing naar « de inwerkingtreding van dit decreet » (artikel 90bis, § 2, eerste lid, 2°, en § 7, eerste lid, van het bosdecreet) werd omgezet in een verwijzing naar « de inwerkingtreding van het bosdecreet van 13 juni 1990 »;<br />o het begrip « de compensatie » in artikel 90bis, § 3, derde lid, van het bosdecreet werd (omwille van een consequent gebruik van dat begrip) vervangen door de term « de compensatieplicht »;<br />o het begrip « werken van algemeen belang » in artikel 90bis, § 7, derde lid, van het bosdecreet werd om redenen van eenheid van terminologie vervangen door de (gedefinieerde) term « handelingen van algemeen belang »;<br />- ten gevolge van de integratie van artikel 90bis van het bosdecreet werden volgende tekstuele aanpassingen aangebracht in de gecoördineerde DRO-teksten :<br />o in de aanhef van artikel artikel 111, § 1, van het DRO, zoals gelibelleerd door het Aanpassings- en aanvullingsdecreet, wordt bepaald dat het vergunningverlenende bestuursorgaan aan een vergunning voorwaarden kan verbinden « onverminderd artikel 90bis van het bosdecreet van 13 juni 1990 » (dat immers een (compensatie)voorwaarde van rechtswege omvat); deze zinsnede wordt in artikel 4.2.19, § 1, eerste lid, van de codex logischerwijs vervangen door de frase « onverminderd de voorwaarde van rechtswege in de zin van § 2 » (nu deze § 2 de compensatieregeling van artikel 90bis van het bosdecreet zal omvatten);<br />o in de aanhef van artikel 109, § 1, eerste lid, 3°, van het DRO, zoals gelibelleerd door het Aanpassings- en aanvullingsdecreet, wordt bepaald dat een verkavelingsvergunning ondermeer als stedenbouwkundige vergunning kan gelden voor de in de verkaveling begrepen ontbossingen, « onverminderd artikel 90bis van het bosdecreet van 13 juni 1990 »; deze referentie aan het bosdecreet wordt nu in artikel 4.2.17, § 1, eerste lid, 3°, van de codex vervangen door een verwijzing naar de bepalingen van de codex waarin voormeld artikel 90bis is verwerkt (artikel 4.2.19, § 2, en artikel 4.3.1, § 4);<br />- in artikel 4.3.8 van de codex, tot coördinatie van artikel 124 van het DRO, werd de verwijzing (in § 2, tweede lid) naar « de termijn, vermeld in het eerste lid, 3° » vervangen door een verwijzing naar de correcte vindplaats van de bedoelde uitvoeringstermijn, zijnde het eerste lid, 2°;<br />- artikel 178 van het DRO, zoals vervangen door het Aanpassings- en aanvullingsdecreet, omvat een overgangsregeling betreffende de behandeling van aanvragen voor een planologisch c.q. stedenbouwkundig attest; in functie van een heldere rubricering (zie verder) werd dit artikel uiteengetrokken in twee gelijkluidende bepalingen, waarbij de eerste bepaling (artikel 7.5.2 in de codex) enkel het planologisch attest betreft, en waarbij de tweede bepaling (artikel 7.6.5 in de codex) betrekking heeft op het stedenbouwkundig attest;<br />- telkens wanneer de in de coördinatie opgenomen teksten verwijzen naar de inwerkingtreding van het DRO, werd de datum van 1 mei 2000 ingevoegd (cfr. artikel 204 van het DRO);<br />- telkens wanneer de in de coördinatie opgenomen teksten verwijzen naar de inwerkingtreding van het Aanpassings- en aanvullingsdecreet, werd de datum van 1 september 2009 ingevoegd (cfr. artikel 112 van het Aanpassings- en aanvullingsdecreet);<br />- in artikel 7.4.9 van de codex (coördinatie van artikel 196bis van het DRO) :<br />o werd de term « plannen van aanleg, bedoeld in het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996 » verkort tot het gedefinieerde begrip « plannen van aanleg »;<br />o werd de temporele verwijzing naar « (één jaar na) het van kracht worden van deze bepaling » vervangen door een verwijzing naar 8 februari 2004/2005, aangezien het gecoördineerde artikel 196bis van het DRO, ingevoegd via artikel 59 van het decreet van 21 november 2003, in werking trad op 8 februari 2004;<br />- waar nodig en mogelijk werden paragrafen uiteengesplitst in meerdere leden, om te voldoen aan randnr. 57.3 van de Beginselen van de Wetgevingstechniek (Raad van State, 2008), conform hetwelk een artikel slechts opgedeeld mag worden in paragrafen indien ten minste één van deze paragrafen bestaat uit meer dan één lid;<br />- conform randnummer 6.2 van de Beginselen van de Wetgevingstechniek (Raad van State, 2008) werden alle hoofd- en rangtelwoorden uitgedrukt in letters, behalve bij geldbedragen, data, verwijzingen naar artikelen en getallen in tabellen;<br />- alle tekstinterne verwijzingen werden gelibelleerd via de formules « , vermeld in artikel (...) » of « in de zin van artikel (...) »; overige varianten (« bedoeld in het eerste lid », « zoals vermeld in artikel (...) »,...) werden in het kader van tekstuniformiteit weggewerkt.<br /><br />Twee bepalingen die louter om redenen van wetshistoriek werden behouden in het DRO doch die volledig voorbijgestreefd zijn, werden ondergebracht in een bijlage I, « niet in de coördinatie opgenomen voorbijgestreefde bepalingen ».<br /><br />Afgezien van voornoemde beperkte en louter technische aanpassingen, werden geen tekstuele wijzigingen aangebracht aan de basisteksten. Om die reden is afgezien van een (in legistieke aanbevelingen soms aangeraden) voetnotenapparaat waarin bij elk artikel wordt vermeld welke wijzigingen die door de coördinatie in de oorspronkelijke tekst worden aangebracht.<br /><br />Beperkte « sanering » van de indeling in rubrieken.<br /><br />De teksten werden ingedeeld conform het basisconcept van het DRO. Titel I betreft inleidende bepalingen; Titel II de planning; Titel III de grootschalige stedenbouwkundige projecten; Titel IV het vergunningenbeleid; Titel V allerhande « diverse bepalingen »; Titel VI het handhavingsbeleid en Titel VII de temporele en overgangsmatige regelen.<br /><br />In Titel I vond een zeer kleine herschikking van artikelen plaats, doordat artikel 2, § 2, van het DRO omgevormd werd tot een eigenstandig artikel 1.1.5. Aangezien die bepaling betrekking heeft op elementen van dossiersamenstelling en -betekening, werd het legistiek niet aangewezen geacht om één en ander bij het definitieartikel 1.1.2 van de codex (dat de tekst van artikel 2, § 1, van het DRO omvat) onder te brengen.<br /><br />Enkel in Titel V en Titel VII werden meer ingrijpende « saneringen » doorgevoerd wat de rubricering betreft.<br /><br />In Titel V :<br />- werden (naast bestaande clusters inzake de plannen- en vergunningsregisters, de ruimtelijke informatieplichten, het stedenbouwkundig attest en projectvergaderingen en de aanpak van de permanente bewoning van weekendverblijven) ook de ondersteunings- en evaluatiemaatregelen van artikelen 182 en 183 van het DRO ondergebracht;<br />- werd tevens een nieuwe cluster ontwikkeld omtrent de raakvlakken tussen de ruimtelijke ordening met de sectorregelgeving; in dat hoofdstuk VI worden ten eerste alle maatregelen die raken aan het grond- en pandenbeleid gegroepeerd (register van de onbebouwde percelen, fiscale bepalingen, het Grondfonds, ontwikkelingsmogelijkheden van woonuitbreidingsgebieden); ten tweede wordt aangegeven op welke wijze bij de beoordeling van milieuvergunningsaanvragen en onteigeningsdossiers afgeweken kan worden van stedenbouwkundige voorschriften.<br /><br />De temporele en overgangsmatige regelen in Titel VII worden ingedeeld conform de basisstructuur van het DRO; met andere woorden worden eerst institutionele regelen opgenomen, vervolgens regelen van planologische aard, daarna regelen inzake het vergunningenbeleid, enzovoort.<br /><br />Doorlopende nummering. Nieuwe nummeringswijze.<br /><br />De doorlopende en titelsgewijze (en hoofdstuksgewijze) nummering van de decreetartikelen overeenkomstig bijvoorbeeld het model van het Decreet Algemene Bepalingen Milieubeleid en het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid, werd integraal doorgevoerd.<br /><br />
