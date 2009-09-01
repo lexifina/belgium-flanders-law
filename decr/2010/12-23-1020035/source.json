@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020035,
+  "title": "Decreet van 2010-12-23 tot bekrachtiging van het reglement van de Nederlands-Vlaamse Accreditatieorganisatie tot wijziging van het reglement van de Nederlands-Vlaamse Accreditatieorganisatie van 19 februari 2005 tot bepaling van bestuursbeginselen die van toepassing zijn bij de besluitvorming inzake accreditatie en toets nieuwe opleiding ten aanzien van hoger onderwijsopleidingen in de Vlaamse Gemeenschap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020035/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "98d6b511d4438fa13d4c464a3b03b962df4c47f21113dae534ad0404bf688ccb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020035&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2010-12-23",
+  "gazette": "2011-02-15",
+  "numac": 2011200673,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
