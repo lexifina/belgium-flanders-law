@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018237,
+  "title": "Besluit van de Vlaamse Regering van 2009-06-05 tot wijziging van het besluit van de Vlaamse Regering van 6 december 2002 betreffende de organisatie van het buitengewoon secundair onderwijs van opleidingsvorm 3",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018237/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "979074ad665b26e4f28a551ef55dd4a8facd2b05b425c2ffb6bdf6a1772ffdac",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018237&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2009-06-05",
+  "gazette": "2009-08-17",
+  "numac": 2009203689,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
