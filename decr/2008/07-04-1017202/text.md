@@ -569,7 +569,8 @@ B_SchK= B-V1-V2-B_lli.</p>
 ### ART. 8.
 
 <p>B_SchK, vermeld in artikel 7, § 4, wordt als volgt verdeeld over de schoolkenmerken zoals bedoeld in artikel 5, § 1, met uitzondering van schoolkenmerk V1, V2 en SK_Gon :<br>
-1° voor de leerlingen van het secundair onderwijs worden de puntengewichten als volgt vastgesteld :</p>
+1° voor de leerlingen van het secundair onderwijs worden de puntengewichten als volgt vastgesteld :<br>
+</p>
 
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:447.75pt">
 	<tbody>
@@ -623,7 +624,7 @@ B_SchK= B-V1-V2-B_lli.</p>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:356.4pt">
-			<p>Vierde graad</p>
+			<p>Hoger beroepsonderwijs en de vierde graad</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:91.35pt">
 			<p>20 punten</p>
@@ -922,7 +923,7 @@ Per school wordt het totale aantal punten berekend door het aantal GON-leerlinge
 
 ### ART. 20.
 
-Voor het begrotingsjaar 2009, dat de kredieten omvat voor het schooljaar 2008-2009, is het bedrag dat bestemd is voor het deeltijds kunstonderwijs in het Gemeenschapsonderwijs 1.812.000 euro.<br /><br />Vanaf begrotingsjaar 2009 wordt dit werkingsbudget jaarlijks vermenigvuldigd met de aanpassingscoëfficiënt A2 die als volgt berekend wordt :<br />A2 = (Cx-1/Cx-2), waarbij :<br />1° Cx-1 : de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br />2° Cx-2 : de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br /><br />De A2-coëfficiënt wordt voor 100 % in rekening gebracht.
+Voor het begrotingsjaar 2009, dat de kredieten omvat voor het schooljaar 2008-2009, is het bedrag dat bestemd is voor het deeltijds kunstonderwijs in het Gemeenschapsonderwijs 1.820.000 euro.<br /><br />Vanaf begrotingsjaar 2009 wordt dit werkingsbudget jaarlijks vermenigvuldigd met de aanpassingscoëfficiënt A2 die als volgt berekend wordt :<br />A2 = (Cx-1/Cx-2), waarbij :<br />1° Cx-1 : de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br />2° Cx-2 : de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br /><br />De A2-coëfficiënt wordt voor 100 % in rekening gebracht.
 
 ## HOOFDSTUK V. Evaluatie
 
