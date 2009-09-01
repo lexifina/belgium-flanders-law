@@ -130,7 +130,16 @@ Dit decreet regelt een aangelegenheid bedoeld in artikel 59bis van de Grondwet.<
 
 ### ART. 29.
 
-Dit hoofdstuk is van toepassing op:<br />1° de leden van de inspectiedienst bedoeld in artikel 1, eerste lid, 3° van de wet van 22 juni 1964 betreffende het statuut der personeelsleden van het Rijksonderwijs;<br />2° de personeelsleden bedoeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br />3° de personeelsleden bedoeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br />4° de leden van de Onderwijsinspectie van de Vlaamse Gemeenschap, bedoeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten;<br />5° de personeelsleden van de Dienst voor Onderwijsontwikkeling bedoeld in artikel 9 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten;<br />6° de personeelsleden van de pedagogische begeleidingsdiensten bedoeld in artikel 88 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten.<br /><br />Dit hoofdstuk is van toepassing op de bovenvermelde personeelsleden voor zover zij:<br />- hetzij vastbenoemd of tot de proeftijd toegelaten zijn;<br />- hetzij vastbenoemd zijn en hun benoeming erkend is, daar waar de erkenning bestaat.<br />- hetzij als tijdelijk personeelslid aangesteld zijn. <br />
+Dit hoofdstuk is van toepassing op:<br>
+1° de leden van de inspectiedienst bedoeld in artikel 1, eerste lid, 3° van de wet van 22 juni 1964 betreffende het statuut der personeelsleden van het Rijksonderwijs;<br>
+2° de personeelsleden bedoeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br>
+3° de personeelsleden bedoeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
+4° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.<br>
+<br>
+Dit hoofdstuk is van toepassing op de bovenvermelde personeelsleden voor zover zij:<br>
+- hetzij vastbenoemd of tot de proeftijd toegelaten zijn;<br>
+- hetzij vastbenoemd zijn en hun benoeming erkend is, daar waar de erkenning bestaat.<br>
+- hetzij als tijdelijk personeelslid aangesteld zijn.
 
 ### ART. 30.
 
