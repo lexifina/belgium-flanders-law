@@ -36,7 +36,23 @@ Elke in het KLIP geregistreerde KLB is verantwoordelijk voor de juistheid van de
 
 ## HOOFDSTUK IV Verplichting tot planaanvraag
 
+### ART. 8.
+
+Elke persoon die op het grondgebied van het Vlaamse Gewest grondwerken zal uitvoeren, is verplicht om ten vroegste veertig werkdagen op voorhand en uiterlijk twintig werkdagen voor de aanvang van de grondwerken via het KLIP een planaanvraag in te dienen. <br /><br />Deze verplichting geldt niet in geval van overmacht en voor grondwerken die manueel worden uitgevoerd. De verplichting geldt tevens niet indien het grondwerken betreft op grond die eigendom is of in beheer is van de persoon die de grondwerken zal uitvoeren en indien die persoon weet dat er sinds de voorafgaande planaanvraag aan de aanwezigheid en de ligging van de kabels en leidingen niets is veranderd. <br /><br />
+
 ## HOOFDSTUK V Afhandeling van de planaanvraag
+
+### ART. 9.
+
+Het AGIV kan nadere en afzonderlijke modaliteiten bepalen voor het afhandelen van de planaanvragen van de professionele planaanvragers enerzijds en de particuliere planaanvragers anderzijds. <br /><br />Het AGIV brengt uiterlijk de eerstvolgende werkdag na de planaanvraag alle in het KLIP geregistreerde KLB's in de planaanvraagzone via een elektronisch bericht op de hoogte van de planaanvraag.<br /><br />
+
+### ART. 10.
+
+Elke KLB die een planaanvraag ontvangt van het AGIV, stuurt uiterlijk de tweede werkdag, volgend op de dag van de ontvangst, een elektronische ontvangstbevestiging naar het AGIV.<br /><br />
+
+### ART. 11.
+
+Elke KLB die een planaanvraag ontvangt van het AGIV, is verplicht om kosteloos elke planaanvraag zo te behandelen dat een planaanvrager zo snel mogelijk en uiterlijk vijf werkdagen vóór de geplande aanvang van de grondwerken, ofwel meegedeeld krijgt dat er zich geen kabels en leidingen bevinden in de planaanvraagzone, ofwel alle informatie ontvangt om tot lokalisatie van de kabels en leidingen te kunnen overgaan voor alle kabels en leidingen die de KLB beheert of zal beheren op de dag van de aanvang van de werken.<br /><br />Tot aan de invoering van het IMKL in het KLIP, kan een planaanvrager aan elke KLB vragen om alle informatie over de kabels en leidingen schriftelijk te bezorgen.<br /><br />Als een KLB geen plannen of informatie over zijn kabels en leidingen ter beschikking heeft of kan stellen, maar wel weet dat hij kabels en leidingen in de planaanvraagzone beheert of zal beheren, moet hij voor de aanvang van de grondwerken contact opnemen met de planaanvrager en hem alle inlichtingen verschaffen en bijstand verlenen om tot lokalisatie van de kabels en leidingen te kunnen overgaan.<br /><br />
 
 ## HOOFDSTUK VI Openbaar domein
 
