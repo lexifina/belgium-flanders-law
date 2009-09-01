@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018254,
+  "title": "Besluit van de Vlaamse Regering van 2009-05-29 tot bepaling van de concordantie van bijzondere bestemmingsvoorschriften van de plannen van aanleg naar de categorieën of subcategorieën van gebiedsaanduiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018254/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "a73abbfb7e896751ac075a6f4757b14617dcbe3640737d207fb56b0fc6f549e4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018254&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2009-05-29",
+  "gazette": "2009-08-25",
+  "numac": 2009035763,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
