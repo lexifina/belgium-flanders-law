@@ -2,16 +2,16 @@
   "codex_id": 1016337,
   "title": "Besluit van de Vlaamse Regering van 2007-09-21 betreffende taak- en functiedifferentiatie in het secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016337/VolledigDocument?datum=2007-09-01",
-  "source_sha256": "85c66bee84fe3a05a8a1290068b9416fb299843b7579be927d400a876954b66e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016337/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "d3cba7c99a0bd749ff5336c8bf90cc21eee550d7f9f6f59e7c40a18430a2eb9b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016337&param=informatie",
-  "as_of": "2007-09-01",
+  "as_of": "2009-09-01",
   "made": "2007-09-21",
   "gazette": "2007-11-14",
   "numac": 2007036948,
   "document_start": "2007-09-01",
   "document_end": "2009-08-31",
-  "in_force": "2007-09-01",
+  "in_force": "2009-09-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2007-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
