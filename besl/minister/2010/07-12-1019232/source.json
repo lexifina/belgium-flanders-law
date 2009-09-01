@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019232,
+  "title": "Ministerieel besluit van 2010-07-12 tot wijziging van het ministerieel besluit van 5 maart 2007 houdende oprichting van basis- en tussenoverlegcomités en samenstelling van de overheidsafvaardiging in het beleidsdomein Onderwijs en Vorming",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019232/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "436fab35c9b0b096a60834b25bbad3c77f7631d829e4fc351aa548a57fa63823",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019232&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2010-07-12",
+  "gazette": "2010-07-22",
+  "numac": 2010203845,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
