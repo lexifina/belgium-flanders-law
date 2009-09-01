@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 18 mei 1999 houdende de
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° het decreet : het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening;<br />2° de minister : de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br />3° Vlacoro : de Vlaamse commissie voor ruimtelijke ordening, zijnde de gewestelijke adviescommissie voor ruimtelijke ordening;<br />4° VLACORO : de Vlaamse commissie voor ruimtelijke ordening, zijnde de gewestelijke technische adviescommissie voor ruimtelijke ordening, zoals bedoeld in art. 7 van het decreet; <br />5° SARO : de Strategische Adviesraad voor Ruimtelijke Ordening - Onroerend Erfgoed, zoals bedoeld in het decreet van 10 maart 2006 houdende de oprichting van de Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<br />6° het beleidsdomein RWO : het homogeen beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend erfgoed.
+In dit besluit wordt verstaan onder : <br />1° ...<br />2° de minister : de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br />3° Vlacoro : de Vlaamse commissie voor ruimtelijke ordening, zijnde de gewestelijke adviescommissie voor ruimtelijke ordening;<br />4° VLACORO : de Vlaamse commissie voor ruimtelijke ordening, zijnde de gewestelijke technische adviescommissie voor ruimtelijke ordening, zoals bedoeld in artikel 1.3.1van de Vlaamse Codex Ruimtelijke Ordening; <br />5° SARO : de Strategische Adviesraad voor Ruimtelijke Ordening - Onroerend Erfgoed, zoals bedoeld in het decreet van 10 maart 2006 houdende de oprichting van de Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<br />6° het beleidsdomein RWO : het homogeen beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend erfgoed.
 
 ### ART. 2.
 
@@ -26,9 +26,7 @@ In geval van verhindering worden de taken van de voorzitter waargenomen door de 
 
 ### ART. 5.
 
-§1. In toepassing van artikel 42, § 5bis&nbsp;van het decreet zijn de voorzitter en de tweede afgevaardigde vanuit de SARO niet stemgerechtigd, maar wel de twaalf vertegenwoordigers van het maatschappelijk middenveld van de SARO.<br>
-<br>
-§ 2. In toepassing van § 1 van dit artikel is ingeval van staking van stemmen de stem van de ondervoorzitter doorslaggevend.
+§1. In toepassing van artikel 2.2.7, § 6, van de Vlaamse Codex Ruimtelijke Ordening  zijn de voorzitter en de tweede afgevaardigde vanuit de SARO niet stemgerechtigd, maar wel de twaalf vertegenwoordigers van het maatschappelijk middenveld van de SARO.<br /><br />§ 2. In toepassing van § 1 van dit artikel is ingeval van staking van stemmen de stem van de ondervoorzitter doorslaggevend.
 
 ### ART. 6.
 
@@ -44,18 +42,7 @@ Het lid dat een persoonlijk belang heeft bij een besproken onderwerp, mag noch d
 
 ### ART. 9.
 
-De VLACORO neemt haar huishoudelijk reglement met eenparigheid van stemmen aan. Het kan ook slechts met eenparigheid van stemmen gewijzigd worden.<br>
-<br>
-Het huishoudelijk reglement regelt minstens :<br>
-1° de aanduiding van een ondervoorzitter die niet één van de leden van de SARO is;<br>
-2° de wijze van besluitvorming;<br>
-3° de wijze van agenderen, uitnodigen en notuleren;<br>
-4° de wijze van formuleren van de adviezen;<br>
-5° de aanwezigheid van externen;<br>
-6° de oprichting en werking van interne werkgroepen;<br>
-7° de nadere regels inzake het beheer en de aanwending van de middelen.<br>
-<br>
-Het huishoudelijk reglement en zijn wijzigingen worden, na goedkeuring door de Vlaamse Regering overeenkomstig artikel 7, § 5, van het decreet, gepubliceerd in het Belgisch Staatsblad.
+De VLACORO neemt haar huishoudelijk reglement met eenparigheid van stemmen aan. Het kan ook slechts met eenparigheid van stemmen gewijzigd worden.<br /><br />Het huishoudelijk reglement regelt minstens : <br />1° de aanduiding van een ondervoorzitter die niet één van de leden van de SARO is;<br />2° de wijze van besluitvorming;<br />3° de wijze van agenderen, uitnodigen en notuleren;<br />4° de wijze van formuleren van de adviezen;<br />5° de aanwezigheid van externen;<br />6° de oprichting en werking van interne werkgroepen;<br />7° de nadere regels inzake het beheer en de aanwending van de middelen.<br /><br />Het huishoudelijk reglement en zijn wijzigingen worden, na goedkeuring door de Vlaamse Regering overeenkomstig artikel 1.3.1, § 7, van de Vlaamse Codex Ruimtelijke Ordening, gepubliceerd in het Belgisch Staatsblad.
 
 ### ART. 10.
 

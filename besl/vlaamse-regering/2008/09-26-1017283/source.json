@@ -2,16 +2,16 @@
   "codex_id": 1017283,
   "title": "Besluit van de Vlaamse Regering van 2008-09-26 betreffende de samenstelling, organisatie en werking van de Vlaamse Commissie voor Ruimtelijke Ordening (VLACORO)",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017283/VolledigDocument?datum=2008-11-12",
-  "source_sha256": "669a85cc6b125dbc4a8a3c68c1832b2477317387793db4d9a165d810a8b9a4cc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017283/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "987206d93849b076641d4f9c2a4f26db34a0d43289758ec7676e4b27caef2ca1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017283&param=informatie",
-  "as_of": "2008-11-12",
+  "as_of": "2009-09-01",
   "made": "2008-09-26",
   "gazette": "2008-11-12",
   "numac": 2008203952,
   "document_start": "2008-11-12",
   "document_end": "2016-07-24",
-  "in_force": "2008-11-12",
+  "in_force": "2009-09-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2008-11-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
