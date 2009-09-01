@@ -2,16 +2,16 @@
   "codex_id": 1007601,
   "title": "Besluit van de Vlaamse Regering van 2000-08-28 tot vaststelling van de operationele doelstellingen voor de begeleiding van jongeren met leerplichtproblemen in de centra voor leerlingenbegeleiding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007601/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "9e279b4875a9658a621e2aa7670955af830d4e8074660f403d6ceb97106174ab",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007601/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "d01fa77bcbee27fb5b569cdfe56734cbacb6a89f34202b025ccdeff3dff6e73a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007601&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-09-01",
   "made": "2000-08-28",
   "gazette": "2000-11-04",
   "numac": 2000036068,
   "document_start": "2000-09-01",
   "document_end": "2009-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-09-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
