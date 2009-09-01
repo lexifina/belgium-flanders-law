@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018395,
+  "title": "Besluit van de Vlaamse Regering van 2009-09-04 tot wijziging van het besluit van de Vlaamse Regering van 16 september 1997 betreffende de controle op de inschrijvingen van leerlingen in het secundair onderwijs of in het stelsel van leren en werken en het besluit van de Vlaamse Regering van 12 november 1997 betreffende de controle op de inschrijvingen van leerlingen in het basisonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018395/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "fdda9f69b50dc64281d7c70640d16a1dca19d524d38d0acbd6ef451f73fa7e4a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018395&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2009-09-04",
+  "gazette": "2009-09-23",
+  "numac": 2009035896,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
