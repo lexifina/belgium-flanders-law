@@ -16,17 +16,17 @@ Voor de toepassing van dit decreet wordt verstaan onder:<br />1° organismen: fl
 
 ### ART. 3.
 
-De Vlaamse regering stelt een Vlaamse Hoge Raad voor Natuurbehoud in, hierna de Raad te noemen, samengesteld uit deskundigen inzake natuur. Zij bepaalt nadere regels inzake de samenstelling, de werking en het secretariaat van die Raad.
+...
 
 ### ART. 4.
 
-De Raad heeft tot taak advies uit te brengen over alle aangelegenheden bedoeld in dit decreet.<br /><br />De Raad brengt rechtstreeks advies uit aan de Vlaamse regering over alle natuurbehoudsaangelegenheden die zij hem voorlegt.<br /><br />De Raad beraadslaagt en brengt advies uit over alle aangelegenheden bedoeld in dit decreet die door zijn voorzitter of ten minste vijf leden worden voorgelegd.<br /><br />De Vlaamse regering stelt een huishoudelijk reglement vast op voorstel van de Raad.
+...
 
 ## AFDELING 2 HET INSTITUUT VOOR NATUURBEHOUD
 
 ### ART. 5.
 
-Het Instituut voor Natuur- en Bosonderzoek, hierna het Instituut genoemd, heeft als opdracht ten behoeve van de Vlaamse regering:<br />1° alle passende, wetenschappelijke studies en onderzoeken te verrichten in verband met het natuurbehoud en het natuurlijk milieu;<br />2° de Raad bij te staan in zijn opdracht;<br />3° ondersteuning te verlenen bij het opstellen van het natuurbeleidsplan;<br />4° het natuurrapport op te stellen, zoals bedoeld in artikel 10.
+Het Instituut voor Natuur- en Bosonderzoek, hierna het Instituut genoemd, heeft als opdracht ten behoeve van de Vlaamse regering:<br />1° alle passende, wetenschappelijke studies en onderzoeken te verrichten in verband met het natuurbehoud en het natuurlijk milieu;<br />2° de MiNa-Raad bij te staan in zijn opdracht;<br />3° ondersteuning te verlenen bij het opstellen van het natuurbeleidsplan;<br />4° het natuurrapport op te stellen, zoals bedoeld in artikel 10.
 
 ## HOOFDSTUK III DOELSTELLINGEN EN PLANNING VAN HET NATUURBELEID
 
@@ -77,7 +77,7 @@ Bij het opstellen van het natuurrapport worden de administratieve overheid, de r
 
 ### ART. 12.
 
-Onverminderd de bepalingen van artikel 2.1.9. van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid legt de Vlaamse regering het ontwerp van natuurbeleidsplan voor advies voor aan de Raad [en de Vlaamse Hoge Bosraad,  <span class="reference">(ing. decr. 18 mei 1999, art. 83, I: 2 augustus 1999)</span> ] gelijktijdig met de voorlegging aan de adviserende instanties bedoeld in artikel 2.1.9, § 1, van voormeld decreet alsook de door de Vlaamse regering aan te duiden organen. De bepalingen van artikel 2.1.9, § 6, en 2.1.11, § 1 en 2, van dat decreet zijn van overeenkomstige toepassing.
+Het ontwerp van natuurbeleidsplan wordt onderworpen aan dezelfde adviesprocedure als de procedure die is bepaald in artikel 2.1.9. tot en met 2.1.11. van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br />
 
 ## [HOOFDSTUK IIIbis GEINTEGREERD BEHEER TEN BEHOEVE VAN HET NATUURBEHOUD (ing. decr. 9 mei 2014, art. 3, I: 28 oktober 2017)]
 
@@ -155,7 +155,7 @@ De Vlaamse regering kan de gebiedscategorieën van het VEN, overeenkomstig de be
 
 ### ART. 25.
 
-§ 1. De administratieve overheid neemt, binnen haar bevoegdheden, de nodige maatregelen om in GEN, bij voorrang ten opzichte van de andere functies in het gebied, en in GENO, rekening houdend met de overige functies in het gebied, de natuur en het natuurlijk milieu te behouden, te herstellen en te ontwikkelen.<br /><br />Naast de maatregelen vermeld in hoofdstuk IV, afdeling 4 van dit hoofdstuk en hoofdstuk VI en onverminderd hetgeen bepaald wordt in het eerste lid, hebben deze maatregelen betrekking op:<br />1° het bevorderen van een natuurgerichte bosbouw en het instellen van bosreservaten, in overeenstemming met de bepalingen van het Bosdecreet;<br />2° het behouden, herstellen en/of op natuurelementen met een hoge natuurkwaliteit afstemmen van de waterhuishouding, ondermeer de waterkwaliteit, de waterkwantiteit en de natuurlijke structuur van de waterlopen en hun randzones, zonder dat dit disproportionele gevolgen heeft op de omliggende gebieden;<br />3° het beschermen van de insijpelingsgebieden van het grondwater;<br />4° het behouden en herstellen van het microreliëf en de structuur van het landschap;<br />5° het recreatieve medegebruik;<br />6° het agrarisch medegebruik;<br />7° het beheer van de natuurwaarden gedurende of na afloop van de economische of andere activiteiten die in het gebied plaatsvinden, rekening houdend met cultuurhistorische en landschappelijke waarden van het gebied. <br /><br />§ 2. ... <br /><br />§ 3. In de GEN en de GENO gelden de volgende voorschriften:<br /><br />1° het gebruik van meststoffen wordt geregeld overeenkomstig het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen;<br /><br />2° behoudens individuele ontheffing, verleend door het Agentschap voor Natuur en Bos of algemene ontheffing, is het verboden:<br /><br />1) bestrijdingsmiddelen te gebruiken. Dit verbod geldt niet voor de percelen van de landbouwbedrijven waar in het kader van artikel 15, § 5, lid twee en vier, van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen, een ontheffing geldt; noch voor de percelen van landbouwbedrijven die onder de bepalingen van artikel 14 of artikel 15, §§ 1 tot 4 en § 6 van bovengenoemd decreet vallen; noch voor gronden die louter om de reden dat deze verworven zijn in de periode tussen de aangifte 95 en de inwerkingtreding van het mestdecreet niet onder de toepassing van hogervermelde ontheffing vallen, behalve in bepaalde gevallen aangeduid door de Vlaamse regering, waarbij de modaliteiten of middelen nader kunnen worden gespecificeerd zonder nochtans tot een volledig verbod te kunnen overgaan;<br /><br />2) behoudens in toepassing van een goedgekeurd beheersplan conform het bosdecreet van 13 juni 1990, de vegetatie, met inbegrip van meerjarige cultuurgewassen of van kleine landschapselementen te wijzigen;<br /><br />3) het reliëf van de bodem te wijzigen;<br /><br />4) werkzaamheden uit te voeren die rechtstreeks of onrechtstreeks het grondwaterpeil verlagen, alsook maatregelen die de bestaande ont- en afwatering versterken;<br /><br />5) de structuur van de waterlopen te wijzigen.<br /><br />De Vlaamse regering bepaalt na advies van de Raad, [de Vlaamse Hoge Bosraad  <span class="reference">(ing. decr. 18 mei 1999, art. 84, I: 2 augustus 1999)</span> ] en de MINA-Raad, de voorwaarden en de procedure, de termijn en de beroepsprocedure tot het verlenen van ontheffingen zoals bedoeld in § 3, 2° van dit artikel.<br /><br />De Vlaamse regering kan onverminderd de toepassing van artikelen 18 en 19 voor de bestaande vergunde drinkwaterwinningen en de bijhorende vergunde capaciteit een algemene ontheffing verlenen op de verbodsbepaling inzake het uitvoeren van werkzaamheden die rechtstreeks of onrechtstreeks het grondwaterpeil verlagen.
+§ 1. De administratieve overheid neemt, binnen haar bevoegdheden, de nodige maatregelen om in GEN, bij voorrang ten opzichte van de andere functies in het gebied, en in GENO, rekening houdend met de overige functies in het gebied, de natuur en het natuurlijk milieu te behouden, te herstellen en te ontwikkelen.<br /><br />Naast de maatregelen vermeld in hoofdstuk IV, afdeling 4 van dit hoofdstuk en hoofdstuk VI en onverminderd hetgeen bepaald wordt in het eerste lid, hebben deze maatregelen betrekking op:<br />1° het bevorderen van een natuurgerichte bosbouw en het instellen van bosreservaten, in overeenstemming met de bepalingen van het Bosdecreet;<br />2° het behouden, herstellen en/of op natuurelementen met een hoge natuurkwaliteit afstemmen van de waterhuishouding, ondermeer de waterkwaliteit, de waterkwantiteit en de natuurlijke structuur van de waterlopen en hun randzones, zonder dat dit disproportionele gevolgen heeft op de omliggende gebieden;<br />3° het beschermen van de insijpelingsgebieden van het grondwater;<br />4° het behouden en herstellen van het microreliëf en de structuur van het landschap;<br />5° het recreatieve medegebruik;<br />6° het agrarisch medegebruik;<br />7° het beheer van de natuurwaarden gedurende of na afloop van de economische of andere activiteiten die in het gebied plaatsvinden, rekening houdend met cultuurhistorische en landschappelijke waarden van het gebied. <br /><br />§ 2. ... <br /><br />§ 3. In de GEN en de GENO gelden de volgende voorschriften:<br />1° het gebruik van meststoffen wordt geregeld overeenkomstig het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen;<br />2° behoudens individuele ontheffing, verleend door het Agentschap voor Natuur en Bos of algemene ontheffing, is het verboden:<br />1) bestrijdingsmiddelen te gebruiken. Dit verbod geldt niet voor de percelen van de landbouwbedrijven waar in het kader van artikel 15, § 5, lid twee en vier, van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen, een ontheffing geldt; noch voor de percelen van landbouwbedrijven die onder de bepalingen van artikel 14 of artikel 15, §§ 1 tot 4 en § 6 van bovengenoemd decreet vallen; noch voor gronden die louter om de reden dat deze verworven zijn in de periode tussen de aangifte 95 en de inwerkingtreding van het mestdecreet niet onder de toepassing van hogervermelde ontheffing vallen, behalve in bepaalde gevallen aangeduid door de Vlaamse regering, waarbij de modaliteiten of middelen nader kunnen worden gespecificeerd zonder nochtans tot een volledig verbod te kunnen overgaan;<br />2) behoudens in toepassing van een goedgekeurd beheersplan conform het bosdecreet van 13 juni 1990, de vegetatie, met inbegrip van meerjarige cultuurgewassen of van kleine landschapselementen te wijzigen;<br />3) het reliëf van de bodem te wijzigen;<br />4) werkzaamheden uit te voeren die rechtstreeks of onrechtstreeks het grondwaterpeil verlagen, alsook maatregelen die de bestaande ont- en afwatering versterken;<br />5) de structuur van de waterlopen te wijzigen.<br /><br />De Vlaamse regering bepaalt na advies van MINA-Raad, de voorwaarden en de procedure, de termijn en de beroepsprocedure tot het verlenen van ontheffingen zoals bedoeld in § 3, 2° van dit artikel.<br /><br />De Vlaamse regering kan onverminderd de toepassing van artikelen 18 en 19 voor de bestaande vergunde drinkwaterwinningen en de bijhorende vergunde capaciteit een algemene ontheffing verlenen op de verbodsbepaling inzake het uitvoeren van werkzaamheden die rechtstreeks of onrechtstreeks het grondwaterpeil verlagen.
 
 ### ART. 26.
 
@@ -195,11 +195,11 @@ De Vlaamse regering kan terreinen die van belang zijn voor het behoud en ontwikk
 
 ### ART. 33.
 
-Een Vlaams natuurreservaat is een beschermd gebied dat, na advies van de Raad, door de Vlaamse regering wordt aangewezen op gronden die het Vlaamse Gewest in eigendom of in huur heeft of die het daartoe ter beschikking worden gesteld.<br /><br />Een erkend natuurreservaat is een beschermd gebied, niet bedoeld onder het eerste lid, dat na advies van de Raad door de Vlaamse regering wordt erkend op verzoek van de eigenaar en/of diegene die het gebruiksrecht heeft, mits beider toestemming, of van de beheerder, mits de eigenaar ermee instemt.<br /><br />Voor elk natuurreservaat, kan binnen de groengebieden en bosgebieden [en bosuitbreidingsgebieden  <span class="reference">(ing. decr. 18 mei 1999, art. 24, I: 10 oktober 1999)</span> ] of het VEN, een uitbreidingszone vastgesteld worden waarbinnen het recht van voorkoop van toepassing is conform artikel 37.
+Een Vlaams natuurreservaat is een beschermd gebied dat, na advies van de MiNa-Raad, door de Vlaamse regering wordt aangewezen op gronden die het Vlaamse Gewest in eigendom of in huur heeft of die het daartoe ter beschikking worden gesteld.<br /><br />Een erkend natuurreservaat is een beschermd gebied, niet bedoeld onder het eerste lid, dat na advies van de MiNa-Raad door de Vlaamse regering wordt erkend op verzoek van de eigenaar en/of diegene die het gebruiksrecht heeft, mits beider toestemming, of van de beheerder, mits de eigenaar ermee instemt.<br /><br />Voor elk natuurreservaat, kan binnen de groengebieden en bosgebieden en bosuitbreidingsgebieden of het VEN, een uitbreidingszone vastgesteld worden waarbinnen het recht van voorkoop van toepassing is conform artikel 37.
 
 ### ART. 34.
 
-§ 1. Voor elk natuurreservaat ingesteld krachtens dit decreet wordt een beheersplan opgesteld. Het beheersplan vermeldt de maatregelen en bepalingen inzake het beheer en de inrichting van het gebied, waarbij voor redenen van natuurbehoud, of voor redenen van recreatief of educatief medegebruik, en voorzover dit inpasbaar is in de doelstelling van het natuurreservaat, kan worden afgeweken van de voorschriften van dit decreet, inzonderheid van artikel 35, § 2 .<br /><br />Indien het natuurreservaat geheel of gedeeltelijk is gelegen binnen een speciale beschermingszone moeten in het beheersplan de maatregelen bedoeld in artikel 36ter, §§ 1 en 2 opgenomen worden. <br /><br />§ 2. Voor elk Vlaams natuurreservaat wijst de Vlaamse regering de ambtenaar van het Agentschap voor Natuur en Bos aan die met het beheer ervan belast is. Deze ambtenaar stelt het beheersplan op, dat aan de regering ter goedkeuring wordt voorgelegd.<br /><br />§ 3. Voor elk Vlaams natuurreservaat of voor een groep van Vlaamse natuurreservaten, stelt de Vlaamse regering een adviescommissie in, die wordt voorgezeten door een lid van de Raad en waarin elke betrokken gemeente vertegenwoordigd is.<br /><br />De adviescommissie heeft als taak de ambtenaar bedoeld in § 2 bij te staan door het verstrekken van adviezen en voorstellen inzake het beheer, het opstellen van het beheersplan alsook het stimuleren van het onderzoek en de educatie met betrekking tot de natuur in het natuurreservaat of in de groep van natuurreservaten.
+§ 1. Voor elk natuurreservaat ingesteld krachtens dit decreet wordt een beheersplan opgesteld. Het beheersplan vermeldt de maatregelen en bepalingen inzake het beheer en de inrichting van het gebied, waarbij voor redenen van natuurbehoud, of voor redenen van recreatief of educatief medegebruik, en voorzover dit inpasbaar is in de doelstelling van het natuurreservaat, kan worden afgeweken van de voorschriften van dit decreet, inzonderheid van artikel 35, § 2 .<br /><br />Indien het natuurreservaat geheel of gedeeltelijk is gelegen binnen een speciale beschermingszone moeten in het beheersplan de maatregelen bedoeld in artikel 36ter, §§ 1 en 2 opgenomen worden. <br /><br />§ 2. Voor elk Vlaams natuurreservaat wijst de Vlaamse regering de ambtenaar van het Agentschap voor Natuur en Bos aan die met het beheer ervan belast is. Deze ambtenaar stelt het beheersplan op, dat aan de regering ter goedkeuring wordt voorgelegd.<br /><br />§ 3. Met betrekking tot een afzonderlijk Vlaams natuurreservaat of voor een groep van Vlaamse natuurreservaten kan de Vlaamse regering adviescommissies instellen. Die adviescommissies hebben als taak de ambtenaar, bedoeld in § 2, bij te staan door het verstrekken van adviezen en het doen van voorstellen inzake het beheer, het opstellen van een beheersplan alsook het stimuleren van het onderzoek en de educatie met betrekking tot de natuur in het natuurreservaat of in de groep van natuurreservaten. <br />
 
 ### ART. 35.
 
@@ -325,7 +325,7 @@ De eigenaar van een onroerend goed kan van de Vlaamse Grondenbank de verwerving 
 
 ### ART. 47.
 
-[De Vlaamse regering of haar gemachtigde kan, na advies van de Raad, in de gebieden of gebiedscategorieën vermeld in artikel 20, 1° en 2° en in andere door de Vlaamse regering of haar gemachtigde met redenen omkleed aan te duiden gebieden, een natuurinrichtingsproject instellen.<br /><br />Met natuurinrichtingsprojecten worden maatregelen en inrichtingswerkzaamheden beoogd die gericht zijn op een optimale inrichting van een gebied met het oog op het behoud, het herstel, het beheer en de ontwikkeling van natuur en natuurlijk milieu in het VEN, de speciale beschermingszones en in groen-, park-, buffer-, bos- en bosuitbreidingsgebieden en de ermee vergelijkbare gebieden, aangeduid op de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening.<br /><br />Een natuurinrichtingsproject voor een gebied dat behoort tot een speciale beschermingszone, doch niet tot het VEN, kan, naast de maatregelen op basis van artikels 13, 27, 28, 29 en 51, slechts die maatregelen bevatten die nodig zijn voor de instandhouding van de habitats of habitats van soorten waarvoor de speciale beschermingszones werd vastgesteld of aangewezen.<br /><br />§ 2. De Vlaamse regering stelt de nadere regels vast met betrekking tot de maatregelen binnen natuurinrichtingsprojecten. Deze maatregelen kunnen inhouden:<br /><br />1° kavelruil uit kracht van wet, met inbegrip van herkaveling;<br /><br />2° infrastructuur- en kavelwerken;<br /><br />3° aanpassing van de wegen en van het wegenpatroon;<br /><br />4° bewarende maatregelen om te voorkomen dat, vanaf het moment van de aanduiding, het gebruik of de plaatsgesteldheid van het gebied zodanig gewijzigd wordt dat het natuurinrichtingsproject belemmerd wordt;<br /><br />5° het tijdelijk opheffen van de bevoegdheden van de administratieve overheid en openbare besturen gedurende de uitvoering van het natuurinrichtingsproject;<br /><br />6° het tijdelijk beperkingen opleggen aan het genot van onroerende goederen tijdens de uitvoering van het natuurinrichtingsproject;<br /><br />7° waterhuishoudingswerken zoals peilwijziging, wijziging van de structuurkenmerken van de waterlopen, aanpassen van het afwateringspatroon, en aanpassing van de watertoevoer en -afvoer;<br /><br />8° grondwerken zoals reliëfwijziging en afgraving;<br /><br />9° uitbouw van natuureducatieve voorzieningen;<br /><br />10° bedrijfsverplaatsing;<br /><br />11° erfdienstbaarheden vestigen of afschaffen.<br /><br />§ 3. De Vlaamse regering kan de nadere regels vastleggen betreffende de procedure en de uitvoeringsmodaliteiten inzake het voorbereiden, het uitvoeren en het opvolgen van natuurinrichtingsprojecten.<br /><br />§ 4. De Vlaamse regering kan voorwaarden bepalen waaronder de eigenaar of degene die het gebruiksrecht heeft van een betrokken gebied een vergoeding kunnen krijgen voor de uitvoering van het natuurinrichtingsproject.  <span class="reference">(verv. decr. 19 juli 2002, art. 31, I: 10 september 2002)</span> ]
+§1. De Vlaamse regering of haar gemachtigde kan in de gebieden of gebiedscategorieën vermeld in artikel 20, 1° en 2° en in andere door de Vlaamse regering of haar gemachtigde met redenen omkleed aan te duiden gebieden, een natuurinrichtingsproject instellen.<br /><br />Met natuurinrichtingsprojecten worden maatregelen en inrichtingswerkzaamheden beoogd die gericht zijn op een optimale inrichting van een gebied met het oog op het behoud, het herstel, het beheer en de ontwikkeling van natuur en natuurlijk milieu in het VEN, de speciale beschermingszones en in groen-, park-, buffer-, bos- en bosuitbreidingsgebieden en de ermee vergelijkbare gebieden, aangeduid op de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening.<br /><br />Een natuurinrichtingsproject voor een gebied dat behoort tot een speciale beschermingszone, doch niet tot het VEN, kan, naast de maatregelen op basis van artikels 13, 27, 28, 29 en 51, slechts die maatregelen bevatten die nodig zijn voor de instandhouding van de habitats of habitats van soorten waarvoor de speciale beschermingszones werd vastgesteld of aangewezen.<br /><br />§ 2. De Vlaamse regering stelt de nadere regels vast met betrekking tot de maatregelen binnen natuurinrichtingsprojecten. Deze maatregelen kunnen inhouden:<br />1° kavelruil uit kracht van wet, met inbegrip van herkaveling;<br />2° infrastructuur- en kavelwerken;<br />3° aanpassing van de wegen en van het wegenpatroon;<br />4° bewarende maatregelen om te voorkomen dat, vanaf het moment van de aanduiding, het gebruik of de plaatsgesteldheid van het gebied zodanig gewijzigd wordt dat het natuurinrichtingsproject belemmerd wordt;<br />5° het tijdelijk opheffen van de bevoegdheden van de administratieve overheid en openbare besturen gedurende de uitvoering van het natuurinrichtingsproject;<br />6° het tijdelijk beperkingen opleggen aan het genot van onroerende goederen tijdens de uitvoering van het natuurinrichtingsproject;<br />7° waterhuishoudingswerken zoals peilwijziging, wijziging van de structuurkenmerken van de waterlopen, aanpassen van het afwateringspatroon, en aanpassing van de watertoevoer en -afvoer;<br />8° grondwerken zoals reliëfwijziging en afgraving;<br />9° uitbouw van natuureducatieve voorzieningen;<br />10° bedrijfsverplaatsing;<br />11° erfdienstbaarheden vestigen of afschaffen.<br /><br />§ 3. De Vlaamse regering kan de nadere regels vastleggen betreffende de procedure en de uitvoeringsmodaliteiten inzake het voorbereiden, het uitvoeren en het opvolgen van natuurinrichtingsprojecten.<br /><br />§ 4. De Vlaamse regering kan voorwaarden bepalen waaronder de eigenaar of degene die het gebruiksrecht heeft van een betrokken gebied een vergoeding kunnen krijgen voor de uitvoering van het natuurinrichtingsproject.
 
 ### ART. 47bis.
 
@@ -361,7 +361,7 @@ Ter voorbereiding van een gewestelijk natuurrichtplan en ter opvolging en begele
 
 ### ART. 51.
 
-[§ 1. De Vlaamse regering neemt, na advies van de Raad, alle maatregelen die ze nuttig acht:<br /><br />1° inzake de instandhouding van populaties van soorten of ondersoorten van organismen vermeld in de bijlagen III en IV van dit decreet en van hun habitats;<br /><br />2° om populaties van de overige soorten of ondersoorten van organismen in stand te houden, te herstellen of te ontwikkelen.<br /><br />Deze maatregelen kunnen overal of voor bepaalde gebieden of habitats worden genomen, ze kunnen soortenbescherming omvatten en kunnen betrekking hebben op onder meer:<br /><br />1° alle ontwikkelingsvormen van organismen;<br /><br />2° een verbod op het opzettelijk verstoren van soorten en hun habitats, tijdens de periode van voortplanting, afhankelijkheid van de jongen, trek en overwintering;<br /><br />3° beschermingsmaatregelen voor geregeld voorkomende trekvogels in hun broed-, rui-, foerageer- en overwinteringsgebieden en rustplaatsen in hun trekzones;<br /><br />4° een verbod op het opzettelijk vernielen of rapen van eieren van in het wild levende soorten;<br /><br />5° een verbod op het beschadigen of vernielen van de woongebieden;<br /><br />6° een verbod op het opzettelijk plukken en verzamelen, afsnijden, ontwortelen of vernielen van plantensoorten;<br /><br />7° een verbod op het exploiteren van bepaalde populaties;<br /><br />8° een verbod op het gebruik van alle niet-selectieve middelen die de plaatselijke verdwijning of ernstige verstoring van de rust van de populaties vermeld in de bijlage III van dit decreet tot gevolg kunnen hebben;<br /><br />9° het instellen van een stelsel van onttrekkingsvergunningen of quota;<br /><br />10° het revalideren van gekwetste in het wild levende diersoorten.<br /><br />Deze maatregelen kunnen blijvend, voor een bepaalde periode of tijdelijk van toepassing zijn en kunnen worden ondersteund door vergoedingen waartoe ze, binnen de perken van de begrotingsmiddelen, een financiële regeling kunnen vaststellen.<br /><br />Voor organismen die onder toepassing vallen van het jachtdecreet van 24 juli 1991 of van de wet van 1 juli 1954 op de riviervisserij kunnen de maatregelen slechts worden genomen na advies van de betrokken Vlaamse Hoge Raden.<br /><br />De Vlaamse regering stelt nadere regels vast inzake de maatregelen en de procedure.<br /><br />§ 2. De Vlaamse regering kan, onverminderd de bepalingen van het voormelde Jachtdecreet, maatregelen nemen om de volgende activiteiten tijdelijk of permanent, plaatselijk of over het hele grondgebied te regelen of te verbieden: het in het bezit houden voor persoonlijke of commerciële doeleinden, vangen, doden, onttrekken, het gebruik van bepaalde middelen voor het vangen en doden, verzamelen, wegnemen of vernielen, het in de handel brengen, het ruilen, het te koop of in ruil aanbieden, het te koop vragen, het vervoeren en het in- of uitvoeren van elk organisme, levend of dood, of van gemakkelijk herkenbare delen of elk daaruit verkregen product.<br /><br />§ 3. De Vlaamse regering kan maatregelen nemen om het uitzetten van diersoorten of van plantensoorten of organismen te regelen of te verbieden voorzover deze uitzetting een bedreiging vormt voor de natuur of het natuurlijk milieu en om het vervoeren van diersoorten of hun krengen of plantensoorten te regelen of te verbieden.  <span class="reference">(verv. decr. 19 juli 2002, art. 36, I: 10 september 2002)</span> ]
+§ 1. De Vlaamse regering neemt, na advies van de MiNa-Raad, alle maatregelen die ze nuttig acht:<br />1° inzake de instandhouding van populaties van soorten of ondersoorten van organismen vermeld in de bijlagen III en IV van dit decreet en van hun habitats;<br />2° om populaties van de overige soorten of ondersoorten van organismen in stand te houden, te herstellen of te ontwikkelen.<br /><br />Deze maatregelen kunnen overal of voor bepaalde gebieden of habitats worden genomen, ze kunnen soortenbescherming omvatten en kunnen betrekking hebben op onder meer:<br />1° alle ontwikkelingsvormen van organismen;<br />2° een verbod op het opzettelijk verstoren van soorten en hun habitats, tijdens de periode van voortplanting, afhankelijkheid van de jongen, trek en overwintering;<br />3° beschermingsmaatregelen voor geregeld voorkomende trekvogels in hun broed-, rui-, foerageer- en overwinteringsgebieden en rustplaatsen in hun trekzones;<br />4° een verbod op het opzettelijk vernielen of rapen van eieren van in het wild levende soorten;<br />5° een verbod op het beschadigen of vernielen van de woongebieden;<br />6° een verbod op het opzettelijk plukken en verzamelen, afsnijden, ontwortelen of vernielen van plantensoorten;<br />7° een verbod op het exploiteren van bepaalde populaties;<br />8° een verbod op het gebruik van alle niet-selectieve middelen die de plaatselijke verdwijning of ernstige verstoring van de rust van de populaties vermeld in de bijlage III van dit decreet tot gevolg kunnen hebben;<br />9° het instellen van een stelsel van onttrekkingsvergunningen of quota;<br />10° het revalideren van gekwetste in het wild levende diersoorten.<br /><br />Deze maatregelen kunnen blijvend, voor een bepaalde periode of tijdelijk van toepassing zijn en kunnen worden ondersteund door vergoedingen waartoe ze, binnen de perken van de begrotingsmiddelen, een financiële regeling kunnen vaststellen.<br /><br />De Vlaamse regering stelt nadere regels vast inzake de maatregelen en de procedure.<br /><br />§ 2. De Vlaamse regering kan, onverminderd de bepalingen van het voormelde Jachtdecreet, maatregelen nemen om de volgende activiteiten tijdelijk of permanent, plaatselijk of over het hele grondgebied te regelen of te verbieden: het in het bezit houden voor persoonlijke of commerciële doeleinden, vangen, doden, onttrekken, het gebruik van bepaalde middelen voor het vangen en doden, verzamelen, wegnemen of vernielen, het in de handel brengen, het ruilen, het te koop of in ruil aanbieden, het te koop vragen, het vervoeren en het in- of uitvoeren van elk organisme, levend of dood, of van gemakkelijk herkenbare delen of elk daaruit verkregen product.<br /><br />§ 3. De Vlaamse regering kan maatregelen nemen om het uitzetten van diersoorten of van plantensoorten of organismen te regelen of te verbieden voorzover deze uitzetting een bedreiging vormt voor de natuur of het natuurlijk milieu en om het vervoeren van diersoorten of hun krengen of plantensoorten te regelen of te verbieden.
 
 ### ART. 52.
 
@@ -986,8 +986,10 @@ De habitattypes van bijlage I van de Habitatrichtlijn die in Vlaanderen voorkome
 
 ### BIJLAGE II.
 
-De dier- en plantensoorten van Bijlage II van de Habitatrichtlijnen die voorkomen in Vlaanderen<br>
-<br>
+<p>De dier- en plantensoorten van Bijlage II van de Habitatrichtlijnen die voorkomen in Vlaanderen<br>
+&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1070,6 +1072,17 @@ De dier- en plantensoorten van Bijlage II van de Habitatrichtlijnen die voorkome
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
+			<p>1337</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Castor fiber</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:223.1pt">
+			<p>Europese bever</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
 			<p>1355</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
@@ -1132,6 +1145,28 @@ De dier- en plantensoorten van Bijlage II van de Habitatrichtlijnen die voorkome
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:223.1pt">
 			<p>Beekprik</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
+			<p>1103</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Alose falax falax</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:223.1pt">
+			<p>Fint</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
+			<p>1106</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Salmo salar</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:223.1pt">
+			<p>Atlantische zalm</p>
 			</td>
 		</tr>
 		<tr>
@@ -1202,6 +1237,17 @@ De dier- en plantensoorten van Bijlage II van de Habitatrichtlijnen die voorkome
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
+			<p>1078</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<p>Callimorpha quadripunctaria</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:223.1pt">
+			<p>Spaanse vlag</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
 			<p>1083</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
@@ -1242,6 +1288,17 @@ De dier- en plantensoorten van Bijlage II van de Habitatrichtlijnen die voorkome
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:223.1pt">
 			<p>Nauwe korfslak</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
+			<p>4056</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
+			<h1>Anisus vorticulus</h1>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:223.1pt">
+			<p>Platte schijfhoren</p>
 			</td>
 		</tr>
 		<tr>
@@ -1304,11 +1361,12 @@ De dier- en plantensoorten van Bijlage II van de Habitatrichtlijnen die voorkome
 
 <p>&nbsp;</p>
 
+<p>&nbsp;</p>
+
 ### BIJLAGE III.
 
-A) DIERSOORTEN&nbsp; &nbsp;De dier- en plantensoorten van communautair belang van de Bijlage IV van de habitatrichtlijn, die voorkomen in Vlaanderen<br>
-<br>
-<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Johan</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>steenpfr</o:LastAuthor><br>  <o:Revision>3</o:Revision><br>  <o:TotalTime>14</o:TotalTime><br>  <o:Created>2007-04-11T07:32:00Z</o:Created><br>  <o:LastSaved>2009-04-07T07:29:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>201</o:Words><br>  <o:Characters>1108</o:Characters><br>  <o:Company>JOHAN</o:Company><br>  <o:Lines>9</o:Lines><br>  <o:Paragraphs>2</o:Paragraphs><br>  <o:CharactersWithSpaces>1307</o:CharactersWithSpaces><br>  <o:Version>11.8132</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:SelectEntireFieldWithStartOrEnd></w:SelectEntireFieldWithStartOrEnd><br>   <w:UseWord2002TableStyleRules></w:UseWord2002TableStyleRules><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]-->
+A) DIERSOORTEN&nbsp; De dier- en plantensoorten van communautair belang van de Bijlage IV van de habitatrichtlijn, die voorkomen in Vlaanderen<br>
+<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Johan</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>steenpfr</o:LastAuthor><br>  <o:Revision>3</o:Revision><br>  <o:TotalTime>20</o:TotalTime><br>  <o:Created>2009-08-13T09:47:00Z</o:Created><br>  <o:LastSaved>2009-08-13T09:53:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>226</o:Words><br>  <o:Characters>1244</o:Characters><br>  <o:Company>JOHAN</o:Company><br>  <o:Lines>10</o:Lines><br>  <o:Paragraphs>2</o:Paragraphs><br>  <o:CharactersWithSpaces>1468</o:CharactersWithSpaces><br>  <o:Version>11.9999</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:SelectEntireFieldWithStartOrEnd></w:SelectEntireFieldWithStartOrEnd><br>   <w:UseWord2002TableStyleRules></w:UseWord2002TableStyleRules><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]-->
 <table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-bottom:medium none; border-collapse:collapse; border-left:medium none; border-right:medium none; border-top:medium none; mso-border-alt:solid windowtext .5pt; mso-border-insideh:.5pt solid windowtext; mso-border-insidev:.5pt solid windowtext; mso-padding-alt:0cm 3.5pt 0cm 3.5pt; mso-yfti-tbllook:1184">
 	<tbody>
 		<tr>
@@ -1513,6 +1571,14 @@ A) DIERSOORTEN&nbsp; &nbsp;De dier- en plantensoorten van communautair belang va
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">Castor fiber</p>
+			</td>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">Europese bever</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<h1 style="margin-left:0cm; margin-right:0cm">AMPHIBIEEN</h1>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
@@ -1577,6 +1643,14 @@ A) DIERSOORTEN&nbsp; &nbsp;De dier- en plantensoorten van communautair belang va
 		</tr>
 		<tr>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<h1 style="margin-left:0cm; margin-right:0cm">Rana lessonae</h1>
+			</td>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">Poelkikker of kleine groene kikker</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<h1 style="margin-left:0cm; margin-right:0cm">GELEEDPOTIGEN</h1>
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
@@ -1597,6 +1671,30 @@ A) DIERSOORTEN&nbsp; &nbsp;De dier- en plantensoorten van communautair belang va
 			</td>
 			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p style="margin-left:0cm; margin-right:0cm">Gevlekte witsnuitlibel</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<h1 style="margin-left:0cm; margin-right:0cm">Gomphus flavipes</h1>
+			</td>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">Rivierrombout</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<h1 style="margin-left:0cm; margin-right:0cm">MOLLUSKEN</h1>
+			</td>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<h1 style="margin-left:0cm; margin-right:0cm">Anisus vorticulus</h1>
+			</td>
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
+			<p style="margin-left:0cm; margin-right:0cm">Platte schijfhoren</p>
 			</td>
 		</tr>
 		<tr>
@@ -1744,6 +1842,14 @@ De vogelsoorten van de Bijlage I van de Vogelrichtlijn die voorkomen in Vlaander
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Nachtzwaluw</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Charadrius alexandrinus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<p>Strandplevier</p>
 			</td>
 		</tr>
 		<tr>
