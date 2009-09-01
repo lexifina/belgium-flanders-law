@@ -2,16 +2,16 @@
   "codex_id": 1001931,
   "title": "Decreet van 1989-07-05 betreffende het onderwijs",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001931/VolledigDocument?datum=2008-09-01",
-  "source_sha256": "e89535dc0a09a71e2ba3df38bebb5b0b89606c1c072642004515ec7e88c14651",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001931/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "c87eb877310f87ec5425a9cca78e6b83728f4454fa459e7b2ee9e676ac9a6f56",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001931&param=informatie",
-  "as_of": "2008-09-01",
+  "as_of": "2009-09-01",
   "made": "1989-07-05",
   "gazette": "1989-08-25",
   "numac": 1989029562,
   "document_start": null,
   "document_end": null,
-  "in_force": "2008-09-01",
+  "in_force": "2009-09-01",
   "article_versions": 86,
-  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
