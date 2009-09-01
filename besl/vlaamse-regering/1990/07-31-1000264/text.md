@@ -159,7 +159,8 @@ Voor de toepassing van dit besluit worden eveneens gelijkgesteld met een bekwaam
 2° plastische opvoeding;<br>
 3° muzikale opvoeding;<br>
 4° muzikale vorming;<br>
-5° muziekopvoeding.<br>
+5° muziekopvoeding;<br>
+6° project kunstvakken.<br>
 <br>
 § 10. Voor de toepassing van dit besluit worden gelijkgesteld met een bekwaamheidsbewijs van het hoger kunstonderwijs van de derde graad : de diploma's, vermeld in artikel 6, 2°bis, voor zover ze behaald zijn in een van de volgende studiegebieden :<br>
 1° architectuur;<br>
@@ -246,6 +247,10 @@ Voor de toepassing van de overgangsbepalingen van artikel 14, 15 en 15bis worden
 
 § 1. Er worden overgangsmaatregelen toegekend aan leraars die in een instelling voor deeltijds kunstonderwijs in het schooljaar 2005-2006 belast waren met, of titularis waren van, een opdracht in de vakken algemene muzikale vorming, samenzang, koor, stemvorming, of lyrische kunst. Onder titularis wordt het personeelslid verstaan dat in een vacante betrekking vastbenoemd, tijdelijk aangesteld of tot de proeftijd toegelaten is, met uitzondering van wie voor een tijd een tijdelijke titularis vervangt.<br /><br />Deze overgangsregeling is van toepassing op elk personeelslid, vermeld in het eerste lid, dat :<br />1° uiterlijk op 1 januari 2006 vastbenoemd is en als zodanig erkend is door de Vlaamse Gemeenschap;<br />2° behoudens de verloven en afwezigheden, vermeld in artikel 14, § 1, vanaf 1 september 2004 ononderbroken in dienst geweest is in het deeltijds kunstonderwijs als tijdelijk personeelslid in een ambt van het bestuurs- en onderwijzend personeel en als dusdanig bezoldigd geweest is door de Vlaamse Gemeenschap. <br /><br />Het personeelslid, vermeld in het tweede lid, dat op basis van de reglementering die van kracht was voor 1 september 2006 in het bezit was van een vereist bekwaamheidsbewijs en geen vereist bekwaamheidsbewijs meer bezit bij de toepassing van dit besluit, wordt voor de rechtspositie en de bezoldiging bij overgangsmaatregel aangezien als een personeelslid met een vereist bekwaamheidsbewijs. <br /><br />§ 2. Voor de personeelsleden die onder de toepassing van § 1 vallen, zijn de bepalingen van artikel 9 van het koninklijk besluit van 10 maart 1965 houdende bezoldigingsregeling van het personeel der leergangen met beperkt leerplan afhangend van het Ministerie van Nationale Opvoeding en Cultuur niet van toepassing op de bekwaamheidsbewijzen en salarisschalen.
 
+### ART. 15quinquies.
+
+§ 1. Het personeelslid dat in een instelling voor deeltijds kunstonderwijs in de schooljaren 2007-2008 en 2008-2009 aangesteld was in een erkend tijdelijk project volksmuziek en dat op basis van de voor het tijdelijke project geldende voorwaarden een voldoende geacht bekwaamheidsbewijs had en geen vereist of voldoende geacht bekwaamheidsbewijs meer bezit bij de toepassing van dit besluit, wordt voor de rechtspositie en de bezoldiging bij overgangsmaatregel beschouwd een voldoende geacht bekwaamheidsbewijs te hebben. Die overgangsregeling geldt voor het ambt van leraar in het vak en de specialiteit waarvoor het personeelslid aangesteld was in het schooljaar 2008-2009.<br /><br />§ 2. Voor het personeelslid, vermeld in paragraaf 1, blijft de overgangsregeling gelden zolang hij als vastbenoemd personeelslid in dienst blijft in het onderwijs, het academisch onderwijs uitgezonderd, of als tijdelijk personeelslid ononderbroken in dienst blijft in het onderwijs, het academisch onderwijs uitgezonderd, en gefinancierd of gesubsidieerd wordt door de Vlaamse Gemeenschap. <br /><br />Voor de toepassing van deze bepaling worden de volgende perioden niet als een onderbreking beschouwd : <br />1°de vakantieperioden; <br />2° de loopbaanonderbreking; <br />3° de militaire dienst; <br />4° de perioden van wederoproeping;<br />5° de ziekte- en bevallingsverloven; <br />6° de onbezoldigde ouderschapsverloven; <br />7° de perioden van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte of moederschapsbescherming; <br />8° de verloven van korte duur met behoud van salaris(toelage) ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard; <br />9° de verloven zonder behoud van salaris(toelage) voor een maximumduur van zes werkdagen per schooljaar; <br />10° een onderbreking voor een doorlopende periode van maximaal twee kalenderjaren.<br /><br />§ 3. Voor de personeelsleden die onder de toepassing van paragraaf 1 vallen, zijn de bepalingen van artikel 9 van het koninklijk besluit van 10 maart 1965 houdende bezoldigingsregeling van het personeel der leergangen met beperkt leerplan afhangend van het Ministerie van Nationale Opvoeding en Cultuur niet van toepassing op de bekwaamheidsbewijzen en salarisschalen.
+
 ### ART. 16.
 
 In afwachting dat de betrokken onderwijssectoren bij decreet geregeld worden, moet voor de basis-diploma's uitgereikt in het onderwijs voor sociale promotie de onderwijscyclus tenminste negenhonderd lestijden hebben omvat voor de technische en beroepsleergangen en voor het onderwijs in de beeldende kunst met beperkt leerplan en tenminste vierhonderd vijftig lestijden voor de normaalleergangen, de pedagogische leergangen en het pedagogische hoger onderwijs van het korte type voor sociale promotie.
@@ -266,7 +271,7 @@ De Vlaamse minister van Onderwijs is belast met de uitvoering van dit besluit.<b
 
 ### BIJLAGE I.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/02/02_1.pdf#page=96" title=" bijlage" target="_blank" class="pdf">bijlage</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/08_1.pdf#page=82" title=" Bijlage I" target="_blank" class="pdf">Bijlage I</a>
 
 ### BIJLAGE II.
 
