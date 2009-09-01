@@ -2,16 +2,16 @@
   "codex_id": 1002740,
   "title": "Besluit van de Vlaamse Regering van 1991-05-29 houdende regeling van de instelling en de werking van de Vlaamse Hoge Bosraad",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002740/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "ac17607ca2935a1d47748a563cbde186a060836c10f855cc2622d8226c391a0d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002740/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "af584204d8b5ef87757a8a26aab57e1e32edbb60e87e451640a6c6d8c4047e1a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002740&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-09-01",
   "made": "1991-05-29",
   "gazette": "1991-08-09",
   "numac": 0,
   "document_start": "1991-08-19",
   "document_end": "2009-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-09-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
