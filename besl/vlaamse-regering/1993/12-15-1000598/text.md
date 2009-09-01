@@ -146,33 +146,29 @@
 
 ### ART. 2.
 
-§ 1. De preventieve schorsing, vermeld in artikel 16 van het decreet van 1 december 1993, is een bewarende maatregel. Het personeelslid blijft tijdens de schorsing in de administratieve stand waarin het zich bevond op de dag vóór de preventieve schorsing.<br>
-<br>
-§ 2. De coördinerend inspecteur-generaal (verv. B.V.R. 10 december 1999, art. 29, I: 1 september 1999)] stelt de preventieve schorsing voor, indien het belang van de dienst zulks vereist, inzonderheid tijdens de behandeling van tuchtstraffen die, overeenkomstig artikel 18, § 1, van het decreet van 1 december 1993, door de coördinerend inspecteur-generaal [ (verv. B.V.R. 10 december 1999, art. 29, I: 1 september 1999) ] zijn voorgesteld.<br>
-<br>
-§ 3. De preventieve schorsing tijdens de behandeling van een tuchtvordering die, overeenkomstig artikel 18, § 2, van het decreet van 1 december 1993, voorgesteld is door de coördinerend inspecteur-generaal [ (verv. B.V.R. 10 december 1999, art. 29, I: 1 september 1999) ] op voorstel van de bevoegde instantie van de erkende godsdiensten, of op voorstel van de voorzitter van de vereniging van de niet-confessionele gemeenschap, wordt voorgesteld door de coördinerend inspecteur-generaal, (verv. B.V.R. 10 december 1999, art. 29, I: 1 september 1999) ] op voorstel van de bevoegde instantie van de betref-fende godsdienst of de voorzitter van de erkende vereniging van de niet-confessionele gemeenschap.
+§ 1. De preventieve schorsing, vermeld in artikel 16 van het decreet van 1 december 1993, is een bewarende maatregel. Het personeelslid blijft tijdens de schorsing in de administratieve stand waarin het zich bevond op de dag vóór de preventieve schorsing.<br /><br />§ 2. De inspecteur-generaal stelt de preventieve schorsing voor, indien het belang van de dienst zulks vereist, inzonderheid tijdens de behandeling van tuchtstraffen die, overeenkomstig artikel 18, § 1, van het decreet van 1 december 1993, door de inspecteur-generaal zijn voorgesteld.<br /><br />§ 3. De preventieve schorsing tijdens de behandeling van een tuchtvordering die, overeenkomstig artikel 18, § 2, van het decreet van 1 december 1993, voorgesteld is door de inspecteur-generaal op voorstel van de bevoegde instantie van de erkende godsdiensten, of op voorstel van de voorzitter van de vereniging van de niet-confessionele gemeenschap, wordt voorgesteld door de inspecteur-generaal, op voorstel van de bevoegde instantie van de betreffende godsdienst of de voorzitter van de erkende vereniging van de niet-confessionele gemeenschap.
 
 ### ART. 3.
 
-De bepalingen van de artikelen 20 tot en met 22 van het besluit van de Vlaamse regering van 17 juli 1991 tot uitvoering van het decreet van 17 juli 1991, betreffende inspectie en pedagogische begeleidingsdiensten, zijn van toepassing op de leden van de inspectie en de begeleiding van de levensbeschouwelijke vakken.
+De bepalingen van artikel 27, eerste lid, en de artikelen 28 tot en met 31 van het besluit van de Vlaamse Regering van 5 februari 2010 tot uitvoering van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs met betrekking tot de rechtspositie zijn van toepassing op de personeelsleden van de inspectie en de begeleiding van de levensbeschouwelijke vakken.
 
 ## HOOFDSTUK II TUCHTREGELING
 
 ### ART. 4.
 
-De bepalingen van Titel III, hoofdstuk IV van voornoemd besluit van 17 juli 1991 zijn van toepassing op de personeelsleden van de inspectie en de begeleiding van de levensbeschouwelijke vakken.
+De bepalingen van titel II, hoofdstuk VII, van het besluit van de Vlaamse Regering van 5 februari 2010 zijn van toepassing op de personeelsleden van de inspectie en de begeleiding van de levensbeschouwelijke vakken.
 
 ## HOOFDSTUK III RAAD VAN BEROEP
 
 ### ART. 5.
 
-§ 1. De bepalingen van Titel III, Hoofdstuk V, met uitzondering van de artikelen 32 en 39 van voor-noemd besluit van 17 juli 1991 zijn van toepassing op de personeelsleden van de inspectie en de begeleiding van de levensbeschouwelijke vakken.<br /><br />§ 2. De raad van beroep beraadslaagt geldig als de voorzitter en de helft plus één van de leden aanwezig zijn.<br /><br />§ 3. Na onderzoek van de raad van beroep wordt de beslissing genomen door de Vlaamse minister van Onderwijs. De beslissing wordt binnen een termijn van één maand na ontvangst van het advies aan de raad van beroep bekendgemaakt.<br /><br />De Vlaamse minister van Onderwijs deelt zijn gemotiveerde beslissing mee aan de raad van beroep.
+§ 1. De bepalingen van titel II, hoofdstuk VIII, van het besluit van de Vlaamse Regering van 5 februari 2010 zijn van toepassing op de personeelsleden van de inspectie en de begeleiding van de levensbeschouwelijke vakken.<br /><br />§ 2. De raad van beroep beraadslaagt geldig als de voorzitter en de helft plus één van de leden aanwezig zijn.<br /><br />§ 3. Na onderzoek van de raad van beroep wordt de beslissing genomen door de Vlaamse minister van Onderwijs. De beslissing wordt binnen een termijn van één maand na ontvangst van het advies aan de raad van beroep bekendgemaakt.<br /><br />De Vlaamse minister van Onderwijs deelt zijn gemotiveerde beslissing mee aan de raad van beroep.
 
 ## HOOFDSTUK IV TERBESCHIKKINGSTELLING WEGENS ONTSTENTENIS VAN BETREKKING
 
 ### ART. 6.
 
-§ 1. Bij een ontstentenis van betrekking, zoals bepaald in artikel 77 van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten wordt onder de leden van de inspectie en de begeleiding van het levensbeschouwelijke vak diegene ter beschikking gesteld wegens ontstentenis van betrekking die de kleinste dienstanciënniteit heeft.<br /><br />§ 2. Voor het berekenen van de in § 1 bedoelde dienstanciënniteit komen alle diensten in aanmerking die door het personeelslid werden gepresteerd als lid van de inspectie en de begeleiding van de levensbeschouwelijk vakken. Komen eveneens in aanmerking de diensten die het personeelslid vóór zijn indiensttreding bij de inspectie gepresteerd heeft als tijdelijk of vastbenoemd lid van de inspectiedienst, bedoeld in artikel 9, vierde en vijfde lid, en in artikel 10, § 2, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving.<br /><br />§ 3. De bepalingen van artikel 42 tot en met 49 van voornoemd besluit van 17 juli 1991 zijn van toepassing op de leden van de inspectie en de begeleiding van de levensbeschouwelijke vakken, met uitzondering van de bepalingen inzake wedertewerkstelling en gelijkwaardige taken.
+§ 1. Bij een ontstentenis van betrekking, zoals bepaald in artikel 21, § 3 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken wordt onder de leden van de inspectie en de begeleiding van het levensbeschouwelijke vak diegene ter beschikking gesteld wegens ontstentenis van betrekking die de kleinste dienstanciënniteit heeft.<br /><br />§ 2. Voor het berekenen van de in § 1 bedoelde dienstanciënniteit komen alle diensten in aanmerking die door het personeelslid werden gepresteerd als lid van de inspectie en de begeleiding van de levensbeschouwelijk vakken. Komen eveneens in aanmerking de diensten die het personeelslid vóór zijn indiensttreding bij de inspectie gepresteerd heeft als tijdelijk of vastbenoemd lid van de inspectiedienst, bedoeld in artikel 9, vierde en vijfde lid, en in artikel 10, § 2, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving.<br /><br />§ 3. De terbeschikkingstelling wegens ontstentenis van betrekking gaat in op 1 september.<br /><br />§ 4. Het wegens ontstentenis van betrekking ter beschikking gestelde personeelslid geniet een wachtgeld dat de eerste twee jaar gelijk is aan zijn laatste activiteitswedde. <br /><br />Vanaf het derde jaar wordt dat wachtgeld elk jaar met 20 % verminderd. Het mag evenwel niet lager zijn dan zoveel keer een dertigste van de laatste activiteitswedde als het personeelslid op de datum van zijn terbeschikkingstelling dienstjaren telt. De opeenvolgende verminderingen worden berekend met de laatste activiteitswedde als basis. <br /><br />Voor de toepassing van dit artikel wordt onder dienstjaren verstaan : de jaren die in aanmerking komen voor de berekening van het rustpensioen. De bonificaties wegens diploma's tellen niet mee. De militaire dienst, verricht voor de indiensttreding, wordt echter niet in aanmerking genomen, en de in aanmerking komende militaire dienst wordt alleen meegerekend voor zijn gewone duur.
 
 ## HOOFDSTUK V OVERDRACHT VAN PERSONEELSLEDEN NAAR DE INSPECTIE EN BEGELEIDING VAN DE LEVENSBESCHOUWELIJKE VAK-KEN
 
@@ -359,7 +355,7 @@ b) houder van andere bekwaamheidsbewijzen : 354.<br>
 
 ### ART. 10.
 
-De bepalingen van Titel III, hoofdstuk IX van voornoemd besluit van 17 juli 1991 zijn van toepassing op de leden van de inspectie en de begeleiding van de levensbeschouwelijke vakken.
+De bepalingen van titel II, hoofdstuk X, van het besluit van de Vlaamse Regering van 5 februari 2010 zijn van toepassing op de leden van de inspectie en de begeleiding van de levensbeschouwelijke vakken.
 
 ## TITEL III FINANCIERING
 

@@ -2,16 +2,16 @@
   "codex_id": 1000598,
   "title": "Besluit van de Vlaamse Regering van 1993-12-15 tot uitvoering van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000598/VolledigDocument?datum=2007-09-01",
-  "source_sha256": "f92219ef21ed6b36f55c6e0ee510ef74911b7f4ae69e11d5de1f7c428d8f3de4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000598/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "3481d8bccc0b8b29027872093516ff99ded73188fb3052df32c6c286bda8381d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000598&param=informatie",
-  "as_of": "2007-09-01",
+  "as_of": "2009-09-01",
   "made": "1993-12-15",
   "gazette": "1994-02-08",
   "numac": 1994035058,
   "document_start": null,
   "document_end": null,
-  "in_force": "2007-09-01",
+  "in_force": "2009-09-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2007-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
