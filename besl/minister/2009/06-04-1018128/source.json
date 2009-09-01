@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018128,
+  "title": "Ministerieel besluit van 2009-06-04 tot bepaling van de diplomavoorwaarden voor de functies van [...] gewestelijk, provinciaal en gemeentelijk stedenbouwkundig ambtenaar en tot aanwijzing van de diploma's die voldoen om te kunnen worden geregistreerd als ruimtelijk planner",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018128/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "0270a5ee3a081587f6dc478e7d9942eff83986e40566d1169f485452d47d6428",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018128&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2009-06-04",
+  "gazette": "2009-07-13",
+  "numac": 2009202993,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
