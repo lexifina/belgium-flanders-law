@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018394,
+  "title": "Besluit van de Vlaamse Regering van 2009-09-04 betreffende de oprichting van een instelling voor deeltijds kunstonderwijs in de stad Torhout",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018394/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "56ac46de2324999760e75ccf453642d88d1ef0a2ce0dfab7de3f46394a5804a0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018394&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2009-09-04",
+  "gazette": "2009-09-23",
+  "numac": 2009035895,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
