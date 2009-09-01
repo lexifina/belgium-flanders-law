@@ -8,42 +8,45 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 16 april 1996 betreffen
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° directeur : een directeur van een instelling zoals vermeld in 2° of van een centrum voor leerlingenbegeleiding;<br />2° onderwijsinstelling : een school voor het basisonderwijs, een instelling voor het secundair onderwijs, een centrum voor volwassenenonderwijs, een instelling voor het deeltijds kunstonderwijs;<br />3° minister : Vlaamse minister bevoegd voor het onderwijs;<br />4° nascholingskoepels : het Gemeenschapsonderwijs en de verenigingen zonder winstoogmerk zoals vermeld in artikel 49 van het decreet van 16 april 1996 betreffende het mentorschap en de nascholing in Vlaanderen;<br />5° representatieve vakorganisatie : personeelsvereniging die aangesloten is bij een in de Sociaal-Economische Raad van Vlaanderen vertegenwoordigde syndicale organisatie en die een werking ontplooit in het onderwijs.<br /><br />
+In dit besluit wordt verstaan onder : <br />1° decreet van 8 mei 2009 : het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br />1°/1 directeur : een directeur uit het basisonderwijs, het secundair onderwijs, de centra voor volwassenenonderwijs, het deeltijds kunstonderwijs of de centra voor leerlingenbegeleiding;<br />2° onderwijsinstelling : een school voor het basisonderwijs, een instelling voor het secundair onderwijs, een centrum voor volwassenenonderwijs, een instelling voor het deeltijds kunstonderwijs;<br />3° minister : Vlaamse minister bevoegd voor het onderwijs;<br />4° ...<br />5° representatieve vakorganisatie : personeelsvereniging die aangesloten is bij een in de Sociaal-Economische Raad van Vlaanderen vertegenwoordigde syndicale organisatie en die een werking ontplooit in het onderwijs.<br /><br />
 
 ## HOOFDSTUK II Toekenning van middelen
 
 ### ART. 2.
 
-De Vlaamse Gemeenschap stelt jaarlijks de in artikel 44 van het decreet van 16 april 1996 betreffende het mentorschap en de nascholing in Vlaanderen bedoelde middelen ter beschikking van de nascholingskoepels pro rata van het aantal onderwijsinstellingen en centra voor leerlingenbegeleiding die op 1 februari van het jaar waarin de middelen worden uitbetaald, behoren tot het gemeenschapsonderwijs of de representatieve groeperingen van inrichtende machten van het gesubsidieerd onderwijs.<br>
-&nbsp;
+De Vlaamse Gemeenschap stelt de middelen, vermeld in artikel 21 van het decreet van 8 mei 2009, jaarlijks ter beschikking aan de verschillende pedagogische begeleidingsdiensten pro rata van het aantal onderwijsinstellingen en centra voor leerlingenbegeleiding die elke pedagogische begeleidingsdienst vertegenwoordigt op 1 februari voorafgaand aan het jaar waarin de middelen worden uitbetaald.
+
+### ART. 2/1.
+
+§ 1. Elke directeur kan gedurende zijn loopbaan als directeur voor een bedrag van maximaal 1.500 euro een beroep doen op de middelen, vermeld in artikel 2.<br /> <br />Het bedrag, vermeld in het eerste lid, wordt jaarlijks geïndexeerd overeenkomstig artikel 22 van het decreet van 8 mei 2009.<br /><br />§ 2. Het kalenderjaar van de eerste aanwending door de directeur bepaalt het bedrag waarop de directeur recht heeft gedurende zijn verdere loopbaan.
 
 ### ART. 3.
 
-De nascholingskoepels dragen er zorg voor dat bij ontoereikende middelen het opleidingsaanbod gegarandeerd wordt voor recent aangestelde directeurs, door voorrang te verlenen aan directeurs met het minste anciënniteit in het ambt van directeur.<br /><br />Elke nascholingskoepel stelt in overleg met de representatieve vakorganisaties van de personeelsleden uit het onderwijs een opleidingsreglement op en deelt dit mee aan zijn respectieve directeurs en aan de minister. Het opleidingsreglement bevat minimaal de procedure voor de aanvraag van de opleiding en de wijze van uitbetaling.<br /><br />
+De pedagogische begeleidingsdiensten dragen er zorg voor dat bij ontoereikende middelen het opleidingsaanbod gegarandeerd wordt voor recent aangestelde directeurs, door voorrang te verlenen aan directeurs met het minste anciënniteit in het ambt van directeur.<br /><br />Elke pedagogische begeleidingsdienst stelt in overleg met de representatieve vakorganisaties van de personeelsleden uit het onderwijs een opleidingsreglement op en deelt dit mee aan zijn respectieve directeurs en aan de minister. Het opleidingsreglement bevat minimaal de procedure voor de aanvraag van de opleiding en de wijze van uitbetaling.<br /><br />
 
 ## HOOFDSTUK III Opleidingen voor directeurs
 
 ### ART. 4.
 
-Om voor terugbetaling in aanmerking te komen, moeten de opleidingen opgenomen zijn in een lijst die vastgelegd wordt door elke nascholingskoepel afzonderlijk in overleg met de respectieve representatieve vakorganisaties en moeten de opleidingen gericht zijn op het versterken van de professionele competenties voor het schoolleiderschap van de instellingen. Elke nascholingskoepel deelt deze lijst mee aan zijn respectieve directeurs en aan de minister.<br /><br />
+Om voor terugbetaling in aanmerking te komen, moeten de opleidingen opgenomen zijn in een lijst die vastgelegd wordt door elke pedagogische begeleidingsdienst afzonderlijk in overleg met de respectieve representatieve vakorganisaties en moeten de opleidingen gericht zijn op het versterken van de professionele competenties voor het schoolleiderschap van de instellingen. Elke pedagogische begeleidingsdienst deelt deze lijst mee aan zijn respectieve directeurs en aan de minister.<br /><br />
 
 ## HOOFDSTUK IV Financiering en verantwoording
 
 ### ART. 5.
 
-De middelen bedoeld in artikel 2 worden elk schooljaar in oktober uitbetaald aan de nascholingskoepels.<br /><br />
+...<br /><br />
 
 ### ART. 6.
 
-Ten laatste in de maand november en voor de eerste keer in 2009 bezorgen de nascholingskoepels een verslag aan de minister betreffende het gebruik van de in het vorig schooljaar toegekende middelen zoals bedoeld in artikel 6 van dit besluit. Dat verslag bestaat uit en financieel rapport en een inhoudelijk rapport. <br /><br />In het financiële rapport wordt de aanwending van de toegekende middelen verantwoord en derhalve minstens duidelijk weergegeven welke middelen aangewend werden voor welke initiatieven. <br /><br />Het inhoudelijk rapport moet minstens gedetailleerde informatie bevatten over<br />1° de inhoud en duur van de opleidingen vermeld in de lijst zoals bedoeld in artikel 5;<br />2° de opleidingen die effectief werden gevolgd;<br />3° de organisaties die de opleidingen hebben georganiseerd;<br />4° op welke wijze deze opleidingen zich richten op het versterken van de professionele competenties voor het schoolleiderschap;<br />5° het al dan niet leiden van deze opleidingen tot het behalen van een certificaat of diploma.<br /><br />De verslagen worden ten laatste in de maand februari volgend op het indienen ervan besproken in de gemeenschappelijke vergadering van Sectorcomité X en van de onderafdeling "Vlaamse Gemeenschap" van afdeling 2 van het Comité voor de provinciale en plaatselijke overheidsdiensten en van het overkoepelende onderhandelingscomité bedoeld in het decreet van 5 april 1995 tot oprichting van onderhandelingscomités in het vrij gesubsidieerd onderwijs. <br /><br />
+Ten laatste in de maand november en voor de eerste keer in 2009 bezorgen de pedagogische begeleidingsdiensten een verslag aan de minister betreffende het gebruik van de in het vorig schooljaar toegekende middelen zoals vermeld in artikel 2 van dit besluit. Dat verslag bestaat uit en financieel rapport en een inhoudelijk rapport. <br /><br />In het financiële rapport wordt de aanwending van de toegekende middelen verantwoord en derhalve minstens duidelijk weergegeven welke middelen aangewend werden voor welke initiatieven. <br /><br />Het inhoudelijk rapport moet minstens gedetailleerde informatie bevatten over<br />1° de inhoud en duur van de opleidingen opgenomen in de lijst zoals vermeld in artikel 4;<br />2° de opleidingen die effectief werden gevolgd;<br />3° de organisaties die de opleidingen hebben georganiseerd;<br />4° op welke wijze deze opleidingen zich richten op het versterken van de professionele competenties voor het schoolleiderschap;<br />5° het al dan niet leiden van deze opleidingen tot het behalen van een certificaat of diploma.<br /><br />De verslagen worden ten laatste in de maand februari volgend op het indienen ervan besproken in de gemeenschappelijke vergadering van Sectorcomité X en van de onderafdeling "Vlaamse Gemeenschap" van afdeling 2 van het Comité voor de provinciale en plaatselijke overheidsdiensten en van het overkoepelende onderhandelingscomité bedoeld in het decreet van 5 april 1995 tot oprichting van onderhandelingscomités in het vrij gesubsidieerd onderwijs. <br /><br />
 
 ### ART. 7.
 
-Niet aangewende middelen kunnen gedurende drie opeenvolgende jaren worden overgedragen naar het volgende begrotingsjaar. <br /><br />Na drie jaar worden niet aangewende middelen teruggevorderd door het Departement Onderwijs en Vorming. <br /><br />
+...
 
 ### ART. 8.
 
-Ten onrechte aangewende middelen worden onmiddellijk teruggevorderd van de nascholingskoepels <br /><br />
+...<br /><br />
 
 ### ART. 9.
 
