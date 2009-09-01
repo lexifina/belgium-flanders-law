@@ -60,6 +60,10 @@ Aan artikel 13 van hetzelfde decreet, gewijzigd bij het decreet van 8 mei 2009, 
 
 ## Afdeling III Decreet betreffende het onderwijs III
 
+### ART. IX.26.
+
+Aan artikel 9 van hetzelfde decreet wordt een paragraaf 6 toegevoegd, die luidt als volgt :<br />« § 6. De toewijzingen die de Vlaamse reaffectatiecommissie, vermeld in artikel 10, tijdens het schooljaar 2009-2010 heeft uitgesproken voor personeelsleden van de pedagogische begeleidingsdiensten die volgens artikel 5, § 1bis, § 1ter, of § 1quater, ter beschikking gesteld werden wegens ontstentenis van betrekking, worden geacht gebeurd te zijn conform het besluit van de Vlaamse Regering van 29 april 1992 betreffende de verdeling van de betrekkingen, de terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie, de wedertewerkstelling en de toekenning van een wachtgeld of wachtgeldtoelage. ».<br /><br />
+
 ## Afdeling IV Decreet betreffende het onderwijs XIII
 
 ## Afdeling V Inwerkingtreding

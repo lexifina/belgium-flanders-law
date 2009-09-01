@@ -2,16 +2,16 @@
   "codex_id": 1020574,
   "title": "Decreet van 2011-07-01 betreffende het onderwijs XXI",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020574/VolledigDocument?datum=2008-09-01",
-  "source_sha256": "15b28e9efd051bc45481846ff69c4be37b039ce876261e48ca4c16c86a338eac",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020574/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "39cb2fe582f26fc1691980695a3d1acc98c88e3ea3ab30d2565f9b50cd5f7fd8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020574&param=informatie",
-  "as_of": "2008-09-01",
+  "as_of": "2009-09-01",
   "made": "2011-07-01",
   "gazette": "2011-08-30",
   "numac": 2011035708,
   "document_start": "2011-09-01",
   "document_end": null,
-  "in_force": "2008-09-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
