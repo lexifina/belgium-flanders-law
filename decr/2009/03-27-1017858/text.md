@@ -234,23 +234,243 @@ Omroeporganisaties zijn gemachtigd boodschappen van algemeen nut uit te zenden, 
 
 ## Afdeling I. Gebruik van commerciële communicatie
 
+### ART. 47.
+
+De bepalingen van deze afdeling zijn eveneens van toepassing op teletekst.
+
+### ART. 48.
+
+Met toepassing van artikel 37 zijn omroeporganisaties vrij in het op enige wijze uitzenden, opnemen, exploiteren en voeren van commerciële communicatie, met uitzondering van de beperkingen en verplichtingen, vermeld in dit decreet.
+
+### ART. 49.
+
+Het is toegestaan om tegen betaling aan politieke mandatarissen of kandidaat-mandatarissen en aan politieke partijen commerciële communicatie ter beschikking te stellen tijdens de sperperiode voor de verkiezingen mits naleving van de wetgeving betreffende de verkiezingsuitgaven.
+
+### ART. 50.
+
+Het is de omroeporganisatie van de Vlaamse Gemeenschap verboden reclame te brengen, met uitzondering van radioreclame en van reclame die gericht is op zelfpromotie.<br /><br />Het is de televisieomroeporganisatie van de Vlaamse Gemeenschap verboden om telewinkelen te brengen.<br /><br />Het is de televisieomroeporganisatie van de Vlaamse Gemeenschap verboden om zijn kinderprogramma's te laten sponsoren en om in kinderprogramma's productplaatsing te gebruiken.<br /><br />Het is de omroeporganisatie van de Vlaamse Gemeenschap verboden commerciële communicatie te brengen via teletekst.
+
 ## [Afdeling I/1. Boodschappen van algemeen nut (ing. decr. 13 juli 2012 , art. 10, I: 27 augustus 2012)]
 
 ## Afdeling II. Basisregels bij het gebruik van commerciële communicatie [en boodschappen van algemeen nut (ing. decr. 13 juli 2012, art. 12, I: 27 augustus 2012)]
 
+### ART. 51.
+
+De bepalingen van deze afdeling zijn eveneens van toepassing op teletekst.
+
+### ART. 52.
+
+De aanbieders van omroepdiensten mogen geen commerciële communicatie uitzenden die in strijd is met wettelijke bepalingen.<br /><br />Ze mogen bovendien geen commerciële communicatie uitzenden die niet in overeenstemming is met de beginselen van de bescherming van het privéleven, de eerlijke behandeling van de consument en de eerlijke mededinging.
+
+### ART. 53.
+
+Commerciële communicatie moet gemakkelijk als zodanig herkenbaar zijn.
+
+### ART. 54.
+
+Sluikreclame is verboden.<br /><br />Onder sluikreclame als vermeld in het eerste lid, wordt verstaan commerciële communicatie bestaande uit het vermelden of vertonen van goederen, diensten, naam, handelsmerk of activiteiten van een producent van goederen of een aanbieder van diensten in programma's, als de omroeporganisatie daarmee beoogt reclame te maken en het publiek kan worden misleid omtrent de aard van de vermelding of de vertoning. Deze bedoeling wordt met name geacht aanwezig te zijn indien de vermelding of de vertoning tegen betaling of soortgelijke vergoeding geschiedt.
+
+### ART. 55.
+
+Commerciële communicatie mag niet zo opgezet zijn, dat ze :<br />1° de menselijke waardigheid aantast;<br />2° enige vorm van discriminatie op grond van geslacht, ras of etnische afstamming, nationaliteit, godsdienst of levensbeschouwing, handicap, leeftijd of seksuele geaardheid bevat of bevordert;<br />3° aanzet tot gewelddadige, racistische of xenofobe gedragingen.
+
+### ART. 56.
+
+Commerciële communicatie mag geen elementen bevatten met kwetsende of misprijzende uitlatingen over religieuze, filosofische of politieke overtuigingen.
+
+### ART. 57.
+
+Commerciële communicatie mag degenen die een bepaald product of een bepaalde dienst niet verbruiken of gebruiken, niet in diskrediet brengen.
+
+### ART. 58.
+
+Commerciële communicatie mag personen niet uitbeelden in hun persoonlijke of maatschappelijke hoedanigheid of naar hen verwijzen zonder hun voorafgaande toestemming.<br /><br />Commerciële communicatie mag niet zonder vooraf gegeven toestemming persoonlijke eigendommen afbeelden of ernaar verwijzen op een wijze die laat veronderstellen dat de betrokkene daarin heeft toegestemd. Bij beelden van of verwijzingen naar persoonlijke eigendommen is geen toestemming vereist voor wat integrerend tot het straatbeeld behoort. Voor gerichte en uitdrukkelijke verwijzingen is de toestemming wel vereist.
+
+### ART. 59.
+
+Commerciële communicatie mag geen elementen bevatten die inspelen op gevoelens van angst.
+
+### ART. 60.
+
+§ 1. Commerciële communicatie mag geen elementen bevatten die erop gericht zijn de consument te misleiden op het gebied van :<br />1° de kenmerken van de goederen of diensten, zoals beschikbaarheid, aard, uitvoering, samenstelling, procédé en datum van fabricage of levering, geschiktheid voor het gebruik, de gebruiksmogelijkheden, hoeveelheid, specificatie, geografische of commerciële oorsprong of van het gebruik te verwachten resultaten, of de uitslagen en essentiële uitkomsten van onderzoek van de goederen of diensten;<br />2° de prijs of de wijze van prijsberekening, alsmede de voorwaarden waaronder de goederen worden geleverd of de diensten worden verricht;<br />3° de hoedanigheid, kwalificaties en rechten van de adverteerder, zoals zijn identiteit en zijn vermogen, zijn bekwaamheden en zijn industriële, commerciële of intellectuele eigendomsrechten of zijn bekroningen en onderscheidingen.<br /><br />§ 2. Onder misleidende commerciële communicatie wordt elke vorm van reclame verstaan die op enigerlei wijze, waaronder begrepen haar opmaak, de personen tot wie ze zich richt of die ze bereikt, misleidt of kan misleiden en die door haar misleidende karakter hun economische gedrag kan beïnvloeden, of die om die redenen een concurrent schade toebrengt of kan toebrengen.
+
+### ART. 61.
+
+Commerciële communicatie mag niet op een verkeerde of misleidende manier gebruikmaken van wetenschappelijke en technische publicaties. Wetenschappelijke en technische termen mogen niet worden misbruikt om bepaalde beweringen een pseudo-wetenschappelijke basis te verstrekken.
+
+### ART. 62.
+
+Commerciële communicatie mag niet aansporen tot gedrag dat schadelijk is voor de gezondheid of de veiligheid of dat in hoge mate schadelijk is voor het milieu.<br /><br />Commerciële communicatie mag geen elementen bevatten die ertoe kunnen leiden de kijker of luisteraar te misleiden over de milieueffecten.<br /><br />Commerciële communicatie mag geen aanduidingen of suggesties bevatten waardoor het risico voor de gezondheid en de veiligheid voor de consumenten en voor derden wordt geminimaliseerd.
+
+### ART. 63.
+
+De getuigenissen, attesten en aanbevelingen waarop in commerciële communicatie een beroep wordt gedaan, moeten authentiek zijn, mogen niet uit hun context gerukt zijn en mogen niet achterhaald zijn. Het gebruiken van getuigenissen, attesten en aanbevelingen is alleen toegestaan als de auteur zijn toestemming geeft.
+
 ## Afdeling III. Commerciële communicatie over specifieke producten
 
+### ART. 64.
+
+De bepalingen van deze afdeling zijn eveneens van toepassing op teletekst.
+
+### ART. 65.
+
+Commerciële communicatie over sigaretten en andere tabaksproducten is verboden.
+
+### ART. 66.
+
+Commerciële communicatie over geneesmiddelen voor menselijk gebruik en medische behandelingen voor menselijk gebruik die alleen op doktersvoorschrift verkrijgbaar zijn, is verboden.
+
+### ART. 67.
+
+Commerciële communicatie over wapens is verboden.
+
+### ART. 68.
+
+Commerciële communicatie over alcoholhoudende dranken moet aan de volgende criteria voldoen :<br />1° ze richt zich niet specifiek tot minderjarigen en toont in het bijzonder geen minderjarigen die dit soort dranken gebruiken;<br />2° ze legt geen verband tussen alcoholgebruik en een verbetering van fysieke prestaties of gemotoriseerd rijden;<br />3° ze wekt niet de indruk dat alcoholgebruik bijdraagt tot sociale of seksuele successen;<br />4° er wordt niet in gesuggereerd dat alcoholhoudende dranken therapeutische kwaliteiten bezitten of een stimulerend, kalmerend of spanningsreducerend effect hebben;<br />5° ze moedigt geen onmatig alcoholgebruik aan, of stelt onthouding of matig alcoholgebruik niet in een negatief daglicht;<br />6° ze legt geen nadruk op het hoge alcoholgehalte van dranken als positieve eigenschap.
+
+### ART. 69.
+
+Commerciële communicatie over suikerhoudend snoepgoed moet op een duidelijke en contrasterende wijze een gestileerde afbeelding van een tandenborstel tonen gedurende de hele uitzending van de commerciële communicatie, naar rato van een tiende van de hoogte van het filmbeeld, verhoudingsgewijs weergegeven zoals hierna afgebeeld.<br /><br />Afbeelding: niet opgenomen.
+
 ## Afdeling IV. Commerciële communicatie die gericht is op minderjarigen, jongeren en kinderen
+
+### ART. 70.
+
+De bepalingen van deze afdeling zijn eveneens van toepassing op teletekst.
+
+### ART. 71.
+
+Commerciële communicatie die gericht is op kinderen en jongeren, moet voor hen duidelijk als zodanig herkenbaar zijn.
+
+### ART. 72.
+
+Commerciële communicatie mag minderjarigen geen zedelijke of lichamelijke schade toebrengen. Derhalve mag ze de volgende zaken niet doen :<br />1° minderjarigen er rechtstreeks toe aanzetten een product of dienst te kopen of te huren door te profiteren van hun onervarenheid of goedgelovigheid;<br />2° minderjarigen er rechtstreeks toe aanzetten hun ouders of anderen te overreden de aangeprezen goederen of diensten aan te kopen;<br />3° minderjarigen zonder gegronde redenen in gevaarlijke situaties tonen;<br />4° profiteren van het bijzondere vertrouwen dat minderjarigen in ouders, leerkrachten of andere personen stellen.
+
+### ART. 73.
+
+1. Commerciële communicatie voor kinderen en jongeren moet worden opgemaakt met de nodige sociale verantwoordelijkheidszin, zodat ze positieve sociale gedragingen, levensstijlen en houdingen niet ondermijnt.<br /><br />§ 2. Commerciële communicatie voor kinderen mag geen geweld weergeven, banaliseren, tolereren, idealiseren of aanmoedigen, noch onwettig, antisociaal of laakbaar gedrag tonen of aanmoedigen.<br /><br />Commerciële communicatie voor jongeren mag geen geweld banaliseren, tolereren, idealiseren of aanmoedigen, noch onwettig, antisociaal of laakbaar gedrag aanmoedigen.<br /><br />§ 3. Commerciële communicatie voor kinderen en jongeren mag niet het gezag, de verantwoordelijkheid of het oordeel van ouders en opvoeders ondermijnen, rekening houdend met de heersende sociale en culturele waarden.<br /><br />§ 4. Commerciële communicatie over speelgoed dat op vuurwapens lijkt, is verboden.
+
+### ART. 74.
+
+§ 1. Commerciële communicatie voor kinderen en jongeren moet respect opbrengen voor de waardigheid van kinderen en jongeren en mag kinderen en jongeren niet zo in beeld brengen dat hun fysieke of morele integriteit wordt aangetast of in gevaar wordt gebracht.<br /><br />§ 2. Commerciële communicatie mag bij kinderen en jongeren geen gevoelens van angst of ongemak oproepen.<br /><br />§ 3. Commerciële communicatie voor kinderen en jongeren mag geen teksten of visuele voorstellingen bevatten die kinderen en jongeren geestelijk, moreel of fysiek schade kunnen berokkenen, of die hen ertoe aanzetten gevaarlijk te handelen of zich in onveilige toestanden te begeven, die hun gezondheid of hun veiligheid ernstig in gevaar kunnen brengen, of dat soort gedrag goedpraten.<br /><br />§ 4. Commerciële communicatie mag kinderen en jongeren niet ontraden om de gevestigde veiligheidsregels te volgen. Bijzondere aandacht moet in dat verband gaan naar onder meer :<br />1° verkeersveiligheid met kinderen en jongeren als voetganger, fietser of passagier;<br />2° huishoudelijke situaties;<br />3° medicijnen en chemische producten;<br />4° gevaarlijke gereedschappen, vuur, lucifers;<br />5° spel in of bij het water.
+
+### ART. 75.
+
+§ 1. Commerciële communicatie voor kinderen moet de mogelijkheden en eigenschappen van het product dat in de commerciële communicatie wordt weergegeven, correct weergeven, zodat kinderen zeker niet worden misleid over een van die kenmerken.<br /><br />§ 2. Commerciële communicatie mag kinderen niet misleiden over :<br />1° de eigenschappen, de afmetingen, de waarde, de aard, de levensduur of de prestaties van het product;<br />2° de met het product haalbare resultaten;<br />3° de effecten op de gezondheid;<br />4° de graad van handigheid of de leeftijd die vereist is voor het gebruik van het product.<br /><br />Het gebruik van fantasie, inclusief animatie, is geoorloofd in commerciële communicatie voor kinderen, maar er moet over gewaakt worden dat de fantasie en de animatie hen niet misleiden over de reële eigenschappen van het product in kwestie.
+
+### ART. 76.
+
+Commerciële communicatie voor kinderen mag niet beweren dat het hebben of gebruiken van een bepaald product hen voordeel biedt ten opzichte van andere kinderen, noch dat het niet-hebben van een bepaald product tot het tegenovergestelde effect leidt. De commerciële communicatie mag niet beweren dat kinderen die het product niet bezitten, minderwaardig of onpopulair zijn.<br /><br />Commerciële communicatie voor kinderen mag de prijs van het aangeboden product niet minimaliseren, noch suggereren dat het aangeboden product tot de mogelijkheden van elk gezinsbudget behoort.
+
+### ART. 77.
+
+Commerciële communicatie voor kinderen en jongeren mag geen buitensporig verbruik aanmoedigen of vergoelijken van voedingsmiddelen en dranken die stoffen bevatten waarvan een overmatig gebruik niet aanbevolen is, zoals vetten, transvetzuren, zout of natrium en suikers.
 
 ## Afdeling V. Specifieke vormen van commerciële communicatie
 
 ## Onderafdeling I. Televisiereclame en telewinkelen
 
+### ART. 78.
+
+De bepalingen van deze onderafdeling zijn van toepassing op de lineaire televisiediensten.
+
+### ART. 79.
+
+§ 1. Televisiereclame, zelfpromotie uitgezonderd, en telewinkelen moeten duidelijk herkenbaar zijn en moeten kunnen worden onderscheiden van redactionele inhoud. Zonder afbreuk te doen aan het gebruik van nieuwe reclametechnieken, moeten reclame en telewinkelen met visuele en/of akoestische en/of ruimtelijke middelen van andere onderdelen van het programma worden gescheiden.<br /><br />De bepalingen van deze paragraaf zijn eveneens van toepassing op teletekst.<br /><br />§ 2. Afzonderlijke reclame- en telewinkelspots blijven een uitzondering. Een afzonderlijke reclame- of telewinkelspot is toegestaan per televisieomroepprogramma per dag.<br /><br />Daarnaast zijn afzonderlijke reclame- en telewinkelspots toegestaan :<br />1° in uitzendingen van sportevenementen;<br />2° als er een langdurige spot wordt uitgezonden van minimaal twee minuten;<br />3° als een omroeporganisatie er niet in geslaagd is voor een specifiek reclameblok meer dan een reclame- of telewinkelspot te verkopen, bij gebrek aan interesse van de klanten.<br /><br />§ 3. In afwijking van paragraaf 2 is voor televisieomroeporganisaties die in lus uitzenden, een afzonderlijke reclame- en telewinkelspot toegestaan per lus in plaats van per dag.
+
+### ART. 80.
+
+Televisieprogramma's mogen worden onderbroken voor reclame of telewinkelen, met dien verstande dat daarbij de integriteit en de waarde van de programma's niet mogen worden geschaad, rekening houdend met de natuurlijke pauzes in en de duur en de aard van het programma, en dat er geen afbreuk wordt gedaan aan de rechten van de rechtenhouders.<br /><br />Uitzendingen van kinderprogramma's, religieuze erediensten, godsdienstige en levensbeschouwelijke programma's en journaals mogen niet worden onderbroken voor reclame en telewinkelen.<br /><br />Teletekstpagina's die gericht zijn op kinderen, of die betrekking hebben op godsdienstige en levensbeschouwelijke thema's of op nieuws mogen geen reclame of telewinkelen bevatten.
+
+### ART. 81.
+
+§ 1. Uitzendingen van televisiefilms, cinematografische producties en nieuwsprogramma's mogen een keer per geprogrammeerd tijdvak van ten minste dertig minuten worden onderbroken voor reclame en/of telewinkelen.<br /><br />§ 2. Het aandeel van televisiereclame- en telewinkelspots mag per klokuur niet meer dan 20 percent bedragen.<br /><br />§ 3. Voor de berekening van het percentage, vermeld in paragraaf 2, bestaat een klokuur uit een periode van zestig opeenvolgende minuten en begint het klokuur in principe bij minuut 0 en eindigt het bij minuut 59.<br /><br />Als een lineaire televisieomroeporganisatie het begin van het klokuur op een ander tijdstip dan minuut 0 wil laten aanvangen, deelt hij voor het begin van het programma aan de Vlaamse Regulator voor de Media mee op welk tijdstip de klokuren zullen starten voor de berekening van de grenzen, vermeld in het eerste lid.<br /><br />De bepalingen van paragraaf 2 zijn niet van toepassing op boodschappen van de lineaire televisieomroeporganisaties over hun eigen programma's en rechtstreeks daarvan afgeleide ondersteunende producten, op sponsorboodschappen en op productplaatsing.<br /><br />§ 4. De openbare omroeporganisatie van de Vlaamse Gemeenschap en de aanbieders van lineaire omroepdiensten delen de Vlaamse Regulator voor de Media mee welke boodschappen van algemeen nut ze gratis uitzenden.<br /><br />§ 5. De regionale en private lineaire televisieomroeporganisaties mogen publi-reportages uitzenden die niet worden in aanmerking genomen bij de berekening van de percentages vermeld in § 2 van dit artikel, mits deze publi-reportages in overeenstemming zijn met alle bepalingen van dit hoofdstuk.<br /><br />Onder publi-reportages wordt begrepen commerciële communicatie die meer tijd in beslag neemt dan reclamespots omdat het accent ligt op redactionele en informatieve inhoud.
+
+### ART. 82.
+
+§ 1. De lineaire televisieomroeporganisaties kunnen telewinkelprogramma's uitzenden onder de volgende voorwaarden :<br />1° telewinkelprogramma's worden met visuele en akoestische middelen duidelijk als zodanig gekenmerkt;<br />2° telewinkelprogramma's kunnen worden onderscheiden van redactionele inhoud;<br />3° telewinkelprogramma's nemen zonder onderbreking minimaal vijftien minuten in beslag;<br />4° in de onmiddellijke omgeving van kinderprogramma's worden geen telewinkelprogramma's uitgezonden. Met onmiddellijke omgeving wordt bedoeld binnen een tijdsbestek van vijftien minuten voor en na het kinderprogramma.<br /><br />§ 2. Artikelen 81, 154 en 155 zijn niet van toepassing op lineaire televisieomroeporganisaties die uitsluitend gewijd zijn aan reclame en telewinkelen en op lineaire televisieomroeporganisaties die uitsluitend aan zelfpromotie gewijd zijn.
+
+### ART. 83.
+
+Reclame voor alcoholhoudende dranken mag niet worden uitgezonden in het reclameblok net voor of net na kinderprogramma's.
+
+### ART. 84.
+
+Telewinkelen met betrekking tot geneesmiddelen voor menselijk gebruik waarvoor een vergunning nodig is om ze in de handel te brengen, en telewinkelen met betrekking tot medische behandelingen voor menselijk gebruik zijn verboden.<br /><br />Dit artikel is eveneens van toepassing op teletekst.
+
 ## Onderafdeling II. Radioreclame
+
+### ART. 85.
+
+De bepalingen van deze onderafdeling zijn van toepassing op de lineaire radiodiensten.
+
+### ART. 86.
+
+§ 1. Radioreclame, zelfpromotie uitgezonderd, moet duidelijk herkenbaar zijn en moet kunnen worden onderscheiden van redactionele inhoud. Radioreclame moet met akoestische middelen van andere onderdelen van het programma worden gescheiden.<br /><br />§ 2. Afzonderlijke radioreclamespots blijven een uitzondering. Een afzonderlijke radioreclamespot is toegestaan per omroepprogramma per dag.<br /><br />Daarnaast zijn afzonderlijke radioreclamespots toegestaan :<br />1° in uitzendingen van sportevenementen;<br />2° als er een langdurige spot wordt uitgezonden van minimaal twee minuten;<br />3° als een omroeporganisatie er niet in geslaagd is voor een specifiek reclameblok meer dan een reclamespot te verkopen, bij gebrek aan interesse van de klanten.
+
+### ART. 87.
+
+Radioprogramma's mogen worden onderbroken voor reclame. Daarbij moet rekening worden gehouden met de natuurlijke pauzes in en de duur en de aard van het programma, en mag er geen afbreuk worden gedaan aan de rechten van de rechtenhouders.
+
+### ART. 88.
+
+Radio-uitzendingen van religieuze erediensten, godsdienstige en levensbeschouwelijke programma's en journaals mogen niet worden onderbroken voor reclame.
+
+### ART. 89.
+
+Radioreclame voor alcoholhoudende dranken mag niet worden uitgezonden in het reclameblok net voor of net na kinderprogramma's.
 
 ## Onderafdeling III. Sponsoring
 
+### ART. 90.
+
+De bepalingen van deze onderafdeling zijn van toepassing op televisiediensten en teletekst, met uitzondering van artikel 96, dat eveneens van toepassing is op radiodiensten.
+
+### ART. 91.
+
+Gesponsorde omroepdiensten en programma's moeten aan de volgende voorwaarden voldoen :<br />1° de inhoud en, in geval van lineaire uitzendingen, de programmering, worden nooit dusdanig beïnvloed door de sponsor dat daardoor de verantwoordelijkheid en de redactionele onafhankelijkheid van de omroeporganisatie worden aangetast;<br />2° ze sporen niet rechtstreeks aan tot aankoop of huur van goederen of diensten, in het bijzonder door die goederen of diensten specifiek aan te prijzen;<br />3° de kijkers en de luisteraars worden duidelijk gewezen op het bestaan van een sponsoringovereenkomst. Gesponsorde programma's of teletekstpagina's worden duidelijk als zodanig gekenmerkt door in het begin, tijdens, en/of op het einde van het programma of het programmaonderdeel of teletekstpagina's op passende wijze de naam en/of het logo en/of een ander symbool van de sponsor, zoals een verwijzing naar zijn product(en) of dienst(en) of een onderscheidingsteken daarvan, te vermelden.<br /><br />Als in de aankondigingsspots de sponsors vermeld worden, zal dat gebeuren overeenkomstig de bepalingen van het eerste lid, 2° en 3°.
+
+### ART. 92.
+
+De sponsorvermeldingen op de VRT mogen uitsluitend de naam van de sponsor, de handelsnaam, het logo, het product, de naam van het product, de dienst of de naam van de dienst bevatten. Klank- en beeldherkenningstekens van de sponsor of die verbonden zijn aan de sponsor zijn toegestaan, evenals imago-ondersteunende slogans van de sponsor of zijn producten of diensten.<br /><br />De sponsorvermeldingen mogen uitsluitend ingevoegd worden in het begin en op het einde van het programma of van het programmaonderdeel. De vermelding mag geanimeerd zijn en mag niet langer dan vijf seconden per sponsor en tien seconden in totaal bedragen. Binnen een tijdsbestek van vijf minuten voor en na kinderprogramma's op de televisieomroeporganisatie van de Vlaamse Gemeenschap mag geen sponsorvermelding plaatsvinden.<br /><br />Tijdens sportwedstrijden zijn sponsorvermeldingen op de VRT toegestaan bij het tonen van tijdsaanduidingen en de weergave van de stand.
+
+### ART. 93.
+
+Omroepdiensten en programma's mogen niet worden gesponsord door ondernemingen waarvan de voornaamste activiteit bestaat in de vervaardiging of verkoop van sigaretten en andere tabaksproducten.
+
+### ART. 94.
+
+Kinderprogramma's mogen niet worden gesponsord door ondernemingen waarvan de voornaamste activiteit bestaat in de vervaardiging of verkoop van alcoholhoudende dranken.
+
+### ART. 95.
+
+Bij sponsoring van omroepdiensten of programma's door ondernemingen waarvan de activiteiten de vervaardiging of verkoop van geneesmiddelen en medische behandelingen omvatten, mag de naam of het imago van de onderneming worden aangeprezen, maar mogen geen specifieke geneesmiddelen of medische behandelingen worden aangeprezen die in België alleen op doktersvoorschrift verkrijgbaar zijn.
+
+### ART. 96.
+
+Journaals en politieke informatieprogramma's mogen niet worden gesponsord.<br /><br />Hetzelfde geldt voor teletekstpagina's met nieuws en politieke informatie.<br /><br />Verkeersmeldingen, weerberichten of -voorspellingen en beursberichten worden niet beschouwd als vormen van programma's als vermeld in het eerste lid, mits ze duidelijk gescheiden zijn van het nieuwsprogramma.
+
+### ART. 97.
+
+Het vermelden of vertonen van het logo van een sponsor is verboden tijdens kinderprogramma's of op teletekstpagina's die gericht zijn op kinderen.
+
 ## Onderafdeling IV. Productplaatsing
+
+### ART. 98.
+
+De bepalingen van deze onderafdeling zijn alleen van toepassing op televisiediensten.
+
+### ART. 99.
+
+Productplaatsing is toegestaan ten aanzien van :<br />1° het opnemen of het verwijzen naar een product of dienst of een desbetreffend handelsmerk tegen betaling. In voorkomend geval is product plaatsing enkel toegestaan in (televisie)films, series, sportprogramma's en lichte amusementsprogramma's, met uitzondering van kinderprogramma's;<br />2° goederen of diensten die gratis worden geleverd, zoals productiehulp en prijzen, met het oog op de opneming ervan in een programma. In voorkomend geval is productplaatsing toegestaan in alle soorten programma's, behoudens in alle kinderprogramma's van de openbare omroeporganisatie van de Vlaamse Gemeenschap. De Vlaamse Regering kan dit verbod uitbreiden tot de kinderprogramma's van de andere omroeporganisaties.
+
+### ART. 100.
+
+§ 1. De programma's die productplaatsing bevatten, voldoen aan al de volgende voorwaarden :<br />1° de inhoud en, in geval van lineaire uitzendingen, de programmering ervan, worden nooit dusdanig beïnvloed dat de verantwoordelijkheid en de redactionele onafhankelijkheid van de omroeporganisatie worden aangetast;<br />2° ze sporen niet rechtstreeks aan tot aankoop of huur van goederen of diensten, in het bijzonder door die producten of diensten specifiek aan te prijzen;<br />3° het product of de dienst in kwestie krijgt geen overmatige aandacht;<br />4° als het programma in kwestie is geproduceerd of besteld door de omroeporganisatie zelf of door een aan hem verbonden onderneming, worden de kijkers duidelijk gewezen op de aanwezigheid van productplaatsing. Het programma in kwestie wordt in het begin en op het einde ervan, en als het na een reclamepauze wordt hervat, op passende wijze als zodanig aangeduid om verwarring bij de kijkers te voorkomen. De Vlaamse Regering kan daarover nadere regels bepalen.<br /><br />§ 2. De voorwaarden van paragraaf 1 zijn van toepassing op programma's die na de inwerkingtreding van dit decreet zijn geproduceerd.
+
+### ART. 101.
+
+Programma's mogen in geen geval productplaatsing bevatten voor :<br />1° tabaksproducten of sigaretten of ondernemingen waarvan de voornaamste activiteit in de productie of verkoop van sigaretten en andere tabaksproducten bestaat;<br />2° specifieke geneesmiddelen of medische behandelingen die in België alleen op voorschrift beschikbaar zijn.
 
 ## HOOFDSTUK V. Recht van antwoord en recht van mededeling
 
