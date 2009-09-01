@@ -2,16 +2,16 @@
   "codex_id": 1004940,
   "title": "Besluit van de Vlaamse Regering van 1985-02-13 houdende regeling van de instelling en de werking van de Vlaamse Hoge Raad voor Natuurbehoud",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004940/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "919051b8deca2e03b2f4deec28452c6493b0763fb5b50f4bf2d33cd9c853171e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004940/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "8ab4d98c49ec366326eeaa101f077250f9433c9c324a3a6c13d1e18fed80f9b9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004940&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-09-01",
   "made": "1985-02-13",
   "gazette": "1985-06-08",
   "numac": 1985024379,
   "document_start": null,
   "document_end": "2009-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-09-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
