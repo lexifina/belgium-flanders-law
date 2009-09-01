@@ -2,16 +2,16 @@
   "codex_id": 1013025,
   "title": "Besluit van de Vlaamse Regering van 2004-04-23 tot vaststelling van nadere regels voor de organisatie en de werkwijze van de Hoge Raad voor het Herstelbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013025/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "ce47c56782d23274cfee7bac4b1cc7eb0542414b0af693f6d8874a379cfcea26",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013025/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "462f1177c6498dc6882940358216e65706514f7b55df25d48f8989aec81fab7a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013025&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2009-09-01",
   "made": "2004-04-23",
   "gazette": "2004-05-24",
   "numac": 2004035782,
   "document_start": "2004-05-24",
   "document_end": "2009-08-31",
-  "in_force": "2006-07-01",
+  "in_force": "2009-09-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
