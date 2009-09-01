@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018255,
+  "title": "Besluit van de Vlaamse Regering van 2009-05-29 tot wijziging van het besluit van de Vlaamse Regering van 5 mei 2000 tot bepaling van de werken en handelingen die vrijgesteld zijn van het eensluidend advies van de gemachtigde ambtenaar",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018255/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "7e159df29a1ee5694ae330851072e0e4f62b00f7c46142f12c69afa4464e8cf5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018255&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2009-05-29",
+  "gazette": "2009-08-25",
+  "numac": 2009035773,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
