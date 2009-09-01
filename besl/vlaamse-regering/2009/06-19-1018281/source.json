@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018281,
+  "title": "Besluit van de Vlaamse Regering van 2009-06-19 betreffende de belastingvermindering voor renovatieovereenkomsten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018281/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "5e25324ab0c478b93da6c526f62a12ebc191d27269c40e90e87ed4b1e457509c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018281&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2009-06-19",
+  "gazette": "2009-08-31",
+  "numac": 2009035810,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
