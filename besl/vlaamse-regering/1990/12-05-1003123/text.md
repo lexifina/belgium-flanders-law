@@ -2,12 +2,12 @@
 
 ### ART. 1.
 
-De gesubsidieerde onderwijsinstellingen die het onderhoud geheel of gedeeltelijk aan een gespecialiseerd bedrijf toevertrouwen, mogen 90 % van de te betalen prijs aanrekenen op het aan lonen voor het meesters-, vak- en dienstpersoneel voorbehouden deel van de werkingstoelagen.
+...
 
 ### ART. 2.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 1991.
+...
 
 ### ART. 3.
 
-De Vlaamse minister van Onderwijs is belast met de uitvoering van dit besluit.
+...
