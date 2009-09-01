@@ -50,6 +50,70 @@ De bevoegdheid die bij artikel 7 van dit decreet aan de Vlaamse regering wordt o
 
 ## AFDELING 2 WIJZIGINGEN IN HET BOSDECREET VAN 13 JUNI 1990
 
+### ART. 10.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 4 van het Bosdecreet van 13 juni 1990)
+
+### ART. 11.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 6 van hetzelfde decreet)
+
+### ART. 12.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 7 van hetzelfde decreet)
+
+### ART. 13.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 16 van hetzelfde decreet)
+
+### ART. 14.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 17 van hetzelfde decreet)
+
+### ART. 15.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 19bis van hetzelfde decreet)
+
+### ART. 16.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 22 van hetzelfde decreet)
+
+### ART. 17.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 24 van hetzelfde decreet)
+
+### ART. 18.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 31 van hetzelfde decreet)
+
+### ART. 19.
+
+(niet opgenomen)<br /><br />(Heft in hetzelfde decreet hoofdstuk IV, bestaande uit artikelen 38, 39 en 40 op)
+
+### ART. 20.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 41 van hetzelfde decreet)
+
+### ART. 21.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 41bis van hetzelfde decreet)
+
+### ART. 22.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 41quater van hetzelfde decreet)
+
+### ART. 23.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 43 van hetzelfde decreet)
+
+### ART. 24.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 54 van hetzelfde decreet)
+
+### ART. 25.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 79 van hetzelfde decreet)
+
 ## AFDELING 3 WIJZIGINGEN AAN HET DECREET VAN 23 JANUARI 1991 INZAKE DE BESCHERMING VAN HET LEEFMILIEU TEGEN VERONTREINIGING DOOR MESTSTOFFEN
 
 ### ART. 26.
@@ -92,6 +156,18 @@ De bevoegdheid die bij artikel 7 van dit decreet aan de Vlaamse regering wordt o
 
 ## AFDELING 5 WIJZIGINGEN AAN HET JACHTDECREET VAN 24 JULI 1991
 
+### ART. 35.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 4 van het Jachtdecreet van 24 juli 1991)
+
+### ART. 36.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 21 van hetzelfde decreet)
+
+### ART. 37.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 29 van hetzelfde decreet)
+
 ## AFDELING 6 WIJZIGINGEN AAN HET DECREET VAN 15 JUNI 1994 BETREFFENDE DE MILIEUBELEIDSOVEREENKOMSTEN
 
 ### ART. 38.
@@ -99,6 +175,42 @@ De bevoegdheid die bij artikel 7 van dit decreet aan de Vlaamse regering wordt o
 (niet opgenomen)<br /><br />(Wijzigt artikel 6 van het decreet van 15 juni 1994 betreffende de milieubeleidsovereenkomsten)
 
 ## AFDELING 7 WIJZIGINGEN AAN HET DECREET VAN 21 OKTOBER 1997 BETREFFENDE HET NATUURBEHOUD EN HET NATUURLIJK MILIEU
+
+### ART. 39.
+
+(niet opgenomen)<br /><br />(Heft in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu hoofdstuk II, afdeling I, bestaande uit artikelen 3 en 4 op)
+
+### ART. 40.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 5 van hetzelfde decreet)
+
+### ART. 41.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 12 van hetzelfde decreet)
+
+### ART. 42.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 25 van hetzelfde decreet)
+
+### ART. 43.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 33 van hetzelfde decreet)
+
+### ART. 44.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 34 van hetzelfde decreet)
+
+### ART. 45.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 47 van hetzelfde decreet)
+
+### ART. 46.
+
+(niet opgenomen)<br /><br />(Wijzigt artikel 51 van hetzelfde decreet)
+
+### ART. 47.
+
+(niet opgenomen)<br /><br />(Heft artikel 51, § 1, vierde lid van hetzelfde decreet op)
 
 ## HOOFDSTUK VI SLOTBEPALINGEN
 
