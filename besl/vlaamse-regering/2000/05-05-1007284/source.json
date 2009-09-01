@@ -2,16 +2,16 @@
   "codex_id": 1007284,
   "title": "Besluit van de Vlaamse Regering van 2000-05-05 houdende de organisatie van het vergunningenregister",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007284/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "c4e634f5291ee3b9eceb9cd1c5a33c05410d90c7216a0ae474db0b2c3cf818a0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007284/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "6a82df26a8a58a7b4ba55733ef6370a339a96fdb6d9e99702eb858e6c43fb01d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007284&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2009-09-01",
   "made": "2000-05-05",
   "gazette": "2000-05-20",
   "numac": 2000035476,
   "document_start": "2000-05-01",
   "document_end": null,
-  "in_force": "2006-07-01",
+  "in_force": "2009-09-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
