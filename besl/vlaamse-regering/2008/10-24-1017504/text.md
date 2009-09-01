@@ -34,7 +34,7 @@ De lijst van de centra voor deeltijds beroepssecundair onderwijs die bij de inwe
 
 ### ART. 6.
 
-De lijst van opleidingen van het deeltijds beroepssecundair onderwijs respectievelijk de leertijd die kunnen worden georganiseerd bij de inwerkingtreding van het decreet op 1 september 2008, is opgenomen in bijlage III, die bij dit besluit is gevoegd. De indeling van die lijsten in rubrieken heeft alleen tot doel, de screening, vermeld in artikel 23, § 1, van het decreet mogelijk te maken. Het opleidingsaanbod dat na de screening tot stand komt, wordt niet meer in rubrieken ingedeeld.
+De lijst van opleidingen van het deeltijds beroepssecundair onderwijs respectievelijk de leertijd, vermeld in artikel 22 van het decreet, is opgenomen : <br />1°voor het schooljaar 2008-2009 : in bijlage III, die bij dit besluit is gevoegd;<br />2° voor het schooljaar 2009-2010 : in bijlage III/1, die bij dit besluit is gevoegd.<br /> <br />Als de lijst, vermeld in het eerste lid, een indeling in rubrieken bevat, strekt die indeling er alleen toe om de screening, vermeld in artikel 23, § 1, van het decreet, mogelijk te maken.
 
 ### ART. 7.
 
@@ -44,13 +44,13 @@ De Vlaamse Regering beslist uiterlijk op 31 mei over een voorstel van nieuwe opl
 
 ### ART. 8.
 
-Gedurende het schooljaar 2008-2009 worden de opleidingen die behoren tot de rubrieken bouw, decoratie en hout, gescreend zoals vermeld in artikel 23, § 1, van het decreet, met het oog op de invoering van een geactualiseerd opleidingsaanbod per 1 september 2009. Die screening gebeurt op basis van de referentiekaders, zoals vermeld in de artikelen 30, § 1, en 32, § 1, van het decreet, die zijn opgenomen in bijlage IV, die bij dit besluit is gevoegd.<br /><br />In aansluiting daarop wordt, ter uitvoering van artikel 28, § 1, derde lid, en § 2, van het decreet en voor wat het deeltijds beroepssecundair onderwijs betreft, de opleidingenstructuur voor die opleidingen ontwikkeld met het oog op de omschakeling per 1 september 2009 van een niet-modulaire naar een modulaire organisatie.
+§ 1. Het geactualiseerde opleidingsaanbod, vermeld in artikel 23, § 1, wordt ingevoerd :<br />1° per 1 september 2009 : voor de opleidingen die behoren tot de rubrieken bouw, decoratie, hout;<br />2° per 1 september 2010 : alleszins voor de opleidingen die behoren tot de rubrieken handel en administratie, voeding-horeca;<br />3° per 1 september 2011 : alleszins voor de opleidingen die behoren tot de rubrieken distributie, elektriciteit-elektronica, metaal en kunststoffen, transport.<br /><br />Met het oog op die invoering vindt een screening plaats van de bestaande opleidingen, als vermeld in artikel 23, § 1, van het decreet, op basis van alleszins de referentiekaders, vermeld in artikel 30, § 1, en artikel 32, § 1, van het decreet, die volledig zijn opgenomen in bijlage IV, die bij dit besluit is gevoegd.<br /><br />§ 2. In bijlage V tot en met V/3, die bij dit besluit zijn gevoegd, worden voor elke afzonderlijke opleiding van het geactualiseerde opleidingsaanbod van het deeltijds beroepssecundair onderwijs de volgende elementen bepaald : <br />1° de overeenstemmende referentiekaders, geput uit de bijlage IV, die bij dit besluit is gevoegd;<br />2° de opleidingenstructuur, vermeld in artikel 28, § 1, van het decreet;<br />3° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 30, § 1, van het decreet.<br /><br />§ 3. In bijlage VI, die bij dit besluit is gevoegd, worden voor elke afzonderlijke opleiding van het geactualiseerde opleidingsaanbod van de leertijd de volgende elementen bepaald : <br />1° de overeenstemmende referentiekaders, geput uit de bijlage IV, die bij dit besluit is gevoegd;<br />2° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 32, § 1, van het decreet.
 
 ## HOOFDSTUK VI. Toelating
 
 ### ART. 9.
 
-De instapvereisten tot modules in het deeltijds beroepssecundair onderwijs, vermeld in artikel 41, eerste lid, van het decreet, zijn de volgende :<br />1° de vastgelegde volgordes waarin modules, die zich sequentieel tot elkaar verhouden, moeten worden doorlopen zoals in de opleidingenstructuur zal worden bepaald;<br />2° een medische geschiktheidsverklaring : voor de eerste module van een opleiding waarin de jongere rechtstreeks met voedingswaren of -stoffen in aanraking komt en die waren kan verontreinigen of besmetten. Die geschiktheidsverklaring is eenmalig en geldt voor de duur van de opleiding, tenzij er aanleiding is om de geschiktheid opnieuw te evalueren. Een ongeschiktheidsverklaring in de loop van een opleiding impliceert dat de jongere uiterlijk op het einde van de module die hij volgt, de opleiding in kwestie stopzet;<br />3° een medische geschiktheidsverklaring : voor de eerste module van een van de volgende opleidingen waarin die geschiktheid noodzakelijk is voor de uitoefening van het beroep :<br />a) dakbedekker;<br />b) daktimmerman;<br />c) dakwerker;<br />d) goederenbehandelaar-magazijnier-heftruckchauffeur;<br />e) machinist mobiele kraan;<br />f) vrachtwagenchauffeur.<br /><br />Die geschiktheidsverklaring is eenmalig en geldt voor de duur van de opleiding. Ze is eveneens vereist voor de eerste toelating tot een van de opleidingen, vermeld in punt 2° en 3°, die in de overgangsperiode niet-modulair worden georganiseerd.
+De instapvereisten tot modules in het deeltijds beroepssecundair onderwijs, vermeld in artikel 41, eerste lid, van het decreet, zijn de volgende :<br />1° de vastgelegde volgordes waarin modules, die zich sequentieel tot elkaar verhouden, moeten worden doorlopen zoals in de opleidingenstructuur zal worden bepaald;<br />2° een medische geschiktheidsverklaring : voor de eerste module van een opleiding waarin de jongere rechtstreeks met voedingswaren of -stoffen in aanraking komt en die waren kan verontreinigen of besmetten. Die geschiktheidsverklaring is eenmalig en geldt voor de duur van de opleiding, tenzij er aanleiding is om de geschiktheid opnieuw te evalueren. Een ongeschiktheidsverklaring in de loop van een opleiding impliceert dat de jongere uiterlijk op het einde van de module die hij volgt, de opleiding in kwestie stopzet;<br />3° een medische geschiktheidsverklaring : voor de eerste module van een van de volgende opleidingen waarin die geschiktheid noodzakelijk is voor de uitoefening van het beroep :<br />a) bouwplaatsmachinist;<br />b) dakafdichter;<br />c) dakdekker;<br />d) dakdekker leien en pannen;<br />e) dakdekker metalen daken;<br />f) dakdekker rieten daken;<br />g) daktimmerman;<br />h) goederenbehandelaar-magazijnier-heftruckchauffeur;<br />i) machinist mobiele kraan;<br />j) rigger-monteerder;<br />k) torenkraanbestuurder;<br />l) vrachtwagenchauffeur.<br /><br />Die geschiktheidsverklaring is eenmalig en geldt voor de duur van de opleiding. Ze is eveneens vereist voor de eerste toelating tot een van de opleidingen, vermeld in punt 2° en 3°, die in de overgangsperiode niet-modulair worden georganiseerd.
 
 ## HOOFDSTUK VII. [... (opgeh. BVR 18 december 2020, art. 62, I: 1 januari 2021)]
 
@@ -68,7 +68,7 @@ Ter uitvoering van artikel 58, derde lid, en artikel 59, tweede lid, van het dec
 
 ### ART. 12.
 
-Het model en de invulonderrichtingen, vermeld in artikel 74 van het decreet, van de volgende studiebewijzen van het deeltijds beroepssecundair onderwijs, zijn opgenomen in bijlage V tot en met XI, die bij dit besluit zijn gevoegd :<br />1° attest van verworven competenties;<br />2° deelcertificaat;<br />3° certificaat;<br />4° getuigschrift van de tweede graad van het secundair onderwijs;<br />5° studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs;<br />6° diploma van secundair onderwijs;<br />7° getuigschrift over de basiskennis van het bedrijfsbeheer.
+Het model en de invulonderrichtingen, vermeld in artikel 74 van het decreet, van de volgende studiebewijzen van het deeltijds beroepssecundair onderwijs, zijn opgenomen in bijlage VII tot en met XIII, die bij dit besluit zijn gevoegd :<br />1° attest van verworven competenties;<br />2° deelcertificaat;<br />3° certificaat;<br />4° getuigschrift van de tweede graad van het secundair onderwijs;<br />5° studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs;<br />6° diploma van secundair onderwijs;<br />7° getuigschrift over de basiskennis van het bedrijfsbeheer.
 
 ## HOOFDSTUK X. Studiebekrachtiging leertijd
 
@@ -82,11 +82,17 @@ De beroepsprocedure tegen een beslissing van de praktijkcommissie, vermeld in ar
 
 ### ART. 15.
 
-Ter uitvoering van artikel 81, tweede lid, van het decreet leiden alle opleidingen, vermeld in punt 2° van bijlage III, die bij dit besluit is gevoegd, tot een getuigschrift leertijd, met uitzondering van de opleiding hulpmecanicien garage.
+Ter uitvoering van artikel 81 van het decreet wordt in bijlage XIV, die bij dit besluit is gevoegd, bepaald welke combinatie van certificaten van een opleiding aanleiding geeft tot de uitreiking van een getuigschrift leertijd.
 
 ### ART. 16.
 
-Het model en de invulonderrichtingen, vermeld in artikel 84 van het decreet, van de volgende studiebewijzen van de leertijd, zijn opgenomen in XII tot en met XVII, die bij dit besluit zijn gevoegd :<br />1° certificaat;<br />2° getuigschrift leertijd;<br />3° getuigschrift van de tweede graad van het secundair onderwijs;<br />4° studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs;<br />5° diploma van secundair onderwijs;<br />6° getuigschrift over de basiskennis van het bedrijfsbeheer.
+Het model en de invulonderrichtingen, vermeld in artikel 84 van het decreet, van de volgende studiebewijzen van de leertijd, zijn opgenomen in bijlage XV tot en met XX, die bij dit besluit zijn gevoegd :<br>
+1° certificaat;<br>
+2° getuigschrift leertijd;<br>
+3° getuigschrift van de tweede graad van het secundair onderwijs;<br>
+4° studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs;<br>
+5° diploma van secundair onderwijs;<br>
+6° getuigschrift over de basiskennis van het bedrijfsbeheer.
 
 ## HOOFDSTUK XI. Financiering en subsidiëring deeltijds beroepssecundair onderwijs
 
@@ -96,7 +102,7 @@ De aanvullende werkingsmiddelen toegekend aan een centrum voor deeltijds beroeps
 
 ### ART. 18.
 
-§ 1. De omzetting van uren-leraar van een centrum voor deeltijds beroepssecundair onderwijs in een krediet bestemd voor voordrachtgevers, vermeld in artikel 90, 3°, van het decreet, wordt als volgt vastgesteld :<br />1° van het wekelijks pakket uren-leraar waarover een centrum voor deeltijds beroepssecundair onderwijs beschikt, wordt het aantal uren dat wordt voorbehouden voor voordrachtgevers, vermenigvuldigd met veertig, dat is het aantal weken openstelling per jaar, zodat een aantal jaaruren wordt verkregen. Dat resultaat, dat in de loop van het schooljaar niet meer kan worden gewijzigd, wordt vóór 1 oktober van het schooljaar in kwestie aan het Agentschap voor Onderwijsdiensten meegedeeld;<br />2° het uurloon voor voordrachtgevers wordt vastgesteld op 27,17 euro. Dat uurloon wordt gekoppeld aan de schommelingen van het indexcijfer der consumptieprijzen overeenkomstig de bepalingen van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer der consumptieprijzen van het Rijk worden gekoppeld. Dat uurloon wordt vanaf 1 januari 1990, aan de spilindex 138,01 gekoppeld. De indexaanpassingen die na 1 oktober van het schooljaar gebeuren, hebben evenwel pas uitwerking met ingang van het daaropvolgende schooljaar;<br />3° het product van het aantal jaaruren met het geïndexeerd uurloon vormt het krediet dat voorbehouden is voor de aanwerving van voordrachtgevers. Het krediet wordt toegekend door middel van een voorschot, dat 50 % bedraagt, in de loop van de maand november van het schooljaar in kwestie, en een saldo in de loop van de maand juni die daarop volgt.<br /><br />§ 2. De omzetting van uren-leraar van een centrum voor deeltijds beroepssecundair onderwijs in een krediet voor een centrum voor deeltijdse vorming bestemd voor de organisatie van algemene vorming, vermeld in artikel 90, 4°, van het decreet, wordt als volgt vastgesteld :<br />1° van het wekelijks pakket uren-leraar waarover een centrum voor deeltijds beroepssecundair onderwijs beschikt, wordt het aantal uren dat als dusdanig wordt omgezet, vermenigvuldigd met veertig, dat is het aantal weken openstelling per jaar, zodat een aantal jaaruren wordt verkregen. Dat resultaat, dat in de loop van het schooljaar niet meer kan worden gewijzigd, wordt vóór 1 oktober van het schooljaar in kwestie aan het Agentschap voor Onderwijsdiensten meegedeeld;<br />2° het bedrag dat wordt toegepast bij de omzetting, wordt vastgesteld op 52,17 euro. Dat bedrag wordt gekoppeld aan de schommelingen van het indexcijfer der consumptieprijzen overeenkomstig de bepalingen van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer der consumptieprijzen van het Rijk worden gekoppeld. Dat bedrag wordt vanaf 1 januari 1990, aan de spilindex 138,01 gekoppeld. De indexaanpassingen die na 1 oktober van het schooljaar gebeuren, hebben evenwel pas uitwerking met ingang van het daaropvolgende schooljaar;<br />3° het product van het aantal jaaruren met het geïndexeerd bedrag vormt het krediet dat voorbehouden is voor de organisatie van algemene vorming door het centrum voor deeltijdse vorming. Het krediet wordt toegekend, samen met de eerste schijf van de subsidiëring van de persoonlijke ontwikkelingstrajecten, vermeld in artikel 95 van het decreet.<br /><br />§ 3. De omzetting van uren-leraar van een centrum voor deeltijds beroepssecundair onderwijs in een krediet voor een centrum voor deeltijdse vorming bestemd voor de ondersteuning van leerlinggebonden activiteiten, vermeld in artikel 90, 5°, van het decreet, wordt als volgt vastgesteld :<br />1° van het wekelijks pakket uren-leraar waarover een centrum voor deeltijds beroepssecundair onderwijs beschikt, wordt het aantal uren dat als dusdanig wordt omgezet vermenigvuldigd met veertig, dat is het aantal weken openstelling per jaar, zodat een aantal jaaruren wordt verkregen. Dat resultaat, dat in de loop van het schooljaar niet meer kan worden gewijzigd, wordt vóór 1 oktober van het schooljaar in kwestie aan het Agentschap voor Onderwijsdiensten meegedeeld;<br />2° het bedrag dat wordt toegepast bij de omzetting, wordt vastgesteld op 52,17 euro. Dat bedrag wordt gekoppeld aan de schommelingen van het indexcijfer der consumptieprijzen overeenkomstig de bepalingen van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer der consumptieprijzen van het Rijk worden gekoppeld. Dat bedrag wordt vanaf 1 januari 1990, aan de spilindex 138,01 gekoppeld. De indexaanpassingen die na 1 oktober van het schooljaar gebeuren, hebben evenwel pas uitwerking met ingang van het daaropvolgende schooljaar;<br />3° het product van het aantal jaaruren met het geïndexeerd bedrag vormt het krediet dat voorbehouden is voor de ondersteuning van leerlinggebonden activiteiten door het centrum voor deeltijdse vorming. Het krediet wordt toegekend, samen met de eerste schijf van de subsidiëring van de persoonlijke ontwikkelingstrajecten, vermeld in artikel 95 van het decreet.
+§ 1. De omzetting van uren-leraar van een centrum voor deeltijds beroepssecundair onderwijs in een krediet bestemd voor voordrachtgevers, vermeld in artikel 90, § 1, 3°, van het decreet, wordt als volgt vastgesteld :<br />1° van het wekelijks pakket uren-leraar waarover een centrum voor deeltijds beroepssecundair onderwijs beschikt, wordt het aantal uren dat wordt voorbehouden voor voordrachtgevers, vermenigvuldigd met veertig, dat is het aantal weken openstelling per jaar, zodat een aantal jaaruren wordt verkregen. Dat resultaat wordt voor 1 oktober van het schooljaar in kwestie aan het Agentschap voor Onderwijsdiensten meegedeeld. Dat resultaat kan in de loop van het schooljaar niet meer worden gewijzigd, behoudens vermindering bij overmacht; <br />2° het krediet voor voordrachtgevers wordt vastgesteld op 29,63 euro per omgezet uur-leraar. Dat krediet wordt gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen overeenkomstig de bepalingen van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. Dat krediet wordt vanaf 1 januari 1990 aan de spilindex 138,01 gekoppeld. De indexaanpassingen die na 1 oktober van het schooljaar worden doorgevoerd, hebben evenwel pas uitwerking met ingang van het daaropvolgende schooljaar;<br />3° het product van het aantal jaaruren met het geïndexeerde krediet vormt het totale krediet dat voorbehouden is voor de aanwerving van voordrachtgevers. Het wordt toegekend door middel van een voorschot van 25 % van het krediet in de loop van de maand november van het schooljaar in kwestie en het resterende saldo van 75 % in de loop van de maand juni die daarop volgt.<br /><br />§ 2. De omzetting van uren-leraar van een centrum voor deeltijds beroepssecundair onderwijs in een krediet voor een centrum voor deeltijdse vorming bestemd voor de organisatie van algemene vorming, vermeld in artikel 90, 4°, van het decreet, wordt als volgt vastgesteld :<br />1° van het wekelijks pakket uren-leraar waarover een centrum voor deeltijds beroepssecundair onderwijs beschikt, wordt het aantal uren dat als dusdanig wordt omgezet, vermenigvuldigd met veertig, dat is het aantal weken openstelling per jaar, zodat een aantal jaaruren wordt verkregen. Dat resultaat, dat in de loop van het schooljaar niet meer kan worden gewijzigd, wordt vóór 1 oktober van het schooljaar in kwestie aan het Agentschap voor Onderwijsdiensten meegedeeld;<br />2° het bedrag dat wordt toegepast bij de omzetting, wordt vastgesteld op 52,17 euro. Dat bedrag wordt gekoppeld aan de schommelingen van het indexcijfer der consumptieprijzen overeenkomstig de bepalingen van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer der consumptieprijzen van het Rijk worden gekoppeld. Dat bedrag wordt vanaf 1 januari 1990, aan de spilindex 138,01 gekoppeld. De indexaanpassingen die na 1 oktober van het schooljaar gebeuren, hebben evenwel pas uitwerking met ingang van het daaropvolgende schooljaar;<br />3° het product van het aantal jaaruren met het geïndexeerd bedrag vormt het krediet dat voorbehouden is voor de organisatie van algemene vorming door het centrum voor deeltijdse vorming. Het krediet wordt toegekend, samen met de eerste schijf van de subsidiëring van de persoonlijke ontwikkelingstrajecten, vermeld in artikel 95 van het decreet.<br /><br />§ 3. De omzetting van uren-leraar van een centrum voor deeltijds beroepssecundair onderwijs in een krediet voor een centrum voor deeltijdse vorming bestemd voor de ondersteuning van leerlinggebonden activiteiten, vermeld in artikel 90, 5°, van het decreet, wordt als volgt vastgesteld :<br />1° van het wekelijks pakket uren-leraar waarover een centrum voor deeltijds beroepssecundair onderwijs beschikt, wordt het aantal uren dat als dusdanig wordt omgezet vermenigvuldigd met veertig, dat is het aantal weken openstelling per jaar, zodat een aantal jaaruren wordt verkregen. Dat resultaat, dat in de loop van het schooljaar niet meer kan worden gewijzigd, wordt vóór 1 oktober van het schooljaar in kwestie aan het Agentschap voor Onderwijsdiensten meegedeeld;<br />2° het bedrag dat wordt toegepast bij de omzetting, wordt vastgesteld op 52,17 euro. Dat bedrag wordt gekoppeld aan de schommelingen van het indexcijfer der consumptieprijzen overeenkomstig de bepalingen van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer der consumptieprijzen van het Rijk worden gekoppeld. Dat bedrag wordt vanaf 1 januari 1990, aan de spilindex 138,01 gekoppeld. De indexaanpassingen die na 1 oktober van het schooljaar gebeuren, hebben evenwel pas uitwerking met ingang van het daaropvolgende schooljaar;<br />3° het product van het aantal jaaruren met het geïndexeerd bedrag vormt het krediet dat voorbehouden is voor de ondersteuning van leerlinggebonden activiteiten door het centrum voor deeltijdse vorming. Het krediet wordt toegekend, samen met de eerste schijf van de subsidiëring van de persoonlijke ontwikkelingstrajecten, vermeld in artikel 95 van het decreet.
 
 ## HOOFDSTUK XII. [... (opgeh. BVR 16 juli 2021, art. 43, I: 1 september 2021)]
 
@@ -762,538 +768,543 @@ Rubriek VOEDING-HORECA<br>
 279. traiteur-banketaannemer<br>
 280. visbereider
 
+### BIJLAGE III/1
+
+Bijlage III/1. Lijst van opleidingen (toestand 1 september 2009)<br>
+<br>
+1° Deeltijds beroepssecundair onderwijs :<br>
+a) Modulair georganiseerd - toestand na screening<br>
+Assistent productieoperator hout<br>
+Behanger<br>
+Bekister<br>
+Betonhersteller<br>
+Binnenschrijnwerker<br>
+Bouwplaatsmachinist<br>
+Buitenschrijnwerker<br>
+Dakafdichter<br>
+Dakdekker<br>
+Dakdekker leien en pannen<br>
+Dakdekker metalen daken<br>
+Dakdekker rieten daken<br>
+Daktimmerman<br>
+Decor- &amp; standenbouwer<br>
+Dekvloerlegger<br>
+Glaswerker<br>
+IJzervlechter<br>
+Industrieel isolatiewerker<br>
+Industrieel schilder<br>
+Industriële verpakker<br>
+Interieurbouwer<br>
+Karkassenmaker<br>
+Machinaal houtbewerker<br>
+Medewerker industrieel schilder<br>
+Metselaar<br>
+Meubelmaker<br>
+Meubelstoffeerder<br>
+Natuursteenbewerker<br>
+Operator in de houtzagerij<br>
+Oppervlaktebehandelaar<br>
+Paletten- en krattenmaker<br>
+Plaatser binnenschrijnwerk<br>
+Plaatser buitenschrijnwerk<br>
+Plaatser interieurelementen<br>
+Plaatser natuursteen<br>
+Plaatser parket<br>
+Plaatser soepele vloerbekleding<br>
+Productiemedewerker hout<br>
+Productiemedewerker interieurbouw<br>
+Productieoperator hout<br>
+Publiciteitsschilder<br>
+Rioollegger<br>
+Schilder<br>
+Schilder-decorateur<br>
+Stratenmaker<br>
+Stukadoor<br>
+Tegelzetter<br>
+Torenkraanbestuurder<br>
+Voeger<br>
+Wegmarkeerder<br>
+Werfbediener<br>
+Werkplaatsbinnenschrijnwerker<br>
+Werkplaatsbuitenschrijnwerker hout<br>
+b) Niet-modulair georganiseerd - toestand vóór screening<br>
+Rubriek DISTRIBUTIE<br>
+Goederenbehandelaar-magazijnier<br>
+Goederenbehandelaar-magazijnier-heftruckchauffeur<br>
+Goederenbehandelaar-magazijnmedewerker<br>
+Verpakkingsoperator<br>
+Rubriek ELEKTRICITEIT/ELEKTRONICA<br>
+Assistent-podiumtechnieker<br>
+Bedrader-bestukker in de elektronica<br>
+Elektricien residentiële elektriciteit<br>
+Hersteller elektrische huishoudtoestellen<br>
+Hulpelektricien industriële installaties<br>
+Hulpelektricien residentiële elektriciteit<br>
+Industriële monteur van elektrische uitrusting van voertuigen<br>
+Installateur alarminstallaties (deze opleiding mag alleen aangeboden worden door centra voor deeltijds beroepssecundair onderwijs die door de bevoegde overheid erkend zijn als opleidingscentrum)<br>
+Installateur domotica<br>
+Installateur hard- en software<br>
+Installateur telecommunicatie<br>
+Netwerkassistent<br>
+Netwerkoperator<br>
+Nijverheidselektricien<br>
+Rubriek GRAFISCHE NIJVERHEID<br>
+Assistent flexodrukker<br>
+Drukafwerker<br>
+Drukvoorbereider<br>
+Hulpdrukker<br>
+Rubriek HANDEL EN ADMINISTRATIE<br>
+Administratief helper<br>
+Bewakingsagent<br>
+Callcentermedewerker<br>
+Enquêteur<br>
+Helpdeskmedewerker<br>
+Host(ess)<br>
+Kantoorbediende<br>
+Kassier<br>
+Maritiem bediende<br>
+Rayonchef<br>
+Receptieassistent<br>
+Winkelbediende<br>
+Rubriek KLEDING EN CONFECTIE<br>
+Confectiestikster<br>
+Operator in de snij- en stikafdeling<br>
+Operator in de stikafdeling<br>
+Operator in de strijk- en persafdeling<br>
+Operator in de wasserij<br>
+Patronenmaker<br>
+Retoucheerder<br>
+Stikster<br>
+Rubriek LAND- EN TUINBOUW<br>
+Arbeider in bos- en natuurbeheer<br>
+Hovenier<br>
+Hovenier-aanleg<br>
+Hovenier-onderhoud<br>
+Medewerker bloemenzaak en tuincentrum<br>
+Schaal- en schelpdierenkweker<br>
+Tuinbouwarbeider<br>
+Tuinbouwer<br>
+Rubriek METAAL EN KUNSTSTOFFEN<br>
+Aluminiumschrijnwerker<br>
+Assistent-hoefsmid<br>
+Bediener werktuigmachines<br>
+Buizenbewerker<br>
+Containerhersteller<br>
+Draaier<br>
+Draaier-frezer<br>
+Frezer<br>
+Hoefsmid<br>
+Installateur sanitaire installaties<br>
+Installateur verwarmingsinstallaties<br>
+Kunststofbewerker<br>
+Lasser<br>
+Lasser-monteur<br>
+Lasser-plaatbewerker<br>
+MIG/MAG-lasser<br>
+Monteur sanitaire installaties<br>
+Monteur verwarmingsinstallaties<br>
+Onderhoudsmonteur liften<br>
+Onderhoudsmonteur machines<br>
+Onderhoudswerker in de metaalnijverheid<br>
+Operator assemblage<br>
+Operator kunststoffen<br>
+Procesoperator in de chemische en petrochemische nijverheid<br>
+Stellingbouwer<br>
+TIG-lasser<br>
+Werkplaatsbuitenschrijnwerker aluminium<br>
+Werkplaatsbuitenschrijnwerker kunststoffen<br>
+Rubriek MILIEU<br>
+Recyclagearbeider<br>
+Rubriek ONDERHOUD<br>
+Industriële schoonmaker<br>
+Kermismedewerker<br>
+Kermiswerker<br>
+Onderhoudswerker gebouwen<br>
+Thuishelper<br>
+Rubriek PERSONENZORG<br>
+Logistiek assistent in de ziekenhuizen<br>
+Logistiek helper in de zorginstellingen<br>
+Verzorgende<br>
+Verzorgende/zorgkundige<br>
+Rubriek SCHOONHEIDSZORG<br>
+Assistent kapper<br>
+Kapper<br>
+Rubriek SPORT EN VRIJE TIJD<br>
+Animator in de evenementensector<br>
+Buurtsportwerker<br>
+Onderhoudswerker sportinfrastructuur en -materiaal<br>
+Sportbegeleider<br>
+Rubriek TEXTIEL<br>
+Co-operator textielmachines<br>
+Operator textielmachines<br>
+Rubriek TRANSPORT<br>
+Automecanicien<br>
+Carrossier<br>
+Fietshersteller<br>
+Fietskadermonteur<br>
+Hulpmecanicien landbouwmachines<br>
+Hulpmecanicien personenwagens<br>
+Hulpmecanicien vrachtwagens<br>
+Mecanicien lichte verbrandingsmotoren<br>
+Machinist mobiele kraan<br>
+Onderhoudsmonteur<br>
+Pistoolschilder<br>
+Plaatslager<br>
+Rigger-monteerder<br>
+Voorbewerker pistoolschilderen<br>
+Vrachtwagenchauffeur<br>
+Rubriek VOEDING-HORECA<br>
+Bakker-patissier<br>
+Bakkersgast<br>
+Bankwerker-kneder-ovenman<br>
+Grootkeukenmedewerker<br>
+Hulpkok<br>
+Industrieel maaltijdenbereider<br>
+Industriële vleesbewerker<br>
+Industriële vleeswarenbereider<br>
+Keukenmedewerker<br>
+Kok<br>
+Marsepein- en chocoladebewerker<br>
+Medewerker kamerdienst<br>
+Productiemedewerker in de voedingsindustrie<br>
+Productieoperator in de voedingsindustrie<br>
+Slager<br>
+Slagersgast<br>
+Uitsnijder-uitbener<br>
+Zaal- en keukenmedewerker<br>
+Zaalmedewerker<br>
+Rubriek ZEEVISSERIJ<br>
+Matroos<br>
+Rubriekloos<br>
+Onthaalgroep<br>
+2° Leertijd :<br>
+a) Toestand na screening<br>
+Assistent productieoperator hout<br>
+Behanger<br>
+Bekister<br>
+Betonhersteller<br>
+Binnenschrijnwerker<br>
+Boorder<br>
+Bouwplaatsmachinist<br>
+Buitenschrijnwerker<br>
+Dakafdichter<br>
+Dakdekker<br>
+Dakdekker leien en pannen<br>
+Dakdekker metalen daken<br>
+Dakdekker rieten daken<br>
+Daktimmerman<br>
+Decor- &amp; standenbouwer<br>
+Dekvloerlegger<br>
+Glaswerker<br>
+IJzervlechter<br>
+Industrieel isolatiewerker<br>
+Industrieel schilder<br>
+Industriële verpakker<br>
+Interieurbouwer<br>
+Karkassenmaker<br>
+Machinaal houtbewerker<br>
+Medewerker industrieel schilder<br>
+Metselaar<br>
+Meubelmaker<br>
+Meubelstoffeerder<br>
+Natuursteenbewerker<br>
+Operator in de houtzagerij<br>
+Oppervlaktebehandelaar<br>
+Paletten- en krattenmaker<br>
+Plaatser binnenschrijnwerk<br>
+Plaatser buitenschrijnwerk<br>
+Plaatser interieurelementen<br>
+Plaatser natuursteen<br>
+Plaatser parket<br>
+Plaatser soepele vloerbekleding<br>
+Productiemedewerker hout<br>
+Productiemedewerker interieurbouw<br>
+Productieoperator hout<br>
+Publiciteitsschilder<br>
+Restauratievakman meubelen<br>
+Rioollegger<br>
+Scheepsinterieurbouwer<br>
+Schilder<br>
+Schilder-decorateur<br>
+Slotenmaker<br>
+Stratenmaker<br>
+Stukadoor<br>
+Tegelzetter<br>
+Torenkraanbestuurder<br>
+Voeger<br>
+Wegmarkeerder<br>
+Werfbediener<br>
+Werkplaatsbinnenschrijnwerker<br>
+Werkplaatsbuitenschrijnwerker aluminium<br>
+Werkplaatsbuitenschrijnwerker hout<br>
+Werkplaatsbuitenschrijnwerker kunststoffen<br>
+b) Toestand vóór screening<br>
+Rubriek DISTRIBUTIE<br>
+Ambulante handelaar op de openbare markten<br>
+Groothandelaar<br>
+Groothandelaar in bakkerijgrondstoffen<br>
+Groothandelaar in bier, mineraal water en limonades<br>
+Groothandelaar in boter, eieren en melk<br>
+Groothandelaar in bouwmaterialen<br>
+Groothandelaar in elektrisch materieel<br>
+Groothandelaar in fiets-, bromfiets- en motorfietsonderdelen<br>
+Groothandelaar in fruit en groenten<br>
+Groothandelaar in marokijnwaren<br>
+Groothandelaar in papierwaren en kantoorbenodigdheden<br>
+Groothandelaar in suikerwaren<br>
+Groothandelaar in textielwaren<br>
+Groothandelaar in verse zeevis<br>
+Groothandelaar in verven en vernissen<br>
+Groothandelaar in wijn en geestrijke dranken<br>
+Groothandelaar-bereider in kruiderijen voor spekslagerswaren<br>
+Handelaar in foerage en stro<br>
+Handelaar in inlandse granen<br>
+Kaasgroothandelaar<br>
+Kleinhandelaar<br>
+Logistiek medewerker<br>
+Slager-groothandelaar<br>
+Tabakgroothandelaar<br>
+Veehandelaar<br>
+Rubriek ELEKTRICITEIT-ELEKTRONICA<br>
+Assistent podiumtechnicus<br>
+Automaathersteller<br>
+Bordenbouwer<br>
+Elektrotechnisch installateur<br>
+Elektrowikkelaar<br>
+Fabrikant-installateur van lichtreclames<br>
+Galvanoplast<br>
+Geluidstechnicus<br>
+Hersteller van elektrische huishoudapparaten<br>
+Industrieel onderhoudstechnicus<br>
+Installateur-hersteller van autonavigatiesystemen, autoalarmsystemen en a-v-t voor voertuigen<br>
+Koeltechnicus/frigorist<br>
+Lichttechnicus<br>
+Luchtregelingsinstallateur<br>
+Monteur-hersteller in toegepaste elektronica<br>
+Monteur-hersteller van antidiefstalsystemen<br>
+Monteur-hersteller van liften<br>
+Pc-technicus<br>
+Radio-en televisiemonteur-hersteller<br>
+Technicus klimaatbeheersing - airconditioning<br>
+Vervaardiger van accumulatoren<br>
+Rubriek GRAFISCHE NIJVERHEID<br>
+Desktop publisher<br>
+Drukker-flexograaf<br>
+Fotograaf<br>
+Grafisch vormgever<br>
+Offsetdrukker<br>
+Publiciteitstekenaar<br>
+Reclameschilder<br>
+Typo-drukker<br>
+Webdesigner<br>
+Zeefdrukker<br>
+Rubriek HANDEL EN ADMINISTRATIE<br>
+Boekhouder<br>
+Etaleur<br>
+Onthaal- en pr-assistent<br>
+Polyvalent administratief kmo-medewerker<br>
+Programmeur<br>
+Rubriek KLEDING EN CONFECTIE<br>
+Bontwerker<br>
+Confectiestikster<br>
+Confectioneur van breiwerk<br>
+Confectioneur van dameskleding<br>
+Confectioneur van dassen, strikken, sjaals<br>
+Confectioneur van herenkleding<br>
+Confectioneur van huishoudlinnen<br>
+Confectioneur van kinderkleding<br>
+Confectioneur van linnengoed<br>
+Confectioneur van plastiekkleding<br>
+Confectioneur van regenkleding<br>
+Confectioneur van sportkledij<br>
+Confectioneur van werkkledij<br>
+Dameskleermaker<br>
+Hand- en machinebreister<br>
+Handborduurster<br>
+Hemdenmaker<br>
+Herenkleermaker<br>
+Korsettenmaker<br>
+Machineborduurster<br>
+Modeontwerper<br>
+Modiste<br>
+Naaister<br>
+Passementwerker<br>
+Schoenmaker en -hersteller<br>
+Textielreiniger : chemisch reiniger-verver<br>
+Textielreiniger-witwasser<br>
+Rubriek KUNST EN AMBACHTEN<br>
+Artisanaal kaarsenmaker<br>
+Bouwer en hersteller van akoestische gitaren<br>
+Clavecimbelbouwer<br>
+Dierenopzetter<br>
+Edelsteenzetter<br>
+Fijnmandenmaker<br>
+Gareelmaker<br>
+Gieter van juwelen van edele metalen<br>
+Glasblazer van sier- en gebruiksvoorwerpen<br>
+Glasetser en glasdecorateur<br>
+Glasinstrumentenmaker<br>
+Glazenier<br>
+Graveur in edele metalen<br>
+Handboekbinder<br>
+Hersteller van muziekinstrumenten<br>
+Horlogemaker-hersteller<br>
+Inlijster<br>
+Juwelier-goudsmid<br>
+Keramist<br>
+Koetsenmaker<br>
+Kunstsmid<br>
+Leerlooier<br>
+Lijstenmaker-vergulder<br>
+Luchtermaker in metaal en glas<br>
+Marokijnbewerker<br>
+Ontwerper van sierraden<br>
+Orgelbouwer<br>
+Pianostemmer en hersteller<br>
+Pottenbakker<br>
+Vervaardiger van fluiten, klarinetten, hobo's en saxofoons<br>
+Vervaardiger-hersteller van poppen<br>
+Wapenhersteller<br>
+Wapensmid<br>
+Zilversmid<br>
+Rubriek LAND- EN TUINBOUW<br>
+Bloemen- en plantenteler<br>
+Boomkweker<br>
+Boomverzorger<br>
+Bosbouwuitbater<br>
+Florist<br>
+Fruitteler<br>
+Groenteteler<br>
+Herborist<br>
+Hoefsmid<br>
+Hondenfokker<br>
+Hondeninstructeur<br>
+Hondentrimmer<br>
+Ichtyoloog<br>
+Kruidenteler<br>
+Paardenhouder<br>
+Pluimveehouder<br>
+Tuinaannemer<br>
+Tuinontwerper<br>
+Tuinverzorger<br>
+Valkenier<br>
+Viskweker<br>
+Rubriek METAAL EN KUNSTSTOFFEN<br>
+Bewerker van thermoplastische kunststoffen (vacuümprocédé)<br>
+Bouwsmid<br>
+Constructeur van buis- en plaatmeubelen<br>
+Constructeur van buisconstructies<br>
+Constructeur van gebinten<br>
+Fabrikant van houtlintzagen<br>
+Gieter<br>
+Installateur van centrale verwarming<br>
+Installateur van gasverwarming met individuele toestellen<br>
+Kopersmid<br>
+Mecanicien<br>
+Mecanicien voor kantoormachines<br>
+Mecanicien voor naaimachines<br>
+Mecanicien voor snij- en weegtoestellen<br>
+Metaalconstructeur<br>
+Monteur-hersteller van pneumatische en hydraulische werktuigen en machines<br>
+Plaatwerker-ketelmaker<br>
+Polyvalent lasser<br>
+Sanitair installateur-loodgieter<br>
+Smid<br>
+Staalgraveur<br>
+Vervaardiger van blad- en spiraalveren<br>
+Vervaardiger van plastieken voorwerpen, apparaten en buizen<br>
+Zandstraler, lakker en metalliseerder van metalen<br>
+Rubriek PERSONENZORG<br>
+Begrafenisondernemer<br>
+Medewerker kinderopvang<br>
+Rubriek SCHOONHEIDSZORG<br>
+Haarwerker-pruikenmaker-grimeur<br>
+Kapper<br>
+Kunstnagelstylist<br>
+Opticien-brillenmaker<br>
+Orthopedie-schoentechnicus<br>
+Schoonheidsspecialiste<br>
+Tandprothesetechnicus<br>
+Vervaardiger-hersteller van optisch materieel<br>
+Rubriek SPORT EN VRIJE TIJD<br>
+Ceremoniemeester<br>
+Rubriek TEXTIEL<br>
+Decorateur van textiel<br>
+Hersteller van oosterse tapijten<br>
+Patroontekenaar<br>
+Textieltekenaar<br>
+Textieltekenaar-designer<br>
+Vervaardiger van dekzeilen, tenten, zakken<br>
+Vlaggenmaker<br>
+Wever<br>
+Rubriek TRANSPORT<br>
+Autobekleder<br>
+Auto-elektronicus<br>
+Bromfietsmecanicien<br>
+Carrosseriehersteller<br>
+Constructeur en hersteller van autoradiatoren<br>
+Constructeur van speciale carrosserieën voor vracht- en bestelwagens<br>
+Constructeur van vrachtwagen- en aanhangwagenchassis<br>
+Fietsmecanicien<br>
+Garagehouder-hersteller<br>
+Hulpmecanicien<br>
+Inrichter van motorhomes, caravans, woonwagens, wooncellen en marktwagens<br>
+Matroos binnenvaart<br>
+Matroos-motordrijver binnenvaart<br>
+Mecanicien voor bouw- en wegenaannemersmateriaal<br>
+Mecanicien voor heftrucks<br>
+Mecanicien voor landbouw- en tuinbouwtrekkers en<br>
+Mecanicien voor lichte schroefvliegtuigen<br>
+Mecanicien voor motorplezierboten<br>
+Mecanicien voor scheepsdieselmotoren<br>
+Monteur-hersteller van hydraulische vrachtwagenkranen<br>
+Motorfietsmecanicien<br>
+Plaatser-hersteller van banden met stuurinrichtingscorrectie<br>
+Scheepshersteller<br>
+Verhuizer<br>
+Vulcaniseerder<br>
+Rubriek VOEDING-HORECA<br>
+Bereider van wild en gevogelte<br>
+Brood- en banketbakker<br>
+Chicoreibrander<br>
+Hotelhouder<br>
+IJsbereider<br>
+Kaasfabrikant<br>
+Koffiebrander<br>
+Molenaar<br>
+Paardenslager<br>
+Restauranthouder<br>
+Slachtafvalbereider<br>
+Slachter<br>
+Slager-spekslager<br>
+Snackbarexploitant<br>
+Suiker- en chocoladebewerker<br>
+Traiteur-banketaannemer<br>
+Visbereider
+
 ### BIJLAGE IV
 
-<p>Referentiekaders<br>
-<br>
-Met betrekking tot opleidingen die behoren tot de rubrieken bouw, decoratie en hout :<br>
-<br>
-Nota<br>
-<br>
-WELZIJN OP HET WERK (SERV oktober 2004)<br>
-<br>
-</p>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_2.pdf#page=1" title=" Bijlage IV" target="_blank" class="pdf">Bijlage IV</a>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofielen in de bouwnijverheid</p>
+### BIJLAGE V
 
-			<p>SCHILDER-DECORATEUR</p>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_2.pdf#page=9" title=" Bijlage V" target="_blank" class="pdf">Bijlage V</a>
 
-			<p>(HIVA/FVB 1998)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een schilder – decorateur</p>
+### BIJLAGE V/1
 
-			<p>(TEMPERA/FVB december 2001)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofielen in de bouwnijverheid</p>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_2.pdf#page=93" title=" Bijlage V/1" target="_blank" class="pdf">Bijlage V/1</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_3.pdf#page=1" title=" Bijlage V/1 deel 2" target="_blank" class="pdf">Bijlage V/1 deel 2</a>
 
-			<p>BEKISTER (SERV /FVB 1998)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofielen in de bouwnijverheid</p>
+### BIJLAGE V/2
 
-			<p>WEGENWERKER (HIVA/FVB 1998)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een betonhersteller</p>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_3.pdf#page=59" title=" Bijlage V/2" target="_blank" class="pdf">Bijlage V/2</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_4.pdf#page=1" title=" Bijlage V/2 deel 2" target="_blank" class="pdf">Bijlage V/2 deel 2</a>
 
-			<p>(TEMPERA/FVB september 2004)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een rioollegger</p>
+### BIJLAGE V/3
 
-			<p>(TEMPERA/FVB juli 2004)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een stratenmaker</p>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_4.pdf#page=16" title=" Bijlage V/3" target="_blank" class="pdf">Bijlage V/3</a>
 
-			<p>(TEMPERA/FVB september2004)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofielen in de bouwnijverheid</p>
+### BIJLAGE VI
 
-			<p>SCHRIJNWERKER-TIMMERMAN</p>
-
-			<p>(HIVA/FVB 1998)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een binnenschrijnwerker</p>
-
-			<p>(TEMPERA/FVB maart 2001)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een buitenschrijnwerker</p>
-
-			<p>(TEMPERA/FVB)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een daktimmerman</p>
-
-			<p>(TEMPERA/FVB 2004)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofielen in de bouwnijverheid</p>
-
-			<p>DAKAFDICHTER</p>
-
-			<p>(HIVA/FVB 1998)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een dakafdichter</p>
-
-			<p>(TEMPERA/FVB december 2002)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofielen in de bouwnijverheid</p>
-
-			<p>DAKDEKKER</p>
-
-			<p>(SERV/FVB 1999)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een dakdekker</p>
-
-			<p>(TEMPERA/FVB 2002)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>SECTOR: stoffering en houtbewerking</p>
-
-			<p>Beroepenstructuur</p>
-
-			<p>(SERV in samenwerking met OCH januari 2002)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofielen in de bouwnijverheid</p>
-
-			<p>DEKVLOERLEGGER</p>
-
-			<p>(HIVA/FVB 1998)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een dekvloerlegger</p>
-
-			<p>(TEMPERA/FVB mei 2003)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofiel</p>
-
-			<p>GLASWERKER</p>
-
-			<p>(SERV juli 2005)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofielen in de bouwnijverheid</p>
-
-			<p>IJZERVLECHTER</p>
-
-			<p>(SERV/FVB 1998)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>HIVA- Beroepsprofiel</p>
-
-			<p>INDUSTRIEEL ISOLATIEWERKER</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een industrieel isolatiewerker</p>
-
-			<p>(TEMPERA/FVB november 2003)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofielen in de bouwnijverheid</p>
-
-			<p>INTERIEURBOUWER</p>
-
-			<p>(SERV/FVB 1998)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een interieurbouwer</p>
-
-			<p>(TEMPERA/FVB juni 2002)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofielen in de bouwnijverheid</p>
-
-			<p>METSELAAR</p>
-
-			<p>(SERV/FVB 1998)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een metselaar</p>
-
-			<p>(TEMPERA/FVB juli 2001)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofiel</p>
-
-			<p>MEUBELSTOFFEERDER</p>
-
-			<p>(SERV december 2002)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofiel</p>
-
-			<p>MONTEUR METALEN GEVEL- EN DAKELEMENTEN</p>
-
-			<p>(SERV februari 2005)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofielen in de bouwnijverheid</p>
-
-			<p>NATUURSTEENBEWERKER</p>
-
-			<p>(SERV/FVB 1999)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een natuursteenbewerker</p>
-
-			<p>(TEMPERA/FVB februari 2004)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofiel</p>
-
-			<p>PRODUCTIEOPERATOR HOUT</p>
-
-			<p>(SERV december 2002)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofielen in de bouwnijverheid</p>
-
-			<p>STUKADOOR</p>
-
-			<p>(HIVA/FVB 1998)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een beginnend stukadoor</p>
-
-			<p>(TEMPERA/FVB december 2003)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>HIVA- Beroepsprofiel</p>
-
-			<p>TEGELZETTER</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een tegelzetter</p>
-
-			<p>(TEMPERA/FVB oktober 2002)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een vakman nutsleidingen</p>
-
-			<p>(TEMPERA/FVB juli 2004)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een werfbediener</p>
-
-			<p>(TEMPERA/FVB augustus 2000)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>DBSO- opleidingskaart Publiciteitsschilder</p>
-
-			<p>(VLOR 30 juni 2000)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofiel</p>
-
-			<p>GRAFISCH ONTWERPER/ART DIRECTOR</p>
-
-			<p>(CEVORA 2001)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>De opleiding Wegmarkeerder van EDUTEC</p>
-
-			<p>(FVB/CEVORA)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>CO.BR.A (VDAB)</p>
-
-			<p>Beroepenfiche Schrijnwerker-plaatser</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>CO.BR.A (VDAB)</p>
-
-			<p>Beroepenfiche Arbeider in de houtzagerij</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>CO.BR.A (VDAB)</p>
-
-			<p>Beroepenfiche Maker van vlechtwerk, matter</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>HMC Vakschool hout, meubelinterieur (Nederland)</p>
-
-			<p>Opleiding: Meubelmaker</p>
-
-			<p>Beroep: houten jacht- en botenbouwer - scheepsinterieurbouwer</p>
-
-			<p>Landelijke kwalificaties MBO (Nederland)</p>
-
-			<p>Sector: techniek - branche meubelindustrie</p>
-
-			<p>Beroep: meubelmaker/ (scheeps)-interieurbouwer</p>
-
-			<p>Sector: scheepsbouw - branche transport en logistiek</p>
-
-			<p>Beroep: scheeps- en jachtbouwkundige</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepencluster</p>
-
-			<p>SLOTENMAKERIJ</p>
-
-			<p>(SERV oktober 2006)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofiel</p>
-
-			<p>CONFECTIESTIKSTER</p>
-
-			<p>(SERV juli 2004)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Onderzoek naar de kwalificatiebehoeften voor snijdster</p>
-
-			<p>(SERV mei 1999)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Studiebureaus</p>
-
-			<p>(CEVORA december 2003)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofiel</p>
-
-			<p>ASBESTVERWIJDERAAR</p>
-
-			<p>(SERV mei 2007)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofielen in de bouwnijverheid</p>
-
-			<p>BAGGERWERKER</p>
-
-			<p>(HIVA/FVB 1998)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofielen in de bouwnijverheid</p>
-
-			<p>BETONMIXER – CHAUFFEUR</p>
-
-			<p>(TEMPERA februari 2003)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofiel</p>
-
-			<p>BOORMEESTER</p>
-
-			<p>(SERV februari 2007)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofielen in de bouwnijverheid</p>
-
-			<p>BOUWPLAATSMACHINIST</p>
-
-			<p>(HIVA/FVB 1998)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een beginnend bouwplaatsmachinist</p>
-
-			<p>(TEMPERA/FVB oktober 2003)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofielen in de bouwnijverheid</p>
-
-			<p>INDUSTRIEEL SCHILDER</p>
-
-			<p>(HIVA/FVB 1998)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een industrieel schilder</p>
-
-			<p>(TEMPERA/FVB oktober 1999)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofiel</p>
-
-			<p>WERKTUIGKUNDIGE BAGGERVAART</p>
-
-			<p>(SERV maart 2006)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofielen in de bouwnijverheid</p>
-
-			<p>RESTAURATIEVAKMAN HOUTSCHRIJNWERK – TIMMERWERK</p>
-
-			<p>(TEMPERA maart 2005)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofielen in de bouwnijverheid</p>
-
-			<p>TORENKRAANBESTUURDER</p>
-
-			<p>(HIVA/FVB 1998)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Instapcompetenties van een beginnend torenkraanbestuurder</p>
-
-			<p>(TEMPERA/FVB oktober 2003)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepscompetentieprofiel</p>
-
-			<p>PLOEGBAAS SCHILDER- EN DECORATIEWERKEN</p>
-
-			<p>(SERV maart 2008)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:392.4pt">
-			<p>Beroepsprofiel</p>
-
-			<p>RESTAURATIEVAKMAN DECORATIESCHILDER</p>
-
-			<p>(SERV oktober 2003)</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-Afkortingen :<br>
-HIVA : Hoger Instituut voor de Arbeid<br>
-FVB : Fonds voor Vakopleiding in de Bouwnijverheid<br>
-SERV : Sociaal Economische Raad voor Vlaanderen<br>
-OCH : Opleidingscentrum Hout<br>
-VLOR : Vlaamse Onderwijsraad<br>
-CEVORA : Centrum voor Vorming en Opleiding van het Aanvullend Paritair Comité van de Bedienden<br>
-CO.BR.A : Competenties en Beroepen Repertorium voor de Arbeidsmarkt<br>
-VDAB : Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding<br>
-HMC : Hout- en meubileringscollege
+<a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_4.pdf#page=74" title=" Bijlage VI" target="_blank" class="pdf">Bijlage VI</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_5.pdf#page=1" title=" Bijlage VI deel 2" target="_blank" class="pdf">Bijlage VI deel 2</a>
 
 ### BIJLAGE VII
 
@@ -1322,6 +1333,10 @@ Diploma van secundair onderwijs (derde graad) (deeltijds beroepssecundair   onde
 ### BIJLAGE XIII
 
 Getuigschrift over de basiskennis van het bedrijfsbeheer (deeltijds   beroepssecundair onderwijs)<BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=35">Bijlage   XIII</A>
+
+### BIJLAGE XIV
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_5.pdf#page=72" title=" Bijlage XIV" target="_blank" class="pdf">Bijlage XIV</a>
 
 ### BIJLAGE XV
 
