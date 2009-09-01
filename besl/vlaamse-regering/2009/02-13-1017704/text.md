@@ -259,6 +259,10 @@ Leerlingen moeten overeenkomstig artikel 58, tweede lid, van het decreet leren e
 
 Voor leerlingen die na 1 oktober van het lopende cursusjaar ingeschreven worden, wordt het programma rekening houdend met de vooropleiding van de leerling ingekort en gelijkmatig gespreid over de resterende maanden van het cursusjaar. <br /><br />Leerlingen die uitzonderlijk na 31 januari van het lopende cursusjaar ingeschreven worden, kunnen door het begeleidingsteam verwezen worden naar bijwerkingscursussen, als vermeld in artikel 38, § 1, tweede lid, van dit besluit. <br /><br />
 
+### ART. 54.
+
+De leertrajectbegeleider bepaalt het opleidingstraject en het traject algemene vorming op basis van de intake en de screening. Hij pleegt, naargelang van de situatie, overleg met andere betrokkenen. Hij licht de leerling en de wettelijke vertegenwoordiger in over de passende cursussen theoretische vorming en de lesplaatsen waar deze georganiseerd worden. <br /><br />Op basis van de inlichtingen van de leertrajectbegeleider en afhankelijk van het opleidingstraject en het traject algemene vorming kiezen de leerling en de wettelijke vertegenwoordiger de lesplaats. <br /><br />Overeenkomstig artikel 39 van het decreet schrijft de leertrajectbegeleider de leerling in in de passende cursus. <br /><br />Als dat nodig is, kan Syntra Vlaanderen de betrokken leerling verwijzen naar een meer passende cursus in een ander centrum.<br /><br />
+
 ## Afdeling III Het volgen van de lessen
 
 ### ART. 55.
