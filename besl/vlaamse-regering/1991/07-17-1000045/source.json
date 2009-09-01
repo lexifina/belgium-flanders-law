@@ -2,16 +2,16 @@
   "codex_id": 1000045,
   "title": "Besluit van de Vlaamse Regering van 1991-07-17 tot uitvoering van het decreet van 17 juli 1991 betreffende inspectie, [Dienst voor Onderwijsontwikkeling] en pedagogische begeleidingsdiensten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000045/VolledigDocument?datum=2007-09-01",
-  "source_sha256": "2f0c4489ac09cd4265e77d41a2b960d713774845f94b5d802c86897a7a72365a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000045/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "a498dca935f45c384f5391d34d3812fd90a91bb5a725b840e46a6406d927bfe5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000045&param=informatie",
-  "as_of": "2007-09-01",
+  "as_of": "2009-09-01",
   "made": "1991-07-17",
   "gazette": "1991-08-31",
   "numac": 1991036084,
   "document_start": null,
   "document_end": "2009-08-31",
-  "in_force": "2007-09-01",
+  "in_force": "2009-09-01",
   "article_versions": 70,
-  "record_form": "consolidated version as in force on 2007-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
