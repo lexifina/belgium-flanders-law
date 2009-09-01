@@ -12,6 +12,10 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 27 maart 1991 betreffen
 
 In artikel 1 van het besluit van de Vlaamse Regering van 7 oktober 1997 betreffende de nuttige ervaring als bekwaamheidsbewijs voor personeelsleden van het onderwijs worden de volgende wijzigingen aangebracht :<br />1° paragraaf 3 wordt vervangen door wat volgt :<br />« § 3. In dit besluit wordt verstaan onder zomervakantie : de vakantie die begint op 1 juli en eindigt op 31 augustus. »;<br />2° in paragraaf 4 worden de woorden « het decreet van 23 januari 1991 betreffende de vorming en de begeleiding van de zelfstandigen en de kleine en middelgrote ondernemingen » vervangen door de woorden « het decreet van 7 mei 2004 tot oprichting van een publiekrechtelijk vormgegeven extern verzelfstandigd Vlaams agentschap voor Ondernemingsvorming, Syntra Vlaanderen ».<br /><br />
 
+### ART. 10.
+
+In artikel 11, tweede lid, van hetzelfde besluit worden de woorden « het decreet van 17 juli 1991 betreffende de inspectie en pedagogische begeleidingsdiensten » vervangen door de woorden « het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs ».<br /><br />
+
 ## HOOFDSTUK 3 Slotbepalingen
 
 ## Bijlage
