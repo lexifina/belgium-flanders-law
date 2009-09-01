@@ -10,7 +10,7 @@ Een afschotplan wordt vastgesteld per jachtterrein of per beheerseenheid zoals b
 
 ### ART. 3.
 
-De Minister stelt voor de toepassing van het afschotplan een commissie samen, hierna de "Commissie" te noemen.<br /><br />Een ambtenaar aangesteld door de minister zit deze Commissie voor. Zij is samengesteld uit twee ambtenaren van het Agentschap en uit twee jagers bevoegd voor reewild in het Vlaamse Gewest. Leden van de Commissie worden voor een termijn van drie jaar aangesteld door de minister. De aanwijzing van de jagers gebeurt op voorstel van de Vlaamse Hoge Jachtraad.<br /><br />Voor ieder lid wordt op dezelfde wijze een plaatsvervanger aangewezen.<br /><br />De mandaten zijn persoonlijk.<br /><br />Het Agentschap is belast met het secretariaat van deze Commissie.<br /><br />De mandaten zijn verlengbaar. Als er een vacature uitgeschreven wordt, voor het mandaat afgelopen is voleindigt het nieuw benoemde lid het mandaat van zijn voorganger.
+De Minister stelt voor de toepassing van het afschotplan een commissie samen, hierna de "Commissie" te noemen.<br /><br />Een ambtenaar aangesteld door de minister zit deze Commissie voor. Zij is samengesteld uit twee ambtenaren van het Agentschap en uit twee jagers bevoegd voor reewild in het Vlaamse Gewest. Leden van de Commissie worden voor een termijn van drie jaar aangesteld door de minister. <br /><br />Voor ieder lid wordt op dezelfde wijze een plaatsvervanger aangewezen.<br /><br />De mandaten zijn persoonlijk.<br /><br />Het Agentschap is belast met het secretariaat van deze Commissie.<br /><br />De mandaten zijn verlengbaar. Als er een vacature uitgeschreven wordt, voor het mandaat afgelopen is voleindigt het nieuw benoemde lid het mandaat van zijn voorganger.
 
 ### ART. 4.
 
