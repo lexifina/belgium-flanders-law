@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018935,
+  "title": "Besluit van de Vlaamse Regering van 2010-01-22 houdende bekrachtiging van een aangepast Accreditatiekader en Toetsingskader van de Nederlands-Vlaamse Accreditatieorganisatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018935/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "83a7347ab0b348c6f4f599230e8337ff8dcf354cd4bd034c5ac22cafd00bfc4a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018935&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2010-01-22",
+  "gazette": "2010-04-16",
+  "numac": 2010035352,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
