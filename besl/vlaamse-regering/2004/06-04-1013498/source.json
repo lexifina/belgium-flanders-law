@@ -2,16 +2,16 @@
   "codex_id": 1013498,
   "title": "Besluit van de Vlaamse Regering van 2004-06-04 tot bepaling van de nadere regels voor het planologisch attest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013498/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "966aac313773f88f4fbacaf3498cf53e3c2d5b4656cba250f4e246229b43950d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013498/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "ea0df056c4b2e118e577baf13fc9f67056930375a4d403a6161cca0608ef762c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013498&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2009-09-01",
   "made": "2004-06-04",
   "gazette": "2004-10-29",
   "numac": 2004036584,
   "document_start": "2004-10-29",
   "document_end": "2013-07-31",
-  "in_force": "2006-07-01",
-  "article_versions": 22,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-09-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
