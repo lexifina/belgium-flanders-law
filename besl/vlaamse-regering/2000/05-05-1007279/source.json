@@ -2,16 +2,16 @@
   "codex_id": 1007279,
   "title": "Besluit van de Vlaamse Regering van 2000-05-05 betreffende de transactiesom inzake ruimtelijke ordening",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007279/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "5f7840497053fc508e93c2dc1e1f170d06821e11ff357aa36127e84d9e9d43d6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007279/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "3998aa137078e5bb431e8ac3535a97456fe0ed219473462d91857d541f7c4a6b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007279&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2009-09-01",
   "made": "2000-05-05",
   "gazette": "2000-05-20",
   "numac": 2000035500,
   "document_start": "2000-05-01",
   "document_end": "2009-08-31",
-  "in_force": "2006-07-01",
+  "in_force": "2009-09-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
