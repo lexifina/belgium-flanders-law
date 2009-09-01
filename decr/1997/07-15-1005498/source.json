@@ -2,16 +2,16 @@
   "codex_id": 1005498,
   "title": "Decreet van 1997-07-15 houdende de Vlaamse Wooncode",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005498/VolledigDocument?datum=2009-04-04",
-  "source_sha256": "7e24ebcd0ea2993c73a5142d2884df291956af344f1937bf31ecc67b6c2b781a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005498/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "680039d0d09d9e465e0a363093fc3681d6dcb3100934be32e5a03f33616b3e18",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005498&param=informatie",
-  "as_of": "2009-04-04",
+  "as_of": "2009-09-01",
   "made": "1997-07-15",
   "gazette": "1997-08-19",
   "numac": 1997036023,
   "document_start": null,
   "document_end": "2021-09-19",
-  "in_force": "2009-04-04",
+  "in_force": "2009-09-01",
   "article_versions": 118,
-  "record_form": "consolidated version as in force on 2009-04-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
