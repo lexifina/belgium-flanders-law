@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018251,
+  "title": "Besluit van de Vlaamse Regering van 2009-05-29 tot wijziging van het besluit van de Vlaamse Regering van 4 juni 2004 tot bepaling van de nadere regels inzake het planologisch attest",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018251/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "a308cabc66768fab56bd5316d62f9abcff1d78bcebc0ac999dc2d1f41badc7c1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018251&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2009-05-29",
+  "gazette": "2009-08-24",
+  "numac": 2009035768,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
