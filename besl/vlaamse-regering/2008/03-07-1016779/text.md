@@ -108,6 +108,10 @@ In artikel 30 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Re
 
 ## HOOFDSTUK VI Wijzigingen in het besluit van de Vlaamse Regering van 17 oktober 1988 tot aanwijzing van speciale beschermingszones in de zin van artikel 4 van de Richtlijn 79/409/E.E.G. van de Raad van de Europese Gemeenschappen van 2 april 1979 inzake het behoud van de vogelstand
 
+### ART. 24.
+
+In artikel 2 van het besluit van de Vlaamse Regering van 17 oktober 1988 tot aanwijzing van speciale beschermingszones in de zin van artikel 4 van de Richtlijn 79/409/E.E.G. van de Raad van de Europese Gemeenschappen van 2 april 1979 inzake het behoud van de vogelstand worden de woorden "Vlaamse Hoge Raad van Natuurbehoud" vervangen door de woorden "Milieu- en Natuurraad van Vlaanderen". <br /><br />
+
 ## HOOFDSTUK VII Wijzigingen in het besluit van de Vlaamse Regering van 23 maart 1989 houdende bepaling voor het Vlaamse Gewest van de categorieën van werken en handelingen, andere dan hinderlijke inrichtingen, waarvoor een milieueffectrapport is vereist voor de volledigheid van de aanvraag om bouwvergunning
 
 ### ART. 25.
@@ -1002,6 +1006,10 @@ In artikel 15 van hetzelfde besluit worden de volgende wijzigingen aangebracht :
 
 In artikel 17 van hetzelfde besluit worden de volgende wijzigingen aangebracht : <br />1° in § 2, § 3 en § 5 worden de woorden "afdelingshoofd van de afdeling" telkens vervangen door de woorden "hoofd van het Agentschap";<br />2° in § 3 en § 5, 3°, worden de woorden "de afdeling" telkens vervangen door de woorden "het Agentschap".<br /><br />
 
+### ART. 233.
+
+In artikel 22 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 2 februari 2007, worden de volgende wijzigingen aangebracht : <br />1° in § 2, punt 4° worden de woorden "Vlaamse Hoge Raad voor Natuurbehoud" vervangen door de woorden "Milieu- en Natuurraad van Vlaanderen";<br />2° in § 2, punt 6° worden de woorden "Vlaamse Hoge Bosraad" vervangen door de woorden "Milieu- en Natuurraad van Vlaanderen". <br /><br />
+
 ### ART. 234.
 
 In artikel 24, § 1 en § 3, en artikel 37, § 2, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 2 februari 2007, worden de woorden "de afdeling" telkens vervangen door de woorden "het Agentschap".<br /><br />
@@ -1059,6 +1067,10 @@ In artikel 1, § 2, van het besluit van de Vlaamse Regering van 8 december 1998 
 ### ART. 246.
 
 In artikel 4 van het besluit van de Vlaamse Regering van 8 december 1998 tot vaststelling van de regelen voor de voorlopige en definitieve erkenning van regionale landschappen worden de volgende wijzigingen aangebracht :<br />1° in § 4 worden de woorden "de afdeling Natuur" vervangen door de woorden "het Agentschap voor Natuur en Bos";<br />2° in § 4 worden de woorden "een afgevaardigde van de afdeling Bos en Groen" geschrapt;<br />3° in § 4 worden de woorden "afdeling Land van de administratie Milieu-, Natuur-, Land-, en Waterbeheer (departement LIN)" vervangen door de woorden "afdeling, bevoegd voor land en bodembescherming";<br />4° in § 5 worden de woorden "de afdeling Natuur" vervangen door de woorden "het Agentschap voor Natuur en Bos";<br />5° in § 5 worden de woorden "een afgevaardigde van de afdeling Bos en Groen" geschrapt.<br /><br />
+
+### ART. 247.
+
+In artikel 6, § 1, van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° de woorden "Gewestelijke MiNa-raad" worden vervangen door de woorden "Milieu- en Natuurraad van Vlaanderen";<br />2° de woorden "de Vlaamse Hoge Raad voor Natuurbehoud," worden geschrapt. <br /><br />
 
 ## HOOFDSTUK XLI Wijziging in het besluit van de Vlaamse Regering van 17 maart 2000 houdende vaststelling van het verwijderingsplan voor PCB-houdende apparaten en de daarin aanwezige PCB's
 
@@ -1380,6 +1392,10 @@ In artikel 7, 9, 10 en 14 van hetzelfde besluit worden de woorden "de provincial
 
 In artikel 8 van hetzelfde besluit wordt § 4 opgeheven.<br /><br />
 
+### ART. 315.
+
+In artikel 15, § 1, van hetzelfde besluit worden de woorden "De Vlaamse Hoge Bosraad" vervangen door de woorden "De Milieu- en Natuurraad van Vlaanderen". <br /><br />
+
 ## HOOFDSTUK LXXI Wijzigingen in het besluit van de Vlaamse Regering van 27 juni 2003 betreffende de erkenning en de subsidiëring van bosgroepen en de wijze waarop leden van het Bosbeheer kunnen meewerken in erkende bosgroepen
 
 ### ART. 316.
@@ -1401,6 +1417,18 @@ In artikel 3, 5, 7, 9, 10 en 21 van hetzelfde besluit worden de woorden "de prov
 ### ART. 320.
 
 In artikel 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 16, 18, 21, 25, 26, 28, 30, 31 en 32 van hetzelfde besluit worden de woorden "het Bosbeheer" telkens vervangen door de woorden "het Agentschap voor Natuur en Bos". <br /><br />
+
+### ART. 321.
+
+In artikel 5, 8, 9 en 13 van hetzelfde besluit worden de woorden "en de Vlaamse Hoge Raad voor het Natuurbehoud" geschrapt.<br /><br />
+
+### ART. 322.
+
+In artikel 5, 9 en 13 van hetzelfde besluit worden de woorden "en/of de Hoge Raad voor het Natuurbehoud" geschrapt.<br /><br />
+
+### ART. 323.
+
+In artikel 8, tweede lid, van hetzelfde besluit worden de woorden "De Raden geven hun advies" vervangen door de woorden "De Raad geeft zijn advies". <br /><br />
 
 ### ART. 324.
 
