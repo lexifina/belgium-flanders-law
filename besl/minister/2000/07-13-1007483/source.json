@@ -2,16 +2,16 @@
   "codex_id": 1007483,
   "title": "Ministerieel besluit van 2000-07-13 tot bepaling van de diploma's van een opleiding ruimtelijke ordening die voldoen om te kunnen worden aangesteld als ambtenaar van ruimtelijke ordening",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007483/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "2222af346da91d3bd1673ac087fa81439abb851a407cdf0a65ab9c8e0ba645c9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007483/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "7c2f866b4b2827ba37c432dc3253a1e77b1a0c436699ec36833b3c8e344b8077",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007483&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-09-01",
   "made": "2000-07-13",
   "gazette": "2000-07-28",
   "numac": 2000035735,
   "document_start": "2000-05-01",
   "document_end": "2009-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-09-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
