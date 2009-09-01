@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017782,
+  "title": "Decreet van 2009-03-20 betreffende de toelatingsvoorwaarden voor het gewoon lager onderwijs en de engagementsverklaring tussen de school en de ouders in het basis- en secundair onderwijs",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017782/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "af6c1f73ad345c23c38b5cdcfbe8d32147105635420ed60bbb5b120365215a56",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017782&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2009-03-20",
+  "gazette": "2009-04-09",
+  "numac": 2009201522,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
