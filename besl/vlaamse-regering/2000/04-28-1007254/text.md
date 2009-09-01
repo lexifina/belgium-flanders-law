@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-De ambtenaren van niveau A tot en met D van het agentschap Inspectie RWO van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed zijn bevoegd om de misdrijven, omschreven in titel V van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, op te sporen en vast te stellen. <br />
+De ambtenaren van niveau A tot en met D van het agentschap Inspectie RWO van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed zijn bevoegd om de misdrijven, omschreven in titel VI van de Vlaamse Codex Ruimtelijke Ordening, op te sporen en vast te stellen. <br />
 
 ### ART. 2.
 
