@@ -10,6 +10,10 @@
 
 ## Afdeling III. Deeltijds kunstonderwijs - gemeenschapsonderwijs
 
+### ART. 5.
+
+In het decreet van 4 juli 2008 betreffende de werkingsbudgetten in het secundair onderwijs en tot wijziging van het decreet basisonderwijs van 25 februari 1997 wat de werkingsbudgetten betreft wordt in artikel 20 het getal « 1.812.000 » vervangen door het getal « 1.820.000 ».
+
 ## Afdeling IV. Hogere Zeevaartschool
 
 ## Afdeling V. Stelsel van leren en werken
