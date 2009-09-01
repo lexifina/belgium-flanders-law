@@ -28,7 +28,7 @@ Bij een ambtshalve concordantie, zoals bepaald in artikel 56ter, § 1, van het d
 
 ### ART. 3.
 
-Voor de toepassing van dit besluit worden de ambtshalve concordanties opgesomd in de bijlagen I tot en met IV. <br /><br />
+Voor de toepassing van dit besluit worden de ambtshalve concordanties opgesomd in de bijlagen I tot en met VI. <br /><br />
 
 ### ART. 4.
 
@@ -68,4 +68,12 @@ In het gewoon basisonderwijs :<br />1° worden de wervingsambten van administrat
 
 ## BIJLAGE V
 
+### BIJLAGE V.
+
+...
+
 ## BIJLAGE VI
+
+### BIJLAGE 6
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/08_1.pdf#page=129" title=" Bijlage 6" target="_blank" class="pdf">Bijlage 6</a>
