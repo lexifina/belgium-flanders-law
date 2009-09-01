@@ -254,7 +254,7 @@ Artikel 53 treedt in werking op 1 juni 2004.
 
 ### ART. 55.
 
-De scholen die betrokken zijn bij de organisatie van het zonaal leerlingenvervoer georganiseerd krachtens de wet van 15 juli 1983 houdende oprichting van de Nationale Dienst voor Leerlingenvervoer, verlenen hun medewerking aan de organisatie van het collectief zonaal leerlingenvervoer.<br /><br />Zij stellen busbegeleiders aan en ontvangen hiervoor een toelage lastens de Vlaamse Gemeenschap. De Vlaamse Regering bepaalt het bedrag van deze toelage, de wijze van toekenning en de controlemaatregelen.
+De scholen die betrokken zijn bij de organisatie van het zonaal leerlingenvervoer georganiseerd krachtens de wet van 15 juli 1983 houdende oprichting van de Nationale Dienst voor Leerlingenvervoer, verlenen hun medewerking aan de organisatie van het collectief zonaal leerlingenvervoer.<br /><br />Zij stellen busbegeleiders aan en ontvangen hiervoor een toelage lastens de Vlaamse Gemeenschap. De Vlaamse Regering bepaalt het bedrag van deze toelage, de wijze van toekenning en de controlemaatregelen, en bepaalt de minimale loon- en arbeidsvoorwaarden voor de busbegeleiders.
 
 ### ART. 55bis.
 
