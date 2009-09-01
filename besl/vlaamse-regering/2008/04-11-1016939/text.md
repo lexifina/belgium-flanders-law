@@ -412,7 +412,7 @@ Categorie van gebiedsaanduiding 1: Wonen<br>
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:70.9pt">
-			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:184.3pt">
 			<p>typebepaling</p>
@@ -448,7 +448,7 @@ Categorie van gebiedsaanduiding 1: Wonen<br>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
 			<p><em>De woongebieden zijn multifunctionele gebieden waar verweving van functies het uitgangspunt is.</em></p>
 
-			<p><em>&nbsp;</em></p>
+			<p>&nbsp;</p>
 
 			<p><em>De woongebieden zijn naast het wonen ook bestemd voor openbare ruimtes (groene en verharde) en voor aan het wonen verwante voorzieningen. Het gaat om handel, horeca, bedrijven, openbare en private nutsvoorzieningen, kantoren en diensten, en socioculturele inrichtingen en recreatieve voorzieningen.</em></p>
 
@@ -466,7 +466,7 @@ Categorie van gebiedsaanduiding 1: Wonen<br>
 
 			<p><em>Openbare en private nuts- en gemeenschapsvoorzieningen: scholen, ziekenhuizen rusten verzorgingsinstellingen, gemeentehuis, elektriciteitscabines, tramhaltes en busstations, parkeerplaatsen, installaties voor waterzuivering ...</em></p>
 
-			<p><em>Socioculturele voorzieningen: cultureel centrum, gemeenschapscentrum, voorzieningen voor jeugdwerking, eredienstgebouw, bibliotheek, volkstuintjes ...</em></p>
+			<p><em>socioculturele voorzieningen: cultureel centrum, gemeenschapscentrum, voorzieningen voor jeugdwerking, eredienstgebouw, bibliotheek, volkstuintjes, .</em></p>
 
 			<p><em>Recreatieve voorzieningen: speelpleinen, zwembad, sportvelden, sport- en fitnesscentra.</em></p>
 			</td>
@@ -491,17 +491,19 @@ Categorie van gebiedsaanduiding 1: Wonen<br>
 			<p><em>- </em>de inpassing in de omgeving.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
-			<p><em>Wonen, openbare groene en verharde ruimten en aan wonen verwante activiteiten zijn evenwaardig of nevengeschikt. Activiteiten in het woongebied moeten beoordeeld worden op hun verenigbaarheid met hun omgeving wat schaal en ruimtelijke impact betreft (dit geldt dus voor alle toegelaten activiteiten, ook het wonen). De te beschouwen omgeving is afhankelijk van de voorgestelde ingreep. De beoordeling van de verenigbaarheid zal in de praktijk sterk verschillen. Voor werken met een beperkte ruimtelijke impact of een beperkte schaal zal de beoordeling beknopt blijven. Grote werken of werken met bijvoorbeeld een grote mobiliteitsimpact, waaronder ook de parkeerplaatsen, zullen uitgebreider moeten worden beoordeeld.</em></p>
+			<p><em>Wonen, openbare groene en verharde ruimten en aan wonen verwante activiteiten zijn evenwaardig of nevengeschikt. Activiteiten in het woongebied moeten beoordeeld worden op hun verenigbaarheid met hun omgeving wat schaal en ruimtelijke impact betreft (dit geldt dus voor alle toegelaten activiteiten, ook het wonen). De te beschouwen omgeving is afhankelijk van de voorgestelde ingreep. De beoordeling van de verenigbaarheid zal in de praktijk sterk verschillen. Voor werken met een beperkte ruimtelijke impact of een beperkte schaal zal de beoordeling beknopt blijven. Grote werken of werken met bijvoorbeeld een grote mobiliteitsimpact, waaronder ook de parkeerplaatsen, zullen uitgebreider moeten worden</em></p>
 
-			<p><em>&nbsp;</em></p>
+			<p><em>beoordeeld.</em></p>
+
+			<p>&nbsp;</p>
 
 			<p><em>Met inpassing in de omgeving wordt bedoeld de inplanting, het reliëf en de bodemgesteldheid, het bouwvolume en het uiterlijk, … van het project of gebouw.</em></p>
 
-			<p><em>&nbsp;</em></p>
+			<p>&nbsp;</p>
 
 			<p><em>De beoordeling gebeurt door de vergunningverlener. Het aanvraagdossier moet dus afhankelijk van de beoogde ingreep de nodige elementen bevatten om de beoordeling mogelijk te maken.</em></p>
 
-			<p><em>&nbsp;</em></p>
+			<p>&nbsp;</p>
 
 			<p><em>Er wordt gestreefd naar 25/15 wooneenheden per ha. Dit moet bekeken worden in grotere gehelen.</em></p>
 			</td>
@@ -511,26 +513,67 @@ Categorie van gebiedsaanduiding 1: Wonen<br>
 			<p>Gebiedsspecifieke typebepaling</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
-			<p>In dit gebied kan een verkavelingsvergunning voor woningbouw voor een totale oppervlakte van minstens een halve/driekwart hectare, pas afgeleverd worden indien minstens een vierde/de helft van de loten een kleine of middelgrote oppervlakte heeft en de verkavelingsvoorschriften bepalen dat op die loten een woning kan worden opgericht met een klein of middelgroot volume. Van het aandeel kleine en middelgrote loten of woningen bestaat minstens de helft uit kleine loten of woningen. Onder een kleine kavel wordt verstaan een kavel van maximum 500 m². Onder een middelgrote kavel wordt verstaan een kavel van maximaal 750 m². Onder een kleine woning wordt verstaan een woning met een maximaal bouwvolume van 550 m³. Onder een middelgrote woning wordt verstaan een woning met een maximaal bouwvolume van 650 m³. Indien de verkavelingsvergunning voorziet in oprichting van één of meer gebouwen met verschillende woongelegenheden, of in de oprichting an aaneengesloten woningen met gemeenschappelijke buitenruimte, wordt voor de toepassing van deze bepaling het aandeel van elke woongelegenheid in de grondoppervlakte als kavel beschouwd.</p>
-
-			<p>&nbsp;</p>
-
-			<p>Een stedenbouwkundige vergunning voor de gegroepeerde bouw van woningen op een totale terreinoppervlakte van minstens een halve/driekwart hectare, kan pas worden afgeleverd indien minstens een vierde/de helft van de woongelegenheden kleine of middelgrote woningen zijn. Van het aandeel kleine en middelgrote woningen bestaat minstens de helft uit kleine woningen.</p>
-
-			<p>&nbsp;</p>
-
-			<p>Indien een eigenaar of ontwikkelaar in het gebied meer dan een halve/driekwart hectare aaneengesloten gronden bezit of kan ontwikkelen, maar het verkavelen of bebouwen van de betrokken gronden faseert en daarvoor opeenvolgende aanvragen voor een verkavelingsvergunning of stedenbouwkundige vergunning indient, waarbij één of meer aanvragen een oppervlakte beslaan van minder dan een halve/driekwart hectare, dan gelden niettemin de verplichtingen van het eerste en tweede lid, met dien verstande dat de opeenvolgende ontwikkelingsfasen voor de toepassing van die verplichtingen als één geheel worden beschouwd.</p>
+			<p>...</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
-			<p><em>Dit voorschrift is gericht op differentiatie van woningtypologieën en op het creëren van een aanbod dat beantwoordt aan de behoeften van diverse maatschappelijke groepen. Het legt op om een minimumpercentage van kleinere of middelgrote kavels of woningen te realiseren. Onder andere vanuit het proportionaliteitsbeginsel worden daarbij projecten vanaf een bepaalde omvang beoogd.</em></p>
+			<p><em>...</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:70.9pt">
+			<p>Gebiedsspecifieke typebepaling</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<p>In dit gebied kan een vergunning voor:</p>
 
-			<p><em>&nbsp;</em></p>
+			<p>1° verkavelingen van ten minste tien loten bestemd voor woningbouw, of met een grondoppervlakte groter dan een halve hectare, ongeacht het aantal loten;</p>
 
-			<p><em>De laatste alinea van het voorschrift heeft tot doel te vermijden dat door fasering of opsplitsing van de ontwikkeling niet meer zou moeten worden voldaan aan de verplichtingen van de eerste alinea’s, terwijl de gezamenlijke oppervlakte van de gronden die verkaveld of bebouwd worden, wel groter is dan een halve/driekwart hectare. De ontwikkelingsfasen worden als één geheel beschouwd, en de normen worden op het geheel toegepast. Concreet betekent dit dat als in een eerste ontwikkelingsfase het beoogde aandeel kleine of middelgrote woningen niet gehaald wordt, dit zal moeten worden gecompenseerd in een latere ontwikkelingsfase. Omgekeerd kan de eigenaar of ontwikkelaar die in een eerste ontwikkelingsfase een groter aandeel kleine of middelgrote woningen heeft gerealiseerd, in een latere fase minder dergelijke woningen realiseren, zolang het beoogde aandeel, gerekend voor alle ontwikkelingsfasen, gehaald wordt. Het is uiteraard nuttig en wenselijk dat de aanvrager van een verkavelingvergunning of stedenbouwkundige vergunningen die meer dan een halve/driekwart hectare gronden bezit of plant te ontwikkelen, maar dat gefaseerd doet, bij het indienen van een aanvraagdossier aangeeft welke gronden hij in het gebied bezit of plant te ontwikkelen, en hoe hij meent voor het geheel te zullen voldoen aan de gestelde normen.</em></p>
+			<p>2° groepswoningbouwprojecten waarbij ten minste tien woongelegenheden ontwikkeld worden;</p>
 
-			<p><em>&nbsp;</em></p>
+			<p>3° de bouw of de herbouw van appartementen gecreëerd worden;</p>
 
-			<p><em>Onder het bouwvolume wordt het bruto-bouwvolume verstaan, gemeten met inbegrip van buitenmuren en dak, te vertrekken van het maaiveld. Het deel van het keldervolume onder het maaiveld wordt dus niet meegerekend, op voorwaarde dat het een gebruikelijke onderkeldering van het woongebouw betreft.</em></p>
+			<p>4° verkavelingen, groepswoningbouwprojecten en projecten voor de bouw of de herbouw van appartementsgebouwen die niet voldoen aan de voorwaarden, vermeld in 1°, 2° of 3°, en waarvoor een verkavelingsvergunning of een stedenbouwkundige vergunning wordt aangevraagd door een verkavelaar of een bouwheer wiens project aansluit op andere, door dezelfde verkavelaar of bouwheer te ontwikkelen gronden, die samen met de gronden waarop de aanvraag betrekking heeft, een oppervlakte van meer dan een halve hectare beslaan;</p>
+
+			<p>pas afgeleverd worden indien binnen het verkavelingsof bouwproject een bescheiden woonaanbod wordt verwezenlijkt van x procent.</p>
+
+			<p>&nbsp;</p>
+
+			<p>Opmerking. Gewestelijke ruimtelijke uitvoeringsplannen die een woongebied creëren met een oppervlakte van ten minste een halve hectare, ongeacht eventuele andere bestemmingswijzigingen, bepalen steeds een percentage bescheiden wonen dat gelijk is aan veertig procent. Dat procentueel objectief kan ten hoogste worden verminderd tot tien procent, in zoverre dat wordt gemotiveerd vanuit het bestaande en geplande bescheiden en sociaal woonaanbod, de sociale contextfactoren en de ruimtelijke karakteristieken van het geordende woongebied.</p>
+
+			<p>&nbsp;</p>
+
+			<p>Het procentueel objectief kan enkel verder worden verlaagd tot nul procent vanaf de bekendmaking van een gemeentelijk bericht waaruit blijkt dat het bindend sociaal objectief verwezenlijkt is. Het bindend sociaal objectief is de gemeentelijke omschrijving van het sociaal woonaanbod dat binnen de tijdshorizon van het Ruimtelijk Structuurplan Vlaanderen tenminste moet worden verwezenlijkt. (Artikel 4.1.2 DGPB). De bekendmaking van het gemeentelijk bericht geschiedt op de wijze, vermeld in artikel 186 van het Gemeentedecreet van 15 juli 2005.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
+			<p><em>Dit voorschrift is gericht op een differentiatie van woningtypologieën en op het creëren van een aanbod dat beantwoordt aan de behoeften van diverse maatschappelijke groepen. Het legt op om een bepaald percentage “bescheiden wonen” te creëren. Onder andere vanuit het proportionaliteitsbeginsel worden daarbij projecten vanaf een bepaalde omvang beoogd.</em></p>
+
+			<p>&nbsp;</p>
+
+			<p><em>Het voorschrift is een vertaling van de principes die zijn opgenomen in artikel 4.2.4 van het decreet betreffende het grond- en pandenbeleid (DGPB).</em></p>
+
+			<p>&nbsp;</p>
+
+			<p><em>Om die reden moeten de gehanteerde begrippen gelezen worden in de zin die het DGPB daaraan geeft.</em></p>
+
+			<p>&nbsp;</p>
+
+			<p><em>Onder bescheiden woonaanbod moet worden begrepen: het aanbod aan kavels en woningen, met uitsluiting van het sociaal woonaanbod, dat bestaat uit kavels met een oppervlakte van ten hoogste 500 m<sup>2</sup>, woonhuizen met een bouwvolume van ten hoogste 550 bouwvolume van ten hoogste 240 m<sup>3</sup>. Het ruimtelijk uitvoeringsplan kan deze maximale oppervlakte- en volumenormen verder beperken.</em></p>
+
+			<p>&nbsp;</p>
+
+			<p><em>Ingevolge het DGPB kan de gebiedsspecifieke typebepaling worden opgelegd door middel van elk ruimtelijk uitvoeringsplan.</em></p>
+
+			<p>&nbsp;</p>
+
+			<p><em>Het DGPB bepaalt dat een welomschreven percentage (zie de “opmerking” in de linkerkolom) moet worden opgelegd via gewestelijke ruimtelijke uitvoeringsplannen die een bestemmingswijziging naar woongebied doorvoeren, voor zover het door middel van het plan gecreëerde woongebied een oppervlakte heeft van ten minste een halve hectare, ongeacht eventuele andere bestemmingswijzigingen. Informatief kan worden gesteld dat dezelfde verplichting (met dezelfde modaliteiten) geldt in hoofde van provinciale en gemeentelijke ruimtelijke uitvoeringsplannen, voor zover er sprake is van een omzetting van woonuitbreidingsgebied of woonreservegebied, of van een zone die geordend wordt door een ruimtelijk uitvoeringsplan en sorteert onder de categorie van gebiedsaanduiding “landbouw”, “bos”, “overig groen” of “reservaat en natuur”, of geordend wordt door een plan van aanleg en aangewezen is als landelijk gebied overeenkomstig het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de voor de provinciale en gemeentelijke ruimtelijke uitvoeringsplannen geldt de voorwaarde dat het door middel van het plan gecreëerde woongebied een oppervlakte heeft van ten minste een halve hectare, ongeacht eventuele andere bestemmingswijzigingen. </em></p>
+
+			<p>&nbsp;</p>
+
+			<p><em>De openbare besturen, vermeld in artikel 4.2.5, § 2, 1° en 2°, van het DGPB kunnen steeds hogere normen nastreven dan deze die middels ruimtelijke uitvoeringsplannen en plannen van aanleg worden opgelegd, ook indien zij daar niet toe zijn verplicht.</em></p>
+
+			<p>&nbsp;</p>
+
+			<p><em>Nota bene. Artikel 4.2.1 - 4.2.3 van het DGPB regelen de wijze waarop verkavelings- en bouwprojecten buiten de gevallen als vermeld in deze gebiedsspecifieke typebepaling kunnen of moeten worden onderworpen aan lasten met het oog op de verwezenlijking van een sociaal woonaanbod.</em></p>
 			</td>
 		</tr>
 		<tr>
@@ -543,7 +586,7 @@ Categorie van gebiedsaanduiding 1: Wonen<br>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:184.3pt">
 			<p><em>Overgangsmaatregel voor landbouw met bedrijfsgebouw in het gebied. Onder landbouw wordt verstaan, landbouw in de ruime zin van het woord, namelijk het beroepsmatig kweken van planten of dieren voor de markt en niet voor recreatieve doeleinden. Daaronder vallen veeteelt, planten- en bomenkwekerijen, akkerbouw …</em></p>
 
-			<p><em>&nbsp;</em></p>
+			<p>&nbsp;</p>
 
 			<p><em>Het gaat om een overgangsmaatregel, bestaande bedrijven kunnen overgenomen worden door een andere rechtspersoon zonder het statuut bestaand te verliezen op voorwaarde dat de activiteit dezelfde of gelijkaardig blijft.</em></p>
 			</td>
