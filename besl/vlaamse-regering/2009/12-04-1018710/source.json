@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018710,
+  "title": "Besluit van de Vlaamse Regering van 2009-12-04 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de facilitaire ondersteuning van de kabinetten door de Vlaamse administratie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018710/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "3b14d5f6bfc6c0c365bbb50c7c6361d6ca7b7f89b41d3a31809bccfe871fc380",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018710&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2009-12-04",
+  "gazette": "2010-01-21",
+  "numac": 2010035035,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
