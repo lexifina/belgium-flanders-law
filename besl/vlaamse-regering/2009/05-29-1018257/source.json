@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018257,
+  "title": "Besluit van de Vlaamse Regering van 2009-05-29 tot wijziging van het besluit van de Vlaamse Regering van 23 mei 2003 tot bepaling van de werken en handelingen die vrijgesteld zijn van de medewerking van de architect",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018257/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "1dc3245a098089b9fef719eb5ee53e06b508d685514ca85c517b455282dd61dc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018257&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2009-05-29",
+  "gazette": "2009-08-25",
+  "numac": 2009035775,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
