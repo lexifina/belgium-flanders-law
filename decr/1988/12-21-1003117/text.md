@@ -199,7 +199,7 @@ Het agentschap vervult deze taak onder meer door :<br>
 
 ### ART. 11.
 
-Onverminderd de wetgeving op de ruilverkaveling, wordt voor de toepassing van dit decreet onder landinrichting verstaan het bevorderen, voorbereiden, integreren en begeleiden van maatregelen, handelingen en werken die uitgaan van de bevoegde overheden en gericht zijn op het vrijwaren, herwaarderen, en het meer geschikt maken van in artikel 12 opgesomde gebieden conform de bestemmingen toegekend door de wetgeving op de ruimtelijke ordening en de stedebouw.
+Onverminderd de wetgeving op de ruilverkaveling, wordt voor de toepassing van dit decreet onder landinrichting verstaan het bevorderen, voorbereiden, integreren en begeleiden van maatregelen, handelingen en werken die uitgaan van de bevoegde overheden en gericht zijn op het vrijwaren, herwaarderen, en het meer geschikt maken van in artikel 12 opgesomde gebieden conform de bestemmingen toegekend door de wetgeving op de ruimtelijke ordening en de stedebouw.<br /><br />De landinrichting wordt daarenboven ingezet voor de coördinatie van de inrichting en de projectsgewijze integrale inrichting van gebieden in uitvoering van de ruimtelijke ordening.
 
 ### ART. 12.
 
