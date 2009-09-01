@@ -2,16 +2,16 @@
   "codex_id": 1006504,
   "title": "Besluit van de Vlaamse Regering van 1998-12-08 tot vaststelling van de regelen voor de voorlopige en definitieve erkenning van regionale landschappen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006504/VolledigDocument?datum=2008-05-21",
-  "source_sha256": "8f9ed318a195ed9dfc81df2c4021e372320f96a37ac4689a75771a48fbbbb587",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006504/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "d4b85e15993b3f457d56d06e3b3ca139e6605033d30cd3f530ba157c0dae5bc6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006504&param=informatie",
-  "as_of": "2008-05-21",
+  "as_of": "2009-09-01",
   "made": "1998-12-08",
   "gazette": "1999-02-12",
   "numac": 1999035127,
   "document_start": "1998-01-20",
   "document_end": "2014-10-24",
-  "in_force": "2008-05-21",
+  "in_force": "2009-09-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
