@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019629,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-24 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 6 maart 2009 betreffende vorming voor directeurs van de onderwijsinstellingen en centra voor leerlingenbegeleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019629/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "c4e3cc3c3f9f4e444e72b9f5270145d5cc881e33b94b7fc4eb5f1f97cd77f5b2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019629&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2010-09-24",
+  "gazette": "2010-10-28",
+  "numac": 2010205559,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
