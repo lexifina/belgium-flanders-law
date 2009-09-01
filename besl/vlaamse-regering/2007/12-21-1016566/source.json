@@ -2,16 +2,16 @@
   "codex_id": 1016566,
   "title": "Besluit van de Vlaamse Regering van 2007-12-21 betreffende de studiegebieden en structuuronderdelen in het voltijds secundair onderwijs [...]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016566/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "ef35e0ca50e950fccdc30d36285f0b956121a963c3d4c5f5c060c632f5721952",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016566/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "5d1ebdedceb037b6e8cdc7b9ef99107c18c010f739dc85e6401677b1f92f20ec",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016566&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2009-09-01",
   "made": "2007-12-21",
   "gazette": "2008-02-05",
   "numac": 2008035154,
   "document_start": "2007-09-01",
   "document_end": "2019-08-31",
-  "in_force": "2009-01-01",
-  "article_versions": 42,
-  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-09-01",
+  "article_versions": 45,
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
