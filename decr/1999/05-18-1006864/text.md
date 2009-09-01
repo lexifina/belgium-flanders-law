@@ -96,7 +96,19 @@ Voor het personeelslid dat vast benoemd is in uitvoering van dit artikel, kan va
 
 ### ART. 173.
 
-§ 1. De bepalingen van dit artikel zijn van toepassing op de personeelsleden die behoren tot het gefinancierd of gesubsidieerd onderwijs of tot de gefinancierde of gesubsidieerde psycho-medisch-sociale centra en die als dusdanig een wedde of weddetoelage ontvangen van het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap.<br /><br />De personeelsleden, bedoeld in het eerste lid, op wie door de Vlaamse minister bevoegd voor het onderwijs of zijn gemachtigde een beroep wordt gedaan om een opdracht uit te oefenen bij het departement Onderwijs in een tijdelijk project, bij de Dienst voor Onderwijsontwikkeling, bij de Dienst Beroepsopleiding, bij het tijdschrift Klasse of in een examencommissie, bekomen voor de duur van hun opdracht een toelage, met dien verstande dat het jaarlijks bedrag als volgt wordt vastgesteld:<br /><br />Personeelsleden houder van tenminste een diploma van een basisopleiding:<br /><br />van twee cycli 137.270 fr.;<br /><br />andere 96.089 fr.<br /><br />§ 2. De toelage bedoeld in § 1 wordt maandelijks na vervallen termijn uitbetaald. De maandtoelage is gelijk aan 1/12 van het jaarlijks bedrag. Wanneer de maandtoelage niet volledig verschuldigd is, wordt zij uitbetaald in werkdagen, overeenkomstig de regel bepaald in de salarisregeling van het personeel van het ministerie van de Vlaamse Gemeenschap.<br /><br />§ 3. De in §§ 1 en 2 bepaalde toelagen worden gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen, overeenkomstig de voorwaarden vastgesteld door de wet van 2 augustus 1971 houdende inrichting van een stelsel tot koppeling aan het indexcijfer van de consumptieprijzen.<br /><br />§ 4. Inzake de toekenning van de vergoedingen voor reiskosten en de verlofregeling, zijn op deze personeelsleden de bepalingen van het ministerie van de Vlaamse Gemeenschap van toepassing.
+§ 1. De bepalingen van dit artikel zijn van toepassing op de personeelsleden die behoren tot het gefinancierd of gesubsidieerd onderwijs of tot de gefinancierde of gesubsidieerde psycho-medisch-sociale centra en die als dusdanig een wedde of weddetoelage ontvangen van het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap.<br>
+<br>
+De personeelsleden, bedoeld in het eerste lid, op wie door de Vlaamse minister bevoegd voor het onderwijs of zijn gemachtigde een beroep wordt gedaan om een opdracht uit te oefenen bij het departement Onderwijs in een tijdelijk project, bij de Dienst voor Onderwijsontwikkeling, bij de Dienst Beroepsopleiding, bij het tijdschrift Klasse of in een examencommissie, evenals de personeelsleden aan wie door de Vlaamse minister, bevoegd voor het onderwijs, een verlof wegens bijzonder opdracht is verleend in het kader van een opdracht in de internationale school Ferney-Voltaire bekomen voor de duur van hun opdracht een toelage, met dien verstande dat het jaarlijks bedrag als volgt wordt vastgesteld:<br>
+<br>
+Personeelsleden houder van tenminste een diploma van een basisopleiding:<br>
+- van twee cycli 137.270 fr.;<br>
+- andere 96.089 fr.<br>
+<br>
+§ 2. De toelage bedoeld in § 1 wordt maandelijks na vervallen termijn uitbetaald. De maandtoelage is gelijk aan 1/12 van het jaarlijks bedrag. Wanneer de maandtoelage niet volledig verschuldigd is, wordt zij uitbetaald in werkdagen, overeenkomstig de regel bepaald in de salarisregeling van het personeel van het ministerie van de Vlaamse Gemeenschap.<br>
+<br>
+§ 3. De in §§ 1 en 2 bepaalde toelagen worden gekoppeld aan de schommelingen van het indexcijfer van de consumptieprijzen, overeenkomstig de voorwaarden vastgesteld door de wet van 2 augustus 1971 houdende inrichting van een stelsel tot koppeling aan het indexcijfer van de consumptieprijzen.<br>
+<br>
+§ 4. Inzake de toekenning van de vergoedingen voor reiskosten en de verlofregeling, zijn op deze personeelsleden de bepalingen van het ministerie van de Vlaamse Gemeenschap van toepassing.
 
 ### ART. 174.
 
