@@ -2,16 +2,16 @@
   "codex_id": 1018247,
   "title": "Besluit van de Vlaamse Regering van 2009-07-03 tot wijziging van het besluit van de Vlaamse Regering van 22 mei 1991 omtrent de evaluatie, maatregelen van orde en tucht in het gemeenschapsonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018247/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "fe57972aec1c7ef6e22187e5729fbd9e24bb2b44b18a5e25e4e64dc2842f890d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018247/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "a7338646fc22625f523014ebab99a04831de8cd0ed7ecb6e173a87030cfcaf8b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018247&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2009-09-01",
   "made": "2009-07-03",
   "gazette": "2009-08-21",
   "numac": 2009203686,
   "document_start": "2008-09-01",
   "document_end": null,
-  "in_force": "2009-01-01",
-  "article_versions": 17,
-  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-09-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
