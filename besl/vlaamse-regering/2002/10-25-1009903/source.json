@@ -2,16 +2,16 @@
   "codex_id": 1009903,
   "title": "Besluit van de Vlaamse Regering van 2002-10-25 houdende maatregelen betreffende het prestatiestelsel, het jaarlijks vakantieverlof, sommige administratieve standen en de bezoldigingsregeling van het ondersteunend personeel tewerkgesteld in het [gewoon en buitengewoon] secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009903/VolledigDocument?datum=2006-09-01",
-  "source_sha256": "31910c93cfb9699c713fcb1b0057414543bfba6fc7ea287a9cec6288aa89b571",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009903/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "a02e8ab827b43618a0e4b585569636bcb235e685a60377857fedb783387daa74",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009903&param=informatie",
-  "as_of": "2006-09-01",
+  "as_of": "2009-09-01",
   "made": "2002-10-25",
   "gazette": "2002-11-29",
   "numac": 2002036475,
   "document_start": "1998-09-01",
   "document_end": null,
-  "in_force": "2006-09-01",
+  "in_force": "2009-09-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }

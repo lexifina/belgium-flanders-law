@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de leden van het ondersteunend personeel die werken in het gewoon en buitengewoon secundair onderwijs, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap, en die onderworpen zijn aan:<br />1° het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br />2° het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde psycho-medisch-sociale centra.
+Dit besluit is van toepassing op de leden van het ondersteunend personeel die werken in het gewoon en buitengewoon secundair onderwijs, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap, en die onderworpen zijn aan:<br />1° het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br />2° het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde psycho-medisch-sociale centra.<br /><br />De ambten die de leden van het ondersteunend personeel kunnen uitoefenen bestaan uit de volgende wervingsambten : <br />1° administratief medewerker;<br />2° opvoeder.
 
 ## HOOFDSTUK I PRESTATIESTELSEL
 
