@@ -12,6 +12,10 @@ In hetzelfde decreet wordt artikel 75, gewijzigd bij het decreet van 13   juli 2
 
 ## Afdeling II Opheffingen
 
+### ART. II.22.
+
+Het besluit van de Vlaamse Regering van 14 juli 1998 betreffende het   tijdelijke project onderwijsvoorrang in het basisonderwijs, gewijzigd bij het   besluit van de Vlaamse Regering van 19 juli 2002 en bekrachtigd bij het decreet   betreffende de organisatie van tijdelijke projecten in het onderwijs van 9   december 2005, wordt opgeheven.<BR>
+
 ### ART. II.23.
 
 Het besluit van de Vlaamse Regering van 19 januari 1999 betreffende de   toekenning van extra lestijden voor scholen van het basisonderwijs in de rand-   en taalgrensgemeenten, gewijzigd bij het besluit van de Vlaamse Regering van 4   mei 2001 en bekrachtigd bij het decreet betreffende de organisatie van   tijdelijke projecten in het onder- wijs van 9 december 2005, wordt   opgeheven.<BR>
