@@ -16,6 +16,10 @@ Binnen de groep van personen die een aanvraag voor een PAB hebben ingediend voor
 
 Binnen de groep van personen vermeld in artikel 1, komen de personen die in de periode van 31 december 2005 tot en met 31 december 2007 of, op 1 januari 2009 al gedurende minstens twee jaar, ononderbroken opgevangen werden in een centrum voor observatie, oriëntering en medische, psychologische en pedagogische behandeling, een internaat, een semi-internaat voor schoolgaanden, een tehuis voor werkenden, of een tehuis voor niet werkenden of begeleid worden door een dienst voor zelfstandig wonen of beschermd wonen die door het agentschap zijn erkend het eerst in aanmerking voor de toekenning van een PAB.<br /><br />Het agentschap kent de overige toe te kennen PAB's toe aan personen die hun aanvraag indienden voor 1 januari 2008 en houdt hierbij rekening met de datum van de aanvraag, in die zin dat de oudste aanvragen het eerst in aanmerking komen voor toekenning van een PAB.<br /><br />
 
+### ART. 4.
+
+Gedurende de eerste twaalf maanden van de effectieve aanwending van het PAB wordt de budgethoogte beperkt tot 80 % van het door de deskundigencommissie, vermeld in artikel 20 van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap, toegekende budget.<br /><br />Het eerste lid is niet van toepassing op overeenkomstig artikel 8bis van hetzelfde besluit toegekende persoonlijke-assistentiebudgetten.<br /><br />
+
 ### ART. 5.
 
 Dit besluit heeft uitwerking met ingang van 1 januari 2009, met uitzondering van artikel 4 dat uitwerking heeft met ingang van 1 september 2009.<br /><br />
