@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018250,
+  "title": "Besluit van de Vlaamse Regering van 2009-05-29 tot wijziging van het besluit van de Vlaamse Regering van 28 november 2003 tot bepaling van de toelaatbare functiewijzigingen voor gebouwen, gelegen buiten de geëigende bestemmingszone",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018250/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "136308fec1c9caa24e0529c8ca9b111d755e111db09393089342da4b0258f931",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018250&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2009-05-29",
+  "gazette": "2009-08-24",
+  "numac": 2009035766,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
