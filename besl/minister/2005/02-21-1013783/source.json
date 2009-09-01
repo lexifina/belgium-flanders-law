@@ -2,16 +2,16 @@
   "codex_id": 1013783,
   "title": "Ministerieel besluit van 2005-02-21 houdende de bepaling van de vorm van de beslissingen inzake aanvragen van een stedenbouwkundige vergunning volgens het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013783/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "4f8e4f12b283a57d7b681ae452b2e3656749cf4c2ea9a7efab1664a6bc4ad781",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013783/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "1af6d29ffb93b883493d5e585813fa181078672deaf99388191e6139506ee556",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013783&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-09-01",
   "made": "2005-02-21",
   "gazette": "2005-05-13",
   "numac": 2005035524,
   "document_start": null,
   "document_end": "2009-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-09-01",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
