@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017785,
+  "title": "Besluit van de Vlaamse Regering van 2009-03-06 tot tijdelijke erkenning van de opleiding bachelor in de vroedkunde van de Artesis Hogeschool Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017785/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "1208dd9e86bc25a23a550a02d8e7f47a00049ae1b06a076108aebbd8ab8a4431",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017785&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2009-03-06",
+  "gazette": "2009-04-09",
+  "numac": 2009035297,
+  "document_start": "2009-09-01",
+  "document_end": "2016-12-31",
+  "in_force": "2009-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
