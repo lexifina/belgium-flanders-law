@@ -98,7 +98,7 @@ In afwijking van artikel 10, 11 en 15, § 1, behouden de vastbenoemde personeels
 
 ### ART. 21.
 
-De bekwaamheidsbewijzen en salarisschalen, vermeld in bijlage I en II, die bij dit besluit zijn gevoegd, treden in werking op 1 september 2008, met uitzondering van de bekwaamheidsbewijzen, gevolgd door code 1, die uitwerking hebben met ingang van 1 september 2005, met de beperking evenwel dat hieruit voor de periode van 1 september 2005 tot en met 31 augustus 2008 geen gevolgen kunnen voortvloeien voor de personeelsleden en de inrichtende machten met betrekking tot bezoldiging en terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling, en de bekwaamheidsbewijzen, gevolgd door code 2, die uitwerking hebben met ingang van 1 september 2001, met de beperking evenwel dat hieruit voor de periode van 1 september 2001 tot en met 31 augustus 2008 geen gevolgen kunnen voortvloeien voor de personeelsleden en de inrichtende machten met betrekking tot bezoldiging en terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling.
+De bekwaamheidsbewijzen en salarisschalen, vermeld in bijlage I en II, die bij dit besluit zijn gevoegd, treden in werking op 1 september 2009.
 
 ## AFDELING 3 INWERKINGTREDINGS- EN UITVOERINGSBEPALING
 
@@ -112,10 +112,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE I.
 
-<br>
-<a href="http://www.ejustice.just.fgov.be/mopdf/2008/11/28_2.pdf#page=83" target="_blank">bijlage I</a><br>
-<br>
-&nbsp;
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/08/25_1.pdf#page=68" title=" bijlage I" target="_blank" class="pdf">bijlage I</a> <br />
 
 ### BIJLAGE II.
 
