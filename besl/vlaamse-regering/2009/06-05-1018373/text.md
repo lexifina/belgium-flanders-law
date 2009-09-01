@@ -1,0 +1,9 @@
+# Besluit van de Vlaamse Regering van 2009-06-05 tot wijziging van het besluit van de Vlaamse Regering van 17 november 1993 tot bepaling van de algemene voorschriften inzake instandhouding en onderhoud van monumenten en stads- en dorpsgezichten en van het besluit van de Vlaamse Regering van 14 mei 2004 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Vlaams Instituut voor het Onroerend Erfgoed
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op artikel 20 en artikel 87, § 1, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br /><br />Gelet op artikel 46 van de gewone wet van 9 augustus 1980 tot hervorming der instellingen; <br /><br />Gelet op artikel 11 van het decreet van 3 maart 1976 tot bescherming van monumenten, stads- en dorpsgezichten;<br /><br />Gelet op het besluit van de Vlaamse Regering van 17 november 1993 tot bepaling van de algemene voorschriften inzake instandhouding en onderhoud van monumenten en stads- en dorpsgezichten;<br /><br />Gelet op het akkoord, verleend door de Vlaamse minister, bevoegd voor de Begroting, op 23 april 2009;<br /><br />Gelet op het advies 46.549/3 van de Raad van State, gegeven op 19 mei 2009, met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;<br /><br />Op voorstel van de Vlaamse minister van Financiën en Begroting en Ruimtelijke Ordening;<br /><br />Na beraadslaging,<br /><br />Besluit :
+
+### ART. 8.
+
+In artikel 3, tweede lid, van het besluit van de Vlaamse Regering van 14 mei 2004 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Vlaams Instituut voor het Onroerend Erfgoed, toegevoegd bij besluit van de Vlaamse Regering van 23 juni 2006, worden de woorden "de Vlaamse minister, bevoegd voor de Monumenten en Landschappen," vervangen door de woorden "het hoofd van het Vlaams Instituut voor het Onroerend Erfgoed".
