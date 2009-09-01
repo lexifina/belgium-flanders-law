@@ -52,7 +52,7 @@ De volgende diensten kunnen niet erkend worden als nuttige ervaring voor een bek
 
 ### ART. 11.
 
-De bevoegde administratie onderzoekt of de toegezonden documenten in overeenstemming zijn met de bepalingen van dit besluit.<br /><br />In dat geval worden de documenten onverwijld voorgelegd aan de onderwijsinspectie opgericht bij het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten.
+De bevoegde administratie onderzoekt of de toegezonden documenten in overeenstemming zijn met de bepalingen van dit besluit.<br /><br />In dat geval worden de documenten onverwijld voorgelegd aan de onderwijsinspectie opgericht bij het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.
 
 ### ART. 12.
 
