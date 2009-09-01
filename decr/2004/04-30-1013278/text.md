@@ -369,17 +369,17 @@ Studenten die een studieperiode in het buitenland doorbrengen kunnen in aanmerki
 
 ### ART. 79.
 
-§ 1. Om de mobiliteitstoelage te berekenen, worden de studenten ingedeeld in vier categorieën. Deze categorieën worden als volgt samengesteld:<br /><br />1° categorie 1 bestaat uit studenten die krachtens titel II studiefinancieringgerechtigd zijn en de bijna-beursstudenten krachtens het structuurdecreet;<br /><br />2° categorie 2 bestaat uit studenten die niet behoren tot categorie 1 van wie het referentie-inkomen lager ligt dan: de maximuminkomensgrens, bepaald in artikel 32, vermeerderd met een bedrag dat jaarlijks wordt bepaald;<br /><br />3° categorie 3 bestaat uit studenten die niet behoren tot categorie 1 en 2 en van wie het referentie-inkomen lager ligt dan: de maximuminkomensgrens, bepaald in artikel 32 vermeerderd met een bedrag dat jaarlijks wordt bepaald;<br /><br />4° categorie 4 bestaat uit studenten die niet vallen onder één van de voornoemde drie categorieën.<br /><br />§ 2. De administratie bepaalt jaarlijks op basis van het advies van de in artikel 80 bedoelde adviescommissie de mobili-teitstoelage per categorie.
+§ 1. Om de mobiliteitstoelage te berekenen, worden de studenten ingedeeld in twee categorieën. Deze categorieën worden als volgt samengesteld : <br />1° categorie 1 bestaat uit :<br />- studenten die beantwoorden aan de financiële voorwaarden die gelden om in aanmerking te komen voor een studietoelage, bepaald in titel IV van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap;<br />- studenten van wie het referentie-inkomen lager is dan de toepasselijke maximuminkomensgrens, gehanteerd in het kader van de toepassing van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, doch vermeerderd met een bedrag dat jaarlijks door de Vlaamse Regering wordt bepaald;<br />2° categorie 2 bestaat uit studenten die niet behoren tot categorie 1.<br /><br />§ 2. De Vlaamse Regering bepaalt jaarlijks de mobiliteitstoelage per categorie op advies van het in artikel 5, § 2, van het besluit van de Vlaamse Regering van 21 maart 2008 tot oprichting van de overlegorganen die bijdragen tot een optimale deelname van de Vlaamse Gemeenschap aan het Europees actieprogramma Een Leven Lang Leren bedoelde Vlaamse Erasmuscomité.
 
 ## HOOFDSTUK III PROCEDURE
 
 ### ART. 80.
 
-Een adviescommissie wordt opgericht.<br /><br />De adviescommissie wordt samengesteld uit:<br /><br />1° vertegenwoordigers van de dienst verantwoordelijk voor studiefinanciering en studentenvoorzieningen;<br /><br />2° vertegenwoordigers van de dienst verantwoordelijk voor hoger onderwijs;<br /><br />3° vertegenwoordigers van de ambtshalve geregistreerde instellingen;<br /><br />4° vertegenwoordigers van de studentenvoorzieningen van de ambtshalve geregistreerde instellingen;<br /><br />[5° vertegenwoordigers van de studentenkoepelverenigingen.  <span class="reference">(ing. decr. 18 november 2005, art. 15, I: 1 juli 2005)</span> ]
+...
 
 ### ART. 81.
 
-De taken van de adviescommissie bestaan uit:<br /><br />1° het adviseren inzake de bedragen van de mobiliteitstoelage en het formuleren van voorstellen met betrekking tot deze aanvragen;<br /><br />2° het adviseren inzake de bedragen bedoeld in artikel 79, § 1, 2 ° en 3°;<br /><br />3° het bepalen van de wijze waarop de mobiliteitstoelage wordt uitgekeerd en de factoren waarmee rekening moet worden gehouden;<br /><br />4° de vorming van actoren op het veld inzake studentenmobiliteit;<br /><br />5° gezamenlijke acties inzake communicatie en informatie van de studenten;<br /><br />6° de afstemming van studiefinanciering en studentenmobiliteit;<br /><br />7° het opvolgen van trends en evoluties inzake internationale studentenmobiliteit teneinde beleidsvoorstellen te kunnen formuleren.
+...
 
 ## TITEL VI INWERKINGTREDING
 
