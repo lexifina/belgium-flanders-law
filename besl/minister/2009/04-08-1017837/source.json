@@ -2,16 +2,16 @@
   "codex_id": 1017837,
   "title": "Ministerieel besluit van 2009-04-08 tot wijziging van het ministerieel besluit van 9 juli 2001 houdende de voorwaarden voor het organiseren van en de bepalingen over de toestemming voor en de subsidiëring van buitenschoolse opvang in aparte lokalen in kinderdagverblijven",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017837/VolledigDocument?datum=2009-04-27",
-  "source_sha256": "f77f240e59ab09137faca9cd628b4f6d82ef687a09fa9bdc582a5a0f496e6868",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017837/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "baea6f2aa7cbd0d114737af0278fd1e981a44a8b94796105ab3766d8b8fa709a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017837&param=informatie",
-  "as_of": "2009-04-27",
+  "as_of": "2009-09-01",
   "made": "2009-04-08",
   "gazette": "2009-04-27",
   "numac": 2009201730,
   "document_start": "2009-04-27",
   "document_end": null,
-  "in_force": "2009-04-27",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2009-04-27; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
 }
