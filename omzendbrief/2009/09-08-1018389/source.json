@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018389,
+  "title": "Omzendbrief van 2009-09-08 nr. 52 : Over aanpassingen van de VLIF-steunmaatregelen voor landbouwcoöperaties voor verwerking, afzet en dienstverlening",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018389/VolledigDocument?datum=2009-09-01",
+  "source_sha256": "a444b3fb09f9e334b02338e64495d111fae5159de195a03c6d2ef71514ec5597",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018389&param=informatie",
+  "as_of": "2009-09-01",
+  "made": "2009-09-08",
+  "gazette": "2009-09-22",
+  "numac": 2009204091,
+  "document_start": "2009-09-01",
+  "document_end": null,
+  "in_force": "2009-09-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
