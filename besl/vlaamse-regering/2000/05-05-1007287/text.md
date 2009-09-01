@@ -2,19 +2,19 @@
 
 ### ART. 1.
 
-Het college van burgemeester en schepenen stelt een inventaris op van alle plannen en verordeningen die overeenkomstig artikel 92 van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, in het plannenregister opgenomen moeten worden. Als de inventaris als een digitale databank wordt opgemaakt, dan gebeurt dit conform de technische normen, ter beschikking van de gemeente gesteld door het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, hierna het Departement RWO te noemen.<br /><br />De inventaris maakt deel uit van het plannenregister.
+Het college van burgemeester en schepenen stelt een inventaris op van alle plannen en verordeningen die overeenkomstig artikel 5.1.1 van de Vlaamse Codex Ruimtelijke Ordening, in het plannenregister opgenomen moeten worden. Als de inventaris als een digitale databank wordt opgemaakt, dan gebeurt dit conform de technische normen, ter beschikking van de gemeente gesteld door het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, hierna het Departement RWO te noemen, in samenspraak met het Agentschap voor Geografische Informatie Vlaanderen.<br /><br />De inventaris maakt deel uit van het plannenregister.
 
 ### ART. 2.
 
-§ 1. Het college van burgemeester en schepenen neemt in zijn plannenregister het op zijn grondgebied betrekking hebbende deel van het geactualiseerde gewestplan met bijhorende voorschriften op. Het kan hiervoor als vertrekbasis nemen het gewestplan zoals dat door het Departement RWO in digitale vorm ter beschikking wordt gesteld.<br /><br />§ 2. Het college van burgemeester en schepenen neemt in zijn plannenregister het op zijn grondgebied betrekking hebbende deel van het ontwerp-gewestplan met bijhorende voorschriften op, zoals dat door het Departement RWO in analoge of digitale vorm ter beschikking wordt gesteld.
+§ 1. Het college van burgemeester en schepenen neemt in zijn plannenregister het op zijn grondgebied betrekking hebbende deel van het geactualiseerde gewestplan met bijhorende voorschriften op. Het kan hiervoor als vertrekbasis nemen het gewestplan zoals dat door het Departement RWO in digitale vorm ter beschikking wordt gesteld.<br /><br />§ 2. ...
 
 ### ART. 3.
 
-Het college van burgemeester en schepenen neemt in zijn plannenregister de digitale ankerpunten voor kadastrale percelen op, zodra die door het ondersteunend centrum GIS-Vlaanderen ter beschikking worden gesteld.
+...
 
 ### ART. 4.
 
-Het college van burgemeester en schepenen neemt de contouren van de algemene en bijzondere plannen van aanleg met bijhorende voorschriften, of delen ervan, op in het plannenregister indien ze niet worden opgeheven met toepassing van de artikelen 170 en 190 van het voornoemde decreet van 18 mei 1999. Het kan als vertrekbasis hiervoor nemen, het op zijn grondgebied betrekking hebbende deel van de vectoriële GIS datalaag met de contouren van de bijzondere plannen van aanleg, zoals dat door het Departement RWO in digitale vorm ter beschikking wordt gesteld. Het neemt ook de ontwerpen op, zolang deze nog aanleiding kunnen geven tot het weigeren van vergunningsaanvragen. Het verschil in juridische status moet echter duidelijk waarneembaar zijn.<br /><br />Elke contour moet via een uniek identificatienummer een verwijzing naar de inventaris, genoemd in artikel 1, en naar het eigenlijke plan van aanleg bevatten. Indien er slechts een gedeelte van een plan van aanleg wordt behouden, bakent de betreffende contour enkel het te behouden gedeelte af. Zowel de contouren als de eigenlijke plannen behoren tot het plannenregister.
+Het college van burgemeester en schepenen neemt de contouren van de algemene en bijzondere plannen van aanleg, of delen ervan, op in het plannenregister indien ze niet worden opgeheven met toepassing van de artikelen 170 en 190 van het voornoemde decreet van 18 mei 1999. Het kan als vertrekbasis hiervoor nemen, het op zijn grondgebied betrekking hebbende deel van de vectoriële GIS datalaag met de contouren van de bijzondere plannen van aanleg, zoals dat door het Departement RWO in digitale vorm ter beschikking wordt gesteld. Het neemt ook de ontwerpen op, zolang deze nog aanleiding kunnen geven tot het weigeren van vergunningsaanvragen. Het verschil in juridische status moet echter duidelijk waarneembaar zijn.<br /><br />Elke contour moet via een uniek identificatienummer een verwijzing naar de inventaris, genoemd in artikel 1, en naar het eigenlijke plan van aanleg bevatten. Indien er slechts een gedeelte van een plan van aanleg wordt behouden, bakent de betreffende contour enkel het te behouden gedeelte af. Zowel de contouren als de eigenlijke plannen behoren tot het plannenregister.
 
 ### ART. 5.
 
@@ -30,15 +30,15 @@ Het college van burgemeester en schepenen neemt de bestaande en de nieuwe steden
 
 ### ART. 8.
 
-De nieuwe Vlaamse en provinciale ruimtelijke uitvoeringsplannen met bijhorende voorschriften, evenals de delen van de plannen waarop een voorkooprecht geldt en die waarvoor een planbatenheffing verschuldigd is, worden steeds in digitale vorm ter beschikking gesteld van het college van burgemeester en schepenen, dat ze opneemt in zijn plannenregister. De ontwerpen ervan worden in analoge of digitale vorm ter beschikking gesteld van het college van burgemeester en schepenen, dat ze opneemt in zijn plannenregister.<br /><br />Indien deze ruimtelijke uitvoeringsplannen op een gedeelte van het grondgebied van de gemeente betrekking hebben, wordt ook de contour van deze plannen bepaald en wordt via een uniek identificatienummer een verwijzing naar de inventaris, genoemd in artikel 1, en naar het eigenlijke ruimtelijke uitvoeringsplan gemaakt. Zowel de contouren als de eigenlijke ruimtelijke uitvoeringsplannen behoren tot het plannenregister.
+De nieuwe Vlaamse en provinciale ruimtelijke uitvoeringsplannen worden steeds in digitale vorm ter beschikking gesteld van het college van burgemeester en schepenen, dat ze opneemt in zijn plannenregister. De ontwerpen ervan worden in analoge of digitale vorm ter beschikking gesteld van het college van burgemeester en schepenen, dat ze opneemt in zijn plannenregister.<br /><br />Indien deze ruimtelijke uitvoeringsplannen op een gedeelte van het grondgebied van de gemeente betrekking hebben, wordt ook de contour van deze plannen bepaald en wordt via een uniek identificatienummer een verwijzing naar de inventaris, genoemd in artikel 1, en naar het eigenlijke ruimtelijke uitvoeringsplan gemaakt. Zowel de contouren als de eigenlijke ruimtelijke uitvoeringsplannen behoren tot het plannenregister.
 
 ### ART. 9.
 
-Het college van burgemeester en schepenen neemt de contouren van de nieuwe gemeentelijke ruimtelijke uitvoeringsplannen, evenals de delen van de plannen waarop een voorkooprecht geldt en die waarvoor een planbatenheffing verschuldigd is, op in het plannenregister. Het neemt ook de ontwerpen op. Het verschil in juridische status moet echter duidelijk waarneembaar zijn.<br /><br />Elke contour bevat via een uniek identificatienummer een verwijzing naar de inventaris, genoemd in artikel 1, en naar het eigenlijke ruimtelijke uitvoeringsplan. Zowel de contouren als de eigenlijke ruimtelijke uitvoeringsplannen behoren tot het plannenregister.
+Het college van burgemeester en schepenen neemt de contouren van de nieuwe gemeentelijke ruimtelijke uitvoeringsplannen op in het plannenregister. Het neemt ook de ontwerpen op. Het verschil in juridische status moet echter duidelijk waarneembaar zijn.<br /><br />Elke contour bevat via een uniek identificatienummer een verwijzing naar de inventaris, genoemd in artikel 1, en naar het eigenlijke ruimtelijke uitvoeringsplan. Zowel de contouren als de eigenlijke ruimtelijke uitvoeringsplannen behoren tot het plannenregister.
 
 ### ART. 10.
 
-De nieuwe rooilijnplannen van gewest- en provinciewegen worden steeds in digitale vorm ter beschikking gesteld van het college van burgemeester en schepenen, dat ze opneemt in zijn plannenregister.<br /><br />De omschrijvende veelhoek van deze plannen wordt bepaald en via een uniek identificatienummer wordt een verwijzing naar de inventaris, genoemd in artikel 1, en naar het eigenlijke rooilijnplan gemaakt. Zowel de omschrijvende veelhoeken als de eigenlijke rooilijnplannen behoren tot het plannenregister.
+De nieuwe rooilijnplannen van gewest- en provinciewegen worden steeds, binnen vijftien dagen na de definitieve vaststelling ervan, in digitale vorm ter beschikking gesteld van het college van burgemeester en schepenen, dat ze opneemt in zijn plannenregister binnen een termijn van drie maanden na ontvangst van de digitale gegevens.<br /><br />De omschrijvende veelhoek van deze plannen wordt bepaald en via een uniek identificatienummer wordt een verwijzing naar de inventaris, genoemd in artikel 1, en naar het eigenlijke rooilijnplan gemaakt. Zowel de omschrijvende veelhoeken als de eigenlijke rooilijnplannen behoren tot het plannenregister.
 
 ### ART. 11.
 
@@ -58,11 +58,11 @@ Ontwerp-plannen, plannen en verordeningen die worden opgeheven of op enige ander
 
 ### ART. 15.
 
-Als de gemeente het gehele plannenregister of een deel ervan in digitale vorm wilt opmaken, moet ze rekening houden met de technische aanbeveling aangaande de uitwisseling van digitale geografische gegevens voor het plannenregister, die ter beschikking wordt gesteld door het [Agentschap voor Geografische Informatie Vlaanderen.  <span class="reference">(verv. decr. 7 mei 2004, art. 16, I: 1 april 2006)</span> ]
+Als de gemeente het gehele plannenregister of een deel ervan in digitale vorm wil opmaken, actueel houden, uitwisselen of publiceren, moet ze rekening houden met de technische aanbeveling aangaande de uitwisseling van digitale geografische gegevens voor het plannenregister, die ter beschikking wordt gesteld door het Departement RWO, in samenspraak met het Agentschap voor Geografische Informatie Vlaanderen.
 
 ### ART. 16.
 
-Het college van burgemeester en schepenen bezorgt de planologische ambtenaar en de gewestelijke stedenbouwkundige ambtenaar een afschrift van het eerste plannenregister in digitale en/of analoge vorm binnen een jaar na de inwerkingtreding van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening. Het verzendt dit per aangetekend schrijven of geeft het af tegen ontvangstbewijs. Een kopie van de originele plannen van aanleg, de ruimtelijke uitvoeringsplannen, de rooilijnplannen en de onteigeningsplannen moet echter niet bijgevoegd worden.
+Het college van burgemeester en schepenen bezorgt de planologische ambtenaar en de gewestelijke stedenbouwkundige ambtenaar een afschrift van het eerste plannenregister in digitale en/of analoge vorm. Het verzendt dit per aangetekend schrijven of geeft het af tegen ontvangstbewijs. Een kopie van de originele plannen van aanleg, de ruimtelijke uitvoeringsplannen, de rooilijnplannen en de onteigeningsplannen moet echter niet bijgevoegd worden.
 
 ### ART. 17.
 
