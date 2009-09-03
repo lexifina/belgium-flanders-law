@@ -20,7 +20,7 @@ Als bosreservaat kunnen worden aangewezen of erkend:<br /><br />1° bossen of bo
 
 ### ART. 5.
 
-Om een bos of een bosgedeelte te laten erkennen als bosreservaat, dient de eigenaar bij de woudmeester een aanvraag in, samen met:<br /><br />1° de kadastrale plans waarop het voorgestelde bosreservaat begrensd wordt, met aanduiding van de gedeelten die als integraal of gericht bosreservaat worden voorgesteld;<br /><br />2° een beschrijvende staat van de percelen;<br /><br />3° een motivatie van de aanvraag tot erkenning als bosreservaat, ingevolge artikel 6 van dit besluit;<br /><br />4° de toestemming van de eventuele medeëigenaars of houders van zakelijke rechten op het genoemde bos of bosgedeelte.
+Om een bos of een bosgedeelte te laten erkennen als bosreservaat, dient de eigenaar bij het Agentschap voor Natuur en Bos een aanvraag in, samen met:<br />1° de kadastrale plans waarop het voorgestelde bosreservaat begrensd wordt, met aanduiding van de gedeelten die als integraal of gericht bosreservaat worden voorgesteld;<br />2° een beschrijvende staat van de percelen;<br />3° een motivatie van de aanvraag tot erkenning als bosreservaat, ingevolge artikel 6 van dit besluit;<br />4° de toestemming van de eventuele medeëigenaars of houders van zakelijke rechten op het genoemde bos of bosgedeelte.
 
 ### ART. 6.
 
@@ -68,7 +68,7 @@ De adviescommissie staat de aangewezen ambtenaar bij in het beheer van de bosres
 
 ### ART. 16.
 
-Als lid van de adviescommissie worden aangewezen:<br />1° de woudmeester van het ambtsgebied<br />2° de aangewezen ambtenaar, verantwoordelijk voor het beheer<br />3° een vertegenwoordiger van het Instituut voor Natuur- en Bosonderzoek;<br />4° ...<br /><br />Bovendien wijst de minister voor elke adviescommissie nog 3 à 5 leden aan uit wetenschappelijke kringen of uit plaatselijke verenigingen die actief zijn op het vlak van natuurbehoud en bosbouw. Het mandaat loop zes jaar en kan hernieuwd worden.
+Als lid van de adviescommissie worden aangewezen :<br />1° twee ambtenaren van het Agentschap voor Natuur en Bos;<br />2° twee vertegenwoordigers van het Instituut voor Natuur- en Bosonderzoek.<br /><br />Bovendien wijst de minister voor elke adviescommissie nog 3 à 5 leden aan uit wetenschappelijke kringen of uit plaatselijke verenigingen die actief zijn op het vlak van natuurbehoud en bosbouw. Het mandaat loop zes jaar en kan hernieuwd worden.
 
 ### ART. 17.
 
