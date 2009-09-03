@@ -2,16 +2,16 @@
   "codex_id": 1006503,
   "title": "Besluit van de Vlaamse Regering van 1998-12-01 houdende vaststelling van de voorwaarden waaronder afzonderlijke jachtterreinen vrijwillig tot grotere beheereenheden kunnen worden samengevoegd en van de criteria waaronder beheereenheden kunnen worden erkend",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006503/VolledigDocument?datum=2008-08-29",
-  "source_sha256": "de67f483cff8131fea483fb47d615825f82afdb8700fd326d6302e3e11067ede",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006503/VolledigDocument?datum=2009-09-03",
+  "source_sha256": "84661f12308c7539cc4aea4ef6401928e119302710f6320809bf4849c8d06597",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006503&param=informatie",
-  "as_of": "2008-08-29",
+  "as_of": "2009-09-03",
   "made": "1998-12-01",
   "gazette": "1999-02-12",
   "numac": 1999035083,
   "document_start": null,
   "document_end": "2014-06-30",
-  "in_force": "2008-08-29",
+  "in_force": "2009-09-03",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2008-08-29; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-03; future article versions excluded; article text as the API gives it"
 }
