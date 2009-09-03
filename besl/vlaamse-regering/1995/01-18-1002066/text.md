@@ -18,7 +18,7 @@ Aan de kandidaten wordt een inschrijvingsgeld gevraagd:<br />a) 35 euro voor de 
 
 ### ART. 5.
 
-De kandidaat moet in staat zijn kennis te nemen van de gestelde vragen met eigen middelen zonder de hulp van de persoon die hem eventueel vergezelt.<br /><br />De volgende personen kunnen het examen mondeling afleggen :<br />1° analfabeten. Als bewijs van analfabetisme moet de betrokkene een attest van het gemeentebestuur van zijn woonplaats overleggen aan het bestuur;<br />2° personen met een handicap. Als bewijs van de handicap moet de betrokkene een medisch attest voorleggen waaruit zijn handicap blijkt.<br /><br />Het attest moet samen met het formulier, vermeld in artikel 7, ingediend worden.<br /><br />De fysieke toestand van de kandidaten moet toelaten om op een zelfstandige basis alle onderdelen van het examen af te leggen.
+De kandidaat moet in staat zijn kennis te nemen van de gestelde vragen met eigen middelen zonder de hulp van de persoon die hem eventueel vergezelt.<br /><br />De volgende personen kunnen het examen mondeling afleggen :<br />1° analfabeten. Als bewijs van analfabetisme moet de betrokkene een attest van het gemeentebestuur van zijn woonplaats overleggen aan het Agentschap;<br />2° personen met een handicap. Als bewijs van de handicap moet de betrokkene een medisch attest voorleggen waaruit zijn handicap blijkt.<br /><br />Het attest moet samen met het formulier, vermeld in artikel 7, ingediend worden.<br /><br />De fysieke toestand van de kandidaten moet toelaten om op een zelfstandige basis alle onderdelen van het examen af te leggen.
 
 ### ART. 6.
 
@@ -92,7 +92,7 @@ De verschillende taken i.v.m. het jachtexamen worden door de voorzitter van de c
 
 ### ART. 2.
 
-M.b.t. het theoretische gedeelte worden, indien het bestuur een vragenlijst heeft opgesteld, door de voorzitter van de examencommissie of zijn afgevaardigde, twintig vragen per vak getrokken via loting.<br /><br />Deze afgevaardigde is, net als de voorzitter, een ambtenaar van het bestuur. Indien er geen vragenlijst bestaat, stelt de jury vragen op, evenals een schematisch antwoord.<br /><br />Alleen het bestuur kan tot een herziening van de vragenlijst besluiten.<br /><br />De getrokken vragen, de afgedrukte exemplaren en het gekozen aanschouwelijk materiaal worden door of namens het bestuur onder vergezeld omslag geplaatst en op een veilige plaats weggeborgen onder de verantwoordelijkheid van de voorzitter.<br /><br />De leden van de examencommissie mogen aan niemand de inhoud of het nummer mededelen van de vragen die zullen worden gesteld.
+M.b.t. het theoretische gedeelte worden, indien het Agentschap een vragenlijst heeft opgesteld, door de voorzitter van de examencommissie of zijn afgevaardigde, twintig vragen per vak getrokken via loting.<br /><br />Deze afgevaardigde is, net als de voorzitter, een ambtenaar van het Agentschap. Indien er geen vragenlijst bestaat, stelt de jury vragen op, evenals een schematisch antwoord.<br /><br />Alleen het Agentschap kan tot een herziening van de vragenlijst besluiten.<br /><br />De getrokken vragen, de afgedrukte exemplaren en het gekozen aanschouwelijk materiaal worden door of namens het Agentschap onder vergezeld omslag geplaatst en op een veilige plaats weggeborgen onder de verantwoordelijkheid van de voorzitter.<br /><br />De leden van de examencommissie mogen aan niemand de inhoud of het nummer mededelen van de vragen die zullen worden gesteld.
 
 ### ART. 3.
 
@@ -100,7 +100,7 @@ De voorzitter van de examencommissie is belast met de handhaving van orde en tuc
 
 ### ART. 4.
 
-§ 1. De examencommissie vergadert uiterlijk twintig dagen:<br /><br />- na de datum van het theoretische gedeelte;<br /><br />- na afloop van het praktische gedeelte.<br /><br />§ 2. De commissie kan eenparig de deliberatievoorwaarden vaststellen. Bij betwisting oordeelt de voorzitter en beslist hij ter vergadering over de te volgen voorwaarden.<br /><br />§ 3. Eén of meerdere leden van het bestuur die geen deel uitmaken van de commissie mogen, zonder stemgerechtigd te zijn, deelnemen aan de werkzaamheden van de commissie, o.m. op het terrein, <br />teneinde het verloop ervan te vergemakkelijken.
+§ 1. De examencommissie vergadert uiterlijk twintig dagen:<br />- na de datum van het theoretische gedeelte;<br />- na afloop van het praktische gedeelte.<br /><br />§ 2. De commissie kan eenparig de deliberatievoorwaarden vaststellen. Bij betwisting oordeelt de voorzitter en beslist hij ter vergadering over de te volgen voorwaarden.<br /><br />§ 3. Eén of meerdere leden van het Agentschap die geen deel uitmaken van de commissie mogen, zonder stemgerechtigd te zijn, deelnemen aan de werkzaamheden van de commissie, o.m. op het terrein, teneinde het verloop ervan te vergemakkelijken.
 
 ### ART. 5.
 
@@ -108,4 +108,4 @@ De lijsten met de definitieve resultaten van het theoretische gedeelte en het pr
 
 ### ART. 6.
 
-Van de in artikel 4, § 1, bedoelde vergadering worden notulen opgesteld die getekend worden door de secretaris en de voorzitter en gedeponeerd worden bij het bestuur.
+Van de in artikel 4, § 1, bedoelde vergadering worden notulen opgesteld die getekend worden door de secretaris en de voorzitter en gedeponeerd worden bij het Agentschap.
