@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018288,
+  "title": "Besluit van de Vlaamse Regering van 2009-05-29 houdende verdere aanpassing van de sectorale regelgeving leefmilieu, natuur en energie aan het kaderdecreet Bestuurlijk Beleid van 18 juli 2003",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018288/VolledigDocument?datum=2009-09-03",
+  "source_sha256": "58f566fbe973d4e1235679fe38c9903586689c4b951260d6e31b3042e9830f02",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018288&param=informatie",
+  "as_of": "2009-09-03",
+  "made": "2009-05-29",
+  "gazette": "2009-09-03",
+  "numac": 2009035825,
+  "document_start": "2009-09-03",
+  "document_end": null,
+  "in_force": "2009-09-03",
+  "article_versions": 45,
+  "record_form": "consolidated version as in force on 2009-09-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
