@@ -2,16 +2,16 @@
   "codex_id": 1010132,
   "title": "Besluit van de Vlaamse Regering van 2002-11-08 houdende de erkenning van kopers en exploitanten van hout, overeenkomstig artikel 79 van het Bosdecreet van 13 juni 1990",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010132/VolledigDocument?datum=2008-05-21",
-  "source_sha256": "de0c4c7bbd46173f74f9efcd02ec8ba961a90783a61f1d97938016ea35c61d94",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010132/VolledigDocument?datum=2009-09-03",
+  "source_sha256": "127629c8cd26289dea6925df0a7074ddcb9278f4fe904217d6bd9f72efea8170",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010132&param=informatie",
-  "as_of": "2008-05-21",
+  "as_of": "2009-09-03",
   "made": "2002-11-08",
   "gazette": "2002-12-18",
   "numac": 2002036508,
   "document_start": null,
   "document_end": "2024-09-14",
-  "in_force": "2008-05-21",
+  "in_force": "2009-09-03",
   "article_versions": 32,
-  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-03; future article versions excluded; article text as the API gives it"
 }
