@@ -2,16 +2,16 @@
   "codex_id": 1000619,
   "title": "Besluit van de Vlaamse Regering van 1984-03-22 tot vaststelling van de voorwaarden voor de erkenning van laboratoria in uitvoering van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000619/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "59a273d4fbcc357fdba468fba22a301f70665f9250134211c2dd6312d113a1bc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000619/VolledigDocument?datum=2009-09-03",
+  "source_sha256": "e2d0d17a12b47a9916fd9ff1eb6ce221608437c27ea77248031c6742138e7513",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000619&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-09-03",
   "made": "1984-03-22",
   "gazette": "1984-06-06",
   "numac": 1984023676,
   "document_start": "1984-06-06",
   "document_end": "2010-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-09-03",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-03; future article versions excluded; article text as the API gives it"
 }
