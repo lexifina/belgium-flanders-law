@@ -1296,6 +1296,10 @@ In artikel 3, 4, 5, 6 en 7 van hetzelfde besluit worden de woorden "het Bosbehee
 
 In artikel 6, § 1, 7, § 1, 8, 24, § 3, en 25, § 1, van het besluit van de Vlaamse Regering van 8 november 2002 houdende de erkenning van kopers en exploitanten van hout overeenkomstig artikel 79 van het Bosdecreet van 13 juni 1990 worden de woorden "het Bosbeheer" vervangen door de woorden "het Agentschap voor Natuur en Bos".<br /><br />
 
+### ART. 293.
+
+In artikel 6, § 1 en artikel 7, § 1 van hetzelfde besluit worden in de laatste zin telkens de woorden "binnen de administratie" geschrapt.<br /><br />
+
 ### ART. 294.
 
 In artikel 7, § 1, van hetzelfde besluit worden de woorden "de Vlaamse Hoge Bosraad" vervangen door de woorden "de Milieu- en Natuurraad van Vlaanderen".<br /><br />
