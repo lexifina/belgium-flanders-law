@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° decreet : het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br />2° Syntra Vlaanderen : het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, opgericht bij artikel 3 van het decreet;<br />3° leertrajectbegeleider : de leersecretaris, vermeld in artikel 39 en 40 van het decreet;<br />4° praktijkcommissie : de praktijkcommissie, vermeld in artikel 13 tot en met 18 van het decreet;<br />5° overeenkomst : de overeenkomst tussen de praktijkcommissie en de leersecretaris, vermeld in artikel 40 van het decreet;<br />6° leerovereenkomst : de leerovereenkomst, vermeld in artikel 28 van het decreet;<br />7° stageovereenkomst : de leerovereenkomst tot het vervullen van de praktijkstage, vermeld in artikel 31 van het decreet;<br />8° Syntra : de centra voor vorming van zelfstandigen en kleine of middelgrote ondernemingen, vermeld in artikel 36 tot en met 38 van het decreet;<br />9° Stambesluit VOI : het besluit van de Vlaamse Regering van 30 juni 2000 houdende de regeling van de rechtspositie van het personeel van sommige Vlaamse openbare instellingen.
+Voor de toepassing van dit besluit wordt verstaan onder :<br />1° decreet : het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br />2° Syntra Vlaanderen : het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, opgericht bij artikel 3 van het decreet;<br />3° leertrajectbegeleider : de leersecretaris, vermeld in artikel 39 en 40 van het decreet;<br />4° praktijkcommissie : de praktijkcommissie, vermeld in artikel 13 tot en met 18 van het decreet;<br />5° overeenkomst : de overeenkomst tussen de praktijkcommissie en de leersecretaris, vermeld in artikel 40 van het decreet;<br />6° leerovereenkomst : de leerovereenkomst, vermeld in artikel 28 van het decreet;<br />7° stageovereenkomst : de leerovereenkomst tot het vervullen van de praktijkstage, vermeld in artikel 31 van het decreet;<br />8° Syntra : de centra voor vorming van zelfstandigen en kleine of middelgrote ondernemingen, vermeld in artikel 36 tot en met 38 van het decreet;<br />
 
 ## HOOFDSTUK II BEGELEIDINGSOPDRACHT
 
@@ -20,15 +20,15 @@ De leertrajectbegeleider wordt erkend door de praktijkcommissie.<br /><br />Hier
 
 ### ART. 4.
 
-Om erkend te kunnen worden moet de leertrajectbegeleider aan de volgende voorwaarden voldoen:<br /><br />1° van onberispelijk gedrag zijn;<br /><br />2° de burgerlijke en politieke rechten genieten;<br /><br />3° houder zijn van ten minste het diploma van het hoger onderwijs van één cyclus;<br /><br />4° lichamelijk geschikt zijn;<br /><br />5° geslaagd zijn voor een vergelijkend examen georganiseerd door de praktijkcommissie.
+Om erkend te worden moet de leertrajectbegeleider slagen voor een functiespecifieke test, georganiseerd door de selector die nagaat of het profiel van de kandidaat overeenstemt met het competentieprofiel van een leertrajectbegeleider, zoals goedgekeurd door de praktijkcommissie.
 
 ### ART. 5.
 
-Het examen, bedoeld in artikel 4, 5°, omvat een schriftelijke proef en een interview waarbij wordt nagegaan of het profiel van de kandidaat overeenstemt met de specifieke vereisten van de betrekking. Het houdt tevens rekening met de ervaring en de verdiensten van de kandidaat.<br /><br />De examencommissie is samengesteld uit vier leden, van wie twee leden worden aangewezen door de vertegenwoordi-gers van de representatieve werknemersorganisaties en twee leden door de vertegenwoordigers van de representatieve organisaties van zelfstandigen en kleine en middelgrote ondernemingen van de praktijkcommissie. De gedelegeerd bestuurder of zijn afgevaardigde maakt ambtshalve deel uit van de examencommissie maar heeft geen stemrecht.<br /><br />De examencommissie bepaalt vooraf de inhoud van het examen en de wijze van evalueren.
+...
 
 ### ART. 6.
 
-In afwijking van artikel 4, 3° en 5°, en van artikel 5 kunnen de statutaire personeelsleden van Syntra Vlaanderen van niveau B of die geslaagd zijn voor een examen van niveau B op hun verzoek door de praktijkcommissie worden erkend als leertrajectbegeleider als zij na een inwerkperiode van zes maanden hiertoe geschikt worden bevonden door hun evaluatoren.
+...
 
 ### ART. 7.
 
@@ -36,7 +36,7 @@ De overeenkomst, bedoeld in artikel 3, wordt schriftelijk gesloten overeenkomsti
 
 ### ART. 8.
 
-§ 1. De erkenning van de leertrajectbegeleider vervalt van rechtswege:<br />1° de eerste dag van de maand die volgt op de maand waarin de leertrajectbegeleider de leeftijd van 65 jaar bereikt;<br />2° als de leertrajectbegeleider niet meer met een arbeidsovereenkomst aan Syntra Vlaanderen  verbonden is.<br /><br />§ 2. De erkenning van leertrajectbegeleider wordt van rechtswege geschorst gedurende de periode van schorsing van de arbeidsovereenkomst met Syntra Vlaanderen .
+§ 1. De erkenning van de leertrajectbegeleider vervalt van rechtswege:<br />1° de eerste dag van de maand die volgt op de maand waarin de leertrajectbegeleider de leeftijd van 65 jaar bereikt;<br />2° als de leertrajectbegeleider niet meer in dienst is van SYNTRA Vlaanderen.<br /><br />§ 2. De erkenning van leertrajectbegeleider wordt van rechtswege geschorst gedurende de periode van schorsing van de arbeidsovereenkomst met Syntra Vlaanderen .
 
 ### ART. 9.
 
@@ -50,11 +50,11 @@ Als de leertrajectbegeleider zijn opdracht niet naar behoren vervult, overeenkom
 
 ### ART. 11.
 
-De leertrajectbegeleider die erkend is door de praktijkcommissie en minstens vijf jaar nuttige praktijkervaring heeft, wordt als leertrajectbegeleider in dienst genomen door Syntra Vlaanderen. Overeenkomstig de duur van de erkenning krijgt hij een arbeidsovereenkomst van onbepaalde duur of van bepaalde duur.<br /><br />De praktijkcommissie bepaalt welke activiteiten voor de nuttige praktijkervaring, bedoeld in het eerste lid, in aanmerking komen.
+...
 
 ### ART. 12.
 
-De arbeidsovereenkomst wordt beëindigd bij het vervallen, de opheffing of de intrekking van de erkenning.
+...
 
 ## HOOFDSTUK V SLOTBEPALINGEN
 
