@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017013,
+  "title": "Decreet van 2008-06-20 houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Economische Gemeenschap van West-Afrikaanse Staten, ondertekend in Brussel, op 12 juli 2006",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017013/VolledigDocument?datum=2009-09-08",
+  "source_sha256": "ff4fb9bee8cc470d5b166f079d0e1f50d00d750f772b9c345498b109df67cc70",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017013&param=informatie",
+  "as_of": "2009-09-08",
+  "made": "2008-06-20",
+  "gazette": "2008-08-29",
+  "numac": 2008202912,
+  "document_start": "2009-09-08",
+  "document_end": null,
+  "in_force": "2009-09-08",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-09-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
