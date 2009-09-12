@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018284,
+  "title": "Besluit van de Vlaamse Regering van 2009-07-03 tot invoering van een indexeringsclausule in en tot andere wijzigingen aan het besluit van de Vlaamse Regering van 1 december 1998 betreffende de wildbeheereenheden, het besluit van de Vlaamse Regering van 27 juni 2003 betreffende erkende reservaten, het besluit van de Vlaamse Regering van 27 juni 2003 betreffende erkende bosgroepen, alsook het besluit van de Vlaamse Regering van 5 december 2008 betreffende de toegankelijkheid van de bossen en de natuurreservaten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018284/VolledigDocument?datum=2009-09-12",
+  "source_sha256": "f11844d30882efa0b39816d192785beadfd166e12f62bc492d63d1afadeaeffc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018284&param=informatie",
+  "as_of": "2009-09-12",
+  "made": "2009-07-03",
+  "gazette": "2009-09-02",
+  "numac": 2009035754,
+  "document_start": "2009-09-12",
+  "document_end": null,
+  "in_force": "2009-09-12",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2009-09-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
