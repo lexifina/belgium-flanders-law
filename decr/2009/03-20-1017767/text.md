@@ -82,9 +82,21 @@ In artikel 30 van hetzelfde decreet wordt § 4 vervangen door wat volgt :<br />�
 
 In artikel 75 van hetzelfde decreet worden de woorden « het decreet van 29 mei 1984 betreffende Kind en Gezin » vervangen door de woorden « het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin ».<br /><br />
 
+### ART. 22.
+
+In hetzelfde decreet wordt een titel IXbis, bestaande uit artikel 75bis, ingevoegd, die luidt als volgt :<br />« TITEL IXbis. - Erkenning van afdelingen medisch toezicht van externe diensten voor preventie en bescherming op het werk, van departementen medisch toezicht van interne diensten voor preventie en bescherming op het werk en van gemeenschappelijke interne diensten voor preventie en bescherming op het werk<br /><br />Artikel 75bis. § 1. De Vlaamse Regering erkent afdelingen medisch toezicht van externe diensten voor preventie en bescherming op het werk, departementen medisch toezicht van interne diensten voor preventie en bescherming op het werk en gemeenschappelijke interne diensten voor preventie en bescherming op het werk. Dat gebeurt conform de bepalingen van de wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk.<br /><br />De Vlaamse Regering bepaalt de duur van de erkenning en de regels voor het verlenen, schorsen en intrekken van de erkenning.<br /><br />§ 2. De erkende afdelingen en departementen, vermeld in § 1, moeten verantwoording afleggen en zijn onderworpen aan een toezicht. De Vlaamse Regering kan daarvoor nadere regels bepalen.<br /><br />§ 3. De Vlaamse Regering richt een Vlaamse werkgroep bedrijfsgezondheidszorg op, waarin ten minste de werkgeversorganisaties, de werknemersorganisaties en andere deskundigen inzake bedrijfsgezondheidszorg zijn vertegenwoordigd.<br /><br />De opdracht van de werkgroep, vermeld in het eerste lid, bestaat er in ieder geval in :<br />1° de Vlaamse Regering op haar verzoek of op eigen initiatief van de werkgroep te adviseren over de bedrijfsgezondheidszorg in het algemeen;<br />2° de Vlaamse Regering op haar verzoek of op eigen initiatief van de werkgroep te adviseren over de ontwerpen van regelgeving ter uitvoering van dit artikel en ter uitvoering van artikel 80, § 1, tweede lid;<br />3° de Vlaamse Regering te adviseren over alle concrete dossiers in verband met § 1, met het oog op een beslissing tot erkenning of met het oog op een voornemen tot weigering, schorsing of intrekking van erkenning.<br /><br />De Vlaamse Regering kan bijkomende opdrachten toekennen aan de werkgroep.<br /><br />De Vlaamse Regering bepaalt de samenstelling, de werkingsmodaliteiten en de financiering van de werkgroep. ».<br /><br />
+
+### ART. 23.
+
+Aan artikel 76, § 1, 4°, van hetzelfde decreet worden de woorden « en in artikel 75bis, § 2 » toegevoegd.<br /><br />
+
 ### ART. 25.
 
 In artikel 80 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° aan § 1 wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« Met betrekking tot de afdelingen medisch toezicht van externe diensten voor preventie en bescherming op het werk, de departementen medisch toezicht van interne diensten voor preventie en bescherming op het werk en de gemeenschappelijke interne diensten voor preventie en bescherming op het werk, regelt de Vlaamse Regering de procedure voor erkenning, schorsing en intrekking van de erkenning. »;<br />2° in § 2 worden de woorden « De Vlaamse Adviesraad inzake erkenning van verzorgingsvoorzieningen, opgericht bij het decreet van 20 december 1996 houdende oprichting van een Vlaamse Gezondheidsraad en van een Vlaamse Adviesraad inzake erkenning van verzorgingsvoorzieningen, » vervangen door de woorden « De Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin ».<br /><br />
+
+### ART. 26.
+
+In artikel 1 van de wet van 10 juni 1952 betreffende de gezondheid en de veiligheid van de werknemers, alsmede de salubriteit van het werk en van de werkplaatsen wordt § 2 opgeheven, wat de bevoegdheden van de Vlaamse Gemeenschap betreft.<br /><br />
 
 ## HOOFDSTUK VI Verzorgingsvoorzieningen
 
