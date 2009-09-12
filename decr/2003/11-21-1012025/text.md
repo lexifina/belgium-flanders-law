@@ -399,6 +399,10 @@ De maatregelen, genomen ter uitvoering van het decreet van 30 april 2004 tot opr
 
 ## [TITEL IXbis Erkenning van afdelingen medisch toezicht van externe diensten voor preventie en bescherming op het werk, van departementen medisch toezicht van interne diensten voor preventie en bescherming op het werk en van gemeenschappelijke interne diensten voor preventie en bescherming op het werk (ing. decr. 20 maart 2009, art. 22)]
 
+### ART. 75bis.
+
+§ 1. De Vlaamse Regering erkent afdelingen medisch toezicht van externe diensten voor preventie en bescherming op het werk, departementen medisch toezicht van interne diensten voor preventie en bescherming op het werk en gemeenschappelijke interne diensten voor preventie en bescherming op het werk. Dat gebeurt conform de bepalingen van de wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk.<br /><br />De Vlaamse Regering bepaalt de duur van de erkenning en de regels voor het verlenen, schorsen en intrekken van de erkenning.<br /><br />§ 2. De erkende afdelingen en departementen, vermeld in § 1, moeten verantwoording afleggen en zijn onderworpen aan een toezicht. De Vlaamse Regering kan daarvoor nadere regels bepalen.<br /><br />§ 3. De Vlaamse Regering richt een Vlaamse werkgroep bedrijfsgezondheidszorg op, waarin ten minste de werkgeversorganisaties, de werknemersorganisaties en andere deskundigen inzake bedrijfsgezondheidszorg zijn vertegenwoordigd.<br /><br />De opdracht van de werkgroep, vermeld in het eerste lid, bestaat er in ieder geval in :<br />1° de Vlaamse Regering op haar verzoek of op eigen initiatief van de werkgroep te adviseren over de bedrijfsgezondheidszorg in het algemeen;<br />2° de Vlaamse Regering op haar verzoek of op eigen initiatief van de werkgroep te adviseren over de ontwerpen van regelgeving ter uitvoering van dit artikel en ter uitvoering van artikel 80, § 1, tweede lid;<br />3° de Vlaamse Regering te adviseren over alle concrete dossiers in verband met § 1, met het oog op een beslissing tot erkenning of met het oog op een voornemen tot weigering, schorsing of intrekking van erkenning.<br /><br />De Vlaamse Regering kan bijkomende opdrachten toekennen aan de werkgroep.<br /><br />De Vlaamse Regering bepaalt de samenstelling, de werkingsmodaliteiten en de financiering van de werkgroep.
+
 ## TITEL X SANCTIES
 
 ## HOOFDSTUK I ADMINISTRATIEVE SANCTIES
@@ -407,7 +411,27 @@ De maatregelen, genomen ter uitvoering van het decreet van 30 april 2004 tot opr
 
 ### ART. 76.
 
-§ 1. Er kan een administratieve geldboete van 100 tot 100.000 euro opgelegd worden aan iedereen die een van de volgende verplichtingen niet naleeft:<br /><br />1° toestemming krijgen voor een bevolkingsonderzoek, zoals bedoeld in artikel 31, § 2;<br /><br />2° gegevens uitwisselen in het kader van het epidemiologisch informatiesysteem, zoals bedoeld in artikel 32, § 2;<br /><br />3° een identificatiecode gebruiken voor de gegevensuitwisseling, zoals bedoeld in artikel 33;<br /><br />4° zich verantwoorden of zich onderwerpen aan een toezicht, zoals bedoeld in artikel 36;<br /><br />5° meewerken aan het registratiesysteem, zoals bedoeld in artikel 43, § 3;<br /><br />6° infectieziekten melden, zoals bedoeld in artikel 45, § 3;<br /><br />7° aanvullende informatie meedelen aan de ambtenaar-arts en de ambtenaar, zoals bedoeld in artikel 48.<br /><br />§ 2. Het bedrag van de opgelegde administratieve geldboete wordt door de administratie soeverein bepaald, rekening houdend met de ernst van de inbreuken op de bepalingen.<br /><br />§ 3. Deze geldboete kan pas opgelegd worden nadat:<br /><br />1° de betrokkene van de administratie een schriftelijke aanmaning heeft ontvangen om zich in regel te stellen;<br /><br />2° de betrokkene in kwestie zich niet in regel heeft gesteld binnen de door de administratie bepaalde termijn;<br /><br />3° de betrokkene werd uitgenodigd om gehoord te worden door de administratie.<br /><br />§ 4. De Vlaamse regering bepaalt de nadere regels voor het opleggen en het betalen van de administratieve geldboete. Ze wijst de ambtenaren aan die de geldboete kunnen opleggen.<br /><br />§ 5. Indien een geldboete niet betaald wordt, wordt de geldboete bij dwangbevel ingevorderd. De Vlaamse regering wijst de ambtenaren aan die een dwangbevel kunnen geven en uitvoerbaar verklaren. Een dwangbevel wordt betekend bij deurwaardersexploot met bevel tot betaling.<br /><br />§ 6. De vordering tot voldoening van een administratieve geldboete verjaart na verloop van vijf jaar, te rekenen vanaf de dag waarop ze is ontstaan. De verjaring wordt gestuit op de wijze en onder de voorwaarden, bepaald in artikel 2244 en volgende van het Burgerlijk Wetboek.
+§ 1. Er kan een administratieve geldboete van 100 tot 100.000 euro opgelegd worden aan iedereen die een van de volgende verplichtingen niet naleeft:<br>
+1° toestemming krijgen voor een bevolkingsonderzoek, zoals bedoeld in artikel 31, § 2;<br>
+2° gegevens uitwisselen in het kader van het epidemiologisch informatiesysteem, zoals bedoeld in artikel 32, § 2;<br>
+3° &nbsp;een identificatiecode gebruiken voor de gegevensuitwisseling, zoals bedoeld in artikel 33;<br>
+4° zich verantwoorden of zich onderwerpen aan een toezicht, zoals bedoeld in artikel 36 en in artikel 75bis, § 2;<br>
+5° meewerken aan het registratiesysteem, zoals bedoeld in artikel 43, § 3;<br>
+6° infectieziekten melden, zoals bedoeld in artikel 45, § 3;<br>
+7° aanvullende informatie meedelen aan de ambtenaar-arts en de ambtenaar, zoals bedoeld in artikel 48.<br>
+<br>
+§ 2. Het bedrag van de opgelegde administratieve geldboete wordt door de administratie soeverein bepaald, rekening houdend met de ernst van de inbreuken op de bepalingen.<br>
+<br>
+§ 3. Deze geldboete kan pas opgelegd worden nadat:<br>
+1° de betrokkene van de administratie een schriftelijke aanmaning heeft ontvangen om zich in regel te stellen;<br>
+2° de betrokkene in kwestie zich niet in regel heeft gesteld binnen de door de administratie bepaalde termijn;<br>
+3° de betrokkene werd uitgenodigd om gehoord te worden door de administratie.<br>
+<br>
+§ 4. De Vlaamse regering bepaalt de nadere regels voor het opleggen en het betalen van de administratieve geldboete. Ze wijst de ambtenaren aan die de geldboete kunnen opleggen.<br>
+<br>
+§ 5. Indien een geldboete niet betaald wordt, wordt de geldboete bij dwangbevel ingevorderd. De Vlaamse regering wijst de ambtenaren aan die een dwangbevel kunnen geven en uitvoerbaar verklaren. Een dwangbevel wordt betekend bij deurwaardersexploot met bevel tot betaling.<br>
+<br>
+§ 6. De vordering tot voldoening van een administratieve geldboete verjaart na verloop van vijf jaar, te rekenen vanaf de dag waarop ze is ontstaan. De verjaring wordt gestuit op de wijze en onder de voorwaarden, bepaald in artikel 2244 en volgende van het Burgerlijk Wetboek.
 
 ## AFDELING 2 INHOUDING OF TERUGVORDERING VAN SUBSIDIES
 
@@ -433,7 +457,7 @@ Onverminderd de toepassing van de in het Strafwetboek gestelde straffen, worden 
 
 ### ART. 80.
 
-§ 1. Met betrekking tot de Logo's, de partnerorganisaties, en desgevallend de organisaties met terreinwerking en de individuele zorgaanbieders, regelt de Vlaamse regering de procedure inzake erkenning en inzake schorsing en intrekking van de erkenning.<br /><br />§ 2. De Vlaamse Adviesraad inzake erkenning van verzorgingsvoorzieningen, opgericht bij het decreet van 20 december 1996 houdende oprichting van een Vlaamse Gezondheidsraad en van een Vlaamse Adviesraad inzake erkenning van verzorgingsvoorzieningen, geeft advies met betrekking tot bezwaar- of verweermiddelen die in het kader van deze procedures ingediend worden bij een voornemen tot weigering, schorsing of intrekking van erkenning.
+§ 1. Met betrekking tot de Logo's, de partnerorganisaties, en desgevallend de organisaties met terreinwerking en de individuele zorgaanbieders, regelt de Vlaamse regering de procedure inzake erkenning en inzake schorsing en intrekking van de erkenning.<br /><br />Met betrekking tot de afdelingen medisch toezicht van externe diensten voor preventie en bescherming op het werk, de departementen medisch toezicht van interne diensten voor preventie en bescherming op het werk en de gemeenschappelijke interne diensten voor preventie en bescherming op het werk, regelt de Vlaamse Regering de procedure voor erkenning, schorsing en intrekking van de erkenning. <br /><br />§ 2. De Vlaamse Adviesraad inzake erkenning van verzorgingsvoorzieningen, opgericht bij het decreet van 20 december 1996 houdende oprichting van een Vlaamse Gezondheidsraad en van een Vlaamse Adviesraad inzake erkenning van verzorgingsvoorzieningen, geeft advies met betrekking tot bezwaar- of verweermiddelen die in het kader van deze procedures ingediend worden bij een voornemen tot weigering, schorsing of intrekking van erkenning.
 
 ## HOOFDSTUK II BEROEPSPROCEDURE BIJ EEN BEROEPSCOLLEGE
 
