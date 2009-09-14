@@ -2,16 +2,16 @@
   "codex_id": 1014613,
   "title": "Omzendbrief van 2006-05-31 DLV/DLO/BIO-3 betreffende het gebruik bij de biologische productiemethode van de synthetische vitaminen A, D en E die identiek zijn aan de natuurlijke vitaminen, voor herkauwers",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014613/VolledigDocument?datum=2006-06-27",
-  "source_sha256": "d50120d88325cd0a30d58eb9ed815680b20d810bcc31e0dc014ef0a25a0c1f0f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014613/VolledigDocument?datum=2009-09-14",
+  "source_sha256": "28e89b38dc5dfa7b685b7b1dcc7da2cd69b493883dbef0d49f8bfbd057c6fdd9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014613&param=informatie",
-  "as_of": "2006-06-27",
+  "as_of": "2009-09-14",
   "made": "2006-05-31",
   "gazette": "2006-06-27",
   "numac": 2006035953,
   "document_start": "2006-06-27",
   "document_end": "2009-09-13",
-  "in_force": "2006-06-27",
+  "in_force": "2009-09-14",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-27; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-14; future article versions excluded; article text as the API gives it"
 }
