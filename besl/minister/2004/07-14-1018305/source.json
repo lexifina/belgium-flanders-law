@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018305,
+  "title": "Ministerieel besluit van 2004-07-14 houdende beslissing inzake het nut van de ruilverkaveling Sint-Lievens-Houtem",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018305/VolledigDocument?datum=2009-09-14",
+  "source_sha256": "8aa1c0a382c3c55b45a4823f19cc50454500135688219215b28dc7fb218624e1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018305&param=informatie",
+  "as_of": "2009-09-14",
+  "made": "2004-07-14",
+  "gazette": "2009-09-04",
+  "numac": 2009203971,
+  "document_start": "2009-09-14",
+  "document_end": null,
+  "in_force": "2009-09-14",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-09-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
