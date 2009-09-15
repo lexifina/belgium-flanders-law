@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018350,
+  "title": "Ministerieel besluit van 2009-09-01 tot wijziging van het ministerieel besluit van 12 juni 2001 houdende vaststelling van de procedure tot het verlenen, het verlengen, het weigeren of het intrekken van een principieel akkoord, een erkenning en subsidiëring van initiatieven voor buitenschoolse opvang",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018350/VolledigDocument?datum=2009-09-15",
+  "source_sha256": "dd326b40e9ce080003f383addbe2cc4f8f2f404f4a9c15ee944e7641d17acbc2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018350&param=informatie",
+  "as_of": "2009-09-15",
+  "made": "2009-09-01",
+  "gazette": "2009-09-15",
+  "numac": 2009204065,
+  "document_start": "2009-09-15",
+  "document_end": null,
+  "in_force": "2009-09-15",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
