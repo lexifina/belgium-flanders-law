@@ -1116,7 +1116,7 @@ Het besluit van de Vlaamse Regering van 20 september 1995 houdende vaststelling 
 
 ### ART. 239.
 
-De decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005, het laatst gewijzigd bij het decreet van 18 juli 2008, worden opgeheven.
+De decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005, het laatst gewijzigd bij het decreet van 18 juli 2008, worden opgeheven.<br /><br />De bepalingen van titel IV, hoofdstuk II, afdelingen I tot IV, van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005, blijven van toepassing tot 31 augustus 2009.
 
 ### ART. 240.
 
