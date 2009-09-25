@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018349,
+  "title": "Ministerieel besluit van 2009-08-27 tot hoogdringende onteigening ten algemenen nutte van onroerende goederen bestemd voor de aanleg van een gecontroleerd overstromingsgebied op de Grote Molenbeek in Londerzeel en Merchtem door de Vlaamse Milieumaatschapij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018349/VolledigDocument?datum=2009-09-25",
+  "source_sha256": "7653b85a9eede5085c2c9b3b007f12b655121cf64e2b791e9309bd92fc3367ed",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018349&param=informatie",
+  "as_of": "2009-09-25",
+  "made": "2009-08-27",
+  "gazette": "2009-09-15",
+  "numac": 2009035866,
+  "document_start": "2009-09-25",
+  "document_end": null,
+  "in_force": "2009-09-25",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2009-09-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
