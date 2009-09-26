@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018358,
+  "title": "Besluit van de Vlaamse Regering van 2009-07-03 houdende de verdeling van het krediet ingeschreven onder basisallocatie CB 0141 B van de begroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2009",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018358/VolledigDocument?datum=2009-09-26",
+  "source_sha256": "536e291eca22dfcc65f51c2b09158b9ae9985bd33985a2daecf280d169428623",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018358&param=informatie",
+  "as_of": "2009-09-26",
+  "made": "2009-07-03",
+  "gazette": "2009-09-16",
+  "numac": 2009035856,
+  "document_start": "2009-09-26",
+  "document_end": null,
+  "in_force": "2009-09-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-09-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
