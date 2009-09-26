@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018355,
+  "title": "Besluit van de Vlaamse Regering van 2009-06-05 houdende de gedeeltelijke verdeling van de provisionele kredieten ingeschreven onder de basisallocaties FB0104B en FB0105B van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2009",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018355/VolledigDocument?datum=2009-09-26",
+  "source_sha256": "f1a58e8584e53fdc7cf08b01d8d67d5ee3f5a6f420dfd231bcf2c1c5004184b4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018355&param=informatie",
+  "as_of": "2009-09-26",
+  "made": "2009-06-05",
+  "gazette": "2009-09-16",
+  "numac": 2009035867,
+  "document_start": "2009-09-26",
+  "document_end": null,
+  "in_force": "2009-09-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-09-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
