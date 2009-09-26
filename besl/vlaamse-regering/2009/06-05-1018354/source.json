@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018354,
+  "title": "Besluit van de Vlaamse Regering van 2009-06-05 tot onderwerping van delen van het grondgebied van de gemeente De Pinte aan landinrichting en tot aanwijzing van een publiekrechtelijke rechtspersoon die kan worden belast met de uitvoering van een landinrichtingsplan of gedeelten ervan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018354/VolledigDocument?datum=2009-09-26",
+  "source_sha256": "c581811443f81cb0d9955a8cb9ff2aa95127047f4bca259b8343a2019b130290",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018354&param=informatie",
+  "as_of": "2009-09-26",
+  "made": "2009-06-05",
+  "gazette": "2009-09-16",
+  "numac": 2009035846,
+  "document_start": "2009-09-26",
+  "document_end": null,
+  "in_force": "2009-09-26",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-09-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
