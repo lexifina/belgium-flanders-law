@@ -41,13 +41,13 @@ c) bij de vrijwillige verkoop van sociale huurwoningen en de verkoop van middelg
 a) een persoon die op de referentiedatum bij de kandidaat-koper gedomicilieerd is en die minderjarig is, of waarvoor kinderbijslag of wezentoelage wordt uitbetaald, of die door de minister na voorlegging van bewijzen als ten laste wordt beschouwd;<br>
 b) de kandidaat-koper of de persoon, vermeld in a), die erkend is als ernstig gehandicapt, of erkend was op het ogenblik van pensionering. De minister stelt de voorwaarden daarvoor vast;<br>
 12° inkomen : de som van de aan de personenbelasting onderworpen inkomsten, alsook van de niet-belastbare vervangingsinkomsten van de kandidaat-koper en van alle andere personen die met hem dezelfde woning betrekken of zullen betrekken, met uitsluiting van de ongehuwde kinderen die bij de koper of kandidaat koper inwonen en die minder dan vijfentwintig jaar oud zijn op het ogenblik van de referentiedatum. Het inkomen van de inwonende ascendenten van de kandidaat-koper wordt slechts voor de helft aangerekend. Het wordt niet aangerekend voor de familieleden van de eerste en de tweede graad die als ernstig gehandicapt erkend zijn of die ten minste 65 jaar oud zijn;<br>
-13° toezichthouder : de toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis&nbsp;van de Vlaamse Wooncode, ingevoegd bij het decreet van 24 maart 2006;<br>
+13° toezichthouder : de toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis van de Vlaamse Wooncode, ingevoegd bij het decreet van 24 maart 2006;<br>
 14° kandidaat-koper : de woonbehoeftige particuliere persoon die een woning of kavel wil aankopen en, eventueel, de persoon met wie hij op de referentiedatum wettelijk of feitelijk samenwoont of met wie hij zal samenwonen;<br>
 15° zittende huurder : een of meer van de volgende personen :<br>
 a) de particuliere ondertekenaar of ondertekenaars bij de aanvang van de huurovereenkomst;<br>
 b) de persoon die gehuwd is of wettelijk is gaan samenwonen na de aanvang van de huurovereenkomst, met de in punt a) vermelde persoon;<br>
 c) de partner die minimaal twaalf maanden feitelijk samenwoont met de in punt a) vermelde persoon, en die tijdens de huurovereenkomst de huurovereenkomst mee heeft ondertekend;<br>
-16° kernsteden : Antwerpen, Gent, Hasselt, Genk, Brugge, Roeselare, Oostende, Kortrijk, Leuven, Vilvoorde, Boom, Mechelen, Dendermonde, Aalst en Sint-Niklaas;<br>
+16° kernsteden : Aalst, Antwerpen, Boom, Brugge, Dendermonde, Genk, Gent, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas, Turnhout en Vilvoorde;<br>
 17° sociaal huurstelsel : het besluit van de Vlaamse Regering tot reglementering van het sociale huurstelsel, genomen ter uitvoering van titel VII van de Vlaamse Wooncode.<br>
 &nbsp;
 
