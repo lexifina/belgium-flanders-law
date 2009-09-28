@@ -2,16 +2,16 @@
   "codex_id": 1014300,
   "title": "Besluit van de Vlaamse Regering van 2005-12-09 betreffende de aanwending van de kapitalen van het Fonds B2 door het Vlaams Woningfonds [...], ter uitvoering van de Vlaamse Wooncode",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014300/VolledigDocument?datum=2008-03-31",
-  "source_sha256": "937eb06f14cb074f58ea13d1299a258f7d1925a13feebf2aee87f143bb4b48d7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014300/VolledigDocument?datum=2009-09-28",
+  "source_sha256": "8908989f76f74397cc26e2f9d76a141df4df49b93d97e192a14affb76f196bba",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014300&param=informatie",
-  "as_of": "2008-03-31",
+  "as_of": "2009-09-28",
   "made": "2005-12-09",
   "gazette": "2006-02-22",
   "numac": 2006035243,
   "document_start": "2005-12-09",
   "document_end": "2020-12-31",
-  "in_force": "2008-03-31",
+  "in_force": "2009-09-28",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2008-03-31; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-09-28; future article versions excluded; article text as the API gives it"
 }
