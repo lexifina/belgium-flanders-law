@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018415,
+  "title": "Ministerieel besluit van 2009-09-25 houdende de erkenning van de Bodemkundige Dienst van België voor het uitvoeren van nitraatstikstofanalyses en analyses op plantbeschikbare fosfor in de bodem tot uitvoering van het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018415/VolledigDocument?datum=2009-09-30",
+  "source_sha256": "d0eeea90b472f6837aecaca3d11cf6f51aecc32a15e4b7af811937637f29f062",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018415&param=informatie",
+  "as_of": "2009-09-30",
+  "made": "2009-09-25",
+  "gazette": "2009-09-30",
+  "numac": 2009204385,
+  "document_start": "2009-09-30",
+  "document_end": null,
+  "in_force": "2009-09-30",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-09-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
