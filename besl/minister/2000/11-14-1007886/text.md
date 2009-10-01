@@ -26,7 +26,7 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, beslist over de aanv
 
 ### ART. 7.
 
-De subsidie wordt uitbetaald nadat het Vlaams Agentschap Zorg en Gezondheid de aankoopfactuur, het bewijs van betaling en een EG-typeverklaring van overeenstemming heeft ontvangen en goedgekeurd.<br /><br />De lokale en regionale dienstencentra, waaraan de subsidie werd toegekend, sturen die bewijsstukken naar het Vlaams Agentschap Zorg en Gezondheid vóór 1 september van het jaar dat volgt op het jaar van de aanvraag.<br /><br />In afwijking van het tweede lid worden de bewijsstukken voor de personenalarmtoestellen die worden gesubsidieerd lastens de begroting 2007, uiterlijk op 1 november 2009 aan het agentschap bezorgd.
+De subsidie wordt uitbetaald nadat het Vlaams Agentschap Zorg en Gezondheid de aankoopfactuur, het bewijs dat wordt voldaan aan de bepalingen van artikel 2, het bewijs van betaling en een EG-typeverklaring van overeenstemming heeft ontvangen en goedgekeurd.<br /><br />De lokale en regionale dienstencentra, waaraan de subsidie werd toegekend, sturen die bewijsstukken naar het Vlaams Agentschap Zorg en Gezondheid vóór 1 september van het jaar dat volgt op het jaar van de aanvraag.<br /><br />In afwijking van het tweede lid worden de bewijsstukken voor de personenalarmtoestellen die worden gesubsidieerd lastens de begroting 2007, uiterlijk op 1 november 2009 aan het agentschap bezorgd.
 
 ### ART. 8.
 
