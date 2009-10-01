@@ -2,16 +2,16 @@
   "codex_id": 1004830,
   "title": "Besluit van de Vlaamse Regering van 1996-07-24 houdende de tegemoetkoming van het Vlaamse Gewest voor maatregelen in het kader van het grond- en pandenbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004830/VolledigDocument?datum=2007-12-07",
-  "source_sha256": "fb1ebd9f7c6cf52f7bcac7a94640d50d956daccbf4cf2970553531701a2a6702",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004830/VolledigDocument?datum=2009-10-01",
+  "source_sha256": "d249c130e4ac260cfc8afb72478b95c2ac30e9af2ba0153584400ab87fc71299",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004830&param=informatie",
-  "as_of": "2007-12-07",
+  "as_of": "2009-10-01",
   "made": "1996-07-24",
   "gazette": "1996-10-25",
   "numac": 1996036249,
   "document_start": null,
   "document_end": "2007-12-06",
-  "in_force": "2007-12-07",
+  "in_force": "2009-10-01",
   "article_versions": 32,
-  "record_form": "consolidated version as in force on 2007-12-07; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-10-01; future article versions excluded; article text as the API gives it"
 }
