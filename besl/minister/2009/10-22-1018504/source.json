@@ -2,16 +2,16 @@
   "codex_id": 1018504,
   "title": "Ministerieel besluit van 2009-10-22 tot overdracht van personeel aan het Agentschap voor Kwaliteitszorg in Onderwijs en Vorming en tot wijziging van delegaties aan ambtenaren van het Vlaams ministerie van Onderwijs en Vorming",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018504/VolledigDocument?datum=2009-09-01",
-  "source_sha256": "94d5fad8a5cf0f671a65e4c791c7f09db8665b46a4da53ec2226138100f15ce4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018504/VolledigDocument?datum=2009-10-01",
+  "source_sha256": "668c1e4501da4f7e350382839155387353506041bc5fb48c1fb7f5cafb918cf2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018504&param=informatie",
-  "as_of": "2009-09-01",
+  "as_of": "2009-10-01",
   "made": "2009-10-22",
   "gazette": "2009-11-03",
   "numac": 2009204856,
   "document_start": "2009-09-01",
   "document_end": null,
-  "in_force": "2009-09-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-10-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-10-01; future article versions excluded; article text as the API gives it"
 }
