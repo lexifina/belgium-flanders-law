@@ -2,28 +2,28 @@
 
 ### ART. 1.
 
-Onder onderneming in moeilijkheden, bedoeld in artikel 89, § 4, 2°, van het besluit van de Vlaamse regering van 21 december 1988 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding, zoals gewijzigd bij het besluit van de Vlaamse regering van 19 januari 1994 wordt verstaan:<br /><br />De onderneming die in de jaarrekeningen van de twee boekjaren die de datum van de aanvraag tot erkenning voorafgaan voor belastingen een verlies uit de gewone bedrijfsuitoefening boekt, wanneer voor het laatste boekjaar dit verlies het bedrag van de afschrijvingen en de waardevermindering op oprichtingskosten, op immateriële en materiële vaste activa overschrijdt. Om van deze bepaling te kunnen genieten, dient de onderneming de jaarrekeningen voor te leggen van de vijf boekjaren die de datum van de aanvraag tot erkenning voorafgaan. Wanneer de onderneming opgericht is sedert minder dan vijf jaar, zijn enkel de jaarrekeningen vereist die betrekking hebben op jaren tijdens dewelke de onderneming reeds bestond.<br /><br />Indien de onderneming deel uitmaakt van de juridische, economische of financiële entiteit die een geconsolideerde jaarrekening opmaakt, wordt enkel rekening gehouden met de jaarrekening van deze entiteit voor bovengenoemde boekjaren.
+...
 
 ### ART. 2.
 
-Onder onderneming in herstructurering, bedoeld in artikel 89, § 4, 2°, van het besluit van de Vlaamse regering van 21 december 1988 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding zoals gewijzigd bij het besluit van de Vlaamse regering van 19 januari 1994, wordt verstaan:<br /><br />1° De onderneming die, overeenkomstig de procedure bepaald bij de collectieve arbeidsovereenkomst nr. 24 van 2 oktober 1975 betreffende de procedure van inlichting en raadpleging van de werknemersvertegenwoordigers met betrekking tot het collectief ontslag en bij het koninklijk besluit van 24 mei 1976 betreffende het collectief ontslag, overgaat tot een collectief ontslag.<br /><br />Deze bepaling is maar van toepassing op de ondernemingen voor zover ze binnen de zes maanden na de datum van de erkenning daadwerkelijk zijn overgegaan tot de uitvoering van dit collectief ontslag.<br /><br />Voor de ondernemingen die meer dan 20 en minder dan 100 werknemers tewerkstellen dient het ontslag op tenminste 10 werknemers betrekking te hebben.<br /><br />Voor de ondernemingen die meer dan 100 werknemers tewerkstellen dient het collectief ontslag op tenminste 10 procent van het aantal tewerkgestelde werknemers betrekking te hebben.<br /><br />Een onderscheid wordt gemaakt tussen:<br /><br />a) de onderneming die overgaat tot een collectief ontslag dat betrekking heeft op minstens 20 procent van het aantal tewerkgestelde werknemers;<br /><br />b) de onderneming die overgaat tot een collectief ontslag dat betrekking heeft op minstens 10 procent van het aantal tewerkgestelde werknemers;<br /><br />c) de onderneming die 20 werknemers of minder tewerkstelt in geval van ontslag van minstens 6 werknemers indien zij tussen 12 en 20 werknemers tewerkstelt en van minstens de helft van de werknemers indien zij minder dan 12 werknemers tewerkstelt.<br /><br />In dit laatste geval dient de onderneming de procedure bedoeld in artikel 6 van voormelde collectieve arbeidsovereenkomst nr. 24, van 2 oktober 1975 te volgen.<br /><br />Voor de toepassing van dit 1° moet het aantal tewerkgestelde werknemers worden vastgesteld overeenkomstig de bepalingen van voormeld koninklijk besluit van 24 mei 1976.<br /><br />Bovendien moet de onderneming binnen de zes maanden na de datum van de erkenning daadwerkelijk overgaan tot de uitvoering van dit collectief ontslag.<br /><br />2° De onderneming die, in toepassing van de bepalingen van artikel 51 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, tijdens het jaar dat de aanvraag tot erkenning voorafgaat, een aantal werkloosheidsdagen heeft gekend tenminste gelijk aan 20 pct. van het totaal dagen aangegeven voor de werklieden aan de Rijksdienst voor Sociale Zekerheid.<br /><br />De toepassing van deze bepaling is beperkt tot de ondernemingen waar tenminste 50 pct. van de werknemers met een arbeidsovereenkomst voor werklieden worden tewerkgesteld.<br /><br />3° De onderneming die zich in de voorwaarden bevindt om over te gaan tot het collectief ontslag zoals bepaald in 1° doch hiertoe niet daadwerkelijk overgaat voor zover zij aantoont dat door het verlenen van de afwijking het ontslag van de betrokken werknemers kan worden vermeden.
+...
 
 ### ART. 3.
 
-Teneinde een erkenning te bekomen als onderneming in moeilijkheden of in herstructurering moet de werkgever een behoorlijk gemotiveerde aanvraag indienen bij de Vlaamse minister bevoegd voor het beroepsopleidingsbeleid.<br /><br />Deze aanvraag moet vergezeld zijn van:<br /><br />1° de nodige documenten die aantonen dat de onderneming voldoet aan één van de voorwaarden bedoeld in de artikelen 1 of 2;<br /><br />2° een herstructureringsplan dat voor advies is voorgelegd aan:<br /><br />- de ondernemingsraad of bij gebrek daaraan;<br /><br />- de syndicale afvaardiging, of bij gebrek daaraan;<br /><br />- het comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen, of bij gebrek daaraan;<br /><br />- de vertegenwoordigers van de representatieve werknemersorganisaties.<br /><br />Dit herstructureringsplan moet eveneens een opleidingsplan bevatten.
+...
 
 ### ART. 4.
 
-De Vlaamse minister bevoegd voor het beroepsopleidingsbeleid, kan voor de toepassing van dit besluit de ondernemingen die een erkenning hebben bekomen in toepassing van afdeling 3 van het koninklijk besluit van 7 december 1992 betreffende de toekenning van werkloosheidsuitkeringen in geval van conventioneel brugpensioen, gelijkstellen met ondernemingen in moeilijkheden of onderneming in herstructurering mits voorlegging van de erkenning bedoeld in artikel 9, § 5, van voormeld koninklijk besluit en in het artikel 3 bedoelde opleidingsplan.
+...
 
 ### ART. 5.
 
-De Vlaamse minister bevoegd voor het beroepsopleidingsbeleid, kan de onderneming die voldoet aan de bepalingen van dit besluit, erkennen voor een periode van maximaal twee jaar. De minister wint vooraf het advies van het beheerscomité van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding in.
+...
 
 ### ART. 6.
 
-(niet opgenomen)<br /><br />(Heft het ministerieel besluit van 12 december 1991 tot uitvoering van artikel 89, § 4, van het besluit van de Vlaamse regering van 21 december 1988 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding op)
+...
 
 ### ART. 7.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 1994.
+...
