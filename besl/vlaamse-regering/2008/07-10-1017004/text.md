@@ -80,6 +80,10 @@ Elke gemeentelijke stedenbouwkundige ambtenaar en elke gemeentelijke ambtenaar, 
 
 ## HOOFDSTUK IV Slotbepalingen
 
+### ART. 18.
+
+Hoofdstuk III van het besluit van de Vlaamse Regering van 24 juli 1996 houdende de tegemoetkoming van het Vlaamse Gewest voor maatregelen in het kader van het grond- en pandenbeleid wordt opgeheven.<br /><br />
+
 ### ART. 19.
 
 Het koninklijk besluit van 8 januari 1980 betreffende de inventaris van onbebouwde percelen in verkavelingen en in woongebieden gelegen in het Vlaamse Gewest wordt opgeheven.<br /><br />
