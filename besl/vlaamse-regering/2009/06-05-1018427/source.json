@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018427,
+  "title": "Besluit van de Vlaamse Regering van 2009-06-05 tot wijziging van bijlage I bij het besluit van de Vlaamse Regering van 19 december 2008 tot vaststelling van de voorwaarden tot het verkrijgen van de subsidies inzake topsport",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018427/VolledigDocument?datum=2009-10-02",
+  "source_sha256": "cd2cac0bd7b923d8e7a6cfa63d9f32dd437b346c9f04054e5a8c0f7f7828c34d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018427&param=informatie",
+  "as_of": "2009-10-02",
+  "made": "2009-06-05",
+  "gazette": "2009-10-02",
+  "numac": 2009204315,
+  "document_start": "2009-10-02",
+  "document_end": null,
+  "in_force": "2009-10-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-10-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
