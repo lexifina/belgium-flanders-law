@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018385,
+  "title": "Besluit van de Vlaamse Regering van 2009-06-05 tot oprichting van een technische commissie voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en Gezin",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018385/VolledigDocument?datum=2009-10-02",
+  "source_sha256": "63ba91a66e7d2fe83a6afd4fbb369bdd1e3004c41851cf0667869cc4a3f66ab6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018385&param=informatie",
+  "as_of": "2009-10-02",
+  "made": "2009-06-05",
+  "gazette": "2009-09-22",
+  "numac": 2009035877,
+  "document_start": "2009-10-02",
+  "document_end": null,
+  "in_force": "2009-10-02",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2009-10-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
