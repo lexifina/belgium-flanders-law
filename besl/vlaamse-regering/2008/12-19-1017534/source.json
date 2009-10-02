@@ -2,16 +2,16 @@
   "codex_id": 1017534,
   "title": "Besluit van de Vlaamse Regering van 2008-12-19 tot vaststelling van de voorwaarden tot het verkrijgen van de subsidies inzake topsport",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017534/VolledigDocument?datum=2009-02-03",
-  "source_sha256": "94fb5e3e31992bb1ee63129cbd2f693853a750550267edc74276fe7dd65fccc9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017534/VolledigDocument?datum=2009-10-02",
+  "source_sha256": "b5f94c7c53a3284aa373df4c8a9888319f182ae37353aa903520578d85e63d0d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017534&param=informatie",
-  "as_of": "2009-02-03",
+  "as_of": "2009-10-02",
   "made": "2008-12-19",
   "gazette": "2009-02-03",
   "numac": 2009035068,
   "document_start": "2009-02-03",
   "document_end": "2016-12-31",
-  "in_force": "2009-02-03",
+  "in_force": "2009-10-02",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2009-02-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-10-02; future article versions excluded; article text as the API gives it"
 }
