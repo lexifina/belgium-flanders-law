@@ -6,16 +6,16 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 30 april 2004 tot opric
 
 ### ART. 1.
 
-§ 1. Voor het behandelen van de aanvragen om afwijking aan de bij besluit van de Vlaamse Regering opgelegde brandveiligheidsnormen wordt een technische commissie brandveiligheid opgericht overeenkomstig artikel 24 van het besluit van de Vlaamse Regering van 19 september 2008 houdende de normen voor de preventie van brand in de voorzieningen voor kinderopvang, die is samengesteld als volgt : <br />1° een afgevaardigde van het departement Welzijn, Volksgezondheid en Gezin, afdeling Vlaamse Infrastructuurfonds voor de Persoonsgebonden Aangelegenheden;<br />2° een vertegenwoordiger van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br />3° een deskundige uit de kinderopvangsector;<br />4° een deskundige uit de brandweerdiensten.<br /><br />Er wordt voor elk effectief lid, als vermeld in het eerste lid, een plaatsvervanger aangewezen.<br /><br />§ 2. De afgevaardigde, vermeld in paragraaf 1,1°, en zijn plaatsvervanger zijn aangewezen door het hoofd van het departement Welzijn, Volksgezondheid en Gezin en zijn voorzitter en plaatsvervangend voorzitter van deze technische commissie.<br /><br />De vertegenwoordiger, vermeld in paragraaf 1, 2°, en zijn plaatsvervanger zijn aangewezen door het hoofd van het agentschap Kind en Gezin en zijn secretaris en plaatsvervangend secretaris van deze technische commissie.<br /><br />De leden, vermeld in paragraaf 1, 3° en 4°, en hun plaatsvervangers zijn aangewezen door de Vlaamse minister, bevoegd voor de bijstand aan personen.<br /><br />De technische commissie stelt een huishoudelijk reglement op waarin de werking en de onverenigbaarheden worden geregeld. De Vlaamse minister, bevoegd voor de bijstand aan personen, keurt het huishoudelijk reglement goed. De beslissingen worden genomen bij meerderheid van stemmen, waarbij de vertegenwoordiger vermeld in paragraaf 1, 2°, of zijn plaatsvervanger niet deelneemt aan de stemming.<br /><br />§ 3. Naast de terugbetaling van de reiskosten volgens dezelfde normen als voor de ambtenaren van het ministerie van de Vlaamse Gemeenschap, waarbij de externe leden worden gelijkgesteld met ambtenaren van niveau A, wordt voor de leden van de technische commissie, vermeld in § 1, 3° en 4° of hun plaatsvervangers een forfaitaire vergoeding voorzien voor de plaatsbezoeken. De forfaitaire vergoeding bedraagt 150 euro per uitgebracht advies door de technische commissie brandveiligheid, en is ten laste van de begroting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin.
+...
 
 ### ART. 2.
 
-Het besluit van de Vlaamse Regering van 1 oktober 2004 houdende de oprichting van een technische commissie voor de brandveiligheid in de kinderdagverblijven, de initiatieven voor buitenschoolse opvang en de mini-crèches wordt opgeheven.
+...
 
 ### ART. 3.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2007.
+...
 
 ### ART. 4.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.
+...
