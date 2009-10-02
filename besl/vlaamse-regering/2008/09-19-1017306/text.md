@@ -419,7 +419,7 @@ De voorzieningen die op de datum van de inwerkingtreding van dit besluit erkend 
 
 ### ART. 24.
 
-Als een initiatief niet kan voldoen aan een of meer specificaties van dit besluit, kan de Vlaamse minister, bevoegd voor de bijstand aan personen, afwijkingen toestaan op advies van de technische commissie brandveiligheid voor de kinderopvang.<br /><br />Alternatieve oplossingen moeten een veiligheidsniveau bieden dat ten minste gelijk is aan het niveau, vereist in de voorschriften waarvoor een afwijking wordt gevraagd.<br /><br />
+Als een initiatief niet kan voldoen aan een of meer specificaties van dit besluit, kan de Vlaamse minister, bevoegd voor de bijstand aan personen, afwijkingen toestaan op advies van de technische commissie voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en Gezin.<br /><br />Alternatieve oplossingen moeten een veiligheidsniveau bieden dat ten minste gelijk is aan het niveau, vereist in de voorschriften waarvoor een afwijking wordt gevraagd.<br /><br />
 
 ### ART. 25.
 
