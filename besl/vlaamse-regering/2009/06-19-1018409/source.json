@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018409,
+  "title": "Besluit van de Vlaamse Regering van 2009-06-19 tot wijziging van het besluit van de Vlaamse Regering van 2 april 2004 tot vaststelling van de personeelsformatie van de administratieve diensten van de Raad van het Gemeenschapsonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018409/VolledigDocument?datum=2009-10-05",
+  "source_sha256": "51cdd16e40b8c5ae7d822494808ca757d609793a8cff50ac54a08ffa41b36a44",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018409&param=informatie",
+  "as_of": "2009-10-05",
+  "made": "2009-06-19",
+  "gazette": "2009-09-25",
+  "numac": 2009035924,
+  "document_start": "2009-10-05",
+  "document_end": null,
+  "in_force": "2009-10-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-10-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
