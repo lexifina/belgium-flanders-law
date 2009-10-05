@@ -2,16 +2,16 @@
   "codex_id": 1013264,
   "title": "Besluit van de Vlaamse Regering van 2004-04-02 tot vaststelling van de personeelsformatie van de administratieve diensten van de Raad van het Gemeenschapsonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013264/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "8527663bebf4a0988a0ad18d3443038631e753c472bfff314aebaec8f37a56c1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013264/VolledigDocument?datum=2009-10-05",
+  "source_sha256": "1d4125666b701ff67756eadcaa4a5d6f2bef8d24e4325657b0d6509f1a727056",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013264&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-10-05",
   "made": "2004-04-02",
   "gazette": "2004-07-23",
   "numac": 2004036205,
   "document_start": "2004-07-24",
   "document_end": "2013-05-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-10-05",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-10-05; future article versions excluded; article text as the API gives it"
 }
