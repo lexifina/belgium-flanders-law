@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018420,
+  "title": "Besluit van de Vlaamse Regering van 2009-05-15 houdende goedkeuring van de wijziging van het organiek reglement tot vaststelling van de regeling inzake het personeel van de Sociaal-Economische Raad van Vlaanderen en van de personeelsformatie inzake de aanpassing van het organiek reglement aan de lineaire baremieke verhoging van 2 % op 1 januari 2009 conform het sectoraal akkoord 2008-2009",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018420/VolledigDocument?datum=2009-10-12",
+  "source_sha256": "e5d5e0e26f9570a1771df67bbef5b13fc9b4b5b9b89b6f009b661749c18791f6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018420&param=informatie",
+  "as_of": "2009-10-12",
+  "made": "2009-05-15",
+  "gazette": "2009-10-02",
+  "numac": 2009035928,
+  "document_start": "2009-10-12",
+  "document_end": null,
+  "in_force": "2009-10-12",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-10-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
