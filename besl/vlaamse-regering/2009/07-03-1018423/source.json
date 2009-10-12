@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018423,
+  "title": "Besluit van de Vlaamse Regering van 2009-07-03 houdende toewijzing van taken van bepaalde sectorale fondsen aan de VZW Vlaams Instituut voor Vorming en Opleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018423/VolledigDocument?datum=2009-10-12",
+  "source_sha256": "74d7a2a5e88fcc41922cc100ca1d18a279d3bfd6e0c74ddd727cdbe0743b4a9a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018423&param=informatie",
+  "as_of": "2009-10-12",
+  "made": "2009-07-03",
+  "gazette": "2009-10-02",
+  "numac": 2009204324,
+  "document_start": "2009-10-12",
+  "document_end": null,
+  "in_force": "2009-10-12",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-10-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
