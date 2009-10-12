@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018422,
+  "title": "Besluit van de Vlaamse Regering van 2009-07-03 tot eigendomsoverdracht van de onroerende goederen van het voormalige Rijksinstituut voor Grondmechanica aan de Universiteit Gent",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018422/VolledigDocument?datum=2009-10-12",
+  "source_sha256": "54e858340cfbd491ecc29e151f6b43cd1af526b5774099edaffb8b5ecfeb1bf8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018422&param=informatie",
+  "as_of": "2009-10-12",
+  "made": "2009-07-03",
+  "gazette": "2009-10-02",
+  "numac": 2009204322,
+  "document_start": "2009-10-12",
+  "document_end": null,
+  "in_force": "2009-10-12",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-10-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
