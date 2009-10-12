@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018426,
+  "title": "Besluit van de Vlaamse Regering van 2009-06-19 houdende goedkeuring van programmatie van specifieke structuuronderdelen van de derde graad of van een nieuw studiegebied van scholen al dan niet behorende tot een scholengemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018426/VolledigDocument?datum=2009-10-12",
+  "source_sha256": "f323f6d14b5499b7e4d362e0a4afabc049d8c8bdd9efb8d069c4029e3c988303",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018426&param=informatie",
+  "as_of": "2009-10-12",
+  "made": "2009-06-19",
+  "gazette": "2009-10-02",
+  "numac": 2009204317,
+  "document_start": "2009-10-12",
+  "document_end": null,
+  "in_force": "2009-10-12",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-10-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
