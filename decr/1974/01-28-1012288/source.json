@@ -2,16 +2,16 @@
   "codex_id": 1012288,
   "title": "Decreet van 1974-01-28 betreffende het Cultuurpact",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012288/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f483f486092ceb464d580638cc9db3f488a12bc7bac977c5fced3a4e1aef9bce",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012288/VolledigDocument?datum=2009-10-15",
+  "source_sha256": "d06a3d4e0594e6a1c108d885b8193d4c66fb50232f005b82123448e55f4d2835",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012288&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-10-15",
   "made": "1974-01-28",
   "gazette": "1974-05-31",
   "numac": 1974012805,
   "document_start": "1974-06-10",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2009-10-15",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-10-15; future article versions excluded; article text as the API gives it"
 }

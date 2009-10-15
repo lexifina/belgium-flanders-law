@@ -106,28 +106,11 @@ Een Vaste Nationale Cultuurpactcom­mis­sie wordt inge­steld die tot taak heef
 
 ### ART. 22.
 
-De commissie bestaat uit 26 vaste leden en 26 plaats­vervangende leden waarvan 13 Ne­derlandstalige vaste leden en 13 Franstalige vaste leden, alsmede 13 Nederlandstalige plaatsvervan­gende leden en 13 Franstalige plaatsvervangende leden.<br>
-<br>
-De Franstalige vaste en plaatsvervangende leden worden gekozen door de Cultuurraad voor de Franse cultuurgemeenschap; de Nederlandstalige vaste en plaatsvervangende leden worden ge­kozen door de Cultuurraad voor de Nederlandse cultuur­gemeen­schap overeenkomstig de evenredige ver­tegenwoordi­ging van de poli­tieke fracties waaruit deze Cul­tuurraden bestaan.<br>
-<br>
-De commissie omvat bovendien twee vaste en twee plaatsvervan­gende leden aangewezen door de Raad van de Duitse cultuurge­meenschap. Wanneer een klacht, die betrekking heeft op het Duitse taalgebied, aanhangig is bij de commissie, hebben be­doelde leden medebeslissende stem.<br>
-<br>
-De duur van het mandaat van de leden van de commissie is vier jaar.<br>
-<br>
-De partijen, die in de commissie niet vertegen­woordigd zijn, mogen een Nederlandstalig, een Franstalig of een Duitstalig lid met adviserende stem aanwijzen, op voorwaarde dat zij vertegen­woordigd zijn in de Cultuurraad van de betrokken ge­meenschap. De aanwijzing wordt gedaan door de politieke frac­tie van de betrokken Cultuurraad.<br>
-Er is onverenigbaarheid tussen het lidmaatschap van de commis­sie en de uitoefening van een poli­tiek kiesmandaat.<br>
-<br>
-De kredieten die nodig zijn voor de werking van de commissie, worden voor de helft uitgetrokken op elk van de begrotingen van de ministeries van Nederlandse Cultuur en van Franse Cul­tuur.<br>
-<br>
-De commissie wordt bijgestaan door rijksambte­naren die door de Regering te harer beschikking worden gesteld.
+De commissie bestaat uit 26 vaste leden en 26 plaats­vervangende leden waarvan 13 Ne­derlandstalige vaste leden en 13 Franstalige vaste leden, alsmede 13 Nederlandstalige plaatsvervan­gende leden en 13 Franstalige plaatsvervangende leden. <br /><br />De Franstalige vaste en plaatsvervangende leden worden gekozen door de Cultuurraad voor de Franse cultuurgemeenschap; de Nederlandstalige vaste en plaatsvervangende leden worden ge­kozen door de Cultuurraad voor de Nederlandse cultuur­gemeen­schap overeenkomstig de evenredige ver­tegenwoordi­ging van de poli­tieke fracties waaruit deze Cul­tuurraden bestaan. <br /><br />De commissie omvat bovendien twee vaste en twee plaatsvervan­gende leden aangewezen door de Raad van de Duitse cultuurge­meenschap. Wanneer een klacht, die betrekking heeft op het Duitse taalgebied, aanhangig is bij de commissie, hebben be­doelde leden medebeslissende stem. <br /><br />De duur van het mandaat van de leden van de commissie is vijf jaar. <br /><br />De partijen, die in de commissie niet vertegen­woordigd zijn, mogen een Nederlandstalig, een Franstalig of een Duitstalig lid met adviserende stem aanwijzen, op voorwaarde dat zij vertegen­woordigd zijn in de Cultuurraad van de betrokken ge­meenschap. De aanwijzing wordt gedaan door de politieke frac­tie van de betrokken Cultuurraad. <br />Er is onverenigbaarheid tussen het lidmaatschap van de commis­sie en de uitoefening van een poli­tiek kiesmandaat. <br /><br />De kredieten die nodig zijn voor de werking van de commissie, worden voor de helft uitgetrokken op elk van de begrotingen van de ministeries van Nederlandse Cultuur en van Franse Cul­tuur. <br /><br />De commissie wordt bijgestaan door rijksambte­naren die door de Regering te harer beschikking worden gesteld.
 
 ### ART. 23.
 
-Het mandaat van de leden van de com­missie verstrijkt 3 maanden na de hernieuwing van de Wetgevende Kamers.<br>
-<br>
-De commissie benoemt onder haar leden twee voorzitters bij volstrekte meerderheid der stem­men van de Nederlandstalige leden enerzijds en van de Franstalige leden anderzijds.<br>
-<br>
-De commissie benoemt onder haar leden evenveel ondervoorzit­ters als er politieke fracties zijn ener­zijds bij de Neder­landstalige leden en anderzijds bij de Franstalige leden.
+Het mandaat van de leden van de com­missie verstrijkt zes maanden na de algehele vernieuwing van de gemeenschapsparlementen. <br /><br />De commissie benoemt onder haar leden twee voorzitters bij volstrekte meerderheid der stem­men van de Nederlandstalige leden enerzijds en van de Franstalige leden anderzijds. <br /><br />De commissie benoemt onder haar leden evenveel ondervoorzit­ters als er politieke fracties zijn ener­zijds bij de Neder­landstalige leden en anderzijds bij de Franstalige leden. <br />
 
 ### ART. 24.
 
