@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018434,
+  "title": "Ministerieel besluit van 2009-09-21 tot goedkeuring van het huishoudelijk reglement van het Raadgevend Comité van het Instituut voor Landbouw- en Visserijonderzoek (ILVO)",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018434/VolledigDocument?datum=2009-10-22",
+  "source_sha256": "05562ef5edcf216b871bb4bd653b4d6c07069720953eeeeda5692de4a8412a7c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018434&param=informatie",
+  "as_of": "2009-10-22",
+  "made": "2009-09-21",
+  "gazette": "2009-10-12",
+  "numac": 2009204518,
+  "document_start": "2009-10-22",
+  "document_end": null,
+  "in_force": "2009-10-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-10-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
