@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018550,
+  "title": "Besluit van de Vlaamse Regering van 2009-10-23 tot wijziging van het besluit van de Vlaamse Regering van 18 februari 2005 tot aanwijzing van de vertegenwoordiging van de Vlaamse Regering in het Belgisch Interventie- en Restitutiebureau",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018550/VolledigDocument?datum=2009-10-23",
+  "source_sha256": "2ce7fafb7b4c7b55ad5fa18b624f2b37c7ed601596336f949210e4ca09977c47",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018550&param=informatie",
+  "as_of": "2009-10-23",
+  "made": "2009-10-23",
+  "gazette": "2009-12-04",
+  "numac": 2009036097,
+  "document_start": "2009-10-23",
+  "document_end": null,
+  "in_force": "2009-10-23",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-10-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
