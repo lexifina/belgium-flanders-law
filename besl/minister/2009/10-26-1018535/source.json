@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018535,
+  "title": "Ministerieel besluit van 2009-10-26 tot uitvoering van artikel 4 van het ministerieel besluit van 1 oktober 2007 tot uitvoering van het besluit van de Vlaamse Regering van 16 mei 2007 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018535/VolledigDocument?datum=2009-10-26",
+  "source_sha256": "f58526d8c81938fe2db6550584ac600bd2d5dabf88d040f53366ce3b6394bb78",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018535&param=informatie",
+  "as_of": "2009-10-26",
+  "made": "2009-10-26",
+  "gazette": "2009-11-27",
+  "numac": 2009036066,
+  "document_start": "2009-10-26",
+  "document_end": null,
+  "in_force": "2009-10-26",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2009-10-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
