@@ -2,16 +2,16 @@
   "codex_id": 1018751,
   "title": "Ministerieel besluit van 2010-01-29 tot wijziging van het ministerieel besluit van 9 maart 2007 tot uitvoering van het besluit van de Vlaamse Regering van 2 maart 2007 tot instelling van een tegemoetkoming in de kosten bij de renovatie van een woning wat de subsidiabele werkzaamheden betreft",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018751/VolledigDocument?datum=2007-03-26",
-  "source_sha256": "9aeab8f83e518cec9f07a3c8f0365bf687881bac6fdbe560932f9464942d1191",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018751/VolledigDocument?datum=2009-10-29",
+  "source_sha256": "5d9c61e14bceb14f8781afda3e699299231d2919be7ef00eba1f192c774e9d88",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018751&param=informatie",
-  "as_of": "2007-03-26",
+  "as_of": "2009-10-29",
   "made": "2010-01-29",
   "gazette": "2010-02-04",
   "numac": 2010035102,
   "document_start": "2009-10-29",
   "document_end": null,
-  "in_force": "2007-03-26",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2007-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-10-29",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-10-29; future article versions excluded; article text as the API gives it"
 }
