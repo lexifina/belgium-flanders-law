@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018762,
+  "title": "Besluit van de Vlaamse Regering van 2010-01-22 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de aanwijzing in de mandaatfuncties van N-niveau en van algemeen directeur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018762/VolledigDocument?datum=2009-10-30",
+  "source_sha256": "19e5d0e972ff3baa6d257e57db72a2f2b70960253d8307441e233bbda72c697d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018762&param=informatie",
+  "as_of": "2009-10-30",
+  "made": "2010-01-22",
+  "gazette": "2010-02-12",
+  "numac": 2010035113,
+  "document_start": "2009-10-30",
+  "document_end": null,
+  "in_force": "2009-10-30",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2009-10-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
