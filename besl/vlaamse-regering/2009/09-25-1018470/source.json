@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018470,
+  "title": "Besluit van de Vlaamse Regering van 2009-09-25 betreffende het vijfjaarlijks mobiliteitsrapport en de jaarlijkse verslagen van de Mobiliteitsraad van Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018470/VolledigDocument?datum=2009-10-31",
+  "source_sha256": "b0248c5ce1cbe94cd3156e2c3fa4f8aa3fd2dcce256282db24b09512fcb268b2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018470&param=informatie",
+  "as_of": "2009-10-31",
+  "made": "2009-09-25",
+  "gazette": "2009-10-21",
+  "numac": 2009035995,
+  "document_start": "2009-10-31",
+  "document_end": null,
+  "in_force": "2009-10-31",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2009-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
