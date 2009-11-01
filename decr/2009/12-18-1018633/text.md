@@ -172,4 +172,8 @@ In artikel 16bis van het decreet van 24 mei 2002 betreffende water bestemd voor 
 
 ## HOOFDSTUK XX Interlandelijke adoptie
 
+### ART. 153.
+
+Aan artikel 21, § 1, van het decreet van 15 juli 2005 tot regeling van de interlandelijke adoptie van kinderen wordt volgende zin toegevoegd :<br />« De Vlaamse Regering stelt nadere regels voor de werking en de subsidiëring ervan op. ».<br /><br />
+
 ## HOOFDSTUK XXI Slotbepalingen
