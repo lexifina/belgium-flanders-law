@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018533,
+  "title": "Ministerieel besluit van 2009-10-29 houdende vervanging van de refertelijst inzake individuele materiële bijstand",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018533/VolledigDocument?datum=2009-11-01",
+  "source_sha256": "7db7e64a8e875abaaa445329927342e405204bea447e5773f258026415d417c2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018533&param=informatie",
+  "as_of": "2009-11-01",
+  "made": "2009-10-29",
+  "gazette": "2009-11-25",
+  "numac": 2009036071,
+  "document_start": "2009-11-01",
+  "document_end": null,
+  "in_force": "2009-11-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
