@@ -2,16 +2,16 @@
   "codex_id": 1013972,
   "title": "Decreet van 2005-07-15 tot regeling van de interlandelijke adoptie van kinderen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013972/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "e1ee405e10431fda9523de7af2905d9df10cbf0bddd66e747bdcffa3768b77fb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013972/VolledigDocument?datum=2009-11-01",
+  "source_sha256": "0c9ff81e456ea96b6dcc558ca3c53e62077f765da306eb34cf9f70501daaf7d8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013972&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-11-01",
   "made": "2005-07-15",
   "gazette": "2005-09-16",
   "numac": 2005036060,
   "document_start": "2005-09-01",
   "document_end": "2012-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2009-11-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-11-01; future article versions excluded; article text as the API gives it"
 }
