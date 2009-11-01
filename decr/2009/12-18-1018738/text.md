@@ -62,6 +62,10 @@ In artikel 11 van het decreet van 13 februari 2009 houdende de organisatie van s
 
 ## Afdeling VII Volwassenenonderwijs
 
+### ART. 12.
+
+Artikel 72bis van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, ingevoegd bij het decreet van 8 mei 2009, wordt vervangen door wat volgt :<br />« Art. 72bis. De Vlaamse Regering beschikt jaarlijks binnen de beschikbare begrotingskredieten over middelen voor het ondersteunen en het stimuleren van de centra die opleidingen als gecombineerd onderwijs willen organiseren. ».<br /><br />
+
 ### ART. 13.
 
 In afwijking van artikel 110, § 3, van hetzelfde decreet wordt aan het Fonds Inschrijvingsgelden Centra voor Volwassenenonderwijs voor het begrotingsjaar 2009 een dotatie toegekend van 3.171.000 euro ten laste van de algemene uitgavenbegroting van de Vlaamse Gemeenschap.<br /><br />
