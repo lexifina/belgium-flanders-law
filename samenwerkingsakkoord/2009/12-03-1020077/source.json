@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020077,
+  "title": "Samenwerkingsakkoord van 2009-12-03 tussen de Federale Staat en de Gewesten betreffende de uitvoering van het Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart, ondertekend te Straatsburg op 9 september 1996",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020077/VolledigDocument?datum=2009-11-01",
+  "source_sha256": "923e8593bddb04afd10607044320391fef3988838cc98c4bf3dad25f9ed8ce5e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020077&param=informatie",
+  "as_of": "2009-11-01",
+  "made": "2009-12-03",
+  "gazette": "2011-03-03",
+  "numac": 2011014035,
+  "document_start": "2009-11-01",
+  "document_end": null,
+  "in_force": "2009-11-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2009-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
