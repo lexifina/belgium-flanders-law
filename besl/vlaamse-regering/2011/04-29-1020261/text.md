@@ -69,6 +69,53 @@ In artikel VII 70quinquies § 2 van hetzelfde besluit, ingevoegd bij het besluit
 
 Aan artikel VII 155, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 mei 2009, wordt een tweede lid toegevoegd, dat luidt als volgt :<br /><br />« Artikel VII 20, § 3 en § 4, zijn van toepassing op de extra dertiende maand, vermeld in het eerste lid. In afwijking van artikel VII 22, § 3, wordt de extra dertiende maand uitbetaald tijdens de maand januari van het volgende kalenderjaar ».
 
+### ART. 50.
+
+In artikel X 9 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 16 maart 2007 en 23 mei 2008, wordt paragraaf 3 vervangen door wat volgt :<br>
+<br>
+« § 3. In afwijking van paragraaf 1 hebben de volgende personeelsleden van het agentschap Jongerenwelzijn die in een gemeenschapsinstelling of in een federaal (detentie)centrum werken, recht op het hierna vermelde aantal jaarlijkse verlofdagen :<br>
+1° deskundige, hoofddeskundige en medewerker met de functie van begeleider of hoofdbegeleider;<br>
+2° personeelsleden van niveau D met de functie van nachtwaker;<br>
+3° hoofddeskundige, deskundige, medewerker, technicus, technisch assistent met de functie van vakleraar of leraar.
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:142.5pt">
+			<p>Leeftijd<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
+			<p>aantal verlofdagen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:142.5pt">
+			<p>van 45 tot en met 49 jaar</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
+			<p>36 dagen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:142.5pt">
+			<p>van 50 tot en met 54 jaar</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
+			<p>48 dagen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:142.5pt">
+			<p>van 55 tot en met 64 jaar</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
+			<p>60 dagen</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
 ### ART. 56.
 
 In artikel 28, 9°, van het besluit van de Vlaamse Regering van 18 juni 2010 tot wijziging van het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de arrondissementscommissarissen en de adjunct-arrondissementscommissaris, worden de woorden « 1 mei 2009 » vervangen door de woorden « 1 juli 2010 ».
