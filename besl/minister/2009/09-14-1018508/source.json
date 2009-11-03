@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018508,
+  "title": "Ministerieel besluit van 2009-09-14 tot bepaling van de standaard voor de titel van arbeidsconsulent",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018508/VolledigDocument?datum=2009-11-03",
+  "source_sha256": "b5395ec45c64402bea09875a078730f285a237850a9a62e16a35533672be72a1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018508&param=informatie",
+  "as_of": "2009-11-03",
+  "made": "2009-09-14",
+  "gazette": "2009-11-03",
+  "numac": 2009204862,
+  "document_start": "2009-11-03",
+  "document_end": "2018-12-31",
+  "in_force": "2009-11-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-11-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
