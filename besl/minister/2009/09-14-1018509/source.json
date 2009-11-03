@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018509,
+  "title": "Ministerieel besluit van 2009-09-14 tot bepaling van de standaard voor de titel van uitvoerend CAD-tekenaar bouwkunde",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018509/VolledigDocument?datum=2009-11-03",
+  "source_sha256": "0727f646b4c49624a0ba5924d2b55c62c2856d4adbdc3f84354cc1a86380411a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018509&param=informatie",
+  "as_of": "2009-11-03",
+  "made": "2009-09-14",
+  "gazette": "2009-11-03",
+  "numac": 2009204864,
+  "document_start": "2009-11-03",
+  "document_end": "2018-12-31",
+  "in_force": "2009-11-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-11-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
