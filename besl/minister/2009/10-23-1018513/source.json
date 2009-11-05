@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018513,
+  "title": "Ministerieel besluit van 2009-10-23 tot bepaling van de standaard voor de titel van autoverkoper",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018513/VolledigDocument?datum=2009-11-05",
+  "source_sha256": "46543770f6f6b1a1b3cba3f6888c3857f6ee5f3ca3a70c5a09af7da9b55c7b9d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018513&param=informatie",
+  "as_of": "2009-11-05",
+  "made": "2009-10-23",
+  "gazette": "2009-11-05",
+  "numac": 2009204880,
+  "document_start": "2009-11-05",
+  "document_end": "2018-12-31",
+  "in_force": "2009-11-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2009-11-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
