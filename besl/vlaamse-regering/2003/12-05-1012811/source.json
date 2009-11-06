@@ -2,16 +2,16 @@
   "codex_id": 1012811,
   "title": "Besluit van de Vlaamse Regering van 2003-12-05 tot vaststelling van het Vlaams reglement inzake afvalvoorkoming en -beheer",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012811/VolledigDocument?datum=2009-11-01",
-  "source_sha256": "3b930999c0637a57f6cbb3730bba74234f51944cac104da877fb1e38f481c926",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012811/VolledigDocument?datum=2009-11-06",
+  "source_sha256": "7716994fbd43e9f184dedea51e5fb906334a3642680e89e86fc2de67754634f6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012811&param=informatie",
-  "as_of": "2009-11-01",
+  "as_of": "2009-11-06",
   "made": "2003-12-05",
   "gazette": "2004-04-30",
   "numac": 2004035537,
   "document_start": "2004-06-01",
   "document_end": "2012-05-31",
-  "in_force": "2009-11-01",
+  "in_force": "2009-11-06",
   "article_versions": 279,
-  "record_form": "consolidated version as in force on 2009-11-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-11-06; future article versions excluded; article text as the API gives it"
 }
