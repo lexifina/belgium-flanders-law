@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018491,
+  "title": "Ministerieel besluit van 2009-10-12 betreffende de bekrachtiging van de aanwijzing van de leden van het college van beroep inzake tucht bij Artesis Hogeschool Antwerpen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018491/VolledigDocument?datum=2009-11-07",
+  "source_sha256": "b179ceb799b33ad31e0094f8af87013d33de15161da851d8e85327e3291968e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018491&param=informatie",
+  "as_of": "2009-11-07",
+  "made": "2009-10-12",
+  "gazette": "2009-10-28",
+  "numac": 2009204802,
+  "document_start": "2009-11-07",
+  "document_end": null,
+  "in_force": "2009-11-07",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-11-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
