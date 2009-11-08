@@ -1,0 +1,9 @@
+# Ministerieel besluit van 2009-10-21 tot wijziging van het ministerieel besluit van 21 december 2007 houdende uitvoering van een aantal bepalingen van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode
+
+### Aanhef
+
+De Vlaamse minister van Energie, Wonen, Steden en Sociale Economie,<br /><br />Gelet op het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, artikel 99, gewijzigd bij het decreet van 15 december 2006; <br /><br />Gelet op het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode, artikel 40; <br /><br />Gelet op het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij het besluit van de Vlaamse Regering van 24 juli 2009, <br /><br />Besluit : <br /><br />
+
+### ART. 1.
+
+In het ministerieel besluit van 21 december 2007 houdende uitvoering van een aantal bepalingen van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode wordt een artikel 7/1 ingevoegd, dat luidt als volgt : <br />« Artikel 7/1. Met uitvoering van artikel 40 van het besluit, worden de geschatte marktwaarden telkens op 1 januari geactualiseerd. De actualisering gebeurt door de geschatte marktwaarden aan te passen aan de evolutie van de gezondheidsindex (basis 2004), naar het gezondheidsindexcijfer van de maand juni van het voorgaande jaar en met als basis het gezondheidsindexcijfer van juni van het jaar waarin de schatting plaatsvond. Het resultaat wordt afgerond naar het eerstvolgende natuurlijke getal. » <br /><br />

@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018498,
+  "title": "Ministerieel besluit van 2009-10-21 tot wijziging van het ministerieel besluit van 21 december 2007 houdende uitvoering van een aantal bepalingen van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018498/VolledigDocument?datum=2009-11-08",
+  "source_sha256": "29969719bba1b9d41ff0c1b078f1d20c2c4c533a11f254f625591d99e7ed2946",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018498&param=informatie",
+  "as_of": "2009-11-08",
+  "made": "2009-10-21",
+  "gazette": "2009-10-29",
+  "numac": 2009204857,
+  "document_start": "2009-11-08",
+  "document_end": null,
+  "in_force": "2009-11-08",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-11-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
