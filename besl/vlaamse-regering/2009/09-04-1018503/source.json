@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018503,
+  "title": "Besluit van de Vlaamse Regering van 2009-09-04 betreffende de verlenging met één jaar van de termijn voor de instandhouding van de betrekking van adjunct-directeur voor een school van het voltijds secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018503/VolledigDocument?datum=2009-11-09",
+  "source_sha256": "f51799d34f21ed0bc559c72a6571bec9657c132615448c7e55f5fac1d0691b98",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018503&param=informatie",
+  "as_of": "2009-11-09",
+  "made": "2009-09-04",
+  "gazette": "2009-10-30",
+  "numac": 2009036016,
+  "document_start": "2009-11-09",
+  "document_end": null,
+  "in_force": "2009-11-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-11-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
