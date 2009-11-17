@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018519,
+  "title": "Besluit van de Vlaamse Regering van 2009-09-04 tot wijziging van het besluit van de Vlaamse Regering van 7 december 2007 inzake verhandelbare emissierechten voor broeikasgassen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018519/VolledigDocument?datum=2009-11-17",
+  "source_sha256": "da2b1caaea6543b307c6b1fdb476dc4a9a3681c9167977ebcff71d42d215a729",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018519&param=informatie",
+  "as_of": "2009-11-17",
+  "made": "2009-09-04",
+  "gazette": "2009-11-17",
+  "numac": 2009036033,
+  "document_start": "2009-11-17",
+  "document_end": null,
+  "in_force": "2009-11-17",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2009-11-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
