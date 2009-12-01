@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018428,
+  "title": "Besluit van de Vlaamse Regering van 2009-06-19 houdende de voorwaarden tot toekenning van de subsidies en houdende de wijze van selectie, de duur en de evaluatie van kortdurende en langdurige time-outprogramma's",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018428/VolledigDocument?datum=2009-12-01",
+  "source_sha256": "40166abbe6432edee78474e9a2610a8ace009aec2a47afef060534224701d648",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018428&param=informatie",
+  "as_of": "2009-12-01",
+  "made": "2009-06-19",
+  "gazette": "2009-10-05",
+  "numac": 2009204313,
+  "document_start": "2010-01-01",
+  "document_end": "2015-11-30",
+  "in_force": "2009-12-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2009-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
