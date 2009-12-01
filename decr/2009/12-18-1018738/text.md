@@ -84,6 +84,10 @@ Aan artikel 47 van het decreet van 8 mei 2009 betreffende de kwaliteit van onder
 
 ## Afdeling X Terbeschikkingstelling
 
+### ART. 16.
+
+Hoofdstuk III van het besluit van de Vlaamse Regering van 22 februari 2002 betreffende de terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen voor personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool wordt geschorst met ingang van 1 december 2009.<br /><br />De aanvragen die ten laatste op 30 november 2009 bij het hogeschoolbestuur zijn ingediend, kunnen geen latere ingangsdatum hebben dan 1 maart 2010. Deze aanvragen worden behandeld overeenkomstig artikel 25 tot en met 30 van het besluit van de Vlaamse Regering van 22 februari 2002 betreffende de terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen voor personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool zoals het van kracht was op 30 november 2009.<br /><br />Indien voormelde aanvragen een latere ingangsdatum hebben dan 1 maart 2010, worden de aanvragers in staat gesteld om ten laatste op 30 november 2009 bij het hogeschoolbestuur een nieuwe aanvraag in te dienen die uiterlijk op 1 maart 2010 kan ingaan.<br /><br />De Vlaamse Regering wordt gemachtigd om de voorgaande bepalingen te wijzigen, te vervangen of geheel of gedeeltelijk op te heffen.<br /><br />
+
 ## HOOFDSTUK III Successierechten
 
 ### ART. 18.
