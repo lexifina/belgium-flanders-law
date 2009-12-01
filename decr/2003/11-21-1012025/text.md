@@ -160,21 +160,19 @@ Ieder Logo heeft een eigen werkgebied dat een geografisch aaneengesloten gebied 
 
 ### ART. 32.
 
-§ 1. De continuïteit van de individuele preventieve zorg- en dienstverstrekking moet verzekerd worden, onder andere door de uitwisseling van gegevens die betrekking hebben op het zorgaanbod, tussen partnerorganisaties, organisaties met terreinwerking en individuele zorgaanbieders onderling. Deze gegevensuitwisseling is noodzakelijk voor de uitbouw en werking van een operationeel informatiesysteem.<br>
+§ 1. De continu´teit van de individuele preventieve zorg- en dienstverstrekking moet verzekerd worden, onder andere door de uitwisseling van gegevens die betrekking hebben op het zorgaanbod, tussen partnerorganisaties, organisaties met terreinwerking en individuele zorgaanbieders onderling. Deze gegevensuitwisseling is noodzakelijk voor de uitbouw en werking van een operationeel informatiesysteem als bedoeld in het decreet betreffende het gezondheidsinformatiesysteem.<br>
 <br>
-§ 2. Logo's, partnerorganisaties, organisaties met terreinwerking en individuele zorgaanbieders moeten, enerzijds, onderling en, anderzijds, met de Vlaamse overheid gegevens uitwisselen die noodzakelijk zijn voor de uitbouw en werking van een epidemiologisch informatiesysteem om beleidsvoering zoveel mogelijk wetenschappelijk te onderbouwen.<br>
+§ 2. Logo's, partnerorganisaties, organisaties met terreinwerking en individuele zorgaanbieders moeten, enerzijds, onderling en, anderzijds, met de Vlaamse overheid gegevens uitwisselen die noodzakelijk zijn voor de uitbouw en werking van een epidemiologisch informatiesysteem als bedoeld in het decreet betreffende het gezondheidsinformatiesysteem.<br>
 <br>
-§ 3. Met betrekking tot § 1 en § 2, bepaalt de Vlaamse regering, na advies van een kamer van de toezichtcommissie als vermeld in artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, die specifiek toeziet op de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens die de gezondheid betreffen, nadere regels.
+§ 3. ...
 
 ### ART. 33.
 
-§ 1. De Vlaamse regering kan, in het kader van de gegevensuitwisseling, bedoeld in artikel 32, de Logo's, de partnerorganisaties, de organisaties met terreinwerking en de individuele zorgaanbieders verplichten om voor hun eigen identificatie gebruik te maken van een identificatiecode, die respectievelijk het Logo, de partnerorganisatie, de organisatie met terreinwerking en de individuele zorgaanbieder op een eenvormige en unieke manier vereenzelvigt.<br>
-<br>
-§ 2. Aan partnerorganisaties, organisaties met terreinwerking en individuele zorgaanbieders kan bovendien in het kader van de gegevensuitwisseling, bedoeld in artikel 32, en na advies van een kamer van de toezichtcommissie als vermeld in artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, die specifiek toeziet op de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens die de gezondheid betreffen, een gelijkaardig systeem opgelegd worden voor de identificatie van de personen, bedoeld in artikel 9 tot en met 11.
+...
 
 ### ART. 34.
 
-De gegevensuitwisseling, bedoeld in artikel 32 en 33, moet gebeuren in overeenstemming met de regelgeving aangaande de bescherming van de persoonlijke levenssfeer.
+De gegevensuitwisseling, bedoeld in artikel 32, moet gebeuren in overeenstemming met de bepalingen van het decreet betreffende het gezondheidsinformatiesysteem.
 
 ### ART 34/1.
 
@@ -414,7 +412,7 @@ De maatregelen, genomen ter uitvoering van het decreet van 30 april 2004 tot opr
 § 1. Er kan een administratieve geldboete van 100 tot 100.000 euro opgelegd worden aan iedereen die een van de volgende verplichtingen niet naleeft:<br>
 1° toestemming krijgen voor een bevolkingsonderzoek, zoals bedoeld in artikel 31, § 2;<br>
 2° gegevens uitwisselen in het kader van het epidemiologisch informatiesysteem, zoals bedoeld in artikel 32, § 2;<br>
-3° &nbsp;een identificatiecode gebruiken voor de gegevensuitwisseling, zoals bedoeld in artikel 33;<br>
+3° ...<br>
 4° zich verantwoorden of zich onderwerpen aan een toezicht, zoals bedoeld in artikel 36 en in artikel 75bis, § 2;<br>
 5° meewerken aan het registratiesysteem, zoals bedoeld in artikel 43, § 3;<br>
 6° infectieziekten melden, zoals bedoeld in artikel 45, § 3;<br>
