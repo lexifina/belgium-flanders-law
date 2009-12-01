@@ -104,21 +104,17 @@ In het erkenningsbesluit of de beheersovereenkomst van de partnerorganisatie wor
 
 ### ART. 16.
 
-§ 1. Het zorgcontinuüm moet verzekerd worden, onder andere door de uitwisseling van gegevens die noodzakelijk zijn om de continuïteit en de kwaliteit van de zorgverlening te verzekeren tussen de zorgaanbieders onderling en tussen de zorgaanbieders en organisaties, diensten en personen met een meer gespecialiseerd zorgaanbod. Deze gegevensuitwisseling gebeurt door middel van een operationeel informatiesysteem dat de uitwisseling optimaal laat verlopen.<br>
+§ 1. Het zorgcontinuüm moet verzekerd worden, onder andere door de uitwisseling van gegevens die noodzakelijk zijn om de continuïteit en de kwaliteit van de zorgverlening te verzekeren tussen de zorgaanbieders onderling en tussen de zorgaanbieders en organisaties, diensten en personen met een meer gespecialiseerd zorgaanbod. Deze gegevensuitwisseling gebeurt door middel van een operationeel informatiesysteem als bedoeld in het decreet betreffende het gezondheidsinformatiesysteem.<br>
 <br>
 Indien de gegevensuitwisseling door organisaties, diensten en personen met een meer gespecialiseerd zorgaanbod een weerslag heeft op de financiering door de federale overheid van de exploitatie, dan gebeurt deze gegevensuitwisseling op vrijwillige basis.<br>
 <br>
-§ 2. De samenwerkingsverbanden op het niveau van de praktijkvoering, samenwerkingsinitiatieven eerstelijns-gezondheidszorg en partnerorganisaties, participeren op verzoek van de Vlaamse regering aan de uitbouw en aan de werking van een epidemiologisch informatiesysteem om het gezondheidsbeleid zo veel mogelijk wetenschappelijk te onderbouwen.<br>
+§ 2. De samenwerkingsverbanden op het niveau van de praktijkvoering, samenwerkingsinitiatieven eerstelijnsgezondheidszorg en partnerorganisaties, participeren aan het epidemiologische informatiesysteem, bedoeld in het decreet betreffende het gezondheidsinformatiesysteem.<br>
 <br>
-§ 3. Met betrekking tot § 1 en § 2 bepaalt de Vlaamse regering, na advies van de een kamer van de toezichtcommissie als vermeld in artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, die specifiek toeziet op de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens die de gezondheid betreffen, nadere regels.
+§ 3. ...
 
 ### ART. 17.
 
-§ 1. De Vlaamse regering kan, in het kader van de operationele en epidemiologische gegevensuit-wisseling, bedoeld in artikel 16, samenwerkingverbanden op het niveau van de praktijkvoering, samenwerkingsinitiatieven eerstelijnsgezondheidszorg en partnerorganisaties, verplichten om voor hun identificatie gebruik te maken van een identificatiecode, die hen op een eenvormige en unieke manier vereenzelvigt.<br>
-<br>
-§ 2. Bovendien kan in het kader van de gegevensuitwisseling, bedoeld in artikel 16, en na advies van de een kamer van de toezichtcommissie als vermeld in artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, die specifiek toeziet op de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens die de gezondheid betreffen, een gelijkaardig systeem opgelegd worden voor de identificatie van de gebruikers.<br>
-<br>
-§ 3. Met betrekking tot § 1 en § 2 kan de Vlaamse regering nadere regels bepalen.
+...
 
 ## HOOFDSTUK VII VERANTWOORDINGSPLICHT EN TOEZICHT
 
@@ -138,7 +134,12 @@ De subsidies die de Vlaamse regering toekent aan samenwerkingsverbanden op het n
 
 ### ART. 21.
 
-§ 1. Onverminderd de toepassing van de federale algemene bepalingen inzake de controle op het verlenen en het gebruik van de door de gemeenschappen en gewesten toegekende subsidies, kan de subsidie van een samenwerkingsverband op het niveau van de praktijkvoering, een samenwerkingsinitiatief eerstelijnsgezondheidszorg en een partnerorganisatie, geheel of gedeeltelijk ingehouden of teruggevorderd worden indien een of meerdere van de volgende verplichtingen niet wordt nageleefd:<br /><br />1° de verplichting tot het kenbaar maken van andere financiële middelen, bedoeld in artikel 20, § 1.<br /><br />2° het uitwisselen van gegevens in het kader van het epidemiologische informatiesysteem, bedoeld in artikel 16, § 2;<br /><br />3° het gebruiken van een identificatiecode voor de gegevensuitwisseling, bedoeld in artikel 17.<br /><br />§ 2. Het bedrag van de inhouding of terugvordering wordt door de administratie soeverein bepaald, rekening houdend met de ernst van de feiten.
+§ 1. Onverminderd de toepassing van de federale algemene bepalingen inzake de controle op het verlenen en het gebruik van de door de gemeenschappen en gewesten toegekende subsidies, kan de subsidie van een samenwerkingsverband op het niveau van de praktijkvoering, een samenwerkingsinitiatief eerstelijnsgezondheidszorg, een partnerorganisatie en een organisatie met terreinwerking, geheel of gedeeltelijk ingehouden of teruggevorderd worden indien een of meerdere van de volgende verplichtingen niet wordt nageleefd:<br>
+1° de verplichting tot het kenbaar maken van andere financiële middelen, bedoeld in artikel 20, § 1.<br>
+2° het uitwisselen van gegevens in het kader van het epidemiologische informatiesysteem, bedoeld in artikel 16, § 2;<br>
+3° ...<br>
+<br>
+§ 2. Het bedrag van de inhouding of terugvordering wordt door de administratie soeverein bepaald, rekening houdend met de ernst van de feiten.
 
 ### ART. 22.
 
