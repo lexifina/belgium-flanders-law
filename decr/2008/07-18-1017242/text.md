@@ -124,6 +124,20 @@ Aan artikel 5, 15°, van het decreet van 7 mei 2004 houdende de oprichting van h
 
 ## Afdeling VI. Wijzigingen in het decreet van 16 juni 2006 betreffende het gezondheidsinformatiesysteem
 
+### ART. 25.
+
+Aan artikel 2 van het decreet van 16 juni 2006 betreffende het gezondheidsinformatiesysteem wordt een punt 24° toegevoegd, dat luidt als volgt :<br>
+<br>
+« 24° de kamer : een kamer van de toezichtcommissie als vermeld in artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, die specifiek toeziet op de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens die de gezondheid betreffen. ».
+
+### ART. 26.
+
+In artikel 20, tweede lid, van hetzelfde decreet worden de woorden « de in artikel 55 bedoelde toezichtcommissie » vervangen door de woorden « de kamer ».
+
+### ART. 27.
+
+In artikel 23, § 2, eerste lid, artikel 25, tweede lid, artikel 27, § 2, tweede lid, artikel 28, tweede lid, artikel 31, tweede lid, artikel 38, § 2 en § 3, artikel 39, artikel 40, § 3, artikel 42, § 2, 6°, artikel 53, artikel 54, artikel 70, tweede lid, artikel 80, § 1, en artikel 82, 2° en 3°, van hetzelfde decreet wordt het woord « toezichtcommissie » telkens vervangen door het woord « kamer ».
+
 ## Afdeling VII. Wijziging in het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten
 
 ### ART. 28.
