@@ -36,7 +36,7 @@ De Vlaamse minister bevoegd voor het promotiebeleid inzake de landbouw, is belas
 
 ### Tekst
 
-1. Voor de toepassing van deze bijdrageregeling wordt verstaan onder:<br />1° "Zaaizaden en pootgoed":<br />- landbouwzaden: dit wil onder meer zeggen: zaaigranen, hybridemaïszaad, zaden van erwten, bonen en vitsen, grassen, klavers, voedergewassen, voederbieten, suikerbieten, oliehoudende en eiwithoudende gewassen;<br />- aardappelpootgoed;<br />- zaailijnzaad;<br />- tuinbouwzaden.<br />2° "Frituur": elke exploitatie in binnen- of buiteninrichting met of zonder verbruik ter plaatse, waar aan het cliënteel gerechten en voedingswaren verstrekt worden, die gebruikelijk worden verstrekt of verkocht in de frituursector, al dan niet geserveerd met brood of drank, en die uitsluitend opgediend worden in een voor eenmalig gebruik bestemde houder of verpakking van papier, karton of kunststof, eventueel vergezeld van bestek dat eveneens dient voor eenmalig gebruik.<br /><br />2. De verplichte bijdragen bestemd voor het promotiefonds 'Akkerbouwproducten' worden als volgt vastgesteld voor zaaizaden en pootgoed:<br />1° Alle vermeerderaars betalen een verplichte bijdrage van 38 euro per op het land goedgekeurde hectare aardappelpootgoed, vermeerderd in Vlaanderen.<br />2° Alle in Vlaanderen gevestigde kwekers, mandatarissen en instandhouders van zaaizaden en (of) pootgoed betalen een verplichte jaarlijkse bijdrage van 620 euro.<br />3° Alle in Vlaanderen gevestigde handelaars-bereiders van zaaizaden betalen een verplichte jaarlijkse bijdrage van 620 euro.<br />4° Alle in Vlaanderen gevestigde handelaars en handelaars-bereiders van pootgoed betalen een verplichte jaarlijkse bijdrage van 124 euro.<br /><br />3. De verplichte bijdragen bestemd voor het promotiefonds `Akkerbouwproducten' worden als volgt vastgesteld voor hop:<br />Een verplichte jaarlijkse bijdrage van 13 euro is verschuldigd per in Vlaanderen geteelde hectare hop.<br /><br />Deze bijdrage wordt door VLAM geïnd als volgt:<br />- 12 euro via de beroepsverenigingen van hopplanters;<br />- 1 euro via de beroepsverenigingen van hophandelaars.<br /><br />4. De verplichte bijdragen bestemd voor het promotiefonds `Akkerbouwproducten' worden als volgt vastgesteld voor aardappelen:<br />1° Alle in Vlaanderen gevestigde aardappelproducenten betalen een verplichte jaarlijkse bijdrage in functie van de teeltoppervlakte, die ze tijdens het voorafgaandelijk kalenderjaar aangewend hebben voor aardappelen:<br />- van 1 tot en met 4 hectaren: 25 euro;<br />- meer dan 4 hectaren: 6 euro per hectare.<br />2° Alle in Vlaanderen gevestigde aardappelproducenten - erkende bereider - verpakkers die uitsluitend teeltareaal uit eigen productie commercialiseren, betalen een verplichte jaarlijkse bijdrage in functie van de teeltoppervlakte, die ze tijdens het voorafgaandelijk kalenderjaar aangewend hebben voor aardappelen:<br />- van 1 tot en met 4 hectaren: 25 euro;<br />- van meer dan 4 hectaren tot en met 12 hectaren: 124 euro + 6 euro per hectare met een maximum van 174 euro;<br />- meer dan 12 hectaren: 310 euro + 6 euro per hectare.<br />3° Alle in Vlaanderen gevestigde schilbedrijven, groothandelaars, makelaars, commissionairs en erkende handelaars-be-reidersverpakkers betalen een verplichte jaarlijkse bijdrage in functie van het aantal ton aardappelen die ze tijdens het voorafgaandelijk kalenderjaar verhandelden:<br />- minder dan 25.000 ton per jaar: 310 euro;<br />- vanaf 25.000 ton per jaar: 620 euro.<br />4° De verplichte bijdragen sub 1° en 3° zijn cumulatief. <br />5° Alle in Vlaanderen gevestigde frituren betalen met ingang van het referentiejaar 2003 een jaarlijkse verplichte bijdrage van 50 euro. <br /><br />5. De verplichte bijdragen, bestemd voor het promotiefonds Akkerbouwproducten, worden als volgt vastgesteld voor diepgevroren groenten en groenteconserven :<br />1° VZW VEGEBE, het Verbond van Groenteverwerkende Bedrijven en Industriegroenten, Groothandelaars en Exporteurs, betaalt aan VLAM een jaarlijkse bijdrage van 65.000 euro;<br />2° De bijdrage, vermeld in punt 1°, wordt doorgerekend aan de bedrijven die actief zijn in de verwerking van groenten tot diepgevroren groenten en/of groenteconserven. De bijdrage wordt doorgerekend op basis van de verhouding van het gemiddelde van de toegevoegde waarde van elk betrokken bedrijf van de laatste drie boekjaren waarvoor bij de Balanscentrale van de Nationale Bank de balans werd gedeponeerd, tegenover het totaal van de toegevoegde waarde van al de bedrijven die actief zijn in de sector over dezelfde periode, zoals blijkt uit dezelfde documenten;<br />3° De bijdrage, vermeld in punt 1°, geldt voor de referentiejaren 2006 tot en met 2008.<br /><br />6. Elk jaar worden de bedragen, vermeld in punt 2 tot en met 5, geïndexeerd. Die indexatie gebeurt op basis van de schommelingen van het indexcijfer van de consumptieprijzen volgens de hiernavolgende formule :<br />het nieuwe bedrag = basisbedrag x nieuw indexcijfer/aanvangsindexcijfer<br />a) het basisbedrag is het bedrag dat geldig is voor jaar x;<br />b) het aanvangsindexcijfer is het indexcijfer van de maand oktober van het jaar x-1;<br />c) het nieuwe indexcijfer is het indexcijfer van de consumptieprijzen van de maand oktober van het jaar x.<br />De bedragen worden afgerond op de euro, waarbij bedragen van 50 cent of hoger worden afgerond naar de hogere euro, beneden de 50 cent naar de lagere euro.<br />De aldus geïndexeerde bijdragen worden van kracht op 1 januari van het jaar x+1.
+1. Voor de toepassing van deze bijdrageregeling wordt verstaan onder:<br />1° "Zaaizaden en pootgoed":<br />- landbouwzaden: dit wil onder meer zeggen: zaaigranen, hybridemaïszaad, zaden van erwten, bonen en vitsen, grassen, klavers, voedergewassen, voederbieten, suikerbieten, oliehoudende en eiwithoudende gewassen;<br />- aardappelpootgoed;<br />- zaailijnzaad;<br />- tuinbouwzaden.<br />2° "Frituur": elke exploitatie in binnen- of buiteninrichting met of zonder verbruik ter plaatse, waar aan het cliënteel gerechten en voedingswaren verstrekt worden, die gebruikelijk worden verstrekt of verkocht in de frituursector, al dan niet geserveerd met brood of drank, en die uitsluitend opgediend worden in een voor eenmalig gebruik bestemde houder of verpakking van papier, karton of kunststof, eventueel vergezeld van bestek dat eveneens dient voor eenmalig gebruik.<br /><br />2. De verplichte bijdragen bestemd voor het promotiefonds 'Akkerbouwproducten' worden als volgt vastgesteld voor zaaizaden en pootgoed:<br />1° Alle vermeerderaars betalen een verplichte bijdrage van 25 euro per op het land goedgekeurde hectare aardappelpootgoed, vermeerderd in Vlaanderen.<br />2° Alle in Vlaanderen gevestigde kwekers, mandatarissen en instandhouders van zaaizaden en (of) pootgoed betalen een verplichte jaarlijkse bijdrage van 620 euro.<br />3° Alle in Vlaanderen gevestigde handelaars-bereiders van zaaizaden betalen een verplichte jaarlijkse bijdrage van 620 euro.<br />4° Alle in Vlaanderen gevestigde handelaars en handelaars-bereiders van pootgoed betalen een verplichte jaarlijkse bijdrage van 124 euro.<br /><br />3. De verplichte bijdragen bestemd voor het promotiefonds `Akkerbouwproducten' worden als volgt vastgesteld voor hop:<br />Een verplichte jaarlijkse bijdrage van 13 euro is verschuldigd per in Vlaanderen geteelde hectare hop.<br /><br />Deze bijdrage wordt door VLAM geïnd als volgt:<br />- 12 euro via de beroepsverenigingen van hopplanters;<br />- 1 euro via de beroepsverenigingen van hophandelaars.<br /><br />4. De verplichte bijdragen bestemd voor het promotiefonds `Akkerbouwproducten' worden als volgt vastgesteld voor aardappelen:<br />1° Alle in Vlaanderen gevestigde aardappelproducenten betalen een verplichte jaarlijkse bijdrage in functie van de teeltoppervlakte, die ze tijdens het voorafgaandelijk kalenderjaar aangewend hebben voor aardappelen:<br />- van 1 tot en met 4 hectaren: 25 euro;<br />- meer dan 4 hectaren: 6 euro per hectare.<br />2° Alle in Vlaanderen gevestigde aardappelproducenten - erkende bereider - verpakkers die uitsluitend teeltareaal uit eigen productie commercialiseren, betalen een verplichte jaarlijkse bijdrage in functie van de teeltoppervlakte, die ze tijdens het voorafgaandelijk kalenderjaar aangewend hebben voor aardappelen:<br />- van 1 tot en met 4 hectaren: 25 euro;<br />- van meer dan 4 hectaren tot en met 12 hectaren: 124 euro + 6 euro per hectare met een maximum van 174 euro;<br />- meer dan 12 hectaren: 310 euro + 6 euro per hectare.<br />3° Alle in Vlaanderen gevestigde schilbedrijven, groothandelaars, makelaars, commissionairs en erkende handelaars-be-reidersverpakkers betalen een verplichte jaarlijkse bijdrage in functie van het aantal ton aardappelen die ze tijdens het voorafgaandelijk kalenderjaar verhandelden:<br />- minder dan 25.000 ton per jaar: 310 euro;<br />- vanaf 25.000 ton per jaar: 620 euro.<br />4° De verplichte bijdragen sub 1° en 3° zijn cumulatief. <br />5° Alle in Vlaanderen gevestigde frituren betalen met ingang van het referentiejaar 2003 een jaarlijkse verplichte bijdrage van 50 euro. <br /><br />5. De verplichte bijdragen, bestemd voor het promotiefonds Akkerbouwproducten, worden als volgt vastgesteld voor diepgevroren groenten en groenteconserven :<br />1° VZW VEGEBE, het Verbond van Groenteverwerkende Bedrijven en Industriegroenten, Groothandelaars en Exporteurs, betaalt aan VLAM een jaarlijkse bijdrage van 65.000 euro;<br />2° De bijdrage, vermeld in punt 1°, wordt doorgerekend aan de bedrijven die actief zijn in de verwerking van groenten tot diepgevroren groenten en/of groenteconserven. De bijdrage wordt doorgerekend op basis van de verhouding van het gemiddelde van de toegevoegde waarde van elk betrokken bedrijf van de laatste drie boekjaren waarvoor bij de Balanscentrale van de Nationale Bank de balans werd gedeponeerd, tegenover het totaal van de toegevoegde waarde van al de bedrijven die actief zijn in de sector over dezelfde periode, zoals blijkt uit dezelfde documenten;<br />3° De bijdrage, vermeld in punt 1°, geldt voor de referentiejaren 2006 tot en met 2008.<br /><br />6. Elk jaar worden de bedragen, vermeld in punt 2 tot en met 5, geïndexeerd. Die indexatie gebeurt op basis van de schommelingen van het indexcijfer van de consumptieprijzen volgens de hiernavolgende formule :<br />het nieuwe bedrag = basisbedrag x nieuw indexcijfer/aanvangsindexcijfer<br />a) het basisbedrag is het bedrag dat geldig is voor jaar x;<br />b) het aanvangsindexcijfer is het indexcijfer van de maand oktober van het jaar x-1;<br />c) het nieuwe indexcijfer is het indexcijfer van de consumptieprijzen van de maand oktober van het jaar x.<br />De bedragen worden afgerond op de euro, waarbij bedragen van 50 cent of hoger worden afgerond naar de hogere euro, beneden de 50 cent naar de lagere euro.<br />De aldus geïndexeerde bijdragen worden van kracht op 1 januari van het jaar x+1.
 
 ## Bijlage II [Verplichte bijdragen in het promotiefonds 'Groenten en fruit'
 
@@ -90,124 +90,125 @@ De jaarlijkse verplichte bijdragen, bestemd voor het promotiefonds "visserij en 
 
 ### Tekst
 
-<p>1. Voor de toepassing van deze bijdrageregeling wordt verstaan onder "producten uit de biologische landbouw": producten waarop aanduidingen voorkomen die verwijzen naar de biologische productiemethode of waarvan het in de bedoeling ligt op die producten dergelijke aanduidingen aan te brengen, zoals bepaald in Verordening (EEG) nr. 2092/91 van de Raad van 24 juni 1991, inzake de biologische productiemethode en aanduidingen dienaangaande op landbouwproducten en levensmiddelen, en de toepasselijke uitvoeringsbepalingen.<br>
+1. Voor de toepassing van deze bijdrageregeling wordt verstaan onder "producten uit de biologische landbouw": producten waarop aanduidingen voorkomen die verwijzen naar de biologische productiemethode of waarvan het in de bedoeling ligt op die producten dergelijke aanduidingen aan te brengen, zoals bepaald in Verordening (EEG) nr. 2092/91 van de Raad van 24 juni 1991, inzake de biologische productiemethode en aanduidingen dienaangaande op landbouwproducten en levensmiddelen, en de toepasselijke uitvoeringsbepalingen.<br>
 <br>
 2. Wie producten uit de biologische landbouw produceert in de zin van de in punt 1 genoemde verordening, betaalt een jaarlijkse bijdrage van 38 euro. (verv. B.V.R. 6 februari 2004, art. 5, I: 13 maart 2004) ]<br>
 <br>
-3. [Wie producten uit de biologische landbouw bereidt in de zin van de in punt 1 vermelde verordening, betaalt een jaarlijkse bijdrage op basis van het omzetcijfer dat betrekking heeft op het kalenderjaar waarvan het jaartal verwijst naar het kalenderjaar dat onmiddellijk datgene voorafgaat waarvoor de bijdragen verschuldigd zijn, namelijk :</p>
-
+3. [Wie producten uit de biologische landbouw bereidt in de zin van de in punt 1 vermelde verordening, betaalt een jaarlijkse bijdrage op basis van het omzetcijfer dat betrekking heeft op het kalenderjaar waarvan het jaartal verwijst naar het kalenderjaar dat onmiddellijk datgene voorafgaat waarvoor de bijdragen verschuldigd zijn, namelijk :<br>
+Omzet
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:302.4pt">
-			<p>Omzet<!--?xml:namespace prefix = o         ns = "urn:schemas-microsoft-com:office:office" /--></p>
+			<td style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:302.4pt">
+			<p>Omzet</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:158.2pt">
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:158.2pt">
 			<p>Bijdrage</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Tot en met 125.000 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>62 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Meer dan 125.000 euro tot en met 250.000 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>124 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Meer dan 250.000 euro tot en met 625.000 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>248 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Meer dan 625.000 euro tot en met 1.250.000 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>620 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Meer dan 1.250.000 euro tot en met 2.500.000 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>1 239 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Meer dan 2.500.000 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>2 479 euro</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>(verv. B.V.R. 22 juli 2005, art. 8, I : 30 september 2005) ]<br>
+<p>&nbsp;</p>
+(verv. B.V.R. 22 juli 2005, art. 8, I : 30 september 2005) ]<br>
 <br>
-4. Wie als groothandel producten uit de biologische landbouw in de handel brengt in de zin van de in punt 1 vermelde verordening betaalt een jaarlijkse bijdrage op basis van het omzetcijfer dat betrekking heeft op het kalenderjaar waarvan het jaartal verwijst naar het kalenderjaar dat onmiddellijk datgene voorafgaat waarvoor de bijdragen verschuldigd zijn, namelijk:</p>
-
+4. Wie als groothandel producten uit de biologische landbouw in de handel brengt in de zin van de in punt 1 vermelde verordening betaalt een jaarlijkse bijdrage op basis van het omzetcijfer dat betrekking heeft op het kalenderjaar waarvan het jaartal verwijst naar het kalenderjaar dat onmiddellijk datgene voorafgaat waarvoor de bijdragen verschuldigd zijn, namelijk:<br>
+Omzet
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Omzet</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:158.2pt">
+			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:158.2pt">
 			<p>Bijdrage</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Tot en met 250.000 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>62 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Meer dan 250.000 euro tot en met 500.000 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>124 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Meer dan 500.000 euro tot en met 1.250.000 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>248 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Meer dan 1.250.000 euro tot en met 2.500.000 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>620 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.4pt">
+			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:302.4pt">
 			<p>Meer dan 2.500.000 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.2pt">
+			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:158.2pt">
 			<p>1 239 euro</p>
 			</td>
 		</tr>
@@ -215,13 +216,11 @@ De jaarlijkse verplichte bijdragen, bestemd voor het promotiefonds "visserij en 
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>(verv. B.V.R. 22 juli 2005, art. 8, I: 30 september 2005)]<br>
+<br>
+(verv. B.V.R. 22 juli 2005, art. 8, I: 30 september 2005)]<br>
 <br>
 [5. Wie als kleinhandel producten uit de biologische landbouw in de handel brengt in de zin van de in punt 1 genoemde verordening, betaalt per verkooppunt een jaarlijkse bijdrage van 38 euro.<br>
 <br>
 6. De bijdragen uit punt 2 tot en met 5 zijn niet cumulatief. Wie meerdere activiteiten als opgenomen in deze punten uitoefent, betaalt alleen de hoogste verschuldigde bijdrage. (verv. B.V.R. 26 oktober 2001, art. 3, I : 1 januari 2002) ]<br>
 <br>
-7. [De in deze bijlage opgenomen bijdragen gelden voor de referentiejaren 2005 tot en met 2007. (verv. B.V.R. 22 juli 2005, art. 9, I : 30 september 2005) ]</p>
+7. ...
