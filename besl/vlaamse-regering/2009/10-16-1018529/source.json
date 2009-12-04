@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018529,
+  "title": "Besluit van de Vlaamse Regering van 2009-10-16 houdende indeling bij de gemeentewegen van de gewestweg N330a - Nieuwstraat tussen kmp. 0,000 en kmp. 0,964 op het grondgebied van de gemeente Koksijde",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018529/VolledigDocument?datum=2009-12-04",
+  "source_sha256": "56140c80e2bf285d82aafce7c04a4f04e75471746bd777e4ad9b00e837b9f6b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018529&param=informatie",
+  "as_of": "2009-12-04",
+  "made": "2009-10-16",
+  "gazette": "2009-11-24",
+  "numac": 2009036064,
+  "document_start": "2009-12-04",
+  "document_end": null,
+  "in_force": "2009-12-04",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2009-12-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
