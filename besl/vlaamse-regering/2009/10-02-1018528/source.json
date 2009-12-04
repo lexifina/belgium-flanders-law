@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018528,
+  "title": "Besluit van de Vlaamse Regering van 2009-10-02 houdende indeling bij de gemeentewegen van de dijkweg « Turkeyen » gelegen ter hoogte van de autosnelweg E34 op het grondgebied van de gemeente Sint-Gillis-Waas",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018528/VolledigDocument?datum=2009-12-04",
+  "source_sha256": "7d327678111b358336ecf822d3d0603190f853c218039a977248bed493aca03f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018528&param=informatie",
+  "as_of": "2009-12-04",
+  "made": "2009-10-02",
+  "gazette": "2009-11-24",
+  "numac": 2009036059,
+  "document_start": "2009-12-04",
+  "document_end": null,
+  "in_force": "2009-12-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2009-12-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
