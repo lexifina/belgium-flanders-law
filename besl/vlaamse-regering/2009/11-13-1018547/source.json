@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018547,
+  "title": "Besluit van de Vlaamse Regering van 2009-11-13 houdende de gedeeltelijke herverdeling van het provisioneel krediet, ingeschreven onder de basisallocatie 0101 B van het programma DB van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2009",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018547/VolledigDocument?datum=2009-12-14",
+  "source_sha256": "80b72d187cd4ea11678f8c7795875db9af65c102a40f60ef06fdb6ff9f7717a7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018547&param=informatie",
+  "as_of": "2009-12-14",
+  "made": "2009-11-13",
+  "gazette": "2009-12-04",
+  "numac": 2009036104,
+  "document_start": "2009-12-14",
+  "document_end": null,
+  "in_force": "2009-12-14",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2009-12-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
