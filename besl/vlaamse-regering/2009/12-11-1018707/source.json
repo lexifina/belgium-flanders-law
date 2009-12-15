@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018707,
+  "title": "Besluit van de Vlaamse Regering van 2009-12-11 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 17 januari 2003 tot uitvoering van het decreet van 13 december 2002 tot vaststelling van de regels inzake de werking en de verdeling van het Vlaams Stedenfonds",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018707/VolledigDocument?datum=2009-12-15",
+  "source_sha256": "434d37d845c1e69d495ffb9af4093bd4da7171c01cff9bc0ec22a60c8ce4ffbd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018707&param=informatie",
+  "as_of": "2009-12-15",
+  "made": "2009-12-11",
+  "gazette": "2010-01-21",
+  "numac": 2010035057,
+  "document_start": "2009-12-15",
+  "document_end": null,
+  "in_force": "2009-12-15",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2009-12-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
