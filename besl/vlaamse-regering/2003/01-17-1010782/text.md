@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° strategische doelstelling: maatschappelijke effecten die het beleid wil bereiken;<br /><br />2° operationele doelstelling: resultaten die het beleid wil bereiken. Deze operationele doelstellingen worden zo veel mogelijk geformuleerd in indicatoren die specifiek, meetbaar, aanvaard, resultaatgericht en tijdsgebonden zijn;<br /><br />3° maatschappelijke effecten: situatieveranderingen in een beleidsdomein of -veld bij bepaalde doelgroepen of ten aanzien van bepaalde fenomenen;<br /><br />4° prestaties of output: producten en/of verstrekte diensten die een direct gevolg zijn van een bepaalde activiteit. De prestaties dienen zoveel mogelijk in kwantificeerbare grooteenheden of indicatoren te worden uitgedrukt als een uitgevoerde activiteit. Prestaties worden geleverd met de bedoeling bepaalde effecten tot stand te brengen;<br /><br />5° activiteiten: handelingen die een organisatie uitvoert om bepaalde prestaties te leveren;<br /><br />6° monitoring: het systematisch registreren van de beleidsuitvoering en het vergelijken ervan met vooropgestelde normen, met de bedoeling om eventueel de beleidsuitvoering bij te sturen of normen bij te stellen;<br /><br />7° efficiëntie: de relatie tussen de geleverde prestaties en de ingezette middelen;<br /><br />8° effectiviteit: relatie tussen het bereikte effect en de geleverde prestaties;<br /><br />9° decreet: het decreet tot vaststelling van de regels inzake de werking en de verdeling van het Vlaams Stedenfonds van 13 december 2002;<br /><br />10° project Stedenbeleid: administratieve cel bij de afdeling Gemeenten, O.C.M.W. en Provincies, tevens correspondentieadres voor alle briefwisseling;<br /><br />11° Vlaams minister: de Vlaamse minister, bevoegd voor het Stedenbeleid.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° strategische doelstelling: maatschappelijke effecten die het beleid wil bereiken;<br />2° operationele doelstelling: resultaten die het beleid wil bereiken. Deze operationele doelstellingen worden zo veel mogelijk geformuleerd in indicatoren die specifiek, meetbaar, aanvaard, resultaatgericht en tijdsgebonden zijn;<br />3° maatschappelijke effecten: situatieveranderingen in een beleidsdomein of -veld bij bepaalde doelgroepen of ten aanzien van bepaalde fenomenen;<br />4° prestaties of output: producten en/of verstrekte diensten die een direct gevolg zijn van een bepaalde activiteit. De prestaties dienen zoveel mogelijk in kwantificeerbare grooteenheden of indicatoren te worden uitgedrukt als een uitgevoerde activiteit. Prestaties worden geleverd met de bedoeling bepaalde effecten tot stand te brengen;<br />5° activiteiten: handelingen die een organisatie uitvoert om bepaalde prestaties te leveren;<br />6° monitoring: het systematisch registreren van de beleidsuitvoering en het vergelijken ervan met vooropgestelde normen, met de bedoeling om eventueel de beleidsuitvoering bij te sturen of normen bij te stellen;<br />7° efficiëntie: de relatie tussen de geleverde prestaties en de ingezette middelen;<br />8° effectiviteit: relatie tussen het bereikte effect en de geleverde prestaties;<br />9° decreet: het decreet tot vaststelling van de regels inzake de werking en de verdeling van het Vlaams Stedenfonds van 13 december 2002;<br />10° ...<br />11° Vlaams minister: de Vlaamse minister, bevoegd voor het Stedenbeleid.
 
 ### ART. 2.
 
@@ -30,7 +30,7 @@ Met melding in de beleidsovereenkomst kunnen de stad en de VGC, ter uitvoering v
 
 ### ART. 6.
 
-Het voortgangsrapport, zoals vastgesteld in artikel 17 van het decreet wordt, na goedkeuring door de gemeenteraad of de raad van de VGC, uiterlijk op 31 maart van het derde en van het laatste jaar van de beleidsovereenkomst aan de Vlaamse minister bezorgd.
+Het voortgangsrapport, zoals vastgesteld in artikel 17 van het decreet wordt, na goedkeuring door de gemeenteraad of de raad van de VGC,  in het derde en het laatste jaar van de beleidsovereenkomst aan de Vlaamse minister bezorgd.
 
 ### ART. 7.
 
@@ -38,17 +38,17 @@ Het voortgangsrapport meet en evalueert enerzijds de realisatiegraad van de indi
 
 ### ART. 8.
 
-De Vlaamse minister bepaalt de vorm van het voortgangsrapport.
+De Vlaamse minister bepaalt de vorm en de datum van indiening van het voortgangsrapport.
 
 ## AFDELING 2 EVALUATIE VAN DE BELEIDSOVEREENKOMST
 
 ### ART. 9.
 
-Naar aanleiding van het voortgangsrapport van de stad en de VGC stelt de Vlaamse minister per stad een visitatiecommissie samen. De visitatiecommissie heeft een dubbele opdracht:<br /><br />1° per stad en voor de VGC de voortgang, de effectiviteit en de efficiëntie van de beleidsovereenkomst evalueren en eventueel voorstellen tot bijsturing formuleren;<br /><br />2° een globale evaluatie maken van de efficiëntie en effectiviteit van het decreet als beleidsinstrument en voorstellen tot bijsturing formuleren.
+Naar aanleiding van het voortgangsrapport van de stad en de VGC, ingediend in het derde jaar van de beleidsovereenkomst, stelt de Vlaamse minister per stad een visitatiecommissie samen. Naar aanleiding van het voortgangsrapport van de stad en de VGC, ingediend in het laatste jaar van de beleidsovereenkomst, kan de Vlaamse minister per stad een visitatiecommissie samenstellen. De visitatiecommissie heeft een dubbele opdracht:<br />1° per stad en voor de VGC de voortgang, de effectiviteit en de efficiëntie van de beleidsovereenkomst evalueren en eventueel voorstellen tot bijsturing formuleren;<br />2° een globale evaluatie maken van de efficiëntie en effectiviteit van het decreet als beleidsinstrument en voorstellen tot bijsturing formuleren.
 
 ### ART. 10.
 
-In de visitatiecommissie zit een vast team van onafhankelijke experts en per stad een afvaardiging van twee steden die een gelijkaardig profiel hebben. Het secretariaat wordt waargenomen door het project Stedenbeleid.
+In de visitatiecommissie zit een vast team van onafhankelijke experts en per stad een afvaardiging van twee steden die een gelijkaardig profiel hebben.
 
 ### ART. 11.
 
@@ -80,7 +80,7 @@ Voor de jaren waarin er geen beleidsovereenkomst is, verliezen de stad en de VGC
 
 ### ART. 16.
 
-Het eerste jaarlijkse trekkingsrecht wordt conform artikel 25 van het decreet integraal uitbetaald op het einde van de tweede maand, die volgt op de ondertekening van de beleidsovereenkomst.<br /><br />Het daaropvolgende trekkingsrecht, zoals vastgelegd in het jaarlijkse besluit van de Vlaamse regering houdende de verdeling van de trekkingsrechten in het kader van het Vlaamse Stedenfonds, wordt voor het einde van het tweede kwartaal van elk begrotingsjaar volledig betaald aan de steden en de VGC.
+...
 
 ## HOOFDSTUK V TOEZICHT
 
@@ -90,11 +90,11 @@ De stad en de VGC verbinden er zich toe de trekkingsrechten zo effectief en effi
 
 ### ART. 18.
 
-Ter uitvoering van artikel 19, § 2, van het decreet is de afdeling Gemeenten, O.C.M.W. en Provincies van het departement EWBL op jaarbasis verantwoordelijk voor de administratieve controle van de financiële verrichtingen in het kader van de beleidsovereenkomst, het toezicht erop en eventuele sanctiemaatregelen. De afdeling neemt de nodige maatregelen en maakt afspraken voor de uitvoering van deze taak.
+Ter uitvoering van artikel 19, § 2, van het decreet is de afdeling Lokale en Provinciale Besturen - Financiën en Personeel van het Agentschap voor Binnenlands Bestuur op jaarbasis verantwoordelijk voor de administratieve controle van de financiële verrichtingen in het kader van de beleidsovereenkomst, het toezicht erop en eventuele sanctiemaatregelen. De afdeling neemt de nodige maatregelen en maakt afspraken voor de uitvoering van deze taak.
 
 ### ART. 19.
 
-Lokaal moeten de middelen vastgelegd of uitgegeven zijn voor het einde van de periode van de beleidsovereenkomst. Voor investeringsuitgaven heeft de stad en de VGC tot twee jaar na het aflopen van de beleidsovereenkomst de tijd om de vastleggingen om te zetten in effectieve betalingen.
+Lokaal moeten de middelen vastgelegd of uitgegeven zijn voor het einde van de periode van de beleidsovereenkomst. Voor investeringsuitgaven heeft de stad en de VGC tot drie jaar na het aflopen van de beleidsovereenkomst de tijd om de vastleggingen om te zetten in effectieve betalingen.
 
 ### ART. 20.
 
