@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018726,
+  "title": "Besluit van de Vlaamse Regering van 2009-12-18 betreffende de uitvoeringsmodaliteiten van de vreemd vermogensgarantie in het kader van het DBFM-project Brabo 1",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018726/VolledigDocument?datum=2009-12-18",
+  "source_sha256": "4fb0fcc62402acb8f4e5e6e73018ce19b71831cdba3aebcbf930dce954d44fef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018726&param=informatie",
+  "as_of": "2009-12-18",
+  "made": "2009-12-18",
+  "gazette": "2010-01-27",
+  "numac": 2010035064,
+  "document_start": "2009-12-18",
+  "document_end": null,
+  "in_force": "2009-12-18",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2009-12-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
