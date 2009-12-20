@@ -2,16 +2,16 @@
   "codex_id": 1016585,
   "title": "Besluit van de Vlaamse Regering van 2008-01-11 houdende de invoering van het energieprestatiecertificaat residentiële gebouwen bij verkoop en verhuur en de uitvoering van de energieaudit",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016585/VolledigDocument?datum=2009-03-12",
-  "source_sha256": "e50148932bcbba9e056609d08d6f4c9645bcaea333f494ea2062a46f1f1618b2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016585/VolledigDocument?datum=2009-12-20",
+  "source_sha256": "f284203fa159350d299c91d40e44c1fb4aa519576ad146a1799a85696da8a374",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016585&param=informatie",
-  "as_of": "2009-03-12",
+  "as_of": "2009-12-20",
   "made": "2008-01-11",
   "gazette": "2008-02-08",
   "numac": 2008035174,
   "document_start": null,
   "document_end": "2010-12-31",
-  "in_force": "2009-03-12",
+  "in_force": "2009-12-20",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2009-03-12; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-12-20; future article versions excluded; article text as the API gives it"
 }
