@@ -1,0 +1,5 @@
+# Besluit van de Vlaamse Regering van 2009-09-18 tot wijziging van het besluit van de Vlaamse Regering van 2 maart 2007 inzake de openbaredienstverplichtingen ter bevordering van het rationeel energiegebruik, het besluit van de Vlaamse Regering van 11 januari 2008 houdende de invoering van het energieprestatiecertificaat residentiële gebouwen bij verkoop en verhuur en de uitvoering van de energieaudit, het besluit van de Vlaamse Regering van 9 mei 2008 tot toekenning van premies voor het uitvoeren van energiebesparende investeringen in woongebouwen, het besluit van de Vlaamse Regering van 5 december 2008 houdende de invoering van het energieprestatiecertificaat niet-residentiële gebouwen bij verkoop en verhuur en het besluit van de Vlaamse Regering van 20 maart 2009 tot wijziging van het besluit van de Vlaamse Regering van 11 maart 2005 tot vaststelling van de eisen op het vlak van de energieprestaties en het binnenklimaat van gebouwen
+
+Official record: https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018563&param=informatie
+
+Metadata and official link only: the title names or concerns individual persons.
