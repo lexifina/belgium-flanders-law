@@ -2,16 +2,16 @@
   "codex_id": 1015713,
   "title": "Ministerieel besluit van 2007-04-10 betreffende de vaststelling van de gelijkwaardigheid van innoverende bouwconcepten en technologieën in het kader van de energieprestatieregelgeving",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015713/VolledigDocument?datum=2007-04-06",
-  "source_sha256": "b3b3f9ec6b3009e7213f4a22d1c045021a7fbd28ddeff1d0011eaf4a1894fea9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015713/VolledigDocument?datum=2009-12-26",
+  "source_sha256": "6c8e0b00ba47d285c3df7039d2b811b75836de80cfaeeca1112d12f0d8c84471",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015713&param=informatie",
-  "as_of": "2007-04-06",
+  "as_of": "2009-12-26",
   "made": "2007-04-10",
   "gazette": "2007-04-16",
   "numac": 2007035569,
   "document_start": "2007-04-06",
   "document_end": "2009-12-25",
-  "in_force": "2007-04-06",
+  "in_force": "2009-12-26",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2007-04-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-12-26; future article versions excluded; article text as the API gives it"
 }
