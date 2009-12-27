@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019557,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-10 tot wijziging van artikel 6 van het besluit van de Vlaamse Regering van 7 september 2007 houdende de organisatie van de vaststelling van en de controle op de samenstelling van rauwe koemelk",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019557/VolledigDocument?datum=2009-12-27",
+  "source_sha256": "05ffab35ec7017a17a9c7ca8d80069c3dd63d4e0c023259c3fe0c5411604aad6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019557&param=informatie",
+  "as_of": "2009-12-27",
+  "made": "2010-09-10",
+  "gazette": "2010-10-07",
+  "numac": 2010035704,
+  "document_start": "2009-12-27",
+  "document_end": null,
+  "in_force": "2009-12-27",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2009-12-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
