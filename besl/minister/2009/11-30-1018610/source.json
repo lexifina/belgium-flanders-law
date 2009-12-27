@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018610,
+  "title": "Ministerieel besluit van 2009-11-30 tot wijziging van de samenstelling van de natuurinrichtingsprojectcomités voor de natuurinrichtingsprojecten Turnhouts Vennengebied-West, Bergerven, Zwarte Beek, Latemse Meersen, Osbroek-Gerstjens, Averbode Bos en Heide, De Blankaart",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018610/VolledigDocument?datum=2009-12-27",
+  "source_sha256": "cc1138f9bd3957583cd45802955b30a65f739e9aac05469a5cfdc572b5365805",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018610&param=informatie",
+  "as_of": "2009-12-27",
+  "made": "2009-11-30",
+  "gazette": "2009-12-17",
+  "numac": 2009205724,
+  "document_start": "2009-12-27",
+  "document_end": null,
+  "in_force": "2009-12-27",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2009-12-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
