@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018849,
+  "title": "Besluit van de Vlaamse Regering van 2009-12-11 tot gedeeltelijke omzetting van artikelen 6 tot en met 8 van Richtlijn 2006/123/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende diensten op de interne markt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018849/VolledigDocument?datum=2009-12-28",
+  "source_sha256": "c3660919fd6a04f929dfffe787605ad375efd396a36053b2253befd00f01417a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018849&param=informatie",
+  "as_of": "2009-12-28",
+  "made": "2009-12-11",
+  "gazette": "2010-03-15",
+  "numac": 2010035176,
+  "document_start": "2009-12-28",
+  "document_end": null,
+  "in_force": "2009-12-28",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2009-12-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
