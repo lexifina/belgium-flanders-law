@@ -164,6 +164,30 @@ Als niet wordt voldaan aan de bepalingen van het decreet van 21 november 2003 en
 
 ## HOOFDSTUK XII Wijzigingsbepalingen
 
+### ART. 38.
+
+In artikel 3 van het Besluit van de Vlaamse Regering van 31 juli 1991 inzake gezondheidspromotie, vervangen bij het Besluit van de Vlaamse Regering van 19 december 1997 en gewijzigd bij het Besluit van de Vlaamse Regering van 12 januari 2007, worden de woorden "en de Logo's" geschrapt.<br /><br />
+
+### ART. 39.
+
+In artikel 4 van hetzelfde besluit, vervangen bij het Besluit van de Vlaamse Regering van 19 december 1997, worden de woorden "en de Logo's" geschrapt.<br /><br />
+
+### ART. 40.
+
+Artikel 21bis van hetzelfde besluit, ingevoegd bij het Besluit van de Vlaamse Regering van 19 december 1997 en gewijzigd bij het Besluit van de Vlaamse Regering van 18 december 1998, wordt opgeheven.<br /><br />
+
+### ART. 41.
+
+Artikel 21ter en 21quater van hetzelfde besluit, ingevoegd bij het Besluit van de Vlaamse Regering van 19 december 1997, worden opgeheven.<br /><br />
+
+### ART. 42.
+
+Artikel 21quinquies van hetzelfde besluit, ingevoegd bij het Besluit van de Vlaamse Regering van 19 december 1997 en gewijzigd bij het Besluit van de Vlaamse Regering van 18 december 1998, 30 november 2001 en 12 januari 2007, wordt opgeheven.<br /><br />
+
+### ART. 43.
+
+In artikel 21sexies van hetzelfde besluit, ingevoegd bij het Besluit van de Vlaamse Regering van 19 december 1997 en gewijzigd bij het Besluit van de Vlaamse Regering van 12 januari 2007, wordt de zinsnede ", met inachtneming van de rol van de Logo's," geschrapt. <br /><br />
+
 ## HOOFDSTUK XIII Inwerkingtreding en slotbepaling
 
 ### ART. 44.
