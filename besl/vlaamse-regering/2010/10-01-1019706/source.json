@@ -2,16 +2,16 @@
   "codex_id": 1019706,
   "title": "Besluit van de Vlaamse Regering van 2010-10-01 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode en van het besluit van de Vlaamse Regering van 18 juli 2008 houdende de procedure voor de planning, de vaststelling en de goedkeuring van de uitvoeringsprogramma's in het kader van de planmatige realisatie van sociale woonprojecten en houdende de financiering van verrichtingen in het kader van sociale woonprojecten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019706/VolledigDocument?datum=2008-11-23",
-  "source_sha256": "0b255ae50a9ccc5e2c1244a19192058235fde75ad091ef2e987a7925d4dff7f4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019706/VolledigDocument?datum=2009-12-31",
+  "source_sha256": "a0212d9dad63e6ea28c4561621231ab4ddc727e970872861630bb2a37e8fb8cb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019706&param=informatie",
-  "as_of": "2008-11-23",
+  "as_of": "2009-12-31",
   "made": "2010-10-01",
   "gazette": "2010-11-17",
   "numac": 2010035869,
   "document_start": "2010-11-27",
   "document_end": null,
-  "in_force": "2008-11-23",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2008-11-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2009-12-31",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2009-12-31; future article versions excluded; article text as the API gives it"
 }
