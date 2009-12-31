@@ -14,7 +14,7 @@ Aan het besluit van de Vlaamse Regering van 19 december 2008 tot vaststelling va
 
 ### ART. 3.
 
-Dit besluit treedt in werking op 16 maart 2009 en houdt op van kracht te zijn op 31 december 2009.<br /><br />
+Dit besluit treedt in werking op 16 maart 2009 en houdt op van kracht te zijn op 31 maart 2010.<br /><br />
 
 ### ART. 4.
 
