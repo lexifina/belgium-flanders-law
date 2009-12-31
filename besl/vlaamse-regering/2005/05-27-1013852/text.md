@@ -32,7 +32,7 @@ Het totaal van de toegekende subsidie mag niet hoger zijn dan 70 % van de totale
 
 ### ART. 7.
 
-De einddatum van een project is bepaald op maximaal vier jaar, te rekenen vanaf de startdatum. De minister kan, in uitzonderlijke gevallen, op gemotiveerde aanvraag en na advies van de Stuurgroep vermeld in artikel 3, de einddatum van het project met maximaal 1 jaar verlengen.
+De einddatum van een project is bepaald op maximaal vier jaar, te rekenen vanaf de startdatum. De minister kan, in uitzonderlijke gevallen en na advies van de Stuurgroep vermeld in artikel 3, de einddatum van het project verlengen.
 
 ## HOOFDSTUK IV VERANTWOORDING VAN DE SUBSIDIES
 
