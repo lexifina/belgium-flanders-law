@@ -2,16 +2,16 @@
   "codex_id": 1007031,
   "title": "Besluit van de Vlaamse Regering van 1999-10-15 houdende de voorwaarden, procedure en duur van de erkenning van levensbeschouwelijke [...] en sociaal-economische verenigingen voor het verzorgen van radio- en/of televisieprogramma's op de Vlaamse Radio- en Televisieomroep",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007031/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "2747c6b0d66204b7589720dbd86242dad5f308ed67a294846d1ea5d816543b14",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007031/VolledigDocument?datum=2009-12-31",
+  "source_sha256": "87b4634d06342a6c42bc9bb34d84ab03247a841d4850fea9cb5a266743aa5e45",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007031&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2009-12-31",
   "made": "1999-10-15",
   "gazette": "1999-11-11",
   "numac": 1999036381,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2009-12-31",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-12-31; future article versions excluded; article text as the API gives it"
 }

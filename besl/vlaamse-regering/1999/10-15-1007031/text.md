@@ -46,7 +46,7 @@ Indien een erkende vereniging wenst af te zien van haar erkenning, wordt dat per
 
 ### ART. 10.
 
-De bestaande erkenningen op het ogenblik van de inwerkingtreding van dit besluit worden verlengd tot 31 december 1999.
+De erkenningen op het ogenblik van de inwerkingtreding van dit besluit worden verlengd tot 31 december 2010.
 
 ## HOOFDSTUK V SLOTBEPALINGEN
 
