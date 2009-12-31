@@ -2,16 +2,16 @@
   "codex_id": 1001792,
   "title": "Besluit van de Vlaamse Regering van 1991-07-31 inzake gezondheidspromotie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001792/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "ec37af503c1de50e63e6c3225deb8c9f81db19008b040bd11927a287a8807597",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001792/VolledigDocument?datum=2009-12-31",
+  "source_sha256": "483296f9390c3250729e251a5bfbbe1bfd57cc74b963760dbb5e22b7e3cc4d2d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001792&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2009-12-31",
   "made": "1991-07-31",
   "gazette": "1991-11-28",
   "numac": 1991036430,
   "document_start": null,
   "document_end": "2009-12-31",
-  "in_force": "2006-07-01",
+  "in_force": "2009-12-31",
   "article_versions": 40,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2009-12-31; future article versions excluded; article text as the API gives it"
 }
