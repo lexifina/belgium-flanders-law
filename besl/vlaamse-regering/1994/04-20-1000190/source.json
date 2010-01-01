@@ -2,16 +2,16 @@
   "codex_id": 1000190,
   "title": "Besluit van de Vlaamse Regering van 1994-04-20 tot uitvoering van het decreet van 30 juni 1993 houdende de bescherming van het archeologisch patrimonium",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000190/VolledigDocument?datum=2008-06-15",
-  "source_sha256": "4fb960ddd021e49ed6837891e3117b718f7504002c5954f22d7a9afe64cf7ada",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000190/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "da8aa50d25c29baab424ab3d36638a7f2ecbd314073cb212c7af7df750ffdc0d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000190&param=informatie",
-  "as_of": "2008-06-15",
+  "as_of": "2010-01-01",
   "made": "1994-04-20",
   "gazette": "1994-07-15",
   "numac": 1994035735,
   "document_start": null,
   "document_end": "2899-12-31",
-  "in_force": "2008-06-15",
+  "in_force": "2010-01-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2008-06-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
