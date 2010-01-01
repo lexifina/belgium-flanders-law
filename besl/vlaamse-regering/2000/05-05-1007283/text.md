@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br /><br />1° de minister: de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br /><br />2° het departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br /><br />3° het agentschap : het agentschap RO-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed.<br /><br />
+In dit besluit wordt verstaan onder:<br />1° de minister: de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br />2° het departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br />3° het agentschap : het agentschap Ruimte en Erfgoed van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed.<br /><br />
 
 ## HOOFDSTUK II HET VOOROVERLEG OVER EEN VOORONTWERP VAN HET RUIMTELIJK STRUCTUURPLAN VLAANDEREN
 
