@@ -2,16 +2,16 @@
   "codex_id": 1017314,
   "title": "Besluit van de Vlaamse Regering van 2008-10-10 tot regeling van de opleiding tot polyvalent verzorgende en de bijkomende opleidingsmodule tot zorgkundige",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017314/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "2db24d651f3cee9f590e260ef93a4d0b8cc5fb82fdd017c51830a097d672a878",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017314/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "f1751fafa9f8e43140b535fec2aa49c59183260a1acbac60ab1b5c63207580a6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017314&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2010-01-01",
   "made": "2008-10-10",
   "gazette": "2008-11-24",
   "numac": 2008036353,
   "document_start": "2008-01-01",
   "document_end": "2019-12-31",
-  "in_force": "2008-01-01",
-  "article_versions": 16,
-  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-01-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }

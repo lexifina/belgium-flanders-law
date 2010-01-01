@@ -49,6 +49,10 @@ In dit besluit wordt verstaan onder :<br />1° polyvalent verzorgende : personee
 
 ## HOOFDSTUK IV Opleidingscentra
 
+### ART. 4.
+
+De VDAB selecteert de opleidingscentra die de opleidingen voor rekening van de VDAB zullen aanbieden. De VDAB bepaalt de gunningswijze, stelt de gunningsvoorwaarden vast, en gunt de opdracht. Bij de vaststelling van de gunningsvoorwaarden zal de VDAB het advies inwinnen van de minister bevoegd voor Welzijn.<br /><br />De opleidingscentra voldoen minimaal aan de volgende voorwaarden :<br />1° verbonden zijn aan erkende dienst voor gezinszorg en aanvullende thuiszorg of een samenwerkingsovereenkomst gesloten hebben met minstens zes erkende diensten voor gezinszorg en aanvullende thuiszorg die samen minstens 30 % van de erkende uren realiseren. Die samenwerkingsovereenkomst houdt minstens in dat de dienst voor gezinszorg en aanvullende thuiszorg inspraak heeft in de toeleiding, de selectieprocedure en de kwaliteit van inhoud van opleiding en lesgevers;<br />2° opleidingen organiseren die voldoen aan de voorwaarden, vermeld in artikelen 2 en 3;<br />3° over personeel beschikken waarvan de bekwaamheid blijkt uit de diploma's en/of uit de ervaring;<br />4° over de nodige lokalen en materiële uitrusting beschikken om de opleiding in gunstige omstandigheden te laten verlopen.<br /><br />
+
 ## HOOFDSTUK V Wijzigingsbepalingen
 
 ### ART. 5.
@@ -76,6 +80,10 @@ In het besluit van de Vlaamse Regering van 28 januari 2000 tot regeling van de e
 ### ART. 10.
 
 De bijlage van hetzelfde besluit wordt opgeheven.<br /><br />
+
+### ART. 11.
+
+Het ministerieel besluit van 17 maart 2000 inzake de kwaliteitszorg in de opleidingscentra voor polyvalente verzorgenden wordt opgeheven.<br /><br />
 
 ### ART. 12.
 
