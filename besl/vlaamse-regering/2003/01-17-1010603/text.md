@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br /><br />1° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br /><br />2° het besluit van 18 december 1998: het besluit van de Vlaamse regering van 18 december 1998 houdende de erkenning en de subsidiring van verenigingen en welzijnsvoorzieningen in de thuiszorg;<br /><br />3° kraamzorg: de totaliteit van zorgen, waaronder ondersteunende hulp op hygiënisch-verzorgend, huishoudelijk en psycho-sociaal vlak, die voor de pas bevallen moeder, haar kind en eventueel haar gezin moeten worden voorzien in de periode van gemiddeld tien dagen, die volgt op de bevalling en die de moeder nodig heeft om fysiek en psychisch weer op krachten te komen;<br /><br />4° kraamcentrum: een dienst die kraamzorg aanbiedt en die tot aan de inwerkingtreding van dit besluit wordt gesubsidieerd met toepassing van het besluit, bedoeld in artikel 6.
+In dit besluit wordt verstaan onder:<br />1° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br />2° ...<br />3° kraamzorg: de totaliteit van zorgen, waaronder ondersteunende hulp op hygiënisch-verzorgend, huishoudelijk en psycho-sociaal vlak, die voor de pas bevallen moeder, haar kind en eventueel haar gezin moeten worden voorzien in de periode van gemiddeld tien dagen, die volgt op de bevalling en die de moeder nodig heeft om fysiek en psychisch weer op krachten te komen;<br />4° kraamcentrum: een dienst die kraamzorg aanbiedt en die tot aan de inwerkingtreding van dit besluit wordt gesubsidieerd met toepassing van het besluit, bedoeld in artikel 6.
 
 ### ART. 2.
 
@@ -14,7 +14,7 @@ Erkende diensten voor gezinszorg oriënteren de bijkomende uren, die hen worden 
 
 ### ART. 4.
 
-De subsidiëring van de bijkomende uren, toegekend krachtens artikel 2, gebeurt overeenkomstig de bepalingen van het besluit van 18 december 1998 en van bijlage I bij dat besluit.
+De subsidiëring van de bijkomende uren, toegekend krachtens artikel 2, gebeurt overeenkomstig de bepalingen van het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers en van bijlage I bij dat besluit.
 
 ### ART. 5.
 
