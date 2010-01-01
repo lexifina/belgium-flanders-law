@@ -2,16 +2,16 @@
   "codex_id": 1014987,
   "title": "Decreet van 2006-06-30 houdende de invoering van een forfaitaire vermindering in de personenbelasting",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014987/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "856f4183894315c4f9c4f70db46baed45f07dd541a171e3bee4f65f234b75f13",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014987/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "ac95f54c9b2c2e9616e623ab265c36e25a694fe342e682307091c7bd9bce075f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014987&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2010-01-01",
   "made": "2006-06-30",
   "gazette": "2006-09-26",
   "numac": 2006036536,
   "document_start": null,
   "document_end": null,
-  "in_force": "2008-01-01",
+  "in_force": "2010-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
