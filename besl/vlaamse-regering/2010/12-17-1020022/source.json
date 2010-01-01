@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020022,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-17 houdende toewijzing van de personeelsleden, de goederen, de rechten en verplichtingen van het Departement Cultuur, Jeugd, Sport en Media en van het Bloso aan de Raad voor Cultuur, Jeugd, Sport en Media",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020022/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "d11234246ee8f91bd0a45c461da5229a9eaa902f297ea60209184559dc0e67cd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020022&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2010-12-17",
+  "gazette": "2011-02-11",
+  "numac": 2011035114,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
