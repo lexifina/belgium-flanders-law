@@ -532,7 +532,7 @@ Het Vlaams Onderhandelingscomité legt bij eenparigheid de prioritaire vormingst
 
 ### ART. II.88quinquies.
 
-Jaarlijks wordt op de begroting van de Vlaamse Gemeenschap een dotatie ten behoeve van het vormingsfonds uitgetrokken. De dotatie bedraagt minstens 1.070.000 euro.<br /><br />De Vlaamse Regering deelt ieder jaar voor één oktober het bedrag van de dotatie mee aan het Vlaams Onderhandelingscomité.
+Jaarlijks wordt op de begroting van de Vlaamse Gemeenschap een dotatie ten behoeve van het vormingsfonds uitgetrokken. De dotatie bedraagt minstens 886.000 euro.<br /><br />De Vlaamse Regering deelt ieder jaar voor één oktober het bedrag van de dotatie mee aan het Vlaams Onderhandelingscomité.
 
 ### ART. II.88sexies.
 
