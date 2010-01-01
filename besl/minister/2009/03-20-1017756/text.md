@@ -6,16 +6,16 @@ De Vlaamse Minister van Institutionele Hervormingen, Bestuurszaken, Buitenlands 
 
 ### ART. 1.
 
-De volgende personen worden aangeduid als leden van de beheerscommissie van het Eigen Vermogen van het Instituut voor Landbouw- en Visserijonderzoek (ILVO) :<br />1° de leidend ambtenaar van het ILVO, die de commissie voorzit :<br />de heer Erik Van Bockstaele;<br />2° vier personeelsleden van het ILVO : Mevr. Lieve Herman, de heer Kristiaan Van Laecke, de heer Daniël De Brabander en Mevr. Cathy Plasman;<br />3° een inspecteur van Financiën, geaccrediteerd bij het beleidsdomein Landbouw en Visserij : de heer Kurt Debruyne;<br />4° de leidend ambtenaar van het departement Landbouw en Visserij : de heer Jules Van Liefferinge;<br />5° een vertegenwoordiger van de minister bevoegd voor het wetenschapsbeleid : Mevr. Kathleen D'Hondt;<br />6° een vertegenwoordiger van de Strategische Adviesraad voor Landbouw en Visserij : de heer Georges Van Keerberghen.<br /><br />
+...
 
 ### ART. 2.
 
-Eervol ontslag als leden van de beheerscommissie wordt verleend aan :<br />- heer Dirk Van Lierde;<br />- Mevr. Monika Sormann;<br />- de heer Jos Matthys;<br /><br />
+...
 
 ### ART. 3.
 
-De mandaten van de in artikel 1 genoemde leden eindigen uiterlijk zes maanden na de installatie van het Vlaams Parlement bij vernieuwing.<br /><br />
+...
 
 ### ART. 4.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2009.<br /><br />
+...
