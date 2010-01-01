@@ -2,16 +2,16 @@
   "codex_id": 1008577,
   "title": "Besluit van de Vlaamse Regering van 2001-12-14 tot uitbreiding van de lijst van voorzieningen en verenigingen die voor erkenning en subsidiëring in de thuiszorg in aanmerking komen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008577/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "6786af81202d64a25324339f146a163ca40c20099ec1dfb6a82ed1fb5d9398d5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008577/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "e16628b80426c786f9d859635c1d2bd74a66e69f9292d05692736d21a887db5e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008577&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2010-01-01",
   "made": "2001-12-14",
   "gazette": "2002-01-15",
   "numac": 2002035003,
   "document_start": null,
   "document_end": "2009-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2010-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
