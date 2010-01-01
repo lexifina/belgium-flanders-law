@@ -58,6 +58,22 @@ Provincie- en gemeenteraden kunnen in hun ruimtelijke structuurplannen de beleid
 
 ## Afdeling 2 Leegstandsregister
 
+### ART. 2.2.6.
+
+§ 1. Elke gemeente houdt een register van leegstaande gebouwen en woningen bij, hierna het leegstandsregister genoemd.<br /><br />De opmaak en opbouw van het leegstandsregister kunnen geheel of gedeeltelijk worden overgedragen aan een intergemeentelijke administratieve eenheid met rechtspersoonlijkheid. In dat geval worden, voor de toepassing van paragraaf 7, van artikel 2.2.7, § 1 tot en met § 4, en van artikel 2.2.8, de woorden « de gemeente » en de woorden « de gemeentelijke administratie » vervangen door de woorden « de intergemeentelijke administratieve eenheid », en worden de woorden « het college van burgemeester en schepenen » en de woorden « het college » vervangen door de woorden « het beslissingsorgaan van de intergemeentelijke administratieve eenheid.<br /><br />Het tweede lid is van overeenkomstige toepassing op intergemeentelijke administratieve eenheden zonder rechtspersoonlijkheid, met uitsluiting van de bevoegdheden betreffende het ontvangen van en het uitspraak doen over de beroepen, vermeld in artikel 2.2.7, § 2 en § 3. Die bevoegdheden blijven, in voorkomend geval, voorbehouden aan het college van burgemeester en schepenen. <br /><br />§ 2. Een gebouw wordt als leegstaand beschouwd indien meer dan de helft van de totale vloeroppervlakte niet overeenkomstig de functie van het gebouw wordt aangewend gedurende een termijn van ten minste twaalf opeenvolgende maanden. Daarbij wordt geen rekening gehouden met woningen die deel uitmaken van het gebouw. De functie van het gebouw is deze die overeenkomt met een voor het gebouw of voor gedeelten daarvan afgeleverde of gedane stedenbouwkundige vergunning, melding in de zin van artikel 94 van het decreet Ruimtelijke Ordening, milieuvergunning of melding in de zin van het decreet van 28 juni 1985 betreffende de milieuvergunning. Bij een gebouw waarvoor geen vergunning of melding voorhanden is, of waarvan de functie niet duidelijk uit een vergunning of melding blijkt, wordt deze functie afgeleid uit het gewoonlijk gebruik van het gebouw voorafgaand aan het vermoeden van leegstand, zoals dat blijkt uit aangiften, akten of bescheiden.<br /><br />Een gebouw dat in hoofdzaak gediend heeft voor een economische activiteit, vermeld in artikel 2, 2°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten, wordt niet beschouwd als leegstaand zolang de oorspronkelijke beoefenaar van deze activiteit een gedeelte van het gebouw bewoont en dat gedeelte niet afsplitsbaar is. Een gedeelte is eerst afsplitsbaar indien het na sloping van de overige gedeelten kan worden beschouwd als een afzonderlijke woning die voldoet aan de bouwfysische vereisten.<br /><br />§ 3. Een woning wordt als leegstaand beschouwd wanneer zij gedurende een termijn van ten minste twaalf opeenvolgende maanden niet aangewend wordt in overeenstemming met :<br />1° hetzij de woonfunctie;<br />2° hetzij elke andere door de Vlaamse Regering omschreven functie die een effectief en niet-occasioneel gebruik van de woning met zich mee brengt.<br /><br />§ 4. In afwijking van § 2 en § 3, wordt een nieuw gebouw of een nieuwe woning als leegstaand beschouwd indien dat gebouw of die woning binnen zeven jaar na de afgifte van een stedenbouwkundige vergunning in laatste administratieve aanleg niet aangewend wordt overeenkomstig § 2, eerste lid, respectievelijk § 3.<br /><br />§ 5. Een gebouw dat of een woning die in aanmerking komt voor inventarisatie in de zin van hoofdstuk II van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten, wordt nooit als een leegstaand gebouw of als een leegstaande woning beschouwd.<br /><br />De bedrijfsruimten die op grond van artikel 2, 1°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten worden uitgesloten van de toepassing van voormeld decreet, worden onder de aldaar vermelde voorwaarden evenmin als leegstaande gebouwen of woningen in de zin van deze afdeling beschouwd.<br /><br />§ 6. Een gebouw dat of een woning die door het Vlaamse Gewest geïnventariseerd is als verwaarloosd, kan eveneens opgenomen worden in het leegstandsregister, en omgekeerd.<br /><br />Woningen die door het Vlaamse Gewest geïnventariseerd zijn als ongeschikt en/of onbewoonbaar, worden niet opgenomen in het leegstandsregister.<br /><br />§ 7. De door het college van burgemeester en schepenen met de opsporing van leegstaande gebouwen en woningen belaste personeelsleden bezitten de onderzoeks-, controle- en vaststellingsbevoegdheden, vermeld in artikel 6 van het decreet van 30 mei 2008 betreffende de vestiging, de invordering en de geschillenprocedure van provincie- en gemeentebelastingen.
+
+### ART. 2.2.7.
+
+§ 1. De gemeente stelt de zakelijk gerechtigden per beveiligde zending in kennis van de beslissing tot opname van leegstaande gebouwen en woningen in het leegstandsregister. Het schrijven geeft desgevallend aan welke vrijstellingen van de leegstandsheffing in het leegstandsregister worden vermeld.<br /><br />§ 2. Binnen een termijn van dertig dagen, ingaand de dag na deze van de betekening van het schrijven, vermeld in § 1, kan een zakelijk gerechtigde bij het college van burgemeester en schepenen beroep aantekenen tegen de beslissing tot opname in het leegstandsregister. Het beroep wordt per beveiligde zending betekend.<br /><br />§ 3. Het college doet uitspraak over het beroep en betekent zijn beslissing aan de indiener ervan binnen een termijn van negentig dagen, ingaand de dag na deze van de betekening van het beroepschrift. De uitspraak wordt per beveiligde zending betekend.<br /><br />Als het college het beroep gegrond acht, of nalaat om binnen de termijn, vermeld in het eerste lid, kennis te geven van zijn beslissing, kunnen de eerder gedane vaststellingen geen aanleiding geven tot een nieuwe beslissing tot opname in het leegstandsregister.<br /><br />§ 4. Indien de beslissing tot opname in het leegstandsregister niet tijdig betwist wordt, of het beroep van de zakelijk gerechtigde onontvankelijk of ongegrond is, neemt de gemeentelijke administratie het gebouw of de woning in het leegstandsregister op vanaf de datum van de vaststelling van de leegstand.<br /><br />§ 5. Het college kan de bevoegdheden, vermeld in dit artikel, delegeren aan één of meer personeelsleden van de gemeente.<br /><br />
+
+### ART. 2.2.8.
+
+Een gebouw wordt uit het leegstandsregister geschrapt, eens een zakelijk gerechtigde bewijst dat meer dan de helft van de totale vloeroppervlakte overeenkomstig de functie, vermeld in artikel 2.2.6, § 2, eerste lid, aangewend wordt gedurende een termijn van ten minste zes opeenvolgende maanden. De gemeente vermeldt als datum van schrapping de eerste dag van de aanwending overeenkomstig de functie, vermeld in artikel 2.2.6, § 2, eerste lid.<br /><br />Een woning wordt uit het leegstandsregister geschrapt, eens een zakelijk gerechtigde bewijst dat deze woning gedurende een termijn van ten minste zes opeenvolgende maanden aangewend wordt in overeenstemming met de functie, vermeld in artikel 2.2.6, § 3. De gemeente vermeldt als datum van schrapping de eerste dag van de aanwending overeenkomstig de functie, vermeld in artikel 2.2.6, § 3.<br /><br />
+
+### ART. 2.2.9.
+
+De Vlaamse Regering bepaalt nadere materiële, methodologische en procedurele regelen betreffende :<br />1° de opmaak, opbouw en digitalisering van het leegstandsregister;<br />1° /1 de procedure van opname van een gebouw of woning in het leegstandsregister;<br />2° de wijze waarop de vrijstellingen van de leegstandsheffing in het leegstandsregister worden vermeld;<br />3° de actualisering van het leegstandsregister, in het bijzonder de periodiciteit ervan;<br />4° de kennisgeving en beroepsprocedure, vermeld in artikel 2.2.7;<br />5° de procedure van schrapping van een gebouw of woning uit het leegstandsregister;<br />6° de betoelaging van het leegstandsregister;<br />7° de toegankelijkheid van het leegstandsregister, in het bijzonder voor de toepassing van artikel 85, § 1, tweede lid, 1°, en artikel 90, § 1, eerste lid, 1°, van de Vlaamse Wooncode;<br />8° de specifieke wijze waarop artikel 261 van het Gemeentedecreet van 15 juli 2005, respectievelijk artikel 75 van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking, geoperationaliseerd wordt indien het gemeentebestuur of het intergemeentelijk samenwerkingsverband, vermeld in artikel 2.2.6, § 1, tweede lid, zich niet gedraagt naar de bij of krachtens deze afdeling voorgeschreven regelen.<br /><br />
+
 ## Afdeling 3 Koppeling van gegevensbanken
 
 ## BOEK 3 ACTIVERING VAN GRONDEN EN PANDEN
@@ -194,15 +210,67 @@ De Vlaamse Regering kan nadere formele en procedurele regelen bepalen voor de to
 
 ## Onderafdeling 1 [... (opgeh. decr. 14 oktober 2016, art. 52, I: 23 december 2016)]
 
+### ART. 3.2.17.
+
+Gemeenten voorkomen en bestrijden de leegstand van gebouwen en woningen op hun grondgebied.<br /><br />Met dat oogmerk zijn de gemeenteraden gemachtigd tot het heffen van een leegstandsheffing op gebouwen en woningen die zijn opgenomen in het leegstandsregister, waarbij de minimumaanslag per leegstaand gebouw of leegstaande woning in elk geval gelijk is aan :<br />1° 990 euro voor een volledig gebouw of woonhuis;<br />2° 75 euro voor een individuele kamer of studentenkamer in de zin van artikel 2, 3°, van het decreet van 4 februari 1997 houdende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers;<br />3° 300 euro voor elke overige woongelegenheid.<br /><br />De bedragen, vermeld in het tweede lid, zijn gekoppeld aan de evolutie van de ABEX-index en stemmen overeen met de index van december 2009. Ze worden jaarlijks op 1 januari aangepast aan het ABEX-indexcijfer van de maand december die aan de aanpassing voorafgaat.<br /><br />
+
 ## Onderafdeling 2 [... (opgeh. decr. 14 oktober 2016, art. 52, I: 23 december 2016)]
+
+### ART. 3.2.18.
+
+Deze onderafdeling is van toepassing zoverre de gemeentelijke heffingsreglementen daarvan niet afwijken.<br /><br />
+
+### ART. 3.2.19.
+
+§ 1. De gemeentelijke leegstandsheffing op gebouwen en woningen bezwaart gebouwen en woningen die gedurende twaalf opeenvolgende maanden zijn opgenomen in het leegstandsregister.<br /><br />§ 2. Zolang het gebouw of de woning niet uit het leegstandsregister geschrapt is, blijft de heffing verschuldigd op het ogenblik van het verstrijken van elke nieuwe periode van twaalf maanden vanaf de datum van de eerste verjaardag.<br /><br />De aanslag kan worden gevestigd vanaf dat ogenblik tot uiterlijk de laatste dag van het kwartaal volgend op het verstrijken van de nieuwe periode van twaalf maanden.<br /><br />
+
+### ART. 3.2.20.
+
+§ 1. Heffingsplichtig is diegene die op het ogenblik van het verschuldigd worden van de heffing zakelijk gerechtigde is van het leegstaande gebouw of de leegstaande woning.<br /><br />Ingeval er een recht van opstal, erfpacht of vruchtgebruik bestaat, is de belasting verschuldigd door degene die op het ogenblik van de opname in het leegstandsregister houder is van dat recht.<br /><br />§ 2. Zolang het gebouw of de woning niet uit het leegstandsregister is geschrapt, is de zakelijk gerechtigde, vermeld in § 1, op het ogenblik dat een nieuwe termijn van twaalf maanden verstrijkt, de heffingsplichtige voor de nieuwe heffing.<br /><br />§ 3. Zo er meerdere heffingsplichtigen zijn, zijn deze hoofdelijk gehouden tot betaling van de verschuldigde heffing.<br /><br />§ 4. In voorkomend geval stelt de instrumenterende ambtenaar de verkrijger van het volle eigendomsrecht, of van een recht van opstal, van erfpacht of van vruchtgebruik, voorafgaand aan de overdracht in kennis van de opname van het goed in het leegstandsregister.<br /><br />De instrumenterende ambtenaar stelt de gemeentelijke administratie binnen de twee maanden na het verlijden van de authentieke overdrachtsakte in kennis van de overdracht, de datum ervan, en de identiteitsgegevens van de nieuwe eigenaar.<br /><br />
+
+### ART. 3.2.21.
+
+Van de leegstandsheffing zijn vrijgesteld :<br />1° de heffingsplichtige die volle eigenaar is van één enkele woning, bij uitsluiting van enige andere woning;<br />2° de heffingsplichtige die in een erkende ouderenvoorziening verblijft, of voor een langdurig verblijf werd opgenomen in een psychiatrische instelling;<br />3° de heffingsplichtige waarvan de handelingsbekwaamheid beperkt werd ingevolge een gerechtelijke beslissing;<br />4° de heffingsplichtige die sinds minder dan één jaar zakelijk gerechtigde is van het gebouw of de woning, met dien verstande dat deze vrijstelling slechts geldt voor het heffingsjaar volgend op het verkrijgen van het zakelijk recht.<br /><br />Een vrijstelling wordt verleend indien het gebouw of de woning :<br />1° gelegen is binnen de grenzen van een door de bevoegde overheid goedgekeurd onteigeningsplan;<br />2° geen voorwerp meer kan uitmaken van een stedenbouwkundige vergunning omdat een voorlopig of definitief onteigeningsplan is vastgesteld;<br />3° krachtens decreet beschermd is als monument, of opgenomen is op een bij besluit vastgesteld ontwerp van lijst tot bescherming als monument;<br />4° deel uitmaakt van een krachtens decreet beschermd stads- of dorpsgezicht of landschap, of van een stads- of dorpsgezicht of landschap dat opgenomen is op een bij besluit vastgesteld ontwerp van lijst tot bescherming als stads- of dorpsgezicht of landschap;<br />5° vernield of beschadigd werd ten gevolge van een plotse ramp, met dien verstande dat deze vrijstelling slechts geldt gedurende een periode van drie jaar volgend op de datum van de vernieling of beschadiging;<br />6° onmogelijk daadwerkelijk gebruikt kan worden omwille van een verzegeling in het kader van een strafrechtelijk onderzoek of omwille van een expertise in het kader van een gerechtelijke procedure, met dien verstande dat deze vrijstelling slechts geldt gedurende een periode van twee jaar volgend op de aanvang van de onmogelijkheid tot daadwerkelijk gebruik;<br />7° gerenoveerd wordt blijkens een niet vervallen stedenbouwkundige vergunning voor stabiliteitswerken of sloopwerkzaamheden, met dien verstande dat deze vrijstelling slechts geldt gedurende een termijn van drie jaar volgend op het uitvoerbaar worden van de stedenbouwkundige vergunning;<br />8° het voorwerp uitmaakt van een overeenkomst met het oog op renovatie-, verbeterings- of aanpassingswerkzaamheden in de zin van artikel 18, § 2, van de Vlaamse Wooncode;<br />9° het voorwerp uitmaakt van een door de gemeente, het Openbaar Centrum voor Maatschappelijk Welzijn of een sociale woonorganisatie verkregen sociaal beheersrecht, overeenkomstig artikel 90 van de Vlaamse Wooncode.<br /><br />Indien de heffingsplichtige de leegstand laat aanhouden omwille van een vreemde oorzaak die de heffingsplichtige niet kan worden toegerekend, wordt eveneens een vrijstelling verleend.<br /><br />
 
 ## Onderafdeling 3 [... (opgeh. decr. 14 oktober 2016, art. 52, I: 23 december 2016)]
 
+### ART. 3.2.22.
+
+Het decreet van 30 mei 2008 betreffende de vestiging, de invordering en de geschillenprocedure van provincie- en gemeentebelastingen is op de gemeentelijke leegstandsheffing op gebouwen en woningen van toepassing. In het geval, vermeld in artikel 2.2.6, § 1, tweede lid, zijn de bepalingen van voormeld decreet overeenkomstig van toepassing op het personeel van de intergemeentelijke administratieve eenheid.<br /><br />De heffingsplichtige die in de mogelijkheid werd gesteld om het beroep, vermeld in artikel 2.2.7, § 2, aan te tekenen, kan in het kader van de krachtens voormeld decreet georganiseerde bezwarenprocedure geen excepties inroepen tegen de in het leegstandsregister opgenomen vermeldingen, tenzij de ingeroepen gronden tot bezwaar na de opname van het gebouw of de woning in het leegstandsregister zijn ontstaan.<br /><br />
+
 ## Onderafdeling 4 [... (opgeh. decr. 14 oktober 2016, art. 52, I: 23 december 2016)]
+
+### ART. 3.2.23.
+
+Gemeenten bewerkstelligen bij de opmaak van hun begrotingen dat ten minste een equivalent van de in het vorige begrotingsjaar geïnde gemeentelijke leegstandsheffing op gebouwen en woningen, bestemd wordt voor de operationalisering van het gemeentelijke woonbeleid.<br /><br />
 
 ## Onderafdeling 5 [... (opgeh. decr. 14 oktober 2016, art. 52, I: 23 december 2016)]
 
+### ART. 3.2.24.
+
+Binnen de beschikbare begrotingskredieten kan de Vlaamse Regering in bijkomende middelen voor het gemeentelijke woonbeleid voorzien, waarbij de bijkomende middelen voor een bepaalde gemeente in verhouding staan tot de in die gemeente gegenereerde opbrengsten van de gemeentelijke leegstandsheffing op gebouwen en woningen.<br /><br />De Vlaamse Regering kan regelen bepalen betreffende de verantwoording van de aanwending van de bijkomende middelen, vermeld in het eerste lid.<br /><br />
+
+### ART. 3.2.25.
+
+De Vlaamse Regering stelt een niet-bindend modelreglement voor de gemeentelijke leegstandsheffing op gebouwen en woningen vast, op voorstel van de gewestelijke administratie, belast met de inning en invordering van de Vlaamse belastingen, en de Vereniging van Vlaamse Steden en Gemeenten.<br /><br />
+
+### ART. 3.2.26.
+
+De Vlaamse Regering, de gewestelijke administratie, belast met de inning en invordering van de Vlaamse belastingen, en de Vereniging van Vlaamse Steden en Gemeenten, sluiten een samenwerkingsprotocol aangaande de ondersteuning van gemeenten die een gemeentelijke leegstandsheffing op gebouwen en woningen hanteren of invoeren.<br /><br />
+
 ## Afdeling 2 [... (opgeh. decr. 14 oktober 2016, art. 52, I: 23 december 2016)]
+
+### ART. 3.2.27.
+
+§ 1. Het Vlaamse Gewest is gemachtigd tot het heffen van een uitzonderlijke gewestelijke leegstandsheffing op gebouwen en woningen die zijn opgenomen in het leegstandsregister, in die gemeenten die voldoen aan alle hiernavolgende voorwaarden :<br />1° zij hanteren geen gemeentelijke leegstandsheffing op gebouwen en woningen;<br />2° zij behoren in de referentieperiode « x » tot de tien procent Vlaamse gemeenten waar de relatieve leegstand van gebouwen en woningen blijkens het leegstandsregister het hoogst is;<br />3° de gemiddelde leegstand in de referentieperiode « x » is hoger dan de gemiddelde leegstand in de referentieperiode « x-1 ». <br /><br />§ 2. Voor de toepassing van § 1 wordt verstaan onder :<br />1° referentieperiode « x » : de periode van 1 januari 2012 tot en met 31 december 2014, vervolgens de periode van 1 januari 2013 tot en met 31 december 2015, en vervolgens elk daaropvolgend glijdend tijdsvenster van drie jaar, telkenmale aanvangend op 1 januari;<br />2° referentieperiode « x-1 » : de periode van 1 januari 2010 tot en met 31 december 2011, vervolgens de periode van 1 januari 2010 tot en met 31 december 2012, en vervolgens elk daaropvolgend glijdend tijdsvenster van drie jaar, telkenmale aanvangend op 1 januari.<br /><br />In beide referentieperiodes worden halfjaarlijkse metingen verricht, op de door de Vlaamse Regering te bepalen data.<br /><br />
+
+### ART. 3.2.28.
+
+De uitzonderlijke gewestelijke leegstandsheffing wordt geheven overeenkomstig de regelen, vermeld in :<br />1° artikel 3.2.19, artikel 3.2.20, artikel 3.2.21 en artikel 3.2.22, tweede lid;<br />2° artikelen 38 tot 40 van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996.<br /><br />
+
+### ART. 3.2.29.
+
+Het bedrag van de uitzonderlijke gewestelijke leegstandsheffing wordt berekend op basis van volgende formule : (KI + M) x (P - 2),<br />waarbij :<br />1° KI gelijk is aan :<br />a) hetzij het overeenkomstig artikel 518 van het Wetboek van de inkomstenbelasting geïndexeerde kadastraal inkomen van het gebouw of de woning;<br />b) hetzij, indien zich meerdere gebouwen of woningen op een kadastraal perceel bevinden, het overeenkomstig artikel 518 van het Wetboek van de inkomstenbelasting geïndexeerde kadastraal inkomen van de grond en de opstanden van het gehele perceel, vermenigvuldigd met volgende breuk : (oppervlakte van het gebouw of de woning/totale oppervlakte van de gebouwen of woningen die zich op het perceel bevinden);<br />2° M gelijk is aan het bedrag waarmee KI in voorkomend geval moet worden verhoogd om het bedrag van 990 euro te bereiken;<br />3° P gelijk is aan het aantal periodes van twaalf opeenvolgende maanden waarin het gebouw of de woning opgenomen is in het leegstandsregister.<br /><br />De uitzonderlijke gewestelijke leegstandsheffing is nooit negatief.<br /><br />
 
 ## BOEK 4 MAATREGELEN BETREFFENDE BETAALBAAR WONEN
 
@@ -883,6 +951,50 @@ In artikel 253, eerste lid, 8°, van het Wetboek van de inkomstenbelastingen 199
 
 ## HOOFDSTUK 3 Wijziging van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996
 
+### ART. 7.2.5.
+
+In hoofdstuk VIII van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, worden in het opschrift van afdeling 2 de woorden « leegstand en » geschrapt.<br /><br />
+
+### ART. 7.2.6.
+
+In artikel 24 van hetzelfde decreet, wordt punt 8°, ingevoegd bij decreet van 7 mei 2004, opgeheven.<br /><br />
+
+### ART. 7.2.7.
+
+In artikel 25 van hetzelfde decreet, gewijzigd bij decreet van 7 mei 2004, worden volgende wijzigingen aangebracht :<br />1° in het eerste lid worden de woorden « leegstaande en/of » en het woord « leegstaande » geschrapt;<br />2° het tweede en derde lid worden opgeheven.<br /><br />
+
+### ART. 7.2.8.
+
+In artikel 27 van hetzelfde decreet, gewijzigd bij decreten van 7 mei 2004 en 23 december 2005, worden volgende wijzigingen aangebracht :<br />1° in § 2 worden de woorden « leegstand en » geschrapt;<br />2° in § 3 wordt het woord « leegstand » geschrapt.<br /><br />
+
+### ART. 7.2.9.
+
+In artikel 28, § 1, van hetzelfde decreet, gewijzigd bij decreet van 24 december 2004, worden volgende wijzigingen aangebracht :<br />1° in het eerste lid, worden de woorden « - leegstaande gebouwen en/of woningen » geschrapt;<br />2° in het tweede lid, worden de woorden « , de leegstand » geschrapt;<br />3° in het vierde lid, worden de woorden « of leegstaat » geschrapt.<br /><br />
+
+### ART. 7.2.10.
+
+Artikel 30 van hetzelfde decreet, gewijzigd bij decreten van 8 juli 1997, 18 mei 1999, 7 mei 2004 en 24 december 2004, wordt opgeheven.<br /><br />
+
+### ART. 7.2.11.
+
+Artikel 33 van hetzelfde decreet, vervangen bij decreet van 24 december 2004 en gewijzigd bij decreet van 24 maart 2006, wordt opgeheven.<br /><br />
+
+### ART. 7.2.12.
+
+In artikel 34bis, § 2, eerste lid, van hetzelfde decreet, vervangen bij decreet van 24 december 2004, worden de woorden « leegstand en » geschrapt.<br /><br />
+
+### ART. 7.2.13.
+
+In artikel 35 van hetzelfde decreet, gewijzigd bij decreten van 8 juli 1997, 7 mei 2004 en 24 maart 2006, worden volgende wijzigingen aangebracht :<br />1° in § 1 worden de woorden « - meer dan 50 procent van de totale vloeroppervlakte van het gebouw, zoals bedoeld in artikel 30, § 1, na de periode van leegstand, meer dan 6 opeenvolgende maanden effectief wordt gebruikt overeenkomstig haar bestemming; » geschrapt;<br />2° in § 2 worden de woorden « - de woning, na de periode van leegstand, meer dan 6 opeenvolgende maanden effectief wordt gebruikt overeenkomstig haar bestemming; » geschrapt;<br />3° in § 4 worden de woorden « van het effectief gebruik en/of », « de eerste dag van bewoning », en « bewoning, effectief gebruik of » geschrapt.<br /><br />
+
+### ART. 7.2.14.
+
+In artikel 36, § 1, van hetzelfde decreet, vervangen bij decreet van 7 mei 2004 en gewijzigd bij decreten van 24 december 2004 en 23 december 2005, worden de woorden « het bedrag van de heffing is gelijk aan het resultaat van de volgende formule voor leegstaande gebouwen en/of woningen (KI + M) x (P - 2), waarbij de heffing nooit negatief mag zijn; » geschrapt.<br /><br />
+
+### ART. 7.2.15.
+
+In artikel 42 van hetzelfde decreet, vervangen bij decreet van 7 mei 2004, worden § 2, 4° en 6°, en § 3 opgeheven.<br /><br />
+
 ## HOOFDSTUK 4 Wijziging van de Vlaamse Wooncode
 
 ### ART. 7.2.16.
@@ -1103,7 +1215,7 @@ Aan artikel 5 van het decreet van 16 juni 2006 betreffende het oprichten van de 
 
 ### ART. 7.3.2.
 
-De gegevens als opgenomen in de lijst van leegstaande gebouwen en/of woningen, vermeld in artikel 28, § 1, eerste lid, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, worden overgedragen naar en opgenomen in het leegstandsregister. Voor wat betreft de gegevens die op basis van deze overdracht opgenomen worden in het leegstandsregister, is de procedure, vermeld in artikel 2.2.7 niet van toepassing. De Vlaamse Regering kan nadere regelen bepalen aangaande de wijze van gegevensoverdracht.<br /><br />Zolang deze overdracht en opname niet zijn gerealiseerd, wordt de lijst van leegstaande gebouwen en/of woningen, voor de toepassing van dit decreet en van de Vlaamse Wooncode, beschouwd als leegstandsregister.<br /><br />Het eerste en het tweede lid zijn van overeenkomstige toepassing op de gemeentelijke leegstandsregisters die in het jaar 2009 worden aangehouden in gemeenten die beschikken over een autonome leegstandsheffing. Deze regeling kan echter nooit voor gevolg hebben dat een gebouw of woning vanaf 1 januari 2010 als leegstaand wordt beschouwd op grond van andere leegstandscriteria dan deze, vermeld in artikel 2.2.6.<br /><br />
+De gegevens als opgenomen in de lijst van leegstaande gebouwen en/of woningen, vermeld in artikel 28, § 1, eerste lid, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, worden overgedragen naar en opgenomen in het leegstandsregister. Voor wat betreft de gegevens die op basis van deze overdracht opgenomen worden in het leegstandsregister, is de beroepsprocedure, vermeld in artikel 2.2.7, paragraaf 2 en paragraaf 3, niet van toepassing. De Vlaamse Regering kan nadere regelen bepalen aangaande de wijze van gegevensoverdracht.<br /><br />Zolang deze overdracht en opname niet zijn gerealiseerd, wordt de lijst van leegstaande gebouwen en/of woningen, voor de toepassing van dit decreet en van de Vlaamse Wooncode, beschouwd als leegstandsregister.<br /><br />Het eerste en het tweede lid zijn van overeenkomstige toepassing op de gemeentelijke leegstandsregisters die tot het jaar 2009 worden aangehouden in gemeenten die beschikken over een autonome leegstandsheffing.<br />
 
 ## HOOFDSTUK 3 [... (opgeh. decr. 14 oktober 2016, art. 60, I: 23 december 2016)]
 
@@ -1141,7 +1253,7 @@ In 2012 omvatten de bij het Vlaams Parlement in te dienen beleidsbrieven over he
 
 ### ART. 7.3.9.
 
-De eerste gemeentelijke berekening van de gezamenlijke oppervlakte van de onbebouwde bouwgronden en kavels in eigendom van Vlaamse besturen en Vlaamse semipublieke rechtspersonen gebeurt in afwijking van artikel 4.1.7, eerste lid, in de maand volgend op de kalendermaand waarin dit decreet in werking treedt. De resultaten gelden tot en met 31 december 2020.<br /><br />
+De eerste gemeentelijke berekening van de gezamenlijke oppervlakte van onbebouwde bouwgronden en kavels in eigendom van Vlaamse besturen gebeurt in afwijking van artikel 4.1.7, eerste lid, uiterlijk op 31 oktober 2010. De resultaten van die berekening gelden tot 31 december 2020.<br /><br />In afwijking van artikel 4.1.7, eerste lid, kan elke gemeente in de periode 2009-2020, voor haar grondgebied, de gezamenlijke oppervlakte van de onbebouwde bouwgronden en kavels, in eigendom van Vlaamse semipublieke rechtspersonen, berekenen. De resultaten van die berekening gelden tot 31 december 2020.<br /><br />In afwijking van artikel 4.1.7, tweede lid, waakt de gemeente erover dat in de periode 2009-2020 op ten minste een kwart van de gezamenlijke oppervlakte, berekend overeenkomstig het eerste lid, een sociaal woonaanbod verwezenlijkt wordt. Als de gemeente toepassing gemaakt heeft van het tweede lid, geldt die verplichting ten aanzien van de gezamenlijke oppervlakte, berekend overeenkomstig het eerste en het tweede lid.<br /><br />Aan de verplichting, vermeld in het derde lid, is voldaan als het bindend sociaal objectief, vermeld in artikel 4.1.2, in een gemeente wordt verwezenlijkt in de periode 2009-2020.<br />
 
 ### ART. 7.3.10.
 
