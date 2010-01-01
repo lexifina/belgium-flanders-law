@@ -382,6 +382,10 @@ In artikel 1, 7° en in artikel 31 van het besluit van de Vlaamse Regering van 1
 
 ## HOOFDSTUK XXXV Opheffing van het besluit van de Vlaamse Regering van 16 december 2005 tot inwerkingtreding van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap Ondernemen
 
+### ART. 77.
+
+Het besluit van de Vlaamse Regering van 16 december 2005 tot inwerkingtreding van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap Ondernemen wordt opgeheven. <br /><br />
+
 ## HOOFDSTUK XXXVI Opheffing van het besluit van de Vlaamse Regering van 26 januari 2007 inzake de erkenning en de subsidiëring van de inrichters van VLAO-aanspreekpunten en van de VLAO-aanspreekpunten
 
 ### ART. 78.
@@ -389,6 +393,10 @@ In artikel 1, 7° en in artikel 31 van het besluit van de Vlaamse Regering van 1
 Het besluit van de Vlaamse Regering van 26 januari 2007 inzake de erkenning en de subsidiëring van de inrichters van VLAO-aanspreekpunten en van de VLAO-aanspreekpunten wordt opgeheven.<br /><br />
 
 ## HOOFDSTUK XXXVII Opheffing van het besluit van de Vlaamse Regering van 1 februari 2008 tot nadere regeling van het raadgevend comité dat bij het Vlaams Agentschap Ondernemen is opgericht
+
+### ART. 79.
+
+Het besluit van de Vlaamse Regering van 1 februari 2008 tot nadere regeling van het raadgevend comité dat bij het Vlaams Agentschap Ondernemen is opgericht wordt opgeheven.<br /><br />
 
 ## HOOFDSTUK XXXVIII Slotbepalingen
 
