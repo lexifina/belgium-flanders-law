@@ -148,6 +148,10 @@ Een toelage van 1,43 euro per uur (100 %) wordt toegekend aan de personeelsleden
 
 § 1. Een jaarlijkse toelage van 195 euro (100 %) voor de bediening wordt toegekend aan het personeelslid dat regelmatig en doorlopend is aangesteld voor de bediening van een beweegbaar kunstwerk.<br /><br />§ 2 De personeelsleden belast met het bedienen van meerdere kunstwerken tegelijk door middel van schermbediening en waarbij het zicht afhankelijk is van camera's, ontvangen een toelage die afhankelijk is van het aantal schepen met correctiefactor, voor het aantal kunstwerken en het aantal bedieningspersoneelsleden van de centrale bedieningseenheid.<br /><br />Hierbij wordt volgende formule gehanteerd :<br />het aantal kunstwerken bediend door de cluster/3<br />het aantal binnenvaartbegeleiders per ploeg indien groter of gelijk aan 3<br /><br />Op deze breuk wordt een percentage forfaitair aantal uren toegepast op basis van het aantal schepen :<br />Vanaf 5.000 schepen, bedraagt dit percentage 6,25 %;<br />Vanaf 10.000 schepen, bedraagt dit percentage 18,75 %;<br />Vanaf 20.000 schepen, bedraagt dit percentage 50,00 %.<br />De toelage wordt berekend op het betreffende percentage aan 0,25/1850 van het bruto jaarloon.
 
+### ART. 14/3.
+
+Een maandelijkse toelage van 50 euro (100 %), hierna de toelage buffer te noemen, wordt toegekend aan het personeelslid dat de functie van binnenvaartbegeleider met bufferfunctie uitoefent.
+
 ## HOOFDSTUK 6. [Wachttoelage (verv. BVR 24 oktober 2014, art. 2, I: 1 januari 2015)]
 
 ### ART. 15.
