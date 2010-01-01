@@ -2,16 +2,16 @@
   "codex_id": 1014706,
   "title": "Besluit van de Vlaamse Regering van 2006-05-12 tot vaststelling van de voorwaarden waaronder premies kunnen worden toegekend aan [openluchtrecreatieve terreinen (verv. BVR 11 december 2009, art. 10)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014706/VolledigDocument?datum=2006-08-10",
-  "source_sha256": "d443a91af23fa52566aa33e5e92518e51b24752ad00cb34149d4e92d575fecde",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014706/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "d2bd687f8396bd21fe6eff54fb3300a2a0ba04f4b017aec9cefc4ed2827c7d8b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014706&param=informatie",
-  "as_of": "2006-08-10",
+  "as_of": "2010-01-01",
   "made": "2006-05-12",
   "gazette": "2006-07-31",
   "numac": 2006036116,
   "document_start": "2006-08-10",
   "document_end": "2011-12-31",
-  "in_force": "2006-08-10",
+  "in_force": "2010-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2006-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
