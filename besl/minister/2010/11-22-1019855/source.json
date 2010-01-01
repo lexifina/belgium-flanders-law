@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019855,
+  "title": "Ministerieel besluit van 2010-11-22 tot wijziging van artikel 2 van het ministerieel besluit van 2 maart 2010 tot bepaling van de diensten voor gezinszorg en aanvullende thuiszorg die in aanmerking komen voor subsidiëring van aanvullende thuiszorg en tot bepaling van het aantal VTE per functiecategorie en per dienst voor het jaar 2010",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019855/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "9f4775614ede48a689821591dda7c51ed52ba1386342d731baf2732d1c69c917",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019855&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2010-11-22",
+  "gazette": "2011-01-05",
+  "numac": 2010206487,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
