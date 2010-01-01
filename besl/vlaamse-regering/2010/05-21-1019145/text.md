@@ -20,6 +20,10 @@ In artikel 1 van het hetzelfde besluit wordt punt 8° vervangen door wat volgt :
 
 In artikel 1, punt 13°, van hetzelfde besluit worden de woorden "punt 26°" vervangen door de woorden "punt 27°;".
 
+### ART. 5.
+
+In artikel 22 van hetzelfde besluit wordt punt 2°, b, vervangen door wat volgt : <br />"b) 36 gesloten plaatsen en 10 open plaatsen voor meisjes in de opvoedingsafdeling in Beernem."
+
 ### ART. 6.
 
 In artikel 53, tweede lid, van hetzelfde besluit worden de woorden "in artikel 52, eerste lid, 4°," vervangen door de woorden "in artikel 52, eerste lid, 2°,".
