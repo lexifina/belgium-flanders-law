@@ -2,16 +2,16 @@
   "codex_id": 1008928,
   "title": "Besluit van de Vlaamse Regering van 2001-09-28 houdende de erkenning, de registratie en de machtiging en houdende de aansluiting, de aanvraag en de tenlasteneming in het kader van de zorgverzekering",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008928/VolledigDocument?datum=2009-03-01",
-  "source_sha256": "ddf0d401fe2dd0e8f6c357376b72fe9a2d6e956daf8bdbe4bf95b96f11bf6567",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008928/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "5991075bddbcef4126d2acbc384030469d35c89abeed49a373112a5f505b5786",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008928&param=informatie",
-  "as_of": "2009-03-01",
+  "as_of": "2010-01-01",
   "made": "2001-09-28",
   "gazette": "2002-03-20",
   "numac": 2002035268,
   "document_start": "2001-10-01",
   "document_end": "2009-12-31",
-  "in_force": "2009-03-01",
+  "in_force": "2010-01-01",
   "article_versions": 70,
-  "record_form": "consolidated version as in force on 2009-03-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }

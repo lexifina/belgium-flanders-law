@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br />1° decreet: het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering;<br />2° zorgkas: een zorgkas die erkend is krachtens artikel 15, eerste lid, van het decreet of de zorgkas, bedoeld in artikel 14, derde lid, van het decreet;<br />3° Vlaamse zorgkas: de zorgkas die door het Vlaams Zorgfonds krachtens artikel 14, derde lid, van het decreet is opgericht;<br />4° ledenbijdrage: de bijdrage, bedoeld in artikel 9 van het besluit van de Vlaamse regering van 17 juli 2000 betreffende de organisatie, het beheer, de werking en de erkenning van zorgkassen en betreffende de controle op de zorgkassen;<br />5° indicatiestelling: het vaststellen van de ernst en de duur van het verminderde zelfzorgvermogen, bedoeld in artikel 2, 2°, van het decreet;<br />6° gemachtigde indicatiesteller: een organisatie, voorziening of een professionele zorgverlener die krachtens artikel 9, eerste lid, van het decreet gemachtigd is de ernst en de duur van het verminderde zelfzorgvermogen vast te stellen;<br />7° zorgvorm: de niet-medische hulp- en dienstverlening die verstrekt wordt door of een residentiële zorgvoorziening, of een niet-residentiële zorgvoorziening, een professionele zorgverlener of een mantelzorger;<br />8° mantel- en thuiszorg: zorgvorm waarbij de niet-medische hulp- en dienstverlening verstrekt wordt door een niet-residentiële zorgvoorziening, een professionele zorgverlener of een mantelzorger;<br />9° tenlasteneming: de tenlasteneming van de kosten zoals bepaald in artikel 6, § 1, van het decreet; <br />10° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br />11° Agentschap Zorg en Gezondheid : het Agentschap, bedoeld in artikel 1 van het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap Zorg en Gezondheid;<br />12° ...<br />13° het Vlaams Zorgfonds, bedoeld in artikel 3 van het decreet van 7 mei 2004 tot omvorming van het Vlaams Zorgfonds tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid en tot wijziging van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering; <br />14° leidend ambtenaar: de leidend ambtenaar van het Fonds;<br />15° residentiële zorg: zorgvorm waarbij de niet-medische hulp- en dienstverlening verstrekt wordt door een voorziening die erkend is of gelijkgesteld is met een erkenning als een rusthuis, een rust- en verzorgingstehuis of een psychiatrisch verzorgingstehuis.
+...
 
 ## HOOFDSTUK II DE ERKENNING VAN DE VOORZIENING EN DE PROFESSIONELE ZORGVERLENER
 
@@ -12,115 +12,115 @@ In dit besluit wordt verstaan onder:<br />1° decreet: het decreet van 30 maart 
 
 ### ART. 2.
 
-§ 1. De voorzieningen die op 1 oktober 2001 erkend zijn krachtens het decreet van 14 juli 1998 houdende de erkenning en de subsidiëring van verenigingen en welzijnsvoorzieningen in de thuiszorg en de serviceflats die op 1 oktober 2001 erkend zijn krachtens de decreten inzake voorzieningen voor bejaarden, gecoördineerd op 18 december 1991, zijn met ingang van 1 oktober 2001 en tot en met 30 juni 2002 van rechtswege erkend [met toepassing van artikel 6, § 1, tweede en derde lid van het decreet.  <span class="reference">(verv. B.V.R. 13 december 2002, art. 3, I: 1 januari 2003)</span> ]<br /><br />De in het eerste lid bedoelde voorzieningen en de serviceflats die op 1 oktober 2001 nog niet erkend zijn krachtens een in het vorige lid bedoeld decreet, zijn met ingang van de datum van hun sectorale erkenning en tot en met 30 juni 2002 van rechtswege erkend [met toepassing van artikel 6, § 1, tweede en derde lid van het decreet.  <span class="reference">(verv. B.V.R. 13 december 2002, art. 3, I: 1 januari 2003)</span> ]<br /><br />§ 2. De volgende voorzieningen en professionele zorgverleners die op 1 juli 2002 sectoraal erkend zijn, zijn met ingang van 1 juli 2002 voor onbepaalde duur van rechtswege erkend [met toepassing van artikel 6, § 1, tweede en derde lid van het decreet:  <span class="reference">(verv. B.V.R. 13 december 2002, art. 3, I: 1 januari 2003)</span> ]<br /><br />1° de voorzieningen die erkend zijn krachtens het decreet van 14 juli 1998 houdende de erkenning en de subsidiëring van verenigingen en welzijnsvoorzieningen in de thuiszorg;<br /><br />2° de voorzieningen die erkend zijn krachtens de decreten inzake voorzieningen voor bejaarden, gecoördineerd op 18 december 1991;<br /><br />3° de rust- en verzorgingstehuizen die erkend zijn krachtens artikel 5 van de wet van 27 juni 1978 tot wijziging van de wetgeving op de ziekenhuizen en betreffende andere vormen van verzorging en het besluit van de Vlaamse regering van 18 februari 1997 tot vaststelling van de procedure voor de erkenning en de sluiting van rust- en verzorgingstehuizen, psychiatrische verzorgingstehuizen, initiatieven van beschut wonen en samenwerkingsverbanden van psychiatrische instellingen en diensten;<br /><br />4° de psychiatrische verzorgingstehuizen die erkend zijn krachtens artikel 5 van de wet van 27 juni 1978 tot wijziging van de wetgeving op de ziekenhuizen en betreffende andere vormen van verzorging en het besluit van de Vlaamse regering van 18 februari 1997 tot vaststelling van de procedure voor de erkenning en de sluiting van rust- en verzorgingstehuizen, psychiatrische verzorgingstehuizen, initiatieven van beschut wonen en samenwerkingsverbanden van psychiatrische instellingen en diensten.<br /><br />De in het eerste lid bedoelde voorzieningen die op 1 juli 2002 nog niet erkend zijn krachtens een in het vorige lid bedoeld decreet, zijn met ingang van de datum van hun sectorale erkenning voor onbepaalde duur van rechtswege erkend [met toepassing van artikel 6, § 1, tweede en derde lid, van het decreet.  <span class="reference">(verv. B.V.R. 13 december 2002, art. 3, I: 1 januari 2003)</span> ]<br /><br />§ 3. De schoonmaakhulp die georganiseerd wordt door een Openbaar Centrum voor Maatschappelijk Welzijn is met ingang van 1 oktober 2001, of de daarna volgende datum van de inrichting ervan, voor onbepaalde duur van rechtswege erkend [met toepassing van artikel 6, § 1, tweede en derde lid, van het decreet.  <span class="reference">(verv. B.V.R. 13 december 2002, art. 3, I: 1 januari 2003)</span> ] Onder schoonmaakhulp wordt verstaan de hulp- en dienstverlening die bestaat uit werkzaamheden die het reinigen van en het bevorderen van de hygiëne in de woning van de gebruiker tot doel heeft.
+...
 
 ### ART. 2bis.
 
-§ 1. De in het tweetalige gebied Brussel-Hoofdstad gevestigde voorzieningen en professionele zorgverleners worden gelijkgesteld met de voorzieningen die door de Vlaamse Regering erkend zijn, voor zover ze hun activiteiten op rechtmatige wijze verrichten en een gelijkaardige hulp- en dienstverlening aanbieden als een voorziening zoals bedoeld in artikel 2, § 2, 2°, 3° en 4°.<br /><br />§ 2. De niet in België gevestigde voorzieningen en professionele zorgverleners, die in een andere lidstaat van de Europese Gemeenschap of van de Europese Economische Ruimte gevestigd zijn, of in Zwitserland, worden gelijkgesteld met de voorzieningen die door de Vlaamse Regering erkend zijn, voor zover ze in de lidstaat van vestiging hun activiteiten op rechtmatige wijze verrichten en een gelijkaardige hulp- en dienstverlening aanbieden als een voorziening zoals bedoeld in artikel 2, § 2, 2°, 3°, 4°.
+...
 
 ### ART. 3.
 
-§ 1. De in artikel 2, § 1 en § 2, bedoelde erkenningen vervallen vanaf het ogenblik dat en zolang als de erkenning van de voorziening of de professionele zorgverlener krachtens de op hem toepasselijke sectorale regelgeving geschorst is of vanaf het ogenblik dat en zolang als de voorziening of de professionele zorgverlener krachtens de op hem toepasselijke sectorale regelgeving niet meer erkend is.<br /><br />Het agentschap Zorg en Gezondheid naargelang het geval, deelt elke beslissing tot intrekking of schorsing van de erkenning van een in artikel 2, § 1 en § 2, bedoelde voorziening of professionele zorgverlener, onmiddellijk mee aan het Fonds, dat dit onmiddellijk aan alle zorgkassen meedeelt.<br /><br />§ 2. Als een voorziening of een professionele zorgverlener de kostprijs die hij aanrekent aan een gebruiker voor een bepaalde zorgverstrekking verhoogt omdat die gebruiker recht heeft op een in het decreet bedoelde tenlasteneming, kan het hoofd van het agentschap Zorg en Gezondheid de in artikel 2 bedoelde erkenning intrekken, onverminderd de bepalingen van artikel 2 en van § 1 van dit artikel.
+...
 
 ## AFDELING II [... (opgeh. B.V.R. 13 december 2002, art. 4, I: 1 januari 2003)]
 
 ### ART. 4.
 
-[...  <span class="reference">(opgeh. B.V.R. 13 december 2002, art. 4, I: 1 januari 2003)</span> ]
+...
 
 ### ART. 5.
 
-[...  <span class="reference">(opgeh. B.V.R. 13 december 2002, art. 4, I: 1 januari 2003)</span> ]
+...
 
 ### ART. 6.
 
-[...  <span class="reference">(opgeh. B.V.R. 13 december 2002, art. 4, I: 1 januari 2003)</span> ]
+...
 
 ### ART. 7.
 
-[...  <span class="reference">(opgeh. B.V.R. 13 december 2002, art. 4, I: 1 januari 2003)</span> ]
+...
 
 ### ART. 8.
 
-[...  <span class="reference">(opgeh. B.V.R. 13 december 2002, art. 4, I: 1 januari 2003)</span> ]
+...
 
 ### ART. 9.
 
-[...  <span class="reference">(opgeh. B.V.R. 13 december 2002, art. 4, I: 1 januari 2003)</span> ]
+...
 
 ### ART. 10.
 
-[...  <span class="reference">(opgeh. B.V.R. 13 december 2002, art. 4, I: 1 januari 2003)</span> ]
+...
 
 ### ART. 11.
 
-[...  <span class="reference">(opgeh. B.V.R. 13 december 2002, art. 4, I: 1 januari 2003)</span> ]
+...
 
 ### ART. 12.
 
-[...  <span class="reference">(opgeh. B.V.R. 13 december 2002, art. 4, I: 1 januari 2003)</span> ]
+...
 
 ## HOOFDSTUK III DE MACHTIGING ALS INDICATIESTELLER
 
 ### ART. 13.
 
-§ 1. De voorzieningen die op 1 oktober 2001 als dienst voor gezinszorg erkend zijn krachtens het decreet van 14 juli 1998 houdende de erkenning en de subsidiëring van verenigingen en welzijnsvoorzieningen in de thuiszorg en de op die datum erkende centra voor algemeen welzijnswerk in het kader van de ziekenfondsen, bedoeld in artikel 2, 4°, van het decreet van 19 december 1997 betreffende het algemeen welzijnswerk, zijn met ingang van 1 oktober 2001 voor onbepaalde duur van rechtswege gemachtigd om de ernst en de duur van het verminderd zelfzorgvermogen van een gebruiker vast te stellen.<br /><br />De in het eerste lid bedoelde voorzieningen of centra voor algemeen welzijnswerk die op 1 oktober 2001 nog niet erkend zijn krachtens een van de in het vorige lid bedoelde decreten, zijn met ingang van de datum van hun sectorale erkenning voor onbepaalde duur van rechtswege gemachtigd om de ernst en de duur van het verminderd zelfzorgvermogen van een gebruiker vast te stellen.<br /><br />De voorzieningen die op 1 oktober 2001 als lokaal dienstencentrum erkend zijn krachtens het decreet van 14 juli 1998 houdende de erkenning en de subsidiëring van verenigingen en welzijnsvoorzieningen in de thuiszorg en die hun activiteiten in hoofdzaak verrichten binnen het tweetalige gebied Brussel-Hoofdstad, zijn met ingang van 1 oktober 2001 voor onbepaalde duur van rechtswege gemachtigd om de ernst en de duur van het verminderd zelfzorgvermogen van een gebruiker vast te stellen.<br /><br />De in het derde lid bedoelde voorzieningen die op 1 oktober 2001 nog niet erkend zijn krachtens het in het vorige lid bedoelde decreet en die hun activiteiten in hoofdzaak verrichten binnen het tweetalige gebied Brussel-Hoofdstad, zijn met ingang van de datum van hun sectorale erkenning voor onbepaalde duur van rechtswege gemachtigd om de ernst en de duur van het verminderd zelfzorgvermogen van een gebruiker vast te stellen.<br /><br />§ 2. Onverminderd de bepalingen van § 1 zijn de Openbare Centra voor Maatschappelijk Welzijn met ingang van 1 oktober 2001 voor onbepaalde duur van rechtswege gemachtigd om de ernst en de duur van het verminderd zelfzorgvermogen van een gebruiker vast te stellen.
+...
 
 ### ART. 14.
 
-De in artikel 13, § 1, bedoelde machtiging vervalt vanaf het ogenblik dat de erkenning van de voorziening krachtens de op haar toepasselijke sectorale regelgeving geschorst is of vanaf het ogenblik dat de voorziening krachtens de op haar toepasselijke sectorale regelgeving niet meer erkend is.<br /><br />Het agentschap Zorg en Gezondheid deelt elke beslissing tot intrekking of schorsing van de erkenning van een in artikel 13, § 1 bedoelde voorziening of professionele zorgverlener onmiddellijk mee aan het Fonds, dat dit onmiddellijk aan alle zorgkassen meedeelt.
+...
 
 ## HOOFDSTUK IV DE AANSLUITING BIJ EEN ZORGKAS EN DE BETALING VAN DE LEDENBIJDRAGE
 
 ### ART. 15.
 
-§ 1. Iedere persoon die in het Nederlandse taalgebied woont, moet zich aansluiten bij een zorgkas van zijn keuze met ingang van 1 januari van het jaar dat volgt op dat waarin hij de leeftijd van vijfentwintig jaar heeft bereikt. Als die persoon zich niet aansluit bij een zorgkas van zijn keuze vóór 1 juli van het jaar dat volgt op dat waarin hij de leeftijd van vijfentwintig jaar heeft bereikt, is hij ambtshalve aangesloten bij de Vlaamse Zorgkas met ingang van 1 januari van het jaar waarop hij zich had moeten aansluiten.<br /><br />De eerste en tweede bijdrage kunnen worden betaald tot en met 31 december van het jaar na het jaar waarin de persoon zesentwintig jaar is geworden, zonder dat de persoon een opschorting met verlies van rechten oploopt, als vermeld in artikel 10, § 3, van het decreet, en zonder dat de jaren in aanmerking komen voor de administratieve geldboete, vermeld in artikel 21bis van het decreet. De minister kan de nadere voorwaarden met betrekking tot het betalen van de eerste en de tweede bijdrage bepalen.<br /><br />§ 2. Iedere persoon die in het Nederlandse taalgebied komt wonen in het jaar dat volgt op dat waarin hij minstens de leeftijd van vijfentwintig jaar heeft bereikt, moet zich aansluiten bij een zorgkas van zijn keuze. De aansluiting is verplicht met ingang van 1 januari van het jaar waarin die persoon in het Nederlandse taalgebied komt wonen. Als die persoon zich niet aansluit bij een zorgkas van zijn keuze binnen zes maanden nadat hij in het Nederlandse taalgebied is komen wonen, is hij ambtshalve aangesloten bij de Vlaamse Zorgkas met ingang van 1 januari van het jaar waarin hij zich had moeten aansluiten.<br /><br />Personen die in de eerste jaarhelft van een kalenderjaar in het Nederlandse taalgebied komen wonen, kunnen de eerste en tweede bijdrage betalen tot en met 31 december van het jaar na het jaar waarin zij er zijn komen wonen, zonder dat die personen een opschorting met verlies van rechten oplopen als vermeld in artikel 10, § 3, van het decreet, en zonder dat de jaren in aanmerking komen voor de administratieve geldboete, vermeld in artikel 21bis van het decreet. De minister kan de nadere voorwaarden met betrekking tot het betalen van de eerste en de tweede bijdrage bepalen.<br /><br />Personen die in de tweede jaarhelft van een kalenderjaar in het Nederlandse taalgebied komen wonen, kunnen de eerste, tweede en derde bijdrage betalen tot en met 31 december van het tweede jaar na het jaar waarin zij er zijn komen wonen, zonder dat die personen een opschorting met verlies van rechten oplopen als vermeld in artikel 10, § 3, van het decreet, en zonder dat de jaren in aanmerking komen voor de administratieve geldboete, vermeld in artikel 21bis van het decreet. De minister kan de nadere voorwaarden met betrekking tot het betalen van de eerste, de tweede en de derde bijdrage bepalen.
+...
 
 ### ART. 16.
 
-§ 1. Iedere persoon die in het tweetalige gebied Brussel-Hoofdstad woont, kan zich aansluiten bij een zorgkas van zijn keuze met ingang van 1 januari van het jaar dat volgt op dat waarin hij de leeftijd van vijfentwintig jaar heeft bereikt.<br /><br />De eerste en tweede bijdrage kunnen worden betaald tot en met 31 december van het jaar na het jaar waarin de persoon zesentwintig jaar is geworden, zonder dat die persoon een opschorting met verlies van rechten oploopt als vermeld in artikel 10, § 3, van het decreet, en zonder dat de jaren in aanmerking komen voor de administratieve geldboete, vermeld in artikel 21bis van het decreet. De minister kan de nadere voorwaarden met betrekking tot het betalen van de eerste en de tweede bijdrage bepalen.<br /><br />§ 2. Iedere persoon die in het tweetalige gebied Brussel-Hoofdstad komt wonen in het jaar dat volgt op dat waarin hij minstens de leeftijd van vijfentwintig jaar heeft bereikt, kan zich aansluiten bij een zorgkas van zijn keuze. De aansluiting is mogelijk met ingang van 1 januari van het jaar waarin die persoon in het tweetalige gebied Brussel-Hoofdstad komt wonen.<br /><br />Personen die in de eerste jaarhelft van een kalenderjaar in het tweetalige gebied Brussel-Hoofdstad komen wonen, kunnen de eerste en tweede bijdrage betalen tot en met 31 december van het jaar na het jaar waarin zij zijn komen wonen, zonder dat die personen een opschorting met verlies van rechten oplopen als vermeld in artikel 10, § 3, van het decreet, en zonder dat de jaren in aanmerking komen voor de administratieve geldboete, vermeld in artikel 21bis van het decreet. De minister kan de nadere voorwaarden met betrekking tot het betalen van de eerste en de tweede bijdrage bepalen.<br /><br />Personen die in de tweede jaarhelft van een kalenderjaar in het tweetalige gebied Brussel-Hoofdstad komen wonen, kunnen de eerste, tweede en derde bijdrage betalen tot en met 31 december van het tweede jaar na het jaar waarin zij er zijn komen wonen, zonder dat die personen een opschorting met verlies van rechten oplopen als vermeld in artikel 10, § 3, van het decreet, en zonder dat de jaren in aanmerking komen voor de administratieve geldboete, vermeld in artikel 21bis van het decreet. De minister kan de nadere voorwaarden bepalen met betrekking tot het betalen van de eerste, de tweede en de derde bijdrage bepalen.<br /><br />§ 3. Iedere persoon als vermeld in § 1 en § 2, die zich buiten de periodes als vermeld in § 1 en § 2, aansluit, is laattijdig aangesloten. De laattijdige aansluiting gaat in op 1 januari van het jaar waarin de eerste bijdrage betaald is. In dat geval is de termijn van ononderbroken aansluiting, vermeld in artikel 5, 6°, van het decreet, van toepassing. Ook de opschorting met verlies van rechten, vermeld in artikel 10, § 3, van het decreet, wordt opgelegd voor de jaren waarvoor de persoon zich tijdig had kunnen aansluiten.
+...
 
 ### ART. 17.
 
-Iedere in artikelen 15 en 16 bedoelde aangeslotene is ertoe gehouden aan de zorgkas in kwestie een ledenbijdrage te betalen. Onverminderd het van toepassing zijn van de periode van opschorting met verlies van rechten, vermeld in artikel 10, § 3, van het decreet, van het decreet blijft de bijdrage verschuldigd. De minister kan hiervoor nadere regels bepalen. <br /><br />De ledenbijdrage bedraagt 10 euro voor de periode van 1 oktober 2001 tot en met 31 december 2002.<br /><br />Met ingang van het jaar 2003 bedraagt de ledenbijdrage 25 euro.<br /><br />In afwijking van het derde lid bedraagt de jaarlijkse ledenbijdrage, met ingang van het jaar 2003 tot en met het jaar 2008, 10 euro voor de personen, vermeld in artikel 15 en 16, die op 1 januari van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de bijdrage betrekking heeft, recht hebben op de verhoogde verzekeringstegemoetkoming, vermeld in artikel 37, § 1, tweede lid, en in § 19 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, en in artikel 32 van het koninklijk besluit van 29 december 1997 houdende de voorwaarden waaronder de toepassing van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, tot de zelfstandigen en de leden van de kloostergemeenschappen wordt verruimd.<br /><br />In afwijking van het derde lid bedraagt de jaarlijkse ledenbijdrage, met ingang van het jaar 2009, 10 euro voor de personen, vermeld in artikelen 15 en 16, die op 1 januari van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de bijdrage betrekking heeft, recht hebben op de verhoogde verzekeringstegemoetkoming of het OMNIO-statuut, vermeld in artikel 37, § 1, tweede en derde lid, en in § 19, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994.
+...
 
 ### ART. 17bis.
 
-Met ingang van het kalenderjaar 2006 bepaalt de minister de data vanaf dewelke de betaling van de ledenbijdrage als laattijdig wordt beschouwd, respectievelijk in het kader van de toepassing van de bepalingen van artikel 10, § 1, tweede lid, en artikel 21bis van het decreet.
+...
 
 ### ART. 17ter.
 
-§ 1. Het lidmaatschap wordt met terugwerkende kracht stopgezet bij personen die aangesloten zijn bij een zorgkas, in het tweetalige gebied Brussel-Hoofdstad wonen, en drie keer de bijdrage, vermeld in artikel 17, niet, slechts gedeeltelijk of laattijdig hebben betaald. Het lidmaatschap wordt met terugwerkende kracht stopgezet op het einde van het laatste jaar waarvoor de bijdrage volledig en tijdig is betaald. <br /><br />De aangeslotene kan tegen die ambtshalve stopzetting van zijn aansluiting verzet aantekenen bij de zorgkas waarbij hij is aangesloten. De minister bepaalt de nadere regels met betrekking tot de wijze waarop de ambtshalve stopzetting of het aantekenen van verzet dient te gebeuren. <br /><br />§ 2. Op verzoek van de aangeslotene met woonplaats in het tweetalige gebied Brussel-Hoofdstad zet de zorgkas het lidmaatschap met terugwerkende kracht stop. <br /><br />§ 3. Met behoud van de toepassing van § 1, en § 2, kunnen de reeds volledig of onvolledig betaalde bijdragen niet worden teruggevorderd.<br /><br />§ 4. Als de persoon, vermeld in § 1 of § 2, zich na de stopzetting van zijn lidmaatschap met terugwerkende kracht, opnieuw aansluit bij een zorgkas, blijven artikel 5, 6°, en artikel 10, § 3, van het decreet van toepassing.
+...
 
 ### ART. 18.
 
-§ 1. Een persoon sluit vrijwillig aan bij een zorgkas door de ledenbijdrage aan de zorgkas in kwestie te betalen. Als de zorgkas daar om verzoekt bezorgt die persoon de gegevens die nodig zijn voor het bijhouden van een register. De minister bepaalt welke gegevens minstens in het register moeten bijgehouden worden.<br /><br />De zorgkassen worden belast met de inning van de ledenbijdragen. De minister bepaalt de nadere regels inzake de inning van de ledenbijdragen.<br /><br />Een aangeslotene of zijn wettelijke vertegenwoordiger is ertoe gehouden elke wijziging met betrekking tot de gegevens van de aangeslotene onmiddellijk mee te delen aan de zorgkas in kwestie.<br /><br />§ 2. [In geval van ambtshalve aansluiting deelt de Vlaamse zorgkas dat, samen met de ingangsdatum van de aansluiting, aan de betrokkene mee.  <span class="reference">(verv. B.V.R. 14 december 2001, art. 4, I: 1 januari 2002)</span> ] Hierbij voegt de Vlaamse zorgkas een uitnodiging om de ledenbijdrage te betalen en zo nodig de in § 1, eerste lid, bedoelde gegevens te verstrekken.
+...
 
 ### ART. 19.
 
-§ 1. Een aangeslotene kan vrijwillig bij een andere zorgkas aansluiten met ingang van 1 januari van het jaar dat volgt op het jaar waarin hij beslist om te veranderen van zorgkas en op voorwaarde dat hij dit via een door het Fonds ter beschikking gesteld mutatieformulier aan die andere zorgkas meedeelt vóór vijf december van het lopende jaar. Elke zorgkas is ertoe gehouden de door de minister te bepalen gegevens volgens de door de minister te bepalen voorwaarden mee te delen.<br /><br />In afwijking van artikel 18, § 1, sluit de persoon bij de andere zorgkas aan door het in het eerste lid vermelde mutatieformulier ondertekend en gedateerd vóór vijf december van het lopende jaar bij de andere zorgkas in te dienen. De verandering van zorgkas vervalt alsnog als de persoon zijn beslissing herroept voor 15 januari van het jaar dat volgt op het jaar waarin hij beslist om te veranderen van zorgkas. De minister bepaalt hiervoor de nadere regels. <br /><br />§ 2. Als een bij een zorgkas aangeslotene geen woonplaats in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad meer heeft of overlijdt, wordt de aansluiting pas beëindigd met ingang van 1 januari van het volgende jaar. De ledenbijdrage blijft verschuldigd voor het lopende jaar, behoudens in geval van overlijden van de aangeslotene.<br /><br />Het in het eerste lid bepaalde is van overeenkomstige toepassing als een persoon die in het tweetalige gebied Brussel-Hoofdstad woont de aansluiting vrijwillig stopzet.
+...
 
 ### ART. 19bis.
 
-Een persoon die aangesloten is bij een zorgkas, opgericht door een instantie, bedoeld in artikel 14, eerste lid, 1°, van het decreet, en die tegelijk lid is van een ziekenfonds dat niet behoort tot die instantie, kan alsnog van zorgkas veranderen, onverminderd artikel 19, § 1. De minister bepaalt hiertoe de nadere regels.  <span class="reference">(ing. B.V.R. 14 november 2003, art. 2, I: 1 januari 2003)</span> ]
+...
 
 ## HOOFDSTUK IVbis ADMINISTRATIEVE GELDBOETE
 
 ### ART. 19ter.
 
-§ 1. Een administratieve geldboete wordt opgelegd aan iedere aangeslotene, vermeld in artikel 15 en 16, die drie, niet noodzakelijk opeenvolgende keren, de bijdrage, vermeld in artikel 17, niet, slechts gedeeltelijk of laattijdig heeft betaald.<br /><br />§ 2. Als de bijdrage gedurende vijf jaar ononderbroken tijdig en volledig wordt betaald én alle achterstallige bijdragen werden vereffend, worden de voorafgaande niet-, gedeeltelijke en laattijdige betalingen van de bijdrage, met een maximum van twee, niet meer in aanmerking genomen voor de berekening van de drie, niet noodzakelijk opeenvolgende, keren die aanleiding geven tot het opleggen van een administratieve geldboete.<br /><br />
+...
 
 ### ART. 19quater.
 
-§ 1. In de hieronder vermelde situaties wordt de niet-betaling van de bijdrage, de gedeeltelijke betaling van de bijdrage of de laattijdige betaling van de bijdrage niet in aanmerking genomen voor het opleggen van een administratieve geldboete : <br />1° de aangeslotene verblijft ononderbroken en minstens van 1 maart tot en met 30 april van het jaar waarvoor de bijdrage verschuldigd is en waarvoor de bijdrage niet, gedeeltelijk of laattijdig wordt betaald, in een strafinstelling. Dit wordt bewezen met een attest van de betrokken strafinstelling; <br />2° de aangeslotene is ononderbroken en minstens van 1 maart tot en met 30 april van het jaar waarvoor de bijdrage verschuldigd is en waarvoor de bijdrage niet, gedeeltelijk of laattijdig wordt betaald, vermist, afwezig verklaard of van ambtswege afgevoerd. Dit wordt bewezen via een afdruk van het elektronisch rijksregisterbestand, met een attest van aangifte of een kopie van het vonnis van de rechtbank van eerste aanleg; <br />3° de aangeslotene is ononderbroken en minstens van 1 maart tot en met 30 april van het jaar waarvoor de bijdrage verschuldigd is en waarvoor de bijdrage niet, gedeeltelijk of laattijdig wordt betaald, het voorwerp van budgetbegeleiding of budgetbeheer door een Openbaar Centrum voor Maatschappelijk Welzijn of door een door de Vlaamse Gemeenschap erkende instelling voor schuldbemiddeling. De aangeslotene bewijst dit met een attest van het Openbaar Centrum voor Maatschappelijk Welzijn of van de erkende instelling;<br />4° het niet, gedeeltelijk of laattijdig betalen van de bijdrage is het gevolg van een fout van het Vlaams Zorgfonds, het rijksregister of de Kruispuntbank van de Sociale Zekerheid; <br />5° het niet of niet tijdig ontvangen van de uitnodiging tot betaling van de bijdrage is het gevolg van een aantoonbare fout van de zorgkas. Dit wordt via een attest van de zorgkas bewezen;<br />6° de bijdrage staat uiterlijk 10 mei van het lopende jaar op de rekening van de zorgkas;<br />7° tijdens het jaar van verandering van zorgkas indien de bijdrage uiterlijk 31 december van dat jaar wordt betaald;<br />8° bij wijziging van het rijksregisternummer indien de bijdrage uiterlijk 31 december van het jaar in kwestie wordt betaald;<br />9° als er tijdens het jaar waarvoor de bijdrage verschuldigd is, uiterlijk 30 april een aanvraag voor tenlasteneming of een positieve beslissing voor tenlasteneming is, en de bijdrage wordt betaald vóór 31 december van dat jaar;<br />10° een buitenlands sociaal verzekerde of een Belgisch sociaal verzekerde met woonplaats buiten het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad waarvoor een onderzoek loopt over de aansluitingsplicht bij het Vlaams Zorgfonds;<br />11° de bijdragen voor het eerste en tweede jaar na afsluiting door een zorgkas van personen die door een zorgkas afgesloten worden en die niet van zorgkas veranderen, worden betaald uiterlijk 31 december van het tweede jaar na het jaar van afsluiting door de zorgkas.<br /><br />§ 2. Personen worden niet aangeschreven voor een administratieve geldboete als ze bij het Vlaams Zorgfonds gekend zijn als : <br />1) van ambtswege afgevoerd;<br />2) vermist. <br /><br />§ 3. In het kader van de regularisatiemogelijkheid, bedoeld in artikel 23quater van het decreet, wordt de niet betaling van de bijdragen, de gedeeltelijke betaling van de bijdragen of de laattijdige betaling van de bijdragen in de hieronder vermelde situaties niet in aanmerking genomen voor het opleggen van een administratieve geldboete : <br />1° de aangeslotene verblijft ononderbroken en minstens van 1 november 2005 tot en met 30 april 2006 in een strafinstelling. Dit wordt bewezen met een attest van de betrokken strafinstelling; <br />2° de aangeslotene is ononderbroken en minstens van 1 november 2005 tot en met 30 april 2006 vermist, afwezig verklaard of van ambtswege afgevoerd. Dit wordt bewezen via een afdruk van het elektronisch rijksregisterbestand, met een attest van aangifte of een kopie van het vonnis van de rechtbank van eerste aanleg; <br />3° de aangeslotene is ononderbroken en minstens van 1 november 2005 tot en met 30 april 2006 het voorwerp van budgetbegeleiding of budgetbeheer door een Openbaar Centrum voor Maatschappelijk Welzijn of door een door de Vlaamse Gemeenschap erkende instelling voor schuldbemiddeling. De aangeslotene bewijst dit met een attest van het Openbaar Centrum voor Maatschappelijk Welzijn of van de erkende instelling; <br />4° de regularisatiebijdragen staan uiterlijk 10 mei 2006 op de rekening van de zorgkas; <br />5° bij verandering van zorgkas op 1 januari 2006 als de regularisatiebijdragen uiterlijk 31 december 2006 worden betaald. <br />
+...
 
 ### ART. 19quinquies.
 
-§ 1. De zorgkassen delen aan het Vlaams Zorgfonds de gegevens mee van de personen die in aanmerking komen voor een administratieve geldboete. De minister bepaalt hiertoe de nadere regels.<br /><br />§ 2. De ambtenaren, vermeld in artikel 21bis, § 2, van het decreet, leggen de administratieve geldboete op. De betrokkene wordt met een aangetekende brief uitgenodigd de administratieve geldboete, in voorkomend geval verhoogd met het openstaande saldo van de nog verschuldigde bijdrage, te betalen binnen een termijn van één maand.<br /><br />§ 3. De personen aan wie een administratieve geldboete wordt opgelegd, kunnen binnen een termijn van twee maanden na ontvangst van de aangetekende brief, vermeld in § 2, een bezwaarschrift indienen bij het Fonds. Het bezwaarschrift moet met redenen omkleed zijn en vergezeld zijn van alle relevante stukken. De leidend ambtenaar neemt een gemotiveerde beslissing na het advies van zijn administratie. De minister bepaalt de nadere regels aangaande de bezwaarprocedure.<br /><br />
+...
 
 ### ART. 19sexies.
 
-Als een persoon niet betaalt binnen de termijn, vermeld in artikel 19quinquies, § 2, zal de administratieve geldboete, in voorkomend geval verhoogd met het openstaande saldo van de nog verschuldigde bijdrage, bij dwangbevel worden ingevorderd.<br /><br />De gegevens van de personen ten aanzien van wie de administratieve geldboete, in voorkomend geval verhoogd met het openstaande saldo van de nog verschuldigde bijdrage, bij dwangbevel moet worden ingevorderd, worden bezorgd aan de ambtenaren, vermeld in artikel 21bis, § 3, van het decreet. De minister bepaalt hiertoe de nadere regels.<br /><br />In afwijking van het eerste lid wordt de invordering opgeschort indien een persoon een bezwaarschrift indient, binnen de termijn, vermeld in artikel 19quinquies, § 3.<br />
+...
 
 ## HOOFDSTUK V DE TENLASTENEMING VAN KOSTEN EN PRESTATIES VOOR NIET-MEDISCHE HULP- EN DIENSTVERLENING
 
@@ -128,163 +128,164 @@ Als een persoon niet betaalt binnen de termijn, vermeld in artikel 19quinquies, 
 
 ### ART. 20.
 
-§ 1. Om aanspraak te maken op een tenlasteneming moet een gebruiker op de datum, vermeld in artikel 10, § 1, van het decreet voldoen aan de bepalingen van artikel 5 van het decreet en aan de bepalingen van dit besluit en de gebruiker moet de verschuldigde ledenbijdrage voor alle voorgaande jaren betaald hebben.<br /><br />Om aanspraak te blijven maken op een tenlasteneming moet de gebruiker de voor het lopende jaar verschuldigde ledenbijdrage betaald hebben vóór 31 december. De minister kan hiervoor nadere regels bepalen.<br /><br />§ 2. Het getroffen zijn door een langdurig ernstig verminderd zelfzorgvermogen wordt bewezen door de in artikel 22 bedoelde indicatiestelling of door een in artikel 23 bedoeld attest, waarin de gebruiker een graad van zorgbehoevendheid wordt toegemeten die hoger is dan of gelijk is aan een door de minister te bepalen minimumgraad.<br /><br />Een in artikel 22 bedoelde indicatiestelling die gebeurt binnen zes maanden na een vorige indicatiestelling, aangevraagd door diezelfde gebruiker of zijn vertegenwoordiger, kan niet als bewijs van het getroffen zijn door een langdurig ernstig verminderd zelfzorgvermogen gelden, tenzij ze wordt uitgevoerd door dezelfde persoon die de vorige indicatiestelling heeft uitgevoerd. Indien die persoon niet meer bij de gemachtigde indicatiesteller werkzaam is of in de onmogelijkheid verkeert om de indicatiestelling opnieuw uit te voeren, moet de indicatiestelling door een ander personeelslid van deze gemachtigde indicatiesteller uitgevoerd worden. De minister kan hiervoor nadere regels bepalen. <br /><br />Een indicatiestelling die binnen zes maanden na een in artikel 36 bedoelde indicatiestelling gebeurt, kan niet als bewijs van het getroffen zijn door een langdurig ernstig verminderd zelfzorgvermogen gelden, tenzij ze wordt uitgevoerd door dezelfde persoon die de vorige indicatiestelling heeft uitgevoerd. Indien die persoon niet meer bij het controleorgaan werkzaam is of in de onmogelijkheid verkeert om de indicatiestelling opnieuw uit te voeren, moet de indicatiestelling door een ander personeelslid van het controleorgaan uitgevoerd worden. De minister kan daarvoor nadere regels bepalen. <br /><br />§ 3. ...<br /><br />§ 4. ...<br /><br />§ 5. Elke persoon die in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad woont en die door zijn leeftijd niet kan aansluiten bij een zorgkas zoals bepaald in artikel 15 of 16, kan aanspraak maken op een tenlasteneming, op voorwaarde dat die persoon voldoet aan de bepalingen van artikel 5, 1°, 3°, 4° en 5°, van het decreet.<br /><br />Een in het eerste lid bedoelde persoon wordt voor de duur van de beslissing tot tenlasteneming geacht aangesloten te zijn bij een zorgkas van zijn keuze in de zin van artikel 5, 2°, van het decreet zonder dat hij gehouden zou zijn de ledenbijdrage bedoeld in artikel 18 te betalen.<br /><br />Een in het eerste lid bedoelde persoon die jonger is dan vijf jaar wordt geacht aan de voorwaarde van artikel 5, 5°, van het decreet te voldoen als hij of zij vanaf zijn geboorte in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad woont. De voorwaarde van artikel 5, eerste lid, 6°, van het decreet is niet van toepassing op een in het eerste lid bedoelde persoon.<br /><br />§ 6. Om aanspraak te maken en te blijven maken op een in artikel 31, § 1, eerste lid, 2°, bedoelde tenlasteneming moet een gebruiker verblijven in een in artikel 2, § 2, eerste lid, 2° tot en met 4°, bedoelde voorziening met uitzondering van de serviceflats.
+...
 
 ## AFDELING II DE AANVRAAG VOOR TENLASTENEMING
 
 ### ART. 21.
 
-§ 1. De gebruiker of zijn vertegenwoordiger dient een aanvraag voor tenlasteneming in bij de zorgkas waarbij de gebruiker aangesloten is. Dit gebeurt door middel van een door het Fonds ter beschikking gesteld aanvraagformulier dat gedagtekend wordt door de zorgkas, ondertekend wordt door de gebruiker of zijn vertegenwoordiger, en waarop vermeld wordt voor welke zorgvorm of zorgvormen de gebruiker een aanvraag voor tenlasteneming doet.<br /><br />Een vertegenwoordiger kan in naam en voor rekening van de gebruiker optreden. De minister bepaalt hiervoor de nadere regels.<br /><br />Op het aanvraagformulier wordt vermeld of de gebruiker op het ogenblik van de aanvraag ten minste vijf jaar voorafgaand aan de datum van de aanvraag ononderbroken in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad heeft gewoond of ononderbroken sociaal verzekerd was in de lidstaten van de Europese Unie of in de staten die partij zijn bij de Europese Economische Ruimte.<br /><br />Het ziekenfonds of de bij dit besluit erkende of gemachtigde voorzieningen of professionele zorgverleners kunnen ook een aanvraag voor de gebruiker indienen als zij daarvoor over de toestemming van de gebruiker of zijn vertegenwoordiger beschikken. De minister kan nadere regels bepalen met betrekking tot de wijze van indienen van de aanvraag voor de gebruiker.<br /><br />§ 2. De zorgkas gaat na of de gebruiker, los van de in afdeling III bedoelde indicatiestelling, aan de overige voorwaarden van artikel 20 voldoet. Als dit niet het geval is, deelt ze die beslissing en alle door de minister te bepalen stukken schriftelijk mee aan de gebruiker of zijn vertegenwoordiger met verduidelijking van de reden hiervan. De gebruiker of zijn vertegenwoordiger kan hiertegen, overeenkomstig de bepalingen van afdeling XI, een bezwaar indienen bij het Fonds. In het andere geval en voorzover dit nog niet gebeurd is, verzoekt de zorgkas de gebruiker of zijn vertegenwoordiger een gemachtigde indicatiesteller te kiezen en, ingeval de gebruiker ook mantelzorg als zorgvorm gekozen heeft, zijn mantelzorger(s) te laten registreren.<br /><br />Op eenvoudig verzoek stelt de zorgkas de lijst van gemachtigde indicatiestellers ter beschikking, waaruit de gebruiker of zijn vertegenwoordiger een gemachtigde indicatiesteller kiest. De keuze wordt vermeld op het aanvraagformulier.<br /><br />
+...
 
 ## AFDELING III DE INDICATIESTELLING
 
 ### ART. 22.
 
-De door de gebruiker of zijn vertegenwoordiger gekozen gemachtigde indicatiesteller stelt de ernst en de duur van het verminderd zelfzorgvermogen van de gebruiker vast op de door de minister te bepalen wijze en aan de hand van een door de minister te bepalen meetinstrument. De persoon die de indicatiestelling uitvoert moet tenminste beschikken over het niveau van de graad van gegradueerde in het studiegebied gezondheidszorg of het studiegebied sociaal-agogisch werk, [of over een diploma van gegradueerde in de gezinswetenschappen  <span class="reference">(verv. B.V.R. 13 december 2002, art. 8, I: 1 januari 2003)</span> ] of over een diploma dat zowel naar inhoud als naar niveau door het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap hiermee gelijkgesteld is.<br /><br />De gemachtigde indicatiesteller vermeldt de indicatiestelling op het aanvraagformulier. De indicatiestelling wordt ondertekend door de persoon die de indicatiestelling heeft uitgevoerd. De gebruiker of zijn vertegenwoordiger bezorgt het aanvraagformulier aan de zorgkas waarbij de gebruiker aangesloten is.
+...
 
 ### ART. 23.
 
-[Gebruikers die beschikken over een indicatiestelling die uitgevoerd is krachtens een andere regelgeving, kunnen die indicatiestelling, in afwijking van artikel 22, gebruiken voor hun aanvraag voor tenlasteneming.  <span class="reference">(verv. B.V.R. 13 december 2002, art. 9, I: 1 januari 2003)</span> ]<br /><br />Een in het eerste lid bedoelde indicatiestelling wordt aangetoond door middel van een attest. De minister bepaalt de voorwaarden waaraan het attest moet voldoen, welke indicatiestellingen in aanmerking komen voor de aflevering van dit attest en de periode waarbinnen de indicatiestelling uitgevoerd moet zijn om in het kader van het eerste lid gebruikt te kunnen worden.
+...
 
 ### ART. 23bis.
 
-De minister bepaalt in welke gevallen een in artikel 22 bedoelde indicatiestelling of een in artikel 23 bedoeld attest gebruikt kan worden.  <span class="reference">(ing. B.V.R. 13 december 2002, art. 10, I: 1 januari 2003)</span> ]
+...
 
 ## AFDELING IV [... (opgeh. B.V.R. 13 december 2002)]
 
 ### ART. 24.
 
-[...  <span class="reference">(opgeh. B.V.R. 13 december 2002, art. 11, I: 1 januari 2003)</span> ]
+...
 
 ### ART. 25.
 
-[...  <span class="reference">(opgeh. B.V.R. 13 december 2002, art. 11, I: 1 januari 2003)</span> ]
+...
 
 ### ART. 26.
 
-[...  <span class="reference">(opgeh. B.V.R. 13 december 2002, art. 11, I: 1 januari 2003)</span> ]
+...
 
 ### ART. 27.
 
-[...  <span class="reference">(opgeh. B.V.R. 13 december 2002, art. 11, I: 1 januari 2003)</span> ]
+...
 
 ## AFDELING V DE BESLISSING OVER DE TENLASTENEMING
 
 ### ART. 28.
 
-§ 1. Op basis van het met de indicatiestelling aangevulde aanvraagformulier neemt de zorgkas een beslissing over de tenlasteneming.<br /><br />De zorgkas gaat na of de gebruiker voldoet aan alle voorwaarden van artikel 20.<br /><br />Als de zorgkas de ernst of de duur van het verminderd zelfzorgvermogen betwist, deelt zij dit mee aan de gebruiker of zijn vertegenwoordiger met de mededeling dat ze het recht hebben te worden gehoord. Als de gebruiker of zijn vertegenwoordiger hierom verzoekt, wordt hij gehoord door de zorgkas vooraleer zij haar beslissing neemt.<br /><br />De minister bepaalt op welke wijze de zorgkassen bijkomende onderzoeken kunnen verrichten of laten verrichten naar de indicatiestelling.<br /><br />§ 2. De zorgkas deelt haar beslissing en de door de minister te bepalen stukken binnen zestig dagen na de datum van de aanvraag schriftelijk mee aan de gebruiker of zijn vertegenwoordiger. De gebruiker of zijn vertegenwoordiger kan hiertegen overeenkomstig de bepalingen van afdeling XI een bezwaar indienen bij het Fonds.<br /><br />Als een zorgkas, bij gebrek aan bewijs van het verminderd zelfzorgvermogen, niet kan beslissen binnen de termijn van zestig dagen kan de beslissingstermijn worden verlengd. De minister bepaalt hiervoor de nadere regels.<br /><br />§ 3. Onverminderd de bepalingen van de afdelingen VIII en IX, geldt een positieve beslissing tot tenlasteneming:<br />1° voor de tenlasteneming van de in de aanvraag vermelde zorgvorm;<br />2° voor de in de beslissing vermelde duur, met een maximum van drie jaar, te rekenen vanaf de datum waarop de beslissing tot tenlasteneming ingaat, bij een positieve beslissing voor mantel- en thuiszorg, en voor onbepaalde duur, bij een positieve beslissing voor residentiële zorg;<br />3° zolang de gebruiker voldoet aan de voorwaarden van artikel 20. <br /><br />De minister kan nadere regels bepalen waarbij een positieve beslissing voor mantel- en thuiszorg, in afwijking van het vorige lid, 2°, de maximumtermijn van drie jaar mag overschrijden.<br /><br />De minister bepaalt de nadere regels voor de vaststelling van de in het vorige lid bedoelde geldigheidsduur van de beslissing.
+...
 
 ### ART. 28bis.
 
-Retroactieve tenlastenemingen, vermeld in artikel 10, § 4, van het decreet, worden uitgevoerd onder de volgende voorwaarden : <br />1° retroactieve tenlastenemingen worden beperkt tot maximaal 6 maanden; <br />2° de eerste maand retroactieve tenlasteneming wordt niet uitgevoerd;<br />3° retroactieve tenlastenemingen worden niet uitgevoerd op basis van attesten of indicatiestellingen die, samen met een aanvraag van vóór 1 januari 2009, tot een positieve beslissing hebben geleid.<br /><br />Er is sprake van retroactieve tenlastenemingen als de datum van de aanvraag zich situeert in een maand die volgt op de datum van het recht op de opening van een tenlasteneming, vermeld in artikel 10, § 1, 1° en 2° van het decreet.<br /><br />De minister bepaalt de administratieve formaliteiten waaraan voldaan moet worden om het recht op tenlastenemingen retroactief uit te voeren.
+...
 
 ### ART. 29.
 
-[Een gebruiker die een tenlasteneming geniet en wil veranderen van zorgvorm, deelt dat zelf of via zijn vertegenwoordiger mee aan de zorgkas. De zorgkas deelt haar beslissing en de door de minister te bepalen stukken schriftelijk mee aan de gebruiker of zijn vertegenwoordiger. De minister bepaalt in welke gevallen een in artikel 22 bedoelde indicatiestelling of een in artikel 23 bedoeld attest gebruikt kan worden en bepaalt in voorkomend geval de procedure. Artikel 28, § 3, is van toepassing op een positieve beslissing.<br /><br />Bij de verandering van mantel- en thuiszorg naar residentiële zorg gaat de tenlasteneming voor de nieuwe zorgvorm, eventueel met terugwerkende kracht, in vanaf de eerste dag van de eerste volle maand dat de gebruiker in een in artikel 2, § 2, eerste lid, 2° tot en met 4°, bedoelde voorziening met uitzondering van de serviceflats verblijft.<br /><br />Bij de verandering van residentiële zorg naar mantel- en thuiszorg gaat de tenlasteneming voor de nieuwe zorgvorm, eventueel met terugwerkende kracht, in vanaf de eerste dag van de maand na de maand waarin de gebruiker een in artikel 2, § 2, eerste lid, 2° tot en met 4°, bedoelde voorziening met uitzondering van de serviceflats verlaten heeft.  <span class="reference">(verv. B.V.R. 13 december 2002, art. 13, I: 1 januari 2003)</span> ]
+...
 
 ### ART. 30.
 
-[De gebruiker en zijn vertegenwoordiger zijn ertoe gehouden elke wijziging in de toestand of de zorg van de gebruiker onmiddellijk mee te delen aan de zorgkas.  <span class="reference">(verv. B.V.R. 13 december 2002, art. 14, I: 1 januari 2003)</span> ]
+...
 
 ## AFDELING VI HET BEDRAG VAN DE TENLASTENEMING
 
 ### ART. 31.
 
-De mogelijke tenlastenemingen en het bedrag ervan worden als volgt vastgesteld: <br />1) de tenlasteneming voor mantel- en thuiszorg bedraagt per maand:<br />a) 95 euro voor het kalenderjaar 2006;<br />b) 105 euro voor het kalenderjaar 2007;<br />c) 115 euro vanaf 1 januari 2008;<br />d) 125 euro vanaf 1 juli 2008;<br />e) 130 euro vanaf 1 maart 2009.<br />2) als de gebruiker verblijft in een voorziening, vermeld in artikel 2, § 2, eerste lid, 2° tot en met 4°, met uitzondering van de serviceflats, bedraagt de tenlasteneming voor residentiële zorg per maand : <br />a) 125 euro tot en met februari 2009;<br />b) 130 euro vanaf maart 2009.<br /><br />De in het eerste lid vermelde bedragen zijn niet cumuleerbaar.<br /><br />Bij een gebruiker die in een bepaalde maand overlijdt, wordt de tenlasteneming voor de maand in kwestie uitgevoerd.
+...
 
 ## AFDELING VII DE OPSCHORTING VAN DE UITVOERING VAN DE TENLASTENEMING
 
 ### ART. 32.
 
-In voorkomend geval wordt de uitvoering van de tenlastenemingen in afwijking van artikel 31 opgeschort voor de periode van opschorting met verlies van rechten, vermeld in artikel 10, § 3, van het decreet<br /><br />De opschorting wordt gerekend vanaf de ingangsdatum van de uitvoering van de tenlastenemingen, bedoeld in artikel 10, § 1, eerste lid, van het decreet. De eerste maand van retroactieve tenlastenemingen, vermeld in artikel 10, § 4, van het decreet, is begrepen in de periode van opschorting met verlies van rechten of in de schorsing van tenlastenemingen omwille van andere redenen.De gebruiker verliest elk recht op tenlastenemingen voor de periode van opschorting met verlies van rechten. Met ingang van de maand die volgt op het verstrijken van de opschorting, wordt de tenlasteneming uitgevoerd op basis van de bedragen, bepaald in artikel 31, eerste lid, 1) en 2).
+...
 
 ### ART. 32bis.
 
-Als een persoon gebruik maakt van de regularisatiemogelijkheid, vermeld in artikel 23quater van het decreet, kan het bedrag aan gederfde tenlasteneming, ingevolge de opschorting met verlies van rechten, vermeld in artikel 10, § 3, van het decreet of de termijn, vermeld in artikel 5, eerste lid, 6°, die tot en met 30 april 2006 aan die persoon worden opgelegd naar aanleiding van een aanvraag tot tenlasteneming, pas worden uitbetaald vanaf 1 mei 2006. De minister kan terzake nadere regels bepalen.<br /><br />De uitbetaling, vermeld in het eerste lid, wordt uitgevoerd door de zorgkas waarbij de persoon lid is op 1 januari 2006. Als de persoon voor 1 januari 2006 overleden is, wordt de uitbetaling, vermeld in het eerste lid, uitgevoerd door de zorgkas waar de persoon lid was op het ogenblik van overlijden.
+...
 
 ### ART. 32ter.
 
-§ 1. In de hieronder vermelde situaties wordt de niet-betaling van de bijdrage, de gedeeltelijke betaling van de bijdrage of de laattijdige betaling van de bijdrage niet in aanmerking genomen voor de opschorting met verlies van rechten : <br />1° de aangeslotene is ononderbroken en minstens van 1 maart tot en met 30 april van het jaar waarvoor de bijdrage verschuldigd is en waarvoor de bijdrage niet, gedeeltelijk of laattijdig wordt betaald, vermist, afwezig verklaard of van ambtswege afgevoerd. Dit wordt bewezen via een afdruk van het elektronisch rijksregisterbestand, met een attest van aangifte of een kopie van het vonnis van de rechtbank van eerste aanleg; <br />2° het niet, gedeeltelijk of laattijdig betalen van de bijdrage is het gevolg van een fout van het Vlaams Zorgfonds, het rijksregister of de Kruispuntbank van de Sociale Zekerheid; <br />3° het niet of niet tijdig ontvangen van de uitnodiging tot betaling van de bijdrage is het gevolg van een aantoonbare fout van de zorgkas. Dit wordt via een attest van de zorgkas bewezen;<br />4° een buitenlands sociaal verzekerde of een Belgisch sociaal verzekerde met woonplaats buiten het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad waarvoor een onderzoek loopt over de aansluitingsplicht bij het Vlaams Zorgfonds;<br />5° de bijdragen voor het eerste en tweede jaar na afsluiting door een zorgkas van personen die door een zorgkas afgesloten worden en die niet van zorgkas veranderen, worden betaald uiterlijk 31 december van het tweede jaar na het jaar van afsluiting door de zorgkas.<br /><br />§ 2. In het kader van de regularisatiemogelijkheid, bedoeld in artikel 23quater van het decreet, wordt de niet betaling van de bijdragen, de gedeeltelijke betaling van de bijdragen of de laattijdige betaling van de bijdragen in de hieronder vermelde situaties niet in aanmerking genomen voor de opschorting met verlies van rechten : <br />1° de aangeslotene is ononderbroken en minstens van 1 november 2005 tot en met 30 april 2006 vermist, afwezig verklaard of van ambtswege afgevoerd. Dit wordt bewezen via een afdruk van het elektronisch rijksregisterbestand, met een attest van aangifte of een kopie van het vonnis van de rechtbank van eerste aanleg; <br />2° de regularisatiebijdragen staan uiterlijk 10 mei 2006 op de rekening van de zorgkas;<br />3° als bij een verandering van zorgkas op 1 januari 2006 de regularisatiebijdragen uiterlijk 31 december 2006 op de rekening van de zorgkas staan.
+...
 
 ### ART. 33.
 
-Na advies van de bezwaarcommissie, bedoeld in artikel 42, kan het Fonds een gebruiker die in een behartigenswaardige toestand verkeert als bedoeld in artikel 23ter, tweede lid, van het decreet, de mogelijkheid bieden om de niet betaalde ledenbijdragen alsnog te betalen of die gebruiker geheel of gedeeltelijk vrij te stellen van betaling. In die gevallen vervalt de in artikel 17, eerste lid, in fine bedoelde opschorting.<br /><br />De minister bepaalt de nadere regels met betrekking tot de procedure, bedoeld in het eerste lid.
+...
 
 ## AFDELING VIII [DE HERZIENING, VERLENGING OF STOPZETTING VAN EEN BESLISSING (verv. B.V.R. 13 december 2002, art. 16)]
 
 ### ART. 34.
 
-§ 1. [De gebruiker of zijn vertegenwoordiger heeft het recht om op ieder ogenblik een herziening van de beslissing over de tenlasteneming te vragen aan de zorgkas. De procedure, bepaald in artikelen 21, 22, 23, 28, 29 en 30, is van overeenkomstige toepassing.<br /><br />§ 2. De zorgkas verwittigt de gebruiker of zijn vertegenwoordiger drie maanden vóór het einde van de in artikel 28, § 3, bedoelde geldigheidsduur van de beslissing tot tenlasteneming, dat de gebruiker via een nieuwe indicatiestelling of een nieuw attest de verlenging van de beslissing moet aanvragen. De procedure, bepaald in artikelen 22, 23, 28, 29 en 30, is van overeenkomstige toepassing, met uitzondering van het aanvraagformulier.<br /><br />§ 3. De overeenkomstig § 1 genomen positieve beslissing over de tenlasteneming heeft uitwerking met ingang van de eerste dag van de maand die volgt op de datum waarop de herziening gevraagd werd door de gebruiker of zijn vertegenwoordiger.<br /><br />De overeenkomstig § 2 genomen positieve beslissing over de tenlasteneming treedt in werking op de eerste dag van de maand na de maand waarin de geldigheidsduur van de vorige beslissing is verstreken.  <span class="reference">(verv. B.V.R. 13 december 2002, art. 16, I: 1 januari 2003)</span> ]
+...
 
 ### ART. 35.
 
-[De zorgkas zet een beslissing stop als de gebruiker niet meer voldoet aan alle voorwaarden van artikel 20. De beslissing heeft uitwerking met ingang van de eerste dag van de maand die volgt op de dag waarop de gebruiker niet meer voldoet aan alle voorwaarden van artikel 20. De zorgkas deelt haar beslissing en de door de minister te bepalen stukken mee aan de gebruiker of zijn vertegenwoordiger. De gebruiker of zijn vertegenwoordiger kan tegen de beslissing overeenkomstig de bepalingen van afdeling XI een bezwaar indienen bij het Fonds.  <span class="reference">(verv. B.V.R. 13 december 2002, art. 16, I: 1 januari 2003)</span> ]
+...
 
 ## AFDELING IX DE CONTROLE OP DE INDICATIESTELLING
 
 ### ART. 36.
 
-Een door de minister aangewezen controleorgaan kan de graad van zorgbehoevendheid, vastgesteld aan de hand van een indicatiestelling of het attest, bij een gebruiker die een tenlasteneming ontvangt voor mantel- en thuiszorg, op eigen initiatief controleren en is daartoe gehouden telkens als het Fonds dat vraagt. In voorkomend geval zal het controleorgaan een nieuwe indicatiestelling uitvoeren.
+...
 
 ### ART. 37.
 
-[§ 1. Het controleorgaan stelt de ernst en de duur van het verminderd zelfzorgvermogen van de gebruiker vast op de door de minister te bepalen wijze en aan de hand van een door de minister te bepalen meetinstrument. De persoon die de indicatiestelling uitvoert, moet ten minste beschikken over het niveau van de graad van gegradueerde in het studiegebied gezondheidszorg of het studiegebied sociaalagogisch werk, of over een diploma van gegradueerde in de gezinswetenschappen of over een diploma dat zowel naar inhoud als naar niveau door het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap daarmee gelijkgesteld is.<br /><br />Het controleorgaan stuurt de indicatiestelling onmiddellijk naar de zorgkas en naar de gebruiker of diens vertegenwoordiger.  <span class="reference">(verv. B.V.R. 2 april 2004, art. 3, I: 1 januari 2005)</span> ]<br /><br />[De zorgkas neemt een beslissing op basis van de in het eerste lid bedoelde indicatiestelling. De bepalingen van artikel 28, § 3, en van artikel 30 zijn van overeenkomstige toepassing. De zorgkas deelt haar beslissing onmiddellijk mee aan de gebruiker of zijn vertegenwoordiger. De gebruiker of zijn vertegenwoordiger kan tegen de beslissing een bezwaar bij het Fonds indienen overeenkomstig de bepalingen van afdeling XI.  <span class="reference">(verv. B.V.R. 11 maart 2005, art. 1, I: 1 januari 2005)</span> ]<br /><br />[§ 2. De beslissing over de tenlasteneming, genomen overeenkomstig § 1, heeft uitwerking met ingang van de eerste dag van de maand die volgt op de datum van beslissing.  <span class="reference">(verv. B.V.R. 2 april 2004, art. 3, I: 1 januari 2005)</span> ]
+...
 
 ## AFDELING X DE TERUGVORDERING VAN ONVERSCHULDIGD UITGEVOERDE TENLASTENEMINGEN
 
 ### ART. 38.
 
-Door een zorgkas onverschuldigd uitgevoerde tenlastenemingen worden door de zorgkas van de betrokken gebruiker teruggevorderd of in mindering gebracht van toekomstige aan de betrokken gebruiker te betalen tenlastenemingen. De terugvordering van de onrechtmatig betaalde tenlastenemingen wordt voor de gebruiker tot zes maanden tenlastenemingen beperkt.
+...
 
 ### ART. 38bis.
 
-De terugvordering van de onrechtmatig betaalde tenlastenemingen wordt beperkt tot één maand tenlastenemingen bij personen die aan alle volgende voorwaarden voldoen : <br />1° de reden van de onrechtmatig betaalde tenlasteneming bestaat erin dat de persoon geen recht heeft op mantel- en thuiszorg omdat hij volgens het protocol van verblijf voltijds verblijft in een door het Vlaams Agentschap voor Personen met een Handicap erkende residentiële voorziening;<br />2° de persoon heeft de aanvraag tot tenlasteneming vóór 1 oktober 2007 bij de zorgkas ingediend.
+...
 
 ### ART. 39.
 
-De zorgkas deelt haar beslissing om de onverschuldigd uitgevoerde tenlastenemingen terug te vorderen of in mindering te brengen schriftelijk aan de gebruiker mee, met vermelding van de reden van de beslissing. De gebruiker of zijn vertegenwoordiger kan vragen om gehoord te worden.
+...
 
 ### ART. 40.
 
-Als de zorgkas beslist tot terugvordering van onverschuldigd aan een gebruiker uitgevoerde tenlastenemingen die te wijten zijn aan door de gebruiker of zijn vertegenwoordiger bewust achtergehouden informatie of door de gebruiker of zijn vertegenwoordiger bewust onjuist of onvolledig verstrekte informatie, kan de zorgkas bovendien de uitvoering van de tenlasteneming schorsen voor maximaal zes maanden. De gebruiker of zijn vertegenwoordiger kan daartegen overeenkomstig de bepalingen van afdeling XI een bezwaar indienen bij het Fonds.
+...
 
 ## AFDELING XI HET BEZWAAR
 
 ### ART. 41.
 
-§ 1. [De gebruiker of zijn vertegenwoordiger kan een bezwaarschrift indienen bij het Fonds tegen de volgende beslissing van de zorgkas:<br /><br />1) de krachtens artikel 21, § 2, eerste lid, genomen beslissing inzake de aanvraag;<br /><br />2) de krachtens artikel 28, § 2, genomen beslissing inzake de tenlasteneming;<br /><br />3) de krachtens artikel 34 genomen beslissingen;<br /><br />4) de krachtens artikel 35 genomen beslissing inzake de stopzetting van de tenlasteneming;<br /><br />5) de krachtens artikel 37, § 1, derde lid, genomen beslissing ten gevolge van de controle;<br /><br />6) de krachtens artikel 40 genomen beslissing.  <span class="reference">(verv. B.V.R. 13 december 2002, art. 17, I: 1 januari 2003)</span> ]<br /><br />§ 2. Om ontvankelijk te zijn moet het bezwaarschrift:<br /><br />1° met redenen omkleed zijn;<br /><br />2° vergezeld zijn van alle relevante stukken;<br /><br />3° binnen dertig dagen na ontvangst van de beslissing van de zorgkas per aangetekende brief verstuurd zijn aan het Fonds of er binnen die termijn tegen ontvangstbewijs zijn afgegeven.<br /><br />Als de gebruiker of zijn vertegenwoordiger, [...  <span class="reference">(geschr. B.V.R. 13 december 2002, art. 18, I: 1 januari 2003)</span> ] gehoord wil worden, moet dat op straffe van verval gevraagd worden in het bezwaarschift.
+...
 
 ### ART. 42.
 
-§ 1. Als het bezwaar ontvankelijk is, bezorgt het Fonds het bezwaarschrift binnen vijftien dagen na ontvangst aan een door de minister samen te stellen bezwaarcommissie. Binnen dezelfde termijn deelt het Fonds aan de zorgkas mee dat een ontvankelijk bezwaar werd ingediend. De zorgkas kan vragen gehoord te worden.<br /><br />De minister kan bij de bezwaarcommissie kamers instellen.<br /><br />§ 2. De bezwaarcommissie of, wanneer er met toepassing van § 1, tweede lid, kamers zijn ingesteld, elke kamer van de bezwaarcommissie, is samengesteld uit een voorzitter en vier leden, en hun plaatsvervangers. De voorzitter en zijn plaatsvervanger moeten beschikken over een diploma van doctor of licentiaat in de rechten. Onder de overige leden moeten minstens de volgende kwalificaties aanwezig zijn: doctor in de geneeskunde, gegradueerde in de verpleegkunde en maatschappelijk assistent. De voorzitter en de leden van de bezwaarcommissie worden door de minister benoemd voor een hernieuwbare termijn van vijf jaar.<br /><br />Het secretariaat van een kamer van de bezwaarcommissie wordt waargenomen door een personeelslid van het Fonds. Hij heeft geen stemrecht.<br /><br />§ 3. (niet opgenomen)<br /><br />(Wijzigt punt 4 van de bijlage bij het besluit van de Vlaamse regering van 14 december 1983 houdende sommige maatregelen tot harmonisatie van de werking en van de presentiegelden en vergoedingen van adviesorganen)
+...
 
 ### ART. 43.
 
-§ 1. Een kamer van de bezwaarcommissie kan alleen een geldig advies uitbrengen als de voorzitter en ten minste twee leden, of hun plaatsvervangers, aanwezig zijn. De bezwaarcommissie beslist bij gewone meerderheid. Bij staking van stemmen is de stem van de voorzitter of zijn plaatsvervanger doorslaggevend.<br /><br />Als de gebruiker of zijn vertegenwoordiger [...  <span class="reference">(geschr. B.V.R. 13 december 2002, art. 18, I: 1 januari 2003)</span> ] dat in het be-zwaarschrift heeft gevraagd, wordt hij door een kamer van de bezwaarcommissie gehoord. Hetzelfde geldt voor de zorgkas.<br /><br />[§ 1bis. Een kamer van de bezwaarcommissie is gemachtigd de ernst en de duur van het verminderd zelfzorgvermogen van een gebruiker vast te stellen.  <span class="reference">(ing. B.V.R. 9 mei 2003, art. 4, I: 1 oktober 2001)</span> ]<br /><br />§ 2. De bezwaarcommissie regelt haar werking in een door de minister goed te keuren huishoudelijk reglement. Als binnen de bezwaarcommissie meerdere kamers zijn ingesteld, wordt dit huishoudelijk reglement of de wijziging ervan in verenigde kamers besproken.
+...
 
 ### ART. 44.
 
-Een kamer van de bezwaarcommissie verleent haar gemotiveerd advies aan het Fonds binnen drie maanden na ontvangst van het bezwaarschrift.<br /><br />De leidend ambtenaar neemt een gemotiveerde beslissing binnen één maand na ontvangst van het advies of, bij ontstentenis van een tijdig advies, na het verstrijken van de in het vorige lid bedoelde termijn.<br /><br />[Het Fonds stuurt de beslissing van de leidend ambtenaar binnen acht dagen met een aangetekende brief aan de gebruiker of zijn vertegenwoordiger en aan de zorgkas in kwestie.  <span class="reference">(verv. B.V.R. 13 december 2002, art. 19, I: 1 januari 2003)</span> ]
+...
 
 ## [AFDELING XII TENLASTENEMING VOOR MANTEL- EN THUISZORG (ing. B.V.R. 13 december 2002, art. 20)]
 
 ### ART. 44bis.
 
-De zorgkas betaalt de tenlasteneming voor mantel- en thuiszorg uit via overschrijving op het rekeningnummer van de gebruiker of in contanten aan de gebruiker.  <span class="reference">(ing. B.V.R. 13 december 2002, art. 20, I: 1 januari 2003)</span> ]
+...
 
 ### ART. 44ter.
 
-De betaling gebeurt maandelijks.  <span class="reference">(ing. B.V.R. 13 december 2002, art. 20, I: 1 januari 2003)</span> ]
+...
 
 ## [AFDELING XIII TENLASTENEMING VOOR RESIDENTIËLE ZORG (ing. B.V.R. 13 december 2002, art. 21)]
 
 ### ART. 44quater.
 
-De zorgkas betaalt de tenlasteneming voor residentiële zorg uit via overschrijving op het rekeningnummer van de gebruiker, op basis van door de minister te bepalen attesten die het verblijf in de residentiële zorgvoorziening aantonen. Als de gebruiker of zijn wettelijke ver tegenwoordiger er zelf om verzoekt, betaalt de zorgkas in contanten aan de gebruiker. De minister kan nadere regels bepalen met betrekking tot de bewijsvoering waaraan de gebruiker op het vlak van zorgbehoevendheid en verblijf in de residentiële zorgvoorziening moet voldoen.
+opgeheven<br>
+...
 
 ### ART. 44quinquies.
 
-De betaling van de tenlasteneming voor residentiële zorg gebeurt maandelijks, op zijn vroegst op de eerste dag van de maand die volgt op de maand waarop de tenlasteneming betrekking heeft.  <span class="reference">(ing. B.V.R. 13 december 2002, art. 21, I: 1 januari 2003)</span> ]
+...
 
 ## HOOFDSTUK VBIS ...
 
@@ -296,32 +297,33 @@ De betaling van de tenlasteneming voor residentiële zorg gebeurt maandelijks, o
 
 ### ART. 45.
 
-De minister bepaalt de nadere voorwaarden inzake de in artikel 6, § 2, van het decreet bedoelde weigering of vermindering van tenlastenemingen. Hij bepaalt in welke gevallen een tenlasteneming overeenkomstig artikel 6, § 2, van het decreet wordt verminderd en in welke gevallen een tenlasteneming wordt geweigerd.
+...
 
 ### ART. 46.
 
-De termijn van ononderbroken aansluiting, vermeld in artikel 5, 6°, van het decreet, is bij wijze van overgangsmaatregel : <br />1° drie jaar als de persoon vermeld in artikel 16, zich in het jaar 2004 bij een zorgkas heeft aangesloten en die aansluiting niet is gebeurd binnen zes maanden nadat hij had kunnen aansluiten;<br />2° vijf jaar als de persoon vermeld in artikel 16, zich in het jaar 2005 bij een zorgkas heeft aangesloten en die aansluiting niet is gebeurd binnen zes maanden nadat hij had kunnen aansluiten.
+...
 
 ### ART. 47.
 
-De Openbare Centra voor Maatschappelijk Welzijn zullen de door de minister te bepalen taken van de Vlaamse zorgkas uitvoeren onder de door de minister te bepalen voorwaarden.
+...
 
 ### ART. 48.
 
-Vanaf de datum van inwerkingtreding van dit besluit tot en met 31 december 2001 is in plaats van het bedrag "10 euro" vermeld in artikel 17, tweede lid, het bedrag "403 frank" van toepassing.
+...
 
 ### ART. 48bis.
 
-Personen die in een rusthuis of rust- en verzorgingstehuis verblijven, ontvangen tot 31 maart 2003 enkel tenlastenemingen als ze aan de formele voorwaarden voldoen en als ze over een score C op de schaal voor tegemoetkoming in een verzorgingsinrichting beschikken.  <span class="reference">(ing. B.V.R. 13 december 2002, art. 23, I: 1 januari 2003)</span> ]
+opgeheven<br>
+...
 
 ### ART. 48ter.
 
-Gebruikers die op 31 december 2002 beschikken over een positieve beslissing, hebben vanaf 1 januari 2003 recht op de in artikel 31, § 1, eerste lid, 1° of 2°, bedoelde tenlastenemingen, mits de geldigheidsduur van de beslissing niet verstreken is en als ze nog aan alle in artikel 20 bedoelde voorwaarden voldoen.  <span class="reference">(ing. B.V.R. 13 december 2002, art. 23, I: 1 januari 2003)</span> ]
+...
 
 ### ART. 49.
 
-§ 1. De artikelen 3 tot en met 9, artikel 10, § 1, artikel 10bis, artikel 13, eerste lid, 3°, artikel 13, tweede tot en met zesde lid, de artikelen 21bis tot en met 23ter van het decreet treden, in de mate, bepaald in dit besluit, in werking op 1 oktober 2001.<br /><br />§ 2. Dit besluit treedt in werking op 1 oktober 2001.
+...
 
 ### ART. 50.
 
-De Vlaamse minister, bevoegd voor de Bijstand aan personen, is belast met de uitvoering van dit besluit.
+...
