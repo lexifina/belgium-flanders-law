@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019555,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-10 tot wijziging van artikel 7 van het besluit van de Vlaamse Regering van 9 maart 2007 tot regeling van de vergoedingen van de bestuurders van de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen van de Vlaamse overheid, en van de regeringsafgevaardigden die toezicht uitoefenen bij deze agentschappen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019555/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "1e5f8eddbf5c8256e95be83172b77942bef3e6235d9c0312bbc5e76e403f2528",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019555&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2010-09-10",
+  "gazette": "2010-10-06",
+  "numac": 2010035709,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
