@@ -51,7 +51,8 @@ Binnen de perken en volgens de voorwaarden bepaald in dit decreet, draagt de Vla
 2° een variabel onderwijsdeel voor de professioneel gerichte opleidingen aan de hogescholen (VOWprof);<br>
 3° een variabel onderwijsdeel voor de academisch gerichte opleidingen aan de hogescholen (VOWac);<br>
 4° een variabel onderwijsdeel voor de academisch gerichte opleidingen aan de universiteiten (VOWun);<br>
-5° een onderzoekssokkel voor de universiteiten (SOZun); 6° een variabel onderzoeksdeel voor de universiteiten (VOZun).</p>
+5° een onderzoekssokkel voor de universiteiten (SOZun);<br>
+6° een variabel onderzoeksdeel voor de universiteiten (VOZun).</p>
 
 <p>§ 2. Bij de universiteiten is de verhouding (sokkel onderwijs SOWun + variabel onderwijsdeel VOWun) ten opzichte van (sokkel onderzoek SOZun + variabel onderzoeksdeel SOZun) gelijk aan 55 %/45 %. Hierbij is de sokkel onderwijs SOWun gelijk aan de som van de onderwijssokkels van alle universiteiten, berekend overeenkomstig de bepalingen in artikel 13.</p>
 
@@ -181,13 +182,9 @@ Binnen de perken en volgens de voorwaarden bepaald in dit decreet, draagt de Vla
 	</tbody>
 </table>
 
-<p>Van het bedrag VOWac is 60.379.868,14 euro, hierna het bedrag VOWhko genoemd, voorzien voor de academisch gerichte opleidingen in de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten aan de hogescholen. Indien het bedrag voor het variabel onderwijsdeel VOWac evolueert overeenkomstig de bepalingen vermeld artikel 10, dan wordt het bedrag VOWhko met hetzelfde percentage aangepast.</p>
-
-<p>Vanaf het begrotingsjaar 2011 :<br>
+<p>Van het bedrag VOWac is 60.379.868,14 euro, hierna het bedrag VOWhko genoemd, voorzien voor de academisch gerichte opleidingen in de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten aan de hogescholen. Indien het bedrag voor het variabel onderwijsdeel VOWac evolueert overeenkomstig de bepalingen vermeld artikel 10, dan wordt het bedrag VOWhko met hetzelfde percentage aangepast. Vanaf het begrotingsjaar 2011 :<br>
 1° kunnen de bedragen VOWun en VOZun afwijken van de bedragen, vermeld in het eerste lid, rekening houdend met de bepaling vermeld in § 2;<br>
-2° kunnen de bedragen VOWprof, VOWac en VOWun afwijken van de bedragen, vastgelegd in het eerste lid, rekening houdend met de bepalingen, vermeld in artikel 10.</p>
-
-<p>Vanaf het begrotingsjaar 2014 tot en met het begrotingsjaar 2017 wordt het bedrag van de onderzoekssokkel SOZun jaarlijks met 1.250.000 euro verminderd. Dit bedrag wordt jaarlijks toegevoegd aan het bedrag van het variabel onderzoeksdeel VOZun.</p>
+2° kunnen de bedragen VOWprof, VOWac en VOWun afwijken van de bedragen, vastgelegd in het eerste lid, rekening houdend met de bepalingen, vermeld in artikel 10. Vanaf het begrotingsjaar 2014 tot en met het begrotingsjaar 2017 wordt het bedrag van de onderzoekssokkel SOZun jaarlijks met 1.250.000 euro verminderd. Dit bedrag wordt jaarlijks toegevoegd aan het bedrag van het variabel onderzoeksdeel VOZun.</p>
 
 <p>§ 4. De volgende bedragen worden toegevoegd aan de totale werkingsuitkering (Wtot) van de hogescholen en universiteiten (uitgedrukt in k euro ) :</p>
 
@@ -247,13 +244,15 @@ De volgende bedragen worden toegevoegd aan de totale werkingsuitkering van de ho
 		</tr>
 	</tbody>
 </table>
-<br>
-&nbsp;<br>
-§ 5. Vanaf het begrotingsjaar 2008 worden de bedragen, vermeld in § 3 en § 4, geïndexeerd aan de hand van de volgende formule :<br>
+
+<p>&nbsp;</p>
+
+<p>§ 5. Vanaf het begrotingsjaar 2008 worden de bedragen, vermeld in § 3 en § 4, geïndexeerd aan de hand van de volgende formule :<br>
 1° 80 % van de bedragen volgen de evolutie van de gezondheidsindex;<br>
-2° 20 % van de bedragen volgen 75 % van de evolutie van de gezondheidsindex.<br>
-&nbsp;<br>
-§ 6. De bedragen VOWprof, als vermeld in of berekend conform dit artikel, worden vermeerderd met volgende bedragen, uitgedrukt in euro :&nbsp;
+2° 20 % van de bedragen volgen 75 % van de evolutie van de gezondheidsindex.</p>
+
+<p>§ 6. De bedragen VOWprof, als vermeld in of berekend conform dit artikel, worden vermeerderd met volgende bedragen, uitgedrukt in euro :</p>
+
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
@@ -300,7 +299,9 @@ De volgende bedragen worden toegevoegd aan de totale werkingsuitkering van de ho
 </table>
 <br>
 &nbsp;<br>
-Vanaf het begrotingsjaar 2009 worden de bedragen vermeld in het eerste lid, geïndexeerd aan de hand van de indexformule, vermeld in § 5 van dit artikel.
+Vanaf het begrotingsjaar 2009 worden de bedragen vermeld in het eerste lid, geïndexeerd aan de hand van de indexformule, vermeld in § 5 van dit artikel.<br>
+&nbsp;<br>
+§ 7. Voor het begrotingsjaar 2010 worden de indexeringsbepalingen opgenomen in de artikelen 9, § 5 en § 6, 13, § 3, laatste lid, 28, § 4 eerste lid, 30, § 2, laatste lid, 31, § 3, 35, § 2, § 5, tweede lid, en § 6, tweede lid, 38, § 2, 39, § 3, 40, laatste lid, 42, laatste lid, 42ter, § 3, en 43, § 3 niet toegepast.
 
 ### ART. 10.
 
@@ -1272,8 +1273,14 @@ Als in de begrotingsjaren 2008 tot en met 2013 de som van de werkingsuitkeringen
 
 <p>&nbsp;</p>
 
-<p>§ 3. De bedragen, vermeld in § 2, worden vanaf het begrotingsjaar 2008 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5.<br>
-&nbsp;</p>
+<p><br>
+§ 3. De bedragen, vermeld in § 2, worden vanaf het begrotingsjaar 2008 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5.<br>
+<br>
+§ 4. Vanaf het begrotingsjaar 2011 wordt de werkingsuitkering per hogeschool en universiteit, berekend overeenkomstig de bepalingen van afdeling IV van dit decreet met inbegrip van de bedragen bedoeld in artikel 35, § 6, met 1,27 % verminderd.<br>
+<br>
+Afhankelijk van de budgettaire ruimte kan de Vlaamse Regering dit percentage vanaf het begrotingsjaar 2012 wijzigen.<br>
+<br>
+De som van het totale bedrag van de verminderingen op grond van het eerste of het tweede lid en het bedrag van de vermindering op grond van het eerste of het tweede lid van artikel 3, § 3, van het decreet van 20 februari 2009 betreffende de Hogere Zeevaartschool bedraagt per jaar ten hoogste 16.179.000 euro, berekend op het prijsniveau van het jaar 2010. Indien dit bedrag overschreden wordt, worden de in het eerste lid en in het eerste lid van artikel 3, § 3, van het decreet van 20 februari 2009 betreffende de Hogere Zeevaartschool vermelde percentages verminderd.</p>
 
 ### ART. 32.
 
@@ -1504,7 +1511,7 @@ Vanaf het begrotingsjaar 2009 worden de bedragen vermeld in het eerste lid, geï
 			<p>6° Hogeschool voor Wetenschap en Kunst</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.2pt">
-			<p>2.178.033,72</p>
+			<p>1.545.521,92</p>
 			</td>
 		</tr>
 		<tr>
@@ -1584,7 +1591,7 @@ Vanaf het begrotingsjaar 2009 worden de bedragen vermeld in het eerste lid, geï
 			<p>16° EHSAL – Europese Hogeschool Brussel</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.2pt">
-			<p>1.971.057,99</p>
+			<p>2.603.569,79</p>
 			</td>
 		</tr>
 		<tr>
@@ -1639,97 +1646,90 @@ In de begrotingsjaren 2008 tot en met 2014 ontvangen de universiteiten gezamenli
 
 ### ART. 41.
 
-a) Katholieke Universiteit Leuven
-<p>§ 1. Vanaf het begrotingsjaar 2008 ontvangen de volgende universiteiten de hierna vermelde uitkeringen, uitgedrukt in k euro, als bijdrage in het dekken van de kosten die voortvloeien uit de hogere loonlasten die de universiteiten als werkgever moeten dragen voor hun personeelsleden, vermeld in hoofdstukken IV en V van het Universiteitendecreet in vergelijking met de loonlast die de Universiteit Gent als werkgever draagt. De structurele hogere verplichtingen die de Universiteit Gent als publiekrechtelijke instelling moet dragen, worden in mindering gebracht :</p>
+a) Katholieke Universiteit Leuven§ 1. Vanaf het begrotingsjaar 2008 ontvangen de volgende universiteiten de hierna vermelde uitkeringen, uitgedrukt in k euro, als bijdrage in het dekken van de kosten die voortvloeien uit de hogere loonlasten die de universiteiten als werkgever moeten dragen voor hun personeelsleden, vermeld in hoofdstukken IV en V van het Universiteitendecreet in vergelijking met de loonlast die de Universiteit Gent als werkgever draagt. De structurele hogere verplichtingen die de Universiteit Gent als publiekrechtelijke instelling moet dragen, worden in mindering gebracht :<br>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; width:230.3pt">
 			<p>a) Katholieke Universiteit Leuven<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; width:230.3pt">
 			<p>9789</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:230.3pt">
 			<p>b) Vrije Universiteit Brussel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:230.3pt">
 			<p>3305</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:230.3pt">
 			<p>c) Universiteit Antwerpen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:230.3pt">
 			<p>927</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:230.3pt">
 			<p>d) Universiteit Hasselt</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:230.3pt">
 			<p>208</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:230.3pt">
 			<p>e) Katholieke Universiteit Brussel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:230.3pt">
 			<p>195</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>§ 2. Naast de uitkeringen in § 1, ontvangen de volgende universiteiten vanaf het begrotingsjaar 2008 de hierna vermelde uitkeringen, uitgedrukt in k euro, als bijdrage in het dekken van de kosten van de door de instellingen gefinancierde aanvullende pensioenen voor de leden van het administratief en technisch personeel, vermeld in artikel 107 van het Universiteitendecreet, om voor die personeelsleden een pensioenregeling uit te werken die vergelijkbaar is met de rijkspensioenregeling :</p>
+<p>§ 2. Naast de uitkeringen in § 1, ontvangen de volgende universiteiten vanaf het begrotingsjaar 2008 de hierna vermelde uitkeringen, uitgedrukt in k euro, als bijdrage in het dekken van de kosten van de door de instellingen gefinancierde aanvullende pensioenen voor de leden van het administratief en technisch personeel, vermeld in artikel 107 van het Universiteitendecreet, om voor die personeelsleden een pensioenregeling uit te werken die vergelijkbaar is met de rijkspensioenregeling :<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:311.4pt">
+			<td style="background-color:transparent; width:311.4pt">
 			<p>a) Katholieke Universiteit Leuven</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:149.2pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; width:149.2pt">
 			<p>6410</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:311.4pt">
 			<p>b) Vrije Universiteit Brussel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:149.2pt">
 			<p>2149</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:311.4pt">
 			<p>c) Katholieke Universiteit Brussel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:149.2pt">
 			<p>100</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 <p>§ 3. De bedragen vermeld in § 1 en § 2 ten bate van de Katholieke Universiteit Brussel worden op basis van een rapportering van de commissaris van de Vlaamse Regering en van de gemachtigde van Financiën over de evolutie van salariskosten van de betreffende personeelscategorieën, jaarlijks aangepast. De vrijgekomen bedragen worden toegevoegd aan het bedrag van een andere instelling bij overname door die andere instelling van de betrokken personeelsleden.<br>
 <br>
 § 4. Vanaf het begrotingsjaar 2008 volgen de bedragen, vermeld in § 1 en § 2, de evolutie van de gezondheidsindex. Deze bedragen kunnen na een evaluatie om de vijf jaar worden aangepast aan de gewijzigde omstandigheden.<br>
-&nbsp;</p>
+<br>
+Voor het begrotingjaar 2010 worden de bedragen vermeld in § 1 en § 2 niet aangepast aan de evolutie van de gezondheidsindex.</p>
 
 ## Afdeling VII Toelage associaties
 
