@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020166,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-17 tot vastlegging van een subsidie voor de optimalisering van de omkadering voor de leertijd in 2010",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020166/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "ad5826b412bed4993eef4082626b9f3bd0f8859dc6d5e12f85fff4e712b9d24a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020166&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2010-12-17",
+  "gazette": "2011-04-15",
+  "numac": 2011035299,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
