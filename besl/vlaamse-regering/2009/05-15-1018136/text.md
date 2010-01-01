@@ -52,6 +52,58 @@ Het permanent armoedeoverleg bezorgt voor de opmaak van het voortgangsrapport, v
 
 ## Afdeling I Vlaams Netwerk van verenigingen waar armen het woord nemen
 
+### ART. 10.
+
+Het Vlaams Netwerk beantwoordt aan de volgende voorwaarden : <br />1° het netwerk is opgericht als een vereniging zonder winstoogmerk, overeenkomstig de wet van 27 juni 1921; <br />2° het netwerk staat open voor alle verenigingen en andere organisaties die de doelstellingen van het netwerk onderschrijven; <br />3° in de raad van bestuur van het netwerk zijn de erkende verenigingen voor minstens de helft en hoogstens drie vierde vertegenwoordigd; <br />4° in alle bestuursorganen en -structuren van het netwerk mag niet meer dan twee derde van de leden van hetzelfde geslacht zijn; <br />5° het netwerk zorgt voor de ondersteuning van verenigingen die lid zijn van het netwerk; <br />6° het netwerk bepaalt in zijn statuten : <br />a) hoe verenigingen en organisaties kunnen toetreden tot het netwerk; <br />b) hoe verenigingen en organisaties die tot het netwerk toegetreden zijn of die gevraagd hebben om toe te treden, ondersteuning kunnen krijgen;<br />7° het netwerk heeft minstens de helft van de erkende verenigingen als lid.<br /><br />
+
+### ART. 11.
+
+§ 1. In het raam van zijn opdracht, vermeld in artikel 12, 1°, van het decreet, organiseert het Vlaams Netwerk de participatie van armen aan het beleid op de verschillende beleidsniveaus met het oog op de beleidsadvisering.<br /><br />§ 2. Het Vlaams Netwerk vervult de opdrachten, vermeld in artikel 12 van het decreet van 21 maart 2003, in nauwe samenwerking met de organisaties voor maatschappelijk opbouwwerk, de centra voor algemeen welzijnswerk en andere maatschappelijke actoren.<br /><br />Om die opdrachten te faciliteren, zorgt het Vlaams Netwerk voor : <br />1° het verzamelen en systematisch beschikbaar stellen van informatie; <br />2° de ontwikkeling van methodieken; <br />3° het organiseren van vorming; <br />4° het stimuleren van onderzoek en ontwikkeling in verband met armoedebestrijding met betrokkenheid van armen.<br /><br />
+
+### ART. 12.
+
+Het Vlaams Netwerk dient bij de minister een meerjarenplan in voor 15 mei van het jaar dat voorafgaat aan de periode waarop dat plan slaat. Het meerjarenplan wordt minstens afgestemd op de meerjarenplannen van de organisaties voor samenlevingsopbouw en de centra voor algemeen welzijnswerk.<br /><br />De minister beslist voor 1 oktober van hetzelfde jaar over de goedkeuring van het ingediende meerjarenplan.<br /><br />
+
+### ART. 13.
+
+Het meerjarenplan bevat minstens : <br />1° een omgevingsanalyse;<br />2° de opgave van de partners in het participatieproces; <br />3° het ondersteuningsaanbod voor de verenigingen; <br />4° de beschrijving van de strategische doelstellingen in relatie tot de opdrachten van de verenigingen, vermeld in artikel 8, tweede lid, van het decreet, en de basisrechten, opgesomd in artikel 2, § 1, van dit besluit; <br />5° de beoogde resultaten; <br />6° de ontwikkeling ten opzichte van het vorige meerjarenplan;<br />7° het tijdstip en de wijze waarop de resultaten geëvalueerd zullen worden; <br />8° de opgave van de interne organisatiestructuur; <br />9° de personeelsformatie en de toepasselijke salarisschalen; <br />10° een overzicht van de externe samenwerkingsverbanden; <br />11° de begroting voor de volledige periode van het meerjarenplan; <br />12° de ledenlijst;<br />13° voor het eerste werkjaar : een jaarplan waarvan de inhoud beantwoordt aan artikel 15, eerste lid van dit besluit.<br /><br />
+
+### ART. 14.
+
+De Vlaamse Regering sluit uiterlijk drie maanden na de goedkeuring van het meerjarenplan een overeenkomst met het Vlaams Netwerk. Met behoud van de toepassing van artikel 11, tweede lid, van het decreet omvat die overeenkomst de volgende elementen : <br />1° het door de minister goedgekeurde meerjarenplan; <br />2° de wijze waarop het Vlaams Netwerk de middelen die de Vlaamse Regering ter beschikking stelt, zal inzetten om het meerjarenplan te realiseren;<br />3° de wijze waarop de voortgang van de realisatie van de strategische en operationele doelstellingen wordt gemeten; <br />4° het geraamde subsidiebedrag voor de volledige periode van het meerjarenplan, de subsidie-enveloppe voor het eerste werkjaar op basis van het jaarplan, vermeld in artikel 13, 13° van dit besluit, en de wijze waarop de subsidie-enveloppe voor de volgende werkjaren wordt toegekend met toepassing van artikelen 15 en 16 van dit besluit; <br />5° de wijze waarop het Vlaams Netwerk verantwoording aflegt over de uitvoering van de overeenkomst en de aanwending van de subsidie-enveloppe, alsook de wijze waarop toezicht op de realisatie van de overeenkomst uitgeoefend wordt, met behoud van de toepassing van artikelen 17 tot en met 19 van dit besluit; <br />6° de sancties bij niet-naleving van de overeenkomst.<br /><br />
+
+### ART. 15.
+
+Op basis van het goedgekeurde meerjarenplan dient het Vlaams Netwerk bij de secretaris-generaal jaarlijks voor 1 november een jaarplan in voor het volgende werkjaar, het eerste werkjaar uitgezonderd. Dat jaarplan bevat de volgende elementen : <br />1° de operationele doelstellingen; <br />2° de concrete activiteiten voor de realisatie van de opdrachten van het Vlaams Netwerk; <br />3° de concrete begroting voor de uitvoering van het jaarplan.<br /><br />De secretaris-generaal beslist uiterlijk twee maanden na de indiening van het jaarplan over de goedkeuring van dat plan.<br /><br />
+
+### ART. 16.
+
+Op basis van het goedgekeurde jaarplan kent de secretaris-generaal, binnen de beschikbare begrotingskredieten, aan het Vlaams Netwerk een subsidie-enveloppe toe voor het werkjaar waarop het plan betrekking heeft. Het bedrag van de subsidie-enveloppe is afhankelijk van de subsidiabele personeelsformatie, vermeld in het goedgekeurde meerjarenplan.<br /><br />
+
+### ART. 17.
+
+Met behoud van de toepassing van artikelen 19 en 21 bepaalt de minister de voorwaarden voor de verantwoording van de aanwending van de subsidie-enveloppe, zowel inhoudelijk als financieel.<br /><br />
+
+### ART. 18.
+
+Het Vlaams Netwerk stelt een lid van het Instituut van de Bedrijfsrevisoren aan als commissaris. De commissaris is belast met de controle op de financiële toestand, op de jaarrekening en op de regelmatigheid van de in de jaarrekening weergegeven verrichtingen ten aanzien van de wet en de statuten.<br /><br />
+
+### ART. 19.
+
+De stavingsstukken moeten uiterlijk op 1 mei van het jaar dat volgt op het werkjaar waarvoor de subsidie-enveloppe werd verleend, bij de administratie ingediend worden overeenkomstig het besluit van 13 januari 2006.<br /><br />Bij laattijdige indiening van het financiële verslag of het inhoudelijke verslag wordt 5 % van de toegekende subsidie-enveloppe niet uitbetaald.<br /><br />
+
+### ART. 20.
+
+Het Vlaams Netwerk wendt de subsidie-enveloppe aan voor : <br />1° huisvestingskosten; <br />2° personeelskosten; <br />3° werkingskosten; <br />4° overeenkomsten met derden.<br /><br />Ten minste 70 % van de jaarlijkse subsidie-enveloppe wordt aangewend voor personeelskosten. Als minder dan 70 % van de subsidie-enveloppe aan personeelskosten wordt besteed, wordt de enveloppe voor het jaar in kwestie verminderd in evenredigheid tot het deel dat niet aan personeelskosten werd besteed.<br /><br />
+
+### ART. 21.
+
+Als het Vlaams Netwerk de subsidie-enveloppe in het jaar waarvoor die enveloppe wordt toegekend, niet volledig aanwendt om de kosten, vermeld in artikel 20, eerste lid, te dekken, legt het reserves aan met het niet aangewende gedeelte. Het Vlaams Netwerk wendt die reserves aan om uitgaven te financieren die bijdragen tot de realisatie van zijn taken en om de wettelijk bepaalde provisie voor vakantiegeld aan te leggen.<br /><br />Reserves die op het ogenblik van het afsluiten van het boekjaar meer bedragen dan de jaarlijkse subsidie-enveloppe, stort het Vlaams Netwerk ten belope van de som die de jaarlijkse subsidie-enveloppe overschrijdt, terug aan de Vlaamse overheid.<br /><br />
+
+### ART. 22.
+
+De subsidie-enveloppe aan het Vlaams Netwerk wordt geïndexeerd op de wijze die bepaald is in de wet van 1 maart 1977 houdende de inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen worden gekoppeld. Die koppeling aan het indexcijfer wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br /><br />
+
 ## Afdeling II Verenigingen waar armen het woord nemen
 
 ## Onderafdeling I Erkenning
