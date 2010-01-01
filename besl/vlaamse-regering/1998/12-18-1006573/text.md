@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br />1° decreet: het decreet van 14 juli 1998 houdende de erkenning en de subsidiëring van verenigingen en welzijnsvoorzieningen in de thuiszorg;<br />2° voorziening: een dienst voor gezinszorg, een lokaal dienstencentrum, een regionaal dienstencentrum, een dagverzorgingscentrum of een dienst voor oppashulp;<br />3° vereniging: een vereniging van gebruikers en mantelzorgers;<br />4° rusthuis: een rusthuis dat erkend is krachtens de decreten inzake voorzieningen voor bejaarden, gecoördineerd op 18 december 1991;<br />5° administratie: het intern verzelfstandigd agentschap Zorg en Gezondheid;<br />6° minister: het lid van de Vlaamse regering, bevoegd voor de bijstand aan personen;<br />7° de administrateur-generaal : het hoofd van het intern verzelfstandigd agentschap Zorg en Gezondheid;<br />
+...
 
 ## HOOFDSTUK II DE ERKENNING
 
@@ -12,49 +12,49 @@ In dit besluit wordt verstaan onder:<br />1° decreet: het decreet van 14 juli 1
 
 ### ART. 2.
 
-§ 1. Om erkend te worden moet een voorziening :<br />1° op het ogenblik van het indienen van de erkenningsaanvraag voldoen aan de specifieke erkenningsvoorwaarden voor de infrastructuur, zoals die per soort voorziening bepaald zijn in bijlage II, III, IV en V bij dit besluit;<br />2° op het ogenblik van het indienen van de erkenningsaanvraag of binnen een termijn van maximaal één jaar na de datum van het erkenningsbesluit voldoen aan :<br />a) de algemene erkenningsvoorwaarden, bepaald in artikel 3, 18, 19, § 2 en § 3, 20 tot en met 23, 24, § 1, en 25 van het decreet;<br />b) de bepalingen van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen;<br />c) de specifieke erkenningsvoorwaarden die per soort voorziening bepaald zijn in bijlagen I tot en met VI bij dit besluit.<br /><br />§ 2. Om erkend te blijven moet een voorziening na één jaar, te rekenen vanaf de datum van het erkenningsbesluit, blijvend voldoen aan § 1, 2°, a) tot en met c). <br /><br />§ 3. Mits voldoene gemotiveerde aanvraag van de initiatiefnemer, kan de administrateur-generaal afwijkingen toestaan wat betreft de specifieke erkenningsvoorwaarden die per soort voorziening vermeld zijn in bijlage I tot en met VI, gevoegd bij dit besluit.
+...
 
 ### ART. 3.
 
-§ 1. Om erkend te worden, moet een vereniging op het ogenblik van het indienen van de erkenningsaan-vraag of binnen een termijn van maximum één jaar na de datum van het erkenningsbesluit voldoen aan:<br /><br />1° de algemene erkenningsvoorwaarden, bepaald in artikel 3 en 24, § 1, van het decreet;<br /><br />2° de specifieke erkenningsvoorwaarden die bepaald zijn in bijlage VII, gevoegd bij dit besluit.<br /><br />§ 2. Om erkend te blijven, moet een vereniging na één jaar, te rekenen vanaf de datum van het erkenningsbesluit blijvend voldoen aan § 1, 1° en 2°.
+...
 
 ## AFDELING 2 DE ERKENNINGSPROCEDURE
 
 ### ART. 4.
 
-Een voorziening of een vereniging kan enkel erkend worden als ze:<br /><br />1° daartoe een ontvankelijke aanvraag heeft ingediend;<br /><br />2° op het ogenblik van de ontvankelijkheid van de aanvraag voldoet aan de programmatie die per soort voorziening en voor de verenigingen bepaald is in bijlage I tot en met VII, gevoegd bij dit besluit;<br /><br />3° voldoet aan de op haar betrekking hebbende bepalingen van afdeling 1.
+...
 
 ### ART. 5.
 
-§ 1. Een voorziening of een vereniging, uitgezonderd een dienst voor gezinszorg, wordt erkend voor onbepaalde duur :<br />1° met ingang van de datum van het indienen van de ontvankelijke aanvraag, als ze op het ogenblik van het indienen van haar aanvraag al werkzaam is;<br />2° vanaf de datum van de aanvang van de exploitatie, als ze op het ogenblik van het indienen van haar aanvraag de activiteiten nog moet opstarten.<br /><br />§ 2. Een dienst voor gezinszorg wordt erkend voor onbepaalde duur met ingang van 1 januari van het jaar dat volgt op het jaar waarin de ontvankelijke aanvraag wordt ingediend. Die aanvraag moet ingediend worden voor 1 augustus.<br />
+...
 
 ### ART. 6.
 
-Om ontvankelijk te zijn, moet een erkenningsaanvraag:<br /><br />1° door de voorziening of de vereniging met een aangetekende brief worden ingediend bij de administratie;<br /><br />2° een beleidsplan bevatten:<br /><br />a) waarin wordt aangetoond dat de voorziening of de vereniging voldoet aan de op haar betrekking hebbende bepalingen van afdeling 1 of waarin wordt aangegeven hoe ze binnen de gestelde termijn zal voldoen aan die bepa-lingen;<br /><br />b) waarin de gegevens worden vermeld en waarbij de stukken zijn gevoegd die per soort voorziening en voor de verenigingen worden vermeld in bijlage I tot en met VII, gevoegd bij dit besluit.
+...
 
 ### ART. 7.
 
-§ 1. Als de aanvraag niet conform artikel 6 is ingediend, meldt de administratie binnen een maand na ontvangst de onontvankelijkheid van de aanvraag en de reden daarvan.<br /><br />§ 2. Als de erkenningsaanvraag wel ontvankelijk is, maar niet voldoet aan de programmatie, zendt de administratie het met redenen omklede voornemen van de administrateur-generaal om de erkenning te weigeren binnen twee maanden na het indienen van de erkenningsaanvraag per aangetekende brief aan de voorziening of de vereniging. Die brief vermeldt de mogelijkheid en de voorwaarden om een bezwaarschrift in te dienen als bedoeld in artikel 9 § 1.
+...
 
 ### ART. 8.
 
-Als de erkenningsaanvraag ontvankelijk is en voldoet aan de programmatie, zendt de administratie hetzij de beslissing van de administrateur-generaal waarin de erkenning wordt verleend, hetzij het met redenen omklede voornemen van de administrateur-generaal  om de erkenning te weigeren binnen drie maanden na het indienen van de erkenningsaanvraag per aangetekende brief aan de voorziening of de vereniging.<br /><br />Als de erkenning wordt verleend, kent de administrateur-generaal  een erkenningsnummer toe. De voorziening of de vereniging is verplicht dat erkenningsnummer te vermelden op alle akten, brieven, facturen, bestelbiljetten en andere soortgelijke stukken die van de voorziening of de vereniging uitgaan.<br /><br />Ingeval een voornemen om de erkenning te weigeren wordt verzonden, vermeldt die brief de mogelijkheid en de voorwaarden om een bezwaarschrift als bedoeld in artikel 9 , §1, in te dienen.
+...
 
 ### ART. 9.
 
-§ 1. Op straffe van niet-ontvankelijkheid kan de voorziening of de vereniging tot uiterlijk vijfenveertig dagen na ontvangst van het voornemen van de administrateur-generaal  bedoeld in artikel 7, § 2, of in artikel 8, met een aangetekende brief een gemotiveerd bezwaarschrift indienen bij de administratie. <br /><br />Dit bezwaar wordt behandeld overeenkomstig artikel 7 tot en met 14 van het besluit van de Vlaamse regering van 15 september 1998 betreffende de adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden.<br /><br />Als het advies van de adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden afwijkt van het voornemen van de administrateur-generaal, dan beslist de minister.<br /><br />§ 2. Als de voorziening of de vereniging binnen de in § 1, eerste lid, bepaalde termijn geen bezwaarschrift heeft ingediend, wordt het voornemen van de administrateur-generaal van rechtswege geacht een weigeringsbeslissing van de administrateur-generaal te zijn. De administratie deelt dit binnen één maand na het verstrijken van die termijn per aangetekende brief mee aan de voorziening of de vereniging.
+...
 
 ### ART. 10.
 
-Als de erkenning werd geweigerd, of krachtens artikel 9, § 2, geacht wordt te zijn geweigerd, om een andere reden dan het niet voldoen aan de programmatie, kan de voorziening of vereniging op straffe van niet-ontvankelijkheid geen nieuwe gelijksoortige aanvraag indienen, tenzij ze in haar nieuwe aanvraag aantoont dat de reden voor de weigering wat haar betreft niet langer bestaat.
+...
 
 ### ART. 11.
 
-§ 1. Als de erkenningsaanvraag ontvankelijk is en voldoet aan de programmatie, maar zoals blijkt uit het in artikel 6, 2° bedoelde beleidsplan betrekking heeft op een lokaal of regionaal dienstencentrum of een dagverzorgingscentrum waarvoor een gebouw dient te worden opgericht, verbouwd of ingericht, wordt de behandeling van de erkenningsaanvraag in afwijking van artikel 8 opgeschort. In dit geval zendt de administratie de kennisgeving van die opschorting binnen twee maanden na het indienen van de erkenningsaanvraag per aangetekende brief aan de voorziening. In die brief wordt meegedeeld dat de voorziening voldoet aan de programmatie.<br /><br />§ 2. De opschorting vangt aan op de datum van verzending van de kennisgeving en duurt in principe vijf jaar of tot wanneer de voorziening de administratie per aangetekende brief verzoekt om de behandeling van haar erkenningsaanvraag voort te zetten.<br /><br />§ 3. Indien de werkzaamheden, vermeld in § 1, worden aangevat, meldt de initiatiefnemer dat per aangetekende brief aan de administratie, uiterlijk één maand na de start van de werkzaamheden :<br />1° starten de werkzaamheden en meldt de voorziening dat in de loop van de opschortingstermijn van vijf jaar, dan blijft de opschorting gelden tot vier jaar na de datum van de melding van de aanvang van de werkzaamheden of tot wanneer de voorziening de administratie verzoekt om de behandeling van haar erkenningsaanvraag voort te zetten. De voorziening deelt zelf de realistisch ingeschatte einddatum van de werkzaamheden mee. De administratie meldt per aangetekende brief dat de voorziening past in de programmatie tot vier jaar na de datum van de melding van de aanvang van de werkzaamheden. De minister kan de vormvereisten voor de melding van de aanvang van de werkzaamheden nader bepalen;<br />2° als de werkzaamheden nog niet werden aangevat binnen die termijn van vijf jaar, kan die termijn eventueel verlengd worden met drie jaar. Het verzoek om de opschortingstermijn van vijf jaar te verlengen moet door de voorziening uiterlijk zes maanden voor het verstrijken van die termijn per aangetekende brief bij de administratie worden ingediend. De brief vermeldt de objectieve redenen waarom de werkzaamheden nog niet werden aangevat. De opschortingstermijn wordt alleen verlengd als die redenen buiten de wil van de voorziening liggen. De administratie zendt binnen twee maanden na het indienen van het verzoek om de opschortingstermijn te verlengen, aan de voorziening per aangetekende brief hetzij de beslissing van de administrateur-generaal  waarbij de verlenging wordt verleend, hetzij het met redenen omklede voornemen van de administrateur-generaal om de verlenging te weigeren;<br />3° als binnen de opschortingstermijn van vijf jaar niet gemeld werd dat de werkzaamheden werden aangevat, en geen verzoek werd ingediend om de termijn van vijf jaar te verlengen, zoals bepaald in punt 2°, vervalt de opschorting van rechtswege vijf jaar na de datum van verzending van de kennisgeving, vermeld in § 2, en wordt de erkenningsaanvraag zonder voorwerp;<br />4° starten de werkzaamheden en meldt de voorziening dat in de loop van de met drie jaar verlengde opschortingstermijn, dan blijft de opschorting gelden tot vier jaar na de datum van de melding van de aanvang van de werkzaamheden of tot wanneer de voorziening de administratie verzoekt om de behandeling van haar erkenningsaanvraag voort te zetten. De bepalingen van punt 1° zijn van overeenkomstige toepassing;<br />5° als binnen de met drie jaar verlengde opschortingstermijn niet gemeld werd dat de werkzaamheden werden aangevat, vervalt de opschorting van rechtswege acht jaar na de datum van verzending van de kennisgeving, vermeld in § 2, en wordt de erkenningsaanvraag zonder voorwerp.<br /><br />§ 4. Op straffe van niet-ontvankelijkheid kan de voorziening tot uiterlijk vijfenveertig dagen na ontvangst van het in § 3, 2° bedoelde voornemen met een aangetekende brief een gemotiveerd bezwaarschrift indienen bij de administratie. <br /><br />Dit bezwaar wordt behandeld overeenkomstig artikel 7 tot en met 14 van het besluit van de Vlaamse regering van 15 september 1998 betreffende de adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden.<br /><br />Als het advies van de adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden afwijkt van het voornemen van de administrateur-generaal, beslist de minister.<br /><br />Als de voorziening of de vereniging binnen de in het eerste lid bepaalde termijn geen bezwaarschrift heeft ingediend, wordt het voornemen van de administrateur-generaal  van rechtswege geacht een weigeringsbeslissing van de administrateur-generaal te zijn. De administratie deelt binnen één maand na het verstrijken van die termijn per aangetekende brief mee aan de voorziening of de vereniging.<br /><br /><br />§ 5. Het verzoek om de behandeling voort te zetten wordt beschouwd als een erkenningsaanvraag en moet door de voorziening uiterlijk zes maanden voor het verstrijken van de al dan niet verlengde opschortingstermijn per aangetekende brief bij de administratie worden ingediend. Bij dat verzoek voegt de voorziening een geactualiseerd beleidsplan als vermeld in artikel 6, 2°, waarin ook aangetoond wordt dat aan alle infrastructuurnormen wordt voldaan. In dat geval begint de termijn, vastgesteld in artikel 8, te lopen vanaf de datum van verzending van dat verzoek.<br />Als aan de voorziening overeenkomstig § 3, 2°, of krachtens § 4, derde lid, een voornemen of een beslissing om de verlenging te weigeren wordt verzonden, beschikt die voorziening na ontvangst van dat voornemen of die beslissing in ieder geval nog over vijfenveertig dagen om een verzoek om de behandeling voort te zetten in te dienen. In voorkomend geval wordt van de in het vorige lid gestelde termijn afgeweken.<br /><br />§ 6. Als het verzoek, vermeld in § 3, 2°, of in § 5, eerste lid, niet binnen de gestelde termijn door de voorziening werd ingediend, kan de administrateur-generaal  beslissen om de erkenning te weigeren. De administratie deelt die beslissing van de administrateur-generaal per aangetekende brief aan de voorziening mee.<br />Op basis van een gemotiveerde aanvraag van de voorziening kan de administrateur-generaal in afwijking van het eerste lid, een verzoek dat niet binnen de gestelde termijn werd ingediend toch behandelen, op voorwaarde dat de opschorting van de erkenningsaanvraag niet van rechtswege vervallen is, zoals bepaald in § 3, eerste lid, 3° en 5°.<br />
+...
 
 ### ART. 12.
 
-Een aanvraag tot wijziging van één of meerdere elementen van de erkenning van een voorziening of een vereniging, die uitdrukkelijk in de erkenningsbeslissing zijn opgenomen, dient met een aangetekende brief aan de administratie te worden gericht. Om ontvankelijk te zijn, bevat ze alle nodige vermeldingen en stukken tot staving van de aangevraagde wijziging.<br /><br />Op die aanvraag zijn artikel 4, 5, 6, 1°, en 7 tot en met 10 van overeenkomstige toepassing.<br /><br />Als de aanvraag tot wijziging van een of meer elementen van de erkenning van een dienst voor gezinszorg gevolgen heeft voor de subsidiëring van die dienst, wordt die wijziging doorgevoerd met ingang van 1 januari van het jaar dat volgt op het jaar waarin de ontvankelijke aanvraag werd ingediend. Die aanvraag moet ingediend worden voor 1 augustus.<br /><br />
+...
 
 ## HOOFDSTUK III DE SUBSIDIERING
 
@@ -62,27 +62,27 @@ Een aanvraag tot wijziging van één of meerdere elementen van de erkenning van 
 
 ### ART. 13.
 
-§ 1. De administrateur-generaal kan aan de krachtens dit besluit erkende voorzieningen en verenigingen binnen de perken van de begrotingskredieten een jaarlijkse subsidie-enveloppe toekennen als ze voldoen aan de bepalingen van dit hoofdstuk en de specifieke subsidieringsvoorwaarden die per soort voorziening en voor de verenigingen bepaald zijn in bijlage I tot en met VII, gevoegd bij dit besluit.<br /><br />Jaarlijks bepaalt de minister per soort voorziening en voor de verenigingen het prioriteitenschema voor de toekenning van de subsidie-enveloppen. Voor het vaststellen van dit prioriteitenschema baseert de minister zich op de voorzieningen en de verenigingen die vóór 1 juli van het betrokken jaar erkend zijn, maar niet gesubsidieerd werden. De datum van het erken-ningsbesluit wordt in aanmerking genomen. Het prioriteitenschema houdt minstens rekening met hetgeen per soort voorziening en voor de verenigingen bepaald is in bijlage I tot en met VII, gevoegd bij dit besluit.<br /><br />De voorzieningen en de verenigingen die het voorgaande jaar reeds gesubsidieerd werden en nog erkend zijn, worden opnieuw gesubsidieerd als ze voldoen aan de subsidiëringsvoorwaarden.<br /><br />In afwijking van het tweede en derde lid wordt aan elke krachtens dit besluit erkende dienst voor gezinszorg een subsidie-enveloppe toegekend overeenkomstig de bepalingen van bijlage I, gevoegd bij dit besluit.<br /><br />§ 2. Om in aanmerking te komen voor subsidiëring, moet de voorziening of de vereniging een boekhouding voeren volgens de algemene boekhoudregels die van toepassing zijn op haar rechtsvorm, zoals bepaald in het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin.<br /><br />Het boekjaar vangt aan op 1 januari en eindigt op 31 december.<br /><br />De voorziening of de vereniging bezorgt jaarlijks zo spoedig mogelijk en uiterlijk op 1 oktober het financieel verslag van het afgelopen jaar aan de administratie. Dat financieel verslag omvat minstens de documenten die vermeld worden in artikel 13 en 14 van het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin.<br />
+...
 
 ## AFDELING 2 DE SUBSIDIËRINGSPROCEDURE
 
 ### ART. 14.
 
-§ 1. Op straffe van niet-ontvankelijkheid dient een voorziening of een vereniging die voor het eerst een subsidie-enveloppe aanvraagt, vóór 1 juli per aangetekende brief aan de administratie de subsidie-enveloppe aan te vragen, met toevoeging van de door de administrateur-generaal te bepalen stukken.<br /><br />§ 2. De subsidie-enveloppe wordt vastgesteld op de wijze die per soort voorziening en voor de verenigingen is bepaald in bijlage I tot en met VII, gevoegd bij dit besluit.<br /><br />§ 3. De administrateur-generaal bepaalt de wijze waarop de subsidie-enveloppe wordt toegekend en vereffend. Om de continue werking van de voorzieningen en de verenigingen te garanderen kan de administrateur-generaal per soort voorziening en voor de verenigingen bepalen dat een gedeelte van de subsidie-enveloppe, dat ten hoogste 90 % van de totale subsidie-enveloppe kan bedragen, bij wijze van voorschot wordt vereffend.
+...
 
 ### ART. 15.
 
-Binnen de perken van de begrotingskredieten worden de subsidie-enveloppen die aan de voorzienin-gen en verenigingen worden toegekend, geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen worden gekoppeld. Die koppeling aan het indexcijfer wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. De basisindex is de spilindex van toepassing op 1 januari 2006. De koppeling aan het prijsindexcijfer gebeurt op 1 januari van het jaar volgend op de indexsprong.<br /><br />[In afwijking van het eerste lid worden de subsidies voor de diensten voor gezinszorg geïndexeerd overeenkomstig de bepalingen van bijlage I, gevoegd bij dit besluit.  <span class="reference">(verv. B.V.R. 17 december 1999, art. 1, I: 1 januari 1999)</span> ]<br /><br />
+...
 
 ## HOOFDSTUK IV PROJECTEN
 
 ### ART. 16.
 
-Afhankelijk van de beschikbare kredieten op de begroting kan de minister aan verenigingen zonder winstoogmerk, provinciebesturen, gemeentebesturen, openbare centra voor maatschappelijk welzijn, de Vlaamse Gemeenschapscommissie, publiek-rechtelijke verenigingen, vennootschappen met sociaal oogmerk en ziekenfondsen, op hun aanvraag, een subsidie verlenen voor projecten. Hiervoor moet het project betrekking hebben op één van de thema's inzake de thuiszorg, die jaarlijks door de minister worden vastgelegd.
+...
 
 ### ART. 17.
 
-De minister bepaalt de nadere regels betreffende:<br /><br />1° de wijze waarop de aanvraag voor een projectsubsidie wordt ingediend;<br /><br />2° de criteria en de methode volgens welke die aanvraag wordt geëvalueerd;<br /><br />3° de vaststelling van het bedrag van de subsidie;<br /><br />4° de wijze waarop de subsidie wordt uitbetaald.
+...
 
 ## HOOFDSTUK V HET TOEZICHT
 
@@ -90,131 +90,131 @@ De minister bepaalt de nadere regels betreffende:<br /><br />1° de wijze waarop
 
 ### ART. 18.
 
-De administratie of het agentschap Inspectie Welzijn, Volksgezondheid en Gezin oefent ter plaatse of op stukken toezicht uit op de naleving van de bepalingen inzake de erkenning en de subsidiëring, die bepaald zijn in het decreet en in zijn uitvoeringsbesluiten. Dit toezicht brengt het recht mede om de voorziening of vereniging te bezoeken en de om zelf kennis te nemen van alle stukken en bescheiden die noodzakelijk zijn in de uitoefening van het toezicht.<br /><br />De voorziening of vereniging verleent zijn medewerking aan de uitoefening van dit toezicht. Ze bezorgt de administratie, op eenvoudig verzoek, de stukken die met de uitoefening van dit toezicht verband houden.
+...
 
 ## AFDELING 2 TOEZICHT OP DE ERKENNING
 
 ### ART. 19.
 
-Als een voorziening of een vereniging niet langer voldoet aan één of meer erkenningsvoorwaarden of als ze niet meewerkt aan de uitoefening van het toezicht, bedoeld in artikel 18, kan de administratie haar bij aangetekende brief aanmanen om zich binnen een door de administratie te bepalen termijn van maximum zes maanden aan de erkenningsvoorwaarden of binnen een door de administratie te bepalen termijn van maximum één maand aan de regels betreffende het toezicht te conformeren.<br /><br />De administratie bepaalt de in het eerste lid bedoelde termijnen op basis van de ernst van de vastgestelde feiten en het risico voor de gebruikers. Als de gezondheid en de veiligheid van de gebruikers in het gedrang komt, wordt de termijn om aan de betrokken erkenningsvoorwaarden te voldoen beperkt tot 24 uren.
+...
 
 ### ART. 20.
 
-Als de voorziening of de vereniging, ondanks de aanmaning, na verloop van de krachtens artikel 19 bepaalde termijnen, de erkenningsvoorwaarden niet naleeft of niet meewerkt aan de uitoefening van het toezicht, kan de administrateur-generaal  zijn gemotiveerd voornemen tot intrekking van de erkenning aan de voorziening of de vereniging verzenden.<br /><br />Die verzending gebeurt door de administratie met een aangetekende brief, waarin de mogelijkheid en de voorwaarden om een bezwaarschrift in te dienen, worden vermeld.<br /><br />Bij gevaar voor de gezondheid en de veiligheid van de gebruikers, kan de administrateur-generaal  in zijn gemotiveerd voornemen de erkenning van de voorziening schorsen, de onmiddellijke stopzetting van de exploitatie bevelen en alle bewarende maatregelen opleggen die nodig zijn voor de bescherming van de gebruikers. Deze maatregelen gelden zolang niet definitief beslist is over de intrekking van de erkenning.
+...
 
 ### ART. 21.
 
-§ 1. Op straffe van niet-ontvankelijkheid kan de voorziening of de vereniging tot uiterlijk vijfenveertig dagen na ontvangst van het voornemen tot intrekking van de erkenning, hiertegen met een aangetekende brief een gemotiveerd bezwaarschrift indienen bij de administratie. <br /><br />Dit bezwaar wordt behandeld overeenkomstig artikel 7 tot en met 14 van het besluit van de Vlaamse regering van 15 september 1998 betreffende de adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden.<br /><br />Als het advies van de adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden afwijkt van het voornemen van de administrateur-generaal, beslist de minister.<br /><br />§ 2. Als de voorziening of de vereniging binnen de in § 1, eerste lid, bepaalde termijn geen bezwaarschrift heeft ingediend, zendt de administratie de definitieve beslissing van de administrateur-generaal over het intrekken van de erkenning binnen één maand na het verstrijken van die termijn per aangetekende brief aan de voorziening of de vereniging.<br /><br />Als de beslissing van de administrateur-generaal niet binnen de in het eerste lid bepaalde termijn wordt verzonden, blijft de voorziening of de vereniging erkend.
+...
 
 ## AFDELING 3 TOEZICHT OP DE SUBSIDIERING
 
 ### ART. 22.
 
-§ 1. Onverminderd de toepassing van artikel 57 en 58 van de wetten op de rijkscomptabiliteit, gecoördineerd op 17 juli 1991, kan de administrateur-generaal, als een voorziening of een vereniging niet langer voldoet aan één of meer erkennings- of subsidiëringsvoorwaarden, als bij haar subsidiefraude wordt vastgesteld of als ze niet meewerkt aan de uitoefening van het in artikel 18 bedoelde toezicht, de vereffening van de subsidies geheel of gedeeltelijk stopzetten. Ook kan de administrateur-generaal de reeds vereffende subsidies geheel of gedeeltelijk terugvorderen.<br /><br />Het voornemen van de administrateur-generaal  wordt door de administratie aan de voorziening of de vereniging verzonden met een aangetekende brief, waarin de mogelijkheid en de voorwaarden om een bezwaarschrift in te dienen worden vermeld.<br /><br />Dit voornemen kan gepaard gaan met de verzending van een voornemen tot intrekking van de erkenning overeenkomstig artikel 20.<br /><br />§ 2. Op straffe van niet-ontvankelijkheid kan de voorziening of de vereniging tot uiterlijk 45 dagen na ontvangst van het voornemen tot stopzetting van de subsidiëring of tot terugvordering van de subsidies, hiertegen met een aangetekende brief een gemotiveerd bezwaarschrift indienen bij de administratie. Zij kan daarin uitdrukkelijk vragen om te worden gehoord.<br /><br />In voorkomend geval zal de administrateur-generaal binnen zestig dagen na ontvangst van dit bezwaarschrift zijn beslissing intrekken of bevestigen.<br /><br />Als de voorziening of de vereniging geen bezwaarschrift heeft ingediend binnen de gestelde termijn of als de administrateur-generaal zijn beslissing binnen de gestelde termijn heeft bevestigd, wordt de subsidiëring geheel of gedeeltelijk stopgezet, worden de subsidies geheel of gedeeltelijk teruggevorderd.<br /><br />Als de administrateur-generaal zijn beslissing intrekt of als hij zijn beslissing binnen de gestelde termijn niet bevestigt, wordt de subsidiëring voort gezet of blijven de subsidies behouden.
+...
 
 ## HOOFDSTUK VI WIJZIGINGS- EN OPHEFFINGSBEPALINGEN
 
 ### ART. 23.
 
-(niet opgenomen)<br /><br />(Wijzigt het opschrift van het besluit van de Vlaamse regering van 10 juli 1985 tot vaststelling van de rechtspleging voor erkenning en sluiting van serviceflatgebouwen, woningcomplexen met dienstverlening, rusthuizen en dagverzorgingscentra)
+...
 
 ### ART. 24.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 1 van hetzelfde besluit)
+...
 
 ### ART. 25.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 9 van hetzelfde besluit)
+...
 
 ### ART. 26.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 10 van hetzelfde besluit)
+...
 
 ### ART. 27.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 13 van hetzelfde besluit)
+...
 
 ### ART. 28.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 14 van hetzelfde besluit)
+...
 
 ### ART. 29.
 
-(niet opgenomen)<br /><br />(Wijzigt het opschrift van het besluit van de Vlaamse regering van 17 juli 1985 tot vaststelling van de normen waaraan een serviceflatgebouw, woningcomplex met dienstverlening of een rusthuis moet voldoen om voor erkenning in aanmerking te komen)
+...
 
 ### ART. 30.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 3 van hetzelfde besluit)
+...
 
 ### ART. 31.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 4 van hetzelfde besluit)<br />
+...
 
 ### ART. 32.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 5 van hetzelfde besluit)
+...
 
 ### ART. 33.
 
-(niet opgenomen)<br /><br />(Heft artikel 5bis van hetzelfde besluit op)
+...
 
 ### ART. 34.
 
-(niet opgenomen)<br /><br />(Heft bijlage C, gevoegd bij hetzelfde besluit op)
+...
 
 ### ART. 35.
 
-(niet opgenomen)<br /><br />(Heft artikel 2 van het besluit van de Vlaamse regering van 17 juli 1985 houdende de bijzondere voorwaarden voor de subsidiëring van de investeringsverrichtingen op)
+...
 
 ### ART. 36.
 
-(niet opgenomen)<br /><br />(Wijzigt het opschrift van hoofdstuk III van hetzelfde besluit)
+...
 
 ### ART. 37.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 3 van hetzelfde besluit)
+...
 
 ### ART. 38.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 1 van het besluit van de Vlaamse regering van 17 maart 1998 tot vaststelling van de regels voor het verlenen van de voorafgaande vergunning, bedoeld in artikel 10 van de decreten inzake voorzieningen voor bejaarden, gecoördineerd op 18 december 1991)
+...
 
 ### ART. 39.
 
-(niet opgenomen)<br /><br />(Wijzigt het opschrift van het besluit van de Vlaamse regering van 17 maart 1998 houdende vaststelling van het programma voor dienstencentra, serviceflatgebouwen, woningcomplexen met dienstverlening, rusthuizen en dagverzorgingscentra)
+...
 
 ### ART. 40.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 1 van hetzelfde besluit)
+...
 
 ### ART. 41.
 
-(niet opgenomen)<br /><br />(Heft artikel 3 van hetzelfde besluit op)
+...
 
 ### ART. 42.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 5 van hetzelfde besluit)
+...
 
 ### ART. 43.
 
-(niet opgenomen)<br /><br />(§ 1. Heft de volgende besluiten op:<br /><br />1° het besluit van de Vlaamse regering van 10 juli 1985 tot regeling van de erkenning en subsidiring van de dienstencentra;<br /><br />2° het besluit van de Vlaamse regering van 3 december 1996 houdende subsidiëring van de werking van de dagverzorgingscentra.<br /><br />§ 2. Heft de artikelen 1 tot en met 41 van het besluit van de Vlaamse regering van 24 juli 1997 tot regeling van de erkenning en de subsidiëring van de diensten voor gezins- en bejaardenhulp op en wijzigt de bijlage gevoegd bij voornoemd besluit van 24 juli 1997)
+...
 
 ## HOOFDSTUK VII SLOTBEPALINGEN
 
 ### ART. 44.
 
-De overgangsbepalingen die op de voorzieningen en de verenigingen betrekking hebben, liggen per soort voorziening en voor de verenigingen vervat in bijlagen I tot en met VII, gevoegd bij dit besluit.
+...
 
 ### ART. 45.
 
-Het decreet treedt in werking op 1 januari 1999, met uitzondering van:<br /><br />1° artikel 19, § 1;<br /><br />2° artikel 28, § 1, § 2, § 3, tweede lid, en § 4.
+...
 
 ### ART. 46.
 
-Dit besluit treedt in werking op 1 januari 1999, met uitzondering van artikel 35 tot en met 37, die in werking treden op een door de minister vast te stellen datum.
+...
 
 ### ART. 47.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.
+...
 
 ## Bijlage I Diensten voor gezinszorg
 
@@ -222,123 +222,123 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uit
 
 ### ART. I.1.
 
-In deze bijlage wordt verstaan onder:<br /><br />1° gezinszorg: het hulp- en dienstverleningsaanbod dat bestaat uit persoonsverzorging, huishoudelijke hulp en schoonmaakhulp, alsook de daarmee verband houdende algemene psychosociale en pedagogische ondersteuning en begeleiding;<br />2° verzorgend personeel : de personen tewerkgesteld in een dienst voor gezinszorg, die persoonsverzorging, huishoudelijke hulp en algemene psychosociale en pedagogische ondersteuning en begeleiding aanbieden in het natuurlijke thuismilieu van de gebruiker, zoals bepaald in de bijlage bij het besluit van de Vlaamse Regering van 24 juli 1997 tot regeling van de erkenning en de subsidiëring van de diensten voor gezins- en bejaardenhulp;<br />3° schoonmaakhulpen: de personen die, al dan niet tewerkgesteld in een dienst voor gezinszorg, hulp- en dienstverlening aanbieden bestaande uit werkzaamheden die het reinigen van en het bevorderen van de hygiëne in de woning van de gebruiker tot doel hebben;<br />4° begeleidend personeel : de personeelsleden van een dienst voor gezinszorg, die belast zijn met het verrichten van de sociale onderzoeken en met de begeleiding van de gebruikers, het hulp- en dienstverleningsproces en het verzorgend personeel van de dienst voor gezinszorg;<br />5° leidinggevend personeel: de personeelsleden van een dienst voor gezinszorg, die instaan voor de leiding en de algemene beleidsvoering;<br />6° wijkwerking : het overleg van een groep verzorgende personeelsleden van een dienst voor gezinszorg, die onder supervisie van een begeleidend personeelslid staat en verantwoordelijk is voor de hulp- en dienstverlening in een bepaald gebied. Dat gebeurt met het oog op het verlenen van een gebruikersgerichte, doelmatige, doeltreffende, continue en maatschappelijk verantwoorde hulp- en dienstverlening;<br />7° kraamzorg: de totaliteit van zorgen, waaronder ondersteunende hulp op hygiënisch-verzorgend, huishoudelijk en psycho-sociaal vlak, die voor de pas bevallen moeder, haar kind en eventueel haar gezin moeten worden voorzien in de periode van gemiddeld tien dagen, die volgt op de bevalling en die de moeder nodig heeft om fysiek en psychisch weer op krachten te komen;<br />8° Vereniging : de Vereniging van de Diensten voor Gezinszorg van de Vlaamse Gemeenschap.<br /><br />De huishoudelijke hulp, vermeld in het eerste lid, 1°, bestaat uit de volgende activiteiten:<br />1° de organisatie van het huishouden;<br />2° de zorg voor de maaltijden: maaltijden bereiden (inclusief dieetvoorschriften en babyvoeding), inmaken en bewaren van voedingswaren voor gezinsverbruik, opdienen, afruimen en afwassen;<br />3° de zorg voor kledij en linnen: wassen, strijken en verstellen;<br />4° de zorg voor woon- en leefklimaat: leefruimten hygiënisch onderhouden, bedden opmaken en verversen, zorgen voor planten in de woning en zorgen voor huisdieren;<br />5° het doen van boodschappen;<br />6° de zorg voor veiligheid en hygiëne in de woning.
+...
 
 ## Afdeling 2 Programmatie
 
 ### ART. I.2.
 
-De programmatie voor de diensten voor gezinszorg bestaat uit programmacijfers voor de uren persoonsverzorging en huishoudelijke hulp verstrekt door de erkende diensten voor gezinszorg.<br /><br />De programmacijfers bedoeld in het eerste lid worden, voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad, op basis van de leeftijd van de inwoners als volgt vastgelegd:<br /><br />1° per inwoner van de leeftijdsgroep van 0 - 59 jaar: 0,5 uur per jaar;<br /><br />2° per inwoner van de leeftijdsgroep van 60 - 74 jaar: 3,5 uur per jaar;<br /><br />3° per inwoner van de leeftijdsgroep van 75 - 84 jaar: 17,5 uur per jaar;<br /><br />4° per inwoner van de leeftijdsgroep vanaf 85 jaar: 40 uur per jaar.<br /><br />Voor de toepassing van de programmacijfers wordt uitgegaan van de bevolkingsprojecties van het jaar volgend op het jaar waarop de programmatie betrekking heeft.<br /><br />De bevolkingsprojectie, bedoeld in het derde lid, wordt door de minister vastgelegd en dient ten minste aan volgende voorwaarden te voldoen:<br /><br />1° ze is afzonderlijk per kalenderjaar opgesteld;<br /><br />2° ze is specifiek voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad berekend.
+...
 
 ## Afdeling 3 Specifieke erkenningsvoorwaarden
 
 ### ART. I.3.
 
-Onverminderd de toepassing van artikel 4 en 5 van het decreet, zijn op de diensten voor gezinszorg volgende specifieke erkenningsvoorwaarden van toepassing:<br /><br />A. Voorwaarden betreffende de hulp- en dienstverlening<br /><br />1° de dienst biedt persoonsverzorging en huishoudelijke hulp aan op verzoek van de gebruiker of zijn vertegenwoordiger en indien uit een sociaal onderzoek blijkt dat de draagkracht van de gebruiker of zijn omgeving, hetzij wegens geestelijke of lichamelijke ongeschiktheid, hetzij wegens bijzondere sociale omstandigheden, niet voldoende is om de lasten op het gebied van persoonsverzorging en huishoudelijke taken te dragen;<br /><br />2° de persoonsverzorging en de huishoudelijke hulp worden enkel geboden in het natuurlijke thuismilieu van de gebruiker, naar gelang van de noden die worden beoordeeld op basis van voornoemd sociaal onderzoek. Zij kunnen een preventief, herstellend, verzorgend of palliatief karakter hebben, en kunnen ondersteunend, aanvullend of vervangend zijn;<br /><br />3° de dienst biedt schoonmaakhulp aan op verzoek van de gebruiker of zijn vertegenwoordiger, hetzij zelf, hetzij op basis van een samenwerkingscontract. De minister kan de werkzaamheden in het kader van de schoonmaakhulp, de nadere regels met betrekking tot het samenwerkingscontract en de verhouding tussen het aantal tewerkgestelde voltijdse equivalenten schoonmaakhulpen en het aantal voltijdse equivalenten van verzorgenden van een dienst bepalen;<br /><br />4° de door de dienst aangewende toewijzingscriteria mogen geen betrekking hebben op:<br /><br />a) de ideologische, filosofische en godsdienstige overtuiging van de gebruiker;<br /><br />b) het lidmaatschap van de gebruiker bij een organisatie of groepering;<br /><br />c) het feit dat de gebruiker al dan niet een beroep doet op andere hulp- en dienstverleningsvormen; <br /><br />d) de financiële draagkracht van de gebruiker, tenzij dit zou inhouden dat de dienst zich prioritair richt naar gebruikers met een verhoogd risico op verminderde welzijnskansen;<br /><br />5° de dienst vordert een bijdrage van de gebruiker per gepresteerd uur. De bijdrage met betrekking tot het gepresteerde uur persoonsverzorging en huishoudelijke hulp moet in overeenstemming zijn met het bijdragesysteem, zoals bepaald door de minister. Dit bijdragesysteem houdt rekening met de middelen, de lasten en de zorgbehoevendheid van de gebruiker.<br /><br />6° de dienst mag de hulp- en dienstverlening, vermeld in punt 1° en punt 3°, alleen aanbieden als hij beschikt over het identificatienummer van de sociale zekerheid (INSZ-nummer) van de gebruiker.<br /><br />B. Voorwaarden betreffende het personeel<br /><br />1° een dienst stelt doorlopend minstens drie voltijdse equivalenten verzorgend personeel tewerk. De verzorgende personeelsleden van de dienst verrichten de activiteiten, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 27 maart 2009 tot uitvoering van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening in de thuiszorg, met inachtneming van artikel 3 en 4 van dat besluit; <br /><br />2° een verzorgend personeelslid moet bij de indiensttreding beschikken over een inschrijvingsbewijs dat door de administratie werd afgeleverd en dat alleen kan worden afgeleverd voor personen die beschikken over een van de volgende documenten :<br /><br />a) een van de volgende studiebewijzen, uitgereikt in het studiegebied personenzorg, waarbij de minister bepaalt welke opleidingen binnen het studiegebied personenzorg in aanmerking komen :<br />1) een diploma, een studiegetuigschrift of een certificaat, uitgereikt na het tweede of het derde leerjaar van de derde graad van hetzij het technisch secundair onderwijs, hetzij het (voltijds of deeltijds) beroepssecundair onderwijs;<br />2) een diploma in de verpleegkunde, uitgereikt na het derde leerjaar van de vierde graad van het beroepssecundair onderwijs;<br />3) een getuigschrift, een certificaat of een diploma, uitgereikt na een opleiding van het (secundair) onderwijs voor sociale promotie, gerangschikt als technisch of beroepssecundair onderwijs van de derde graad;<br /><br />b) een diploma van het secundair onderwijs in combinatie met een attest dat aantoont dat men geslaagd is voor een of meer jaren van een opleiding uit het hoger onderwijs. Alleen opleidingen binnen een van de volgende studiegebieden kunnen hiervoor in aanmerking komen : <br />1) in het hogescholenonderwijs : het studiegebied gezondheidszorg en het studiegebied sociaal-agogisch werk;<br />2) in het hoger onderwijs voor sociale promotie : het studiegebied paramedisch hoger onderwijs van het korte type en het studiegebied sociaal hoger onderwijs van het korte type;<br />3) in het universitair onderwijs : het studiegebied lichamelijke opvoeding, revalidatiewetenschappen en kinesitherapie.<br /><br />De minister wijst binnen deze studiegebieden de opleidingen aan die in aanmerking komen, en bepaalt voor elke opleiding het aantal jaren dat men met vrucht beëindigd moet hebben;<br /><br />c) een bekwaamheidsattest van polyvalent verzorgende, uitgereikt door een opleidingscentrum dat erkend is op basis van het besluit van de Vlaamse Regering van 28 januari 2000 tot regeling van de erkenning en de subsidiëring van opleidingscentra voor polyvalente verzorgenden of een bekwaamheidsattest van polyvalent verzorgende of een bekwaamheidsattest van zorgkundige, uitgereikt door een opleidingscentrum dat voldoet aan de voorwaarden, vermeld in het besluit van de Vlaamse Regering van (10 oktober 2008) tot regeling van de opleiding tot polyvalent verzorgende en de bijkomende opleidingsmodule tot zorgkundige;<br /><br />d) een bekwaamheidsattest, uitgereikt door een opleidingscentrum dat erkend is door de Franse of de Duitstalige Gemeenschap, en dat opleidingen organiseert die zowel naar inhoud als naar niveau gelijkwaardig zijn aan de opleidingen van een opleidingscentrum als vermeld in c) ;<br /><br />e) een buitenlands studiebewijs, op voorwaarde dat het door het Vlaams Ministerie van Onderwijs en Vorming gelijkwaardig wordt verklaard met een Vlaams studiebewijs als vermeld in a) of b) ;<br /><br />3° de dienst stelt per 130 gebruikers, aan wie hij persoonsverzorging en huishoudelijke hulp biedt, één voltijdse equivalent aan begeleidend personeel tewerk. Per 65 extra gebruikers aan wie hij persoonsverzorging en huishoudelijke hulp aanbiedt, stelt hij daarbovenop één halftijds equivalent aan begeleidend personeel tewerk;<br /><br />4° een begeleidend personeelslid moet bij de indiensttreding beschikken over een van de volgende graden of studiebewijzen :<br /><br />a) de graad van gegradueerde of bachelor in het studiegebied gezondheidszorg of het studiegebied sociaalagogisch werk;<br /><br />b) de graad van master;<br /><br />c) een diploma van het paramedisch of het sociaal hoger onderwijs voor sociale promotie;<br /><br />d) een buitenlands studiebewijs op voorwaarde dat het door het Vlaams Ministerie van Onderwijs en Vorming gelijkwaardig wordt verklaard met een Vlaams studiebewijs dat leidt tot een graad als vermeld in a) of b) ;<br /><br />5° de dienst stelt per volledige schijf van 75 voltijdse equivalenten aan verzorgend personeel één halftijdse equivalent aan leidinggevend personeel tewerk;<br /><br />6° een leidinggevend personeelslid moet bij de indiensttreding beschikken over een van de volgende graden of studiebewijzen :<br /><br />a) de graad van master;<br /><br />b) een buitenlands studiebewijs op voorwaarde dat het door het Vlaams Ministerie van Onderwijs en Vorming gelijkwaardig wordt verklaard met een Vlaams studiebewijs dat leidt tot de graad van master.<br /><br />Als een personeelslid niet voldoet aan die diplomavereisten, maar de dienst is van oordeel dat die persoon over voldoende ervaring beschikt als begeleidend personeelslid in een dienst voor gezinszorg of in een dienst voor logistieke hulp en aanvullende thuiszorg als vermeld in het besluit van de Vlaamse Regering van 10 juli 2001 tot regeling van de subsidiëring van de diensten voor logistieke hulp en aanvullende thuiszorg, kan dat personeelslid ook als leidinggevend personeelslid tewerkgesteld worden.<br /><br />7° als de dienst een persoon wil tewerkstellen als verzorgend, begeleidend of leidinggevend personeelslid, dan moet die beschikken over een inschrijvingsnummer dat toegekend werd door de administratie. De administratie kent dat nummer toe nadat de dienst het identificatienummer van de sociale zekerheid (INSZ-nummer) van de betrokken persoon bezorgd heeft. Er wordt per functietype een apart inschrijvingsnummer toegekend.<br /><br />C. Voorwaarden betreffende de werking<br /><br />1. Om de kwaliteit van de hulp- en dienstverlening te garanderen en te bestendigen maakt de dienst voor gezinszorg een kwaliteitshandboek op. Het kwaliteitshandboek is een schriftelijk document dat het kwaliteitsbeleid vastlegt, de minimale kwaliteitseisen bepaalt en het kwaliteitssysteem beschrijft.<br /><br />De minister bepaalt de minimale kwaliteitseisen en de minimale vereisten waaraan het kwaliteitshandboek en het kwaliteitssysteem moeten voldoen.<br /><br />Het kwaliteitshandboek kan door de administratie worden opgevraagd.<br /><br />De dienst voor gezinszorg bezorgt jaarlijks voor 1 april de volgende documenten aan de administratie :<br />a) de kwaliteitsplanning voor het lopende jaar;<br />b) het kwaliteitsverslag van het afgelopen jaar.<br /><br />De minister bepaalt de minimale vereisten waaraan de kwaliteitsplanning en het kwaliteitsverslag moeten voldoen;<br /><br />2. De dienst voor gezinszorg registreert zijn activiteiten, zowel naar onderwerp, doel, vorm, frequentie en bereikte doelgroep, als naar resultaten.<br /><br />De minister kan nadere regels bepalen voor die registratie. <br /><br />3° Er bestaat een systeem van elektronische gegevensuitwisseling tussen de administratie en de diensten voor gezinszorg, Vesta genaamd. Elke dienst moet van dat systeem gebruikmaken om de gegevens over zijn personeel en zijn gebruikers, die nodig zijn voor het berekenen van de subsidies en voor het genereren van operationele en beleidsinformatie, aan de administratie te bezorgen. Dat gebeurt volgens de richtlijnen die de administratie ter beschikking stelt. De dienst is verantwoordelijk voor het veiligheidsbeleid bij het doorsturen van de gegevens.
+...
 
 ## Afdeling 4 Gegevens te vermelden in en stukken gevoegd bij het beleidsplan
 
 ### ART. I.4.
 
-In het artikel 6, 2°, van dit besluit bedoelde beleidsplan worden volgende gegevens vermeld:<br /><br />1° de volledige identiteit van de aanvrager;<br /><br />2° de omschrijving van het werkgebied;<br /><br />3° een stappenplan waarin omschreven staat op welke wijze de dienst voor gezinszorg aan de erkenningsvoorwaarden, zoals bepaald in hoofdstuk II, afdeling 1°, van dit besluit,zal voldoen;<br /><br />4° een toelichting waarom de aanvrager een dienst voor gezinszorg wenst uit te baten.
+...
 
 ### ART. I.5.
 
-Aan het in artikel 6, 2°, van dit besluit bedoelde beleidsplan worden de volgende stukken toegevoegd:<br /><br />1° als de aanvrager een rechtspersoon is, met uitzondering van een openbaar bestuur: de statuten van de aanvrager en de eventuele wijzigingen ervan, alsook de rechtsgeldige beslissingen om een dienst voor gezinszorg uit te baten en om de erkenningsaanvraag in te sturen;<br /><br />2° als de aanvrager een openbaar bestuur is: de rechtsgeldige beslissingen om een dienst voor ge zinszorg uit te baten en om de erkenningsaanvraag in te sturen;<br /><br />3° een lijst van het personeel met vermelding van hun kwalificaties en hun wekelijkse arbeidsduur;<br /><br />4° [...  <span class="reference">(opgeh. B.V.R. 30 maart 1999, art. 2, I: 1 januari 1999)</span> ]
+...
 
 ## Afdeling 5 Subsidiëring
 
 ### ART. I.6.
 
-Het jaarlijks bijkomend aantal te subsidiëren uren bedraagt vanaf 1 januari 2000 minstens 4 % van het totaal aantal subsidiabele uren van het voorafgaande jaar, zonder dat de programmatie zoals bepaald in artikel 2 kan overschreden worden.<br /><br />Onverminderd het bepaalde in het eerste lid, legt de Vlaamse regering elk jaar het totaal aantal subsidiabele uren voor het volgend jaar vast.<br /><br />De minister bepaalt jaarlijks per erkende dienst voor gezinszorg het maximum aantal subsidiabele uren waarover de dienst beschikt voor het aanbieden van persoonsverzorging en huishoudelijke hulp. Bij het toekennen van het jaarlijks bijkomend urencontingent houdt de minister onder andere rekening met een evenredige beschikbaarheid van uren in relatie tot de noden die vastgesteld worden in de provincies van het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad.
+...
 
 ### ART. I.7.
 
-Binnen de begrotingskredieten en overeenkomstig de bepalingen van hoofdstuk III van dit besluit, kan de administrateur-generaal subsidies toekennen aan de erkende diensten voor gezinszorg, op voorwaarde dat : <br />1° aan alle erkenningsvoorwaarden wordt voldaan;<br />2° uiterlijk op 1 oktober het financieel verslag, vermeld in artikel 13, § 2, van dit besluit, aan de administratie wordt bezorgd.
+...
 
 ### ART. I.8.
 
-Voor de periode van 1 januari 2007 tot en met 31 augustus 2007 bestaat de subsidie uit :<br />1° een forfaitair bedrag van 21,5298 euro per gepresteerd uur en per uur bijscholing, als subsidiëring van het verzorgend personeel en van het bevorderen van de deskundigheid van het verzorgend personeel;<br />2° een forfaitair bedrag van 32.136 euro per jaar en per 130 geholpen gebruikers, als subsidiëring van het begeleidend personeel;<br />3° een forfaitair bedrag van 17.575 euro per jaar en per 75 voltijdse equivalenten aan verzorgend personeel, als subsidiëring van het leidinggevend personeel;<br />4° een forfaitair bedrag van 24.427 euro per jaar en per 200 geholpen gebruikers als subsidiëring van de administratie- en coördinatiekosten.<br /><br />Vanaf 1 september 2007 wordt het bedrag, vermeld in het eerste lid, 1°, vervangen door het bedrag 21,5549 euro.<br /><br />Vanaf 1 januari 2008 wordt het bedrag, vermeld in het eerste lid, 1°, vervangen door het bedrag 21,7086 euro.<br /><br />Vanaf 1 januari 2009 wordt het bedrag, vermeld in het eerste lid, 1°, vervangen door het bedrag 21,8612 euro.<br /><br />Vanaf 1 januari 2010 wordt het bedrag, vermeld in het eerste lid, 1°, vervangen door het bedrag 22,0148 euro.
+...
 
 ### ART. I.9.
 
-§ 1. Onregelmatige prestaties zijn uren die gepresteerd worden op weekdagen tussen 20 uur en 7 uur, en uren die gepresteerd worden op zater-, zon- en feestdagen, met het oog op een continue hulp- en dienstverlening.<br /><br />§ 2. De subsidie, vermeld in artikel 8, 1°, wordt verhoogd met 30% voor uren die gepresteerd worden op een zaterdag en voor uren die gepresteerd worden op weekdagen tussen 20 uur en 7 uur.<br /><br />Ze wordt verhoogd met 60% voor uren die gepresteerd worden op een zon- of feestdag.<br /><br />Het percentage van de verhoging wordt bepaald door de astronomische dag (van 0 tot 24 uur) waarop de uren gepresteerd worden. <br /><br />§ 3. Prestaties op zater-, zon- en feestdagen die korter zijn dan 2 uur worden, binnen het urencontingent, gelijkgesteld met een prestatie van 2 uur.<br /><br />Prestaties tussen 22 uur en 7 uur die korter zijn dan 8 uur worden, binnen het urencontingent, gelijkgesteld met een prestatie van 8 uur.<br />
+...
 
 ### ART. I.10.
 
-Het totaal aan onregelmatige prestaties als vermeld in artikel 9 dat voor subsidiëring in aanmerking komt, wordt begrensd tot 3% van het toegekende urencontingent van de dienst. Dat urencontingent maakt deel uit van het toegekende urencontingent.<br />
+...
 
 ### ART. I.11.
 
-§ 1. Voor de berekening van de subsidies vermeld onder artikel 8, 2°, 3° en 4°, worden naargelang van het aantal geholpen gebruikers en het aantal voltijds equivalent aan verzorgend personeel, volgende subsidiefracties mogelijk:<br /><br />1° voor het begeleidend personeel: x/130sten van het in artikel 8, 2°, vermelde subsidiebedrag;<br /><br />2° voor het leidinggevend personeel: x/75sten van het in artikel 8, 3°, vermelde subsidiebedrag, vanaf 75 voltijds equivalent;<br /><br />3° voor de administratie- en co÷rdinatiekosten: x/200sten van het in artikel 8, 4°, vermelde subsidiebedrag.<br /><br />§ 2. Voor de berekening van het aantal geholpen gebruikers, zoals bepaald in artikel 8, 2° en 4°, wordt het aantal gebruikers in aanmerking genomen dat in het jaar werd geholpen dat voorafgaat aan het jaar waarop de subsidie betrekking heeft.<br /><br />Dit wordt gestaafd op basis van het aantal geopende en bijgehouden dossiers, waaruit blijkt dat 4 uur of langer hulp is verleend. Een onderbroken hulpverlening aan eenzelfde gebruiker kan slechts aanleiding geven tot het aanrekenen van de gebruiker als een nieuw geholpen gebruiker indien de periode van onderbreking van de hulpverlening langer heeft geduurd dan 13 weken.<br /><br />§ 3. Voor de berekening van de subsidie bedoeld in artikel 8, 3°, wordt het gemiddeld aantal voltijds equivalenten aan verzorgend personeel in aanmerking genomen dat in dienst was in het jaar, voorafgaand aan het jaar waarop de subsidie betrekking heeft. Dit gemiddeld aantal voltijds equivalenten aan verzorgend personeel in dienst wordt berekend door het totale aantal gesubsidieerde uren in het jaar voorafgaand aan het jaar waarop de subsidie betrekking heeft te delen door 1539.
+...
 
 ### ART. I.12.
 
-Binnen het toegekende urencontingent worden met gepresteerde uren gelijkgesteld:<br />1° de uren besteed aan de deelname aan de ondernemingsraad;<br />2° de uren besteed aan de deelname aan het comité voor preventie en bescherming op het werk;<br />3° de uren besteed aan syndicale verplichtingen;<br />4° de uren besteed aan werkvergaderingen, al dan niet met andere hulpverleners in de thuiszorg;<br />5° de uren besteed aan wijkwerking;<br />6° de uren, vrijgesteld van prestaties wegens de maatregel arbeidsduurvermindering vanaf 45 jaar; <br />7° de wachturen van de verzorgende personeelsleden die kraamzorg verstrekken. <br /><br />Het totale aantal gelijkgestelde uren wordt begrensd tot 5% van het toegekende urencontingent. Indien de grens van 5% wordt overschreden ten gevolge van de uren, vermeld in punt 6°, kan die grens worden verhoogd. Die verhoging kan alleen op voorwaarde dat bewezen wordt dat voor het aantal uren dat de grens van 5% gelijkgestelde uren overschrijdt, een gelijk aantal uren gezinszorg door vervangend personeel gepresteerd wordt. Een dienst voor gezinszorg financiert zelf dat vervangend personeel , hetzij met het bedrag dat hij ontvangt op basis van artikel 12bis of artikel 12quater, hetzij met andere middelen dan de middelen die via dit besluit werden verkregen.<br /><br />
+...
 
 ### ART. I.12bis.
 
-Art. 12bis. § 1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld tussen de private Diensten voor Gezinszorg. Dat budget bedraagt :<br />1° in 2006 : 832.716,29 euro;<br />2° in 2007 : 1.666.091,38 euro;<br />3° in 2008 : 2.370.342,73 euro;<br />4° in 2009 : 2.947.446,75 euro;<br />5° vanaf 2010 : 3.540.361,83 euro.<br /><br />§ 2. Het budget voor de maatregel werkdrukvermindering wordt evenredig verdeeld tussen de private diensten op basis van de gegevens in verband met werkdruk die ze bezorgen aan de Vereniging. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar, dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br /><br />De minister kan de wijze bepalen waarop de private diensten moeten bewijzen dat ze het bedrag dat ze ontvangen door die verdeling, gebruiken voor de financiering van vervangend personeel binnen hun dienst voor gezinszorg, voor wie geen andere middelen worden verkregen.<br /><br />§ 3. Het budget voor de maatregel werkdrukvermindering wordt verdeeld en toegekend nadat de Vereniging aan de administratie de gegevens van het afgelopen jaar, nodig voor die verdeling, bezorgd heeft. Die gegevens moeten uiterlijk op 1 april aan de administratie bezorgd worden.<br /><br />Het subsidiebedrag wordt aan de private diensten toegekend samen met hun voorschot van het derde trimester.<br /><br />De bedragen, vermeld in § 1, zijn gekoppeld aan het prijsindexcijfer dat berekend en toegepast wordt overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. De basisindex is de spilindex die van toepassing is op 1 januari 2006. De bedragen worden gekoppeld aan het prijsindexcijfer op 1 januari van het jaar dat volgt op de indexsprong.<br />
+...
 
 ### ART. I.12ter.
 
-§ 1. Voor de maatregel vervoer wordt, er een budget van 2.223.200 euro verdeeld tussen de diensten voor gezinszorg. Dat budget kan jaarlijks maximaal met hetzelfde percentage stijgen als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br /><br />§ 2. Het budget voor de maatregel vervoer wordt evenredig verdeeld tussen de diensten op basis van het totale aantal kilometers dat al het verzorgend personeel voor de dienst afgelegd heeft met de wagen. De diensten bezorgen die gegevens aan de Vereniging. Voor de verdeling worden de gegevens in aanmerking genomen van het jaar, dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br /><br />Alleen de kilometers voor de verplaatsingen met de wagen naar de gebruikers en terug komen in aanmerking.<br /><br />§ 3. Het budget voor de maatregel vervoer wordt verdeeld en toegekend nadat de Vereniging aan de administratie de gegevens van het afgelopen jaar, nodig voor die verdeling, bezorgd heeft. Die gegevens moeten uiterlijk op 1 april aan de administratie bezorgd worden.<br /><br />Het subsidiebedrag wordt aan de diensten toegekend samen met hun voorschot van het derde trimester.<br /><br />Het bedrag, vermeld in § 1, is gekoppeld aan het prijsindexcijfer dat berekend en toegepast wordt overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. De basisindex is de spilindex die van toepassing is op 1 januari 2006. Het bedrag wordt gekoppeld aan het prijsindexcijfer op 1 januari van het jaar dat volgt op de indexsprong.<br />
+...
 
 ### ART. I.12quater.
 
-§ 1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld tussen de openbare diensten voor gezinszorg. Dat budget bedraagt :<br />1° in 2006 : 74.270,79 euro;<br />2° in 2007 : 148.541,58 euro;<br />3° in 2008 : 222.812,37 euro;<br />4° in 2009 : 297.083,16 euro;<br />5° vanaf 2010 : 371.353,95 euro.<br /><br />§ 2. Het budget voor de maatregel werkdrukvermindering wordt evenredig verdeeld tussen de openbare diensten op basis van de gegevens in verband met werkdruk die ze bezorgen aan de VVSG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br /><br />De minister kan de wijze bepalen waarop de openbare diensten moeten bewijzen dat ze het bedrag dat ze ontvangen door die verdeling, gebruiken voor de financiering van vervangend personeel binnen hun dienst voor gezinszorg, voor wie geen andere middelen worden verkregen.<br /><br />§ 3. Het budget voor de maatregel werkdrukvermindering wordt verdeeld en toegekend nadat de VVSG aan de administratie de gegevens van het afgelopen jaar, die nodig zijn voor die verdeling, bezorgd heeft. Die gegevens moeten uiterlijk op 1 april aan de administratie bezorgd worden.<br /><br />Het subsidiebedrag wordt aan de openbare diensten toegekend samen met hun voorschot van het derde trimester.<br /><br />De bedragen, vermeld in § 1, zijn gekoppeld aan het prijsindexcijfer dat berekend en toegepast wordt overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. De basisindex is de spilindex die van toepassing is op 1 januari 2006. De bedragen worden gekoppeld aan het prijsindexcijfer op 1 januari van het jaar dat volgt op de indexsprong.
+...
 
 ### ART. I.12quinquies
 
-§ 1. Jaarlijks wordt een budget verdeeld tussen de diensten voor gezinszorg voor maatregelen inzake milieubewuste verplaatsingen. Dat budget bedraagt :<br />1° in 2008 : 300.000 euro;<br />2° vanaf 2009 : 450.000 euro.<br /><br />De diensten moeten het budget, vermeld in het eerste lid, gebruiken voor een permanent ondersteunend beleid inzake minimale verplaatsingsafstanden en -tijden van de verzorgenden en voor sensibiliserende initiatieven inzake het gebruik van verplaatsingsmiddelen. Zij beschrijven het beleid en vermelden de initiatieven die zij in dat kader nemen en plannen in de kwaliteitsplanning en het kwaliteitsverslag, als vermeld in artikel 3, C, 1°. <br /><br />§ 2. Het budget, vermeld in § 1, wordt verdeeld en toegekend op de wijze, vermeld in artikel 12ter, § 2 en § 3.<br /><br />§ 3. De bedragen, vermeld in § 1, zijn gekoppeld aan het prijsindexcijfer dat berekend en toegepast wordt overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. De basisindex is de spilindex die van toepassing is op 1 januari 2006. Het bedrag wordt gekoppeld aan het prijsindexcijfer op 1 januari van het jaar dat volgt op de indexsprong.
+...
 
 ### ART. I.13.
 
-[De subsidies vermeld in artikel 8, worden ambtshalve verminderd met de bedragen die aan de diensten effectief als vermindering worden toegekend in uitvoering van het koninklijk besluit van 17 november 1989 tot uitvoering van artikel 35 van de wet van 29 juni 1981 houdende de algemene beginselen van de sociale zekerheid voor werknemers.<br /><br />De bedragen, vermeld in het eerste lid, worden op jaarbasis beperkt tot 33.200 BEF per werknemer die meer dan 50 % van een voltijds personeelslid presteert. (Dit bedrag wordt vanaf 1 januari 2002: 823 Euro - zie B.V.R. 30 maart 2001, art. 3, B.S., 9 juni 2001)<br /><br />Deze verminderingen worden toegepast bij de berekening en bij de toekenning van de subsidies na afloop van het semester waarop de prestaties betrekking hebben.  <span class="reference">(verv. B.V.R. 5 mei 2000, art. 1, I: 1 januari 1999)</span> ]
+...
 
 ### ART. I.14.
 
-De subsidies voor de gepresteerde uren worden berekend, toegekend en gesaldeerd na afloop van het semester waarop de gepresteerde uren betrekking hebben.<br /><br />Hierop wordt elk trimester een voorschot toegekend van maximum 22,5 % van de voorziene subsidies voor het betrokken begrotingsjaar. Deze voorschotten worden berekend op basis van de gesubsidieerde prestatie-uren in het voorafgaande jaar en worden uitbetaald voor het einde van de tweede maand van het trimester waarop zij betrekking hebben.
+...
 
 ### ART. I.15.
 
-De subsidies voor de bijscholing worden berekend, toegekend en gesaldeerd na afloop van het jaar waarin de bijscholing werd gegeven.<br /><br />Hierop wordt elk trimester een voorschot toegekend van maximum 22,5 % van de voorziene subsidies voor het begrotingsjaar in kwestie. Die voorschotten worden berekend op basis van de gesubsidieerde uren bijscholing in het voorafgaande jaar en worden uitbetaald vóór het einde van de tweede maand van het trimester waarop zij betrekking hebben.<br /><br />Het aantal uren bijscholing dat in aanmerking komt voor subsidiëring wordt per dienst begrensd tot 2 % van het toegekende urencontingent. Dat urencontingent bijscholing komt boven op het toegekende urencontingent.<br />
+...
 
 ### ART. I.16.
 
-De subsidies voorzien in artikel 8, 2°, 3° en 4°, worden berekend, toegekend en gesaldeerd na afloop van het jaar waarop ze betrekking hebben.<br /><br />Hierop wordt elk trimester een voorschot toegekend van maximum 22,5 % van de voorziene subsidies voor het begrotingsjaar in kwestie. Die voorschotten worden berekend op basis van de subsidies van twee jaar geleden en worden uitbetaald vóór het einde van de tweede maand van het trimester waarop zij betrekking hebben.
+...
 
 ### ART. I.17.
 
-De subsidiebedragen vermeld in artikel 8 zijn uitgedrukt tegen 100 % op basis van de spilindex van toepassing op 1 januari 2006. Binnen de perken van de begroting worden die subsidiebedragen geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van het Rijk worden gekoppeld. De voormelde koppeling aan het indexcijfer wordt evenwel berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen.<br /><br />De aanpassing aan het in eerste lid bedoelde prijsindexcijfer wordt voor geen van de in artikel 8 vermelde subsidiebedragen beperkt.<br /><br />Als de indexsprong zich niet voordoet bij het begin van een trimester, worden de subsidies aangepast vanaf het begin van dat trimester op basis van een coëfficiënt die de verhouding weergeeft tussen het aantal maanden na de indexsprong binnen dat trimester en het totale aantal maanden binnen dat trimester.
+...
 
 ## [Afdeling 5bis Bepalingen betreffende erkende diensten waarin de activiteiten en het personeel van een kraamcentrum zijn geïntegreerd (ing. B.V.R. 17 januari 2003, art. 5)]
 
 ### ART. I.17bis.
 
-De bepalingen van deze afdeling zijn van toepassing op de erkende diensten voor gezinszorg die de activiteiten en het personeel van een kraamcentrum hebben overgenomen en waaraan bijkomende subsidiabele uren werden toegekend overeenkomstig het besluit van de Vlaamse regering van 17 januari 2003 betreffende de integratie van kraamcentra binnen diensten voor gezinszorg.  <span class="reference">(ing. B.V.R. 17 januari 2003, art. 5, I: 1 januari 2003)</span> ]
+...
 
 ### ART. I.17ter.
 
-[In afwijking van artikel 3, B , 2°, 4° en 6°, kunnen de personeelsleden die van het kraamcentrum werden overgenomen, binnen de dienst met behoud van hun functie van verzorgend, begeleidend of leidinggevend personeelslid tewerkgesteld worden, ongeacht het diploma, getuigschrift, attest of brevet waarover zij beschikken (ing. BVR 17 januari 2003, art. 5, I: 1 januari 2003)].
+...
 
 ### ART. I.17quater.
 
-Onverminderd de toepassing van artikel 12 kan de dienst voor de periode van 1 januari 2003 tot en met 31 december 2004 aanspraak maken op een uitbreiding van het aantal uren die met gepresteerde uren worden gelijkgesteld. Het totale aantal van die bijkomende gelijkgestelde uren wordt begrensd tot 5 % van de aan de dienst toegekende bijkomende subsidiabele uren, bedoeld in artikel 17bis.<br /><br />De uren die met gepresteerde uren kunnen worden gelijkgesteld worden vermeld in artikel 12, eerste lid.<br /><br />De minister bepaalt de wijze van rapportering over de gelijkgestelde uren.  <span class="reference">(ing. B.V.R. 17 januari 2003, art. 5, I: 1 januari 2003)</span> ]
+...
 
 ## Afdeling 6 Overgangsbepalingen
 
 ### ART. I.18.
 
-De voorzieningen die op de datum van inwerkingtreding van dit besluit erkend en gesubsidieerd zijn als diensten voor gezins- en bejaardenhulp, worden geacht erkend te zijn als diensten voor gezinszorg conform de bepalingen van dit besluit. Zij moeten zich uiterlijk één jaar na de inwerkingtreding van dit besluit aan alle erkenningsvoorwaarden hebben geconformeerd. [... (geschr. BVR 30 maart 1999, art. 4, I: 1 januari 1999)]
+...
 
 ### ART. I.19.
 
-De aanvragen voor een erkenning voor een dienst voor gezins- en bejaardenhulp, waarover op datum van de inwerkingtreding van dit besluit nog geen beslissing werd genomen, worden verder behandeld overeenkomstig de regels die voor die datum van kracht waren. In geval van erkenning worden zij erkend als dienst voor gezinszorg. Zij dienen uiterlijk één jaar na datum van het erkenningsbesluit aan alle erkenningsvoorwaarden te voldoen.
+...
 
 ### ART. I.20.
 
-[...  <span class="reference">(opgeh. B.V.R. 30 maart 1999, art. 5, I: 1 januari 1999)</span> ]
+...
 
 ## Bijlage II Lokale dienstencentra
 
@@ -346,75 +346,75 @@ De aanvragen voor een erkenning voor een dienst voor gezins- en bejaardenhulp, w
 
 ### ART. II.1.
 
-De programmatie voor de lokale dienstencentra bestaat enerzijds uit programmacijfers en anderzijds uit evaluatiecriteria.
+...
 
 ### ART. II.2.
 
-De programmacijfers voor de lokale dienstencentra worden bepaald als volgt: in een gemeente van het Nederlandse taalgebied en van het tweetalige gebied Brussel-Hoofdstad kan per begonnen schijf van 15.000 inwoners één dienstencentrum worden opgericht.<br /><br />Voor de toepassing van de programmacijfers wordt uitgegaan van de bevolkingsprojectie voor het vijfde jaar, volgend op het jaar van het indienen van de erkenningsaanvraag.<br /><br />De bevolkingsprojectie, bedoeld in het tweede lid, wordt door de minister vastgelegd en dient ten minste aan volgende voorwaarden te voldoen:<br /><br />1° ze is per afzonderlijk kalenderjaar opgesteld;<br /><br />2° ze is specifiek voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad berekend;<br /><br />3° ze is regionaal gedifferentieerd tot op het niveau van de gemeenten binnen het Nederlandse taalgebied.
+...
 
 ### ART. II.3.
 
-De evaluatiecriteria voor de lokale dienstencentra worden door de minister vastgelegd. Hij houdt daarbij minstens rekening met:<br /><br />1° de verhouding voor de gemeente in kwestie tussen enerzijds het programmacijfer, en anderzijds het totale aantal erkende lokale dienstencentra en de door schorsing van het erkenningsdossier geplande lokale dienstencentra, plus het totale aantal lokale dienstencentra waarvoor een ontvankelijke, nog niet afgehandelde, erkenningsaanvraag ingediend werd die voldoet aan de programmatie;<br /><br />2° de datum van indienen van de ontvankelijke erkenningsaanvraag;<br /><br />3° de ligging en de bereikbaarheid van het lokaal dienstencentrum waarvoor een erkenningaanvraag is ingediend;<br /><br />4° het toekomstige profiel van de gebruikers van het lokaal dienstencentrum waarvoor een erkenning wordt aangevraagd;<br /><br />5° de samenwerkingsverbanden met andere welzijnsvoorzieningen;<br /><br />6° de geografische spreiding van de lokale dienstencentra.
+...
 
 ## Afdeling 2 Specifieke erkenningsvoorwaarden
 
 ### ART. II.4.
 
-Onverminderd de toepassing van artikel 6 en 7 van het decreet, zijn op de lokale dienstencentra volgende specifieke erkenningsvoorwaarden van toepassing:<br /><br />A. Voorwaarden betreffende de hulp- en dienstverlening<br /><br />1° het lokaal dienstencentrum organiseert activiteiten van algemeen-informatieve aard. Dit zijn activiteiten die erop gericht zijn aan een individuele gebruiker of aan een groep gebruikers informatie over te dragen over onderwerpen die relevant zijn voor het behoud of de verhoging van de zelfstandigheid of de emancipatie van de gebruiker(s) en/of die bijdragen tot de integratie van de gebruiker in de lokale leefgemeenschap. In dit kader dient het lokaal dienstencentrum:<br /><br />a) een werking uit te bouwen, waarbij de bewoners van de lokale leefgemeenschap uitgenodigd worden om advies en informatie te vragen;<br /><br />b) jaarlijks in zijn lokalen minstens tien activiteiten in te richten, tijdens dewelke op actieve wijze informatie verschaft wordt aan een groep gebruikers;<br /><br />c) op minstens drie andere wijzen aan de bewoners van de lokale leefgemeenschap algemene informatie aan te bieden;<br /><br />d) in staat te zijn de gebruikers toe te leiden naar de meest geschikte persoon of voorziening. Hiervoor beschikt het over een geactualiseerde sociale kaart;<br /><br />2° een lokaal dienstencentrum organiseert activiteiten van recreatieve aard. Dit zijn activiteiten ten behoeve van een individuele gebruiker of een groep gebruikers, die gericht zijn op ontmoeting, ontspanning en zinvolle tijdsbesteding, en tot doel hebben het sociaal netwerk te versterken.<br /><br />In de ontmoetingsruimte, zoals bedoeld in punt D, 2°, is te allen tijde een vrijblijvend aanbod van recreatieve activiteiten ter beschikking.<br /><br />Het centrum biedt jaarlijks minstens 75 groepsactiviteiten van recreatieve aard aan. Deze activiteiten moeten verspreid zijn over minstens vijf verschillende soorten;<br /><br />3° een lokaal dienstencentrum biedt activiteiten van algemeen vormende aard aan. Deze activiteiten zijn gericht op de persoonlijke ontwikkeling en de verrijking op vlak van kennis en/of vaardigheden van de gebruikers.<br /><br />Het centrum biedt jaarlijks minstens 100 groepsactiviteiten van algemeen vormende aard aan. Deze activiteiten moeten verspreid zijn over minstens vijf verschillende onderwerpen;<br /><br />4° ...<br /><br />5° een lokaal dienstencentrum verricht minstens vijf van de negen hieronder opgesomde optionele werkzaamheden, hetzij in eigen beheer, hetzij bij middel van een samenwerkingscontract met derden:<br /><br />a) aanbieden van warme maaltijden die kunnen worden genuttigd in een daartoe aangepaste ruimte in het lokaal dienstencentrum en/of organiseren van het thuis bedelen van maaltijden. Bij het aanbieden van deze maaltijden moet het dienstencentrum zich minstens richten naar de maatschappelijk zwakkere bewoners van de lokale buurt;<br /><br />b) aanbieden van hulp bij boodschappen ten aanzien van gebruikers die door onvoldoende mogelijkheden tot zelfzorg niet meer in staat zijn om hun persoonlijke administratieve en huishoudelijke boodschappen te doen;<br /><br />c) aanbieden van hulp bij huishoudelijke klussen, dit wil zeggen het organiseren, het ondersteunen of opvolgen van kleine praktische taken in verband met het huishouden of het huis van de gebruiker;<br /><br />d) aanbieden van buurthulp, dit wil zeggen het organiseren, ondersteunen en opvolgen van activiteiten en initiatieven die het sociale netwerk, de communicatie en het veiligheidsgevoel versterken;<br /><br />e) nemen of ondersteunen van initiatieven die de mobiliteit van de lokale bewoners tot stand brengen of verhogen;<br /><br />f) uitlenen van personenalarmtoestellen;<br /><br />g) organiseren van de dienstverlening van een personenalarmcentrale;<br /><br />h) organiseren van activiteiten voor specifieke doelgroepen. Een specifieke doelgroep bestaat uit bewoners uit de lokale buurt die omwille van een of meerdere gezamenlijke kenmerken een specifieke aanpak vergen van het dienstencentrum voor wat betreft het ondersteunen van deze bewoners in hun specifieke noden wat betreft de thuiszorg en/of het verhogen van de zelfstandigheid, de emancipatie en de integratie in de lokale leefgemeenschap.<br /><br />i) aanbieden van hulp bij activiteiten van het dagelijkse leven, inzonderheid hygiënische zorg. Die hulp moet aangeboden worden in de eigen lokalen en onder minstens twee vormen;<br /><br />6° de door het lokaal dienstencentrum aangewende toewijzingscriteria voor hulp- en dienstverlening mogen geen betrekking hebben op:<br /><br />a) de ideologische, filosofische en godsdienstige overtuiging van de gebruikers;<br /><br />b) het lidmaatschap van de gebruiker bij een organisatie of groepering;<br /><br />c) het al of niet een beroep doen door de gebruiker op andere hulp- en dienstverleningsvormen;<br /><br />d) de financiële draagkracht van de gebruiker, tenzij dit zou inhouden dat het centrum zich prioritair richt naar gebruikers met een verhoogd risico op verminderde welzijnskansen;<br /><br />7° de minister kan nadere regels betreffende de opgelegde en optionele werkzaamheden vastleggen.<br /><br />B. Voorwaarden betreffende het personeel<br /><br />1° een lokaal dienstencentrum beschikt over minstens één 0,5 equivalent centrumleider, die moet beschikken over een diploma van het hoger onderwijs;<br /><br />2° de centrumleider moet jaarlijks minstens 10 uren bijscholing volgen over voor het lokaal dienstencentrum relevante onderwerpen.<br /><br />C. Voorwaarden betreffende de werking<br /><br />1° het lokaal dienstencentrum staat minstens 32 uur per week open als opvang- en ontmoetingscentrum voor de gebruikers en dit met een passende spreiding over alle werkdagen;<br /><br />1°bis om de kwaliteit van de hulp- en dienstverlening te garanderen en te bestendigen maakt het lokaal dienstencentrum een kwaliteitshandboek op. Dat handboek bevat minstens een inleiding, een weergave van het door de voorziening gevoerde kwaliteitsbeleid en een weergave van het kwaliteitssysteem. De minister bepaalt de minimale kwaliteitseisen en de minimale vereisten waaraan het kwaliteitshandboek en het kwaliteitssysteem moeten voldoen. Het kwaliteitshandboek kan door de administratie worden opgevraagd;<br /><br />2° een lokaal dienstencentrum bezorgt jaarlijks voor 1 mei de volgende documenten aan de administratie : <br />a) het jaarverslag van het voorbije werkjaar; <br />b) de kwaliteitsplanning voor het lopende jaar;<br /><br />3° het jaarverslag bevat de registratiegegevens over de activiteiten van het voorbije werkjaar. De registratiegegevens vermelden onderwerp, doel, vorm, frequentie, intensiteit van de activiteiten en de bereikte doelgroep. Het jaarverslag bevat ook een evaluatie van de kwaliteitsplanning;<br /><br />4° de kwaliteitsplanning bevat een omschrijving van de activiteiten die worden ontplooid om de doelstellingen, de kwaliteitseisen en het kwaliteitssysteem te bepalen en te realiseren. Daarnaast bevat de kwaliteitsplanning ook elke wijziging van de optionele activiteiten; <br /><br />5° [de minister kan de minimale inhoud van het jaarverslag en de kwaliteitsplanning, de vorm ervan en de wijze waarop het aan de administratie bezorgd moet worden, nader bepalen;  <span class="reference">(verv. B.V.R. 1 februari 2002, art. 1, I: 1 januari 2002)</span> ]<br /><br />6° het lokaal dienstencentrum richt een centrumraad op met als opdracht op eigen initiatief of op verzoek van de centrumleider advies uit te brengen over de algemene werking van het lokaal dienstencentrum, met name over alle vormen van dienstverlening die ingericht of verstrekt worden, over het activiteitenprogramma en over het jaarverslag.<br /><br />De centrumraad, bedoeld in het eerste lid, 6°, is samengesteld uit de centrumleider en uit ten minste acht leden van wie minstens de helft gebruikers van het dienstencentrum zijn. De centrumraad vergadert minstens eenmaal per semester.<br /><br />D Voorwaarden betreffende de infrastructuur<br /><br />1° een lokaal dienstencentrum beschikt over duidelijk herkenbare en aaneensluitende lokalen, die gemakkelijk toegankelijk zijn voor rolstoelgebruikers, ingericht volgens de noodwen-digheden van de opgelegde en optionele werkzaamheden van het centrum;<br /><br />2° voor de organisatie van de activiteiten, bedoeld in punt A, 2°, dient het lokaal diensten-centrum te beschikken over een aangepaste en voldoende grote ontmoetingsruimte die minstens 32 uur per week toegankelijk moet zijn;<br /><br />3° de minister kan de minimale normen nader bepalen, waaraan de gebouwen van het lokaal dienstencentrum moeten voldoen.
+...
 
 ## Afdeling 3 Gegevens vermeld in en stukken gevoegd bij het beleidsplan
 
 ### ART. II.5.
 
-In het beleidsplan, vermeld in artikel 6, 2°, van dit besluit, worden de volgende gegevens opgenomen : <br />1° de volledige identiteit van de aanvrager;<br />2° een toelichting waarom de aanvrager een lokaal dienstencentrum wil uitbaten;<br />3° de omschrijving van het werkgebied; <br />4° een stappenplan waarin omschreven staat op welke wijze het lokaal dienstencentrum aan de erkenningsvoorwaarden, vastgesteld in hoofdstuk II, afdeling I, van dit besluit, zal voldoen.<br />
+...
 
 ### ART. II.6.
 
-Bij het beleidsplan, vermeld in artikel 6, 2°, van dit besluit, worden de volgende stukken gevoegd :<br />1° de statuten en de eventuele wijzigingen ervan, indien van toepassing;<br />2° de rechtsgeldige beslissing van de initiatiefnemer om een lokaal dienstencentrum uit te baten;<br />3° de rechtsgeldige beslissing van de initiatiefnemer om een erkenningsaanvraag voor een lokaal dienstencentrum in te dienen. Indien de initiatiefnemer de erkenningsprocedure tijdelijk wil opschorten, zoals is vastgesteld in artikel 11, § 1, van dit besluit, moet dat expliciet in die beslissing vermeld worden. In dat geval moet ook aangegeven worden op welke wijze, in welke fasen en eventueel met welke middelen het lokaal dienstencentrum gerealiseerd zal worden;<br />4° een plan van de gemeente met de aanduiding van de exacte inplantingsplaats van het te realiseren lokaal dienstencentrum;<br />5° een omschrijving van die inplantingsplaats;<br />6° het bewijs dat de initiatiefnemer op de aangeduide locatie een lokaal dienstencentrum kan realiseren of er over de nodige lokalen kan beschikken. Het kan gaan om een eigendomsbewijs, een bewijs van zakelijk of genotsrecht, een voor ten minste drie maanden geldende aankoopoptie of een principiële beslissing tot onteigening indien de initiatiefnemer een openbaar bestuur is;<br />7° het bewijs dat de locatie stedenbouwkundig in aanmerking komt om er het geplande initiatief te realiseren in geval van nieuwbouw, uitbreiding, verbouwing of ingebruikname van een bestaand gebouw of een deel ervan;<br />8° indien de erkenningsprocedure niet wordt opgeschort :<br />a) een plan met de inplanting van de lokalen, alsook de afmetingen en de bestemming ervan;<br />b) het bewijs dat het lokaal dienstencentrum voldoet aan de voorwaarden voor de infrastructuur, vermeld in artikel 4, D;<br />c) een lijst van het personeel, met vermelding van hun kwalificaties en hun wekelijkse arbeidsduur;<br />d) de samenwerkingsovereenkomsten met relevante welzijnsvoorzieningen uit de regio.<br />
+...
 
 ## Afdeling 4 Subsidiëring
 
 ### ART. II.7.
 
-§ 1. De subsidie-enveloppe voor een lokaal dienstencentrum dat in het Vlaamse Gewest ligt, bedraagt 26.423,47 euro per kalenderjaar. De subsidie-enveloppe voor een lokaal dienstencentrum dat in het Brusselse Hoofdstedelijke Gewest ligt, bedraagt 31.683,88 euro per kalenderjaar.<br /><br />Vanaf 1 januari 2007 worden de bedragen, vermeld in het eerste lid, vervangen door de bedragen 26.553,64 euro voor een lokaal dienstencentrum dat in het Vlaamse Gewest ligt, en 31.814,05 euro voor een lokaal dienstencentrum dat in het Brusselse Hoofdstedelijke Gewest ligt.<br /><br />Vanaf 1 januari 2008 worden de bedragen, vermeld in het eerste lid, vervangen door de bedragen 26.682,31 euro voor een lokaal dienstencentrum dat in het Vlaamse Gewest ligt, en 31.942,72 euro voor een lokaal dienstencentrum dat in het Brusselse Hoofdstedelijke Gewest ligt.<br /><br />Vanaf 1 januari 2009 worden de bedragen, vermeld in het eerste lid, vervangen door de bedragen 26.808,84 euro voor een lokaal dienstencentrum dat in het Vlaamse Gewest ligt, en 32.069,25 euro voor een lokaal dienstencentrum dat in het Brusselse Hoofdstedelijke Gewest ligt.<br /><br />Vanaf 1 januari 2010 worden de bedragen, vermeld in het eerste lid, vervangen door de bedragen 26.936,24 euro voor een lokaal dienstencentrum dat in het Vlaamse Gewest ligt, en 32.196,65 euro voor een lokaal dienstencentrum dat in het Brusselse Hoofdstedelijke Gewest ligt.<br /><br />§ 2. Als een lokaal dienstencentrum de werkzaamheden, vermeld in artikel 4, A, 5°, f en g, verricht, kan de subsidie-enveloppe, vermeld in § 1, worden verhoogd met een bedrag van 495,78 euro (vierhonderdvijfennegentig euro achtenzeventig cent) per personenalarmtoestel dat door het centrum wordt aangekocht en dat ter beschikking zal worden gesteld van een zelfstandig wonende gebruiker. Het lokaal dienstencentrum wordt geacht hierbij voor de gebruiker aanvaardbare en transparante tarieven te hanteren. De minister kan hiervoor de nadere regels bepalen. Jaarlijks stelt de minister, binnen de perken van de beschikbare kredieten, het totale bedrag vast dat besteed kan worden aan de subsidiëring van de personenalarmtoestellen. <br /><br />De minister bepaalt:<br />1° de technische en functionele vereisten waaraan de personenalarmtoestellen moeten voldoen;<br />2° de procedure voor het toekennen van de aanvullende subsidie;<br />3° de programmatie waaraan de verdeling van de personenalarmtoestellen verbonden is.
+...
 
 ### ART. II.8.
 
-Het prioriteitenschema voor de lokale dienstencentra houdt minstens rekening met:<br /><br />1° de datum van het erkenningsbesluit;<br /><br />2° de geografische spreiding van de lokale dienstencentra;<br /><br />3° de mate waarin het lokaal dienstencentrum in de periode voorafgaand aan de datum van het indienen van de ontvankelijke erkenningsaanvraag reeds actief was als lokaal dienstencentrum.
+...
 
 ## Afdeling 5 Overgangsbepalingen
 
 ### ART. II.9.
 
-Tenzij zij uiterlijk op 31 maart 1999 een aanvraag hebben ingediend om als regionaal dienstencentrum te worden erkend, worden de voorzieningen die op datum van inwerkingtreding van dit besluit als dienstencentrum erkend zijn krachtens de decreten inzake voorzieningen voor bejaarden, gecoördineerd op 18 december 1991, geacht als lokaal dienstencentrum erkend te zijn conform de bepalingen van dit besluit. Zij behouden hun erkenning tot en met 31 december 2000. Indien zij verder voldoen aan de bepalingen inzake de werkzaamheden van de dienstencentra zoals bepaald in de voornoemde decreten ontvangen zij een subsidie-enveloppe van 500.000 fr. indien het dienstencentrum opgericht is door een vereniging zonder winstoogmerk of een openbaar bestuur in het tweetalige gebied Brussel-Hoofdstad, van 150.000 fr. per jaar indien het lokaal dienstencentrum opgericht is door een openbaar bestuur in het Nederlandse taalgebied, en van 250.000 fr. indien het dienstencentrum opgericht is door een vereniging zonder winstoogmerk in het Nederlandse taalgebied.
+...
 
 ### ART. II.10.
 
-[De voorzieningen die al dan niet erkend zijn op datum van  <span class="reference">(verv. B.V.R. 8 juni 1999, art. 2, I: 1 januari 1999)</span> ] inwerkingtreding van dit besluit en die kunnen aantonen dat zij op die datum gedurende minstens één jaar als lokaal dienstencentrum werkzaam waren kunnen, indien zij uiterlijk op 31 maart 1999 een aanvraag hebben ingediend om als lokaal dienstencentrum te worden erkend, vanaf de datum van verzending van hun erkenningsaanvraag worden erkend en gesubsidieerd overeenkomstig de bepalingen van dit besluit. Artikel 13, § 1, tweede lid, van dit besluit, is niet van toepassing voor de subsidiëring van deze voorzieningen. In geval van erkenning kan hen een subsidie-enveloppe voor het volledige jaar 1999 worden toegekend.
+...
 
 ### ART. II.11.
 
-De in artikel 9 bedoelde voorzieningen, die een aanvraag hebben ingediend om als regionaal dienstencentrum te worden erkend, blijven in de programmatie voor de lokale dienstencentra opgenomen tot aan hun erkenning als regionaal dienstencentrum. Indien zij niet als regionaal dienstencentrum worden erkend, zijn de bepalingen van artikel 9 op hen van overeenkomstige toepassing.
+...
 
 ### ART. II.12.
 
-De dienstencentra die krachtens artikelen 9 en 11 erkend blijven tot en met 31 december 2000 komen bij voorrang voor erkenning en subsidiëring als lokaal dienstencentrum in aanmerking, indien zijn vóór 1 januari 2000 een aanvraag tot erkenning als lokaal dienstencentrum hebben ingediend.
+...
 
 ### ART. II.13.
 
-[...  <span class="reference">(opgeh. B.V.R. 1 februari 2002, art. 2, I: 1 januari 2002)</span> ]
+...
 
 ### ART. II.14.
 
-In afwijking van artikel 4, D, 1° dienen de lokale dienstencentra die op datum van de inwerkingtreding van dit besluit reeds werkzaam zijn en de dienstencentra waarvoor op datum van de inwerkingtreding van dit besluit reeds bouwwerken gestart of voltooid zijn, aan de voorwaarde inzake de gemakkelijke toegankelijkheid voor rolstoelgebruikers te voldoen op de datum, door de minister te bepalen.
+...
 
 ### ART. II.15.
 
-De aanvragen voor een erkenning als dienstencentrum waarover op datum van de inwerkingtreding van dit besluit nog niet werd beslist, worden verder behandeld krachtens de decreten inzake voorzieningen voor bejaarden, gecoördineerd op 18 december 1991. In geval van erkenning zijn artikel 9 en artikel 12 zijn van overeenkomstige toepassing.
+...
 
 ### ART. II.16.
 
-In afwijking van artikel 4, B, 1°, mag een lokaal dienstencentrum dat op 31 december 1998 erkend was krachtens de decreten inzake voorzieningen voor bejaarden, gecoördineerd op 18 december 1991, verder geleid worden door de centrumleider die op voormelde datum met de leiding van het dienstencentrum was belast, ook al beschikt die persoon niet over een diploma van minstens het niveau van het niet-universitair hoger onderwijs.  <span class="reference">(ing. B.V.R. 8 juni 1999, art. 3, I: 1 januari 1999)</span> ]
+...
 
 ## Bijlage III Regionale dienstencentra
 
@@ -422,51 +422,51 @@ In afwijking van artikel 4, B, 1°, mag een lokaal dienstencentrum dat op 31 dec
 
 ### ART. III.1.
 
-Het programma voor de regionale dienstencentra bestaat enerzijds uit programmacijfers en anderzijds uit evaluatiecriteria.
+...
 
 ### ART. III.2.
 
-Het maximale aantal te erkennen regionale dienstencentra wordt bepaald op 1 per 100.000 inwoners per provincie en voor het tweetalige gebied Brussel-Hoofdstad. De minister bepaalt op basis van de bevolkingscijfers per provincie en tweetalige gebied Brussel-Hoofdstad het aantal regio's dat in aanmerking komt voor het programmacijfer van regionale dienstencentra. De minister bepaalt per regio het maximale aantal te erkennen regionale dienstencentra.<br /><br />Voor de toepassing van de programmacijfer wordt uitgegaan van de bevolkingsprojectie voor het vijfde jaar, volgende op het jaar van het indienen van de erkenningsaanvraag.<br /><br />De bevolkingsprojectie, bedoeld in het tweede lid, wordt door de minister vastgelegd en de resultaten ervan dienen ten minste aan volgende voorwaarden te voldoen:<br /><br />1° ze zijn per afzonderlijk kalenderjaar opgesteld;<br /><br />2° ze zijn specifiek voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad berekend;<br /><br />3° ze zijn opgesteld op het niveau van de provincies.
+...
 
 ### ART. III.3.
 
-De evaluatiecriteria voor de regionale dienstencentra worden door de minister vastgelegd. Hij houdt daarbij minstens rekening met:<br /><br />1° de verhouding voor de regio in kwestie tussen enerzijds het programmacijfer in kwestie, en anderzijds het totale aantal erkende regionale dienstencentra en de door schorsing van het erkenningsdossier geplande regionale dienstencentra, plus het totale aantal regionale dienstencentra waarvoor een ontvankelijke, nog niet afgehandelde, erkenningsaanvraag ingediend werd, die voldoet aan de programmatie;<br /><br />2° de datum van het indienen van de ontvankelijke erkenningsaanvraag;<br /><br />2°bis het toekomstige profiel van de gebruikers van het regionaal dienstencentrum waarvoor een erkenning wordt aangevraagd;<br /><br />3° de geografische spreiding van de regionale dienstencentra binnen de regio in kwestie;<br /><br />4° de samenwerkingsverbanden met andere welzijnsvoorzieningen.
+...
 
 ## Afdeling 2 Specifieke erkenningsvoorwaarden
 
 ### ART. III.4.
 
-Onverminderd de toepassing van de artikel 18 en 9 van het decreet, zijn op de regionale dienstencentra volgende specifieke erkenningsvoorwaarden van toepassing:<br /><br />A. Voorwaarden betreffende de hulp- en dienstverlening<br /><br />1° het regionaal dienstencentrum is in staat om op elke informatievraag over een voorziening uit de regio en over de sociale tegemoetkomingen een antwoord te formuleren of, indien nodig of gewenst, de vraagsteller door te verwijzen naar de meest geschikte persoon of voorziening die de informatievraag kan beantwoorden;<br /><br />2° het regionaal dienstencentrum beschikt over of heeft toegang tot een geactualiseerde databank over op zijn minst:<br /><br />a) de erkende voorzieningen uit de regio;<br /><br />b) de sociale tegemoetkomingen in verband met de thuiszorg;<br /><br />c) de vrijwilligersorganisaties uit de regio die vrijwilligerszorg aanbieden;<br /><br />3° het regionaal dienstencentrum is in staat om op elke individuele adviesvraag over materiële en immateriële hulp- en dienstverlening, gesteld vanuit een specifieke thuiszorgsituatie, een antwoord te formuleren of, indien nodig of gewenst, de adviesvrager door te verwijzen naar de meest geschikte persoon of voorziening die de adviesvraag kan beantwoorden;<br /><br />4° het regionaal dienstencentrum richt, verspreid over het door haar omschreven werkgebied dat minstens de regio omvat zoals bepaald door de minister voor de berekening van het programmatiecijfer, per kalenderjaar minimaal 40 informatie- en/of vormingscursussen en/of bijeenkomsten in omtrent voor de thuiszorg relevante onderwerpen voor mantelzorgers, vrijwilligers en/of gebruikers en, waar mogelijk, in samenwerking met bestaande initiatieven uit het werkgebied. Tijdens het kalenderjaar dat samenvalt met het eerste werkjaar dient het regionaal dienstencentrum de inrichting van 20 informatie- en/of vormingscursussen en/of bijeenkomsten te realiseren. De minister kan de nadere regels met betrekking tot de inrichting van deze informatie- en/of vormingscursussen en/of bijeenkomsten bepalen;<br /><br />5° het regionaal dienstencentrum maakt per jaar minstens twee informatiebrochures of gelijkgestelden op omtrent een voor de thuiszorg relevant onderwerp en stelt ze ter beschikking van mantelzorgers, vrijwilligers en gebruikers;<br /><br />6° het regionaal dienstencentrum is in staat om elke vraag naar vrijwilligerszorg voor een specifieke thuiszorgsituatie toe te leiden naar een vrijwilliger, een voorziening of een erkende organisatie die vrijwilligerszorg aanbiedt;<br /><br />7° het regionaal dienstencentrum biedt per kalenderjaar aan minstens 50 gebruikers, die getroffen worden door een ernstig langdurig verminderd zelfzorgvermogen, een materiële of immateriële hulp- of dienstverlening aan. Hiervoor legt het dienstencentrum per gebruiker een dossier aan. De minister kan de nadere regels met betrekking tot de inhoud en de vorm van dit dossier bepalen;<br /><br />8° het regionaal dienstencentrum verricht binnen het door haar beschreven werkgebied, dat minstens de regio omvat zoals bepaald door de minister voor de berekening van het programmatiecijfer minstens drie van de zes hieronder opgesomde optionele werkzaamheden, hetzij in eigen beheer, hetzij bij middel van een samenwerkingscontract met derden:<br /><br />a) het per kalenderjaar uitlenen en onderhouden van minstens 60 personenalarmtoestellen;<br /><br />b) het organiseren van de dienstverlening van een personenalarmcentrale. Het dienstencentrum beschikt per kalenderjaar voor minstens 60 gebruikers een verwijzingslijst;<br /><br />c) het uitlenen van en het verstrekken van advies over ten minste 20 verschillende soorten hulpmiddelen voor de gebruikers of ter ondersteuning van specifieke thuiszorgsituaties;<br /><br />d) het per kalenderjaar aan minstens 30 gebruikers advies verstrekken omtrent aanpassingen van de woningen en over de technologie aan personen die zich in een thuiszorgsituatie bevinden;<br /><br />e) het per kalenderjaar aan minstens 30 gebruikers een ergotherapeutische begeleiding aanbieden. Deze werkzaamheid wordt uitgevoerd door een ergotherapeut;<br /><br />f) het per kalenderjaar organiseren van ten minste 10 specifieke en te onderscheiden activiteiten gericht op personen die behoren tot een duidelijk te definiëren doelgroep met betrekking tot specifieke thuiszorgsituaties.<br /><br />...<br /><br />9° de door het regionaal dienstencentrum aangewende toewijzingscriteria voor hulp- en dienstverlening mogen geen betrekking hebben op:<br /><br />a) de ideologische, filosofische en godsdienstige overtuiging van de gebruiker;<br /><br />b) het lidmaatschap van de gebruiker bij een organisatie of groepering;<br /><br />c) het al of niet een beroep doen door de gebruiker op andere hulp- en dienstverleningsvormen;<br /><br />d) de financiële draagkracht van de gebruiker, tenzij dit zou inhouden dat het dienstencentrum zich prioritair richt naar gebruikers met een verhoogd risico op verminderde welzijnskansen;<br /><br />10° de minister kan de nadere regels betreffende de opgelegde en optionele werkzaamheden vastleggen;<br /><br />[11° in afwijking op het bepaalde in 4° en 8°, kan aanvaard worden dat het regionaal dienstencentrum de activiteiten, beschreven onder 4° en 8° beperkt tot een werkingsgebied dat niet de hele regio omvat. Deze afwijking is enkel mogelijk als de initiatiefnemer aantoont dat één of meerdere andere regionale dienstencentra binnen de regio in kwestie een werking als regionaal dienstencentrum uitbouwen of uitgebouwd hebben, waardoor deze andere regionale dienstencentra samen met het dienstencentrum in kwestie de volledig regio dekken.  <span class="reference">(ing. B.V.R. 8 juni 1999, art. 4, I: 1 januari 1999)</span> ]<br /><br />B. Voorwaarden betreffende het personeel<br /><br />1° het regionaal dienstencentrum beschikt minstens over één 0,75 equivalent centrumleider, die moet beschikken over een diploma van het hoger onderwijs; <br /><br />2° de centrumleider volgt jaarlijks minstens 16 uren bijscholing omtrent voor het dienstencentrum relevante onderwerpen.<br /><br />C. Voorwaarden betreffende de werking<br /><br />1° het regionaal dienstencentrum is minstens 32 uur per week bereikbaar. Minstens 16 uur daarvan is het ook effectief toegankelijk voor de gebruikers, de mantelzorgers en de vrijwilligers; <br /><br />1°bis om de kwaliteit van de hulp- en dienstverlening te garanderen en te bestendigen maakt het regionaal dienstencentrum een kwaliteitshandboek op. Dat handboek bevat minstens een inleiding, een weergave van het door de voorziening gevoerde kwaliteitsbeleid en een weergave van het kwaliteitssysteem. De minister bepaalt de minimale kwaliteitseisen en de minimale vereisten waaraan het kwaliteitshandboek en het kwaliteitssysteem moeten voldoen. Het kwaliteitshandboek kan door de administratie worden opgevraagd;<br /><br />2° het regionaal dienstencentrum kan activiteiten ontwikkelen in een werkgebied dat het omschrijft en dat ruimer kan zijn dan de door de minister bepaalde regio waarop het programmacijfer wordt berekend en erkend. In dat geval vermeldt het erkenningsbesluit het werkgebied;<br /><br />3° een regionaal dienstencentrum bezorgt jaarlijks voor 1 mei de volgende documenten aan de administratie :<br />a) het jaarverslag van het voorbije werkjaar;<br />b) de kwaliteitsplanning voor het lopende jaar;<br /><br />4° het jaarverslag bevat de registratiegegevens over de activiteiten van het voorbije werkjaar. De registratiegegevens vermelden onderwerp, doel, vorm, frequentie, intensiteit van de activiteiten en de bereikte doelgroep. Het jaarverslag bevat ook een evaluatie van de kwaliteitsplanning;<br /><br />5° de kwaliteitsplanning bevat een omschrijving van de activiteiten die worden ontplooid om de doelstellingen, de kwaliteitseisen en het kwaliteitssysteem te bepalen en te realiseren. Daarnaast bevat de kwaliteitsplanning ook elke wijziging van de optionele activiteiten;<br /><br />6° [de minister kan de minimale inhoud van het jaarverslag en de kwaliteitsplanning, de vorm ervan en de wijze waarop het aan de administratie bezorgd moet worden, nader bepalen.  <span class="reference">(verv. B.V.R. 1 februari 2002, art. 3, I: 1 januari 2002)</span> ]<br /><br />D. Voorwaarden betreffende de infrastructuur<br /><br />1° het regionaal dienstencentrum beschikt over duidelijk herkenbare en aaneensluitende lokalen, die gemakkelijk toegankelijk zijn voor rolstoelgebruikers, ingericht volgens de noodwendigheden van de opgelegde en optionele werkzaamheden;<br /><br />2° het gebouw is gemakkelijk bereikbaar;<br /><br />3° de minister kan de minimale normen nader bepalen waaraan de lokalen van een regionaal dienstencentrum moeten voldoen.
+...
 
 ## Afdeling 3 Gegevens vermeld in en stukken gevoegd bij het beleidsplan
 
 ### ART. III.5.
 
-In het beleidsplan, vermeld in artikel 6, 2°, van dit besluit, worden de volgende gegevens opgenomen :<br />1° de volledige identiteit van de aanvrager;<br />2° een toelichting waarom de aanvrager een regionaal dienstencentrum wil uitbaten;<br />3° de omschrijving van het werkgebied; <br />4° een stappenplan waarin omschreven staat op welke wijze het regionaal dienstencentrum aan de erkenningsvoorwaarden, vastgesteld in hoofdstuk II, afdeling I, van dit besluit, zal voldoen.<br />
+...
 
 ### ART. III.6.
 
-Bij het beleidsplan, vermeld in artikel 6, 2°, van dit besluit, worden de volgende stukken gevoegd :<br />1° de statuten en de eventuele wijzigingen ervan, indien van toepassing;<br />2° de rechtsgeldige beslissing van de initiatiefnemer om een regionaal dienstencentrum uit te baten;<br />3° de rechtsgeldige beslissing van de initiatiefnemer om een erkenningsaanvraag voor een regionaal dienstencentrum in te dienen. Indien de initiatiefnemer de erkenningsprocedure tijdelijk wil opschorten, zoals is vastgesteld in artikel 11, § 1, van dit besluit, moet dat expliciet in die beslissing vermeld worden. In dat geval moet ook aangegeven worden op welke wijze, in welke fasen en eventueel met welke middelen het regionaal dienstencentrum gerealiseerd zal worden;<br />4° een plan van de gemeente met de aanduiding van de exacte inplantingsplaats van het te realiseren regionaal dienstencentrum;<br />5° een omschrijving van die inplantingsplaats;<br />6° het bewijs dat de initiatiefnemer op de aangeduide locatie een regionaal dienstencentrum kan realiseren of er over de nodige lokalen kan beschikken. Het kan gaan om een eigendomsbewijs, een bewijs van zakelijk of genotsrecht, een voor ten minste drie maanden geldende aankoopoptie of een principiële beslissing tot onteigening indien de initiatiefnemer een openbaar bestuur is;<br />7° het bewijs dat de locatie stedenbouwkundig in aanmerking komt om er het geplande initiatief te realiseren in geval van nieuwbouw, uitbreiding, verbouwing of ingebruikname van een bestaand gebouw of een deel ervan;<br />8° indien de erkenningsprocedure niet wordt opgeschort :<br />a) een plan met de inplanting van de lokalen, alsook de afmetingen en de bestemming ervan; <br />b) het bewijs dat het regionaal dienstencentrum voldoet aan de voorwaarden voor de infrastructuur, vermeld in artikel 4, D;<br />c) een lijst van het personeel, met vermelding van hun kwalificaties en hun wekelijkse arbeidsduur;<br />d) de samenwerkingsovereenkomsten met relevante welzijnsvoorzieningen uit de regio.<br />
+...
 
 ## Afdeling 4 Subsidiëring
 
 ### ART. III.7.
 
-§ 1. De subsidie-enveloppe voor een regionaal dienstencentrum bedraagt 21.528,66 euro per kalenderjaar.<br /><br />Vanaf 1 januari 2007 wordt het bedrag, vermeld in het eerste lid, vervangen door het bedrag 21.765,09 euro.<br /><br />Vanaf 1 januari 2008 wordt het bedrag, vermeld in het eerste lid, vervangen door het bedrag 21.989,89 euro.<br /><br />Vanaf 1 januari 2009 wordt het bedrag, vermeld in het eerste lid, vervangen door het bedrag 22.202,22 euro.<br /><br />Vanaf 1 januari 2010 wordt het bedrag, vermeld in het eerste lid, vervangen door het bedrag 22.417,05 euro.<br /><br />§ 2. Als een regionaal dienstencentrum de werkzaamheden, vermeld in artikel 4, A, 8°, a en b, verricht, kan de subsidie-enveloppe, vermeld in § 1, worden verhoogd met een bedrag van 495,78 euro (vierhonderdvijfennegentig euro achtenzeventig cent) per personenalarmtoestel dat door het centrum wordt aangekocht en dat ter beschikking zal worden gesteld van een zelfstandig wonende gebruiker. Het regionaal dienstencentrum wordt geacht hierbij voor de gebruiker aanvaardbare en transparante tarieven te hanteren. De minister kan hiervoor de nadere regels bepalen.<br />Jaarlijks stelt de minister, binnen de perken van de beschikbare kredieten, het totale bedrag vast dat besteed kan worden aan de subsidiëring van de personenalarmtoestellen. <br /><br />De minister bepaalt:<br />1° de technische en functionele vereisten waaraan de personenalarmtoestellen moeten voldoen;<br />2° de procedure voor het toekennen van de bijkomende subsidie;<br />3° de programmatie waaraan de verdeling van de personenalarmtoestellen verbonden is.
+...
 
 ### ART. III.8.
 
-Het prioriteitenschema voor de regionale dienstencentra houdt minstens rekening met:<br /><br />1° de datum van het erkenningsbesluit;<br /><br />2° de geografische spreiding van de regionale dienstencentra over de provincies en het tweetalig gebied Brussel-Hoofd-stad;<br /><br />3° de mate waarin het dienstencentrum in de periode van één jaar voorafgaandelijk aan de datum van het indienen van een ontvankelijke erkenningsaanvraag reeds actief was als regionaal dienstencentrum.
+...
 
 ## Afdeling 5 Overgangsbepalingen
 
 ### ART. III.9.
 
-De regionale dienstencentra die op datum van de inwerkingtreding van dit besluit erkend zijn krachtens de decreten inzake voorzieningen voor bejaarden, gecoördineerd op 18 december 1991, en de voorzieningen die kunnen aantonen dat zij op datum van de inwerkingtreding van dit besluit gedurende minstens één jaar als regionaal dienstencentrum werkzaam waren, kunnen indien zij uiterlijk op 31 maart 1999 een ontvankelijke aanvraag hebben ingediend om als regionaal dienstencentrum te worden erkend en indien zij voldoen aan de programmatie, vanaf de datum van verzending van hun erkenningsaanvraag erkend en gesubsidieerd worden overeenkomstig de bepalingen van dit besluit. Artikel 13, § 1, tweede lid, van dit besluit, is niet van toepassing voor de subsidiëring van deze voorzieningen. In geval van erkenning kan hen een subsidie-enveloppe voor het volledige jaar 1999 worden toegekend.
+...
 
 ### ART. III.10.
 
-[...  <span class="reference">(opgeh. B.V.R. 1 februari 2002, art. 4, I: 1 januari 2002)</span> ]
+...
 
 ## Bijlage IV Dagverzorgingscentra
 
@@ -474,75 +474,75 @@ De regionale dienstencentra die op datum van de inwerkingtreding van dit besluit
 
 ### ART. IV.1.
 
-De programmatie voor de dagverzorgingscentra bestaat enerzijds uit programmacijfers voor de verblijfseenheden in dagverzorgingscentra en anderzijds uit evaluatiecriteria, met dien verstande dat elk dagverzorgingscentrum minstens zeven en maximum vijftien verblijfseenheden moet hebben.
+...
 
 ### ART. IV.2.
 
-De programmacijfers voor de verblijfseenheden in dagverzorgingscentra in het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad worden, op basis van de leeftijd van de inwoners, als volgt vastgelegd:<br /><br />1° 0,2 verblijfseenheden per 3.000 inwoners van de leeftijdsgroep van 18 tot en met 64 jaar;<br /><br />2° 1 verblijfseenheid per 3.000 inwoners van de leeftijdsgroep van 65 tot en met 69 jaar;<br /><br />3° 5 verblijfseenheden per 3.000 inwoners van de leeftijdsgroep van 70 tot en met 79 jaar;<br /><br />4° 10 verblijfseenheden per 3.000 inwoners van de leeftijdsgroep van 80 tot en met 89 jaar;<br /><br />5° 25 verblijfseenheden per 3.000 inwoners van de leeftijdsgroep vanaf 90 jaar.<br /><br />Voor de toepassing van de programmacijfers wordt uitgegaan van de bevolkingsprojectie voor het vijfde jaar, volgend op het jaar van het indienen van de erkenningsaanvraag.<br /><br />De bevolkingsprojectie, bedoeld in het tweede lid, wordt door de minister vastgelegd en dient ten minste aan volgende voorwaarden te voldoen:<br /><br />1° ze is per afzonderlijk kalenderjaar opgesteld;<br /><br />2° ze is specifiek voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad berekend;<br /><br />3° ze is regionaal gedifferentieerd tot op het niveau van de gemeenten binnen het Nederlandse taalgebied.
+...
 
 ### ART. IV.3.
 
-De evaluatiecriteria voor de dagverzorgingscentra worden door de minister vastgelegd. Hij houdt daarbij minstens rekening met:<br /><br />1° de verhouding voor de regio in kwestie tussen enerzijds het programmacijfer, en anderzijds het totale aantal van de erkende verblijfseenheden in dagverzorgingscentra en de door schorsing van het erkenningsdossier geplande verblijfseenheden in dagverzorgingscentra, plus het totale aantal van de verblijfseenheden in dagverzorgingscentra waarvoor een ontvankelijke en nog niet afgehandelde erkenningsaanvraag ingediend is en waarvan de aangevraagde verblijfseenheden voldoen aan de programmatie;<br /><br />2° het aantal verblijfseenheden in het dagverzorgingscentrum en het aantal dagverzorgingscentra per inplantingsplaats;<br /><br />3° ingeval een aanvraag wordt ingediend door een reeds erkend dagverzorgingscentrum dat voor een hogere capaciteit wenst erkend te worden: de gemiddelde bezettingsgraad van de al erkende capaciteit;<br /><br />4° de datum van indienen van de ontvankelijke erkenningsaanvraag;<br /><br />5° de functionele band met een erkend rusthuis;<br /><br />6° de geografische spreiding van de dagverzorgingscentra en van de verblijfseenheden in de dagverzorgingscentra;<br /><br />7° het toekomstige profiel van de gebruikers van het dagverzorgingscentrum waarvoor een erkenning wordt aangevraagd;<br /><br />8° de samenwerkingsverbanden met andere welzijnsvoorzieningen.<br /><br />Voor een gemeente die minder dan 10.000 inwoners boven de zestig jaar telt wordt de regio omschreven als volgt: de gemeente in kwestie en de aangrenzende gemeenten, met uitzondering van aangrenzende gemeenten die meer dan 10.000 inwoners boven de zestig jaar tellen en waarvan het programmacijfer reeds overschreden is. Voor een gemeente die minstens 10.000 inwoners boven de zestig jaar telt, is de regio de gemeente in kwestie zelf.
+...
 
 ## Afdeling 2 Specifieke erkenningsvoorwaarden
 
 ### ART. IV.4.
 
-Onverminderd de toepassing van artikel 10 en 11 van het decreet, zijn op de dagverzorgingscentra volgende specifieke erkenningsvoorwaarden van toepassing:<br /><br />A Voorwaarden betreffende de hulp- en dienstverlening:<br /><br />1° voor elke gebruiker moet het dagverzorgingscentrum een verslag ter beschikking hebben. Dit verslag moet opgemaakt zijn door een maatschappelijk werker, verbonden aan het dagverzorgingscentrum zelf, aan een openbaar bestuur of aan een erkende welzijnsvoorziening. Uit het verslag moet blijken dat, na met de gebruiker de verschillende mogelijkheden van hulpverlening te hebben onderzocht en besproken, de gebruiker beslist om in het vermelde dagverzorgingscentrum te verbijven. Bij een dringende aanvraag moet het verslag uiterlijk acht dagen na de eerste verblijfsdag ter beschikking zijn in het dagverzorgingscentrum. Wanneer tussen een nieuwe verblijfsdag en het laatste verblijf in het dagverzorgingscentrum meer dan 12 maanden zijn verlopen, moet een nieuw verslag ter beschikking zijn;<br /><br />2° in het dagverzorgingscentrum verblijven gebruikers die geen intensieve medische behandeling en toezicht nodig hebben, maar wel behoefte aan (re-)activering, verpleging, verzorging, toezicht en/of begeleiding in de activiteiten van het dagelijkse leven;<br /><br />3° elk dagverzorgingscentrum is verplicht een reglement van orde op te stellen waarin onder meer volgende punten moeten worden vermeld:<br /><br />a) het juridische statuut en de aard van de voorziening;<br /><br />b) de gebruikers voor wie het dagverzorgingscentrum bestemd is;<br /><br />c) de verblijfsvoorwaarden en de opnameprocedure;<br /><br />d) de omstandigheden die aanleiding kunnen geven tot het beëindigen van de overeenkomst, bedoeld in punt 4°, en de ontslagprocedure;<br /><br />e) de gestructureerde wijze waarop met de gebruikers wordt overlegd, de wijze waarop suggesties en bemerkingen kunnen worden ingediend en de wijze waarop ze worden behandeld;<br /><br />f) de wederzijdse rechten en plichten van de gebruikers en van het dagverzorgingscentrum.<br /><br />De bepalingen van het reglement van orde en elke latere wijziging ervan zijn onderworpen aan de goedkeuring van de administratie.<br /><br />Behalve in geval van dringende opname moet het reglement van orde bij de eerste opname aan de gebruiker en/of een vertrouwenspersoon worden overhandigd, die tekent voor ontvangst en akkoord.<br /><br />Elke wijziging van dit reglement moet aan de gebruiker of in voorkomend geval aan een vertrouwenspersoon worden overhandigd, die tekent voor ontvangst en akkoord;<br /><br />4° het dagverzorgingscentrum verbindt er zich toe niemand uit te sluiten, tenzij om reden van overmacht of om een reden en volgens de procedure, vermeld in het reglement van orde. Zorgbehoevendheid kan geen reden zijn tot weigering van verblijf in het dagverzorgingscentrum, behalve wanneer het personen betreft die:<br /><br />a) wegens hun gedragingen zwaar storend zijn voor de andere gebruikers of voor het dagverzorgingscentrum zelf;<br /><br />b) niet voldoen aan de bepalingen van punt 2°;<br /><br />c) niet ressorteren onder de beschreven doelgroep zoals vermeld in punt 3°, b).<br /><br />Indien de lichamelijke of geestelijke gezondheidstoestand van de gebruiker zodanig is dat het verblijf in het dagverzorgingscentrum niet langer meer mogelijk is, verbindt het dagverzorgingscentrum zich ertoe, in overleg met de gebruiker en met de natuurlijke of rechtspersonen die voor het verblijf instaan, te zorgen voor een passende oplossing.<br /><br />De opname- en ontslagcriteria mogen geen betrekking hebben op:<br /><br />a) de ideologische, filosofische en godsdienstige overtuiging van de gebruiker;<br /><br />b) het lidmaatschap van de gebruiker bij een organisatie of groepering;<br /><br />c) het al dan niet beroep doen door de gebruiker op andere hulp- en dienstverleningsvormen;<br /><br />d) de financiële draagkracht van de gebruiker, tenzij dit zou inhouden dat het dagverzorgingscentrum zich prioritair richt naar gebruikers met een verhoogd risico op verminderde welzijnskansen;<br /><br />5° in zijn werking dient het dagverzorgingscentrum uit te gaan van het principe dat aan de er verblijvende personen de grootst mogelijke vrijheid verleend moet worden.<br /><br />Aan elke gebruiker moet gedurende zijn verblijf een volledige filosofische, godsdienstige en politieke vrijheid gewaarborgd worden. De vrijheid van keuze van geneesheer moet worden verzekerd. Het staat de gebruiker vrij bezoek te ontvangen;<br /><br />6° de gebruiker mag in geen geval het beheer van zijn gelden en /of goederen of het bewaren ervan toevertrouwen aan het dagverzorgingscentrum, noch aan een beheerder of een personeelslid van het dagverzorgingscentrum;<br /><br />7° bij het eerste verblijf wordt tussen het dagverzorgingscentrum en de gebruiker of in voorkomend geval een vertrouwenspersoon, aangewezen door de gebruiker en niet behorend tot het dagverzorgingscentrum, een schriftelijke overeenkomst gesloten waarbij onder meer wordt vermeld:<br /><br />a) de natuurlijke of rechtspersonen die voor de betaling instaan en de wijze waarop de betaling zal gebeuren;<br /><br />b) de dagprijs. Deze bevat alle kosten voor het verblijf en de aangeboden hulp- en dienstverlening, behalve de diensten en leveringen waarvoor in de overeenkomst uitdrukkelijk een extra vergoeding wordt voorzien;<br /><br />c) de diensten en leveringen die aanleiding geven tot extra vergoeding;<br /><br />de verblijfs- en ontslagcriteria;<br /><br />8° van elke gebruiker worden, met respect voor de persoonlijke levenssfeer, de volgende gegevens bijgehouden:<br /><br />a) de volledige identiteit (naam, geboorteplaats en datum, burgerlijke staat, nationaliteit);<br /><br />b) in voorkomend geval, naam, adres en telefoonnummer van de behandelende geneesheer;<br /><br />c) naam, adres en eventueel telefoonnummer van de personen die in geval van nood dienen te worden verwittigd;<br /><br />d) in voorkomend geval, naam, adres en eventueel telefoonnummer van de vertrouwenspersoon;<br /><br />9° de gebruikers van het dagverzorgingscentrum moeten tenminste per dag een gepaste maaltijd ontvangen als zij meer dan 4 uur in het dagverzorgingscentrum verblijven;<br /><br />10° het voedsel moet in voldoende hoeveelheid beschikbaar zijn. Het moet gezond, afwisselend en bovendien aangepast zijn aan de gezondheidstoestand van de gebruikers. De dieetvoorschriften van de behandelend geneesheer moeten in acht genomen worden;<br /><br />11° de menukaart wordt voor een volledige week op een goed zichtbare plaats uitgehangen en moet gedurende tenminste één maand ter inzage worden bewaard;<br /><br />12° drinkbaar water moet in voldoende mate beschikbaar zijn;<br /><br />13° aan de gebruikers moet de hulp- en dienstverlening worden verzekerd die hun gezond-heidstoestand vereist en moet de nodige hulp worden verstrekt bij de dagelijkse handelingen van het leven;<br /><br />14° de nodige hulp moet worden verstrekt aan personen die niet in staat zijn zelfstandig in te staan voor hun hygiënische verzorging. Het dagverzorgingscentrum waakt erover dat geen enkele gebruiker hinder ondervindt van het gebrek aan zindelijkheid en hygiëne van één van de gebruikers;<br /><br />15° aan de gebruikers van het dagverzorgingscentrum moet de gelegenheid geboden worden om te rusten;<br /><br />16° alle profylactische maatregelen moeten worden getroffen tegen besmettelijke ziekten;<br /><br />17° voor iedere gebruiker moet een gebruikersdossier worden bijgehouden dat de richtlijnen, de uitvoering en de evaluatie bevat wat betreft de hulp- en dienstverlening. De minister kan de nadere regels betreffende dit dossier bepalen, onverminderd de bepalingen betreffende het beroepsgeheim en betreffende de eerbiediging van de persoonlijke levenssfeer;<br /><br />[18° het dagverzorgingscentrum biedt aan zijn gebruikers aangepast vervoer aan waarbij aan de gebruikers aangeboden wordt om thuis opgehaald te worden en om na het verblijf in het centrum terug thuis gebracht te worden.  <span class="reference">(ing. B.V.R. 8 juni 1999, art. 5, I: 1 januari 1999)</span> ]<br /><br />19° indien een dagverzorgingscentrum een aanvraag krijgt van een gebruiker, maar door gebrek aan vrije plaatsen die aanvraag niet kan beantwoorden, dan moet het dagverzorgingscentrum de gebruiker naar andere dagverzorgingscentra uit de regio verwijzen. De minister kan nadere regels voor die verwijzing bepalen. Op zijn minst moet het dagverzorgingscentrum de gebruiker een overzicht meegeven van alle erkende dagverzorgingscentra uit de regio.<br /><br />B. Voorwaarden betreffende het personeel:<br /><br />1° in het dagverzorgingscentrum worden een aantal personeelsleden tewerkgesteld die samen minstens twee voltijdse functies vertegenwoordigen. Minstens één voltijds equivalent is belast met de coördinatie van het dagverzorgingscentrum, een taak die door maximaal twee verschillende personeelsleden vervuld kan worden. De personeelsleden die belast worden met de coördinatie van het dagverzorgingscentrum, moeten beschikken over een diploma van het hoger onderwijs van een opleiding verpleegkunde, ergotherapie, kinesitherapie, logopedie of orthopedagogie. Minstens één voltijds equivalent is belast met de verzorging van de gebruikers en heeft een diploma van een verzorgende, medische of paramedische opleiding. Minstens 0,75 voltijds equivalent hiervan beschikt over een diploma of getuigschrift van een opleiding verzorgende;<br /><br />2° al het personeel dat in het dagverzorgingscentrum werkzaam is, moet ieder jaar een bijscholing volgen van minstens 10 uur over voor het dagverzorgingscentrum relevante onderwerpen. De personeelsleden die belast worden met de coördinatie van het dagverzorgingscentrum moeten daarbovenop nog minstens tien uur bijscholing volgen over het beheer van een dagverzorgingscentrum;<br /><br />3° het dagverzorgingscentrum moet voor al de personeelsleden die in het centrum tewerkgesteld zijn een getuigschrift van goed zedelijk gedrag kunnen overleggen.<br /><br />De erkenning kan worden geweigerd of ingetrokken wanneer een lid van het personeel dat in het dagverzorgingscen-trum werkzaam is in België of in het buitenland door een in kracht van gewijsde gegane rechterlijke beslissing werd veroordeeld wegens een misdrijf dat genoemd is in boek II, titel VII, hoofdstuk V, VI, en VII, titel VIII, hoofdstuk I, II, artikel 422bis, IV en VI en titel IX, hoofdstuk I en II van het Strafwetboek.<br /><br />C. Voorwaarden betreffende de werking en de inspraak van de gebruikers:<br /><br />1° in ieder dagverzorgingscentrum moet minstens éénmaal per semester een gestructureerd overleg met de gebruikers en/of hun vertrouwenspersonen worden georganiseerd. De gebruikers en de gezinsleden van de gebruikers worden hiervan in kennis gesteld en kunnen te allen tijde aan dit overleg deelnemen.<br /><br />Tijdens dit overleg kunnen de gebruikers en hun gezinsleden advies uitbrengen over de algemene werking van het dagverzorgingscentrum.<br /><br />Van dit overleg wordt een verslag gemaakt dat ter inzage ligt van de gebruikers en hun gezinsleden:<br /><br />1°bis om de kwaliteit van de hulp- en dienstverlening te garanderen en te bestendigen maakt het dagverzorgingscentrum een kwaliteitshandboek op. Dat handboek bevat minstens een inleiding, een weergave van het door de voorziening gevoerde kwaliteitsbeleid en een weergave van het kwaliteitssysteem. De minister bepaalt de minimale kwaliteitseisen en de minimale vereisten waaraan het kwaliteitshandboek en het kwaliteitssysteem moeten voldoen. Het kwaliteitshandboek kan door de administratie worden opgevraagd;<br /><br />2° de gebruikers moeten de mogelijkheid hebben om hun suggesties, bemerkingen of klachten mede te delen aan de verantwoordelijke van het dagverzorgingscentrum;<br /><br />3° na elke maand wordt voor iedere gebruiker een rekening opgemaakt waarop duidelijk de volgende gegevens zijn vermeld:<br /><br />a) de identiteit van de gebruiker;<br /><br />b) het aantal dagen verblijf;<br /><br />c) de gevraagde dagprijs;<br /><br />d) een gedetailleerde opgave van al de boven de dagprijs in rekening gebrachte extra vergoedingen (aard, aantal en bedrag van deze extra kosten);<br /><br />e) het totaal verschuldigde nettobedrag.<br /><br />Een exemplaar van die rekening wordt overhandigd aan elke natuurlijke of rechtspersoon die geheel of gedeeltelijk voor de betaling instaat.<br /><br />Voor gebruikers die het dagverzorgingscentrum slechts sporadisch bezoeken, kan de afrekening dagelijks gebeuren;<br /><br />4° het dagverzorgingscentrum staat in voor de gecoördineerde, systematische, kwantitatieve registratie van zijn werking, evenals van de gebruikers, hun normale leef- en woonsituatie, hun mantelzorgers, de aard van de zorgvraag, de geboden hulpverlening en het effect van de hulpverlening.<br /><br />Van de gebruikers dienen, met respect voor de persoonlijke levenssfeer, minstens de identiteit, verblijfsduur, reden van opname en ontslag, en het zorgprofiel te worden geregistreerd.<br /><br />Deze gegevens dienen gedurende minstens drie jaar in het centrum bewaard te blijven;<br /><br />5° een dagverzorgingscentrum bezorgt jaarlijks voor 1 mei de volgende documenten aan de administratie :<br />a) het jaarverslag van het voorbije werkjaar;<br />b) de kwaliteitsplanning voor het lopende jaar;<br /><br />6° het jaarverslag bevat de registratiegegevens over de activiteiten van het voorbije werkjaar. De registratiegegevens vermelden zowel de aard als de intensiteit van de activiteiten en de bereikte doelgroep. Het jaarverslag bevat tevens een berekening van de gemiddelde bezetting en een evaluatie van de kwaliteitsplanning. De minister kan de minimale inhoud van het jaarverslag, de vorm ervan en de wijze waarop het aan de administratie bezorgd moet worden, nader bepalen;<br /><br />7° de kwaliteitsplanning bevat een omschrijving van de activiteiten die worden ontplooid om de doelstellingen, de kwaliteitseisen en het kwaliteitssysteem te bepalen en te realiseren. De minister bepaalt de minimale vereisten waaraan de kwaliteitsplanning moet voldoen.<br /><br />D. Voorwaarden betreffende de infrastructuur:<br /><br />1° het gebouw moet voldoen aan de wettelijke veiligheidsnormen die voor dergelijke gebouwen van toepassing zijn;<br /><br />2° in het volledige dagverzorgingscentrum en ten aanzien van alle apparaten moeten de nodige beveiligingsmaatregelen worden getroffen om ongevallen te voorkomen;<br /><br />3° het dagverzorgingscentrum moet zo gezellig en zo huiselijk mogelijk worden ingericht;<br /><br />4° in de zit- en eetkamers moet het raamoppervlak ten minste één zesde bedragen van de netto vloeroppervlakte;<br /><br />5° de hoogte van de raamdorpels moet zittend een ongehinderd zicht op de buitenwereld mogelijk maken, evenwel zonder gevaar voor ongevallen;<br /><br />6° er moet minstens één zitkamer van minstens 5 m5 per erkende verblijfseenheid voor de gebruikers voorbehouden worden;<br /><br />7° de sanitaire installaties voor de gebruikers moeten bestaan uit tenminste twee toiletten die toegankelijk moeten zijn voor rolstoelgebruikers. Voor het personeel moeten afzonderlijke sanitaire installaties voorzien worden.<br /><br />De toiletten dienen een goede rechtstreekse verluchting of een degelijke ventilatie te hebben;<br /><br />8° in het dagverzorgingscentrum zelf of in de onmiddellijke nabijheid ervan moet tenminste één bad- of douche-installatie voorhanden zijn. Deze installaties moeten toegankelijk zijn voor alle gebruikers van het dagverzorgingscentrum;<br /><br />9° al de voor gebruikers bestemde lokalen van het dagverzorgingscentrum moeten voor hen gemakkelijk toegankelijk zijn;<br /><br />10° de gebouwen moeten regelmatig onderhouden worden en beschermd tegen alle gevaar van vochtigheid en tegen het insijpelen van water. Alle lokalen en alle gebruikte materialen moeten steeds proper worden gehouden en moeten, in alle opzichten, beantwoorden aan de bestemming die eraan wordt gegeven;<br /><br />11° welk verwarmingssysteem ook gebruikt wordt, het mag geen vlammen, gassen of stof ontwikkelen in de lokalen die toegankelijk zijn voor de gebruikers van het dagverzorgingscentrum;<br /><br />12° ongeacht de weersomstandigheden moet in voldoende verlichting, ventilatie en verwarming van al de lokalen kunnen worden voorzien. In de leefruimten moet een temperatuur van 22° C bereikt worden. In de andere lokalen volstaat 18° C.<br /><br />13° het dagverzorgingscentrum zorgt voor een rustkamer met minstens één aangepast bed. Indien er verschillende bedden zijn, neemt het dagverzorgingscentrum de nodige maatregelen om de privacy van de gebruikers te waarborgen.<br />
+...
 
 ### ART. IV.5.
 
-De minister kan nadere erkenningsvoorwaarden bepalen.
+...
 
 ## Afdeling 3 Gegevens, vermeld in en stukken, gevoegd bij het beleidsplan
 
 ### ART. IV.6.
 
-Art. 6. In het beleidsplan, vermeld in artikel 6, 2°, van dit besluit, worden de volgende gegevens opgenomen :<br />1° de volledige identiteit van de aanvrager;<br />2° een toelichting waarom de aanvrager een dagverzorgingscentrum wil uitbaten;<br />3° de omschrijving van het werkgebied;<br />4° het aantal verblijfseenheden waarvoor de erkenning wordt aangevraagd;<br />5° een stappenplan waarin omschreven staat op welke wijze het dagverzorgingscentrum aan de erkenningsvoorwaarden, vastgesteld in hoofdstuk II, afdeling I, van dit besluit, zal voldoen.<br />
+...
 
 ### ART. IV.6bis.
 
-Bij het beleidsplan, vermeld in artikel 6, 2°, van dit besluit, worden de volgende stukken gevoegd :<br />1° de statuten en de eventuele wijzigingen ervan, indien van toepassing;<br />2° de rechtsgeldige beslissing van de initiatiefnemer om een dagverzorgingscentrum uit te baten, met vermelding van het geplande aantal verblijfseenheden;<br />3° de rechtsgeldige beslissing van de initiatiefnemer om een erkenningsaanvraag voor een dagverzorgingscentrum in te dienen. Indien de initiatiefnemer de erkenningsprocedure tijdelijk wil opschorten, zoals is vastgesteld in artikel 11, § 1, van dit besluit, moet dat expliciet in die beslissing vermeld worden. In dat geval moet ook aangegeven worden op welke wijze, in welke fasen en eventueel met welke middelen het dagverzorgingscentrum gerealiseerd zal worden;<br />4° een plan van de gemeente met de aanduiding van de exacte inplantingsplaats van het te realiseren dagverzorgingscentrum;<br />5° een omschrijving van die inplantingsplaats;<br />6° het bewijs dat de initiatiefnemer op de aangeduide locatie een dagverzorgingscentrum kan realiseren of er over de nodige lokalen kan beschikken. Het kan gaan om een eigendomsbewijs, een bewijs van zakelijk of genotsrecht, een voor ten minste drie maanden geldende aankoopoptie of een principiële beslissing tot onteigening indien de initiatiefnemer een openbaar bestuur is;<br />7° het bewijs dat de locatie stedenbouwkundig in aanmerking komt om er het geplande initiatief te realiseren in geval van nieuwbouw, uitbreiding, verbouwing of ingebruikname van een bestaand gebouw of een deel ervan;<br />8° indien de erkenningsprocedure niet wordt opgeschort :<br />a) een plan met de inplanting van de lokalen, alsook de afmetingen en de bestemming ervan;<br />b) het bewijs dat het dagverzorgingscentrum voldoet aan de voorwaarden voor de infrastructuur, vermeld in artikel 4, D;<br />c) een lijst van het personeel, met vermelding van hun kwalificaties en hun wekelijkse arbeidsduur;<br />d) het bewijs dat het dagverzorgingscentrum voldoet aan de voorwaarden voor de veiligheid, vermeld in artikel 4, D, 1°;<br />e) de samenwerkingsovereenkomsten met relevante welzijnsvoorzieningen uit de regio. <br />
+...
 
 ## Afdeling 4 Subsidiëring
 
 ### ART. IV.7.
 
-De dagverzorgingscentra die een gemiddelde bezettingsgraad realiseren van minimaal 10, komen in aanmerking voor een subsidie-enveloppe van 28.934,82 euro per jaar. De gemiddelde bezettingsgraad is het totale aantal gefactureerde aanwezigheidsdagen per kalenderjaar, gedeeld door 250.<br /><br />De dagverzorgingscentra die een gemiddelde bezettingsgraad hebben van minder dan 10 maar van minimaal 7, kunnen evenredig aan de gerealiseerde gemiddelde bezettingsgraad een subsidie-enveloppe ontvangen van 26.092,90 euro, 23.250,96 euro of 20.410,11 euro naargelang ze een gemiddelde bezettingsgraad hebben van minstens 9, 8 of 7.<br /><br />Vanaf 1 januari 2007 wordt het bedrag, vermeld in het eerste lid, vervangen door het bedrag 29.504,01 euro, en worden de bedragen, vermeld in het tweede lid, vervangen door de bedragen 26.662,09 euro, 23.820,15 euro en 20.979,30 euro.<br /><br />Vanaf 1 januari 2008 wordt het bedrag, vermeld in het eerste lid, vervangen door het bedrag 30.050,10 euro, en worden de bedragen, vermeld in het tweede lid, vervangen door de bedragen 27.208,18 euro, 24.366,24 euro en 21.525,39 euro.<br /><br />Vanaf 1 januari 2009 wordt het bedrag, vermeld in het eerste lid, vervangen door het bedrag 30.570,85 euro, en worden de bedragen, vermeld in het tweede lid, vervangen door de bedragen 27.728,93 euro, 24.886,99 euro en 22.046,14 euro.<br /><br />Vanaf 1 januari 2010 wordt het bedrag, vermeld in het eerste lid, vervangen door het bedrag 31.097,06 euro, en worden de bedragen, vermeld in het tweede lid, vervangen door de bedragen 28.255,14 euro, 25.413,20 euro en 22.572,35 euro.
+...
 
 ### ART. IV.8.
 
-Ongeacht de gerealiseerde gemiddelde bezettingsgraad kunnen de dagverzorgingscentra gedurende de eerste drie jaar waarin ze in aanmerking komen voor subsidiëring, een subsidie-enveloppe van 28.934,82 euro ontvangen. Voor de berekening van de termijn van die eerste drie jaar komen ook de jaren in aanmerking waarin dagverzorgingscentra die op de datum van de inwerkingtreding van dit besluit subsidiabel zijn, al subsidies ontvangen hebben.<br /><br />Vanaf 1 januari 2007 wordt het bedrag, vermeld in het eerste lid, vervangen door het bedrag 29.504,01 euro.<br /><br />Vanaf 1 januari 2008 wordt het bedrag, vermeld in het eerste lid, vervangen door het bedrag 30.050,10 euro.<br /><br />Vanaf 1 januari 2009 wordt het bedrag, vermeld in het eerste lid, vervangen door het bedrag 30.570,85 euro.<br /><br />Vanaf 1 januari 2010 wordt het bedrag, vermeld in het eerste lid, vervangen door het bedrag 31.097,06 euro.
+...
 
 ### ART. IV.9.
 
-Het prioriteitenschema voor de dagverzorgingscentra houdt minstens rekening met:<br /><br />1° de datum van het erkenningsbesluit;<br /><br />2° de geografische spreiding van de dagverzorgingscentra;<br /><br />3° de mate waarin het dagverzorgingscentrum in de periode voorafgaand aan de datum van het indienen van de ontvankelijke erkenningsaanvraag reeds actief was als dagverzorgingscentrum.
+...
 
 ## Afdeling 5 Overgangsbepalingen
 
 ### ART. IV.10.
 
-De voorzieningen die op datum van de inwerkingtreding van dit besluit als dagverzorgingscentrum erkend zijn krachtens de decreten inzake voorzieningen voor bejaarden, gecoördineerd op 18 december 1991, worden geacht als dagverzorgingscentrum erkend te zijn conform de bepalingen van dit besluit. Zij behouden hun erkenning mits zij tegen 31 december 1999 voldoen aan de erkenningsvoorwaarden die in dit besluit zijn bepaald voor de dagverzorgingscentra. Zij worden gesubsidieerd conform de bepalingen van dit besluit.
+...
 
 ### ART. IV.11.
 
-De dagverzorgingscentra waarvoor een voorafgaande vergunning werd afgeleverd krachtens de in artikel 10 genoemde decreten, worden voor de duur van die vergunning geacht te voldoen aan de programmatie voor de dagverzorgingscentra.
+...
 
 ### ART. IV.12.
 
-De aanvragen voor een voorafgaande vergunning voor een dagverzorgingscentrum en de erkenningsaanvragen voor een dagverzorgingscentrum, waarop op datum van de inwerkingtreding van dit besluit nog geen beslissing werd genomen, worden verder behandeld krachtens de in artikel 11 genoemde decreten.
+...
 
 ### ART. IV.13.
 
-De dagverzorgingscentra die op 31 maart 2006 erkend waren, maar waar minder dan één voltijds equivalent belast is met de coördinatie van het dagverzorgingscentrum, of waar meer dan twee verschillende personeelsleden die taak vervullen, moeten in afwijking van artikel 4, B, 1°, uiterlijk op 31 december 2008 aan die erkenningsvoorwaarde voldoen.<br />
+...
 
 ### ART. IV.14.
 
-In afwijking van artikel 4, B, 1°, mogen de dagverzorgingscentra die op 31 maart 2006 erkend waren, verder geleid worden door een personeelslid dat op die datum met de coördinatie van het dagverzorgingscentrum belast was en die beschikt over een diploma van het hoger onderwijs, maar niet van een opleiding verpleegkunde, ergotherapie, kinesitherapie, logopedie of orthopedagogie.<br /><br />
+...
 
 ### ART. IV.15.
 
-De dagverzorgingscentra die op 31 maart 2006 erkend waren, maar die niet voldoen aan de specifieke erkenningsvoorwaarde voor de infrastructuur, vermeld in artikel 4, D, 13°, worden geacht aan die erkenningsvoorwaarde te voldoen zolang ze op dezelfde inplantingsplaats gevestigd blijven en er aan het gebouw geen verbouwingswerk uitgevoerd wordt.<br /><br />De dagverzorgingscentra waarvoor de behandeling van de erkenningsaanvraag op 31 maart 2006 opgeschort was, kunnen, als ze niet voldoen aan de specifieke erkenningsvoorwaarde voor de infrastructuur, vermeld in artikel 4, D, 13°, toch erkend worden. Ze worden dan geacht aan die erkenningsvoorwaarde te voldoen zolang ze op dezelfde inplantingsplaats gevestigd blijven en er aan het gebouw geen verbouwingswerk uitgevoerd wordt.<br />
+...
 
 ## Bijlage V Centra voor kortverblijf
 
@@ -554,11 +554,11 @@ De dagverzorgingscentra die op 31 maart 2006 erkend waren, maar die niet voldoen
 
 ### ART. V.2.
 
-...<br />
+...
 
 ### ART. V.3.
 
-...<br />
+...
 
 ## Afdeling 2 Specifieke erkenningsvoorwaarden
 
@@ -574,7 +574,7 @@ De dagverzorgingscentra die op 31 maart 2006 erkend waren, maar die niet voldoen
 
 ### ART. V.6.
 
-...<br />
+...
 
 ### ART. V.6bis.
 
@@ -606,61 +606,61 @@ De dagverzorgingscentra die op 31 maart 2006 erkend waren, maar die niet voldoen
 
 ### ART. VI.1.
 
-In deze bijlage wordt verstaan onder:<br /><br />1° oppashulp: de hulp en bijstand die bestaat uit het bieden van gezelschap en toezicht aan de gebruiker en dit bij afwezigheid van mantelzorg of met het oog op een tijdelijke vervanging van de mantelzorg;<br /><br />2° gezelschap: het in het bijzijn van een gebruiker vertoeven en hem vergezellen in de activiteiten van het dagelijkse leven;<br /><br />3° toezicht: het met aandacht aanwezig zijn in de onmiddellijke nabijheid van de gebruiker en oplettend zijn voor zijn eventuele noden, en, daar waar nodig, dringend hulp en bijstand verlenen of professionele zorg of mantelzorg inroepen;<br /><br />4° coördinatie: werkzaamheid die tot doel heeft de vraag naar oppashulp door te verwijzen naar het aanbod van oppashulp, en omgekeerd.
+...
 
 ## Afdeling 2 Programmatie
 
 ### ART. VI.2.
 
-Het programma voor de diensten voor oppashulp bestaat enerzijds uit programmacijfers en anderzijds uit evaluatiecriteria.
+...
 
 ### ART. VI.3.
 
-Het maximale aantal te erkennen diensten voor oppashulp wordt bepaald op 1 per 100.000 inwoners per provincie en voor het tweetalige gebied Brussel-Hoofdstad. De minister bepaalt op basis van de bevolkingscijfers per provincie en voor het tweetalige gebied Brussel-Hoofdstad het aantal regio's dat in aanmerking komt voor het programmacijfer van de diensten voor oppashulp. De minister bepaalt per regio het maximale aantal te erkennen diensten voor oppashulp.<br /><br />Voor de toepassing van de programmacijfer wordt uitgegaan van de bevolkingsprojectie voor het vijfde jaar, volgende op het jaar van het indienen van de erkenningsaanvraag.<br /><br />De bevolkingsprojectie, bedoeld in het tweede lid, wordt door de minister vastgelegd en de resultaten ervan dienen minstens aan volgende voorwaarden te voldoen:<br /><br />1° ze zijn per afzonderlijk kalenderjaar opgesteld;<br /><br />2° ze zijn specifiek voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad berekend;<br /><br />3° ze zijn opgesteld op het niveau van de provincies.
+...
 
 ### ART. VI.4.
 
-De evaluatiecriteria voor de diensten voor oppashulp worden door de minister vastgelegd. Hij houdt daarbij minstens rekening met:<br /><br />1° de verhouding voor de regio in kwestie tussen enerzijds het programmacijfer, en anderzijds het totale aantal erkende diensten voor oppashulp en de door schorsing van het erkenningsdossier geplande diensten voor oppashulp, plus het totale aantal diensten voor oppashulp waarvoor een ontvankelijke, nog niet afgehandelde, erkenningsaanvraag ingediend werd die voldoet aan de programmatie;<br /><br />2° de datum van het indienen van de ontvankelijke erkenningsaanvraag;<br /><br />3° de geografische spreiding van de diensten voor oppashulp binnen de regio in kwestie;<br /><br />4° het samenwerkingsverbanden met andere welzijnsvoorzieningen en vrijwilligersorganisaties.
+...
 
 ## Afdeling 3 Specifieke erkenningsvoorwaarden
 
 ### ART. VI.5.
 
-Onverminderd de toepassing van artikel 14 en 15 van het decreet, zijn op de diensten voor oppashulp volgende specifieke erkenningsvoorwaarden van toepassing:<br /><br />A Voorwaarden betreffende de hulp- en dienstverlening<br /><br />1° de dienst voor oppashulp zorgt per kalenderjaar voor de coördinatie van minstens 5000 uren oppashulp door vrijwilligers; <br />2° de dienst voor oppashulp maakt geen selectie wat betreft doelgroepen;<br />3° de door de dienst aangewende toeleidingscriteria mogen geen betrekking hebben op:<br />a) de ideologische, filosofische en godsdienstige overtuiging van (noch) de gebruiker, (noch) de vrijwilliger of organisatie die de oppashulp aanbiedt;<br />b) het lidmaatschap van een organisatie of groepering van (noch) de gebruiker, (noch) de vrijwilliger of organisatie die de oppashulp effectief aanbiedt;<br />c) het al dan niet een beroep doen door de gebruiker op andere hulp- en dienstverleningsvormen;<br />d) de financiële draagkracht van de gebruiker, tenzij dit zou inhouden dat de dienst zich prioritair richt op een toeleiding naar gebruikers met een verhoogd risico op verminderde welzijnskansen.<br /><br />B. Voorwaarden betreffende het personeel<br /><br />1° de dienst voor oppashulp beschikt minstens over één 0,5 equivalent coördinator, belast met de coördinatie, die beschikt over een diploma van het hoger onderwijs;<br />2° de coördinator volgt jaarlijks minstens 10 uren bijscholing omtrent voor de dienst relevante onderwerpen.<br /><br />C. Voorwaarden betreffende de werking<br /><br />1° de dienst voor oppashulp is minstens 32 uren per week bereikbaar en dit met een passende spreiding over alle werkdagen;<br />1°bis om de kwaliteit van de hulp- en dienstverlening te garanderen en te bestendigen maakt de dienst voor oppashulp een kwaliteitshandboek op. Dat handboek bevat minstens een inleiding, een weergave van het door de voorziening gevoerde kwaliteitsbeleid en een weergave van het kwaliteitssysteem. De minister bepaalt de minimale kwaliteitseisen en de minimale vereisten waaraan het kwaliteitshandboek en het kwaliteitssysteem moeten voldoen. Het kwaliteitshandboek kan door de administratie worden opgevraagd;<br />2° de dienst voor oppashulp kan vragen naar en aanbod van oppashulp coördineren in een door haar omschreven werkgebied dat ruimer is dan de door de minister bepaalde regio waarop het programmacijfer wordt berekend en erkend. In dat geval vermeldt het erkenningsbesluit het werkgebied;<br />3° de dienst voor oppashulp bezorgt jaarlijks voor 1 mei de volgende documenten aan de administratie :<br />a) het jaarverslag van het voorbije werkjaar;<br />b) de kwaliteitsplanning voor het lopende jaar;<br />4° het jaarverslag bevat de registratiegegevens over de activiteiten van het voorbije werkjaar. De registratiegegevens vermelden onderwerp, doel, vorm, frequentie, intensiteit van de activiteiten en de bereikte doelgroep. Het jaarverslag bevat ook een evaluatie van de kwaliteitsplanning;<br />5° de kwaliteitsplanning bevat een omschrijving van de activiteiten die worden ontplooid om de doelstellingen, de kwaliteitseisen en het kwaliteitssysteem te bepalen en te realiseren; <br />6° de minister kan de minimale inhoud van het jaarverslag en de kwaliteitsplanning, de vorm ervan en de wijze waarop het aan de administratie bezorgd moet worden, nader bepalen. <br />7° de dienst voor oppashulp sluit een samenwerkingscontract met minstens één volgens het decreet en dit besluit erkende voorziening, dat minstens afspraken omvat betreffende:<br />a) de verwijzingsmogelijkheden;<br />b) de organisatorische en logistieke ondersteuning;<br />c) de continuïteit van de coördinatie-opdracht.
+...
 
 ## Afdeling 4 Gegevens vermeld in en stukken gevoegd bij het beleidsplan
 
 ### ART. VI.6.
 
-In het beleidsplan, vermeld in artikel 6, 2°, van dit besluit, worden de volgende gegevens opgenomen :<br />1° de volledige identiteit van de aanvrager;<br />2° een toelichting waarom de aanvrager een dienst voor oppashulp wil uitbaten;<br />3° de omschrijving van het werkgebied;<br />4° een stappenplan waarin omschreven staat op welke wijze de dienst voor oppashulp aan de erkenningsvoorwaarden, vastgesteld in hoofdstuk II, afdeling I, van dit besluit, zal voldoen.<br />
+...
 
 ### ART. VI.7.
 
-Bij het beleidsplan, vermeld in artikel 6, 2°, van dit besluit, worden de volgende stukken gevoegd :<br />1° de statuten en de eventuele wijzigingen ervan, indien van toepassing;<br />2° de rechtsgeldige beslissing van de initiatiefnemer om een dienst voor oppashulp uit te baten;<br />3° de rechtsgeldige beslissing van de initiatiefnemer om een erkenningsaanvraag voor een dienst voor oppashulp in te dienen;<br />4° een lijst van het personeel, met vermelding van hun kwalificaties en hun wekelijkse arbeidsduur.<br />
+...
 
 ## Afdeling 5 Subsidiëring
 
 ### ART. VI.8.
 
-De minister legt jaarlijks het totale aantal subsidiabele uren vast en bepaalt jaarlijks per erkende dienst voor oppashulp het maximum aantal subsidiabele uren vrijwilligersoppas binnen de perken van de beschikbare kredieten.<br /><br />Bij de bepaling van het aantal subsidiabele uren per erkende dienst worden de realisatiegraad van het reeds toegekende aantal uren en de spreiding van de gepresteerde uren als parameters gehanteerd.<br /><br />Aan een dienst wordt in het eerste jaar waarin hij voor subsidiëring in aanmerking komt, een urencontingent toegekend van maximaal 7000 uren vrijwilligersoppas.<br />
+...
 
 ### ART. 8bis.
 
-Art. 8bis. § 1. Om voor subsidiëring in aanmerking te komen, moet een dienst voor oppashulp minstens 5 000 uren oppas door vrijwilligers presteren.<br /><br />De subsidie-enveloppe voor de diensten voor oppashulp bestaat uit :<br />1° een basissubsidie van 10.388,69 euro als de norm van 5 000 uren vrijwilligersoppas, vermeld in artikel 5, A, 1°, wordt gehaald;<br />2° een forfaitair bedrag van 1 euro per uur oppas door vrijwilligers, dat de 5 000 uren overstijgt.<br /><br />Het totale aantal gesubsidieerde uren van een dienst kan nooit meer zijn dan het aantal uren dat in het urencontingent, vermeld in artikel 8, aan de dienst wordt toegewezen.<br /><br />§ 2. In afwijking van § 1, eerste lid, kan een dienst voor oppashulp die, tijdens het eerste jaar dat hij voor subsidiëring in aanmerking komt, de norm van 5 000 uren niet haalt, toch een subsidie-enveloppe ontvangen die gelijk is aan de basissubsidie van 10.388,69 euro. »<br /><br />§ 3. Het bedrag van de basissubsidie zoals bedoeld in § 1, tweede lid, 1°, en in § 2 wordt :<br />1° vanaf 1 januari 2007 vervangen door het bedrag 10.547,42 euro;<br />2° vanaf 1 januari 2008 vervangen door het bedrag 10.697,73 euro;<br />3° vanaf 1 januari 2009 vervangen door het bedrag 10.839,05 euro;<br />4° vanaf 1 januari 2010 vervangen door het bedrag 10.982,11 euro.<br />
+...
 
 ### ART. VI.9.
 
-Het prioriteitenschema voor de diensten voor oppashulp houdt minstens rekening met:<br /><br />1° de datum van het erkenningsbesluit;<br /><br />2° de geografische spreiding van de diensten voor oppashulp over de provincies en het tweetalig gebied Brussel-Hoofd-stad;<br /><br />3° de mate waarop de dienst voor oppashulp in de periode van één jaar voorafgaandelijk aan de datum van het indienen van een ontvankelijke erkenningsaanvraag reeds actief was als dienst voor oppashulp.
+...
 
 ## Afdeling 6 Overgangsbepalingen
 
 ### ART. VI.10.
 
-De voorzieningen die kunnen aantonen dat zij op datum van de inwerkingtreding van dit besluit gedurende minstens één jaar als dienst voor oppashulp werkzaam waren, kunnen, indien zij uiterlijk op 31 maart 1999 een ontvankelijke aanvraag hebben ingediend om als dienst voor oppashulp te worden erkend en indien zij voldoen aan de programmatie, vanaf de datum van verzending van hun erkenningsaanvraag erkend en gesubsidieerd worden overeenkomstig de bepalingen van dit besluit. Artikel 13, § 1, tweede lid, van dit besluit, is niet van toepassing voor de subsidiëring van deze voorzieningen. In geval van erkenning kan aan deze diensten voor oppashulp een subsidie-enveloppe voor het volledige jaar 1999 worden toegekend.
+...
 
 ### ART. VI.11.
 
-[...  <span class="reference">(opgeh. B.V.R. 1 februari 2002, art. 6, I: 1 januari 2002)</span> ]
+...
 
 ## Bijlage VII Verenigingen van gebruikers en mantelzorgers
 
@@ -668,40 +668,40 @@ De voorzieningen die kunnen aantonen dat zij op datum van de inwerkingtreding va
 
 ### ART. VII.1.
 
-[Het programma van de verenigingen van gebruikers en mantelzorgers bestaat, enerzijds, uit een programmacijfer, dat bepaald wordt op 5, en, anderzijds, uit evaluatiecriteria.  <span class="reference">(verv. B.V.R. 5 juni 2002, art. 1, I: 1 januari 2002)</span> ]
+...
 
 ### ART. VII.2.
 
-De evaluatiecriteria voor de verenigingen van gebruikers en mantelzorgers worden door de minister vastgelegd. Hij houdt daarbij onder meer rekening met:<br /><br />1° de verhouding voor de regio in kwestie tussen enerzijds het programmacijfer, en anderzijds het totale aantal erkende verenigingen, plus het totale aantal verenigingen waarvoor een ontvankelijke en nog niet afgehandelde erkenningsaanvraag ingediend werd die voldoet aan de programmatie;<br /><br />2° de datum van het indienen van een ontvankelijke erkenningsaanvraag;<br /><br />3° de mate waarin de vereniging activiteiten ontplooit over het gehele werkgebied.
+...
 
 ## Afdeling 2 Specifieke erkenningsvoorwaarden
 
 ### ART. VII.3.
 
-Onverminderd de toepassing van artikel 16 en 17 van het decreet, zijn op de verenigingen van gebruikers en mantelzorgers volgende specifieke erkenningsvoorwaarden van toepassing:<br /><br />A. Voorwaarden betreffende de dienstverlening<br /><br />1° de vereniging organiseert minstens eenmaal per jaar in elke Vlaamse provincie en in het tweetalige gebied Brussel-Hoofdstad een bijeenkomst voor de aangesloten leden, waarop minstens een informatieoverdracht gebeurt omtrent voor de gebruikers en mantelzorgers relevante onderwerpen en waarop een inventaris wordt gemaakt van de knelpunten die gebruikers en mantelzorgers ervaren in de thuiszorg;<br /><br />2° de vereniging beschikt over of heeft toegang tot een geactualiseerde databank over minstens:<br /><br />a) alle erkende welzijnsvoorzieningen in de thuiszorg in alle Vlaamse provincies en het tweetalige gebied Brussel-Hoofdstad;<br /><br />b) de rechten en plichten van de gebruikers en de mantelzorgers;<br /><br />3° de vereniging is in staat om op elke informatievraag over een voor de gebruiker en mantelzorger relevant onderwerp een antwoord te formuleren of, indien nodig of gewenst, de vraagsteller toe te leiden naar de meest geschikte persoon of voorziening die de adviesvraag kan beantwoorden;<br /><br />4° de vereniging verstuurt minstens tweemaal per jaar naar alle aangesloten leden een informatiebrochure of gelijkgestelde over een voor de gebruiker en mantelzorger relevant onderwerp.<br /><br />B. Voorwaarden betreffende het personeel<br /><br />1° de vereniging stelt minstens 1,5 voltijds equivalent personeelsleden te werk;<br /><br />2° de personeelsleden volgen samen jaarlijks in totaal minstens 30 uren bijscholing over voor de vereniging relevante onderwerpen.<br /><br />C. Voorwaarden betreffende de werking<br /><br />1° volgens de statuten beantwoordt het hoofddoel van de vereniging aan artikel 16 van het decreet;<br /><br />2° de vereniging moet een geactualiseerd ledenbestand aanleggen, het eerste werkjaar van tenminste 1.500 en, vanaf het tweede werkjaar, van minstens 3.000 natuurlijke personen, die gebruikers of mantelzorgers zijn of geweest zijn. De vereniging bewijst dit lidmaatschap, alsook de algemene spreiding ervan over de Vlaamse provincies en het tweetalige gebied Brussel-Hoofdstad;<br /><br />3° de vereniging is minstens 32 uren per week bereikbaar en dit met een passende spreiding over alle werkdagen;<br /><br />4° de vereniging ontplooit activiteiten in alle Vlaamse provincies en in het tweetalige gebied Brussel-Hoofdstad;<br /><br />5° de vereniging is in staat op vraag van de minister een rapport met beleidsaanbevelingen over een voor de gebruikers en mantelzorgers relevante probleemstelling op te maken. De minister bepaalt per vraag de nadere regels met betrekking tot deze rapportage;<br /><br />6° de dienst bezorgt jaarlijks voor 1 mei aan de administratie:<br /><br />a) het jaarverslag van het voorbije werkjaar;<br /><br />b) de jaarplanning voor het lopende jaar;<br /><br />7° het jaarverslag bevat de registratiegegevens betreffende de activiteiten van het voorbije werkjaar, zowel naar onderwerp, doel, vorm, frequentie, intensiteit en bereikte doelgroep en, in voorkomend geval alle andere door de minister bepaalde gegevens;<br /><br />8° de jaarplanning omschrijft de wijze waarop de vereniging haar opdrachten en werkzaamheden wenst te realiseren. Voor elk van de opgelegde werkzaamheden worden bepaald:<br /><br />a) de beoogde doelstellingen in het licht van de noden van de gebruikers en de mantelzorgers;<br /><br />b) het aantal natuurlijke personen dat men wenst te bereiken;<br /><br />c) de in te zetten middelen;<br /><br />d) de wijze waarop de middelen zullen worden ingezet;<br /><br />9° de minister kan nadere regels bepalen over het jaarverslag en de jaarplanning.
+...
 
 ## Afdeling 3 Gegevens vermeld en stukken gevoegd bij het beleidsplan
 
 ### ART. VII.4.
 
-In het beleidsplan, vermeld in artikel 6, 2°, van dit besluit, worden de volgende gegevens opgenomen : <br />1° de volledige identiteit van de aanvrager;<br />2° een toelichting waarom de aanvrager een vereniging van gebruikers en mantelzorgers wil oprichten;<br />3° een stappenplan waarin omschreven staat op welke wijze de vereniging van gebruikers en mantelzorgers aan de erkenningsvoorwaarden, vastgesteld in hoofdstuk II, afdeling I, van dit besluit, zal voldoen.<br />
+...
 
 ### ART. VII.5.
 
-Bij het beleidsplan, vermeld in artikel 6, 2°, van dit besluit, worden de volgende stukken gevoegd : <br />1° de statuten en de eventuele wijzigingen ervan, indien van toepassing; <br />2° de rechtsgeldige beslissing om een vereniging op te richten;<br />3° de rechtsgeldige beslissing van de initiatiefnemer om een erkenningsaanvraag voor een vereniging in te dienen;<br />4° een lijst van het personeel, met vermelding van hun kwalificaties en hun wekelijkse arbeidsduur.<br />
+...
 
 ## Afdeling 4 Subsidiëring
 
 ### ART. VII.6.
 
-De subsidie-enveloppe voor een vereniging voor gebruikers en mantelzorgers bedraagt 85.741,33 euro per kalenderjaar.<br /><br />Vanaf 1 januari 2007 wordt het bedrag, vermeld in het eerste lid, vervangen door het bedrag 86.271,29 euro.<br /><br />Vanaf 1 januari 2008 wordt het bedrag, vermeld in het eerste lid, vervangen door het bedrag 86.773,15 euro.<br /><br />Vanaf 1 januari 2009 wordt het bedrag, vermeld in het eerste lid, vervangen door het bedrag 87.245,14 euro.<br /><br />Vanaf 1 januari 2010 wordt het bedrag, vermeld in het eerste lid, vervangen door het bedrag 87.722,78 euro. <br />
+...
 
 ### ART. VII.7.
 
-Het prioriteitenschema voor de verenigingen voor gebruikers en mantelzorgers houdt minstens rekening met:<br /><br />1° de datum van het erkenningsbesluit;<br /><br />2° de mate waarin de vereniging in de periode van één jaar voorafgaandelijk aan de datum van het indienen van een ontvankelijke erkenningsaanvraag reeds actief was als vereniging van gebruikers en mantelzorgers.
+...
 
 ## Afdeling 5 Overgangsbepalingen
 
 ### ART. VII.8.
 
-De verenigingen die kunnen aantonen dat ze op datum van de inwerkingtreding van dit besluit gedurende minstens één jaar als vereniging voor gebruikers en mantelzorgers werkzaam zijn en die voldoen aan de programmatie kunnen, indien zij uiterlijk op 31 maart 1999 een ontvankelijke aanvraag hebben ingediend om als vereniging van gebruikers en mantelzorgers te worden erkend, vanaf de datum van verzending van hun erkenningsaanvraag erkend en gesubsidieerd worden overeenkomstig de bepalingen van dit besluit. Artikel 13, § 1, tweede lid, van dit besluit, is niet van toepassing voor de subsidiëring van deze verenigingen. In geval van erkenning kan hun een subsidie-enveloppe voor het volledige jaar 1999 worden toegekend.
+...
