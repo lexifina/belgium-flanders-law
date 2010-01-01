@@ -30,6 +30,10 @@ Er wordt een strategische adviesraad internationaal Vlaanderen opgericht als ver
 
 De strategische adviesraad internationaal Vlaanderen bestaat uit 20 leden die door de Vlaamse Regering benoemd zijn voor een termijn van vier jaar : tien vertegenwoordigers van het maatschappelijk middenveld en tien deskundigen. De vertegenwoordigers van het maatschappelijk middenveld worden voorgedragen door de organisaties, vermeld in artikel 5, § 2. De deskundige leden worden aangewezen na een openbare oproep tot kandidaatstelling. Bij de samenstelling van de strategische adviesraad worden de verplichtingen van artikel 7 van het decreet van 18 juli 2003 tot regeling van strategische adviesraden nageleefd.<br /><br />De voorzitter van de strategische adviesraad internationaal Vlaanderen is een van de deskundigen. Hij wordt benoemd door de Vlaamse Regering. De voorzitter vertegenwoordigt de raad in rechte, met behoud van de mogelijkheid tot delegatie van die bevoegdheid.<br />
 
+### ART. 6bis.
+
+Voor elke vertegenwoordiger van het maatschappelijk middenveld wordt een plaatsvervanger benoemd door de Vlaamse Regering op voordracht van de organisaties vermeld in artikel 5, § 2.<br /><br />Deze plaatsvervangers worden benoemd voor dezelfde duur als het effectieve lid.<br /><br />De artikelen 8 tot en met 10 van het decreet van 18 juli 2003 tot regeling van de strategische adviesraden zijn van overeenkomstige toepassing op deze plaatsvervangers.
+
 ### ART. 7.
 
 Overeenkomstig artikel 8, eerste lid, van het decreet van 18 juli 2003 tot regeling van strategische adviesraden oefenen de leden van de strategische adviesraad internationaal Vlaanderen hun functie volledig onafhankelijk van de Vlaamse overheid uit.<br />
