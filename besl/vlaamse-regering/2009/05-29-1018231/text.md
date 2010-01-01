@@ -14,7 +14,7 @@ Het bedrag van de subsidie wordt vastgesteld op 5,70 euro per dag economische we
 
 ### ART. 3.
 
-De subsidieperiode loopt van 1 januari 2009 tot en met 31 december 2009.<br /><br />
+De subsidieperiode loopt van 1 januari 2009 tot en met 31 december 2010.<br /><br />
 
 ### ART. 4.
 
