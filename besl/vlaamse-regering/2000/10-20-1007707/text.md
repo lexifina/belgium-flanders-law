@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° de minister: de minister, bevoegd voor de ruimtelijke ordening;<br /><br />2° het agentschap : het agentschap RO-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br /><br />3° de aanvrager: de gemeente die een subsidie aanvraagt voor de opmaak van een gemeentelijk ruimtelijk structuurplan, een gemeentelijk ruimtelijk uitvoeringsplan of een gemeentelijk plan van aanleg.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de minister: de minister, bevoegd voor de ruimtelijke ordening;<br />2° het agentschap : het agentschap Ruimte en Erfgoed van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br />3° de aanvrager: de gemeente die een subsidie aanvraagt voor de opmaak van een gemeentelijk ruimtelijk structuurplan, een gemeentelijk ruimtelijk uitvoeringsplan of een gemeentelijk plan van aanleg.
 
 ### ART. 2.
 
