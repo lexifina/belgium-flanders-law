@@ -702,7 +702,7 @@ Deze berekening gebeurt aan de hand van volgende tabel :
 
 ### ART. 2.6.14.
 
-§ 1. De planbatenheffing wordt betaald :<br />1° op de datum van het verlijden van de authentieke akte betreffende een overdracht ten bezwarende titel, door de heffingsplichtige, van enig zakelijk recht met betrekking tot het perceel;<br />2° binnen een termijn van zes maanden na het verlenen, in laatste administratieve aanleg, van :<br />a) een stedenbouwkundige vergunning voor bouwwerken, vermeld in artikel 4.2.1, 1°, voor zover voldaan is aan alle hiernavolgende voorwaarden :<br />1) de betrokken bouwwerken betreffen niet enkel afbraakwerken of bodemsaneringswerken,<br />2) voor het verrichten van de betrokken bouwwerken is de medewerking van een architect vereist,<br />3) de vergunning kon vóór de inwerkingtreding van het ruimtelijk uitvoeringsplan of het bijzonder plan van aanleg niet worden verleend,<br />b) een verkavelingsvergunning.<br /><br />Indien een stedenbouwkundige vergunning of een verkavelingsvergunning, vermeld in het eerste lid, 2°, uitdrukkelijk melding maakt van verschillende fasen van een bouw- of verkavelingsproject, wordt de planbatenheffing gefaseerd betaald overeenkomstig de daartoe door de Vlaamse Regering bepaalde regelen. Binnen een termijn van zes maanden na de aanvang van elke fase wordt de voor die fase verschuldigde heffing betaald.<br /><br />§ 2. Indien een verrichting, vermeld in § 1, eerste lid, plaatsvond vóór de verzending van het aanslagbiljet, moet de planbatenheffing betaald worden binnen een termijn van zes maanden na de verzending van het aanslagbiljet.<br /><br />§ 3. Indien in de periode tussen de inwerkingtreding van het ruimtelijk uitvoeringsplan of het bijzonder plan van aanleg en een verrichting, vermeld in § 1, eerste lid, een tweede bestemmingswijziging in werking treedt, wordt de eerste bestemmingswijziging voor de toepassing van deze afdeling geacht nooit te hebben plaatsgevonden.<br /><br />
+§ 1. De planbatenheffing is betaalbaar binnen een termijn van :<br />1° vijftien kalenderdagen vanaf de datum van het verlijden van de authentieke akte betreffende een overdracht ten bezwarende titel, door de heffingsplichtige, van enig zakelijk recht met betrekking tot het perceel.<br />2° zes maanden na het verlenen, in laatste administratieve aanleg, van :<br />a) een stedenbouwkundige vergunning voor bouwwerken, vermeld in artikel 4.2.1, 1°, voor zover voldaan is aan alle hiernavolgende voorwaarden :<br />1) de betrokken bouwwerken betreffen niet enkel afbraakwerken of bodemsaneringswerken;<br />2) voor het verrichten van de betrokken bouwwerken is de medewerking van een architect vereist;<br />3) de vergunning kon vóór de inwerkingtreding van het ruimtelijk uitvoeringsplan of het bijzonder plan van aanleg niet worden verleend;<br />b) een verkavelingsvergunning.<br /><br />Indien een stedenbouwkundige vergunning of een verkavelingsvergunning, vermeld in het eerste lid, 2°, uitdrukkelijk melding maakt van verschillende fasen van een bouw- of verkavelingsproject, wordt de planbatenheffing gefaseerd betaald overeenkomstig de daartoe door de Vlaamse Regering bepaalde regelen. Binnen een termijn van zes maanden na de aanvang van elke fase wordt de voor die fase verschuldigde heffing betaald.<br /><br />§ 2. Indien een verrichting, vermeld in § 1, eerste lid, plaatsvond vóór de verzending van het aanslagbiljet, moet de planbatenheffing betaald worden binnen een termijn van zes maanden na de verzending van het aanslagbiljet.<br /><br />§ 3. Indien in de periode tussen de inwerkingtreding van het ruimtelijk uitvoeringsplan of het bijzonder plan van aanleg en een verrichting, vermeld in § 1, eerste lid, een tweede bestemmingswijziging in werking treedt, wordt de eerste bestemmingswijziging voor de toepassing van deze afdeling geacht nooit te hebben plaatsgevonden.<br /><br />
 
 ### ART. 2.6.15.
 
@@ -1193,6 +1193,42 @@ De Vlaamse Regering kan nadere regelen bepalen op het vlak van de stedenbouwkund
 § 1. Indien de instantie die binnen de reguliere procedure belast is met het ontvankelijkheidsonderzoek, vaststelt dat een vergunningsaanvraag ten onrechte binnen de reguliere procedure werd ingediend, dan stuurt zij deze aanvraag zo spoedig mogelijk door naar het vergunningverlenende bestuursorgaan binnen de bijzondere procedure. Dat bestuursorgaan stelt de aanvrager onmiddellijk in kennis van de overzending van de vergunningsaanvraag. De aanvraag wordt dan verder behandeld overeenkomstig de bijzondere procedure.<br /><br />Het beginsel, vermeld in het eerste lid, geldt, met de nodige veranderingen, indien een aanvraag ten onrechte binnen de bijzondere procedure werd ingediend.<br /><br />§ 2. Voor de toepassing van deze codex geldt de datum waarop het bevoegde vergunningverlenende bestuursorgaan de aanvrager in kennis stelt van het feit dat de vergunningsaanvraag overgezonden werd, als datum waarop de aanvraag werd ingediend.
 
 ## Onderafdeling 2 Afstemming aanvraagprocedure stedenbouwkundige en milieuvergunning
+
+### ART. 4.7.3.
+
+Een aanvraag voor een stedenbouwkundige vergunning kan worden samengevoegd met de aanvraag voor een milieuvergunning, indien voldaan is aan beide hiernavolgende voorwaarden :<br />1° de stedenbouwkundige vergunning en de milieuvergunning zijn wederzijds aan elkaar gekoppeld op grond van artikel 4.5.1 van deze codex en artikel 5 van het decreet van 28 juni 1985 betreffende de milieuvergunning;<br />2° het college van burgemeester en schepenen is voor beide aanvragen het bevoegde vergunningverlenende bestuursorgaan.<br /><br />Aanvragen die aan de voorwaarden, vermeld in het eerste lid, voldoen, en door de vergunningaanvrager worden samengevoegd, worden hierna « samengevoegde aanvragen » genoemd.
+
+### ART. 4.7.4.
+
+Samengevoegde aanvragen worden behandeld overeenkomstig de specifieke procedureregelen, vermeld in deze onderafdeling.<br /><br />Voor zover deze specifieke procedureregelen niets anders bepalen, zijn de procedures die gelden voor aanvragen die niet onder deze onderafdeling ressorteren, aanvullend van toepassing.
+
+### ART. 4.7.5.
+
+Samengevoegde aanvragen worden op straffe van onontvankelijkheid ingediend bij een uniek gemeentelijk loket van de bevoegde gemeente of gemeenten.<br /><br />Het uniek gemeentelijk loket wordt uitgebouwd als een fysiek loket, eventueel aangevuld met een virtueel loket.<br /><br />De Vlaamse Regering kan nadere regelen bepalen betreffende de organisatie van het uniek gemeentelijk loket, in het bijzonder met het oog op de toegankelijkheid en vlotte bereikbaarheid ervan. Zij kan tevens specifieke regelen bepalen met betrekking tot de samenstelling van samengevoegde aanvraagdossiers.
+
+### ART. 4.7.6.
+
+Indien niet voldaan is aan de voorwaarden, vermeld in artikel 4.7.3, dan meldt de daartoe door het college van burgemeester en schepenen aangewezen gemeentelijke ambtenaar dat aan de aanvrager, via het uniek gemeentelijk loket.<br /><br />In dat geval worden beide aanvragen verder afzonderlijk afgehandeld volgens de procedures die gelden voor aanvragen die niet onder deze onderafdeling ressorteren.
+
+### ART. 4.7.7.
+
+De resultaten van de ontvankelijkheids- en volledigheidsonderzoeken, vermeld in artikel 4.7.14, § 1, van deze codex en artikel 9, § 5, van het decreet van 28 juni 1985 betreffende de milieuvergunning, worden in het geval van samengevoegde aanvragen aan de aanvrager gemeld via het uniek gemeentelijk loket en door middel van één gewone brief.<br /><br />De procedure wordt voor beide aanvragen definitief stopgezet indien :<br />1° de aanvraag voor een stedenbouwkundige vergunning onontvankelijk of onvolledig is;<br />2° de aanvraag voor een milieuvergunning onontvankelijk is;<br />3° de aanvraag voor een milieuvergunning onvolledig is en het dossier niet tijdig wordt aangevuld binnen de krachtens artikel 8sexies, § 2, 3°, van het decreet van 28 juni 1985 betreffende de milieuvergunning bepaalde termijn.
+
+### ART. 4.7.8.
+
+Indien over samengevoegde aanvragen een advies moet worden ingewonnen bij dezelfde adviserende instantie, dan wordt aan deze instantie één gezamenlijke adviesvraag voorgelegd.<br /><br />De adviezen die worden verleend op grond van een gezamenlijke adviesvraag, worden gelijktijdig uitgebracht.
+
+### ART. 4.7.9.
+
+§ 1. Indien beide samengevoegde aanvragen onderworpen moeten worden aan een openbaar onderzoek, dan wordt één gemeenschappelijk openbaar onderzoek georganiseerd overeenkomstig de regelen gesteld krachtens artikel 11, § 1, van het decreet van 28 juni 1985 betreffende de milieuvergunning.<br /><br />Indien slechts één van de samengevoegde aanvragen onderworpen moet worden aan een openbaar onderzoek, dan wordt enkel voor die aanvraag een openbaar onderzoek georganiseerd overeenkomstig de regelen gesteld krachtens artikel 11, § 1, van het decreet van 28 juni 1985 betreffende de milieuvergunning, respectievelijk artikel 4.7.20 van deze codex.<br /><br />§ 2. In het beslissingsproces over de milieuvergunningsaanvraag wordt ingegaan op de milieugebonden bezwaren en de bezwaren aangaande de planologische verenigbaarheid van datgene waarvoor de milieuvergunning wordt aangevraagd.<br /><br />In het beslissingsproces over de aanvraag voor een stedenbouwkundige vergunning wordt ingegaan op de stedenbouwkundige en ruimtelijk gebonden bezwaren.<br /><br />Indien dezelfde bezwaren in beide beslissingsprocessen worden behandeld, worden zij op gelijke wijze weerlegd of nagevolgd.
+
+### ART. 4.7.10.
+
+Het college van burgemeester en schepenen onderzoekt samengevoegde aanvragen gelijktijdig en neemt op dezelfde dag een beslissing over beide aanvragen.<br /><br />Beide beslissingen worden via het uniek gemeentelijk loket en door middel van één beveiligde zending aan de aanvrager betekend.
+
+### ART. 4.7.11.
+
+De Vlaamse Regering bepaalt de datum van inwerkingtreding van deze onderafdeling.
 
 ## Afdeling 2 Reguliere procedure
 
