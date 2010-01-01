@@ -2,16 +2,16 @@
   "codex_id": 1021218,
   "title": "Decreet van 2011-12-23 houdende wijziging van diverse bepalingen van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid en van diverse bepalingen van andere decreten die betrekking hebben op het grond- en pandenbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021218/VolledigDocument?datum=2009-09-01",
-  "source_sha256": "0a2bb78167303bba8a2ff6904d03338b79f6a373c1c2afacf7b3d500ed17b709",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021218/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "748d8de82b1b5843c0d65d3561b2fe2e6b70825a54e986bded91d7c620af5f1c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021218&param=informatie",
-  "as_of": "2009-09-01",
+  "as_of": "2010-01-01",
   "made": "2011-12-23",
   "gazette": "2012-01-27",
   "numac": 2012035076,
   "document_start": "2012-02-06",
   "document_end": null,
-  "in_force": "2009-09-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
