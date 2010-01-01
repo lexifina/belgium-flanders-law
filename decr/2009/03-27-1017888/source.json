@@ -2,16 +2,16 @@
   "codex_id": 1017888,
   "title": "Decreet van 2009-03-27 houdende wijziging van het decreet van 28 juni 1985 betreffende de milieuvergunning tot afstemming van de aanvraagprocedures van de stedenbouwkundige vergunning en milieuvergunning en het decreet van 22 december 2006 houdende eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat van gebouwen en tot invoering van een energieprestatiecertificaat en tot wijziging van artikel 22 van het REG-decreet",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017888/VolledigDocument?datum=2009-05-23",
-  "source_sha256": "4143748b39e8db8a9e8cf7c8744292b70f92d2f9449a512153741a7c87263faf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017888/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "221bf92670ddcf2c24ee5a60ba0d00b141244740950531a4f5ac6e279967ad3e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017888&param=informatie",
-  "as_of": "2009-05-23",
+  "as_of": "2010-01-01",
   "made": "2009-03-27",
   "gazette": "2009-05-13",
   "numac": 2009035396,
   "document_start": null,
   "document_end": null,
-  "in_force": "2009-05-23",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2009-05-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
