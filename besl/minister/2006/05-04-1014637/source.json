@@ -2,16 +2,16 @@
   "codex_id": 1014637,
   "title": "Ministerieel besluit van 2006-05-04 tot vaststelling van de subsidiëringswijze van de dagverzorgingscentra",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014637/VolledigDocument?datum=2006-04-01",
-  "source_sha256": "2c52c6215958846cc9cf0a6b970c9028c8d23cf53972af527e11588e7c0fd238",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014637/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "3cbca4bd362fae6dad3f94c150506a5f8d0113055d1a91ef8552058f7f970161",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014637&param=informatie",
-  "as_of": "2006-04-01",
+  "as_of": "2010-01-01",
   "made": "2006-05-04",
   "gazette": "2006-07-07",
   "numac": 2006036036,
   "document_start": "2006-04-01",
   "document_end": "2009-12-31",
-  "in_force": "2006-04-01",
+  "in_force": "2010-01-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
