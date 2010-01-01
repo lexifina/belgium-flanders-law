@@ -30,6 +30,14 @@ Een organiserend bestuur van een kinderdagverblijf of initiatief komt in aanmerk
 
 Een organiserend bestuur van een kinderdagverblijf of initiatief komt in aanmerking voor toestemming voor en subsidiëring van een lokale dienst buitenschoolse opvang in een bepaalde gemeente als het een erkende buitenschoolse opvang in die gemeente organiseert. Tussen de lokale dienst enerzijds en de erkende buitenschoolse opvang anderzijds is er een structurele samenwerking, waarbij :<br />1° afspraken gemaakt worden over en inspanningen geleverd worden om de continuïteit van de opvang voor de gezinnen te garanderen bij een eventuele verandering in de arbeids- of gezinssituatie en/of bij een gewijzigde opvangvraag;<br />2° de bestaande expertise op het vlak van buitenschoolse opvang en de opgebouwde expertise van de lokale dienst onderling doorstromen en zo de kwaliteit en de toegankelijkheid van de dienstverlening bevorderen. <br /><br />
 
+### ART. 6.
+
+Een lokale dienst voorschoolse opvang, gegroeid uit een BND-project als vermeld in artikel 2, tweede lid, organiseert een structurele samenwerking met een erkende voorschoolse opvang in dezelfde gemeente, waarbij :<br />1° afspraken gemaakt worden en inspanningen geleverd worden om de continuïteit van de opvang voor de gezinnen te garanderen bij een eventuele verandering in de arbeids- of gezinssituatie en/of bij een gewijzigde opvangvraag;<br />2° de bestaande expertise op het vlak van voorschoolse opvang en de opgebouwde expertise van de lokale dienst onderling doorstromen en zo de kwaliteit en de toegankelijkheid van de dienstverlening bevorderen.<br /><br />
+
+### ART. 7.
+
+Een lokale dienst buitenschoolse opvang, gegroeid uit een BND-project als vermeld in artikel 2, tweede lid, organiseert een structurele samenwerking met een buitenschoolse erkende opvang in dezelfde gemeente, waarbij :<br />1° afspraken gemaakt worden over en inspanningen geleverd worden om de continuïteit van de opvang voor de gezinnen te garanderen bij een eventuele verandering in de arbeids- of gezinssituatie en/of bij een gewijzigde opvangvraag;<br />2° de bestaande expertise op het vlak van buitenschoolse opvang en de opgebouwde expertise van de lokale dienst onderling doorstromen en zo de kwaliteit en de toegankelijkheid van de dienstverlening bevorderen. <br /><br />
+
 ### ART. 8.
 
 De lokale dienst is gevestigd in een centrumgemeente of kan de nabijheid van kwetsbare gezinnen die ondervertegenwoordigd zijn in de kinderopvang, aantonen in de buurt waar de lokale dienst zich wil vestigen. De nabijheid van kwetsbare gezinnen wordt minstens aangetoond door een hoog percentage kinderen in kansarmoede en een hoge werkloosheidsgraad in de gemeente waar de lokale dienst zich wil vestigen. <br /><br />
