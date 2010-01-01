@@ -24,6 +24,10 @@ In artikel 155, § 1, van hetzelfde decreet, gewijzigd bij de decreten van 14 ju
 
 ## HOOFDSTUK IV Volwassenenonderwijs
 
+### ART. IV.29.
+
+In artikel 110 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° paragraaf 2 wordt vervangen door wat volgt :<br />« § 2. Het Fonds wordt belast met het financieel beheer van de inschrijvingsgelden van de centra voor volwassenenonderwijs en de middelen die ter beschikking worden gesteld door de uitgavenbegroting van de Vlaamse Gemeenschap.<br /><br />Per begrotingsjaar wordt per centrum voor volwassenenonderwijs een afrekening gemaakt tussen de ontvangsten en uitgaven. Alleen het resultaat van de afrekening wordt in de begroting van het Fonds als uitgave of als ontvangst geboekt. »;<br /><br />2° paragraaf 3 wordt vervangen door wat volgt :<br />« § 3. De middelen van het Fonds zijn :<br />1° een dotatie ten laste van de algemene uitgavenbegroting van de Vlaamse Gemeenschap - Beleidsdomein Onderwijs en Vorming;<br />2° dotaties ten laste van de algemene uitgavenbegroting van de Vlaamse Gemeenschap - overige beleidsdomeinen;<br />3° een vordering op de ontvangen inschrijvingsgelden van de centra voor volwassenenonderwijs. Die vordering bedraagt 0,25 euro per euro inschrijvingsgeld van cursisten, zoals is bepaald in artikel 109, § 1;<br />4° de terugvorderingen die voortvloeien uit de ten onrechte verrichte betalingen. ».<br /><br />
+
 ## HOOFDSTUK V Hoger onderwijs
 
 ## Afdeling I Decreet betreffende de universiteiten
