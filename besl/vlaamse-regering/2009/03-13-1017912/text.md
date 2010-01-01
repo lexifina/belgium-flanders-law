@@ -284,6 +284,10 @@ In artikelen 2, 5, 6 en 10 van hetzelfde besluit wordt het woord « distributeur
 
 ## HOOFDSTUK X Wijzigingen aan het besluit van de Vlaamse Regering van 2 maart 2007 inzake de openbaredienstverplichtingen ter bevordering van het rationeel energiegebruik
 
+### ART. 57.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 2 maart 2007 inzake de openbaredienstverplichtingen ter bevordering van het rationeel energiegebruik wordt punt 13 vervangen door wat volgt :<br />« 13° beschermde afnemer : huishoudelijke eindafnemer die aangesloten is op een distributienet waarbij op het adres van de aansluiting minstens één persoon gedomicilieerd is die behoort tot de lijst van residentiële beschermde klanten met een laag inkomen of in een kwetsbare situatie, vermeld in artikel 4 van de Programmawet (1) van 27 april 2007; ».<br /><br />
+
 ## HOOFDSTUK XI Slotbepalingen
 
 ### ART. 58.
