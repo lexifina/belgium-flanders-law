@@ -2,16 +2,16 @@
   "codex_id": 1008379,
   "title": "Besluit van de Vlaamse Regering van 2001-07-10 tot regeling van de subsidiëring van de diensten voor logistieke hulp en aanvullende thuiszorg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008379/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "9624bf14ddeff69250a1d4362aae66b323dcc8d242f318779e9fb31f4e1035e5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008379/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "4097a36adfd8d659a4f3938b993a6df71d22e318b4a8192524ff3f80719f018b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008379&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2010-01-01",
   "made": "2001-07-10",
   "gazette": "2001-09-25",
   "numac": 2001036064,
   "document_start": null,
   "document_end": "2016-03-31",
-  "in_force": "2009-01-01",
+  "in_force": "2010-01-01",
   "article_versions": 32,
-  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
