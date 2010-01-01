@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2010-04-06 houdende wijziging van artikel 5 van het ministerieel besluit van 3 maart 2006 betreffende de zoogkoeienpremie
+
+### Aanhef
+
+De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbeleid, <br /><br />Gelet op Verordening (EG) nr. 73/2009 van de Raad van 19 januari 2009 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers, tot wijziging van Verordeningen (EG) nr. 1290/2005, (EG) nr. 247/2006, (EG) nr. 378/2007 en tot intrekking van Verordening (EG) nr. 1782/2003, het laatst gewijzigd bij Verordening (EG) nr. 1250/2009 van de Raad van 30 november 2009;<br /><br />Gelet op de wet van 28 maart 1975 betreffende de handel in landbouw-, tuinbouw- en zeevisserijproducten, artikel 3, § 1, 1°, vervangen bij de wet van 29 december 1990;<br /><br />Gelet op het besluit van de Vlaamse Regering van 27 januari 2006 tot instelling van bepaalde rundvleespremies, artikel 4, tweede lid;<br /><br />Gelet op het ministerieel besluit van 3 maart 2006 betreffende de zoogkoeienpremie;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 2 februari 2010;<br /><br />Gelet op advies 47.923/3 van de Raad van State, gegeven op 16 maart 2010, met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, <br /><br />Besluit :<br />
+
+### ART. 1.
+
+Aan artikel 5 van het ministerieel besluit van 3 maart 2006 betreffende de zoogkoeienpremie, gewijzigd bij de ministeriële besluiten van 28 april 2008 en 25 juni 2009, wordt een paragraaf 8 toegevoegd, die luidt als volgt : <br /><br />" § 8. In afwijking van paragraaf 1 en 2 worden voor de campagne 2010 de beschikbare premierechten in de reserve toegekend aan de jonge landbouwers, vermeld in paragraaf 1, die zich in de periode van 2 januari 2008 tot en met 1 januari 2010 voor de eerste keer hebben gevestigd als landbouwer in hoofdberoep. <br /><br />De aanvraag van de jonge landbouwers, vermeld in het eerste lid, heeft betrekking op maximaal acht bijkomende premierechten.<br /><br />De premierechten worden zo toegekend dat de landbouwers die in de periode van 2 januari 2008 tot en met 1 januari 2009 gestart zijn, twee bijkomende premierechten minder ontvangen dan de landbouwers die in de periode van 2 januari 2009 tot en met 1 januari 2010 gestart zijn, tenzij dat aantal lager is met toepassing van de voorwaarde, vermeld in paragraaf 1, 5°."
+
+### ART. 2.
+
+Dit besluit heeft uitwerking met ingang van 1 januari 2010.
