@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019303,
+  "title": "Besluit van de Vlaamse Regering van 2010-07-23 houdende de vaststelling van de subsidie voor 2010 voor de levensbeschouwelijke verenigingen die erkend zijn om radioprogramma's op de VRT te verzorgen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019303/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "b33b597d1d522c3e0b6fee8d22ce923cf74620ef410b4da6768a77b23ee06134",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019303&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2010-07-23",
+  "gazette": "2010-08-12",
+  "numac": 2010204241,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
