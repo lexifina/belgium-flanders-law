@@ -6,11 +6,11 @@ De Vlaamse minister van Institutionele Hervormingen, Bestuurszaken, Buitenlands 
 
 ### ART. 1.
 
-In artikel 1 van het ministerieel besluit van 17 december 2008 houdende tijdelijke aanvullende maatregelen voor het behoud van de visbestanden in zee, wordt een nieuw lid toegevoegd dat luidt als volgt :<br /><br />« 15° inspanningsgroep : inspanningsgroep zoals gedefinieerd in bijlage I van verordening (EG) nr. 1342/2008 van de Raad van 18 december 2008 tot vaststelling van een langetermijnplan voor kabeljauwbestanden en de bevissing van deze bestanden, en tot intrekking van verordening (EG) nr. 423/2004. »
+...
 
 ### ART. 2.
 
-In artikel 7 van hetzelfde besluit wordt vanaf 21 januari in het eerste lid volgende zinsnede ingevoegd :<br /><br />« Roggen : 50 cm aanvoerlengte »
+...
 
 ### ART. 3.
 
@@ -18,24 +18,24 @@ In artikel 10 van hetzelfde besluit worden volgende wijzigingen aangebracht vana
 
 ### ART. 4.
 
-In artikel 14 van hetzelfde besluit worden volgende wijzigingen aangebracht :<br /><br />1° in § 3 wordt het getal « 35 » vervangen door het getal « 40 »,<br /><br />2° in § 4 wordt het getal « 11 » vervangen door het getal « 12 » en wordt het getal « 30 » vervangen door het getal « 34 »,<br /><br />3° in § 4 wordt de zinsnede « Van die toegekende hoeveelheid mag er per vaartuig maximaal 50 % vóór 31 maart 2009 worden opgevist » geschrapt.
+...
 
 ### ART. 5.
 
-In artikel 18 van hetzelfde besluit wordt een § 3 toegevoegd dat luidt als volgt :<br /><br />« § 3. Van de krachtens de verordening (EG) van de Raad van december 2008 tot vaststelling voor 2009, van de vangstmogelijkheden voor sommige visbestanden en groepen visbestanden welke in de wateren van de Gemeenschap en, voor vaartuigen van de Gemeenschap, in andere wateren met vangstbeperkingen van toepassing zijn, en tot vaststelling van de bij de visserij in acht te nemen voorschriften toegekende vangstmogelijkheden voor kabeljauw in i.c.e.s.-gebieden IIa, IV, desgevallend vermeerderd met de hoeveelheden afkomstig van de quotaruilen mag er op eind maart 2009 maximaal 15 %, op eind juni 2009 maximaal 30 % en op eind september 2009 maximaal 70 % worden opgevist. De dienst berekent de overeenstemmende hoeveelheden die als drempelwaarden fungeren.<br /><br />Als de drempelwaarden van de eerste drie kwartalen, verhoogd met 10 %, worden overschreden, dienen vissersvaartuigen van betrokken inspanningsgroepen technische aanpassingen door te voeren op aanwijzen van de dienst, teneinde de drempelwaarden van het volgende kwartaal niet te overschrijden. »
+...
 
 ### ART. 6.
 
-In artikel 19 van hetzelfde besluit wordt een § 2 toegevoegd dat luidt als volgt :<br /><br />« § 2. Van de krachtens de verordening (EG) van de Raad van december 2008 toegekende vangstmogelijkheden voor kabeljauw in het i.c.e.s.-gebied VIId, desgevallend vermeerderd met de hoeveelheden afkomstig van de quotaruilen mag er op eind maart 2009 maximaal 50 %, op eind juni 2009 maximaal 75 % en op eind september 2009 maximaal 85 % worden opgevist. De dienst berekent de overeenstemmende hoeveelheden die als drempelwaarden fungeren.<br /><br />Als de drempelwaarden van het tweede en derde kwartaal, verhoogd met 10 %, worden overschreden, dienen vissersvaartuigen van betrokken inspanningsgroepen technische aanpassingen door te voeren op aanwijzen van de dienst of kunnen sluitingen in real time doorgevoerd worden, teneinde de drempelwaarden van het volgende kwartaal niet te overschrijden. »
+...
 
 ### ART. 7.
 
-In artikel 26 van hetzelfde besluit worden vanaf 21 februari 2009 volgende §§ toegevoegd, die genummerd worden van 8 tot 13 :<br /><br />« § 8. In de periode van 1 februari 2009 tot en met 31 december 2009 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de vangsten van wijting per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden.<br /><br />§ 9. In de periode van 1 februari 2009 tot en met 31 december 2009 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de vangsten van wijting per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden.<br /><br />§ 10. In de periode van 21 januari 2009 tot en met 31 december 2009 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden.<br /><br />§ 11. In de periode van 21 januari 2009 tot en met 31 december 2009 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden.<br /><br />§ 12. In de periode van 21 januari 2009 tot en met 31 december 2009 is het in de i.c.e.s.-gebied VIId voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 40 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het desbetreffende i.c.e.s.-gebied.<br /><br />§ 13. In de periode van 21 januari 2009 tot en met 31 december 2009 is het in de i.c.e.s.-gebieden VIId voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 80 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het desbetreffende i.c.e.s.-gebied. »
+...
 
 ### ART. 8.
 
-In artikel 27 worden volgende wijzigingen aangebracht :<br /><br />1° in § 1 worden de getallen « 22, 23 » geschrapt,<br /><br />2° wordt er een § 5 toegevoegd dat luidt als volgt :<br /><br />« § 5. De aantallen communautaire zeedagen in de kabeljauwherstelgebieden toegekend voor de periode 1 februari 2009 tot en met 31 januari 2010 bij artikel 10 van dit besluit worden verminderd met het aantal surplusdagen. »
+...
 
 ### ART. 9.
 
-Dit besluit treedt in werking op 1 februari 2009 met uitzondering van artikelen 2 en 7, die in werking treden op 21 januari 2009 en houdt op van kracht te zijn op 1 januari 2010, met uitzondering van artikel 3 dat ophoudt van kracht te zijn op 1 februari 2010.
+...
