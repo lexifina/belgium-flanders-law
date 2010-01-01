@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018631,
+  "title": "Besluit van de Vlaamse Regering van 2009-12-11 tot vaststelling van de heffingscoëfficiënt inzake de grindwinning voor 2010",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018631/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "3443dfa023a476b5269ba905e58c66da8a198b0a8ecce9cb444d7ea4b6de8cc5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018631&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2009-12-11",
+  "gazette": "2009-12-29",
+  "numac": 2009036158,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
