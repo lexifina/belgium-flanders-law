@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021355,
+  "title": "Ministerieel besluit van 2010-04-21 betreffende de wijziging van het ministerieel besluit van 29 oktober 2009 houdende nadere regels betreffende de subsidiëring van verenigingen waar armen het woord nemen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021355/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "1d962e46cf55d1a75879ce086c073d80794f26280da31fb4126598f280269563",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021355&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2010-04-21",
+  "gazette": "2010-05-26",
+  "numac": 0,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
