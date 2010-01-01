@@ -12,6 +12,10 @@ Het opschrift van het besluit van de Vlaamse Regering van 15 mei 2009 betreffend
 
 In artikel 1 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° punt 2° wordt vervangen door wat volgt :<br />« 2° de coördinerende minister : de Vlaamse minister, bevoegd voor de coördinatie van het armoedebeleid; »;<br /><br />2° er wordt een punt 2°/1 ingevoegd, dat luidt als volgt :<br />« 2°/1 de Minister : de Vlaamse minister, bevoegd voor de bijstand aan personen; »;<br /><br />3° punt 16° wordt vervangen door wat volgt :<br />« 16° zorgregio : een geografisch omschreven gebied, op het niveau van de regionale stad, als bepaald in de bijlage bij het decreet van 28 november 2008 tot wijziging van het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen; ».<br /><br />
 
+### ART. 3.
+
+In artikel 12, eerste en tweede lid, artikel 14, 1°, en artikel 17 van hetzelfde besluit wordt het woord « coördinerende » opgeheven.<br /><br />
+
 ### ART. 4.
 
 In artikel 23, § 1, van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid, 3°, worden de woorden « binnen het werkingsgebied » opgeheven;<br />2° in het tweede lid wordt het woord « coördinerende » opgeheven.<br /><br />

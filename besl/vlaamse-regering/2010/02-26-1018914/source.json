@@ -2,16 +2,16 @@
   "codex_id": 1018914,
   "title": "Besluit van de Vlaamse Regering van 2010-02-26 tot wijziging van het besluit van de Vlaamse Regering van 15 mei 2009 betreffende het decreet van 18 juli 2008 tot wijziging van het decreet van 21 maart 2003 betreffende de armoedebestrijding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018914/VolledigDocument?datum=2009-07-16",
-  "source_sha256": "51db94d81168ad1604c8b9602b2f8c07e18be6e88a7bce2c9e3bef3eace75231",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018914/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "e78da97768d6079ebdf22964f0a0a71a803f3b42c973198a0a5f6267f87f642b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018914&param=informatie",
-  "as_of": "2009-07-16",
+  "as_of": "2010-01-01",
   "made": "2010-02-26",
   "gazette": "2010-04-08",
   "numac": 2010035231,
   "document_start": "2009-07-16",
   "document_end": null,
-  "in_force": "2009-07-16",
-  "article_versions": 10,
-  "record_form": "consolidated version as in force on 2009-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-01-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
