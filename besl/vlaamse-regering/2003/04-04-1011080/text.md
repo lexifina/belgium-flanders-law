@@ -4,82 +4,82 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br />1° rusthuis: één of meer gebouwen die functioneel een inrichting voor collectief verblijf vormen, waar, onder welke benaming ook, aan bejaarden die er op duurzame wijze verblijven, huisvesting wordt gegeven alsmede geheel of gedeeltelijk, de gebruikelijke gezins- en huishoudelijke verzorging;<br />2° centrum voor kortverblijf: een voorziening die als opdracht heeft de gebruiker, in daartoe bestemde lokalen, 's nachts of gedurende een beperkte periode, verblijf, alsmede geheel of gedeeltelijk, de gebruikelijke gezinsverzorging en huishoudelijke verzorging te bieden;<br />3° voorziening: een rusthuis waarin of waarbij al dan niet een centrum voor kortverblijf uitgebaat wordt; <br />4° initiatiefnemer: de rechtspersoon die in een voorziening verantwoordelijk is voor zowel de individuele opnames of verhuring als voor de organisatie van de zorg- en dienstverlening;<br />5° het agentschap: het Intern Verzelfstandigd Agentschap Zorg en Gezondheid binnen het Vlaams ministerie van Welzijn, Volksgezondheid en Gezin ;<br />6° de minister: het lid van de Vlaamse regering, bevoegd voor de bijstand aan personen;<br />7° de administrateur-generaal : het hoofd van het intern verzelfstandigd agentschap Zorg en Gezondheid.
+...
 
 ## HOOFDSTUK II SUBSIDIËRING VAN DE ANIMATIEWERKING
 
 ### ART. 2.
 
-Binnen de perken van de begrotingskredieten kan de administrateur-generaal subsidies voor de animatiewerking toekennen aan de erkende voorzieningen die beheerd worden door een lokaal of provinciaal bestuur, door een vereniging zonder winstoogmerk of door een instelling van openbaar nut in de zin van de wet van 27 juni 1921.
+...
 
 ### ART. 3.
 
-Om voor subsidiëring in aanmerking te komen, moet een [erkende voorziening  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 4, I: 1 januari 2006)</span> ] zoals bedoeld in artikel 2 voldoen aan de volgende voorwaarden:<br /><br />1° erkend zijn gedurende het werkingsjaar of het gedeelte ervan waarvoor de subsidies worden toegekend;<br /><br />2° gedurende het werkingsjaar of het gedeelte ervan waarvoor de subsidies worden toegekend voldoen aan de geldende personeelsnorm in de rusthuizen inzake de deskundige in animatie en activatie;<br /><br />3° [een jaarplan opmaken inzake de animatiewerking en de uitvoering ervan. Als een initiatiefnemer naast een rusthuis eveneens een centrum voor kortverblijf uitbaat, volstaat één gezamenlijk jaarplan. De minister kan aangaande de vorm en de inhoud ervan specifieke regels uitvaardigen;<br /><br />4° beschikken over een uitgeschreven visie met betrekking tot de animatiewerking. Die moet geconsolideerd worden in het beheersorgaan van de initiatiefnemer. In deze visie moet bijzondere aandacht gaan naar de uitbouw van een vrijwilligerswerking, een integrale benadering van de animatie in de voorziening en een specifiek vormingsaanbod inzake animatie voor alle personeelsleden. Bovendien moet uit deze visie blijken dat de voorziening emanciperend omgaat met bewoners en familieleden en dat de voorziening aandacht heeft voor een integrale behoeftedetectie die de basis zal vormen voor het individuele zorg- en begeleidingsplan.<br /><br />Als een initiatiefnemer naast een rusthuis eveneens een centrum voor kortverblijf uitbaat, volstaat één gezamenlijke visie.<br /><br />De minister kan hierover specifieke voorwaarden uitvaardigen.  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 4, I: 1 januari 2006)</span> ]<br /><br />De minister kan hierover specifieke voorwaarden uitvaardigen.
+...
 
 ### ART. 4.
 
-§ 1. Aan een erkende voorziening zoals bedoeld in artikel 2 van dit besluit wordt jaarlijks een subsidie-enveloppe toegekend op basis van de volgende parameters:<br />1° het aantal erkende woongelegenheden op 1 januari van het desbetreffende werkingsjaar, en het aantal woongelegenheden waarvoor vóór 1 januari van het desbetreffende werkingsjaar een erkenning werd aangevraagd en die uiterlijk op 1 januari van het desbetreffende werkingsjaar in gebruik zullen worden genomen. De woongelegenheden van het rusthuis en de woongelegenheden van het centrum voor kortverblijf dat in of bij het rusthuis uitgebaat wordt, worden samengevoegd; <br />2° per voltijdse equivalent van deskundige in animatie en activatie die vereist was met toepassing van de overeenstemmende personeelsnorm, geldig tot 30 juni 2003, wordt jaarlijks door de minister een forfaitair bedrag bepaald, naar gelang van het beschikbare budget en de kredieten die vrijkomen ingevolge de overgangsregeling, vervat in artikel 15 van dit besluit. Dat forfaitaire bedrag kan niet hoger zijn dan het subsidiebedrag, bepaald in 3° van dit artikel;<br />3° per voltijdse equivalent van deskundige in animatie en activatie die met toepassing van de overeenstemmende personeelsnorm, geldig vanaf 1 juli 2003, aanvullend vereist is ten opzichte van de overeenstemmende personeelsnorm, geldig tot 30 juni 2003, wordt een forfaitair bedrag van 30.812 euro toegekend.<br /><br />§ 2. De administrateur-generaal bepaalt op basis hiervan jaarlijks vóór 28 februari het maximale subsidiebedrag per voorziening.
+...
 
 ### ART. 5.
 
-Vóór 1 april van het jaar dat volgt op het jaar dat in aanmerking genomen wordt voor de subsidiëring, bezorgt de initiatiefnemer [van de voorziening  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 6, I: 1 januari 2006)</span> ] aan [het agentschap  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 6, I: 1 januari 2006)</span> ] de bewijsvoering met betrekking tot de subsidiëringsvoorwaarden zoals vervat in artikel 3, 2° tot en met 4°.<br /><br />De minister bepaalt de vorm en de inhoud van deze bewijsvoering.
+...
 
 ## HOOFDSTUK III AANVULLENDE SUBSIDIËRING IN DE VORM VAN EEN DAC-SUPPLEMENT VAN DE RUSTHUIZEN DIE PERSONEELSLEDEN TEWERKSTELLEN IN EEN GEWEZEN DAC-STATUUT
 
 ### ART. 6.
 
-Binnen de perken van de begrotingskredieten kan de administrateur-generaal aanvullende subsidies in de vorm van een DAC-supplement toekennen aan de erkende rusthuizen die personeelsleden tewerkstellen met een gewezen DAC-statuut.
+...
 
 ### ART. 7.
 
-§ 1. Aan de erkende rusthuizen die personeelsleden tewerkstellen met een gewezen DAC-statuut wordt jaarlijks een aanvullende subsidie-enveloppe toegekend in de vorm van een DAC-supplement op basis van de volgende parameters:<br /><br />1° het aantal nog in aanmerking te nemen voltijdse equivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut op 1 januari van het desbetreffende werkingsjaar;<br /><br />2° per voltijdse equivalent, bepaald onder 1°, wordt een forfaitair bedrag van 30.812 euro toegekend;<br /><br />3° van de aanvullende subsidie-enveloppe die op basis van 1° en 2° verkregen wordt, worden de subsidiebedragen, zoals berekend op basis van artikel 4 van dit besluit, in mindering gebracht;<br /><br />4° in afwijking van 3° wordt het DAC-supplement herleid tot 0 euro als het subsidiebedrag, verkregen op basis van 1° en 2°, lager is dan of gelijk is aan het subsidiebedrag zoals berekend op basis van artikel 4 van dit besluit.<br /><br />§ 2. De minister bepaalt hiertoe jaarlijks vóór 28 februari de rusthuizen en per rusthuis het aantal voltijdse equivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut, die in aanmerking komen voor deze subsidiëring en het maximale aanvullende subsidiebedrag per rusthuis.
+...
 
 ### ART. 8.
 
-Vóór 1 april van het jaar dat volgt op het jaar dat in aanmerking genomen wordt voor de subsidiëring, bezorgt de initiatiefnemer van de voorziening voor bejaarden aan [het agentschap  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 7, I: 1 januari 2006)</span> ] de bewijsvoering van de effectieve tewerkstelling van de personeelsleden die tewerkgesteld zijn met een vroeger DAC-statuut.<br /><br />De minister bepaalt de vorm en de inhoud van deze bewijsvoering.
+...
 
 ## HOOFDSTUK IV ALGEMENE BEPALINGEN
 
 ### ART. 9.
 
-Binnen de perken van de begrotingskredieten worden de subsidiebedragen, vermeld in dit besluit, geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van het Rijk worden gekoppeld. Voormelde koppeling aan het indexcijfer wordt evenwel berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen.<br /><br />De bedragen, vermeld in artikelen 4 en 7, zijn uitgedrukt tegen 100 % op basis van de spilindex die van toepassing is op 1 januari 2003. De koppeling aan het prijsindexcijfer gebeurt op 1 januari van het jaar dat volgt op de indexsprong.
+...
 
 ### ART. 10.
 
-Elk semester wordt een voorschot uitgekeerd ten belope van 45 % van het in artikelen 4 en 7 bepaalde subsidiebedrag. Deze voorschotten worden uitbetaald voor het einde van de vierde maand van het semester waarop ze betrekking hebben.
+...
 
 ### ART. 11.
 
-§ 1. Het definitieve subsidiebedrag wordt berekend, toegekend en gesaldeerd na goedkeuring door [het agentschap  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 8, I: 1 januari 2006)</span> ] van de in artikelen 5 en 8 vermelde bewijsvoering.<br /><br />§ 2. Als zou blijken dat een [voorziening  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 8, I: 1 januari 2006)</span> ] in afwijking van artikel 3, 2°, gedurende het in aanmerking genomen werkingsjaar niet volledig voldoet aan de geldende personeelsnorm inzake animatie wordt het definitieve subsidiebedrag als volgt berekend:<br /><br />1° als de effectieve tewerkstelling gelijk is aan of hoger is dan 90 % van de geldende personeelsnorm moet bij de bewijsvoering met betrekking tot de subsidiëringsvoorwaarden, bepaald in artikel 5, een verklarende nota, al dan niet vergezeld van terzake geldende bewijsstukken, gevoegd worden waarin op gemotiveerde wijze wordt aangetoond waarom in de bedoelde periode de geldende personeelsnorm niet gehaald kon worden. Als de hierin aangebrachte motivering door [het agentschap  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 8, I: 1 januari 2006)</span> ] aanvaard wordt, wordt het maximale subsidiebedrag, zoals bepaald op basis van artikel 4, proportioneel verminderd;<br /><br />2° als de effectieve tewerkstelling lager is dan 90 % van de geldende personeelsnorm, of als de effectieve tewerkstelling gelijk is aan of hoger is dan 90 % van de geldende personeelsnorm maar de aangebrachte motivering, zoals bedoeld in 1°, niet door [het agentschap  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 8, I: 1 januari 2006)</span> ] aanvaard wordt, wordt het maximale subsidiebedrag, zoals bepaald op basis van artikel 4, verminderd met 100 %.<br /><br />§ 3. Als zou blijken dat een [voorziening  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 8, I: 1 januari 2006)</span> ] er voorschotten heeft ontvangen dan het definitieve subsidiebedrag, dan wordt het verschil door [het agentschap  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 8, I: 1 januari 2006)</span> ] ruggevorderd.<br /><br />§ 4. De initiatiefnemer van [de voorziening  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 8, I: 1 januari 2006)</span> ] wordt in kennis gesteld van de berekening van het definitieve subsidiebedrag en het uit te betalen saldo of de terug te vorderen voorschotten.
+...
 
 ## HOOFDSTUK V HET TOEZICHT
 
 ### ART. 12.
 
-[Het agentschap  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 9, I: 1 januari 2006)</span> ] oefent ter plaatse of op stukken toezicht uit met betrekking tot de naleving van de bepalingen van dit besluit. Dit toezicht brengt het recht mee om [de voorziening  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 9, I: 1 januari 2006)</span> ] te bezoeken en om kennis te nemen van alle stukken en bescheiden die met de uitoefening van dit toezicht verband houden.<br /><br />[De voorziening verleent haar volle medewerking aan de uitoefening van dit toezicht. Zij bezorgt het agentschap  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 9, I: 1 januari 2006)</span> ] [of het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin  <span class="reference">(ing. B.V.R. 31 maart 2006, art. 37, I: 1 april 2006)</span> ] [, op eenvoudig verzoek, de stukken die met de uitoefening van dit toezicht verband houden.  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 9, I: 1 januari 2006)</span> ]
+...
 
 ### ART. 13.
 
-§ 1. Onverminderd de toepassing van artikel 57 en 58 van de wetten op de Rijkscomptabiliteit, gecoördineerd op 17 juli 1991, kan de administrateur-generaal, als de voorziening niet voldoet aan een of meer subsidiringsvoorwaarden, als subsidiefraude wordt vastgesteld of als de voorziening niet meewerkt aan de uitoefening van het in artikel 12 bedoelde toezicht, de vereffening van de subsidies geheel of gedeeltelijk stopzetten voor een door hem te bepalen termijn. Ook kan de minister de reeds vereffende subsidies geheel of gedeeltelijk terugvorderen voor een door hem te bepalen termijn.<br /><br />Het voornemen van de administrateur-generaal tot stopzetting van de subsidiëring of tot terugvordering van subsidies wordt door het agentschap aan de initiatiefnemer van de voorziening verzonden met een aangetekende brief, waarin de mogelijkheden en de voorwaarden om een bezwaarschrift in te dienen worden vermeld.<br /><br />§ 2. Op straffe van niet-ontvankelijkheid kan de initiatiefnemer van de voorziening tot uiterlijk 45 dagen na ontvangst van het voornemen tot stopzetting van de subsidiëring of tot terugvordering van subsidies, hiertegen met een aangetekende brief een gemotiveerd bezwaarschrift indienen bij het agentschap.De initiatiefnemer van de voorziening kan hierin uitdrukkelijk vragen om te worden gehoord.<br /><br />In voorkomend geval zal de minister binnen zestig dagen na ontvangst van dit bezwaarschrift zijn beslissing bevestigen of intrekken.<br /><br />Als de initiatiefnemer van de voorziening geen bezwaarschrift heeft ingediend binnen de gestelde termijn of als de minister zijn beslissing binnen de gestelde termijn heeft bevestigd, wordt de subsidiëring geheel of gedeeltelijk stopgezet of worden de subsidies geheel of gedeeltelijk teruggevorderd.<br /><br />Als de minister zijn beslissing intrekt of als hij zijn beslissing binnen de gestelde termijn niet bevestigt, wordt de subsidiëring voortgezet of blijven de subsidies behouden.
+...
 
 ## HOOFDSTUK V OVERGANGS- EN SLOTBEPALINGEN
 
 ### ART. 14.
 
-§ 1. In afwijking van artikel 4, § 2, van dit besluit bepaalt de minister vóór 1 mei 2003 voor het werkingsjaar 2003 het maximale subsidiebedrag per rusthuis.<br /><br />§ 2. In afwijking van artikel 7, § 2, van dit besluit bepaalt de minister vóór 1 mei 2003 voor het werkingsjaar 2003 de rusthuizen en per rusthuis het aantal voltijdse equivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut, die in aanmerking komen voor de overeenstemmende subsidiëring en het maximale aanvullende subsidiebedrag per rusthuis.<br /><br />§ 3. In afwijking van artikel 10 van dit besluit wordt voor het werkingsjaar 2003 een voorschot op het subsidiebedrag, bedoeld in artikel 4 van dit besluit, uitbetaald ten belope van 90 % tegen 1 juli 2003.
+...
 
 ### ART. 15.
 
-§ 1. Met toepassing van artikel 7, § 1, 1°, van dit besluit komen met ingang van 1 januari 2003 de volgende personeelsleden niet meer in aanmerking voor het bepalen van het aantal nog in aanmerking te nemen voltijdse equivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut, op 1 januari van het desbetreffende werkingsjaar:<br /><br />1° de mandatarissen die op 31 december 2002 tewerkgesteld zijn in een arbeidsplaats van een vroeger DAC-project vanaf de datum van hun uitdiensttreding;<br /><br />2° de mandatarissen die op 31 december 2002 tewerkgesteld zijn in een arbeidsplaats van een vroeger DAC-project vanaf de datum van definitieve vermindering van hun arbeidsduur ten belope van de doorgevoerde vermindering van hun arbeidsduur.<br /><br />§ 2. Elke definitieve vermindering van de arbeidsduur, bedoeld in § 1, 1° en 2°, moet binnen 30 kalenderdagen gemeld worden aan [het agentschap  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 11, I: 1 januari 2006)</span> ] met duidelijke vermelding van de identiteit van de mandataris, de doorgevoerde vermindering en de ingangsdatum van de vermindering.<br /><br />§ 3. In afwijking van § 2 moet elke vermindering die ingaat tussen 1 januari 2003 en de datum van de bekendmaking van dit besluit in het Belgisch Staatsblad binnen 30 kalenderdagen na publicatie van dit besluit in het Belgisch Staatsblad gemeld worden aan [het agentschap  <span class="reference">(verv. B.V.R. 27 januari 2006, art. 11, I: 1 januari 2006)</span> ] met duidelijke vermelding van de identiteit van de mandataris, de doorgevoerde vermindering en de ingangsdatum van de vermindering.
+...
 
 ### ART. 16.
 
-Voor de personeelsleden, tewerkgesteld in de vroegere DAC-projecten met de nummers 1136, 2776, 8436, 15003, 50110, en 70274 kan verder nog een subsidiëring verkregen worden volgens de bepalingen vervat in artikel 7, § 1, 1° en 2°, en § 2, in artikel 8 tot en met artikel 11, en in artikel 14 en 15.
+...
 
 ### ART. 17.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2003, met uitzondering van hoofdstuk II, dat in werking treedt op 1 juli 2003.
+...
 
 ### ART. 18.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.
+...
