@@ -8,7 +8,9 @@ Dit decreet regelt een gemeenschaps- en een gewestaangelegenheid.
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet wordt als verblijf beschouwd:<br /><br />1° iedere exploitatie, ongeacht haar benaming, die logies verstrekt met een minimum duur van één nacht;<br /><br />2° ieder terrein voor openluchtrecreatieve verblijven, zoals omschreven in artikel 2 van het decreet van 3 maart 1993 houdende het statuut van de terreinen voor openluchtrecreatieve verblijven.
+Voor de toepassing van dit decreet wordt als verblijf beschouwd:<br>
+1° iedere exploitatie, ongeacht haar benaming, die logies verstrekt met een minimum duur van één nacht;<br>
+2° ieder terrein voor openluchtrecreatieve verblijven als vermeld in artikel 2, 3°, van het decreet van 10 juli 2008 betreffende het toeristische logies.
 
 ### ART. 3.
 
@@ -32,7 +34,9 @@ De in dit decreet vermelde financiële ondersteuning en subsidies worden door To
 
 ### ART. 6.
 
-§ 1. De verblijven die de in artikel 3 vermelde doelstellingen beogen, kunnen in het kader en volgens de voorwaarden van dit decreet door Toerisme Vlaanderen als sociaal-toeristische verblijven worden erkend. Wat betreft de verblijven gelegen in het tweetalige gebied Brussel-Hoofdstad, gaat het om verblijven geëxploiteerd door personen die wegens hun activiteiten moeten worden beschouwd uitsluitend te behoren tot de Vlaamse Gemeenschap.<br /><br />§ 2. Terreinen voor openluchtrecreatieve verblijven, komen slechts in aanmerking voor een erkenning als bedoeld in § 1, indien ze beantwoorden aan de vereisten gesteld bij het decreet van 3 maart 1993 houdende het statuut van de terreinen voor openluchtrecreatieve verblijven.
+§ 1. De verblijven die de in artikel 3 vermelde doelstellingen beogen, kunnen in het kader en volgens de voorwaarden van dit decreet door Toerisme Vlaanderen als sociaal-toeristische verblijven worden erkend. Wat betreft de verblijven gelegen in het tweetalige gebied Brussel-Hoofdstad, gaat het om verblijven geëxploiteerd door personen die wegens hun activiteiten moeten worden beschouwd uitsluitend te behoren tot de Vlaamse Gemeenschap.<br>
+<br>
+§ 2. Terreinen voor openluchtrecreatieve verblijven als vermeld in artikel 2, 2°, komen alleen in aanmerking voor een erkenning als ze beschikken over een aanmelding of vergunning op basis van het decreet van 10 juli 2008 betreffende het toeristische logies.
 
 ### ART. 7.
 
