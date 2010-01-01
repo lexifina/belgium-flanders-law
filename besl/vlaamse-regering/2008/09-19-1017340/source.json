@@ -2,16 +2,16 @@
   "codex_id": 1017340,
   "title": "Besluit van de Vlaamse Regering van 2008-09-19 ter uitvoering van het decreet van 9 maart 2007 houdende de subsidiëring van gemeente- en provinciebesturen en de Vlaamse Gemeenschapscommissie voor het voeren van een Sport voor Allen-beleid - bepalingen tot het verkrijgen van de impulssubsidie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017340/VolledigDocument?datum=2008-12-05",
-  "source_sha256": "12900b1df32311cffc29f90ea8936f56094707345a61755ac513fa138819381c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017340/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "1db0a20edfcbe8e92290a42b40376a24405b4352a5af9e209736be2435942aca",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017340&param=informatie",
-  "as_of": "2008-12-05",
+  "as_of": "2010-01-01",
   "made": "2008-09-19",
   "gazette": "2008-12-05",
   "numac": 2008204315,
   "document_start": "2008-12-05",
   "document_end": "2013-12-31",
-  "in_force": "2008-12-05",
-  "article_versions": 16,
-  "record_form": "consolidated version as in force on 2008-12-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-01-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
