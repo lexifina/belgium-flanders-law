@@ -34,7 +34,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br />1° initiatiefneme
 
 ### ART. 7.
 
-De investeringssubsidie voor uitbreiding van een rust- en verzorgingstehuis wordt vastgesteld conform artikel 5, § 3, van de wet van 27 juni 1978 tot wijziging van de wetgeving op de ziekenhuizen en betreffende sommige andere vormen van verzorging, met dien verstande dat de totale som van de subsidie, uitrusting en ineubilering inbegrepen, niet hoger mag zijn dan de subsidie uitgetrokken voor de nieuwbouw van een rusthuis, zoals bepaald in het besluit van de Vlaamse regering tot vaststelling van de totale investeringssubsidie en de. bouwtechnische normen voor voorzieningen voor bejaarden.
+De investeringssubsidie voor uitbreiding van een rust- en verzorgingstehuis wordt vastgesteld conform artikel 5, § 3, van de wet van 27 juni 1978 tot wijziging van de wetgeving op de ziekenhuizen en betreffende sommige andere vormen van verzorging, met dien verstande dat de totale som van de subsidie, uitrusting en meubilering inbegrepen, niet hoger mag zijn dan de subsidie uitgetrokken voor de nieuwbouw van een woonzorgcentrum zoals bepaald in het besluit van de Vlaamse regering tot vaststelling van de totale investeringssubsidie en de. bouwtechnische normen voor voorzieningen voor ouderen en voorzieningen in de thuiszorg.
 
 ### ART. 8.
 
@@ -42,7 +42,7 @@ De investeringssubsidie voor uitbreiding van een rust- en verzorgingstehuis word
 
 ### ART. 9.
 
-De investeringssubsidie voor verbouwing van een rust- en verzorgingstehuis wordt vastgesteld conform artikel 5, § 3, van de wet van 27 juni 1978 tot wijziging van de wetgeving op de ziekenhuizen en betreffende sommige andere vormen van verzorging, met dien verstande dat de totale som van de subsidie, uitrusting en meubilering niet inbegrepen, niet hoger mag zijn dan 75 % van de subsidie uitgetrokken voor de uitbreiding van een rusthuis zoals bepaald in artikel 6, § 1, 1°, van het besluit van de Vlaamse regering tot vaststelling van de totale investeringssubsidie en de bouwtechnische normen voor voorzieningen voor bejaarden en voorzieningen in de thuiszorg.
+De investeringssubsidie voor verbouwing van een rust- en verzorgingstehuis wordt vastgesteld conform artikel 5, § 3, van de wet van 27 juni 1978 tot wijziging van de wetgeving op de ziekenhuizen en betreffende sommige andere vormen van verzorging, met dien verstande dat de totale som van de subsidie, uitrusting en meubilering niet inbegrepen, niet hoger mag zijn dan 75 % van de subsidie uitgetrokken voor de uitbreiding van een woonzorgcentrum zoals bepaald in artikel 6, § 1, 1°, van het besluit van de Vlaamse regering tot vaststelling van de totale investeringssubsidie en de bouwtechnische normen voor voorzieningen voor ouderen en voorzieningen in de thuiszorg.
 
 ### ART. 10.
 
