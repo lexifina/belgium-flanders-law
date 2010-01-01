@@ -96,6 +96,10 @@ Onverminderd andersluidende verplichtingen opgelegd bij of krachtens wet of decr
 
 ## HOOFDSTUK V Diverse bepalingen
 
+### ART. 20.
+
+Het decreet van 7 mei 2004 tot oprichting van het verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap Ondernemen, gewijzigd bij het decreet van 22 december 2006, wordt opgeheven.<br /><br />
+
 ### ART. 21.
 
 De Vlaamse Regering wordt ermee belast de bestaande decreetsbepalingen waarin de werking van het Vlaams Agentschap Ondernemen nader is geregeld, te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet.<br /><br />De besluiten die krachtens het eerste lid worden vastgesteld, houden op uitwerking te hebben als ze niet bij decreet zijn bekrachtigd binnen de negen maanden na de datum van de inwerkingtreding ervan. De bekrachtiging werkt terug tot die laatste datum.<br /><br />De in het tweede lid aan de Vlaamse Regering opgedragen bevoegdheid vervalt twaalf maanden na de inwerkingtreding van de bepalingen van dit decreet. Na die datum kunnen de besluiten die krachtens dit artikel zijn vastgesteld en zijn bekrachtigd, alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br /><br />
