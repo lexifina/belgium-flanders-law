@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018743,
+  "title": "Ministerieel besluit van 2009-12-23 tot vaststelling van de subsidiëringswijze van de dagverzorgingscentra",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018743/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "8f21b43de4dde53bd5d27009c169deb43ca753bed852298bbbea65c585d57ffb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018743&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2009-12-23",
+  "gazette": "2010-01-29",
+  "numac": 2010200237,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
