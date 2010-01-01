@@ -360,6 +360,10 @@ In artikel 47 van hetzelfde decreet wordt het woord « scholen » vervangen door
 
 ## Afdeling I Verhoging van de forfaitaire vermindering voor beroepsactieve belastingplichtigen
 
+### ART. 20.
+
+In artikel 3 van het decreet van 30 juni 2006 houdende invoering van een forfaitaire vermindering in de personenbelasting wordt § 3 vervangen door wat volgt :<br />« § 3. Vanaf het aanslagjaar 2010 bedraagt de vermindering 250 euro. Als het activiteitsinkomen, vermeld in artikel 2, § 2, maximaal 22.000 euro bedraagt, dan bedraagt de vermindering 300 euro. »<br /><br />
+
 ## Afdeling II Wijziging van het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen
 
 ### ART. 21.
