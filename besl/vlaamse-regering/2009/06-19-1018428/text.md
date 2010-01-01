@@ -6,6 +6,18 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 22 juni 2007 betreffend
 
 ## HOOFDSTUK I Algemene bepalingen
 
+### ART. 1.
+
+Dit besluit regelt de procedure voor toekenning van subsidies voor time-outprogramma's door het departement Onderwijs en Vorming en het Agentschap Jongerenwelzijn. <br /><br />
+
+### ART. 2.
+
+In dit besluit wordt verstaan onder : <br />1° kortdurende time out : een time-outbegeleiding met een doorlooptijd van vijf tot tien aaneensluitende werkdagen; <br />2° langdurige time out : een time-outbegeleiding met een doorlooptijd van drie tot zes opeenvolgende weken;<br />3° project : de aanbieding en toepassing van time out door een vereniging;<br />4° time out : een methodiek waarbij jongeren tijdelijk uit het secundair onderwijs worden gehaald, met als voornaamste doelstellingen hun re-integratie als schooluitval dreigt, de verhoging van de gekwalificeerde uitstroom uit het secundair onderwijs en de realisatie van integrale begeleiding van die jongeren. <br /><br />
+
+### ART. 3.
+
+Binnen de kredieten die daarvoor jaarlijks beschikbaar zijn op de begroting kunnen onder de voorwaarden, vermeld in dit besluit, projecten worden gesubsidieerd.<br /><br />
+
 ## [HOOFDSTUK I/1 De wijze waarop de contingenten voor de verschillende regio's bepaald worden (ing. BVR 24 september 2010, art. 2)]
 
 ### ART. 3/1.
@@ -26,16 +38,80 @@ In afwijking van artikel 3/1, hanteert de Vlaamse Regering voor de schooljaren 2
 
 ## HOOFDSTUK II Procedure
 
+### ART. 4.
+
+Driejaarlijks lanceert de Vlaamse Regering een algemene oproep aan de organisatoren van time-outbegeleidingen, waarin de wijze van en de voorwaarden voor de indiening van subsidieaanvragen worden aangegeven.<br /><br />De oproep bevat tevens : <br />1° het maximale bedrag dat toegekend kan worden voor een begeleiding van kortdurende time out;<br />2° het maximale bedrag dat toegekend kan worden voor een begeleiding van langdurige time out;<br />3° het voorziene contingent van begeleidingen van kortdurende en langdurige time out dat per regio, zijnde elk administratief arrondissement van de provincies gelegen in het Vlaamse Gewest en het administratief arrondissement Brussel-Hoofdstad, toegekend kan worden.<br /><br />De oproep wordt in het Belgisch Staatsblad bekendgemaakt voor 1 januari. <br /><br />
+
+### ART. 5.
+
+De subsidieaanvraag wordt ingediend bij : <br />1° het departement Onderwijs en Vorming, als het een project voor kortdurende time out betreft;<br />2° het departement Onderwijs en Vorming en het Agentschap Jongerenwelzijn, als het een project voor langdurig time out betreft. De Vlaamse Regering organiseert hiervoor één loket.<br /><br />
+
+### ART. 6.
+
+Een subsidieaanvraag is alleen ontvankelijk : <br />1° als ze voor 28 februari per aangetekende brief met ontvangstmelding wordt ingediend in de vorm van een projectfiche, waarvan het model samen met de oproep ter beschikking wordt gesteld;<br />2° als ze minstens de volgende gegevens bevat : <br />a) de identiteit en het adres van een of meer inrichtende machten of de opgerichte dienst;<br />b) een omschrijving van het project;<br />c) een beschrijving van de (plaatselijke) maatschappelijke behoefte, de doelstellingen en de doelgroep die met het project worden beoogd;<br />d) een begroting van alle inkomsten en uitgaven voor de realisatie van het project;<br />e) het aantal begeleidingen dat het project op schooljaarbasis wil realiseren;<br />f) het aantal begeleidingen waarvoor een subsidieaanvraag ingediend wordt, waarbij verklaard wordt dat voor die begeleidingen geen subsidies bij andere instanties worden aangevraagd; <br />g) een beschrijving van de processen en de methoden, alsook een voorstel voor de evaluatie van de beoogde hulpverlening op het vlak van efficiëntie en effectiviteit, met vermelding van de concrete meetfactoren;<br />h) de regio waarin de organisator de time-outbegeleidingen aanbiedt;<br />3° als het aanbod van time-outbegeleidingen gericht is op alle scholen in de regio.<br /><br />
+
+### ART. 7.
+
+De ontvankelijke subsidieaanvragen worden op de volgende criteria beoordeeld : <br />1° de aanwezigheid van aantoonbare expertise binnen de organisatie die een kwaliteitsvolle invulling van de time-outbegeleidingen garandeert; <br />2° de inhoudelijke omschrijving van het project waaruit kan worden opgemaakt of het in de praktijk een kwaliteitsvol project zal zijn; <br />3° de beschrijving van de structuur en de kostenstructuur van de organisatie waaruit blijkt dat een kwaliteitsvolle en kostenefficiënte invulling van de time-outbegeleidingen mogelijk is; <br />4° de realiseerbaarheid van het aantal aangevraagde time-outbegeleidingen door de organisatie binnen een bepaalde regio.<br /><br />Naast die algemene criteria kunnen ook bijzondere criteria worden opgelegd. Die worden opgenomen in de tekst van de oproep.<br /><br />De ontvankelijk verklaarde subsidieaanvragen worden op basis van de criteria, vermeld in het eerste en het tweede lid, per regio, vermeld in artikel 4, tweede lid, 3°, op een gemotiveerde wijze gerangschikt in drie niveaus : zeer goed, goed en onvoldoende. <br /><br />De toewijzing van de contingenten, vermeld in artikel 4, tweede lid, 3°, gebeurt eerst aan de projecten met een zeer goed niveau, en vervolgens aan de projecten met een goed niveau. Als het aantal begeleidingen dat door de met hetzelfde niveau geselecteerde projecten aangevraagd werd groter is dan het aantal begeleidingen dat gesubsidieerd kan worden, wordt het beschikbare aantal begeleidingen pro rata verdeeld over deze projecten.<br /><br />Als het voor een regio voorziene contingent niet volledig toegekend kan worden, wordt het niet toegewezen saldo van begeleidingen toegevoegd aan het contingent van de regio's waar er meer subsidieaanvragen voor begeleidingen van projecten met een zeer goed of een goed niveau zijn, dan voorzien in het betreffende contingent. De verdeling van het niet toegewezen saldo van begeleidingen tussen die verschillende regio's gebeurt pro rata, rekening houdend met de initiële contingenten van die regio's, binnen de beschikbare kredieten.<br /><br />
+
+### ART. 8.
+
+De projecten die voor subsidiëring in aanmerking komen, worden voor 1 april bij ministerieel besluit vastgesteld : <br />1° door de Vlaamse minister bevoegd voor het onderwijs als het gaat om projecten voor kortdurende time out;<br />2° samen door de Vlaamse minister bevoegd voor het onderwijs en de Vlaamse minister bevoegd voor de bijstand aan personen als het gaat om projecten voor langdurige time out.<br /><br />
+
 ### ART. 8/1.
 
 Als een project haar aanvraag tot subsidiëring of verlenging van subsidiëring intrekt nadat zij geselecteerd werd overeenkomstig artikel 8 of 12, wordt het aan haar toegewezen contingent opnieuw toegevoegd aan het contingent van het betrokken administratieve arrondissement, vermeld in artikelen 3/1 tot en met 3/4, op voorwaarde dat de schijf, vermeld in artikel 14, 1°, ingevolge de aanvraag tot subsidiëring of verlenging nog niet betaald werd. In dat geval wordt het vrijgekomen contingent vervolgens overeenkomstig de criteria, de rangschikking en desgevallend de toekenning aan een ander administratief arrondissement, vermeld in artikel 7, bij ministerieel besluit toegewezen aan een ander project.
 
 ## HOOFDSTUK III Evaluatie
 
+### ART. 9.
+
+§ 1. Voor elk project moet jaarlijks een tussentijds verslag en een eindverslag voorgelegd worden op de wijze die bepaald is door de bevoegde administraties.<br /><br />§ 2. Het tussentijdse verslag wordt verwacht voor 1 februari en moet : <br />1° een stand van zaken bevatten over het aantal uitgevoerde begeleidingen voor kortdurende en langdurige time out;<br />2° toelaten de kwaliteit van de gerealiseerde begeleidingen te evalueren. <br /><br />§ 3. Het eindverslag wordt verwacht voor 15 juli en moet : <br />1° een stand van zaken bevatten over het aantal uitgevoerde begeleidingen voor kortdurende en langdurige time out; <br />2° een bondig verslag bevatten over de bereikte resultaten en de wijze waarop de doelstellingen worden bereikt;<br />3° een financieel verslag bevatten. <br /><br />Voor 15 juli wordt een voorlopig financieel verslag verwacht met een raming voor de resterende maanden juli en augustus van dat werkingsjaar. De definitieve financiële stukken moeten voor 1 oktober ingeleverd worden.<br /><br />
+
+### ART. 10.
+
+Het project maakt gebruik van een boekhoudplan overeenkomstig een rekeningstelsel, bepaald door de Vlaamse minister bevoegd voor de bijstand aan personen.<br /><br />Het project laat toezicht toe van de administratie op de boekhouding en op de aanwending van de subsidies, zowel op stukken als ter plaatse.<br /><br />
+
 ## HOOFDSTUK IV Verlenging
+
+### ART. 11.
+
+De subsidiëring van de projecten kan binnen een periode van drie opeenvolgende schooljaren tot tweemaal verlengd worden. Daartoe moet voor het gesubsidieerde project overeenkomstig artikel 5 een verlengingsdossier ingediend worden, dat minstens de volgende documenten bevat : <br />1° een volledig ingevuld aanvraagformulier, waarvan het model ter beschikking wordt gesteld; <br />2° een motivatie waaruit blijkt dat het aantal aangevraagde time-outbegeleidingen gerealiseerd kan worden, en die toelaat de kwaliteit van de begeleidingen te evalueren.<br /><br />Het dossier moet ingediend worden voor 1 mei en kan aangevuld worden met verslagen van werkbezoeken door of in opdracht van het Departement Onderwijs en Vorming of het Agentschap Jongerenwelzijn.<br /><br />
+
+### ART. 12.
+
+Jaarlijks worden, voor 1 juli, bij ministerieel besluit de projecten vastgesteld die op basis van een positieve evaluatie van de verlengingsdossiers voor verlenging in aanmerking komen : <br />1° door de Vlaamse minister bevoegd voor het onderwijs als het gaat om projecten voor kortdurende time out; <br />2° samen door de Vlaamse minister bevoegd voor het onderwijs en de Vlaamse minister bevoegd voor de bijstand aan personen als het gaat om projecten voor langdurige time out.<br /><br />
 
 ## HOOFDSTUK V Tussentijdse oproepen
 
+### ART. 13.
+
+In afwijking van artikel 4 kunnen binnen een periode van drie opeenvolgende schooljaren twee tussentijdse oproepen gelanceerd worden. <br /><br />Een tussentijdse oproep als vermeld in het eerste lid verloopt volgens de procedure en selectie, vermeld in hoofdstuk II, met uitzondering van de termijn, vermeld in artikel 4, tweede lid, waar als datum 10 mei geldt in plaats van 1 januari, en de termijn, vermeld in artikel 6, 1°, waar als datum 31 mei geldt in plaats van 28 februari.<br /><br />De verlenging van de projecten, initieel geselecteerd overeenkomstig het eerste en het tweede lid, verloopt volgens de procedure en de bepalingen vermeld in hoofdstuk IV, met dien verstande dat een verlenging enkel mogelijk is binnen de resterende looptijd van de driejaarlijkse algemene oproep, vermeld in artikel 4.<br /><br />
+
 ## HOOFDSTUK VI Financiering
 
+### ART. 14.
+
+De subsidie wordt uitbetaald in drie schijven : <br />1° 60 % binnen een maand na de vaststelling van de te subsidiëren projecten bij ministerieel besluit als vermeld in artikel 8 of 12;<br />2° 20 % na de goedkeuring van het tussentijdse verslag, vermeld in artikel 9, § 2;<br />3° het saldo van 20 % nadat het eindverslag en de definitieve financiële stukken, vermeld in artikel 9, § 3, zijn voorgelegd en werden goedgekeurd door de bevoegde administraties. <br /><br />
+
+### ART. 15.
+
+De subsidie kan uitsluitend worden aangewend voor de personeelskosten en de werkingskosten van het project.<br /><br />
+
+### ART. 16.
+
+Als uit het eindverslag blijkt dat minder begeleidingen georganiseerd werden dan het project toegezegd kreeg, wordt de subsidie pro rata teruggevorderd.<br /><br />
+
 ## HOOFDSTUK VII Slotbepalingen
+
+### ART. 17.
+
+In de loop van het derde jaar na de algemene oproep gebeurt een evaluatie van de projecten, waarbij nagegaan wordt in welke mate de doelstellingen, vermeld in artikel X.3 van het decreet van 22 juni 2007 betreffende het Onderwijs XVII, gerealiseerd werden. De resultaten van die evaluatie worden meegenomen bij de volgende algemene oproep.<br /><br />
+
+### ART. 18.
+
+Dit besluit treedt in werking op 1 januari 2010.<br /><br />
+
+### ART. 19.
+
+De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister bevoegd voor de bijstand aan personen, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.<br /><br />
