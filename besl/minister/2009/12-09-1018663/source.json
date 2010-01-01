@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018663,
+  "title": "Ministerieel besluit van 2009-12-09 houdende de bewijsvoering met betrekking tot de subsidiëringsvoorwaarden in het kader van de animatiewerking en de effectieve tewerkstelling van de personeelsleden die tewerkgesteld zijn met een gewezen DAC-statuut",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018663/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "818eae7e866bc164c2a4697940f4c7f16582793da306bbc7d9e9e78abc3a4c17",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018663&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2009-12-09",
+  "gazette": "2010-01-11",
+  "numac": 2009206003,
+  "document_start": "2010-01-01",
+  "document_end": "2017-02-02",
+  "in_force": "2010-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
