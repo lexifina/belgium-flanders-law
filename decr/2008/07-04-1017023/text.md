@@ -374,6 +374,10 @@ In artikel 158, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van
 
 In artikel 159 van hetzelfde decreet wordt een zesde lid ingevoegd, dat luidt als volgt :<br />« De mandaten van de ZAP-leden die bezoldigd worden met middelen van het in artikel 168 vermelde Bijzonder Onderzoeksfonds worden niet in rekening gebracht voor de berekening van de in dit artikel vermelde personeelsformatie. ». <br /><br />
 
+### ART. V.9.
+
+In artikel 166bis van hetzelfde decreet worden de woorden « een termijn van één jaar te rekenen van de eerste januari volgend op de datum van betaling » vervangen door de woorden « een termijn van twee jaar te rekenen van de eerste januari van het jaar van de betaling ».<br /><br />
+
 ### ART. V.10.
 
 In hetzelfde decreet wordt punt 1° van artikel 169 opgeheven.<br /><br />
@@ -423,6 +427,10 @@ In artikel 231 van hetzelfde decreet wordt een § 2 toegevoegd, die luidt als vo
 ### ART. V.21.
 
 In artikel 232 van hetzelfde decreet wordt een tweede lid in § 1 toegevoegd, dat luidt als volgt :<br />« In geval van een herstructurering zoals bedoeld in artikel 2, 14°, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en universiteiten in Vlaanderen, kunnen de herstructurerende instellingen op gemotiveerde wijze afwijken van de in de eerste alinea bedoelde variatie. ».<br /><br />
+
+### ART. V.22.
+
+Artikel 239 van hetzelfde decreet, gewijzigd bij het decreet van 14 juli 1998, wordt vervangen door wat volgt :<br />« Artikel 239<br />Als het hogeschoolbestuur of de bevoegde overheid de salarissen van het onderwijzend personeel of van het administratief en technisch personeel verkeerd heeft vastgesteld, moet het de terugbetaling vragen binnen een termijn van twee jaar te rekenen vanaf de eerste januari van het jaar van betaling in de vorm zoals bepaald in artikel 16, § 2, eerste lid, van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof. Als de terugbetaling niet gevraagd wordt binnen de gestelde termijn, zijn de ten onrechte uitbetaalde bedragen definitief vervallen.<br /><br />Te rekenen vanaf de vraag bedoeld in het eerste lid kan het onverschuldigde bedrag worden teruggevorderd gedurende de termijn die in artikel 16, § 2, tweede lid, van vermelde wet is bepaald. ».<br /><br />
 
 ### ART. V.23.
 
@@ -782,6 +790,10 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2008, met uitzo
 ## HOOFDSTUK VIII Rechtspositie onderwijspersoneel
 
 ## Afdeling I Terugvorderingen
+
+### ART. VIII.1.
+
+Artikel 198 van het decreet van 31 juli 1990 betreffende het onderwijs II, gewijzigd bij de decreten van 9 april 1992, 28 april 1993 en 13 juli 2001 en bij besluit van de Vlaamse Regering van 14 december 2001, wordt vervangen door wat volgt :<br />« Artikel 198<br />Inzake toegekende salarissen, voorschotten daarop en vergoedingen, toelagen of uitkeringen, die een toebehoren van de salarissen vormen of ermee gelijkstaan, zijn de door de Vlaamse Gemeenschap ten onrechte uitbetaalde sommen voorgoed vervallen, als de terugbetaling daarvan niet is gevraagd aan de inrichtende machten van onderwijs of hun personeelsleden binnen een termijn van twee jaar te rekenen van de eerste januari van het jaar van de betaling, in de vorm zoals bepaald in artikel 16, § 2, eerste lid, van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.<br /><br />Te rekenen vanaf de vraag bedoeld in het eerste lid kan het onverschuldigde bedrag worden teruggevorderd gedurende de termijn die in artikel 16, § 2, tweede lid, van vermelde wet is bepaald.<br /><br />Inzake toegekende salarissen, voorschotten daarop en vergoedingen, toelagen of uitkeringen, die een toebehoren van de salarissen vormen of ermee gelijkstaan wordt van de inrichtende machten van onderwijs of hun personeelsleden geen terugbetaling gevorderd van de door de Vlaamse Gemeenschap ten onrechte uitbetaalde sommen, waarvan het totale bedrag 25 euro niet overschrijdt.<br /><br />De Vlaamse Regering kan het in het vorig lid vastgestelde bedrag wijzigen.<br /><br />Dit artikel is niet van toepassing op het hoger onderwijs. ».<br /><br />
 
 ## Afdeling II Rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs
 
@@ -1294,6 +1306,10 @@ Het besluit van de Vlaamse Regering van 7 september 2007 betreffende de organisa
 ### ART. XI.4.
 
 De volgende bepalingen, zoals gewijzigd worden opgeheven :<br />1° artikelen 12, 36, 47, 63, 64, 85, 86, van het decreet van 5 juli 1989 betreffende het onderwijs;<br />2° artikelen 18, 24, 25, 44, 52, 56, 2°, 58, 59, 5° en 6°, 63, 84bis, § 2, 84sexies, 84septies, 89, 100quinquies, § 1 en § 1bis, 101, 107, 148, § 4, 201, 202, van het decreet van 31 juli 1990 betreffende het onderwijs II;<br />3° artikelen 11, 14, 16, § 3, 18, 19, 42, 60, 68, 69, 70, van het decreet van 9 april 1992 betreffende het onderwijs III;<br />4° artikelen 9, 22, 27, 66, 67, 68, 76, 91, 125, 127, van het decreet van 28 april 1993 betreffende het onderwijs IV;<br />5° artikelen 45, 58, 63, 92 tot en met 96, 99, 100 tot en met 103, 107 tot en met 109, 146, 148, 166 tot en met 168, 169bis tot en met 169ter, 169quinquies tot en met 169sexies, 170, van het decreet van 21 december 1994 betreffende het onderwijs VI;<br />6° artikelen 9, 13, 58 tot en met 61, 95, 72, 54, 81, 112, 182, 191 tot en met 195, 200, van het decreet van 8 juli 1996 betreffende het onderwijs VII;<br />7° artikelen 16 en17 van het decreet van 15 juli 1997 betreffende het onderwijs VIII;<br />8° artikel 7 van het decreet van 14 juli 1998 betreffende het onderwijs IX;<br />9° artikelen 159 en 177 van het decreet van 18 mei 1999 betreffende het onderwijs XI;<br />10° artikelen 83, 84, 85, 86 van het decreet van 20 oktober 2000 betreffende het onderwijs XII Ensor;<br />11° artikel V.36 van het decreet van 13 juli 2001 betreffende het onderwijs XIII-Mozaïek;<br />12° het besluit van de Vlaamse Regering van 17 juni 2005 betreffende de subsidie projectfinanciering voor regionale technologische centra.<br /><br />
+
+### ART. XI.5.
+
+De volgende bepalingen, zoals gewijzigd worden opgeheven :<br />1° artikel 199, derde lid, van het decreet van 31 juli 1990 betreffende het onderwijs II;<br />2° artikelen 175 en 176 van het decreet basisonderwijs van 25 februari 1997;<br />3° artikelen 103 en 104 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding;<br />4° artikelen 115 tot en met 117 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />
 
 ### ART. XI.6.
 
