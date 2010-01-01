@@ -2,16 +2,16 @@
   "codex_id": 1000157,
   "title": "Gecodificeerd Decreet van 1991-12-18 inzake voorzieningen voor [ouderen (verv. decr. 13 juli 2007, art. 2]",
   "type": "Gecodificeerd Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000157/VolledigDocument?datum=2008-12-01",
-  "source_sha256": "1531142558e634e07d90eaa22689d59284b76da46c172ac4c626c84942d57c28",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000157/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "2c2a2a42801d1745b7e52339112aaa6ae42e8b92fcd3f35986b47a73bdd6ff7b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000157&param=informatie",
-  "as_of": "2008-12-01",
+  "as_of": "2010-01-01",
   "made": "1991-12-18",
   "gazette": "1992-08-20",
   "numac": 0,
   "document_start": null,
   "document_end": "2012-12-31",
-  "in_force": "2008-12-01",
+  "in_force": "2010-01-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2008-12-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }

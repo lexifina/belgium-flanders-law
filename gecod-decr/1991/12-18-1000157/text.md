@@ -25,7 +25,7 @@ Voor de toepassing van deze gecoördineerde decreten wordt verstaan onder:<br>
 
 ### ART. 3.
 
-§ 1. Alleen lokale en provinciale besturen kunnen subsidies krijgen voor het bouwen en verbouwen van woningen voor ouderen, of voor de aankoop van gebouwen bestemd om als woning voor ouderen te worden ingericht. <br /><br />§ 2. Om voor de subsidiëring in aanmerking te komen moeten de woningen voor ouderen aan de volgende voorwaarden voldoen:<br />1° passen in het kader van de programmatie die door de regering wordt bepaald; <br />2° zodanig zijn ingeplant dat de bewoners in de lokale gemeenschap geïntegreerd blijven;<br />3° beantwoorden aan de voorwaarden die door de regering worden vastgesteld. <br /><br />De aanvrager van de subsidie moet zich ertoe verbinden de criteria en de voorwaarden volgens welke de woningen voor ouderen zullen worden toegewezen aan de regering ter goedkeuring voor te leggen.
+...
 
 ## AFDELING 2 [... (opgeh. decr. 14 juli 1998, art. 29)]
 
