@@ -2,16 +2,16 @@
   "codex_id": 1018442,
   "title": "Ministerieel besluit van 2009-08-19 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden voor wat betreft de uitvoering van de gedeelde bevoegdheden met het oog op de inrichting van een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018442/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "55d5857e293974095bd26fe89df718c7b4de71bd3ddfb04274b5c3151b0ac5a6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018442/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "6ac2a958e49234c6662ac7df53c9cef001fedd0a12f61f005ec6a56384cfbad6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018442&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2010-01-01",
   "made": "2009-08-19",
   "gazette": "2009-10-13",
   "numac": 2009035958,
   "document_start": "2009-01-01",
   "document_end": "2014-12-31",
-  "in_force": "2009-01-01",
+  "in_force": "2010-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
