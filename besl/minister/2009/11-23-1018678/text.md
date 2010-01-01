@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2009-11-23 tot wijziging van het ministerieel besluit van 21 oktober 2003 houdende de erkenning van de regionale dienst voor gezinszorg Welzijnszorg Kempen
+
+### Aanhef
+
+De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op het decreet van 14 juli 1998 houdende de erkenning en subsidiëring van verenigingen en welzijnsvoorzieningen in de thuiszorg, artikel 24, § 1 en § 2, gewijzigd bij de decreten van 18 mei 1999 en 13 juli 2007;<br /><br />Gelet op het besluit van de Vlaamse Regering van 18 december 1998 houdende erkenning en de subsidiëring van verenigingen en welzijnsvoorzieningen in de thuiszorg, artikel 2, § 2, gewijzigd bij het besluit van de Vlaamse Regering van 17 maart 2006 en bijlage I, gewijzigd bij de besluiten van de Vlaamse Regering van 30 maart 1999, 5 maart 2000, 30 maart 2001, 10 juli 2001, 15 maart 2002, 17 januari 2003, 28 november 2003, 30 april 2004, 17 maart 2006, 28 april 2006, 8 september 2006, 12 januari 2007, 29 juni 2007, 19 juli 2007, 18 juli 2008, 10 oktober 2008, 12 december 2008 en 27 maart 2009;<br /><br />Gelet op het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij het besluit van de Vlaamse Regering van 24 juli 2009;<br /><br />Gelet op het ministerieel besluit van 21 oktober 2003 houdende de erkenning van de regionale dienst voor gezinszorg Welzijnszorg Kempen, gewijzigd bij het ministerieel besluit van 28 juni 2005;<br /><br />Overwegende dat de O.C.M.W.-raad van Dessel in haar zitting van 22 juni 2009 beslist heeft om met ingang van 1 januari 2010 met de dienst voor gezinszorg van het O.C.M.W. van Dessel uit te treden uit de regionale dienst voor gezinszorg van Welzijnszorg Kempen met behoud van de erkenning en van het ingebrachte urencontingent, overeenkomstig artikel 7 van de overeenkomst van 18 november 2002 tussen het O.C.M.W. van Dessel en Welzijnszorg Kempen betreffende de aansluiting bij de regionale dienst voor gezinszorg;<br /><br />Overwegende dat de Raad van Beheer van Welzijnszorg Kempen in haar zitting van 9 september 2009 akte heeft genomen van de beslissing van de O.C.M.W.-raad van Dessel om uit de regionale dienst voor gezinszorg te treden,<br /><br />Besluit : <br /><br />
+
+### ART. 1.
+
+In artikel 2 van het ministerieel besluit van 21 oktober 2003 houdende de erkenning van de regionale dienst voor gezinszorg Welzijnszorg Kempen, gewijzigd bij het ministerieel besluit van 28 juni 2005, wordt punt 8° opgeheven.<br /><br />
+
+### ART. 2.
+
+Dit besluit treedt in werking op 1 januari 2010. <br /><br />
