@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019230,
+  "title": "Ministerieel besluit van 2010-05-31 tot wijziging van artikel 1 van het ministerieel besluit van 13 augustus 2009 betreffende de vaststelling van de modaliteiten tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019230/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "f61861aa990ccee64007efae443969e50e137d0154da501a11c17ec758e012b7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019230&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2010-05-31",
+  "gazette": "2010-07-22",
+  "numac": 2010203797,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
