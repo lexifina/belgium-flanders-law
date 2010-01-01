@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019817,
+  "title": "Besluit van de Vlaamse Regering van 2010-11-19 tot vaststelling van het totale aantal subsidiabele uren voor de diensten voor logistieke hulp voor het jaar 2010",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019817/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "cacbe3bc199aac04a9dac2cb05570716cbe22f1d52be73458ea5ae4dd17814e9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019817&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2010-11-19",
+  "gazette": "2010-12-23",
+  "numac": 2010206397,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
