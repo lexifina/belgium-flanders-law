@@ -4805,7 +4805,7 @@ Bij het gebruik van de trein voor de verplaatsing van en naar het werk wordt het
 
 ### ART. 164.
 
-De raad kan bepalen dat een maandelijkse fietsvergoeding van 15 cent per kilometer wordt toegekend aan het personeelslid dat de verplaatsing van en naar het werk volledig of gedeeltelijk met de fiets aflegt.<br />
+Een maandelijkse fietsvergoeding kan worden toegekend aan het   personeelslid dat de verplaatsing van en naar het werk volledig of gedeeltelijk   met de fiets aflegt.<BR><BR>De raad bepaalt het bedrag dat per kilometer wordt   toegekend. Dat bedrag is minimaal gelijk aan 0,15 euro per kilometer en maximaal   gelijk aan het bedrag dat op grond van de fiscale wetgeving en   socialezekerheidswetgeving is vrijgesteld van belasting en sociale bijdragen.
 
 ### ART. 165.
 
