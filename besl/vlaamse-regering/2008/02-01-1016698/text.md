@@ -6,20 +6,20 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° decreet : het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap Ondernemen;<br />2° de minister : de Vlaamse minister, bevoegd voor het economisch beleid.<br /><br />
+...
 
 ### ART. 2.
 
-Ter uitvoering van artikel 10, § 2, eerste lid, van het decreet is het raadgevend comité paritair samengesteld uit :<br />1° zes vertegenwoordigers, effectief en plaatsvervangend, van de representatieve organisaties van de werkgevers en de middenstand;<br />2° zes vertegenwoordigers, effectief en plaatsvervangend, van de representatieve organisaties van werknemers.<br /><br />De vertegenwoordigers worden overeenkomstig artikel 10, § 2, tweede lid, van het decreet en conform het decreet van 13 juli 2007 houdende de bevordering van een meer evenwichtige participatie van vrouwen en mannen in advies- en bestuursorganen van de Vlaamse overheid, benoemd door de minister, op voordracht van de representatieve organisaties.<br /><br />De minister wordt ertoe gemachtigd om maximum twee onafhankelijke deskundigen aan te wijzen die overeenkomstig artikel 10, § 2, derde lid, van het decreet zitting kunnen hebben in het raadgevend comité.<br /><br />
+...
 
 ### ART. 3.
 
-Het raadgevend comité stelt een huishoudelijk reglement op en legt het ter goedkeuring voor aan de Vlaamse Regering. Het reglement stelt de praktische werking vast, de deontologie, de informatie en rapporteringsopdracht van het comité.<br /><br />
+...
 
 ### ART. 4.
 
-Dit besluit treedt in werking op de dag van bekendmaking van dit besluit.<br /><br />
+...
 
 ### ART. 5.
 
-De Vlaamse minister, bevoegd voor het economisch beleid, is belast met de uitvoering van dit besluit. <br /><br />
+...
