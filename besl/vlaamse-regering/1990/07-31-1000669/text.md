@@ -225,6 +225,10 @@ De programmatie is bovendien onderworpen aan volgende voorwaarden en beperkingen
 
 § 1. De oprichting van een optie animatiefilm in de middelbare, hogere en specialisatiegraad houdt in dat de optie geleidelijk, leerjaar per leerjaar of leeftijdsgroep per leeftijdsgroep en graad per graad opgericht wordt.<br /><br />§ 2. De oprichting van een optie digitale beeldende kunst in de hogere graad houdt in dat de optie geleidelijk, leerjaar per leerjaar, opgericht wordt.<br /><br />§ 3. De oprichting van een optie interactieve media houdt in dat de optie geleidelijk, leerjaar per leerjaar en graad per graad opgericht wordt.<br /><br />§ 4. De oprichting van een optie kunstexploratie houdt in dat de optie geleidelijk, leerjaar per leerjaar opgericht wordt.<br /><br />§ 5. De oprichting van een optie theatervormgeving houdt in dat de optie geleidelijk, leerjaar per leerjaar en graad per graad, opgericht wordt.<br /><br />§ 6. De voorwaarden, vermeld in paragraaf 1 tot en met 5, zijn niet van toepassing op instellingen die opties, vermeld in paragraaf 1 tot en met 5, als tijdelijk project, als vermeld in artikel 44, § 1bis, 1quater, 1sexies, 1octies en 1decies, georganiseerd hebben.
 
+### ART. 49ter.
+
+In afwijking van artikel 43, § 2, § 2bis en § 7, artikel 44, § 1, artikel 45 en artikel 48, § 1, kunnen tijdens de schooljaren 2010-2011 en 2011-2012 in het deeltijds kunstonderwijs geen nieuwe instellingen, filialen, studierichtingen en hogere graden in de financierings- of subsidieregeling opgenomen worden.
+
 ## HOOFDSTUK VIII OVERGANGSMAATREGELEN
 
 ### ART. 50.
