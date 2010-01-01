@@ -4,6 +4,10 @@
 
 ## HOOFDSTUK 2. Wet Oppervlaktewateren
 
+### ART. 3.
+
+In artikel 32duodecies, § 1, van dezelfde wet, ingevoegd bij het decreet van 22 december 1995 en gewijzigd bij de decreten van 21 december 2001 en 24 december 2004, worden de woorden « of intergemeentelijke samenwerkingsverbanden » vervangen door de woorden « , intergemeentelijke samenwerkingsverbanden of de Vlaamse Maatschappij voor Watervoorziening ».
+
 ## HOOFDSTUK 3. Afvalstoffendecreet
 
 ## HOOFDSTUK 4. Milieuvergunningendecreet
