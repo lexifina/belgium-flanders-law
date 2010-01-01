@@ -18,6 +18,10 @@
 
 Aan artikel 121 van hetzelfde besluit wordt een paragraaf 3 toegevoegd,   die luidt als volgt :<BR>« De minimale salarisverhoging, vermeld in paragraaf 1   en 2, is een integraal onderdeel van het jaarsalaris. ». <BR>
 
+### ART. 33.
+
+<P>Artikel 164 van hetzelfde besluit wordt vervangen door wat volgt :<BR>« Art.   164. Een maandelijkse fietsvergoeding kan worden toegekend aan het personeelslid   dat de verplaatsing van en naar het werk volledig of gedeeltelijk met de fiets   aflegt.<BR></P>  <P>De raad bepaalt het bedrag dat per kilometer wordt toegekend. Dat bedrag is   minimaal gelijk aan 0,15 euro per kilometer en maximaal gelijk aan het bedrag   dat op grond van de fiscale wetgeving en socialezekerheidswetgeving is   vrijgesteld van belasting en sociale bijdragen. ».<BR></P>
+
 ## HOOFDSTUK 2 Wijziging van het besluit van de Vlaamse Regering van 12 november 2010 houdende de minimale voorwaarden voor de personeelsformatie en het mandaatstelsel van het personeel van de openbare centra voor maatschappelijk welzijn en houdende de minimale voorwaarden voor sommige aspecten van de rechtspositieregeling van bepaalde personeelsgroepen van de openbare centra voor maatschappelijk welzijn
 
 ## HOOFDSTUK 3 Slotbepalingen
