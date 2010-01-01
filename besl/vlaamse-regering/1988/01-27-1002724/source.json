@@ -2,16 +2,16 @@
   "codex_id": 1002724,
   "title": "Besluit van de Vlaamse Regering van 1988-01-27 tot vaststelling van de specifieke brandveiligheidsnormen waaraan de logiesverstrekkende bedrijven moeten voldoen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002724/VolledigDocument?datum=2008-09-07",
-  "source_sha256": "114f63b375adc61e0abce935b6a029eb96cb25ec9678911e271c23f627638e13",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002724/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "7a664cbf1369c87c629db90437cc1446a2fc361106d9df7450f7e1da45e7a582",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002724&param=informatie",
-  "as_of": "2008-09-07",
+  "as_of": "2010-01-01",
   "made": "1988-01-27",
   "gazette": "1988-05-27",
   "numac": 1988029411,
   "document_start": null,
   "document_end": "2009-12-31",
-  "in_force": "2008-09-07",
+  "in_force": "2010-01-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2008-09-07; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
