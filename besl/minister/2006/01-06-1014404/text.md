@@ -2,15 +2,15 @@
 
 ### ART. 1.
 
-De handleiding zorgverzekering, gevoegd als enige bijlage bij dit besluit, wordt goedgekeurd.
+...
 
 ### ART. 2.
 
-(niet opgenomen)<br /><br />(Heft het ministerieel besluit van 1 augustus 2005 houdende de goedkeuring van de handleiding zorgverzekering op)
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking op 1 januari 2006, met uitzondering van hoofdstuk V, afdeling I, van de bijlage bij dit besluit, dat met ingang van 25 november 2005 in werking treedt.
+...
 
 ## Handleiding Zorgverzekering
 
@@ -112,7 +112,7 @@ Hoofdstuk XVIII. Rechtzetting door de zorgkassen van foutieve beslissingen<br>
 <br>
 Hoofdstuk XIX. Archivering<br>
 <br>
-Hoofdstuk XX. Gegevensinzameling<br>
+Hoofdstuk XX. Gegevensinzameling (opgeheven)<br>
 <br>
 Afdeling I. Recordtype A: leden<br>
 <br>
@@ -634,10 +634,10 @@ Hieronder vindt u een tabel met een beschrijving van het vaste gedeelte.<br>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
 			<p>Naam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:62.1pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
 			<p>Veldlengte</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:245pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
 			<p>Opmerkingen</p>
 			</td>
 		</tr>
@@ -645,10 +645,10 @@ Hieronder vindt u een tabel met een beschrijving van het vaste gedeelte.<br>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
 			<p>Rijksregisternummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>11</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -656,10 +656,10 @@ Hieronder vindt u een tabel met een beschrijving van het vaste gedeelte.<br>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
 			<p>Code-nieuwe-zorgkas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -667,10 +667,10 @@ Hieronder vindt u een tabel met een beschrijving van het vaste gedeelte.<br>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
 			<p>Code-afstaande-zorgkas (volgens Zorgfonds)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -678,10 +678,10 @@ Hieronder vindt u een tabel met een beschrijving van het vaste gedeelte.<br>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
 			<p>Afdeling-nieuwe-zorgkas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -689,10 +689,10 @@ Hieronder vindt u een tabel met een beschrijving van het vaste gedeelte.<br>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
 			<p>Inschrijvingsnummer-nieuwe-zorgkas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>Facultatief</p>
 			</td>
 		</tr>
@@ -700,10 +700,10 @@ Hieronder vindt u een tabel met een beschrijving van het vaste gedeelte.<br>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
 			<p>Naam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>48</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -711,313 +711,10 @@ Hieronder vindt u een tabel met een beschrijving van het vaste gedeelte.<br>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
 			<p>Voornaam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>48</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Straat-woonplaats</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>32</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Nummer-woonplaats</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>9</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Bus-woonplaats</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>NIS-code-woonplaats</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Postcode-woonplaats</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Gemeente-woonplaats</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>40</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Straat-verblijfplaats</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>32</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>Indien idem met ‘woonplaats’ hoeft dit veld niet ingevuld te worden (blanco’s)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Nummer-verblijfplaats</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>9</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>Indien idem met ‘woonplaats’ hoeft dit veld niet ingevuld te worden (blanco’s)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Bus-verblijfplaats</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>Indien idem met ‘woonplaats’ hoeft dit veld niet ingevuld te worden (blanco’s)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>NIS-code-verblijfplaats</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>Indien idem met ‘woonplaats’ hoeft dit veld niet ingevuld te worden (blanco’s)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Postcode-verblijfplaats</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>Indien idem met ‘woonplaats’ hoeft dit veld niet ingevuld te worden (blanco’s)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Gemeente-verblijfplaats</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>40</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>Indien idem met ‘woonplaats’ hoeft dit veld niet ingevuld te worden (blanco’s)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Geboortedatum</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>DDMMYYYY</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Geslacht</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>M/V</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Nationaliteit</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>Landcode (KSZ)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Weigering/acceptatie mutatie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>01 mutatie aanvaard – dissier afgesloten</p>
-
-			<p>02 rijksregisternummer foutief of blanco</p>
-
-			<p>03 laattijdige aanvraag mutatie</p>
-
-			<p>04&nbsp; MOB-wetgeving geen lid in verplichte ziekteverzekering</p>
-
-			<p>05 mutatie-aanvraag op zelfde datum bij meerdere zorgkassen</p>
-
-			<p>06 geen lid bij ons, foutieve zorgkas</p>
-
-			<p>07 ondertussen overleden</p>
-
-			<p>08 ontbreken handtekening</p>
-
-			<p>09 betwisting handtekening</p>
-
-			<p>10 tegentekening door muterende</p>
-
-			<p>11 mutatieformulier ontbreekt</p>
-
-			<p>12 ambtshalve, nooit betaald (Vlaamse Zorgkas)</p>
-
-			<p>13 weigering mutatie in verplichte ziekteverzekering</p>
-
-			<p>14 mag niet aansluiten bij zorgverzekering (Europa, niet ingeschreven in rijksregister, enz.)</p>
-
-			<p>15 datum aanvraag door lid ontbreekt op mutatieformulier</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Code-afstaande-zorgkas</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Afdeling-afstaande-zorgkas</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Inschrijvingsnummer-afstaande-zorgkas</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>15</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Opgelegde schorsing en wachttijd</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>Totaal aantal maanden opgelegde schorsing</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Resterende schorsing en wachttijd</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>Aantal maanden resterende schorsing op einde december</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Brussel-datum-start</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>DDMMYYYY, dit is datum start laatste ononderbroken aansluiting</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Brussel-aantal-jaren-termijn van ononderbroken aansluiting,</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>Dit is 00, 01, 03, 05 of 10 jaar</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Dossier-zorgbehoevendheid</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
-			<p>J/N</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Totaal-nog-verschuldigde-bijdragen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
-			<p>5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:245pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -2419,554 +2116,14 @@ Hoofdstuk XIXbis. Regularisatie<br>
 <br>
 HOOFDSTUK XX GEGEVENSINZAMELING<br>
 <br>
-AFDELING I RECORDTYPE A: LEDEN<br>
-<br>
-Structuur<br>
-header : jaar en maand, zorgkas, type A (YYYYMMXXXA)<br>
-code zorgkas :<br>
-180 = CM-zorgkas<br>
-280 = Neutrale Zorgkas Vlaanderen<br>
-380 = Zorgkas van de Socialistische Mutualiteiten<br>
-480 = Zorgkas van de liberale ziekenfondsen<br>
-580 = Zorgkas van de Onafhankelijke Ziekenfondsen<br>
-680 = Vlaamse zorgkas<br>
-880 = Zorgkas DKV Belgium<br>
-Velden :<br>
-1. rijksregisternummer (veldlengte 11, numeriek)<br>
-2. Voornaam (veldlengte 50, alfanumeriek, langs rechts opvullen met spaties)<br>
-3. Naam (veldlengte 50, alfanumeriek, langs rechts opvullen met spaties)<br>
-4. geboortejaar (veldlengte 4, numeriek)<br>
-5. geslacht (veldlengte 1, numeriek)<br>
-1 : man<br>
-2 : vrouw<br>
-6. NIS - code van gemeente (veldlengte 5, numeriek)<br>
-7. landcode (veldlengte 5, numeriek)<br>
-8. werkplaats (veldlengte 1, numeriek)<br>
-0 : onbepaald<br>
-1 : Vlaams Gewest<br>
-2 : Brussels Hoofdstedelijk Gewest<br>
-9. code decentraal punt van de zorgkas (veldlengte 3, numeriek)<br>
-10. datum aanvang aansluiting YYYYMMDD (veldlengte 8, numeriek)<br>
-11. code van aansluiting (veldlengte 2, numeriek)<br>
-00 = aansluiting bij opstart zorgverzekering<br>
-10 = bereiken leeftijd<br>
-20 = indienen aanvraag tenlasteneming (jonger dan 26 jaar)<br>
-21 = goedgekeurde aanvraag tenlasteneming (jonger dan 26 jaar, is effectief lid van de zorgkas)<br>
-30 = komen wonen in Vlaanderen<br>
-40 = komen wonen in Brussel (en aansluiting binnen 6 maanden)<br>
-50 = vrijwillige aansluiting in Brussel (na meer dan 6 maanden)<br>
-7X = mutatie van andere zorgkas<br>
-71 = CM-zorgkas<br>
-72 = Neutrale Zorgkas Vlaanderen<br>
-73 = Zorgkas van de Socialistische Mutualiteiten<br>
-74 = Zorgkas van de liberale ziekenfondsen<br>
-75 = Zorgkas van de Onafhankelijke Ziekenfondsen<br>
-76 = Vlaamse zorgkas<br>
-77 = Ethias Zorgkas<br>
-78 = Zorgkas DKV Belgium<br>
-80 = ambtshalve aansluiting<br>
-85 = aansluiting van persoon die vrijgesteld was in het kader van de omzendbrieven beroepsactief buitenlands verzekerden, gepensioneerd buitenlands verzekerden, inkomende grensarbeiders en internationale verdragen en overeenkomsten<br>
-90 = onbekend<br>
-12. datum beëindiging aansluiting YYYYMMDD (veldlengte 8, numeriek)<br>
-13. code van beëindiging aansluiting (veldlengte 4, numeriek)<br>
-0000 = geen beëindiging aansluiting<br>
-1010 = overlijden<br>
-1020 = einde van zorgbehoevendheid (jonger dan 26 jaar)<br>
-1030 = verlaten van Vlaanderen of Brussel<br>
-1050 = vrijwillige stopzetting in Brussel<br>
-1060 = schrapping van dubbele aansluiting<br>
-107X = mutatie naar andere zorgkas<br>
-1071 = CM-zorgkas<br>
-1072 = Neutrale Zorgkas Vlaanderen<br>
-1073 = Zorgkas van de Socialistische Mutualiteiten<br>
-1074 = Zorgkas van de liberale ziekenfondsen<br>
-1075 = Zorgkas van de Onafhankelijke Ziekenfondsen<br>
-1076 = Vlaamse zorgkas<br>
-1078 = Zorgkas DKV Belgium<br>
-1080 = overige<br>
-1085 = einde aansluiting doordat betrokkene vrijgesteld is in het kader van de omzendbrieven beroepsactief buitenlands verzekerden, gepensioneerd buitenlands verzekerden, inkomende grensarbeiders en internationale verdragen en overeenkomsten<br>
-1090 = onbekend<br>
-6666 = lid wordt afgestaan aan een andere zorgkas<br>
-14. Betaald bedrag tijdens kalenderjaar (veldlengte 5, numeriek)<br>
-15. Terugbetaalde bijdragen tijdens kalenderjaar (velden m en n om te doen kloppen met boekhouding, (veldlengte 5, numeriek)<br>
-16. aantal maanden schorsing en/of wachttijd (veldlengte 3, numeriek)<br>
-17. aantal maanden resterende schorsing en/of wachttijd (veldlengte 3, numeriek)<br>
-18. datum betaling bijdrage YYYY (Formaat YYYYMMDD, veldlengte 8, numeriek)<br>
-19. Bedrag betaald jaar YYYY (veldlengte 5, numeriek)<br>
-20. Nog verschuldigd bedrag YYYY (veldlengte 5, numeriek)<br>
-21. Teller administratieve boete YYYY (numeriek 1, is 0 of 1)<br>
-22. verhoogde verzekeringstegemoetkoming YYYY (veldlengte 1, numeriek)<br>
-0 = voorlopig onbekend<br>
-1 = persoon geniet niet van verhoogde verzekeringstegemoetkoming<br>
-2 = persoon geniet van verhoogde verzekeringstegemoetkoming<br>
-23. datum betaling bijdrage YYYY-1 (Formaat YYYYMMDD, veldlengte 8, numeriek)<br>
-24. Bedrag betaald jaar YYYY-1 (veldlengte 5, numeriek)<br>
-25. Nog verschuldigd bedrag YYYY-1 (veldlengte 5, numeriek)<br>
-26. Teller administratieve boete YYYY-1 (numeriek 1, is 0 of 1)<br>
-27. verhoogde verzekeringstegemoetkoming YYYY-1 (veldlengte 1, numeriek)<br>
-0 = voorlopig onbekend<br>
-1 = persoon geniet niet van verhoogde verzekeringstegemoetkoming<br>
-2 = persoon geniet van verhoogde verzekeringstegemoetkoming<br>
-28. datum betaling bijdrage YYYY-2 (Formaat YYYYMMDD, veldlengte 8, numeriek)<br>
-29. Bedrag betaald jaar YYYY-2 (veldlengte 5, numeriek)<br>
-30. Nog verschuldigd bedrag YYYY-2 (veldlengte 5, numeriek)<br>
-31. Teller administratieve boete YYYY-2 (numeriek 1, is 0 of 1)<br>
-32. verhoogde verzekeringstegemoetkoming YYYY-2 (veldlengte 1, numeriek)<br>
-0 = voorlopig onbekend<br>
-1 = persoon geniet niet van verhoogde verzekeringstegemoetkoming<br>
-2 = persoon geniet van verhoogde verzekeringstegemoetkoming<br>
-33. datum betaling bijdrage YYYY-3 (Formaat YYYYMMDD, veldlengte 8, numeriek)<br>
-34. Bedrag betaald jaar YYYY-3 (veldlengte 5, numeriek)<br>
-35. Nog verschuldigd bedrag YYYY-3 (veldlengte 5, numeriek)<br>
-36. Teller administratieve boete YYYY-3 (numeriek 1, is 0 of 1)<br>
-37. verhoogde verzekeringstegemoetkoming YYYY-3 (veldlengte 1, numeriek)<br>
-0 = voorlopig onbekend<br>
-1 = persoon geniet niet van verhoogde verzekeringstegemoetkoming<br>
-2 = persoon geniet van verhoogde verzekeringstegemoetkoming<br>
-38. datum betaling bijdrage YYYY-4 (Formaat YYYYMMDD, veldlengte 8, numeriek)<br>
-39. Bedrag betaald jaar YYYY -4 (veldlengte 5, numeriek)<br>
-40. Nog verschuldigd bedrag YYYY-4 (veldlengte 5, numeriek)<br>
-41. Teller administratieve boete YYYY-4 (numeriek 1, is 0 of 1)<br>
-42. verhoogde verzekeringstegemoetkoming YYYY-4 (veldlengte 1, numeriek)<br>
-0 = voorlopig onbekend<br>
-1 = persoon geniet niet van verhoogde verzekeringstegemoetkoming<br>
-2 = persoon geniet van verhoogde verzekeringstegemoetkoming<br>
-Frequentie en volume :<br>
-De databankgegevens dienen drie maal per jaar opgemaakt te worden, een keer volgens toestand 30 april YYYY, een keer volgens de toestand 30 juni YYYY en een keer volgens toestand 31 december YYYY. De databankgegevens zijn cumulatief : de gegevens van vorige maanden en jaren dienen eveneens toegevoegd te worden.<br>
-Jaarovergang :<br>
-De leden die hun aansluiting beëindigen of beëindigd hebben op 31/12/JJJJ-5 mogen niet meer opgenomen worden in het tekstbestand A voor het jaar JJJJ. Afsluitingen op 31/12/JJJJ - i met i = 0, 1, 2, 3, 4 moeten nog steeds opgenomen worden. Personen die afgesloten worden met een code 1010 moeten echter in het bestand van het daaropvolgend jaar niet meer meegedeeld worden.<br>
-Indien een aansluiting in het bestand JJJJ, die vroeger nog niet beëindigd werd, moet beëindigd worden met een datum afsluiting &lt; JJJJ -4, dan gebeurt dit in het A-bestand (en dus niet in het correctiebestand). Na het jaar JJJJ wordt betrokken afsluiting niet meer meegedeeld. De eventuele terugbetalingen van bijdragen moet dan als volgt verwerkt worden :<br>
-- referentieperioden die vallen in het interval YYYY-4 tot en met YYYY : in het A-bestand zelf.<br>
-- alle andere referentieperioden : via correctiebestand<br>
-Dummycodes :<br>
-- Algemene regel : dummycodes moeten gebruikt worden om de jaren die vallen buiten de aansluiting bij de zorgkas in kwestie op te vullen.<br>
-- Voorbeelden :<br>
-° Een 26-jarige die voor het eerst moet betalen in YYYY (en dat ook effectief doet) : YYYY-4 tot en met YYYY-1 moeten opgevuld worden met dummycodes.<br>
-° Inkomende mutaties. Bij een mutatie vult de inkomende zorgkas de jaren voor aansluiting bij haar op met dummycodes, behalve als er achterstallige bijdragen horende bij die jaren bij de inkomende zorgkas worden betaald. Uiteraard mag de nieuwe zorgkas ook wel correcties uitvoeren voor de voorgaande jaren, net zoals de uitgaande zorgkas dit mag.<br>
-- Welke dummycodes moeten er gebruikt worden?<br>
-- Indien men voor een bepaalde referentieperiode dummycodes wil invullen, dan doet men dit door alle bij dat jaar horende velden op te vullen met spaties. Hierbij dient uiteraad rekening gehouden te worden met de specifieke veldlengte van elk veld.<br>
-- Dummycodes overschrijven nooit eerder doorgegeven gegevens.<br>
-Uitleg velden A-bestand :<br>
-rijksregisternummer : rijksregisternummer van het betrokken lid. De inkomende grensarbeiders beschikken over een INSZ-nummer. Dit moet dan gebruikt worden<br>
-Naam : Naam van betrokken persoon.<br>
-Voornaam : De andere voornamen worden niet opgevraagd<br>
-geboortejaar : geboortejaar van het betrokken lid<br>
-geslacht : geslacht van het lid<br>
-Nis - code van de gemeente : NIS - code van de fusiegemeente waar de betrokken persoon laatst in het Vlaams Gewest of het Brussels Hoofdstedelijk Gewest woonachtig was (toestand laatste dag van de opgevraagde periode). Indien betrokkene een inkomende grensarbeider is (woonachtig in het buitenland maar sociaal verzekerd in België en tewerkgesteld in Vlaanderen of Brussel) dan wordt hier « 00000 » ingevuld.<br>
-Landcode : land waar betrokkene woonachtig is. Voor België is dit 00150<br>
-Werkplaats : moet slechts ingevuld worden voor een inkomende grensarbeider. Dan pas moet er ingevuld worden of betrokken persoon in Vlaanderen of Brussel werkt.<br>
-code decentraal punt van de zorgkas : decentraal punt waar betrokken lidmaatschap beheerd wordt<br>
-datum aanvang aansluiting : datum van de aansluiting van betrokken lid bij de betrokken zorgkas. De aansluitingsdatum is altijd van de vorm JJJJ0101 (met uitzondering voor 01/10/2001) met JJJJ het eerste jaar dat het betrokken lid aangesloten was bij de zorgkas.<br>
-code aansluiting : het type aansluiting waarover het gaat<br>
-00 = aansluiting opstart zorgverzekering. Vanaf 2003 mag voor nieuwe aansluitingen deze code niet meer gebruikt worden.<br>
-10 = bereiken leeftijd. Het gaat hier om personen die in het lopend jaar 26 jaar worden en in Vlaanderen of in het Brussels Hoofdstedelijk Gewest wonen (zie ook code 30 en 40)<br>
-20 = deze code moet gebruikt worden wanneer een persoon jonger dan 26 jaar een aanvraag voor tenlasteneming indient.<br>
-21 = deze code moet gebruikt worden wanneer een persoon jonger dan 26 jaar een positieve beslissing voor tenlasteneming heeft.<br>
-30 = komen wonen in Vlaanderen. Het gaat hier om personen die in het lopend jaar 26 jaar worden of zijn en in Vlaanderen komen wonen.<br>
-40 = komen wonen in Brussel. Het gaat hier om personen die in het lopend jaar 26 jaar worden of zijn en in Brussel komen wonen.<br>
-50 = vrijwillige aansluiting in Brussel<br>
-7x = inkomende mutatie van zorgkas x<br>
-80 = mbtshalve aansluiting bij een van de 8 zorgkassen, dit voor alle ambtshalve aansluitingen voor de 680, voor ambtshalven met een eerste bijdrage voor de andere zorgkassen.<br>
-85 = het gaat hier om personen die aangesloten worden voor het jaar JJJJ terwijl ze voor het jaar JJJJ-1 niet mochten aansluiten, dit in het kader van de omzendbrieven beroepsactief buitenlands verzekerden, gepensioneerd buitenlands verzekerden, inkomende grensarbeiders en internationale verdragen en overeenkomsten<br>
-90 = onbekend<br>
-datum beëindiging aansluiting : is steeds van de vorm JJJJ1231. Indien er geen datum einde is, dan wordt hier de datum 99991231 ingevuld.<br>
-code van beëindiging aansluiting :<br>
-0000 = geen beëindiging aansluiting<br>
-1010 = overlijden<br>
-1020 = einde van de zorgbehoevendheid (code 21) of geweigerde aanvraag (code 20). Deze code kan alleen gebruikt worden indien betrokken lid nog geen 26 is.<br>
-1030 = verlaten van Vlaanderen of Brussel<br>
-1050 = vrijwillige stopzetting in Brussel<br>
-1060 = schrapping van dubbele aansluiting<br>
-107X = mutatie naar andere zorgkas<br>
-1080 = overige<br>
-1085 = beëindiging van de aansluiting doordat betrokken persoon vrijgesteld is in het kader van de omzendbrieven beroepsactief buitenlands verzekerden, gepensioneerd buitenlands verzekerden, inkomende grensarbeiders en internationale verdragen en overeenkomsten.<br>
-1090 = onbekend<br>
-6666 = lid wordt afgestaan aan een andere zorgkas<br>
-betaald bedrag tijdens kalenderjaar : in dit veld wordt het bedrag van de ledenbijdrage voor het kalenderjaar ingevuld. Ledenbijdragen van voorgaande jaren die tijdens het betrokken kalenderjaar zijn betaald moeten eveneens meegedeeld worden in dit veld.<br>
-Terugbetaalde bijdragen tijdens kalenderjaar : in dit veld worden de tijdens betrokken kalenderjaar teruggestorte ledenbijdragen ingevuld.<br>
-aantal maanden schorsing en/of wachttijd : totaal aantal maanden opgelopen schorsing en/of wachttijd door betrokken persoon. (Vb. Indien iemand 12 maanden schorsing heeft dan staat in dit veld 012. Indien persoon geen schorsing heeft staat hier 000)<br>
-aantal maanden resterende schorsing en/of wachttijd : aantal maanden opgelopen schorsing en/of wachttijd waarvoor de tenlastenemingen van betrokken persoon nog niet werden opgeschort. (Vb. Indien iemand 12 maanden schorsing heeft en er 8 uitgezeten dan staat in dit veld 004. In het veld aantal maanden schorsing en/of wachttijd blijft het oorspronkelijke aantal maanden staan, dit wordt dus niet verrekend). Indien persoon geen schorsing heeft uitgezeten staat hier 000)<br>
-Datum betaling bijdrage YYYY-i (met i = 0,1,2,3 of 4) : de datum waarop de bijdrage voor het betrokken bijdragejaar betaald werd. Deze datum kan in het betrokken bijdragejaar vallen of later. Indien er geen datum betaling moet ingevuld worden (bij een minderjarige, inkomende mutatie zonder betaling) of er geen datum betaling is, dan moet hier de datum 99991231 ingevuld worden (behalve indien dummy gegevens, dan moeten er spaties gebruikt worden)<br>
-Bedrag betaald jaar YYYY-i (met i = 0,1,2,3 of 4) : betaald bedrag voor betrokken bijdragejaar.<br>
-Nog verschuldigd bedrag YYYY- i (met i = 0,1,2,3 of 4) : bedrag dat betrokkene nog verschuldigd is voor betrokken jaar<br>
-Teller administratieve boete YYYY- i (met i = 0,1,2,3 of 4) : is 0 of 1<br>
-verhoogde verzekeringstegemoetkoming YYYY- i (met i = 0,1,2,3 of 4) : geeft aan of betrokken lid een VT'er is of niet. Voor YYYY is de toestand op 01/01/YYYY-1 van belang.<br>
-<br>
-<br>
-<br>
-<br>
-AFDELING II<br>
-<br>
-RECORDTYPE B: TENLASTENEMINGSDOSSIERS<br>
-<br>
-Structuur<br>
-<br>
-header: jaar en maand, zorgkas, type B (YYYYMMXXXB)<br>
-<br>
-code zorgkas:<br>
-<br>
-180 = CM-zorgkas<br>
-<br>
-280 = Neutrale Zorgkas Vlaanderen<br>
-<br>
-380 = Zorgkas van de Socialistische Mutualiteiten<br>
-<br>
-480 = Zorgkas van de liberale ziekenfondsen<br>
-<br>
-580 = Zorgkas van de Onafhankelijke Ziekenfondsen<br>
-<br>
-680 = Vlaamse zorgkas<br>
-<br>
-780 = Ethias Zorgkas<br>
-<br>
-880 = zorgkas DKV Belgium<br>
-<br>
-velden:<br>
-<br>
-a) Rijksregisternummer (veldlengte 11, numeriek)<br>
-<br>
-b) Geboortejaar (veldlengte 4, numeriek)<br>
-<br>
-c) NIS-code van fusiegemeente (veldlengte 5, numeriek)<br>
-<br>
-d) Code decentraal punt van de zorgkas (veldlengte 3, numeriek)<br>
-<br>
-e) Code aanvraag, herziening of verlenging (veldlengte 1, numeriek)<br>
-<br>
-0 = aanvraag<br>
-<br>
-1 = herziening of verlenging<br>
-<br>
-f) datum van de aanvraag, datum waarop tenlastenemingen na herziening of verlenging effectief starten DDMMYYYY (veldlengte 8, numeriek)<br>
-<br>
-g) code indicatiesteller of attest bij aanvraag, herziening of verlenging (veldlengte 6, numeriek)<br>
-<br>
-207001 = diensten voor gezinszorg<br>
-<br>
-201001 = ocmw’s<br>
-<br>
-213001 = centra voor maatschappelijk welzijn<br>
-<br>
-207003 = lokale dienstencentra<br>
-<br>
-233999 = controleorgaan<br>
-<br>
-900210 = Katz-schaal thuisverpleging<br>
-<br>
-900220 = evaluatieschaal tegemoetkoming in verzorgingsinrichting, bewijs van opname in rusthuis of RVT<br>
-<br>
-900230 = bewijs van opname in psychiatrisch verzorgingstehuis<br>
-<br>
-900240 = BEL-profielschaal in de gezinszorg<br>
-<br>
-900280 = medisch-sociale schaal voor integratietegemoetkoming, tegemoetkoming hulp aan bejaarden, tegemoetkoming hulp van derden<br>
-<br>
-900290 = bijkomende kinderbijslag uit hoofde van het kind<br>
-<br>
-h) resultaat van de indicatiestelling bij aanvraag, herziening of verlenging (veldlengte 2, numeriek, veld = 99 indien het gaat om een attest)<br>
-<br>
-i) code bijkomend onderzoek (veldlengte 1, numeriek)<br>
-<br>
-0 = geen bijkomend onderzoek<br>
-<br>
-1 = bijkomend onderzoek<br>
-<br>
-j) datum van indicatiestelling bijkomend onderzoek DDMMYYYY (veldlengte 8, numeriek)<br>
-<br>
-k) resultaat van de indicatiestelling bij bijkomend onderzoek (veldlengte 2, numeriek, indien geen bijkomend onderzoek is veld 99)<br>
-<br>
-l) code beslissing (veldlengte 1, numeriek)<br>
-<br>
-0 = nog geen beslissing<br>
-<br>
-1 = goedgekeurd<br>
-<br>
-2 = goedgekeurd doch beperkt door cumul (o.a. Vlaams Fonds)<br>
-<br>
-5 = geweigerd<br>
-<br>
-m) datum van de beslissing DDMMYYYY (veldlengte 8, numeriek)<br>
-<br>
-n) datum laatste wijziging zorgvorm DDMMYYYY (veldlengte 8, numeriek)<br>
-<br>
-o) code zorgvorm (veldlengte 1, numeriek)<br>
-<br>
-0 = geen positieve beslissing na aanvraag, herziening of verlenging<br>
-<br>
-4 = residentiële zorg<br>
-<br>
-5 = mantel- en thuiszorg<br>
-<br>
-p) code beslissing na controle (veldlengte 1, numeriek)<br>
-<br>
-0 = geen controle of nog geen beslissing na controle<br>
-<br>
-1 = verderzetting<br>
-<br>
-3 = stopzetting<br>
-<br>
-q) resultaat van de indicatiestelling bij controle (veldlengte 2, numeriek, indien geen controle is veld = 99)<br>
-<br>
-r) datum van de beslissing na controle DDMMYYYY (veldlengte 8, numeriek)<br>
-<br>
-s) einddatum voor uitvoering tenlastenemingen DDMMYYYY (veldlengte 8, numeriek)<br>
-<br>
-t) code positief of negatief saldo<br>
-<br>
-0 = positief saldo<br>
-<br>
-1 = negatief saldo<br>
-<br>
-u) saldo van de bedragen die werden uitbetaald of teruggevorderd tijdens het betrokken kalenderjaar (eventueel 0 euro) (veldlengte 6, numeriek) (9999,99 komma moet niet toegevoegd worden)<br>
-<br>
-v) parameter 0 (veldlengte 6, numeriek)<br>
-<br>
-w) parameter 1 (veldlengte 8, numeriek)<br>
-<br>
-x) parameter 2 (veldlengte 8, numeriek)<br>
-<br>
-y) parameter 3 (veldlengte 8, numeriek)<br>
-<br>
-z) parameter 4 (veldlengte 8, numeriek)<br>
-<br>
-Frequentie en volume:<br>
-<br>
-De databankgegevens dienen driemaandelijks overgemaakt te worden. De databankgegevens zijn cumulatief: de gegevens van vorige maanden dienen eveneens toegevoegd te worden. Behalve waar dit expliciet wordt opgegeven, worden velden die niet ingevuld hoeven te worden, opgevuld door nullen.<br>
-<br>
-Jaarovergang:<br>
-<br>
-In het bestand tenlastenemingen van het jaar JJJJ worden de volgende records van het bestand van JJJJ - 1 overgenomen:<br>
-<br>
-- de lopende dossiers (goedgekeurde dossiers waarvan de einddatum tenlasteneming valt na 31/12/JJJJ-1)<br>
-<br>
-- de ingediende dossiers waarvoor op 31/12/JJJJ nog geen beslissing werd genomen<br>
-<br>
-- niet-lopende dossiers waarvoor in JJJJ een bedrag uitbetaald of teruggevorderd wordt<br>
-<br>
-Al deze records blijven dan minstens tot het einde van het jaar JJJJ in het tekstbestand B staan. Immers, eenmaal meegedeeld blijft een record tot het einde van het jaar in het B-bestand staan.<br>
-<br>
-Uitleg velden:<br>
-<br>
-a) rijksregisternummer:<br>
-<br>
-b) geboortejaar:<br>
-<br>
-c) NIS-code fusiegemeente: NIS - code van de fusiegemeente waar de betrokken persoon laatst in het Vlaams Gewest of het Brussels Hoofdstedelijk Gewest woonachtig was (toestand laatste dag van het opgevraagde trimester)<br>
-<br>
-d) Code decentraal punt van de zorgkas: de afdeling waar desbetreffend dossier fysisch geconsulteerd kan worden.<br>
-<br>
-e) Code aanvraag, herziening of verlenging: in dit veld wordt aangegeven of het hier een aanvraag, een herziening of een verlenging betreft. Dit veld werd ingevoerd aangezien een herziening en een verlenging een nieuw record wordt. Voor vroegere records mag de oude code 2 blijven staan<br>
-<br>
-f) datum van de aanvraag, datum waarop tenlastenemingen na herziening of verlenging effectief starten: datum waarop de aanvraag aangevraagd wordt. Deze datum wordt bij herziening of verlenging (dus niet bij aanvraag) de datum waarop de tenlastenemingen op basis van de herziening of verlengingsprocedure effectief starten. Het is dus steeds een datum van de vorm 01/mm/jjjj. Records van vroeger dienen aangepast te worden zodat deze ook de correcte datum weergeven.<br>
-<br>
-g) code indicatiesteller of attest bij aanvraag, herziening of verlenging:<br>
-<br>
-de code 233999 dient voor herindicaties van het controleorgaan bij een nieuwe aanvraag van een gebruiker die door het controleorgaan afgescoord is.<br>
-<br>
-h) resultaat van de indicatiestelling bij aanvraag, herziening of verlenging: hier moet de score ingevuld worden van de zorgbehoevende bij de indicatiestelling. Indien er geen indicatiestelling heeft plaatsgevonden (er wordt met een attest gewerkt) dan moet dit veld opgevuld worden door « 99 » in te vullen, en niet 00. Er worden hier dus "opvulnegens" i.p.v. opvulnullen gebruikt. De score mag ingevuld worden op het ogenblik dat de zorgkas kennis neemt van het resultaat van de indicatiestelling, dus vooraleer de eigenlijke beslissing genomen werd.<br>
-<br>
-i) code bijkomend onderzoek: hier wordt aangegeven of er een bijkomend onderzoek plaats heeft gehad of niet.<br>
-<br>
-j) datum indicatiestelling bij bijkomend onderzoek: datum waarop het bijkomend onderzoek (dus eigenlijk de bijkomende indicatiestelling) heeft plaatsgehad<br>
-<br>
-k) resultaat van de indicatiestelling bij bijkomend onderzoek: hier moet de score van de indicatiestelling ingevuld worden bij bijkomend onderzoek. De score mag ingevuld worden op het ogenblik dat de zorgkas kennis neemt van het resultaat van de indicatiestelling. Indien er geen bijkomend onderzoek plaats heeft of het resultaat is nog niet gekend, dan wordt dit veld opgevuld door « 99 » in te vullen.<br>
-<br>
-l) Code beslissing: gelieve te noteren dat er geen onderscheid meer gemaakt moet worden tussen een dossier dat geweigerd is voor formele redenen (vroegere code 4) en dossiers geweigerd voor overige reden. Aan de zorgkassen wordt gevraagd om code 5 te gebruiken. Vroegere beslissingen hoeven echter niet aangepast te worden.<br>
-<br>
-m) datum van de beslissing: datum waarop de beslissing over de aanvraag, herziening of verlenging genomen werd.<br>
-<br>
-n) datum laatste wijziging zorgvorm: datum waarop de laatste wijziging van de zorgvorm ingaat. Indien er meerdere wijzigingen zijn, wordt de laatste datum weerhouden. Deze datum is de datum waarop het bedrag van de uitbetaling effectief verandert. Het is dus steeds een datum van de vorm 01/mm/jjjj.<br>
-<br>
-o) Code zorgvorm: in dit veld wordt de laatst geldige zorgvorm geplaatst. Het is pas indien de aanvraag goedgekeurd wordt dat dit veld ingevuld moet worden. Bij wijziging van zorgvorm wordt dit veld gewoon aangepast en wordt het veld n. « datum laatste wijziging zorgvorm« ingevuld.<br>
-<br>
-p) code beslissing na controle:<br>
-<br>
-q) resultaat van de indicatiestelling bij controle: hier moet de score ingevuld worden van de indicatiestelling bij controle. Indien er geen controle heeft plaatsgevonden of het resultaat van de controle is nog niet bekend, dan moet dit veld opgevuld worden door 99 in te vullen, en niet 00. Er worden hier dus « opvulnegens » i.p.v. opvulnullen gebruikt. De score mag ingevuld worden op het ogenblik dat de zorgkas kennis neemt van het resultaat van de indicatiestelling, dit kan dus vallen voor de datum waarop de eigenlijke beslissing van de controle genomen werd.<br>
-<br>
-r) datum van de beslissing na controle: datum waarop de beslissing na controle genomen werd.<br>
-<br>
-s) einddatum voor uitvoering tenlastenemingen: de laatst geldige einddatum dient hier ingevuld te worden.<br>
-<br>
-t) code positief of negatief saldo: met dit veld kunnen wij bepalen of het veld « saldo van de bedragen uitbetaald of teruggevorderd tijdens het betrokken kalenderjaar » een positief of negatief bedrag is.<br>
-<br>
-u) saldo van de bedragen die werden uitbetaald of teruggevorderd tijdens het betrokken kalenderjaar<br>
-<br>
-Dit veld bevat per dossier voor tenlasteningen het saldo van<br>
-<br>
-- enerzijds alle uitbetalingen voor tenlastenemingen die de zorgkas van 01/01/JJJJ tot en met 15/01/JJJJ +1 heeft uitbetaald met betrekking tot het jaar JJJJ (en eventueel rechtzettingen van voorgaande jaren, let wel, het is niet de bedoeling om bijvoorbeeld uitbetalingen residentiële zorg voor december JJJJ - 1 die uitbetaald worden tussen 01/01/JJJJ en 15/01/JJJJ op te nemen in dit veld. Deze bedragen moeten reeds opgenomen zijn in het bestand JJJJ - 1)<br>
-<br>
-- en anderzijds de terugvorderingen die de zorgkas moet uitvoeren (van het jaar JJJJ of van voorgaande jaren) en die vastgesteld zijn tussen 01/01/JJJJ en 15/01/JJJJ+1.<br>
-<br>
-Terugvorderingen die vastgesteld zijn moeten onmiddellijk worden opgenomen. Dit betekent concreet dat er niet gewacht mag worden op de effectieve inning van deze terugvorderingen om tot verwerking hiervan in de bestanden met tenlastenemingen over te gaan.<br>
-<br>
-Om de continuïteit in de verwerking van de trimestriële gegevens te garanderen wordt gevraagd dat de zorgkassen alle uitbetalingen en terugvorderingen tot 15 dagen na het einde van het kwartaal (dus betalingen en terugvorderingen tot 15 april, 15 juli, 15 oktober en 15 januari) zouden opnemen voor zover deze uitbetalingen en terugvorderingen betrekking hebben op het afgesloten kwartaal of op hieraan voorafgaande kwartalen.<br>
-<br>
-v) parameter 0: dit veld mag opgevuld worden met nullen. Dit veld was vroeger het veld krediet maar aangezien het "krediet" niet meer meegedeeld hoeft te worden, is dit veld nu het veld "parameter 0" geworden.<br>
-<br>
-velden w.; x.; y.; z.: zijn eventueel nog te bepalen velden voor de financiële verantwoordelijkheid van de zorgkassen<br>
-<br>
-AFDELING III<br>
-<br>
-RECORDTYPE D: INDICATIESTELLERS EN RESULTATEN<br>
-<br>
-Structuur<br>
-<br>
-header: jaar en maand, zorgkas, type D (YYYYMMXXXD)<br>
-<br>
-code zorgkas:<br>
-<br>
-180 = CM-zorgkas<br>
-<br>
-280 = Neutrale Zorgkas Vlaanderen<br>
-<br>
-380 = Zorgkas van de Socialistische Mutualiteiten<br>
-<br>
-480 = Zorgkas van de liberale ziekenfondsen<br>
-<br>
-580 = zorgkas van de Onafhankelijke Ziekenfondsen<br>
-<br>
-680 = Vlaamse zorgkas<br>
-<br>
-780 = Ethias Zorgkas<br>
-<br>
-880 = zorgkas DKV Belgium<br>
-<br>
-velden:<br>
-<br>
-a) Rijksregisternummer (veldlengte 11, numeriek)<br>
-<br>
-b) Geboortejaar (veldlengte 4, numeriek)<br>
-<br>
-c) NIS-code van fusiegemeente (veldlengte 5, numeriek)<br>
-<br>
-d) Code decentraal punt van de zorgkas (veldlengte 3, numeriek)<br>
-<br>
-e) GKB-nummer indicatiesteller (veldlengte 8, numeriek)<br>
-<br>
-f) code indicatiesteller (veldlengte 6, numeriek)<br>
-<br>
-207001 = diensten voor gezinszorg<br>
-<br>
-201001 = ocmw’s<br>
-<br>
-213001 = centra voor maatschappelijk welzijn<br>
-<br>
-207003 = lokale dienstencentra<br>
-<br>
-g) datum van de aanvraag, datum waarop tenlastenemingen na herziening of verlenging effectief starten DDMMYYYY (veldlengte 8, numeriek)<br>
-<br>
-h) datum van de indicatiestelling DDMMYYYY (veldlengte 8, numeriek)<br>
-<br>
-i) resultaat van de indicatiestelling (veldlengte 2, numeriek)<br>
-<br>
-j) datum van de uitbetaling van de indicatiesteller DDMMYYYY (veldlengte 8, numeriek)<br>
-<br>
-k) datum van de terugvordering van de indicatiesteller DDMMYYYY (veldlengte 8, numeriek)<br>
-<br>
-Frequentie en volume:<br>
-<br>
-De databankgegevens dienen driemaandelijks overgemaakt te worden. De databankgegevens zijn cumulatief: de gegevens van vorige maanden dienen eveneens toegevoegd te worden.<br>
-<br>
-Jaarovergang:<br>
-<br>
-Naast de indicatiestellingen uitgevoerd in het jaar JJJJ bevat dit bestand alle indicatiestellingen uitgevoerd in het jaar JJJJ-1.<br>
-<br>
-Uitleg velden:<br>
-<br>
-a) rijksregisternummer:<br>
-<br>
-b) geboortejaar<br>
-<br>
-c) NIS-code fusiegemeente: NIS - code van de fusiegemeente waar de betrokken persoon laatst in het Vlaams Gewest of het Brussels Hoofdstedelijk Gewest woonachtig was (toestand laatste dag van het opgevraagde trimester).<br>
-<br>
-d) Code decentraal punt van de zorgkas: afdeling waar desbetreffend dossier fysisch geconsulteerd kan worden.<br>
-<br>
-e) GKB-nummer indicatiesteller:<br>
-<br>
-f) code indicatiesteller of attest<br>
-<br>
-g) datum van de aanvraag, datum waarop tenlastenemingen na herziening of verlenging effectief starten: zie uitleg bestand B. Indien er nog geen aanvraag, herziening of verlenging werd ingediend mag dit veld « 00000000 » zijn.<br>
-<br>
-h) datum van de indicatiestelling: datum waarop de indicatiestelling uitgevoerd wordt<br>
-<br>
-i) resultaat van de indicatiestelling: score van de zorgbehoevende bij de indicatiestelling.<br>
-<br>
-j) datum van de uitbetaling van de indicatiesteller: datum waarop het bedrag uitbetaald wordt. Indien het om een indicatiestelling gaat die nog niet uitbetaald is of die niet uitbetaald dient te worden, dan mag dit veld « 00000000 » blijven.<br>
-<br>
-k) datum van de terugvordering van de indicatiesteller: datum waarop de terugvordering geïnd wordt. Indien er geen terugvordering plaats vindt, dan wordt dit veld « 00000000 ».<br>
-<br>
-AFDELING IV<br>
-<br>
-RECORDTYPE M: MANTELZORGERS<br>
-<br>
-Structuur<br>
-<br>
-header: jaar en maand, zorgkas, type M (YYYYMMXXXM)<br>
-<br>
-code zorgkas:<br>
-<br>
-180 = CM-zorgkas<br>
-<br>
-280 = Neutrale Zorgkas Vlaanderen<br>
-<br>
-380 = Zorgkas van de Socialistische Mutualiteiten<br>
-<br>
-480 = Zorgkas van de liberale ziekenfondsen<br>
-<br>
-580 = zorgkas van de Onafhankelijke Ziekenfondsen<br>
-<br>
-680 = Vlaamse zorgkas<br>
-<br>
-780 = Ethias Zorgkas<br>
-<br>
-880 = zorgkas DKV Belgium<br>
-<br>
-velden:<br>
-<br>
-a) Rijksregisternummer van de zorgbehoevende (veldlengte 11, numeriek)<br>
-<br>
-b) Rijksregisternummer van de mantelzorger (veldlengte 11, numeriek)<br>
-<br>
-c) Relatie zorgbehoevende - mantelzorger (veldlengte 2, numeriek)<br>
-<br>
-00: onbekend<br>
-<br>
-01: echtgeno(o)t(e)<br>
-<br>
-02: partner<br>
-<br>
-03: (schoon)moeder<br>
-<br>
-04: (schoon)vader<br>
-<br>
-05: (schoon)zus<br>
-<br>
-06: (schoon)broer<br>
-<br>
-07: (schoon)dochter<br>
-<br>
-08: (schoon)zoon<br>
-<br>
-09: buur<br>
-<br>
-10: andere<br>
-<br>
-Frequentie en volume:<br>
-<br>
-De databankgegevens dienen voor 15/2 van het jaar JJJJ+1 aan het zorgfonds bezorgd te worden. Het behelst hier steeds de toestand op 31/12/JJJJ.<br>
-<br>
-Indien er meerdere mantelzorgers voor 1 zorgbehoevende zijn, dan dient er per mantelzorger één record aangemaakt te worden. Een persoon kan ook mantelzorger zijn van meerdere zorgbehoevenden. Per relatie zorgbehoevende - mantelzorger moet er een record aangemaakt worden.<br>
-<br>
-Uitleg velden:<br>
-<br>
-a) rijksregisternummer van de zorgbehoevende: het gaat hier om een persoon die een lopend dossier heeft op 31/12/JJJJ voor mantel - en thuiszorg en waarvoor een mantelzorger werd geregistreerd.<br>
-<br>
-b) rijksregisternummer van de mantelzorger: persoon die als mantelzorger werd geregistreerd voor betrokken zorgbehoevende<br>
-<br>
-c) relatie zorgbehoevende - mantelzorger: indien de relatie ongekend is, moet code « 00 » ingevuld worden. Code 10 mag slechts gebruikt worden voor een gekende relatie die niet onder de categorieën « 01 » t.e.m. « 09 » valt.<br>
+...<br>
 <br>
 HOOFDSTUK XXI<br>
 <br>
 SLOTBEPALINGEN<br>
 <br>
 192. Gezien om gevoegd te worden bij het ministerieel besluit van 6 januari 2006 houdende de goedkeuring van de handleiding zorgverzekering.</p>
+
+### BIJLAGE
+
+...
