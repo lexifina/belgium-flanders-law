@@ -90,7 +90,7 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 21.
 
-§ 1. Voor het beleidsdomein Economie, Wetenschap en Innovatie wordt het Vlaams ministerie van Economie, Wetenschap en Innovatie opgericht, dat bestaat uit het gelijknamige departement en het agentschap zonder rechtspersoonlijkheid Agentschap Ondernemen. <br /><br />§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein economie, wetenschap en innovatie behoren, zijn : <br />1° Participatiemaatschappij Vlaanderen; <br />2° Limburgse Reconversiemaatschappij; <br />3° Vlaamse Participatiemaatschappij; <br />4° Herculesstichting.
+§ 1. Voor het beleidsdomein Economie, Wetenschap en Innovatie wordt het Vlaams ministerie van Economie, Wetenschap en Innovatie opgericht, dat bestaat uit het gelijknamige departement en het agentschap zonder rechtspersoonlijkheid Agentschap Ondernemen. <br /><br />§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein economie, wetenschap en innovatie behoren, zijn : <br />1° Participatiemaatschappij Vlaanderen; <br />2° Limburgse Reconversiemaatschappij; <br />3° Vlaamse Participatiemaatschappij; <br />4° Herculesstichting.<br />5° Agentschap voor Innovatie door Wetenschap en Technologie<br />6° Fonds voor Wetenschappelijk Onderzoek-Vlaanderen ».<br /><br />§ 3.De strategische adviesraad die tot het beleidsdomein Economie, Wetenschap en Innovatie behoort voor wat het gedeelte wetenschap en innovatie betreft, is de Vlaamse Raad voor Wetenschap en Innovatie.<br />
 
 ### ART. 22.
 
@@ -122,7 +122,7 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 29.
 
-§ 1. Voor het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed wordt het Vlaams ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed opgericht, dat bestaat uit het gelijknamige departement en vier agentschappen zonder rechtspersoonlijkheid : <br />1° RO-Vlaanderen; <br />2° Wonen-Vlaanderen;<br />3° Vlaams Instituut voor het Onroerend Erfgoed; <br />4° Inspectie RWO. <br /><br />§ 2. Het agentschap met rechtspersoonlijkheid dat tot het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed behoort, is de Vlaamse Maatschappij voor Sociaal Wonen.<br /><br />§ 3. De strategische adviesraden die tot het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend erfgoed behoren zijn : <br />1° Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<br />2° Vlaamse Woonraad.
+§ 1. Voor het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed wordt het Vlaams ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed opgericht, dat bestaat uit het gelijknamige departement en vier agentschappen zonder rechtspersoonlijkheid : <br />1° Ruimte en Erfgoed; <br />2° Wonen-Vlaanderen;<br />3° Vlaams Instituut voor het Onroerend Erfgoed; <br />4° Inspectie RWO. <br /><br />§ 2. Het agentschap met rechtspersoonlijkheid dat tot het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed behoort, is de Vlaamse Maatschappij voor Sociaal Wonen.<br /><br />§ 3. De strategische adviesraden die tot het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend erfgoed behoren zijn : <br />1° Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<br />2° Vlaamse Woonraad.
 
 ## HOOFDSTUK IV Taakstelling van de departementen, agentschappen en wisselwerking tussen departementen en agentschappen
 
