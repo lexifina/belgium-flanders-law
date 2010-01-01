@@ -2,16 +2,16 @@
   "codex_id": 1004447,
   "title": "Besluit van de Vlaamse Regering van 1989-03-15 houdende de specifieke veiligheidsaspecten waaraan [de groepen van assistentiewoningen (verv. BVR 12 oktober 2012, art. 1)] moeten voldoen om te worden erkend",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004447/VolledigDocument?datum=2009-12-18",
-  "source_sha256": "cc1f1a50ee14880fce05548704fd632e160667ee1c8c6dc33a2a76bc1140fce9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004447/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "1570b4e259e989ddd12373d234be85cb3727368152958fff372ff161dbd1f361",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004447&param=informatie",
-  "as_of": "2009-12-18",
+  "as_of": "2010-01-01",
   "made": "1989-03-15",
   "gazette": "1989-03-23",
   "numac": 1989029229,
   "document_start": "1989-03-23",
   "document_end": "2018-09-30",
-  "in_force": "2009-12-18",
+  "in_force": "2010-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2009-12-18; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
