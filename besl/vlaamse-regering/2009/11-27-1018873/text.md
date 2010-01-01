@@ -6,15 +6,67 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 januari 1991 betreff
 
 ## HOOFDSTUK 1. Algemene bepalingen
 
+### ART. 1.
+
+...
+
+### ART. 2.
+
+...
+
+### ART. 3.
+
+...
+
+### ART. 4.
+
+...
+
+### ART. 5.
+
+...
+
 ## HOOFDSTUK 2. Rechten, plichten, onverenigbaarheden en cumulatie van activiteiten
+
+### ART. 6.
+
+...
 
 ## HOOFDSTUK 3. Rekrutering en selectie van personeel
 
+### ART. 7.
+
+...
+
 ## HOOFDSTUK 4. Het directiecomité
+
+### ART. 8.
+
+...
 
 ## HOOFDSTUK 5. De administratieve loopbaan
 
+### ART. 9.
+
+...
+
 ## HOOFDSTUK 6. De beloning
+
+### ART. 10.
+
+...
+
+### ART. 11.
+
+...
+
+### ART. 12.
+
+...
+
+### ART. 13.
+
+...
 
 ### ART. 14.
 
@@ -70,12 +122,60 @@ periode
 
 ## Afdeling 1. De contractuele IWT-adviseur
 
+### ART. 15.
+
+...
+
 ## Afdeling 2. De rechtspositie van de directievoorzitter
+
+### ART. 16.
+
+...
 
 ## Afdeling 3. De rechtspositie van het personeelslid van de opstartformatie
 
+### ART. 17.
+
+...
+
+### ART. 18.
+
+...
+
 ## HOOFDSTUK 8. Overgangsbepalingen
+
+### ART. 19.
+
+...
+
+### ART. 20.
+
+...
+
+### ART. 21.
+
+...
+
+### ART. 22.
+
+...
 
 ## HOOFDSTUK 9. Opheffingsbepalingen
 
+### ART. 23.
+
+...
+
 ## HOOFDSTUK 10. Slotbepalingen
+
+### ART. 24.
+
+...
+
+### ART. 25.
+
+...
+
+### BIJLAGE
+
+...
