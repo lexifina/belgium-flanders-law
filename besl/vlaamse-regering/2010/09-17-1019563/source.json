@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019563,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-17 tot wijziging van artikel 5 van het besluit van de Vlaamse Regering van 14 mei 2004 betreffende de toekenning van facultatieve subsidies aan Praktijkcentra actief in de voorlichting en ontwikkeling van Land- en Tuinbouw",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019563/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "c2fa03dfaadafdf291bb55b155e56acc1a81961b0246a6496cc88f407aff4711",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019563&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2010-09-17",
+  "gazette": "2010-10-07",
+  "numac": 2010205073,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
