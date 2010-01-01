@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019712,
+  "title": "Besluit van de Vlaamse Regering van 2010-10-08 tot wijziging van het besluit van de Vlaamse Regering van 29 mei 2009 houdende subsidieregeling voor de tijdelijke gelijkschakeling van dagen economische werkloosheid voor de berekening van de eindejaarspremie voor werknemers die zijn tewerkgesteld in de beschutte werkplaatsen erkend door het Vlaams Subsidieagentschap voor Werk en Sociale Economie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019712/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "57d259c3096f85ba9b86bbb12e09d30cdd6ad27324cbcfd80ad5b44d99924c5b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019712&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2010-10-08",
+  "gazette": "2010-11-24",
+  "numac": 2010205914,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
