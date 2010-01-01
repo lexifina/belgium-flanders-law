@@ -60,6 +60,10 @@ Artikel 10 van hetzelfde besluit wordt opgeheven.<br />
 
 In artikel 11, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 8 september 2006, worden de volgende wijzigingen aangebracht :<br />1° in punt 1° wordt het woord « winstgevend » opgeheven;<br /><br />2° in punt 2° worden de woorden « die niet worden uitgebaat voor productiedoeleinden » opgeheven;<br /><br />3° punt 3° wordt vervangen door wat volgt :<br />« 3° stoppels mogen na het oogsten niet afgebrand worden; »;<br /><br />4° in punt 4° worden de woorden « dat niet gebruikt wordt in het kader van de bedrijfsvoering » opgeheven.<br /><br />
 
+### ART. 15.
+
+In hetzelfde besluit wordt een artikel 11bis ingevoegd, dat luidt als volgt :<br />« Art. 11bis. Als voor het gebruik van water voor bevloeiingsdoeleinden een vergunning vereist is, moet de landbouwer de vergunningsprocedures naleven. ».<br /><br />
+
 ### ART. 16.
 
 Aan artikel 12 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 september 2007, wordt een paragraaf 3 toegevoegd, die luidt als volgt :<br />« § 3. Referentieareaal blijvend grasland dat door onvermijdbare vermindering als vermeld in paragraaf 1, uit de landbouw verdwijnt of referentieareaal blijvend grasland dat bij stopzetting van bedrijven dreigt verloren te gaan, wordt aan de percelen in kwestie gekoppeld. Als deze percelen in hetzelfde jaar of later door een instandhoudingsplichtige landbouwer in gebruik genomen worden, wordt het referentieareaal blijvend grasland van die landbouwer met een overeenkomstige oppervlakte vermeerderd. ».<br /><br />
