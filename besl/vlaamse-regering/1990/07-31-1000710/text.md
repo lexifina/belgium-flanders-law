@@ -278,6 +278,10 @@ c) studierichting "dans": 4 leerlingen vermenigvuldigd met het aantal opgerichte
 
 § 1. De oprichting van de optie volksmuziek in de middelbare en hogere graad houdt in dat de optie geleidelijk, leerjaar per leerjaar en graad per graad, opgericht wordt.<br /><br />§ 2. De oprichting van een optie dirigentenopleiding instrumentale muziek of dirigentenopleiding vocale muziek houdt in dat de optie geleidelijk, leerjaar per leerjaar, opgericht wordt.<br /><br />§ 3. De oprichting van een optie experimentele muziek houdt in dat de optie geleidelijk, leerjaar per leerjaar, opgericht wordt.<br /><br />§ 4. De voorwaarden, vermeld in paragrafen 1 tot en met 3 zijn niet van toepassing op instellingen die de in paragrafen 1 tot en met 3 vermelde opties als tijdelijk project, als vermeld in artikel 53, § 1bis, 1quater en 1sexies georganiseerd hebben.
 
+### ART. 57ter.
+
+In afwijking van artikel 52, § 2, § 2bis en § 7, artikel 53, § 1, artikel 54 en artikel 57, § 1, kunnen tijdens de schooljaren 2010-2011 en 2011-2012 in het deeltijds kunstonderwijs geen nieuwe instellingen, filialen, studierichtingen en hogere graden in de financierings- of subsidieregeling opgenomen worden.
+
 ## HOOFDSTUK VIII OVERGANGSMAATREGELEN
 
 ### ART. 58.
