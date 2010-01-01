@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020023,
+  "title": "Besluit van de Vlaamse Regering van 2011-01-21 tot wijziging van het besluit van de Vlaamse Regering van 1 februari 2002 met betrekking tot de subsidiëring van de aanleg van openbare rioleringen, andere dan prioritaire rioleringen, de bouw van kleinschalige rioolwaterzuiveringsinstallaties met inbegrip van de aanleg van individuele waterzuiveringsinstallaties door de gemeenten, gemeentebedrijven, intercommunales of intergemeentelijke samenwerkingsverbanden, wat betreft de begunstigden van de subsidiëring",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020023/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "c49f238176340515b56a2150098a165d5157c5b5243017a25944f1dc49b6e333",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020023&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2011-01-21",
+  "gazette": "2011-02-11",
+  "numac": 2011035108,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
