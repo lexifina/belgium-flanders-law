@@ -2,16 +2,16 @@
   "codex_id": 1017202,
   "title": "Decreet van 2008-07-04 betreffende de werkingsbudgetten in het secundair onderwijs en tot wijziging van het decreet basisonderwijs van 25 februari 1997 wat de werkingsbudgetten betreft",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017202/VolledigDocument?datum=2009-09-01",
-  "source_sha256": "46d537ddc829d880b82047417bfe1bf28d395cd46170383ca88e52e6706ad0aa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017202/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "e64685a673b2b4dddc105fcacc6ae9106bc46566bd94ed398e09cbab24246f70",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017202&param=informatie",
-  "as_of": "2009-09-01",
+  "as_of": "2010-01-01",
   "made": "2008-07-04",
   "gazette": "2008-10-20",
   "numac": 2008036196,
   "document_start": "2008-11-01",
   "document_end": "2016-12-31",
-  "in_force": "2009-09-01",
-  "article_versions": 24,
-  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-01-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
