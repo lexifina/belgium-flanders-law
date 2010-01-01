@@ -2,16 +2,16 @@
   "codex_id": 1013899,
   "title": "Ministerieel besluit van 2005-07-05 houdende uitvoering van het besluit van de Vlaamse Regering van 18 maart 2005 betreffende de gemeenschappelijke ordening der markten in de sector groenten en fruit voor wat betreft de erkenning van telersverenigingen, de actiefondsen, de operationele programma's en de toekenning van de financiële steun betreffende de bevoegde diensten en de criteria voor erkenning van telersverenigingen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013899/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "d84e1ff5909efa8051159c308a28d50fabcb0345b7a5e6cec4bd7ac721440eee",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013899/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "9abb36bbe7ff11084dea7323f23436f08a018b45c2dbfa7ed0e5e0096deaf480",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013899&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2010-01-01",
   "made": "2005-07-05",
   "gazette": "2005-08-02",
   "numac": 2005035913,
   "document_start": "2004-01-01",
   "document_end": "2009-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2010-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
