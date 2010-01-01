@@ -2,16 +2,16 @@
   "codex_id": 1016149,
   "title": "Besluit van de Vlaamse Regering van 2007-07-19 tot regeling van de bezwaren tegen erfdienstbaarheden tot openbaar nut voor de verwezenlijking van een Brownfieldproject",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016149/VolledigDocument?datum=2007-10-01",
-  "source_sha256": "23c66c9fd6424181eb3b3f2f6dcb4d8cc0d810206bf3adb5235c23797a8655cb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016149/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "5275afdf69e722c89591d55848f8e8ad98bf8b34896e9862ecb30d2befd64c55",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016149&param=informatie",
-  "as_of": "2007-10-01",
+  "as_of": "2010-01-01",
   "made": "2007-07-19",
   "gazette": "2007-09-12",
   "numac": 2007036546,
   "document_start": "2007-10-01",
   "document_end": null,
-  "in_force": "2007-10-01",
+  "in_force": "2010-01-01",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2007-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
