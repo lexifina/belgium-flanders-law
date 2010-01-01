@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Binnen het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de benaming RO-Vlaanderen, hierna het agentschap te noemen.<br /><br />Het agentschap wordt opgericht voor de uitvoering van het beleid, inzonderheid op basis van de in dit besluit opgesomde taken, inzake de lokale ruimtelijke ordening, inzake de monumenten, de landschappen en het onroerend archeologisch erfgoed en inzake het cultureel erfgoed, als dat laatste betrekking heeft op het varend of het roerend archeologisch erfgoed<br /><br />.<br /><br />Het agentschap behoort tot het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed.
+Binnen het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de benaming Ruimte en Erfgoed hierna het agentschap te noemen.<br /><br />Het agentschap wordt opgericht voor de uitvoering van het beleid, inzonderheid op basis van de in dit besluit opgesomde taken, inzake de lokale ruimtelijke ordening, inzake de monumenten, de landschappen en het onroerend archeologisch erfgoed en inzake het cultureel erfgoed, als dat laatste betrekking heeft op het varend of het roerend archeologisch erfgoed.<br /><br />Het agentschap behoort tot het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed.
 
 ### ART. 2.
 
