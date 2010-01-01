@@ -76,7 +76,7 @@ Het agentschap evalueert jaarlijks de voortgang en de resultaten van de goedgeke
 
 ### ART. 16.
 
-Dit besluit heeft uitwerking met ingang van 1 september 2006 en houdt op uitwerking te hebben op 31 december 2011.<br /><br />
+Dit besluit heeft uitwerking met ingang van 1 september 2006 en houdt op uitwerking te hebben op 31 december 2012.<br /><br />
 
 ### ART. 17.
 
