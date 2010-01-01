@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018771,
+  "title": "Ministerieel besluit van 2010-02-09 houdende goedkeuring van het tarief van de kerkdiensten van de katholieke eredienst ingesteld bij beschikking onder de levenden of bij testamentsbeschikking",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018771/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "bc5d2a8ec076ab1044ef50b8beab2e39d67535c8c3764182c616abca564d2245",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018771&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2010-02-09",
+  "gazette": "2010-02-19",
+  "numac": 2010200728,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
