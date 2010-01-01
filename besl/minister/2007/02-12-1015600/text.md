@@ -6,24 +6,24 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br />1° Kind en Gezin: het intern verzelfstandigd agentschap Kind en Gezin, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br />2° opvangvoorziening: kinderopvangvoorziening, erkend door of met een attest van toezicht van Kind en Gezin;<br />3° begeleiders: kinderbegeleiders en onthaalouders van opvangvoorzieningen die zorgen voor de opvang van 2,5 - tot 12-jarigen.<br /><br />
+...
 
 ### ART. 2.
 
-Opvangvoorzieningen ontvangen van Kind en Gezin een financiële tegemoetkoming als hun begeleiders een basisopleiding levensreddend handelen bij kinderen volgen, volgens de bepalingen van dit besluit.<br /><br />
+...
 
 ### ART. 3.
 
-De basisopleiding wordt gevolgd bij een expertise- en opleidingscentrum dat daarvoor erkend is door Kind en Gezin. De erkenning houdt een garantie in naar inhoud en naar minimale duur van de basisopleiding.<br /><br />
+...
 
 ### ART. 4.
 
-De financiële tegemoetkoming bedraagt maximaal 20 euro per begeleider en is eenmalig.<br /><br />
+...
 
 ### ART. 5.
 
-Kind en Gezin stort de financiële ondersteuning aan de opvangvoorziening na ontvangst van het attest, of een kopie daarvan, van de gevolgde basisopleiding.<br /><br />
+...
 
 ### ART. 6.
 
-Dit besluit treedt in werking op 1 januari 2007 en houdt op van kracht te zijn op 31 december 2009.<br /><br />
+...

@@ -2,16 +2,16 @@
   "codex_id": 1015600,
   "title": "Ministerieel besluit van 2007-02-12 tot toekenning van een financiële tegemoetkoming aan kinderopvangvoorzieningen om een basisopleiding levensreddend handelen te volgen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015600/VolledigDocument?datum=2007-01-01",
-  "source_sha256": "6682266101126adf8dc390f17941235250835533640805b5f5a306870a322e5d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015600/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "ea79f864c6aa88f78c8b512358fe843bc62563f22af253676c601df8eec85d33",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015600&param=informatie",
-  "as_of": "2007-01-01",
+  "as_of": "2010-01-01",
   "made": "2007-02-12",
   "gazette": "2007-03-02",
   "numac": 2007035297,
   "document_start": "2007-01-01",
   "document_end": "2014-03-31",
-  "in_force": "2007-01-01",
+  "in_force": "2010-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
