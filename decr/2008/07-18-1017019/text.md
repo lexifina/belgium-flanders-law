@@ -40,6 +40,22 @@ Artikel 9 van hetzelfde decreet wordt opgeheven. <br /><br />
 
 Artikel 10 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Art. 10. De Vlaamse Regering bepaalt jaarlijks, binnen de beschikbare begrotingskredieten, de grootte van de subsidies aan de verenigingen. <br />Hiertoe worden de verenigingen ingedeeld in subsidiecategorieën naargelang zij de opdrachten, vermeld in artikel 8 van dit decreet, vervullen. De Vlaamse Regering bepaalt de subsidiecategorieën en de voorwaarden van indeling. <br />Binnen de perken van het begrotingskrediet, wordt het subsidiebedrag geïndexeerd. De Vlaamse Regering bepaalt de manier waarop de indexering toegepast wordt. ».<br /><br />
 
+### ART. 11.
+
+In artikel 11 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid wordt het woord "armoedebeleid" vervangen door het woord "armoedebestrijdingsbeleid";<br />2° het tweede lid wordt vervangen door wat volgt :<br />« De overeenkomst bevat de omschrijving van de opdrachten van het netwerk. ». <br /><br />
+
+### ART. 12.
+
+Artikel 12 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Art. 12. Het Vlaams Netwerk van verenigingen waar armen het woord nemen heeft minstens de volgende opdrachten :<br />1° de beleidsdialoog met de overheid organiseren en voeren;<br />2° overleg en ervaringsuitwisseling tussen de verenigingen organiseren;<br />3° activiteiten ondersteunen en coördineren die inzicht bieden in de ervaringswereld van mensen in armoede;<br />4° gemeenschappelijke initiatieven van en voor de verenigingen bevorderen.<br /><br />Het Vlaams Netwerk van verenigingen waar armen het woord nemen, vervult die opdrachten in nauwe samenwerking met andere actoren. ». <br /><br />
+
+### ART. 13.
+
+In artikel 13 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° in de eerste zin wordt het woord "drie" vervangen door het woord "vijf"; <br />2° aan de tweede zin worden de woorden "en de wijze waarop de werking zal worden geëvalueerd" toegevoegd. <br /><br />
+
+### ART. 14.
+
+Artikel 14 van hetzelfde decreet wordt vervangen door wat volgt :<br />« De Vlaamse Regering bepaalt de voorwaarden en procedure inzake subsidiëring van het Vlaams Netwerk. <br /><br />Binnen de perken van het begrotingskrediet, wordt het subsidiebedrag geïndexeerd. De Vlaamse Regering bepaalt de manier waarop de indexering toegepast wordt. ». <br /><br />
+
 ### ART. 15.
 
 In hoofdstuk IV van hetzelfde decreet wordt het opschrift van afdeling 3 vervangen door wat volgt :<br />« Afdeling 3. - Opgeleide ervaringsdeskundigen in de armoede en sociale uitsluiting ». <br /><br />
@@ -55,6 +71,10 @@ In artikel 17 van hetzelfde decreet wordt een tweede lid toegevoegd dat luidt al
 ### ART. 18.
 
 In artikel 18, eerste lid, van hetzelfde decreet wordt het getal "9" vervangen door het getal "10". <br /><br />
+
+### ART. 19.
+
+In afwijking van artikel 13 van dit decreet, start het eerste meerjarenplan van het Vlaams Netwerk met een looptijd van 5 jaar op 1 januari 2011. In 2010 dient enkel een jaarplan te worden opgesteld. <br /><br />
 
 ### ART. 20.
 
