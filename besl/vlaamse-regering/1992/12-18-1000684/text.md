@@ -74,7 +74,7 @@ Dit besluit treedt in werking op de eerste dag van de maand, volgend op de beken
 
 ### ART. 14bis
 
-De bedragen, vermeld in artikel 7 en 11, worden jaarlijks met ingang van 1 januari 2007 aangepast aan de ontwikkeling van de gezondheidsindex. De basisindex is die van de maand december 2006. De nieuwe index is die van de maand december van het jaar dat voorafgaat aan het jaar waarin de index aangepast wordt. Alle bedragen worden afgerond naar het hogere tiental. <br />
+De bedragen, vermeld in artikel 7 en 11, worden jaarlijks met ingang van 1 januari 2007 aangepast aan de ontwikkeling van de gezondheidsindex. De basisindex is die van de maand oktober 2006. De nieuwe index is die van de maand oktober van het jaar dat voorafgaat aan het jaar waarin de index aangepast wordt. Alle bedragen worden afgerond naar het hogere tiental. <br />
 
 ### ART. 15.
 
