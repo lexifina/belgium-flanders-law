@@ -54,7 +54,7 @@ Ter uitvoering van het hulpverleningsplan wijst het intersectoraal regionaal ove
 
 ### ART. 10.
 
-Een subsidie kan alleen toegekend worden voor een aanvullend geïndividualiseerd hulpaanbod dat gerealiseerd is voor 31 december 2010.
+Een subsidie kan alleen toegekend worden voor een aanvullend geïndividualiseerd hulpaanbod dat gerealiseerd is voor 31 december 2011.
 
 ### ART. 11.
 
@@ -62,7 +62,7 @@ Per knelpuntdossier kan het aanvullend geïndividualiseerd hulpaanbod gesubsidie
 
 ### ART. 12.
 
-De middelen voor het aanvullend geïndividualiseerd hulpaanbod worden toegekend op basis van een verantwoording van de verstrekte jeugdhulpverlening tijdens de periode dat de jongere in kwestie de hulp krijgt. De verantwoording bestaat uit een of meer schuldvorderingen en bijbehorende bewijsstukken voor het geheel van de gemaakte kosten van de personen of voorzieningen die jeugdhulpverlening bieden en die zorgen voor het aanvullend geïndividualiseerd hulpaanbod. De bewijsstukken moeten ingediend worden bij het agentschap dat de subsidie uitbetaalt, als vermeld in artikel 13, en dit uiterlijk op 31 maart 2011.
+De middelen voor het aanvullend geïndividualiseerd hulpaanbod worden toegekend op basis van een verantwoording van de verstrekte jeugdhulpverlening tijdens de periode dat de jongere in kwestie de hulp krijgt. De verantwoording bestaat uit een of meer schuldvorderingen en bijbehorende bewijsstukken voor het geheel van de gemaakte kosten van de personen of voorzieningen die jeugdhulpverlening bieden en die zorgen voor het aanvullend geïndividualiseerd hulpaanbod. De bewijsstukken moeten ingediend worden bij het agentschap dat de subsidie uitbetaalt, als vermeld in artikel 13, en dit uiterlijk op 31 maart 2012.
 
 ### ART. 13.
 
@@ -102,7 +102,7 @@ Het Departement Welzijn, Volksgezondheid en Gezin zorgt bij elk knelpuntdossier 
 
 ### ART. 20.
 
-Het Departement Welzijn, Volksgezondheid en Gezin is belast met de algemene coördinatie en de evaluatie van het experiment voor de periode van 1 januari 2009 tot en met 31 december 2010.
+Het Departement Welzijn, Volksgezondheid en Gezin is belast met de algemene coördinatie en de evaluatie van het experiment voor de periode van 1 januari 2009 tot en met 31 december 2011.
 
 ### ART. 21.
 
