@@ -6,20 +6,20 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op d
 
 ### ART. 1.
 
-Voor het Nederlandse taalgebied worden de resultaten van de bevolkingsprojectie voor de afzonderlijke kalenderjaren 2011 tot en met 2015 zoals vervat in de Update 2005 van de MIRA-projecties die door het Centrum Voor Bevolkings- en Gezinsstudies van het departement Welzijn, Volksgezondheid en Cultuur werden uitgevoerd, vastgelegd voor de toepassing voor de jaren 2006 tot en met 2010 van de programmacijfers, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 17 maart 1998, houdende vaststelling van het programma voor serviceflatgebouwen, woningcomplexen met dienstverlening, en rusthuizen.<br /><br />
+...
 
 ### ART. 2.
 
-Voor het tweetalige gebied Brussel-Hoofdstad wordt één derde van 30 % van de resultaten van de bevolkingsprojectie voor de afzonderlijke kalenderjaren 2011 tot en met 2015 zoals vervat in « Bevolkingsvooruitzichten 2000-2050 » van het Nationaal Instituut voor de Statistiek en het Federaal Planbureau, vastgelegd voor de toepassing voor de jaren 2006 tot en met 2010 van de programmacijfers, als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 17 maart 1998, houdende vaststelling van het programma voor serviceflatgebouwen, woningcomplexen met dienstverlening en rusthuizen.<br /><br />Twee derden van de aldus berekende programmaruimte van het tweetalige gebied Brussel-Hoofdstad wordt toegewezen aan volgende drie zones van het tweetalige gebied Brussel-Hoofdstad :<br />1° de zone Noord-Oost met de gemeenten Schaarbeek, Evere, Sint-Joost-ten-Node, Haren en de zogenaamde scharnierzone Neder-over-Heembeek;<br />2° de zone Noord-West met de gemeenten Sint-Agatha-Berchem/Ganshoren, Jette en Laken;<br />3° de zone Zuid-West met de gemeente Anderlecht.<br /><br />Het overige derde van de aldus berekende programmaruimte van het tweetalige gebied Brussel-Hoofdstad wordt toegewezen aan de overige gemeenten van het tweetalige gebied Brussel-Hoofdstad.<br /><br />
+...
 
 ### ART. 3.
 
-Voor het tweetalige gebied Brussel-Hoofdstad wordt 30 % van de resultaten van de bevolkingsprojectie voor de afzonderlijk kalenderjaren 2011 tot en met 2015 zoals vervat in « Bevolkingsvooruitzichten 2000-2050 » van het Nationaal Instituut voor de Statistiek en het Federaal Planbureau vastgelegd voor de jaren 2006 tot en met 2010 voor de toepassing van het programmacijfer voor serviceflatgebouwen en woningcomplexen met dienstverlening als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 17 maart 1998, houdende vaststelling van het programma voor serviceflatgebouwen, woningcomplexen met dienstverlening en rusthuizen.<br /><br />Twee derde van de aldus berekende programmaruimte van het tweetalige gebied Brussel-Hoofdstad wordt toegewezen aan volgende drie zones van het tweetalige gebied Brussel-Hoofdstad :<br />1° de zone Noord-Oost met de gemeenten Schaarbeek, Evere, Sint-Joost-ten-Node, Haren en de zogenaamde scharnierzone Neder-over-Heembeek;<br />2° de zone Noord-West met de gemeenten Sint-Agatha-Berchem/Ganshoren, Jette, Laken<br />3° de zone Zuid-West met de gemeente Anderlecht,<br /><br />Het overige derde van de aldus berekende programmaruimte van het tweetalige gebied Brussel-Hoofdstad wordt toegewezen aan de overige gemeenten van het tweetalige gebied Brussel-Hoofdstad.<br /><br />
+...
 
 ### ART. 4.
 
-Het ministerieel besluit van 22 december 2005 houdende de vastlegging van bevolkingsprojecties zoals bedoeld in artikel 4 van het besluit van de Vlaamse Regering van 17 maart 1998 houdende vaststelling van het programma voor serviceflatgebouwen, woningcomplexen met dienstverlening, en rusthuizen, wordt opgeheven.<br /><br />
+...
 
 ### ART. 5.
 
-Dit besluit treedt in werking, op de dag van de bekendmaking ervan in het Belgisch Staatsblad.<br /><br />
+...
