@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018937,
+  "title": "Besluit van de Vlaamse Regering van 2010-03-12 tot wijziging van het besluit van de Vlaamse Regering van 15 december 2006 betreffende de uitvoering van het Vlaamse inburgeringsbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018937/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "5607f5c3c0bf6b8b75946f3657aff4760af496a2719c3aa44c66377993d5ea54",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018937&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2010-03-12",
+  "gazette": "2010-04-19",
+  "numac": 2010201963,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
