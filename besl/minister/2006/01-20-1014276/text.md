@@ -6,7 +6,7 @@ Voor het Nederlandse taalgebied worden de resultaten voor de afzonderlijke kalen
 
 ### ART. 2.
 
-Voor het Nederlandse taalgebied worden de resultaten voor de afzonderlijke kalenderjaren 2011 tot en met 2015 van de Update 2005 van de MIRA-projecties die werd uitgevoerd door het Centrum voor Bevolkings- en Gezinsstudies van het departement Welzijn, Volksgezondheid en Cultuur, vastgelegd voor de toepassing van de programmacijfers bedoeld in:<br /><br />1° artikel 2 van bijlage II, gevoegd bij het besluit van de Vlaamse Regering van 18 december 1998, voornoemd, voor de lokale dienstencentra;<br /><br />2° artikel 2 van bijlage III, gevoegd bij hetzelfde besluit, voor de regionale dienstencentra;<br /><br />3° artikel 2 van bijlage IV, gevoegd bij hetzelfde besluit, voor de dagverzorgingscentra;<br /><br />4° artikel 2 van bijlage V, gevoegd bij hetzelfde besluit, voor de centra voor kortverblijf;<br /><br />5° artikel 3 van bijlage VI, gevoegd bij hetzelfde besluit, voor de diensten voor oppashulp.
+Voor het Nederlandse taalgebied worden de resultaten voor de afzonderlijke kalenderjaren 2011 tot en met 2015 van de Update 2005 van de MIRA-projecties die werd uitgevoerd door het Centrum voor Bevolkings- en Gezinsstudies van het departement Welzijn, Volksgezondheid en Cultuur, vastgelegd voor de toepassing van de programmacijfers bedoeld in:<br />1° artikel 2 van bijlage II, gevoegd bij het besluit van de Vlaamse Regering van 18 december 1998, voornoemd, voor de lokale dienstencentra;<br />2° artikel 2 van bijlage III, gevoegd bij hetzelfde besluit, voor de regionale dienstencentra;<br />3° ...<br />4° ...<br />5° artikel 3 van bijlage VI, gevoegd bij hetzelfde besluit, voor de diensten voor oppashulp.
 
 ### ART. 3.
 
