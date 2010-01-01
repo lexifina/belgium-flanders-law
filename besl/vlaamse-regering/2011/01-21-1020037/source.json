@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020037,
+  "title": "Besluit van de Vlaamse Regering van 2011-01-21 tot wijziging van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020037/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "e184b06df5c63a9c1c0cbf2590b2cc4da08d69d00b95a9e2680134b5b35f5755",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020037&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2011-01-21",
+  "gazette": "2011-02-15",
+  "numac": 2011035124,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
