@@ -6,36 +6,36 @@ De Vlaamse minister van Economie, buitenlands beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-In het artikel 7 van het ministerieel besluit van 17 december 2008 houdende tijdelijke aanvullende maatregelen voor het behoud van de visbestanden in zee, gewijzigd bij ministerieel besluit van 28 januari 2009, wordt vanaf 1 september 2009 volgende zinsnede ingevoegd : <br /><br />« steenbolk : 20 cm aanvoerlengte. ».
+...
 
 ### ART. 2.
 
-In het artikel 12 van hetzelfde besluit wordt het getal « 240 » vervangen door het getal « 250 ».
+...
 
 ### ART. 3.
 
-In het artikel 15 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 23 juni 2009, worden volgende wijzigingen aangebracht :<br /><br />1° in § 3 wordt het getal « 100 » vervangen door het getal « 105 »,<br /><br />2° In § 4 lid 2 wordt het getal « 45 » vervangen door het getal « 52 ».
+...
 
 ### ART. 4.
 
-In het artikel 16 van hetzelfde besluit, gewijzigd bij ministerieel besluit van 23 juni 2009, worden volgende wijzigingen aangebracht :<br /><br />1° in § 3 wordt het getal « 18 » vervangen door het getal « 21 »,<br /><br />2° in § 4 lid 2 wordt het getal « 10 » vervangen door het getal « 13 ».
+...
 
 ### ART. 5.
 
-Aan het artikel 19 § 1 van hetzelfde besluit, gewijzigd bij de ministeriële besluiten van 28 januari 2009 en 23 april 2009 wordt volgend lid toegevoegd : <br /><br />« In afwijking van vorig lid is het in de i.c.e.s.-gebieden VIIb-k, VIII voor een vissersvaartuig, dat volgens de officiële lijst der Belgische vissersvaartuigen 2008 enkel is uitgerust met de planken, vanaf 1 januari 2009 tot en met 31 oktober 2009 verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 8 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig maximaal een hoeveelheid van 1,5 kg per kW in het i.c.e.s.-gebied VIId worden opgevist. »
+...
 
 ### ART. 6.
 
-In het artikel 20 van hetzelfde besluit, gewijzigd bij de ministeriele besluiten van 23 april 2009 en 23 juni 2009, worden met ingang vanaf 1 augustus 2009 volgende wijzigingen aangebracht :<br /><br />1° in § 2 worden de woorden « vanaf 8 juni 2009 om 00.00 uur » vervangen door « vanaf 8 juni 2009 om 00.00 uur tot en met 31 augustus 2009 om 24.00 uur »,<br /><br />2° § 3 wordt aangevuld met een derde lid :<br />« Vanaf 1 augustus 2009 tot en met 31 augustus 2009 is het verboden dat in de i.c.e.s.-gebieden VIIIa,b de tongvangst van een vissersvaartuig, dat voorkomt op de lijst vermeld in § 2 een hoeveelheid overschrijdt, die gelijk is aan 8 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW, als uitgangspunt wordt de situatie op 1 mei 2009 genomen. »
+...
 
 ### ART. 7.
 
-In het artikel 22 van hetzelfde besluit, gewijzigd bij ministerieel besluit van 23 juni 2009, worden de volgende wijzigingen vanaf 16 oktober 2009, aangebracht :<br /><br />1° in § 3 en § 4 worden de woorden « 31 december » vervangen door de woorden « 15 oktober 2009 »,<br /><br />2° aan § 3 wordt een derde lid toegevoegd, dat luidt als volgt :<br />« In de periode van 16 oktober 2009 tot en met 31 december 2009 is het in het i.c.e.s.-gebied VIId, voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen die tijdens die zeereis in het desbetreffend i.c.e.s.-gebied worden gerealiseerd ».<br /><br />3° aan § 4 wordt een derde lid toegevoegd dat luidt als volgt :<br />« In de periode van 16 oktober 2009 tot en met 31 december 2009 is het in het i.c.e.s.-gebied VIId voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen die tijdens die zeereis in het desbetreffende i.c.e.s.-gebied worden gerealiseerd. »
+...
 
 ### ART. 8.
 
-In artikel 26 van hetzelfde besluit gewijzigd bij de ministeriële besluiten van 28 januari 2009, 23 april 2009 en 23 juni 2009 worden de volgende wijzigingen aangebracht :<br /><br />1° aan § 3 wordt een tweede lid toegevoegd, luidend als volgt :<br />« In afwijking van vorig lid is het voor een vissersvaartuig in de periode van 16 augustus 2009 tot en met 31 december 2009, verboden bij de heekvangsten per zeereis in de Noordzee een hoeveelheid te overschrijden die gelijk is aan 200 kg vermenigvuldigd met het aantal vaartdagen in de Noordzee gerealiseerd tijdens die zeereis. » <br /><br />2° de §§ 14, 15 en 16 worden toegevoegd :<br />« § 14. In de periode van 1 september 2009 tot en met 31 december 2009 is het in de i.c.e.s.-gebieden VII behalve VIIa voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de vangsten van wijting per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden.<br /><br />§ 15. In de periode van 1 september 2009 tot en met 31 december 2009 is het in de i.c.e.s.-gebieden VII behalve VIIa voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de vangsten van wijting per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden.<br /><br />§ 16. Vanaf het ogenblik dat via quotaruil, het effectief Belgisch quotum voor zwarte koolvis in de Noordzee niet langer volledig is benut tot en met 31 december 2009 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig, verboden bij de vangsten van zwarte koolvis per zeereis een hoeveelheid te overschrijden die gelijk is aan 20 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden. »
+...
 
 ### ART. 9.
 
-Dit besluit treedt in werking op 1 september 2009, met uitzondering van de artikelen 6 en 8 die in werking treden op 1 augustus 2009, en houdt op van kracht te zijn op 1 januari 2010.
+...
