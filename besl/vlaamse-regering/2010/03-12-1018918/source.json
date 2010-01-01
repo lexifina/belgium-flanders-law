@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018918,
+  "title": "Besluit van de Vlaamse Regering van 2010-03-12 houdende machtiging van het [agentschap Onroerend Erfgoed (verv. BVR 22 juni 2012, art. 11)] om voor het Vlaamse Gewest deel te nemen aan de werking (en het beheer) van de internationale vereniging zonder winstoogmerk Europae Archaeologiae Consilium",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018918/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "16bf74b948e9609126b71dd56cb211177a51d3487097283b1dedcba8ab514314",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018918&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2010-03-12",
+  "gazette": "2010-04-08",
+  "numac": 2010035247,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
