@@ -2,16 +2,16 @@
   "codex_id": 1011956,
   "title": "Ministerieel besluit van 2003-12-11 tot bepaling van de kwalificaties van de personen die in aanmerking komen voor de tewerkstelling als deskundige in animatie en activatie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011956/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "087e54deebfb88349663d98e0b5b6ac4a9f74b12240438ccac70106c72bace30",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011956/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "61b617010a55e8ef496bf2dee6bd624653788c3c915d1c0881b03d551466dbcc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011956&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2010-01-01",
   "made": "2003-12-11",
   "gazette": "2004-01-02",
   "numac": 2003036231,
   "document_start": "2004-01-01",
   "document_end": "2009-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2010-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
