@@ -6,8 +6,8 @@ De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-In het artikel 18 van het ministerieel besluit van 17 december 2008, houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, gewijzigd bij de ministeriele besluiten van 28 januari 2009, 23 april 2009 en 23 oktober 2009 wordt de § 5 vervangen, door volgende bepaling : <br /><br />« § 5. Vanaf 1 november 2009 tot en met 31 december 2009 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden, die gelijk is aan 2 000 kg, vermeerderd met een hoeveelheid die gelijk is aan 10 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW ».
+...
 
 ### ART. 2.
 
-Dit besluit treedt in werking op 25 november 2009 en houdt op van kracht te zijn op 1 januari 2010.
+...
