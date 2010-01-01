@@ -2,16 +2,16 @@
   "codex_id": 1000301,
   "title": "Decreet van 1993-12-15 tot oprichting van de Vlaamse Raad voor Wetenschapsbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000301/VolledigDocument?datum=2006-11-30",
-  "source_sha256": "e4b17b3cfce82fc4a26b5d07d56e49a1c003ff3ec52f53bf30ea7dfa2a968d2a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000301/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "92b0dbf37e021976733945d6de761b81aa582f90f131682401831b33e5fc277e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000301&param=informatie",
-  "as_of": "2006-11-30",
+  "as_of": "2010-01-01",
   "made": "1993-12-15",
   "gazette": "1994-03-26",
   "numac": 1994035429,
   "document_start": null,
   "document_end": "2009-12-31",
-  "in_force": "2006-11-30",
+  "in_force": "2010-01-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2006-11-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
