@@ -28,7 +28,7 @@ Alle voltijds tewerkgestelde personeelsleden hebben recht op tien werkdagen vorm
 
 ### ART. 6.
 
-Elk personeelslid is verplicht per schooljaar minimaal drie dagen vorming op te nemen. Voor personeelsleden die geen volledig schooljaar zijn tewerkgesteld, wordt het aantal verplicht op te nemen dagen pro rata berekend, voorzover ze effectief tewerkgesteld zijn. Voor personeelsleden die deeltijds zijn tewerkgesteld, wordt het aantal verplicht op te nemen dagen eveneens pro rata berekend, voorzover ze effectief tewerkgesteld zijn.
+...
 
 ## HOOFDSTUK IV SLOTBEPALINGEN
 
