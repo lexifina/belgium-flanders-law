@@ -2,16 +2,16 @@
   "codex_id": 1008507,
   "title": "Besluit van de Vlaamse Regering van 2001-11-23 tot bepaling van de voorwaarden voor toekenning van subsidies aan gemeenten voor de opleiding van gemeentelijke stedenbouwkundige ambtenaren en voor de betaling van de gemeentelijke stedenbouwkundige ambtenaren in kleine gemeenten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008507/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "7d094362faca8a9ef5fd084a647fd0e92f42cabf6a8d2ba601e08e797b5d6d64",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008507/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "eeeca9bb69baa81a819c0da9802b6be26f8dcf2775fb58a4f021e2a869174f70",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008507&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2010-01-01",
   "made": "2001-11-23",
   "gazette": "2001-12-28",
   "numac": 2001036464,
   "document_start": "2001-12-28",
   "document_end": "2020-10-22",
-  "in_force": "2006-07-01",
+  "in_force": "2010-01-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
