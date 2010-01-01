@@ -88,7 +88,7 @@ Iedere centrumstad kan een lokaal onderwijsplan opmaken. Dat onderwijsplan bevat
 
 ### ART. 18.
 
-Binnen de beschikbare begrotingskredieten trekt de Vlaamse Regering per jaar minstens 1,5 miljoen euro uit. Dit bedrag moet worden besteed aan projecten binnen de centrumsteden die het Vlaams onderwijsbeleid versterken. Dit bedrag volgt de evolutie van het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende sociale bepalingen.<br /><br />
+Binnen de beschikbare begrotingskredieten worden middelen voorzien voor projecten binnen de centrumsteden die het Vlaams onderwijsbeleid versterken. Samen met de middelen voorzien voor projecten vermeld onder hoofdstuk V bedraagt dit budget 1.929.000 euro.
 
 ### ART. 19.
 
@@ -110,7 +110,7 @@ Om tegemoet te komen aan specifieke lokale onderwijsproblematieken op het vlak v
 
 ### ART. 22.
 
-§ 1. De VZW Voorrangsbeleid Brussel komt in aanmerking voor de subsidie-enveloppe, vermeld in § 2 voor zover ze voldoet aan volgende voorwaarden :<br />1° ze stelt zich tot doel een netoverschrijdende structuur uit te bouwen ter ondersteuning van de Nederlandstalige basisscholen in het tweetalige gebied Brussel-Hoofdstad. Die netoverschrijdende structuur is gericht op het creëren van een omgeving waarin de leerlingen :<br />a) positief kunnen functioneren op schoolniveau;<br />b) de nodige inzichten en vaardigheden verwerven om goed maatschappelijk te kunnen functioneren;<br />c) goed toegerust worden voor de ontwikkeling van hun professionele loopbaan;<br />2° ze legt uiterlijk op de eerste dag van de zesde maand na afsluiting van het boekjaar de jaarrekening en het jaarverslag van de VZW Voorrangsbeleid Brussel ter kennisgeving voor aan de Vlaamse Regering.<br /><br />§ 2. De Vlaamse Regering subsidieert tot 31 december 2009 de loonkosten van de personeelsleden en de werkingsmiddelen binnen de door de Vlaamse Gemeenschap vastgestelde begrotingskredieten.<br /><br />§ 3. De vzw VBB kan geen verbintenissen aangaan die uitvoering hebben na 31 december 2009.
+§ 1. De VZW Voorrangsbeleid Brussel komt in aanmerking voor de subsidie-enveloppe, vermeld in § 2 voor zover ze voldoet aan volgende voorwaarden :<br />1° ze stelt zich tot doel een netoverschrijdende structuur uit te bouwen ter ondersteuning van de Nederlandstalige basisscholen in het tweetalige gebied Brussel-Hoofdstad. Die netoverschrijdende structuur is gericht op het creëren van een omgeving waarin de leerlingen :<br />a) positief kunnen functioneren op schoolniveau;<br />b) de nodige inzichten en vaardigheden verwerven om goed maatschappelijk te kunnen functioneren;<br />c) goed toegerust worden voor de ontwikkeling van hun professionele loopbaan;<br />2° ze legt uiterlijk op de eerste dag van de zesde maand na afsluiting van het boekjaar de jaarrekening en het jaarverslag van de VZW Voorrangsbeleid Brussel ter kennisgeving voor aan de Vlaamse Regering.<br /><br />§ 2. De Vlaamse Regering subsidieert tot 31 december 2010 de loonkosten van de personeelsleden en de werkingsmiddelen binnen de door de Vlaamse Gemeenschap vastgestelde begrotingskredieten.<br /><br />§ 3. De vzw VBB kan geen verbintenissen aangaan die uitvoering hebben na 31 december 2010.
 
 ### ART. 23.
 
