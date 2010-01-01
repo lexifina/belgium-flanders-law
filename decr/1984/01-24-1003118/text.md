@@ -154,7 +154,7 @@ De Vlaamse regering benoemt de leden van de Raad en wijst onder hen de voorzitte
 
 ### ART. 28ter.
 
-<span class="reference">(ing. decr. 20 december 1996, art. 47)</span> ] [§ 1. Aan een heffing op de winning van grondwater, hierna genoemd de heffing, is elke natuurlijke of rechtspersoon die in het jaar voorafgaand aan het heffingsjaar op het grondgebied van het Vlaamse Gewest één of meer van de volgende grondwaterwinningen heeft geëxploiteerd, onderworpen:<br /><br />1° grondwaterwinningen bestemd voor de openbare drinkwatervoorziening;<br /><br />2° grondwaterwinningen van ten minste 30.000 m3 per jaar;<br /><br />3° grondwaterwinningen van 500 tot minder dan 30. 000 m3 per jaar.  <span class="reference">(verv. decr. 22 december 1999, art. 42, I: 1 januari 2000)</span> ]<br /><br />[Voor wat de heffing op het winnen van grondwater betreft wordt ook als grondwater beschouwd elk water dat zonder exploitatie in open verbinding staat met de waterverzadigde zone onder het bodemoppervlak en ermee in statisch evenwicht is. Water dat op natuurlijke wijze opborrelt of welwater wordt niet meer als grondwater beschouwd vanaf het ogenblik dat het langs natuurlijke weg in het openbaar hydrografisch net stroomt.  <span class="reference">(ing. decr. 21 december 2001, art. 20, I: 1 januari 2002)</span> ]<br /><br />[§ 2. In afwijking van § 1 is geen heffing op de winning van grondwater verschuldigd voor de exploitatie van de volgende grondwaterwinningen:<br /><br />1° een grondwaterwinning waaruit het water uitsluitend met een handpomp wordt opgepompt;  <span class="reference">(verv. decr. 22 december 1999, art. 42, I: 1 januari 2000)</span> ]<br /><br />2° [...  <span class="reference">(opgeh. decr. 21 december 2001, art. 21, I: 1 januari 2002)</span> ]<br /><br />[3° een grondwaterwinning voor het uitvoeren van proefpompingen die minder dan drie maanden in gebruik is;<br /><br />4° bronbemalingen die technisch nodig zijn voor:<br /><br />a) ofwel, de verwezenlijking van bouwkundige verwerkingen;<br /><br />b) ofwel, de aanleg van openbare nutsvoorzieningen;<br /><br />5° draineringen die noodzakelijk zijn om het gebruik en/of de exploitatie van bouw- en weiland mogelijk te maken of te houden;<br /><br />6° bronbemalingen die noodzakelijk zijn voor de exploitatie van tunnels voor openbare wegen en/of openbaar vervoer of voor de waterbeheersing van mijnverzakkingsgebieden;<br /><br />7° bronbemalingen die noodzakelijk zijn om het gebruik en/of de exploitatie van gebouwen of bedrijfsterreinen mogelijk te maken of houden, op voorwaarde dat:<br /><br />a) deze noodzakelijkheid is gestaafd door een hydrologisch attest opgesteld door een milieudeskundige die overeenkomstig titel II van het Vlarem is erkend in de discipline grondwater;<br /><br />b) het hydrologisch attest, bepaald in a), vóór 15 maart van elk heffingsjaar bij de  <span class="reference">(verv. decr. 22 december 1999, art. 42, I: 1 januari 2000)</span> ] [algemeen directeur  <span class="reference">(verv. decr. 7 mei 2004, art. 15, I: 1 april 2006)</span> ] [van de Vlaamse Milieumaatschappij, hierna te noemen de Maatschappij, of de door hem gedelegeerde ambtenaar is ingediend. De Vlaamse regering kan regels vaststellen met betrekking tot de minimale inhoud en de vorm van bedoeld hydrologisch attest;<br /><br />8° grondwaterwinningen die gebruikt worden voor koude-warmtepompen, op voorwaarde dat het grondwater na doorstroming van de koude-warmtepomp integraal terug in dezelfde watervoerende laag wordt ingebracht;<br /><br />9° grondwaterwinningen in het kader van bodemsaneringswerken, waarvoor een conformiteitsattest werd afgeleverd overeenkomstig het decreet van 22 februari 1995 betreffende de bodemsanering.<br /><br />§ 3. Voor de toepassing van dit decreet wordt elke natuurlijke of rechtspersoon die op enig ogenblik in het jaar voorafgaand aan het heffingsjaar op het grondgebied van het Vlaamse Gewest heeft beschikt over een grondwaterwinning met uitzondering van de grondwaterwinning, bedoeld in § 2, onweerlegbaar vermoed de heffingsplichtige te zijn inzake de in het eerste lid bedoelde exploitatie.<br /><br />§ 4. Het heffingsjaar is het kalenderjaar dat volgt op het jaar waarin de in § 1 bedoelde exploitatie heeft plaatsgehad.<br /><br />§ 5. De Maatschappij is belast met de vestiging, de inning en de invordering van de heffing. De Maatschappij is tevens belast met de controle op de naleving van de verplichtingen inzake heffingen.<br /><br />De daartoe bevoegde ambtenaren worden voorzien van een legitimatiebewijs getekend door  <span class="reference">(verv. decr. 22 december 1999, art. 42, I: 1 januari 2000)</span> ] [het hoofd van het agentschap  <span class="reference">(verv. decr. 7 mei 2004, art. 14, I: 1 april 2006)</span> ] [van de maatschappij of de door hem gedelegeerde ambtenaar.<br /><br />§ 6. De administratie Milieu-, Natuur-, Land- en Waterbeheer is eveneens bevoegd voor de controle op de bepalingen opgenomen in artikel 28quinquies, § 1, betreffende de debietsmeting en registratie.<br /><br />De daartoe bevoegde ambtenaren worden voorzien van een legitimatiebewijs getekend door  <span class="reference">(verv. decr. 22 december 1999, art. 42, I: 1 januari 2000)</span> ] [het hoofd van het agentschap  <span class="reference">(verv. decr. 7 mei 2004, art. 14, I: 1 april 2006)</span> ] van [de Maatschappij.  <span class="reference">(verv. decr. 7 mei 2004, art. 16, I: 1 april 2006)</span> ]
+§ 1. Aan een heffing op de winning van grondwater, hierna genoemd de heffing, is elke natuurlijke of rechtspersoon die in het jaar voorafgaand aan het heffingsjaar op het grondgebied van het Vlaamse Gewest één of meer van de volgende grondwaterwinningen heeft geëxploiteerd, onderworpen:<br />1° grondwaterwinningen bestemd voor de openbare drinkwatervoorziening;<br />2° grondwaterwinningen van ten minste 30.000 m3 per jaar;<br />3° grondwaterwinningen van 500 tot minder dan 30. 000 m3 per jaar. <br /><br />Voor wat de heffing op het winnen van grondwater betreft wordt ook als grondwater beschouwd elk water dat zonder exploitatie in open verbinding staat met de waterverzadigde zone onder het bodemoppervlak en ermee in statisch evenwicht is. Water dat op natuurlijke wijze opborrelt of welwater wordt niet meer als grondwater beschouwd vanaf het ogenblik dat het langs natuurlijke weg in het openbaar hydrografisch net stroomt. <br /><br />§ 2. In afwijking van § 1 is geen heffing op de winning van grondwater verschuldigd voor de exploitatie van de volgende grondwaterwinningen:<br />1° een grondwaterwinning waaruit het water uitsluitend met een handpomp wordt opgepompt; <br />2° ... <br />3° een grondwaterwinning voor het uitvoeren van proefpompingen die minder dan drie maanden in gebruik is;<br />4° bronbemalingen die technisch nodig zijn voor:<br />a) ofwel, de verwezenlijking van bouwkundige verwerkingen;<br />b) ofwel, de aanleg van openbare nutsvoorzieningen;<br />5° draineringen die noodzakelijk zijn om het gebruik en/of de exploitatie van bouw- en weiland mogelijk te maken of te houden;<br />6° bronbemalingen die noodzakelijk zijn voor de exploitatie van tunnels voor openbare wegen en/of openbaar vervoer of voor de waterbeheersing van mijnverzakkingsgebieden;<br />7° bronbemalingen die noodzakelijk zijn om het gebruik en/of de exploitatie van gebouwen of bedrijfsterreinen mogelijk te maken of houden, op voorwaarde dat:<br />a) deze noodzakelijkheid is gestaafd door een hydrologisch attest opgesteld door een milieudeskundige die overeenkomstig titel II van het Vlarem is erkend in de discipline grondwater;<br />b) het hydrologisch attest, bepaald in a), vóór 15 maart van elk heffingsjaar bij de algemeen directeur van de Vlaamse Milieumaatschappij, hierna te noemen de Maatschappij, of de door hem gedelegeerde ambtenaar is ingediend. De Vlaamse regering kan regels vaststellen met betrekking tot de minimale inhoud en de vorm van bedoeld hydrologisch attest;<br />8° grondwaterwinningen die gebruikt worden voor koude-warmtepompen, op voorwaarde dat het grondwater na doorstroming van de koude-warmtepomp integraal terug in dezelfde watervoerende laag wordt ingebracht;<br />9° grondwaterwinningen in het kader van bodemsaneringswerken, waarvoor een conformiteitsattest werd afgeleverd overeenkomstig het decreet van 22 februari 1995 betreffende de bodemsanering.<br /><br />§ 3. Voor de toepassing van dit decreet wordt elke natuurlijke of rechtspersoon die op enig ogenblik in het jaar voorafgaand aan het heffingsjaar op het grondgebied van het Vlaamse Gewest heeft beschikt over een grondwaterwinning met uitzondering van de grondwaterwinning, bedoeld in § 2, onweerlegbaar vermoed de heffingsplichtige te zijn inzake de in het eerste lid bedoelde exploitatie.<br /><br />§ 4. Het heffingsjaar is het kalenderjaar dat volgt op het jaar waarin de in § 1 bedoelde exploitatie heeft plaatsgehad.<br /><br />§ 5. Het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaamse Milieumaatschappij hierna genoemd « de Maatschappij » is belast met de vestiging, inning en invordering van de heffing. De Maatschappij is tevens belast met de controle op de naleving van de verplichtingen inzake heffingen.<br /><br />De daartoe bevoegde ambtenaren worden voorzien van een legitimatiebewijs getekend door het hoofd van het agentschap van de maatschappij of de door hem gedelegeerde ambtenaar.<br /><br />§ 6. De administratie Milieu-, Natuur-, Land- en Waterbeheer is eveneens bevoegd voor de controle op de bepalingen opgenomen in artikel 28quinquies, § 1, betreffende de debietsmeting en registratie.<br /><br />De daartoe bevoegde ambtenaren worden voorzien van een legitimatiebewijs getekend door het hoofd van het agentschap van de Maatschappij.
 
 ## [AFDELING 2 ... (opgeh. decr. 30 november 2018, art. 4, I: 1 januari 2019)]
 
@@ -164,7 +164,7 @@ De Vlaamse regering benoemt de leden van de Raad en wijst onder hen de voorzitte
 
 ### ART. 28quinquies.
 
-[§ 1. Elke grondwaterwinning en/of grondwaterwinningseenheid waarvan de exploitatie overeenkomstig het artikel 28ter aan de heffing is onderworpen en de grondwaterwinningen met een vergund jaardebiet van 500m3 of meer moet uitgerust zijn met een debietmeting en registratie van de opgepompte hoeveelheid grondwater.<br /><br />Voor heffingsplichtige grondwaterwinningen gaat die verplichting in op 1 juli 1997.<br /><br />Voor de niet-heffingsplichtige grondwaterwinningen met een vergund jaardebiet van 500m3 of meer gaat de verplichting in op 1 juli 2002. Deze debietmeting en registratie dienen te gebeuren overeenkomstig een code van goede praktijk. De regering kan nadere voorwaarden bepalen waaraan bedoelde debietmeting en registratie moeten voldoen.  <span class="reference">(verv. decr. 22 december 2000, art. 4, I: 1 januari 2001)</span> ]<br /><br />[§ 2. Wanneer de in § 1 bedoelde registratie technisch niet uitvoerbaar is, kan de regering de heffingsplichtige vrijstellen van voormelde registratieverplichting. In dat geval bepaalt zij de alternatieve wijze waarop de hoeveelheden worden bepaald.<br /><br />§ 3. De in § 1 opgelegde verplichtingen tot het voorzien van een debietsmeting en registratie gelden niet voor grondwaterwinningen waarvan het opgepompte grondwater wordt aangewend voor de irrigatie in open lucht voor land- en tuinbouw in hoofdactiviteit.  <span class="reference">(verv. decr. 22 december 1999, art. 42, I: 1 januari 2000)</span> ]
+§ 1. Elke grondwaterwinning en/of grondwaterwinningseenheid waarvan de exploitatie overeenkomstig het artikel 28ter aan de heffing is onderworpen en elke conform het decreet betreffende de milieuvergunning d.d. 28 juni 1985 vergunde of gemelde grondwaterwinning moet uitgerust zijn met een debietmeting en registratie van de opgepompte hoeveelheid grondwater.<br /><br />Voor heffingsplichtige grondwaterwinningen gaat die verplichting in op 1 juli 1997.<br /><br />Voor de niet-heffingsplichtige grondwaterwinningen met een vergund jaardebiet van 500m3 of meer gaat de verplichting in op 1 juli 2002, voor de overige niet heffingsplichtige vergunde of gemelde grondwaterwinningen gaat de verplichting in op 1 januari 2010. Deze debietmeting en registratie dienen te gebeuren overeenkomstig een code van goede praktijk. De regering kan nadere voorwaarden bepalen waaraan bedoelde debietmeting en registratie moeten voldoen. <br /><br />§ 2. Wanneer de in § 1 bedoelde registratie technisch niet uitvoerbaar is, kan de regering de heffingsplichtige vrijstellen van voormelde registratieverplichting. In dat geval bepaalt zij de alternatieve wijze waarop de hoeveelheden worden bepaald.<br /><br />§ 3. De in § 1 opgelegde verplichtingen tot het voorzien van een debietsmeting en registratie gelden niet voor draineringen die noodzakelijk zijn om het gebruik en/of de exploitatie van bouw- en weiland mogelijk te maken of te houden.
 
 ## [AFDELING 3 ... (opgeh. decr. 30 november 2018, art. 4, I: 1 januari 2019)]
 
@@ -186,11 +186,11 @@ De Vlaamse regering benoemt de leden van de Raad en wijst onder hen de voorzitte
 
 ### ART. 28decies.
 
-§ 1. De heffing, vastgesteld overeenkomstig artikel 28quater, wordt gevestigd uiterlijk op 31 december van het jaar dat volgt op het heffingsjaar. <br /><br />§ 2. In afwijking van § 1, kan een heffing of een aanvullende heffing worden gevestigd gedurende drie jaar vanaf 1 januari van het heffingsjaar, in de gevallen waarin de heffingsplichtige nagelaten heeft tijdig een geldige aangifte in te dienen waartoe hij verplicht is overeenkomstig artikel 28sexies, § 1, of als de verschuldigde heffing hoger is dan de heffing die gesteund is op de gegevens vermeld in de aangifte.<br /><br />§ 3. Meerdere heffingen betreffende eenzelfde heffingsjaar kunnen lastens een zelfde heffingsplichtige worden gevestigd.<br /><br />§ 4. De heffingen, evenals de administratieve geldboeten en de heffingsverhogingen, verschuldigd overeenkomstig dit hoofdstuk worden opgenomen in kohieren die worden medegedeeld aan de met de inning en invordering belaste ambtenaren.<br /><br />§ 5. De kohieren worden uitvoerbaar verklaard door het hoofd van het agentschap van de Maatschappij of de door hem gedelegeerde ambtenaar. Ze worden, op straffe van verval, binnen de in § 1 en § 2 bepaalde termijn uitvoerbaar verklaard.<br /><br />§ 6. De kohieren vermelden:<br /><br />1° de naam en het adres van de heffingsplichtigen;<br /><br />2° de verwijzing naar dit decreet;<br /><br />3° het bedrag van de heffing en het heffingsjaar waarop ze betrekking heeft;<br /><br />4° het artikelnummer;<br /><br />5° de datum van uitvoerbaarverklaring;<br /><br />6° de handtekening van de in § 5 bedoelde ambtenaar.<br /><br />§ 7. De heffingsplichtige op wiens naam de heffing is ingekohierd ontvangt zonder kosten een heffingsbiljet.<br /><br />De verzending van het heffingsbiljet geschiedt, op straffe van verval, per post binnen twee maanden te rekenen van de datum van de uitvoerbaarverklaring van het kohier.<br /><br />Het heffingsbiljet bevat:<br /><br />1° de datum van verzending van het heffingsbiljet;<br /><br />2° de gegevens bedoeld in § 6, 1° tot 5°;<br /><br />3° de betalingstermijn;<br /><br />4° de termijn waarin een bezwaarschrift kan worden ingediend, de benaming en het juiste adres van de instantie die bevoegd is om ze te ontvangen.
+§ 1. De heffing, vastgesteld overeenkomstig artikel 28quater, wordt gevestigd uiterlijk op 31 december van het jaar dat volgt op het heffingsjaar. <br /><br />§ 2. In afwijking van § 1, kan een heffing of een aanvullende heffing worden gevestigd gedurende drie jaar vanaf 1 januari van het heffingsjaar, in de gevallen waarin de heffingsplichtige nagelaten heeft tijdig een geldige aangifte in te dienen waartoe hij verplicht is overeenkomstig artikel 28sexies, § 1, of als de verschuldigde heffing hoger is dan de heffing die gesteund is op de gegevens vermeld in de aangifte.<br /><br />§ 3. Meerdere heffingen betreffende eenzelfde heffingsjaar kunnen lastens een zelfde heffingsplichtige worden gevestigd.<br /><br />§ 4. De heffingen, evenals de administratieve geldboeten en de heffingsverhogingen, verschuldigd overeenkomstig dit hoofdstuk worden opgenomen in kohieren die worden medegedeeld aan de met de inning en invordering belaste ambtenaren.<br /><br />§ 5. De kohieren worden uitvoerbaar verklaard door het hoofd van het agentschap van de Maatschappij of de door hem gedelegeerde ambtenaar. Ze worden, op straffe van verval, binnen de in § 1 en § 2 bepaalde termijn uitvoerbaar verklaard.<br /><br />§ 6. De kohieren vermelden:<br />1° de naam en het adres van de heffingsplichtigen;<br />2° de verwijzing naar dit decreet;<br />3° het bedrag van de heffing en het heffingsjaar waarop ze betrekking heeft;<br />4° het artikelnummer;<br />5° de datum van uitvoerbaarverklaring;<br />6° de handtekening van de in § 5 bedoelde ambtenaar.<br /><br />§ 7. De heffingsplichtige op wiens naam de heffing is ingekohierd ontvangt zonder kosten een heffingsbiljet.<br /><br />De verzending van het heffingsbiljet geschiedt, op straffe van verval, per post binnen zes maanden te rekenen van de datum van de uitvoerbaarverklaring van het kohier.<br /><br />Het heffingsbiljet bevat:<br />1° de datum van verzending van het heffingsbiljet;<br />2° de gegevens bedoeld in § 6, 1° tot 5°;<br />3° de betalingstermijn;<br />4° de termijn waarin een bezwaarschrift kan worden ingediend, de benaming en het juiste adres van de instantie die bevoegd is om ze te ontvangen.
 
 ### ART. 28undecies.
 
-28undecies.  <span class="reference">(ing. decr. 20 december 1996, art. 47)</span> ] [§ 1. Bij niet-aangifte of in geval van onvolledige of onjuiste aangifte, bedoeld in artikel 28sexies, § 1, wordt de heffing vermeerderd met een heffingsverhoging. Deze heffingsverhoging wordt procentueel berekend op het verschil tussen de heffing zoals berekend op basis van de elementen van de aangifte en de door de Maatschappij of rechtbank aangehouden heffing of bij ontstentenis van aangifte, de door de Maatschappij of rechtbank aangehouden heffing.<br /><br />De daartoe bevoegde ambtenaren worden aangewezen door  <span class="reference">(verv. decr. 22 december 1999, art. 42, I: 1 januari 2000)</span> ] [het hoofd van het agentschap  <span class="reference">(verv. decr. 7 mei 2004, art. 14, I: 1 april 2006)</span> ] [van de maatschappij of de door hem gedelegeerde ambtenaar.<br /><br />§ 2. Het percentage van de heffingsverhoging bij niet-aangifte, bedoeld in artikel 28sexies, § 1, wordt als volgt vastgelegd:<br /><br />1° als de niet-aangifte te wijten is aan omstandigheden onafhankelijk van de wil van de heffingsplichtige: geen verhoging;<br /><br />2° als de aangifte niet binnen de termijn wordt ingediend, maar de heffingsplichtige wel tijdig antwoordt op het bericht van ambtshalve heffing: verhoging van 10 %;<br /><br />3° als heffingsplichtige niet of niet tijdig antwoordt op het bericht van ambtshalve heffing: verhoging van 50 %.<br /><br />§ 3. Het percentage van de heffingsverhoging bij onvolledige of onjuiste aangifte vermeld in artikel 28sexies, § 1, wordt als volgt bepaald:<br /><br />1° als de onvolledige of onjuiste aangifte te wijten is aan omstandigheden onafhankelijk van de wil van de heffingsplichtige: geen verhoging;<br /><br />2° als de heffingsplichtige tijdig reageert op het bericht van rechtzetting van de administratie verhoging van 10 % op het gedeelte bepaald in § 1;<br /><br />3° als de heffingsplichtige niet of niet tijdig reageert op het bericht van rechtzetting: verhoging van 50 % op het gedeelte bepaald in § 1;<br /><br />4° als uit de reactie van de heffingsplichtige blijkt dat de in de aangifte opgegeven gegevens juist zijn: geen verhoging.<br /><br />§ 4. De ambtenaren bedoeld in § 1, tweede lid, kunnen een geldboete van 2.000 tot 50.000 frank opleggen voor elke andere overtreding van hoofdstuk IVbis van dit decreet evenals van de ter uitvoering ervan genomen besluiten.  <span class="reference">(verv. decr. 22 december 1999, art. 42, I: 1 januari 2000)</span> ]
+§ 1. Bij niet-aangifte of bij niet tijdige aangifte of in geval van onvolledige of onjuiste aangifte, bedoeld in artikel 28sexies, § 1, wordt de heffing vermeerderd met een heffingsverhoging. Deze heffingsverhoging wordt procentueel berekend op het verschil tussen de heffing zoals berekend op basis van de elementen van de aangifte en de door de Maatschappij of rechtbank aangehouden heffing of bij ontstentenis van aangifte, de door de Maatschappij of rechtbank aangehouden heffing.<br /><br />De daartoe bevoegde ambtenaren worden aangewezen door het hoofd van het agentschap van de maatschappij of de door hem gedelegeerde ambtenaar.<br /><br />§ 2. Het percentage van de heffingsverhoging bij niet aangifte of bij niet tijdige aangifte bedoeld in artikel 28sexies, § 1, wordt als volgt vastgelegd : <br />1° als de niet-aangifte te wijten is aan omstandigheden onafhankelijk van de wil van de heffingsplichtige: geen verhoging;<br />2° als de aangifte niet binnen de termijn wordt ingediend, maar de heffingsplichtige wel tijdig antwoordt op het bericht van ambtshalve heffing: verhoging van 10 %;<br />3° als heffingsplichtige niet of niet tijdig antwoordt op het bericht van ambtshalve heffing: verhoging van 50 %.<br /><br />§ 3. Het percentage van de heffingsverhoging bij onvolledige of onjuiste aangifte vermeld in artikel 28sexies, § 1, wordt als volgt bepaald:<br />1° als de onvolledige of onjuiste aangifte te wijten is aan omstandigheden onafhankelijk van de wil van de heffingsplichtige: geen verhoging;<br />2° als de heffingsplichtige tijdig reageert op het bericht van rechtzetting van de administratie verhoging van 10 % op het gedeelte bepaald in § 1;<br />3° als de heffingsplichtige niet of niet tijdig reageert op het bericht van rechtzetting: verhoging van 50 % op het gedeelte bepaald in § 1;<br />4° als uit de reactie van de heffingsplichtige blijkt dat de in de aangifte opgegeven gegevens juist zijn: geen verhoging.<br /><br />§ 4. De ambtenaren bedoeld in § 1, tweede lid, kunnen een geldboete van 50 tot 1250 euro opleggen voor elke overtreding van hoofdstuk IVbis van dit decreet evenals van de ter uitvoering ervan genomen besluiten.
 
 ### ART. 28duodecies.
 
@@ -202,7 +202,7 @@ De Vlaamse regering benoemt de leden van de Raad en wijst onder hen de voorzitte
 
 ### ART. 28quater decies.
 
-28quater decies.  <span class="reference">(ing. decr. 20 december 1996, art. 47)</span> ] [§ 1. In zoverre dit hoofdstuk en de besluiten genomen ter uitvoering ervan er niet van afwijken zijn de regels betreffende de vestiging, de invordering, de geschillen, de verwijl- en moratoire interesten, de vervolgingen, de voorrechten, de wettelijke hypotheek, de verjaring inzake rijksinkomstenbelastingen mutatis mutandis van toepassing op de in dit hoofdstuk bedoelde heffingen en administratieve geldboeten.<br /><br />§ 2. Het indienen van een bezwaarschrift of het instellen van een vordering in rechte verhindert niet dat de aanslag en de eventueel verschuldigde geldboete of heffingsverhoging worden ingevorderd in zoverre zij als een zekere en vaststaande schuld kunnen worden beschouwd onder de voorwaarden bepaald in artikel 410 van het WIB 1992. Onverminderd de toepassing van artikel 414, § 2, van het Wetboek van Inkomstenbelastingen schort het indienen van een bezwaarschrift evenmin het lopen van de nalatigheidsintresten op.<br /><br />§ 3. De wettelijke hypotheek kan gevestigd worden op al de in het Vlaamse Gewest gelegen en daarvoor vatbare goederen die toebehoren aan de persoon op wiens naam de aanslag is ingekohierd. De wettelijke hypotheek wordt ingeschreven op verzoek van  <span class="reference">(verv. decr. 28 december 1999, art. 42, I: 1 januari 2000)</span> ] [het hoofd van het agentschap  <span class="reference">(verv. decr. 7 mei 2004, art. 14, I: 1 april 2006)</span> ] [van de Maatschappij of de door hem gedelegeerde ambtenaar.  <span class="reference">(verv. decr. 22 december 1999, art. 42, I: 1 januari 2000)</span> ]
+§ 1. In zoverre dit hoofdstuk en de besluiten genomen ter uitvoering ervan er niet van afwijken zijn de regels betreffende de vestiging, de invordering, de geschillen, de verwijl- en moratoire interesten, de vervolgingen, de voorrechten, de wettelijke hypotheek, de verjaring inzake rijksinkomstenbelastingen mutatis mutandis van toepassing op de in dit hoofdstuk bedoelde heffingen, administratieve geldboeten en heffingsverhogingen.<br /><br />§ 2. Het indienen van een bezwaarschrift of het instellen van een vordering in rechte verhindert niet dat de aanslag en de eventueel verschuldigde geldboete of heffingsverhoging worden ingevorderd in zoverre zij als een zekere en vaststaande schuld kunnen worden beschouwd onder de voorwaarden bepaald in artikel 410 van het WIB 1992. Onverminderd de toepassing van artikel 414, § 2, van het Wetboek van Inkomstenbelastingen schort het indienen van een bezwaarschrift evenmin het lopen van de nalatigheidsintresten op.<br /><br />§ 3. De wettelijke hypotheek kan gevestigd worden op al de in het Vlaamse Gewest gelegen en daarvoor vatbare goederen die toebehoren aan de persoon op wiens naam de aanslag is ingekohierd. De wettelijke hypotheek wordt ingeschreven op verzoek van het hoofd van het agentschap van de Maatschappij of de door hem gedelegeerde ambtenaar.
 
 ## [HOOFDSTUK V ... (opgeh. decr. 30 november 2018, art. 4, I: 1 januari 2019)]
 
@@ -228,164 +228,162 @@ De besluiten ter uitvoering van de besluitwet van 18 december 1946 waarbij tot h
 
 ### BIJLAGE
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<br>
+I. Laagfactor<br>
+
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
-			<p>I. Laagfactor</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<td>
 			<p>Code</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:256.65pt">
+			<td>
 			<p>Hydrogeologische hoofdeenheid</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td>
 			<p>laagfactor</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<td>
 			<p>0100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:256.65pt">
+			<td>
 			<p>Quartaire aquifersystemen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td>
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<td>
 			<p>0200</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:256.65pt">
+			<td>
 			<p>Kempens aquifersysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td>
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<td>
 			<p>0300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:256.65pt">
+			<td>
 			<p>Boom aquitard</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td>
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<td>
 			<p>0400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:256.65pt">
+			<td>
 			<p>Oligoceen aquifersysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td>
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<td>
 			<p>0500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:256.65pt">
+			<td>
 			<p>Bartoon aquitardsysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td>
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<td>
 			<p>0600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:256.65pt">
+			<td>
 			<p>Ledo-Paniseliaan Brusseliaan aquifersysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td>
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<td>
 			<p>0700</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:256.65pt">
+			<td>
 			<p>Paniseliaan aquitard</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td>
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<td>
 			<p>0800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:256.65pt">
+			<td>
 			<p>Ieperiaan aquifer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td>
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<td>
 			<p>0900</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:256.65pt">
+			<td>
 			<p>Ieperiaan aquitardsysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td>
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<td>
 			<p>1000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:256.65pt">
-			<p>Palioceen aquifersysteem</p>
+			<td>
+			<p>Paleoceen aquifersysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td>
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<td>
 			<p>1100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:256.65pt">
+			<td>
 			<p>Krijt aquifersysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td>
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<td>
 			<p>1200</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:256.65pt">
+			<td>
 			<p>Jura Trias Perm</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td>
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
+			<td>
 			<p>1300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:256.65pt">
+			<td>
 			<p>Sokkel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td>
 			<p>1</p>
 			</td>
 		</tr>
@@ -394,445 +392,526 @@ De besluiten ter uitvoering van de besluitwet van 18 december 1946 waarbij tot h
 
 <p>&nbsp;</p>
 <br>
-<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Vankeech</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>Vankeech</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>32</o:TotalTime><br>  <o:Created>2007-01-04T15:31:00Z</o:Created><br>  <o:LastSaved>2007-01-04T15:31:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>452</o:Words><br>  <o:Characters>2487</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>20</o:Lines><br>  <o:Paragraphs>5</o:Paragraphs><br>  <o:CharactersWithSpaces>2934</o:CharactersWithSpaces><br>  <o:Version>11.6360</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:Zoom>150</w:Zoom><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br>table.MsoTableGrid<br>	&lftaco;mso-style-name:Tabelraster;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	border:solid windowtext 1.0pt;<br>	mso-border-alt:solid windowtext .5pt;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-border-insideh:.5pt solid windowtext;<br>	mso-border-insidev:.5pt solid windowtext;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]-->
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<br>
+II. Gebiedsfactor<br>
+<br>
+Code gebied<!--[if gte mso 9]><xml> <o:DocumentProperties>  <o:Author>deschrmb</o:Author>  <o:Template>Normal</o:Template>  <o:LastAuthor>deschrmb</o:LastAuthor>  <o:Revision>1</o:Revision>  <o:TotalTime>1</o:TotalTime>  <o:Created>2010-01-06T07:46:00Z</o:Created>  <o:LastSaved>2010-01-06T07:47:00Z</o:LastSaved>  <o:Pages>1</o:Pages>  <o:Words>510</o:Words>  <o:Characters>2810</o:Characters>  <o:Company>MVG</o:Company>  <o:Lines>23</o:Lines>  <o:Paragraphs>6</o:Paragraphs>  <o:CharactersWithSpaces>3314</o:CharactersWithSpaces>  <o:Version>11.9999</o:Version> </o:DocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml> <w:WordDocument>  <w:SpellingState>Clean</w:SpellingState>  <w:GrammarState>Clean</w:GrammarState>  <w:HyphenationZone>21</w:HyphenationZone>  <w:PunctuationKerning></w:PunctuationKerning>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:Compatibility>   <w:BreakWrappedTables></w:BreakWrappedTables>   <w:SnapToGridInCell></w:SnapToGridInCell>   <w:WrapTextWithPunct></w:WrapTextWithPunct>   <w:UseAsianBreakRules></w:UseAsianBreakRules>   <w:DontGrowAutofit></w:DontGrowAutofit>  </w:Compatibility>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;> </w:LatentStyles></xml><![endif]--><!--[if gte mso 10]><style> /* Style Definitions */ table.MsoNormalTable	&lftaco;mso-style-name:Standaardtabel;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-parent:"e;"e;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"e;Times New Roman"e;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;</style><![endif]--><!--[if gte mso 9]><xml> <o:shapedefaults v:ext="e;edit"e; spidmax="e;2050"e;></o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml> <o:shapelayout v:ext="e;edit"e;>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap> </o:shapelayout></xml><![endif]-->
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:68.4pt">
-			<p>II. Gebiedsfactor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:72pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:261pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:59.2pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>Code gebied</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
-			<p>Hydrogeologische hoofdeenheid</p>
+			<td>
+			<p>Hydrogeo- logische hoofdeenheid</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>Zone</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
-			<p>Gebiedsfactor</p>
+			<td>
+			<p>Gebiedsfactor heffingsjaar 2009</p>
+			</td>
+			<td>
+			<p>Jaarlijkse toename van de gebiedsfactor tot en met heffingsjaar 2017</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>0100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>0100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>Quartair aquifersysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1</p>
+			</td>
+			<td>
+			<p>0,03125</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>cks_0200</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>0200</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>Kempens aquifersysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1</p>
+			</td>
+			<td>
+			<p>0,03125</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>blks_0400_1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>0400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>niet afgesloten deel van het Oligoceen aquifersysteem in het Brulandkrijtsysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1</p>
+			</td>
+			<td>
+			<p>0,03125</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>blks_0400_2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>0400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>afgesloten deel van het Oligoceen aquifersysteem in het Brulandkrijtsysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1,25</p>
+			</td>
+			<td>
+			<p>0,0625</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>blks_0400_3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>0400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>depressietrechter van het afgesloten deel van het Oligoceen aquifersysteem in het Brulandkrijtsysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1,5</p>
+			</td>
+			<td>
+			<p>0,125</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>cvs_0400_1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>0400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>niet afgesloten deel van het Oligoceen aquifersysteem in het Centraal Vlaams Systeem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1</p>
+			</td>
+			<td>
+			<p>0,03125</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>cvs_0400_2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>0400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>depressietrechter in het afgesloten deel van het Oligoceen aquifersysteem in het Centraal Vlaams Systeem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1,5</p>
+			</td>
+			<td>
+			<p>0,125</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>blks_0600_1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>0600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>niet afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem in het Brulandkrijtsysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1</p>
+			</td>
+			<td>
+			<p>0,03125</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>blks_0600_2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>0600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem in het Brulandkrijtsysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1,25</p>
+			</td>
+			<td>
+			<p>0,0625</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>blks_0600_3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>0600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
-			<p>Depressietrechter van het afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem in het Brulandkrijtsysteem</p>
+			<td>
+			<p>depressietrechter van het afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem in het Brulandkrijtsysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1,75</p>
+			</td>
+			<td>
+			<p>0,21875</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>cvs_0600_1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>0600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
-			<p>niet afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem in het Centraal Vlaams Systeem</p>
+			<td>
+			<p>niet afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem in het Centraal Vlaams systeem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1</p>
+			</td>
+			<td>
+			<p>0,03125</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>cvs_0600_2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>0600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
-			<p>afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem in het Centraal Vlaams Systeem</p>
+			<td>
+			<p>afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem in het Centraal Vlaams systeem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1,25</p>
+			</td>
+			<td>
+			<p>0,0625</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>cvs_0600_3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>0600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
-			<p>depressietrechter van het afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem in het Centraal Vlaams Systeem</p>
+			<td>
+			<p>depressietrechter van het afgesloten deel van het Ledo-Paniseliaan Brusseliaan aquifersysteem in het Centraal Vlaams systeem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1,75</p>
 			</td>
+			<td>
+			<p>0,21875</p>
+			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>blks_0800_1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>0800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>niet afgesloten deel van de Ieperiaan aquifer in het Brulandkrijtsysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1</p>
+			</td>
+			<td>
+			<p>0,03125</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>blks_0800_2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>0800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>afgesloten deel van de Ieperiaan aquifer in het Brulandkrijtsysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1,25</p>
+			</td>
+			<td>
+			<p>0,0625</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>cvs_0800_1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>0800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
-			<p>niet afgesloten deel van de Ieperiaan aquifer in het Centraal Vlaams Systeem</p>
+			<td>
+			<p>niet afgesloten deel van de Ieperiaan aquifer in het Centraal Vlaams systeem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1</p>
+			</td>
+			<td>
+			<p>0,03125</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>cvs_0800_2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>0800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
-			<p>afgesloten deel van de Ieperiaan aquifer in het Centraal Vlaams Systeem</p>
+			<td>
+			<p>afgesloten deel van de Ieperiaan aquifer in het Centraal Vlaams systeem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1,25</p>
+			</td>
+			<td>
+			<p>0,0625</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>blks_1000_gwl_1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>1000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>niet afgesloten deel van het Paleoceen aquifersysteem in het Brulandkrijtsysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1</p>
+			</td>
+			<td>
+			<p>0,03125</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>blks_1000_gwl_2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>1000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>afgesloten deel van het Paleoceen aquifersysteem in het Brulandkrijtsysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1,25</p>
+			</td>
+			<td>
+			<p>0,0625</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>ss_1000_gwl_1-1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>1000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>depressietrechter in het Paleoceen zonder alternatief in het Quartair (zone dun Q-dek en of dun verzilt gebied)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1,5</p>
+			</td>
+			<td>
+			<p>0,125</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>ss_1000_gwl_1-2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>1000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>depressietrechter in het Paleoceen met alternatief in het Quartair (buiten de zone met dun Q-dek en of dun verzilt gebied)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>2</p>
+			</td>
+			<td>
+			<p>0,375</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>ss_1000_gwl_2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>1000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>niet afgesloten deel van het Paleoceen aquifersysteem in het Sokkelsysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1,5</p>
+			</td>
+			<td>
+			<p>0,125</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>blks_1100_gwl_1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>1100+1300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
-			<p>niet afgesloten deel van het Krijt en de Sokkel in het Brulandkrijtsysteem&nbsp;</p>
+			<td>
+			<p>niet afgesloten deel van het Krijt en de Sokkel het Brulandkrijtsysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1</p>
 			</td>
+			<td>
+			<p>0,03125</p>
+			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>blks_1100_gwl_2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>1100+1300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
-			<p>afgesloten deel van het Krijt en de Sokkel in het Brulandkrijtsysteem&nbsp;</p>
+			<td>
+			<p>afgesloten deel van het Krijt en de Sokkel in het Brulandkrijtsysteem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1,25</p>
 			</td>
+			<td>
+			<p>0,0625</p>
+			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>ss_1300_gwl_1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>1100+1300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>Kolenkalk</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1,5</p>
+			</td>
+			<td>
+			<p>0,125</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>ss_1300_gwl_2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>1100+1300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>voedingsgebied van de Sokkel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1,5</p>
+			</td>
+			<td>
+			<p>0,125</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>ss_1300_gwl_3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>1100+1300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>depressietrechter in de regio Waregem in de Sokkel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>2</p>
+			</td>
+			<td>
+			<p>0,375</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>ss_1300_gwl_4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>1100+1300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>Sokkel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>1,5</p>
+			</td>
+			<td>
+			<p>0,125</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.4pt">
+			<td>
 			<p>ss_1300_gwl_5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:72pt">
+			<td>
 			<p>1100+1300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:261pt">
+			<td>
 			<p>depressietrechter in de regio Aalst</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<td>
 			<p>2</p>
+			</td>
+			<td>
+			<p>0,375</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
 <p>&nbsp;</p>
+<br>
+<br>
 De Vlaamse Regering legt deze gebieden op kaart vast.
