@@ -260,7 +260,7 @@ De niet-aangewende middelen uitbetaald in het kader van de afgesloten beleidsove
 
 ### ART. 54.
 
-Er wordt een Fonds voor het Landbouwinformatienetwerk opgericht. Dit Fonds is een begrotingsfonds als bedoeld in artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit. Het wordt gestijfd uit de ontvangsten van het Informatienet landbouwboekhoudingen.<br /><br />Het Fonds is gemachtigd alle soorten uitgaven, zowel voor personeel, als voor werking of uitrusting te financieren, voorzover deze uitgaven verband houden met de verzameling, analyse en rapportering van de gegevens verzameld in het kader van het Vlaamse Landbouwinformatienetwerk.<br /><br />Op het Fonds wordt rechtstreeks beschikt door de rekenplichtige die de ontvangsten heeft gedaan.
+Er wordt een Fonds voor het Landbouwinformatienetwerk opgericht. Dit Fonds is een begrotingsfonds als bedoeld in artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit. Het fonds wordt gestijfd door ontvangsten van het Informatienet Landbouwboekhoudingen en door ontvangsten die betrekking hebben op opdrachten, uitgevoerd in het kader van het Landbouwinformatienetwerk. <br /><br />Het Fonds is gemachtigd alle soorten uitgaven, zowel voor personeel, als voor werking of uitrusting te financieren, voorzover deze uitgaven verband houden met de verzameling, analyse en rapportering van de gegevens verzameld in het kader van het Vlaamse Landbouwinformatienetwerk.<br /><br />Op het Fonds wordt rechtstreeks beschikt door de rekenplichtige die de ontvangsten heeft gedaan.<br /><br />Het fonds wordt beheerd door de minister bevoegd voor het landbouwbeleid, die zijn beslissingsbevoegdheden inzake de inkomsten en de uitgaven kan delegeren.
 
 ## AFDELING 2 VLAAMS LANDBOUWINVESTERINGSFONDS
 
