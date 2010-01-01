@@ -2,16 +2,16 @@
   "codex_id": 1015647,
   "title": "Ministerieel besluit van 2007-02-14 tot bepaling van de samenstelling van de dagprijs, de extra vergoedingen en de voorschotten ten gunste van derden aangerekend in de rusthuizen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015647/VolledigDocument?datum=2007-07-01",
-  "source_sha256": "2f27063b686d20e268a3743c8d94537246c554823727b38701af8da3d42c523b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015647/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "fb76e29ef73b3820f95dddfd990f4c3b03ee607ac8ac9e9f499e6a49b73ea5c5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015647&param=informatie",
-  "as_of": "2007-07-01",
+  "as_of": "2010-01-01",
   "made": "2007-02-14",
   "gazette": "2007-03-26",
   "numac": 2007035422,
   "document_start": "2007-07-01",
   "document_end": "2009-12-31",
-  "in_force": "2007-07-01",
+  "in_force": "2010-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2007-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
