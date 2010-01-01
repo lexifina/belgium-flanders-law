@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018721,
+  "title": "Ministerieel besluit van 2009-12-22 houdende de erkenning van de regionale dienst voor gezinszorg SOCiAL",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018721/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "074c40fbee50d05193849dff0197ec936f28c5dedfb1ec041dc824abf08ab2d8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018721&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2009-12-22",
+  "gazette": "2010-01-26",
+  "numac": 2010200197,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
