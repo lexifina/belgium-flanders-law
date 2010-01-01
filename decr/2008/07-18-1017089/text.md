@@ -162,6 +162,30 @@ De Vlaamse Regering sluit met de erkende landelijk georganiseerde jeugdverenigin
 
 ## Afdeling IV. Projectsubsidies en prijs
 
+### ART. 37.
+
+§ 1. De Vlaamse Regering verleent projectsubsidies aan verenigingen voor het opzetten van experimentele jeugdwerkinitiatieven. Initiatieven genomen door verenigingen die gesubsidieerd worden door de Vlaamse overheid komen niet in aanmerking voor subsidiëring op basis van dit artikel.<br /><br />De initiatieven spelen in op nieuwe ontwikkelingen en behoeften die zowel binnen het jeugdwerk als meer algemeen bij de jeugd leven. Ze werken methodisch of inhoudelijk vernieuwend.<br /><br />De initiatieven hebben door hun omvang, opzet en inhoud tot doel relevantie te verwerven voor de Vlaamse Gemeenschap.<br /><br />§ 2. De subsidie bedraagt maximaal 50.000 euro per jaar.<br /><br />§ 3. Geen enkel initiatief wordt langer dan 36 opeenvolgende maanden gesubsidieerd als experimenteel jeugdwerk. Om langer dan een jaar als experimenteel jeugdwerk te worden gesubsidieerd, moet er een duidelijke positieve lijn vastgesteld worden in de ontwikkeling van het initiatief.
+
+### ART. 38.
+
+Om de participatie van de jeugd aan het beleid van overheden, publieke en private organisaties en instellingen te bevorderen, om de beeldvorming over de jeugd te stimuleren en om tegemoet te komen aan de informatiebehoeften van of over de jeugd, kent de Vlaamse Regering projectsubsidies toe aan verenigingen die tot doel hebben, hetzij :<br />1° de participatiegraad van de jeugd aan het beleid te verhogen;<br />2° de communicatie over en door de jeugd te stimuleren;<br />3° een informatieaanbod voor de jeugd aan te bieden;<br />4° specifieke informatie- of sensibiliseringsinitiatieven op te zetten met het oog op de promotie van de rechten van het kind.<br /><br />De initiatieven hebben door hun omvang, opzet of inhoud tot doel relevantie te verwerven voor de Vlaamse Gemeenschap.<br /><br />Met uitzondering van de verenigingen gesubsidieerd op basis van artikel 35, komen de verenigingen en instellingen die op basis van dit decreet een werkingssubsidie ontvangen niet in aanmerking voor de in dit artikel bedoelde projectsubsidies.
+
+### ART. 39.
+
+Om de artistieke creativiteit van de jeugd te stimuleren kent de Vlaamse overheid projectsubsidies toe aan jongeren van 14 tot 25 jaar die een artistiek product of project realiseren en aan verenigingen die een artistiek product of project voor en door de jeugd realiseren.<br /><br />De initiatieven hebben door hun omvang, opzet of inhoud tot doel relevantie te verwerven voor de Vlaamse Gemeenschap.
+
+### ART. 40.
+
+De Vlaamse Regering subsidieert projecten die het internationale bewustzijn van de jeugd vergroten, de deelname van de jeugd aan het internationale gebeuren stimuleren en de kansen tot interculturele ontmoeting vergroten.
+
+### ART. 41.
+
+De Vlaamse Regering bepaalt de nadere voorwaarden waaraan de begunstigden van een projectsubsidie moeten beantwoorden, alsook de procedure voor indiening en behandeling van die aanvragen.
+
+### ART. 42.
+
+De Vlaamse Regering kan een of meer gemeentebesturen bekronen voor de inspanningen die het gemeentebestuur geleverd heeft ten voordele van de jeugd tot 25 jaar. De bekroning kan bestaan uit het toekennen van een prijs.<br /><br />Aan de toekenning van de prijs wordt geen enkele verantwoording vanwege de begunstigde verbonden.<br /><br />Terugvordering van de toegekende prijs is slechts mogelijk als is aangetoond dat de begunstigde ervan bedrieglijke informatie heeft verstrekt over de prestaties waarvoor de prijs werd toegekend, of dat de omstandigheden waaronder de prestaties werden geleverd strijdig waren met op dat ogenblik geldende wettelijke bepalingen.<br /><br />De Vlaamse Regering bepaalt de nadere voorwaarden waaraan de gemeentebesturen moeten beantwoorden, alsook de procedure voor de nominatie en selectie van de kandidaten.
+
 ## HOOFDSTUK VI. Overige bepalingen
 
 ### ART. 43.
