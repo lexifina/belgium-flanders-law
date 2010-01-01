@@ -54,19 +54,19 @@ De Vlaamse Regering bepaalt jaarlijks, binnen de beschikbare begrotingskredieten
 
 ### ART. 11.
 
-Ter ondersteuning van het participatieproces van armen aan het armoedebeleid sluit de Vlaamse regering een overeenkomst af met het Vlaams netwerk van verenigingen waar armen het woord nemen.<br /><br />De overeenkomst bevat de omschrijving van de opdracht van het netwerk en de wijze waarop de verenigingen inhoudelijke en financiële ondersteuning krijgen van dit netwerk.
+Ter ondersteuning van het participatieproces van armen aan het armoedebestrijdingsbeleid sluit de Vlaamse regering een overeenkomst af met het Vlaams netwerk van verenigingen waar armen het woord nemen.<br /><br />De overeenkomst bevat de omschrijving van de opdrachten van het netwerk.
 
 ### ART. 12.
 
-Het in artikel 11 vermelde Vlaams netwerk van verenigingen waar armen het woord nemen heeft minstens de volgende opdrachten:<br /><br />1° functioneren als gesprekspartner van de overheid;<br /><br />2° ondersteunen en coördineren van de activiteiten van verenigingen waar armen het woord nemen;<br /><br />3° organiseren van overleg en ervaringsuitwisseling tussen de verenigingen;<br /><br />4° bevorderen van de gemeenschappelijke initiatieven ten behoeve van de verenigingen.
+Het Vlaams Netwerk van verenigingen waar armen het woord nemen heeft minstens de volgende opdrachten :<br />1° de beleidsdialoog met de overheid organiseren en voeren;<br />2° overleg en ervaringsuitwisseling tussen de verenigingen organiseren;<br />3° activiteiten ondersteunen en coördineren die inzicht bieden in de ervaringswereld van mensen in armoede;<br />4° gemeenschappelijke initiatieven van en voor de verenigingen bevorderen.<br /><br />Het Vlaams Netwerk van verenigingen waar armen het woord nemen, vervult die opdrachten in nauwe samenwerking met andere actoren.
 
 ### ART. 13.
 
-De wijze waarop het Vlaams netwerk van verenigingen waar armen het woord nemen haar opdrachten zal uitvoeren, wordt beschreven in een meerjarenplan dat wordt opgemaakt voor een periode van drie jaar. De Vlaamse regering bepaalt de inhoudelijke vereisten waaraan het meerjarenplan moet voldoen.
+De wijze waarop het Vlaams netwerk van verenigingen waar armen het woord nemen haar opdrachten zal uitvoeren, wordt beschreven in een meerjarenplan dat wordt opgemaakt voor een periode van vijf jaar. De Vlaamse regering bepaalt de inhoudelijke vereisten waaraan het meerjarenplan moet voldoen en de wijze waarop de werking zal worden geëvalueerd.
 
 ### ART. 14.
 
-De Vlaamse regering bepaalt nadere regels inzake subsidiëring van het Vlaams netwerk.
+De Vlaamse Regering bepaalt de voorwaarden en procedure inzake subsidiëring van het Vlaams Netwerk. <br /><br />Binnen de perken van het begrotingskrediet, wordt het subsidiebedrag geïndexeerd. De Vlaamse Regering bepaalt de manier waarop de indexering toegepast wordt.
 
 ### ART. 15.
 
