@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019818,
+  "title": "Besluit van de Vlaamse Regering van 2010-11-19 tot vaststelling van het totale aantal subsidiabele uren aanvullende thuiszorg voor de diensten voor gezinszorg en aanvullende thuiszorg voor het jaar 2010",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019818/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "acd79401f81cc74dc7e99381ab01414881538a09c4cd760c2f7a8b0a6329e56e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019818&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2010-11-19",
+  "gazette": "2010-12-23",
+  "numac": 2010206398,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
