@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018998,
+  "title": "Besluit van de Vlaamse Regering van 2010-03-19 tot wijziging van het besluit van de Vlaamse Regering van 1 september 2006 houdende de voorwaarden van de vaststelling, de uitbetaling en de terugvordering van de subsidies van de zorgkassen in het kader van de zorgverzekering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018998/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "3af36baf4c7f7b2d5dacf6624940b404ee2164847b5fc271ccc01c83ee0970eb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018998&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2010-03-19",
+  "gazette": "2010-05-11",
+  "numac": 2010202481,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
