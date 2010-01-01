@@ -2,16 +2,16 @@
   "codex_id": 1002809,
   "title": "Besluit van de Vlaamse Regering van 1985-07-10 tot vaststelling van de regels die de onontbeerlijkheid van de beveiligingswerken in de rusthuizen bepalen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002809/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "369e0d6c5f35ca8495764ca1000d4792252507098b97602f5489bda717f9917c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002809/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "272191c336ecd4e9b65139d0797ebb224319e8480c3f54735a86d2a1346b8333",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002809&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2010-01-01",
   "made": "1985-07-10",
   "gazette": "1985-08-30",
   "numac": 1985024626,
   "document_start": null,
   "document_end": "2009-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2010-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
