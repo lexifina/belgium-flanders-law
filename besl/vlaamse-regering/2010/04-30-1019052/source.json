@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019052,
+  "title": "Besluit van de Vlaamse Regering van 2010-04-30 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 16 maart 2007 betreffende de subsidiëring van stadsvernieuwingsprojecten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019052/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "8102c54a0b7a9c5caecefdf5b61e57866acb9bcfe4fd6a01b42102e515101a73",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019052&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2010-04-30",
+  "gazette": "2010-06-02",
+  "numac": 2010202965,
+  "document_start": "2010-06-12",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
