@@ -1,0 +1,17 @@
+{
+  "codex_id": 1017848,
+  "title": "Decreet van 2009-03-06 betreffende de organisatie en erkenning van toeristische samenwerkingsverbanden",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017848/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "bf41bb422b710b9a8db5af2f7ece6fe5344972043b4b18b79de1189c08df8aef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017848&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2009-03-06",
+  "gazette": "2009-04-29",
+  "numac": 2009201778,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
