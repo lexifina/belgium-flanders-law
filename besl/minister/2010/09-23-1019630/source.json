@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019630,
+  "title": "Ministerieel besluit van 2010-09-23 houdende regeling van de specifieke steun aan landbouwers ter verbetering van de kwaliteit van landbouwproducten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019630/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "33ff9491266b75f0cd41f815c341f192393ce1a9960dfbe294c9a537729259e4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019630&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2010-09-23",
+  "gazette": "2010-10-28",
+  "numac": 2010205433,
+  "document_start": "2010-01-01",
+  "document_end": "2011-12-31",
+  "in_force": "2010-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
