@@ -2,16 +2,16 @@
   "codex_id": 1019217,
   "title": "Decreet van 2010-07-09 houdende wijziging van diverse bepalingen van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019217/VolledigDocument?datum=2009-09-01",
-  "source_sha256": "f225cde69e5d124f669a7fb6d7b6fe7d4d1ab2da09bf975242db07d9d9ec568e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019217/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "2e9e35abe1cfa613794faf3b2f9650652c6dd443cd234c21fd867f05a66b0c88",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019217&param=informatie",
-  "as_of": "2009-09-01",
+  "as_of": "2010-01-01",
   "made": "2010-07-09",
   "gazette": "2010-07-19",
   "numac": 2010035483,
   "document_start": "2010-07-19",
   "document_end": null,
-  "in_force": "2009-09-01",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
