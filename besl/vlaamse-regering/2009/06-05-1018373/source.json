@@ -2,16 +2,16 @@
   "codex_id": 1018373,
   "title": "Besluit van de Vlaamse Regering van 2009-06-05 tot wijziging van het besluit van de Vlaamse Regering van 17 november 1993 tot bepaling van de algemene voorschriften inzake instandhouding en onderhoud van monumenten en stads- en dorpsgezichten en van het besluit van de Vlaamse Regering van 14 mei 2004 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Vlaams Instituut voor het Onroerend Erfgoed",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018373/VolledigDocument?datum=2009-09-01",
-  "source_sha256": "78773503384ad00bb5b486433924b90f7568542d2b95f124ce6506f5980cdca7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018373/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "4a2bcf812f99efd500decc470078ea59fd3a8b2728f2a041527af867da727148",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018373&param=informatie",
-  "as_of": "2009-09-01",
+  "as_of": "2010-01-01",
   "made": "2009-06-05",
   "gazette": "2009-09-18",
   "numac": 2009204028,
   "document_start": "2010-01-01",
   "document_end": null,
-  "in_force": "2009-09-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-01-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
 }
