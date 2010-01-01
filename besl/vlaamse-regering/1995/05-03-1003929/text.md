@@ -118,7 +118,7 @@ De palliatieve deskundigen en consulenten staan zowel ter beschikking van de ext
 
 ### ART. 27.
 
-De palliatieve deskundigen, de consulenten en vrijwilligers die gesubsidieerd worden door de Vlaamse Gemeenschap zullen zoveel mogelijk de opvang en begeleiding van de palliatieve patiënten in hun thuismilieu helpen mogelijk maken en houden. Enkel als de thuiszorg niet meer mogelijk is, zal gezocht worden naar een passende opvang in een specifieke eenheid van een rusthuis, rust- en verzorgingstehuis of ziekenhuis.
+De palliatieve deskundigen, de consulenten en vrijwilligers die gesubsidieerd worden door de Vlaamse Gemeenschap zullen zoveel mogelijk de opvang en begeleiding van de palliatieve patiënten in hun thuismilieu helpen mogelijk maken en houden. Enkel als de thuiszorg niet meer mogelijk is, zal gezocht worden naar een passende opvang in een specifieke eenheid van een woonzorgcentrum, rust- en verzorgingstehuis of ziekenhuis.
 
 ### ART. 28.
 
