@@ -4,6 +4,22 @@
 
 DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID EN GEZIN,<br /><br />Gelet op het woonzorgdecreet van 13 maart 2009, inzonderheid artikel 60;<br /><br />Gelet op het decreet van 18 december 2009 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2010;<br /><br />Gelet op het Besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, inzonderheid artikel 38, 4° van de bijlage XII bij dit besluit en bijlage XIV bij dit besluit;<br /><br />Gelet op bijlage XIV bij het Besluit van de Vlaamse Regering van 24 juli 2009 houdende de subsidiëring van de animatiewerking in de woonzorgcentra en de centra voor kortverblijf;<br /><br />Gelet op het Besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering gewijzigd bij het Besluit van de Vlaamse Regering van 24 juli 2009 en van 4 december 2009;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 22 maart 2010;<br /><br />Overwegende dat jaarlijks op basis van de parameters vervat in artikel 3 van bijlage XIV bij het Besluit van de Vlaamse Regering van 24 juli 2009, voornoemd, het maximale subsidiebedrag per voorziening wordt bepaald in het kader van de subsidiëring van de animatiewerking;<br /><br />Overwegende dat in uitvoering van artikel 6, §2 van bijlage XIV bij het Besluit van de Vlaamse Regering van 24 juli 2009, voornoemd, de minister jaarlijks op basis van de parameters vervat in artikel 6, §1 de woonzorgcentra en per woonzorgcentrum het aantal voltijdse equivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut, die in aanmerking komen voor deze subsidiëring en het maximale aanvullende subsidiebedrag per woonzorgcentrum dient te bepalen;<br /><br />Overwegende dat in uitvoering van artikel 11 van bijlage XIV bij het Besluit van de Vlaamse Regering van 24 juli 2009, voornoemd, jaarlijks, op basis van de parameters vervat in artikel 6, §1 per project opgesomd in artikel 11 het aantal voltijdse equivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut, die in aanmerking komen voor deze subsidiëring en het maximale aanvullende subsidiebedrag per project wordt bepaald;<br /><br />BESLUIT:
 
+### ART. 1.
+
+Voor het werkingsjaar 2010 wordt in de bijlage 1 bij dit besluit aan elk van de hierin opgesomde voorzieningen op basis van de parameters zoals vervat in artikel 3 van bijlage XIV bij het Besluit van de Vlaamse Regering van 24 juli 2009, voornoemd, een maximaal subsidiebedrag per voorziening toegekend.
+
+### ART. 2.
+
+Voor het werkingsjaar 2010 wordt in de bijlage 2 bij dit besluit voor elk van de hierin opgesomde woonzorgcentra of projecten het aantal voltijdse equivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut bepaald en wordt op basis van de parameters zoals vervat in artikel 6, §1, 1° tot en met 4° van bijlage XIV bij het Besluit van de Vlaamse Regering van 24 juli 2009, voornoemd, een maximaal aanvullend subsidiebedrag per woonzorgcentrum of project toegekend.
+
+### ART. 3.
+
+De subsidiebedragen worden aangerekend op de basisallocatie GE0 GD326 3431 D 2 10200 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2010.
+
+### ART. 4.
+
+Dit besluit heeft uitwerking met ingang van 1 januari 2010.
+
 ### Bijlage 1, dl 1
 
 <p>&nbsp;</p>
