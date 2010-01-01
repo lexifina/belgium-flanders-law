@@ -12,69 +12,69 @@ In dit besluit wordt verstaan onder:<br />1° bejaarden: personen van 60 jaar of
 
 ### ART. 2.
 
-Indien een aanvraag tot het verkrijgen van een voorafgaande vergunning een toename van het totaal aantal voorafgaand vergunde en gerealiseerde opnamemogelijkheden als voorwerp heeft en bij inwilliging van deze aanvraag het totaal aantal voorafgaand vergunde en gerealiseerde opnamemogelijkheden lager dan of gelijk is aan het programmacijfer dat zowel voor de gemeente in kwestie als voor de overeenstemmende regio werd vastgelegd, dan past de aanvraag in het vastgestelde programma mits ook aan de overige evaluatiecriteria wordt voldaan.
+...
 
 ### ART. 3.
 
-Indien een aanvraag tot het verkrijgen van een voorafgaande vergunning een toename van het totaal aantal voorafgaand vergunde en gerealiseerde opnamemogelijkheden als voorwerp heeft en bij inwilliging van deze aanvraag het totaal aantal voorafgaand vergunde en gerealiseerde opnamemogelijkheden hoger is dan het programmacijfer dat voor de gemeente in kwestie en/of de overeenstemmende regio werd vastgelegd, dan past de aanvraag niet in het vastgestelde programma en dient deze niet verder getoetst te worden aan de overige evaluatiecriteria.
+...
 
 ### ART. 4.
 
-Indien een aanvraag tot het verkrijgen van een voorafgaande vergunning geen toename van het totaal aantal voorafgaand vergunde en gerealiseerde opnamemogelijkheden als voorwerp heeft, dan past de aanvraag in het vastgestelde programma mits ook aan de overige evaluatiecriteria wordt voldaan.
+...
 
 ## AFDELING 2 DE VERHOUDING VAN HET AANTAL BEZETTE TOT HET AANTAL GEREALISEERDE OPNAMEMOGELIJKHEDEN BINNEN DE VOORZIENING VOOR BEJAARDEN WAAROP DE AANVRAAG BETREKKING HEEFT
 
 ### ART. 5.
 
-Indien een aanvraag tot het verkrijgen van een voorafgaande vergunning betrekking heeft op een bestaande voorziening voor bejaarden, dient de gemiddelde bezettingsgraad minimaal 90 % te bedragen, tenzij op gemotiveerde wijze kan aangetoond worden waarom deze minimale bezettingsgraad binnen de referentieperiode niet gehaald kon worden.
+...
 
 ### ART. 6.
 
-Bij een aanvraag tot het verkrijgen van een voorafgaande vergunning met uitbreiding of behoud van de huidige huisvestingscapaciteit wordt de gemiddelde bezettingsgraad berekend door het totale aantal aan de opgenomen bewoners gefactureerde dagen van het volledige kalenderjaar dat voorafging aan het jaar van de aanvraag te delen door het aantal gerealiseerde opnamemogelijkheden op 1 januari van het jaar waarin een aanvraag wordt ingediend. Het behaalde resultaat wordt gedeeld door 365.<br />Het behaalde resultaat wordt gedeeld door 365.
+...
 
 ## AFDELING 3 DE GEOGRAFISCHE SPREIDING VAN DE VOORZIENINGEN VOOR BEJAARDEN BINNEN DE GEMEENTE IN KWESTIE EN BINNEN DE DOOR DE MINISTER BEPAALDE REGIO, IN HET LICHT VAN DE TOEGANKELIJKHEID OF BEREIKBAARHEID
 
 ### ART. 7.
 
-Een aanvraag tot het verkrijgen van een voorafgaande vergunning past in het vastgestelde programma wanneer:<br /><br />1° aan de ingang van de voorziening een aangepaste mogelijkheid tot in- en uitstappen van de bewoners is of zal komen;<br /><br />2° ten minste aan twee van de volgende elementen wordt voldaan:<br /><br />a) binnen een straal van 500 m van de ingang is er een opstapplaats van het openbaar vervoer; voor een geplande voorziening kan het volstaan dat met een document aangetoond wordt dat binnen de straal van 500 m er een opstapplaats zal zijn tegen het moment dat de voorziening gerealiseerd zal zijn;<br /><br />b) binnen een straal van 300 m van de ingang zijn er voldoende parkeermogelijkheden beschikbaar voor de bewoners, het personeel en de bezoekers van de bestaande of geplande voorziening voor bejaarden of zal er minstens in 1 parkeergelegenheid per 3 woongelegenheden worden voorzien;<br /><br />c) de bestaande en/of geplande voorziening voor bejaarden is gelegen in een bebouwde kom.
+...
 
 ### ART. 8.
 
-Een aanvraag tot het verkrijgen van een voorafgaande vergunning past enkel in het vastgestelde programma als :<br />1° de grootte van een bestaande voorziening, na uitbreiding of van een geplande voorziening het aantal opnamemogelijkheden binnen de regio niet monopoliseert; <br />2° ze beschrijft hoe de architectuur van het gebouw en de werking van de voorziening aan de bewoners een kleinschalige en huiselijke leefomgeving kan waarborgen;<br />3° ze voor de regio beschrijft of en hoe de woonkernen waar nog geen voorziening gepland of gerealiseerd is, bereikt worden.<br /><br />Deze bepaling is niet van toepassing op aanvragen tot het verkrijgen van een voorafgaande vergunning waarbij de gerealiseerde opnamemogelijkheden behouden blijven of verminderd worden.
+...
 
 ## AFDELING 4 HET HUIDIGE OF TOEKOMSTIGE PROFIEL VAN DE VOORZIENING VOOR BEJAARDEN WAARVOOR EEN VOORAFGAANDE VERGUNNING WORDT AANGEVRAAGD
 
 ### ART. 9.
 
-Een aanvraag tot het verkrijgen van een voorafgaande vergunning voor een rusthuis past in het vastgestelde programma wanneer in het kader hiervan aan volgende elementen wordt voldaan:<br /><br />1° uit de profileringsintentie van het bestaande en/of geplande rusthuis blijkt dat de voorziening hoofdzakelijk verzorging behoevende bejaarden en/of andere specifieke bewonersdoelgroepen wenst op te nemen en dat nood aan verzorging geen grond tot ontslag vormt, behoudens de duidelijk omschreven uitzonderingen;<br /><br />2° onverminderd hetgeen bepaald in 1°, kunnen enkel rusthuizen met minder dan 25 bewoners zich beperken tot de opname en huisvesting van valide bewoners;<br /><br />3° een bestaand rusthuis dient aan te tonen dat het opnamebeleid in overeenstemming is met deze profileringsintentie aan de hand van een overzicht van de opnames die gedurende de twee jaar die voorafgingen aan de aanvraag werden gedaan;<br /><br />4° indien hetgeen bepaald in 3°, niet kan aangetoond worden, dient op gemotiveerde wijze aangetoond te worden waarom dit binnen de huidige infrastructuur en organisatie niet verwezenlijkt werd en op welke wijze de initiatiefnemer in de toekomst hieraan denkt te beantwoorden.
+...
 
 ## AFDELING 5 DE RELATIE MET ANDERE VOORZIENINGEN VOOR BEJAARDEN
 
 ### ART. 10.
 
-Een aanvraag tot het verkrijgen van een voorafgaande vergunning past in het vastgestelde programma wanneer een bestaande voorziening kan aantonen dat er samenwerkingsverbanden met de relevante voorzieningen voor bejaarden uit de gemeente en/of regio zijn.
+...
 
 ### ART. 11.
 
-Een aanvraag tot het verkrijgen van een voorafgaande vergunning past in het vastgestelde programma wanneer bij een geplande voorziening een toelichting ingediend wordt over de wijze waarop de initiatiefnemer zich wil inschakelen in de bestaande samenwerkingsverbanden met de relevante voorzieningen voor bejaarden uit de gemeente en/of regio of de wijze waarop nieuwe samenwerkingsverbanden met de relevante voorzieningen voor bejaarden uit de gemeente en/of regio zullen tot stand gebracht worden.
+...
 
 ## AFDELING 6 DE VISIE OP WONEN, LEVEN EN VERZORGEN IN DE VOORZIENING VOOR BEJAARDEN WAARVOOR EEN VOORAFGAANDE VERGUNNING WORDT AANGEVRAAGD
 
 ### ART. 12.
 
-Een aanvraag tot het verkrijgen van een voorafgaande vergunning past in het vastgestelde programma indien een document wordt ingediend waarin een visie wordt verwoord op de materiële en immateriÙle woon- en leefomgeving van de bejaarde, de lichamelijke, geestelijke, sociale en levensbeschouwelijke behoeften van de bejaarde, de inspraak en communicatiekanalen binnen de voorziening, de animatie voor de bewoners en de opname- en ontslagmodaliteiten.
+...
 
 ## AFDELING 7 DE VERWACHTE RENTABILITEIT EN PRIJSZETTING
 
 ### ART. 13.
 
-Een aanvraag tot het verkrijgen van een voorafgaande vergunning past in het vastgestelde programma wanneer aan volgende elementen wordt voldaan:<br /><br />1° een financieel plan wordt ingediend waaruit de financiële stabiliteit en de economische leefbaarheid van de uitbating dienen te blijken;<br /><br />2° het financieel plan dient een opgave te bevatten van de bestaande en/of toekomstige dagprijs en zijn samenstelling;<br /><br />3° het financieel plan dient alle kostensoorten op te sommen die als supplement worden of zullen worden aangerekend.
+...
 
 ## AFDELING 8 DE PROFESSIONELE KWALITEITSGARANTIES VAN DE INITIATIEFNEMER
 
 ### ART. 14.
 
-Een aanvraag tot het verkrijgen van een voorafgaande vergunning past in het vastgestelde programma wanneer:<br /><br />1° een bestaande voorziening een personeelsbehoefteplan indient met daarin de huidige en de voorziene personeelsformatie, met opgave van het aantal fulltime equivalenten per personeelsgroep, de voorziene kwalificaties en de functie-inhouden;<br /><br />2° een geplande voorziening een personeelsbehoefteplan indient met daarin de voorziene personeelsformatie, met opgave van het aantal fulltime equivalenten per personeelsgroep, de voorziene kwalificaties en de functie-inhouden;<br /><br />3° een organogram ingediend wordt waarin de werkrelaties tussen de personeelsleden onderling en tussen de initiatiefnemer en het personeel tot uiting komen;<br /><br />4° uit het personeelsbehoefteplan blijkt dat voldaan wordt en/of zal voldaan worden aan de geldende erkenningsnormen inzake personeel.
+...
 
 ## HOOFDSTUK III SERVICEFLATGEBOUWEN EN WONINGCOMPLEXEN MET DIENSTVERLENING
 
