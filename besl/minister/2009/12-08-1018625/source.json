@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018625,
+  "title": "Ministerieel besluit van 2009-12-08 houdende de erkenning van artsen als controlearts inzake medisch verantwoorde sportbeoefening",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018625/VolledigDocument?datum=2010-01-01",
+  "source_sha256": "8845e12651abc324b0d9b03983831268dfa24ec38166583c9172b77eb4c5d6b2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018625&param=informatie",
+  "as_of": "2010-01-01",
+  "made": "2009-12-08",
+  "gazette": "2009-12-24",
+  "numac": 2009205809,
+  "document_start": "2010-01-01",
+  "document_end": null,
+  "in_force": "2010-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
