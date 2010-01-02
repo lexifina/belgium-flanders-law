@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° aanvrager : de persoon of de rechtspersoon die geen winst beoogt en die een aanvraag tot erkenning als Logo indient;<br />2° administrateur-generaal : de leidend ambtenaar van het agentschap;<br />3° agentschap : het Vlaams Agentschap "Zorg en Gezondheid", opgericht bij het Besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap 'Zorg en Gezondheid';<br />4° centrum voor geestelijke gezondheidszorg : de erkende verzorgingsvoorziening die op multidisciplinaire wijze ambulante geestelijke gezondheidszorg verleent in een extramuraal kader aan personen wiens geestelijke gezondheid verstoord is, vermeld in artikel 2, 1°, van het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg;<br />5° decreet van 21 november 2003 : het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br />6° Logo : een door de Vlaamse Regering erkend samenwerkingsverband voor loco-regionaal gezondheidsoverleg en -organisatie binnen een geografisch aaneengesloten gebied als vermeld in artikel 2, 19°, van het decreet van 21 november 2003;<br />7° lokaal sociaal beleid : het geheel van de beleidsbepaling en acties van lokaal bestuur en de acties van lokale actoren, met het oog op het garanderen van de toegang van elke burger tot de rechten, vastgelegd in artikel 23 en 24, § 3, van de Grondwet, en vermeld in het decreet van 19 maart 2004 betreffende het lokaal sociaal beleid;<br />8° methodieken : een geheel van te volgen vaste, weldoordachte werkwijzen om een bepaalde doelstelling te bereiken; <br />9° minister : de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br />10° preventieorganisaties : andere verenigingen, organisaties, of plaatselijke of regionale afdelingen ervan, dan partnerorganisaties, vermeld in artikel 2, 23°, van het decreet van 21 november 2003, met een werking binnen het werkgebied van een Logo, die een meerwaarde kunnen bieden aan de uitvoering van het preventieve gezondheidsbeleid in dat werkgebied;<br />11° samenwerkingsinitiatief eerstelijnsgezondheidszorg, afgekort SEL : een door de Vlaamse Regering erkend samenwerkingsverband van vertegenwoordigers van zorgaanbieders en eventueel van vertegenwoordigers van mantelzorgers en gebruikers en/of vrijwilligers, dat gericht is op het optimaliseren van de zorg binnen een bepaald geografisch afgebakend werkgebied, vermeld in artikel 2, 11°, van het decreet van 3 maart 2004 betreffende de eerstelijnsgezondheidszorg en de samenwerking tussen de zorgaanbieders.<br /><br />
+In dit besluit wordt verstaan onder : <br />1° aanvrager : de persoon of de rechtspersoon die geen winst beoogt en die een aanvraag tot erkenning als Logo indient;<br />2° administrateur-generaal : de leidend ambtenaar van het agentschap;<br />3° agentschap : het Vlaams Agentschap "Zorg en Gezondheid", opgericht bij het Besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap 'Zorg en Gezondheid';<br />4° centrum voor geestelijke gezondheidszorg : de erkende verzorgingsvoorziening die op multidisciplinaire wijze ambulante geestelijke gezondheidszorg verleent in een extramuraal kader aan personen wiens geestelijke gezondheid verstoord is, vermeld in artikel 2, 1°, van het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg;<br />5° decreet van 21 november 2003 : het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br />6° Logo : een door de Vlaamse Regering erkend samenwerkingsverband voor loco-regionaal gezondheidsoverleg en -organisatie binnen een geografisch aaneengesloten gebied als vermeld in artikel 2, 19°, van het decreet van 21 november 2003;<br />7° lokaal sociaal beleid : het geheel van de beleidsbepaling en acties van lokaal bestuur en de acties van lokale actoren, met het oog op het garanderen van de toegang van elke burger tot de rechten, vastgelegd in artikel 23 en 24, § 3, van de Grondwet, en vermeld in het decreet van 19 maart 2004 betreffende het lokaal sociaal beleid;<br />8° methodieken : een geheel van te volgen vaste, weldoordachte werkwijzen om een bepaalde doelstelling te bereiken; <br />9° minister : de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br />10° preventieorganisaties : andere verenigingen, organisaties, of plaatselijke of regionale afdelingen ervan, dan partnerorganisaties, vermeld in artikel 2, 23°, van het decreet van 21 november 2003, met een werking binnen het werkgebied van een Logo, die een meerwaarde kunnen bieden aan de uitvoering van het preventieve gezondheidsbeleid in dat werkgebied;<br />11° samenwerkingsinitiatief eerstelijnsgezondheidszorg, afgekort SEL : een door de Vlaamse Regering erkend samenwerkingsverband van vertegenwoordigers van zorgaanbieders en eventueel van vertegenwoordigers van mantelzorgers en gebruikers en/of vrijwilligers, dat gericht is op het optimaliseren van de zorg binnen een bepaald geografisch afgebakend werkgebied, vermeld in artikel 2, 11°, van het decreet van 3 maart 2004 betreffende de eerstelijnsgezondheidszorg en de samenwerking tussen de zorgaanbieders.<br />12° medisch milieukundige : een medewerker van een Logo die wordt belast met taken rond milieugerelateerde gezondheid;<br />13° onafhankelijkheid : het kunnen innemen van een ongebonden standpunt, op basis van objectieve vaststellingen, dat louter vanuit natuur- en sociaalwetenschappelijke kennis wordt gemotiveerd;<br />14° Vlaams medisch milieukundig netwerk : het samenwerkingsmodel dat bestaat uit drie actieniveaus, op de eerste lijn staan de medisch milieukundigen van de Logo's, op de tweede lijn staan de afdeling Toezicht Volksgezondheid van het agentschap en de dienst Milieu & Gezondheid van het Departement Leefmilieu, Natuur en Energie, op de derde lijn staan de organisaties die zorgen voor de wetenschappelijke onderbouwing van het milieugerelateerde gezondheidsbeleid.
 
 ## HOOFDSTUK II Toepassingsgebied
 
@@ -24,7 +24,7 @@ De administrateur-generaal erkent een Logo voor zes jaar als het Logo voldoet aa
 
 ### ART. 4.
 
-Voor een erkenning als Logo moeten al de volgende voorwaarden vervuld zijn : <br />1° de aanvrager dient een aanvraag tot erkenning in bij het agentschap; <br />2° de aanvrager bezorgt het agentschap een lijst van de preventieorganisaties, vermeld in artikel 1 van de bijlage, die bij dit besluit is gevoegd, met een werking binnen het werkgebied van het Logo waarvoor een aanvraag tot erkenning wordt ingediend;<br />3° de aanvrager toont aan dat minimaal met de preventieorganisaties, vermeld in artikel 1 van de bijlage, die bij dit besluit is gevoegd, contact werd opgenomen om te participeren in en ondersteuning te bieden aan het Logo;<br />4° de aanvraag wordt ondersteund door minimaal 50 % van de preventieorganisaties van elke groep, vermeld in artikel 1 van de bijlage, die bij dit besluit is gevoegd. De aanvrager toont dat aan met een lijst die ondertekend wordt door voldoende vertegenwoordigers van elke groep;<br />5° het Logo waarvoor een erkenning wordt aangevraagd is een vereniging zonder winstoogmerk. In het tweetalig gebied Brussel-Hoofdstad kan het Logo opgericht worden door de Vlaamse Gemeenschapscommissie, bevoegd voor het gezondheidsbeleid; <br />6° de aanvrager toont aan dat het Logo voldoet aan de bepalingen over het werkgebied, vermeld in artikel 11.<br /><br />
+Voor een erkenning als Logo moeten al de volgende voorwaarden vervuld zijn : <br />1° de aanvrager dient een aanvraag tot erkenning in bij het agentschap; <br />2° de aanvrager bezorgt het agentschap een lijst van de preventieorganisaties, vermeld in artikel 1 van de bijlage, die bij dit besluit is gevoegd, met een werking binnen het werkgebied van het Logo waarvoor een aanvraag tot erkenning wordt ingediend;<br />3° de aanvrager toont aan dat minimaal met de preventieorganisaties, vermeld in artikel 1 van de bijlage, die bij dit besluit is gevoegd, contact werd opgenomen om te participeren in en ondersteuning te bieden aan het Logo;<br />4° de aanvraag wordt ondersteund door minimaal 50 % van de preventieorganisaties van elke groep, vermeld in artikel 1 van de bijlage, die bij dit besluit is gevoegd. De aanvrager toont dat aan met een lijst die ondertekend wordt door voldoende vertegenwoordigers van elke groep;<br />5° het Logo waarvoor een erkenning wordt aangevraagd is een vereniging zonder winstoogmerk of wordt opgericht door een vereniging zonder winstoogmerk. In het tweetalig gebied Brussel-Hoofdstad kan het Logo opgericht worden door de Vlaamse Gemeenschapscommissie, bevoegd voor het gezondheidsbeleid; <br />6° de aanvrager toont aan dat het Logo voldoet aan de bepalingen over het werkgebied, vermeld in artikel 11.<br /><br />
 
 ### ART. 5.
 
@@ -82,7 +82,11 @@ De minister kan vastleggen dat het Logo samenwerkingsafspraken moet maken met an
 
 ### ART. 17.
 
-Ter uitvoering van artikel 30, § 1 en § 2, van het decreet van 21 november 2003 voert een Logo binnen zijn werkgebied al de volgende opdrachten uit : <br />1° medewerking verlenen aan de minister en het agentschap bij de uitvoering van het preventieve gezondheidsbeleid en een locoregionaal aanspreekpunt zijn voor de Vlaamse overheid;<br />2° de eigen werking en de Vlaamse gezondheidsdoelstellingen bekendmaken bij preventieorganisaties om informatie door te geven en een netwerk te vormen;<br />3° aanspreekpunt zijn voor de preventieorganisaties en hen wegwijs maken in de methodieken en materialen die zijn gevalideerd door partnerorganisaties; <br />4° de relevante preventieorganisaties sensibiliseren om acties uit te voeren die prioritair gericht zijn op het nastreven van de Vlaamse gezondheidsdoelstellingen;<br />5° het resultaatgerichte overleg tussen preventieorganisaties stimuleren;<br />6° de uitvoering van gezamenlijke acties door de preventieorganisaties coördineren; <br />7° preventieorganisaties ondersteunen bij de uitvoering van hun acties op basis van de methodieken, aangeleverd door de partnerorganisaties of, na toestemming van het agentschap, door andere organisaties;<br />8° samen met de preventieorganisaties in kwestie acties evalueren;<br />9° meewerken aan de ontwikkeling en de evaluatie van methodieken, bij voorkeur in samenwerking met partnerorganisaties, vanuit de eigen deskundigheid en ervaring als Logo;<br />10° het agentschap adviseren over het preventieve gezondheidsbeleid binnen het werkgebied van een Logo in het algemeen en over de behoefte aan methodieken en materialen voor preventieorganisaties in het bijzonder;<br />11° de lokale besturen, namelijk de gemeenten en de O.C.M.W.'s, adviseren bij de opmaak van het deel over preventieve gezondheidszorg van hun lokaal sociaal beleid;<br />12° acties uitvoeren in het kader van het preventieve gezondheidsbeleid, als het Logo daarin gesteund wordt door zijn netwerk en die acties complementair zijn aan de taken van de preventieorganisaties;<br />13° de eerstelijnsopdrachten van het Vlaams medisch milieukundig netwerk uitvoeren, behalve het Logo in het tweetalig gebied Brussel-Hoofdstad.<br /><br />De minister kan de opdrachten, vermeld in het eerste lid, 1° tot en met 12°, nader bepalen.<br /><br />
+Ter uitvoering van artikel 30, § 1 en § 2, van het decreet van 21 november 2003 voert een Logo binnen zijn werkgebied al de volgende opdrachten uit : <br />1° medewerking verlenen aan de minister en het agentschap bij de uitvoering van het preventieve gezondheidsbeleid en een locoregionaal aanspreekpunt zijn voor de Vlaamse overheid;<br />2° de eigen werking en de Vlaamse gezondheidsdoelstellingen bekendmaken bij preventieorganisaties om informatie door te geven en een netwerk te vormen;<br />3° aanspreekpunt zijn voor de preventieorganisaties en hen wegwijs maken in de methodieken en materialen die zijn gevalideerd door partnerorganisaties; <br />4° de relevante preventieorganisaties sensibiliseren om acties uit te voeren die prioritair gericht zijn op het nastreven van de Vlaamse gezondheidsdoelstellingen;<br />5° het resultaatgerichte overleg tussen preventieorganisaties stimuleren;<br />6° de uitvoering van gezamenlijke acties door de preventieorganisaties coördineren; <br />7° preventieorganisaties ondersteunen bij de uitvoering van hun acties op basis van de methodieken, aangeleverd door de partnerorganisaties of, na toestemming van het agentschap, door andere organisaties;<br />8° samen met de preventieorganisaties in kwestie acties evalueren;<br />9° meewerken aan de ontwikkeling en de evaluatie van methodieken, bij voorkeur in samenwerking met partnerorganisaties, vanuit de eigen deskundigheid en ervaring als Logo;<br />10° het agentschap adviseren over het preventieve gezondheidsbeleid binnen het werkgebied van een Logo in het algemeen en over de behoefte aan methodieken en materialen voor preventieorganisaties in het bijzonder;<br />11° de lokale besturen, namelijk de gemeenten en de O.C.M.W.'s, adviseren bij de opmaak van het deel over preventieve gezondheidszorg van hun lokaal sociaal beleid;<br />12° acties uitvoeren in het kader van het preventieve gezondheidsbeleid, als het Logo daarin gesteund wordt door zijn netwerk en die acties complementair zijn aan de taken van de preventieorganisaties;<br />13° ...<br /><br />De minister kan de opdrachten, vermeld in het eerste lid, 1° tot en met 12°, nader bepalen.<br /><br />
+
+### ART. 17/1.
+
+Behalve voor het werkgebied van het Logo in het tweetalig gebied Brussel-Hoofdstad nemen de Logo's de eerstelijnsfunctie op binnen het Vlaams medisch milieukundig netwerk.<br /><br />Om die eerstelijnsfunctie van het Vlaams medisch milieukundig netwerk te vervullen, voeren de Logo's binnen hun werkgebied voor milieugerelateerde gezondheidsproblemen de opdrachten, vermeld in artikel 17, 1° tot en met 12°, uit, en voeren ze in het bijzonder de volgende taken uit :<br />1° de taken, vermeld in artikel 4 en in artikel 5, § 1, § 2 en § 4, van het Besluit van de Vlaamse Regering van 11 juni 2004 houdende maatregelen tot bestrijding van de gezondheidsrisico's door verontreiniging van het binnenmilieu;<br />2° het verwerven van inzicht in de gezondheidssituatie die gerelateerd is aan milieufactoren, en op verzoek van het agentschap of de minister een actueel beeld van die milieugerelateerde gezondheidssituatie geven;<br />3° het detecteren van potentiële milieugerelateerde gezondheidsproblemen en die signaleren aan het agentschap;<br />4° interne en externe communicatie voeren rond gezondheid en milieu bij alle betrokkenen;<br />5° op verzoek van het agentschap meewerken aan acties rond lokale milieugerelateerde gezondheid die gericht zijn op risicocommunicatie;<br />6° op locoregionaal vlak een eerstelijnsaanspreekpunt zijn voor de professionelen uit de gezondheidszorg, voor de preventieorganisaties en voor de individuele burger op het gebied van gezondheid en milieu;<br />7° een gemeentebestuur en het agentschap op de hoogte brengen als dreigende gezondheidsrisico's als gevolg van het milieu in die gemeente worden gesignaleerd;<br />8° de eigen werking bekendmaken bij professionelen uit de gezondheidszorg en bij preventieorganisaties om informatie over milieugerelateerde gezondheid door te geven en een netwerk te vormen;<br />9° professionelen uit de gezondheidszorg en preventieorganisaties wegwijs maken in de bestaande methodieken en materialen over gezondheid en milieu;<br />10° het uitvoeren van preventieve taken die gericht zijn op de beïnvloedbare factoren van milieugerelateerde gezondheid, zoals informeren, voorlichten en sensibiliseren;<br />11° het lokaal initiëren en conceptualiseren van, alsook het bijdragen aan, het opzetten, het uitvoeren en het afstemmen van preventieprogramma's binnen de milieugerelateerde gezondheidszorg;<br />12° het ondersteunen en adviseren van onder meer professionelen uit de gezondheidszorg, de preventieorganisaties en de gemeentebesturen bij potentiële milieugerelateerde gezondheidsproblemen;<br />13° het detecteren en ter harte nemen van ongerustheid over milieu en gezondheid;<br />14° het uitwerken van een voorstel van plan van aanpak voor milieugerelateerde gezondheidsvraagstukken;<br />15° medewerking verlenen aan de coördinator van de eerstelijnsfunctie van het Vlaams medisch milieukundig netwerk.<br /><br />De minister kan de taken, vermeld in het tweede lid, 1° tot en met 15°, nader bepalen.
 
 ## HOOFDSTUK VII Schorsing en intrekking van de erkenning
 
@@ -116,7 +120,144 @@ Elk werkingsjaar wordt aan een Logo een subsidie toegekend. <br /><br />
 
 ### ART. 24.
 
-De subsidie voor een Logo, vermeld in artikel 23, bedraagt 60.000 euro (zestigduizend euro), vermeerderd met 0,53 euro (drieënvijftig cent) per inwoner in het werkgebied van het Logo.<br /><br />
+<p>§ 1. De subsidie voor een Logo, vermeld in artikel 23, bedraagt 0,53 euro (drieënvijftig cent) per inwoner in het werkgebied van een Logo, en een bedrag per Logo als vermeld in de onderstaande tabel.</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td>
+			<p>Gebied van een regionale stad<!--?xml:namespace prefix = o /--></p>
+			</td>
+			<td>
+			<p>Bedrag in euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Antwerpen</p>
+			</td>
+			<td>
+			<p>210.008</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Mechelen</p>
+			</td>
+			<td>
+			<p>135.004</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Turnhout</p>
+			</td>
+			<td>
+			<p>135.004</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Genk</p>
+			</td>
+			<td>
+			<p>97.502</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Hasselt</p>
+			</td>
+			<td>
+			<p>172.506</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Aalst</p>
+			</td>
+			<td>
+			<p>97.502</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Gent</p>
+			</td>
+			<td>
+			<p>210.008</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Sint-Niklaas</p>
+			</td>
+			<td>
+			<p>97.502</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Leuven</p>
+			</td>
+			<td>
+			<p>135.004</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Brussel - behalve het tweetalige gebied Brussel-Hoofdstad</p>
+			</td>
+			<td>
+			<p>135.004</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Brugge</p>
+			</td>
+			<td>
+			<p>97.502</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Oostende</p>
+			</td>
+			<td>
+			<p>97.502</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Kortrijk</p>
+			</td>
+			<td>
+			<p>97.502</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Roeselare</p>
+			</td>
+			<td>
+			<p>97.502</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Brussel - tweetalig gebied Brussel-Hoofdstad</p>
+			</td>
+			<td>
+			<p>60.000</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+§ 2. Elk locoregionaal project van een Logo over milieugerelateerde gezondheid wordt opgezet na overleg met het agentschap.<br>
+<br>
+§ 3. Elk project over milieugerelateerde gezondheid dat het werkgebied van een Logo overschrijdt, wordt opgezet in overleg tussen de betrokken Logo's en het agentschap.<!--[if gte mso 9]><xml><br> </div>-->
 
 ### ART. 25.
 
@@ -204,7 +345,7 @@ In artikel 21sexies van hetzelfde besluit, ingevoegd bij het Besluit van de Vlaa
 
 ### ART. 44.
 
-Dit besluit treedt in werking op 1 maart 2009, met uitzondering van : <br />1° artikel 3, 23 en 24, die in werking treden op 1 januari 2010;<br />2° artikel 17, eerste lid, 13°, dat in werking treedt op een datum, die de Vlaamse Regering bepaalt;<br />3° artikel 38 tot en met 43, die in werking treden op 31 december 2009.<br /><br />
+Dit besluit treedt in werking op 1 maart 2009, met uitzondering van : <br />1° artikel 3, 23 en 24, die in werking treden op 1 januari 2010;<br />2° ...<br />3° artikel 38 tot en met 43, die in werking treden op 31 december 2009.<br /><br />
 
 ### ART. 45.
 
@@ -218,4 +359,4 @@ De preventieorganisaties die minstens moeten worden uitgenodigd om te participer
 
 ### ART. 2.
 
-Het Logo doet een beroep op personeelsleden en personen die beschikken over voldoende deskundigheid op het vlak van : <br />1° de aansturing van een netwerk en de impact ervan;<br />2° de communicatie en samenwerking met de verschillende beleidsniveaus en met de media;<br />3° de communicatie met en tussen de preventieorganisaties van het netwerk om het preventieve gezondheidsbeleid uit te voeren;<br />4° de preventieve gezondheidszorg in het algemeen en de gezondheidsbevordering en ziektepreventie in het bijzonder;<br />5° de administratieve en logistieke organisatie van de opdrachten;<br />6° de coaching en de ondersteuning van de uitvoering van acties met betrekking tot het Vlaamse preventieve gezondheidsbeleid. <br /><br />
+Het Logo doet een beroep op personeelsleden en personen die beschikken over voldoende deskundigheid op het vlak van : <br />1° de aansturing van een netwerk en de impact ervan;<br />2° de communicatie en samenwerking met de verschillende beleidsniveaus en met de media;<br />3° de communicatie met en tussen de preventieorganisaties van het netwerk om het preventieve gezondheidsbeleid uit te voeren;<br />4° de preventieve gezondheidszorg in het algemeen en de gezondheidsbevordering en ziektepreventie in het bijzonder;<br />5° de administratieve en logistieke organisatie van de opdrachten;<br />6° de coaching en de ondersteuning van de uitvoering van acties met betrekking tot het Vlaamse preventieve gezondheidsbeleid. <br />7° milieugerelateerde gezondheid, behalve voor het tweetalige gebied Brussel-Hoofdstad.
