@@ -6,52 +6,52 @@ De Vlaamse minister van Economie, Buitenlands beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-Aan het artikel 10 van het ministerieel besluit van 17 december 2008, houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, gewijzigd bij de ministeriele besluiten van 28 januari 2009 en 23 april 2009 wordt een § 11 toegevoegd, dat luidt als volgt : <br />"§ 11. Vissersvaartuigen krijgen 12 vereveningsdagen, die opgeteld kunnen worden bij de maximum aantallen zeedagen, vermeld in § 1."<br /><br />
+...
 
 ### ART. 2.
 
-In het artikel 12 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 24 augustus 2009, wordt met ingang van 1 november 2009 het getal "250" vervangen door het getal "255".<br /><br />
+...
 
 ### ART. 3.
 
-In het artikel 14 van hetzelfde besluit, gewijzigd bij de ministeriele besluiten van 28 januari 2009 en 23 juni 2009, worden met ingang van 1 november 2009 volgende wijzigingen aangebracht : <br />1° aan de § 3 wordt een tweede lid toegevoegd, luidend als volgt : <br />"Vanaf 1 november 2009 tot en met 31 december 2009 is het verboden dat in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) de tongvangst van een vissersvaartuig met een motorvermogen van 221 kW of minder een hoeveelheid overschrijdt die gelijk is aan 3 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW."<br />2° aan de § 4 wordt een zesde lid toegevoegd, luidend als volgt : <br />"Vanaf 1 november 2009 tot en met 31 december 2009 is het verboden dat in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) de tongvangst van een vissersvaartuig met een motorvermogen van meer dan 221 kW een hoeveelheid overschrijdt die gelijk is aan 4 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW."<br /><br />
+...
 
 ### ART. 4.
 
-In het artikel 15 van hetzelfde besluit, gewijzigd bij de ministeriele besluiten van 23 juni 2009 en 24 augustus 2009 worden met ingang van 1 november 2009 volgende wijzigingen aangebracht : <br />1° aan de § 3 wordt een tweede lid toegevoegd, luidend als volgt : <br />"Vanaf 1 november 2009 tot en met 31 december 2009 is het verboden dat in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) de scholvangst van een vissersvaartuig met een motorvermogen van 221 kW of minder een hoeveelheid overschrijdt die gelijk is aan 25 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW."<br /><br />2° aan de § 4 wordt een derde lid toegevoegd, luidend als volgt : <br />"Vanaf 1 november 2009 tot en met 31 december 2009 is het verboden dat in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) de scholvangst van een vissersvaartuig met een motorvermogen van meer dan 221 kW een hoeveelheid overschrijdt die gelijk is aan 25 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW."<br /><br />
+...
 
 ### ART. 5.
 
-In het artikel 16 van hetzelfde besluit, gewijzigd bij de ministeriele besluiten van 23 juni 2009 en 24 augustus 2009, worden volgende wijzigingen aangebracht : <br />1° aan de § 3 wordt een derde lid toegevoegd, luidend als volgt : <br />"Vanaf 1 november 2009 tot en met 31 december 2009 is het verboden dat in de i.c.e.s.-gebieden VIIf,g de tongvangst van een vissersvaartuig met een motorvermogen van 221 kW of minder een hoeveelheid overschrijdt die gelijk is aan 30 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW."<br /><br />2° aan de § 4 wordt een derde lid toegevoegd, luidend als volgt : <br />"Vanaf 1 november 2009 tot en met 31 december 2009 is het verboden dat in de i.c.e.s.-gebieden VIIf,g de tongvangst van een vissersvaartuig met een motorvermogen van meer dan 221 kW een hoeveelheid overschrijdt die gelijk is aan 10 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW."<br /><br />
+...
 
 ### ART. 6.
 
-Aan het artikel 17 § 2 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 23 juni 2009, wordt een derde lid toegevoegd, luidend als volgt : <br />"Vanaf 1 november 2009 tot en met 31 december 2009 is het verboden dat in de i.c.e.s.-gebieden VIIh,j,k de tongvangst van een vissersvaartuig met een motorvermogen van meer dan 221 kW een hoeveelheid overschrijdt die gelijk is aan 4 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW."<br /><br />
+...
 
 ### ART. 7.
 
-In het artikel 18 van hetzelfde besluit, gewijzigd bij de ministeriele besluiten van 28 januari 2009 en 23 april 2009 worden volgende wijzigingen aangebracht : <br />1° in § 4 wordt vanaf 16 september 2009 het getal "10" vervangen door het getal "12"<br /><br />2° er wordt een § 5 toegevoegd, die luidt als volgt : <br />"§ 5. Vanaf 1 november 2009 tot en met 31 december 2009 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden, die gelijk is aan 10 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW."<br /><br />
+...
 
 ### ART. 8.
 
-Het artikel 19 § 1 van hetzelfde besluit, gewijzigd bij de ministeriele besluiten van 28 januari 2009 en 23 april 2009, wordt aangevuld met de volgende leden : <br />"Vanaf 1 november 2009 tot en met 31 december 2009 is het verboden dat in de i.c.e.s.-gebieden VIIb-c, e-k, VIII de kabeljauwvangst van een vissersvaartuig een hoeveelheid overschrijdt die gelijk is aan 3 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW; <br /><br />Vanaf 1 november 2009 tot en met 31 december 2009 is het verboden dat in het i.c.e.s.-gebied VIId, de kabeljauwvangst van een vissersvaartuig een hoeveelheid overschrijdt die gelijk is aan 1 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig uitgedrukt in kW."<br /><br />
+...
 
 ### ART. 9.
 
-In het artikel 22 van hetzelfde besluit, gewijzigd bij de ministeriële besluiten van 23 juni 2009 en 24 augustus 2009 worden volgende wijzigingen met ingang van 16 oktober 2009 aangebracht : <br />1° in de § § 1 en 2 worden de woorden "31 december" vervangen door de woorden "15 oktober",<br /><br />2° aan de § 1 wordt een tweede lid toegevoegd, luidend als volgt : <br />"In de periode van 16 oktober 2009 tot en met 31 december 2009 is het in het i.c.e.s.-gebied VIIa verboden dat de totale tongvangst per zeereis gerealiseerd door een vissersvaartuig met een motorvermogen van 221 kW of minder, een hoeveelheid overschrijdt die gelijk is aan 350 kg vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het betreffende i.c.e.s.-gebied."<br /><br />3° aan de § 2 wordt een tweede lid toegevoegd, luidend als volgt : <br />"In de periode van 16 oktober 2009 tot en met 31 december 2009 is het in het i.c.e.s.-gebied VIIa verboden dat de totale tongvangst per zeereis gerealiseerd door een vissersvaartuig met een motorvermogen van meer dan 221 kW, een hoeveelheid overschrijdt die gelijk is aan 700 kg vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het betreffende i.c.e.s.-gebied."<br /><br />
+...
 
 ### ART. 10.
 
-In het artikel 23 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 23 april 2009, worden volgende wijzigingen aangebracht : <br />1° in de § § 1, 2, 3 en 4 wordt het woord "december" vervangen door het woord "oktober".<br /><br />2° aan § 1 wordt een derde lid toegevoegd, dat luidt als volgt : <br />"In de periode van 1 november 2009 tot en met 31 december 2009 is het in de i.c.e.s.-gebieden VIId, e voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met de aantal vaartdagen die tijdens die zeereis in de betreffende i.c.e.s.-gebieden worden gerealiseerd."<br /><br />3° aan § 2 wordt een derde lid toegevoegd, dat luidt als volgt : <br />"In de periode van 1 november 2009 tot en met 31 december 2009 is het in de i.c.e.s.-gebieden VIId, e voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 500 kg, vermenigvuldigd met de aantal vaartdagen die tijdens die zeereis in de betreffende i.c.e.s.-gebieden worden gerealiseerd."<br /><br />4° aan § 3 wordt een tweede lid toegevoegd, dat luidt als volgt : <br />"In de periode van 1 november 2009 tot en met 31 december 2009 is het in de i.c.e.s.-gebieden VIIf, g voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met de aantal vaartdagen die tijdens die zeereis in de betreffende i.c.e.s.-gebieden worden gerealiseerd."<br /><br />5° aan § 4 wordt een tweede lid toegevoegd, dat luidt als volgt : <br />"In de periode van 1 november 2009 tot en met 31 december 2009 is het in de i.c.e.s.-gebieden VIIf, g voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met de aantal vaartdagen die tijdens die zeereis in de betreffende i.c.e.s.-gebieden worden gerealiseerd."<br /><br />
+...
 
 ### ART. 11.
 
-In het artikel 24 van hetzelfde besluit, worden de volgende wijzigingen aangebracht : <br />1° in de § § 4 en 5 wordt het woord "december" vervangen door het woord "oktober".<br /><br />2° aan § 4 wordt een tweede lid toegevoegd, dat luidt als volgt : <br />"In de periode van 1 november 2009 tot en met 31 december 2009 is het in het i.c.e.s.-gebied VIIa voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het desbetreffende i.c.e.s.-gebied."<br /><br />3° aan § 5 wordt een tweede lid toegevoegd, dat luidt als volgt : <br />"In de periode van 1 november 2009 tot en met 31 december 2009 is het in het i.c.e.s.-gebied VIIa voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het desbetreffende i.c.e.s.-gebied."<br /><br />
+...
 
 ### ART. 12.
 
-In het artikel 26 § 4 derde lid van hetzelfde besluit, gewijzigd bij de ministeriele besluiten van 28 januari 2009, 23 april 2009, 23 juni 2009 en 24 augustus 2009 worden de woorden "zolang geen 60 % van het quotum is benut" geschrapt. <br /><br />
+...
 
 ### ART. 13.
 
-Dit besluit treedt in werking op 1 november 2009, met uitzondering van de artikelen 7 en 9 die respectievelijk van kracht worden op 16 september 2009 en op 16 oktober 2009. Dit besluit houdt op van kracht te zijn op 1 januari 2010. <br /><br />
+...
