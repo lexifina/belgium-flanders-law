@@ -406,7 +406,7 @@ Als bij de inwerkingtreding van dit besluit in bepaalde gemeenten het aantal ver
 
 ### ART. 79.
 
-Voor de toepassing van artikel 20, met uitzondering van de bepalingen omtrent de printer, geldt een overgangsperiode tot en met 31 december 2009.<br /><br />Voor de toepassing van artikel 20 en 28 treden de bepalingen omtrent de printer in werking op 1 januari 2005. In afwijking van artikel 30 mag de bestuurder in de overgangsperiode blijven klanten vervoeren zolang het voertuig niet is uitgerust met een printer.
+Voor de toepassing van artikel 20, met uitzondering van de bepalingen omtrent de printer, geldt een overgangsperiode tot en met 30 juni 2010.<br /><br />Voor de toepassing van artikel 20 en 28 treden de bepalingen omtrent de printer in werking op 1 januari 2005. In afwijking van artikel 30 mag de bestuurder in de overgangsperiode blijven klanten vervoeren zolang het voertuig niet is uitgerust met een printer.
 
 ### ART. 79bis.
 
@@ -414,7 +414,7 @@ In afwijking van artikel 25 wordt gedurende de overgangsperiode, zolang het voer
 
 ### ART. 80.
 
-Gedurende de overgangsperiode tot en met 31 december 2009, mag de dienststaat, bepaald in artikel 27, vervangen worden door een met de hand geschreven rittenblad in onuitwisbare inkt. Dat rittenblad vermeldt dezelfde gegevens zoals opgesomd in artikel 27, aangevuld met de gegevens, genoemd in artikel 28, § 1, 5°, 6°, 7°, 8° en 10°.
+Gedurende de overgangsperiode tot en met 30 juni 2010, mag de dienststaat, bepaald in artikel 27, vervangen worden door een met de hand geschreven rittenblad in onuitwisbare inkt. Dat rittenblad vermeldt dezelfde gegevens zoals opgesomd in artikel 27, aangevuld met de gegevens, genoemd in artikel 28, § 1, 5°, 6°, 7°, 8° en 10°.
 
 ### ART. 81.
 
@@ -426,7 +426,7 @@ Zolang het voertuig niet is uitgerust met de nodige randapparatuur, bedoeld in a
 
 ### ART. 83.
 
-Voor de toepassing van artikel 32 geldt een overgangsperiode tot en met 31 december 2009.
+Voor de toepassing van artikel 32 geldt een overgangsperiode tot en met 30 juni 2010.
 
 ### ART. 84.
 
