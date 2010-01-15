@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018698,
+  "title": "Ministerieel besluit van 2009-12-07 houdende vastlegging van de sjablonen en toelichtingen voor het melden van een ingrijpende abnormale omstandigheid CO2-emissies en tonkilometergegevens en een substantiële wijziging CO2-emissies en tonkilometergegevens in het kader van het Europese CO2-emissiehandelssysteem voor vliegtuigexploitanten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018698/VolledigDocument?datum=2010-01-15",
+  "source_sha256": "d5c9cb936b59949b58ec86f569f77476be9d05942137089a6cc7917a2ad9b1e0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018698&param=informatie",
+  "as_of": "2010-01-15",
+  "made": "2009-12-07",
+  "gazette": "2010-01-15",
+  "numac": 2009036222,
+  "document_start": "2010-01-15",
+  "document_end": null,
+  "in_force": "2010-01-15",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2010-01-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
