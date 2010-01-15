@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018697,
+  "title": "Ministerieel besluit van 2009-12-07 houdende vastlegging van de sjablonen en toelichtingen van het logboek abnormale omstandigheden CO2-emissies en tonkilometergegevens en het logboek wijzigingen CO2-emissies en tonkilometergegevens in het kader van het Europese CO2-emissiehandelssysteem voor vliegtuigexploitanten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018697/VolledigDocument?datum=2010-01-15",
+  "source_sha256": "ec8d1ce0278950c2b8813053af99c86f5c688f49386c991f5ae2a61c599ee3ad",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018697&param=informatie",
+  "as_of": "2010-01-15",
+  "made": "2009-12-07",
+  "gazette": "2010-01-15",
+  "numac": 2009036221,
+  "document_start": "2010-01-15",
+  "document_end": null,
+  "in_force": "2010-01-15",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2010-01-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
