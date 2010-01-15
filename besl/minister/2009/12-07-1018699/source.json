@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018699,
+  "title": "Ministerieel besluit van 2009-12-07 houdende vastlegging van het sjabloon monitoringplan CO2-emissies en het sjabloon monitoringplan tonkilometergegevens in het kader van het Europese CO2-emissiehandelsysteem voor vliegtuigexploitanten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018699/VolledigDocument?datum=2010-01-15",
+  "source_sha256": "99943ad619487b45ed94e02689b0ca91a86ebc9a6d5e0d71ad0463de4adcd26e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018699&param=informatie",
+  "as_of": "2010-01-15",
+  "made": "2009-12-07",
+  "gazette": "2010-01-15",
+  "numac": 2009036223,
+  "document_start": "2010-01-15",
+  "document_end": null,
+  "in_force": "2010-01-15",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2010-01-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
