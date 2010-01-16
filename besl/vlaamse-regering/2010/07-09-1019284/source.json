@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019284,
+  "title": "Besluit van de Vlaamse Regering van 2010-07-09 tot wijziging van het besluit van de Vlaamse Regering van 23 september 2005 betreffende de interlandelijke adoptie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019284/VolledigDocument?datum=2010-01-16",
+  "source_sha256": "61c36e306950c439cfaaeb46025b7ae6536afab824c3c401995072b641215499",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019284&param=informatie",
+  "as_of": "2010-01-16",
+  "made": "2010-07-09",
+  "gazette": "2010-08-06",
+  "numac": 2010035551,
+  "document_start": "2010-01-16",
+  "document_end": null,
+  "in_force": "2010-01-16",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2010-01-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
