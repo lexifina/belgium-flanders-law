@@ -1,0 +1,19 @@
+# Besluit van de Vlaamse Regering van 2009-11-27 tot onderwerping van delen van het grondgebied van de gemeente Westerlo aan landinrichting
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op het decreet van 21 december 1988 houdende oprichting van de Vlaamse Landmaatschappij, hoofdstuk VII, gewijzigd bij de decreten van 22 november 1995, 8 december 2000, 19 juli 2002, 7 mei 2004 en 19 mei 2006; <br /><br />Gelet op het besluit van de Vlaamse Regering van 28 mei 2004 betreffende de procedure tot opmaak van landinrichtingsplannen en houdende opheffing van het besluit van de Vlaamse Regering van 6 juni 1996 houdende nadere regelen betreffende de landinrichting en houdende wijziging van het besluit van de Vlaamse Regering van 17 maart 1998 houdende subsidiëring van de landinrichtingswerken, gewijzigd bij de besluiten van de Vlaamse Regering van 7 maart 2008 en 10 oktober 2008;<br /><br />Gelet op het besluit van de Vlaamse Regering van 14 december 2007 tot goedkeuring van het planprogramma de Merode : Prinsheerlijk platteland; <br /><br />Overwegende dat het planprogramma de Merode : Prinsheerlijk platteland het inrichtingsproject landinrichting de Merode : Prinsheerlijk platteland omvat;<br /><br />Overwegende dat het eindvoorstel van inrichtingsplan Beeltjens-Kwarekken van het inrichtingsproject landinrichting de Merode : Prinsheerlijk platteland op 24 maart 2009 werd geadviseerd door de Commissie voor Landinrichting;<br /><br />Overwegende dat de maatregel 1.2.1 van het inrichtingsplan Beeltjens-Kwarekken gedeeltelijk gesitueerd is op gronden die overeenkomstig het gewestplan Herentals-Mol gelegen zijn in woongebied;<br /><br />Overwegende dat de maatregelen 2.1.1, 2.1.2, 2.1.3, 2.2.1, 2.2.2, 2.2.3, 2.2.4, 2.2.5 en 2.3.1 van het inrichtingsplan Beeltjens-Kwarekken gesitueerd zijn op gronden die overeenkomstig het gewestplan Herentals-Mol gelegen zijn in agrarisch gebied; dat de gronden opgenomen zijn in een ontwerp van gemeentelijk RUP; dat het ontwerp van gemeentelijk RUP voorziet dat de bestemming van deze gronden zal wijzigen in gebied voor gemeenschapsvoorzieningen en openbaar nut;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 28 oktober 2009;<br /><br />Op voorstel van de Vlaamse minister van Leefmilieu, Natuur en Cultuur;<br /><br />Na beraadslaging,<br /><br />Besluit : <br /><br />
+
+### ART. 1.
+
+De gronden op het grondgebied van de gemeente Westerlo die binnen de perimeter liggen van het inrichtingsplan Beeltjens-Kwarekken van het inrichtingsproject landinrichting de Merode : Prinsheerlijk platteland, en die overeenkomstig het gewestplan Herentals-Mol gelegen zijn in woongebied, zoals is aangeduid op de kaart, die bij dit besluit is gevoegd, worden onderworpen aan landinrichting voor de uitvoering van de maatregel 1.2.1 van het inrichtingsplan Beeltjens-Kwarekken.<br /><br />De gronden op het grondgebied van de gemeente Westerlo die binnen de perimeter liggen van het inrichtingsplan Beeltjens-Kwarekken van het inrichtingsproject landinrichting de Merode : Prinsheerlijk platteland, die overeenkomstig het gewestplan Herentals-Mol gelegen zijn in agrarisch gebied, en waarvoor het ontwerp van gemeentelijk RUP Asberg de omzetting voorziet naar gebied voor gemeenschapsvoorzieningen en openbaar nut, zoals is aangeduid op de kaart, die bij dit besluit is gevoegd, worden onderworpen aan landinrichting voor de uitvoering van de maatregelen 2.1.1, 2.1.2, 2.1.3, 2.2.1, 2.2.2, 2.2.3, 2.2.4, 2.2.5 en 2.3.1 van het inrichtingsplan Beeltjens-Kwarekken.<br /><br />
+
+### ART. 2.
+
+De Vlaamse minister, bevoegd voor de landinrichting, is belast met de uitvoering van dit besluit.<br /><br />
+
+## BIJLAGE
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/01/07_1.pdf#page=27" title=" kaart" target="_blank" class="pdf">kaart</a>
