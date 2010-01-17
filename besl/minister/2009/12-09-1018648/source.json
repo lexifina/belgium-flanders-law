@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018648,
+  "title": "Ministerieel besluit van 2009-12-09 tot wijziging van artikelen 2 en 3 van het ministerieel besluit van 17 maart 2005 houdende de erkenning en subsidiëring van organisaties in het kader van de aanmoediging en de verbetering van de pluimvee- en konijnenfokkerij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018648/VolledigDocument?datum=2010-01-17",
+  "source_sha256": "91bfb08c78f9d0565298ddbc62ac232e7e848cea62e80045b5b94d2e61d9d323",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018648&param=informatie",
+  "as_of": "2010-01-17",
+  "made": "2009-12-09",
+  "gazette": "2010-01-07",
+  "numac": 2009205976,
+  "document_start": "2010-01-17",
+  "document_end": null,
+  "in_force": "2010-01-17",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2010-01-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
