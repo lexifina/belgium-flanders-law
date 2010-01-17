@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018645,
+  "title": "Besluit van de Vlaamse Regering van 2009-11-27 houdende beslissing om over te gaan tot gebruiksruil op delen van het grondgebied van de gemeente Knokke-Heist en de stad Damme (gebruiksruil A11, traject Leopoldkanaal-N49) en tot oprichting van het ruilcomité A11, traject Leopoldkanaal-N49",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018645/VolledigDocument?datum=2010-01-17",
+  "source_sha256": "5c581b5f166387d2b86b98fe6feca104b63b4831d834af9b558ef10e56651de4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018645&param=informatie",
+  "as_of": "2010-01-17",
+  "made": "2009-11-27",
+  "gazette": "2010-01-07",
+  "numac": 2009036162,
+  "document_start": "2010-01-17",
+  "document_end": null,
+  "in_force": "2010-01-17",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2010-01-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
