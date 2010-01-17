@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018642,
+  "title": "Besluit van de Vlaamse Regering van 2009-11-20 tot onderwerping van delen van het grondgebied van de gemeente De Pinte en de stad Gent aan landinrichting",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018642/VolledigDocument?datum=2010-01-17",
+  "source_sha256": "6d8b361389197f74eefe3843b41a71c663bcea168624bd98f2779e10c112efcf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018642&param=informatie",
+  "as_of": "2010-01-17",
+  "made": "2009-11-20",
+  "gazette": "2010-01-07",
+  "numac": 2009036164,
+  "document_start": "2010-01-17",
+  "document_end": null,
+  "in_force": "2010-01-17",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-01-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
