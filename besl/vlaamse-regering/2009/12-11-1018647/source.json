@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018647,
+  "title": "Besluit van de Vlaamse Regering van 2009-12-11 houdende overheveling van het krediet in het kader van het Vlaams Akkoord voor de Non-profit/Social Profit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018647/VolledigDocument?datum=2010-01-17",
+  "source_sha256": "0b1f33f8d83dba563b9696b8a5b1e3443f3c60cdfaeb4a516d2902159174b7b8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018647&param=informatie",
+  "as_of": "2010-01-17",
+  "made": "2009-12-11",
+  "gazette": "2010-01-07",
+  "numac": 2009205902,
+  "document_start": "2010-01-17",
+  "document_end": null,
+  "in_force": "2010-01-17",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-01-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
