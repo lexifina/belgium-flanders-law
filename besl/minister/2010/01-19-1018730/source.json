@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018730,
+  "title": "Ministerieel besluit van 2010-01-19 tot uitvoering van artikel 4 van het ministerieel besluit van 1 oktober 2007 tot uitvoering van het besluit van de Vlaamse Regering van 16 mei 2007 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018730/VolledigDocument?datum=2010-01-19",
+  "source_sha256": "dc7db57c1517a7040a51ddb95fec618b40536f40279937ba20ad40b7809810f3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018730&param=informatie",
+  "as_of": "2010-01-19",
+  "made": "2010-01-19",
+  "gazette": "2010-01-28",
+  "numac": 2010035069,
+  "document_start": "2010-01-19",
+  "document_end": null,
+  "in_force": "2010-01-19",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2010-01-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
