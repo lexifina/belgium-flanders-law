@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018658,
+  "title": "Besluit van de Vlaamse Regering van 2009-10-30 houdende de vaststelling van de noodzaak tot verplichte wijziging van de inplanting van de installaties voor het vervoer van zuurstof door middel van leidingen van Air Liquide Industries Belgium NV, gelegen op het grondgebied van de gemeente Hamme in het gebied « De Bunt » ten behoeve van de inrichting als gecontroleerd overstromingsgebied in uitvoering van het Geactualiseerd Sigmaplan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018658/VolledigDocument?datum=2010-01-21",
+  "source_sha256": "5b20baf2824d15e08d31010952e6521e48fa4ff189e958dd7b3572bab46def05",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018658&param=informatie",
+  "as_of": "2010-01-21",
+  "made": "2009-10-30",
+  "gazette": "2010-01-11",
+  "numac": 2009036166,
+  "document_start": "2010-01-21",
+  "document_end": null,
+  "in_force": "2010-01-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-01-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
