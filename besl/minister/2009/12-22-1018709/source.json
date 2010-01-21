@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018709,
+  "title": "Ministerieel besluit van 2009-12-22 tot bepaling van de standaard voor de titel van opleider/begeleider",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018709/VolledigDocument?datum=2010-01-21",
+  "source_sha256": "2e97f63bb9b665d688b536090c78be2e40129869c2df4094b835c089a09b0b1d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018709&param=informatie",
+  "as_of": "2010-01-21",
+  "made": "2009-12-22",
+  "gazette": "2010-01-21",
+  "numac": 2010035027,
+  "document_start": "2010-01-21",
+  "document_end": null,
+  "in_force": "2010-01-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-01-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
