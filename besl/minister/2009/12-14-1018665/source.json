@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018665,
+  "title": "Ministerieel besluit van 2009-12-14 houdende de erkenning van BVBA Stal Bosteels en Jos Lansink Horses BVBA als centra voor kunstmatige inseminatie bij paarden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018665/VolledigDocument?datum=2010-01-21",
+  "source_sha256": "236a63ec8f3f3a1d9a706be0cc39e4283cf10594831068d85b14f66659beb183",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018665&param=informatie",
+  "as_of": "2010-01-21",
+  "made": "2009-12-14",
+  "gazette": "2010-01-11",
+  "numac": 2009036227,
+  "document_start": "2010-01-21",
+  "document_end": null,
+  "in_force": "2010-01-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-01-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
