@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-§ 1. De vakgebonden eindtermen voor het eerste en tweede leerjaar samen van respectievelijk de tweede en de derde graad van het gewoon secundair onderwijs worden vastgesteld in de bijlage, die bij dit besluit is gevoegd.<br /><br />§ 2. Vakgebonden eindtermen worden afzonderlijk vastgesteld voor:<br />1° in de tweede graad algemeen secundair onderwijs: de vakken aardrijkskunde, geschiedenis, lichamelijke opvoeding, Engels, Frans, natuurwetenschappen of fysica en/of chemie en/of biologie, al of niet voorafgegaan door het woord "toegepaste", al of niet in een geïntegreerde vorm, Nederlands, wiskunde;<br />2° in de tweede graad beroepssecundair onderwijs: de vakken lichamelijke opvoeding, Nederlands, wiskunde en/of toegepaste natuurwetenschappens en/of toegepaste fysica en/of toegepaste chemie en/of toegepaste biologie, al of niet in een geïntegreerde vorm, maatschappelijke vorming of geschiedenis en/of aardrijskunde. Twee of meer van deze vakken kunnen worden geïntegreerd onder project algemene vakken;<br />3° in de tweede graad kunstsecundair onderwijs: de vakken aardrijkskunde, geschiedenis, lichamelijke opvoeding, Engels of Frans, natuurwetenschappen of fysica en/of chemie en/of biologie, al of niet voorafgegaan door het woord "toegepaste", al of niet in een geïntegreerde vorm, Nederlands, wiskunde;<br />4° in de tweede graad technisch secundair onderwijs: de vakken aardrijskunde, geschiedenis, lichamelijke opvoeding, Engels of Frans, natuurwetenschappen of fysica en/of chemie en/of biologie, al of niet voorafgegaan door het woord "toegepaste", al of niet in een geïntegreerde vorm, Nederlands, wiskunde;<br />5° in de derde graad algemeen secundair onderwijs: de vakken aardrijkskunde, geschiedenis, lichamelijke opvoeding, Engels of Duits, Frans, natuurwetenschappen of fysica en/of chemie en/of biologie, Nederlands, wiskunde;<br />6° in de derde graad beroepssecundair onderwijs: de vakken lichamelijke opvoeding, Nederlands, maatschappelijke vorming of geschiedenis en/of aardrijkskunde. Twee of meer van deze vakken kunnen worden geïntegreerd onder project algemene vakken;<br />7° in de derde graad kunstsecundair onderwijs: de vakken aardrijkskunde, geschiedenis, lichamelijke opvoeding, Engels of Frans, Nederlands, wiskunde;<br />8° in de derde graad technisch secundair onderwijs: de vakken aardrijkskunde, geschiedenis, lichamelijke opvoeding, Engels of Frans, Nederlands, wiskunde.<br /><br />§ 3. ...
+§ 1. De vakgebonden eindtermen voor het eerste en tweede leerjaar samen van respectievelijk de tweede en de derde graad van het gewoon secundair onderwijs worden vastgesteld in de bijlage, die bij dit besluit is gevoegd.<br /><br />§ 2. Vakgebonden eindtermen worden afzonderlijk vastgesteld voor:<br />1° in de tweede graad algemeen secundair onderwijs: de vakken aardrijkskunde, geschiedenis, lichamelijke opvoeding, Engels, Frans, natuurwetenschappen of fysica en/of chemie en/of biologie, al of niet voorafgegaan door het woord "toegepaste", al of niet in een geïntegreerde vorm, Nederlands, wiskunde;<br />2° in de tweede graad beroepssecundair onderwijs: de vakken lichamelijke opvoeding, Nederlands, Frans of Engels, wiskunde en/of toegepaste natuurwetenschappens en/of toegepaste fysica en/of toegepaste chemie en/of toegepaste biologie, al of niet in een geïntegreerde vorm, maatschappelijke vorming of geschiedenis en/of aardrijskunde. Twee of meer van deze vakken kunnen worden geïntegreerd onder project algemene vakken;<br />3° in de tweede graad kunstsecundair onderwijs: de vakken aardrijkskunde, geschiedenis, lichamelijke opvoeding, Engels of Frans, natuurwetenschappen of fysica en/of chemie en/of biologie, al of niet voorafgegaan door het woord "toegepaste", al of niet in een geïntegreerde vorm, Nederlands, wiskunde;<br />4° in de tweede graad technisch secundair onderwijs: de vakken aardrijskunde, geschiedenis, lichamelijke opvoeding, Engels of Frans, natuurwetenschappen of fysica en/of chemie en/of biologie, al of niet voorafgegaan door het woord "toegepaste", al of niet in een geïntegreerde vorm, Nederlands, wiskunde;<br />5° in de derde graad algemeen secundair onderwijs: de vakken aardrijkskunde, geschiedenis, lichamelijke opvoeding, Engels of Duits, Frans, natuurwetenschappen of fysica en/of chemie en/of biologie, Nederlands, wiskunde;<br />6° in de derde graad beroepssecundair onderwijs: de vakken lichamelijke opvoeding, Nederlands, Frans of Engels, maatschappelijke vorming of geschiedenis en/of aardrijkskunde. Twee of meer van deze vakken kunnen worden geïntegreerd onder project algemene vakken;<br />7° in de derde graad kunstsecundair onderwijs: de vakken aardrijkskunde, geschiedenis, lichamelijke opvoeding, Engels of Frans, Nederlands, wiskunde;<br />8° in de derde graad technisch secundair onderwijs: de vakken aardrijkskunde, geschiedenis, lichamelijke opvoeding, Engels of Frans, Nederlands, wiskunde.<br /><br />§ 3. ...
 
 ### ART. 2.
 
@@ -16,7 +16,7 @@ Om het studiepeil te waarborgen, en uitsluitend met het oog op de uitreiking in 
 
 De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.
 
-### Bijlage
+### BIJLAGE
 
 <p>VAKOVERSCHRIJDENDE EINDTERMEN TWEEDE GRAAD<br>
 ...<br>
@@ -780,8 +780,7 @@ voor de grootheden gemerkt in de rechterkolom:<br>
 - uit het SI-eenhedenstelsel;<br>
 <br>
 - de formule toepassen.<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:407.4pt">
 	<tbody>
@@ -1352,327 +1351,186 @@ F29 het verband tussen de toestandsfactoren druk, volume en temperatuur van een 
 <br>
 F. NEDERLANDS - ASO<br>
 <br>
-1. Luisteren (koppeling Spreken/gesprekken voeren)<br>
-<br>
-1 De leerlingen kunnen op structurerend niveau luisteren naar uiteenzettingen, probleemstellingen door een bekende volwasse-ne m.b.t. een leerstofonderdeel bestemd voor bekende leeftijdgenoten.<br>
-<br>
-2 De leerlingen kunnen op structurerend niveau luisteren naar tekstsoorten bestemd voor bekende volwassenen. Het betreft tekstsoorten zoals verslagen van feiten en evenementen; presentaties van informatie die m.b.t. een bepaalde opdracht werd verzameld; presentaties van persoonlijke ervaringen en interesses.<br>
-<br>
-3 De leerlingen kunnen op structurerend niveau luisteren naar tekstsoorten bestemd voor een onbekend publiek. Het betreft tekstsoorten zoals instructies; informatieve programma's, interviews, praatprogramma's, journaals, aangeboden via diverse media en multimediale- informatie-dragers.<br>
-<br>
-4 De leerlingen kunnen op beoordelend niveau luisteren naar tekstsoorten bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals activerende boodschappen; standpunten, meningen in probleemoplossende discussies.<br>
-<br>
-5 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de luistertaken:<br>
-<br>
-- hun luisterdoel(en) bepalen;<br>
-<br>
-- het (de) tekstdoel(en) vaststellen;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- bijkomende informatie vragen;<br>
-<br>
-- onderwerp en hoofdgedachte(n) identificeren;<br>
-<br>
-- gericht informatie selecteren en ordenen;<br>
-<br>
-- inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen;<br>
-<br>
-- de functie van bijgeleverde visuele informatie vaststel-len;<br>
-<br>
-- het taalgebruik van de spreker inschatten;<br>
-<br>
-- aandacht tonen voor het non-verbale gedrag van de gespreks-part-ner/spreker.<br>
-<br>
-6 De leerlingen kunnen een luisterstrategie kiezen naar gelang van luisterdoel(en) en tekst-soorten ze toepassen (oriënterend, zoekend, globaal en intensief).<br>
-<br>
-*7 De leerlingen zijn binnen de gepaste communicatiesituaties bereid om:<br>
-<br>
-- te luisteren;<br>
-<br>
-- een onbevooroordeelde luisterhouding aan te nemen;<br>
-<br>
-- een ander te laten uitspreken;<br>
-<br>
-- te reflecteren op hun eigen luisterhouding;<br>
-<br>
-- het beluisterde te toetsen aan eigen kennis en inzich-ten.<br>
-<br>
-2. Spreken/gesprekken voeren (koppeling Luisteren)<br>
-<br>
+1 Luisteren (koppeling Spreken/gesprekken voeren)<br>
+1 De leerlingen kunnen op structurerend niveau luisteren naar uiteenzettingen, probleemstellingen door een bekende volwassene m.b.t. een leerstofonderdeel bestemd voor bekende leeftijdgenoten.<br>
+2 De leerlingen kunnen op structurerend niveau luisteren naar tekstsoorten bestemd voor bekende volwassenen. Het betreft tekstsoorten zoals verslagen van feiten en evenementen, presentaties van informatie die m.b.t. een bepaalde opdracht werd verzameld, presentaties van persoonlijke ervaringen en interesses.<br>
+3 De leerlingen kunnen op structurerend niveau luisteren naar tekstsoorten bestemd voor een onbekend publiek. Het betreft tekstsoorten zoals instructies, informatieve programma's, interviews, praatprogramma's, journaals, aangeboden via diverse media en multimediale informatiedragers.<br>
+4 De leerlingen kunnen op beoordelend niveau luisteren naar tekstsoorten bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals activerende boodschappen; standpunten/meningen in probleemoplossende discussies.<br>
+5 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de luistertaken :<br>
+• hun luisterdoel(en) bepalen;<br>
+• het (de) tekstdoel(en) vaststellen;<br>
+• hun voorkennis inzetten;<br>
+• onderwerp en hoofdgedachte(n) identificeren;<br>
+• gericht informatie selecteren en ordenen;<br>
+• inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen;<br>
+• de functie van bijgeleverde visuele informatie vaststellen;<br>
+• het taalgebruik van de spreker inschatten;<br>
+• aandacht tonen voor het non-verbale gedrag van de gesprekspartner/spreker.<br>
+6 De leerlingen kunnen een luisterstrategie kiezen naargelang van luisterdoel(en) en tekstsoort en ze toepassen (oriënterend, zoekend, globaal en intensief).<br>
+7* De leerlingen zijn binnen de gepaste communicatiesituaties bereid om :<br>
+• te luisteren;<br>
+• een onbevooroordeelde luisterhouding aan te nemen;<br>
+• een ander te laten uitspreken;<br>
+• te reflecteren op hun eigen luisterhouding;<br>
+• het beluisterde te toetsen aan eigen kennis en inzichten.<br>
+2 Spreken/gesprekken voeren (koppeling Luisteren)<br>
 8 De leerlingen kunnen op structurerend niveau aan onbekende leeftijdgenoten instructies geven voor een spel en het hanteren van apparatuur.<br>
-<br>
-9 De leerlingen kunnen op structurerend niveau:<br>
-<br>
-- aan een bekende volwassene vragen stellen en antwoorden formuleren m.b.t. leerstofonderdelen in schoolvakken;<br>
-<br>
-- ten aanzien van een bekende volwassene:<br>
-<br>
-- de informatie presenteren die ze in het kader van een bepaalde opdracht hebben verzameld;<br>
-<br>
-- gevoelens uitdrukken, persoonlijke ervaringen en interesses presenteren.<br>
-<br>
-10 De leerlingen kunnen op structurerend niveau voor een onbekend publiek:<br>
-<br>
-- routes, situaties, personen beschrijven;<br>
-<br>
-- gebeurtenissen verslaan.<br>
-<br>
+9 De leerlingen kunnen op structurerend niveau :<br>
+• aan een bekende volwassene vragen stellen en antwoorden formuleren m.b.t. leerstofonderdelen in schoolvakken;<br>
+• ten aanzien van een bekende volwassene :<br>
+• de informatie presenteren die ze in het kader van een bepaalde opdracht hebben verzameld;<br>
+• gevoelens uitdrukken, persoonlijke ervaringen en interesses presenteren.<br>
+10 De leerlingen kunnen op structurerend niveau voor een onbekend publiek :<br>
+• routes, situaties, personen beschrijven;<br>
+• gebeurtenissen verslaan.<br>
 11 De leerlingen kunnen op beoordelend niveau voor bekende leeftijdgenoten hun standpunten/meningen of hun oplossingswijzen voor problemen in een gedachtewisseling uiteenzetten en motiveren.<br>
-<br>
-12 De leerlingen kunnen op beoordelend niveau aan een onbekend publiek:<br>
-<br>
-- inlichtingen vragen, aanvragen doen, klachten/bezwaren formu-leren in het kader van het schools functioneren en van de vrije tijd (rechtstreeks of telefonisch);<br>
-<br>
-- activerende boodschappen formuleren.<br>
-<br>
-13 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de spreektaken:<br>
-<br>
-- hun spreek-en gespreksdoel(en) bepalen;<br>
-<br>
-- hun publiek beschrijven;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- naar gelang van hun spreek-, gespreksdoel(en) en publiek:<br>
-<br>
-- gericht informatie selecteren en in een duidelijke vorm verwoor-den;<br>
-<br>
-- bijkomende info vragen;<br>
-<br>
-- hun taalgebruik aanpassen;<br>
-<br>
-- inhoudelijke en functionele relaties tussen tekstonder-delen vast-stellen en verwoorden;<br>
-<br>
-- visuele informatie gebruiken;<br>
-<br>
-- non-verbaal gedrag observeren en verwoorden.<br>
-<br>
-- gespreksconventies hanteren om gesprekken te beginnen, te onderbre-ken, gaande te houden en af te sluiten;<br>
-<br>
-- argumenten herkennen en aanbrengen;<br>
-<br>
-- adequaat reageren op de inbreng van gesprekspartner(s).<br>
-<br>
-*14 De leerlingen zijn binnen de gepaste communicatiesituaties bereid om:<br>
-<br>
-- te spreken;<br>
-<br>
-- Algemeen Nederlands te spreken;<br>
-<br>
-- een kritische houding aan te nemen tegenover hun eigen spreek- en gespreksgedrag.<br>
-<br>
-3. Lezen<br>
-<br>
-15 De leerlingen kunnen op structurerend niveau tekstsoorten lezen bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals tijdschriftartikelen; recensies; gebruiksaanwijzingen; instructie- en studieteksten.<br>
-<br>
-16 De leerlingen kunnen op structurerend niveau tekstsoorten lezen bestemd voor een onbe-ken-d publiek. Het betreft tekstsoorten zoals schema's en tabellen; onderschriften bij informerende en diverterende programma's; verslagen; hyperteksten.<br>
-<br>
-17 De leerlingen kunnen op beoordelend niveau tekstsoorten lezen bestemd voor onbe-ken-de leeftijdgenoten. Het betreft tekstsoorten zoals notities; informatieve teksten, inclusief informatiebronnen; zakelijke brieven; reclameteksten en advertenties; fictionele teksten (cf. literatuur).<br>
-<br>
-18 De leerlingen kunnen op beoordelend niveau tekstsoorten lezen bestemd voor een onbekend publiek: informatieve teksten en informatiebronnen, zowel in gedrukte als elektronische vorm:<br>
-<br>
-- van praktische aard (zoals spoorboekje, vakantieregeling);<br>
-<br>
-- van encyclopedische aard (zoals woordenboek, catalogus).<br>
-<br>
-19 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de leestaken:<br>
-<br>
-- hun leesdoel(en) bepalen;<br>
-<br>
-- het (de) tekstdoel(en) vaststellen;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- functie van beeld en opmaak in een tekst herkennen;<br>
-<br>
-- onderwerp en hoofdgedachte(n) aanduiden;<br>
-<br>
-- de structuur van een tekst in grote lijnen aanduiden;<br>
-<br>
-- inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen.<br>
-<br>
-20 De leerlingen kunnen een leesstrategie kiezen naar gelang van leesdoel en tekstsoorten ze toepassen (oriënterend, zoekend, globaal en intensief).<br>
-<br>
-21 De leerlingen kunnen verschillende strategieën aanwenden om aan onbekende woorden betekenis toe te kennen. Het gaat om het gebruiken van:<br>
-<br>
-- de context;<br>
-<br>
-- de voorkennis van taal en wereld;<br>
-<br>
-- de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
-<br>
-- het woordenboek.<br>
-<br>
-*22 De leerlingen zijn bereid om:<br>
-<br>
-- te lezen;<br>
-<br>
-- lezend informatie te verzamelen over een bepaald onderwerp;<br>
-<br>
-- de verkregen informatie aan eigen kennis en inzicht te toetsen en te vergelijken met informatie uit andere bronnen;<br>
-<br>
-- hun persoonlijk oordeel over bepaalde teksten te formuleren.<br>
-<br>
-4. Schrijven<br>
-<br>
-23 De leerlingen kunnen op structurerend niveau tekstsoorten schrijven bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals instructies; affiches; uitnodigingen.<br>
-<br>
-24 De leerlingen kunnen op structurerend niveau tekstsoorten schrijven bestemd voor een bekende volwas-sene. Het betreft tekstsoorten zoals agenda en planning; verslagen; notities tijdens een les; samenvattingen en schema's van studieteksten.<br>
-<br>
-25 De leerlingen kunnen op structurerend niveau tekstsoorten schrijven bestemd voor een onbekend publiek. Het betreft tekstsoorten zoals sollicitatiebrieven voor vakantiejobs; vragen om inlichtingen; relevante formulieren; zakelijke brieven.<br>
-<br>
-26 De leerlingen kunnen op beoordelend niveau tekstsoorten schrijven bestemd voor onbe-kende leeftijd-ge-noten. Het betreft tekstsoorten zoals lezersbrieven; recensies.<br>
-<br>
-27 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de schrijftaken:<br>
-<br>
-- hun schrijfdoel(en) bepalen;<br>
-<br>
-- het publiek beschrijven;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- gericht informatie zoeken, ordenen en verwerken;<br>
-<br>
-- een logische tekstopbouw creëren met aandacht voor inhou-delijke en functionele relaties;<br>
-<br>
-- eigen tekst reviseren;<br>
-<br>
-- inhouds- en vormconventies van de taal verzorgen;<br>
-<br>
-- gebruik maken van informatie- en communicatietechnologie.<br>
-<br>
-28 De leerlingen kunnen een schrijfstrategie kiezen naar gelang van schrijfdoel en tekstsoorten ze toepassen.<br>
-<br>
-*29 De leerlingen zijn binnen de gepaste situaties bereid om:<br>
-<br>
-- te schrijven;<br>
-<br>
-- schriftelijk informatie te verstrekken;<br>
-<br>
-- te reflecteren op hun eigen schrijf-proces en op inhoud en vorm van hun schrijfproduct;<br>
-<br>
-- taal, indeling, spelling, handschrift en lay-out te verzorgen.<br>
-<br>
-5. Literatuur<br>
-<br>
-30 De leerlingen kunnen vanuit een tekstervarende en tekstbestuderende manier van lezen:<br>
-<br>
-- verschillen aanwijzen in de benadering van de werkelijkheid in:<br>
-<br>
-- fictionele en zakelijke teksten;<br>
-<br>
-- verhaal, gedicht, toneeltekst;<br>
-<br>
-- twee stromingen.<br>
-<br>
-- de kenmerken herkennen van:<br>
-<br>
-- column, kortverhaal, (jeugd)roman, jeugdpoëzie;<br>
-<br>
-- strip, jeugdtheater, tv-drama, soap.<br>
-<br>
-- verhaalelementen herkennen en benoemen: personages, spanning, thema, tijd, ruimte, ik- en hijverteller;<br>
-<br>
-- de keuze van sommige verhaalelementen toelichten: personages, tijd, ruimte.<br>
-<br>
-31 De leerlingen kunnen:<br>
-<br>
-- hun tekstkeuze toelichten;<br>
-<br>
-- hun leeservaring verwoorden (inhoud van het werk weergeven, eigen mening weergeven);<br>
-<br>
-- hun tekstkeuze en leeservaring documenteren.<br>
-<br>
-32 De leerlingen kunnen informatie over literatuur verzamelen en gebrui-ken. Zij maken hierbij kennis met het aanbod van informatiekana-len zoals: bibliotheek, krant, tijdschrift, radio- en tv-program-ma's, multimedia.<br>
-<br>
+12 De leerlingen kunnen op beoordelend niveau aan een onbekend publiek :<br>
+• inlichtingen vragen, aanvragen doen, klachten/bezwaren formuleren in het kader van het schools functioneren en van de vrije tijd (rechtstreeks of telefonisch);<br>
+• activerende boodschappen formuleren.<br>
+13 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de spreektaken :<br>
+• hun spreek- en gespreksdoel(en) bepalen;<br>
+• hun publiek beschrijven;<br>
+• naargelang van hun spreek-, gespreksdoel(en) en publiek :<br>
+• gericht informatie selecteren en in een duidelijke vorm verwoorden;<br>
+• bijkomende info vragen;<br>
+• hun taalgebruik aanpassen;<br>
+• inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen en verwoorden;<br>
+• visuele informatie gebruiken, non-verbaal gedrag observeren en verwoorden;<br>
+• gespreksconventies hanteren om gesprekken te beginnen, te onderbreken, gaande te houden en af te sluiten;<br>
+• argumenten herkennen en aanbrengen;<br>
+• adequaat reageren op de inbreng van gesprekspartner(s).<br>
+14* De leerlingen zijn binnen de gepaste communicatiesituaties bereid om :<br>
+• te spreken;<br>
+• Algemeen Nederlands te spreken;<br>
+• een kritische houding aan te nemen tegenover hun eigen spreek- en gespreksgedrag.<br>
+3 Lezen<br>
+15 De leerlingen kunnen op structurerend niveau tekstsoorten lezen bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals tijdschriftartikelen, recensies, gebruiksaanwijzingen, instructie- en studieteksten.<br>
+16 De leerlingen kunnen op structurerend niveau tekstsoorten lezen bestemd voor een onbekend publiek. Het betreft tekstsoorten zoals schema's en tabellen, onderschriften bij informerende en diverterende programma's, verslagen, hyperteksten.<br>
+17 De leerlingen kunnen op beoordelend niveau tekstsoorten lezen bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals notities, informatieve teksten, inclusief informatiebronnen, zakelijke brieven, reclameteksten en advertenties, fictionele teksten (cf. literatuur).<br>
+18 De leerlingen kunnen op beoordelend niveau tekstsoorten lezen bestemd voor een onbekend publiek : informatieve teksten en informatiebronnen, zowel in gedrukte als elektronische vorm :<br>
+• van praktische aard (zoals spoorboekje, vakantieregeling);<br>
+• van encyclopedische aard (zoals woordenboek, catalogus).<br>
+19 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de leestaken :<br>
+• hun leesdoel(en) bepalen;<br>
+• het (de) tekstdoel(en) vaststellen;<br>
+• hun voorkennis inzetten;<br>
+• functie van beeld en opmaak in een tekst herkennen;<br>
+• onderwerp en hoofdgedachte(n) aanduiden;<br>
+• de structuur van een tekst in grote lijnen aanduiden;<br>
+• inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen.<br>
+20 De leerlingen kunnen een leesstrategie kiezen naargelang van leesdoel en tekstsoort en ze toepassen (oriënterend, zoekend, globaal en intensief).<br>
+21 De leerlingen kunnen verschillende strategieën aanwenden om aan onbekende woorden betekenis toe te kennen. Het gaat om het gebruiken van :<br>
+• de context;<br>
+• de voorkennis van taal en wereld;<br>
+• de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
+• het woordenboek.<br>
+22* De leerlingen zijn bereid om :<br>
+• te lezen;<br>
+• lezend informatie te verzamelen over een bepaald onderwerp;<br>
+• de verkregen informatie aan eigen kennis en inzicht te toetsen en te vergelijken met informatie uit andere bronnen;<br>
+• hun persoonlijk oordeel over bepaalde teksten te formuleren.<br>
+4 Schrijven<br>
+23 De leerlingen kunnen op structurerend niveau tekstsoorten schrijven bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals instructies, affiches, uitnodigingen.<br>
+24 De leerlingen kunnen op structurerend niveau tekstsoorten schrijven bestemd voor een bekende volwassene. Het betreft tekstsoorten zoals agenda en planning, verslagen, notities tijdens een les, samenvattingen en schema's van studieteksten.<br>
+25 De leerlingen kunnen op structurerend niveau tekstsoorten schrijven bestemd voor een onbekend publiek. Het betreft tekstsoorten zoals sollicitatiebrieven voor vakantiejobs, vragen om inlichtingen, relevante formulieren, zakelijke brieven.<br>
+26 De leerlingen kunnen op beoordelend niveau tekstsoorten schrijven bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals lezersbrieven, recensies.<br>
+27 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de schrijftaken :<br>
+• hun schrijfdoel(en) bepalen;<br>
+• het publiek beschrijven;<br>
+• hun voorkennis inzetten;<br>
+• gericht informatie zoeken, ordenen en verwerken;<br>
+• een logische tekstopbouw creëren met aandacht voor inhoudelijke en functionele relaties;<br>
+• eigen tekst reviseren;<br>
+• inhouds- en vormconventies van de taal verzorgen;<br>
+• gebruik maken van informatie- en communicatietechnologie.<br>
+28 De leerlingen kunnen een schrijfstrategie kiezen naargelang van schrijfdoel en tekstsoort en ze toepassen.<br>
+29* De leerlingen zijn binnen de gepaste situaties bereid om :<br>
+• te schrijven;<br>
+• schriftelijk informatie te verstrekken;<br>
+• te reflecteren op hun eigen schrijfproces en op inhoud en vorm van hun schrijfproduct;<br>
+• taal, indeling, spelling, handschrift en lay-out te verzorgen.<br>
+5 Literatuur<br>
+30 De leerlingen kunnen vanuit een tekstervarende en tekstbestuderende manier van lezen :<br>
+• verschillen aanwijzen in de benadering van de werkelijkheid in :<br>
+• fictionele en zakelijke teksten;<br>
+• verhaal, gedicht, toneeltekst;<br>
+• twee stromingen;<br>
+• de kenmerken herkennen van :<br>
+• column, kortverhaal, (jeugd)roman, jeugdpoëzie;<br>
+• strip, jeugdtheater, tv-drama, soap;<br>
+• verhaalelementen herkennen en benoemen : personages, spanning, thema, tijd, ruimte, ik- en hijverteller;<br>
+• de keuze van sommige verhaalelementen toelichten : personages, tijd, ruimte.<br>
+31 De leerlingen kunnen :<br>
+• hun tekstkeuze toelichten;<br>
+• hun leeservaring verwoorden (inhoud van het werk weergeven, eigen mening weergeven);<br>
+• hun tekstkeuze en leeservaring documenteren.<br>
+32 De leerlingen kunnen informatie over literatuur verzamelen en gebruiken. Zij maken hierbij kennis met het aanbod van informatiekanalen zoals : bibliotheek, krant, tijdschrift, radio- en tv-programma's, multimedia.<br>
 33 De leerlingen kunnen bij deze activiteiten gebruik maken van de gepaste leesstrategieën (cf. eindterm 20).<br>
-<br>
-34 De leerlingen kunnen bij deze activiteiten gebruik maken van het bijbehoren-de begrippenapparaat.<br>
-<br>
-*35 De leerlingen zijn bereid om:<br>
-<br>
-- literaire teksten te lezen;<br>
-<br>
-- over hun eigen literaire leeservaring te spreken en te schrij-ven.<br>
-<br>
-6. Taalbeschouwing<br>
-<br>
-36 De leerlingen kunnen volgende verschijnselen in het taalge-bruik herken-nen, benoemen en het voorkomen ervan bespreken:<br>
-<br>
-- verbanden tussen informatiedelen (tekstopbouw):<br>
-<br>
-- alinea en zin/uiting;<br>
-<br>
-- inleiding-midden-slot;<br>
-<br>
-- middel-doel;<br>
-<br>
-- oorzaak-gevolg;<br>
-<br>
-- voorwaarde-realisatie;<br>
-<br>
-- opsomming en classificatie.<br>
-<br>
-- betekenis van informatie (tekstopbouw):<br>
-<br>
-- feiten en meningen;<br>
-<br>
-- voor- en nadelen;<br>
-<br>
-- pro's en contra's;<br>
-<br>
-- overeenkomsten en verschillen.<br>
-<br>
-- interactionele aspecten van de communicatie:<br>
-<br>
-- taalregister;<br>
-<br>
-- taalvariatie: conventie en afwijking;<br>
-<br>
-- modaliteit;<br>
-<br>
-- gevoelswaarde;<br>
-<br>
-- figuurlijk taalgebruik.<br>
-<br>
-- woordleer:<br>
-<br>
-- afleiding;<br>
-<br>
-- samenstelling;<br>
-<br>
-- leenwoord;<br>
-<br>
-- zinsleer:<br>
-<br>
-- directe en indirecte rede;<br>
-<br>
-- actieve en passieve zinnen;<br>
-<br>
-- enkelvoudige en samengestelde zinnen.<br>
-<br>
-37 De leerlingen kunnen van de volgende verschijnselen het (taal)sys-teem beschrijven:<br>
-<br>
-- woordleer: afleiding, samenstelling, leenwoord, bas-taardwoord;<br>
-<br>
-- zinsleer: directe en indirecte rede, actieve en passie-ve zinnen, samen-gestelde zinnen.<br>
-<br>
-38 De leerlingen kennen de verschillende strategieën om aan onbeken-de woorden betekenis te geven. Het gaat om het gebruiken van:<br>
-<br>
-- de context;<br>
-<br>
-- de voorkennis van taal en wereld;<br>
-<br>
-- de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
-<br>
-- het woordenboek.<br>
-<br>
-39 De leerlingen kunnen tijdens hun taalbeschouwingsactiviteiten de concepten identificeren en de bijbehorende termen gebruiken.<br>
-<br>
-40 De leerlingen kunnen hun eigen taaltaken bijsturen door middel van herkenning, benoeming en bespreking van taalver-schijnselen.<br>
-<br>
-*41 De leerlingen zijn bereid om over hun eigen taalgebruik en het taalsys-teem na te denken.<br>
+34 De leerlingen kunnen bij deze activiteiten gebruik maken van het bijbehorende begrippenapparaat.<br>
+35* De leerlingen zijn bereid om :<br>
+• literaire teksten te lezen;<br>
+• over hun eigen literaire leeservaring te spreken en te schrijven.<br>
+6 Taalbeschouwing<br>
+Attitudes<br>
+36* De leerlingen zijn bereid om op hun niveau :<br>
+• bewust te reflecteren op taalgebruik en taalsysteem;<br>
+• van de verworven inzichten gebruik te maken bij verbale en non-verbale communicatie.<br>
+37* Bij het reflecteren op verbale en non-verbale communicatie tonen de leerlingen interesse in en respect voor de persoon van de ander, en voor de eigen en andermans cultuur.<br>
+Taalgebruik<br>
+38 Met het oog op doeltreffende communicatie en taalbeschouwelijke basiskennis kunnen de leerlingen op hun niveau in een ruim gamma van meer en minder nabije taalgebruikssituaties bewust reflecteren op een aantal aspecten van het taalgebruik.<br>
+Ze kunnen de hiernavolgende verschijnselen herkennen, onderzoeken en benoemen :<br>
+38.1 in het tekstuele domein<br>
+• verbanden tussen tekstdelen : alinea-zin, inleiding-midden-slot;<br>
+• structuuraanduiders;<br>
+• betekenisrelaties : middel-doel, oorzaak-gevolg, als-dan, voordelen-nadelen, voor-tegen;<br>
+• status van een uitspraak : feit-mening;<br>
+38.2 in het sociolinguïstische domein<br>
+• Standaardnederlands en andere standaardtalen;<br>
+• nationale, regionale, sociale en situationele taalvariëteiten;<br>
+• in onze samenleving voorkomende talen;<br>
+38.3 in het pragmatische domein<br>
+• de factoren van een communicatiesituatie : zender, ontvanger, boodschap, bedoeling, effect, situatie, kanaal, ruis;<br>
+• normen, conventies, houdingen, vooroordelen en rolgedrag via taal;<br>
+• taalhandelingen : beweren, meedelen, beloven, om informatie vragen, verzoeken, dreigen, waarschuwen, groeten, bedanken, verontschuldigen, afspreken, overtuigen, argumenteren;<br>
+• non-verbale communicatie;<br>
+• de gevolgen van hun verbale en non-verbale communicatie voor anderen en henzelf;<br>
+• talige aspecten van cultuuruitingen in onze samenleving;<br>
+• cultuurgebonden aspecten van verbale en non-verbale communicatie in onze samenleving.<br>
+Taalsysteem<br>
+39 Met het oog op doeltreffende communicatie en taalbeschouwelijke basiskennis kunnen de leerlingen op hun niveau bewust reflecteren op een aantal aspecten van het taalsysteem.<br>
+Ze kunnen de hiernavolgende verschijnselen herkennen, onderzoeken en benoemen :<br>
+39.1 in het fonologische domein<br>
+• de klanken van het Nederlands;<br>
+39.2. in het orthografische domein<br>
+• vormcorrectheid, spellingconventies en hulpmiddelen bij de spelling van woorden en bij interpunctie;<br>
+39.3. in het morfologische domein<br>
+• de woordsoorten, met inbegrip van verbuiging en vervoeging;<br>
+• herkomst van woorden : inheemse woorden en leenwoorden;<br>
+39.4. in het syntactische domein<br>
+woordgroepen<br>
+• woordgroepen : zelfstandignaamwoordgroep en werkwoordgroep;<br>
+• onderscheid tussen woordgroep en zinsdeel;<br>
+zinsdelen<br>
+• de belangrijkste zinsdelen waaronder;<br>
+• gezegde : naamwoordelijk en werkwoordelijk;<br>
+• onderwerp;<br>
+• noodzakelijke aanvullingen : lijdend voorwerp en meewerkend voorwerp;<br>
+• bijwoordelijke bepalingen;<br>
+zin<br>
+• zinstypen waaronder mededelende zin, vragende zin en gebiedende zin;<br>
+• enkelvoudige en samengestelde zinnen;<br>
+• nevengeschikte en ondergeschikte zinnen;<br>
+• hoofdzinnen en bijzinnen;<br>
+39.5. in het semantische domein<br>
+woordsemantiek<br>
+• woordbetekenis : betekenis, gevoelswaarde;<br>
+• betekenisrelaties : homoniemen, synoniemen, antoniemen;<br>
+• letterlijke en figuurlijke betekenis, beeldspraak;<br>
+zinssemantiek<br>
+• modaliteit.<br>
+Strategieën<br>
+40 De leerlingen kunnen op hun niveau bewust reflecteren op luister-, spreek-, interactie-, lees- en schrijfstrategieën.<br>
+* Met het oog op controle door de inspectie werden de attitudes met een * aangeduid.<br>
 <br>
 G. WISKUNDE - ASO<br>
 <br>
@@ -2001,6 +1859,10 @@ De leerlingen<br>
 *33 respecteren het historisch-cultureel erfgoed.<br>
 <br>
 *34 respecteren het leefmilieu.<br>
+<br>
+C. MODERNE VREEMDE TALEN: FRANS OF ENGELS<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/01/13_2.pdf#page=36" target="_blank">Bijlage 3</a><br>
 <br>
 IV. VAKGEBONDEN EINDTERMEN TWEEDE GRAAD - KSO<br>
 <br>
@@ -2332,7 +2194,7 @@ De leerlingen<br>
 <br>
 10 hangen, steunen, klimmen, zwaaien en draaien in verschillende situaties.<br>
 <br>
-11 kunnen aangepaste vormen van springen, werpen en lopen in verschillende situaties beheerst uitvoe-ren.<br>
+11 kunnen aangepaste vormen van springen, werpen en lopen in verschillende situaties beheerst uitvoeren.<br>
 <br>
 12 kunnen meegaan en tegenwerken in bewegingen met anderen.<br>
 <br>
@@ -2474,309 +2336,179 @@ De leerlingen<br>
 <br>
 F. NEDERLANDS - KSO<br>
 <br>
-1. Luisteren (koppeling Spreken/gesprekken voeren)<br>
-<br>
+1 Luisteren (koppeling Spreken/gesprekken voeren)<br>
 1 De leerlingen kunnen op structurerend niveau luisteren naar uiteenzettingen, probleemstellingen door een bekende volwassene m.b.t. een leerstofonderdeel bestemd voor bekende leeftijdgenoten.<br>
-<br>
-2 De leerlingen kunnen op structurerend niveau luisteren naar tekstsoorten bestemd voor bekende volwassenen. Het betreft tekstsoorten zoals verslagen van feiten en evenementen; presentaties van informatie die m.b.t. een bepaalde opdracht werd verzameld; presentaties van persoonlijke ervaringen en interesses.<br>
-<br>
-3 De leerlingen kunnen op structurerend niveau luisteren naar tekstsoorten bestemd voor een onbekend publiek. Het betreft tekstsoorten zoals instructies; informatieve programma's, interviews, praatprogramma's, journaals, aangeboden via diverse media en multimediale informatiedragers.<br>
-<br>
-4 De leerlingen kunnen op beoordelend niveau luisteren naar tekstsoorten bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals activerende boodschappen; standpunten, meningen in probleemoplossende discussies.<br>
-<br>
-5 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de luistertaken:<br>
-<br>
-- hun luisterdoel(en) bepalen;<br>
-<br>
-- het (de) tekstdoel(en) vaststellen;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- onderwerp en hoofdgedachte(n) identificeren;<br>
-<br>
-- gericht informatie selecteren en ordenen;<br>
-<br>
-- inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen;<br>
-<br>
-- de functie van bijgeleverde visuele informatie vaststellen;<br>
-<br>
-- het taalgebruik van de spreker inschatten;<br>
-<br>
-- aandacht tonen voor het non-verbale gedrag van de gesprekspartner/spreker.<br>
-<br>
-6 De leerlingen kunnen een luisterstrategie kiezen naar gelang van luisterdoel(en) en tekstsoorten ze toepassen (oriënterend, zoekend, globaal en intensief).<br>
-<br>
-*7 De leerlingen zijn binnen de gepaste communicatiesituaties bereid om:<br>
-<br>
-- te luisteren;<br>
-<br>
-- een onbevooroordeelde luisterhouding aan te nemen;<br>
-<br>
-- een ander te laten uitspreken;<br>
-<br>
-- te reflecteren op hun eigen luisterhouding;<br>
-<br>
-- het beluisterde te toetsen aan eigen kennis en inzichten.<br>
-<br>
-2. Spreken/gesprekken voeren (koppeling luisteren)<br>
-<br>
+2 De leerlingen kunnen op structurerend niveau luisteren naar tekstsoorten bestemd voor bekende volwassenen. Het betreft tekstsoorten zoals verslagen van feiten en evenementen, presentaties van informatie die m.b.t. een bepaalde opdracht werd verzameld, presentaties van persoonlijke ervaringen en interesses.<br>
+3 De leerlingen kunnen op structurerend niveau luisteren naar tekstsoorten bestemd voor een onbekend publiek. Het betreft tekstsoorten zoals instructies, informatieve programma's, interviews, praatprogramma's, journaals, aangeboden via diverse media en multimediale informatiedragers.<br>
+4 De leerlingen kunnen op beoordelend niveau luisteren naar tekstsoorten bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals activerende boodschappen, standpunten/meningen in probleemoplossende discussies.<br>
+5 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de luistertaken :<br>
+• hun luisterdoel(en) bepalen;<br>
+• het (de) tekstdoel(en) vaststellen;<br>
+• hun voorkennis inzetten;<br>
+• onderwerp en hoofdgedachte(n) identificeren;<br>
+• gericht informatie selecteren en ordenen;<br>
+• inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen;<br>
+• de functie van bijgeleverde visuele informatie vaststellen;<br>
+• het taalgebruik van de spreker inschatten;<br>
+• aandacht tonen voor het non-verbale gedrag van de gesprekspartner/spreker.<br>
+6 De leerlingen kunnen een luisterstrategie kiezen naargelang van luisterdoel(en) en tekstsoort en ze toepassen (oriënterend, zoekend, globaal en intensief).<br>
+7* De leerlingen zijn binnen de gepaste communicatiesituaties bereid om :<br>
+• te luisteren;<br>
+• een onbevooroordeelde luisterhouding aan te nemen;<br>
+• een ander te laten uitspreken;<br>
+• te reflecteren op hun eigen luisterhouding;<br>
+• het beluisterde te toetsen aan eigen kennis en inzichten.<br>
+2 Spreken/gesprekken voeren (koppeling Luisteren)<br>
 8 De leerlingen kunnen op structurerend niveau aan onbekende leeftijdgenoten instructies geven voor een spel en het hanteren van apparatuur.<br>
-<br>
-9 De leerlingen kunnen op structurerend niveau:<br>
-<br>
-- aan een bekende volwassene vragen stellen en antwoorden formuleren m.b.t. leerstofonderdelen in schoolvakken;<br>
-<br>
-- ten aanzien van een bekende volwassene:<br>
-<br>
-- de informatie presenteren die ze in het kader van een bepaalde opdracht hebben verzameld;<br>
-<br>
-- gevoelens uitdrukken, persoonlijke ervaringen en interesses presenteren.<br>
-<br>
-10 De leerlingen kunnen op structurerend niveau voor een onbekend publiek:<br>
-<br>
-- routes, situaties, personen beschrijven;<br>
-<br>
-- gebeurtenissen verslaan.<br>
-<br>
+9 De leerlingen kunnen op structurerend niveau :<br>
+• aan een bekende volwassene vragen stellen en antwoorden formuleren m.b.t. leerstofonderdelen in schoolvakken;<br>
+• ten aanzien van een bekende volwassene :<br>
+• de informatie presenteren die ze in het kader van een bepaalde opdracht hebben verzameld;<br>
+• gevoelens uitdrukken, persoonlijke ervaringen en interesses presenteren.<br>
+10 De leerlingen kunnen op structurerend niveau voor een onbekend publiek :<br>
+• routes, situaties, personen beschrijven;<br>
+• gebeurtenissen verslaan.<br>
 11 De leerlingen kunnen op beoordelend niveau voor bekende leeftijdgenoten hun standpunten/meningen of hun oplossingswijzen voor problemen in een gedachtewisseling uiteenzetten en motiveren.<br>
-<br>
-12 De leerlingen kunnen op beoordelend niveau aan een onbekend publiek:<br>
-<br>
-- inlichtingen vragen, aanvragen doen, klachten/bezwaren formuleren in het kader van het schools functioneren en van de vrije tijd (rechtstreeks of telefonisch);<br>
-<br>
-- activerende boodschappen formuleren.<br>
-<br>
-13 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de spreektaken:<br>
-<br>
-- hun spreek-en gespreksdoel(en) bepalen;<br>
-<br>
-- hun publiek beschrijven;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- naar gelang van de spreek-, gespreksdoel(en) en publiek:<br>
-<br>
-- gericht informatie selecteren en in een duidelijke vorm verwoorden;<br>
-<br>
-- bijkomende info vragen;<br>
-<br>
-- hun taalgebruik aanpassen;<br>
-<br>
-- inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen en verwoorden;<br>
-<br>
-- visuele informatie gebruiken;<br>
-<br>
-- non-verbaal gedrag observeren en verwoorden.<br>
-<br>
-- gespreksconventies hanteren om gesprekken te beginnen, te onderbreken, gaande te houden en af te sluiten;<br>
-<br>
-- argumenten herkennen en aanbrengen;<br>
-<br>
-- adequaat reageren op de inbreng van gesprekspartner(s).<br>
-<br>
-*14 De leerlingen zijn binnen de gepaste communicatiesituaties bereid om:<br>
-<br>
-- te spreken;<br>
-<br>
-- Algemeen Nederlands te spreken;<br>
-<br>
-- een kritische houding aan te nemen tegenover hun eigen spreek- en gespreksgedrag.<br>
-<br>
-3. Lezen<br>
-<br>
-15 De leerlingen kunnen op structurerend niveau tekstsoorten lezen bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals tijdschriftartikelen; recensies; gebruiksaanwijzingen; instructie- en studieteksten.<br>
-<br>
-16 De leerlingen kunnen op structurerend niveau tekstsoorten lezen bestemd voor een onbekend publiek. Het betreft tekstsoorten zoals schema's en tabellen; onderschriften bij informerende en diverterende programma's; verslagen; hyperteksten.<br>
-<br>
-17 De leerlingen kunnen op beoordelend niveau tekstsoorten lezen bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals notities; informatieve teksten, inclusief informatiebronnen; zakelijke brieven; reclameteksten en advertenties; fictionele teksten (cf. literatuur).<br>
-<br>
-18 De leerlingen kunnen op beoordelend niveau tekstsoorten lezen bestemd voor een onbekend publiek: informatieve teksten en informatiebronnen, zowel in gedrukte als elektronische vorm:<br>
-<br>
-- van praktische aard (zoals spoorboekje, vakantieregeling);<br>
-<br>
-- van encyclopedische aard (zoals woordenboek, catalogus).<br>
-<br>
-19 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de leestaken:<br>
-<br>
-- hun leesdoel(en) bepalen;<br>
-<br>
-- het (de) tekstdoel(en) vaststellen;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- functie van beeld en opmaak in een tekst herkennen;<br>
-<br>
-- onderwerp en hoofdgedachte(n) aanduiden;<br>
-<br>
-- de structuur van een tekst in grote lijnen aanduiden;<br>
-<br>
-- inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen.<br>
-<br>
-20 De leerlingen kunnen een leesstrategie kiezen naar gelang van leesdoel en tekstsoorten ze toepassen (oriënterend, zoekend, globaal en intensief).<br>
-<br>
-21 De leerlingen kunnen verschillende strategieën aanwenden om aan onbekende woorden betekenis toe te kennen. Het gaat om het gebruiken van:<br>
-<br>
-- de context;<br>
-<br>
-- de voorkennis van taal en wereld;<br>
-<br>
-- de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
-<br>
-- het woordenboek.<br>
-<br>
-*22 De leerlingen zijn bereid om:<br>
-<br>
-- te lezen;<br>
-<br>
-- lezend informatie te verzamelen over een bepaald onderwerp;<br>
-<br>
-- de verkregen informatie aan eigen kennis en inzicht te toetsen en te vergelijken met informatie uit andere bronnen;<br>
-<br>
-- hun persoonlijk oordeel over bepaalde teksten te formuleren.<br>
-<br>
-4. Schrijven<br>
-<br>
-23 De leerlingen kunnen op structurerend niveau tekstsoorten schrijven bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals instructies; affiches; uitnodigingen.<br>
-<br>
-24 De leerlingen kunnen op structurerend niveau tekstsoorten schrijven bestemd voor een bekende volwassene. Het betreft tekstsoorten zoals agenda en planning; verslagen; notities tijdens een les; samenvattingen en schema's van studieteksten.<br>
-<br>
-25 De leerlingen kunnen op structurerend niveau tekstsoorten schrijven bestemd voor een onbekend publiek. Het betreft tekstsoorten zoals sollicitatiebrieven voor vakantiejobs; vragen om inlichtingen; relevante formulieren; zakelijke brieven.<br>
-<br>
-26 De leerlingen kunnen op beoordelend niveau tekstsoorten schrijven bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals lezersbrieven; recensies.<br>
-<br>
-27 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de schrijftaken:<br>
-<br>
-- hun schrijfdoel(en) bepalen;<br>
-<br>
-- het bedoeld publiek beschrijven;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- gericht informatie zoeken, ordenen en verwerken;<br>
-<br>
-- een logische tekstopbouw creëren met aandacht voor inhoudelijke en functionele relaties;<br>
-<br>
-- eigen tekst reviseren;<br>
-<br>
-- inhouds- en vormconventies van de taal verzorgen;<br>
-<br>
-- gebruik maken van informatie- en communicatietechnologie.<br>
-<br>
-28 De leerlingen kunnen een schrijfstrategie kiezen naar gelang van schrijfdoel en tekstsoorten ze toepassen.<br>
-<br>
-*29 De leerlingen zijn binnen de gepaste situaties bereid om:<br>
-<br>
-- te schrijven;<br>
-<br>
-- schriftelijk informatie te verstrekken;<br>
-<br>
-- te reflecteren op hun eigen schrijfproces en op inhoud en vorm van hun schrijfproduct;<br>
-<br>
-- taal, indeling, spelling, handschrift en lay-out te verzorgen.<br>
-<br>
-5. Literatuur<br>
-<br>
-30 De leerlingen kunnen vanuit een tekstervarende manier van lezen:<br>
-<br>
-- verschillen aanwijzen in de benadering van de werkelijkheid in:<br>
-<br>
-- fictie en non-fictie;<br>
-<br>
-- verhaal, gedicht, toneeltekst;<br>
-<br>
-- twee stromingen.<br>
-<br>
-- enkele literaire vormen herkennen<br>
-<br>
-- column, verhaal, (jeugd)roman, jeugdpoëzie;<br>
-<br>
-- strip, tv-drama, soap, jeugdtheater.<br>
-<br>
-- in de teksten die ze lezen enkele verhaalelementen herkennen: personages, spanning, thema, tijd, ruimte, ik- en hijverteller.<br>
-<br>
-- de keuze van sommige verhaalelementen toelichten: personages, tijd, ruimte.<br>
-<br>
-31 De leerlingen kunnen:<br>
-<br>
-- hun tekstkeuze toelichten;<br>
-<br>
-- hun leeservaring verwoorden (inhoud van het werk weergeven, eigen- mening weergeven);<br>
-<br>
-- hun tekstkeuze en leeservaring documenteren.<br>
-<br>
-32 De leerlingen kunnen informatie over literatuur verzamelen en gebruiken. Zij maken hierbij kennis met het aanbod van informatiekanalen zoals: bibliotheek, krant, tijdschrift, radio- en tv-programma's, multimedia.<br>
-<br>
+12 De leerlingen kunnen op beoordelend niveau aan een onbekend publiek :<br>
+• inlichtingen vragen, aanvragen doen, klachten/bezwaren formuleren in het kader van het schools functioneren en van de vrije tijd (rechtstreeks of telefonisch);<br>
+• activerende boodschappen formuleren.<br>
+13 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de spreektaken :<br>
+• hun spreek- en gespreksdoel(en) bepalen;<br>
+• hun publiek beschrijven;<br>
+• hun voorkennis inzetten;<br>
+• naargelang van de spreek-, gespreksdoel(en) en publiek :<br>
+• gericht informatie selecteren en in een duidelijke vorm verwoorden;<br>
+• bijkomende info vragen;<br>
+• hun taalgebruik aanpassen;<br>
+• inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen en verwoorden;<br>
+• visuele informatie gebruiken;<br>
+• non-verbaal gedrag observeren en verwoorden;<br>
+• gespreksconventies hanteren om gesprekken te beginnen, te onderbreken, gaande te houden en af te sluiten;<br>
+• argumenten herkennen en aanbrengen;<br>
+• adequaat reageren op de inbreng van gesprekspartner(s).<br>
+14* De leerlingen zijn binnen de gepaste communicatiesituaties bereid om :<br>
+• te spreken;<br>
+• Algemeen Nederlands te spreken;<br>
+• een kritische houding aan te nemen tegenover hun eigen spreek- en gespreksgedrag.<br>
+3 Lezen<br>
+15 De leerlingen kunnen op structurerend niveau tekstsoorten lezen bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals tijdschriftartikelen, recensies, gebruiksaanwijzingen, instructie- en studieteksten.<br>
+16 De leerlingen kunnen op structurerend niveau tekstsoorten lezen bestemd voor een onbekend publiek. Het betreft tekstsoorten zoals schema's en tabellen, onderschriften bij informerende en diverterende programma's, verslagen, hyperteksten.<br>
+17 De leerlingen kunnen op beoordelend niveau tekstsoorten lezen bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals notities, informatieve teksten, inclusief informatiebronnen, zakelijke brieven, reclameteksten en advertenties, fictionele teksten (cf. literatuur).<br>
+18 De leerlingen kunnen op beoordelend niveau tekstsoorten lezen bestemd voor een onbekend publiek : informatieve teksten en informatiebronnen, zowel in gedrukte als elektronische vorm :<br>
+• van praktische aard (zoals spoorboekje, vakantieregeling);<br>
+• van encyclopedische aard (zoals woordenboek, catalogus).<br>
+19 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de leestaken :<br>
+• hun leesdoel(en) bepalen;<br>
+• het (de) tekstdoel(en) vaststellen;<br>
+• hun voorkennis inzetten;<br>
+• functie van beeld en opmaak in een tekst herkennen;<br>
+• onderwerp en hoofdgedachte(n) aanduiden;<br>
+• de structuur van een tekst in grote lijnen aanduiden;<br>
+• inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen.<br>
+20 De leerlingen kunnen een leesstrategie kiezen naargelang van leesdoel en tekstsoort en ze toepassen (oriënterend, zoekend, globaal en intensief).<br>
+21 De leerlingen kunnen verschillende strategieën aanwenden om aan onbekende woorden betekenis toe te kennen. Het gaat om het gebruiken van :<br>
+• de context;<br>
+• de voorkennis van taal en wereld;<br>
+• de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
+• het woordenboek.<br>
+22* De leerlingen zijn bereid om :<br>
+• te lezen;<br>
+• lezend informatie te verzamelen over een bepaald onderwerp;<br>
+• de verkregen informatie aan eigen kennis en inzicht te toetsen en te vergelijken met informatie uit andere bronnen;<br>
+• hun persoonlijk oordeel over bepaalde teksten te formuleren.<br>
+4 Schrijven<br>
+23 De leerlingen kunnen op structurerend niveau tekstsoorten schrijven bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals instructies, affiches, uitnodigingen.<br>
+24 De leerlingen kunnen op structurerend niveau tekstsoorten schrijven bestemd voor een bekende volwassene. Het betreft tekstsoorten zoals agenda en planning, verslagen, notities tijdens een les, samenvattingen en schema's van studieteksten.<br>
+25 De leerlingen kunnen op structurerend niveau tekstsoorten schrijven bestemd voor een onbekend publiek. Het betreft tekstsoorten zoals sollicitatiebrieven voor vakantiejobs, vragen om inlichtingen, relevante formulieren, zakelijke brieven.<br>
+26 De leerlingen kunnen op beoordelend niveau tekstsoorten schrijven bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals lezersbrieven, recensies.<br>
+27 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de schrijftaken :<br>
+• hun schrijfdoel(en) bepalen;<br>
+• het bedoeld publiek beschrijven;<br>
+• hun voorkennis inzetten;<br>
+• gericht informatie zoeken, ordenen en verwerken;<br>
+• een logische tekstopbouw creëren met aandacht voor inhoudelijke en functionele relaties;<br>
+• eigen tekst reviseren;<br>
+• inhouds- en vormconventies van de taal verzorgen;<br>
+• gebruik maken van informatie- en communicatietechnologie.<br>
+28 De leerlingen kunnen een schrijfstrategie kiezen naargelang van schrijfdoel en tekstsoort en ze toepassen.<br>
+29* De leerlingen zijn binnen de gepaste situaties bereid om :<br>
+• te schrijven;<br>
+• schriftelijk informatie te verstrekken;<br>
+• te reflecteren op hun eigen schrijfproces en op inhoud en vorm van hun schrijfproduct;<br>
+• taal, indeling, spelling, handschrift en lay-out te verzorgen.<br>
+5 Literatuur<br>
+30 De leerlingen kunnen vanuit een tekstervarende manier van lezen :<br>
+• verschillen aanwijzen in de benadering van de werkelijkheid in :<br>
+• fictie en non-fictie;<br>
+• verhaal, gedicht, toneeltekst;<br>
+• twee stromingen;<br>
+• enkele literaire vormen herkennen :<br>
+• column, verhaal, (jeugd)roman, jeugdpoëzie;<br>
+• strip, tv-drama, soap, jeugdtheater;<br>
+• in de teksten die ze lezen enkele verhaalelementen herkennen : personages, spanning, thema, tijd, ruimte, ik- en hijverteller;<br>
+• de keuze van sommige verhaalelementen toelichten : personages, tijd, ruimte.<br>
+31 De leerlingen kunnen :<br>
+• hun tekstkeuze toelichten;<br>
+• hun leeservaring verwoorden (inhoud van het werk weergeven, eigen mening weergeven);<br>
+• hun tekstkeuze en leeservaring documenteren.<br>
+32 De leerlingen kunnen informatie over literatuur verzamelen en gebruiken. Zij maken hierbij kennis met het aanbod van informatiekanalen zoals : bibliotheek, krant, tijdschrift, radio- en tv-programma's, multimedia.<br>
 33 De leerlingen kunnen bij deze activiteiten gebruik maken van de gepaste leesstrategieën (cf. eindterm 20).<br>
+34* De leerlingen zijn bereid om :<br>
+• literaire teksten te lezen;<br>
+• over hun eigen literaire leeservaring te spreken en te schrijven.<br>
+6 Taalbeschouwing<br>
+Attitudes<br>
+35* De leerlingen zijn bereid om op hun niveau :<br>
+• bewust te reflecteren op taalgebruik en taalsysteem;<br>
+• van de verworven inzichten gebruik te maken bij verbale en non-verbale communicatie.<br>
+36* Bij het reflecteren op verbale en non-verbale communicatie tonen de leerlingen interesse in en respect voor de persoon van de ander, en voor de eigen en andermans cultuur.<br>
+Taalgebruik<br>
+37 Met het oog op doeltreffende communicatie kunnen de leerlingen op hun niveau in voor hen relevante taalgebruikssituaties bewust reflecteren op een aantal aspecten van het taalgebruik.<br>
+Ze kunnen de hiernavolgende verschijnselen herkennen en onderzoeken :<br>
+37.1 in het tekstuele domein<br>
+• verbanden tussen tekstdelen : alinea-zin, inleiding-midden-slot;<br>
+• structuuraanduiders : verbindingswoorden, signaalwoorden, verwijswoorden;<br>
+• betekenisrelaties : middel-doel, chronologische relatie, oorzaak-gevolg, voordelen-nadelen, voor-tegen;<br>
+• status van een uitspraak : feit-mening;<br>
+37.2 in het sociolinguïstische domein<br>
+• Standaardnederlands en andere standaardtalen;<br>
+• nationale, regionale, sociale en situationele taalvariëteiten;<br>
+• in onze samenleving voorkomende talen;<br>
+37.3 in het pragmatische domein<br>
+• de belangrijkste factoren van een communicatiesituatie : zender, ontvanger, boodschap, bedoeling, effect, situatie, kanaal;<br>
+• normen, conventies, houdingen, vooroordelen en rolgedrag via taal;<br>
+• voor hen relevante taalhandelingen;<br>
+• voor hen relevante non-verbale communicatie;<br>
+• de gevolgen van hun verbale en non-verbale communicatie voor anderen en henzelf;<br>
+• talige aspecten van cultuuruitingen in onze samenleving.<br>
+Taalsysteem<br>
+38 Met het oog op doeltreffende communicatie kunnen de leerlingen op hun niveau in voor hen relevante taalgebruikssituaties bewust reflecteren op een aantal aspecten van het taalsysteem.<br>
+Ze kunnen de hierna volgende verschijnselen herkennen en onderzoeken :<br>
+38.1. in het fonologische domein<br>
+• de klanken van het Nederlands : klinker, tweeklank, medeklinker;<br>
+38.2. in het orthografische domein<br>
+• vormcorrectheid, spellingconventies en hulpmiddelen bij de spelling van woorden en bij interpunctie;<br>
+38.3. in het morfologische domein<br>
+• de woordsoorten;<br>
+• tegenwoordige- en verledentijdsvormen en voltooide deelwoorden van werkwoorden;<br>
+38.4. in het syntactische domein<br>
+zinsdelen<br>
+• de belangrijkste zinsdelen :<br>
+• gezegde : naamwoordelijk en werkwoordelijk;<br>
+• onderwerp;<br>
+• lijdend voorwerp en meewerkend voorwerp;<br>
+• bijwoordelijke bepaling;<br>
+zin<br>
+• mededelende zin, vragende zin en gebiedende zin;<br>
+38.5. in het semantische domein<br>
+woordsemantiek<br>
+• woordbetekenis : betekenis, gevoelswaarde;<br>
+• betekenisrelaties : homoniemen, synoniemen, antoniemen;<br>
+• letterlijke en figuurlijke betekenis, beeldspraak.<br>
+Strategieën<br>
+39 De leerlingen kunnen op hun niveau bewust reflecteren op luister-, spreek-, interactie-, lees- en schrijfstrategieën.<br>
+* Met het oog op de controle door de inspectie werden de attitudes met een * aangeduid.<br>
 <br>
-*34 De leerlingen zijn bereid om:<br>
-<br>
-- literaire teksten te lezen;<br>
-<br>
-- over hun eigen literaire leeservaring te spreken en te schrijven.<br>
-<br>
-6. Taalbeschouwing<br>
-<br>
-35 De leerlingen kunnen volgende verschijnselen in het taalgebruik herkennen, benoemen en het voorkomen ervan bespreken:<br>
-<br>
-- verbanden tussen informatiedelen (tekstopbouw):<br>
-<br>
-- alinea en zin/uiting;<br>
-<br>
-- inleiding-midden-slot;<br>
-<br>
-- middel-doel;<br>
-<br>
-- oorzaak-gevolg;<br>
-<br>
-- opsomming en classificatie.<br>
-<br>
-- betekenis van informatie (tekstopbouw):<br>
-<br>
-- feiten en meningen;<br>
-<br>
-- voor- en nadelen;<br>
-<br>
-- pro's en contra's;<br>
-<br>
-- overeenkomsten en verschillen.<br>
-<br>
-- interactionele aspecten van de communicatie:<br>
-<br>
-- taalregister;<br>
-<br>
-- taalvariatie: conventie en afwijking;<br>
-<br>
-- gevoelswaarde;<br>
-<br>
-- figuurlijk taalgebruik.<br>
-<br>
-- woordleer:<br>
-<br>
-- afleiding;<br>
-<br>
-- samenstelling.<br>
-<br>
-- zinsleer:<br>
-<br>
-- directe en indirecte rede;<br>
-<br>
-- actieve en passieve zinnen;<br>
-<br>
-- enkelvoudige en samengestelde zinnen.<br>
-<br>
-36 De leerlingen kennen de verschillende strategieën om aan onbekende woorden betekenis te geven. Het gaat om het gebruiken van:<br>
-<br>
-- de context;<br>
-<br>
-- de voorkennis van taal en wereld;<br>
-<br>
-- de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
-<br>
-- het woordenboek.<br>
-<br>
-37 De leerlingen kunnen hun eigen taaltaken bijsturen door middel van herkenning, benoeming en bespreking van taalverschijnselen.<br>
-<br>
-*38 De leerlingen zijn bereid om over hun eigen taalgebruik en het taalsysteem na te denken.<br>
 <br>
 G. WISKUNDE - KSO<br>
 <br>
@@ -3396,307 +3128,178 @@ De leerlingen<br>
 <br>
 F. NEDERLANDS - TSO<br>
 <br>
-1. Luisteren (koppeling Spreken/Gesprekken voeren)<br>
-<br>
+1 Luisteren (koppeling Spreken/gesprekken voeren)<br>
 1 De leerlingen kunnen op structurerend niveau luisteren naar uiteenzettingen, probleemstellingen door een bekende volwassene m.b.t. een leerstofonderdeel bestemd voor bekende leeftijdgenoten.<br>
-<br>
-2 De leerlingen kunnen op structurerend niveau luisteren naar tekstsoorten bestemd voor bekende volwassenen. Het betreft tekstsoorten zoals verslagen van feiten en evenementen; presentaties van informatie die m.b.t. een bepaalde opdracht werd verzameld; presentaties van persoonlijke ervaringen en interesses.<br>
-<br>
-3 De leerlingen kunnen op structurerend niveau luisteren naar tekstsoorten bestemd voor een onbekend publiek. Het betreft tekstsoorten zoals instructies; informatieve programma's, interviews, praatprogramma's, journaals, aangeboden via diverse media en multimediale informatiedragers.<br>
-<br>
-4 De leerlingen kunnen op beoordelend niveau luisteren naar tekstsoorten bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals activerende boodschappen; standpunten, meningen in probleemoplossende discussies.<br>
-<br>
-5 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de luistertaken:<br>
-<br>
-- hun luisterdoel(en) bepalen;<br>
-<br>
-- het (de) tekstdoel(en) vaststellen;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- bijkomende informatie vragen;<br>
-<br>
-- onderwerp en hoofdgedachte(n) identificeren;<br>
-<br>
-- gericht informatie selecteren en ordenen;<br>
-<br>
-- inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen;<br>
-<br>
-- de functie van bijgeleverde visuele informatie vaststellen;<br>
-<br>
-- het taalgebruik van de spreker inschatten;<br>
-<br>
-- aandacht tonen voor het non-verbale gedrag van de gesprekspartner/spreker.<br>
-<br>
-6 De leerlingen kunnen een luisterstrategie kiezen naar gelang van luisterdoel(en) en tekst-soorten ze toepassen (oriënterend, zoekend, globaal en intensief).<br>
-<br>
-*7 De leerlingen zijn binnen de gepaste communicatiesituaties bereid om:<br>
-<br>
-- te luisteren;<br>
-<br>
-- een onbevooroordeelde luisterhouding aan te nemen;<br>
-<br>
-- een ander te laten uitspreken;<br>
-<br>
-- te reflecteren op hun eigen luisterhouding;<br>
-<br>
-- het beluisterde te toetsen aan eigen kennis en inzichten.<br>
-<br>
-2. Spreken/Gesprekken voeren (koppeling uisteren)<br>
-<br>
+2 De leerlingen kunnen op structurerend niveau luisteren naar tekstsoorten bestemd voor bekende volwassenen. Het betreft tekstsoorten zoals verslagen van feiten en evenementen, presentaties van informatie die m.b.t. een bepaalde opdracht werd verzameld, presentaties van persoonlijke ervaringen en interesses.<br>
+3 De leerlingen kunnen op structurerend niveau luisteren naar tekstsoorten bestemd voor een onbekend publiek. Het betreft tekstsoorten zoals instructies, informatieve programma's, interviews, praatprogramma's, journaals, aangeboden via diverse media en multimediale informatiedragers.<br>
+4 De leerlingen kunnen op beoordelend niveau luisteren naar tekstsoorten bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals activerende boodschappen, standpunten/meningen in probleemoplossende discussies.<br>
+5 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de luistertaken :<br>
+• hun luisterdoel(en) bepalen;<br>
+• het (de) tekstdoel(en) vaststellen;<br>
+• hun voorkennis inzetten;<br>
+• onderwerp en hoofdgedachte(n) identificeren;<br>
+• gericht informatie selecteren en ordenen;<br>
+• inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen;<br>
+• de functie van bijgeleverde visuele informatie vaststellen;<br>
+• het taalgebruik van de spreker inschatten;<br>
+• aandacht tonen voor het non-verbale gedrag van de gesprekspartner/spreker.<br>
+6 De leerlingen kunnen een luisterstrategie kiezen naargelang van luisterdoel(en) en tekstsoort en ze toepassen (oriënterend, zoekend, globaal en intensief).<br>
+7* De leerlingen zijn binnen de gepaste communicatiesituaties bereid om :<br>
+• te luisteren;<br>
+• een onbevooroordeelde luisterhouding aan te nemen;<br>
+• een ander te laten uitspreken;<br>
+• te reflecteren op hun eigen luisterhouding;<br>
+• het beluisterde te toetsen aan eigen kennis en inzichten.<br>
+2 Spreken/gesprekken voeren (koppeling Luisteren)<br>
 8 De leerlingen kunnen op structurerend niveau aan onbekende leeftijdgenoten instructies geven voor een spel en het hanteren van apparatuur.<br>
-<br>
-9 De leerlingen kunnen op structurerend niveau:<br>
-<br>
-- aan een bekende volwassene vragen stellen en antwoorden formuleren m.b.t. leerstofonderdelen in schoolvakken;<br>
-<br>
-- ten aanzien van een bekende volwassene:<br>
-<br>
-- de informatie presenteren die ze in het kader van een bepaalde opdracht hebben verzameld;<br>
-<br>
-- gevoelens uitdrukken, persoonlijke ervaringen en interesses presenteren.<br>
-<br>
-10 De leerlingen kunnen op structurerend niveau voor een onbekend publiek:<br>
-<br>
-- routes, situaties, personen beschrijven;<br>
-<br>
-- gebeurtenissen verslaan.<br>
-<br>
+9 De leerlingen kunnen op structurerend niveau :<br>
+• aan een bekende volwassene vragen stellen en antwoorden formuleren m.b.t. leerstofonderdelen in schoolvakken;<br>
+• ten aanzien van een bekende volwassene :<br>
+• de informatie presenteren die ze in het kader van een bepaalde opdracht hebben verzameld;<br>
+• gevoelens uitdrukken, persoonlijke ervaringen en interesses presenteren.<br>
+10 De leerlingen kunnen op structurerend niveau voor een onbekend publiek :<br>
+• routes, situaties, personen beschrijven;<br>
+• gebeurtenissen verslaan.<br>
 11 De leerlingen kunnen op beoordelend niveau voor bekende leeftijdgenoten hun standpunten/meningen of hun oplossingswijzen voor problemen in een gedachtewisseling uiteenzetten en motiveren.<br>
-<br>
-12 De leerlingen kunnen op beoordelend niveau aan een onbekend publiek:<br>
-<br>
-- inlichtingen vragen, aanvragen doen, klachten/bezwaren formuleren in het kader van het schools functioneren en van de vrije tijd (rechtstreeks of telefonisch);<br>
-<br>
-- activerende boodschappen formuleren.<br>
-<br>
-13 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de spreektaken:<br>
-<br>
-- hun spreek- en gespreksdoel(en) bepalen;<br>
-<br>
-- hun publiek beschrijven;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- naar gelang van de spreek-, gespreksdoel(en) en publiek :<br>
-<br>
-- gericht informatie selecteren en in een duidelijke vorm verwoorden;<br>
-<br>
-- bijkomende info vragen;<br>
-<br>
-- hun taalgebruik aanpassen;<br>
-<br>
-- inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen en verwoorden;<br>
-<br>
-- visuele informatie gebruiken;<br>
-<br>
-- non-verbaal gedrag observeren en verwoorden.<br>
-<br>
-- gespreksconventies hanteren om gesprekken te beginnen, te onderbreken, gaande te houden en af te sluiten;<br>
-<br>
-- argumenten herkennen en aanbrengen;<br>
-<br>
-- adequaat reageren op de inbreng van gesprekspartner(s).<br>
-<br>
-*14 De leerlingen zijn binnen de gepaste communicatiesituaties bereid om:<br>
-<br>
-- te spreken;<br>
-<br>
-- Algemeen Nederlands te spreken;<br>
-<br>
-- een kritische houding aan te nemen tegenover hun eigen spreek- en gespreksgedrag.<br>
-<br>
-3. Lezen<br>
-<br>
-15 De leerlingen kunnen op structurerend niveau tekstsoorten lezen bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals tijdschriftartikelen; recensies; gebruiksaanwijzingen; instructie- en studieteksten.<br>
-<br>
-16 De leerlingen kunnen op structurerend niveau tekstsoorten lezen bestemd voor een onbekend publiek. Het betreft tekstsoorten zoals schema's en tabellen; onderschriften bij informerende en diverterende programma's; verslagen; hyperteksten.<br>
-<br>
-17 De leerlingen kunnen op beoordelend niveau tekstsoorten lezen bestemd voor onbekende leeftijdgenoten lezen op beoordelend niveau. Het betreft tekstsoorten zoals notities; informatieve teksten, inclusief informatiebronnen; zakelijke brieven; reclameteksten en advertenties; fictionele teksten (cf. literatuur).<br>
-<br>
-18 De leerlingen kunnen op beoordelend niveau tekstsoorten lezen bestemd voor een onbekend publiek: informatieve teksten en informatiebronnen, zowel in gedrukte als elektronische vorm:<br>
-<br>
-- van praktische aard (zoals spoorboekje, vakantieregeling);<br>
-<br>
-- van encyclopedische aard (zoals woordenboek, catalogus).<br>
-<br>
-19 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de leestaken:<br>
-<br>
-- hun leesdoel(en) bepalen;<br>
-<br>
-- het (de) tekstdoel(en) vaststellen;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- functie van beeld en opmaak in een tekst herkennen;<br>
-<br>
-- onderwerp en hoofdgedachte(n) aanduiden;<br>
-<br>
-- de structuur van een tekst in grote lijnen aanduiden;<br>
-<br>
-- inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen.<br>
-<br>
-20 De leerlingen kunnen een leesstrategie kiezen naar gelang van leesdoel en tekstsoorten ze toepassen (oriënterend, zoekend, globaal en intensief).<br>
-<br>
-21 De leerlingen kunnen verschillende strategieën aanwenden om aan onbekende woorden betekenis toe te kennen. Het gaat om het gebruiken van:<br>
-<br>
-- de context;<br>
-<br>
-- de voorkennis van taal en wereld;<br>
-<br>
-- de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
-<br>
-- het woordenboek.<br>
-<br>
-*22 De leerlingen zijn bereid om:<br>
-<br>
-- te lezen;<br>
-<br>
-- lezend informatie te verzamelen over een bepaald onderwerp;<br>
-<br>
-- de verkregen informatie aan eigen kennis en inzicht te toetsen en te vergelijken met informatie uit andere bronnen;<br>
-<br>
-- hun persoonlijk oordeel over bepaalde teksten te formuleren.<br>
-<br>
-4. Schrijven<br>
-<br>
-23 De leerlingen kunnen op structurerend niveau tekstsoorten schrijven bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals instructies; affiches; uitnodigingen.<br>
-<br>
-24 De leerlingen kunnen op structurerend niveau tekstsoorten schrijven bestemd voor een bekende volwassene. Het betreft tekstsoorten zoals agenda en planning; verslagen; notities tijdens een les; samenvattingen en schema's van studieteksten.<br>
-<br>
-25 De leerlingen kunnen op structurerend niveau tekstsoorten schrijven bestemd voor een onbekend publiek. Het betreft tekstsoorten zoals sollicitatiebrieven voor vakantiejobs; vragen om inlichtingen; relevante formulieren; zakelijke brieven.<br>
-<br>
-26 De leerlingen kunnen op beoordelend niveau tekstsoorten schrijven bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals lezersbrieven; recensies.<br>
-<br>
-27 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de schrijftaken:<br>
-<br>
-- hun schrijfdoel(en) bepalen;<br>
-<br>
-- het bedoeld publiek beschrijven;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- gericht informatie zoeken, ordenen en verwerken;<br>
-<br>
-- een logische tekstopbouw creëren met aandacht voor inhoudelijke en functionele relaties;<br>
-<br>
-- eigen tekst reviseren;<br>
-<br>
-- inhouds- en vormconventies van de taal verzorgen;<br>
-<br>
-- gebruik maken van informatie- en communicatietechnologie.<br>
-<br>
-28 De leerlingen kunnen een schrijfstrategie kiezen naar gelang van schrijfdoel en tekstsoorten ze toepassen.<br>
-<br>
-*29 De leerlingen zijn binnen de gepaste situaties bereid om:<br>
-<br>
-- te schrijven;<br>
-<br>
-- schriftelijk informatie te verstrekken;<br>
-<br>
-- te reflecteren op hun eigen schrijfproces en op inhoud en vorm van hun schrijfproduct;<br>
-<br>
-- taal, indeling, spelling, handschrift en lay-out te verzorgen.<br>
-<br>
-5. Literatuur<br>
-<br>
-30 De leerlingen kunnen vanuit een tekstervarende manier van lezen:<br>
-<br>
-- verschillen aanwijzen in de benadering van de werkelijkheid in:<br>
-<br>
-- fictie en non-fictie;<br>
-<br>
-- verhaal, gedicht, toneeltekst.<br>
-<br>
-- enkele literaire vormen herkennen<br>
-<br>
-- column, verhaal, (jeugd)roman, jeugdpoëzie;<br>
-<br>
-- strip, tv-drama, soap, jeugdtheater.<br>
-<br>
-- in de teksten die ze lezen enkele verhaalelementen herkennen: personages, spanning, thema, tijd, ruimte, ik- en hijverteller.<br>
-<br>
-31 De leerlingen kunnen:<br>
-<br>
-- hun tekstkeuze toelichten;<br>
-<br>
-- hun leeservaring verwoorden (inhoud van het werk weergeven, eigen mening weergeven);<br>
-<br>
-- hun tekstkeuze en leeservaring documenteren.<br>
-<br>
-32 De leerlingen kunnen informatie over literatuur verzamelen en gebruiken. Zij maken hierbij kennis met het aanbod van informatiekanalen zoals: bibliotheek, krant, tijdschrift, radio- en tv-program-ma's, multimedia.<br>
-<br>
+12 De leerlingen kunnen op beoordelend niveau aan een onbekend publiek :<br>
+• inlichtingen vragen, aanvragen doen, klachten/bezwaren formuleren in het kader van het schools functioneren en van de vrije tijd (rechtstreeks of telefonisch);<br>
+• activerende boodschappen formuleren.<br>
+13 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de spreektaken :<br>
+• hun spreek- en gespreksdoel(en) bepalen;<br>
+• hun publiek beschrijven;<br>
+• hun voorkennis inzetten;<br>
+• naargelang van de spreek-, gespreksdoel(en) en publiek :<br>
+• gericht informatie selecteren en in een duidelijke vorm verwoorden;<br>
+• bijkomende info vragen;<br>
+• hun taalgebruik aanpassen;<br>
+• inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen en verwoorden;<br>
+• visuele informatie gebruiken;<br>
+• non-verbaal gedrag observeren en verwoorden;<br>
+• gespreksconventies hanteren om gesprekken te beginnen, te onderbreken, gaande te houden en af te sluiten;<br>
+• argumenten herkennen en aanbrengen;<br>
+• adequaat reageren op de inbreng van gesprekspartner(s).<br>
+14* De leerlingen zijn binnen de gepaste communicatiesituaties bereid om :<br>
+• te spreken;<br>
+• Algemeen Nederlands te spreken;<br>
+• een kritische houding aan te nemen tegenover hun eigen spreek- en gespreksgedrag.<br>
+3 Lezen<br>
+15 De leerlingen kunnen op structurerend niveau tekstsoorten lezen bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals tijdschriftartikelen, recensies, gebruiksaanwijzingen, instructie- en studieteksten.<br>
+16 De leerlingen kunnen op structurerend niveau tekstsoorten lezen bestemd voor een onbekend publiek. Het betreft tekstsoorten zoals schema's en tabellen, onderschriften bij informerende en diverterende programma's, verslagen, hyperteksten.<br>
+17 De leerlingen kunnen op beoordelend niveau tekstsoorten lezen bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals notities, informatieve teksten, inclusief informatiebronnen, zakelijke brieven, reclameteksten en advertenties, fictionele teksten (cf. literatuur).<br>
+18 De leerlingen kunnen op beoordelend niveau tekstsoorten lezen bestemd voor een onbekend publiek : informatieve teksten en informatiebronnen, zowel in gedrukte als elektronische vorm :<br>
+• van praktische aard (zoals spoorboekje, vakantieregeling);<br>
+• van encyclopedische aard (zoals woordenboek, catalogus).<br>
+19 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de leestaken :<br>
+• hun leesdoel(en) bepalen;<br>
+• het (de) tekstdoel(en) vaststellen;<br>
+• hun voorkennis inzetten;<br>
+• functie van beeld en opmaak in een tekst herkennen;<br>
+• onderwerp en hoofdgedachte(n) aanduiden;<br>
+• de structuur van een tekst in grote lijnen aanduiden;<br>
+• inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen.<br>
+20 De leerlingen kunnen een leesstrategie kiezen naargelang van leesdoel en tekstsoort en ze toepassen (oriënterend, zoekend, globaal en intensief).<br>
+21 De leerlingen kunnen verschillende strategieën aanwenden om aan onbekende woorden betekenis toe te kennen. Het gaat om het gebruiken van :<br>
+• de context;<br>
+• de voorkennis van taal en wereld;<br>
+• de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
+• het woordenboek.<br>
+22* De leerlingen zijn bereid om :<br>
+• te lezen;<br>
+• lezend informatie te verzamelen over een bepaald onderwerp;<br>
+• de verkregen informatie aan eigen kennis en inzicht te toetsen en te vergelijken met informatie uit andere bronnen;<br>
+• hun persoonlijk oordeel over bepaalde teksten te formuleren.<br>
+4 Schrijven<br>
+23 De leerlingen kunnen op structurerend niveau tekstsoorten schrijven bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals instructies, affiches, uitnodigingen.<br>
+24 De leerlingen kunnen op structurerend niveau tekstsoorten schrijven bestemd voor een bekende volwassene. Het betreft tekstsoorten zoals agenda en planning, verslagen, notities tijdens een les, samenvattingen en schema's van studieteksten.<br>
+25 De leerlingen kunnen op structurerend niveau tekstsoorten schrijven bestemd voor een onbekend publiek. Het betreft tekstsoorten zoals sollicitatiebrieven voor vakantiejobs, vragen om inlichtingen, relevante formulieren, zakelijke brieven.<br>
+26 De leerlingen kunnen op beoordelend niveau tekstsoorten schrijven bestemd voor onbekende leeftijdgenoten. Het betreft tekstsoorten zoals lezersbrieven, recensies.<br>
+27 De leerlingen kunnen bij de planning en uitvoering van en bij de reflectie op de schrijftaken :<br>
+• hun schrijfdoel(en) bepalen;<br>
+• het bedoeld publiek beschrijven;<br>
+• hun voorkennis inzetten;<br>
+• gericht informatie zoeken, ordenen en verwerken;<br>
+• een logische tekstopbouw creëren met aandacht voor inhoudelijke en functionele relaties;<br>
+• eigen tekst reviseren;<br>
+• inhouds- en vormconventies van de taal verzorgen;<br>
+• gebruik maken van informatie- en communicatietechnologie.<br>
+28 De leerlingen kunnen een schrijfstrategie kiezen naargelang van schrijfdoel en tekstsoort en ze toepassen.<br>
+29* De leerlingen zijn binnen de gepaste situaties bereid om :<br>
+• te schrijven;<br>
+• schriftelijk informatie te verstrekken;<br>
+• te reflecteren op hun eigen schrijfproces en op inhoud en vorm van hun schrijfproduct;<br>
+• taal, indeling, spelling, handschrift en lay-out te verzorgen.<br>
+5 Literatuur<br>
+30 De leerlingen kunnen vanuit een tekstervarende manier van lezen :<br>
+• verschillen aanwijzen in de benadering van de werkelijkheid in :<br>
+• fictie en non-fictie;<br>
+• verhaal, gedicht, toneeltekst;<br>
+• twee stromingen;<br>
+• enkele literaire vormen herkennen :<br>
+• column, verhaal, (jeugd)roman, jeugdpoëzie;<br>
+• strip, tv-drama, soap, jeugdtheater;<br>
+• in de teksten die ze lezen enkele verhaalelementen herkennen : personages, spanning, thema, tijd, ruimte, ik- en hijverteller;<br>
+• de keuze van sommige verhaalelementen toelichten : personages, tijd, ruimte.<br>
+31 De leerlingen kunnen :<br>
+• hun tekstkeuze toelichten;<br>
+• hun leeservaring verwoorden (inhoud van het werk weergeven, eigen mening weergeven);<br>
+• hun tekstkeuze en leeservaring documenteren.<br>
+32 De leerlingen kunnen informatie over literatuur verzamelen en gebruiken. Zij maken hierbij kennis met het aanbod van informatiekanalen zoals : bibliotheek, krant, tijdschrift, radio- en tv-programma's, multimedia.<br>
 33 De leerlingen kunnen bij deze activiteiten gebruik maken van de gepaste leesstrategieën (cf. eindterm 20).<br>
-<br>
-*34 De leerlingen zijn bereid om:<br>
-<br>
-- literaire teksten te lezen;<br>
-<br>
-- over hun eigen literaire leeservaring te spreken en te schrijven.<br>
-<br>
-6. Taalbeschouwing<br>
-<br>
-35 De leerlingen kunnen volgende verschijnselen in het taalgebruik herkennen, benoemen en het voorkomen ervan bespreken:<br>
-<br>
-- verbanden tussen informatiedelen (tekstopbouw):<br>
-<br>
-- alinea en zin/uiting;<br>
-<br>
-- inleiding-midden-slot;<br>
-<br>
-- middel-doel;<br>
-<br>
-- oorzaak-gevolg;<br>
-<br>
-- opsomming en classificatie.<br>
-<br>
-- betekenis van informatie (tekstopbouw):<br>
-<br>
-- feiten en meningen;<br>
-<br>
-- voor- en nadelen;<br>
-<br>
-- pro's en contra's;<br>
-<br>
-- overeenkomsten en verschillen.<br>
-<br>
-- interactionele aspecten van de communicatie:<br>
-<br>
-- taalregister;<br>
-<br>
-- taalvariatie: conventie en afwijking;<br>
-<br>
-- gevoelswaarde;<br>
-<br>
-- figuurlijk taalgebruik.<br>
-<br>
-- woordleer:<br>
-<br>
-- afleiding;<br>
-<br>
-- samenstelling.<br>
-<br>
-- zinsleer:<br>
-<br>
-- directe en indirecte rede;<br>
-<br>
-- actieve en passieve zinnen;<br>
-<br>
-- enkelvoudige en samengestelde zinnen.<br>
-<br>
-36 De leerlingen kennen de verschillende strategieën om aan onbekende woorden betekenis te geven. Het gaat om het gebruiken van:<br>
-<br>
-- de context;<br>
-<br>
-- de voorkennis van taal en wereld;<br>
-<br>
-- de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
-<br>
-- het woordenboek.<br>
-<br>
-37 De leerlingen kunnen hun eigen taaltaken bijsturen door middel van herkenning, benoeming en bespreking van taalverschijnselen.<br>
-<br>
-*38 De leerlingen zijn bereid om over hun eigen taalgebruik en het taalsysteem na te denken.<br>
+34* De leerlingen zijn bereid om :<br>
+• literaire teksten te lezen;<br>
+• over hun eigen literaire leeservaring te spreken en te schrijven.<br>
+6 Taalbeschouwing<br>
+Attitudes<br>
+35* De leerlingen zijn bereid om op hun niveau :<br>
+• bewust te reflecteren op taalgebruik en taalsysteem;<br>
+• van de verworven inzichten gebruik te maken bij verbale en non-verbale communicatie.<br>
+36* Bij het reflecteren op verbale en non-verbale communicatie tonen de leerlingen interesse in en respect voor de persoon van de ander, en voor de eigen en andermans cultuur.<br>
+Taalgebruik<br>
+37 Met het oog op doeltreffende communicatie kunnen de leerlingen op hun niveau in voor hen relevante taalgebruikssituaties bewust reflecteren op een aantal aspecten van het taalgebruik.<br>
+Ze kunnen de hiernavolgende verschijnselen herkennen en onderzoeken :<br>
+37.1 in het tekstuele domein<br>
+• verbanden tussen tekstdelen : alinea-zin, inleiding-midden-slot;<br>
+• structuuraanduiders : verbindingswoorden, signaalwoorden, verwijswoorden;<br>
+• betekenisrelaties : middel-doel, chronologische relatie, oorzaak-gevolg, voordelen-nadelen, voor-tegen;<br>
+• status van een uitspraak : feit-mening;<br>
+37.2 in het sociolinguïstische domein<br>
+• Standaardnederlands en andere standaardtalen;<br>
+• nationale, regionale, sociale en situationele taalvariëteiten;<br>
+• in onze samenleving voorkomende talen;<br>
+37.3 in het pragmatische domein<br>
+• de belangrijkste factoren van een communicatiesituatie : zender, ontvanger, boodschap, bedoeling, effect, situatie, kanaal;<br>
+• normen, conventies, houdingen, vooroordelen en rolgedrag via taal;<br>
+• voor hen relevante taalhandelingen;<br>
+• voor hen relevante non-verbale communicatie;<br>
+• de gevolgen van hun verbale en non-verbale communicatie voor anderen en henzelf;<br>
+• talige aspecten van cultuuruitingen in onze samenleving.<br>
+Taalsysteem<br>
+38 Met het oog op doeltreffende communicatie kunnen de leerlingen op hun niveau in voor hen relevante taalgebruikssituaties bewust reflecteren op een aantal aspecten van het taalsysteem.<br>
+Ze kunnen de hierna volgende verschijnselen herkennen en onderzoeken :<br>
+38.1. in het fonologische domein<br>
+• de klanken van het Nederlands : klinker, tweeklank, medeklinker;<br>
+38.2. in het orthografische domein<br>
+• vormcorrectheid, spellingconventies en hulpmiddelen bij de spelling van woorden en bij interpunctie;<br>
+38.3. in het morfologische domein<br>
+• de woordsoorten;<br>
+• tegenwoordige- en verledentijdsvormen en voltooide deelwoorden van werkwoorden;<br>
+38.4. in het syntactische domein<br>
+zinsdelen<br>
+• de belangrijkste zinsdelen :<br>
+• gezegde : naamwoordelijk en werkwoordelijk;<br>
+• onderwerp;<br>
+• lijdend voorwerp en meewerkend voorwerp;<br>
+• bijwoordelijke bepaling;<br>
+zin<br>
+• mededelende zin, vragende zin en gebiedende zin;<br>
+38.5. in het semantische domein<br>
+woordsemantiek<br>
+• woordbetekenis : betekenis, gevoelswaarde;<br>
+• betekenisrelaties : homoniemen, synoniemen, antoniemen;<br>
+• letterlijke en figuurlijke betekenis, beeldspraak.<br>
+Strategieën<br>
+39 De leerlingen kunnen op hun niveau bewust reflecteren op luister-, spreek-, interactie-, lees- en schrijfstrategieën.<br>
+* Met het oog op de controle door de inspectie werden de attitudes met een * aangeduid.<br>
 <br>
 G. WISKUNDE - TSO<br>
 <br>
@@ -4855,319 +4458,205 @@ F22 met behulp van elektromagnetische inductie de werking van de generator besch
 <br>
 G. NEDERLANDS - ASO<br>
 <br>
-1. Luisteren<br>
-<br>
+1 Luisteren<br>
 1 De leerlingen kunnen op structurerend niveau luisteren naar uiteenzettingen en probleemstellingen door een bekende volwassene m.b.t. een leerstofonderdeel bestemd voor bekende leeftijdgenoten en ze kunnen die schriftelijk weergeven (cf. schrijven).<br>
-<br>
-2 De leerlingen kunnen op beoordelend niveau via diverse media en multimediale informatiedragers luisteren naar de volgende tekstsoorten bestemd voor een onbekend publiek:<br>
-<br>
-- diverterende teksten zoals praatprogramma's;<br>
-<br>
-- informatieve teksten, zoals verslagen van feiten en ervaringen;<br>
-<br>
-- persuasieve teksten, zoals standpunten en meningen in probleemoplossende discussies;<br>
-<br>
-- activerende teksten, zoals reclameboodschappen.<br>
-<br>
-3 De leerlingen kunnen verschillende strategieën aanwenden om aan onbekende woorden betekenis toe te kennen. Het gaat om het gebruiken van:<br>
-<br>
-- de context;<br>
-<br>
-- de eigen voorkennis;<br>
-<br>
-- de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
-<br>
-- het woordenboek.<br>
-<br>
-4 Bij de planning, uitvoering van en bij de reflectie over de luistertaken kunnen de leerlingen:<br>
-<br>
-- hun luisterdoel(en) bepalen;<br>
-<br>
-- het (de) tekstdoel(en) vaststellen;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- onderwerp en hoofdgedachte identificeren;<br>
-<br>
-- gericht informatie selecteren en ordenen;<br>
-<br>
-- bijkomende informatie vragen;<br>
-<br>
-- inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen;<br>
-<br>
-- de functie van bijgeleverde visuele informatie vaststellen (koppeling kijken);<br>
-<br>
-- het taalgebruik van de spreker inschatten;<br>
-<br>
-- aandacht tonen voor het non-verbale gedrag van de gesprekspartner/spreker.<br>
-<br>
-5 De leerlingen kunnen de geschikte luisterstrategieën toepassen naar gelang van hun luisterdoel(en), achtergrondkennis en tekstsoort (oriënterend, zoekend, globaal en intensief).<br>
-<br>
-6 * De leerlingen zijn bereid om:<br>
-<br>
-- te luisteren;<br>
-<br>
-- een onbevooroordeelde luisterhouding aan te nemen;<br>
-<br>
-- een ander te laten uitspreken;<br>
-<br>
-- te reflecteren over hun eigen luisterhouding;<br>
-<br>
-- het beluisterde te toetsen aan eigen kennis en inzichten.<br>
-<br>
-2. Spreken/gesprekken voeren<br>
-<br>
+2 De leerlingen kunnen op beoordelend niveau via diverse media en multimediale informatiedragers luisteren naar de volgende tekstsoorten bestemd voor een onbekend publiek :<br>
+• diverterende teksten zoals praatprogramma's;<br>
+• informatieve teksten zoals verslagen van feiten en ervaringen;<br>
+• persuasieve teksten zoals standpunten en meningen in probleemoplossende discussies;<br>
+• activerende teksten zoals reclameboodschappen.<br>
+3 De leerlingen kunnen verschillende strategieën aanwenden om aan onbekende woorden betekenis toe te kennen. Het gaat om het gebruiken van :<br>
+• de context;<br>
+• de eigen voorkennis;<br>
+• de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
+• het woordenboek.<br>
+4 Bij de planning, uitvoering van en bij de reflectie op de luistertaken kunnen de leerlingen :<br>
+• hun luisterdoel(en) bepalen;<br>
+• het (de) tekstdoel(en) vaststellen;<br>
+• hun voorkennis inzetten;<br>
+• onderwerp en hoofdgedachte identificeren;<br>
+• gericht informatie selecteren en ordenen;<br>
+• bijkomende informatie vragen;<br>
+• inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen;<br>
+• de functie van bijgeleverde visuele informatie vaststellen (koppeling kijken);<br>
+• het taalgebruik van de spreker inschatten;<br>
+• aandacht tonen voor het non-verbale gedrag van de gesprekspartner/spreker.<br>
+5 De leerlingen kunnen de geschikte luisterstrategieën toepassen naargelang van hun luisterdoel(en), achtergrondkennis en tekstsoort (oriënterend, zoekend, globaal en intensief).<br>
+6* De leerlingen zijn bereid om :<br>
+• te luisteren;<br>
+• een onbevooroordeelde luisterhouding aan te nemen;<br>
+• een ander te laten uitspreken;<br>
+• te reflecteren over hun eigen luisterhouding;<br>
+• het beluisterde te toetsen aan eigen kennis en inzichten.<br>
+2 Spreken/gesprekken voeren<br>
 7 De leerlingen kunnen op structurerend niveau aan een bekende volwassene vragen stellen en antwoorden formuleren m.b.t. leerstofonderdelen in de schoolvakken.<br>
-<br>
-8 De leerlingen kunnen op structurerend niveau t.a.v. een onbekend publiek:<br>
-<br>
-- instructies geven;<br>
-<br>
-- gedocumenteerde informatie presenteren;<br>
-<br>
-- een sollicitatiegesprek voeren.<br>
-<br>
-9 De leerlingen kunnen op beoordelend niveau aan een onbekend publiek:<br>
-<br>
-- inlichtingen vragen, aanvragen doen, klachten/bezwaren formuleren (rechtstreeks of door middel van de telefoon);<br>
-<br>
-- standpunten/meningen of oplossingen voor problemen uiteenzetten en motiveren in een gedachtewisseling, discussie, (werk)vergadering;<br>
-<br>
-- gevoelens in een gepast register uitdrukken en persoonlijke ervaringen presenteren;<br>
-<br>
-- activerende boodschappen formuleren.<br>
-<br>
-10 Bij de planning, uitvoering van en bij de reflectie over de spreektaken/gesprekstaken kunnen de leerlingen:<br>
-<br>
-- hun eigen spreek- en gespreksdoel(en) bepalen;<br>
-<br>
-- zich een beeld vormen van hun publiek;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- naargelang van de spreek-, gespreksdoel(en) en publiek:<br>
-<br>
-- gericht informatie selecteren en in een duidelijke vorm ver-woorden;<br>
-<br>
-- bijkomende info vragen;<br>
-<br>
-- hun taalgebruik aanpassen;<br>
-<br>
-- inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen en verwoorden;<br>
-<br>
-- visuele informatie gebruiken;<br>
-<br>
-- non-verbaal gedrag inschatten en inzetten;<br>
-<br>
-- gespreksconventies hanteren om gesprekken te beginnen, te onderbreken, gaande te houden en af te sluiten;<br>
-<br>
-- argumenten herkennen en aanbrengen;<br>
-<br>
-- adequaat reageren op de inbreng van gesprekspartner(s).<br>
-<br>
-11 * De leerlingen zijn binnen de gepaste communicatiesituaties bereid om:<br>
-<br>
-- te spreken;<br>
-<br>
-- algemeen Nederlands te spreken;<br>
-<br>
-- een kritische houding aan te nemen tegenover hun eigen spreek- en gespreksgedrag.<br>
-<br>
-3. Lezen<br>
-<br>
+8 De leerlingen kunnen op structurerend niveau t.a.v. - een onbekend publiek :<br>
+• instructies geven;<br>
+• gedocumenteerde informatie presenteren;<br>
+• een sollicitatiegesprek voeren.<br>
+9 De leerlingen kunnen op beoordelend niveau aan een onbekend publiek :<br>
+• inlichtingen vragen, aanvragen doen, klachten/bezwaren formuleren (rechtstreeks of door middel van de telefoon);<br>
+• standpunten/meningen of oplossingen voor problemen uiteenzetten en motiveren in een gedachtewisseling, discussie, (werk)vergadering;<br>
+• gevoelens in een gepast register uitdrukken en persoonlijke ervaringen presenteren;<br>
+• activerende boodschappen formuleren.<br>
+10 Bij de planning, uitvoering van en bij de reflectie op de spreektaken/gesprekstaken kunnen de leerlingen :<br>
+• hun eigen spreek- en gespreksdoel(en) bepalen;<br>
+• zich een beeld vormen van hun publiek;<br>
+• hun voorkennis inzetten;<br>
+• naargelang van de spreek-, gespreksdoel(en) en publiek :<br>
+• gericht informatie selecteren en in een duidelijke vorm verwoorden;<br>
+• bijkomende info vragen;<br>
+• hun taalgebruik aanpassen;<br>
+• inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen en verwoorden;<br>
+• visuele informatie gebruiken;<br>
+• non-verbaal gedrag inschatten en inzetten;<br>
+• gespreksconventies hanteren om gesprekken te beginnen, te onderbreken, gaande te houden en af te sluiten;<br>
+• argumenten herkennen en aanbrengen;<br>
+• adequaat reageren op de inbreng van gesprekspartner(s).<br>
+11 De leerlingen zijn binnen de gepaste communicatiesituaties bereid om :<br>
+• te spreken;<br>
+• algemeen Nederlands te spreken;<br>
+• een kritische houding aan te nemen tegenover hun eigen spreek- en gespreksgedrag.<br>
+3 Lezen<br>
 12 De leerlingen kunnen op structurerend niveau formulieren en administratieve teksten voor een onbekend publiek lezen.<br>
-<br>
 13 De leerlingen kunnen op beoordelend niveau teksten met studiedoeleinden voor onbekende leeftijdgenoten lezen.<br>
-<br>
-14 De leerlingen kunnen volgende tekstsoorten voor een onbekend publiek op beoordelend niveau lezen:<br>
-<br>
-- niet-fictionele teksten:<br>
-<br>
-- informatieve teksten, inclusief informatiebronnen: zoals schema's en tabellen, verslagen, hyperteksten en uiteenzettingen;<br>
-<br>
-- persuasieve teksten: zoals een opiniestuk, een betoog;<br>
-<br>
-- activerende teksten: zoals reclameteksten en advertenties, instructies.<br>
-<br>
-- fictionele teksten (cf. literatuur).<br>
-<br>
-15 De leerlingen kunnen verschillende strategieën aanwenden om aan onbekende woorden betekenis toe te kennen. Het gaat om het gebruiken van:<br>
-<br>
-- de context;<br>
-<br>
-- de eigen voorkennis;<br>
-<br>
-- de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
-<br>
-- het woordenboek.<br>
-<br>
-16 Bij de planning, uitvoering van en bij de reflectie over hun taken kunnen de leerlingen:<br>
-<br>
-- hun eigen leesdoel(en) bepalen;<br>
-<br>
-- het (de) tekstdoel(en) vaststellen;<br>
-<br>
-- de tekstsoort bepalen;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- functie van beeld en opmaak in een tekst herkennen ;<br>
-<br>
-- inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen;<br>
-<br>
-- de structuur van een tekst aanduiden;<br>
-<br>
-- onderwerp en hoofdgedachten aanduiden en parafraseren om tekstbegrip te bevorderen;<br>
-<br>
-- gelezen teksten kort samenvatten;<br>
-<br>
-- feiten en meningen onderscheiden;<br>
-<br>
-- argumenten in een tekst op hun waarde en relevantie beoordelen;<br>
-<br>
-- info selecteren en gebruiken met behulp van verschillende informatiekanalen.<br>
-<br>
-17 De leerlingen kunnen een leesstrategie kiezen naar gelang van hun leesdoel en tekstsoort, en ze toepassen (oriënterend, zoekend, globaal en intensief).<br>
-<br>
-18 * De leerlingen zijn bereid om:<br>
-<br>
-- te lezen;<br>
-<br>
-- lezend informatie te verzamelen over een bepaald onderwerp;<br>
-<br>
-- de verkregen informatie aan eigen kennis en inzicht te toetsen en te vergelijken met informatie uit andere bronnen;<br>
-<br>
-- te reflecteren op inhoud en vorm van de teksten;<br>
-<br>
-- hun persoonlijk oordeel over bepaalde teksten te formuleren, in vraag te stellen en eventueel te herzien.<br>
-<br>
-4. Schrijven<br>
-<br>
+14 De leerlingen kunnen volgende tekstsoorten voor een onbekend publiek op beoordelend niveau lezen :<br>
+• niet-fictionele teksten :<br>
+• informatieve teksten, inclusief informatiebronnen zoals schema's en tabellen, verslagen, hyperteksten en uiteenzettingen;<br>
+• persuasieve teksten zoals een opiniestuk, een betoog;<br>
+• activerende teksten zoals reclameteksten en advertenties, instructies;<br>
+• fictionele teksten (cf. literatuur).<br>
+15 De leerlingen kunnen verschillende strategieën aanwenden om aan onbekende woorden betekenis toe te kennen. Het gaat om het gebruiken van :<br>
+• de context;<br>
+• de eigen voorkennis;<br>
+• de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
+• het woordenboek.<br>
+16 Bij de planning, uitvoering van en bij de reflectie op hun taken kunnen de leerlingen :<br>
+• hun eigen leesdoel(en) bepalen;<br>
+• het (de) tekstdoel(en) vaststellen;<br>
+• de tekstsoort bepalen;<br>
+• hun voorkennis inzetten;<br>
+• functie van beeld en opmaak in een tekst herkennen;<br>
+• inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen;<br>
+• de structuur van een tekst aanduiden;<br>
+• onderwerp en hoofdgedachten aanduiden en parafraseren om tekstbegrip te bevorderen;<br>
+• gelezen teksten kort samenvatten;<br>
+• feiten en meningen onderscheiden;<br>
+• argumenten in een tekst op hun waarde en relevantie beoordelen;<br>
+• info selecteren en gebruiken met behulp van verschillende informatiekanalen.<br>
+17 De leerlingen kunnen een leesstrategie kiezen naargelang van hun leesdoel en tekstsoort, en ze toepassen (oriënterend, zoekend, globaal en intensief).<br>
+18* De leerlingen zijn bereid om :<br>
+• te lezen;<br>
+• lezend informatie te verzamelen over een bepaald onderwerp;<br>
+• de verkregen informatie aan eigen kennis en inzicht te toetsen en te vergelijken met informatie uit andere bronnen;<br>
+• te reflecteren op inhoud en vorm van de teksten;<br>
+• hun persoonlijk oordeel over bepaalde teksten te formuleren, in vraag te stellen en eventueel te herzien.<br>
+4 Schrijven<br>
 19 De leerlingen kunnen op structurerend niveau voor een onbekend publiek tekstsoorten schrijven zoals :<br>
-<br>
-- schema's en samenvattingen van gelezen en beluisterde informatie en studieteksten;<br>
-<br>
-- instructies;<br>
-<br>
-- uitnodigingen.<br>
-<br>
+• schema's en samenvattingen van gelezen en beluisterde informatie en studieteksten;<br>
+• instructies;<br>
+• uitnodigingen.<br>
 20 De leerlingen kunnen voor een onbekend publiek op beoordelend niveau tekstsoorten schrijven zoals :<br>
-<br>
-- verslagen;<br>
-<br>
-- sollicitatiebrieven en cv's;<br>
-<br>
-- zakelijke brieven;<br>
-<br>
-- gedocumenteerde en beargumenteerde teksten.<br>
-<br>
-21 Bij de planning, uitvoering van en bij de reflectie over hun schrijftaken kunnen de leerlingen:<br>
-<br>
-- hun eigen schrijfdoel(en) bepalen;<br>
-<br>
-- hun bedoeld publiek bepalen;<br>
-<br>
-- hun tekstsoort bepalen;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- gericht informatie zoeken, ordenen en verwerken;<br>
-<br>
-- een logische tekstopbouw creëren met aandacht voor inhoudelijke en functionele relaties;<br>
-<br>
-- eigen tekst reviseren;<br>
-<br>
-- inhouds- en vormconventies van de taal verzorgen;<br>
-<br>
-- lay-out verzorgen;<br>
-<br>
-- correct citeren (bronvermelding);<br>
-<br>
-- gebruik maken van ICT.<br>
-<br>
-22 * De leerlingen zijn bereid om:<br>
-<br>
-- te schrijven;<br>
-<br>
-- schriftelijk informatie te verstrekken;<br>
-<br>
-- te reflecteren over inhoud en vorm van hun eigen schrijfproces en -product;<br>
-<br>
-- taal, indeling, spelling, handschrift en lay-out te verzorgen.<br>
-<br>
-5. Literatuur<br>
-<br>
-23 De leerlingen kunnen vanuit een tekstervarende en tekstbestuderende manier van lezen:<br>
-<br>
-- literaire teksten uit heden en verleden interpreteren, analyseren en evalueren. Zij kunnen daarbij verbanden leggen:<br>
-<br>
-- binnen teksten;<br>
-<br>
-- tussen teksten;<br>
-<br>
-- tussen teksten en het brede socioculturele veld;<br>
-<br>
-- tussen tekst en auteur;<br>
-<br>
-- tussen teksten en hun multimediale vormgeving;<br>
-<br>
-- verslag uitbrengen over de eigen ervaringen met literaire teksten uit heden en verleden en kunnen deze ervaringen toetsen aan andere in-terpretaties van en aan waardeoordelen over teksten.<br>
-<br>
-In de hierbovenvermelde activiteiten komen aan bod:<br>
-<br>
-- poëzie, proza;<br>
-<br>
-- theatervoorstelling.<br>
-<br>
+• verslagen;<br>
+• sollicitatiebrieven en CV's;<br>
+• zakelijke brieven;<br>
+• gedocumenteerde en beargumenteerde teksten.<br>
+21 Bij de planning, uitvoering van en bij de reflectie op hun schrijftaken kunnen de leerlingen :<br>
+• hun eigen schrijfdoel(en) bepalen;<br>
+• hun bedoeld publiek bepalen;<br>
+• hun tekstsoort bepalen;<br>
+• hun voorkennis inzetten;<br>
+• gericht informatie zoeken, ordenen en verwerken;<br>
+• een logische tekstopbouw creëren met aandacht voor inhoudelijke en functionele relaties;<br>
+• eigen tekst reviseren;<br>
+• inhouds- en vormconventies van de taal verzorgen;<br>
+• lay-out verzorgen;<br>
+• correct citeren (bronvermelding);<br>
+• gebruik maken van ICT.<br>
+22* De leerlingen zijn bereid om :<br>
+• te schrijven;<br>
+• schriftelijk informatie te verstrekken;<br>
+• te reflecteren over inhoud en vorm van hun eigen schrijfproces en -product;<br>
+• taal, indeling, spelling, handschrift en lay-out te verzorgen.<br>
+5 Literatuur<br>
+23 De leerlingen kunnen vanuit een tekstervarende en tekstbestuderende manier van lezen :<br>
+• literaire teksten uit heden en verleden interpreteren, analyseren en evalueren. Zij kunnen daarbij verbanden leggen :<br>
+• binnen teksten;<br>
+• tussen teksten;<br>
+• tussen teksten en het brede socioculturele veld;<br>
+• tussen tekst en auteur;<br>
+• tussen teksten en hun multimediale vormgeving;<br>
+• verslag uitbrengen over de eigen ervaringen met literaire teksten uit heden en verleden en kunnen deze ervaringen toetsen aan andere interpretaties van en aan waardeoordelen over teksten.<br>
+In de hierbovenvermelde activiteiten komen aan bod :<br>
+• poëzie, proza;<br>
+• theatervoorstelling.<br>
 24 De leerlingen kunnen hun tekstkeuze en hun leeservaring beschrijven, evalueren en documenteren in een leesdossier.<br>
-<br>
-25 De leerlingen kunnen informatie over literaire teksten verzamelen en verwerken. Zij kunnen hierbij gebruik maken van informatiekanalen: bibliotheek, kranten en tijdschriften, radio- en tv-programma's, internet en cd-rom.<br>
-<br>
+25 De leerlingen kunnen informatie over literaire teksten verzamelen en verwerken. Zij kunnen hierbij gebruik maken van informatiekanalen : bibliotheek, kranten en tijdschriften, radio- en tv-programma's, internet en cd-rom.<br>
 26 De leerlingen kunnen bij deze activiteiten gebruik maken van de gepaste leesstrategieën (cf. eindterm 17).<br>
-<br>
 27 De leerlingen kunnen doelbewust gegevens, begrippen en werkwijzen hanteren om de bovengenoemde taken uit te voeren.<br>
-<br>
-28 * De leerlingen zijn bereid om:<br>
-<br>
-- literaire teksten te lezen;<br>
-<br>
-- over hun eigen leeservaring met anderen te spreken en erover te schrijven;<br>
-<br>
-- hun leeservaring in maatschappelijke context(en) te plaatsen;<br>
-<br>
-- hun persoonlijke leeservaring te toetsen aan die van anderen.<br>
-<br>
-6. Taalbeschouwing<br>
-<br>
-29 De leerlingen kunnen in het taalgebruik volgende taalverschijnselen herkennen, benoemen en bespreken:<br>
-<br>
-- register, sociaal bepaalde varianten, regionale varianten, vaktalen;<br>
-<br>
-- non-verbale elementen;<br>
-<br>
-- een aantal tekststructuren: evaluatie-, probleem-, maatregel- en on-derzoeksstructuur.<br>
-<br>
-30 De leerlingen kunnen een betoog op controleerbaarheid en samenhang beoordelen en drogredenen onderkennen.<br>
-<br>
-31 De leerlingen kunnen de onderlinge samenhang tussen belangrijke componenten (morfologie, syntaxis, semantiek) van het taalsysteem herken-nen, benoemen en bespreken.<br>
-<br>
-32 De leerlingen kunnen de invloed van maatschappij, geschiedenis en politiek op het taalgebruik en taalsysteem herkennen en bespreken.<br>
-<br>
-33 De leerlingen kennen de verschillende strategieën om aan onbekende woorden betekenis toe te kennen en kunnen die hanteren. Het gaat om het gebruik van:<br>
-<br>
-- de context;<br>
-<br>
-- de eigen voorkennis;<br>
-<br>
-- de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
-<br>
-- het woordenboek.<br>
-<br>
-34 De leerlingen kennen de principes van ons spellingsysteem.<br>
-<br>
-35 De leerlingen kunnen hun taaltaken bijsturen door middel van herkenning, benoeming en bespreking van taalverschijnselen.<br>
-<br>
-36 * De leerlingen zijn bereid om over hun taalgebruik en het taalsysteem na te denken.<br>
+28* De leerlingen zijn bereid om :<br>
+• literaire teksten te lezen;<br>
+• over hun eigen leeservaring met anderen te spreken en erover te schrijven;<br>
+• hun leeservaring in maatschappelijke context(en) te plaatsen;<br>
+• hun persoonlijke leeservaring te toetsen aan die van anderen.<br>
+6 Taalbeschouwing<br>
+Attitudes<br>
+29* De leerlingen zijn bereid om op hun niveau :<br>
+• bewust te reflecteren op taalgebruik en taalsysteem;<br>
+• van de verworven inzichten gebruik te maken bij verbale en non-verbale communicatie.<br>
+30* Bij het reflecteren op verbale en non-verbale communicatie tonen de leerlingen interesse in en respect voor de persoon van de ander, en voor de eigen en andermans cultuur.<br>
+Taalgebruik<br>
+31 Met het oog op doeltreffende communicatie en verdiepende taalbeschouwelijke kennisontwikkeling kunnen de leerlingen op hun niveau in allerlei taalgebruikssituaties bewust reflecteren op een aantal aspecten van het taalgebruik.<br>
+Ze kunnen in aansluiting bij wetenschappelijke inzichten de hiernavolgende verschijnselen herkennen, onderzoeken en duiden :<br>
+31.1 in het tekstuele domein<br>
+• een aantal vaste tekststructuren zoals evaluatie-, probleem-, maatregel- en onderzoeksstructuur;<br>
+31.2 in het sociolinguïstische domein<br>
+• Nederlands en andere talen;<br>
+• nationale, regionale, sociale en situationele taalvariëteiten;<br>
+• dimensies van taalverandering : maatschappelijke, politieke, historische;<br>
+31.3 in het pragmatische domein<br>
+• de factoren van een communicatiesituatie;<br>
+• normen, conventies, waarden, houdingen, vooroordelen en rolgedrag via taal;<br>
+• taalhandelingen;<br>
+• argumentatie : argumentatiestructuren, deugdelijke argumenten en drogredenen, overtuigingskracht en manipulatie;<br>
+• non-verbale communicatie;<br>
+• de gevolgen van verbale en non-verbale communicatie voor anderen en henzelf;<br>
+• talige aspecten van cultuuruitingen;<br>
+• cultuurgebonden aspecten van verbale en non-verbale communicatie;<br>
+31.4 in het psycholinguïstische domein<br>
+• taal en denken;<br>
+• taalverwerving, twee- en meertaligheid.<br>
+Taalsysteem<br>
+32 Met het oog op doeltreffende communicatie en verdiepende taalbeschouwelijke kennisontwikkeling kunnen de leerlingen op hun niveau in aansluiting bij wetenschappelijke inzichten bewust reflecteren op het taalsysteem, zijn componenten en de onderlinge samenhang.<br>
+Ze kunnen de hiernavolgende verschijnselen herkennen, onderzoeken en duiden :<br>
+32.1 in het fonologische domein<br>
+• het onderscheid tussen klank, foneem en letter;<br>
+32.2 in het orthografische domein<br>
+• principes van de Nederlandse spelling;<br>
+32.3 in het morfologische domein<br>
+• de systematiek van woordvorming;<br>
+32.4 in het syntactische domein<br>
+woordgroepen<br>
+• woordgroepen;<br>
+zinsdelen<br>
+• zinsdelen;<br>
+zin<br>
+• actieve en passieve zinnen;<br>
+• zinstypen in relatie tot taalhandelingen;<br>
+32.5. in het semantische domein<br>
+woordsemantiek<br>
+• woordbetekenis : denotatie, connotatie en polysemie;<br>
+• betekenisrelaties : hyponymie en hyperonymie;<br>
+• betekenisverandering;<br>
+• stijlfiguren : eufemisme, dysfemisme, pleonasme, tautologie;<br>
+• metaforiek en metonymie;<br>
+zinssemantiek<br>
+• de semantiek van woordgroepen en zinsdelen;<br>
+• modaliteit;<br>
+• ontkenning.<br>
+Strategieën<br>
+33 De leerlingen kunnen op hun niveau bewust reflecteren op luister-, spreek-, interactie-, lees- en schrijfstrategieën.<br>
+* Met het oog op de controle door de inspectie werden de attitudes met een * aangeduid.<br>
 <br>
 H. WISKUNDE - ASO<br>
 <br>
@@ -5474,6 +4963,10 @@ De leerlingen<br>
 31 * zijn gemotiveerd om te zorgen voor de eigen gezondheid en het eigen welzijn en dat van anderen.<br>
 <br>
 32 * nemen spontaan een veilige houding aan in dagelijkse situaties.<br>
+<br>
+C. MODERNE VREEMDE TALEN: FRANS OF ENGELS<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/01/13_2.pdf#page=50" target="_blank">bijlage 7</a><br>
 <br>
 IX. VAKGEBONDEN EINDTERMEN DERDE GRAAD - KSO<br>
 <br>
@@ -5845,291 +5338,185 @@ ENGELS - FRANS<br>
 <br>
 E. NEDERLANDS - KSO<br>
 <br>
-1. Luisteren<br>
-<br>
-1 De leerlingen kunnen op structurerend niveau luisteren naar uiteenzettingen en probleemstellingen door een bekende volwassene m.b.t. een leerstofonderdeel bestemd voor bekende leeftijdgenoten en ze kunnen die schriftelijk weergeven (cf. schrijven).<br>
-<br>
-2 De leerlingen kunnen op beoordelend niveau via diverse media en multimediale informatiedragers luisteren naar de volgende tekstsoorten bestemd voor een onbekend publiek:<br>
-<br>
-- diverterende teksten zoals praatprogramma's;<br>
-<br>
-- informatieve teksten, zoals verslagen van feiten en ervaringen;<br>
-<br>
-- persuasieve teksten, zoals standpunten en meningen in probleemoplossende discussies;<br>
-<br>
-- activerende teksten, zoals reclameboodschappen.<br>
-<br>
-3 De leerlingen kunnen verschillende strategieën aanwenden om aan onbekende woorden betekenis toe te kennen. Het gaat om het gebruiken van:<br>
-<br>
-- de context;<br>
-<br>
-- de eigen voorkennis;<br>
-<br>
-- de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
-<br>
-- het woordenboek.<br>
-<br>
-4 Bij de planning, uitvoering van en bij de reflectie over de luistertaken kunnen de leerlingen:<br>
-<br>
-- hun luisterdoel(en) bepalen;<br>
-<br>
-- het (de) tekstdoel(en) vaststellen;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- onderwerp en hoofdgedachte identificeren;<br>
-<br>
-- gericht informatie selecteren en ordenen;<br>
-<br>
-- bijkomende informatie vragen;<br>
-<br>
-- inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen;<br>
-<br>
-- de functie van bijgeleverde visuele informatie vaststellen (koppeling kijken);<br>
-<br>
-- het taalgebruik van de spreker inschatten;<br>
-<br>
-- aandacht tonen voor het non-verbale gedrag van de gesprekspartner/spreker.<br>
-<br>
-5 De leerlingen kunnen de geschikte luisterstrategieën toepassen naar gelang van hun luisterdoel(en), achtergrondkennis en tekstsoort (oriënterend, zoekend, globaal en intensief).<br>
-<br>
-6 * De leerlingen zijn bereid om:<br>
-<br>
-- te luisteren;<br>
-<br>
-- een onbevooroordeelde luisterhouding aan te nemen;<br>
-<br>
-- een ander te laten uitspreken;<br>
-<br>
-- te reflecteren over hun eigen luisterhouding;<br>
-<br>
-- het beluisterde te toetsen aan eigen kennis en inzichten.<br>
-<br>
-2. Spreken/gesprekken voeren<br>
-<br>
+1 Luisteren<br>
+1 De leerlingen kunnen op structurerend niveau luisteren naar uiteenzettingen, en probleemstellingen door een bekende volwassene m.b.t. een leerstofonderdeel bestemd voor bekende leeftijdgenoten en ze kunnen die schriftelijk weergeven (cf. schrijven).<br>
+2 De leerlingen kunnen op beoordelend niveau via diverse media en multimediale informatiedragers luisteren naar de volgende tekstsoorten bestemd voor een onbekend publiek :<br>
+• diverterende teksten zoals praatprogramma's;<br>
+• informatieve teksten zoals verslagen van feiten en ervaringen;<br>
+• persuasieve teksten zoals standpunten en meningen in probleemoplossende discussies;<br>
+• activerende boodschappen.<br>
+3 De leerlingen kunnen verschillende strategieën aanwenden om aan onbekende woorden betekenis toe te kennen. Het gaat om het gebruiken van :<br>
+• de context;<br>
+• de eigen voorkennis;<br>
+• de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
+• het woordenboek.<br>
+4 Bij de planning, uitvoering van en bij de reflectie op de luistertaken kunnen de leerlingen :<br>
+• hun luisterdoel(en) bepalen;<br>
+• het (de) tekstdoel(en) vaststellen;<br>
+• hun voorkennis inzetten;<br>
+• onderwerp en hoofdgedachte identificeren;<br>
+• gericht informatie selecteren en ordenen;<br>
+• bijkomende informatie vragen;<br>
+• inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen;<br>
+• de functie van bijgeleverde visuele informatie vaststellen (koppeling kijken);<br>
+• het taalgebruik van de spreker inschatten;<br>
+• aandacht tonen voor het non-verbale gedrag van de gesprekspartner/spreker.<br>
+5 De leerlingen kunnen de geschikte luisterstrategieën toepassen naargelang van hun luisterdoel(en), achtergrondkennis en tekstsoort (oriënterend, zoekend, globaal en intensief).<br>
+6* De leerlingen zijn bereid om :<br>
+• te luisteren;<br>
+• een onbevooroordeelde luisterhouding aan te nemen;<br>
+• een ander te laten uitspreken;<br>
+• te reflecteren over hun eigen luisterhouding;<br>
+• het beluisterde te toetsen aan eigen kennis en inzichten.<br>
+2 Spreken/gesprekken voeren<br>
 7 De leerlingen kunnen op structurerend niveau aan een bekende volwassene vragen stellen en antwoorden formuleren m.b.t. leerstofonderdelen in de schoolvakken.<br>
-<br>
-8 De leerlingen kunnen op structurerend niveau t.a.v. een onbekend publiek:<br>
-<br>
-- instructies geven;<br>
-<br>
-- gedocumenteerde informatie presenteren;<br>
-<br>
-- een sollicitatiegesprek voeren.<br>
-<br>
-9 De leerlingen kunnen op beoordelend niveau aan een onbekend publiek:<br>
-<br>
-- inlichtingen vragen, aanvragen doen, klachten/bezwaren formuleren (rechtstreeks of door middel van de telefoon);<br>
-<br>
-- standpunten/meningen of oplossingen voor problemen uiteenzetten en motiveren in een gedachtewisseling, discussie, (werk)vergadering;<br>
-<br>
-- gevoelens in een gepast register uitdrukken en persoonlijke ervaringen presenteren;<br>
-<br>
-- activerende boodschappen formuleren.<br>
-<br>
-10 Bij de planning, uitvoering van en bij de reflectie over de spreektaken/gesprekstaken kunnen de leerlingen:<br>
-<br>
-- hun eigen spreek- en gespreksdoel(en) bepalen;<br>
-<br>
-- zich een beeld vormen van hun publiek;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- naargelang van de spreek-, gespreksdoel(en) en publiek:<br>
-<br>
-- gericht informatie selecteren en in een duidelijke vorm verwoorden;<br>
-<br>
-- bijkomende info vragen;<br>
-<br>
-- hun taalgebruik aanpassen;<br>
-<br>
-- inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen en verwoorden;<br>
-<br>
-- visuele informatie gebruiken;<br>
-<br>
-- non-verbaal gedrag inschatten en inzetten;<br>
-<br>
-- gespreksconventies hanteren om gesprekken te beginnen, te onderbreken, gaande te houden en af te sluiten;<br>
-<br>
-- argumenten herkennen en aanbrengen;<br>
-<br>
-- adequaat reageren op de inbreng van gesprekspartner(s).<br>
-<br>
-11 * De leerlingen zijn binnen de gepaste communicatiesituaties bereid om:<br>
-<br>
-- te spreken;<br>
-<br>
-- algemeen Nederlands te spreken;<br>
-<br>
-- een kritische houding aan te nemen tegenover hun eigen spreek- en gespreksgedrag.<br>
-<br>
-3. Lezen<br>
-<br>
+8 De leerlingen kunnen op structurerend niveau t.a.v. - een onbekend publiek :<br>
+• instructies geven;<br>
+• gedocumenteerde informatie presenteren;<br>
+• een sollicitatiegesprek voeren.<br>
+9 De leerlingen kunnen op beoordelend niveau aan een onbekend publiek :<br>
+• inlichtingen vragen, aanvragen doen, klachten/bezwaren formuleren (rechtstreeks of door middel van de telefoon);<br>
+• standpunten/meningen of oplossingen voor problemen uiteenzetten en motiveren in een gedachtewisseling, discussie, (werk)vergadering;<br>
+• gevoelens in een gepast register uitdrukken en persoonlijke ervaringen presenteren;<br>
+• activerende boodschappen formuleren.<br>
+10 Bij de planning, uitvoering van en bij de reflectie op de spreektaken kunnen de leerlingen :<br>
+• hun eigen spreek- en gespreksdoel(en) bepalen;<br>
+• zich een beeld vormen van hun publiek;<br>
+• hun voorkennis inzetten;<br>
+• naargelang van de spreek-, gespreksdoel(en) en publiek :<br>
+• gericht informatie selecteren en in een duidelijke vorm verwoorden;<br>
+• bijkomende info vragen;<br>
+• hun taalgebruik aanpassen;<br>
+• inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen en verwoorden;<br>
+• visuele informatie gebruiken;<br>
+• non-verbaal gedrag inschatten en inzetten;<br>
+• gespreksconventies hanteren om gesprekken te beginnen, te onderbreken, gaande te houden en af te sluiten;<br>
+• argumenten herkennen en aanbrengen;<br>
+• adequaat reageren op de inbreng van gesprekspartner(s).<br>
+11* De leerlingen zijn binnen de gepaste communicatiesituaties bereid om :<br>
+• te spreken;<br>
+• algemeen Nederlands te spreken;<br>
+• een kritische houding aan te nemen tegenover hun eigen spreek- en gespreksgedrag.<br>
+3 Lezen<br>
 12 De leerlingen kunnen op structurerend niveau formulieren en administratieve teksten voor een onbekend publiek lezen.<br>
-<br>
 13 De leerlingen kunnen op beoordelend niveau teksten met studiedoeleinden voor onbekende leeftijdgenoten lezen.<br>
-<br>
-14 De leerlingen kunnen volgende tekstsoorten voor een onbekend publiek op beoordelend niveau lezen:<br>
-<br>
-- niet-fictionele teksten:<br>
-<br>
-- informatieve teksten, inclusief informatiebronnen: zoals schema's en tabellen, verslagen, hyperteksten en uiteenzettingen;<br>
-<br>
-- persuasieve teksten: zoals een opiniestuk, een betoog;<br>
-<br>
-- activerende teksten: zoals reclameteksten en advertenties, instructies.<br>
-<br>
-- fictionele teksten (cf. literatuur).<br>
-<br>
-15 De leerlingen kunnen verschillende strategieën aanwenden om aan onbekende woorden betekenis toe te kennen. Het gaat om het gebruiken van:<br>
-<br>
-- de context;<br>
-<br>
-- de eigen voorkennis;<br>
-<br>
-- de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
-<br>
-- het woordenboek.<br>
-<br>
-16 Bij de planning, uitvoering van en bij de reflectie over hun taken kunnen de leerlingen:<br>
-<br>
-- hun eigen leesdoel(en) bepalen;<br>
-<br>
-- het (de) tekstdoel(en) vaststellen;<br>
-<br>
-- de tekstsoort bepalen;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- functie van beeld en opmaak in een tekst herkennen ;<br>
-<br>
-- inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen;<br>
-<br>
-- de structuur van een tekst aanduiden;<br>
-<br>
-- onderwerp en hoofdgedachten aanduiden en parafraseren om tekstbegrip te bevorderen;<br>
-<br>
-- gelezen teksten kort samenvatten;<br>
-<br>
-- feiten en meningen onderscheiden;<br>
-<br>
-- argumenten in een tekst op hun waarde en relevantie beoordelen;<br>
-<br>
-- info selecteren en gebruiken met behulp van verschillende informatiekanalen.<br>
-<br>
-17 De leerlingen kunnen een leesstrategie kiezen naar gelang van hun leesdoel en tekstsoort, en ze toepassen (oriënterend, zoekend, globaal en intensief).<br>
-<br>
-18 * De leerlingen zijn bereid om:<br>
-<br>
-- te lezen;<br>
-<br>
-- lezend informatie te verzamelen over een bepaald onderwerp;<br>
-<br>
-- de verkregen informatie aan eigen kennis en inzicht te toetsen en te vergelijken met informatie uit andere bronnen;<br>
-<br>
-- te reflecteren op inhoud en vorm van de teksten;<br>
-<br>
-- hun persoonlijk oordeel over bepaalde teksten te formuleren, in vraag te stellen en eventueel te herzien.<br>
-<br>
-4. Schrijven<br>
-<br>
+14 De leerlingen kunnen volgende tekstsoorten voor een onbekend publiek op beoordelend niveau lezen :<br>
+• niet-fictionele teksten :<br>
+• informatieve teksten, inclusief informatiebronnen zoals schema's en tabellen, verslagen, hyperteksten en uiteenzettingen;<br>
+• persuasieve teksten zoals een opiniestuk, een betoog;<br>
+• activerende teksten zoals reclameteksten en advertenties, instructies;<br>
+• fictionele teksten (cf. literatuur).<br>
+15 De leerlingen kunnen verschillende strategieën aanwenden om aan onbekende woorden betekenis toe te kennen. Het gaat om het gebruiken van :<br>
+• de context;<br>
+• de eigen voorkennis;<br>
+• de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
+• het woordenboek.<br>
+16 Bij de planning, uitvoering van en bij de reflectie op hun taken kunnen de leerlingen :<br>
+• hun eigen leesdoel(en) bepalen;<br>
+• het (de) tekstdoel(en) vaststellen;<br>
+• de tekstsoort bepalen;<br>
+• hun voorkennis inzetten;<br>
+• functie van beeld en opmaak in een tekst herkennen;<br>
+• inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen;<br>
+• de structuur van een tekst aanduiden;<br>
+• onderwerp en hoofdgedachten aanduiden en parafraseren om tekstbegrip te bevorderen;<br>
+• gelezen teksten kort samenvatten;<br>
+• feiten en meningen onderscheiden;<br>
+• argumenten in een tekst op hun waarde en relevantie beoordelen;<br>
+• info selecteren en gebruiken met behulp van verschillende informatiekanalen.<br>
+17 De leerlingen kunnen een leesstrategie kiezen naargelang van hun leesdoel en tekstsoort, en ze toepassen (oriënterend, zoekend, globaal en intensief).<br>
+18* De leerlingen zijn bereid om :<br>
+• te lezen;<br>
+• lezend informatie te verzamelen over een bepaald onderwerp;<br>
+• de verkregen informatie aan eigen kennis en inzicht te toetsen en te vergelijken met informatie uit andere bronnen;<br>
+• te reflecteren op inhoud en vorm van de teksten;<br>
+• hun persoonlijk oordeel over bepaalde teksten te formuleren, in vraag te stellen en eventueel te herzien.<br>
+4 Schrijven<br>
 19 De leerlingen kunnen op structurerend niveau voor een onbekend publiek tekstsoorten schrijven zoals :<br>
-<br>
-- schema's en samenvattingen van gelezen en beluisterde informatie en studieteksten;<br>
-<br>
-- instructies;<br>
-<br>
-- uitnodigingen.<br>
-<br>
+• schema's en samenvattingen van gelezen en beluisterde informatie;<br>
+• instructies.<br>
 20 De leerlingen kunnen voor een onbekend publiek op beoordelend niveau tekstsoorten schrijven zoals :<br>
-<br>
-- verslagen;<br>
-<br>
-- sollicitatiebrieven en cv's;<br>
-<br>
-- zakelijke brieven;<br>
-<br>
-- gedocumenteerde en beargumenteerde teksten.<br>
-<br>
-21 Bij de planning, uitvoering van en bij de reflectie over hun schrijftaken kunnen de leerlingen:<br>
-<br>
-- hun eigen schrijfdoel(en) bepalen;<br>
-<br>
-- hun bedoeld publiek bepalen;<br>
-<br>
-- hun tekstsoort bepalen;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- gericht informatie zoeken, ordenen en verwerken;<br>
-<br>
-- een logische tekstopbouw creëren met aandacht voor inhoudelijke en functionele relaties;<br>
-<br>
-- eigen tekst reviseren;<br>
-<br>
-- inhouds- en vormconventies van de taal verzorgen;<br>
-<br>
-- lay-out verzorgen;<br>
-<br>
-- correct citeren (bronvermelding);<br>
-<br>
-- gebruik maken van ICT.<br>
-<br>
-22 * De leerlingen zijn bereid om:<br>
-<br>
-- te schrijven;<br>
-<br>
-- schriftelijk informatie te verstrekken;<br>
-<br>
-- te reflecteren over inhoud en vorm van hun eigen schrijfproces en -product;<br>
-<br>
-- taal, indeling, spelling, handschrift en lay-out te verzorgen.<br>
-<br>
-5. Literatuur<br>
-<br>
+• verslagen;<br>
+• sollicitatiebrieven en CV's;<br>
+• zakelijke brieven;<br>
+• gedocumenteerde en beargumenteerde teksten.<br>
+21 Bij de planning, uitvoering van en bij de reflectie op hun schrijftaken kunnen de leerlingen :<br>
+• hun eigen schrijfdoel(en) bepalen;<br>
+• hun bedoeld publiek bepalen;<br>
+• hun tekstsoort bepalen;<br>
+• hun voorkennis inzetten;<br>
+• gericht informatie zoeken, ordenen en verwerken;<br>
+• een logische tekstopbouw creëren met aandacht voor inhoudelijke en functionele relaties;<br>
+• eigen tekst reviseren;<br>
+• inhouds- en vormconventies van de taal verzorgen;<br>
+• lay-out verzorgen;<br>
+• correct citeren (bronvermelding);<br>
+• gebruik maken van ICT.<br>
+22* De leerlingen zijn bereid om :<br>
+• te schrijven;<br>
+• schriftelijk informatie te verstrekken;<br>
+• te reflecteren over inhoud en vorm van hun eigen schrijfproces en -product;<br>
+• taal, indeling, spelling, handschrift en lay-out te verzorgen.<br>
+5 Literatuur<br>
 23 De leerlingen kunnen vanuit een tekstervarende manier van lezen vormelijke en inhoudelijke elementen van bijvoorbeeld proza, poëzie, theatervoorstelling, (tv)-drama, (ver)film(ing) herkennen.<br>
-<br>
 24 De leerlingen kunnen hun tekstkeuze toelichten, over hun leeservaring spreken en ze documenteren in een leesdossier.<br>
-<br>
-25 De leerlingen kunnen informatie over literaire teksten verzamelen en gebruiken. Zij maken hierbij gebruik van informatiekanalen zoals: bibliotheek, kranten en tijdschriften, radio- en tv-programma's, internet en cd-rom.<br>
-<br>
+25 De leerlingen kunnen informatie over literaire teksten verzamelen en gebruiken. Zij maken hierbij gebruik van informatiekanalen zoals bibliotheek, kranten en tijdschriften, radio- en tv-programma's, internet en cd-rom.<br>
 26 De leerlingen kunnen doelbewust gegevens en werkwijzen hanteren om de taken uit te voeren.<br>
-<br>
-27 * De leerlingen zijn bereid om:<br>
-<br>
-- literaire teksten te lezen;<br>
-<br>
-- over hun eigen leeservaring met anderen te spreken en erover te schrijven;<br>
-<br>
-- hun leeservaring in maatschappelijke context(en) te plaatsen.<br>
-<br>
-6. Taalbeschouwing<br>
-<br>
-28 De leerlingen kunnen volgende verschijnselen in het taalgebruik herkennen en benoemen:<br>
-<br>
-- register, sociaal bepaalde varianten, regionale varianten, vaktalen;<br>
-<br>
-- gevoelswaarde;<br>
-<br>
-- non-verbale elementen;<br>
-<br>
-- een aantal tekststructuren: evaluatie-, probleem-, maatregel- en onderzoeksstructuur.<br>
-<br>
-29 De leerlingen kennen de verschillende strategieën om aan onbekende woorden betekenis toe te kennen en kunnen die hanteren. Het gaat om het gebruik van:<br>
-<br>
-- de context;<br>
-<br>
-- de eigen voorkennis;<br>
-<br>
-- de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
-<br>
-- het woordenboek.<br>
-<br>
-30 De leerlingen kennen strategieën om een tekst juist te spellen.<br>
-<br>
-31 De leerlingen kunnen hun taaltaken bijsturen door middel van herkenning, benoeming en bespreking van taalverschijnselen.<br>
-<br>
-32 * De leerlingen zijn bereid om over hun taalgebruik na te denken.<br>
+27* De leerlingen zijn bereid om :<br>
+• literaire teksten te lezen;<br>
+• over hun eigen leeservaring met anderen te spreken en erover te schrijven;<br>
+• hun leeservaring in maatschappelijke context(en) te plaatsen.<br>
+6 Taalbeschouwing<br>
+Attitudes<br>
+28* De leerlingen zijn bereid om op hun niveau :<br>
+• bewust te reflecteren op taalgebruik en taalsysteem;<br>
+• van de verworven inzichten gebruik te maken bij verbale en non-verbale communicatie.<br>
+29* Bij het reflecteren op verbale en non-verbale communicatie tonen de leerlingen interesse in en respect voor de persoon van de ander, en voor de eigen en andermans cultuur.<br>
+Taalgebruik<br>
+30. Met het oog op doeltreffende communicatie en taalbeschouwelijke basiskennis kunnen de leerlingen op hun niveau in allerlei taalgebruikssituaties bewust reflecteren op een aantal aspecten van het taalgebruik.<br>
+Ze kunnen de hiernavolgende verschijnselen herkennen, onderzoeken en benoemen :<br>
+30.1 in het tekstuele domein<br>
+• vaste tekststructuren zoals evaluatiestructuur, handelingsstructuur;<br>
+• structuuraanduiders;<br>
+• betekenisrelaties;<br>
+• status van een uitspraak : feit-mening;<br>
+30.2 in het sociolinguïstische domein<br>
+• Nederlands en andere talen;<br>
+• nationale, regionale, sociale en situationele taalvariëteiten;<br>
+• elementen van taalverandering;<br>
+30.3 in het pragmatische domein<br>
+• de belangrijkste factoren van een communicatiesituatie;<br>
+• normen, conventies, waarden, houdingen, vooroordelen en rolgedrag via taal;<br>
+• voor hen relevante taalhandelingen;<br>
+• argumentatie : deugdelijke argumenten en drogredenen, overtuigingskracht en manipulatie;<br>
+• non-verbale communicatie;<br>
+• de gevolgen van verbale en non-verbale communicatie voor anderen en henzelf;<br>
+• talige aspecten van cultuuruitingen in onze samenleving;<br>
+• cultuurgebonden aspecten van verbale en non-verbale communicatie in onze samenleving.<br>
+Taalsysteem<br>
+31 Met het oog op doeltreffende communicatie en taalbeschouwelijke basiskennis kunnen de leerlingen op hun niveau bewust reflecteren op een aantal aspecten van het taalsysteem.<br>
+Ze kunnen de hierna volgende verschijnselen herkennen, onderzoeken en benoemen :<br>
+31.1 in het orthografische domein<br>
+• vormcorrectheid, spellingconventies en hulpmiddelen bij de spelling van woorden en bij interpunctie;<br>
+31.2 in het morfologisch domein<br>
+• herkomst van woorden : inheemse woorden en leenwoorden;<br>
+• samenstelling en afleiding van woorden;<br>
+31.3 in het syntactische domein<br>
+zinsdelen<br>
+• de belangrijkste zinsdelen;<br>
+zin<br>
+• enkelvoudige en samengestelde zinnen;<br>
+• nevengeschikte en ondergeschikte zinnen;<br>
+31.4 in het semantische domein<br>
+woordsemantiek<br>
+• woordbetekenis : denotatie, connotatie;<br>
+• betekenisverandering;<br>
+• stijlfiguren : eufemisme, dysfemisme, pleonasme, tautologie;<br>
+zinssemantiek<br>
+• modaliteit.<br>
+Strategieën<br>
+32 De leerlingen kunnen op hun niveau bewust reflecteren op luister-, spreek-, interactie-, lees- en schrijfstrategieën.<br>
+* Met het oog op de controle door de inspectie werden de attitudes met een * aangeduid.<br>
 <br>
 F. WISKUNDE- KSO<br>
 <br>
@@ -6506,290 +5893,185 @@ ENGELS - FRANS<br>
 <a href="http://www.ejustice.just.fgov.be/mopdf/2009/07/03_1.pdf#page=113" target="_blank">bijlage 21</a><br>
 <br>
 E. NEDERLANDS - TSO<br>
-<br>
-1. Luisteren<br>
-<br>
-1 De leerlingen kunnen op structurerend niveau luisteren naar uiteenzettingen en probleemstellingen door een bekende volwassene m.b.t. een leerstofonderdeel bestemd voor bekende leeftijdgenoten en ze kunnen die schriftelijk weergeven (cf. schrijven).<br>
-<br>
-2 De leerlingen kunnen op beoordelend niveau via diverse media en multimediale informatiedragers luisteren naar de volgende tekstsoorten bestemd voor een onbekend publiek:<br>
-<br>
-- diverterende teksten zoals praatprogramma's;<br>
-<br>
-- informatieve teksten, zoals verslagen van feiten en ervaringen;<br>
-<br>
-- persuasieve teksten, zoals standpunten en meningen in probleemoplossende discussies;<br>
-<br>
-- activerende teksten, zoals reclameboodschappen.<br>
-<br>
-3 De leerlingen kunnen verschillende strategieën aanwenden om aan onbekende woorden betekenis toe te kennen. Het gaat om het gebruiken van:<br>
-<br>
-- de context;<br>
-<br>
-- de eigen voorkennis;<br>
-<br>
-- de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
-<br>
-- het woordenboek.<br>
-<br>
-4 Bij de planning, uitvoering van en bij de reflectie over de luistertaken kunnen de leerlingen:<br>
-<br>
-- hun luisterdoel(en) bepalen;<br>
-<br>
-- het (de) tekstdoel(en) vaststellen;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- onderwerp en hoofdgedachte identificeren;<br>
-<br>
-- gericht informatie selecteren en ordenen;<br>
-<br>
-- bijkomende informatie vragen;<br>
-<br>
-- inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen;<br>
-<br>
-- de functie van bijgeleverde visuele informatie vaststellen (koppeling kijken);<br>
-<br>
-- het taalgebruik van de spreker inschatten;<br>
-<br>
-- aandacht tonen voor het non-verbale gedrag van de gesprekspartner/spreker.<br>
-<br>
-5 De leerlingen kunnen de geschikte luisterstrategieën toepassen naar gelang van hun luisterdoel(en), achtergrondkennis en tekstsoort (oriënterend, zoekend, globaal en intensief).<br>
-<br>
-6 * De leerlingen zijn bereid om:<br>
-<br>
-- te luisteren;<br>
-<br>
-- een onbevooroordeelde luisterhouding aan te nemen;<br>
-<br>
-- een ander te laten uitspreken;<br>
-<br>
-- te reflecteren over hun eigen luisterhouding;<br>
-<br>
-- het beluisterde te toetsen aan eigen kennis en inzichten.<br>
-<br>
-2. Spreken/gesprekken voeren<br>
-<br>
+1 Luisteren<br>
+1 De leerlingen kunnen op structurerend niveau luisteren naar uiteenzettingen, en probleemstellingen door een bekende volwassene m.b.t. een leerstofonderdeel bestemd voor bekende leeftijdgenoten en ze kunnen die schriftelijk weergeven (cf. schrijven).<br>
+2 De leerlingen kunnen op beoordelend niveau via diverse media en multimediale informatiedragers luisteren naar de volgende tekstsoorten bestemd voor een onbekend publiek :<br>
+• diverterende teksten zoals praatprogramma's;<br>
+• informatieve teksten zoals verslagen van feiten en ervaringen;<br>
+• persuasieve teksten zoals standpunten en meningen in probleemoplossende discussies;<br>
+• activerende boodschappen.<br>
+3 De leerlingen kunnen verschillende strategieën aanwenden om aan onbekende woorden betekenis toe te kennen. Het gaat om het gebruiken van :<br>
+• de context;<br>
+• de eigen voorkennis;<br>
+• de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
+• het woordenboek.<br>
+4 Bij de planning, uitvoering van en bij de reflectie op de luistertaken kunnen de leerlingen :<br>
+• hun luisterdoel(en) bepalen;<br>
+• het (de) tekstdoel(en) vaststellen;<br>
+• hun voorkennis inzetten;<br>
+• onderwerp en hoofdgedachte identificeren;<br>
+• gericht informatie selecteren en ordenen;<br>
+• bijkomende informatie vragen;<br>
+• inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen;<br>
+• de functie van bijgeleverde visuele informatie vaststellen (koppeling kijken);<br>
+• het taalgebruik van de spreker inschatten;<br>
+• aandacht tonen voor het non-verbale gedrag van de gesprekspartner/spreker.<br>
+5 De leerlingen kunnen de geschikte luisterstrategieën toepassen naargelang van hun luisterdoel(en), achtergrondkennis en tekstsoort (oriënterend, zoekend, globaal en intensief).<br>
+6* De leerlingen zijn bereid om :<br>
+• te luisteren;<br>
+• een onbevooroordeelde luisterhouding aan te nemen;<br>
+• een ander te laten uitspreken;<br>
+• te reflecteren over hun eigen luisterhouding;<br>
+• het beluisterde te toetsen aan eigen kennis en inzichten.<br>
+2 Spreken/gesprekken voeren<br>
 7 De leerlingen kunnen op structurerend niveau aan een bekende volwassene vragen stellen en antwoorden formuleren m.b.t. leerstofonderdelen in de schoolvakken.<br>
-<br>
-8 De leerlingen kunnen op structurerend niveau t.a.v. een onbekend publiek:<br>
-<br>
-- instructies geven;<br>
-<br>
-- gedocumenteerde informatie presenteren;<br>
-<br>
-- een sollicitatiegesprek voeren.<br>
-<br>
-9 De leerlingen kunnen op beoordelend niveau aan een onbekend publiek:<br>
-<br>
-- inlichtingen vragen, aanvragen doen, klachten/bezwaren formuleren (rechtstreeks of door middel van de telefoon);<br>
-<br>
-- standpunten/meningen of oplossingen voor problemen uiteenzetten en motiveren in een gedachtewisseling, discussie, (werk)vergadering;<br>
-<br>
-- gevoelens in een gepast register uitdrukken en persoonlijke ervaringen presenteren;<br>
-<br>
-- activerende boodschappen formuleren.<br>
-<br>
-10 Bij de planning, uitvoering van en bij de reflectie over de spreektaken/gesprekstaken kunnen de leerlingen:<br>
-<br>
-- hun eigen spreek- en gespreksdoel(en) bepalen;<br>
-<br>
-- zich een beeld vormen van hun publiek;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- naargelang van de spreek-, gespreksdoel(en) en publiek:<br>
-<br>
-- gericht informatie selecteren en in een duidelijke vorm verwoorden;<br>
-<br>
-- bijkomende info vragen;<br>
-<br>
-- hun taalgebruik aanpassen;<br>
-<br>
-- inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen en verwoorden;<br>
-<br>
-- visuele informatie gebruiken;<br>
-<br>
-- non-verbaal gedrag inschatten en inzetten;<br>
-<br>
-- gespreksconventies hanteren om gesprekken te beginnen, te onderbreken, gaande te houden en af te sluiten;<br>
-<br>
-- argumenten herkennen en aanbrengen;<br>
-<br>
-- adequaat reageren op de inbreng van gesprekspartner(s).<br>
-<br>
-11 * De leerlingen zijn binnen de gepaste communicatiesituaties bereid om:<br>
-<br>
-- te spreken;<br>
-<br>
-- algemeen Nederlands te spreken;<br>
-<br>
-- een kritische houding aan te nemen tegenover hun eigen spreek- en gespreksgedrag.<br>
-<br>
-3. Lezen<br>
-<br>
+8 De leerlingen kunnen op structurerend niveau t.a.v. - een onbekend publiek :<br>
+• instructies geven;<br>
+• gedocumenteerde informatie presenteren;<br>
+• een sollicitatiegesprek voeren.<br>
+9 De leerlingen kunnen op beoordelend niveau aan een onbekend publiek :<br>
+• inlichtingen vragen, aanvragen doen, klachten/bezwaren formuleren (rechtstreeks of door middel van de telefoon);<br>
+• standpunten/meningen of oplossingen voor problemen uiteenzetten en motiveren in een gedachtewisseling, discussie, (werk)vergadering;<br>
+• gevoelens in een gepast register uitdrukken en persoonlijke ervaringen presenteren;<br>
+• activerende boodschappen formuleren.<br>
+10 Bij de planning, uitvoering van en bij de reflectie op de spreektaken kunnen de leerlingen :<br>
+• hun eigen spreek- en gespreksdoel(en) bepalen;<br>
+• zich een beeld vormen van hun publiek;<br>
+• hun voorkennis inzetten;<br>
+• naargelang van de spreek-, gespreksdoel(en) en publiek :<br>
+• gericht informatie selecteren en in een duidelijke vorm verwoorden;<br>
+• bijkomende info vragen;<br>
+• hun taalgebruik aanpassen;<br>
+• inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen en verwoorden;<br>
+• visuele informatie gebruiken;<br>
+• non-verbaal gedrag inschatten en inzetten;<br>
+• gespreksconventies hanteren om gesprekken te beginnen, te onderbreken, gaande te houden en af te sluiten;<br>
+• argumenten herkennen en aanbrengen;<br>
+• adequaat reageren op de inbreng van gesprekspartner(s).<br>
+11* De leerlingen zijn binnen de gepaste communicatiesituaties bereid om :<br>
+• te spreken;<br>
+• algemeen Nederlands te spreken;<br>
+• een kritische houding aan te nemen tegenover hun eigen spreek- en gespreksgedrag.<br>
+3 Lezen<br>
 12 De leerlingen kunnen op structurerend niveau formulieren en administratieve teksten voor een onbekend publiek lezen.<br>
-<br>
 13 De leerlingen kunnen op beoordelend niveau teksten met studiedoeleinden voor onbekende leeftijdgenoten lezen.<br>
-<br>
-14 De leerlingen kunnen volgende tekstsoorten voor een onbekend publiek op beoordelend niveau lezen:<br>
-<br>
-- niet-fictionele teksten:<br>
-<br>
-- informatieve teksten, inclusief informatiebronnen: zoals schema's en tabellen, verslagen, hyperteksten en uiteenzettingen;<br>
-<br>
-- persuasieve teksten: zoals een opiniestuk, een betoog;<br>
-<br>
-- activerende teksten: zoals reclameteksten en advertenties, instructies.<br>
-<br>
-- fictionele teksten (cf. literatuur).<br>
-<br>
-15 De leerlingen kunnen verschillende strategieën aanwenden om aan onbekende woorden betekenis toe te kennen. Het gaat om het gebruiken van:<br>
-<br>
-- de context;<br>
-<br>
-- de eigen voorkennis;<br>
-<br>
-- de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
-<br>
-- het woordenboek.<br>
-<br>
-16 Bij de planning, uitvoering van en bij de reflectie over hun taken kunnen de leerlingen:<br>
-<br>
-- hun eigen leesdoel(en) bepalen;<br>
-<br>
-- het (de) tekstdoel(en) vaststellen;<br>
-<br>
-- de tekstsoort bepalen;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- functie van beeld en opmaak in een tekst herkennen ;<br>
-<br>
-- inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen;<br>
-<br>
-- de structuur van een tekst aanduiden;<br>
-<br>
-- onderwerp en hoofdgedachten aanduiden en parafraseren om tekstbegrip te bevorderen;<br>
-<br>
-- gelezen teksten kort samenvatten;<br>
-<br>
-- feiten en meningen onderscheiden;<br>
-<br>
-- argumenten in een tekst op hun waarde en relevantie beoordelen;<br>
-<br>
-- info selecteren en gebruiken met behulp van verschillende informatiekanalen.<br>
-<br>
-17 De leerlingen kunnen een leesstrategie kiezen naar gelang van hun leesdoel en tekstsoort, en ze toepassen (oriënterend, zoekend, globaal en intensief).<br>
-<br>
-18 * De leerlingen zijn bereid om:<br>
-<br>
-- te lezen;<br>
-<br>
-- lezend informatie te verzamelen over een bepaald onderwerp;<br>
-<br>
-- de verkregen informatie aan eigen kennis en inzicht te toetsen en te vergelijken met informatie uit andere bronnen;<br>
-<br>
-- te reflecteren op inhoud en vorm van de teksten;<br>
-<br>
-- hun persoonlijk oordeel over bepaalde teksten te formuleren, in vraag te stellen en eventueel te herzien.<br>
-<br>
-4. Schrijven<br>
-<br>
+14 De leerlingen kunnen volgende tekstsoorten voor een onbekend publiek op beoordelend niveau lezen :<br>
+• niet-fictionele teksten :<br>
+• informatieve teksten, inclusief informatiebronnen zoals schema's en tabellen, verslagen, hyperteksten en uiteenzettingen;<br>
+• persuasieve teksten zoals een opiniestuk, een betoog;<br>
+• activerende teksten zoals reclameteksten en advertenties, instructies;<br>
+• fictionele teksten (cf. literatuur).<br>
+15 De leerlingen kunnen verschillende strategieën aanwenden om aan onbekende woorden betekenis toe te kennen. Het gaat om het gebruiken van :<br>
+• de context;<br>
+• de eigen voorkennis;<br>
+• de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
+• het woordenboek.<br>
+16 Bij de planning, uitvoering van en bij de reflectie op hun taken kunnen de leerlingen :<br>
+• hun eigen leesdoel(en) bepalen;<br>
+• het (de) tekstdoel(en) vaststellen;<br>
+• de tekstsoort bepalen;<br>
+• hun voorkennis inzetten;<br>
+• functie van beeld en opmaak in een tekst herkennen;<br>
+• inhoudelijke en functionele relaties tussen tekstonderdelen vaststellen;<br>
+• de structuur van een tekst aanduiden;<br>
+• onderwerp en hoofdgedachten aanduiden en parafraseren om tekstbegrip te bevorderen;<br>
+• gelezen teksten kort samenvatten;<br>
+• feiten en meningen onderscheiden;<br>
+• argumenten in een tekst op hun waarde en relevantie beoordelen;<br>
+• info selecteren en gebruiken met behulp van verschillende informatiekanalen.<br>
+17 De leerlingen kunnen een leesstrategie kiezen naargelang van hun leesdoel en tekstsoort, en ze toepassen (oriënterend, zoekend, globaal en intensief).<br>
+18* De leerlingen zijn bereid om :<br>
+• te lezen;<br>
+• lezend informatie te verzamelen over een bepaald onderwerp;<br>
+• de verkregen informatie aan eigen kennis en inzicht te toetsen en te vergelijken met informatie uit andere bronnen;<br>
+• te reflecteren op inhoud en vorm van de teksten;<br>
+• hun persoonlijk oordeel over bepaalde teksten te formuleren, in vraag te stellen en eventueel te herzien.<br>
+4 Schrijven<br>
 19 De leerlingen kunnen op structurerend niveau voor een onbekend publiek tekstsoorten schrijven zoals :<br>
-<br>
-- schema's en samenvattingen van gelezen en beluisterde informatie en studieteksten;<br>
-<br>
-- instructies.<br>
-<br>
+• schema's en samenvattingen van gelezen en beluisterde informatie;<br>
+• instructies.<br>
 20 De leerlingen kunnen voor een onbekend publiek op beoordelend niveau tekstsoorten schrijven zoals :<br>
-<br>
-- verslagen;<br>
-<br>
-- sollicitatiebrieven en cv's;<br>
-<br>
-- zakelijke brieven;<br>
-<br>
-- gedocumenteerde en beargumenteerde teksten.<br>
-<br>
-21 Bij de planning, uitvoering van en bij de reflectie over hun schrijftaken kunnen de leerlingen:<br>
-<br>
-- hun eigen schrijfdoel(en) bepalen;<br>
-<br>
-- hun bedoeld publiek bepalen;<br>
-<br>
-- hun tekstsoort bepalen;<br>
-<br>
-- hun voorkennis inzetten;<br>
-<br>
-- gericht informatie zoeken, ordenen en verwerken;<br>
-<br>
-- een logische tekstopbouw creëren met aandacht voor inhoudelijke en functionele relaties;<br>
-<br>
-- eigen tekst reviseren;<br>
-<br>
-- inhouds- en vormconventies van de taal verzorgen;<br>
-<br>
-- lay-out verzorgen;<br>
-<br>
-- correct citeren (bronvermelding);<br>
-<br>
-- gebruik maken van ICT.<br>
-<br>
-22 * De leerlingen zijn bereid om:<br>
-<br>
-- te schrijven;<br>
-<br>
-- schriftelijk informatie te verstrekken;<br>
-<br>
-- te reflecteren over inhoud en vorm van hun eigen schrijfproces en -product;<br>
-<br>
-- taal, indeling, spelling, handschrift en lay-out te verzorgen.<br>
-<br>
-5. Literatuur<br>
-<br>
+• verslagen;<br>
+• sollicitatiebrieven en CV's;<br>
+• zakelijke brieven;<br>
+• gedocumenteerde en beargumenteerde teksten.<br>
+21 Bij de planning, uitvoering van en bij de reflectie op hun schrijftaken kunnen de leerlingen :<br>
+• hun eigen schrijfdoel(en) bepalen;<br>
+• hun bedoeld publiek bepalen;<br>
+• hun tekstsoort bepalen;<br>
+• hun voorkennis inzetten;<br>
+• gericht informatie zoeken, ordenen en verwerken;<br>
+• een logische tekstopbouw creëren met aandacht voor inhoudelijke en functionele relaties;<br>
+• eigen tekst reviseren;<br>
+• inhouds- en vormconventies van de taal verzorgen;<br>
+• lay-out verzorgen;<br>
+• correct citeren (bronvermelding);<br>
+• gebruik maken van ICT.<br>
+22* De leerlingen zijn bereid om :<br>
+• te schrijven;<br>
+• schriftelijk informatie te verstrekken;<br>
+• te reflecteren over inhoud en vorm van hun eigen schrijfproces en -product;<br>
+• taal, indeling, spelling, handschrift en lay-out te verzorgen.<br>
+5 Literatuur<br>
 23 De leerlingen kunnen vanuit een tekstervarende manier van lezen vormelijke en inhoudelijke elementen van bijvoorbeeld proza, poëzie, theatervoorstelling, (tv)-drama, (ver)film(ing) herkennen.<br>
-<br>
 24 De leerlingen kunnen hun tekstkeuze toelichten, over hun leeservaring spreken en ze documenteren in een leesdossier.<br>
-<br>
-25 De leerlingen kunnen informatie over literaire teksten verzamelen en gebruiken. Zij maken hierbij gebruik van informatiekanalen zoals: bibliotheek, kranten en tijdschriften, radio- en tv-programma's, internet en cd-rom.<br>
-<br>
+25 De leerlingen kunnen informatie over literaire teksten verzamelen en gebruiken. Zij maken hierbij gebruik van informatiekanalen zoals bibliotheek, kranten en tijdschriften, radio- en tv-programma's, internet en cd-rom.<br>
 26 De leerlingen kunnen doelbewust gegevens en werkwijzen hanteren om de taken uit te voeren.<br>
-<br>
-27 * De leerlingen zijn bereid om:<br>
-<br>
-- literaire teksten te lezen;<br>
-<br>
-- over hun eigen leeservaring met anderen te spreken en erover te schrijven;<br>
-<br>
-- hun leeservaring in maatschappelijke context(en) te plaatsen.<br>
-<br>
-6. Taalbeschouwing<br>
-<br>
-28 De leerlingen kunnen volgende verschijnselen in het taalgebruik herkennen en benoemen:<br>
-<br>
-- register, sociaal bepaalde varianten, regionale varianten, vaktalen;<br>
-<br>
-- gevoelswaarde;<br>
-<br>
-- non-verbale elementen;<br>
-<br>
-- een aantal tekststructuren: evaluatie-, probleem-, maatregel- en onderzoeksstructuur.<br>
-<br>
-29 De leerlingen kennen de verschillende strategieën om aan onbekende woorden betekenis toe te kennen en kunnen die hanteren. Het gaat om het gebruik van:<br>
-<br>
-- de context;<br>
-<br>
-- de eigen voorkennis;<br>
-<br>
-- de principes van woordvorming (afleiding, samenstelling, kennis van vreemde talen);<br>
-<br>
-- het woordenboek.<br>
-<br>
-30 De leerlingen kennen strategieën om een tekst juist te spellen.<br>
-<br>
-31 De leerlingen kunnen hun taaltaken bijsturen door middel van herkenning, benoeming en bespreking van taalverschijnselen.<br>
-<br>
-32 * De leerlingen zijn bereid om over hun taalgebruik na te denken.<br>
+27* De leerlingen zijn bereid om :<br>
+• literaire teksten te lezen;<br>
+• over hun eigen leeservaring met anderen te spreken en erover te schrijven;<br>
+• hun leeservaring in maatschappelijke context(en) te plaatsen.<br>
+6 Taalbeschouwing<br>
+Attitudes<br>
+28* De leerlingen zijn bereid om op hun niveau :<br>
+• bewust te reflecteren op taalgebruik en taalsysteem;<br>
+• van de verworven inzichten gebruik te maken bij verbale en non-verbale communicatie.<br>
+29* Bij het reflecteren op verbale en non-verbale communicatie tonen de leerlingen interesse in en respect voor de persoon van de ander, en voor de eigen en andermans cultuur.<br>
+Taalgebruik<br>
+30. Met het oog op doeltreffende communicatie en taalbeschouwelijke basiskennis kunnen de leerlingen op hun niveau in allerlei taalgebruikssituaties bewust reflecteren op een aantal aspecten van het taalgebruik.<br>
+Ze kunnen de hiernavolgende verschijnselen herkennen, onderzoeken en benoemen :<br>
+30.1 in het tekstuele domein<br>
+• vaste tekststructuren zoals evaluatiestructuur, handelingsstructuur;<br>
+• structuuraanduiders;<br>
+• betekenisrelaties;<br>
+• status van een uitspraak : feit-mening;<br>
+30.2 in het sociolinguïstische domein<br>
+• Nederlands en andere talen;<br>
+• nationale, regionale, sociale en situationele taalvariëteiten;<br>
+• elementen van taalverandering;<br>
+30.3 in het pragmatische domein<br>
+• de belangrijkste factoren van een communicatiesituatie;<br>
+• normen, conventies, waarden, houdingen, vooroordelen en rolgedrag via taal;<br>
+• voor hen relevante taalhandelingen;<br>
+• argumentatie : deugdelijke argumenten en drogredenen, overtuigingskracht en manipulatie;<br>
+• non-verbale communicatie;<br>
+• de gevolgen van verbale en non-verbale communicatie voor anderen en henzelf;<br>
+• talige aspecten van cultuuruitingen in onze samenleving;<br>
+• cultuurgebonden aspecten van verbale en non-verbale communicatie in onze samenleving.<br>
+Taalsysteem<br>
+31 Met het oog op doeltreffende communicatie en taalbeschouwelijke basiskennis kunnen de leerlingen op hun niveau bewust reflecteren op een aantal aspecten van het taalsysteem.<br>
+Ze kunnen de hierna volgende verschijnselen herkennen, onderzoeken en benoemen :<br>
+31.1 in het orthografische domein<br>
+• vormcorrectheid, spellingconventies en hulpmiddelen bij de spelling van woorden en bij interpunctie;<br>
+31.2 in het morfologisch domein<br>
+• herkomst van woorden : inheemse woorden en leenwoorden;<br>
+• samenstelling en afleiding van woorden;<br>
+31.3 in het syntactische domein<br>
+zinsdelen<br>
+• de belangrijkste zinsdelen;<br>
+zin<br>
+• enkelvoudige en samengestelde zinnen;<br>
+• nevengeschikte en ondergeschikte zinnen;<br>
+31.4 in het semantische domein<br>
+woordsemantiek<br>
+• woordbetekenis : denotatie, connotatie;<br>
+• betekenisverandering;<br>
+• stijlfiguren : eufemisme, dysfemisme, pleonasme, tautologie;<br>
+zinssemantiek<br>
+• modaliteit.<br>
+Strategieën<br>
+32 De leerlingen kunnen op hun niveau bewust reflecteren op luister-, spreek-, interactie-, lees- en schrijfstrategieën.<br>
+* Met het oog op de controle door de inspectie werden de attitudes met een * aangeduid.<br>
 <br>
 F. WISKUNDE- KSO<br>
 <br>
