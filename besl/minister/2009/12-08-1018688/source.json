@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018688,
+  "title": "Ministerieel besluit van 2009-12-08 tot toekenning van een subsidie aan VZW WZC Sint Bernardus voor de verlenging van het project \"Zorgcirkels 24\"",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018688/VolledigDocument?datum=2010-01-23",
+  "source_sha256": "8606ff5c7cd198d6fad1f5a5c09a5d53fc28d33703ef13395b045285efcfc9f2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018688&param=informatie",
+  "as_of": "2010-01-23",
+  "made": "2009-12-08",
+  "gazette": "2010-01-13",
+  "numac": 2009206076,
+  "document_start": "2010-01-23",
+  "document_end": null,
+  "in_force": "2010-01-23",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2010-01-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
