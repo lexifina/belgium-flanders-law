@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018686,
+  "title": "Ministerieel besluit van 2009-12-08 tot toekenning van een subsidie aan VZW Landelijke Thuiszorg voor de verlenging van het project \" Nachtzorg Arrondissement Halle-Vilvoorde, Tervuren en het Brusselse Hoofdstedelijke Gewest \"",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018686/VolledigDocument?datum=2010-01-23",
+  "source_sha256": "ba4801bed73d5c812b641e2e80c8fd6be47545fae0ee85cc3d7dbb23812ce2b4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018686&param=informatie",
+  "as_of": "2010-01-23",
+  "made": "2009-12-08",
+  "gazette": "2010-01-13",
+  "numac": 2009206072,
+  "document_start": "2010-01-23",
+  "document_end": null,
+  "in_force": "2010-01-23",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2010-01-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
