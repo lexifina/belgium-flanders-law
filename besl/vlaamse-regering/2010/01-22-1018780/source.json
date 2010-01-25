@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018780,
+  "title": "Besluit van de Vlaamse Regering van 2010-01-22 tot delegatie van de bevoegdheid tot aanwijzing van de ambtenaren, vermeld in artikel 94 van het decreet van 18 december 2009 houdende bepalingen tot begeleiding van de begroting 2010",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018780/VolledigDocument?datum=2010-01-25",
+  "source_sha256": "dabe1a463316b508d4103c70f99c353c59a0d44d547cc0c54069b3979ec1e207",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018780&param=informatie",
+  "as_of": "2010-01-25",
+  "made": "2010-01-22",
+  "gazette": "2010-02-23",
+  "numac": 2010200800,
+  "document_start": "2010-01-25",
+  "document_end": null,
+  "in_force": "2010-01-25",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-01-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
