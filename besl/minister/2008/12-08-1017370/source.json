@@ -2,16 +2,16 @@
   "codex_id": 1017370,
   "title": "Ministerieel besluit van 2008-12-08 houdende de samenstelling van het Adviescomité van het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017370/VolledigDocument?datum=2008-12-28",
-  "source_sha256": "9c17e31be413251daa8d10d0e62422f64758433f100181552a697cfd6538e1e9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017370/VolledigDocument?datum=2010-01-27",
+  "source_sha256": "7ea59aa79d6e4bf4a38f4369d089217d5191c96d91254452b1b308bba141a374",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017370&param=informatie",
-  "as_of": "2008-12-28",
+  "as_of": "2010-01-27",
   "made": "2008-12-08",
   "gazette": "2008-12-18",
   "numac": 2008204539,
   "document_start": "2008-12-28",
   "document_end": null,
-  "in_force": "2008-12-28",
+  "in_force": "2010-01-27",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2008-12-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-27; future article versions excluded; article text as the API gives it"
 }
