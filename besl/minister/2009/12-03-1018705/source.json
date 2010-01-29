@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018705,
+  "title": "Ministerieel besluit van 2009-12-03 houdende de wijziging van het ministerieel besluit van 16 maart 2005 tot erkenning van verenigingen voor de paardenfokkerij en het ministerieel besluit van 25 oktober 2005 houdende de organisatie van de uitbouw van fokkerijstructuren in Vlaanderen, wat betreft de erkenning van de fokkersvereniging Studbook belge du Fjording VZW",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018705/VolledigDocument?datum=2010-01-29",
+  "source_sha256": "a5c8d4fc5f647b4a40c82620969976a84fbb16fa41dde82fe74258aea86f7de2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018705&param=informatie",
+  "as_of": "2010-01-29",
+  "made": "2009-12-03",
+  "gazette": "2010-01-19",
+  "numac": 2010200040,
+  "document_start": "2010-01-29",
+  "document_end": null,
+  "in_force": "2010-01-29",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-01-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
