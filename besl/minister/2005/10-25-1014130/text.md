@@ -36,7 +36,8 @@ Het VVS wordt aangewezen als de leidende vereniging voor de fokkerijsector varke
 19° de VZW Belgian Quarter Horse Association.<br>
 20° de VZW Irish Cob Society Belgium;<br>
 21° de VZW Belgisch Tinker Stamboek;<br>
-22° de VZW Vlaamse Federatie voor Paardenwedrennen.<br>
+22° de VZW Vlaamse Federatie voor Paardenwedrennen;<br>
+23° de VZW Studbook belge du Fjording.<br>
 <br>
 De erkenning van de organisatie, vermeld in het eerste lid, 1°, is vermeld in artikel 2 van het ministerieel besluit van 16 maart 2005 tot erkenning van verenigingen voor de paardenfokkerij.<br>
 <br>
@@ -58,6 +59,8 @@ De erkenning van de fokkersverenigingen, vermeld in het eerste lid, 20° en 21°
 <br>
 De erkenning van de fokkersvereniging, vermeld in het eerste lid, 22°, is opgenomen in artikel 2, eerste lid, 21°, van het ministerieel besluit van 16 maart 2005 tot erkenning van verenigingen voor de paardenfokkerij.<br>
 <br>
+De erkenning van de fokkersvereniging, vermeld in het eerste lid, 23°, is opgenomen in artikel 2, eerste lid, 22°, van het ministerieel besluit van 16 maart 2005 tot erkenning van verenigingen voor de paardenfokkerij.<br>
+<br>
 De VCP wordt aangewezen als de leidende vereniging voor de fokkerijsector paarden en ezels.<br>
 <br>
 § 4. De v.z.w. Kleine Herkauwers Vlaanderen, hierna de KHV te noemen, waarvan de erkenning is vermeld in artikel 2 van het ministerieel besluit van 21 maart 2005 betreffende de organisatie van de fokkerij van kleine herkauwers, wordt toegewezen aan de fokkerijsector kleine herkauwers, vermeld in artikel 2, eerste lid, 2°, van het besluit van de Vlaamse Regering.<br>
@@ -69,9 +72,7 @@ De KHV wordt aangewezen als de leidende vereniging voor de fokkerijsector kleine
 De landsbond wordt aangewezen als de leidende vereniging voor de fokkerijsector pluimvee en konijnen.<br>
 <br>
 § 6. De hiernavolgende fokkersverenigingen worden toegewezen aan de fokkerijsector genetische diversiteit, vermeld in artikel 2, eerste lid, 1°, van het besluit van de Vlaamse Regering:<br>
-<br>
 1° de v.z.w. Vlaams Interprovinciaal Verbond van Fokkers van Neerhofdieren, hierna het VIVFN te noemen, waarvan de erkenning is vermeld in artikel 3 van het ministerieel besluit van 17 maart 2005 houdende de erkenning en subsidiëring van organisaties in het kader van de aanmoediging en de verbetering van de pluimvee- en konijnenfokkerij;<br>
-<br>
 2° de v.z.w. Steunpunt Levend Erfgoed, hierna de SLE te noemen, waarvan de erkenning is vermeld in artikel 3 van het ministerieel besluit van 21 maart 2005 betreffende de organisatie van de fokkerij van kleine herkauwers.<br>
 <br>
 In de fokkerijsector genetische diversiteit wordt geen leidende vereniging aangewezen.
