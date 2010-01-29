@@ -112,7 +112,15 @@ In artikel 232 van het decreet betreffende radio-omroep en televisie van 27 maar
 
 ## HOOFDSTUK VI Overdracht wegenis Kasteel van Ham
 
+### ART. 21.
+
+In afwijking van de bepalingen van de domaniale wet van 31 mei 1923 betreffende de vervreemding van onroerende domeingoederen, is de Vlaamse Regering ertoe gemachtigd de wegenis gelegen te Steenokkerzeel, ter hoogte van het Kasteel van Ham, eigendom van de Vlaamse Gemeenschap, kosteloos over te dragen aan de gemeente Steenokkerzeel.<br /><br />Het gaat in het bijzonder om het hieronder vermelde :<br />Gemeente Steenokkerzeel - eerste afdeling - sectie C :<br /><br />De wegenis gelegen aan het domein Kasteel van Ham, omvattende :<br />- het perceelnummer 228 E met een gemeten oppervlakte van 1 ha 50 a 78 ca, en een kadastrale oppervlakte van 1ha 43a, bevattende de Hamdreef, het Hinckaertplein met parking en grasveld, de Keizerinlaan, de De Maille Tour Landrylaan (lot 1);<br />- deel van het perceelnummer 221 E voor een gemeten oppervlakte van 7 a 44 ca, bevattende een deel van de De Lannoylaan (lot 4c);<br />- deel van het perceelnummer 224 D voor een gemeten oppervlakte van 3 a 46 ca, bevattende een deel van de De Lannoylaan (lot 6);<br />- deel van het perceelnummer 224 D voor een gemeten oppervlakte van 1 a 18 ca, bevattende een deel van de De Coutereaulaan (lot 8);<br />- deel van het perceelnummer 224 D voor een gemeten oppervlakte van 6 a 98 ca, zijnde een toekomstige voetweg (lot 9).<br /><br />
+
 ## HOOFDSTUK VII Vlaams Gemeentefonds
+
+### ART. 22.
+
+In artikel 22 van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds worden de volgende wijzigingen aangebracht :<br />1° in paragraaf 4 wordt de datum « 30 september 2009 » vervangen door de datum « 30 september 2011 »;<br />2° in paragraaf 5 wordt het jaartal « 2010 » vervangen door het jaartal « 2012 »;<br />3° in paragraaf 6 wordt het jaartal « 2009 » vervangen door het jaartal « 2011 ».<br /><br />
 
 ## HOOFDSTUK VIII Knelpuntdossiers VAPH en FJW
 
@@ -213,6 +221,10 @@ In artikel 13 van hetzelfde decreet worden tussen de woorden « volgens de verho
 In artikel 23, § 1, van het decreet van 21 december 1990 houdende begrotingstechnische bepalingen alsmede bepalingen tot begeleiding van de begroting 1991, laatst vervangen bij het decreet van 7 juli 1998, worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid, in het tweede lid en in het derde lid worden de woorden « Fonds voor Landinrichting en -beheer » telkens vervangen door de woorden « Fonds voor Landinrichting en Natuurlijke rijkdommen »;<br /><br />2° aan het tweede lid wordt een punt e) toegevoegd, dat luidt als volgt :<br />« e) de ontvangsten voortvloeiend uit de toepassing van artikel 24 van het decreet van 4 april 2003 betreffende de oppervlaktedelfstoffen. »;<br /><br />3° in het derde lid worden de woorden « de uitvoering van verordening (EEG) nr. 2078/92 van de Raad van 30 juni 1992 betreffende landbouwproductiemethoden die verenigbaar zijn met de eisen inzake milieubescherming en betreffende natuurbeheer » vervangen door de woorden « de verwezenlijking van de eindafwerking van ontginningsgebieden overeenkomstig het oppervlaktedelfstoffendecreet ».<br /><br />
 
 ## HOOFDSTUK XVI Prestibel Left Village
+
+### ART. 40.
+
+De akte van 15 september 2009 houdende verkoop door het Vlaamse Gewest aan de Naamloze Vennootschap Prestibel Left Village van een aaneengesloten geheel van goederen gelegen te Antwerpen, 13e afdeling, sectie N, Linkeroever tussen het Galgenweel, de Blancefloerlaan en de oprit van de autosnelweg RI/E17 voor de basisgrondprijs van 19.425.996,53 euro, dewelke geherwaardeerd werd door toepassing van een intrestverhoging berekend aan de OLO-10jaar, wordt goedgekeurd.<br /><br />
 
 ## HOOFDSTUK XVII Afvalstoffen
 
