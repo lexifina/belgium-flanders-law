@@ -2,16 +2,16 @@
   "codex_id": 1013724,
   "title": "Ministerieel besluit van 2005-03-16 tot erkenning van verenigingen voor de paardenfokkerij",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013724/VolledigDocument?datum=2009-03-15",
-  "source_sha256": "6c0a39fb2709e467b4f90c8b3f71ecf10b52a074874e2d5d8a3fd50da91bdc7e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013724/VolledigDocument?datum=2010-01-29",
+  "source_sha256": "9a2267cdff5bbb8eddb313e5bd5e01b453c5241b57d0a55367bbf35975ac4d61",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013724&param=informatie",
-  "as_of": "2009-03-15",
+  "as_of": "2010-01-29",
   "made": "2005-03-16",
   "gazette": "2005-04-15",
   "numac": 2005035405,
   "document_start": "2005-04-15",
   "document_end": "2010-12-31",
-  "in_force": "2009-03-15",
+  "in_force": "2010-01-29",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2009-03-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-01-29; future article versions excluded; article text as the API gives it"
 }
