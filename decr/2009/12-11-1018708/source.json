@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018708,
+  "title": "Decreet van 2009-12-11 houdende instemming met het samenwerkingsakkoord tussen het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest tot wijziging van het samenwerkingsakkoord van 30 maart 2004 met betrekking tot de uitoefening van de geregionaliseerde bevoegdheden op het gebied van Landbouw en Visserij",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018708/VolledigDocument?datum=2010-01-31",
+  "source_sha256": "8d19a0c7f8dbf04e338a3a9b9c7a4b7471e3ffdf7b60c8507268c3a361c793af",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018708&param=informatie",
+  "as_of": "2010-01-31",
+  "made": "2009-12-11",
+  "gazette": "2010-01-21",
+  "numac": 2010035014,
+  "document_start": "2010-01-31",
+  "document_end": null,
+  "in_force": "2010-01-31",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2010-01-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
