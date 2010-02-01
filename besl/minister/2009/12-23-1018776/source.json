@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018776,
+  "title": "Ministerieel besluit van 2009-12-23 tot goedkeuring van de tariefaanpassingen van de Vlaamse Vervoermaatschappij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018776/VolledigDocument?datum=2010-02-01",
+  "source_sha256": "2982132b144c95dc8d45bb81b607e9e2165d652c9d063b40042c00333d7ab79e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018776&param=informatie",
+  "as_of": "2010-02-01",
+  "made": "2009-12-23",
+  "gazette": "2010-02-22",
+  "numac": 2010035154,
+  "document_start": "2010-02-01",
+  "document_end": "2010-01-31",
+  "in_force": "2010-02-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2010-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
