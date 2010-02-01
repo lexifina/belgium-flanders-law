@@ -2,16 +2,16 @@
   "codex_id": 1018447,
   "title": "Besluit van de Vlaamse Regering van 2009-09-04 tot wijziging van het besluit van de Vlaamse Regering van 19 juli 2007 betreffende de studiebekrachtiging in het volwassenenonderwijs en het besluit van de Vlaamse Regering van 19 juli 2007 betreffende de organisatie van het opleidingsaanbod in het volwassenenonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018447/VolledigDocument?datum=2009-09-01",
-  "source_sha256": "af57dfab58a5aab76ca14e5201856312b88b073f247178fc7648e6ee61f56830",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018447/VolledigDocument?datum=2010-02-01",
+  "source_sha256": "8971e58a3b1ca08a4e21d7cf75ebce9f05a4e27fc5c9ca7df2d6643377be249e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018447&param=informatie",
-  "as_of": "2009-09-01",
+  "as_of": "2010-02-01",
   "made": "2009-09-04",
   "gazette": "2009-10-14",
   "numac": 2009035966,
   "document_start": "2009-09-01",
   "document_end": null,
-  "in_force": "2009-09-01",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-02-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2010-02-01; future article versions excluded; article text as the API gives it"
 }
