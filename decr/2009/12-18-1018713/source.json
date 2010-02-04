@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018713,
+  "title": "Decreet van 2009-12-18 houdende instemming met het zetelakkoord tussen het Koninkrijk België en het secretariaat van de Regionale Samenwerkingsraad, ondertekend in Brussel op 29 augustus 2008",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018713/VolledigDocument?datum=2010-02-04",
+  "source_sha256": "42f6b8a3355d37d2bc9467247af2e2047fb5afe24aee262da72d4e258bc6bc72",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018713&param=informatie",
+  "as_of": "2010-02-04",
+  "made": "2009-12-18",
+  "gazette": "2010-01-25",
+  "numac": 2010035058,
+  "document_start": "2010-02-04",
+  "document_end": null,
+  "in_force": "2010-02-04",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2010-02-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
