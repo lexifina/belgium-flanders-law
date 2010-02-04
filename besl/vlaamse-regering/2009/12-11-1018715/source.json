@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018715,
+  "title": "Besluit van de Vlaamse Regering van 2009-12-11 houdende de verdeling van het provisioneel krediet ingeschreven onder basisallocatie FB 1111 C van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2009",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018715/VolledigDocument?datum=2010-02-04",
+  "source_sha256": "1273bdbf042e9cad9ec14170e870027a1fdb5e75e8034173973dc60de8e6208d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018715&param=informatie",
+  "as_of": "2010-02-04",
+  "made": "2009-12-11",
+  "gazette": "2010-01-25",
+  "numac": 2009036180,
+  "document_start": "2010-02-04",
+  "document_end": null,
+  "in_force": "2010-02-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-02-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
