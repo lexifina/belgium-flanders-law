@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018725,
+  "title": "Decreet van 2009-12-18 houdende instemming met de overeenkomst tussen het Koninkrijk België en de Republiek Albanië, Bosnië en Herzegovina, de Republiek Kroatië, de voormalige Joegoslavische Republiek Macedonië, de Republiek Moldavië, Montenegro, de Republiek Serbië en de United Nations Interim Administration Mission in Kosovo, in naam van Kosowo, in overeenstemming met resolutie 1244 van de VN-Veiligheidsraad, betreffende de voorrechten en inmmuniteiten van het secretariaat van de Centraal-Europese Vrijhandelsovereenkomst, ondertekend in Brussel op 26 juni 2008",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018725/VolledigDocument?datum=2010-02-06",
+  "source_sha256": "f2d00bba55dbfb5940ece4493ba78431fccb7fb92128dc19af16226d5a50ca98",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018725&param=informatie",
+  "as_of": "2010-02-06",
+  "made": "2009-12-18",
+  "gazette": "2010-01-27",
+  "numac": 2010035065,
+  "document_start": "2010-02-06",
+  "document_end": null,
+  "in_force": "2010-02-06",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2010-02-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
