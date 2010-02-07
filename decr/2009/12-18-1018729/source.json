@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018729,
+  "title": "Decreet van 2009-12-18 houdende wijziging van artikel 36 van het decreet van 27 maart 2009 betreffende de radio-omroep en de televisie, wat de organisatie betreft die de belangen van gezinnen behartigt",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018729/VolledigDocument?datum=2010-02-07",
+  "source_sha256": "eceea64596689ce5aa7228fecde6ec80c76dd3c6cc92719b5ddf144bc5b4c660",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018729&param=informatie",
+  "as_of": "2010-02-07",
+  "made": "2009-12-18",
+  "gazette": "2010-01-28",
+  "numac": 2010035061,
+  "document_start": "2010-02-07",
+  "document_end": null,
+  "in_force": "2010-02-07",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-02-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
