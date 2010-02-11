@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018744,
+  "title": "Decreet van 2009-04-30 houdende de eindregeling van de begroting van de Vlaamse Gemeenschap en van instellingen van openbaar nut voor het begrotingsjaar 2006",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018744/VolledigDocument?datum=2010-02-11",
+  "source_sha256": "d09e167d8eb58f95eeae87efff2c98a4665a318827d601e7607fb73704084cb3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018744&param=informatie",
+  "as_of": "2010-02-11",
+  "made": "2009-04-30",
+  "gazette": "2010-02-01",
+  "numac": 2010035026,
+  "document_start": "2010-02-11",
+  "document_end": null,
+  "in_force": "2010-02-11",
+  "article_versions": 72,
+  "record_form": "consolidated version as in force on 2010-02-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
