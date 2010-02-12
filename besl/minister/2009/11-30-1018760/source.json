@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018760,
+  "title": "Ministerieel besluit van 2009-11-30 houdende aanvulling van het ministerieel besluit tot regeling van specifieke en aanvullende delegatie van beslissingsbevoegdheden aan het hoofd van het intern verzelfstandigd Agentschap voor Natuur en Bos van 13 november 2006",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018760/VolledigDocument?datum=2010-02-12",
+  "source_sha256": "ba51d20ba2c82076bbc05625c22af42e27dddb1e5e0e6a734a5d7059a22ba77d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018760&param=informatie",
+  "as_of": "2010-02-12",
+  "made": "2009-11-30",
+  "gazette": "2010-02-11",
+  "numac": 2010035110,
+  "document_start": "2010-02-12",
+  "document_end": null,
+  "in_force": "2010-02-12",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-02-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
