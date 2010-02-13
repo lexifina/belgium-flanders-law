@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018750,
+  "title": "Ministerieel besluit van 2010-01-11 betreffende de bekrachtiging van de aanwijzing van de leden van het college van beroep inzake tucht bij Erasmushogeschool Brussel",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018750/VolledigDocument?datum=2010-02-13",
+  "source_sha256": "bac5dce995b1e328c8fddf26845f1cceb05ce74edd5c9c35884784329fc8dedf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018750&param=informatie",
+  "as_of": "2010-02-13",
+  "made": "2010-01-11",
+  "gazette": "2010-02-03",
+  "numac": 2010035076,
+  "document_start": "2010-02-13",
+  "document_end": null,
+  "in_force": "2010-02-13",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2010-02-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
