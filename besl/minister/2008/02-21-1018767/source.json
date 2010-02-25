@@ -2,16 +2,16 @@
   "codex_id": 1018767,
   "title": "Ministerieel besluit van 2008-02-21 betreffende vaststelling van een regeling ex artikel 48ter van het Bodemsaneringsdecreet voor de site « De projectzone regionale grondwaterverontreiniging Vilvoorde - Machelen »",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018767/VolledigDocument?datum=2010-02-15",
-  "source_sha256": "2faba609c8ba8052e5ed52205c37997e49264b8857730b24681fb4378faafb8f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018767/VolledigDocument?datum=2010-02-25",
+  "source_sha256": "7ed443d32c25abeb854c10676d5330d8ad178fa66a7830c2312291aaf9fc38d4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018767&param=informatie",
-  "as_of": "2010-02-15",
+  "as_of": "2010-02-25",
   "made": "2008-02-21",
   "gazette": "2010-02-15",
   "numac": 2009036217,
   "document_start": "2010-02-25",
   "document_end": null,
-  "in_force": "2010-02-15",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2010-02-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-02-25",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2010-02-25; future article versions excluded; article text as the API gives it"
 }
