@@ -2,16 +2,16 @@
   "codex_id": 1016401,
   "title": "Ministerieel besluit van 2007-11-16 betreffende de instelling van de adviesmodules en de bepaling van de adviesinhoud in het kader van het bedrijfsadviessysteem",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016401/VolledigDocument?datum=2007-12-16",
-  "source_sha256": "80b8842ba571d49898f3bce5474f3b73952cc43d730a37baad368803a9341ba4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016401/VolledigDocument?datum=2010-02-26",
+  "source_sha256": "880b510f65cf98d6ffb89fe5eb2360373b84b1f93f195652677525cd17215322",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016401&param=informatie",
-  "as_of": "2007-12-16",
+  "as_of": "2010-02-26",
   "made": "2007-11-16",
   "gazette": "2007-12-06",
   "numac": 2007037135,
   "document_start": "2007-12-16",
   "document_end": null,
-  "in_force": "2007-12-16",
-  "article_versions": 9,
-  "record_form": "consolidated version as in force on 2007-12-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-02-26",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2010-02-26; future article versions excluded; article text as the API gives it"
 }

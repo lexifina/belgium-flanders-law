@@ -8,7 +8,7 @@ De Vlaamse minister van Institutionele Hervormingen, Havens, Landbouw, Zeevisser
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° TSE : transmissibele spongiforme encefalopathieën;<br />2° randvoorwaarden : de beheerseisen die voortvloeien uit de Europese richtlijnen en verordeningen, vermeld in bijlage III van Verordening (EG) nr. 1782/2003 van de Raad, en de normen inzake goede landbouw- en milieuconditie, vermeld in het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden;<br />3° de beheersdienst : de afdeling Structuur en Investeringen van het Agentschap voor Landbouw en Visserij;<br />4° SWOT-analyse : een analyse van de sterktes en zwaktes van het bedrijf, van de kansen die het bedrijf kan grijpen en de bedreigingen waarmee het geconfronteerd wordt.<br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder :<br />1° TSE : transmissibele spongiforme encefalopathieën;<br />2° randvoorwaarden : de beheerseisen die voortvloeien uit de Europese richtlijnen en verordeningen, vermeld in bijlage II van Verordening (EG) nr. 73/2009 van de Raad, en de normen inzake goede landbouw- en milieuconditie, vermeld in het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden;<br />3° de beheersdienst : de afdeling Structuur en Investeringen van het Agentschap voor Landbouw en Visserij;<br />4° SWOT-analyse : een analyse van de sterktes en zwaktes van het bedrijf, van de kansen die het bedrijf kan grijpen en de bedreigingen waarmee het geconfronteerd wordt.<br /><br />
 
 ## HOOFDSTUK II Adviesmodules en adviesinhoud
 
@@ -18,17 +18,21 @@ In het kader van het bedrijfsadviessysteem worden de volgende adviesmodules en s
 
 ### ART. 3.
 
-Voor module 1 tot en met 3 moet het advies per module de volgende omstandig uitgewerkte adviesonderdelen en -onderwerpen bevatten :<br />1° een opsomming van de voor de bedrijfsvoering relevante randvoorwaarden;<br />2° de evaluatie van alle relevante randvoorwaarden per module, zoals vastgesteld tijdens een plaatsbezoek;<br />3° de nodige verbeteringsvoorstellen met inbegrip van advies over mogelijk te sluiten beheersovereenkomsten en andere relevante maatregelen.<br />Voor module 4 wordt het advies gegeven op basis van een controlelijst die minimaal de onderwerpen behandelt die vermeld zijn in hoofdstuk 1 van de bijlage die bij dit besluit is gevoegd. <br />Voor submodule 5.1 moet het advies minimaal de volgende omstandig uitgewerkte adviesonderdelen bevatten :<br />1° een overzicht van de algemene bedrijfsgegevens en parameters, vermeld in hoofdstuk 2 van de bijlage, die bij dit besluit is gevoegd, en gebaseerd op de bedrijfseconomische boekhouding;<br />2° een externe bedrijfsvergelijking waarbij de parameters van het bedrijf met de gemiddelde parameters van andere gelijksoortige bedrijven vergeleken worden;<br />3° voorstellen, gebaseerd op de berekende parameters om de bedrijfsvoering te verbeteren.<br />Voor submodule 5.2 bevat het advies minimaal de volgende omstandig uitgewerkte elementen :<br />1° een omschrijving van de missie van het bedrijf;<br />2° een omschrijving van de doelstelling van het advies;<br />3° een SWOT-analyse van het aangeboden product of de aangeboden dienst, het bedrijf en de bedrijfsomgeving;<br />4° een consumentenanalyse en een afbakening van de doelgroep;<br />5° een uitwerking van de marketingmix met minimaal de elementen, vermeld in de bijlage;<br />6° een advies over de voortgangscontrole.<br /><br />
+Voor module 1 tot en met 3 moet het advies per module de volgende omstandig uitgewerkte adviesonderdelen en -onderwerpen bevatten :<br />1° een opsomming van de voor de bedrijfsvoering relevante randvoorwaarden;<br />2° de evaluatie van alle relevante randvoorwaarden per module, zoals vastgesteld tijdens een plaatsbezoek. Een plaatsbezoek omvat een rondgang op het bedrijf waarbij de op het bedrijf van toepassing zijnde randvoorwaarden geëvalueerd worden;<br />3° de nodige verbeteringsvoorstellen met inbegrip van advies over mogelijk te sluiten beheersovereenkomsten en andere relevante maatregelen.<br />Voor module 4 wordt het advies gegeven op basis van een controlelijst die minimaal de onderwerpen behandelt die vermeld zijn in hoofdstuk 1 van de bijlage die bij dit besluit is gevoegd. <br />Voor submodule 5.1 moet het advies minimaal de volgende omstandig uitgewerkte adviesonderdelen bevatten :<br />1° een overzicht van de algemene bedrijfsgegevens en parameters, vermeld in hoofdstuk 2 van de bijlage, die bij dit besluit is gevoegd, en gebaseerd op de bedrijfseconomische boekhouding;<br />2° een externe bedrijfsvergelijking waarbij de parameters van het bedrijf met de gemiddelde parameters van andere gelijksoortige bedrijven vergeleken worden;<br />3° voorstellen, gebaseerd op de berekende parameters om de bedrijfsvoering te verbeteren.<br />Voor submodule 5.2 bevat het advies minimaal de volgende omstandig uitgewerkte elementen :<br />1° een omschrijving van de missie van het bedrijf;<br />2° een omschrijving van de doelstelling van het advies;<br />3° een SWOT-analyse van het aangeboden product of de aangeboden dienst, het bedrijf en de bedrijfsomgeving;<br />4° een consumentenanalyse en een afbakening van de doelgroep;<br />5° een uitwerking van de marketingmix met minimaal de elementen, vermeld in de bijlage;<br />6° een advies over de voortgangscontrole.<br /><br />
 
 ### ART. 4.
 
-Elk advies voldoet aan de volgende zorgvuldigheidscriteria :<br />1° de adviesdienst zorgt voor een schriftelijk verslag van het volledige advies waarin alle adviesonderwerpen, vermeld in de bijlage die bij dit besluit is gevoegd, duidelijk van elkaar onderscheiden terug te vinden zijn;<br />2° op het advies staan minimaal de volgende administratieve gegevens vermeld :<br />a) de datum van het plaatsbezoek;<br />b) de datum waarop het advies bezorgd is aan het land- of tuinbouwbedrijfshoofd;<br />c) de naam van de adviseur per module;<br />d) de handtekeningen van het land- of tuinbouwbedrijfshoofd en de adviseurs;<br />3° het advies is omstandig, relevant, volledig, gemotiveerd en afgestemd op de specifieke kenmerken en behoeften van het bedrijf.<br /><br />
+Elk advies voldoet aan de volgende zorgvuldigheidscriteria :<br />1° de adviesdienst zorgt voor een schriftelijk verslag van het volledige advies waarin alle adviesonderwerpen, vermeld in de bijlage die bij dit besluit is gevoegd, duidelijk van elkaar onderscheiden terug te vinden zijn. Het schriftelijke advies geeft aan welke van de relevante randvoorwaarden het land- of tuinbouwbedrijfshoofd beter moet naleven. Alle adviesonderdelen zoals vermeld in artikel 3 moeten in het schriftelijk advies worden opgenomen, met inbegrip van de verbeteringsvoorstellen; <br />2° op het advies staan minimaal de volgende administratieve gegevens vermeld :<br />a) de datum van het plaatsbezoek;<br />b) de datum waarop het advies bezorgd is aan het land- of tuinbouwbedrijfshoofd;<br />c) de naam van de adviseur per module;<br />d) de handtekeningen van het land- of tuinbouwbedrijfshoofd en de adviseurs;<br />3° het advies is omstandig, relevant, volledig, gemotiveerd en afgestemd op de specifieke kenmerken en behoeften van het bedrijf.<br /><br />
 
 ## HOOFDSTUK III Adviessubsidie
 
+### ART. 4/1.
+
+De subsidies worden toegekend binnen de jaarlijks daartoe vastgestelde subsidie-enveloppe en in volgorde van indiening van aanvragen zolang de subsidie-enveloppe voor dat kalenderjaar niet is opgebruikt. Als een aanvrager in een kalenderjaar een aanvraag heeft ingediend, maar geen subsidie toegekend heeft gekregen doordat de jaarenveloppe volledig is opgebruikt, dan krijgt zijn aanvraag het volgende kalenderjaar bij het bepalen van de volgorde voor toekenning van de subsidie voorrang.
+
 ### ART. 5.
 
-De adviessubsidie bedraagt tachtig procent van de totale advieskosten en nooit meer dan 1.500 euro (duizend vijfhonderd euro).<br /><br />
+De adviessubsidie bedraagt tachtig procent van de totale advieskosten en nooit meer dan 1.500 euro (duizend vijfhonderd euro) voor een eerste verkregen advies. De adviessubsidie voor een volgend advies aan eenzelfde landbouwer bedraagt veertig procent van de totale advieskosten en nooit meer dan 750 euro (zevenhonderd vijftig euro).<br />
 
 ### ART. 6.
 
@@ -36,15 +40,45 @@ Het land- of tuinbouwbedrijfshoofd bezorgt een door hemzelf en de adviesdienst o
 
 ### ART. 7.
 
-De subsidie, vermeld in artikel 5, wordt betaald nadat het land- of tuinbouwbedrijfshoofd aan de beheersdienst de facturen en betalingsbewijzen van alle nodige adviezen heeft voorgelegd. Op die facturen staan ten minste de volgende gegevens vermeld :<br />1° de naam, het adres en het unieke identificatienummer van het land- of tuinbouwbedrijfshoofd;<br />2° de modules waarover geadviseerd werd;<br />3° de adviseur per module;<br />4° de datum van het plaatsbezoek;<br />5° de datum waarop het advies per module bezorgd is aan de landbouwer;<br />6° de totale advieskosten.<br /><br />
+De subsidie, vermeld in artikel 5, wordt betaald nadat het land- of tuinbouwbedrijfshoofd aan de beheersdienst de facturen en betalingsbewijzen van alle nodige adviezen heeft voorgelegd. Op die facturen staan ten minste de volgende gegevens vermeld :<br />1° de naam, het adres en het unieke identificatienummer van het land- of tuinbouwbedrijfshoofd;<br />2° de modules waarover geadviseerd werd;<br />3° de adviseur per module;<br />4° de datum van het plaatsbezoek;<br />5° de datum waarop het advies per module bezorgd is aan de landbouwer;<br />6° de totale advieskosten;<br />7° het boekhoudkundig tijdvak of de periode waarop het advies betrekking heeft.<br /><br />
 
 ## [HOOFDSTUK IV Adviesdienst (ing. MB 20 mei 2010, art. 7)]
+
+### ART. 8.
+
+De adviesdienst informeert voorafgaandelijk aan het advies het land- of tuinbouwbedrijfshoofd duidelijk over het verloop van de adviesverlening (inhoud en planning), de totale kostprijs en mogelijke subsidies.
+
+### ART. 9.
+
+De adviesdienst bezorgt jaarlijks uiterlijk op 30 september aan de beheersdienst informatie over de geplande activiteiten van het volgende jaar. Die informatie omvat het geschatte aantal BAS- en subsidieaanvragen die de adviesdienst of de bij de adviesdienst betrokken landbouwers zullen indienen.
 
 ## Bijlage
 
 ### BIJLAGE 1.
 
-<p>HOOFDSTUK 1. - Adviesonderwerpen module 4 arbeidsveiligheid<br>
+<p>HOOFDSTUK 1 : adviesonderwerpen module 1 milieu, goede landbouw- en milieuconditie, randvoorwaarden met betrekking tot :<br>
+<br>
+1° goede landbouw- en milieucondities;<br>
+2° vogel- en habitatrichtlijn;<br>
+3° grondwaterrichtlijn;<br>
+4° zuiveringsslibrichtlijn;<br>
+5° nitraatrichtlijn.<br>
+<br>
+HOOFDSTUK 1/1 : adviesonderwerpen module 2 planten- en volksgezondheid<br>
+<br>
+1° Naleving verbod inzake niet-erkende en niet-toegestane gewasbeschermingsmiddelen;<br>
+2° spuittoestellen : onderhoud en (aanvraag van) keuringsbewijs;<br>
+3° traceerbaarheid : minimale gegevens betreffende in- en uitgaande plantaardige producten;<br>
+4° registratie en gebruik van gewasbeschermingsmiddelen;<br>
+5° Minimumeis : lokaal of kast specifiek bestemd voor de opslag van bestrijdingsmiddelen.<br>
+<br>
+HOOFDSTUK 1/2 : adviesonderwerpen module 3 dierengezondheid en -welzijn, volksgezondheid, randvoorwaarden met betrekking tot :<br>
+<br>
+1° volksgezondheid en dierengezondheid;<br>
+2° kennisgeving van ziekten;<br>
+3° dierenwelzijn.<br>
+<br>
+HOOFDSTUK 1/3. - Adviesonderwerpen module 4 arbeidsveiligheid<br>
 <br>
 1° voorkomen van vallen en struikelen op het bedrijf;<br>
 2° voorkomen van ongevallen met dieren;<br>
