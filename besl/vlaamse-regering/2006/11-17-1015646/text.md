@@ -65,7 +65,7 @@ Een land- of tuinbouwbedrijfshoofd dat de subsidie, vermeld in artikel 2, wil on
 
 ### ART. 5.
 
-Een land- of tuinbouwbedrijfshoofd kan elke twee jaar een subsidie, als vermeld in artikel 2, aanvragen waarbij telkens de datum van de ondertekening van het eerste aanmeldingsformulier dat aan de beheersdienst bezorgd is, als start van de tweejarige periode geldt.<br /><br />
+Een land- of tuinbouwbedrijfshoofd kan elke drie jaar een subsidie, als vermeld in artikel 2, aanvragen waarbij telkens de datum van de ondertekening van het eerste aanmeldingsformulier dat aan de beheersdienst bezorgd is, als start van de driejarige periode geldt.<br /><br />
 
 ### ART. 6.
 
