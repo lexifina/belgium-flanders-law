@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019158,
+  "title": "Ministerieel besluit van 2010-05-20 tot wijziging van het ministerieel besluit van 16 november 2007 betreffende de instelling van de adviesmodules en de bepaling van de adviesinhoud in het kader van het bedrijfsadviessysteem",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019158/VolledigDocument?datum=2010-02-26",
+  "source_sha256": "feab7f7ad3e5b604ccb18717e5cb9d53e28a9bcc27f9dd7a53afad4c433834ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019158&param=informatie",
+  "as_of": "2010-02-26",
+  "made": "2010-05-20",
+  "gazette": "2010-06-22",
+  "numac": 2010203302,
+  "document_start": "2010-02-26",
+  "document_end": null,
+  "in_force": "2010-02-26",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2010-02-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
