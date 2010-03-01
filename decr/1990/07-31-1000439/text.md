@@ -825,7 +825,34 @@ Een instelling kan tijdens een bepaald schooljaar niet-ingerichte uren-leraar ov
 
 ### ART. 97.
 
-§ 1. In de lagere en middelbare graad van de instellingen voor deeltijds kunstonderwijs die gevestigd zijn in het arrondissement Brussel-Hoofdstad wordt het aantal uren-leraar, vastgesteld overeenkomstig artikel 96, verhoogd met 30 % indien de schoolbesturen deel uitmaken van een netoverschrijdend Samenwerkingsforum.<br /><br />Het Samenwerkingsforum:<br />1° optimaliseert het aanbod van opleidingen die door de instellingen voor deeltijds kunstonderwijs worden georganiseerd en stemt dit op elkaar af; <br />2° streeft naar een samenwerking met Nederlandstalige instellingen voor basisonderwijs of secundair onderwijs;<br />3° ontwikkelt socio-culturele initiatieven en streeft daarbij naar een samenwerking met socio-culturele organisaties en instellingen in de gemeenten van het Vlaamse Gewest, genoemd in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966.<br />4° signaleert knelpunten, behoeften en oplossingen inzake deeltijds kunstopleidingen aan de overheid;<br />5° optimaliseert de dienstverlening voor de leerlingen in de instellingen;<br />6° stimuleert en ondersteunt alle mogelijke vormen van samenwerking tussen de instellingen.<br /><br />Het Samenwerkingsforum stelt bij gewone meerderheid van de totaal uitgebrachte stemmen een huishoudelijk reglement op en legt dit ter bekrachtiging voor aan de Vlaamse regering.<br /><br />Het Samenwerkingsforum legt jaarlijks, vóór 1 mei, een werkingsverslag voor aan de Vlaamse regering, die bijsturingen kan voorstellen.<br /><br />De Vlaamse regering evalueert de resultaten van het overleg na afloop van het derde werkingsjaar en legt de evaluatie voor aan het Vlaams Parlement. <br /><br />§ 2. Het Samenwerkingsforum oefent tenminste de volgende opdrachten uit :<br />1° de realisatie van de doelstellingen, vermeld in § 1;<br />2° een met redenen omkleed advies verlenen over de aanvragen van de instellingen voor deeltijds kunstonderwijs voor de programmatie van filialen, studierichtingen, graden en opties, zoals vermeld in artikel 97bis van dit decreet; <br />3° alle opdrachten, die een inrichtende macht apart aan het Samenwerkingsforum toewijst of die de instellingen gezamenlijk aan het Samenwerkingsforum toewijzen, uitvoeren.<br /><br />§ 3. Het Samenwerkingsforum kan nooit zelf over onderwijsbevoegdheid beschikken.<br /><br />§ 4. Het Samenwerkingsforum legt jaarlijks vóór 1 mei een werkingsverslag voor aan de Vlaamse Regering, die bijsturingen kan voorstellen. Bovendien bezorgt het tegen 1 april 2010 een zelfevaluatierapport aan de bevoegde administratie van het ministerie van Onderwijs en Vorming in functie van een eventuele structurele verankering van samenwerkingsverbanden in het deeltijds kunstonderwijs. In dit rapport komen minstens de volgende elementen aan bod :<br />- een beschrijving van de evolutie van het deeltijds kunstonderwijs in het arrondissement Brussel-Hoofdstad sinds het schooljaar van de opstart van het Samenwerkingsforum;<br />- een beschrijving en beoordeling van de sterke en de te verbeteren punten, de kansen en de moeilijkheden van de werking van het Samenwerkingsforum; <br />- een inschatting vanuit de opgedane ervaring onder welke vorm regionale samenwerking een structurele verankering kan krijgen, rekening houdend met lokale verschillen en toepasbaarheid op het volledige Vlaamse onderwijslandschap.
+§ 1. In de lagere en middelbare graad van de instellingen voor deeltijds kunstonderwijs die gevestigd zijn in het arrondissement Brussel-Hoofdstad wordt het aantal uren-leraar, vastgesteld overeenkomstig artikel 96, verhoogd met 30 % indien de schoolbesturen deel uitmaken van een netoverschrijdend Samenwerkingsforum.<br>
+<br>
+Het Samenwerkingsforum:<br>
+1° optimaliseert het aanbod van opleidingen die door de instellingen voor deeltijds kunstonderwijs worden georganiseerd en stemt dit op elkaar af;<br>
+2° streeft naar een samenwerking met Nederlandstalige instellingen voor basisonderwijs of secundair onderwijs;<br>
+3° ontwikkelt socio-culturele initiatieven en streeft daarbij naar een samenwerking met socio-culturele organisaties en instellingen in de gemeenten van het Vlaamse Gewest, genoemd in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966.<br>
+4° signaleert knelpunten, behoeften en oplossingen inzake deeltijds kunstopleidingen aan de overheid;<br>
+5° optimaliseert de dienstverlening voor de leerlingen in de instellingen;<br>
+6° stimuleert en ondersteunt alle mogelijke vormen van samenwerking tussen de instellingen.<br>
+<br>
+Het Samenwerkingsforum stelt bij gewone meerderheid van de totaal uitgebrachte stemmen een huishoudelijk reglement op en legt dit ter bekrachtiging voor aan de Vlaamse regering.<br>
+<br>
+Het Samenwerkingsforum legt jaarlijks, vóór 1 mei, een werkingsverslag voor aan de Vlaamse regering, die bijsturingen kan voorstellen.<br>
+<br>
+De Vlaamse regering evalueert de resultaten van het overleg na afloop van het derde werkingsjaar en legt de evaluatie voor aan het Vlaams Parlement.<br>
+<br>
+§ 2. Het Samenwerkingsforum oefent tenminste de volgende opdrachten uit :<br>
+1° de realisatie van de doelstellingen, vermeld in § 1;<br>
+2° een met redenen omkleed advies verlenen over de aanvragen van de instellingen voor deeltijds kunstonderwijs voor de programmatie van filialen, studierichtingen en graden , zoals vermeld in artikel 97bis van dit decreet;<br>
+3° alle opdrachten, die een inrichtende macht apart aan het Samenwerkingsforum toewijst of die de instellingen gezamenlijk aan het Samenwerkingsforum toewijzen, uitvoeren.<br>
+<br>
+§ 3. Het Samenwerkingsforum kan nooit zelf over onderwijsbevoegdheid beschikken.<br>
+<br>
+§ 4. Het Samenwerkingsforum legt jaarlijks uiterlijk op 1 april een werkingsverslag voor aan de Vlaamse Regering, die bijsturingen kan voorstellen. In het schooljaar 2009-2010 legt het Samenwerkingsforum dit werkingsverslag voor uiterlijk op 1 mei 2010. Bovendien bezorgt het Samenwerkingsforum jaarlijks uiterlijk op 1 april een zelfevaluatierapport aan de bevoegde administratie van het ministerie van Onderwijs en Vorming in functie van een eventuele structurele verankering van samenwerkingsverbanden in het deeltijds kunstonderwijs. In dit rapport komen minstens de volgende elementen aan bod :<br>
+- een beschrijving van de evolutie van het deeltijds kunstonderwijs in het arrondissement Brussel-Hoofdstad sinds het schooljaar van de opstart van het Samenwerkingsforum;<br>
+- een beschrijving en beoordeling van de sterke en de te verbeteren punten, de kansen en de moeilijkheden van de werking van het Samenwerkingsforum.<br>
+<br>
+Uiterlijk op 1 april 2011 bezorgt het Samenwerkingsforum daarenboven een inschatting vanuit de opgedane ervaring onder welke vorm regionale samenwerking een structurele verankering kan krijgen, rekening houdend met lokale verschillen en toepasbaarheid op het volledige Vlaamse onderwijslandschap.
 
 ### ART. 97bis.
 
