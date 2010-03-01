@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018958,
+  "title": "Ministerieel besluit van 2010-04-22 tot opheffing van het ministerieel besluit van 24 september 2008 betreffende aanvullende tijdelijke maatregelen voor de uitvoering van de communautaire regeling voor de instandhouding en de duurzame exploitatie van de visbestanden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018958/VolledigDocument?datum=2010-03-01",
+  "source_sha256": "b83eb563ac3bb6547c293cbf140e325d50c9ff8f4ff3e24bc5413fd704c3fef4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018958&param=informatie",
+  "as_of": "2010-03-01",
+  "made": "2010-04-22",
+  "gazette": "2010-04-26",
+  "numac": 2010202197,
+  "document_start": "2010-03-01",
+  "document_end": null,
+  "in_force": "2010-03-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
