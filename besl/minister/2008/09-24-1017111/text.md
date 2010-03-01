@@ -6,16 +6,16 @@ De Vlaamse minister van Institutionele Hervormingen, Havens, Landbouw, Zeevisser
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° visvergunning : de vergunning die werd afgeleverd door de Dienst in uitvoering van het besluit van de Vlaamse Regering van 16 december 2005 tot de instelling van een visvergunning en houdende tijdelijke maatregelen voor de uitvoering van de communautaire regeling inzake de instandhouding en de duurzame exploitatie van de visbestanden,<br />2° de Dienst : de Dienst Zeevisserij van de Afdeling Landbouw- en Visserijbeleid bij het Departement Landbouw en Visserij van de Vlaamse overheid, Vrijhavenstraat 5, 8400 Oostende.<br /><br />
+...
 
 ### ART. 2.
 
-In geval van verkoop van een vissersvaartuig wordt de visvergunning die werd uitgereikt door de Dienst aan de eigenaar van het vissersvaartuig ingeleverd bij de Dienst minstens vijf maanden vóór de verkoop. De koper kan een nieuwe visvergunning aanvragen bij de Dienst. De nieuwe visvergunning kan door de Dienst slechts worden uitgereikt en kan door de kopers slechts worden gebruikt ten vroegste één maand na de verkoop van het vissersvaartuig.<br /><br />De visvergunning die werd uitgereikt door de Dienst aan de eigenaar van een vissersvaartuig wordt ingeleverd bij de Dienst minstens vijf maanden vóór de vervanging van het vissersvaartuig indien de eigenaar het vissersvaartuig vervangt door een nieuwgebouwd of door een bestaand vissersvaartuig zonder visvergunning. Die eigenaar kan een nieuwe visvergunning aanvragen bij de Dienst. De nieuwe visvergunning kan door de Dienst slechts worden uitgereikt en kan door de eigenaar slechts worden gebruikt ten vroegste één maand na de vervanging van het vissersvaartuig.<br /><br />De visvergunning die werd uitgereikt door de Dienst aan de eigenaar van een vissersvaartuig wordt ingeleverd bij de Dienst minstens vijf maanden vóór de overdracht van het beheer of het gebruik van het vissersvaartuig indien de eigenaar het beheer of het gebruik van het vissersvaartuig overdraagt of indien de eigenaar failliet wordt verklaard en de curator het beheer overneemt. De overdracht van het beheer of het gebruik van het vissersvaartuig wordt door de Dienst op de visvergunning vermeld. De visvergunning kan door de Dienst slechts terug worden gegeven aan de eigenaar of aan de curator ten vroegste één maand na de overdracht van het beheer of het gebruik.<br /><br />
+...
 
 ### ART. 3.
 
-Bij niet-naleving van de termijnen vermeld in artikel 2, vervalt de visvergunning en moet ze bij de Dienst worden ingeleverd. De capaciteit, verbonden aan de visvergunning komt ter beschikking van de Dienst.<br /><br />
+...
 
 ### ART. 4.
 
-Dit besluit treedt in werking de dag na de bekendmaking ervan in het Belgisch Staatsblad.<br /><br />
+...

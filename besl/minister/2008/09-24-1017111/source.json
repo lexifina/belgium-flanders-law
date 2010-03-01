@@ -2,16 +2,16 @@
   "codex_id": 1017111,
   "title": "Ministerieel besluit van 2008-09-24 betreffende aanvullende tijdelijke maatregelen voor de uitvoering van de communautaire regeling voor de instandhouding en de duurzame exploitatie van de visbestanden",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017111/VolledigDocument?datum=2008-10-01",
-  "source_sha256": "8d89241e44a9df429c51aa14f375795ef38526ecd3d68d4d4b53bc4d7fc3636a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017111/VolledigDocument?datum=2010-03-01",
+  "source_sha256": "a0b0e5b81ec87ae934564f18d2feedf5e89f9832c06f5b98c2f905711c45e481",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017111&param=informatie",
-  "as_of": "2008-10-01",
+  "as_of": "2010-03-01",
   "made": "2008-09-24",
   "gazette": "2008-09-30",
   "numac": 2008036137,
   "document_start": "2008-10-01",
   "document_end": "2010-02-28",
-  "in_force": "2008-10-01",
+  "in_force": "2010-03-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2008-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-03-01; future article versions excluded; article text as the API gives it"
 }
