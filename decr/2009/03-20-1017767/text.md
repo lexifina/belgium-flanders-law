@@ -166,9 +166,33 @@ In artikel 21 van hetzelfde decreet wordt in het eerste lid de zin « Bij niet-o
 
 ## HOOFDSTUK VIII Integrale jeugdhulp en bijzondere jeugdbijstand
 
+### ART. 41.
+
+In artikel 4, § 1, eerste lid, van het decreet van 7 mei 2004 betreffende de integrale jeugdhulp, gewijzigd bij het decreet van 30 maart 2007, wordt punt 2° vervangen door wat volgt :<br />« 2° het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand; ».<br /><br />
+
+### ART. 42.
+
+In artikel 29, eerste lid, van hetzelfde decreet worden punten 3°, 4° en 5° vervangen door wat volgt :<br />« 3° de comités voor bijzondere jeugdzorg, vermeld in artikel 12 van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand en de sociale diensten voor vrijwillige jeugdbijstand, vermeld in artikel 20 van dat decreet;<br />4° de bemiddelingscommissies voor bijzondere jeugdbijstand, vermeld in artikel 26 van het decreet, vermeld in punt 3°;<br />5° de sociale diensten voor gerechtelijke jeugdbijstand, vermeld in artikel 44 van het decreet, vermeld in punt 3°; ».<br /><br />
+
+### ART. 43.
+
+In artikel 51, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 30 maart 2007, worden in punt 1° de woorden « de decreten inzake bijzondere jeugdbijstand, gecoördineerd op 4 april 1990 » vervangen door de woorden « het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand ».<br /><br />
+
 ### ART. 44.
 
 In artikel 55 van hetzelfde decreet wordt het vierde lid vervangen door wat volgt :<br />« De Vlaamse Regering stelt voor elk van de artikelen 17 tot 27, en 31 de datum van inwerkingtreding vast. ».<br /><br />
+
+### ART. 45.
+
+Artikel 30 van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp, gewijzigd bij het decreet van 30 maart 2007, wordt vervangen door wat volgt :<br />« Artikel 30. Tot aan de inwerkingtreding van artikelen 17 tot 25 van het decreet van 7 mei 2004 betreffende de integrale jeugdhulp worden met een toegangspoort gelijkgesteld :<br />1° het bureau voor bijzondere jeugdbijstand, vermeld in artikel 16 van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand, en de sociale dienst, vermeld in artikel 20 van hetzelfde decreet, bij de uitvoering van de taken die vermeld zijn in artikel 17, 1° en 2°, en artikel 22 van hetzelfde decreet;<br />2° de sociale dienst voor gerechtelijke jeugdbijstand, vermeld in artikel 44 van het decreet, vermeld in punt 1°, bij de uitvoering van de taken, vermeld in voormeld artikel;<br />3° het agentschap, vermeld in artikel 3 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, en de instantie die belast is met de indicatiestelling en de toewijzing, vermeld in artikel 8, 1°, van voormeld decreet. ».<br /><br />
+
+### ART. 46.
+
+In artikel 139bis, § 1, van het decreet basisonderwijs van 25 februari 1997, ingevoegd bij het decreet van 28 juni 2002, worden in punt 2° de woorden « de gecoördineerde decreten van 4 april 1990 inzake bijzondere jeugdbijstand » vervangen door de woorden « het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand ».<br /><br />
+
+### ART. 47.
+
+In artikel VI.2, § 1, van het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I worden in punt 2° de woorden « de gecoördineerde decreten van 4 april 1990 inzake bijzondere jeugdbijstand » vervangen door de woorden « het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand ».<br /><br />
 
 ## HOOFDSTUK IX Wijzigingen met betrekking tot de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin
 

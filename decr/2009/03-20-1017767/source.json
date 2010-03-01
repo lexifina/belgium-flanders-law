@@ -2,16 +2,16 @@
   "codex_id": 1017767,
   "title": "Decreet van 2009-03-20 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017767/VolledigDocument?datum=2009-09-15",
-  "source_sha256": "b27afd2cd23c0f474a89e77ee37f449921cedaa3ae7568327e3838c0aaf1f17e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017767/VolledigDocument?datum=2010-03-01",
+  "source_sha256": "a801ad88fcac20ccd388337d345f75fc95b6f7817a5685f9225f872e7a3d387c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017767&param=informatie",
-  "as_of": "2009-09-15",
+  "as_of": "2010-03-01",
   "made": "2009-03-20",
   "gazette": "2009-04-06",
   "numac": 2009035295,
   "document_start": "2009-04-16",
   "document_end": null,
-  "in_force": "2009-09-15",
-  "article_versions": 38,
-  "record_form": "consolidated version as in force on 2009-09-15; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-03-01",
+  "article_versions": 44,
+  "record_form": "consolidated version as in force on 2010-03-01; future article versions excluded; article text as the API gives it"
 }
