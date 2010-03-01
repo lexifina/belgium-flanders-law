@@ -2,16 +2,16 @@
   "codex_id": 1013465,
   "title": "Decreet van 2004-05-07 betreffende de integrale jeugdhulp",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013465/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "97504eef1b1a5b319cbb63a3daa1cbb7c4b2f18dec9fb412617a94d570db9ac6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013465/VolledigDocument?datum=2010-03-01",
+  "source_sha256": "80815148a8b2ccb4f3dd841a11b934a19ee2459ab5b003f5e7787db80ec6bb02",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013465&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2010-03-01",
   "made": "2004-05-07",
   "gazette": "2004-10-11",
   "numac": 2004036482,
   "document_start": null,
   "document_end": "2014-02-27",
-  "in_force": "2008-01-01",
+  "in_force": "2010-03-01",
   "article_versions": 55,
-  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-03-01; future article versions excluded; article text as the API gives it"
 }
