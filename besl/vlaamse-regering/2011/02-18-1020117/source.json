@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020117,
+  "title": "Besluit van de Vlaamse Regering van 2011-02-18 houdende de wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 17 maart 2006 betreffende de regie van de zorg en bijstand tot sociale integratie van personen met een handicap en betreffende de erkenning en subsidiëring van een Vlaams Platform van verenigingen van personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020117/VolledigDocument?datum=2010-03-01",
+  "source_sha256": "aef63ca8c4d1d8ea2149630b22f4a9d5f65d7724f97e978a025a5f6c82132b33",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020117&param=informatie",
+  "as_of": "2010-03-01",
+  "made": "2011-02-18",
+  "gazette": "2011-03-29",
+  "numac": 2011201375,
+  "document_start": "2010-03-01",
+  "document_end": null,
+  "in_force": "2010-03-01",
+  "article_versions": 47,
+  "record_form": "consolidated version as in force on 2010-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
