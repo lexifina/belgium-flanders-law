@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018782,
+  "title": "Besluit van de Vlaamse Regering van 2009-11-20 tot wijziging van bijlage 1 van het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning en van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018782/VolledigDocument?datum=2010-03-05",
+  "source_sha256": "78bcb450a8d714ca32fab0bc0fb3aa3ef9387e843601e5d4367ade243b3689fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018782&param=informatie",
+  "as_of": "2010-03-05",
+  "made": "2009-11-20",
+  "gazette": "2010-02-23",
+  "numac": 2010035114,
+  "document_start": "2010-03-05",
+  "document_end": null,
+  "in_force": "2010-03-05",
+  "article_versions": 52,
+  "record_form": "consolidated version as in force on 2010-03-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
