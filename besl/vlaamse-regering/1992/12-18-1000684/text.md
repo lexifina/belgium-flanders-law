@@ -60,11 +60,11 @@ Onder voorbehoud van de bepaling van artikel 4 wordt het bedrag van de verbeteri
 
 ### ART. 13bis.
 
-De verbeteringspremie, vermeld in artikel 13, eerste lid, 1°, h), wordt toegekend binnen de perken van de middelen die voor dakisolatiepremies voorzien worden in de algemene uitgavenbegroting van de Vlaamse Gemeenschap. Die premie wordt slechts eenmaal voor dezelfde woning toegekend.
+De verbeteringspremie, vermeld in artikel 13, eerste lid, 1°, h), wordt niet toegekend aan wie in aanmerking komt voor de verhoging van de dakisolatiepremie, vermeld in artikel 8/2, tweede lid, van het besluit van de Vlaamse Regering van 2 maart 2007 inzake de openbaredienstverplichtingen ter bevordering van het rationeel energiegebruik. Daartoe worden de dossiergegevens van de aanvragers in kwestie vergeleken met de gegevens inzake de verhoging van de aanvullende premies, die door het Vlaams Energieagentschap wordt uitbetaald met toepassing van artikel 8/2, tweede lid van het besluit van de Vlaamse Regering van 2 maart 2007 inzake de openbaredienstverplichtingen ter bevordering van het rationeel energiegebruik en die door het Vlaams Energieagentschap maandelijks worden bezorgd aan de leidend ambtenaar van het agentschap.
 
 ### ART. 13ter.
 
-Als de premie, vermeld in artikel 13bis, niet gecumuleerd wordt met de aanpassingspremie of met de verbeteringspremie voor andere werkzaamheden, wordt ze, in afwijking van de voorwaarden en de procedureregels, vermeld in artikel 1, 6°, artikelen 3 tot en met 5, artikel 11 en artikel 13, tweede lid, ook toegekend aan beschermde klanten als vermeld in artikel 2, 20° van het REG-decreet van 2 april 2004.<br /><br />De premie, vermeld in het eerste lid, wordt ambtshalve betaalbaar gesteld op basis van de lijsten, vermeld in artikel 8/1, vijfde lid, van het besluit van de Vlaamse Regering van 2 maart 2007 inzake de openbaredienstverplichtingen ter bevordering van het rationeel energiegebruik die het Vlaams Energieagentschap maandelijks bezorgt aan de leidend ambtenaar van het agentschap.<br /><br />Het agentschap informeert de begunstigden van de premie, vermeld in artikel 13, eerste lid, 1°, h), die niet voorkomen op de lijsten, vermeld in het tweede lid, over de premies die ze voor het plaatsen van dak- of zoldervloerisolatie kunnen aanvragen.
+...
 
 ## HOOFDSTUK IV SLOTBEPALINGEN
 
