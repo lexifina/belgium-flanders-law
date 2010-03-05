@@ -2331,7 +2331,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>&nbsp;&nbsp; 2° opslag en/of composteerruimte van meer dan 25 m<sup>3</sup> tot en met 2.000 m<sup>3</sup></p>
+			<p>&nbsp; &nbsp;2° opslag en/of composteerruimte van meer dan 25 m<sup>3</sup> tot en met 2.000 m<sup>3</sup></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -3429,7 +3429,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>&nbsp; &nbsp;2° meer dan 1 ton</p>
+			<p>&nbsp;&nbsp; 2° meer dan 1 ton</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -4319,7 +4319,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 
 			<p>&nbsp;&nbsp; - onbehandeld houtafval, met een nominaal thermisch vermogen van:</p>
 
-			<p>&nbsp;&nbsp;&nbsp;&nbsp; 1) tot en met 5MW</p>
+			<p>&nbsp;&nbsp;&nbsp; &nbsp;1) tot en met 5MW</p>
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp; 2) meer dan 5 MW</p>
 			</td>
@@ -4759,7 +4759,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 
 			<p>&nbsp;&nbsp; - onbehandeld houtafval, met een nominaal thermisch vermogen van:</p>
 
-			<p>&nbsp;&nbsp;&nbsp;&nbsp; 1) tot en met 5MW</p>
+			<p>&nbsp;&nbsp;&nbsp; &nbsp;1) tot en met 5MW</p>
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp; 2) meer dan 5 MW</p>
 			</td>
@@ -5607,9 +5607,34 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>2.3.8</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Installaties voor de verwijdering van gevaarlijke afvalstoffen, met een capaciteit van meer dan 10 ton per dag, in de zin van de bijlage II A bij EG-richtlijn 75/442/EEG en in de zin van EG-richtlijn 75/439/EEG van de Raad van 16 juni 1975 inzake de verwijdering van afgewerkte olie, met name:</p>
-
-			<p>er kan een overlapping zijn met andere deelrubrieken van rubriek 2.3</p>
+			<p>Installaties voor de verwijdering van gevaarlijke afvalstoffen, met een capaciteit van meer dan 10 ton per dag, in de zin van de bijlage II A bij EG-richtlijn 75/442/EEG en in de zin van EG-richtlijn 75/439/EEG van de Raad van 16 juni 1975 inzake de verwijdering van afgewerkte olie, namelijk :<br>
+			(er kan een overlapping zijn met andere deelrubrieken van rubriek 2.3)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<p>D1 Storten op of in de bodem (bv. - op een vuilstortplaats)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5635,7 +5660,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>D1 storten op of in de bodem (vb. op een vuilstortplaats, enz.)</p>
+			<p>D2 Uitrijden (bv. - biodegradatie van vloeibaar of slibachtig afval in de bodem)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5653,7 +5678,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>J, R</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>B</p>
 			</td>
 		</tr>
 		<tr>
@@ -5661,7 +5686,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>D2 uitrijden (vb. biodegradatie van vloeibaar of slibachtig afval in de bodem, enz.)</p>
+			<p>D3 Injectie in de diepe ondergrond (bv. - injectie van verpompbare afvalstoffen in putten, zoutkoepels of natuurlijk gevormde holten)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5679,7 +5704,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>J, R</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>B</p>
 			</td>
 		</tr>
 		<tr>
@@ -5687,7 +5712,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>D3 injectie in de diepe ondergrond (vb. injectie van verpompbare afvalstoffen in putten, zoutkoepels of natuurlijk gevormde holten, enz.)</p>
+			<p>D4 Opslag in waterbekkens (bv. - het lozen van vloeibaar of slibachtig afval in putten, vijvers of lagunen)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5705,7 +5730,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>J, R</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>B</p>
 			</td>
 		</tr>
 		<tr>
@@ -5713,7 +5738,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>D4 opslag in waterbekkens (vb. het lozen van vloeibaar of slibachtig afval in putten, vijvers of lagunen, enz.)</p>
+			<p>D5 Verwijderen op speciaal ingerichte locaties (bv. - in afzonderlijke beklede, afgedekte cellen die onderling en van de omgeving afgeschermd zijn)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5731,7 +5756,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>J, R</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>B</p>
 			</td>
 		</tr>
 		<tr>
@@ -5739,7 +5764,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>D5 verwijderen op speciaal ingerichte locaties (vb. in afzonderlijke beklede, afgedekte cellen die onderling en van de omgeving afgeschermd zijn, enz.)</p>
+			<p>D6 Lozen in wateren, behalve zeeën en oceanen;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5757,7 +5782,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>J, R</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>B</p>
 			</td>
 		</tr>
 		<tr>
@@ -5765,7 +5790,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>D6 lozen in wateren, behalve zeeën en oceanen</p>
+			<p>D7 Verwijderen in zeeën en oceanen, inclusief inbrengen in de bodem</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5783,7 +5808,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>J, R</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>B</p>
 			</td>
 		</tr>
 		<tr>
@@ -5791,7 +5816,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>D7 verwijderen in zeeën en oceanen, inclusief inbrengen in de bodem</p>
+			<p>D8 Biologische behandeling op een niet elders in dit artikel aangegeven wijze waardoor verbindingen of mengsels ontstaan die worden verwijderd op een van de methodes, vermeld in D1 tot en met D12</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5809,7 +5834,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>J, R</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>B</p>
 			</td>
 		</tr>
 		<tr>
@@ -5817,7 +5842,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>D8 biologische behandeling op een niet elders in dit artikel aangegeven wijze waardoor verbindingen of mengsels ontstaan die worden verwijderd op een van de onder D1 tot en met D12 vermelde methodes</p>
+			<p>D9 Fysisch-chemische behandeling op een niet elders in dit artikel aangegeven wijze waardoor verbindingen of mengsels ontstaan die worden verwijderd op een van de methodes, vermeld in D1 tot en met D12 (bv. - verdampen, drogen, calcineren)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5835,7 +5860,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>J, R</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>B</p>
 			</td>
 		</tr>
 		<tr>
@@ -5843,7 +5868,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>D9 fysisch-chemische behandeling op een niet elders in dit artikel aangegeven wijze waardoor verbindingen of mengsels ontstaan die worden verwijderd op een van de onder D1 tot en met D12 vermelde methodes (vb. verdampen, drogen, calcineren, enz.)</p>
+			<p>D10 Verbranding op het land</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5861,7 +5886,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>J, R</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>B</p>
 			</td>
 		</tr>
 		<tr>
@@ -5869,7 +5894,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>D10 verbranding op het land</p>
+			<p>D11 Verbranding op zee</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5887,7 +5912,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>J, R</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>B</p>
 			</td>
 		</tr>
 		<tr>
@@ -5895,7 +5920,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>D11 verbranding op zee</p>
+			<p>D12 Permanente opslag (bv. - plaatsen van houders in mijnen)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5913,7 +5938,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>J, R</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>B</p>
 			</td>
 		</tr>
 		<tr>
@@ -5921,7 +5946,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>D12 permanente opslag (vb. plaatsen van houders in mijnen, enz.)</p>
+			<p>D13 Vermengen vóór een van de handelingen, vermeld in D1 tot en met D12;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5939,7 +5964,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>J, R</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>B</p>
 			</td>
 		</tr>
 		<tr>
@@ -5947,7 +5972,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>D13 vermengen vóór een van de onder D1 tot en met D12 vermelde handelingen</p>
+			<p>D14 Herverpakken vóór een van de handelingen, vermeld in D1 tot en met D13</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5965,7 +5990,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>J, R</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>B</p>
 			</td>
 		</tr>
 		<tr>
@@ -5973,7 +5998,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>D14 herverpakken vóór een van de onder D1 tot en met D13 vermelde handelingen</p>
+			<p>D15 Opslag in afwachting van een van de behandelingen, vermeld in D1 tot en met D14 (met uitsluiting van voorlopige opslag die voorafgaat aan inzameling op de plaats van productie)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5991,7 +6016,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>J, R</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>B</p>
 			</td>
 		</tr>
 		<tr>
@@ -5999,7 +6024,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>D15 opslag in afwachting van een van de onder D1 tot en met D14 vermelde behandelingen (met uitsluiting van voorlopige opslag die voorafgaat aan inzameling op de plaats van productie)</p>
+			<p>D16 Installaties voor de verwijdering van afgewerkte olie (EG-richtlijn 75/439/EEG van 16 juni 1975 inzake de verwijdering van afgewerkte olie)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -6017,33 +6042,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>J, R</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>D16 installaties voor de verwijdering van afgewerkte olie (EG-richtlijn 75/439/EEG van 16 juni 1975 inzake de verwijdering van afgewerkte olie)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
-			<p>N, G, O, X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>E</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
-			<p>J, R</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -10495,8 +10494,6 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 
 ### rubriek 9
 
-<p>&nbsp;</p>
-
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
@@ -11910,7 +11907,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; 2° 750 plaatsen voor zeugen</p>
 
-			<p><em>(Er kan overlapping zijn met een andere deelrubriek van rubriek 9.3.2)</em></p>
+			<p><em>(Er kan overlapping zijn met een andere deelrubriek van rubriek 9.4.1)</em></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -16910,7 +16907,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>16.4</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Inrichtingen voor het niet-huishoudelijk vullen van verplaatsbare recipiënten met inbegrip van de LPG-stations met:</p>
+			<p>Inrichtingen voor het niet-huishoudelijk vullen van verplaatsbare recipiënten en voor de bevoorrading van motorvoertuigen, met uitzondering van deze bedoeld in rubriek 16.9, met :</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -31811,7 +31808,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>32.8.1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Baden: alle hierna vermelde inrichtingen, met inbegrip van baden verbonden aan of behorende tot privé-clubs, campings, scholen en dergelijke:</p>
+			<p>Baden: alle hierna vermelde inrichtingen, met inbegrip van baden verbonden aan of behorende tot privé-clubs, campings, scholen en dergelijke, voor zover ze bestaan uit een vaste constructie:</p>
 
 			<p><em>Uitzondering: vallen niet onder deze indelingsrubriek: inrichtingen verbonden aan privé-woningen die niet voor het publiek worden opengesteld, noch gratis, noch tegen enige directe of indirecte vergoeding</em></p>
 			</td>
@@ -31917,7 +31914,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp; c) van ten minste 300 m<sup>2</sup></p>
+			<p>&nbsp; &nbsp;c) van ten minste 300 m<sup>2</sup></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -38475,7 +38472,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp; b) meer dan 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
+			<p>&nbsp; &nbsp;b) meer dan 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -38917,7 +38914,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) meer dan 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
+			<p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;b) meer dan 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -40763,7 +40760,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;b) meer dan 100 kW tot en met 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) meer dan 100 kW tot en met 500 kW, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -41477,7 +41474,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>1° inrichtingen voor het vervaardigen van plantaardige of dierlijke oliën en vetten met een productiecapaciteit van 60.000 ton per jaar of meer</p>
+			<p>1° inrichtingen voor het vervaardigen van plantaardige of dierlijke oliën en vetten met een productiecapaciteit van 60.000 ton of meer per jaar</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -41503,7 +41500,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>2° inrichtingen voor het conserveren van dierlijke en/of plantaardige producten met een productiecapaciteit van 100.000 ton per jaar of meer</p>
+			<p>2° inrichtingen voor het conserveren van dierlijke en/of plantaardige producten met een productiecapaciteit van 100.000 ton of meer per jaar</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -41529,7 +41526,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>3° zuivelfabrieken met een productiecapaciteit van 100.000 ton per jaar of meer</p>
+			<p>3° zuivelfabrieken met een productiecapaciteit van 100.000 ton of meer per jaar</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -41555,7 +41552,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>4° suikerwarenfabrieken met een productiecapaciteit van 90.000 ton per jaar of meer</p>
+			<p>4° suikerwarenfabrieken met een productiecapaciteit van 90.000 ton of meer per jaar</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -41581,7 +41578,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>5° siroop- of frisdrankenfabrieken met een productiecapaciteit van 75 miljoen liter per jaar of meer</p>
+			<p>5° siroop- of frisdrankenfabrieken met een productiecapaciteit van 75 miljoen liter of meer per jaar</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -41607,7 +41604,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>6° vismeel- en visoliefabrieken met een productiecapaciteit van 10.000 ton per jaar of meer</p>
+			<p>6° vismeel- en visoliefabrieken met een productiecapaciteit van 10.000 ton of meer per jaar</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -41633,7 +41630,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>7° suikerfabrieken met een productiecapaciteit van 500 ton per dag of meer</p>
+			<p>7° suikerfabrieken met een productiecapaciteit van 500 ton of meer per dag</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -50868,19 +50865,23 @@ DEEL III: ...
 
 ### BIJLAGE 8
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2005/06/24_2.pdf#page=19" title=" " target="_blank" class="pdf"></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2005/06/24_2.pdf#page=19" title=" formulier" target="_blank" class="pdf">formulier</a> <br /><br />In bijlage 8 wordt de ondertekeningsformule "De Burgemeester" vervangen door de ondertekeningsformule "De Burgemeester,                 De gemeentesecretaris"
 
 ## BIJLAGE 8BIS
 
 ### BIJLAGE 8bis
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2005/06/24_2.pdf#page=21" title=" " target="_blank" class="pdf"></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2005/06/24_2.pdf#page=21" title=" " target="_blank" class="pdf"></a> <br /><br /><br />In bijlage 8bis wordt de ondertekeningsformule "De Burgemeester" vervangen door de ondertekeningsformule "De Burgemeester,                 De gemeentesecretaris"<br />
+
+### BIJLAGE 8bis
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2005/06/24_2.pdf#page=21" title=" " target="_blank" class="pdf"></a> <br /><br /><br />In bijlage 8bis wordt de ondertekeningsformule "De Burgemeester" vervangen door de ondertekeningsformule "De Burgemeester,                 De gemeentesecretaris"<br /><br />Met ingang van 31 maart 2012 worden de woorden « bestendige deputatie van de provincieraad » telkens vervangen door het woord « deputatie » (Zie art. 26 BVR 23 december 2011)<br />
 
 ## [BIJLAGE 8TER (ing. BVR 18 september 2009, art. 18)]
 
 ### BIJLAGE 8TER
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/10/28_1.pdf#page=66" title=" Bijlage 8ter" target="_blank" class="pdf">Bijlage 8ter</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2009/10/28_1.pdf#page=66" title=" Bijlage 8ter" target="_blank" class="pdf">Bijlage 8ter</a> <br /><br /><br />In bijlage 8ter wordt de ondertekeningsformule "De Burgemeester" vervangen door de ondertekeningsformule "De Burgemeester,                 De gemeentesecretaris"<br />
 
 ## BIJLAGE 8quater.
 
@@ -50900,19 +50901,19 @@ MODEL VAN BESLUIT HOUDENDE EEN NEGATIEVE BESLISSING IN EERSTE AANLEG OVER EEN MI
 
 ### BIJLAGE 10
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2005/06/24_2.pdf#page=23" title=" formulier" target="_blank" class="pdf">formulier</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2005/06/24_2.pdf#page=23" title=" formulier" target="_blank" class="pdf">formulier</a> <br /><br />In bijlage 10 wordt de ondertekeningsformule "De Burgemeester" vervangen door de ondertekeningsformule "De Burgemeester,                 De gemeentesecretaris"<br />
 
 ## BIJLAGE 10BIS
 
 ### BIJLAGE 10bis
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2005/06/24_2.pdf#page=25" title=" formulier" target="_blank" class="pdf">formulier</a> <br /><br />In dit formulier worden in het onderdeel "gegevens met betrekking tot de beroepsmogelijkheden" de woorden "10 dagen" vervangen door de woorden "dertig dagen". Zie BVR 24 april 2009, art. 12, B.S. 15 juli 2009.
+<a href="http://www.ejustice.just.fgov.be/mopdf/2005/06/24_2.pdf#page=25" title=" formulier" target="_blank" class="pdf">formulier</a> <br /><br />In dit formulier worden in het onderdeel "gegevens met betrekking tot de beroepsmogelijkheden" de woorden "10 dagen" vervangen door de woorden "dertig dagen". Zie BVR 24 april 2009, art. 12, B.S. 15 juli 2009.<br /><br />In bijlage 10bis wordt de ondertekeningsformule "De Burgemeester" vervangen door de ondertekeningsformule "De Burgemeester,                 De gemeentesecretaris"<br />
 
 ## [BIJLAGE 10TER (ing. BVR 18 september 2009, art. 19)]
 
 ### BIJLAGE 10TER
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/10/28_1.pdf#page=69" title=" Bijlage 10ter" target="_blank" class="pdf">Bijlage 10ter</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2009/10/28_1.pdf#page=69" title=" Bijlage 10ter" target="_blank" class="pdf">Bijlage 10ter</a> <br /><br />In bijlage 10ter wordt de ondertekeningsformule "De Burgemeester" vervangen door de ondertekeningsformule "De Burgemeester,                 De gemeentesecretaris"<br />
 
 ## BIJLAGE 10quater
 
