@@ -86,7 +86,7 @@ Het besluit van de Vlaamse Regering van 15 mei 2009 tot wijziging van het beslui
 
 ### ART. 21.
 
-De volgende regelingen treden in werking op 1 januari 2010 :<br /><br />1° artikel 2 tot en met 7 van het decreet van 27 maart 2009 houdende wijziging van het decreet van 28 juni 1985 betreffende de milieuvergunning tot afstemming van de aanvraagprocedures van de stedenbouwkundige vergunning en milieuvergunning en het decreet van 22 december 2006 houdende eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat van gebouwen en tot invoering van een energieprestatiecertificaat en tot wijziging van artikel 22 van het REG-decreet;<br /><br />2° artikel 4.7.3 tot en met 4.7.11 van de Vlaamse Codex Ruimtelijke Ordening;<br /><br />3° dit besluit.
+De volgende regelingen treden in werking op 1 januari 2010 :<br /><br />1° artikel 3 tot en met 7 van het decreet van 27 maart 2009 houdende wijziging van het decreet van 28 juni 1985 betreffende de milieuvergunning tot afstemming van de aanvraagprocedures van de stedenbouwkundige vergunning en milieuvergunning en het decreet van 22 december 2006 houdende eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat van gebouwen en tot invoering van een energieprestatiecertificaat en tot wijziging van artikel 22 van het REG-decreet;<br /><br />2° artikel 4.7.3 tot en met 4.7.11 van de Vlaamse Codex Ruimtelijke Ordening;<br /><br />3° dit besluit.
 
 ### ART. 22.
 
