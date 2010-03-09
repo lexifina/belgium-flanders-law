@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018805,
+  "title": "Ministerieel besluit van 2010-02-24 tot bepaling van de standaard voor de titel van receptionist/telefonist",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018805/VolledigDocument?datum=2010-03-09",
+  "source_sha256": "8df1f1a4fe8d16938010fa30fd9ecbc632d8172294823c9843c40716cef10602",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018805&param=informatie",
+  "as_of": "2010-03-09",
+  "made": "2010-02-24",
+  "gazette": "2010-03-09",
+  "numac": 2010201087,
+  "document_start": "2010-03-09",
+  "document_end": "2018-12-31",
+  "in_force": "2010-03-09",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-03-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
