@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018822,
+  "title": "Ministerieel besluit van 2010-01-29 tot wijziging van het ministerieel besluit van 28 november 2008 tot aanwijzing van de leden en de plaatsvervangende leden van het Raadgevend Comité van het Instituut voor Landbouw- en Visserijonderzoek (ILVO)",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018822/VolledigDocument?datum=2010-03-10",
+  "source_sha256": "47ccdbbb98a71b9c7b8a308148acb34f87be0b34fa4383f87a1fb3ba0db8147b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018822&param=informatie",
+  "as_of": "2010-03-10",
+  "made": "2010-01-29",
+  "gazette": "2010-03-10",
+  "numac": 2010201215,
+  "document_start": "2010-03-10",
+  "document_end": null,
+  "in_force": "2010-03-10",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2010-03-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
