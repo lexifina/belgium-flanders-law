@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018821,
+  "title": "Ministerieel besluit van 2010-03-04 tot wijziging van het ministerieel besluit van 21 december 2009 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018821/VolledigDocument?datum=2010-03-11",
+  "source_sha256": "ff54de13b90dc07e77d11d0977dcc175cf564d74b9a3f78ff099a3b57ca0c979",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018821&param=informatie",
+  "as_of": "2010-03-11",
+  "made": "2010-03-04",
+  "gazette": "2010-03-10",
+  "numac": 2010035200,
+  "document_start": "2010-03-11",
+  "document_end": "2010-12-31",
+  "in_force": "2010-03-11",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2010-03-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
