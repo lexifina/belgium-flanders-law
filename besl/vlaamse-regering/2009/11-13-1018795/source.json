@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018795,
+  "title": "Besluit van de Vlaamse Regering van 2009-11-13 tot wijziging van het besluit van de Vlaamse Regering van 5 mei 2000 tot aanwijzing van de handelingen in de zin van artikel 4.1.1, 5°, artikel 4.4.7, § 2, en artikel 4.7.1, § 2, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening en tot regeling van het vooroverleg met de Vlaamse Bouwmeester",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018795/VolledigDocument?datum=2010-03-12",
+  "source_sha256": "4ad570c53257b93296ff61531e5741bed0a21799dcda6194fd29eca6876f1b53",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018795&param=informatie",
+  "as_of": "2010-03-12",
+  "made": "2009-11-13",
+  "gazette": "2010-03-02",
+  "numac": 2010035165,
+  "document_start": "2010-03-12",
+  "document_end": null,
+  "in_force": "2010-03-12",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-03-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
