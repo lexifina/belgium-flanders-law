@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018798,
+  "title": "Decreet van 2010-02-12 houdende instemming met het Verdrag van de Raad van Europa inzake de bescherming van kinderen tegen seksuele uitbuiting en seksueel misbruik, opgemaakt in Lanzarote op 25 oktober 2007",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018798/VolledigDocument?datum=2010-03-14",
+  "source_sha256": "ae72b1c8bd0d905ed2c288d23c767ff0f52c0cf6d2e5f11ba160f390ca66f3b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018798&param=informatie",
+  "as_of": "2010-03-14",
+  "made": "2010-02-12",
+  "gazette": "2010-03-04",
+  "numac": 2010035166,
+  "document_start": "2010-03-14",
+  "document_end": null,
+  "in_force": "2010-03-14",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2010-03-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
