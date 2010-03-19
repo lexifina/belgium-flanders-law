@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018908,
+  "title": "Ministerieel besluit van 2010-03-19 houdende vaststelling van de Herculessleutel voor het begrotingsjaar 2009",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018908/VolledigDocument?datum=2010-03-19",
+  "source_sha256": "424d28f52352d53a86c07caadb67d8b01a2ebdb766dd65d031c236f0ae29f035",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018908&param=informatie",
+  "as_of": "2010-03-19",
+  "made": "2010-03-19",
+  "gazette": "2010-04-01",
+  "numac": 2010035233,
+  "document_start": "2010-03-19",
+  "document_end": null,
+  "in_force": "2010-03-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-03-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
