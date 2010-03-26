@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018941,
+  "title": "Besluit van de Vlaamse Regering van 2010-03-26 betreffende de goedkeuring van het huishoudelijk reglement van de Vlaamse Hoge Raad voor de Milieuhandhaving, vermeld in artikel 16.2.9 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018941/VolledigDocument?datum=2010-03-26",
+  "source_sha256": "3897307237d6f0b9e1a03c99d09d533eeb99d661d958ce6e0660592bb4bcc5a5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018941&param=informatie",
+  "as_of": "2010-03-26",
+  "made": "2010-03-26",
+  "gazette": "2010-04-20",
+  "numac": 2010202018,
+  "document_start": "2010-03-26",
+  "document_end": null,
+  "in_force": "2010-03-26",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2010-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
