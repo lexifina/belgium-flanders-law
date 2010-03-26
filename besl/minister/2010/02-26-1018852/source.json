@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018852,
+  "title": "Ministerieel besluit van 2010-02-26 tot wijziging van het ministerieel besluit van 11 oktober 2006 tot vaststelling van het formulier voor kennisgeving van de overdracht van het zakelijk recht, bepaald bij artikel 27, § 3, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018852/VolledigDocument?datum=2010-03-26",
+  "source_sha256": "3d7194903e9e25ae8ab83a17349bb348cfc2c0c57261f0d58a939b28a386bc68",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018852&param=informatie",
+  "as_of": "2010-03-26",
+  "made": "2010-02-26",
+  "gazette": "2010-03-16",
+  "numac": 2010035180,
+  "document_start": "2010-03-26",
+  "document_end": null,
+  "in_force": "2010-03-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
