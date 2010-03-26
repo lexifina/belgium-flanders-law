@@ -20,4 +20,4 @@ De overdracht van het zakelijk recht wordt aan de administratie en aan de ambten
 
 ### Bijlage
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/10/24_1.pdf#page=162" title=" bijlage" target="_blank" class="pdf">bijlage</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/03/16_1.pdf#page=133" title=" " target="_blank" class="pdf"></a>
