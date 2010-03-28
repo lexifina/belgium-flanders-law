@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018858,
+  "title": "Besluit van de Vlaamse Regering van 2010-02-26 houdende klassering van de Warandebroekbeek tot onbevaarbare waterloop van derde categorie in Gooik",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018858/VolledigDocument?datum=2010-03-28",
+  "source_sha256": "71ae78aeddb0f0187eb6a2d75a544c0b4bb2dbb13b2078a3561cb4de36edadd4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018858&param=informatie",
+  "as_of": "2010-03-28",
+  "made": "2010-02-26",
+  "gazette": "2010-03-18",
+  "numac": 2010035188,
+  "document_start": "2010-03-28",
+  "document_end": null,
+  "in_force": "2010-03-28",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-03-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
