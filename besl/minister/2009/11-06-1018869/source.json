@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018869,
+  "title": "Ministerieel besluit van 2009-11-06 tot oprichting van de Vlaamse werkgroep Bevolkingsonderzoek",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018869/VolledigDocument?datum=2010-03-29",
+  "source_sha256": "db222110987ac95a3fe26b27f1e5dd5ed3c23c32f261a0dd93b654897643b937",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018869&param=informatie",
+  "as_of": "2010-03-29",
+  "made": "2009-11-06",
+  "gazette": "2010-03-19",
+  "numac": 2010201332,
+  "document_start": "2010-03-29",
+  "document_end": null,
+  "in_force": "2010-03-29",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2010-03-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
