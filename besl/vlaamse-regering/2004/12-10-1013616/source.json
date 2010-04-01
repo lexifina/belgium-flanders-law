@@ -2,16 +2,16 @@
   "codex_id": 1013616,
   "title": "Besluit van de Vlaamse Regering van 2004-12-10 tot vaststelling van de regeling van de rechtspositie van het personeel van het Vlaams Instituut voor de Aanmoediging van Innovatie door Wetenschap en Technologie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013616/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "5817794a9dd1c284ada9652e8e2b93e4c2738249e7345d91fab54a335bf3c5c1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013616/VolledigDocument?datum=2010-04-01",
+  "source_sha256": "f6a595b5763fac2a89a7ede0ad7b95847648b545af4841cde776a412be168ff4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013616&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2010-04-01",
   "made": "2004-12-10",
   "gazette": "2005-01-10",
   "numac": 2004036913,
   "document_start": null,
   "document_end": "2010-03-31",
-  "in_force": "2006-06-01",
+  "in_force": "2010-04-01",
   "article_versions": 50,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-04-01; future article versions excluded; article text as the API gives it"
 }
