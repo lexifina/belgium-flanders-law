@@ -2,16 +2,16 @@
   "codex_id": 1017384,
   "title": "Besluit van de Vlaamse Regering van 2008-12-19 tot vaststelling van de tarieven van het loodsgeld, loodsvergoedingen voor loodsverrichtingen in de loodsvaarwateren en andere kosten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017384/VolledigDocument?datum=2009-03-16",
-  "source_sha256": "4942971e49a21f5d257033ca066c863d81a13d7c76f37bea33c3810c26606c9b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017384/VolledigDocument?datum=2010-04-01",
+  "source_sha256": "20a630f6e728a2cf886af4d9421cebd8764d8c9f0d3ddf7ac8e0ce58fab83d01",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017384&param=informatie",
-  "as_of": "2009-03-16",
+  "as_of": "2010-04-01",
   "made": "2008-12-19",
   "gazette": "2008-12-29",
   "numac": 2008036464,
   "document_start": "2009-01-01",
   "document_end": "2010-03-31",
-  "in_force": "2009-03-16",
+  "in_force": "2010-04-01",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2009-03-16; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-04-01; future article versions excluded; article text as the API gives it"
 }
