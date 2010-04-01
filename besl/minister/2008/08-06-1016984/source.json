@@ -2,16 +2,16 @@
   "codex_id": 1016984,
   "title": "Ministerieel besluit van 2008-08-06 houdende de procedure voor de behandeling van de aanvraag tot toestemming wegens therapeutische noodzaak door de commissie van onafhankelijke artsen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016984/VolledigDocument?datum=2008-08-01",
-  "source_sha256": "2ca08866933160de42fcb617e02f5515b3708062cc2c0647568df4046b212515",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016984/VolledigDocument?datum=2010-04-01",
+  "source_sha256": "38c46271b1fecaf13b5d55f1190a54bf726c235d8ee645a091ccf1019b58f774",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016984&param=informatie",
-  "as_of": "2008-08-01",
+  "as_of": "2010-04-01",
   "made": "2008-08-06",
   "gazette": "2008-08-22",
   "numac": 2008202878,
   "document_start": "2008-08-01",
   "document_end": "2013-03-29",
-  "in_force": "2008-08-01",
+  "in_force": "2010-04-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2008-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-04-01; future article versions excluded; article text as the API gives it"
 }

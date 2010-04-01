@@ -14,7 +14,7 @@ Elke aanvraag tot toestemming wegens therapeutische noodzaak moet door de sporte
 
 ### ART. 3.
 
-De leden van de commissie die geen personeelslid zijn van de Vlaamse overheid, ontvangen ten laste van de begroting van de Vlaamse Gemeenschap een jaarlijkse forfaitaire vergoeding ten bedrage van 2 500 euro. <br /><br />De door de commissie geraadpleegde externe deskundigen maken per onderzocht dossier aanspraak op een forfaitaire vergoeding ten bedrage van 20 euro.<br /><br />De bedragen vermeld in dit besluit, volgen de ontwikkeling van het gezondheidsindexcijfer overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld. De bedragen worden jaarlijks aangepast volgens onderstaande formule :<br />gezondheidsindex x (op 1 januari)/gezondheidsindex x-1 (op 1 januari) <br /><br />
+De leden van de commissie van onafhankelijke artsen die geen personeelslid zijn van de Vlaamse overheid, en de door de commissie geraadpleegde externe deskundigen, maken, ten laste van de begroting van de Vlaamse Gemeenschap, per onderzocht dossier aanspraak op een forfaitaire vergoeding ten bedrage van 25 euro.<br /><br />De bedragen vermeld in dit besluit, volgen de ontwikkeling van het gezondheidsindexcijfer overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld. De bedragen worden jaarlijks aangepast volgens onderstaande formule :<br />gezondheidsindex x (op 1 januari)/gezondheidsindex x-1 (op 1 januari) <br /><br />
 
 ### ART. 4.
 
