@@ -108,6 +108,22 @@ Het recht op volumekorting vangt aan op de eerste dag van de maand die volgt op 
 
 ## [HOOFDSTUK V/1. Tijdelijke bepalingen (ing. BVR 26 maart 2010, art. 1)]
 
+### ART. 19/1.
+
+Het toepassingsjaar dat loopt van 1 juli 2009 tot en met 30 juni 2010, wordt uitzonderlijk afgesloten op 1 april 2010. Het kortingspercentage van de volumekorting, vastgesteld op basis van de omzet die gerealiseerd is tijdens de referentieperiode van 1 januari 2009 tot en met 31 december 2009, wordt toegekend tijdens het daaropvolgende toepassingsjaar, dat uitzonderlijk loopt van 1 april 2010 tot en met 30 juni 2011.
+
+### ART. 19/2.
+
+De termijnen van het toepassingsjaar en de referentieperiode worden na de periode, vermeld in artikel 19/1, weer vastgesteld zoals bepaald in artikel 1, 2° en 3°.
+
+### ART. 19/3.
+
+Als de toepassing op 1 april 2010 van de tabel met volumekortingen een verlaging van het kortingspercentage van een lijnvaartdienst of een trampingdienst gevolg heeft voor het toepassingsjaar dat loopt van 1 juli 2009 tot en met 30 juni 2010, blijft het toegekende kortingspercentage op basis van het referentiejaar 2008 behouden.
+
+### ART. 19/4.
+
+De termijnen van het toepassingsjaar en de referentieperiode blijven in de gevallen, vermeld in artikel 19/3, vastgesteld conform artikel 1, 2° en 3°.
+
 ## HOOFDSTUK VI. Slotbepalingen
 
 ### ART. 20.
@@ -132,181 +148,185 @@ De Vlaamse minister, bevoegd voor de havens, is belast met de uitvoering van dit
 
 ### BIJLAGE
 
-<br>
-
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:447.9pt">
+<table border="1" cellpadding="0" style="width:14cm">
 	<tbody>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:447.9pt">
-			<p>Tabel volumekorting<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			<td colspan="3" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<p>tabel volumekorting</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:153.25pt">
-			<p>Kolom 1: omzet</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:162.25pt">
+			<p>kolom 1: omzet</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.25pt">
-			<p>Kolom 2: korting</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:70.5pt">
+			<p>kolom 2: korting</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:243.4pt">
-			<p>Kolom 3: korting voor het gedeelte van de omzet vanaf 1.500.000 euro</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:158.15pt">
+			<p>kolom 3: korting voor het gedeelte van de omzet vanaf 1.500.000 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:153.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:162.25pt">
 			<p>vanaf 75.000 tot 249.999 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:70.5pt">
 			<p>2 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:243.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:158.15pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:153.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:162.25pt">
 			<p>vanaf 250.000 tot 349.999 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:70.5pt">
 			<p>3 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:243.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:158.15pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:153.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:162.25pt">
 			<p>vanaf 350.000 tot 449.999 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:70.5pt">
 			<p>5 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:243.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:158.15pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:153.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:162.25pt">
 			<p>vanaf 450.000 tot 549.999 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:70.5pt">
 			<p>7 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:243.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:158.15pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:153.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:162.25pt">
 			<p>vanaf 550.000 tot 649.999 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:70.5pt">
 			<p>9 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:243.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:158.15pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:153.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:162.25pt">
 			<p>vanaf 650.000 tot 749.999 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:70.5pt">
 			<p>11 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:243.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:158.15pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:153.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:162.25pt">
 			<p>vanaf 750.000 tot 999.999 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:70.5pt">
 			<p>13 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:243.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:158.15pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:153.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:162.25pt">
 			<p>vanaf 1.000.000 tot 1.499.999 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:70.5pt">
 			<p>15 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:243.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:158.15pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:153.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:162.25pt">
 			<p>vanaf 1.500.000 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:70.5pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:243.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:158.15pt">
 			<p>17 % vanaf 1.500.000 tot 1.999.999 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:153.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:162.25pt">
 			<p>vanaf 2.000.000 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:70.5pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:243.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:158.15pt">
 			<p>18 % vanaf 2.000.000 tot 2.499.999 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:153.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:162.25pt">
 			<p>vanaf 2.500.000 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:70.5pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:243.4pt">
-			<p>19 % vanaf 2.500.000 tot 4.999.999 euro</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:158.15pt">
+			<p>21 % vanaf 2.500.000 tot 4.999.999 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:153.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:162.25pt">
 			<p>vanaf 5.000.000 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:70.5pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:243.4pt">
-			<p>21 % vanaf 5.000.000 tot 7.499.999 euro</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:158.15pt">
+			<p>25 % vanaf 5.000.000 tot 7.499.999 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:153.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:162.25pt">
 			<p>vanaf 7.500.000 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:70.5pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:243.4pt">
-			<p>23 % vanaf 7.500.000 tot 14.999.999 euro</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:158.15pt">
+			<p>30 % vanaf 7.500.000 tot 14.999.999 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:153.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:162.25pt">
 			<p>vanaf 15.000.000 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.25pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:70.5pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:243.4pt">
-			<p>25 % vanaf 15.000.000 euro</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:158.15pt">
+			<p>35 % vanaf 15.000.000</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
