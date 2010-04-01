@@ -154,40 +154,29 @@ De volgende centra en diensten kunnen erkend worden als multidisciplinair team:<
 
 ### ART. 28.
 
-De vergoeding voor het afleveren van een multidisciplinair verslag, met inbegrip van de gegevens, vermeld in artikel 6, tweede lid, van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap, wordt vastgesteld op 210 euro.<br>
+§ 1. Het agentschap betaalt volgende vergoedingen aan de multidisciplinaire teams voor het opmaken en afleveren van verslagen.<br>
 <br>
-De vergoeding voor het afleveren van een gespecialiseerd multidisciplinair verslag, met inbegrip van het adviesrapport, vermeld in artikel 9, § 3, 6°, van het besluit van de Vlaamse Regering van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiële bijstand voor de sociale integratie van personen met een handicap, dat wordt afgeleverd naar aanleiding van een eerste aanvraag tot toekenning van individuele materiële bijstand met toepassing van het voormelde besluit van de Vlaamse Regering van 13 juli 2001, wordt vastgesteld op 246,72 euro.<br>
+De vergoeding voor het afleveren van een multidisciplinair verslag naar aanleiding van een eerste vraag tot ondersteuning die ingediend is bij het agentschap bedraagt 315,59 euro.<br>
 <br>
-De vergoeding voor het afleveren van een adviesrapport, vermeld in artikel 9, § 3, 6°, van het besluit, vermeld in het tweede lid, desgevallend samen met een gespecialiseerd multidisciplinair verslag, bij een volgende aanvraag tot toekenning van individuele materiële bijstand met toepassing van het besluit, vermeld in het tweede lid, bedraagt 210 euro.<br>
+De vergoeding voor het afleveren van een gespecialiseerd multidisciplinair verslag, als vermeld in artikel 2, 8°, en artikel 13, § 1, van het besluit van de Vlaamse Regering van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiële bijstand voor de sociale integratie van personen met een handicap, eventueel met inbegrip van het adviesrapport, vermeld in artikel 9, § 3, 6°, van voormeld besluit, naar aanleiding van een eerste vraag tot ondersteuning die ingediend is bij het agentschap bedraagt 315,59 euro.<br>
 <br>
-De bedragen, vermeld in het eerste, tweede en derde lid worden jaarlijks op 1 januari aangepast, rekening houdend met de evolutie van de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule :<br>
+§ 2. De vergoeding voor het afleveren van een multidisciplinair verslag naar aanleiding van de volgende vragen tot ondersteuning die ingediend zijn bij het agentschap, bedraagt 290 euro.<br>
 <br>
-basisbedrag x (1+ 0,75* [G-index december 200..- 109,23]/ 109,23);<br>
+De vergoeding voor het afleveren van een gespecialiseerd multidisciplinair verslag, als vermeld in artikel 2, 8°, en artikel 13, § 1, van het voornoemde besluit van de Vlaamse Regering van 13 juli 2001, eventueel met inbegrip van het adviesrapport, vermeld in artikel 9, § 3, 6°, van voormeld besluit, naar aanleiding van de volgende vragen tot ondersteuning die ingediend zijn bij het agentschap, bedraagt 290 euro.<br>
 <br>
-* basis 1996<br>
+§ 3. De vergoeding voor het afleveren van de gemotiveerde inschaling van de beperkingen en behoeften op het vlak van algemene en instrumentele assistentie bij de handelingen van het dagelijkse leven, vermeld in artikel 6 van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap, bedraagt 290 euro.<br>
 <br>
-Dat bedrag wordt jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer der consumptieprijzen, bedoeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van s lands concurrentievermogen, hierna G-index genoemd, volgens de formule:<br>
+§ 4. De vergoeding voor het afleveren van het zorgzwaarte-instrument bedraagt 290 euro. Het zorgzwaarte-instrument is een set van schalen, instructies en beslissingsbomen die toelaat om eenduidig en objectiveerbaar de zorgzwaarte van iedere meerderjarige persoon met een handicap uit te drukken in een aantal parameters. Hierbij worden de ondersteuningsnoden van de persoon met een handicap gemeten, ongeacht door wie deze ondersteuning geboden wordt. De parameters die worden bekomen zijn de nood aan ondersteuning door personen of de begeleidingsintensiteit, de nood aan aanwezigheid van en toezicht door personen overdag of permanentie en de nood aan aanwezigheid van en toezicht door personen 's nachts of nachtpermanentie.<br>
 <br>
-basisbedrag x G-index december 200<br>
+In het jaar 2010 en 2011 kan het agentschap jaarlijks maar voor zevenhonderd personen met een handicap een inschaling met het zorgzwaarte-instrument vergoeden.<br>
 <br>
-109,23<br>
+§ 5. De bedragen, vermeld in paragraaf 1, 2, 3 en 4, zijn gekoppeld aan de referte- index 110,96 (basis 2004 = 100) van december 2009. Ze worden jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule :<br>
 <br>
-De vergoeding voor een multidisciplinair verslag dat met ingang van 1 juli 2007 wordt afgeleverd naar aanleiding van een aanvraag om bijstand die verband houdt met opvang, behandeling en begeleiding in een semi-residentiële of residentiële voorziening of door een ambulante voorziening, bedraagt 277,22 euro.<br>
+basisbedrag x G-index december 20XX/110,96<br>
 <br>
-De vergoeding voor het aanleveren van de gegevens, vermeld in artikel 6, tweede lid, van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap, bedraagt met ingang van 1 juli 2007 274,22 euro.<br>
+§ 6. Het agentschap neemt de vergoedingen, vermeld in paragraaf 1, 2, 3 en 4 ten laste op voorwaarde dat het multidisciplinair verslag, het gespecialiseerd multidisciplinair verslag, het adviesrapport, de gemotiveerde inschaling van de beperkingen en behoeften op het vlak van algemene en instrumentele assistentie bij de handelingen van het dagelijkse leven of het zorgzwaarte-instrument voldoen aan de kwaliteitseisen vermeld in artikel 24, § 1, 2°, § 2, 3°, en § 3, 3°.<br>
 <br>
-De bedragen, vermeld in het derde en het vierde lid, worden jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer der consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule :<br>
-(basisbedrag x G-index december 20
-<p><u>(basisbedragx G-index december 20..)</u></p>
-
-<p>G-index december 2006</p>
-
-<p>&nbsp;</p>
-<br>
-<br>
-Het agentschap neemt de in het eerste lid vastgestelde vergoeding ten laste op voorwaarde dat is voldaan aan de in artikel 24, § 1, 2°, § 2, 3° en § 3, 3° bedoelde minimale kwaliteitseisen.<br>
-<br>
-Noch het team of zijn inrichtende macht, noch de eraan verbonden medewerkers, mogen voor het opstellen van een multidisciplinair verslag een vergoeding of beloning vragen of aanvaarden, behalve die, bepaald in dit artikel.
+§ 7. Noch het team of zijn inrichtende macht, noch de eraan verbonden medewerkers mogen voor het opstellen van een multidisciplinair verslag, een gespecialiseerd multidisciplinair verslag, een adviesrapport, een gemotiveerde inschaling van de beperkingen en behoeften op het vlak van algemene en instrumentele assistentie bij de handelingen van het dagelijkse leven of voor de aflevering van het zorgzwaarte-instrument een andere vergoeding of beloning vragen of aanvaarden dan de vergoedingen, vermeld in dit artikel, die door het agentschap worden betaald.
 
 ### ART. 28bis.
 
