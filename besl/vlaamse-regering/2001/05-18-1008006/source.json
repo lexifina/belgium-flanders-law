@@ -2,16 +2,16 @@
   "codex_id": 1008006,
   "title": "Besluit van de Vlaamse Regering van 2001-05-18 tot uitvoering van artikel 134, §§2 en 3 van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008006/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "6227110a5fb0b4da0033bf28b2d9b4f2d5441eff5db66dc6d6c211aabab0ff3e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008006/VolledigDocument?datum=2010-04-01",
+  "source_sha256": "8a3c1c5898aa6b6b6a9963f2713548792a3bad1b26f29f25b0becbed7e7f85ed",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008006&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2010-04-01",
   "made": "2001-05-18",
   "gazette": "2001-06-19",
   "numac": 2001035648,
   "document_start": null,
   "document_end": "2010-03-31",
-  "in_force": "2006-06-01",
+  "in_force": "2010-04-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-04-01; future article versions excluded; article text as the API gives it"
 }
