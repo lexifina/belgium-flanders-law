@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018882,
+  "title": "Ministerieel besluit van 2010-02-22 tot vaststelling van de deontologische code voor de leden van de kapitaalschadecommissies",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018882/VolledigDocument?datum=2010-04-02",
+  "source_sha256": "6014ee717649f859a00274a6979240862d6ea79d8ba8962a495eed0aa4cab9cf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018882&param=informatie",
+  "as_of": "2010-04-02",
+  "made": "2010-02-22",
+  "gazette": "2010-03-23",
+  "numac": 2010201388,
+  "document_start": "2010-04-02",
+  "document_end": null,
+  "in_force": "2010-04-02",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2010-04-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
