@@ -18,7 +18,7 @@
 
 ### ART. 4.
 
-§ 1. Het ontwerp-plan wordt opgesteld door een planningsteam dat als volgt is samengesteld:<br />- coördinator: het hoofd van het Departement Leefmilieu, Natuur en Energie;<br />- als leden, de leidend ambtenaren van:<br />- de Algemene Planningsdienst van het Ministerie van de Vlaamse Gemeenschap;<br />- de Openbare Vlaamse Afvalstoffenmaatschappij;<br />- de Vlaamse Landmaatschappij;<br />- de Vlaamse Milieumaatschappij.<br /><br />§ 2. Het secretariaat van het planningsteam wordt waargenomen door het Departement Leefmilieu, Natuur en Energie.
+§ 1. Het ontwerpplan wordt opgesteld door een planningsteam dat als volgt is samengesteld : <br />1° de leidend ambtenaar van het departement;<br />2° de algemeen directeur van het departement;<br />3° de projectleider Milieubeleidsplanning van het departement;<br />4° de leidend ambtenaar van de Studiedienst van de Vlaamse Regering<br />5° de leidend ambtenaar van het Agentschap voor Natuur en Bos;<br />6° de leidend ambtenaar van de Vlaamse Landmaatschappij; <br />7° de leidend ambtenaar van de Vlaamse Milieumaatschappij; <br />8° de leidend ambtenaar van het Instituut voor Natuur- en Bosonderzoek;<br />9° de leidend ambtenaar van de Openbare Vlaamse Afvalstoffenmaatschappij.<br /><br />§ 2. Als coördinator van het planningsteam wordt de leidend ambtenaar van het departement aangesteld of, bij diens verhindering, de algemeen directeur van het departement. <br /><br />§ 3. Het planningsteam wordt in zijn opdracht bijgestaan door een planningsgroep, gecoördineerd door de projectleider Milieubeleidsplanning van het departement. <br /><br />De betrokken entiteiten, vermeld in artikel 2, zijn vertegenwoordigd in de planningsgroep.
 
 ### ART. 5.
 
