@@ -14,7 +14,7 @@ De opbrengst van de leningen zal door de vennootschap worden geboekt op een reke
 
 ### ART. 4.
 
-De in artikel 2, vierde lid bedoelde Vlaamse ministers stellen ieder een commissaris van de Vlaamse regering aan bij het Vlaams Woningfonds van de Grote Gezinnen. Deze commissarissen hebben een onbeperkt recht van toezicht op de verrichtingen van de vennootschap en moeten tot alle vergaderingen van de Raad van Beheer uitgenodigd worden.<br /><br />Elke verbintenis of beslissing die het Vlaams Woningfonds van de Grote Gezinnen aanbelangt en waartegen een commissaris verzet aantekent dient vooraf ter goedkeuring te worden voorgelegd aan de bevoegde Vlaamse minister of ministers, die uitspraak doen binnen dertig dagen na de datum van het verzet. Na voormelde termijn wordt de beslissing of de verbintenis geacht te zijn goedgekeurd.<br /><br />Indien het verzet niet tijdens de vergadering van de Raad van Beheer wordt aangetekend, moet het worden medegedeeld binnen acht dagen na de datum waarop de notulen van deze vergadering aan de commissarissen werden verzonden.
+De toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, wordt op alle vergaderingen van de raad van bestuur uitgenodigd.
 
 ### ART. 5.
 
