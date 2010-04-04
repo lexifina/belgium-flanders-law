@@ -19,28 +19,34 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 - één jaar, als het een inrichting betreft die verband houdt met een bouwwerf;<br>
 - drie maanden in de andere gevallen.<br>
 9° "afvalwater": verontreinigd water waarvan men zich ontdoet, zich moet ontdoen of de intentie heeft zich van te ontdoen, met uitzondering van hemelwater dat niet in aanraking is geweest met verontreinigende stoffen;<br>
-10° "huishoudelijk afvalwater": afvalwater dat enkel bestaat uit het water afkomstig van:<br>
-- normale huishoudelijke activiteiten;<br>
-- sanitaire installaties;<br>
-- keukens;<br>
-- het reinigen van gebouwen zoals woningen, kantoren, plaatsen waar groot- of kleinhandel wordt gedreven, zalen voor vertoningen, kazernen, kampeerterreinen, gevangenissen, onderwijsinrichtingen met of zonder internaat, klinieken, hospitalen en andere inrichtingen waar niet besmettelijke zieken opgenomen en verzorgd worden, zwembaden, hotels, restaurants, drankgelegenheden, kapsalons;<br>
-- afvalwater afkomstig van wassalons, waar de toestellen uitsluitend door het cliënteel zelf worden bediend;<br>
+10° "huishoudelijk afvalwater" : afvalwater dat alleen bestaat uit het water dat afkomstig is van :<br>
+a) normale huishoudelijke activiteiten;<br>
+b) sanitaire installaties;<br>
+c) keukens;<br>
+d) het reinigen van gebouwen, zoals woningen, kantoren, plaatsen waar groot- of kleinhandel wordt gedreven, zalen voor vertoningen, kazernen, kampeerterreinen, gevangenissen, onderwijsinrichtingen met of zonder internaat, zwembaden, hotels, restaurants, drankgelegenheden, kapsalons;<br>
+e) wassalons, waar de toestellen uitsluitend door het cliënteel zelf worden bediend.<br>
+Afvalwaterstromen van verzorgingsinstellingen die voldoen aan de voorwaarden van artikel 5.49.0.4 van titel II van het VLAREM, worden voor de toepassing van dit besluit gelijkgesteld met huishoudelijk afvalwater;<br>
 11° "koelwater": het water dat in de nijverheid voor afkoeling gebruikt wordt en dat niet in aanraking is gekomen met af te koelen stoffen of met andere verontreinigende stoffen;<br>
 12° "bedrijfsafvalwater": alle afvalwater dat niet voldoet aan de bepalingen van huishoudelijk afvalwater of koelwater;<br>
-13° « gevaarlijke stoffen » : toxische, persistente en bioaccumuleerbare stoffen of groepen van stoffen en andere stoffen of groepen van stoffen die aanleiding geven tot evenveel bezorgdheid;<br>
+13° « gevaarlijke stoffen » :<br>
+a) in toepassing van artikel 38, § 6, artikel 41, § 1, en bijlage 2 van dit besluit, de afdelingen 2.4.3, 4.2.2, 4.2.3, 4.2.5 en 4.3.1, de artikels 2.3.6.1, 5.3.2.4, § 7, 5BIS.15.5.4.3.4, 5BIS.15.5.4.3.5, 5BIS.19.8.4.5.4 en 5BIS.19.8.4.5.5, artikel 3 van bijlage 2.3.1 en bijlage 5.3.2, 21 van titel II van het VLAREM : toxische, persistente en bioaccumuleerbare stoffen of groepen van stoffen en andere stoffen of groepen van stoffen die aanleiding geven tot evenveel bezorgdheid;<br>
+b) in toepassing van artikel 6quater, § 3, artikel 7, § 1, artikel 8, § § 1 en 2, artikel 16, 1°, bijlage 5, deel 2, III en bijlage 6 van dit besluit en artikel 5.2.6.3.1 van titel II van het VLAREM : stoffen, mengsels of preparaten als vermeld in bijlage 6, deel 1, gevoegd bij dit besluit of beantwoordend aan de criteria, vermeld in bijlage 6, deel 2, gevoegd bij dit besluit en aanwezig als grondstof, product, bijproduct, residu of tussenproduct, met inbegrip van die stoffen waarvan redelijkerwijs mag worden verwacht dat ze bij een ongeval ontstaan;<br>
+c) in toepassing van artikel 30bis, § 2, 14°, van dit besluit&nbsp;en in uitvoering van de Verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van 16 december 2008 inzake de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 : stoffen of mengsels als vermeld in artikel 3 van Verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels »;<br>
 14° « prioritaire stoffen » : stoffen waarvan de lijst overeenkomstig de EG-richtlijn 2000/60/EG is vastgesteld in lijst III van bijlage 2C bij dit besluit; hiertoe behoren prioritaire gevaarlijke stoffen op gebied van waterbeleid' waarvoor maatregelen moeten worden getroffen;<br>
 14bis ° « verontreinigende stoffen »: iedere stof die tot verontreiniging kan leiden, met name de stoffen waarvan de lijst overeenkomstig de EG-richtlijn 2000/60/EG is vastgesteld in bijlage 2A bij dit besluit;<br>
-15° "afvalstoffen": afvalstoffen zoals bedoeld in het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen en zijn uitvoeringsbesluiten. De definities zoals bepaald in dat decreet en zijn uitvoeringsbesluiten zijn eveneens geldig voor de toepassing van dit besluit;<br>
-16° "GPBV-installatie": een inrichting die in de vierde kolom van de indelingslijst is aangeduid met de letter x en die als dusdanig onder de toepassing valt van de bepalingen van de titels I en II van het VLAREM inzake geïntegreerde preventie en bestrijding van verontreiniging als bedoeld in de EU-richtlijn 96/61/EEG van 24 september 1996 en die de vaste technische eenheid omvat waarin de activiteiten en processen, vermeld in de tweede kolom, alsmede andere daarmee rechtstreeks samenhangende activiteiten plaatsvinden die technisch in verband staan met de op die plaats ten uitvoer gebrachte activiteiten en die gevolgen kunnen hebben voor de emissies en de verontreiniging;<br>
-17° "vergunning": het gedeelte van (een) schriftelijk(e) besluit(en) of het besluit (die besluiten) in zijn (hun) geheel waarbij machtiging wordt verleend om een inrichting te exploiteren onder bepaalde voorwaarden die moeten garanderen dat de inrichting voldoet aan de eisen van dit reglement alsook van titel II van het VLAREM en waarbij een vergunning betrekking kan hebben op een of meer inrichtingen die zich op dezelfde locatie bevinden en die door dezelfde exploitant worden geëxploiteerd;<br>
-18° « belangrijke wijziging van een GPBV-inrichting » : een wijziging van de kenmerken of de werking, of een uitbreiding van de installatie die gevolgen voor het milieu kan hebben en die volgens de vergunningverlenende overheid negatieve en significante effecten kan hebben op mens of milieu; In de zin van deze definitie wordt elke wijziging of uitbreiding van een exploitatie geacht belangrijk te zijn, indien de wijziging of uitbreiding op zich voldoet aan de drempelwaarden, voorzover deze bestaan, van een rubriek of subrubriek uit de indelingslijst die in de vierde kolom van de indelingslijst is aangeduid met het symbool X, voor zover deze indelingscriteria bestaan;<br>
-19° "gevaarlijke stoffen": stoffen, mengsels of preparaten, genoemd in bijlage 6, deel 1, gevoegd bij dit besluit of beantwoordend aan de criteria in bijlage 6, deel 2, gevoegd bij dit besluit en aanwezig als grondstof, product, bijproduct, residu of tussenproduct, met inbegrip van die stoffen waarvan redelijkerwijs mag worden verwacht dat ze bij een ongeval ontstaan;<br>
+15° afvalstoffen : afvalstoffen als vermeld in het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen en de uitvoeringsbesluiten ervan. De definities, als vermeld in voormeld decreet en de uitvoeringsbesluiten ervan, gelden ook voor de toepassing van dit besluit;<br>
+16° « GPBV-installatie » :<br>
+een vaste technische eenheid waarin een of meer van de activiteiten en processen, vermeld in de indelingslijst, en aangeduid met de letter X in de vierde kolom van de indelingslijst, alsook andere op dezelfde locatie ten uitvoer gebrachte en daarmee rechtstreeks samenhangende activiteiten plaatsvinden die technisch in verband staan met de voormelde activiteiten en die gevolgen kunnen hebben voor de emissies en de verontreiniging;<br>
+17° « vergunning » :<br>
+een schriftelijke machtiging om een inrichting, dan wel een deel ervan, te exploiteren en waarbij een vergunning betrekking kan hebben op een of meer inrichtingen die zich op dezelfde locatie bevinden en die door dezelfde exploitant worden geëxploiteerd;<br>
+18° « belangrijke wijziging van een GPBV-installatie » : een wijziging van de&nbsp;aard of de werking, of een uitbreiding van de installatie die gevolgen voor het milieu kan hebben en die volgens de vergunningverlenende overheid&nbsp;significante negatieve&nbsp;effecten kan hebben op mens of milieu; In de zin van deze definitie wordt elke wijziging of uitbreiding van een exploitatie geacht belangrijk te zijn, indien de wijziging of uitbreiding op zich voldoet aan de drempelwaarden, voorzover deze bestaan, van een rubriek of subrubriek uit de indelingslijst die in de vierde kolom van de indelingslijst is aangeduid met het symbool X, voor zover deze indelingscriteria bestaan;<br>
+19° ...<br>
 20° "gevaar": de intrinsieke eigenschap van een gevaarlijke stof of van een fysische situatie die potentieel tot schade voor de gezondheid van de mens en/of het milieu kan leiden;<br>
 21° "risico": de waarschijnlijkheid dat een bepaald effect zich binnen een bepaalde periode of onder bepaalde omstandigheden voordoet;<br>
 22° "Verdrag van Espoo": Verdrag inzake milieu-effectenrapportage in grensoverschrijdend verband en van de aanhangsels I, II, III, IV, V, VI en VII ondertekend in Espoo op 25 februari 1991;<br>
 23° « gebied » : tenzij anders gepreciseerd in de indelingslijst van titel I van het VLAREM of de desbetreffende hoofdstukken, afdelingen of subafdelingen van titel II van het VLAREM :<br>
-a) ofwel, gebied bepaald in de plannen van aanleg of de behoorlijk vergunde, niet vervallen verkavelingsvergunningen, vastgesteld in uitvoering van het decreet betreffende de ruimtelijke ordening gecoördineerd op 22 oktober 1996, met bestemmingsvoorschriften zoals bepaald in het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van ontwerp-gewestplannen en gewestplannen, en de ermee vergelijkbare gebieden;<br>
-b) ofwel, als er een categorie van gebiedsaanduiding voor een gebied is aangegeven in de goedgekeurde gewestelijke, provinciale of gemeentelijke ruimtelijke uitvoeringsplannen vastgesteld in uitvoering van het decreet van 18 mei 1999 houdende organisatie van de ruimtelijke ordening een van de volgende categorieën van gebiedsaanduiding :<br>
+a) ofwel, gebied bepaald in de plannen van aanleg of de behoorlijk vergunde, niet vervallen verkavelingsvergunningen, vastgesteld in uitvoering van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, met bestemmingsvoorschriften zoals bepaald in het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van ontwerp-gewestplannen en gewestplannen, en de ermee vergelijkbare gebieden;<br>
+b) ofwel, als er een categorie van gebiedsaanduiding voor een gebied is aangegeven in de goedgekeurde gewestelijke, provinciale of gemeentelijke ruimtelijke uitvoeringsplannen vastgesteld in uitvoering van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 een van de volgende categorieën van gebiedsaanduiding :<br>
 1) wonen;<br>
 2) bedrijvigheid;<br>
 3) recreatie;<br>
@@ -52,23 +58,23 @@ b) ofwel, als er een categorie van gebiedsaanduiding voor een gebied is aangegev
 9) gemeenschapsvoorzieningen en nutsvoorzieningen;<br>
 10) ontginning en waterwinning.<br>
 Voor de toepassing van dit besluit worden de categorieën van gebiedsaanduiding bedoeld sub b) gelijkgesteld met de overeenkomstige gebieden bedoeld sub a);<br>
-c) ofwel, als er geen categorie van gebiedsaanduiding is aangegeven, door de stedenbouwkundige voorschriften van een ruimtelijk uitvoeringsplan, vastgesteld in uitvoering van het decreet van 18 mei 1999 houdende organisatie van de ruimtelijke ordening, een gebied, bepaald in het gewestelijk, provinciaal of gemeentelijk ruimtelijk uitvoeringsplan, met een met de bestemmingsvoorschriften, zoals bepaald in het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van ontwerp-gewestplannen en gewestplannen, vergelijkbare hoofdbestemming;<br>
+c) ofwel, als er geen categorie van gebiedsaanduiding is aangegeven, door de stedenbouwkundige voorschriften van een ruimtelijk uitvoeringsplan, vastgesteld in uitvoering van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, een gebied, bepaald in het gewestelijk, provinciaal of gemeentelijk ruimtelijk uitvoeringsplan, met een met de bestemmingsvoorschriften, zoals bepaald in het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van ontwerp-gewestplannen en gewestplannen, vergelijkbare hoofdbestemming;<br>
 24° "zwaar ongeval": een gebeurtenis, zoals een zware emissie, brand of explosie als gevolg van onbeheerste ontwikkelingen tijdens de bedrijfsuitoefening in een inrichting, waardoor onmiddellijk of na verloop van tijd ernstig gevaar voor de gezondheid van de mens binnen of buiten de inrichting en/of voor het milieu ontstaat en waarbij een of meer gevaarlijke stoffen betrokken zijn;<br>
 25° "grondwater": al het water dat zich onder het bodemoppervlak in de verzadigde zone bevindt en dat in direct contact met bodem of ondergrond staat;<br>
 25bis ° « watervoerende laag »: een of meer ondergrondse rotslagen of andere geologische lagen die voldoende poreus en doorlatend zijn voor een belangrijke grondwaterstroming of de onttrekking van aanzienlijke hoeveelheden grondwater;<br>
 26° "directe lozing in grondwater": de inleiding van stoffen van bijlage 2 B bij dit besluit in het grondwater zonder doorsijpeling door bodem of ondergrond;<br>
 27° "indirecte lozing in grondwater": de inleiding van stoffen van bijlage 2 B bij dit besluit in het grondwater na doorsijpeling door bodem of ondergrond;<br>
-28° "verontreinigen": het veroorzaken van een emissie die mens of milieu op rechtstreekse of onrechtstreekse wijze nadelig beïnvloedt of kan beïnvloeden;<br>
-29° "beste beschikbare technieken": (BBT): het meest doeltreffende en geavanceerde ontwikkelingsstadium van de activiteiten en exploitatiemethoden, waarbij de praktische bruikbaarheid van speciale technieken om in beginsel het uitgangspunt voor de emissiegrenswaarden te vormen is aangetoond, met het doel emissies en effecten op het milieu in zijn geheel te voorkomen, of wanneer dat niet mogelijk blijkt algemeen te beperken;<br>
+28° ...<br>
+29° beste beschikbare technieken, hierna BBT te noemen :&nbsp;(BBT): het meest doeltreffende en geavanceerde ontwikkelingsstadium van de activiteiten en exploitatiemethoden, waarbij de praktische bruikbaarheid van speciale technieken om in beginsel het uitgangspunt voor de emissiegrenswaarden en andere vergunningsvoorwaarden&nbsp;te vormen is aangetoond, met het doel emissies en effecten op het milieu in zijn geheel te voorkomen, of wanneer dat niet mogelijk blijkt algemeen te beperken;<br>
 a) "technieken": zowel de toegepaste technieken als de wijze waarop de installatie wordt ontworpen, gebouwd, onderhouden, geëxploiteerd en ontmanteld;<br>
-b) "beschikbare": op zodanige schaal ontwikkeld dat de technieken, kosten en baten in aanmerking genomen, economisch en technisch haalbaar in de industriële context kunnen worden toegepast, onafhankelijk van de vraag of die technieken al dan niet op het grondgebied van het Vlaamse Gewest worden toegepast of geproduceerd, mits ze voor de exploitant op redelijke voorwaarden toegankelijk zijn;<br>
+b) "beschikbare": op zodanige schaal ontwikkeld dat de betrokken&nbsp;technieken, kosten en baten in aanmerking genomen, economisch en technisch haalbaar in de industriële context kunnen worden toegepast, onafhankelijk van de vraag of die technieken al dan niet op het grondgebied van het Vlaamse Gewest worden toegepast of geproduceerd, mits ze voor de exploitant op redelijke voorwaarden toegankelijk zijn;<br>
 c) "beste": het meest doeltreffend voor het bereiken van een hoog algemeen niveau van bescherming van het milieu in zijn geheel;<br>
 30° genetisch gemodificeerd micro-organisme (GGM) of organisme (GGO): een micro-organisme of een organisme waarvan het genetische materiaal gewijzigd is op een wijze die van nature of door voortplanting of natuurlijke recombinatie niet mogelijk is. Volgens deze definitie vindt genetische modificatie plaats als een van de in bijlage 15 A., deel 1, genoemde technieken wordt toegepast, uitgenomen de technieken, opgesomd in bijlage 15 A., deel 2, bij dit besluit;<br>
 31° gebruiker: elke natuurlijke of rechtspersoon die verantwoordelijk is voor het ingeperkt gebruik van GGO's en/of pathogene organismen;<br>
 32° bevoegde instantie: de afdeling, bevoegd voor milieuvergunningen, per adres hoofdbestuur;<br>
 33° technisch deskundige: de sectie Bioveiligheid en Biotechnologie van het Wetenschappelijk Instituut voor Volksgezondheid (SBB), bedoeld in artikel 4 van het samenwerkingsakkoord van 25 april 1997 tussen de Federale Staat en de Gewesten betreffende de administratieve en wetenschappelijke coördinatie inzake bioveiligheid, die op basis van een bevoegdheidsdelegatie overeenkomstig artikel 12, § 2, van het voormelde samenwerkingsakkoord, de evaluatie van de bioveiligheid uitvoert;<br>
-34° "energiestudie": een energiestudie overeenkomstig de bepalingen uit artikel 3 van het besluit inzake energieplanning voor ingedeelde energie-intensieve inrichtingen;<br>
-35° "energieplan": een energieplan overeenkomstig de bepalingen uit artikel 3 van het besluit inzake energieplanning voor ingedeelde energie-intensieve inrichtingen;<br>
+34° "energiestudie": een energiestudie overeenkomstig de bepalingen uit artikel 6.5.4 van het Energiebesluit;<br>
+35° "energieplan": een energieplan overeenkomstig de bepalingen uit artikel 6.5.4 van het Energiebesluit;<br>
 36° "energiegebruik": het primair elektriciteitsgebruik en primair energetisch gebruik van energiedragers en niet het non-energetisch gebruik van energiedragers in de vorm van als grondstof ingezette energiedragers;<br>
 37° "broeikasgassen":<br>
 a) koolstofdioxide (CO2);<br>
@@ -77,13 +83,12 @@ c) distikstofoxide (N2O);<br>
 d) fluorkoolwaterstoffen (HFK's): de gefluoreerde broeikasgassen die zijn opgenomen in groep I van bijlage 5.16.5 van titel II van het VLAREM, met inbegrip van de isomeren ervan;<br>
 e) perfluorkoolstoffen (PFK's): de gefluoreerde broeikasgassen die zijn opgenomen in groep II van bijlage 5.16.5 van titel II van het VLAREM, met inbegrip van de isomeren ervan;<br>
 f) zwavelhexafluoride (SF6): het gefluoreerde broeikasgas in groep III van bijlage 5.16.5 van titel II van het VLAREM;<br>
-38° "BKG-inrichting": een inrichting die in de vierde kolom van de indelingslijst is aangeduid met de letter Y en die de vaste technische eenheid omvat waarin de activiteiten en processen, vermeld in de tweede kolom, alsmede andere daarmee rechtstreeks samenhangende activiteiten plaatsvinden die technisch in verband staan met de op die plaats ten uitvoer gebrachte activiteiten en die gevolgen kunnen hebben voor de emissies en de verontreiniging;<br>
-39° "aardgastransportsector": de houders van vervoervergunningen voor aardgas, verleend op grond van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen, en de houders van vergunningen voor de ondergrondse opslag van aardgas, verleend op grond van de wet van 18 juli 1975 betreffende het opsporen en exploiteren van ondergrondse bergruimten in situ, bestemd voor het opslaan van gas;<br>
+38° « BKG-installatie » :<br>
+een vaste technische eenheid waarin een of meer van de activiteiten en processen, vermeld in de indelingslijst en aangeduid met de letter Y in de vierde kolom van de indelingslijst, alsook andere op dezelfde locatie ten uitvoer gebrachte en daarmee rechtstreeks samenhangende activiteiten plaatsvinden die technisch in verband staan met voormelde activiteiten en die gevolgen kunnen hebben voor de emissies en de verontreiniging;<br>
+39° ...<br>
 40° "verificatiebureau": de organisatie die aangesteld is om de correcte uitvoering van het Vlaams Benchmarking convenant over energie-efficiëntie in de industrie van 29 november 2002 te bewaken, zoals bepaald in artikel 10 van dit convenant;<br>
 41° ...<br>
-42° verandering aan een BKG-inrichting : een verandering in de aard of de werking van een BKG-inrichting of een uitbreiding van een BKG-inrichting in de vorm van een fysieke verandering aan een BKG-inrichting die voldoet aan de twee volgende voorwaarden :<br>
-a) het betreft een verhoging van de vergunde capaciteit van een van de vergunde activiteiten of processen waar een of meer van de subrubrieken van bijlage I van titel I van het VLAREM met vermelding Yk in de vierde kolom van toepassing zijn;<br>
-b) de CO2-emissies van de BKG-inrichting zullen met meer dan tien procent stijgen of de CO2-emissies zullen op jaarbasis met meer dan vijftigduizend ton toenemen ten opzichte van de gemiddelde geverifieerde CO2-emissies van de BKG-inrichting van de drie voorafgaande jaren;<br>
+42° ...<br>
 43° « bijzonder beschermd gebied » : een gebied dat behoort tot één of meer van de volgende gebieden :<br>
 a) de speciale beschermingszones, de definitief vastgestelde gebieden die in aanmerking komen als speciale beschermingszone en de waterrijke gebieden van internationale betekenis overeenkomstig het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 b) een beschermd duingebied of voor het duingebied belangrijk landbouwgebied zoals aangegeven ter uitvoering van het decreet van 14 juli 1993 houdende maatregelen tot bescherming van de kustduinen;<br>
@@ -94,7 +99,7 @@ f) de waterwingebieden en bijhorende beschermingszones type I en II vastgesteld 
 g) het Vlaams Ecologisch Netwerk overeenkomstig het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 h) een volgens een plan van aanleg of ruimtelijk uitvoeringsplan vastgesteld erfgoedlandschap.<br>
 43° voertuig : gemotoriseerd transportmiddel, met uitzondering van vaartuigen;<br>
-44° voertuigwrak : een voertuig dat een afvalstof is in de zin van artikel 2 van het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen.<br>
+44° voertuigwrak : een voertuig dat een afvalstof is als vermeld in artikel 3,1°, van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br>
 45° "het Departement" : het Departement Leefmilieu, Natuur en Energie van het Vlaamse Ministerie van Leefmilieu, Natuur en Energie;<br>
 46° "de afdeling, bevoegd voor milieuvergunningen" : de afdeling Milieuvergunningen van het Departement, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
 47° "de afdeling, bevoegd voor milieuhandhaving" : de afdeling Milieu-inspectie van het Departement, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
@@ -103,9 +108,89 @@ h) een volgens een plan van aanleg of ruimtelijk uitvoeringsplan vastgesteld erf
 50° "de afdeling, bevoegd voor luchtverontreiniging" : de afdeling Lucht, Hinder, Risicobeheersing, Milieu &amp; Gezondheid van het departement, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
 51° "de afdeling, bevoegd voor erkenningen" : de afdeling Milieuvergunningen van het Departement, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br>
 52° "de afdeling, bevoegd voor het toezicht volksgezondheid" : de afdeling Toezicht Volksgezondheid van het Vlaams Agentschap Zorg en Gezondheid;<br>
-53° "de afdeling, bevoegd voor het stedenbouwkundig beleid" : de afdeling Stedenbouwkundig Beleid en Onroerend Erfgoedbeleid van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
+53° ...<br>
 54° « ondergrondse opslag van afvalstoffen » : een permanente afvalopslagvoorziening in een diepe onderaardse ruimte zoals een zout- of kaliummijn.<br>
-55° « uniek gemeentelijk loket » : het loket, vermeld in artikel 8quater van het decreet.
+55° « uniek gemeentelijk loket » : het loket, vermeld in artikel 8quater van het decreet.<br>
+56° « dierenbegraafplaats » : een plaats waar collectief krengen van gezelschapsdieren worden begraven;<br>
+57° « gezelschapsdieren » : alle dieren van soorten die gewoonlijk door de mens worden gevoed en gehouden, maar die niet gegeten worden, en die niet voor veeteelt gehouden worden;<br>
+58° « collectief begraven van krengen van gezelschapsdieren » : alle andere begravingen van krengen van gezelschapsdieren, dan de individuele begraving door de eigenaar van het kreng, in de eigen tuin;<br>
+59° « hippotherapie » : het doelgericht therapeutisch (be)handelen met het paard als medium;<br>
+60° « hogedrempel-Seveso-inrichting » : een inrichting die is ingedeeld in subrubriek 17.2.2 van de indelingslijst;<br>
+61° « veiligheidsnota » : openbaar document waarin aangetoond wordt dat de verandering van een vergunde inrichting geen bijkomend risico van zware ongevallen voor mens en milieu meebrengt ten opzichte van de bestaande toestand, zoals die beschreven is in een voor die inrichting goedgekeurd omgevingsveiligheidsrapport, en waarbij met betrekking tot die verandering wordt aangetoond welke maatregelen getroffen zijn of kunnen worden getroffen om zware ongevallen te voorkomen en om de gevolgen ervan voor mens en milieu te beperken;<br>
+62° « Verordening Dierlijke Bijproducten (EG) nr. 1069/2009 » : verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002;<br>
+63° « Verordening (EG) nr. 142/2011 » : verordening (EG) nr. 142/2011 van de Commissie van 25 februari 2011 tot uitvoering van Verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot uitvoering van Richtlijn 97/78/EG van de Raad wat betreft bepaalde monsters en producten die vrijgesteld zijn van veterinaire controles aan de grens krachtens die richtlijn;<br>
+64° « stuivende stoffen » : niet-verpakte stoffen die bij het transport, de verwerking, de vervaardiging of de opslag tot niet-geleide stofemissies kunnen leiden;<br>
+65° « overslaghoeveelheid van stuivende stoffen » : de aan- of afgevoerde hoeveelheden stuivende stoffen naar of van het terrein van de inrichting, welke van de twee het grootst is. Bij het bepalen van de overslaghoeveelheid worden stoffen van stuifcategorie SC3, zoals vermeld in artikel 4.4.7.2.1 van titel II van het VLAREM, slechts voor 10 % in rekening gebracht;<br>
+66° « opslagcapaciteit voor stuivende stoffen » : de oppervlakte van het terrein die wordt voorbehouden voor de tijdelijke opslag van stuivende stoffen, met uitzondering van de oppervlakte van gesloten opslagplaatsen die voldoen aan de bepalingen van artikel 4.4.7.2.2, tweede lid, van titel II van het VLAREM. Voor bouw-, sloop of wegeniswerken wordt alleen rekening gehouden met de maximale oppervlakte die op één bepaald moment wordt voorbehouden voor opslag van stuivende stoffen.<br>
+67° « stof » :<br>
+een chemisch element en de verbindingen daarvan, met uitzondering van radioactieve stoffen en genetisch gemodificeerde organismen en micro-organismen;<br>
+68° « verontreiniging » :<br>
+de directe of indirecte inbreng door menselijke activiteiten van stoffen, trillingen, warmte of geluid in lucht, water of bodem, die de gezondheid van de mens of de milieukwaliteit kan aantasten, schade kan toebrengen aan materiële goederen, of de belevingswaarde van het milieu of een ander rechtmatig milieugebruik kan aantasten of in de weg kan staan;<br>
+69° « emissie » :<br>
+de directe of indirecte uitstoot uit puntbronnen of diffuse bronnen van de installatie, stoffen, trillingen, warmte of geluid in de lucht, het water of de bodem;<br>
+70° « emissiegrenswaarde » :<br>
+de massa, gerelateerd aan bepaalde specifieke parameters, de concentratie en/of het niveau van een emissie, die gedurende een of meer vastgestelde perioden niet mogen worden overschreden.<br>
+De emissiegrenswaarden kunnen ook voor bepaalde groepen, families of categorieën van stoffen worden vastgesteld, namelijk voor de stoffen, vermeld in bijlage 1.1.2 van titel II van het VLAREM.<br>
+De emissiegrenswaarden voor de emissies van stoffen gelden op het punt waar de emissies de installatie verlaten en worden bepaald zonder rekening te houden met een eventuele verdunning.<br>
+Voor indirecte lozingen van verontreinigende stoffen in water mag bij de bepaling van de emissiegrenswaarden van de betrokken installatie rekening worden gehouden met het effect van een waterzuiveringsinstallatie, op voorwaarde dat een equivalent niveau van bescherming van het milieu in zijn geheel wordt gewaarborgd en dat dit niet leidt tot een hogere belasting van het milieu;<br>
+71° « milieukwaliteitsnorm » :<br>
+alle eisen waaraan op een gegeven ogenblik in een bepaald milieucompartiment of een bepaald gedeelte daarvan moet worden voldaan overeenkomstig deel 2 van titel II van het VLAREM;<br>
+72° « BBT-referentiedocument », hierna BREF te noemen :<br>
+een document dat het resultaat is van de overeenkomstig artikel 13 van de Richtlijn 2010/75/EU van het Europees Parlement en de Raad van 24 november 2010 inzake industriële emissies (geïntegreerde preventie en bestrijding van verontreiniging) georganiseerde uitwisseling van informatie, dat opgesteld is voor welomschreven activiteiten en dat met name een beschrijving geeft van toegepaste technieken, huidige emissies en consumptieniveaus, technieken die in overweging worden genomen voor de bepaling van BBT, alsook BBT-conclusies en eventuele technieken in opkomst, met bijzondere aandacht voor de criteria, vermeld in bijlage 18 bij dit besluit;<br>
+73° « BBT-conclusies » :<br>
+een document dat bestaat uit die delen van een BREF met de conclusies over BBT, de beschrijving ervan, gegevens ter beoordeling van de toepasselijkheid ervan, de met de beste beschikbare technieken geassocieerde emissieniveaus, de daarmee verbonden monitoring, de daarmee verbonden consumptieniveaus en, in voorkomend geval, de toepasselijke terreinsaneringsmaatregelen;<br>
+74° « met de beste beschikbare technieken geassocieerde emissieniveaus », hierna BBT-GEN te noemen :<br>
+de bandbreedte van emissieniveaus verkregen in normale bedrijfsomstandigheden met gebruikmaking van een beste beschikbare techniek of een combinatie van BBT als omschreven in de BBT-conclusies, uitgedrukt als een gemiddelde over een bepaalde periode, in specifieke referentieomstandigheden;<br>
+75° « techniek in opkomst » :<br>
+een nieuwe techniek voor een industriële activiteit die, als ze commercieel wordt ontwikkeld, hetzij een hoger algemeen beschermingsniveau voor het milieu hetzij ten minste hetzelfde beschermingsniveau voor het milieu en grotere kostenbesparingen kan opleveren dan de bestaande BBT;<br>
+76° « publiek » :<br>
+een of meer natuurlijke personen of rechtspersonen en hun verenigingen, organisaties of groepen;<br>
+77° « bodem » :<br>
+de bovenste laag van de aardkorst die begrensd is door het vaste gesteente en het aardoppervlak. De bodem bestaat uit minerale deeltjes, organisch materiaal, water, lucht en levende organismen;<br>
+78° « ondergrond » :<br>
+het gedeelte van de aardkorst dat onder de bodem ligt;<br>
+79° « ontvangend waterlichaam » :<br>
+oppervlaktewater, grondwater en overgangswater als vermeld in artikel 3, § 2, 3°, 4° en 10°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
+80° « toezichthouder » :<br>
+de persoon die krachtens dit besluit of krachtens titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid bevoegd is om toezicht uit te oefenen. ».<br>
+« 81° « eerste verbintenisperiode » :<br>
+de periode van 1 januari 2008 tot en met 31 december 2012;<br>
+82° « tweede verbintenisperiode » :<br>
+de periode van 1 januari 2013 tot en met 31 december 2020;<br>
+83° « ton kooldioxide-equivalent » :<br>
+een metrische ton koolstofdioxide (CO<sub>2</sub>) of een hoeveelheid van de andere broeikasgassen met een gelijkwaardig aardopwarmingspotentieel;<br>
+84° « BKG-emissies » :<br>
+a) in het kader van de eerste verbintenisperiode, CO<sub>2</sub>-emissies die overeenkomstig het ministerieel besluit van 14 december 2007 houdende vaststelling van richtsnoeren voor het opstellen en wijzigen van het 'monitoringplan' voor de handelsperiode 2008-2012 bewaakt worden;<br>
+b) in het kader van de tweede verbintenisperiode, emissies van broeikasgassen afkomstig van activiteiten met de vermelding van de letter Y in de indelingslijst, alleen voor wat betreft de emissies waarop de subindexen bij de letter Y betrekking hebben, uitgedrukt in ton kooldioxide-equivalenten;<br>
+85° « monitoringplan » :<br>
+een document dat bedoeld is voor het bewaken van BKG-emissies en dat opgesteld is overeenkomstig Verordening (EU) nr. 601/2012 van de Commissie van 21 juni 2012 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad;<br>
+86° « emissiejaarrapport » :<br>
+a) in het kader van de eerste verbintenisperiode, een rapport over de BKG-emissies die zijn uitgestoten tijdens het voorgaande kalenderjaar, dat is opgesteld overeenkomstig de sjabloon die op 23 januari 2009 is vastgesteld door de Vlaamse minister, bevoegd voor leefmilieu en het waterbeleid;<br>
+b) in het kader van de tweede verbintenisperiode, een emissieverslag over de BKG-emissies die zijn uitgestoten tijdens het voorgaande kalenderjaar, dat is opgesteld en waarover werd gerapporteerd overeenkomstig verordening (EU) nr. 601/2012 van de Commissie van 21 juni 2012 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad;<br>
+87° “verordening aquacultuur”: verordening nr. 708/2007 van de Raad van 11 juni 2007 inzake het gebruik van uitheemse en plaatselijk niet-voorkomende soorten in de aquacultuur;<br>
+88° “aquacultuur”: de kweek of teelt van aquatische organismen, waarbij technieken worden gebruikt om de aangroei van de betrokken organismen te verhogen tot boven de natuurlijke capaciteiten van het milieu; deze organismen blijven in de gehele fase van de kweek of de teelt, tot en met de oogst, eigendom van een natuurlijke persoon of rechtspersoon;<br>
+89° “open aquacultuurvoorziening”: een voorziening waar aquacultuur wordt bedreven in een aquatisch systeem dat niet van het natuurlijke watermilieu is gescheiden door barrières die ontsnapping van gekweekte exemplaren of biologisch materiaal die kans maken op overleving en reproductie, voorkomen;<br>
+90° “gesloten aquacultuurvoorziening”: een op het land gelegen voorziening waar:<br>
+a)&nbsp;&nbsp;&nbsp; aquacultuur wordt bedreven in een aquatisch systeem met waterrecirculatie;<br>
+b)&nbsp;&nbsp;&nbsp; de lozingen pas na zeving en filtering of percolatie en behandeling in contact komen met open water teneinde te voorkomen dat vaste afvalstoffen in de aquatische omgeving terechtkomen en dat gekweekte soorten en niet-doelsoorten die kans maken op overleving en reproductie, uit de voorziening ontsnappen;<br>
+c)&nbsp;&nbsp;&nbsp; verliezen van gekweekte exemplaren of niet-doelsoorten en ander biologisch materiaal, met inbegrip van pathogenen, als gevolg van factoren zoals roofdieren en overstroming worden voorkomen; zo moet de voorziening zich overeenkomstig een adequate beoordeling door de bevoegde autoriteiten op een veilige afstand van open water bevinden;<br>
+d)&nbsp;&nbsp;&nbsp; verliezen van gekweekte exemplaren of niet-doelsoorten en ander biologisch materiaal, met inbegrip van pathogenen, als gevolg van diefstal en vandalisme binnen de grenzen van de redelijkheid worden voorkomen; alsmede<br>
+e)&nbsp;&nbsp;&nbsp; de adequate verwijdering van dode organismen wordt gegarandeerd;<br>
+91° “dierlijke bijproducten”: de niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten, vermeld in de verordening dierlijke bijproducten en haar uitvoerende verordening (EU) nr.142/2011;<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /-->&nbsp;
+<p>92° “verdrag van Helsinki" : het verdrag betreffende de grensoverschrijdende gevolgen van industriële ongevallen, ondertekend in Helsinki op 17 maart 1992;</p>
+
+<p>&nbsp;</p>
+
+<p>93° “afdeling, bevoegd voor milieueffectrapportering”: de afdeling Milieu-, Natuur- en Energiebeleid van het Departement, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;&nbsp;</p>
+
+<p>94° “ARBIS”: koninklijk besluit van 20 juli 2001 houdende algemeen reglement op de bescherming van de bevolking, van de werknemers en het leefmilieu tegen het gevaar van de ioniserende stralingen.”;</p>
+
+<p>95° “ingrijpende renovatie”: renovatie waarvan de kosten hoger liggen dan 50 % van de investeringskosten voor een nieuwe vergelijkbare eenheid;<br>
+96° “kwalitatieve warmte-krachtkoppeling”: warmte-krachtkoppeling die voldoet aan de voorwaarden voor kwalitatieve warmte-krachtkoppeling, gesteld in bijlage I bij het Energiebesluit van 19 november 2010;<br>
+97° “kosten-batenanalyse”: een financieel-economische vergelijking tussen een installatie zonder benutting van restwarmte of aanwending van kwalitatieve warmtekrachtkoppeling en een gelijkwaardige installatie waarin restwarmte nuttig wordt gebruikt&nbsp; of die uitgebaat wordt als kwalitatieve warmtekrachtkoppeling, zoals beschreven in punt F19 van bijlage 4.B;<br>
+98° “aardgasopslag”: de vaste drukhouders die dienst doen als buffer voor de opslag van aardgas of tot aardgaskwaliteit opgewaardeerd biogas, alsook de vaste drukhouders die dienst doen als aflaatreservoirs voor het aardgas of tot aardgaskwaliteit opgewaardeerd biogas bij aardgasafleverinstallaties;<br>
+99° “aardgasaflevereenheden (homecompressors)”: traagvullende inrichtingen voor de bevoorrading van motorvoertuigen met samengeperst aardgas of tot aardgaskwaliteit opgewaardeerd biogas, zonder aardgasopslag, bestaande uit één compressor en een of meerdere afleverslang(en);<br>
+100° “aardgasafleverinstallaties”: inrichtingen voor de bevoorrading van motorvoertuigen met samengeperst aardgas of tot aardgaskwaliteit opgewaardeerd biogas, andere dan aardgasaflevereenheden, bestaande uit een of meerdere compressor(en), een eventuele aardgasopslag, en één of meerdere aflevertoestellen;</p>
 
 ## HOOFDSTUK II DE MELDING
 
