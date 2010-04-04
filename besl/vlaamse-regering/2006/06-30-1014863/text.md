@@ -6,6 +6,10 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ## HOOFDSTUK I Wijzigingen van het besluit van de Vlaamse Regering van 21 december 1983 tot vaststelling van de voorwaarden waaronder de toelating wordt verstrekt aan de coöperatieve vennootschap « Vlaams Woningfonds van de Grote Gezinnen » tot het aangaan van leningen
 
+### ART. 1.
+
+In artikel 4 van het besluit van de Vlaamse Regering van 21 december 1983 tot vaststelling van de voorwaarden waaronder de toelating wordt verstrekt aan de coöperatieve vennootschap « Vlaams Woningfonds van de Grote Gezinnen » tot het aangaan van leningen worden de volgende wijzigingen aangebracht :<br />1° het eerste lid wordt vervangen door wat volgt :<br />« De toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, wordt op alle vergaderingen van de raad van bestuur uitgenodigd. »;<br />2° in het tweede lid worden de woorden « een commissaris » vervangen door de woorden « de toezichthouder »;<br />3° in het derde lid worden de woorden « de commissarissen » vervangen door de woorden « de toezichthouder ».<br /><br />
+
 ## HOOFDSTUK II Wijzigingen van het besluit van de Vlaamse Regering van 25 januari 1985 betreffende de huurlasten in het Vlaamse Gewest van de woningen die aan de door de Nationale Maatschappij voor de Huisvesting erkende vennootschappen of aan de Nationale Maatschappij zelf toebehoren
 
 ### ART. 2.
