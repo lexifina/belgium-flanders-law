@@ -297,7 +297,7 @@ De gewestwaarborg kan alleen worden verleend als het VWF er zich vooraf toe verb
 
 ### ART. 55.
 
-Voor de naleving van de bepalingen van afdeling 1 en 2 van dit hoofdstuk, staat het VWF onder het toezicht van twee commissarissen die door de Vlaamse regering worden benoemd en die hun bevoegdheid uitoefenen overeenkomstig artikel 9 en 10 van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut.<br /><br />De commissarissen toetsen de activiteiten van het VWF en de beslissingen van de raad van bestuur in verband met de aanwending van leningen of kredieten, bedoeld in artikel 52, aan de regelgeving dienaangaande.<br /><br />In het bijzonder zien zij erop toe dat het beleid van het VWF wordt gecoördineerd met en geïntegreerd in het Vlaamse woonbeleid. Zij waken erover dat het VWF deelneemt aan de overlegvergaderingen tussen de woonorganisaties, georganiseerd door een gemeente of een sociale opdrachthouder, telkens het daartoe wordt uitgenodigd.
+Voor de naleving van de bepalingen van dit hoofdstuk staat het VWF onder het toezicht van de toezichthouder.<br /><br />De toezichthouder toetst de activiteiten van het VWF en de beslissingen van de raad van bestuur over de aanwending van leningen of kredieten, vermeld in artikel 52, aan de regelgeving hierover.<br /><br />In het bijzonder ziet hij erop toe dat het beleid van het VWF wordt gecoördineerd met en geïntegreerd in het Vlaamse Woonbeleid. Hij waakt erover dat het VWF deelneemt aan het overleg, vermeld in artikel 28, telkens als het daartoe wordt uitgenodigd.<br />
 
 ## HOOFDSTUK IV DE ERKENDE HUURDIENSTEN
 
