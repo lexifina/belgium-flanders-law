@@ -2,16 +2,16 @@
   "codex_id": 1014578,
   "title": "Decreet van 2006-03-24 houdende wijziging van decretale bepalingen inzake wonen als gevolg van het bestuurlijk beleid.",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014578/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "fd8ada540dd3141f90c075bc5d788cbcbb1b8907004f0267a275e244ac7dba4d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014578/VolledigDocument?datum=2010-04-04",
+  "source_sha256": "64a873c7f2c60df350cc478032d94052af318c3e726d413dc99d5d076c4021da",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014578&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2010-04-04",
   "made": "2006-03-24",
   "gazette": "2006-06-14",
   "numac": 2006035895,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-07-01",
-  "article_versions": 75,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-04-04",
+  "article_versions": 76,
+  "record_form": "consolidated version as in force on 2010-04-04; future article versions excluded; article text as the API gives it"
 }

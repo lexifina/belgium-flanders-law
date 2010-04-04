@@ -190,6 +190,10 @@ In titel V van hetzelfde decreet wordt een hoofdstuk IIbis, bestaande uit artike
 
 In hoofdstuk III van titel V van hetzelfde decreet wordt de indeling in afdelingen, met inbegrip van de opschriften ervan, geschrapt.<br /><br />
 
+### ART. 46.
+
+Artikel 55 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Art. 55. Voor de naleving van de bepalingen van dit hoofdstuk staat het VWF onder het toezicht van de toezichthouder.<br /><br />De toezichthouder toetst de activiteiten van het VWF en de beslissingen van de raad van bestuur over de aanwending van leningen of kredieten, vermeld in artikel 52, aan de regelgeving hierover.<br /><br />In het bijzonder ziet hij erop toe dat het beleid van het VWF wordt gecoördineerd met en geïntegreerd in het Vlaamse Woonbeleid. Hij waakt erover dat het VWF deelneemt aan het overleg, vermeld in artikel 28, telkens als het daartoe wordt uitgenodigd. »
+
 ### ART. 47.
 
 In artikel 56 van hetzelfde decreet, vervangen bij het decreet van 19 maart 2004, worden de volgende wijzigingen aangebracht :<br />1° § 3 wordt vervangen door wat volgt :<br />« § 3. De bepalingen van artikel 47 zijn van overeenkomstige toepassing op de huurdiensten. De Vlaamse Regering kan, hetzij op eigen initiatief, hetzij op verzoek van de toezichthouder, de erkenning van een huurdienst intrekken. »;<br />2° §§ 4, 5 en 6 worden opgeheven.<br /><br />
