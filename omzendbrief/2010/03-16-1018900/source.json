@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018900,
+  "title": "Omzendbrief van 2010-03-16 Bijzondere subsidies aan voorzieningen (1) in de gehandicaptensector",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018900/VolledigDocument?datum=2010-04-08",
+  "source_sha256": "5481ae5752f4553fa9b873fbb1c0efc556f5727c5fe3bf77b54013759b143101",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018900&param=informatie",
+  "as_of": "2010-04-08",
+  "made": "2010-03-16",
+  "gazette": "2010-03-29",
+  "numac": 2010035227,
+  "document_start": "2010-04-08",
+  "document_end": null,
+  "in_force": "2010-04-08",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2010-04-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
