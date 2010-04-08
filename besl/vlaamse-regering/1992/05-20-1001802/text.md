@@ -20,6 +20,10 @@ Krachtens het reglement van 20 mei 1843 houdende het verdrag van 19 april 1839 b
 
 De prijs van de vergunning wordt vastgesteld op 75 euro per kalenderjaar. De vergunning geeft toe-lating tot het vissen met maximaal vijf visfuiken of schietfuiken. Per persoon wordt slechts één vergunning afgeleverd. De vergunning is geldig tijdens het kalenderjaar waarvoor ze wordt afgeleverd. De vergunninghouder moet de voorschriften en de beperkingen in de vergunning naleven.[ <span class="reference">(verv. B.V.R. 17 oktober 2003, art. 3, I: 29 december 2003)</span> ]
 
+### ART. 4/1.
+
+Tot en met 31 december 2014 is het vissen met vergunning tijdelijk verboden en worden geen vergunningen uitgereikt.
+
 ### ART. 5.
 
 Het Agentschap stelt het model van de vergunning vast en bepaalt de nadere regels voor betaling van de prijs van de vergunning.
@@ -36,7 +40,7 @@ Elk visverlof geeft het recht te vissen op de wijze die krachtens de minder dure
 
 ### ART. 8.
 
-De visverloven, waarvan de Vlaamse minister de vorm vaststelt, worden door de postkantoren afgege-ven.<br /><br />Zij gelden voor het jaar waarin zij zijn afgegeven. Zij zijn persoonlijk.<br /><br />De uitoefening van de visserij in het Vlaamse Gewest op grond van een visverlof dat niet werd afgeleverd door een postkantoor gelegen in het Vlaamse Gewest, wordt gelijkgesteld met het uitoefenen van de visserij zonder verlof.
+Het Agentschap bepaalt de vorm van het visverlof.<br /><br />Een visverlof kan worden verkregen op één van de volgende wijzen : <br />1° op het postkantoor;<br />2° door middel van een internetapplicatie die wordt beheerd door of in opdracht van het Agentschap.<br /><br />Een visverlof is persoonlijk en geldt slechts voor het jaar waarin het is afgegeven.<br /><br />Het vissen met een visverlof dat niet is afgegeven overeenkomstig het bepaalde in het eerste en het tweede lid, wordt gelijkgesteld met het vissen zonder visverlof.
 
 ### ART. 9.
 
@@ -64,7 +68,7 @@ Onverminderd de strengere bepalingen en onder voorbehoud van de afwijkingen betr
 
 ### ART. 13.
 
-Gedurende de paaitijd is vissen naar elke soort vis - paling uitgezonderd - verboden, en zulks meer bepaald:<br /><br />1° van 1 oktober tot en met 31 mei, voor zalmachtigen en barbeel;<br /><br />2° van 1 januari tot en met 31 mei, op snoek;<br /><br />3° van 16 april tot en met 31 mei, op alle andere vissoorten.<br /><br />Alle vissen die gevangen genomen werden gedurende de tijd waarin dit verboden is, moeten onmiddellijk terug in het water worden gezet.
+Gedurende de paaitijd is vissen naar elke soort vis verboden, en zulks meer bepaald:<br />1° van 1 oktober tot en met 31 mei, voor zalmachtigen en barbeel;<br />2° van 1 januari tot en met 31 mei, op snoek;<br />3° van 16 april tot en met 31 mei, op alle andere vissoorten.<br /><br />Alle vissen die gevangen genomen werden gedurende de tijd waarin dit verboden is, moeten onmiddellijk terug in het water worden gezet.
 
 ### ART. 14.
 
@@ -80,7 +84,7 @@ Het is verboden te vissen van twee uur na zonsondergang tot twee uur vóór zons
 
 ### ART. 17.
 
-§ 1. [ <span class="reference">(ing. B.V.R. 17 oktober 2003, art. 9)</span> ] In afwijking van de artikelen 14 en 16 is het te allen tijde, op elk uur van de dag en de nacht, geoorloofd met de peur op paling te vissen.<br /><br />§ 2. In afwijking van artikel 13 en 14, 1°, en onverminderd artikel 15, is het van 16 april tot en met 31 mei toegestaan te vissen in de aangekruiste wateren van de kolom "Vissen in paaitijd" van bijlage 3 bij dit besluit, exclusief aanhorige oude meanders, aanhorige oude kanaalarmen en aanhorige grindplassen, die al dan niet in permanente verbinding zijn met de hoofdwaterloop. Het gebruik van levende of dode visjes als aas en van kunstaas, geschikt om snoek te vangen, is verboden. [ <span class="reference">(ing. B.V.R. 17 oktober 2003, art. 9, I: 29 december 2003)</span> ] Elke gevangen vis uitgezonderd paling moet onmiddellijk en voorzichtig in het water van herkomst worden vrijgelaten. [ <span class="reference">(verv. B.V.R. 23 december 2005, art. 2, I : 1 januari 2006)</span> ]<br /><br />§ 3. In afwijking van artikel 16 van hetzelfde besluit, en onverminderd de andere bepalingen van dit besluit is het toegestaan te vissen van twee uur na zonsondergang tot twee uur vóór zonsopgang in de aangekruiste wateren van de kolom "Nachtvisserij" van bijlage 3 bij dit besluit. Het gebruik van levende of dode visjes als aas en van kunstaas, geschikt om snoek te vangen, is verboden. [ <span class="reference">(ing. B.V.R. 17 oktober 2003, art. 9, I: 29 december 2003)</span> ] Elke gevangen vis uitgezonderd paling moet onmiddellijk en voorzichtig in het water van herkomst worden vrijgelaten. [ <span class="reference">(verv. B.V.R. 23 december 2005, art. 2, I : 1 januari 2006)</span> ]
+§ 1. In afwijking van artikel 13, 14 en 16 is het te allen tijde, op elk uur van de dag en de nacht, geoorloofd met de peur op paling te vissen.<br /><br />§ 2. In afwijking van artikel 13 en 14, 1°, en onverminderd artikel 15, is het van 16 april tot en met 31 mei toegestaan te vissen in de aangekruiste wateren van de kolom "Vissen in paaitijd" van bijlage 3 bij dit besluit, exclusief aanhorige oude meanders, aanhorige oude kanaalarmen en aanhorige grindplassen, die al dan niet in permanente verbinding zijn met de hoofdwaterloop. Het gebruik van levende of dode visjes als aas en van kunstaas, geschikt om snoek te vangen, is verboden. Elke gevangen vis moet onmiddellijk en voorzichtig in het water van herkomst worden vrijgelaten.<br /><br />§ 3. In afwijking van artikel 16 van hetzelfde besluit, en onverminderd de andere bepalingen van dit besluit is het toegestaan te vissen van twee uur na zonsondergang tot twee uur vóór zonsopgang in de aangekruiste wateren van de kolom "Nachtvisserij" van bijlage 3 bij dit besluit. Het gebruik van levende of dode visjes als aas en van kunstaas, geschikt om snoek te vangen, is verboden. Elke gevangen vis moet onmiddellijk en voorzichtig in het water van herkomst worden vrijgelaten.
 
 ### ART. 18.
 
@@ -114,7 +118,7 @@ In afwijking van artikel 13 en 14, 1°, en onverminderd artikel 15, is het visse
 
 ### ART. 23.
 
-In afwijking van artikel 13 en 14, 1°, en onverminderd artikel 15, is het in het gedeelte van de Schelde, bedoeld in artikel 3, het hele jaar door geoorloofd alle vissoorten te vangen. [ <span class="reference">(verv. B.V.R. 17 oktober 2003, art. 15, I: 29 december 2003)</span> ]
+...
 
 ## IJZER
 
