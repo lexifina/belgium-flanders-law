@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018898,
+  "title": "Besluit van de Vlaamse Regering van 2010-03-05 tot wijziging van het besluit van de Vlaamse Regering van 20 mei 1992 tot uitvoering van de wet van 1 juli 1954 op de riviervisserij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018898/VolledigDocument?datum=2010-04-08",
+  "source_sha256": "aa28e36f0739dc3d6795234eb8e20e5cdc55c60e0ef70787e923d5fd89401919",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018898&param=informatie",
+  "as_of": "2010-04-08",
+  "made": "2010-03-05",
+  "gazette": "2010-03-29",
+  "numac": 2010201471,
+  "document_start": "2010-04-08",
+  "document_end": null,
+  "in_force": "2010-04-08",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2010-04-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
