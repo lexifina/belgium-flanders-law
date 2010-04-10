@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018903,
+  "title": "Besluit van de Vlaamse Regering van 2010-03-05 betreffende de verzameling van boekhoudkundige gegevens voor de uitvoering van het communautaire visserijbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018903/VolledigDocument?datum=2010-04-10",
+  "source_sha256": "36d6ada56e7ae306075114e6fb3aff25c80aa4866a0990bb4c6590fee87f14bd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018903&param=informatie",
+  "as_of": "2010-04-10",
+  "made": "2010-03-05",
+  "gazette": "2010-03-31",
+  "numac": 2010201513,
+  "document_start": "2010-04-10",
+  "document_end": null,
+  "in_force": "2010-04-10",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2010-04-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
