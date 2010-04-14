@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021449,
+  "title": "Ministerieel besluit van 2012-03-22 tot wijziging van het ministerieel besluit van 5 april 2010 tot bepaling van de standaard voor de titel van poetshulp",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021449/VolledigDocument?datum=2010-04-14",
+  "source_sha256": "777979751adb04a1e4aaa7ceb9da87626ec8ee15a4bd9df73e3f12b5b65d6a2f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021449&param=informatie",
+  "as_of": "2010-04-14",
+  "made": "2012-03-22",
+  "gazette": "2012-04-11",
+  "numac": 2012201952,
+  "document_start": "2010-04-14",
+  "document_end": null,
+  "in_force": "2010-04-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-04-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
