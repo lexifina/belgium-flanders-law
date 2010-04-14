@@ -4,6 +4,18 @@
 
 De Vlaamse Regering,<br /><br />Gelet op het Gemeentedecreet van 15 juli 2005, artikel 76, § 4, tweede lid, ingevoegd bij het decreet van 23 januari 2009;<br /><br />Gelet op het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn, artikel 75, § 4, tweede lid;<br /><br />Gelet op het besluit van de Vlaamse Regering van 11 juni 2004 tot vaststelling van het statuut van de gewestelijk ontvangers;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 6 januari 2010;<br /><br />Gelet op protocol nr. 283.935 van 26 februari 2010 van het sectorcomité XVIII Vlaamse Gemeenschap - Vlaams Gewest;<br /><br />Gelet op advies 47.878/3 van de Raad van State, gegeven op 9 maart 2010, met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;<br /><br />Op voorstel van de Vlaamse minister van Bestuurszaken, Binnenlands Bestuur, Inburgering, Toerisme en Vlaamse Rand;<br /><br />Na beraadslaging,<br /><br />Besluit :
 
+### ART. 1.
+
+In artikel 95, § 3, van het besluit van de Vlaamse Regering van 11 juni 2004 tot vaststelling van het statuut van de gewestelijk ontvangers, ingevoegd bij het besluit van de Vlaamse Regering van 4 september 2009, wordt het woord « gouverneur » telkens vervangen door het woord « provinciegouverneur ».
+
 ### ART. 2.
 
 In deel XIV van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 17 februari 2006 en gewijzigd bij het besluit van de Vlaamse Regering van 14 november 2008, wordt een artikel 160quinquies ingevoegd, dat luidt als volgt :<br /><br />« Art. 160quinquies. De gewestelijk ontvangers aan wie een verlof voor opdracht van algemeen belang werd toegekend vóór 1 maart 2006 of van wie het verlof voor opdracht werd verlengd in de periode tussen 1 maart 2006 en 1 maart 2009, mogen dat verlof voortzetten onder de voorwaarden die van toepassing waren vóór 1 maart 2006. ».
+
+### ART. 3.
+
+Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 2, dat uitwerking heeft met ingang van 1 maart 2006.
+
+### ART. 4.
+
+De Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden, is belast met de uitvoering van dit besluit.
