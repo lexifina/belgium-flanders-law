@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018915,
+  "title": "Besluit van de Vlaamse Regering van 2010-03-05 tot wijziging van het besluit van de Vlaamse Regering van 11 juni 2004 houdende het toekennen van een gewestbijdrage aan grijswaterleveranciers voor de uitbouw van grijswatercircuits ter bescherming van de kwetsbare watervoerende lagen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018915/VolledigDocument?datum=2010-04-18",
+  "source_sha256": "a93085bc4217459704311e2307533da350392ac7424d4309da65050fa03f73e4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018915&param=informatie",
+  "as_of": "2010-04-18",
+  "made": "2010-03-05",
+  "gazette": "2010-04-08",
+  "numac": 2010035241,
+  "document_start": "2010-04-18",
+  "document_end": null,
+  "in_force": "2010-04-18",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2010-04-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
