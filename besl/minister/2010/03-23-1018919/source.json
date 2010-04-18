@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018919,
+  "title": "Ministerieel besluit van 2010-03-23 betreffende de bekrachtiging van de aanwijzing van de leden van het college van beroep inzake tucht bij Hogeschool Gent",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018919/VolledigDocument?datum=2010-04-18",
+  "source_sha256": "8977a379c22082a53c8aa98fa533fe1d31c848537e63ed776b7b4d6faabf9934",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018919&param=informatie",
+  "as_of": "2010-04-18",
+  "made": "2010-03-23",
+  "gazette": "2010-04-08",
+  "numac": 2010201839,
+  "document_start": "2010-04-18",
+  "document_end": null,
+  "in_force": "2010-04-18",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2010-04-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
