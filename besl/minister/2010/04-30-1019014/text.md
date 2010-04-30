@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2010-04-30 tot wijziging van het ministerieel besluit van 1 oktober 2007 tot uitvoering van het besluit van de Vlaamse Regering van 16 mei 2007 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest
+
+### Aanhef
+
+De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbeleid,<br /><br />Gelet op het decreet van 31 januari 2003 betreffende het economisch ondersteuningsbeleid, artikelen 13 en 15, § 2;<br /><br />Gelet op het besluit van de Vlaamse Regering van 16 mei 2007 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest, artikel 7, gewijzigd bij het besluit van de Vlaamse Regering van 3 april 2009, artikelen 18 en 27,<br /><br />Gelet op het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de besluiten van de Vlaamse Regering van 24 juli 2009 en 4 december 2009;<br /><br />Gelet op het ministerieel besluit van 1 oktober 2007 tot uitvoering van het besluit van de Vlaamse Regering van 16 mei 2007 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 12 april 2010;<br /><br />Gelet op de wetten op de Raad van State, gecoördineerd op 12 januari 1973, artikel 3, § 1, vervangen bij de wet van 4 juli 1989 en gewijzigd bij de wet van 4 augustus 1996;<br /><br />Gelet op de dringende noodzakelijkheid; <br /><br />Overwegende de rechtsonzekerheid die ontstaat omtrent investeringen die starten tussen twee niet op elkaar aaneensluitende oproepen en de noodzaak om deze onduidelijkheid zo snel als mogelijk weg te werken;<br /><br />Overwegende dat om die redenen dit besluit dringend in werking moet treden,<br /><br />Besluit :
+
+### ART. 1.
+
+In het ministerieel besluit van 1 oktober 2007 tot uitvoering van het besluit van de Vlaamse Regering van 16 mei 2007 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest wordt een artikel 2/4 ingevoegd dat luidt als volgt :<br /><br />« Art. 2/4. Ter uitvoering van artikel 7 van het besluit van de Vlaamse Regering moeten de investeringen starten na de indieningsdatum van de subsidieaanvraag.<br /><br />Dit betekent dat als er investeringen gestart zijn tussen twee niet-aaneensluitende oproeptermijnen, die investeringen alleen in aanmerking komen als de subsidieaanvraag ingediend wordt binnen veertien kalenderdagen na de start van de volgende oproeptermijn overeenkomstig de voorwaarden en de procedure, vermeld op de website. »
+
+### ART. 2.
+
+Dit besluit treedt in werking op 30 april 2010.
