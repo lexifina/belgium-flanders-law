@@ -28,6 +28,10 @@ De in aanmerking komende investering ten behoeve van elektriciteit opgewekt door
 
 Ter uitvoering van artikel 12, § 2, van het besluit van de Vlaamse Regering wordt verstaan onder : <br />1° geraamde elektriciteitsverbruik : het realistisch geraamde elektriciteitsverbruik van het eerste jaar na de beëindiging van de investeringen;<br />2° substantiële capaciteitsuitbreiding : er is een vermoeden van een substantiële capaciteitsuitbreiding als door een toename van de productiecapaciteit het elektriciteitsverbruik met minstens 50 % is toegenomen.<br /><br />Het Agentschap Ondernemen kan dit vermoeden weerleggen als zij vaststelt dat de toename van het elektriciteitsverbruik niet het gevolg is van de toename van de productiecapaciteit.
 
+### ART. 2/4.
+
+Ter uitvoering van artikel 7 van het besluit van de Vlaamse Regering moeten de investeringen starten na de indieningsdatum van de subsidieaanvraag.<br /><br />Dit betekent dat als er investeringen gestart zijn tussen twee niet-aaneensluitende oproeptermijnen, die investeringen alleen in aanmerking komen als de subsidieaanvraag ingediend wordt binnen veertien kalenderdagen na de start van de volgende oproeptermijn overeenkomstig de voorwaarden en de procedure, vermeld op de website.
+
 ## HOOFDSTUK III Oproep- en aanvraagprocedure
 
 ### ART. 3.
