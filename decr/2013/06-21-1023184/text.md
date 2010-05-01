@@ -14,6 +14,10 @@
 
 ## HOOFDSTUK 7 Zorgverzekering
 
+### ART. 27.
+
+In hoofdstuk V van het decreet van 30 maart 1999 houdende de organisatie   van de zorgverzekering, het laatst gewijzigd bij het decreet van 25 maart 2011,   wordt een artikel 23sexies ingevoegd, dat luidt als volgt : <BR>"Art. 23sexies.   De Vlaamse Regering bepaalt de overgangsmaatregelen voor de voorwaarden   waaronder de tenlastenemingen van personen die zich niet langer bij de   zorgverzekering kunnen aansluiten ten gevolge van de toepassing van de in   verordening (EG) nr. 883/04 opgenomen aanwijzingsregels, verder worden   uitgevoerd.".<BR>
+
 ## HOOFDSTUK 8 Samenwerkingsverbanden voor psychiatrische instellingen en diensten en centra voor dagverzorging
 
 ### ART. 33.
