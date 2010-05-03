@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018954,
+  "title": "Ministerieel besluit van 2010-03-31 tot oprichting van de Vlaamse werkgroep Bedrijfsgezondheidszorg",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018954/VolledigDocument?datum=2010-05-03",
+  "source_sha256": "976dfe3ea108f5ca6c36a9a0a50ef6f336e8ea0367262a0df9c58a94c62574ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018954&param=informatie",
+  "as_of": "2010-05-03",
+  "made": "2010-03-31",
+  "gazette": "2010-04-23",
+  "numac": 2010035285,
+  "document_start": "2010-05-03",
+  "document_end": null,
+  "in_force": "2010-05-03",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2010-05-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
