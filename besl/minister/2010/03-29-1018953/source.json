@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018953,
+  "title": "Ministerieel besluit van 2010-03-29 betreffende de aanvraag van een toestemming voor een bevolkingsonderzoek in het kader van ziektepreventie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018953/VolledigDocument?datum=2010-05-03",
+  "source_sha256": "b2f33454be813659b2897fce2a8bad80b9c0bd67379d835deb0600d4c26efbf8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018953&param=informatie",
+  "as_of": "2010-05-03",
+  "made": "2010-03-29",
+  "gazette": "2010-04-23",
+  "numac": 2010202166,
+  "document_start": "2010-05-03",
+  "document_end": null,
+  "in_force": "2010-05-03",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2010-05-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
