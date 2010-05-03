@@ -6,12 +6,12 @@ De Vlaamse minister van Institutionele Hervormingen, Landbouw, Zeevisserij en Pl
 
 ### ART. 1.
 
-De volgende ambtenaren van het Vlaams Ministerie van Landbouw en Visserij worden aangewezen om het ambt van secretaris van de pachtprijzencommissies waar te nemen :<br />1° West-Vlaanderen : I. Ryckaert, ingenieur;<br />2° Oost-Vlaanderen : A. Saverwyns, ingenieur;<br />3° Antwerpen : D. Coomans, ingenieur;<br />4° Limburg : N. Vettenburg, ingenieur;<br />5° Vlaams-Brabant : A. Demeyere, ingenieur.<br />
+...
 
 ### ART. 2.
 
-De volgende ambtenaren van het Vlaams Ministerie van Landbouw en Visserij worden aangewezen om het ambt van plaatsvervangend secretaris van dezelfde commissies waar te nemen :<br />1° West-Vlaanderen : B. Debussche, ingenieur;<br />2° Oost-Vlaanderen : L. Hubrecht, ingenieur;<br />3° Antwerpen : N. Vettenburg, ingenieur;<br />3° Limburg : K. Jespers, ingenieur;<br />4° Vlaams-Brabant : D. Coomans, ingenieur.<br />
+...
 
 ### ART. 3.
 
-Het ministerieel besluit van 21 oktober 2004 tot aanwijzing van de secretarissen en plaatsvervangende secretarissen van de pachtprijzencommissies wordt opgeheven.<br />
+...
