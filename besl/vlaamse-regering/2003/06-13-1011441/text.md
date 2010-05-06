@@ -22,7 +22,7 @@ De schorsing of intrekking van de zendvergunning wordt per aangetekende brief te
 
 ### ART. 6.
 
-Voor een wijziging van de zendvergunning waarbij een coördinatieprocedure via het Belgisch Instituut voor Postdiensten en Telecommunicatie moet worden opgestart, wordt een recht aangerekend ten bedrage van 200 euro. Dat recht moet vooraf worden betaald op het rekeningnummer 435-4538151-86 van de Vlaamse Regulator voor de Media.<br /><br />Voor een wijziging van de zendvergunning waarbij geen beroep moet worden gedaan op de diensten van het Belgisch Instituut voor Postdiensten en Telecommunicatie in het kader van een coördinatieprocedure, is geen betaling van rechten verschuldigd.<br /><br />De schorsing of intrekking van een zendvergunning geeft geen aanleiding tot de terugbetaling van de betaalde rechten, van welke aard ook. <br />
+Voor een wijziging van de zendvergunning waarbij een coördinatieprocedure via het Belgisch Instituut voor Postdiensten en Telecommunicatie moet worden opgestart, wordt een recht aangerekend ten bedrage van 200 euro. Dat recht moet vooraf worden betaald op het rekeningnummer van de Vlaamse Regulator voor de Media.<br /><br />Voor een wijziging van de zendvergunning waarbij geen beroep moet worden gedaan op de diensten van het Belgisch Instituut voor Postdiensten en Telecommunicatie in het kader van een coördinatieprocedure, is geen betaling van rechten verschuldigd.<br /><br />De schorsing of intrekking van een zendvergunning geeft geen aanleiding tot de terugbetaling van de betaalde rechten, van welke aard ook. <br />
 
 ### ART. 7.
 

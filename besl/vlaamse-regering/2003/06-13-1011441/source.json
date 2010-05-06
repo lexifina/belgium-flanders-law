@@ -2,16 +2,16 @@
   "codex_id": 1011441,
   "title": "Besluit van de Vlaamse Regering van 2003-06-13 betreffende de toekenning van [tijdelijke zendvergunningen]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011441/VolledigDocument?datum=2007-03-05",
-  "source_sha256": "792f4b7f3f47620fb5e9eae21a64d610a786d9b0b74fb99cd5ac5f626be974a3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011441/VolledigDocument?datum=2010-05-06",
+  "source_sha256": "9162c9cfebbf7d32a18e8971a08310d939a7927e2c2a9bf6651b2ecb6be008aa",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011441&param=informatie",
-  "as_of": "2007-03-05",
+  "as_of": "2010-05-06",
   "made": "2003-06-13",
   "gazette": "2003-07-15",
   "numac": 2003035746,
   "document_start": null,
   "document_end": null,
-  "in_force": "2007-03-05",
+  "in_force": "2010-05-06",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2007-03-05; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-05-06; future article versions excluded; article text as the API gives it"
 }
