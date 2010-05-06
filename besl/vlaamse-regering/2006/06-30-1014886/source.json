@@ -2,16 +2,16 @@
   "codex_id": 1014886,
   "title": "Besluit van de Vlaamse Regering van 2006-06-30 betreffende de procedure voor de Vlaamse Regulator voor de Media",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014886/VolledigDocument?datum=2008-10-24",
-  "source_sha256": "1c80d2f59ca8f7bf1607ab3a3cb87fb1f1f1e3140d9bda2567718f2d1fc102b4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014886/VolledigDocument?datum=2010-05-06",
+  "source_sha256": "9914fe4c3598ffa48dda55b072dd06d35fcd1bcf15cc1d2590f866f934ee257b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014886&param=informatie",
-  "as_of": "2008-10-24",
+  "as_of": "2010-05-06",
   "made": "2006-06-30",
   "gazette": "2006-08-25",
   "numac": 2006036272,
   "document_start": "2006-09-04",
   "document_end": null,
-  "in_force": "2008-10-24",
-  "article_versions": 45,
-  "record_form": "consolidated version as in force on 2008-10-24; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-05-06",
+  "article_versions": 51,
+  "record_form": "consolidated version as in force on 2010-05-06; future article versions excluded; article text as the API gives it"
 }
