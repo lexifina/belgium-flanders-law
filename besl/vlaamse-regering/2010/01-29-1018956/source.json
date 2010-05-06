@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018956,
+  "title": "Besluit van de Vlaamse Regering van 2010-01-29 houdende wijziging van het besluit van de Vlaamse Regering van 13 juni 2003 betreffende de toekenning van zendvergunningen aan de erkende particuliere landelijke, regionale en lokale radio-omroepen en tot wijziging van het besluit van de Vlaamse Regering van 30 juni 2006 betreffende de procedure voor de Vlaamse Regulator voor de Media",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018956/VolledigDocument?datum=2010-05-06",
+  "source_sha256": "102fb5ff2936bfd26f33a8781703fd2af6b8b6798db8ff8345f003d2349ad99c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018956&param=informatie",
+  "as_of": "2010-05-06",
+  "made": "2010-01-29",
+  "gazette": "2010-04-26",
+  "numac": 2010202243,
+  "document_start": "2010-05-06",
+  "document_end": null,
+  "in_force": "2010-05-06",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2010-05-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
