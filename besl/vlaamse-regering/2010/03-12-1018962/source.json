@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018962,
+  "title": "Besluit van de Vlaamse Regering van 2010-03-12 [tot bepaling van de nadere regeling met betrekking tot de kredietregeling, vermeld in artikel 4.1.16 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid (verv. BVR 19 oktober 2012, art. 1)]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018962/VolledigDocument?datum=2010-05-07",
+  "source_sha256": "67eb81c53f3ca06213dfe089d2b6eb80ad03e4790d7d72fb49508b90b2c3c6df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018962&param=informatie",
+  "as_of": "2010-05-07",
+  "made": "2010-03-12",
+  "gazette": "2010-04-27",
+  "numac": 2010035290,
+  "document_start": "2010-05-07",
+  "document_end": "2010-05-07",
+  "in_force": "2010-05-07",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2010-05-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
