@@ -68,15 +68,7 @@ Als een verkavelingsproject of een bouwproject onderworpen is aan een norm   soc
 
 ### ART. 5.
 
-Er wordt een register aangelegd van kredieteenheden die krachtens dit besluit verkregen worden. Dat register draagt de benaming « kredieteenhedenregister » en wordt beheerd door de VMSW.<br /><br />Elke registratie in het kredieteenhedenregister bevat minstens de volgende gegevens :<br />1° de datum van registratie;<br />2° het unieke nummer voor elke geregistreerde verklaring;<br />3° de identificatiegegevens van het project waarvoor een of meer kredieteenheden verkregen zijn;<br />4° de identificatiegegevens van de verkavelaar of bouwheer;<br />5° de identificatiegegevens van het vergunningverlenende bestuursorgaan;<br />6° het aantal verkregen, niet aangewende kredieteenheden;<br />7° het aantal aangewende kredieteenheden.<br /><br />Wanneer een of meer kredieteenheden worden aangewend overeenkomstig artikel 4, wordt de registratie in het kredieteenhedenregister aangepast.<br /><br />Op eerste verzoek bezorgt de VMSW de verkavelaar of bouwheer bij beveiligde zending een verklaring waarin het aantal kredieteenheden vermeld wordt waarover de verkavelaar of bouwheer volgens het kredieteenhedenregister beschikt.<br /><br />
-
-### ART. 5.
-
 ...
-
-### ART. 6.
-
-De VMSW zorgt tot vijf jaar na het verstrijken van de termijn, vermeld in artikel 4, vierde lid, voor de fysieke bewaring van alle documenten die het heeft ontvangen in het kader van de registratie in het kredieteenhedenregister, vermeld in artikel 5.<br /><br />
 
 ### ART. 6.
 
@@ -86,27 +78,15 @@ De VMSW zorgt tot vijf jaar na het verstrijken van de termijn, vermeld in artike
 
 ### ART. 7.
 
-In artikel 16, eerste lid, van het besluit van de Vlaamse Regering van 28 mei 2004 betreffende de dossiersamenstelling van de aanvraag voor een stedenbouwkundige vergunning, gewijzigd bij de besluiten van de Vlaamse Regering van 23 december 2005, 29 mei 2009 en 3 juli 2009, worden de volgende wijzigingen aangebracht :<br />1° in punt 11° worden de woorden « een attest van de gemeente » vervangen door de woorden « een verklaring van de VMSW »;<br /><br />2° punt 12° wordt vervangen door wat volgt :<br />« 12° als de werken onderworpen zijn aan een norm als bepaald krachtens boek 4, titel 1, hoofdstuk 2, afdeling 2, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid en de aanvrager in het kader van de CBO-procedure, vermeld in artikel 33, § 1, tweede lid, 8°, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, kredieteenheden verkregen heeft die hij krachtens artikel 4.1.16, § 3, van dat decreet in mindering wil brengen van de principieel uit te voeren sociale last, een verklaring van de VMSW waaruit blijkt dat de aanvrager de kredieteenheden daadwerkelijk verkregen heeft voor de verwezenlijking in het kader van de CBO-procedure van sociale huurwoningen binnen dezelfde gemeente als deze waar de huidig geplande werken uitgevoerd zullen worden indien er een stedenbouwkundige vergunning bekomen wordt; ».<br /><br />
-
-### ART. 7.
-
 ...
 
 ## HOOFDSTUK 3 Wijziging van het besluit van de Vlaamse Regering van 29 mei 2009 betreffende de dossiersamenstelling van de aanvraag voor een verkavelingsvergunning
 
 ### ART. 8.
 
-In artikel 3 van het besluit van de Vlaamse Regering van 29 mei 2009 betreffende de dossiersamenstelling van de aanvraag voor een verkavelingsvergunning worden de volgende wijzigingen aangebracht :<br />1° in punt 13° worden de woorden « een attest van de gemeente » vervangen door de woorden « een verklaring van de VMSW »;<br /><br />2° punt 14° wordt vervangen door wat volgt :<br />« 14° als de verkaveling onderworpen is aan een norm als bepaald krachtens boek 4, titel 1, hoofdstuk 2, afdeling 2, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid en de aanvrager in het kader van de CBO-procedure, vermeld in artikel 33, § 1, tweede lid, 8°, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, kredieteenheden verkregen heeft die hij krachtens artikel 4.1.16, § 3, van dat decreet in mindering wil brengen van de principieel uit te voeren sociale last, een verklaring van de VMSW waaruit blijkt dat de aanvrager de kredieteenheden daadwerkelijk verkregen heeft voor de verwezenlijking in het kader van de CBO-procedure van sociale huurwoningen binnen dezelfde gemeente als deze waar de huidige geplande verkaveling uitgevoerd zal worden indien er een verkavelingsvergunning bekomen wordt; ».<br /><br />
-
-### ART. 8.
-
 ...
 
 ## HOOFDSTUK 4 Slotbepaling
-
-### ART. 9.
-
-De Vlaamse minister, bevoegd voor het beleidsveld wonen, en de Vlaamse minister, bevoegd voor het beleidsveld ruimtelijke ordening, zijn, ieder van hem of haar betreft, belast met de uitvoering van dit besluit.<br /><br />
 
 ### ART. 9.
 
