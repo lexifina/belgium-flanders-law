@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018980,
+  "title": "Ministerieel besluit van 2010-03-05 betreffende de hoogdringende onteigening ten algemene nutte van onroerende goederen op het grondgebied van de gemeente Hamme in het kader van en noodzakelijk voor de inrichting van het Bulbierbroek, onderdeel van het geactualiseerd Sigmaplan",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018980/VolledigDocument?datum=2010-05-09",
+  "source_sha256": "b08802f64f1e548cce92a8f6bc2a2983d402f3e69eadddef17f498d9a594b2a2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018980&param=informatie",
+  "as_of": "2010-05-09",
+  "made": "2010-03-05",
+  "gazette": "2010-04-29",
+  "numac": 2010035301,
+  "document_start": "2010-05-09",
+  "document_end": null,
+  "in_force": "2010-05-09",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2010-05-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
