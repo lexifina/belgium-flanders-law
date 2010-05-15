@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018991,
+  "title": "Omzendbrief van 2010-04-26 WVG/Woonzorgdecreet/10/01",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018991/VolledigDocument?datum=2010-05-15",
+  "source_sha256": "dbafdf4527cacd354432161cbc2367efe21e945f570f21614ce1a84e0407f695",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018991&param=informatie",
+  "as_of": "2010-05-15",
+  "made": "2010-04-26",
+  "gazette": "2010-05-05",
+  "numac": 2010035318,
+  "document_start": "2010-05-15",
+  "document_end": null,
+  "in_force": "2010-05-15",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2010-05-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
