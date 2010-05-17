@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019003,
+  "title": "Ministerieel besluit van 2010-04-16 houdende vastlegging van richtlijnen voor het bewaken en rapporteren van CO2-emissies en tonkilometergegevens van luchtvaartactiviteiten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019003/VolledigDocument?datum=2010-05-17",
+  "source_sha256": "302eb391371da4b058af4f3930939ad485c427cacf9a903d2a6307f7cf3ced27",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019003&param=informatie",
+  "as_of": "2010-05-17",
+  "made": "2010-04-16",
+  "gazette": "2010-05-17",
+  "numac": 2010035325,
+  "document_start": "2010-05-17",
+  "document_end": null,
+  "in_force": "2010-05-17",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-05-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
