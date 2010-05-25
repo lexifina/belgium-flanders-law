@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019011,
+  "title": "Besluit van de Vlaamse Regering van 2010-04-30 tot opheffing van besluiten van de Vlaamse Regering houdende bepalingen inzake medisch verantwoorde sportbeoefening bij de deelname van minderjarigen aan sportmanifestaties, proeven, wedstrijden en opleidingen in bepaalde sporttakken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019011/VolledigDocument?datum=2010-05-25",
+  "source_sha256": "f40a11d078c460313a91b19d5ec76df471cfdce27a5f0fb783f18535d9584d91",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019011&param=informatie",
+  "as_of": "2010-05-25",
+  "made": "2010-04-30",
+  "gazette": "2010-05-25",
+  "numac": 2010035336,
+  "document_start": "2010-05-25",
+  "document_end": null,
+  "in_force": "2010-05-25",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-05-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
