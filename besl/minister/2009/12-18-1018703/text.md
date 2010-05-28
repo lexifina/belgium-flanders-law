@@ -24,19 +24,24 @@ Dit besluit treedt in werking op de datum van ondertekening ervan.<br /><br />
 
 ### BIJLAGE 1
 
-ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende kredietmaatschappijen voor 2010<br>
+Verdeling van de waarborg van het Vlaamse Gewest over de erkende kredietmaatschappijen voor 2010<br>
 
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Erkenningsnummer<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			<p><strong>Erkennings-<br>
+			nummer<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Naam</p>
+			<p><strong>Naam</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Bedrag</p>
+			<p><strong>Bedrag</strong></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p><strong>Bedrag onder opschortende<br>
+			voorwaarde</strong></p>
 			</td>
 		</tr>
 		<tr>
@@ -44,10 +49,13 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>NV Mijn Huis</p>
+			<p>NV MIJN HUIS</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>5.100.000 euro</p>
+			<p>3.825.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>1.275.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -55,10 +63,13 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Kempische Heerd nv</p>
+			<p>Kempische Heerd NV</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>4.400.000 euro</p>
+			<p>3.300.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>1.100.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -66,10 +77,13 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sint-Jozefskrediet</p>
+			<p>St-Jozefskrediet</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>25.150.000 euro</p>
+			<p>18.862.500 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>6.287.500 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -80,7 +94,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>SOKREMA CVBA</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>7.400.000 euro</p>
+			<p>5.550.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>1.850.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -88,10 +105,13 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>5</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Elk Zijn Huis NV</p>
+			<p>ELK ZIJN HUIS NV</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>6.250.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -102,7 +122,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Onze Thuis</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>8.250.000 euro</p>
+			<p>6.187.500 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2.062.500 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -113,7 +136,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Klein Eigenaarskrediet</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>2.350.000 euro</p>
+			<p>3.850.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -124,7 +150,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Middenkempen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>1.800.000 euro</p>
+			<p>2.200.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -135,7 +164,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Zonnige Woonst</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>1.800.000 euro</p>
+			<p>2.300.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -146,7 +178,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Eigen Huis-Thuis Best</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>3.350.000 euro</p>
+			<p>2.512.500 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>837.500 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -159,6 +194,9 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>2.650.000 euro</p>
 			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 euro</p>
+			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
@@ -168,7 +206,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>De Meiboom - Eigen Huis</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>4.250.000 euro</p>
+			<p>5.000.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -179,7 +220,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Ieder Zijn Huis</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>2.000.000 euro</p>
+			<p>1.500.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>500.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -192,6 +236,9 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>1.950.000 euro</p>
 			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 euro</p>
+			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
@@ -201,7 +248,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Koning in mijn Woning</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>2.100.000 euro</p>
+			<p>1.575.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>525.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -212,7 +262,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Eigen Huis Der Durmestreek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>1.850.000 euro</p>
+			<p>1.387.500 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>462.500 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -225,6 +278,9 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>3.850.000 euro</p>
 			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 euro</p>
+			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
@@ -234,7 +290,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Landwaarts Sociaal Woonkrediet</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>9.350.000 euro</p>
+			<p>7.012.500 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2.337.500 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -245,7 +304,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Eigen Huis</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>1.800.000 euro</p>
+			<p>1.350.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>450.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -256,7 +318,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Uw Eigen Huis der Vlaanderen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>1.850.000 euro</p>
+			<p>1.387.500 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>462.500 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -267,7 +332,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Germinal</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>1.800.000 euro</p>
+			<p>2.300.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -278,7 +346,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Ons Eigen Huis</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>5.950.000 euro</p>
+			<p>4.462.500 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>1.487.500 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -289,7 +360,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Sociaal Woonkrediet Regio Mechelen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>2.850.000 euro</p>
+			<p>3.350.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -300,7 +374,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Eigen Heerd Is Goud Weerd</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>5.050.000 euro</p>
+			<p>3.787.500 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>1.262.500 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -311,7 +388,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Krediet voor Eigen Heerd</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>2.000.000 euro</p>
+			<p>1.500.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>500.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -322,7 +402,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Sociaal Woonkrediet Antwerpen-Kempen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>3.500.000 euro</p>
+			<p>7.000.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -330,10 +413,13 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>36</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Fraternitas</p>
+			<p>FRATERNITAS</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>3.650.000 euro</p>
+			<p>2.737.500 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>912.500 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -344,7 +430,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Demer en Dijle</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>10.900.000 euro</p>
+			<p>8.175.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2.725.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +444,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Leenmij. Arr. Roeselare Tielt</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>2.750.000 euro</p>
+			<p>3.750.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -366,7 +458,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Voor ons Volk</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>4.050.000 euro</p>
+			<p>4.250.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -377,7 +472,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Sint-Trudo</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>1.800.000 euro</p>
+			<p>1.350.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>450.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -388,7 +486,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Limburgs Volkskrediet</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>2.250.000 euro</p>
+			<p>2.750.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -399,7 +500,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Het Werkmanshuis</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>1.800.000 euro</p>
+			<p>1.350.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>450.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -410,7 +514,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Volkskrediet De Toren</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>6.200.000 euro</p>
+			<p>7.200.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -421,7 +528,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Kredietmaatschappij voor Soc. Won.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>7.550.000 euro</p>
+			<p>9.550.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +542,10 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Imabo CVBA</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>1.800.000 euro</p>
+			<p>1.350.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>450.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -443,19 +556,33 @@ ErkenningsnummerVerdeling van de waarborg van het Vlaamse Gewest over de erkende
 			<p>Vlaams Sociaal Woonkrediet</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>1.900.000 euro</p>
+			<p>2.400.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 euro</p>
 			</td>
 		</tr>
 		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;Te bestemmen bij een herverdeling in 2010</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>36.700.000 euro</p>
+			<p>&nbsp;</p>
 			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Onverdeeld :</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>23.850.000 euro</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
