@@ -2,16 +2,16 @@
   "codex_id": 1019007,
   "title": "Besluit van de Vlaamse Regering van 2010-04-30 betreffende de inventarisatie, de kennisgeving, de aanvraag tot correctie en de oprichting en de werking van de Verificatiecommissie, vermeld in artikel 41bis van het mestdecreet van 22 december 2006, en betreffende wijziging van artikelen 13 en 33 van het besluit van de Vlaamse Regering van 6 juni 2008 betreffende het sluiten van beheersovereenkomsten en het toekennen van vergoedingen ter uitvoering van verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019007/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "35e46444466b0a6603ac8642f53ea284e889cb46f4fbd70b82658b47140b72fd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019007/VolledigDocument?datum=2010-05-29",
+  "source_sha256": "1a9574d89aa5794c7b616e246a745b91d4dc9e87f3456c4da0ab45bc8debd2da",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019007&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2010-05-29",
   "made": "2010-04-30",
   "gazette": "2010-05-19",
   "numac": 2010202767,
   "document_start": "2009-01-01",
   "document_end": "2017-12-31",
-  "in_force": "2009-01-01",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-05-29",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2010-05-29; future article versions excluded; article text as the API gives it"
 }
