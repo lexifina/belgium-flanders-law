@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019009,
+  "title": "Ministerieel besluit van 2010-05-03 houdende vaststelling van de presentiegelden en vergoedingen van de leden van de strategische adviesraad Vlaamse Raad voor Wetenschap en Innovatie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019009/VolledigDocument?datum=2010-05-29",
+  "source_sha256": "9d346913a63ed7457bd13cc608ba2c8f15f20bd5db3ff1bd89c4fa897e237222",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019009&param=informatie",
+  "as_of": "2010-05-29",
+  "made": "2010-05-03",
+  "gazette": "2010-05-19",
+  "numac": 2010202709,
+  "document_start": "2010-05-29",
+  "document_end": null,
+  "in_force": "2010-05-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-05-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
