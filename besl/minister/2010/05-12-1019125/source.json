@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019125,
+  "title": "Ministerieel besluit van 2010-05-12 tot wijziging van diverse bepalingen van het ministerieel besluit van 17 maart 2008 tot bepaling van de financiële bijdrage van de gezinnen voor de opvang van kinderen in kinderdagverblijven en diensten voor onthaalouders",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019125/VolledigDocument?datum=2010-06-01",
+  "source_sha256": "50d6c9ebdd1696a496428898028bc3f6285224d237cc31ad33c8ec36a7405110",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019125&param=informatie",
+  "as_of": "2010-06-01",
+  "made": "2010-05-12",
+  "gazette": "2010-06-16",
+  "numac": 2010203116,
+  "document_start": "2010-06-01",
+  "document_end": null,
+  "in_force": "2010-06-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2010-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
