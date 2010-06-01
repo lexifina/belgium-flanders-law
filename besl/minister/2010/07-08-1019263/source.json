@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019263,
+  "title": "Ministerieel besluit van 2010-07-08 tot wijziging van het ministerieel besluit van 17 maart 2008 tot bepaling van de financiële bijdrage van de gezinnen voor de opvang van kinderen in kinderdagverblijven en diensten voor onthaalouders, wat betreft het moment van de melding van de inkomensdaling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019263/VolledigDocument?datum=2010-06-01",
+  "source_sha256": "10a24ea1e266fe721e5c741a26534734a2e84190a6f833b5d9a9a2ed43b8dc0a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019263&param=informatie",
+  "as_of": "2010-06-01",
+  "made": "2010-07-08",
+  "gazette": "2010-08-02",
+  "numac": 2010035547,
+  "document_start": "2010-06-01",
+  "document_end": null,
+  "in_force": "2010-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
