@@ -1046,7 +1046,7 @@ Het personeelslid dat op 1 september 1991 in het Gemeenschapsonderwijs vastbenoe
 
 ### ART. 53.
 
-Dit besluit heeft uitwerking met ingang van 1 juli 1991, met uitzondering van de artikel 50, § 1, 2°, wat de leden van de inspectiedienst betreft, en van de artikelen 51 en 52 die allen uitwerking hebben met ingang van 1 september 1991.
+Dit besluit heeft uitwerking met ingang van 1 juli 1991, met uitzondering van de artikel 50, § 1, 2°, wat de leden van de inspectiedienst betreft, en van het artikel 51 die allen uitwerking hebben met ingang van 1 september 1991.
 
 ### ART. 54.
 
