@@ -568,7 +568,7 @@ Het Accreditatieorgaan kan de accreditatie verlenen op grond van een als equival
 
 ### ART. 63bis.
 
-Hogescholen en universiteiten kunnen uiterlijk op 30 juni 2009, 30 juni 2010 of 30 juni 2011 een aanvraag indienen bij de Vlaamse Regering tot uitbreiding van de studieomvang van een masteropleiding met een studieomvang van 60 studiepunten met het oog op het opstarten van deze masteropleidingen vanaf het academiejaar 2010-2011, 2011-2012 of 2012-2013. De aanvraag wordt gezamenlijk ingediend door alle instellingen die de betrokken opleiding aanbieden.<br /><br />De aanvraag maakt deel uit van een rationalisatieplan zoals bepaald in artikel 51 van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen.
+Hogescholen en universiteiten kunnen uiterlijk op 30 juni 2009, 30 juni 2010 of 30 juni 2011 een aanvraag indienen bij de Vlaamse Regering tot uitbreiding van de studieomvang van een masteropleiding met een studieomvang van 60 studiepunten met het oog op het opstarten van deze masteropleidingen vanaf het academiejaar 2010-2011, 2011-2012 of 2012-2013. De aanvraag wordt gezamenlijk ingediend door alle instellingen die de betrokken opleiding aanbieden.
 
 ### ART. 63ter.
 
@@ -584,13 +584,13 @@ Wanneer enkel aan de beide laatste criteria is voldaan, dan kan de uitbreiding v
 
 ### ART. 63sexies.
 
-De Vlaamse Regering neemt op basis van het advies van de commissie van experten zoals bepaald in artikel 52, § 3, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen en het ingediende dossier een besluit inzake uitbreiding van de studieomvang uiterlijk vijf maanden na datum van ontvangst van de aanvraag.
+De Vlaamse Regering neemt vóór 1 december van het jaar waarin de aanvraag werd ingediend een besluit betreffende de uitbreiding van de studieomvang, dit op basis van het advies van de Erkenningscommissie en het ingediende dossier.
 
 ## [Sectie 2. Vermindering studieomvang (ing. decr. 8 mei 2009, art. V.46, I: 1 mei 2009)]
 
 ### ART. 63septies.
 
-De Vlaamse Regering kan op basis van het advies van de commissie van experten zoals bepaald in artikel 52, § 3, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen beslissen om de studieomvang van een bestaande masteropleiding te verminderen.
+§ 1. De Vlaamse Regering kan de studieomvang van bachelor- of masteropleidingen verminderen of uitbreiden na advies van de Erkenningscommissie om op die manier de bij of krachtens de wet, het decreet of de Europese richtlijnen vastgelegde voorwaarden of richtlijnen met betrekking tot de studieomvang te realiseren.<br /><br />§ 2. Hogescholen en universiteiten kunnen bij de Vlaamse Regering een aanvraag indienen tot vermindering van de studieomvang van een bestaande masteropleiding. De aanvraag wordt gezamenlijk ingediend door alle instellingen die de betrokken opleiding aanbieden. Zij dienen deze aanvraag in uiterlijk op 30 juni van het kalenderjaar dat voorafgaat aan het academiejaar waarin de instelling de opleiding met verminderde studieduur op zijn vroegst wil aanbieden.<br /><br />De Vlaamse Regering neemt vóór 1 december van het jaar waarin de aanvraag wordt ingediend een besluit inzake de vermindering van de studieomvang, dit op basis van het advies van de Erkenningscommissie en op basis van het ingediende dossier.
 
 ## [Sectie 3. Overgangsbepaling (ing. decr. 8 mei 2009, art. V.46, I: 1 mei 2009)]
 
