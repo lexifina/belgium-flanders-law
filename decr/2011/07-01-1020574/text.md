@@ -16,6 +16,10 @@ In artikel 155, § 1, van hetzelfde decreet, gewijzigd bij de decreten van 14 ju
 
 ## Afdeling III Decreet Specifieke Eindtermen Topsport
 
+### ART. III.45.
+
+In de bijlage van het besluit van de Vlaamse Regering van 10 maart 2006 tot vaststelling van de bij decreet te bekrachtigen decretale specifieke eindtermen « topsport » algemeen en technisch secundair onderwijs, bekrachtigd bij het decreet van 2 juni 2006, worden in de rubriek 1.4 de woorden « desbetreffende sportfederatie » vervangen door de woorden « Vlaamse Sportfederatie ».<br /><br />
+
 ## Afdeling IV Secundair-na-secundair en hoger beroepsonderwijs
 
 ## Afdeling V Buitengewoon secundair onderwijs
