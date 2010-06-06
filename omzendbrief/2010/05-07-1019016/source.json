@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019016,
+  "title": "Omzendbrief van 2010-05-07 BB 2010/03 betreffende \"Verbod op registratie van taalvoorkeur\"",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019016/VolledigDocument?datum=2010-06-06",
+  "source_sha256": "6e0baf4751d6cb230c2e84a4c4d72cba898d3734028d5296bb5fcf7571b6962b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019016&param=informatie",
+  "as_of": "2010-06-06",
+  "made": "2010-05-07",
+  "gazette": "2010-05-27",
+  "numac": 2010202890,
+  "document_start": "2010-06-06",
+  "document_end": null,
+  "in_force": "2010-06-06",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2010-06-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
