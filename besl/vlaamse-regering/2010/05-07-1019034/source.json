@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019034,
+  "title": "Besluit van de Vlaamse Regering van 2010-05-07 tot oprichting van het projectgrindwinningscomité",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019034/VolledigDocument?datum=2010-06-07",
+  "source_sha256": "ba60cc04fab28a4178b0ede60c87bab46643d35e2a33c2bd269b3f3141ba67b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019034&param=informatie",
+  "as_of": "2010-06-07",
+  "made": "2010-05-07",
+  "gazette": "2010-05-28",
+  "numac": 2010202908,
+  "document_start": "2010-06-07",
+  "document_end": "2013-02-24",
+  "in_force": "2010-06-07",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2010-06-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
