@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019053,
+  "title": "Besluit van de Vlaamse Regering van 2010-05-07 tot wijziging van artikel 2 van het besluit van de Vlaamse Regering van 28 november 2003 tot vaststelling van de lijst van toelaatbare zonevreemde functiewijzigingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019053/VolledigDocument?datum=2010-06-12",
+  "source_sha256": "58ff1c7f23cb6b48ab3468f59b114c3b7ba1959fc693c7e38640477cd3cb089b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019053&param=informatie",
+  "as_of": "2010-06-12",
+  "made": "2010-05-07",
+  "gazette": "2010-06-02",
+  "numac": 2010202961,
+  "document_start": "2010-06-12",
+  "document_end": null,
+  "in_force": "2010-06-12",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-06-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
