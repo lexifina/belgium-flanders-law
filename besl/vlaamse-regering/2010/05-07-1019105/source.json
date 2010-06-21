@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019105,
+  "title": "Besluit van de Vlaamse Regering van 2010-05-07 houdende klassering van een deel van de Velpe en Kleine Velpe, onbevaarbare waterlopen van tweede categorie, en een niet-geklasseerde waterloop tot onbevaarbare waterloop van eerste categorie in Tienen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019105/VolledigDocument?datum=2010-06-21",
+  "source_sha256": "da2ab69727ea617b03849afadc36c15f3357318127b20f6b3e564174dec04af5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019105&param=informatie",
+  "as_of": "2010-06-21",
+  "made": "2010-05-07",
+  "gazette": "2010-06-11",
+  "numac": 2010035362,
+  "document_start": "2010-06-21",
+  "document_end": null,
+  "in_force": "2010-06-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-06-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
