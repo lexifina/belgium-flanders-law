@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019163,
+  "title": "Decreet van 2010-05-28 houdende diverse wijzigingen van het decreet van 30 mei 2008 betreffende de vestiging, de invordering en de geschillenprocedure van provincie- en gemeentebelastingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019163/VolledigDocument?datum=2010-06-24",
+  "source_sha256": "1a0ed519f60debf12988c3975147467bd94ba62c3298eb34a5087cef865a32b4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019163&param=informatie",
+  "as_of": "2010-06-24",
+  "made": "2010-05-28",
+  "gazette": "2010-06-24",
+  "numac": 2010203340,
+  "document_start": "2010-06-24",
+  "document_end": null,
+  "in_force": "2010-06-24",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2010-06-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
