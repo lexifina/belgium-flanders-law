@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019110,
+  "title": "Decreet van 2010-04-23 tot bekrachtiging van het besluit van de Vlaamse Regering van 16 oktober 2009 tot vaststelling van de ontwikkelingsdoelen Nederlands voor nieuwkomers in de onthaalklas voor anderstalige nieuwkomers in het secundair onderwijs en tot wijziging van sommige eindtermen en ontwikkelingsdoelen in het secundair onderwijs",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019110/VolledigDocument?datum=2010-06-25",
+  "source_sha256": "fd4750b4aebbf60058f462d9666efdb922de502fc488f5973e078d87f4e6034b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019110&param=informatie",
+  "as_of": "2010-06-25",
+  "made": "2010-04-23",
+  "gazette": "2010-06-15",
+  "numac": 201035358,
+  "document_start": "2010-06-25",
+  "document_end": null,
+  "in_force": "2010-06-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-06-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
