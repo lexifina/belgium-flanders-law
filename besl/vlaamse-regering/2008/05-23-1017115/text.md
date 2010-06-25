@@ -31,7 +31,7 @@ De vertegenwoordiger van de leefmilieuorganisaties die in de Mina-Raad zetelen, 
 
 ### ART. 7.
 
-De vertegenwoordiger van de biologische productie, vermeld in artikel 5, § 2, 6°, van het oprichtingsdecreet, wordt voorgedragen door Belbior vzw.<br /><br />
+De vertegenwoordiger van de biologische productie, vermeld in artikel 5, § 2, 6°, van het oprichtingsdecreet, wordt voorgedragen door BioForum Vlaanderen VZW.<br /><br />
 
 ### ART. 8.
 

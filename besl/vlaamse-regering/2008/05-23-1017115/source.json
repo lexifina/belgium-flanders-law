@@ -2,16 +2,16 @@
   "codex_id": 1017115,
   "title": "Besluit van de Vlaamse Regering van 2008-05-23 tot inwerkingtreding van het decreet van 6 juli 2007 houdende de oprichting van de Strategische Adviesraad voor Landbouw en Visserij en tot regeling van de samenstelling van de Strategische Adviesraad voor Landbouw en Visserij",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017115/VolledigDocument?datum=2008-10-12",
-  "source_sha256": "bb53e4e5439b497438fca99277192b5a5f158bf92efc4b523cd36bebf55cb9cb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017115/VolledigDocument?datum=2010-06-25",
+  "source_sha256": "5f0e1a451c9f2de66e1d2d55aa6ca5a24ae38d4cc6002f6c079c400872b0e451",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017115&param=informatie",
-  "as_of": "2008-10-12",
+  "as_of": "2010-06-25",
   "made": "2008-05-23",
   "gazette": "2008-10-02",
   "numac": 2008036099,
   "document_start": "2008-10-12",
   "document_end": null,
-  "in_force": "2008-10-12",
+  "in_force": "2010-06-25",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2008-10-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-06-25; future article versions excluded; article text as the API gives it"
 }
