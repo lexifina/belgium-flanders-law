@@ -475,138 +475,225 @@ Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisc
 
 ### BIJLAGE I
 
-<p>1. Op het perceel mag geen voorvrucht zijn verbouwd die onverenigbaar is met de productie van zaaizaad van de soort en het ras van het gewas in kwestie. Het perceel moet ook voldoende vrij zijn van opslag van de voorvrucht.<br>
+<p>Bijlage I bij het besluit van de Vlaamse Regering van 3 oktober 2003 houdende reglementering van de handel in en de keuring van zaaizaad van oliehoudende planten en vezelgewassen<br>
 <br>
-In het geval van hybriden van koolzaad, moet het gewas geteeld worden op percelen waar sedert vijf geen planten van Cruciferae meer zijn geteeld.<br>
+Bijlage I. Voorwaarden waaraan het zaad moet voldoen<br>
 <br>
-2. Het gewas moet voldoen aan de onderstaande normen betreffende de afstand tot dicht in de buurt gelegen bestuivingsbronnen die tot ongewenste kruisbestuiving kunnen leiden:<br>
+1. Op het perceel mag geen voorvrucht zijn verbouwd die zich niet verdraagt met de productie van zaaizaad van de soort en het ras van het betrokken gewas. Het perceel moet ook voldoende vrij zijn van opslag van de voorvrucht.<br>
 <br>
+In het geval van hybriden van Brassica napus moet het gewas geteeld worden op percelen waar sedert vijf jaar geen planten van Brassicaceae (Cruciferae) meer zijn geteeld.<br>
+<br>
+2. Het gewas moet voldoen aan de onderstaande normen betreffende de afstand tot dicht in de buurt gelegen bestuivingsbronnen die tot ongewenste vreemdbestuiving kunnen leiden :<br>
 </p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:327.5pt">
-			<p>Gewas</p>
+			<td style="background-color:transparent">
+			<p>gewas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:133.1pt">
-			<p>Minimum-afstand</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:327.5pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:133.1pt">
-			<p>2</p>
+			<td style="background-color:transparent">
+			<p>minimumafstand</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:327.5pt">
-			<p>1°Andere Brassica-soorten dan Brassica napus; andere Cannabis sativa dan eenhuizige hennep; Carthamus Tinctorius; Carum carvi; andere gossypiumsoorten dan hybriden van Gossypium hirsutum en/of Gossypium barbadense; Sinapis alba:</p>
-
-			<p>a) voor de productie van basiszaad</p>
-
-			<p>b) voor de productie van gecertificeerd zaad</p>
-
-			<p>2° Brassica napus:</p>
-
-			<p>a) voor de productie van basiszaad van andere rassen dan hybriden</p>
-
-			<p>b) voor de productie van basiszaad van hybriden</p>
-
-			<p>c) voor de productie van gecertificeerd zaad van andere rassen dan hybriden</p>
-
-			<p>d) voor de productie van gecertificeerd zaad van hybriden</p>
-
-			<p>3° Cannabis sativa, eenhuizige hennep</p>
-
-			<p>a) voor de productie van basiszaad</p>
-
-			<p>b) voor de productie van gecertificeerd zaad</p>
-
-			<p>4° Helianthus annuus:</p>
-
-			<p>a) voor de productie van basiszaad van hybriden</p>
-
-			<p>b) voor de productie van basiszaad van andere rassen dan hybriden</p>
-
-			<p>c) voor de productie van gecertificeerd zaad</p>
-
-			<p>5° Gossypium hirsutum en/of Gossypium barbadense:</p>
-
-			<p>a) voor de productie van basiszaad van ouderlijnen van Gossypium hirsutum</p>
-
-			<p>b) voor de productie van basiszaad van ouderlijnen van Gossypium barbadense</p>
-
-			<p>c) voor de productie van gecertificeerd zaad van intraspecifieke hybriden van Gossypium hirsutum</p>
-
-			<p>d) voor de productie van gecertifieerd zaad van intraspecifieke hybriden van gossypium barbadense</p>
-
-			<p>e) voor de productie van gecertificeerd zaad van interspecifieke hybriden van Gossypium hirsutum en Gossypium barbadense</p>
+			<td style="background-color:transparent">
+			<p>andere Brassica spp. dan Brassica napus, andere Cannabis sativa dan eenhuizige Cannabis sativa, Carthamus tinctorius, Carum carvi, andere Gossypium spp. dan hybriden van Gossypium hirsutum en/of Gossypium barbadense, Sinapis alba :</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:133.1pt">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van basiszaad</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>400 m</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van gecertificeerd zaad</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>200 m</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>Brassica napus :</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van basiszaad van andere rassen dan hybriden</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>200 m</p>
-
-			<p>&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van basiszaad van hybriden</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>500 m</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van gecertificeerd zaad van andere rassen dan hybriden</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>100 m</p>
-
-			<p>&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van gecertificeerd zaad van hybriden</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>300 m</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>Cannabis sativa, eenhuizige Cannabis sativa :</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van basiszaad</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>5000 m</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van gecertificeerd zaad</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>1000 m</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>Helianthus annuus :</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van basiszaad van hybriden</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>1500 m</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van basiszaad van andere rassen dan hybriden</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>750 m</p>
-
-			<p>&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van gecertificeerd zaad</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>500 m</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>Gossypium hirsutum en/of Gossypium barbadense :</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
-
-			<p>600 m</p>
-
-			<p>&nbsp;</p>
-
-			<p>800 m</p>
-
-			<p>&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van basiszaad van ouderlijnen van Gossypium hirsutum</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>100 m</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van basiszaad van ouderlijnen van Gossypium barbadense</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>200 m</p>
-
-			<p>&nbsp;</p>
-
-			<p>600 m</p>
-
-			<p>&nbsp;</p>
-
-			<p>600 m</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van gecertificeerd zaad van niet-hybride soorten en intraspecifieke hybriden van Gossypium hirsutum, geproduceerd zonder cytoplasmatische mannelijke steriliteit (CMS)</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>30 m</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van gecertificeerd zaad van intraspecifieke hybriden van Gossypium hirsutum, geproduceerd met CMS</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>800 m</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van gecertificeerd zaad van niet-hybride soorten en intraspecifieke hybriden van Gossypium barbadense, geproduceerd zonder CMS</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>150 m</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van gecertificeerd zaad van intraspecifieke hybriden van Gossypium barbadense, geproduceerd met CMS</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>800 m</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van basiszaad van stabiele interspecifieke hybriden van Gossypium hirsutum en Gossypium barbadense</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>200 m</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van gecertificeerd zaad van stabiele interspecifieke hybriden van Gossypium hirsutum en Gossypium barbadense en hybriden, geproduceerd zonder CMS</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>150 m</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- voor de productie van gecertificeerd zaad van hybriden van Gossypium hirsutum en Gossypium barbadense, geproduceerd met CMS</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>800 m</p>
 			</td>
 		</tr>
 	</tbody>
@@ -616,216 +703,374 @@ In het geval van hybriden van koolzaad, moet het gewas geteeld worden op percele
 
 <p>&nbsp;</p>
 
-<p>Deze afstanden hoeven niet in acht te worden genomen als er voldoende bescherming tegen ongewenste kruisbestuiving aanwezig is.<br>
+<p>Deze afstanden hoeven niet in acht genomen te worden als er voldoende bescherming tegen ongewenste vreemdbestuiving aanwezig is.<br>
 <br>
-3. Het gewas moet voldoende rasecht en raszuiver zijn; een gewas van een ingeteelde stam moet voldoende echt en zuiver zijn met betrekking tot zijn eigenschappen.<br>
+3. Het gewas moet voldoende rasecht en raszuiver zijn. Een gewas van een ingeteelde stam moet voldoende echt en zuiver zijn met betrekking tot zijn eigenschappen.<br>
 <br>
 Bij de productie van zaad van hybriderassen zijn de bovenstaande bepalingen ook van toepassing op de eigenschappen van de kruisingspartners, inclusief mannelijke steriliteit of herstel van de fertiliteit.<br>
 <br>
-In het bijzonder moeten gewassen van Brassica juncea, Brassica nigra, Cannabis sativa, Carthamus tinctorius, Carum carvi, Gossypium spp. en hybriden van Helianthus annuus en Brassica napus aan de volgende normen of eisen voldoen:<br>
+In het bijzonder moeten gewassen van Brassica juncea, Brassica nigra, Cannabis sativa, Carthamus tinctorius, Carum carvi, Gossypium spp. en hybriden van Helianthus annuus en Brassica napus aan de volgende andere normen of voorwaarden voldoen.<br>
 <br>
-A . Brassica juncea, Brassica nigra, Cannabis sativa, Carthamus tinctorius, Carum carvi en Gossypium spp., andere dan hybriden:<br>
-<br>
-het aantal planten van deze soorten dat duidelijk niet tot het betrokken ras behoort, mag niet meer bedragen dan:<br>
-<br>
+A. Brassica juncea, Brassica nigra, Cannabis sativa, Carthamus tinctorius, Carum carvi en Gossypium spp., andere dan hybriden :<br>
+het aantal planten van deze soorten dat duidelijk niet tot het betrokken ras behoort, mag niet meer bedragen dan :<br>
 1° 1 per 30 m2 voor de productie van basiszaad;<br>
-<br>
 2° 1 per 10 m2 voor de productie van gecertificeerd zaad.<br>
 <br>
-B. Hybriden van Helianthus annuus:<br>
+B. Hybriden van Helianthus annuus :<br>
+a) het percentage aan planten die duidelijk niet tot de ingeteelde stam of de kruisingspartner behoren, mag niet meer bedragen dan :<br>
 <br>
-a) het percentage aan planten dat duidelijk niet tot de ingeteelde stam of de kruisingspartner behoort, mag niet meer bedragen dan:<br>
-<br>
-aa) voor de productie van basiszaad:<br>
-<br>
-i) ingeteelde stammen: 0,2 %<br>
-<br>
-ii) enkele hybriden:<br>
-<br>
-1° mannelijke kruisingspartner, planten die stuifmeel hebben afgegeven wanneer 2 % of meer van de vrouwelijke planten bevrucht kan worden: 0,2 %<br>
-<br>
-2° vrouwelijke kruisingspartner: 0,5 %<br>
-<br>
-bb) voor de productie van gecertificeerd zaad:<br>
-<br>
-1° mannelijke kruisingspartner, planten die stuifmeel hebben afgegeven wanneer 5 % of meer van de vrouwelijke planten bevrucht kan worden: 0,5 %<br>
-<br>
-2° vrouwelijke kruisingspartner: 1,0 %<br>
-<br>
-b) voor de productie van zaad van hybriderassen moet bovendien aan de volgende normen of eisen worden voldaan:<br>
-<br>
+</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent">
+			<p>aa) voor de productie van basiszaad :</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>i) ingeteelde stammen</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>0,2 %</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>ii) enkelvoudige hybriden :</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- mannelijke kruisingspartner, planten die stuifmeel hebben afgegeven wanneer 2 % of meer van de vrouwelijke planten bevrucht kan worden</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>0,2 %</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- vrouwelijke kruisingspartner</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>0,5 %</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>bb) voor de productie van gecertificeerd zaad :</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- mannelijke kruisingspartner, planten die stuifmeel hebben afgegeven wanneer 5 % of meer van de vrouwelijke planten bevrucht kan worden</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>0,5 %</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- vrouwelijke kruisingspartner</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>1,0 %</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>b) voor de productie van zaad van hybriderassen moet aan de volgende andere normen of voorwaarden worden voldaan :<br>
 aa) de planten van de mannelijke kruisingspartner moeten voldoende stuifmeel afgeven wanneer de planten van de vrouwelijke kruisingspartner in bloei staan;<br>
-<br>
-bb) wanneer de planten van de vrouwelijke kruisingspartner bevrucht kunnen worden, mag het percentage aan planten van de vrouwelijke kruisingspartner die stuifmeel hebben afgegeven of afgeven niet meer bedragen dan 0,5 %;<br>
-<br>
+bb) wanneer de planten van de vrouwelijke kruisingspartner bevrucht kunnen worden, mag het percentage aan planten van de vrouwelijke kruisingspartner die stuifmeel hebben afgegeven of afgeven, niet meer bedragen dan 0,5 %;<br>
 cc) voor de productie van basiszaad mag het totale percentage aan planten van de vrouwelijke kruisingspartner die duidelijk niet tot de kruisingspartner behoren en die stuifmeel hebben afgegeven of afgeven, niet meer bedragen dan 0,5 %;<br>
+dd) wanneer niet aan de voorwaarden vermeld in bijlage II, deel I, punt 2, kan worden voldaan, moet aan de volgende voorwaarde worden voldaan : voor de productie van gecertificeerd zaad moet een mannelijke steriele kruisingspartner worden gebruikt in combinatie met een mannelijke kruisingspartner die een of meer specifieke lijnen voor herstel van de fertiliteit bevat, zodat niet minder dan een derde van de planten die worden gekweekt uit de verkregen hybride, stuifmeel produceert dat in alle opzichten normaal lijkt.<br>
 <br>
-dd) wanneer niet aan de in bijlage II, onder I, punt 2, vastgestelde voorwaarden kan worden voldaan, moet aan de volgende voorwaarde voldaan worden: voor de productie van gecertificeerd zaad moet een mannelijk-steriele kruisingspartner worden gebruikt in combinatie met een mannelijke kruisingspartner die een of meer specifieke lijnen voor herstel van de fertiliteit bevat, zodat niet minder dan een derde van de planten die worden gekweekt uit de verkregen hybride, stuifmeel produceren dat in alle opzichten normaal lijkt.<br>
+C. Hybriden van Brassica napus, geproduceerd door gebruik te maken van mannelijke steriliteit :<br>
+a) het percentage aan planten die duidelijk niet tot de ingeteelde stam of de kruisingspartner behoren, mag niet meer bedragen dan :<br>
+</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent">
+			<p>aa) voor de productie van basiszaad :</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>i) ingeteelde stammen</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>0,1 %</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>ii) enkelvoudige hybriden :</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- mannelijke kruisingspartner</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>0,1 %</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- vrouwelijke kruisingspartner</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>0,2 %</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>bb) voor de productie van gecertificeerd zaad :</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- mannelijke kruisingspartner</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>0,3 %</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>- vrouwelijke kruisingspartner</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>1,0 %</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>b) voor de productie van basiszaad moet de mannelijke steriliteit ten minste 99 % bedragen en voor de productie van gecertificeerd zaad ten minste 98 %. De mate van mannelijke steriliteit moet worden bepaald door bloemen te onderzoeken op de afwezigheid van vruchtbare helmknoppen.<br>
 <br>
-C. Hybriden van Brassica napus, geproduceerd met gebruikmaking van mannelijke steriliteit:<br>
+D. Hybriden van Gossypium hirsutum en Gossypium barbadense :<br>
+a) in gewassen voor de productie van basiszaad van ouderlijnen van Gossypium hirsutum en Gossypium barbadense moet de minimale raszuiverheid van zowel de vrouwelijke als de mannelijke ouderlijn 99,8 % bedragen wanneer 5 % of meer van de zaaddragende planten kan worden bevrucht. De mate van mannelijke steriliteit van de zaaddragende ouderlijn moet worden bepaald door de bloemen te onderzoeken op de aanwezigheid van steriele helmknoppen, en mag niet minder bedragen dan 99,9 %.<br>
+b) in gewassen voor de productie van gecertificeerd zaad van hybriderassen van Gossypium hirsutum en/of Gossypium barbadense moet de minimale raszuiverheid van zowel de zaaddragende ouderlijn als de stuifmeelouderlijn 99,5 % bedragen wanneer 5 % of meer van de zaaddragende planten kan worden bevrucht. De mate van mannelijke steriliteit van de zaaddragende ouderlijn moet worden bepaald door de bloemen te onderzoeken op de aanwezigheid van steriele helmknoppen, en mag niet minder bedragen dan 99,7 %.<br>
 <br>
-a) Het percentage aan planten die duidelijk niet tot de ingeteelde stam of de kruisingspartner behoren, mag niet meer bedragen dan:<br>
+4. De aanwezigheid van schadelijke organismen die de gebruikswaarde van het zaaizaad verminderen, moet zo veel mogelijk beperkt zijn. Voor Glycine max geldt die voorwaarde in het bijzonder voor de organismen Pseudomonas syringae pv. Glycinea, Diaporthe phaseolorum var. caulivora en var. sojae, Phialophora gregata en Phytophthora megasperma f.sp. glycinea.<br>
 <br>
-aa) voor de productie van basiszaad:<br>
+5. Of aan de bovenvermelde andere normen of voorwaarden is voldaan, wordt voor basiszaad vastgesteld door middel van officiële veldkeuringen, en voor gecertificeerd zaad door middel van officiële veldkeuringen of veldkeuringen uitgevoerd onder officieel toezicht. Bij de veldkeuringen moeten de volgende punten in acht worden genomen :<br>
 <br>
-i) ingeteelde stammen: 0,1 %<br>
+A. De stand en het ontwikkelingsstadium van het gewas moeten een afdoend onderzoek mogelijk maken.<br>
 <br>
-ii) enkelvoudige hybriden:<br>
+B. Voor andere gewassen dan hybriden van Helianthus annuus, Brassica Napus, Gossypium hirsutum en Gossypium barbadense moet ten minste één keuring worden verricht.<br>
 <br>
-1° mannelijke kruisingspartner: 0,1 %<br>
+Voor hybriden van Helianthus annuus moeten ten minste twee keuringen worden verricht.<br>
 <br>
-2° vrouwelijke kruisingspartner: 0,2 %<br>
+Voor hybriden van Brassica napus moeten ten minste drie keuringen worden verricht : de eerste moet vóór de bloei plaatsvinden, de tweede tijdens de vroege bloei en de derde aan het einde van de bloei.<br>
 <br>
-bb) voor de productie van gecertificeerd zaad:<br>
+Voor hybriden van Gossypium hirsutum en/of Gossypium barbadense moeten ten minste drie keuringen worden verricht : de eerste moet tijdens de vroege bloei plaatsvinden, de tweede vóór het einde van de bloei en de derde aan het einde van de bloei nadat, indien nodig, de stuifmeelouderplanten zijn verwijderd.<br>
 <br>
-1° mannelijke kruisingspartner: 0,3 %<br>
-<br>
-2° vrouwelijke kruisingspartner: 1,0 %<br>
-<br>
-b) Voor de productie van basiszaad moet de mannelijke steriliteit ten minste 99 % bedragen en voor de productie van gecertificeerd zaad ten minste 98 %. De mate van mannelijke steriliteit moet worden bepaald door bloemen te onderzoeken op de afwezigheid van vruchtbare helmknoppen.<br>
-<br>
-D. Hybriden van Gossypium hirsutum en van Gossypium barbadense:<br>
-<br>
-a) In gewassen voor de productie van basiszaad van ouderlijnen van Gossypium hirsutum en Gossypium barbadense, moet de minimale raszuiverheid van zowel de vrouwelijke als de mannelijke ouderlijn 99,8 % bedragen wanneer 5 % of meer van de zaaddragende planten kan worden bevrucht. De mate van mannelijke steriliteit van de zaaddragende ouderlijn moet worden bepaald door de bloemen te onderzoeken op de aanwezigheid van steriele helmknoppen, en mag niet minder bedragen dan 99,9 %.<br>
-<br>
-b) In gewassen voor de productie van gecertificeerd zaad van hybriderassen van Gossypium hirsutum en/of Gossypium barbadense, moet de minimale raszuiverheid van zowel de zaaddragende ouderlijn als de stuifmeelouderlijn 99,5 % bedragen wanneer 5 % of meer van de zaaddragende planten kan worden bevrucht. De mate van mannelijke steriliteit van de zaaddragende ouderlijn moet worden bepaald door de bloemen te onderzoeken op de aanwezigheid van steriele helmknoppen, en mag niet minder bedragen dan 99,7 %.<br>
-<br>
-4. De aanwezigheid van schadelijke organismen die de gebruikswaarde van het zaaizaad verminderen, moet zo veel mogelijk beperkt zijn.<br>
-<br>
-Voor Glycine max geldt deze voorwaarde in het bijzonder voor de organismen Pseudomonas syringae pv glycinea, Diaporthe phaseolorum var. caulivora en var. sojae, Phialophora gregata et Phytophthora megasperma f.sp.glycinea.<br>
-<br>
-5. [Of aan de bovengenoemde normen of eisen is voldaan, wordt voor basiszaad en gecertificeerd zaad vastgesteld door middel van hetzij officiële veldkeuringen, hetzij veldkeuringen onder officieel toezicht.<br>
-<br>
-Bij die veldkeuringen moeten de volgende punten in acht worden genomen : (verv. B.V.R. 16 december 2005, art. 13, I : 2 februari 2006) ]<br>
-<br>
-A. de stand en het ontwikkelingsstadium van het gewas moeten een afdoend onderzoek mogelijk maken;<br>
-<br>
-B. voor andere gewassen dan hybriden van Helianthus annuus, Brassica napus, Gossypium hirsutum en Gossypium barbadense moet ten minste een veldkeuring worden verricht. Voor hybriden van Helianthus annuus moeten ten minste twee veldkeuringen worden verricht. Voor hybriden van Brassica napus moeten ten minste drie veldkeuringen worden verricht: de eerste moet voor de bloei plaatsvinden, de tweede tijdens de vroege bloei en de derde aan het einde van de bloei. Voor hybriden van Gossypium hirsutum en/of Gossypium barbadense moeten ten minste drie veldkeuringen worden verricht: de eerste moet tijdens de vroege bloei plaatsvinden, de tweede voor het einde van de bloei en de derde aan het einde van de bloei nadat, indien nodig, de stuifmeelouderplanten zijn verwijderd;<br>
-<br>
-C. de grootte, het aantal en de verdeling van de perceelsgedeelten waarvoor moet worden nagegaan of aan de bepalingen van deze bijlage is voldaan, moeten worden vastgesteld volgens daartoe passende methoden.</p>
+C. De grootte, het aantal en de verdeling van de perceelsgedeelten waarvoor moet worden nagegaan of aan de bepalingen van deze bijlage wordt voldaan, moeten worden vastgesteld volgens daartoe passende methoden.</p>
 
 ## Bijlage II Voorwaarden waaraan zaaizaad moet voldoen
 
 ### BIJLAGE II
 
-<p>I. Basiszaad en gecertificeerd zaad.<br>
+<p>Bijlage II : Voorwaarden waaraan het zaaizaad moet voldoen<br>
 <br>
-1. Het zaad moet voldoende rasecht en raszuiver zijn. In het bijzonder moet zaad van de onderstaande soorten voldoen aan de volgende normen of eisen:<br>
+I. BASISZAAD EN GECERTIFICEERD ZAAD<br>
+<br>
+1. Het zaad moet voldoende rasecht en raszuiver zijn. In het bijzonder moet zaad van de onderstaande soorten voldoen aan de volgende andere normen of voorwaarden :<br>
 <br>
 </p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:309.5pt">
-			<p>Soort en categorie</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>soorten en categorieën</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:151.1pt">
-			<p>Minimale raszuiverheid (96)</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>minimale mechanische zuiverheid (%)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:309.5pt">
-			<p>1° Arachis hypogaea:</p>
-
-			<p>a)basiszaad</p>
-
-			<p>b) gecertificeerd zaad</p>
-
-			<p>2° Brassica napus andere dan hybriden, met uitzondering van de rassen uitsluitend bestemd voor voederdoeleinden: Brassica rapa, met uitzondering van de rassen uitsluitend bestemd voor voederdoeleinden:</p>
-
-			<p>a) basiszaad</p>
-
-			<p>b) gecertificeerd zaad</p>
-
-			<p>3° Brassica napus andere dan hybriden, rassen uitsluitend bestemd voor voederdoeleinden: Brassica rapa, rassen uitsluitend bestemd voor voederdoeleinden: Helianthus annuus andere dan de hybriderassen, met inbegrip van de samenstelling hiervan; Sinapis alba:</p>
-
-			<p>a) basiszaad</p>
-
-			<p>b) gecertificeerd zaad</p>
-
-			<p>4° Linum usitatissimum:</p>
-
-			<p>a) basiszaad</p>
-
-			<p>b) gecertificeerd zaad, eerste vermeerdering</p>
-
-			<p>c) gecertificeerd zaad, tweede en derde vermeerdering</p>
-
-			<p>5° Papaver somniferum:</p>
-
-			<p>a) basiszaad</p>
-
-			<p>b) gecertificeerd zaad</p>
-
-			<p>6° Glycine max:</p>
-
-			<p>a) basiszaad</p>
-
-			<p>b) gecertificeerd zaad</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Arachis hypogaea :</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:151.1pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- basiszaad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>99,7</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- gecertificeerd zaad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>99,5</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Brassica napus, andere dan hybriden, met uitzondering van de uitsluitend voor voederdoeleinden bestemde rassen; Brassica rapa, met uitzondering van de uitsluitend voor voederdoeleinden bestemde rassen :</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>99 9</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- basiszaad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>99,9</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- gecertificeerd zaad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>99,7</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Brassica napus spp., andere dan hybriden, uitsluitend voor voederdoeleinden bestemde rassen, Brassica rapa, uitsluitend voor voederdoeleinden bestemde rassen. Helianthus annuus andere dan hybriderassen, met inbegrip van de kruisingspartners ervan, Sinapis alba :</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- basiszaad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>99,7</p>
-
-			<p>99</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- gecertificeerd zaad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>99,0</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Glycine max :</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- basiszaad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>99,5</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- gecertificeerd zaad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>99,0</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Linum usitatissimum :</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- basiszaad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>99,7</p>
-
-			<p>98</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- gecertificeerd zaad, eerste vermeerdering</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>98,0</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- gecertificeerd zaad, tweede en derde vermeerdering</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>97,5</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Papaver somniferum :</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
-
-			<p>99</p>
-
-			<p>98</p>
-
-			<p>&nbsp;</p>
-
-			<p>99,5</p>
-
-			<p>99</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- basiszaad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>99,0</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- gecertificeerd zaad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>98,0</p>
 			</td>
 		</tr>
 	</tbody>
@@ -835,691 +1080,755 @@ C. de grootte, het aantal en de verdeling van de perceelsgedeelten waarvoor moet
 
 <p>&nbsp;</p>
 
-<p>Of aan de minimumeisen inzake raszuiverheid is voldaan, wordt hoofdzakelijk nagegaan door middel van de in bijlage I omschreven veldkeuringen.<br>
+<p>Of aan de eisen van minimale raszuiverheid is voldaan, wordt hoofdzakelijk nagegaan door middel van de veldkeuringen, vermeld in bijlage I.<br>
 <br>
-2. Voor hybriden van Brassica napus die geteeld zijn met gebruikmaking van mannelijke steriliteit, moet het zaad aan de volgende normen en voorwaarden voldoen:<br>
+2. Voor hybriden van Brassica napus die geteeld zijn door gebruik te maken van mannelijke steriliteit, moet het zaad voldoen aan de normen en voorwaarden, vermeld in a) tot en met d) :<br>
+a) Het zaaizaad moet voldoende rasecht en raszuiver zijn wat betreft de kenmerken van de kruisingspartners, met inbegrip van de mannelijke steriliteit of herstel van de fertiliteit.<br>
+b) De minimale raszuiverheid van het zaaizaad moet als volgt zijn :<br>
+- basiszaad, vrouwelijke kruisingspartner : 99,0 %;<br>
+- basiszaad, mannelijke kruisingspartner : 99,9 %;<br>
+- gecertificeerd zaad : 90,0 %.<br>
+c) Zaaizaad wordt alleen gecertificeerd als gecertificeerd zaaizaad als naar behoren rekening is gehouden met de resultaten van een officiële nacontrole in het veld met gebruikmaking van officiële monsters van basiszaad, die is verricht tijdens het groeiseizoen van het zaaizaad waarvoor certificering als gecertificeerd zaaizaad is aangevraagd, om na te gaan of het basiszaad voldoet aan de eisen ten aanzien van de identiteit, wat betreft de kenmerken van de kruisingspartners, met inbegrip van mannelijke steriliteit, en aan de normen van basiszaad bepaald voor de minimale raszuiverheid, vermeld in b).<br>
+In het geval van basiszaad van hybriden kan de raszuiverheid worden beoordeeld met geschikte biochemische methoden.<br>
+d) De naleving van de normen voor de minimale raszuiverheid van gecertificeerd zaad van hybriden, vermeld in b), moet worden bewaakt door middel van officiële nacontroles met gebruikmaking van een adequaat gedeelte van de officieel genomen zaadmonsters. Geschikte biochemische methoden mogen worden gebruikt.<br>
 <br>
-a) het zaaizaad moet voldoende rasecht en raszuiver zijn wat betreft de kenmerken van de kruisingspartners, met inbegrip van de mannelijke steriliteit of herstel van de fertiliteit;<br>
+3. Als niet aan de voorwaarden, vermeld in bijlage I, punt 3, B, b), dd), kan worden voldaan, moet aan de volgende voorwaarde worden voldaan : als voor de productie van gecertificeerd zaad van hybriden van Helianthus annuus gebruik is gemaakt van een vrouwelijke, mannelijke steriele kruisingspartner en een mannelijke kruisingspartner die de mannelijke fertiliteit niet herstelt, moet het door de mannelijke steriele kruisingspartner geproduceerde zaad worden gemengd met door de volledig vruchtbare kruisingspartner geproduceerd zaad. De verhouding tussen het zaad van de mannelijke steriele kruisingspartner en dat van de mannelijke fertiele kruisingspartner mag niet groter zijn dan 2:1.<br>
 <br>
-b) de minimale raszuiverheid van het zaaizaad moet als volgt zijn:<br>
-<br>
-1° basiszaad, vrouwelijke kruisingspartner: 99,0 %;<br>
-<br>
-2° basiszaad, mannelijke kruisingspartner: 99,9 %;<br>
-<br>
-3° gecertificeerd zaad: 90,0 %;<br>
-<br>
-c) zaaizaad wordt alleen gecertificeerd als gecertificeerd zaaizaad indien naar behoren rekening is gehouden met de resultaten van officiële na controle op het veld met gebruikmaking van officiële aselecte monsters van basiszaad, die is verricht tijdens het groeiseizoen van het zaaizaad waarvoor certificering als gecertificeerd zaaizaad is aangevraagd, om na te gaan of het basiszaad voldoet aan de eisen ten aanzien van de identiteit, wat betreft de kenmerken van de kruisingspartners, met inbegrip van mannelijke steriliteit, en aan de normen van basiszaad bepaald ten aanzien van de minimale raszuiverheid als bedoeld onder b). In het geval van basiszaad van hybriden kan de raszuiverheid worden beoordeeld met geschikte biochemische methoden;<br>
-<br>
-d) de normen ten aanzien van de minimale raszuiverheid voor gecertificeerd zaad van hybriden als bedoeld onder b) moeten worden bewaakt door middel van officiële nacontroles met gebruikmaking van een adequaat gedeelte van de officieel genomen zaadmonsters. Geschikte biochemische methoden mogen worden gebruikt.<br>
-<br>
-3. Als niet aan de in bijlage 1, onder punt 3. B, dd), vastgestelde voorwaarden kan worden voldaan, moet aan de volgende voorwaarde worden voldaan: als voor de productie van gecertificeerd zaad van zonnebloemhybriden gebruik is gemaakt van een vrouwelijke mannelijk-steriele kruisingspartner en een mannelijke kruisingspartner die de mannelijke fertiliteit niet herstelt, moet het door de mannelijk-steriele kruisingspartner geproduceerde zaad worden gemengd met het door de volledig vruchtbare kruisingspartner geproduceerde zaad. De verhouding tussen het zaad van de mannelijk-steriele kruisingspartner en dat van de mannelijk-vruchtbare kruisingspartner mag niet groter zijn dan 2: 1.<br>
-<br>
-4 Het zaaizaad moet ten aanzien van kiemkracht, mechanische zuiverheid en gehalte aan zaden van andere plantensoorten aan de volgende normen of eisen voldoen, inclusief Orobanche-soorten.<br>
-<br>
-A. Tabel:<br>
+4. Het zaaizaad moet voor kiemkracht, mechanische zuiverheid en gehalte aan zaden van andere plantensoorten (inclusief Orobanche spp.) aan de volgende andere normen of voorwaarden voldoen :<br>
+A. Tabel :<br>
 <br>
 </p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:115.15pt">
-			<p>Soort en categorie</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>soorten en categorieën</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>minimum-kiemkracht (% zuiver zaad)</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p>Mechanische zuiverheid</p>
+			<td colspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>mechanische zuiverheid</p>
 			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
+			<td colspan="7" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>maximumgehalte aan zaden van andere plantensoorten in een monster waarvan het gewicht is aangegeven in bijlage III, kolom 4 (totaal per kolom)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>Minimale kiemkracht (% zuiver zaad)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>Minimale mechanische zuiverheid (% van het gewicht)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>Maximale bestanddeel van andere soorten totaal (% van het gewicht)</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>voorwaarden voor het gehalte aan zaden van Orobanche</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>1</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>minimale mechanische zuiverheid (gewichts- %)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>2</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>maximumgehalte aan zaad van andere plantensoorten (gewichts- %)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>3</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>andere plantensoorten a)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>4</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Avena fatua, Avena sterilis</p>
 			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>Arachis hypogaea</p>
-
-			<p>Brassica spp.:</p>
-
-			<p>- basiszaad</p>
-
-			<p>- gecert. zaad</p>
-
-			<p>Cannabis sativa</p>
-
-			<p>Carthamus tinctorius</p>
-
-			<p>Carum carvi</p>
-
-			<p>Gossypium spp.</p>
-
-			<p>Helianthus annuus</p>
-
-			<p>Linum usitatissimum</p>
-
-			<p>- vezelvlas</p>
-
-			<p>- oliehoudend vlas</p>
-
-			<p>Papaver somniferum</p>
-
-			<p>Sinapis alba</p>
-
-			<p>- basiszaad</p>
-
-			<p>- gecert. zaad</p>
-
-			<p>Glycine max.</p>
-
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>70</p>
-
-			<p>&nbsp;</p>
-
-			<p>85</p>
-
-			<p>85</p>
-
-			<p>75</p>
-
-			<p>75</p>
-
-			<p>70</p>
-
-			<p>80</p>
-
-			<p>85</p>
-
-			<p>&nbsp;</p>
-
-			<p>92</p>
-
-			<p>85</p>
-
-			<p>80</p>
-
-			<p>&nbsp;</p>
-
-			<p>85</p>
-
-			<p>85</p>
-
-			<p>80</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>99</p>
-
-			<p>&nbsp;</p>
-
-			<p>98</p>
-
-			<p>98</p>
-
-			<p>98</p>
-
-			<p>98</p>
-
-			<p>97</p>
-
-			<p>98</p>
-
-			<p>98</p>
-
-			<p>&nbsp;</p>
-
-			<p>99</p>
-
-			<p>99</p>
-
-			<p>98</p>
-
-			<p>&nbsp;</p>
-
-			<p>98</p>
-
-			<p>98</p>
-
-			<p>98</p>
-
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>0,3</p>
-
-			<p>0,3</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>0,3</p>
-
-			<p>0,3</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:51.15pt">
-			<p>Soort en categorie</p>
-			</td>
-			<td colspan="8" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:409.45pt">
-			<p>Maximumgehalte aan zaden van andere plantensoorten in een monster waarvan get gewicht is aangegeven in bijlage III. Kolom 4 (totaal per kolom)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
-			<p>Andere plantensoorten (a)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
-			<p>Avena fatua, Avena ludoviciana, Avena Sterilis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Cuscuta spp.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
-			<p>Raphanus Raphanistrum</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Raphanus raphanistrum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
-			<p>Rumes spp. Andere dan Rumes acetosella</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Rumex spp. andere dan Rumex acetosella</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Alopecurus myosuroides</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Lolium remotum</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
-			<p>Eisen ten aanzien van het gehalte aan zaden van Orobanche</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>8</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>9</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>11</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>12</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Arachis hypogaea</p>
-
-			<p>Brassica spp.:</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>70</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>99</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 (c)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Brassica spp.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>- basiszaad</p>
-
-			<p>- gecert. zaad</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>85</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>98</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 (c) (d)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- gecertificeerd zaad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>85</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>98</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 (c) (d)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Cannabis sativa</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>75</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>98</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>30 (b)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 (c)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>(e)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Carthamus tinctorius</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>75</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>98</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 (c)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>(e)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Carum carvi</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>70</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>97</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>25 (b)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 (c) (d)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Glycine max</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>80</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>98</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 (c)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Gossypium spp.</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>80</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>98</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>15</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 (c)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Helianthus annuus</p>
-
-			<p>Linum usitatissimum</p>
-
-			<p>- vezelvlas</p>
-
-			<p>- oliehoudend vlas</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>85</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>98</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 (c)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Linum usitatissimum :</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- vlas</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>92</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>99</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>15</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 (c) (d)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- lijnzaad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>85</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>99</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>15</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 (c) (d)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Papaver somniferum</p>
-
-			<p>Sinapis alba</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>80</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>98</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>25 (b)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 (c) (d)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Sinapis alba :</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>- basiszaad</p>
-
-			<p>- gecert. zaad</p>
-
-			<p>Glycine max.</p>
-
-			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
-			<p>5</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>30(b)</p>
-
-			<p>&nbsp;</p>
-
-			<p>5</p>
-
-			<p>&nbsp;</p>
-
-			<p>25(b)</p>
-
-			<p>15</p>
-
-			<p>&nbsp;</p>
-
-			<p>5</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>15</p>
-
-			<p>15</p>
-
-			<p>&nbsp;</p>
-
-			<p>25(b)</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>5</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>85</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
-			<p>0</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>0</p>
-
-			<p>0</p>
-
-			<p>0</p>
-
-			<p>&nbsp;</p>
-
-			<p>0</p>
-
-			<p>&nbsp;</p>
-
-			<p>0</p>
-
-			<p>0</p>
-
-			<p>&nbsp;</p>
-
-			<p>0</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>0</p>
-
-			<p>0</p>
-
-			<p>&nbsp;</p>
-
-			<p>0</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>0</p>
-
-			<p>0</p>
-
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>98</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>0</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.15pt">
-			<p>0 ©</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>0 © (d)</p>
-
-			<p>0 © (d)</p>
-
-			<p>0 ©</p>
-
-			<p>&nbsp;</p>
-
-			<p>0 ©</p>
-
-			<p>&nbsp;</p>
-
-			<p>0 © (d)</p>
-
-			<p>0 ©</p>
-
-			<p>&nbsp;</p>
-
-			<p>0 ©</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>0 © (d)</p>
-
-			<p>0 © (d)</p>
-
-			<p>&nbsp;</p>
-
-			<p>0 © (d)</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>0 © (d)</p>
-
-			<p>0 © (d)</p>
-
-			<p>0 ©</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 (c) (d)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>10</p>
-
-			<p>10</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>10</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>10</p>
-
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>2</p>
-
-			<p>5</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>2</p>
-
-			<p>5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>3</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>4</p>
-
-			<p>4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>2</p>
-
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.2pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- gecertificeerd zaad</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>85</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>98</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0 (c) (d)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
-
-			<p>(e)</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
-
-			<p>(e)</p>
 			</td>
 		</tr>
 	</tbody>
@@ -1529,143 +1838,182 @@ A. Tabel:<br>
 
 <p>&nbsp;</p>
 
-<p>B . Normen of andere voorwaarden waaraan moet worden voldaan als daarnaar wordt verwezen in de onder punt I, 3, A, van deze bijlage opgenomen tabel:<br>
+<p>B. Andere normen of voorwaarden waaraan moet worden voldaan, als daarnaar wordt verwezen in de tabel, vermeld in deel I, punt 4, A :<br>
+a) het maximumgehalte aan zaden, vermeld in kolom 5, omvat ook de zaden van de soorten, vermeld in kolom 6 tot en met 11;<br>
+b) het totale aantal zaden van andere plantensoorten wordt alleen bepaald als er twijfel over bestaat of aan de voorwaarden, vermeld in kolom 5, is voldaan;<br>
+c) het aantal zaden van Cuscuta spp. wordt alleen bepaald als er twijfel over bestaat of aan de voorwaarden, vermeld in kolom 7, is voldaan;<br>
+d) de aanwezigheid van één zaadkorrel van Cuscuta spp. in een monster van het voorgeschreven gewicht geldt niet als onzuiverheid als een tweede monster van hetzelfde gewicht vrij is van zaden van Cuscuta spp.;<br>
+e) het zaad moet volledig vrij zijn van Orobanche spp. : de aanwezigheid van één zaadkorrel van Orobanche spp. in een monster van 100 g geldt evenwel niet als onzuiverheid als een tweede monster van 200 g volledig vrij is van Orobanche spp.<br>
 <br>
-a) het in kolom 5 vastgestelde maximumgehalte aan zaden heeft ook betrekking op de zaden van de in de kolommen 6 tot en met 11 genoemde soorten;<br>
+5. De aanwezigheid van schadelijke organismen die de gebruikswaarde van het zaaizaad verminderen, moet zo veel mogelijk beperkt zijn. Het zaaizaad moet met name voldoen aan de volgende andere normen of voorwaarden :<br>
 <br>
-b) het aantal zaden van andere plantensoorten wordt alleen bepaald als er twijfel over bestaat of aan de in kolom 5 vastgestelde eisen is voldaan;<br>
-<br>
-c) het aantal zaden van Cuscuta-soorten wordt alleen bepaald als er twijfel over bestaat of aan de in kolom 7 vastgestelde eisen is voldaan;<br>
-<br>
-d) de aanwezigheid van een zaadkorrel van Cuscuta-soorten in een monster van het voorgeschreven gewicht geldt niet als onzuiverheid als een tweede monster van hetzelfde gewicht vrij is van zaden van Cuscuta-soorten;<br>
-<br>
-e) het zaad moet volledig vrij zijn van Orobanche-soorten; een zaadkorrel van Orobanche-soorten in een monster van 100 gram geldt evenwel niet als onzuiverheid als een tweede monster van 200 gram volledig vrij is van Orobanche-soorten.<br>
-<br>
-5. De aanwezigheid van schadelijke organismen die de gebruikswaarde van zaaizaad verminderen, moet zo veel mogelijk beperkt zijn. Het zaaizaad moet - in het bijzonder - voldoen aan de volgende normen of andere eisen:<br>
-<br>
-A. Tabel<br>
+A. Tabel :<br>
 <br>
 </p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92.1pt">
-			<p>Soorten</p>
+			<td rowspan="3" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>soort</p>
 			</td>
-			<td colspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:368.5pt">
-			<p>Schadelijke organismen</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:184.2pt">
-			<p>Maximale aantal door schadelijke organismen aangetaste zaden (in %) (totaal per kolom)</p>
-			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
-			<p>Plateydria gossypiella</p>
-			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
-			<p>Sclerotinia sclerotiorum (maximale aantal sclerotiën of delen van sclerotiën in een monster van de in bijlage III. Kolom 4, aangegeven grootte)</p>
+			<td colspan="4" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>schadelijke organismen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
-			<p>Botrytis soorten</p>
+			<td colspan="3" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>maximumaantal door schadelijke organismen aangetaste zaden (in %) (totaal per kolom)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
-			<p>Alternaria-soorten, Ascochyta linicola (syn. Phoma linicola), Colletotrichum lini, fusarium-soorten</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Sclerotinia sclerotiorum (maximumaantal sclerotiën of delen van sclerotiën in een monster van het gewicht, vermeld in bijlage III, kolom 4)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Botrytis spp.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Alternaria linicola, Phoma exigua var. linicola, Colletortrichum linicola, Fusarium spp.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Platyedra gossypiella</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Brassica napus</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;10 (b)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Brassica rapa</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;5 (b)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Cannabis sativa</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Gossypium spp.</p>
-
-			<p>Helianthus annuus</p>
-
-			<p>Linum usitatissimum</p>
-
-			<p>Sinapis alba</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>5</p>
-
-			<p>&nbsp;</p>
-
-			<p>5</p>
-
-			<p>&nbsp;</p>
-
-			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>5 (a)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Helianthus annuus</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>10 (b)</p>
-
-			<p>5 (b)</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Linum usitatissimum</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>5 (a)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
-
-			<p>10 (b)</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Sinapis alba</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
-
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>&nbsp;</p>
-
-			<p>5 (b)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;5 (b)</p>
 			</td>
 		</tr>
 	</tbody>
@@ -1675,184 +2023,256 @@ A. Tabel<br>
 
 <p>&nbsp;</p>
 
-<p>B. Normen of andere voorwaarden waaraan moet worden voldaan als daarnaar wordt verwezen in de onder punt 4, A, van deze bijlage opgenomen tabel:<br>
+<p>B. Andere normen of voorwaarden waaraan moet worden voldaan, als daarnaar wordt verwezen in de tabel, vermeld in deel I, punt 5, A :<br>
+a) voor Linum usitatissimum - vlas mag het maximumpercentage aan zaden die door Phoma exigua vard. linicola zijn besmet, niet meer bedragen dan één;<br>
+b) het aantal sclerotiën of delen van sclerotiën van Sclerotinia sclerotiorum wordt alleen bepaald als er twijfel over bestaat of aan de voorwaarden, vermeld in kolom 5, is voldaan.<br>
 <br>
-a) voor vlas mag het percentage aan zaden die door Ascochyta linicola (Syn. Phoma linicola) zijn aangetast in totaal niet meer bedragen dan 1;<br>
+C. Bijzondere normen of andere voorwaarden die van toepassing zijn op Glycine max :<br>
+a) van de vijf deelmonsters waarin een monster van minimaal 5 000 zaden per partij is onderverdeeld, mogen er hoogstens vier besmet zijn met Pseudomonas syringae pv. Glycinea.<br>
+Als in alle vijf deelmonsters verdachte kolonies worden geïdentificeerd, mogen, ter bevestiging, op de verdachte kolonies die van elk deelmonster op een daartoe geschikt medium zijn geïsoleerd, passende biochemische tests worden uitgevoerd;<br>
+b) het maximumaantal met Diaporthe phaseolorum var. phaseolorum besmette zaden mag niet meer bedragen dan 15 %;<br>
+c) het percentage aan stof, gedefinieerd met gangbare internationale testmethoden, mag ten hoogste 0,3 gewichtspercent bedragen.<br>
 <br>
-b) het aantal sclerotiën of delen van sclerotiën van Sclerotinia sclerotiorum wordt alleen bepaald als er twijfel over bestaat of aan de in kolom 4 van de tabel vastgestelde eisen is voldaan.<br>
+II. HANDELSZAAD<br>
 <br>
-C . Bijzondere normen of andere voorwaarden die van toepassing zijn op glycine max:<br>
-<br>
-- van de vijf deelmonsters waarin een monster van maximaal 5000 zaden per partij is onderverdeeld, mogen er hoogstens vier besmet zijn met Pseudomonas syringae pv.glycinea. Als in alle vijf deelmonsters verdachte kolonies worden geïdentificeerd, mogen, ter bevestiging, op de verdachte kolonies die van elke deelmonster op een daartoe geschikt medium zijn geïsoleerd, passende biochemische tests worden verricht;<br>
-<br>
-- het aantal met Diaporthe phaseolorum besmette zaden mag niet hoger zijn dan 15 %;<br>
-<br>
-- het percentage aan stof zoals gedefinieerd met gangbare internationale testmethoden, mag ten hoogste 0,3 gewichtspercent bedragen.<br>
-<br>
-II. Handelszaad.<br>
-<br>
-Voor handelszaad gelden de sub I van bijlage II genoemde eisen met uitzondering van punt 1.</p>
+Voor handelszaad gelden de eisen, vermeld in deel I, met uitzondering van punt I.</p>
 
 ## Bijlage III Gewicht van een partij zaaizaad en van een monster
 
 ### BIJLAGE III
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+Bijlage III : Gewicht van een partij zaaizaad en van een monster<br>
+&nbsp;
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:111.5pt">
-			<p>Soort</p>
+			<td style="background-color:transparent">
+			<p>soort</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:90pt">
-			<p>Maximumgewicht van een partij (in ton)</p>
+			<td style="background-color:transparent">
+			<p>maximumgewicht van een partij (ton)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:108pt">
-			<p>Maximumgewicht van een monster dat van een partij wordt genomen (in gram)</p>
+			<td style="background-color:transparent">
+			<p>minimumgewicht van een monster dat van een partij wordt genomen (gram)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:151.1pt">
-			<p>Gewicht van een monster voor de bepaling van het in bijlage II, punt 1, 3, A, kolommen 5 tot en met 11, en in bijlage II, punt 1, 4, A, kolom 5, bedoelde aantal (in gram)</p>
+			<td style="background-color:transparent">
+			<p>gewicht van een monster voor de bepaling van het aantal, vermeld in bijlage II, deel I, punt 4, A, kolom 5 tot en met 11, en in bijlage II, deel I, punt 4, A, kolom 5 (gram)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:111.5pt">
+			<td style="background-color:transparent">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
+			<td style="background-color:transparent">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:108pt">
+			<td style="background-color:transparent">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:151.1pt">
+			<td style="background-color:transparent">
 			<p>4</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:111.5pt">
+			<td style="background-color:transparent">
 			<p>Arachis hypogaea</p>
-
-			<p>Brassica rapa</p>
-
+			</td>
+			<td style="background-color:transparent">
+			<p>30</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>1000</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>1000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
 			<p>Brassica juncea</p>
-
+			</td>
+			<td style="background-color:transparent">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>100</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>40</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
 			<p>Brassica napus</p>
-
+			</td>
+			<td style="background-color:transparent">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>200</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>100</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
 			<p>Brassica nigra</p>
-
-			<p>Cannabis sativa</p>
-
-			<p>Carthamus tinctorius</p>
-
-			<p>Carum carvi</p>
-
-			<p>Gossypium spp.</p>
-
-			<p>Helianthus annuus</p>
-
-			<p>Linum usitatissimum</p>
-
-			<p>Papaver somniferum</p>
-
-			<p>Sinapis alba</p>
-
-			<p>Glycine max.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
-			<p>25</p>
-
+			<td style="background-color:transparent">
 			<p>10</p>
-
-			<p>10</p>
-
-			<p>10</p>
-
-			<p>10</p>
-
-			<p>10</p>
-
-			<p>25</p>
-
-			<p>10</p>
-
-			<p>25</p>
-
-			<p>25</p>
-
-			<p>10</p>
-
-			<p>10</p>
-
-			<p>10</p>
-
-			<p>25</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:108pt">
-			<p>1000</p>
-
-			<p>200</p>
-
+			<td style="background-color:transparent">
 			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>600</p>
-
-			<p>900</p>
-
-			<p>200</p>
-
-			<p>1000</p>
-
-			<p>1000</p>
-
-			<p>300</p>
-
-			<p>50</p>
-
-			<p>400</p>
-
-			<p>1000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:151.1pt">
-			<p>1000</p>
-
+			<td style="background-color:transparent">
+			<p>40</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>Brassica rapa</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>200</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>70</p>
-
-			<p>40</p>
-
-			<p>100</p>
-
-			<p>40</p>
-
-			<p>600</p>
-
-			<p>900</p>
-
-			<p>80</p>
-
-			<p>1000</p>
-
-			<p>1000</p>
-
-			<p>150</p>
-
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>Cannabis sativa</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>10</p>
-
+			</td>
+			<td style="background-color:transparent">
+			<p>600</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>600</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>Carthamus tinctorius</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>25</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>900</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>900</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>Carum carvi</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>200</p>
-
+			</td>
+			<td style="background-color:transparent">
+			<p>80</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>Glycine max</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>30</p>
+			</td>
+			<td style="background-color:transparent">
 			<p>1000</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>1000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>Gossypium spp.</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>25</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>1000</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>1000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>Helianthus annuus</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>25</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>1000</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>1000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>Linum usitatissimum</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>300</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>150</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>Papaver somniferum</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>50</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>10</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>Sinapis alba</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>400</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>200</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Het maximumgewicht van een partij mag ten hoogste met 5 % worden overschreden.</p>
 
 ## Bijlage IV Etiket
 
