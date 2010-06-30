@@ -174,7 +174,13 @@ Voor de toepassing van dit besluit en de uitvoeringsmaatregelen ervan gelden als
 
 ### ART. 27.
 
-§ 1. Een waarborghouder kan een hem verleende waarborg een of meer keren afroepen ten belope van, elk van die keren, het met toepassing van dit besluit en de uitvoeringsmaatregelen ervan berekende bedrag van de onder de toepassing van de waarborg gebrachte verbintenissen van de K.M.O., of een fractie daarvan, zolang de hem verleende waarborg, als gevolg van eerdere dergelijke afroepen, niet integraal werd uitbetaald.<br /><br />§ 2. Als een waarborghouder, conform § 1, een hem verleende waarborg wil afroepen, moet hij dat telkens doen binnen een periode van drie maanden na de datum waarop de waarborghouder de onder toepassing van de waarborg gebrachte verbintenissen van de K.M.O. opeisbaar heeft gesteld.<br /><br />§ 3. Voor de toepassing van § 2 gelden de onder toepassing van de waarborg gebrachte verbintenissen van de K.M.O. als opeisbaar gesteld op het ogenblik dat de waarborghouder, enerzijds, de leasingovereenkomst waaruit ze voortvloeien, formeel heeft opgezegd en, anderzijds, de K.M.O. op formele wijze in gebreke heeft gesteld om de op dat ogenblik niet betaalde verbintenissen die voortvloeien uit die overeenkomst, te betalen.<br /><br />§ 4. De termijn, vermeld in § 2, is een vervaltermijn.
+§ 1. Een waarborghouder kan een hem verleende waarborg een of meer keren afroepen ten belope van, elk van die keren, het met toepassing van dit besluit en de uitvoeringsmaatregelen ervan berekende bedrag van de onder de toepassing van de waarborg gebrachte verbintenissen van de kredietnemer, of een fractie daarvan, zolang de hem verleende waarborg, als gevolg van eerdere dergelijke afroepen, niet integraal werd uitbetaald.<br>
+<br>
+§ 2. Als een waarborghouder, conform § 1, een hem verleende waarborg wil afroepen, moet hij dat telkens doen binnen een periode van drie maanden na de datum waarop de waarborghouder de onder toepassing van de waarborg gebrachte verbintenissen van de kredietnemer opeisbaar heeft gesteld.<br>
+<br>
+§ 3. Voor de toepassing van § 2 gelden de onder toepassing van de waarborg gebrachte verbintenissen van de kredietnemer als opeisbaar gesteld op het ogenblik dat de waarborghouder, enerzijds, de leasingovereenkomst waaruit ze voortvloeien, formeel heeft opgezegd en, anderzijds, de krenietnemer op formele wijze in gebreke heeft gesteld om de op dat ogenblik niet betaalde verbintenissen die voortvloeien uit die overeenkomst, te betalen.<br>
+<br>
+§ 4. De termijn, vermeld in § 2, is een vervaltermijn.
 
 ### ART. 28.
 
