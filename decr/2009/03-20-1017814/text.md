@@ -162,7 +162,7 @@ In artikel 4, eerste lid, van het decreet van 20 april 2001 betreffende de mobil
 
 ### ART. 28.
 
-Het Mobiliteitsplan Vlaanderen wordt uiterlijk op 31 december 2010 voor het eerst vastgesteld en bekendgemaakt.<br /><br />
+Het Mobiliteitsplan Vlaanderen wordt uiterlijk op 31 december 2012 voor het eerst vastgesteld en bekendgemaakt.<br /><br />
 
 ### ART. 29.
 
