@@ -104,6 +104,10 @@ Aan artikel 15, § 2, van het decreet van 6 juli 1994 houdende bepalingen tot be
 
 ## HOOFDSTUK XII. Mobiliteitsplan Vlaanderen
 
+### ART. 47.
+
+Artikel 28 van het decreet van 20 maart 2009 betreffende het mobiliteitsbeleid wordt vervangen door wat volgt :<br /><br />« Art. 28. Het Mobiliteitsplan Vlaanderen wordt uiterlijk op 31 december 2012 voor het eerst vastgesteld en bekendgemaakt. »
+
 ## HOOFDSTUK XIII. Energie
 
 ## Afdeling I. Energiefonds
