@@ -2,16 +2,16 @@
   "codex_id": 1014832,
   "title": "Ministerieel besluit van 2001-12-21 tot vaststelling van een keurings- en certificeringsreglement van zaaizaad van groenvoedergewassen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014832/VolledigDocument?datum=2008-10-25",
-  "source_sha256": "737bcbffc4ee805c8bb955c52817a0b49c05cf687ae5d9572e007f070bf76a82",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014832/VolledigDocument?datum=2010-06-30",
+  "source_sha256": "040b3837c3c311587155060d4f923e8ad90c791a4c3b48a6eb21794d620369af",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014832&param=informatie",
-  "as_of": "2008-10-25",
+  "as_of": "2010-06-30",
   "made": "2001-12-21",
   "gazette": "2002-03-06",
   "numac": 0,
   "document_start": "2002-03-06",
   "document_end": "2010-06-29",
-  "in_force": "2008-10-25",
-  "article_versions": 25,
-  "record_form": "consolidated version as in force on 2008-10-25; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-06-30",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2010-06-30; future article versions excluded; article text as the API gives it"
 }
