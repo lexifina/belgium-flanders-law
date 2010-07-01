@@ -600,6 +600,18 @@ Deze vergoeding wordt maandelijks, in twaalfden en na vervallen termijn betaald,
 
 ## [HOOFDSTUK 7 MAALTIJDCHEQUES (ing. BVR 18 juni 2010, art. 27, I: 1/5/2009)]
 
+### ART. 117/3.
+
+Elke arrondissementscommissaris heeft per effectieve werkdag recht op één maaltijdcheque, ongeacht de duur van de arbeidsprestaties.
+
+### ART. 117/4.
+
+De nominale waarde van de maaltijdcheque bedraagt 5,00 euro, waarvan 1,09 euro werknemersbijdrage en 3,91 euro werkgeversbijdrage.
+
+### ART. 117/5.
+
+Bij een verlof voor opdracht blijft het recht op maaltijdcheques behouden als het salaris door de Vlaamse overheid wordt doorbetaald.<br /><br />Bij dienstvrijstelling die een volledige werkdag in beslag neemt, beslist de provinciegouverneur naargelang van de aard van de dienstvrijstelling of het recht op maaltijdcheques behouden blijft.<br /><br />Een buitenlandse dienstreis geeft geen recht op de toekenning van een maaltijdcheque.<br /><br />Er is geen recht op maaltijdcheques in geval van tuchtschorsing als vermeld in artikel 18, punt 2°.<br /><br />
+
 ## [HOOFDSTUK 8 RECHTSBIJSTAND (ing. BVR 18 juni 2010, art. 27, I: 13 juli 2010)]
 
 ## DEEL VIII OPHEFFINGS-, OVERGANGS- EN SLOTBEPALINGEN
