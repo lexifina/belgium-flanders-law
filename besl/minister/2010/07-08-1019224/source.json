@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019224,
+  "title": "Ministerieel besluit van 2010-07-08 tot vaststelling van de coëfficiënt voor het berekenen van de geactualiseerde kostprijs van sociale huurwoningen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019224/VolledigDocument?datum=2010-07-01",
+  "source_sha256": "d91c53297d2812921cf9715a4325d7dda76d86877a0fc8a98a5cab006f2d6072",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019224&param=informatie",
+  "as_of": "2010-07-01",
+  "made": "2010-07-08",
+  "gazette": "2010-07-20",
+  "numac": 2010035487,
+  "document_start": "2010-07-01",
+  "document_end": null,
+  "in_force": "2010-07-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
