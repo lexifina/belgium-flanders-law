@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019924,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-17 tot wijziging van artikel 3 van het besluit van de Vlaamse Regering van 7 september 1994 tot regeling van de procedure voor de projecten van het onderwijskundig beleids- en praktijkgericht wetenschappelijk onderzoek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019924/VolledigDocument?datum=2010-07-01",
+  "source_sha256": "786f13dfd0ff65d8a633e62590dce317f49b34ca42682140d76f722c2cacd05c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019924&param=informatie",
+  "as_of": "2010-07-01",
+  "made": "2010-12-17",
+  "gazette": "2011-01-19",
+  "numac": 2011200104,
+  "document_start": "2010-07-01",
+  "document_end": null,
+  "in_force": "2010-07-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
