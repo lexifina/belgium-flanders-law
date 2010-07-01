@@ -4,15 +4,15 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de gecoördineerde decreten: de decreten inzake bijzondere jeugdbijstand, gecoördineerd op 4 april 1990;<br />2° de hulp- en bijstandsregeling: het geheel van de wetten die een aangelegenheid regelen bedoeld in artikel 5, § 1, II, 6°, d), van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en de gecoördineerde decreten;<br />3° een minderjarige: een persoon beneden de leeftijd van achttien jaar aan wie bij beslissing van de verwijzende instantie, bedoeld in 7°, hulp wordt verleend overeenkomstig de hulp- en bijstandsregeling.<br />Wordt met een minderjarige gelijkgesteld:<br />a) een persoon beneden de leeftijd van achttien jaar bedoeld in de punten 1° en 2° van artikel 6;<br />b) een persoon die de maximumleeftijden als bedoeld in artikel 30, § 2 van de gecoördineerde decreten niet heeft overschreden en aan wie na het bereiken van de leeftijd van achttien jaar nog hulp wordt verleend overeenkomstig de hulp- en bijstandsregeling;<br />c) een persoon die de maximumleeftijd, vermeld in de wet betreffende de opgave van maatregelen ten aanzien van minderjarigen die een als misdrijf omschreven feit hebben gepleegd, niet heeft bereikt en aan wie na het bereiken van de leeftijd van achttien jaar nog een maatregel of voorwaarde is opgelegd overeenkomstig die wet;<br />d) een persoon als vermeld in het samenwerkingsakkoord van 13 december 2006 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de organisatie en de financiering van het herstelrechtelijk aanbod, vermeld in de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd, en het herstel van de door dit feit veroorzaakte schade;<br />4° de Vlaamse minister: het lid van de Vlaamse regering bevoegd voor de bijstand aan personen;<br />5° de administratie: het intern verzelfstandigd agentschap Jongerenwelzijn of het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin; <br />6° het fonds: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Fonds Jongerenwelzijn; <br />7° de verwijzende instantie: naar gelang het geval, het comité bedoeld in 8° of de jeugdrechtbank;<br />8° het comité: het comité voor bijzondere jeugdzorg, bedoeld in artikel 3 van de gecoördineerde decreten;<br />9° de sociale dienst: hetzij de sociale dienst voor bijzondere jeugdbijstand, bedoeld in artikel 40, § 1 van de gecoördineerde decreten, indien tot de hulpverlening werd beslist door het comité, hetzij de sociale dienst van de Vlaamse Gemeenschap bij de jeugdrechtbank, bedoeld in artikel 40, § 2 van de gecoördineerde decreten, indien tot de hulpverlening werd beslist door de jeugdrechtbank;<br />10° het hulpverleningsprogramma: het programma opgemaakt door de sociale dienst bedoeld in 9°, volgens hetwelk de hulpverlening in het kader van de hulp- en bijstandsregeling dient te verlopen;<br />11° een inrichtende macht: een rechtspersoon die geen materiële winst nastreeft en onder wiens verantwoordelijkheid een erkende voorziening functioneert;<br />12° erkende voorzieningen: voorzieningen die overeenkomstig de bepalingen van dit besluit zijn erkend;<br />13° een afdeling: een gedeelte van een voorziening dat qua vestigingsplaats, organisatie, materiële infrastructuur of pedagogisch beleid verschilt van een ander gedeelte van de voorziening;<br />14° de capaciteit: het aantal minderjarigen, dat een erkende voorziening mag opnemen of begeleiden, zoals bij besluit bepaald door de Vlaamse minister;<br />15° het handelingsplan: het plan volgens hetwelk de hulpverlening door een erkende voorziening dient te verlopen;<br />16° de betrokken partijen: de minderjarige, de personen die over hem of haar het ouderlijk gezag uitoefenen of hem of haar onder hun bewaring hebben, de consulent van de sociale dienst en degenen die in het kader van de hulp- en bijstandsregeling eveneens bij de hulpverlening zijn betrokken;<br />17° een pleeggezin: een persoon die of een gezin dat minderjarigen opneemt;<br />18° dienstanciënniteit: de anciënniteit berekend op basis van de werkelijke diensten die zonder vrijwillige onderbreking werden verricht in de sector bijzondere jeugdbijstand, de gehandicaptenzorg, Kind en Gezin en het algemeen welzijnswerk;<br />19° geldelijke anciënniteit: de anciënniteit bedoeld in artikel 35, die in aanmerking komt voor het vaststellen van de personeelskosten;<br />20° het besluit van 15 december 1993: het besluit van de Vlaamse regering van 15 december 1993 houdende de subsidiëring van de personeelskosten in bepaalde voorzieningen van de welzijnssector;<br />21° de adviserende beroepscommissie: de commissie, bedoeld in artikel 13 van het decreet van 15 juli 1997 houdende oprichting van een Gezins- en Welzijnsraad en van een adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden; <br />22° het kwaliteitsdecreet: het decreet van 29 april 1997 inzake de kwaliteitszorg in de welzijnsvoorzieningen;<br />23° het kwaliteitshandboek: het document, bedoeld in artikel 2, 15°, van het kwaliteitsdecreet;<br />24° het kwaliteitsbeleid: het beleid, bedoeld in artikel 2, 8°, van het kwaliteitsdecreet;<br />25° het kwaliteitssysteem: het systeem, bedoeld in artikel 2, 10°, van het kwaliteitsdecreet;<br />26° de kwaliteitsplanning: de activiteiten, bedoeld in artikel 2, 11°, van het kwaliteitsdecreet;<br />27° de gebruiker: een natuurlijk persoon als bedoeld in artikel 2, 5° van het kwaliteitsdecreet; <br />28° zware beroepen: tewerkstelling van begeleidend personeel, met toepassing van bijlage 2, gevoegd bij dit besluit, in een erkende voorziening van de categorieën 1, 2 of 3, zoals bedoeld in artikel 3;<br />29° de loonmassa: de uitgaven inzake personeel die met toepassing van dit besluit werden gedaan met uitsluiting van de uitgaven bedoeld in artikel 32 §§ 2, 3 en 4. <br />30° de administrateur-generaal : het personeelslid dat belast is met de leiding van het agentschap Jongerenwelzijn en van het agentschap Fonds Jongerenwelzijn;<br />31° het samenwerkingsakkoord herstelrechtelijk aanbod : het samenwerkingsakkoord van 13 december 2006 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de organisatie en de financiering van het herstelrechtelijk aanbod, vermeld in de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd, en het herstel van de door dit feit veroorzaakte schade;<br />32° herstelbemiddeling : overeenkomstig art. 37bis tot art. 37quinquies en art. 45quater van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade : het communicatieproces tussen de persoon die ervan verdacht wordt een als misdrijf omschreven feit te hebben gepleegd, de personen die ten aanzien van hem het ouderlijk gezag uitoefenen, de personen die hem in rechte of in feite onder hun bewaring hebben en het slachtoffer, om hen de mogelijkheid te bieden om samen en met de hulp van een onpartijdige bemiddelaar, aan de onder meer relationele en materiële gevolgen van een als misdrijf omschreven feit tegemoet te komen;<br />33° herstelgericht groepsoverleg : overeenkomstig art. 37bis tot art. 37quinquies van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade : het overleg tussen de persoon die ervan verdacht wordt een als misdrijf omschreven feit te hebben gepleegd, het slachtoffer, hun sociale omgeving alsook alle dienstige personen, om hen de mogelijkheid te bieden om in groep en met de hulp van een onpartijdige bemiddelaar in overleg uitgewerkte oplossingen te overwegen over de wijze waarop het conflict kan worden opgelost dat voortvloeit uit het als misdrijf omschreven feit, onder meer rekening houdend met de relationele en materiële gevolgen van het als misdrijf omschreven feit;<br />34° een leerproject : een gestructureerd leerprogramma, opgelegd door de jeugdrechter of jeugdrechtbank, waarbij zowel het delict als de persoonlijkheid van de minderjarigen of hun vaardigheidstekorten als aanknopingspunt worden genomen;<br />35° een gemeenschapsdienst : overeenkomstig art. 37 § 2bis 2° en art. 52 van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade : de onbezoldigde prestatie in een non-profitinstelling voor een aantal uren, opgelegd door de jeugdrechter of jeugdrechtbank als reactie op het delict;<br />36° een crisisbegeleiding : een kortdurende, intensieve, ambulante en mobiele begeleiding voor gezinnen in een perspectiefloze opvoedingssituatie, met een dreiging op uithuisplaatsing voor één of meer minderjarigen.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de gecoördineerde decreten: de decreten inzake bijzondere jeugdbijstand, gecoördineerd op 4 april 1990;<br />2° de hulp- en bijstandsregeling: het geheel van de wetten die een aangelegenheid regelen bedoeld in artikel 5, § 1, II, 6°, d), van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en de gecoördineerde decreten;<br />3° een minderjarige: een persoon beneden de leeftijd van achttien jaar aan wie bij beslissing van de verwijzende instantie, bedoeld in 7°, hulp wordt verleend overeenkomstig de hulp- en bijstandsregeling.<br />Wordt met een minderjarige gelijkgesteld:<br />a) een persoon beneden de leeftijd van achttien jaar bedoeld in de punten 1° en 2° van artikel 6;<br />b) een persoon die de maximumleeftijden als bedoeld in artikel 30, § 2 van de gecoördineerde decreten niet heeft overschreden en aan wie na het bereiken van de leeftijd van achttien jaar nog hulp wordt verleend overeenkomstig de hulp- en bijstandsregeling;<br />c) een persoon die de maximumleeftijd, vermeld in de wet betreffende de opgave van maatregelen ten aanzien van minderjarigen die een als misdrijf omschreven feit hebben gepleegd, niet heeft bereikt en aan wie na het bereiken van de leeftijd van achttien jaar nog een maatregel of voorwaarde is opgelegd overeenkomstig die wet;<br />d) een persoon als vermeld in het samenwerkingsakkoord van 13 december 2006 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de organisatie en de financiering van het herstelrechtelijk aanbod, vermeld in de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd, en het herstel van de door dit feit veroorzaakte schade;<br />4° de Vlaamse minister: het lid van de Vlaamse regering bevoegd voor de bijstand aan personen;<br />5° de administratie: het intern verzelfstandigd agentschap Jongerenwelzijn of het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin; <br />6° het fonds: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Fonds Jongerenwelzijn; <br />7° de verwijzende instantie: naar gelang het geval, het comité bedoeld in 8° of de jeugdrechtbank;<br />8° het comité: het comité voor bijzondere jeugdzorg, bedoeld in artikel 3 van de gecoördineerde decreten;<br />9° de sociale dienst: hetzij de sociale dienst voor bijzondere jeugdbijstand, bedoeld in artikel 40, § 1 van de gecoördineerde decreten, indien tot de hulpverlening werd beslist door het comité, hetzij de sociale dienst van de Vlaamse Gemeenschap bij de jeugdrechtbank, bedoeld in artikel 40, § 2 van de gecoördineerde decreten, indien tot de hulpverlening werd beslist door de jeugdrechtbank;<br />10° het hulpverleningsprogramma: het programma opgemaakt door de sociale dienst bedoeld in 9°, volgens hetwelk de hulpverlening in het kader van de hulp- en bijstandsregeling dient te verlopen;<br />11° een inrichtende macht: een rechtspersoon die geen materiële winst nastreeft en onder wiens verantwoordelijkheid een erkende voorziening functioneert;<br />12° erkende voorzieningen: voorzieningen die overeenkomstig de bepalingen van dit besluit zijn erkend;<br />13° een afdeling: een gedeelte van een voorziening dat qua vestigingsplaats, organisatie, materiële infrastructuur of pedagogisch beleid verschilt van een ander gedeelte van de voorziening;<br />14° de capaciteit: het aantal minderjarigen, dat een erkende voorziening mag opnemen of begeleiden, zoals bij besluit bepaald door de Vlaamse minister;<br />15° het handelingsplan: het plan volgens hetwelk de hulpverlening door een erkende voorziening dient te verlopen;<br />16° de betrokken partijen: de minderjarige, de personen die over hem of haar het ouderlijk gezag uitoefenen of hem of haar onder hun bewaring hebben, de consulent van de sociale dienst en degenen die in het kader van de hulp- en bijstandsregeling eveneens bij de hulpverlening zijn betrokken;<br />17° een pleeggezin: een persoon die of een gezin dat minderjarigen opneemt;<br />18° dienstanciënniteit: de anciënniteit berekend op basis van de werkelijke diensten die zonder vrijwillige onderbreking werden verricht in de sector bijzondere jeugdbijstand, de gehandicaptenzorg, Kind en Gezin en het algemeen welzijnswerk;<br />19° geldelijke anciënniteit: de anciënniteit bedoeld in artikel 35, die in aanmerking komt voor het vaststellen van de personeelskosten;<br />20° het besluit van 15 december 1993: het besluit van de Vlaamse regering van 15 december 1993 houdende de subsidiëring van de personeelskosten in bepaalde voorzieningen van de welzijnssector;<br />21° de adviserende beroepscommissie: de commissie, bedoeld in artikel 13 van het decreet van 15 juli 1997 houdende oprichting van een Gezins- en Welzijnsraad en van een adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden; <br />22° het kwaliteitsdecreet: het decreet van 29 april 1997 inzake de kwaliteitszorg in de welzijnsvoorzieningen;<br />23° het kwaliteitshandboek: het document, bedoeld in artikel 2, 15°, van het kwaliteitsdecreet;<br />24° het kwaliteitsbeleid: het beleid, bedoeld in artikel 2, 8°, van het kwaliteitsdecreet;<br />25° het kwaliteitssysteem: het systeem, bedoeld in artikel 2, 10°, van het kwaliteitsdecreet;<br />26° de kwaliteitsplanning: de activiteiten, bedoeld in artikel 2, 11°, van het kwaliteitsdecreet;<br />27° de gebruiker: een natuurlijk persoon als bedoeld in artikel 2, 5° van het kwaliteitsdecreet; <br />28° zware beroepen: tewerkstelling van begeleidend personeel, met toepassing van bijlage 2, gevoegd bij dit besluit, in een erkende voorziening van de categorieën 1, 2 of 3, zoals bedoeld in artikel 3;<br />29° de loonmassa: de uitgaven inzake personeel die met toepassing van dit besluit werden gedaan met uitsluiting van de uitgaven bedoeld in artikel 32 §§ 2, 3 en 4. <br />30° de administrateur-generaal : het personeelslid dat belast is met de leiding van het agentschap Jongerenwelzijn en van het agentschap Fonds Jongerenwelzijn;<br />31° het samenwerkingsakkoord herstelrechtelijk aanbod : het samenwerkingsakkoord van 13 december 2006 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de organisatie en de financiering van het herstelrechtelijk aanbod, vermeld in de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd, en het herstel van de door dit feit veroorzaakte schade;<br />32° herstelbemiddeling : overeenkomstig art. 37bis tot art. 37quinquies en art. 45quater van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade : het communicatieproces tussen de persoon die ervan verdacht wordt een als misdrijf omschreven feit te hebben gepleegd, de personen die ten aanzien van hem het ouderlijk gezag uitoefenen, de personen die hem in rechte of in feite onder hun bewaring hebben en het slachtoffer, om hen de mogelijkheid te bieden om samen en met de hulp van een onpartijdige bemiddelaar, aan de onder meer relationele en materiële gevolgen van een als misdrijf omschreven feit tegemoet te komen;<br />33° herstelgericht groepsoverleg : overeenkomstig art. 37bis tot art. 37quinquies van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade : het overleg tussen de persoon die ervan verdacht wordt een als misdrijf omschreven feit te hebben gepleegd, het slachtoffer, hun sociale omgeving alsook alle dienstige personen, om hen de mogelijkheid te bieden om in groep en met de hulp van een onpartijdige bemiddelaar in overleg uitgewerkte oplossingen te overwegen over de wijze waarop het conflict kan worden opgelost dat voortvloeit uit het als misdrijf omschreven feit, onder meer rekening houdend met de relationele en materiële gevolgen van het als misdrijf omschreven feit;<br />34° een leerproject : een gestructureerd leerprogramma, opgelegd door de jeugdrechter of jeugdrechtbank, waarbij zowel het delict als de persoonlijkheid van de minderjarigen of hun vaardigheidstekorten als aanknopingspunt worden genomen;<br />35° een gemeenschapsdienst : overeenkomstig art. 37 § 2bis 2° en art. 52 van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade : de onbezoldigde prestatie in een non-profitinstelling voor een aantal uren, opgelegd door de jeugdrechter of jeugdrechtbank als reactie op het delict;<br />36° een crisisbegeleiding : een kortdurende, intensieve, ambulante en mobiele begeleiding voor gezinnen in een perspectiefloze opvoedingssituatie, met een dreiging op uithuisplaatsing voor één of meer minderjarigen;<br />37° gemeenschapsinstellingen : voorzieningen als vermeld in artikel 2, 7°, van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand;<br />38° een multifunctioneel centrum : een organisatiestructuur die bestaat uit een combinatie van voorzieningen of afdelingen van voorzieningen van categorie 1, 4 en 5, met een multifunctioneel karakter, die residentiële, mobiele en ambulante hulp biedt. Die hulp wordt vertaald in trajecten, waarbij zorgmodaliteiten naadloos worden ingezet in functie van een evoluerende hulpvraag;<br />39° zorgmodaliteiten : de kleinste eenheden van hulp in een multifunctioneel centrum, op het gebied van contextbegeleiding, individuele begeleiding, dagbesteding en verblijf;<br />40° bandbreedte : het geheel van de in te zetten zorgmodaliteiten in een cliënttraject binnen een multifunctioneel centrum.
 
 ### ART. 2.
 
-[De maximum capaciteit die eenzelfde inrichtende macht kan laten erkennen bedraagt honderd vierenzeventig.  <span class="reference">(ing. B.V.R. 8 december 2000, art. 2, I: 1 januari 2001)</span> ]
+...
 
 ### ART. 3.
 
-§ 1. De erkende voorzieningen worden ingedeeld in de hiernavolgende categorieën:<br />Categorie 1: begeleidingstehuizen.<br />Categorie 2: gezinstehuizen.<br />Categorie 3: onthaal-, oriëntatie- en observatiecentra.<br />Categorie 4: dagcentra.<br />Categorie 5: thuisbegeleidingsdiensten.<br />Categorie 6: diensten voor begeleid zelfstandig wonen.<br />Categorie 7: diensten voor pleegzorg.<br />Categorie 8 : diensten voor herstelgerichte en constructieve afhandeling;<br />Categorie 9 : diensten voor crisishulp aan huis.<br /><br />§ 2. Eenzelfde inrichtende macht kan voorzieningen laten erkennen van de categorieën 1, 2, 3, 4, 5, 6, 8 en 9, vermeld in § 1. De inrichtende macht van een voorziening van categorie 7 kan geen voorziening van een van de andere categorieën, vermeld in § 1, laten erkennen.<br /><br />§ 3. De voorzieningen van de categorieën 1 en 2 kunnen een bijkomende erkenning krijgen om na hun residentiële opname minderjarigen te begeleiden die zelfstandig wonen.
+§ 1. De erkende voorzieningen worden ingedeeld in de hiernavolgende categorieën:<br />Categorie 1: begeleidingstehuizen.<br />Categorie 2: gezinstehuizen.<br />Categorie 3: onthaal-, oriëntatie- en observatiecentra.<br />Categorie 4: dagcentra.<br />Categorie 5: thuisbegeleidingsdiensten.<br />Categorie 6: diensten voor begeleid zelfstandig wonen.<br />Categorie 7: diensten voor pleegzorg.<br />Categorie 8 : diensten voor herstelgerichte en constructieve afhandeling;<br />Categorie 9 : diensten voor crisishulp aan huis.<br /><br />§ 2. Eenzelfde inrichtende macht kan voorzieningen laten erkennen van de categorieën 1, 2, 3, 4, 5, 6, 8 en 9, vermeld in § 1. De inrichtende macht van een voorziening van categorie 7 kan geen voorziening van een van de andere categorieën, vermeld in § 1, laten erkennen.<br /><br />§ 3. De voorzieningen van de categorieën 1 en 2 kunnen een bijkomende erkenning krijgen om na hun residentiële opname minderjarigen te begeleiden die zelfstandig wonen.<br /><br />§ 4. De voorzieningen of afdelingen van voorzieningen van categorie 1, vermeld in artikel 13, 2°, kunnen een bijkomende erkenning krijgen om voor een gedeelte van hun capaciteit uitsluitend minderjarigen te begeleiden die rechtstreeks uit een gemeenschapsinstelling komen.<br /><br />§ 5. De voorzieningen of afdelingen van voorzieningen van categorie 1, 4 en 5, vermeld in respectievelijk artikelen 4, 7 en 8, kunnen een wijziging van erkenning krijgen als respectievelijk een voorziening of een afdeling van een voorziening van categorie 1, 4 en 5 met een multifunctioneel karakter. De combinatie van de voorzieningen of van de afdelingen van voorzieningen met een multifunctioneel karakter wordt erkend als multifunctioneel centrum. Een multifunctioneel centrum bestaat minstens uit één afdeling met een multifunctioneel karakter van een voorziening van categorie 1 en één afdeling met een multifunctioneel karakter van een voorziening van categorie 5.
 
 ### ART. 4.
 
@@ -108,13 +108,13 @@ De kwaliteitsplanning van de voorziening bevat minimaal:<br /><br />1° de situe
 
 ### ART. 17.
 
-[De thuisbegeleidingsdiensten moeten voldoen aan de volgende bijzondere voorwaarden:<br /><br />1° onverminderd de toepassing van artikel 38, § 1, is de minimumcapaciteit van de dienst zestien en de maximumcapaciteit tweeëndertig;<br /><br />2° de dienst mag geen begeleiding binnen zijn bestuurlijk arrondissement weigeren om een andere reden dan de uitputting van zijn erkende capaciteit;<br /><br />3° gemiddeld eenmaal per week moet er een begeleiding plaatsvinden, in principe in het gezin waartoe de minderjarige behoort.  <span class="reference">(verv. B.V.R. 8 december 2000, art. 3, I: 1 januari 2001)</span> ]
+De thuisbegeleidingsdiensten moeten voldoen aan de volgende bijzondere voorwaarden:<br />1° onverminderd de toepassing van artikel 38, § 1, is de minimumcapaciteit van de dienst zestien;<br />2° de dienst mag geen begeleiding binnen zijn bestuurlijk arrondissement weigeren om een andere reden dan de uitputting van zijn erkende capaciteit;<br />3° het aantal begeleidingscontacten dat de dienst realiseert, in principe in het gezin waartoe de minderjarige behoort, bedraagt op weekbasis minimaal het equivalent van de erkende capaciteit van de dienst.
 
 ## [ONDERAFDELING F DIENSTEN VOOR BEGELEID ZELFSTANDIG WONEN (verv. B.V.R. 8 december 2000, art. 3)]
 
 ### ART. 18.
 
-[De diensten voor begeleid zelfstandig wonen moeten voldoen aan de volgende bijzondere voorwaarden:<br /><br />1° onverminderd de toepassing van artikel 38, § 1, is de minimumcapaciteit van de dienst zestien en de maximumcapaciteit tweeëndertig;<br /><br />2° de dienst mag geen begeleiding binnen zijn bestuurlijk arrondissement weigeren om een andere reden dan de uitputting van zijn erkende capaciteit;<br /><br />3° de voorziening begeleidt de minderjarige in het verwerven en behouden van een eigen, passende huisvesting;<br /><br />4° indien de betrokkene meerderjarig of ontvoogd is, moet hijzelf een huurcontract afsluiten. De dienst mag, uitzonderlijk, op basis van maximaal één woning per capaciteitsschijf van acht, eigen huisvesting ter beschikking stellen van meerderjarigen en ontvoogde minderjarigen die hij begeleidt. De dienst mag de bedoelde eigen huisvesting ter beschikking stellen gedurende een maximale termijn van twee maanden;<br /><br />5° de minderjarigen staan zelf geheel of gedeeltelijk in voor hun onderhoud. Op grond daarvan wordt met hen een plan opgemaakt voor het beheer van hun budget.  <span class="reference">(verv. B.V.R. 8 december 2000, art. 3, I: 1 januari 2001)</span> ]
+De diensten voor begeleid zelfstandig wonen moeten voldoen aan de volgende bijzondere voorwaarden:<br />1° onverminderd de toepassing van artikel 38, § 1, is de minimumcapaciteit van de dienst zestien;<br />2° de dienst mag geen begeleiding binnen zijn bestuurlijk arrondissement weigeren om een andere reden dan de uitputting van zijn erkende capaciteit;<br />3° de voorziening begeleidt de minderjarige in het verwerven en behouden van een eigen, passende huisvesting;<br />4° indien de betrokkene meerderjarig of ontvoogd is, moet hijzelf een huurcontract afsluiten. De dienst mag, uitzonderlijk, op basis van maximaal één woning per capaciteitsschijf van acht, eigen huisvesting ter beschikking stellen van meerderjarigen en ontvoogde minderjarigen die hij begeleidt. De dienst mag de bedoelde eigen huisvesting ter beschikking stellen gedurende een maximale termijn van twee maanden;<br />5° de minderjarigen staan zelf geheel of gedeeltelijk in voor hun onderhoud. Op grond daarvan wordt met hen een plan opgemaakt voor het beheer van hun budget;<br />6° het aantal begeleidingscontacten dat de dienst realiseert, bedraagt op weekbasis minimaal het equivalent van de erkende capaciteit van de dienst.
 
 ## [ONDERAFDELING G DIENSTEN VOOR PLEEGZORG (verv. B.V.R. 8 december 2000, art. 3)]
 
@@ -162,7 +162,15 @@ De diensten voor crisishulp aan huis moeten voldoen aan de volgende bijzondere v
 
 ## [AFDELING 4 BIJZONDERE ERKENNINGSVOORWAARDEN VOOR DE BEGELEIDINGSTEHUIZEN, VERMELD IN ARTIKEL 3, § 4 (ing. BVR 25 juni 2010, art. 6)]
 
+### ART. 20bis.
+
+De begeleidingstehuizen met een bijkomende erkenning als vermeld in artikel 3, § 4, moeten voldoen aan de volgende bijzondere voorwaarden :<br />1° het aantal capaciteitseenheden dat voorbehouden wordt om minderjarigen te begeleiden die uit een gemeenschapsinstelling komen bedraagt minimaal 4. Het jaarlijkse aantal op te nemen minderjarigen uit een gemeenschapsinstelling is minimaal gelijk aan 150 % van het aantal erkende capaciteitseenheden als vermeld in artikel 3 § 4;<br />2° een overeenkomst sluiten met de Vlaamse Gemeenschap, die vertegenwoordigd wordt door het intern verzelfstandigd agentschap Jongerenwelzijn. Die overeenkomst bevat minstens de volgende gegevens :<br />a) de wijze waarop de doelgroep wordt geselecteerd en gescreend;<br />b) de wijze waarop de gemeenschapsinstellingen worden geïnformeerd over een openstaande capaciteitseenheid als vermeld in artikel 3, § 4;<br />c) de te volgen procedure tijdens de aanmeldings- en beslissingsfase;<br />d) de wijze waarop een structurele beveiliging wordt uitgebouwd, inclusief de mogelijkheid tot een kortdurende heropname in de gemeenschapsinstelling;<br />e) de wijze waarop de samenwerkingsovereenkomst wordt geëvalueerd en bijgestuurd;<br />3° de begeleiding van de minderjarigen, vermeld in artikel 3, § 4, is gericht op een reïntegratie in hun context of op zelfstandig wonen.
+
 ## [AFDELING 5 BIJZONDERE ERKENNINGSVOORWAARDEN VOOR DE MULTIFUNCTIONELE CENTRA (ing. BVR 25 juni 2010, art. 6)]
+
+### ART. 20ter.
+
+De multifunctionele centra, vermeld in artikel 3, § 5, moeten voldoen aan de volgende voorwaarden :<br />1° de som van de capaciteitseenheden van de voorzieningen of van de afdelingen van de voorzieningen, vermeld in artikel 3, § 5, vormt de totaalcapaciteit van het multifunctionele centrum;<br />2° het aandeel residentiële plaatsen ten opzichte van het totale aantal plaatsen in het multifunctionele centrum bedraagt minimaal dertig en maximaal zeventig procent;<br />3° het multifunctionele centrum werkt overeenkomstig de standaarden van een multifunctioneel centrum, opgenomen in bijlage 8, die bij dit besluit is gevoegd;<br />4° tussen de Vlaamse Gemeenschap, die vertegenwoordigd wordt door het intern verzelfstandigd agentschap Jongerenwelzijn, en het multifunctionele centrum wordt een overeenkomst gesloten waarin de doelgroep en actieradius van het multifunctionele centrum worden beschreven. Het multifunctionele centrum mag binnen die omschrijving geen mobiele begeleiding weigeren om een andere reden dan de uitputting van zijn erkende capaciteit;<br />5° de algemene en bijzondere erkenningsvoorwaarden die van toepassing zijn op de voorzieningen van categorie 1, 4 en 5, vermeld in respectievelijk artikel 4, 7 en 8, blijven van toepassing op de voorzieningen of afdelingen van voorzieningen met een multifunctioneel karakter, met uitzondering van de bijzondere erkenningsvoorwaarden, vermeld in artikel 13, 2° en artikel 17, 2° en 3°.
 
 ## [HOOFDSTUK III ERKENNINGSPROCEDURE EN TOEZICHT OP DE NALEVING VAN DE ERKENNINGSVOORWAARDEN (verv. B.V.R. 8 december 1998, art. 2)]
 
@@ -178,11 +186,11 @@ De diensten voor crisishulp aan huis moeten voldoen aan de volgende bijzondere v
 
 ### ART. 23.
 
-Een aanvraag tot erkenning van een voorziening of tot verlenging ervan is alleen ontvankelijk:<br />1° als de inrichtende macht die aanvraag bij de administratie indient bij aangetekende brief met ontvangstmelding;<br />2° als de aanvraag past binnen de door de Vlaamse minister vastgestelde programmatienormen genoemd in artikel 24;<br />3° als de aanvraag de volgende gegevens bevat:<br />a) de identiteit van de inrichtende macht;<br />b) de categorieën waarvoor de erkenning wordt gevraagd;<br />c) de verschillende afdelingen waaruit de voorziening zal bestaan;<br />d) voor de voorzieningen van de categorieën 1 tot en met 6 : het maximumaantal minderjarigen dat de voorziening per afdeling zal opnemen of begeleiden;<br />e) het pedagogische profiel van elke afdeling;<br />f) voor de voorzieningen van de categorieën 1 tot 4: de leeftijdscategorieën en het geslacht van de minderjarigen voor wie de erkenning wordt gevraagd;<br />g) voor de voorzieningen van de categorieën 1 en 2 die minderjarigen wensen te begeleiden die zelfstandig wonen: het maximumaantal minderjarigen dat de voorziening zal begeleiden;<br />h) voor de voorzieningen van categorie 1 die tot de uitputting van hun capaciteit uitsluitend minderjarigen wensen op te nemen vanaf de leeftijd van twaalf jaar: het maximumaantal minderjarigen en het geslacht van de minderjarigen voor wie de erkenning wordt gevraagd;<br />i) voor de voorzieningen van categorie 9 : het aantal begeleidingen dat de voorziening op jaarbasis zal verrichten.
+Een aanvraag tot erkenning van een voorziening of tot verlenging ervan is alleen ontvankelijk:<br />1° als de inrichtende macht die aanvraag bij de administratie indient bij aangetekende brief met ontvangstmelding;<br />2° als de aanvraag past binnen de door de Vlaamse minister vastgestelde programmatienormen genoemd in artikel 24;<br />3° als de aanvraag de volgende gegevens bevat:<br />a) de identiteit van de inrichtende macht;<br />b) de categorieën waarvoor de erkenning wordt gevraagd;<br />c) de verschillende afdelingen waaruit de voorziening zal bestaan;<br />d) voor de voorzieningen van de categorieën 1 tot en met 6 : het maximumaantal minderjarigen dat de voorziening per afdeling zal opnemen of begeleiden;<br />e) het pedagogische profiel van elke afdeling;<br />f) voor de voorzieningen van de categorieën 1 tot 4: de leeftijdscategorieën en het geslacht van de minderjarigen voor wie de erkenning wordt gevraagd;<br />g) voor de voorzieningen van de categorieën 1 en 2 die minderjarigen wensen te begeleiden die zelfstandig wonen: het maximumaantal minderjarigen dat de voorziening zal begeleiden;<br />h) voor de voorzieningen van categorie 1 die tot de uitputting van hun capaciteit uitsluitend minderjarigen wensen op te nemen vanaf de leeftijd van twaalf jaar: het maximumaantal minderjarigen en het geslacht van de minderjarigen voor wie de erkenning wordt gevraagd;<br />i) voor de voorzieningen van categorie 9 : het aantal begeleidingen dat de voorziening op jaarbasis zal verrichten;<br />j) voor de voorzieningen van categorie 1 die een bijkomende erkenning willen als vermeld in artikel 3, § 4 : het aantal capaciteitseenheden en het geslacht van de minderjarigen, waarvoor de bijkomende erkenning wordt gevraagd;<br />k) voor de voorzieningen of de afdelingen van voorzieningen van de categorie 1, 4 of 5 die een wijziging van erkenning willen als respectievelijk een voorziening of een afdeling van een voorziening van categorie 1, 4 of 5 met een multifunctioneel karakter : het aantal capaciteitseenheden van de voorzieningen of van de afdelingen van voorzieningen waarvoor de wijziging van erkenning wordt gevraagd.
 
 ### ART. 24.
 
-§ 1. De Vlaamse minister kan voor de categorieën 1 tot en met 6 geen erkenning verlenen boven de totaal erkende capaciteit van 4848.<br /><br />De Vlaamse minister legt de verdeling van 4648 eenheden over de regio's vast in een programmatie. Voor die verdeling is:<br />1° één plaats in een voorziening van categorie 1, 2 of 3 gelijk aan één eenheid;<br />2° één plaats in een voorziening van categorie 4 gelijk aan twee derden van een eenheid;<br />3° één begeleiding door een voorziening van categorie 5 of 6 gelijk aan een derde van een eenheid.<br /><br />Onverminderd de bepalingen van het tweede lid kan erkende capaciteit van een voorziening van categorie 1, 2 of 3 omgezet worden in erkende capaciteit van een voorziening van categorie 4, 5 of 6, als die omzetting geen extra financiële lasten met zich brengt voor de begroting van de Vlaamse Gemeenschap. <br /><br />§ 2. Per gerechtelijk arrondissement wordt één dienst voor herstelgerichte en constructieve afhandeling erkend en gesubsidieerd. De Vlaamse minister kan daarvan afwijken vanwege de grootte van het arrondissement of het aantal dossiers.
+§ 1. De Vlaamse minister kan voor de categorieën 1 tot en met 6 geen erkenning verlenen boven de totaal erkende capaciteit van 6000.<br /><br />De Vlaamse minister legt de verdeling van 6000 eenheden over de regio's vast in een programmatie. Voor die verdeling is:<br />1° één plaats in een voorziening van categorie 1, 2 of 3 gelijk aan één eenheid;<br />2° één plaats in een voorziening van categorie 4 gelijk aan twee derden van een eenheid;<br />3° één begeleiding door een voorziening van categorie 5 of 6 gelijk aan een derde van een eenheid.<br /><br />Onverminderd de bepalingen van het tweede lid kan erkende capaciteit van een voorziening van categorie 1, 2 of 3 omgezet worden in erkende capaciteit van een voorziening van categorie 4, 5 of 6, als die omzetting geen extra financiële lasten met zich brengt voor de begroting van de Vlaamse Gemeenschap. <br /><br />§ 2. Per gerechtelijk arrondissement wordt één dienst voor herstelgerichte en constructieve afhandeling erkend en gesubsidieerd. De Vlaamse minister kan daarvan afwijken vanwege de grootte van het arrondissement of het aantal dossiers.
 
 ### ART. 25.
 
@@ -208,7 +216,7 @@ Als de Vlaamse minister of de administrateur-generaal de erkenning of de verleng
 
 ### ART. 26quinquies.
 
-Artikel 22 tot en met 26quater zijn van overeenkomstige toepassing voor het wijzigen van de categorie, de capaciteit, de leeftijd en het geslacht van de doelgroep, alsook voor een verhuizing van de voorziening of een afdeling ervan naar een ander bestuurlijk arrondissement.  <span class="reference">(ing. B.V.R. 8 december 1998, art. 2, I: 1 januari 1999)</span> ]
+Artikel 22 tot en met 26quater zijn van overeenkomstige toepassing voor het wijzigen van de categorie, de capaciteit, de leeftijd en het geslacht van de doelgroep, alsook voor een verhuizing van de voorziening of een afdeling ervan naar een ander bestuurlijk arrondissement.<br /><br />Artikel 22 tot en met 26quater zijn ook van overeenkomstige toepassing voor het wijzigen van de erkenning van voorzieningen of afdelingen van een voorziening als voorziening of afdeling van een voorziening met een multifunctioneel karakter, en de erkenning van de combinatie van die voorzieningen of afdelingen van voorzieningen als multifunctioneel centrum, vermeld in artikel 3, § 5.
 
 ### ART. 26sexies.
 
@@ -292,7 +300,7 @@ Voor het berekenen van de subsidieerbare personeelskosten, overeenkomstig de art
 
 ### ART. 39.
 
-§ 1. Om de uitgaven te vergoeden met betrekking tot het verblijf van de minderjarigen die zelfstandig wonen, evenals voor het verblijf van de minderjarigen in een voorziening van categorie 1 tot 4, of in een pleeggezin, worden aan de voorzieningen van de categorieën 1 tot 4, 6 en 7 per minderjarige en per dag subsidies toegekend overeenkomstig de tarieven bepaald in bijlage 3 bij dit besluit.<br /><br />Er wordt slechts één dag aangerekend voor de dag van de opname en de dag van het ontslag: hij wordt bestempeld als dag van de opname. De Vlaamse minister kan bepaalde dagen afwezigheid met werkelijke aanwezigheid gelijkstellen.<br /><br />§ 2. De subsidies voorzien in § 1 worden niet uitbetaald voor de personen die zelfstandig wonen, tenzij na uitputting van de procedure waaruit blijkt dat de betrokkene geen recht heeft op het bestaansminimum en niet over voldoende eigen inkomsten beschikt. De Vlaamse minister bepaalt de wijze waarop aan de voorziening voorschotten worden verleend gedurende de tijd dat de procedure loopt.<br /><br />De subsidies, vermeld in §1, die uitbetaald worden voor de personen, vermeld in artikel 1, punt 3°, b), die zelfstandig wonen, worden verminderd met de eigen inkomsten waarover de betrokkene beschikt. Voor inkomsten uit arbeid geldt op die vermindering een vrijstelling als vermeld in artikel 35, §1, van het koninklijk besluit van 11 juli 2002 houdende het algemeen reglement betreffende het recht op maatschappelijke integratie. <br /><br />§ 3. De in § 1 bedoelde subsidies die toegekend worden aan de voorzieningen van categorie 7 kunnen, in uitzonderlijke omstandigheden en bij beslissing van de administrateur-generaal, rechtstreeks worden uitbetaald aan het pleeggezin.<br /><br />§ 4. Behalve in het geval bedoeld in artikel 19, 4°, a) en b) kunnen de subsidies bedoeld in § 1 noch aan een voorziening van categorie 7, noch aan een pleeggezin worden toegekend indien meer dan vier personen in het pleeggezin worden opgenomen tegen vergoeding, al dan niet ten laste van de openbare besturen.<br /><br />§ 5. Op naam van elke minderjarige, geplaatst in een voorziening van categorie 7 en in een pleeggezin als vermeld in artikel 39, § 3, wordt een spaarboekje geopend. Maandelijks wordt daarop een bedrag van 62,39 euro gestort. Dat bedrag is gekoppeld aan de spilindex die van kracht is op 1 januari 2009. Tijdens de minderjarigheid van de betrokkenen kunnen de bedragen die op het spaarboekje zijn ingeschreven, niet worden afgehaald zonder de uitdrukkelijke machtiging van de plaatsende instantie.
+§ 1. Om de uitgaven te vergoeden met betrekking tot het verblijf van de minderjarigen die zelfstandig wonen, evenals voor het verblijf van de minderjarigen in een voorziening van categorie 1 tot 4, of in een pleeggezin, worden aan de voorzieningen van de categorieën 1 tot 4, 6 en 7 per minderjarige en per dag subsidies toegekend overeenkomstig de tarieven bepaald in bijlage 3 bij dit besluit.<br /><br />De voorzieningen van categorie 7 ontvangen, overeenkomstig het tarief, vermeld in bijlage 3, die bij dit besluit is gevoegd, per gerealiseerde begeleidingsdag een forfaitaire subsidie om desgevallend noodzakelijke medische en paramedische verzorgingen en andere kosten gericht op herstel of het behoud van de psychische en fysische integriteit van de minderjarigen die ze begeleiden, te vergoeden. De voorzieningen beheren het totaal van die subsidie op basis van de reële behoeften van de door hen begeleide minderjarigen. <br /><br />Er wordt slechts één dag aangerekend voor de dag van de opname en de dag van het ontslag: hij wordt bestempeld als dag van de opname. De Vlaamse minister kan bepaalde dagen afwezigheid met werkelijke aanwezigheid gelijkstellen.<br /><br />§ 2. De subsidies voorzien in § 1 worden niet uitbetaald voor de personen die zelfstandig wonen, tenzij na uitputting van de procedure waaruit blijkt dat de betrokkene geen recht heeft op het bestaansminimum en niet over voldoende eigen inkomsten beschikt. De Vlaamse minister bepaalt de wijze waarop aan de voorziening voorschotten worden verleend gedurende de tijd dat de procedure loopt.<br /><br />De subsidies, vermeld in §1, die uitbetaald worden voor de personen, vermeld in artikel 1, punt 3°, b), die zelfstandig wonen, worden verminderd met de eigen inkomsten waarover de betrokkene beschikt. Voor inkomsten uit arbeid geldt op die vermindering een vrijstelling als vermeld in artikel 35, §1, van het koninklijk besluit van 11 juli 2002 houdende het algemeen reglement betreffende het recht op maatschappelijke integratie. <br /><br />§ 3. De in § 1 bedoelde subsidies die toegekend worden aan de voorzieningen van categorie 7 kunnen, in uitzonderlijke omstandigheden en bij beslissing van de administrateur-generaal, rechtstreeks worden uitbetaald aan het pleeggezin.<br /><br />§ 4. Behalve in het geval bedoeld in artikel 19, 4°, a) en b) kunnen de subsidies bedoeld in § 1 noch aan een voorziening van categorie 7, noch aan een pleeggezin worden toegekend indien meer dan vier personen in het pleeggezin worden opgenomen tegen vergoeding, al dan niet ten laste van de openbare besturen.<br /><br />§ 5. Op naam van elke minderjarige, geplaatst in een voorziening van categorie 7 en in een pleeggezin als vermeld in artikel 39, § 3, wordt een spaarboekje geopend. Maandelijks wordt daarop een bedrag van 62,39 euro gestort. Dat bedrag is gekoppeld aan de spilindex die van kracht is op 1 januari 2009. Tijdens de minderjarigheid van de betrokkenen kunnen de bedragen die op het spaarboekje zijn ingeschreven, niet worden afgehaald zonder de uitdrukkelijke machtiging van de plaatsende instantie.
 
 ### ART. 40.
 
@@ -308,7 +316,7 @@ Aan de voorzieningen van de categorieën 1 tot 3 en 7 en aan de pleeggezinnen be
 
 ### ART. 42.
 
-§ 1. Aan de voorzieningen van de categorieën 1 tot 3 en 7 en aan de pleeggezinnen bedoeld in artikel 39, § 3, kunnen subsidies worden toegekend om bijzondere kosten te vergoeden, met betrekking tot:<br /><br />1° de inschrijving van minderjarigen bij een ziekenfonds of bij een gewestelijke dienst van de Hulpkas voor ziekte- en invaliditeitsverzekering;<br /><br />2° de aan de minderjarigen verstrekte buitengewone medische en paramedische verzorgingen, zoals nader bepaald door de Vlaamse minister.<br /><br />§ 2. Aan de voorzieningen van categorie 3 kunnen, onder de voorwaarden bepaald in artikel 44 eveneens subsidies worden toegekend om de kosten te vergoeden voor het herstellen van schade veroorzaakt door minderjarigen in crisissituatie.<br /><br />§ 3. De Vlaamse minister kan in uitzonderlijke omstandigheden, met het oog op het behoud of het herstellen van de fysieke of psychische integriteit van de betrokken minderjarige, aan de voorzieningen van de categorieën 1 tot 3 en 7 en aan de pleeggezinnen bedoeld in artikel 39, § 3, subsidies verlenen voor bijzondere uitgaven waarin de vorige paragrafen niet hebben voorzien.<br /><br />§ 4. Geen enkele subsidie voor bijzondere kosten kan worden verleend:<br /><br />1° als een natuurlijk of rechtspersoon, wettelijk-, bij overeenkomst of ingevolge een rechterlijke beslissing tot de betaling of de terugbetaling van die kosten is gehouden;<br /><br />2° als de kosten het gevolg zijn van een fout, nalatigheid of onvoorzichtigheid van een personeelslid van de voorziening of van het pleeggezin.
+§ 1. Aan de voorzieningen van de categorieën 1 tot en met 3 en 7, en aan de pleeggezinnen vermeld in artikel 39, § 3, kunnen subsidies worden toegekend om bijzondere kosten te vergoeden met betrekking tot de aan de minderjarigen verstrekte buitengewone medische en paramedische verzorging. <br /><br />§ 2. Aan de voorzieningen van categorie 3 kunnen, onder de voorwaarden bepaald in artikel 44 eveneens subsidies worden toegekend om de kosten te vergoeden voor het herstellen van schade veroorzaakt door minderjarigen in crisissituatie.<br /><br />§ 3. De Vlaamse minister kan in uitzonderlijke omstandigheden, met het oog op het behoud of het herstellen van de fysieke of psychische integriteit van de betrokken minderjarige, aan de voorzieningen van de categorieën 1 tot 3 en 7 en aan de pleeggezinnen bedoeld in artikel 39, § 3, subsidies verlenen voor bijzondere uitgaven waarin de vorige paragrafen niet hebben voorzien.<br /><br />§ 4. Geen enkele subsidie voor bijzondere kosten kan worden verleend:<br />1° als een natuurlijk of rechtspersoon, wettelijk-, bij overeenkomst of ingevolge een rechterlijke beslissing tot de betaling of de terugbetaling van die kosten is gehouden;<br />2° als de kosten het gevolg zijn van een fout, nalatigheid of onvoorzichtigheid van een personeelslid van de voorziening of van het pleeggezin.<br /><br />§ 5. Voor elke aanvraag van een subsidie voor bijzondere kosten geldt een vrijstelling van 1000 euro. Dat bedrag is gekoppeld aan de spilindex die van kracht was op 1 januari 2009.
 
 ### ART. 43.
 
@@ -320,11 +328,27 @@ Voor elk schadegeval bedoeld in artikel 42, § 2 moeten de navolgende documenten
 
 ### ART. 45.
 
-De voorziening die een subsidie wenst te krijgen voor bijzondere kosten richt daartoe een gemotiveerde aanvraag aan de verwijzende instantie. Deze zendt de aanvraag met haar advies ter beslissing van de administrateur-generaal door naar de administratie. <br /><br />De bijzondere kosten worden slechts betaald of terugbetaald na voorlegging van een factuur of een ander verantwoordingsstuk.
+De voorziening die een subsidie wil krijgen voor bijzondere kosten zendt daartoe een gemotiveerde aanvraag, met een advies van de verwijzende instantie, naar de administratie die de aanvraag ter beslissing voorlegt aan de administrateur-generaal.<br /><br />De bijzondere kosten worden pas betaald of terugbetaald nadat een factuur of een ander verantwoordingsstuk is voorgelegd.
 
 ## [AFDELING 5BIS SUBSIDIES VOOR BIJKOMENDE ERKENNINGEN (ing. BVR 25 juni 2010, art. 13)]
 
+### ART. 45bis.
+
+De voorzieningen van categorie 1, vermeld in artikel 3, § 4, ontvangen per capaciteitseenheid die vrijgehouden wordt om uitsluitend minderjarigen te begeleiden die uit een gemeenschapsinstelling komen, een forfaitair bedrag van 11.127 euro op jaarbasis. Dat bedrag is gekoppeld aan de spilindex die van kracht was op 1 januari 2009.
+
 ## [AFDELING 5TER SUBSIDIES VOOR DE MULTIFUNCTIONELE CENTRA (ing. BVR 25 juni 2010, art. 13)]
+
+### ART. 45ter.
+
+Artikel 38 en 39, § 1, zijn niet van toepassing op de multifunctionele centra, vermeld in artikel 3, § 5.
+
+### ART. 45quater.
+
+Het wijzigen van een erkenning naar een erkenning als voorziening of afdeling van een voorziening met multifunctioneel karakter en de erkenning als multifunctioneel centrum hebben geen impact op de toepassing van artikel 30 en artikel 41.
+
+### ART. 45quinquies.
+
+Om de uitgaven te vergoeden voor het verblijf van minderjarigen in een multifunctioneel centrum als vermeld in artikel 3, § 5, ontvangt het multifunctionele centrum een forfaitaire subsidie.<br /><br />Per capaciteitseenheid van een voorziening van categorie 1 met multifunctioneel karakter ontvangt het multifunctionele centrum 4332,99 euro op jaarbasis. Voor voorzieningen van categorie 1 met multifunctioneel karakter die erkend zijn om enkel +12-jarigen te begeleiden, wordt dat forfaitaire bedrag vermeerderd met 348,14 euro per capaciteitseenheid per jaar.<br /><br />Per capaciteitseenheid van een voorziening van categorie 4 met multifunctioneel karakter ontvangt het multifunctionele centrum 1397,40 euro op jaarbasis.<br /><br />De totale forfaitaire subsidie moet worden aangewend voor de uitgaven met betrekking tot het verblijf van de minderjarigen in het multifunctionele centrum.<br /><br />De bedragen, vermeld in het tweede tot en met het derde lid, zijn gekoppeld aan de spilindex die van kracht was op 1 januari 2009.
 
 ## AFDELING 6 BIJZONDERE BEPALINGEN
 
@@ -414,7 +438,7 @@ Personeelsleden van de Vlaamse Gemeenschap, ter beschikking gesteld van het fond
 
 ### ART. 55.
 
-§ 1. De residentiële voorzieningen bedoeld in artikel 54, § 1, 3° en 5° krijgen, per minderjarige en per dag dat deze in de voorziening verblijft, forfaitaire subsidies overeenkomstig het tarief bepaald in bijlage 3 bij dit besluit. Voor deze voorzieningen kunnen subsidies om bijzondere kosten te vergoeden toegekend worden overeenkomstig artikel 42, § 1, § 3 en § 4, artikel 43 en artikel 45.<br /><br />De Vlaamse minister kan subsidies verlenen aan de voorzieningen vermeld in het eerste lid om aan de minderjarigen zakgeld te betalen overeenkomstig artikel 40.<br /><br />§ 2. De artikelen 27, 29, § 1, 39, § 1, 50 en 51 zijn van overeenkomstige toepassing.<br /><br />§ 3. Er worden geen subsidies toegekend, indien er reeds door andere instanties wordt gesubsidieerd of overheidskredieten ter beschikking worden gesteld voor het onderhoud van de minderjarigen.<br /><br />Deze beperking geldt niet voor de psychiatrische ziekenhuisdiensten voor wat betreft de toepassing van de artikelen 40, 42, 43 en 45.
+§ 1. De residentiële voorzieningen, vermeld in artikel 54, § 1, 3° en 5°, kunnen, nadat ze een factuur of ander verantwoordingsstuk hebben voorgelegd, per minderjarige subsidies ontvangen voor de noodzakelijke kosten die verbonden zijn aan het verblijf, met een maximum per dag overeenkomstig het tarief vermeld in bijlage 3, die bij dit besluit is gevoegd.<br /><br />De Vlaamse minister kan subsidies verlenen aan de voorzieningen, vermeld in het eerste lid, om aan de minderjarigen zakgeld te betalen overeenkomstig artikel 40.<br /><br />§ 2. Artikel 27, 29, § 1, artikel 50 en 51, zijn van overeenkomstige toepassing.<br /><br />§ 3. Er worden geen subsidies toegekend als er al door andere instanties wordt gesubsidieerd of als overheidskredieten ter beschikking worden gesteld voor het onderhoud van de minderjarigen.<br /><br />De beperking, vermeld in het eerste lid, geldt niet voor de psychiatrische ziekenhuizen.
 
 ### ART. 56.
 
@@ -464,7 +488,7 @@ De diensten voor herstelgerichte en constructieve afhandeling die in 2008 een su
 
 ### ART. 67.
 
-Dit besluit treedt in werking op 1 januari 1995.
+Dit besluit treedt in werking op 1 januari 1995.<br /><br />Artikel 1, 38°, 39° en 40°, artikel 3, § 5, artikel 20ter, 23, 3°, k), artikel 26quinquies, tweede lid, artikel 26nonies, tweede lid, artikel 45 ter , 45quater en 45quinquies, houden op uitwerking te hebben op 31 december 2012.
 
 ### ART. 68.
 
@@ -848,276 +872,196 @@ A. Directiepersoneel<br>
 
 ### BIJLAGE 2.
 
-MAXIMALE PERSONEELSBEZETTING DIE IN AANMERKING KOMT VOOR HET SUBSIDIËREN VAN DE PERSONEELSKOSTEN<br>
-A. Directiepersoneel
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<br>
+A. Directiepersoneel<br>
+
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:90.25pt">
+			<td style="width:105.6pt">
 			<p>Voorziening</p>
 			</td>
-			<td colspan="3" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:102.5pt">
+			<td colspan="3" style="width:74.1pt">
 			<p>Categorie 1</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:90.85pt">
+			<td style="width:37.8pt">
 			<p>Categorie 2</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:91.15pt">
+			<td style="width:41.0pt">
 			<p>Categorie 3</p>
 			</td>
-			<td colspan="2" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:89.65pt">
+			<td colspan="2" style="width:56.05pt">
 			<p>Categorie 4</p>
 			</td>
-		</tr>
-		<tr>
-			<td colspan="3" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:102.5pt">
-			<p>Begeleidingstehuizen</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
-			<p>Gezinstehuizen</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
-			<p>Onthaal-, oriëntatie- en observatiecentra</p>
-			</td>
-			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:89.65pt">
-			<p>Dagcentra</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:90.25pt">
-			<p>capaciteit</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:32.0pt">
-			<p>10 tot 12</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:35.25pt">
-			<p>Vanaf 13</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:35.25pt">
-			<p>Vanaf 76</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
-			<p>5 tot 10</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
-			<p>8 tot 24</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:44.8pt">
-			<p>10</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:44.85pt">
-			<p>20</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:90.25pt">
-			<p>Verantwoordelijke (begrepen binnen het maximum aantal begeleiders)</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:32.0pt">
-			<p>1</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:35.25pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:35.25pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:44.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:44.85pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:90.25pt">
-			<p>Directeur/verantwoordelijk</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:32.0pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:35.25pt">
-			<p>1</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:35.25pt">
-			<p>1</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
-			<p>1</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:44.8pt">
-			<p>0,5</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:44.85pt">
-			<p>1</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:90.25pt">
-			<p>Onderdirecteur</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:32.0pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:35.25pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:35.25pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:44.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:44.85pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:119.65pt">
-			<p>Voorziening</p>
-			</td>
-			<td colspan="2" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:90.0pt">
+			<td colspan="2" style="width:46.2pt">
 			<p>Categorie 5</p>
 			</td>
-			<td colspan="2" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:90.0pt">
+			<td colspan="2" style="width:46.7pt">
 			<p>Categorie 6</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:99.0pt">
+			<td style="width:38.65pt">
 			<p>Categorie 7</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
-			<p>Thuisbegeleidingsdiensten</p>
+			<td style="width:105.6pt">&nbsp;</td>
+			<td colspan="3" style="width:74.1pt">
+			<p>Begeleidingstehuizen</p>
 			</td>
-			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
+			<td style="width:37.8pt">
+			<p>Gezins-<br>
+			tehuizen</p>
+			</td>
+			<td style="width:41.0pt">
+			<p>Onthaal-, oriëntatie- en observatiecentra</p>
+			</td>
+			<td colspan="2" style="width:56.05pt">
+			<p>Dagcentra</p>
+			</td>
+			<td colspan="2" style="width:46.2pt">
+			<p>Thuis-<br>
+			begeleidings-<br>
+			diensten</p>
+			</td>
+			<td colspan="2" style="width:46.7pt">
 			<p>Diensten voor begeleid zelfstandig wonen</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
+			<td style="width:38.65pt">
 			<p>Diensten voor pleegzorg</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
-			<p>capaciteit</p>
+			<td style="width:105.6pt">
+			<p>Capaciteit</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<td style="width:18.9pt">
+			<p>10 tot 12</p>
+			</td>
+			<td style="width:26.75pt">
+			<p>vanaf 13</p>
+			</td>
+			<td style="width:25.45pt">
+			<p>vanaf 76</p>
+			</td>
+			<td style="width:37.8pt">
+			<p>5 tot 10</p>
+			</td>
+			<td style="width:41.0pt">
+			<p>8 tot 24</p>
+			</td>
+			<td style="width:38.8pt">
+			<p>10</p>
+			</td>
+			<td style="width:15.75pt">
+			<p>20</p>
+			</td>
+			<td style="width:14.95pt">
 			<p>16</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
-			<p>32</p>
+			<td style="width:29.75pt">
+			<p>vanaf 32</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<td style="width:15.35pt">
 			<p>16</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
-			<p>32</p>
+			<td style="width:29.85pt">
+			<p>vanaf 32</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
-			<p>Vanaf 36</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
-			<p>Verantwoordelijke (begrepen binnen het maximum aantal begeleiders)</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
-			<p>&nbsp;</p>
+			<td style="width:38.65pt">
+			<p>vanaf 36</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
-			<p>Directeur/verantwoordelijk</p>
+			<td style="width:105.6pt">&nbsp;</td>
+			<td style="width:18.9pt">&nbsp;</td>
+			<td style="width:26.75pt">&nbsp;</td>
+			<td style="width:25.45pt">&nbsp;</td>
+			<td style="width:37.8pt">&nbsp;</td>
+			<td style="width:41.0pt">&nbsp;</td>
+			<td style="width:38.8pt">&nbsp;</td>
+			<td style="width:15.75pt">&nbsp;</td>
+			<td style="width:14.95pt">&nbsp;</td>
+			<td style="width:29.75pt">&nbsp;</td>
+			<td style="width:15.35pt">&nbsp;</td>
+			<td style="width:29.85pt">&nbsp;</td>
+			<td style="width:38.65pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:105.6pt">
+			<p>Verantwoordelijke (begrepen binnen het maximum- aantal begeleiders)</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<td style="width:18.9pt">
+			<p>1</p>
+			</td>
+			<td style="width:26.75pt">&nbsp;</td>
+			<td style="width:25.45pt">&nbsp;</td>
+			<td style="width:37.8pt">
+			<p>1</p>
+			</td>
+			<td style="width:41.0pt">&nbsp;</td>
+			<td style="width:38.8pt">&nbsp;</td>
+			<td style="width:15.75pt">&nbsp;</td>
+			<td style="width:14.95pt">&nbsp;</td>
+			<td style="width:29.75pt">&nbsp;</td>
+			<td style="width:15.35pt">&nbsp;</td>
+			<td style="width:29.85pt">&nbsp;</td>
+			<td style="width:38.65pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width:105.6pt">
+			<p>Directeur/verantwoordelijke</p>
+			</td>
+			<td style="width:18.9pt">&nbsp;</td>
+			<td style="width:26.75pt">
+			<p>1</p>
+			</td>
+			<td style="width:25.45pt">
+			<p>1</p>
+			</td>
+			<td style="width:37.8pt">&nbsp;</td>
+			<td style="width:41.0pt">
+			<p>1</p>
+			</td>
+			<td style="width:38.8pt">
 			<p>0,5</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<td style="width:15.75pt">
 			<p>1</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<td style="width:14.95pt">
 			<p>0,5</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
+			<td style="width:29.75pt">
 			<p>1</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
+			<td style="width:15.35pt">
+			<p>0,5</p>
+			</td>
+			<td style="width:29.85pt">
+			<p>1</p>
+			</td>
+			<td style="width:38.65pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
+			<td style="width:105.6pt">
 			<p>Onderdirecteur</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
-			<p>&nbsp;</p>
+			<td style="width:18.9pt">&nbsp;</td>
+			<td style="width:26.75pt">&nbsp;</td>
+			<td style="width:25.45pt">
+			<p>1</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:45.0pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:37.8pt">&nbsp;</td>
+			<td style="width:41.0pt">&nbsp;</td>
+			<td style="width:38.8pt">&nbsp;</td>
+			<td style="width:15.75pt">&nbsp;</td>
+			<td style="width:14.95pt">&nbsp;</td>
+			<td style="width:29.75pt">&nbsp;</td>
+			<td style="width:15.35pt">&nbsp;</td>
+			<td style="width:29.85pt">&nbsp;</td>
+			<td style="width:38.65pt">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
@@ -1126,252 +1070,186 @@ A. Directiepersoneel
 <br>
 <br>
 B. Begeleidend personeel<br>
-<br>
-Voorziening
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:90.25pt">
+			<td>
 			<p>Voorziening</p>
 			</td>
-			<td colspan="2" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:131.1pt">
+			<td colspan="2" style="width:86.55pt">
 			<p>Categorie 1</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:90.85pt">
+			<td style="width:55.05pt">
 			<p>Categorie 2</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:91.15pt">
+			<td>
 			<p>Categorie 3</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:89.65pt">
+			<td>
 			<p>Categorie 4</p>
 			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:131.1pt">
-			<p>Begeleidingstehuizen</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
-			<p>Gezinstehuizen</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
-			<p>Onthaal-, oriëntatie- en observatiecentra</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:89.65pt">
-			<p>Dagcentra</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:90.25pt">
-			<p>capaciteit</p>
-			</td>
-			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:131.1pt">
-			<p>10 tot 90</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
-			<p>5 tot 10</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
-			<p>8 tot 24</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:89.65pt">
-			<p>10 tot 20</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:90.25pt">
-			<p>Eerste begeleiders</p>
-			</td>
-			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:131.1pt">
-			<p>1 per 30</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:89.65pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:90.25pt">
-			<p>Hoofdbegeleiders (begrepen in het totale aantal begeleiders)</p>
-			</td>
-			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:131.1pt">
-			<p>1 per 10</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
-			<p>1 per 8</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:89.65pt">
-			<p>1 per 10</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:90.25pt">
-			<p>begeleiders</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:65.55pt">
-			<p>Begeleidings-tehuizen</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:65.55pt">
-			<p>Begeleidings-</p>
-
-			<p>tehuizen,</p>
-
-			<p>vermeld</p>
-
-			<p>in art. 23,</p>
-
-			<p>3°, h)</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:89.65pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:90.25pt">
-			<p>Basis aanvullend</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:65.55pt">
-			<p>1 per 2,5</p>
-
-			<p>1 per 10</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:65.55pt">
-			<p>1 per 2,5</p>
-
-			<p>1,5 per 10</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.85pt">
-			<p>1 per 2,5</p>
-
-			<p>0,5 per 10</p>
-
-			<p>0,5</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:91.15pt">
-			<p>0,5 per 1</p>
-
-			<p>0,5 per 8</p>
-
-			<p>0,5 per 10</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:89.65pt">
-			<p>2 per 5</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:119.65pt">
-			<p>Voorziening</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:119.55pt">
+			<td>
 			<p>Categorie 5</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:90.0pt">
+			<td>
 			<p>Categorie 6</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:99.0pt">
+			<td>
 			<p>Categorie 7</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:119.55pt">
-			<p>Thuisbegeleidingsdiensten</p>
+			<td>&nbsp;</td>
+			<td colspan="2" style="width:86.55pt">
+			<p>Begeleidingstehuizen</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
+			<td style="width:55.05pt">
+			<p>Gezins-<br>
+			tehuizen</p>
+			</td>
+			<td>
+			<p>Onthaal-, oriëntatie- en observatiecentra</p>
+			</td>
+			<td>
+			<p>Dagcentra</p>
+			</td>
+			<td>
+			<p>Thuis-<br>
+			begeleidings-<br>
+			diensten</p>
+			</td>
+			<td>
 			<p>Diensten voor begeleid zelfstandig wonen</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
+			<td>
 			<p>Diensten voor pleegzorg</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
-			<p>capaciteit</p>
+			<td>
+			<p>Capaciteit</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:119.55pt">
-			<p>16 tot 32</p>
+			<td colspan="2" style="width:86.55pt">
+			<p>10 tot 90</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
-			<p>16 tot 32</p>
+			<td style="width:55.05pt">
+			<p>5 tot 10</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
-			<p>Vanaf 36</p>
+			<td>
+			<p>8 tot 24</p>
+			</td>
+			<td>
+			<p>10 tot 20</p>
+			</td>
+			<td>
+			<p>vanaf 16 tot 32</p>
+			</td>
+			<td>
+			<p>vanaf 16 tot 32</p>
+			</td>
+			<td>
+			<p>vanaf 36</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
+			<td>
 			<p>Eerste begeleiders</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:119.55pt">
-			<p>&nbsp;</p>
+			<td colspan="2" style="width:86.55pt">
+			<p>1 per 30</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:55.05pt">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
+			<td>
 			<p>Hoofdbegeleiders (begrepen in het totale aantal begeleiders)</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:119.55pt">
-			<p>1 per 16</p>
+			<td colspan="2" style="width:86.55pt">
+			<p>1 per 10</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
-			<p>1 per 16</p>
+			<td style="width:55.05pt">&nbsp;</td>
+			<td>
+			<p>1 per 8</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
+			<td>
+			<p>1 per 10</p>
+			</td>
+			<td>
+			<p>1 per 16 tot capaciteit 32</p>
+			</td>
+			<td>
+			<p>1 per 16 tot capaciteit 32</p>
+			</td>
+			<td>
 			<p>1 per 75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
-			<p>begeleiders</p>
+			<td>
+			<p>Begeleiders</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:119.55pt">
-			<p>&nbsp;</p>
+			<td>
+			<p><br>
+			Begeleidings-<br>
+			tehuizen</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
-			<p>&nbsp;</p>
+			<td style="width:37.6pt">
+			<p>Begeleidings-<br>
+			tehuizen, als vermeld in artikel23, 3°, h)</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:55.05pt">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:119.65pt">
-			<p>Basis aanvullend</p>
+			<td>
+			<p>Basis<br>
+			Bijkomend</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:119.55pt">
-			<p>0,5 per 4</p>
+			<td>
+			<p>1 per 2,5<br>
+			1 per 10</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:90.0pt">
-			<p>0,5 per 4</p>
+			<td style="width:37.6pt">
+			<p>1 per 2,5<br>
+			1,5 per 10</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:99.0pt">
-			<p>1/25 per minderjarige</p>
+			<td style="width:55.05pt">
+			<p><br>
+			1 per 2,5<br>
+			0,5 per 10<br>
+			0,5</p>
+			</td>
+			<td>
+			<p><br>
+			0,5 per 1<br>
+			0,5 per 8<br>
+			0,5 per 10</p>
+			</td>
+			<td>
+			<p><br>
+			2 per 5</p>
+			</td>
+			<td>
+			<p><br>
+			0,5 per 4</p>
+			</td>
+			<td>
+			<p><br>
+			0,5 per 4</p>
+			</td>
+			<td>
+			<p><br>
+			1/25 per minderjarige</p>
 			</td>
 		</tr>
 	</tbody>
@@ -1381,204 +1259,150 @@ Voorziening
 <br>
 <br>
 C. Administratief personeel (klasse 2 of 3)<br>
-<br>
-Voorziening
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:104.4pt">
+			<td>
 			<p>Voorziening</p>
 			</td>
-			<td colspan="5" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:126.2pt">
+			<td colspan="5">
 			<p>Categorie 1</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:115.2pt">
-			<p>Categorie2</p>
+			<td style="width:44.75pt">
+			<p>Categorie 2</p>
 			</td>
-			<td colspan="2" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:115.2pt">
-			<p>Categorie3</p>
+			<td colspan="2" style="width:55.2pt">
+			<p>Categorie 3</p>
 			</td>
-		</tr>
-		<tr>
-			<td colspan="5" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:126.2pt">
-			<p>Begeleidingstehuizen</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
-			<p>Gezinstehuizen</p>
-			</td>
-			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
-			<p>Onthaal-, oriëntatie- en observatiecentra</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:104.4pt">
-			<p>Capaciteit</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.2pt">
-			<p>13</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.25pt">
-			<p>25</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.25pt">
-			<p>63</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.25pt">
-			<p>76</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.25pt">
-			<p>84</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
-			<p>8</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
-			<p>16</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:104.4pt">
-			<p>Basis</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.2pt">
-			<p>0,5</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.25pt">
-			<p>1</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.25pt">
-			<p>1,5</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.25pt">
-			<p>2,5 (1)</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:25.25pt">
-			<p>3 (1)</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
-			<p>2</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
-			<p>3</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:104.4pt">
-			<p>Aanvullend</p>
-			</td>
-			<td colspan="5" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:126.2pt">
-			<p>Van capaciteit 10 tot 29:</p>
-
-			<p>0,5 (4)</p>
-
-			<p>Vanaf capaciteit 30: 1 (5)</p>
-
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
-			<p>Voorziening</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<td style="width:46.95pt">
 			<p>Categorie 4</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<td>
 			<p>Categorie 5</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.15pt">
+			<td>
 			<p>Categorie 6</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.15pt">
+			<td>
 			<p>Categorie 7</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<td>&nbsp;</td>
+			<td colspan="5">
+			<p>Begeleidingstehuizen</p>
+			</td>
+			<td style="width:44.75pt">
+			<p>Gezins-<br>
+			tehuizen</p>
+			</td>
+			<td colspan="2" style="width:55.2pt">
+			<p>Onthaal-, oriëntatie- en observatiecentra</p>
+			</td>
+			<td style="width:46.95pt">
 			<p>Dagcentra</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
-			<p>Thuisbegeleidings-diensten</p>
+			<td>
+			<p>Thuis-<br>
+			begeleidings-<br>
+			diensten</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<td>
 			<p>Diensten voor begeleid zelfstandig wonen</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<td>
 			<p>Diensten voor Pleegzorg</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<td>
 			<p>Capaciteit</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
-			<p>&nbsp;</p>
+			<td>
+			<p>13</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
-			<p>&nbsp;</p>
+			<td>
+			<p>25</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
-			<p>&nbsp;</p>
+			<td>
+			<p>63</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
-			<p>&nbsp;</p>
+			<td>
+			<p>76</p>
 			</td>
+			<td>
+			<p>84</p>
+			</td>
+			<td style="width:44.75pt">&nbsp;</td>
+			<td style="width:19.25pt">
+			<p>8</p>
+			</td>
+			<td style="width:34.45pt">
+			<p>16</p>
+			</td>
+			<td style="width:46.95pt">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<td>
 			<p>Basis</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<td>
+			<p>0,5</p>
+			</td>
+			<td>
+			<p>1</p>
+			</td>
+			<td>
+			<p>1,5</p>
+			</td>
+			<td>
+			<p>2,5 (1)</p>
+			</td>
+			<td>
+			<p>3 (1)</p>
+			</td>
+			<td style="width:44.75pt">&nbsp;</td>
+			<td style="width:19.25pt">
+			<p>2</p>
+			</td>
+			<td style="width:34.45pt">
+			<p>3</p>
+			</td>
+			<td style="width:46.95pt">
 			<p>1 per 10 (2)</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
-			<p>1 per 16 (2)</p>
+			<td>
+			<p>1 per 16 tot capaciteit 32 (2)</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
-			<p>1,5 per 16 (3)</p>
+			<td>
+			<p>1,5 per 16 tot capaciteit 32 (3)</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<td>
 			<p>1/60 per minderjarige (6)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.1pt">
-			<p>Aanvullend</p>
+			<td>
+			<p>Bijkomend</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
-			<p>&nbsp;</p>
+			<td colspan="5">
+			<p>van capaciteit 10 tot 29 : 0,5 (4)<br>
+			vanaf capaciteit 30 : 1 (5)</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
-			<p>&nbsp;</p>
+			<td style="width:44.75pt">&nbsp;</td>
+			<td colspan="2" style="width:55.2pt">&nbsp;</td>
+			<td style="width:46.95pt">&nbsp;</td>
+			<td>
+			<p>vanaf capaciteit 32 : 0,5 per 16</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
-			<p>&nbsp;</p>
+			<td>
+			<p>vanaf capaciteit 32 : 0,5 per 16</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
@@ -1593,189 +1417,138 @@ Voorziening
 (6) waarvan maximaal 0,5 klasse 1 tot 239 minderjarigen en maximaal 1 klasse 1 vanaf 240 minderjarigen<br>
 <br>
 D. Logistiek personeel (klasse 2, 3 of 4)<br>
-<br>
-Voorziening
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:104.4pt">
+			<td style="width:57.45pt">
 			<p>Voorziening</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:126.2pt">
+			<td style="width:48.15pt">
 			<p>Categorie 1</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:115.2pt">
-			<p>Categorie2</p>
+			<td style="width:55.2pt">
+			<p>Categorie 2</p>
 			</td>
-			<td colspan="2" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:115.2pt">
-			<p>Categorie3</p>
+			<td colspan="2" style="width:72.8pt">
+			<p>Categorie 3</p>
 			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:126.2pt">
-			<p>Begeleidingstehuizen</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
-			<p>Gezinstehuizen</p>
-			</td>
-			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
-			<p>Onthaal-, oriëntatie- en observatiecentra</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:104.4pt">
-			<p>Capaciteit</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:126.2pt">
-			<p>10 tot 90</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
-			<p>5 tot 10</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
-			<p>8</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
-			<p>16</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:104.4pt">
-			<p>Basis</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:126.2pt">
-			<p>0,5 per 5</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
-			<p>0,5 per 1</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
-			<p>2</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:57.6pt">
-			<p>3</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:104.4pt">
-			<p>Aanvullend</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:126.2pt">
-			<p>Van capaciteit 10 tot 29:</p>
-
-			<p>0,5 (3)</p>
-
-			<p>Vanaf capaciteit 30 tot 75:</p>
-
-			<p>1 (4)</p>
-
-			<p>Vanaf capaciteit 76:</p>
-
-			<p>2 (5)</p>
-
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
-			<p>&nbsp;</p>
-			</td>
-			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:115.2pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
-			<p>Voorziening</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<td style="width:44.65pt">
 			<p>Categorie 4</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<td style="width:69.4pt">
 			<p>Categorie 5</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.15pt">
+			<td style="width:45.9pt">
 			<p>Categorie 6</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.15pt">
+			<td style="width:52.55pt">
 			<p>Categorie 7</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<td style="width:57.45pt">&nbsp;</td>
+			<td style="width:48.15pt">
+			<p>Begeleidings-<br>
+			tehuizen</p>
+			</td>
+			<td style="width:55.2pt">
+			<p>Gezins-<br>
+			tehuizen</p>
+			</td>
+			<td colspan="2" style="width:72.8pt">
+			<p>Onthaal-, oriëntatie- en observatiecentra</p>
+			</td>
+			<td style="width:44.65pt">
 			<p>Dagcentra</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
-			<p>Thuisbegeleidings-diensten</p>
+			<td style="width:69.4pt">
+			<p>Thuis-<br>
+			begeleidings-<br>
+			diensten</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<td style="width:45.9pt">
 			<p>Diensten voor begeleid zelfstandig wonen</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
-			<p>Diensten voor Pleegzorg</p>
+			<td style="width:52.55pt">
+			<p>Diensten voor pleegzorg</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<td style="width:57.45pt">
 			<p>Capaciteit</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<td style="width:48.15pt">
+			<p>10 tot 90</p>
+			</td>
+			<td style="width:55.2pt">
+			<p>5 tot 10</p>
+			</td>
+			<td style="width:20.6pt">
+			<p>8</p>
+			</td>
+			<td style="width:50.7pt">
+			<p>16</p>
+			</td>
+			<td style="width:44.65pt">
 			<p>10 tot 20</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<td style="width:69.4pt">
 			<p>16 tot 32</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<td style="width:45.9pt">
 			<p>16 tot 32</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:52.55pt">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.1pt">
+			<td style="width:57.45pt">
 			<p>Basis</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<td style="width:48.15pt">
+			<p>0,5 per 5</p>
+			</td>
+			<td style="width:55.2pt">
+			<p>0,1 per 1</p>
+			</td>
+			<td style="width:20.6pt">
+			<p>2</p>
+			</td>
+			<td style="width:50.7pt">
+			<p>3</p>
+			</td>
+			<td style="width:44.65pt">
 			<p>1 per 10 (1)</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
+			<td style="width:69.4pt">
 			<p>1 per 16 (1)</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
+			<td style="width:45.9pt">
 			<p>1,5 per 16 (2)</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:52.55pt">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.1pt">
-			<p>Aanvullend</p>
+			<td style="width:57.45pt">
+			<p>Bijkomend</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
-			<p>&nbsp;</p>
+			<td style="width:48.15pt">
+			<p>van capaciteit 10 tot 29 : 0,5 (3)<br>
+			van capaciteit 30 tot 75 : 1 (4)<br>
+			vanaf capaciteit 76 : 2 (5)</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:55.2pt">&nbsp;</td>
+			<td style="width:20.6pt">&nbsp;</td>
+			<td style="width:50.7pt">&nbsp;</td>
+			<td style="width:44.65pt">&nbsp;</td>
+			<td style="width:69.4pt">&nbsp;</td>
+			<td style="width:45.9pt">&nbsp;</td>
+			<td style="border-bottom:inset 1.0pt; border-style:none; width:52.55pt">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
 
 <p>&nbsp;</p>
-<br>
 <br>
 (1) ofwel 1 administratief, ofwel 0,5 logistiek en 0,5 administratief<br>
 (2) ofwel 1,5 administratief, ofwel 1 administratief en 0,5 logistiek, ofwel 0,5 administratief en 1 logistiek<br>
@@ -1784,208 +1557,333 @@ Voorziening
 (5) ofwel 1 administratief en 1 logistiek, ofwel 0,5 administratief en 1,5 logistiek<br>
 <br>
 E. Bijzondere functies<br>
-<br>
-Voorziening
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.95pt">
+			<td style="width:40.7pt">
 			<p>Voorziening</p>
 			</td>
-			<td colspan="11" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:259.45pt">
+			<td colspan="11" style="width:164.1pt">
 			<p>Categorie 1</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:112.0pt">
+			<td style="width:41.05pt">
 			<p>Categorie 2</p>
 			</td>
-		</tr>
-		<tr>
-			<td colspan="7" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:145.6pt">
-			<p>Begeleidingstehuizen</p>
-			</td>
-			<td colspan="4" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:113.85pt">
-			<p>Begeleidingstehuizen vermeld in artikel 23, 4° h)</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:112.0pt">
-			<p>gezinstehuizen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.95pt">
-			<p>Vanaf capaciteit</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
-			<p>13</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
-			<p>25</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
-			<p>38</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
-			<p>50</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
-			<p>63</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
-			<p>76</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
-			<p>88</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:28.45pt">
-			<p>10</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:28.45pt">
-			<p>25</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:28.45pt">
-			<p>38</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:28.5pt">
-			<p>50</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:112.0pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.95pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
-			<p>0,5</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
-			<p>1</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
-			<p>1,5</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
-			<p>2</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
-			<p>2,5</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
-			<p>3</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:20.8pt">
-			<p>3,5</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:28.45pt">
-			<p>1</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:28.45pt">
-			<p>2</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:28.45pt">
-			<p>3</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:28.5pt">
-			<p>4</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:112.0pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td rowspan="2" style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:80.15pt">
-			<p>Voorziening</p>
-			</td>
-			<td colspan="2" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:78.8pt">
+			<td colspan="2" style="width:42.65pt">
 			<p>Categorie 3</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:76.2pt">
+			<td style="width:39.4pt">
 			<p>Categorie 4</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:87.5pt">
+			<td style="width:36.65pt">
 			<p>Categorie 5</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:76.45pt">
+			<td style="width:36.15pt">
 			<p>Categorie 6</p>
 			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:65.3pt">
+			<td style="width:45.4pt">
 			<p>Categorie 7</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:78.8pt">
-			<p>Onthaal-,</p>
-
-			<p>Oriëntatie- en</p>
-
-			<p>Observatiecentra</p>
+			<td style="width:40.7pt">&nbsp;</td>
+			<td colspan="7" style="width:100.3pt">
+			<p>Begeleidingstehuizen</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.2pt">
-			<p>Dagcentra</p>
+			<td colspan="4" style="width:62.3pt">
+			<p>Begeleidingstehuizen bedoeld in artikel 23, 4° h)</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:87.5pt">
-			<p>Thuisbegeleidings-</p>
-
-			<p>Diensten</p>
+			<td style="width:41.05pt">
+			<p>Gezins-<br>
+			tehuizen</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.45pt">
-			<p>Diensten voor begeleid zelfstandig wonen</p>
+			<td colspan="2" style="width:42.65pt">
+			<p>Onthaal-, oriëntatie- en observatiecentra</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:65.3pt">
+			<td style="width:39.4pt">
+			<p>Dag-<br>
+			centra</p>
+			</td>
+			<td style="width:36.65pt">
+			<p>Thuis-<br>
+			begeleidings-<br>
+			diensten</p>
+			</td>
+			<td style="width:36.15pt">
+			<p>Dienst<br>
+			en voor<br>
+			begeleid<br>
+			zelfstandig wonen</p>
+			</td>
+			<td style="width:45.4pt">
 			<p>Diensten voor pleegzorg</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:80.15pt">
+			<td style="width:40.7pt">
 			<p>Vanaf capaciteit</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:39.4pt">
+			<td style="width:14.35pt">
+			<p>13</p>
+			</td>
+			<td style="width:13.6pt">
+			<p>25</p>
+			</td>
+			<td style="width:12.65pt">
+			<p>38</p>
+			</td>
+			<td style="width:12.7pt">
+			<p>50</p>
+			</td>
+			<td style="width:12.65pt">
+			<p>63</p>
+			</td>
+			<td style="width:12.7pt">
+			<p>76</p>
+			</td>
+			<td style="width:12.65pt">
+			<p>88</p>
+			</td>
+			<td style="width:12.7pt">
+			<p>10</p>
+			</td>
+			<td style="width:15.85pt">
+			<p>25</p>
+			</td>
+			<td style="width:13.9pt">
+			<p>38</p>
+			</td>
+			<td style="width:15.35pt">
+			<p>50</p>
+			</td>
+			<td style="width:41.05pt">&nbsp;</td>
+			<td style="width:19.75pt">
 			<p>8</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:39.4pt">
+			<td style="width:21.4pt">
 			<p>16</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.2pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:87.5pt">
+			<td style="width:39.4pt">&nbsp;</td>
+			<td style="width:36.65pt">
 			<p>16</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.45pt">
+			<td style="width:36.15pt">
 			<p>16</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:65.3pt">
+			<td style="width:45.4pt">
 			<p>Vanaf 36</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:80.15pt">
-			<p>&nbsp;</p>
+			<td style="width:40.7pt">&nbsp;</td>
+			<td style="width:14.35pt">
+			<p>0,5</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:39.4pt">
-			<p>2 (1)</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:39.4pt">
-			<p>3 (2)</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.2pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:87.5pt">
+			<td style="width:13.6pt">
 			<p>1</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.45pt">
+			<td style="width:12.65pt">
+			<p>1,5</p>
+			</td>
+			<td style="width:12.7pt">
+			<p>2</p>
+			</td>
+			<td style="width:12.65pt">
+			<p>2,5</p>
+			</td>
+			<td style="width:12.7pt">
+			<p>3</p>
+			</td>
+			<td style="width:12.65pt">
+			<p>3,5</p>
+			</td>
+			<td style="width:12.7pt">
 			<p>1</p>
 			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:65.3pt">
+			<td style="width:15.85pt">
+			<p>2</p>
+			</td>
+			<td style="width:13.9pt">
+			<p>3</p>
+			</td>
+			<td style="width:15.35pt">
+			<p>4</p>
+			</td>
+			<td style="width:41.05pt">&nbsp;</td>
+			<td style="width:19.75pt">
+			<p>2<br>
+			(1)</p>
+			</td>
+			<td style="width:21.4pt">
+			<p>3<br>
+			(2)</p>
+			</td>
+			<td style="width:39.4pt">&nbsp;</td>
+			<td style="width:36.65pt">
+			<p>1</p>
+			</td>
+			<td style="width:36.15pt">
+			<p>1</p>
+			</td>
+			<td style="width:45.4pt">
 			<p>0,5 + 0,5 per schijf van 36 minderjarigen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:40.7pt">
+			<p>Bijkomend</p>
+			</td>
+			<td style="width:14.35pt">&nbsp;</td>
+			<td style="width:13.6pt">&nbsp;</td>
+			<td style="width:12.65pt">&nbsp;</td>
+			<td style="width:12.7pt">&nbsp;</td>
+			<td style="width:12.65pt">&nbsp;</td>
+			<td style="width:12.7pt">&nbsp;</td>
+			<td style="width:12.65pt">&nbsp;</td>
+			<td style="width:12.7pt">&nbsp;</td>
+			<td style="width:15.85pt">&nbsp;</td>
+			<td style="width:13.9pt">&nbsp;</td>
+			<td style="width:15.35pt">&nbsp;</td>
+			<td style="width:41.05pt">&nbsp;</td>
+			<td style="width:19.75pt">&nbsp;</td>
+			<td style="width:21.4pt">&nbsp;</td>
+			<td style="width:39.4pt">&nbsp;</td>
+			<td style="width:36.65pt">
+			<p>vanaf capaciteit 32 : 0,25 per 8</p>
+			</td>
+			<td style="width:36.15pt">
+			<p>vanaf capaciteit 32 : 0,25 per 8</p>
+			</td>
+			<td style="width:45.4pt">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+<br>
+(1) ofwel 1,5 waaronder 0,5 geneesheer-psychiater<br>
+(2) ofwel 2,5 waaronder 0,5 geneesheer-psychiater
+
+### BIJLAGE 3.
+
+Bijlage 3. - Subsidies voor het verblijf van de minderjarigen<br>
+<br>
+De tarieven van de subsidies die per dag en per minderjarige aan de erkende en niet erkende voorzieningen worden toegekend om de uitgaven te vergoeden voor het verblijf van de minderjarigen, worden naargelang de voorzieningen en de leeftijd van de minderjarigen vastgesteld als volgt :<br>
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td>
+			<p>Soort voorziening</p>
+			</td>
+			<td colspan="2">
+			<p>Subsidie per dag</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Categorie 1, 2 en 3</p>
+			</td>
+			<td>
+			<p>-12 jaar</p>
+			</td>
+			<td>
+			<p>+ 12 jaar</p>
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<p>10,99 euro</p>
+			</td>
+			<td>
+			<p>13,50 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Categorie 4</p>
+			</td>
+			<td>
+			<p>4,03 euro</p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Begeleid Zelfstandig Wonen categorie 1, 2 en 6</p>
+			</td>
+			<td colspan="2">
+			<p>1/365 van het bedrag, vermeld in artikel 14, 2°, van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Categorie 7 met recht op kinderbijslag</p>
+			</td>
+			<td>
+			<p>-12 jaar</p>
+			</td>
+			<td>
+			<p>+12 jaar</p>
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<p>12,00 euro</p>
+			</td>
+			<td>
+			<p>12,91 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Categorie 7 zonder recht op kinderbijslag</p>
+			</td>
+			<td>
+			<p>-12 jaar</p>
+			</td>
+			<td>
+			<p>+12 jaar</p>
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<p>17,92 euro</p>
+			</td>
+			<td>
+			<p>19,36 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Categorie 7 aan de dienst voor pleegzorg (artikel 39, tweede lid)</p>
+			</td>
+			<td>
+			<p>0,25 euro</p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Niet-erkende voorzieningen</p>
+			</td>
+			<td>
+			<p>-12 jaar</p>
+			</td>
+			<td>
+			<p>+12 jaar</p>
+			</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<p>16,28 euro</p>
+			</td>
+			<td>
+			<p>17,72 euro</p>
 			</td>
 		</tr>
 	</tbody>
@@ -1993,110 +1891,8 @@ Voorziening
 
 <p>&nbsp;</p>
 <br>
-(1) ofwel 1,5 waaronder 0,5 geneesheer-psychiater (2) ofwel 2,5 waaronder 0,5 geneesheer-psychiater
-
-### BIJLAGE 3.
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:467.95pt">
-	<tbody>
-		<tr>
-			<td rowspan="3" style="border-color:black; border-style:solid; border-width:1.0pt; height:14.2pt; width:3.0cm">
-			<p>voorzieningen</p>
-			</td>
-			<td colspan="6" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; height:14.2pt; width:297.8pt">
-			<p>erkende voorzieningen</p>
-			</td>
-			<td colspan="2" rowspan="3" style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; height:14.2pt; width:85.1pt">
-			<p>niet-erkende voorzieningen</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="6" style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:297.8pt">
-			<p>categorieën</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
-			<p>1, 2 en 3</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
-			<p>1, 2 en 3</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
-			<p>4</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
-			<p>7</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
-			<p>7</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:3.0cm">
-			<p>BZW (1, 2 en 6)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; width:3.0cm">
-			<p>leeftijd minderjarigen</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
-			<p>- 12 jaar</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
-			<p>+ 12 jaar</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
-			<p>- 12 jaar</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
-			<p>+ 12 jaar</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:3.0cm">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
-			<p>- 12 jaar</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; width:42.55pt">
-			<p>+ 12 jaar</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; height:14.2pt; vertical-align:top; width:3.0cm">
-			<p>euro per dag</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; vertical-align:top; width:42.55pt">
-			<p>7,34</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; vertical-align:top; width:42.55pt">
-			<p>9,07</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; vertical-align:top; width:42.55pt">
-			<p>2,78</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; vertical-align:top; width:42.55pt">
-			<p>11,23</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; vertical-align:top; width:42.55pt">
-			<p>12,22</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; vertical-align:top; width:3.0cm">
-			<p>1/365 van het bedrag, vermeld in artikel 14, 2°, van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; vertical-align:top; width:42.55pt">
-			<p>11,23</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; height:14.2pt; vertical-align:top; width:42.55pt">
-			<p>12,22</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
+<br>
+Die bedragen zijn gekoppeld aan de spilindex die van kracht is op 1 januari 2009.
 
 ### BIJLAGE 4.
 
@@ -2113,3 +1909,7 @@ Forfaitaire subsidie voor de voorzieningen categorie 8 en 9<br /><br />Categorie
 ### BIJLAGE 7
 
 De standaarden crisishulp aan huis<br /><br />Crisishulp aan Huis is een kortdurende, intensieve, ambulante en mobiele vorm van crisishulpverlening voor gezinnen in een perspectiefloze opvoedingssituatie; met als voornaamste doelstelling uithuisplaatsing van een of meer minderjarigen te vermijden en gezinnen opnieuw opvoedingsperspectief te bieden. De crisis, het perspectiefloze karakter en de dreigende breuk met de minderjarige uit het gezin vormen het startpunt van de begeleiding. Het begrip crisishulpverlening sluit niet uit dat gezinssituaties met een chronische problematiek begeleid worden. Ook in gezinnen waaraan al hulp verleend wordt, kan naar aanleiding van een bepaalde gebeurtenis een noodsituatie ontstaan. Crisishulp aan Huis werkt niet alleen plaatsingsvermijdend, maar kan ook interveniëren in de gezinnen die na een periode van uithuisplaatsing van een minderjarige de jongere opnieuw opnemen, mits de nodige intensieve coaching en ondersteuning.<br /><br />1. Grondwaarden<br />Naast het universele verdrag inzake de rechten van de mens, het internationaal verdrag inzake de rechten van het kind en het decreet betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp zijn er een aantal fundamentele overtuigingen over opvoeding in een gezin en over de draagkracht van het gezinssysteem en van individuele gezinsleden.<br />- Kinderen kunnen het best opgroeien in een gezin.<br />- De veiligheid van de minderjarige in het gezin staat voorop.<br />- Crisis is een uitgelezen mogelijkheid tot verandering.<br />- Alle mensen hebben de mogelijkheid om te veranderen, maar we kunnen nooit voorspellen welke situaties het meest ontvankelijk zijn voor verandering.<br />- Het is onze hoofdopdracht om gezinsleden aan te spreken op hun capaciteiten en die mee te versterken.<br />- We respecteren de normen en waarden van de gezinnen waarmee wij werken.<br />- Crisishulp aan Huis is een fundamenteel emancipatorisch hulpverleningsmodel : flexibele en cliëntgerichte hulpverlening.<br />- Gezinsleden zijn onze medewerkers, en ze doen hun uiterste best.<br /><br />2. Standaarden voor de structuur van het programma<br />- Urgentie van de problematiek<br />Het gezin of de aanmelder schat in dat (1) de gezinssituatie zo niet verder kan, (2) en dat op die manier een of meer minderjarigen uit het gezin geplaatst dreigen te (willen) worden. Alleen een snelle inschakeling van intensief ambulante hulp kan een uithuisplaatsing nog vermijden.<br />- Werkbaarheid van een begeleiding<br />In de werkbaarheid van een begeleiding staan drie elementen centraal : de dynamiek van een dreigende breuk in het gezin (met andere woorden de noodzaak van een acuut optreden), het akkoord van het gezin, de mogelijkheid van de dienst om een begeleiding op te starten (beschikbare plaats).<br />- Snelheid opstarten begeleiding<br />Gezien de eigenheid van een crisissituatie kan een crisisbegeleiding nooit op een wachtlijst staan en legt een dienst CaH die ook niet aan. Als er een begeleidingsmogelijkheid is (plaats bij een van de gezinsmedewerkers), start een begeleiding snel op. Binnen 24 uur na de aanmelding is er een eerste contact in het gezin.<br />- Duur<br />Er wordt vooropgesteld dat een crisisbegeleiding 28 dagen duurt. Die periode kan maximaal twee keer met een week verlengd worden als dat beargumenteerd kan worden vanuit de behoefte om de lopende kortdurende hulp af te ronden. Verlenging kan niet gemotiveerd worden vanuit een gebrek aan vervolghulp.<br />- Zorgzame afronding<br />Tegen het einde van de begeleiding krijgt het thema vervolghulp uitdrukkelijk de aandacht. De begeleidingsperiode wordt overlopen met de gezinsleden en de vraag waarop de gezinsmedewerker focust is of er verder nog hulp nodig is en welke hulp vereist is. Gezinsmedewerkers gedragen zich verantwoordelijk in een zorgzame afronding van de geboden hulp. In de eerste plaats zullen zij, samen met het gezin, de verwijzer responsabiliseren om vervolghulp te organiseren. Nazorg kan eventueel op een flexibele manier georganiseerd worden.<br />- Intensiteit<br />Om een crisissituatie het hoofd te bieden, wordt er 'kort op de bal' gespeeld en ligt de intensiteit van het aantal contacturen hoog. Een gezinsmedewerker heeft gemiddeld zes contacturen per week in of met het gezin (voornamelijk rechtstreekse contacten, een klein aandeel telefonische contacten). Daarnaast spenderen gezinsmedewerkers per begeleiding gemiddeld acht uur aan aanvullend overleg (intern en extern). Huisbezoeken worden gepland naargelang van de behoeften van het gezin. Het aantal huisbezoeken en de duur ervan variëren gedurende het verloop van de begeleiding.<br />- Bereikbaarheid voor het gezin<br />De gezinnen kunnen beroep doen op een permanentie, 24 uur op 24, 7 dagen op 7. Deze constante bereikbaarheid van hulp biedt de gezinsleden de zekerheid en de veiligheid om de crisis aan te kunnen en om met nieuw gedrag te experimenteren. Elke oproep geeft niet noodzakelijk aanleiding tot een interventie ter plaatse. De telefonische interventies zijn een belangrijke methodische schakel tussen de geplande huisbezoeken.<br />De permanentie wordt bij voorkeur opgenomen door de eigen medewerkers van het gezin. In elk geval wordt de permanentie verzekerd door medewerkers die specifiek zijn opgeleid voor crisishulp aan huis.<br />- Beschikbaar hulpaanbod<br />Het gezin en de gezinsmedewerker leggen samen de afspraken voor huisbezoeken en eventueel andere externe overlegmomenten vast. Crisishulp wil hulp bieden om crisissituaties te doorbreken. Dat betekent dat gezinsmedewerkers in principe in het gezin aanwezig zijn op crisismomenten. Aangezien crisis chaotisch en onvatbaar is, vereist dat een flexibele opstelling<br /><br />3. Standaarden voor de operationalisering van de werking.<br />- Veiligheid is prioritair<br />Crisishulp aan Huis werkt zoveel mogelijk met procedures die de veiligheid van cliënten, gezinsmedewerkers en anderen zo goed mogelijk beschermen. Aangepaste procedures en specifieke training zijn noodzakelijk.<br />- Caseload van twee gezinnen<br />De beperkte caseload maakt het de gezinsmedewerker mogelijk om de noodzakelijke flexibiliteit en intensiteit van de hulpverlening te garanderen.<br />- Een gezinsmedewerker met back-up van een team<br />De gezinsmedewerker werkt telkens alleen in een gezin, maar wordt wel ondersteund door een team. In uitzonderlijke omstandigheden kan een gezinsmedewerker vergezeld worden door een ander teamlid of door een supervisor.<br />- Supervisie<br />Het programma voorziet in maatregelen om de veiligheid van gezinsmedewerkers te ondersteunen. Naast gestructureerde supervisiemomenten is er een systeem van permanente supervisieback-up.<br /><br />4. Standaarden voor de aard van de interventies<br />- Doelgerichte en planmatige aanpak<br />Crisishulp aan Huis vertoont een duidelijk gefaseerd begeleidingsverloop. De voorspelbaarheid is belangrijk voor alle betrokken partijen. Voor de gezinnen betekent de voorspelbaarheid betrouwbaarheid en dus nieuw vertrouwen in hulpverlening. Aanmelders kennen het traject van de gezinsbegeleiding en weten op voorhand op welke manier en op welke momenten zij betrokken worden bij de begeleiding. Gezinsmedewerkers krijgen een minimum aan bakens die een houvast zijn in een intensieve en vaak onvoorspelbare begeleiding.<br />De crisisbegeleiding bevat de volgende stappen : aanmeldingsgesprek, eerste huisbezoek, inschattingsperiode die resulteert in een doelstellingenplan, tussentijdse evaluatie en overleg met de aanmelder, inschatting van vervolghulp en afronding van de begeleiding, open eindverslaggeving, eindevaluatie met aanmelder en gezin, voortgangscontrolemoment na zes weken.<br />- Gericht op vaardigheidstraining<br />De gezinsmedewerker geeft aangepaste informatie en leert de gezinsleden vaardigheden die hen de kans geven om hun leven meer in handen te krijgen. De methodiek is gebaseerd op verschillende theoretische modellen (ondermeer cliëntgerichte therapie, systeemtheorie, gedragstherapie, competentiemodellen).<br />- Concrete hulp bieden<br />De begeleiding is concreet (zowel psychosociaal als praktisch van aard), is gerelateerd aan de doelstellingen en is erop gericht om gezinsleden vaardigheden eigen te maken zodat zij zelf verder kunnen.<br />- In de omgeving van het gezin<br />Het gezin wordt begeleid in de eigen leefomgeving. Zo mogelijk wordt de context van het gezin mee betrokken in de begeleiding. De gezinsmedewerker legt voor contacten met het gezin de nodige huisbezoeken af, en werkt samen met andere partners die belangrijk zijn voor het gezin (OCMW, school).<br /><br />5. Standaarden voor de ruimere opdracht van Crisishulp aan Huis<br />- Vorming<br />Alle medewerkers, supervisoren en coördinatoren van Crisishulp aan Huis volgen een basisopleiding. Een basisopleiding wordt aangevuld met regelmatige trainings- en vormingsmomenten. Een permanente training van veiligheidsprocedures is noodzakelijk.<br />- Intervisie Vlaanderen<br />De diensten Crisishulp aan Huis gaan het engagement aan om samen te werken met CaH-Vlaanderen.<br />- Wetenschappelijk onderzoek<br />Kwaliteitstoetsing en evaluatie zijn inherent verbonden aan Crisishulp aan Huis. In het raam daarvan werken de bestaande diensten intensief mee (voorbereiding, gegevensverzameling geïntegreerd in de begeleiding) aan wetenschappelijk onderzoek.<br />- Registratie<br />Aan de werkvorm Crisishulp aan Huis is een permanente registratie verbonden. Het registratie-instrument is een belangrijk hulpmiddel bij het kritisch bekijken en evalueren van het aanbod en de resultaten van de werkvorm.<br /><br />6. Standaard in verband met de inbedding in de netwerken crisisjeugdhulp van de Integrale Jeugdhulpverlening<br />Crisishulp aan Huis is een belangrijke partner in de netwerken crisisjeugdhulpverlening. Elke dienst is actief in een regio waar één of meerdere netwerken operationeel zijn. De diensten Crisishulp aan Huis moeten zich, regionaal, engageren in de netwerken crisisjeugdhulp. Dit engagement betekent dat ze met deze netwerken afspraken maken over hun inzet in het netwerk op het vlak van interventie en/of begeleiding. De inzet met betrekking tot interventie bestaat maximum uit het equivalent van 1/6 van het aantal begeleidingen op jaarbasis. De gemaakte afspraken worden geformaliseerd. Deze inzet kan verschillend zijn naargelang de regionale noden.
+
+### BIJLAGE 8
+
+Bijlage 8. - De standaarden van een multifunctioneel centrum<br /><br />1. Profiel van een multifunctioneel centrum<br />Een multifunctioneel centrum biedt residentiële, mobiele en ambulante hulp. Die hulp wordt vertaald in een traject, waarbij zorgmodaliteiten naadloos worden ingezet in functie van een evoluerende hulpvraag. De bandbreedte geeft aan welke zorgmodaliteiten van het minimale aanbod van een multifunctioneel centrum kunnen worden ingezet.<br /><br />2. Doelgroep<br />Een multifunctioneel centrum staat open voor alle jongeren die in de bijzondere jeugdbijstand terechtkomen. Het richt zich op jongeren in problematische leefsituaties waarbij het evolutief inzetten van andere werkvormen een meerwaarde kan betekenen in het hulpverleningstraject.<br /><br />3. Minimaal aanbod : zorgmodaliteiten<br />Elk multifunctioneel centrum beschikt minimaal over zorgmodaliteiten voor contextbegeleiding, individuele begeleiding, dagbesteding en verblijf. Die zorgmodaliteiten kunnen naargelang de noden van een individueel traject gecombineerd worden ingezet.<br />3.1 Zorgmodaliteit voor contextbegeleiding<br />De hulpverlening in een multifunctioneel centrum is gericht op :<br />- de terugkeer van de minderjarige naar zijn context;<br />- het behoud van de minderjarige in zijn context;<br />- het toewerken naar begeleid zelfstandig wonen.<br />Contextbegeleiding is qua intensiteit en frequentie (net als in reguliere begeleidingen) zeer dossiergebonden. Op niveau van het multifunctionele centrum is het gemiddelde aantal (face tot face) contextcontacten per week het equivalent van het aantal erkende capaciteitseenheden in het multifunctionele centrum.<br />3.2 Zorgmodaliteit voor individuele begeleiding<br />In elk multifunctioneel centrum wordt voorzien in begeleidingsaandacht voor individuele doelstellingen en hulpvragen van de minderjarige in zijn gezin.<br />3.3 Zorgmodaliteiten voor verblijf<br />Elk multifunctioneel centrum biedt verschillende zorgmodaliteiten voor verblijf aan. Het gaat zowel om de mogelijke inschakeling van crisisopname of time out - allebei beperkt tot 14 dagen - als om de inschakeling van intensievere periodes van residentiële begeleiding.<br />Residentiële begeleiding wordt - bij de aanvang van het traject - beperkt tot 45 dagen. Nadien kan de residentiële periode verlengd worden als dat nodig blijkt. Daarbij wordt een onderscheid gemaakt in het gemiddelde aantal nachten dat de jongere in de residentiële voorziening van het multifunctionele centrum overnacht : gemiddeld één tot drie nachten, gemiddeld vier tot vijf nachten of gemiddeld zes tot zeven nachten. Ten slotte kan ook een zorgmodaliteit begeleid zelfstandig wonen tot het in te schakelen aanbod behoren. Dat impliceert dat de residentiële onderbouw van een multifunctioneel centrum een profiel heeft waarin die diversiteit kan worden georganiseerd.<br />3.4 Zorgmodaliteiten voor dagbesteding<br />a) Schoolvervangende dagbesteding<br />Het ontbreken van een dagbesteding mag geen breuk vormen in het cliënttraject binnen een multifunctioneel centrum. Het aanbieden van een schoolvervangende dagbesteding in een multifunctioneel centrum - al dan niet binnen een samenwerkingsverband met externe partners - is altijd gericht op een intensieve heroriëntatie naar het reguliere circuit (school, werk...).<br />b) Continue en integrale naschoolse begeleiding<br />In een cliënttraject binnen een multifunctioneel centrum kan de tijdelijke inschakeling van een integrale naschoolse begeleiding van belang zijn om de minderjarige in de context te blijven begeleiden. De continue en integrale naschoolse begeleiding omvat verschillende componenten <br />(schoolwerkbegeleiding, groepswerking, training), en loopt zowel in school- als vakantieperiodes.<br /><br />4. Minimale inhoudelijke functies<br />4.1 Constante vraagverheldering<br />De vraagverheldering staat centraal in een multifunctioneel centrum. Op regelmatige basis wordt bekeken of de aangeboden hulp nog altijd aansluit bij de noden van de betrokken personen. Als de vraagverheldering resulteert in de behoefte aan een wijziging van het hulpaanbod, wordt, na overleg binnen de driehoek cliënt - multifunctioneel centrum - verwijzende instantie, het traject bijgesteld. Die wijziging wordt in het handelingsplan opgenomen. De constante vraagverheldering krijgt in een multifunctioneel centrum onder meer vorm door intern (begeleidingscontacten, intervisie, supervisie) en extern (met de verwijzende instantie of andere betrokken partijen) overleg.<br />4.2 Regie<br />a) Interne regie van de cliënt<br />Voor elke cliënt (of voor elk cliëntsysteem) wordt een interne regie geactiveerd die het verloop van het traject binnen het multifunctionele centrum opvolgt, de verwijzende instantie van het verloop op de hoogte houdt, en de naadloosheid en eenduidigheid van het cliënttraject garandeert.<br />b) Interne regie van de organisatie van het multifunctionele centrum<br />In het multifunctionele centrum coördineert de interne regie op organisatieniveau het beheer van het aanbod (het geheel van de aan te bieden zorgmodaliteiten), waardoor naadloze schakeling in de cliënttrajecten mogelijk is, en breukmomenten vermeden worden.<br />c) Externe regie<br />De verwijzende instantie zit in een cliënttraject binnen een multifunctioneel centrum in de rol van externe regie, die verantwoordelijk is voor de verwijzing en opvolging van het dossier. Bij aanvang van het traject bepaalt de verwijzende instantie de bandbreedte die aangeeft welke zorgmodaliteiten tijdens het traject kunnen worden in- of uitgeschakeld. Als externe regisseur waakt de verwijzende instantie over de maatschappelijke noodzaak en de veiligheid, en kan ten gevolge daarvan ingrijpen.
