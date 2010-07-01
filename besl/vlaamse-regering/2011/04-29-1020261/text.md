@@ -28,6 +28,10 @@ In artikel VI 144, § 1 en § 2, van hetzelfde besluit, ingevoegd bij het beslui
 
 In artikel VII 5 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de volgende wijzigingen aangebracht :<br /><br />1° in paragraaf 1 wordt het getal « 13.234,20 » vervangen door het getal « 13.499,00 »; <br /><br />2° in paragraaf 2 wordt het getal « 12.478,10 » vervangen door het getal « 12.727,66 ».<br />
 
+### ART. 38.
+
+In deel VII, titel 2, hoofdstuk 3, van hetzelfde besluit, gewijzigd bij besluit van de Vlaamse Regering van 16 maart 2007, wordt het opschrift van afdeling 1 vervangen door wat volgt :<br /><br />« Afdeling 1. Personeelsleden van het agentschap Jongerenwelzijn ».
+
 ### ART. 39.
 
 <p>In artikel VII 45 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de volgende wijzigingen aangebracht :<br>
