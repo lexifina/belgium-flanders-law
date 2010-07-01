@@ -544,7 +544,11 @@ De ambten die de personeelsleden van een centrum kunnen uitoefenen, worden als v
 
 ### ART. 87bis.
 
-De Vlaamse Regering kan afstandsonderwijs ingericht door derden en de hieraan verbonden studiebewijzen erkennen indien dit onderwijs dezelfde structuur en dezelfde basiscompetenties of eindtermen respecteert als door de Vlaamse Gemeenschap erkend onderwijs, een examenprocedure gebruikt die door de regering is goedgekeurd en controle namens de regering aanvaardt.<br /><br />De Regering kan aanvullende voorwaarden vastleggen.  <span class="reference">(ing. decr. 7 mei 2004, art. 34, I: 1 september 2004)</span> ]
+...
+
+### ART. 87bis.
+
+...
 
 ### ART. 88.
 
@@ -560,19 +564,23 @@ Het departement Onderwijs staat in voor de planning van de vakken, de kwaliteit 
 
 ### ART. 91.
 
-§ 1. De mentor evalueert welke vorderingen de cursist maakt en geeft pedagogisch advies aan de cursist.<br /><br />De Vlaamse regering stelt de mentor aan voor een termijn van twee jaar, die kan worden hernieuwd.<br /><br />§ 2. De mentoren worden gekozen uit de leraren die gedurende twee jaar ten minste halftijds onderricht hebben gegeven in een erkende onderwijsinstelling, of uit de opleiders die gedurende twee jaar ten minste halftijds onderricht hebben gegeven in een door de Vlaamse Gemeenschap opgerichte of erkende opleidingsinstelling. Bij ontstentenis van kandidaten met ervaring in een onderwijs- of opleidingsinstelling, kunnen ook andere deskundigen worden aangesteld.<br /><br />Voor de voorbereiding op examens van het openbaar ambt kunnen zij ook gekozen worden uit ambtenaren van niveau A - of daaraan gelijkgesteld - van een openbaar bestuur.<br /><br />§ 3. De regering bepaalt de vergoeding en de prestatieregeling van de mentor.
+§ 1. De mentor evalueert welke vorderingen de cursist maakt en geeft pedagogisch advies aan de cursist.<br /><br />De Vlaamse Regering stelt de mentor aan voor een termijn van bepaalde duur die uiterlijk afloopt op 1 januari 2012. <br /><br />§ 2. De mentoren worden gekozen uit de leraren die gedurende twee jaar ten minste halftijds onderricht hebben gegeven in een erkende onderwijsinstelling, of uit de opleiders die gedurende twee jaar ten minste halftijds onderricht hebben gegeven in een door de Vlaamse Gemeenschap opgerichte of erkende opleidingsinstelling. Bij ontstentenis van kandidaten met ervaring in een onderwijs- of opleidingsinstelling, kunnen ook andere deskundigen worden aangesteld.<br /><br />Voor de voorbereiding op examens van het openbaar ambt kunnen zij ook gekozen worden uit ambtenaren van niveau A - of daaraan gelijkgesteld - van een openbaar bestuur.<br /><br />§ 3. De regering bepaalt de vergoeding en de prestatieregeling van de mentor.
 
 ### ART. 92.
 
 De regering regelt de kwaliteitsbewaking van het begeleidingswerk van de mentoren en van de cursussen.
 
+### ART. 92bis.
+
+De cursist heeft recht op begeleiding door een mentor, zoals bedoeld in artikel 91, tot en met 31 december 2011.
+
 ### ART. 93.
 
-In het zelfgestuurd leren zijn geen toelatingsvoorwaarden. Inschrijvingen zijn permanent mogelijk.
+Uitsluitend volgende cursisten kunnen zich inschrijven :<br />1° cursisten die zich voorbereiden op de examens ingericht door de examencommissie van de Vlaamse Gemeenschap;<br />2° cursisten die op het ogenblik van hun inschrijving voor een bepaalde cursus gedetineerd zijn en het bewijs hiervan leveren door een attest afgeleverd door de directeur van de strafinrichting.<br /><br />Inschrijvingen zijn mogelijk tot en met 31 december 2010.
 
 ### ART. 94.
 
-§ 1. [Voor cursussen die uitsluitend via het internet worden aangeboden, bedraagt het inschrijvingsgeld 14,50 euro - tot en met 31 december 2001:<br /><br />500 Belgische frank - per maand. Het inschrijvingsgeld verleent de cursist toegang tot de cursus. De toegang wordt verleend in schijven van drie of zes maanden.<br /><br />Voor de cursussen die op een andere wijze worden aangeboden bedraagt het inschrijvingsgeld 4,50 euro - tot en met 31 december 2001: 150 Belgische frank - per lespakket.<br /><br />De bedragen kunnen door de Vlaamse regering worden verhoogd en aangepast aan de index van de consumptieprijzen.<br /><br />De Vlaamse regering bepaalt de uitvoeringsmodaliteiten van deze bepaling.  <span class="reference">(verv. decr. 13 juli 2001, art. VI. 25, I: 1 februari 2001)</span> ]<br /><br />§ 2. [Er wordt een fonds "Inkomsten B.I.S." opgericht. Aan dit fonds worden de inschrijvingsgelden en de gelden verkregen uit de samenwerkingsakkoorden met derden toegewezen.  <span class="reference">(verv. decr. 13 juli 2001, art. VI. 25, I: 1 september 2000)</span> ]<br /><br />§ 3. Het fonds is een begrotingsfonds in de zin van artikel 45 van het koninklijk besluit van 17 juli 1991 houdende coördinatie van de wetten op de rijkscomptabiliteit.<br /><br />§ 4. [De middelen van het fonds dienen aangewend te worden voor uitgaven met betrekking tot het zelfgestuurd leren zoals georganiseerd door het departement Onderwijs.  <span class="reference">(verv. decr. 13 juli 2001, art. VI. 25, I: 1 september 2000)</span> ]<br /><br />§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.
+§ 1. Voor de cursussen die op een andere wijze worden aangeboden bedraagt het inschrijvingsgeld 4,50 euro - tot en met 31 december 2001: 150 Belgische frank - per lespakket.<br /><br />De bedragen kunnen door de Vlaamse regering worden verhoogd en aangepast aan de index van de consumptieprijzen.<br /><br />De Vlaamse regering bepaalt de uitvoeringsmodaliteiten van deze bepaling. <br /><br />§ 2. Er wordt een fonds "Inkomsten B.I.S." opgericht. Aan dit fonds worden de inschrijvingsgelden en de gelden verkregen uit de samenwerkingsakkoorden met derden toegewezen. <br /><br />§ 3. Het fonds is een begrotingsfonds in de zin van artikel 45 van het koninklijk besluit van 17 juli 1991 houdende coördinatie van de wetten op de rijkscomptabiliteit.<br /><br />§ 4. De middelen van het fonds dienen aangewend te worden voor uitgaven met betrekking tot het zelfgestuurd leren zoals georganiseerd door het departement Onderwijs. <br /><br />§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.
 
 ### ART. 94bis.
 

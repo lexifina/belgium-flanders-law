@@ -2,16 +2,16 @@
   "codex_id": 1006836,
   "title": "Decreet van 1999-03-02 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006836/VolledigDocument?datum=2008-09-01",
-  "source_sha256": "ab2e9c021f65f1954b2695234efc5e5fd2a77d91700ecb55d4e6a989535dc699",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006836/VolledigDocument?datum=2010-07-01",
+  "source_sha256": "c464de3c9df727c46ac173446e4dd0785bf17b7fb5bbac1eb11f3b1aa113feab",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006836&param=informatie",
-  "as_of": "2008-09-01",
+  "as_of": "2010-07-01",
   "made": "1999-03-02",
   "gazette": "1999-08-21",
   "numac": 1999035844,
   "document_start": null,
   "document_end": "2007-08-31",
-  "in_force": "2008-09-01",
-  "article_versions": 134,
-  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-07-01",
+  "article_versions": 136,
+  "record_form": "consolidated version as in force on 2010-07-01; future article versions excluded; article text as the API gives it"
 }
