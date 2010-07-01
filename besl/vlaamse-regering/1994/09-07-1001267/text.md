@@ -18,7 +18,7 @@ Voor de toepassing van dit besluit dient te worden verstaan onder:<br>
 
 ### ART. 3.
 
-De prioritaire onderzoeksthema's moeten een aantal ruim opgevatte thema's bevatten, die, voor een aantal jaren, het basisstramien van het onderwijskundig beleids- en praktijkgericht wetenschappelijk onderzoek vormen. Daarnaast kunnen thema's worden gedefinieerd die op onmiddellijke beleidsproblemen betrekking hebben. Binnen dit kader stellen de minister en de gezamenlijke vergadering van enerzijds de ad hoc beleidscommissie voor het onderwijskundig beleids- en praktijkgericht wetenschappelijk onderzoek samengesteld door de secretaris-generaal van het departement onderwijs en vorming en bestaande uit ambtenaren werkzaam binnen het beleidsdomein onderwijs en vorming, en anderzijds het college van inspecteurs-generaal jaarlijks een aantal onderzoeksthema's voor.
+De prioritaire onderzoeksthema's moeten een aantal ruim opgevatte thema's bevatten, die, voor een aantal jaren, het basisstramien van het onderwijskundig beleids- en praktijkgericht wetenschappelijk onderzoek vormen. Daarnaast kunnen thema's worden gedefinieerd die op onmiddellijke beleidsproblemen betrekking hebben. Binnen dit kader stellen de minister en de gezamenlijke vergadering van enerzijds de ad hoc beleidscommissie voor het onderwijskundig beleids- en praktijkgericht wetenschappelijk onderzoek samengesteld door de secretaris-generaal van het departement onderwijs en vorming en bestaande uit ambtenaren werkzaam binnen het beleidsdomein onderwijs en vorming, en anderzijds de Inspectie vertegenwoordigd door maximaal twee inspecteurs aangeduid door de inspecteur-generaal jaarlijks een aantal onderzoeksthema's voor.
 
 ### ART. 4.
 

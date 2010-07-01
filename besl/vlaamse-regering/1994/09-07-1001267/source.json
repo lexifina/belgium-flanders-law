@@ -2,16 +2,16 @@
   "codex_id": 1001267,
   "title": "Besluit van de Vlaamse Regering van 1994-09-07 tot regeling van de procedure voor de projecten van het onderwijskundig beleids- en praktijkgericht wetenschappelijk onderzoek",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001267/VolledigDocument?datum=2007-08-11",
-  "source_sha256": "b2647536de2099f5d1e599d22b3618bb54e360ee74e253e16e731efd760f76f4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001267/VolledigDocument?datum=2010-07-01",
+  "source_sha256": "faa334554099ec314c09e654a56ad0ef5015916f99d79b67cf167d41cf217dc9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001267&param=informatie",
-  "as_of": "2007-08-11",
+  "as_of": "2010-07-01",
   "made": "1994-09-07",
   "gazette": "1994-12-07",
   "numac": 1994036431,
   "document_start": null,
   "document_end": null,
-  "in_force": "2007-08-11",
+  "in_force": "2010-07-01",
   "article_versions": 33,
-  "record_form": "consolidated version as in force on 2007-08-11; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-07-01; future article versions excluded; article text as the API gives it"
 }
