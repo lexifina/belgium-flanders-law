@@ -124,7 +124,31 @@ In artikel 109 van hetzelfde decreet, gewijzigd bij de decreten van 4 juli 2008 
 
 ## Onderafdeling I Decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden uit het volwassenenonderwijs
 
+### ART. IV.47.
+
+Artikel 87bis van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs, ingevoegd bij het decreet van 7 mei 2004, wordt opgeheven.<br /><br />
+
+### ART. IV.48.
+
+In artikel 91, § 1, van hetzelfde decreet wordt het tweede lid vervangen door wat volgt :<br />« De Vlaamse Regering stelt de mentor aan voor een termijn van bepaalde duur die uiterlijk afloopt op 1 januari 2012. ».<br /><br />
+
+### ART. IV.49.
+
+In hetzelfde decreet wordt een artikel 92bis ingevoegd, dat luidt als volgt :<br />« Art. 92bis. De cursist heeft recht op begeleiding door een mentor, zoals bedoeld in artikel 91, tot en met 31 december 2011. ».<br /><br />
+
+### ART. IV.50.
+
+Artikel 93 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Art. 93. Uitsluitend volgende cursisten kunnen zich inschrijven :<br />1° cursisten die zich voorbereiden op de examens ingericht door de examencommissie van de Vlaamse Gemeenschap;<br />2° cursisten die op het ogenblik van hun inschrijving voor een bepaalde cursus gedetineerd zijn en het bewijs hiervan leveren door een attest afgeleverd door de directeur van de strafinrichting.<br />Inschrijvingen zijn mogelijk tot en met 31 december 2010. ».<br /><br />
+
+### ART. IV.51.
+
+In artikel 94, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 13 juli 2001, wordt het eerste lid opgeheven.<br /><br />
+
 ## Onderafdeling II Inwerkingtreding
+
+### ART. IV.55.
+
+De bepalingen van deze afdeling treden in werking op 1 juli 2010, met uitzondering van de artikelen IV.52 tot en met IV.54 die in werking treden op 1 januari 2012.<br /><br />
 
 ## HOOFDSTUK V Hoger onderwijs
 
