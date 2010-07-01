@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019259,
+  "title": "Besluit van de Vlaamse Regering van 2010-06-25 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019259/VolledigDocument?datum=2010-07-01",
+  "source_sha256": "cf198a59d1cc379b66ed1c1a33df148376c50693b01bd03e4a7d77d26cd1ada6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019259&param=informatie",
+  "as_of": "2010-07-01",
+  "made": "2010-06-25",
+  "gazette": "2010-07-30",
+  "numac": 2010035528,
+  "document_start": "2010-07-01",
+  "document_end": null,
+  "in_force": "2010-07-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2010-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
