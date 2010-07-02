@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019157,
+  "title": "Besluit van de Vlaamse Regering van 2010-05-28 houdende de verdeling van basisallocaties van de begroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2010 naar basisallocatie FB0 FI005 3300",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019157/VolledigDocument?datum=2010-07-02",
+  "source_sha256": "1623e0624026639f35495347f9f6127c38bf2f82b581b01a92b504a33aca8510",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019157&param=informatie",
+  "as_of": "2010-07-02",
+  "made": "2010-05-28",
+  "gazette": "2010-06-22",
+  "numac": 2010035398,
+  "document_start": "2010-07-02",
+  "document_end": null,
+  "in_force": "2010-07-02",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-07-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
