@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019161,
+  "title": "Decreet van 2010-05-07 houdende instemming met het Internationaal Verdrag inzake de bescherming van alle personen tegen gedwongen verdwijning, opgemaakt in New York op 20 december 2006",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019161/VolledigDocument?datum=2010-07-04",
+  "source_sha256": "50a5d5c5d09cb24c7b9a85de3a4f107a3e273219cbf5d5642d19623412f609a3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019161&param=informatie",
+  "as_of": "2010-07-04",
+  "made": "2010-05-07",
+  "gazette": "2010-06-24",
+  "numac": 2010035404,
+  "document_start": "2010-07-04",
+  "document_end": null,
+  "in_force": "2010-07-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-07-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
