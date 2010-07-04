@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019164,
+  "title": "Besluit van de Vlaamse Regering van 2010-05-21 houdende klassering van een deel van de Leibeek, onbevaarbare waterloop van tweede categorie, en een kunstmatige waterweg tot onbevaarbare waterloop van eerste categorie in Rotselaar",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019164/VolledigDocument?datum=2010-07-04",
+  "source_sha256": "cd063eae9bd9f7e5248daceaa7df0f2af70c329e948603d6c2343411c56742f7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019164&param=informatie",
+  "as_of": "2010-07-04",
+  "made": "2010-05-21",
+  "gazette": "2010-06-24",
+  "numac": 2010035401,
+  "document_start": "2010-07-04",
+  "document_end": null,
+  "in_force": "2010-07-04",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-07-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
