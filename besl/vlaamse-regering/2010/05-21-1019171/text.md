@@ -6,7 +6,35 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 7 mei 2004 tot oprichti
 
 ## HOOFDSTUK I. Wijzigingen in het besluit van de Vlaamse Regering van 31 juli 1991 tot bepaling van de werkvoorwaarden en de geldelijke regeling van de lesgevers in de leertijd en in de gecertificeerde opleidingen
 
+### ART. 1.
+
+Aan artikel 5, § 2, van het besluit van de Vlaamse Regering van 31 juli 1991 tot bepaling van de werkvoorwaarden en de geldelijke regeling van de lesgevers in de leertijd en in de gecertificeerde opleidingen, vervangen bij het besluit van de Vlaamse Regering van 16 maart 1994, en gewijzigd bij de besluiten van de Vlaamse Regering van 3 mei 2002, 4 april 2003 en 14 maart 2008, wordt een tweede lid toegevoegd, dat luidt als volgt :<br /><br />« In afwijking van het eerste lid kan de raad van bestuur van Syntra Vlaanderen voor welomschreven cursussen, als vermeld in punt 2° en 4°, een hogere vergoeding per lesuur vastleggen. »<br />
+
+### ART. 2.
+
+In artikel 8 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 3 mei 2002 en 14 maart 2008, worden de woorden « artikel 5, § 3 » vervangen door de woorden « artikel 5, § 2 ».
+
 ## HOOFDSTUK II. Wijzigingen in het besluit van de Vlaamse Regering van 23 februari 1999 betreffende de ondernemersopleiding, vermeld in het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen
+
+### ART. 3.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 23 februari 1999 betreffende de ondernemersopleiding, vermeld in het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, gewijzigd bij besluit van de Vlaamse Regering van 14 maart 2008, worden de volgende wijzigingen aangebracht :<br /><br />1° punt 6° wordt vervangen door wat volgt :<br />« 6° leertrajectbegeleider : de leersecretaris, vermeld in artikel 39 en 40 van het decreet; »<br /><br />2° punt 8° wordt vervangen door wat volgt :<br />« 8° leertijd : de opleiding, vermeld in artikel 26, 1°, van het decreet; »;<br /><br />3° in punt 10° wordt de datum « 24 juli 1996 » vervangen door de datum « 13 februari 2009 ».
+
+### ART. 4.
+
+In artikel 5 van hetzelfde besluit wordt paragraaf 3 opgeheven.<br />
+
+### ART. 5.
+
+In artikel 17 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° Aan artikel 17, waarvan de bestaande tekst het eerste lid van paragraaf 1 zal vormen, worden een tweede en een derde lid toegevoegd, die luiden als volgt :<br /><br />« In afwijking van het eerste lid worden tot de cursussen, vermeld in artikel 4, § 2, 1°, de cursisten toegelaten die voldaan hebben aan de voltijdse leerplicht.<br /><br />In afwijking van het eerste lid kunnen tot de cursussen, vermeld in artikel 4, § 3, de leerlingen in de leertijd worden toegelaten die een alternatief programma beroepsgerichte vorming volgen overeenkomstig artikel 57 van het besluit op de leertijd. Die leerlingen worden niet toegelaten tot de proeven van de ondernemersopleiding. Zij leggen de proeven van de leertijd af en behalen een getuigschrift leertijd als ze slagen overeenkomstig de bepalingen van het besluit op de leertijd. »;<br /><br />2° er worden een paragraaf 2 en 3 toegevoegd, die luiden als volgt :<br /><br />« § 2. De cursisten die overeenkomstig artikel 93 geslaagd zijn voor de examens, kunnen zich gedurende een termijn van vijf cursusjaren niet opnieuw inschrijven voor de cursussen van de theoretische vorming waarvoor ze geslaagd zijn.<br /><br />§ 3. Syntra Vlaanderen kan op gemotiveerd verzoek een afwijking verlenen van de bepalingen in paragraaf 2. Als de cursist wordt toegelaten, wordt hij gedurende een periode van vijf cursusjaren echter niet beschouwd als cursist die voor financiering in aanmerking komt. »
+
+### ART. 6.
+
+Artikel 19 van hetzelfde besluit wordt opgeheven.
+
+### ART. 7.
+
+Aan artikel 24, § 1, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 maart 2008, wordt een punt 3° toegevoegd, dat luidt als volgt :<br /><br />« 3° hetzij aan de hand van praktijkervaring de grondige kennis van de cursus, het gedeelte of de module bewijst. »
 
 ### ART. 8.
 
@@ -108,8 +136,52 @@ In artikel 68 van hetzelfde besluit worden de volgende wijzigingen aangebracht :
 
 In artikel 69 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° in paragraaf 1 worden na de woorden « van het ondernemingshoofd » de woorden « of de cursist-stagiair » toegevoegd;<br /><br />2° in paragraaf 4 wordt tussen de woorden « als zich een nieuw feit voordoet » en de woorden « Na onderzoek » de volgende zin ingevoegd :<br />« Het bezwaar heeft geen opschortende werking. »
 
+### ART. 33.
+
+Artikelen 73, 74 en 75 van hetzelfde besluit worden opgeheven.
+
+### ART. 34.
+
+In artikel 81 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 maart 2008, wordt paragraaf 5 opgeheven.
+
+### ART. 35.
+
+In artikel 85 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 maart 2008, wordt paragraaf 3 vervangen door wat volgt :<br /><br />« § 3. Syntra Vlaanderen richt in elk centrum een deliberatiecommissie op overeenkomstig de richtlijnen van de raad van bestuur. »
+
+### ART. 36.
+
+Artikel 90 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 maart 2008, wordt vervangen door wat volgt :<br /><br />« Art. 90. § 1. Elk centrum organiseert twee zittijden voor het praktijkgedeelte van de eindexamens.<br /><br />De tweede zittijd vindt plaats binnen een termijn van minimaal drie en maximaal zes maanden na de eerste zittijd.<br /><br />§ 2. Om organisatorische redenen kan Syntra Vlaanderen na gemotiveerd verzoek van het centrum een afwijking toestaan van de bepalingen in paragraaf 1.<br /><br />Syntra Vlaanderen beslist in dat geval welk centrum de tweede zittijd organiseert. »<br />
+
+### ART. 37.
+
+Artikel 91 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 maart 2008, wordt vervangen door wat volgt :<br /><br />« Art. 91. De eindexamens van het praktijkgedeelte worden opgesteld en beoordeeld overeenkomstig de algemene bepalingen, vastgelegd door de raad van bestuur en de specifieke bepalingen die zijn opgenomen in het door de raad van bestuur goedgekeurde curriculum. »
+
+### ART. 38.
+
+Artikel 92 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 14 maart 2008, wordt opgeheven.
+
 ## HOOFDSTUK III. Wijzigingen in het besluit van de Vlaamse Regering van 14 december 2001 betreffende de erkenning en de subsidiëring van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, vermeld in het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen
+
+### ART. 39.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 14 december 2001 betreffende de erkenning en de subsidiëring van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen; vermeld in het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming Syntra Vlaanderen, gewijzigd bij het besluit van de Vlaamse Regering van 14 maart 2008, worden de volgende wijzigingen aangebracht :<br /><br />1° in punt 2° wordt de datum « 24 juli 1996 » vervangen door de datum « 13 februari 2009 »;<br /><br />2° punt 10° wordt vervangen door wat volgt :<br />« 10° leertijd : de opleiding, vermeld in artikel 26, 1°, van het decreet; ».
+
+### ART. 40.
+
+In artikel 19, 3°, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 21 maart 2008, worden de woorden « het overgangsexamen, respectievelijk het eindexamen, vermeld in artikelen 81 tot en met 99 van het besluit op de leertijd » vervangen door de woorden « het examen van de algemene vorming, het theoretische examen van de beroepsgerichte vorming en de praktijkproef over de praktijkopleiding, vermeld in artikelen 62 tot en met 78 van het besluit op de leertijd ».
 
 ## HOOFDSTUK IV. Overgangsbepalingen
 
+### ART. 41.
+
+In afwijking van artikel 21, 1°, blijven de stagevergoedingen van de stageovereenkomsten, die erkend zijn bij de inwerkingtreding van dit besluit, ongewijzigd.
+
 ## HOOFDSTUK V. Slotbepalingen
+
+### ART. 42.
+
+Dit besluit treedt in werking op de tiende dag na de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 8 tot en met artikel 32 die in werking treden op 1 juli 2010.
+
+### ART. 43.
+
+De Vlaamse minister, bevoegd voor de beroepsomscholing en -bijscholing, is belast met de uitvoering van dit besluit.
