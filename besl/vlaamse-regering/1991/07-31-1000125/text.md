@@ -18,7 +18,7 @@ De lesgevers in de leertijd en in de gecertificeerde opleidingen worden door de 
 
 ### ART. 5.
 
-§ 1. De lesgevers worden vergoed per lesuur. De examenuren van de examens die niet binnen de lesuren worden georganiseerd, en de uren besteed aan de bijscholing van de lesgevers en bepaalde taken van pedagogische organisatie en coördinatie, die door Syntra Vlaanderen worden bepaald, komen eveneens als lesuren in aanmerking.<br /><br />§ 2. Voor zover de in artikel 2 vermelde cursussen zijn erkend en gesubsidieerd keert Syntra Vlaanderen aan de lesgevers de volgende vergoeding per lesuur uit:<br />1. voor de leertijd: 17,60 euro; <br />2. voor de ondernemersopleiding: 21,32 euro; <br />3. ... <br />4. voor de bijscholing: 27,27 euro. <br /><br />§ 3. ...<br /><br />§ 4. In afwijking van de bepalingen van de toepasselijke CAO inzake de tegemoetkoming van de werkgever in de vervoerskosten wordt, indien de plaatselijke omstandigheden dit vereisen, bijgedragen in de betaling van de reiskosten van de lesgevers voor de bijscholing en de omscholing volgens de geldende spoorwegtarieven 1ste klasse en voor zover een heen- en terugreis 20 km overschrijdt.<br /><br />§ 5. ...
+§ 1. De lesgevers worden vergoed per lesuur. De examenuren van de examens die niet binnen de lesuren worden georganiseerd, en de uren besteed aan de bijscholing van de lesgevers en bepaalde taken van pedagogische organisatie en coördinatie, die door Syntra Vlaanderen worden bepaald, komen eveneens als lesuren in aanmerking.<br /><br />§ 2. Voor zover de in artikel 2 vermelde cursussen zijn erkend en gesubsidieerd keert Syntra Vlaanderen aan de lesgevers de volgende vergoeding per lesuur uit:<br />1. voor de leertijd: 17,60 euro; <br />2. voor de ondernemersopleiding: 21,32 euro; <br />3. ... <br />4. voor de bijscholing: 27,27 euro. <br /><br />In afwijking van het eerste lid kan de raad van bestuur van Syntra Vlaanderen voor welomschreven cursussen, als vermeld in punt 2° en 4°, een hogere vergoeding per lesuur vastleggen.<br /><br />§ 3. ...<br /><br />§ 4. In afwijking van de bepalingen van de toepasselijke CAO inzake de tegemoetkoming van de werkgever in de vervoerskosten wordt, indien de plaatselijke omstandigheden dit vereisen, bijgedragen in de betaling van de reiskosten van de lesgevers voor de bijscholing en de omscholing volgens de geldende spoorwegtarieven 1ste klasse en voor zover een heen- en terugreis 20 km overschrijdt.
 
 ### ART. 6.
 
@@ -73,7 +73,7 @@ De lesuren worden als anderhalf arbeidsuur per lesuur in aanmerking genomen en m
 
 ### ART. 8.
 
-In afwijking van de bepaling van de toepasselijke C.A.O. inzake de indexering worden de bedragen vastgesteld bij artikel 5, § 3 en artikel 6, § 4 de 1° januari van elk jaar aangepast aan de evolutie van het indexcijfer van de consumptieprijzen van de maand december die voorafgaat, met dien verstande dat de eerste aanpassing slechts zal gebeuren op de eerste januari 1992. Deze aanpassing zal gebeuren volgens de formule:
+In afwijking van de bepaling van de toepasselijke C.A.O. inzake de indexering worden de bedragen vastgesteld bij artikel 5, § 2 en artikel 6, § 4 de 1° januari van elk jaar aangepast aan de evolutie van het indexcijfer van de consumptieprijzen van de maand december die voorafgaat, met dien verstande dat de eerste aanpassing slechts zal gebeuren op de eerste januari 1992. Deze aanpassing zal gebeuren volgens de formule:
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
