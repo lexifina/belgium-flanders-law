@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019201,
+  "title": "Besluit van de Vlaamse Regering van 2010-07-06 tot wijziging van het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019201/VolledigDocument?datum=2010-07-06",
+  "source_sha256": "ef8edf597bf783f997b217e6d7ba055fc250853fa8bc6536c0394f4afaa73934",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019201&param=informatie",
+  "as_of": "2010-07-06",
+  "made": "2010-07-06",
+  "gazette": "2010-07-12",
+  "numac": 2010035471,
+  "document_start": "2010-07-06",
+  "document_end": null,
+  "in_force": "2010-07-06",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2010-07-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
