@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019182,
+  "title": "Besluit van de Vlaamse Regering van 2010-06-11 houdende afschaffing van een deel van de Vrouwvliet, onbevaarbare waterloop van eerste categorie, en inschrijving van een deel tot niet-geklasseerde waterloop en klassering van een deel tot onbevaarbare waterloop van tweede categorie in Bonheiden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019182/VolledigDocument?datum=2010-07-11",
+  "source_sha256": "869f02ec9632db60d9ea884d98ab5a4c365e55318443488a1a4146c09f270e38",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019182&param=informatie",
+  "as_of": "2010-07-11",
+  "made": "2010-06-11",
+  "gazette": "2010-07-01",
+  "numac": 2010035426,
+  "document_start": "2010-07-11",
+  "document_end": null,
+  "in_force": "2010-07-11",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2010-07-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
