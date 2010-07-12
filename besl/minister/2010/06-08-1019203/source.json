@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019203,
+  "title": "Ministerieel besluit van 2010-06-08 houdende de rapportering inzake de uitbreiding van het toepassingsgebied in het kader van het Europese emissiehandelsysteem",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019203/VolledigDocument?datum=2010-07-12",
+  "source_sha256": "5049576eac8b871d8409139155e44505736d0b170bf36eb549b83f5e3e1619b2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019203&param=informatie",
+  "as_of": "2010-07-12",
+  "made": "2010-06-08",
+  "gazette": "2010-07-12",
+  "numac": 2010035468,
+  "document_start": "2010-07-12",
+  "document_end": null,
+  "in_force": "2010-07-12",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2010-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
