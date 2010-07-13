@@ -12,7 +12,7 @@ Dit besluit is van toepassing op:<br /><br />1° de arrondissementscommissarisse
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° de minister van Binnenlandse Aangelegenheden: het lid van de Vlaamse regering dat bevoegd is voor de binnenlandse aangelegenheden;<br /><br />2° de gouverneur: de gouverneur van de provincie waar de arrondissementscommissaris of adjunct-arrondisse-mentscommissaris benoemd is.
+Voor de toepassing van dit besluit wordt verstaan onder :<br />1°de minister van Binnenlandse Aangelegenheden : het lid van de Vlaamse Regering dat bevoegd is voor de Binnenlandse Aangelegenheden;<br />2° gouverneur : de provinciegouverneur van de provincie waar de arrondissementscommissaris of adjunct-arrondissementscommissaris benoemd is.
 
 ## DEEL II DEONTOLOGISCHE RECHTEN EN PLICHTEN
 
@@ -46,13 +46,13 @@ De Vlaamse regering verklaart de betrekking van arrondissementscommissaris of ad
 
 ### ART. 9.
 
-Bij de vacantverklaring kan de Vlaamse regering beslissen de mobiliteit toe te laten. In dit geval moeten arrondissementscommissarissen die in een andere provincie benoemd zijn niet meer slagen in de selectieprocedure. Deze bepaling geldt niet voor de adjunct-arrondissementscommissaris en het ambt van adjunct-arrondissementscommissaris.
+§1. Bij de vacantverklaring kan de Vlaamse regering beslissen de mobiliteit toe te laten. In dit geval moeten arrondissementscommissarissen die in een andere provincie benoemd zijn niet meer slagen in de selectieprocedure. Deze bepaling geldt niet voor de adjunct-arrondissementscommissaris en het ambt van adjunct-arrondissementscommissaris.<br /><br />§ 2. Er kan een nieuwe arrondissementscommissaris worden benoemd voor de uittredende arrondissementscommissaris zijn ambt beëindigt. De nieuwe arrondissementscommissaris kan op zijn vroegst drie maanden voor de beëindiging van het ambt van de uittredende arrondissementscommissaris in dienst treden.<br /><br />De nieuwe arrondissementscommissaris staat de uittredende arrondis-sementscommissaris bij in de vervulling van zijn taken en de uitoefening van zijn opdrachten. Bij de beëindiging van het ambt van de uittredende arrondissements-commissaris neemt de nieuwe arrondissementscommissaris het ambt van arrondissementscommissaris op.
 
 ## TITEL 2 DE TOELATINGSVOORWAARDEN
 
 ### ART. 10.
 
-Voor de toegang tot een ambt van arrondissementscommissaris gelden de volgende algemene toelatingsvoorwaarden:<br />1° Belg zijn;<br />2° een gedrag hebben dat in overeenstemming is met de eisen van het ambt van arrondissementscommissaris of adjunct-arrondissementscommissaris;<br />3° de burgerlijke en politieke rechten genieten;<br />4° aan de dienstplichtwetten voldoen;<br />5° een diploma hebben dat toegang geeft tot niveau A bij het ministerie van de Vlaamse Gemeenschap;<br />6° tien jaar relevante ervaring kunnen aantonen.
+Voor de toegang tot een ambt van arrondissementscommissaris gelden de volgende algemene toelatingsvoorwaarden:<br />1° Belg zijn;<br />2° een gedrag hebben dat in overeenstemming is met de eisen van het ambt van arrondissementscommissaris of adjunct-arrondissementscommissaris;<br />3° de burgerlijke en politieke rechten genieten;<br />4° aan de dienstplichtwetten voldoen;<br />5° een diploma hebben dat toegang geeft tot niveau A bij de diensten van de Vlaamse overheid;<br />6° tien jaar relevante ervaring kunnen aantonen.
 
 ## TITEL 3 DE SELECTIEPROCEDURE
 
@@ -68,7 +68,7 @@ De minister van Binnenlandse Aangelegenheden kondigt elke selectieprocedure ten 
 
 ### ART. 13.
 
-De minister van Binnenlandse Aangelegenheden bepaalt de modaliteiten van de selectieprocedure.<br /><br />Onder modaliteiten wordt verstaan:<br />1° de vaststelling van het reglement betreffende de organisatie van de selectieprocedure en de bekendmaking ervan; dit reglement<br />a) bepaalt de termijn waarbinnen de inschrijvingen kunnen worden aanvaard;<br />b) vermeldt het programma en de deelnemingsvoorwaarden en stelt de datum waarop de kandidaten aan deze voorwaarden moeten voldoen vast;<br />c) bepaalt de eventuele puntenverdeling en het minimumaantal punten dat de kandidaten moeten behalen;<br />2° de bepaling van datum en plaats van de proeven;<br />3° de vaststelling van de lijst van de kandidaten;<br />4° de oproeping van de kandidaten;<br />5° het opmaken van het proces-verbaal dat de rangschikking van de geslaagden vaststelt;<br />6° de kennisgeving van het resultaat aan de kandidaten.
+De minister van Binnenlandse Aangelegenheden bepaalt de modaliteiten van de selectieprocedure.<br /><br />Onder modaliteiten wordt verstaan:<br />1° de vaststelling van het reglement betreffende de organisatie van de selectieprocedure en de bekendmaking ervan; dit reglement<br />a) bepaalt de termijn waarbinnen de inschrijvingen kunnen worden aanvaard;<br />b) vermeldt het programma en de deelnemingsvoorwaarden en stelt de datum waarop de kandidaten aan deze voorwaarden moeten voldoen vast;<br />c) bepaalt de wijze waarop de geschiktheid van de kandidaten wordt beoordeeld; <br />2° de bepaling van datum en plaats van de proeven;<br />3° de vaststelling van de lijst van de kandidaten;<br />4° de oproeping van de kandidaten;<br />5° het opmaken van het proces-verbaal dat de rangschikking van de geslaagden vaststelt;<br />6° de kennisgeving van het resultaat aan de kandidaten.
 
 ### ART. 14.
 
@@ -78,7 +78,7 @@ Iedere kandidaat die voor de selectieprocedure inschrijft, ontvangt op aanvraag 
 
 ### ART. 15.
 
-De minister van Binnenlandse Aangelegenheden stelt de selectiecommissie samen. De gouverneur zetelt in de commissie.
+De minister van Binnenlandse Aangelegenheden stelt de selectiecommissie samen. De gouverneur zetelt in de commissie.<br /><br />Aan de leden van de selectiecommissie kan door de minister van Binnenlandse Aangelegenheden een presentiegeld en een vergoeding voor reiskosten worden toegekend.
 
 ### ART. 16.
 
@@ -202,7 +202,7 @@ Elke tuchtstraf wordt in het personeelsdossier opgenomen.
 
 ### ART. 42.
 
-§ 1. Elke tuchtstraf behalve de afzetting en het ontslag van ambtswege wordt in het persoonlijk dossier van de arrondissementscommissaris doorgehaald onder de in § 2 bepaalde voorwaarden en uit het personeelsdossier verwijderd.<br /><br />Onverminderd de uitvoering van de straf heeft de doorhaling tot gevolg dat met de doorgehaalde tuchtstraf op geen enkele wijze meer rekening mag worden gehouden.<br /><br />§ 2. De doorhaling van de tuchtstraffen gebeurt van rechtswege na een termijn waarvan de duur is vastgesteld op:<br />- één jaar voor de blaam;<br />- zes jaar voor de tuchtschorsing.<br /><br />De termijn loopt vanaf de datum van de eindbeslissing in de tuchtprocedure.
+§ 1. Elke tuchtstraf behalve de afzetting en het ontslag van ambtswege wordt in het persoonlijk dossier van de arrondissementscommissaris doorgehaald onder de in § 2 bepaalde voorwaarden en uit het personeelsdossier verwijderd.<br /><br />Onverminderd de uitvoering van de straf heeft de doorhaling tot gevolg dat met de doorgehaalde tuchtstraf op geen enkele wijze meer rekening mag worden gehouden.<br /><br />§ 2. De doorhaling van de tuchtstraffen gebeurt van rechtswege na een termijn waarvan de duur is vastgesteld op :<br />1° één jaar voor de blaam;<br />2° drie jaar voor de tuchtschorsing. <br /><br />De termijn loopt vanaf de datum van de eindbeslissing in de tuchtprocedure.
 
 ## DEEL V HET VERLOF EN DE ADMINISTRATIEVE TOESTAND TIJDENS VERLOF
 
@@ -236,7 +236,7 @@ De arrondissementscommissaris mag niet afwezig zijn zonder verlof, vakantie of d
 
 ### ART. 49.
 
-§ 1. De arrondissementscommissaris heeft jaarlijks recht op 35 werkdagen vakantie.<br /><br />Boven op de 35 werkdagen vakantie heeft de arrondissementscommissaris van 55 jaar of ouder recht op het volgende aantal werkdagen vakantie :<br />1° vanaf 55 jaar : één werkdag;<br />2° vanaf 57 jaar : twee werkdagen;<br />3° vanaf 59 jaar : drie werkdagen;<br />4° vanaf 60 jaar : vier werkdagen;<br />5° vanaf 61 jaar : vijf werkdagen.<br /><br />§ 2. De arrondissementscommissaris neemt de vakantiedagen naar eigen keuze.<br /><br />Hij houdt rekening met de behoeften van de dienst onder verantwoordelijkheid van de provinciegouverneur.<br /><br />In afwijking van het vorig lid heeft de arrondissementscommissaris evenwel het recht om binnen het aantal van 35 werkdagen, 4 werkdagen vakantieverlof te nemen zonder dat de provinciegouverneur het dienstbelang daar tegenover kan stellen.<br /><br />§ 3. De arrondissementscommissaris neemt de jaarlijkse vakantie op binnen het kalenderjaar.
+§ 1. De arrondissementscommissaris heeft jaarlijks recht op 35 werkdagen vakantie.<br /><br />Boven op de 35 werkdagen vakantie heeft de arrondissementscommissaris van 55 jaar of ouder recht op het volgende aantal werkdagen vakantie :<br />1° vanaf 55 jaar : één werkdag;<br />2° vanaf 57 jaar : twee werkdagen;<br />3° vanaf 59 jaar : drie werkdagen;<br />4° vanaf 60 jaar : vier werkdagen;<br />5° vanaf 61 jaar : vijf werkdagen.<br /><br />§ 2. De arrondissementscommissaris neemt de vakantiedagen naar eigen keuze.<br /><br />Hij houdt rekening met de behoeften van de dienst onder verantwoordelijkheid van de provinciegouverneur.<br /><br />In afwijking van het vorig lid heeft de arrondissementscommissaris evenwel het recht om binnen het aantal van 35 werkdagen, 4 werkdagen vakantieverlof te nemen zonder dat de provinciegouverneur het dienstbelang daar tegenover kan stellen.<br /><br />§ 3. De arrondissementscommissaris neemt de jaarlijkse vakantie op binnen het kalenderjaar.<br /><br />In afwijking van het eerste lid kan de arrondissementscommissaris 11 vakantiedagen overdragen naar het volgende jaar.
 
 ### ART. 50.
 
@@ -244,11 +244,11 @@ Elke periode van dienstactiviteit geeft recht op jaarlijkse vakantiedagen.<br />
 
 ### ART. 51.
 
-§ 1. De arrondissementscommissaris heeft vakantie op de wettelijke en decretale feestdagen en op 2 en 15 november en 26 december.<br /><br />§ 2. Ter vervanging van de in § 1 vermelde vakantiedagen die samenvallen met een zaterdag of zondag, heeft de arrondissementscommissaris, vakantie voor de periode tussen Kerstmis en nieuwjaar.<br /><br />Als hij verplicht wordt om op één van de in § 1 vermelde dagen of in de periode tussen Kerstmis en nieuwjaar te werken ten gevolge van behoeften van de dienst, krijgt hij in evenredige mate vervangende vakantiedagen die hij onder dezelfde voorwaarden als de jaarlijkse vakantiedagen kan nemen.
+§ 1. De arrondissementscommissaris heeft vakantie op de wettelijke en decretale feestdagen en op 2 en 15 november en 26 december.<br /><br />§ 2. Ter vervanging van de in § 1 vermelde vakantiedagen die samenvallen met een zaterdag of zondag, heeft de arrondissementscommissaris, vakantie voor de periode tussen Kerstmis en nieuwjaar.<br /><br />Als hij verplicht wordt om op één van de in § 1 vermelde dagen of in de periode tussen Kerstmis en nieuwjaar te werken ten gevolge van behoeften van de dienst, krijgt hij in evenredige mate vervangende vakantiedagen die hij onder dezelfde voorwaarden als de jaarlijkse vakantiedagen kan nemen.<br /><br />§ 3. De arrondissementscommissaris die voor Kerstmis zijn ambt neerlegt ingevolge pensionering, krijgt vervangende vakantiedagen, gelijk aan het aantal feestdagen dat samenvalt met een zaterdag of zondag tijdens het gedeelte van het jaar dat voorafgaat aan zijn opruststelling.
 
 ### ART. 52.
 
-De vakantiedagen worden met een periode van dienstactiviteit gelijkgesteld. Zij worden niet opgeschort bij ziekte maar wel bij hospitalisatie van de arrondissementscommissaris.
+De vakantiedagen worden met een periode van dienstactiviteit gelijkgesteld. Zij worden niet opgeschort bij ziekte maar wel bij hospitalisatie van de arrondissementscommissaris en de eventueel daarop aansluitende herstelperiode.
 
 ## TITEL 3 [MOEDERSCHAPSRUST, VADER- OF MEEMOEDERSCHAPSVERLOF, OPVANGVERLOF, PLEEGZORGVERLOF EN PLEEGOUDERVERLOF (verv. BVR 28 juni 2019, art.10, I: 1 mei 2019)]
 
@@ -256,7 +256,7 @@ De vakantiedagen worden met een periode van dienstactiviteit gelijkgesteld. Zij 
 
 ### ART. 53.
 
-De arrondissementscommissaris heeft recht op het bevallingsverlof bedoeld in artikel 39 van de arbeidswet van 16 maart 1971. Dit verlof wordt gelijkgesteld met een periode van dienstactiviteit.
+De arrondissementscommissaris heeft recht op de moederschapsrust bedoeld in artikel 39 van de arbeidswet van 16 maart 1971. Dit verlof wordt gelijkgesteld met een periode van dienstactiviteit.
 
 ### ART. 54.
 
@@ -268,7 +268,7 @@ De periode waarin de moederschapsrust bezoldigd wordt, mag niet meer dan vijftie
 
 ### ART. 56.
 
-§ 1. Als de moeder overlijdt, heeft de vader van het kind recht op vaderschapsverlof; de duur daarvan mag het deel van het bevallingsverlof dat de moeder nog niet opgenomen had bij haar overlijden, niet overschrijden.<br /><br />§ 2. Wanneer de moeder in een ziekenhuis opgenomen wordt, heeft de vader van het kind recht op vaderschapsverlof; dit verlof begint ten vroegste vanaf de achtste dag te rekenen vanaf de geboorte van het kind, op voorwaarde dat de opname van de moeder in het ziekenhuis meer dan zeven kalenderdagen bedraagt en dat de pasgeborene het ziekenhuis verlaten heeft.<br /><br />Het vaderschapsverlof verstrijkt op het moment dat de opname van de moeder in het ziekenhuis een einde neemt; het vaderschapsverlof verstrijkt ten laatste wanneer de periode verstrijkt die overeenstemt met het deel van het bevallingsverlof dat de moeder op het ogenblik van haar opname in het ziekenhuis nog niet had opgenomen.<br /><br />§ 3. Dit vaderschapsverlof wordt gelijkgesteld met een periode van dienstactiviteit.
+§ 1. Als de moeder overlijdt, heeft de vader van het kind recht op vaderschapsverlof; de duur daarvan mag het deel van de moederschapsrust dat de moeder nog niet opgenomen had bij haar overlijden, niet overschrijden.<br /><br />§ 2. Wanneer de moeder in een ziekenhuis opgenomen wordt, heeft de vader van het kind recht op vaderschapsverlof; dit verlof begint ten vroegste vanaf de achtste dag te rekenen vanaf de geboorte van het kind, op voorwaarde dat de opname van de moeder in het ziekenhuis meer dan zeven kalenderdagen bedraagt en dat de pasgeborene het ziekenhuis verlaten heeft.<br /><br />Het vaderschapsverlof verstrijkt op het moment dat de opname van de moeder in het ziekenhuis een einde neemt; het vaderschapsverlof verstrijkt ten laatste wanneer de periode verstrijkt die overeenstemt met het deel van de moederschapsrust dat de moeder op het ogenblik van haar opname in het ziekenhuis nog niet had opgenomen.<br /><br />§ 3. Dit vaderschapsverlof wordt gelijkgesteld met een periode van dienstactiviteit.
 
 ## HOOFDSTUK 2 OPVANGVERLOF
 
@@ -290,9 +290,21 @@ Dit verlof wordt gelijkgesteld met een periode van dienstactiviteit.
 
 ### ART. 60.
 
-§ 1. Ziekteverlof wordt toegestaan voor de duur van de afwezigheid naar aanleiding van:<br />1° een arbeidsongeval;<br />2° een ongeval op weg naar en van het werk;<br />3° een beroepsziekte.<br />5° de dagen afwezigheid wegens ziekte die zich voordoen binnen zes weken voor de werkelijke bevallingsdatum. Bij geboorte van een meerling wordt die periode verlengd tot acht weken.<br /><br />§ 2. Is de afwezigheid te wijten aan de in § 1 vermelde redenen of aan een ongeval, veroorzaakt door de schuld van een derde dan ontvangt de arrondissementscommissaris zijn salaris alleen als voorschot dat betaald wordt op de door de derde verschuldigde vergoeding en dat op de derde te verhalen is.<br /><br />Het Vlaamse Gewest treedt in dit geval van rechtswege in alle rechten, vorderingen en rechtsmiddelen die de getroffene mocht kunnen doen gelden tegen de persoon die verantwoordelijk is voor het ongeval tot het bedrag van het salaris.<br /><br />§ 3. De minister van Binnenlandse Aangelegenheden neemt de juridische beslissing over de erkenning van arbeidsongevallen en van ongevallen op weg naar en van het werk.<br /><br />Hij neemt ook de juridische beslissing over de toekenning van schadevergoeding voor arbeidsongevallen, voor ongevallen op weg naar en van het werk en voor beroepsziekten in de overheidssector.
+§ 1. Ziekteverlof wordt toegestaan voor de duur van de afwezigheid naar aanleiding van:<br />1° een arbeidsongeval;<br />2° een ongeval op weg naar en van het werk;<br />3° een beroepsziekte.<br />4° een ongeval van gemeen recht, veroorzaakt door de schuld van een derde;<br />5° de dagen afwezigheid wegens ziekte die zich voordoen binnen zes weken voor de werkelijke bevallingsdatum. Bij geboorte van een meerling wordt die periode verlengd tot acht weken.<br /><br />§ 2. Is de afwezigheid te wijten aan de in § 1 vermelde redenen of aan een ongeval, veroorzaakt door de schuld van een derde dan ontvangt de arrondissementscommissaris zijn salaris alleen als voorschot dat betaald wordt op de door de derde verschuldigde vergoeding en dat op de derde te verhalen is.<br /><br />Het Vlaamse Gewest treedt in dit geval van rechtswege in alle rechten, vorderingen en rechtsmiddelen die de getroffene mocht kunnen doen gelden tegen de persoon die verantwoordelijk is voor het ongeval tot het bedrag van het salaris.<br /><br />§ 3. De minister van Binnenlandse Aangelegenheden neemt de juridische beslissing over de erkenning van arbeidsongevallen en van ongevallen op weg naar en van het werk.<br /><br />Hij neemt ook de juridische beslissing over de toekenning van schadevergoeding voor arbeidsongevallen, voor ongevallen op weg naar en van het werk en voor beroepsziekten in de overheidssector.
 
 ## [TITEL 4/1 VERLOF VOOR DEELTIJDSE PRESTATIES (ing. BVR 18 juni 2010, art. 18, I: 13 juli 2010)]
+
+### ART. 60/1.
+
+De arrondissementscommissaris kan een verlof voor deeltijdse prestaties krijgen. Dat verlof wordt toegestaan door de gouverneur, die beoordeelt of het geven van de toestemming verenigbaar is met de goede werking van de dienst. Een verlof voor deeltijdse prestaties wordt minstens één maand voor de aanvang ervan aangevraagd.<br /><br />De nadere regelen voor de opname van het verlof voor deeltijdse prestaties worden bepaald in overleg met de gouverneur en de arrondissementscommissaris.<br /><br />De arrondissementscommissaris kan binnen vijftien kalenderdagen te rekenen vanaf de kennisgeving van de beslissing tot weigering, in beroep gaan bij de minister van Binnenlandse Aangelegenheden. De minister van Binnenlandse Aangelegenheden neemt een definitieve beslissing binnen dertig kalenderdagen.
+
+### ART. 60/2.
+
+Het ziekteverlof maakt geen einde aan het stelsel van verlof voor deeltijdse prestaties.<br /><br />Als een feestdag op een dag verlof voor deeltijdse prestaties valt, loopt dat verlof door.<br /><br />Het verlof voor deeltijdse prestaties wordt opgeschort zodra de arrondis-sementscommissaris verlof krijgt voor bevalling, adoptie, pleegvoogdij en ouderschap.<br /><br />
+
+### ART. 60/3.
+
+Het verlof voor deeltijdse prestaties wordt voor een periode van vijf jaar gelijkgesteld met dienstactiviteit. De afwezigheid wordt evenwel niet bezoldigd.<br /><br />Nadat die termijn van vijf jaar verstreken is, wordt de arrondissementscommissaris die verlof voor deeltijdse prestaties geniet tijdens de duur van de afwezigheid, op non-activiteit gesteld.<br /><br />Het verlof voor deeltijdse prestaties kan worden opgezegd door de arrondissementscommissaris en door de gouverneur. Hierbij moet een opzeggingstermijn van één maand in acht worden genomen tenzij anders overeengekomen. De arrondissementscommissaris kan een aangevraagd of begonnen verlof voor deeltijdse prestaties enkel opzeggen wegens dwingende redenen en na overleg met de gouverneur.
 
 ## TITEL 5 [LOOPBAANONDERBREKING IN HET KADER VAN EEN FEDERAAL ZORGVERLOF (verv. BVR 28 juni 2019, art. 15, I: 4 oktober 2019)]
 
@@ -400,13 +412,45 @@ Bij het einde van zijn opdracht stelt de arrondissementscommissaris zich opnieuw
 
 ## [TITEL 7/1 POLITIEK VERLOF (ing. BVR 18 juni 2010, art. 20, I: 13 juli 2010)]
 
+### ART. 81/1.
+
+§ 1. De arrondissementscommissaris die zijn ambt met volledige prestaties uitoefent, heeft, volgens de hierna vermelde regelen, recht op politiek verlof voor de uitoefening van een politiek mandaat of een ambt dat ermee gelijkgesteld kan worden, mits hij de onverenigbaarheden en verbodsbepalingen naleeft die krachtens wettelijke of reglementaire bepalingen op hem van toepassing zijn.<br /><br />Het eerste lid is ook van toepassing op de arrondissementscommissaris die minimaal 80 % van de normale arbeidsduur werkt door verlof voor deeltijdse prestaties.<br /><br />§ 2. Het verlof of de dienstvrijstelling wordt aangevraagd bij en toegestaan door de gouverneur.
+
+### ART. 81/2.
+
+Op aanvraag van de arrondissementscommissaris wordt binnen de hierna bepaalde perken dienstvrijstelling verleend voor de uitoefening van de volgende politieke mandaten :<br />1° gemeenteraadslid dat noch burgemeester noch schepen is, of lid van een raad voor maatschappelijk welzijn van een gemeente, de voorzitter uitgezonderd, of lid van de districtsraad van een district, de voorzitter van het districtscollege uitgezonderd : twee dagen per maand;<br />2° provincieraadslid dat geen lid is van de deputatie : twee dagen per maand.
+
+### ART. 81/3.
+
+Op aanvraag van de arrondissementscommissaris wordt binnen de hierna bepaalde perken facultatief politiek verlof toegekend voor de uitoefening van de volgende politieke mandaten :<br />1° gemeenteraadslid dat noch burgemeester noch schepen is, of lid van de raad voor maatschappelijk welzijn van een gemeente, de voorzitter en de leden van het vast bureau uitgezonderd, of lid van de districtsraad van een district, de voorzitter van het districtscollege en de leden van het districtscollege uitgezonderd :<br />a) tot 80.000 inwoners : twee dagen per maand;<br />b) meer dan 80.000 inwoners : vier dagen per maand;<br />2° schepen of voorzitter van de raad voor maatschappelijk welzijn van een gemeente of van het districtscollege van een district :<br />a) tot 30.000 inwoners : vier dagen per maand;<br />b) van 30.001 tot 50.000 inwoners : een vierde van een voltijds ambt;<br />c) van 50.001 tot 80.000 inwoners : de helft van een voltijds ambt;<br />3° lid van het vast bureau van de raad voor maatschappelijk welzijn van een gemeente of van het districtscollege van een district :<br />a) tot 10.000 inwoners : twee dagen per maand;<br />b) van 10.001 tot 20.000 inwoners : drie dagen per maand;<br />c) met meer dan 20.000 inwoners : vijf dagen per maand;<br />4° burgemeester van een gemeente :<br />a) tot 30.000 inwoners : een vierde van een voltijds ambt;<br />b) van 30.001 tot 50.000 inwoners : de helft van een voltijds ambt;<br />5° provincieraadslid dat geen lid is van de deputatie : vier dagen per maand.
+
+### ART. 81/4.
+
+De arrondissementscommissaris wordt binnen de hierna bepaalde perken met politiek verlof van ambtswege gezonden voor de uitoefening van de volgende politieke mandaten :<br />1° burgemeester van een gemeente of voorzitter van het districtscollege van een district :<br />a) tot 20.000 inwoners : drie dagen per maand;<br />b) van 20.001 tot 30.000 inwoners : een vierde van een voltijds ambt;<br />c) van 30.001 tot 50.000 inwoners : de helft van een voltijds ambt;<br />d) met meer dan 50.000 inwoners : voltijds.<br />2° schepen of voorzitter van de raad voor maatschappelijk welzijn van een gemeente of lid van het districtscollege van een district :<br />a) tot 20.000 inwoners : 2 dagen per maand;<br />b) van 20.001 inwoners tot 30.000 inwoners : vier dagen per maand;<br />c) van 30.001 tot 50.000 inwoners : een vierde van een voltijds ambt;<br />d) van 50.001 tot 80.000 inwoners : de helft van een voltijds ambt;<br />e) met meer dan 80.000 inwoners : voltijds.<br />3° lid van de deputatie van een provincieraad : voltijds;<br />4° lid van de Kamer van Volksvertegenwoordigers of van de Senaat : voltijds;<br />5° lid van het Brussels Hoofdstedelijk Parlement : voltijds;<br />6° lid van het Europees Parlement : voltijds;<br />7° lid van het Vlaams Parlement : voltijds;<br />8° lid van de Federale Regering : voltijds;<br />9° lid van de Brusselse Hoofdstedelijke Regering : voltijds;<br />10° gewestelijk staatssecretaris van het Brussels Hoofdstedelijk Gewest : voltijds;<br />11° lid van de Commissie van de Europese Unie : voltijds;<br />12° lid van de Vlaamse Regering : voltijds.<br /><br />In het geval, vermeld in het eerste lid, 1°, worden de voorzitters van het districtscollege van een district voor het politiek verlof van ambtswege gelijkgesteld met een burgemeester van een gemeente waarbij de duur van het ambtshalve politiek verlof beperkt wordt tot het percentage van de vergoeding van de burgemeester die zij ontvangen.<br /><br />In het geval vermeld in het eerste lid, 2°, worden de leden van het districtscollege van een district voor het politiek verlof van ambtswege gelijkgesteld met een schepen van een gemeente waarbij de duur van het ambtshalve politiek verlof beperkt wordt tot het percentage van de vergoeding van de schepenen die zij ontvangen.<br /><br />Het politiek verlof van ambtswege vangt aan op de datum van de eedaflegging.
+
+### ART. 81/5.
+
+In afwijking van artikel 81/1 wordt de arrondissementscommissaris die zijn ambt met deeltijdse prestaties van minder dan 80 % van de normale arbeidsduur uitoefent, niettemin met voltijds politiek verlof van ambtswege gezonden voor de uitoefening van een politiek mandaat als vermeld in artikel 81/4, voor zover daaraan een politiek verlof van ambtswege beantwoordt waarvan de duur ten minste de helft van een voltijds ambt bedraagt.
+
+### ART. 81/6.
+
+De arrondissementscommissaris die voor de uitoefening van een mandaat van burgemeester, schepen of voorzitter van een raad voor maatschappelijk welzijn of van het districtscollege van een district recht heeft op politiek verlof waarvan de duur niet de helft van een voltijds ambt overschrijdt, kan, op aanvraag, halftijds of voltijds politiek verlof krijgen.<br /><br />De arrondissementscommissaris die voor de uitoefening van een mandaat als vermeld in het eerste lid, recht heeft op halftijds politiek verlof, kan, op aanvraag, voltijds politiek verlof krijgen.<br /><br />Het politiek verlof dat met toepassing van het eerste en tweede lid wordt verkregen, wordt gelijkgesteld met politiek verlof van ambtswege voor de weerslag die het heeft op de administratieve en geldelijke toestand van de arrondissementscommissaris.
+
+### ART. 81/7.
+
+De afwezigheden wegens facultatief politiek verlof en politiek verlof van ambtswege voor een politiek mandaat, als vermeld in artikel 81/3 en 81/4, eerste lid, 1°, 2° en 3°, worden gelijkgesteld met een periode van dienstactiviteit. De arrondissementscommissaris heeft evenwel geen recht op salaris.<br /><br />Het voltijds politiek verlof van ambtswege voor een politiek mandaat als vermeld in artikel 81/4, eerste lid, 4° tot en met 12°, wordt gelijkgesteld met een periode van non-activiteit.
+
+### ART. 81/8.
+
+§ 1. Het politiek verlof voor een politiek mandaat als vermeld in artikel 81/2, 81/3 en 81/4, eerste lid, 1°, 2° en 3°, eindigt uiterlijk op de laatste dag van de maand die volgt op de maand waarin het mandaat eindigt.<br /><br />Het politiek verlof voor een politiek mandaat als vermeld in artikel 81/4, eerste lid, 4° tot en met 12°, loopt tot zes maanden na de beëindiging van het mandaat.<br /><br />Vanaf dat ogenblik herkrijgt de betrokkene alle statutaire rechten.<br /><br />§ 2. De arrondissementscommissaris mag na wederindiensttreding zijn salaris niet cumuleren met een voordeel dat verbonden is aan de uitoefening van het afgelopen mandaat.
+
 ## [TITEL 7/2 GEBOORTEVERLOF (ing. BVR 28 juni 2019, art. 27, I: 4 oktober 2019)]
 
 ## [TITEL 8 VERVANGING BIJ LANGDURIGE AFWEZIGHEID EN WAARNEMING VAN HET AMBT (verv. BVR 28 juni 2019, art. 28, I: 4 oktober 2019)]
 
 ### ART. 82.
 
-Bij langdurige afwezigheid kan de gouverneur de arrondissementscommissaris vervangen door een ambtenaar van niveau A van de diensten van de Vlaamse regering, van een Vlaamse openbare instelling of van een lokaal bestuur. De vervanger geniet de prerogatieven en het geldelijk statuut van de arrondissementscommissaris.
+Bij langdurige afwezigheid kan de gouverneur de arrondissementscommissaris vervangen door een ambtenaar van niveau A van de Vlaamse ministeries, van een agentschap met rechtspersoonlijkheid of Vlaamse openbare instelling, van een lokaal bestuur of van de federale overheid. De vervanger geniet de prerogatieven en het geldelijk statuut van de arrondissementscommissaris.
 
 ## DEEL VI VRIJWILLIG ONTSLAG VAN ARRONDISSE-MENTSCOMMISSARIS OF ADJUNCT- ARRONDISSEMENTSCOMMISSARIS EN DEFINITIEVE AMBTSNEERLEGGING
 
@@ -417,6 +461,10 @@ De arrondissementscommissaris kan vrijwillig zijn ontslag indienen.<br /><br />H
 ### ART. 84.
 
 De arrondissementscommissaris gaat op rust ten laatste wanneer hij vijfenzestig jaar wordt.
+
+### ART. 84/1.
+
+De op rust gestelde arrondissementscommissaris kan door de minister van Binnenlandse Aangelegenheden gemachtigd worden de eretitel van zijn ambt te dragen.
 
 ## DEEL VII GELDELIJK STATUUT
 
@@ -477,6 +525,10 @@ Voor de vaststelling van het salaris en het bepalen van het tijdstip van de peri
 ### ART. 94/1.
 
 De verplichte deeltijdse prestaties verricht in het kader van de stages der jongeren gepresteerd binnen de openbare sector worden met ingang van 1 januari 2007 in aanmerking genomen voor de berekening van het salaris.
+
+### ART. 94/2.
+
+De geldelijke anciënniteit van de arrondissementscommissaris bij zijn indiensttreding kan niet minder bedragen dan de geldelijke anciënniteit die in rekening werd gebracht bij een vorige werkgever uit de openbare sector.
 
 ## HOOFDSTUK 4 UITBETALING VAN HET SALARIS
 
@@ -566,7 +618,7 @@ De provinciegouverneur beslist welk vervoermiddel functioneel en financieel het 
 
 ### ART. 112.
 
-De arrondissementscommissaris en de adjunct-arrondissementscommissaris genieten reis- en verblijfsvergoedingen zoals het personeel van het ministerie van de Vlaamse Gemeenschap.
+De arrondissementscommissaris en de adjunct-arrondissementscommissaris genieten reis- en verblijfsvergoedingen zoals de personeelsleden van de diensten van de Vlaamse overheid overeenkomstig de bepalingen van het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid.
 
 ## HOOFDSTUK 4 REPRESENTATIEKOSTEN
 
@@ -592,6 +644,10 @@ Deze vergoeding wordt maandelijks, in twaalfden en na vervallen termijn betaald,
 
 ## [HOOFDSTUK 5 WOON- WERKVERKEER MET HET OPENBAAR VERVOER (ing. BVR 18 juni 2010, art. 27, I: 13 juli 2010)]
 
+### ART. 117/1.
+
+De werkgever neemt de kosten van een abonnement op het openbaar vervoer naar en van de plaats van het werk volledig ten laste.<br /><br />Het supplement voor een abonnement in eerste klasse van de N.M.B.S. blijft ten laste van de arrondissementscommissaris.
+
 ## [HOOFDSTUK 6 TOEKENNING VAN EEN FIETSVERGOEDING (ing. BVR 18 juni 2010 ,art. 27, I: 1 juli 2007)]
 
 ### ART. 117/2.
@@ -613,6 +669,10 @@ De nominale waarde van de maaltijdcheque bedraagt 5,00 euro, waarvan 1,09 euro w
 Bij een verlof voor opdracht blijft het recht op maaltijdcheques behouden als het salaris door de Vlaamse overheid wordt doorbetaald.<br /><br />Bij dienstvrijstelling die een volledige werkdag in beslag neemt, beslist de provinciegouverneur naargelang van de aard van de dienstvrijstelling of het recht op maaltijdcheques behouden blijft.<br /><br />Een buitenlandse dienstreis geeft geen recht op de toekenning van een maaltijdcheque.<br /><br />Er is geen recht op maaltijdcheques in geval van tuchtschorsing als vermeld in artikel 18, punt 2°.<br /><br />
 
 ## [HOOFDSTUK 8 RECHTSBIJSTAND (ing. BVR 18 juni 2010, art. 27, I: 13 juli 2010)]
+
+### ART. 117/6.
+
+De arrondissementscommissarissen die door derden gerechtelijk vervolgd worden, krijgen daarvoor rechtsbijstand onder de voorwaarden, vermeld in een omzendbrief van de minister van Binnenlandse Aangelegenheden.
 
 ## DEEL VIII OPHEFFINGS-, OVERGANGS- EN SLOTBEPALINGEN
 
