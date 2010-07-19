@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019219,
+  "title": "Decreet van 2010-06-11 houdende wijziging van het decreet van 28 juni 1985 betreffende de milieuvergunning, wat betreft de invoering van maatregelen tot aanpak van de milieuvergunningenpiek",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019219/VolledigDocument?datum=2010-07-19",
+  "source_sha256": "dfe77fa292865b694a206b81a41355063b96c267daec4f81c0e82f98cce36903",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019219&param=informatie",
+  "as_of": "2010-07-19",
+  "made": "2010-06-11",
+  "gazette": "2010-07-19",
+  "numac": 2010035482,
+  "document_start": "2010-07-19",
+  "document_end": null,
+  "in_force": "2010-07-19",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2010-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
