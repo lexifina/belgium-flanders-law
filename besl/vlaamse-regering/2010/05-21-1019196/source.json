@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019196,
+  "title": "Besluit van de Vlaamse Regering van 2010-05-21 tot wijziging van het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning en van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, voor wat betreft de milieukwaliteitsnormen voor oppervlaktewateren, waterbodems en grondwater",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019196/VolledigDocument?datum=2010-07-19",
+  "source_sha256": "bece3e52cdf7985f2f8ee99158a9ea82ff4d3c44cfc35c13f777dc7e04744299",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019196&param=informatie",
+  "as_of": "2010-07-19",
+  "made": "2010-05-21",
+  "gazette": "2010-07-09",
+  "numac": 2010035462,
+  "document_start": "2011-01-21",
+  "document_end": null,
+  "in_force": "2010-07-19",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2010-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
