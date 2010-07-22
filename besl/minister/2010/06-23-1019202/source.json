@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019202,
+  "title": "Ministerieel besluit van 2010-06-23 houdende de vervanging van een lid van de beoordelingscommissie landbouwnabestemming voor het bijzonder oppervlaktedelfstoffenplan Klei van de Kempen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019202/VolledigDocument?datum=2010-07-22",
+  "source_sha256": "f58095547b867cd63f89c4e5fdcfacf8ffa8332cddca448dd5c29350a6404f04",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019202&param=informatie",
+  "as_of": "2010-07-22",
+  "made": "2010-06-23",
+  "gazette": "2010-07-12",
+  "numac": 2010203647,
+  "document_start": "2010-07-22",
+  "document_end": null,
+  "in_force": "2010-07-22",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2010-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
