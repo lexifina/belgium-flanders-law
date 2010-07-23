@@ -2,16 +2,16 @@
   "codex_id": 1019205,
   "title": "Besluit van de Vlaamse Regering van 2010-06-11 houdende goedkeuring van de wijzigingen in het huishoudelijk reglement van de raad van bestuur van het Vlaams Agentschap voor Ondernemersvorming. - Syntra Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019205/VolledigDocument?datum=2010-03-01",
-  "source_sha256": "cffbb8817d261509e73aa45c58c6bc0f44d373b008d95360a5af884f20c7ee0c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019205/VolledigDocument?datum=2010-07-23",
+  "source_sha256": "2b974576ec83932a27aa59d46b85ba2439aedf575a8d62171679d4268565f948",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019205&param=informatie",
-  "as_of": "2010-03-01",
+  "as_of": "2010-07-23",
   "made": "2010-06-11",
   "gazette": "2010-07-13",
   "numac": 2010203626,
   "document_start": "2010-07-23",
   "document_end": null,
-  "in_force": "2010-03-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2010-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-07-23",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2010-07-23; future article versions excluded; article text as the API gives it"
 }

@@ -4,6 +4,14 @@
 
 De Vlaamse Regering,<br /><br />Gelet op het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, gewijzigd bij de decreten van 27 april 2007 en 10 juli 2008, artikel 22;<br /><br />Gelet op het besluit van de Vlaamse Regering van 10 november 2006 houdende het huishoudelijk reglement van de raad van bestuur van het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br /><br />Gelet op het advies van de raad van bestuur van het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, gegeven op 23 april 2010;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 3 juni 2010;<br /><br />Op voorstel van de Vlaamse minister van Financiën, Begroting, Werk, Ruimtelijke Ordening en Sport;<br /><br />Na beraadslaging, <br /><br />Besluit : <br /><br />
 
+### ART. 1.
+
+De wijzigingen in het huishoudelijk reglement van de raad van bestuur van het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, die opgenomen zijn in de bijlage die bij dit besluit is gevoegd, worden goedgekeurd met ingang van 1 maart 2010. <br /><br />
+
+### ART. 2.
+
+De Vlaamse minister, bevoegd voor de professionele vorming, is belast met de uitvoering van dit besluit.<br /><br />
+
 ## BIJLAGE Wijzigingen in het huishoudelijk reglement van de raad van bestuur van het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen
 
 ### ART. 1.
