@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019211,
+  "title": "Ministerieel besluit van 2007-12-14 houdende vaststelling van richtsnoeren voor het opstellen en wijzigen van het « monitoringplan » voor de handelsperiode 2008-2012",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019211/VolledigDocument?datum=2010-07-25",
+  "source_sha256": "41f669dd0dc6971c63b8b6387709929018e0866c9a0a3d663894fd4f6d5639ba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019211&param=informatie",
+  "as_of": "2010-07-25",
+  "made": "2007-12-14",
+  "gazette": "2010-07-15",
+  "numac": 201035467,
+  "document_start": "2010-07-25",
+  "document_end": null,
+  "in_force": "2010-07-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-07-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
