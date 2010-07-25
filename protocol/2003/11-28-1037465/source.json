@@ -1,0 +1,17 @@
+{
+  "codex_id": 1037465,
+  "title": "Protocol van 2003-11-28 inzake de explosieve oorlogsresten",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1037465/VolledigDocument?datum=2010-07-25",
+  "source_sha256": "09a045bc67dcf17bdbf9892ec31d5721cff86c20aae41e837d1806e010b1dd9f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1037465&param=informatie",
+  "as_of": "2010-07-25",
+  "made": "2003-11-28",
+  "gazette": "2010-03-01",
+  "numac": 2008015125,
+  "document_start": "2010-07-25",
+  "document_end": null,
+  "in_force": "2010-07-25",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2010-07-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
