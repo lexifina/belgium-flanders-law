@@ -28,6 +28,10 @@ De projecten worden beoordeeld op basis van de volgende criteria:<br /><br />1°
 
 De projecten die steden en de Vlaamse Gemeenschapscommissie indienen, worden beoordeeld door een gemengde en multidisciplinaire jury. De jury bestaat uit vertegenwoordigers van de Vlaamse overheid en externe experten en geeft de Vlaamse regering advies.<br /><br />De Vlaamse regering bepaalt de werkwijze en de samenstelling van deze jury.
 
+### ART. 6/1.
+
+Indien de Vlaamse Regering een subsidie toekent voor een project, kan een regie- team worden belast met de begeleiding van het project. De Vlaamse Regering bepaalt de samenstelling en de werkwijze van het regieteam, alsook de vergoeding ervan.
+
 ### ART. 7.
 
 De door de Vlaamse regering goedgekeurde projecten monden uit in een overeenkomst tussen de Vlaamse regering en de stad of de Vlaamse Gemeenschapscommissie.
