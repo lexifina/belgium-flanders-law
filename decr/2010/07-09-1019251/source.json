@@ -2,16 +2,16 @@
   "codex_id": 1019251,
   "title": "Decreet van 2010-07-09 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2010",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019251/VolledigDocument?datum=2010-06-30",
-  "source_sha256": "244350648cdd85635c0cfa21be0600583361c8aa80491266750c8a9920d0a856",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019251/VolledigDocument?datum=2010-07-28",
+  "source_sha256": "c513f6814e9b028eee888408283e530d0d5157ef0e164b764db91cca1cb6a0e1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019251&param=informatie",
-  "as_of": "2010-06-30",
+  "as_of": "2010-07-28",
   "made": "2010-07-09",
   "gazette": "2010-07-28",
   "numac": 2010035533,
   "document_start": "2010-01-01",
   "document_end": null,
-  "in_force": "2010-06-30",
-  "article_versions": 24,
-  "record_form": "consolidated version as in force on 2010-06-30; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-07-28",
+  "article_versions": 41,
+  "record_form": "consolidated version as in force on 2010-07-28; future article versions excluded; article text as the API gives it"
 }

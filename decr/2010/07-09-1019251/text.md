@@ -50,11 +50,31 @@ In artikel 89, § 1, van het decreet van 10 juli 2008 betreffende het stelsel va
 
 ## HOOFDSTUK III. Registratierechten
 
+### ART. 10.
+
+In artikel 140bis, § 1, van het Wetboek der registratie-, hypotheek- en griffierechten, ingevoegd bij de wet van 22 december 1998, vervangen bij het decreet van 27 juni 2003 en gewijzigd bij het decreet van 19 december 2003, worden de woorden « Europese Unie » vervangen door de woorden « Europese Economische Ruimte ».
+
+### ART. 11.
+
+In artikel 140ter van het Wetboek der registratie-, hypotheek- en griffierechten, ingevoegd bij de wet van 22 december 1998 en vervangen bij het decreet van 27 juni 2003, worden de woorden « Europese Unie » telkens vervangen door de woorden « Europese Economische Ruimte ».
+
 ## HOOFDSTUK IV. Successierechten
 
 ## Afdeling I. Vrijstelling familiale ondernemingen en vennootschappen
 
+### ART. 12.
+
+In artikel 60bis, § 8, eerste lid, van het Vlaamse Wetboek der Successierechten, ingevoegd bij het decreet van 20 december 1996 en vervangen door het decreet van 22 december 1999, wordt de zinsnede « een jaarrekening opmaakt overeenkomstig het koninklijk besluit van 8 oktober 1976 met betrekking tot de jaarrekening van ondernemingen » vervangen door de zinsnede « een jaarrekening opmaakt en in voorkomend geval publiceert overeenkomstig de vigerende boekhoudwetgeving in België op het ogenblik van het overlijden ».
+
+### ART. 13.
+
+In artikel 60bis, § 8, tweede lid, van het Vlaamse Wetboek der Successierechten, ingevoegd bij het decreet van 20 december 1996 en vervangen door het decreet van 22 december 1999, wordt de zinsnede « een jaarrekening opmaken overeenkomstig de geldende wetgeving van de plaats waar de maatschappelijke zetel gevestigd is » vervangen door de zinsnede « een jaarrekening opmaken en in voorkomend geval publiceren overeenkomstig de vigerende boekhoudwetgeving van de lidstaat waar de maatschappelijke zetel gevestigd is op het ogenblik van het overlijden ».
+
 ## Afdeling II. Vrijstelling bossen
+
+### ART. 14.
+
+In artikel 135, 10°, van het Vlaamse Wetboek der Successierechten wordt het cijfer « 2 » vervangen door het cijfer « 4 ».
 
 ## HOOFDSTUK V. Overname van de dienst Verkeersbelastingen
 
@@ -77,6 +97,10 @@ In artikel 89, § 1, van het decreet van 10 juli 2008 betreffende het stelsel va
 Aan artikel 255, derde lid, van het Wetboek van de Inkomstenbelastingen 1992, zoals van toepassing voor de onroerende voorheffing in het Vlaamse Gewest, wordt de volgende zin toegevoegd :<br /><br />« De toepassing van deze coëfficiënt mag evenwel geen aanleiding geven tot een hoger tarief dan het aanslagjaar voordien. »
 
 ## HOOFDSTUK VII. VZW Vlaamse Opera
+
+### ART. 41.
+
+Aan artikel 2 van het decreet van 2 maart 2007 houdende opheffing van het decreet van 5 april 1995 tot oprichting van de Vlaamse Opera en tot regeling van de rechtsopvolging wordt een paragraaf 8 toegevoegd, die luidt als volgt :<br /><br />« § 8. Het fictief saldo van de Vlaamse Opera voor de berekening van de CFO-vergoeding, overeenkomstig artikel 7 van het besluit van de Vlaamse Regering van 3 februari 2006 houdende de modaliteiten tot invoering van het centraal kasbeheer voor de Vlaamse verzelfstandigde agentschappen opgericht ingevolge het decreet bestuurlijk beleid van 18 juli 2003, wordt op datum van 1 juli 2008 op nul gebracht. »
 
 ## HOOFDSTUK VIII. VZW Vlaams Instituut voor de Zee
 
@@ -134,17 +158,53 @@ Aan artikel 25ter, § 1, tweede lid, van het decreet van 17 juli 2000 houdende d
 
 ## HOOFDSTUK XIV. Stadsvernieuwingsprojecten
 
+### ART. 54.
+
+In het decreet van 22 maart 2002 houdende de ondersteuning van stadsvernieuwingsprojecten, gewijzigd bij de decreten van 19 december 2003, 24 december 2004, 22 december 2006 en 27 maart 2009, wordt een artikel 6/1 ingevoegd, dat luidt als volgt :<br /><br />« Art. 6/1. Indien de Vlaamse Regering een subsidie toekent voor een project, kan een regie- team worden belast met de begeleiding van het project. De Vlaamse Regering bepaalt de samenstelling en de werkwijze van het regieteam, alsook de vergoeding ervan. »
+
 ## HOOFDSTUK XV. Leefmilieu
 
 ## Afdeling I. Verkoop rioolwaterzuiveringsinstallaties
 
+### ART. 55.
+
+Aan artikel 10.2.4 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, ingevoegd bij decreet van 7 mei 2004 wordt een paragraaf 6 toegevoegd, die luidt als volgt :<br /><br />« § 6. In afwijking van de vorige paragrafen van dit artikel wordt de Vlaamse Milieumaatschappij, na goedkeuring door de Vlaamse Regering, gemachtigd om de gronden en de bijhorende bouwwerken van rioolwaterzuiveringsinstallaties te verkopen aan de NV Aquafin. »
+
 ## Afdeling II. Oppervlaktewateren
+
+### ART. 56.
+
+Aan artikel 32septies, § 2, eerste lid, van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, ingevoegd bij het decreet van 13 juli 1988, vervangen bij het decreet van 12 december 1990 en gewijzigd bij het decreet van 8 juli 1996, worden een punt 5° en een punt 6° toegevoegd, die luiden als volgt :<br /><br />« 5° het exploiteren of laten exploiteren van de rioolwaterzuiveringsinstallaties die aangekocht werden van de Vlaamse Milieumaatschappij, het financieren van de investeringen nodig voor het in bedrijf houden, het aanpassen en verbeteren van deze installaties voor zover deze aanpassingen en verbeteringen zijn opgenomen in een technisch plan zoals bedoeld onder 1°;<br />6° het financieren van de aankoop van de rioolwaterzuiveringsinstallaties die aangekocht werden van de Vlaamse Milieumaatschappij. »
 
 ## Afdeling III. Grondwaterbeheer
 
+### ART. 59.
+
+In artikel 28quater van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer, laatst gewijzigd bij het decreet van 21 november 2008, wordt in paragraaf 1 en paragraaf 3 de zin « De index is de verhouding van twee indexcijfers van de consumptieprijzen met in de teller het indexcijfer van de maand december van het jaar voorafgaand aan het heffingsjaar en in de noemer het indexcijfer van de maand december 2001 » vervangen door de zin « De index is de verhouding van twee indexcijfers van de consumptieprijzen met in de teller het indexcijfer van de maand december van het jaar voorafgaand aan het heffingsjaar en in de noemer het indexcijfer van de maand december 2001, basis 1988, met name 134,46 ».
+
+### ART. 60.
+
+In artikel 28quinquies, § 1, van hetzelfde decreet, vervangen bij het decreet van 22 december 2000 en gewijzigd bij het decreet van 18 december 2009, worden de woorden « vergunde of gemelde grondwaterwinning(en) » vervangen door de woorden « vergunningsplichtige of meldingsplichtige grondwaterwinning(en) ».<br />
+
 ## Afdeling IV. Afvalstoffen
 
+### ART. 63.
+
+In artikel 48, § 2, 9°, van het decreet van 2 juli 1981, zoals herhaaldelijk gewijzigd, worden de woorden « voor het storten van gips of calciumchloride afvalstoffen op een daartoe vergunde stortplaats » vervangen door de woorden « voor het storten van gips of calciumchloride afvalstoffen afkomstig van de productie van fosforzuur en van metallurgische processen op een daartoe vergunde stortplaats ».
+
 ## HOOFDSTUK XVI. Financieringsinstrument voor de Vlaamse visserij- en aquacultuursector
+
+### ART. 64.
+
+In artikel 4, lid 1, van het decreet van 13 mei 1997 houdende de oprichting van een financieringsinstrument voor de Vlaamse visserij- en aquacultuursector worden in punt 4° de woorden « elke andere persoon » vervangen door de woorden « elke andere natuurlijke of rechtspersoon ».
+
+### ART. 65.
+
+Aan artikel 4, lid 1, van hetzelfde decreet wordt een punt 5° toegevoegd, dat luidt als volgt :<br /><br />« 5° elke groep zoals vermeld in artikel 45 van de Verordening (EG) nr. 1198/2006 van de Raad van 27 juli 2006 inzake het Europees Visserijfonds. »
+
+### ART. 66.
+
+Aan artikel 4, lid 3, van hetzelfde decreet wordt een punt 6° toegevoegd, dat luidt als volgt :<br /><br />« 6° de duurzame ontwikkeling van visserijgebieden bevorderen. »
 
 ## HOOFDSTUK XVII. Financiering van stages bij internationale organisaties
 
@@ -176,7 +236,15 @@ In artikel 37 van hetzelfde decreet wordt een paragraaf 6/1 ingevoegd, die luidt
 
 ## HOOFDSTUK XXI. Regularisaties onroerend erfgoed
 
+### ART. 73.
+
+Aan de gemeente Lint wordt een onderhoudspremie van 15.831,64 euro toegekend voor de in maart 2008 uitgevoerde werken aan de Kabouterbrug in het beschermd landschap 'Park van Lint'. Deze premie wordt aangerekend op het begrotingsartikel ND0 NF127 6331 (aandeel van het Vlaamse Gewest in de toekenning van een beheerspremie voor beschermde landschappen - openbare sector).<br /><br />Van de op 24 september 2001 toegekende restauratiepremie aan de VZW Noordstarfonds voor de restauratie en herbestemming van de Handelsbeurs te Gent wordt als saldo nog 299.146,35 euro uitbetaald.<br /><br />Een bedrag van 60.706,27 euro wordt vastgelegd en uitbetaald aan de stad Leuven in uitvoering van de subsidietoekenning van 16 december 1991, waarbij deze subsidie aan de stad Leuven werd toegekend voor de restauratie van het Van Peteghemorgel in de kapel van het voormalige Augustinessenklooster te Leuven. Dit bedrag wordt aangerekend op het begrotingsartikel ND0 NF126 6331 (aandeel van het Vlaamse Gewest in de toekenning van een restauratiepremie - openbare sector).
+
 ## HOOFDSTUK XXII. DBFM-vennootschap
+
+### ART. 74.
+
+Artikel 7ter van het decreet van 7 juli 2006 betreffende de inhaalbeweging voor schoolinfrastructuur, ingevoegd bij het decreet van 8 mei 2009, wordt vervangen door wat volgt :<br /><br />« Art. 7ter. Indien de financieringsovereenkomst(en) met betrekking tot het vreemd vermogen van de DBFM-vennootschap voorziet(n) in een verplicht herfinancieringsmoment tussen het verstrijken van het vijfde en het tiende jaar vanaf de afsluiting van de financieringsovereenkomsten, zal de Vlaamse Gemeenschap of een rechtspersoon waarop de Vlaamse Gemeenschap en/of het Vlaamse Gewest rechtstreeks of onrechtstreeks een determinerende invloed heeft, zoals een door haar opgerichte of gecontroleerde financieringsmaatschappij, op verzoek van de DBFM-vennootschap, het integrale openstaande saldo van het vreemd vermogen overeenkomstig de geldende financieringsvoorwaarden, met uitzondering van de eventueel toepasselijke herfinancieringsvergoeding en enige schulden die het gevolg zijn van tekortkomingen van de DBFM-vennootschap, zoals nalatigheidsintresten, terugbetalen en het vreemd vermogen van de DBFM-vennootschap overnemen, onder de hiernavolgende cumulatieve voorwaarden en modaliteiten :<br />1° de DBFM-vennootschap kan, om redenen die haar niet toerekenbaar zijn en ondanks alle mogelijke redelijke inspanningen, geen herfinanciering van het vreemd vermogen verkrijgen aan financieringsvoorwaarden die, globaal genomen, gunstiger zijn of overeenstemmen met de geldende financieringsvoorwaarden (met uitzondering van de rente), en waarbij de rente, na herfinanciering, overeenstemt met de referentierentevoet van de geldende financieringsvoorwaarden verhoogd met maximum zestig basispunten;<br />2° het vreemd vermogen wordt door de Vlaamse Gemeenschap of een rechtspersoon waarop de Vlaamse Gemeenschap en/of het Vlaamse Gewest rechtstreeks of onrechtstreeks een determinerende invloed heeft zoals een door haar opgerichte of gecontroleerde financieringsmaatschappij terugbetaald aan de kredietverstrekker(s) in naam en voor rekening van de DBFM-vennootschap en aan de DBFM-vennootschap ter beschikking gesteld voor de resterende looptijd van het DBFM-programma tegen de geldende financieringsvoorwaarden (met uitzondering van de rente), en waarbij de rente overeenstemt met de referentierentevoet van de geldende financieringsvoorwaarden verhoogd met maximum zestig basispunten, op voorwaarde dat zulks ook derwijze doorgerekend wordt in de hiermee overeenstemmende component van de formule ter bepaling van de beschikbaarheidsvergoeding. »
 
 ## HOOFDSTUK XXIII. Slotbepalingen
 
