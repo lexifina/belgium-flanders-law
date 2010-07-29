@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019218,
+  "title": "Decreet van 2010-06-11 houdende instemming met het Europees verdrag inzake de bescherming van het archeologisch erfgoed (herzien), opgemaakt in Valletta op 16 januari 1992",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019218/VolledigDocument?datum=2010-07-29",
+  "source_sha256": "892e4a38e0040ba4b32cf9d80c8e3835bb93852fbb146ac7f207902a0e427018",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019218&param=informatie",
+  "as_of": "2010-07-29",
+  "made": "2010-06-11",
+  "gazette": "2010-07-19",
+  "numac": 2010035480,
+  "document_start": "2010-07-29",
+  "document_end": null,
+  "in_force": "2010-07-29",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2010-07-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
