@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019226,
+  "title": "Besluit van de Vlaamse Regering van 2010-06-04 tot wijziging van het besluit van de Vlaamse Regering van 18 juli 2003 betreffende de opleidings- en begeleidingscheques voor werknemers en het besluit van de Vlaamse Regering van 27 augustus 2004 betreffende de erkenning en subsidiëring van centra voor loopbaandienstverlening",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019226/VolledigDocument?datum=2010-08-01",
+  "source_sha256": "f94e37040b3810ea7287f5ba50ee66b2bb95cc3831fcafdf9e6f75fdc6b958b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019226&param=informatie",
+  "as_of": "2010-08-01",
+  "made": "2010-06-04",
+  "gazette": "2010-07-22",
+  "numac": 2010203801,
+  "document_start": "2010-08-01",
+  "document_end": null,
+  "in_force": "2010-08-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2010-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
