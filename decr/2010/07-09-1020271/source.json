@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020271,
+  "title": "Decreet van 2010-07-09 houdende aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020271/VolledigDocument?datum=2010-08-01",
+  "source_sha256": "19d273ed58e3b7bde326113eebb90e69f2af0437362e9fe94c31eca278507c6e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020271&param=informatie",
+  "as_of": "2010-08-01",
+  "made": "2010-07-09",
+  "gazette": "2011-05-25",
+  "numac": 2011035317,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2010-08-01",
+  "article_versions": 80,
+  "record_form": "consolidated version as in force on 2010-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
