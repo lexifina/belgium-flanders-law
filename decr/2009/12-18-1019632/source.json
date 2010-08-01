@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019632,
+  "title": "Decreet van 2009-12-18 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019632/VolledigDocument?datum=2010-08-01",
+  "source_sha256": "7905d122e9fd92e6d8be2fb498c6f49969c6922cc93fa8abee71d29411a5bffb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019632&param=informatie",
+  "as_of": "2010-08-01",
+  "made": "2009-12-18",
+  "gazette": "2010-10-29",
+  "numac": 2010035718,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2010-08-01",
+  "article_versions": 174,
+  "record_form": "consolidated version as in force on 2010-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
