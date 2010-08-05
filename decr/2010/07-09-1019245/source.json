@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019245,
+  "title": "Decreet van 2010-07-09 houdende de invordering van parkeerheffingen door parkeerbedrijven",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019245/VolledigDocument?datum=2010-08-05",
+  "source_sha256": "72902123c2ae4d85cd91a7f1359195d48198b1fd970bc0f3383c34ac785194c2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019245&param=informatie",
+  "as_of": "2010-08-05",
+  "made": "2010-07-09",
+  "gazette": "2010-07-26",
+  "numac": 2010035520,
+  "document_start": "2010-08-05",
+  "document_end": null,
+  "in_force": "2010-08-05",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-08-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
