@@ -56,6 +56,18 @@ De kosten, verbonden aan het plaatsen, onderhouden en vernieuwen van de verkeers
 
 ## [HOOFDSTUK V/1. De aanvullende reglementen inzake parkeren (ing. decr. 9 juli 2010, art. 2)]
 
+### ART. 10/1.
+
+Wanneer de Vlaamse Regering of de gemeente een aanvullend reglement vaststellen dat betrekking heeft op het parkeren voor een beperkte tijd, het betalend parkeren en het parkeren op plaatsen voorbehouden aan houders van een gemeentelijke parkeerkaart, kunnen zij parkeerretributies of -belastingen bepalen die van toepassing zijn op motorvoertuigen, hun aanhangwagens of onderdelen.<br /><br />Deze bepaling geldt niet voor het halfmaandelijks beurtelings parkeren en de beperking van het langdurig parkeren.
+
+### ART. 10/2.
+
+Met het oog op het innen van de parkeerretributies of -belastingen kunnen concessies of beheersovereenkomsten worden afgesloten.<br /><br />De Vlaamse Regering, de steden en de gemeenten en hun concessiehouders en de gemeentelijke verzelfstandigde agentschappen zijn gemachtigd om de identiteit van de houder van de nummerplaat op te vragen bij de overheid die belast is met de inschrijving van de voertuigen in overeenstemming met de wet tot bescherming van de persoonlijke levenssfeer.
+
+### ART. 10/3.
+
+De in artikel 10/1 bedoelde retributies of belastingen worden ten laste gelegd van de houder van de nummerplaat.
+
 ## HOOFDSTUK VI. Gegevensbank van de aanvullende reglementen
 
 ### ART. 11.
