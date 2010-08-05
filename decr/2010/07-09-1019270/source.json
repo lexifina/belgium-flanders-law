@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019270,
+  "title": "Decreet van 2010-07-09 betreffende de bestuurlijk-administratieve archiefwerking [citeeropschrift: \"het Archiefdecreet van 9 juli 2010\")",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019270/VolledigDocument?datum=2010-08-05",
+  "source_sha256": "7550128c3b1aee9b1fec6f9ff153802d4931698e683b9978ab223faa1a6206b7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019270&param=informatie",
+  "as_of": "2010-08-05",
+  "made": "2010-07-09",
+  "gazette": "2010-08-05",
+  "numac": 2010035532,
+  "document_start": "2010-08-05",
+  "document_end": "2018-12-31",
+  "in_force": "2010-08-05",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2010-08-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
