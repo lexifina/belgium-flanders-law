@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019279,
+  "title": "Ministerieel besluit van 2010-07-22 houdende de erkenning van de laboratoria voor het uitvoeren van analyses tot uitvoering van het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019279/VolledigDocument?datum=2010-08-05",
+  "source_sha256": "655c668524ab7eedd8688ca44326d9463722054380335286b0eea156853effb9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019279&param=informatie",
+  "as_of": "2010-08-05",
+  "made": "2010-07-22",
+  "gazette": "2010-08-05",
+  "numac": 2010204044,
+  "document_start": "2010-08-05",
+  "document_end": null,
+  "in_force": "2010-08-05",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2010-08-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
