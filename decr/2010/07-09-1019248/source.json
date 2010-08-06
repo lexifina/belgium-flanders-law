@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019248,
+  "title": "Decreet van 2010-07-09 houdende wijziging van het decreet van 19 april 1995 betreffende de organisatie en de werking van de loodsdienst van het Vlaamse Gewest en betreffende de brevetten van havenloods en bootman",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019248/VolledigDocument?datum=2010-08-06",
+  "source_sha256": "5946da1acb0b229707eb42392f4a64a4c0829ccb76ecdb80c8863dde447dec7b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019248&param=informatie",
+  "as_of": "2010-08-06",
+  "made": "2010-07-09",
+  "gazette": "2010-07-27",
+  "numac": 2010035521,
+  "document_start": "2010-08-06",
+  "document_end": null,
+  "in_force": "2010-08-06",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2010-08-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
