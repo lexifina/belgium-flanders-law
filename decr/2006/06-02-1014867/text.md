@@ -14,7 +14,7 @@ Voor de toepassing van dit decreet wordt verstaan onder <br />1° het kaderdecre
 
 ### ART. 3.
 
-Er wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht als vermeld in artikel 10 van het kaderdecreet. Dat agentschap draagt als naam Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, afgekort VIPA.<br /><br />De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort en kan een afwijking toestaan op het principe van de operationele autonomie, vermeld in artikel 10, § 1, van het kaderdecreet.<br /><br />De bepalingen van het kaderdecreet zijn van toepassing op het agentschap, met uitzondering van artikel 4, § 2, 1 °, en artikel 6, § 3.<br /><br />
+Er wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht als vermeld in artikel 10 van het kaderdecreet. Dat agentschap draagt als naam Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, afgekort VIPA.<br /><br />De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort en kan een afwijking toestaan op het principe van de operationele autonomie, vermeld in artikel 10, § 1, van het kaderdecreet.<br /><br />De bepalingen van het kaderdecreet zijn van toepassing op het agentschap, met uitzondering van artikel 4, § 2, 1 °, artikel 6, § 3, en artikel 8.<br /><br />
 
 ## HOOFDSTUK III Missie, taken en bevoegdheden
 
