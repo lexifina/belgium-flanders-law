@@ -120,6 +120,10 @@ In artikel 44 van hetzelfde decreet worden tussen het woord « bestaan » en het
 
 ## HOOFDSTUK X. Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden
 
+### ART. 45.
+
+In artikel 3 van het decreet van 2 juni 2006 tot omvorming van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid, en tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden, worden de woorden « en artikel 6, § 3 » vervangen door de woorden « artikel 6, § 3, en artikel 8 ».
+
 ## HOOFDSTUK XI. Vlaams Agentschap voor Personen met een Handicap
 
 ### ART. 46.
@@ -154,7 +158,15 @@ Artikel 100 van het decreet van 18 december 2009 houdende bepalingen tot begelei
 
 Aan artikel 25ter, § 1, tweede lid, van het decreet van 17 juli 2000 houdende de organisatie van de elektriciteitsmarkt, wordt de volgende zin toegevoegd :<br /><br />« Voor iedere installatie voor zonne-energie waar uit het verslag van het gelijkvormigheidsonderzoek of de controle van de technische installaties zoals beschreven in het Algemeen Reglement op de Elektrische Installaties, blijkt dat deze grotendeels geïnstalleerd was in 2009, maar nog niet operationeel, en uit een tweede keuring voor 1 maart 2010 blijkt dat ze volledig is geïnstalleerd, en niet is vergroot in vermogen ten opzichte van de eerste keuring, wordt de datum van deze eerste keuring beschouwd als datum van indienstname. »
 
+### ART. 52.
+
+Aan artikel 7.1.6, § 1, tweede lid, van het decreet van 8 mei 2009 houdende algemene bepalingen betreffende het energiebeleid, wordt de volgende zin toegevoegd :<br /><br />« Voor iedere installatie voor zonne-energie waar uit het verslag van het gelijkvormigheidsonderzoek of de controle van de technische installaties zoals beschreven in het Algemeen Reglement op de Elektrische Installaties, blijkt dat deze grotendeels geïnstalleerd was in 2009, maar nog niet operationeel, en uit een tweede keuring voor 1 maart 2010 blijkt dat ze volledig is geïnstalleerd, en niet is vergroot in vermogen ten opzichte van de eerste keuring, wordt de datum van deze eerste keuring beschouwd als datum van indienstname. »
+
 ## Afdeling III. Fonds ter reductie van de globale energiekost
+
+### ART. 53.
+
+Aan artikel 99, § 2, van het decreet van 18 december 2009 houdende bepalingen tot begeleiding van de begroting 2010 wordt de volgende zin toegevoegd :<br /><br />« Bij de uitwinning van een verleende waarborg, als vermeld in § 1, wordt, per dossier waarvoor de waarborg wordt uitgewonnen, aan de Lokale Entiteit een franchise aangerekend van 250 euro. »
 
 ## HOOFDSTUK XIV. Stadsvernieuwingsprojecten
 
@@ -176,6 +188,14 @@ Aan artikel 10.2.4 van het decreet van 5 april 1995 houdende algemene bepalingen
 
 Aan artikel 32septies, § 2, eerste lid, van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, ingevoegd bij het decreet van 13 juli 1988, vervangen bij het decreet van 12 december 1990 en gewijzigd bij het decreet van 8 juli 1996, worden een punt 5° en een punt 6° toegevoegd, die luiden als volgt :<br /><br />« 5° het exploiteren of laten exploiteren van de rioolwaterzuiveringsinstallaties die aangekocht werden van de Vlaamse Milieumaatschappij, het financieren van de investeringen nodig voor het in bedrijf houden, het aanpassen en verbeteren van deze installaties voor zover deze aanpassingen en verbeteringen zijn opgenomen in een technisch plan zoals bedoeld onder 1°;<br />6° het financieren van de aankoop van de rioolwaterzuiveringsinstallaties die aangekocht werden van de Vlaamse Milieumaatschappij. »
 
+### ART. 57.
+
+In artikel 35quinquies decies van dezelfde wet, vervangen bij het decreet van 22 december 2000, worden paragraaf 4 en paragraaf 5 opgeheven.
+
+### ART. 58.
+
+In artikel 35septies decies van dezelfde wet, vervangen bij het decreet van 22 december 2000, wordt paragraaf 1 vervangen door wat volgt :<br /><br />« § 1. In zoverre dit hoofdstuk en de besluiten genomen ter uitvoering ervan er niet van afwijken, zijn de regels betreffende de vestiging, de invordering, de geschillen, de subsidiaire aanslag, de verwijl- en moratoire intresten, de vervolgingen, de voorrechten, de wettelijke hypotheek en de verjaring inzake rijksinkomstenbelastingen, mutatis mutandis van toepassing op de in dit hoofdstuk bedoelde heffingen, geldboeten en heffingsverhogingen. »
+
 ## Afdeling III. Grondwaterbeheer
 
 ### ART. 59.
@@ -185,6 +205,14 @@ In artikel 28quater van het decreet van 24 januari 1984 houdende maatregelen inz
 ### ART. 60.
 
 In artikel 28quinquies, § 1, van hetzelfde decreet, vervangen bij het decreet van 22 december 2000 en gewijzigd bij het decreet van 18 december 2009, worden de woorden « vergunde of gemelde grondwaterwinning(en) » vervangen door de woorden « vergunningsplichtige of meldingsplichtige grondwaterwinning(en) ».<br />
+
+### ART. 61.
+
+In artikel 28duodecies van hetzelfde decreet, vervangen bij het decreet van 22 december 1999, wordt paragraaf 4 opgeheven.
+
+### ART. 62.
+
+In artikel 28quater decies van hetzelfde decreet vervangen bij decreet van 22 december 1999, wordt paragraaf 1 vervangen door wat volgt :<br /><br />« § 1. In zoverre dit hoofdstuk en de besluiten genomen ter uitvoering ervan er niet van afwijken, zijn de regels betreffende de vestiging, de invordering, de geschillen, de subsidiaire aanslag, de verwijl- en moratoire intresten, de vervolgingen, de voorrechten, de wettelijke hypotheek en de verjaring inzake rijksinkomstenbelastingen, mutatis mutandis van toepassing op de in dit hoofdstuk bedoelde heffingen, geldboeten en heffingsverhogingen. »
 
 ## Afdeling IV. Afvalstoffen
 
