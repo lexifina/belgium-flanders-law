@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019257,
+  "title": "Decreet van 2010-07-02 houdende instemming met het Protocol van wijzigingen bij het Verdrag betreffende de Internationale Hydrografische Organisatie, aangenomen in Monaco op 14 april 2005",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019257/VolledigDocument?datum=2010-08-08",
+  "source_sha256": "6d41cb1868f1ac2927ca697e21122db216bc94827f34afea45df32f3fb6abf57",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019257&param=informatie",
+  "as_of": "2010-08-08",
+  "made": "2010-07-02",
+  "gazette": "2010-07-29",
+  "numac": 2010035516,
+  "document_start": "2010-08-08",
+  "document_end": null,
+  "in_force": "2010-08-08",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-08-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
