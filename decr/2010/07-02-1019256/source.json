@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019256,
+  "title": "Decreet van 2010-07-02 houdende instemming met het Verdrag tot herziening van het op 3 februari 1958 gesloten Verdrag tot instelling van de Benelux Economische Unie, het Protocol inzake de voorrechten en immuniteiten van de Benelux Unie en de Verklaring, ondertekend in 's-Gravenhage op 17 juni 2008",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019256/VolledigDocument?datum=2010-08-08",
+  "source_sha256": "a0c8ab4a457b51617b3f0542f8544303c829c784fa12cfd8ab757268d9354263",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019256&param=informatie",
+  "as_of": "2010-08-08",
+  "made": "2010-07-02",
+  "gazette": "2010-07-29",
+  "numac": 2010035515,
+  "document_start": "2010-08-08",
+  "document_end": null,
+  "in_force": "2010-08-08",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2010-08-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
