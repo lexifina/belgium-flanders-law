@@ -2,16 +2,16 @@
   "codex_id": 1017287,
   "title": "Besluit van de Vlaamse Regering van 2008-10-03 tot bepaling van de beroepen waarvoor een titel van beroepsbekwaamheid kan worden uitgereikt",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017287/VolledigDocument?datum=2008-11-23",
-  "source_sha256": "934a3b8aeeed0ee5ee8f016047babcb7413ff15bf69d22a527985c9d18ec0a08",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017287/VolledigDocument?datum=2010-08-09",
+  "source_sha256": "e70dceabbcc8431d8a1ea92e99a91b810fe6bdcf15e6b6b4ba88d6e57662797a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017287&param=informatie",
-  "as_of": "2008-11-23",
+  "as_of": "2010-08-09",
   "made": "2008-10-03",
   "gazette": "2008-11-13",
   "numac": 2008203985,
   "document_start": "2008-11-23",
   "document_end": "2018-12-31",
-  "in_force": "2008-11-23",
+  "in_force": "2010-08-09",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2008-11-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-08-09; future article versions excluded; article text as the API gives it"
 }
