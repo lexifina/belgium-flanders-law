@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019297,
+  "title": "Ministerieel besluit van 2010-06-19 tot bepaling van de standaard voor de titel van (de)monteur",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019297/VolledigDocument?datum=2010-08-10",
+  "source_sha256": "0078a492e421baf7521a6f23c892c2ca7659b7fdfde2289f5dbbc6c06fa12c5e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019297&param=informatie",
+  "as_of": "2010-08-10",
+  "made": "2010-06-19",
+  "gazette": "2010-08-10",
+  "numac": 2010201195,
+  "document_start": "2010-08-10",
+  "document_end": "2018-12-31",
+  "in_force": "2010-08-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
