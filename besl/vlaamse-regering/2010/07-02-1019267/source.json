@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019267,
+  "title": "Besluit van de Vlaamse Regering van 2010-07-02 tot wijziging van het besluit van de Vlaamse Regering van 28 mei 2004 betreffende de dossiersamenstelling van de aanvraag voor een stedenbouwkundige vergunning en tot wijziging van het besluit van de Vlaamse Regering van 5 juni 2009 tot aanwijzing van de instanties die over een vergunningsaanvraag advies verlenen, wat betreft aanvragen die de sloop van gebouwen of constructies omvatten opgenomen in de inventaris van het bouwkundig erfgoed",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019267/VolledigDocument?datum=2010-08-14",
+  "source_sha256": "796c86c11ed124b79e90acfb4d32545627d3550f27be887e38b01b0b1ea0f53c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019267&param=informatie",
+  "as_of": "2010-08-14",
+  "made": "2010-07-02",
+  "gazette": "2010-08-04",
+  "numac": 2010035539,
+  "document_start": "2010-08-14",
+  "document_end": null,
+  "in_force": "2010-08-14",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2010-08-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
