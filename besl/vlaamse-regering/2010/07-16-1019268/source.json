@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019268,
+  "title": "Besluit van de Vlaamse Regering van 2010-07-16 houdende de indeling bij de gemeentewegen van de gewestweg N74-0 tussen kmp. 0,000 en 0,682 op het grondgebied van de stad Hasselt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019268/VolledigDocument?datum=2010-08-14",
+  "source_sha256": "75890ec73e3f13690277dd5b1de747e75139a8555fdfdf5ed9844aeada6f5618",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019268&param=informatie",
+  "as_of": "2010-08-14",
+  "made": "2010-07-16",
+  "gazette": "2010-08-04",
+  "numac": 2010035549,
+  "document_start": "2010-08-14",
+  "document_end": null,
+  "in_force": "2010-08-14",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2010-08-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
