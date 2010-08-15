@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019276,
+  "title": "Besluit van de Vlaamse Regering van 2010-07-16 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 1 september 2006 tot regeling van de alternatieve investeringssubsidies verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019276/VolledigDocument?datum=2010-08-15",
+  "source_sha256": "4afd66cf2e6dca6642f99e45e18db2ea09beed899353edb3fb3e3614448739b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019276&param=informatie",
+  "as_of": "2010-08-15",
+  "made": "2010-07-16",
+  "gazette": "2010-08-05",
+  "numac": 2010204100,
+  "document_start": "2010-08-15",
+  "document_end": null,
+  "in_force": "2010-08-15",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2010-08-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
