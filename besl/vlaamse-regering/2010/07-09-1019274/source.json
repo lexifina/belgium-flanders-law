@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019274,
+  "title": "Besluit van de Vlaamse Regering van 2010-07-09 tot goedkeuring van het planprogramma Stiemerbeekvallei",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019274/VolledigDocument?datum=2010-08-15",
+  "source_sha256": "dd70473251fac9b882ca9154c580959812dab468a469e008476e4e25494326f8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019274&param=informatie",
+  "as_of": "2010-08-15",
+  "made": "2010-07-09",
+  "gazette": "2010-08-05",
+  "numac": 2010035558,
+  "document_start": "2010-08-15",
+  "document_end": null,
+  "in_force": "2010-08-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-08-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
