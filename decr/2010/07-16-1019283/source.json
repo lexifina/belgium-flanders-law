@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019283,
+  "title": "Decreet van 2010-07-16 tot instemming met de overeenkomst houdende oprichting van het Europees laboratorium voor Moleculaire Biologie, opgemaakt in Genève op 10 mei 1973",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019283/VolledigDocument?datum=2010-08-16",
+  "source_sha256": "91e257820b03e7ebae33c0159f30f01fce14d2ef0832c37f88cf8cf6d47810c1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019283&param=informatie",
+  "as_of": "2010-08-16",
+  "made": "2010-07-16",
+  "gazette": "2010-08-06",
+  "numac": 2010035567,
+  "document_start": "2010-08-16",
+  "document_end": null,
+  "in_force": "2010-08-16",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2010-08-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
