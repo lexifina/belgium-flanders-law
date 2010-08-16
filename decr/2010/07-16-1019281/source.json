@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019281,
+  "title": "Decreet van 2010-07-16 houdende instemming met het tweede Protocol bij het Verdrag van Den Haag van 1954 inzake de bescherming van culturele goederen in geval van een gewapend conflict, opgemaakt in Den Haag op 26 maart 1999",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019281/VolledigDocument?datum=2010-08-16",
+  "source_sha256": "c6beaf5c07370e85c43a59c454dc209a66a835c83701fdc829ba03533d2eba92",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019281&param=informatie",
+  "as_of": "2010-08-16",
+  "made": "2010-07-16",
+  "gazette": "2010-08-06",
+  "numac": 2010035565,
+  "document_start": "2010-08-16",
+  "document_end": null,
+  "in_force": "2010-08-16",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2010-08-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
