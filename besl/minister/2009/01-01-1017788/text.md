@@ -42,7 +42,7 @@ De dienstverlener moet erkend zijn binnen de pijler waarin de subsidieaanvraag w
 
 ### ART. 8.
 
-De ondernemerschapsbevorderende diensten moeten aan de onderneming verleend worden door een derde. Aan die voorwaarde is niet voldaan als een van de volgende gevallen zich voordoet :<br />1° de onderneming heeft 25 % of meer van de stemrechten of het kapitaal van de dienstverlener rechtstreeks of onrechtstreeks in handen;<br />2° de dienstverlener heeft 25 % of meer van de stemrechten of het kapitaal van de onderneming rechtstreeks of onrechtstreeks in handen;<br />3° de dienstverlener en de onderneming hebben minstens één gemeenschappelijke zaakvoerder of bestuurder of werknemer.<br /><br />
+De ondernemerschapsbevorderende diensten moeten aan de onderneming verleend worden door een derde. Aan die voorwaarde is niet voldaan als een van de volgende gevallen zich voordoet :<br />1° de onderneming heeft rechtstreeks of onrechtstreeks stemrechten of kapitaal van de dienstverlener in handen;<br />2° de dienstverlener heeft rechtstreeks of onrechtstreeks stemrechten of kapitaal van de onderneming in handen;<br />3° de dienstverlener en de onderneming hebben minstens één gemeenschappelijke zaakvoerder, bestuurder, werknemer of aandeelhouder;<br />4° de zaakvoerders, bestuurders of aandeelhouders van de onderneming en de dienstverlener zijn met elkaar verbonden als echtgenoten, als bloedverwanten tot en met de tweede graad of door samenwoning.<br />
 
 ### ART. 9.
 
@@ -80,7 +80,7 @@ Ter uitvoering van artikel 17, tweede lid, van het besluit van de Vlaamse Regeri
 
 ### ART. 16.
 
-Ter uitvoering van artikel 18, tweede lid, van het besluit van de Vlaamse Regering, bedraagt de subsidie in de pijler opleiding maximaal 2.500 euro.<br /><br />
+Ter uitvoering van artikel 18, tweede lid, van het besluit van de Vlaamse Regering bedraagt de subsidie in de pijler opleiding en advies maximaal 2 500 euro per pijler.<br />
 
 ## HOOFDSTUK IV Procedure
 
