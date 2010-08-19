@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019292,
+  "title": "Ministerieel besluit van 2010-07-20 tot vaststelling van de modellen van declaratief attest van woonrecht en van negatief declaratief attest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019292/VolledigDocument?datum=2010-08-19",
+  "source_sha256": "f0565bc6d99eb3f5089346fe8eff7cb8f94cf285d3d115b35190bd866dd17e69",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019292&param=informatie",
+  "as_of": "2010-08-19",
+  "made": "2010-07-20",
+  "gazette": "2010-08-09",
+  "numac": 2010035574,
+  "document_start": "2010-08-19",
+  "document_end": null,
+  "in_force": "2010-08-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-08-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
