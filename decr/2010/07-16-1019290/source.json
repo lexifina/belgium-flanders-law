@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019290,
+  "title": "Decreet van 2010-07-16 houdende instemming met het verdrag ter bescherming van het cultureel erfgoed onder water, aangenomen in Parijs op 2 november 2001",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019290/VolledigDocument?datum=2010-08-19",
+  "source_sha256": "a09385c6e787b9ede01c06a6b2dae053bcbfb7465e02e4858a2b4368f66a3357",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019290&param=informatie",
+  "as_of": "2010-08-19",
+  "made": "2010-07-16",
+  "gazette": "2010-08-09",
+  "numac": 2010035569,
+  "document_start": "2010-08-19",
+  "document_end": null,
+  "in_force": "2010-08-19",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2010-08-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
