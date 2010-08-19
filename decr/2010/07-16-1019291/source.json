@@ -2,16 +2,16 @@
   "codex_id": 1019291,
   "title": "Decreet van 2010-07-16 houdende aanpassing van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 en van het decreet van 10 maart 2006 houdende decretale aanpassingen inzake ruimtelijke ordening en onroerend erfgoed als gevolg van het bestuurlijk beleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019291/VolledigDocument?datum=2009-09-01",
-  "source_sha256": "180ea8cf57b92f82233efd08ef87ae3099b6aaf1cfb6879148e43900f51700ac",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019291/VolledigDocument?datum=2010-08-19",
+  "source_sha256": "47c81c76a197d8f5d919f57fd8eda1dd74a95e105a9732952b052ddcd66d5052",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019291&param=informatie",
-  "as_of": "2009-09-01",
+  "as_of": "2010-08-19",
   "made": "2010-07-16",
   "gazette": "2010-08-09",
   "numac": 2010035575,
   "document_start": "2010-08-19",
   "document_end": null,
-  "in_force": "2009-09-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-08-19",
+  "article_versions": 64,
+  "record_form": "consolidated version as in force on 2010-08-19; future article versions excluded; article text as the API gives it"
 }
