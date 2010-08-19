@@ -2,16 +2,16 @@
   "codex_id": 1014546,
   "title": "Decreet van 2006-03-10 houdende decretale aanpassingen inzake ruimtelijke ordening en onroerend erfgoed als gevolg van het bestuurlijk beleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014546/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "4ef971adb1ee86d00ca2f3fa81400560414b7859846df70cc457a43b95dd6313",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014546/VolledigDocument?datum=2010-08-19",
+  "source_sha256": "2cfb3e0f8546bb1090933a439d71e555c36aa7eb4255aa805d8b818f79338383",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014546&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2010-08-19",
   "made": "2006-03-10",
   "gazette": "2006-06-07",
   "numac": 2006035872,
   "document_start": "2006-07-01",
   "document_end": null,
-  "in_force": "2006-07-01",
+  "in_force": "2010-08-19",
   "article_versions": 133,
-  "record_form": "consolidated version as in force on 2006-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-08-19; future article versions excluded; article text as the API gives it"
 }
