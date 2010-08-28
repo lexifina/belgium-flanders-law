@@ -2,16 +2,16 @@
   "codex_id": 1006867,
   "title": "Besluit van de Vlaamse Regering van 1999-06-08 tot vaststelling van de totale investeringssubsidie en de bouwtechnische normen voor de verzorgingsinstellingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006867/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "d5ac1d2e63eb9959977684083d59ab1b880cf5877e6abb592988ba0e8b6730c3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006867/VolledigDocument?datum=2010-08-28",
+  "source_sha256": "eddcd4eaa1d2afad5b550ae2c72015e800ae7e8a9396c04c9f2de44506a17d83",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006867&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2010-08-28",
   "made": "1999-06-08",
   "gazette": "1999-08-31",
   "numac": 1999036086,
   "document_start": null,
   "document_end": "2010-08-27",
-  "in_force": "2010-01-01",
+  "in_force": "2010-08-28",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-08-28; future article versions excluded; article text as the API gives it"
 }
