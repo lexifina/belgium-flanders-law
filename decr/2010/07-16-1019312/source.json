@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019312,
+  "title": "Decreet van 2010-07-16 tot wijziging van het decreet van 18 juli 2003 betreffende het integraal waterbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019312/VolledigDocument?datum=2010-08-29",
+  "source_sha256": "d04b643afcf3199cf20c872f6a6f2e6091c767992c23a7afaa0c26d00aff8633",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019312&param=informatie",
+  "as_of": "2010-08-29",
+  "made": "2010-07-16",
+  "gazette": "2010-08-19",
+  "numac": 2010204348,
+  "document_start": "2010-08-29",
+  "document_end": null,
+  "in_force": "2010-08-29",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2010-08-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
