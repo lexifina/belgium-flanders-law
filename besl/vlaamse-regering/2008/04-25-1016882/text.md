@@ -10,7 +10,7 @@ In artikel 2 van het besluit van de Vlaamse Regering van 19 juli 2007 betreffend
 
 ### ART. 2.
 
-In hetzelfde besluit wordt een artikel 3bis ingevoegd, dat luidt als volgt :<br />« Art. 3bis. Aan cursisten die ter uitvoering van artikel 186, § 2, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs een opleiding die leidt tot het behalen van het getuigschrift pedagogische bekwaamheid, met vrucht afronden, wordt het getuigschrift pedagogische bekwaamheid uitgereikt. Het model van dat getuigschrift is opgenomen in bijlage X, die bij dit besluit is gevoegd. »<br /><br />
+<P>...</P>
 
 ### ART. 3.
 
@@ -18,7 +18,7 @@ Bijlage IX van hetzelfde besluit wordt vervangen door bijlage I, die bij dit bes
 
 ### ART. 4.
 
-Aan hetzelfde besluit wordt een bijlage X toegevoegd, die als bijlage II bij dit besluit is gevoegd.<br /><br />
+...<BR><BR>
 
 ### ART. 5.
 
