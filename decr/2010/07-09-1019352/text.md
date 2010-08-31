@@ -230,6 +230,14 @@ Aan artikel V.67 van het decreet van 8 mei 2009 betreffende het onderwijs XIX wo
 
 Aan boek II, titel V, hoofdstuk III, afdeling II, van hetzelfde decreet wordt een artikel 66/1 toegevoegd, dat luidt als volgt :<br />« Art. 66/1. In afwijking van artikel 66, behoudt de leerling in het secundair onderwijs die op 30 juni van het schooljaar in kwestie niet langer ingeschreven is zijn toelage, op voorwaarde dat de leerling in de loop van dat schooljaar zijn opleiding reeds voltooid had. ».<br /><br />
 
+### ART. VI.12.
+
+Artikel VII.8 van het decreet van 8 mei 2009 betreffende het onderwijs XIX, wordt opgeheven.<br /><br />
+
+### ART. VI.13.
+
+In artikel VII.9 van het decreet van 8 mei 2009 betreffende het onderwijs XIX, wordt de bepaling onder 3° opgeheven.<br /><br />
+
 ## HOOFDSTUK VII Rechtspositie onderwijspersoneel
 
 ## Afdeling I Rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs
