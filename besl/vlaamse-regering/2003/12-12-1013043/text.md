@@ -34,7 +34,7 @@ Een personeelslid dat in het schooljaar 2007-2008 als ervaringsdeskundige aanges
 
 ### ART. 6bis.
 
-In bijlage I wordt met code d.d. bedoeld :<br />1 : met ingang van 1 september 2000;<br />2 : met ingang van 1 september 2002;<br />3 : met ingang van 1 september 2006;<br />4 : met ingang van 1 september 2007;<br />5 : met ingang van 1 september 2000 tot en met 31 augustus 2007;<br />6 : met ingang van 1 september 2002 tot en met 31 augustus 2007;<br />7 : met ingang van 1 september 2006 tot en met 31 augustus 2007;<br />8 : met ingang van 1 september 2002, met de beperking evenwel dat hieruit voor de periode van 1 september 2002 tot en met 31 augustus 2007 geen gevolgen kunnen voortvloeien voor de personeelsleden en de inrichtende machten met betrekking tot bezoldiging en terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling;<br />9 : met ingang van 1 september 2008;<br />10 : met ingang van 1 september 2006 tot en met 31 augustus 2008.
+In bijlage I wordt met code d.d. bedoeld :<br />1 : met ingang van 1 september 2000;<br />2 : met ingang van 1 september 2002;<br />3 : met ingang van 1 september 2006;<br />4 : met ingang van 1 september 2007;<br />5 : met ingang van 1 september 2000 tot en met 31 augustus 2007;<br />6 : met ingang van 1 september 2002 tot en met 31 augustus 2007;<br />7 : met ingang van 1 september 2006 tot en met 31 augustus 2007;<br />8 : met ingang van 1 september 2002, met de beperking evenwel dat hieruit voor de periode van 1 september 2002 tot en met 31 augustus 2007 geen gevolgen kunnen voortvloeien voor de personeelsleden en de inrichtende machten met betrekking tot bezoldiging en terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling;<br />9 : met ingang van 1 september 2008;<br />10 : met ingang van 1 september 2006 tot en met 31 augustus 2008;<br />11: met ingang van 1 september 2010.
 
 ### ART. 7.
 
@@ -50,7 +50,7 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2008/12/05_3.pdf#page=46" title=" " target="_blank" class="pdf"></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/10/22_1.pdf#page=174" title=" " target="_blank" class="pdf"></a>
 
 ## 2. Overzicht
 
@@ -60,7 +60,7 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2008/12/05_3.pdf#page=46" title=" " target="_blank" class="pdf"></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/10/22_1.pdf#page=175" title=" " target="_blank" class="pdf"></a>
 
 ## [2.2. Coordinator (ing. BVR 15 juni 2018, art. 7, I: 1 september 2018)]
 
@@ -68,7 +68,7 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2008/12/05_3.pdf#page=55" title=" " target="_blank" class="pdf"></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/10/22_1.pdf#page=187" title=" " target="_blank" class="pdf"></a>
 
 ## [Technisch personeel (ing. BVR 15 juni 2018, art. 7, I: 1 september 2018)]
 
@@ -76,194 +76,49 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2008/12/05_3.pdf#page=47" title=" " target="_blank" class="pdf"></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/10/22_1.pdf#page=176" title=" " target="_blank" class="pdf"></a>
 
 ## 3.2. Consulent
 
 ### Tekst
 
-<p>2.3. CONSULENT<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
-
-<p>&nbsp;</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:50.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
-			<p>SSC</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
-			<p>Code</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:302.2pt">
-			<p>BEWKAAMHEIDSBEWIJZEN</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
-			<p>&nbsp;</p>
-
-			<p>VE</p>
-
-			<p>VE</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-
-			<p>501</p>
-
-			<p>501</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-
-			<p>5</p>
-
-			<p>4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.2pt">
-			<p><strong>Basisdiploma:</strong></p>
-
-			<p>- ten minste HOLT;</p>
-
-			<p>- ten minste master, als vermeld in artikel 7 van het besluit van 14 juni 1989.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
-			<p>&nbsp;</p>
-
-			<p>VO</p>
-
-			<p>VO</p>
-
-			<p>&nbsp;</p>
-
-			<p>VO</p>
-
-			<p>VO</p>
-
-			<p>VO</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-
-			<p>333</p>
-
-			<p>333</p>
-
-			<p>&nbsp;</p>
-
-			<p>333</p>
-
-			<p>333</p>
-
-			<p>333</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-
-			<p>2</p>
-
-			<p>3</p>
-
-			<p>&nbsp;</p>
-
-			<p>3</p>
-
-			<p>3</p>
-
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.2pt">
-			<p><strong>Basisdiploma:</strong></p>
-
-			<p>- ten minste HOKTVL;</p>
-
-			<p>- het diploma van professioneel gerichte bachelor, als vermeld in artikel 6, punt 34<em>bis</em> van het besluit van 14 juni 1989;</p>
-
-			<p>- het diploma van bachelor in het onderwijs: kleuteronderwijs;</p>
-
-			<p>- het diploma van bachelor in het onderwijs: lager onderwijs;</p>
-
-			<p>- het diploma van bachelor in het onderwijs: secundair onderwijs.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:50.4pt">
-			<p>&nbsp;</p>
-
-			<p>AN</p>
-
-			<p>AN</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-
-			<p>300</p>
-
-			<p>300</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-
-			<p>5</p>
-
-			<p>4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:302.2pt">
-			<p><strong>Basisdiploma:</strong></p>
-
-			<p>Ten minste HOKT;</p>
-
-			<p>Ten minste PBA, als vermeld in artikel 7 van het besluit van 14 juni 1989.</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/10/22_1.pdf#page=178" title=" " target="_blank" class="pdf"></a>
 
 ## 3.3. Psychopedagogisch consulent
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2008/12/05_3.pdf#page=48" title=" " target="_blank" class="pdf"></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/10/22_1.pdf#page=179" title=" " target="_blank" class="pdf"></a>
 
 ## 3.4. Maatschappelijk werker
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2008/12/05_3.pdf#page=49" title=" " target="_blank" class="pdf"></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/10/22_1.pdf#page=180" title=" " target="_blank" class="pdf"></a>
 
 ## 3.5. Psychopedagogisch werker
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_2.pdf#page=171" title=" deel 2.6" target="_blank" class="pdf">deel 2.6</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/10/22_1.pdf#page=181" title=" " target="_blank" class="pdf"></a>
 
 ## 3.6. Paramedisch werker
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2008/12/05_3.pdf#page=51" title=" " target="_blank" class="pdf"></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/10/22_1.pdf#page=183" title=" " target="_blank" class="pdf"></a>
 
 ## 3.7. Intercultureel bemiddelaar
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2008/12/05_3.pdf#page=56" title=" " target="_blank" class="pdf"></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/10/22_1.pdf#page=188" title=" " target="_blank" class="pdf"></a>
 
 ## 3.8. Ervaringsdeskundige
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2008/12/05_3.pdf#page=57" title=" " target="_blank" class="pdf"></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/10/22_1.pdf#page=189" title=" " target="_blank" class="pdf"></a>
 
 ## [Ondersteunend personeel (ing. BVR 15 juni 2018, art. 7, I: 1 september 2018)]
 
@@ -271,4 +126,4 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2008/12/05_3.pdf#page=53" title=" " target="_blank" class="pdf"></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/10/22_1.pdf#page=185" title=" " target="_blank" class="pdf"></a>
