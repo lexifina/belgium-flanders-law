@@ -362,7 +362,7 @@
 
 ### ART. 55.
 
-De ambten die de personeelsleden van een centrum kunnen uitoefenen, worden als volgt vastgesteld en ingedeeld : <br />1° in de categorie onderwijzend personeel, in een wervingsambt : <br />a) leraar hoger onderwijs voor sociale promotie;<br />b) leraar secundair onderwijs voor sociale promotie;<br />2° in de categorie bestuurspersoneel :<br />a) in een selectieambt :<br />1) adjunct-directeur voor hoger onderwijs voor sociale promotie;<br />2) adjunct-directeur voor secundair onderwijs voor sociale promotie;<br />3) technisch adviseur; <br />b) in een bevorderingsambt :<br />1) directeur;<br />2) technisch-adviseur coördinator;<br />3° in de categorie ondersteunend personeel, in een wervingsambt, het ambt van administratief medewerker. <br /><br />De ambten van het bestuurs- en ondersteunend personeel worden ten minste per tiende van een eenheid gefinancierd of gesubsidieerd. <br />
+...
 
 ### ART. 56.
 
