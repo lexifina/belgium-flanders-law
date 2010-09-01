@@ -54,7 +54,7 @@ Het aantal regelmatige kleuters dat de school op de instapdatum méér telt ten 
 <br>
 § 3. Uit de lestijden bekomen ten gevolge van de herberekening kunnen betrekkingen worden ingericht in :<br>
 1° het ambt van kleuteronderwijzer;<br>
-2° de schooljaren 2008-2009 en 2009-2010 in het ambt van kinderverzorger mits er een tekort aan kleuteronderwijzers met het vereiste of het voldoende geachte bekwaamheidsbewijs wordt vastgesteld.<br>
+2° de schooljaren 2010-2011 en 2011-2012 in het ambt van kinderverzorger mits er een tekort aan kleuteronderwijzers met het vereiste of het voldoende geachte bekwaamheidsbewijs wordt vastgesteld.<br>
 <br>
 § 4. De herberekende lestijden die op de verschillende instapdata worden bekomen en die overeenkomstig § 3 niet worden aangewend in het ambt van kleuteronderwijzer worden samengeteld. Na het samentellen van deze herberekende lestijden worden ze omgezet volgens onderstaande tabel :<br>
 Herberekende lestijden
@@ -269,7 +269,7 @@ De omrekening van de lestijden volgens de schalen naar de gefinancierde of gesub
 
 ### ART. 15.
 
-§ 1. Met toepassing van artikel 138 § 1, 1° van het decreet worden wekelijks, aanvullend bij de lestijden volgens de schaal, twee lestijden gefinancierd of gesubsidieerd voor de cursussen in de erkende godsdiensten en voor de niet-confessionele zedenleer.<br /><br />De teldag voor deze cursussen is de eerste schooldag van februari behalve voor de scholen die op basis van het decreet als teldag [de eerste schooldag van oktober  <span class="reference">(verv. B.V.R. 11 januari 2002, art. 7, I: 1 september 2000)</span> ] hebben.<br /><br />§ 2. Voor de minder gevolgde cursussen godsdienst en niet-confessionele zedenleer wordt wekelijks de halve lestijd boven de twee lestijden of de derde lestijd als aanvullende lestijd gefinancierd of gesubsidieerd.
+§ 1. Met toepassing van artikel 138 § 1, 1° van het decreet worden wekelijks, aanvullend bij de lestijden volgens de schaal, twee lestijden gefinancierd of gesubsidieerd voor de cursussen in de erkende godsdiensten en voor de niet-confessionele zedenleer.<br /><br />De teldag voor deze cursussen is de eerste schooldag van februari behalve voor de scholen die op basis van het decreet als teldag de eerste schooldag van oktober hebben.<br /><br />§ 2. Voor de minder gevolgde cursussen godsdienst en niet-confessionele zedenleer wordt wekelijks de halve lestijd boven de twee lestijden of de derde lestijd als aanvullende lestijd gefinancierd of gesubsidieerd.<br /><br />§ 3. Een school waarvan alle leerlingen het voorgaande schooljaar op basis van artikel 29 van het decreet basisonderwijs van 25 februari 1997 een vrijstelling hebben verkregen en waarvan er minstens één leerling geen vrijstelling ontvangt bij de start van het lopende schooljaar, heeft zowel voor de meest gevolgde cursus als voor de minder gevolgde cursussen de eerste schooldag van oktober van het lopende schooljaar als teldag.<br />
 
 ### ART. 16.
 
