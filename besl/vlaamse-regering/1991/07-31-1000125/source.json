@@ -2,16 +2,16 @@
   "codex_id": 1000125,
   "title": "Besluit van de Vlaamse Regering van 1991-07-31 tot bepaling van de werkvoorwaarden en de geldelijke regeling van de lesgevers in de leertijd en in de [ondernemerschapstrajecten]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000125/VolledigDocument?datum=2010-07-05",
-  "source_sha256": "fae69425f813141bbe8ba7c5d1445bc03bbce11293dc810989ffae1c28544426",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000125/VolledigDocument?datum=2010-09-01",
+  "source_sha256": "a8b4137bbd5c34b374e5d1536e4ab20a4bceda70b9fd4f903aa1b5d98cb34260",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000125&param=informatie",
-  "as_of": "2010-07-05",
+  "as_of": "2010-09-01",
   "made": "1991-07-31",
   "gazette": "1991-10-17",
   "numac": 1991036305,
   "document_start": "1991-09-01",
   "document_end": "2020-12-31",
-  "in_force": "2010-07-05",
+  "in_force": "2010-09-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2010-07-05; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-09-01; future article versions excluded; article text as the API gives it"
 }
