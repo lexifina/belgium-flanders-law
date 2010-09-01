@@ -8,7 +8,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-Dit decreet regelt de erkenning en de subsidiëring van de Vlerick Leuven Gent Management School, het Instituut voor Tropische Geneeskunde en de Universiteit Antwerpen Management School, hierna genoemd « de instellingen ».
+Dit decreet regelt de erkenning en de subsidiëring van de Vlerick Leuven Gent Management School, het Instituut voor Tropische Geneeskunde en de Antwerp Management School, hierna genoemd « de instellingen ».
 
 ### ART. 3.
 
@@ -40,7 +40,7 @@ Wordt in het kader van dit decreet erkend als opdracht van de Vlerick School voo
 
 ### ART. 8bis.
 
-Wordt in het kader van dit decreet erkend als opdracht van de Universiteit Antwerpen Management School : het verstrekken van postinitieel onderwijs, het verrichten van wetenschappelijk onderzoek en het verstrekken van wetenschappelijke dienstverlening op het gebied van de managementwetenschappen.
+Wordt in het kader van dit decreet erkend als opdracht van de Antwerp Management School : het verstrekken van postinitieel onderwijs, het verrichten van wetenschappelijk onderzoek en het verstrekken van wetenschappelijke dienstverlening op het gebied van de managementwetenschappen.
 
 ### ART. 9.
 
@@ -74,7 +74,7 @@ De Vlaamse Gemeenschap draagt jaarlijks bij in het dekken van de exploitatiekost
 
 ### ART. 15.
 
-§ 1. ... <br /><br />§ 2. De basissubsidie van de Vlaamse Gemeenschap aan het Instituut voor Tropische Geneeskunde wordt vanaf het begrotingsjaar 2007 vastgesteld op 9.776.000 euro.<br /><br />§ 3. De basissubsidie van de Vlaamse Gemeenschap aan de Vlerick School voor Management wordt vanaf het begrotingsjaar 2002 vastgesteld op 1.665.000 euro. <br /><br />§ 3bis. De basissubsidie van de Vlaamse Gemeenschap aan de Universiteit Antwerpen Management School wordt vanaf het begrotingsjaar 2008 vastgesteld op 1.000.000 euro. <br /><br />§ 4. Door middel van een subsidie van 591.000 euro draagt de Vlaamse Regering vanaf het begrotingsjaar 2007 bij in het dekken van de investeringskosten van het Instituut voor Tropische Geneeskunde.<br /><br />§ 5. De bedragen vermeld in § 2, § 3 en § 3bis worden binnen de perken van de begroting van de Vlaamse Gemeenschap jaarlijks geïndexeerd aan de hand van de indexeringsformule vermeld in artikel 9, § 5, van het decreet betreffende de financiering van de werking van de hogescholen en universiteiten in Vlaanderen.<br /><br />Het bedrag vermeld in § 4 wordt binnen de perken van de begroting van de Vlaamse Gemeenschap vanaf het begrotingsjaar 2008 geïndexeerd overeenkomstig artikel 140, § 2, van het Universiteitendecreet.<br /><br />§ 6. De vorengenoemde subsidies worden in gelijke maandelijkse termijnen uitbetaald, behoudens de investeringssubsidies die per kwartaal worden betaald.<br /><br />§ 7. ... <br /><br />§ 8. De Vlaamse regering kan de hoogte van de basissubsidies herzien afhankelijk van de mate waarin de in de beheersovereenkomst afgesproken doelstellingen worden gehaald of niet.<br /><br />§ 9. De Vlaamse regering kan een deel van de maandelijkse termijnen inhouden en desgevallend terugvorderen indien de Vlaamse regering vaststelt dat de instellingen de beheersovereenkomst niet naleven.
+§ 1. ... <br /><br />§ 2. De basissubsidie van de Vlaamse Gemeenschap aan het Instituut voor Tropische Geneeskunde wordt vanaf het begrotingsjaar 2007 vastgesteld op 9.776.000 euro.<br /><br />§ 3. De basissubsidie van de Vlaamse Gemeenschap aan de Vlerick School voor Management wordt vanaf het begrotingsjaar 2002 vastgesteld op 1.665.000 euro. <br /><br />§ 3bis. De basissubsidie van de Vlaamse Gemeenschap aan de Antwerp Management School wordt vanaf het begrotingsjaar 2008 vastgesteld op 1.000.000 euro. <br /><br />§ 4. Door middel van een subsidie van 591.000 euro draagt de Vlaamse Regering vanaf het begrotingsjaar 2007 bij in het dekken van de investeringskosten van het Instituut voor Tropische Geneeskunde.<br /><br />§ 5. De bedragen vermeld in § 2, § 3 en § 3bis worden binnen de perken van de begroting van de Vlaamse Gemeenschap jaarlijks geïndexeerd aan de hand van de indexeringsformule vermeld in artikel 9, § 5, van het decreet betreffende de financiering van de werking van de hogescholen en universiteiten in Vlaanderen.<br /><br />Het bedrag vermeld in § 4 wordt binnen de perken van de begroting van de Vlaamse Gemeenschap vanaf het begrotingsjaar 2008 geïndexeerd overeenkomstig artikel 140, § 2, van het Universiteitendecreet.<br /><br />§ 6. De vorengenoemde subsidies worden in gelijke maandelijkse termijnen uitbetaald, behoudens de investeringssubsidies die per kwartaal worden betaald.<br /><br />§ 7. ... <br /><br />§ 8. De Vlaamse regering kan de hoogte van de basissubsidies herzien afhankelijk van de mate waarin de in de beheersovereenkomst afgesproken doelstellingen worden gehaald of niet.<br /><br />§ 9. De Vlaamse regering kan een deel van de maandelijkse termijnen inhouden en desgevallend terugvorderen indien de Vlaamse regering vaststelt dat de instellingen de beheersovereenkomst niet naleven.
 
 ## [HOOFDSTUK IVbis CONTROLE (ing. decr. 19 juli 2013, art. V.37, I: 1 september 2013)]
 
