@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019273,
+  "title": "Besluit van de Vlaamse Regering van 2010-06-11 tot wijziging van het besluit van de Vlaamse Regering van 18 november 2005 betreffende de modulaire structuur van het secundair onderwijs voor sociale promotie voor het studiegebied Talen en van het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied talen richtgraad 1 en 2",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019273/VolledigDocument?datum=2010-09-01",
+  "source_sha256": "d9447ae6095120543118ca72864af362d974dc9f5f5126fa025ce71971fc4f6b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019273&param=informatie",
+  "as_of": "2010-09-01",
+  "made": "2010-06-11",
+  "gazette": "2010-08-05",
+  "numac": 2010035519,
+  "document_start": "2010-09-01",
+  "document_end": null,
+  "in_force": "2010-09-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2010-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
