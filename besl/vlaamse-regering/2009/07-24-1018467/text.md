@@ -12,6 +12,10 @@ In artikel 2 van het besluit van de Vlaamse Regering van 19 juli 2007 betreffend
 
 Aan hetzelfde besluit wordt een bijlage XVIII toegevoegd, die als bijlage I bij dit besluit is gevoegd.
 
+### ART. 3.
+
+Bijlage V bij hetzelfde besluit wordt opgeheven.
+
 ### ART. 4.
 
 In artikel 1 van het besluit van de Vlaamse Regering van 10 juli 2008 betreffende de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied personenzorg worden de woorden « bijlage I en II » vervangen door de woorden « bijlage I tot en met IV ».
@@ -31,6 +35,10 @@ Aan hetzelfde besluit worden een bijlage III en IV toegevoegd, die als bijlage I
 ### ART. 8.
 
 Aan artikel 1 van het besluit van de Vlaamse Regering van 10 juli 2008 betreffende de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied Nederlands tweede taal wordt een tweede lid toegevoegd, dat luidt als volgt :<br /><br />« Ter uitvoering van artikel 24, § 2, van voormeld decreet wordt voor bijzondere doelgroepen als volgt afgeweken van het minimale aantal lestijden van de volgende opleidingen :<br />1° de opleiding Nederlands tweede taal richtgraad 1 kan voor snel-lerende cursisten 160 lestijden bedragen, verdeeld in 4 modules van telkens 40 lestijden, of voor traag-lerende cursisten 360 lestijden, verdeeld in 4 modules van telkens 90 lestijden; <br />2° de opleiding Nederlands tweede taal richtgraad 2 kan voor snel-lerende cursisten 320 lestijden bedragen, verdeeld in 8 modules van telkens 40 lestijden, of voor traag-lerende cursisten 640 lestijden, verdeeld in 8 modules van telkens 80 lestijden;<br />3° de opleiding Nederlands tweede taal richtgraad 3 kan voor snel-lerende cursisten 160 lestijden bedragen, verdeeld in 4 modules van telkens 40 lestijden;<br />4° de opleiding Nederlands tweede taal - professioneel bedrijfsgericht richtgraad 3 kan voor snel-lerende cursisten 120 lestijden bedragen, verdeeld in 3 modules van telkens 40 lestijden;<br />5° de opleiding Nederlands tweede taal richtgraad 4 kan voor snel-lerende cursisten 160 bedragen, verdeeld in 4 modules van telkens 40 lestijden;<br />6° de opleiding Nederlands tweede taal - professioneel juridisch richtgraad 4 kan voor snel-lerende cursisten 80 lestijden bedragen, verdeeld in 2 modules van telkens 40 lestijden. »
+
+### ART. 9.
+
+Aan het besluit van de Vlaamse Regering van 18 november 2005 betreffende de modulaire structuur van het secundair onderwijs voor sociale promotie voor het studiegebied Nederlands tweede taal, gewijzigd bij het besluit van de Vlaamse Regering van 1 september 2006, worden de volgende wijzigingen aangebracht :<br />1° in artikel 1 worden de bepalingen onder 11° tot en met 13° opgeheven;<br />2° de bijlage XI tot en met XIII worden opgeheven.
 
 ### ART. 10.
 
