@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019704,
+  "title": "Besluit van de Vlaamse Regering van 2010-10-01 tot wijziging van het besluit van de Vlaamse Regering van 16 december 1997 betreffende de onderbreking van de beroepsloopbaan van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding, het besluit van de Vlaamse Regering van 24 mei 2002 betreffende de onderbreking van de beroepsloopbaan van de personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool en het besluit van de Vlaamse Regering van 3 juli 2009 betreffende het verlof voor onderbreking of vermindering van de arbeidsprestaties voor sommige personeelsleden van de Centra voor Basiseducatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019704/VolledigDocument?datum=2010-09-01",
+  "source_sha256": "006f1f107507a06612384baddc864dd7ce4e5467d268572978ed059c8ea8b172",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019704&param=informatie",
+  "as_of": "2010-09-01",
+  "made": "2010-10-01",
+  "gazette": "2010-11-17",
+  "numac": 2010205788,
+  "document_start": "2010-09-01",
+  "document_end": null,
+  "in_force": "2010-09-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2010-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
