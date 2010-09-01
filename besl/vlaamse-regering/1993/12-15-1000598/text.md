@@ -17,7 +17,7 @@
 			<p>- inspecteur-adviseur voor het lager onderwijs:</p>
 			</td>
 			<td style="vertical-align:top; width:60pt">
-			<p>13</p>
+			<p>12</p>
 			</td>
 		</tr>
 		<tr>
@@ -46,7 +46,7 @@
 			<p>- inspecteur-adviseur voor het lager onderwijs:</p>
 			</td>
 			<td style="vertical-align:top; width:60pt">
-			<p>5</p>
+			<p>4,5</p>
 			</td>
 		</tr>
 		<tr>
@@ -88,7 +88,7 @@
 		</tr>
 		<tr>
 			<td colspan="2" style="vertical-align:top; width:401.4pt">
-			<p>4° voor de anglicaanse [... (geschr. B.V.R. 23 april 2004, art. 1, I: 1 september 2003)] godsdienst:</p>
+			<p>4° voor de anglicaanse godsdienst:</p>
 			</td>
 		</tr>
 		<tr>
@@ -101,7 +101,7 @@
 		</tr>
 		<tr>
 			<td colspan="2" style="vertical-align:top; width:401.4pt">
-			<p>5° voor de israëlitische [en de orthodoxe (ing. B.V.R. 23 april 2004, art. 1, I: 1 september 2003)] godsdienst:</p>
+			<p>5° voor de israëlitische en de orthodoxe godsdienst:</p>
 			</td>
 		</tr>
 		<tr>
@@ -114,7 +114,7 @@
 		</tr>
 		<tr>
 			<td colspan="2" style="vertical-align:top; width:401.4pt">
-			<p>[6° voor de islamitische godsdienst:</p>
+			<p>6° voor de islamitische godsdienst:</p>
 			</td>
 		</tr>
 		<tr>
@@ -127,7 +127,7 @@
 		</tr>
 		<tr>
 			<td style="vertical-align:top; width:341.4pt">
-			<p>- inspecteur-adviseur voor het secundair en het pedagogisch hoger onderwijs (ing. B.V.R. 23 april 2004, art. 1, I: 1 september 2003)]</p>
+			<p>- inspecteur-adviseur voor het secundair en het pedagogisch hoger onderwijs</p>
 			</td>
 			<td style="vertical-align:top; width:60pt">
 			<p>2</p>
