@@ -164,6 +164,10 @@ Het besluit van de Vlaamse Regering van 5 december 1990 houdende uitvoering van 
 
 In het decreet van 31 juli 1990 betreffende het onderwijs II wordt een artikel 46bis ingevoegd, dat luidt als volgt :<br /><br />« Artikel 46bis <br /><br />De Vlaamse Regering informeert de afgevaardigden van de inrichtende machten en de representatieve vakorganisaties over elke geplande fundamentele onderwijshervorming. <br /><br />Vóór de Vlaamse Regering een eerste principiële beslissing ter zake neemt, wordt op vraag van ten minste één van de afgevaardigden van de inrichtende machten een apart overleg georganiseerd over die fundamentele onderwijshervorming tussen de minister, bevoegd voor het onderwijs, of zijn afgevaardigde en de afgevaardigden van de inrichtende machten. <br /><br />Vóór de Vlaamse Regering een eerste principiële beslissing ter zake neemt, wordt op vraag van ten minste één van de representatieve vakorganisaties een apart overleg georganiseerd over die fundamentele onderwijshervorming tussen de minister, bevoegd voor het onderwijs, of zijn afgevaardigde en de representatieve vakorganisaties. ».
 
+### ART. III.7.
+
+In artikel 53 van hetzelfde decreet, gewijzigd bij het decreet van 21 december 1994, worden de volgende wijzigingen aangebracht : <br /><br />1° in § 3 worden de woorden « natuurwetenschappen of fysica en/of biologie » vervangen door het woord « natuurwetenschappen »;<br /><br />2° in § 3 worden de woorden « technologische opvoeding » vervangen door het woord « techniek »;<br /><br />3° in § 4 worden de woorden « natuurwetenschappen of fysica en/of biologie » vervangen door het woord « natuurwetenschappen » en worden de woorden « eventueel Frans » vervangen door het woord « Frans »;<br /><br />4° in § 4 worden de woorden « technologische opvoeding » vervangen door het woord « techniek »;<br /><br />5° in § 4 wordt aan het laatste lid de volgende zin toegevoegd :<br />« De integratie van het vak Frans onder project algemene vakken vergt altijd het akkoord van het betrokken personeelslid belast met project algemene vakken in het eerste leerjaar B. ».
+
 ### ART. III.8.
 
 In artikel 54 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br /><br />1° in § 2 worden de woorden « natuurwetenschappen of fysica en/of biologie en/of wetenschappelijk werk » vervangen door het woord « natuurwetenschappen »;<br /><br />2° in § 2 worden de woorden « technologische opvoeding » vervangen door het woord « techniek »;<br /><br />3° in § 3 worden de woorden « natuurwetenschappen of fysica en/of biologie en/of wetenschappelijk werk » vervangen door het woord « natuurwetenschappen » en worden de woorden « eventueel Frans » vervangen door het woord « Frans »;<br /><br />4° in § 3 wordt aan het laatste lid de volgende zin toegevoegd :<br />« De integratie van het vak Frans onder project algemene vakken vergt altijd het akkoord van het betrokken personeelslid belast met project algemene vakken in het beroepsvoorbereidend leerjaar. »
@@ -223,6 +227,22 @@ In hetzelfde decreet wordt een titel XIquinquies ingevoegd, bestaande uit de art
 ### ART. III.21.
 
 In artikel 2, tweede lid, van het decreet van 18 januari 2002 betreffende de eindtermen, de ontwikkelingsdoelen en de specifieke eindtermen in het voltijds gewoon en buitengewoon secundair onderwijs, ingevoegd bij decreet van 10 juli 2008 worden de woorden « het schooljaar 2009-2010 » vervangen door de woorden « het schooljaar 2010-2011 ».
+
+### ART. III.22.
+
+In artikel 4 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br /><br />1° in § 1 worden het tweede en derde lid opgeheven;<br /><br />2° in § 2 wordt het eerste lid vervangen door wat volgt : <br />« Er worden, per graad en per onderwijsvorm met uitsluiting van het eerste leerjaar B en het beroepsvoorbereidend leerjaar, vakgebonden eindtermen vastgelegd voor de basisvorming, zoals bepaald in titel IV van het decreet van 31 juli 1990 betreffende het onderwijs II. Voor wat evenwel de derde graad beroepssecundair onderwijs betreft, worden die eindtermen afzonderlijk vastgelegd voor het eerste en tweede leerjaar enerzijds en het derde leerjaar anderzijds. »;<br /><br />3° in § 3 wordt een tweede lid toegevoegd, dat luidt als volgt : <br />« De vakoverschrijdende eindtermen worden vastgelegd per graad of globaal voor het secundair onderwijs. Deze vakoverschrijdende eindtermen zijn uitsluitend van toepassing op structuuronderdelen waarvoor vakgebonden eindtermen gelden. Indien ze evenwel worden vastgelegd voor of toegepast in het eerste leerjaar B en het beroepsvoorbereidend leerjaar van de eerste graad, dan worden ze vakoverschrijdende ontwikkelingsdoelen genoemd. »
+
+### ART. III.23.
+
+In artikel 5 van hetzelfde decreet, wordt § 2 vervangen door wat volgt : <br /><br />« § 2. Er worden vakgebonden ontwikkelingsdoelen vastgelegd voor de basisvorming in het eerste leerjaar B, in het beroepsvoorbereidend leerjaar en in het onthaaljaar, zoals bepaald in titel IV van het decreet van 31 juli 1990 betreffende het onderwijs II. <br /><br />Vakoverschrijdende ontwikkelingsdoelen zijn minimumdoelen die niet behoren tot een specifiek vakgebied, maar onder meer door middel van meer vakken of onderwijsprojecten worden nagestreefd. »
+
+### ART. III.24.
+
+Aan artikel 8 van hetzelfde decreet wordt een § 5 toegevoegd die luidt als volgt : <br /><br />« § 5. Met inachtneming van alle ontwikkelingsdoelen wordt in het onthaaljaar per leerling op basis van zijn onderwijsbehoeften een individueel leertraject uitgewerkt waarin het aspiratieniveau voor deze leerling doorheen het jaar wordt bijgesteld. Dit traject bevat onder meer de beginsituatie, de taaldoelen als leidraad en het advies van de klassenraad voor wat betreft de overstap naar vervolgonderwijs of arbeidsmarkt. »
+
+### ART. III.25.
+
+In artikel 9, § 2, tweede lid, van hetzelfde decreet wordt in 2° tussen het woord « leerjaar » en de woorden « , en het onderwijsaanbod » de woorden « en het onthaaljaar » ingevoegd.
 
 ### ART. III.26.
 
@@ -929,6 +949,10 @@ Artikel 31 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« 
 ### ART. VII.8.
 
 ...
+
+### ART. VII.9.
+
+In artikel 42 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br /><br />1° in § 1, wordt het punt 4° aangevuld met een lid, dat luidt als volgt :<br />« De categorie van leefeenheid die valt onder het toepassingsgebied van artikel 34, § 1, 4° of 5°, levert een punt op, op voorwaarde dat het referentie-inkomen van de zelfstandige, respectievelijk alleenstaande leerling of student in aanmerking genomen kan worden voor de berekening van de toelage van de persoon, vermeld in § 1, 1° of 2°. »;<br /><br />2° in § 2 wordt het woord « fiscaal » ingevoegd tussen de woorden « in kwestie » en de woorden « als gehandicapt »;<br /><br />3° ...<br /><br />4° § 4 wordt vervangen door wat volgt :<br />« § 4. Als er in de leefeenheid, vermeld in artikel 34, § 1, waarvan de leerling of student deel uitmaakt tevens één of meerdere niet-verwanten zijn, wordt er voor de berekening van de minimum- en de maximuminkomensgrenzen een punt afgetrokken, tenzij deze niet-verwanten niet beschikken over financiële middelen zoals vermeld in artikel 35, § 1, 1°, 2°, 3°, 4° en 7°. »;<br /><br />5° § 5 wordt vervangen door wat volgt :<br />« § 5. In afwijking van de §§ 1 tot en met 4, bedraagt het aantal punten van de leefeenheid waarvan de leerling of student deel uitmaakt nooit minder dan nul. »;<br /><br />6° § 6 wordt opgeheven.
 
 ### ART. VII.10.
 
