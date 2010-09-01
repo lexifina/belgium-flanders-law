@@ -36,11 +36,11 @@ De opdracht van REN Vlaanderen bestaat erin nascholing te voorzien rond het educ
 
 ### ART. 7.
 
-Een beheersorgaan staat in voor de operationele werking van REN Vlaanderen en het uitvoeren van de opdracht zoals bepaald in artikel 4 en geconcretiseerd in de beheersovereenkomst zoals bedoeld in hoofdstuk IV: het beheer en de bestaffing van een secretariaat, het beheer en de bestaffing van regionale platforms, de programmatie en de algemene kwaliteitsbewaking.
+Een beheersorgaan staat in voor de operationele werking van REN Vlaanderen en het uitvoeren van de opdracht zoals bepaald in artikel 4 en geconcretiseerd in de beheersovereenkomst zoals bedoeld in hoofdstuk IV: het beheer en de bestaffing van een secretariaat, de programmatie en de algemene kwaliteitsbewaking.
 
 ### ART. 8.
 
-Het beheersorgaan bestaat uit de afgevaardigden van alle penvoerende instellingen van toegetreden regionale expertisenetwerken. De afgevaardigden van de penvoerende instellingen worden hierna de leden van het beheersorgaan genoemd. De leden van het beheersorgaan vertegenwoordigen in deze hoedanigheid de in artikel 14 bedoelde regionale platforms.
+Het beheersorgaan bestaat uit de afgevaardigden van alle penvoerende instellingen van toegetreden regionale expertisenetwerken. De afgevaardigden van de penvoerende instellingen worden hierna de leden van het beheersorgaan genoemd.
 
 ### ART. 9.
 
@@ -64,15 +64,15 @@ De werkingsmiddelen van het secretariaat worden bepaald in de beheersovereenkoms
 
 ### ART. 13.
 
-REN Vlaanderen beheert zes regionale platforms.
+...
 
 ### ART. 14.
 
-De regionale platforms worden samengesteld uit de vertegenwoordigers van nascholingsaanbieders die deel uitmaken van een toegetreden regionaal expertisenetwerk.
+...
 
 ### ART. 15.
 
-De regionale platforms hebben een educatieve opdracht, nl. het voorbereiden van regionale inbreng inzake programmatie, het voeren van intakegesprekken voor vraaggestuurde nascholing, bijeenbrengen van de informatie, signaleren van de nascholingsbehoeften in de regio, communicatie met de actoren op het regionale niveau en, uitvoeren van de regionale bekendmakingstrategie.
+...
 
 ## AFDELING 5 STUURGROEP
 

@@ -2,16 +2,16 @@
   "codex_id": 1013142,
   "title": "Besluit van de Vlaamse Regering van 2004-02-20 houdende regeling van de procedure voor het voorzien van ICT-nascholing door REN Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013142/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "844505c068e7687d3fd1137a93ab0e888644482c6574c20743fa569893f6e2a4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013142/VolledigDocument?datum=2010-09-01",
+  "source_sha256": "67544d4f3d1f93366021851e1ed77b950159f96548d94431165775a10d073346",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013142&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2010-09-01",
   "made": "2004-02-20",
   "gazette": "2004-06-28",
   "numac": 2004035984,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2010-09-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-09-01; future article versions excluded; article text as the API gives it"
 }
