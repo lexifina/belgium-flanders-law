@@ -2,16 +2,16 @@
   "codex_id": 1018999,
   "title": "Besluit van de Vlaamse Regering van 2010-03-19 betreffende de uitbreiding van de onderwijsbevoegdheid van centra voor volwassenenonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018999/VolledigDocument?datum=2010-02-01",
-  "source_sha256": "30adadf967b61d918b5f0374cbefbe06fb4ea69f58c2c41c0478f5f90da4ed54",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018999/VolledigDocument?datum=2010-09-01",
+  "source_sha256": "b2475d6044f28c442db4bf2f85df54f288f7f57e08a5767244c7bd81226162c2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018999&param=informatie",
-  "as_of": "2010-02-01",
+  "as_of": "2010-09-01",
   "made": "2010-03-19",
   "gazette": "2010-05-11",
   "numac": 2010202487,
   "document_start": "2010-02-01",
   "document_end": null,
-  "in_force": "2010-02-01",
+  "in_force": "2010-09-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2010-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-09-01; future article versions excluded; article text as the API gives it"
 }

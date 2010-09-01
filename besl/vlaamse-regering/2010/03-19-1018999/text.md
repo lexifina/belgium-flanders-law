@@ -10,7 +10,7 @@ Het Centrum voor Volwassenenonderwijs LBC - NVK, Kasteelplein 20 in 2300 Turnhou
 
 ### ART. 2.
 
-Het Centrum voor Volwassenenonderwijs Technisch Instituut Sint-Jozef, Kleinhoefstraat 4 in 2440 Geel, verkrijgt onderwijsbevoegdheid voor de opleidingen secundair volwassenenonderwijs : <br />- 'traiteur- delicatessenslager';<br />- 'onderhoud van alarmsystemen'.
+Het Centrum voor Volwassenenonderwijs Technisch Instituut Sint-Jozef, Kleinhoefstraat 4 in 2440 Geel, verkrijgt onderwijsbevoegdheid voor de opleidingen secundair volwassenenonderwijs : <br />- 'traiteur- delicatessenslager';<br />- 'installatie en onderhoud van alarmsystemen'.
 
 ### ART. 3.
 
