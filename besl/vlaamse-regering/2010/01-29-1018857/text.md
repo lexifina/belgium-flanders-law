@@ -6,16 +6,16 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 10 juli 2008 betreffend
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder het decreet : het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap.<br /><br />
+...
 
 ### ART. 2.
 
-Het gewaarborgd forfait vermeld in artikel 100, voorlaatste lid van het decreet, wordt gevormd door 60 % van het totaal door de Vlaamse Regering aan dat project toegewezen aantal uren te vermenigvuldigen met 13 euro per uur.<br /><br />De subsidiëring op basis van het aantal gepresteerde deelnemersuren vermeld in artikel 100, voorlaatste lid van het decreet wordt berekend op basis van de volgende formule :<br /><br />Subsidie = A x 40% x (B/70);<br /><br />Waarbij A : het bedrag bekomen door het aantal toegekende uren te vermenigvuldigen met 13 euro per uur;<br /><br />Waarbij B : het percentage van het aantal toegekende uren dat effectief werd gerealiseerd met een maximum van 70 %.<br /><br />
+...
 
 ### ART. 3.
 
-Dit besluit heeft uitwerking met ingang van 1 september 2009 en houdt op uitwerking te hebben op 31 augustus 2010.<br /><br />
+...
 
 ### ART. 4.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.<br /><br />
+...
