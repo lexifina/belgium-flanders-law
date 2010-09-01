@@ -1037,8 +1037,7 @@ Als in de begrotingsjaren 2008 tot en met 2013 het bedrag van de theoretische we
 <br>
 Als in de begrotingsjaren 2008 tot en met 2013 de som van de werkingsuitkeringen van de hogescholen en de universiteiten het beschikbare budget voor het betreffende begrotingsjaar, vermeld in artikel 9, overschrijdt, dan ontvangt een instelling i, waarbij het bedrag van de theoretische werkingsuitkering groter is dan het gegarandeerde minimumbedrag, het bedrag van het gegarandeerde minimum, vermeld in § 2, vermeerderd met het procentueel aandeel van deze instelling in het verschil tussen de som van de theoretische werkingsuitkeringen van de hogescholen en de universiteiten, vermeld in het tweede lid, en de som van de gegarandeerde minimumbedragen van deze hogescholen en universiteiten, vermeld in § 2.<br>
 <br>
-§ 2. De volgende gegarandeerde minimumbedragen worden vastgelegd voor de hogescholen en de universiteiten :<br>
-</p>
+§ 2. De volgende gegarandeerde minimumbedragen worden vastgelegd voor de hogescholen en de universiteiten :</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1148,7 +1147,7 @@ Als in de begrotingsjaren 2008 tot en met 2013 de som van de werkingsuitkeringen
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>13° Katholieke Hogeschool Mechelen</p>
+			<p>13° Lessius Mechelen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>19.961.758,26</p>
@@ -1172,7 +1171,7 @@ Als in de begrotingsjaren 2008 tot en met 2013 de som van de werkingsuitkeringen
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>16° Lessius Hogeschool</p>
+			<p>16° Lessius Antwerpen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>13.008.546,51</p>
@@ -1273,8 +1272,7 @@ Als in de begrotingsjaren 2008 tot en met 2013 de som van de werkingsuitkeringen
 
 <p>&nbsp;</p>
 
-<p><br>
-§ 3. De bedragen, vermeld in § 2, worden vanaf het begrotingsjaar 2008 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5.<br>
+<p>§ 3. De bedragen, vermeld in § 2, worden vanaf het begrotingsjaar 2008 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5.<br>
 <br>
 § 4. Vanaf het begrotingsjaar 2011 wordt de werkingsuitkering per hogeschool en universiteit, berekend overeenkomstig de bepalingen van afdeling IV van dit decreet met inbegrip van de bedragen bedoeld in artikel 35, § 6, met 1,27 % verminderd.<br>
 <br>
@@ -1564,7 +1562,7 @@ Vanaf het begrotingsjaar 2009 worden de bedragen vermeld in het eerste lid, geï
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:329.4pt">
-			<p>13° Lessius Hogeschool</p>
+			<p>13° Lessius Antwerpen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.2pt">
 			<p>910.166,24</p>
@@ -1771,7 +1769,7 @@ Vanaf het begrotingsjaar 2008 ontvangt iedere associatie jaarlijks een toelage v
 
 ### ART. 47.
 
-§ 1. Voor de berekening van de omvang van het individuele leerkrediet van een student bij de start van een academiejaar t/t+1 worden het aantal opgenomen en het aantal verworven studiepunten gerekend over het academiejaar t-1/t. Wijzigingen van het aantal opgenomen studiepunten kunnen verwerkt worden in het individueel leerkrediet van de student tot op de data, vermeld in artikel 8.<br /><br />§ 2. Met behoud van de toepassing van de bepalingen in § 1 wordt bij een generatiestudent die in de loop van hetzelfde academiejaar verandert van opleiding of door over te stappen naar een opleiding van het hoger beroepsonderwijs zoals bepaald in artikel 4 van het decreet van 30 april 2009 betreffende het secundair na secundair onderwijs en het hoger beroepsonderwijs :<br />1° het aantal opgenomen studiepunten opnieuw toegevoegd aan het individuele leerkrediet als de student verandert voor 1 december van het desbetreffende academiejaar;<br />2° de helft van het aantal opgenomen studiepunten, afgerond naar het bovenliggende geheel getal, opnieuw toegevoegd aan het individuele leerkrediet als de student verandert tussen 1 december en 15 maart van het desbetreffende academiejaar;<br />3° het aantal opgenomen studiepunten afgetrokken van het leerkrediet als de student verandert na 15 maart van het desbetreffende academiejaar.<br /><br />
+§ 1. Voor de berekening van de omvang van het individuele leerkrediet van een student bij de start van een academiejaar t/t+1 worden het aantal opgenomen en het aantal verworven studiepunten gerekend over het academiejaar t-1/t. Wijzigingen van het aantal opgenomen studiepunten kunnen verwerkt worden in het individueel leerkrediet van de student tot op de data, vermeld in artikel 8.<br /><br />§ 2. Met behoud van de toepassing van de bepalingen in § 1 wordt bij een generatiestudent die in de loop van hetzelfde academiejaar verandert van opleiding of door over te stappen naar een opleiding van het hoger beroepsonderwijs zoals bepaald in artikel 4 van het decreet van 30 april 2009 betreffende het secundair na secundair onderwijs en het hoger beroepsonderwijs :<br />1° het aantal opgenomen studiepunten opnieuw toegevoegd aan het individuele leerkrediet als de student verandert voor 1 december van het desbetreffende academiejaar;<br />2° de helft van het aantal opgenomen studiepunten, afgerond naar het bovenliggende geheel getal, opnieuw toegevoegd aan het individuele leerkrediet als de student verandert tussen 1 december en 15 maart van het desbetreffende academiejaar;<br />3° het aantal opgenomen studiepunten afgetrokken van het leerkrediet als de student verandert na 15 maart van het desbetreffende academiejaar.<br /><br />§ 3. Een student die meent zich te bevinden in een overmachtsituatie, waardoor hij niet kan of kon deelnemen aan alle of een gedeelte van de examens voor de opleidingsonderdelen waarvoor hij in een academiejaar studiepunten opgenomen heeft, en waardoor hij meent in aanmerking te komen voor een wijziging van de stand van zijn leerkrediet, moet in eerste instantie een beroep doen op de maatregelen die voorzien zijn in de examenregeling van zijn instelling in uitvoering van artikel 78, 11°, van het Structuurdecreet.<br /><br />Als de instelling tot het besluit komt dat het onmogelijk is om tot een regeling te komen die niet bij voorbaat tot een verlies van leerkrediet leidt, dan maakt de instelling op verzoek van de student haar besluit, met de nodige overtuigingsstukken, binnen een termijn van 15 kalenderdagen, over aan de Vlaamse Regering. Deze termijn gaat in op de dag na deze waarop de instelling tot haar besluit is gekomen.<br /><br />De Vlaamse Regering neemt binnen een ordetermijn van 30 kalenderdagen na de dag van ontvangst van het besluit een beslissing over het dossier. Als de Vlaamse Regering concludeert dat de student zich inderdaad in een situatie van overmacht bevond en het in het tweede lid bedoelde besluit van de instelling geheel of gedeeltelijk gegrond is, beslist de Vlaamse Regering om de studiepunten verbonden aan de opleidingsonderdelen waarvoor geen gepaste regeling mogelijk blijkt, opnieuw toe te voegen aan het leerkrediet van de student.<br /><br />De instelling kan in geen enkel geval eigenmachtig en zonder beslissing van de Vlaamse Regering de stand van het leerkrediet van een student wijzigen omwille van een overmachtsituatie.
 
 ### ART. 48.
 
