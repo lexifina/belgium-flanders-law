@@ -34,7 +34,7 @@ De lijst van de centra voor deeltijds beroepssecundair onderwijs die bij de inwe
 
 ### ART. 6.
 
-De lijst van opleidingen van het deeltijds beroepssecundair onderwijs respectievelijk de leertijd, vermeld in artikel 22 van het decreet, is opgenomen : <br />1°voor het schooljaar 2008-2009 : in bijlage III, die bij dit besluit is gevoegd;<br />2° voor het schooljaar 2009-2010 : in bijlage III/1, die bij dit besluit is gevoegd.<br /> <br />Als de lijst, vermeld in het eerste lid, een indeling in rubrieken bevat, strekt die indeling er alleen toe om de screening, vermeld in artikel 23, § 1, van het decreet, mogelijk te maken.
+De lijst van opleidingen van het deeltijds beroepssecundair onderwijs respectievelijk de leertijd, vermeld in artikel 22 van het decreet, is opgenomen : <br />1°voor het schooljaar 2008-2009 : in bijlage III, die bij dit besluit is gevoegd;<br />2° voor het schooljaar 2009-2010 : in bijlage III/1, die bij dit besluit is gevoegd;<br />3° voor het schooljaar 2010-2011 : in bijlage III/2, die bij dit besluit is gevoegd.<br /> <br />Als de lijst, vermeld in het eerste lid, een indeling in rubrieken bevat, strekt die indeling er alleen toe om de screening, vermeld in artikel 23, § 1, van het decreet, mogelijk te maken.
 
 ### ART. 7.
 
@@ -44,13 +44,24 @@ De Vlaamse Regering beslist uiterlijk op 31 mei over een voorstel van nieuwe opl
 
 ### ART. 8.
 
-§ 1. Het geactualiseerde opleidingsaanbod, vermeld in artikel 23, § 1, wordt ingevoerd :<br />1° per 1 september 2009 : voor de opleidingen die behoren tot de rubrieken bouw, decoratie, hout;<br />2° per 1 september 2010 : alleszins voor de opleidingen die behoren tot de rubrieken handel en administratie, voeding-horeca;<br />3° per 1 september 2011 : alleszins voor de opleidingen die behoren tot de rubrieken distributie, elektriciteit-elektronica, metaal en kunststoffen, transport.<br /><br />Met het oog op die invoering vindt een screening plaats van de bestaande opleidingen, als vermeld in artikel 23, § 1, van het decreet, op basis van alleszins de referentiekaders, vermeld in artikel 30, § 1, en artikel 32, § 1, van het decreet, die volledig zijn opgenomen in bijlage IV, die bij dit besluit is gevoegd.<br /><br />§ 2. In bijlage V tot en met V/3, die bij dit besluit zijn gevoegd, worden voor elke afzonderlijke opleiding van het geactualiseerde opleidingsaanbod van het deeltijds beroepssecundair onderwijs de volgende elementen bepaald : <br />1° de overeenstemmende referentiekaders, geput uit de bijlage IV, die bij dit besluit is gevoegd;<br />2° de opleidingenstructuur, vermeld in artikel 28, § 1, van het decreet;<br />3° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 30, § 1, van het decreet.<br /><br />§ 3. In bijlage VI, die bij dit besluit is gevoegd, worden voor elke afzonderlijke opleiding van het geactualiseerde opleidingsaanbod van de leertijd de volgende elementen bepaald : <br />1° de overeenstemmende referentiekaders, geput uit de bijlage IV, die bij dit besluit is gevoegd;<br />2° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 32, § 1, van het decreet.
+§ 1. Het geactualiseerde opleidingsaanbod, vermeld in artikel 23, § 1, wordt ingevoerd : <br />1° per 1 september 2009 : voor de opleidingen die behoren tot de rubrieken bouw, decoratie, hout;<br />2° per 1 september 2010 : voor de opleidingen die behoren tot de rubrieken handel en administratie, voeding-horeca;<br />3° per 1 september 2011 : alleszins voor de opleidingen die behoren tot de rubrieken distributie, elektriciteit-elektronica;<br />4° per 1 september 2012 : alleszins voor de opleidingen die behoren tot de rubriek metaal en kunststoffen.<br /><br />Met het oog op die invoering vindt een screening plaats van de bestaande opleidingen, als vermeld in artikel 23, § 1, van het decreet, op basis van alleszins de referentiekaders, vermeld in artikel 30, § 1, en artikel 32, § 1, van het decreet, die volledig zijn opgenomen in bijlage IV, die bij dit besluit is gevoegd.<br /><br />§ 2. In bijlage V tot en met V/4, die bij dit besluit zijn gevoegd, worden voor elke afzonderlijke opleiding van het geactualiseerde opleidingsaanbod van het deeltijds beroepssecundair onderwijs de volgende elementen bepaald : <br />1° de overeenstemmende referentiekaders, geput uit de bijlage IV, die bij dit besluit is gevoegd;<br />2° de opleidingenstructuur, vermeld in artikel 28, § 1, van het decreet;<br />3° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 30, § 1, van het decreet.<br /><br />§ 3. In bijlage VI, die bij dit besluit is gevoegd, worden voor elke afzonderlijke opleiding van het geactualiseerde opleidingsaanbod van de leertijd de volgende elementen bepaald : <br />1° de overeenstemmende referentiekaders, geput uit de bijlage IV, die bij dit besluit is gevoegd;<br />2° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 32, § 1, van het decreet.
+
+### ART. 8bis.
+
+De organisatie van de opleiding begeleider in de kinderopvang is aan de volgende voorwaarden verbonden :<br>
+1° voor de component leren :<br>
+a) opdat het centrum knowhow zou hebben inzake kinderopvang, is het verplicht om samen te werken met een centrum voor volwassenenonderwijs dat de opleiding begeleider in de kinderopvang aanbiedt;<br>
+b) aangezien een zorgvuldige monitoring van de kwaliteit van de opleiding en de output ervan nodig is, zal onderwijs of de onderwijsoverheid nauw samenwerken met Kind en Gezin;<br>
+2° voor de component werkplekleren :<br>
+a) jongeren beneden de achttien jaar kunnen in de kinderopvang alleen als logistiek personeelslid werken;<br>
+b) jongeren boven de achttien jaar kunnen als begeleider in de kinderopvang werken, maar niet binnen de verplichte personeelsformatie;<br>
+c) voor werkplekleren komen uitsluitend de erkende kinderopvangsector en de zelfstandige kinderopvangsector die beschikt over de minimale financiële ondersteuning, in aanmerking.
 
 ## HOOFDSTUK VI. Toelating
 
 ### ART. 9.
 
-De instapvereisten tot modules in het deeltijds beroepssecundair onderwijs, vermeld in artikel 41, eerste lid, van het decreet, zijn de volgende :<br />1° de vastgelegde volgordes waarin modules, die zich sequentieel tot elkaar verhouden, moeten worden doorlopen zoals in de opleidingenstructuur zal worden bepaald;<br />2° een medische geschiktheidsverklaring : voor de eerste module van een opleiding waarin de jongere rechtstreeks met voedingswaren of -stoffen in aanraking komt en die waren kan verontreinigen of besmetten. Die geschiktheidsverklaring is eenmalig en geldt voor de duur van de opleiding, tenzij er aanleiding is om de geschiktheid opnieuw te evalueren. Een ongeschiktheidsverklaring in de loop van een opleiding impliceert dat de jongere uiterlijk op het einde van de module die hij volgt, de opleiding in kwestie stopzet;<br />3° een medische geschiktheidsverklaring : voor de eerste module van een van de volgende opleidingen waarin die geschiktheid noodzakelijk is voor de uitoefening van het beroep :<br />a) bouwplaatsmachinist;<br />b) dakafdichter;<br />c) dakdekker;<br />d) dakdekker leien en pannen;<br />e) dakdekker metalen daken;<br />f) dakdekker rieten daken;<br />g) daktimmerman;<br />h) goederenbehandelaar-magazijnier-heftruckchauffeur;<br />i) machinist mobiele kraan;<br />j) rigger-monteerder;<br />k) torenkraanbestuurder;<br />l) vrachtwagenchauffeur.<br /><br />Die geschiktheidsverklaring is eenmalig en geldt voor de duur van de opleiding. Ze is eveneens vereist voor de eerste toelating tot een van de opleidingen, vermeld in punt 2° en 3°, die in de overgangsperiode niet-modulair worden georganiseerd.
+De instapvereisten tot modules in het deeltijds beroepssecundair onderwijs, vermeld in artikel 41, eerste lid, van het decreet, zijn de volgende :<br />1° de vastgelegde volgordes waarin modules, die zich sequentieel tot elkaar verhouden, moeten worden doorlopen zoals in de opleidingenstructuur zal worden bepaald;<br />2° een medische geschiktheidsverklaring : voor de eerste module van een opleiding waarin de jongere rechtstreeks met voedingswaren of -stoffen in aanraking komt en die waren kan verontreinigen of besmetten. Die geschiktheidsverklaring is eenmalig en geldt voor de duur van de opleiding, tenzij er aanleiding is om de geschiktheid opnieuw te evalueren. Een ongeschiktheidsverklaring in de loop van een opleiding impliceert dat de jongere uiterlijk op het einde van de module die hij volgt, de opleiding in kwestie stopzet;<br />3° een medische geschiktheidsverklaring : voor de eerste module van een van de volgende opleidingen waarin die geschiktheid noodzakelijk is voor de uitoefening van het beroep :<br />a) bouwplaatsmachinist;<br />b) dakafdichter;<br />c) dakdekker;<br />d) dakdekker leien en pannen;<br />e) dakdekker metalen daken;<br />f) dakdekker rieten daken;<br />g) daktimmerman;<br />h) goederenbehandelaar-magazijnier-heftruckchauffeur;<br />i) machinist mobiele kraan;<br />j) rigger-monteerder;<br />k) torenkraanbestuurder;<br />l) vrachtwagenchauffeur;<br />m) matroos;<br />n) motorist 221 kW;<br />o) roerganger;<br />p) schipper beperkt vaargebied.<br />4° a) een jongere kan alleen worden toegelaten tot de opleiding Industrieel Maaltijdbereider als hij houder is van een van de volgende studiebewijzen :<br />1) een oriënteringsattest van een leerjaar van de derde graad van het secundair onderwijs, uitgereikt in een opleiding die is gerangschikt in het studiegebied voeding van het voltijds secundair onderwijs;<br />2) een certificaat, uitgereikt in de opleiding Productiemedewerker Voeding van het deeltijds beroepssecundair onderwijs of de leertijd;<br />b) een jongere kan alleen worden toegelaten tot de opleiding Industrieel Vleesproductenbereider als hij houder is van een van de volgende studiebewijzen : <br />1) een oriënteringsattest van een leerjaar van de derde graad van het secundair onderwijs, uitgereikt in een opleiding die is gerangschikt in het studiegebied voeding van het voltijds secundair onderwijs;<br />2) een certificaat, uitgereikt in de opleiding Industrieel Vleesbewerker van het deeltijds beroepssecundair onderwijs of de leertijd.<br /><br />Die geschiktheidsverklaring is eenmalig en geldt voor de duur van de opleiding. Ze is eveneens vereist voor de eerste toelating tot een van de opleidingen, vermeld in punt 2° en 3°, die in de overgangsperiode niet-modulair worden georganiseerd.
 
 ## HOOFDSTUK VII. [... (opgeh. BVR 18 december 2020, art. 62, I: 1 januari 2021)]
 
@@ -114,11 +125,15 @@ De aanvullende werkingsmiddelen toegekend aan Syntra Vlaanderen, vermeld in arti
 
 ### ART. 20.
 
-Het subsidiebedrag per deelnemersuur dat een centrum voor deeltijdse vorming organiseert, vermeld in artikel 95, § 1, vijfde lid, en § 3, vijfde en zesde lid, van het decreet wordt vastgesteld op 12,50 euro.<br />Vanaf het begrotingsjaar 2010 wordt dit bedrag geïndexeerd aan de hand van volgende formule :<br />1° 85 % van het bedrag volgt de evolutie van de gezondheidsindex, zoals vermeld in de begrotingsinstructies;<br />2° 15 % van het bedrag volgt 75 % van de evolutie van de gezondheidsindex.
+Het subsidiebedrag per deelnemersuur dat een centrum voor deeltijdse vorming organiseert, vermeld in artikel 95, § 4, van het decreet, wordt vastgesteld op 12,50 euro. Vanaf het schooljaar 2010-2011 wordt dat bedrag, binnen de perken van de beschikbare begrotingskredieten, geïndexeerd aan de hand van de volgende formule : 1° 85% van het bedrag volgt de evolutie van de gezondheidsindex, zoals vermeld in de begrotingsinstructies; 2° 15% van het bedrag volgt 75% van de evolutie van de gezondheidsindex.
 
 ## HOOFDSTUK XIIIbis. [... (opgeh. BVR 16 juli 2021, art. 43, I: 1 september 2021)]
 
 ## HOOFDSTUK XIV. Wijzigingsbepalingen
+
+### ART. 21.
+
+In artikel 2, § 1, van het besluit van de Vlaamse Regering van 5 juni 1989 tot vaststelling van de algemene vakken, de kunstvakken, de technische vakken en de praktische vakken in de instellingen voor voltijds secundair onderwijs en in de instellingen voor voltijds secundair onderwijs die als centra voor deeltijds beroepssecundair onderwijs fungeren, georganiseerd of gesubsidieerd door de Vlaamse Gemeenschap, met uitzondering van de instellingen voor buitengewoon secundair onderwijs, gewijzigd bij de besluiten van de Vlaamse Regering van 19 december 1991, 6 oktober 2000, 19 september 2003, 22 juli 2005 en 1 september 2006, wordt in de opgegeven lijst toegevoegd :<br />« techniek (vanaf 1 september 2010, ter vervanging van het technisch vak technologische opvoeding bedoeld in artikel 4, § 2) ».
 
 ### ART. 22.
 
@@ -1282,29 +1297,37 @@ Suiker- en chocoladebewerker<br>
 Traiteur-banketaannemer<br>
 Visbereider
 
+### BIJLAGE III/2
+
+<a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2010/07/30_2.pdf#page=4" target="_blank" title=" Bijlage III/2">Bijlage III/2</a>
+
 ### BIJLAGE IV
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_2.pdf#page=1" title=" Bijlage IV" target="_blank" class="pdf">Bijlage IV</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/07/30_2.pdf#page=16" target="_blank">Bijlage IV</a>
 
 ### BIJLAGE V
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_2.pdf#page=9" title=" Bijlage V" target="_blank" class="pdf">Bijlage V</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/07/30_2.pdf#page=29" title=" Bijlage V" target="_blank" class="pdf">Bijlage V</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2010/07/30_2_2.pdf#page=1" title=" Bijlage V" target="_blank" class="pdf">Bijlage V</a>
 
 ### BIJLAGE V/1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_2.pdf#page=93" title=" Bijlage V/1" target="_blank" class="pdf">Bijlage V/1</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_3.pdf#page=1" title=" Bijlage V/1 deel 2" target="_blank" class="pdf">Bijlage V/1 deel 2</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/07/30_2_2.pdf#page=36" title=" Bijlage V/1" target="_blank" class="pdf">Bijlage V/1</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2010/07/30_2_3.pdf#page=1" title=" Bijlage V/1" target="_blank" class="pdf">Bijlage V/1</a>
 
 ### BIJLAGE V/2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_3.pdf#page=59" title=" Bijlage V/2" target="_blank" class="pdf">Bijlage V/2</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_4.pdf#page=1" title=" Bijlage V/2 deel 2" target="_blank" class="pdf">Bijlage V/2 deel 2</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/07/30_2_3.pdf#page=41" title=" Bijlage V/2" target="_blank" class="pdf">Bijlage V/2</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2010/07/30_2_4.pdf#page=1" title=" Bijlage V/2" target="_blank" class="pdf">Bijlage V/2</a>
 
 ### BIJLAGE V/3
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_4.pdf#page=16" title=" Bijlage V/3" target="_blank" class="pdf">Bijlage V/3</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/07/30_2_4.pdf#page=27" title=" Bijlage V/3" target="_blank" class="pdf">Bijlage V/3</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2010/07/30_2_5.pdf#page=1" title=" Bijlage V/3" target="_blank" class="pdf">Bijlage V/3</a>
+
+### BIJLAGE V/4
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/07/30_2_5.pdf#page=39" title=" Bijlage V/4" target="_blank" class="pdf">Bijlage V/4</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2010/07/30_2_6.pdf#page=1" title=" Bijlage V/4" target="_blank" class="pdf">Bijlage V/4</a>
 
 ### BIJLAGE VI
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_4.pdf#page=74" title=" Bijlage VI" target="_blank" class="pdf">Bijlage VI</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_5.pdf#page=1" title=" Bijlage VI deel 2" target="_blank" class="pdf">Bijlage VI deel 2</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/07/30_2_6.pdf#page=65" title=" Bijlage VI" target="_blank" class="pdf">Bijlage VI</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2010/07/30_2_7.pdf#page=1" title=" Bijlage VI" target="_blank" class="pdf">Bijlage VI</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2010/07/30_2_8.pdf#page=1" title=" Bijlage VI" target="_blank" class="pdf">Bijlage VI</a>
 
 ### BIJLAGE VII
 
@@ -1336,7 +1359,7 @@ Getuigschrift over de basiskennis van het bedrijfsbeheer (deeltijds   beroepssec
 
 ### BIJLAGE XIV
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/09/03_1_5.pdf#page=72" title=" Bijlage XIV" target="_blank" class="pdf">Bijlage XIV</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/07/30_2_8.pdf#page=89" title=" Bijlage XIV" target="_blank" class="pdf">Bijlage XIV</a>
 
 ### BIJLAGE XV
 
