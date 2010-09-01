@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-Ter uitvoering van artikel 14 en 15, § 1, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden in de bijlagen I tot en met XIV voor de modulaire structuur van het studiegebied Nederlands tweede taal, behorende tot het secundair onderwijs voor sociale promotie, de opleidingsprofielen als volgt vastgelegd:<br />1° in bijlage I de modulaire opleiding « NT2 richtgraad 1 »;<br />2° in bijlage II de modulaire opleiding « NT2 richtgraad 2 »;<br />3° in bijlage III de modulaire opleiding « NT2 richtgraad 3 »;<br />4° in bijlage IV de modulaire opleiding « NT2 richtgraad 4 »;<br />5° in bijlage V de modulaire opleiding « NT2 Professioneel Bedrijfsgericht richtgraad 2 »;<br />6° in bijlage VI de modulaire opleiding « NT2 Professioneel Bedrijfsgericht richtgraad 3 »;<br />7° in bijlage VII de modulaire opleiding « NT2 Professioneel Juridisch richtgraad 3 »;<br />8° in bijlage VIII de modulaire opleiding « Socio-Culturele Integratie richtgraad 1 »;<br />9° in bijlage IX de modulaire opleiding « Socio-Culturele Integratie richtgraad 2 »;<br />10° in bijlage X de modulaire opleiding « Latijns Schrift richtgraad 1 »;<br />11° in bijlage XI de modulaire opleiding « NT2 Verkort richtgraad 1 »;<br />12° in bijlage XII de modulaire opleiding « NT2 Verlengd richtgraad 1 »;<br />13° in bijlage XIII de modulaire opleiding « NT2 Verkort richtgraad 2 ».<br />14° in bijlage XIV de modulaire opleiding « NT2 professioneel juridisch richtgraad 4 ».
+Ter uitvoering van artikel 14 en 15, § 1, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden in de bijlagen I tot en met XIV voor de modulaire structuur van het studiegebied Nederlands tweede taal, behorende tot het secundair onderwijs voor sociale promotie, de opleidingsprofielen als volgt vastgelegd:<br />1° in bijlage I de modulaire opleiding « NT2 richtgraad 1 »;<br />2° in bijlage II de modulaire opleiding « NT2 richtgraad 2 »;<br />3° in bijlage III de modulaire opleiding « NT2 richtgraad 3 »;<br />4° in bijlage IV de modulaire opleiding « NT2 richtgraad 4 »;<br />5° in bijlage V de modulaire opleiding « NT2 Professioneel Bedrijfsgericht richtgraad 2 »;<br />6° in bijlage VI de modulaire opleiding « NT2 Professioneel Bedrijfsgericht richtgraad 3 »;<br />7° in bijlage VII de modulaire opleiding « NT2 Professioneel Juridisch richtgraad 3 »;<br />8° in bijlage VIII de modulaire opleiding « Socio-Culturele Integratie richtgraad 1 »;<br />9° in bijlage IX de modulaire opleiding « Socio-Culturele Integratie richtgraad 2 »;<br />10° in bijlage X de modulaire opleiding « Latijns Schrift richtgraad 1 »;<br />11° ...<br />12° ...<br />13° ...<br />14° in bijlage XIV de modulaire opleiding « NT2 professioneel juridisch richtgraad 4 ».
 
 ### ART. 2.
 
@@ -68,11 +68,11 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE XI
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/02/28_1_7.pdf#page=20">Bijlage XI</a>
+...
 
 ### BIJLAGE XII
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/02/28_1_7.pdf#page=49">Bijlage XII</a>
+...
 
 ### BIJLAGE XIII
 
