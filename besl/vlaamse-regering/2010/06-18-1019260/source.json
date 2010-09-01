@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019260,
+  "title": "Besluit van de Vlaamse Regering van 2010-06-18 tot wijziging van het besluit van de Vlaamse Regering van 24 oktober 2008 houdende uitvoering van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019260/VolledigDocument?datum=2010-09-01",
+  "source_sha256": "464f8f24b0fd907d78d9a1d998d0778dfb3a249daac764bbd290293ca6a8e4ea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019260&param=informatie",
+  "as_of": "2010-09-01",
+  "made": "2010-06-18",
+  "gazette": "2010-07-30",
+  "numac": 2010035491,
+  "document_start": "2010-09-01",
+  "document_end": null,
+  "in_force": "2010-09-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2010-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
