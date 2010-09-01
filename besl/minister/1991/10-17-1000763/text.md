@@ -152,19 +152,19 @@ Tijdens het schriftelijk examengedeelte staan de kandidaten voortdurend onder to
 
 ### ART. 32.
 
-De schriftelijke werken worden door de voorzitter, de secretaris of de adjunct-secretaris ingezameld en onmiddellijk onder omslag verzegeld in het bijzijn van tenminste drie leden.
+De schriftelijke werken worden door de secretariaatsleden ingezameld.
 
 ### ART. 33.
 
-Het nazicht van de schriftelijke werken van elke examenreeks wordt door de voorzitter opgedragen aan een gelijk aantal leden van het officieel onderwijs en van het vrij onderwijs, die een kwotering geven in gemeen overleg.
+De quotering van de schriftelijke werken van elke examenreeks wordt door de voorzitter opgedragen aan ten minste 2 leden van de examencommissie.
 
 ### ART. 34.
 
-§ 1. De ondervraging over het mondeling gedeelte van het examen gebeurt in aanwezigheid van <br />tenminste twee leden, waarvan de ene behoort tot het officieel onderwijs en de andere tot het vrij onderwijs, en die een kwotering geven in gemeen overleg.<br /><br />§ 2. In afwijking van § 1 is het toegelaten dat bij manifeste ontstentenis van voldoende leden gezien het specifieke karakter van bepaalde technische en praktische onderdelen van het examen, de ondervraging en quotering over het mondeling gedeelte van het examen gebeurt door slechts één lid; in voorkomend geval dient het examen openbaar afgenomen.
+§ 1. De quotering van het mondeling gedeelte van elke examenreeks gebeurt door ten minste 2 leden van de examencommissie.
 
 ### ART. 35.
 
-§ 1. Het praktisch gedeelte van het examen heeft plaats met gesloten deuren. Tijdens het praktisch gedeelte staan de kandidaten voortdurend onder toezicht van de leden die door de voorzitter werden aangeduid. De kwotering geschiedt door een gelijk aantal leden van het officieel en van het vrij onderwijs in gemeen overleg. In afwijking op laatstgenoemde bepaling is het toegelaten de quotering door een ongelijk aantal leden van het officieel en van het vrij onderwijs in gemeen overleg te laten geschieden bij manifeste ontstentenis van voldoende leden gezien het specifieke karakter van het praktisch gedeelte van het examen.<br /><br />§ 2. ...
+Het praktisch gedeelte van elke examenreeks heeft plaats met gesloten deuren. Tijdens het praktisch gedeelte staan de kandidaten voortdurend onder toezicht van de leden die door de voorzitter werden aangeduid. De quotering geschiedt door ten minste 2 leden van de examencommissie.
 
 ### ART. 36.
 
@@ -196,7 +196,7 @@ Duplicaten van door de examencommissie uitgereikte getuigschriften en diploma's 
 
 ### ART. 42.
 
-§ 1. De voorzitters, secretarissen, adjunct-secretarissen en leden van de examencommissie van de Vlaamse Gemeenschap voor het voltijds secundair onderwijs worden gemachtigd hun eigen wagen te gebruiken voor hun verplaatsingen. Zij zijn gehouden een verzekering aan te gaan, die de Vlaamse Gemeenschap dekt tegen elk risico bij ongevallen overkomen aan derden. Hun reiskosten geven recht op het toekennen van een vergoeding overeenkomstig de bepalingen van het koninklijk besluit van 18 januari 1965 houdende algemene regeling inzake reiskosten.<br /><br />§ 2. De verblijfkosten van voorzitters, secretarissen, adjunct-secretarissen, werkende en plaatsvervangende leden, geven recht op het toekennen van een vergoeding van de graden ingedeeld in de rangen 10 tot 14, overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1964 tot vaststelling van de vergoedingen wegens verblijfkosten toegekend aan de leden van het personeel der ministeries.
+§ 1. De voorzitters en juryleden van de examencommissie van de Vlaamse Gemeenschap voor het voltijds secundair onderwijs hebben recht op de toekenning van een reisvergoeding overeenkomstig de bepalingen in de Vlaamse Omzendbrief inzake reis- en dagvergoeding voor binnenlandse reizen (DVO/BZ/P&O/2007/6).<br /><br />§ 2. De voorzitters en juryleden van de examencommissie van de Vlaamse Gemeenschap voor het voltijds secundair onderwijs hebben recht op de toekenning van een maaltijdvergoeding per gepresteerde zitdag. De maaltijdvergoeding bedraagt 9,5 euro (100 %) en volgt de evolutie van het gezondheidsindexcijfer. <br /><br />§ 3. De vergoedingen wordt betaald na het indienen van een onkostenstaat en de benodigde bewijsstukken om de aanwezigheid en vervoerskosten te staven.
 
 ### ART. 42bis.
 
@@ -209,3 +209,11 @@ Duplicaten van door de examencommissie uitgereikte getuigschriften en diploma's 
 ### ART. 44.
 
 Dit besluit treedt in werking op 1 januari 1992.
+
+### ART. 45.
+
+In afwijking van artikel 9, § 1, 2°, van het besluit van 1 september 2006 van de Vlaamse Regering houdende de oprichting van de examencommissie van de Vlaamse Gemeenschap voor het voltijds secundair onderwijs kan aan elk werkend en plaatsvervangend lid dat in het onderwijs ter beschikking is gesteld wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen of dat gepensioneerd is, een presentiegeld worden toegekend van 15 euro voor een zitdag van 3 uur wanneer het aantal kandidaten voor een bepaald vak of vakgroep geen 6 uur aanwezigheid vereist.<br /><br />In afwijking van artikel 9, § 1, 3°, van het besluit van 1 september 2006 van de Vlaamse Regering houdende de oprichting van de examencommissie van de Vlaamse Gemeenschap voor het voltijds secundair onderwijs kan aan elk werkend en plaatsvervangend lid dat in het onderwijs in actieve dienst is en dat geen verlof wegens opdracht opneemt ten behoeve van activiteiten bij de examencommissie, een presentiegeld worden toegekend van 10 euro voor een zitdag van 3 uur wanneer het aantal kandidaten voor een bepaald vak of vakgroep geen 6 uur aanwezigheid vereist.
+
+### ART. 46.
+
+Tot de noodzakelijk activiteiten, vermeld in artikel 9 van besluit van 1 september 2006 van de Vlaamse Regering houdende de oprichting van de examencommissie van de Vlaamse Gemeenschap voor het voltijds secundair onderwijs, worden gerekend : <br />- De ondervraging en quotering van de mondelinge examens; <br />- Het toezicht, het nazicht, en de quotering van de schriftelijke examens; <br />- Het toezicht, het nazicht, de ondervraging en de quotering van de praktische examens; <br />- De voorbereiding van het examenlokaal op de dag dat het jurylid de examens afneemt; <br />- De deliberatie en proclamatie.
