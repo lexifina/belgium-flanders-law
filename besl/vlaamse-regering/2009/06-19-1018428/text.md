@@ -12,7 +12,7 @@ Dit besluit regelt de procedure voor toekenning van subsidies voor time-outprogr
 
 ### ART. 2.
 
-In dit besluit wordt verstaan onder : <br />1° kortdurende time out : een time-outbegeleiding met een doorlooptijd van vijf tot tien aaneensluitende werkdagen; <br />2° langdurige time out : een time-outbegeleiding met een doorlooptijd van drie tot zes opeenvolgende weken;<br />3° project : de aanbieding en toepassing van time out door een vereniging;<br />4° time out : een methodiek waarbij jongeren tijdelijk uit het secundair onderwijs worden gehaald, met als voornaamste doelstellingen hun re-integratie als schooluitval dreigt, de verhoging van de gekwalificeerde uitstroom uit het secundair onderwijs en de realisatie van integrale begeleiding van die jongeren. <br /><br />
+In dit besluit wordt verstaan onder : <br />1° kortdurende time out : een time-outbegeleiding met een doorlooptijd van vijf tot tien aaneensluitende werkdagen; <br />2° langdurige time out : een time-outbegeleiding met een doorlooptijd van drie tot zes opeenvolgende weken;<br />3° project : de aanbieding en toepassing van time out door een vereniging;<br />3°/1 schoolse vertraging : de vertraging die een leerling oploopt ten opzichte van de groep leerlingen van hetzelfde geboortejaar;<br />4° time out : een methodiek waarbij jongeren tijdelijk uit het secundair onderwijs worden gehaald, met als voornaamste doelstellingen hun re-integratie als schooluitval dreigt, de verhoging van de gekwalificeerde uitstroom uit het secundair onderwijs en de realisatie van integrale begeleiding van die jongeren. <br /><br />
 
 ### ART. 3.
 
@@ -40,7 +40,7 @@ In afwijking van artikel 3/1, hanteert de Vlaamse Regering voor de schooljaren 2
 
 ### ART. 4.
 
-Driejaarlijks lanceert de Vlaamse Regering een algemene oproep aan de organisatoren van time-outbegeleidingen, waarin de wijze van en de voorwaarden voor de indiening van subsidieaanvragen worden aangegeven.<br /><br />De oproep bevat tevens : <br />1° het maximale bedrag dat toegekend kan worden voor een begeleiding van kortdurende time out;<br />2° het maximale bedrag dat toegekend kan worden voor een begeleiding van langdurige time out;<br />3° het voorziene contingent van begeleidingen van kortdurende en langdurige time out dat per regio, zijnde elk administratief arrondissement van de provincies gelegen in het Vlaamse Gewest en het administratief arrondissement Brussel-Hoofdstad, toegekend kan worden.<br /><br />De oproep wordt in het Belgisch Staatsblad bekendgemaakt voor 1 januari. <br /><br />
+Driejaarlijks lanceert de Vlaamse Regering een algemene oproep aan de organisatoren van time-outbegeleidingen, waarin de wijze van en de voorwaarden voor de indiening van subsidieaanvragen worden aangegeven.<br /><br />De oproep bevat tevens : <br />1° het maximale bedrag dat toegekend kan worden voor een begeleiding van kortdurende time out;<br />2° het maximale bedrag dat toegekend kan worden voor een begeleiding van langdurige time out;<br />3° het voorziene contingent van begeleidingen van kortdurende en langdurige time out dat per administratief arrondissement, vermeld in artikel 3/1, eerste lid, toegekend kan worden.<br /><br />De oproep wordt in het Belgisch Staatsblad bekendgemaakt voor 1 januari. <br /><br />
 
 ### ART. 5.
 
@@ -56,7 +56,7 @@ De ontvankelijke subsidieaanvragen worden op de volgende criteria beoordeeld : <
 
 ### ART. 8.
 
-De projecten die voor subsidiëring in aanmerking komen, worden voor 1 april bij ministerieel besluit vastgesteld : <br />1° door de Vlaamse minister bevoegd voor het onderwijs als het gaat om projecten voor kortdurende time out;<br />2° samen door de Vlaamse minister bevoegd voor het onderwijs en de Vlaamse minister bevoegd voor de bijstand aan personen als het gaat om projecten voor langdurige time out.<br /><br />
+De toewijzing, vermeld in artikel 7, vindt plaats voor 1 juni : <br />1° door de Vlaamse minister bevoegd voor het onderwijs als het gaat om projecten voor kortdurende time out;<br />2° samen door de Vlaamse minister bevoegd voor het onderwijs en de Vlaamse minister bevoegd voor de bijstand aan personen als het gaat om projecten voor langdurige time out.<br /><br />
 
 ### ART. 8/1.
 
@@ -76,11 +76,11 @@ Het project maakt gebruik van een boekhoudplan overeenkomstig een rekeningstelse
 
 ### ART. 11.
 
-De subsidiëring van de projecten kan binnen een periode van drie opeenvolgende schooljaren tot tweemaal verlengd worden. Daartoe moet voor het gesubsidieerde project overeenkomstig artikel 5 een verlengingsdossier ingediend worden, dat minstens de volgende documenten bevat : <br />1° een volledig ingevuld aanvraagformulier, waarvan het model ter beschikking wordt gesteld; <br />2° een motivatie waaruit blijkt dat het aantal aangevraagde time-outbegeleidingen gerealiseerd kan worden, en die toelaat de kwaliteit van de begeleidingen te evalueren.<br /><br />Het dossier moet ingediend worden voor 1 mei en kan aangevuld worden met verslagen van werkbezoeken door of in opdracht van het Departement Onderwijs en Vorming of het Agentschap Jongerenwelzijn.<br /><br />
+De subsidiëring van de projecten kan binnen een periode van drie opeenvolgende schooljaren tot tweemaal, op basis van een positieve evaluatie van een verlengingsdossier, verlengd worden. Daartoe moet voor het gesubsidieerde project overeenkomstig artikel 5 een verlengingsdossier ingediend worden, dat minstens de volgende documenten bevat : <br />1° een volledig ingevuld aanvraagformulier, waarvan het model ter beschikking wordt gesteld; <br />2° een motivatie waaruit blijkt dat het aantal aangevraagde time-outbegeleidingen gerealiseerd kan worden, en die toelaat de kwaliteit van de begeleidingen te evalueren.<br /><br />Het dossier moet ingediend worden voor 1 mei en kan aangevuld worden met verslagen van werkbezoeken door of in opdracht van het Departement Onderwijs en Vorming of het Agentschap Jongerenwelzijn.<br /><br />
 
 ### ART. 12.
 
-Jaarlijks worden, voor 1 juli, bij ministerieel besluit de projecten vastgesteld die op basis van een positieve evaluatie van de verlengingsdossiers voor verlenging in aanmerking komen : <br />1° door de Vlaamse minister bevoegd voor het onderwijs als het gaat om projecten voor kortdurende time out; <br />2° samen door de Vlaamse minister bevoegd voor het onderwijs en de Vlaamse minister bevoegd voor de bijstand aan personen als het gaat om projecten voor langdurige time out.<br /><br />
+De verlenging, vermeld in artikel 11, vindt plaats voor 1 juli : <br />1° door de Vlaamse minister bevoegd voor het onderwijs als het gaat om projecten voor kortdurende time out; <br />2° samen door de Vlaamse minister bevoegd voor het onderwijs en de Vlaamse minister bevoegd voor de bijstand aan personen als het gaat om projecten voor langdurige time out.<br /><br />
 
 ## HOOFDSTUK V Tussentijdse oproepen
 
@@ -92,7 +92,7 @@ In afwijking van artikel 4 kunnen binnen een periode van drie opeenvolgende scho
 
 ### ART. 14.
 
-De subsidie wordt uitbetaald in drie schijven : <br />1° 60 % binnen een maand na de vaststelling van de te subsidiëren projecten bij ministerieel besluit als vermeld in artikel 8 of 12;<br />2° 20 % na de goedkeuring van het tussentijdse verslag, vermeld in artikel 9, § 2;<br />3° het saldo van 20 % nadat het eindverslag en de definitieve financiële stukken, vermeld in artikel 9, § 3, zijn voorgelegd en werden goedgekeurd door de bevoegde administraties. <br /><br />
+De subsidie wordt uitbetaald in drie schijven : <br />1° 60 % uiterlijk op 1 september van het schooljaar waarop de toewijzing, vermeld in artikel 8, of de verlenging, vermeld in artikel 12, betrekking heeft;<br />2° 20 % na de goedkeuring van het tussentijdse verslag, vermeld in artikel 9, § 2;<br />3° het saldo van 20 % nadat het eindverslag en de definitieve financiële stukken, vermeld in artikel 9, § 3, zijn voorgelegd en werden goedgekeurd door de bevoegde administraties. <br /><br />
 
 ### ART. 15.
 
