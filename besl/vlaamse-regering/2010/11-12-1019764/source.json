@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019764,
+  "title": "Besluit van de Vlaamse Regering van 2010-11-12 tot registratie van het von Karman Instituut voor Stromingsdynamica als geregistreerde instelling voor hoger onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019764/VolledigDocument?datum=2010-09-01",
+  "source_sha256": "629d8901750b51075ec292a632fc3f15b21294a5b94510e32bfdd94624a06f7f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019764&param=informatie",
+  "as_of": "2010-09-01",
+  "made": "2010-11-12",
+  "gazette": "2010-12-10",
+  "numac": 2010206118,
+  "document_start": "2010-09-01",
+  "document_end": null,
+  "in_force": "2010-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
