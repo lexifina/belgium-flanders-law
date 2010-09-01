@@ -2,16 +2,16 @@
   "codex_id": 1013109,
   "title": "Besluit van de Vlaamse Regering van 2004-03-05 betreffende de [puntenenveloppen] voor de scholengemeenschappen basisonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013109/VolledigDocument?datum=2009-09-01",
-  "source_sha256": "bcdac2f7b909f637588ace3b3a53c5a92411475861cc43bd778b65719346cb95",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013109/VolledigDocument?datum=2010-09-01",
+  "source_sha256": "779d731503c91219bdc3fb7cec0b11186550f8c3e6a49e7c477f2ca2ad5335b9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013109&param=informatie",
-  "as_of": "2009-09-01",
+  "as_of": "2010-09-01",
   "made": "2004-03-05",
   "gazette": "2004-06-11",
   "numac": 2004035895,
   "document_start": "2003-09-01",
   "document_end": null,
-  "in_force": "2009-09-01",
+  "in_force": "2010-09-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-09-01; future article versions excluded; article text as the API gives it"
 }
