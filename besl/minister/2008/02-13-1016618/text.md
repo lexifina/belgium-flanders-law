@@ -6,8 +6,8 @@ De Vlaamse minister van Cultuur, Jeugd, Sport en Brussel,<br /><br />Gelet op he
 
 ### ART. 1.
 
-Volgende arts wordt erkend voor de periode van 1 februari 2008 tot 31 augustus 2010 als keuringsarts inzake medisch verantwoorde sportbeoefening : <br />DEWIT Andre, Heverlee.<br /><br />
+...
 
 ### ART. 2.
 
-Dit besluit heeft uitwerking met ingang van 1 februari 2008.<br /><br />
+...
