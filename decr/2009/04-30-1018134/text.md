@@ -255,7 +255,7 @@ Instellingen in het hoger onderwijs beschrijven gezamenlijk de domeinspecifieke 
 
 ### ART. 17.
 
-De gevalideerde beschrijvingen van de domeinspecifieke leerresultaten worden automatisch als kwalificatie erkend.<br /><br />De gevalideerde beschrijvingen van de opleidingen voor de graad van bachelor worden opgenomen als kwalificaties van niveau zes, die voor de graad van master worden opgenomen als kwalificaties van niveau zeven en die voor de graad van doctor worden opgenomen als kwalificaties van niveau acht.<br /><br />
+De gevalideerde beschrijvingen van de domeinspecifieke leerresultaten worden automatisch als kwalificatie erkend.<br /><br />De gevalideerde beschrijvingen van de opleidingen voor de graad van bachelor worden opgenomen als kwalificaties van niveau zes, die voor de graad van master worden opgenomen als kwalificaties van niveau zeven.<br /><br />Voor de graad van doctor wordt de niveaudescriptor van artikel 58, § 2, 4°, van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen opgenomen als kwalificatie van niveau acht.
 
 ### ART. 18.
 
@@ -377,7 +377,7 @@ De opleidingen die leiden tot een diploma secundair onderwijs en geen onderwijsk
 
 ### ART. 51.
 
-Tot en met het academiejaar 2012-2013, worden de leerresultaten, opgenomen in de referentiekaders van de visitatierapporten van de opleidingen uit het hoger onderwijsregister, automatisch als kwalificatie erkend en geregistreerd in een kwalificatiedatabank.<br /><br />
+Tot en met het academiejaar 2017-2018, worden de leerresultaten, opgenomen in de referentiekaders van de visitatierapporten van de opleidingen uit het hoger onderwijsregister, automatisch als kwalificatie erkend en geregistreerd in een kwalificatiedatabank.<br /><br />In de in het eerste lid bedoelde overgangsperiode zorgen de instellingen ervoor dat de beschrijvingen van de domeinspecifieke leerresultaten van de opleidingen waarvan de accreditatieperiode eindigt op het einde van het academisch jaar 2013-2014 en volgende, uitgewerkt en gevalideerd zijn vóór dat het zelfevaluatierapport van die opleidingen, dat opgesteld wordt in het kader van de externe kwaliteitszorg en visitatiecyclus, gereed moet zijn.
 
 ### ART. 52.
 
