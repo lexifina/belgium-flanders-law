@@ -6,11 +6,11 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 9 december 2005 betreff
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° het besluit van 19 oktober 2007 : het besluit van de Vlaamse Regering van 19 oktober 2007 betreffende de organisatie van tijdelijke projecten rond studie- en beroepskeuze en rond werkplekleren;<br />2° het besluit van 26 oktober 2007 : het besluit van de Vlaamse Regering van 26 oktober 2007 houdende goedkeuring van de geselecteerde tijdelijke projecten rond studie- en beroepskeuze en rond werkplekleren.<br />
+...
 
 ### ART. 2.
 
-In aanvulling op de reeks tijdelijke projecten die bij het besluit van 26 oktober 2007 werden goedgekeurd, gaat in de bijlage bij dit besluit de lijst van de tijdelijke projecten rond studie- en beroepskeuze en rond werkplekleren die, op voordracht van de selectiecommissie, voor de periode van 1 februari 2008 tot en met 31 augustus 2010 worden goedgekeurd, vermeld in artikel 6 van het besluit van 19 oktober 2007.<br />
+...
 
 ### ART. 2bis.
 
@@ -22,19 +22,19 @@ In aanvulling op de reeks tijdelijke projecten die bij het besluit van 26 oktobe
 
 ### ART. 3.
 
-Aan het project met volgnummer 1 in de bijlage wordt met ingang van 1 februari 2008 tot en met 30 juni 2010 een halftijdse betrekking van het niveau basisonderwijs toegekend, zoals vermeld in artikel 9 en 11 van het besluit van 19 oktober 2007. <br /><br />Aan de projecten met volgnummer 2 tot en met 6 in de bijlage wordt met ingang van 1 februari 2008 tot en met 30 juni 2010 driekwart van een voltijdse betrekking van het niveau basisonderwijs toegekend, zoals vermeld in artikel 9 en 11 van het besluit van 19 oktober 2007.<br /><br />Aan de projecten met volgnummer 7 tot en met 14 in de bijlage wordt met ingang van 1 februari 2008 tot en met 30 juni 2010 een halftijdse betrekking van het niveau secundair onderwijs toegekend, zoals vermeld in artikel 9 en 11 van het besluit van 19 oktober 2007.<br /><br />Aan de projecten met volgnummers 15 tot en met 21 in de bijlage wordt met ingang van 1 februari 2008 tot en met 30 juni 2010 driekwart van een voltijdse betrekking van het niveau secundair onderwijs toegekend, zoals vermeld in artikel 9 en 11 van het besluit van 19 oktober 2007. <br />
+...
 
 ### ART. 4.
 
-In artikel 6 van het besluit van 19 oktober 2007 worden de woorden "20 januari 2008" vervangen door de woorden "1 februari 2008". <br />
+...
 
 ### ART. 5.
 
-Dit besluit heeft uitwerking met ingang van 7 november 2007 en houdt op van kracht te zijn op 31 augustus 2010. <br />
+...
 
 ### ART. 6.
 
-De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van dit besluit.<br />
+...
 
 ## Bijlage I
 
