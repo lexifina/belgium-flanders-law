@@ -594,7 +594,7 @@ De Vlaamse regering bepaalt de graden en de niveaus en stelt de daaraan verbonde
 
 ### ART. 121.
 
-Bij ontstentenis van een regeling opgenomen in een collectieve arbeidsovereenkomst of vastgesteld na onderhandeling in het bevoegde sectorcomité, is van toepassing de regeling met betrekking tot de tucht, de administratieve standen, de toelaatbare onderbrekingen van de ambstuitoefening op verzoek van het betreffende personeelslid wegens persoonlijke dan wel sociale redenen, en de definitieve ambstneerlegging van het personeel van het Ministerie van de Vlaamse Gemeenschap.
+Bij ontstentenis van een regeling opgenomen in een collectieve arbeidsovereenkomst of vastgesteld na onderhandeling in het bevoegde sectorcomité, is van toepassing de regeling met betrekking tot de tucht, de administratieve standen, de toelaatbare onderbrekingen van de ambstuitoefening op verzoek van het betreffende personeelslid wegens persoonlijke dan wel sociale redenen, en de definitieve ambstneerlegging van het personeel van het Ministerie van de Vlaamse Gemeenschap.<br /><br />Als de universiteiten een eigen tuchtregeling uitwerken, voorzien zij daarin in de mogelijkheid van een preventieve schorsing van het personeelslid in het belang van de dienst. Tenminste in de volgende gevallen kan daarbij een deel van het salaris worden ingehouden :<br />1° wanneer het personeelslid strafrechtelijk vervolgd wordt;<br />2° wanneer het personeelslid tuchtrechtelijk vervolgd wordt wegens een ernstig vergrijp waarbij het personeelslid op heterdaad betrapt is of waarvoor er afdoende aanwijzingen zijn.<br /><br />De inhouding van het salaris bij preventieve schorsing mag niet meer bedragen dan een vijfde van de nettobezoldiging.<br /><br />De regeling inzake preventieve schorsing waarborgt maximaal de rechten van het personeelslid en bevat een beroepsmogelijkheid.
 
 ## [AFDELING 8 DIENSTVERLENING AAN ANDERE UNIVERSITEITEN OF HOGESCHOLEN (ing. decr. 20 april 2001, art. 53)]
 
@@ -1032,7 +1032,7 @@ Elke universiteit dient bij de Vlaamse regering een fysische inventaris in van a
 
 ### ART. 151.
 
-De universiteiten verzoeken de bevoegde ambtenaren van de Administratie van de BTW, de Re-gistratie en de Domeinen de financiële waarde te schatten van de onroerende goederen oorspronkelijk bestemd voor onderwijs, onderzoek en administratie die gedesaffecteerd werden om een andere bestemming te krijgen of om vervreemd te worden.
+...
 
 ## [AFDELING 4BIS DEONTOLOGIE EN GESCHILLENCOMMISSIE (ing. decr. 18 mei 1999, art. III 33)]
 
