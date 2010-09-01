@@ -134,7 +134,35 @@ De inspectie van het Vlaams Ministerie van Onderwijs en Vorming is belast met de
 
 ## [Afdeling 1 Beslissingen van de kwalificatiecommissie over regelmatige leerlingen (ing. BVR 16 juli 2010, art. 3)]
 
+### ART. 20undecies.
+
+In het geval de kwalificatiecommissie een beslissing neemt die wordt betwist door de betrokken personen, kunnen deze drie werkdagen, volgend op de werkdag waarop hen die beslissing werd meegedeeld, het recht doen gelden op overleg met de afgevaardigde van de inrichtende macht of de voorzitter van de kwalificatiecommissie of zijn afgevaardigde.<br /><br />Bij betwisting maken de betrokken personen hun redenen kenbaar.<br /><br />De afgevaardigde van de inrichtende macht of de voorzitter van de kwalificatiecommissie of zijn afgevaardigde toont, aan de hand van het dossier van de betrokken leerling aan, dat de door de kwalificatiecommissie genomen beslissing gegrond is.
+
+### ART. 20duodecies.
+
+De afgevaardigde van de inrichtende macht of de voorzitter van de kwalificatiecommissie of zijn afgevaardigde kan na het overleg, vermeld in artikel 20undecies, indien nodig, de kwalificatiecommissie zo spoedig mogelijk opnieuw doen bijeenkomen.
+
+### ART. 20terdecies.
+
+Onafgezien de al dan niet betwisting door de betrokken personen van de beslissing van de kwalificatiecommissie, wordt de inrichtende macht steeds het recht voorbehouden de kwalificatiecommissie opnieuw te doen samenkomen, teneinde een door de inrichtende macht zelf omstreden beslissing te heroverwegen.
+
 ## [Afdeling 2 De beroepscommissie (ing. BVR 16 juli 2010, art. 3)]
+
+### ART. 20quaterdecies.
+
+Elke inrichtende macht bepaalt de samenstelling en de procedure van de beroepscommissie.<br /><br />De beroepscommissie bestaat minstens uit drie leden. Met uitzondering van de directeur kunnen de leden van de kwalificatiecommissie er geen deel van uitmaken.
+
+### ART. 20quinquiesdecies.
+
+De beroepscommissie is bevoegd voor de behandeling van de door de betrokken personen betwiste beslissing van de kwalificatiecommissie.<br /><br />Een beroep kan slechts worden ingesteld na toepassing van artikel 20undecies en binnen een termijn van drie werkdagen nadat het overleg, vermeld in artikel 20undecies, heeft plaatsgevonden of, indien het desbetreffend overleg heeft geleid tot een nieuwe bijeenkomst van de kwalificatiecommissie, binnen een termijn van drie werkdagen nadat het resultaat van deze bijeenkomst aan de betrokken personen werd meegedeeld.
+
+### ART. 20sexiesdecies.
+
+Het resultaat van het door de beroepscommissie uitgevoerd onderzoek wordt aan de inrichtende macht meegedeeld.<br /><br />Vervolgens beslist de inrichtende macht of de kwalificatiecommissie wel of niet opnieuw dient samen te komen met het oog op het nemen van een definitieve beslissing.
+
+### ART. 20septiesdecies.
+
+Indien overeenkomstig artikel 20sexies decies de kwalificatiecommissie opnieuw dient samen te komen om een definitieve beslissing ten aanzien van de betrokken leerling te nemen, dient dit te gebeuren uiterlijk op 15 september van het daaropvolgend schooljaar. De betrokken personen worden van deze gemotiveerde beslissing, onverwijld schriftelijk in kennis gesteld.
 
 ## HOOFDSTUK IV WIJZIGINGSBEPALINGEN
 
