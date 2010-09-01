@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019208,
+  "title": "Besluit van de Vlaamse Regering van 2010-06-04 tot wijziging van het besluit van de Vlaamse Regering van 19 juli 2002 betreffende de organisatie van het voltijds secundair onderwijs en van het besluit van de Vlaamse Regering van 21 december 2007 betreffende de studiegebieden en structuuronderdelen in het voltijds secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019208/VolledigDocument?datum=2010-09-01",
+  "source_sha256": "98e6e08034d410fa622bcc1c453cf1c56107a91b1c5f3404438c81a433033778",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019208&param=informatie",
+  "as_of": "2010-09-01",
+  "made": "2010-06-04",
+  "gazette": "2010-07-14",
+  "numac": 2010203704,
+  "document_start": "2010-09-01",
+  "document_end": null,
+  "in_force": "2010-09-01",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2010-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
