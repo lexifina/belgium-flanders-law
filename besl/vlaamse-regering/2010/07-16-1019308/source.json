@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019308,
+  "title": "Besluit van de Vlaamse Regering van 2010-07-16 betreffende de toekenning van een aanvullende financiering of subsidiëring voor het gecombineerd onderwijs aan centra voor volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019308/VolledigDocument?datum=2010-09-01",
+  "source_sha256": "4689d137903dd8473c71b46cdb825b6020628c0520465b6f936991001607df1a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019308&param=informatie",
+  "as_of": "2010-09-01",
+  "made": "2010-07-16",
+  "gazette": "2010-08-17",
+  "numac": 2010204279,
+  "document_start": "2010-09-01",
+  "document_end": null,
+  "in_force": "2010-09-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2010-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
