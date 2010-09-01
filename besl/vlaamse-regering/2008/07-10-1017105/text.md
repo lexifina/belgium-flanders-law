@@ -6,11 +6,11 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van de studiegebieden die behoren tot het hoger beroepsonderwijs, vastgelegd in bijlage I tot en met IV, die bij dit besluit zijn gevoegd.<br /><br />Ter uitvoering van artikel 16, tweede lid, van hetzelfde decreet, worden de basiscompetenties voor de modulaire structuur van de studiegebieden die behoren tot het hoger beroepsonderwijs, vastgelegd in bijlage I tot en met IV, die bij dit besluit zijn gevoegd.<br /><br />
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van de studiegebieden die behoren tot het hoger beroepsonderwijs, vastgelegd in bijlage I tot en met IV, die bij dit besluit zijn gevoegd.<br /><br />Ter uitvoering van artikel 179ter van hetzelfde decreet worden de modulaire opleidingsprofielen voor de modulaire structuur van de studiegebieden die behoren tot het hoger beroepsonderwijs, vastgelegd in bijlage V tot en met XIII, die bij dit besluit zijn gevoegd <br /><br />Ter uitvoering van artikel 16, tweede lid, van hetzelfde decreet, worden de basiscompetenties voor de modulaire structuur van de studiegebieden die behoren tot het hoger beroepsonderwijs, vastgelegd in bijlage I tot en met IV, die bij dit besluit zijn gevoegd.<br /><br />
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />
+...<br />
 
 ### ART. 2/1.
 
@@ -51,3 +51,39 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 ### BIJLAGE IV
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2008/09/30_1.pdf#page=62" title=" Bijlage IV" target="_blank" class="pdf">Bijlage IV</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2008/09/30_1_2.pdf#page=1" title=" Bijlage IV deel 2" target="_blank" class="pdf">Bijlage IV deel 2</a>
+
+### BIJLAGE V
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/08/18_1.pdf#page=3" title=" Bijlage V" target="_blank" class="pdf">Bijlage V</a>
+
+### BIJLAGE VI
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/08/18_1.pdf#page=32" title=" Bijlage VI" target="_blank" class="pdf">Bijlage VI</a>
+
+### BIJLAGE VII
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/08/18_1.pdf#page=78" title=" Bijlage VII" target="_blank" class="pdf">Bijlage VII</a>
+
+### BIJLAGE VIII
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/08/18_1.pdf#page=98" title=" Bijlage VIII" target="_blank" class="pdf">Bijlage VIII</a>
+
+### BIJLAGE IX
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/08/18_1.pdf#page=115" title=" Bijlage IX" target="_blank" class="pdf">Bijlage IX</a>
+
+### BIJLAGE X
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/08/18_1.pdf#page=134" title=" Bijlage X" target="_blank" class="pdf">Bijlage X</a>
+
+### BIJLAGE XI
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/08/18_1.pdf#page=155" title=" Bijlage XI" target="_blank" class="pdf">Bijlage XI</a>
+
+### BIJLAGE XII
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/08/18_1.pdf#page=178" title=" Bijlage XII" target="_blank" class="pdf">Bijlage XII</a>
+
+### BIJLAGE XIII
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/08/18_1.pdf#page=203" title=" Bijlage XIII" target="_blank" class="pdf">Bijlage XIII</a>
