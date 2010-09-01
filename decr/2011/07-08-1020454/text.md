@@ -10,6 +10,10 @@
 
 ## Afdeling 3. Stelsel van leren en werken
 
+### ART. 10.
+
+In hetzelfde decreet wordt een artikel 95bis ingevoegd, dat luidt als volgt :<br /><br />« Art. 95bis. Voor het schooljaar 2010-2011 wordt het subsidiebedrag van een centrum voor deeltijdse vorming opgetrokken tot het subsidiebedrag voor het schooljaar 2009-2010 in het geval dat de berekening, met toepassing van de voor het schooljaar 2010-2011 vigerende bepalingen, tot een lager resultaat leidt. »
+
 ## Afdeling 4. Kwaliteit van onderwijs
 
 ## Afdeling 5. Begeleiders autismespectrumstoornissen
