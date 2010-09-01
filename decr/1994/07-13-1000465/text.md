@@ -494,7 +494,7 @@ In geval van ontslag bij tuchtmaatregel wordt het personeelslid definitief uit z
 
 ### ART. 85.
 
-Het personeelslid tegen wie een tuchtstraf wordt uitgesproken kan hiertegen, binnen een termijn van vijftien kalenderdagen, beroep instellen bij een beroepsinstantie. Het hogeschoolbestuur richt een college van beroep inzake tucht op. Dit college bestaat uit drie leden en drie plaatsvervangende leden, vreemd aan de hogeschool, waarbij het hogeschoolonderhandelingscomité moet instemmen met twee van de drie leden en twee van de drie plaatsvervangende leden; indien er geen instemming wordt bereikt, worden negen kandidaten voorgedragen door het hogeschoolbestuur en moet er een instemming worden bereikt over vier kandidaten, waarvan twee effectieve leden en twee plaatsvervangende leden. Zij worden aangewezen voor een termijn van vier jaar door het hogeschoolbestuur. De Vlaamse regering bekrachtigt deze aanwijzing.
+Het personeelslid tegen wie een tuchtstraf of een preventieve schorsing wordt uitgesproken kan hiertegen, binnen een termijn van vijftien kalenderdagen, beroep instellen bij een beroepsinstantie. Het hogeschoolbestuur richt een college van beroep inzake tucht op. Dit college bestaat uit drie leden en drie plaatsvervangende leden, vreemd aan de hogeschool, waarbij het hogeschoolonderhandelingscomité moet instemmen met twee van de drie leden en twee van de drie plaatsvervangende leden; indien er geen instemming wordt bereikt, worden negen kandidaten voorgedragen door het hogeschoolbestuur en moet er een instemming worden bereikt over vier kandidaten, waarvan twee effectieve leden en twee plaatsvervangende leden. Zij worden aangewezen voor een termijn van vier jaar door het hogeschoolbestuur. De Vlaamse regering bekrachtigt deze aanwijzing.
 
 ### ART. 86.
 
@@ -503,6 +503,10 @@ Wanneer er tegen een personeelslid een strafrechtelijk onderzoek is ingesteld of
 ### ART. 87.
 
 De preventieve schorsing wordt uitgesproken voor een termijn van ten hoogste één jaar. In geval van strafrechtelijke vervolging voor dezelfde feiten kan het hogeschoolbestuur deze termijn voor periodes van ten hoogste zes maanden verlengen zolang de strafrechtelijke procedure loopt.
+
+### ART. 87bis.
+
+Wanneer het personeelslid strafrechtelijk vervolgd wordt of wanneer het personeelslid tuchtrechtelijk vervolgd wordt wegens een ernstig vergrijp waarbij het personeelslid op heterdaad betrapt is of waarvoor er afdoende aanwijzingen zijn, kan het hogeschoolbestuur bij een in artikel 86 vermelde preventieve schorsing beslissen tot een inhouding van het salaris. De inhouding mag niet meer bedragen dan een vijfde van de nettobezoldiging.<br /><br />Als het hogeschoolbestuur in aansluiting op de preventieve schorsing geen tuchtstraf oplegt of als tuchtstraf een blaam oplegt, wordt het ingehouden salaris uitbetaald aan het betrokken personeelslid.<br /><br />Als in aansluiting op een preventieve schorsing met inhouding van salaris een tuchtstraf opgelegd wordt waar een salarisverlies aan verbonden is, wordt het bedrag van het tijdens de preventieve schorsing ingehouden salaris in mindering gebracht op het bedrag van het salarisverlies verbonden aan de tuchtstraf. Als het bedrag van het ingehouden salaris groter is dan het bedrag van het salarisverlies verbonden aan de tuchtstraf, wordt het verschil aan het betrokken personeelslid uitbetaald.
 
 ### ART. 88.
 
@@ -604,7 +608,7 @@ Het assisterend personeel staat docenten, hoofddocenten, hoogleraren en gewoon h
 
 ### ART. 107.
 
-In het kader van haar kwaliteitsbewaking zorgt de hogeschool voor voldoende begeleiding van studenten van het eerste studiejaar van de basisopleidingen. Het hogeschoolbestuur organiseert jaarlijks een evaluatie van het begeleidingsprogramma, waarbij de studenten betrokken moeten worden. Het hogeschoolbestuur brengt over deze evaluatie verslag uit bij de Vlaamse regering via de commissaris.
+...
 
 ### ART. 108.
 
