@@ -12,7 +12,43 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.<br /><br />
 
 ## Onderafdeling I Algemeen
 
+### ART. 2.
+
+In artikel 9 van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs, wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« De bepalingen van deze titel worden buiten werking gesteld vanaf het schooljaar 2010-2011. In afwijking op deze bepaling kan in uitzonderlijke gevallen de Vlaamse Regering aan een inrichtende macht toelating geven tot programmatie van een instelling of structuuronderdeel :<br />1° na schriftelijke aanvraag van die inrichtende macht, ingediend bij het Agentschap voor Onderwijsdiensten vóór 1 maart van het voorafgaand schooljaar en vergezeld van het protocol van de onderhandeling ter zake in het bevoegd lokaal comité, en<br />2° na advies van enerzijds de Vlaamse Onderwijsraad en anderzijds het Agentschap voor Onderwijsdiensten en de Inspectie. ».<br /><br />
+
+### ART. 3.
+
+In artikel 42 van hetzelfde decreet wordt het tweede lid vervangen door wat volgt :<br />« De bepalingen van deze titel worden buiten werking gesteld vanaf het schooljaar 2010-2011. In afwijking op deze bepaling kan in uitzonderlijke gevallen de Vlaamse Regering aan een inrichtende macht toelating geven tot overheveling of omvorming :<br />1° na schriftelijke aanvraag van die inrichtende macht, ingediend bij het Agentschap voor Onderwijsdiensten vóór 1 maart van het voorafgaand schooljaar en vergezeld van het protocol van de onderhandeling ter zake in het bevoegd lokaal comité, en<br />2° na advies van enerzijds de Vlaamse Onderwijsraad en anderzijds het Agentschap voor Onderwijsdiensten en de Inspectie. ».<br /><br />
+
+### ART. 4.
+
+In artikel 56 van het decreet van 31 juli 1990 betreffende het onderwijs II wordt het punt 3°, ingevoegd bij het decreet van 21 december 1994, vervangen door wat volgt :<br />« 3° het extra aantal wekelijkse uren-leraar dat aan elke inrichtende macht van onderwijsinstellingen na vrijwillige fusie, zoals bedoeld in artikel 58bis, wordt toegekend; deze bepaling wordt evenwel buiten werking gesteld vanaf het schooljaar 2010-2011, behoudens voor vrijwillige fusies die uiterlijk op 1 september 2009 hebben plaatsgevonden. ».<br /><br />
+
+### ART. 5.
+
+In artikel 58 van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs, wordt het tweede lid vervangen door wat volgt :<br />« De bepalingen van deze titel worden buiten werking gesteld vanaf het schooljaar 2010-2011, behoudens voor vrijwillige fusies die uiterlijk op 1 september 2009 hebben plaatsgevonden. ».<br /><br />
+
+### ART. 6.
+
+In artikel 8 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap wordt een paragraaf 3 toegevoegd, die luidt als volgt :<br />« § 3. In afwijking op de bepalingen van § 1 en § 2 kan vanaf het schooljaar 2010-2011 :<br />1° geen nieuw centrum voor deeltijds beroepssecundair onderwijs worden erkend, gefinancierd of gesubsidieerd, tenzij dat centrum enkel het gevolg is van een fusie van bestaande centra of tenzij in uitzonderlijke gevallen toelating wordt gegeven door de Vlaamse Regering;<br />2° een bestaand centrum voor deeltijds beroepssecundair onderwijs dat verbonden is aan een instelling met voltijds gewoon technisch of beroepssecundair onderwijs niet autonoom worden, tenzij in uitzonderlijke gevallen toelating wordt gegeven door de Vlaamse Regering.<br /><br />De desbetreffende toelating door de Vlaamse Regering gebeurt :<br />1° na schriftelijke aanvraag van de betrokken inrichtende macht(en), ingediend bij het Agentschap voor Onderwijsdiensten vóór 1 maart van het voorafgaand schooljaar en vergezeld van het protocol van de onderhandeling ter zake in het bevoegd lokaal comité, en<br />2° na advies van enerzijds de Vlaamse Onderwijsraad en anderzijds het Agentschap voor Onderwijsdiensten en de Inspectie. ».<br /><br />
+
+### ART. 7.
+
+In artikel 20 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap worden de volgende wijzigingen aangebracht :<br />1° de huidige tekst wordt in een paragraaf 1 ondergebracht;<br /><br />2° een paragraaf 2 wordt toegevoegd, die luidt als volgt :<br />« § 2. In afwijking van de bepalingen van § 1 kan vanaf het schooljaar 2010-2011 een centrum voor deeltijds beroepssecundair onderwijs geen nieuw aanbod meer programmeren, tenzij in uitzonderlijke gevallen toelating wordt gegeven door de Vlaamse Regering :<br />1° na schriftelijke aanvraag van de inrichtende macht, ingediend bij het Agentschap voor Onderwijsdiensten vóór 1 maart van het voorafgaand schooljaar en vergezeld van het protocol van de onderhandeling ter zake in het bevoegd lokaal comité, en<br />2° na advies van enerzijds de Vlaamse Onderwijsraad en anderzijds het Agentschap voor Onderwijsdiensten en de Inspectie. ».<br /><br />
+
+### ART. 8.
+
+In artikel 99ter decies van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs, ingevoegd bij het decreet van 8 mei 2009, worden in paragraaf 1 na de woorden « het schooljaar 2008-2009 » de woorden « en, voor wat betreft de vervangingen van korte afwezigheden, tot en met het schooljaar 2009-2010 » ingevoegd.<br /><br />
+
+### ART. 9.
+
+In het besluit van de Vlaamse Regering van 29 mei 2009 betreffende de vervangingen van korte afwezigheden, wordt het hoofdstuk II, bestaande uit de artikelen 4 tot en met 6, opgeheven.<br /><br />
+
 ## Onderafdeling II Uur pedagogische coördinatie
+
+### ART. 10.
+
+In artikel 3 van het koninklijk besluit nr. 297 van 31 maart 1984 betreffende de opdrachten, de wedden, de weddetoelagen en de verloven voor verminderde prestaties in het onderwijs en de psycho-medisch-sociale centra wordt paragraaf 1 opgeheven.<br /><br />
 
 ## Afdeling II Hogescholen
 
@@ -72,6 +108,14 @@ In artikel 169quater, § 7, van hetzelfde decreet, laatst gewijzigd bij het decr
 
 ## Afdeling VI Verloven wegens bijzondere opdracht
 
+### ART. 23.
+
+Aan artikel 51quater, § 2, derde lid, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding, ingevoegd bij het decreet van 14 februari 2003, en gewijzigd bij het decreet van 7 juli 2006, worden de volgende zinnen toegevoegd :<br />« Het totaal aantal verloven wegens bijzondere opdracht zoals bepaald in het eerste lid, 4°, en het eerste lid, 8°, samen, wordt vastgelegd op een maximum van 45 voltijdse equivalenten. Hierbij zijn minimaal 12 voltijdse equivalenten voorbehouden voor verloven wegens bijzondere opdracht zoals bepaald in het eerste lid, 4°. ».<br /><br />
+
+### ART. 24.
+
+Aan artikel 77quater, § 2, derde lid, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs, ingevoegd bij het decreet van 14 februari 2003, en gewijzigd bij het decreet van 7 juli 2006, worden de volgende zinnen toegevoegd :<br />« Het totaal aantal verloven wegens bijzondere opdracht zoals bepaald in het eerste lid, 4°, en het eerste lid, 8°, samen, wordt vastgelegd op een maximum van 45 voltijdse equivalenten. Hierbij zijn minimaal 12 voltijdse equivalenten voorbehouden voor verloven wegens bijzondere opdracht zoals bepaald in het eerste lid, 4°. ».<br /><br />
+
 ## Afdeling VII Vormingsfonds
 
 ### ART. 25.
@@ -80,7 +124,19 @@ In de tweede zin van het eerste lid van artikel II.88quinquies van het decreet v
 
 ## Afdeling VIII Academiseringsmiddelen
 
+### ART. 26.
+
+In artikel VI.9ter van het decreet van 19 maart 2004 betreffende de rechtspositieregeling van de student, de medezeggenschap in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs in Vlaanderen, gewijzigd bij het decreet van 8 mei 2009, worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid van paragraaf 1 worden de woorden « 2006, 2007, 2008 en 2009 » vervangen door de woorden « 2006, 2007, 2008, 2009 en 2010 »;<br />2° in het tweede lid van paragraaf 1 worden de woorden « 2007, 2008 en 2009 » vervangen door de woorden « 2007, 2008, 2009 en 2010 »;<br />3° in paragraaf 2 worden de woorden « in 2006, in 2007, in 2008 en in 2009 » vervangen door de woorden « in 2006, in 2007, in 2008, in 2009 en in 2010 ».<br /><br />
+
+### ART. 27.
+
+In artikel VI.10 van het decreet van 19 maart 2004 betreffende de rechtspositie-regeling van de student, de medezeggenschap in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs in Vlaanderen, gewijzigd bij het decreet van 21 december 2007, wordt het derde lid vervangen door wat volgt :<br />« Artikelen VI.9bis tot en met VI.9septies hebben uitwerking met ingang van 1 januari 2006 en houden op uitwerking te hebben op 31 december 2010. ».<br /><br />
+
 ## Afdeling IX Terbeschikkingstelling
+
+### ART. 28.
+
+Artikel 52 van het besluit van de Vlaamse Regering van 29 april 1992 betreffende de verdeling van betrekkingen, de terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie, de wedertewerkstelling en de toekenning van een wachtgeld of wachtgeldtoelage wordt opgeheven.<br /><br />
 
 ## Afdeling X Volwassenenonderwijs
 
@@ -97,6 +153,10 @@ In afwijking van artikel 110, § 3, van hetzelfde decreet wordt aan het Fonds In
 In afwijking van artikel 6decies van het besluit van de Vlaamse Regering van 12 oktober 2007 tot regeling van een aantal aangelegenheden voor de Centra voor Basiseducatie ter uitvoering van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, ingevoegd bij het besluit van de Vlaamse Regering van 2 oktober 2009, wordt de werkingstoelage per lesuurcursist pas met ingang van 1 januari 2011 aangepast aan de evolutie van de index.<br /><br />
 
 ## Afdeling XI Mentorschap
+
+### ART. 32.
+
+Het decreet van 16 april 1996 betreffende het mentorschap, gewijzigd bij de decreten van 8 juli 1996, 15 december 2006, 22 juni 2007 en 8 mei 2009, wordt opgeheven.<br /><br />
 
 ## Afdeling XII Kwaliteit van onderwijs
 
@@ -122,11 +182,19 @@ In artikel 22 van hetzelfde decreet wordt het jaartal « 2009 » vervangen door 
 
 ## Afdeling XIII Project Duurzaam naar school
 
+### ART. 38.
+
+Artikel 55quater van het decreet van 7 mei 2004 betreffende de regionale technologische centra en houdende noodzakelijke en dringende onderwijsbepalingen, ingevoegd bij het decreet van 4 juli 2008, wordt opgeheven.<br /><br />
+
 ## Afdeling XIV Inspectie en begeleiding levensbeschouwelijke vakken
 
 ### ART. 39.
 
 In artikel 27, § 1, van het decreet van 1 december 1993 betreffende de inspectie en begeleiding levensbeschouwelijke vakken worden de volgende wijzigingen aangebracht :<br />1° het bedrag « 3.970,51 euro » wordt vervangen door het bedrag « 3.885,99 euro« ;<br />2° het jaartal « 2008 » wordt vervangen door het jaartal « 2010 ».<br /><br />
+
+### ART. 40.
+
+In artikel 1, § 1, van het besluit van de Vlaamse Regering van 15 december 1993 tot uitvoering van het decreet van 1 december 1993 betreffende de inspectie en begeleiding levensbeschouwelijke vakken worden de volgende wijzigingen doorgevoerd :<br />1° in het eerste lid wordt het getal « 13 » vervangen door het getal « 12 »;<br />2° in het tweede lid wordt het getal « 5 » vervangen door het getal « 4,5 ».<br /><br />
 
 ### ART. 41.
 
@@ -242,6 +310,22 @@ Aan artikel 14 van hetzelfde decreet wordt aan § 3 een tweede lid toegevoegd, d
 
 ## Afdeling III Bedrijfsstages
 
+### ART. 66.
+
+In artikel 3 van het besluit van de Vlaamse Regering van 29 mei 2009 betreffende personeelsleden in het secundair onderwijs die op bedrijfsstage gaan, worden volgende wijzigingen aangebracht :<br />1° in paragraaf 1, 1°, a), worden punt 3) en 4) vervangen door wat volgt :<br />« 3) voor het begrotingsjaar 2010 : 2.043.166 euro;<br />4) voor het begrotingsjaar 2011 : 584.576 euro; »;<br /><br />2° in paragraaf 2, 1°, a), worden punt 3) en 4) vervangen door wat volgt :<br />« 3) voor het begrotingsjaar 2010 : 170.448 euro;<br />4) voor het begrotingsjaar 2011 : 48.767 euro; »;<br /><br />3° er wordt een paragraaf 7 toegevoegd, die luidt als volgt :<br />« § 7. De werkingsmiddelen, bestemd voor enerzijds de personeelsleden die bijkomende kosten maken tengevolge van het lopen van bedrijfsstages en anderzijds voor het uitvoeren van prospecties, bedragen 3 % van het beschikbare budget. ».<br /><br />
+
+### ART. 67.
+
+In hetzelfde besluit wordt hoofdstuk III, bestaande uit artikel 4, opgeheven.<br /><br />
+
+### ART. 68.
+
+Artikel 5 van hetzelfde besluit wordt vervangen door wat volgt :<br />« Art. 5. Het gebruik van het vervangingssysteem en het gebruik van de werkingsmiddelen worden opgevolgd en geëvalueerd in samenspraak met de sociale partners. ».<br /><br />
+
+### ART. 69.
+
+De Vlaamse Regering wordt gemachtigd om de voorgaande artikelen te wijzigen, te vervangen of geheel of gedeeltelijk op te heffen.<br /><br />
+
 ## Afdeling IV Hogere Zeevaartschool
 
 ### ART. 70.
@@ -256,7 +340,19 @@ Aan artikel 31 van het decreet van 14 maart 2008 betreffende de financiering van
 
 ## Afdeling VI Terbeschikkingstelling
 
+### ART. 72.
+
+Het besluit van de Vlaamse Regering van 20 april 1994 betreffende de deeltijdse terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen voor personeelsleden van het onderwijs en van de psycho-medisch-sociale centra, gewijzigd bij het decreet van 8 juli 1996 en de besluiten van de Vlaamse Regering van 11 februari 2000 en 22 februari 2002, wordt geschorst.<br /><br />De Vlaamse Regering wordt gemachtigd om de voorgaande bepaling te wijzigen, te vervangen of geheel of gedeeltelijk op te heffen.<br /><br />
+
+### ART. 73.
+
+Het vorige artikel is niet van toepassing op de personeelsleden die vóór 1 september 2010 en in toepassing van de bepalingen van het besluit vermeld in vorige artikel, reeds genoten van een deeltijdse terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen.<br /><br />
+
 ## Afdeling VII Toekenning van een niet-verworven salarisschaal
+
+### ART. 74.
+
+Het besluit van de Vlaamse Regering van 5 maart 2004, gewijzigd bij de besluiten van de Vlaamse Regering van 20 juli 2006 en 21 september 2007, betreffende de toekenning van een niet-verworven salarisschaal voor de houders van het getuigschrift grondige kennis van de verplichte tweede taal Frans en het besluit van de Vlaamse Regering van 15 april 2005, gewijzigd bij de besluiten van de Vlaamse Regering van 30 september 2005, 20 juli 2006, 21 september 2007 en 29 mei 2009, betreffende de toekenning van een bepaalde niet-verworven salarisschaal aan sommige personeelsleden van het onderwijs, worden opgeheven voor de personeelsleden die aangesteld of geaffecteerd zijn in een betrekking in een selectie- of bevorderingsambt en voor de personeelsleden die aangesteld of geaffecteerd zijn in een betrekking in een ambt bedoeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van het onderwijs of in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.<br /><br />Met behoud van de toepassing van de bepalingen van het eerste lid blijven de bepalingen van de in het eerste lid vermelde besluiten van de Vlaamse Regering van toepassing voor de personeelsleden die vóór 1 september 2010 een diploma of getuigschrift hebben behaald dat in één van deze besluiten is vermeld.<br /><br />De Vlaamse Regering wordt gemachtigd om de voorgaande bepalingen te wijzigen, te vervangen of geheel of gedeeltelijk op te heffen.<br /><br />
 
 ## Afdeling VIII Volwassenenonderwijs
 
@@ -269,6 +365,18 @@ In artikel 77, § 1, van het decreet van 15 juni 2007 betreffende het volwassene
 In afwijking van artikel 77, § 6, van hetzelfde decreet wordt de jaarlijkse subsidie aan de consortia volwassenenonderwijs voor het begrotingsjaar 2010 niet aangepast aan de evolutie van de index.<br /><br />
 
 ## Afdeling IX Organisatie van tijdelijke projecten
+
+### ART. 77.
+
+In artikel 4, § 2, van het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs wordt het laatste lid vervangen door wat volgt :<br />« De Vlaamse Regering kan indien nodig voorzien in pedagogische, wetenschappelijke of andere adequate ondersteuning en begeleiding. ».<br /><br />
+
+### ART. 78.
+
+In artikel 5 van hetzelfde decreet wordt een § 3 toegevoegd, die luidt als volgt :<br />« § 3. De bepalingen van dit artikel worden buiten werking gesteld vanaf het schooljaar 2010-2011, behoudens voor :<br />1° de tijdelijke projecten in het basis- en secundair onderwijs die zijn opgenomen in het decreet van 10 juli 2008 houdende verlenging van sommige van de tijdelijke projecten die zijn vermeld in het besluit van de Vlaamse Regering van 23 juni 2006 betreffende de organisatie van tijdelijke projecten in het basis- en secundair onderwijs;<br />2° de tijdelijke projecten in het deeltijds kunstonderwijs die al tijdens het schooljaar 2009-2010 lopende zijn. ».<br /><br />
+
+### ART. 79.
+
+In artikel 18bis van het besluit van de Vlaamse Regering van 19 oktober 2007 betreffende de organisatie van tijdelijke projecten rond studie- en beroepskeuze en rond werkplekleren, ingevoegd bij het besluit van de Vlaamse Regering van 27 juni 2008, wordt § 2 vervangen door wat volgt :<br />« § 2. In geval van verlenging kunnen de projectverantwoordelijken steeds beslissen om bij het einde van het schooljaar 2010-2011 of 2011-2012 het tijdelijke project vroegtijdig te beëindigen. ».<br /><br />
 
 ## Afdeling X Lerarenopleiding
 
