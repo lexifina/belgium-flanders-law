@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019596,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-17 [betreffende de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied bibliotheek-, archief- en documentatiekunde (verv. BVR 22 december 2017, art. 4, I: 1 december 2017)]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019596/VolledigDocument?datum=2010-09-01",
+  "source_sha256": "ba6733f5032e2abd6e7f76ae0d71ca45da9e4989e73bf04f39f6619dbd4f1d7b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019596&param=informatie",
+  "as_of": "2010-09-01",
+  "made": "2010-09-17",
+  "gazette": "2010-10-22",
+  "numac": 2010035762,
+  "document_start": "2010-09-01",
+  "document_end": null,
+  "in_force": "2010-09-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2010-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
