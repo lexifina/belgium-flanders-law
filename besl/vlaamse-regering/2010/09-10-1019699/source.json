@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019699,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-10 tot wijziging van het besluit van de Vlaamse Regering van 7 oktober 1997 betreffende de nuttige ervaring als bekwaamheidsbewijs voor de personeelsleden van het onderwijs, het besluit van de Vlaamse Regering van 1 september 2006 betreffende de ambtshalve concordantie en het besluit van de Vlaamse Regering van 23 april 2010 betreffende de bekwaamheidsbewijzen en de salarisschalen voor de personeelsleden van de centra voor volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019699/VolledigDocument?datum=2010-09-01",
+  "source_sha256": "809456e112e222570045cf016c85e3f88aefa5e1ccf7734b49db60f27613880a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019699&param=informatie",
+  "as_of": "2010-09-01",
+  "made": "2010-09-10",
+  "gazette": "2010-11-12",
+  "numac": 2010035768,
+  "document_start": "2010-09-01",
+  "document_end": null,
+  "in_force": "2010-09-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2010-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
