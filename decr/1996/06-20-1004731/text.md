@@ -8,7 +8,7 @@
 
 ### ART. 2.
 
-[Voor de toepassing van dit decreet wordt verstaan onder:<br /><br />1° expertisecentrum: het expertisecentrum zoals bedoeld in het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad dat de uitbouw van een rationeel vormingsaanbod cordineert gericht op de implementatie van de regelgeving van titel II van voornoemd decreet;<br /><br />2° ouderraad: een ouderraad bedoeld in hoofdstuk III. van titel II van het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad;<br /><br />3° oudervereniging: een schoolgebonden vereniging waarbinnen ouders van leerlingen onder de leiding van een gekozen bestuur samenwerken omtrent schoolgebonden aangelegenheden;<br /><br />4° VLOR: de Vlaamse Onderwijsraad.  <span class="reference">(verv. decr. 2 april 2004, art. 98, I: 1 januari 2005)</span> ]
+Voor de toepassing van dit decreet wordt verstaan onder:<br />1° expertisecentrum: het expertisecentrum zoals bedoeld in het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad dat de uitbouw van een rationeel vormingsaanbod cordineert gericht op de implementatie van de regelgeving van titel II van voornoemd decreet;<br />1°/1 leerling : elke regelmatige leerling in het basisonderwijs, vermeld in artikel 20 van het decreet basisonderwijs van 25 februari 1997, en elke onderwijszoekende die ingeschreven is in een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde instelling voor secundair onderwijs; <br />1°/2 onderwijsnet : een van de volgende soorten onderwijs :<br />a) gemeenschapsonderwijs : onderwijs dat georganiseerd wordt krachtens het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs en gefinancierd door de Vlaamse Gemeenschap;<br />b) gesubsidieerd officieel onderwijs : onderwijs dat georganiseerd wordt door openbare besturen, met uitzondering van het gemeenschapsonderwijs, en dat gesubsidieerd wordt door de Vlaamse Gemeenschap;<br />c) gesubsidieerd vrij onderwijs : onderwijs dat georganiseerd wordt door natuurlijke personen of privaatrechtelijke rechtspersonen en dat gesubsidieerd wordt door de Vlaamse Gemeenschap; <br />2° ouderraad: een ouderraad bedoeld in hoofdstuk III. van titel II van het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad;<br />3° oudervereniging: een schoolgebonden vereniging waarbinnen ouders van leerlingen onder de leiding van een gekozen bestuur samenwerken omtrent schoolgebonden aangelegenheden;<br />4° VLOR: de Vlaamse Onderwijsraad.
 
 ## HOOFDSTUK II [OPRICHTING EN OPDRACHT (verv. decr. 2 april 2004, art. 98)]
 
@@ -24,7 +24,11 @@
 
 ### ART. 5.
 
-De Vlaamse regering houdt bij het vastleggen van het bedrag van de subsidie-enveloppes ten dele rekening met het aantal aangesloten ouderverenigingen en/ of ouderraden.
+De Vlaamse Regering maakt voor het vastleggen van het bedrag van de subsidie-enveloppes voor de verschillende ouderkoepelverenigingen bij de start van elke driejarige periode, gebruik van een verdeelsleutel die gebaseerd is op een sokkel en het aantal leerlingen dat elk onderwijsnet telt.
+
+### ART. 5/1.
+
+In afwijking van artikel 5 houdt de Vlaamse Regering bij het vastleggen van de bedragen van de subsidie-enveloppes die in 2011 aan de gesubsidieerde ouderkoepelverenigingen toegekend worden, ten dele rekening met het aantal leerlingen dat elk onderwijsnet telt.
 
 ### ART. 6.
 
