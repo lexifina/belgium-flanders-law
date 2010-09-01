@@ -2,16 +2,16 @@
   "codex_id": 1004648,
   "title": "Decreet van 1996-04-16 [betreffende het mentorschap (verv. decr. 8 mei 2009)]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004648/VolledigDocument?datum=2009-09-01",
-  "source_sha256": "eb7621315b7513673e18303efd4d9b671feb55b22dd8a44d3220f16c9cd69d7b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004648/VolledigDocument?datum=2010-09-01",
+  "source_sha256": "cc474b3bd887365cafb7e2c0399e06762aed0d4cd9f692e08cdc1acdfdd9a83d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004648&param=informatie",
-  "as_of": "2009-09-01",
+  "as_of": "2010-09-01",
   "made": "1996-04-16",
   "gazette": "1996-06-12",
   "numac": 1996035624,
   "document_start": null,
   "document_end": "2010-08-31",
-  "in_force": "2009-09-01",
+  "in_force": "2010-09-01",
   "article_versions": 60,
-  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-09-01; future article versions excluded; article text as the API gives it"
 }
