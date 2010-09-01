@@ -128,7 +128,7 @@ De Vlaamse minister van Onderwijs is belast met de uitvoering van dit besluit.<b
 
 ### BIJLAGE I.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/08_1.pdf#page=4" title=" Bijlage I" target="_blank" class="pdf">Bijlage I</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/08_1.pdf#page=4" title=" Bijlage I" target="_blank" class="pdf">Bijlage I</a> <br /><br />Met ingang van 1 september 2010 worden de bekwaamheidsbewijzen voor het kunstvak scenario als volgt gewijzigd met de beperking evenwel dat hieruit tijdens de periode van 1 september 2010 tot en met 31 augustus 2011 geen gevolgen kunnen voortvloeien voor de personeelsleden en de inrichtende machten met betrekking tot de terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling. De andere onderdelen van de bijlage blijven gelden.<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/08/11_1.pdf#page=138" title=" bekwaamheidsbewijzen kunstvak scenario" target="_blank" class="pdf">bekwaamheidsbewijzen kunstvak scenario</a>
 
 ### BIJLAGE II.
 
