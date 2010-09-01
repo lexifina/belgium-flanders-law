@@ -42,6 +42,10 @@ In artikel 2 van het decreet van 20 februari 2009 betreffende de Hogere Zeevaart
 
 In artikel 89, § 1, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, wordt in het eerste lid de coëfficiënt « 3,66 » vervangen door de coëfficiënt « 3,80 » en de coëfficiënt « 2,75 » door de coëfficiënt « 2,85 ».
 
+### ART. 8.
+
+Aan artikel 89 van hetzelfde decreet wordt een paragraaf 3 toegevoegd, die luidt als volgt :<br /><br />« § 3. In afwijking van § 1, eerste lid, wordt voor het schooljaar 2010-2011 :<br />1° een jongere waarvoor de component leren wordt vervangen door een persoonlijk ontwikkelingstraject tijdens de volledige inschrijvingsperiode in het centrum voor deeltijds beroepssecundair onderwijs van het schooljaar in kwestie, niet in aanmerking genomen bij de vaststelling van het pakket uren-leraar;<br />2° een jongere waarvoor de component leren wordt vervangen door een persoonlijk ontwikkelingstraject tijdens een gedeelte van de inschrijvingsperiode in het centrum voor deeltijds beroepssecundair onderwijs van het schooljaar in kwestie, slechts in aanmerking genomen bij de vaststelling van het pakket uren-leraar op basis van volgende formule : <br />(40 weken - het aantal weken in POT)/40 weken x de toepasbare coëfficiënt uren-leraar. <br />waarbij de leerlingen die niet onder toepassing van onderhavige bepaling vallen maximaal worden geacht tot de schijf van 1 jongere tot en met 49 jongeren te behoren. »
+
 ## Afdeling VI. [... (opgeh. decr. 23 december 2016, art. 34, I: 1 januari 2017)]
 
 ### ART. 9.
