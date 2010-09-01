@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019594,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-10 tot wijziging van het besluit van de Vlaamse Regering van 27 juni 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen en de bezoldigingsregeling in het gewoon basisonderwijs, het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen en de bezoldiging in het buitengewoon onderwijs en het besluit van de Vlaamse Regering van 12 december 2003 tot vaststelling van de bekwaamheidsbewijzen en de salarisschalen van de personeelsleden van de centra voor leerlingenbegeleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019594/VolledigDocument?datum=2010-09-01",
+  "source_sha256": "709ec315ad50052849d1b31300936aef29cf5f9246bbe4a2ca63cdd141b058eb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019594&param=informatie",
+  "as_of": "2010-09-01",
+  "made": "2010-09-10",
+  "gazette": "2010-10-22",
+  "numac": 2010035760,
+  "document_start": "2010-09-01",
+  "document_end": null,
+  "in_force": "2010-09-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2010-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
