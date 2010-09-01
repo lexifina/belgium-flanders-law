@@ -42,7 +42,7 @@ De volgende regelingen worden opgeheven : <br />1° het decreet van 1 december 1
 
 ### ART. 11.
 
-In afwijking van artikel 4 moeten de verenigingen die in aanmerking willen komen voor subsidies voor de eerste vierjarige periode, die ingaat in het jaar 2010, hun aanvraag uiterlijk 31 december 2008 indienen.
+In afwijking van artikel 4 moeten de verenigingen die in aanmerking willen komen voor subsidies voor de eerste vierjarige periode, die ingaat in het jaar 2010, hun aanvraag uiterlijk 31 december 2008 indienen. De duur van de eerste subsidieovereenkomst die na de inwerkingtreding van dit decreet gesloten wordt, loopt niet verder dan 31 december 2013.
 
 ### ART. 12.
 
