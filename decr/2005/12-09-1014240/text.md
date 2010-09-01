@@ -14,65 +14,11 @@ De Vlaamse Regering kan tijdelijke projecten opzetten of scholen en centra de mo
 
 ### ART. 4.
 
-§ 1. Tijdelijke projecten kunnen afwijken of kunnen afwijkingen toestaan van wettelijke en decretale bepalingen onder de hierna gestelde voorwaarden.<br>
-<br>
-§ 2. De afwijkingen zijn alleen mogelijk:<br>
-<br>
-1° als de doelstellingen van het tijdelijke project gericht zijn op de voorbereiding van een eventuele wijziging van de onderwijswetgeving met het oog op:<br>
-<br>
-a) onderwijsvernieuwing, en/of<br>
-<br>
-b) het ontwikkelen van specifieke maatregelen voor bepaalde doelgroepen, en/of<br>
-<br>
-c) een betere organisatie van het onderwijs; en<br>
-<br>
-2° als de afwijkingen noodzakelijk zijn om de doelstellingen van de tijdelijke projecten te realiseren.<br>
-<br>
-De Vlaamse Regering wijst per tijdelijk project de wettelijke en decretale bepalingen aan waarvan afgeweken wordt. Ze motiveert de noodzaak om van die bepalingen af te wijken en uit de omschrijving van het tijdelijke project laat ze blijken dat de bepalingen waarvan wordt afgeweken in verband staan met de doelstellingen van het tijdelijke project.<br>
-<br>
-De Vlaamse Regering voorziet in de nodige pedagogische, wetenschappelijke of andere adequate ondersteuning en begeleiding.<br>
-<br>
-§ 3. De afwijkingen kunnen evenwel geen betrekking hebben op:<br>
-<br>
-1° de bepalingen inzake het inschrijvingsrecht in het basis- en secundair onderwijs;<br>
-<br>
-2° de eindtermen en ontwikkelingsdoelen;<br>
-<br>
-3° de bepalingen inzake het minimumlessenrooster of de minimumlessentabel in het secundair en volwassenenonderwijs en in de deeltijdse vormingen in het kader van de deeltijdse leerplicht;<br>
-<br>
-4° de bepalingen inzake liet minimumaantal wekelijkse lestijden voor leerlingen in het basis-, secundair en volwassenenonderwijs;<br>
-<br>
-5° de bepalingen die betrekking hebben op de participatie:<br>
-<br>
-6° de bepalingen die betrekking hebben op de erkenning van scholen en centra, met uitzondering van de bepalingen inzake onderwijsstructuur en leerplan;<br>
-<br>
-7° de bepalingen die betrekking hebben op het inschrijvingsgeld in het volwassenenonderwijs;<br>
-<br>
-8° de bepalingen inzake zorgvuldig bestuur.<br>
-<br>
-§ 4. Als het tijdelijke project aanleiding geeft tot het uitvaardigen van afwijkende regelgeving, waarborgt deze regeling in elk geval:<br>
-<br>
-1° het recht van de leerling op begeleiding door een centrum voor leerlingenbegeleiding;<br>
-<br>
-2° de mogelijkheid tot overstap van een leerling in het begin van het schooljaar of tijdens het schooljaar naar een onderwijsinstelling of opleiding buiten het tijdelijke project;<br>
-<br>
-3° de eindbekrachtiging van de studies, met de daaraan verbonden civiele effecten;<br>
-<br>
-4° de vigerende verhouding tussen het aantal lessen op jaarbasis enerzijds, en de vakantie- en verlofregeling anderzijds ;<br>
-<br>
-5° dat in de vormen van onderwijs waar tegen omstreden beslissingen beroep kan worden ingesteld, dat ook in tijdelijke projecten het geval is;<br>
-<br>
-6° dat de basisfinanciering of -subsidiëring van de scholen en centra in kwestie nooit lager is dan die welke onder identieke omstandigheden buiten het tijdelijke project wordt toegekend;<br>
-<br>
-7° de geldelijke loopbaan van de personeelsleden die in tijdelijke projecten fungeren.<br>
-<br>
-§ 5. Besluiten die afwijken of die afwijkingen toestaan van wettelijke en decretale bepalingen, worden binnen de maand na hun goedkeuring ter bekrachtiging aan het Vlaams Parlement voorgelegd. De bekrachtiging bij decreet gebeurt binnen de zes maanden na goedkeuring van het besluit en vóór de inwerkingtreding van dit besluit.<br>
-<br>
-Besluiten die betrekking hebben op het schooljaar 2005-2006 worden voor dat schooljaar als bekrachtigd beschouwd.
+§ 1. Tijdelijke projecten kunnen afwijken of kunnen afwijkingen toestaan van wettelijke en decretale bepalingen onder de hierna gestelde voorwaarden.<br /><br />§ 2. De afwijkingen zijn alleen mogelijk:<br />1° als de doelstellingen van het tijdelijke project gericht zijn op de voorbereiding van een eventuele wijziging van de onderwijswetgeving met het oog op:<br />a) onderwijsvernieuwing, en/of<br />b) het ontwikkelen van specifieke maatregelen voor bepaalde doelgroepen, en/of<br />c) een betere organisatie van het onderwijs; en<br />2° als de afwijkingen noodzakelijk zijn om de doelstellingen van de tijdelijke projecten te realiseren.<br /><br />De Vlaamse Regering wijst per tijdelijk project de wettelijke en decretale bepalingen aan waarvan afgeweken wordt. Ze motiveert de noodzaak om van die bepalingen af te wijken en uit de omschrijving van het tijdelijke project laat ze blijken dat de bepalingen waarvan wordt afgeweken in verband staan met de doelstellingen van het tijdelijke project.<br /><br />De Vlaamse Regering kan indien nodig voorzien in pedagogische, wetenschappelijke of andere adequate ondersteuning en begeleiding.<br /><br />§ 3. De afwijkingen kunnen evenwel geen betrekking hebben op:<br />1° de bepalingen inzake het inschrijvingsrecht in het basis- en secundair onderwijs;<br />2° de eindtermen en ontwikkelingsdoelen;<br />3° de bepalingen inzake het minimumlessenrooster of de minimumlessentabel in het secundair en volwassenenonderwijs en in de deeltijdse vormingen in het kader van de deeltijdse leerplicht;<br />4° de bepalingen inzake liet minimumaantal wekelijkse lestijden voor leerlingen in het basis-, secundair en volwassenenonderwijs;<br />5° de bepalingen die betrekking hebben op de participatie:<br />6° de bepalingen die betrekking hebben op de erkenning van scholen en centra, met uitzondering van de bepalingen inzake onderwijsstructuur en leerplan;<br />7° de bepalingen die betrekking hebben op het inschrijvingsgeld in het volwassenenonderwijs;<br />8° de bepalingen inzake zorgvuldig bestuur.<br /><br />§ 4. Als het tijdelijke project aanleiding geeft tot het uitvaardigen van afwijkende regelgeving, waarborgt deze regeling in elk geval:<br />1° het recht van de leerling op begeleiding door een centrum voor leerlingenbegeleiding;<br />2° de mogelijkheid tot overstap van een leerling in het begin van het schooljaar of tijdens het schooljaar naar een onderwijsinstelling of opleiding buiten het tijdelijke project;<br />3° de eindbekrachtiging van de studies, met de daaraan verbonden civiele effecten;<br />4° de vigerende verhouding tussen het aantal lessen op jaarbasis enerzijds, en de vakantie- en verlofregeling anderzijds ;<br />5° dat in de vormen van onderwijs waar tegen omstreden beslissingen beroep kan worden ingesteld, dat ook in tijdelijke projecten het geval is;<br />6° dat de basisfinanciering of -subsidiëring van de scholen en centra in kwestie nooit lager is dan die welke onder identieke omstandigheden buiten het tijdelijke project wordt toegekend;<br />7° de geldelijke loopbaan van de personeelsleden die in tijdelijke projecten fungeren.<br /><br />§ 5. Besluiten die afwijken of die afwijkingen toestaan van wettelijke en decretale bepalingen, worden binnen de maand na hun goedkeuring ter bekrachtiging aan het Vlaams Parlement voorgelegd. De bekrachtiging bij decreet gebeurt binnen de zes maanden na goedkeuring van het besluit en vóór de inwerkingtreding van dit besluit.<br /><br />Besluiten die betrekking hebben op het schooljaar 2005-2006 worden voor dat schooljaar als bekrachtigd beschouwd.
 
 ### ART. 5.
 
-§ 1. Afhankelijk van de beschikbare begrotingskredieten kan aan scholen en centra die deelnemen aan de tijdelijke projecten extra ondersteuning worden toegekend.<br /><br />De extra ondersteuning wordt toegekend binnen een schooljaar en moet aangewend worden zoals door de Vlaamse Regering bepaald is.<br /><br />§ 2. Voorzover de extra ondersteuning, vermeld in § 1, extra betrekkingen behelst, wordt het personeelslid dat in dergelijke betrekking wordt aangesteld, steeds aangesteld als tijdelijk personeelslid. De bepalingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs of het decreet rechtspositie personeelsleden gesubsidieerd onderwijs, naargelang van het geval, blijven verder van toepassing, met uitzondering van de volgende bepalingen:<br /><br />1° de betrekking is niet onderworpen aan de reglementering inzake terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling. Het schoolbestuur of de inrichtende macht van de school of het centrum waar de betrekking wordt opgericht, kan evenwel op vrijwillige basis een personeelslid aanstellen dat ter beschikking is gesteld wegens ontstentenis van betrekking. Deze aanstelling gebeurt steeds met instemming van het ter beschikking gestelde personeelslid en is, naargelang van het geval, een reaffectatie, een wedertewerkstelling of een tewerkstelling. Indien deze aanstelling een tewerkstelling is, dan wordt ze beschouwd als een wedertewerkstelling;<br /><br />2° het schoolbestuur of de inrichtende macht van de school of het centrum waaraan de betrekking wordt toegewezen, is niet verplicht om in de betrekking een personeelslid aan te stellen dat het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven, overeenkomstig artikelen 21 en 21bis van het decreet rechtspositie personeelsleden gemeenschapsonderwijs of artikelen 23 en 23bis van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs, naargelang van het geval;<br /><br />3° de betrekking kan niet vacant worden verklaard. Het schoolbestuur of de inrichtende macht kan in geen geval een personeelslid vastbenoemen, affecteren of muteren in de betrekking.<br /><br />De Vlaamse Regering kan van de bepalingen onder 1° en 2° hierboven afwijken.
+§ 1. Afhankelijk van de beschikbare begrotingskredieten kan aan scholen en centra die deelnemen aan de tijdelijke projecten extra ondersteuning worden toegekend.<br /><br />De extra ondersteuning wordt toegekend binnen een schooljaar en moet aangewend worden zoals door de Vlaamse Regering bepaald is.<br /><br />§ 2. Voorzover de extra ondersteuning, vermeld in § 1, extra betrekkingen behelst, wordt het personeelslid dat in dergelijke betrekking wordt aangesteld, steeds aangesteld als tijdelijk personeelslid. De bepalingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs of het decreet rechtspositie personeelsleden gesubsidieerd onderwijs, naargelang van het geval, blijven verder van toepassing, met uitzondering van de volgende bepalingen:<br />1° de betrekking is niet onderworpen aan de reglementering inzake terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling. Het schoolbestuur of de inrichtende macht van de school of het centrum waar de betrekking wordt opgericht, kan evenwel op vrijwillige basis een personeelslid aanstellen dat ter beschikking is gesteld wegens ontstentenis van betrekking. Deze aanstelling gebeurt steeds met instemming van het ter beschikking gestelde personeelslid en is, naargelang van het geval, een reaffectatie, een wedertewerkstelling of een tewerkstelling. Indien deze aanstelling een tewerkstelling is, dan wordt ze beschouwd als een wedertewerkstelling;<br />2° het schoolbestuur of de inrichtende macht van de school of het centrum waaraan de betrekking wordt toegewezen, is niet verplicht om in de betrekking een personeelslid aan te stellen dat het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven, overeenkomstig artikelen 21 en 21bis van het decreet rechtspositie personeelsleden gemeenschapsonderwijs of artikelen 23 en 23bis van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs, naargelang van het geval;<br />3° de betrekking kan niet vacant worden verklaard. Het schoolbestuur of de inrichtende macht kan in geen geval een personeelslid vastbenoemen, affecteren of muteren in de betrekking.<br /><br />De Vlaamse Regering kan van de bepalingen onder 1° en 2° hierboven afwijken.<br /><br />§ 3. De bepalingen van dit artikel worden buiten werking gesteld vanaf het schooljaar 2010-2011, behoudens voor :<br />1° de tijdelijke projecten in het basis- en secundair onderwijs die zijn opgenomen in het decreet van 10 juli 2008 houdende verlenging van sommige van de tijdelijke projecten die zijn vermeld in het besluit van de Vlaamse Regering van 23 juni 2006 betreffende de organisatie van tijdelijke projecten in het basis- en secundair onderwijs;<br />2° de tijdelijke projecten in het deeltijds kunstonderwijs die al tijdens het schooljaar 2009-2010 lopende zijn.
 
 ### ART. 6.
 
