@@ -2,16 +2,16 @@
   "codex_id": 1015620,
   "title": "Besluit van de Vlaamse Regering van 2007-01-26 betreffende de modulaire structuur van het secundair onderwijs voor sociale promotie voor het studiegebied Lichaamsverzorging",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015620/VolledigDocument?datum=2007-02-01",
-  "source_sha256": "927236ff68f46271f6989784e700d49561cb06d70651969a8c108fbbc9a1e067",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015620/VolledigDocument?datum=2010-09-01",
+  "source_sha256": "cae20ebd7082e1065006ac87449cc0cc2d5bb9aca43663ae5d005660b87ae69e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015620&param=informatie",
-  "as_of": "2007-02-01",
+  "as_of": "2010-09-01",
   "made": "2007-01-26",
   "gazette": "2007-03-12",
   "numac": 2007035333,
   "document_start": "2007-02-01",
   "document_end": "2010-08-31",
-  "in_force": "2007-02-01",
+  "in_force": "2010-09-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2007-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-09-01; future article versions excluded; article text as the API gives it"
 }
