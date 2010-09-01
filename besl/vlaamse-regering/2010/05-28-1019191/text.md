@@ -127,6 +127,10 @@ In artikel 12, § 2, van hetzelfde besluit, vervangen bij het besluit van de Vla
 
 In artikel 12bis, § 5, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 31 augustus 1999 en gewijzigd bij de besluiten van de Vlaamse Regering van 23 september 2005, 5 december 2003 en 17 oktober 2008, worden de volgende wijzigingen aangebracht :<br />1° punt 5° wordt opgeheven;<br /><br />2° punt 7° wordt vervangen door wat volgt :<br />« 7° Personeelsleden die in toepassing van artikel 5, § 1bis van het decreet van 9 april 1992 betreffende het onderwijs - III ter beschikking worden gesteld wegens ontstentenis van betrekking, bij wijze van reaffectatie of wedertewerkstelling een andere functie toewijzen. Bij deze toewijzing houdt de reaffectatiecommissie rekening met de beslissing van Medex. De gegevens over deze personeelsleden en de uitvoering die de reaffectatiecommissie aan de desbetreffende dossiers heeft gegeven, worden doorgezonden naar de Vlaamse reaffectatiecommissie. »;<br /><br />3° er wordt een punt 8° toegevoegd, dat luidt als volgt :<br />« 8° Personeelsleden die met toepassing van artikel 5, § 1quater, van het decreet van 9 april 1992 betreffende het onderwijs - III ter beschikking worden gesteld wegens ontstentenis van betrekking, bij wijze van reaffectatie of wedertewerkstelling een andere functie toewijzen. Bij die toewijzing houdt de reaffectatiecommissie rekening met de beslissing van de preventieadviseur-arbeidsgeneesheer. De gegevens betreffende deze personeelsleden en de uitvoering die de reaffectatiecommissie aan de desbetreffende dossiers heeft gegeven, worden doorgezonden naar de Vlaamse reaffectatiecommissie. »<br /><br />
 
+### ART. 7.
+
+In artikel 12ter, § 2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 31 augustus 1999 en gewijzigd bij de besluiten van de Vlaamse Regering van 5 december 2003, 23 september 2005 en 17 oktober 2008, wordt punt 6° vervangen door wat volgt :<br />« 6° Nadat de bepalingen van 1° tot en met 5° zijn gerealiseerd, wijst de reaffectatiecommissie van de scholengroep personeelsleden die met toepassing van artikel 5, § 1bis of § 1quater, van het decreet van 9 april 1992 betreffende het onderwijs - III ter beschikking worden gesteld wegens ontstentenis van betrekking, een andere functie toe bij wijze van reaffectatie of wedertewerkstelling. Bij die toewijzing houdt de reaffectatiecommissie rekening met de beslissing van Medex, respectievelijk de beslissing van de preventieadviseur-arbeidsgeneesheer. De gegevens betreffende deze personeelsleden en de uitvoering die de reaffectatiecommissie aan de desbetreffende dossiers heeft gegeven, worden doorgezonden naar de Vlaamse reaffectatiecommissie. »<br /><br />
+
 ### ART. 8.
 
 In artikel 15, derde lid, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 31 augustus 1999, 5 december 2003 en 17 oktober 2008, wordt het woord « inspecteurs-generaal » vervangen door de woorden « inspecteur-generaal of zijn afgevaardigde ».<br /><br />
@@ -167,9 +171,17 @@ In titel IV van hetzelfde besluit wordt het opschrift « afdeling III. - Het dee
 
 In artikel 41, § 2, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 31 augustus 1999, 5 december 2003 en 17 oktober 2008, worden de volgende wijzigingen aangebracht :<br />1° in het zesde liggend streepje worden de woorden « de zonale, » geschrapt;<br /><br />2° in het laatste liggend streepje wordt het woord « ontslagen » vervangen door de woorden « ontslagen of afgezet ».<br /><br />
 
+### ART. 18.
+
+Aan artikel 45 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 7 december 1994, 22 september 1998, 31 augustus 1999, 5 december 2003, 23 september 2005 en 17 oktober 2008, worden een punt 12 en 13 toegevoegd, die luiden als volgt :<br />« 12. als aan een personeelslid dat ter beschikking is gesteld met toepassing van artikel 5, § 1bis, van het decreet van 9 april 1992 betreffende het onderwijs - III een betrekking wordt aangeboden die niet beantwoordt aan de beslissing van Medex;<br />13. als aan een personeelslid dat ter beschikking is gesteld in het kader van een procedure tot re-integratie volgens artikel 5, § 1quater, van het decreet van 9 april 1992 betreffende het onderwijs - III een betrekking wordt aangeboden die niet beantwoordt aan de beslissing van de preventieadviseur-arbeidsgeneesheer. »<br /><br />
+
 ### ART. 19.
 
 In artikel 46 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 31 augustus 1999, wordt de datum « 28 juli 1995 » vervangen door de datum « 11 mei 1999 ».<br /><br />
+
+### ART. 20.
+
+Aan artikel 47bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 december 2003 en vervangen bij het besluit van de Vlaamse Regering van 17 oktober 2008, wordt een paragraaf 7 toegevoegd, die luidt als volgt :<br />« § 7. De bepalingen van dit artikel gelden ook voor een personeelslid dat volgens artikel 5, § 1quater, van het decreet van 9 april 1992 betreffende het onderwijs - III ter beschikking wordt gesteld in het kader van een procedure tot re-integratie en door de preventieadviseur-arbeidsgeneesheer geschikt geacht is om een andere functie uit te oefenen, voor zover het dan gaat om een administratieve functie. »<br /><br />
 
 ### ART. 21.
 
