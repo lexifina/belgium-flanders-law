@@ -1,0 +1,21 @@
+# Besluit van de Vlaamse Regering van 2010-11-26 tot wijziging van artikel 4ter , 1 van het besluit van de Vlaamse Regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs en van artikel 7 van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de personeelsformatie in het gewoon basisonderwijs
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op het decreet basisonderwijs van 25 februari 1997, artikel 125duodecies 1, ingevoegd bij het decreet van 22 juni 2007, vervangen bij het decreet van 4 juli 2008 en gewijzigd bij het decreet van 8 mei 2009, artikel 136 en artikel 141, § 2, gewijzigd bij het decreet van 14 juli 1998;<br /><br />Gelet op het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de personeelsformatie in het gewoon basisonderwijs;<br /><br />Gelet op het besluit van de Vlaamse Regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 29 september 2010;<br /><br />Gelet op protocol nr. 736 van 16 juli 2010 houdende de conclusies van de onderhandelingen die gevoerd werden in de gemeenschappelijke vergadering van het sectorcomité X en van onderafdeling "Vlaamse Gemeenschap" van afdeling 2 van het comité voor de provinciale en plaatselijke overheidsdiensten;<br /><br />Gelet op protocol nr. 503 van 16 juli 2010 houdende de conclusies van de onderhandelingen die gevoerd werden in het overkoepelend onderhandelingscomité vrij gesubsidieerd onderwijs;<br /><br />Gelet op advies 48.832/1 van de Raad van State, gegeven op 4 november 2010, met toepassing van artikel 84, § 1, eerste lid, 1° van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;<br /><br />Op voorstel van de Vlaamse minister van Onderwijs, Jeugd, Gelijke Kansen en Brussel;<br /><br />Na beraadslaging, <br /><br />Besluit : <br /><br />
+
+### ART. 1.
+
+In artikel 4ter, 1 van het besluit van de Vlaamse Regering van 5 maart 2004 betreffende de puntenenveloppen voor de scholengemeenschappen basisonderwijs, ingevoegd bij het besluit van de Vlaamse Regering van 7 september 2007, vervangen bij het besluit van de Vlaamse Regering van 5 september 2008 en gewijzigd bij het besluit van de Vlaamse Regering van 4 september 2009, worden de volgende wijzigingen aangebracht : <br />1° in de inleidende zin worden de woorden "voor het schooljaar 2009-2010," opgeheven;<br /><br />2° in punt 2° wordt het getal "0,17210" vervangen door het getal "0,18128" en wordt het getal "0,13204" vervangen door het getal "0,14122";<br /><br />3° er wordt een punt 2°bis ingevoegd dat luidt als volgt : <br />"2°bis. In afwijking van punt 2° geldt, voor de periode van 1 september 2010 tot en met 30 november 2010, dat B = de som van de voor elke school voor gewoon basisonderwijs van de scholengemeenschap op schoolniveau afgeronde som van a en b.<br /><br />Deze afronding wordt als volgt uitgevoerd : indien het eerste cijfer na de komma van de som van a en b groter is dan vier wordt er afgerond naar het hoger gelegen geheel getal. Als het eerste cijfer na de komma van de som van a en b kleiner is dan of gelijk is aan vier wordt er afgerond naar het lager gelegen geheel getal.<br /><br />Waarbij a = het resultaat van de vermenigvuldiging van het aantal regelmatige kleuters dat de school telt op de teldag of tijdens de telperiode met de coëfficiënt 0,17281.<br /><br />Waarbij b = het resultaat van de vermenigvuldiging van het aantal regelmatige leerlingen lager onderwijs dat de school telt op de teldag of tijdens de telperiode met de coëfficiënt 0,13275;".<br /><br />
+
+### ART. 2.
+
+In artikel 7, § 3, 2°, van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de personeelsformatie in het gewoon basisonderwijs, vervangen bij het besluit van de Vlaamse Regering van 10 oktober 2008, worden de woorden "2008-2009 en 2009-2010" vervangen door de woorden "2010-2011 en 2011-2012".<br /><br />
+
+### ART. 3.
+
+Dit besluit heeft uitwerking met ingang van 1 september 2010. <br /><br />
+
+### ART. 4.
+
+De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.<br /><br /><br />
