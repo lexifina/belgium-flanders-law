@@ -8,21 +8,21 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 16 april 1996 betreffen
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° decreet : het decreet van 16 april 1996 betreffende het mentorschap;<br />2° leraarsuren : de som van de leraarsuren, berekend op basis van de lesurencursist gerealiseerd in de studiegebieden van het secundair volwassenenonderwijs, vermeld in artikel 7 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, waarbij onder lesurencursist het resultaat wordt verstaan van de vermenigvuldiging van het aantal lestijden van een module met het aantal financierbare of subsidieerbare cursisten;<br />3° lestijden : de som van de lestijden volgens de schalen, de aanvullende lestijden voor gelijke onderwijskansen, de lestijden voor het voeren van een gelijke kansenbeleid in het kader van kleuterparticipatie, de extra lestijden onderwijsvoorrang in het buitengewoon basisonderwijs en de lestijden godsdienst en niet-confessionele zedenleer;<br />4° lesuren : de som van de wekelijkse lesuren en de lesuren onderwijsvoorrangsbeleid;<br />5° brutoloonkost : de som van het geïndexeerde brutojaarsalaris, het vakantiegeld en de eindejaarstoelage van een personeelslid dat tijdelijk is aangesteld in een volledige betrekking, vier jaar geldelijke anciënniteit heeft. De loonkost omvat de werkgeversbijdrage van 16,68 % en een aandeelpercentage van 1,087 % kinderbijslag;<br />6° referteperiode : de periode van de eerste lesdag van september tot en met 31 mei van het voorgaande schooljaar;<br />7° stagiair : een student of cursist die in het voorgaande school- of academiejaar een lerarenopleiding heeft gevolgd en ten minstens één uur stage heeft gelopen in een school voor basisonderwijs, een instelling van het secundair onderwijs, een Centrum voor Volwassenenonderwijs of een instelling van het deeltijds kunstonderwijs<br />8° uren-leraar : de som van de wekelijkse uren-leraar met inbegrip van de uren-leraar godsdienst en niet-confessionele zedenleer en de eventuele uren-leraar ten gevolge van vrijwillige fusie, de uren-leraar voor gelijke onderwijskansen, de uren-leraar deeltijds beroepssecundair onderwijs en de uren leren en werken.<br /><br />
+...
 
 ## HOOFDSTUK II Verdeling en aanwending van de middelen voor het mentorschap
 
 ### ART. 2.
 
-De middelen voor het mentorschap worden toegekend aan scholen, centra of instellingen van :<br />1° het basisonderwijs;<br />2° het secundair onderwijs;<br />3° het secundair volwassenenonderwijs;<br />4° het deeltijds kunstonderwijs.<br /><br />
+...
 
 ### ART. 3.
 
-§ 1. De middelen voor het mentorschap moeten aangewend worden voor :<br />1° de ondersteuning van studenten en cursisten die vanuit hun lerarenopleiding stage lopen in het basisonderwijs, het gewoon secundair onderwijs, het buitengewoon secundair onderwijs, het secundair volwassenenonderwijs of het deeltijds kunstonderwijs;<br />2° de ondersteuning van de leraren-in-opleiding die aangesteld zijn in het basisonderwijs, het gewoon secundair onderwijs, het buitengewoon secundair onderwijs, het secundair volwassenenonderwijs of het deeltijds kunstonderwijs;<br />3° de aanvangsbegeleiding gedurende het eerste jaar van beroepsuitoefening als leraar in het basisonderwijs, het gewoon secundair onderwijs en het buitengewoon, het secundair volwassenenonderwijs of het deeltijds kunstonderwijs.<br /><br />§ 2. Het resultaat na samenlegging van de middelen, toegekend aan scholen, centra of instellingen die behoren tot een samenwerkingsverband, wordt, gezamenlijk voor de uren toegekend voor de ondersteuning van de studenten en of cursisten tijdens de stage, de ondersteuning van de leraren-in-opleiding, de aanvangsbegeleiding gedurende het eerste jaar van de beroepsuitoefening als leraar en de overgedragen uren van het schooljaar 2008-2009, afgerond naar de hogere eenheid als het eerste cijfer na de komma 5 of meer is, zoniet vervallen de cijfers na de komma.<br /><br />
+...
 
 ### ART. 4.
 
-De budgetten voorzien voor het mentorschap, vermeld in artikel 3 van het decreet, worden als volgt verdeeld over de vormen van onderwijs, vermeld in artikel 3.<br />1° Het budget, bestemd voor de ondersteuning van studenten of cursisten tijdens de stage, vermeld in artikel 3, § 1, 1°, b), van het decreet of het budget dat tot stand komt na toepassing van artikel 3, § 2, van het decreet, wordt verdeeld over de vormen van onderwijs, vermeld in artikel 3, pro rata van het totale aantal uren dat stage werd gelopen in de desbetreffende vorm van onderwijs in de referteperiode.<br />Voor de toepassing van deze bepaling wordt verstaan onder een uur stage elk uur dat een student of cursist, in functie van de lerarenopleiding die hij of zij volgt, aanwezig is in een school voor basisonderwijs, een instelling van het secundair onderwijs, een Centrum voor Volwassenenonderwijs (voor zover de stage in het secundair volwassenenonderwijs wordt gelopen) of een instelling van het deeltijds kunstonderwijs, met inbegrip van extra-muros activiteiten. Het aantal uren stage kan op weekbasis niet hoger zijn dan een voltijdse betrekking van leraar, meer bepaald gemiddeld 24 uur per week voor het basisonderwijs, gemiddeld 23 uur per week voor het secundair onderwijs en het volwassenenonderwijs en gemiddeld 21 uur per week voor het deeltijds kunstonderwijs.<br />Voor de registratie van het aantal uren dat stage werd gelopen in de referteperiode stelt de afdeling Hoger Onderwijs, Agentschap Hoger Onderwijs en Volwassenenonderwijs, een registratiesysteem ter beschikking van de aanbieders van de lerarenopleidingen.<br />2° Het budget, bestemd voor de ondersteuning van de leraren-in-opleiding, vermeld in artikel 3, § 1, 2°, van het decreet of het budget dat tot stand komt na toepassing van artikel 3, § 2, van het decreet, wordt verdeeld over de vormen van onderwijs, vermeld in artikel 3, pro rata van het totale aantal leraren-in-opleiding in de desbetreffende vorm van onderwijs in de referteperiode.<br />3° Het budget, bestemd voor de aanvangsbegeleiding gedurende het eerste jaar van de beroepsuitoefening als leraar, vermeld in artikel 3, § 1, 3°, b), van het decreet of het budget dat tot stand komt na toepassing van artikel 3, § 2, van het decreet, wordt verdeeld over de vormen van onderwijs, vermeld in artikel 3, pro rata van het totale aantal lestijden, uren-leraar, lesuren of leraarsuren in de desbetreffende vorm van onderwijs, toegekend in het voorgaande schooljaar.<br /><br />
+...
 
 ## HOOFDSTUK III Berekening van de middelen voor het mentorschap - schooljaar 2009-2010
 
@@ -30,84 +30,84 @@ De budgetten voorzien voor het mentorschap, vermeld in artikel 3 van het decreet
 
 ### ART. 5.
 
-Het aantal lestijden voor de ondersteuning van studenten of cursisten tijdens de stage in het basisonderwijs (D) wordt berekend op basis van de formule : D = (A / B) X C, waarbij :<br />1° A : het beschikbare begrotingskrediet, vermeld in artikel 4,1°;<br />2° B : de gemiddelde brutoloonkosten op jaarbasis volgens salarisschaal 148;<br />3° C : de gemiddelde weekopdracht = 24.<br />Het aantal lestijden voor de ondersteuning van studenten of cursisten tijdens de stage per school van het basisonderwijs wordt berekend op basis van de formule : (D / E) X F, waarbij :<br />1° D : het aantal lestijden voor de ondersteuning van studenten of cursisten tijdens de stage in het basisonderwijs;<br />2° E : het totale aantal uren stage dat in de scholen van het basisonderwijs werd gelopen door stagiairs in de referteperiode;<br />3° F : het totale aantal uren stage dat in de school van het basisonderwijs werd gelopen door stagiairs in de referteperiode.<br /><br />
+...
 
 ### ART. 6.
 
-Het aantal lestijden voor de ondersteuning van de leraren-in-opleiding in het basisonderwijs (G) wordt berekend op basis van de formule : G = (H / B) X C, waarbij :<br />1° H : het beschikbare begrotingskrediet, vermeld in artikel 4, 2°;<br />2° B : de gemiddelde brutoloonkosten op jaarbasis volgens salarisschaal 148;<br />3° C : de gemiddelde weekopdracht = 24.<br /><br />Het aantal lestijden voor de ondersteuning van de leraren-in-opleiding per school van het basisonderwijs wordt berekend op basis van de formule : (G / I) X J, waarbij :<br />1° G : het aantal lestijden voor de ondersteuning van de leraren-in-opleiding in het basisonderwijs;<br />2° I : het totale aantal leraren-in-opleiding in het basisonderwijs in de referteperiode;<br />3° J : het totale aantal leraren-in-opleiding in de school van het basisonderwijs in de referteperiode.<br /><br />
+...
 
 ### ART. 7.
 
-Het aantal lestijden voor de aanvangsbegeleiding gedurende het eerste jaar van de beroepsuitoefening als leraar (K) in het basisonderwijs wordt op basis van de formule : K = (L / B) X C, waarbij :<br />1° L : het beschikbare begrotingskrediet, vermeld in artikel 4, 3°;<br />2° B : de gemiddelde brutoloonkosten op jaarbasis volgens salarisschaal 148;<br />3° C : de gemiddelde weekopdracht = 24.<br /><br />Het aantal lestijden voor de aanvangsbegeleiding per school van het basisonderwijs wordt berekend op basis van de formule : (K / M) X N, waarbij :<br />1° K : het aantal lestijden voor de aanvangsbegeleiding in het basisonderwijs;<br />2° M : het totale aantal lestijden toegekend voor het basisonderwijs in het voorgaande schooljaar;<br />3° N : het totale aantal lestijden toegekend aan de school van het basisonderwijs in het voorgaande schooljaar.<br /><br />
+...
 
 ## Afdeling 2 Het gewoon secundair onderwijs
 
 ### ART. 8.
 
-Het aantal uren-leraar voor de ondersteuning van studenten of cursisten tijdens de stage in het gewoon secundair onderwijs (D) wordt berekend op basis van de formule : D = (A / B) X C, waarbij :<br />1° A : het beschikbare begrotingskrediet, vermeld in artikel 4,1°;<br />2° B : de gemiddelde brutoloonkosten op jaarbasis volgens gemengde salarisschaal (65 % salarisschaal 301 + 35 % salarisschaal 501);<br />3° C : de gemiddelde weekopdracht = 22,53.<br /><br />Het aantal uren-leraar voor de ondersteuning van studenten of cursisten tijdens de stage per instelling van het gewoon secundair onderwijs wordt berekend op basis van de formule : (D / E) X F, waarbij :<br />1° D : het aantal uren-leraar voor de ondersteuning van studenten of cursisten tijdens de stage in het gewoon secundair onderwijs;<br />2° E : het totale aantal uren stage dat in de instellingen van het gewoon secundair onderwijs werd gelopen door stagiairs in de referteperiode;<br />3° F : het totale aantal uren stage dat in de instelling van het gewoon onderwijs werd gelopen door stagiairs in de referteperiode.<br /><br />
+...
 
 ### ART. 9.
 
-Het aantal uren-leraar voor de ondersteuning van de leraren-in-opleiding in het gewoon secundair onderwijs (G) wordt berekend op basis van de formule : G = (H / B) X C, waarbij :<br />1° H : het beschikbare begrotingskrediet, vermeld in artikel 4, 2°;<br />2° B : de gemiddelde brutoloonkosten op jaarbasis volgens gemengde salarisschaal (65 % salarisschaal 301 + 35 % salarisschaal 501);<br />3° C : de gemiddelde weekopdracht = 22,53.<br /><br />Het aantal uren-leraar voor de ondersteuning van de leraren-in-opleiding per instelling van het gewoon secundair onderwijs wordt berekend volgens de formule : (G / I) X J, waarbij :<br />1° G : het totale aantal uren-leraar of lesuren voor de ondersteuning van de leraren-in-opleiding in het gewoon secundair onderwijs;<br />2° I : het totale aantal leraren-in-opleiding in het gewoon secundair onderwijs in de referteperiode;<br />3° J : het totale aantal leraren-in-opleiding in de instelling van het gewoon secundair onderwijs in de referteperiode.<br /><br />
+...
 
 ### ART. 10.
 
-Het aantal uren-leraar voor de aanvangsbegeleiding gedurende het eerste jaar van de beroepsuitoefening als leraar (K) in het gewoon secundair onderwijs wordt op basis van de formule :<br />K = (L / B) X C, waarbij :<br />1° L : het beschikbare begrotingskrediet, vermeld in artikel 4, 3°;<br />2° B : de gemiddelde brutoloonkosten op jaarbasis volgens gemengde salarisschaal (65 % salarisschaal 301 + 35 % salarisschaal 501);<br />3° C : de gemiddelde weekopdracht = 22,53.<br /><br />Het aantal uren-leraar voor de aanvangsbegeleiding per instelling van het gewoon secundair onderwijs wordt berekend op basis van de formule : (K / M) X N, waarbij :<br />1° K : het totale aantal uren-leraar voor de aanvangsbegeleiding in het gewoon secundair onderwijs;<br />2° M : het totale aantal uren-leraar toegekend voor het gewoon secundair onderwijs in het voorgaande schooljaar;<br />3° N : het totale aantal uren-leraar toegekend aan de instelling van het gewoon secundair onderwijs in het voorgaande schooljaar.<br /><br />
+...
 
 ## Afdeling 3 Het buitengewoon secundair onderwijs
 
 ### ART. 11.
 
-Het aantal lesuren voor de ondersteuning van studenten of cursisten tijdens de stage in het buitengewoon secundair onderwijs (D) wordt berekend op basis van de formule : D = (A / B) X C, waarbij :<br />1° A : het beschikbare begrotingskrediet, vermeld in artikel 4,1°;<br />2° B : de gemiddelde brutoloonkosten op jaarbasis volgens salarisschaal 301;<br />3° C : de gemiddelde weekopdracht = 22,83.<br /><br />Het aantal lesuren voor de ondersteuning van studenten of cursisten tijdens de stage per instelling van het buitengewoon secundair onderwijs wordt berekend op basis van de formule : (D / E) X F, waarbij :<br />1° D : het aantal lesuren voor de ondersteuning van studenten of cursisten tijdens de stage in het buitengewoon secundair onderwijs;<br />2° E : het totale aantal uren stage dat in de instellingen van het buitengewoon secundair onderwijs werd gelopen door stagiairs in de referteperiode;<br />3° F : het totale aantal uren stage dat in de instelling van het buitengewoon secundair onderwijs werd gelopen door stagiairs in de referteperiode.<br /><br />
+...
 
 ### ART. 12.
 
-Het aantal lesuren voor de ondersteuning van de leraren-in-opleiding in het buitengewoon secundair onderwijs (G) wordt berekend op basis van de formule : G = (H / B) X C, waarbij :<br />1° H : het beschikbare begrotingskrediet, vermeld in artikel 4, 2°;<br />2° B : de gemiddelde brutoloonkosten op jaarbasis volgens salarisschaal 301;<br />3° C : de gemiddelde weekopdracht = 22,83.<br /><br />Het aantal lesuren voor de ondersteuning van de leraren-in-opleiding per instelling van het buitengewoon secundair onderwijs wordt berekend volgens de formule : (G / I) X J, waarbij :<br />1° G : het aantal lesuren voor de ondersteuning van de leraren-in-opleiding in het buitengewoon secundair onderwijs;<br />2° I : het totale aantal leraren-in-opleiding in het buitengewoon secundair onderwijs in de referteperiode;<br />3° J : het totale aantal leraren-in-opleiding in de instelling van het gewoon secundair onderwijs in de referteperiode.<br /><br />
+...
 
 ### ART. 13.
 
-Het aantal lesuren voor de aanvangsbegeleiding gedurende het eerste jaar van de beroepsuitoefening als leraar (K) in het buitengewoon secundair onderwijs wordt op basis van de formule :<br />K = (L / B) X C, waarbij :<br />1° L : het beschikbare begrotingskrediet, vermeld in artikel 4, 3°;<br />2° B : de gemiddelde brutoloonkosten op jaarbasis volgens salarisschaal 301;<br />3° C : de gemiddelde weekopdracht = 22,83.<br /><br />Het aantal lesuren voor de aanvangsbegeleiding per instelling van het buitengewoon secundair onderwijs wordt berekend op basis van de formule :<br />(K / M) X N, waarbij :<br />1° K : het aantal lesuren voor de aanvangsbegeleiding in het buitengewoon secundair onderwijs;<br />2° M : het totale aantal lesuren toegekend voor het buitengewoon secundair onderwijs in het voorgaande schooljaar;<br />3° N : het totale aantal lesuren toegekend aan de instelling van het buitengewoon secundair onderwijs in het voorgaande schooljaar.<br /><br />
+...
 
 ## Afdeling 4 Centra voor Volwassenenonderwijs
 
 ### ART. 14.
 
-Het aantal leraarsuren voor de ondersteuning van studenten of cursisten tijdens de stage in het secundair volwassenenonderwijs (D) wordt berekend op basis van de formule : D = (A / B) X C, waarbij :<br />1° A : het beschikbare begrotingskrediet, vermeld in artikel 4,1°;<br />2° B : de gemiddelde brutoloonkosten op jaarbasis volgens gemengde salarisschaal (38 % salarisschaal 301 + 62 % salarisschaal 501);<br />3° C : de gemiddelde weekopdracht = 22,50.<br /><br />Het aantal leraarsuren voor de ondersteuning van studenten of cursisten tijdens de stage per Centrum voor Volwassenenonderwijs wat betreft het secundair volwassenenonderwijs wordt berekend op basis van de formule : (D / E) X F, waarbij :<br />1° D : het aantal leraarsuren voor de ondersteuning van studenten of cursisten tijdens de stage in het secundair volwassenenonderwijs;<br />2° E : het totale aantal uren stage dat in het secundair volwassenenonderwijs van de Centra voor Volwassenenonderwijs werd gelopen door stagiairs in de referteperiode;<br />3° F : het totale aantal uren stage dat in het secundair volwassenenonderwijs van het Centrum voor Volwassenenonderwijs werd gelopen door stagiairs in de referteperiode.<br /><br />
+...
 
 ### ART. 15.
 
-Het aantal leraarsuren voor de ondersteuning van de leraren-in-opleiding in het secundair volwassenenonderwijs (G) wordt berekend op basis van de formule : G = (H / B) X C, waarbij :<br />1° H : het beschikbare begrotingskrediet, vermeld in artikel 4, 2°;<br />2° B : de gemiddelde brutoloonkosten op jaarbasis volgens gemengde salarisschaal (38 % salarisschaal 301 + 62 % salarisschaal 501);<br />3° C : de gemiddelde weekopdracht = 22,50.<br /><br />Het aantal leraarsuren voor de ondersteuning van de leraren-in-opleiding per Centrum voor Volwassenenonderwijs wat betreft het secundair volwassenenonderwijs wordt berekend op basis van de formule : (G / I) X J, waarbij :<br />1° G : het totale aantal leraarsuren voor de ondersteuning van de leraren-in-opleiding in het secundair volwassenenonderwijs;<br />2° I : het totale aantal leraren-in-opleiding in het secundair volwassenenonderwijs van de Centra voor Volwassenenonderwijs in de referteperiode;<br />3° J : het totale aantal leraren-in-opleiding in het secundair volwasseneonderwijs van het Centrum voor Volwassenenonderwijs in de referteperiode.<br /><br />
+...
 
 ### ART. 16.
 
-Het aantal leraarsuren voor de aanvangsbegeleiding gedurende het eerste jaar van de beroepsuitoefening als leraar (K) in het secundair volwassenenonderwijs wordt op basis van de formule : K = (L / B) X C, waarbij :<br />1° L : het beschikbare begrotingskrediet, vermeld in artikel 4, 3°;<br />2° B : de gemiddelde brutoloonkosten op jaarbasis volgens gemengde salarisschaal (38 % salarisschaal 301 + 62 % salarisschaal 501);<br />3° C : de gemiddelde weekopdracht = 22,50.<br /><br />Het aantal leraarsuren voor de aanvangsbegeleiding per Centrum voor Volwassenenonderwijs wat betreft het secundair volwassenenonderwijs wordt berekend op basis van de formule : (K / M) X N, waarbij :<br />1° K : het aantal leraarsuren voor de aanvangsbegeleiding in het secundair volwassenenonderwijs;<br />2° M : het totale aantal leraarsuren secundair volwassenenonderwijs toegekend aan de Centra voor Volwassenenonderwijs in het voorgaande schooljaar;<br />3° N : het totale aantal leraarsuren secundair volwassenenonderwijs toegekend aan het Centrum voor Volwassenenonderwijs in het voorgaande schooljaar.<br /><br />
+...
 
 ## Afdeling 5 Het deeltijds kunstonderwijs
 
 ### ART. 17.
 
-Het aantal uren-leraar voor de ondersteuning van studenten of cursisten tijdens de stage in het deeltijds kunstonderwijs (D) wordt berekend op basis van de formule : D = (A / B) X C, waarbij :<br />1° A : het beschikbare begrotingskrediet, vermeld in artikel 4,1°;<br />2° B : de gemiddelde brutoloonkosten op jaarbasis volgens gemengde salarisschaal (77 % salarisschaal 301 en 23 % salarisschaal 501);<br />3° C : de gemiddelde weekopdracht = 21,16.<br /><br />Het aantal uren-leraar voor de ondersteuning van studenten of cursisten tijdens de stage per instelling van het deeltijds kunstonderwijs wordt berekend op basis van de formule : (D / E) X F, waarbij :<br />1° D : het aantal uren-leraar voor de ondersteuning van studenten of cursisten tijdens de stage in het deeltijds kunstonderwijs;<br />2° E : het totale aantal uren stage dat in de instellingen van het deeltijds kunstonderwijs werd gelopen in de referteperiode;<br />3° F : het totale aantal uren stage dat in de instelling van het deeltijds kunstonderwijs werd gelopen door stagiairs in de referteperiode.<br /><br />
+...
 
 ### ART. 18.
 
-Het aantal uren-leraar voor de ondersteuning van de leraren-in-opleiding in het deeltijds kunstonderwijs (G) wordt berekend op basis van de formule : G = (H / B) X C, waarbij :<br />1° H : het beschikbare begrotingskrediet, vermeld in artikel 4, 2°;<br />2° B : de gemiddelde brutoloonkosten op jaarbasis volgens gemengde salarisschaal (77 % salarisschaal 301 en 23 % salarisschaal 501);<br />3° C : de gemiddelde weekopdracht = 21,16.<br /><br />Het aantal uren-leraar voor de ondersteuning van de leraren-in-opleiding per instelling van het deeltijds kunstonderwijs wordt berekend op basis van de formule :<br />(G / I) X J, waarbij :<br />1° G : het totale aantal uren-leraar voor de ondersteuning van de leraren-in-opleiding in het deeltijds kunstonderwijs;<br />2° I : het totale aantal leraren-in-opleiding in het deeltijds kunstonderwijs in de referteperiode;<br />3° J : het totale aantal leraren-in-opleiding in de instelling van het deeltijds kunstonderwijs in de referteperiode.<br /><br />
+...
 
 ### ART. 19.
 
-Het aantal uren-leraar voor de aanvangsbegeleiding gedurende het eerste jaar van de beroepsuitoefening als leraar (K) in het deeltijds kunstonderwijs wordt op basis van de formule : K = (L / B) X C, waarbij :<br />1° L : het beschikbare begrotingskrediet, vermeld in artikel 4, 3°;<br />2° B : de gemiddelde brutoloonkosten op jaarbasis volgens gemengde salarisschaal (77 % salarisschaal 301 en 23 % salarisschaal 501);<br />3° C : de gemiddelde weekopdracht = 21,16.<br /><br />Het aantal uren-leraar voor de aanvangsbegeleiding per instelling van het deeltijds kunstsonderwijs wordt berekend op basis van de formule : (K / M) X N, waarbij :<br />1° K : het aantal uren-leraar voor de aanvangsbegeleiding in het deeltijds kunstonderwijs;<br />2° M : het totale aantal uren-leraar toegekend voor het deeltijds kunstonderwijs in het voorgaande schooljaar;<br />3° N : het totale aantal uren-leraar toegekend aan de instelling van kunstonderwijs in het voorgaande schooljaar.<br /><br />
+...
 
 ## HOOFDSTUK IV Berekening van de middelen voor het mentorschap - schooljaar 2008-2009
 
 ### ART. 20.
 
-§ 1. In afwijking van de artikelen 5 tot en met 19, ontvangen de scholen, centra en instellingen, vermeld in artikel 2, voor het schooljaar 2008-2009 minstens evenveel middelen voor het mentorschap als toegekend voor het schooljaar 2007-2008.<br /><br />§ 2. Vanaf 1 januari 2009 tot en met 31 augustus 2009 worden de middelen voor mentorschap voor bepaalde scholen, centra en instellingen, vermeld in artikel 2, evenwel verhoogd overeenkomstig de volgende principes :<br />1° op basis van de beschikbare budgetten voor het schooljaar 2008-2009 worden voor de scholen, centra en instellingen middelen voor het mentorschap berekend met toepassing van de artikelen 5 tot en met 19; het resultaat van deze berekening levert voor een school, centrum of instelling meer, dezelfde of minder middelen op dan de middelen vermeld in § 1;<br />2° uitsluitend de scholen, centra en instellingen waarvoor het resultaat van de berekening vermeld in 1° meer of dezelfde middelen oplevert, worden in beschouwing genomen;<br />3° het verschil tussen de beschikbare budgetten voor het schooljaar 2008-2009 en de budgettaire kost van het handhaven gedurende het schooljaar 2008-2009 van de middelen toegekend voor het schooljaar 2007-2008, wordt verdeeld over de in 2° vermelde scholen, centra en instellingen volgens het aandeel van de middelen voor mentorschap van elke desbetreffende school, centrum of instelling in de totaliteit van de middelen die op basis van het in 1° gestelde naar desbetreffende scholen, centra en instellingen gaan.<br /><br />§ 3. De samenlegging en afronding van de middelen voor mentorschap, toegekend voor het schooljaar 208-2009, gebeuren als volgt :<br />1° De middelen voor mentorschap, zoals bepaald in § 1, behouden de afronding na samenlegging op het niveau van het samenwerkingsverband zoals berekend voor het schooljaar 2007-2008.<br />2° De middelen voor mentorschap, zoals bepaald in § 2, worden samengelegd op het niveau van het samenwerkingsverband. Het resultaat na samenlegging wordt afgerond naar de hogere eenheid als het eerste cijfer na de komma 5 of meer is, zoniet vervallen de cijfers na de komma.<br />3° De som van 1° en 2° levert het totaal aantal beschikbare middelen voor mentorschap voor het schooljaar 2008-2009 op.<br /><br />
+...
 
 ## HOOFDSTUK V Slotbepalingen
 
 ### ART. 21.
 
-Dit besluit heeft uitwerking met ingang van 1 september 2008 en houdt op uitwerking te hebben op 1 september 2010.<br /><br />
+...
 
 ### ART. 22.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.<br /><br />
+...
