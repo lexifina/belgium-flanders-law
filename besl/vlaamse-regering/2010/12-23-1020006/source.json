@@ -2,16 +2,16 @@
   "codex_id": 1020006,
   "title": "Besluit van de Vlaamse Regering van 2010-12-23 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 24 november 2000 betreffende steun aan de investeringen en aan de installatie in de landbouw",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020006/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "c15b4f1fb9323aa6d90ba9cf7827ba053eab9b161ff8112bbdf0e70ce082261f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020006/VolledigDocument?datum=2010-09-06",
+  "source_sha256": "0548fe1278aead4a2e0bab3d12be92ee00e94b027094dea2f91d4cbca2c054db",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020006&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2010-09-06",
   "made": "2010-12-23",
   "gazette": "2011-02-08",
   "numac": 2011035097,
   "document_start": "2010-09-06",
   "document_end": null,
-  "in_force": "2010-01-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-09-06",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2010-09-06; future article versions excluded; article text as the API gives it"
 }
