@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019347,
+  "title": "Besluit van de Vlaamse Regering van 2010-07-23 tot verdeling van het provisionele krediet ingeschreven onder basisallocatie HB0 HB002 0100 van het programma HB van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2010",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019347/VolledigDocument?datum=2010-09-09",
+  "source_sha256": "796ae923673d94860115e457b780fe86ad850f56068a48895dd44b574fd8deee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019347&param=informatie",
+  "as_of": "2010-09-09",
+  "made": "2010-07-23",
+  "gazette": "2010-08-30",
+  "numac": 2010204473,
+  "document_start": "2010-09-09",
+  "document_end": null,
+  "in_force": "2010-09-09",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-09-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
