@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019349,
+  "title": "Ministerieel besluit van 2010-06-30 tot vaststelling van de subsidiabele urencontingenten gezinszorg 2010 van de openbare diensten voor gezinszorg en aanvullende thuiszorg",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019349/VolledigDocument?datum=2010-09-09",
+  "source_sha256": "cfc90de53c94c4b6e1b3dd629f833809eb51d8986f83b07844af1f0cdf52e943",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019349&param=informatie",
+  "as_of": "2010-09-09",
+  "made": "2010-06-30",
+  "gazette": "2010-08-30",
+  "numac": 2010035625,
+  "document_start": "2010-09-09",
+  "document_end": null,
+  "in_force": "2010-09-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-09-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
