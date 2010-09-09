@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019343,
+  "title": "Besluit van de Vlaamse Regering van 2010-07-16 houdende de gedeeltelijke herverdeling van het krediet ingeschreven onder basisallocatie CB0 CD003 8140",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019343/VolledigDocument?datum=2010-09-09",
+  "source_sha256": "6782cbbd74ea118e741163aa3c680179b508434393fea29a5aa2d2aea3b44cc3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019343&param=informatie",
+  "as_of": "2010-09-09",
+  "made": "2010-07-16",
+  "gazette": "2010-08-30",
+  "numac": 2010204412,
+  "document_start": "2010-09-09",
+  "document_end": null,
+  "in_force": "2010-09-09",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-09-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
