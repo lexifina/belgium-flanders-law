@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019356,
+  "title": "Ministerieel besluit van 2010-07-14 betreffende de onteigening ten algemenen nutte van een onroerend goed, gelegen te Sint-Pietersveldstraat 9, te Wingene",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019356/VolledigDocument?datum=2010-09-11",
+  "source_sha256": "fa64880ac82ddfc775fcc14dafb220e48ed2f6d82d19c9e425f7f0c0bf2fec16",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019356&param=informatie",
+  "as_of": "2010-09-11",
+  "made": "2010-07-14",
+  "gazette": "2010-09-01",
+  "numac": 2010035637,
+  "document_start": "2010-09-11",
+  "document_end": null,
+  "in_force": "2010-09-11",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2010-09-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
