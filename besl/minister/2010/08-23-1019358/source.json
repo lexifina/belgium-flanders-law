@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019358,
+  "title": "Ministerieel besluit van 2010-08-23 tot bekrachtiging van het huishoudelijk reglement, opgemaakt door de beheerscommissie van het Eigen Vermogen van het Instituut voor Landbouw- en Visserijonderzoek (ILVO)",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019358/VolledigDocument?datum=2010-09-12",
+  "source_sha256": "0730ea6004dc4f02837923c18cf8a5f163594276f44f163f660f0c4a9795330d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019358&param=informatie",
+  "as_of": "2010-09-12",
+  "made": "2010-08-23",
+  "gazette": "2010-09-02",
+  "numac": 2010204536,
+  "document_start": "2010-09-12",
+  "document_end": null,
+  "in_force": "2010-09-12",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2010-09-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
