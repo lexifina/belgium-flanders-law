@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019361,
+  "title": "Ministerieel besluit van 2010-07-15 houdende de wijziging van het ministerieel besluit van 16 maart 2005 tot erkenning van verenigingen voor de paardenfokkerij en het ministerieel besluit van 25 oktober 2005 houdende de organisatie van de uitbouw van fokkerijstructuren in Vlaanderen, wat betreft de wijziging van benamingen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019361/VolledigDocument?datum=2010-09-16",
+  "source_sha256": "b035321a1df2cfcea0d69074d4772c5bb9e7bd2dfbcb0cd8dad0ccf6a3d9eebd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019361&param=informatie",
+  "as_of": "2010-09-16",
+  "made": "2010-07-15",
+  "gazette": "2010-09-06",
+  "numac": 2010204573,
+  "document_start": "2010-09-16",
+  "document_end": null,
+  "in_force": "2010-09-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-09-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
