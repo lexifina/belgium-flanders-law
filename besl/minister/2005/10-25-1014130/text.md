@@ -18,11 +18,11 @@ Het VVS wordt aangewezen als de leidende vereniging voor de fokkerijsector varke
 1° de v.z.w. Vlaamse Confederatie van het Paard, hierna de VCP te noemen;<br>
 2° de v.z.w. Belgisch Warmbloedpaard;<br>
 3° de v.z.w. Belgisch Arabisch Paardenstamboek;<br>
-4° de v.z.w. Belgisch Haflinger Stamboek;<br>
+4° de VZW De Belgische Haflingervereniging met ondernemingsnummer 407.971.508;<br>
 5° de v.z.w. Belgisch Welsh Pony Stamboek;<br>
 6° de v.z.w. Belgian New Forest pony studbook;<br>
 7° de v.z.w. Belgisch Studbook van de Shetland pony;<br>
-8° de v.z.w. Belgisch Stamboek voor IJslandse pony's;<br>
+8° de VZW Belgisch Stamboek voor IJslandse Paarden, vereniging voor de bevordering van het IJslands paardenras met ondernemingsnummer 418.197.286;<br>
 9° de v.z.w. Belgisch Stamboek van de Lipizzaner;<br>
 10° de v.z.w. Belgian Highland Pony Society;<br>
 11° de v.z.w. Studbook Zangersheide;<br>
@@ -31,13 +31,13 @@ Het VVS wordt aangewezen als de leidende vereniging voor de fokkerijsector varke
 14° de v.z.w. Vlaams Paard;<br>
 15° de v.z.w. Belgische Ezel Vrienden;<br>
 16° Het Belgisch Mérens Stamboek VZW - Le Studbook belge du Mérens ASBL;<br>
-17° de vzw Europese Arabo-Friezen Vereniging;<br>
+17° de VZW Europese Arabo-Friezen Stamboek met ondernemingsnummer 870.957.951;<br>
 18° de VZW Belgisch Stamboek van het Friese Paard;<br>
 19° de VZW Belgian Quarter Horse Association.<br>
 20° de VZW Irish Cob Society Belgium;<br>
 21° de VZW Belgisch Tinker Stamboek;<br>
 22° de VZW Vlaamse Federatie voor Paardenwedrennen;<br>
-23° de VZW Studbook belge du Fjording.<br>
+23° de VZW Belgisch Stamboek voor Fjordenpaarden - Studbook belge du Fjording met ondernemingsnummer 415.580.662.<br>
 <br>
 De erkenning van de organisatie, vermeld in het eerste lid, 1°, is vermeld in artikel 2 van het ministerieel besluit van 16 maart 2005 tot erkenning van verenigingen voor de paardenfokkerij.<br>
 <br>
