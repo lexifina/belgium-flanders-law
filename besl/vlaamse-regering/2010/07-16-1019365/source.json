@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019365,
+  "title": "Besluit van de Vlaamse Regering van 2010-07-16 tot wijziging van het besluit van de Vlaamse Regering van 30 maart 2007 betreffende de procedure en de aanvullende kwalificatiecriteria en voorwaarden voor de erkenning van particuliere landelijke, regionale en lokale radio-omroepen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019365/VolledigDocument?datum=2010-09-19",
+  "source_sha256": "fe51b7c320687dc8d96129d66d19c150178c1dc08a0dea5de57ff0f67db43e8b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019365&param=informatie",
+  "as_of": "2010-09-19",
+  "made": "2010-07-16",
+  "gazette": "2010-09-09",
+  "numac": 2010204635,
+  "document_start": "2010-09-19",
+  "document_end": null,
+  "in_force": "2010-09-19",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2010-09-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
