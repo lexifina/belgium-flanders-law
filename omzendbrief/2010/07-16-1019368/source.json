@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019368,
+  "title": "Omzendbrief van 2010-07-16 Instructies voor het opstellen van de budgetten voor 2011 en de bijbehorende meerjarenplannen van de gemeenten en de openbare centra voor maatschappelijk welzijn van het Vlaamse Gewest",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019368/VolledigDocument?datum=2010-09-19",
+  "source_sha256": "bd8aeadb1f8708b3f20f39fb19c6552a9a6231780814b8688ef72b1504665f1b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019368&param=informatie",
+  "as_of": "2010-09-19",
+  "made": "2010-07-16",
+  "gazette": "2010-09-09",
+  "numac": 2010035641,
+  "document_start": "2010-09-19",
+  "document_end": null,
+  "in_force": "2010-09-19",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2010-09-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
