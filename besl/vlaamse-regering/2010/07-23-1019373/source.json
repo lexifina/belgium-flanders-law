@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019373,
+  "title": "Besluit van de Vlaamse Regering van 2010-07-23 tot wijziging van het besluit van de Vlaamse Regering van 3 oktober 2003 houdende vaststelling en organisatie van de indeling van geslachte volwassen runderen en het besluit van de Vlaamse Regering van 23 januari 2004 houdende vaststelling en organisatie van de indeling van geslachte varkens",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019373/VolledigDocument?datum=2010-09-20",
+  "source_sha256": "ca4b74a8844a4302a0031dee6057f1171ec13fe0d9c865ad6bb3efab6db7d85f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019373&param=informatie",
+  "as_of": "2010-09-20",
+  "made": "2010-07-23",
+  "gazette": "2010-09-10",
+  "numac": 2010204633,
+  "document_start": "2010-09-20",
+  "document_end": null,
+  "in_force": "2010-09-20",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2010-09-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
