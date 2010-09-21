@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° Kind en Gezin : het intern verzelfstandigd agentschap, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br />2° opvang op bestendige wijze : de gewone, geregeld georganiseerde opvang van kinderen;<br />3° inspectie : een personeelslid van het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin.
+In dit besluit wordt verstaan onder : <br />1° Kind en Gezin : het intern verzelfstandigd agentschap, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br />2° opvang op bestendige wijze : de gewone, geregeld georganiseerde opvang van kinderen;<br />3° inspectie : een personeelslid van het intern verzelfstandigd agentschap Zorginspectie, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd agentschap Zorginspectie.
 
 ## HOOFDSTUK II. Toepassingsgebied van melding
 
