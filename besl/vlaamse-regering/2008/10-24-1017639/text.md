@@ -52,7 +52,7 @@ Het agentschap werkt voor de realisatie van zijn missie en taken samen en sluit 
 
 ### ART. 11.
 
-Het agentschap is verplicht alle noodzakelijke gegevens ter beschikking te stellen van het Intern Verzelfstandigd Agentschap Inspectie Welzijn, Volksgezondheid en Gezin. Tussen beide agentschappen wordt een samenwerkingsovereenkomst gesloten. De minister bepaalt de nadere regels met betrekking tot die samenwerkingsovereenkomst.<br /><br />
+Het agentschap is verplicht alle noodzakelijke gegevens ter beschikking te stellen van het Intern Verzelfstandigd Agentschap Zorginspectie. Tussen beide agentschappen wordt een samenwerkingsovereenkomst gesloten. De minister bepaalt de nadere regels met betrekking tot die samenwerkingsovereenkomst.<br /><br />
 
 ## TITEL II Aansturing en leiding van het agentschap
 
@@ -72,7 +72,7 @@ Het hoofd van het agentschap is belast met de algemene leiding, de werking en de
 
 ### ART. 15.
 
-Het hoofd van het agentschap heeft delegatie van beslissingsbevoegdheid voor de aangelegenheden die zijn vastgesteld het Besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid.<br /><br />Met betrekking tot de aangelegenheden, vermeld in het eerste lid, wordt aan het hoofd van het agentschap een aanvullende delegatie verleend voor het toekennen van gereglementeerde subsidies waarvoor de reglementering geen vast recht instelt voor de mogelijke begunstigden.<br /><br />De algemene delegatie aan het hoofd van het agentschap betreffende de toezichts-, controle- en inspectietaken, vermeld in artikel 16, 6°, van het besluit, vermeld in het eerste lid, wordt, ter uitvoering van artikel 17 van voormelde besluit, beperkt tot de taken die niet uitgeoefend worden door het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin.<br /><br />
+Het hoofd van het agentschap heeft delegatie van beslissingsbevoegdheid voor de aangelegenheden die zijn vastgesteld het Besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid.<br /><br />Met betrekking tot de aangelegenheden, vermeld in het eerste lid, wordt aan het hoofd van het agentschap een aanvullende delegatie verleend voor het toekennen van gereglementeerde subsidies waarvoor de reglementering geen vast recht instelt voor de mogelijke begunstigden.<br /><br />De algemene delegatie aan het hoofd van het agentschap betreffende de toezichts-, controle- en inspectietaken, vermeld in artikel 16, 6°, van het besluit, vermeld in het eerste lid, wordt, ter uitvoering van artikel 17 van voormelde besluit, beperkt tot de taken die niet uitgeoefend worden door het intern verzelfstandigd agentschap Zorginspectie.<br /><br />
 
 ### ART. 16.
 
