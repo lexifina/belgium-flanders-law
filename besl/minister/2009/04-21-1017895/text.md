@@ -56,11 +56,11 @@ Het organiserend bestuur doet een aanvraag voor een aantal plaatsen op basis van
 
 ### ART. 11.
 
-Als er voor de toekenning van structurele plaatsen keuzes moeten worden gemaakt tussen verschillende aanvraagdossiers, houdt Kind en Gezin bij zijn keuze onder meer rekening met de volgende factoren : <br />1° kan het organiserend bestuur het onmiddellijke en effectieve gebruik van de toegekende structurele plaatsen garanderen;<br />2° heeft het organiserend bestuur al een inclusief opvangaanbod waarvoor Kind en Gezin plaatsen heeft toegekend, en dat kwalitatief gunstig beoordeeld werd door het agentschap Inspectie Welzijn, Volksgezondheid en Gezin;<br />3° toont het organiserend bestuur lokale behoeften aan, zoals blijkt uit het lokaal beleidsplan kinderopvang, vermeld in artikel 2, tweede lid, van het besluit van de Vlaamse Regering van 4 mei 2007 houdende het lokaal beleid kinderopvang;<br />4° resulteert de aanvraag in een spreiding van de structurele plaatsen over de vijf provincies en het tweetalige gebied Brussel-Hoofdstad;<br />5° resulteert de aanvraag in een spreiding van de structurele plaatsen over diensten, kinderdagverblijven, initiatieven, buitenschoolse opvang in aparte lokalen en lokale diensten.
+Als er voor de toekenning van structurele plaatsen keuzes moeten worden gemaakt tussen verschillende aanvraagdossiers, houdt Kind en Gezin bij zijn keuze onder meer rekening met de volgende factoren : <br />1° kan het organiserend bestuur het onmiddellijke en effectieve gebruik van de toegekende structurele plaatsen garanderen;<br />2° heeft het organiserend bestuur al een inclusief opvangaanbod waarvoor Kind en Gezin plaatsen heeft toegekend, en dat kwalitatief gunstig beoordeeld werd door het agentschap Zorginspectie;<br />3° toont het organiserend bestuur lokale behoeften aan, zoals blijkt uit het lokaal beleidsplan kinderopvang, vermeld in artikel 2, tweede lid, van het besluit van de Vlaamse Regering van 4 mei 2007 houdende het lokaal beleid kinderopvang;<br />4° resulteert de aanvraag in een spreiding van de structurele plaatsen over de vijf provincies en het tweetalige gebied Brussel-Hoofdstad;<br />5° resulteert de aanvraag in een spreiding van de structurele plaatsen over diensten, kinderdagverblijven, initiatieven, buitenschoolse opvang in aparte lokalen en lokale diensten.
 
 ### ART. 12.
 
-Kind en Gezin beslist over het toe te kennen aantal plaatsen uiterlijk negentig kalenderdagen na ontvangst van het aanvraagdossier en in voorkomend geval onder meer rekening houdend met het advies van het agentschap Inspectie Welzijn, Volksgezondheid en Gezin.
+Kind en Gezin beslist over het toe te kennen aantal plaatsen uiterlijk negentig kalenderdagen na ontvangst van het aanvraagdossier en in voorkomend geval onder meer rekening houdend met het advies van het agentschap Zorginspectie.
 
 ### ART. 13.
 
@@ -76,7 +76,7 @@ De financiële ondersteuning wordt toegekend vanaf het kwartaal van de aanvraag 
 
 ### ART. 16.
 
-Het organiserend bestuur houdt voor elk kind met een specifieke zorgbehoefte dat van het inclusieve opvangaanbod gebruikmaakt een beperkte informatiefiche bij volgens de richtlijnen van Kind en Gezin. Die informatiefiches zijn toegankelijk voor het agentschap Inspectie Welzijn, Volksgezondheid en Gezin.
+Het organiserend bestuur houdt voor elk kind met een specifieke zorgbehoefte dat van het inclusieve opvangaanbod gebruikmaakt een beperkte informatiefiche bij volgens de richtlijnen van Kind en Gezin. Die informatiefiches zijn toegankelijk voor het agentschap Zorginspectie.
 
 ### ART. 17.
 
