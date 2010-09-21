@@ -171,7 +171,7 @@ De minister bepaalt welke gegevens minstens geregistreerd moeten worden om de op
 
 ### ART. 30.
 
-Het agentschap wordt belast met het toezicht op een SEL. Om het toezicht uit te oefenen, kan het agentschap : <br />1° indien nodig, aanvullende gegevens aan een SEL vragen;<br />2° bij een SEL of een kleinstedelijke afdeling van een SEL een inspectie laten verrichten door het Agentschap Inspectie Welzijn, Volksgezondheid en Gezin, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin.<br /><br />
+Het agentschap wordt belast met het toezicht op een SEL. Om het toezicht uit te oefenen, kan het agentschap : <br />1° indien nodig, aanvullende gegevens aan een SEL vragen;<br />2° bij een SEL of een kleinstedelijke afdeling van een SEL een inspectie laten verrichten door het Agentschap Zorginspectie, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd agentschap Zorginspectie.<br /><br />
 
 ## HOOFDSTUK X Wijzigingsbepalingen
 
