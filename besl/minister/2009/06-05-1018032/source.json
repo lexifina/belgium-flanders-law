@@ -2,16 +2,16 @@
   "codex_id": 1018032,
   "title": "Ministerieel besluit van 2009-06-05 houdende kwaliteitseisen voor budgethoudersverenigingen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018032/VolledigDocument?datum=2009-06-01",
-  "source_sha256": "e00fec09ea7d025979dcf4e431b53375c3206a8fa0efb4442534372f63ea4250",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018032/VolledigDocument?datum=2010-09-21",
+  "source_sha256": "4c9e6669873c244060efd72f47270df368152e648624b4ae4b8b4539ec2195ee",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018032&param=informatie",
-  "as_of": "2009-06-01",
+  "as_of": "2010-09-21",
   "made": "2009-06-05",
   "gazette": "2009-06-23",
   "numac": 2009202630,
   "document_start": "2009-06-01",
   "document_end": null,
-  "in_force": "2009-06-01",
+  "in_force": "2010-09-21",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2009-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-09-21; future article versions excluded; article text as the API gives it"
 }
