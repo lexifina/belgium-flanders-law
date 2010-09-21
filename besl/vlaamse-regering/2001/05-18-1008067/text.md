@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br />1° decreet: het decreet van 19 januari 2001 houdende de inrichting van activiteiten inzake opvoedingsondersteuning;<br />2° administratie : het Departement Welzijn, Volksgezondheid en Gezin of het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin; <br />3° minister: het lid van de Vlaamse regering, bevoegd voor de Bijstand aan Personen;<br />4° activiteiten: activiteiten inzake opvoedingsondersteuning;<br />5° de secretaris-generaal : het personeelslid dat belast is met de leiding van het departement Welzijn, Volksgezondheid en Gezin.
+In dit besluit wordt verstaan onder:<br />1° decreet: het decreet van 19 januari 2001 houdende de inrichting van activiteiten inzake opvoedingsondersteuning;<br />2° administratie : het Departement Welzijn, Volksgezondheid en Gezin of het intern verzelfstandigd agentschap Zorginspectie; <br />3° minister: het lid van de Vlaamse regering, bevoegd voor de Bijstand aan Personen;<br />4° activiteiten: activiteiten inzake opvoedingsondersteuning;<br />5° de secretaris-generaal : het personeelslid dat belast is met de leiding van het departement Welzijn, Volksgezondheid en Gezin.
 
 ## HOOFDSTUK II DE SUBSIDIËRING
 
