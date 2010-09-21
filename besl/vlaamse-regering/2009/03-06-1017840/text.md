@@ -30,7 +30,7 @@ De nadere regels die gelden voor de toekenning van de subsidie, de aanwending va
 
 ### ART. 7.
 
-Kind en Gezin ziet toe op de naleving van de bepalingen van dit besluit. Het toezicht op de naleving van de regelgeving wordt op stukken of ter plaatse uitgeoefend. De ondersteuner verstrekt daartoe de door Kind en Gezin gevraagde inlichtingen of stukken over de werking. Het toezicht ter plaatse wordt uitgeoefend door de personeelsleden van het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004. De ondersteuner verstrekt de door de personeelsleden van het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin gevraagde inlichtingen of stukken over de werking. Ze hebben het recht alle administratieve stukken te raadplegen.
+Kind en Gezin ziet toe op de naleving van de bepalingen van dit besluit. Het toezicht op de naleving van de regelgeving wordt op stukken of ter plaatse uitgeoefend. De ondersteuner verstrekt daartoe de door Kind en Gezin gevraagde inlichtingen of stukken over de werking. Het toezicht ter plaatse wordt uitgeoefend door de personeelsleden van het intern verzelfstandigd agentschap Zorginspectie, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004. De ondersteuner verstrekt de door de personeelsleden van het intern verzelfstandigd agentschap Zorginspectie gevraagde inlichtingen of stukken over de werking. Ze hebben het recht alle administratieve stukken te raadplegen.
 
 ### ART. 8.
 
