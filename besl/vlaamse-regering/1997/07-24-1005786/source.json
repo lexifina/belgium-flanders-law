@@ -2,16 +2,16 @@
   "codex_id": 1005786,
   "title": "Besluit van de Vlaamse Regering van 1997-07-24 tot regeling van de erkenning en de subsidiëring van de centra voor integrale gezinszorg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005786/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "0f36ce6fc19464c249f2e6e4d4fda8c55b6c26498e4c730c6452e0756c7e0ac0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005786/VolledigDocument?datum=2010-09-21",
+  "source_sha256": "9911547aecc6f006d3375bde0cf4e683864c7e05ab4269947e4edb524527bb96",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005786&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2010-09-21",
   "made": "1997-07-24",
   "gazette": "1997-11-27",
   "numac": 1997036371,
   "document_start": "1997-01-01",
   "document_end": "2013-12-31",
-  "in_force": "2009-01-01",
+  "in_force": "2010-09-21",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-09-21; future article versions excluded; article text as the API gives it"
 }
