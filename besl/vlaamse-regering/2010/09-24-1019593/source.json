@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019593,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-24 tot wijziging van de benaming van het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin in het intern verzelfstandigd agentschap Zorginspectie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019593/VolledigDocument?datum=2010-09-21",
+  "source_sha256": "931905f35f13ddc05c8ab8ffa7349d48c85d623b14c2962124c3d61815a8a707",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019593&param=informatie",
+  "as_of": "2010-09-21",
+  "made": "2010-09-24",
+  "gazette": "2010-10-21",
+  "numac": 2010205269,
+  "document_start": "2010-09-21",
+  "document_end": null,
+  "in_force": "2010-09-21",
+  "article_versions": 52,
+  "record_form": "consolidated version as in force on 2010-09-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
