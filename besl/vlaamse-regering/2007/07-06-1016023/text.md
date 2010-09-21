@@ -18,7 +18,7 @@ Voor het einde van de maand maart dient de trefgroep bij de Vlaamse Centrale Aut
 
 ### ART. 4.
 
-De Vlaamse Centrale Autoriteit ziet toe op de naleving van de erkenningsvoorwaarden.<br /><br />Het toezicht wordt op stukken of ter plaatse uitgeoefend. Het toezicht ter plaatse wordt uitgevoerd door de personeelsleden van het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin. Zij hebben het recht alle administratieve stukken te raadplegen.<br />
+De Vlaamse Centrale Autoriteit ziet toe op de naleving van de erkenningsvoorwaarden.<br /><br />Het toezicht wordt op stukken of ter plaatse uitgeoefend. Het toezicht ter plaatse wordt uitgevoerd door de personeelsleden van het intern verzelfstandigd agentschap Zorginspectie, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd agentschap Zorginspectie. Zij hebben het recht alle administratieve stukken te raadplegen.<br />
 
 ### ART. 5.
 
