@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019639,
+  "title": "Ministerieel besluit van 2010-10-06 houdende wijziging van diverse ministeriële besluiten in het beleidsdomein Welzijn, Volksgezondheid en Gezin, wat de wijziging van de benaming van het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin betreft",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019639/VolledigDocument?datum=2010-09-21",
+  "source_sha256": "c1ba1081ddf54ae39eacc22e42e063e971d99d77c6aef790937ec28e104dd1e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019639&param=informatie",
+  "as_of": "2010-09-21",
+  "made": "2010-10-06",
+  "gazette": "2010-11-03",
+  "numac": 2010205580,
+  "document_start": "2010-09-21",
+  "document_end": null,
+  "in_force": "2010-09-21",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2010-09-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
