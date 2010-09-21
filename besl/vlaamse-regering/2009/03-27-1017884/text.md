@@ -86,7 +86,7 @@ De onderdanen van een lidstaat die hun beroepskwalificaties hebben verworven in 
 
 ### ART. 13.
 
-Het intern verzelfstandigd agentschap Zorg en Gezondheid en het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin oefenen ter plaatse of op stukken toezicht uit op de naleving van de bepalingen van hoofdstuk III van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening, voor wat de toepassing ervan op de personen, vermeld in artikel 1, 1° en 2°, betreft, en van dit besluit.
+Het intern verzelfstandigd agentschap Zorg en Gezondheid en het intern verzelfstandigd agentschap Zorginspectie oefenen ter plaatse of op stukken toezicht uit op de naleving van de bepalingen van hoofdstuk III van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening, voor wat de toepassing ervan op de personen, vermeld in artikel 1, 1° en 2°, betreft, en van dit besluit.
 
 ## HOOFDSTUK VI. Wijzigingsbepalingen
 
