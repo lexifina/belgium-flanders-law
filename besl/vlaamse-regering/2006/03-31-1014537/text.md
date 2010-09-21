@@ -14,7 +14,7 @@ Het departement heeft als missie het beleid van de Vlaamse minister, bevoegd voo
 
 ### ART. 3.
 
-Het departement heeft de volgende taken : 1° de taken waarmee het departement is belast overeenkomstig artikel 30 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie; 2° de taken van beleidsuitvoering betreffende materies die tot het beleidsdomein Welzijn, Volksgezondheid en Gezin behoren en die niet werden toevertrouwd aan een verzelfstandigd agentschap van dat beleidsdomein; 3° het beheren van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden; 4° het organiseren van de managementondersteunende dienstverlening van het departement, het intern verzelfstandigd agentschap Zorg en Gezondheid, het intern verzelfstandigd agentschap Jongerenwelzijn en het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin.
+Het departement heeft de volgende taken : 1° de taken waarmee het departement is belast overeenkomstig artikel 30 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie; 2° de taken van beleidsuitvoering betreffende materies die tot het beleidsdomein Welzijn, Volksgezondheid en Gezin behoren en die niet werden toevertrouwd aan een verzelfstandigd agentschap van dat beleidsdomein; 3° het beheren van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden; 4° het organiseren van de managementondersteunende dienstverlening van het departement, het intern verzelfstandigd agentschap Zorg en Gezondheid, het intern verzelfstandigd agentschap Jongerenwelzijn en het intern verzelfstandigd agentschap Zorginspectie.
 
 ### ART. 4.
 
