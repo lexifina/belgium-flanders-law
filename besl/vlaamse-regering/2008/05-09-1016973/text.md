@@ -186,7 +186,7 @@ Binnen drie maanden na de startdatum dient het organiserend bestuur een aanvraag
 
 ### ART. 41.
 
-Na de ontvangst van de aanvraag stuurt Kind en Gezin onmiddellijk een ontvangstmelding aan het organiserend bestuur. <br /><br />De personeelsleden van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Inspectie Welzijn, Volksgezondheid en Gezin, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004, verrichten een onderzoek ter plaatse. Binnen zestig dagen na de ontvangstmelding, vermeld in het eerste lid, wordt het inspectieverslag bezorgd aan Kind en Gezin. <br /><br />
+Na de ontvangst van de aanvraag stuurt Kind en Gezin onmiddellijk een ontvangstmelding aan het organiserend bestuur. <br /><br />De personeelsleden van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Zorginspectie, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004, verrichten een onderzoek ter plaatse. Binnen zestig dagen na de ontvangstmelding, vermeld in het eerste lid, wordt het inspectieverslag bezorgd aan Kind en Gezin. <br /><br />
 
 ### ART. 42.
 
