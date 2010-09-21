@@ -2,16 +2,16 @@
   "codex_id": 1018216,
   "title": "Besluit van de Vlaamse Regering van 2009-06-05 betreffende de subsidiëring en erkenning van partnerorganisaties en organisaties met terreinwerking via een beheersovereenkomst",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018216/VolledigDocument?datum=2009-09-15",
-  "source_sha256": "9b012bfec41e328563ccca84a93a64306d090f440c8607e9642df1c239b59d41",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018216/VolledigDocument?datum=2010-09-21",
+  "source_sha256": "34f54af90b840df23bd6fa9eb0e434367145ddaf12199216ef19bb653aa62e8e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018216&param=informatie",
-  "as_of": "2009-09-15",
+  "as_of": "2010-09-21",
   "made": "2009-06-05",
   "gazette": "2009-08-07",
   "numac": 2009035713,
   "document_start": "2009-09-15",
   "document_end": null,
-  "in_force": "2009-09-15",
+  "in_force": "2010-09-21",
   "article_versions": 28,
-  "record_form": "consolidated version as in force on 2009-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-09-21; future article versions excluded; article text as the API gives it"
 }
