@@ -74,7 +74,7 @@ De toestemming voor het organiseren van buitenschoolse opvang in aparte lokalen 
 
 ### ART. 16.
 
-§ 1. Binnen een periode van zestig dagen na de ontvangst van de aanvraag tot subsidiëring voeren de personeelsleden van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Inspectie Welzijn, Volksgezondheid en Gezin een onderzoek ter plaatse uit.<br /><br />§ 2. Uiterlijk zestig dagen na de ontvangst van het inspectieadvies beslist Kind en Gezin over de toekenning van de subsidiëring.
+§ 1. Binnen een periode van zestig dagen na de ontvangst van de aanvraag tot subsidiëring voeren de personeelsleden van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Zorginspectie een onderzoek ter plaatse uit.<br /><br />§ 2. Uiterlijk zestig dagen na de ontvangst van het inspectieadvies beslist Kind en Gezin over de toekenning van de subsidiëring.
 
 ### ART. 17.
 
