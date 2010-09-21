@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br />1° bejaarden: personen van 60 jaar of ouder;<br />2° ...<br />3° serviceflatgebouw of woningcomplex met dienstverlening: één of meer gebouwen die, onder welke benaming ook, functioneel een geheel vormen en die bestaan uit individuele wooneenheden waar bejaarden zelfstandig wonen en uit gemeenschappelijke voorzieningen voor dienstverlening waarop zij facultatief een beroep kunnen doen;<br />4° ...<br />5° ...<br />6° ...<br />7° ...<br />8° wooneenheid: een opnamemogelijkheid van een bejaarde in een serviceflatgebouw of woningcomplex met dienstverlening;<br />9° ...<br />10° administratie:het intern verzelfstandigd agentschap Zorg en Gezondheid of het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin;<br />11° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen.
+In dit besluit wordt verstaan onder:<br />1° bejaarden: personen van 60 jaar of ouder;<br />2° ...<br />3° serviceflatgebouw of woningcomplex met dienstverlening: één of meer gebouwen die, onder welke benaming ook, functioneel een geheel vormen en die bestaan uit individuele wooneenheden waar bejaarden zelfstandig wonen en uit gemeenschappelijke voorzieningen voor dienstverlening waarop zij facultatief een beroep kunnen doen;<br />4° ...<br />5° ...<br />6° ...<br />7° ...<br />8° wooneenheid: een opnamemogelijkheid van een bejaarde in een serviceflatgebouw of woningcomplex met dienstverlening;<br />9° ...<br />10° administratie:het intern verzelfstandigd agentschap Zorg en Gezondheid of het intern verzelfstandigd agentschap Zorginspectie;<br />11° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen.
 
 ## HOOFDSTUK II PROGRAMMA
 
