@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° centra: de centra voor opsporing van de aangeboren metabolische afwijkingen;<br />2° minister: de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br />3° administratie: het intern verzelfstandigd agentschap Zorg en Gezondheid of het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin;<br />4° de aangeboren metabolische afwijkingen: de fenylketonurie en de hypothyreoïdie.<br />5° de administrateur-generaal : het hoofd van het intern verzelfstandigd agentschap Zorg en Gezondheid.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° centra: de centra voor opsporing van de aangeboren metabolische afwijkingen;<br />2° minister: de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br />3° administratie: het intern verzelfstandigd agentschap Zorg en Gezondheid of het intern verzelfstandigd agentschap Zorginspectie;<br />4° de aangeboren metabolische afwijkingen: de fenylketonurie en de hypothyreoïdie.<br />5° de administrateur-generaal : het hoofd van het intern verzelfstandigd agentschap Zorg en Gezondheid.
 
 ### ART. 2.
 
