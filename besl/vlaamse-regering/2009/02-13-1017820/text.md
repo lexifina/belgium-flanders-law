@@ -46,7 +46,7 @@ Alle verantwoordelijken van de opvangvoorziening hebben kennis van het Nederland
 
 ### ART. 10.
 
-Op verzoek van Kind en Gezin of van het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004, bezorgt de opvangvoorziening binnen de gevraagde termijn bewijsstukken, documenten en cijfergegevens over de opvangactiviteit, alsook identificatiegegevens van de kinderen.
+Op verzoek van Kind en Gezin of van het intern verzelfstandigd agentschap Zorginspectie, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004, bezorgt de opvangvoorziening binnen de gevraagde termijn bewijsstukken, documenten en cijfergegevens over de opvangactiviteit, alsook identificatiegegevens van de kinderen.
 
 ## Hoofdstuk III Klachtendienst
 
@@ -66,7 +66,7 @@ Opvangvoorzieningen die beschikken over een attest van toezicht op 31 december 2
 
 ### ART. 14.
 
-Kind en Gezin ziet toe op de naleving van de bepalingen van dit besluit. Het toezicht op de naleving van de regelgeving wordt op stukken of ter plaatse uitgeoefend. De opvangvoorziening verstrekt Kind en Gezin de gevraagde inlichtingen of stukken over de werking. Het toezicht ter plaatse wordt uitgevoerd door de personeelsleden van het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004. De opvangvoorziening verstrekt de door personeelsleden van het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin gevraagde inlichtingen of stukken over de werking. Zij krijgen ook de vrije toegang tot de lokalen van de opvangvoorziening. Zij hebben het recht alle administratieve stukken te raadplegen en krijgen op hun verzoek toegang tot alle individuele dossiers.
+Kind en Gezin ziet toe op de naleving van de bepalingen van dit besluit. Het toezicht op de naleving van de regelgeving wordt op stukken of ter plaatse uitgeoefend. De opvangvoorziening verstrekt Kind en Gezin de gevraagde inlichtingen of stukken over de werking. Het toezicht ter plaatse wordt uitgevoerd door de personeelsleden van het intern verzelfstandigd agentschap Zorginspectie, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004. De opvangvoorziening verstrekt de door personeelsleden van het intern verzelfstandigd agentschap Zorginspectie gevraagde inlichtingen of stukken over de werking. Zij krijgen ook de vrije toegang tot de lokalen van de opvangvoorziening. Zij hebben het recht alle administratieve stukken te raadplegen en krijgen op hun verzoek toegang tot alle individuele dossiers.
 
 ### ART. 15.
 
