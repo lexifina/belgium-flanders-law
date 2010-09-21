@@ -38,7 +38,7 @@ Het voorbereidingscentrum dat door Kind en Gezin wordt erkend wordt gesubsidieer
 
 ### ART. 8.
 
-De Vlaamse Centrale Autoriteit ziet toe op de naleving van de bepalingen van dit besluit en controleert de correcte besteding van de uitbetaalde bedragen.<br /><br />Het toezicht op de naleving van regelgeving wordt op stukken of ter plaatse uitgeoefend. Het toezicht ter plaatse gebeurt door de personeelsleden van het intern verzelfstandigd agentschap Inspectie Welzijn en Volksgezondheid, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004. Zij krijgen daartoe de vrije toegang tot de lokalen van die diensten. Zij hebben het recht alle administratieve stukken te raadplegen en krijgen op hun verzoek toegang tot de individuele dossiers en de wachtlijsten. <br />
+De Vlaamse Centrale Autoriteit ziet toe op de naleving van de bepalingen van dit besluit en controleert de correcte besteding van de uitbetaalde bedragen.<br /><br />Het toezicht op de naleving van regelgeving wordt op stukken of ter plaatse uitgeoefend. Het toezicht ter plaatse gebeurt door de personeelsleden van het intern verzelfstandigd agentschap Zorginspectie, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004. Zij krijgen daartoe de vrije toegang tot de lokalen van die diensten. Zij hebben het recht alle administratieve stukken te raadplegen en krijgen op hun verzoek toegang tot de individuele dossiers en de wachtlijsten. <br />
 
 ## Afdeling III Voorwaarden tot erkenning van de voorbereidingscentra
 
@@ -112,7 +112,7 @@ De door Kind en Gezin erkende dienst voor maatschappelijk onderzoek wordt gesubs
 
 ### ART. 25.
 
-De Vlaamse Centrale Autoriteit ziet toe op de naleving van de bepalingen van dit hoofdstuk en controleert de correcte besteding van de uitbetaalde bedragen.<br /><br />Het toezicht op de naleving van de regelgeving wordt op stukken of ter plaatse uitgeoefend. Het toezicht ter plaatse gebeurt door de personeelsleden van het intern verzelfstandigd agentschap Inspectie Welzijn en Volksgezondheid, opgericht bij besluit van de Vlaamse Regering van 26 maart 2004. Zij krijgen daartoe de vrije toegang tot de lokalen van die diensten. Zij hebben het recht alle administratieve stukken te raadplegen en krijgen op hun verzoek toegang tot de individuele dossier en de wachtlijsten.<br />
+De Vlaamse Centrale Autoriteit ziet toe op de naleving van de bepalingen van dit hoofdstuk en controleert de correcte besteding van de uitbetaalde bedragen.<br /><br />Het toezicht op de naleving van de regelgeving wordt op stukken of ter plaatse uitgeoefend. Het toezicht ter plaatse gebeurt door de personeelsleden van het intern verzelfstandigd agentschap Zorginspectie, opgericht bij besluit van de Vlaamse Regering van 26 maart 2004. Zij krijgen daartoe de vrije toegang tot de lokalen van die diensten. Zij hebben het recht alle administratieve stukken te raadplegen en krijgen op hun verzoek toegang tot de individuele dossier en de wachtlijsten.<br />
 
 ## Afdeling II Voorwaarden tot erkenning van de diensten voor maatschappelijk onderzoek
 
@@ -300,7 +300,7 @@ De gegevens, opgenomen in de dossiers en wachtlijsten, en ook alle informatie di
 
 ### ART. 67.
 
-§ 1. De Vlaamse Centrale Autoriteit ziet toe op de naleving van de bepalingen van dit besluit en controleert de correcte besteding van de uitbetaalde bedragen.<br /><br />§ 2. Het toezicht op de naleving van regelgeving wordt op stukken of ter plaatse uitgeoefend. Het toezicht ter plaatse gebeurt door de personeelsleden van het intern verzelfstandigd agentschap Inspectie Welzijn en Volksgezondheid, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004. <br /><br />Zij krijgen daartoe de vrije toegang tot de lokalen van de adoptiediensten. Zij hebben het recht alle administratieve stukken te raadplegen en krijgen op hun verzoek toegang tot de individuele dossiers en de wachtlijsten. <br />
+§ 1. De Vlaamse Centrale Autoriteit ziet toe op de naleving van de bepalingen van dit besluit en controleert de correcte besteding van de uitbetaalde bedragen.<br /><br />§ 2. Het toezicht op de naleving van regelgeving wordt op stukken of ter plaatse uitgeoefend. Het toezicht ter plaatse gebeurt door de personeelsleden van het intern verzelfstandigd agentschap Zorginspectie, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004. <br /><br />Zij krijgen daartoe de vrije toegang tot de lokalen van de adoptiediensten. Zij hebben het recht alle administratieve stukken te raadplegen en krijgen op hun verzoek toegang tot de individuele dossiers en de wachtlijsten. <br />
 
 ### ART. 68.
 
