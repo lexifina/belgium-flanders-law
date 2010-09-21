@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Binnen het Vlaams Ministerie van [Welzijn, Volksgezondheid en Gezin  <span class="reference">(verv. B.V.R. 3 juni 2005, art. 36, I: 1 januari 2006)</span> ] wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de benaming Inspectie [Welzijn, Volksgezondheid en Gezin  <span class="reference">(verv. B.V.R. 3 juni 2005, art. 36, I: 1 januari 2006)</span> ], hierna het agentschap te noemen.<br /><br />Het agentschap wordt opgericht voor de uitvoering van het [beleid inzake welzijn, volksgezondheid en gezin  <span class="reference">(verv. B.V.R. 31 maart 2006, art. 58, I: 1 april 2006)</span> ].<br /><br />Het agentschap behoort tot het beleidsdomein [Welzijn, Volksgezondheid en Gezin.  <span class="reference">(verv. B.V.R. 3 juni 2005, art. 36, I : 1 januari 2006)</span> ]
+Binnen het Vlaams Ministerie van Welzijn, Volksgezondheid en Gezin wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de benaming Zorginspectie, hierna het agentschap te noemen.<br /><br />Het agentschap wordt opgericht voor de uitvoering van het beleid inzake welzijn, volksgezondheid en gezin.<br /><br />Het agentschap behoort tot het beleidsdomein Welzijn, Volksgezondheid en Gezin.
 
 ### ART. 2.
 

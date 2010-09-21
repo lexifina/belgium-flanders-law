@@ -2,16 +2,16 @@
   "codex_id": 1012923,
   "title": "Besluit van de Vlaamse Regering van 2004-03-26 tot oprichting van het intern verzelfstandigd agentschap [Zorginspectie]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012923/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "818fc63d07c88c5c289cf1f02cc6a0401308d06054f4a8b5fe95ce50231c1f0c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012923/VolledigDocument?datum=2010-09-21",
+  "source_sha256": "50f845b91fd00b1040092a5f1dc42d9c501b6dcb1869ee240e3d9796836ee6b1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012923&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2010-09-21",
   "made": "2004-03-26",
   "gazette": "2004-05-06",
   "numac": 2004035639,
   "document_start": "2006-04-01",
   "document_end": "2017-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2010-09-21",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-09-21; future article versions excluded; article text as the API gives it"
 }
