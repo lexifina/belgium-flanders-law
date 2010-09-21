@@ -150,7 +150,7 @@ In uitvoering van het decreet van 1 juni 2001 houdende toekenning van een klacht
 
 ### ART. 28.
 
-§ 1. De Klachtendienst wordt geleid door de klachtencoördinator, een personeelslid van niveau A, die<br />verantwoordelijk is voor de uitvoering van de decretale taken en de leiding heeft van de dienst.<br /><br />§ 2. De Klachtendienst staat onder het hiërarchische gezag van de administrateur-generaal, maar heeft beslissingsbevoegdheid voor taken, vastgesteld door het decreet. In die zin kan de dienst de nodige contacten leggen, met inbegrip van contacten met het agentschap Inspectie Welzijn, Volksgezondheid en Gezin, volgens de voorwaarden die hiervoor tussen beide agentschappen zijn afgesproken, en het overleggen van dossiers van de administratie.<br /><br />De Klachtendienst kan aan de administrateur-generaal voorstellen tot verbetering van de dienstverlening voorleggen.<br />
+§ 1. De Klachtendienst wordt geleid door de klachtencoördinator, een personeelslid van niveau A, die<br />verantwoordelijk is voor de uitvoering van de decretale taken en de leiding heeft van de dienst.<br /><br />§ 2. De Klachtendienst staat onder het hiërarchische gezag van de administrateur-generaal, maar heeft beslissingsbevoegdheid voor taken, vastgesteld door het decreet. In die zin kan de dienst de nodige contacten leggen, met inbegrip van contacten met het agentschap Zorginspectie, volgens de voorwaarden die hiervoor tussen beide agentschappen zijn afgesproken, en het overleggen van dossiers van de administratie.<br /><br />De Klachtendienst kan aan de administrateur-generaal voorstellen tot verbetering van de dienstverlening voorleggen.<br />
 
 ## HOOFDSTUK VI. De Sociale Dienst voor het Personeel
 
