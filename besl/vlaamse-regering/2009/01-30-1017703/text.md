@@ -303,7 +303,7 @@ Voor Logo's met een erkenning die niet ingaat op 1 januari of die niet eindigt o
 
 ### ART. 35.
 
-Het agentschap wordt belast met het toezicht op de Logo's. Om het toezicht uit te oefenen, kan het agentschap : <br />1° gebruikmaken van de registratiegegevens, vermeld in artikel 8, 4°;<br />2° gebruikmaken van gegevens die aangeleverd worden door derden;<br />3° alle aanvullende gegevens die daartoe nodig zijn, vragen aan de Logo's;<br />4° bij aanvragers of bij Logo's een onderzoek verrichten of laten verrichten door het agentschap Inspectie Welzijn, Volksgezondheid en Gezin, opgericht bij het Besluit van de Vlaamse Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin. Het inspectieverslag wordt bij het erkenningsdossier gevoegd dat door het agentschap wordt aangelegd en dat wordt bezorgd aan de VZW of het Logo.<br /><br />
+Het agentschap wordt belast met het toezicht op de Logo's. Om het toezicht uit te oefenen, kan het agentschap : <br />1° gebruikmaken van de registratiegegevens, vermeld in artikel 8, 4°;<br />2° gebruikmaken van gegevens die aangeleverd worden door derden;<br />3° alle aanvullende gegevens die daartoe nodig zijn, vragen aan de Logo's;<br />4° bij aanvragers of bij Logo's een onderzoek verrichten of laten verrichten door het agentschap Zorginspectie, opgericht bij het Besluit van de Vlaamse Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd agentschap Zorginspectie. Het inspectieverslag wordt bij het erkenningsdossier gevoegd dat door het agentschap wordt aangelegd en dat wordt bezorgd aan de VZW of het Logo.<br /><br />
 
 ### ART. 36.
 
