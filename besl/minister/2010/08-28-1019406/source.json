@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019406,
+  "title": "Ministerieel besluit van 2010-08-28 tot toekenning van premies voor de aankoop en installatie van emissieverminderende voorzieningen in voertuigen met een dieselmotor",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019406/VolledigDocument?datum=2010-09-24",
+  "source_sha256": "9caf2c0b7a5063e99731d46613b33eeb34071eb83eed11fc3e3b3aa0803ebd22",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019406&param=informatie",
+  "as_of": "2010-09-24",
+  "made": "2010-08-28",
+  "gazette": "2010-09-14",
+  "numac": 2010035648,
+  "document_start": "2010-09-24",
+  "document_end": null,
+  "in_force": "2010-09-24",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2010-09-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
