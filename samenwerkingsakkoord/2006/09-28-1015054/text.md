@@ -10,43 +10,43 @@ Gelet op de bijzondere wet tot hervorming der instellingen van 8 augustus 1980, 
 
 ### ART. 1.
 
-Met als doel het realiseren van een geïntegreerd e-government wensen de Partijen waar mogelijk samen te werken op het vlak van :<br />- het concipiëren en het toepassen van de principes voor een geïntegreerd e-government;<br />- de bouw, het gebruik en/of het beheer van ontwikkelingen en diensten van een geïntegreerd e-government.<br /><br />De Partijen zullen waar mogelijk nog verdere gezamenlijke acties ondernemen.<br /><br />
+...
 
 ## Principes van een geïntegreerd e-government
 
 ### ART. 2.
 
-De Partijen erkennen dat de verwezenlijking van een geïntegreerd e-government slechts mogelijk is voor zover de Partijen de eigen en gezamenlijke e-government initiatieven en projecten op grond van de volgende principes trachten te realiseren :<br />1. Het aanbieden van elektronische (overheids-) diensten op basis van intenties en afgestemd op de leefwereld en de behoeften van de burgers en de ondernemingen (intention-based services);<br />2. Het eenmalig inzamelen en maximaal hergebruiken van gegevens door gebruik te maken van authentieke gegevensbronnen;<br />3. Een maximale interoperabiliteit op de volgende niveaus :<br />3.1 Organisationeel niveau : voor alle elektronische diensten die door en bij de verschillende overheden worden aangeboden, of waarbij verschillende Partijen zijn betrokken, worden de onderliggende administratieve processen om redenen van integratie en transparant gebruik ten aanzien van de burgers en ondernemingen, optimaal op elkaar afgestemd.<br />3.2 Semantisch niveau : alle elektronische diensten die door en bij de verschillende overheden worden aangeboden, of waarbij verschillende Partijen zijn betrokken, maken gebruik van dezelfde gezamenlijk overeen te komen definities en concepten.<br />3.3 Technisch niveau : alle elektronische diensten die door en bij de verschillende overheden worden aangeboden, of waarbij verschillende Partijen zijn betrokken, worden via te definiëren gemeenschappelijke standaarden opgevat. Bij het concipiëren en ontwikkelen van e-government oplossingen dient rekening gehouden met alle noodzakelijke afspraken, standaarden en normen. Zo zullen Partijen onder meer hun eigen systemen zo opbouwen dat die transparant kunnen worden ingeschakeld in een geïntegreerd e-government.<br />4. Een optimaal hergebruik -waar mogelijk- van de door de Partijen aangeboden bepaalde e-government ontwikkelingen en diensten voor een geïntegreerd e-government<br />5. Een optimale integratie met de e-government inspanningen van de lokale besturen, waarvan de Partijen erkennen dat deze een belangrijke actor zijn in het leveren van e-government diensten.<br /><br />
+...
 
 ## Gemeenschappelijke acties
 
 ### ART. 3.
 
-§ 1. Met het oog op de verwezenlijking van de in artikel 1 omschreven doelstelling en, rekening houdend met de vastgestelde principes zullen Partijen overeenkomstig het bepaalde in artikel 10 van dit samenwerkingsakkoord :<br />(a) Een technische werkgroep oprichten die, rekening houdend met ieders bevoegdheid, wordt belast met het uitwerken van duidelijke gemeenschappelijke beleidslijnen en taakbevoegdheden, geconcretiseerd in een plan van aanpak met betrekking tot de invoering van unieke identificatiesleutels.<br />Partijen zullen ernaar streven om in de relaties tussen de overheidsdiensten van een zelfde overheidsniveau en tussen overheidsdiensten van verschillende overheidsniveaus enerzijds, en, in de relaties tussen overheidsdiensten en de burgers en/of ondernemingen anderzijds geleidelijk het gebruik van de volgende unieke identificatiesleutels in te voeren :<br />- voor de natuurlijke personen, het rijksregisternummer, het BIS-registernummer of, bij gebreke daaraan een ander door de Partijen overeen te komen nummer;<br />- het ondernemingsnummer toegekend door de Kruispuntbank van Ondernemingen opgericht bij de Federale Overheidsdienst Economie, K.M.O., Middenstand en Energie voor de ondernemingen;<br />- andere unieke identificatienummers die door de Partijen worden afgesproken voor andere entiteiten.<br />(b) Een technische werkgroep oprichten die, rekening houdend met ieders bevoegdheid, wordt belast met het uitwerken van duidelijke gemeenschappelijke beleidslijnen en taakbevoegdheden, geconcretiseerd in een plan van aanpak voor de geleidelijke invoering van het authentieke bronnen-principe binnen de verschillende overheidsniveaus en de eenmalige gegevensinzameling, onder meer op het vlak van de toegang tot en het gebruik van de gegevens opgeslagen in authentieke vorm.<br />Partijen erkennen dat het actief uitwisselen van informatie, het gebruik van authentieke bronnen en de éénmalige inzameling van gegevens die ter beschikking worden gesteld van alle overheden en overheidsdiensten een sleutelsteen van geïntegreerde e-government processen en -toepassingen vormen.<br />Dit betekent onder meer ook dat binnen elke overheid moet worden vastgesteld welke gegevens of gegevenscategorieën door welke overheidsdienst in hun authentieke vorm worden opgeslagen en up-to-date gehouden. Dit, zo veel mogelijk in samenspraak met en rekening houdend met de behoeften van alle andere overheidsdiensten. Hierdoor hoeven de andere overheidsdiensten die deze gegevens nodig hebben in staat worden gesteld te bepalen bij welke overheidsdienst ze deze authentieke gegevens kunnen betrekken, moeten zij deze gegevens slechts bewaren gedurende de tijd nodig voor de uitvoering van hun opdrachten, en hoeven zij zich niet te bekommeren om het bijhouden van de historiek van deze gegevens.<br />Iedere Partij bij dit samenwerkingsakkoord blijft evenwel verantwoordelijk voor het beheer van de gegevens waarvoor zij ingevolge een wettelijke of reglementaire bepaling bevoegd is.<br />(c) Een technische werkgroep oprichten die, rekening houdend met ieders bevoegdheid, wordt belast met het uitwerken van duidelijke gemeenschappelijke beleidslijnen en taakbevoegdheden, geconcretiseerd in een plan van aanpak op het vlak van de bescherming van de persoonlijke levenssfeer en op het vlak van de veiligheid en traceerbaarheid van gegevens en gegevensstromen (data protection). De technische werkgroep wordt er in het bijzonder mee belast de minimale gemeenschappelijke normen, methodes en voorzover als mogelijk, oplossingen voor te stellen die moeten worden nageleefd in het kader van de uitwisseling van de gegevens tussen de verschillende overheidsniveaus en met burgers en ondernemingen.<br />(d) Een technische werkgroep oprichten die, rekening houdend met ieders bevoegdheid, wordt belast met het verder uitwerken van duidelijke gemeenschappelijke beleidslijnen en taakbevoegdheden, geconcretiseerd in een plan van aanpak met betrekking tot het ontwikkelen en onderhouden van een interoperabiliteitskader op de drie niveaus zoals gedefinieerd in artikel 2, punt 3 (BELGIF). Deze gemeenschappelijke beleidslijnen worden gepubliceerd op een door de Partijen onderhouden website (www.belgif.be)<br />(e) Een technische werkgroep oprichten die, rekening houdend met ieders bevoegdheid, wordt belast met het uitwerken van duidelijke gemeenschappelijke beleidslijnen en taakbevoegdheden, geconcretiseerd in een plan van aanpak met betrekking tot het op elkaar afstemmen van de navigatiestructuur en van het aanbod van informatie en diensten op de portaalsites van de Partijen. In het bijzonder op het vlak van de levenslijnen, waarover de Partijen reeds een verregaande samenwerking hebben tot stand gebracht.<br /><br />§ 2. Hergebruik van e-government ontwikkelingen en diensten voor een geïntegreerd e-government.<br /><br />Met het oog op de realisatie van de in artikel 1 vermelde doelstelling zullen de Partijen ernaar streven om waar mogelijk bepaalde bestaande en nog te concipiëren e-government ontwikkelingen en diensten, door de Partijen of in opdracht van de Partijen ontwikkeld en/of beheerd, en welke door het in artikel 8 van dit samenwerkingsakkoord bedoelde strategisch comité als fundamentele componenten van een geïntegreerd e-government worden gekwalificeerd, optimaal open te stellen voor of ter beschikking te stellen van de andere Partijen.<br /><br />De Partijen stellen gezamenlijk de voorwaarden vast waaraan dit hergebruik van e-government ontwikkelingen en diensten is onderworpen.<br /><br />§ 3. Het delen van informatie en goede praktijken.<br /><br />Met het oog op de realisatie van de in artikel 1 vermelde doelstelling zullen de Partijen ernaar streven om waar mogelijk informatie en technische documentatie betreffende de door de Partijen ontwikkelde e-government ontwikkelingen en diensten waarover zij beschikken en door hen gehanteerde goede praktijken aan de andere Partijen al dan niet op hun verzoek mee te delen of ter beschikking te stellen.<br /><br />
+...
 
 ## Eigen verantwoordelijkheid van de Partijen
 
 ### ART. 4.
 
-§ 1. De Partijen zullen, elk binnen hun bevoegdheid, de nodige maatregelen nemen en middelen vrij maken met het oog op de bouw van de in artikel 1 bedoelde e-government ontwikkelingen en diensten en, met het oog op de realisatie van de in artikel 3 opgesomde acties. In het bijzonder zullen de Partijen, elk binnen hun eigen bevoegdheidsniveau, instaan voor de noodzakelijke afspraken met de diensten en organen die in het kader van één of meerdere van de in artikel 4 opgesomde acties rechtstreeks zijn betrokken.<br /><br />§ 2. Elke Partij blijft ten aanzien van zijn eigen bevoegdheidsniveau uitsluitend verantwoordelijk voor :<br />- het bepalen van prioriteiten met betrekking tot en het definiëren van ontwikkelingen en diensten;<br />- de vaststelling van het aanbod van al dan niet herbruikbare ontwikkelingen en diensten;<br />- het vaststellen van de gebeurlijke voorwaarden voor het hergebruik van ontwikkelingen en diensten door een andere Partij.<br /><br />
+...
 
 ## Dialoog met de lokale besturen
 
 ### ART. 5.
 
-§ 1. In het kader van het streven naar en de uitbouw van een geïntegreerd e-government erkennen de Partijen het belang van een optimale samenwerking met de lokale besturen. De Partijen zullen er daarom naar streven dienaangaande een permanente dialoog, een structureel overleg en een effectieve samenwerking met de lokale besturen te organiseren.<br /><br />§ 2. Minstens twee maal per jaar zullen de Partijen een vergadering organiseren met de vertegenwoordigers van de lokale besturen.<br /><br />
+...
 
 ## Uitvoering van het samenwerkingsakkoord
 
 ### ART. 6.
 
-Met het oog op de uitvoering van dit samenwerkingsakkoord, inzonderheid de artikelen 1 t.e.m. 3, kunnen de Partijen of de diensten en overheden die onder hun bevoegdheid ressorteren akkoorden tot uitvoering sluiten. De akkoorden tot uitvoering worden ondertekend door de betrokken bevoegde Ministers en/of Staatssecretarissen en worden in voorkomend geval via het secretariaat van het strategisch comité ter kennis gebracht van de andere bij dit akkoord betrokken Partijen.<br /><br />
+...
 
 ## Bescherming van de persoonlijke levenssfeer
 
 ### ART. 7.
 
-De Partijen verbinden zich ertoe steeds de nodige organisatorische, technische en administratieve maatregelen te treffen om de integriteit, beveiliging en vertrouwelijkheid van de informatie en de gegevens van welke aard dan ook waarvan zij naar aanleiding van het ondernemen van gemeenschappelijke acties kennis krijgen, te verzekeren. De Partijen garanderen steeds de naleving van de wetten, reglementen en richtlijnen inzake de bescherming van de persoonlijke levenssfeer.<br /><br />
+...
 
 ## HOOFDSTUK II Bestuur en werking
 
@@ -54,19 +54,19 @@ De Partijen verbinden zich ertoe steeds de nodige organisatorische, technische e
 
 ### ART. 8.
 
-§ 1. Er wordt een strategisch comité opgericht dat is samengesteld uit maximaal 21 leden waarin voor elk van de hierna vermelde overheden een vertegenwoordiger van de betrokken administratie en een afgevaardigde van de Minister of Staatssecretaris die e-government onder zijn of haar bevoegdheid heeft, wordt aangeduid :<br />- De Federale Staat : 3 vertegenwoordigers<br />- De Vlaamse Gemeenschap : 2 vertegenwoordigers<br />- De Franse Gemeenschap : 2 vertegenwoordigers<br />- De Duitstalige Gemeenschap : 2 vertegenwoordigers<br />- Het Vlaamse Gewest : 2 vertegenwoordigers<br />- Het Waalse Gewest : 2 vertegenwoordigers<br />- Het Brussels Hoofdstedelijk Gewest : 2 vertegenwoordigers<br />- De Vlaamse Gemeenschapscommissie : 1 vertegenwoordiger<br />- De Franse Gemeenschapscommissie : 1 vertegenwoordiger<br />- De Gemeenschappelijke Gemeenschapscommissie : 1 vertegenwoordiger<br /><br />§ 2. Het voorzitterschap en het secretariaat van dit strategisch comité wordt afwisselend om de twaalf maanden waargenomen door één der Partijen.<br /><br />§ 3. Het strategisch comité wordt minstens driemaandelijks bijeengeroepen op initiatief van het voorzitterschap of telkens wanneer één van de bij dit samenwerkingsakkoord betrokken Partijen daarom verzoekt.<br /><br />§ 4. Het strategisch comité waakt over de goede uitvoering van dit samenwerkingsakkoord en beraadslaagt in voorkomend geval over de noodzakelijke voorstellen tot aanpassing ervan.<br /><br />
+...
 
 ## Bevoegdheid strategisch comité
 
 ### ART. 9.
 
-§ 1. Het strategisch comité beraadslaagt over en staat in voor de goedkeuring van de uitvoering van de in artikel 3 van dit samenwerkingsakkoord opgesomde acties in het bijzonder over de door de technische werkgroepen opgestelde plannen van aanpak, en neemt kennis van voortgang van de concrete projecten die in uitvoering daarvan worden gerealiseerd.<br /><br />§ 2. Onverminderd het bepaalde in artikel 3 kan het strategisch comité beslissen tot de oprichting van één of meerdere specifieke technische werkgroepen. Het strategisch comité kan de in uitvoering van dit samenwerkingsakkoord opgerichte werkgroepen belasten met een algemene of specifieke opdracht.<br /><br />
+...
 
 ## Samenstelling en bevoegdheid technische werkgroepen
 
 ### ART. 10.
 
-§ 1. Elke technische werkgroep die in uitvoering van dit samenwerkingsakkoord wordt opgericht, is samengesteld uit maximaal 10 leden, waarvan elke in § 1 opgesomde overheid één lid aanduidt, rekening houdend met de specifieke opdracht van de technische werkgroep.<br /><br />§ 2. Elke technische werkgroep rapporteert overeenkomstig de door het strategisch comité vastgestelde opdracht of richtlijnen, hetzij op regelmatige tijdstippen over de werkzaamheden aan het strategisch comité of telkens wanneer dit laatste comité daarom verzoekt.<br /><br />§ 3. De technische werkgroepen die in uitvoering van artikel 3, § 1 (a) en (b) van dit samenwerkingsakkoord worden opgericht kunnen, naast de in § 1 vermelde leden, eveneens een afgevaardigde van de gebeurlijk betrokken bevoegde Minister(s) en de onder diens bevoegdheid ressorterende overheidsinstantie(s) bevatten.<br /><br />
+...
 
 ## HOOFDSTUK III Slotbepalingen
 
@@ -74,16 +74,16 @@ De Partijen verbinden zich ertoe steeds de nodige organisatorische, technische e
 
 ### ART. 11.
 
-De bepalingen van art. 92bis, § 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen inzake geschillenbeslechting zijn van toepassing op onderhavig samenwerkingsakkoord.<br /><br />
+...
 
 ## Inwerkingtreding
 
 ### ART. 12.
 
-Dit samenwerkingsakkoord wordt volledig in de drie nationale talen in het Belgisch Staatsblad bekendgemaakt.<br /><br />Ten aanzien van de Partijen treedt het in werking na goedkeuring door al de betrokken Regeringen en ondertekening door de Partijen.<br /><br />
+...
 
 ## Duur
 
 ### ART. 13.
 
-Dit samenwerkingsakkoord wordt afgesloten voor de duur van vier jaar na ondertekening ervan door alle Partijen. Bij positieve beoordeling door het strategisch comité kan het samenwerkingsakkoord met dezelfde termijn verlengd worden.<br /><br />
+...
