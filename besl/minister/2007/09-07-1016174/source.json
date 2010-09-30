@@ -2,16 +2,16 @@
   "codex_id": 1016174,
   "title": "Ministerieel besluit van 2007-09-07 tot samenstelling van de pachtprijzencommissie van West-Vlaanderen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016174/VolledigDocument?datum=2007-09-28",
-  "source_sha256": "fc2d961bb2f14b64cfa5b6ca4f98a4ca2952808b42fc70d72aeb5b58ee6ba2c3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016174/VolledigDocument?datum=2010-09-30",
+  "source_sha256": "20337fe9ac3c9555787d670f8e0c5e767df7f7e1162d18e600a1cba5035e744c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016174&param=informatie",
-  "as_of": "2007-09-28",
+  "as_of": "2010-09-30",
   "made": "2007-09-07",
   "gazette": "2007-09-28",
   "numac": 2007036631,
   "document_start": "2007-09-28",
   "document_end": "2010-09-29",
-  "in_force": "2007-09-28",
+  "in_force": "2010-09-30",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2007-09-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-09-30; future article versions excluded; article text as the API gives it"
 }
