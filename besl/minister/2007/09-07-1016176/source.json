@@ -2,16 +2,16 @@
   "codex_id": 1016176,
   "title": "Ministerieel besluit van 2007-09-07 tot samenstelling van de pachtprijzencommissie van Vlaams-Brabant",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016176/VolledigDocument?datum=2007-09-28",
-  "source_sha256": "1d344f397935a1dd29e2084cbfe65ff0fc4609070c0711c0898a0d4c5f0b936f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016176/VolledigDocument?datum=2010-09-30",
+  "source_sha256": "813a935bae099301711d9b21fb076f99535923c1a949030941983b2543bf9386",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016176&param=informatie",
-  "as_of": "2007-09-28",
+  "as_of": "2010-09-30",
   "made": "2007-09-07",
   "gazette": "2007-09-28",
   "numac": 2007036633,
   "document_start": "2007-09-28",
   "document_end": "2010-09-29",
-  "in_force": "2007-09-28",
+  "in_force": "2010-09-30",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2007-09-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-09-30; future article versions excluded; article text as the API gives it"
 }
