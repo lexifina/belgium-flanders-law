@@ -2,16 +2,16 @@
   "codex_id": 1004148,
   "title": "Besluit van de Vlaamse Regering van 1995-12-20 tot uitvoering van sommige artikelen van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004148/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "052579d9bf25a64dddce54cbdc0c3ce82c94a3f69239bb14abf02790977fe138",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004148/VolledigDocument?datum=2010-10-01",
+  "source_sha256": "ae2bf76a74c72bd320ab1e2acad8015dc638d341d4f1625696b9645c3bbcb98c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004148&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2010-10-01",
   "made": "1995-12-20",
   "gazette": "1995-12-30",
   "numac": 1995036800,
   "document_start": "1996-01-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2010-10-01",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-10-01; future article versions excluded; article text as the API gives it"
 }
