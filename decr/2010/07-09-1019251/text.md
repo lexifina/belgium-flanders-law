@@ -240,6 +240,10 @@ Aan artikel 4, lid 3, van hetzelfde decreet wordt een punt 6° toegevoegd, dat l
 
 ## HOOFDSTUK XVII. Financiering van stages bij internationale organisaties
 
+### ART. 67.
+
+De Vlaamse Regering wordt gemachtigd om financiële tussenkomsten te verstrekken in het kader van stages bij internationale organisaties. Zij kan daartoe nadere voorwaarden bepalen.
+
 ## HOOFDSTUK XVIII. Strategische Adviesraad internationaal Vlaanderen
 
 ### ART. 68.
