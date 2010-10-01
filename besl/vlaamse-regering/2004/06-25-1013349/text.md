@@ -30,7 +30,7 @@
 
 ### ART. 6.
 
-§ 1. De bevoegde beoordelingscommissie of ad hoccommissie beoordeelt de artistiek-inhoudelijke aspecten van de ontvankelijke aanvraag tot subsidiëring en brengt daarover advies uit. De administratie beoordeelt de zakelijke en financiële aspecten van de ontvankelijke aanvraag tot subsidiëring en brengt daarover advies uit. Die beoordelingen gebeuren aan de hand van de relevante basisvoorwaarden en beoordelingscriteria, bepaald in artikel 7, 8 en 9, van het decreet.<br /><br />§ 2. De beoordelingscommissie of de ad hoccommissie en de administratie kunnen alle initiatieven nemen die ze nodig achten om de basisvoorwaarden, de beoordelingscriteria en de aanvullende beoordelingscriteria, bedoeld in artikel 7, 8 en 9 van het decreet, op adequate wijze te toetsen.<br /><br />§ 3. De schriftelijk gemotiveerde reactie van de aanvrager van een meerjarige subsidiëring tegen het voorontwerp van beslissing, bedoeld in artikel 85, 5°, van het decreet, moet per aangetekende brief of tegen ontvangstbewijs in drie exemplaren bij de administratie ingediend worden binnen tien werkdagen, te rekenen vanaf de datum waarop de administratie de aangetekende brief met de kennisgeving van dat voorontwerp verstuurde.<br /><br />§ 4. Als de Vlaamse regering beslist om bij een ontvankelijke aanvraag tot meerjarige subsidiëring een subsidiëring toe te kennen of te weigeren, dan stuurt de administratie binnen vijftien werkdagen, te rekenen vanaf de datum van het ondertekende besluit, een aangetekende brief naar de aanvrager met de kennisgeving van die beslissing.
+...
 
 ## ONDERAFDELING 2 BASISVOORWAARDEN EN CRITERIA
 

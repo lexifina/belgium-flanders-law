@@ -2,16 +2,16 @@
   "codex_id": 1013349,
   "title": "Besluit van de Vlaamse Regering van 2004-06-25 betreffende de uitvoering van het kunstendecreet van 2 april 2004",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013349/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "44b090f59ce1acb54ba04986f4898f1ee56840774b60407d76d5c1169ff0d903",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013349/VolledigDocument?datum=2010-10-01",
+  "source_sha256": "60741b086dcb2259b1031a53edd60fc60a8af968672cd5c81e0f371626d65278",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013349&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2010-10-01",
   "made": "2004-06-25",
   "gazette": "2004-08-25",
   "numac": 2004036332,
   "document_start": null,
   "document_end": "2010-09-30",
-  "in_force": "2010-01-01",
+  "in_force": "2010-10-01",
   "article_versions": 54,
-  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-10-01; future article versions excluded; article text as the API gives it"
 }
