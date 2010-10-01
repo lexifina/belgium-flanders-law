@@ -284,11 +284,11 @@ Het afdelingshoofd en de ambtenaren van de dienst heffingen van de afdeling Mest
 
 ### ART. 60.
 
-Voor de toepassing van dit hoofdstuk, wordt verstaan onder:<br />1° het referentielaboratorium: de laboratoria van de afdeling Leefmilieu van de Vlaamse Instelling voor Technologisch Onderzoek, (VITO);<br />2° analyse: staalnames in situ en/of ontledingen in het laboratorium;<br />3° erkenning: erkenning of proeferkenning voor het uitvoeren van analyses (in opdracht van de overheid of voor analyses in opdracht van andere opdrachtgevers) afgegeven ter uitvoering van dit besluit;<br />4° laboratorium: elk laboratorium dat zijn aanvraag voor erkenning indient bij de minister;<br />5° minister: de Vlaamse minister bevoegd voor Leefmilieu;<br />6° VLM: De Vlaamse Landmaatschappij.
+Voor de toepassing van dit hoofdstuk, wordt verstaan onder:<br />1° het referentielaboratorium: de laboratoria van de afdeling Leefmilieu van de Vlaamse Instelling voor Technologisch Onderzoek, (VITO);<br />2° analyse: staalnames in situ en/of ontledingen in het laboratorium;<br />3° erkenning: erkenning of proeferkenning voor het uitvoeren van analyses (in opdracht van de overheid of voor analyses in opdracht van andere opdrachtgevers) afgegeven ter uitvoering van dit besluit;<br />4° laboratorium: elk laboratorium dat zijn aanvraag voor erkenning indient bij de minister;<br />5° minister: de Vlaamse minister bevoegd voor Leefmilieu;<br />6° VLM: De Vlaamse Landmaatschappij;<br />7° het BAM : het Methodenboek met bemonsterings- en analysemethodes voor meststoffen, bodem en diervoeders in het kader van het Mestdecreet, vermeld in artikel 62, § 7, van het Mestdecreet van 22 december 2006, afgekort het Compendium Bemonsterings- en Analysemethodes in het kader van het Mestdecreet, dat als bijlage bij dit besluit is gevoegd.
 
 ### ART. 61.
 
-§ 1. Voor het uitvoeren van analyses op meststoffen en op andere stoffen zoals bedoeld in artikel 36 van het decreet, is een erkenning vereist, verleend door de minister.<br /><br />§ 2. Om deze erkenning te bekomen moeten de laboratoria voldoen aan de voorwaarden van organisatie en werking, zoals gesteld in dit hoofdstuk.<br /><br />§ 3. De monsterneming door laboratoria dient te gebeuren overeenkomstig de bepalingen beschreven in het Compendium Bemonsteringsprocedures in het kader van het mestdecreet.
+§ 1. Voor het uitvoeren van analyses op meststoffen en op andere stoffen zoals bedoeld in artikel 36 van het decreet, is een erkenning vereist, verleend door de minister.<br /><br />§ 2. Om deze erkenning te bekomen moeten de laboratoria voldoen aan de voorwaarden van organisatie en werking, zoals gesteld in dit hoofdstuk.
 
 ### ART. 62.
 
@@ -324,7 +324,7 @@ De erkende laboratoria moeten beantwoorden aan de hierna vermelde werkingscriter
 
 ### ART. 70.
 
-De laboratoria die erkend zijn voor analyses in het kader van dit besluit, beantwoorden aan de volgende specifieke criteria:<br />1° bij de analyseverrichtingen wordt de voorkeur gegeven aan achtereenvolgens referentiemethoden, genormaliseerde methoden, methoden die door het referentielaboratorium aanbevolen zijn en methoden die gepubliceerd worden door de in die materie onderlegde instellingen of laboratoria. Indien het laboratorium andere analysemethoden wenst te gebruiken dan de methoden toegepast in de erkenningsaanvraag, moet zij de gelijkwaardigheid aantonen. Bij niet gelijkwaardigheid mag de methode niet gebruikt worden;<br />2° alle ter zake dienende gegevens worden gedurende de analyse opgeschreven en blijven op dusdanige wijze bewaard dat een externe controle, zowel op het verloop van de verrichtingen als op de wijze waarop de resultaten verkregen werden, mogelijk is.<br />Die gegevens blijven gedurende ten minste vijf jaar bewaard en worden ter beschikking gehouden van de ambtenaren van de Mestbank en/of personeelsleden van het referentielaboratorium;<br />3° het laboratorium geeft een verslag af dat op zijn minst de volgende gegevens bevat:<br />a) de naam en de hoedanigheid van de persoon die de monsters genomen heeft en ze aan het laboratorium heeft toevertrouwd alsook de volledige identificatie van de monsters;<br />b) het analyseverslag dat de gebruikte methode en ook de resultaten van de metingen vermeldt.
+De laboratoria die erkend zijn voor analyses in het kader van dit besluit, beantwoorden aan de volgende specifieke criteria:<br />1° het erkend laboratorium moet voor alle staalnames en analyses ter uitvoering van het Mestdecreet van 22 december 2006, de bepalingen van het BAM naleven; <br />2° alle ter zake dienende gegevens worden gedurende de analyse opgeschreven en blijven op dusdanige wijze bewaard dat een externe controle, zowel op het verloop van de verrichtingen als op de wijze waarop de resultaten verkregen werden, mogelijk is.<br />Die gegevens blijven gedurende ten minste vijf jaar bewaard en worden ter beschikking gehouden van de ambtenaren van de Mestbank en/of personeelsleden van het referentielaboratorium;<br />3° het laboratorium geeft een verslag af dat op zijn minst de volgende gegevens bevat:<br />a) de naam en de hoedanigheid van de persoon die de monsters genomen heeft en ze aan het laboratorium heeft toevertrouwd alsook de volledige identificatie van de monsters;<br />b) het analyseverslag dat de gebruikte methode en ook de resultaten van de metingen vermeldt.
 
 ### ART. 71.
 
@@ -332,7 +332,7 @@ Als niet is voldaan aan één of meer voorwaarden bepaald in artikel 68 stellen 
 
 ### ART. 72.
 
-De minister kan de aan een laboratorium verleende erkenning geheel of gedeeltelijk intrekken:<br />1° wanneer bij controles fouten worden vastgesteld in de analyses, verricht op verzoek van opdrachtgevers en/of bij specifieke controles van de Mestbank en/of het referentielaboratorium;<br />2° wanneer bij controles vastgesteld wordt dat de bemonsteringsmethode afwijkt van de art. 54, § 3, opgenomen beschrijving;<br />3° wanneer niet meer voldaan is aan de uitrustingscriteria en voorwaarden, die bij de erkenning bepalend zijn geweest;<br />4° wanneer het niet of niet meer voldoet aan de bepaling opgenomen in art. 63 van dit besluit.<br />5° als het in zijn hoedanigheid van erkend laboratorium analyses levert waarvoor het niet werd erkend.<br /><br />De beslissing tot intrekking wordt met redenen omkleed. Ze wordt slechts genomen nadat het betrokken laboratorium is gehoord. De intrekking heeft uitwerking op de vijftiende dag volgend op de mededeling bij aangetekende brief van de intrekking.
+De minister kan de aan een laboratorium verleende erkenning geheel of gedeeltelijk intrekken:<br />1° wanneer bij controles fouten worden vastgesteld in de analyses, verricht op verzoek van opdrachtgevers en/of bij specifieke controles van de Mestbank en/of het referentielaboratorium;<br />2° als vastgesteld wordt dat het erkend laboratorium niet of niet meer voldoet aan de voorwaarden, vermeld in artikel 70;<br />3° wanneer niet meer voldaan is aan de uitrustingscriteria en voorwaarden, die bij de erkenning bepalend zijn geweest;<br />4° wanneer het niet of niet meer voldoet aan de bepaling opgenomen in art. 63 van dit besluit.<br />5° als het in zijn hoedanigheid van erkend laboratorium analyses levert waarvoor het niet werd erkend.<br /><br />De beslissing tot intrekking wordt met redenen omkleed. Ze wordt slechts genomen nadat het betrokken laboratorium is gehoord. De intrekking heeft uitwerking op de vijftiende dag volgend op de mededeling bij aangetekende brief van de intrekking.
 
 ### ART. 73.
 
@@ -361,3 +361,7 @@ Dit besluit treedt in werking op 1 januari 2000 en heeft betrekking op de produc
 De Vlaamse minister bevoegd voor het leefmilieu is belast met de uitvoering van dit besluit.
 
 ## [BIJLAGE (ing. BVR 16 juli 2010, art. 5)]
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2010/08/11_1.pdf#page=3" title=" Bijlage" target="_blank" class="pdf">Bijlage</a>
