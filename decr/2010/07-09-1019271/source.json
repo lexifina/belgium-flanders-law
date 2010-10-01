@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019271,
+  "title": "Decreet van 2010-07-09 tot wijziging van het decreet van 30 april 2004 tot uniformisering van de toezichts-, sanctie- en strafbepalingen die zijn opgenomen in de regelgeving van de sociaalrechtelijke aangelegenheden, waarvoor de Vlaamse Gemeenschap en het Vlaamse Gewest bevoegd zijn",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019271/VolledigDocument?datum=2010-10-01",
+  "source_sha256": "837a58772bf3f276981ab87f0ec2ae1152ba105ac616559f0ae07b7036e6a48d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019271&param=informatie",
+  "as_of": "2010-10-01",
+  "made": "2010-07-09",
+  "gazette": "2010-08-05",
+  "numac": 2010204019,
+  "document_start": "2010-10-01",
+  "document_end": null,
+  "in_force": "2010-10-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2010-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
