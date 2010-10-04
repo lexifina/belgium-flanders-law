@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019478,
+  "title": "Ministerieel besluit van 2010-05-26 betreffende de bepaling van het herkenningsteken van door de Vlaamse overheid erkend museum, door de Vlaamse overheid erkende culturele archiefinstelling en door de Vlaamse overheid erkende erfgoedbibliotheek",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019478/VolledigDocument?datum=2010-10-04",
+  "source_sha256": "8b173db19141367cfccbbf6ea23023e8a0726e7de117b56837a323d4fff111a4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019478&param=informatie",
+  "as_of": "2010-10-04",
+  "made": "2010-05-26",
+  "gazette": "2010-09-24",
+  "numac": 2010035683,
+  "document_start": "2010-10-04",
+  "document_end": null,
+  "in_force": "2010-10-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-10-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
