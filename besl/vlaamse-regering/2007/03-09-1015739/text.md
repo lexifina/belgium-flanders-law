@@ -614,7 +614,7 @@ Enkel de teelten vermeld in de hiernavolgende tabel, komen in aanmerking als eer
 
 ### ART. 9.
 
-§ 1. In uitvoering van artikel 14, § 3, van het Mestdecreet, wordt de waarde van de gemiddelde nitraatconcentratie dat als criterium geldt voor de afbakening van de risicogebieden :<br />1° voor oppervlaktewater bepaald op 50 mg nitraat per liter;<br />2° voor grondwater bepaald op 50 mg nitraat per liter.<br />3° voor de eutrofiëring van natuurlijke zoetwatermeren, andere zoetwatermassa's, estuaria, kustwater en zeewater het criterium dat vastgesteld wordt op basis van de leidraad van de Europese Commissie.<br /><br />§ 2. De risicogebieden, zoals vermeld in artikel 14 § 3 van het Mestdecreet zijn gebieden waar de gemiddelde nitraatconcentratie per jaar en per liter water hoger is dan de waarde vermeld in § 1. De risicogebieden oppervlaktewater zijn de gebieden, aangeduid op de kaart die als bijlage I bij dit besluit is gevoegd.<br /><br />De risicogebieden grondwater zijn de gebieden, die na verder wetenschappelijk onderzoek ondermeer met betrekking tot de procesfactor voor grondwater, voor 1 januari 2009 zullen aangeduid worden op een kaart die van toepassing zal zijn vanaf 1 januari 2009.<br /><br />De risicogebieden voor eutrofiëring van natuurlijke zoetwatermeren, andere zoetwatermassa's, estuaria, kustwater en zeewater zijn de gebieden die voor 1 januari 2009 op basis van de leidraad van de Europese Commissie aangeduid zullen worden op een kaart die van toepassing zal zijn vanaf 1 januari 2009.<br />
+§ 1. In uitvoering van artikel 14, § 3, van het Mestdecreet, wordt de waarde van de gemiddelde nitraatconcentratie dat als criterium geldt voor de afbakening van de risicogebieden :<br />1° voor oppervlaktewater bepaald op 50 mg nitraat per liter;<br />2° voor grondwater bepaald op 50 mg nitraat per liter.<br />3° voor de eutrofiëring van natuurlijke zoetwatermeren, andere zoetwatermassa's, estuaria, kustwater en zeewater het criterium dat vastgesteld wordt op basis van de leidraad van de Europese Commissie.<br /><br />§ 2. ...
 
 ### ART. 10.
 
@@ -1368,7 +1368,7 @@ De Vlaamse minister, bevoegd voor het Leefmilieu, is belast met de uitvoering va
 
 ### BIJLAGE I
 
-Kaart van de risicogebieden oppervlaktewater.<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2007/04/27_2.pdf#page=128" title=" Bijlage I" target="_blank" class="pdf">Bijlage I</a>
+...
 
 ## Bijlage II: Netto gemeentelijke productiedruk op basis van productiejaar 2005
 
