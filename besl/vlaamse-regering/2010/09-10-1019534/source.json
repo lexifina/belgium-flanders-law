@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019534,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-10 houdende de vaststelling van de herziening van de bekkenbeheerplannen IJzerbekken, Bekken van de Brugse Polders, Leiebekken en Bovenscheldebekken door de integratie van de West-Vlaamse deelbekkenbeheerplannen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019534/VolledigDocument?datum=2010-10-10",
+  "source_sha256": "de0693bd92a03c64c06c089b77fa2a9c18fe2393530dcfb136caeda88969c0c6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019534&param=informatie",
+  "as_of": "2010-10-10",
+  "made": "2010-09-10",
+  "gazette": "2010-09-30",
+  "numac": 2010035701,
+  "document_start": "2010-10-10",
+  "document_end": null,
+  "in_force": "2010-10-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-10-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
