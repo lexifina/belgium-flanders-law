@@ -2,16 +2,16 @@
   "codex_id": 1019547,
   "title": "Besluit van de Vlaamse Regering van 2010-09-10 tot wijziging van het besluit van de Vlaamse Regering van 14 december 2001 houdende vaststelling van het premiestelsel voor restauratiewerkzaamheden aan beschermde monumenten wat betreft meerjarige subsidiëringsovereenkomsten en wat betreft de premieberekening voor open-monumentenverenigingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019547/VolledigDocument?datum=2006-01-01",
-  "source_sha256": "84aaca15a63b8340480a5c1f40b452b80cfc0c9f74c1e4efd33f120618af691c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019547/VolledigDocument?datum=2010-10-15",
+  "source_sha256": "daffbc500e485495de2dfa37bed869c7bbd03139be4a5aaa9169e4141fff4d45",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019547&param=informatie",
-  "as_of": "2006-01-01",
+  "as_of": "2010-10-15",
   "made": "2010-09-10",
   "gazette": "2010-10-05",
   "numac": 2010035715,
   "document_start": "2010-10-15",
   "document_end": null,
-  "in_force": "2006-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-10-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2010-10-15; future article versions excluded; article text as the API gives it"
 }
