@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019548,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-10 houdende indeling bij de gemeentewegen van de oude tramzate met fietspad gelegen tussen Solleveld en de Kauwstraat op het grondgebied van de gemeente Herzele",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019548/VolledigDocument?datum=2010-10-15",
+  "source_sha256": "ff2f9dad919c44b6e3b4b06ffdee3647f2d1b3ebfccfa88af98a47c9108485df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019548&param=informatie",
+  "as_of": "2010-10-15",
+  "made": "2010-09-10",
+  "gazette": "2010-10-05",
+  "numac": 2010035689,
+  "document_start": "2010-10-15",
+  "document_end": null,
+  "in_force": "2010-10-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-10-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
