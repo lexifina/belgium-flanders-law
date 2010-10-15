@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019550,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-10 houdende indeling bij de gemeentewegen van het doodlopend gedeelte van de gewestweg N473 - Oude Bruglaan op het grondgebied van de stad Lokeren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019550/VolledigDocument?datum=2010-10-15",
+  "source_sha256": "b415f376c8fa3fb1f061c553a4b57fd5fcf51bfa365f1b5ce727ca40de5e6010",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019550&param=informatie",
+  "as_of": "2010-10-15",
+  "made": "2010-09-10",
+  "gazette": "2010-10-05",
+  "numac": 2010035691,
+  "document_start": "2010-10-15",
+  "document_end": null,
+  "in_force": "2010-10-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2010-10-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
