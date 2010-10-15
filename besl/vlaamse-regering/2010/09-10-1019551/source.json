@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019551,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-10 houdende indeling bij de gemeentewegen van de omgelegde Sint-Sebastiaanstraat over de E313 tussen kmp. 0,000 en kmp. 0,590 - inclusief de bovenbouw van de brug - op het grondgebied van de gemeente Lummen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019551/VolledigDocument?datum=2010-10-15",
+  "source_sha256": "5789d6f4cdd282ad471b1dc64ba2dbaac11ad62ed432819ffa4f1b11d4d91eb7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019551&param=informatie",
+  "as_of": "2010-10-15",
+  "made": "2010-09-10",
+  "gazette": "2010-10-05",
+  "numac": 2010035692,
+  "document_start": "2010-10-15",
+  "document_end": null,
+  "in_force": "2010-10-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2010-10-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
