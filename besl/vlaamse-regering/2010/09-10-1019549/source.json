@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019549,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-10 houdende indeling bij de gemeentewegen van de gewestweg N357 - Gravinnestraat, Oostrozebekestraat (tussen kmp. 10,374 en 10,677) en dienstweg N50 (lengte : 267 meter) op het grondgebied van de gemeente Ingelmunster",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019549/VolledigDocument?datum=2010-10-15",
+  "source_sha256": "de66449143f07f52bf0090d409f334b643b26d776faf22a8d85d5db39c8004f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019549&param=informatie",
+  "as_of": "2010-10-15",
+  "made": "2010-09-10",
+  "gazette": "2010-10-05",
+  "numac": 2010035690,
+  "document_start": "2010-10-15",
+  "document_end": null,
+  "in_force": "2010-10-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2010-10-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
