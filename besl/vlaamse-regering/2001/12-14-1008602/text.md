@@ -74,6 +74,38 @@ Wanneer volgens het agentschap het opdrachtgevend bestuur de opdracht niet toewi
 
 ## [AFDELING VI/1 VOORWAARDEN VOOR MEERJARIGE SUBSIDIERINGSOVEREENKOMSTEN (ing. BVR 10 september 2010, art. 1)]
 
+### ART. 14/1.
+
+De minister kan binnen de perken van de begroting van de Vlaamse Gemeenschap meerjarige subsidiëringsovereenkomsten sluiten als vermeld in artikel 11, § 8, tweede lid, van het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten.
+
+### ART. 14/2.
+
+Om in aanmerking te komen voor een meerjarige subsidiëringsovereenkomst, moet het project voldoen aan de volgende voorwaarden :<br />1°het project vereist een strikte uitvoeringstiming om (restauratie)werftechnische, budgettaire of organisatorische redenen;<br />2° het project heeft een gefaseerde uitvoeringstermijn van minstens drie jaar;<br />3° de kostenraming voor het project bedraagt minstens vijf miljoen euro;<br />4° het project voorziet in of verbetert de publieke toegankelijkheid van het monument of minstens een representatief deel ervan. Open monumenten, erkende musea, erkende toeristische verblijfplaatsen en openbare gebouwen worden beschouwd als publiek toegankelijke monumenten.
+
+### ART. 14/3.
+
+De premienemer dient een dossier in dat per gebouw minstens de volgende documenten bevat :<br />1° een kostenraming;<br />2° een financieel plan dat aangeeft hoe de restauratiewerkzaamheden gefinancierd zullen worden;<br />3° een toestandsrapport, meer bepaald een recente bouwfysische analyse;<br />4° een beheersplan dat een beeld geeft van de beoogde restauratie- en onderhoudswerkzaamheden op korte, middellange en lange termijn en dat prioriteiten aangeeft op basis van het toestandsrapport;<br />5° een op het beheersplan afgestemd faseringsplan, waarbij in voorkomend geval de werkzaamheden aan verschillende gebouwen op elkaar worden afgestemd;<br />6° een rapport over de publieke toegankelijkheid voor, tijdens en na de restauratiewerkzaamheden en over de eventuele bestemming of herbestemming.
+
+### ART. 14/4.
+
+De minister kan de volgende elementen in aanmerking nemen bij de beoordeling van het project :<br />1° proportionaliteit tussen de gevraagde middelen en het beoogde doel;<br />2° maatschappelijk belang van het project;<br />3° innovatieve methodieken en materialen;<br />4° duurzaamheid van methodieken en materialen;<br />5° geplande toegankelijkheid voor mindervaliden en andere doelgroepen;<br />6° samenwerkingsgraad met relevante partners;<br />7° erkenning van het monument als UNESCO-werelderfgoed of daartoe opgenomen in de indicatieve lijst;<br />8° toekenning van een Europees erfgoedlabel of voordracht om daarvoor in aanmerking te komen;<br />9° erkenning als museum of toeristische infrastructuur;<br />10° band met cultuurgoederen die integrerend deel uitmaken van het beschermde monument en die behoren tot het roerend cultureel erfgoed van uitzonderlijk belang;<br />11° cofinanciering met dwingende voorwaarden.
+
+### ART. 14/5.
+
+De minister kan in de meerjarige subsidiëringsovereenkomst onder andere voorwaarden opleggen met betrekking tot :<br />1° rapportering over de voortgang van de restauratiewerkzaamheden;<br />2° publieke toegankelijkheid tijdens en na de uitvoering van de restauratiewerkzaamheden;<br />3° uitvoering van het beheersplan.
+
+### ART. 14/6.
+
+In de meerjarige subsidiëringsovereenkomst worden de fasering en de duurtijd van het overheidsengagement vastgelegd.
+
+### ART. 14/7.
+
+Voor elke meerjarige subsidiëringsovereenkomst wordt maximaal één restauratiepremie per jaar toegekend.
+
+### ART. 14/8.
+
+De restauratiepremies worden toegekend conform de andere artikelen van dit besluit. De premienemer dient daarvoor een dossier in overeenkomstig artikel 6.
+
 ## HOOFDSTUK III PRIVÉ-SECTOR
 
 ## AFDELING 1 DE GEWONE RESTAURATIEPREMIE
