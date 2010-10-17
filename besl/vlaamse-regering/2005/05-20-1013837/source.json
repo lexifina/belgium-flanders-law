@@ -2,16 +2,16 @@
   "codex_id": 1013837,
   "title": "Besluit van de Vlaamse Regering van 2005-05-20 houdende de vaststelling van de toegang tot het GRB en de voorwaarden voor het gebruik van de in het GRB opgenomen grootschalige referentiegegevens, voor wat betreft de deelnemers aan GIS-Vlaanderen en de netbeheerders van fysieke leidingnetten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013837/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f26cb4fd70d8f260b391e1ec2874c3a0c72ccdbb0448988572a2e3d4efd6bacf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013837/VolledigDocument?datum=2010-10-17",
+  "source_sha256": "e172db7c1fe83cc989cb1acf57b99ad2c20f0b1c5367dec98b0c9a76badae1d0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013837&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2010-10-17",
   "made": "2005-05-20",
   "gazette": "2005-06-28",
   "numac": 2005035736,
   "document_start": null,
   "document_end": "2010-10-16",
-  "in_force": "2006-06-01",
+  "in_force": "2010-10-17",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-10-17; future article versions excluded; article text as the API gives it"
 }
