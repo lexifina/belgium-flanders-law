@@ -2,16 +2,16 @@
   "codex_id": 1013174,
   "title": "Decreet van 2004-04-16 houdende het Grootschalig Referentie Bestand (GRB)",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013174/VolledigDocument?datum=2009-07-14",
-  "source_sha256": "8d46f9125165bc454275d469f4e68d57ec37edd5933fae429ceec7c8e1dfb5a8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013174/VolledigDocument?datum=2010-10-17",
+  "source_sha256": "0a7bfe538e8c2aff1dfaad1cd8027eb0f5757dbb2f15bf48a739fdcfa97ffa9f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013174&param=informatie",
-  "as_of": "2009-07-14",
+  "as_of": "2010-10-17",
   "made": "2004-04-16",
   "gazette": "2004-07-05",
   "numac": 2004036019,
   "document_start": "2004-07-15",
   "document_end": null,
-  "in_force": "2009-07-14",
+  "in_force": "2010-10-17",
   "article_versions": 47,
-  "record_form": "consolidated version as in force on 2009-07-14; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-10-17; future article versions excluded; article text as the API gives it"
 }
