@@ -122,7 +122,7 @@ Aan artikel 3, § 2, tweede lid, van het decreet van 16 april 2004 houdende het 
 
 ### ART. 23.
 
-Aan artikel 14 van hetzelfde decreet, gewijzigd bij het decreet van 21 april 2006, worden de volgende zinnen toegevoegd :<br /><br />« Het Agentschap is een instantie als vermeld in artikel 4, § 1, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. Het GRB is een authentieke gegevensbron als vermeld in artikel 4 van het voormelde decreet. ».
+...
 
 ## Afdeling V. Wijziging in het decreet van 7 mei 2004 houdende de oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap « Agentschap voor Geografische Informatie Vlaanderen »
 
@@ -150,7 +150,7 @@ In artikel 23, § 2, eerste lid, artikel 25, tweede lid, artikel 27, § 2, tweed
 
 ### ART. 28.
 
-Aan artikel 3 van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten wordt een vierde lid toegevoegd, dat luidt als volgt :<br /><br />« Het Agentschap voor Geografische Informatie Vlaanderen is een instantie als vermeld in artikel 4, § 1, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. Het geografisch themabestand Vlaamse voorkooprechten' is een authentieke gegevensbron als vermeld in artikel 4 van het voormelde decreet. ».
+...
 
 ## HOOFDSTUK VI. Slotbepalingen
 
