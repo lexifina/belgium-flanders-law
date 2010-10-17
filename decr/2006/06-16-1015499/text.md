@@ -44,7 +44,7 @@ Het financieel beheer van de Vlaamse Grondenbank is gescheiden van het algemeen 
 
 ### ART. 8.
 
-§ 1. Het AGIV bouwt het centraal informatiesysteem uit als onderdeel van de Gronddatabank, zoals bepaald in artikel 2, 5° van het decreet van 17 juli 2000 houdende het Geografisch Informatiesysteem Vlaanderen.<br /><br />§ 2. De Vlaamse Grondenbank is belast met het ontwikkelen, beheren en openstellen van een elektronisch loket met betrekking tot alle bestaande en toekomstige decretale rechten van voorkoop en koopplichten.<br /><br />§ 3. De toegang tot de informatie opgenomen in het centraal informatiesysteem is gratis.<br /><br />§ 4. De Vlaamse Regering kan nadere regels stellen betreffende de uitvoering van dit artikel.<br /><br />
+§ 1. Het AGIV bouwt het centraal informatiesysteem uit als onderdeel van de GDI, zoals bepaald in artikel 3, 8°, van het GDI-decreet. <br /><br />§ 2. De Vlaamse Grondenbank is belast met de ontwikkeling, het beheer en het openstellen van het e-voorkooploket, zoals bepaald in artikel 4 van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten.<br /><br />§ 3. De toegang tot de informatie opgenomen in het centraal informatiesysteem is gratis.<br /><br />§ 4. De Vlaamse Regering kan nadere regels stellen betreffende de uitvoering van dit artikel.<br /><br />
 
 ## HOOFDSTUK II INFORMATIEVERPLICHTINGEN
 
