@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019560,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-10 tot wijziging van het besluit van de Vlaamse Regering van 1 oktober 2004 houdende vaststelling van een gewestelijke stedenbouwkundige verordening inzake hemelwaterputten, infiltratievoorzieningen, buffervoorzieningen en gescheiden lozing van afvalwater en hemelwater",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019560/VolledigDocument?datum=2010-10-17",
+  "source_sha256": "9e6cac5d4890a7eed3bed2e198f8d045f1f0040fb26574e0a5148abf8f669c7a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019560&param=informatie",
+  "as_of": "2010-10-17",
+  "made": "2010-09-10",
+  "gazette": "2010-10-07",
+  "numac": 2010205072,
+  "document_start": "2010-10-17",
+  "document_end": null,
+  "in_force": "2010-10-17",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-10-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
