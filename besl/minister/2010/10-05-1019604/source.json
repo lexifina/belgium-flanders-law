@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019604,
+  "title": "Ministerieel besluit van 2010-10-05 tot bepaling van de standaard voor de titel van datarapporteerder",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019604/VolledigDocument?datum=2010-10-26",
+  "source_sha256": "466cb26927857ad8352d93155a720628f604b9bc58a0162abab15ae49c36a2fd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019604&param=informatie",
+  "as_of": "2010-10-26",
+  "made": "2010-10-05",
+  "gazette": "2010-10-26",
+  "numac": 2010205343,
+  "document_start": "2010-10-26",
+  "document_end": "2018-12-31",
+  "in_force": "2010-10-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-10-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
