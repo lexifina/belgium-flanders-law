@@ -28,6 +28,10 @@ Het steunbedrag wordt berekend overeenkomstig artikel 2decies van het besluit va
 
 Overeenkomstig artikel 50, lid 1, van Verordening (EG) nr. 1122/2009 onderwerpt de bevoegde entiteit minstens 1 % van de landbouwers die een steunaanvraag indienen aan controles op de naleving van de randvoorwaarden. <br /><br />Overeenkomstig artikel 30, lid 2, e), van Verordening (EG) nr. 1122/2009 controleert de bevoegde entiteit 10 % van de derde instanties waar een beroep op gedaan wordt. Overeenkomstig artikel 69 van voormelde verordening sluit de bevoegde entiteit bij vaststelling van een grove nalatigheid of het met opzet doorgeven van foute gegevens de derde instantie minstens een jaar uit van dienstverlening.
 
+### ART. 7.
+
+Overtredingen van de bepalingen van dit besluit worden opgespoord, vastgesteld en bestraft overeenkomstig de bepalingen van de wet van 28 maart 1975 betreffende de handel in landbouw-, tuinbouw- en zeevisserijproducten.
+
 ### ART. 8.
 
 Dit besluit heeft uitwerking met ingang van 1 januari 2010, met uitzondering van artikel 7 dat in werking treedt de dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad.
