@@ -1,0 +1,127 @@
+# Besluit van de Vlaamse Regering van 2010-09-10 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de preventieve en de ambulante gezondheidszorg
+
+### Aanhef.
+
+De Vlaamse Regering,<br />Gelet op het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden, artikel 6, § 1, en artikel 10, gewijzigd bij het decreet van 16 maart 1999;<br />Gelet op het besluit van de Vlaamse Regering van 8 juni 1999 tot vaststelling van de totale investeringssubsidie en de bouwtechnische normen voor de preventieve en de ambulante gezondheidszorg;<br /><br />Gelet op het besluit van de Vlaamse Regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 17 juni 2010; <br /><br />Gelet op advies nr. 48.490/3 van de Raad van State, gegeven op 12 juli 2010, met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;<br /><br />Op voorstel van de Vlaamse minister van Welzijn, Volksgezondheid en Gezin; <br /><br />Na beraadslaging,<br /><br />Besluit :
+
+## HOOFDSTUK 1. Definities
+
+### ART. 1.
+
+Artikel 1. In dit besluit wordt verstaan onder : <br />1° aanloopadres inzake beschut wonen : een geheel van lokalen ten behoeve van een door de Vlaamse Gemeenschap erkend samenwerkingsverband voor de oprichting en het beheer van initiatieven van beschut wonen waar minstens ruimte is voor vergaderingen, voor individuele gesprekken en groepsgesprekken, voor dagactiviteiten met het oog op ontspanning en vorming, en voor administratie;<br />2° centrum voor geestelijke gezondheidszorg : een door de Vlaamse Gemeenschap erkend centrum voor geestelijke gezondheidszorg als vermeld in het decreet betreffende de geestelijke gezondheidszorg;<br />3° consultatiebureau voor respiratoire aandoeningen : een voorziening die bestaat uit een geheel van lokalen voor preventieve gezondheidszorg waar de profylaxe en de preventie van besmettelijke respiratoire aandoeningen en rookstopbegeleiding georganiseerd wordt, al of niet met een mobiele eenheid voor de RX-screening;<br />4° sector van de preventieve en de ambulante gezondheidszorg : de aanloopadressen inzake beschut wonen, de centra voor geestelijke gezondheidszorg, de consultatiebureaus voor respiratoire aandoeningen en de wijkgezondheidscentra;<br />5° wijkgezondheidscentrum : een voorziening met een geheel van lokalen waar eerstelijnsgezondheidszorg en gezondheidspromotie worden georganiseerd die gericht zijn op de bevolking van een geografisch omschreven gebied, met lage drempel en voldoende bereikbaarheid en waar een georganiseerde samenwerking is tussen ten minste huisartsengeneeskunde, een paramedische discipline en een discipline van maatschappelijk werk.
+
+## HOOFDSTUK 2. Bouwtechnische en bouwfysische normen
+
+### ART. 2.
+
+De infrastructuur met een functionele bestemming in de sector van de preventieve en de ambulante gezondheidszorg moet voldoen aan de volgende algemene bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen : <br />1° de regelgeving over de brandveiligheid;<br />2° de regelgeving over de toegang van gehandicapten tot gebouwen die toegankelijk zijn voor het publiek;<br />3° de regelgeving over de eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat voor gebouwen en tot invoering van een energieprestatiecertificaat;<br />4° het algemeen reglement inzake elektrische installaties;<br />5° de typebestekken, opgesteld door het Vlaams Ministerie van Mobiliteit en Openbare Werken;<br />6° de regelgeving over de stedenbouw en de ruimtelijke ordening;<br />7° de regelgeving over de milieuvergunningen;<br />8° de regelgeving houdende integratie van kunstwerken in gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot de Vlaamse Gemeenschap behoren.
+
+### ART. 3.
+
+De infrastructuur van een consultatiebureau voor respiratoire aandoeningen moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen : <br />1° een consultatiebureau voor respiratoire aandoeningen bestaat uit de hieronder vermelde lokalen, waarbij de opgegeven nuttige vloeroppervlakten minima zijn : <br />a) een wachtkamer met een goede natuurlijke verluchting en verlichting. De oppervlakte van de wachtkamer moet aangepast zijn aan het aantal onderzoeken;<br />b) een radiografielokaal van 14 m2 met elektriciteitsleidingen die aangepast zijn aan het grote verbruik van de apparatuur. Het radiografielokaal moet voldoende beveiliging bieden tegen radioactieve stralen, zowel voor verpleegkundigen als voor patiënten en bezoekers. Tevens is er koeling voorzien voor de tuberculine;<br />c) een aangepast lokaal voor de ontwikkeling van foto's, als de foto's op analoge wijze ontwikkeld worden;<br />d) één of meer kleedhokjes, waarvan er minstens één hokje aangepast is voor het gebruik door rolstoelgebruikers of door ouders met een kind;<br />e) een archiefruimte;<br />f) voldoende sanitair voor zowel bezoekers als personeel;<br />2° een consultatiebureau voor respiratoire aandoeningen waaraan een mobiele eenheid verbonden is, beschikt bovendien over de hieronder vermelde lokalen, waarbij de opgegeven nuttige vloeroppervlakten minima zijn : <br />a) een bureauruimte van 10 m2 voor de coördinatie van de onderzoeken;<br />b) een garage voor twee grote voertuigen;<br />c) een rustruimte van 10 m2 voor de chauffeurs;<br />d) een vergaderruimte van 20 m2.
+
+### ART. 4.
+
+De infrastructuur van een centrum voor geestelijke gezondheidszorg moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen : <br />1° een centrum voor geestelijke gezondheidszorg of een vestiging van een centrum voor geestelijke gezondheidszorg moet gemakkelijk toegankelijk zijn en bereikbaar zijn, onder meer met het openbaar vervoer;<br />2° de lokalen waarin consulten met patiënten plaatsvinden, moeten voldoende geïsoleerd zijn tegen het geluid;<br />3° de basisinfrastructuur van een centrum voor geestelijke gezondheidszorg bestaat uit de hieronder vermelde lokalen, waarbij de opgegeven nuttige vloeroppervlakten minima zijn : <br />a) een wachtkamer van 10 m2. Als er zorg aan minderjarigen verstrekt wordt, is een afzonderlijke aangepaste wachtruimte nodig;<br />b) een secretariaat van 20 m2;<br />c) een multifunctionele ruimte voor extern gebruik van 25 m2;<br />d) een multifunctionele ruimte voor intern gebruik van 20 m2;<br />e) een archief van 10 m2;<br />f) een berging van 5 m2;<br />g) sanitair van 10 m2, met gescheiden wc voor mannen en vrouwen;<br />h) als in het centrum speltherapie voor kinderen of ergotherapie voor volwassen wordt georganiseerd, is daarvoor telkens een aangepaste ruimte van 20 m2 nodig;<br />i) voldoende bureauruimte voor de psychiatrische, de psychologische, de agogische en de sociale functies, met een minimumoppervlakte van 16 m2 per lokaal.
+
+### ART. 5.
+
+De infrastructuur van een wijkgezondheidscentrum moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen : <br />1° een wijkgezondheidscentrum moet gemakkelijk toegankelijk zijn en bereikbaar zijn, onder meer met het openbaar vervoer;<br />2° de disciplinegebonden lokalen waarin de disciplines worden uitgeoefend, moeten voldoende geïsoleerd zijn tegen geluid;<br />3° de basisinfrastructuur van een wijkgezondheidscentrum bestaat uit de hieronder vermelde lokalen, waarbij de opgegeven nuttige vloeroppervlakten minima zijn : <br />a) algemene lokalen : <br />1) een wachtruimte van 10 m2;<br />2) een secretariaat van 20 m2;<br />3) een archief en berging van samen 10 m2;<br />4) een sanitair voor de patiënten en een afzonderlijk sanitair voor het personeel, van samen minimum 10 m2;<br />5) een vergaderlokaal van 25 m2;<br />b) voldoende, in verhouding tot het aantal ingeschreven patiënten, disciplinegebonden lokalen waarin de disciplines worden uitgeoefend, om de nodige kwaliteitsvolle zorg- en dienstverlening te kunnen bieden. Die lokalen zijn ingericht volgens de noodzakelijkheden van de aangeboden disciplines. In geval van nieuwbouw gaat men uit van het aantal te verwachten inschrijvingen.
+
+### ART. 6.
+
+De infrastructuur van een aanloopadres inzake beschut wonen moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen : <br />1° het aanloopadres inzake beschut wonen moet gemakkelijk toegankelijk zijn en bereikbaar zijn, onder meer met het openbaar vervoer;<br />2° het aanloopadres inzake beschut wonen moet in de lokale leefgemeenschap gelokaliseerd zijn en in elk geval op voldoende ruime afstand van het ziekenhuis dat deel uitmaakt van het samenwerkingsverband voor de oprichting en het beheer van initiatieven van beschut wonen, zodat er zeker geen rechtstreekse toegang mogelijk is vanuit het aanloopadres inzake beschut wonen naar het domein waarop het ziekenhuis gevestigd is;<br />3° de lokalen waarin individuele gesprekken en teamvergaderingen plaatsvinden, moeten voldoende geïsoleerd zijn tegen geluid;<br />4° de basisinfrastructuur van een aanloopadres inzake beschut wonen bestaat uit de hieronder vermelde lokalen, waarbij de opgegeven nuttige vloeroppervlakten minima zijn : <br />a) een secretariaat van 20 m2;<br />b) een multifunctionele ruimte van 25 m2;<br />c) een archief- of bergruimte van 5 m2;<br />d) een sanitair van 5 m2.
+
+### ART. 7.
+
+De bouwfysische normen, vermeld in artikel 2 tot en met 6, gelden met behoud van de toepassing van de wetgeving over veiligheid, hygiëne, comfort en bescherming van de arbeid.
+
+## HOOFDSTUK 3. Bijzondere uitrusting
+
+### ART. 8.
+
+Een radiografietoestel behoort tot de bijzondere uitrusting van een consultatiebureau voor respiratoire aandoeningen en komt in aanmerking voor een investeringssubsidie.
+
+### ART. 9.
+
+Een voertuig met een vast radiografietoestel en een voertuig met een verplaatsbaar radiografietoestel behoren tot de bijzondere uitrusting van een consultatiebureau voor respiratoire aandoeningen waaraan de mobiele eenheid verbonden is en komen in aanmerking voor een investeringssubsidie.
+
+## HOOFDSTUK 4. Subsidiabele oppervlakte
+
+### ART. 10.
+
+§ 1. In dit artikel wordt verstaan onder subsidiabele oppervlakte : de som van de per bouwlaag berekende nuttige vloeroppervlakte, buitenmuren inbegrepen, die in aanmerking wordt genomen voor subsidiëring.<br /><br />§ 2. De subsidiabele oppervlakte bedraagt maximaal : <br />1° voor een consultatiebureau voor respiratoire aandoeningen waaraan geen mobiele eenheid verbonden is : 180 m2;<br />2° voor een consultatiebureau voor respiratoire aandoeningen waaraan een mobiele eenheid verbonden is : 250 m2;<br />3° voor een centrum voor geestelijke gezondheidszorg : 50 m2 per tegelijk aanwezige fysieke persoon. Het aantal tegelijk aanwezige fysieke personen wordt berekend door het aantal voltijds equivalenten die de Vlaamse Gemeenschap via enveloppefinanciering bezoldigt, te vermenigvuldigen met 1,64. Het aantal voltijds equivalenten die de Vlaamse Gemeenschap via enveloppefinanciering bezoldigt, wordt bepaald door 90 % van de jaarlijkse enveloppe van het concrete centrum voor geestelijke gezondheidszorg te delen door de gemiddelde jaarlijkse loonkosten van alle centra voor geestelijke gezondheidszorg. Voor de berekening van de gemiddelde jaarlijkse loonkosten van alle centra voor geestelijke gezondheidszorg wordt rekening gehouden met een gemiddelde anciënniteit van 16 jaar en met de volgende barema's : <br />a) barema 1.80 voor de helft van het personeel;<br />b) barema 1.55 voor een derde van het personeel;<br />c) barema 1.39 voor een zesde van het personeel;<br />4° voor een wijkgezondheidscentrum dat in het tweetalige gebied Brussel-Hoofdstad ligt of in een grootstad als vermeld in artikel 4 van het decreet van 13 december 2002 tot vaststelling van de regels inzake de werking en de verdeling van het Vlaams Stedenfonds : 600 m2;<br />5° voor een wijkgezondheidscentrum dat niet in het tweetalige gebied Brussel-Hoofdstad ligt of in een grootstad als vermeld in artikel 4 van het decreet van 13 december 2002 tot vaststelling van de regels inzake de werking en de verdeling van het Vlaams Stedenfonds : 450 m2;<br /><br />Een aanloopadres inzake beschut wonen komt pas voor subsidiëring in aanmerking als het aanloopadres minstens 15 erkende plaatsen voor beschut wonen omvat. De maximale subsidiabele oppervlakte bedraagt dan 50 m2. Voor het aanloopadres inzake beschut wonen dat meer dan 25 erkende plaatsen voor beschut wonen omvat, wordt de maximale subsidiabele oppervlakte van 50 m2 verhoogd met maximaal 2 m2 per erkende plaats boven 25, met een maximale subsidiabele oppervlakte van 400 m2 per aanloopadres inzake beschut wonen.<br /><br />§ 3. Bij uitbreiding van oppervlakte komt alleen de nieuw gebouwde of de aangekochte oppervlakte die samen met de oppervlakte van het behouden gedeelte van het bestaande gebouw de maximale subsidiabele oppervlakte, vermeld in paragraaf 2, niet overschrijdt, voor subsidiëring in aanmerking.<br /><br />§ 4. Van de maximale subsidiabele oppervlakte, vermeld in paragraaf 2 en 3, kan alleen op gemotiveerd verzoek afgeweken worden bij verbouwing of uitbreiding, voor zover de erkennings- en exploitatievoorwaarden dat vereisen.
+
+## HOOFDSTUK 5. Investeringssubsidie
+
+### ART. 11.
+
+§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw, uitrusting en meubilering inbegrepen, is voor de sector van de preventieve en de ambulante gezondheidszorg vastgesteld op 550 euro per m2.<br /><br />§ 2. Bij de subsidiebelofte wordt de investeringssubsidie als volgt verdeeld : <br />1° ruwbouw : 35 %;<br />2° technische uitrusting : 25 %;<br />3° afwerking : 30 %;<br />4° uitrusting en meubilering : 10 %.<br /><br />De Vlaamse minister, bevoegd voor het gezondheidsbeleid, kan de percentages aanpassen tot maximaal de volgende percentages bij de verdeling : <br />1° ruwbouw : 45 %;<br />2° technische uitrusting : 35 %;<br />3° afwerking : 40 %;<br />4° uitrusting en meubilering : 20 %.
+
+### ART. 12.
+
+§ 1. Het basisbedrag van de investeringssubsidie voor uitbreiding is voor de sector van de preventieve en de ambulante gezondheidszorg vastgesteld op 500 euro per m2.<br /><br />§ 2. Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij uitbreiding is voor de sector van de preventieve en de ambulante gezondheidszorg vastgesteld op 60 % van de goedgekeurde raming. Dat basisbedrag wordt, als dat nodig is, verminderd op basis van de eindafrekening.<br /><br />De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br /><br />§ 3. De totale som van het basisbedrag van de investeringssubsidie voor uitbreiding, vermeld in paragraaf 1 en 2, kan niet hoger zijn dan het basisbedrag van de investeringssubsidie voor nieuwbouw, vermeld in artikel 11.
+
+### ART. 13.
+
+§ 1. Het basisbedrag van de investeringssubsidie voor verbouwingswerken is vastgesteld op 60 % van de goedgekeurde raming. Dat basisbedrag wordt, als dat nodig is, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br /><br />§ 2. Het basisbedrag van de totale investeringssubsidie voor verbouwingswerken mag ten hoogste 75 % bedragen van het basisbedrag van de investeringssubsidie voor uitbreiding, vermeld in artikel 12, § 1.<br /><br />§ 3. Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij verbouwing is vastgesteld op 60 % van de goedgekeurde raming, tot maximaal 50 euro per m2. Dat basisbedrag wordt, als dat nodig is, verminderd op basis van de eindafrekening.<br /><br />De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.
+
+### ART. 14.
+
+Het basisbedrag van de investeringssubsidie voor aankoop en de noodzakelijk bijbehorende verbouwing, uitrusting en meubilering inbegrepen, bedraagt maximaal 75 % van het basisbedrag van de investeringssubsidie, vermeld in artikel 11. Als het gebouw dat het voorwerp uitmaakt van de aankoop, in het tweetalige gebied Brussel-Hoofdstad ligt of in een grootstad of centrumstad als vermeld in artikel 4 van het decreet van 13 december 2002 tot vaststelling van de regels inzake de werking en de verdeling van het Vlaams Stedenfonds, bedraagt het basisbedrag van de investeringssubsidie voor aankoop en de noodzakelijk bijbehorende verbouwing, uitrusting en meubilering inbegrepen, maximaal 100 % van het basisbedrag van de investeringssubsidie, vermeld in artikel 11.<br /><br />Voor de aankoop kan ten hoogste 60 % van de som van de door het comité van aankoop geschatte venale waarde van het gebouw en de aan de aankoop verbonden en bewezen notariskosten en registratierechten of btw in aanmerking komen voor de investeringssubsidie.
+
+### ART. 15.
+
+Er kan in een periode van twintig jaar na de ingebruikname van een door het Fonds of zijn rechtsvoorgangers gesubsidieerde investering van nieuwbouw, van uitbreiding, van aankoop met verbouwing of van verbouwing geen investeringssubsidie worden verkregen voor hetzelfde deel van de geplande infrastructuur zoals die in het masterplan omschreven wordt, ongeacht de sector van de persoonsgebonden aangelegenheden waarin de subsidie is verkregen. Alleen als een verbouwing noodzakelijk wordt wegens gewijzigde regelgeving of wegens gewijzigde en opgelegde veiligheidsvoorschriften, kan binnen die periode een investeringssubsidie voor verbouwing worden verkregen.
+
+### ART. 16.
+
+Het basisbedrag van de investeringssubsidie voor de bijzondere uitrusting, vermeld in artikelen 8 en 9, bedraagt 60 % van de goedgekeurde raming. Dat basisbedrag wordt, als dat nodig is, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br /><br />Het basisbedrag van de investeringssubsidie voor meubilering en uitrusting die afzonderlijk en in het bijzonder moeten worden aangeschaft, bedraagt 60 % van de goedgekeurde raming. Dat basisbedrag wordt, als dat nodig is, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.
+
+### ART. 17.
+
+De bedragen, vermeld in artikel 11, 12 en 13, worden jaarlijks op 1 januari aangepast aan de bouwindex. De basisindex is die van 1 januari 1994.<br /><br />De aanpassing, vermeld in het eerste lid, wordt doorgevoerd aan de hand van de actualisatieformule 0,40 s/S + 0,40 i/I + 0,20, waarbij : <br />1° s : het officiële loon in de bouwnijverheid voor categorie 2A, dat van kracht is op 1 januari van het jaar in kwestie;<br />2° S : 19,885;<br />3° i : de index van de bouwmaterialen die van kracht is op 1 november voorafgaand aan het jaar in kwestie;<br />4° I : 3627.
+
+### ART. 18.
+
+Behalve voor de aankoop omvat de investeringssubsidie, naast het bedrag dat exclusief btw wordt vastgesteld met toepassing van artikelen 11, 12, 13, 14 en 16, een subsidie voor de btw tegen het geldende tarief en voor de algemene onkosten tegen 10 % . De totale investeringssubsidie wordt als volgt berekend : basisbedrag + geldende btw op het basisbedrag + algemene onkosten à 10 % op het basisbedrag + geldende btw op de algemene onkosten.
+
+## HOOFDSTUK 6. Specifieke subsidiëringsvoorwaarden voor de wijkgezondheidscentra
+
+### ART. 19.
+
+Om voor een investeringssubsidie in aanmerking te komen moeten de wijkgezondheidscentra tevens voldoen aan de voorwaarden, vermeld in artikel 20 tot en met 22.
+
+### ART. 20.
+
+De geneeskundige en paramedische prestaties worden verleend op basis van een systeem van forfaitaire betalingen als vermeld in artikelen 52, § 1, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994.
+
+### ART. 21.
+
+Het wijkgezondheidscentrum waakt erover dat in het bijzonder de meest kwetsbare groepen gelijke kansen op en gelijke toegang tot de gezondheidszorg krijgen. Om dat aan te tonen moet het wijkgezondheidscentrum, met betrekking tot de ingeschreven patiënten, beantwoorden aan het criterium, vermeld in het tweede lid.<br /><br />De verhouding van rechthebbenden en gerechtigden met verhoogde verzekeringstegemoetkoming als vermeld in artikel 37 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, ten opzichte van het totale aantal bij het wijkgezondheidscentrum ingeschreven rechthebbenden en gerechtigden, moet hoger liggen dan het landelijk gemiddelde voor de verplichte ziekte- en invaliditeitsverzekering, na standaardisering voor leeftijd en geslacht.
+
+### ART. 22.
+
+Elk jaar brengt het wijkgezondheidscentrum verslag uit bij het intern verzelfstandigd agentschap Zorg en Gezondheid over het beantwoorden aan de voorwaarden, vermeld in artikelen 20 en 21.<br>
+<br>
+Als het intern verzelfstandigd agentschap Zorg en Gezondheid vaststelt dat niet meer voldaan wordt aan één of meer van de voorwaarden in dit hoofdstuk, wordt dat beschouwd als een bestemmingswijziging als vermeld in artikel 41, § 2,&nbsp;van het besluit van de Vlaamse Regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden.
+
+## HOOFDSTUK 7. Wijzigingsbepaling
+
+### ART. 23.
+
+In artikel 15, 5°, van het besluit van de Vlaamse Regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden, ingevoegd bij het besluit van de Vlaamse Regering van 30 mei 2008 en gewijzigd bij de besluiten van de Vlaamse Regering van 19 juni 2009, 24 juli 2009, 18 juni 2010 en 16 juli 2010, wordt punt f) vervangen door wat volgt : <br /><br />"f) artikel 15 van het besluit van de Vlaamse Regering van 10 september 2010 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de preventieve en de ambulante gezondheidszorg;".
+
+## HOOFDSTUK 8. Slotbepalingen
+
+### ART. 24.
+
+Het besluit van de Vlaamse Regering van 8 juni 1999 tot vaststelling van de totale investeringssubsidie en de bouwtechnische normen voor de preventieve en de ambulante gezondheidszorg, gewijzigd bij de besluiten van de Vlaamse Regering van 1 juni 2001, 14 september 2001, 31 maart 2006 en 30 mei 2008, wordt opgeheven.
+
+### ART. 25.
+
+Voor de dossiers waarvoor de subsidiebelofte werd gegeven voor de datum van de inwerkingtreding van dit besluit, gelden de bepalingen die van toepassing waren voor de inwerkingtreding van dit besluit.
+
+### ART. 26.
+
+De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
