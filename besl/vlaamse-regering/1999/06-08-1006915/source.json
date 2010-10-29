@@ -2,16 +2,16 @@
   "codex_id": 1006915,
   "title": "Besluit van de Vlaamse Regering van 1999-06-08 tot vaststelling van de totale investeringssubsidie en de bouwtechnische normen voor de preventieve en de ambulante gezondheidszorg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006915/VolledigDocument?datum=2008-10-03",
-  "source_sha256": "56da87915e50fbdfc8b43ad06e264610ea2511df374ec512bd0810a201fb846b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006915/VolledigDocument?datum=2010-10-29",
+  "source_sha256": "c85510ee747ff833e2dccf60c085c9f4a1eccb9ad831666a0e74966c8c184882",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006915&param=informatie",
-  "as_of": "2008-10-03",
+  "as_of": "2010-10-29",
   "made": "1999-06-08",
   "gazette": "1999-09-15",
   "numac": 1999036080,
   "document_start": null,
   "document_end": "2010-10-28",
-  "in_force": "2008-10-03",
+  "in_force": "2010-10-29",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2008-10-03; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-10-29; future article versions excluded; article text as the API gives it"
 }
