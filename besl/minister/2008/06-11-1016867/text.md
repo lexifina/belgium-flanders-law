@@ -64,13 +64,13 @@ Het beheerspakket weidevogelbeheer, uitstellen van de beweidingsdatum omvat naas
 
 ### ART. 11.
 
-Het beheerspakket weidevogelbeheer, omzetten van akkerland in meerjarig grasland en maaien omvat naast de beheersmaatregelen en voorwaarden, vermeld in artikel 9, 1° en 4° tot en met 10°, de volgende beheersmaatregelen en voorwaarden :<br />1° het perceel akkerland moet worden omgezet in grasland voor 1 april van het eerste jaar van de beheersovereenkomst en mag tijdens de verdere looptijd van de overeenkomst uitsluitend als meerjarig grasland gebruikt worden; <br />2° het perceel wordt ingezaaid met een grasmengsel;<br />3° het grasland mag niet worden gescheurd of gefreesd.
+Het beheerspakket weidevogelbeheer, omzetten van akkerland in meerjarig grasland en maaien omvat naast de beheersmaatregelen en voorwaarden, vermeld in artikel 9, 1° en 4° tot en met 10°, de volgende beheersmaatregelen en voorwaarden :<br />1° het perceel akkerland moet worden omgezet in grasland voor 1 mei van het eerste jaar van de beheersovereenkomst en mag tijdens de verdere looptijd van de overeenkomst uitsluitend als meerjarig grasland gebruikt worden; <br />2° het perceel wordt ingezaaid met een grasmengsel;<br />3° het grasland mag niet worden gescheurd of gefreesd.
 
 ## Onderafdeling IV. Beheerspakket weidevogelbeheer, omzetten van akkerland in meerjarig grasland en beweiden
 
 ### ART. 12.
 
-Het beheerspakket weidevogelbeheer, omzetten van akkerland in meerjarig grasland en beweiden omvat naast de beheersmaatregelen en voorwaarden, vermeld in artikel 9, 1°, 4° tot en met 6° en 8° tot en met 10°, de volgende beheersmaatregelen en voorwaarden :<br />1° het perceel akkerland moet worden omgezet in grasland voor 1 april van het eerste jaar van de beheersovereenkomst en mag tijdens de verdere looptijd van de overeenkomst uitsluitend als meerjarig grasland gebruikt worden; <br />2° het perceel wordt ingezaaid met een grasmengsel;<br />3° het grasland mag niet worden gescheurd of gefreesd;<br />4° het perceel mag tot 15 juni uitsluitend als standweide gebruikt worden en de veebezetting mag in de periode tussen 1 april en 15 juni ten hoogste twee dieren per hectare bedragen.
+Het beheerspakket weidevogelbeheer, omzetten van akkerland in meerjarig grasland en beweiden omvat naast de beheersmaatregelen en voorwaarden, vermeld in artikel 9, 1°, 4° tot en met 6° en 8° tot en met 10°, de volgende beheersmaatregelen en voorwaarden :<br />1° het perceel akkerland moet worden omgezet in grasland voor 1 mei van het eerste jaar van de beheersovereenkomst en mag tijdens de verdere looptijd van de overeenkomst uitsluitend als meerjarig grasland gebruikt worden; <br />2° het perceel wordt ingezaaid met een grasmengsel;<br />3° het grasland mag niet worden gescheurd of gefreesd;<br />4° het perceel mag tot 15 juni uitsluitend als standweide gebruikt worden en de veebezetting mag in de periode tussen 1 april en 15 juni ten hoogste twee dieren per hectare bedragen.
 
 ## Onderafdeling V. Beheerspakket weidevogelbeheer, nestbescherming
 
@@ -90,7 +90,7 @@ Het beheerspakket weidevogelbeheer, vluchtstroken is alleen mogelijk via een bed
 
 ### ART. 16.
 
-Het beheerspakket weidevogelbeheer, vluchtstroken omvat naast de beheersmaatregelen en voorwaarden, vermeld in artikel 9, 2°, 9° en 10°, de volgende beheersmaatregelen en voorwaarden : <br />1° de beheerder meldt jaarlijks via de verzamelaanvraag op welke percelen het beheerspakket zal worden toegepast; <br />2° de minimale en de maximale oppervlakte waarvoor het beheerspakket wordt toegepast, wordt bepaald in de beheersovereenkomst; de maximale oppervlakte is 1,5 keer de minimale oppervlakte;<br />3° de beheerder moet de percelen waarop het beheerspakket wordt toegepast gedurende het volledige kalenderjaar in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3;<br />4° tijdens het maaien van het perceel worden een of meer vluchtstroken met een minimale breedte van 4 meter niet gemaaid; <br />5° de oppervlakte van de vluchtstroken bedraagt 10 procent van de oppervlakte van het perceel;<br />6° het perceel moet minstens één maal per jaar gemaaid worden;<br />7° minstens twee weken nadat het perceel werd gemaaid, kunnen de vluchtstroken worden gemaaid of beweid;<br />8° de vluchtstroken mogen niet gemaaid of beweid worden voor 15 juni.
+Het beheerspakket weidevogelbeheer, vluchtstroken omvat naast de beheersmaatregelen en voorwaarden, vermeld in artikel 9, 2°, 9° en 10°, de volgende beheersmaatregelen en voorwaarden : <br />1° de beheerder meldt jaarlijks via de verzamelaanvraag op welke percelen het beheerspakket zal worden toegepast; <br />2° de minimale en de maximale oppervlakte waarvoor het beheerspakket wordt toegepast, wordt bepaald in de beheersovereenkomst; de maximale oppervlakte is 1,5 keer de minimale oppervlakte;<br />3° de beheerder moet de percelen waarop het beheerspakket wordt toegepast gedurende het volledige kalenderjaar in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3;<br />4° tijdens het maaien van het perceel worden een of meer vluchtstroken met een minimale breedte van 4 meter niet gemaaid; <br />5° de oppervlakte van de vluchtstroken bedraagt 10 procent van de oppervlakte van de percelen waarop volgens 1° het beheerspakket wordt toegepast;<br />6° het perceel moet minstens één maal per jaar gemaaid worden;<br />7° minstens twee weken nadat het perceel werd gemaaid, kunnen de vluchtstroken worden gemaaid of beweid;<br />8° de vluchtstroken mogen niet gemaaid of beweid worden voor 15 juni.
 
 ## Afdeling III. De beheerspakketten akkervogelbeheer
 
@@ -104,7 +104,7 @@ De diverse beheerspakketten omtrent akkervogelbeheer zijn alleen mogelijk via ee
 
 ### ART. 18.
 
-Het beheerspakket akkervogelbeheer, gemengde grasstroken omvat de volgende beheersmaatregelen en voorwaarden :<br />1° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3; <br />2° de beheerder moet de percelen waarmee het beheersvoorwerp volgens het GBCS is verbonden, op 1 januari van elk jaar van de beheersovereenkomst in gebruik hebben;<br />3° het perceel mag uitsluitend als akkerland gebruikt worden maar opname van gras in een jaarlijkse teeltrotatie is toegestaan;<br />4° voor 1 mei van het eerste jaar van de beheersovereenkomst wordt een grasstrook met een breedte van minimaal 6 meter en maximaal 12 meter tot stand gebracht;<br />5° de grasstrook wordt tot stand gebracht door de strook in te zaaien met een grasmengsel;<br />6° er mogen geen bestrijdingsmiddelen op de grasstrook gebruikt worden, uitgezonderd voor pleksgewijze bestrijding van distels;<br />7° de grasstrook wordt niet bemest of bekalkt;<br />8° het eerste jaar van de beheersovereenkomst mag de grasstrook 3 maal gemaaid of geklepeld worden;<br />9° vanaf het tweede jaar van de beheersovereenkomst mag de grasstrook vanaf 15 juli gemaaid of geklepeld worden; het maaien of klepelen gebeurt in stroken waarbij telkens minimaal de helft van de grasstrook behouden blijft en elke strook slechts eenmaal om de 2 jaar gemaaid of geklepeld wordt;<br />10° als de grasstrook gemaaid wordt, moet het maaisel worden afgevoerd binnen de vijftien dagen na elke maaibeurt;<br />11° als de grasstrook geklepeld wordt, gebeurt het klepelen op een hoogte van minimum 15 centimeter zodat de nesten gespaard worden;<br />12° de grasstrook moet tijdens de duur van de beheersovereenkomst ononderbroken behouden blijven;<br />13° de beschermingsstrook mag niet gebruikt worden als doorgang; een zichtbare of blijvende insporing van de beschermingsstrook is bijgevolg niet toegelaten;<br />14° de grasstrook mag niet worden gebruikt als wendakker of voor het uitvoeren van activiteiten die het oogsten vereenvoudigen zoals het tijdelijk plaatsen van kratten en het tijdelijk opslaan van geoogst materiaal.
+Het beheerspakket akkervogelbeheer, gemengde grasstroken omvat de volgende beheersmaatregelen en voorwaarden :<br />1° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3; <br />2° ...<br />3° het perceel mag uitsluitend als akkerland gebruikt worden maar opname van gras in een jaarlijkse teeltrotatie is toegestaan;<br />4° voor 1 mei van het eerste jaar van de beheersovereenkomst wordt een grasstrook tot stand gebracht die voldoet aan de volgende voorwaarden :<br />a) de grasstrook heeft een breedte van maximaal 30 meter;<br />b) als een duorand tot stand wordt gebracht dan is de grasstrook gemiddeld minstens 6 meter breed;<br />c) als een triorand tot stand wordt gebracht dan is de grasstrook gemiddeld minstens 9 meter breed;<br />5° de grasstrook wordt tot stand gebracht door een bestaande grasstrook te behouden, voor zover de bestaande grasstrook volgens een deskundige van de maatschappij geschikt is voor akkervogelbeheer, of door de strook in te zaaien met een grasmengsel; <br />6° er mogen geen bestrijdingsmiddelen op de grasstrook gebruikt worden, uitgezonderd voor de bestrijding van distels voor zover de bestrijding gebeurt op de volgende wijze :<br />a) ofwel worden bestrijdingsmiddelen gebruikt voor een pleksgewijze bestrijding;<br />b) ofwel worden bestrijdingsmiddelen gebruikt voor een niet pleksgewijze bestrijding; deze wijze van bestrijding is alleen mogelijk als een pleksgewijze bestrijding niet volstaat en als een deskundige van de maatschappij de niet pleksgewijze bestrijding goedkeurt;<br />7° de grasstrook wordt niet bemest of bekalkt;<br />8° de grasstrook wordt op de volgende wijze beheerd :<br />a) het eerste jaar van de beheersovereenkomst mag de grasstrook 3 maal gemaaid of geklepeld worden voor zover voldaan wordt aan de volgende voorwaarde : de grasstrook wordt over een breedte van 3 meter niet gemaaid of geklepeld voor 15 juli;<br />b) het tweede jaar van de beheersovereenkomst wordt de grasstrook in de lengte ingedeeld in twee of drie randen, respectievelijk duorand of triorand genoemd, waarbij in technische richtlijnen wordt bepaald hoe elke rand wordt beheerd; in ieder geval mag de grasstrook over een breedte van 3 meter niet gemaaid of geklepeld worden voor 15 juli;<br />9° ...<br />10° ...<br />11° als de grasstrook geklepeld wordt, gebeurt het klepelen op een hoogte van minimum 15 centimeter zodat de nesten gespaard worden;<br />12° de grasstrook moet tijdens de duur van de beheersovereenkomst ononderbroken behouden blijven;<br />13° de beschermingsstrook mag niet gebruikt worden als doorgang; een zichtbare of blijvende insporing van de beschermingsstrook is bijgevolg niet toegelaten;<br />14° de grasstrook mag niet worden gebruikt als wendakker of voor het uitvoeren van activiteiten die het oogsten vereenvoudigen zoals het tijdelijk plaatsen van kratten en het tijdelijk opslaan van geoogst materiaal.<br /><br />De technische richtlijnen, vermeld in het eerste lid, 8°, b) worden bij de beheersovereenkomst gevoegd en bepalen het volgende over de duo- of triorand :<br />1° de breedte van elke rand;<br />2° het aantal maai- of klepelbeurten per rand;<br />3° de vroegste en uiterste maai- of klepeldatum van elke rand.
 
 ## Onderafdeling III. Beheerspakket akkervogelbeheer, opgeploegde grasstroken
 
@@ -122,25 +122,25 @@ Het beheerspakket akkervogelbeheer, leeuwerikvlakjes omvat de volgende beheersma
 
 ### ART. 21.
 
-Het beheerspakket akkervogelbeheer, faunarand omvat naast de beheersmaatregelen en voorwaarden, vermeld in artikel 20, 1° tot en met 3°, de volgende beheersmaatregelen en voorwaarden :<br />1° op het perceel wordt een graangewas, andere dan maïs, geteeld;<br />2° op de graanrand van het perceel die minimaal 6 meter en maximaal 12 meter breed is, faunarand genoemd, worden tussen 15 maart en de oogst geen bestrijdingsmiddelen gebruikt, uitgezonderd voor een pleksgewijze bestrijding van distels;<br />3° de oppervlakte van de faunarand bedraagt 10 procent van de oppervlakte van het perceel;<br />4° de faunarand wordt niet bemest of bekalkt;<br />5° de faunarand kan mee geoogst worden en kan gebruikt worden als wendakker.
+Het beheerspakket akkervogelbeheer, faunarand omvat naast de beheersmaatregelen en voorwaarden, vermeld in artikel 20, 1° tot en met 3°, de volgende beheersmaatregelen en voorwaarden :<br />1° op het perceel wordt een graangewas, andere dan maïs, geteeld;<br />2° op de graanrand van het perceel die maximaal 30 meter breed is en die gemiddeld minimaal 6 meter breed is, faunarand genoemd, worden tussen 15 maart en de oogst geen bestrijdingsmiddelen gebruikt, uitgezonderd voor de bestrijding van distels voor zover de bestrijding gebeurt op de volgende wijze :<br />a) ofwel worden bestrijdingsmiddelen gebruikt voor een pleksgewijze bestrijding;<br />b) ofwel worden bestrijdingsmiddelen gebruikt voor een niet pleksgewijze bestrijding; deze wijze van bestrijding is alleen mogelijk als een pleksgewijze bestrijding niet volstaat en als een deskundige van de maatschappij de niet pleksgewijze bestrijding goedkeurt; <br />3° de oppervlakte van de faunaranden bedraagt 10 procent van de oppervlakte van de percelen waarop volgens artikel 20, 1°, het beheerspakket wordt toegepast;<br />4° de faunarand wordt niet bemest of bekalkt;<br />5° de faunarand kan mee geoogst worden en kan gebruikt worden als wendakker.
 
 ## Onderafdeling VI Beheerspakket akkervogelbeheer, winterstoppel
 
 ### ART. 22.
 
-Het beheerspakket akkervogelbeheer, winterstoppel omvat naast de beheersmaatregelen en voorwaarden, vermeld in artikel 20, 1° tot en met 3°, de volgende beheersmaatregelen en voorwaarden :<br />1° op het perceel wordt een graangewas, ander dan maïs, geteeld of worden vlas, erwten of veldbonen geteeld;<br />2° tussen de oogst en 15 maart van het daaropvolgende jaar mogen op het perceel geen bestrijdingsmiddelen worden gebruikt, uitgezonderd voor de pleksgewijze bestrijding van distels; <br />3° de winterstoppel wordt minstens behouden tot 15 maart van het daaropvolgende jaar;<br />4° het perceel mag na de oogst niet bemest worden; <br />5° een beheerder kan het beheerspakket aangaan voor maximaal 5 hectare.
+Het beheerspakket akkervogelbeheer, winterstoppel omvat naast de beheersmaatregelen en voorwaarden, vermeld in artikel 20, 1° tot en met 3°, de volgende beheersmaatregelen en voorwaarden :<br />1° op het perceel wordt een graangewas, ander dan maïs, geteeld of worden vlas, erwten of veldbonen geteeld;<br />2° tussen de oogst en 1 maart van het daaropvolgende jaar mogen op het perceel geen bestrijdingsmiddelen worden gebruikt, uitgezonderd voor de bestrijding van distels voor zover de bestrijding gebeurt op de volgende wijze : <br />a) ofwel worden bestrijdingsmiddelen gebruikt voor een pleksgewijze bestrijding;<br />b) ofwel worden bestrijdingsmiddelen gebruikt voor een niet pleksgewijze bestrijding; deze wijze van bestrijding is alleen mogelijk als een pleksgewijze bestrijding niet volstaat en als een deskundige van de maatschappij de niet pleksgewijze bestrijding goedkeurt; <br />3° de winterstoppel wordt minstens behouden tot 1 maart van het daaropvolgende jaar;<br />4° het perceel mag na de oogst in het najaar niet bemest worden; <br />5° een beheerder kan het beheerspakket aangaan voor maximaal 5 hectare.
 
 ## Onderafdeling VII. Beheerspakket akkervogelbeheer, graanrand
 
 ### ART. 23.
 
-Het beheerspakket akkervogelbeheer, graanrand omvat naast de beheersmaatregelen en voorwaarden, vermeld in artikel 20, 1° tot en met 3°, de volgende beheersmaatregelen en voorwaarden :<br />1° het perceel mag uitsluitend als akkerland gebruikt worden;<br />2° de beheerder brengt aan de rand van het perceel een graanrand tot stand die minimaal 6 meter en maximaal 12 meter breed is; de rand bestaat uit graan, ander dan maïs;<br />3° de oppervlakte van de graanrand bedraagt 10 procent van de oppervlakte van het perceel;<br />4° de graanrand mag niet worden aangelegd langs bebouwing of langs waterlopen;<br />5° de graanrand wordt minstens behouden tot 15 maart van het daaropvolgende jaar.
+Het beheerspakket akkervogelbeheer, graanrand omvat naast de beheersmaatregelen en voorwaarden, vermeld in artikel 20, 1° tot en met 3°, de volgende beheersmaatregelen en voorwaarden :<br />1° het perceel mag uitsluitend als akkerland gebruikt worden;<br />2° de beheerder brengt aan de rand van het perceel een graanrand tot stand die maximaal 30 meter breed is en die gemiddeld minimaal 6 meter breed is; de rand bestaat uit graan, ander dan maïs;<br />3° de oppervlakte van de graanranden bedraagt 10 procent van de oppervlakte van de percelen waarop volgens artikel 20, 1°, het beheerspakket wordt toegepast; <br />4° de graanrand mag niet worden aangelegd langs bebouwing of langs waterlopen;<br />5° de graanrand wordt minstens behouden tot 15 februari van het daaropvolgende jaar.
 
 ## Onderafdeling VIII. Beheerspakket akkervogelbeheer, vogelvoedselgewassen
 
 ### ART. 24.
 
-Het beheerspakket akkervogelbeheer, vogelvoedselgewassen omvat de volgende beheersmaatregelen en voorwaarden :<br />1° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3;<br />2° de beheerder moet de percelen waarmee het beheersvoorwerp volgens het GBCS is verbonden, op 1 januari van elk jaar van de beheersovereenkomst in gebruik hebben; <br />3° een beheerder kan het beheerspakket aangaan voor maximaal 0,5 hectare;<br />4° op het perceel wordt een zaadleverend gewasmengsel geteeld, vogelvoedselgewas genoemd, waarbij de samenstelling van het gewasmengsel wordt bepaald in de beheersovereenkomst;<br />5° het perceel is minimaal 6 meter breed;<br />6° het vogelvoedselgewas wordt minstens behouden tot 15 maart van het daaropvolgende jaar;<br />7° in samenspraak met een deskundige van de maatschappij en de beheerder wordt in de beheersovereenkomst een teeltrotatieschema voor het perceel vastgelegd.
+Het beheerspakket akkervogelbeheer, vogelvoedselgewassen omvat de volgende beheersmaatregelen en voorwaarden :<br />1° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3;<br />2° ...<br />3° een beheerder kan het beheerspakket aangaan voor maximaal 5 hectare;<br />4° op het perceel wordt een zaadleverend gewasmengsel geteeld, vogelvoedselgewas genoemd, waarbij de samenstelling van het gewasmengsel wordt bepaald in de beheersovereenkomst;<br />5° het perceel is gemiddeld minimaal 6 meter breed; <br />6° het vogelvoedselgewas wordt minstens behouden tot 15 maart van het daaropvolgende jaar;<br />7° in samenspraak met een deskundige van de maatschappij en de beheerder wordt in de beheersovereenkomst een teeltrotatieschema voor het perceel vastgelegd.
 
 ## Afdeling IV. [Het beheerspakket hamsterbescherming (verv. MB 9 juli 2012, art. 7)]
 
@@ -168,13 +168,13 @@ Binnen het gehele grondgebied van het Vlaamse Gewest kunnen beheersovereenkomste
 
 ### ART. 28.
 
-Het beheerspakket perceelsrandenbeheer milieu omvat de volgende beheersmaatregelen en voorwaarden :<br />1° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3;<br />2° de beheerder moet de percelen waarmee het beheersvoorwerp volgens het GBCS is verbonden, op 1 januari van elk jaar van de beheersovereenkomst in gebruik hebben;<br />3° de beheerder brengt een beschermingsstrook tot stand door een van de volgende maatregelen te treffen waarbij in de beheersovereenkomst wordt bepaald welke van deze maatregelen worden toegepast :<br />a) een bestaande grasstrook in stand houden;<br />b) voor 1 mei van het eerste jaar van de beheersovereenkomst een beschermingsstrook inzaaien met een grasmengsel;<br />4° als de beschermingsstrook al werd gerealiseerd in het kader van een vorige beheersovereenkomst perceelsrandenbeheer, milieu of natuur dan kunnen cultuurtechnische maatregelen op de beschermingsstrook worden uitgevoerd tot 1 mei van het eerste jaar van de nieuwe beheersovereenkomst;<br />5° de beschermingsstrook is over de volledige lengte minstens drie meter breed met een gemiddelde minimale breedte van zes meter en een gemiddelde maximale breedte van twaalf meter;<br />6° er mogen geen bestrijdingsmiddelen op de beschermingsstrook gebruikt worden, uitgezonderd voor pleksgewijze bestrijding van distels;<br />7° er mogen geen kalk of meststoffen, met inbegrip van bemesting door beweiding, of slib, afkomstig van rioolwaterzuiveringsinstallaties, op de beschermingsstrook worden aangebracht; <br />8° op de beschermingsstrook mogen geen cultuurtechnische maatregelen worden uitgevoerd die de vegetatie wijzigen, met uitzondering van het gebruiken van de beschermingsstrook als wendakker en het uitvoeren van activiteiten op de beschermingsstrook die het oogsten vereenvoudigen zoals het tijdelijk plaatsen van kratten en het tijdelijk opslaan van geoogst materiaal, mits de beschermingsstrook nadien in zijn oorspronkelijke staat wordt hersteld; <br />9° de beschermingsstrook moet tijdens de duur van de beheersovereenkomst ononderbroken behouden blijven;<br />10° als de beschermingsstrook langs een waterloop ligt, is het toegestaan het ruimingsslib op de beschermingsstrook te brengen; als het ruimingsslib op de beschermingsstrook wordt gebracht, moeten de beschadigde delen van de beschermingsstrook opnieuw worden ingezaaid;<br />11° de beschermingsstrook mag niet gebruikt worden als doorgang; een zichtbare of blijvende insporing van de beschermingsstrook is bijgevolg niet toegelaten;<br />12° als de beschermingsstrook langs een holle weg ligt, moet een niet-natuurlijke afstroming naar de holle weg voorkomen worden;<br />13° als de beschermingsstrook wordt gemaaid, moet het maaisel van de beschermingsstrook worden afgevoerd binnen vijftien dagen na het maaien;<br />14° het is niet toegestaan om de natuurlijke vegetatie die aan de beschermingsstrook grenst te wijzigen door onder meer afbranden, vernietigen, beschadigen of doen afsterven van deze vegetatie met mechanische of chemische middelen.
+Het beheerspakket perceelsrandenbeheer milieu omvat de volgende beheersmaatregelen en voorwaarden :<br />1° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3;<br />2° ...<br />3° de beheerder brengt een beschermingsstrook tot stand door een van de volgende maatregelen te treffen waarbij in de beheersovereenkomst wordt bepaald welke van deze maatregelen worden toegepast :<br />a) een bestaande grasstrook in stand houden;<br />b) voor 1 mei van het eerste jaar van de beheersovereenkomst een beschermingsstrook inzaaien met een grasmengsel;<br />4° als de beschermingsstrook al werd gerealiseerd in het kader van een vorige beheersovereenkomst perceelsrandenbeheer, milieu of natuur dan kunnen cultuurtechnische maatregelen op de beschermingsstrook worden uitgevoerd tot 1 mei van het eerste jaar van de nieuwe beheersovereenkomst;<br />5° de beschermingsstrook is over de volledige lengte minstens drie meter breed met een gemiddelde minimale breedte van zes meter en een gemiddelde maximale breedte van twaalf meter;<br />6° er mogen geen bestrijdingsmiddelen op de beschermingsstrook gebruikt worden, uitgezonderd voor de bestrijding van distels voor zover de bestrijding gebeurt op de volgende wijze :<br />a) ofwel worden bestrijdingsmiddelen gebruikt voor een pleksgewijze bestrijding;<br />b) ofwel worden bestrijdingsmiddelen gebruikt voor een niet pleksgewijze bestrijding; deze wijze van bestrijding is alleen mogelijk als een pleksgewijze bestrijding niet volstaat en als een deskundige van de maatschappij de niet pleksgewijze bestrijding goedkeurt; <br />7° er mogen geen kalk of meststoffen, met inbegrip van bemesting door beweiding, of slib, afkomstig van rioolwaterzuiveringsinstallaties, op de beschermingsstrook worden aangebracht; <br />8° op de beschermingsstrook mogen geen cultuurtechnische maatregelen worden uitgevoerd die de vegetatie wijzigen, met uitzondering van het gebruiken van de beschermingsstrook als wendakker en het uitvoeren van activiteiten op de beschermingsstrook die het oogsten vereenvoudigen zoals het tijdelijk plaatsen van kratten en het tijdelijk opslaan van geoogst materiaal, mits de beschermingsstrook nadien in zijn oorspronkelijke staat wordt hersteld; <br />9° de beschermingsstrook moet tijdens de duur van de beheersovereenkomst ononderbroken behouden blijven;<br />10° als de beschermingsstrook langs een waterloop ligt, is het toegestaan het ruimingsslib op de beschermingsstrook te brengen; als het ruimingsslib op de beschermingsstrook wordt gebracht, moeten de beschadigde delen van de beschermingsstrook opnieuw worden ingezaaid;<br />11° de beschermingsstrook mag niet gebruikt worden als doorgang; een zichtbare of blijvende insporing van de beschermingsstrook is bijgevolg niet toegelaten;<br />12° als de beschermingsstrook langs een holle weg ligt, moet een niet-natuurlijke afstroming naar de holle weg voorkomen worden;<br />13° als de beschermingsstrook wordt gemaaid, moet het maaisel van de beschermingsstrook worden afgevoerd binnen vijftien dagen na het maaien;<br />14° het is niet toegestaan om de natuurlijke vegetatie die aan de beschermingsstrook grenst te wijzigen door onder meer afbranden, vernietigen, beschadigen of doen afsterven van deze vegetatie met mechanische of chemische middelen.
 
 ## Afdeling III. Beheerspakket perceelsrandenbeheer, natuur
 
 ### ART. 29.
 
-Het beheerspakket perceelsrandenbeheer natuur omvat naast de beheersmaatregelen en voorwaarden, vermeld in artikel 28, 1° tot en met 3°, 5° tot en met 7° en 9° tot en met 14°, de volgende beheersmaatregelen en voorwaarden :<br />1° op de beschermingsstrook mogen geen cultuurtechnische maatregelen worden uitgevoerd die de vegetatie wijzigen en de beschermingsstrook mag niet worden gebruikt als wendakker of voor het uitvoeren van activiteiten die het oogsten vereenvoudigen zoals het tijdelijk plaatsen van kratten en het tijdelijk opslaan van geoogst materiaal;<br />2° de beschermingsstrook mag in elk geval niet gemaaid worden voor 15 juni en de maatschappij kan waar nodig een aangepast maairegime vaststellen;<br />3° als de beschermingsstrook al werd gerealiseerd in het kader van een vorige beheersovereenkomst perceelsrandenbeheer, milieu of natuur dan moet de bestaande beschermingsstrook worden behouden tenzij de maatschappij instemt dat de strook kan worden verwijderd.
+Het beheerspakket perceelsrandenbeheer natuur omvat naast de beheersmaatregelen en voorwaarden, vermeld in artikel 28, 1° tot en met 3°, 5° tot en met 7° en 9° tot en met 14°, de volgende beheersmaatregelen en voorwaarden :<br />1° op de beschermingsstrook mogen geen cultuurtechnische maatregelen worden uitgevoerd die de vegetatie wijzigen en de beschermingsstrook mag niet worden gebruikt als wendakker of voor het uitvoeren van activiteiten die het oogsten vereenvoudigen zoals het tijdelijk plaatsen van kratten en het tijdelijk opslaan van geoogst materiaal;<br />2° de maatschappij stelt in samenspraak met de beheerder een van de volgende beheerregimes vast :<br />a) een beheerregime waarbij de beschermingsstrook niet gemaaid wordt voor 15 juni en waarbij de beschermingsstrook niet geklepeld wordt;<br />b) een beheerregime waarbij de beschermingsstrook niet gemaaid of geklepeld wordt voor 15 juli;<br />c) een beheerregime waarbij de beschermingsstrook in de lengte wordt ingedeeld in twee of drie randen, respectievelijk duorand of triorand genoemd, en waarbij in technische richtlijnen wordt bepaald hoe elke rand wordt beheerd; <br />3° als de beschermingsstrook al werd gerealiseerd in het kader van een vorige beheersovereenkomst perceelsrandenbeheer, milieu of natuur dan moet de bestaande beschermingsstrook worden behouden tenzij de maatschappij instemt dat de strook kan worden verwijderd.<br /><br />De technische richtlijnen, vermeld in het eerste lid, 2°, c), worden bij de beheersovereenkomst gevoegd en bepalen het volgende over de duo- of triorand :<br />1° de breedte van elke rand;<br />2° het aantal maai- of klepelbeurten per rand;<br />3° de vroegste maai- of klepeldatum van elke rand die in ieder geval na 31 mei valt;<br />4° de uiterste maai- of klepeldatum van elke rand.
 
 ## HOOFDSTUK IV. De beheerspakketten met betrekking tot herstel, ontwikkeling en onderhoud van kleine landschapselementen
 
@@ -196,25 +196,25 @@ Als autochtoon inheems plantgoed wordt aangeplant, moet de beheerder de herkomst
 
 ### ART. 33.
 
-Het beheerspakket herstel, ontwikkeling en onderhoud van houtige landschapselementen omvat de volgende beheersmaatregelen en voorwaarden :<br />1° op het perceel wordt een heg, een haag, een houtkant of een houtwal aangeplant;<br />2° er mogen alleen bomen en struiken als vermeld in bijlage VII worden aangeplant;<br />3° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3;<br />4° de beheerder moet de percelen waarmee het beheersvoorwerp volgens het GBCS is verbonden, op 1 januari van elk jaar van de beheersovereenkomst in gebruik hebben;<br />5° er mogen geen bestrijdingsmiddelen gebruikt worden in het landschapselement, uitgezonderd voor pleksgewijze bestrijding van distels;<br />6° er mogen geen meststoffen of slib, afkomstig van rioolwaterzuiveringsinstallaties, toegediend worden in het landschapselement;<br />7° er mag niet gebrand worden in het landschapselement of binnen een afstand van 20 meter van het landschapselement;<br />8° het wijzigen van de vegetatie die bij de houtige landschapselementen hoort door onder meer afbranden, vernietigen, beschadigen of doen afsterven van de vegetatie met mechanische of chemische middelen, is niet toegestaan, met uitzondering van het met mechanische middelen voorkomen dat de aangeplante bomen of struiken worden overwoekerd;<br />9° als een heg wordt aangeplant, gelden de volgende specifieke voorwaarden :<br />a) de heg heeft een lengte van minimum 25 meter;<br />b) bij de aanplant van de heg wordt een plantafstand van maximum 2 meter in acht genomen;<br />10° als een haag wordt aangeplant, gelden de volgende specifieke voorwaarden :<br />a) de haag heeft een lengte van minimum 25 meter;<br />b) bij de aanplant van de haag wordt een plantafstand van maximum 0,5 meter in acht genomen;<br />c) de haag moet minstens een keer worden geschoren binnen een periode van twee jaar; <br />11° als een houtkant of houtwal wordt aangeplant, gelden de volgende specifieke voorwaarden :<br />a) de houtkant of houtwal heeft een minimumoppervlakte van 1,5 are en een maximumbreedte van 10 meter;<br />b) het plantgoed is bij aanplant minstens 40 centimeter hoog;<br />c) bij de aanplant van de houtkant of houtwal wordt een plantafstand van 1,5 meter in driehoeksverband in acht genomen.
+Het beheerspakket herstel, ontwikkeling en onderhoud van houtige landschapselementen omvat de volgende beheersmaatregelen en voorwaarden :<br />1° voor 1 mei van het eerste jaar van de beheersovereenkomst wordt op het perceel een heg, een haag, een houtkant of een houtwal aangeplant;<br />2° er mogen alleen bomen en struiken als vermeld in bijlage VII worden aangeplant;<br />3° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3;<br />4° ...<br />5° er mogen geen bestrijdingsmiddelen gebruikt worden in het landschapselement, uitgezonderd voor pleksgewijze bestrijding van distels;<br />6° er mogen geen meststoffen of slib, afkomstig van rioolwaterzuiveringsinstallaties, toegediend worden in het landschapselement;<br />7° ...<br />8° het wijzigen van de vegetatie die bij de houtige landschapselementen hoort door onder meer afbranden, vernietigen, beschadigen of doen afsterven van de vegetatie met mechanische of chemische middelen, is niet toegestaan, met uitzondering van het met mechanische middelen voorkomen dat de aangeplante bomen of struiken worden overwoekerd;<br />9° als een heg wordt aangeplant, gelden de volgende specifieke voorwaarden :<br />a) de heg heeft een lengte van minimum 25 meter;<br />b) bij de aanplant van de heg wordt een plantafstand van maximum 2 meter in acht genomen;<br />c) op het perceel wordt maximaal 500 meter heg per hectare aangeplant; <br />10° als een haag wordt aangeplant, gelden de volgende specifieke voorwaarden :<br />a) de haag heeft een lengte van minimum 25 meter;<br />b) bij de aanplant van de haag wordt een plantafstand van maximum 0,5 meter in acht genomen;<br />c) de haag moet minstens een keer worden geschoren binnen een periode van twee jaar; <br />d) op het perceel wordt maximaal 500 meter haag per hectare aangeplant;<br />11° als een houtkant of houtwal wordt aangeplant, gelden de volgende specifieke voorwaarden :<br />a) de houtkant of houtwal heeft een minimumoppervlakte van 1,5 are en een maximumbreedte van 10 meter;<br />b) het plantgoed is bij aanplant minstens 40 centimeter hoog;<br />c) bij de aanplant van de houtkant of houtwal wordt een plantafstand van 1,5 meter in driehoeksverband in acht genomen.
 
 ## Afdeling III. Beheerspakket onderhoud van bestaande houtige landschapselementen
 
 ### ART. 34.
 
-Het beheerspakket onderhoud van bestaande houtige landschapselementen omvat naast de beheersmaatregelen en voorwaarden, vermeld in artikel 33, 3° tot en met 8°, de volgende beheersmaatregelen en voorwaarden :<br />1° het bestaande houtige landschapselement bestaat hoofdzakelijk uit streekeigen bomen of struiken;<br />2° de maatschappij kan in de beheersovereenkomst bepalen welke soorten niet-streekeigen bomen of struiken uit het houtige landschapselement moeten verwijderd worden;<br />3° als de beheerder ervoor kiest het snoeihout van heggen, houtkanten of houtwallen te verwijderen, dan moet dat gebeuren voor 15 maart;<br />4° de gaten in het landschapselement moeten met gelijke soorten worden gedicht;<br />5° specifieke voorwaarden voor heggen : de heg is minimum 25 meter lang, 1 meter breed en 2 meter hoog;<br />6° specifieke voorwaarden voor hagen :<br />a) de haag is minimum 25 meter lang en 1 meter hoog; <br />b) de haag mag maximaal twee keer per jaar worden geschoren;<br />c) de haag moet minstens een keer worden geschoren binnen een periode van twee jaar;<br />7° specifieke voorwaarden voor houtwallen en houtkanten :<br />a) de houtkant of houtwal heeft een minimumoppervlakte van 1,5 are en een maximumbreedte van 10 meter;<br />b) de houtkant of houtwal moet gesnoeid of gekapt worden overeenkomstig de technische richtlijnen die bij de beheersovereenkomst worden gevoegd;<br />c) houtkanten of houtwallen mogen jaarlijks slechts over maximaal 25 procent van de totale lengte worden afgezet.
+Het beheerspakket onderhoud van bestaande houtige landschapselementen omvat naast de beheersmaatregelen en voorwaarden, vermeld in artikel 33, 3°, 6° en 8°, de volgende beheersmaatregelen en voorwaarden :<br />1° het bestaande houtige landschapselement bestaat hoofdzakelijk uit streekeigen bomen of struiken;<br />2° de maatschappij kan in de beheersovereenkomst bepalen welke soorten niet-streekeigen bomen of struiken uit het houtige landschapselement moeten verwijderd worden;<br />3° als de beheerder ervoor kiest het snoeihout van heggen, houtkanten of houtwallen te verwijderen, dan moet dat gebeuren voor 15 maart;<br />4° de gaten in het landschapselement moeten met gelijke soorten worden gedicht;<br />5° specifieke voorwaarden voor heggen :<br />a) de heg is minimum 25 meter lang, 1 meter breed en 2 meter hoog;<br />b) op het perceel wordt maximaal 500 meter heg per hectare onderhouden via het beheerspakket onderhoud van bestaande houtige landschapselementen; <br />6° specifieke voorwaarden voor hagen :<br />a) de haag is minimum 25 meter lang en 1 meter hoog; <br />b) de haag mag maximaal twee keer per jaar worden geschoren;<br />c) de haag moet minstens een keer worden geschoren binnen een periode van twee jaar;<br />d) op het perceel wordt maximaal 500 meter haag per hectare onderhouden via het beheerspakket onderhoud van bestaande houtige landschapselementen; <br />7° specifieke voorwaarden voor houtwallen en houtkanten :<br />a) de houtkant of houtwal heeft een minimumoppervlakte van 1,5 are en een maximumbreedte van 10 meter;<br />b) de houtkant of houtwal moet gesnoeid of gekapt worden overeenkomstig de technische richtlijnen die bij de beheersovereenkomst worden gevoegd;<br />c) houtkanten of houtwallen mogen jaarlijks slechts over maximaal 25 procent van de totale lengte worden afgezet.<br />d) in afwijking van punt c) kunnen houtkanten of houtwallen voor meer dan 25 procent van de totale lengte worden afgezet voor zover voldaan is aan al de volgende voorwaarden :<br />- het afzetten van de houtkanten of houtwallen kadert in het gezamenlijk beheer van meerdere houtkanten of houtwallen door meerdere beheerders;<br />- elk deel van de houtkant of houtwal mag slechts een keer worden afgezet gedurende de looptijd van de beheersovereenkomst;<br />- het afzetten van de houtkanten of houtwallen is toegestaan volgens de beheersovereenkomst en wordt uitgevoerd volgens de technische richtlijnen die bij de beheersovereenkomst worden gevoegd;<br />8° er mogen geen bestrijdingsmiddelen gebruikt worden in het landschapselement, uitgezonderd in de volgende gevallen :<br />a) voor de pleksgewijze bestrijding van distels;<br />b) voor de pleksgewijze bestrijding van amerikaanse vogelkers.
 
 ## Afdeling IV. Beheerspakket aanleg of heraanleg en het periodieke onderhoud van poelen
 
 ### ART. 35.
 
-Het beheerspakket aanleg of heraanleg en het periodieke onderhoud van poelen omvat de volgende beheersmaatregelen en voorwaarden :<br />1° de poel moet worden aangelegd zodat een waterdiepte tussen 0,5 meter en 1,5 meter wordt bereikt;<br />2° de poel moet een oppervlakte hebben tussen 25 vierkante meter en 150 vierkante meter en moet worden aangelegd en onderhouden volgens de technische richtlijnen die bij de beheersovereenkomst worden gevoegd;<br />3° er mogen geen bestrijdingsmiddelen worden gebruikt in de poel of binnen een straal van 5 meter rond de poel;<br />4° het water van de poel mag alleen gebruikt worden ten behoeve van het vee;<br />5° het dichtgroeien van de poel door planten en verlanding van de poel moet voorkomen worden; <br />6° in de poel mogen geen waterplanten worden aan- of ingebracht;<br />7° er mogen geen vissen of watervogels worden uitgezet;<br />8° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3;<br />9° de beheerder moet de percelen waarmee het beheersvoorwerp volgens het GBCS is verbonden, op 1 januari van elk jaar van de beheersovereenkomst in gebruik hebben.
+Het beheerspakket aanleg of heraanleg en het periodieke onderhoud van poelen omvat de volgende beheersmaatregelen en voorwaarden :<br />1° de poel moet worden aangelegd zodat een waterdiepte tussen 0,5 meter en 1,5 meter wordt bereikt;<br />2° de poel moet een oppervlakte hebben tussen 25 vierkante meter en 150 vierkante meter en moet worden aangelegd en onderhouden volgens de technische richtlijnen die bij de beheersovereenkomst worden gevoegd;<br />3° er mogen geen bestrijdingsmiddelen worden gebruikt in de poel of binnen een straal van 5 meter rond de poel;<br />4° het water van de poel mag alleen gebruikt worden ten behoeve van het vee;<br />5° het dichtgroeien van de poel door planten en verlanding van de poel moet voorkomen worden; <br />6° in de poel mogen geen waterplanten worden aan- of ingebracht;<br />7° er mogen geen vissen of watervogels worden uitgezet;<br />8° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3;<br />9° ...<br />10° naargelang de oppervlakte van het perceel waarop de poel wordt aangelegd, kunnen maximaal het volgende aantal poelen worden aangelegd :<br />a) als het perceel kleiner is dan 50 are kan 1 poel worden aangelegd;<br />b) als het perceel groter of gelijk is aan 50 are kunnen maximaal 4 poelen per hectare worden aangelegd.
 
 ## Afdeling V. Beheerspakket onderhoud van bestaande poelen
 
 ### ART. 36.
 
-Het beheerspakket aanleg onderhoud van bestaande poelen omvat naast de beheersmaatregelen en voorwaarden, vermeld in artikel 35, 3° tot en met 9°, de volgende beheersmaatregelen en voorwaarden :<br />1° de bestaande poel heeft het grootste deel van het jaar een waterdiepte tussen 0,5 meter en 1,5 meter;<br />2° de poel heeft een oppervlakte tussen 25 vierkante meter en 150 vierkante meter en wordt onderhouden volgens de technische richtlijnen die bij de beheersovereenkomst worden gevoegd.
+Het beheerspakket aanleg onderhoud van bestaande poelen omvat naast de beheersmaatregelen en voorwaarden, vermeld in artikel 35, 3° tot en met 9°, de volgende beheersmaatregelen en voorwaarden :<br />1° de bestaande poel heeft het grootste deel van het jaar een waterdiepte tussen 0,5 meter en 1,5 meter;<br />2° de poel heeft een oppervlakte tussen 25 vierkante meter en 150 vierkante meter en wordt onderhouden volgens de technische richtlijnen die bij de beheersovereenkomst worden gevoegd.<br />3° naargelang de oppervlakte van het perceel waarop de poel ligt, kunnen maximaal het volgende aantal poelen worden onderhouden via het beheerspakket onderhoud van bestaande poelen :<br />a) als het perceel kleiner is dan 50 are kan 1 poel worden onderhouden;<br />b) als het perceel groter of gelijk is aan 50 are kunnen maximaal 4 poelen per hectare worden onderhouden.
 
 ## HOOFDSTUK V. De beheerspakketten met betrekking tot botanisch beheer
 
@@ -244,7 +244,7 @@ Als een beheerspakket grasland werd aangegaan met het oog op de ontwikkeling van
 
 ### ART. 42.
 
-Het beheerspakket grasland, maaien vanaf 1 juni omvat de volgende beheersmaatregelen en voorwaarden :<br />1° het perceel mag vanaf 1 juni gemaaid worden;<br />2° het perceel wordt minstens twee keer per jaar gemaaid;<br />3° het maaisel moet worden afgevoerd binnen vijftien dagen na elke maaibeurt;<br />4° het perceel mag uitsluitend als meerjarig grasland gebruikt worden; <br />5° het perceel mag niet worden gerold, gesleept, beregend, gescheurd, gefreesd, heringezaaid of doorzaaid;<br />6° op het perceel mogen geen bestrijdingsmiddelen gebruikt worden, uitgezonderd voor de pleksgewijze bestrijding van distels;<br />7° het rechtstreeks of onrechtstreeks wijzigen van de waterhuishouding, met inbegrip van het overstromingsregime van de bij het perceel behorende vegetatie door drainage, ontwatering, afwatering met het oog op de verdroging van het perceel en de bijbehorende vegetatie is niet toegestaan;<br />8° het wijzigen van de bodem, met inbegrip van de nivellering van het reliëf en microreliëf, is niet toegestaan;<br />9° er mogen geen meststoffen, met inbegrip van bemesting door beweiding, of slib, afkomstig van rioolwaterzuiveringsinstallaties, op het perceel worden aangebracht;<br />10° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3.
+Het beheerspakket grasland, maaien vanaf 1 juni omvat de volgende beheersmaatregelen en voorwaarden :<br />1° het perceel mag vanaf 1 juni gemaaid worden;<br />2° het perceel wordt minstens twee keer per jaar gemaaid;<br />3° het maaisel moet worden afgevoerd binnen vijftien dagen na elke maaibeurt;<br />4° het perceel mag uitsluitend als meerjarig grasland gebruikt worden; <br />5° het perceel mag niet worden gerold, gesleept, beregend, gescheurd, gefreesd, heringezaaid of doorzaaid;<br />6° op het perceel mogen geen bestrijdingsmiddelen gebruikt worden, uitgezonderd voor de bestrijding van distels voor zover de bestrijding gebeurt op de volgende wijze :<br />a) ofwel worden bestrijdingsmiddelen gebruikt voor een pleksgewijze bestrijding;<br />b) ofwel worden bestrijdingsmiddelen gebruikt voor een niet pleksgewijze bestrijding; deze wijze van bestrijding is alleen mogelijk als een pleksgewijze bestrijding niet volstaat en als een deskundige van de maatschappij de niet pleksgewijze bestrijding goedkeurt; <br />7° het rechtstreeks of onrechtstreeks wijzigen van de waterhuishouding, met inbegrip van het overstromingsregime van de bij het perceel behorende vegetatie door drainage, ontwatering, afwatering met het oog op de verdroging van het perceel en de bijbehorende vegetatie is niet toegestaan;<br />8° het wijzigen van de bodem, met inbegrip van de nivellering van het reliëf en microreliëf, is niet toegestaan;<br />9° er mogen geen meststoffen, met inbegrip van bemesting door beweiding, of slib, afkomstig van rioolwaterzuiveringsinstallaties, op het perceel worden aangebracht;<br />10° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3.
 
 ## Afdeling III. Beheerspakket grasland, maaien vanaf 16 juni
 
@@ -262,7 +262,7 @@ Het beheerspakket grasland, beweiden vanaf 1 juni omvat naast de beheersmaatrege
 
 ### ART. 45.
 
-Het beheerspakket akkerland, vollevelds omvat de volgende beheersmaatregelen en voorwaarden :<br />1° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3;<br />2° het perceel mag uitsluitend als akkerland gebruikt worden met een andere teelt dan maïs;<br />3° op het perceel mogen geen bestrijdingsmiddelen gebruikt worden, uitgezonderd voor de pleksgewijze bestrijding van distels;<br />4° er mag meststof worden aangebracht tot maximaal 50 procent van de geldende bemestingsnorm en de aangebrachte meststof is bij voorkeur stalmest van rundvee;<br />5° het aanbrengen van mengmest op het perceel is alleen toegestaan in de periode van 1 april tot en met 31 augustus;<br />6° er wordt op het perceel een vruchtwisseling toegepast met ten minste eenmaal om de twee jaar een graangewas en ten minste eenmaal om de zes jaar een vlinderbloemig gewas;<br />7° het perceel wordt jaarlijks bewerkt in het voorjaar of het najaar.
+Het beheerspakket akkerland, vollevelds omvat de volgende beheersmaatregelen en voorwaarden :<br />1° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3;<br />2° het perceel mag uitsluitend als akkerland gebruikt worden met een andere teelt dan maïs;<br />3° op het perceel mogen geen bestrijdingsmiddelen gebruikt worden, uitgezonderd voor de bestrijding van distels voor zover de bestrijding gebeurt op de volgende wijze :<br />a) ofwel worden bestrijdingsmiddelen gebruikt voor een pleksgewijze bestrijding;<br />b) ofwel worden bestrijdingsmiddelen gebruikt voor een niet pleksgewijze bestrijding; deze wijze van bestrijding is alleen mogelijk als een pleksgewijze bestrijding niet volstaat en als een deskundige van de maatschappij de niet pleksgewijze bestrijding goedkeurt;<br />4° er mag meststof worden aangebracht tot maximaal 50 procent van de geldende bemestingsnorm en de aangebrachte meststof is bij voorkeur stalmest van rundvee;<br />5° het aanbrengen van mengmest op het perceel is alleen toegestaan in de periode van 1 april tot en met 31 augustus;<br />6° er wordt op het perceel een vruchtwisseling toegepast met ten minste eenmaal om de twee jaar een graangewas en ten minste eenmaal om de zes jaar een vlinderbloemig gewas;<br />7° het perceel wordt jaarlijks bewerkt in het voorjaar of het najaar.
 
 ## Afdeling VI. Gemeenschappelijke bepalingen met betrekking tot de inventarisatie
 
@@ -288,23 +288,23 @@ Beheersovereenkomsten in het kader van de beheersdoelstelling erosiebestrijding 
 
 ### ART. 50.
 
-Voordat een beheersovereenkomst met betrekking tot de beheerspakketten aanleg en onderhoud van grasbufferstroken, aanleg en onderhoud van grasgangen en aanleg en onderhoud van aarden dam met erosiepoel wordt gesloten, vraagt de maatschappij het advies van de bevoegde afdeling van het Departement Leefmilieu, Natuur en Energie voor zover de beheersovereenkomst wordt aangevraagd voor een perceel dat voldoet aan alle onderstaande voorwaarden :<br />1° het perceel is gelegen in een knelpuntgebied als omschreven in de code van goede praktijk voor het opmaken van een gemeentelijk erosiebestrijdingsplan zoals opgemaakt in toepassing van het besluit van de Vlaamse Regering van 7 december 2001 houdende de subsidiëring van de kleinschalige erosiebestrijdingsmaatregelen die door de gemeenten uitgevoerd worden;<br />2° in toepassing van het besluit van de Vlaamse Regering van 7 december 2001, vermeld in 1°, werden voor het perceel al erosiebestrijdingswerken gesubsidieerd door de Vlaamse overheid of werden erosiebestrijdingswerken reeds opgenomen in een goedgekeurd investeringsprogramma.
+...
 
 ### ART. 51.
 
-Voor het jaar waarin op een sterk erosiegevoelig perceel zowel een beheerspakket inzake erosiebestrijding wordt toegepast als een erosiegevoelige teelt wordt geteeld, wordt geen beheersvergoeding inzake erosiebestrijding toegekend voor het betreffende perceel. <br /><br />De sterk erosiegevoelige percelen worden door de bevoegde afdeling van het Departement Leefmilieu, Natuur en Energie vastgesteld in toepassing van het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden. De teelten die erosiegevoelig zijn, zijn bepaald in het hiervoor vernoemde besluit van de Vlaamse Regering van 8 juli 2005.
+§ 1. Voor het jaar waarin op een sterk erosiegevoelig perceel zowel een beheerspakket niet-kerende bodembewerking of directe inzaai wordt toegepast als een erosiegevoelige teelt wordt geteeld, wordt voor de voormelde beheerspakketten geen beheersvergoeding toegekend voor het betreffende perceel.<br /><br />§ 2. Als een beheersovereenkomst met betrekking tot het beheerspakket aanleg en onderhoud van grasbufferstroken wordt gesloten voor een sterk erosiegevoelig perceel, heeft de beheerder de volgende keuzemogelijkheden :<br />1° ofwel verbindt de beheerder er zich toe om gedurende de volledige looptijd van de beheersovereenkomst geen erosiegevoelige teelt te verbouwen op het perceel stroomopwaarts grenzend aan de grasbufferstrook; als deze keuzemogelijkheid wordt toegepast, ontvangt de beheerder de volledige beheersvergoeding voor de grasbufferstrook in kwestie;<br />2° ofwel kan de beheerder gedurende de looptijd van de beheersovereenkomst een erosiegevoelige teelt verbouwen op het perceel stroomopwaarts grenzend aan de grasbufferstrook; als deze keuzemogelijkheid wordt toegepast, wordt de beheersvergoeding voor de grasbufferstrook in kwestie verlaagd met 65 procent gedurende de volledige looptijd van de beheersovereenkomst.<br /><br />In samenspraak met een deskundige van de maatschappij en de beheerder wordt in de beheersovereenkomst vastgelegd welke keuzemogelijkheid wordt toegepast.<br /><br />§ 3. De sterk erosiegevoelige percelen worden door de bevoegde afdeling van het Departement Leefmilieu, Natuur en Energie vastgesteld in toepassing van het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden. De teelten die erosiegevoelig zijn, zijn bepaald in het hiervoor vernoemde besluit van de Vlaamse Regering van 8 juli 2005.
 
 ## Afdeling II. Beheerspakket aanleg en onderhoud van grasbufferstroken
 
 ### ART. 52.
 
-Het beheerspakket aanleg en onderhoud van grasbufferstroken omvat de volgende beheersmaatregelen en voorwaarden :<br />1° voor 1 mei van het eerste jaar van de beheersovereenkomst wordt een grasbufferstrook met een breedte van 3 meter tot 21 meter tot stand gebracht;<br />2° de grasbufferstrook wordt aangelegd op de plaats die wordt aangeduid in de beheersovereenkomst en is zo veel mogelijk evenwijdig met de hoogtelijnen van het perceel; <br />3° de grasbufferstrook wordt tot stand gebracht door de strook in te zaaien met een grasmengsel of door een bestaande grasstrook te behouden;<br />4° het perceel mag uitsluitend als akkerland gebruikt worden maar opname van gras in een jaarlijkse teeltrotatie is toegestaan;<br />5° er mogen geen bestrijdingsmiddelen gebruikt worden in de grasbufferstrook, uitgezonderd voor de pleksgewijze bestrijding van distels;<br />6° op de grasbufferstrook mag geen mest worden opgeslagen;<br />7° de grasbufferstrook moet gedurende vijf opeenvolgende jaren een aaneengesloten grasmat vormen;<br />8° als zich een ploegvoor of ploegwal vormt naast de grasbufferstrook, moet die verwijderd worden;<br />9° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3;<br />10° de beheerder moet de percelen waarmee het beheersvoorwerp volgens het GBCS is verbonden, op 1 januari van elk jaar van de beheersovereenkomst in gebruik hebben.
+Het beheerspakket aanleg en onderhoud van grasbufferstroken omvat de volgende beheersmaatregelen en voorwaarden :<br />1° voor 1 mei van het eerste jaar van de beheersovereenkomst wordt een grasbufferstrook met een breedte van 3 meter tot 21 meter tot stand gebracht;<br />2° de grasbufferstrook wordt aangelegd op de plaats die wordt aangeduid in de beheersovereenkomst en is zo veel mogelijk evenwijdig met de hoogtelijnen van het perceel; <br />3° de grasbufferstrook wordt tot stand gebracht door de strook in te zaaien met een grasmengsel of door een bestaande grasstrook te behouden;<br />4° het perceel mag uitsluitend als akkerland gebruikt worden maar opname van gras in een jaarlijkse teeltrotatie is toegestaan;<br />5° er mogen geen bestrijdingsmiddelen gebruikt worden in de grasbufferstrook, uitgezonderd voor de bestrijding van distels voor zover de bestrijding gebeurt op de volgende wijze :<br />a) ofwel worden bestrijdingsmiddelen gebruikt voor een pleksgewijze bestrijding;<br />b) ofwel worden bestrijdingsmiddelen gebruikt voor een niet pleksgewijze bestrijding; deze wijze van bestrijding is alleen mogelijk als een pleksgewijze bestrijding niet volstaat en als een deskundige van de maatschappij de niet pleksgewijze bestrijding goedkeurt;<br />6° op de grasbufferstrook mag geen mest worden opgeslagen;<br />7° de grasbufferstrook moet gedurende vijf opeenvolgende jaren een aaneengesloten grasmat vormen;<br />8° als zich een ploegvoor of ploegwal vormt naast de grasbufferstrook, moet die verwijderd worden;<br />9° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3;<br />10° ...
 
 ## Afdeling III. Beheerspakket aanleg en onderhoud van grasgangen
 
 ### ART. 53.
 
-Het beheerspakket aanleg en onderhoud van grasgangen omvat de volgende beheersmaatregelen en voorwaarden :<br />1° voor 1 mei van het eerste jaar van de beheersovereenkomst wordt een strook gras, grasgang genoemd, met een breedte van 9 meter tot 30 meter tot stand gebracht;<br />2° de grasgang wordt aangelegd op de helling waar het afstromend water al van nature wordt geconcentreerd; de plaats waar de grasgang moet worden aangelegd, wordt aangeduid in de beheersovereenkomst; <br />3° de grasgang wordt tot stand gebracht door de strook in te zaaien met een grasmengsel of door een bestaande grasstrook te behouden;<br />4° het perceel mag uitsluitend als akkerland gebruikt worden maar opname van gras in een jaarlijkse teeltrotatie is toegestaan;<br />5° er mogen geen bestrijdingsmiddelen gebruikt worden in de grasgang, uitgezonderd voor pleksgewijze bestrijding van distels;<br />6° op de grasgang mag geen mest worden opgeslagen;<br />7° de grasgang moet gedurende vijf opeenvolgende jaren een aaneengesloten grasmat vormen;<br />8° als zich een ploegvoor of ploegwal vormt naast de grasgang, dan moet die verwijderd worden;<br />9° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3;<br />10° de beheerder moet de percelen waarmee het beheersvoorwerp volgens het GBCS is verbonden, op 1 januari van elk jaar van de beheersovereenkomst in gebruik hebben.
+Het beheerspakket aanleg en onderhoud van grasgangen omvat de volgende beheersmaatregelen en voorwaarden :<br />1° voor 1 mei van het eerste jaar van de beheersovereenkomst wordt een strook gras, grasgang genoemd, met een breedte van 9 meter tot 30 meter tot stand gebracht;<br />2° de grasgang wordt aangelegd op de helling waar het afstromend water al van nature wordt geconcentreerd; de plaats waar de grasgang moet worden aangelegd, wordt aangeduid in de beheersovereenkomst; <br />3° de grasgang wordt tot stand gebracht door de strook in te zaaien met een grasmengsel of door een bestaande grasstrook te behouden;<br />4° het perceel mag uitsluitend als akkerland gebruikt worden maar opname van gras in een jaarlijkse teeltrotatie is toegestaan;<br />5° er mogen geen bestrijdingsmiddelen gebruikt worden in de grasgang, uitgezonderd voor de bestrijding van distels voor zover de bestrijding gebeurt op de volgende wijze :<br />a) ofwel worden bestrijdingsmiddelen gebruikt voor een pleksgewijze bestrijding;<br />b) ofwel worden bestrijdingsmiddelen gebruikt voor een niet pleksgewijze bestrijding; deze wijze van bestrijding is alleen mogelijk als een pleksgewijze bestrijding niet volstaat en als een deskundige van de maatschappij de niet pleksgewijze bestrijding goedkeurt; <br />6° op de grasgang mag geen mest worden opgeslagen;<br />7° de grasgang moet gedurende vijf opeenvolgende jaren een aaneengesloten grasmat vormen;<br />8° als zich een ploegvoor of ploegwal vormt naast de grasgang, dan moet die verwijderd worden;<br />9° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3;<br />10° ...
 
 ## Afdeling IV. Beheerspakket niet-kerende bodembewerking
 
@@ -322,7 +322,7 @@ Het beheerspakket directe inzaai omvat naast de beheersmaatregelen en voorwaarde
 
 ### ART. 56.
 
-Het beheerspakket aanleg en onderhoud van aarden dam met erosiepoel omvat de volgende beheersmaatregelen en voorwaarden :<br />1° het perceel wordt gebruikt als akkerland of grasland; <br />2° op het perceel wordt een erosiepoel van maximaal 0,5 meter diep gegraven;<br />3° al de uitgegraven grond wordt gebruikt om aan de stroomafwaartse grens van de erosiepoel een dam aan te leggen;<br />4° de afmeting van de dam wordt bepaald in de beheersovereenkomst; <br />5° de dam wordt over de hele lengte op hetzelfde peil aangelegd maar moet niet op een rechte lijn worden aangelegd;<br />6° de erosiepoel en dam worden ingezaaid met een grasmengsel;<br />7° er mogen geen bestrijdingsmiddelen gebruikt worden in de erosiepoel of op de dam, uitgezonderd voor pleksgewijze bestrijding van distels;<br />8° de grasmat van de erosiepoel en de dam moeten gedurende vijf opeenvolgende jaren een aaneengesloten grasmat vormen;<br />9° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3;<br />10° de beheerder moet de percelen waarmee het beheersvoorwerp volgens het GBCS is verbonden, op 1 januari van elk jaar van de beheersovereenkomst in gebruik hebben.
+Het beheerspakket aanleg en onderhoud van aarden dam met erosiepoel omvat de volgende beheersmaatregelen en voorwaarden :<br />1° het perceel wordt gebruikt als akkerland of grasland; <br />2° op het perceel wordt een erosiepoel van maximaal 0,5 meter diep gegraven;<br />3° al de uitgegraven grond wordt gebruikt om aan de stroomafwaartse grens van de erosiepoel een dam aan te leggen;<br />4° de afmeting van de dam wordt bepaald in de beheersovereenkomst; <br />5° de dam wordt over de hele lengte op hetzelfde peil aangelegd maar moet niet op een rechte lijn worden aangelegd;<br />6° de erosiepoel en dam worden ingezaaid met een grasmengsel;<br />7° er mogen geen bestrijdingsmiddelen gebruikt worden in de erosiepoel of op de dam, uitgezonderd voor pleksgewijze bestrijding van distels;<br />8° de grasmat van de erosiepoel en de dam moeten gedurende vijf opeenvolgende jaren een aaneengesloten grasmat vormen;<br />9° de beheerder moet het beheersvoorwerp gedurende de volledige looptijd van de beheersovereenkomst in gebruik hebben volgens de gegevens opgenomen in het GBCS, tenzij het beheersvoorwerp wordt overgenomen overeenkomstig artikel 3;<br />10° op het perceel wordt maximaal 500 meter dam per hectare aangelegd.
 
 ## HOOFDSTUK VII. Het beheerspakket maatregelen voor een verminderde bemesting
 
@@ -396,371 +396,312 @@ Afbakening van de beheersgebieden waarbinnen beheersovereenkomsten kunnen worden
 
 ### BIJLAGE VI.
 
-Grasmengsel (artikel 1, 2°)<br>
+<p>Grasmengsel (vermeld in artikel 1, 2°)<br>
 <br>
-1. Wanneer in het kader van de beheerspakketten perceelsrandenbeheer of weidevogelbeheer een grasmengsel moet worden ingezaaid, moet voldaan worden aan de volgende voorwaarden :<br>
-a) het grasmengsel bestaat uitsluitend uit de grassoorten of kruidachtigen, vermeld in de onderstaande lijst;<br>
+§ 1. Wanneer in het kader van de beheerspakketten perceelsrandenbeheer of weidevogelbeheer een grasmengsel moet worden ingezaaid, moet voldaan worden aan de volgende voorwaarden :<br>
+a) het grasmengsel bestaat uitsluitend uit de grassoorten of kruidachtigen, vermeld in de onderstaande tabel;<br>
 b) het grasmengsel bestaat uit minstens 3 soorten waarvan minstens 2 grassoorten;<br>
-c) het aandeel grassoorten in het grasmengsel bedraagt minstens 70 procent;<br>
-d) het percentage van de soort in kwestie in het grasmengsel mag het percentage, vermeld in onderstaande lijst, niet overschrijden;<br>
-e) er mag maximaal 20 kg zaaigoed per hectare worden ingezaaid;<br>
+c) het aandeel engels- of italiaans raaigras in het grasmengsel bedraagt samen maximaal 40 procent;<br>
+d) het aandeel kruidachtigen in het grasmengsel bedraagt maximaal 10 procent;<br>
+e) er wordt maximaal 20 kg zaaigoed per hectare ingezaaid;<br>
 f) de factuur voor aankoop of schonen van het zaaigoed wordt gedurende 5 jaar bewaard en wordt bij controle voorgelegd.<br>
 <br>
 Wanneer in het kader van de beheerspakketten erosiebestrijding een grasmengsel moet worden ingezaaid, moet voldaan worden aan de volgende voorwaarden :<br>
-a) het grasmengsel bestaat uitsluitend uit de grassoorten of kruidachtigen, vermeld in de onderstaande lijst;<br>
+a) het grasmengsel bestaat uitsluitend uit de grassoorten of kruidachtigen, vermeld in de onderstaande tabel;<br>
 b) het grasmengsel bestaat uit minstens 3 soorten waarvan minstens 2 grassoorten aangeduid met *;<br>
-c) het aandeel grassoorten in het grasmengsel bedraagt minstens 70 procent;<br>
-d) er wordt minimaal 50 kg zaaigoed per hectare ingezaaid;<br>
-e) de factuur voor aankoop of schonen van het zaaigoed wordt gedurende 5 jaar bewaard en wordt bij controle voorgelegd.<br>
+c) het aandeel engels- of italiaans raaigras in het grasmengsel bedraagt samen maximaal 40 procent;<br>
+d) het aandeel kruidachtigen in het grasmengsel bedraagt maximaal 10 procent;<br>
+e) er wordt minimaal 50 kg zaaigoed per hectare ingezaaid;<br>
+f) de factuur voor aankoop of schonen van het zaaigoed wordt gedurende 5 jaar bewaard en wordt bij controle voorgelegd.</p>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:447.9pt">
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:99.25pt">
-			<p><!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /-->&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.8pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>Nederlandse naam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Wetenschappelijke naam</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:121.9pt">
-			<p>Max. aandeel in het mengsel (%) voor beheerspakketten perceelsrandenbeheer en weidevogelbeheer</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:99.25pt">
+			<td rowspan="14" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.8pt">
 			<p>Grassoorten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>engels* - of italiaans raaigras</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Lolium perenne/multiflorum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
-			<p>40</p>
-			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:99.25pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>timotee</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Phleum pratense subsp. pratense</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
-			<p>30</p>
-			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:99.25pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>rood zwenkgras*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Festuca rubra</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
-			<p>30</p>
-			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:99.25pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>kropaar</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Dactylis glomerata</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
-			<p>30</p>
-			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:99.25pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>beemdlangbloem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Festuca pratensis</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
-			<p>30</p>
-			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:99.25pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>gewoon struisgras*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Agrostis capillaris</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
-			<p>30</p>
-			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:99.25pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>rietzwenkgras*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Festuca arundinaceae</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
-			<p>30</p>
-			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:99.25pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>reukgras*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Anthoxanthum odoratum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
-			<p>30</p>
-			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:99.25pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
+			<p>veldbeemdgras*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
-			<p>beldbeemdgras*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Poa pratensis</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
-			<p>30</p>
-			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:99.25pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>ruw Beemdgras*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Poa trivialis</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
-			<p>30</p>
-			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:99.25pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>kweek*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Elymus repens</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
-			<p>30</p>
-			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:99.25pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>grote vossestaart</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Alopecurus pratensis</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
-			<p>30</p>
-			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:99.25pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>fioringras*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Agrostis stolonifera</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
-			<p>30</p>
-			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:99.25pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>gestreepte witbol*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Holcus lanatus</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
-			<p>30</p>
-			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:99.25pt">
+			<td rowspan="3" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.8pt">
 			<p>Kruidachtigen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>rode klaver</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Trifolium pratense</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
-			<p>30</p>
-			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:99.25pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>witte klaver</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Trifolium repens</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
-			<p>30</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:99.25pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>luzerne</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Medicago sativa</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:121.9pt">
-			<p>30</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
 <p>&nbsp;</p>
-<br>
-De grassoorten aangeduid met * vormen goede graszoden.<br>
-<br>
-2. Wanneer in het kader van de beheerspakketten akkervogelbeheer een grasmengsel moet worden ingezaaid, moet voldaan worden aan de volgende voorwaarden :<br>
-a) het grasmengsel bestaat uitsluitend uit de grassoorten, vermeld in de onderstaande lijst;<br>
-b) het grasmengsel bestaat uit minstens 3 grassoorten;<br>
-c) er mag maximaal 15 kg zaaigoed per hectare worden ingezaaid;<br>
-d) de factuur voor aankoop of schonen van het zaaigoed wordt gedurende 5 jaar bewaard en wordt bij controle voorgelegd.<br>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:12cm">
+<p>De grassoorten aangeduid met * vormen goede graszoden.<br>
+<br>
+§ 2. Wanneer in het kader van de beheerspakketten akkervogelbeheer een grasmengsel moet worden ingezaaid, moet voldaan worden aan de volgende voorwaarden :<br>
+a) het grasmengsel bestaat uitsluitend uit de grassoorten of kruidachtigen, vermeld in de onderstaande tabel;<br>
+b) het grasmengsel bestaat uit minstens 3 grassoorten waarvan minstens 2 grassoorten aangeduid met *;<br>
+c) het aandeel italiaans raaigras in het grasmengsel bedraagt maximaal 20 procent;<br>
+d) het aandeel kruidachtigen in het grasmengsel bedraagt maximaal 10 procent;<br>
+e) er mag maximaal 15 kg zaaigoed per hectare worden ingezaaid;<br>
+f) de factuur voor aankoop of schonen van het zaaigoed wordt gedurende 5 jaar bewaard en wordt bij controle voorgelegd.<br>
+<br>
+Met het oog op het uittesten van nieuwe grasmengsels kan van de voorwaarden vermeld in het eerste lid worden afgeweken voor zover voldaan is aan al de volgende voorwaarden :<br>
+a) de nieuwe grasmengsels worden uitgetest binnen de kerngebieden, vermeld in artikel 7;<br>
+b) in de beheersovereenkomst wordt de samenstelling van het nieuwe grasmengsel bepaald alsook de maximale hoeveelheid zaaigoed dat per hectare wordt ingezaaid;<br>
+c) de factuur voor aankoop of schonen van het zaaigoed wordt gedurende 5 jaar bewaard en wordt bij controle voorgelegd.</p>
+
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:12cm">
-			<p>Grassoorten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:176.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.8pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>Nederlandse naam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:163.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Wetenschappelijke naam</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:176.4pt">
+			<td rowspan="8" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.8pt">
+			<p>Grassoorten</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
+			<p>italiaans raaigras *</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
+			<p>Lolium multiflorum</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>timotee</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:163.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Phleum pratense subsp. pratense</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:176.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>rood zwenkgras</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:163.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Festuca rubra</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:176.4pt">
-			<p>kropaar</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
+			<p>kropaar *</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:163.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Dactylis glomerata</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:176.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>beemdlangbloem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:163.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Festuca pratensis</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:176.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>gewoon struisgras</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:163.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Agrostis capillaris</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:176.4pt">
-			<p>rietzwenkgras</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
+			<p>rietzwenkgras *</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:163.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Festuca arundinaceae</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:176.4pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
 			<p>veldbeemdgras</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:163.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
 			<p>Poa pratensis</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.8pt">
+			<p>Kruidachtigen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
+			<p>luzerne</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
+			<p>Medicago sativa</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
+			<p>rode klaver</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
+			<p>Trifolium pratense</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:147.35pt">
+			<p>gewone rolklaver</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.6pt">
+			<p>Lotus corniculatus var. corniculatus</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
 <p>&nbsp;</p>
+
+<p>De grassoorten aangeduid met * zijn pollenvormende grassoorten</p>
 
 ### BIJLAGE VII.
 
-Lijst van bomen en struiken (artikel 33)<br>
-<br>
-
+Lijst van bomen en struiken (artikel 33)
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:12cm">
 	<tbody>
 		<tr>
@@ -793,6 +734,14 @@ Lijst van bomen en struiken (artikel 33)<br>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.2pt; width:177.95pt">
 			<p><em>Salix caprea</em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.2pt; width:162.25pt">
+			<p>brem</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.2pt; width:177.95pt">
+			<p><em>Cytisus scoparius </em></p>
 			</td>
 		</tr>
 		<tr>
@@ -877,6 +826,14 @@ Lijst van bomen en struiken (artikel 33)<br>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.2pt; width:162.25pt">
+			<p>grootbladige linde</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.2pt; width:177.95pt">
+			<p><em>Tilia playphyllos </em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.2pt; width:162.25pt">
 			<p>haagbeuk</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.2pt; width:177.95pt">
@@ -913,6 +870,14 @@ Lijst van bomen en struiken (artikel 33)<br>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.2pt; width:177.95pt">
 			<p><em>Salix viminali </em></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.2pt; width:162.25pt">
+			<p>kleinbladige linde</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.2pt; width:177.95pt">
+			<p><em>Tilia cordata </em></p>
 			</td>
 		</tr>
 		<tr>
