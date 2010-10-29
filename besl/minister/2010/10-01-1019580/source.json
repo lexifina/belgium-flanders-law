@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019580,
+  "title": "Ministerieel besluit van 2010-10-01 tot wijziging van diverse bepalingen van het ministerieel besluit van 11 juni 2008 betreffende het sluiten van beheersovereenkomsten en het toekennen van vergoedingen ter uitvoering van Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019580/VolledigDocument?datum=2010-10-29",
+  "source_sha256": "e0e2edab0fd951794d149d606cea0f4b1f1bfb2881cd1c3eebddd18cba4b54c0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019580&param=informatie",
+  "as_of": "2010-10-29",
+  "made": "2010-10-01",
+  "gazette": "2010-10-19",
+  "numac": 2010035764,
+  "document_start": "2010-10-29",
+  "document_end": null,
+  "in_force": "2010-10-29",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2010-10-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
