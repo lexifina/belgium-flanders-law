@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019590,
+  "title": "Besluit van de Vlaamse Regering van 2010-07-23 tot wijziging van het besluit van de Vlaamse Regering van 11 maart 2005 tot vaststelling van de eisen op het vlak van de energieprestaties en het binnenklimaat van gebouwen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019590/VolledigDocument?datum=2010-10-31",
+  "source_sha256": "138d791a4291c808c06c45c3791d22573c39e437fa27d08fe191216c36430847",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019590&param=informatie",
+  "as_of": "2010-10-31",
+  "made": "2010-07-23",
+  "gazette": "2010-10-21",
+  "numac": 2010035745,
+  "document_start": "2010-10-31",
+  "document_end": null,
+  "in_force": "2010-10-31",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2010-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
