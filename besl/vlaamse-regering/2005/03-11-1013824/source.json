@@ -2,16 +2,16 @@
   "codex_id": 1013824,
   "title": "Besluit van de Vlaamse Regering van 2005-03-11 tot vaststelling van de eisen op het vlak van de energieprestaties en het binnenklimaat van gebouwen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013824/VolledigDocument?datum=2009-07-16",
-  "source_sha256": "a5a0236e2bd7beccfa9d9253749c5421b71cfcbe8102305d7d40e6e7706e2bf5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013824/VolledigDocument?datum=2010-10-31",
+  "source_sha256": "d9c0a2c573b05253f5a49cf2be10e729023d3377d14540eca5bf0625925a85c2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013824&param=informatie",
-  "as_of": "2009-07-16",
+  "as_of": "2010-10-31",
   "made": "2005-03-11",
   "gazette": "2005-06-17",
   "numac": 2005035520,
   "document_start": "2006-01-01",
   "document_end": "2010-12-31",
-  "in_force": "2009-07-16",
+  "in_force": "2010-10-31",
   "article_versions": 87,
-  "record_form": "consolidated version as in force on 2009-07-16; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-10-31; future article versions excluded; article text as the API gives it"
 }
