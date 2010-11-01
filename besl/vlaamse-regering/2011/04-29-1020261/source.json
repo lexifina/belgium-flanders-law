@@ -2,16 +2,16 @@
   "codex_id": 1020261,
   "title": "Besluit van de Vlaamse Regering van 2011-04-29 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006 wat betreft de kinderbijslag, de jeugdzorgtoelage en andere bepalingen, en tot wijziging van het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de arrondissements-commissarissen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020261/VolledigDocument?datum=2010-07-01",
-  "source_sha256": "987b8e62de28e0016080909845d807f365fb9dc27ad73a357f7e44bb86b17876",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020261/VolledigDocument?datum=2010-11-01",
+  "source_sha256": "c76375854526c1ab6b6a773a48d4d3f7a0f5c1ce9ddca4afde34dc07ff91af4f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020261&param=informatie",
-  "as_of": "2010-07-01",
+  "as_of": "2010-11-01",
   "made": "2011-04-29",
   "gazette": "2011-05-19",
   "numac": 2011035360,
   "document_start": "2011-04-29",
   "document_end": null,
-  "in_force": "2010-07-01",
-  "article_versions": 16,
-  "record_form": "consolidated version as in force on 2010-07-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-11-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2010-11-01; future article versions excluded; article text as the API gives it"
 }
