@@ -2,16 +2,16 @@
   "codex_id": 1018521,
   "title": "Omzendbrief van 2009-10-27 Richtlijn van Toerisme Vlaanderen op basis van de bepalingen van het besluit van 2 april 2004 van de Vlaamse Regering betreffende de erkenning en financiële ondersteuning van toeristisch-recreatieve projecten en strategische plannen",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018521/VolledigDocument?datum=2009-11-01",
-  "source_sha256": "b63620d7f9e5aa68c97b69f7fb5a017dc0f5acf8ac378cae114a4ad090e7b9a8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018521/VolledigDocument?datum=2010-11-01",
+  "source_sha256": "19477d869935a5365d703fdcc1000eb3129cc49452f27420cd6041b9dbbdfda4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018521&param=informatie",
-  "as_of": "2009-11-01",
+  "as_of": "2010-11-01",
   "made": "2009-10-27",
   "gazette": "2009-11-17",
   "numac": 2009205164,
   "document_start": "2009-11-01",
   "document_end": "2010-10-31",
-  "in_force": "2009-11-01",
+  "in_force": "2010-11-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2009-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-11-01; future article versions excluded; article text as the API gives it"
 }
