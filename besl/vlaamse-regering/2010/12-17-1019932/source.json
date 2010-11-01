@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019932,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-17 tot wijziging van artikelen 1 en 16 van het besluit van de Vlaamse Regering van 7 november 2008 betreffende het opzetten van een experiment voor de toekenning van een persoonsgebonden budget aan bepaalde personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019932/VolledigDocument?datum=2010-11-01",
+  "source_sha256": "a4c301a714d1db5acff43e8d9c48310083f1033f4ef1d95acd9f3c553c23eb50",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019932&param=informatie",
+  "as_of": "2010-11-01",
+  "made": "2010-12-17",
+  "gazette": "2011-01-20",
+  "numac": 2011200187,
+  "document_start": "2010-11-01",
+  "document_end": null,
+  "in_force": "2010-11-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2010-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
