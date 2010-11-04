@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019599,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-24 houdende de gedeeltelijke herverdeling van het provisioneel krediet, ingeschreven onder de basisallocatie DB0 DB000 0100 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2010",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019599/VolledigDocument?datum=2010-11-04",
+  "source_sha256": "ecc0d8f549e5f950ff53019e0b5534b8e9a0e061294420b33dfb58aa199f5df2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019599&param=informatie",
+  "as_of": "2010-11-04",
+  "made": "2010-09-24",
+  "gazette": "2010-10-25",
+  "numac": 2010035765,
+  "document_start": "2010-11-04",
+  "document_end": null,
+  "in_force": "2010-11-04",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2010-11-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
