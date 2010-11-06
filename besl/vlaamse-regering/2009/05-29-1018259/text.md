@@ -14,7 +14,7 @@ Voor de toepassing van het Vlaams personeelsstatuut van 13 januari 2006 :<br />1
 
 ### ART. 2.
 
-De zetel van de Raad voor vergunningsbetwistingen is gevestigd in het Phoenixgebouw, Koning Albert II-laan 19, 1210 Brussel.<br /><br />De Raad kan zijn zittingen evenwel organiseren in de provinciehoofdsteden, onder de voorwaarden, bepaald in zijn reglement van orde. Het departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed treft in dat geval de nodige schikkingen daartoe.
+De zetel van de Raad voor vergunningsbetwistingen is gevestigd in het Ellipsgebouw, Koning Albert II-laan 35, 1030 Brussel.<br /><br />De Raad kan zijn zittingen evenwel organiseren in de provinciehoofdsteden, onder de voorwaarden, bepaald in zijn reglement van orde. Het departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed treft in dat geval de nodige schikkingen daartoe.
 
 ### ART. 3.
 
