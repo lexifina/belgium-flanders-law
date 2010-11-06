@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019620,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-24 tot wijziging van de zetel van de Raad voor vergunningsbetwistingen, vastgesteld bij artikel 2 van het besluit van de Vlaamse Regering van 29 mei 2009 tot regeling van sommige aspecten van de organisatie en werking van de Raad voor vergunningsbetwistingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019620/VolledigDocument?datum=2010-11-06",
+  "source_sha256": "ab233a09eb94241e56728400042d516c33fb892a9baa28978100c43caf15614d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019620&param=informatie",
+  "as_of": "2010-11-06",
+  "made": "2010-09-24",
+  "gazette": "2010-10-27",
+  "numac": 2010205425,
+  "document_start": "2010-11-06",
+  "document_end": null,
+  "in_force": "2010-11-06",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-11-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
