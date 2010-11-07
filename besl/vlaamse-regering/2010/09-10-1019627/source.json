@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019627,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-10 tot wijziging van het besluit van de Vlaamse Regering van 30 november 2007 houdende aanduiding van de Vlaamse Auditautoriteit voor de Europese Structuurfondsen en houdende oprichting van de Auditcel van de Auditautoriteit, wat betreft de aanduiding van de Auditautoriteit inzake het Europees Fonds voor de integratie van onderdanen van derde landen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019627/VolledigDocument?datum=2010-11-07",
+  "source_sha256": "d5225dfde8a2a2c92f08ef013dc3c516c875b88b14b59c303252441242b0bd33",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019627&param=informatie",
+  "as_of": "2010-11-07",
+  "made": "2010-09-10",
+  "gazette": "2010-10-28",
+  "numac": 2010205561,
+  "document_start": "2010-11-07",
+  "document_end": null,
+  "in_force": "2010-11-07",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2010-11-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
