@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019640,
+  "title": "Ministerieel besluit van 2010-07-23 betreffende de hoogdringende onteigening ten algemene nutte van onroerende goederen op het grondgebied van de gemeenten Berlare, Laarne, Wetteren en Wichelen, in het kader van en noodzakelijk voor de inrichting van de Kalkense Meersen, onderdeel van het geactualiseerd Sigmaplan",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019640/VolledigDocument?datum=2010-11-13",
+  "source_sha256": "add4506f9b981f8b01b52c9f5dbfe47c3ee876d4f56d3aedbc1a4a365181d876",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019640&param=informatie",
+  "as_of": "2010-11-13",
+  "made": "2010-07-23",
+  "gazette": "2010-11-03",
+  "numac": 2010035800,
+  "document_start": "2010-11-13",
+  "document_end": null,
+  "in_force": "2010-11-13",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2010-11-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
