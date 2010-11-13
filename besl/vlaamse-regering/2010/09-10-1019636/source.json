@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019636,
+  "title": "Besluit van de Vlaamse Regering van 2010-09-10 houdende vaststelling van de voorwaarden waaronder een waarborg kan worden verleend voor de terugbetaling van de leningen, toegestaan door het Fonds ter reductie van de globale energiekost",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019636/VolledigDocument?datum=2010-11-13",
+  "source_sha256": "caf14fdeabbeb5b4cc7958466820cbd0385940cd98b99abba3780672988919e7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019636&param=informatie",
+  "as_of": "2010-11-13",
+  "made": "2010-09-10",
+  "gazette": "2010-11-03",
+  "numac": 2010205560,
+  "document_start": "2010-11-13",
+  "document_end": "2015-07-24",
+  "in_force": "2010-11-13",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2010-11-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
