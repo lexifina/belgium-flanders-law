@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019645,
+  "title": "Besluit van de Vlaamse Regering van 2010-07-23 tot vaststelling van gewestelijke instandhoudingsdoelstellingen voor Europees te beschermen soorten en habitats",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019645/VolledigDocument?datum=2010-11-15",
+  "source_sha256": "9cdba3f1ca62717924fb361e2309f8bd7d9eb94e2e65d53a280a22d61d6457c3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019645&param=informatie",
+  "as_of": "2010-11-15",
+  "made": "2010-07-23",
+  "gazette": "2010-11-05",
+  "numac": 2010035780,
+  "document_start": "2010-11-15",
+  "document_end": null,
+  "in_force": "2010-11-15",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2010-11-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
