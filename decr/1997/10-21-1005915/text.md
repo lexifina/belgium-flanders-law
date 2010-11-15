@@ -486,7 +486,7 @@ De habitattypes van bijlage I van de Habitatrichtlijn die in Vlaanderen voorkome
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:48.5pt">
-			<p>Code</p>
+			<p>Code<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:36pt">
 			<p>Prioriteit</p>
@@ -706,6 +706,17 @@ De habitattypes van bijlage I van de Habitatrichtlijn die in Vlaanderen voorkome
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
+			<p>3160</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
+			<p>Dystrofe natuurlijke poelen en meren</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
 			<p>3260</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
@@ -713,6 +724,17 @@ De habitattypes van bijlage I van de Habitatrichtlijn die in Vlaanderen voorkome
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
 			<p>Submontane en laagland rivieren met vegetaties behorend tot het Ranunculion fluitans en het Callitricho-Batrachion</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
+			<p>3270</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
+			<p>Rivieren met slikoevers met vegetaties behorend tot het Chenopodietum rubri p.p. en Bidention p.p.</p>
 			</td>
 		</tr>
 		<tr>
@@ -746,6 +768,17 @@ De habitattypes van bijlage I van de Habitatrichtlijn die in Vlaanderen voorkome
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
 			<p>Juniperus communis-formaties in heidevelden of op kalkgrasland</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
+			<p>6120</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>*</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
+			<p>Kalkminnend grasland op dorre zandbodem</p>
 			</td>
 		</tr>
 		<tr>
@@ -921,7 +954,18 @@ De habitattypes van bijlage I van de Habitatrichtlijn die in Vlaanderen voorkome
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
-			<p>Beukenbossen van het type Asperulo-Fagetu</p>
+			<p>Beukenbossen van het type Asperulo-Fagetum</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.5pt">
+			<p>9150</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:36pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:376.1pt">
+			<p>Midden-Europese kalkminnende beukenbossen behorend tot het Cephalanthero-Fagetum</p>
 			</td>
 		</tr>
 		<tr>
