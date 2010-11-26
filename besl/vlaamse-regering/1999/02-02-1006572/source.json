@@ -2,16 +2,16 @@
   "codex_id": 1006572,
   "title": "Besluit van de Vlaamse Regering van 1999-02-02 betreffende de werking en de organisatie van het paritair college van onderwijsinspecteurs belast met het advies betreffende de opheffing van de erkenning van een school of een vestigingsplaats ervan, een onderwijsinstelling of een onderdeel ervan",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006572/VolledigDocument?datum=2008-09-01",
-  "source_sha256": "04510f2d07033a71af367f98059106b3d9d8a28085de6d268d8dd32c6d73807e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006572/VolledigDocument?datum=2010-11-26",
+  "source_sha256": "97b03f765e3e4095f9b269e4b6cb202044b5037ba99e9f3c8205fa3e47fd26f2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006572&param=informatie",
-  "as_of": "2008-09-01",
+  "as_of": "2010-11-26",
   "made": "1999-02-02",
   "gazette": "1999-03-27",
   "numac": 1999035374,
   "document_start": null,
   "document_end": "2010-11-25",
-  "in_force": "2008-09-01",
+  "in_force": "2010-11-26",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-11-26; future article versions excluded; article text as the API gives it"
 }
