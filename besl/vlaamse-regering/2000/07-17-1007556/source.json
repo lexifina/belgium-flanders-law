@@ -2,16 +2,16 @@
   "codex_id": 1007556,
   "title": "Besluit van de Vlaamse Regering van 2000-07-17 tot vaststelling van de procedure voor opname in de financiering of subsidiëringsregeling van de centra voor leerlingenbegeleiding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007556/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f50ee533451a501f5b6f0edfccfcc546736428b45a9198cd13295307f08e65e0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007556/VolledigDocument?datum=2010-11-26",
+  "source_sha256": "5a4639950e1fe43c02f4da5228d2f3c5c84d46783120f90acd6fd4e154fb8cad",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007556&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2010-11-26",
   "made": "2000-07-17",
   "gazette": "2000-09-23",
   "numac": 2000035932,
   "document_start": null,
   "document_end": "2010-11-25",
-  "in_force": "2006-06-01",
+  "in_force": "2010-11-26",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-11-26; future article versions excluded; article text as the API gives it"
 }
