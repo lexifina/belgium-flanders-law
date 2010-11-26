@@ -2,16 +2,16 @@
   "codex_id": 1006582,
   "title": "Besluit van de Vlaamse Regering van 1999-02-02 betreffende de wijze waarop sommige bevoegdheden van de onderwijsinspectie van de Vlaamse Gemeenschap worden uitgevoerd",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006582/VolledigDocument?datum=2008-09-19",
-  "source_sha256": "e4e21eabfa08dc77148c38c8f4159cb2924fce6d2d580bd562fc846316a0ea99",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006582/VolledigDocument?datum=2010-11-26",
+  "source_sha256": "14f35724bdc996d300abb23ffed1eab18a781d2404b853f8c1bf7d3dc6f90d3d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006582&param=informatie",
-  "as_of": "2008-09-19",
+  "as_of": "2010-11-26",
   "made": "1999-02-02",
   "gazette": "1999-04-01",
   "numac": 1999035375,
   "document_start": null,
   "document_end": "2010-11-25",
-  "in_force": "2008-09-19",
+  "in_force": "2010-11-26",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2008-09-19; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-11-26; future article versions excluded; article text as the API gives it"
 }
