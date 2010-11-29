@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019719,
+  "title": "Besluit van de Vlaamse Regering van 2010-11-19 tot wijziging van het besluit van de Vlaamse Regering van 14 juli 2004 tot het vaststellen van een onderhoudspremie voor beschermde monumenten en stads- en dorpsgezichten wat betreft premies voor lokale en regionale besturen en voor autonome provincie- en gemeentebedrijven met rechtspersoonlijkheid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019719/VolledigDocument?datum=2010-11-29",
+  "source_sha256": "6981317ecc4ab66ecfe7210e61ac1374f2f352980aa56ab41ade564dd63e07ec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019719&param=informatie",
+  "as_of": "2010-11-29",
+  "made": "2010-11-19",
+  "gazette": "2010-11-29",
+  "numac": 2010035889,
+  "document_start": "2010-11-29",
+  "document_end": null,
+  "in_force": "2010-11-29",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2010-11-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
