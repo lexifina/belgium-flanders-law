@@ -22,16 +22,16 @@ Besluit :<br>
 
 ### ART 2.
 
-Een uitgewerkt programma van de jaarlijkse opleiding voorzien in artikel 14 van het koninklijk besluit van 11 mei 2004 betreffende de voorwaarden voor erkenning van scholen voor het besturen van motorvoertuigen wordt elk jaar overgemaakt aan de Federale Overheidsdienst Mobiliteit en Vervoer, Mobiliteit en Verkeersveiligheid, directie Verkeersveiligheid, dienst Rijbewijs.<br>
+Een uitgewerkt programma van de jaarlijkse opleiding voorzien in artikel 14 van het koninklijk besluit van 11 mei 2004 betreffende de voorwaarden voor erkenning van scholen voor het besturen van motorvoertuigen wordt elk jaar overgemaakt aan de Federale Overheidsdienst Mobiliteit en Vervoer, Mobiliteit en Verkeersveiligheid, directie [Certificatie en Inspectie <em>(verv. MB 8 november 2010, art. 1, I:1 december 2010)</em>].<br>
 &nbsp;
 
 ### ART 3.
 
-Het uitgewerkt programma wordt goedgekeurd door de Minister tot wiens bevoegdheid de verkeersveiligheid behoort of de Directeur Verkeersveiligheid van de Federale Overheidsdienst Mobiliteit en Vervoer.<br>
+Het uitgewerkt programma wordt goedgekeurd door de Minister tot wiens bevoegdheid de verkeersveiligheid behoort of de&nbsp;[Adviseur-generaal Certificatie en Inspectie <em>(verv. MB 8 november 2010, art. 2, I: 1 december 2010)</em>]&nbsp;van de Federale Overheidsdienst Mobiliteit en Vervoer.<br>
 <br>
 Colloquia en seminaries kunnen beschouwd worden als opleidingen voor zover het programma goedgekeurd werd door de Minister.<br>
 <br>
-Het programma, om goedgekeurd te kunnen worden, moet minimum één maand voor het plaatsgrijpen, bij de Federale Overheidsdienst Mobiliteit en Vervoer, dienst Rijbewijs toekomen.<br>
+Het programma, om goedgekeurd te kunnen worden, moet minimum één maand voor het plaatsgrijpen, bij de Federale Overheidsdienst Mobiliteit en Vervoer,&nbsp;[Directie Certificatie en Inspectie <em>(verv. MB 8 november 2010, art. 2, I: 1 december 2010)</em>]&nbsp;&nbsp; toekomen.<br>
 &nbsp;
 
 ### ART 4.
@@ -51,18 +51,13 @@ De opleiding die voor het verkrijgen van een ander brevet gevolgd werd, wordt ni
 
 ### ART 6.
 
-Het aantal uren opleiding bedraagt minimum 12 lesuren voor het voltijds werkend personeel en voor het drie vierden deeltijds werkende personeel.<br>
-<br>
-Het bedraagt 24 uur voor het halftijds werkende personeel en voor het één vierde deeltijds werkende personeel.<br>
-<br>
-Voor het personeel dat werkt volgens een ander arbeidsritme dan hierboven bepaald, wordt het aantal uren opleiding bepaald als volgt : het aantal uren per week dat gepresteerd wordt door het voltijds werkend personeel gedeeld door het aantal uren dat het personeel met een ander arbeidsritme presteert. Is het quotiënt van die deling kleiner of gelijk aan 50 % van een voltijds uurrooster, dan moet er 24 uur opleiding gevolgd worden. Is het quotiënt groter dan 50 % dan moet er slechts 12 uur gevolgd worden.<br>
-&nbsp;
+[... <em>(opgeh. MB 8 november 2010, art. 3, I: 1 december 2010)</em>]
 
 ### ART 7.
 
 De rijschooldirecteur ziet erop toe dat elke adjunct-rijschooldirecteur en elke instructeur die onder zijn toezicht geplaatst is, de in dit besluit bedoelde opleiding volgt. Hij houdt een lijst bij met alle namen van de adjunct-rijschooldirecteurs en de instructeurs met vermelding van fulltime of parttime (kleiner of gelijk aan 50 %) die de opleiding hebben gevolgd, met vermelding van de datum en de uren. Deze lijst vermeldt ook zijn naam.<br>
 <br>
-Deze lijst wordt elk jaar voor 15 januari overgemaakt aan de Federale Overheidsdienst Mobiliteit en Vervoer, dienst Rijbewijs, sectie Rijscholen met de bewijsstukken van de personeelsleden die de opleiding hebben gevolgd.<br>
+Deze lijst wordt elk jaar voor 15 januari overgemaakt aan de Federale Overheidsdienst Mobiliteit en Vervoer, [Directie Certificatie en Inspectie <em>(verv. MB 8 november 2010, art. 4, I: 1 december 2010)</em>]&nbsp;met de bewijsstukken van de personeelsleden die de opleiding hebben gevolgd.<br>
 &nbsp;
 
 ### ART 8.
