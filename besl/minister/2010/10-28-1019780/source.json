@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019780,
+  "title": "Ministerieel besluit van 2010-10-28 tot wijziging van de bijlagen bij het besluit van de Vlaamse Regering van 16 juli 2010 betreffende de meldingsplichtige handelingen ter uitvoering van de Vlaamse Codex Ruimtelijke Ordening",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019780/VolledigDocument?datum=2010-12-01",
+  "source_sha256": "8178192c9cd4246b82e15452407052e3fd83f6f96eb8fd73a801cf4376333d7b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019780&param=informatie",
+  "as_of": "2010-12-01",
+  "made": "2010-10-28",
+  "gazette": "2010-12-15",
+  "numac": 2010035898,
+  "document_start": "2010-12-01",
+  "document_end": null,
+  "in_force": "2010-12-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2010-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
