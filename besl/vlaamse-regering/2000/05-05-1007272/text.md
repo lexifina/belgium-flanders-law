@@ -22,7 +22,7 @@ Als handelingen van algemeen belang, zoals bedoeld in artikel 4.1.1, 5°, van de
 
 ### ART. 3/1.
 
-De handelingen opgesomd in artikel 3, § 1, 1°, 5° en 6°, worden vergund door het college van burgemeester en schepenen overeenkomstig artikel 4.7.1, § 2, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening.<br /><br />Het eerste lid geldt met behoud van de toepassing van artikel 3, 18°, van het besluit van de Vlaamse Regering van 14 april 2000 tot bepaling van de vergunningsplichtige functiewijzigingen en van de handelingen waarvoor geen stedenbouwkundige vergunning nodig is.
+De handelingen opgesomd in artikel 3, § 1, 1°, 5° en 6°, worden vergund door het college van burgemeester en schepenen overeenkomstig artikel 4.7.1, § 2, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening.
 
 ## HOOFDSTUK IV [... (opgeh. BVR 27 november 2015, art. 565, I: 23 februari 2017)]
 
