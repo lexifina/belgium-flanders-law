@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019830,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-03 houdende eerste verdeling van het provisioneel krediet voor de uitgaven in het kader van het duurzaam werkgelegenheidsplan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019830/VolledigDocument?datum=2010-12-03",
+  "source_sha256": "c34f1c57e55b515839bde5b77de6967a205b5950d048ba62a94698cab5d6c413",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019830&param=informatie",
+  "as_of": "2010-12-03",
+  "made": "2010-12-03",
+  "gazette": "2010-12-27",
+  "numac": 2010035973,
+  "document_start": "2010-12-03",
+  "document_end": null,
+  "in_force": "2010-12-03",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2010-12-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
