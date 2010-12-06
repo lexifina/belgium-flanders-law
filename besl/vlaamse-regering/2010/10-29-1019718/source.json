@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019718,
+  "title": "Besluit van de Vlaamse Regering van 2010-10-29 houdende de opheffing van de watering Het Vrijgeweid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019718/VolledigDocument?datum=2010-12-06",
+  "source_sha256": "e63542de32ee7dbb6636b7c75eef437cb4bfe4e5e9434afdffb93fdec92164a8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019718&param=informatie",
+  "as_of": "2010-12-06",
+  "made": "2010-10-29",
+  "gazette": "2010-11-26",
+  "numac": 2010035874,
+  "document_start": "2010-12-06",
+  "document_end": null,
+  "in_force": "2010-12-06",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2010-12-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
