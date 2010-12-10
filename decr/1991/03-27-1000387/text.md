@@ -115,6 +115,18 @@ Een personeelslid kan zich in de procedures, bepaald krachtens dit decreet, stee
 
 ## [HOOFDSTUK IIquinquies SECUNDAIRE ARBEIDSVOORWAARDEN (ing. Decr. 1 juli 2011, art. IX.2, I: 10 december 2010)]
 
+### ART. 12quinquies.
+
+Dit hoofdstuk geldt voor de personeelsleden vermeld in artikel 2, § 1, met uitzondering van het personeel van de pedagogische begeleidingsdiensten.
+
+### ART. 12sexies.
+
+De raad van bestuur - voor het vormingscentrum de afgevaardigd bestuurder - stelt aan haar personeelsleden de middelen ter beschikking die zij nodig hebben om hun opdracht uit te voeren.<br /><br />Als een personeelslid in het kader van zijn opdracht bovenop deze middelen extra onkosten maakt, moet de raad van bestuur - voor het vormingscentrum de afgevaardigd bestuurder - deze onkosten vergoeden op voorwaarde dat het instellingshoofd van de instelling waar het personeelslid zijn opdracht uitoefent aan het personeelslid vooraf toestemming heeft gegeven om die onkosten te maken.<br /><br />De middelen waarvoor de kosten gedragen worden door de raad van bestuur en voor het vormingscentrum door de afgevaardigd bestuurder, blijven eigendom van de scholengroep en voor het vormingscentrum van de Raad van het Gemeenschapsonderwijs.
+
+### ART. 12septies.
+
+§ 1. Personeelsleden die in opdracht van de raad van bestuur - voor het vormingscentrum de afgevaardigd bestuurder - verplaatsingen maken met hun eigen wagen, moto of bromfiets hebben recht op de kilometervergoeding gelijk aan het bedrag dat jaarlijks bepaald wordt in uitvoering van artikel 13 van het koninklijk besluit van 18 januari 1965 houdende algemene regeling inzake reiskosten. De raad van bestuur - voor het vormingscentrum de afgevaardigd bestuurder - kan dit bedrag met maximum 10 % verminderen, op voorwaarde dat ze daarnaast een omniumverzekering heeft afgesloten voor dienstverplaatsingen.<br /><br />Personeelsleden die in opdracht van de raad van bestuur - voor het vormingscentrum de afgevaardigd bestuurder - verplaatsingen maken met het openbaar vervoer genieten, bij de inlevering van het vervoerbewijs, de volledige betaling van de erop vermelde bedragen. De verplaatsingen per trein worden terugbetaald aan het tarief van een standaardbiljet 2e klas.<br /><br />§ 2. In afwijking op paragraaf 1 mag de raad van bestuur - voor het vormingscentrum de afgevaardigd bestuurder - van 1 januari 2011 tot en met 31 december 2011 het bedrag van de kilometervergoeding beperken tot 70 procent van de kilometervergoeding die jaarlijks bepaald wordt in uitvoering van artikel 13 van het koninklijk besluit van 18 januari 1965 houdende algemene regeling inzake reiskosten en van 1 januari 2012 tot en met 31 december 2012 tot 85 procent van voormelde kilometervergoeding.<br /><br />§ 3. De bepalingen van dit artikel gelden niet als de raad van bestuur - voor het vormingscentrum de afgevaardigd bestuurder -een systeem van kilometervergoeding voor dienstverplaatsingen hanteert, dat gunstiger is dan dit vermeld in paragraaf 1 en 2.
+
 ## [HOOFDSTUK IIsexies. BESCHERMING VAN HET PRIVÉLEVEN (ing. Decr. 21 december 2012, art. VIII.5, I: 1 januari 2013)]
 
 ## [HOOFDSTUK IIsepties AUTEURSRECHTEN (ing. decr. 19 juli 2013, art. VI.4, I: 1 september 2013)]
