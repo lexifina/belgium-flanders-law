@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019723,
+  "title": "Besluit van de Vlaamse Regering van 2010-10-15 houdende de vaststelling van specifieke maatregelen voor de co-existentie van genetisch gemodificeerde maïsgewassen met conventionele maïsgewassen en biologische maïsgewassen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019723/VolledigDocument?datum=2010-12-10",
+  "source_sha256": "10ab5db5ff02af5444a774bf19e17593065c311859b4881e85b5e372c3350b25",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019723&param=informatie",
+  "as_of": "2010-12-10",
+  "made": "2010-10-15",
+  "gazette": "2010-11-30",
+  "numac": 2010035914,
+  "document_start": "2010-12-10",
+  "document_end": null,
+  "in_force": "2010-12-10",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2010-12-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
