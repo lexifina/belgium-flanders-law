@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019313,
+  "title": "Besluit van de Vlaamse Regering van 2010-07-23 tot wijziging van de regelgeving betreffende de toelatingsvoorwaarden, de indeling van leergebieden in opleidingen van de basiseducatie en de modulaire structuur van de basiseducatie voor het leergebied wiskunde",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019313/VolledigDocument?datum=2010-12-10",
+  "source_sha256": "9d146cf5d81157e9fc65c57606650f843e97e9cfe49b5439fe28a6023abe80f7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019313&param=informatie",
+  "as_of": "2010-12-10",
+  "made": "2010-07-23",
+  "gazette": "2010-08-20",
+  "numac": 2010035588,
+  "document_start": "2100-01-01",
+  "document_end": null,
+  "in_force": "2010-12-10",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2010-12-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
