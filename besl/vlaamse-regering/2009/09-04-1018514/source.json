@@ -2,16 +2,16 @@
   "codex_id": 1018514,
   "title": "Besluit van de Vlaamse Regering van 2009-09-04 betreffende de toelatingsvoorwaarden voor het volwassenenonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018514/VolledigDocument?datum=2009-09-01",
-  "source_sha256": "12e1941744817d3496f227d5fdf9cb216e80e767843fb7691ea3d9ccd72eb5a1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018514/VolledigDocument?datum=2010-12-10",
+  "source_sha256": "31831d75351589ad517ea9db39592595ffc086e6f5c9c9bdb774981b9606f174",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018514&param=informatie",
-  "as_of": "2009-09-01",
+  "as_of": "2010-12-10",
   "made": "2009-09-04",
   "gazette": "2009-11-09",
   "numac": 2009036018,
   "document_start": "2009-09-01",
   "document_end": null,
-  "in_force": "2009-09-01",
+  "in_force": "2010-12-10",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-12-10; future article versions excluded; article text as the API gives it"
 }
