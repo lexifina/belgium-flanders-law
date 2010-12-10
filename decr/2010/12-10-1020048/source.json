@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020048,
+  "title": "Decreet van 2010-12-10 tot bekrachtiging van de schrapping en vervanging van eindtermen voor het leergebied wiskunde van de basiseducatie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020048/VolledigDocument?datum=2010-12-10",
+  "source_sha256": "cc59eb5ddedb6371e1a9c66ed84f127aa5f73328d5a1579b2fb5f96c82fed6d1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020048&param=informatie",
+  "as_of": "2010-12-10",
+  "made": "2010-12-10",
+  "gazette": "2011-02-18",
+  "numac": 2011035145,
+  "document_start": "2010-12-10",
+  "document_end": null,
+  "in_force": "2010-12-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-12-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
