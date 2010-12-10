@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019964,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-14 houdende de toekenning van subsidies aan de Vlaamse gemeenten in het kader van het fiscaal pact met de lokale besturen. - Begroting 2010, programma BH, basisallocatie BDO BH314 4322 - 42 miljoen euro",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019964/VolledigDocument?datum=2010-12-10",
+  "source_sha256": "7d0a64d51256814b773d9ea303fa6b67d54f71554f9d30cb2fd6fe04f27624bc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019964&param=informatie",
+  "as_of": "2010-12-10",
+  "made": "2010-12-14",
+  "gazette": "2011-01-28",
+  "numac": 2011035051,
+  "document_start": "2010-12-10",
+  "document_end": null,
+  "in_force": "2010-12-10",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2010-12-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
