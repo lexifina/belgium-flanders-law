@@ -40,6 +40,10 @@ In de bijlage van het besluit van de Vlaamse Regering van 10 maart 2006 tot vast
 
 In het artikel 26, § 5, van hetzelfde decreet, wordt het woord « leraar » vervangen door de woorden « leraar secundair volwassenenonderwijs of een lector ».<br /><br />
 
+### ART. IV.11.
+
+Aan artikel 50, § 1, 3°, van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« Op verzoek van een verantwoordelijk bestuurslid van een representatieve vakorganisatie, krijgt een vakbondsafgevaardigde dienstvrijstelling om de vergaderingen van de stuurgroep vermeld in artikel 2, 42°, bij te wonen. De dienstvrij stelling wordt gelijkgesteld met een periode van dienstactiviteit. Het personeelslid behoudt het recht op een salaris. ».<br /><br />
+
 ### ART. IV.20.
 
 In artikel 102, § 2, van hetzelfde decreet worden de woorden « in het ambt van leraar » vervangen door de woorden 'in de ambten van leraar secundair volwassenenonderwijs of van lector ».<br /><br />
@@ -88,6 +92,10 @@ In artikel 13 van hetzelfde decreet worden de volgende wijzigingen aangebracht :
 
 ## HOOFDSTUK VI Centra voor leerlingenbegeleiding
 
+### ART. VI.6.
+
+Aan artikel 78, § 1, van hetzelfde decreet, vervangen bij het decreet van 15 juli 2005, wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« Het personeelslid dat zitting heeft in een lokaal inspraakorgaan dat opgericht is door of krachtens een wet of een decreet, krijgt dienstvrij stelling om de vergaderingen van dat inspraakorgaan bij te wonen. De dienstvrijstelling wordt gelijkgesteld met een periode van dienstactiviteit. Het personeelslid behoudt het recht op een salaris. ».<br /><br />
+
 ## HOOFDSTUK VII Onderwijsinspectie en pedagogische begeleidingsdiensten
 
 ## HOOFDSTUK VIII Studiefinanciering
@@ -100,7 +108,15 @@ Aan artikel 13 van hetzelfde decreet, gewijzigd bij het decreet van 8 mei 2009, 
 
 ## Afdeling I Rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs
 
+### ART. IX.2.
+
+In hetzelfde decreet wordt een hoofdstuk IIquinquies, dat bestaat uit de artikelen 12quinquies tot en met 12septies, ingevoegd, dat luidt als volgt :<br />HOOFDSTUK IIquinquies Secundaire arbeidsvoorwaarden<br /><br />Art. 12quinquies. Dit hoofdstuk geldt voor de personeelsleden vermeld in artikel 2, § 1, met uitzondering van het personeel van de pedagogische begeleidingsdiensten.<br /><br />Art. 12sexies. De raad van bestuur - voor het vormingscentrum de afgevaardigd bestuurder - stelt aan haar personeelsleden de middelen ter beschikking die zij nodig hebben om hun opdracht uit te voeren.<br /><br />Als een personeelslid in het kader van zijn opdracht bovenop deze middelen extra onkosten maakt, moet de raad van bestuur - voor het vormingscentrum de afgevaardigd bestuurder - deze onkosten vergoeden op voorwaarde dat het instellingshoofd van de instelling waar het personeelslid zijn opdracht uitoefent aan het personeelslid vooraf toestemming heeft gegeven om die onkosten te maken.<br /><br />De middelen waarvoor de kosten gedragen worden door de raad van bestuur en voor het vormingscentrum door de afgevaardigd bestuurder, blijven eigendom van de scholengroep en voor het vormingscentrum van de Raad van het Gemeenschapsonderwijs.<br /><br />Art. 12septies. § 1. Personeelsleden die in opdracht van de raad van bestuur - voor het vormingscentrum de afgevaardigd bestuurder - verplaatsingen maken met hun eigen wagen, moto of bromfiets hebben recht op de kilometervergoeding gelijk aan het bedrag dat jaarlijks bepaald wordt in uitvoering van artikel 13 van het koninklijk besluit van 18 januari 1965 houdende algemene regeling inzake reiskosten. De raad van bestuur - voor het vormingscentrum de afgevaardigd bestuurder - kan dit bedrag met maximum 10 % verminderen, op voorwaarde dat ze daarnaast een omniumverzekering heeft afgesloten voor dienstverplaatsingen.<br /><br />Personeelsleden die in opdracht van de raad van bestuur - voor het vormingscentrum de afgevaardigd bestuurder - verplaatsingen maken met het openbaar vervoer genieten, bij de inlevering van het vervoerbewijs, de volledige betaling van de erop vermelde bedragen. De verplaatsingen per trein worden terugbetaald aan het tarief van een standaardbiljet 2e klas.<br /><br />§ 2. In afwijking op paragraaf 1 mag de raad van bestuur - voor het vormingscentrum de afgevaardigd bestuurder - van 1 januari 2011 tot en met 31 december 2011 het bedrag van de kilometervergoeding beperken tot 70 procent van de kilometervergoeding die jaarlijks bepaald wordt in uitvoering van artikel 13 van het koninklijk besluit van 18 januari 1965 houdende algemene regeling inzake reiskosten en van 1 januari 2012 tot en met 31 december 2012 tot 85 procent van voormelde kilometervergoeding.<br /><br />§ 3. De bepalingen van dit artikel gelden niet als de raad van bestuur - voor het vormingscentrum de afgevaardigd bestuurder -een systeem van kilometervergoeding voor dienstverplaatsingen hanteert, dat gunstiger is dan dit vermeld in paragraaf 1 en 2. ».<br /><br />
+
 ## Afdeling II Decreet betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding
+
+### ART. IX.17.
+
+In titel II van hetzelfde decreet wordt een hoofdstuk IIquinquies, dat bestaat uit de artikelen 17quinquies tot en met 17septies, ingevoegd, dat luidt als volgt :<br />HOOFDSTUK IIquinquies Secundaire arbeidsvoorwaarden<br /><br />Art. 17quinquies. Dit hoofdstuk geldt voor de personeelsleden vermeld in artikel 4, § 1, met uitzondering van de personeelsleden van de pedagogische begeleidingsdiensten.<br /><br />Art. 17sexies. De inrichtende macht stelt aan haar personeelsleden de middelen ter beschikking die zij nodig hebben om hun opdracht uit te voeren.<br /><br />Als een personeelslid in het kader van zijn opdracht bovenop deze middelen extra onkosten maakt, moet de inrichtende macht deze onkosten vergoeden op voorwaarde dat de directeur of de beheerder van de instelling waar het personeelslid zijn opdracht uitoefent aan het personeelslid vooraf toestemming heeft gegeven om die onkosten te maken.<br /><br />De middelen waarvoor de kosten gedragen worden door de inrichtende macht, blijven eigendom van de inrichtende macht.<br /><br />Art. 17septies. § 1. Personeelsleden die in opdracht van de inrichtende macht verplaatsingen maken met hun eigen wagen, moto of bromfiets hebben recht op de kilometervergoeding gelijk aan het bedrag dat jaarlijks bepaald wordt in uitvoering van artikel 13 van het koninklijk besluit van 18 januari 1965 houdende algemene regeling inzake reiskosten. De inrichtende macht kan dit bedrag met maximum 10 % verminderen, op voorwaarde dat ze daarnaast een omniumverzekering heeft afgesloten voor dienstverplaatsingen.<br /><br />Personeelsleden die in opdracht van de inrichtende macht verplaatsingen maken met het openbaar vervoer genieten, bij de inlevering van het vervoerbewijs, de volledige betaling van de erop vermelde bedragen. De verplaatsingen per trein worden terugbetaald aan het tarief van een standaardbiljet 2e klas.<br /><br />§ 2. In afwijking op paragraaf 1 mag de inrichtende macht van 1 januari 2011 tot en met 31 december 2011 het bedrag van de kilometervergoeding beperken tot 70 procent van de kilometervergoeding die jaarlijks bepaald wordt in uitvoering van artikel 13 van het koninklijk besluit van 18 januari 1965 houdende algemene regeling inzake reiskosten en van 1 januari 2012 tot en met 31 december 2012 tot 85 procent van voormelde kilometervergoeding.<br /><br />§ 3. De bepalingen van dit artikel gelden niet als de inrichtende macht een systeem van kilometervergoeding voor dienstverplaatsingen hanteert, dat gunstiger is dan dit vermeld in paragraaf 1 en 2. ».<br /><br />
 
 ## Afdeling III Decreet betreffende het onderwijs III
 
@@ -126,6 +142,10 @@ In artikel XI. 1, § 1, 1° en 2°, van het decreet van 13 juli 2001 betreffende
 
 ## Afdeling IV Decreet betreffende participatie op school en de Vlaamse Onderwijsraad
 
+### ART. X.6.
+
+Aan artikel 80 van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« Op verzoek van een verantwoordelijk bestuurslid van een representatieve vakorganisatie, krijgt een vakbondsafgevaardigde dienstvrijstelling om de vergaderingen van de Vlaamse Onderwijsraad bij te wonen. De dienstvrijstelling wordt gelijkgesteld met een periode van dienstactiviteit. Het personeelslid behoudt het recht op een salaris. ».<br /><br />
+
 ## Afdeling V Codificatie van regelgeving
 
 ## Afdeling VI Opheffingen
@@ -145,6 +165,18 @@ In artikel XI. 1, § 1, 1° en 2°, van het decreet van 13 juli 2001 betreffende
 ## HOOFDSTUK XI Autonome bepalingen
 
 ## Afdeling I Secundaire arbeidsvoorwaarden voor de contractuele personeelsleden ten laste van het Ministerie van Onderwijs en Vorming en de gesubsidieerde contractuele personeelsleden
+
+### ART. XI.1.
+
+Deze afdeling is van toepassing op de contractuele personeelsleden ten laste van het ministerie van Onderwijs en Vorming en de gesubsidieerde contractuele personeelsleden, bezoldigd door het ministerie van Onderwijs en Vorming, en die aangesteld zijn in : 1° een instelling of een centrum bedoeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br />2° een instelling of een centrum bedoeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding.<br /><br />
+
+### ART. XI.2.
+
+Voor de in artikel XI. 1 vermelde personeelsleden die :<br />1° in een in artikel XI.1, 1°, vermelde instelling of centrum zijn aangesteld, gelden de bepalingen vermeld in de artikelen 12bis, § 1, 12sexies en 12septies, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br />2° in een in artikel XI. 1, 2°, vermelde instelling of centrum zijn aangesteld, gelden de bepalingen vermeld in de artikelen 17bis, § 1, 17sexies en 17septies, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding.<br /><br />
+
+### ART. XI.3.
+
+Deze afdeling geldt niet voor de pedagogische begeleidingsdienst.<br /><br />
 
 ## Afdeling II Syndicale premie
 
