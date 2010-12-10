@@ -139,6 +139,24 @@ Feiten uit het privé-leven die geen weerslag hebben op de relatie tussen de lee
 
 ## [HOOFDSTUK IIQUINQUIES SECUNDAIRE ARBEIDSVOORWAARDEN (ing. Decr. 1 juli 2011, art. IX.17, I: 10 december 2010)]
 
+### ART. 17quinquies.
+
+Dit hoofdstuk geldt voor de personeelsleden vermeld in artikel 4, § 1, met uitzondering van de personeelsleden van de pedagogische begeleidingsdiensten.
+
+### ART. 17sexies.
+
+De inrichtende macht stelt aan haar personeelsleden de middelen ter beschikking die zij nodig hebben om hun opdracht uit te voeren.<br /><br />Als een personeelslid in het kader van zijn opdracht bovenop deze middelen extra onkosten maakt, moet de inrichtende macht deze onkosten vergoeden op voorwaarde dat de directeur of de beheerder van de instelling waar het personeelslid zijn opdracht uitoefent aan het personeelslid vooraf toestemming heeft gegeven om die onkosten te maken.<br /><br />De middelen waarvoor de kosten gedragen worden door de inrichtende macht, blijven eigendom van de inrichtende macht.
+
+### ART. 17septies.
+
+§ 1. Personeelsleden die in opdracht van de inrichtende macht verplaatsingen maken met hun eigen wagen, moto of bromfiets hebben recht op de kilometervergoeding gelijk aan het bedrag dat jaarlijks bepaald wordt in uitvoering van artikel 13 van het koninklijk besluit van 18 januari 1965 houdende algemene regeling inzake reiskosten. De inrichtende macht kan dit bedrag met maximum 10 % verminderen, op voorwaarde dat ze daarnaast een omniumverzekering heeft afgesloten voor dienstverplaatsingen.<br>
+<br>
+Personeelsleden die in opdracht van de inrichtende macht verplaatsingen maken met het openbaar vervoer genieten, bij de inlevering van het vervoerbewijs, de volledige betaling van de erop vermelde bedragen. De verplaatsingen per trein worden terugbetaald aan het tarief van een standaardbiljet 2e klas.<br>
+<br>
+§ 2. In afwijking op paragraaf 1 mag de inrichtende macht van 1 januari 2011 tot en met 31 december 2011 het bedrag van de kilometervergoeding beperken tot 70 procent van de kilometervergoeding die jaarlijks bepaald wordt in uitvoering van artikel 13 van het koninklijk besluit van 18 januari 1965 houdende algemene regeling inzake reiskosten en van 1 januari 2012 tot en met 31 december 2012 tot 85 procent van voormelde kilometervergoeding.<br>
+<br>
+§ 3. De bepalingen van dit artikel gelden niet als de inrichtende macht een systeem van kilometervergoeding voor dienstverplaatsingen hanteert, dat gunstiger is dan dit vermeld in paragraaf 1 en 2.
+
 ## [HOOFDSTUK IISEXIES AUTEURSRECHTEN (ing. decr. 19 juli 2013, art. VI.18, I: 1 september 2013)]
 
 ## [HOOFDSTUK IISEPTIES FLEXIBELE WERKREGELING (ing. decr. 14 juli 2023, art. 23, I: 1 september 2023)]
