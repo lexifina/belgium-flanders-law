@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020395,
+  "title": "Ministerieel besluit van 2010-11-03 houdende de vaststelling van de regio's waarbinnen een dienst voor gastopvang kan erkend worden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020395/VolledigDocument?datum=2010-12-13",
+  "source_sha256": "702184a00e4c0af6e093a0f2bae4c093d62d7965f2b096bbe09c4bbaa544e6e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020395&param=informatie",
+  "as_of": "2010-12-13",
+  "made": "2010-11-03",
+  "gazette": "2010-12-03",
+  "numac": 2010035902,
+  "document_start": "2010-12-13",
+  "document_end": null,
+  "in_force": "2010-12-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-12-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
