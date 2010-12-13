@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020396,
+  "title": "Ministerieel besluit van 2010-11-03 houdende de vastlegging van de evaluatiecriteria met betrekking tot de programmatie van de diensten voor gastopvang",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020396/VolledigDocument?datum=2010-12-13",
+  "source_sha256": "1cc4b1420300a2b283519b79bbe79b3acdbd10b321f24f8aceb1f61600285e4f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020396&param=informatie",
+  "as_of": "2010-12-13",
+  "made": "2010-11-03",
+  "gazette": "2010-12-03",
+  "numac": 2010035904,
+  "document_start": "2010-12-13",
+  "document_end": null,
+  "in_force": "2010-12-13",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-12-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
