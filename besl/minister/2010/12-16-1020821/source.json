@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020821,
+  "title": "Ministerieel besluit van 2010-12-16 houdende goedkeuring van de afrekeningen van de gewestelijke sociale correctie (GSC) voor het referentiejaar 2009",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020821/VolledigDocument?datum=2010-12-16",
+  "source_sha256": "37f58be41335d47a504f996cb2759af0cee14b838a5a1198524a1955b3eead17",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020821&param=informatie",
+  "as_of": "2010-12-16",
+  "made": "2010-12-16",
+  "gazette": "2011-10-07",
+  "numac": 2011035814,
+  "document_start": "2010-12-16",
+  "document_end": null,
+  "in_force": "2010-12-16",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-12-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
