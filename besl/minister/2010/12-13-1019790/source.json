@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019790,
+  "title": "Ministerieel besluit van 2010-12-13 houdende instelling van een open oproep voor de indiening van subsidieaanvragen voor projecten ter ondersteuning van het lokaal woonbeleid in 2011",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019790/VolledigDocument?datum=2010-12-17",
+  "source_sha256": "1998c422315e6637d3288f14d79b3d7e992c2e306a0101e2d27e0720a6acecb8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019790&param=informatie",
+  "as_of": "2010-12-17",
+  "made": "2010-12-13",
+  "gazette": "2010-12-17",
+  "numac": 2010035937,
+  "document_start": "2010-12-17",
+  "document_end": null,
+  "in_force": "2010-12-17",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2010-12-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
