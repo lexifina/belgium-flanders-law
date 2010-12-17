@@ -2,16 +2,16 @@
   "codex_id": 1016261,
   "title": "Besluit van de Vlaamse Regering van 2007-09-21 houdende subsidiëring van projecten ter ondersteuning van het lokaal woonbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016261/VolledigDocument?datum=2007-10-19",
-  "source_sha256": "85816a1976cb920a39192e0373c9ac08bc3e05eca9250dde390cb198f0f4c099",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016261/VolledigDocument?datum=2010-12-17",
+  "source_sha256": "52bdc09dff9a54cb0dec40a9b7581f2567e26cf0f38f872c373c5c02413689a0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016261&param=informatie",
-  "as_of": "2007-10-19",
+  "as_of": "2010-12-17",
   "made": "2007-09-21",
   "gazette": "2007-10-19",
   "numac": 2007036824,
   "document_start": "2007-10-19",
   "document_end": "2016-09-17",
-  "in_force": "2007-10-19",
-  "article_versions": 25,
-  "record_form": "consolidated version as in force on 2007-10-19; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-12-17",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2010-12-17; future article versions excluded; article text as the API gives it"
 }
