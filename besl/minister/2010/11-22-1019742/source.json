@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019742,
+  "title": "Ministerieel besluit van 2010-11-22 tot vervanging van leden van de Mobiliteitsraad van Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019742/VolledigDocument?datum=2010-12-17",
+  "source_sha256": "5276116e5844f5763c2518c5b10ee2100b53534c3b57d16b0d2ea1f4dea1c9f8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019742&param=informatie",
+  "as_of": "2010-12-17",
+  "made": "2010-11-22",
+  "gazette": "2010-12-07",
+  "numac": 2010206061,
+  "document_start": "2010-12-17",
+  "document_end": null,
+  "in_force": "2010-12-17",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2010-12-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
