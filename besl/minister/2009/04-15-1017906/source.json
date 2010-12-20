@@ -2,16 +2,16 @@
   "codex_id": 1017906,
   "title": "Ministerieel besluit van 2009-04-15 houdende de vaststelling van het compendium voor analyse van water",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017906/VolledigDocument?datum=2009-05-30",
-  "source_sha256": "fee47f59496b6312063f42a93159592034722ad3f3656c9ab796b65f5e780bd0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017906/VolledigDocument?datum=2010-12-20",
+  "source_sha256": "bbb1d3bb50efaf7b4fd46a77ec7975c27aa702d2d96d878cd00d0cf7cb943d1a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017906&param=informatie",
-  "as_of": "2009-05-30",
+  "as_of": "2010-12-20",
   "made": "2009-04-15",
   "gazette": "2009-05-20",
   "numac": 2009202141,
   "document_start": "2009-05-30",
   "document_end": null,
-  "in_force": "2009-05-30",
+  "in_force": "2010-12-20",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2009-05-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2010-12-20; future article versions excluded; article text as the API gives it"
 }
