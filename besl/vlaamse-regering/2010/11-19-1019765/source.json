@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019765,
+  "title": "Besluit van de Vlaamse Regering van 2010-11-19 houdende indeling bij de gemeentewegen van de bedieningswegen A19 - Proostdiestraat, Oude Hondstraat (lengte : 849 meter), Lange Hesselstraat (lengte : 265 meter), Wervikstraat (lengte : 432 meter), Kasteelstraat, Reutelhoekstraat (lengte : 204 meter), Kasteelstraat (lengte : 95 meter), Kasteelstraat, Poezelhoekstraat (lengte : 1 214 meter), Oude Kortrijkstraat, Lotegatstraat (lengte : 688 meter), Polygonestraat (lengte : 360 meter), Grote Molenstraat, Tresoriersstraat (lengte : 1 160 meter), Nonnebossenstraat (lengte : 494 meter), Nonnebossenstraat (lengte : 185 meter), Ieperstraat (lengte : 266 meter), Ieperstraat, Verlorenhoekstraat (lengte : 497 meter), Ieperstraat, Frezenbergstraat (lengte : 1 444 meter), Ieperstraat (lengte : 121 meter) op het grondgebied van de gemeente Zonnebeke",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019765/VolledigDocument?datum=2010-12-20",
+  "source_sha256": "21958e04c03c63db407432f2083b55479e86ee0e80fa495b548e2be95d9892ce",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019765&param=informatie",
+  "as_of": "2010-12-20",
+  "made": "2010-11-19",
+  "gazette": "2010-12-10",
+  "numac": 2010035920,
+  "document_start": "2010-12-20",
+  "document_end": null,
+  "in_force": "2010-12-20",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2010-12-20; oldest version available; future article versions excluded; article text as the API gives it"
+}

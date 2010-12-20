@@ -1,0 +1,13 @@
+# Besluit van de Vlaamse Regering van 2010-11-19 houdende indeling bij de gemeentewegen van de bedieningswegen A19 - Proostdiestraat, Oude Hondstraat (lengte : 849 meter), Lange Hesselstraat (lengte : 265 meter), Wervikstraat (lengte : 432 meter), Kasteelstraat, Reutelhoekstraat (lengte : 204 meter), Kasteelstraat (lengte : 95 meter), Kasteelstraat, Poezelhoekstraat (lengte : 1 214 meter), Oude Kortrijkstraat, Lotegatstraat (lengte : 688 meter), Polygonestraat (lengte : 360 meter), Grote Molenstraat, Tresoriersstraat (lengte : 1 160 meter), Nonnebossenstraat (lengte : 494 meter), Nonnebossenstraat (lengte : 185 meter), Ieperstraat (lengte : 266 meter), Ieperstraat, Verlorenhoekstraat (lengte : 497 meter), Ieperstraat, Frezenbergstraat (lengte : 1 444 meter), Ieperstraat (lengte : 121 meter) op het grondgebied van de gemeente Zonnebeke
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op het Gemeentedecreet van 15 juli 2005, inzonderheid op artikel 192;<br /><br />Gelet op de beslissing van 12 april 2010 van de gemeenteraad van de gemeente Zonnebeke;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 24 augustus 2010;<br /><br />Gelet op het begrotingsakkoord verleend door de Minister van Financiën op 9 november 2010;<br /><br />Overwegende dat de betrokken bedieningswegen enkel nog van plaatselijk nut zijn en aldus niet langer als gewestweg dienen behouden te worden;<br /><br />Overwegende dat de betrokken bedieningswegen zich in goede staat bevinden, zoals blijkt uit het attest van 12 april 2010 van de gemeente Zonnebeke;<br /><br />Op voorstel van de Vlaamse minister, bevoegd voor de openbare werken;<br /><br />Na beraadslaging,<br /><br />Besluit : <br /><br />
+
+### ART. 1.
+
+De bedieningswegen A19 - Proostdiestraat, Oude Hondstraat (lengte : 849 meter), Lange Hesselstraat (lengte : 265 meter), Wervikstraat (lengte : 432 meter), Kasteelstraat, Reutelhoekstraat (lengte : 204 meter), Kasteelstraat (lengte : 95 meter), Kasteelstraat, Poezelhoekstraat (lengte : 1 214 meter), Oude Kortrijkstraat, Lotegatstraat (lengte : 688 meter), Polygonestraat (lengte : 360 meter), Grote Molenstraat, Tresoriersstraat (lengte : 1 160 meter), Nonnebossenstraat (lengte : 494 meter), Nonnebossenstraat (lengte : 185 meter), Ieperstraat (lengte : 266 meter), Ieperstraat, Verlorenhoekstraat (lengte : 497 meter), Ieperstraat, Frezenbergstraat (lengte : 1 444 meter), Ieperstraat (lengte : 121 meter) worden overgedragen aan de gemeente Zonnebeke.<br /><br />
+
+### ART. 2.
+
+De Vlaamse minister, bevoegd voor de openbare werken, wordt gemachtigd tot uitvoering van deze beslissing.<br /><br />
