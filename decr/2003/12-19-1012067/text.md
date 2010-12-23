@@ -66,7 +66,7 @@ De Vlaamse regering bepaalt de verplichtingen, de verbodsbepalingen en de onvere
 
 ### ART. 15.
 
-Een investering is een ARK-investering als:<br /><br />1° het een investering in een doelonderneming betreft;<br /><br />2° de investering gebeurt door middel van een nieuwe inbreng van geld in een doelonderneming, hetzij via inschrijving op een kapitaalverhoging, hetzij via inschrijving op een lening met opties of warranten of een in kapitaal converteerbare lening, hetzij via inschrijving op of de uitoefening van opties of warranten;<br /><br />3° de doelonderneming de financiÙle middelen die ze krijgt van de ARKIV, aanwendt om in het Vlaamse Gewest investeringen uit te voeren, of er werkgelegenheid of toegevoegde waarde te creëren;<br /><br />4° de investering een door de Vlaamse regering nader te bepalen maximumbedrag niet overschrijdt.<br /><br />De Vlaamse regering is bevoegd om aanvullende voorwaarden op te leggen waaraan ARK-investeringen moeten voldoen.
+Een investering is een ARK-investering als:<br />1° het een investering in een doelonderneming betreft;<br />2° de investering gebeurt door middel van een nieuwe inbreng van geld in een doelonderneming, hetzij via inschrijving op een kapitaalverhoging, hetzij via inschrijving op een lening met opties of warranten of een in kapitaal converteerbare lening, hetzij via inschrijving op of de uitoefening van opties of warranten;<br />3° ...<br />4° de investering een door de Vlaamse regering nader te bepalen maximumbedrag niet overschrijdt.<br /><br />De Vlaamse regering is bevoegd om aanvullende voorwaarden op te leggen waaraan ARK-investeringen moeten voldoen.
 
 ## HOOFDSTUK V DOELONDERNEMINGEN
 
