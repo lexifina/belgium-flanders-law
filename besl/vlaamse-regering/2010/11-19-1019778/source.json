@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019778,
+  "title": "Besluit van de Vlaamse Regering van 2010-11-19 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en van het besluit van de Vlaamse Regering van 23 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Natuur en Bos",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019778/VolledigDocument?datum=2010-12-24",
+  "source_sha256": "ff5a5eaa55a48eae1b6563cf717267fbdf9505c11274051cf71c3f4f89af7abe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019778&param=informatie",
+  "as_of": "2010-12-24",
+  "made": "2010-11-19",
+  "gazette": "2010-12-14",
+  "numac": 2010035927,
+  "document_start": "2010-12-24",
+  "document_end": null,
+  "in_force": "2010-12-24",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2010-12-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
