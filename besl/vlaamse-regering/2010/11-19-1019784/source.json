@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019784,
+  "title": "Besluit van de Vlaamse Regering van 2010-11-19 houdende verdeling van het provisioneel krediet ingeschreven op basisallocatie LB0 LB101 0100 (begrotingsjaar 2010)",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019784/VolledigDocument?datum=2010-12-26",
+  "source_sha256": "bc886827942b1d945431f276f2c9e429a729072954062797f2b3d1d38acc76c6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019784&param=informatie",
+  "as_of": "2010-12-26",
+  "made": "2010-11-19",
+  "gazette": "2010-12-16",
+  "numac": 2010035943,
+  "document_start": "2010-12-26",
+  "document_end": null,
+  "in_force": "2010-12-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2010-12-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
