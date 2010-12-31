@@ -846,6 +846,18 @@ De provincie en de autonome provinciebedrijven kunnen, op voorwaarde van bijzond
 
 ## [HOOFDSTUK IIIbis Aanstellen van landmeters-experten (ing. Decr. 10 december 2010, art. 6, I: 31 december 2010)]
 
+### ART. 185bis.
+
+De provincie en de provinciale verzelfstandigde agentschappen, bedoeld in titel VII, kunnen landmeters-experten aanstellen voor het opstellen van schattingsverslagen in het kader van de onroerende verrichtingen die worden gesteld door de provincie en de provinciale verzelfstandigde agentschappen, bedoeld in titel VII.
+
+### ART. 185ter.
+
+De Vlaamse Regering bepaalt de procedure en de voorwaarden volgens welke de landmeter-expert de erkenning kan verkrijgen om schattingsverslagen op te stellen voor de provincie en de provinciale verzelfstandigde agentschappen, bedoeld in titel VII.
+
+### ART. 185quater.
+
+Voor de toepassing van artikelen 185bis en 185ter wordt verstaan onder :<br />1° landmeter-expert : de landmeter-expert ingeschreven op het tableau van de beoefenaars van het beroep als bedoeld in de wet van 11 mei 2003 tot bescherming van de titel en van het beroep van landmeter-expert en op wie het koninklijk besluit van 15 december 2005 tot vaststelling van de voorschriften inzake de plichtenleer van de landmeter-expert van toepassing is;<br />2° schattingsverslag : verslag waarbij de waarde van het onroerend goed wordt bepaald aan de hand van vooraf vastgelegde objectieve regels zoals vergelijkingspunten uit de omgeving.
+
 ## HOOFDSTUK IV Optreden in rechte
 
 ### ART. 186.
