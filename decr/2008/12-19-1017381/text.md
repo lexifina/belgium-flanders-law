@@ -920,6 +920,18 @@ Het openbaar centrum voor maatschappelijk welzijn en de verenigingen, opgericht 
 
 ## [Hoofdstuk III/1 Aanstellen van landmeters-experten (ing. Decr. 10 december 2010, art. 10, I: 31 december 2010)]
 
+### ART. 199/1.
+
+De openbare centra voor maatschappelijk welzijn en de verzelfstandigde agentschappen, bedoeld in de titels VII en VIII, kunnen landmeters-experten aanstellen voor het opstellen van schattingsverslagen in het kader van de onroerende verrichtingen die door hen worden gesteld.
+
+### ART. 199/2.
+
+De Vlaamse Regering bepaalt de procedure en de voorwaarden volgens welke de landmeter-expert de erkenning kan verkrijgen om schattingsverslagen op te stellen voor de openbare centra voor maatschappelijk welzijn en de verzelfstandigde agentschappen, bedoeld in de titels VII en VIII.
+
+### ART. 199/3.
+
+Voor de toepassing van artikelen 199/1 en 199/2 wordt verstaan onder :<br />1° landmeter-expert : de landmeter-expert ingeschreven op het tableau van de beoefenaars van het beroep als bedoeld in de wet van 11 mei 2003 tot bescherming van de titel en van het beroep van landmeter-expert en op wie het koninklijk besluit van 15 december 2005 tot vaststelling van de voorschriften inzake de plichtenleer van de landmeter-expert van toepassing is;<br />2° schattingsverslag : verslag waarbij de waarde van het onroerend goed wordt bepaald aan de hand van vooraf vastgelegde objectieve regels zoals vergelijkingspunten uit de omgeving.
+
 ## Hoofdstuk IV Optreden in rechte
 
 ### ART. 200.
