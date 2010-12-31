@@ -81,6 +81,10 @@ Indien een school niet gelegen is in het werkingsgebied van een lokaal overlegpl
 
 ## [HOOFDSTUK IVbis OVERGANGSBEPALINGEN (ing. BVR 17 december 2010, art. 2)]
 
+### ART. 14bis.
+
+De mandaatperiode van de voorzitters waarvan het einde voorzien was op 31 december 2010, wordt verlengd tot 31 december 2012.<br /><br />Bij het voortijdig beëindigen van het mandaat, wordt een opvolger aangeduid voor de resterende mandaatperiode, in overleg met het lokaal overlegplatform.
+
 ## HOOFDSTUK V SLOTBEPALINGEN
 
 ### ART. 15.
