@@ -500,6 +500,22 @@ In bijlage VI van hetzelfde besluit worden de volgende wijzigingen aangebracht :
 
 ## HOOFDSTUK II. Wijzigingsbepalingen ten gevolge van het invoeren van de meldingsplicht door het decreet tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid
 
+### ART. 14.
+
+In artikel 1, 13° van hetzelfde besluit worden de woorden « artikel 99 » vervangen door de woorden « artikel 93 ».
+
+### ART. 14.
+
+In artikel 1, 12° van hetzelfde besluit worden de woorden « artikel 99 » vervangen door de woorden « artikel 93 ».
+
+### ART. 15.
+
+Aan artikel 2 van hetzelfde besluit wordt de volgende zin toegevoegd :<br /><br />« Dit besluit is tevens van toepassing op de voormelde gebouwen waarvoor de verplichting tot het verkrijgen van een stedenbouwkundige vergunning vervangen werd door de melding. ».
+
+### ART. 16.
+
+In artikel 12, § 1, tweede lid van hetzelfde besluit wordt telkens na het woord « als » en voor de woorden « de stedenbouwkundige vergunning » de woorden « de melding gedaan wordt of » ingevoegd.
+
 ### ART. 17.
 
 Artikel 14 tot 16 treden in werking op de datum bepaald door de Vlaamse Regering en uiterlijk op 31 december 2010.
