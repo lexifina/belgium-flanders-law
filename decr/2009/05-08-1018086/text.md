@@ -12,6 +12,18 @@ In artikel 3 van het decreet van 22 december 2006 houdende eisen en handhavingsm
 
 Aan artikel 10 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br /><br />1° in § 2, eerste lid, worden de woorden « ten minste acht dagen » geschrapt;<br /><br />2° in § 2 wordt tussen het tweede en het derde lid een nieuw lid ingevoegd, dat luidt als volgt :<br />« De gegevens van de materialen en installaties die in het gebouw gebruikt worden en die betrekking hebben op het behalen van de EPB-eisen, zijn opvraagbaar door de verslaggever. De aangifteplichtige, de architect, de aannemer of installateur stellen die gegevens op eerste verzoek ter beschikking. »
 
+### ART. 4.
+
+In artikel 12, § 1, van hetzelfde decreet wordt telkens na het woord « vergunning » en voor de woorden « de aangifteplichtige » de woorden « of de meldingsplichtige » ingevoegd.
+
+### ART. 5.
+
+In artikel 17, § 2, van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br /><br />1° na de woorden « de gegevens uit » en voor de woorden « de aanvraag » worden de woorden « de melding, » ingevoegd;<br /><br />2° na de woorden « vergunningen te verlenen » en voor het woord « bezorgt » worden de woorden « of meldingen te registreren » ingevoegd;<br /><br />3° na de woorden « lijst van de vergunde, » en voor het woord « geschorste » wordt het woord « gemelde, » ingevoegd.
+
+### ART. 6.
+
+In artikel 18 van hetzelfde decreet wordt § 2 vervangen door wat volgt :<br /><br />« § 2. Op eenvoudig verzoek krijgen de ambtenaren, vermeld in § 1, van de overheid die de stedenbouwkundige vergunning heeft verleend of de melding heeft geregistreerd, toegang tot de documenten en de elektronische gegevens die worden bijgehouden van de vergunde, gemelde, geschorste en vernietigde werken, handelingen en wijzigingen. ».
+
 ### ART. 7.
 
 In artikel 23, § 2, eerste lid, van hetzelfde decreet worden de woorden « tweede lid » geschrapt.

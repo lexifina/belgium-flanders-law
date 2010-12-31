@@ -2,16 +2,16 @@
   "codex_id": 1018086,
   "title": "Decreet van 2009-05-08 tot wijziging van het decreet van 22 december 2006 houdende eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat van gebouwen en tot invoering van een energieprestatiecertificaat en tot wijziging van artikel 22 van het REG-decreet",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018086/VolledigDocument?datum=2009-07-16",
-  "source_sha256": "573d923383d3608f954a5c1b0b00bae27d291a814e32a5e8097d1449c8cefa22",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018086/VolledigDocument?datum=2010-12-31",
+  "source_sha256": "d36aaa51324154d53bf0eacbae9747138bf546a7f073fa3737fec9230f1b34a0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018086&param=informatie",
-  "as_of": "2009-07-16",
+  "as_of": "2010-12-31",
   "made": "2009-05-08",
   "gazette": "2009-07-06",
   "numac": 2009035588,
   "document_start": "2009-07-16",
   "document_end": null,
-  "in_force": "2009-07-16",
-  "article_versions": 6,
-  "record_form": "consolidated version as in force on 2009-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2010-12-31",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2010-12-31; future article versions excluded; article text as the API gives it"
 }
