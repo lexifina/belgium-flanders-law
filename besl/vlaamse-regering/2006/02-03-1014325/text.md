@@ -8,7 +8,7 @@
 
 ### ART. 2.
 
-§ 1. Het openen en sluiten van de financiële rekeningen bij de kassier gebeurt via het CFO.<br /><br />§ 2. Om de administratieve opvolging van de financiële rekeningen door het CFO mogelijk te maken, wordt bij het openen van de rekeningen de volgende rekeningenstructuur in acht genomen:<br /><br />1. gemengde rekeningen waarmee de uitgaven worden gedaan en waarop de dotaties ten laste van de begroting, een begrotingsfonds of een dienst met afzonderlijk beheer van de Vlaamse Gemeenschap worden ontvangen, evenals de ontvangsten die worden geïnd krachtens reglementeringen opgesteld door de Vlaamse Regering;<br /><br />2. eigen ontvangsten rekeningen, waarop alle andere ontvangsten dan deze vermeld onder 1 ontvangen worden;<br /><br />3. reservefondsrekeningen.<br /><br />§ 3. De gemengde rekeningen worden geprovisioneerd met de ontvangsten vermeld in § 2, 1 en door de overschrijvingen vanuit de eigen ontvangstenrekeningen vermeld in § 2, 2°. De eigen ontvangstenrekeningen mogen niet geprovisioneerd worden vanuit de gemengde rekeningen.
+§ 1. Het openen en sluiten van de financiële rekeningen bij de kassier gebeurt via het CFO.<br /><br />§ 2. ...<br /><br />§ 3. ...
 
 ### ART. 3.
 
@@ -28,11 +28,11 @@ Er gebeurt geen intrestafrekening tussen de kassier en de agentschappen.
 
 ### ART. 7.
 
-Jaarlijks ontvangen de agentschappen van het CFO een afrekening op hun eigen ontvangstenrekeningen, zoals bedoeld in artikel 2, § 2, 2°. Deze afrekening wordt als volgt berekend:<br /><br />§ 1. Per agentschap wordt voor iedere dag van het kalenderjaar T een fictieve kastoestand vastgesteld overeenkomstig de volgende formule (i = instelling, d = dag):<br /><br />Stand (i,d) = stand (i, d-1) + eigen ontvangsten van T (i,d) (1ste term)<br /><br />Jaaruitgaven van Ti (2de term)<br /><br />+ (kasresultaat op 31/12/T verhoogd met de nog te ontvangen<br /><br />Dotaties van T of voorgaande jaren – kasresultaat op 1/1/T (3de term)<br /><br />Verhoogd met de nog te ontvangen dotaties van voorgaande<br /><br />Jaren) / 365<br /><br />De stand i,d op 1 januari van T wordt beperkt tot maximum 1/12 van de begrootte jaardotatie van het jaar T-1.<br /><br />Het resultaat van de 3de term wordt beperkt tot (1/10 van de jaardotatie van het jaar T)/365.<br /><br />§ 2. Voor iedere dagelijkse kastoestand zoals bepaald onder § 1 wordt een vergoeding berekend op basis van het rekenkundig gemiddelde van de dagelijkse notering gedurende de maand waarop de berekening betrekking heeft van de EONIA.<br /><br />Voor de positieve kasstanden van de ESR geconsolideerde instellingen wordt deze referentie verminderd met 35 basispunten; voor de negatieve kasstanden wordt deze referentie vermeerderd met 35 basispunten.<br /><br />Voor de positieve kasstanden van de niet-ESR geconsolideerde instellingen wordt deze referentie verminderd met 10 basispunten; voor de negatieve kasstanden wordt deze referentie vermeerderd met 10 basispunten.<br /><br />De aldus verkregen positieve en negatieve maandresultaten worden op het einde van het kalenderjaar samengeteld. <br /><br />§3. Het in § 2 bekomen jaarresultaat van jaar T wordt voor 1 april van het jaar T+1 aan de betrokken instelling medegedeeld. Het bedrag wordt ambtshalve overgedragen naar of respectievelijk ingehouden van de beginstand op 1 januari van het jaar T+1.
+...
 
 ### ART. 8.
 
-§ 1. Door de agentschappen kunnen bedragen op een afzonderlijke reservefondsrekening, zoals bedoeld in artikel 2 § 2, 3° worden geplaatst indien hiervoor door de toezichthoudende overheid toelating wordt gegeven op basis van een wettelijke, decretale of reglementaire bepaling.<br /><br />§ 2. Deze reservefondsrekeningen worden niet opgenomen in de kastoestand van het agentschap met het oog op de vrijgave van de dotatieschijven.<br /><br />§ 3. De bepalingen van artikel 7 zijn van toepassing op de reservefondsenrekeningen.
+...
 
 ### ART. 9.
 
