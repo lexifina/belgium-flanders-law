@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019967,
+  "title": "Ministerieel besluit van 2011-01-11 tot uitvoering van artikelen 8, 36 en 42 van het besluit van de Vlaamse Regering van 19 maart 2010 betreffende de organisatie van de fokkerij van de voor de landbouw nuttige huisdieren",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019967/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "9399bf5720e0f5636952659a735e31d51c727801b36561fbfaf1aa0f06245d6e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019967&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2011-01-11",
+  "gazette": "2011-01-28",
+  "numac": 2011035074,
+  "document_start": "2011-01-01",
+  "document_end": "2019-09-22",
+  "in_force": "2011-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
