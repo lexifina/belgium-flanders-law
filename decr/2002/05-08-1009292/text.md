@@ -74,7 +74,7 @@ Wanneer afbreuk wordt gedaan aan de statutaire opdrachten die ze zich tot doel h
 
 ### ART. 17.
 
-Aan eenieder die op de Vlaamse arbeidsmarkt discriminatie bedrijft jegens een persoon wegens zijn geslacht, een zogenaamd ras, etnische afstamming, godsdienst of overtuiging, handicap, leeftijd of seksuele geaardheid kan, voor zover de feiten ook voor strafvervolging vatbaar zijn en behoudens indien de discriminatie strafrechtelijk wordt vervolgd, een administratieve geldboete worden opgelegd van 200 tot 2000 euro. Deze bedragen zijn ook van toepassing op de werkgever of intermediaire organisatie die niet binnen de door het gerecht vastgestelde termijn gevolg geeft aan het op basis van artikel 15 vastgestelde gerechtelijke bevel een einde te stellen aan een discriminerende toestand. De administratieve geldboete wordt opgelegd door de door de Vlaamse Regering aangewezen ambtenaar of ambtenaren.
+Aan eenieder die op de Vlaamse arbeidsmarkt discriminatie bedrijft jegens een persoon wegens zijn geslacht, een zogenaamd ras, etnische afstamming, godsdienst of overtuiging, handicap, leeftijd of seksuele geaardheid kan, voor zover de feiten ook voor strafvervolging vatbaar zijn en behoudens indien de discriminatie strafrechtelijk wordt vervolgd, een administratieve geldboete worden opgelegd van 250 tot 2.500 euro. Deze bedragen zijn ook van toepassing op de werkgever of intermediaire organisatie die niet binnen de door het gerecht vastgestelde termijn gevolg geeft aan het op basis van artikel 15 vastgestelde gerechtelijke bevel een einde te stellen aan een discriminerende toestand. De administratieve geldboete wordt opgelegd door de door de Vlaamse Regering aangewezen ambtenaar of ambtenaren.
 
 ### ART. 18.
 
