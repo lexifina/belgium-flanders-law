@@ -70,7 +70,7 @@ Aan artikel 219 van het besluit van de Vlaamse Regering van 7 december 2007 houd
 
 ### ART. 17.
 
-De raad voor maatschappelijk welzijn kan geen taalpremie instellen of behouden voor de personeelsleden. Onder taalpremie wordt verstaan elke toelage, toegekend aan het personeelslid dat op grond van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd bij het koninklijk besluit van 18 juli 1966, verplicht is tot kennis van de tweede taal, of elke andere toelage, toegekend aan het personeelslid voor het gebruik van een andere taal dan het Nederlands.<br /><br />In afwijking van het eerste lid, behoudt het personeelslid dat al een taalpremie ontvangt op de datum dat dit besluit in werking treedt, die taalpremie verder tot het uit dienst van het bestuur treedt.
+...
 
 ### ART. 18.
 
