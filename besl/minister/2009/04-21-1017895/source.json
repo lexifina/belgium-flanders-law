@@ -2,16 +2,16 @@
   "codex_id": 1017895,
   "title": "Ministerieel besluit van 2009-04-21 houdende de voorwaarden tot toekenning van een extra financiële ondersteuning voor de inclusieve opvang van kinderen met een specifieke zorgbehoefte aan organiserende besturen en voorzieningen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017895/VolledigDocument?datum=2010-09-21",
-  "source_sha256": "2ded040c244258cc990164a278714bbe19ba433403ad36c013641b29881265c7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017895/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "f033ad560e1d1ade2d54da7ff0a8261fa04bc37391c85435417218df62429303",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017895&param=informatie",
-  "as_of": "2010-09-21",
+  "as_of": "2011-01-01",
   "made": "2009-04-21",
   "gazette": "2009-05-13",
   "numac": 2009202022,
   "document_start": "2009-05-13",
   "document_end": "2014-03-31",
-  "in_force": "2010-09-21",
+  "in_force": "2011-01-01",
   "article_versions": 35,
-  "record_form": "consolidated version as in force on 2010-09-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }

@@ -150,7 +150,7 @@ De financiële ondersteuning is mogelijk binnen de perken van de begroting.
 
 ### ART. 30.
 
-De bedragen, vermeld in dit besluit, worden elk jaar op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar en dit voor het eerst op 1 januari 2010. Onder gezondheidsindexcijfer wordt verstaan, het prijsindexcijfer dat berekend wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende sociale bepalingen.
+De bedragen, vermeld in dit besluit, worden elk jaar op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar en dit voor het eerst op 1 januari 2010. Onder gezondheidsindexcijfer wordt verstaan, het prijsindexcijfer dat berekend wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende sociale bepalingen. In 2011 worden de bedragen, vermeld in dit besluit, op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het kalenderjaar 2008 en 1 november van het kalenderjaar 2010.
 
 ## HOOFDSTUK V. Slotbepalingen
 
