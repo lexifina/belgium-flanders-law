@@ -2,16 +2,16 @@
   "codex_id": 1006670,
   "title": "Decreet van 1999-04-13 met betrekking tot de private arbeidsbemiddeling in het Vlaamse Gewest",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006670/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "dad6dd626b329ca8b66bba38540dd5d748933805907a166e4f3d83739a484117",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006670/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "94592ca9005006c03f036c67f503d9ddfba93245844290d5e6d099499fa9aebf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006670&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-01-01",
   "made": "1999-04-13",
   "gazette": "1999-06-05",
   "numac": 1999035624,
   "document_start": "2000-09-01",
   "document_end": "2010-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2011-01-01",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }

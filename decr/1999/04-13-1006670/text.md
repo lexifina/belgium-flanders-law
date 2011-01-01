@@ -4,29 +4,29 @@
 
 ### ART. 1.
 
-Dit decreet regelt een aangelegenheid bedoeld in artikel 39 van de Grondwet.
+...
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet wordt verstaan onder:<br /><br />1° private arbeidsbemiddeling:<br /><br />a) de activiteiten uitgeoefend door een tussenpersoon, die erop gericht zijn werknemers bij te staan bij het zoeken van een nieuwe tewerkstelling of werkgevers bij het zoeken van werknemers;<br /><br />b) het in dienst nemen van werknemers, om hen ter beschikking te stellen met het oog op de uitvoering van een bij of krachtens de wet toegelaten tijdelijke arbeid;<br /><br />2° voor de toepassing van dit decreet wordt onder de term "werknemer" eveneens werkzoekende of zelfstandige begrepen;<br /><br />3° de minister: de Vlaamse minister die het tewerkstellingsbeleid onder zijn bevoegdheid heeft;<br /><br />4° de adviescommissie: de commissie ingesteld bij artikel 16 van dit decreet;<br /><br />5° het bureau: de rechtspersoon of de natuurlijke persoon die, onder welke naam dan ook, activiteiten in de zin van 1° uitoefent;<br /><br />6° SERV: de Sociaal-Economische Raad van Vlaanderen;<br /><br />7° outplacementactiviteiten: een vorm van arbeidsbemiddeling waarbij begeleidende adviezen en diensten in opdracht en op kosten van een werkgever aan een ontslagen of met ontslag bedreigde werknemer worden verstrekt om deze in staat te stellen zo vlug mogelijk een betrekking bij een nieuwe werkgever te vinden of een beroepsactiviteit als zelfstandige te ontplooien.
+...
 
 ### ART. 3.
 
-§ 1. Dit decreet is niet van toepassing op de Vlaamse Dienst voor Arbeidsbemiddeling en Beroeps-opleiding, met uitzondering van de principes zoals bedoeld in artikel 5, 2° tot en met 19°.<br /><br />§ 2. Dit decreet is niet van toepassing op de bureaus voor kosteloze arbeidsbemiddeling met uitzondering van de principes zoals bedoeld in artikel 5.
+...
 
 ## HOOFDSTUK II ALGEMENE BEGINSELEN
 
 ### ART. 4.
 
-De exploitatie van een bureau voor private arbeidsbemiddeling, met inbegrip van het adverteren of het reclame maken met het oog op de exploitatie van het bureau, is toegestaan onder de in dit decreet bepaalde voorwaarden.
+...
 
 ### ART. 5.
 
-Om de activiteiten zoals bedoeld in artikel 2, 1°, te mogen uitoefenen, moet een bureau dat als rechtspersoon zijn maatschappelijke zetel in het Vlaamse Gewest heeft of als natuurlijke persoon er kantoor houdt, aan de volgende voorwaarden voldoen:<br /><br />1° indien het bureau een rechtspersoon is, dient deze regelmatig opgericht te zijn in de vorm van een handelsvennootschap of een vereniging zonder winstgevend doel waarvan, blijkens de statuten, de activiteit bestaat uit het exploiteren van een bureau.<br /><br />Indien het bureau een natuurlijke persoon is, moet deze persoon de burgerrechten en politieke rechten genieten;<br /><br />2° het bureau mag niet in staat van faillissement of in staat van kennelijk onvermogen verkeren, noch het voorwerp uitmaken van een procedure tot faillietverklaring, noch een gerechtelijk akkoord hebben aangevraagd of verkregen;<br /><br />3° [het bureau mag onder de bestuurders, zaakvoerders, lasthebbers, personen bevoegd om de vennootschap of de vereniging te verbinden of te vertegenwoordigen of onder de hoofdaandeelhouders, in zoverre deze laatsten in de feiten de bevoegdheden van bestuurder uitoefenen, geen personen hebben:<br /><br />a) die tijdens een periode van vijf jaar, voorafgaand aan de erkenning of tijdens de duur van de erkenning, aansprakelijk gesteld zijn voor de verbintenissen of schulden van een gefailleerde vennootschap, bij toepassing van de artikelen 35, 6°, 63ter, 123, tweede lid, 7°, of 133bis van de gecoördineerde wetten op de handelsvennootschappen, of meermaals een functie van zaakvoerder of gemachtigde hebben uitgeoefend in een gefailleerde vennootschap;<br /><br />b) die tijdens de periode van vijf jaar, voorafgaand aan de aanvraag tot erkenning of tijdens de duur van de erkenning, herhaaldelijk of op en ernstige wijze in overtreding zijn geweest op het gebied van de fiscale verplichtingen, de sociale verplichtingen of de wettelijke en reglementaire bepalingen met betrekking tot de exploitatie van een bureau voor private arbeidsbemiddeling;<br /><br />c) aan wie de burgerrechten en politieke rechten zijn ontnomen;  <span class="reference">(verv. decr. 12 december 2003, art. 2, I: 31 januari 2004)</span> ]<br /><br />4° het bureau dient te voldoen aan de verplichtingen die de sociale en de fiscale wetgeving opleggen;<br /><br />5° het bureau mag geen activiteiten in de zin van artikel 2, 1°, uitoefenen wanneer deze activiteiten leiden tot een tewerkstelling die strijdig is met de openbare orde of waarvan het bureau duidelijk kan vaststellen dat zij een inbreuk inhouden op de sociale of fiscale wetgeving;<br /><br />6° het bureau mag geen activiteiten uitoefenen die verboden zijn krachtens het Verdrag nr. 9 op de arbeidsbemiddeling van de zeelieden aangenomen op 10 juli 1920 door de Algemene Conferentie van de Internationale Arbeidsorganisatie en goedgekeurd bij de wet van 6 september 1924;<br /><br />7° [het bureau dient alle betrokkenen op een objectieve en respectvolle wijze te behandelen en dient de geldende wetgeving inzake evenredige participatie en gelijke behandeling en het decreet houdende het Handvest van de Werkzoekende en zijn uitvoeringsbesluiten na te leven.  <span class="reference">(verv. decr. 30 april 2004, art. 21, I: 1 oktober 2004)</span> ]<br /><br />8° het bureau dient de persoonlijke levenssfeer van de werknemers te eerbiedigen en de gegevens die tot de persoonlijke levenssfeer behoren, enkel op te vragen en te gebruiken met toestemming en in het belang van de werknemer in het kader van zijn professionele inschakeling en met inachtneming van de bepalingen van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens;<br /><br />9° het bureau mag onder geen beding enige vergoeding van de werknemer vragen of ontvangen.<br /><br />De Vlaamse regering kan voor bepaalde categorieën van werknemers en voor bepaalde activiteiten, na advies van de SERV, een afwijking toestaan op de bepaling van het eerste lid op voorwaarde dat dit geschiedt in het belang van de werknemer;<br /><br />10° [het bureau mag niet in de plaats treden van de opdrachtgevende werkgever bij de aanwervings- of ontslagbeslissing;  <span class="reference">(verv. decr. 12 december 2003, art. 2, I: 31 januari 2004)</span> ]<br /><br />11° het bureau mag geen activiteiten in de zin van artikel 2, 1°, uitoefenen voor zover deze activiteiten verband houden met een staking, uitsluiting of een schorsing van een arbeidsovereenkomst bedoeld in de artikelen 50 en 51 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;<br /><br />12° het bureau mag werknemers van vreemde nationaliteit bemiddelen voorzover de reglementering inzake de tewerkstelling van vreemde arbeidskrachten, zoals bedoeld in het koninklijk besluit nr. 34 van 20 juli 1967 betreffende de tewerkstelling van werknemers van vreemde nationaliteit wordt nageleefd;<br /><br />13° het bureau mag informatie over de opdrachtgevende werkgever en de werknemers enkel opvragen en gebruiken binnen het kader van de in artikel 2, 1°, bedoelde activiteiten;<br /><br />14° het bureau dient inzage te verlenen aan de opdrachtgever en de werknemers betreffende de over hen opgeslagen gegevens en dient hen, op hun verzoek, na beëindiging van de opdracht een afschrift van hun dossier te bezorgen;<br /><br />15° het bureau dient de opdrachtgevende werkgever en de werknemers juiste, tijdige en volledige informatie te verstrekken over de in artikel 2, 1°, bedoelde activiteiten en over de aard van de tewerkstelling;<br /><br />16° het bureau mag geen bemiddelingsactiviteiten uitoefenen voor vacatures waartegenover geen reëel jobaanbod staat;<br /><br />17° het bureau dient de gedragscode, waarvan de inhoud wordt vastgelegd door de Vlaamse regering na advies van de SERV, te onderschrijven en na te leven;<br /><br />18° het bureau moet beantwoorden aan de criteria inzake kwaliteit en/of deskundigheid die door de Vlaamse regering, na advies van de SERV, vastgesteld worden in functie van de aard van de verrichte activiteiten;<br /><br />19° het bureau mag in geen geval in een drankgelegenheid of in een aanhorigheid van een dergelijke aangelegenheid worden gevestigd.<br /><br />Zo het bureau gevestigd is in een handelshuis moet het zonder toedoen van de handelaar of diens aangestelde toegankelijk zijn langs een afzonderlijke ingang.
+...
 
 ### ART. 6.
 
-§ 1. Elk bureau dient vooraf te worden erkend overeenkomstig de procedure en voorwaarden die worden bepaald door de Vlaamse regering na advies van de SERV.<br /><br />De Vlaamse regering bepaalt, na advies van de SERV, de activiteiten van arbeidsbemiddeling waarvoor een afzonderlijke erkenning vereist is.<br /><br />§ 2. In afwijking van § 1 bepaalt de Vlaamse regering, met het oog op een maximale bescherming van de werknemer en na advies van de SERV, welke sectoren, vormen en/of activiteiten van arbeidsbemiddeling worden vrijgesteld van de verplichting van een voorafgaande erkenning.<br /><br />§ 3. De Vlaamse regering bepaalt, met het oog op een maximale bescherming van de werknemer en na advies van de SERV, in welke sectoren en/of voor welke categorieën van werknemers het verboden wordt activiteiten uit te oefenen zoals bedoeld in artikel 2, 1°.<br /><br />§ 4. De Vlaamse regering bepaalt, met het oog op een maximale bescherming van de werknemer en na advies van de SERV, in welke sectoren en/of voor welke categorieën van werknemers en/of voor welke vormen en/of activiteiten van arbeidsbemiddeling bijkomende voorwaarden worden opgelegd.
+...
 
 ## HOOFDSTUK III ERKENNINGSREGELING
 
@@ -34,94 +34,94 @@ Om de activiteiten zoals bedoeld in artikel 2, 1°, te mogen uitoefenen, moet ee
 
 ### ART. 7.
 
-§ 1. De Vlaamse regering bepaalt de procedure inzake de aanvraag van de erkenning voor de onder artikel 2, 1°, vermelde activiteiten.<br /><br />§ 2. De erkenning wordt verleend door de minister na advies van de adviescommissie.<br /><br />Wanneer het advies niet binnen de door de Vlaamse regering vast te stellen termijn wordt verleend, kan de minister een beslissing nemen. Deze beslissing dient met redenen te worden omkleed.<br /><br />Wanneer de minister afwijkt van het advies, dient hij in zijn beslissing de redenen aan te geven voor die afwijking.<br /><br />§ 3. [De erkenning wordt in principe verleend voor een periode van onbepaalde duur.<br /><br />De minister kan, na eenparig advies van de adviescommissie, beslissen dat de erkenning voor een periode van bepaalde duur van minimaal één jaar en maximaal vier jaar wordt toegekend, indien er gerede twijfel bestaat omtrent het voldoen aan de erkenningsvoorwaarden. Na verloop van de erkenning voor bepaalde duur, wordt de erkenning automatisch omgezet in een erkenning van onbepaalde duur, tenzij de adviescomissie ten laatste drie maanden voor het verstrijken van de erkenning voor bepaalde duur het betrokken bureau uitnodigt voor een hoorzitting in het kader van:<br /><br />1° een nieuwe erkenning voor bepaalde duur;<br /><br />2° de intrekking van de erkenning;<br /><br />3° de vervanging van de lopende erkenning door een erkenning voor de duur van zes maanden tijdens welke het bureau het bewijs moet leveren dat opnieuw voldaan wordt aan de erkenningsvoorwaarden.<br /><br />Wat de erkenningen voor een bepaalde duur betreft, bepaalt de Vlaamse regering, na advies van de Sociaal-Economische Raad van Vlaanderen, de nadere regels met betrekking tot de procedure tot erkenning en hernieuwing van de erkenning.  <span class="reference">(verv. decr. 12 december 2003, art. 3, I: 31 januari 2004)</span> ]<br /><br />§ 4. In geval van overdracht van een verleende erkenning maakt het bureau de overdracht van de erkenning kenbaar aan de minister en aan de adviescommissie, volgens de modaliteiten die door de Vlaamse regering, na advies van de SERV, worden bepaald. De minister kan, na advies van de adviescommissie, beslissen dat een nieuwe erkenning moet aangevraagd worden.<br /><br />§ 5. Overeenkomstig de nadere regelen die de Vlaamse regering bepaalt, kan de minister, na advies van de adviescommissie, een termijn bepalen waarbinnen het bureau effectief gebruik moet maken van de erkenning.<br /><br />(Zie: M.B. 29 september 2000, B.S., 6 januari 2001)
+...
 
 ### ART. 8.
 
-§ 1. Op het in dienst nemen van werknemers, om hen ter beschikking te stellen met het oog op de uitvoering van een bij of krachtens hoofdstuk II van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers, toegelaten tijdelijke arbeid zijn de volgende bijkomende voorwaarden van toepassing:<br /><br />1° regelmatig opgericht zijn in de vorm van een handelsvennootschap;<br /><br />2° een volledig volstort kapitaal van ten minste 1.250.000 frank bezitten;<br /><br />3° geen achterstallige bijdragen verschuldigd zijn zoals belastingen, bijdragen te innen door de RSZ of bijdragen te innen door of voor rekening van Fondsen voor Bestaanszekerheid;<br /><br />4° niet in ernstige overtreding zijn van de wettelijke of reglementaire bepalingen in verband met uitzendarbeid;<br /><br />[5° het is verboden om bij exclusiviteit personen ter beschikking te stellen van één gebruikende onderneming.  <span class="reference">(ing. decr. 12 december 2003, art. 4, I: 31 januari 2004)</span> ]<br /><br />§ 2. Een bureau dat zijn maatschappelijke zetel in het Brusselse Hoofdstedelijk Gewest of het Waalse Gewest heeft of als natuurlijke persoon er kantoor houdt en in het Vlaamse Gewest activiteiten uitoefent zoals bedoeld in artikel 2, 1°, dient aan te tonen dat het in zijn gewest aan gelijkwaardige voorwaarden als vermeld in dit decreet voldoet. [Het bureau dient tijdens de duur van de erkenning aan deze voorwaarden te blijven voldoen.  <span class="reference">(ing. decr. 12 december 2003, art. 4, I: 31 januari 2004)</span> ]<br /><br />Indien de minister tot de bevinding komt dat deze voorwaarden niet gelijkwaardig zijn, legt hij, na advies van de adviescommissie, een deel of het geheel van de voorwaarden op, zoals bepaald in dit decreet.<br /><br />§ 3. Een buitenlands bureau dat zijn maatschappelijke zetel binnen de Europese Unie heeft of als natuurlijke persoon er kantoor houdt en in het Vlaamse Gewest activiteiten uitoefent zoals bedoeld in artikel 2, 1°, dient aan te tonen dat het in zijn land aan gelijkwaardige voorwaarden als vermeld in dit decreet voldoet. [Het bureau dient tijdens de duur van de erkenning aan deze voorwaarden te blijven voldoen.  <span class="reference">(ing. decr. 12 december 2003, art. 4, I: 31 januari 2004)</span> ]<br /><br />Indien de minister tot de bevinding komt dat deze voorwaarden niet gelijkwaardig zijn, legt hij, na advies van de adviescommissie, een deel of het geheel van de voorwaarden op, zoals bepaald in dit decreet.<br /><br />§ 4. Een bureau dat zijn maatschappelijke zetel buiten de Europese Unie heeft of als natuurlijke persoon er kantoor houdt, en activiteiten zoals bedoeld in artikel 2, 1°, in het Vlaamse Gewest uitoefent, dient te voldoen aan de voorwaarden vermeld in dit decreet.<br /><br />Het moet daarenboven het bewijs leveren dat het in het land van herkomst activiteiten in de zin van artikel 2, 1°, uitoefent.
+...
 
 ### ART. 9.
 
-[Het bureau dat een erkenning aanvraagt, deelt het adres in het Vlaamse Gewest mee waar de docu-menten en stukken zoals bedoeld in artikel 18, § 2, 3°, ter beschikking zullen worden gesteld. Het bureau kan het adres van de betrokken Vlaamse inspectiedienst meedelen.  <span class="reference">(verv. decr. 12 december 2003, art. 5, I: 31 januari 2004)</span> ]
+...
 
 ### ART. 10.
 
-De Vlaamse regering bepaalt welke documenten en bewijsstukken het bureau bij de aanvraag tot erkenning ervan moet voegen.<br /><br />Het bureau moet aan de adviescommissie alle bijkomende documenten, stukken en inlichtingen verstrekken die zij nodig acht om na te gaan of de erkenningsvoorwaarden vervuld zijn.<br /><br />Indien de voorzitter van de adviescommissie of het bureau erom verzoekt wordt dit laatste gehoord.
+...
 
 ## AFDELING 2 INTREKKING VAN DE ERKENNING
 
 ### ART. 11.
 
-§ 1. De minister kan, na advies van de adviescommissie, de erkenning intrekken wanneer:<br /><br />1° het bureau de bepalingen van dit decreet overtreedt;<br /><br />2° de aanvrager of de verantwoordelijken van het bureau, een onherroepelijke veroordeling heeft opgelopen wegens valsheid in geschrifte of wegens misdaden en wanbedrijven, bepaald bij de titels VII en IX van het Strafwetboek, alsmede wegens de inbreuken bepaald bij artikel 19 van dit decreet;<br /><br />3° de erkenning is gebeurd op basis van verklaringen die vals, onvolledig of onjuist worden bevonden;<br /><br />4° het bureau heeft samengewerkt met Belgische of buitenlandse bureaus die niet over een geldige registratie of erkenning beschikken;<br /><br />5° het bureau de reglementering inzake de tewerkstelling van vreemde arbeidskrachten overtreedt;<br /><br />6° het bureau als voorwaarde stelt dat de bemiddelde personen het bureau bij iedere nieuwe bemiddeling zal laten optreden;<br /><br />7° [het bureau toelaat dat in het bureau activiteiten worden uitgeoefend door bureaus of door werknemers van bureaus waarvan de erkenning werd ingetrokken of geschrapt;  <span class="reference">(verv. decr. 12 december 2003, art. 6, I: 31 januari 2004)</span> ]<br /><br />8° het bureau als voorwaarde voor de plaatsing, de verplichting oplegt aankopen of uitgaven te doen in een drankgelegenheid, een hotel of een logement of in enig andere handelszaak of onderneming.<br /><br />De minister dient zijn beslissing met redenen te omkleden.<br /><br />Het betrokken bureau wordt vooraf gehoord door de adviescommissie of ten minste daartoe behoorlijk opgeroepen.<br /><br />§ 2. In geval het bureau niet langer aan de erkenningsvoorwaarden voldoet kan de minister, hetzij op het verzoek van een gewone meerderheid van de adviescommissie, hetzij op eenparig verzoek van de werkgeversvertegenwoordigers of de werknemersvertegenwoordigers in de adviescommissie, de lopende erkenning vervangen door een erkenning voor de duur van zes maanden tijdens welke het bureau het bewijs moet leveren dat opnieuw voldaan wordt aan de erkennings-voorwaarden.<br /><br />§ 3. De adviescommissie kan de feiten die haar ter kennis komen en die wijzen op overtredingen of tekortkomingen zoals bedoeld in § 1, ter kennis brengen van de minister die de ambtenaren en beambten, zoals aangewezen krachtens artikel 18, met een onderzoek belast.<br /><br />§ 4. De in § 3 bedoelde ambtenaren en beambten stellen de adviescommissie in kennis van alle waarschuwingen, termijnen en processen-verbaal bedoeld in artikel 18, § 3.<br /><br />[§ 5. Vanaf de dag waarop de intrekking van de erkenning van kracht wordt, mag het bureau geen nieuwe overeenkomsten meer afsluiten. De minister kan, na advies van de adviescommissie en in het belang van de werkzoekende, het bureau de toestemming verlenen de lopende overeenkomsten verder uit te voeren voor een maximumduur van zes maanden, zonder dat de overeenkomsten mogen gewijzigd, hernieuwd of verlengd worden.  <span class="reference">(ing. decr. 12 december 2003, art. 7, I: 31 januari 2004)</span> ]
+...
 
 ### ART. 12.
 
-Ingeval van definitieve stopzetting van één van de in dit decreet bedoelde activiteiten door het bureau, wordt de erkenning voor de betreffende activiteit geschrapt.
+...
 
 ## AFDELING 3 WERKINGSREGELEN
 
 ### ART. 13.
 
-Het bureau is ertoe gehouden een tekst waarin de rechten van de werkzoekende en de werkgever worden uiteengezet, te overhandigen aan de gegadigden of in extenso aan te plakken in de voor het publiek toegankelijke lokalen van het bureau op de plaats waar hij het best kan worden gelezen.<br /><br />De inhoud van deze tekst wordt vastgesteld door de minister na advies van de adviescommissie.<br /><br />(Zie: M.B. 29 september 2000, B.S., 6 januari 2001)<br /><br />In afwijking van het vorige lid dient het bureau, indien de private arbeidsbemiddeling bestaat uit het bekendmaken van werkaanbiedingen door middel van de geschreven, auditieve of visuele media, de tekst waarin de rechten van de werkzoekende en de werkgever worden uiteengezet, kenbaar te maken volgens de modaliteiten die door de Vlaamse regering, na advies van de SERV, worden bepaald.<br /><br />Het bureau is er eveneens toe gehouden in advertenties en in zijn briefwisseling melding te maken van het erkenningsnummer en de erkende activiteit.
+...
 
 ### ART. 14.
 
-De Vlaamse regering bepaalt, na advies van de SERV, de voorwaarden en de modaliteiten van samen-werking tussen private en publieke arbeidsbemiddelingsbureaus.
+...
 
 ### ART. 15.
 
-De bureaus dienen op geregelde tijdstippen gegevens met betrekking tot hun structuur en activiteiten mede te delen aan de minister, overeenkomstig de procedure en de modaliteiten bepaald door de Vlaamse regering, na advies van de SERV, en rekening houdend met de vertrouwelijkheid van de gegevens.<br /><br />De aldus verkregen informatie zal in geglobaliseerde vorm op geregelde tijdstippen ter beschikking worden gesteld.
+...
 
 ## HOOFDSTUK IV ADVIESCOMMISSIE INZAKE ARBEIDSBEMIDDELING
 
 ### ART. 16.
 
-§ 1. In de Sociaal-Economische Raad van Vlaanderen wordt een adviescommissie opgericht.<br /><br />De adviescommissie dient de minister van advies omtrent de erkenning of de intrekking van de erkenning.<br /><br />§ 2. De adviescommissie is samengesteld uit:<br />1° een voorzitter;<br />2° een gelijk aantal vertegenwoordigers van de representatieve werkgevers- en werknemersorganisaties;<br />3° twee deskundigen die onafhankelijk staan tegenover enerzijds de organisaties die in de adviescommissie vertegenwoordigd zijn en anderzijds de bureaus bedoeld in dit decreet en waarvan tenminste één houder is van het diploma van doctor of licentiaat in de psychologie;<br />4° twee ambtenaren van het Vlaams Subsidieagentschap voor Werk en Sociale Economie.<br /><br />De voorzitter, die onafhankelijk dient te staan ten opzichte van de representatieve werkgevers- en werknemersorganisaties, wordt aangesteld door de Vlaamse regering. Bij afwezigheid van de voorzitter neemt de administrateur-generaal van de Sociaal-Economische Raad van Vlaanderen het voorzitterschap over.<br /><br />De leden van de adviescommissie worden door de Vlaamse regering benoemd.<br /><br />Deze bepaalt tevens de nadere regelen betreffende de samenstelling en de werkwijze van de commissie.<br /><br />Alleen de in het eerste lid, 2°, genoemde leden zijn stemgerechtigd.<br /><br />§ 3. Er is onverenigbaarheid tussen het mandaat van lid van de adviescommissie en de hoedanigheid van bestuurder, zaakvoerder, lasthebber of aangestelde van de in dit decreet beoogde bureaus.
+...
 
 ## HOOFDSTUK V TOEZICHT EN SANCTIES
 
 ### ART. 17.
 
-De Vlaamse regering bepaalt, na advies van de SERV, de klachtenprocedure.
+...
 
 ### ART. 18.
 
-[Het toezicht en de controle op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan geschiedt overeenkomstig de bepalingen van het decreet houdende sociaalrechtelijk toezicht.  <span class="reference">(verv. decr. 30 april 2004, art. 31, I: 15 augustus 2004)</span> ]
+...
 
 ### ART. 19.
 
-Onverminderd de artikelen 269 tot 274 van het Strafwetboek worden gestraft met gevangenisstraf van acht dagen tot één jaar en met een geldboete van 100 tot 5.000 frank of met één van deze straffen alleen: 1° hij die een bureau exploiteert zonder regelmatige erkenning, alsmede zijn aangestelden of lasthebbers;<br /><br />2° ieder persoon, al dan niet houder van een erkenning, die een bureau exploiteert, alsmede zijn aangestelden of lasthebbers die commissieloon, bijdrage, toelatings- of inschrijvingsgelden of vorderen of innen, buiten de door dit decreet bepaalde perken;<br /><br />3° ieder persoon die wetens en willens een beroep doet op een bureau waarvan de exploitant niet in het bezit is van een regelmatige erkenning;<br /><br />4° [ieder persoon die activiteiten uitoefent die leiden tot tewerkstelling zoals bepaald in artikel 5, 5°;  <span class="reference">(verv. decr. 30 april 2004, art. 31, I: 15 augustus 2004)</span> ]<br /><br />[5° ieder persoon die de gedragscode, zoals bepaald in artikel 5, 17° overtreedt.  <span class="reference">(ing. decr. 30 april 2004, art. 31, I: 15 augustus 2004)</span> ]
+...
 
 ### ART. 20.
 
-In geval van herhaling kan de straf bedoeld in artikel 19 op het dubbel van het maximum worden gebracht.
+...
 
 ### ART. 21.
 
-De zaakvoerder van het bureau, al dan niet houder van een erkenning, is burgerrechtelijk aansprakelijk voor de betaling van de geldboetes waartoe zijn aangestelden of lasthebbers zijn veroordeeld.
+...
 
 ### ART. 22.
 
-Alle bepalingen van boek I van het Strafwetboek, uitgezonderd hoofdstuk V, maar met inbegrip van hoofdstuk VII en artikel 85, zijn van toepassing op de bij dit decreet vastgestelde overtredingen.<br /><br />In geval van herhaling zal artikel 85 van het Strafwetboek evenwel niet van toepassing zijn.
+...
 
 ### ART. 23.
 
-[...  <span class="reference">(opgeh. decr. 30 april 2004, art. 31, I: 15 augustus 2004)</span> ]
+...
 
 ## HOOFDSTUK VI SLOTBEPALINGEN
 
 ### ART. 24.
 
-[Het opleggen van de administratieve geldboete uit hoofde van inbreuken op dit decreet geschiedt overeenkomstig de bepalingen van het decreet houdende sociaalrechtelijk toezicht.  <span class="reference">(verv. decr. 30 april 2004, art. 31, I: 15 augustus 2004)</span> ]
+...
 
 ### ART. 25.
 
-(niet opgenomen)<br /><br />(Worden opgeheven:<br /><br />1° het decreet van 6 maart 1991 houdende regeling tot erkenning van de uitzendbureaus in het Vlaamse Gewest;<br /><br />2° het decreet van 3 maart 1993 houdende regeling tot erkenning van de outplacement-, wervings- en selectiebureaus in het Vlaamse Gewest;<br /><br />3° het decreet van 19 april 1995 tot regeling van de arbeidsbemiddeling tegen betaling in het Vlaamse Gewest)
+...
 
 ### ART. 26.
 
-De Vlaamse regering bepaalt de voorwaarden en modaliteiten van een overgangsregeling voor wat betreft de bureaus die een erkenning hebben bekomen in het kader van de in artikel 25 opgesomde bepalingen.
+...
 
 ### ART. 27.
 
-De Vlaamse regering bepaalt de datum waarop dit decreet in werking treedt.<br /><br />(I: 1 september 2000. Zie: B.V.R. 8 juni 2000, B.S., 11 november 2000)
+...
