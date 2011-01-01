@@ -159,7 +159,7 @@ Een aanvullende subsidie in het kader van de werkdrukvermindering wordt toegeken
 
 ### ART. 23.
 
-De subsidies die in dit besluit worden gedefinieerd, worden elk jaar op 1 januari verhoogd met de procentuele stijging van de gezondheidsindex tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar. Die indexering gebeurt voor het eerst op 1 januari 2008.<br /><br />
+De subsidies die in dit besluit worden gedefinieerd, worden elk jaar op 1 januari verhoogd met de procentuele stijging van de gezondheidsindex tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar. Die indexering gebeurt voor het eerst op 1 januari 2008. In 2011 worden de bedragen, vermeld in dit besluit, op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het kalenderjaar 2008 en 1 november van het kalenderjaar 2010.<br /><br />
 
 ## Afdeling 4 Registratie
 
