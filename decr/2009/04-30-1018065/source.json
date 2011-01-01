@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018065,
+  "title": "Decreet van 2009-04-30 tot wijziging van het decreet van 28 april 1998 inzake het Vlaamse beleid ten aanzien van etnisch-culturele minderheden",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018065/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "2263449968b8373330254bc67fceda310ae5454fabf7d3dad4f7def6039d2fbd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018065&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2009-04-30",
+  "gazette": "2009-07-02",
+  "numac": 2009035504,
+  "document_start": "3000-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
