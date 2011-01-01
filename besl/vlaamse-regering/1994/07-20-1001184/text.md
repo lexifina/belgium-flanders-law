@@ -18,7 +18,7 @@ De bij artikel 1 bedoelde dienstverlening wordt door het Agentschap slechts ten 
 
 ### ART. 4.
 
-Het Agentschap neemt voor de gebruikers, die tot de bij artikel 3 bedoelde doelgroep behoren, de dienstverlening door een tolk voor doven en slechthorenden ten last in leefsituaties die tot het gebruikelijk maatschappelijk patroon behoren en waarvoor, met het oog op de noodzakelijke optimale communicatie, technische bijstand door een deskundig opgeleide tolk vereist is.<br /><br />De krachtens het eerste lid ten laste genomen bijstand wordt beperkt tot maximaal 18 uren per jaar of 50 uren per jaar voor gebruikers die tevens volgende vermindering van hun gezichtsvermogen hebben: ofwel een gezichtscherpte van minder dan 1/20 (0,05) aan het beste oog en met de beste mogelijke correctie met bril of contactlens ofwel een gezichtsveld dat gemiddeld niet groter is dan 10° aan beide ogen.<br /><br />Het Agentschap kan een afwijking tot maximum het dubbel aantal uren toestaan op het in vorig lid bedoeld maximum omwille van bijzondere individuele omstandigheden; om van deze afwijking te genieten, dient tegelijk aan volgende voorwaarden voldaan:<br />1° de afwijking dient schriftelijk aangevraagd te worden met een omstandige motivatie van het dwingend karakter, gestaafd met alle nuttige attesten en documenten in functie van de bijzondere situatie; deze aanvraag dient eveneens een opgave van het nodige aantal uren op jaarbasis te bevatten;<br />2° de bij 1° bedoelde aanvraag dient jaarlijks hernieuwd en de afwijking kan niet voor langer dat het lopend jaar verleend worden.
+Het Agentschap neemt voor de gebruikers, die tot de bij artikel 3 bedoelde doelgroep behoren, de dienstverlening door een tolk voor doven en slechthorenden ten last in leefsituaties die tot het gebruikelijk maatschappelijk patroon behoren en waarvoor, met het oog op de noodzakelijke optimale communicatie, technische bijstand door een deskundig opgeleide tolk vereist is.<br /><br />De krachtens het eerste lid ten laste genomen bijstand wordt beperkt tot maximaal 18 uren per jaar of 70 uren per jaar voor gebruikers die tevens volgende vermindering van hun gezichtsvermogen hebben: ofwel een gezichtscherpte van minder dan 1/20 (0,05) aan het beste oog en met de beste mogelijke correctie met bril of contactlens ofwel een gezichtsveld dat gemiddeld niet groter is dan 10° aan beide ogen.<br /><br />Het Agentschap kan een afwijking tot maximum het dubbel aantal uren toestaan op het in vorig lid bedoeld maximum omwille van bijzondere individuele omstandigheden; om van deze afwijking te genieten, dient tegelijk aan volgende voorwaarden voldaan:<br />1° de afwijking dient schriftelijk aangevraagd te worden met een omstandige motivatie van het dwingend karakter, gestaafd met alle nuttige attesten en documenten in functie van de bijzondere situatie; deze aanvraag dient eveneens een opgave van het nodige aantal uren op jaarbasis te bevatten;<br />2° de bij 1° bedoelde aanvraag dient jaarlijks hernieuwd en de afwijking kan niet voor langer dat het lopend jaar verleend worden.
 
 ### ART. 5.
 
@@ -36,14 +36,16 @@ Het Agentschap betaalt de kosten van de krachtens dit besluit ten laste genomen 
 
 ### ART. 7.
 
-De uren bijstand die de erkende tolken voor doven en slechthorenden effectief hebben gepresteerd, de tijd voor verplaatsing niet inbegrepen, zoals die blijken uit de prestatiestaten, worden vergoed naar rato van 31,47 euro per gefactureerd vol of begonnen uur.<br>
+De uren bijstand die de erkende tolken voor doven en slechthorenden effectief hebben gepresteerd, de tijd voor verplaatsing niet inbegrepen, zoals die blijken uit de prestatiestaten, worden vergoed naar rato van 33,50 euro per gefactureerd vol of begonnen uur.<br>
 <br>
-Dat bedrag wordt jaarlijks op 1 januari aangepast volgens de formule :<br>
-[31,47] x index december [jaar - 1]/index december [jaar - 2].
+Het bedrag, vermeld in het eerste lid, is gekoppeld aan de gezondheidsindex die van kracht is op 1 januari 2011.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, wordt jaarlijks op 1 januari aangepast volgens de formule :<br>
+33,50 x index december 20xx/index december 2011.
 
 ### ART. 8.
 
-§ 1.Het Agentschap subsidieert de personeels- en werkingskosten van het gemachtigd centraal tolkenbureau, vermeld in artikel 11, op jaarbasis naar rato van een forfaitair bedrag van 21,81 euro per uur, vermenigvuldigd met 7525 uren. <br /><br />§ 2. Minimum 75 % van de in § 1 bedoelde subsidies wordt besteed aan personeelskosten voor personeel waarvan de helft kennis heeft van de gebarentaal.<br /><br />Er is 1 fulltime coördinator.<br /><br />De personeelsleden worden vergoed overeenkomstig de voor de voorzieningen voor opvang van personen met een handicap vastgestelde reglementaire barema's en anciënniteitsregeling.<br /><br />Het centraal tolkenbureau beslist over de voor de coördinator en de overige personeelsleden toegepaste barema's.<br /><br />§ 3. Maximum 25 % van de in § 1 bedoelde subsidie wordt besteed aan werkingskosten.
+§ 1.Het Agentschap subsidieert de personeels- en werkingskosten van het gemachtigd centraal tolkenbureau, vermeld in artikel 11, op jaarbasis naar rato van een forfaitair bedrag van 20,72 euro per uur, vermenigvuldigd met 8300 uren. <br /><br />§ 2. Minimum 75 % van de in § 1 bedoelde subsidies wordt besteed aan personeelskosten voor personeel waarvan de helft kennis heeft van de gebarentaal.<br /><br />Er is 1 fulltime coördinator.<br /><br />De personeelsleden worden vergoed overeenkomstig de voor de voorzieningen voor opvang van personen met een handicap vastgestelde reglementaire barema's en anciënniteitsregeling.<br /><br />Het centraal tolkenbureau beslist over de voor de coördinator en de overige personeelsleden toegepaste barema's.<br /><br />§ 3. Maximum 25 % van de in § 1 bedoelde subsidie wordt besteed aan werkingskosten.
 
 ### ART. 9.
 
@@ -57,7 +59,7 @@ Dat bedrag wordt jaarlijks op 1 januari aangepast volgens de formule :<br>
 
 ### ART. 11.
 
-De bij artikel 1 bedoelde dienstverlening wordt door het Agentschap slechts ten laste genomen als zij door bemiddeling van het hiertoe door het Agentschap gemachtigd centraal tolkenbureau verstrekt wordt en voor ten hoogste 7525 uren per jaar.
+De bij artikel 1 bedoelde dienstverlening wordt door het Agentschap slechts ten laste genomen als zij door bemiddeling van het hiertoe door het Agentschap gemachtigd centraal tolkenbureau verstrekt wordt en voor ten hoogste 8300 uren per jaar.
 
 ### ART. 12.
 
