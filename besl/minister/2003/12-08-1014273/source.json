@@ -2,16 +2,16 @@
   "codex_id": 1014273,
   "title": "Ministerieel besluit van 2003-12-08 houdende de rapportering van de electriciteitsdistributienetbeheerders betreffende de uitvoering van hun REG-actieplannen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014273/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "755dca2dd4881896f45a2244b6acd20905481380ab2e1ffb4fe27efe9bac5d3f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014273/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "3069243f71d6a60917c450e8f2b974ed9b541aa10b708fd2d8e4b32c14968fab",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014273&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-01-01",
   "made": "2003-12-08",
   "gazette": "2004-02-13",
   "numac": 2004035183,
   "document_start": null,
   "document_end": "2010-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2011-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
