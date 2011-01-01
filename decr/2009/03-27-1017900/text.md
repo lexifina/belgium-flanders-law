@@ -222,7 +222,7 @@ Deze onderafdeling is van toepassing zoverre de gemeentelijke heffingsreglemente
 
 ### ART. 3.2.19.
 
-§ 1. De gemeentelijke leegstandsheffing op gebouwen en woningen bezwaart gebouwen en woningen die gedurende twaalf opeenvolgende maanden zijn opgenomen in het leegstandsregister.<br /><br />§ 2. Zolang het gebouw of de woning niet uit het leegstandsregister geschrapt is, blijft de heffing verschuldigd op het ogenblik van het verstrijken van elke nieuwe periode van twaalf maanden vanaf de datum van de eerste verjaardag.<br /><br />De aanslag kan worden gevestigd vanaf dat ogenblik tot uiterlijk de laatste dag van het kwartaal volgend op het verstrijken van de nieuwe periode van twaalf maanden.<br /><br />
+§ 1. De gemeentelijke leegstandsheffing op gebouwen en woningen bezwaart gebouwen en woningen die gedurende twaalf opeenvolgende maanden zijn opgenomen in het leegstandsregister.<br /><br />§ 2. Zolang het gebouw of de woning niet uit het leegstandsregister geschrapt is, blijft de heffing verschuldigd op het ogenblik van het verstrijken van elke nieuwe periode van twaalf maanden vanaf de datum van de eerste verjaardag.
 
 ### ART. 3.2.20.
 
