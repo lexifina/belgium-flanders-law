@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020211,
+  "title": "Besluit van de Vlaamse Regering van 2011-04-08 houdende de vaststelling van de subsidie voor 2011 voor de levensbeschouwelijke verenigingen en een organisatie die de belangen van gezinnen behartigt, die erkend zijn om radioprogramma's op de VRT te verzorgen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020211/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "a40ea3a5da5f9ed5f7aa42a0d542f7fa4185be295f3422e92acd24f1761364e3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020211&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2011-04-08",
+  "gazette": "2011-05-05",
+  "numac": 2011201994,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
