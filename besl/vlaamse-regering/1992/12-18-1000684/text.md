@@ -60,7 +60,7 @@ Onder voorbehoud van de bepaling van artikel 4 wordt het bedrag van de verbeteri
 
 ### ART. 13bis.
 
-De verbeteringspremie, vermeld in artikel 13, eerste lid, 1°, h), wordt niet toegekend aan wie in aanmerking komt voor de verhoging van de dakisolatiepremie, vermeld in artikel 8/2, tweede lid, van het besluit van de Vlaamse Regering van 2 maart 2007 inzake de openbaredienstverplichtingen ter bevordering van het rationeel energiegebruik. Daartoe worden de dossiergegevens van de aanvragers in kwestie vergeleken met de gegevens inzake de verhoging van de aanvullende premies, die door het Vlaams Energieagentschap wordt uitbetaald met toepassing van artikel 8/2, tweede lid van het besluit van de Vlaamse Regering van 2 maart 2007 inzake de openbaredienstverplichtingen ter bevordering van het rationeel energiegebruik en die door het Vlaams Energieagentschap maandelijks worden bezorgd aan de leidend ambtenaar van het agentschap.
+De verbeteringspremie, vermeld in artikel 13, eerste lid, 1°, h), wordt niet toegekend aan wie in aanmerking komt voor de verhoging van de dakisolatiepremie, vermeld in artikel 6.4.10, tweede lid, van het Energiebesluit. Daartoe worden de dossiergegevens van de aanvragers in kwestie vergeleken met de gegevens inzake de verhoging van de aanvullende premies, die door het Vlaams Energieagentschap wordt uitbetaald met toepassing van artikel 6.4.10, tweede lid, van het Energiebesluit en die door het Vlaams Energieagentschap maandelijks worden bezorgd aan de leidend ambtenaar van het agentschap.
 
 ### ART. 13ter.
 
