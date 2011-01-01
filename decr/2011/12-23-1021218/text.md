@@ -16,6 +16,10 @@
 
 In artikel 2.2.9 van hetzelfde decreet wordt een punt 1° /1 ingevoegd, dat luidt als volgt :<br />« 1° /1 de procedure van opname van een gebouw of woning in het leegstandsregister; <br />
 
+### ART. 23.
+
+In artikel 3.2.19, § 2, van hetzelfde decreet wordt het tweede lid opgeheven.<br /><br />
+
 ### ART. 30.
 
 In artikel 4.1.6, § 1, van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid, 1°, worden de woorden « sociale koopwoningen » vervangen door de woorden « sociale kavels »;<br />2° in het derde lid worden de woorden « het eerste lid, 1°, a), » vervangen door de woorden « het eerste lid, 1°, <br />
