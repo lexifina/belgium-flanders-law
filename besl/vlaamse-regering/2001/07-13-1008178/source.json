@@ -2,16 +2,16 @@
   "codex_id": 1008178,
   "title": "Besluit van de Vlaamse Regering van 2001-07-13 houdende nadere regeling van de voorwaarden om als afnemer in de zin van artikel 12 van het Elektriciteitsdecreet in aanmerking te komen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008178/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "15736b78e3404d6007f3ffd480c6f4f7819b08a59bdd3b8390e7cd2dbba7964b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008178/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "cc5fa63f0efd28071f5f586f2d0d7292ae28fa56b459d792c37b12cee15a76ab",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008178&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-01-01",
   "made": "2001-07-13",
   "gazette": "2001-08-17",
   "numac": 2001035877,
   "document_start": null,
   "document_end": "2010-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2011-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
