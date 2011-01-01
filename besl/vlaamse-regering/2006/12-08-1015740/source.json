@@ -2,16 +2,16 @@
   "codex_id": 1015740,
   "title": "Besluit van de Vlaamse Regering van 2006-12-08 betreffende het onderhoud en het nazicht van [centrale] stooktoestellen voor de verwarming van gebouwen of voor de aanmaak van warm verbruikswater",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015740/VolledigDocument?datum=2009-05-01",
-  "source_sha256": "42e773819213c27bc104e109881a87af09a92690ca65503f26e98657089b3687",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015740/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "ae16f8089baf29171ed468ecc1c563b2e8dc0f8ad5e99b740237a68fe55acda1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015740&param=informatie",
-  "as_of": "2009-05-01",
+  "as_of": "2011-01-01",
   "made": "2006-12-08",
   "gazette": "2007-04-27",
   "numac": 2007035507,
   "document_start": "2007-06-01",
   "document_end": null,
-  "in_force": "2009-05-01",
+  "in_force": "2011-01-01",
   "article_versions": 53,
-  "record_form": "consolidated version as in force on 2009-05-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
