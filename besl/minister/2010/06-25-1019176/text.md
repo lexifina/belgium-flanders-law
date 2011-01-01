@@ -6,36 +6,36 @@ De Vlaamse minister voor Economie, Buitenlands beleid, Landbouw en Plattelandsbe
 
 ### ART. 1.
 
-Aan het artikel 14 van het ministerieel besluit van 21 december 2009 houdende tijdelijke aanvullende maatregelen voor het behoud van de visbestanden in zee, worden volgende wijzigingen aangebracht : <br /><br />1° in § 1 wordt het getal "362" vervangen door het getal "404" <br /><br />2° de § 2 wordt aangevuld met een derde lid : <br />"Het totale tongquotum in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) gereserveerd voor de vissersvaartuigen met een motorvermogen van meer dan 221 kW bedraagt voor de periode van 1 januari 2010 tot en met 31 december 2010 820 ton."<br /><br />3° in de § 3 wordt het getal "40" vervangen door het getal "45"<br /><br />4° de § 4 wordt aangevuld met een derde lid : <br />"Vanaf 1 juli 2010 tot en met 31 oktober 2010 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 3.000 kg, vermeerderd met een hoeveelheid die gelijk is aan 10 kg vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW."
+...
 
 ### ART. 2.
 
-Aan het artikel 15 van hetzelfde besluit worden volgende wijzigingen aangebracht : <br /><br />1° in § 1 wordt het getal "470" vervangen door het getal "499"<br /><br />2° in § 2 wordt het getal "3.160" vervangen door het getal "3.339"<br /><br />3° in § 3 wordt het getal "115" vervangen door het getal "125"<br /><br />4° de § 4 wordt aangevuld met een tweede lid : <br />"Vanaf 1 juli 2010 tot en met 31 oktober 2010 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 65 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW."
+...
 
 ### ART. 3.
 
-Aan het artikel 16 § 4 van hetzelfde besluit wordt een tweede lid toegevoegd, luidend als volgt : <br /><br />"Vanaf 1 juli 2010 tot en met 31 oktober 2010 is het in de i.c.e.s.-gebieden VIIf,g voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de tongvangst een hoeveelheid te overschrijden, die gelijk is aan 12 kg per kW vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW."
+...
 
 ### ART. 4.
 
-Aan het artikel 17 § 2 van hetzelfde besluit wordt een tweede lid toegevoegd, luidend als volgt : <br /><br />"Vanaf 1 juli 2010 tot 31 oktober 2010 is het in de i.c.e.s.-gebieden VIIh,j,k voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 3 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW."
+...
 
 ### ART. 5.
 
-In het artikel 21 § 3 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 26 maart 2010 wordt het getal "15" vervangen door het getal "23".
+...
 
 ### ART. 6.
 
-In het artikel 18 van hetzelfde besluit, gewijzigd bij de ministeriële besluiten van 4 maart 2010 en 26 maart 2010, worden volgende wijzigingen aangebracht : <br /><br />1° § 2 wordt aangevuld met een derde lid, dat luidt als volgt : <br />"Het totale kabeljauwquotum in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium), gereserveerd voor de vissersvaartuigen met een motorvermogen van meer dan 221 kW, waarvoor artikel 25 van toepassing is, zal in functie van de inschrijvingen voorzien in § 3, door de dienst berekend worden."<br /><br />2° § 3 wordt aangevuld met een tweede lid : <br />"Eigenaars van vissersvaartuigen met een motorvermogen van meer dan 221 kW kunnen een toewijzing van vangstmogelijkheden voor de kabeljauw uit de i.c.e.s.-gebieden II, IV in functie van het motorvermogen in toepassing van § 5 lid 2 aanvragen. Daartoe dienen ze voor 15 juli 2010 een verzoek bij de dienst in te brengen. Indien er geen aanvraag wordt ingediend is artikel 25 van toepassing."<br /><br />3° § 5 wordt aangevuld met een tweede lid : <br />"Vanaf 1 juli 2010 tot en met 31 oktober 2010 is het in de i.c.e.s.-gebieden II, IV voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de kabeljauwvangst een hoeveelheid te overschrijden, die gelijk is aan 13 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW."
+...
 
 ### ART. 7.
 
-Aan het artikel 23 § 2 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 26 maart 2010 wordt een vierde lid toegevoegd, dat luidt als volgt : <br /><br />"In afwijking van lid 2, kan de eigenaar van een vissersvaartuig, dat gedurende de periode 2008-2009 minstens 120 vaartdagen actief was in het i.c.e.s.-gebied VIIa vóór 15 juli 2010 bij de Dienst een aanvraag indienen tot het bekomen van verdubbelde hoeveelheden tong VIIa voor de periode 1 juli 2010 - 31 december 2010 en dit op voorwaarde dat de hoeveelheden Noordzee tong onder artikel 14 voor de periode 1 juli 2010 tot 31 oktober 2010 worden gehalveerd."
+...
 
 ### ART. 8.
 
-In het artikel 25 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 26 maart 2010, worden volgende wijzigingen aangebracht : <br /><br />1° aan § 1 wordt een derde lid toegevoegd, dat luidt als volgt : <br />"In de periode van 1 juli 2010 tot en met 31 december 2010 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van 221 kW of minder, en dat volgens de Officiële lijst der Belgische vissersvaartuigen 2010 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 160 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden."<br /><br />2° Aan § 2 wordt een derde lid toegevoegd, dat luidt als volgt : <br />"In de periode van 1 juli 2010 tot en met 31 december 2010 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, en dat volgens de Officiële lijst der Belgische vissersvaartuigen 2010 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 320 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden."<br /><br />3° aan § 3 wordt een derde lid toegevoegd, dat luidt als volgt : <br />"In de periode van 1 juli 2010 tot en met 31 december 2010 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2010 niet is uitgerust met de boomkor, verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 440 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden."<br /><br />4° aan § 6 wordt een tweede lid toegevoegd, dat luidt als volgt : <br />"De hoeveelheden vermeld in de §§ 1, 2 en 3 worden in de periode 1 juli 2010-31 december 2010 met 160 kg per vaartdag verhoogd, indien betrokken vaartuig gedurende de gehele visreis actief was met TR 1 of BT 1 vistuig."
+...
 
 ### ART. 9.
 
-Dit besluit treedt in werking op 1 juli 2010 en houdt op van kracht te zijn op 1 januari 2011.
+...
