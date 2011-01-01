@@ -6,16 +6,16 @@ De Vlaamse minister voor Economie, Buitenlands Beleid, Landbouw en Plattelandsbe
 
 ### ART. 1.
 
-In artikel 18 van ministerieel besluit van 21 december 2009 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee worden volgende wijzigingen aangebracht :<br /><br />1° in § 2 wordt na lid 1 een nieuw lid ingevoegd dat luidt als volgt :<br /><br />« Het totale kabeljauwquotum in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium), gereserveerd voor de vissersvaartuigen met een motorvermogen van meer dan 221 kW waarvoor artikel 25 van toepassing is, bedraagt voor de periode van 1 januari 2010 tot en met 30 juni 2010 145 ton. »<br /><br />2° een § 6 wordt toegevoegd dat luidt als volgt :<br /><br />« § 6. Van de krachtens de verordening (EU) van de Raad van december 2009 tot vaststelling voor 2010, van de vangstmogelijkheden voor sommige visbestanden en groepen visbestanden welke in de wateren van de Gemeenschap en, voor vaartuigen van de Gemeenschap, in andere wateren met vangstbeperkingen van toepassing zijn, en tot vaststelling van de bij de visserij in acht te nemen voorschriften toegekende vangstmogelijkheden voor kabeljauw in i.c.e.s.-gebieden IIa, IV, desgevallend vermeerderd met de hoeveelheden afkomstig van de quotaruilen mag er op eind maart 2010 maximaal 15 %, op eind juni 2010 maximaal 35 % en op eind september 2010 maximaal 80 % worden opgevist. De dienst berekent de overeenstemmende hoeveelheden die als drempelwaarden fungeren.<br /><br />Als de drempelwaarden van de eerste drie kwartalen, verhoogd met 10 %, worden overschreden, dienen vissersvaartuigen van betrokken inspanningsgroepen technische aanpassingen door te voeren op aanwijzen van de dienst, teneinde de drempelwaarden van het volgende kwartaal niet te overschrijden. »
+...
 
 ### ART. 2.
 
-In artikel 20 van hetzelfde besluit wordt een § 3 toegevoegd dat luidt als volgt :<br /><br />« § 3. Van de krachtens de verordening (EU) van de Raad van december 2009 toegekende vangstmogelijkheden voor kabeljauw in het i.c.e.s.-gebied VIId, desgevallend vermeerderd met de hoeveelheden afkomstig van de quotaruilen mag er op eind maart 2010 maximaal 50 %, op eind juni 2010 maximaal 75 % en op eind september 2010 maximaal 85 % worden opgevist. De dienst berekent de overeenstemmende hoeveelheden die als drempelwaarden fungeren.<br /><br />Als de drempelwaarden van het tweede en derde kwartaal, verhoogd met 10 %, worden overschreden, dienen vissersvaartuigen van betrokken inspanningsgroepen technische aanpassingen door te voeren op aanwijzen van de dienst of kunnen onmiddellijke sluitingen doorgevoerd worden, teneinde de drempelwaarden van het volgende kwartaal niet te overschrijden. »
+...
 
 ### ART. 3.
 
-In artikel 29 van hetzelfde besluit worden in § 1 de getallen « 23 » en « 24 » geschrapt.
+...
 
 ### ART. 4.
 
-Dit besluit treedt in werking op de eerste dag na publicatie en houdt op van kracht te zijn op 1 januari 2011.
+...
