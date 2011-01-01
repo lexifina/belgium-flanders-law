@@ -44,13 +44,25 @@ In artikel 14, § 1, van hetzelfde besluit, vervangen bij het besluit van de Vla
 
 In artikel 17 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 20 februari 2004, worden de volgende wijzigingen aangebracht : <br />1° in paragraaf 1 wordt de zinsnede "aan het Vlaams instituut, het regionaal instituut of aan de instelling" vervangen door de zinsnede "aan het Vlaams instituut en het regionaal instituut";<br />2° in paragraaf 2 wordt de zinsnede "Het Vlaams instituut, het regionaal instituut of de instelling moet" vervangen door de zinsnede "Het Vlaams instituut en het regionaal instituut moeten".
 
+### ART. 11.
+
+In artikel 18, § 1, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 20 februari 2004, wordt de zin "Het Vlaams instituut, de regionale instituten en de instellingen vragen elk jaar voor 1 november de subsidie-enveloppe voor het volgende jaar aan." vervangen door de zin "Het Vlaams instituut en de regionale instituten vragen elk jaar vóór 1 mei de subsidie-enveloppe aan.".
+
 ### ART. 12.
 
 Artikel 20bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 18 januari 2002 en gewijzigd bij het besluit van de Vlaamse Regering van 20 februari 2004, wordt opgeheven.
 
+### ART. 13.
+
+Artikel 21 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 20 februari 2004, wordt vervangen door wat volgt : <br /><br />« Art. 21. Het Vlaams instituut en de regionale instituten ontvangen twee voorschotten van 50 % van de subsidie-enveloppe voor het kalenderjaar. Het eerste voorschot wordt zo snel mogelijk uitbetaald na de goedkeuring van de uitgavenbegroting van de Vlaamse Gemeenschap voor het jaar waarop de subsidie-enveloppe betrekking heeft, en het tweede voorschot begin juli van dat jaar. »
+
 ### ART. 14.
 
 In artikel 22 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 20 februari 2004, worden de woorden "Vlaams instituut, de regionale instituten en de instellingen" vervangen door de woorden "Vlaams instituut en de regionale instituten".
+
+### ART. 15.
+
+In artikel 23 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 20 februari 2004, wordt paragraaf 2 vervangen door wat volgt : <br /><br />« § 2. "Het saldo van de subsidie wordt bepaald voor 1 september van het daaropvolgende activiteitenjaar. <br /><br />Als de uitgekeerde voorschotten na controle en goedkeuring door de administratie van het financiële verslag, bedoeld in artikel 22, § 1, hoger zijn dan het bedrag van de definitieve subsidie, wordt het verschil teruggevorderd. »
 
 ### ART. 16.
 
