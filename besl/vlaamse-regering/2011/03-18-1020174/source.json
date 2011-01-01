@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020174,
+  "title": "Besluit van de Vlaamse Regering van 2011-03-18 tot wijziging van artikel 94 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020174/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "6fc2a8352a0cfa4bbb82d829fe01301384dd146685b11113b40f6bb15965e081",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020174&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2011-03-18",
+  "gazette": "2011-04-19",
+  "numac": 2011201757,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
