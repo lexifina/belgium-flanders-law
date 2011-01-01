@@ -6,8 +6,8 @@ De Vlaamse minister voor Economie, Buitenlands Beleid, Landbouw en Plattelandsbe
 
 ### ART. 1.
 
-Aan artikel 28 van ministerieel besluit van 21 december 2009 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee worden de volgende §§ 11 en 12 toegevoegd :<br />« § 11. In de periode van 10 maart 2010 tot en met 31 december 2010 is het in de i.c.e.s.-gebieden VII behalve VIIa voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden.<br /><br />§ 12. In de periode van 10 maart 2010 tot en met 31 december 2010 is het in de i.c.e.s.-gebieden VII behalve VIIa voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden. » <br /><br />
+...
 
 ### ART. 2.
 
-Dit besluit treedt in werking op 12 maart 2010 en houdt op van kracht te zijn op 1 januari 2011.<br /><br />
+...
