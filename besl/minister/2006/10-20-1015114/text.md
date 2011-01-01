@@ -17,11 +17,11 @@ Besluit :<br>
 
 ### ART. 1.
 
-De vergunningverlenende overheid zendt maandelijks elektronisch naar het Vlaams Energieagentschap een overzicht van de aanvragen tot het verkrijgen van een stedenbouwkundige vergunning die vergund, geweigerd, vernietigd of geschorst werden.<br /><br />Het overzicht bevat per aanvraag de volgende gegevens : <br />1° de gemeente waar het perceel gelegen is;<br />2° het energieprestatiedossiernummer;<br />3° de aard en het onderwerp van de werkzaamheden;<br />4° de ligging;<br />5° de gegevens van de aanvrager(s);<br />6° de datum van aanvraag van vergunning;<br />7° de beslissingen betreffende de vergunning, weigering, schorsing en vernietiging door de bevoegde instantie en de bijhorende data van het dossier;<br />8° de toepasselijkheid van de EPB-eisen en de aanwezigheid van de haalbaarheidsstudie.<br /><br />
+De vergunningverlenende overheid zendt maandelijks elektronisch naar het Vlaams Energieagentschap een overzicht van de aanvragen tot het verkrijgen van een stedenbouwkundige vergunning die vergund, geweigerd, vernietigd of geschorst werden. De gemeente zendt tevens elektronisch een overzicht betreffende de meldingsplichtige handelingen die bij de gemeente in die betreffende periode werden aangemeld.<br /><br />Het overzicht bevat per aanvraag of melding de volgende gegevens :<br />1° de gemeente waar het perceel gelegen is; <br />2° het energieprestatiedossiernummer; <br />3° de aard en het onderwerp van de werkzaamheden; <br />4° de ligging; <br />5° de gegevens van de aanvrager(s) of van de meldingsplichtige(n); <br />6° de datum van de aanvraag van de vergunning of van de melding; <br />7° de beslissingen betreffende de vergunning, weigering, schorsing en vernietiging door de bevoegde instantie en de bijhorende data van het dossier;<br />8° de vaststelling door de gemeente dat de aangemelde meldingsplichtige handelingen toch vergunningsplichtig zouden zijn;<br />9° de toepasselijkheid van de EPB-eisen en de aanwezigheid van de haalbaarheidsstudie;<br />10° de betrokkenheid van een architect;<br />11° het type van de dossiersamenstelling.
 
 ### ART. 2.
 
-Bij het verlenen van de vergunning bezorgt de vergunningverlenende overheid de houder van de stedenbouwkundige vergunning het toegekende energieprestatiedossiernummer.<br /><br />Het energieprestatiedossiernummer wordt als volgt opgemaakt : <br />1° Voor gemeenten : 'energieprestatiedossiernummer = NIS-code van de hoofdgemeente - G - intern dossiernummer van de gemeente of nummer van het vergunningenregister'.<br />2° Voor RO-Vlaanderen : 'energieprestatiedossiernummer = NIS-code van de hoofdgemeente waar het bouwproject gelegen is - A - intern dossiernummer van RO-Vlaanderen'. <br /><br />
+Bij het verlenen van de vergunning bezorgt de vergunningverlenende overheid de houder van de stedenbouwkundige vergunning het toegekende energieprestatiedossiernummer. Bij het registeren van de melding bezorgt de gemeente de meldingsplichtige(n) het toegekende energieprestatiedossiernummer.<br /><br />Het energieprestatiedossiernummer wordt als volgt opgemaakt : <br />1° Voor gemeenten : 'energieprestatiedossiernummer = NIS-code van de hoofdgemeente - G - intern dossiernummer van de gemeente of nummer van het vergunningenregister'.<br />2° Voor RO-Vlaanderen : 'energieprestatiedossiernummer = NIS-code van de hoofdgemeente waar het bouwproject gelegen is - A - intern dossiernummer van RO-Vlaanderen'. <br /><br />
 
 ### ART. 3.
 
@@ -29,7 +29,7 @@ Het overzicht, vermeld in artikel 1, wordt uiterlijk de vijftiende dag van de ma
 
 ### ART. 4.
 
-De vergunningverlenende overheid volgt de doorgestuurde xml-bestanden op via de webtoepassing van de energieprestatiedatabank. Wanneer een bestand nog vormelijke of inhoudelijke fouten bevat, verstuurt de vergunningverlenende overheid de vergunningsinformatie opnieuw tot de inhoud correct is en het volledige bericht als ontvankelijk wordt beschouwd. <br /><br />
+De vergunningverlenende overheid volgt de doorgestuurde xml-bestanden op via de webtoepassing van de energieprestatiedatabank. Wanneer een bestand nog vormelijke of inhoudelijke fouten bevat, verstuurt de vergunningverlenende overheid de informatie opnieuw tot de inhoud correct is en het volledige bericht als ontvankelijk wordt beschouwd. <br /><br />
 
 ### ART. 5.
 
