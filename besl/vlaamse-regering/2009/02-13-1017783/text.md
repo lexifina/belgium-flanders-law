@@ -126,7 +126,7 @@ De bepalingen van artikel 9, tweede lid, zijn niet van toepassing voor de opvang
 
 ### ART. 26.
 
-De bedragen van de basisondersteuning en de financiële ondersteuning flexibele opvang worden elk jaar op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar, en voor het eerst op 1 januari 2010.<br /><br />
+De bedragen van de basisondersteuning en de financiële ondersteuning flexibele opvang worden elk jaar op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar, en voor het eerst op 1 januari 2010. In 2011 worden de bedragen, vermeld in dit besluit, op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het kalenderjaar 2008 en 1 november van het kalenderjaar 2010.<br /><br />
 
 ### ART. 27.
 
