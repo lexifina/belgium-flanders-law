@@ -1,0 +1,21 @@
+# Besluit van de Vlaamse Regering van 2010-12-17 betreffende de verlenging van bepaalde convenanten of samenwerkingsovereenkomst
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op de wetten op de Rijkscomptabiliteit, gecoördineerd op 17 juli 1991, artikelen 55 tot en met 58; <br /><br />Gelet op het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid, artikelen 21 tot en met 24;<br /><br />Gelet op het decreet van 23 december 2010 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2011, artikel 12; <br /><br />Gelet op het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de subsidiëring en erkenning van partnerorganisaties en organisaties met terreinwerking via een beheersovereenkomst;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 14 december 2010;<br /><br />Overwegende dat er conform het besluit van 5 juni 2009 betreffende de subsidiëring en erkenning van partnerorganisaties en organisaties met terreinwerking via een beheersovereenkomst oproepen tot het sluiten van een beheersovereenkomst zullen gelanceerd worden en dat deze beheersovereenkomsten ten vroegste op 1 januari 2012 kunnen ingaan;<br /><br />Overwegende het convenant van 1 januari 2006 tot en met 31 december 2010 gesloten tussen de Vlaamse Gemeenschap en Domus Medica VZW; <br /><br />Overwegende het convenant van 1 januari 2006 tot en met 31 december 2010 gesloten tussen de Vlaamse Gemeenschap en VZW G@pro;<br /><br />Overwegende het convenant van 1 januari 2006 tot en met 31 december 2010 gesloten tussen de Vlaamse Gemeenschap en VZW Pasop;<br /><br />Overwegende het convenant van 1 januari 2008 tot en met 31 december 2010 gesloten tussen de Vlaamse Gemeenschap en het Instituut voor Tropische Geneeskunde;<br /><br />Overwegende het convenant van 1 januari 2006 tot en met 31 december 2010 gesloten tussen de Vlaamse Gemeenschap en de Vereniging voor Respiratoire Gezondheidszorg en Tuberculosebestrijding VZW (VRGT);<br /><br />Overwegende het convenant van 1 juli 2008 tot en met 31 december 2010 gesloten tussen de Vlaamse Gemeenschap en Eetexpert.be VZW; <br /><br />Overwegende het convenant van 1 november 2008 tot en met 31 december 2010 gesloten tussen de Vlaamse Gemeenschap en het samenwerkingsverband Expertisecentrum Valpreventie Vlaanderen; <br /><br />Overwegende de samenwerkingsovereenkomst van 1 januari 2006 tot en met 31 december 2010 gesloten tussen de Vlaamse Gemeenschap en het Wetenschappelijk Instituut Volksgezondheid;<br /><br />Overwegende dat al de in de aanhef vermelde convenanten of samenwerkingsovereenkomst aflopen eind 2010 en dat de continuïteit en dienstverlening van die organisaties van maatschappelijk belang is;<br /><br />Overwegende dat al de organisaties die hier in de aanhef vermeld staan te kennen hebben gegeven de convenanten of het samenwerkingsakkoord in kwestie te willen verlengen met één jaar;<br /><br />Op voorstel van de Vlaamse minister van Welzijn, Volksgezondheid en Gezin;<br /><br />Na beraadslaging, <br /><br />Besluit :
+
+### ART. 1.
+
+§ 1. De Vlaamse Regering wil met het oog op de continuïteit van het Vlaamse preventieve gezondheidsbeleid de convenanten die aflopen eind 2010 van de volgende organisaties : <br />1° Domus Medica VZW;<br />2° VZW G@pro;<br />3° VZW Pasop;<br />4° Het Instituut voor Tropische Geneeskunde;<br />5° De Vereniging voor Respiratoire Gezondheidszorg en Tuberculosebestrijding VZW;<br />6° De Eetexpert VZW;<br />7° Expertisecentrum Valpreventie Vlaanderen;<br />verlengen van 1 januari 2011 tot en met 31 december 2011.<br /><br />§ 2. De Vlaamse Regering wil met het oog op de continuïteit van het Vlaamse preventieve gezondheidsbeleid de samenwerkingsovereenkomst van het Wetenschappelijk Instituut Volksgezondheid, die afloopt 31 december 2010, verlengen van 1 januari 2011 tot en met 31 december 2011.
+
+### ART. 2.
+
+Een ministerieel besluit per organisatie bepaalt de wijze van uitbetaling van de subsidies voor 2011.
+
+### ART. 3.
+
+Dit besluit treedt in werking op 1 januari 2011.
+
+### ART. 4.
+
+De Vlaamse minister, bevoegd voor het gezondheidsbeleid, is belast met de uitvoering van dit besluit.
