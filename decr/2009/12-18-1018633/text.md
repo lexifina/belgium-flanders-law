@@ -412,6 +412,14 @@ Artikel 6 van het besluit van de Vlaamse Regering van 19 september 2003 houdende
 
 ## Afdeling I Selectiever maken van de Vlaamse forfaitaire vermindering voor beroepsactieve belastingplichtigen
 
+### ART. 86.
+
+In artikel 2, § 1, van het decreet van het decreet van 30 juni 2006 houdende invoering van een forfaitaire vermindering in de personenbelasting wordt punt 3° vervangen door wat volgt :<br />« 3° hij heeft een activiteitsinkomen van ten minste 5.500 euro, en wat de aanslagjaren 2008, 2009 en 2011 betreft een activiteitsinkomen van respectievelijk ten hoogste 22.250 euro, 23.000 euro en 18.500 euro. ».<br /><br />
+
+### ART. 87.
+
+In artikel 3, § 3, van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° het woord « Vanaf » wordt vervangen door het woord « Voor »;<br /><br />2° er wordt een paragraaf 3/1 ingevoegd, die luidt als volgt :<br />« § 3/1. Vanaf het aanslagjaar 2011 bedraagt de vermindering 125 euro. Als het activi-teitsinkomen, vermeld in artikel 2, § 2, meer bedraagt dan 17.250 euro, dan wordt de vermindering van 125 euro verminderd met 10 % van het bedrag van de overschrijding. ».<br /><br />
+
 ## Afdeling II Onroerende voorheffing
 
 ### ART. 88.
