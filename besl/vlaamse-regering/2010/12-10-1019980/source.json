@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019980,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-10 tot oprichting van een Vlaamse controle-instantie voor de naleving van de wetten op de verkeersbelastingen en houdende wijziging van diverse bepalingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019980/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "87c9da284d07955a210ccb651e6083ba931f3de1ee111ba6e614f03ee5169848",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019980&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2010-12-10",
+  "gazette": "2011-02-03",
+  "numac": 2011200480,
+  "document_start": "2011-01-01",
+  "document_end": "2013-12-31",
+  "in_force": "2011-01-01",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
