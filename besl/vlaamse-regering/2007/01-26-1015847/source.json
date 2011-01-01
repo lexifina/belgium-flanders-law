@@ -2,16 +2,16 @@
   "codex_id": 1015847,
   "title": "Besluit van de Vlaamse Regering van 2007-01-26 ter uitvoering van het decreet van 14 februari 2003 houdende de ondersteuning en de stimulering van het gemeentelijk, het intergemeentelijk en het provinciaal jeugd- en jeugdwerkbeleid, inzake de subsidiëring van gemeentebesturen die een jeugdwerkinfrastructuurbeleid voeren als onderdeel van hun jeugdwerkbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015847/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "ab13d0ba4c5bc8568436c631b4c7f645099bd91313df8ee0e11a80739d4721bf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015847/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "132d85f1471dcbdad87d1b0d8e0e8128e5fdaefabc03aae6ce44fc64d4a48dd5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015847&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2011-01-01",
   "made": "2007-01-26",
   "gazette": "2007-06-18",
   "numac": 2007035744,
   "document_start": "2007-06-18",
   "document_end": "2010-12-31",
-  "in_force": "2009-01-01",
+  "in_force": "2011-01-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
