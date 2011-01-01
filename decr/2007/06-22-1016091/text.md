@@ -1129,7 +1129,7 @@ De vzw Brussels ondersteuningscentrum secundair onderwijs ontvangt de in deze af
 
 ### ART. X.7.
 
-§ 1. De Vlaamse Regering waarborgt tot en met 31 december 2010 een subsidiëring voor de loonkosten van de personeelsleden en de werkingsmiddelen binnen de door de Vlaamse Gemeenschap voorziene begrotingskredieten.<br /><br />§ 2. De Vlaamse Regering kan beslissen over de uitvoering van de subsidiëring bedoeld in § 1 een samenwerkingsakkoord te sluiten met de Vlaamse Gemeenschapscommissie.<br /><br />
+§ 1. De Vlaamse Regering waarborgt tot en met 31 december 2011 een subsidiëring voor de loonkosten van de personeelsleden en de werkingsmiddelen binnen de door de Vlaamse Gemeenschap voorziene begrotingskredieten.<br /><br />§ 2. De Vlaamse Regering kan beslissen over de uitvoering van de subsidiëring bedoeld in § 1 een samenwerkingsakkoord te sluiten met de Vlaamse Gemeenschapscommissie.<br /><br />
 
 ## Afdeling V Inwerkingtreding
 
