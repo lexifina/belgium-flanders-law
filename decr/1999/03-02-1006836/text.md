@@ -580,7 +580,7 @@ Uitsluitend volgende cursisten kunnen zich inschrijven :<br />1° cursisten die 
 
 ### ART. 94.
 
-§ 1. Voor de cursussen die op een andere wijze worden aangeboden bedraagt het inschrijvingsgeld 4,50 euro - tot en met 31 december 2001: 150 Belgische frank - per lespakket.<br /><br />De bedragen kunnen door de Vlaamse regering worden verhoogd en aangepast aan de index van de consumptieprijzen.<br /><br />De Vlaamse regering bepaalt de uitvoeringsmodaliteiten van deze bepaling. <br /><br />§ 2. Er wordt een fonds "Inkomsten B.I.S." opgericht. Aan dit fonds worden de inschrijvingsgelden en de gelden verkregen uit de samenwerkingsakkoorden met derden toegewezen. <br /><br />§ 3. Het fonds is een begrotingsfonds in de zin van artikel 45 van het koninklijk besluit van 17 juli 1991 houdende coördinatie van de wetten op de rijkscomptabiliteit.<br /><br />§ 4. De middelen van het fonds dienen aangewend te worden voor uitgaven met betrekking tot het zelfgestuurd leren zoals georganiseerd door het departement Onderwijs. <br /><br />§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.
+§ 1. Voor de cursussen die op een andere wijze worden aangeboden bedraagt het inschrijvingsgeld 4,50 euro - tot en met 31 december 2001: 150 Belgische frank - per lespakket.<br /><br />De bedragen kunnen door de Vlaamse regering worden verhoogd en aangepast aan de index van de consumptieprijzen.<br /><br />De Vlaamse regering bepaalt de uitvoeringsmodaliteiten van deze bepaling. <br /><br />§ 2. ...<br /><br />§ 3. ...<br /><br />§ 4. ...<br /><br />§ 5. ...
 
 ### ART. 94bis.
 
@@ -595,6 +595,10 @@ Het departement Onderwijs kan attesten uitreiken waaruit blijkt dat de cursist e
 ### ART. 96.
 
 (niet opgenomen)<br /><br />(De volgende regelingen worden opgeheven:<br /><br />1° de wet van 5 maart 1965 op het schriftelijk onderwijs;<br /><br />2° het koninklijk besluit van 13 april 1965 tot inrichting van schriftelijke rijksleergangen;<br /><br />3° het koninklijk besluit van 16 april 1965 tot oprichting van schriftelijke rijksleergangen;<br /><br />4° het koninklijk besluit van 20 april 1965 houdende het organiek reglement van de Verbeteringsraad voor het schriftelijk onderwijs;<br /><br />5° het koninklijk besluit van 15 maart 1966 houdende vaststelling van de vergoedingen toegekend aan de leraars van de schriftelijke rijksleergangen, alsmede de toegelaten maximum prestaties;<br /><br />6° het koninklijk besluit van 5 augustus 1967 houdende de voorwaarden tot aanstelling bij de schriftelijke rijksleergangen van in rust of in disponibiliteit gestelde leerkrachten;<br /><br />7° het koninklijk besluit van 9 november 1971 tot oprichting van schriftelijke rijksleergangen ter voorbereiding van administratieve examens)
+
+### ART. 96bis.
+
+De §2 tot en met&nbsp; 5 van artikel 94 worden opgeheven met ingang van 1 januari 2011.
 
 ## TITEL III AANPASSING VAN HET DECREET VAN 12 JULI 1990 HOUDENDE DE REGELING VAN DE BASISEDUCATIE VOOR LAAGGESCHOOLDE VOLWASSENEN
 
