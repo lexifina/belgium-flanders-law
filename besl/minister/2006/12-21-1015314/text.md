@@ -16,7 +16,7 @@ De Vlaamse minister van Institutionele Hervormingen, Landbouw, Zeevisserij en Pl
 
 ### ART. 2.
 
-De secretaris-generaal van het departement waaronder de dienst ressorteert, deelt, per mededeling in het Belgisch Staatsblad, de feitelijke vaststelling van het bereiken van het communautair bepaalde vangstquotum voor bepaalde vissoorten in bepaalde i.c.e.s.-gebieden mee. Het gevolg van die vaststelling is de sluiting van het betrokken visgebied voor vangstactiviteiten op de betrokken vissoort, waardoor voor alle vissersvaartuigen de visserij op de betrokken vissoorten in de wateren van de betrokken i.c.e.s.-gebieden verboden is, alsmede het aan boord houden, het overladen en het lossen van de betrokken vissoorten die zijn gevangen in die wateren.
+...
 
 ### ART. 2bis.
 
@@ -54,7 +54,7 @@ De secretaris-generaal van het departement waaronder de dienst ressorteert, deel
 
 ### ART. 10.
 
-§ 1. Het systeem van beperking van aantal zeedagen in het gebied VIIe ingesteld overeenkomstig bijlage IIc van Verordening (EG) 51/2006 van de Raad van 22 december 2005 en van toepassing in januari 2007, wordt vanaf 1 februari 2007 vervangen door het systeem dat wordt ingesteld overeenkomstig bijlage IIc van de Quotaverordening (EG) 2007 van de Raad van december 2006.<br /><br />§ 2. Het in tabel I van bijlage IIc vermelde aantal zeedagen in het gebied VIIe, toegekend voor de periode 1 februari 2007 tot en met 31 januari 2008, wordt verminderd met de overschrijding van het aantal zeedagen toegekend conform artikel 9 van het ministerieel besluit van 26 januari 2006.<br /><br />§ 3. Het wordt niet toegestaan dat tussen individuele vissersvaartuigen zeedagen in gebied VIIe worden overgedragen.<br /><br />§ 4. Vissersvaartuigen die in 2002 of in 2003 of in 2004 of in 2005 of in 2006 met de boomkor gevist hebben in VIIe krijgen een speciaal visdocument VIIe 2007.<br /><br />§ 5. Bij de overschrijding van de grenzen in het i.c.e.s.-gebied VIIe registreren de kapiteins van vissersvaartuigen in hun logboek, de dag, het tijdstip en de positie van overschrijding.<br /><br />§ 6. De visvergunning van vissersvaartuigen die hun aantal zeedagen in het gebied VIIe overschrijden, kan voor vijf opeenvolgende dagen worden ingetrokken. Het speciaal visdocument VIIe, afgeleverd overeenkomstig bijlage IIc, wordt in 2008 voor slechts zes maanden toegekend.<br /><br />
+...
 
 ### ART. 11.
 
@@ -62,7 +62,7 @@ De secretaris-generaal van het departement waaronder de dienst ressorteert, deel
 
 ### ART. 12.
 
-Vanaf overschrijding met twee vaartdagen door een vissersvaartuig van het maximaal toegelaten aantal vaartdagen, vermeld in artikel 11, worden deze vaartdagen in mindering gebracht van het maximaal toegelaten aantal vaartdagen dat vanaf 1 januari 2008 aan dat vissersvaartuig zal worden toegekend. Het aantal in mindering te brengen dagen wordt vermeerderd met één vaartdag per twee vaartdagen overschrijding.<br /><br />
+...
 
 ## TITEL II BIJZONDERE BEPALINGEN
 
@@ -160,17 +160,17 @@ Vanaf overschrijding met twee vaartdagen door een vissersvaartuig van het maxima
 
 ### ART. 28.
 
-Ingeval de toegewezen hoeveelheden worden overschreden, worden deze hoeveelheden, verhoogd met 20 %, gekort op de toegekende hoeveelheden voor het betrokken vissersvaartuig in 2008 voorzover het opnieuw in een IQ-systeem actief is. Ingeval voor collectief wordt gekozen, is dezelfde regeling van toepassing voor de vangstmogelijkheden toegekend per kW. Voor de soorten waarvoor vangstmogelijkheden per zeereis worden toegewezen wordt een dagenkorting overeenkomstig artikel 24 voorzien. Ingeval van overschrijding kan de visvergunning dertig dagen worden ingetrokken. De mogelijkheid tot strafrechterlijke vervolging blijft onverlet.<br /><br />
+...
 
 ## TITEL III SLOTBEPALINGEN
 
 ### ART. 29.
 
-§ 1. In geval van overtredingen van de artikelen 9 tot en met 11 en van de artikelen 13 tot en met 23 of van de beperkingen aangebracht aan de visvergunningen, kan de visvergunning die aan het vissersvaartuig werd afgeleverd voor een periode van minimaal vijf opeenvolgende dagen worden ingetrokken.<br /><br />De periode van intrekking van de visvergunning treedt in werking op de derde dag volgend op die van de notificatie van de intrekking van de visvergunning per aangetekend schrijven door de Dienst aan de eigenaar van het betrokken vissersvaartuig. Tijdens deze periode moet het vissersvaartuig inactief liggen in een Belgische vissershaven. Het maximale aantal vaartdagen, zoals bepaald in artikel 11, wordt verminderd met het aantal dagen van intrekking van de visvergunningen.<br /><br />§ 2. Indien de toegewezen vangstmogelijkheden, zoals voorzien in artikel 13 tot en met 17, door het vissersvaartuig worden overschreden, wordt de overschrijding, vermenigvuldigd met een coëfficiënt van 1,2 in mindering gebracht op de vangstmogelijkheden die aan dat vaartuig zullen worden toegewezen in de overeenkomstige periode van het jaar 2008.<br /><br />
+...
 
 ### ART. 30.
 
-Overtredingen van de bepalingen van dit besluit en van de beperkingen aangebracht aan de visvergunningen worden opgespoord, vastgesteld en gestraft overeenkomstig de bepalingen van de wet van 12 april 1957, waarbij de Koning wordt gemachtigd maatregelen voor te schrijven ter bescherming van de biologische hulpbronnen van de zee en van de wet van 28 maart 1975 betreffende de handel in landbouw-, tuinbouw- en zeevisserijproducten.<br /><br />
+...
 
 ### ART. 31.
 
