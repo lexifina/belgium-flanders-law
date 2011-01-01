@@ -81,7 +81,7 @@ Het lid betaalt zijn jaarlijkse ledenbijdrage uiterlijk op 30 april van het lope
 
 ### ART. 11.
 
-De zorgkas vraagt naast de jaarlijkse ledenbijdrage jaarlijks de verschuldigde ledenbijdragen voor voorgaande jaren van haar leden op, behalve de ledenbijdragen die samen met de administratieve geldboete door het Vlaams Zorgfonds werden opgevraagd.<br /><br />De verjaringstermijn voor de betaling van de ledenbijdrage bedraagt dertig jaar.<br /><br />
+§ 1. De zorgkas vraagt naast de jaarlijkse ledenbijdrage jaarlijks de verschuldigde ledenbijdragen voor voorgaande jaren van haar leden op, behalve de ledenbijdragen die samen met de administratieve geldboete door het Vlaams Zorgfonds werden opgevraagd.<br /><br />De verjaringstermijn voor de betaling van de ledenbijdrage bedraagt dertig jaar.<br /><br />§ 2. Een gebrek aan gegevens over de vervulling van de aansluitingsvoorwaarden, vermeld in artikel 4, § 5, derde lid, van het decreet van 30 maart 1999, waardoor het opvragen van de ledenbijdragen beperkt is tot vijf jaar, komt voor als een persoon laattijdig wordt meegedeeld door het Rijksregister of de Kruispuntbank van de Sociale Zekerheid.<br />
 
 ### ART. 12.
 
@@ -494,6 +494,10 @@ De termijn van ononderbroken aansluiting, vermeld in artikel 5, 6°, van het dec
 ### ART. 89.
 
 De personen die zich, niettegenstaande zij zich overeenkomstig artikel 4, § 1, niet kunnen aansluiten, voor 17 juni 2005 al hadden aangesloten bij een zorgkas en als gepensioneerde tenlastenemingen genoten op 17 juni 2005, zullen de lopende tenlastenemingen verder toegekend krijgen, als ze :<br />1° de ledenbijdrage blijven betalen voor elke referentieperiode waarin tenlastenemingen worden toegekend, zelfs indien het geen volledige referentieperiode betreft;<br />2° getroffen blijven door een langdurig en ernstig verminderd zelfzorgvermogen.<br /><br />
+
+### ART. 89/1.
+
+De personen die zich vanaf 1 januari 2011 overeenkomstig artikel 4, § 1, niet kunnen aansluiten, en die tenlastenemingen genoten op 31 december 2010, zullen de lopende tenlastenemingen verder toegekend krijgen, als ze : <br />1° de ledenbijdrage blijven betalen voor 31 december van elk jaar waarin tenlastenemingen worden toegekend; <br />2° getroffen blijven door een langdurig en ernstig verminderd zelfzorgvermogen.
 
 ### ART. 90.
 
