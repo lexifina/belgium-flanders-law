@@ -102,7 +102,7 @@ In categorie III worden ingedeeld, de hiernavolgende publiekrechtelijk vormgegev
 
 ### ART. 8.
 
-In categorie IV worden ingedeeld, de hiernavolgende publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen :<br />1° Agentschap voor Geografische Informatie Vlaanderen;<br />2° Vlaamse Reguleringsinstantie voor de Elektriciteits- en Gasmarkt;<br />3° Vlaamse Regulator voor de Media.<br />
+In categorie IV worden ingedeeld, de hiernavolgende publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen :<br />1° Agentschap voor Geografische Informatie Vlaanderen;<br />2° Vlaamse Regulator voor de Elektriciteits- en Gasmarkt;<br />3° Vlaamse Regulator voor de Media.<br />
 
 ### ART. 9.
 
