@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022827,
+  "title": "Ministerieel besluit van 2010-12-03 betreffende de gemeenten en de openbare centra voor maatschappelijk welzijn die de beleids- en beheerscyclus van de gemeenten, de provincies en de openbare centra voor maatschappelijk welzijn toepassen vanaf 1 januari 2011",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022827/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "2bafb8834b490d05ea239e38fffcd1ce0f3e200438b5daf3eafe91e972d51c09",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022827&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2010-12-03",
+  "gazette": "2013-03-28",
+  "numac": 2013201624,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
