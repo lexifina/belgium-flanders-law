@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021077,
+  "title": "Besluit van de Vlaamse Regering van 2011-11-25 houdende de vaststelling van de verplichte bijdrage van de reders van Belgische vissersvaartuigen voor 2011 aan het Fonds voor Scheepsjongeren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021077/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "9494e6404f62212c2ed7259b8788917c6cfdf40478b5c58ee1ed335d179b35d2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021077&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2011-11-25",
+  "gazette": "2011-12-14",
+  "numac": 2011206144,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
