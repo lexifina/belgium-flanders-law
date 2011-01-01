@@ -2,16 +2,16 @@
   "codex_id": 1014458,
   "title": "Ministerieel besluit van 2006-03-31 houdende delegatie van sommige bevoegdheden inzake het energiebeleid aan personeelsleden van het [VEKA]",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014458/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "ff018429d22f6e5236d16a1993cb80090ff0f7625950f25d9f9ed10c19c87a24",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014458/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "6ec7ccc3552137b31620459365a140d23eddcd88374e676a9a5688d3076c4ddc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014458&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-01-01",
   "made": "2006-03-31",
   "gazette": "2006-04-25",
   "numac": 2006035639,
   "document_start": "2006-04-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2011-01-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }

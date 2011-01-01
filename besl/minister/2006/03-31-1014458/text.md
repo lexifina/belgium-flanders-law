@@ -8,7 +8,7 @@ Dit besluit is van toepassing op het Vlaams Energieagentschap van het Vlaams min
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° minister: het lid van de Vlaamse Regering, bevoegd voor het energiebeleid;<br /><br />2° Vlaams Energieagentschap: het agentschap, opgericht bij het besluit van de Vlaamse Regering van 16 april 2004 tot oprichting van het intern verzelfstandigd agentschap, het Vlaams Energieagentschap;<br /><br />3° hoofd van het agentschap: het personeelslid dat door de Vlaamse Regering belast is met de algemene leiding, de werking en de vertegenwoordiging van het in punt 2° bedoelde agentschap.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° minister: het lid van de Vlaamse Regering, bevoegd voor het energiebeleid;<br />2° Vlaams Energieagentschap : het agentschap, opgericht bij titel II van het Energiebesluit van 19 november 2010 <br />3° hoofd van het agentschap: het personeelslid dat door de Vlaamse Regering belast is met de algemene leiding, de werking en de vertegenwoordiging van het in punt 2° bedoelde agentschap.
 
 ### ART. 3.
 
@@ -22,7 +22,7 @@ Het hoofd van het agentschap kan de hiervoor in aanmerking komende aan hem gedel
 
 ### ART. 5.
 
-Het hoofd van het agentschap wordt, inzake het energiebeleid, gemachtigd om:<br /><br />1° in toepassing van het koninklijk besluit van 10 februari 1983 houdende aanmoedigingsmaatregelen voor het rationeel energieverbruik subsidies toe te kennen tot 25.000 euro;<br /><br />2° binnen de perken van de in de begroting voorziene kredieten, facultatieve subsidies te verlenen voor een bedrag van maximum 500 euro, op voorwaarde dat de principiële goedkeuring daarvoor schriftelijk wordt gegeven door de minister.
+Het hoofd van het agentschap wordt, inzake het energiebeleid, gemachtigd om:<br />1° in toepassing van artikel 7.3.1 van het Energiebesluit van 19 november 2010 subsidies toe te kennen tot 25.000 euro <br />2° binnen de perken van de in de begroting voorziene kredieten, facultatieve subsidies te verlenen voor een bedrag van maximum 500 euro, op voorwaarde dat de principiële goedkeuring daarvoor schriftelijk wordt gegeven door de minister.
 
 ### ART. 6.
 
