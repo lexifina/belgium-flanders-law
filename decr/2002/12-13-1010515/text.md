@@ -32,7 +32,7 @@ Het Stedenfonds richt zich op de grootsteden Antwerpen en Gent, de centrumsteden
 
 ### ART. 7.
 
-Van het vastleggingskrediet, verminderd met de voorafname voor de Vlaamse Gemeenschapscommissie (VGC), wordt jaarlijks een bedrag van 700.000 euro vooraf genomen voor vorming, sensibilisering en communicatie. Die voorafname wordt ingeschreven in op een aparte basisallocatie in de begroting van de Vlaamse Gemeenschap (libellé Communicatie stedenbeleid).
+Van het vastleggingskrediet, verminderd met de voorafname voor de Vlaamse Gemeenschapscommissie (VGC), wordt jaarlijks een bedrag van 630.000 euro vooraf genomen voor vorming, sensibilisering en communicatie. Die voorafname wordt ingeschreven op twee aparte basisallocaties in de begroting van de Vlaamse Gemeenschap (libellé Communicatie, Sensibilisering en Vorming Stedenbeleid; en libellé ondersteuning van initiatieven in het kader van het Stedenbeleid).
 
 ## AFDELING 2 VASTSTELLING EN VERDELING VAN DE TREKKINGSRECHTEN VAN DE STEDEN
 
