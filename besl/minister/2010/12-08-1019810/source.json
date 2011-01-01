@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019810,
+  "title": "Ministerieel besluit van 2010-12-08 tot opheffing van diverse ministeriële besluiten houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019810/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "3e22257971519261204d18f618a62b51a1f5c9d74870ac5131aff0f64e4e931b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019810&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2010-12-08",
+  "gazette": "2010-12-22",
+  "numac": 2010206311,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
