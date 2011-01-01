@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° auditsoftware : de software die ter beschikking wordt gesteld door het Vlaams Energieagentschap aan de energiedeskundigen type B voor het uitvoeren van een energieaudit, waarmee een fiscaal attest kan worden opgesteld en waarmee de berekende resultaten en de gegevens die aan de grondslag liggen van de energieaudit, kunnen worden doorgestuurd naar een databank die het Vlaams Energieagentschap heeft aangewezen;<br />2° certificatiesoftware : de software die ter beschikking wordt gesteld door het Vlaams Energieagentschap aan de energiedeskundigen type A voor de certificering van bestaande residentiële gebouwen, waarmee het energieprestatiecertificaat residentiële gebouwen kan worden opgesteld en waarmee de berekende resultaten en de gegevens die aan de grondslag liggen van het energieprestatiecertificaat residentiële gebouwen, kunnen worden doorgestuurd naar de certificatendatabank;<br />3° energieaudit : een met behulp van de auditsoftware uitgevoerde analyse van de energie-efficiëntie van een bestaand residentieel gebouw waarbij in een gedetailleerd auditrapport energiebesparingsmaatregelen worden geïdentificeerd, gekwantificeerd en geprioriteerd in overleg met de aanvrager;<br />4° energiedeskundige type A : de natuurlijke persoon, onderworpen aan het sociaal statuut van de zelfstandige, of de bezoldigde medewerker van een rechtspersoon, die het energieprestatiecertificaat voor residentiële gebouwen opmaakt;<br />5° energiedeskundige type B : de natuurlijke persoon, onderworpen aan het sociaal statuut van de zelfstandige, of de bezoldigde medewerker van een rechtspersoon, die de energieaudit voor residentiële gebouwen opmaakt;<br />6° energieprestatiecertificaat bij de bouw : het certificaat, vermeld in artikel 24bis van het besluit van de Vlaamse Regering van 11 maart 2005 tot vaststelling van de eisen op het vlak van de energieprestaties en het binnenklimaat van gebouwen, waarin het resultaat is vermeld van de berekening van de totale energie-efficiëntie van het gebouw, uitgedrukt in één of meer numerieke indicatoren;<br />7° energieprestatiecertificaat residentiële gebouwen: het certificaat waarin het resultaat is vermeld van de berekening van de totale energie-efficiëntie van een bestaand residentieel gebouw, uitgedrukt in één of meer numerieke indicatoren;<br />8° inspectieprotocol : het document dat het Vlaams Energieagentschap ter beschikking stelt aan de energiedeskundige type A en dat vastlegt op welke wijze de inspectie ter plaatse wordt uitgevoerd, alsook de manier waarop de energiedeskundige type A de gegevens op een uniforme manier moet meten en omzetten bij gebruik van de certificatiesoftware;<br />9° kengetal : de verhouding tussen, enerzijds, het primair energieverbruik dat nodig is voor de verwarming, de sanitairwarmwatervoorziening, de koeling en de ventilatie van een gebouw, en, anderzijds, de bruikbare vloeroppervlakte van het gebouw, namelijk de som van de brutovloeroppervlakten van alle vloerniveaus binnen het beschermd volume van het gebouw, zoals berekend volgens de door het Vlaams Energieagentschap vastgelegde specificaties;<br />10° minister : de Vlaamse minister, bevoegd voor het Energiebeleid;<br />11° residentieel gebouw : een gebouw, bestemd voor individuele of collectieve huisvesting;<br />12° unieke code : een code die op een unieke wijze het energieprestatiecertificaat residentiële gebouwen identificeert en onder andere een unieke identificatie van de ligging van het gebouw en van de energiedeskundige type A bevat;<br />13° Vlaams Energieagentschap : het agentschap, opgericht bij het besluit van de Vlaamse Regering van 16 april 2004 tot oprichting van het intern verzelfstandigd agentschap, het Vlaamse Energieagentschap;<br />14° wooneenheid : elke eenheid in een residentieel gebouw die over de nodige woonvoorzieningen beschikt om autonoom te kunnen functioneren;<br />15° verhuur : de gewone huur, voor zover het gaat over een verhuur over een periode van meer dan twee maanden, de onroerende leasing en de woninghuur van residentiële gebouwen;<br />16° verkoop : de zuivere verkoop van het geheel in volle eigendom van een residentieel gebouw dat niet door de burgemeester onbewoonbaar is verklaard.<br /><br />
+...
 
 ## HOOFDSTUK II Het energieprestatiecertificaat residentiële gebouwen
 
@@ -16,35 +16,35 @@ In dit besluit wordt verstaan onder :<br />1° auditsoftware : de software die t
 
 ### ART. 2.
 
-§ 1. Het energieprestatiecertificaat residentiële gebouwen wordt opgemaakt door een energiedeskundige type A en bevat minstens de volgende gegevens :<br />1° de datum van opmaak van het energieprestatiecertificaat;<br />2° de identificatie van de energiedeskundige;<br />3° de gebouwspecifieke gegevens, zoals het adres en de bestemming;<br />4° de uitdrukking van de energieprestatie van het gebouw aan de hand van het kengetal met aanduiding van referentiewaarden;<br />5° de unieke code; <br />6° de aanbevelingen voor de kosteneffectieve verbetering van de energieprestatie van het gebouw.<br /><br />De minister bepaalt nadere regels tot vaststelling van de vorm en inhoud van het energieprestatiecertificaat residentiële gebouwen.<br /><br />§ 2. Een energieprestatiecertificaat residentiële gebouwen heeft betrekking op een enkele wooneenheid. Voor elke wooneenheid mogen gebouwdelen met een niet-residentiële bestemming ander dan industrie en met een beschermd volume van minder dan 800 m3, worden opgenomen in het energieprestatiecertificaat residentiële gebouwen, voor zover het aandeel van de residentiële gebouwdelen van de wooneenheid groter is dan het aandeel van de niet-residentiële gebouwdelen.<br /><br />§ 3. De minister kan besluiten dat voor de certificering van bepaalde residentiële gebouwen, zoals appartementen en (sociale) woningen, gegevens van gelijksoortige gebouwen kunnen worden hergebruikt. De minister kan nadere regels vastleggen met betrekking tot het hergebruik van die gegevens. Het ministerieel besluit wordt vooraf aan de Vlaamse Regering meegedeeld.<br /><br />§ 4. Voor het opmaken van het energieprestatiecertificaat residentiële gebouwen gebruikt de energiedeskundige type A de certificatiesoftware. Voor energiedeskundigen die niet kunnen beschikken over een elektronische identiteitskaart of een federaal token, kan de minister een alternatieve procedure vaststellen.<br /><br />Bij het verzamelen van de nodige gegevens en het invoeren van die gegevens in de certificatiesoftware, volgt de energiedeskundige type A het inspectieprotocol.<br /><br />§ 5. Het energieprestatiecertificaat residentiële gebouwen heeft een geldigheidsduur van tien jaar. Die periode vangt aan op de datum van de opmaak van het energieprestatiecertificaat.<br /><br />
+...
 
 ### ART. 3.
 
-§ 1 Een energiedeskundige type A heeft alleen toegang tot de certificatendatabank voor die gebouwen die hij zelf heeft gecertificeerd. Als de energiedeskundige type A een werknemer is van een rechtspersoon, heeft hij toegang tot alle gebouwen waarvoor de rechtspersoon als energiedeskundige optreedt. De minister kan nadere regels vaststellen voor die toegang.<br /><br />§ 2. Het energieprestatiecertificaat residentiële gebouwen, zoals die uit de certificatendatabank kan worden afgedrukt, wordt door de energiedeskundige type A ter beschikking gesteld van de aanvrager van het energieprestatiecertificaat.<br /><br />
+...
 
 ## Afdeling II Overdracht van het energieprestatiecertificaat residentiële gebouwen bij verkoop en verhuur
 
 ### ART. 4.
 
-§ 1. Een eigenaar die een residentieel gebouw wil verkopen, moet over een energieprestatiecertificaat residentiële gebouwen beschikken. <br /><br />De eigenaar moet op eenvoudig verzoek van een kandidaat-koper deze een geldig energieprestatiecertificaat kunnen voorleggen. Bij de verkoop van een residentieel gebouw draagt de eigenaar aan de koper een geldig energieprestatiecertificaat over.<br /><br />§ 2. Iedereen die een onderhandse akte houdende de verkoop van een residentieel gebouw opmaakt, moet vermelden of er voor het gebouw een geldig energieprestatiecertificaat residentiële gebouwen bestaat en of het ter kennis werd gesteld van de koper.<br /><br />§ 3. In alle authentieke akten houdende de verkoop van residentiële gebouwen neemt de instrumenterende ambtenaar de verklaring van de koper en de verkoper of hun gemandateerden op of de koper voor het verlijden van de authentieke akte op de hoogte is gebracht van het bestaan en de inhoud van het energieprestatiecertificaat residentiële gebouwen. De instrumenterende ambtenaar vermeldt in de authentieke akte of het energieprestatiecertificaat residentiële gebouwen aan de koper ter beschikking werd gesteld en neemt de datum en de unieke code van het energieprestatiecertificaat residentiële gebouwen in de authentieke akte op.<br /><br />In het kader van de uitoefening van zijn functie als instrumenterende ambtenaar bij de verkoop van residentiële gebouwen, heeft de instrumenterende ambtenaar leesrecht in de certificatendatabank.<br /><br />Indien de instrumenterende ambtenaar bij het verlijden van de authentieke akte vaststelt dat er voor het bewuste residentiële gebouw geen geldig energieprestatiecertificaat residentiële gebouwen beschikbaar is, brengt hij het Vlaams Energieagentschap hier vervolgens onverwijld van op de hoogte.<br /><br />§ 4. In afwijking van § 1 tot § 3 dient bij een onteigening afgehandeld door het Aankoopcomité, geen energieprestatiecertificaat residentiële gebouwen beschikbaar te zijn.<br /><br />
+...
 
 ### ART. 5.
 
-Een eigenaar die een residentieel gebouw wil verhuren, moet over een energieprestatiecertificaat residentiële gebouwen beschikken. <br /><br />De eigenaar moet op eenvoudig verzoek van een kandidaat-huurder een geldig energieprestatiecertificaat kunnen voorleggen. Bij het aangaan van een nieuwe huurovereenkomst verstrekt de eigenaar van het gebouw de huurder een kopie van een geldig energieprestatiecertificaat.<br /><br />
+...
 
 ### ART. 6.
 
-In afwijking van artikel 4, §1, eerste lid en 5, eerste lid, kan de eigenaar van een residentieel gebouw of wooneenheid die al over een geldig energieprestatiecertificaat bij de bouw beschikt en dat slaat op het hele gebouw of de ganse wooneenheid, dat energieprestatiecertificaat gebruiken om te voldoen aan de verplichtingen, vermeld in artikel 4, § 1, tweede lid, § 2 en § 3 en artikel 5, tweede lid.<br /><br />
+...
 
 ## HOOFDSTUK III De energieaudit
 
 ### ART. 7.
 
-Voor het uitvoeren van een energieaudit voor residentiële gebouwen gebruikt de energiedeskundige type B de auditsoftware.<br /><br />De minister bepaalt voor welke gebouwen de auditsoftware kan worden gebruikt ter uitvoering van een energieaudit door een erkend energiedeskundige type B.<br /><br />De minister kan besluiten dat bij de uitvoering van een energieaudit gegevens die al eerder in het kader van de opmaak van het energieprestatiecertificaat werden verzameld, kunnen worden hergebruikt. De minister kan nadere regels vastleggen voor het hergebruik van deze gegevens.<br /><br />
+...
 
 ### ART. 8.
 
-De energieaudit wordt door de energiedeskundige type B toegelicht aan en ter beschikking gesteld van de aanvrager. <br /><br />Na de uitvoering van een energieaudit brengt de energiedeskundige type B op de factuur of op de ereloonnota de volgende vermelding aan : "Door het Vlaamse Gewest erkende energiedeskundige met erkenningsnummer (in te vullen door de energiedeskundige)." <br /><br />Het fiscaal attest dat de auditsoftware aflevert en dat in het kader van de personenbelasting als bewijs voor de belastingvermindering voor de uitgaven van een energieaudit in een woning kan worden gebruikt, wordt als bijlage aan de factuur of de ereloonnota gehecht.<br /><br />
+...
 
 ## HOOFDSTUK IV Erkenning als energiedeskundige type A en type B
 
@@ -52,21 +52,21 @@ De energieaudit wordt door de energiedeskundige type B toegelicht aan en ter bes
 
 ### ART. 9.
 
-Om door het Vlaamse Gewest erkend te kunnen worden als energiedeskundige type A, voldoet de kandidaat-energiedeskundige aan de volgende voorwaarden :<br />1° houder zijn van een door het Vlaams Energieagentschap erkend getuigschrift betreffende een opleiding tot energiedeskundige type A;<br />2° zich ertoe verbinden de verklaring op erewoord voor energiedeskundigen type A na te leven.<br /><br />De minister legt de voorwaarden vast waaraan de opleidingen, vermeld in punt 1°, voldoen om voor erkenning in aanmerking te komen. Die voorwaarden hebben minstens betrekking op de toepassing van de certificatiesoftware en het inspectieprotocol. De minister kan voor al erkende energiedeskundigen van andere types vrijstellingen toekennen met betrekking tot bepaalde delen van de te volgen opleiding.<br /><br />De minister kan nadere regels vastleggen voor de inhoud van de verklaring op erewoord, vermeld in punt 2°. Die verklaring op erewoord heeft minstens betrekking op de onafhankelijke wijze van handelen van de energiedeskundige type A ten aanzien van opdrachtgevers, het vermijden van commerciële belangenvermenging en het naleven van een discretieplicht.<br /><br />
+...
 
 ### ART. 10.
 
-§ 1. De kandidaat-energiedeskundige type A registreert zich online op de door het Vlaams Energieagentschap aangewezen website. Voor kandidaat-energiedeskundigen die niet kunnen beschikken over een elektronische identiteitskaart of een federaal token, kan de minister een alternatieve procedure vaststellen. Het Vlaams Energieagentschap kent de kandidaat-energiedeskundige type A die voldoet aan de voorwaarden van artikel 9, een erkenningsnummer toe. De kandidaat-energiedeskundige type A ontvangt tevens de meest recente versie van de certificatiesoftware en het daarbij behorende inspectieprotocol.<br /><br />§ 2. De energiedeskundige type A stelt het Vlaams Energieagentschap onmiddellijk op de hoogte van wijzigingen in de gegevens die betrekking hebben op de erkenning.<br /><br />§ 3. Het Vlaams Energieagentschap maakt op zijn website de lijst met erkende energiedeskundigen type A openbaar.<br /><br />
+...
 
 ## Afdeling II Erkenning van de energiedeskundige type B.
 
 ### ART. 11.
 
-Om door het Vlaamse Gewest erkend te kunnen worden als energiedeskundige type B, voldoet de kandidaat-energiedeskundige aan de volgende voorwaarden :<br />1° houder zijn van een door het Vlaams Energieagentschap erkend getuigschrift betreffende een opleiding tot energiedeskundige type B;<br />2° zich ertoe verbinden de verklaring op erewoord voor energiedeskundigen type B na te leven.<br /><br />De minister legt de voorwaarden vast waaraan de opleidingen, vermeld in punt 1°, voldoen om voor erkenning in aanmerking te komen. De minister kan voor al erkende energiedeskundigen van andere types vrijstellingen toekennen met betrekking tot bepaalde delen van de te volgen opleiding.<br /><br />De minister kan nadere regels vastleggen voor de inhoud van de verklaring op erewoord, vermeld in punt 2°. Deze verklaring op erewoord heeft minstens betrekking op de onafhankelijke wijze van handelen van de energiedeskundige type B ten aanzien van opdrachtgevers, het vermijden van commerciële belangenvermenging en het naleven van een discretieplicht.<br /><br />
+...
 
 ### ART. 12.
 
-§ 1. De kandidaat-energiedeskundige type B registreert zich online op de door het Vlaams Energieagentschap aangewezen website. Voor kandidaat-energiedeskundigen die niet kunnen beschikken over een elektronische identiteitskaart of een federaal token, kan de minister een alternatieve procedure vaststellen. Het Vlaams Energieagentschap kent de kandidaat-energiedeskundige type B die voldoet aan de voorwaarden van artikel 11, een erkenningsnummer toe. De kandidaat-energiedeskundige type B ontvangt tevens de meest recente versie van de auditsoftware en het daarbij horende handboek.<br /><br />§ 2. De energiedeskundige type B stelt het Vlaams Energieagentschap onmiddellijk op de hoogte van wijzigingen in de gegevens die betrekking hebben op de erkenning.<br /><br />§ 3. Het Vlaams Energieagentschap maakt op zijn website de lijst met erkende energiedeskundigen type B openbaar.<br /><br />
+...
 
 ## HOOFDSTUK V Handhaving
 
@@ -74,38 +74,38 @@ Om door het Vlaamse Gewest erkend te kunnen worden als energiedeskundige type B,
 
 ### ART. 13.
 
-§ 1. De ambtenaren van het Vlaams Energieagentschap worden aangesteld om de nodige controles met betrekking tot de energieaudit en het energieprestatiecertificaat residentiële gebouwen uit te voeren en om overtredingen van de bepalingen van het EPB-decreet en dit besluit op te sporen.<br /><br />§ 2. Het Vlaams Energieagentschap kan te allen tijde nagaan of een energiedeskundige type A of type B voldoet aan de opleidingsvoorwaarde, vermeld in artikelen 9 en 11. De opleidingsinstellingen die een opleiding aanbieden die leidt tot een door het Vlaams Energieagentschap erkend getuigschrift betreffende een opleiding tot energiedeskundige type A of type B, bezorgen het Vlaams Energieagentschap uiterlijk een week na afloop van de betreffende opleidingen elektronisch een lijst met de afgeleverde getuigschriften.<br /><br />§ 3. Het Vlaams Energieagentschap voert steekproefsgewijze controles uit op de kwaliteit van de verstrekte energieprestatiecertificaten en energieaudits.<br /><br />Bij inbreuken op de regelgeving, of als het uitgereikte energieprestatiecertificaat van onvoldoende kwaliteit getuigt, kan het Vlaams Energieagentschap, na de eigenaar en de energiedeskundige die het energieprestatiecertificaat heeft opgesteld te hebben gehoord, het energieprestatiecertificaat in kwestie intrekken. Het Vlaams Energieagentschap brengt de eigenaar van het gebouw waarvoor het energieprestatiecertificaat werd opgemaakt, per aangetekende brief van zijn beslissing op de hoogte. <br /><br />Binnen een termijn van dertig kalenderdagen na de betekening van de beslissing van het Vlaams Energieagentschap kan de betrokken eigenaar beroep aantekenen bij de minister. De eigenaar kan vragen om gehoord te worden. De minister of zijn gemachtigde neemt een beslissing binnen een termijn van dertig kalenderdagen, die ingaat op de dag waarop het beroep is ontvangen. Als de minister of zijn gemachtigde zijn beslissing niet heeft betekend binnen de in het vorige lid bepaalde termijnen, wordt ervan uitgegaan dat het beroep werd ingewilligd.<br /><br />
+...
 
 ### ART. 14.
 
-Ter garantie van het vereiste niveau van deskundigheid dat nodig is voor het uitvoeren van de energieaudit en het opmaken van een energiecertificaat residentiële gebouwen, kan het Vlaams Energieagentschap, onder de voorwaarden die de minister bepaalt, de erkende energiedeskundigen verplichten een aanvullende opleiding te volgen met betrekking tot de theoretische en praktische kennis van het gebruik van de auditsoftware, de certificatiesoftware en het inspectieprotocol.<br /><br />
+...
 
 ## Afdeling II Schorsing of intrekking van de erkenning
 
 ### ART. 15.
 
-§ 1. Als inbreuken op de regelgeving worden vastgesteld of als blijk wordt gegeven van kennelijke onbekwaamheid, kan het Vlaams Energieagentschap de erkenning als energiedeskundige type A of B schorsen of intrekken. Het Vlaams Energieagentschap brengt de erkende energiedeskundige per aangetekende brief van zijn voornemen op de hoogte. De betrokken energiedeskundige kan vragen om gehoord te worden, waarna het Vlaams Energieagentschap zijn beslissing per aangetekende brief aan de energiedeskundige bezorgt.<br /><br />§ 2. Binnen een termijn van dertig kalenderdagen na de betekening van de beslissing van het Vlaams Energieagentschap kan de betrokken energiedeskundige beroep aantekenen bij de minister. De energiedeskundige of kandidaat-energiedeskundige kan vragen om gehoord te worden.<br /><br />De minister of zijn gemachtigde neemt een beslissing binnen een termijn van dertig kalenderdagen, die ingaat op de dag waarop het beroep is ontvangen.<br /><br />Als de minister of zijn gemachtigde zijn beslissing niet heeft betekend binnen de in het vorige lid bepaalde termijnen, wordt ervan uitgegaan dat het beroep werd ingewilligd.<br /><br />
+...
 
 ## HOOFDSTUK VI Wijzigingsbepalingen
 
 ### ART. 16.
 
-In artikel 24bis van het besluit van de Vlaamse Regering van 11 maart 2005 tot vaststelling van de eisen op het vlak van de energieprestaties en het binnenklimaat van gebouwen, ingevoegd bij besluit van 2 december 2005, worden de volgende wijzigingen aangebracht :<br />1° in § 1 worden de woorden « artikel 28, § 1, tweede en derde lid, van het Energieprestatiedecreet » vervangen door de woorden « artikel 19, § 1, tweede en derde lid, van het EPB-decreet »;<br />2° § 5 wordt opgeheven;<br />3°° in § 6 worden de woorden « artikel 21 van het Energieprestatiedecreet » vervangen door de woorden « artikel 18 van het EPB-decreet ».<br /><br />
+...
 
 ### ART. 17.
 
-In artikel 1 van het besluit van de Vlaamse Regering van 2 maart 2007 inzake de openbaredienstverplichtingen ter bevordering van het rationeel energiegebruik wordt het punt 10° opgeheven.<br /><br />
+...
 
 ## HOOFDSTUK VII Slotbepalingen
 
 ### ART. 18.
 
-Het besluit van de Vlaamse Regering van 17 juni 2005 houdende de erkenning als energiedeskundige voor woningen en houdende de uitvoeringsvoorwaarden van de energieaudit voor woningen, gewijzigd bij besluiten van 24 maart 2006 en 23 juni 2006, wordt opgeheven.<br /><br />
+...
 
 ### ART. 19.
 
-De minister bepaalt voor elk artikel de datum waarop het in werking treedt.<br /><br />
+...
 
 ### ART. 20.
 
-De Vlaamse minister, bevoegd voor het Energiebeleid, is belast met de uitvoering van dit besluit.<br /><br />
+...
