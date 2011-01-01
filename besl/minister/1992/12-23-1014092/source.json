@@ -2,16 +2,16 @@
   "codex_id": 1014092,
   "title": "Ministerieel besluit van 1992-12-23 betreffende de verbetering van paardachtigen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014092/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "94066ab40eeb91df09fe6916287fdbe956753dce8f2fa433485ebc1380ebfce2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014092/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "457855b52620cdcc37bcc9cffc9568489158bcbb3065e7c1e8455fb863bd4b75",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014092&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-01-01",
   "made": "1992-12-23",
   "gazette": "1993-02-09",
   "numac": 1993016237,
   "document_start": null,
   "document_end": "2010-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2011-01-01",
   "article_versions": 34,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
