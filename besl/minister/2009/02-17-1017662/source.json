@@ -2,16 +2,16 @@
   "codex_id": 1017662,
   "title": "Ministerieel besluit van 2009-02-17 inzake de rapportering van de elektriciteitsdistributienetbeheerders betreffende de uitvoering van hun REG-actieplannen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017662/VolledigDocument?datum=2009-03-10",
-  "source_sha256": "295668d04db618aa289615d7f191621e83703ea785ac34c82612bb1b5316eccf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017662/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "b2882160727537b157a8bfad9944521c9cf1802809669d6977803fd125d88db1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017662&param=informatie",
-  "as_of": "2009-03-10",
+  "as_of": "2011-01-01",
   "made": "2009-02-17",
   "gazette": "2009-03-10",
   "numac": 2009035219,
   "document_start": "2009-03-10",
   "document_end": null,
-  "in_force": "2009-03-10",
+  "in_force": "2011-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2009-03-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
