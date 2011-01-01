@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020076,
+  "title": "Ministerieel besluit van 2011-02-14 betreffende de erkenning van de diensten voor herstelgerichte en constructieve afhandeling per gerechtelijk arrondissement",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020076/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "d03ff4d61612118366c5bdb4506a92ce7805de04bbd9c25a3cd9f5ac45554429",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020076&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2011-02-14",
+  "gazette": "2011-03-02",
+  "numac": 2011200896,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
