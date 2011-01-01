@@ -12,6 +12,10 @@
 
 ## Afdeling 4 Hogescholen
 
+### ART. 5.
+
+Artikel 190bis van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap, wordt vervangen door wat volgt :<br />« Art. 190bis. § 1. De Vlaamse Regering subsidieert jaarlijks het praktijkgericht wetenschappelijk onderzoek binnen de hogescholen. Zij voorziet daartoe jaarlijks een bedrag van 10,708 miljoen euro.<br /><br />Het bedrag vermeld in § 1, eerste lid, wordt vanaf het begrotingsjaar 2012 geïndexeerd aan de hand van de formule, vermeld in artikel 9, § 5, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en universiteiten in Vlaanderen.<br /><br />§ 2. Het bedrag, vermeld in § 1, wordt in het begrotingsjaar 2012 vermeerderd met 100.000,00 euro.<br /><br />§ 3. Het bedrag verkregen na toepassing van § 1 en § 2 wordt in het begrotingsjaar 2012 verdeeld onder de hogescholen op basis van de som van :<br />1° 100 procent van het aantal opgenomen studiepunten in de professionele initiële bacheloropleidingen, berekend conform artikel 11 van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en universiteiten in Vlaanderen;<br />2° 50 procent van het gemiddeld aantal opgenomen studiepunten over de academiejaren t-7/t-6 tot en met t-3/t-2 waarvoor de studenten zich hebben ingeschreven in een diplomacontract voor bachelor-na-bacheloropleidingen.<br /><br />§ 4. De toegekende bedragen worden door de hogescholen besteed aan het dekken van zowel een organieke ondersteuningsstructuur als de kosten verbonden met de uitvoering van projecten van praktijkgericht wetenschappelijk onderzoek in het kader van het professioneel hoger onderwijs.<br /><br />De hogeschool stelt samen met de associatie waartoe zij behoort een onderzoeksreglement op. Dit reglement bevat ten minste de volgende elementen :<br />1° de looptijd van de projecten;<br />2° de (voorwaarden voor) wetenschappelijke ondersteuning van de projecten;<br />3° de methodologie die gevolgd wordt bij de ex-ante-evaluatie van de ingediende voorstellen, de ex-postevaluatie van de uitgevoerde projecten en eventueel de tussentijdse evaluatie van de in uitvoering zijnde projecten.<br /><br />§ 5. Het hogeschoolbestuur rapporteert in het jaarverslag over de besteding van deze middelen. De Vlaamse Regering kan nadere regels inzake deze rapportering vastleggen. <br />
+
 ## Afdeling 5 Universiteiten
 
 ## Afdeling 6 Volwassenenonderwijs
@@ -35,6 +39,10 @@
 ## HOOFDSTUK 4 Verkeersbelastingen
 
 ## Afdeling 1 Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen
+
+### ART. 37.
+
+Aan artikel 5, § 1, eerste lid, van het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen wordt een punt 11° toegevoegd, dat luidt als volgt :<br />« 11° de voertuigen die ingezet worden door vervoerders die gesubsidieerd worden door de Vlaamse Regering en die uitsluitend gebruikt worden voor het vervoer van personen met een handicap of een ernstig beperkte mobiliteit. <br />
 
 ## Afdeling 2 Eurovignet
 
