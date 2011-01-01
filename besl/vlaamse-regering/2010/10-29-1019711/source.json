@@ -2,16 +2,16 @@
   "codex_id": 1019711,
   "title": "Besluit van de Vlaamse Regering van 2010-10-29 tot toekenning van steun aan energieconsulentenprojecten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019711/VolledigDocument?datum=2010-12-03",
-  "source_sha256": "25e1af565db7bb49e0e0c4075f3c621516eb73bd74e36914c81840b86a738853",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019711/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "3363bd3164b6bb371b71d26a38260cc3edf6e09361e943d86fd3a23d4cec10cd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019711&param=informatie",
-  "as_of": "2010-12-03",
+  "as_of": "2011-01-01",
   "made": "2010-10-29",
   "gazette": "2010-11-23",
   "numac": 2010205887,
   "document_start": "2010-12-03",
   "document_end": "2010-12-31",
-  "in_force": "2010-12-03",
+  "in_force": "2011-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2010-12-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
