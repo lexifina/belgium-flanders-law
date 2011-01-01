@@ -38,6 +38,14 @@ In het agentschap functioneert een Sociale Dienst voor het Personeel, met de vol
 
 ## [HOOFDSTUK IV/1. Reis- en verblijfkosten van zorgregisseurs (ing. BVR 20 juni 2014, art. 1, I: 1 januari 2011)]
 
+### ART. 6/1.
+
+In dit hoofdstuk wordt verstaan onder<BR>1° provinciecoördinatiepunt: het   coördinatiepunt, vermeld in artikel 7 en 8 van het besluit van de Vlaamse   Regering van 17 maart 2006 betreffende de regie van de zorg en bijstand tot   sociale integratie van personen met een handicap en betreffende de erkenning en   subsidiëring van een Vlaams Platform van verenigingen van personen met een   handicap;<BR>2° zorgregisseur: de ambtenaar aangewezen door de leidend ambtenaar   van het Vlaams Agentschap voor Personen met een Handicap als lid van de   regionale prioriteitencommissie, vermeld in hoofdstuk II/1 van het besluit van   de Vlaamse Regering van 17 maart 2006 betreffende de regie van de zorg en   bijstand tot sociale integratie van personen met een handicap en betreffende de   erkenning en subsidiëring van een Vlaams Platform van verenigingen van personen   met een handicap;
+
+### ART. 6/2.
+
+De verplaatsingen van de zorgregisseur met de eigen wagen binnen de stad   waar het provinciecoördinatiepunt gevestigd is, worden niet vergoed.<BR><BR>Bij   problemen met het openbaar vervoer kan van de bepaling opgenomen in het eerste   lid worden afgeweken na akkoord van het afdelingshoofd van de   zorgregisseur.
+
 ## HOOFDSTUK V Slotbepalingen
 
 ### ART. 7.
@@ -46,7 +54,7 @@ De ambtenaren met de vroegere graad van bestuursdirecteur mogen de titel van bes
 
 ### ART. 8.
 
-Het personeelslid dat uiterlijk op 1 november 1987 aangeworven werd als contractueel huisbewaarder, ontvangt een bezoldiging die bepaald wordt als volgt : <br />- vanaf 1 april 2006 : 7.065 euro à 100 % <br />- vanaf 1 januari 2009 : 7.180 euro à 100 % <br />- vanaf 1 februari 2009 : 7.295 euro à 100 % <br />- vanaf 1 februari 2012 : 7.425 euro à 100 % <br /><br />Deze bedragen worden aangepast aan de evolutie van het gezondheidsindexcijfer volgens artikel VII 9 van het Vlaams personeelsstatuut van 13 januari 2006.<br /><br />
+...<BR>
 
 ### ART. 9.
 
