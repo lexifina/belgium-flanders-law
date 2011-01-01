@@ -16,41 +16,41 @@ In dit besluit wordt verstaan onder:<br /><br />1° decreet: het decreet van 28 
 
 ### ART. 2.
 
-Het meerjarenplan van het ondersteuningscentrum voor allochtonen, van het ondersteuningscentrum voor vluchtelingen en van het ondersteuningscentrum voor woonwagenbewoners geeft aan op welke wijze het ondersteuningscentrum zijn opdrachten, zoals bepaald in artikel 10, § 2, van het decreet, zal uitvoeren.
+...
 
 ### ART. 3.
 
-Onder voorbehoud van de toepassing van artikel 11, eerste lid, van het decreet bevat het meerjarenplan:<br /><br />1° met betrekking tot de opdracht, bedoeld in artikel 10, § 2, tweede lid, 1°, van het decreet, om de categoriale sector te ondersteunen en te begeleiden:<br /><br />a) een schets van het aanbod van de categoriale sector, in relatie met de bestaande situatie en de behoeften van de doelgroep en met vermelding van nieuwe tendensen en ontwikkelingen;<br /><br />b) een bepaling van de behoeften van de categoriale sector inzake ondersteuning op logistiek, administratief en inhoudelijk vlak;<br /><br />c) een beschrijving van de voorgestelde ondersteunende activiteiten;<br /><br />2° met betrekking tot de opdracht, bedoeld in artikel 10, § 2, tweede lid, 2°, van het decreet, om samen te werken met relevante organisaties en instellingen:<br /><br />a) de organisaties en instellingen die betrokken zijn bij de uitvoering van het minderhedenbeleid in relatie met de bestaande situatie en de behoeften van de doelgroep en met vermelding van nieuwe tendensen en ontwikkelingen;<br /><br />b) de organisaties en instellingen waarmee samenwerkingsverbanden zullen worden opgezet en de activiteiten die ondernomen zullen worden om deze organisaties en instellingen te ondersteunen bij het voeren van een inclusief beleid;<br /><br />3° met betrekking tot de opdracht, bedoeld in artikel 10, § 2, tweede lid, 3°, van het decreet, om methodieken te ontwikkelen en deskundigheid te bevorderen:<br /><br />a) een overzicht van de bestaande initiatieven inzake methodiekontwikkeling en deskundigheidsbevordering en de behoeften terzake, in relatie met de bestaande situatie en de behoeften van de doelgroep en met vermelding van nieuwe tendensen en ontwikkelingen;<br /><br />b) de initiatieven die genomen zullen worden op het vlak van methodiekontwikkeling en op het vlak van deskundigheidsbevordering in aansluiting op de algemene opdrachten, bedoeld in artikel 10, § 2, tweede lid, 1° en 2°, van het decreet.
+...
 
 ### ART. 4.
 
-In het meerjarenplan worden voor elk van de onderdelen, bedoeld in artikel 3, 1° tot en met 3°, de volgende elementen aangegeven:<br /><br />1° een verantwoording van de keuze, door middel van de situering ten opzichte van het strategisch plan en ten opzichte van de meerjarenplannen van de integratiecentra of van de cellen voor vluchtelingenwerk of woonwagenwerk, naar gelang van het geval, en op basis van overleg met de Vlaamse overheid;<br /><br />2° de te verwachten resultaten;<br /><br />3° het tijdstip en de wijze waarop de activiteiten of initiatieven geëvalueerd zullen worden;<br /><br />4° de taakafspraken terzake met de integratiecentra of met de cellen voor vluchtelingenwerk of woonwagenwerk, naar gelang van het geval;<br /><br />5° de wijze waarop de categoriale sector en de doelgroepen betrokken werden bij de totstandkoming van de planning en betrokken zullen worden bij de voortgangsbewaking en de evaluatie ervan.
+...
 
 ### ART. 5.
 
-§ 1. Het meerjarenplan, met uitzondering van het eerste meerjarenplan, geeft voor elk onderdeel van het plan de ontwikkeling aan ten opzichte van het vorige meerjarenplan, met opgave van de activiteiten die worden voortgezet, bijgestuurd, geheroriënteerd of beëindigd en van de nieuwe initiatieven die zullen worden ontwikkeld.<br /><br />§ 2. Het meerjarenplan verantwoordt de samenstelling van de bestuursorganen, conform artikel 8, 9 of 10, waarbij wordt aangegeven welke inspanningen geleverd worden om de doelgroep in kwestie, vrouwen en jongeren, erin op te nemen.
+...
 
 ### ART. 6.
 
-§ 1. Het meerjarenplan van het ondersteuningscentrum voor vluchtelingenwerk en van het ondersteuningscentrum voor woonwagenwerk omvat verder de meerjarenplannen van de cellen voor vluchtelingenwerk, respectievelijk van de cellen voor woonwagenwerk.<br /><br />Als over het meerjarenplan van een cel voor vluchtelingenwerk geen overeenstemming kan worden bereikt tussen de stuurgroep van de betreffende cel en het ondersteuningscentrum voor vluchtelingenwerk, voegt het ondersteuningscentrum zijn voorstel tot wijziging van dat meerjarenplan als bijlage toe aan zijn eigen meerjarenplan.<br /><br />Het tweede lid is van overeenkomstige toepassing als over het meerjarenplan van een cel voor woonwagenwerk geen overeenstemming kan worden bereikt tussen de stuurgroep van de betreffende cel en het ondersteuningscentrum voor woonwagenwerk.<br /><br />§ 2. In het geval, bedoeld in § 1, tweede en derde lid, beslist de minister op voorstel van de administratie over het uit te voeren meerjarenplan.
+...
 
 ### ART. 7.
 
-Het meerjarenplan van elk ondersteuningscentrum wordt pas definitief na de goedkeuring van het coördinatieplan, bedoeld in artikel 13 van het decreet.
+...
 
 ## ONDERAFDELING B SAMENSTELLING VAN DE BESTUURSORGANEN
 
 ### ART. 8.
 
-De bestuursorganen van het ondersteuningscentrum voor allochtonen zijn samengesteld uit:<br /><br />1° allochtonen die door hun deskundigheid en hun positie of door hun activiteiten en ervaring in een landelijke migrantenvereniging een reële bijdrage kunnen leveren aan de realisatie van de doelstellingen van het ondersteuningscentrum;<br /><br />2° een vertegenwoordiging van de integratiecentra;<br /><br />3° een vertegenwoordiger van de Vereniging van Vlaamse Steden en Gemeenten;<br /><br />4° deskundigen uit aanverwante sectoren of uit sectoren die voor het minderhedenbeleid relevant zijn, zoals onderwijs, tewerkstelling en huisvesting evenals uit de wetenschappelijke wereld of de onderzoekswereld.<br /><br />Minstens een derde van de leden is allochtoon, als bedoeld in 1°.
+...
 
 ### ART. 9.
 
-De bestuursorganen van het ondersteuningscentrum voor vluchtelingenwerk zijn samengesteld uit:<br /><br />1° leden van de doelgroep die door hun deskundigheid en hun positie of door hun activiteiten en ervaring in een organisatie van vluchtelingen een reële bijdrage kunnen leveren aan de realisatie van de doelstellingen van het ondersteuningscentrum;<br /><br />2° een vertegenwoordiging van de stuurgroepen van de cellen voor vluchtelingenwerk;<br /><br />3° personen die actief zijn in niet-gouvernementele organisaties, en die werken op het terrein van het onthaal en de begeleiding van vluchtelingen;<br /><br />4° een vertegenwoordiger van de Vereniging van Vlaamse Provincies;<br /><br />5° deskundigen uit maatschappelijke sectoren die voor het vluchtelingenbeleid relevant zijn, evenals uit de wetenschappelijke wereld of de onderzoekswereld.
+...
 
 ### ART. 10.
 
-De bestuursorganen van het ondersteuningscentrum voor woonwagenwerk zijn samengesteld uit:<br /><br />1° leden van de doelgroep die door hun deskundigheid en hun positie of door hun activiteiten en ervaring in een organisatie van woonwagenbewoners een reële bijdrage kunnen leveren aan de realisatie van de doelstellingen van het ondersteuningscentrum;<br /><br />2° een vertegenwoordiging van de stuurgroepen van de cellen voor woonwagenwerk;<br /><br />3° personen die actief zijn in niet-gouvernementele organisaties, en die werken op het terrein van het onthaal en de begeleiding van woonwagenbewoners;<br /><br />4° een vertegenwoordiger van de Vereniging van Vlaamse Provincies;<br /><br />5° deskundigen uit de maatschappelijke sectoren die voor het woonwagenbeleid relevant zijn, evenals uit de wetenschappelijke wereld of de onderzoekswereld.
+...
 
 ## AFDELING 2 HET VLAAMSE OVERLEGCENTRUM
 
@@ -58,13 +58,13 @@ De bestuursorganen van het ondersteuningscentrum voor woonwagenwerk zijn samenge
 
 ### ART. 11.
 
-§ 1. Voor het Vlaamse overlegcentrum zijn het strategisch plan, de drie sporen van het Vlaamse minderhedenbeleid, bepaald in artikel 4, § 1, van het decreet en de mogelijkheden en behoeften van de doelgroepen richtinggevend bij de uitvoering van zijn taak, bedoeld in artikel 12 van het decreet.<br /><br />Activiteiten in het kader van het opvangbeleid, bedoeld in artikel 4, § 1, 3°, van het decreet, worden georganiseerd in overleg en samenwerking met organisaties die zich tot deze doelgroep richten.<br /><br />§ 2. Onder voorbehoud van de toepassing van artikel 13, tweede lid, van het decreet:<br /><br />1° omvat het coördinatieplan:<br /><br />a) een afsprakenregeling tussen het overlegcentrum en de ondersteuningscentra met betrekking tot het personeel, de werking van gemeenschappelijke diensten, zoals administratieve, juridische en logistieke diensten, de uitvoering van de gemeenschappelijke acties en de verantwoording van de subsidies, bedoeld in titel IV;<br /><br />b) een personeelsplan, waarin de verdeling van de personeelsformatie, bedoeld in artikel 50, over het Vlaamse overlegscentrum en de ondersteuningscentra wordt verantwoord;<br /><br />1° wordt in het coördinatieplan, met uitzondering van het eerste coördinatieplan, voor elke decretale opdracht de ontwikkeling aangegeven ten opzichte van het vorige coördinatieplan en wordt daarin opgegeven welke activiteiten worden voortgezet, bijgestuurd, geherorinteerd of beëindigd en welke nieuwe initiatieven zullen worden ontwikkeld;<br /><br />2° bevat het coördinatieplan een verantwoording van de samenstelling van de bestuursorganen, zoals bepaald in artikel 15, 4°, van het decreet en in artikel 12 van dit besluit.<br /><br />§ 3. Het Vlaamse overlegcentrum wint over het cordinatieplan het advies in van het forum van organisaties van etnisch-culturele minderheden, bedoeld in artikel 9 van het decreet. Bij ontstentenis van een advies binnen twee maanden nadat het voorstel aan het forum werd bezorgd, wordt het advies geacht positief te zijn. Het overlegcentrum geeft in zijn coördinatieplan aan op welke wijze met dat advies rekening is gehouden.<br /><br />§ 4. De raad van bestuur van het overlegcentrum keurt het coördinatieplan bij tweederde meerderheid goed.<br /><br />§ 5. Het coördinatieplan wordt met een aangetekende brief ingediend bij de administratie, die het ter goedkeuring aan de minister voorlegt.
+...
 
 ## ONDERAFDELING B DE SAMENSTELLING VAN DE RAAD VAN BESTUUR
 
 ### ART. 12.
 
-§ 1. De raad van bestuur van het Vlaamse overlegcentrum is samengesteld uit een gelijk aantal leden van de respectieve raden van bestuur van de ondersteuningscentra, onder wie de leden van de doelgroepen.<br /><br />§ 2. De vertegenwoordiger van de Vlaamse regering, bedoeld in artikel 15, 4°, van het decreet, neemt deel aan de vergaderingen van de bestuursorganen en brengt verslag uit bij de minister.
+...
 
 ## HOOFDSTUK II HET PROVINCIALE NIVEAU
 
@@ -354,11 +354,11 @@ Het Vlaamse overlegcentrum, de provinciale en lokale integratiecentra en de inte
 
 ### ART. 69.
 
-§ 1. Ter uitvoering van artikel 45 van het decreet kan de minister een overeenkomst sluiten met andere organisaties dan de integratiecentra, die hun werking richten naar de trekkende beroepsbevolking.<br /><br />§ 2. Onder voorbehoud van de toepassing van artikel 45, tweede lid, van het decreet ontplooit de organisatie in kwestie haar werking volgens de uitgangspunten van het inclusieve en gecoördineerde minderhedenbeleid, bedoeld in artikel 4, § 3 en § 4, van het decreet, die van overeenkomstige toepassing zijn.<br /><br />§ 3. De organisatie in kwestie dient een aanvraag tot subsidiëring in bij de administratie, op basis van een meerjarenplan, waarin minstens de omgevingsanalyse, de doelstellingen en de te verwachten resultaten vermeld zijn.<br /><br />§ 4. Het meerjarenplan wordt opgemaakt voor een periode van drie jaar.<br /><br />§ 5. Voor de subsidiëring is titel IV van overeenkomstige toepassing.
+...
 
 ### ART. 70.
 
-De minister subsidieert projecten overeenkomstig de bepalingen van artikel 43 van het decreet en bepaalt de voorwaarden voor de toekenning van deze projectsubsidie, rekening houdend met:<br /><br />1° de doelstellingen van het strategisch plan;<br /><br />2° de resultaten zoals vastgesteld in het jaarrapport van de coördinerende commissie, bedoeld in artikel 6, § 1, van het decreet;<br /><br />3° de resultaten zoals vastgesteld in het verslag van het Vlaamse overlegcentrum, zoals bepaald in artikel 63, § 1, 1°.<br /><br />De minister bepaalt de aanvraagprocedure en selecteert de projecten aan de hand van de door de initiatiefnemer ingediende projectomschrijving en de bijbehorende begroting.<br /><br />Om een projectsubsidie te kunnen krijgen moet de initiatiefnemer een openbaar bestuur of een vereniging zonder winstoogmerk zijn. Voor elk geselecteerd project stelt de minister het bedrag van de subsidie vast op basis van de werkings- en loonkosten van het project.
+...
 
 ## TITEL VI SLOTBEPALINGEN
 
