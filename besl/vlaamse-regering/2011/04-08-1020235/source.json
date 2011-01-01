@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020235,
+  "title": "Besluit van de Vlaamse Regering van 2011-04-08 houdende de vaststelling van de zendtijd voor 2011 voor de levensbeschouwelijke verenigingen en een organisatie die de belangen van de gezinnen behartigt, die erkend zijn om radioprogramma's op de VRT te verzorgen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020235/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "2323ab60a6fcc1608a4f21e089a117570966c72176c89f973100914e1fd5b994",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020235&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2011-04-08",
+  "gazette": "2011-05-06",
+  "numac": 2011201995,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
