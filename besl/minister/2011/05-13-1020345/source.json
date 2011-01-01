@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020345,
+  "title": "Ministerieel besluit van 2011-05-13 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan de tweede prioritaire groep in 2011",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020345/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "24acf97a64eee3e4bd9f2732660020277e7bf6dda38b3a15a1cf7ce46c5d8795",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020345&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2011-05-13",
+  "gazette": "2011-06-24",
+  "numac": 2011202933,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
