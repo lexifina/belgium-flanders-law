@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021120,
+  "title": "Besluit van de Vlaamse Regering van 2011-12-02 tot vaststelling van het totale aantal subsidiabele uren aanvullende thuiszorg en logistieke hulp voor de diensten voor gezinszorg en aanvullende thuiszorg en de diensten voor logistieke hulp voor het jaar 2011",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021120/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "a90039960585d00fd50329a728de0d6e118ff12f77716d32ffc0b85933422ef2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021120&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2011-12-02",
+  "gazette": "2011-12-23",
+  "numac": 2011036018,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
