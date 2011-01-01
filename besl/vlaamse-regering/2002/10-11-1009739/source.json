@@ -2,16 +2,16 @@
   "codex_id": 1009739,
   "title": "Besluit van de Vlaamse Regering van 2002-10-11 houdende de organisatie van de aardgasmarkt",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009739/VolledigDocument?datum=2007-09-21",
-  "source_sha256": "8f479dd5a0f1540a9d280ffbba7001a794f7ca7551222abcb55aafa62c41d85f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009739/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "7252292f65fa49bd9b465be84a13a9a2f5b5483d8f408b4a8e6b10eb4a4f3432",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009739&param=informatie",
-  "as_of": "2007-09-21",
+  "as_of": "2011-01-01",
   "made": "2002-10-11",
   "gazette": "2002-10-18",
   "numac": 2002036302,
   "document_start": null,
   "document_end": "2010-12-31",
-  "in_force": "2007-09-21",
+  "in_force": "2011-01-01",
   "article_versions": 62,
-  "record_form": "consolidated version as in force on 2007-09-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
