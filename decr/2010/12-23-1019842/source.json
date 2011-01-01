@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019842,
+  "title": "Decreet van 2010-12-23 houdende de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2011",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019842/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "3bf4018b2c25afc39814d8a371a846de7b58951b5d4e4d74e867f668d61e9ad5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019842&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2010-12-23",
+  "gazette": "2010-12-29",
+  "numac": 2010036015,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
