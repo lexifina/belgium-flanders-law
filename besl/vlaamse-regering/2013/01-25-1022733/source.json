@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022733,
+  "title": "Besluit van de Vlaamse Regering van 2013-01-25 tot wijziging van het besluit van de Vlaamse Regering van 9 maart 2007 tot uitvoering van het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen, wat betreft de bepaling van de stikstofverliezen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022733/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "2fc36c5ae61b4f0bc1c43b304f82938006aecee3aad021d95421af491cf9326d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022733&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2013-01-25",
+  "gazette": "2013-02-15",
+  "numac": 2013035170,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
