@@ -16,6 +16,10 @@ Elk gemeentebestuur met een voor subsidiëring aanvaard jeugdbeleidsplan 2011-20
 
 Het krediet dat krachtens artikel 8, § 2ter, van het decreet van 14 februari 2003 beschikbaar is, wordt jaarlijks verdeeld over de gemeentebesturen. Het krediet wordt verdeeld op basis van het aantal inwoners van de gemeente die jonger zijn dan 25 jaar, ten opzichte van het totale aantal inwoners van het Vlaamse Gewest die jonger zijn dan 25 jaar. De subsidies kunnen uitsluitend aangewend worden voor de uitvoering van het beleid inzake jeugdcultuur.<br /><br />De verantwoordingsnota bevat een verklaring van het college van burgemeester en schepenen waarin wordt gesteld dat het in het jeugdbeleidsplan vastgestelde beleid inzake jeugdcultuur in het desbetreffende jaar werd uitgevoerd zoals gepland en dat voldoende subsidiabele uitgaven werden gedaan. Daarbij hoort ook een argumentatie bij de doelstellingen van het plan die anders of niet werden uitgevoerd.<br /><br />Onder subsidiabele uitgaven als vermeld in het tweede lid worden verstaan : alle uitgaven die bijdragen tot de uitvoering van de vooropgestelde doelstellingen en acties. Personeelskosten van gemeentelijk personeel worden van subsidie uitgesloten, behalve indien het gaat om een nieuwe aanwerving in het kader van projecten ter uitvoering van de doelstellingen.<br /><br />
 
+### ART. 4.
+
+Het besluit van de Vlaamse Regering van 26 januari 2007 ter uitvoering van het decreet van 14 februari 2003 houdende de ondersteuning en de stimulering van het gemeentelijk, het intergemeentelijk en het provinciaal jeugd- en jeugdwerkbeleid, inzake de subsidiëring van gemeentebesturen die een jeugdinformatiebeleid voeren als onderdeel van hun jeugdbeleid wordt opgeheven. <br /><br />
+
 ### ART. 5.
 
 Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 4, dat in werking treedt op 1 januari 2011.<br /><br />
