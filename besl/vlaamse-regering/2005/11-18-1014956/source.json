@@ -2,16 +2,16 @@
   "codex_id": 1014956,
   "title": "Besluit van de Vlaamse Regering van 2005-11-18 tot vaststelling van de openbaredienstverplichting, opgelegd aan de netbeheerders met betrekking tot het ter beschikking stellen van de mogelijkheid voor eindafnemers op laagspanning om te kunnen genieten van een elektriciteitstarief op basis van een dag- en een nachtmeter",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014956/VolledigDocument?datum=2007-01-01",
-  "source_sha256": "0924edd4151a196aa6b62273046d03b1c9494e2aaf3e1d145c0bf012b2b2e527",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014956/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "23d0d64cdf61b4f59b171ecca3f08c7425da4ab7fcc3874a2600c73e680b1dfb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014956&param=informatie",
-  "as_of": "2007-01-01",
+  "as_of": "2011-01-01",
   "made": "2005-11-18",
   "gazette": "2006-09-18",
   "numac": 2006036423,
   "document_start": "2006-09-28",
   "document_end": "2010-12-31",
-  "in_force": "2007-01-01",
+  "in_force": "2011-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
