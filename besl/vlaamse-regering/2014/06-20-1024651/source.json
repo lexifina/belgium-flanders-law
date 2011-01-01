@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024651,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-20 tot wijziging van het besluit van de Vlaamse Regering van 12 maart 2010 houdende de vaststelling van de agentschapsspecifieke regeling van de rechtspositie van het personeel van het Vlaams Agentschap voor Personen met een Handicap en houdende oprichting van een Sociale Dienst voor het personeel van het Vlaams Agentschap voor Personen met een Handicap, wat betreft de toevoeging van de regeling van de reis- en verblijfkosten voor de zorgregisseurs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024651/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "df0faef560b5b2229737ab8fc58bda14854d6e434e995126a8fbb1ef33126a2c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024651&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2014-06-20",
+  "gazette": "2014-10-10",
+  "numac": 2014036474,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
