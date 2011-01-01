@@ -184,7 +184,7 @@ Voor de toepassing van dit besluit worden eveneens gelijkgesteld met een bekwaam
 
 ### ART. 12.
 
-Vanaf het schooljaar 1990-1991 wordt het minimum en maximum aantal lesuren vereist voor een ambt met volledige prestaties voor de in artikel 1 bedoelde personeelsleden vastgesteld als volgt:<br />1° voor het onderwijs van de kunstvakken en voor het ambt van begeleider in de lagere en middelbare graad van het deeltijds kunstonderwijs: 22 lesuren;<br />2° voor het onderwijs van de kunstvakken en voor het ambt van begeleider in de hogere graad van het deeltijds kunstonderwijs: minimum 20 en maximum 22 lesuren;<br />3° voor de personeelsleden die sedert 1 april 1972 genieten van een salarisschaal in overgangstelsel in het deeltijds kunstonderwijs: 24 lesuren.
+§ 1. Vanaf het schooljaar 1990-1991 wordt het minimum en maximum aantal lesuren vereist voor een ambt met volledige prestaties voor de in artikel 1 bedoelde personeelsleden vastgesteld als volgt:<br />1° voor het onderwijs van de kunstvakken en voor het ambt van begeleider in de lagere en middelbare graad van het deeltijds kunstonderwijs: 22 lesuren;<br />2° voor het onderwijs van de kunstvakken en voor het ambt van begeleider in de hogere graad van het deeltijds kunstonderwijs: minimum 20 en maximum 22 lesuren;<br />3° voor de personeelsleden die sedert 1 april 1972 genieten van een salarisschaal in overgangstelsel in het deeltijds kunstonderwijs: 24 lesuren.<br /><br />§ 2. Het personeelslid dat zitting heeft in een lokaal inspraakorgaan dat opgericht is door of krachtens een wet of een decreet, krijgt dienstvrijstelling om de vergaderingen van dat inspraakorgaan bij te wonen. De dienstvrijstelling wordt gelijkgesteld met een periode van dienstactiviteit.
 
 ### ART. 13.
 
