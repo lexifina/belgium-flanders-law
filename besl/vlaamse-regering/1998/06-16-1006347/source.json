@@ -2,16 +2,16 @@
   "codex_id": 1006347,
   "title": "Besluit van de Vlaamse Regering van 1998-06-16 tot regeling van de erkenning en de subsidiëring van de centra voor ontwikkelingsstoornissen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006347/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "be5b0eea3fbe727e8513350db7b004f6ba588ccf9fadd8fe88dafa97c49b7d11",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006347/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "313bc02c58dc9198ab87c9e4195d9c8536467c901934546272954b1f2fada208",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006347&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2011-01-01",
   "made": "1998-06-16",
   "gazette": "1998-10-03",
   "numac": 1998036066,
   "document_start": "1998-01-01",
   "document_end": null,
-  "in_force": "2008-01-01",
+  "in_force": "2011-01-01",
   "article_versions": 30,
-  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
