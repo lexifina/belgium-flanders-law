@@ -246,7 +246,7 @@ In deze titel van het decreet wordt verstaan onder:<br />1° inrichting: een inr
 
 ### ART. 3.2.1.
 
-§ 1. De exploitanten van inrichtingen van eerste klasse dienen een milieucoördinator aan te stellen. De Vlaamse regering kan vrijstelling verlenen voor bepaalde categorieën van inrichtingen.<br /><br />§ 2. De Vlaamse regering kan, door middel van sectorale voorwaarden, exploitanten van andere door haar aangewezen categorieën van inrichtingen verplichten een milieucoördinator aan te stellen.<br /><br />§ 3. De vergunningverlenende overheid kan exploitanten van niet in § 1 of § 2 bedoelde inrichtingen de verplichting opleggen een milieucoördinator aan te stellen indien de aard van de inrichting, de aard van de milieueffecten die ervan uitgaan of de plaats waar ze gelegen is of uitgeoefend wordt, dit verantwoordt.<br /><br />§ 4. De milieucoördinator kan een werknemer zijn van de exploitant of een persoon die geen werknemer is van de exploitant.<br /><br />Wanneer dit geen afbreuk doet aan een goede taakvervulling kan, met instemming van het door de Vlaamse regering aangewezen bestuur, voor twee of meer inrichtingen gezamenlijk een milieucoördinator worden aangesteld of kan een beroep worden gedaan op de diensten van een persoon die geen werknemer is van de exploitant.<br /><br />Dergelijke instemming is evenwel niet vereist wanneer het de aanstelling betreft van een milieucoördinator voor verschillende inrichtingen tegelijk die samen een bedrijfslocatie vormen onder controle van eenzelfde persoon of rechtspersoon.<br /><br />§ 5. Wanneer verschillende inrichtingen samen naar het oordeel van de vergunningverlenende overheid een milieutechnische eenheid vormen, kan zij de aanstelling van een gezamenlijke milieucoördinator verplicht stellen.<br /><br />Het feit dat verschillende inrichtingen een verschillend eigendomsstatuut hebben, belet niet dat zij een milieutechnische eenheid vormen.  <span class="reference">(ing. decr. 19 april 1995, art. 2, I: 4 juli 1996)</span> ]
+§ 1. De exploitanten van inrichtingen van eerste klasse dienen een milieucoördinator aan te stellen. De Vlaamse regering kan vrijstelling verlenen voor bepaalde categorieën van inrichtingen.<br /><br />§ 2. De Vlaamse regering kan, door middel van sectorale voorwaarden, exploitanten van andere door haar aangewezen categorieën van inrichtingen verplichten een milieucoördinator aan te stellen.<br /><br />§ 3. De vergunningverlenende overheid kan exploitanten van niet in § 1 of § 2 bedoelde inrichtingen de verplichting opleggen een milieucoördinator aan te stellen indien de aard van de inrichting, de aard van de milieueffecten die ervan uitgaan of de plaats waar ze gelegen is of uitgeoefend wordt, dit verantwoordt.<br /><br />§ 4. De milieucoördinator kan een werknemer zijn van de exploitant of een persoon die geen werknemer is van de exploitant.<br /><br />Wanneer dit geen afbreuk doet aan een goede taakvervulling kan, met instemming van het door de Vlaamse regering aangewezen bestuur, voor twee of meer inrichtingen gezamenlijk een milieucoördinator worden aangesteld of kan een beroep worden gedaan op de diensten van een persoon die geen werknemer is van de exploitant.<br /><br />Dergelijke instemming is evenwel niet vereist wanneer het de aanstelling betreft van een milieucoördinator voor verschillende inrichtingen tegelijk die samen een bedrijfslocatie vormen onder controle van eenzelfde persoon of rechtspersoon.<br /><br />§ 5. Wanneer verschillende inrichtingen samen naar het oordeel van de vergunningverlenende overheid een milieutechnische eenheid vormen, kan zij de aanstelling van een gezamenlijke milieucoördinator verplicht stellen.<br /><br />Het feit dat verschillende inrichtingen een verschillend eigendomsstatuut hebben, belet niet dat zij een milieutechnische eenheid vormen. <br /><br />§ 6. De instemming wordt verleend als voldaan is aan de voorwaarden die door de Vlaamse Regering zijn vastgesteld en die voorafgaand aan de instemmingsaanvraag zijn bekendgemaakt.<br /><br />§ 7. De Vlaamse Regering stelt de nadere regels vast voor de aanvraag, weigering of verlening en bekendmaking van de instemmingen. Op zijn verzoek wordt de aanvrager van een instemming gehoord door de door de Vlaamse Regering aangewezen overheid. De voormelde overheid kan eveneens de aanvrager horen.<br /><br />§ 8. De Vlaamse Regering kan bepalen dat de instemming wordt geacht stilzwijgend te zijn verkregen als door de overheid geen beslissing aan de aanvrager wordt betekend binnen de door haar vastgestelde termijn.<br /><br />De Vlaamse Regering kan daartoe alleen besluiten nadat ze tot de vaststelling is gekomen dat een belangenafweging door de overheid, vermeld in § 4, bij haar beslissingen over aanvragen tot instemming met de meervoudige aanstelling van milieucoördinatoren, niet in alle gevallen noodzakelijk is om dwingende reden van algemeen belang, met inbegrip van een rechtmatig belang van een derde partij.<br /><br />§ 9. De Vlaamse Regering kan voor het gebruik van de instemmingen gebruikseisen vaststellen.<br /><br />§ 10. Met behoud van de toepassing van de bepalingen van titel XVI kan de door de Vlaamse Regering aangewezen overheid de instemming schorsen of opheffen.<br /><br />De Vlaamse Regering kan bepalen in welke gevallen tot schorsing of opheffing kan worden overgegaan. De exploitanten en de milieucoördinator worden gehoord op hun verzoek. De Vlaamse Regering stelt de nadere regels vast voor de bij schorsing of opheffing van de instemming te volgen procedure.<br /><br />§ 11. Een persoon die geen werknemer is van de exploitant en met toepassing van § 4 in twee of meer inrichtingen die samen geen milieutechnische eenheid vormen, als milieucoördinator wil worden aangesteld, moet voorafgaand aan de aanstelling als milieucoördinator zijn erkend.<br /><br />Op de erkenning als milieucoördinator zijn de bepalingen van hoofdstuk IIIbis van het decreet van 28 juni 1985 betreffende de milieuvergunning van toepassing.
 
 ### ART. 3.2.2.
 
@@ -272,41 +272,31 @@ De milieucoördinator die een werknemer is van de exploitant, mag geen nadeel on
 
 ### ART. 3.3.2.
 
-§ 1. De Vlaamse regering wijst door middel van sectorale (ing. decr. 19 april 1995, art. 2, I: 14 juni 1995) ] [milieuvoorwaarden (verv. decr. 6 februari 2004, art. 6, I: 9 maart 2004) ] [de categorieën van inrichtingen aan die onderworpen worden aan een periodieke dan wel eenmalige (ing. decr. 19 april 1995, art. 2, I: 14 juni 1995) ][decretaal verplichte (ing. decr. 6 februari 2004, art. 6, I: 9 maart 2004)] [milieuaudit. (ing. decr. 19 april 1995, art. 2, I: 14 juni 1995) ]<br>
+§ 1. De Vlaamse regering wijst door middel van sectorale milieuvoorwaarden de categorieën van inrichtingen aan die onderworpen worden aan een periodieke dan wel eenmalige decretaal verplichte milieuaudit.<br>
 <br>
-[De Vlaamse regering kan evenwel inrichtingen die over een bedrijfsintern milieuzorgsysteem beschikken dat gelijkaardige waarborgen biedt onder door haar bepaalde voorwaarden vrijstellen van die verplichting. (ing. decr. 6 februari 2004, art. 6, I: 9 maart 2004) ]<br>
+De Vlaamse regering kan evenwel inrichtingen die over een bedrijfsintern milieuzorgsysteem beschikken dat gelijkaardige waarborgen biedt onder door haar bepaalde voorwaarden vrijstellen van die verplichting.<br>
 <br>
-§ 2. [De (ing. decr. 19 april 1995, art. 2, I: 14 juni 1995) ] [decretaal verplichte (ing. decr. 6 februari 2004, art. 6, I: 9 maart 2004) ] [milieuaudit betreft een systematische, gedocumenteerde en objectieve evaluatie van het beheer, de organisatie en de uitrusting van de betrokken inrichting of activiteit op het gebied van de bescherming van het milieu.<br>
+§ 2. De decretaal verplichte milieuaudit betreft een systematische, gedocumenteerde en objectieve evaluatie van het beheer, de organisatie en de uitrusting van de betrokken inrichting of activiteit op het gebied van de bescherming van het milieu.<br>
 <br>
-§ 3. De (ing. decr. 19 april 1995, art. 2, I: 14 juni 1995) ] [decretaal verplichte (ing. decr. 6 februari 2004, art. 6, I: 9 maart 2004) ] [milieuaudit heeft betrekking op:<br>
-<br>
+§ 3. De decretaal verplichte milieuaudit heeft betrekking op:<br>
 - de emissies en immissies, evenals de gevolgen ervan voor de milieukwaliteit;<br>
-<br>
 - het energiebeheer;<br>
-<br>
 - het beheer van grondstoffen;<br>
-<br>
-- de preventie en het beheer van afvalstoffen; (ing. decr. 19 april 1995, art. 2, I: 14 juli 1995) ]<br>
-<br>
-[- bodembeheer (ing. decr. 6 februari 2004, art. 6, I: 9 maart 2004) ]<br>
-<br>
+- de preventie en het beheer van afvalstoffen;<br>
+- bodembeheer<br>
 - de produktiemethodes en het produktbeheer;<br>
-<br>
 - de externe veiligheid;<br>
-<br>
 - de voorlichting, opleiding en participatie van het personeel in de bedrijfsinterne milieuzorg;<br>
-<br>
 - de externe voorlichting;<br>
+- de voorstellen en adviezen van de milieucoördinator, zoals bedoeld in artikel 3.2.2, § 3, en de opvolging die hieraan gegeven is.<br>
 <br>
-- de voorstellen en adviezen van de milieucoördinator, zoals bedoeld in artikel 3.2.2, § 3, en de opvolging die hieraan gegeven is. (ing. decr. 19 april 1995, art. 2, I: 14 juli 1995) ]<br>
+De Vlaamse regering kan nadere eisen stellen betreffende de inhoud van de decretaal verplichte milieuaudit. Ze kan in dat verband ook haar goedkeuring verlenen aan richtlijnen waarvan het gebruik aanbevolen wordt.<br>
 <br>
-[De Vlaamse regering kan nadere eisen stellen betreffende de inhoud van de decretaal verplichte milieuaudit. Ze kan in dat verband ook haar goedkeuring verlenen aan richtlijnen waarvan het gebruik aanbevolen wordt. (ing. decr. 6 februari 2004, art. 6, I: 9 maart 2004) ]<br>
+§ 4. De Vlaamse regering bepaalt welke elementen van de decretaal verplichte milieuaudit moeten medegedeeld worden aan het door de Vlaamse regering aangewezen bestuur.<br>
 <br>
-[§ 4. De Vlaamse regering bepaalt welke elementen van de (ing. decr. 19 april 1995, art. 2, I: 14 juli 1995) ] [decretaal verplichte (ing. decr. 6 februari 2004, art. 6, I: 9 maart 2004) ] [milieuaudit moeten medegedeeld worden aan het door de Vlaamse regering aangewezen bestuur. (ing. decr. 19 april 1995, art. 2, I: 14 juli 1995) ]<br>
+§ 5. Voor de validatie van de decretaal verplichte milieuaudit wordt een beroep gedaan op een milieuverificateur die erkend is met toepassing van hoofdstuk IIIbis van het decreet van 28 juni 1985 betreffende de milieuvergunning.<br>
 <br>
-§ 5. [De decretaal verplichte milieuaudit moet gevalideerd worden door een daarvoor erkende of geaccrediteerde milieuverificateur. De Vlaamse regering kan nadere eisen stellen betreffende hun validatiewerkzaamheden. Ze kan in dat verband ook haar goedkeuring verlenen aan richtlijnen waarvan het gebruik aanbevolen wordt. (verv. decr. 6 februari 2004, art. 6, I: 9 maart 2004) ]<br>
-<br>
-[§ 6. In voorkomend geval bepaalt de Vlaamse regering de erkenningscriteria en -voorwaarden waaraan een in § 5, bedoelde milieuverificateur moet voldoen en de wijze waarop hij erkend wordt. De Vlaamse regering bepaalt ook op welke wijze toezicht gehouden wordt op zijn werkzaamheden. (ing. decr. 6 februari 2004, art. 6, I: 9 maart 2004) ]
+§ 6. ....
 
 ### ART. 3.3.3.
 
@@ -854,7 +844,7 @@ Het definitieve vergunningsbesluit betreffende het project wordt opgestuurd aan 
 
 ### ART. 4.6.1.
 
-§ 1. Natuurlijke personen en publiekrechtelijke of privaatrechtelijke rechtspersonen kunnen worden erkend:<br /><br />1° voor het opstellen van milieueffectrapporten, als:<br /><br />a) coördinator die een team van erkende MER-deskundigen leidt;<br /><br />b) deskundige voor het meewerken in teamverband aan plan- en/of project-MER's;<br /><br />2° voor het opstellen van veiligheidsrapporten, als deskundige voor het opstellen van ruimtelijke veiligheidsrapporten en/of omgevingsveiligheidsrapporten.<br /><br />§ 2. De erkenning geldt voor een periode van maximaal vijf jaar en kan steeds worden ingetrokken als aan niet meer dan één of meer erkenningsvoorwaarden is voldaan of als de deskundige en/of coördinator zijn verplichtingen krachtens deze titel niet reglementair of objectief uitvoert.<br /><br />§ 3. De voorwaarden voor erkenning hebben onder meer betrekking op:<br /><br />1° de opleiding en/of ervaring van de aanvrager;<br /><br />2° de beschikking over of toegang tot de relevante informatie, geschikte faciliteiten en eventuele omkadering;<br /><br />3° in voorkomend geval de kwaliteit van de uitgevoerde rapportages.<br /><br />§ 4. De Vlaamse regering kan bijkomende voorwaarden voor de erkenning bepalen en nadere regelen vaststellen inzake het verlenen en het intrekken van de erkenning.  <span class="reference">(ing. decr. 18 december 2002, art. 4, I: 13 februari 2003)</span> ]
+Op de erkenning van deskundigen en coördinatoren zijn de bepalingen van hoofdstuk IIIbis van het decreet van 28 juni 1985 betreffende de milieuvergunning, van toepassing.
 
 ## [AFDELING 2 DE RICHTLIJNENBOEKEN, EVALUATIE EN MONITORING (ing. decr. 18 december 2002, art. 4)]
 
