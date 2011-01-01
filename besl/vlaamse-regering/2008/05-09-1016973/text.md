@@ -295,7 +295,7 @@ De toestemming en de bijhorende subsidiëring voor een lokale dienst is mogelijk
 
 ### ART. 56.
 
-De subsidiebedragen, vermeld in artikel 43, 44, 46 en 48, worden elk jaar op 1 januari verhoogd met de procentuele stijging van de gezondheidsindex tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar. <br /><br />
+De subsidiebedragen, vermeld in artikel 43, 44, 46 en 48, worden elk jaar op 1 januari verhoogd met de procentuele stijging van de gezondheidsindex tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar. In 2011 worden de bedragen, vermeld in dit besluit, op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het kalenderjaar 2008 en 1 november van het kalenderjaar 2010.<br /><br />
 
 ### ART. 57.
 
