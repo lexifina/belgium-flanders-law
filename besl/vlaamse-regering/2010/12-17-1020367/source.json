@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020367,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-17 tot erkenning en subsidiëring van de vzw Steunpunt Nazorg Adoptie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020367/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "4f38c1cd195f8a59e221c30fb2d727219b6bb52f6bbfdaac01727004ee13cb68",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020367&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2010-12-17",
+  "gazette": "0001-01-01",
+  "numac": 0,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
