@@ -2,16 +2,16 @@
   "codex_id": 1014520,
   "title": "Ministerieel besluit van 2006-05-05 tot aanwijzing van de bevoegde ambtenaren in uitvoering van het besluit van de Vlaamse Regering van 11 maart 2005 tot vaststelling van de eisen op het vlak van de energieprestaties en het binnenklimaat van gebouwen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014520/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "4d580a8bb1b6174913e3fb1b46063a1e2092ea9ff62c97f4e7dd7c7879897ff7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014520/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "658c928404bee56bb0cbfccfca224594837d591fb139791dfcdf346b3fdf9fe3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014520&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-01-01",
   "made": "2006-05-05",
   "gazette": "2006-05-16",
   "numac": 2006035763,
   "document_start": "2006-05-16",
   "document_end": "2010-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2011-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
