@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019849,
+  "title": "Ministerieel besluit van 2010-12-20 houdende de goedkeuring van het compendium voor de monsterneming, meting en analyse in het kader van bodembescherming (BOC), versie 1.1",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019849/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "c1c72693a9fb5d4940d1663ee35822c2d2c216e0bd1c149aae252a25450d2033",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019849&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2010-12-20",
+  "gazette": "2010-12-29",
+  "numac": 2010036032,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
