@@ -2,16 +2,16 @@
   "codex_id": 1017304,
   "title": "Ministerieel besluit van 2008-11-07 met betrekking tot de vaststelling van de referentiehuren voor de sociale huurprijsberekening",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017304/VolledigDocument?datum=2008-11-29",
-  "source_sha256": "3bea0619de2b62d2012e9fee305192aae493628883504ebb3533d277be1d17c6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017304/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "2933beb6dd2e905e52149a9e5d9e36d89cf279e8e9584226df4eda477ab705e3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017304&param=informatie",
-  "as_of": "2008-11-29",
+  "as_of": "2011-01-01",
   "made": "2008-11-07",
   "gazette": "2008-11-19",
   "numac": 2008036324,
   "document_start": "2008-11-29",
   "document_end": null,
-  "in_force": "2008-11-29",
+  "in_force": "2011-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2008-11-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
