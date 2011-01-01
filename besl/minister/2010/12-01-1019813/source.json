@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019813,
+  "title": "Ministerieel besluit van 2010-12-01 tot wijziging van de samenstelling van de natuurinrichtingsprojectcomités voor de natuurinrichtingsprojecten Bergerven, Zwarte Beek, Averbode Bos en Heide, De Blankaart, Osbroek-Gerstjens, Latemse Meersen en Merelbeekse Scheldemeersen en tot wijziging van de samenstelling van de natuurinrichtingsprojectcommissie voor het natuurinrichtingsproject Zwarte Beek",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019813/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "9c48efb9df2fa3e5fa638b824cdb00ff3377c3cd979933b870d9c676df6361cb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019813&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2010-12-01",
+  "gazette": "2010-12-22",
+  "numac": 2010035952,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
