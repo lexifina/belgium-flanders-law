@@ -2,16 +2,16 @@
   "codex_id": 1019031,
   "title": "Besluit van de Vlaamse Regering van 2010-04-23 tot bepaling van de voorwaarden voor de toekenning van subsidies aan gemeentebesturen die een brandveiligheidsbeleid voeren als onderdeel van hun jeugdwerkbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019031/VolledigDocument?datum=2010-05-28",
-  "source_sha256": "bfaf4864955d80a0ee781626b1132e31fca3f9511ff962c554865b8d359e3dcd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019031/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "a5b38f08d2e60e1c4f5a6242457a547a2116adbf7be4c679dcedae7de204cca8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019031&param=informatie",
-  "as_of": "2010-05-28",
+  "as_of": "2011-01-01",
   "made": "2010-04-23",
   "gazette": "2010-05-28",
   "numac": 2010202909,
   "document_start": "2010-05-28",
   "document_end": "2013-12-31",
-  "in_force": "2010-05-28",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2010-05-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2011-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }

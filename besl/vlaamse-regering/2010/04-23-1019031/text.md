@@ -26,6 +26,10 @@ Het krediet, dat krachtens artikel 8, § 2bis, 3°, van het decreet van 14 febru
 
 ## HOOFDSTUK 3 Slotbepalingen
 
+### ART. 5.
+
+Het besluit van de Vlaamse Regering van 26 januari 2007 ter uitvoering van het decreet van 14 februari 2003 houdende de ondersteuning en de stimulering van het gemeentelijk, het intergemeentelijk en het provinciaal jeugd- en jeugdwerkbeleid, inzake de subsidiëring van gemeentebesturen die een jeugdwerkinfrastructuurbeleid voeren als onderdeel van het jeugdwerkbeleid wordt opgeheven. <br /><br />
+
 ### ART. 6.
 
 Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 5, dat in werking treedt op 1 januari 2011.<br /><br />
