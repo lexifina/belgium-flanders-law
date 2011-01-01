@@ -2,16 +2,16 @@
   "codex_id": 1007603,
   "title": "Besluit van de Vlaamse Regering van 2000-06-08 tot uitvoering van het decreet van 13 april 1999 met betrekking tot de private arbeidsbemiddeling in het Vlaamse Gewest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007603/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "81d58f92bfcd086124a5434eb455b42710e0f326accce7c8b40b656da635f6a8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007603/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "be2cbb0a5db745337c3d5d2184dfd7b29b4553aa22b9d5d352058a89d73779f1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007603&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-01-01",
   "made": "2000-06-08",
   "gazette": "2000-11-11",
   "numac": 2000036084,
   "document_start": "2000-09-01",
   "document_end": "2010-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2011-01-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
