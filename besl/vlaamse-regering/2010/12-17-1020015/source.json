@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020015,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-17 tot wijziging van het besluit van de Vlaamse Regering van 6 juli 2007 tot uitvoering van het decreet van 7 juli 2006 houdende toekenning van een rentetoelage voor ondernemingen die lijden onder de verstoorde bereikbaarheid ten gevolge van hinder door openbare werken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020015/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "903c1ea6c2fb9dd69b3bd9a6693fec9d4af29dfd9de120f7e324cc57a2dc55ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020015&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2010-12-17",
+  "gazette": "2011-02-10",
+  "numac": 201135122,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
