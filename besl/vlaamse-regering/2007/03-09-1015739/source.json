@@ -2,16 +2,16 @@
   "codex_id": 1015739,
   "title": "Besluit van de Vlaamse Regering van 2007-03-09 tot uitvoering van het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015739/VolledigDocument?datum=2010-10-09",
-  "source_sha256": "91569780942a433a8a0cf9427a11bde7471ecbca2f7cb93d553966ecbd4e0cb9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015739/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "3e13bf6bafe1da14cf0cd5e3815e5f18249ccc3e69dff61edb4dc631171de03f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015739&param=informatie",
-  "as_of": "2010-10-09",
+  "as_of": "2011-01-01",
   "made": "2007-03-09",
   "gazette": "2007-04-27",
   "numac": 2007035582,
   "document_start": "2007-04-27",
   "document_end": null,
-  "in_force": "2010-10-09",
+  "in_force": "2011-01-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2010-10-09; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }

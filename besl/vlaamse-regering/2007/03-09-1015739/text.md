@@ -626,703 +626,352 @@ Enkel de teelten vermeld in de hiernavolgende tabel, komen in aanmerking als eer
 
 ### ART. 11.
 
-<p>§ 1. De omrekening van het bruto-gehalte stikstof in dierlijke mest bij uitscheiding naar het netto-gehalte van stikstof in dierlijke mest, als vermeld in artikel 27, § 5, en 28, § 2, van het Mestdecreet gebeurt, voor de dieren van de diersoorten Rundvee, Varkens en Pluimvee, op basis van de door de landbouwer via zijn aangifte, als vermeld in artikel 23 van het Mestdecreet, voor elk van de gehouden diercategorieën, meegedeelde gegevens aangaande het type stal waarin de dieren van de betrokken diercategorieën werden gehouden.<br>
+<p>§ 1. De omrekening van het brutogehalte stikstof in dierlijke mest bij uitscheiding naar het nettogehalte van stikstof in dierlijke mest op het ogenblik van de afzet, vermeld in artikel 27, § 5, en 28, § 2, van het Mestdecreet, gebeurt, voor de dieren van de diersoorten Rundvee, Varkens en Pluimvee, op basis van de door de landbouwer via zijn aangifte, vermeld in artikel 23 van het Mestdecreet, voor elk van de gehouden diercategorieën, meegedeelde gegevens aangaande het type stal waarin de dieren van de betrokken diercategorieën werden gehouden.<br>
 <br>
-Landbouwers die een gedeelte van hun dieren nooit in stallen houden, mogen voor de dieren, die nooit in stallen worden gehouden, geen stikstofverliezen in rekening brengen. Voor deze dieren is het bruto-gehalte stikstof in dierlijke mest bij uitscheiding gelijk aan het netto-gehalte stikstof in dierlijke mest, als vermeld in artikel 27, § 5, en 28, § 2, van het Mestdecreet.<br>
+Landbouwers die een gedeelte van hun dieren nooit in stallen houden, mogen voor de dieren, die nooit in stallen worden gehouden, geen stikstofverliezen in rekening brengen. Voor deze dieren is het brutogehalte stikstof in dierlijke mest bij uitscheiding gelijk aan het nettogehalte stikstof in dierlijke mest op het ogenblik van de afzet, vermeld in artikel 27, § 5, en 28, § 2, van het Mestdecreet.<br>
 <br>
-Voor de verschillende diercategorieën van de diersoort Rundvee, met uitzondering van de diercategorie mestkalveren, worden de totale stikstofverliezen uitgedrukt als een percentage van de uitscheidingsnormen per dier en per jaar.<br>
+Voor de verschillende diercategorieën van de diersoort Rundvee, met uitzondering van de diercategorie Mestkalveren, worden de totale stikstofverliezen uitgedrukt als een percentage van de uitscheidingsnormen per dier en per jaar.<br>
 <br>
-Voor de diercategorie mestkalveren evenals voor de verschillende diercategorieën van de diersoorten Varkens of Pluimvee, worden de totale stikstofverliezen uitgedrukt in kg stikstof per dier en per jaar.<br>
+Voor de diercategorie Mestkalveren evenals voor de verschillende diercategorieën van de diersoorten Varkens of Pluimvee, worden de totale stikstofverliezen uitgedrukt in kg stikstof per dier en per jaar.<br>
 <br>
 De volgende stikstofverliezen worden aldus onderscheiden :<br>
-1° voor de dieren van de diercategorie mestkalveren : 2,29 kg N per dier en per jaar, ongeacht het staltype waarin de betrokken dieren werden gehouden;<br>
+<br>
+1° voor de dieren van de diercategorie Mestkalveren : 2,29 kg N per dier en per jaar, ongeacht het staltype waarin de betrokken dieren werden gehouden;<br>
+<br>
 2° voor de dieren van de diersoort Runderen, met uitzondering van de mestkalveren :</p>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:437.4pt">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:17pt; width:329.4pt">
-			<p>Runderen gespecificeerd per staltype<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:17pt; width:108pt">
-			<p>Procentueel stikstofverlies</p>
-			</td>
+			<td>Runderen gespecificeerd per staltype</td>
+			<td>Procentueel stikstofverlies</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:329.4pt">
-			<p>Runderen gehouden in stallen waar amper stalmest geproduceerd wordt</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:108pt">
-			<p>10 %</p>
-			</td>
+			<td>Runderen gehouden in stallen waar amper stalmest geproduceerd wordt</td>
+			<td>10 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:329.4pt">
-			<p>Runderen gehouden in stallen waar deels stalmest geproduceerd wordt</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:108pt">
-			<p>15 %</p>
-			</td>
+			<td>Runderen gehouden in stallen waar deels stalmest geproduceerd wordt</td>
+			<td>15 %</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:329.4pt">
-			<p>Runderen gehouden in stallen waar bijna uitsluitend stalmest geproduceerd wordt</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
-			<p>20 %</p>
-			</td>
+			<td>Runderen gehouden in stallen waar bijna uitsluitend stalmest geproduceerd wordt</td>
+			<td>20 %</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>3° voor de dieren van de diersoort Varkens :</p>
-
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:437.4pt">
-	<tbody>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:161.4pt">
-			<p>Diercategorie</p>
-			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:168pt">
-			<p>Staltype</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:108pt">
-			<p>Totaal stikstofverlies</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
-			<p>kg N/dier/jaar</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:161.4pt">
-			<p>Biggen (tot 20 kg)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:168pt">
-			<p>Traditioneel –mengmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
-			<p>0,52</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:168pt">
-			<p>Traditioneel –stalmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:108pt">
-			<p>1,01</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:168pt">
-			<p>Emissiearm –mengmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:108pt">
-			<p>0,26</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:168pt">
-			<p>Emissiearm –stalmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:108pt">
-			<p>0,40</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:161.4pt">
-			<p>Vleesvarken (&lt;110 kg) -tweefase voedering</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:168pt">
-			<p>Traditioneel –mengmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:108pt">
-			<p>2,93</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:168pt">
-			<p>Traditioneel –stalmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:108pt">
-			<p>5,48</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:168pt">
-			<p>Emissiearm –mengmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:108pt">
-			<p>1,55</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:168pt">
-			<p>Emissiearm –stalmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:108pt">
-			<p>2,25</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:161.4pt">
-			<p>Vleesvarkens (&lt;110 kg) -driefase voedering</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:168pt">
-			<p>Traditioneel –mengmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:108pt">
-			<p>2,92</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:168pt">
-			<p>Traditioneel –stalmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:108pt">
-			<p>5,29</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:168pt">
-			<p>Emissiearm –mengmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:108pt">
-			<p>1,53</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:168pt">
-			<p>Emissiearm –stalmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:108pt">
-			<p>2,19</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:161.4pt">
-			<p>Beren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:168pt">
-			<p>Traditioneel –mengmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:108pt">
-			<p>4,83</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:168pt">
-			<p>Traditioneel –stalmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:108pt">
-			<p>9,71</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:161.4pt">
-			<p>Zeugen, inclusief biggen &lt; 7kg</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:168pt">
-			<p>Traditioneel –mengmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
-			<p>4,31</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:168pt">
-			<p>Traditioneel –stalmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
-			<p>5,63</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:168pt">
-			<p>Emissiearm –mengmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
-			<p>2,80</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:168pt">
-			<p>Emissiearm –stalmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
-			<p>4,14</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:161.4pt">
-			<p>Andere varkens</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:168pt">
-			<p>Traditioneel –mengmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
-			<p>3,76</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:168pt">
-			<p>Traditioneel –stalmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
-			<p>5,10</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:168pt">
-			<p>Emissiearm –mengmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
-			<p>2,62</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:168pt">
-			<p>Emissiearm –stalmest</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:108pt">
-			<p>3,96</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>4° voor de dieren van de diersoort Pluimvee :</p>
-
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:431.4pt">
-	<tbody>
-		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:14.65pt; width:137.4pt">
-			<p>Diercategorie</p>
-			</td>
-			<td rowspan="3" style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.65pt; width:210pt">
-			<p>Staltype</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.65pt; width:84pt">
-			<p>Totaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.65pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.9pt; width:84pt">
-			<p>stikstofverlies</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.9pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:84pt">
-			<p>kg N/dier/jaar</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.2pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td rowspan="6" style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:137.4pt">
-			<p>Legkippen, inclusief grootouderdieren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:210pt">
-			<p>Batterij, emissiearm, systeem P-3.1 en P-3.2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:84pt">
-			<p>0,141</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.2pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:210pt">
-			<p>Batterij, emissiearm, systeem P-3.3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:84pt">
-			<p>0,181</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:210pt">
-			<p>Batterij, emissiearm, systeem P-3.4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:84pt">
-			<p>0,163</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:210pt">
-			<p>Batterij, emissiearm, systeem P-3.5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:84pt">
-			<p>0,166</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:210pt">
-			<p>Batterij, overige staltypes</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:84pt">
-			<p>0,181</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.5pt; width:210pt">
-			<p>Grondhuisvesting, emissiearm, systeem P-4.1, P-4.2 en P-4.3</p>
-			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.5pt; width:84pt">
-			<p>0,222</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.5pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.5pt; vertical-align:top; width:137.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.5pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:210pt">
-			<p>Grondhuisvesting, overige staltypes</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:84pt">
-			<p>0,368</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td rowspan="7" style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; vertical-align:top; width:137.4pt">
-			<p>Opfokpoeljen legkippen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:210pt">
-			<p>Batterij, emissiearm, systeem P-1.1 en P-1.2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:84pt">
-			<p>0,075</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:210pt">
-			<p>Batterij, emissiearm, systeem P-1.3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:84pt">
-			<p>0,099</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:210pt">
-			<p>Batterij, emissiearm, systeem P-1.4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:84pt">
-			<p>0,088</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:210pt">
-			<p>Batterij, emissiearm, systeem P-1.5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:84pt">
-			<p>0,091</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:210pt">
-			<p>Batterij, niet-emissiearme staltypes</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:84pt">
-			<p>0,098</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:210pt">
-			<p>Grondhuisvesting, emissiearm, systeem P-2.1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:84pt">
-			<p>0,124</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:210pt">
-			<p>Grondhuisvesting, niet-emissiearme staltypes</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:84pt">
-			<p>0,214</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.15pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:137.4pt">
-			<p>Slachtkuikens</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:210pt">
-			<p>Ongeacht het staltype</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:84pt">
-			<p>0,169</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:137.4pt">
-			<p>Opfokpoeljen slachtkuikenouderdieren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:210pt">
-			<p>Ongeacht het staltype</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:84pt">
-			<p>0,308</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.4pt">
-			<p>Slachtkuikenouderdieren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:210pt">
-			<p>Emissiearm, systeem P-5.1, P-5.2, P-5.3, P-5.4 en P-5.5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:84pt">
-			<p>0,400</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.2pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:14.25pt; vertical-align:top; width:137.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.25pt; width:210pt">
-			<p>Overige staltypes</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.25pt; width:84pt">
-			<p>0,700</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:137.4pt">
-			<p>Kalkoen slachtdieren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:210pt">
-			<p>Ongeacht het staltype</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:84pt">
-			<p>0,798</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:137.4pt">
-			<p>Kalkoen ouderdieren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:210pt">
-			<p>Ongeacht het staltype</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:84pt">
-			<p>0,766</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:137.4pt">
-			<p>Struisvogel fokdieren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:210pt">
-			<p>Ongeacht het staltype</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:84pt">
-			<p>4,579</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.15pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:137.4pt">
-			<p>Struisvogel slachtdieren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:210pt">
-			<p>Ongeacht het staltype</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:84pt">
-			<p>2,686</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.25pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:137.4pt">
-			<p>Jonge struisvogels (0-3 maand)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:210pt">
-			<p>Ongeacht het staltype</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:84pt">
-			<p>0,737</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:14.2pt">&nbsp;</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>§ 2. Voor de omrekening van het bruto-gehalte stikstof in dierlijke mest bij uitscheiding naar het netto-gehalte van stikstof in dierlijke mest als vermeld in artikel 27, § 5, en 28, § 2, van het Mestdecreet, voor de dieren van de diersoorten Paarden of Andere, worden voor de stikstofverliezen de volgende cijfers, uitgedrukt in kg N per dier en per jaar, gehanteerd :</p>
-
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:425.4pt">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:17pt; width:275.4pt">
-			<p>Diercategorie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:17pt; width:150pt">
-			<p>Totaal stikstofverlies</p>
-
-			<p>kg N/dier/jaar</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:275.4pt">
-			<p>Paarden (&gt; 600 kg) 10,46</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:150pt">
-			<p>10,46</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:275.4pt">
-			<p>Paarden en pony’s (200-600 kg)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:150pt">
-			<p>7,47</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:275.4pt">
-			<p>Paarden en pony’s (&lt; 200 kg)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:150pt">
-			<p>4,57</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:275.4pt">
-			<p>Konijnen gesloten bedrijven (per vrouwelijk konijn)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:150pt">
-			<p>3,02</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:14.25pt; width:275.4pt">
-			<p>Konijnen vetmesterij (per dier)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.25pt; width:150pt">
-			<p>0,26</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:275.4pt">
-			<p>Konijnen kwekerij (per vrouwelijk konijn)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:150pt">
-			<p>1,43</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:275.4pt">
-			<p>Geiten jonger dan 1 jaar</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:150pt">
-			<p>1,39</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:275.4pt">
-			<p>Geiten ouder dan 1 jaar</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.15pt; width:150pt">
-			<p>3,31</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:275.4pt">
-			<p>Schapen jonger dan 1 jaar</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:150pt">
-			<p>1,06</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:275.4pt">
-			<p>Schapen ouder dan 1 jaar</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:150pt">
-			<p>1,75</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:275.4pt">
-			<p>Nertsen gesloten bedrijven (per moederdier)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:150pt">
-			<p>1,71</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:275.4pt">
-			<p>Nertsen vetmesterij (per dier)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.25pt; width:150pt">
-			<p>0,55</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:275.4pt">
-			<p>Nertsen kwekerij (per moederdier)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:150pt">
-			<p>0,63</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p><br>
-§ 3. Voor de toepassing van de tabel, vermeld in § 1, vijfde lid, 2°, wordt verstaan onder :<br>
-1° Runderen gehouden in stallen waar amper stalmest geproduceerd wordt : runderen, met uitzondering van mestkalveren, gehouden in stallen waar 10 % of minder van de in deze stal geproduceerde mest stalmest is;<br>
-2° Runderen gehouden in stallen waar bijna uitsluitend stalmest geproduceerd wordt : runderen, met uitzondering van mestkalveren, gehouden in stallen waar 90 % of meer van de in deze stal geproduceerde mest stalmest is;<br>
-3° Runderen gehouden in stallen waar deels stalmest geproduceerd wordt : runderen gehouden in stallen die niet onder 1° of 2° vallen.<br>
 <br>
-Voor de toepassing van de tabel, vermeld in § 1, vijfde lid, 3°, kan :<br>
-1° het verliescijfer voor Emissiearm-stalmest enkel toegepast worden voor varkens gehouden in stallen waar minstens 25 % van de geproduceerde mest stalmest is, en die voorkomen op de lijst van ammoniakemissiearme stalsystemen, als vermeld in punt 1. V-lijst : Lijst van reductietechnieken voor varkens, van Bijlage I bij het Ministerieel besluit houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br>
-2° het verliescijfer voor Emissiearm-mengmest enkel toegepast worden voor varkens gehouden in stallen waar minder dan 25 % van de geproduceerde mest stalmest is, en die voorkomen op de lijst van ammoniakemissiearme stalsystemen, als vermeld in punt 1. V-lijst : Lijst van reductietechnieken voor varkens, van Bijlage I bij het Ministerieel besluit houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br>
-3° het verliescijfer voor Traditioneel-stalmest enkel toegepast worden voor varkens gehouden in volledig ingestrooide stallen die niet voorkomen op de lijst van ammoniakemissiearme stalsystemen, als vermeld in punt 1. V-lijst : Lijst van reductietechnieken voor varkens, van Bijlage I bij het Ministerieel besluit houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br>
-4° het verliescijfer voor Traditioneel-mengmest enkel toegepast worden voor varkens gehouden in stallen die niet volledig ingestrooid zijn en die niet voorkomen op de lijst van ammoniakemissiearme stalsystemen, als vermeld in punt 1. V-lijst : Lijst van reductietechnieken voor varkens, van Bijlage I bij het Ministerieel besluit houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne.<br>
+3° voor de dieren van de diersoort Varkens :
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Diercategorie</td>
+			<td>Staltype</td>
+			<td>Totaal stikstofverlies kg N/dier/jaar</td>
+		</tr>
+		<tr>
+			<td rowspan="4">Biggen (van 7 tot 20 kg)</td>
+			<td>Traditioneel - mengmest</td>
+			<td>0,52</td>
+		</tr>
+		<tr>
+			<td>Traditioneel - stalmest</td>
+			<td>1,01</td>
+		</tr>
+		<tr>
+			<td>Emissiearm - mengmest</td>
+			<td>0,26</td>
+		</tr>
+		<tr>
+			<td>Emissiearm - stalmest</td>
+			<td>0,40</td>
+		</tr>
+		<tr>
+			<td rowspan="4">Andere varkens van 20 tot 110 kg</td>
+			<td>Traditioneel - mengmest</td>
+			<td>2,95</td>
+		</tr>
+		<tr>
+			<td>Traditioneel - stalmest</td>
+			<td>5,86</td>
+		</tr>
+		<tr>
+			<td>Emissiearm - mengmest</td>
+			<td>1,58</td>
+		</tr>
+		<tr>
+			<td>Emissiearm - stalmest</td>
+			<td>2,38</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Beren</td>
+			<td>Traditioneel - mengmest</td>
+			<td>4,86</td>
+		</tr>
+		<tr>
+			<td>Traditioneel - stalmest</td>
+			<td>10,31</td>
+		</tr>
+		<tr>
+			<td rowspan="4">Zeugen, inclusief biggen &lt; 7 kg</td>
+			<td>Traditioneel - mengmest</td>
+			<td>4,35</td>
+		</tr>
+		<tr>
+			<td>Traditioneel - stalmest</td>
+			<td>5,81</td>
+		</tr>
+		<tr>
+			<td>Emissiearm - mengmest</td>
+			<td>2,85</td>
+		</tr>
+		<tr>
+			<td>Emissiearm - stalmest</td>
+			<td>4,33</td>
+		</tr>
+		<tr>
+			<td rowspan="4">Andere varkens &gt; 110 kg</td>
+			<td>Traditioneel - mengmest</td>
+			<td>3,79</td>
+		</tr>
+		<tr>
+			<td>Traditioneel - stalmest</td>
+			<td>5,28</td>
+		</tr>
+		<tr>
+			<td>Emissiearm - mengmest</td>
+			<td>2,67</td>
+		</tr>
+		<tr>
+			<td>Emissiearm - stalmest</td>
+			<td>4,15</td>
+		</tr>
+	</tbody>
+</table>
 <br>
-Voor de toepassing van de tabel, vermeld in § 1, vijfde lid, 4°, wordt verstaan onder :<br>
+4° voor de dieren van de diersoort Pluimvee :
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Diercategorie</td>
+			<td>Staltype</td>
+			<td>Totaal stikstofverlies kg N/dier/jaar</td>
+		</tr>
+		<tr>
+			<td rowspan="7">Legkippen en (groot)ouderdieren</td>
+			<td>Batterij, emissiearm, systeem P-3.1 en P-3.2</td>
+			<td>0,158</td>
+		</tr>
+		<tr>
+			<td>Batterij, emissiearm, systeem P-3.3</td>
+			<td>0,198</td>
+		</tr>
+		<tr>
+			<td>Batterij, emissiearm, systeem P-3.4</td>
+			<td>0,179</td>
+		</tr>
+		<tr>
+			<td>Batterij, emissiearm, systeem P-3.5</td>
+			<td>0,183</td>
+		</tr>
+		<tr>
+			<td>Batterij, overige staltypes legkippen en (groot)ouderdieren</td>
+			<td>0,198</td>
+		</tr>
+		<tr>
+			<td>Grondhuisvesting, emissiearm, systeem P-4.1, P-4.2 en P-4.3</td>
+			<td>0,238</td>
+		</tr>
+		<tr>
+			<td>Grondhuisvesting, overige staltypes legkippen en (groot)ouderdieren</td>
+			<td>0,384</td>
+		</tr>
+		<tr>
+			<td rowspan="7">Opfokpoeljen legkippen</td>
+			<td>Batterij, emissiearm, systeem P-1.1 en P-1.2</td>
+			<td>0,073</td>
+		</tr>
+		<tr>
+			<td>Batterij, emissiearm, systeem P-1.3</td>
+			<td>0,098</td>
+		</tr>
+		<tr>
+			<td>Batterij, emissiearm, systeem P-1.4</td>
+			<td>0,086</td>
+		</tr>
+		<tr>
+			<td>Batterij, emissiearm, systeem P-1.5</td>
+			<td>0,089</td>
+		</tr>
+		<tr>
+			<td>Batterij, overige staltypes opfokpoeljen legkippen</td>
+			<td>0,097</td>
+		</tr>
+		<tr>
+			<td>Grondhuisvesting, emissiearm, systeem P-2.1</td>
+			<td>0,123</td>
+		</tr>
+		<tr>
+			<td>Grondhuisvesting, overige staltypes opfokpoeljen legkippen</td>
+			<td>0,212</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Slachtkuikens</td>
+			<td>Grondhuisvesting, emissiearm, systeem P-6.1, P-6.2, P-6.3 en P-6.4, al dan niet in combinatie met P-6.6 of P-6.7</td>
+			<td>0,135</td>
+		</tr>
+		<tr>
+			<td>Etagesystemen, emissiearm, systeem P-6.5 al dan niet in combinatie met P-6.6 of P-6.7</td>
+			<td>0,107</td>
+		</tr>
+		<tr>
+			<td>Overige staltypes slachtkuikens</td>
+			<td>0,173</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Opfokpoeljen slachtkuikenouderdieren</td>
+			<td>Emissiearm, systeem P-7.1, P-7.2, P-7.3 en P-7.4</td>
+			<td>0,223</td>
+		</tr>
+		<tr>
+			<td>Overige staltypes opfokpoeljen slachtkuikenouderdieren</td>
+			<td>0,315</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Slachtkuikenouderdieren</td>
+			<td>Emissiearm, systeem P-5.1, P-5.2, P-5.3, P-5.4, P-5.5 en P-5.6</td>
+			<td>0,400</td>
+		</tr>
+		<tr>
+			<td>Overige staltypes slachtkuikenouderdieren</td>
+			<td>0,732</td>
+		</tr>
+		<tr>
+			<td>Kalkoen slachtdieren</td>
+			<td>Ongeacht het staltype</td>
+			<td>0,798</td>
+		</tr>
+		<tr>
+			<td>Kalkoen ouderdieren</td>
+			<td>Ongeacht het staltype</td>
+			<td>0,766</td>
+		</tr>
+		<tr>
+			<td>Struisvogel fokdieren</td>
+			<td>Ongeacht het staltype</td>
+			<td>4,579</td>
+		</tr>
+		<tr>
+			<td>Struisvogel slachtdieren</td>
+			<td>Ongeacht het staltype</td>
+			<td>2,686</td>
+		</tr>
+		<tr>
+			<td>Jonge struisvogels (0-3 maanden)</td>
+			<td>Ongeacht het staltype</td>
+			<td>0,737</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+§ 2. Voor de omrekening van het brutogehalte stikstof in dierlijke mest bij uitscheiding naar het nettogehalte van stikstof in dierlijke mest op het ogenblik van de afzet, vermeld in artikel 27, § 5, en 28, § 2, van het Mestdecreet, voor de dieren van de diersoorten Paarden of Andere, worden voor de stikstofverliezen de volgende cijfers, uitgedrukt in kg N per dier en per jaar, gehanteerd :
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Diercategorie</td>
+			<td>Totaal stikstofverlieskg N/dier/jaar</td>
+		</tr>
+		<tr>
+			<td>Paarden (&gt;600 kg)</td>
+			<td>10,46</td>
+		</tr>
+		<tr>
+			<td>Paarden en pony's (200-600 kg)</td>
+			<td>7,47</td>
+		</tr>
+		<tr>
+			<td>Paarden en pony's (&lt; 200 kg)</td>
+			<td>4,57</td>
+		</tr>
+		<tr>
+			<td>Konijnen gesloten bedrijven (per vrouwelijk konijn)</td>
+			<td>3,02</td>
+		</tr>
+		<tr>
+			<td>Konijnen vetmesterij (per dier)</td>
+			<td>0,26</td>
+		</tr>
+		<tr>
+			<td>Konijnen kwekerij (per vrouwelijk konijn)</td>
+			<td>1,43</td>
+		</tr>
+		<tr>
+			<td>Geiten jonger dan 1 jaar</td>
+			<td>1,39</td>
+		</tr>
+		<tr>
+			<td>Geiten ouder dan 1 jaar</td>
+			<td>3,31</td>
+		</tr>
+		<tr>
+			<td>Schapen jonger dan 1 jaar</td>
+			<td>1,06</td>
+		</tr>
+		<tr>
+			<td>Schapen ouder dan 1 jaar</td>
+			<td>1,75</td>
+		</tr>
+		<tr>
+			<td>Nertsen gesloten bedrijven (per moederdier)</td>
+			<td>1,5</td>
+		</tr>
+		<tr>
+			<td>Nertsen vetmesterij (per dier)</td>
+			<td>0,5</td>
+		</tr>
+		<tr>
+			<td>Nertsen kwekerij (per moederdier)</td>
+			<td>0,6</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+§ 3. Voor de toepassing van de tabel, vermeld in paragraaf 1, vierde lid, 2°, wordt verstaan onder :<br>
+1° runderen gehouden in stallen waar amper stalmest geproduceerd wordt : runderen, met uitzondering van mestkalveren, gehouden in stallen waar 10 % of minder van de in deze stal geproduceerde mest stalmest is;<br>
+2° runderen gehouden in stallen waar bijna uitsluitend stalmest geproduceerd wordt : runderen, met uitzondering van mestkalveren, gehouden in stallen waar 90 % of meer van de in deze stal geproduceerde mest stalmest is;<br>
+3° runderen gehouden in stallen waar deels stalmest geproduceerd wordt : runderen gehouden in stallen die niet onder punt 1° of 2° vallen.<br>
+<br>
+Voor de toepassing van de tabel, vermeld in paragraaf 1, vierde lid, 3°, kan :<br>
+1° het verliescijfer voor Emissiearm-stalmest alleen toegepast worden voor varkens gehouden in stallen waar minstens 25 % van de geproduceerde mest stalmest is, en die voorkomen op de lijst van ammoniakemissiearme stalsystemen, vermeld in hoofdstuk 3 V-lijst van ammoniakemissiearme stalsystemen voor varkens, van bijlage I bij het ministerieel besluit van 19 maart 2004 houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br>
+2° het verliescijfer voor Emissiearm-mengmest alleen toegepast worden voor varkens gehouden in stallen waar minder dan 25 % van de geproduceerde mest stalmest is, en die voorkomen op de lijst van ammoniakemissiearme stalsystemen, vermeld in hoofdstuk 3 V-lijst van ammoniakemissiearme stalsystemen voor varkens, van bijlage I bij het ministerieel besluit van 19 maart 2004houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br>
+3° het verliescijfer voor Traditioneel-stalmest alleen toegepast worden voor varkens gehouden in volledig ingestrooide stallen die niet voorkomen op de lijst van ammoniakemissiearme stalsystemen, vermeld in hoofdstuk 3 V-lijst van ammoniakemissiearme stalsystemen voor varkens, van bijlage I bij het ministerieel besluit van 19 maart 2004houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br>
+4° het verliescijfer voor Traditioneel-mengmest alleen toegepast worden voor varkens gehouden in stallen die niet volledig ingestrooid zijn en die niet voorkomen op de lijst van ammoniakemissiearme stalsystemen, vermeld in hoofdstuk 3 V-lijst van ammoniakemissiearme stalsystemen voor varkens, van bijlage I bij het ministerieel besluit van 19 maart 2004houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne.<br>
+<br>
+Voor de toepassing van de tabel, vermeld in paragraaf 1, vierde lid, 4°, wordt<br>
+verstaan onder :<br>
 1° Batterij, emissiearm, systeem P-3.1 en P-3.2 : een emissiearme pluimveestal, van het type Systeem P-3.1, als vermeld in de P-lijst, of van het type systeem P-3.2, als vermeld in de P-lijst;<br>
 2° Batterij, emissiearm, systeem P-3.3 : een emissiearme pluimveestal, van het type Systeem P-3.3, als vermeld in de P-lijst;<br>
 3° Batterij, emissiearm, systeem P-3.4 : een emissiearme pluimveestal, van het type Systeem P-3.4, als vermeld in de P-lijst;<br>
 4° Batterij, emissiearm, systeem P-3.5 : een emissiearme pluimveestal, van het type Systeem P-3.5, als vermeld in de P-lijst;<br>
-5° Batterij, overige staltypes : een pluimveestal die niet van het type Systeem P-3.1, P-3.2, P-3.3, P-3.4 of P-3.5, als vermeld in de P-lijst is, en waar de dieren gehouden worden in een batterijsysteem;<br>
-6° Grondhuisvesting, emissiearm, systeem P-4.1 en P-4.2 : een emissiearme pluimveestal, van het type Systeem P-4.1, als vermeld in de P-lijst, of van het type systeem P-4.2, als vermeld in de P-lijst;<br>
-7° Grondhuisvesting, emissiearm, systeem P-4.3 : een emissiearme pluimveestal, van het type Systeem P-4.3, als vermeld in de P-lijst;<br>
-8° Grondhuisvesting, overige staltypes : een pluimveestal die niet van het type Systeem P-4.1, P-4.2 of P-4.3, als vermeld in de P-lijst is, en waar de dieren niet gehouden worden in een batterijsysteem;<br>
-9° Batterij, emissiearm, systeem P-1.1 en P-1.2 : een emissiearme pluimveestal, van het type Systeem P-1.1, als vermeld in de P-lijst, of van het type systeem P-1.2, als vermeld in de P-lijst;<br>
-10° Batterij, emissiearm, systeem P-1.3 : een emissiearme pluimveestal, van het type Systeem P-1.3, als vermeld in de P-lijst;<br>
-11° Batterij, emissiearm, systeem P-1.4 : een emissiearme pluimveestal, van het type Systeem P-1.4, als vermeld in de P-lijst;<br>
-12° Batterij, emissiearm, systeem P-1.5 : een emissiearme pluimveestal, van het type Systeem P-1.5, als vermeld in de P-lijst;<br>
-13° Batterij, niet-emissiearme staltypes : een pluimveestal die niet van het type Systeem P-1.1, P-1.2, P-1.3, P-1.4 of P-1.5, als vermeld in de P-lijst is, en waar de dieren gehouden worden in een batterijsysteem;<br>
-14° Grondhuisvesting, emissiearm, systeem P-2.1 : een emissiearme pluimveestal, van het type Systeem P-2.1, als vermeld in de P-lijst;<br>
-15° Grondhuisvesting, niet-emissiearme staltypes : een pluimveestal die niet van het type Systeem P-2.1, als vermeld in de P-lijst is, en waar de dieren niet gehouden worden in een batterijsysteem;<br>
-16° Emissiearm, systeem P-5.1, P-5.2, P-5.3, P-5.4 en P-5.5 : : een emissiearme pluimveestal van het type Systeem P-5.1, P-5.2, P-5.3, P-5.4 of P-5.5, als vermeld in de P-lijst;<br>
-17° Overige staltypes : een pluimveestal die niet van het type Systeem P-5.1, P-5.2, P-5.3, P-5.4 of P-5.5, als vermeld in de P-lijst, is;<br>
-18° P-lijst : de lijst, als vermeld in 2. P-lijst : Lijst van reductietechnieken voor pluimvee, van Bijlage I bij het Ministerieel besluit houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne.</p>
+5° Batterij, overige staltypes legkippen en (groot)ouderdieren : een pluimveestal die niet van het type Systeem P-3.1, P-3.2, P-3.3, P-3.4 of P-3.5, als vermeld in de P-lijst is, en waar de dieren gehouden worden in een batterijsysteem;<br>
+6° Grondhuisvesting, emissiearm, systeem P-4.1, P-4.2 en P-4.3 : een emissiearme pluimveestal, van het type Systeem P-4.1, P-4.2 of P-4.3 als vermeld in de P-lijst,<br>
+7° Grondhuisvesting, overige staltypes legkippen en (groot)ouderdieren : een pluimveestal die niet van het type Systeem P-4.1, P-4.2 of P-4.3, als vermeld in de P-lijst is, en waar de dieren niet gehouden worden in een batterijsysteem;<br>
+8° Batterij, emissiearm, systeem P-1.1 en P-1.2 : een emissiearme pluimveestal, van het type Systeem P-1.1, als vermeld in de P-lijst, of van het type systeem P-1.2, als vermeld in de P-lijst;<br>
+9° Batterij, emissiearm, systeem P-1.3 : een emissiearme pluimveestal, van het type Systeem P-1.3, als vermeld in de P-lijst;<br>
+10° Batterij, emissiearm, systeem P-1.4 : een emissiearme pluimveestal, van het type Systeem P-1.4, als vermeld in de P-lijst;<br>
+11° Batterij, emissiearm, systeem P-1.5 : een emissiearme pluimveestal, van het type Systeem P-1.5, als vermeld in de P-lijst;<br>
+12° Batterij, overige staltypes opfokpoeljen legkippen : een pluimveestal die niet van het type Systeem P-1.1, P-1.2, P-1.3, P-1.4 of P-1.5, als vermeld in de P-lijst is, en waar de dieren gehouden worden in een batterijsysteem;<br>
+13° Grondhuisvesting, emissiearm, systeem P-2.1 : een emissiearme pluimveestal, van het type Systeem P-2.1, als vermeld in de P-lijst;<br>
+14° Grondhuisvesting, overige staltypes opfokpoeljen legkippen : een pluimveestal die niet van het type Systeem P-2.1, als vermeld in de P-lijst is, en waar de dieren niet gehouden worden in een batterijsysteem;<br>
+15° Grondhuisvesting, emissiearm, systeem P-6.1, P-6.2, P-6.3 en P-6.4, al dan niet in combinatie met P-6.6 of P-6.7 : een emissiearme pluimveestal van het type Systeem P-6.1, P-6.2, P-6.3 of P-6.4, als vermeld in de P-lijst, al dan niet in combinatie met het Systeem P-6.6 of Systeem P-6.7, als vermeld in de P-lijst;<br>
+16° Etagesystemen, emissiearm, systeem P-6.5 al dan niet in combinatie met P-6.6 of P-6.7 : een emissiearme pluimveestal van het type Systeem P-6.5, als vermeld in de P-lijst, al dan niet in combinatie met het Systeem P-6.6 of Systeem P-6.7, als vermeld in de P-lijst;<br>
+17° Overige staltypes slachtkuikens : een pluimveestal die niet van het type Systeem P-6.1, P-6.2, P-6.3, P-6.4, P-6.5, P-6.6 of P-6.7, als vermeld in de P-lijst, is;<br>
+18° Emissiearm, systeem P-7.1, P-7.2, P-7.3 en P-7.4 : een emissiearme pluimveestal van het type Systeem P-7.1, P-7.2, P-7.3 of P-7.4, als vermeld in de P-lijst;<br>
+19° Overige staltypes opfokpoeljen slachtkuikenouderdieren : een pluimveestal die niet van het type Systeem P-7.1, P-7.2, P-7.3 of P-7.4, als vermeld in de P-lijst, is;<br>
+20° Emissiearm, systeem P-5.1, P-5.2, P-5.3, P-5.4, P-5.5 en P-5.6 : een emissiearme pluimveestal van het type Systeem P-5.1, P-5.2, P-5.3, P-5.4,P-5.5 of P-5.6, als vermeld in de P-lijst;<br>
+21° Overige staltypes slachtkuikenouderdieren : een pluimveestal die niet van het type Systeem P-5.1, P-5.2, P-5.3, P-5.4, P-5.5 of P-5.6, als vermeld in de P-lijst, is;<br>
+22° P-lijst : de lijst, als vermeld in hoofdstuk 4 P-lijst van ammoniakemissiearme stalsystemen voor pluimvee van bijlage I bij het ministerieel besluit van 19 maart 2004 houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne.
+<p>&nbsp;</p>
 
 ## Afdeling 2 [... (opgeh. BVR 22 december 2017, art. 2, I: 1 januari 2018)]
 
