@@ -41,7 +41,11 @@ Ouderkoepelverenigingen die in aanmerking willen komen voor een subsidie-envelop
 
 ### ART. 4.
 
-§ 1. Op basis van het ingediende dossier beslist de Vlaamse Regering of de ouderkoepelvereniging voldoet aan de voorwaarden, vermeld in artikelen 3 en 4 van het decreet, en in aanmerking komt voor een subsidie-enveloppe.<br /><br />§ 2. De beschikbare begrotingskredieten worden als volgt verdeeld over de erkende ouderkoepelverenigingen :<br />1° een vast bedrag van 25 % van de totale middelen wordt gelijkmatig verdeeld over de erkende ouderkoepelverenigingen; <br />2° het resterende bedrag van de totale middelen wordt lineair verdeeld a rato van het aantal aangesloten ouderverenigingen of ouderraden.<br />
+§ 1. Op basis van het ingediende dossier beslist de Vlaamse Regering of de ouderkoepelvereniging voldoet aan de voorwaarden, vermeld in artikelen 3 en 4 van het decreet, en in aanmerking komt voor een subsidie-enveloppe.<br /><br />§ 2. De beschikbare begrotingskredieten worden als volgt verdeeld over de erkende ouderkoepelverenigingen : <br />1° een vast bedrag van 16 % van de totale kredieten wordt gelijkmatig verdeeld over de erkende ouderkoepelverenigingen, en geldt als sokkel;<br />2° het resterende bedrag van de totale kredieten wordt lineair verdeeld a rato van het aantal leerlingen dat het onderwijsnet waartoe de erkende ouderkoepelvereniging behoort, telt op 1 februari van het jaar dat voorafgaat aan de periode van drie jaar.<br />
+
+### ART. 4/1.
+
+In afwijking van artikel 4, § 2, worden de beschikbare begrotingskredieten in 2011 als volgt verdeeld over de erkende ouderkoepelverenigingen : <br />1° een vast bedrag van 16 % van de totale kredieten wordt gelijkmatig verdeeld over de erkende ouderkoepelverenigingen, en geldt als sokkel;<br />2° het resterende bedrag van de totale kredieten wordt lineair verdeeld a rato van het aantal leerlingen dat het onderwijsnet waartoe de erkende ouderkoepelvereniging behoort, telt op 1 februari 2009.
 
 ### ART. 5.
 
