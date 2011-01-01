@@ -138,7 +138,7 @@ Voor de gemandateerde voorziening, georganiseerd door een openbaar bestuur, word
 
 ### ART. 7.
 
-[De forfaitaire bedragen, vermeld in dit besluit, worden elk jaar op 1 januari verhoogd met de procentuele stijging van de index van de consumptieprijzen tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar.  <span class="reference">(verv. M.B. 14 februari 2006, art. 2, I: 1 januari 2006)</span> ]
+De forfaitaire bedragen, vermeld in dit besluit, worden elk jaar op 1 januari verhoogd met de procentuele stijging van de index van de consumptieprijzen tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar. In 2011 worden de bedragen, vermeld in dit besluit, op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het kalenderjaar 2008 en 1 november van het kalenderjaar 2010.
 
 ### ART. 8.
 
