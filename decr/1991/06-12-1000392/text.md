@@ -718,8 +718,7 @@ Deze investeringen dragen uitsluitend bij tot dekking van de uitgaven die rechts
 
 ### ART. 140.
 
-<p>§ 1. 1° Het basisbedrag van de investeringskredieten van de universiteiten, uitgedrukt in miljoen Belgische frank wordt voor het jaar 2001 vastgesteld als volgt:<br>
-</p>
+<p>§ 1. 1° Het basisbedrag van de investeringskredieten van de universiteiten, uitgedrukt in miljoen Belgische frank wordt voor het jaar 2001 vastgesteld als volgt:</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -774,12 +773,7 @@ Deze investeringen dragen uitsluitend bij tot dekking van de uitgaven die rechts
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>2° Het basisbedrag van de investeringskredieten van de universiteiten, uitgedrukt in duizend euro wordt voor de jaren 2002, 2003, 2006, 2007, 2008, 2009 en 2010 vastgesteld als volgt:<br>
-</p>
+<p>2° Het basisbedrag van de investeringskredieten van de universiteiten, uitgedrukt in duizend euro wordt voor de jaren 2002, 2003, 2006, 2007, 2008, 2009, 2010 en 2011 vastgesteld als volgt:</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -834,12 +828,7 @@ Deze investeringen dragen uitsluitend bij tot dekking van de uitgaven die rechts
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>3° Voor het begrotingsjaar 2004 bedraagt het basisbedrag van de investeringskredieten voor de Universiteiten, uitgedrukt in duizend euro:<br>
-</p>
+<p>3° Voor het begrotingsjaar 2004 bedraagt het basisbedrag van de investeringskredieten voor de Universiteiten, uitgedrukt in duizend euro:</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -894,13 +883,8 @@ Deze investeringen dragen uitsluitend bij tot dekking van de uitgaven die rechts
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 <p>Deze basisbedragen (prijsniveau 2001) worden gendexeerd zoals vermeld in § 2.<br>
-4° Voor het begrotingsjaar 2005 bedraagt het basisbedrag van de investeringskredieten voor de Universiteiten, uitgedrukt in duizend euro:<br>
-</p>
+4° Voor het begrotingsjaar 2005 bedraagt het basisbedrag van de investeringskredieten voor de Universiteiten, uitgedrukt in duizend euro:</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -955,15 +939,11 @@ Deze investeringen dragen uitsluitend bij tot dekking van de uitgaven die rechts
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 <p>Deze basisbedragen (prijsniveau 2001) worden geïndexeerd zoals vermeld in § 2.<br>
 <br>
 § 2. Vanaf het begrotingsjaar 2002 wordt het basisbedrag voor 2001 geïndexeerd als volgt: het basisbedrag wordt vermenigvuldigd met de gewogen evolutie van het jaarlijks gemiddelde van de index van de Associatie van Belgische Ex-perten (ABEX-index) van de vijf voorlaatste kalenderjaren die voorafgaan aan het begrotingsjaar, uitgedrukt in percenten.<br>
 <br>
-De indexformule, vermeld in het eerste lid, wordt in het begrotingsjaar 2010 niet toegepast.</p>
+De indexformule, vermeld in het eerste lid, wordt in de begrotingsjaren 2010 en 2011 niet toegepast.</p>
 
 ## [AFDELING 2BIS SOCIALE VOORZIENINGEN VOOR STUDENTEN (ing. decr. 21 December 1994, art. 132,)]
 
