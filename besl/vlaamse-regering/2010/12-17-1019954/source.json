@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019954,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-17 betreffende de inwerkingtreding van sommige bepalingen van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019954/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "99cf4412650a2db5168d0ef0d55f8711ad400d3a498e4fc5e034ad8b817dccff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019954&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2010-12-17",
+  "gazette": "2011-01-25",
+  "numac": 2011035050,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
