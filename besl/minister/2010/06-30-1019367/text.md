@@ -6,21 +6,21 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 
 ### ART. 1.
 
-<p>Ter uitvoering van artikel 18 van bijlage I bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers wordt 6.569.633,36 euro RSZ-vermindering die de private diensten voor gezinszorg en aanvullende thuiszorg ontvangen in het kader van de federale maatregel Structurele Vermindering, als volgt verdeeld over de private diensten :<br>
+<p>Ter uitvoering van artikel 18 van bijlage I bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers wordt 6.569.633,36 euro RSZ-vermindering, die de private diensten voor gezinszorg en aanvullende thuiszorg ontvangen in het kader van de federale maatregel Structurele Vermindering, als volgt verdeeld over de private diensten :<br>
 &nbsp;</p>
 
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
 			<td>
-			<p>Erkennings-<br>
-			nummer</p>
+			<p>Erkennings- nummer</p>
 			</td>
 			<td>
 			<p>Dienst</p>
 			</td>
 			<td>
-			<p>RSZ- Vermindering (in euro's)</p>
+			<p>RSZ-vermindering<br>
+			(in euro's)</p>
 			</td>
 		</tr>
 		<tr>
@@ -72,7 +72,7 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 			<p>014</p>
 			</td>
 			<td>
-			<p>Thuiszorg Vleminckveld</p>
+			<p>thuiszorg vleminckveld</p>
 			</td>
 			<td>
 			<p>61.509,14</p>
@@ -97,7 +97,7 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 			<p>Landelijke Thuiszorg</p>
 			</td>
 			<td>
-			<p>560.062,91</p>
+			<p>569.299,04</p>
 			</td>
 		</tr>
 		<tr>
@@ -171,7 +171,7 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 			<p>294</p>
 			</td>
 			<td>
-			<p>Onafhankelijke Dienst voor Gezinszorg</p>
+			<p>Partena Gezinszorg</p>
 			</td>
 			<td>
 			<p>51.716,02</p>
@@ -212,17 +212,6 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 		</tr>
 		<tr>
 			<td>
-			<p>315</p>
-			</td>
-			<td>
-			<p>Gezinszorg THUIS Midden-Limburg</p>
-			</td>
-			<td>
-			<p>9.236,13</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
 			<p>340</p>
 			</td>
 			<td>
@@ -237,7 +226,18 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 			<p>343</p>
 			</td>
 			<td>
-			<p>Wit-Gele Kruis van Vlaanderen - Beter Thuis</p>
+			<p>Wit-Gele Kruis van Vlaanderen-Beter Thuis</p>
+			</td>
+			<td>
+			<p>0</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>347</p>
+			</td>
+			<td>
+			<p>Gezins- en bejaardenhulp Asabbane Mina</p>
 			</td>
 			<td>
 			<p>0</p>
@@ -256,17 +256,6 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-<br>
-&nbsp;<br>
-<!-- #RightPane --><!-- #MySplitter --><!-- #Splitter-container --><!-- #detailContent --><br>
-<!--inhoud en informatie tabs --><br>
-<!-- #ContentPane --><br>
-<!-- #middle-inner-left --><!-- #middle-inner-right --><br>
-<!-- #middle --><!-- #right --><!-- #content -->
 
 ### ART. 2.
 
