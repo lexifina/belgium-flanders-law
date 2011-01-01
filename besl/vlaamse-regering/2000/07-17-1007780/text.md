@@ -78,7 +78,7 @@ Reserves die op het ogenblik van het afsluiten van het boekjaar meer bedragen da
 
 ### ART. 18.
 
-§ 1. [Het Vlaams instituut, de regionale instituten en de instellingen vragen elk jaar voor 1 november de subsidie-enveloppe voor het volgende jaar aan. Daartoe dienen ze bij de administratie een dossier in, dat minstens de volgende elementen bevat:<br /><br />1° een jaarplan dat de doelstellingen en de te behalen resultaten voor het komende jaar weergeeft;<br /><br />2° een overzicht van de personeelsleden met de taakverdeling en de tijdsbesteding;<br /><br />3° een begroting met postgewijze toelichting;<br /><br />4° wat het dossier voor het jaar 2005 en de volgende jaren betreft, een kwaliteitsplanning zoals bedoeld in het kwaliteitsde-creet, met voor elk gekozen project:<br /><br />a) de doelstellingen en verantwoording;<br /><br />b) de resultaten die het wil behalen;<br /><br />c) het stappenplan met onder andere de middelen en het tijdstip;<br /><br />d) de wijze van evaluatie van de resultaten.<br /><br />§ 2. Het dossier wordt opgesteld aan de hand van het door de administratie uitgewerkte model.  <span class="reference">(verv. B.V.R. 20 februari 2004, art. 8, I: 1 januari 2004)</span> ]
+§ 1. Het Vlaams instituut en de regionale instituten vragen elk jaar vóór 1 mei de subsidie-enveloppe aan. Daartoe dienen ze bij de administratie een dossier in, dat minstens de volgende elementen bevat:<br />1° een jaarplan dat de doelstellingen en de te behalen resultaten voor het komende jaar weergeeft;<br />2° een overzicht van de personeelsleden met de taakverdeling en de tijdsbesteding;<br />3° een begroting met postgewijze toelichting;<br />4° wat het dossier voor het jaar 2005 en de volgende jaren betreft, een kwaliteitsplanning zoals bedoeld in het kwaliteitsde-creet, met voor elk gekozen project:<br />a) de doelstellingen en verantwoording;<br />b) de resultaten die het wil behalen;<br />c) het stappenplan met onder andere de middelen en het tijdstip;<br />d) de wijze van evaluatie van de resultaten.<br /><br />§ 2. Het dossier wordt opgesteld aan de hand van het door de administratie uitgewerkte model.
 
 ### ART. 19.
 
@@ -94,7 +94,7 @@ Bij vastgestelde afwending van de toegekende subsidie kan de secretaris-generaal
 
 ### ART. 21.
 
-[Het Vlaams instituut, de regionale instituten en de instellingen ontvangen een voorschot van 90 % van de subsidie-enveloppe voor het kalenderjaar. Dat voorschot wordt zo snel mogelijk uitbetaald na de goedkeuring van de uitgavenbegroting van de Vlaamse Gemeenschap voor het jaar waarop de subsidie-enveloppe betrekking heeft.  <span class="reference">(verv. B.V.R. 20 februari 2004, art. 12, I: 1 januari 2004)</span> ]
+Het Vlaams instituut en de regionale instituten ontvangen twee voorschotten van 50 % van de subsidie-enveloppe voor het kalenderjaar. Het eerste voorschot wordt zo snel mogelijk uitbetaald na de goedkeuring van de uitgavenbegroting van de Vlaamse Gemeenschap voor het jaar waarop de subsidie-enveloppe betrekking heeft, en het tweede voorschot begin juli van dat jaar.
 
 ### ART. 22.
 
@@ -102,7 +102,7 @@ Bij vastgestelde afwending van de toegekende subsidie kan de secretaris-generaal
 
 ### ART. 23.
 
-§ 1. [De definitieve subsidie wordt berekend overeenkomstig de bepalingen van dit besluit, na ontvangst van het financiële verslag, bedoeld in artikel 22, § 1.<br /><br />§ 2. Het saldo van de subsidie wordt uitbetaald voor 1 oktober van het daaropvolgende activiteitenjaar, na controle en goedkeuring door de administratie van het financiële verslag, bedoeld in artikel 22, § 1.<br />Als het uitgekeerde voorschot hoger is dan het bedrag van de definitieve subsidie, wordt het verschil teruggevorderd of ingehouden op de subsidie-enveloppe voor een volgend jaar.  <span class="reference">(verv. B.V.R. 20 februari 2004, art. 14, I:1 januari 2004)</span> ]
+§ 1. De definitieve subsidie wordt berekend overeenkomstig de bepalingen van dit besluit, na ontvangst van het financiële verslag, bedoeld in artikel 22, § 1.<br /><br />§ 2. Het saldo van de subsidie wordt bepaald voor 1 september van het daaropvolgende activiteitenjaar. <br /><br />Als de uitgekeerde voorschotten na controle en goedkeuring door de administratie van het financiële verslag, bedoeld in artikel 22, § 1, hoger zijn dan het bedrag van de definitieve subsidie, wordt het verschil teruggevorderd. <br />
 
 ### ART. 24.
 
