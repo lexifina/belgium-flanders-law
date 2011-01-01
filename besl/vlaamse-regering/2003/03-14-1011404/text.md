@@ -112,6 +112,10 @@ Het minimum en het maximum aantal uren voor een ambt met volledige prestaties in
 
 ## [HOOFDSTUK IXbis. DIENSTVRIJSTELLING VOOR ZITTING IN EEN LOKAAL INSPRAAKORGAAN (ing. BVR 27 mei 2011, art. 7)]
 
+### ART. 18bis.
+
+Het personeelslid dat zitting heeft in een lokaal inspraakorgaan dat opgericht is door of krachtens een wet of een decreet, krijgt dienstvrijstelling om de vergaderingen van dat inspraakorgaan bij te wonen. De dienstvrijstelling wordt gelijkgesteld met een periode van dienstactiviteit.
+
 ## HOOFDSTUK X SLOTBEPALINGEN
 
 ### ART. 19.
