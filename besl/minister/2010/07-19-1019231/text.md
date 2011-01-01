@@ -6,8 +6,8 @@ De Vlaamse Minister voor Economie, Buitenlands Beleid, Landbouw en Plattelandsbe
 
 ### ART. 1.
 
-Aan artikel 28 van ministerieel besluit van 21 december 2009 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, gewijzigd bij de ministeriële besluiten van 4 maart 2010, 26 maart 2010 en 26 maart 2010, wordt een volgende § 16 toegevoegd :<br />« § 16. In de periode van 23 juli 2010 tot en met 31 december 2010 is het in het i.c.e.s.-gebied IV (Noorse zone) voor een vissersvaartuig verboden bij de lengvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 30 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het desbetreffende gebied. » <br /><br />
+...
 
 ### ART. 2.
 
-Dit besluit treedt in werking op 23 juli 2010 en houdt op van kracht te zijn op 1 januari 2011.<br /><br />
+...
