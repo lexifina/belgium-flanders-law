@@ -28,6 +28,10 @@ Het aantal prestatie-eenheden voor een ambt met volledige prestaties in een werv
 
 Om het aantal prestatie-eenheden vast te stellen voor een ambt met onvolledige prestaties als vermeld in dit hoofdstuk, worden de prestatie-eenheden die voor het desbetreffende ambt worden vermeld in dit hoofdstuk, pro- rata toegepast.
 
+### ART. 5/1.
+
+Het personeelslid dat zitting heeft in een lokaal inspraakorgaan dat opgericht is door of krachtens een wet of een decreet, krijgt dienstvrijstelling om de vergaderingen van dat inspraakorgaan bij te wonen. De dienstvrijstelling wordt gelijkgesteld met een periode van dienstactiviteit.
+
 ## HOOFDSTUK 3. De vaststelling van het recht op een salaris
 
 ### ART. 6.
