@@ -2,16 +2,16 @@
   "codex_id": 1016034,
   "title": "Besluit van de Vlaamse Regering van 2007-07-06 tot uitvoering van het decreet van 7 juli 2006 houdende toekenning van een rentetoelage voor ondernemingen die lijden onder de verstoorde bereikbaarheid ten gevolge van hinder door openbare werken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016034/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "14d21145c9952d35f9443237149b2aea674af1ece90363af9cd89d2077571406",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016034/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "dcdf6bd1a285e52a7a457200e51a5cb059f62fba6f7d6a61d7fbfdd7df3c16a6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016034&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2011-01-01",
   "made": "2007-07-06",
   "gazette": "2007-08-03",
   "numac": 2007036284,
   "document_start": "2007-07-10",
   "document_end": "2017-06-30",
-  "in_force": "2009-01-01",
-  "article_versions": 24,
-  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2011-01-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
