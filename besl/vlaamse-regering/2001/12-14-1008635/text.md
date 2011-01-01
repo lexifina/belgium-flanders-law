@@ -46,7 +46,7 @@ K&G betaalt de vergoeding, vastgesteld in artikel 6, § 1, via de dienst uit aan
 
 ### ART. 10.
 
-Het bedrag, vermeld in dit besluit, wordt elk jaar op 1 januari verhoogd met de procentuele stijging van de index van de consumptieprijzen tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar.
+Het bedrag, vermeld in dit besluit, wordt elk jaar op 1 januari verhoogd met de procentuele stijging van de index van de consumptieprijzen tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar. In 2011 worden de bedragen, vermeld in dit besluit, op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het kalenderjaar 2008 en 1 november van het kalenderjaar 2010.
 
 ### ART. 11.
 
