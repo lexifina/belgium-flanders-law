@@ -114,7 +114,7 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 27.
 
-§ 1. Voor het beleidsdomein Leefmilieu, Natuur en Energie wordt het Vlaams ministerie van Leefmilieu, Natuur en Energie opgericht, dat bestaat uit het gelijknamige departement en drie agentschappen zonder rechtspersoonlijkheid : <br />1° Vlaams Energieagentschap; <br />2° Agentschap voor Natuur en Bos; <br />3° Instituut voor Natuur- en Bosonderzoek. <br /><br />§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Leefmilieu, Natuur en Energie behoren, zijn : <br />1° Vlaamse Milieumaatschappij; <br />2° Openbare Vlaamse Afvalstoffenmaatschappij; <br />3° Vlaamse Landmaatschappij; <br />4° Vlaamse Reguleringsinstantie voor de Elektriciteits- en Gasmarkt.<br /><br />§ 3. De strategische adviesraad die tot het beleidsdomein Leefmilieu, Natuur en Energie behoort, is de Milieu- en Natuurraad van Vlaanderen.
+§ 1. Voor het beleidsdomein Leefmilieu, Natuur en Energie wordt het Vlaams ministerie van Leefmilieu, Natuur en Energie opgericht, dat bestaat uit het gelijknamige departement en drie agentschappen zonder rechtspersoonlijkheid : <br />1° Vlaams Energieagentschap; <br />2° Agentschap voor Natuur en Bos; <br />3° Instituut voor Natuur- en Bosonderzoek. <br /><br />§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Leefmilieu, Natuur en Energie behoren, zijn : <br />1° Vlaamse Milieumaatschappij; <br />2° Openbare Vlaamse Afvalstoffenmaatschappij; <br />3° Vlaamse Landmaatschappij; <br />4° Vlaamse Regulator van de Elektriciteits- en Gasmarkt.<br /><br />§ 3. De strategische adviesraad die tot het beleidsdomein Leefmilieu, Natuur en Energie behoort, is de Milieu- en Natuurraad van Vlaanderen.
 
 ### ART. 28.
 
