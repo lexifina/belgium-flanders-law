@@ -227,7 +227,7 @@ De programmatie is bovendien onderworpen aan volgende voorwaarden en beperkingen
 
 ### ART. 49ter.
 
-In afwijking van artikel 43, § 2, § 2bis en § 7, artikel 44, § 1, artikel 45 en artikel 48, § 1, kunnen tijdens de schooljaren 2010-2011 en 2011-2012 in het deeltijds kunstonderwijs geen nieuwe instellingen, filialen, studierichtingen en hogere graden in de financierings- of subsidieregeling opgenomen worden.
+In afwijking van artikel 4, artikel 43, § 2, § 2bis en § 7, artikel 44, § 1 tot en met § 1undecies, artikel 45 en artikel 48, § 1, kunnen vanaf het schooljaar 2011-2012 in het deeltijds kunstonderwijs geen nieuwe instellingen, filialen, studierichtingen, hogere graden en opties in de financierings- of subsidieregeling opgenomen worden, dan diegene die op 30 juni van het voorafgaande schooljaar reeds opgenomen waren.<br /><br />In afwijking van deze bepaling kan de Vlaamse Regering in uitzonderlijke gevallen aan een inrichtende macht toelating geven tot programmatie van een instelling, filiaal, studierichting, hogere graad of optie :<br />1° na schriftelijke en gemotiveerde aanvraag van die inrichtende macht, ingediend bij het Agentschap voor Onderwijsdiensten vóór 1 maart van het voorafgaand schooljaar en vergezeld van het protocol van de onderhandeling ter zake in het bevoegd lokaal comité, en<br />2° na advies van enerzijds de Vlaamse Onderwijsraad en anderzijds het Agentschap voor Onderwijsdiensten en de Inspectie.
 
 ## HOOFDSTUK VIII OVERGANGSMAATREGELEN
 
