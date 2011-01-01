@@ -2,16 +2,16 @@
   "codex_id": 1014945,
   "title": "Decreet van 2006-07-07 betreffende de inhaalbeweging voor schoolinfrastructuur",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014945/VolledigDocument?datum=2010-07-28",
-  "source_sha256": "02f8efefb8a3db8d6c8b5529b699e6db7f81cf4a82fe292f06c84eed14e4e78d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014945/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "f213697b4dd62911113de9b7ee8e276acdc5e2ff442befc5fe62d544a1634384",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014945&param=informatie",
-  "as_of": "2010-07-28",
+  "as_of": "2011-01-01",
   "made": "2006-07-07",
   "gazette": "2006-09-15",
   "numac": 2006036441,
   "document_start": "2006-09-25",
   "document_end": null,
-  "in_force": "2010-07-28",
-  "article_versions": 47,
-  "record_form": "consolidated version as in force on 2010-07-28; future article versions excluded; article text as the API gives it"
+  "in_force": "2011-01-01",
+  "article_versions": 49,
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }

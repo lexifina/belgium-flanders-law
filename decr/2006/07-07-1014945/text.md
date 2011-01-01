@@ -122,6 +122,10 @@ De DBFM-toelage bedraagt 70 % voor de instellingen van het gewoon en buitengewoo
 
 Voor instellingen, internaten en centra vermeld in artikel 4, in het gesubsidieerd onderwijs, wordt de DBFM-toelage zoals berekend overeenkomstig artikel 19 verhoogd, derwijze dat 90 % van de daadwerkelijk verschuldigde onderhoudscomponent in de beschikbaarheidsvergoeding wordt betoelaagd. Voor de toepassing van dit artikel wordt de daadwerkelijk verschuldigde onderhoudscomponent in de beschikbaarheidsvergoeding begrensd tot 1,54 % van de bouwkost zoals nader gedefinieerd in de overeenkomst bedoeld in artikel 7.
 
+### ART. 19ter.
+
+Voor instellingen, internaten en centra vermeld in artikel 4, in het gesubsidieerd onderwijs, worden de subsidiëringspercentages van 60 respectievelijk 70 % in de DBFM-toelage zoals berekend overeenkomstig artikel 19 verhoogd met 11,5 procentpunten.
+
 ### ART. 20.
 
 De DBFM-toelage bedraagt 100 % voor de instellingen, internaten en centra, vermeld in artikel 4, in het gemeenschapsonderwijs.<br />
@@ -203,6 +207,10 @@ Een inrichtende macht in het gesubsidieerde onderwijs kan gedurende de looptijd 
 ### ART. 36.
 
 Op het einde van het individueel DBFM-contract wordt de schoolinfrastructuur kosteloos overgedragen aan de inrichtende macht.<br /><br />
+
+### ART. 36bis.
+
+Voor instellingen, internaten en centra vermeld in artikel 4, in het gesubsidieerd onderwijs, gaat AGIOn bij verkoop van de schoolinfrastructuur na het einde van het individueel DBFM-contract of wanneer de infrastructuur voor andere dan onderwijsdoelstellingen wordt aangewend, over tot terugvordering.<br /><br />De terugvordering is gebaseerd op een evenredig aan de toegekende subsidie aandeel van de verkoopswaarde van de schoolinfrastructuur, verminderd met 1/20 per jaar na het einde van het individueel DBFM-contract.<br /><br />De aanvangsdatum voor de berekening van de aldus toegekende vermindering is de eerste september van het schooljaar volgend op de datum van het einde van het individueel DBFM-contract.
 
 ## HOOFDSTUK VIII Waarborg voor de DBFM-vennootschap
 
