@@ -12,6 +12,10 @@ In artikel I 5 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse 
 
 Artikel I 20bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 mei 2009, wordt opgeheven.
 
+### ART. 5.
+
+In artikel III 22, 3°, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij de besluiten van de Vlaamse Regering van 23 mei 2008 en 29 mei 2009, wordt de datum « 31 december 2010 » vervangen door de datum « 31 december 2011 ».
+
 ### ART. 8.
 
 In artikel V 11, § 2, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 22 januari 2010, worden de volgende wijzigingen aangebracht :<br /><br />1° aan het tweede lid wordt een punt 4° toegevoegd, dat luidt als volgt :<br /><br />« 4° ofwel dat ze een vervanger aanwijst onder de titularissen van een management- of projectleiderfunctie van N-niveau van de diensten van de Vlaamse overheid; « ;<br /><br />2° in het derde lid worden tussen het woord « vervanger » en het woord « gebeurt » de woorden « , vermeld in het tweede lid, 1° tot en met 3° » ingevoegd;<br /><br />3° aan het derde lid wordt de volgende zin toegevoegd :<br /><br />« De vervanger, vermeld in het tweede lid, 4°, wordt maximaal aangewezen voor de nog lopende duur van het mandaat. »
@@ -27,6 +31,10 @@ In artikel VI 30decies van hetzelfde besluit, ingevoegd bij het besluit van de V
 ### ART. 30.
 
 In artikel VI 144, § 1 en § 2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 mei 2008 en vervangen bij het besluit van de Vlaamse Regering van 29 mei 2009, worden de woorden « tussen 23 mei en 31 december 2009 » vervangen door de woorden « tussen 23 mei 2008 en 31 december 2009 ».
+
+### ART. 31.
+
+Aan artikel VII 2, § 2, 1ste lid van hetzelfde besluit wordt een tweede zin toegevoegd, die luidt als volgt : « Minder dan halftijdse deeltijdse prestaties, verricht vanaf 1 januari 2011 komen eveneens in aanmerking ».<br />
 
 ### ART. 32.
 
