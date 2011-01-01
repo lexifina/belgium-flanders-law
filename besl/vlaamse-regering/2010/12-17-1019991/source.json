@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019991,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-17 houdende de erkenning van de levensbeschouwelijke verenigingen voor het verzorgen van televisieprogramma's op de Vlaamse Radio- en Televisieomroep (VRT)",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019991/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "c66208795794029e20e0c7035111944f1c09f915c1a02bbd70d495e6c9fc8305",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019991&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2010-12-17",
+  "gazette": "2011-02-04",
+  "numac": 2011200448,
+  "document_start": "2011-01-01",
+  "document_end": "2016-01-01",
+  "in_force": "2011-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
