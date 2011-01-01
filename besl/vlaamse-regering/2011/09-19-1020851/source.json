@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020851,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-19 houdende de wijziging van het besluit van de Vlaamse Regering van 16 juni 1998 tot regeling van de erkenning en de subsidiëring van de centra voor ontwikkelingsstoornissen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020851/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "7c3d629d063cb73e4f30cfcf0318a9c42f9c4b29904c748a7e6b8d7b737fda1c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020851&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2011-09-19",
+  "gazette": "2011-10-20",
+  "numac": 2011205292,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
