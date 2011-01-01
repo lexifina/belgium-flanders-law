@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020447,
+  "title": "Besluit van de Vlaamse Regering van 2011-06-24 tot wijziging van artikel 6decies van het besluit van de Vlaamse Regering van 12 oktober 2007 tot regeling van een aantal aangelegenheden voor de centra voor basiseducatie ter uitvoering van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020447/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "fdf8d9959da014816338b06c1b160a3a99d11156649c4cb6273393afe34bc50a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020447&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2011-06-24",
+  "gazette": "2011-07-22",
+  "numac": 2011203708,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
