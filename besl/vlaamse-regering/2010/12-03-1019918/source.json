@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019918,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-03 tot wijziging, wat de toe te passen verdeelsleutel betreft, van het besluit van de Vlaamse Regering van 22 september 2006 betreffende de subsidiëring van ouderkoepelverenigingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019918/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "04544d74a419806edf8cd2b6dbd8bc2b91cb1dcb72c824d40ece34c6cc9228c8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019918&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2010-12-03",
+  "gazette": "2011-01-18",
+  "numac": 2011200058,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
