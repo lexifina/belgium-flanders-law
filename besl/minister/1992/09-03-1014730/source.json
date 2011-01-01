@@ -2,16 +2,16 @@
   "codex_id": 1014730,
   "title": "Ministerieel besluit van 1992-09-03 betreffende de verbetering van de fokvarkens",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014730/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "98379495675eabaa443d8ae5b6d79e43c07ba342021780bea9cac01924e3d3ee",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014730/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "20e44d4a98095050419e4d497e95f119dcb06169303c56eb094c958c034289fc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014730&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-01-01",
   "made": "1992-09-03",
   "gazette": "1992-09-26",
   "numac": 0,
   "document_start": "1992-09-26",
   "document_end": "2010-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2011-01-01",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
