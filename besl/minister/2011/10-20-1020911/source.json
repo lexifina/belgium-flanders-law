@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020911,
+  "title": "Ministerieel besluit van 2011-10-20 tot bepaling van nadere regels voor het verlenen van steun met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor deelname aan Europees erkende voedselkwaliteitsregelingen en voor bijhorende afzetbevorderingsacties",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020911/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "1d08321761e5eb1ab0131d4258f494ed93ae2329813e4857d48f5170bcd29864",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020911&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2011-10-20",
+  "gazette": "2011-11-14",
+  "numac": 2011035928,
+  "document_start": "2011-01-01",
+  "document_end": "2014-07-16",
+  "in_force": "2011-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
