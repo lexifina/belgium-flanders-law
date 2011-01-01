@@ -150,6 +150,38 @@ De exploitant van een inrichting is verlicht de milieuvoorwaarden na te leven.<b
 
 ## [HOOFDSTUK IIIbis ERKENNINGEN (ing. decr. 27 maart 2009, art. 2, I: 1 januari 2011)]
 
+### ART. 22ter.
+
+De bepalingen van dit hoofdstuk zijn van toepassing op de erkenningen, voorgeschreven bij of krachtens dit decreet.<br /><br />De bepalingen van dit hoofdstuk zijn eveneens van toepassing op de erkenningen, voorgeschreven bij of krachtens andere wetten en decreten, voor zover die wetten en decreten naar de toepassing van de bepalingen van dit hoofdstuk verwijzen.
+
+### ART. 22quater.
+
+§ 1. Het uitoefenen van bepaalde functies, het verstrekken van opleidingen, het nemen van monsters en het uitvoeren van metingen, beproevingen en analyses door rechtspersonen of natuurlijke personen, kan afhankelijk worden gemaakt van het voorafgaand verkrijgen van een erkenning.<br /><br />§ 2. De erkenningen worden op grond van hun aard in categorieën ingedeeld.<br /><br />§ 3. De rechtspersonen of natuurlijke personen die in het bezit zijn van een bepaalde titel die door de Vlaamse overheid of door een door haar erkende organisatie is uitgereikt, krijgen een erkenning van rechtswege. <br /><br />§ 4. Rechtspersonen of natuurlijke personen die in het bezit zijn van een bepaalde titel die in een andere Europese lidstaat of in België werd uitgereikt, door een andere overheid of organisatie dan de overheid of organisatie vermeld in § 3, en waarvan ten aanzien van een bepaalde erkenning voorafgaandelijk de gelijkwaardigheid werd vastgesteld, krijgen een erkenning van rechtswege.<br /><br />§ 5. In afwijking van § 1 kan, bij een tijdelijke en incidentele uitoefening van de erkenningsplichtige handelingen vermeld in § 1, door een persoon die niet is gevestigd in het Vlaamse Gewest alleen een voorafgaande kennisgeving worden vereist. Die procedure wordt ingesteld op voorwaarde dat door de aard van de specifieke handelingen een tijdelijke en incidentele uitoefening in redelijkheid mogelijk is en de voorwaarden alleen betrekking hebben op het bezit van beroepskwalificaties.<br /><br />§ 6. De Vlaamse Regering bepaalt voor welke functies, opleidingen en handelingen vermeld in § 1, de erkenningsplicht en, in voorkomend geval, de kennisgevingsplicht, vermeld in § 5, geldt. Ze stelt tevens de nadere regels vast met het oog op de uitvoering van de bepalingen van § 2, § 3, § 4 en § 5.
+
+### ART. 22quinquies.
+
+§ 1. De Vlaamse Regering stelt voor de verschillende categorieën van erkenningen de nadere regels vast voor de aanvraag, weigering of verlening en bekendmaking van erkenningen. Ze bepaalt de adviezen die worden ingewonnen en de wijze waarop ze worden uitgebracht. Ze wijst tevens de overheden en organisaties aan die over de erkenningsaanvragen met een met redenen omkleed besluit uitspraak doen. <br /><br />§ 2. Op zijn verzoek wordt de aanvrager van een erkenning gehoord door de overheden of organisaties, vermeld in § 1. Die overheden of organisaties kunnen zelf het initiatief nemen om de aanvrager over zijn aanspraken op een erkenning te horen.<br /><br />§ 3. De erkenning wordt verleend als voldaan is aan de voorwaarden die per categorie van erkenning of per erkenning door de Vlaamse Regering zijn vastgesteld en die voorafgaand aan de erkenningsaanvraag zijn bekendgemaakt. <br /><br />§ 4. Bij de toepassing van de voorwaarden, vermeld in § 3, wordt rekening gehouden met gelijkwaardige voorwaarden waaraan de aanvrager in een andere Europese lidstaat of in een ander gewest in België al heeft voldaan.
+
+### ART. 22sexies.
+
+§ 1. De overheid of organisatie die over de erkenningsaanvraag uitspraak moet doen, bevestigt binnen dertig dagen de ontvangst van het dossier van de aanvrager en deelt in voorkomend geval mee welke documenten ontbreken. Binnen een termijn van negentig dagen na de indiening van het volledige dossier wordt door de bevoegde overheid of organisatie uitspraak gedaan. De bevoegde overheid of organisatie kan die termijn met maximaal dertig dagen verlengen.<br>
+<br>
+§ 2. De Vlaamse Regering kan de erkenningen aanwijzen die geacht worden stilzwijgend te zijn verkregen als geen beslissing over de erkenningsaanvraag wordt betekend binnen de door haar vastgestelde termijn.<br>
+<br>
+De Vlaamse Regering kan daartoe alleen besluiten nadat ze tot de vaststelling is gekomen dat de belangenafweging door de overheden en organisaties, vermeld in artikel 22quinquies, § 1, bij hun beslissingen over erkenningsaanvragen, niet in alle gevallen noodzakelijk is om dwingende reden van algemeen belang, met inbegrip van een rechtmatig belang van een derde partij.
+
+### ART. 22septies.
+
+Het gebruik van erkenningen kan aan gebruikseisen worden onderworpen. Die gebruikseisen kunnen periodieke evaluaties inhouden waarvan het resultaat het verval van rechtswege van de erkenning tot gevolg kan hebben.<br /><br />De Vlaamse Regering stelt de gebruikseisen vast, alsook de nadere regels voor het verval van rechtswege van de erkenningen.
+
+### ART. 22octies.
+
+Met behoud van de toepassing van de bepalingen van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid kunnen de door de Vlaamse Regering aangewezen overheden de erkenning schorsen of opheffen.<br /><br />De Vlaamse Regering kan bepalen in welke gevallen tot schorsing of opheffing kan worden overgegaan. De houder van de erkenning wordt gehoord op zijn verzoek. De Vlaamse Regering stelt de nadere regels vast voor de bij schorsing of opheffing van de erkenning te volgen procedure.
+
+### ART. 22novies.
+
+Aan elke rechtspersoon of natuurlijke persoon die een erkenningsaanvraag indient, kan voor de behandeling van de erkenningsaanvraag een retributie worden gevraagd. Dezelfde retributie kan worden gevraagd voor de uitoefening van het toezicht op de erkennings- en gebruikseisen. De Vlaamse Regering bepaalt voor welke erkenningen of toezichtsverplichtingen een retributie is verschuldigd en stelt de bedragen vast, alsook de wijze waarop aan de retributie moet worden voldaan.
+
 ## HOOFDSTUK IV BEROEP
 
 ### ART. 23.
