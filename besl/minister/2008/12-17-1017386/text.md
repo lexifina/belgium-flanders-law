@@ -52,13 +52,13 @@ De Vlaamse minister voor Institutionele Hervormingen, Bestuurszaken, <br />Buite
 
 ### ART. 10.
 
-§ 1. Het systeem van beperking van aantal zeedagen in de i.c.e.s.-gebieden IIa, IIIa, IVa, IVb, IVc, VIa, VIIa en VIId, ingesteld overeenkomstig bijlage IIa van Verordening (EG) 40/2008 van de Raad van 16 januari 2008, is van toepassing in januari 2009. Het wordt vanaf 1 februari 2009 vervangen door het systeem dat wordt ingesteld overeenkomstig bijlage IIa van de quotaverordening (EG) 2009 van de Raad van december 2008.<br /><br />§ 2. Het aantal zeedagen in de kabeljauwherstelgebieden, toegekend voor de periode 1 februari 2009 tot en met 31 januari 2010 bij ministerieel besluit van januari 2009, wordt verminderd met de overschrijdingen van het aantal zeedagen toegekend conform artikel 10 van het ministerieel besluit van 14 december 2007.<br /><br />§ 3. Het wordt niet toegestaan dat tussen individuele vissersvaartuigen zeedagen in de kabeljauwherstelgebieden worden overgedragen.<br /><br />§ 4. Bij de overschrijding van de grenzen van de i.c.e.s.-gebieden, vermeld in § 1, registreren de kapiteins van vissersvaartuigen in hun logboek, de dag, het tijdstip en de positie van overschrijding.<br /><br />§ 5. De visvergunning van vissersvaartuigen die hun aantal zeedagen overschrijden, kan voor vijf opeenvolgende dagen worden ingetrokken. Het toegekende aantal zeedagen in de kabeljauwherstelgebieden wordt in 2010 overeenkomstig gekort.<br /><br />§ 6. Vissersvaartuigen waarvoor een of meer vistuigen conform bijlage IIa worden gemeld, krijgen een overeenkomstig speciaal visdocument 2009 voor de kabeljauwherstelgebieden IV en VIId.<br /><br />§ 7. Vissersvaartuigen die in 2001, of in 2002, of in 2003, of in 2004, of in 2005, of in 2006, of in 2007 of in 2008 gevist hebben in het i.c.e.s.-gebied VIIa krijgen een speciaal visdocument 2009 voor het kabeljauwherstelgebied VIIa. De vissersvaartuigen die dit speciaal visdocument niet hebben, mogen niet in het i.c.e.s.-gebied VIIa vissen.<br /><br />§ 8. Vissersvaartuigen die of in 2001, of in 2002, of in 2003, of in 2004, of in 2005, of in 2006, of in 2007, of in 2008 gevist hebben in het i.c.e.s.-gebied VIa krijgen een speciaal visdocument 2009 voor het kabeljauwherstelgebied VIa. De vissersvaartuigen die dit speciaal visdocument niet hebben, mogen niet in het i.c.e.s.-gebied VIa vissen.<br /><br />
+...
 
 ## Afdeling II Communautaire zeedagen tongherstelgebied (ices-gebied VIIe)
 
 ### ART. 11.
 
-§ 1. Het systeem van beperking van aantal zeedagen in het gebied VIIe ingesteld overeenkomstig bijlage IIc van verordening (EG) 40/2008 van de Raad van 16 januari 2008 is van toepassing in januari 2009. Het wordt vanaf 1 februari 2009 vervangen door het systeem dat wordt ingesteld overeenkomstig bijlage IIc van de quotaverordening (EG) 2009 van de Raad van december 2008.<br /><br />§ 2. Het aantal zeedagen in het gebied VIIe, vermeld in tabel I van bijlage IIc, toegekend voor de periode 1 februari 2009 tot en met 31 januari 2010, wordt verminderd met de overschrijding van het aantal zeedagen toegekend conform artikel 11 van het ministerieel besluit van 14 december 2007.<br /><br />§ 3. Het wordt niet toegestaan dat tussen individuele vissersvaartuigen zeedagen in gebied VIIe worden overgedragen.<br /><br />§ 4. Vissersvaartuigen die of in 2002, of in 2003, of in 2004, of in 2005, of in 2006, of in 2007, of in 2008 met de boomkor gevist hebben in VIIe krijgen een speciaal visdocument VIIe 2009.<br /><br />§ 5. Bij de overschrijding van de grenzen in het i.c.e.s.-gebied VIIe registreren de kapiteins van vissersvaartuigen in hun logboek de dag, het tijdstip en de positie van overschrijding.<br /><br />§ 6. De visvergunning van vissersvaartuigen die hun aantal zeedagen in het gebied VIIe overschrijden, kan voor vijf opeenvolgende dagen worden ingetrokken. Het speciaal visdocument VIIe, afgeleverd overeenkomstig bijlage IIc, wordt in 2010 voor maar zes maanden toegekend.<br /><br />
+...
 
 ## Afdeling III Vaartdagen
 
@@ -68,7 +68,7 @@ De Vlaamse minister voor Institutionele Hervormingen, Bestuurszaken, <br />Buite
 
 ### ART. 13.
 
-Zodra een vissersvaartuig het maximaal toegelaten vaartdagen, vermeld in artikel 12, overschrijdt met twee vaartdagen worden die vaartdagen in mindering gebracht van het maximaal toegestane aantal vaartdagen dat vanaf 1 januari 2010 aan dat vissersvaartuig zal worden toegekend. Het aantal in mindering te brengen dagen wordt vermeerderd met één vaartdag per twee vaartdagen overschrijding.<br /><br />
+...
 
 ## TITEL II Bijzondere bepalingen
 
@@ -166,11 +166,11 @@ Zodra een vissersvaartuig het maximaal toegelaten vaartdagen, vermeld in artikel
 
 ### ART. 28.
 
-§ 1. In geval van overtredingen van artikel 10 tot en met 12, van artikel 14 tot en met 20 en van artikel 22 tot en met 26, of van de beperkingen aangebracht aan de visvergunningen, kan de visvergunning die aan het vissersvaartuig werd afgeleverd voor een periode van minimaal vijf opeenvolgende dagen worden ingetrokken.<br /><br />De periode van intrekking van de visvergunning treedt in werking op de derde dag die volgt op die van de notificatie van de intrekking van de visvergunning die de dienst met een aangetekende brief aan de eigenaar van het vissersvaartuig in kwestie heeft gestuurd. Tijdens die periode moet het vissersvaartuig inactief liggen in een Belgische vissershaven. Het maximale aantal vaartdagen, zoals bepaald in artikel 12, wordt verminderd met het aantal dagen van intrekking van de visvergunningen.<br /><br />§ 2. Als de toegewezen vangstmogelijkheden, vermeld in artikel 14 tot en met 19, door het vissersvaartuig worden overschreden, wordt de overschrijding, vermenigvuldigd met een coëfficiënt van 1,2 in mindering gebracht op de vangstmogelijkheden die aan dat vaartuig zullen worden toegewezen in de overeenkomstige periode van het jaar 2010.<br /><br />
+...
 
 ### ART. 29.
 
-Overtredingen van de bepalingen van dit besluit en van de beperkingen aangebracht aan de visvergunningen worden opgespoord, vastgesteld en gestraft overeenkomstig de bepalingen van de wet van 12 april 1957, waarbij de koning wordt gemachtigd maatregelen voor te schrijven ter bescherming van de biologische hulpbronnen van de zee en van de wet van 28 maart 1975 betreffende de handel in landbouw-, tuinbouw- en zeevisserijproducten.<br /><br />
+...
 
 ### ART. 30.
 
