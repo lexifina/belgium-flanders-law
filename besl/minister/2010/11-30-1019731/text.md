@@ -6,7 +6,7 @@ De Vlaamse minister van Energie, Wonen, Steden en Sociale Economie,<br /><br />G
 
 ### ART. 1.
 
-De tabel, vermeld in artikel 29/2, derde lid, van het besluit van de Vlaamse Regering van 13 maart 2009 betreffende de sociale openbaredienstverplichtingen in de vrijgemaakte elektriciteits- en aardgasmarkt gaat als bijlage 1 bij dit besluit.<br /><br />
+De tabel, vermeld in artikel 5.4.7, derde lid van het Energiebesluit van 19 november 2010 gaat als bijlage 1 bij dit besluit.<br /><br />
 
 ### ART. 2.
 

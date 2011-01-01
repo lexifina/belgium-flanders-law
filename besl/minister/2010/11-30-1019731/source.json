@@ -2,16 +2,16 @@
   "codex_id": 1019731,
   "title": "Ministerieel besluit van 2010-11-30 houdende vastlegging van de tabel betreffende de hoeveelheid aardgas die de huishoudelijke afnemer heeft om tot het einde van de winterperiode te beschikken over een minimale verwarming van de woning",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019731/VolledigDocument?datum=2010-12-01",
-  "source_sha256": "0f0bf34abc1bf344d82b0bab0436f87800dc0fb829f1d80bcd03e972b7f6576c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019731/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "0972dff9ce3615602f06f12867e06eebffc5ceb17e6a358f0a3ea0178a18e07c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019731&param=informatie",
-  "as_of": "2010-12-01",
+  "as_of": "2011-01-01",
   "made": "2010-11-30",
   "gazette": "2010-12-03",
   "numac": 2010035928,
   "document_start": "2010-12-01",
   "document_end": "2011-11-30",
-  "in_force": "2010-12-01",
+  "in_force": "2011-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2010-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
