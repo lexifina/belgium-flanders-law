@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019735,
+  "title": "Decreet van 2010-11-19 tot wijziging van het decreet van 7 juli 2006 houdende toekenning van een rentetoelage voor ondernemingen die lijden onder de verstoorde bereikbaarheid ten gevolge van hinder door openbare werken",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019735/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "bddca5945ecaab34ac6deeddc3cedb4bea7fe62630d82c4a9b7dd132568b0677",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019735&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2010-11-19",
+  "gazette": "2010-12-06",
+  "numac": 2010035901,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
