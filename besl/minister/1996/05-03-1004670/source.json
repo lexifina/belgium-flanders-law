@@ -2,16 +2,16 @@
   "codex_id": 1004670,
   "title": "Ministerieel besluit van 1996-05-03 tot aanwijzing van de bevoegde ambtenaren in uitvoering van het besluit van de Vlaamse regering van 18 september 1991 houdende het opleggen van minimumeisen inzake thermische isolatie van woongebouwen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004670/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "656754c2aae8e5e7673cf9bc9f175b93fef19b88bf83bbfa0800ca15a6aaa577",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004670/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "047ec0ac360cecb19d8c00f34e48e751a13bebb055559dd69c682590e634ad88",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004670&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-01-01",
   "made": "1996-05-03",
   "gazette": "1996-07-10",
   "numac": 0,
   "document_start": "1996-07-10",
   "document_end": "2010-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2011-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
