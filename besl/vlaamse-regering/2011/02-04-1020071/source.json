@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020071,
+  "title": "Besluit van de Vlaamse Regering van 2011-02-04 houdende de vastgelegde voorwaarden van de Europese Richtlijn 2005/36/EC bij de vaststelling van het opleidingsprogramma in Vlaanderen leidende tot de graad van bachelor met de kwalificatie verpleegkunde",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020071/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "4913263edc76f5a29d1cc37e689f588010ca356b09efc5e3e835550e36e43c19",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020071&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2011-02-04",
+  "gazette": "2011-03-02",
+  "numac": 2011035183,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
