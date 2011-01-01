@@ -2,16 +2,16 @@
   "codex_id": 1005163,
   "title": "Decreet van 1996-12-20 [tot regeling van de rol van de lokale adviescommissie in het kader van het recht op minimumlevering van elektriciteit, gas en water][en de levering van thermische energie]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005163/VolledigDocument?datum=2007-07-10",
-  "source_sha256": "24642137440c58c9b2e0937d41c83c6b98a95721211c2b76abb823dccbd2adb2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005163/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "903c25251a52b7b8c6ca307fd19b088d7c1a5f96eb2240b1fe62dd2fa78ae081",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005163&param=informatie",
-  "as_of": "2007-07-10",
+  "as_of": "2011-01-01",
   "made": "1996-12-20",
   "gazette": "1997-02-08",
   "numac": 1997035126,
   "document_start": null,
   "document_end": null,
-  "in_force": "2007-07-10",
+  "in_force": "2011-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2007-07-10; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
