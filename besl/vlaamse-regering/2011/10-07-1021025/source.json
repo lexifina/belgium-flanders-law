@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021025,
+  "title": "Besluit van de Vlaamse Regering van 2011-10-07 tot wijziging van het besluit van de Vlaamse Regering van 13 december 2002 betreffende de erkenning en subsidiëring van een steunpunt voor kennisbeheer en netwerkvorming met betrekking tot de hulp- en dienstverlening aan specifieke subdoelgroepen van personen met een handicap wat betreft de optimalisatie van de complementariteit met de consulentenwerking",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021025/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "e925f41f4b42e1ab8c85ccdaf30b2d7c99947b77aa3c0e0bf051facb29350dd9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021025&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2011-10-07",
+  "gazette": "2011-12-08",
+  "numac": 2011035974,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
