@@ -58,6 +58,10 @@ In artikel 110 van hetzelfde decreet worden de volgende wijzigingen aangebracht 
 
 ## Afdeling II Decreet betreffende de hogescholen
 
+### ART. V.19.
+
+Aan hetzelfde decreet wordt een artikel 322bis toegevoegd, dat luidt als volgt :<br />« Art. 322bis. In afwijking van het bepaalde in artikel 322 kan het hogeschoolbestuur vanaf 1 januari 2011 de personeelsleden, bedoeld in artikel 318, 2°, die aan de voorwaarden, vermeld in artikel 326, tweede lid, voldoen, benoemen in het ambt waarnaar ze geconcordeerd zijn, zonder dat deze personeelsleden over het voor dit ambt vereiste diploma beschikken. ».<br /><br />
+
 ## Afdeling III Instellingen voor postinitieel onderwijs, wetenschappelijk onderzoek en wetenschappelijke dienstverlening
 
 ### ART. V.21.
@@ -81,6 +85,18 @@ In artikel 3 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2004,
 ### ART. V.28.
 
 In artikel 13 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° de woorden « de Vlaamse Interuniversitaire Raad, de Vlaamse Hogescholenraad » worden vervangen door de woorden « de Vlaamse Universiteiten en Hogescholen Raad »;<br />2° de zinsnede « of science » of « of arts », wordt vervangen door de woorden « of Arts », « of Science », « of Laws », « of Medicine », « of Veterinary Science », « of Veterinary Medicine » of « of Philosophy »;<br />3° er wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« De onderstaande afkortingen zijn voor de volgende categorieën voorbehouden :<br />1° Ba voor diegene die gerechtigd is tot het voeren van de graad van bachelor;<br />2° Ma voor diegene die gerechtigd is tot het voeren van de graad van master;<br />3° BA voor diegene die gerechtigd is tot het voeren van de graad van bachelor met de specificatie « of Arts »;<br />4° MA voor diegene die gerechtigd is tot het voeren van de graad van master met de specificatie « of Arts »;<br />5° BSc voor diegene die gerechtigd is tot het voeren van de graad van bachelor met de specificatie « of Science »;<br />6° MSc voor diegene die gerechtigd is tot het voeren van de graad van master met de specificatie « of Science »;<br />7° LL.B voor diegene die gerechtigd is tot het voeren van de graad van bachelor met de specificatie « of Laws »;<br />8° LL.M voor diegene die gerechtigd is tot het voeren van de graad van master met de specificatie « of Laws »;<br />9° MMed voor diegene die gerechtigd is tot het voeren van de graad van master met de specificatie « of Medicine »;<br />10° BVetSc voor diegene die gerechtigd is tot het voeren van de graad van bachelor met de specificatie « of Veterinary Science »;<br />11° MVetMed voor diegene die gerechtigd is tot het voeren van de graad van master met de specificatie « of Veterinary Medicine »;<br />12° MPhil voor diegene die gerechtigd is tot het voeren van de graad van master met de specificatie « of Philosophy ». ».<br /><br />
+
+### ART. V.37.
+
+Artikel 63bis van hetzelfde decreet, gewijzigd bij het decreet van 9 juli 2010, wordt vervangen door wat volgt :<br />« Art. 63bis. Hogescholen en universiteiten kunnen uiterlijk op 31 oktober 2011, 30 juni 2012, 30 juni 2013 en 30 juni 2014 een aanvraag indienen bij de Vlaamse Regering tot uitbreiding van de studieomvang van een masteropleiding met een studieomvang van 60 studiepunten naar een masteropleiding met een studieomvang van 90 of 120 studiepunten met het oog op het starten van deze masteropleidingen ten vroegste vanaf het academiejaar dat volgt op het academiejaar waarin de Vlaamse Regering het in artikel 63sexies bedoelde besluit genomen heeft. De instellingen geven een motivatie waarom de verlengde masteropleiding in het in de aanvraag voorgestelde academiejaar, moet starten. De aanvragen worden gezamenlijk ingediend door alle instellingen die de betrokken opleidingen aanbieden. Aanvragen die betrekking hebben op de academische masteropleidingen van de hogescholen worden gezamenlijk ingediend door de hogescholen en de universiteiten die betrokken zijn bij de academisering van deze opleidingen. ».<br /><br />
+
+### ART. V.39.
+
+Aan artikel 63sexies van hetzelfde decreet, gewijzigd bij het decreet van 9 juli 2010, wordt een tweede lid ingevoegd, dat luidt als volgt :<br />« In afwijking van het eerste lid, neemt de Vlaamse Regering voor de aanvragen die uiterlijk op 31 oktober 2011 worden ingediend, een beslissing voor 1 april 2012. ».<br /><br />
+
+### ART. V.40.
+
+In artikel 63duodecies, paragraaf 3, derde lid, van hetzelfde decreet, gewijzigd bij het decreet van 9 juli 2010, wordt zowel in de eerste als in de tweede zin het woord « dertig » vervangen door het woord « zestig ».<br /><br />
 
 ## Afdeling V Rechtspositieregeling van de student, de medezeggenschap, de integratie van bepaalde afdelingen in het hoger onderwijs en de begeleiding van de herstructurering
 
@@ -179,5 +195,21 @@ Voor de in artikel XI. 1 vermelde personeelsleden die :<br />1° in een in artik
 Deze afdeling geldt niet voor de pedagogische begeleidingsdienst.<br /><br />
 
 ## Afdeling II Syndicale premie
+
+### ART. XI.4.
+
+§ 1. Deze afdeling is van toepassing op :<br />1° de contractuele personeelsleden, aangesteld in een instelling of een centrum bedoeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding, die onder het toepassingsgebied vallen van het koninklijk besluit van 20 december 1989 tot oprichting en tot vaststelling van de benaming en bevoegdheid van het Paritair Comité voor de bedienden van de inrichtingen van het gesubsidieerd vrij onderwijs en tot vaststelling van het aantal leden ervan;<br />2° de contractuele personeelsleden van de vrije hogescholen die onder het toepassingsgebied vallen van het koninklijk besluit van 20 december 1989 tot oprichting en tot vaststelling van de benaming en bevoegdheid van het Paritair Comité voor de bedienden van de inrichtingen van het gesubsidieerd vrij onderwijs en tot vaststelling van het aantal leden ervan;<br />3° de personeelsleden van de vrije universiteiten;<br />4° de personeelsleden, vermeld in artikel 127, § 1, 2° en 3°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />§ 2. Voor de toepassing van deze afdeling wordt onder « representatieve vakorganisatie » een personeelsvereniging verstaan die een werking ontplooit ten behoeve van het onderwijs en die aangesloten is bij een syndicale organisatie die vertegenwoordigd is in de Sociaal-Economische Raad van Vlaanderen.<br /><br />
+
+### ART. XI.5.
+
+De personeelsleden vermeld in artikel XI.4, § 1, ontvangen een jaarlijkse vakbondspremie wanneer ze als bijdragebetalend lid aangesloten zijn bij een representatieve vakorganisatie. De Vlaamse Regering bepaalt de voorwaarden waaraan de personeelsleden moeten voldoen om beschouwd te kunnen worden als bijdragebetalend lid.<br /><br />De Vlaamse Regering bepaalt het bedrag, de toekenningsvoorwaarden en de betalingsmodaliteiten van de vakbondspremie, met inbegrip van de maatregelen ter voorkoming van de cumulatieve toekenning en uitbetaling ervan.<br /><br />
+
+### ART. XI.6.
+
+De Vlaamse overheid draagt de sommen nodig voor de uitbetaling van de vakbondspremies en voor de daarmee verbonden administratieve werkingskosten over aan de uitbetalingsinstellingen. Per syndicale organisatie die vertegenwoordigd is in de Sociaal-Economische Raad van Vlaanderen wordt er één uitbetalingsinstelling opgericht in de vorm van een vereniging zonder winstoogmerk.<br /><br />De Vlaamse Regering bepaalt het bedrag en de stortingsmodaliteiten van de in het eerste lid vermelde sommen.<br /><br />De Vlaamse Regering bepaalt de controlemaatregelen met betrekking tot de toekenning en de uitbetaling van de vakbondspremies.<br /><br />De Vlaamse Regering regelt eveneens de controle op de in het eerste lid vermelde uitbetalingsinstellingen.<br /><br />
+
+### ART. XI.7.
+
+De bepalingen van deze afdeling zijn niet van toepassing op de personeelsleden die op de datum van de bekendmaking van dit decreet in het Belgisch Staatsblad een vakbondspremie kunnen verkrijgen op grond van andere wettelijke, reglementaire of conventionele bepalingen.<br /><br />
 
 ## Afdeling III Inwerkingtreding
