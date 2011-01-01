@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020427,
+  "title": "Ministerieel besluit van 2011-06-23 tot bepaling van de diensten voor gezinszorg en aanvullende thuiszorg en de diensten voor logistieke hulp die in aanmerking komen voor subsidiëring en tot bepaling van het aantal VTE per functiecategorie en per dienst voor het jaar 2011",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020427/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "f57cccc331c5d19fc521375346a328951dd0849c57908e38ea306be32ef7caba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020427&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2011-06-23",
+  "gazette": "2011-07-14",
+  "numac": 2011035545,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
