@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020254,
+  "title": "Decreet van 2011-05-06 houdende wijziging van het Mestdecreet van 22 december 2006",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020254/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "3b532a3c4b58f47fe8fdaa97bae7b9c955087287cb36d331b9a9b1da702cc225",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020254&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2011-05-06",
+  "gazette": "2011-05-13",
+  "numac": 2011035366,
+  "document_start": "2011-05-13",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
