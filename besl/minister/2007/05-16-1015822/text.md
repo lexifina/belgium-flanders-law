@@ -840,7 +840,7 @@ Voor een openbaar bestuur geldt het volgende : op 1 januari van het subsidiejaar
 
 ### ART. 4.
 
-De forfaitaire bedragen, vermeld in dit besluit, worden elk jaar op 1 januari verhoogd met de procentuele stijging van de gezondheidsindex tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar.<br /><br />De subsidiebedragen worden niet geïndexeerd in 2007.<br />
+De forfaitaire bedragen, vermeld in dit besluit, worden elk jaar op 1 januari verhoogd met de procentuele stijging van de gezondheidsindex tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar.<br /><br />De subsidiebedragen worden niet geïndexeerd in 2007. In 2011 worden de bedragen, vermeld in dit besluit, op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het kalenderjaar 2008 en 1 november van het kalenderjaar 2010.<br />
 
 ### ART. 5.
 

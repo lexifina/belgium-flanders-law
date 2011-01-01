@@ -2,16 +2,16 @@
   "codex_id": 1015822,
   "title": "Ministerieel besluit van 2007-05-16 betreffende de bepaling van de forfaitaire subsidiebedragen voor het basisaanbod van kinderdagverblijven en diensten voor onthaalouders",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015822/VolledigDocument?datum=2008-07-01",
-  "source_sha256": "32bb76b288b6f106eb5e20a5ad9dd07b2d1a8328f83e343f38141f7aa6043249",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015822/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "434d22ff1258e1910d8b300eaf1c1a94c2d80ddd8e470d866f5f43c79034f349",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015822&param=informatie",
-  "as_of": "2008-07-01",
+  "as_of": "2011-01-01",
   "made": "2007-05-16",
   "gazette": "2007-06-08",
   "numac": 2007035831,
   "document_start": "2007-01-01",
   "document_end": "2014-03-31",
-  "in_force": "2008-07-01",
+  "in_force": "2011-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2008-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
