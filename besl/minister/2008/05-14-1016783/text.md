@@ -1322,6 +1322,8 @@ Dit besluit treedt in werking op 1 juni 2008.
 
 ### BIJLAGE
 
+<p>&nbsp;</p>
+
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
@@ -1534,7 +1536,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 		</tr>
 		<tr>
 			<td rowspan="9" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
-			<p>9.6 Vlaamse reguleringsinstantie voor de Electriciteits- en Gasmarkt</p>
+			<p>9.6 Vlaamse Regulator van de Electriciteits- en Gasmarkt</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
 			<p>juridisch directeur</p>
