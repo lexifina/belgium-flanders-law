@@ -184,7 +184,7 @@ Als een kinderdagverblijf in het kader van een tewerkstellingsprogramma dat spec
 
 ### ART. 28.
 
-De subsidies die in dit besluit worden gedefinieerd, worden elk jaar op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar.
+De subsidies die in dit besluit worden gedefinieerd, worden elk jaar op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar. In 2011 worden de bedragen, vermeld in dit besluit, op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het kalenderjaar 2008 en 1 november van het kalenderjaar 2010.
 
 ### ART. 28bis.
 
