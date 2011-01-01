@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019910,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-03 betreffende de uitbreiding van de onderwijsbevoegdheid Nederlands Tweede Taal Richtgraad 1 van het leergebied Nederlands Tweede Taal van de Basiseducatie naar de Centra voor Volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019910/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "a592a3f88db767c26f1c61fdf5e3d7f4e074547872613fd08b172858d5a9e182",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019910&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2010-12-03",
+  "gazette": "2011-01-14",
+  "numac": 2011200056,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
