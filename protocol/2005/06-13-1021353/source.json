@@ -2,16 +2,16 @@
   "codex_id": 1021353,
   "title": "Protocol van 2005-06-13 gesloten tussen de Federale Overheid en de Overheden bedoeld in artikelen 128, 130, 135 en 138 van de Grondwet, betreffende de totstandkoming en uitvoering van een Voedings- en Gezondheidsprogramma voor België",
   "type": "Protocol",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021353/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "4bf9561f1f49dc7aa109fc0e44a957cbcdcc7985e54eb3aa8291cd961526a31c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021353/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "d4a6d22d2e08f0585f3d928b68a878f6e821345d2dd0d68a44ec5532ef886dcb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021353&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-01-01",
   "made": "2005-06-13",
   "gazette": "2005-11-23",
   "numac": 2005022891,
   "document_start": "2005-06-13",
   "document_end": "2010-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2011-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }

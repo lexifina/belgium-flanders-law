@@ -2,28 +2,28 @@
 
 ### Aanhef
 
-Gelet op de respectieve bevoegdheden waarover de Federale Overheid en de Overheden bedoeld in artikel 128, 130, 135 en 138 van de Grondwet, hierna « De Gemeenschappen » genoemd, op het vlak van het gezondheidsbeleid beschikken;<br /><br />Gelet op de Bijzondere wet tot hervorming der instellingen van 8 augustus 1980, zoals gewijzigd, en inzonderheid artikel 5, § 1, I;<br /><br />Gelet op het decreet II van 19 juli 1993 van de Franse Gemeenschapsraad tot toekenning van de uitoefening van sommige bevoegdheden van de Franse Gemeenschap aan het Waalse Gewest en de Franse Gemeenschapscommissie, zoals gewijzigd, en inzonderheid artikel 3, 6°;<br /><br />Overwegende dat een goed geïmplementeerd voedings- en gezondheidsprogramma gezondheidswinst oplevert bij de bevolking;<br /><br />Overwegende dat één van de projecten die de Wereldgezondheidsorganisatie ter bestrijding van obesitas, hart-en vaatziekten en diabetes type 2 in het actiepunt WHA55.23 lanceert, een globale voedings-, lichaamsbewegings- en gezondheidsstrategie betreft. Hierbij roept de WGO haar leden op om mee te denken en te werken aan deze strategie;<br /><br />Overwegende dat de Health en Consumer Protection DG van de Europese Unie in het kader van het communautair actieplan i.v.m. volksgezondheid beslist heeft om een nieuw netwerk van nationale overheden op te richten, met name het « Nutrition and Physical Activity Network »;<br /><br />Overwegende dat naar aanleiding van de Interministeriële Conferentie van 13 mei 2004 een principe-akkoord werd bereikt tussen de bevoegde gezondheidsministers betreffende de uitwerking van een Nationaal voeding- en gezondheidsprogramma;<br /><br />Overwegende dat naar aanleiding van de Interministeriële Conferentie van 6 december 2004, een kadertekst Nationaal voeding -en gezondheidsprogramma werd bestudeerd,<br /><br />Komen de ondergetekende partijen wat volgt overeen :<br /><br />
+...
 
 ### ART. 1.
 
-§ 1. Zonder afbreuk aan hun eigen bevoegdheden vastgelegd in de Grondwet   en krachtens diezelfde, in de bijzondere wetten en bijzondere decreten,   verbinden ondertekenende partijen zich ertoe hun gezonde voedingsbeleid in   overleg overeen te stemmen.<BR><BR>Het doel van een gezamenlijk voedings- en   gezondheidsprogramma is het behalen van meer gezondheidswinst door een meer   doeltreffende en doelmatige aanpak van gezondheidsproblemen die voortvloeien uit   onaangepaste voeding en bewegingsarmoede.<BR><BR>Deze verhoging van de   doeltreffendheid en van de doelmatigheid van de aanpak wordt bereikt doordat,   enerzijds, iedere partij of beleidsinstantie binnen de eigen bevoegdheden de   reeds bestaande maatregelen zou optimaliseren of, desgewenst, zou aanvullen met   initiatieven om te komen tot een zo groot mogelijke complementariteit op de   verschillende beleidsvlakken en, anderzijds, nodeloze overlappingen of   tegenstrijdigheden te voorkomen van initiatieven die door verschillende partijen   of beleidsinstanties genomen worden.<BR><BR>Het nationaal voedings- en   gezondheidsprogramma moet zowel de bevolking in staat stellen om haar gezondheid   te verbeteren via het stimuleren van een gezonde en evenwichtige voedingskeuze,   als alle betrokken actoren ertoe aanzetten hun respectieve bijdrage te   leveren.<BR><BR>§ 2. De strategische hoofdlijnen van dit voedings- en   gezondheidsprogramma zijn :<BR>1. Informatie en voorlichting van de   consumenten.<BR>2. Opvoeding van jongeren en creëren van een milieu dat leidt   tot goede voedingsgewoonten.<BR>3. Behandeling van voedingsstoornissen in de   gezondheidszorg.<BR>4. De voedingssector ertoe aanzetten mee te stappen in het   Voedings- en Gezondheidsprogramma.<BR>5. Meer controles op de voedingsmiddelen   en op de voedingswaarde.<BR><BR>
+...
 
 ### ART. 2.
 
-§ 1. Dit plan wordt uitgetekend door een Stuurgroep directeur. De Stuurgroep wordt voorgezeten door een vertegenwoordiger van de Federale Minister van Volksgezondheid en bestaat uit :<br />• 2 leden voorgedragen door de Minister bevoegd voor Volksgezondheid van de federale overheid;<br />• 2 leden voorgedragen door de Minister bevoegd voor Volksgezondheid van de Vlaamse Gemeenschap;<br />• 2 leden voorgedragen door de Minister bevoegd voor Volksgezondheid van de Franstalige Gemeenschap;<br />• 1 lid voorgedragen door de Minister bevoegd voor Gezondheidsbeleid van het Waals gewest;<br />• 1 lid voorgedragen door de Minister bevoegd voor Volksgezondheid van de Duitse Gemeenschap;<br />• 2 leden voorgedragen door de Ministers bevoegd voor gezondheidsbeleid van de Gemeenschappelijke Gemeenschapscommissie;<br />• experten wiens deelname unaniem is goedgekeurd door het Beheerscomité.<br /><br />§ 2. Voor elke vertegenwoordiger is het toegelaten een plaatsvervanger aan te duiden.<br /><br />§ 3. Het secretariaat wordt verzekerd door een ambtenaar van de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu welke bijgestaan kan worden door een functionaris van de Gefedereerde Entiteiten.<br /><br />
+...
 
 ### ART. 3.
 
-De Stuurgroep directeur stelt een reglement van interne orde op hetgeen ter goedkeuring zal voorgelegd worden aan het Beheerscomité samengesteld uit vertegenwoordigers van de betrokken Ministers.<br /><br />
+...
 
 ### ART. 4.
 
-§ 1. Het beheerscomité heeft tot doel om de werkzaamheden van de Stuurgroep directeur aan te sturen, op te volgen en te controleren. Beslissingen van het Beheerscomité worden voorgelegd ter goedkeuring aan de Interministeriële Conferentie.<br /><br />§ 2. De adviezen, voorstellen en aanbevelingen van de Stuurgroep directeur worden binnen een termijn van 15 dagen na elke vergadering van deze groep overgemaakt door de voorzitter van het Beheerscomité aan elk lid van dit comité.<br /><br />§ 3. Het Beheerscomité wordt voorgezetten door een vertegenwoordiger van de federale Minister van Volksgezondheid en bestaat uit een vertegenwoordiger van elke minister welke volksgezondheid binnen zijn takenpakket heeft.<br /><br />
+...
 
 ### ART. 5.
 
-§ 1. Verbintenis van de federale overheid.<br />De federale overheid verbindt er zich toe om binnen haar bevoegdheid te werken, met name rond de normering van voedingsproducten (etikettering, gezondheidsbeweringen en voedingssuplementen...), aan veiligheidsmaatregelen voor de voedselketen, het treffen van maatregelen in horecazaken en restaurants en het stimuleren van wetenschappelijk onderzoek.<br /><br />§ 2. Verbintenis van de Gemeenschappen en Gewesten.<br />De Gemeenschappen en de Gewesten verbinden er zich toe om binnen hun bevoegdheid te werken, met name rond het informeren en sensibiliseren van de bevolking met een specifieke benadering van kinderen, jongeren, volwassenen en ouderen, het voorzien van vorming naar de algemene bevolking en specifieke doelgroepen, het treffen van maatregelen ter bevordering van de fysieke activiteit en het stimuleren van wetenschappelijk onderzoek.<br /><br />
+...
 
 ### ART. 6.
 
-Het huidige protocol kent een toepassing voor de periode 2005-2010.<br /><br />Dit protocol treedt in werking op de dag van de ondertekening ervan.<br /><br />
+...
