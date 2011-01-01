@@ -86,13 +86,113 @@ In artikel 135, 10°, van het Vlaamse Wetboek der Successierechten wordt het cij
 
 ## Onderafdeling I. Gemeenschappelijke bepalingen
 
+### ART. 15.
+
+In artikel 2 van het Wetboek van de met de Inkomstenbelastingen Gelijkgestelde Belastingen, het laatst gewijzigd bij de wet van 10 januari 2010, worden de volgende wijzigingen aangebracht :<br /><br />1° tussen het getal « 307, » en het getal « 323 » wordt het getal « 316, » ingevoegd;<br /><br />2° er wordt een vijfde lid ingevoegd, dat luidt als volgt :<br />« Voor de toepassing van titel II en V wordt in dit artikel met het Wetboek van de Inkomstenbelastingen 1992 bedoeld het Wetboek van de Inkomstenbelastingen 1992 zoals van toepassing in het Vlaamse Gewest voor de onroerende voorheffing. »<br />
+
+### ART. 16.
+
+In artikel 2bis van hetzelfde wetboek, ingevoegd bij de wet van 4 augustus 1986, worden de woorden « de Koning » vervangen door de woorden « de Vlaamse Regering ».
+
+### ART. 17.
+
+In artikel 5, § 1, tweede lid, van hetzelfde wetboek, het laatst gewijzigd bij de wet van 8 april 2002, worden de woorden « de Koning » vervangen door de woorden « de Vlaamse Regering ».
+
 ## Onderafdeling II. Verkeersbelasting op de autovoertuigen
+
+### ART. 18.
+
+In artikel 23ter, derde lid, van hetzelfde wetboek, ingevoegd bij de wet van 25 januari 1999, worden de woorden « De Koning » vervangen door de woorden « De Vlaamse Regering ».
+
+### ART. 19.
+
+Artikel 29 van hetzelfde wetboek, vervangen bij de wet van 25 januari 1999, wordt vervangen door wat volgt :<br /><br />« Art. 29. De belasting moet uiterlijk worden gestort binnen een termijn van twee maanden vanaf de datum van de verzending van het aanslagbiljet aan de belastingschuldige, op de wijze vermeld op het aanslagbiljet. ».
+
+### ART. 20.
+
+In artikel 31 van hetzelfde wetboek, vervangen bij de wet van 25 januari 1999, wordt het woord « drie » vervangen door het woord « vijf », en wordt het woord « Ontlasting » vervangen door het woord « Ontheffing ».
+
+### ART. 21.
+
+Artikel 32 van hetzelfde wetboek, vervangen bij de wet van 25 januari 1999, wordt vervangen door wat volgt :<br /><br />« Art. 32. De bezwaarschriften moeten worden gemotiveerd en op straffe van verval worden ingediend uiterlijk binnen een termijn van drie maanden te rekenen van de derde werkdag volgend op de datum van het aanslagbiljet of van de kennisgeving van de aanslag. »
+
+### ART. 22.
+
+In hetzelfde wetboek wordt een artikel 33bis ingevoegd, dat luidt als volgt :<br /><br />« Art. 33bis. De dwangschriften worden uitgevaardigd door de personeelsleden van de Vlaamse Belastingdienst, belast met de invordering.<br />Die personeelsleden van de Vlaamse Belastingdienst moeten een herinneringsbrief sturen ten minste één maand voor de gerechtsdeurwaarder een bevel tot betaling betekent, behalve als de rechten van de schatkist in gevaar zijn. »
+
+### ART. 23.
+
+In artikel 36bis, eerste lid, van hetzelfde wetboek, ingevoegd bij de wet van 27 juni 1972, gewijzigd bij de wetten van 9 juli 2004, 21 december 2009 en 23 december 2009, worden de volgende wijzigingen aangebracht :<br /><br />1° punt 1° wordt opgeheven;<br /><br />2° in punt 3° worden de woorden « sub 1°, bedoelde reglementering » vervangen door de woorden « reglementering voor de inschrijving van de motorvoertuigen en de aanhangwagens » en worden de woorden « de respectievelijke bepalingen van artikelen 36ter en » vervangen door het woord « artikel ».
+
+### ART. 24.
+
+Artikel 36ter van hetzelfde wetboek, ingevoegd bij de wet van 27 juni 1972 en gewijzigd bij de wetten van 25 januari 1999 en 19 februari 2001, wordt opgeheven.
+
+### ART. 25.
+
+In artikel 36quater van hetzelfde wetboek, ingevoegd bij de wet van 23 december 1974, en gewijzigd bij de wetten van 25 januari 1999 en 19 februari 2001, worden de volgende wijzigingen aangebracht :<br /><br />1° in paragraaf 2 worden tussen de woorden « artikel 36bis, 2° » en de woorden « , moet de belasting » de woorden « en 3° » ingevoegd;<br /><br />2° paragraaf 4 wordt opgeheven;<br /><br />3° in paragraaf 5 en paragraaf 6 worden de woorden « moet het kenteken aan de voormelde ambtenaar of dienst worden teruggegeven en » opgeheven.
+
+### ART. 26.
+
+In artikel 38 van hetzelfde wetboek, het laatst gewijzigd bij de wet van 10 februari 1981, worden de volgende wijzigingen aangebracht :<br /><br />1° de woorden « 20 dagen » worden vervangen door de woorden « een maand »;<br /><br />2° in het eerste en het tweede lid worden de woorden « directeur-generaal der directe belastingen » vervangen door de woorden « Vlaamse Regering ».
+
+### ART. 27.
+
+In artikel 39 van hetzelfde wetboek, gewijzigd bij de wet van 10 februari 1981, worden de woorden « het fiscaal kenteken te controleren van » vervangen door de woorden « toezicht uit te oefenen op de naleving van deze titel en uitvoeringsbesluiten ervan met betrekking tot ».
+
+### ART. 28.
+
+In artikel 40 van hetzelfde wetboek, gewijzigd bij de wetten van 24 maart 1970 en 25 januari 1999, worden de woorden « directeur-generaal der directe belastingen » vervangen door de woorden « Vlaamse Regering ».
 
 ## Onderafdeling III. Belasting op de inverkeerstelling
 
+### ART. 29.
+
+In artikel 96, tweede lid, van hetzelfde wetboek, gewijzigd bij de wetten van 1 juni 1992, 28 december 1992 en 25 mei 1993, worden de woorden « De Koning » vervangen door de woorden « De Vlaamse Regering ».
+
+### ART. 30.
+
+In artikel 98, § 3, van hetzelfde wetboek, het laatst gewijzigd bij het koninklijk besluit van 20 juli 2000, wordt paragraaf 3 vervangen door wat volgt :<br /><br />« § 3. De Vlaamse Regering is gemachtigd het bedrag van de belasting te wijzigen. Dat besluit van de Vlaamse Regering moet aan het Vlaams Parlement ter bekrachtiging worden voorgelegd binnen een termijn van twaalf maanden na de bekendmaking van het besluit in het Belgisch Staatsblad. »
+
+### ART. 31.
+
+Artikel 102 van hetzelfde wetboek, gewijzigd bij de wet van 1 juni 1992, wordt vervangen door wat volgt : <br /><br />« Art. 102. De belasting moet worden gestort binnen een termijn van twee maanden vanaf de datum van de verzending van het aanslagbiljet aan de belastingschuldige, op de wijze vermeld op het aanslagbiljet. »
+
+### ART. 32.
+
+Artikel 103bis van hetzelfde wetboek, ingevoegd bij de wet van 25 mei 1993, wordt vervangen door wat volgt :<br /><br />« Art. 103bis. De bezwaarschriften moeten worden gemotiveerd en op straffe van verval worden ingediend binnen een termijn van drie maanden te rekenen van de derde werkdag volgend op de datum van het aanslagbiljet of van de kennisgeving van de aanslag. »
+
+### ART. 33.
+
+In artikel 104 van hetzelfde wetboek, gewijzigd bij de wetten van 1 juni 1992 en 28 december 1992, wordt het woord « drie » vervangen door het woord « vijf ».
+
+### ART. 34.
+
+In artikel 105, tweede lid, van hetzelfde wetboek, ingevoegd bij de wet van 1 juni 1992, worden de woorden « De Koning » vervangen door de woorden « De Vlaamse Regering ».
+
 ## Onderafdeling IV. Controle en invordering
 
+### ART. 35.
+
+Aan hetzelfde wetboek wordt een titel VIII toegevoegd, die bestaat uit artikel 120 tot en met 124, die luidt als volgt :<br /><br />« Titel VIII. - Gemeenschappelijke bepalingen<br /><br />Art. 120. Onverminderd de bevoegdheden die toevertrouwd worden aan de andere officieren of agenten van de gerechtelijke politie en aan de leden van het operationeel kader van de lokale en de federale politie, kent de Vlaamse Regering de hoedanigheid van agent of officier van de gerechtelijke politie toe aan de beëdigde personeelsleden die ze aanwijst om toezicht te houden op de uitvoering van titel I, II, V en VIII, en de uitvoeringsbesluiten ervan.<br /><br />Art. 121. De ambtenaren vermeld in artikel 120, kunnen de bijstand vorderen van de lokale en federale politie bij de uitoefening van controles en maken zich tijdens de uitoefening van hun ambt desgevraagd kenbaar door hun legitimatiekaart voor te leggen.<br /><br />Art. 122. De ambtenaren vermeld in artikel 120, houden toezicht op de bepalingen van titel I, II en V.<br /><br />Art. 123. In het kader van de uitoefening van hun opdracht kunnen de ambtenaren vermeld in artikel 120 :<br />1° bevelen geven aan bestuurders en het verkeer regelen, zoals bepaald in artikel 11 van de wet van 16 maart 1968 betreffende de politie over het wegverkeer;<br />2° inlichtingen inwinnen en controle uitoefenen door personen te ondervragen en documenten en andere informatiedragers in te kijken.<br /><br />Art. 124. De Vlaamse Belastingdienst is bevoegd om de nog niet afgehandelde dossiers over de verkeersbelastingen vermeld in titel II en V waarvoor een dwangschrift door de federale ontvanger werd uitgevaardigd, te innen en verder in te vorderen. »
+
 ## Afdeling II. Eurovignet
+
+### ART. 36.
+
+In artikel 2, tweede lid, van de wet van 27 december 1994 tot goedkeuring van het verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend te Brussel op 9 februari 1994 door de regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van een eurovignet overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993 worden tussen de woorden « Artikelen 2 en 37 » en de woorden « van het Wetboek » de woorden « en titel VIII » ingevoegd.
+
+### ART. 37.
+
+In dezelfde wet wordt een artikel 2ter ingevoegd, dat luidt als volgt :<br /><br />« Art. 2ter. De Vlaamse Belastingdienst krijgt de bevoegdheid om de nog niet afgehandelde dossiers over het eurovignet, waarvoor een dwangschrift van de federale ontvanger werd uitgevaardigd, te innen en in te vorderen. »
+
+### ART. 38.
+
+In artikel 12, § 2, van dezelfde wet worden de woorden « bevoegde gewestelijke directeur » vervangen door de woorden « gemachtigde ambtenaar van het Vlaamse Gewest ».
+
+### ART. 39.
+
+In artikel 13 van dezelfde wet worden de woorden « De Koning » vervangen door de woorden « De Vlaamse Regering ».
 
 ## HOOFDSTUK VI. Onroerende voorheffing
 
