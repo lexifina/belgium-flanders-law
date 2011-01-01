@@ -2,16 +2,16 @@
   "codex_id": 1017946,
   "title": "Decreet van 2009-05-08 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap NV Vlaamse Havens en houdende wijziging van het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017946/VolledigDocument?datum=2009-06-05",
-  "source_sha256": "968d660bf8485ad87ce800965a1b9c7c74bd0a514a0478ed3acf1aa5b3883aba",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017946/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "73c1c741febfb55bf2f289750bd6b550aec81944183dd6341e1ea104c4524d14",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017946&param=informatie",
-  "as_of": "2009-06-05",
+  "as_of": "2011-01-01",
   "made": "2009-05-08",
   "gazette": "2009-06-05",
   "numac": 2009035499,
   "document_start": "2009-06-05",
   "document_end": null,
-  "in_force": "2009-06-05",
+  "in_force": "2011-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2009-06-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
