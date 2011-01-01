@@ -6,20 +6,20 @@ De Vlaamse minister van Cultuur, Jeugd, Sport en Brussel,<br /><br />Gelet op he
 
 ### ART. 1.
 
-Het erkende controlelaboratorium DoCoLab te Zwijnaarde (Gent) dat door de Vlaamse minister, bevoegd voor de medisch verantwoorde sportbeoefening, wordt aangewezen voor de analyse van monsters, ontvangt ten laste van de begroting van de Vlaamse Gemeenschap een vergoeding voor de uitvoering van deze analyses.<br /><br />De vergoeding, afhankelijk van het soort analyse, bedraagt : <br />1° voor de analyse van monsters van een controle binnen wedstrijdverband : 188,61 euro, incl. BTW;<br />2° voor de analyse van monsters van een controle buiten wedstrijdverband : 149,66 euro, incl. BTW;<br />3° voor de analyse van monsters op erythropoëtine : 142,48 euro, incl. BTW;<br />4° voor de analyse op bloeddoping : 138,38 euro, incl. BTW;<br />5° voor een follow-up analyse : 115,83 euro, incl. BTW;<br />6° voor de analyse van monsters van een preventieve gezondheidscontrole : 125 euro opstartkosten en 25 euro per staal, incl. BTW. <br /><br />
+...
 
 ### ART. 2.
 
-De vergoeding voor de analyse op groeihormoon bedraagt 2400 euro, incl. BTW, voor een batch van max. 15 stalen.<br /><br />
+...
 
 ### ART. 3.
 
-De vergoedingen, vermeld in artikel 1, worden jaarlijks aangepast volgens de volgende formule : <br /> + 25% van de max. sub jaar x-1 <br /><br />
+...
 
 ### ART. 4.
 
-Het ministerieel besluit van 19 mei 2008 houdende de vaststelling van de vergoeding van de controlelaboratoria wordt opgeheven.<br /><br />
+...
 
 ### ART. 5.
 
-Dit besluit treedt in werking op 1 januari 2009.<br /><br />
+...
