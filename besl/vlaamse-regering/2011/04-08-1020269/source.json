@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020269,
+  "title": "Besluit van de Vlaamse Regering van 2011-04-08 tot wijziging van het Energiebesluit wat betreft de invoering van duurzaamheidscriteria voor vloeibare biomassa en de garanties van oorsprong",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020269/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "3cd44cfea53fb4d45a54e61fefcd4c35ac840752bb7bdc377ca2b0cfb76da170",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020269&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2011-04-08",
+  "gazette": "2011-05-23",
+  "numac": 2011035351,
+  "document_start": "2011-05-23",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
