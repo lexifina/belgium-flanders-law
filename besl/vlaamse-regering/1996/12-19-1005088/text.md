@@ -16,7 +16,85 @@ Het Vlaams Subsidieagentschap voor Werk en Sociale Economie, hierna het Subsidie
 
 ### ART. 3.
 
-§ 1. Het bedrag van de subsidie wordt vastgesteld op 238,20 frank per gepresteerd uur of per uur dat daarmee gelijkgesteld kan worden.<br /><br />Het subsidiebedrag, genoemd in het eerste lid, wordt gekoppeld aan de spilindex 101,38. Het wordt met ingang van 1 januari 1999 geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br /><br />Voor de werknemers met het statuut van moeilijk te plaatsen werkloze en met het statuut van gesubsidieerde contractueel wordt de subsidie verminderd met het bedrag van de uitkeringen, respectievelijk de loonkostsubsidies, die zij krachtens hun statuut genieten. <br /><br />----<br />(Bij wijze van overgangsbepaling wordt de subsidie bedoeld in artikel 3, § 1, eerste en vierde lid van 1 juli 1998 tot en met 31 december 1998 verhoogd met 4,43 frank per gepresteerd uur of per uur dat daarmee gelijkgesteld wordt. - Zie B.V.R. 8 juni 1999, art. 6)<br />----<br /><br />§ 2. Een aanvullende subsidie van 62,71 frank per uur wordt toege-kend ten voordele van de zwakke werknemers in de beschutte werkplaatsen.<br /><br />Het subsidiebedrag, genoemd in het eerste lid, wordt gekoppeld aan de spilindex 101,38. Het wordt met ingang van 1 januari 1999 geïndexeerd overeenkomstig de bepalingen van voormeld koninklijk besluit van 24 december 1993. <br /><br />Onder zwakke werknemers wordt verstaan:<br />1° de personen met een arbeidshandicap die buitengewoon secundair onderwijs met opleidingsvorm 1 of 2 gevolgd hebben, of die aangepast vierdegraads buitengewoon lager onderwijs genoten hebben;<br />2° de personen met een arbeidshandicap die tot de groep van de matig mentaal gehandicapten behoren;<br />3° de personen met een arbeidshandicap die een intelligentiequotiënt hebben van minder dan 60 punten bij de WISC- of WAIS-test, of van minder dan 52 punten bij de Terman-test;<br />4° de personen met een arbeidshandicap die recht hebben op extra kinderbijslag krachtens artikel 47 van de gecoördineerde wetten betreffende de kinderbijslag voor loonarbeiders, of krachtens artikel 20, § 2, van het koninklijk besluit van 8 april 1976 houdende regeling van de gezinsbijslag ten voordele van zelfstandigen, voor zover ze bij de evaluatie van de zelfredzaamheid ten minste 4 punten krijgen overeenkomstig de bepalingen van het koninklijk besluit van 3 mei 1991 tot uitvoering van de artikelen 47, 56septies, 62, § 3, en 63 van de gecoördineerde wetten betreffende de kinderbijslag voor loonarbeiders, van artikel 96 van de wet van 29 december 1990 houdende sociale bepalingen, van artikel 3 van het koninklijk besluit van 28 augustus 1991 tot uitvoering van de artikelen 20, §§ 2 en 3, 26 en 35 van het koninklijk besluit van 8 april 1976 houdende regeling van de gezinsbijslag, ten voordele van de zelfstandigen, en van artikel 23 van het koninklijk besluit van 21 februari 1991 tot wijziging van sommige bepalingen betreffende de regeling van de gezinsbijslag ten voordele van de zelfstandigen;<br />5° de personen met een arbeidshandicap die krachtens de wetgeving op de tegemoetkomingen aan gehandicapten erkend werden als rechthebbende op een integratietegemoetkoming en voor wie de graad van zelfredzaamheid op ten minste 9 punten werd vastgesteld krachtens de bepalingen van het ministerieel besluit van 30 juli 1987 tot vaststelling van de categorieën en van de handleiding voor de evaluatie van de graad van zelfredzaamheid met het oog op het onderzoek naar het recht op de integratietegemoetkoming;<br />6° de personen met een arbeidshandicap die ofwel minstens twee jaar onafgebroken in een psychiatrische voorziening of erkende beschutte woonvorm opgenomen zijn, ofwel in de loop van de twee jaar die aan de tewerkstelling voorafgaan minstens drie keer in een psychiatrische voorziening opgenomen werden, ofwel vanwege persoonlijkheidsverval deskundige psychiatrische behandeling behoeven en sedert minstens 1 jaar regelmatig onder medisch toezicht staan.<br /><br />§ 3. De hoedanigheid van zwakke werknemer blijkt uit de volgende bescheiden:<br />1° voor de personen genoemd in § 2, 1°: een attest of verklaring van de laatst bezochte buitengewone onderwijsinstelling en kopie van het in de wetgeving op het buitengewoon onderwijs bedoelde inschrijvingsverslag;<br />2° voor de personen genoemd in § 2, 2°: het bij artikel 40, § 4, van het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor Sociale Integratie van Personen met een Handicap bedoelde multidisciplinair verslag, of een attest van een in artikel 22 van het besluit van de Vlaamse regering van 24 juli 1991 betreffende de inschrijving bij het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap bedoelde instantie, waaruit blijkt dat de persoon met een arbeidshandicap een intelligentiequotiënt heeft dat gelijk is aan of minder dan 55;<br />3° voor de personen genoemd in § 2, 3°: de sub 2° bedoelde multidisciplinaire attesten of verslagen;<br />4° voor de personen genoemd in § 2, 4°: een attest van de instelling die de kinderbijslag uitbetaalt, waaruit blijkt dat de aanvrager aan de in dit artikel bepaalde voorwaarden voldoet;<br />5° voor de personen genoemd in § 2, 5°: een attest of een kopie van de beslissing van de Dienst voor Tegemoetkomin-gen aan Geten, waaruit blijkt dat de aanvrager aan de in dit artikel bepaalde voorwaarden voldoet;<br />6° voor de personen genoemd in § 2, 6°: een attest van de psychiatrische voorzieningen, van de Dienst voor beschut wonen of van een geneesheer-specialist in de neuropsychiatrie waaruit blijkt dat de aanvrager aan de in dit artikel bepaalde voorwaarden voldoet.<br /><br />§ 4. Voor het jaar 2001 hebben de werknemers recht op subsidiëring van één carensdag als ze afwezig zijn wegens ziekte. Vanaf het jaar 2002 tot en met het jaar 2004 hebben de werknemers recht op subsidiëring van twee carensdagen als ze afwezig zijn wegens ziekte. Vanaf het jaar 2005 hebben de werknemers recht op subsidiëring van alle carensdagen als ze afwezig zijn wegens ziekte. <br /><br />§ 5. Het bedrag van de subsidie vermeld in § 1, wordt verhoogd met een toelage voor de eindejaarspremie. Het bedrag van de toelage voor de eindejaarpremie wordt per gepresteerd uur of uur dat daarmee gelijkgesteld kan worden, voor de hierna vermelde jaren vastgesteld op :<br /> <html xmlns:o=&quote;urn:schemas-microsoft-com:office:office&quote;xmlns:w=&quote;urn:schemas-microsoft-com:office:word&quote;xmlns=&quote;http://www.w3.org/TR/REC-html40&quote;><head><meta http-equiv=Content-Type content=&quote;text/html; charset=windows-1252&quote;><meta name=ProgId content=Word.Document><meta name=Generator content=&quote;Microsoft Word 11&quote;><meta name=Originator content=&quote;Microsoft Word 11&quote;><link rel=File-List href=&quote;20060922-q04-art%201_bestanden/filelist.xml&quote;><title>2006</title><!--[if gte mso 9]><xml> <o:DocumentProperties>  <o:Author>Deschrma</o:Author>  <o:Template>Normal</o:Template>  <o:LastAuthor>Deschrma</o:LastAuthor>  <o:Revision>2</o:Revision>  <o:TotalTime>13</o:TotalTime>  <o:Created>2006-11-06T09:38:00Z</o:Created>  <o:LastSaved>2006-11-06T09:38:00Z</o:LastSaved>  <o:Pages>1</o:Pages>  <o:Words>17</o:Words>  <o:Characters>97</o:Characters>  <o:Company>Ministerie van de Vlaamse Gemeenschap</o:Company>  <o:Lines>1</o:Lines>  <o:Paragraphs>1</o:Paragraphs>  <o:CharactersWithSpaces>113</o:CharactersWithSpaces>  <o:Version>11.6408</o:Version> </o:DocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml> <w:WordDocument>  <w:SpellingState>Clean</w:SpellingState>  <w:GrammarState>Clean</w:GrammarState>  <w:HyphenationZone>21</w:HyphenationZone>  <w:PunctuationKerning/>  <w:ValidateAgainstSchemas/>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:Compatibility>   <w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:DontGrowAutofit/>  </w:Compatibility>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState=&quote;false&quote; LatentStyleCount=&quote;156&quote;> </w:LatentStyles></xml><![endif]--><style><!-- /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal	&lftaco;mso-style-parent:&quote;&quote;;	margin:0cm;	margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:12.0pt;	font-family:&quote;Times New Roman&quote;;	mso-fareast-font-family:&quote;Times New Roman&quote;;&rgtaco;@page Section1	&lftaco;size:595.3pt 841.9pt;	margin:70.85pt 70.85pt 70.85pt 70.85pt;	mso-header-margin:35.4pt;	mso-footer-margin:35.4pt;	mso-paper-source:0;&rgtaco;div.Section1	&lftaco;page:Section1;&rgtaco;--></style><!--[if gte mso 10]><style> /* Style Definitions */ table.MsoNormalTable	&lftaco;mso-style-name:Standaardtabel;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-parent:&quote;&quote;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quote;Times New Roman&quote;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;table.MsoTableGrid	&lftaco;mso-style-name:Tabelraster;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	border:solid windowtext 1.0pt;	mso-border-alt:solid windowtext .5pt;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-border-insideh:.5pt solid windowtext;	mso-border-insidev:.5pt solid windowtext;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quote;Times New Roman&quote;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;</style><![endif]--></head><body lang=NL style='tab-interval:35.4pt'><div class=Section1><table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt; mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh: .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'> <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>  <td width=307 valign=top style='width:230.3pt;border:solid windowtext 1.0pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal>2006</p>  </td>  <td width=307 valign=top style='width:230.3pt;border:solid windowtext 1.0pt;  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal align=right style='text-align:right'>0,04022 euro</p>  </td> </tr> <tr style='mso-yfti-irow:1'>  <td width=307 valign=top style='width:230.3pt;border:solid windowtext 1.0pt;  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal>2007</p>  </td>  <td width=307 valign=top style='width:230.3pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal align=right style='text-align:right'>0,08838 euro</p>  </td> </tr> <tr style='mso-yfti-irow:2'>  <td width=307 valign=top style='width:230.3pt;border:solid windowtext 1.0pt;  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal>2008</p>  </td>  <td width=307 valign=top style='width:230.3pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal align=right style='text-align:right'>0,13653 euro</p>  </td> </tr> <tr style='mso-yfti-irow:3'>  <td width=307 valign=top style='width:230.3pt;border:solid windowtext 1.0pt;  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal>2009</p>  </td>  <td width=307 valign=top style='width:230.3pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal align=right style='text-align:right'>0,18427 euro</p>  </td> </tr> <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes'>  <td width=307 valign=top style='width:230.3pt;border:solid windowtext 1.0pt;  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal>2010 en volgende jaren</p>  </td>  <td width=307 valign=top style='width:230.3pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal align=right style='text-align:right'>0,23243 euro</p>  </td> </tr></table><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html> <br /> <br />Het bedrag van de toelage voor de eindejaarspremie, vermeld in het eerste lid, wordt gekoppeld aan de spilindex 102,10. Het wordt met ingang van 1 januari 2006 geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.
+2006§ 1. Het bedrag van de subsidie wordt vastgesteld op 238,20 frank per gepresteerd uur of per uur dat daarmee gelijkgesteld kan worden.<br>
+<br>
+Het subsidiebedrag, genoemd in het eerste lid, wordt gekoppeld aan de spilindex 101,38. Het wordt met ingang van 1 januari 1999 geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+<br>
+Voor de werknemers met het statuut van moeilijk te plaatsen werkloze en met het statuut van gesubsidieerde contractueel wordt de subsidie verminderd met het bedrag van de uitkeringen, respectievelijk de loonkostsubsidies, die zij krachtens hun statuut genieten.<br>
+<br>
+----<br>
+(Bij wijze van overgangsbepaling wordt de subsidie bedoeld in artikel 3, § 1, eerste en vierde lid van 1 juli 1998 tot en met 31 december 1998 verhoogd met 4,43 frank per gepresteerd uur of per uur dat daarmee gelijkgesteld wordt. - Zie B.V.R. 8 juni 1999, art. 6)<br>
+----<br>
+<br>
+§ 2. Een aanvullende subsidie van 62,71 frank per uur wordt toege-kend ten voordele van de zwakke werknemers in de beschutte werkplaatsen.<br>
+<br>
+Het subsidiebedrag, genoemd in het eerste lid, wordt gekoppeld aan de spilindex 101,38. Het wordt met ingang van 1 januari 1999 geïndexeerd overeenkomstig de bepalingen van voormeld koninklijk besluit van 24 december 1993.<br>
+<br>
+Onder zwakke werknemers wordt verstaan:<br>
+1° de personen met een arbeidshandicap die buitengewoon secundair onderwijs met opleidingsvorm 1 of 2 gevolgd hebben, of die aangepast vierdegraads buitengewoon lager onderwijs genoten hebben;<br>
+2° de personen met een arbeidshandicap die tot de groep van de matig mentaal gehandicapten behoren;<br>
+3° de personen met een arbeidshandicap die een intelligentiequotiënt hebben van minder dan 60 punten bij de WISC- of WAIS-test, of van minder dan 52 punten bij de Terman-test;<br>
+4° de personen met een arbeidshandicap die recht hebben op extra kinderbijslag krachtens artikel 47 van de gecoördineerde wetten betreffende de kinderbijslag voor loonarbeiders, of krachtens artikel 20, § 2, van het koninklijk besluit van 8 april 1976 houdende regeling van de gezinsbijslag ten voordele van zelfstandigen, voor zover ze bij de evaluatie van de zelfredzaamheid ten minste 4 punten krijgen overeenkomstig de bepalingen van het koninklijk besluit van 3 mei 1991 tot uitvoering van de artikelen 47, 56septies, 62, § 3, en 63 van de gecoördineerde wetten betreffende de kinderbijslag voor loonarbeiders, van artikel 96 van de wet van 29 december 1990 houdende sociale bepalingen, van artikel 3 van het koninklijk besluit van 28 augustus 1991 tot uitvoering van de artikelen 20, §§ 2 en 3, 26 en 35 van het koninklijk besluit van 8 april 1976 houdende regeling van de gezinsbijslag, ten voordele van de zelfstandigen, en van artikel 23 van het koninklijk besluit van 21 februari 1991 tot wijziging van sommige bepalingen betreffende de regeling van de gezinsbijslag ten voordele van de zelfstandigen;<br>
+5° de personen met een arbeidshandicap die krachtens de wetgeving op de tegemoetkomingen aan gehandicapten erkend werden als rechthebbende op een integratietegemoetkoming en voor wie de graad van zelfredzaamheid op ten minste 9 punten werd vastgesteld krachtens de bepalingen van het ministerieel besluit van 30 juli 1987 tot vaststelling van de categorieën en van de handleiding voor de evaluatie van de graad van zelfredzaamheid met het oog op het onderzoek naar het recht op de integratietegemoetkoming;<br>
+6° de personen met een arbeidshandicap die ofwel minstens twee jaar onafgebroken in een psychiatrische voorziening of erkende beschutte woonvorm opgenomen zijn, ofwel in de loop van de twee jaar die aan de tewerkstelling voorafgaan minstens drie keer in een psychiatrische voorziening opgenomen werden, ofwel vanwege persoonlijkheidsverval deskundige psychiatrische behandeling behoeven en sedert minstens 1 jaar regelmatig onder medisch toezicht staan.<br>
+<br>
+§ 3. De hoedanigheid van zwakke werknemer blijkt uit de volgende bescheiden:<br>
+1° voor de personen genoemd in § 2, 1°: een attest of verklaring van de laatst bezochte buitengewone onderwijsinstelling en kopie van het in de wetgeving op het buitengewoon onderwijs bedoelde inschrijvingsverslag;<br>
+2° voor de personen genoemd in § 2, 2°: het bij artikel 40, § 4, van het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor Sociale Integratie van Personen met een Handicap bedoelde multidisciplinair verslag, of een attest van een in artikel 22 van het besluit van de Vlaamse regering van 24 juli 1991 betreffende de inschrijving bij het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap bedoelde instantie, waaruit blijkt dat de persoon met een arbeidshandicap een intelligentiequotiënt heeft dat gelijk is aan of minder dan 55;<br>
+3° voor de personen genoemd in § 2, 3°: de sub 2° bedoelde multidisciplinaire attesten of verslagen;<br>
+4° voor de personen genoemd in § 2, 4°: een attest van de instelling die de kinderbijslag uitbetaalt, waaruit blijkt dat de aanvrager aan de in dit artikel bepaalde voorwaarden voldoet;<br>
+5° voor de personen genoemd in § 2, 5°: een attest of een kopie van de beslissing van de Dienst voor Tegemoetkomin-gen aan Geten, waaruit blijkt dat de aanvrager aan de in dit artikel bepaalde voorwaarden voldoet;<br>
+6° voor de personen genoemd in § 2, 6°: een attest van de psychiatrische voorzieningen, van de Dienst voor beschut wonen of van een geneesheer-specialist in de neuropsychiatrie waaruit blijkt dat de aanvrager aan de in dit artikel bepaalde voorwaarden voldoet.<br>
+<br>
+§ 4. Voor het jaar 2001 hebben de werknemers recht op subsidiëring van één carensdag als ze afwezig zijn wegens ziekte. Vanaf het jaar 2002 tot en met het jaar 2004 hebben de werknemers recht op subsidiëring van twee carensdagen als ze afwezig zijn wegens ziekte. Vanaf het jaar 2005 hebben de werknemers recht op subsidiëring van alle carensdagen als ze afwezig zijn wegens ziekte.<br>
+<br>
+<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Deschrma</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>Deschrma</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>13</o:TotalTime><br>  <o:Created>2006-11-06T09:38:00Z</o:Created><br>  <o:LastSaved>2006-11-06T09:38:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>17</o:Words><br>  <o:Characters>97</o:Characters><br>  <o:Company>Ministerie van de Vlaamse Gemeenschap</o:Company><br>  <o:Lines>1</o:Lines><br>  <o:Paragraphs>1</o:Paragraphs><br>  <o:CharactersWithSpaces>113</o:CharactersWithSpaces><br>  <o:Version>11.6408</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br>table.MsoTableGrid<br>	&lftaco;mso-style-name:Tabelraster;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	border:solid windowtext 1.0pt;<br>	mso-border-alt:solid windowtext .5pt;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-border-insideh:.5pt solid windowtext;<br>	mso-border-insidev:.5pt solid windowtext;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]-->§ 5. Het bedrag van de subsidie vermeld in paragraaf 1, wordt verhoogd met een toelage voor de eindejaarspremie. Het bedrag van de toelage voor de eindejaarpremie wordt per gepresteerd uur of uur dat daarmee gelijkgesteld kan worden, voor de volgende jaren vastgesteld op :<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>1° 2006</td>
+			<td>0,04022 euro;</td>
+		</tr>
+		<tr>
+			<td>2° 2007</td>
+			<td>0,08838 euro;</td>
+		</tr>
+		<tr>
+			<td>3° 2008</td>
+			<td>0,13653 euro;</td>
+		</tr>
+		<tr>
+			<td>4° 2009</td>
+			<td>0,18427 euro;</td>
+		</tr>
+		<tr>
+			<td>5° 2010</td>
+			<td>0,23243 euro;</td>
+		</tr>
+		<tr>
+			<td>6° 2011</td>
+			<td>0,23243 euro;</td>
+		</tr>
+		<tr>
+			<td>7° 2012</td>
+			<td>0,30782 euro;</td>
+		</tr>
+		<tr>
+			<td>8° 2013 en de volgende jaren</td>
+			<td>0,40000 euro.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Het bedrag van de toelage voor de eindejaarspremie wordt voor de jaren 2006 tot en met 2011 gekoppeld aan de spilindex 102,10. Het wordt met ingang van 1 januari 2006 geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+<br>
+Het bedrag van de toelage voor de eindejaarspremie wordt vanaf 2012 gekoppeld aan de spilindex 114,97. Het wordt met ingang van 1 januari 2012 geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.
 
 ## HOOFDSTUK III SUBSIDIEREGELING BETREFFENDE HET KADERPERSONEEL
 
@@ -55,7 +133,7 @@ De subsidie, vermeld in het eerste lid, wordt slechts verleend op voorwaarde dat
 
 ### ART. 6.
 
-<p>§ 1. Het bedrag van de subsidie in het loon en de sociale lasten wordt vastgesteld op 50 percent van het loon van het kaderpersoneel vermeld in artikel 4, §1 tot en met §3.<br>
+§ 1. Het bedrag van de subsidie in het loon en de sociale lasten wordt vastgesteld op 50 percent van het loon van het kaderpersoneel vermeld in artikel 4, §1 tot en met §3.<br>
 <br>
 Het bedrag voorzien in het eerste lid wordt gebracht:<br>
 1° op 100 percent gedurende een periode van twee jaar die volgt op het begin van de maand vanaf dewelke de beschutte werkplaats voor de eerste maal erkend is;<br>
@@ -64,73 +142,127 @@ Het bedrag voorzien in het eerste lid wordt gebracht:<br>
 Het bepaalde in het tweede lid is niet van toepassing in het geval van een fusie van een gedeelte of het geheel van de activiteiten in combinatie met een gedeeltelijke of gehele overname van het personeelsbestand van reeds door het Vlaams Fonds erkende beschutte werkplaatsen en in het geval van een overname van een gedeelte of van het geheel van de activiteiten van een door het Vlaams Fonds erkende beschutte werkplaats, in combinatie met een gehele of gedeeltelijke overname van het personeelsbestand.<br>
 <br>
 § 2. Met ingang van 1 januari 2006 mag de subsidie, vermeld in § 1, eerste lid, volgende jaarlijkse bedragen niet overschrijden :<br>
-</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; width:230.3pt">
 			<p>Functie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #d4d0c8; width:230.3pt">
 			<p>Jaarbedrag</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:230.3pt">
 			<p>Leider</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext #d4d0c8; width:230.3pt">
 			<p>18.207,28 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:230.3pt">
 			<p>Assistent van de leider</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext #d4d0c8; width:230.3pt">
 			<p>16.770,75 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:230.3pt">
 			<p>Monitor</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext #d4d0c8; width:230.3pt">
 			<p>11.475,68 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:230.3pt">
 			<p>Bediende</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext #d4d0c8; width:230.3pt">
 			<p>11.513,26 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:230.3pt">
 			<p>Maatschappelijk assistent of sociaal verpleegkundige</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext #d4d0c8; width:230.3pt">
 			<p>13.013,43 euro</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Deze bedragen worden gekoppeld aan de spilindex 102,10. Ze worden met ingang van 1 januari 2006 geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+<br>
+Deze bedragen worden gekoppeld aan de spilindex 102,10. Ze worden met ingang van 1 januari 2006 geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+<br>
+Vanaf 2012 mag de subsidie voor monitor vermeld in het eerste lid, de volgende jaarlijkse bedragen niet overschrijden :
+<table border="1">
+	<tbody>
+		<tr>
+			<td rowspan="2">monitor</td>
+			<td>2012 : 13.889,56 euro</td>
+		</tr>
+		<tr>
+			<td>2013 en de volgende jaren : 14.855,20 euro</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De bedragen, vermeld in het derde lid, worden gekoppeld aan de spilindex 114,97. Ze worden met ingang van 1 januari 2012 geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
 <br>
 § 3. De jaarlijkse bedragen, vermeld in artikel 4, § 2, betreffende de personeelsleden voor de « dienst sociaal beleid », vermeld in artikel 4, § 4, betreffende de personeelsleden « economische uitdagingen » en vermeld in § 2 van dit artikel betreffende de leider, assistent van de leider, monitor, bediende en maatschappelijk assistent (of sociaal verpleger), worden verhoogd met een toelage voor de eindejaarspremie.<br>
 <br>
 Het bedrag van de toelage, vermeld in het eerste lid, wordt vastgesteld op de volgende jaarlijkse bedragen :<br>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; width:230.3pt">
+			<p>2006</p>
+			</td>
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #d4d0c8; width:230.3pt">
+			<p>145,19 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:230.3pt">
+			<p>2007</p>
+			</td>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext #d4d0c8; width:230.3pt">
+			<p>318,93 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:230.3pt">
+			<p>2008</p>
+			</td>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext #d4d0c8; width:230.3pt">
+			<p>492,68 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:230.3pt">
+			<p>2009</p>
+			</td>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext #d4d0c8; width:230.3pt">
+			<p>664,84 euro</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:230.3pt">
+			<p>2010 en volgende jaren</p>
+			</td>
+			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext #d4d0c8; width:230.3pt">
+			<p>838,58 euro</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
 <br>
-<br>
-Deze bedragen worden gekoppeld aan de spilindex 102,10. Ze worden met ingang van 1 januari 2006 geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.</p>
+Deze bedragen worden gekoppeld aan de spilindex 102,10. Ze worden met ingang van 1 januari 2006 geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.
 
 ### ART. 7.
 
@@ -241,6 +373,43 @@ Het bedrag van de toelage, vermeld in § 1, wordt vastgesteld op de volgende jaa
 <br>
 <br>
 Deze bedragen worden gekoppeld aan de spilindex 102,10. Ze worden met ingang van 1 januari 2006 geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.
+
+### ART. 13quinquies
+
+Boven op de bedragen, vermeld in artikel 13quater, wordt in een jaarlijks supplement voorzien vanaf de onderstaande jaren. De bedragen zijn cumulatief :<br>
+<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>1° 2011</td>
+			<td>9,3 euro;</td>
+		</tr>
+		<tr>
+			<td>2° 2012</td>
+			<td>7,9 euro;</td>
+		</tr>
+		<tr>
+			<td>3° 2013</td>
+			<td>37,2 euro;</td>
+		</tr>
+		<tr>
+			<td>4° 2014 en de volgende jaren</td>
+			<td>46,5 euro.</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<br>
+De bedragen, vermeld in het eerste lid, worden geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+<br>
+Het bedrag voor 2011, vermeld in het eerste lid, 1°, wordt gekoppeld aan de spilindex die van toepassing is op 31 december 2011 en wordt geïndexeerd met ingang van 1 januari 2012.<br>
+<br>
+Het bedrag voor 2012, vermeld in het eerste lid, 2°, wordt gekoppeld aan de spilindex die van toepassing is op 31 december 2012 en wordt geïndexeerd met ingang van 1 januari 2013.<br>
+<br>
+Het bedrag voor 2013, vermeld in het eerste lid, 3°, wordt gekoppeld aan de spilindex die van toepassing is op 31 december 2013 en wordt geïndexeerd met ingang van 1 januari 2014.<br>
+<br>
+Het bedrag voor 2014 en de volgende jaren, vermeld in het eerste lid, 4°, wordt gekoppeld aan de spilindex die van toepassing is op 31 december 2014 en wordt geïndexeerd met ingang van 1 januari 2015.
 
 ## HOOFDSTUK V SLOTBEPALINGEN
 

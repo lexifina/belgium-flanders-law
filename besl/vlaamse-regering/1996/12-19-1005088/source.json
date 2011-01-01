@@ -2,16 +2,16 @@
   "codex_id": 1005088,
   "title": "Besluit van de Vlaamse Regering van 1996-12-19 houdende subsidieregeling van het loon en van de sociale lasten van de werknemers in de beschutte werkplaatsen die erkend zijn door het [Departement Werk en Sociale Economie (verv. BVR 20 juni 2014, art. 11, I: 30 oktober 2014)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005088/VolledigDocument?datum=2008-10-01",
-  "source_sha256": "1fd680974e636720a8e847c51890fcc380cb13fbd74a05a08f5ab4538f4fe716",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005088/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "5adb0875daaf32edeed70122537b63d67998a5b8ec85d3a19a4d598c45e69406",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005088&param=informatie",
-  "as_of": "2008-10-01",
+  "as_of": "2011-01-01",
   "made": "1996-12-19",
   "gazette": "1997-01-16",
   "numac": 1997035012,
   "document_start": "1997-01-01",
   "document_end": "2018-12-31",
-  "in_force": "2008-10-01",
-  "article_versions": 19,
-  "record_form": "consolidated version as in force on 2008-10-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2011-01-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
