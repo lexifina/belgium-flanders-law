@@ -706,6 +706,10 @@ In afwijking van Hoofdstuk IV bedraagt de wekelijkse opdracht van de kleuteronde
 
 ## [HOOFDSTUK VIIter DIENSTVRIJSTELLING VOOR ZITTING IN EEN LOKAAL INSPRAAKORGAAN (ing. BVR 27 mei 2011, art. 5)]
 
+### ART. 26quinquies.
+
+Het personeelslid dat zitting heeft in een lokaal inspraakorgaan dat opgericht is door of krachtens een wet of een decreet, krijgt dienstvrijstelling om de vergaderingen van dat inspraakorgaan bij te wonen. De dienstvrijstelling wordt gelijkgesteld met een periode van dienstactiviteit.
+
 ## HOOFDSTUK VIII SLOTBEPALINGEN
 
 ### ART. 27.
