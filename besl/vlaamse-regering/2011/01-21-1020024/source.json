@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020024,
+  "title": "Besluit van de Vlaamse Regering van 2011-01-21 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 19 januari 2007 houdende vaststelling van de retributies voor de inschrijving van de rassen in de nationale rassencatalogi, voor de uitoefening van bepaalde beroepen in de sector van het plantaardige teeltmateriaal en voor de keuring van dat materiaal",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020024/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "4becbda85c2a6f93ab9644074cdc6dab8038c03fa477ef2972e1562dbe87097d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020024&param=informatie",
+  "as_of": "2011-01-01",
+  "made": "2011-01-21",
+  "gazette": "2011-02-10",
+  "numac": 2011035095,
+  "document_start": "2011-01-01",
+  "document_end": null,
+  "in_force": "2011-01-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
