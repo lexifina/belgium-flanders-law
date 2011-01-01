@@ -2,16 +2,16 @@
   "codex_id": 1016407,
   "title": "Ministerieel besluit van 2007-11-21 inzake de opsplitsing van het bestaande besparingsoverschot op laagspanning in het kader van de REG-openbaredienstverplichtingen van de netbeheerders",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016407/VolledigDocument?datum=2007-12-21",
-  "source_sha256": "1df24d99a8ca7fd97d17571d5437d27fd610cb5a5250e75061f697416921c498",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016407/VolledigDocument?datum=2011-01-01",
+  "source_sha256": "32253346bd0ebbf222ea5af3e22a4551ab06ac3d1a7e64b6a87014b96ea50909",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016407&param=informatie",
-  "as_of": "2007-12-21",
+  "as_of": "2011-01-01",
   "made": "2007-11-21",
   "gazette": "2007-12-11",
   "numac": 2007037196,
   "document_start": "2007-12-21",
   "document_end": "2010-12-31",
-  "in_force": "2007-12-21",
+  "in_force": "2011-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2007-12-21; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
 }
