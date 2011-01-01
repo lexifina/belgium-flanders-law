@@ -52,10 +52,6 @@ Bij Toerisme Vlaanderen wordt een raadgevend comité opgericht.
 
 § 1. Het hoofd van het agentschap is van rechtswege voorzitter van het raadgevend comité.<br /><br />§ 2. Onverminderd het bepaalde in § 1, wordt het raadgevend comité verder samengesteld door de Vlaamse regering uit een door de regering te bepalen aantal vertegenwoordigers van de onderscheiden deelsectoren binnen de domeinen waarin het agentschap werkzaam is.<br /><br />§ 3. Het mandaat van lid van het raadgevend comité, het voorzitterschap uitgezonderd, is onverenigbaar met een functie als lid van het personeel of een leidinggevende functie van het agentschap zelf.
 
-### ART. 11.
-
-§ 1. Het raadgevend comité heeft enkel een adviserende bevoegdheid en geen beslissingsbevoegdheid.<br /><br />§ 2. Het raadgevend comitÚ heeft als concrete taken:<br /><br />1° de verlening van adviezen en het formuleren van voorstellen ten aanzien van het hoofd van het agentschap en met betrekking tot de werking van het agentschap;<br /><br />2° het bijdragen tot de kwaliteit en de optimalisatie van de dienstverlening van het agentschap, zulks inzonderheid door adviesverlening steunende op de expertise van de leden van het raadgevend comité;<br /><br />3° het waken over de kwaliteitsopvolging inzake de dienstverlening van het agentschap;<br /><br />4° het geven van feedback omtrent de werking van het agentschap en, daarbij aansluitend, van advies met het oog op de eventuele bijsturing van de werking van het agentschap.<br /><br />§ 3. De Vlaamse regering kan de in §§ 1 en 2 bedoelde taken nader concretiseren en/of preciseren.
-
 ## HOOFDSTUK VII FINANCIËLE MIDDELEN
 
 ### ART. 12.
