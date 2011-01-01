@@ -294,7 +294,7 @@ De minister kan een correctie vaststellen voor de energieprestatie van de woning
 
 ### ART. 45.
 
-§ 1. Voor iedere persoon ten laste wordt een korting van 15 euro toegekend.<br /><br />In afwijking van het eerste lid wordt voor een persoon die tegelijk beantwoordt aan de definitie van persoon ten laste, vermeld in artikel 1, 22°, a), en aan de definitie van persoon ten laste, vermeld in artikel 1, 22°, b), een korting van 30 euro toegekend.<br /><br />§ 2. Voor een persoon die minderjarig is, of waarvoor kinderbijslag of wezentoelage wordt uitbetaald, of die door de minister op voorlegging van bewijzen als ten laste wordt beschouwd, en waarvan de ouders niet in dezelfde woning wonen, kan een korting worden toegekend aan de ouder bij wie die persoon niet is gedomicilieerd maar wel op regelmatige basis verblijft. In dat geval wordt de helft van de korting, vermeld in § 1, eerste of tweede lid, toegekend. Als de ouder bij wie die persoon is gedomicilieerd, ook een sociale huurwoning huurt, wordt aan die ouder, in afwijking van § 1, slechts de helft van de korting, vermeld in § 1, eerste of tweede lid, toegekend.<br /><br />De toepassing van het eerste lid is afhankelijk van de ondertekening door beide ouders van een verklaring, waarin de ouder bij wie de persoon, vermeld in het eerste lid, is gedomicilieerd, vermeldt :<br />1° of hij zelf een sociale huurwoning huurt en in voorkomend geval bij welke verhuurder;<br />2° dat hij, als hij zelf huurder is of zal worden van een verhuurder, een kopie van de verklaring zal bezorgen aan die verhuurder;<br />3° dat hij, als hij verklaart zelf geen sociale huurwoning te huren, aan de verhuurder van de sociale huurwoning die de andere ouder huurt, de toestemming verleent om dat te controleren;<br />4° zijn inschrijvingsnummer in de sociale zekerheid, om de controle, vermeld in 3°, mogelijk te maken.<br /><br />§ 3. Het totaal van de kortingen, vermeld in § 1 en § 2, is de gezinskorting.
+§ 1. Voor iedere persoon ten laste wordt een korting van 15 euro toegekend.<br /><br />In afwijking van het eerste lid wordt voor een persoon die tegelijk beantwoordt aan de definitie van persoon ten laste, vermeld in artikel 1, 22°, a), en aan de definitie van persoon ten laste, vermeld in artikel 1, 22°, b), een korting toegekend die gelijk is aan het dubbele van de korting, vermeld in het eerste lid, na toepassing van artikel 56.<br /><br />§ 2. Voor een persoon die minderjarig is, of waarvoor kinderbijslag of wezentoelage wordt uitbetaald, of die door de minister op voorlegging van bewijzen als ten laste wordt beschouwd, en waarvan de ouders niet in dezelfde woning wonen, kan een korting worden toegekend aan de ouder bij wie die persoon niet is gedomicilieerd maar wel op regelmatige basis verblijft. In dat geval wordt de helft van de korting, vermeld in § 1, eerste of tweede lid, toegekend. Als de ouder bij wie die persoon is gedomicilieerd, ook een sociale huurwoning huurt, wordt aan die ouder, in afwijking van § 1, slechts de helft van de korting, vermeld in § 1, eerste of tweede lid, toegekend.<br /><br />De toepassing van het eerste lid is afhankelijk van de ondertekening door beide ouders van een verklaring, waarin de ouder bij wie de persoon, vermeld in het eerste lid, is gedomicilieerd, vermeldt :<br />1° of hij zelf een sociale huurwoning huurt en in voorkomend geval bij welke verhuurder;<br />2° dat hij, als hij zelf huurder is of zal worden van een verhuurder, een kopie van de verklaring zal bezorgen aan die verhuurder;<br />3° dat hij, als hij verklaart zelf geen sociale huurwoning te huren, aan de verhuurder van de sociale huurwoning die de andere ouder huurt, de toestemming verleent om dat te controleren;<br />4° zijn inschrijvingsnummer in de sociale zekerheid, om de controle, vermeld in 3°, mogelijk te maken.<br /><br />§ 3. Het totaal van de kortingen, vermeld in § 1 en § 2, is de gezinskorting.
 
 ## Onderafdeling II. De vaststelling van de huurprijs
 
@@ -312,7 +312,7 @@ De reële huurprijs, vermeld in artikel 38, wordt jaarlijks op 1 januari aangepa
 
 ### ART. 49.
 
-Op het ogenblik van het aangaan van de huurovereenkomst wordt de basishuurprijs in die huurovereenkomst vastgelegd en worden de overeenkomstige patrimoniumkorting, minimale huurprijs en energiecorrectie meegedeeld aan de huurder. Voor de berekening van de reële huurprijs worden die bedragen vanaf dan jaarlijks op 1 januari geïndexeerd volgens de gezondheidsindex. Als referenties worden daarvoor de indexcijfers gebruikt van de maand juni van het jaar waarin de basishuurprijs in de huurovereenkomst werd vastgelegd en de maand juni die aan de huurprijsaanpassing voorafgaat.<br /><br />Op 1 januari van het negende jaar na het aangaan van de huurovereenkomst wordt de basishuurprijs in de huurovereenkomst vervangen door de op dat ogenblik geldende marktwaarde van de woning. Telkens op 1 januari van het negende volgende jaar wordt deze vervanging opnieuw doorgevoerd.<br /><br />De verhuurder kan beslissen om de basishuurprijs vroeger dan na negen jaar te vervangen door de op dat ogenblik geldende marktwaarde in de volgende gevallen :<br />1° als de marktwaarde met minimaal 5 % gedaald is ten opzichte van de basishuurprijs;<br />2° als de marktwaarde met minimaal 10 % gestegen is ten opzichte van de basishuurprijs ten gevolge van werkzaamheden die op kosten van de verhuurder aan de woning zijn uitgevoerd, met uitzondering van de werkzaamheden die noodzakelijk waren om de woning in overeenstemming te brengen met de vereisten van artikel 5 van de Vlaamse Wooncode.<br /><br />Als het tweede en het derde lid van toepassing zijn, worden telkens de patrimoniumkorting en de minimale huurprijs vervangen door de bedragen die in overeenstemming met de nieuwe basishuurprijs zijn, en wordt de energiecorrectie aangepast aan de voorwaarden die op dat moment van kracht zijn.<br />
+Op het ogenblik van het aangaan van de huurovereenkomst wordt de basishuurprijs in die huurovereenkomst vastgelegd en worden de overeenkomstige patrimoniumkorting, minimale huurprijs en energiecorrectie meegedeeld aan de huurder. Voor de berekening van de reële huurprijs worden die bedragen vanaf dan jaarlijks op 1 januari geïndexeerd volgens de gezondheidsindex. Als referenties worden daarvoor de indexcijfers gebruikt van de maand juni van het jaar voorafgaand aan het moment waarop de basishuurprijs in de huurovereenkomst werd vastgelegd en de maand juni die aan de huurprijsaanpassing voorafgaat. Het resultaat wordt afgerond naar het eerstvolgende natuurlijke getal. <br /><br />Op 1 januari van het negende jaar na het aangaan van de huurovereenkomst wordt de basishuurprijs in de huurovereenkomst vervangen door de op dat ogenblik geldende marktwaarde van de woning. Telkens op 1 januari van het negende volgende jaar wordt deze vervanging opnieuw doorgevoerd.<br /><br />De verhuurder kan beslissen om de basishuurprijs vroeger dan na negen jaar te vervangen door de op dat ogenblik geldende marktwaarde in de volgende gevallen :<br />1° als de marktwaarde met minimaal 5 % gedaald is ten opzichte van de basishuurprijs;<br />2° als de marktwaarde met minimaal 10 % gestegen is ten opzichte van de basishuurprijs ten gevolge van werkzaamheden die op kosten van de verhuurder aan de woning zijn uitgevoerd, met uitzondering van de werkzaamheden die noodzakelijk waren om de woning in overeenstemming te brengen met de vereisten van artikel 5 van de Vlaamse Wooncode.<br /><br />Als het tweede en het derde lid van toepassing zijn, worden telkens de patrimoniumkorting en de minimale huurprijs vervangen door de bedragen die in overeenstemming met de nieuwe basishuurprijs zijn, en wordt de energiecorrectie aangepast aan de voorwaarden die op dat moment van kracht zijn.<br />
 
 ### ART. 50.
 
@@ -414,45 +414,44 @@ De volgende besluiten worden opgeheven :<br />1° het besluit van de Vlaamse Reg
 
 ### ART. 70.
 
-§ 1. Met behoud van de toepassing van § 2, § 3 en § 4, wordt voor de jaren 2008 tot en met 2010 de huurprijs voor de sociale huisvestingsmaatschappijen en de VMSW berekend op basis van artikel 38 tot en met 50, met dien verstande dat :<br>
-1° de basishuurprijs, vermeld in artikel 38, eerste lid, voor huurovereenkomsten afgesloten voor de inwerkingtreding van dit besluit, voorlopig vastgesteld wordt op 1 januari 2008 en op 1 januari 2009 en definitief vastgesteld wordt op 1 januari 2010;<br>
-2° de actualisatie van de basishuurprijs, vermeld in artikel 49, tweede lid, in huurovereenkomsten die werden afgesloten voor de inwerkingtreding van dit besluit, wordt uitgevoerd op 1 januari van het negende jaar na de definitieve vaststelling van de basishuurprijs, vermeld in 1°;<br>
-2°bis de voorlopige basishuurprijs op 1 januari 2009, is gelijk aan de marktwaarde die wordt vastgesteld op basis van artikel 41, met dien verstande dat de verhuurder die waarde voor de toepassing in 2010 nog kan aanpassen in overleg met de VMSW en na evaluatie van deze vaststelling door de VMSW;<br>
-3° als de in 2008 voorlopig vastgestelde basishuurprijs lager is dan de in 2009 voorlopig vastgestelde basishuurprijs, en als de reële huurprijs op 31 december 2008 gelijk is aan de voorlopig vastgestelde basishuurprijs, dan mag de basishuurprijs, zolang dezelfde huurovereenkomst blijft doorlopen, tijdens de jaren 2009 en 2010 voor de toepassing in § 3, tweede lid en § 4, derde lid, worden verminderd met de volgende bedragen :<br>
-a) in 2009 met tweederde van het verschil tussen de in 2009 voorlopig vastgestelde basishuurprijs en de in 2008 voorlopig vastgestelde basishuurprijs;<br>
+<p>§ 1. Met behoud van de toepassing van paragrafen 2, 3 en 4, wordt voor de jaren 2008 tot en met 2011 de huurprijs voor de sociale huisvestingsmaatschappijen en de VMSW berekend op basis van artikel 38 tot en met 50, met dien verstande dat :<br>
+1° de basishuurprijs, vermeld in artikel 38, eerste lid, voor huurovereenkomsten die gesloten voor de inwerkingtreding van dit besluit, voorlopig vastgesteld wordt op 1 januari 2008 en op 1 januari 2009, en definitief vastgesteld wordt op 1 januari 2010;<br>
+2° de actualisatie van de basishuurprijs, vermeld in artikel 49, tweede lid, in huurovereenkomsten die gesloten zijn voor de inwerkingtreding van dit besluit, wordt uitgevoerd op 1 januari van het negende jaar na de definitieve vaststelling van de basishuurprijs, vermeld in 1°;<br>
+3° de voorlopige basishuurprijs op 1 januari 2009, gelijk is aan de marktwaarde die wordt vastgesteld op basis van artikel 41, met dien verstande dat de verhuurder die waarde voor de toepassing in 2010 nog kan aanpassen in overleg met de VMSW en na evaluatie van de vaststelling door de VMSW;<br>
+4° als de in 2008 voorlopig vastgestelde basishuurprijs lager is dan de in 2009 voorlopig vastgestelde basishuurprijs, en als de reële huurprijs op 31 december 2008 gelijk is aan de voorlopig vastgestelde basishuurprijs, de basishuurprijs, zolang dezelfde huurovereenkomst blijft doorlopen, tijdens de jaren 2009 en 2010 voor de toepassing in paragraaf 3, tweede lid, en paragraaf 4, derde lid, wordt verminderd met de volgende bedragen :<br>
+a) in 2009 met twee derde van het verschil tussen de in 2009 voorlopig vastgestelde basishuurprijs en de in 2008 voorlopig vastgestelde basishuurprijs;<br>
 b) in 2010 met een derde van het verschil tussen de in 2010 geldende basishuurprijs en de in 2008 voorlopig vastgestelde basishuurprijs;<br>
-4° de minimale huurprijs, vermeld in artikel 42, gelijkgesteld wordt met de helft van de referentiehuurprijs, vermeld in § 2;<br>
-5° de patrimoniumkorting, vermeld in artikel 43, niet wordt vastgesteld;<br>
-6° de maandelijkse vergoeding voor onderbezetting, vermeld in artikel 50, pas wordt toegepast nadat de minister het vooropgestelde aantal bewoners en de wijze van opname daarvan in het interne huurreglement heeft vastgesteld.<br>
+5° de minimale huurprijs, vermeld in artikel 42, gelijkgesteld wordt met de helft van de referentiehuurprijs, vermeld in paragraaf 2;<br>
+6° de patrimoniumkorting, vermeld in artikel 43, niet wordt vastgesteld;<br>
+7° de maandelijkse vergoeding voor onderbezetting, vermeld in artikel 50, pas wordt toegepast nadat de minister het vooropgestelde aantal bewoners en de wijze van opname daarvan in het interne huurreglement heeft vastgesteld.<br>
 <br>
-§ 2. Voor de jaren 2008 tot en met 2010 stelt de verhuurder voor iedere woning jaarlijks op 1 januari een referentiehuurprijs vast, die als basis dient voor de huurprijsberekening tijdens dat jaar. De verhuurder kan deze referentiehuurprijs wijzigen bij het aangaan van een nieuwe huurovereenkomst in de loop van het jaar, of na afloop van werkzaamheden die op kosten van de verhuurder aan de woning zijn uitgevoerd en die aanleiding geven tot een verhoging van de marktwaarde met minimaal 10 % ten opzichte van de basishuurprijs, vermeld in artikel 38.<br>
+§ 2.Voor de jaren 2008 tot en met 2011 stelt de verhuurder voor iedere woning jaarlijks op 1 januari een referentiehuurprijs vast, die als basis dient voor de huurprijsberekening tijdens dat jaar. De verhuurder kan die referentiehuurprijs wijzigen als hij een nieuwe huurovereenkomst sluit in de loop van het jaar, of na afloop van werkzaamheden die op kosten van de verhuurder aan de woning zijn uitgevoerd en die aanleiding geven tot een verhoging van de marktwaarde met minimaal 10 % ten opzichte van de basishuurprijs, vermeld in artikel 38.<br>
 <br>
-De minister geeft richtlijnen, ondermeer met betrekking tot minimale waarden voor de referentiehuurprijzen, die de verhuurder in staat moeten stellen om door middel van de vaststelling van de referentiehuurprijs de aangepaste huurprijs, vermeld in § 3, te laten evolueren naar de aangepaste huurprijs, vermeld in artikel 46.<br>
+De minister geeft richtlijnen, onder meer met betrekking tot de minimale waarden voor de referentiehuurprijzen, die de verhuurder in staat moeten stellen om door middel van de vaststelling van de referentiehuurprijs de aangepaste huurprijs, vermeld in paragraaf 3, te laten evolueren naar de aangepaste huurprijs, vermeld in artikel 46.<br>
 <br>
-§ 3. In afwijking van artikel 46, is de aangepaste huurprijs voor de jaren 2008 tot en met 2010 gelijk aan het resultaat van de hieronder vermelde formule :
-<p>&nbsp;</p>
+§ 3. In afwijking van artikel 46 is de aangepaste huurprijs voor de jaren 2008 tot en met 2011 gelijk aan het resultaat van de volgende formule :</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:72pt">
-			<p><u>(I + A)<!--?xml:namespace prefix         = o ns = "urn:schemas-microsoft-com:office:office"         /--></u></p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:76.3pt">
+			<p><u>(I + A)<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></u></p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:108pt">
-			<p>&nbsp;x referentiehuurprijs +</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:134.65pt">
+			<p>B x referentiehuurprijs +</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:65.6pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:99.25pt">
 			<p><u>(I – C)</u></p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:66.4pt">
+			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:99.2pt">
 			<p>- G - E</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:72pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:76.3pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:65.6pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:99.25pt">
 			<p>D</p>
 			</td>
 		</tr>
@@ -465,80 +464,78 @@ De minister geeft richtlijnen, ondermeer met betrekking tot minimale waarden voo
 
 <p>waarbij :<br>
 1° I gelijk is aan het inkomen, vermeld in artikel 1, 15°;<br>
-2° de referentiehuurprijs gelijk is aan het bedrag, vermeld in § 2;<br>
+2° de referentiehuurprijs gelijk is aan het bedrag, vermeld in paragraaf 2;<br>
 3° G gelijk is aan de gezinskorting, vermeld in artikel 45;<br>
 4° E gelijk is aan de energiecorrectie, vermeld in artikel 44;<br>
 5° de bedragen A, B, C en D afgelezen kunnen worden uit de volgende tabel :</p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:77.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:3cm">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:29.1pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:83.55pt">
 			<p>2008</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:3cm">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.65pt">
 			<p>2009</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:3cm">
-			<p>2010</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:82.8pt">
+			<p>2010 en 2011</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:77.6pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:29.1pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>5 650 euro</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:83.55pt">
+			<p>5.650 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>13 403 euro</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.65pt">
+			<p>13;403 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>36 663 euro</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:82.8pt">
+			<p>36.663 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:77.6pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:29.1pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>24 811 euro</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:83.55pt">
+			<p>24;811 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>37 216 euro</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.65pt">
+			<p>37;216 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>74 432 euro</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:82.8pt">
+			<p>74.432 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:77.6pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:29.1pt">
 			<p>C</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>13 750 euro</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:83.55pt">
+			<p>13;750 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>13 750 euro</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.65pt">
+			<p>13;750 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>13 750 euro</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:82.8pt">
+			<p>13.750 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:77.6pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:29.1pt">
 			<p>D</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:83.55pt">
 			<p>220 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.65pt">
 			<p>110 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:82.8pt">
 			<p>74 euro</p>
 			</td>
 		</tr>
@@ -547,41 +544,36 @@ De minister geeft richtlijnen, ondermeer met betrekking tot minimale waarden voo
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>De aangepaste huurprijs mag niet hoger zijn dan enerzijds de basishuurprijs, vermeld in artikel 38, met behoud van de toepassing van § 1, 3°, en anderzijds de in het derde lid vermelde begrenzing, maar in geen geval lager dan de helft van de referentiehuurprijs, vermeld in § 2.<br>
+<p>De aangepaste huurprijs mag niet hoger zijn dan enerzijds de basishuurprijs, vermeld in artikel 38, met behoud van de toepassing van paragraaf 1, 3°, en anderzijds de begrenzing, en mag niet lager zijn dan de helft van de referentiehuurprijs, vermeld in paragraaf 2. De begrenzing is :<br>
+1° 1/59 van het inkomen in het jaar 2008;<br>
+2° 1/59 van het inkomen in het jaar 2009;<br>
+3° 1/57 van het inkomen in de jaren 2010 en 2011.<br>
 <br>
-De begrenzing, vermeld in het tweede lid, is :<br>
-1° 1/59e van het inkomen in het jaar 2008;<br>
-2° 1/59e van het inkomen in het jaar 2009;<br>
-3° 1/57e van het inkomen in het jaar 2010.<br>
-<br>
-§ 4. Tijdens de jaren 2008 tot en met 2010, wordt de aangepaste huurprijs, zoals bepaald in § 3, jaarlijks vergeleken met de oorspronkelijke huurprijs, die het resultaat is van de volgende formule :<br>
-(I + 1 773 euro/18 608 euro - G) x referenciehuurprijs<br>
+§ 4. Tijdens de jaren 2008 tot en met 2011 wordt de aangepaste huurprijs, vermeld in paragraaf 3, jaarlijks vergeleken met de oorspronkelijke huurprijs, die het resultaat is van de volgende formule :<br>
+((I + 1.773 euro)/18.608 euro - G) x referentiehuurprijs,<br>
 waarbij :<br>
 1° I gelijk is aan het inkomen, vermeld in artikel 1, 15°;<br>
-2° de referentiehuurprijs gelijk is aan het bedrag, vermeld in § 2;<br>
+2° de referentiehuurprijs gelijk is aan het bedrag, vermeld in paragraaf 2;<br>
 3° G gelijk is aan :<br>
-a) 0,06 als er 1 persoon ten laste is;<br>
-b) 0,12 als er 2 personen ten laste zijn;<br>
-c) 0,32 als er 3 personen ten laste zijn;<br>
-d) 0,42 als er 4 personen ten laste zijn;<br>
-e) 0,52 als er 5 personen ten laste zijn;<br>
-f) 0,62 als er 6 of meer personen ten laste zijn.<br>
+a) 0,06 als er één persoon ten laste is;<br>
+b) 0,12 als er twee personen ten laste zijn;<br>
+c) 0,32 als er drie personen ten laste zijn;<br>
+d) 0,42 als er vier personen ten laste zijn;<br>
+e) 0,52 als er vijf personen ten laste zijn;<br>
+f) 0,62 als er zes of meer personen ten laste zijn.<br>
 <br>
-Het aantal personen ten laste, vermeld in het eerste lid, 3°, heeft betrekking op de personen die in aanmerking worden genomen voor de gezinskorting, vermeld in artikel 45. Iedere persoon telt daarbij voor een eenheid, behalve de personen waarvan sprake in artikel 45, tweede en derde lid, die voor een half tellen. Als deze som geen geheel getal is, wordt het getal G, vermeld in het eerste lid, 3°, pro rata berekend.<br>
+Het aantal personen ten laste, vermeld in het eerste lid, 3°, heeft betrekking op de personen die in aanmerking worden genomen voor de gezinskorting, vermeld in artikel 45. Iedere persoon telt daarbij voor een eenheid, behalve de personen, vermeld in artikel 45, tweede en derde lid, die voor een half tellen. Als die som geen geheel getal is, wordt het getal G, vermeld in het eerste lid, 3°, pro rata berekend.<br>
 <br>
-De oorspronkelijke huurprijs mag niet hoger zijn dan enerzijds de basishuurprijs, vermeld in artikel 38,, met behoud van de toepassing van § 1, 3°, en anderzijds de in het vierde lid vermelde begrenzing, maar in geen geval lager dan de helft van de referentiehuurprijs, vermeld in § 2.<br>
+De oorspronkelijke huurprijs mag niet hoger zijn dan enerzijds de basishuurprijs, vermeld in artikel 38, met behoud van de toepassing van paragraaf 1, 3°, en anderzijds de begrenzing, en mag niet lager zijn dan de helft van de referentiehuurprijs, vermeld in paragraaf 2. De begrenzing is :<br>
+1° 1/59 van het inkomen in het jaar 2008;<br>
+2° 1/59 van het inkomen in het jaar 2009;<br>
+3° 1/57 van het inkomen in de jaren 2010 en 2011.<br>
 <br>
-De begrenzing, vermeld in het derde lid, is :<br>
-1° 1/59ste van het inkomen in het jaar 2008;<br>
-2° 1/59ste van het inkomen in het jaar 2009;<br>
-3° 1/57ste van het inkomen in het jaar 2010.<br>
-<br>
-Als de aangepaste huurprijs, vermeld in artikel 46 en na toepassing van § 3, sterker afwijkt van de oorspronkelijke huurprijs dan de hieronder vermelde bedragen, dan wordt de aangepaste huurprijs, in afwijking van artikel 46, gelijkgesteld met de oorspronkelijke huurprijs vermeerderd of verminderd met die bedragen :<br>
-1° het maximum van 5 % van de oorspronkelijke huurprijs en 20 euro, in 2008;<br>
-2° het maximum van 10 % van de oorspronkelijke huurprijs en 40 euro, in 2009;<br>
-3° het maximum van 15 % van de oorspronkelijke huurprijs en 60 euro, in 2010.</p>
+Als de aangepaste huurprijs, vermeld in artikel 46, na de toepassing van paragraaf 3, sterker afwijkt van de oorspronkelijke huurprijs dan de volgende bedragen, wordt de aangepaste huurprijs, in afwijking van artikel 46, gelijkgesteld met de oorspronkelijke huurprijs, vermeerderd of verminderd met de volgende bedragen :<br>
+1° het maximum van 5 % van de oorspronkelijke huurprijs en 20 euro in 2008;<br>
+2° het maximum van 10 % van de oorspronkelijke huurprijs en 40 euro in 2009;<br>
+3° het maximum van 15 % van de oorspronkelijke huurprijs en 60 euro in 2010;<br>
+4° het maximum van 20 % van de oorspronkelijke huurprijs en 80 euro in 2011.</p>
 
 ### ART. 71.
 
