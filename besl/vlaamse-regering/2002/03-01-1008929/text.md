@@ -24,7 +24,7 @@ De suppletieve regeling als bedoeld in hoofdstuk III, afdeling 4 van dit besluit
 
 ### ART. 5.
 
-§ 1. De aanmoedigingspremies als bedoeld in de artikelen 6, 10, 13, 17, 18 en 19 van dit besluit kunnen slechts worden toegekend binnen de perken van de daartoe voorziene begrotingskredieten.<br /><br />§ 2. De alleenstaande ontvangt boven op de aanmoedigingspremie als vermeld in de artikelen 6, 10, 17, § 1, tweede lid, § 2, tweede lid, 18 en 19 een aanvullende premie van 43,35 euro.
+§ 1. De aanmoedigingspremies als bedoeld in de artikelen 6, 10, 13, 18 en 19 van dit besluit kunnen slechts worden toegekend binnen de perken van de daartoe voorziene begrotingskredieten.<br /><br />§ 2. De werknemer die ressorteert onder de definitie van alleenstaande in de zin van artikel 1, 18° van dit besluit, ontvangt bovenop de aanmoedigingspremie, als bedoeld in de artikelen 6, 10, 18 en 19 van dit besluit, een bijkomende premie van 37 euro.
 
 ## AFDELING 1 AANMOEDIGINGSPREMIE IN HET KADER VAN HET OPLEIDINGSKREDIET
 
@@ -74,7 +74,7 @@ Het recht op de aanmoedigingspremie bij verminderde arbeidsduur wordt verworven 
 
 ### ART. 16.
 
-De aanmoedigingspremie bij verminderde arbeidsduur kan niet gecombineerd worden met een tweede deeltijdse of voltijdse tewerkstelling in hoofde van de werknemer, met de inkomsten uit een zelfstandige activiteit tenzij deze reeds in bijberoep werd uitgeoefend gedurende minstens 1 jaar vóór de aanvang van de verminderde arbeidsduur, met een onderbrekingsuitkering, met een werkloosheidsvergoeding, noch met een aanmoedigingspremie als bedoeld in de artikelen 6 en 10 van dit besluit.
+De aanmoedigingspremie bij verminderde arbeidsduur kan niet gecombineerd worden met een tweede deeltijdse of voltijdse tewerkstelling in hoofde van de werknemer, met de inkomsten uit een zelfstandige activiteit tenzij deze reeds in bijberoep werd uitgeoefend gedurende minstens 1 jaar vóór de aanvang van de verminderde arbeidsduur, met een onderbrekingsuitkering noch met een aanmoedigingspremie als bedoeld in de artikelen 6 en 10 van dit besluit.
 
 ### ART. 17.
 
