@@ -6,24 +6,24 @@ De Vlaamse minister voor Economie, Buitenlands Beleid, Landbouw en Plattelandsbe
 
 ### ART. 1.
 
-Aan het artikel 10 van het ministerieel besluit van 21 december 2009 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, wordt een § 10 toegevoegd luidend als volgt :<br />"§ 10. Vissersvaartuigen krijgen 12 vereveningsdagen, die opgeteld kunnen worden bij de maximum aantallen zeedagen, namelijk 180 en 150, vermeld in § 2." <br /><br />
+...
 
 ### ART. 2.
 
-Aan het artikel 14 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 25 juni 2010 worden volgende wijzigingen aangebracht :<br />1° in de § 3 wordt het getal "45" vervangen door het getal "50";<br />2° in de § 4 lid 2 wordt het getal "30" vervangen door het getal "35";<br />3° in de § 4 lid 3 wordt het getal "10" vervangen door het getal"13".<br /><br />
+...
 
 ### ART. 3.
 
-Aan het artikel 16 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 25 juni 2010, worden met ingang van 8 september 2010 volgende wijzigingen aangebracht :<br />1° in § 3 wordt het getal "24" vervangen door het getal "40";<br />2° in § 4 lid 2 wordt het getal "12" vervangen door het getal "14".<br /><br />
+...
 
 ### ART. 4.
 
-Aan het artikel 23 van hetzelfde besluit, gewijzigd bij de ministeriële besluiten van 26 maart 2010 en 25 juni 2010, worden met ingang van 1 oktober 2010 volgende wijzigingen aangebracht :<br />1° in de § 3 en § 4 worden de woorden "31 december" vervangen door de woorden "30 september";<br />2° aan de § 3 wordt een derde lid toegevoegd, dat luidt als volgt :<br />"In de periode van 1 oktober 2010 tot en met 31 december 2010 is het in het i.c.e.s.-gebied VIId voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het desbetreffend i.c.e.s.-gebied."; <br />3° aan de § 4 wordt een derde lid toegevoegd, dat luidt als volgt :<br />"In de periode van 1 oktober 2010 tot en met 31 december 2010 is het in het i.c.e.s.-gebied VIId voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 500 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het desbetreffend i.c.e.s.-gebied." <br /><br />
+...
 
 ### ART. 5.
 
-Aan het artikel 27 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° in de § 1, § 2, § 4 en § 5 worden de woorden "31 december" vervangen door de woorden "30 september";<br />2° de § 1 wordt aangevuld met een tweede lid :<br />"In de periode van 1 oktober 2010 tot en met 31 december 2010 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden."; <br />3° de § 2 wordt aangevuld met een tweede lid :<br />"In de periode van 1 oktober 2010 tot en met 31 december 2010 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden."; <br />4° de § 4 wordt aangevuld met een tweede lid :<br />"In de periode van 1 oktober 2010 tot en met 31 december 2010 is het in de i.c.e.s.-gebieden VIId voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 80 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het desbetreffend i.c.e.s.-gebied."; <br />5° de § 5 wordt aangevuld met een tweede lid :<br />"In de periode van 1 oktober 2010 tot en met 31 december 2010 is het in de i.c.e.s.-gebieden VIId voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de rogvangst een hoeveelheid te overschrijden die gelijk is aan 160 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het desbetreffend i.c.e.s.-gebied." <br /><br />
+...
 
 ### ART. 6.
 
-Dit besluit treedt in werking op 1 oktober 2010, met uitzondering van artikel 3 dat van kracht wordt op 8 september 2010. Dit besluit houdt op van kracht te zijn op 1 januari 2011.<br /><br />
+...
