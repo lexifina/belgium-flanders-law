@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019823,
+  "title": "Besluit van de Vlaamse Regering van 2010-11-26 houdende verlenging van de erkenning als regionale televisieomroeporganisatie van de VZW TV Kempen en Mechelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019823/VolledigDocument?datum=2011-01-02",
+  "source_sha256": "3cdbb6406f2571efe09740aca7c9d2d1236a2676190b0195c3212e9bbce9e1ac",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019823&param=informatie",
+  "as_of": "2011-01-02",
+  "made": "2010-11-26",
+  "gazette": "2010-12-23",
+  "numac": 2010206391,
+  "document_start": "2011-01-02",
+  "document_end": null,
+  "in_force": "2011-01-02",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-01-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
