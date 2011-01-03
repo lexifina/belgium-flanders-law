@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019831,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-03 tot goedkeuring van het planprogramma Molenbeek-Maalbeek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019831/VolledigDocument?datum=2011-01-03",
+  "source_sha256": "d23fcb9bfe87d3bf963c06472a4c452a342191f28ac3c9e5d77496603a9ef0d3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019831&param=informatie",
+  "as_of": "2011-01-03",
+  "made": "2010-12-03",
+  "gazette": "2010-12-24",
+  "numac": 2010206359,
+  "document_start": "2011-01-03",
+  "document_end": null,
+  "in_force": "2011-01-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-01-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
