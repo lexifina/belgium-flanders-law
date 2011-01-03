@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019833,
+  "title": "Besluit van de Vlaamse Regering van 2010-11-26 houdende verlenging van de erkenning als regionale televisieomroeporganisatie van de VZW Focus televisie - Regionale televisie voor het Noorden van West-Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019833/VolledigDocument?datum=2011-01-03",
+  "source_sha256": "4f776ab1336913f02cb1baaabb64ffc86beb7417323f42f9a998cf2312d23e7d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019833&param=informatie",
+  "as_of": "2011-01-03",
+  "made": "2010-11-26",
+  "gazette": "2010-12-24",
+  "numac": 2010035983,
+  "document_start": "2011-01-03",
+  "document_end": null,
+  "in_force": "2011-01-03",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-01-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
