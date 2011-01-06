@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019832,
+  "title": "Ministerieel besluit van 2010-11-29 tot aanduiding van de vertegenwoordigers in de Permanente Gemengde Schadecommissie Grondwater van de Benelux voor het Vlaamse Gewest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019832/VolledigDocument?datum=2011-01-06",
+  "source_sha256": "320090e2e44f647ccbb2b33aff0930b0bf255a4378116e99485c2f1a39258cc5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019832&param=informatie",
+  "as_of": "2011-01-06",
+  "made": "2010-11-29",
+  "gazette": "2010-12-27",
+  "numac": 2010036025,
+  "document_start": "2011-01-06",
+  "document_end": null,
+  "in_force": "2011-01-06",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-01-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
