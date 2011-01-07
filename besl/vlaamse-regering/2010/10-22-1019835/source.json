@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019835,
+  "title": "Besluit van de Vlaamse Regering van 2010-10-22 tot wijziging van het besluit van de Vlaamse Regering van 5 december 2003 tot vaststelling van het Vlaams reglement inzake afvalvoorkoming en -beheer en het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019835/VolledigDocument?datum=2011-01-07",
+  "source_sha256": "754dad7ea537c9cfb938e9891f5cc6b9abdc625f8a8ebd2f37f317d330ad7c29",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019835&param=informatie",
+  "as_of": "2011-01-07",
+  "made": "2010-10-22",
+  "gazette": "2010-12-28",
+  "numac": 2010036006,
+  "document_start": "2011-01-07",
+  "document_end": null,
+  "in_force": "2011-01-07",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2011-01-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
