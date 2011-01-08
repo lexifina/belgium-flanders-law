@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019844,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-03 houdende de gedeeltelijke verdeling van de provisionele kredieten ingeschreven onder de basisallocaties FB0 FB001 0100 en FB0 FB003 0100 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2010",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019844/VolledigDocument?datum=2011-01-08",
+  "source_sha256": "4d74a363e22c3c6b4d4e99b4d67b65f83e1dd2d6aaa96cc018a2275f4b28c41c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019844&param=informatie",
+  "as_of": "2011-01-08",
+  "made": "2010-12-03",
+  "gazette": "2010-12-29",
+  "numac": 2010035986,
+  "document_start": "2011-01-08",
+  "document_end": null,
+  "in_force": "2011-01-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-01-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
