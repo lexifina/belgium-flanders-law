@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019740,
+  "title": "Besluit van de Vlaamse Regering van 2010-10-01 houdende de vaststelling van het procedure- en werkingsreglement van de Hoge Raad voor [de Handhavingsuitvoering (verv. BVR 9 februari 2018, art. 47, I: 1 maart 2018)]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019740/VolledigDocument?datum=2011-01-10",
+  "source_sha256": "7b1383279cd55c1d2c808af3a4c1f157131975e97821c57a0f88a324d9de54b2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019740&param=informatie",
+  "as_of": "2011-01-10",
+  "made": "2010-10-01",
+  "gazette": "2010-12-31",
+  "numac": 0,
+  "document_start": "2011-01-10",
+  "document_end": null,
+  "in_force": "2011-01-10",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2011-01-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
