@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019854,
+  "title": "Decreet van 2010-12-23 houdende wijziging van het decreet van 10 juli 2008 betreffende het toeristische logies, wat de stedenbouwkundige conformiteit van kamergerelateerde logies betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019854/VolledigDocument?datum=2011-01-10",
+  "source_sha256": "ca4e2bc559ca6d3e62bc76cb54324a63e920d7fdc63e97c6e342eb8a3a86fde3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019854&param=informatie",
+  "as_of": "2011-01-10",
+  "made": "2010-12-23",
+  "gazette": "2010-12-31",
+  "numac": 2010036033,
+  "document_start": "2011-01-10",
+  "document_end": null,
+  "in_force": "2011-01-10",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-01-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
