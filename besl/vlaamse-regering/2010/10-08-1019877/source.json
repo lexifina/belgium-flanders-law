@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019877,
+  "title": "Besluit van de Vlaamse Regering van 2010-10-08 houdende de vaststelling van de stroomgebiedbeheerplannen voor Schelde en Maas en het maatregelenprogramma voor Vlaanderen, overeenkomstig artikelen 33 en 64 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019877/VolledigDocument?datum=2011-01-21",
+  "source_sha256": "06b5ba844868fcfa3b6b1308ba5bed9624a9403dc19ef8b3e7b84daa83688a6c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019877&param=informatie",
+  "as_of": "2011-01-21",
+  "made": "2010-10-08",
+  "gazette": "2011-01-11",
+  "numac": 2010035992,
+  "document_start": "2011-01-21",
+  "document_end": null,
+  "in_force": "2011-01-21",
+  "article_versions": 35,
+  "record_form": "consolidated version as in force on 2011-01-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
