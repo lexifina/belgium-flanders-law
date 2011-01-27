@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019914,
+  "title": "Decreet van 2010-12-03 houdende wijziging van het decreet van 27 april 2007 houdende vaststelling van het wapen en de vlag van de provincies, gemeenten en districten en de Vlaamse Gemeenschapscommissie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019914/VolledigDocument?datum=2011-01-27",
+  "source_sha256": "8c3e7304c5d7a83484c7e4af2c455776182d5697a97b6f0c1e1894a79261addc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019914&param=informatie",
+  "as_of": "2011-01-27",
+  "made": "2010-12-03",
+  "gazette": "2011-01-17",
+  "numac": 2011200076,
+  "document_start": "2011-01-27",
+  "document_end": null,
+  "in_force": "2011-01-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-01-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
