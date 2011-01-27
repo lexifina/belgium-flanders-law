@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019913,
+  "title": "Decreet van 2010-12-03 houdende wijziging van het decreet van 18 juli 2008 houdende het voeren van een Vlaams jeugd- en kinderrechtenbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019913/VolledigDocument?datum=2011-01-27",
+  "source_sha256": "4780845b05908fc352cafd44fc5825e17d3a3a977fd9e04fcfac79329d72a31c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019913&param=informatie",
+  "as_of": "2011-01-27",
+  "made": "2010-12-03",
+  "gazette": "2011-01-17",
+  "numac": 2011200075,
+  "document_start": "2011-01-27",
+  "document_end": null,
+  "in_force": "2011-01-27",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2011-01-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
