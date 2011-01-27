@@ -2,16 +2,16 @@
   "codex_id": 1015917,
   "title": "Decreet van 2007-04-27 houdende vaststelling van het wapen en de vlag van de provincies, gemeenten en districten en de Vlaamse Gemeenschapscommissie",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015917/VolledigDocument?datum=2007-01-01",
-  "source_sha256": "9246420b645dedba70682f6908c75c72f0bb9a481fb731be25f21ecb003d1226",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015917/VolledigDocument?datum=2011-01-27",
+  "source_sha256": "5c5b1947739bb5692fff8b5b38b259c7af371d79e3dc6b4d3975ed3c84920599",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015917&param=informatie",
-  "as_of": "2007-01-01",
+  "as_of": "2011-01-27",
   "made": "2007-04-27",
   "gazette": "2007-07-02",
   "numac": 2007035858,
   "document_start": "2007-01-01",
   "document_end": null,
-  "in_force": "2007-01-01",
+  "in_force": "2011-01-27",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2007-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-01-27; future article versions excluded; article text as the API gives it"
 }
