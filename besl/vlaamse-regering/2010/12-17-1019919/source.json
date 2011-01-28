@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019919,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-17 tot wijziging van het besluit van de Vlaamse Regering van 1 maart 2002 betreffende de erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019919/VolledigDocument?datum=2011-01-28",
+  "source_sha256": "64f105bce806e9200ee418bdbe892467a51368fce6afba39b7d9723c47a7edaa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019919&param=informatie",
+  "as_of": "2011-01-28",
+  "made": "2010-12-17",
+  "gazette": "2011-01-18",
+  "numac": 2011200100,
+  "document_start": "2011-01-28",
+  "document_end": null,
+  "in_force": "2011-01-28",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-01-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
