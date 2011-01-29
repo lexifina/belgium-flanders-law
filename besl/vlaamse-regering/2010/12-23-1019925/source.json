@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019925,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-23 tot wijziging van bijlage XI bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019925/VolledigDocument?datum=2011-01-29",
+  "source_sha256": "666148f0d5878e259da5de2ec94e141fda437198a03c678c671cbccf5caa8627",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019925&param=informatie",
+  "as_of": "2011-01-29",
+  "made": "2010-12-23",
+  "gazette": "2011-01-19",
+  "numac": 2011200121,
+  "document_start": "2011-01-29",
+  "document_end": null,
+  "in_force": "2011-01-29",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-01-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
