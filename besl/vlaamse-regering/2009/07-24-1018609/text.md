@@ -1441,7 +1441,7 @@ De minister legt de nadere subsidievoorwaarden en de overgangsbepalingen vast.
 
 ### ART. 18.
 
-Centra voor kortverblijf die op 1 januari 2009 zonder erkenning werden uitgebaat, mogen vanaf 1 januari 2011 niet langer worden uitgebaat als ze dan niet voorlopig erkend of erkend zijn.
+§ 1. Centra voor kortverblijf die op 1 januari 2009 zonder erkenning werden uitgebaat, mogen vanaf 1 januari 2011 niet langer worden uitgebaat als ze dan niet voorlopig erkend of erkend zijn, met uitzondering van de centra voor kortverblijf die op 1 januari 2009 werden uitgebaat in de voorzieningen waarvoor de uitbater vóór 4 juni 2010 een aanvraag tot voorafgaande vergunning voor een centrum voor herstelverblijf indiende. Deze groep van centra voor kortverblijf mogen vanaf 1 januari 2013 niet langer worden uitgebaat als centrum voor kortverblijf als ze dan niet voorlopig erkend of erkend zijn.<br /><br />§ 2. Met behoud van de toepassing van artikel 58, § 3, van het Woonzorgdecreet van 13 maart 2009 kunnen centra voor kortverblijf die gedurende de periode van 1 juni 2008 tot en met 31 december 2008 zonder erkenning werden uitgebaat een voorafgaande vergunning en erkenning verkrijgen, ook als in hun regio de programmatie al volledig ingenomen is.<br /><br />Zolang de overprogrammatie niet geneutraliseerd is en er geen ruimte is in de geldende programmatie, kunnen er geen nieuwe voorafgaande vergunningen verleend worden.
 
 ## BIJLAGE XII Woonzorgcentra
 
