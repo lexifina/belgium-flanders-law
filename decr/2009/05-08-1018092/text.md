@@ -256,6 +256,10 @@ De Vlaamse Regering kan, na advies van de VREG, de netbeheerders openbaredienstv
 
 De Vlaamse Regering kan, na advies van de VREG, de netbeheerders extra openbaredienstverplichtingen opleggen naast de openbaredienstverplichtingen van dit decreet, met betrekking tot :<br />1° hun investeringen in het net;<br />2° de levering van elektriciteit of aardgas aan huishoudelijke afnemers die niet over een leveringscontract beschikken of van wie de leverancier zijn verplichtingen niet nakomt, doordat de toegang tot het distributienet beëindigd wordt of doordat hij, om welke reden dan ook, geen elektriciteit of aardgas meer kan leveren aan zijn afnemers;<br />3° de procedure die de netbeheerder moet volgen bij wanbetaling door de afnemer;<br />4° maatregelen van sociale aard, zoals de plaatsing en de exploitatie van budgetmeters voor elektriciteit en van stroombegrenzers;<br />5° de exploitatie van openbare verlichting.<br /><br />De gemeenten en de openbare centra voor maatschappelijk welzijn verlenen hun medewerking aan de netbeheerders bij de uitvoering van de openbaredienstverplichtingen die hun opgelegd zijn volgens dit decreet of de uitvoeringsbepalingen ervan. De Vlaamse Regering bepaalt de vorm waarin die medewerking zal bestaan.
 
+### ART. 4.1.22/1.
+
+[... (vernietigd arrest GW Hof, nr. 89/2012, 12 juli 2012)]
+
 ## Afdeling IX. [Meters en meetgegevens (verv. Decr. 26 april 2019, art. 15, I: 21 juni 2019)]
 
 ## [Onderafdeling I. Plaatsing en functionaliteiten van de digitale meter (ing. Decr. 26 april 2019, art. 16, I: 21 juni 2019)]
