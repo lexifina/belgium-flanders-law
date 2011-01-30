@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019933,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-10 houdende verlenging van de erkenning als regionale televisieomroeporganisatie van de VZW Tele-Visie-Limburg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019933/VolledigDocument?datum=2011-01-30",
+  "source_sha256": "08327cdae3463c2c6a1c30397f120e0b6a983f4e929a426d7c2a61fa6691d6f4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019933&param=informatie",
+  "as_of": "2011-01-30",
+  "made": "2010-12-10",
+  "gazette": "2011-01-20",
+  "numac": 2011200163,
+  "document_start": "2011-01-30",
+  "document_end": null,
+  "in_force": "2011-01-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-01-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
