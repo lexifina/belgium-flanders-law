@@ -44,9 +44,29 @@ In het artikel 26, § 5, van hetzelfde decreet, wordt het woord « leraar » ver
 
 Aan artikel 50, § 1, 3°, van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« Op verzoek van een verantwoordelijk bestuurslid van een representatieve vakorganisatie, krijgt een vakbondsafgevaardigde dienstvrijstelling om de vergaderingen van de stuurgroep vermeld in artikel 2, 42°, bij te wonen. De dienstvrij stelling wordt gelijkgesteld met een periode van dienstactiviteit. Het personeelslid behoudt het recht op een salaris. ».<br /><br />
 
+### ART. IV.17.
+
+In artikel 86 van hetzelfde decreet, gewijzigd bij het decreet van 9 juli 2010, worden volgende wijzigingen aangebracht :<br />1° in § 1, 2°, wordt de datum « 1 februari » vervangen door de datum « 30 april »;<br />2° aan § 2, eerste lid, wordt volgende zin toegevoegd : « Die overdracht wordt uiterlijk op 30 april van het lopende schooljaar vastgelegd. ».<br /><br />
+
+### ART. IV.18.
+
+Aan artikel 87, § 5, van hetzelfde decreet wordt een zin toegevoegd, die luidt als volgt :<br />« Die overdracht wordt uiterlijk op 30 april van het lopende schooljaar vastgelegd. ».<br /><br />
+
 ### ART. IV.20.
 
 In artikel 102, § 2, van hetzelfde decreet worden de woorden « in het ambt van leraar » vervangen door de woorden 'in de ambten van leraar secundair volwassenenonderwijs of van lector ».<br /><br />
+
+### ART. IV.21.
+
+Aan artikel 103, § 1, van hetzelfde decreet wordt de volgende zin toegevoegd : « Die overdracht wordt uiterlijk op 30 april van het lopende schooljaar vastgelegd. ».<br /><br />
+
+### ART. IV.22.
+
+In artikel 104, § 1, 2°, van hetzelfde decreet wordt de datum « 1 februari » vervangen door de datum « 30 april ».<br /><br />
+
+### ART. IV.23.
+
+Aan artikel 105, § 6, eerste lid, van hetzelfde decreet wordt volgende zin toegevoegd :<br />« Deze overdracht wordt uiterlijk op 30 april van het lopende schooljaar vastgelegd. ».<br /><br />
 
 ### ART. IV.29.
 
