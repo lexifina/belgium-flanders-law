@@ -2,16 +2,16 @@
   "codex_id": 1019929,
   "title": "Decreet van 2010-12-23 houdende wijziging van het Elektriciteitsdecreet van 17 juli 2000 en het Energiedecreet van 8 mei 2009, wat betreft het vermijden van injectietarieven voor elektriciteit geproduceerd door middel van hernieuwbare energiebronnen en kwalitatieve warmte-krachtkoppeling",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019929/VolledigDocument?datum=2011-01-30",
-  "source_sha256": "3008da99914b0058f433b0e1e08a8918aa1d7f8128580ecf432b3b387f4a42e4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019929/VolledigDocument?datum=2011-01-31",
+  "source_sha256": "ad07d721549eeccdbfd2d9a91ce15159dacf4d1a0b16c357cb1e96b726e328e9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019929&param=informatie",
-  "as_of": "2011-01-30",
+  "as_of": "2011-01-31",
   "made": "2010-12-23",
   "gazette": "2011-01-20",
   "numac": 2011200167,
   "document_start": "2011-01-30",
   "document_end": "2011-01-30",
-  "in_force": "2011-01-30",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2011-01-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2011-01-31",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-01-31; future article versions excluded; article text as the API gives it"
 }
