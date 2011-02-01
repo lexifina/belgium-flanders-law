@@ -16,6 +16,10 @@ In dit besluit wordt verstaan onder :<br />1° decreet van 28 februari 2003 : he
 
 Als een inburgeraar die zich bij het onthaalbureau aanmeldt, vrijgesteld is van de inburgeringsplicht, reikt het onthaalbureau een attest van vrijstelling uit. Het onthaalbureau gebruikt daarvoor het model AV04-G, dat als bijlage IV bij dit besluit is gevoegd.<br /><br />Het onthaalbureau kan de inburgeraar een vertaalde, niet-ondertekende versie van het attest, vermeld in het eerste lid, bezorgen.<br /><br />
 
+### ART. 4.
+
+Als de inburgeraar over voldoende kennis en vaardigheden beschikt om meteen in het secundaire inburgeringstraject in te stappen, reikt het onthaalbureau een attest van EVC uit. Het onthaalbureau gebruikt daarvoor het model AEVC05-G, dat als bijlage V bij dit besluit is gevoegd.<br /><br />
+
 ### ART. 5.
 
 Bij het uitstel van ondertekening van het inburgeringscontract, vermeld in artikel 13, § 6, tweede lid, van het besluit van 15 december 2006 reikt het onthaalbureau aan de inburgeraar een attest van uitstel van ondertekening van het inburgeringscontract uit. Het onthaalbureau gebruikt daarvoor het model AUC06-G, dat als bijlage VI bij dit besluit is gevoegd.<br /><br />Het onthaalbureau kan de inburgeraar een vertaalde, niet-ondertekende versie van het attest, vermeld in het eerste lid, bezorgen.<br /><br />
