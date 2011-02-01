@@ -14,6 +14,10 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
 
 In artikel 2, § 2, van het decreet basisonderwijs van 25 februari 1997, vervangen bij het decreet van 22 juni 2007, wordt de zinsnede « artikel 27, § 4 » vervangen door de zinsnede « artikel 27quater, ».<br /><br />
 
+### ART. II.2.
+
+In artikel 3 van hetzelfde decreet worden in punt 8°, de woorden « zoals dit berekend werd op basis van de laatst uitgevoerde volkstelling en vastgesteld door het Nationaal Instituut voor de Statistiek » vervangen door de woorden « zoals berekend door de federale instantie die bevoegd is voor de coördinatie van de openbare statistiek en zoals dat op 1 februari van het schooljaar voorafgaand aan de start van de zesjaarlijkse periodes voor scholengemeenschappen, vermeld in artikel 125quinquies, § 2, beschikbaar is ».<br /><br />
+
 ### ART. II.3.
 
 Aan artikel 13 van hetzelfde decreet, vervangen bij het decreet van 20 maart 2009, worden de volgende wijzigingen aangebracht :<br />1°in artikel 13, § 1, 2°, wordt tussen de woorden « heeft » en « is » de volgende zinsnede gevoegd : <br />« of de school waar de betrokken leerling zich aanbiedt »;<br /><br />2° er wordt een § 2bis ingevoegd, die luidt als volgt :<br />« § 2bis. In afwijking van § 1, 1°, bepaalt de Vlaamse Regering wanneer een leerling geacht wordt voldoende aanwezig te zijn, wanneer de school overeenkomstig artikel 8 van het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs, in het deeltijds kunstonderwijs en in het onderwijs voor sociale promotie erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap, over een afwijkende uurregeling beschikt. ».<br /><br />
