@@ -89,9 +89,21 @@ In deel VII, titel 2, hoofdstuk 3, van hetzelfde besluit, gewijzigd bij besluit 
 <br>
 « § 3. Ingeval de in dit artikel vermelde toelagen niet volledig verschuldigd zijn, worden ze betaald overeenkomstig artikel VII 6 ».</p>
 
+### ART. 40.
+
+In artikel VII 65, § 1, 3e lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 mei 2008, worden de woorden « 2,50 euro » vervangen door de woorden « de werkgeversbijdrage in een maaltijdcheque zoals bepaald in artikel VII 109ter van dit besluit ».<br /><br />
+
 ### ART. 41.
 
 In artikel VII 70quinquies § 2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 mei 2009, worden de woorden « P-schaal » vervangen door de woorden « C- of P-schaal ».
+
+### ART. 42.
+
+In artikel VII 83, paragraaf 1, 2de lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 mei 2008, worden de woorden « 2,50 euro » vervangen door de woorden « de werkgeversbijdrage in een maaltijdcheque zoals bepaald in artikel VII 109ter van dit besluit ».
+
+### ART. 43.
+
+In artikel VII 87, paragraaf 4 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de woorden « 2,50 euro » vervangen door de woorden « de werkgeversbijdrage in een maaltijdcheque zoals bepaald in artikel VII 109ter van dit besluit ».
 
 ### ART. 44.
 
