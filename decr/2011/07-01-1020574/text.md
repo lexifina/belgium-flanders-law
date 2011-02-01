@@ -78,6 +78,14 @@ In artikel 110 van hetzelfde decreet worden de volgende wijzigingen aangebracht 
 
 ## Afdeling II Decreet betreffende de hogescholen
 
+### ART. V.8.
+
+Aan artikel 140, § 2, van hetzelfde decreet, gewijzigd bij het decreet van 18 mei 1999 en 4 juli 2008, wordt een tweede en derde lid toegevoegd, die luiden als volgt :<br />« De beperking voor het in aanmerking nemen van nuttige beroepservaring tot tien jaar is niet van toepassing op nieuwe personeelsleden die vanaf 1 februari 2011 in een hogeschool aangesteld of benoemd worden. De toekenning van de nuttige beroepservaring gebeurt op basis van een gemotiveerde beoordeling van de doorlopen carrière, de verworven ervaring en de verworven kwalificaties.<br />Voor de toepassing van het tweede lid wordt onder nieuwe personeelsleden verstaan alle personeelsleden die op 1 februari 2011 nog geen benoeming of aanstelling als statutair of contractueel personeelslid in de betrokken hogeschool hadden. ».<br /><br />
+
+### ART. V.9.
+
+Aan artikel 156, § 2, van hetzelfde decreet, gewijzigd bij het decreet van 18 mei 1999 en 4 juli 2008, wordt een tweede en derde lid toegevoegd, die luiden als volgt :<br />« De beperking voor het in aanmerking nemen van nuttige beroepservaring tot tien jaar is niet van toepassing op nieuwe personeelsleden die vanaf 1 februari 2011 in een hogeschool aangesteld of benoemd worden. De toekenning van de nuttige beroepservaring gebeurt op basis van een gemotiveerde beoordeling van de doorlopen carrière, de verworven ervaring en de verworven kwalificaties.<br />Voor de toepassing van het tweede lid wordt onder nieuwe personeelsleden verstaan alle personeelsleden die op 1 februari 2011 nog geen benoeming of aanstelling als statutair of contractueel personeelslid in de betrokken hogeschool hadden. ».<br /><br />
+
 ### ART. V.19.
 
 Aan hetzelfde decreet wordt een artikel 322bis toegevoegd, dat luidt als volgt :<br />« Art. 322bis. In afwijking van het bepaalde in artikel 322 kan het hogeschoolbestuur vanaf 1 januari 2011 de personeelsleden, bedoeld in artikel 318, 2°, die aan de voorwaarden, vermeld in artikel 326, tweede lid, voldoen, benoemen in het ambt waarnaar ze geconcordeerd zijn, zonder dat deze personeelsleden over het voor dit ambt vereiste diploma beschikken. ».<br /><br />
