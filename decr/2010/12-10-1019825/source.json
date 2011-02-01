@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019825,
+  "title": "Decreet van 2010-12-10 houdende wijziging van het KLIP-decreet van 14 maart 2008, wat betreft het indienen en afhandelen van een planaanvraag alsook de bijhorende strafbepalingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019825/VolledigDocument?datum=2011-02-01",
+  "source_sha256": "4a441cbdf1f5728f9df9504c00049770483cf63d5a9ceb88159be3d5de8a434a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019825&param=informatie",
+  "as_of": "2011-02-01",
+  "made": "2010-12-10",
+  "gazette": "2010-12-24",
+  "numac": 2010035982,
+  "document_start": "2011-02-01",
+  "document_end": null,
+  "in_force": "2011-02-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
