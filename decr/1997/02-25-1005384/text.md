@@ -24,7 +24,7 @@ Voor de toepassing van dit decreet wordt verstaan onder:<br>
 5° het Gemeenschapsonderwijs: een openbare instelling met rechtspersoonlijkheid, opgericht bij het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs;<br>
 6° basisschool: school waar kleuteronderwijs en lager onderwijs georganiseerd wordt;<br>
 7° behoudsnorm: gunstige rationalisatienorm die in welbepaalde situaties in het buitengewoon onderwijs mag toegepast worden;<br>
-8° bevolkingsdichtheid van een gemeente: het aantal inwoners per km2 zoals dit berekend werd op basis van de laatst uitgevoerde volkstelling en vastgesteld door het Nationaal Instituut voor de Statistiek.<br>
+8° bevolkingsdichtheid van een gemeente: het aantal inwoners per km2 zoals berekend door de federale instantie die bevoegd is voor de coördinatie van de openbare statistiek en zoals dat op 1 februari van het schooljaar voorafgaand aan de start van de zesjaarlijkse periodes voor scholengemeenschappen, vermeld in artikel 125quinquies, § 2, beschikbaar is.<br>
 De bevolkingsdichtheid in aanmerking te nemen voor een school die vestigingsplaatsen heeft in verschillende ge-meenten wordt vastgesteld op grond van volgende berekening: de totale bevolking van deze gemeenten wordt gedeeld door de totale oppervlakte uitgedrukt in km2. Voor een vestigingsplaats wordt bevolkingsdichtheid van de gemeente waarin de vestigingsplaats werkelijk gelegen is, in aanmerking genomen;<br>
 8°bis bijkomende lestijden : lestijden die niet behoren tot het lestijdenpakket en geen extra lestijden zijn;<br>
 8°ter bijkomende uren : uren die niet behoren tot het urenpakket en geen extra uren zijn;<br>
