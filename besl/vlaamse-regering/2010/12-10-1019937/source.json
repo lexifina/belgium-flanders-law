@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019937,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-10 tot subsidiëring van stadsvernieuwingsprojecten in het kader van oproep 4",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019937/VolledigDocument?datum=2011-02-03",
+  "source_sha256": "89d4b3a3503e871b35b53100997dec29a18d479df96180d540798d528c754a68",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019937&param=informatie",
+  "as_of": "2011-02-03",
+  "made": "2010-12-10",
+  "gazette": "2011-01-24",
+  "numac": 2011200226,
+  "document_start": "2011-02-03",
+  "document_end": null,
+  "in_force": "2011-02-03",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-02-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
