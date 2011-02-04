@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019958,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-17 houdende de derde herverdeling van kredieten binnen programma HG van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor de begroting 2010",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019958/VolledigDocument?datum=2011-02-04",
+  "source_sha256": "2c4c2e44230446996b064dc84882383b282b2b30abce9ad211d001aec7dfbf83",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019958&param=informatie",
+  "as_of": "2011-02-04",
+  "made": "2010-12-17",
+  "gazette": "2011-01-25",
+  "numac": 2011035015,
+  "document_start": "2011-02-04",
+  "document_end": null,
+  "in_force": "2011-02-04",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-02-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
