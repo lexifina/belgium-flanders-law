@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019955,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-17 houdende de verdeling van de kredieten ingeschreven onder de basisallocatie FC0 FB101 0100 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2010",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019955/VolledigDocument?datum=2011-02-04",
+  "source_sha256": "9f4dfb534626250824c9c5737dc1b39ce31d552f1e46bd8582e9fe7eb7d11bcc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019955&param=informatie",
+  "as_of": "2011-02-04",
+  "made": "2010-12-17",
+  "gazette": "2011-01-25",
+  "numac": 2011035010,
+  "document_start": "2011-02-04",
+  "document_end": null,
+  "in_force": "2011-02-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-02-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
