@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019966,
+  "title": "Besluit van de Vlaamse Regering van 2010-12-23 tot wijziging van het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het intern verzelfstandigd agentschap « Agentschap voor Facilitair Management »",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019966/VolledigDocument?datum=2011-02-07",
+  "source_sha256": "a2381a8c1bc4538360a457fe04461403eb30d15a39c962d33b9dec61f8dc5c09",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019966&param=informatie",
+  "as_of": "2011-02-07",
+  "made": "2010-12-23",
+  "gazette": "2011-01-28",
+  "numac": 2011200131,
+  "document_start": "2011-02-07",
+  "document_end": null,
+  "in_force": "2011-02-07",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-02-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
