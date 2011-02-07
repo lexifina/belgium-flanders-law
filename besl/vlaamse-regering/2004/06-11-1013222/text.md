@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° het Algemeen Delegatiebesluit: het besluit van de Vlaamse regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid;<br />2° het agentschap: het Agentschap voor Facilitair Management;<br />3° de minister: de Vlaamse minister bevoegd voor Facilitair Management;<br />4° het comité: het Raadgevend Comité bij het Agentschap voor Facilitair Management;<br />5° het lijnmanagement: de hoofden van de organisatorische entiteiten binnen de Vlaamse overheid die het hiërarchisch en functioneel gezag over het personeel van hun entiteit uitoefenen.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° het Algemeen Delegatiebesluit: het besluit van de Vlaamse regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid;<br />2° het agentschap: het Agentschap voor Facilitair Management;<br />3° de minister: de Vlaamse minister bevoegd voor Facilitair Management;<br />4° ...<br />5° het lijnmanagement: de hoofden van de organisatorische entiteiten binnen de Vlaamse overheid die het hiërarchisch en functioneel gezag over het personeel van hun entiteit uitoefenen.
 
 ## HOOFDSTUK II BENAMING, DOELSTELLINGEN EN TAKEN VAN HET AGENTSCHAP
 
@@ -66,15 +66,15 @@ De minister kan, in het kader van de opvolging en de uitoefening van het toezich
 
 ### ART. 14.
 
-§ 1 Bij het agentschap wordt een raadgevend comité opgericht. Dit comité bezit uitsluitend een adviserende bevoegdheid.<br /><br />§ 2. Het comité heeft tot taak het hoofd van het agentschap te adviseren bij de uitvoering van de activiteiten inzake vastgoedbeheer en facilitaire diensten.
+...
 
 ### ART. 15.
 
-Het comité is samengesteld uit één vertegenwoordiger van elk beleidsdomein, aangeduid door het managementcomité binnen eik beleidsdomein.
+...
 
 ### ART. 16.
 
-Het comité stelt een huishoudelijk reglement op dat ter goedkeuring wordt voorgelegd aan de minister.
+...
 
 ## HOOFDSTUK VII WIJZIGINGS, INWERKINGTREDINGS- EN UITVOERINGSBEPALINGEN
 
