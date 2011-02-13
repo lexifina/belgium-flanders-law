@@ -30,15 +30,14 @@ De bedragen, vermeld in dit besluit, zijn exclusief de belasting over de toegevo
 1° de bestekken voor werken, leveringen of diensten of de bescheiden die ze vervangen goed te keuren;<br>
 2° de wijze te kiezen waarop de opdrachten worden gegund;<br>
 3° opdrachten voor aanneming van werken, leveringen of diensten te gunnen en toe te zien op de uitvoering ervan.<br>
-Deze machtiging geldt slechts binnen de perken van de bedragen in duizend EUR, die in de hiernavolgende tabel zijn opgenomen :<br>
-<br>
-</p>
+Deze machtiging geldt slechts binnen de perken van de bedragen in EUR, die in de hiernavolgende tabel zijn opgenomen :<br>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:59.4pt">
-			<p>Bedragen in EUR</p>
+			<p>Bedragen in EUR<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:98.35pt">
 			<p>Openbare aanbesteding/</p>
@@ -69,7 +68,7 @@ Deze machtiging geldt slechts binnen de perken van de bedragen in duizend EUR, d
 			<p>750.000</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:108.3pt">
-			<p>500.000</p>
+			<p>65.000</p>
 			</td>
 		</tr>
 		<tr>
@@ -86,7 +85,7 @@ Deze machtiging geldt slechts binnen de perken van de bedragen in duizend EUR, d
 			<p>450.000</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:108.3pt">
-			<p>300.000</p>
+			<p>65.000</p>
 			</td>
 		</tr>
 		<tr>
@@ -103,7 +102,7 @@ Deze machtiging geldt slechts binnen de perken van de bedragen in duizend EUR, d
 			<p>250.000</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:108.3pt">
-			<p>100.000</p>
+			<p>65.000</p>
 			</td>
 		</tr>
 	</tbody>
