@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019994,
+  "title": "Ministerieel besluit van 2011-01-14 betreffende de bekrachtiging van de aanwijzing van de leden van het college van beroep inzake tucht bij de Katholieke Hogeschool Limburg",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019994/VolledigDocument?datum=2011-02-14",
+  "source_sha256": "2deea3768296fb82aa4e8bb6b57df716c89e5cb0942ce217d9717e2070e860f6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019994&param=informatie",
+  "as_of": "2011-02-14",
+  "made": "2011-01-14",
+  "gazette": "2011-02-04",
+  "numac": 2011200454,
+  "document_start": "2011-02-14",
+  "document_end": null,
+  "in_force": "2011-02-14",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-02-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
