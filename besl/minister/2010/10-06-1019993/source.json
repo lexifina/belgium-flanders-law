@@ -1,0 +1,17 @@
+{
+  "codex_id": 1019993,
+  "title": "Ministerieel besluit van 2010-10-06 houdende machtiging tot hoogdringende onteigening ten algemenen nutte van onroerende goederen bestemd voor de oprichting van rioolwaterzuiveringsinfrastructuur te Itterbeek. - Nr. 99250 ONT",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019993/VolledigDocument?datum=2011-02-14",
+  "source_sha256": "bc2941caae46975a1cab15e1566046953887c9acbf77ae108db121f3ecefa490",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019993&param=informatie",
+  "as_of": "2011-02-14",
+  "made": "2010-10-06",
+  "gazette": "2011-02-04",
+  "numac": 2011035109,
+  "document_start": "2011-02-14",
+  "document_end": null,
+  "in_force": "2011-02-14",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-02-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
