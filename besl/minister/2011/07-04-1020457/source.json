@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020457,
+  "title": "Ministerieel besluit van 2011-07-04 tot wijziging van het ministerieel besluit van 11 februari 2011 tot nadere bepaling van de strengere verbodsbepalingen ter uitvoering van artikel 38 van het Mestdecreet van 22 december 2006",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020457/VolledigDocument?datum=2011-02-17",
+  "source_sha256": "67f00371783e3519a37ec9324973e7fdb900b1f9efff7a971a7b63abc2d6ab40",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020457&param=informatie",
+  "as_of": "2011-02-17",
+  "made": "2011-07-04",
+  "gazette": "2011-07-25",
+  "numac": 2011203711,
+  "document_start": "2011-02-17",
+  "document_end": null,
+  "in_force": "2011-02-17",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-02-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
