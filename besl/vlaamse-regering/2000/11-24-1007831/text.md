@@ -26,7 +26,22 @@ In het bedrijfsplan, vermeld in artikel 4, worden de aard van de bedrijfsactivit
 
 ### ART. 6.
 
-§ 1. De investeringssteun kan een of meer van de volgende maatregelen omvatten :<br />1° de steun in de vorm van een investeringspremie al dan niet aanvullend aan een rentetoelage;<br />2° de steun in de vorm van een rentetoelage;<br />3° de waarborg, vermeld in artikel 12, § 5, van het decreet van 22 december 1993 houdende bepalingen tot begeleiding van de begroting 1994.<br /><br />§ 2. Het maximale percentage steun voor de investering dat de landbouwer, uitgezonderd de consumentencoöperatie of de sociale instelling, kan genieten, bedraagt naargelang van de aard ervan :<br />1° 40 % voor investeringen die specifiek zijn voor de biologische landbouw, als vermeld in de bijlage bij dit besluit;<br />2° 30 % voor investeringen die gericht zijn op de realisatie van een landbouw met verbrede doelstellingen, duurzame landbouw of op de reconversie van het landbouwbedrijf, als vermeld in de bijlage bij dit besluit;<br />3° 20 % voor investeringen in onroerend goed die gericht zijn op de realisatie van een structuurverbetering, als vermeld in de bijlage bij dit besluit;<br />4° 10 % voor overige investeringen die gericht zijn op de realisatie van een structuurverbetering, als vermeld in de bijlage bij dit besluit.<br /><br />De Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij, bepaalt de andere soortgelijke investeringen, vermeld in de bijlage bij dit besluit, waarvoor investeringssteun verkregen kan worden. <br /><br />§ 3. De consumentencoöperatie of de sociale instelling kan voor haar investeringen een rentetoelage van maximaal 4 % op een lening die gelijk is aan de subsidiabele investeringen, of een vervangende kapitaalpremie genieten. De consumentencoöperatie of de sociale instelling kan de waarborg, vermeld in artikel 12, § 5, van het decreet van 22 december 1993 houdende bepalingen tot begeleiding van de begroting 1994, niet genieten.<br /><br />De Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij, bepaalt de aard van de investeringen waarvoor de consumentencoöperatie of de sociale instelling van steun kan genieten. <br />
+§ 1. De investeringssteun kan een of meer van de volgende maatregelen omvatten :<br>
+1° de steun in de vorm van een investeringspremie al dan niet aanvullend aan een rentetoelage;<br>
+2° de steun in de vorm van een rentetoelage;<br>
+3° de waarborg, vermeld in artikel 12, § 5, van het decreet van 22 december 1993 houdende bepalingen tot begeleiding van de begroting 1994.<br>
+<br>
+§ 2. Het maximale percentage steun voor de investering dat de landbouwer, uitgezonderd de consumentencoöperatie of de sociale instelling, kan genieten, bedraagt naargelang van de aard ervan :<br>
+1° 38 % voor investeringen die specifiek zijn voor de biologische landbouw, als vermeld in de bijlage bij dit besluit;<br>
+2° 28 % voor investeringen die gericht zijn op de realisatie van een landbouw met verbrede doelstellingen, duurzame landbouw of op de reconversie van het landbouwbedrijf, als vermeld in de bijlage bij dit besluit;<br>
+3° 18 % voor investeringen in onroerend goed die gericht zijn op de realisatie van een structuurverbetering, als vermeld in de bijlage bij dit besluit;<br>
+4° 8 % voor overige investeringen die gericht zijn op de realisatie van een structuurverbetering, als vermeld in de bijlage bij dit besluit.<br>
+<br>
+De Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij, bepaalt de andere soortgelijke investeringen, vermeld in de bijlage bij dit besluit, waarvoor investeringssteun verkregen kan worden.<br>
+<br>
+§ 3. De consumentencoöperatie of de sociale instelling kan voor haar investeringen een rentetoelage van maximaal 4 % op een lening die gelijk is aan de subsidiabele investeringen, of een vervangende kapitaalpremie genieten. De consumentencoöperatie of de sociale instelling kan de waarborg, vermeld in artikel 12, § 5, van het decreet van 22 december 1993 houdende bepalingen tot begeleiding van de begroting 1994, niet genieten.<br>
+<br>
+De Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij, bepaalt de aard van de investeringen waarvoor de consumentencoöperatie of de sociale instelling van steun kan genieten.
 
 ### ART. 7.
 
@@ -34,7 +49,9 @@ In het bedrijfsplan, vermeld in artikel 4, worden de aard van de bedrijfsactivit
 
 ### ART. 8.
 
-De totale omvang van de subsidiabele investeringen bedraagt voor een voortschrijdende periode van 7 jaren maximaal 1.000.000 euro per natuurlijke persoon, beherend vennoot, zaakvoerder, bestuurder of gedelegeerd bestuurder telkens met de kwalificatie landbouwer of per bestuurder-landbouwer van de sociale instelling of de consumentencoöperatie, behoudens voor de overheidswaarborg waarvoor ongeacht het aantal personen met de kwalificatie landbouwer op het bedrijf 2.000.000 euro subsidiabele investeringen altijd aanvaard kunnen worden.<br /><br />De rentetoelage bedraagt maximaal 4 % voor de investeringen, vermeld in artikel 6, § 2, 1° en 2°, en 3 % voor de investeringen, vermeld in artikel 6, § 2, 3° en 4°. <br />
+De totale omvang van de subsidiabele investeringen bedraagt voor een voortschrijdende periode van zeven jaar maximaal 1.000.000 euro per natuurlijke persoon, landbouwer, of per beherende vennoot, zaakvoerder of bestuurder van een rechtspersoon, landbouwer, of per bestuurder-landbouwer van de sociale instelling of de consumentencoöperatie, behalve voor de overheidswaarborg waarvoor, ongeacht het aantal bedrijfsleiders, 2.000.000 euro subsidiabele investeringen aanvaard kunnen worden.<br>
+<br>
+De rentetoelage bedraagt maximaal 4 % voor de investeringen, vermeld in artikel 6, § 2, 1° en 2°, en 3 % voor de investeringen, vermeld in artikel 6, § 2, 3°. Voor de investeringen, vermeld in artikel 6, § 2, 4° wordt geen rentetoelage verleend.
 
 ### ART. 9.
 
@@ -168,218 +185,690 @@ De Vlaamse minister, bevoegd voor het landbouwbeleid, is belast met de uitvoerin
 
 ### BIJLAGE 1
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+Bijlage bij het besluit van de Vlaamse Regering van 24 november 2000 betreffende steun aan de investeringen en aan de installatie in de landbouw<br>
+Overzicht van de investeringen volgens hun aard en het overeenstemmende percentage steun ten opzichte van subsidiabele investeringen
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; vertical-align:top; width:95.4pt">
-			<p>Aard van de verrichtingen<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			<td style="background-color:transparent">
+			<p>aard van de investeringen<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:324pt">
-			<p>Beschrijving van de investering met vermelding van de bijzondere voorwaarden</p>
+			<td style="background-color:transparent">
+			<p>beschrijving van de investering met vermelding van de bijzondere voorwaarden</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:41.2pt">
-			<p>Steun</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:95.4pt">
-			<p>groep 1:</p>
-
-			<p>investeringen die specifiek zijn voor de biologische landbouw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:324pt">
-			<p>• bouwen, verbouwen en uitrusten van bedrijfsgebouwen en de omheining van uitlopen die voldoen aan de normen voor biologische veehouderij vermeld in de lastenboeken voor de dierlijke biologische productie, op voorwaarde dat de aanvrager de biologische productiemethode toepast (bewijs voorleggen);</p>
-
-			<p>• aanleg van hoogstamboomgaarden in de bioteelt;</p>
-
-			<p>• andere gelijksoortige investeringen die specifiek zijn voor de biologische landbouw.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:41.2pt">
-			<p>40 %</p>
+			<td style="background-color:transparent">
+			<p>steun</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:95.4pt">
-			<p>groep 2:</p>
-
-			<p>investeringen gericht op de realisatie van een landbouw met verbrede doelstellingen, duurzame landbouw of de reconversie van het landbouwbedrijf</p>
+			<td rowspan="2" style="background-color:transparent">
+			<p>groep 1 : investeringen die specifiek zijn voor de biologische landbouw</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:324pt">
-			<p>• installatie voor waterzuivering op bedrijfsniveau, met inbegrip van de installaties voor waterzuivering in het kader van hergebruik van overtollig regen- en beregeningswater;</p>
-
-			<p>• uitrusting voor het reinigen van de rookgassen van stookinstallaties met cyclonen, doekenfilters of rookgaswassing;</p>
-
-			<p>• installatie van een eerste energiescherm in een bestaande serre en in een nieuwbouwserre;</p>
-
-			<p>• stalverluchtingssysteem met een filter ter bestrijding van de geur- en stofhinder (biofilter, biobed, stoffilters, luchtwassers);</p>
-
-			<p>• installatie van een warmtebuffer en een rookgascondensor;</p>
-
-			<p>• installatie van een warmtepomp in combinatie met koude-warmteopslag als onderdeel van de inrichting van een gesloten kas;</p>
-
-			<p>• installatie van een energiebesparende kasomhulling (dubbel glas, gecoat glas, kunststof kanaalplaten);</p>
-
-			<p>• nieuwe verwarmingsinstallaties of omschakeling van bestaande verwarmingsinstallaties naar gas of hernieuwbare brandstoffen, inclusief installaties voor warmtekrachtkoppeling;</p>
-
-			<p>• bouwen, verbouwen en uitrusten van bedrijfsgebouwen die gebruikt worden voor de aanmaak van zuivelproducten (met melk van het eigen bedrijf) en het bewaren van die producten, evenals de aankoop van materieel dat specifiek noodzakelijk is voor die activiteit;</p>
-
-			<p>• bouwen, verbouwen en uitrusten van bedrijfsgebouwen die gebruikt worden voor het versnijden, bereiden en verkoopsklaar maken van vlees (geproduceerd op het eigen bedrijf) en het bewaren van die producten, evenals de aankoop van materieel dat specifiek noodzakelijk is voor die activiteit;</p>
-
-			<p>• bouwen, verbouwen en uitrusten van bedrijfsgebouwen die gebruikt worden voor het artisanaal verwerken en verkoopsklaar maken van land- en tuinbouwproducten (andere producten dan melk en vlees, die geproduceerd zijn op het eigen bedrijf) en het bewaren van die producten, evenals de aankoop van materieel dat specifiek noodzakelijk is voor die activiteit;</p>
-
-			<p>• bouwen, verbouwen en uitrusten van bedrijfsgebouwen die bestemd zijn voor de rechtstreekse verkoop van de eigen productie (al dan niet in verwerkte vorm) aan de consument of in een buurtwinkel, met inbegrip van een opslag- of koelruimte die bestemd is voor de verkoopsklare voorraad van die producten, evenals de aankoop van materieel dat specifiek noodzakelijk is om die activiteit uit te oefenen;</p>
-
-			<p>• investeringen in vaste en verplaatsbare installaties zoals vogelnetten, imitatieroofvogels, care-eyeballonnen en afschrikwindmolentjes, gericht op het beperken van schade door vogels of ander wild met uitzondering van knalapparatuur;</p>
-
-			<p>• mechanische of thermische onkruidbestrijding of loofdoding (schoffelmachine, zwenkmaaier, rijenfrees, vingeregge, loofklapper, onkruid- of loofbrander, grondstoommachine);</p>
-
-			<p>• machines en uitrusting die specifiek noodzakelijk zijn voor het beheer van kleine landschapselementen, perceelsranden en landschap (eventueel contracten voorleggen);</p>
-
-			<p>• installaties voor compostering (omzetten van de composthoop);</p>
-
-			<p>• investeringen, gericht op het educatief toegankelijk maken van de landbouwbedrijvigheid inzake de productie van producten voor een breder publiek;</p>
-
-			<p>• inrichting van verblijfsruimten voor zorgvragers in het kader van de zorgboerderijen;</p>
-
-			<p>• installaties en materieel die op bedrijfsniveau specifiek noodzakelijk zijn voor de bereiding van samengestelde voeders (andere dan ruwvoeders), hoofdzakelijk op basis van zelfgeteelde basisproducten en ter vervanging van krachtvoeders, of voor de bereiding van samengestelde voeders voor varkens op basis van CCM (Corn Cob Mix), hoofdzakelijk op basis van zelfgeteelde producten. De samengestelde voeders moeten een drogestofgehalte hebben van minstens 60 %. Daarbij zijn ook graandrooginstallaties voor eigen granen inbegrepen op voorwaarde dat die werken volgens een proces waarbij de verbrandingsgassen niet door de granen gestuurd worden en waarbij er zodoende geen residu’s voorkomen in het eindproduct;</p>
-
-			<p>• geautomatiseerde champignonplukmachines in geval van reconversie van de productiemethode om het hoofd te bieden aan de delokalisatie van de champignonproductie;</p>
-
-			<p>• aanplanten of heraanplanten van fruitplantages met nieuwe commercieel beloftevolle fruitvariëteiten op voorwaarde dat de geïntegreerde productiemethode toegepast wordt.</p>
-
-			<p>Uitbreiding van het areaal wordt toegestaan;</p>
-
-			<p>• installaties en materieel die op bedrijfsniveau specifiek noodzakelijk zijn voor de productie van medicinale en aromatische planten;</p>
-
-			<p>investeringen, gericht op de productie en het gebruik van hernieuwbare energiebronnen als vorm van diversificatie (land- en tuinbouwproductie blijft hoofdzaak), namelijk:</p>
-
-			<p>oliepers, bestemd voor de productie van PPO (pure plantaardige olie) en installaties voor het zuiveren van op het bedrijf geproduceerde PPO. De aankoop van een mobiele oliepers door een coöperatie van landbouwers is subsidiabel mits het een coöperatie betreft voor dienstverlening;</p>
-
-			<p>aanpassing van een tractor of een andere landbouwmachine voor het gebruik van PPO;</p>
-
-			<p>zonneboilers en fotovoltaïsche zonnecellen;</p>
-
-			<p>windmolens;</p>
-
-			<p>installaties en materieel voor de productie van biogas en bijbehorende installaties voor de opwekking van elektriciteit op basis van een substantieel gedeelte grondstoffen van het bedrijf;</p>
-
-			<p>installaties en materieel voor de energieproductie op basis van energieteelten en bijbehorende installaties voor de opwekking van elektriciteit op basis van een substantieel gedeelte grondstoffen van het bedrijf;</p>
-
-			<p>installaties en materieel die op bedrijfsniveau specifiek noodzakelijk zijn voor de productie van andere hernieuwbare brandstoffen (bijvoorbeeld houtachtige energieteelten) en bijbehorende installaties voor de opwekking van elektriciteit.</p>
-
-			<p>• andere gelijksoortige investeringen gericht op de realisatie van een landbouw met verbrede doelstellingen, duurzame landbouw of de reconversie van het landbouwbedrijf.</p>
+			<td style="background-color:transparent">
+			<p>o bouwen, verbouwen en uitrusten van bedrijfsgebouwen en de omheining van uitlopen die voldoen aan de normen voor biologische veehouderij vermeld in de lastenboeken voor de dierlijke biologische productie, op voorwaarde dat de aanvrager de biologische productiemethode toepast (bewijs voorleggen);</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:41.2pt">
-			<p>30 %</p>
+			<td style="background-color:transparent">
+			<p>38 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:95.4pt">
-			<p>groep 3:</p>
-
-			<p>investeringen in onroerend goed, gericht op de realisatie van een structuurverbetering</p>
+			<td style="background-color:transparent">
+			<p>o aanleg van hoogstamboomgaarden in de bioteelt;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:324pt">
-			<p>• bouwen, verbouwen en uitrusten van melkveestallen, inclusief melkinstallatie, en van jongveestallen voor jongvee van dat melkvee;</p>
-
-			<p>• bouwen, verbouwen en uitrusten van vleesveestallen en van jongveestallen voor jongvee van dat vleesvee;</p>
-
-			<p>• bouwen van een nieuwe ammoniakemissiearme stal, die voorkomt op de lijst van ammoniakemissiearme stallen van het Vlarem, op voorwaarde dat in zeugenstallen groepshuisvesting wordt toegepast en dat in legkippenstallen volièrehuisvesting of grondhuisvesting wordt toegepast;</p>
-
-			<p>• uitrusten van nieuwe ammoniakemissiearme legkippenstallen met volièrehuisvesting of grondhuisvesting;</p>
-
-			<p>• bouwen, verbouwen en uitrusten van vleeskalverstallen;</p>
-
-			<p>• bouwen van bijkomende mestopslagcapaciteit op het veebedrijf van mest van de veestapel van het bedrijf in afwachting van de verspreiding op het land om te voldoen aan de bepalingen van artikel 9, § 1 van het Mestdecreet van 22 december 2006;</p>
-
-			<p>• verbouwen en uitrusten van bestaande varkens- en pluimveestallen met het oog op de verbetering van het leefmilieu, de hygiëne en het welzijn van de dieren;</p>
-
-			<p>• herstellen van daken van hoeven met een cultuurhistorisch karakter, type vierkantshoeven of gelijkgesteld, ongeacht de bestemming van de bedrijfsruimten;</p>
-
-			<p>• bouwen, verbouwen en uitrusten van stallen voor herten, schapen, geiten, konijnen en eventueel het bijbehorende jongvee;</p>
-
-			<p>• bouwen, verbouwen en uitrusten van stallen voor paarden, met inbegrip van gebouwen voor het trainen van paarden en de aanleg van een buitenpiste (geen manèges). Paardenpension wordt aanvaard als vorm van diversificatie;</p>
-
-			<p>• bouwen, verbouwen en uitrusten van gebouwen voor een zeer specifieke dierlijke productie, zoals de kweek van slakken, insecten en larven (geen honden- en nertsenkwekerijen);</p>
-
-			<p>• sleufsilo met recuperatiesysteem voor silosappen;</p>
-
-			<p>• bouwen, verbouwen en uitrusten (bijvoorbeeld verwarming, energieschermen, beregening, substraatinstallaties, tabletten) van serres in glas of plastic op vaste voet;</p>
-
-			<p>• systemen voor het hergebruik van beregeningswater, opvang en hergebruik van hemelwater als beregeningswater;</p>
-
-			<p>• afbraak van serres in combinatie met een project voor het oprichten van nieuwe serres (op dezelfde locatie of elders), met uitsluiting van kosten voor bodemsanering;</p>
-
-			<p>• bouwen, verbouwen en uitrusten van kwekerijen van paddestoelen;</p>
-
-			<p>• bouwen, verbouwen en uitrusten van bedrijfsgebouwen voor de productie van witloof, met inbegrip van de hydrocultuurinstallatie;</p>
-
-			<p>• bouwen, verbouwen en uitrusten van gebouwen voor een zeer specifieke plantaardige productie (in-vitroculturen);</p>
-
-			<p>• installaties voor de robotisering van de productie;</p>
-
-			<p>• frigo’s;</p>
-
-			<p>• beregeningsinstallaties en installaties voor fertigatie (andere dan serre-uitrusting), maar niet op basis van grondwater;</p>
-
-			<p>• aanleg van terreinen voor container- en stellingenteelt, evenals de specifieke terreinuitrusting in de boom- en sierteelt (algemeen);</p>
-
-			<p>• loodsen voor de opslag en de bewaring van de productie, het marktklaar maken van de productie of voor het stallen van machines en materieel (geen huisvesting van dieren);</p>
-
-			<p>• erfverharding en andere infrastructuurwerken in onroerende staat (opvangbassins voor hemelwater, kavelwegen, reinigingsplaats met bezinkput voor voertuigen, andere bezinkputten, opslagplaats voor vaste mest op kopakker, verhardingen voor de beperking van grondtarra);</p>
-
-			<p>• nieuwe aanplantingen van kersen, krieken, pruimen, noten en druiven;</p>
-
-			<p>• installaties en materieel, gericht op de oogstprotectie in bestaande fruitplantages (hagelkanon, hagelnetten, beregening tegen lentenachtvorst);</p>
-
-			<p>• aankoop van bestaande bedrijfsgebouwen die minder dan 15 jaar oud zijn hierbij bepalend dat het subsidiabel bedrag in relatie staat met het VLIF-normbedrag bij nieuwbouw en de gangbare afschrijvingsduur voor dergelijke bedrijfsgebouwen;</p>
-
-			<p>• sanitaire opslagruimte voor kadavers met een koelinstallatie;</p>
-
-			<p>• systemen voor beperking, recyclage of rationeel beheer van afvalwater (ontsmettingsen ontziltingsinstallaties, opslagplaats voor verontreinigd water);</p>
-
-			<p>• systemen voor de beperking van het gebruik of van verliezen van pesticiden. Het betreft voornamelijk geavanceerde spuitmachines waarbij er een duidelijk aantoonbare vermindering is van de drift ten opzichte van de gangbare spuittoestellen;</p>
-
-			<p>• investeringen, gericht op de beperking van de verspreiding van ziektekiemen (installaties voor het steriliseren van substraten of afvalgrond, reinigingsplaats met bezinkput voor voertuigen voor het vervoer van dieren, sanitaire laad- of losplaatsen voor dieren, inclusief eventuele afsluiting, sanitair sas in stallen);</p>
-
-			<p>• machines voor directe inzaai ter voorkoming van erosie;</p>
-
-			<p>• de eerste aanplant van biologisch geteelde duurzame planten en de eerste aankoop van biologisch gekweekte ouderdieren op voorwaarde dat de biologische productiemethode toegepast wordt (bewijs voorleggen);</p>
-
-			<p>• andere gelijksoortige investeringen, in onroerend goed, gericht op de realisatie van een structuurverbetering.</p>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:41.2pt">
-			<p>20 %</p>
+			<td style="background-color:transparent">
+			<p>&nbsp;o andere gelijksoortige investeringen die specifiek zijn voor de biologische landbouw.</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:95.4pt">
-			<p>groep 4:</p>
-
-			<p>overige investeringen, gericht op de realisatie van een structuurverbetering</p>
+			<td rowspan="4" style="background-color:transparent">
+			<p>groep 2 : investeringen die gericht zijn op een landbouw met verbrede doelstellingen, duurzame landbouw of de reconversie van het landbouwbedrijf</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:324pt">
-			<p>• machines en materieel (goederen die roerend zijn van nature) die niet opgenomen zijn in de andere lijsten en met uitzondering van tweedehandsmaterieel;</p>
-
-			<p>• bouwen en uitrusten van nieuwe ammoniakemissiearme legkippenstallen met verrijkte kooien;</p>
-
-			<p>• verbouwen en uitrusten van een bestaande legkippenstal naar een stal met huisvesting in verrijkte kooien;</p>
-
-			<p>• heraanplanten van fruitplantages met gangbare fruitvariëteiten, beperkt tot de gerooide oppervlakte van appel, peer en perzik;</p>
-
-			<p>• de eerste aanplant (geen vervangingen) van duurzame planten zoals rozen- en moederplanten, hop- en aspergeplanten, houtachtig kleinfruit;</p>
-
-			<p>• plastic serres en tunnels, andere dan die welke vermeld worden in groep 3;</p>
-
-			<p>• andere gelijksoortige investeringen, in onroerend goed, gericht op de realisatie van een structuurverbetering.</p>
+			<td style="background-color:transparent">
+			<p>o installatie voor waterzuivering op bedrijfsniveau, met inbegrip van de installaties voor waterzuivering in het kader van hergebruik van overtollig regen- en beregeningswater;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; width:41.2pt">
-			<p>10 %</p>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>o uitrusting voor het reinigen van de rookgassen van stookinstallaties met cyclonen, doekenfilters of rookgaswassing;</p>
 			</td>
+			<td style="background-color:transparent">
+			<p>28 %</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>o installatie van een eerste energiescherm in een bestaande serre en in een nieuwbouwserre;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>o stalverluchtingssysteem met een filter ter bestrijding van de geur- en stofhinder (biofilter, biobed, stoffilters, luchtwassers);</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o installatie van een warmtebuffer en een rookgascondensor;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o installatie van een warmtepomp in combinatie met koude-warmteopslag als onderdeel van de inrichting van een gesloten kas;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o installatie van een energiebesparende kasomhulling (dubbel glas, gecoat glas, kunststof kanaalplaten);</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o nieuwe verwarmingsinstallaties of omschakeling van bestaande verwarmingsinstallaties naar gas of hernieuwbare brandstoffen, inclusief installaties voor warmtekrachtkoppeling;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o bouwen, verbouwen en uitrusten van bedrijfsgebouwen die gebruikt worden voor de aanmaak van zuivelproducten (met melk van het eigen bedrijf) en het bewaren van die producten, evenals de aankoop van materieel dat specifiek noodzakelijk is voor die activiteit;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o bouwen, verbouwen en uitrusten van bedrijfsgebouwen die gebruikt worden voor het versnijden, bereiden en verkoopsklaar maken van vlees (geproduceerd op het eigen bedrijf) en het bewaren van die producten, evenals de aankoop van materieel dat specifiek noodzakelijk is voor die activiteit;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o bouwen, verbouwen en uitrusten van bedrijfsgebouwen die gebruikt worden voor het artisanaal verwerken en verkoopsklaar maken van land- en tuinbouwproducten (andere producten dan melk en vlees, die geproduceerd zijn op het eigen bedrijf) en het bewaren van die producten, evenals de aankoop van materieel dat specifiek noodzakelijk is voor die activiteit;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o bouwen, verbouwen en uitrusten van bedrijfsgebouwen die bestemd zijn voor de rechtstreekse verkoop van de eigen productie (al dan niet in verwerkte vorm) aan de consument of in een buurtwinkel, met inbegrip van een opslag- of koelruimte die bestemd is voor de verkoopsklare voorraad van die producten, evenals de aankoop van materieel dat specifiek noodzakelijk is om die activiteit uit te oefenen;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o investeringen in vaste en verplaatsbare installaties zoals vogelnetten, imitatieroofvogels, care-eyeballonnen en afschrikwindmolentjes, gericht op het beperken van schade door vogels of ander wild met uitzondering van knalapparatuur;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o mechanische of thermische onkruidbestrijding of loofdoding (schoffelmachine, zwenkmaaier, rijenfrees, vingeregge, loofklapper, onkruid- of loofbrander, grondstoommachine);</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o machines en uitrusting die specifiek noodzakelijk zijn voor het beheer van kleine landschapselementen, perceelsranden en landschap (eventueel contracten voorleggen);</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o installaties voor compostering (omzetten van de composthoop);</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o investeringen, gericht op het educatief toegankelijk maken van de landbouwbedrijvigheid inzake de productie van producten voor een breder publiek;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o inrichting van verblijfsruimten voor zorgvragers in het kader van de zorgboerderijen;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o installaties en materieel die op bedrijfsniveau specifiek noodzakelijk zijn voor de bereiding van samengestelde voeders (andere dan ruwvoeders), hoofdzakelijk op basis van zelfgeteelde basisproducten en ter vervanging van krachtvoeders, of voor de bereiding van samengestelde voeders voor varkens op basis van CCM (Corn Cob Mix), hoofdzakelijk op basis van zelfgeteelde producten. De samengestelde voeders moeten een drogestofgehalte hebben van minstens 60%. Daarbij zijn ook graandrooginstallaties voor eigen granen inbegrepen op voorwaarde dat die werken volgens een proces waarbij de verbrandingsgassen niet door de granen gestuurd worden en waarbij er zodoende geen residu's voorkomen in het eindproduct;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o geautomatiseerde champignonplukmachines in geval van reconversie van de productiemethode om het hoofd te bieden aan de delokalisatie van de champignonproductie;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o aanplanten of heraanplanten van fruitplantages met nieuwe commercieel beloftevolle fruitvariëteiten op voorwaarde dat de geïntegreerde productiemethode toegepast wordt. Uitbreiding van het areaal wordt toegestaan;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o installaties en materieel die op bedrijfsniveau specifiek noodzakelijk zijn voor de productie van medicinale en aromatische planten;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o investeringen, gericht op de productie en het gebruik van hernieuwbare energiebronnen als vorm van diversificatie (land- en tuinbouwproductie blijft hoofdzaak), namelijk :</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o oliepers, bestemd voor de productie van PPO (pure plantaardige olie) en installaties voor het zuiveren van op het bedrijf geproduceerde PPO. De aankoop van een mobiele oliepers door een coöperatie van landbouwers is subsidiabel mits het een coöperatie betreft voor dienstverlening;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o aanpassing van een tractor of een andere landbouwmachine voor het gebruik van PPO;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o windmolens;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o installaties en materieel voor de productie van biogas en bijbehorende installaties voor de opwekking van elektriciteit op basis van een substantieel gedeelte grondstoffen van het bedrijf;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o installaties en materieel voor de energieproductie op basis van energieteelten en bijbehorende installaties voor de opwekking van elektriciteit op basis van een substantieel gedeelte grondstoffen van het bedrijf;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o installaties en materieel die op bedrijfsniveau specifiek noodzakelijk zijn voor de productie van andere hernieuwbare brandstoffen (bijvoorbeeld houtachtige energieteelten) en bijbehorende installaties voor de opwekking van elektriciteit.</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o andere gelijksoortige investeringen gericht op de realisatie van een landbouw met verbrede doelstellingen, duurzame landbouw of de reconversie van het landbouwbedrijf.</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="background-color:transparent">
+			<p>groep 3 : investeringen in onroerend goed, gericht op een structuurverbetering</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>o bouwen, verbouwen en uitrusten van melkveestallen, inclusief melkinstallatie, en van jongveestallen voor jongvee van dat melkvee;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>18 %</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>o bouwen, verbouwen en uitrusten van vleesveestallen en van jongveestallen voor jongvee van dat vleesvee;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>o bouwen van een nieuwe ammoniakemissiearme stal, die voorkomt op de lijst van ammoniakemissiearme stallen van het Vlarem, op voorwaarde dat in zeugenstallen groepshuisvesting wordt toegepast en dat in legkippenstallen volièrehuisvesting of grondhuisvesting wordt toegepast;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o uitrusten van nieuwe ammoniakemissiearme legkippenstallen met volièrehuisvesting of grondhuisvesting;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o bouwen, verbouwen en uitrusten van vleeskalverstallen;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o bouwen van bijkomende mestopslagcapaciteit op het veebedrijf van mest van de veestapel van het bedrijf in afwachting van de verspreiding op het land om te voldoen aan de bepalingen van artikel 9, § 1 van het Mestdecreet van 22 december 2006;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o verbouwen en uitrusten van bestaande varkens- en pluimveestallen met het oog op de verbetering van het leefmilieu, de hygiëne en het welzijn van de dieren;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o herstellen van daken van hoeven met een cultuurhistorisch karakter, type vierkantshoeven of gelijkgesteld, ongeacht de bestemming van de bedrijfsruimten;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o bouwen, verbouwen en uitrusten van stallen voor herten, schapen, geiten, konijnen en eventueel het bijbehorende jongvee;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o bouwen, verbouwen en uitrusten van stallen voor paarden, met inbegrip van gebouwen voor het trainen van paarden en de aanleg van een buitenpiste (geen manèges). Paardenpension wordt aanvaard als vorm van diversificatie;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o bouwen, verbouwen en uitrusten van gebouwen voor een zeer specifieke dierlijke productie, zoals de kweek van slakken, insecten en larven (geen honden- en nertsenkwekerijen);</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o sleufsilo met recuperatiesysteem voor silosappen;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o bouwen, verbouwen en uitrusten (bijvoorbeeld verwarming, energieschermen, beregening, substraatinstallaties, tabletten) van serres in glas of plastic op vaste voet;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o systemen voor het hergebruik van beregeningswater, opvang en hergebruik van hemelwater als beregeningswater;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o afbraak van serres in combinatie met een project voor het oprichten van nieuwe serres (op dezelfde locatie of elders), met uitsluiting van kosten voor bodemsanering;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o bouwen, verbouwen en uitrusten van kwekerijen van paddestoelen;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o bouwen, verbouwen en uitrusten van bedrijfsgebouwen voor de productie van witloof, met inbegrip van de hydrocultuurinstallatie;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o bouwen, verbouwen en uitrusten van gebouwen voor een zeer specifieke plantaardige productie (in-vitroculturen);</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o installaties voor de robotisering van de productie;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o frigo's;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o beregeningsinstallaties en installaties voor fertigatie (andere dan serre-uitrusting), maar niet op basis van grondwater;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o aanleg van terreinen voor container- en stellingenteelt, evenals de specifieke terreinuitrusting in de boom- en sierteelt (algemeen);</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o loodsen voor de opslag en de bewaring van de productie, het marktklaar maken van de productie of voor het stallen van machines en materieel (geen huisvesting van dieren);</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o erfverharding en andere infrastructuurwerken in onroerende staat (opvangbassins voor hemelwater, kavelwegen, reinigingsplaats met bezinkput voor voertuigen, andere bezinkputten, opslagplaats voor vaste mest op kopakker, verhardingen voor de beperking van grondtarra);</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o nieuwe aanplantingen van kersen, krieken, pruimen, noten en druiven;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o installaties en materieel, gericht op de oogstprotectie in bestaande fruitplantages (hagelkanon, hagelnetten, beregening tegen lentenachtvorst);</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o aankoop van bestaande bedrijfsgebouwen die minder dan 15 jaar oud zijn hierbij bepalend dat het subsidiabel bedrag in relatie staat met het VLIF-normbedrag bij nieuwbouw en de gangbare afschrijvingsduur voor dergelijke bedrijfsgebouwen;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o sanitaire opslagruimte voor kadavers met een koelinstallatie;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o systemen voor beperking, recyclage of rationeel beheer van afvalwater (ontsmettings- en ontziltingsinstallaties, opslagplaats voor verontreinigd water);</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o systemen voor de beperking van het gebruik of van verliezen van pesticiden. Het betreft voornamelijk geavanceerde spuitmachines waarbij er een duidelijk aantoonbare vermindering is van de drift ten opzichte van de gangbare spuittoestellen;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o investeringen, gericht op de beperking van de verspreiding van ziektekiemen (installaties voor het steriliseren van substraten of afvalgrond, reinigingsplaats met bezinkput voor voertuigen voor het vervoer van dieren, sanitaire laad- of losplaatsen voor dieren, inclusief eventuele afsluiting, sanitair sas in stallen);</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o machines voor directe inzaai ter voorkoming van erosie;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o de eerste aanplant van biologisch geteelde duurzame planten en de eerste aankoop van biologisch gekweekte ouderdieren op voorwaarde dat de biologische productiemethode toegepast wordt (bewijs voorleggen);</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o andere gelijksoortige investeringen, in onroerend goed, gericht op de realisatie van een structuurverbetering.</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="background-color:transparent">
+			<p>groep 4 : overige investeringen, gericht op een structuurverbetering</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>o machines en materieel (goederen die roerend zijn van nature), niet opgenomen in de andere lijsten en met uitzondering van tweedehandsmaterieel;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>8 %</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>o bouwen en uitrusten van nieuwe ammoniakemissiearme legkippenstallen met verrijkte kooien;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o verbouwen en uitrusten van een bestaande legkippenstal tot een stal met huisvesting in verrijkte kooien;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o zonneboilers en fotovoltaïsche zonnecellen;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o heraanplanten van fruitplantages met gangbare fruitvariëteiten, beperkt tot de gerooide oppervlakte van appel, peer en perzik;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o de eerste aanplant (geen vervangingen) van duurzame planten zoals rozen- en moederplanten, hop- en aspergeplanten, houtachtig kleinfruit;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o andere plastic serres en tunnels dan die welke vermeld worden in groep 3;</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent">
+			<p>&nbsp;o andere gelijksoortige investeringen in onroerend goed gericht op een structuurverbetering.</p>
+			</td>
+			<td style="background-color:transparent">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
