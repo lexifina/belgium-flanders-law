@@ -16,9 +16,26 @@ Artikel 4 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Reger
 
 Artikel 5 van hetzelfde besluit wordt vervangen door wat volgt :<br />« Art. 5. In het bedrijfsplan, vermeld in artikel 4, worden de aard van de bedrijfsactiviteiten, de onvolkomenheden in de bedrijfsstructuur, de voorgenomen investeringen, de nagestreefde doelstellingen bij de uitvoering van het plan en een aantal kengetallen over de bedrijfsomvang weergegeven. Bij een bedrijfsplan waarin voorzien is in investeringen die gericht zijn op de verbetering van het leefmilieu, de hygiëne en het dierenwelzijn, wordt het effect van de verbetering gekwantificeerd.<br /><br />De Vlaamse minister, bevoegd voor het landbouwbeleid, stelt de wijze vast waarop aangetoond wordt dat het brutobedrijfsresultaat per bedrijfsleider groter is dan het minimaal vereiste brutobedrijfsresultaat per bedrijfsleider.<br /><br />De Vlaamse minister, bevoegd voor het landbouwbeleid, bepaalt elk jaar het minimaal vereiste brutobedrijfsresultaat per bedrijfsleider. »<br /><br />
 
+### ART. 4.
+
+In artikel 6, § 2, van hetzelfde besluit vervangen bij het besluit van de Vlaamse Regering van 17 oktober 2008, worden de volgende wijzigingen aangebracht :<br>
+1° in punt 1° wordt het cijfer « 40 » vervangen door het cijfer « 38 »;<br>
+2° in punt 2° wordt het cijfer « 30 » vervangen door het cijfer « 28 »;<br>
+3° in punt 3° wordt het cijfer « 20 » vervangen door het cijfer « 18 »;<br>
+4° in punt 4° wordt het cijfer « 10 » vervangen door het cijfer « 8 ».<br>
+&nbsp;
+
 ### ART. 5.
 
 In artikel 7, § 1, van hetzelfde besluit gewijzigd bij het besluit van de Vlaamse Regering van 17 oktober 2008, wordt het tweede lid vervangen door wat volgt :<br />« Investeringen die betrekking hebben op het bouwen, verbouwen en uitrusten van bedrijfsgebouwen, in het bijzonder voor de huisvesting van dieren, mogen niet meebrengen dat op het bedrijf een productiecapaciteit ontstaat die groter is dan de toegestane capaciteit, vermeld in de milieuvergunning, of die groter is dan de capaciteit, verkregen op basis van de nutriëntenemissierechten van het bedrijf. Bovendien wordt voor het deel van de investering waarvoor de noodzakelijke productierechten niet zijn toegekend, geen steun verleend. »<br /><br />
+
+### ART. 6.
+
+Artikel 8 van hetzelfde besluit vervangen bij het besluit van de Vlaamse Regering van 16 juni 2006, wordt vervangen door wat volgt :<br>
+« De totale omvang van de subsidiabele investeringen bedraagt voor een voortschrijdende periode van zeven jaar maximaal 1.000.000 euro per natuurlijke persoon, landbouwer, of per beherende vennoot, zaakvoerder of bestuurder van een rechtspersoon, landbouwer, of per bestuurder-landbouwer van de sociale instelling of de consumentencoöperatie, behalve voor de overheidswaarborg waarvoor, ongeacht het aantal bedrijfsleiders, 2.000.000 euro subsidiabele investeringen aanvaard kunnen worden.<br>
+<br>
+De rentetoelage bedraagt maximaal 4 % voor de investeringen, vermeld in artikel 6, § 2, 1° en 2°, en 3 % voor de investeringen, vermeld in artikel 6, § 2, 3°. Voor de investeringen, vermeld in artikel 6, § 2, 4° wordt geen rentetoelage verleend. »<br>
+&nbsp;
 
 ### ART. 7.
 
@@ -59,6 +76,11 @@ In artikel 28 van hetzelfde besluit worden het tweede tot en met het vierde lid 
 ### ART. 16.
 
 In artikel 31 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 17 oktober 2008, worden de woorden « het eerste luik van » opgeheven.<br /><br />
+
+### ART. 17.
+
+De bijlage bij hetzelfde besluit wordt vervangen door de bijlage die bij dit besluit is gevoegd.<br>
+&nbsp;
 
 ### ART. 18.
 
