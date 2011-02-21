@@ -2,16 +2,16 @@
   "codex_id": 1015245,
   "title": "Besluit van de Vlaamse Regering van 2006-09-22 tot oprichting van de selectiecommissie in het kader van de inhaalbeweging voor schoolinfrastructuur",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015245/VolledigDocument?datum=2006-09-25",
-  "source_sha256": "660adbc8b6b66885f509a4c32b1bbc6ee923b48c610451a5b12d3f5079c73418",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015245/VolledigDocument?datum=2011-02-21",
+  "source_sha256": "d75fa827400673b874ad3d737de789ff073422a42cfe24673c227cbc81fdbc26",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015245&param=informatie",
-  "as_of": "2006-09-25",
+  "as_of": "2011-02-21",
   "made": "2006-09-22",
   "gazette": "2006-12-05",
   "numac": 2006036778,
   "document_start": "2006-09-25",
   "document_end": null,
-  "in_force": "2006-09-25",
+  "in_force": "2011-02-21",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-09-25; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-02-21; future article versions excluded; article text as the API gives it"
 }
