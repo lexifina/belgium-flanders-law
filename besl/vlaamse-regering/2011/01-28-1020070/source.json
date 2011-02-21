@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020070,
+  "title": "Besluit van de Vlaamse Regering van 2011-01-28 tot wijziging van het besluit van de Vlaamse Regering van 22 september 2006 tot oprichting van de Selectiecommissie in het kader van de inhaalbeweging voor schoolinfrastructuur Vlaanderen, wat betreft de vervanging van een aantal leden van de Selectiecommissie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020070/VolledigDocument?datum=2011-02-21",
+  "source_sha256": "1210fe54ed9a7b94d52fb9949d756a2362525a99129c6b9501c2b178b5ee16b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020070&param=informatie",
+  "as_of": "2011-02-21",
+  "made": "2011-01-28",
+  "gazette": "2011-03-01",
+  "numac": 2011035185,
+  "document_start": "2011-02-21",
+  "document_end": null,
+  "in_force": "2011-02-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-02-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
