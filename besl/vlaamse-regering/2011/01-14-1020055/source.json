@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020055,
+  "title": "Besluit van de Vlaamse Regering van 2011-01-14 houdende de wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne en van bijlage 1 van het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020055/VolledigDocument?datum=2011-02-24",
+  "source_sha256": "43c16a3e54c689b1fdd076d219837ab4cbee570ced3c71de109ef25574618905",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020055&param=informatie",
+  "as_of": "2011-02-24",
+  "made": "2011-01-14",
+  "gazette": "2011-02-23",
+  "numac": 2011035179,
+  "document_start": "2011-02-24",
+  "document_end": null,
+  "in_force": "2011-02-24",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2011-02-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
