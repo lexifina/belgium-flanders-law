@@ -46832,7 +46832,7 @@ De Vlaamse minister is gelast met de uitvoering van dit besluit.
 			<p>59.14</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>Vervaardiging van coatingpreparaten, lak, inkt en kleefstoffen</p>
+			<p>Vervaardiging van coatingmengsels, lak, inkt en kleefstoffen</p>
 
 			<p>de vervaardiging van bovengenoemde eindproducten en, wanneer dit in dezelfde installatie gebeurt, van halffabrikaten door het mengen van pigmenten, hars en kleefstoffen met organische oplosmiddelen of andere draagstoffen, waaronder dispergeren en predispergeren, aanpassen van de viscositeit en de kleur en bewerkingen om de verpakking te vullen met het eindproduct</p>
 			</td>
