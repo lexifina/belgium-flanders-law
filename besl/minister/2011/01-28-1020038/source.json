@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020038,
+  "title": "Ministerieel besluit van 2011-01-28 tot hoogdringende onteigening ten algemenen nutte van onroerende goederen bestemd voor de uitvoering van twee gecontroleerde overstromingsgebieden in het stroomgebied van de Molenbeek nr. 5.160 te Geraardsbergen en Lierde door de Vlaamse Milieumaatschappij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020038/VolledigDocument?datum=2011-02-25",
+  "source_sha256": "523b51b21c481ba10ea6b590933022d110a5c3cad19d12941fc8ffdb7f4c3d24",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020038&param=informatie",
+  "as_of": "2011-02-25",
+  "made": "2011-01-28",
+  "gazette": "2011-02-15",
+  "numac": 2011035151,
+  "document_start": "2011-02-25",
+  "document_end": null,
+  "in_force": "2011-02-25",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2011-02-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
