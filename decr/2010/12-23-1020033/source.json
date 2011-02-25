@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020033,
+  "title": "Decreet van 2010-12-23 houdende instemming met de amendementsoorkonden bij de stichtingsakte en de overeenkomst van de Internationale Telecommunicatie Unie (Genève, 1992), zoals gewijzigd door de Conferentie van gevolmachtigden in 1994 en 1998, aangenomen in Marrakech op 18 oktober 2002",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020033/VolledigDocument?datum=2011-02-25",
+  "source_sha256": "1130f26b59c052aa811c9512d70e137e0ec06f5d1d6b1a3d75738cfec7df0a42",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020033&param=informatie",
+  "as_of": "2011-02-25",
+  "made": "2010-12-23",
+  "gazette": "2011-02-15",
+  "numac": 2011200662,
+  "document_start": "2011-02-25",
+  "document_end": null,
+  "in_force": "2011-02-25",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-02-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
