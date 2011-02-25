@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020034,
+  "title": "Decreet van 2010-12-23 houdende instemming met de amendementsoorkonden bij de stichtingsakte en de overeenkomst van de Internationale Telecommunicatie Unie, zoals gewijzigd door de Conferentie van gevolmachtigden in 1994, 1998 en 2002, aangenomen in Antalya op 24 november 2006",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020034/VolledigDocument?datum=2011-02-25",
+  "source_sha256": "a3aafce08ff5a2660b6c4812446c138158d701f96c578ed10b42de0ddee9c210",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020034&param=informatie",
+  "as_of": "2011-02-25",
+  "made": "2010-12-23",
+  "gazette": "2011-02-15",
+  "numac": 2011200663,
+  "document_start": "2011-02-25",
+  "document_end": null,
+  "in_force": "2011-02-25",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-02-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
