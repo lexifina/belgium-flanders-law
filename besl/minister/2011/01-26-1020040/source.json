@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020040,
+  "title": "Ministerieel besluit van 2011-01-26 houdende de aanwijzing van de instelling bevoegd voor beoordeling van technische dossiers bij de aanvraag van een conformiteitsattest voor een vast opgestelde zendantenne",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020040/VolledigDocument?datum=2011-02-26",
+  "source_sha256": "9f50868cb18b03a6b7f006ee8a8ed94a919104b0c9e93a863add457303d827ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020040&param=informatie",
+  "as_of": "2011-02-26",
+  "made": "2011-01-26",
+  "gazette": "2011-02-16",
+  "numac": 2011035152,
+  "document_start": "2011-02-26",
+  "document_end": "2014-04-18",
+  "in_force": "2011-02-26",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-02-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
