@@ -72,13 +72,13 @@ De Vlaamse Grondenbank voert de taken zoals beschreven in artikel 5, § 1, 2°, 
 
 ### ART. 13.
 
-De Vlaamse Grondenbank kan, overeenkomstig artikel 10, verwerven via een onderhandse of openbare verkoop, het uitoefenen van een recht van voorkoop of van een recht van voorkeur, het vervullen van een koopplicht, een ruil, een afstand van onverdeelde rechten, een schenking of een legaat.<br /><br />
+De Vlaamse Grondenbank kan, overeenkomstig artikel 10, verwerven via een onderhandse of openbare verkoop, het uitoefenen van een recht van voorkoop of van een recht van voorkeur, onteigening, het vervullen van een koopplicht, een ruil, een afstand van onverdeelde rechten, een schenking of een legaat.
 
 ## HOOFDSTUK III BEHEREN
 
 ### ART. 14.
 
-§ 1. De Vlaamse Grondenbank beheert de in eigen naam en voor eigen rekening verworven zakelijke rechten vanaf de verwerving als bedoeld in artikel 13 en tot de overdracht als bedoeld in artikel 15.<br /><br />In afwachting dat onroerende goederen welke vrij van gebruik zijn worden overgedragen, kunnen deze, in voorkomend geval mits akkoord van de verzoekende bevoegde administratieve overheid van het Vlaamse Gewest, verpacht worden bij een overeenkomst die van rechtswege verstrijkt na 1 jaar doch kan hernieuwd worden. Deze verpachtingen zijn niet onderworpen aan de bepalingen van afdeling 3 van boek III, titel VIII, van het Burgerlijk Wetboek betreffende de pacht.<br /><br />§ 2. In voorkomend geval dat het onroerend goed vrij van gebruik wordt gemaakt, heeft de laatst gekende gebruiker van het onroerend goed een voorkeurrecht voor het afsluiten van een nieuwe gebruiksovereenkomst dewelke is opgesteld overeenkomstig de door de bevoegde administratieve overheid gestelde voorwaarden.<br /><br />
+§ 1. De Vlaamse Grondenbank beheert de in eigen naam en voor eigen rekening verworven zakelijke rechten vanaf de verwerving, vermeld in artikel 13, tot de overdracht, vermeld in artikel 15. Op verzoek van een administratieve overheid van het Vlaamse Gewest, kan de Vlaamse Grondenbank ook de onroerende goederen beheren waarop de administratieve overheid zakelijke rechten heeft.<br /><br />In het kader van het beheer, vermeld in het eerste lid, en in afwachting dat de goederen worden overgedragen, kunnen de onroerende goederen die vrij van gebruik zijn, in voorkomend geval na akkoord van de verzoekende bevoegde administratieve overheid van het Vlaamse Gewest, verpacht worden bij een overeenkomst die van rechtswege verstrijkt na één jaar maar die hernieuwd kan worden. Die verpachtingen zijn niet onderworpen aan de bepalingen van afdeling 3 van boek III, titel VIII, van het Burgerlijk Wetboek betreffende de pacht. <br /><br />§ 2. In voorkomend geval dat het onroerend goed vrij van gebruik wordt gemaakt, heeft de laatst gekende gebruiker van het onroerend goed een voorkeurrecht voor het afsluiten van een nieuwe gebruiksovereenkomst dewelke is opgesteld overeenkomstig de door de bevoegde administratieve overheid gestelde voorwaarden.<br /><br />
 
 ## HOOFDSTUK IV OVERDRAGEN
 
