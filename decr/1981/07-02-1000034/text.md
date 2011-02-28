@@ -84,7 +84,7 @@ De Vlaamse regering kan de bovenvermelde bijzondere afvalstoffen nader omschrijv
 
 ### ART. 4.
 
-Zijn geen afvalstoffen als bedoeld in dit decreet:<br /><br />1° gasvormige effluenten die in de atmosfeer worden uitgestoten;<br /><br />2° dierlijk mest, als bedoeld in het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen verontreiniging door meststoffen;<br /><br />3° afvalwater, met uitzondering van afvalstoffen in vloeibare toestand; <br /><br />4° bodem, uitgegraven buiten ontginningsgebieden, die overeenkomstig de voorwaarden bepaald in of krachtens het decreet van 22 februari 1995 betreffende de bodemsanering wordt gebruikt. <br />
+Zijn geen afvalstoffen als bedoeld in dit decreet:<br />1° gasvormige effluenten die in de atmosfeer worden uitgestoten;<br />2° dierlijke mest als vermeld in het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen; <br />3° afvalwater, met uitzondering van afvalstoffen in vloeibare toestand; <br />4° bodem, uitgegraven buiten ontginningsgebieden, die overeenkomstig de voorwaarden bepaald in of krachtens het decreet van 22 februari 1995 betreffende de bodemsanering wordt gebruikt. <br />
 
 ## HOOFDSTUK II [DOELSTELLINGEN VAN HET AFVALSTOFFENBELEID (verv. decr. 20 april 1994, art. 4)]
 
@@ -448,15 +448,15 @@ Het is verboden afvalstoffen in of uit te voeren in strijd met de bepalingen van
 
 ### ART. 38.
 
-[... (opgeh. decr. 7 mei 2004, art. 13, I: 1 april 2006) ]
+De havenbeheerder zorgt ervoor dat de kosten voor het gebruik van de havenontvangstvoorzieningen die verbonden zijn aan de afgifte van scheepsafval van de zeevaart, met inbegrip van de behandeling en verwijdering van het scheepsafval, worden betaald met bijdragen van de schepen via een kostendekkingssysteem dat niet mag aanzetten tot het lozen van afval in zee.<br /><br />De Vlaamse Regering kan nadere regels vaststellen waaraan het kostendekkings-systeem moet voldoen.
 
 ### ART. 39.
 
-[... (opgeh. decr. 7 mei 2004, art. 13, I: 1 april 2006) ]
+Voor de financiering van de inzameling en verwerking van olie- en vethoudend scheepsbedrijfsafval dat ontstaat bij het in bedrijf zijn en onderhoud van binnenschepen, is overeenkomstig de bepalingen van het verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart, ondertekend in Straatsburg op 9 september 1996 en goedgekeurd bij instemmingsdecreet van 9 mei 2008, een milieubijdrage verschuldigd in verhouding tot de aankoop van gasolie voor de binnenvaart. Daaronder valt uitsluitend brandstof die van douanerechten en andere belastingen is vrijgesteld en bedoeld is voor schepen, met uitzondering van de schepen die toegelaten zijn voor zee- en kustvaart en overwegend daartoe zijn bestemd. De milieubijdrage is verschuldigd door degene onder wiens leiding het schip staat dat de gasolie voor binnenvaart betrekt.<br /><br />De Vlaamse Regering kan nadere regels vaststellen die nodig zijn voor de werking van het financieringssysteem.
 
 ### ART. 40.
 
-[... (opgeh. decr. 7 mei 2004, art. 13, I: 1 april 2006) ]
+De havenbeheerders die schepen ontvangen uit de binnenvaart, en de waterwegbeheerders werken, overeenkomstig de bepalingen van het verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart, ondertekend in Straatsburg op 9 september 1996 en goedgekeurd bij instemmingsdecreet van 9 mei 2008, een financieringssysteem uit voor de inname en verwijdering van het overige scheepsbedrijfsafval. Die bijdrage kan opgenomen zijn in de haven- of liggelden of afzonderlijk in rekening worden gebracht.<br /><br />De Vlaamse Regering kan nadere regels vaststellen waaraan het financieringssysteem moet voldoen.
 
 ### ART. 41.
 
