@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020065,
+  "title": "Ministerieel besluit van 2011-01-12 tot machtiging van het ruilverkavelingscomité Sint-Lievens-Houtem tot het uitvoeren van buitengewone werken aan onbevaarbare waterlopen in het ruilverkavelingsblok",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020065/VolledigDocument?datum=2011-02-28",
+  "source_sha256": "a3284e98113e1d8c58b5b1c1ad755eb03c8c5c8ed7f823cb9939c5b0dc278ee0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020065&param=informatie",
+  "as_of": "2011-02-28",
+  "made": "2011-01-12",
+  "gazette": "2011-02-28",
+  "numac": 2011200829,
+  "document_start": "2011-02-28",
+  "document_end": null,
+  "in_force": "2011-02-28",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-02-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
