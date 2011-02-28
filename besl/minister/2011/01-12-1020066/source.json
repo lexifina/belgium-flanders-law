@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020066,
+  "title": "Ministerieel besluit van 2011-01-12 tot opschorting van sommige bepalingen van de wet van 28 december 1967 betreffende de onbevaarbare waterlopen in het ruilverkavelingsblok Sint-Lievens-Houtem",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020066/VolledigDocument?datum=2011-02-28",
+  "source_sha256": "5521b97f449764183d443fc8e754aaf9c816973c8e4c8ce9bd8c8a18396881ef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020066&param=informatie",
+  "as_of": "2011-02-28",
+  "made": "2011-01-12",
+  "gazette": "2011-02-28",
+  "numac": 2011200828,
+  "document_start": "2011-02-28",
+  "document_end": null,
+  "in_force": "2011-02-28",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-02-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
