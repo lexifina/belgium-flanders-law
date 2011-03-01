@@ -10,7 +10,7 @@ Dit besluit is van toepassing op alle in artikel 1 bedoelde voorzieningen die va
 
 ### ART. 3.
 
-Het aantal bedden en plaatsen in voorzieningen, die bestemd zijn voor de opname van personen met een handicap vermeld in artikel 3, § 1, van het koninklijk besluit nr. 81 van 10 november 1967 tot instelling van een Fonds voor medische, sociale en pedagogische zorg voor gehandicapten, wordt vanaf 2003 bepaald op 24.640.
+Het aantal bedden en plaatsen in voorzieningen, die bestemd zijn voor de opname van personen met een handicap vermeld in artikel 3, § 1, van het koninklijk besluit nr. 81 van 10 november 1967 tot instelling van een Fonds voor medische, sociale en pedagogische zorg voor gehandicapten, wordt vanaf 2003 bepaald op 24.719.
 
 ### ART. 4.
 
