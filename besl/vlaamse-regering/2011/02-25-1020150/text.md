@@ -20,6 +20,14 @@ In artikel 7, tweede lid, 1°, artikel 12, tweede lid, 1°, en artikel 18, eerst
 
 In artikel 17 van hetzelfde besluit worden tussen de woorden « De thuiszorgvoorziening » en de woorden « of de vereniging » de woorden «, met uitzondering van de dienst voor thuisverpleging, » ingevoegd.<br /><br />
 
+### ART. 6.
+
+In artikel 4, B, 2°, a), van bijlage I bij hetzelfde besluit wordt punt 2) vervangen door wat volgt:<br />« 2) een attest waaruit blijkt dat de persoon geslaagd is in het eerste leerjaar van de vierde graad van het beroepssecundair onderwijs of van het hoger beroepsonderwijs (hbo5) van de opleiding verpleegkunde; <br />
+
+### ART. 7.
+
+Aan artikel 4, B, 2°, van bijlage I bij hetzelfde besluit wordt een punt g) toegevoegd, dat luidt als volgt:<br />« g) een attest waaruit blijkt dat de persoon door de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu geregistreerd is als zorgkundige op basis van de overgangsmaatregelen, vermeld in artikel 3, § 1 of § 2, of artikel 4 van het koninklijk besluit van 12 januari 2006 tot vaststelling van de nadere regels om geregistreerd te worden als zorgkundige; <br />
+
 ### ART. 8.
 
 In artikel 4, C, 14°, van bijlage I bij hetzelfde besluit wordt het woord « kwaliteitsjaarverslag » vervangen door de woorden « jaarverslag, vermeld in artikel 7, §2, van dit besluit ».<br /><br />
