@@ -22,7 +22,7 @@ Om in toepassing van artikel 54 van het decreet de onderwijsinspectie toe te lat
 
 ### ART. 6.
 
-Op basis van artikel 56 van het decreet worden volgende scholen aangeduid om als examencommissie op te treden voor leerplichtigen die lager onderwijs volgen via huisonderwijs of in een niet-erkende school en voor iedereen die tenminste 9 jaar is - behoudens, in uitzonderlijke omstandigheden, afwijking verleend wordt door de Vlaamse minister bevoegd voor het onderwijs, hierna deelnemer genoemd,:<br />- gemeentelijke basisschool, Willem van Haechtlaan 66, te 2050 Antwerpen;<br />- gesubsidieerde vrije basisschool, Kasteelpleinstraat 31 te 2000 Antwerpen; <br />- basisschool van het gemeenschapsonderwijs, Hoogveldweg 5, te 3012 Wilsele; <br />- gesubsidieerde vrije basisschool, Halleweg 220, te 1500 Halle;<br />- gesubsidieerde basisschool van het gemeenschapsonderwijs, Sacramentstraat 70, te 3700 Tongeren;<br />- gesubsidieerde vrije basisschool, Godfried Bomansstraat 17, te 3920 Lommel;<br />- stedelijke lagere school, Neermeerskaai 2, te 9000 Gent;<br />- gesubsidieerde vrije basisschool, Sas 38, te 9200 Dendermonder;<br />- gemeentelijke basisschool, Dorpsstraat 4, te 8670 Oostduinkerke;<br />- gesubsidieerde vrije basisschool, Fortuinstraat 29, te 8310 Brugge.
+Op basis van artikel 56 van het decreet worden volgende scholen aangeduid om als examencommissie op te treden voor leerplichtigen die lager onderwijs volgen via huisonderwijs of in een niet-erkende school en voor iedereen die tenminste 9 jaar is - behoudens, in uitzonderlijke omstandigheden, afwijking verleend wordt door de Vlaamse minister bevoegd voor het onderwijs, hierna deelnemer genoemd,:<br />- gemeentelijke basisschool, Onderwijsstraat 19, te 2540 Hove;<br />- gesubsidieerde vrije basisschool, Kasteelpleinstraat 31 te 2000 Antwerpen; <br />- basisschool van het gemeenschapsonderwijs, Hoogveldweg 5, te 3012 Wilsele; <br />- gesubsidieerde vrije basisschool, Halleweg 220, te 1500 Halle;<br />- gesubsidieerde basisschool van het gemeenschapsonderwijs, Sacramentstraat 70, te 3700 Tongeren;<br />- gesubsidieerde vrije lagere school, Kloosterstraat 6, 3930 Hamont-Achel;<br />- stedelijke lagere school, Neermeerskaai 2, te 9000 Gent;<br />- gesubsidieerde vrije basisschool, Sas 38, te 9200 Dendermonder;<br />- gemeentelijke basisschool, Dorpsstraat 4, te 8670 Oostduinkerke;<br />- gesubsidieerde vrije basisschool, Fortuinstraat 29, te 8310 Brugge.
 
 ### ART. 7.
 
@@ -30,7 +30,7 @@ De in artikel 6 bedoelde scholen engageren zich om via examens na te gaan of de 
 
 ### ART. 8.
 
-Het departement laat elk schooljaar vóór 15 mei een mededeling van het examen verschijnen, met de vermelding van de twee schooladressen per provincie, in het Belgisch Staatsblad en in tenminste twee kranten.
+Het Agentschap voor Kwaliteitszorg in Onderwijs en Vorming laat elk schooljaar vóór 15 mei een mededeling van het examen verschijnen, met de vermelding van de twee schooladressen per provincie, in het Belgisch Staatsblad en in tenminste twee kranten.
 
 ### ART. 9.
 
@@ -38,7 +38,7 @@ De deelnemer zelf of in voorkomend geval de ouder, deelt uiterlijk op 1 juni bij
 
 ### ART. 10.
 
-De inspecteur-coördinator van de provincie of zijn afgevaardigde houdt toezicht op het verloop en de correctheid van het examen en stelt daarover een rapport op dat vóór eind juni van het lopende schooljaar aan de inspecteur-generaal wordt gezonden.
+De onderwijsinspectie houdt toezicht op het verloop en de correctheid van het examen en stelt daarover een rapport op vóór eind juni van het lopende schooljaar.
 
 ### ART. 11.
 
@@ -46,7 +46,7 @@ Het getuigschrift basisonderwijs dat aan de deelnemer wordt uitgereikt, wordt [.
 
 ### ART. 12.
 
-De schoolbesturen van de in artikel 6 bedoelde scholen ontvangen jaarlijks vanwege het departement een vergoeding van [ €125,00 (verv. B.V.R. 18 juli 2003, art. 2, I: 1 april 2003) ] in het jaar dat zij fungeren als examencommissie.
+De schoolbesturen van de in artikel 6 bedoelde scholen ontvangen jaarlijks vanwege het Agentschap voor Kwaliteitszorg in Onderwijs en Vorming een vergoeding van € 125,00 in het jaar dat zij fungeren als examencommissie.
 
 ### ART. 13.
 
