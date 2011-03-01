@@ -12,7 +12,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° A.D.L.-a
 
 ### ART. 3.
 
-Voor de Vlaamse Gemeenschap wordt het aantal plaatsen zelfstandig wonen vanaf het jaar 2003 vastgesteld op 384 waarvan maximaal 30 plaatsen in diensten zoals omschreven in artikel 6, § 2.
+Voor de Vlaamse Gemeenschap wordt het aantal plaatsen zelfstandig wonen vanaf het jaar 2003 vastgesteld op 396 waarvan maximaal 30 plaatsen in diensten zoals omschreven in artikel 6, § 2.
 
 ## HOOFDSTUK II VOORAFGAANDE VERGUNNING EN ERKENNING
 
