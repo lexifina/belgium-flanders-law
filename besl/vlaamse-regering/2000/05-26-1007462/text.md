@@ -284,67 +284,67 @@ Het afdelingshoofd en de ambtenaren van de dienst heffingen van de afdeling Mest
 
 ### ART. 60.
 
-Voor de toepassing van dit hoofdstuk, wordt verstaan onder:<br />1° het referentielaboratorium: de laboratoria van de afdeling Leefmilieu van de Vlaamse Instelling voor Technologisch Onderzoek, (VITO);<br />2° analyse: staalnames in situ en/of ontledingen in het laboratorium;<br />3° erkenning: erkenning of proeferkenning voor het uitvoeren van analyses (in opdracht van de overheid of voor analyses in opdracht van andere opdrachtgevers) afgegeven ter uitvoering van dit besluit;<br />4° laboratorium: elk laboratorium dat zijn aanvraag voor erkenning indient bij de minister;<br />5° minister: de Vlaamse minister bevoegd voor Leefmilieu;<br />6° VLM: De Vlaamse Landmaatschappij;<br />7° het BAM : het Methodenboek met bemonsterings- en analysemethodes voor meststoffen, bodem en diervoeders in het kader van het Mestdecreet, vermeld in artikel 62, § 7, van het Mestdecreet van 22 december 2006, afgekort het Compendium Bemonsterings- en Analysemethodes in het kader van het Mestdecreet, dat als bijlage bij dit besluit is gevoegd.
+...
 
 ### ART. 61.
 
-§ 1. Voor het uitvoeren van analyses op meststoffen en op andere stoffen zoals bedoeld in artikel 36 van het decreet, is een erkenning vereist, verleend door de minister.<br /><br />§ 2. Om deze erkenning te bekomen moeten de laboratoria voldoen aan de voorwaarden van organisatie en werking, zoals gesteld in dit hoofdstuk.
+...
 
 ### ART. 62.
 
-De erkenningsaanvraag wordt bij ter post aangetekend schrijven gericht aan de minister.<br /><br />De erkenningsaanvraag moet vergezeld zijn van de volgens het referentielaboratorium nodig geachte inlichtingen en documenten.
+...
 
 ### ART. 63.
 
-De Mestbank en het referentielaboratorium mogen, als zij dit nuttig achten, van de aanvrager eisen dat hij alle aanvullende documenten en informatie ter beschikking stelt.
+...
 
 ### ART. 64.
 
-§ 1. De aanvrager dient kosteloos analyses uit te voeren op typemonsters van reële stalen. Deze erkenningsanalyses, bestaan uit analyses waarvoor de erkenning gevraagd wordt. Het referentielaboratorium stelt een beoordelingsverslag op betreffende de uitgevoerde erkenningsanalyses, en zendt dit verslag binnen zes weken na ontvangst van alle resultaten, vanwege de aanvrager aan de Mestbank.<br /><br />§ 2. Alle referentie-analyses en controle-analyses moeten uitgevoerd worden door het laboratorium dat de erkenning aanvraagt of heeft verkregen; als dat niet het geval is wordt de erkenning niet verleend of ingetrokken.
+...
 
 ### ART. 65.
 
-De erkenning van de laboratoria wordt alleen maar verleend, als de personen die met het beheer belast zijn zich ertoe verbinden de volgende verplichtingen na te komen:<br /><br />1° toegang tot het laboratorium verlenen aan de ambtenaren van de Mestbank en/of aan de daartoe aangeduide personeelsleden van het referentielaboratorium;<br /><br />2° deze ambtenaren en/of personeelsleden alle documenten en nuttige gegevens die getuigen van het nakomen van de erkenningsvoorwaarden en de uitrustings- en werkingsvoorwaarden vastgesteld door dit besluit, te laten opvragen en nakijken;<br /><br />3° indien nodig, aan voormelde ambtenaren en/of personeelsleden de documenten of een afschrift ervan die de controle moeten mogelijk maken, ter hand stellen;<br /><br />4° aan voormelde ambtenaren alle documenten of een afschrift ervan die in het kader van art 36, § 1, 1°, van het decreet de toezicht moeten mogelijk maken, ter hand stellen;<br /><br />5° deze ambtenaren en/of personeelsleden toestaan de uitvoering van de opdrachten die aan het laboratorium ter uitvoering van dit besluit zijn toevertrouwd, te verifiëren;<br /><br />6° aan deze ambtenaren en/of personeelsleden alle inlichtingen meedelen betreffende de technieken en uitslagen van de toegepaste werkmethoden, alsmede de conclusie van de verrichte analyses en controles.
+...
 
 ### ART. 66.
 
-§ 1. De erkenning wordt verleend voor een periode van maximaal vijf jaar; om gemotiveerde redenen kan een proeferkenning van kortere duur vastgesteld worden. De proeferkenning kan op basis van een aanvullend beoordelingsverslag op het einde van de proefperiode omgezet worden in een erkenning met een duur van maximaal vijf jaar, inbegrepen de duur van de proefperiode. De erkenning en proeferkenning kunnen door de minister worden verlengd.<br /><br />§ 2. De erkenning wordt enkel verleend voor de analyses die vermeld staan in het erkenningsbesluit.<br /><br />§ 3. Ingeval van niet-erkenning vanwege een ongunstig beoordelingsverslag kan het betrokken laboratorium een nieuwe erkenningsaanvraag indienen en nieuwe typemonsters aanvragen om er erkenningsanalyses op uit te voeren.<br /><br />Dat kan op zijn vroegst zes maanden na betekening van het besluit waarbij de erkenning niet verleend werd. Eenzelfde laboratorium mag voor dezelfde analysen slechts driemaal per twee jaar een erkenningsaanvraag indienen.<br /><br />§ 4. De vraag om verlenging van de erkenning moet ingediend worden uiterlijk negen maanden voor het verstrijken van de termijn van de erkenning.<br /><br />§ 5. Het laboratorium is verantwoordelijk voor het uitvoeren of in hun opdracht laten uitvoeren van de staalnames.<br /><br />§ 6. Elke wijziging die gedurende de erkenningsperiode wordt aangebracht aan de inlichtingen bedoeld in artikel 62, wordt zonder verwijl meegedeeld aan de Mestbank en het referentielaboratorium.
+...
 
 ### ART. 67.
 
-De erkende laboratoria staan onder toezicht van de Mestbank en het referentielaboratorium voor wat betreft de door hen uitgevoerde analyses of aan hen toevertrouwde opdrachten, die in de hoedanigheid van erkend laboratorium worden uitgevoerd.
+...
 
 ### ART. 68.
 
-De laboratoria die de erkenning vragen, moeten beantwoorden aan de hierna vermelde uitrustings- en beheerscriteria:<br /><br />1° de vorm van de vennootschap of van de vereniging mag het laboratorium niet verhinderen zijn activiteiten in volledige onafhankelijkheid ten opzichte van de klanten uit te voeren;<br /><br />2° het laboratorium wordt geleid door een persoon die de nodige wetenschappelijke en technische kennis bezit en die volledig onafhankelijk staat ten opzichte van de ondernemingen waar het laboratorium moet optreden.<br /><br />Het laboratorium beschikt over voldoende gekwalificeerd personeel om de taken die het werden toevertrouwd tot een goed einde te brengen. De persoon die het laboratorium leidt en de personeelsleden mogen rechtstreeks noch onrechtstreeks belangen hebben in de ondernemingen waarop die werkzaamheden betrekking hebben.<br /><br />De persoon die het laboratorium leidt en de personeelsleden zijn strikt gebonden door het beroepsgeheim, zelfs na het beëindigen van hun functies, wat de vertrouwelijke gegevens betreft die zij moeten inwinnen;<br /><br />3° het laboratorium beschikt over de nodige lokalen, aangepast aan de activiteiten waarvoor het erkend werd en ingericht overeenkomstig de van kracht zijnde reglementaire bepalingen;<br /><br />4° het beschikt over de nodige technische en wetenschappelijke uitrusting, om de analyses uit te voeren waarvoor de erkenning gevraagd wordt;<br /><br />5° het beschikt over adequate wetenschappelijke en technische documentatie bijgewerkt en aangepast aan de evolutie van wetenschap en techniek.
+...
 
 ### ART. 69.
 
-De erkende laboratoria moeten beantwoorden aan de hierna vermelde werkingscriteria:<br /><br />1° de analyses worden binnen een overeengekomen termijn uitgevoerd. Indien dit niet mogelijk blijkt, dient dit aan de opdrachtgever te worden meegedeeld;<br /><br />2° wanneer blijkt dat de analysen niet correct werden uitgevoerd, worden ze zonder extra kosten voor de opdrachtgever overgedaan of aangevuld;<br /><br />3° het laboratorium aanvaardt een door de Mestbank en/of het referentielaboratorium georganiseerde externe controle over de kwaliteit van zijn analyses en verleent er zijn medewerking aan. Die externe controle kan er onder meer in bestaan deel te nemen aan het maken van vergelijkingen tussen de laboratoria, proefmonsters te analyseren en gebruik te maken van standaarden of referentiemateriaal. De Mestbank en/of het referentielaboratorium zullen ten minste één keer per jaar een controle bij elk erkend laboratorium uitvoeren;<br /><br />4° het laboratorium past de Europese norm EN 45001 toe en beschikt over een kwaliteitshandboek;<br /><br />5° het laboratorium stelt elk jaar een verslag op over de geleverde analyses. Het jaarverslag bevat en overzicht van de uitgevoerde analyses in opdracht van de Mestbank per parameter opgesplitst per type staal.<br /><br />Het jaarverslag wordt naar de Mestbank gestuurd uiterlijk op 1 maart van het jaar dat volgt op dat waar het betrekking op heeft.
+...
 
 ### ART. 70.
 
-De laboratoria die erkend zijn voor analyses in het kader van dit besluit, beantwoorden aan de volgende specifieke criteria:<br />1° het erkend laboratorium moet voor alle staalnames en analyses ter uitvoering van het Mestdecreet van 22 december 2006, de bepalingen van het BAM naleven; <br />2° alle ter zake dienende gegevens worden gedurende de analyse opgeschreven en blijven op dusdanige wijze bewaard dat een externe controle, zowel op het verloop van de verrichtingen als op de wijze waarop de resultaten verkregen werden, mogelijk is.<br />Die gegevens blijven gedurende ten minste vijf jaar bewaard en worden ter beschikking gehouden van de ambtenaren van de Mestbank en/of personeelsleden van het referentielaboratorium;<br />3° het laboratorium geeft een verslag af dat op zijn minst de volgende gegevens bevat:<br />a) de naam en de hoedanigheid van de persoon die de monsters genomen heeft en ze aan het laboratorium heeft toevertrouwd alsook de volledige identificatie van de monsters;<br />b) het analyseverslag dat de gebruikte methode en ook de resultaten van de metingen vermeldt.
+...
 
 ### ART. 71.
 
-Als niet is voldaan aan één of meer voorwaarden bepaald in artikel 68 stellen de ambtenaren van de Mestbank en/of de gemachtigde personeelsleden van het referentielaboratorium een termijn vast teneinde het betrokken laboratorium de gelegenheid te bieden zich hiermee in regel te stellen.<br /><br />Gedurende deze termijn mogen geen analyses worden uitgevoerd in het kader van de in dit besluit bedoelde erkenning.
+...
 
 ### ART. 72.
 
-De minister kan de aan een laboratorium verleende erkenning geheel of gedeeltelijk intrekken:<br />1° wanneer bij controles fouten worden vastgesteld in de analyses, verricht op verzoek van opdrachtgevers en/of bij specifieke controles van de Mestbank en/of het referentielaboratorium;<br />2° als vastgesteld wordt dat het erkend laboratorium niet of niet meer voldoet aan de voorwaarden, vermeld in artikel 70;<br />3° wanneer niet meer voldaan is aan de uitrustingscriteria en voorwaarden, die bij de erkenning bepalend zijn geweest;<br />4° wanneer het niet of niet meer voldoet aan de bepaling opgenomen in art. 63 van dit besluit.<br />5° als het in zijn hoedanigheid van erkend laboratorium analyses levert waarvoor het niet werd erkend.<br /><br />De beslissing tot intrekking wordt met redenen omkleed. Ze wordt slechts genomen nadat het betrokken laboratorium is gehoord. De intrekking heeft uitwerking op de vijftiende dag volgend op de mededeling bij aangetekende brief van de intrekking.
+...
 
 ### ART. 73.
 
-Enkel de ter uitvoering van dit besluit erkende laboratoria mogen de benaming "Laboratorium erkend voor analyses in het kader van het mestdecreet" dragen. Hierbij wordt steeds verwezen naar het erkenningsbesluit.
+...
 
 ### ART. 74.
 
-Het ministerieel besluit houdende de erkenning wordt bij uittreksel in het Belgisch Staatsblad bekendgemaakt. Tevens wordt de lijst van erkende laboratoria jaarlijks in het Belgisch Staatsblad gepubliceerd.
+...
 
 ### ART. 75.
 
-Voor de toepassing van de Europese Norm EN 45001 en de beschikking over een kwaliteitshandboek zoals bepaald in artikel 69, 4° geldt een overgangsperiode van 2 jaar vanaf de in werking treding van dit besluit.
+...
 
 ## HOOFDSTUK XI OPHEFFINGS- EN SLOTBEPALINGEN
 
@@ -364,4 +364,4 @@ De Vlaamse minister bevoegd voor het leefmilieu is belast met de uitvoering van 
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2010/08/11_1.pdf#page=3" title=" Bijlage" target="_blank" class="pdf">Bijlage</a>
+...

@@ -2,16 +2,16 @@
   "codex_id": 1007462,
   "title": "Besluit van de Vlaamse Regering van 2000-05-26 ter uitvoering van sommige artikelen van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007462/VolledigDocument?datum=2010-10-01",
-  "source_sha256": "bfdce536637c3ba9b5d30d0f4dbd481d5e4e5a9f1bc4c3a27a26d560a6d5d628",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007462/VolledigDocument?datum=2011-03-03",
+  "source_sha256": "0861c7a0bd4abab19eab01ca4f0de9f14e7b8dc4361e2941189ed62e449a0656",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007462&param=informatie",
-  "as_of": "2010-10-01",
+  "as_of": "2011-03-03",
   "made": "2000-05-26",
   "gazette": "2000-07-15",
   "numac": 2000035687,
   "document_start": "2000-01-01",
   "document_end": null,
-  "in_force": "2010-10-01",
+  "in_force": "2011-03-03",
   "article_versions": 79,
-  "record_form": "consolidated version as in force on 2010-10-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-03-03; future article versions excluded; article text as the API gives it"
 }
