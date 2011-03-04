@@ -2,16 +2,16 @@
   "codex_id": 1017930,
   "title": "Besluit van de Vlaamse Regering van 2009-04-15 tot uitvoering van Hoofdstuk III/1 van het decreet van 6 februari 2004 [houdende ad-hocwaarborgen voor ondernemingen en waarborgen voor financieringsfondsen en kredietportefeuilles]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017930/VolledigDocument?datum=2009-04-15",
-  "source_sha256": "84eb6c0d34ca8efdabfdd1d2d12a26532f120b91052b12cb458a5eb9fb3b5e08",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017930/VolledigDocument?datum=2011-03-04",
+  "source_sha256": "211256a9142395f120149feac76fe0ff260f7a5b5b1c16fa5923136d0c3dfd12",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017930&param=informatie",
-  "as_of": "2009-04-15",
+  "as_of": "2011-03-04",
   "made": "2009-04-15",
   "gazette": "2009-05-28",
   "numac": 2009202277,
   "document_start": "2009-04-15",
   "document_end": null,
-  "in_force": "2009-04-15",
+  "in_force": "2011-03-04",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2009-04-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-03-04; future article versions excluded; article text as the API gives it"
 }
