@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020057,
+  "title": "Ministerieel besluit van 2011-02-18 tot delegatie van bevoegdheden aan het hoofd van het Departement Internationaal Vlaanderen in het kader van de subsidiëring van stages bij internationale organisaties",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020057/VolledigDocument?datum=2011-03-05",
+  "source_sha256": "3565fc00fc3fef9ed2addbe5ad08e2ac873cb8ea5bafdc60031194288ffa2893",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020057&param=informatie",
+  "as_of": "2011-03-05",
+  "made": "2011-02-18",
+  "gazette": "2011-02-23",
+  "numac": 2011035135,
+  "document_start": "2011-03-05",
+  "document_end": "2014-03-31",
+  "in_force": "2011-03-05",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-03-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
