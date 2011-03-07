@@ -1,0 +1,21 @@
+# Besluit van de Vlaamse Regering van 2011-02-04 houdende wijziging van het tweede Waarborgbesluit van 18 februari 2005
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, artikel 20;<br /><br />Gelet op het decreet van 6 februari 2004 betreffende een waarborgregeling voor kleine, middelgrote en grote ondernemingen, artikel 5, § 2 en artikel 12, gewijzigd bij het decreet van 20 februari 2009;<br /><br />Gelet op het tweede Waarborgbesluit van 18 februari 2005;<br /><br />Gelet op het advies van IF, gegeven op 13 december 2010;<br /><br />Gelet op advies 49.088/1 van de Raad van State, gegeven op 13 januari 2011, met toepassing van artikel 84, § 1, eerste lid, 1°, van de gecoördineerde wetten op de Raad van State;<br /><br />Op voorstel van de Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbeleid;<br /><br />Na beraadslaging, <br /><br />Besluit : <br /><br />
+
+### ART. 1.
+
+In artikel 7 van het tweede Waarborgbesluit van 18 februari 2005, gewijzigd bij het besluit van de Vlaamse Regering van 27 maart 2009, worden de volgende wijzigingen aangebracht : <br />1° in paragraaf 1 wordt punt 1° vervangen door wat volgt : <br />"1° overeenkomsten in het kader waarvan de waarborghouder een krediet voor de financiering van investeringen of activiteiten verleent;";<br /><br />2° paragraaf 2 wordt vervangen door wat volgt : <br />"§ 2. De verbintenissen van de kmo, die voortvloeien uit financieringsovereenkomsten of andere verrichtingen die strekken tot of aangewend worden voor het verschaffen van middelen, bestemd voor de betaling van vervallen delgingen of andere bancaire schulden die bestaan op het ogenblik van de ondertekening van de authentieke akte en, bij ontstentenis daarvan, van de onderhandse akte of de andere documenten waarin ze zijn vervat, kunnen niet onder de toepassing van een waarborg worden gebracht.<br /><br />De verbintenissen van de kmo, voortvloeiend uit financieringsovereenkomsten of andere verrichtingen die strekken tot of aangewend worden voor het verschaffen van middelen, bestemd voor de betaling van andere schulden dan de in het eerste lid bedoelde vervallen delgingen of bancaire schulden, die al bestaan drie maanden voorafgaand aan het ogenblik van de ondertekening van de authentieke akte en, bij ontstentenis daarvan, van de onderhandse akte of de andere documenten waarin ze zijn vervat, kunnen niet onder de toepassing van een waarborg worden gebracht.<br /><br />Een herorganisatie of herschikking van reeds bestaande of toegestane kredieten waarbij het risico verplaatst wordt ten nadele van het Vlaamse Gewest, kan niet onder de toepassing van de waarborg gebracht worden.".<br /><br />
+
+### ART. 2.
+
+In artikel 8 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 27 maart 2009, worden de volgende wijzingen aangebracht : <br />1° in paragraaf 1, vierde lid, worden de woorden "eigen inbreng doet van minstens 25 % in de totale investering" vervangen door de woorden "eigen inbreng doet van minstens 25 % in de financiering van de investering of activiteiten";<br />2° in paragraaf 3 worden tussen de woorden "aangegaan met het oog op de financiering van investeringen" en de woorden "die nodig zijn voor het verkrijgen van" de woorden "of activiteiten" ingevoegd.<br /><br />
+
+### ART. 3.
+
+In artikel 21, tweede lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 27 maart 2009, worden de volgende wijzigingen aangebracht : <br />1° punt 1° wordt vervangen door wat volgt : <br />"1° de verbintenissen die onder de toepassing van de waarborg worden gebracht en die tot gevolg hebben dat het maximumbedrag, vermeld in artikel 8, § 5, wordt overschreden, zijn het gevolg van een financiering van bijkomende investeringen of van een financiering van bijkomende activiteiten die worden verricht om een eerder verrichte investering of een eerder verrichte activiteit beter te laten renderen;";<br /><br />2° in punt 3° worden tussen de woorden "vloeien voort uit investeringen" en de woorden "binnen sectoren" de woorden "of activiteiten" ingevoegd.<br /><br />
+
+### ART. 4.
+
+De Vlaamse minister, bevoegd voor Economie, Buitenlands Beleid, Landbouw en Plattelandsbeleid, is belast met de uitvoering van dit besluit.<br /><br />
