@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020062,
+  "title": "Besluit van de Vlaamse Regering van 2011-02-04 houdende wijziging van het Winwinleningbesluit van 20 juli 2006",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020062/VolledigDocument?datum=2011-03-07",
+  "source_sha256": "c274ecc4f64af1b3a9af3c291451adc8bd58648cadbda1e3c9334b54f80fa3fb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020062&param=informatie",
+  "as_of": "2011-03-07",
+  "made": "2011-02-04",
+  "gazette": "2011-02-25",
+  "numac": 2011035186,
+  "document_start": "2011-03-07",
+  "document_end": null,
+  "in_force": "2011-03-07",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2011-03-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
