@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020074,
+  "title": "Ministerieel besluit van 2011-02-07 betreffende de bekrachtiging van de aanwijzing van de leden van het college van beroep inzake tucht bij XIOS Hogeschool Limburg",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020074/VolledigDocument?datum=2011-03-12",
+  "source_sha256": "a10dd7d46402270db67b94152f0f03337c8c2e5170745779c9d02bcb6a50f522",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020074&param=informatie",
+  "as_of": "2011-03-12",
+  "made": "2011-02-07",
+  "gazette": "2011-03-02",
+  "numac": 2011200893,
+  "document_start": "2011-03-12",
+  "document_end": null,
+  "in_force": "2011-03-12",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-03-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
