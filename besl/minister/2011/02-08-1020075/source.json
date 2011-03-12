@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020075,
+  "title": "Ministerieel besluit van 2011-02-08 betreffende de bekrachtiging van de aanwijzing van de leden van het college van beroep inzake tucht bij de Katholieke Hogeschool Zuid-West-Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020075/VolledigDocument?datum=2011-03-12",
+  "source_sha256": "d9016b00e68d1bc84248650c51e007765341c23d1a019ed1707eaa8ad22444bf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020075&param=informatie",
+  "as_of": "2011-03-12",
+  "made": "2011-02-08",
+  "gazette": "2011-03-02",
+  "numac": 2011200894,
+  "document_start": "2011-03-12",
+  "document_end": null,
+  "in_force": "2011-03-12",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-03-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
