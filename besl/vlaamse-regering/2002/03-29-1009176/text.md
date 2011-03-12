@@ -164,7 +164,7 @@ Als de vergunninghouder binnen of gedurende een jaar geen gebruik gemaakt heeft 
 
 ### ART. 31.
 
-§ 1. Vergunningsplichtig zijn:<br /><br />1° wijzigingen aan het domeingoed zoals aanvullingen, uitgravingen, inbuizingen, het overbruggen van grachten, het maken van onderdoorgangen, [...  <span class="reference">(geschr. B.V.R. 25 juni 2004, art. 8, I: 10 september 2004)</span> ] het verharden van bermen;<br /><br />2° de inname van het domeingoed door parkeerplaatsen;<br /><br />3° de inname van het domeingoed met bestendige constructies zoals:<br /><br />a) zendmasten voor telecommunicatie, transformator-huisjes;<br /><br />b) terrassen, telefooncellen, informatiezuilen, [straatmeubilair,  <span class="reference">(verv. B.V.R. 25 juni 2004, art. 8, I: 10 september 2004)</span> ] kiosken, aanwijzingsborden naar instellingen van privaat nut, door de overheid beschikbaar gestelde dragers voor-zien in artikel 25, § 2;<br /><br />4° de in tijd beperkte inname van het domeingoed door gemakkelijk wegneembare constructies - onder meer werfinstallaties - zoals asfalt-, beton- en breekinstallaties met inbegrip van stapelruimten, werfkranen, omheiningen, werfketen, tijdelijke terrassen, verkoopsstallen, containers, eigen dragers voor aankondigingen voorzien in artikel 25, § 2. Deze installaties zijn niet vergunningsplichtig als de domeinbeheerder de opdrachtgever is.<br /><br />[...  <span class="reference">(opgeh. B.V.R. 25 juni 2004, art. 8, I: 10 september 2004)</span> ]<br /><br />§ 2. Ongeacht de bevoegdheid terzake van plaatselijke overheden zijn de volgende activiteiten vergunningsplichtig zodra ze leiden tot exclusief gebruik of tot het geheel of gedeeltelijk afsluiten van wegen, waterwegen, dijken of jaagpaden en zeedijken:<br /><br />1° sportieve of sociaal-culturele activiteiten zoals loop-, zwem-, wielerwedstrijden, spelen, watersportwedstrijden, hengelwedstrijden;<br /><br />2° activiteiten met commerciële inslag, zoals avondmarkten, kermissen, spelen, optredens.<br /><br />§ 3. De retributies zijn bepaald in tarief F van de bijlage, gevoegd bij dit besluit.<br /><br />[...  <span class="reference">(opgeh. B.V.R. 25 juni 2004, art. 8, I: 10 september 2004)</span> ]<br /><br />Indien een vergunning wordt aangevraagd voor een aankondiging [van commerciële aard  <span class="reference">(ing. B.V.R. 25 juni 2004, art. 8, I: 10 september 2004)</span> ] op eigen dragers als bedoeld in artikel 25, § 2, eerste lid en 31, § 1, 3°, b), is de vaste retributie slechts eenmaal verschuldigd.
+§ 1. Vergunningsplichtig zijn:<br />1° wijzigingen aan het domeingoed zoals aanvullingen, uitgravingen, inbuizingen, het overbruggen van grachten, het maken van onderdoorgangen, het verharden van bermen;<br />2° de inname van het domeingoed door parkeerplaatsen;<br />3° de inname van het domeingoed met bestendige constructies zoals:<br />a) zendmasten voor telecommunicatie, transformator-huisjes;<br />b) terrassen, telefooncellen, informatiezuilen, straatmeubilair, kiosken, door de overheid beschikbaar gestelde dragers voor-zien in artikel 25, § 2;<br />4° de in tijd beperkte inname van het domeingoed door gemakkelijk wegneembare constructies - onder meer werfinstallaties - zoals asfalt-, beton- en breekinstallaties met inbegrip van stapelruimten, werfkranen, omheiningen, werfketen, tijdelijke terrassen, verkoopsstallen, containers, eigen dragers voor aankondigingen voorzien in artikel 25, § 2. Deze installaties zijn niet vergunningsplichtig als de domeinbeheerder de opdrachtgever is.<br /><br />§ 2. Ongeacht de bevoegdheid terzake van plaatselijke overheden zijn de volgende activiteiten vergunningsplichtig zodra ze leiden tot exclusief gebruik of tot het geheel of gedeeltelijk afsluiten van wegen, waterwegen, dijken of jaagpaden en zeedijken:<br />1° sportieve of sociaal-culturele activiteiten zoals loop-, zwem-, wielerwedstrijden, spelen, watersportwedstrijden, hengelwedstrijden;<br />2° activiteiten met commerciële inslag, zoals avondmarkten, kermissen, spelen, optredens.<br /><br />§ 3. De retributies zijn bepaald in tarief F van de bijlage, gevoegd bij dit besluit.<br /><br />Indien een vergunning wordt aangevraagd voor een aankondiging van commerciële aard op eigen dragers als bedoeld in artikel 25, § 2, eerste lid en 31, § 1, 3°, b), is de vaste retributie slechts eenmaal verschuldigd.
 
 ## DEEL III SLOTBEPALINGEN
 
@@ -184,112 +184,4 @@ De Vlaamse minister, bevoegd voor de openbare werken, is belast met de uitvoerin
 
 ### Tekst
 
-Tarief A: DWARSAFSLUITINGEN<br>
-<br>
-1. Dwarsafsluitingen: 12,5 euro/m/jaar<br>
-<br>
-2. Dwarsafsluitingen uitsluitend bestemd voor begrazing: 0,6 euro/m/jaar<br>
-<br>
-Tarief B: AANKONDIGINGEN EN PUBLICITEIT<br>
-<br>
-Publiciteit van commerciële aard:<br>
-<br>
-a) op installaties van openbaar nut: [25 euro/m2/jaar (verv. B.V.R. 25 juni 2004, art. 9, I: 10 september 2004) ]<br>
-<br>
-b) op door de vergunninghouder geplaatste constructies: 250 euro/m2/jaar<br>
-<br>
-Tarief C: LEIDINGEN, NETWERKEN EN LOKALE INSTALLATIES<br>
-<br>
-[ ... (geschr. B.V.R. 25 juni 2004, art. 9, I: 10 september 2004) ]<br>
-<br>
-Vervoerleidingen, [mantelbuizen, wachtbuizen (ing. B.V.R. 25 juni 2004, art. 9, I: 10 september 2004) ] en afvoerleidingen: 5 euro/m3 ingenomen ruimte met een minimum van 0,05 euro per lopende meter.<br>
-<br>
-Lokale installaties: 2,5 euro/m2 met een minimum van 2,5 euro/lokale installatie.<br>
-<br>
-Bovengrondse leidingen op dezelfe steun aangebracht: 0,5 euro/m per leiding.<br>
-<br>
-Tarief D: INRICHTINGEN IN DE VAARWEG EN ZIJN AANHORIGHEDEN<br>
-<br>
-D1. Drijvende inrichtingen<br>
-<br>
-a) Niet voor goederentransport aangewende vaartuigen: 2,5 euro/m2/jaar<br>
-<br>
-b) Magazijnschepen, ponten, baggerschepen, schuiten en<br>
-<br>
-vaartuigen voor toeristische rondvaarten: 2,5 euro/m2/jaar<br>
-<br>
-c) Horecavaartuigen: 12,5 euro/m2/jaar<br>
-<br>
-D2. Vaste inrichtingen<br>
-<br>
-1. Collectieve ligplaatsen:<br>
-<br>
-a) Kustjachthavens: 2,5 euro/m2/jaar<br>
-<br>
-b) Binnenjachthavens:<br>
-<br>
-1) verticale oevers, kaaimuren en steigers gebouwd door de overheid: 1,25 euro/m2/jaar<br>
-<br>
-2) steigers van de vergunninghouder: 0,6 euro/m2/jaar<br>
-<br>
-3) wateroppervlakte langs de langssteigers over drie meter en tussen de vingersteigers: 0,25 euro/m2/jaar<br>
-<br>
-2. Overbruggingen, onderdoorgangen, droogdokken voor particulier gebruik: 1,25 euro/m2/jaar<br>
-<br>
-3. Trappen: 37 euro/100 m of per trap<br>
-<br>
-4. Hefwerktuigen voor de tewaterlating van pleziervaartuigen: 75 euro/jaar<br>
-<br>
-5. Langs- en dwarssporen: 0,6 euro/m2/jaar<br>
-<br>
-6. Slipways, toegangsgeulen: 0,6 euro/m2/jaar<br>
-<br>
-7. Steigers voor particulier gebruik:<br>
-<br>
-a) oppervlakte steiger: 2,5 euro/m2/jaar<br>
-<br>
-b) ingenomen lengte aan de oever: 3,7 euro/m/jaar<br>
-<br>
-Tarief E: VERSTERKTE OEVERS, KAAIMUREN, LAAD- EN LOSLAATSEN<br>
-<br>
-Oevers, kaaimuren of aanlegplaatsen:<br>
-<br>
-1. Wateroppervlakte ingenomen door de aanlegplaats: 0,75 euro/m2/jaar<br>
-<br>
-2. Met infrastructuur gebouwd door de vergunninghouder: 0,25 euro/m2/jaar<br>
-<br>
-3. Grondinneming: 0,75 euro/m2/jaar<br>
-<br>
-Tarief F: ANDERE INGEBRUIKNEMINGEN<br>
-<br>
-1.a) wijzigingen aan het domeingoed: 1,25 euro/m2/jaar<br>
-<br>
-b) inname van het domeingoed met bestendige constructies: 5 euro/m2/jaar<br>
-<br>
-behalve:<br>
-<br>
-1) [... (<em><a href="http://www.raadvst-consetat.be/Arresten/203000/300/203302.pdf#xml=http://www.raadvst-consetat.be/apps/dtsearch/getpdf.asp?DocId=23054&amp;Index=c%3a%5csoftware%5cdtsearch%5cindex%5carrets%5fnl%5c&amp;HitCount=6&amp;hits=348d+350d+350e+350f+3510+3511+&amp;45419222020810">vernietigd RvSt, arrest nr. 203.302 van 27 april 2010</a>)]</em><br>
-<br>
-2) transformatorhuisjes: 62 euro/m2/jaar<br>
-<br>
-3) telefooncellen (minimum 1 m2 bezetting): 62 euro/jaar<br>
-<br>
-4) parkeerterrein: 1,25 euro/m2/jaar<br>
-<br>
-5) terrassen langs zeedijk: 12,5 euro/m2/jaar<br>
-<br>
-6) aanwijzingsborden naar instellingen van privaat nut: 62 euro/bord/jaar<br>
-<br>
-c) in tijd beperkte inname van het domeingoed: 2,5 euro/m2/maand<br>
-<br>
-behalve:<br>
-<br>
-eigen dragers voor aankondigingen: 62 euro/activiteit<br>
-<br>
-2. [ ... (geschr. B.V.R. 25 juni 2004, art. 8, I: 10 september 2004) ]<br>
-<br>
-3. activiteiten met commerciële inslag:<br>
-<br>
-1) op zeedijken en stranden: 250 euro/activiteit/dag<br>
-<br>
-2) [ ... (geschr. B.V.R. 25 juni 2004, art. 8, I: 10 september 2004) ]
+Tarief A: DWARSAFSLUITINGEN<br /><br />1. Dwarsafsluitingen: 12,5 euro/m/jaar<br /><br />2. Dwarsafsluitingen uitsluitend bestemd voor begrazing: 0,6 euro/m/jaar<br /><br />Tarief B: AANKONDIGINGEN EN PUBLICITEIT<br /><br />Publiciteit van commerciële aard:<br />a) op installaties van openbaar nut: 25 euro/m2/jaar <br />b) op door de vergunninghouder geplaatste constructies: 250 euro/m2/jaar<br /><br />Tarief C: LEIDINGEN, NETWERKEN EN LOKALE INSTALLATIES<br /><br />Vervoerleidingen, mantelbuizen, wachtbuizen  en afvoerleidingen: 5 euro/m3 ingenomen ruimte met een minimum van 0,05 euro per lopende meter.<br /><br />Lokale installaties: 2,5 euro/m2 met een minimum van 2,5 euro/lokale installatie.<br /><br />Bovengrondse leidingen op dezelfe steun aangebracht: 0,5 euro/m per leiding.<br /><br />Tarief D: INRICHTINGEN IN DE VAARWEG EN ZIJN AANHORIGHEDEN<br /><br />D1. Drijvende inrichtingen<br /><br />a) Niet voor goederentransport aangewende vaartuigen: 2,5 euro/m2/jaar<br /><br />b) Magazijnschepen, ponten, baggerschepen, schuiten en<br /><br />vaartuigen voor toeristische rondvaarten: 2,5 euro/m2/jaar<br /><br />c) Horecavaartuigen: 12,5 euro/m2/jaar<br /><br />D2. Vaste inrichtingen<br /><br />1. Collectieve ligplaatsen:<br /><br />a) Kustjachthavens: 2,5 euro/m2/jaar<br /><br />b) Binnenjachthavens:<br /><br />1) verticale oevers, kaaimuren en steigers gebouwd door de overheid: 1,25 euro/m2/jaar<br /><br />2) steigers van de vergunninghouder: 0,6 euro/m2/jaar<br /><br />3) wateroppervlakte langs de langssteigers over drie meter en tussen de vingersteigers: 0,25 euro/m2/jaar<br /><br />2. Overbruggingen, onderdoorgangen, droogdokken voor particulier gebruik: 1,25 euro/m2/jaar<br /><br />3. Trappen: 37 euro/100 m of per trap<br /><br />4. Hefwerktuigen voor de tewaterlating van pleziervaartuigen: 75 euro/jaar<br /><br />5. Langs- en dwarssporen: 0,6 euro/m2/jaar<br /><br />6. Slipways, toegangsgeulen: 0,6 euro/m2/jaar<br /><br />7. Steigers voor particulier gebruik:<br /><br />a) oppervlakte steiger: 2,5 euro/m2/jaar<br /><br />b) ingenomen lengte aan de oever: 3,7 euro/m/jaar<br /><br />Tarief E: VERSTERKTE OEVERS, KAAIMUREN, LAAD- EN LOSLAATSEN<br /><br />Oevers, kaaimuren of aanlegplaatsen:<br /><br />1. Wateroppervlakte ingenomen door de aanlegplaats: 0,75 euro/m2/jaar<br /><br />2. Met infrastructuur gebouwd door de vergunninghouder: 0,25 euro/m2/jaar<br /><br />3. Grondinneming: 0,75 euro/m2/jaar<br /><br />Tarief F: ANDERE INGEBRUIKNEMINGEN<br /><br />1.a) wijzigingen aan het domeingoed: 1,25 euro/m2/jaar<br /><br />b) inname van het domeingoed met bestendige constructies: 5 euro/m2/jaar<br /><br />behalve:<br /><br />1) zendmasten voor telecommunicatie: 2450 euro/mast/jaar<br /><br />2) transformatorhuisjes: 62 euro/m2/jaar<br /><br />3) telefooncellen (minimum 1 m2 bezetting): 62 euro/jaar<br /><br />4) parkeerterrein: 1,25 euro/m2/jaar<br /><br />5) terrassen langs zeedijk: 12,5 euro/m2/jaar<br /><br />c) in tijd beperkte inname van het domeingoed: 2,5 euro/m2/maand<br /><br />behalve:<br /><br />eigen dragers voor aankondigingen: 62 euro/activiteit<br /><br />2.  ... <br /><br />3. activiteiten met commerciële inslag:<br /><br />1) op zeedijken en stranden: 250 euro/activiteit/dag<br /><br />2)  ...
