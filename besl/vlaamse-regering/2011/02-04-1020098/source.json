@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020098,
+  "title": "Besluit van de Vlaamse Regering van 2011-02-04 tot wijziging van het besluit van de Vlaamse Regering van 22 oktober 2010 tot vaststelling van de aanvullende voorwaarden en de procedure voor erkenning als sociale huisvestingsmaatschappij en tot vaststelling van de procedure voor de beoordeling van de prestaties van sociale huisvestingsmaatschappijen, wat betreft vervanging van de modelstatuten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020098/VolledigDocument?datum=2011-03-15",
+  "source_sha256": "c2cd098ae8cd32d4bb9f76ab8259528cd57b9a3fb8cd3b0e846e4a83119f5032",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020098&param=informatie",
+  "as_of": "2011-03-15",
+  "made": "2011-02-04",
+  "gazette": "2011-03-15",
+  "numac": 2011035223,
+  "document_start": "2011-03-15",
+  "document_end": null,
+  "in_force": "2011-03-15",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2011-03-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
