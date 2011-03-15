@@ -2,16 +2,16 @@
   "codex_id": 1019843,
   "title": "Besluit van de Vlaamse Regering van 2010-10-22 tot vaststelling van de aanvullende voorwaarden en de procedure voor de erkenning als sociale huisvestingsmaatschappij en tot vaststelling van de procedure voor de beoordeling van de prestaties van sociale huisvestingsmaatschappijen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019843/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "5c6e875069f309e2b003a764cf58ebe438f180be0911f490dc1916108e866cc3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019843/VolledigDocument?datum=2011-03-15",
+  "source_sha256": "e59984c62c9fdc58401169ca9d9492b08ccef3ebf52d556416939e22187aff75",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019843&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2011-03-15",
   "made": "2010-10-22",
   "gazette": "2010-12-29",
   "numac": 2010035998,
   "document_start": "2011-01-01",
   "document_end": "2020-12-31",
-  "in_force": "2011-01-01",
+  "in_force": "2011-03-15",
   "article_versions": 35,
-  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-03-15; future article versions excluded; article text as the API gives it"
 }
