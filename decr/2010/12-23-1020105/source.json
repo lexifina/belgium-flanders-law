@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020105,
+  "title": "Decreet van 2010-12-23 betreffende de rechtenverkenner",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020105/VolledigDocument?datum=2011-03-17",
+  "source_sha256": "94451a63896accad5cfa410f925cf69d85014162e42831f569dec52c97679878",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020105&param=informatie",
+  "as_of": "2011-03-17",
+  "made": "2010-12-23",
+  "gazette": "2011-03-17",
+  "numac": 2011201277,
+  "document_start": "2011-03-17",
+  "document_end": null,
+  "in_force": "2011-03-17",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-03-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
