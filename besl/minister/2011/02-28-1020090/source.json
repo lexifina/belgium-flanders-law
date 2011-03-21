@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020090,
+  "title": "Ministerieel besluit van 2011-02-28 tot hoogdringende onteigening ten algemenen nutte van onroerende goederen bestemd voor oeverinrichtingswerken aan de samenvloeiing van de Noordede en de Blankenbergse Vaart te Zuienkerke door de Vlaamse Milieumaatschappij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020090/VolledigDocument?datum=2011-03-21",
+  "source_sha256": "5ccaba1fdd4e2c1bee29f8b5bd2e1469e3039218d1565a9aa78ad72bf4a4c5dd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020090&param=informatie",
+  "as_of": "2011-03-21",
+  "made": "2011-02-28",
+  "gazette": "2011-03-11",
+  "numac": 2011035234,
+  "document_start": "2011-03-21",
+  "document_end": null,
+  "in_force": "2011-03-21",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2011-03-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
