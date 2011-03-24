@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020094,
+  "title": "Ministerieel besluit van 2011-02-23 houdende erkennning van bijzondere gebieden in uitvoering van het besluit van de Vlaamse Regering van 6 oktober 1998, betreffende de kwaliteitsbewaking, het recht van voorkoop en het sociaal beheersrecht op woningen, meer bepaald in de gemeente Gistel",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020094/VolledigDocument?datum=2011-03-24",
+  "source_sha256": "0f5a64b52230b44dd7c9eb4341c0ee8fbc0fec47c274bea29e3bd3ff6579f5be",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020094&param=informatie",
+  "as_of": "2011-03-24",
+  "made": "2011-02-23",
+  "gazette": "2011-03-14",
+  "numac": 2011201037,
+  "document_start": "2011-03-24",
+  "document_end": null,
+  "in_force": "2011-03-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-03-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
