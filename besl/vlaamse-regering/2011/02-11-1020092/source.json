@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020092,
+  "title": "Besluit van de Vlaamse Regering van 2011-02-11 tot aanpassing van de gegarandeerde minimumbedragen van de Hogeschool voor Wetenschap en Kunst en van de HUB-EHSAL",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020092/VolledigDocument?datum=2011-03-24",
+  "source_sha256": "e208cd332e5ca03cf71b778a82aa374ff58d6a28636e61d3be6600df56ddd8a1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020092&param=informatie",
+  "as_of": "2011-03-24",
+  "made": "2011-02-11",
+  "gazette": "2011-03-14",
+  "numac": 2011035224,
+  "document_start": "2011-03-24",
+  "document_end": null,
+  "in_force": "2011-03-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-03-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
