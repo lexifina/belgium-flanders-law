@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020104,
+  "title": "Besluit van de Vlaamse Regering van 2011-02-25 houdende opheffing van de polder De Koebeemden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020104/VolledigDocument?datum=2011-03-26",
+  "source_sha256": "56dd0b83acd7e4efce35edce159d9bac5c172d4ff6cbc3811424921e85eef48d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020104&param=informatie",
+  "as_of": "2011-03-26",
+  "made": "2011-02-25",
+  "gazette": "2011-03-16",
+  "numac": 2011035233,
+  "document_start": "2011-03-26",
+  "document_end": null,
+  "in_force": "2011-03-26",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2011-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
