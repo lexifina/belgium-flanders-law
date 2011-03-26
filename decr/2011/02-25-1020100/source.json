@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020100,
+  "title": "Decreet van 2011-02-25 houdende instemming met de wijziging van het Verdrag van Espoo van 25 februari 1991 inzake milieu-effectrapportage in grensoverschrijdend verband, aangenomen bij besluit II/14 in Sofia op 27 februari 2001",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020100/VolledigDocument?datum=2011-03-26",
+  "source_sha256": "f2f47f8de64205ad5996e4bd5082a9615aee446aa7476d7f60da240216f42f40",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020100&param=informatie",
+  "as_of": "2011-03-26",
+  "made": "2011-02-25",
+  "gazette": "2011-03-16",
+  "numac": 2011201212,
+  "document_start": "2011-03-26",
+  "document_end": null,
+  "in_force": "2011-03-26",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
