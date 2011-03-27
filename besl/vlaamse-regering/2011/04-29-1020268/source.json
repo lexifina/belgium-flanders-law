@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020268,
+  "title": "Besluit van de Vlaamse Regering van 2011-04-29 tot wijziging van artikel 4, 5, 6 en 7 van het besluit van de Vlaamse Regering van 18 februari 2005 tot aanwijzing van de vertegenwoordiging van de Vlaamse Regering in het Belgisch Interventie- en Restitutiebureau",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020268/VolledigDocument?datum=2011-03-27",
+  "source_sha256": "e42ec83e346677de8461c0395223de73c6053a1087417d803e092313e252423a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020268&param=informatie",
+  "as_of": "2011-03-27",
+  "made": "2011-04-29",
+  "gazette": "2011-05-20",
+  "numac": 2011202281,
+  "document_start": "2011-03-27",
+  "document_end": null,
+  "in_force": "2011-03-27",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2011-03-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
