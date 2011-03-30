@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022022,
+  "title": "Ministerieel besluit van 2012-07-19 houdende de erkenning als beoordelingsinstantie in het kader van de herkennings- en beoordelingsprocedure tot het verkrijgen van een titel van beroepsbekwaamheid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022022/VolledigDocument?datum=2011-03-30",
+  "source_sha256": "8c1c34637eb6e0c3ca11b716350d7bf4cf34d61394a40d6390b89a5082569c23",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022022&param=informatie",
+  "as_of": "2011-03-30",
+  "made": "2012-07-19",
+  "gazette": "2012-08-07",
+  "numac": 2012204321,
+  "document_start": "2011-03-30",
+  "document_end": "2018-12-31",
+  "in_force": "2011-03-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-03-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
