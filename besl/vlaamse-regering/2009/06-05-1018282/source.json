@@ -2,16 +2,16 @@
   "codex_id": 1018282,
   "title": "Besluit van de Vlaamse Regering van 2009-06-05 tot vaststelling van een gewestelijke stedenbouwkundige verordening inzake toegankelijkheid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018282/VolledigDocument?datum=2010-03-01",
-  "source_sha256": "3c1c2f9103539a84d2f6176e67840eae700218bbfbe72fe35c9182fa799210cf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018282/VolledigDocument?datum=2011-03-31",
+  "source_sha256": "9803ad2d24df6f974e1d0044e4dd0d65255c41c5ea90d87e42fd40f8be5cf165",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018282&param=informatie",
-  "as_of": "2010-03-01",
+  "as_of": "2011-03-31",
   "made": "2009-06-05",
   "gazette": "2009-09-02",
   "numac": 2009035737,
   "document_start": "2010-03-01",
   "document_end": null,
-  "in_force": "2010-03-01",
-  "article_versions": 43,
-  "record_form": "consolidated version as in force on 2010-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2011-03-31",
+  "article_versions": 48,
+  "record_form": "consolidated version as in force on 2011-03-31; future article versions excluded; article text as the API gives it"
 }
