@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020108,
+  "title": "Besluit van de Vlaamse Regering van 2011-02-18 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 5 juni 2009 tot vaststelling van een gewestelijke stedenbouwkundige verordening betreffende toegankelijkheid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020108/VolledigDocument?datum=2011-03-31",
+  "source_sha256": "1b3a4fd739d49b1edf1974d480708cd05a8d3e0671d7b084f7e45c09d57dd8c6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020108&param=informatie",
+  "as_of": "2011-03-31",
+  "made": "2011-02-18",
+  "gazette": "2011-03-21",
+  "numac": 2011035237,
+  "document_start": "2011-03-31",
+  "document_end": null,
+  "in_force": "2011-03-31",
+  "article_versions": 37,
+  "record_form": "consolidated version as in force on 2011-03-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
