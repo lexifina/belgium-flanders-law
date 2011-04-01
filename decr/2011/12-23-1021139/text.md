@@ -86,6 +86,10 @@ Artikel 78 van het decreet van 23 december 2010 houdende bepalingen tot begeleid
 
 ## Afdeling 2 Verervingen van familiale ondernemingen en vennootschappen
 
+### ART. 81.
+
+In artikel 60bis, § 5/1, van hetzelfde wetboek wordt het tweede lid, voor overlijdens tot en met 31 december 2011, vervangen door wat volgt :<br />« Voor de overlijdens vanaf 1 november 2007 wordt, voor het behoud van de vrijstelling, het in paragraaf 5, vierde en zesde lid, vermelde minimum aan loonlasten, die de onderneming of de vennootschap uitbetaalt aan werknemers die in de Europese Economische Ruimte tewerkgesteld zijn, met 100 procent verminderd op voorwaarde dat er minimaal drie kwartalen van de twintig kwartalen na het overlijden vallen in de periode vanaf het derde kwartaal van 2008. <br />
+
 ## HOOFDSTUK 18 Vlaams Fonds voor de Lastendelging
 
 ## HOOFDSTUK 19 Steunpunten beleidsrelevant onderzoek
