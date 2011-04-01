@@ -148,6 +148,10 @@ Art. VII 163. § 1. In afwijking van bijlage 8 bij dit besluit verkrijgt het van
 
 In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 29 april 2011, wordt een artikel X 89 ingevoegd, dat luidt als volgt :<br /><br />« Art. X 89. § 1. Het personeelslid dat op 16 november 2010, 1 december 2010 of 1 januari 2011 overgeheveld is van de Federale Overheidsdienst Financiën en dat op het ogenblik van de overheveling geniet van een hem door de federale overheid toegekend verlofstelsel dat ook bij de diensten van de Vlaamse overheid bestaat, blijft dat verlof verder genieten tot de normale einddatum van het verlof.<br /><br />§ 2. Het personeelslid dat op 1 januari 2011 overgeheveld is van de Federale Overheidsdienst Financiën kan de niet-opgenomen vakantiedagen van het jaar 2010 bij de federale overheid niet overdragen naar het vakantieverlof voor het jaar 2011 bij de diensten van de Vlaamse overheid. ».
 
+### ART. 15.
+
+In artikel XII 3, tweede lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 april 2011, worden de woorden « , voor de entiteiten die zelf de kinderbijslag betalen » opgeheven.
+
 ### ART. 16.
 
 In bijlage 2 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij de besluiten van de Vlaamse Regering van 23 mei 2008 en 29 mei 2009, worden de volgende wijzigingen aangebracht : <br /><br />1° in punt 1, niveau B, wordt punt b) vervangen door wat volgt : <br />« b) diploma van gegradueerde van het hoger beroepsonderwijs, uitgereikt door een instelling opgericht, gesubsidieerd of erkend door de staat of door een van de gemeenschappen, met uitzondering van het diploma van gegradueerde in de verpleegkunde uitgereikt in het hoger beroepsonderwijs; »;<br /><br />2° aan punt 1, niveau C, wordt een punt j) toegevoegd, dat luidt als volgt :<br />« j) diploma van gegradueerde in de verpleegkunde, uitgereikt in het hoger beroepsonderwijs door een door de staat of door een van de gemeenschappen opgerichte, erkende of gesubsidieerde instelling of door de examencommissie van de Vlaamse Gemeenschap. ».
