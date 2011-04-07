@@ -2,16 +2,16 @@
   "codex_id": 1006914,
   "title": "Besluit van de Vlaamse Regering van 1999-06-08 tot vaststelling van de totale investeringssubsidie en de bouwtechnische normen voor de kinderopvangsector",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006914/VolledigDocument?datum=2008-10-03",
-  "source_sha256": "f83e53cef9fe2bd449ee472ef68e96f83ada371e7908ac8fdbdef615e75773d4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006914/VolledigDocument?datum=2011-04-07",
+  "source_sha256": "287812c4c1576d50565cf50cc8544e2570b7d1c88a99b7d0fc5017c5e60bd53e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006914&param=informatie",
-  "as_of": "2008-10-03",
+  "as_of": "2011-04-07",
   "made": "1999-06-08",
   "gazette": "1999-09-15",
   "numac": 1999036087,
   "document_start": null,
   "document_end": "2011-04-06",
-  "in_force": "2008-10-03",
+  "in_force": "2011-04-07",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2008-10-03; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-04-07; future article versions excluded; article text as the API gives it"
 }
