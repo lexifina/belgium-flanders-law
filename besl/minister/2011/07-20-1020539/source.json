@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020539,
+  "title": "Ministerieel besluit van 2011-07-20 tot wijziging van het ministerieel besluit van 11 juni 2007 tot bepaling van de standaard voor de titel van reachtruckchauffeur",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020539/VolledigDocument?datum=2011-04-13",
+  "source_sha256": "07e484e8825847fbfe37415cfce17801462be771a5c028d557928bcfc5aa142c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020539&param=informatie",
+  "as_of": "2011-04-13",
+  "made": "2011-07-20",
+  "gazette": "2011-08-17",
+  "numac": 2011204032,
+  "document_start": "2011-04-13",
+  "document_end": null,
+  "in_force": "2011-04-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-04-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
