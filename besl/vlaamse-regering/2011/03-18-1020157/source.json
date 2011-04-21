@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020157,
+  "title": "Besluit van de Vlaamse Regering van 2011-03-18 tot erkenning van de masteropleiding master in de ergotherapeutische wetenschap als nieuwe gezamenlijke opleiding van de Universiteit Gent, de Katholieke Universiteit Leuven, de Hogeschool Gent, de HUB-EHSAL, de Katholieke Hogeschool Kempen, de Arteveldehogeschool, de Hogeschool West-Vlaanderen en de Katholieke Hogeschool Brugge-Oostende",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020157/VolledigDocument?datum=2011-04-21",
+  "source_sha256": "02ff4d1134ff33779f88ee37fce4cddd12209fc39d11e94b1eed92456c6b79ba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020157&param=informatie",
+  "as_of": "2011-04-21",
+  "made": "2011-03-18",
+  "gazette": "2011-04-11",
+  "numac": 2011201593,
+  "document_start": "2011-04-21",
+  "document_end": null,
+  "in_force": "2011-04-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-04-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
