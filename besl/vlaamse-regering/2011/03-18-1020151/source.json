@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020151,
+  "title": "Besluit van de Vlaamse Regering van 2011-03-18 tot verdeling van de trekkingsrechten uit het Stedenfonds voor het jaar 2011",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020151/VolledigDocument?datum=2011-04-21",
+  "source_sha256": "947e4373ed129aa1ffc82f93ed9ca4ba446afa1359cdca5dc258ac9acb4a059e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020151&param=informatie",
+  "as_of": "2011-04-21",
+  "made": "2011-03-18",
+  "gazette": "2011-04-11",
+  "numac": 2011035285,
+  "document_start": "2011-04-21",
+  "document_end": null,
+  "in_force": "2011-04-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-04-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
