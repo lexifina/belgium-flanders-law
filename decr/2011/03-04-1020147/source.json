@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020147,
+  "title": "Decreet van 2011-03-04 houdende instemming met het Facultatief Protocol bij het Internationaal Verdrag inzake economische, sociale en culturele rechten, opgemaakt in New York op 10 december 2008",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020147/VolledigDocument?datum=2011-04-21",
+  "source_sha256": "e6ce94991d061bcddf64805d16c27108d5d5f597a928707ad0807d62d4fada67",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020147&param=informatie",
+  "as_of": "2011-04-21",
+  "made": "2011-03-04",
+  "gazette": "2011-04-11",
+  "numac": 2011035278,
+  "document_start": "2011-04-21",
+  "document_end": null,
+  "in_force": "2011-04-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-04-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
