@@ -2,16 +2,16 @@
   "codex_id": 1016825,
   "title": "Besluit van de Vlaamse Regering van 2008-04-25 tot gedeeltelijke opheffing van het besluit van de Vlaamse Regering van 10 juli 1991 houdende de oprichting van basis- en tussenoverlegcomités voor sommige publiekrechtelijke rechtspersonen die onder de Vlaamse Gemeenschap en/of het Vlaamse Gewest ressorteren en het besluit van de Vlaamse Regering van 29 april 1991 houdende samenstelling van de afvaardiging van de overheid in de basis- en tussenoverlegcomités voor sommige publiekrechtelijke rechtspersonen die onder de Vlaamse Gemeenschap en/of het Vlaamse Gewest ressorteren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016825/VolledigDocument?datum=2008-06-01",
-  "source_sha256": "736c79b587f3d4b36c780c7e2e965ed1050f98420ad98e94b4c78213f3884af2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016825/VolledigDocument?datum=2011-04-22",
+  "source_sha256": "158554b4dc4d2a1720cb75fdb3ebd07cde98efec12830a4b4fdde9a83b1413fc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016825&param=informatie",
-  "as_of": "2008-06-01",
+  "as_of": "2011-04-22",
   "made": "2008-04-25",
   "gazette": "2008-06-12",
   "numac": 2008202028,
   "document_start": "2008-06-01",
   "document_end": "2011-04-21",
-  "in_force": "2008-06-01",
+  "in_force": "2011-04-22",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2008-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-04-22; future article versions excluded; article text as the API gives it"
 }
