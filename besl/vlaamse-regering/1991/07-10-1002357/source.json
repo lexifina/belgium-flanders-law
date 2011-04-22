@@ -2,16 +2,16 @@
   "codex_id": 1002357,
   "title": "Besluit van de Vlaamse Regering van 1991-07-10 houdende oprichting van basis- en tussenoverlegcomités voor sommige publiekrechtelijke rechtspersonen die onder de Vlaamse Gemeenschap en/of het Vlaamse Gewest ressorteren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002357/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "ca97b96a5a12ab7e9021d4af6927a18ca0585db03ad70e98f4f3f5a4538c92df",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002357/VolledigDocument?datum=2011-04-22",
+  "source_sha256": "8ceba33eee7996f011f10a2adfa0736e9b3fc30c10f314e2c96dd2de52db341b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002357&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-04-22",
   "made": "1991-07-10",
   "gazette": "1991-12-07",
   "numac": 1991036556,
   "document_start": null,
   "document_end": "2011-04-21",
-  "in_force": "2006-06-01",
+  "in_force": "2011-04-22",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-04-22; future article versions excluded; article text as the API gives it"
 }
