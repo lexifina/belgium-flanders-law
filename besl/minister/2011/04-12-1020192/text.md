@@ -1,0 +1,25 @@
+# Ministerieel besluit van 2011-04-12 tot goedkeuring van Oxiperm(R) Pro als alternatieve beheersmaatregel in het kader van het Legionellabesluit
+
+### Aanhef
+
+De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid, artikelen 39 tot en met 43;<br /><br />Gelet op het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de besluiten van de Vlaamse Regering van 24 juli 2009, 4 december 2009, 6 juli 2010, 7 juli 2010, 24 september 2010 en 19 november 2010;<br /><br />Gelet op het besluit van de Vlaamse Regering van 9 februari 2007 betreffende de preventie van de veteranenziekte op publiek toegankelijke plaatsen, artikelen 19 tot en met 21,<br /><br />Besluit :
+
+### ART. 1.
+
+In dit besluit wordt verstaan onder :<br />1° watervoorziening : een distributiesysteem voor water, vanaf het punt van de levering of, als het privaat putwater is, vanaf het punt van waterwinning tot en met elk tappunt, met inbegrip van alle onderdelen die ermee in verbinding staan, met uitzondering van de systemen waarop alleen toiletten of wastafels zonder douchesystemen aangesloten zijn;<br />2° Oxiperm(R) Pro : apparaat op basis van chloordioxide dat ontwikkeld werd door de firma Grundfos Alldos;<br />3° preventiemaatregelen : het deel van de exploitatiemethoden dat bestaat uit structurele maatregelen en beheersmaatregelen om het legionelloserisico terug te dringen;<br />4° structurele maatregelen : maatregelen om de aerosolproducerende installatie aan te passen zodat de legionellagroei wordt tegengegaan;<br />5° beheersmaatregelen : maatregelen die bestaan uit controlemaatregelen, voorkomingsmaatregelen en correctieve maatregelen;<br />6° controlemaatregelen : maatregelen die het mogelijk maken na te gaan of de werkingsvoorwaarden van de installatie die aerosol produceert van die aard zijn dat er geen omstandigheden optreden die de ontwikkeling van legionellabacteriën bevorderen;<br />7° correctieve maatregelen : maatregelen die moeten worden genomen om het gevaar te reduceren tot een aanvaardbaar niveau als rond legionellagroei een ongewenste toestand vastgesteld wordt;<br />8° voorkomingsmaatregelen : maatregelen die vermijden dat bepaalde werkingsvoorwaarden leiden tot een risicosituatie voor de groei van legionellakiemen.
+
+### ART. 2.
+
+Oxiperm(R) Pro wordt goedgekeurd als alternatieve beheersmaatregel ter beheersing van Legionella pneumophila in watervoorzieningen. <br /><br />Oxiperm(R) Pro mag alleen worden toegepast als aan al de volgende voorwaarden wordt voldaan :<br />a. er wordt een nauwkeurig beheersplan opgesteld in het kader van de plaatsing van het Oxiperm(R) Pro-toestel. Het beheersplan omvat minimaal :<br />aa. een grondige evaluatie van de watervoorziening die resulteert in een risicoanalyse;<br />ab. een opsomming van de algemene preventiemaatregelen in het kader van de legionellaproblematiek en in het bijzonder de preventiemaatregelen die genomen moeten worden om de efficiënte werking van het Oxiperm(R) Pro-toestel te garanderen. Waar nodig moeten structurele maatregelen worden doorgevoerd onder meer met het oog op een continue doorspoeling van alle elementen van de installatie;<br />ac. een gedetailleerd register waarin de uitvoering en opvolging van alle beheersmaatregelen, die opgesomd zijn in het beheersplan, worden geregistreerd;<br />b. de watervoorziening en het Oxiperm(R) Pro-toestel moeten regelmatig onderhouden worden en de werking van het toestel wordt continu opgevolgd;<br />c. de waterleverancier wordt onmiddellijk op de hoogte gebracht als het Oxiperm(R) Pro-toestel in de watervoorziening wordt geplaatst;<br />d. bij gebruik van het Oxiperm(R) Pro-toestel moet op elk ogenblik voldaan worden aan de drinkwaternormen, vermeld in bijlage 1 van het besluit van de Vlaamse Regering van 13 december 2002 houdende reglementering inzake de kwaliteit en levering van water, bestemd voor menselijke consumptie. Een nauwgezette opvolging van de waterkwaliteit moet beschreven worden in het beheersplan;<br />e. Als uit de analyseresultaten blijkt dat er meer dan 1000 kolonievormende eenheden, afgekort KVE, Legionella pneumophila per liter aanwezig zijn in de watervoorziening, moet de oorzaak daarvan opgespoord worden en moeten de nodige maatregelen genomen worden om het aantal legionellabacteriën te doen dalen tot onder 1000 KVE per liter.
+
+### ART. 3.
+
+Als de veiligheid of de kwaliteit van het Oxiperm(R) Pro-toestel niet meer gegarandeerd kan worden of als de afdeling Toezicht Volksgezondheid problemen met het Oxiperm(R) Pro-toestel vaststelt, kan de minister altijd de goedkeuring opheffen.
+
+### ART. 4.
+
+De goedkeuring van het Oxiperm(R) Pro-toestel als alternatieve beheersmaatregel ter beheersing van Legionella pneumophila in watervoorzieningen ontslaat de exploitant van de toepassing van artikel 6, § 5, of artikel 13, § 5, van het Legionellabesluit.
+
+### ART. 5.
+
+Dit besluit treedt in werking op de dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad.
