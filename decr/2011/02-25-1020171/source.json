@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020171,
+  "title": "Decreet van 2011-02-25 houdende bekrachtiging van het besluit van de Vlaamse Regering van 17 december 2010 tot definitieve vaststelling van een gedeeltelijke herziening van het Ruimtelijk Structuurplan Vlaanderen, wat wijzigingen aan de bindende bepalingen van dat Ruimtelijk Structuurplan Vlaanderen betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020171/VolledigDocument?datum=2011-04-28",
+  "source_sha256": "765c20bc7b131650334628d3b0481709e9eb2c2917f023f44ae1c6735a9088ac",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020171&param=informatie",
+  "as_of": "2011-04-28",
+  "made": "2011-02-25",
+  "gazette": "2011-04-18",
+  "numac": 2011201213,
+  "document_start": "2011-04-28",
+  "document_end": null,
+  "in_force": "2011-04-28",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-04-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
