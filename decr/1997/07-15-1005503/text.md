@@ -302,7 +302,7 @@ De artikelen 67, 68 en 69 treden in werking op 1 september 1997.
 
 ### ART. 71.
 
-De overheveling van een onderwijsinstelling naar een andere inrichtende macht heeft ten aanzien van het departement onderwijs uitwerking op 1 september.
+...
 
 ### ART. 72.
 
