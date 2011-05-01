@@ -96,39 +96,39 @@ De getuigschriften en de attesten van verworven bekwaamheden en de processen-ver
 
 ### ART. 20bis.
 
-Vanaf het schooljaar 2008-2009 en tot zolang bedoeld experiment in het voltijds gewoon secundair onderwijs loopt, kan als experiment in door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde instellingen voor buitengewoon secundair onderwijs, modulair onderwijs worden georganiseerd overeenkomstig de bepalingen van deze afdeling. In voorkomend geval zijn wettelijke, decretale en reglementaire bepalingen die in strijd zijn met de bepalingen van dit hoofdstuk, niet van toepassing.<br /><br />Het experiment heeft betrekking op opleidingsvorm 3, met uitzondering van de observatiefase, en kan enkel worden ingericht door instellingen die gedurende het schooljaar 2007-2008 modulair onderwijs organiseren overeenkomstig het besluit van de Vlaamse Regering van 1 maart 2002 betreffende het experimenteel secundair onderwijs volgens een modulair stelsel.<br /><br />Het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs is niet van toepassing op dit experiment.
+...
 
 ### ART. 20ter.
 
-§ 1. Modulair onderwijs wordt georganiseerd per studiegebied zonder opdeling in fasen of leerjaren. De betrokken studiegebieden zijn : auto, bouw, grafische communicatie en media, handel, hout, koeling en warmte, lichaamsverzorging, mechanica-elektriciteit, personenzorg, textiel, voeding. Elk studiegebied bundelt een reeks opleidingen. Eenzelfde opleiding kan in verschillende studiegebieden voorkomen.<br /><br />§ 2. Elke opleiding omvat algemene en sociale vorming en beroepsgerichte vorming.<br /><br />De algemene en sociale vorming wordt hetzij niet-modulair hetzij gedeeltelijk modulair georganiseerd.<br /><br />De beroepsgerichte vorming wordt modulair georganiseerd. In elke opleiding komen een of meer modules voor. Een module is het kleinste te certificeren deel van een opleiding, dat overeenstemt met een bepaalde inhoud. In modules komen geen afzonderlijke vakken voor. Eenzelfde module kan in verschillende opleidingen voorkomen.<br /><br />§ 3. De Vlaamse Regering legt de opleidingenstructuur vast. Onder opleidingenstructuur wordt verstaan :<br />1° het geheel van de opleidingen per studiegebied;<br />2° de modules per opleiding;<br />3° de duurtijd per module uitgedrukt in uren per week;<br />4° de aanduiding dat de modules zich sequentieel of onafhankelijk tot elkaar verhouden; als de modules in een sequentieel verband staan, moeten zij in een eveneens vastgelegde volgorde worden gevolgd.<br /><br />Voor zover de opleidingenstructuur afwijkt van die, vastgesteld bij besluit van de Vlaamse Regering van 1 maart 2002 betreffende het experimenteel secundair onderwijs volgens een modulair stelsel, legt de Vlaamse Regering desbetreffende opleidingenstructuur ter advies aan de Vlaamse Onderwijsraad voor.<br /><br />§ 4. Programmatie respectievelijk opname in de erkennings-, financierings- of subsidiëringsregeling gebeurt per studiegebied.<br /><br />In een onderwijsinstelling kan een studiegebied niet gelijktijdig modulair en niet-modulair worden georganiseerd, tenzij tijdens het geleidelijke omzettingsproces van de ene naar de andere structuur.<br /><br />§ 5. Het modulair onderwijsaanbod van een instelling moet waarborgen dat een certificaat of een getuigschrift van een opleiding kan worden behaald.
+...
 
 ### ART. 20quater.
 
-Voor de modulair georganiseerde leerinhouden van een opleiding worden competenties door de Vlaamse Regering bepaald. Die leerinhouden zijn niet onderworpen aan de voorwaarde van door de Vlaamse Regering vastgestelde opleidingsprofielen.<br /><br />De Vlaamse Regering leidt de competenties af uit kwalificaties. Als die er niet zijn, leidt de Vlaamse Regering de competenties af uit een referentiekader in nauw overleg met de beroepssectoren.<br /><br />Voor zover de competenties afwijken van die bepaald bij besluit van de Vlaamse Regering van 1 maart 2002 betreffende het experimenteel secundair onderwijs volgens een modulair stelsel, legt de Vlaamse Regering desbetreffende competenties ter advies aan de Vlaamse Onderwijsraad voor.<br /><br />Competenties kunnen ook door middel van stages of werkervaring worden gerealiseerd.
+...
 
 ### ART. 20quinquies.
 
-Een opleiding kan starten op elk ogenblik van het schooljaar en gespreid worden over een of meer schooljaren. Een module kan starten op elk ogenblik van het schooljaar en gespreid worden over een of meer schooljaren.
+...
 
 ### ART. 20sexies.
 
-§ 1. In het modulair onderwijs gelden als gezamenlijke toelatingsvoorwaarden voor regelmatige leerlingen :<br />1° de reglementaire toelatingsvoorwaarden tot de opleidingsfase van opleidingsvorm 3;<br />2° de volgorde waarin modules dienen gevolgd zoals bepaald in de opleidingenstructuur;<br />3° eventueel : de specifieke toelatingsvoorwaarden tot een module zoals vastgelegd door de klassenraad, onverminderd het in 1° en 2° gestelde;<br />4° eventueel : de vrijstelling van toelatingsvoorwaarden tot een module op grond van een geattesteerde beslissing van de klassenraad, onverminderd het in 1° gestelde.<br /><br />Een leerling kan slechts één module tezelfdertijd volgen.<br /><br />§ 2. De overstap van een leerling van het modulair naar het niet-modulair onderwijs vindt plaats op basis van een beslissing van de klassenraad.
+...
 
 ### ART. 20septies.
 
-De klassenraad beslist of een regelmatige leerling hetzij geslaagd is zonder beperkingen hetzij niet geslaagd is. Deze beslissing wordt genomen :<br />1° op het ogenblik dat de leerling een module heeft beëindigd. In voorkomend geval wordt, voor wat betreft het onderwijzend personeel, de klassenraad beperkt tot die leden die effectief aan de leerling in de desbetreffende module onderricht hebben verstrekt;<br />2° op het ogenblik dat de leerling aan alle opleidingsvoorwaarden voldoet die toelaten een beslissing te nemen over de toekenning van een attest van verworven competenties, een getuigschrift van verworven competenties, een getuigschrift van een opleiding of een getuigschrift van alternerende beroepsopleiding.<br /><br />In het modulair onderwijs worden geen kwalificatieproeven ingericht.
+...
 
 ### ART. 20octies.
 
-De studiebekrachtiging, al dan niet op het einde van het schooljaar, wordt als volgt vastgesteld.<br />1° attest van verworven competenties : wordt uitgereikt aan een regelmatige leerling die een module van een opleiding niet met vrucht heeft gevolgd; het attest vermeldt die competenties die de jongere wel heeft bereikt;<br />2° deelcertificaat : wordt uitgereikt aan een regelmatige leerling die een module van een opleiding met vrucht heeft gevolgd;<br />3° getuigschrift van verworven competenties : wordt uitgereikt aan een regelmatige leerling die een afgerond geheel binnen een opleiding met vrucht heeft gevolgd;<br />4° certificaat : wordt uitgereikt aan een regelmatige leerling die een opleiding met vrucht heeft gevolgd;<br />5° getuigschrift van een opleiding : wordt uitgereikt aan een regelmatige leerling die een opleiding van assistentniveau met vrucht heeft gevolgd;<br />6° getuigschrift van alternerende beroepsopleiding : wordt uitgereikt aan een regelmatige leerling die de integratiefase met vrucht heeft gevolgd.<br /><br />Voor de toepassing van deze bepalingen wordt een module waarvoor de leerling bij beslissing van de klassenraad is vrijgesteld, geacht met vrucht gevolgd te zijn.<br /><br />De Vlaamse Regering stelt de modellen en de invulonderrichtingen van de hiervoor vermelde studiebewijzen vast.
+...
 
 ### ART. 20novies.
 
-§ 1. In het modulair onderwijs gelden als richtgetallen de reglementair vastgestelde richtgetallen van de overeenkomstige types van opleidingsvorm 3.<br /><br />Het lesurenpakket dat op basis van het voorgaande wordt berekend, wordt voor wat betreft de schooljaren 2008-2009 en 2009-2010 als volgt netto verhoogd :<br />a) per studiegebied dat tijdens het betrokken schooljaar volledig modulair wordt georganiseerd, worden 4 lesuren toegekend;<br />b) per leerling in het experiment die op de gebruikelijke teldatum in aanmerking wordt genomen voor financiering of subsidiëring worden 0,10 lesuren toegekend.<br /><br />§ 2. Modulair onderwijs wordt georganiseerd op basis van uren die geen lesuren zijn doch ermee gelijkgesteld worden, meer bepaald onder vorm van bijzondere pedagogische taken.<br /><br />Met beroepsgerichte vorming gelijkgestelde uren komen in aanmerking voor de vaststelling van betrekkingen in de ambten van technisch adviseur-coördinator en technisch adviseur.
+...
 
 ### ART. 20decies.
 
-De inspectie van het Vlaams Ministerie van Onderwijs en Vorming is belast met de evaluatie van het experiment. De instellingen die aan het experiment deelnemen, zijn verplicht hun medewerking te verlenen aan de evaluatie. De evaluatie moet, inzonderheid wat de timing betreft, derwijze worden georganiseerd dat ze toelaat om beleidsconclusies te trekken met het oog op een vlotte, eventuele, organieke implementatie.
+...
 
 ## [HOOFDSTUK IIIter BEROEPSPROCEDURE TEGEN BESLISSING VAN DE KWALIFICATIECOMMISSIE (ing. BVR 16 juli 2010, art. 3)]
 
@@ -1943,4 +1943,4 @@ Attest van verworven bekwaamheden.<br />1. Model : Formaat A4 (210 x 297 mm)<br 
 
 ### BIJLAGE 8.
 
-[Kwalificatiegetuigschrift Personenzorg<br /><br />l. Model : Formaat A4 (210 x 297 mm)<br /><br />VLAAMSE GEMEENSCHAP - KONINKRIJK BELGIE<br /><br />MINISTERIE VAN DE VLAAMSE GEMEENSCHAP<br />DEPARTEMENT ONDERWIJS<br /><br />KWALIFICATIEGETUIGSCHRIFT BUITENGEWOON SECUNDAIR BEROEPSONDERWIJS<br /><br />Benaming en adres van de instelling . . . . . <br /><br />Ondergetekende . . . . . <br />directeur van de bovenvermelde instelling, bevestigt dat . . . . . <br />. . . . . (1)<br />geboren te . . . . . (2) <br />op .................................................. (3), als regelmatige leerling(e) het buitengewoon secundair beroepsonderwijs, volledig leerplan, heeft gevolgd en geslaagd is voor de afdeling gezins- en nijverheidstechnieken in de kwalificatietechniek personenzorg<br /><br />Hij/zij bevestigt dat al de wettelijke, decretale en reglementaire voorschriften werden nageleefd.<br /><br />Gegeven te ......................................., op ...........................................<br /><br />De directeur,<br /><br />De kwalificatiecommissie,<br /><br />De houder<br /><br />Stempel van de instelling<br /><br />2. Onderrichtingen voor het invullen.<br />(1) naam en eerste voornaam van de leerling volgens identiteitskaart of geboorteakte;<br />(2) ook land vermeld indien niet in België geboren;<br />(3) de maand van de geboortedatum voluit in letters. (ing. BVR 3 september 2004, art. 4, I: 1 juni 2004)]
+...
