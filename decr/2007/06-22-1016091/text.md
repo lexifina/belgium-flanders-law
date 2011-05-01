@@ -1109,7 +1109,7 @@ Aan de centra voor volwassenenonderwijs die onderwijsbevoegdheid hebben in het s
 
 ### ART. X.3.
 
-De Vlaamse Regering kan een subsidie verlenen aan organisaties die door middel van een Time-outprogramma opvang en begeleiding bieden aan leerlingen uit het voltijds onderwijs, met een beperkt leerplan of uit de erkende vormingen, die wegens pedagogische, juridische, sociale of persoonlijke redenen tijdelijk uit het onderwijs worden genomen met de bedoeling hen opnieuw in het onderwijs op te nemen.<br /><br />De Vlaamse Regering bepaalt de voorwaarden waaronder deze subsidies kunnen worden toegekend, de wijze van selectie, de duur en de evaluatie van de projecten.<br /><br />
+...<br />
 
 ## Afdeling III Deeltijds kunstonderwijs
 
@@ -1125,11 +1125,11 @@ De volgende tijdelijke projecten deeltijds kunstonderwijs worden met ongewijzigd
 
 ### ART. X.6.
 
-De vzw Brussels ondersteuningscentrum secundair onderwijs ontvangt de in deze afdeling bedoelde subsidiëring voor zover zij voldoet aan volgende voorwaarden :<br />1° zij stelt zich tot doel een netoverschrijdende structuur uit te bouwen ter ondersteuning van de Nederlandstalige scholen voor secundair onderwijs in het Brusselse Hoofdstedelijke Gewest.<br />Deze structuur is in het bijzonder gericht op het ondersteunen van de taalvaardigheid van de leerlingen, en zal taaltoetsen afnemen bij leerlingen, begeleidingsinitiatieven ontwikkelen en uitvoeren voor het taalvaardigheidsonderricht;<br />2° zij legt uiterlijk op de eerste dag van de zesde maand na afsluiting van het boekjaar de jaarrekening en het jaarverslag voor aan de Vlaamse Regering.<br /><br />
+...
 
 ### ART. X.7.
 
-§ 1. De Vlaamse Regering waarborgt tot en met 31 december 2011 een subsidiëring voor de loonkosten van de personeelsleden en de werkingsmiddelen binnen de door de Vlaamse Gemeenschap voorziene begrotingskredieten.<br /><br />§ 2. De Vlaamse Regering kan beslissen over de uitvoering van de subsidiëring bedoeld in § 1 een samenwerkingsakkoord te sluiten met de Vlaamse Gemeenschapscommissie.<br /><br />
+...<br /><br />
 
 ## Afdeling V Inwerkingtreding
 
