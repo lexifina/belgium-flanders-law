@@ -1301,7 +1301,7 @@ In het basisonderwijs worden aanstellingen op basis van vervangingseenheden in d
 
 ### ART. XI.2.
 
-Het besluit van de Vlaamse Regering van 7 september 2007 betreffende de organisatie van CLIL-projecten in het secundair onderwijs wordt bekrachtigd.<br /><br />
+...
 
 ### ART. XI.4.
 
