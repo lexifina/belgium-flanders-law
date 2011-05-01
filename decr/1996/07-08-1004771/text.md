@@ -348,7 +348,7 @@ De bepalingen van titel IX hebben uitwerking met ingang van 1 september 1995.
 
 ### ART. 73.
 
-De Vlaamse regering bepaalt onder welke voorwaarden en volgens welke modaliteiten de jongeren die onderwijs met beperkt leerplan volgen zoals bedoeld in artikel 1, § 1 van de wet van 29 juni 1983 betreffende de leerplicht, kunnen ingeschakeld worden in een brugproject.<br /><br />Onder brugproject wordt verstaan elk project dat tot doel heeft de kansen op tewerkstelling van de jongeren in het vorig lid, via een begeleide leer-werkperiode te verhogen.
+...
 
 ### ART. 74.
 
