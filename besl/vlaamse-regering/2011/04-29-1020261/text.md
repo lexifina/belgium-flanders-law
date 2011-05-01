@@ -24,6 +24,10 @@ In artikel III 2, punt 2°, van hetzelfde besluit, gewijzigd bij het besluit van
 
 In artikel III 22, 3°, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij de besluiten van de Vlaamse Regering van 23 mei 2008 en 29 mei 2009, wordt de datum « 31 december 2010 » vervangen door de datum « 31 december 2011 ».
 
+### ART. 6.
+
+In deel III, hoofdstuk 5 van hetzelfde besluit wordt een artikel III 29 toegevoegd, dat luidt als volgt :<br /><br />« Art. III 29. De beperking van de mogelijkheid tot verlenging van de arbeidsovereenkomst met maximaal één jaar, vermeld in art. III 2, 2°, tweede streepje, geldt niet voor contractuele personeelsleden die vóór 1 mei 2011 in dienst werden genomen voor een tijdelijke en uitzonderlijke personeelsbehoefte met een arbeidsovereenkomst van maximaal één jaar en uitzonderlijk verlengbaar. »
+
 ### ART. 7.
 
 In artikel V 6, tweede lid, artikel V 21, tweede lid en artikel V 37, tweede lid, van hetzelfde besluit worden de woorden « waardegebonden en generieke gedrag- en vaktechnische competenties » telkens vervangen door de woorden « generieke competenties » en worden de woorden « aanvullende functiespecifieke competenties » telkens vervangen door de woorden « functiespecifieke competenties ».
