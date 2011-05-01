@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020249,
+  "title": "Ministerieel besluit van 2011-04-26 betreffende de programmatie van de voorzieningen van de bijzondere jeugdbijstand",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020249/VolledigDocument?datum=2011-05-01",
+  "source_sha256": "2f1423f40c736b33bdfc24cd98c1e2ebb732da40b8f1598854fdb37c1b02ad0b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020249&param=informatie",
+  "as_of": "2011-05-01",
+  "made": "2011-04-26",
+  "gazette": "2011-05-12",
+  "numac": 2011202214,
+  "document_start": "2011-05-01",
+  "document_end": null,
+  "in_force": "2011-05-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
