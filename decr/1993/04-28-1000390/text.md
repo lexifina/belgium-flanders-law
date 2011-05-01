@@ -363,7 +363,7 @@ Het ambt in het onderwijs of het PMS-centrum mag echter niet meer dan één vier
 
 ### ART. 69.
 
-§ 1. In de uren-leraar die worden ingericht in een onderwijs met een tijdelijk karakter zoals bedoeld in artikel 46, § 1, tweede lid, van het decreet van 31 juli 1990 betreffende het onderwijs II, kunnen geen personeelsleden vastbenoemd worden.<br /><br />§ 2. Met het oog op de controle van § 1 door het departement, dienen de inrichtende machten van de betrokken onderwijsinstellingen een verklaring op eer af te leggen die ertoe strekt dat in de bedoelde uren-leraar geen personeelsleden vastbenoemd worden.<br /><br />§ 3. De niet-naleving van de bepalingen van § 1 en § 2 heeft tot gevolg dat de vaste benoemingen geen uitwerking kunnen hebben ten aanzien van de overheid.
+...
 
 ### ART. 70.
 
