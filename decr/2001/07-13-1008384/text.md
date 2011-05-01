@@ -92,7 +92,7 @@ De Vlaamse Regering sluit met de VZW Bibnet een beheersovereenkomst voor vijf ja
 
 ### ART. 16.
 
-De Vlaamse regering zal met de Vlaamse Gemeenschapscommissie een convenant sluiten waarin de volgende zaken worden geregeld:<br />1° de eigen bibliotheekvoorzieningen van de Vlaamse Gemeenschapscommissie;<br />2° de voorwaarden waaronder de Vlaamse Gemeenschapscommissie de taken kan opnemen van een streekgericht bibliotheekbeleid als bedoeld in artikel 11 van dit decreet.
+De Vlaamse regering zal met de Vlaamse Gemeenschapscommissie een convenant sluiten waarin de volgende zaken worden geregeld:<br />1° de bibliotheekvoorziening van Muntpunt VZW;<br />2° de voorwaarden waaronder de Vlaamse Gemeenschapscommissie de taken kan opnemen van een streekgericht bibliotheekbeleid als bedoeld in artikel 11 van dit decreet.
 
 ## AFDELING 6 VOORZIENINGEN VOOR BIJZONDERE DOELGROEPEN
 

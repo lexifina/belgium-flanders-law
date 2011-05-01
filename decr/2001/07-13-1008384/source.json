@@ -2,16 +2,16 @@
   "codex_id": 1008384,
   "title": "Decreet van 2001-07-13 houdende het stimuleren van een kwalitatief en integraal lokaal cultuurbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008384/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "a83d0278e3d10bb8085db2948dcea7fe0c194219f7337ab4472a9f8e3ba129e6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008384/VolledigDocument?datum=2011-05-01",
+  "source_sha256": "e5118fdd8a0ace4256ce1f6d9372f2f8e13a326d654662587281917994768765",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008384&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2011-05-01",
   "made": "2001-07-13",
   "gazette": "2001-09-29",
   "numac": 2001036078,
   "document_start": null,
   "document_end": "2013-12-31",
-  "in_force": "2011-01-01",
+  "in_force": "2011-05-01",
   "article_versions": 88,
-  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-05-01; future article versions excluded; article text as the API gives it"
 }
