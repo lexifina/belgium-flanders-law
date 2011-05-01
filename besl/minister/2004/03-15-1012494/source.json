@@ -2,16 +2,16 @@
   "codex_id": 1012494,
   "title": "Ministerieel besluit van 2004-03-15 tot bepaling van het vaccinatieschema ten behoeve van de Centra voor Leerlingenbegeleiding",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012494/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "44176673d18890b0c498761ac52690f89ac49c4b0f0cd754839924dc38ebf921",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012494/VolledigDocument?datum=2011-05-01",
+  "source_sha256": "03449f62ca411b78f78a18f3245bbde01ca2edd845feac78e60158d9befd749e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012494&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-05-01",
   "made": "2004-03-15",
   "gazette": "2004-04-07",
   "numac": 2004035494,
   "document_start": "2004-04-07",
   "document_end": "2011-04-30",
-  "in_force": "2006-06-01",
+  "in_force": "2011-05-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-05-01; future article versions excluded; article text as the API gives it"
 }
