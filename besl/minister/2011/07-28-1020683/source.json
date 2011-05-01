@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020683,
+  "title": "Ministerieel besluit van 2011-07-28 tot erkenning van CKCert CVBA als controleorgaan geïntegreerde productiemethode voor pitfruit",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020683/VolledigDocument?datum=2011-05-01",
+  "source_sha256": "0afc36c1d40040641ae7c2fcdb9fa13b6360238ae571356114b67f15f6d93e30",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020683&param=informatie",
+  "as_of": "2011-05-01",
+  "made": "2011-07-28",
+  "gazette": "2011-09-22",
+  "numac": 2011204655,
+  "document_start": "2011-05-01",
+  "document_end": "2018-12-29",
+  "in_force": "2011-05-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
