@@ -109,7 +109,7 @@ De getuigschriften, vermeld in artikel 19 van het besluit, en het installatieatt
 
 ### ART. 19.
 
-Om te mogen deelnemen aan de installatieproeven, vermeld in artikel 20 van het besluit, moeten de cursisten, afhankelijk van het al behaalde opleidingsniveau, de naschoolse vormingsactiviteiten volgen, vermeld in bijlage VIII, die bij dit ministerieel besluit is gevoegd.<br /><br />De cursisten moeten zich aanbieden voor een gemeenschappelijk examen van de verschillende centra per provincie. Dat examen is een gemeenschappelijk openboekexamen over de algemene starterscursus, in aanwezigheid van een jury en eventueel waarnemers van de erkende algemene centra, gevolgd door een socio-economische voorstelling van een bedrijf voor dezelfde jury en waarnemers van de erkende algemene centra. De bevoegde entiteit bepaalt de plaats en het tijdstip van het examen. Het examen wordt georganiseerd per provincie, afhankelijk van de behoeften.<br /><br />De cursisten die alleen een starterscursus type A als bijscholing hoeven te volgen, hoeven alleen het gemeenschappelijke openboekexamen over de starterscursus type A af te leggen. De cursisten die geslaagd zijn voor het openboekexamen, zijn ervan vrijgesteld bij een eventuele herkansing.<br /><br />
+Om te mogen deelnemen aan de installatieproeven, vermeld in artikel 20 van het besluit, moeten de cursisten, afhankelijk van het al behaalde opleidingsniveau, de naschoolse vormingsactiviteiten volgen, vermeld in bijlage VIII, die bij dit ministerieel besluit is gevoegd.<br /><br />De cursisten moeten zich aanbieden voor een gemeenschappelijk examen van de verschillende centra per provincie. Dat examen is een gemeenschappelijk openboekexamen over de algemene starterscursus, in aanwezigheid van een jury en eventueel waarnemers van de erkende algemene centra, gevolgd door een socio-economische voorstelling van een bedrijf voor dezelfde jury en waarnemers van de erkende algemene centra. De bevoegde entiteit bepaalt de plaats en het tijdstip van het examen. Het examen wordt georganiseerd per provincie, afhankelijk van de behoeften.<br /><br />De cursisten die alleen een starterscursus type A als bijscholing hoeven te volgen, hoeven alleen het gemeenschappelijke openboekexamen over de starterscursus type A af te leggen. De cursisten die geslaagd zijn voor het openboekexamen, zijn ervan vrijgesteld bij een eventuele herkansing.<br /><br />Het examenreglement is als bijlage IX bij dit besluit gevoegd. Dit examenreglement is verbindend voor de deelnemers aan de installatieproeven, de erkende algemene centra, de juryleden en de waarnemers die bij de installatieproeven betrokken zijn.<br /><br />
 
 ### ART. 20.
 
@@ -133,11 +133,11 @@ Het ministerieel besluit van 12 juli 2004 betreffende de toekenning van subsidie
 
 ### BIJLAGE I.
 
-1° Doel en situering van de algemene en bijzondere starterscursussen, de stages en de installatieproef<br />2° Betreffende algemene wetgeving :<br />a) ruimtelijke ordening en structuurplannen,<br />b) Mestdecreet,<br />c) milieuvergunningenbeleid en watervergunning,<br />d) EU-landbouwbeleid,<br />e) beheersovereenkomsten, <br />f) biologische landbouw,<br />g) code goede landbouwpraktijken,<br />h) enz. (evolutie).<br />3° Bedrijfsovername :<br />a) belangrijke facetten bij overname, overnamecontract,<br />b) VLIF.-ondernemerschap,<br />c) financieringsmogelijkheden bij starten + oefeningen,<br />d) uitbatingsvormen, vennootschappen,<br />e) schadeberekening in land- en tuinbouw,<br />f) pachtwetgeving, grondbeleid en onteigeningen,<br />g) erfdienstbaarheden,<br />h) huwelijksvermogensrecht en erfrecht,<br />i) verzekeringen, schadeberekening en aansprakelijkheid<br />4° Sociale, familiale en ethische aspecten :<br />a) sociaal statuut zelfstandigen, sociale zekerheid,<br />b) (tijdelijke) tewerkstelling van (vreemde) werknemers,<br />c) relatie gezin - bedrijf<br />5° Structuren in land- en tuinbouw :<br />a) diensten en instellingen voor de landbouw,<br />b) Landbouw op provinciaal, regionaal, federaal, Europees en mondiaal vlak<br />6° Fiscaliteit :<br />a) belastingaangifte : boekhouding en forfaitair,<br />b) btw- regeling.<br />7° Boekhouding<br />a) theorie,<br />b) praktijk,<br />c) bedrijfseconomische boekhouding,<br />d) rentabiliteit in :<br />1) land- en tuinbouw,<br />2) rundveehouderij,<br />3) varkenshouderij,<br />4) pluimvee en kleinvee,<br />5) fruitteelt,<br />6) groenteteelt,<br />7) sierteelt<br />8° Informatica : toepassingsmogelijkheden voor land- en tuinbouw<br /><br />
+Bijlage I. Programma van de starterscursussen type A als vermeld in artikel 3 van het ministerieel besluit van 26 november 2007 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector<br /><br />1° Doel en situering van de algemene en bijzondere starterscursussen, de stages en de installatieproef<br />2° Betreffende algemene wetgeving :<br />a) ruimtelijke ordening en structuurplannen<br />b) Mestdecreet<br />c) milieuvergunningenbeleid en watervergunning<br />d) EU-landbouwbeleid<br />e) beheersovereenkomsten<br />f) biologische landbouw<br />g) code goede landbouwpraktijken<br />h) enz. (evolutie)<br />3° Bedrijfsovername :<br />a) belangrijke facetten bij overname, overnamecontract<br />b) VLIF-ondernemerschap<br />c) financieringsmogelijkheden bij starten + oefeningen<br />d) uitbatingsvormen, vennootschappen<br />e) pachtwetgeving, grondbeleid en onteigeningen<br />f) erfdienstbaarheden<br />g) huwelijksvermogensrecht en erfrecht<br />h) verzekeringen, schadeberekening en aansprakelijkheid<br />4° Sociale, familiale en ethische aspecten :<br />a) sociaal statuut zelfstandigen, sociale zekerheid<br />b) (tijdelijke) tewerkstelling van (vreemde) werknemers<br />c) relatie gezin - bedrijf<br />5° Structuren in land- en tuinbouw :<br />a) diensten en instellingen voor de landbouw<br />b) landbouw op provinciaal, regionaal, federaal, Europees en mondiaal vlak<br />6° Fiscaliteit :<br />a) belastingaangifte : boekhouding en forfaitair<br />b) btw-regeling<br />7° Boekhouding :<br />a) theorie<br />b) praktijk<br />c) bedrijfseconomische boekhouding<br />d) rentabiliteit in diverse sectoren<br />8° Informatica : toepassingsmogelijkheden voor land- en tuinbouw
 
 ### BIJLAGE II.
 
-1° Economische en sociale benadering van de bedrijfstak :<br />a) rentabiliteit, kostprijsberekening,<br />b) boekhouding,<br />c) naargelang van de bedrijfstak :<br />d) specifieke belastingsstelsels,<br />e) specifiek personeelsbeleid,<br />f) gebruik van kwaliteitslabels en etikettering<br />2° Administratieve verplichtingen voor de specifieke bedrijfstak.<br />3° Milieuaspecten voor specifieke bedrijfstak :<br />a) naargelang van de bedrijfstak :<br />b) geïntegreerde productie,<br />c) duurzame productie,<br />d) mineralenbalans,<br />e) beperking gebruik van gewasbeschermingsmiddelen,<br />f) afstellen van meststofstrooiers en spuittoestellen,<br />g) sanitair aspect<br />4° Socio-economische voorstelling van een bedrijf<br />5° Bedrijfsbezoeken (voor zover geen sanitaire beperkingen)<br />6° Technische aspecten (teelttechniek, voeding, mechanisatie) : deze aspecten mogen niet meer dan de helft van de uren van de cursus in beslag nemen.<br /><br />
+Bijlage II. Programma van de starterscursussen type B als vermeld in artikel 4 van het ministerieel besluit van 26 november 2007 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector<br /><br />1° Economische en sociale benadering van de bedrijfstak :<br />a) rentabiliteit, kostprijsberekening<br />b) boekhouding<br />c) naargelang van de bedrijfstak :<br />a. specifieke belastingstelsels<br />b. specifiek personeelsbeleid<br />c. gebruik van kwaliteitslabels en etikettering<br />2° Administratieve verplichtingen voor de specifieke bedrijfstak<br />3° Milieuaspecten voor de specifieke bedrijfstak :<br />naargelang van de bedrijfstak :<br />a) geïntegreerde productie<br />b) duurzame productie<br />c) mineralenbalans<br />d) beperking gebruik van gewasbeschermingsmiddelen<br />e) verantwoorde huisvesting<br />f) sanitair aspect<br />4° Socio-economische voorstelling van een bedrijf<br />5° Bedrijfsbezoeken, voor zover geen sanitaire beperkingen die beletten<br />6° Technische aspecten, zoals teelttechniek, voeding, mechanisatie : deze aspecten mogen niet meer dan de helft van de uren van de cursus in beslag nemen.<br />
 
 ### BIJLAGE III.
 
@@ -377,97 +377,34 @@ Het ministerieel besluit van 12 juli 2004 betreffende de toekenning van subsidie
 
 ### BIJLAGE VIII.
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<p>Bijlage VIII. Toelatingsvoorwaarden voor de installatieproeven, vermeld in artikel 19 van het ministerieel besluit van 26 november 2007 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector<br>
+<br>
+</p>
+
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
-			<p>Vereiste vormingsactiviteiten om een installatieattest te verkrijgen<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>voorwaarde <!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>vereiste bijscholing</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:179.6pt">
-			<p>Voorwaarde:</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>1. getuigschrift of diploma van land- of tuinbouwgericht onderwijs : a) lager secundair onderwijs<br>
+			b) 2e graad secundair onderwijs<br>
+			c) 5e jaar secundair onderwijs<br>
+			2. getuigschrift of diploma van niet-landbouw gericht of niet-tuinbouwgericht onderwijs of geen getuigschrift of diploma<br>
+			3. minstens vijf jaar werkzaam op een landbouwbedrijf met het statuut van zelfstandig bedrijfsleider, zaakvoerder, meewerkende echtgenoot of zelfstandig helper</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99pt">
-			<p>Bijscholing gestart voor 1 juli 1996</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:182pt">
-			<p>Bijscholing gestart na 1 juli 1996</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:179.6pt">
-			<p>1. Getuigschrift of diploma van land- of tuinbouwgericht onderwijs:</p>
-
-			<p>- lager secundair onderwijs</p>
-
-			<p>&nbsp;</p>
-
-			<p>- 2<sup>de</sup> graad secundair onderwijs</p>
-
-			<p>&nbsp;</p>
-
-			<p>- 4 jaar secundair beroepsonderwijs + kwalificatiejaar</p>
-
-			<p>&nbsp;</p>
-
-			<p>2. Getuigschrift of diploma van niet-land- of tuinbouwgericht onderwijs of geen getuigschrift of diploma</p>
-
-			<p>&nbsp;</p>
-
-			<p>3. Minstens vijf jaar werkzaam op een landbouwbedrijf onder het statuut van meewerkende echtgenoot</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99pt">
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>B-cursus</p>
-
-			<p>&nbsp;</p>
-
-			<p>B-cursus</p>
-
-			<p>&nbsp;</p>
-
-			<p>B-cursus</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>B-cursus</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>B-cursus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:182pt">
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>Starterscursus type A + B + installatieproef</p>
-
-			<p>Starterscursus type A + B + installatieproef</p>
-
-			<p>Starterscursus type A +&nbsp; installatieproef</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>Starterscursus type A + B + stage + installatieproef</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>Starterscursus type A + B + installatieproef</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>starterscursus type A + B<br>
+			starterscursus type A + B<br>
+			starterscursus type A<br>
+			starterscursus type A + B + stage<br>
+			starterscursus type A + B</p>
 			</td>
 		</tr>
 	</tbody>
@@ -475,11 +412,14 @@ Het ministerieel besluit van 12 juli 2004 betreffende de toekenning van subsidie
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<p>De totaalduur van de stage is minstens twintig stagedagen.<br>
+<br>
+Een getuigschrift van een gevolgde B-cursus die gestart is voor 1 juli 1996, geeft zonder bijscholing recht op een installatieattest.<br>
+<br>
+Voor de opleidingen die gestart zijn tussen 1 juli 1996 en 1 januari 2005, zijn een B1- en een B3-cursus gelijkwaardig aan respectievelijk een starterscursus type A en een starterscursus type B.<br>
+<br>
+De deelnemer bewijst zijn statuut van zelfstandig bedrijfsleider, zaakvoerder, meewerkende echtgenoot of zelfstandig helper met een verklaring van de sociale kas waarbij hij is aangesloten. Een zelfstandig helper moet ook aanslagbiljetten voorleggen die aantonen dat hij voor de desbetreffende periode inkomsten uit de zelfstandige activiteit heeft aangegeven.</p>
 
-<p>De totaalduur van de gevolgde stages is minstens twintig stagedagen.<br>
-<br>
-Voor de opleidingen die gestart zijn tussen 1 juli 1996 en 1 januari 2005 zijn een B1- en een B3-cursus gelijkwaardig met respectievelijk een starterscursus type A en een starterscursus type B.<br>
-<br>
-Het statuut van meewerkende echtgenoot wordt aangetoond met een verklaring van de sociale kas waarbij hij is aangesloten. Het statuut van voor 1 maart 2003 mag eveneens aangetoond worden door fiscale bewijsstukken voor te leggen.<br>
-&nbsp;</p>
+### BIJLAGE IX
+
+Bijlage IX. Examenreglement als vermeld in artikel 19 van het ministerieel besluit van 26 november 2007 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector<br /><br />1. Examenagenda<br />De examens worden jaarlijks in elke provincie tweemaal georganiseerd. De bevoegde entiteit legt in overleg met de centra de examenagenda vast. De bevoegde entiteit kan een examen schrappen als minder dan zes deelnemers ingeschreven zijn.<br /><br />2. Inschrijving<br />De deelnemers kunnen ongeacht hun woonplaats in elke provincie aan het examen deelnemen. Kandidaten die niet geslaagd zijn voor een examen kunnen zich, na tijdige voorafgaande inschrijving, opnieuw aanmelden voor een volgend examen.<br />De deelnemers aan de proeven schrijven zich in via een erkend algemeen centrum door middel van een inschrijvingsformulier dat minstens de volgende gegevens van de deelnemer bevat :<br />a) voornaam en familienaam (zoals op de identiteitskaart);<br />b) straat en nummer;<br />c) postnummer en gemeente;<br />d) geboorteplaats en -datum;<br />e) rijksregisternummer;<br />f) plaats en datum van de installatieproef;<br />g) goedkeuringsnummers van de gevolgde starterscursussen type A en B en van de stages;<br />h) lijst van getuigschriften/attesten die aanleiding kunnen geven tot een vrijstelling.<br />Een model van het inschrijvingsformulier is terug te vinden op de website van de Vlaamse overheid : http://www.vlaanderen.be/formulieren.<br />De deelnemers die aanspraak kunnen maken op een vrijstelling voor een onderdeel van de opleiding, bezorgen samen met de inschrijving een kopie van de stavingsstukken die de vrijstelling aantonen.<br />De algemene centra bezorgen de inschrijvingsformulieren aan de bevoegde entiteit uiterlijk vijf werkdagen voor de aanvang van het schriftelijke examen.<br /><br />3. Verloop van de proeven<br />De installatieproef bestaat uit twee gedeelten, namelijk een schriftelijk openboekexamen en een socio-economische voorstelling van een bedrijf. <br />De cursisten die niet geslaagd zijn voor het openboekexamen worden niet toegelaten tot de socio-economische voorstelling van een bedrijf. De cursisten die alleen een starterscursus type A als bijscholing moeten volgen, zijn vrijgesteld van de socio-economische voorstelling van het bedrijf en hoeven alleen het schriftelijke openboekexamen af te leggen. De cursisten die geslaagd zijn voor het openboekexamen, zijn daarvan vrijgesteld bij een eventuele herkansing.<br /><br />3.1. Gemeenschappelijk openboekexamen<br />Het gemeenschappelijke examen verloopt met open boek. Dat houdt in dat de deelnemers alle schriftelijke informatie die ze nuttig vinden, mogen meebrengen en tijdens het examen mogen raadplegen.<br />De bevoegde entiteit stelt de examenvragenlijst op. De bevoegde entiteit kan aan de centra vragen om vragenlijsten voor het examen te leveren. In dat geval verbinden de centra zich ertoe de vragenlijsten die ze bij de bevoegde entiteit indienen, niet te verspreiden. Deelnemers van wie op het examen vastgesteld wordt dat zij in het bezit zijn van de vragenlijsten van een centrum, worden gelijkgesteld met niet-geslaagden.<br />Een kandidaat is geslaagd voor het openboekexamen als hij minstens 50 % van de punten behaalt.<br /><br />3.2. Socio-economische voorstelling van een bedrijf<br />De deelnemer geeft een mondelinge voorstelling van maximaal tien minuten van een land- of tuinbouwbedrijf. Hij kan daarbij gebruikmaken van alle nuttige documentatie die hij nodig acht. Na de voorstelling krijgt de jury de gelegenheid om vragen te stellen over de bedrijfsvoering op het voorgestelde bedrijf.<br />Het voorgestelde bedrijf kan het door de deelnemer over te nemen bedrijf, het stagebedrijf of een ander bedrijf zijn.<br />De jury beoordeelt :<br />a) de kwaliteit van de presentatie (10 punten);<br />b) de bekwaamheid van de kandidaat om de verschillende regelgevingen die in de startersopleiding aan bod kwamen, toe te passen op het voorgestelde bedrijf (10 punten);<br />c) het inzicht van de kandidaat in de kostenstructuur en de rentabiliteit van het voorgestelde bedrijf (10 punten);<br />d) het inzicht van de kandidaat in interne en externe factoren die een invloed kunnen hebben op de kostenstructuur en de rentabiliteit van het bedrijf (10 punten).<br />Een kandidaat is geslaagd voor het mondelinge gedeelte van de proef als hij minstens 50 % van de punten haalt op de totale proef en minstens 50 % van de punten op het totaal van onderdeel b), c) en d) van de beoordeling.<br />De uitslag van de jurering wordt op het einde van het examen genoteerd in een proces-verbaal.<br />De tijdens de presentatie en de vraagstelling aangebrachte gegevens zijn vertrouwelijk. De juryleden en de waarnemers mogen geen gegevens van de mondelinge proef verspreiden of voor andere doeleinden gebruiken.<br /><br />4. Jury<br />De jury wordt samengesteld overeenkomstig artikel 21 van het besluit.<br />De waarnemers van de algemene centra nemen niet deel aan de vraagstelling en de beraadslaging.<br />Bij gebrek aan unanimiteit bij de beoordelingen worden de beslissingen genomen bij meerderheid van stemmen, met uitsluiting van de onthoudingen. Bij staking van stemmen is de stem van de voorzitter doorslaggevend.<br /><br />5. Uitslag van het examen<br />De bevoegde entiteit deelt het resultaat van de examens schriftelijk mee aan de deelnemers en reikt de installatieattesten uit.
