@@ -184,19 +184,19 @@ Het oordeel van de Commissie wordt uiterlijk binnen een termijn van zeven werkda
 
 ### ART. VI.1.
 
-De bepalingen van deze afdeling zijn van toepassing op het gewoon basisonderwijs, op de eerste graad van het gewoon secundair onderwijs en op het structuuronderdeel anderstalige nieuwkomers.
+...
 
 ## ONDERAFDELING 1 GELIJKEKANSENINDICATOREN
 
 ### ART. VI.2.
 
-§ 1. Voor de toepassing van deze afdeling gelden volgende indicatoren, verder genoemd "gelijkekansenindicatoren":<br />1° het gezin ontvangt één of meerdere schooltoelagen zoals bedoeld in artikel 5, 34°, van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap;<br />2° de leerling is tijdelijk of permanent buiten het eigen gezinsverband opgenomen door een gezin of persoon, een voorziening of een sociale dienst, bedoeld in het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand, met uitzondering van de internaten gefinancierd of gesubsidieerd door het departement Onderwijs van het Ministerie van de Vlaamse Gemeenschap;<br />3° de ouders behoren tot de trekkende bevolking;<br />4° de moeder is niet in het bezit van een diploma van het secundair onderwijs, een studiegetuigschrift van het tweede leerjaar van de derde graad van het beroepssecundair onderwijs of van een daarmee gelijkwaardig studiebewijs;<br />5° de taal die de leerling in het gezin spreekt, dit is de taal die de leerling spreekt met moeder, vader, broers of zussen, is niet het Nederlands. Die taal is niet het Nederlands indien de leerling in het gezin met niemand of in een gezin met drie gezinsleden (de leerling niet meegerekend) met maximum één gezinslid het Nederlands spreekt. Broers en zussen worden als één gezinslid beschouwd.<br /><br />§ 2. Hetbeantwoorden aan de in § 1, 4° en 5°, bedoelde gelijkekansenindicatoren wordt bewezen aan de hand van een verklaring op eer door de ouders. De Vlaamse Regering bepaalt de wijze waarop het beantwoorden aan de in § 1, 1°, 2° en 3°, bedoelde gelijkekansenindicator wordt vastgesteld en legt de procedure vast volgens dewelke de gegevens worden gemeld aan het Vlaams Ministerie van Onderwijs en Vorming. Zij houdt daarbij rekening met de vigerende regelgeving inzake de bescherming van de persoonlijke levenssfeer.<br /><br />De documenten of verklaringen die aantonen dat leerlingen beantwoorden aan één of meer van de gelijkekansenindicatoren worden ten minste vijf jaar bewaard in de school.<br /><br />§ 3. De Vlaamse Regering kent aan elke gelijkekansenindicator een gewicht toe. Voor de eerste graad van het secundair onderwijs bepaalt zij tevens het maximum van de gecumuleerde gewichten, dat ten minste gelijk is aan het hoogste gewicht dat aan een gelijkekansenindicator wordt toegekend en ten hoogste gelijk is aan anderhalf maal dit hoogste gewicht.<br /><br />De hoogste gewichten worden toegekend aan de in § 1, 2° en 3°, bedoelde gelijkekansenindicatoren. De in § 1, 5°, bedoelde gelijkekansenindicator wordt enkel gewogen in combinatie met andere gelijkekansenindicatoren.
+...
 
 ## ONDERAFDELING 2 TOEKENNING VAN DE MIDDELEN
 
 ### ART. VI.3.
 
-Scholen kunnen voor een periode van drie schooljaren aanvullende lestijden of extra uren-leraar krijgen, voorzover ze aan alle onderstaande voorwaarden voldoen:<br />1° op 1 februari van het voorafgaand schooljaar ten minste 10 % regelmatige leerlingen tellen die beantwoorden aan één of meer van de in artikel VI.2, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren waarbij het aantal regelmatige leerlingen die enkel en alleen beantwoorden aan de in artikel VI.2, § 1, 1° of 1° en 5°, bedoelde gelijkekansenindicatoren wordt vermenigvuldigd met een door de Vlaamse Regering bepaalde coëfficiënt, die ten minste gelijk is aan 0,1 en ten hoogste gelijk is aan 1; en<br />2° overeenkomstig de bepalingen van artikel VI.4 batig gerangschikt zijn onder de in 1° bedoelde scholen en ten minste zes aanvullende lestijden of extra uren-leraar genereren.<br /><br />Wanneer een school op 1 januari van het voorgaande schooljaar vestigingsplaatsen heeft die niet in eenzelfde of aangrenzende gemeente of in het tweetalig gebied Brussel-Hoofdstad gelegen zijn, worden de verschillende vestigingsplaatsen voor de toepassing van de bepalingen van het eerste lid en van artikel VI.4 als school beschouwd.
+...
 
 ### ART. VI.3bis.
 
@@ -204,83 +204,83 @@ In afwijking van artikel VI.2, § 1, 1°, geldt voor het gewoon basisonderwijs i
 
 ### ART. VI.4.
 
-§ 1. De toekenning van de middelen gebeurt voor het basisonderwijs enerzijds en voor de eerste graad van het secundair onderwijs anderzijds driejaarlijks als volgt:<br />1° de in artikel VI.3 bedoelde scholen worden gerangschikt volgens het percentage leerlingen die beantwoorden aan één of meer van de in artikel VI.2. § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren, waarbij het aantal regelmatige leerlingen die enkel en alleen beantwoorden aan de in artikel VI.2, § 1, 1° of 1° en 5°, bedoelde gelijkekansenindicatoren wordt vermenigvuldigd met een door de Vlaamse Regering bepaalde coëfficiënt, die ten minste gelijk is aan 0,1 en ten hoogste gelijk is aan 1. Binnen eenzelfde percentage worden de scholen volgens het absoluut aantal van deze leerlingen gerangschikt; <br />2° de leerlingen genereren op basis van het gewicht van de gelijkekansenindicatoren die op hen van toepassing zijn een aantal punten;<br />3° het aantal punten van scholen met ten minste 80 % leerlingen die aan één of meer van de in artikel VI.2, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren beantwoorden, wordt vermenigvuldigd met een door de Vlaamse regering vastgelegde coëfficiënt, die ten minste gelijk is aan 1 en ten hoogste gelijk is aan 1,5;<br />4° het aantal punten van scholen in het tweetalig gebied Brussel-Hoofdstad wordt vermenigvuldigd met een door de Vlaamse regering vastgelegde coëfficiënt, die ten minste gelijk is aan 1 en ten hoogste gelijk is aan 1,5.<br /><br />§ 2. De Vlaamse regering bepaalt binnen de beschikbare begrotingskredieten hoeveel aanvullende lestijden of extra uren-leraar een punt vertegenwoordigt.<br /><br />De Vlaamse regering bepaalt tevens de regelen inzake de toekenning of herverdeling, tijdens een lopende periode van drie schooljaren, van nieuwe of vrijkomende aanvullende lestijden of extra uren-leraar.
+...
 
 ## ONDERAFDELING 3 AANWENDING VAN DE MIDDELEN
 
 ### ART. VI.5.
 
-§ 1. Een school die aanvullende lestijden of extra uren-leraar krijgt, werkt in het eerste trimester van het eerste schooljaar een gelijkekansenbeleid uit. Vanuit een analyse van haar beginsituatie geeft de school aan:<br /><br />1° welke concrete doelstelling zij op het vlak van leerlingen, van personeelsleden, respectievelijk van school wil bereiken. De Vlaamse regering bepaalt doelstellingen die kunnen worden gekozen binnen volgende themata: a) de preventie en remediëring van ontwikkelings- en leerachterstanden, b) taalvaardigheidsonderwijs, c) intercultureel onderwijs, d) doorstroming en oriëntering, e) socio-emotionele ontwikkeling, f) leerlingen- en ouderparticipatie; en<br /><br />2° op welke manier zij deze doelstellingen wil bereiken; en<br /><br />3° op welke manier zij zichzelf in de loop van het tweede trimester van het tweede schooljaar evalueert. De Vlaamse regering kan een model van zelfevaluatie vastleggen.<br /><br />§ 2. De aanvullende lestijden of extra uren-leraar kunnen enkel worden aangewend om de in § 1 bedoelde doelstellingen te bereiken.
+...
 
 ### ART. VI.6.
 
-De scholen betrekken in het ontwikkelen en realiseren van de in artikel VI.5, § 1, bedoelde doelstellingen het centrum voor leerlingenbegeleiding waardoor zij worden begeleid en de in artikel VI.21 bedoelde extra begeleiding.
+...
 
 ### ART. VI.7.
 
-De scholen werken mee aan driejaarlijkse evaluaties aan de hand van steekproeven die het departement Onderwijs van het Ministerie van de Vlaamse Gemeenschap uitvoert. De evaluaties meten de doelma-tigheid, op macroniveau, van het geïntegreerd ondersteuningsaanbod.
+...
 
 ### ART. VI.8.
 
-§ 1. De onderwijsinspectie gaat telkens in de loop van het derde schooljaar na of, en in welke mate, de doelstellingen werden bereikt. Het bereiken van de doelstellingen wordt afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />Bij positieve evaluatie kan de school voor een nieuwe periode van drie schooljaren aanvullende lestijden of extra uren-leraar krijgen indien opnieuw aan alle voorwaarden van artikel VI.3 voldaan is.<br /><br />Bij negatieve evaluatie verliest de school het recht op de in artikel VI.3 bedoelde aanvullende lestijden of extra uren-leraar voor de volgende periode van drie schooljaren tenzij de school een engagement tot remediëring aangaat. <br />In dat geval krijgen ze de helft van het aantal aanvullende lestijden of extra uren-leraar waarop ze in geval van positieve evaluatie recht zouden hebben.<br /><br />Een engagement tot remediëring moet aan volgende voorwaarden voldoen :<br />1° de scholen verbinden er zich toe een stappenplan op te stellen dat voldoet aan de volgende criteria :<br />a) het uitgangspunt van het stappenplan zijn de geformuleerde knelpunten in het evaluatieverslag van de onderwijsinspectie van de betrokken school;<br />b) de geformuleerde doelstellingen tot remediëring in het stappenplan passen binnen de doelstellingen zoals geformuleerd in artikel VI.5, § 1, 1°, van het decreet;<br />c) de doelstellingen zijn outputgericht, concreet en operationeel geformuleerd. Ze moeten voldoende controleerbaar zijn;<br />d) het stappenplan wordt vóór 1 mei van het schooljaar volgend op de negatieve evaluatie aan de onderwijsinspectie bezorgd;<br />e) de doelstellingen dienen gerealiseerd te zijn vóór 1 juni van het schooljaar volgend op de negatieve evaluatie;<br />2° de scholen verbinden er zich toe om een beroep te doen op externe begeleiding en ondersteuning bij het opstellen en de uitvoering van het stappenplan.<br /><br />De onderwijsinspectie gaat in de maand juni van het schooljaar volgend op de negatieve evaluatie opnieuw na of, en in welke mate, de doelstellingen werden bereikt. Het bereiken van de doelstellingen wordt afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />Bij een positieve evaluatie zal de school vanaf het tweede schooljaar terug een beroep kunnen doen op het volledige aantal in artikel VI.3 bedoelde lestijden of uren-leraar. Bij een negatieve evaluatie verliest de school het recht op de in artikel VI.3 bedoelde aanvullende lestijden of op extra uren-leraar voor de volgende twee schooljaren.<br /><br />§ 2. De Vlaamse regering legt de nadere criteria en procedurele bepalingen volgens dewelke de controle door de onderwijsinspectie geschiedt, vast.<br /><br />Zij voorziet in een beroepsmogelijkheid voor de school tegen een negatieve evaluatie. Het beroep wordt ingesteld bij een college van inspecteurs.
+...
 
 ## ONDERAFDELING 4 OVERGANGSMAATREGELEN
 
 ### ART. VI.9.
 
-De Vlaamse regering voorziet voor het schooljaar 2002-2003 in overgangsmaatregelen.<br /><br />In functie van deze overgangsmaatregelen wordt het aantal extra lestijden of uren-leraar onderwijsvoorrang en/of zorgverbreding dat een school in het schooljaar 2001-2002 kreeg, vergeleken met het aantal aanvullende lestijden of uren-leraar verkregen in toepassing van artikel VI.3 en VI.4.<br /><br />Voor scholen met een vastgelegd percentage leerlingen die aan één of meer van de in artikel VI.2, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren voldoen, wordt het verlies van een vastgelegd aantal lestijden of uren-leraar aangepast volgens een door de Vlaamse regering bepaalde sleutel.<br /><br />Voor scholen met een vastgelegd percentage leerlingen die aan één of meer van de in artikel VI.2, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren voldoen, wordt de winst aan lestijden of urenleraar aangepast volgens een door de Vlaamse regering bepaalde sleutel.
+...
 
 ## AFDELING 2 TWEEDE EN DERDE GRAAD VAN HET SECUNDAIR ONDERWIJS
 
 ### ART. VI.10.
 
-De bepalingen van deze afdeling zijn van toepassing op de tweede en derde graad van het gewoon secundair onderwijs.
+...
 
 ## ONDERAFDELING 1 GELIJKEKANSENINDICATOREN
 
 ### ART. VI.11.
 
-§ 1. Voor de toepassing van deze afdeling gelden volgende indicatoren, verder genoemd « gelijkekansenindicatoren » :<br />1° het gezin ontvangt één of meerdere schooltoelage(n) zoals bedoeld in artikel 5, 34°, van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap;<br />2° de leerling is tijdelijk of permanent buiten het eigen gezinsverband opgenomen door een gezin of persoon, een voorziening of een sociale dienst, bedoeld in de gecoördineerde decreten van 4 april 1990 inzake bijzondere jeugdbijstand, met uitzondering van de internaten gefinancierd of gesubsidieerd door het Vlaams Ministerie van Onderwijs en Vorming;<br />3° de ouders behoren tot de trekkende bevolking;<br />4° de moeder is niet in het bezit van een diploma van het secundair onderwijs, een studiegetuigschrift van het tweede leerjaar van de derde graad van het beroepssecundair onderwijs of van een daarmee gelijkwaardig studiebewijs;<br />5° de taal die de leerling in het gezin spreekt, dit is de taal die de leerling spreekt met moeder, vader, broers of zussen, is niet het Nederlands. Die taal is niet het Nederlands indien de leerling in het gezin met niemand of in een gezin met drie gezinsleden (de leerling niet meegerekend) met maximum één gezinslid het Nederlands spreekt. Broers en zussen worden als één gezinslid beschouwd.<br /><br />§ 2. Het beantwoorden aan de in § 1, 4° en 5°, bedoelde gelijkekansenindicatoren wordt bewezen aan de hand van een verklaring op eer door de ouders. De Vlaamse Regering bepaalt de wijze waarop het beantwoorden aan de in § 1, 1°, 2° en 3°, bedoelde gelijkekansenindicator wordt vastgesteld en legt de procedure vast volgens dewelke de gegevens worden gemeld aan het Vlaams Ministerie van Onderwijs en Vorming. Zij houdt daarbij rekening met de vigerende regelgeving inzake de bescherming van de persoonlijke levenssfeer.<br /><br />De documenten of verklaringen die aantonen dat leerlingen beantwoorden aan één of meer van de gelijkekansenindicatoren worden ten minste vijf jaar bewaard in de school.<br /><br />§ 3. De Vlaamse Regering kent aan elke gelijkekansenindicator een gewicht toe. Zij bepaalt tevens het maximum van de gecumuleerde gewichten, dat ten minste gelijk is aan het hoogste gewicht dat aan een gelijkekansenindicator wordt toegekend en ten hoogste gelijk is aan anderhalf maal dit hoogste gewicht.<br /><br />De hoogste gewichten worden toegekend aan de in § 1, 2° en 3°, bedoelde gelijkekansenindicatoren. De in § 1, 5°, bedoelde gelijkekansenindicator wordt enkel gewogen in combinatie met andere gelijkekansenindicatoren.
+..
 
 ## ONDERAFDELING 2 TOEKENNING VAN DE MIDDELEN
 
 ### ART. VI.12.
 
-Scholen kunnen voor een periode van drie schooljaren extra uren-leraar/puntenwaarden krijgen, voor zover ze aan alle onderstaande voorwaarden voldoen :<br />1° op 1 februari van het voorafgaand schooljaar ten minste 25 % regelmatige leerlingen tellen die beantwoorden aan één of meer van de in artikel VI.11, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren, waarbij het aantal regelmatige leerlingen die enkel en alleen beantwoorden aan de in artikel VI.11, § 1, 1° of 1° en 5°, bedoelde gelijkekansenindicatoren wordt vermenigvuldigd met een door de Vlaamse Regering bepaalde coëfficiënt, die ten minste gelijk is aan 0,1 en ten hoogste gelijk is aan 1; en<br />2° overeenkomstig de bepalingen van artikel VI.13 batig gerangschikt zijn onder de in 1° bedoelde scholen en ten minste zes extra uren-leraar genereren.<br /><br />De inrichtende machten bepalen of de extra ondersteuning uren-leraar en/of puntenwaarden betreft.
+...
 
 ### ART. VI.13.
 
-§ 1. De toekenning van de extra uren leraar/puntenwaarden gebeurt voor de tweede en derde graad van het gewoon voltijds secundair onderwijs driejaarlijks als volgt :<br />1° de in artikel VI.12 bedoelde scholen worden gerangschikt volgens het percentage leerlingen die beantwoorden aan één of meer van de in artikel VI.11. § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren, waarbij het aantal regelmatige leerlingen die enkel en alleen beantwoorden aan de in artikel VI.11, § 1, 1° of 1° en 5°, bedoelde gelijkekansenindicatoren wordt vermenigvuldigd met een door de Vlaamse Regering bepaalde coëfficiënt, die ten minste gelijk is aan 0,1 en ten hoogste gelijk is aan 1. Binnen eenzelfde percentage worden de scholen volgens het absolute aantal van deze leerlingen gerangschikt;<br />2° de leerlingen genereren op basis van het gewicht van de gelijkekansenindicatoren die op hen van toepassing zijn een aantal punten;<br />3° het aantal punten van scholen met ten minste 80 % leerlingen die aan één of meer van de in artikel VI.11, § 1, 1°, 2°, 3° en 4°, bedoelde gelijkekansenindicatoren beantwoorden, wordt vermenigvuldigd met een door de Vlaamse Regering vastgelegde coëfficiënt, die ten minste gelijk is aan 1 en ten hoogste gelijk is aan 1,5;<br />4° het aantal punten van scholen in het tweetalig gebied Brussel-Hoofdstad wordt vermenigvuldigd met een door de Vlaamse Regering vastgelegde coëfficiënt, die ten minste gelijk is aan 1 en ten hoogste gelijk is aan 1,5.<br /><br />§ 2. De Vlaamse Regering bepaalt binnen de beschikbare begrotingskredieten hoeveel extra uren-leraar/puntenwaarden een punt vertegenwoordigt.<br /><br />De Vlaamse Regering bepaalt tevens de regelen inzake de toekenning of herverdeling, tijdens een lopende periode van drie schooljaren, van nieuwe of vrijkomende extra uren-leraar/puntenwaarden.
+..
 
 ## ONDERAFDELING 3 AARD VAN DE MIDDELEN
 
 ### ART. VI.14.
 
-De extra uren-leraar worden uitgeoefend in het ambt van leraar of van godsdienstleraar. Met de puntenwaarden worden halftijdse of voltijdse betrekkingen opgericht in het ambt van opvoeder.
+...
 
 ## ONDERAFDELING 4 AANWENDING VAN DE MIDDELEN
 
 ### ART. VI.15.
 
-§ 1. Een school die extra uren-leraar/puntenwaarden krijgt, werkt in het eerste trimester van het eerste schooljaar een gelijkekansenbeleid uit. Vanuit een analyse van haar beginsituatie geeft de school aan:<br /><br />1° welke concrete doelstelling zij op het vlak van leerlingen, van personeelsleden, respectievelijk van school wil bereiken. De Vlaamse regering bepaalt doelstellingen die kunnen worden gekozen binnen volgende themata: a) de preventie en remediëring van studie- en gedragsproblemen, b) taalvaardigheidsonderwijs, c) intercultureel onderwijs, d) de oriëntering bij instroom en uitstroom, e) leerlingen- en ouderparticipatie; en<br /><br />2° op welke manier zij deze doelstellingen wil bereiken, en<br /><br />3° op welke manier zij zichzelf in de loop van het tweede trimester van het tweede schooljaar evalueert. De Vlaamse regering kan een model van zelfevaluatie vastleggen.<br /><br />§ 2. De extra uren-leraar/puntenwaarden kunnen enkel worden aangewend om de in § 1 bedoelde doelstellingen te bereiken.
+...
 
 ### ART. VI.16.
 
-De scholen betrekken in het ontwikkelen en realiseren van de in artikel VI.15, § 1, bedoelde doelstellingen het centrum voor leerlingenbegeleiding waardoor zij worden begeleid en de in artikel VI.21 bedoelde extra begeleiding.
+...
 
 ### ART. VI.17.
 
-De scholen werken mee aan driejaarlijkse evaluaties aan de hand van steekproeven die het departement Onderwijs van het Ministerie van de Vlaamse Gemeenschap uitvoert. De evaluaties meten de doelma-tigheid, op macroniveau, van het ge´ntegreerd ondersteuningsaanbod.
+...
 
 ### ART. VI.18.
 
-§ 1. De onderwijsinspectie gaat telkens in de loop van het derde schooljaar na of, en in welke mate, de doelstellingen werden bereikt. Het bereiken van de doelstellingen wordt afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />Bij positieve evaluatie kan de school voor een nieuwe periode van drie schooljaren extra uren-leraar/puntenwaarden krijgen indien opnieuw aan alle voorwaarden van artikel VI.12 voldaan is.<br />Bij negatieve evaluatie verliest de school het recht op de in artikel VI.13 bedoelde extra uren-leraar/puntenwaarden voor de volgende periode van drie schooljaren tenzij de school een engagement tot remediëring aangaat. In dat geval krijgen ze de helft van het aantal extra uren-leraar/puntenwaarden waarop ze in geval van positieve evaluatie recht zouden hebben.<br /><br />Een engagement tot remediëring moet aan volgende voorwaarden voldoen :<br />1° de scholen verbinden er zich toe een stappenplan op te stellen dat voldoet aan de volgende criteria :<br />a) het uitgangspunt van het stappenplan zijn de geformuleerde knelpunten in het evaluatieverslag van de onderwijsinspectie van de betrokken school;<br />b) de geformuleerde doelstellingen tot remediëring in het stappenplan passen binnen de doelstellingen zoals geformuleerd in artikel VI.15, § 1, 1°;<br />c) de doelstellingen zijn outputgericht, concreet en operationeel geformuleerd. Ze moeten voldoende controleerbaar zijn;<br />d) het stappenplan moet vóór 1 mei van het schooljaar volgend op de negatieve evaluatie aan de onderwijsinspectie bezorgd worden;<br />e) de doelstellingen dienen gerealiseerd te zijn vóór 1 juni van het schooljaar volgend op de negatieve evaluatie;<br />2° de scholen verbinden er zich toe om een beroep te doen op externe begeleiding en ondersteuning bij het opstellen en de uitvoering van het stappenplan.<br /><br />De onderwijsinspectie gaat in de maand juni van het schooljaar volgend op de negatieve evaluatie opnieuw na of, en in welke mate, de doelstellingen werden bereikt. Het bereiken van de doelstellingen wordt afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />Bij een positieve evaluatie zal de school vanaf het tweede schooljaar terug een beroep kunnen doen op het volledige aantal in artikel VI.13 bedoelde extra uren-leraar/puntenwaarden. Bij een negatieve evaluatie verliest de school het recht op de in artikel VI.13 bedoelde extra uren-leraar/puntenwaarden voor de volgende twee schooljaren. <br /><br />§ 2. De Vlaamse regering legt de nadere criteria en procedurele bepalingen volgens dewelke de controle door de onderwijsinspectie geschiedt vast.<br /><br />Zij voorziet in een beroepsmogelijkheid voor de school tegen een negatieve evaluatie. Het beroep wordt ingesteld bij een college van inspecteurs.
+...
 
 ## ONDERAFDELING 5 OVERGANGSMAATREGELEN
 
 ### ART. VI.19.
 
-De Vlaamse regering voorziet voor het schooljaar 2002-2003 in overgangsmaatregelen.<br /><br />In functie van deze overgangsmaatregelen wordt het aantal extra uren-leraar onderwijsvoorrang en/of het aantal in uren-leraar omgezette extra betrekkingen in het kader van het tijdelijk project "bijzondere noden" die een school in het schooljaar 2001-2002 kreeg, vergeleken met het aantal extra uren-leraar verkregen in toepassing van artikel VI.12 en VI.13.<br /><br />Het verlies/de winst van een vastgelegd aantal uren-leraar wordt aangepast volgens een door de Vlaamse regering bepaalde sleutel.
+...
 
 ### ART. VI.19bis.
 
@@ -290,7 +290,7 @@ De Vlaamse Regering voorziet voor het schooljaar 2008-2009, 2009-2010 en 2010-20
 
 ### ART. VI.20.
 
-De Vlaamse regering voorziet voor de schooljaren 2002-2003 en 2003-2004 in een tijdelijke maatregel voor de scholengemeenschappen.<br /><br />In functie van deze tijdelijke maatregel wordt:<br /><br />1° het aantal extra uren-leraar onderwijsvoorrang en/of het aantal in uren-leraar omgezette extra betrekkingen in het kader van het tijdelijk project "bijzondere noden" die werden verkregen in het schooljaar 2001-2002, op het niveau van de scholengemeenschap vergeleken met het aantal extra uren-leraar, verkregen in toepassing van dit decreet voor het schooljaar 2002-2003;<br /><br />2° het aantal extra uren-leraar, verkregen in toepassing van dit decreet voor het schooljaar 2002-2003 op het niveau van de scholengemeenschap vergeleken met het aantal extra uren-leraar, verkregen in toepassing van dit decreet voor het schooljaar 2003-2004.<br /><br />Het verlies aan uren-leraar wordt in 2002-2003 en in 2003-2004 binnen de beschikbare begrotingskredieten aangepast volgens een door de Vlaamse regering bepaalde sleutel. De aldus verkregen urenleraar worden verdeeld over de scholen overeenkomstig de bepalingen van artikel 71, 4°, van het decreet houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs.
+...
 
 ## AFDELING 4 EXTRA BEGELEIDING
 
@@ -302,37 +302,37 @@ De Vlaamse regering voorziet voor de schooljaren 2002-2003 en 2003-2004 in een t
 
 ### ART. VI.22.
 
-De bepalingen van deze afdeling zijn van toepassing op de scholen van buitengewoon basisonderwijs en op de scholen van buitengewoon secundair onderwijs.
+...
 
 ## [Onderafdeling 1. Gelijkekansenindicatoren (ing. decr. 8 mei 2009, art. IX.7, I: 1 september 2009)]
 
 ### ART. VI.23.
 
-§ 1. Voor de toepassing van deze afdeling gelden de volgende indicatoren, verder genoemd « gelijkekansenindicatoren » :<br />1° de moeder is niet in het bezit van een diploma van het secundair onderwijs, een studiegetuigschrift van het tweede leerjaar van de derde graad van het beroepssecundair onderwijs of van een daarmee gelijkwaardig studiebewijs;<br />2° de taal die de leerling in het gezin spreekt, dit is de taal die de leerling spreekt met moeder, vader, broers of zussen, is niet het Nederlands. Die taal is niet het Nederlands indien de leerling in het gezin met niemand of in een gezin met drie gezinsleden (de leerling niet meegerekend) met maximaal één gezinslid het Nederlands spreekt. Broers en zussen worden als één gezinslid beschouwd. <br /><br />§ 2. Het beantwoorden aan de in § 1 vermelde gelijkekansenindicatoren wordt bewezen aan de hand van een verklaring op eer door de ouders. De Vlaamse Regering legt de procedure vast waarmee de gegevens worden gemeld aan het Vlaams ministerie van Onderwijs en Vorming. Zij houdt daarbij rekening met de vigerende regelgeving inzake de bescherming van de persoonlijke levenssfeer.<br /><br />De documenten of verklaringen die aantonen dat leerlingen aan een of meer van de gelijkekansindicatoren beantwoorden, worden ten minste vijf jaar bewaard op school.<br /><br />§ 3. De Vlaamse Regering kent aan elke gelijkekansenindicator een gewicht toe. Het hoogste gewicht wordt toegekend aan de in § 1, 1°, bedoelde gelijkekansenindicator. De in § 1, 2°, bedoelde gelijkekansenindicator wordt enkel gewogen in combinatie met de andere gelijkekansenindicator.
+...
 
 ## [Onderafdeling 2. Toekenning van de middelen (ing. decr. 8 mei 2009, art. IX.7, I: 1 september 2009)]
 
 ### ART. VI.24.
 
-§ 1. Scholen kunnen voor een periode van drie schooljaren aanvullende lestijden of extra lesuren krijgen voor zover ze aan alle onderstaande voorwaarden voldoen :<br />1° op 1 februari van het voorafgaande schooljaar ten minste 40 % externe en semi-interne regelmatige leerlingen type 1 en type 3 tellen, die beantwoorden aan de in artikel VI.23, § 1, 1°, bedoelde gelijkekansenindicator; <br />2° overeenkomsting de bepalingen van artikel VI.25 batig gerangschikt zijn onder de in punt 1°, bedoelde scholen en ten minste 6 aanvullende lestijden of 6 extra lesuren genereren.<br /><br />§ 2. In afwijking van § 1 krijgen scholen gedurende de schooljaren 2009-2010 en 2010-2011 slechts voor een periode van twee schooljaren aanvullende lestijden of extra lesuren.<br /><br />§ 3. De Vlaamse Regering voorziet voor de schooljaren 2009-2010 en 2010-2011 in een sociale overgangsmaatregel voor de scholen die in het schooljaar 2008-2009 lesuren voor het voeren van een onderwijsvoorrangsbeleid kregen.
+...
 
 ### ART. VI.25.
 
-§ 1. De toekenning van de middelen gebeurt voor het basisonderwijs enerzijds en voor het secundair onderwijs anderzijds driejaarlijks als volgt :<br />1° de in artikel VI.24 bedoelde scholen worden gerangschikt volgens het percentage leerlingen die beantwoorden aan de in artikel VI.23, § 1, 1°, bedoelde gelijkekansenindicator. Binnen eenzelfde percentage worden de scholen volgens het absolute aantal van die leerlingen gerangschikt;<br />2° de leerlingen genereren een aantal punten op basis van het gewicht van de gelijkekansenindicatoren die op hen van toepassing zijn.<br /><br />§ 2. De Vlaamse Regering bepaalt binnen de beschikbare begrotingskredieten hoeveel aanvullende lestijden of extra lesuren een punt vertegenwoordigt.<br /><br />De Vlaamse Regering bepaalt de personeelscategorieën en ambten waarin op basis van de aanvullende lestijden of extra lesuren betrekkingen kunnen worden ingericht.<br /><br />De Regering bepaalt tevens de regelen inzake de toekenning of herverdeling, tijdens een lopende periode van drie schooljaren, van nieuwe of vrijkomende aanvullende lestijden of extra lesuren.<br /><br />§ 3. In de lestijden of lesuren bekomen op basis van artikel VI.24, § 3, kunnen geen personeelsleden vastbenoemd worden.
+..
 
 ## [Onderafdeling 3. Aanwending van de middelen (ing. decr. 8 mei 2009, art. IX.7, I: 1 september 2009)]
 
 ### ART. VI.26.
 
-§ 1. Een school die aanvullende lestijden of extra lesuren krijgt, werkt in het eerste trimester van het eerste schooljaar een gelijkekansenbeleid uit. Vanuit een analyse van haar beginsituatie geeft de school aan :<br />1° welke concrete doelstellingen ze op het vlak van de leerlingen, van de personeelsleden en de school wil bereiken. De Vlaamse Regering bepaalt doelstellingen die kunnen worden gekozen binnen de volgende thema's : <br />a) een gericht aanbod rond taalvaardigheid;<br />b) het aanbieden van onderwijsgerichte opvoedingsondersteuning aan ouders;<br />c) het opnemen van de (laagdrempelige) sociale functie in een netwerk met partners uit andere sectoren; <br />2° op welke manier zij die doelstellingen wil bereiken;<br />3° op welke manier zij zichzelf in de loop van het tweede trimester van het tweede schooljaar evalueert.<br /><br />§ 2. De aanvullende lestijden of extra lesuren kunnen enkel worden aangewend om de in § 1 bedoelde doelstellingen te bereiken.
+...
 
 ### ART. VI.27.
 
-De scholen betrekken in het ontwikkelen en realiseren van de in artikel VI.26, § 1, bedoelde doelstellingen het centrum voor leerlingenbegeleiding waardoor ze worden begeleid.
+...
 
 ### ART. VI.28.
 
-§ 1. De onderwijsinspectie gaat telkens in de loop van het laatste schooljaar na of, en in welke mate, de doelstellingen werden bereikt. Het bereiken van de doelstellingen wordt afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />Bij een positieve evaluatie kan de school voor een nieuwe periode van drie schooljaren aanvullende lestijden of extra lesuren krijgen indien opnieuw aan alle voorwaarden van artikel VI.24 voldaan is.<br /><br />Bij een negatieve evaluatie verliest de school elk recht op de in artikel VI.24 bedoelde aanvullende lestijden of extra lesuren voor de volgende periode van drie schooljaren, tenzij de school een engagement tot remediëring aangaat. In dat geval krijgt ze de helft van het aantal aanvullende lestijden of extra lesuren waarop ze in geval van positieve evaluatie recht zou hebben.<br /><br />Een engagement tot remediëring moet aan de volgende voorwaarden voldoen :<br />1° de scholen verbinden er zich toe een stappenplan op te stellen dat aan de volgende criteria voldoet :<br />a) het uitgangspunt van het stappenplan zijn de geformuleerde knelpunten in het evaluatieverslag van de onderwijsinspectie van de betrokken school;<br />b) de geformuleerde doelstellingen tot remediëring in het stappenplan passen binnen de doelstellingen van artikel VI.26, § 1, 1°, van het decreet;<br />c) de doelstellingen zijn outputgericht, concreet en operationeel geformuleerd. Ze moeten voldoende controleerbaar zijn;<br />d) het stappenplan wordt vóór 1 mei van het schooljaar dat op de negatieve evaluatie volgt, aan de onderwijsinspectie bezorgd;<br />e) de doelstellingen moeten gerealiseerd zijn vóór 1 juni van het schooljaar volgend op de negatieve evaluatie;<br />2° de scholen verbinden er zich toe om een beroep te doen op externe begeleiding en ondersteuning bij het opstellen en de uitvoering van het stappenplan.<br /><br />De onderwijsinspectie gaat in de maand juni van het schooljaar dat op de negatieve evaluatie volgt, opnieuw na of, en in welke mate, de doelstellingen werden bereikt. Het bereiken van de doelstellingen wordt afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />Bij een positieve evaluatie kan de school vanaf het tweede schooljaar weer een beroep doen op het volledige aantal van de in artikel VI.24 bedoelde aanvullende lestijden of extra lesuren begeleidingseenheden. Bij een negatieve evaluatie verliest de school het recht op de in artikel VI.24 bedoelde aanvullende lestijden of extra lesuren voor de volgende twee schooljaren.<br /><br />§ 2. De Vlaamse Regering legt de nadere criteria en procedurele bepalingen, waarmee de onderwijsinspectie de controle uitvoert, vast.<br /><br />Ze voorziet voor de school in een beroepsmogelijkheid tegen een negatieve evaluatie. Het beroep wordt ingesteld bij een college van inspecteurs.
+...
 
 ## HOOFDSTUK VII [... (opgeh. Decr. 22 juni 2007, art. IX.32, I: 1 september 2007)]
 
@@ -450,11 +450,11 @@ De onderwijsinspectie evalueert de projecten op het einde van het schooljaar 200
 
 ### ART. X.1.
 
-[Tijdens de schooljaren 2002-2003, 2003-2004 en 2004-2005  <span class="reference">(verv. decr. 7 mei 2004, art. 49, I: 1 september 2004)</span> ] behouden de scholen:<br /><br />1° de extra lestijden [...  <span class="reference">(geschr. decr. 15 juli 2005, art. IX.11, I: 1 september 2002)</span> ] onderwijsvoorrang in het buitengewoon basisonderwijs, die zij in het schooljaar 2001-2002 ontvingen;<br /><br />2° de extra lestijden [...  <span class="reference">(geschr. decr. 15 juli 2005, art. IX.11, I: 1 september 2002)</span> ] die zij in het schooljaar 2001-2002 ontvingen in het kader van het besluit van de Vlaamse regering van 19 januari 1999 betreffende de toekenning van extra lestijden voor scholen van het basisonderwijs in de rand- en taalgrensgemeenten.<br /><br />[3° de extra uren-leraar onderwijsvoorrang in het buitengewoon secundair onderwijs, die zij in het schooljaar 1999-2000 ontvingen, tenzij in de betrokken scholen het aantal doelgroepleerlingen daalt.  <span class="reference">(ing. decr. 15 juli 2005, art. IX.11, I: 1 september 2002)</span> ]
+...
 
 ### ART. X.1bis.
 
-§ 1. Tijdens de schooljaren 2005-2006, 2006-2007, 2007-2008 en 2008-2009 behouden de scholen de extra lestijden onderwijsvoorrang in het buitengewoon basisonderwijs, die zij in het schooljaar 2001-2002 ontvingen.<br /><br />§ 2. Tijdens de schooljaren 2005-2006, 2006-2007, 2007-2008 en 2008-2009 behouden de scholen de extra uren-leraar onderwijsvoorrang in het buitengewoon secundair onderwijs, die zij in het schooljaar 2004-2005 ontvingen.
+...
 
 ### ART. X.2.
 
