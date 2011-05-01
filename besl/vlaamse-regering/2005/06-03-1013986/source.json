@@ -2,16 +2,16 @@
   "codex_id": 1013986,
   "title": "Besluit van de Vlaamse Regering van 2005-06-03 met betrekking tot de organisatie van de Vlaamse administratie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013986/VolledigDocument?datum=2011-02-25",
-  "source_sha256": "8662a3aa0dd65bbc2d9d507f26d5f3717ab0d4b5a0a3cafd102ee2054e2d14a6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013986/VolledigDocument?datum=2011-05-01",
+  "source_sha256": "3891786ad77e7e6d561dc1561272662de5c3aefb8c81ed008ffeee8295ba4d5d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013986&param=informatie",
-  "as_of": "2011-02-25",
+  "as_of": "2011-05-01",
   "made": "2005-06-03",
   "gazette": "2005-09-22",
   "numac": 2005036144,
   "document_start": "2006-01-01",
   "document_end": null,
-  "in_force": "2011-02-25",
+  "in_force": "2011-05-01",
   "article_versions": 42,
-  "record_form": "consolidated version as in force on 2011-02-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-05-01; future article versions excluded; article text as the API gives it"
 }
