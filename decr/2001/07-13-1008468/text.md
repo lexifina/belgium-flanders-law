@@ -192,7 +192,7 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2001, met uitzo
 
 ### ART. IV. 14.
 
-De Vlaamse regering deelt de opleidingsvorm 3 van het buitengewoon secundair beroepsonderwijs op in opleidingen die tevens worden ingericht in het voltijds beroeps- en technisch secundair onderwijs, het deeltijds beroepssecundair onderwijs en het secundair onderwijs voor sociale promotie.<br /><br />Voor elk van deze opleidingen worden de competenties, de nodige algemene en sociale vaardigheden en de sleutelvaardigheden vastgelegd in opleidingsprofielen.<br /><br />De Vlaamse regering bepaalt de procedure en de modaliteiten van omzetting van de voor de inwerkingtreding van dit decreet bestaande beroepenvelden, afdelingen en kwalificatietechnieken naar de in het eerste lid bedoelde opleidingen.<br /><br />De omzetting van de bestaande afdelingen naar opleidingen wordt niet beschouwd als een programmatie of omvorming zoals bedoeld in artikel 35, 61 en § 3 van het koninklijk besluit nr. 439 van 11 augustus 1986 houdende rationalisatie en programmatie van het buitengewoon onderwijs.
+...
 
 ### ART. IV. 15.
 
@@ -244,23 +244,23 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2001, behalve<b
 
 ### ART. V. 9.
 
-Een inrichtende macht mag informatie verstrekken over het eigen opvoedingsproject en het onderwijsaanbod, maar zij mag geen oneerlijke concurrentie voeren.
+...
 
 ### ART. V. 10.
 
-Er mag geen politieke propaganda worden gevoerd in een onderwijsinstelling.
+...
 
 ### ART. V. 11.
 
-Een inrichtende macht kan handelsactiviteiten verrichten, voor zover deze geen daden van koop-handel zijn en voorzover ze verenigbaar zijn met haar onderwijsopdracht.
+...
 
 ### ART. V. 12.
 
-Een inrichtende macht die sponsoring of mededelingen die rechtstreeks of onrechtstreeks ten doel hebben de verkoop van producten of diensten te bevorderen, toelaat, waakt erover dat:<br /><br />1° door de inrichtende macht verstrekte leermiddelen vrij blijven van bedoelde mededelingen;<br /><br />2° activiteiten vrij blijven van bedoelde mededelingen, behoudens indien deze mededelingen louter attenderen op het feit dat de activiteit of een gedeelte van de activiteit ingericht werd door middel van een gift, een schenking of een prestatie om niet of verricht onder reële prijs door een bij name genoemde natuurlijke persoon, rechtspersoon of feitelijke vereniging;<br /><br />3° sponsoring en bedoelde mededelingen kennelijk niet onverenigbaar zijn met de pedagogische en onderwijskundige taken en doelstellingen van de school;<br /><br />4° sponsoring en bedoelde mededelingen de objectiviteit, de geloofwaardigheid, de betrouwbaarheid en onafhankelijkheid van de school niet in het gedrang brengen.
+...
 
 ### ART. V. 13.
 
-In het door de Gemeenschap gefinancierd of gesubsidieerd voltijds secundair onderwijs en deeltijds beroepssecundair onderwijs kan geen direct of indirect inschrijvingsgeld worden gevraagd.<br /><br />Na overleg binnen de participatieraad of de schoolraad bepalen de inrichtende machten de lijst van bijdragen die aan de ouders of aan de meerderjarige leerlingen kunnen worden gevraagd, evenals de afwijkingen die op deze bijdrageregeling worden toegekend.  Deze regeling wordt door middel van het school- of centrumreglement aan de ouders of aan de personen die de minderjarige leerling in rechte of in feite onder hun bewaring hebben, dan wel aan de meerderjarige leerling meegedeeld.
+...
 
 ## ONDERAFDELING 3 CENTRA VOOR LEERLINGENBEGELEIDING
 
