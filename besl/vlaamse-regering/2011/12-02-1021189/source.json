@@ -2,16 +2,16 @@
   "codex_id": 1021189,
   "title": "Besluit van de Vlaamse Regering van 2011-12-02 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006 wat betreft de overheveling van personeelsleden van de FOD Financiën naar Vlabel en andere bepalingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021189/VolledigDocument?datum=2011-04-01",
-  "source_sha256": "501254bc5253ec199aac771b0afaaf226bebffb728a1d226bb8f6678fdaafda4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021189/VolledigDocument?datum=2011-05-01",
+  "source_sha256": "b497afb53ee6abae251b57ed05e9684912876fdbbfa741b352ca12f246b07184",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021189&param=informatie",
-  "as_of": "2011-04-01",
+  "as_of": "2011-05-01",
   "made": "2011-12-02",
   "gazette": "2012-01-20",
   "numac": 2011036087,
   "document_start": null,
   "document_end": null,
-  "in_force": "2011-04-01",
-  "article_versions": 9,
-  "record_form": "consolidated version as in force on 2011-04-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2011-05-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2011-05-01; future article versions excluded; article text as the API gives it"
 }
