@@ -2,17 +2,17 @@
 
 ### ART. 1.
 
-Dit decreet regelt een gemeenschapsaangelegenheid.
+...
 
 ### ART. 2.
 
-Dit decreet is van toepassing op het voltijds gewoon en buitengewoon secundair onderwijs, met uitzondering van het hoger beroepsonderwijs. De Vlaamse regering kan de inrichtende machten die deelnemen aan een experiment inzake onderwijsorganisatie voor de duur van dit experiment en uitsluitend voor de bij het experiment betrokken structuuronderdelen uitsluiten van de bepalingen van dit decreet inzake specifieke eindtermen.<br /><br />De bepalingen van dit decreet met betrekking tot eindtermen, leerplannen en afwijkingsprocedure, met uitzondering van het vak lichamelijke opvoeding, zijn vanaf het schooljaar 2008-2009 ook van toepassing op de algemene vorming van het deeltijds beroepssecundair onderwijs respectievelijk op de algemene vorming van de leertijd. Voor wat de vakoverschrijdende eindtermen evenwel betreft, zijn de bepalingen van dit decreet van toepassing uiterlijk vanaf het schooljaar 2010-2011.
+...
 
 ## HOOFDSTUK I TOTSTANDKOMING
 
 ### ART. 3.
 
-De eindtermen, de specifieke eindtermen, de ontwikkelingsdoelen voor het gewoon voltijds secundair onderwijs en de ontwikkelingsdoelen voor het buitengewoon secundair onderwijs worden vastgelegd door het Vlaams Parlement bij wijze van bekrachtiging van een besluit van de Vlaamse Regering, genomen op advies van de Vlor.<br /><br />Voor het onderwijs in een erkende godsdienst, een op godsdienst berustende zedenleer, de niet-confessionele zedenleer, de eigen cultuur en religie en de cultuurbeschouwing worden geen eindtermen of ontwikkelingsdoelen bepaald.<br /><br />De Vlaamse Regering legt het besluit ten laatste één maand na de goedkeuring ter bekrachtiging voor aan het Vlaams Parlement.<br /><br />De eindtermen, de specifieke eindtermen en de ontwikkelingsdoelen hebben uitwerking vanaf de datum die het decreet aangeeft.<br /><br />De eindtermen en specifieke eindtermen worden ontwikkeld gebruik makend van de descriptorelementen vermeld in artikel 6 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur.
+...
 
 ## HOOFDSTUK II INHOUD
 
@@ -20,58 +20,58 @@ De eindtermen, de specifieke eindtermen, de ontwikkelingsdoelen voor het gewoon 
 
 ### ART. 4.
 
-§ 1. De eindtermen zijn minimumdoelen die de overheid noodzakelijk en bereikbaar acht voor een bepaalde leerlingenpopulatie in het gewoon secundair onderwijs. Met minimumdoelen wordt bedoeld: een minimum aan kennis, inzicht, vaardigheden en attitudes, bestemd voor die leerlingenpopulatie.<br /><br />Eindtermen kunnen vakgebonden of vakoverschrijdend zijn.<br /><br />§ 2. Er worden, per graad en per onderwijsvorm met uitsluiting van het eerste leerjaar B en het beroepsvoorbereidend leerjaar, vakgebonden eindtermen vastgelegd voor de basisvorming, zoals bepaald in titel IV van het decreet van 31 juli 1990 betreffende het onderwijs II. Voor wat evenwel de derde graad beroepssecundair onderwijs betreft, worden die eindtermen afzonderlijk vastgelegd voor het eerste en tweede leerjaar enerzijds en het derde leerjaar anderzijds.<br /><br />Elke school heeft de maatschappelijke opdracht de vakgebonden eindtermen met betrekking tot kennis, inzicht en vaardigheden bij de leerlingen te bereiken. Het bereiken van de eindtermen zal worden afgewogen tegenover de schoolcontext en de kenmerken van de schoolpopulatie.<br /><br />De vakgebonden eindtermen met betrekking tot attitudes dienen door elke school bij de leerlingen te worden nagestreefd.<br /><br />§ 3. Vakoverschrijdende eindtermen zijn minimumdoelen die niet specifiek behoren tot een vakgebied, maar onder meer door middel van meerdere vakken of onderwijsprojecten worden nagestreefd. Elke school heeft de maatschappelijke opdracht de vakoverschrijdende eindtermen bij de leerlingen na te streven. De school toont aan dat ze met een eigen planning aan de vakoverschrijdende eindtermen werkt.<br /><br />De vakoverschrijdende eindtermen worden vastgelegd per graad of globaal voor het secundair onderwijs. Deze vakoverschrijdende eindtermen zijn uitsluitend van toepassing op structuuronderdelen waarvoor vakgebonden eindtermen gelden. Indien ze evenwel worden vastgelegd voor of toegepast in het eerste leerjaar B en het beroepsvoorbereidend leerjaar van de eerste graad, dan worden ze vakoverschrijdende ontwikkelingsdoelen genoemd.
+...
 
 ## AFDELING 2 ONTWIKKELINGSDOELEN
 
 ### ART. 5.
 
-§ 1. Ontwikkelingsdoelen voor het gewoon voltijds secundair onderwijs zijn minimumdoelen op het vlak van kennis, inzicht, vaardigheden en attitudes die de overheid wenselijk acht voor een bepaalde leerlingenpopulatie en die de school bij haar leerlingen moet nastreven.<br /><br />Ontwikkelingsdoelen kunnen vakgebonden of vakoverschrijdend zijn.<br /><br />§ 2. Er worden vakgebonden ontwikkelingsdoelen vastgelegd voor de basisvorming in het eerste leerjaar B, in het beroepsvoorbereidend leerjaar en in het onthaaljaar, zoals bepaald in titel IV van het decreet van 31 juli 1990 betreffende het onderwijs II. <br /><br />Vakoverschrijdende ontwikkelingsdoelen zijn minimumdoelen die niet behoren tot een specifiek vakgebied, maar onder meer door middel van meer vakken of onderwijsprojecten worden nagestreefd.<br /><br />§ 3. Ontwikkelingsdoelen voor het voltijds buitengewoon secundair onderwijs zijn doelen op het vlak van kennis, inzichten, vaardigheden en attitudes die de overheid wenselijk acht voor zoveel mogelijk leerlingen van de leerlingenpopulatie. In samenspraak met het centrum voor leerlingenbegeleiding en zo mogelijk in overleg met de ouders en eventueel andere betrokkenen, kiest de klassenraad de ontwikkelingsdoelen die aan individuele leerlingen of groepen worden aangeboden en uitdrukkelijk nagestreefd.<br /><br />Ontwikkelingsdoelen worden bepaald per opleidingsvorm en/of type.<br /><br />In de opleidingsvorm 4 van het buitengewoon secundair onderwijs gelden de eindtermen, de ontwikkelingsdoelen, de specifieke eindtermen en erkende beroepskwalificaties van het overeenstemmende niveau van het gewoon secundair onderwijs respectievelijk als eindtermen, ontwikkelingsdoelen, specifieke eindtermen en erkende beroepskwalificaties. Voor andere opleidingsvormen of types kan de klassenraad de eindtermen en/of ontwikkelingsdoelen en/of specifieke eindtermen en/of erkende beroepskwalificaties van het overeenstemmende niveau van het gewoon secundair onderwijs, van andere types van het buitengewoon secundair onderwijs, of van het gewoon of buitengewoon basisonderwijs overnemen als ontwikkelingsdoelen. In beide gevallen kan de klassenraad, rekening houdend met de kenmerken eigen aan de leerling, de gelijkwaardigheid beoordelen van prestaties in het betrokken type of de betrokken opleidingsvorm met de prestaties die door de eindtermen en/of ontwikkelingsdoelen en/of specifieke eindtermen en/of erkende beroepskwalificaties van het overeenstemmende niveau van het gewoon secundair onderwijs worden vereist.
+...
 
 ## AFDELING 3 [SPECIFIEKE EINDTERMEN EN ERKENDE BEROEPSKWALIFICATIES (verv. decr. 30 april 2009, art. 24)]
 
 ### ART. 6.
 
-De specifieke eindtermen en de erkende beroepskwalificaties worden verworven door middel van het specifieke gedeelte van een opleiding. Het specifieke gedeelte van de opleiding wordt gedefinieerd als het gedeelte dat niet behoort tot de basisvorming of tot het complementaire gedeelte, zoals gedefinieerd in titel IV van het decreet van 31 juli 1990 betreffende het onderwijs II, zoals gewijzigd.
+...
 
 ### ART. 7.
 
-Specifieke eindtermen zijn doelen met betrekking tot de vaardigheden, de specifieke kennis, inzichten en attitudes waarover een leerling van het voltijds secundair onderwijs beschikt om vervolgonderwijs aan te vatten.<br /><br />Specifieke eindtermen worden vastgelegd voor het tweede leerjaar van de derde graad van het aso, kso en tso en worden ontwikkeld uit de kenmerkende onderdelen van een bepaald wetenschapsdomein.
+...
 
 ### ART. 7bis.
 
-Erkende beroepskwalificaties waarover een leerling van het voltijds secundair onderwijs beschikt zijn afgeronde en ingeschaalde gehelen van competenties om als beginnend beroepsbeoefenaar een beroep uit te oefenen. De competenties van de beginnend beroepsbeoefenaar zijn vervat in de beroepskwalificaties die erkend zijn volgens de procedure bepaald in het decreet van 30 april 2009 betreffende de kwalificatiestructuur.
+...
 
 ### ART. 7ter.
 
-Voor die specifieke gedeelten van opleidingen die gericht zijn op beroepsuitoefening waarvoor geen erkende beroepskwalificatie bestaat, bepaalt de Vlaamse Regering de competenties, tot zolang er geen erkende beroepskwalificaties zijn. De Vlaamse Regering bepaalt deze competenties op basis van door sectoren of door overheidsinstanties erkende referentiekaders en gebruik makend van de descriptorelementen.
+...
 
 ## AFDELING 4 LEERPLAN EN HANDELINGSPLAN
 
 ### ART. 8.
 
-§ 1. Met de inachtneming van het door of krachtens het decreet bepaalde minimumlessenrooster en met inachtneming van de eindtermen, de ontwikkelingsdoelen en de specifieke eindtermen, beschikt elke inrichtende macht voor elk van haar instellingen over de vrijheid de lessenroosters en de leerplannen vast te stellen en kiest zij vrij haar pedagogische methodes.<br /><br />§ 2. Met inachtneming van de ontwikkelingsdoelen wordt in het buitengewoon onderwijs voor één of meer leerlingen samen op basis van zijn (hun) opvoedings- en onderwijsbehoeften, een handelingsplan opgemaakt. Dit plan bevat voor een bepaalde periode de pedagogisch-didactische planning voor bedoelde leerling(en) en legt onder meer de keuze aan ontwikkelingsdoelen vast, die de klassenraad in opdracht van de inrichtende macht voor hem (hen) wil nastreven.<br /><br />Het handelingsplan geeft in voorkomend geval weer hoe het multidisciplinair teamwerk wordt gepland en hoe de sociale, psychologische, orthopedagogische, medische en paramedische hulpverlening in het opvoedings- en onderwijsaanbod wordt geïntegreerd.<br /><br />In voorkomend geval kunnen bepaalde eindtermen, ontwikkelingsdoelen, of specifieke eindtermen van het gewoon secundair onderwijs, van andere types van het buitengewoon secundair onderwijs of van het gewoon of buitengewoon basisonderwijs door een beslissing van de klassenraad in een handelingsplan worden opgenomen.<br /><br />Het handelingsplan wordt opgemaakt door de klassenraad, in samenspraak met het centrum voor leerlingenbegeleiding en indien mogelijk met diegene die het ouderlijk gezag over de betrokken leerling uitoefent.<br /><br />§ 3. De leerplannen bevatten desgewenst de doelen die de inrichtende macht uitdrukkelijk formuleert voor haar leerlingen vanuit het eigen opvoedingsproject in het algemeen of de eigen visie op het vak in het bijzonder. Wat het gewoon voltijds secundair onderwijs betreft, worden in de leerplannen opgenomen, op herkenbare wijze:<br /><br />- vakgebonden eindtermen en ontwikkelingsdoelen, voorzover ze bepaald zijn,<br /><br />- de specifieke eindtermen, voorzover ze bepaald zijn.<br /><br />Het leerplan moet voldoende ruimte laten voor de inbreng van scholen, leraren, lerarenteams of leerlingen.<br /><br />§ 4. Met het oog op het waarborgen van het studiepeil keurt de Vlaamse regering de leerplannen goed, volgens de vooraf door haar bepaalde criteria. Deze verplichting geldt niet voor het onderricht in een erkende godsdienst, een op die godsdienst berustende zedenleer of in de niet-confessionele zedenleer, of de cultuurbeschouwing.<br /><br />§ 5. Met inachtneming van alle ontwikkelingsdoelen wordt in het onthaaljaar per leerling op basis van zijn onderwijsbehoeften een individueel leertraject uitgewerkt waarin het aspiratieniveau voor deze leerling doorheen het jaar wordt bijgesteld. Dit traject bevat onder meer de beginsituatie, de taaldoelen als leidraad en het advies van de klassenraad voor wat betreft de overstap naar vervolgonderwijs of arbeidsmarkt.
+...
 
 ## HOOFDSTUK III AFWIJKINGSPROCEDURE
 
 ### ART. 9.
 
-§ 1. Wanneer een inrichtende macht oordeelt dat de eindtermen, de ontwikkelingsdoelen en/of de specifieke eindtermen onvoldoende ruimte laten voor haar eigen pedagogische en onderwijskundige opvattingen of ermee onverzoenbaar zijn, dient zij bij de Vlaamse regering een aanvraag tot afwijking in. Deze aanvraag is slechts ontvankelijk indien precies wordt aangegeven waarom ontwikkelingsdoelen, eindtermen en/of specifieke eindtermen voor haar eigen pedagogische en onderwijskundige opvattingen onvoldoende ruimte laten, en/of waarom ze ermee onverzoenbaar zijn; de inrichtende macht stelt in dezelfde aanvraag vervangende ontwikkelingsdoelen, eindtermen en/of specifieke eindtermen voor.<br /><br />§ 2. De Vlaamse regering beoordeelt of de aanvraag ontvankelijk is en beslist, in voorkomend geval, of de vervangende eindtermen, ontwikkelingsdoelen en/of specifieke eindtermen in hun geheel gelijkwaardig zijn met die welke conform dit decreet werden vastgelegd en toelaten gelijkwaardige studiebewijzen en diploma's af te leveren.<br /><br />De gelijkwaardigheid wordt beoordeeld aan de hand van de volgende criteria:<br />1° het respect voor de fundamentele rechten en vrijheden;<br />2° de vereiste inhoud: het onderwijsaanbod in de ontwikkelingsdoelen voor het buitengewoon secundair onderwijs, voor het eerste leerjaar B en het beroepsvoorbereidend leerjaar en het onthaaljaar, en het onderwijsaanbod in de eindtermen en specifieke eindtermen voor het gewoon secundair onderwijs omvat minstens inhouden voor de overeenstemmende vakken en attitudes. Deze inhouden moeten enkel in hun geheel evenwaardig zijn met de inhouden waarvoor conform deze wet eindtermen, ontwikkelingsdoelen en/of specifieke eindtermen werden vastgelegd;<br />3° de vervangende ontwikkelingsdoelen, eindtermen en specifieke eindtermen zijn geformuleerd in termen van wat van leerlingen verwacht kan worden;<br />4° de vervangende ontwikkelingsdoelen en eindtermen slaan op kennis, inzichten, vaardigheden en attitudes;<br />5° de vervangende specifieke eindtermen slaan op, vaardigheden, specifieke kennis, inzichten en attitudes die de leerlingen moeten toelaten vervolgonderwijs aan te vatten;<br />6° de vervangende eindtermen, ontwikkelingsdoelen, en specifieke eindtermen zijn zo geformuleerd dat, nagegaan kan worden in welke mate de leerlingen deze verwerven of de scholen deze nastreven bij de leerlingen;<br />7° aangegeven wordt welke eindtermen vakgebonden, vakoverschrijdend of attitudinaal zijn.<br /><br />De Vlaamse regering wint voor de beoordeling van de ontvankelijkheid en van de gelijkwaardigheid, het gemotiveerd advies in van de onderwijsinspectie en van een commissie van deskundigen.<br /><br />Voor de samenstelling van deze laatste commissie stelt de Vlaamse regering een lijst op van onafhankelijke deskundigen. Deze lijst geldt voor een periode van vier jaar. <br /><br />De Vlaamse regering bepaalt de verdere regels van deze procedure, met dien verstande dat de aanvrager gehoord wordt.<br /><br />§ 3. De inrichtende macht dient uiterlijk op 1 september van het schooljaar voorafgaand aan het schooljaar waarin de ontwikkelingsdoelen, eindtermen en specifieke eindtermen zullen gelden, een afwijkingsaanvraag in. De Vlaamse regering beslist uiterlijk op 31 december van het voorafgaande schooljaar over de aanvraag.<br /><br />De Vlaamse regering legt een besluit betreffende een afwijkingsaanvraag in verband met ontwikkelingsdoelen, eindtermen of decretale specifieke eindtermen binnen een termijn van zes maanden ter bekrachtiging voor aan het Vlaams Parlement. Indien het Vlaams Parlement dit besluit niet bekrachtigt, houdt het op rechtskracht te hebben.<br /><br />§ 4. In afwijking op wat bepaald is in § 3, kan de inrichtende macht een afwijkingsaanvraag indienen binnen een termijn van 1 maand na de publicatie van een bekrachtigingsdecreet, indien deze publicatie gebeurt na 1 september van het schooljaar voorafgaand aan de inwerkingtreding.<br /><br />In de gevallen, bedoeld in het vorige lid, is de inrichtende macht gebonden door de eindtermen, ontwikkelingsdoelen en specifieke eindtermen vanaf 1 september volgend op de publicatie van het decreet dat de gelijkwaardige eindtermen, ontwikkelingsdoelen en specifieke eindtermen erkent of op de beslissing van de Vlaamse regering dat de afwijkingsaanvraag afwijst.
+...
 
 ## HOOFDSTUK IV SLOTBEPALINGEN
 
 ### ART. 10.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 5 van het decreet van 17 juli 1991 betreffende de inspectie, de dienst voor onderwijsontwikkeling en de pedagogische begeleidingsdiensten)
+...
 
 ### ART. 11.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 6quater van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving)
+...
 
 ### ART. 12.
 
-(niet opgenomen)<br /><br />(Heft de artikelen 6, 6bis en 6ter van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving op)
+...
 
 ### ART. 13.
 
-De eindtermen en ontwikkelingsdoelen die van kracht zijn op het ogenblik van inwerkingtreding van dit decreet blijven na de inwerkingtreding van kracht.
+...
