@@ -34,7 +34,7 @@ Dit hoofdstuk treedt in werking op 1 september 1999, met uitzondering van:<br />
 
 ### ART. 157.
 
-De Vlaamse regering kan aan instellingen die voltijds gewoon kunstsecundair onderwijs organiseren en die betrokken zijn bij een convenant dat zij heeft afgesloten met de betrokken inrichtende machten en/of representatieve verenigingen ervan en met de partners uit een culturele sector, een bijkomende financiering of subsidiëring toekennen. Zij bepaalt de voorwaarden waaraan de leerlingen, die deze bijkomende financiering of subsidiëring genereren, moeten voldoen evenals de vorm waaronder deze middelen worden toegekend.
+...
 
 ### ART. 158.
 
