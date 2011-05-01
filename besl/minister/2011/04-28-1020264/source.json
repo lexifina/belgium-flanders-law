@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020264,
+  "title": "Ministerieel besluit van 2011-04-28 tot wijziging van het ministerieel besluit van 26 november 2007 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020264/VolledigDocument?datum=2011-05-01",
+  "source_sha256": "152eaf9c30fe63ff1d729899f0293ab32b98c52fdf37f10777c8a85456e08f18",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020264&param=informatie",
+  "as_of": "2011-05-01",
+  "made": "2011-04-28",
+  "gazette": "2011-05-20",
+  "numac": 2011035367,
+  "document_start": "2011-05-01",
+  "document_end": null,
+  "in_force": "2011-05-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2011-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
