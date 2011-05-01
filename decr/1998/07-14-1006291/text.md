@@ -210,7 +210,7 @@ De bepalingen van dit hoofdstuk hebben uitwerking met ingang van 1 september 199
 
 ### ART. 42.
 
-In het buitengewoon secundair onderwijs kunnen twee of meer vakken van de algemene en sociale vorming geïntegreerd worden gegeven.<br /><br />De Vlaamse regering bepaalt welke vakken hiervoor niet in aanmerking komen en de administratieve en geldelijke gevolgen voor de personeelsleden die belast worden met het geven van geïntegreerde vakken.
+...
 
 ### ART. 43.
 
