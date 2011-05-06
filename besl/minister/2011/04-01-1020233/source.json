@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020233,
+  "title": "Ministerieel besluit van 2011-04-01 houdende vastlegging van het sjabloon voor het CO2-emissiejaarrapport en het sjabloon voor het rapport tonkilometergegevens in het kader van het Europese CO2-emissiehandelsysteem voor vliegtuigexploitanten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020233/VolledigDocument?datum=2011-05-06",
+  "source_sha256": "259c105ea160f848fe268d1442100db3b69894f66e343f4e39626c87bb4e4ce2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020233&param=informatie",
+  "as_of": "2011-05-06",
+  "made": "2011-04-01",
+  "gazette": "2011-05-06",
+  "numac": 201135336,
+  "document_start": "2011-05-06",
+  "document_end": null,
+  "in_force": "2011-05-06",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2011-05-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
