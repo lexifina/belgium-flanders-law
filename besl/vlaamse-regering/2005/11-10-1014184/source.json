@@ -2,16 +2,16 @@
   "codex_id": 1014184,
   "title": "Besluit van de Vlaamse Regering van 2005-11-10 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Inspectie RWO",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014184/VolledigDocument?datum=2009-09-01",
-  "source_sha256": "3dcad4b2078c7857ce249db3c818a88931caf346a4225a1256dd33b85dbf4f66",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014184/VolledigDocument?datum=2011-05-14",
+  "source_sha256": "9ffea7e74fe1b4319ad5d30b69af4809f8d0cd008d87debe638c932a6c9f5685",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014184&param=informatie",
-  "as_of": "2009-09-01",
+  "as_of": "2011-05-14",
   "made": "2005-11-10",
   "gazette": "2006-01-11",
   "numac": 2005036598,
   "document_start": "2006-07-01",
   "document_end": "2016-09-01",
-  "in_force": "2009-09-01",
+  "in_force": "2011-05-14",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-05-14; future article versions excluded; article text as the API gives it"
 }
