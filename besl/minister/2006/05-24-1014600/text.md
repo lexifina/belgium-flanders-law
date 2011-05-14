@@ -6,20 +6,20 @@ De Vlaamse minister van Openbare Werken, Energie, Leefmilieu en Natuur,<br /><br
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan :<br />- het decreet : het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen.<br /><br />
+...
 
 ### ART. 2.
 
-In uitvoering van het decreet en zijn uitvoeringsbesluiten, wordt aan de hierna genoemde laboratoria op grond van de hier boven uiteengezette overwegingen, een erkenning verleend om analyses op diervoeders uit te voeren :<br />1° de Agrolab-Group, LUFA-ITL, Gutenburgstasse 75-77, te 24116 Kiel, Duitsland;<br />2° het AGROLAB-ILVO, Van Gansberghelaan 115, te 9820 Merelbeke;<br />3° de BV ALcontrol Food, Koenendelseweg 11, te 5222 BG Den Bosch, Nederland.<br /><br />Voor het uitvoeren van de analyses op diervoeders en het bepalen van de resultaten ervan dienen de laboratoria, bedoeld in het eerste lid, gebruik te maken van de volgende parameters :<br />1° vochtgehalte;<br />2° eiwitgehalte;<br />3° totale fosfor.<br /><br />
+...
 
 ### ART. 3.
 
-In uitvoering van het decreet en zijn uitvoeringsbesluiten, wordt aan de hierna genoemde laboratoria op grond van de hier boven uiteengezette overwegingen, een erkenning verleend om analyses op meststoffen uit te voeren :<br />1° de BVBA Envirocontrol, Beernemsteenweg 49, te 8750 Wingene;<br />2° de NV Labo Van Vooren, Industriepark Rosteyne 1, te 9060 Zelzate;<br />3° de NV Envirotox, Siemenslaan 13, te 8020 Oostkamp;<br />4° de BVBA Laboratorium Devlieger, Xavier De Cocklaan 32, te 9830 Sint-Martens-Latem.<br /><br />Voor het uitvoeren van de analyses op meststoffen en het bepalen van de resultaten ervan dienen de laboratoria, bedoeld in het eerste lid, gebruik te maken van de volgende parameters :<br />1° droge stofgehalte;<br />2° totale stikstof;<br />3° ammonium;<br />4° totale fosfor.<br /><br />
+...
 
 ### ART. 4.
 
-De erkenningen van de laboratoria, bedoeld in de artikelen 2, 3, 4 en 5, worden verleend voor een periode van vijf jaar die ingaat op 15 mei 2006 en eindigt op 14 mei 2011.<br /><br />
+...
 
 ### ART. 5.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.<br /><br />
+...

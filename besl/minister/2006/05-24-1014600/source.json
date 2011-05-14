@@ -2,16 +2,16 @@
   "codex_id": 1014600,
   "title": "Ministerieel besluit van 2006-05-24 houdende de erkenning van de laboratoria voor het uitvoeren van analyses tot uitvoering van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014600/VolledigDocument?datum=2006-05-15",
-  "source_sha256": "309263f47bb5608f479f3984c0463777a3ca0092b757b03854287187600d651f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014600/VolledigDocument?datum=2011-05-14",
+  "source_sha256": "a554bdec255e13641250ff262fb1205f3ce0673e8614dba57159b4027791ec2f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014600&param=informatie",
-  "as_of": "2006-05-15",
+  "as_of": "2011-05-14",
   "made": "2006-05-24",
   "gazette": "2006-06-22",
   "numac": 2006035933,
   "document_start": "2006-05-15",
   "document_end": "2011-05-14",
-  "in_force": "2006-05-15",
+  "in_force": "2011-05-14",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2006-05-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-05-14; future article versions excluded; article text as the API gives it"
 }
