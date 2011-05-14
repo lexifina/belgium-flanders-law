@@ -82,7 +82,7 @@ De middelen van het Investeringsfonds voor grond- en woonbeleid voor Vlaamse Bra
 
 ### ART. 19.
 
-Het fonds neemt voor zijn rekening de uitgaven met betrekking tot:<br /><br />1° het grondbeleid en de realisatie van woonprojecten met een sociaal karakter in de gemeenten van de provincie Brabant die deel uitmaken van het Vlaamse Gewest;<br /><br />2° de uitbouw van voorzieningen die noodzakelijk worden geacht om het Vlaams karakter en een hoogwaardige woonkwaliteit in deze regio te behouden of te bevorderen, inbegrepen het nemen van participaties namens het Vlaamse Gewest.
+Het fonds neemt voor zijn rekening de uitgaven met betrekking tot:<br />1° het grondbeleid en de realisatie van woonprojecten met een sociaal karakter in de gemeenten van de provincie Vlaams-Brabant;<br />2° de uitbouw van voorzieningen die noodzakelijk worden geacht om het Vlaams karakter en een hoogwaardige woonkwaliteit in deze regio te behouden of te bevorderen, inbegrepen het nemen van participaties.
 
 ### ART. 19bis.
 
@@ -90,7 +90,7 @@ Het fonds kan voor het vervullen van zijn taak onroerende goederen verwerven, ze
 
 ### ART. 20.
 
-Het fonds wordt beheerd door de Vlaamse regering. Tussen het fonds en de Vlaamse Huisvestingsmaatschappij wordt een overeenkomst gesloten met betrekking tot het ter beschikking stellen aan het fonds van de nodige diensten, uitrusting, installaties en personeelsleden. De Vlaamse Huisvestingsmaatschappij ontvangt hiervoor jaarlijks een kostenvergoeding lastens de begroting van het fonds. [ <span class="reference">(verv. decr. 8 december 2000, art. 38, I: 23 januari 2001)</span> ]
+Het fonds wordt beheerd door de Vlaamse regering. Tussen het fonds en de Vlaamse Maatschappij voor Sociaal Wonen wordt een overeenkomst gesloten met betrekking tot het ter beschikking stellen aan het fonds van de nodige diensten, uitrusting, installaties en personeelsleden. De Vlaamse Maatschappij voor Sociaal Wonen ontvangt hiervoor jaarlijks een kostenvergoeding lastens de begroting van het fonds.
 
 ### ART. 21.
 
@@ -106,7 +106,7 @@ De Vlaamse regering stelt jaarlijks een verslag op over de werking en het beheer
 
 ### ART. 24.
 
-De Vlaamse regering stelt de verdere regels vast betreffende de werking en het beheer van het fonds. Zij kan daarbij sommige van haar bijkomstige en aanvullende bevoegdheden delegeren aan de leidend ambtenaar die zij daartoe aanwijst.
+De Vlaamse regering stelt de verdere regels vast betreffende de werking en het beheer van het fonds. Zij kan daarbij een leidend ambtenaar aanwijzen en sommige van haar bijkomstige en aanvullende bevoegdheden delegeren tot op het meest functionele niveau.
 
 ## HOOFDSTUK III LEEFMILIEU
 
