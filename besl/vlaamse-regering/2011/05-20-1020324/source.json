@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020324,
+  "title": "Besluit van de Vlaamse Regering van 2011-05-20 tot wijziging van diverse besluiten met betrekking tot de kwaliteitsbewaking naar aanleiding van het decreet van 29 april 2011 houdende wijziging van diverse decreten met betrekking tot wonen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020324/VolledigDocument?datum=2011-05-14",
+  "source_sha256": "829a27a6bc7971b905cf84d1703aabfb75c28544465a51b0f74e5e18575e0e5d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020324&param=informatie",
+  "as_of": "2011-05-14",
+  "made": "2011-05-20",
+  "gazette": "2011-06-17",
+  "numac": 2011035463,
+  "document_start": "2011-05-14",
+  "document_end": null,
+  "in_force": "2011-05-14",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2011-05-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
