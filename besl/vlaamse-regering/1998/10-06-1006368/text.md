@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit worden de hierna vermelde begrippen gebruikt:<br />1° minister: Vlaamse minister, bevoegd voor de huisvesting;<br />2° Vlaamse Wooncode: decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br />3° houder van het zakelijk recht: persoon of personen met een recht van volle eigendom, een recht van opstal of van erfpacht, of een recht van vruchtgebruik met betrekking tot een gebouw en/of een woning;<br />4° oppervlakte: de vloeroppervlakte gemeten tussen de begrenzende bouwdelen, ze wordt berekend als het verschil van de bruto-vloeroppervlakte en de constructieoppervlakte;<br />5° besluit op de heffing ter bestrijding van leegstand en verkrotting: besluit van de Vlaamse regering van 2 april 1996 betreffende de heffing ter bestrijding van leegstand en verkrotting van gebouwen en/of woningen;<br />6° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />7° gewestelijk ambtenaar : de ambtenaar die aangewezen wordt overeenkomstig artikel 2, § 3, van het besluit op de heffing ter bestrijding van leegstand en verkrotting.<br />8° de Vlaamse Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht volgens het decreet van 16 juni 2006 betreffende het oprichten van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen. <br />
+Voor de toepassing van dit besluit worden de hierna vermelde begrippen gebruikt:<br />1° minister: Vlaamse minister, bevoegd voor de huisvesting;<br />2° Vlaamse Wooncode: decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br />3° houder van het zakelijk recht: persoon of personen met een recht van volle eigendom, een recht van opstal of van erfpacht, of een recht van vruchtgebruik met betrekking tot een gebouw en/of een woning;<br />4° oppervlakte: de vloeroppervlakte gemeten tussen de begrenzende bouwdelen, ze wordt berekend als het verschil van de bruto-vloeroppervlakte en de constructieoppervlakte;<br />5° ...<br />6° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />7° gewestelijk ambtenaar : de ambtenaar die aangewezen wordt overeenkomstig artikel 2, § 1, eerste lid, 7°, van de Vlaamse Wooncode.<br />8° de Vlaamse Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht volgens het decreet van 16 juni 2006 betreffende het oprichten van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen. <br />
 
 ## TITEL II KWALITEITSBEWAKING
 
@@ -20,7 +20,7 @@ De ambtenaren van het agentschap oefenen de bevoegdheden uit die verbonden zijn 
 
 ### ART. 3.
 
-De vereisten, bedoeld in artikel 5, § 1, eerste en tweede lid, van de Vlaamse Wooncode, worden beoordeeld aan de hand van de delen B en C van het technisch verslag, gevoegd als bijlage I bij dit besluit.<br /><br />De gewestelijk ambtenaar stelt in zijn advies, bedoeld in artikel 15, § 1, eerste lid, van de Vlaamse Wooncode, aan de burgemeester voor de woning ongeschikt te verklaren als de woning volgens het technisch verslag een eindscore van minstens 15 punten behaalt, waarbij een gebrek van categorie I geldt voor 1 punt, van categorie II voor 3 punten, van categorie III voor 9 punten en van categorie IV voor 15 punten.<br /><br />Als een controleverslag van de brandweer uitwijst dat er ernstige brandveiligheidsproblemen zijn, wordt dit opgenomen en meegerekend in het technisch verslag. Als er nog geen controleverslag van de brandweer is opgemaakt, maar er zijn vermoedens dat de woning ernstige brandveiligheidsproblemen vertoont of dat de woning wegens brandveiligheidsproblemen ontruimd moet worden, vermeldt de gewestelijke ambtenaar dat in zijn advies aan de burgemeester. Die kan hiermee rekening houden bij de opmaak van zijn besluit.<br />
+De vereisten, bedoeld in artikel 5, § 1, eerste en tweede lid, van de Vlaamse Wooncode, worden beoordeeld aan de hand van de delen B en C van het technisch verslag, gevoegd als bijlage I bij dit besluit. Als de woning voor 1 februari 2008 gebouwd of vergund is als een studio, dan wordt de netto-vloeroppervlakte van een afzonderlijke bad- of doucheruimte, met een maximum van 3m2, opgeteld bij de totale netto-vloeroppervlakte van de woonlokalen, vermeld in deel C, rubriek 23, van het technisch verslag.<br /><br />De gewestelijk ambtenaar stelt in zijn advies, bedoeld in artikel 15, § 1, eerste lid, van de Vlaamse Wooncode, aan de burgemeester voor de woning ongeschikt te verklaren als de woning volgens het technisch verslag een eindscore van minstens 15 punten behaalt, waarbij een gebrek van categorie I geldt voor 1 punt, van categorie II voor 3 punten, van categorie III voor 9 punten en van categorie IV voor 15 punten.<br /><br />Als een controleverslag van de brandweer uitwijst dat er ernstige brandveiligheidsproblemen zijn, wordt dit opgenomen en meegerekend in het technisch verslag. Als er nog geen controleverslag van de brandweer is opgemaakt, maar er zijn vermoedens dat de woning ernstige brandveiligheidsproblemen vertoont of dat de woning wegens brandveiligheidsproblemen ontruimd moet worden, vermeldt de gewestelijke ambtenaar dat in zijn advies aan de burgemeester. Die kan hiermee rekening houden bij de opmaak van zijn besluit.<br />
 
 ### ART. 4.
 
@@ -38,7 +38,7 @@ Het veiligheids- en gezondheidsrisico, bedoeld in artikel 6, derde lid, van de V
 
 ### ART. 7.
 
-Het verzoek, bedoeld in artikel 15, § 1, tweede lid, en artikel 17, eerste lid, van de Vlaamse Wooncode, moet op straffe van onontvankelijkheid aangetekend worden verstuurd naar of tegen ontvangstbewijs afgegeven aan de burgemeester in de gemeente waar de woning gelegen is.<br /><br />Als het verzoek geen motieven bevat of manifest ongegrond is, dan wijst de burgemeester het verzoek onmiddellijk af, zonder de gewestelijk ambtenaar om advies te vragen.
+Het verzoek, vermeld in artikel 15, § 1, vierde lid, en artikel 17, eerste lid, van de Vlaamse Wooncode, moet op straffe van onontvankelijkheid aangetekend worden verstuurd naar of tegen ontvangstbewijs afgegeven aan de burgemeester in de gemeente waar de woning gelegen is.<br /><br />Als het verzoek geen motieven bevat of manifest ongegrond is, dan wijst de burgemeester het verzoek onmiddellijk af, zonder de gewestelijk ambtenaar om advies te vragen.
 
 ### ART. 8.
 
@@ -50,7 +50,7 @@ De burgemeester betekent zijn beslissing aan de verzoeker, de eigenaar, de bewon
 
 ### ART. 10.
 
-§ 1. De verzoeker, de eigenaar, de bewoner, de houder van het zakelijk recht en de gewestelijk ambtenaar kunnen overeenkomstig artikel 15, § 3, eerste lid, en artikel 17, derde lid, van de Vlaamse Wooncode bij de minister met een gemotiveerd verzoekschrift beroep aantekenen tegen de beslissing of het stilzitten van de burgemeester.<br /><br />Het verzoekschrift moet op straffe van onontvankelijkheid aangetekend worden verstuurd.<br /><br />§ 2. Het beroep werkt schorsend voor de opname op de inventaris, zoals bedoeld in artikel 28 van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996.<br /><br />§ 3. De minister kan in beroep een besluit nemen om de woning ongeschikt, onbewoonbaar of overbewoond te verklaren en de nodige maatregelen treffen.<br /><br />Hij betekent zijn beslissing aan de verzoeker, de eigenaar, de bewoner, de houder van het zakelijk recht en de burgemeester.<br /><br />Daarbij geeft hij ook de gevolgen en begeleidende maatregelen aan van zijn beslissing.
+§ 1. De verzoeker, de eigenaar, de bewoner, de houder van het zakelijk recht en de gewestelijk ambtenaar kunnen overeenkomstig artikel 15, § 2, tweede of derde lid, en artikel 17, derde of vierde lid, van de Vlaamse Wooncode bij de minister met een gemotiveerd verzoekschrift beroep aantekenen tegen de beslissing of het stilzitten van de burgemeester.<br /><br />Het verzoekschrift moet op straffe van onontvankelijkheid aangetekend worden verstuurd.<br /><br />§ 2. Het beroep werkt schorsend voor de opname op de inventaris, zoals bedoeld in artikel 28 van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996.<br /><br />§ 3. De minister kan in beroep een besluit nemen om de woning ongeschikt, onbewoonbaar of overbewoond te verklaren en de nodige maatregelen treffen.<br /><br />Hij betekent zijn beslissing aan de verzoeker, de eigenaar, de bewoner, de houder van het zakelijk recht en de burgemeester.<br /><br />Daarbij geeft hij ook de gevolgen en begeleidende maatregelen aan van zijn beslissing.
 
 ## AFDELING 4 BEGELEIDENDE MAATREGELEN BIJ DE ONGESCHIKT-, ONBEWOONBAAR- OF OVERBEWOONDVERKLARING
 
@@ -64,11 +64,11 @@ De voorwaarden waaraan bewoners van een ongeschikte, onbewoonbare of overbewoond
 
 ### ART. 12.
 
-§ 1. De termijn waarbinnen de nodige renovatie-, verbeterings- of aanpassingswerken moeten uitgevoerd worden, krachtens artikel 18, § 1, eerste lid, van de Vlaamse Wooncode, bedraagt:<br /><br />1° 36 maanden als een stedenbouwkundige vergunning nodig is overeenkomstig artikel 99 van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening; <br />2° 12 maanden als geen stedenbouwkundige vergunning vereist is.<br /><br />Deze termijn vangt aan vanaf de datum van het besluit van de burgemeester of in voorkomend geval vanaf de datum van de beslissing in beroep of het verstrijken van de termijn bedoeld in artikel 15, § 3, tweede lid, van de Vlaamse Wooncode.<br /><br />Een verlenging van deze termijnen kan om buitengewone omstandigheden verkregen worden. Deze verlenging moet aangevraagd worden bij het agentschap.<br /><br />De aanvraag dient op straffe van onontvankelijkheid bij gemotiveerd verzoekschrift, aangetekend te worden verstuurd of tegen ontvangstbewijs worden ingediend.<br /><br />De leidend ambtenaar bij het agentschap beoordeelt deze verlengingsaanvraag.<br /><br />Het bewijs dat de nodige werken zijn uitgevoerd, moet vóór het verstrijken van de eventueel verlengde termijn geleverd worden aan de gemeente en aan de gewestelijk ambtenaar.<br /><br />§ 2. Voor de eigenaar of houder van het zakelijk recht die de woning volledig en uitsluitend als hoofdverblijfplaats gebruikt en niet over een andere woning beschikt, geldt geen termijn.
+§ 1. De termijn waarbinnen de nodige renovatie-, verbeterings- of aanpassingswerken moeten uitgevoerd worden, krachtens artikel 18, § 1, eerste lid, van de Vlaamse Wooncode, bedraagt:<br />1° 36 maanden als een stedenbouwkundige vergunning nodig is overeenkomstig artikel 4.2.1. van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009; <br />2° 12 maanden als geen stedenbouwkundige vergunning vereist is.<br /><br />Deze termijn vangt aan vanaf de datum van het besluit van de burgemeester of in voorkomend geval vanaf de datum van de beslissing in beroep of het verstrijken van de termijn vermeld in artikel 15, § 2, vierde lid, van de Vlaamse Wooncode.<br /><br />Een verlenging van deze termijnen kan om buitengewone omstandigheden verkregen worden. Deze verlenging moet aangevraagd worden bij het agentschap.<br /><br />De aanvraag dient op straffe van onontvankelijkheid bij gemotiveerd verzoekschrift, aangetekend te worden verstuurd of tegen ontvangstbewijs worden ingediend.<br /><br />De leidend ambtenaar bij het agentschap beoordeelt deze verlengingsaanvraag.<br /><br />Het bewijs dat de nodige werken zijn uitgevoerd, moet vóór het verstrijken van de eventueel verlengde termijn geleverd worden aan de gemeente en aan de gewestelijk ambtenaar.<br /><br />§ 2. Voor de eigenaar of houder van het zakelijk recht die de woning volledig en uitsluitend als hoofdverblijfplaats gebruikt en niet over een andere woning beschikt, geldt geen termijn.
 
 ### ART. 13.
 
-De termijn waarbinnen de bestemmingswijziging of de sloop, krachtens artikel 19 van de Vlaamse Wooncode moet gerealiseerd zijn, bedraagt:<br />1° 36 maanden als een stedenbouwkundige vergunning nodig is overeenkomstig artikel 99 van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening;<br />2° 12 maanden als geen stedenbouwkundige vergunning vereist is.<br /><br />Een verlenging van deze termijnen kan om buitengewone omstandigheden verkregen worden. Deze verlenging dient aangevraagd te worden bij het agentschap.<br /><br />De aanvraagmodaliteiten zijn dezelfde als deze bedoeld artikel 12.<br /><br />Het bewijs van bestemmingswijziging of sloop moet vóór het verstrijken van de eventueel verlengde termijn geleverd worden aan de gemeente en aan de gewestelijk ambtenaar.
+De termijn waarbinnen de bestemmingswijziging of de sloop, krachtens artikel 19 van de Vlaamse Wooncode moet gerealiseerd zijn, bedraagt:<br />1° 36 maanden als een stedenbouwkundige vergunning nodig is overeenkomstig artikel 4.2.1. van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009;<br />2° 12 maanden als geen stedenbouwkundige vergunning vereist is.<br /><br />Een verlenging van deze termijnen kan om buitengewone omstandigheden verkregen worden. Deze verlenging dient aangevraagd te worden bij het agentschap.<br /><br />De aanvraagmodaliteiten zijn dezelfde als deze bedoeld artikel 12.<br /><br />Het bewijs van bestemmingswijziging of sloop moet vóór het verstrijken van de eventueel verlengde termijn geleverd worden aan de gemeente en aan de gewestelijk ambtenaar.
 
 ## ONDERAFDELING C DE MOGELIJKHEID OM BIJ OVEREENKOMST HET ZAKELIJK RECHT OP DE WONING OVER TE DRAGEN OF DE WONING IN HOOFDHUUR TE GEVEN AAN BEPAALDE INSTANTIES
 
@@ -90,13 +90,13 @@ De voorwaarden inzake herhuisvesting, bedoeld in artikel 18, § 2, tweede lid, v
 
 ### ART. 17.
 
-De conformiteit van de woningen met de vereisten inzake veiligheid, gezondheid, woonkwaliteit, brandveiligheid en woningbezetting kan gecontroleerd worden, in zoverre de controle gebeurt met het oog op de afgifte of de intrekking van een conformiteitsattest, door de door de burgemeester aangewezen technische ambtenaren van de gemeente, waar de woning die als hoofdverblijfplaats gelegen is, onverminderd het bepaalde in artikel 2, eerste lid.
+De conformiteit van de woningen met de vereisten inzake veiligheid, gezondheid, woonkwaliteit, brandveiligheid en woningbezetting kan gecontroleerd worden, in zoverre de controle gebeurt met het oog op de afgifte of de intrekking van een conformiteitsattest, door de door de burgemeester aangewezen technische ambtenaren van de gemeente, waar de woning die als hoofdverblijfplaats gelegen is, onverminderd het bepaalde in artikel 2.
 
 ## AFDELING 2 NORMEN INZAKE NIET-CONFORMITEIT
 
 ### ART. 18.
 
-De conformiteit van een woning die als hoofdverblijfplaats verhuurd wordt, zoals bedoeld in artikel 7, eerste lid, van de Vlaamse Wooncode, wordt beoordeeld aan de hand van de delen B, C, en D van het technisch verslag, gevoegd als bijlage I bij dit besluit.<br /><br />Onverminderd de toepassing van artikel 10 van de Vlaamse Wooncode, wordt de woning niet conform bevonden:<br /><br />1° als ze volgens het technisch verslag een eindscore van 15 punten of meer behaalt, waarbij een gebrek van categorie I geldt voor 1 punt, van categorie II voor 3 punten, van categorie III voor 9 punten en van categorie IV voor 15 punten;<br /><br />2° als de omvang van de woning niet voldoet aan de vereisten inzake woningbezetting, bedoeld in artikel 5.
+De conformiteit van een woning als vermeld in artikel 7, eerste lid, van de Vlaamse Wooncode, wordt beoordeeld aan de hand van de delen B, C, en D van het technisch verslag, gevoegd als bijlage I bij dit besluit.<br /><br />Onverminderd de toepassing van artikel 10 van de Vlaamse Wooncode, wordt de woning niet conform bevonden:<br />1° als ze volgens het technisch verslag een eindscore van 15 punten of meer behaalt, waarbij een gebrek van categorie I geldt voor 1 punt, van categorie II voor 3 punten, van categorie III voor 9 punten en van categorie IV voor 15 punten;<br />2° als de omvang van de woning niet voldoet aan de vereisten inzake woningbezetting, bedoeld in artikel 5.
 
 ## AFDELING 3 PROCEDURE VOOR HET VERKRIJGEN VAN EEN CONFORMITEITSATTEST
 
@@ -132,7 +132,7 @@ De beslissing tot intrekking wordt betekend aan de verhuurder.<br /><br />Daarbi
 
 ### ART. 26.
 
-§ 1. De volgende woningen zijn onderworpen aan de toepassing van hoofdstuk II van titel III van de Vlaamse Wooncode en aan de toepassing van dit hoofdstuk :<br />1° elke woning die gerealiseerd werd voor 1 november 1998 en meer dan 20 jaar voor de aanvraag van het conformiteitsattest;<br />2° elke woning, vermeld in artikel 14, § 1, tweede lid, van de Vlaamse Wooncode.<br /><br />§ 2. Voor de woningen, gerealiseerd voor 1 november 1998 en minder dan 20 jaar voor de aanvraag van het conformiteitsattest, kan een dergelijk attest verkregen worden zonder het voorafgaande conformiteitsonderzoek, vermeld in artikel 18.<br /><br />De procedure voor de aanvraag, bedoeld in het vorige lid, is dezelfde als de procedure voor de aanvraag van het conformiteitsattest voor woningen, bedoeld in § 1, met uitzondering van de specifieke bepalingen betreffende het conformiteitsonderzoek, en met dien verstande dat de volgende stukken moeten worden bijgevoegd :<br />1° een verklaring dat de woning voldoet aan de normen, opgenomen in artikel 5 van de Vlaamse Wooncode;<br />2° een schema van de indeling van de woning, waarbij de functies van de lokalen opgenomen zijn.<br />
+...
 
 ## [HOOFDSTUK III AANVULLENDE BEPALINGEN VOOR WONINGEN WAARVOOR EEN HERSTELVORDERING WERD UITGEBRACHT (ing. BVR 20 mei 2011, art.18, I: 27 juni 2011)]
 
@@ -222,19 +222,15 @@ Met een gemotiveerd verzoekschrift kan binnen de dertig dagen volgend op de schr
 
 ### ART. 42.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 6 van het besluit van de Vlaamse regering van 2 april 1996 betreffende de heffing ter bestrijding van leegstand en verkrotting van gebouwen en/of woningen)
-
-### ART. 42.
-
 ...
 
 ### ART. 43.
 
-(niet opgenomen)<br /><br />(Voegt artikel 6bis in in hetzelfde decreet)
+...
 
 ### ART. 44.
 
-(niet opgenomen)<br /><br />(Wijzigt de bijlage II van hetzelfde besluit)
+...
 
 ## TITEL V SLOTBEPALINGEN
 
