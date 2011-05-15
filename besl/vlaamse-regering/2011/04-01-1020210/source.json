@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020210,
+  "title": "Besluit van de Vlaamse Regering van 2011-04-01 tot wijziging van het besluit van de Vlaamse Regering van 20 april 1994 tot uitvoering van het decreet van 30 juni 1993 houdende de bescherming van het archeologisch patrimonium wat betreft het gebruik van beveiligde zendingen, minimumnormen voor het uitvoeren van archeologisch onderzoek en de behandeling van de beroepsprocedure door de expertencommissie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020210/VolledigDocument?datum=2011-05-15",
+  "source_sha256": "b3b492d5d3df622a9e4ebdba0c652caac810c64810fad3d57c790b5b9533f909",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020210&param=informatie",
+  "as_of": "2011-05-15",
+  "made": "2011-04-01",
+  "gazette": "2011-05-05",
+  "numac": 2011201999,
+  "document_start": "2011-05-15",
+  "document_end": null,
+  "in_force": "2011-05-15",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2011-05-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
