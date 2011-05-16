@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020232,
+  "title": "Besluit van de Vlaamse Regering van 2011-04-08 houdende indeling bij de gemeentewegen van de gewestweg N32 Geldmuntstraat, Noordzandstraat tussen kmp. 0,000 en kmp. 0,496 op het grondgebied van de stad Brugge",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020232/VolledigDocument?datum=2011-05-16",
+  "source_sha256": "f277536b1855be6e4c06822e7a4cca85addcab76bd2754cff587825c7f8c6369",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020232&param=informatie",
+  "as_of": "2011-05-16",
+  "made": "2011-04-08",
+  "gazette": "2011-05-06",
+  "numac": 2011202075,
+  "document_start": "2011-05-16",
+  "document_end": null,
+  "in_force": "2011-05-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-05-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
