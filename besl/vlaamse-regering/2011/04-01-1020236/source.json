@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020236,
+  "title": "Besluit van de Vlaamse Regering van 2011-04-01 tot wijziging van het besluit van de Vlaamse Regering van 24 juli 2009 tot organisatie van de kabinetten van de leden van de Vlaamse Regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020236/VolledigDocument?datum=2011-05-19",
+  "source_sha256": "2bc3cd9acc77382e8c2acf1772ef57ba816c48050881df916db59609e200e9a1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020236&param=informatie",
+  "as_of": "2011-05-19",
+  "made": "2011-04-01",
+  "gazette": "2011-05-09",
+  "numac": 2011202196,
+  "document_start": "2011-05-19",
+  "document_end": null,
+  "in_force": "2011-05-19",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-05-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
