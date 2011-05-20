@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020237,
+  "title": "Besluit van de Vlaamse Regering van 2011-04-08 houdende de vaststelling van de noodzaak tot verplichte wijziging van de inplanting van de installaties voor het vervoer van vloeibare koolwaterstoffen door middel van leidingen van Essen naar Antwerpen, van de NV Rotterdam-Antwerpen Pijpleiding, gelegen op het grondgebied van de stad Antwerpen ter hoogte van uitwatering Esso, ten behoeve van de te realiseren dijkverhoging in uitvoering van het Geactualiseerd Sigmaplan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020237/VolledigDocument?datum=2011-05-20",
+  "source_sha256": "06a3ba276ddcd1afb73b97225cb1627b0ba4b817f72272d3501fbfcf75e37cbc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020237&param=informatie",
+  "as_of": "2011-05-20",
+  "made": "2011-04-08",
+  "gazette": "2011-05-10",
+  "numac": 0,
+  "document_start": "2011-05-20",
+  "document_end": null,
+  "in_force": "2011-05-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-05-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
