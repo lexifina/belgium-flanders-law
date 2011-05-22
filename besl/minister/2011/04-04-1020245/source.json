@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020245,
+  "title": "Ministerieel besluit van 2011-04-04 tot vaststelling van de algemene toekenningsvoorwaarden van de projectmiddelen voor de landschapswerking van regionale landschappen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020245/VolledigDocument?datum=2011-05-22",
+  "source_sha256": "de1a923b7082c5daebdfd609b8148a2a222ab05d5d090d309363a3f1f414bb0e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020245&param=informatie",
+  "as_of": "2011-05-22",
+  "made": "2011-04-04",
+  "gazette": "2011-05-12",
+  "numac": 2011202191,
+  "document_start": "2011-05-22",
+  "document_end": null,
+  "in_force": "2011-05-22",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2011-05-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
