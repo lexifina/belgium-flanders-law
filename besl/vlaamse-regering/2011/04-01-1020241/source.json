@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020241,
+  "title": "Besluit van de Vlaamse Regering van 2011-04-01 tot wijziging van de artikelen 4 en 14 van het besluit van de Vlaamse Regering van 29 mei 2009 betreffende de ondersteuning van de Industriële Onderzoeksfondsen en de interfaceactiviteiten van de associaties in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020241/VolledigDocument?datum=2011-05-22",
+  "source_sha256": "b0cf758c1f5a95677ccaa1d7e39a8d5807cb4f83e089f1478242113de85a159a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020241&param=informatie",
+  "as_of": "2011-05-22",
+  "made": "2011-04-01",
+  "gazette": "2011-05-12",
+  "numac": 2011202194,
+  "document_start": "2011-05-22",
+  "document_end": null,
+  "in_force": "2011-05-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-05-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
