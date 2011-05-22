@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op de wet van 12 juli 1976 houdende bijzon
 
 ### ART. 1.
 
-Er wordt overgegaan tot gebruiksruil op het grondgebied van de gemeente Knokke-Heist (9e afdeling (Ramskapelle) en 10e afdeling (Westkapelle)) en de stad Damme (3e afdeling (Oostkerke) en 4e afdeling (Hoeke)), zoals is aangeduid op de kaart die als bijlage bij dit besluit is gevoegd, en die hierna gebruiksruil A11, traject Leopoldkanaal-N49 zal worden genoemd.<br /><br />
+Er wordt overgegaan tot gebruiksruil op het grondgebied van de gemeente Knokke-Heist (9e afdeling (Ramskapelle) en 10e afdeling (Westkapelle)) en de stad Damme (3e afdeling (Oostkerke) en 4e afdeling (Hoeke)), en die hierna gebruiksruil A11, traject Leopoldkanaal-N49 zal worden genoemd.<br /><br />
 
 ### ART. 2.
 
@@ -24,4 +24,4 @@ De Vlaamse minister, bevoegd voor de landinrichting, is belast met de uitvoering
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2010/01/07_1.pdf#page=33" title=" Kaart" target="_blank" class="pdf">Kaart</a>
+...
