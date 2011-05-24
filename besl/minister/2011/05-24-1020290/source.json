@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020290,
+  "title": "Ministerieel besluit van 2011-05-24 tot wijziging van : - het ministerieel besluit van 22 februari 2005 tot uitvoering van bepaalde bepalingen van het besluit van de Vlaamse Regering van 18 februari 2005 betreffende bepaalde procedurele aspecten van de waarborgregeling voor kleine en middelgrote ondernemingen;- het ministerieel besluit van 8 juni 2005 tot uitvoering van bepaalde bepalingen van het besluit van de Vlaamse Regering van 27 mei 2005 betreffende bepaalde procedurele aspecten van de waarborgregeling voor kleine en middelgrote ondernemingen die hinder ondervinden als gevolg van openbare werken;- het ministerieel besluit van 6 mei 2009 tot uitvoering van bepaalde bepalingen van het besluit van de Vlaamse Regering van 27 maart 2009 betreffende bepaalde procedurele aspecten van de waarborgregeling voor kleine en middelgrote ondernemingen met betrekking tot de leasingmaatschappijen;",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020290/VolledigDocument?datum=2011-05-24",
+  "source_sha256": "5b79f6f130cf519402e7353113c9becf7e02b53ac0d45b067051bbdeb9afc99b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020290&param=informatie",
+  "as_of": "2011-05-24",
+  "made": "2011-05-24",
+  "gazette": "2011-06-09",
+  "numac": 2011202741,
+  "document_start": "2011-05-24",
+  "document_end": null,
+  "in_force": "2011-05-24",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2011-05-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
