@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020256,
+  "title": "Decreet van 2011-04-29 houdende instemming met de avenant van 7 juli 2008 aan het Samenwerkingsakkoord van 30 mei 2005 tussen de Federale Staat, het Vlaamse, het Waalse en het Brusselse Hoofdstedelijke Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020256/VolledigDocument?datum=2011-05-27",
+  "source_sha256": "ffc716fc9cc0e7b3234edf90f7640e5742f944baa7ddc0a1c378fe0fcd53149b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020256&param=informatie",
+  "as_of": "2011-05-27",
+  "made": "2011-04-29",
+  "gazette": "2011-05-17",
+  "numac": 2011202277,
+  "document_start": "2011-05-27",
+  "document_end": null,
+  "in_force": "2011-05-27",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-05-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
