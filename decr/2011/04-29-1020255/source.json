@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020255,
+  "title": "Decreet van 2011-04-29 houdende wijziging van artikel 16 van het decreet van 7 mei 2004 houdende aanvullende subsidies voor tewerkstelling in de culturele sector",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020255/VolledigDocument?datum=2011-05-27",
+  "source_sha256": "fb29d57ce67f69745354c4dd99ec939f04b46584e0bb4d67224d2312ab4d9fa7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020255&param=informatie",
+  "as_of": "2011-05-27",
+  "made": "2011-04-29",
+  "gazette": "2011-05-17",
+  "numac": 2011202276,
+  "document_start": "2011-05-27",
+  "document_end": null,
+  "in_force": "2011-05-27",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-05-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
