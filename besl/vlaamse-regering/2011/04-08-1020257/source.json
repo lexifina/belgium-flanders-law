@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020257,
+  "title": "Besluit van de Vlaamse Regering van 2011-04-08 houdende opheffing van watering De Lestpolder, watering De Kortelake, watering De Rijt, watering De Gavergracht, watering De Gaver, watering van Schendelbeke, watering De Kwaadbroeken en watering Idegem-Appelterre",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020257/VolledigDocument?datum=2011-05-27",
+  "source_sha256": "f28c3a464eee4f55f94c787d8600f8f219c9986f85e7b64aed321ca9970ef84a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020257&param=informatie",
+  "as_of": "2011-05-27",
+  "made": "2011-04-08",
+  "gazette": "2011-05-17",
+  "numac": 2011202295,
+  "document_start": "2011-05-27",
+  "document_end": null,
+  "in_force": "2011-05-27",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-05-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
