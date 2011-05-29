@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020262,
+  "title": "Ministerieel besluit van 2011-04-11 tot erkenning van de beroepsfederaties, vermeld in artikel 2, 6°, van het besluit van de Vlaamse Regering van 10 december 2010 tot uitvoering van het decreet betreffende de private arbeidsbemiddeling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020262/VolledigDocument?datum=2011-05-29",
+  "source_sha256": "494c74d081e4b36c1519437c9260b112c24fc40f983054ecf1ad4571f351e8d1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020262&param=informatie",
+  "as_of": "2011-05-29",
+  "made": "2011-04-11",
+  "gazette": "2011-05-19",
+  "numac": 2011202291,
+  "document_start": "2011-05-29",
+  "document_end": null,
+  "in_force": "2011-05-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-05-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
