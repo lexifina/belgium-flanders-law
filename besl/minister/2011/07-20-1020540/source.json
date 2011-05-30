@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020540,
+  "title": "Ministerieel besluit van 2011-07-20 tot wijziging van het ministerieel besluit van 18 februari 2008 tot bepaling van de standaard voor de titel van hovenier aanleg parken en tuinen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020540/VolledigDocument?datum=2011-05-30",
+  "source_sha256": "59d1765007dee9f576287ce532e5224d5710cce62d7e9e2fabe56fb12d95d373",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020540&param=informatie",
+  "as_of": "2011-05-30",
+  "made": "2011-07-20",
+  "gazette": "2011-08-17",
+  "numac": 2011204034,
+  "document_start": "2011-05-30",
+  "document_end": null,
+  "in_force": "2011-05-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-05-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
