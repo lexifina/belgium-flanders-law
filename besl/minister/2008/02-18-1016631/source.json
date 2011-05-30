@@ -2,16 +2,16 @@
   "codex_id": 1016631,
   "title": "Ministerieel besluit van 2008-02-18 tot bepaling van de standaard voor de titel van hovenier onderhoud van parken en tuinen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016631/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "dcc0d734e6366fe400301d9fde11a5890fd667b04beba088a06d6fad7df9c45a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016631/VolledigDocument?datum=2011-05-30",
+  "source_sha256": "b730880e3eb38426fe5ab5976efb2adf863219304834ff99ebf58ff21173aad3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016631&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2011-05-30",
   "made": "2008-02-18",
   "gazette": "2008-03-03",
   "numac": 2008035349,
   "document_start": "2008-01-01",
   "document_end": "2899-12-31",
-  "in_force": "2008-01-01",
+  "in_force": "2011-05-30",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-05-30; future article versions excluded; article text as the API gives it"
 }
