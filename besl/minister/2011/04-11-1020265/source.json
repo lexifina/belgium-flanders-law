@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020265,
+  "title": "Ministerieel besluit van 2011-04-11 betreffende de aanwijzing van zwemwateren voor het badseizoen 2011",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020265/VolledigDocument?datum=2011-05-30",
+  "source_sha256": "c5f9ff026373cb972f19de95a83b9f56dd2c7775bfa238d8fd1ed48ff245b551",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020265&param=informatie",
+  "as_of": "2011-05-30",
+  "made": "2011-04-11",
+  "gazette": "2011-05-20",
+  "numac": 2011202156,
+  "document_start": "2011-05-30",
+  "document_end": null,
+  "in_force": "2011-05-30",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-05-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
