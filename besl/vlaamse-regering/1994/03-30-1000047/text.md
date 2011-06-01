@@ -46,112 +46,66 @@ De leden van de geschillencommissie worden aangeduid door de gedelegeerd bestuur
 
 ### ART. 8.
 
-<p>§ 1. Aan de hiernavolgende betrekkingen (voltijdse prestaties) worden de salarisschalen verbonden die overeenkomen met de volgende codes :<br>
-</p>
+<p>§ 1. Aan de onderstaande betrekkingen (voltijdse prestaties) worden de salarisschalen verbonden die overeenkomen met de volgende codes :</p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top">
-			<p>Salarisschaal<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top">
-			<p>Code</p>
-			</td>
+			<td>Salarisschaal</td>
+			<td>Code</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>1° instructeur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>1a</p>
-			</td>
+			<td>1° instructeur</td>
+			<td>1a</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>a) na drie jaar functionele anciënniteit in de salarisschaal 1a en een gunstige beschrijvende beoordeling</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>1b</p>
-			</td>
+			<td>a) na drie jaar functionele anciënniteit in de salarisschaal 1a en een gunstige beschrijvende beoordeling</td>
+			<td>1b</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>b) na drie jaar functionele anciënniteit in de salarisschaal 1b en een gunstige beschrijvende beoordeling</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>1c</p>
-			</td>
+			<td>b) na drie jaar functionele anciënniteit in de salarisschaal 1b en een gunstige beschrijvende beoordeling</td>
+			<td>1c</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>2° eerste instructeur trainingsmanager B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>2</p>
-			</td>
+			<td>2° eerste instructeur trainingsmanager B</td>
+			<td>2</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>3° coördinator trainingsmanager A</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>3</p>
-			</td>
+			<td>3° coördinator trainingsmanager A</td>
+			<td>3</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>4° auditor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>4</p>
-			</td>
+			<td>4° auditor</td>
+			<td>4</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>5° technisch adviseur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>5</p>
-			</td>
+			<td>5° technisch adviseur</td>
+			<td>5</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>6° handlanger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>6</p>
-			</td>
+			<td>6° directeur</td>
+			<td>6</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>7° snijder, magazijnier</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>7</p>
-			</td>
+			<td>7° handlanger</td>
+			<td>7</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>8° geschoold onderhoudsarbeider</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>8</p>
-			</td>
+			<td>8° snijder, magazijnier</td>
+			<td>8</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>9° hoofdmagazijnier, gereedschapsmaker</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>9</p>
-			</td>
+			<td>9° geschoold onderhoudsarbeider</td>
+			<td>9</td>
+		</tr>
+		<tr>
+			<td>10° hoofdmagazijnier, gereedschapsmaker</td>
+			<td>10</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
+<br>
+De salarisschalen, vermeld in het eerste lid, worden vastgesteld in de tabel, opgenomen in de bijlage die bij dit besluit is gevoegd.
 <p>&nbsp;</p>
 
 <p>§ 2. Het salaris volgt de evolutie van het indexcijfer van de consumptieprijzen, overeenkomstig de bepalingen voorgeschreven door de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld. Het salaris tegen 100 % wordt gekoppeld aan het spilindexcijfer 138,01 (102,02).<br>
@@ -160,7 +114,7 @@ De leden van de geschillencommissie worden aangeduid door de gedelegeerd bestuur
 
 ### ART. 9.
 
-Voor bepaalde instructeursfuncties waarvan objectief aangetoond wordt dat ze niet bezet kunnen worden, kan de raad van bestuur, naast het brutosalaris, op voorstel van de dienst en na advies van het tussenoverlegcomité een in tijd beperkte premie toekennen.<br /><br />De premie wordt bepaald overeenkomstig de gangbare bezoldiging voor een overeenkomstige functie in de betreffende industrietak.
+<P>§ 1. Voor bepaalde instructeursfuncties waarvan objectief aangetoond wordt   dat ze niet bezet kunnen worden, kan de raad van bestuur, naast het   brutosalaris, op voorstel van de dienst en na advies van het tussenoverlegcomité   een in tijd beperkte premie toekennen.<BR><BR>De premie wordt bepaald   overeenkomstig de gangbare bezoldiging voor een overeenkomstige functie in de   betreffende industrietak.</P>  <P>§ 2. Aan personeelsleden, bezoldigd in de salarisschalen 1a, 1b, 1c, 2, 3 en   4, die tijdelijk worden belast met de leiding van een strategisch project, kan   de raad van bestuur, op voorstel van de dienst en na advies van het   Entiteitsoverlegcomité, een projectleiderstoelage toekennen.<BR><BR>Onder   strategisch project wordt verstaan een project dat als dusdanig is opgenomen in   het jaarlijks ondernemingsplan van de Vlaamse Dienst voor Arbeidsbemiddeling en   Beroepsopleiding, goedgekeurd door de raad van bestuur.<BR><BR>Bij het   vaststellen van de toelage wordt rekening gehouden met volgende criteria :<BR>1°   de moeilijkheidsgraad en complexiteit van het project;<BR>2° de maatschappelijke   of organisatorische relevantie van het project;<BR>3° de duurtijd van het   project;<BR>4° de verantwoordelijkheid van de projectleider.<BR><BR>De   projectleiderstoelage wordt toegekend voor de duur van het strategisch project   en is maximaal gelijk aan het verschil tussen het salaris van de projectleider   en het overeenstemmende salaris voor dezelfde geldelijke anciënniteit in de   salarisschaal 5. </P>
 
 ### ART. 10.
 
@@ -198,6 +152,10 @@ De reis- en verblijfkostenreglementering die van toepassing is op de ambtenaren 
 
 ## [AFDELING 4 RECHTEN EN PLICHTEN (ing. BVR 16 maart 2012, art. 3)]
 
+### ART. 15ter.
+
+Deel II van het besluit van de Vlaamse Regering van 13 januari 2006   houdende vaststelling van de rechtspositie van het personeel van de diensten van   de Vlaamse overheid is van toepassing op het contractuele personeelslid, vermeld   in artikel 1.
+
 ## HOOFDSTUK IV OVERGANGSBEPALINGEN
 
 ### ART. 16.
@@ -228,7 +186,8 @@ De Vlaamse minister, bevoegd voor het tewerkstellingsbeleid en voor de beroepsom
 
 [BIJLAGE SALARISSCHALEN
 <p>Bijlage bij het besluit van de Vlaamse Regering van 30 maart 1994 houdende vaststelling van de rechtspositieregeling van het instructiepersoneel en het technisch omkaderingspersoneel, bij arbeidsovereenkomst aangeworven bij de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding<br>
-Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 31 mei 2011</p>
+<br>
+Salarisschalen als vermeld in artikel 8, geldig vanaf 1 juni 2011</p>
 
 <table border="1">
 	<tbody>
@@ -245,6 +204,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>7</td>
 			<td>8</td>
 			<td>9</td>
+			<td>10</td>
 		</tr>
 		<tr>
 			<td>code</td>
@@ -255,6 +215,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>5121</td>
 			<td>5132</td>
 			<td>5142</td>
+			<td>5152</td>
 			<td>5413</td>
 			<td>5423</td>
 			<td>5433</td>
@@ -269,6 +230,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>1/2 x 650,00</td>
 			<td>1/2 x 750,00</td>
 			<td>2/2 x 850,00</td>
+			<td>2/2 x 1000,00</td>
 			<td>1/2 x 360,00</td>
 			<td>1/2 x 350,00</td>
 			<td>1/2 x 460,00</td>
@@ -283,6 +245,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>1/2 x 700,00</td>
 			<td>1/2 x 800,00</td>
 			<td>1/2 x 800,00</td>
+			<td>1/2 x 950,00</td>
 			<td>1/2 x 350,00</td>
 			<td>3/2 x 410,00</td>
 			<td>1/2 x 410,00</td>
@@ -297,6 +260,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>1/2 x 650,00</td>
 			<td>2/2 x 750,00</td>
 			<td>1/2 x 850,00</td>
+			<td>1/2 x 1000,00</td>
 			<td>1/2 x 410,00</td>
 			<td>1/2 x 350,00</td>
 			<td>1/2 x 460,00</td>
@@ -311,6 +275,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>1/2 x 700,00</td>
 			<td>1/2 x 800,00</td>
 			<td>1/2 x 800,00</td>
+			<td>1/2 x 950,00</td>
 			<td>2/2 x 360,00</td>
 			<td>3/2 x 410,00</td>
 			<td>1/2 x 400,00</td>
@@ -325,6 +290,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>1/2 x 650,00</td>
 			<td>1/2 x 750,00</td>
 			<td>2/2 x 850,00</td>
+			<td>2/2 x 1000,00</td>
 			<td>1/2 x 350,00</td>
 			<td>1/2 x 350,00</td>
 			<td>1/2 x 450,00</td>
@@ -333,12 +299,13 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 		<tr>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>1/2 x550,00</td>
+			<td>1/2 x 550,00</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;3/2 x 650,00</td>
 			<td>1/2 x 700,00</td>
 			<td>1/2 x 800,00</td>
 			<td>1/2 x 800,00</td>
+			<td>1/2 x 950,00</td>
 			<td>2/2 x 360,00</td>
 			<td>4/2 x 400,00</td>
 			<td>2/2 x 400,00</td>
@@ -353,6 +320,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>1/2 x 650,00</td>
 			<td>2/2 x 750,00</td>
 			<td>2/2 x 850,00</td>
+			<td>2/2 x 1000,00</td>
 			<td>1/2 x 410,00</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;1/2 x 450,00</td>
@@ -367,6 +335,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>2/2 x 700,00</td>
 			<td>1/2 x 800,00</td>
 			<td>2/2 x 800,00</td>
+			<td>2/2 x 950,00</td>
 			<td>1/2 x 350,00</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;1/2 x 400,00</td>
@@ -381,6 +350,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>2/2 x 650,00</td>
 			<td>2/2 x 750,00</td>
 			<td>1/2 x 850,00</td>
+			<td>1/2 x 1000,00</td>
 			<td>1/2 x 360,00</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;1/2 x 450,00</td>
@@ -395,7 +365,8 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>2/2 x 700,00</td>
 			<td>1/2 x 800,00</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;2/2 x 350,00</td>
+			<td>&nbsp;</td>
+			<td>2/2 x 350,00</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;1/2 x 400,00</td>
 			<td>&nbsp;</td>
@@ -411,7 +382,8 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;1/2 x 450,00</td>
+			<td>&nbsp;</td>
+			<td>1/2 x 450,00</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -425,7 +397,8 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>1/2 x 400,00</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;1/2 x 400,00</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -437,6 +410,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>28.530,00</td>
 			<td>32.280,00</td>
 			<td>34.680,00</td>
+			<td>40.400,00</td>
 			<td>17.170,00</td>
 			<td>18.390,00</td>
 			<td>19.820,00</td>
@@ -451,6 +425,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>28.530,00</td>
 			<td>32.280,00</td>
 			<td>34.680,00</td>
+			<td>40.400,00</td>
 			<td>17.170,00</td>
 			<td>18.390,00</td>
 			<td>19.820,00</td>
@@ -465,6 +440,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>29.180,00</td>
 			<td>33.030,00</td>
 			<td>35.530,00</td>
+			<td>41.400,00</td>
 			<td>17.530,00</td>
 			<td>18.740,00</td>
 			<td>20.280,00</td>
@@ -479,6 +455,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>29.180,00</td>
 			<td>33.030,00</td>
 			<td>35.530,00</td>
+			<td>41.400,00</td>
 			<td>17.530,00</td>
 			<td>18.740,00</td>
 			<td>20.280,00</td>
@@ -493,6 +470,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>29.880,00</td>
 			<td>33.830,00</td>
 			<td>36.380,00</td>
+			<td>42.400,00</td>
 			<td>17.880,00</td>
 			<td>19.150,00</td>
 			<td>20.690,00</td>
@@ -507,6 +485,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>29.880,00</td>
 			<td>33.830,00</td>
 			<td>36.380,00</td>
+			<td>42.400,00</td>
 			<td>17.880,00</td>
 			<td>19.150,00</td>
 			<td>20.690,00</td>
@@ -521,6 +500,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>30.530,00</td>
 			<td>34.580,00</td>
 			<td>37.180,00</td>
+			<td>43.350,00</td>
 			<td>18.290,00</td>
 			<td>19.560,00</td>
 			<td>21.150,00</td>
@@ -535,6 +515,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>30.530,00</td>
 			<td>34.580,00</td>
 			<td>37.180,00</td>
+			<td>43.350,00</td>
 			<td>18.290,00</td>
 			<td>19.560,00</td>
 			<td>21.150,00</td>
@@ -549,6 +530,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>31.230,00</td>
 			<td>35.330,00</td>
 			<td>38.030,00</td>
+			<td>44.350,00</td>
 			<td>18.650,00</td>
 			<td>19.970,00</td>
 			<td>21.550,00</td>
@@ -563,6 +545,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>31.230,00</td>
 			<td>35.330,00</td>
 			<td>38.030,00</td>
+			<td>44.350,00</td>
 			<td>18.650,00</td>
 			<td>19.970,00</td>
 			<td>21.550,00</td>
@@ -577,6 +560,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>31.880,00</td>
 			<td>36.130,00</td>
 			<td>38.830,00</td>
+			<td>45.300,00</td>
 			<td>19.010,00</td>
 			<td>20.320,00</td>
 			<td>22.000,00</td>
@@ -591,6 +575,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>31.880,00</td>
 			<td>36.130,00</td>
 			<td>38.830,00</td>
+			<td>45.300,00</td>
 			<td>19.010,00</td>
 			<td>20.320,00</td>
 			<td>22.000,00</td>
@@ -605,6 +590,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>32.580,00</td>
 			<td>36.880,00</td>
 			<td>39.680,00</td>
+			<td>46.300,00</td>
 			<td>19.360,00</td>
 			<td>20.730,00</td>
 			<td>22.400,00</td>
@@ -619,6 +605,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>32.580,00</td>
 			<td>36.880,00</td>
 			<td>39.680,00</td>
+			<td>46.300,00</td>
 			<td>19.360,00</td>
 			<td>20.730,00</td>
 			<td>22.400,00</td>
@@ -633,6 +620,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>33.230,00</td>
 			<td>37.680,00</td>
 			<td>40.530,00</td>
+			<td>47.300,00</td>
 			<td>19.720,00</td>
 			<td>21.140,00</td>
 			<td>22.800,00</td>
@@ -647,6 +635,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>33.230,00</td>
 			<td>37.680,00</td>
 			<td>40.530,00</td>
+			<td>47.300,00</td>
 			<td>19.720,00</td>
 			<td>21.140,00</td>
 			<td>22.800,00</td>
@@ -661,6 +650,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>33.930,00</td>
 			<td>38.430,00</td>
 			<td>41.330,00</td>
+			<td>48.250,00</td>
 			<td>20.080,00</td>
 			<td>21.550,00</td>
 			<td>23.250,00</td>
@@ -675,6 +665,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>33.930,00</td>
 			<td>38.430,00</td>
 			<td>41.330,00</td>
+			<td>48.250,00</td>
 			<td>20.080,00</td>
 			<td>21.550,00</td>
 			<td>23.250,00</td>
@@ -689,6 +680,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>34.630,00</td>
 			<td>39.180,00</td>
 			<td>42.180,00</td>
+			<td>49.250,00</td>
 			<td>20.490,00</td>
 			<td>21.900,00</td>
 			<td>23.650,00</td>
@@ -703,6 +695,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>34.630,00</td>
 			<td>39.180,00</td>
 			<td>42.180,00</td>
+			<td>49.250,00</td>
 			<td>20.490,00</td>
 			<td>21.900,00</td>
 			<td>23.650,00</td>
@@ -717,6 +710,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>35.280,00</td>
 			<td>39.980,00</td>
 			<td>43.030,00</td>
+			<td>50.250,00</td>
 			<td>20.840,00</td>
 			<td>22.300,00</td>
 			<td>24.100,00</td>
@@ -731,6 +725,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>35.280,00</td>
 			<td>39.980,00</td>
 			<td>43.030,00</td>
+			<td>50.250,00</td>
 			<td>20.840,00</td>
 			<td>22.300,00</td>
 			<td>24.100,00</td>
@@ -745,6 +740,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>35.930,00</td>
 			<td>40.730,00</td>
 			<td>43.830,00</td>
+			<td>51.200,00</td>
 			<td>21.200,00</td>
 			<td>22.700,00</td>
 			<td>24.500,00</td>
@@ -759,6 +755,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>35.930,00</td>
 			<td>40.730,00</td>
 			<td>43.830,00</td>
+			<td>51.200,00</td>
 			<td>21.200,00</td>
 			<td>22.700,00</td>
 			<td>24.500,00</td>
@@ -773,6 +770,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>36.630,00</td>
 			<td>41.480,00</td>
 			<td>44.630,00</td>
+			<td>52.150,00</td>
 			<td>21.550,00</td>
 			<td>23.100,00</td>
 			<td>24.950,00</td>
@@ -787,6 +785,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>36.630,00</td>
 			<td>41.480,00</td>
 			<td>44.630,00</td>
+			<td>52.150,00</td>
 			<td>21.550,00</td>
 			<td>23.100,00</td>
 			<td>24.950,00</td>
@@ -801,6 +800,7 @@ Salarisschalen als vermeld in artikel 8, geldig vanaf 1 januari 2009 tot en met 
 			<td>37.330,00</td>
 			<td>42.280,00</td>
 			<td>45.480,00</td>
+			<td>53.150,00</td>
 			<td>21.900,00</td>
 			<td>23.500,00</td>
 			<td>25.350,00</td>
