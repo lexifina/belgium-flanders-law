@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022527,
+  "title": "Besluit van de Vlaamse Regering van 2012-11-23 tot wijziging van artikel 9 van het besluit van de Vlaamse Regering van 30 maart 1994 houdende vaststelling van de rechtspositieregeling van het instructiepersoneel en het technisch omkaderingspersoneel bij arbeidsovereenkomst aangeworven bij de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022527/VolledigDocument?datum=2011-06-01",
+  "source_sha256": "edc84effe9c1192970fcf878844917f700283fbef0c5d040f9e1b1eaee02e665",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022527&param=informatie",
+  "as_of": "2011-06-01",
+  "made": "2012-11-23",
+  "gazette": "2012-12-11",
+  "numac": 2012036229,
+  "document_start": "2011-06-01",
+  "document_end": null,
+  "in_force": "2011-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
