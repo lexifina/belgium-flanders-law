@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020274,
+  "title": "Besluit van de Vlaamse Regering van 2011-04-29 houdende goedkeuring van de wijziging van de statuten van de Vlaamse Landmaatschappij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020274/VolledigDocument?datum=2011-06-05",
+  "source_sha256": "4f6070d61dccbfe5d0fd54ba1514ae9c2a50064f0a1a6e6c1241b806570245a6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020274&param=informatie",
+  "as_of": "2011-06-05",
+  "made": "2011-04-29",
+  "gazette": "2011-05-26",
+  "numac": 2011035377,
+  "document_start": "2011-06-05",
+  "document_end": null,
+  "in_force": "2011-06-05",
+  "article_versions": 40,
+  "record_form": "consolidated version as in force on 2011-06-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
