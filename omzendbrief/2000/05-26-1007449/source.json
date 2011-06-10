@@ -2,16 +2,16 @@
   "codex_id": 1007449,
   "title": "Omzendbrief van 2000-05-26 BA-2000/03 Gemeentebelastingen: coördinatie van de onderrichtingen",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007449/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "eff562383fdd06ce8870bc47b342b86e09e9efabb09113cd0bacf8f90fcfe88e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007449/VolledigDocument?datum=2011-06-10",
+  "source_sha256": "2fffb3d387445a91bf8b9994f472f7a65040981a368a87f53cdf36312fbc3d0a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007449&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-06-10",
   "made": "2000-05-26",
   "gazette": "2000-06-29",
   "numac": 2000035612,
   "document_start": "2000-05-26",
   "document_end": "2019-02-14",
-  "in_force": "2006-06-01",
+  "in_force": "2011-06-10",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-06-10; future article versions excluded; article text as the API gives it"
 }
