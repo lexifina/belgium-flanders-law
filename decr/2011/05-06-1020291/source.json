@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020291,
+  "title": "Decreet van 2011-05-06 tot wijziging van het Energiedecreet van 8 mei 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020291/VolledigDocument?datum=2011-06-10",
+  "source_sha256": "f5321eff2c8925a9bc5cae200bbc0caa043bc3748884c6de15441568fbdad550",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020291&param=informatie",
+  "as_of": "2011-06-10",
+  "made": "2011-05-06",
+  "gazette": "2011-06-10",
+  "numac": 2011035449,
+  "document_start": "2011-06-10",
+  "document_end": null,
+  "in_force": "2011-06-10",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2011-06-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
