@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020281,
+  "title": "Besluit van de Vlaamse Regering van 2011-05-06 houdende indeling bij de gemeentewegen van de gewestwegen N304 - Deken De Bolaan tussen kmp. 0,196 en kmp. 1,273 en N333 Casselstraat tussen kmp. 7,796 en kmp. 8,913 op het grondgebied van de stad Poperinge",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020281/VolledigDocument?datum=2011-06-13",
+  "source_sha256": "4120b92ca626b3952416cb06a65480813805904370fb2125e9c830ef79b52eb1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020281&param=informatie",
+  "as_of": "2011-06-13",
+  "made": "2011-05-06",
+  "gazette": "2011-06-03",
+  "numac": 2011202527,
+  "document_start": "2011-06-13",
+  "document_end": null,
+  "in_force": "2011-06-13",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-06-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
