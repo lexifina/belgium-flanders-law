@@ -1,0 +1,17 @@
+{
+  "codex_id": 1011092,
+  "title": "Besluit van de Vlaamse Regering van 2011-05-06 houdende de inwerkingtreding van artikel 25 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en artikel 46 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011092/VolledigDocument?datum=2011-06-16",
+  "source_sha256": "f1176235d27a5aae73ad66dcb04acfe34e93ec5e4c5e3e04a6bcc6a1c263f191",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011092&param=informatie",
+  "as_of": "2011-06-16",
+  "made": "2011-05-06",
+  "gazette": "2011-06-06",
+  "numac": 2011202594,
+  "document_start": "2011-06-16",
+  "document_end": null,
+  "in_force": "2011-06-16",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-06-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
