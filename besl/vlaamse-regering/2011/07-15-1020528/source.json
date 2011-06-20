@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020528,
+  "title": "Besluit van de Vlaamse Regering van 2011-07-15 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 8 mei 2009 betreffende de gemeenschappelijke ordening der markten in de sector groenten en fruit voor wat betreft de erkenning van producentenorganisaties, de actiefondsen, de operationele programma's en de toekenning van de financiële steun",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020528/VolledigDocument?datum=2011-06-20",
+  "source_sha256": "bf24f0ec9bb8c2023ca51595e1fa1a59a158550bea35bcda9a83fadb8d4ac896",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020528&param=informatie",
+  "as_of": "2011-06-20",
+  "made": "2011-07-15",
+  "gazette": "2011-08-16",
+  "numac": 2011204110,
+  "document_start": "2011-06-20",
+  "document_end": null,
+  "in_force": "2011-06-20",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2011-06-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
