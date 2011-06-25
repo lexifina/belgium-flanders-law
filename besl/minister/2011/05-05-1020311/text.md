@@ -1,0 +1,9 @@
+# Ministerieel besluit van 2011-05-05 tot bepaling van het percentage van de anciënniteitsontwikkeling voor de wijziging van de subsidie voor de centra voor kinderzorg en gezinsondersteuning voor 2011
+
+### Aanhef
+
+De Vlaamse minister van Welzijn, Volksgezondheid en Gezin, <br /><br />Gelet op het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, artikel 8, § 1, gewijzigd bij het decreet van 22 december 2006, artikel 11, eerste lid, artikel 13, § 1, en artikel 13, § 3, gewijzigd bij het decreet van 2 juni 2006;<br /><br />Gelet op het decreet van 23 december 2010 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2011, artikel 140;<br /><br />Gelet op het besluit van de Vlaamse Regering van 1 maart 2002 betreffende de erkenning en de subsidiëring van de centra voor kinderzorg en gezinsondersteuning, gewijzigd bij de besluiten van de Vlaamse Regering van 28 februari 2003, 26 maart 2004, 28 mei 2004, 28 april 2006, 8 september 2006, 30 maart 2007, 19 juli 2007 en 17 december 2010;<br /><br />Gelet op het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de besluiten van de Vlaamse Regering van 24 juli 2009, 4 december 2009, 6 juli 2010, 7 juli 2010, 24 september 2010 en 19 november 2010;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 19 april 2011,<br /><br />Besluit :
+
+### ART. Enig.
+
+Het percentage van de anciënniteitsontwikkeling over de voorbije vijf jaar voor de wijziging van de subsidie voor 2011, vermeld in artikel 48bis, § 4, artikel 49bis, § 1, 4°, en in artikel 49bis, § 2, 4°, van het besluit van de Vlaamse Regering van 1 maart 2002 betreffende de erkenning en de subsidiëring van de centra voor kinderzorg en gezinsondersteuning, wordt bepaald op 0,2910 %.

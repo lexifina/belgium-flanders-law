@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020311,
+  "title": "Ministerieel besluit van 2011-05-05 tot bepaling van het percentage van de anciënniteitsontwikkeling voor de wijziging van de subsidie voor de centra voor kinderzorg en gezinsondersteuning voor 2011",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020311/VolledigDocument?datum=2011-06-25",
+  "source_sha256": "4e76093bb734bfe946db0f54fa59c6ca14ac69f55398d6e074dc31e4acca5033",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020311&param=informatie",
+  "as_of": "2011-06-25",
+  "made": "2011-05-05",
+  "gazette": "2011-06-15",
+  "numac": 2011202760,
+  "document_start": "2011-06-25",
+  "document_end": null,
+  "in_force": "2011-06-25",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-06-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
