@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020307,
+  "title": "Decreet van 2011-05-13 houdende instemming met het samenwerkingsakkoord tussen de Federale Staat en de Gewesten van 3 december 2009 betreffende de uitvoering van het Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart ondertekend te Straatsburg op 9 september 1996",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020307/VolledigDocument?datum=2011-06-25",
+  "source_sha256": "b85edc36dbb30e60dccb55d29893dab4d73b1319c2d4b796d71ce6fa57962118",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020307&param=informatie",
+  "as_of": "2011-06-25",
+  "made": "2011-05-13",
+  "gazette": "2011-06-15",
+  "numac": 2011202738,
+  "document_start": "2011-06-25",
+  "document_end": null,
+  "in_force": "2011-06-25",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-06-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
