@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020317,
+  "title": "Besluit van de Vlaamse Regering van 2011-05-20 tot wijziging van artikel 5 van het besluit van de Vlaamse Regering van 19 maart 2010 betreffende stedenbouwkundige attesten, projectvergaderingen en stedenbouwkundige inlichtingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020317/VolledigDocument?datum=2011-06-26",
+  "source_sha256": "7e43d24d90f34f7ff1787d7acb9a311c59d90a5dbb1121c7196304bdc86b3576",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020317&param=informatie",
+  "as_of": "2011-06-26",
+  "made": "2011-05-20",
+  "gazette": "2011-06-16",
+  "numac": 2011202902,
+  "document_start": "2011-06-26",
+  "document_end": null,
+  "in_force": "2011-06-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-06-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
