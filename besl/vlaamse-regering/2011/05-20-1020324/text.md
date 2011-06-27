@@ -68,13 +68,63 @@ In artikel 17 van hetzelfde besluit worden de woorden « eerste lid » opgeheven
 
 In artikel 18, eerste lid, van hetzelfde besluit wordt de zinsnede « die als hoofdverblijfplaats verhuurd wordt, zoals bedoeld » vervangen door de woorden « als vermeld ».<br /><br />
 
+### ART. 16.
+
+In artikel 21, § 4, van hetzelfde besluit wordt tussen de woorden « een conformiteitsattest » en de woorden « met de vermelding » de zinsnede « , waarvan het model is opgenomen in bijlage III die bij dit besluit is gevoegd, » ingevoegd.<br /><br />
+
 ### ART. 17.
 
 Artikel 26 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 27 januari 2006, wordt opgeheven.<br /><br />
 
+### ART. 18.
+
+<p>Aan titel II van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 27 januari 2006, 30 juni 2006 en 14 maart 2008, wordt een hoofdstuk III, dat bestaat uit artikel 26, toegevoegd, dat luidt als volgt :<br>
+« HOOFDSTUK III. - Aanvullende bepalingen voor woningen waarvoor een herstelvordering werd uitgebracht<br>
+<br>
+Art. 26. § 1. De vergoeding voor de uitvoering van de controle ter plaatse, vermeld in artikel 20bis, § 6, van de Vlaamse Wooncode, bedraagt 62,50 euro per woning die tijdens de controle ter plaatse wordt onderzocht.<br>
+<br>
+Als in een gebouw met meerdere zelfstandige woningen alleen nog een onderzoek nodig is dat leidt tot het invullen van deel B van het technisch verslag, dat als bijlage I bij dit besluit is gevoegd, is maar eenmaal 62,50 euro verschuldigd.<br>
+<br>
+Het bedrag vermeld in het eerste en tweede lid, wordt vanaf 2012 jaarlijks op 1 januari aangepast aan de evolutie van het cijfer van de gezondheidsindex volgens de onderstaande formule :</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>nieuw bedrag = <!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>basisbedrag x aangepaste gezondheidsindex</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>gezondheidsindex december 2011</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>waarbij de aangepaste gezondheidsindex, de gezondheidsindex is van de maand december die vooraf gaat aan de maand januari waarin de aanpassing plaatsvindt.<br>
+<br>
+§ 2. De vergoeding moet voor de controle ter plaatse betaald worden op de rekening van het Herstelfonds.<br>
+<br>
+§ 3. In afwijking van paragraaf 1 en 2 is er geen vergoeding verschuldigd voor de controle ter plaatse na een eerste melding van herstel door de overtreder.<br>
+&nbsp;</p>
+
 ### ART. 20.
 
 In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 20 oktober 2000, 4 juni 2004, 27 januari 2006, 30 juni 2006, 19 juli 2007 en 14 maart 2008, wordt titel IV, dat bestaat uit artikelen 42 tot en met 44, opgeheven.<br /><br />
+
+### ART. 21.
+
+In hetzelfde besluit wordt de bijlage II vervangen door de bijlage die als bijlage 1 bij dit besluit is gevoegd.<br /><br />
+
+### ART. 22.
+
+Aan hetzelfde besluit wordt een bijlage III toegevoegd, die als bijlage 2 bij dit besluit is gevoegd.<br /><br />
 
 ## HOOFDSTUK 3 Wijzigingen van het besluit van de Vlaamse Regering van 3 oktober 2003 betreffende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers
 
@@ -90,6 +140,10 @@ In artikel 4, § 1, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaa
 
 In artikel 5, tweede lid, 3°, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 27 januari 2006, worden de woorden « artikel 8, § 1 » vervangen door de woorden « artikel 8, § 1, tweede lid ».<br /><br />
 
+### ART. 26.
+
+In artikel 9, § 4, van hetzelfde besluit wordt tussen de woorden « een conformiteitsattest » en de woorden « met de vermelding » de zinsnede « , waarvan het model als bijlage IV bij dit besluit is gevoegd, » ingevoegd.<br /><br />
+
 ### ART. 27.
 
 Artikel 14 van hetzelfde besluit wordt opgeheven.<br /><br />
@@ -98,9 +152,60 @@ Artikel 14 van hetzelfde besluit wordt opgeheven.<br /><br />
 
 In artikel 15 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 30 juni 2006, worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid, 1°, worden de woorden « artikel 99 van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening » vervangen door de woorden « artikel 4.2.1. van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 »;<br />2° in het tweede lid worden de woorden « bedoeld in artikel 15, § 3, tweede lid » vervangen door de woorden « vermeld in artikel 15, § 2, vierde lid ».<br /><br />
 
+### ART. 29.
+
+<p>In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 27 januari 2006 en 30 juni 2006, wordt een hoofdstuk VIbis, dat bestaat uit artikel 15bis, ingevoegd, dat luidt als volgt :<br>
+« HOOFDSTUK VIbis. - Aanvullende bepalingen voor kamers, studentenkamers en kamerwoningen waarvoor een herstelvordering werd uitgebracht<br>
+<br>
+Art. 15bis. § 1. De vergoeding voor de uitvoering van de controle ter plaatse, vermeld in artikel 17bis, § 6, van het Kamerdecreet, is gelijk aan het resultaat van de volgende formule :<br>
+A + a*(nvastgesteld -1)<br>
+waarbij :<br>
+1° A = 87,50 euro;<br>
+2° a = het bedrag per kamer, namelijk 12,50 euro;<br>
+3° nvastgesteld = het aantal tijdens de controle ter plaatse te onderzoeken kamers. (Nvastgesteld-1) kan nooit negatief zijn;<br>
+<br>
+Het resultaat van de formule, vermeldt in het eerste lid, bedraagt maximaal 1.250 euro.<br>
+<br>
+De bedragen, vermeld in het eerste lid, worden vanaf 2012 jaarlijks op 1 januari aangepast aan de evolutie van het cijfer van de gezondheidsindex volgens de onderstaande formule :<br>
+&nbsp;</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>nieuw bedrag = <!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>basisbedrag x aangepaste gezondheidsindex</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>gezondheidsindex december 2011</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>waarbij de aangepaste gezondheidsindex = de gezondheidsindex van de maand december die voorafgaat aan de maand januari waarin de aanpassing plaatsvindt.<br>
+<br>
+§ 2. De vergoeding moet voor de controle ter plaatse betaald worden op de rekening van het Herstelfonds.<br>
+<br>
+§ 3. In afwijking van paragrafen 1 en 2 is er geen vergoeding verschuldigd voor de controle ter plaatse na een eerste melding van herstel door de overtreder.</p>
+
 ### ART. 30.
 
 Artikel 16 van hetzelfde besluit wordt opgeheven.<br /><br />
+
+### ART. 31.
+
+In hetzelfde besluit wordt bijlage III vervangen door de bijlage die als bijlage 3 bij dit besluit is gevoegd.<br /><br />
+
+### ART. 32.
+
+Aan hetzelfde besluit wordt een bijlage IV toegevoegd, die als bijlage 4 bij dit besluit is gevoegd.<br />HOOFDSTUK 4 Wijziging van het besluit van de Vlaamse Regering van 10 november 2005 tot oprichting van een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Inspectie RWO<br /><br />
 
 ## HOOFDSTUK 4 Wijziging van het besluit van de Vlaamse Regering van 10 november 2005 tot oprichting van een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Inspectie RWO
 
