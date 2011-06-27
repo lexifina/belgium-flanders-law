@@ -110,7 +110,7 @@ Op het verslag van het conformiteitsonderzoek staat de naam van de bevoegde ambt
 
 ### ART. 21.
 
-§ 1. Als de woning overeenkomstig artikel 18 conform wordt bevonden dan willigt het college van burgemeester en schepenen de aanvraag in, en levert het conformiteitsattest af, waarvan het model als bijlage II bij dit besluit is gevoegd.<br /><br />§ 2. Als de woning overeenkomstig artikel 18 niet conform wordt bevonden, dan wordt de afgifte van een conformiteitsattest geweigerd.<br /><br />De beslissing, wordt samen met een afschrift van het verslag van het conformiteitsonderzoek, aan de verhuurder betekend.<br /><br />Daarbij worden de gevolgen van de beslissing alsmede de begeleidende maatregelen meegedeeld.<br /><br />§ 3. De aanvraag vervalt:<br />1° als de toegang tot de woning binnen een periode van 60 dagen bedoeld in § 4, meer dan tweemaal zonder afdoende reden geweigerd wordt;<br />2° als de bevoegde onderzoeker bij de aanvang van het conformiteitsonderzoek niet beschikt over het in artikel 19, § 2, tweede lid, bedoelde schema.<br /><br />De minister bepaalt nader wat geen afdoende reden is.<br /><br />De aanvrager wordt onmiddellijk van het verval van zijn aanvraag schriftelijk in kennis gesteld.<br /><br />§ 4. Als het college van burgemeester en schepenen geen beslissing neemt binnen de termijn van 60 dagen volgend op de aanvraag, dan wordt aan de verhuurder een conformiteitsattest met de vermelding "impliciete inwilliging" afgeleverd, op voorwaarde dat de verhuurder het ontvangstbewijs bedoeld in artikel 19, § 1, derde lid, voorlegt.<br /><br />§ 5. Als de aanvraag betrekking heeft op een woning waarvoor een brandweerattest voorgeschreven is, dan geldt het afgeleverde conformiteitsattest onder voorbehoud.<br /><br />Bij een weigering van het brandweerattest wordt de woning niet meer conform beschouwd in de zin van artikel 24, eerste lid.
+§ 1. Als de woning overeenkomstig artikel 18 conform wordt bevonden dan willigt het college van burgemeester en schepenen de aanvraag in, en levert het conformiteitsattest af, waarvan het model als bijlage II bij dit besluit is gevoegd.<br /><br />§ 2. Als de woning overeenkomstig artikel 18 niet conform wordt bevonden, dan wordt de afgifte van een conformiteitsattest geweigerd.<br /><br />De beslissing, wordt samen met een afschrift van het verslag van het conformiteitsonderzoek, aan de verhuurder betekend.<br /><br />Daarbij worden de gevolgen van de beslissing alsmede de begeleidende maatregelen meegedeeld.<br /><br />§ 3. De aanvraag vervalt:<br />1° als de toegang tot de woning binnen een periode van 60 dagen bedoeld in § 4, meer dan tweemaal zonder afdoende reden geweigerd wordt;<br />2° als de bevoegde onderzoeker bij de aanvang van het conformiteitsonderzoek niet beschikt over het in artikel 19, § 2, tweede lid, bedoelde schema.<br /><br />De minister bepaalt nader wat geen afdoende reden is.<br /><br />De aanvrager wordt onmiddellijk van het verval van zijn aanvraag schriftelijk in kennis gesteld.<br /><br />§ 4. Als het college van burgemeester en schepenen geen beslissing neemt binnen de termijn van 60 dagen volgend op de aanvraag, dan wordt aan de verhuurder een conformiteitsattest, waarvan het model is opgenomen in bijlage III die bij dit besluit is gevoegd, met de vermelding "impliciete inwilliging" afgeleverd, op voorwaarde dat de verhuurder het ontvangstbewijs bedoeld in artikel 19, § 1, derde lid, voorlegt.<br /><br />§ 5. Als de aanvraag betrekking heeft op een woning waarvoor een brandweerattest voorgeschreven is, dan geldt het afgeleverde conformiteitsattest onder voorbehoud.<br /><br />Bij een weigering van het brandweerattest wordt de woning niet meer conform beschouwd in de zin van artikel 24, eerste lid.
 
 ### ART. 22.
 
@@ -135,6 +135,39 @@ De beslissing tot intrekking wordt betekend aan de verhuurder.<br /><br />Daarbi
 ...
 
 ## [HOOFDSTUK III AANVULLENDE BEPALINGEN VOOR WONINGEN WAARVOOR EEN HERSTELVORDERING WERD UITGEBRACHT (ing. BVR 20 mei 2011, art.18, I: 27 juni 2011)]
+
+### ART. 26.
+
+§ 1. De vergoeding voor de uitvoering van de controle ter plaatse, vermeld in artikel 20bis, § 6, van de Vlaamse Wooncode, bedraagt 62,50 euro per woning die tijdens de controle ter plaatse wordt onderzocht.<br>
+<br>
+Als in een gebouw met meerdere zelfstandige woningen alleen nog een onderzoek nodig is dat leidt tot het invullen van deel B van het technisch verslag, dat als bijlage I bij dit besluit is gevoegd, is maar eenmaal 62,50 euro verschuldigd.<br>
+<br>
+Het bedrag vermeld in het eerste en tweede lid, wordt vanaf 2012 jaarlijks op 1 januari aangepast aan de evolutie van het cijfer van de gezondheidsindex volgens de onderstaande formule :<br>
+&nbsp;
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td rowspan="2">
+			<p>nieuw bedrag =</p>
+			</td>
+			<td>
+			<p>basisbedrag x aangepaste gezondheidsindex</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>gezondheidsindex december 2011</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+waarbij de aangepaste gezondheidsindex, de gezondheidsindex is van de maand december die vooraf gaat aan de maand januari waarin de aanpassing plaatsvindt.<br>
+<br>
+§ 2. De vergoeding moet voor de controle ter plaatse betaald worden op de rekening van het Herstelfonds.<br>
+<br>
+§ 3. In afwijking van paragraaf 1 en 2 is er geen vergoeding verschuldigd voor de controle ter plaatse na een eerste melding van herstel door de overtreder.
 
 ## TITEL III BIJZONDERE INSTRUMENTEN VAN HET WOONBELEID
 
@@ -248,4 +281,8 @@ De Vlaamse minister bevoegd voor huisvesting, is belast met de uitvoering van di
 
 ### BIJLAGE II.
 
-(niet opgenomen)
+<a href="http://www.ejustice.just.fgov.be/mopdf/2011/06/17_1.pdf#page=31" title=" bijlage II" target="_blank" class="pdf">bijlage II</a>
+
+### BIJLAGE III.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2011/06/17_1.pdf#page=32" title=" bijlage III" target="_blank" class="pdf">bijlage III</a>
