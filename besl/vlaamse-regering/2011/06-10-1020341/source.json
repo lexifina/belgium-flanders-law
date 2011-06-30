@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020341,
+  "title": "Besluit van de Vlaamse Regering van 2011-06-10 tot wijziging van diverse bepalingen van het Tweede Waarborgbesluit van 18 februari 2005 en het Vierde Waarborgbesluit van 27 maart 2009",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020341/VolledigDocument?datum=2011-06-30",
+  "source_sha256": "be72f4991cec5e5fe948425cf7d579e88347a540ccba0e0f1adf5aa5cb385c25",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020341&param=informatie",
+  "as_of": "2011-06-30",
+  "made": "2011-06-10",
+  "gazette": "2011-06-23",
+  "numac": 2011035470,
+  "document_start": "2011-06-30",
+  "document_end": null,
+  "in_force": "2011-06-30",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2011-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
