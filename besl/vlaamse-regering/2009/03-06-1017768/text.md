@@ -6,12 +6,12 @@ De Vlaamse Regering,<br /><br />Gelet op artikel 5, § 2, 6, § 1, 8, §§ 1 en 
 
 ### ART. 1.
 
-Voor de procedurele aspecten van de waarborgregeling voor grote ondernemingen, vermeld in het decreet van 6 februari 2004 betreffende een waarborgregeling voor kleine, middelgrote en grote ondernemingen, zijn de bepalingen van het besluit van de Vlaamse Regering van 18 februari 2005 betreffende bepaalde procedurele aspecten van de waarborgregeling voor kleine en middelgrote ondernemingen en van het besluit van de Vlaamse Regering van 7 november 2008 betreffende erkenning van een financiële crisis en tot afwijking van de waarborgregeling voor kleine en middelgrote ondernemingen, alsmede de latere wijzigingen die aan die besluiten zouden worden aangebracht, van overeenkomstige toepassing. <br /><br />
+...
 
 ### ART. 2.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad en houdt op van kracht te zijn op de dag waarop het besluit van de Vlaamse Regering van 7 november 2008 betreffende erkenning van een financiële crisis en tot afwijking van de waarborgregeling voor kleine en middelgrote ondernemingen, overeenkomstig artikel 7 van het voormelde besluit, ophoudt van kracht te zijn.<br /><br />
+...
 
 ### ART. 3.
 
-De Vlaamse minister, bevoegd voor het economisch beleid, is belast met de uitvoering van dit besluit.<br /><br />
+...
