@@ -2,16 +2,16 @@
   "codex_id": 1013680,
   "title": "Besluit van de Vlaamse Regering van 2005-02-18 betreffende bepaalde procedurele aspecten van de [waarborgregeling voor kleine, middelgrote en grote ondernemingen] (citeeropschrift: \"het tweede Waarborgbesluit\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013680/VolledigDocument?datum=2011-03-07",
-  "source_sha256": "d65037005528e8cadc04665b810aa16d529ea564bb366455b078da239aff350a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013680/VolledigDocument?datum=2011-06-30",
+  "source_sha256": "81eeeb87fd261168a176ea92a5296b505dbd74364e7e019d567eaf322a5768e0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013680&param=informatie",
-  "as_of": "2011-03-07",
+  "as_of": "2011-06-30",
   "made": "2005-02-18",
   "gazette": "2005-03-01",
   "numac": 2005035248,
   "document_start": "2005-03-16",
   "document_end": "2023-01-27",
-  "in_force": "2011-03-07",
+  "in_force": "2011-06-30",
   "article_versions": 43,
-  "record_form": "consolidated version as in force on 2011-03-07; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-06-30; future article versions excluded; article text as the API gives it"
 }
