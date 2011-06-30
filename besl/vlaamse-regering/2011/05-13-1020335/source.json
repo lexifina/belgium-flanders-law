@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020335,
+  "title": "Besluit van de Vlaamse Regering van 2011-05-13 tot wijziging van het besluit van de Vlaamse Regering van 24 juli 2009 tot aanwijzing van de leden, plaatsvervangende leden en onafhankelijke deskundigen van de strategische adviesraad \"Milieu- en Natuurraad van Vlaanderen\", wat betreft de vervanging van sommige effectieve en plaatsvervangende leden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020335/VolledigDocument?datum=2011-06-30",
+  "source_sha256": "42ec65bfc6fc33ff0c66f422f6927ff658c59a378cafa46a38f80c5027593c52",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020335&param=informatie",
+  "as_of": "2011-06-30",
+  "made": "2011-05-13",
+  "gazette": "2011-06-20",
+  "numac": 2011202802,
+  "document_start": "2011-06-30",
+  "document_end": null,
+  "in_force": "2011-06-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
