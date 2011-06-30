@@ -2,16 +2,16 @@
   "codex_id": 1017310,
   "title": "Besluit van de Vlaamse Regering van 2008-11-07 betreffende erkenning van een financiële crisis en tot afwijking van de waarborgregeling voor kleine en middelgrote ondernemingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017310/VolledigDocument?datum=2008-11-21",
-  "source_sha256": "6068df37daf3882739e12347ef1358ed4252c57fc6463d158423d535d6deaedf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017310/VolledigDocument?datum=2011-06-30",
+  "source_sha256": "b19d0c62575553f7615a4ba0bed8175e2fe5d52fd73b4cabc438e9ced4c2fea5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017310&param=informatie",
-  "as_of": "2008-11-21",
+  "as_of": "2011-06-30",
   "made": "2008-11-07",
   "gazette": "2008-11-21",
   "numac": 2008036350,
   "document_start": "2008-11-21",
   "document_end": "2011-06-29",
-  "in_force": "2008-11-21",
+  "in_force": "2011-06-30",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2008-11-21; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-06-30; future article versions excluded; article text as the API gives it"
 }
