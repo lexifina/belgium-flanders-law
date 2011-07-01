@@ -2,16 +2,16 @@
   "codex_id": 1007840,
   "title": "Besluit van de Vlaamse Regering van 2000-12-15 betreffende de kwaliteitszorg in de voorzieningen voor de sociale integratie van personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007840/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "161a4ed8de6557c514996f2792e44cb698b135777a5fce9e5d3aa10694891539",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007840/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "04dcf6812596eb1304325f094137e42e3252ce89100d238f79a2854801ec40c1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007840&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2011-07-01",
   "made": "2000-12-15",
   "gazette": "2001-02-27",
   "numac": 2001035162,
   "document_start": "2001-05-01",
   "document_end": "2025-12-31",
-  "in_force": "2010-01-01",
+  "in_force": "2011-07-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-01; future article versions excluded; article text as the API gives it"
 }
