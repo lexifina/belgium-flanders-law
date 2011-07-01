@@ -72,7 +72,7 @@ Met uitzondering van een motortaxi heeft het voertuig, als er twee of drie zitpl
 
 ### ART. 13.
 
-De voertuigen in dienst bevinden zich in goede staat en bieden de nodige kwaliteit, comfort, gemak en netheid, zowel met betrekking tot de carrosserie als met betrekking tot de cabine.
+De voertuigen in dienst bevinden zich in goede staat en bieden de nodige kwaliteit, comfort, gemak en netheid, zowel met betrekking tot de carrosserie als met betrekking tot de cabine.<br /><br />Elk voertuig dat in dienst is, met uitzondering van de voertuigen die niet zijn ingeschreven bij de Dienst Immatriculatie van Voertuigen van de federale overheidsdienst Mobiliteit, van de motortaxi's en van de vervangingsvoertuigen, is uitgerust met een speciale nummerplaat als vermeld in artikel 4, § 5, van het ministerieel besluit van 23 juli 2001 betreffende de inschrijving van voertuigen, gewijzigd bij ministerieel besluit van 19 december 2007, voor taxidiensten en diensten voor het verhuren van voertuigen met bestuurder.
 
 ### ART. 14.
 
@@ -300,7 +300,7 @@ In geval van verlies, diefstal of vernietiging van het herkenningsteken wordt ee
 
 ### ART. 58.
 
-Elk voertuig dat in dienst is, heeft een kaart voor een verhuurvoertuig met bestuurder aan boord. Dat document wordt op elk verzoek van de bevoegde ambtenaren en agenten vertoond.
+Elk voertuig dat in dienst is, heeft een kaart voor een verhuurvoertuig met bestuurder aan boord. Dat document wordt op elk verzoek van de bevoegde personeelsleden en agenten vertoond.<br /><br />De kaarten, vermeld in het eerste lid, en herkenningstekens, vermeld in artikel 56, worden pas afgeleverd als de exploitant alle gegevens die in de vergunningsaanvraag dienen te worden vermeld, heeft meegedeeld.
 
 ### ART. 59.
 
