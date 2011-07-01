@@ -2,16 +2,16 @@
   "codex_id": 1008080,
   "title": "Besluit van de Vlaamse Regering van 2001-06-22 tot bepaling van de voorwaarden voor de toekenning van subsidies aan gemeenten voor de opmaak van het eerste vergunningenregister en het eerste plannenregister",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008080/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "c8c4a3f14217d33d7d5f52fabc7a4c03dd893a21d3620fff5c3c3789801d8aee",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008080/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "87d61f9d81315ea80a9aac4a685b24dacef62c374085a6454f121dc4884accb8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008080&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2011-07-01",
   "made": "2001-06-22",
   "gazette": "2001-07-21",
   "numac": 2001035804,
   "document_start": null,
   "document_end": "2020-12-31",
-  "in_force": "2010-01-01",
+  "in_force": "2011-07-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-01; future article versions excluded; article text as the API gives it"
 }
