@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020479,
+  "title": "Ministerieel besluit van 2011-07-26 tot opheffing van de erkenning van centra voor varkens ter uitvoering van artikel 59, § 2, van het besluit van de Vlaamse Regering betreffende de organisatie van de fokkerij van voor de landbouw nuttige huisdieren",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020479/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "a4c5b926249685529609b70d275b36c11771de18bca9edae6d98ccd19bb22068",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020479&param=informatie",
+  "as_of": "2011-07-01",
+  "made": "2011-07-26",
+  "gazette": "2011-08-04",
+  "numac": 2011035637,
+  "document_start": "2011-07-01",
+  "document_end": "2019-09-22",
+  "in_force": "2011-07-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
