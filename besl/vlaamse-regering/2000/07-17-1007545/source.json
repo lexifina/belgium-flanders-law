@@ -2,16 +2,16 @@
   "codex_id": 1007545,
   "title": "Besluit van de Vlaamse Regering van 2000-07-17 tot uitvoering van het decreet van 3 februari 1998 houdende vaststelling van het wapen van privé-personen en instellingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007545/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "2ddc22be547f86198fc961ec9b136db66ef0cada8cbc45c50958518be039f445",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007545/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "57d088ce372ce0c91fb39e2b3b6a6dd518a96147bf41f8c742fd3aacd9020ca3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007545&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2011-07-01",
   "made": "2000-07-17",
   "gazette": "2000-09-01",
   "numac": 2000035875,
   "document_start": null,
   "document_end": null,
-  "in_force": "2010-01-01",
+  "in_force": "2011-07-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-01; future article versions excluded; article text as the API gives it"
 }

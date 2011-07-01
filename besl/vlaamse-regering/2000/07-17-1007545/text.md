@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-De afdeling Heraldiek van de Koninklijke Commissie voor Monumenten en Landschappen, hierna Commissie te noemen, stelt een handleiding op waarin de behandeling van een aanvraag van het recht om een wapen te voeren, toegelicht wordt.<br /><br />Het secretariaat van de Commissie, dat waargenomen wordt door de entiteit van het agentschap Ruimte en Erfgoed van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, die met de zorg voor het onroerend erfgoed belast is, stelt die handleiding kostenloos ter beschikking van de geïnteresseerden. <br />
+De afdeling Heraldiek van de Koninklijke Commissie voor Monumenten en Landschappen, hierna Commissie te noemen, stelt een handleiding op waarin de behandeling van een aanvraag van het recht om een wapen te voeren, toegelicht wordt.<br /><br />Het secretariaat van de Commissie, dat waargenomen wordt door het agentschap van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed dat belast is met het uitvoeren van het beleid inzake onroerend erfgoed stelt die handleiding kostenloos ter beschikking van de geïnteresseerden. <br />
 
 ### ART. 2.
 
