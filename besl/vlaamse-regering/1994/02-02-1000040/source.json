@@ -2,16 +2,16 @@
   "codex_id": 1000040,
   "title": "Besluit van de Vlaamse Regering van 1994-02-02 [houdende aanwijzing van de besturen en openbare instellingen die advies geven over gemeentelijke plannen van aanleg]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000040/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "8e1f98735fee3b94480c380f40e77ae3589e3cf72a9b88db0886df3441ec173e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000040/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "ebd8fb3eb9020b705eb03cde590202be7f925029e82d43405ea8fa28a35b93d2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000040&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2011-07-01",
   "made": "1994-02-02",
   "gazette": "1994-04-28",
   "numac": 1994035427,
   "document_start": null,
   "document_end": "2016-07-24",
-  "in_force": "2010-01-01",
+  "in_force": "2011-07-01",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-01; future article versions excluded; article text as the API gives it"
 }
