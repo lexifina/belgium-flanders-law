@@ -3974,7 +3974,7 @@ De functionele loopbanen en de voorwaarden voor doorstroming naar de volgende sa
 
 ### ART. 65.
 
-De functionele loopbanen en de voorwaarden voor doorstroming naar de volgende salarisschalen zijn voor niveau C :<br /><br />1° voor een graad van rang Cv, vermeld in artikel 7, tweede lid :<br />a) C1-C2-C3 :<br />1) van C1 naar C2 na vier jaar schaalanciënniteit in C1 en een gunstig evaluatieresultaat;<br />2) van C2 naar C3 na achttien jaar gecumuleerde schaalanciënniteit in C1 en C2 en een gunstig evaluatieresultaat;<br />b) voor de kinderverzorgsters :<br />C1-C2 : van C1 naar C2 na negen jaar schaalanciënniteit in C1 en een gunstig evaluatieresultaat;<br /><br />2° voor de graad van rang Cx, vermeld in artikel 7, tweede lid :<br />C4-C5 : van C4 naar C5 na negen jaar schaalanciënniteit in C4 en een gunstig evaluatieresultaat.<br />
+De functionele loopbanen en de voorwaarden voor doorstroming naar de   volgende salarisschalen zijn voor niveau C :<BR><BR>1° voor een graad van rang   Cv, vermeld in artikel 7, tweede lid :<BR>a) C1-C2-C3 :<BR>1) van C1 naar C2 na   vier jaar schaalanciënniteit in C1 en een gunstig evaluatieresultaat;<BR>2) van   C2 naar C3 na achttien jaar gecumuleerde schaalanciënniteit in C1 en C2 en een   gunstig evaluatieresultaat;<BR>&nbsp;b) voor de begeleider in de erkende   kinderdagverblijven en de begeleider in de initiatieven voor buitenschoolse   kinderopvang in dit niveau :<BR>C1-C2 : van C1 naar C2 na vier jaar   schaalanciënniteit in C1 en een gunstig evaluatieresultaat; <BR><BR>2° voor de   graad van rang Cx, vermeld in artikel 7, tweede lid :<BR>C4-C5 : van C4 naar C5   na negen jaar schaalanciënniteit in C4 en een gunstig   evaluatieresultaat.<BR>
 
 ### ART. 66.
 
