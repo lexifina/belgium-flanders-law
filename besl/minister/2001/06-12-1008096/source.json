@@ -2,16 +2,16 @@
   "codex_id": 1008096,
   "title": "Ministerieel besluit van 2001-06-12 tot bepaling van de kwaliteitszorg in diensten voor opvanggezinnen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008096/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "a574b8525f8100fd61c637ad99113a31ab3a98a41f8a1057f4d80d700f287aa1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008096/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "4dfb73f752c9516c8f8e780316d1c04be8fac102fc06a3009ec1b69bbaa4095b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008096&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-07-01",
   "made": "2001-06-12",
   "gazette": "2001-07-27",
   "numac": 2001035798,
   "document_start": "2001-01-01",
   "document_end": "2011-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2011-07-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-01; future article versions excluded; article text as the API gives it"
 }
