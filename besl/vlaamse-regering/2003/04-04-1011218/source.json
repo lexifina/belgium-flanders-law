@@ -2,16 +2,16 @@
   "codex_id": 1011218,
   "title": "Besluit van de Vlaamse Regering van 2003-04-04 tot instelling van een premiestelsel voor beschermde landschappen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011218/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "f9e6c7ca690168c4bd01d5fd823f76376d440b6490d6181470e46829fca4cb73",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011218/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "21122005d3feb52bce9ae405774c76c0a08fd472e7f13ec9c508eaac712350cb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011218&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2011-07-01",
   "made": "2003-04-04",
   "gazette": "2003-06-20",
   "numac": 2003035651,
   "document_start": null,
   "document_end": "2014-12-31",
-  "in_force": "2010-01-01",
+  "in_force": "2011-07-01",
   "article_versions": 34,
-  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-01; future article versions excluded; article text as the API gives it"
 }
