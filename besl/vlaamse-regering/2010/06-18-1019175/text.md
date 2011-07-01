@@ -24,6 +24,10 @@ In artikel 10 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Re
 
 In artikel 11 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° in het eerste lid worden de eerste en de tweede zin opgeheven;<br /><br />2° wordt het tweede lid opgeheven.
 
+### ART. 6.
+
+Aan artikel 13 van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt :<br /><br />« Elk voertuig dat in dienst is, met uitzondering van de voertuigen die niet zijn ingeschreven bij de Dienst Immatriculatie van Voertuigen van de federale overheidsdienst Mobiliteit, van de motortaxi's en van de vervangingsvoertuigen, is uitgerust met een speciale nummerplaat als vermeld in artikel 4, § 5, van het ministerieel besluit van 23 juli 2001 betreffende de inschrijving van voertuigen, gewijzigd bij ministerieel besluit van 19 december 2007, voor taxidiensten en diensten voor het verhuren van voertuigen met bestuurder. »
+
 ### ART. 7.
 
 In artikel 19 van hetzelfde besluit worden tussen de woorden « taxameter en » en het woord « randapparatuur », de woorden « een printer, en in voorkomend geval met » ingevoegd.
@@ -71,6 +75,10 @@ Aan artikel 53, eerste lid, van hetzelfde besluit worden de volgende wijzigingen
 ### ART. 18.
 
 In artikel 54 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° in het eerste lid worden de eerste en de tweede zin opgeheven;<br /><br />2° wordt het tweede lid opgeheven.
+
+### ART. 19.
+
+Aan artikel 58 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br /><br />1° in het eerste lid worden de woorden « de bevoegde ambtenaren en agenten » vervangen door de woorden « de bevoegde personeelsleden en agenten »;<br /><br />2° wordt een tweede lid toegevoegd, dat luidt als volgt :<br /><br />« De kaarten, vermeld in het eerste lid, en herkenningstekens, vermeld in artikel 56, worden pas afgeleverd als de exploitant alle gegevens die in de vergunningsaanvraag dienen te worden vermeld, heeft meegedeeld.»
 
 ### ART. 20.
 
