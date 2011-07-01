@@ -2,16 +2,16 @@
   "codex_id": 1013604,
   "title": "Besluit van de Vlaamse Regering van 2004-07-14 tot het vaststellen van een onderhoudspremie voor beschermde monumenten en stads- en dorpsgezichten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013604/VolledigDocument?datum=2010-11-29",
-  "source_sha256": "cc50d00575789dee465ebe21209c85b27b82d57601d1a1cdfeff8623b19ba761",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013604/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "dc4c15e15191bf495c38c51462b0a4d1bc44ed04dc8e87c87313217e632cb7fd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013604&param=informatie",
-  "as_of": "2010-11-29",
+  "as_of": "2011-07-01",
   "made": "2004-07-14",
   "gazette": "2004-12-29",
   "numac": 2004036757,
   "document_start": null,
   "document_end": "2014-12-31",
-  "in_force": "2010-11-29",
+  "in_force": "2011-07-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2010-11-29; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-01; future article versions excluded; article text as the API gives it"
 }
