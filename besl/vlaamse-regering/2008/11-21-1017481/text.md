@@ -6,8 +6,8 @@ De Vlaamse Regering,<br /><br />Gelet op het samenwerkingsakkoord tussen de Belg
 
 ### ART. 1.
 
-De heer Philippe D'Hondt van de Vlaamse Milieumaatschappij, wordt aangewezen in naam van het Vlaamse gewest als plaatsvervangend vertegenwoordiger van België in de raad van bestuur van het Europees Milieuagentschap.<br /><br />Het mandaat van de heer Philippe D'Hondt als plaatsvervangend vertegenwoordiger vangt aan op 1 juli 2008 en eindigt op 30 juni 2011.<br /><br />
+...
 
 ### ART. 2.
 
-De Vlaamse minister, bevoegd voor leefmilieu is belast met de uitvoering van dit besluit. <br /><br />
+...
