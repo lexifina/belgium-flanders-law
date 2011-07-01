@@ -14,6 +14,10 @@
 
 ## HOOFDSTUK 1 Wijziging van het besluit van de Vlaamse Regering van 7 december 2007 houdende de minimale voorwaarden voor de personeelsformatie, de rechtspositieregeling en het mandaatstelsel van het gemeentepersoneel en het provinciepersoneel en houdende enkele bepalingen betreffende de rechtspositie van de secretaris en de ontvanger van de openbare centra voor maatschappelijk welzijn
 
+### ART. 16.
+
+In artikel 65, 1°, van hetzelfde besluit wordt punt b) vervangen door wat   volgt :<BR>« b) voor de begeleider in de erkende kinderdagverblijven en de   begeleider in de initiatieven voor buitenschoolse kinderopvang in dit niveau   :<BR>C1-C2 : van C1 naar C2 na vier jaar schaalanciënniteit in C1 en een gunstig   evaluatieresultaat; ».<BR>
+
 ### ART. 25.
 
 Aan artikel 121 van hetzelfde besluit wordt een paragraaf 3 toegevoegd,   die luidt als volgt :<BR>« De minimale salarisverhoging, vermeld in paragraaf 1   en 2, is een integraal onderdeel van het jaarsalaris. ». <BR>
