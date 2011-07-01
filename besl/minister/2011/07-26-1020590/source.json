@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020590,
+  "title": "Ministerieel besluit van 2011-07-26 houdende delegatie van sommige bevoegdheden inzake de in-, uit- en doorvoer van wapens, munitie en speciaal voor militair gebruik of voor ordehandhaving dienstig materieel en inzake de uitvoer en overbrenging van producten voor tweeërlei gebruik aan de secretaris-generaal van het Departement Internationaal Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020590/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "0955d90df9d9b7ed3afed2ed829ff89846d09ed5f628dd8e1acb23dbf9fcb5a4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020590&param=informatie",
+  "as_of": "2011-07-01",
+  "made": "2011-07-26",
+  "gazette": "2011-09-06",
+  "numac": 2011204403,
+  "document_start": "2011-07-01",
+  "document_end": "2012-06-30",
+  "in_force": "2011-07-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2011-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
