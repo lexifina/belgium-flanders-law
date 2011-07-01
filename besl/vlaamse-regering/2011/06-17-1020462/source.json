@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020462,
+  "title": "Besluit van de Vlaamse Regering van 2011-06-17 houdende de toewijzing van de personeelsleden, de goederen, de rechten en verplichtingen van het Departement Economie, Wetenschap en Innovatie aan de Vlaamse Raad voor Wetenschap en Innovatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020462/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "47db7452f444adac4d0060312ab564454bce5a9917e339291a5804b1dfdac814",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020462&param=informatie",
+  "as_of": "2011-07-01",
+  "made": "2011-06-17",
+  "gazette": "2011-07-26",
+  "numac": 2011203718,
+  "document_start": "2011-07-01",
+  "document_end": null,
+  "in_force": "2011-07-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2011-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
