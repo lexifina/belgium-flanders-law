@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020325,
+  "title": "Besluit van de Vlaamse Regering van 2011-05-27 tot wijziging van het besluit van de Vlaamse Regering van 10 december 2010 tot uitvoering van het decreet betreffende de private arbeidsbemiddeling, wat betreft het bepalen van een termijn waarbinnen een uitzendbureau effectief gebruik moet maken van een erkenning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020325/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "2f4b9998b5ee1e8f60fd2d732b7c135e33b50a7248f26683d04a331ccf1cf000",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020325&param=informatie",
+  "as_of": "2011-07-01",
+  "made": "2011-05-27",
+  "gazette": "2011-06-17",
+  "numac": 2011202870,
+  "document_start": "2011-07-01",
+  "document_end": null,
+  "in_force": "2011-07-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
