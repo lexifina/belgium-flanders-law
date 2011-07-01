@@ -52,11 +52,11 @@ Een kandidaat die deelneemt aan het toelatingsexamen maar op het einde van het k
 
 ### ART. 11.
 
-De zetel van de examencommissie is gevestigd op het adres van de afdeling Personeel en Instellingen Hoger Onderwijs van het Onderwijsdienstencentrum Hoger Onderwijs en Volwassenenonderwijs. De voorzitter kan nochtans beslissen de vergaderingen van de examencommissie op een andere plaats te laten doorgaan.
+De zetel van de examencommissie is gevestigd op het adres van het Agentschap voor Kwaliteitszorg in Onderwijs en Vorming. De voorzitter kan nochtans beslissen de vergaderingen van de examencommissie op een andere plaats te laten doorgaan.
 
 ### ART. 12.
 
-§ 1. Alleen de voorzitter van de examencommissie is gemachtigd om namens de examencommissie mededelingen te doen. Mocht de voorzitter verhinderd zijn, dan kan de secretaris optreden.<br /><br />§ 2. De examencommissie kan beslissen één of meer van haar leden te machtigen om namens haar in goed afgebakende gevallen op te treden. De aldus gemandateerde leden zullen zo snel als mogelijk bij de voorzitter rapporteren over hun werkzaamheden.<br /><br />§ 3. Mocht de voorzitter verhinderd zijn, dan treedt het in leeftijd oudste lid op als zijn vervanger. Mocht de secretaris verhinderd zijn, dan kan de voorzitter een ambtenaar van niveau A van het Onderwijsdienstencentrum Hoger Onderwijs en Volwassenenonderwijs aanduiden als vervangend secretaris.
+§ 1. Alleen de voorzitter van de examencommissie is gemachtigd om namens de examencommissie mededelingen te doen. Mocht de voorzitter verhinderd zijn, dan kan de secretaris optreden.<br /><br />§ 2. De examencommissie kan beslissen één of meer van haar leden te machtigen om namens haar in goed afgebakende gevallen op te treden. De aldus gemandateerde leden zullen zo snel als mogelijk bij de voorzitter rapporteren over hun werkzaamheden.<br /><br />§ 3. Mocht de voorzitter verhinderd zijn, dan treedt het in leeftijd oudste lid op als zijn vervanger.
 
 ### ART. 13.
 
@@ -136,13 +136,13 @@ Alle documenten die betrekking hebben op de organisatie van een toelatingsexamen
 
 ### ART. 30.
 
-De voorzitter en de leden van de examencommissie ontvangen een honorarium. Dat honorarium is als volgt vastgesteld :<br />1° de voorzitter ontvangt 5000 euro per jaar;<br />2° de bijzonder expert ontvangt 3000 euro per jaar;<br />3° de experten op het vlak van de medische praktijk ontvangen 500 euro per georganiseerde sessie;<br />4° de andere leden ontvangen 380 euro per georganiseerde sessie.<br /><br />In die bedragen zijn de reis- en verblijfskosten begrepen, alsmede de vergoeding voor kleine onkosten. Vanaf het jaar 2008 worden de bedragen aangepast aan de jaarlijkse stijging van de index van de consumptieprijzen met als referentiedatum 1 januari 2007.
+De voorzitter en de leden van de examencommissie ontvangen een honorarium. Dat honorarium is als volgt vastgesteld :<br />1° de voorzitter ontvangt 5.000 euro per jaar;<br />2° de overige commissieleden van de examencommissie ontvangen 800 euro per georganiseerde sessie.<br /><br />Vanaf het jaar 2008 worden de bedragen aangepast aan de jaarlijkse stijging van de index van de consumptieprijzen met als referentiedatum 1 januari 2007.
 
 ## HOOFSTUK X ANDERE BEPALINGEN
 
 ### ART. 31.
 
-De Vlaamse regering machtigt de voorzitter van de examencommissie om, binnen de beschikbare kredieten van de Vlaamse begroting, alle overeenkomsten af te sluiten die betrekking hebben op de inhoudelijke en materiële organisatie van het toelatingsexamen arts en tandarts.
+...
 
 ### ART. 32.
 
