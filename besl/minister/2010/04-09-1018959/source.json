@@ -2,16 +2,16 @@
   "codex_id": 1018959,
   "title": "Ministerieel besluit van 2010-04-09 houdende delegatie van sommige bevoegdheden inzake de in-, uit- en doorvoer van wapens, munitie en speciaal voor militair gebruik of voor ordehandhaving dienstig materieel aan de secretaris-generaal van het departement Internationaal Vlaanderen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018959/VolledigDocument?datum=2010-04-01",
-  "source_sha256": "61b840b4ce67610f5f78991378861023479a6433041e0570154fbbdbfb19440f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018959/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "b4ccaf46c7daa59fc8aa947bee12372a3364a5faad4ef39ac3b96ec036c34814",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018959&param=informatie",
-  "as_of": "2010-04-01",
+  "as_of": "2011-07-01",
   "made": "2010-04-09",
   "gazette": "2010-04-26",
   "numac": 2010202219,
   "document_start": "2010-04-01",
   "document_end": "2011-06-30",
-  "in_force": "2010-04-01",
+  "in_force": "2011-07-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2010-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-01; future article versions excluded; article text as the API gives it"
 }
