@@ -2,16 +2,16 @@
   "codex_id": 1000214,
   "title": "Besluit van de Vlaamse Regering van 1993-12-15 tot vaststelling van algemene erkenningsvoorwaarden van voorzieningen bedoeld in het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000214/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "af95e0c07566bb5b04f62d63d68d15cd1cc00aaf989a5628fa0f9d39bf35f224",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000214/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "c753fa8852a46fd9a0d28703363f6cc3bc5b0a1d46b5f8522db9f9a52e4c9414",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000214&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2011-07-01",
   "made": "1993-12-15",
   "gazette": "1994-07-08",
   "numac": 1994035834,
   "document_start": "1994-07-01",
   "document_end": "2011-06-30",
-  "in_force": "2010-01-01",
+  "in_force": "2011-07-01",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-01; future article versions excluded; article text as the API gives it"
 }
