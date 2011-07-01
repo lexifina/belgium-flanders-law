@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020420,
+  "title": "Besluit van de Vlaamse Regering van 2011-07-01 tot wijziging van het besluit van de Vlaamse Regering van 26 maart 2010 tot vaststelling van de tarieven van het loodsgeld, loodsvergoedingen voor loodsverrichtingen in de loodsvaarwateren en andere kosten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020420/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "2903dcbe427292101753a3f67c93641666ec7995e80136a3d1e7a0faad22c6b8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020420&param=informatie",
+  "as_of": "2011-07-01",
+  "made": "2011-07-01",
+  "gazette": "2011-07-13",
+  "numac": 2011035547,
+  "document_start": "2011-07-01",
+  "document_end": null,
+  "in_force": "2011-07-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2011-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
