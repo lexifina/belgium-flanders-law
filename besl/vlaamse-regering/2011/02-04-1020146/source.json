@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020146,
+  "title": "Besluit van de Vlaamse Regering van 2011-02-04 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020146/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "817ad10d2a7d701bdc847eafd99649668f6ff79e08ffc598a09025c82d04ac77",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020146&param=informatie",
+  "as_of": "2011-07-01",
+  "made": "2011-02-04",
+  "gazette": "2011-04-08",
+  "numac": 2011201540,
+  "document_start": "2011-07-01",
+  "document_end": null,
+  "in_force": "2011-07-01",
+  "article_versions": 75,
+  "record_form": "consolidated version as in force on 2011-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
