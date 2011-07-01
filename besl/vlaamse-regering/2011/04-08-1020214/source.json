@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020214,
+  "title": "Besluit van de Vlaamse Regering van 2011-04-08 houdende verlenging van de erkenning als regionale televisieomroeporganisatie van de VZW Regionale Televisie Aalst-Dendermonde-Sint-Niklaas, Dagelijkse Regionale Informatie en Educatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020214/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "e16b159a9d0159343a0b6ca2c276b665df17b92445bc695af3c636bffa2aaa7f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020214&param=informatie",
+  "as_of": "2011-07-01",
+  "made": "2011-04-08",
+  "gazette": "2011-05-05",
+  "numac": 2011201997,
+  "document_start": "2011-07-01",
+  "document_end": "2020-06-30",
+  "in_force": "2011-07-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
