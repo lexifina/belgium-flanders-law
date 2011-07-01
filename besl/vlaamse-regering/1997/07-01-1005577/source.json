@@ -2,16 +2,16 @@
   "codex_id": 1005577,
   "title": "Besluit van de Vlaamse Regering van 1997-07-01 tot uitvoering van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005577/VolledigDocument?datum=2010-12-05",
-  "source_sha256": "2ba086a6c3000ace6fa3fc8fa0fe7e1bb26f1d228b92ba0b19ec0741d9365b6a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005577/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "4a6e595265c3c719bbc082aac538302a5d3662cc2495bb309c1ca8122a0a3b1d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005577&param=informatie",
-  "as_of": "2010-12-05",
+  "as_of": "2011-07-01",
   "made": "1997-07-01",
   "gazette": "1997-10-01",
   "numac": 1997036164,
   "document_start": "1997-10-01",
   "document_end": null,
-  "in_force": "2010-12-05",
+  "in_force": "2011-07-01",
   "article_versions": 38,
-  "record_form": "consolidated version as in force on 2010-12-05; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-01; future article versions excluded; article text as the API gives it"
 }
