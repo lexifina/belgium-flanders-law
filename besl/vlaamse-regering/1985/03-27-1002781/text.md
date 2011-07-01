@@ -72,7 +72,7 @@ Voor de toepassing van dit besluit wordt verstaan onder één enkele grondwaterw
 
 ### ART. 16.
 
-§ 1. De provinciegouverneur kan binnen de dertig dagen na ontvangst van het voorstel, aanvullende gegevens opvragen bij de indiener van het voorstel.<br /><br />§ 2. Uiterlijk dertig dagen na ontvangst van het voorstel of van de vereiste extra gegevens stuurt de provinciegouverneur een volledig exemplaar van het voorstel naar:<br />1° de Vlaamse Milieumaatschappij;<br />2° het agentschap Ruimte en Erfgoed van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed.<br /><br />Voormelde afdelingen brengen hun advies uit binnen een termijn van negentig kalenderdagen na ontvangst van het voorstel. Indien het advies niet verstrekt wordt binnen de vastgestelde termijn, wordt het geacht gunstig te zijn.
+§ 1. De provinciegouverneur kan binnen de dertig dagen na ontvangst van het voorstel, aanvullende gegevens opvragen bij de indiener van het voorstel.<br /><br />§ 2. Uiterlijk dertig dagen na ontvangst van het voorstel of van de vereiste extra gegevens stuurt de provinciegouverneur een volledig exemplaar van het voorstel naar:<br />1° de Vlaamse Milieumaatschappij;<br />2° het agentschap Ruimtelijke Ordening van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br /><br />Voormelde afdelingen brengen hun advies uit binnen een termijn van negentig kalenderdagen na ontvangst van het voorstel. Indien het advies niet verstrekt wordt binnen de vastgestelde termijn, wordt het geacht gunstig te zijn.
 
 ### ART. 17.
 
