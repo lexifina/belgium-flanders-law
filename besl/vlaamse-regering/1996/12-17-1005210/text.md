@@ -24,7 +24,7 @@ Het agentschap kan overeenkomstig de bepalingen van dit besluit en binnen de gre
 
 ### ART. 5.
 
-De bepalingen die voor ambulante diensten opgenomen zijn in het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van algemene erkenningsvoorwaarden van voorzieningen bedoeld in het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, in het besluit van de Vlaamse Regering van 15 december 2000 betreffende de kwaliteitszorg in de voorzieningen voor de sociale integratie van personen met een handicap en in het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een Handicap zijn van toepassing op de vergunning en erkenning van de diensten.
+...
 
 ### ART. 6.
 
