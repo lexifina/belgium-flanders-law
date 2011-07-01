@@ -2,16 +2,16 @@
   "codex_id": 1018144,
   "title": "Besluit van de Vlaamse Regering van 2009-07-13 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018144/VolledigDocument?datum=2011-05-01",
-  "source_sha256": "b71a0a5dd358ed91e7adebad931a99fe07d26a670202bfe3be51f1efecabb0f1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018144/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "418cbce2c42b4dac3f79c7646620099da8ea7c50b8c89cc70fe4751a6f73d4c2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018144&param=informatie",
-  "as_of": "2011-05-01",
+  "as_of": "2011-07-01",
   "made": "2009-07-13",
   "gazette": "2009-07-22",
   "numac": 2009035687,
   "document_start": "2009-07-13",
   "document_end": "2014-07-24",
-  "in_force": "2011-05-01",
+  "in_force": "2011-07-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2011-05-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-01; future article versions excluded; article text as the API gives it"
 }
