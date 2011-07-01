@@ -2,16 +2,16 @@
   "codex_id": 1015736,
   "title": "Ministerieel besluit van 2007-02-27 tot vaststelling van een keurings- en certificeringsreglement voor de productie van pootaardappelen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015736/VolledigDocument?datum=2007-05-06",
-  "source_sha256": "74014c9bddbbc8648c7e5428c26f6ea79c8eab3c5b03a2facfa12916c014355d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015736/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "38854e2d10a4395ff2f0eb6f27e1ca52a6eb987fe42ac80454e20bc685ab7b71",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015736&param=informatie",
-  "as_of": "2007-05-06",
+  "as_of": "2011-07-01",
   "made": "2007-02-27",
   "gazette": "2007-04-26",
   "numac": 2007035551,
   "document_start": "2007-05-06",
   "document_end": "2011-06-30",
-  "in_force": "2007-05-06",
+  "in_force": "2011-07-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2007-05-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-01; future article versions excluded; article text as the API gives it"
 }
