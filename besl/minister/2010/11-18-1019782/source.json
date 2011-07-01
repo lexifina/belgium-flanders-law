@@ -2,16 +2,16 @@
   "codex_id": 1019782,
   "title": "Ministerieel besluit van 2010-11-18 tot erkenning van centra ter uitvoering van artikel 59, § 2, van het besluit van de Vlaamse Regering betreffende de organisatie van de fokkerij van voor de landbouw nuttige huisdieren",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019782/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "ca5a25797ec227b269bea426ebba74ff4734efa5af66e0da5e73a5a8fa8f0299",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019782/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "96bdcee6fd08404429bb7402f38c241f45a0d139d7005c20503db62003b02428",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019782&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2011-07-01",
   "made": "2010-11-18",
   "gazette": "2010-12-15",
   "numac": 2010035934,
   "document_start": "2011-01-01",
   "document_end": "2011-06-30",
-  "in_force": "2011-01-01",
+  "in_force": "2011-07-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-01; future article versions excluded; article text as the API gives it"
 }
