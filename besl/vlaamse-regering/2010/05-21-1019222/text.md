@@ -48,7 +48,7 @@ De dienst Inclusieve Ondersteuning coördineert en evalueert, in samenspraak met
 
 ### ART. 10.
 
-De dienst Inclusieve Ondersteuning legt op basis van het ondersteuningsplan in de individuele dienstverleningsovereenkomst vast welke ondersteuning en begeleiding door de dienst Inclusieve Ondersteuning feitelijk aan de gebruiker geleverd wordt, voor de woonondersteuning en voor de dagondersteuning.<br /><br />De individuele dienstverleningsovereenkomst bevat tevens de bepalingen van artikel 6 van het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van de algemene erkenningsvoorwaarden van voorzieningen, vermeld in het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap.
+De dienst Inclusieve Ondersteuning legt op basis van het ondersteuningsplan in de individuele dienstverleningsovereenkomst vast welke ondersteuning en begeleiding door de dienst Inclusieve Ondersteuning feitelijk aan de gebruiker geleverd wordt, voor de woonondersteuning en voor de dagondersteuning.
 
 ## Afdeling 2. Vereisten voor de gebruiker
 
