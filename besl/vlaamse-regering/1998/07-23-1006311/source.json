@@ -2,16 +2,16 @@
   "codex_id": 1006311,
   "title": "Besluit van de Vlaamse Regering van 1998-07-23 tot vaststelling van nadere regels ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006311/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "3eb354aa4dc4fbc0f325895b7d9ae1e8b6a916bbbf9267ea08255a862749df29",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006311/VolledigDocument?datum=2011-07-01",
+  "source_sha256": "ae8826dc37184d00b3eb8a5adc855789e912117de59dfd8cfc2024a39b901757",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006311&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2011-07-01",
   "made": "1998-07-23",
   "gazette": "1998-09-10",
   "numac": 1998035981,
   "document_start": null,
   "document_end": null,
-  "in_force": "2010-01-01",
+  "in_force": "2011-07-01",
   "article_versions": 66,
-  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-01; future article versions excluded; article text as the API gives it"
 }
