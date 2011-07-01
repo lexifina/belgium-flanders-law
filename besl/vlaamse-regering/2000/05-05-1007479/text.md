@@ -38,7 +38,7 @@ Aanvragen voor een hernieuwde opname die niet ingediend worden uiterlijk 60 dage
 
 ### ART. 8.
 
-Het register ligt permanent ter inzage bij het departement en per provincie bij minstens één dienst van het agentschap Ruimte en Erfgoed van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br /><br />Het departement stuurt onverwijld een gedateerd afschrift van het register op aan elke gemeentelijke of provinciale overheid die daarom verzoekt.
+Het register ligt permanent ter inzage bij het departement en per provincie bij minstens één dienst van het agentschap Ruimtelijke Ordening van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br /><br />Het departement stuurt onverwijld een gedateerd afschrift van het register op aan elke gemeentelijke of provinciale overheid die daarom verzoekt.
 
 ## HOOFDSTUK III NADERE REGELS MET BETREKKING TOT DE VERANTWOORDELIJKHEID VAN RUIMTELIJKE PLANNERS VOOR DE OPMAAK VAN RUIMTELIJKE STRUCTUURPLANNEN[, RUIMTELIJKE BELEIDSPLANNEN (ing. BVR 30 maart 2018, art. 64, I: 5 mei 2018)] EN RUIMTELIJKE UITVOERINGSPLANNEN
 
