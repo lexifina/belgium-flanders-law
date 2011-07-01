@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Alle gemeenten leggen een vergunningenregister aan op geïnformatiseerde wijze, conform de technische normen, ter beschikking gesteld van de gemeente door het agentschap Ruimte en Erfgoed van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, hierna het agentschap te noemen.
+Alle gemeenten leggen een vergunningenregister aan op geïnformatiseerde wijze, conform de technische normen, ter beschikking gesteld van de gemeente door het agentschap Ruimtelijke Ordening van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, hierna het agentschap te noemen.
 
 ### ART. 2.
 
