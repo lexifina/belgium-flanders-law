@@ -42,7 +42,7 @@ Het Fonds bepaalt binnen de grenzen van de beschikbare kredieten op de begroting
 
 ### ART. 9.
 
-De bepalingen die opgenomen zijn ter uitvoering van hoofdstuk VI van het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor Sociale Integratie van Personen met een Handicap, zijn van toepassing op de vergunning en erkenning van de diensten.
+...
 
 ### ART. 10.
 
