@@ -2,11 +2,11 @@
 
 ### ART. 1.
 
-Artikel 12bis, § 2, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving treedt wat de in artikel 2 bedoelde personeelsleden betreft, in werking op 1 september 1989.
+De reglementaire bepalingen inzake bekwaamheidsbewijzen treden wat de in artikel 2 bedoelde personeelsleden betreft, in werking op 1 september 1989.
 
 ### ART. 2.
 
-Dit besluit is van toepassing op:<br /><br />1° de personeelsleden die behoren tot het bestuurs- en onderwijzend personeel van de door de Vlaamse Gemeenschap georganiseerde of gesubsidieerde onderwijsinstellingen voor buitengewoon secundair onderwijs met de opleidingsvorm 4, met uitsluiting van de onderwijsinstellingen voor buitengewoon secundair onderwijs waar type 5, wordt georganiseerd vanaf 1 september 1986 met toepassing van artikel 34 van het koninklijk besluit nr. 439 van 11 augustus 1986 houdende rationalisatie en programmatie in het buitengewoon onderwijs;<br /><br />2° de leden van het onderwijzend personeel belast met een wervingsambt in opleidingsvorm 4 in de onderwijsinstellingen voor buitengewoon secundair onderwijs:<br /><br />a) die naast opleidingsvorm 4 één of meer andere opleidingsvormen organiseren;<br /><br />b) waar opleidingsvorm 4 werd opgericht vanaf 1 september 1986 met toepassing van artikel 34 van het bovengenoemde koninklijk besluit nr. 439 van 11 augustus 1986 en waar alleen deze opleidingsvorm in stand wordt gehouden.
+Dit besluit is van toepassing op:<br />1° de personeelsleden die behoren tot het bestuurs- en onderwijzend personeel van de door de Vlaamse Gemeenschap georganiseerde of gesubsidieerde onderwijsinstellingen voor buitengewoon secundair onderwijs met de opleidingsvorm 4, met uitsluiting van de onderwijsinstellingen voor buitengewoon secundair onderwijs waar type 5, wordt georganiseerd vanaf 1 september 1986 met toepassing van artikel 288 van de codificatie betreffende het secundair onderwijs;<br />2° de leden van het onderwijzend personeel belast met een wervingsambt in opleidingsvorm 4 in de onderwijsinstellingen voor buitengewoon secundair onderwijs:<br />a) die naast opleidingsvorm 4 één of meer andere opleidingsvormen organiseren;<br />b) waar opleidingsvorm 4 werd opgericht vanaf 1 september 1986 artikel 288 van de codificatie betreffende het secundair onderwijs en waar alleen deze opleidingsvorm in stand wordt gehouden.
 
 ### ART. 3.
 
