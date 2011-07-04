@@ -6,15 +6,15 @@ De Vlaamse Regering,<br /><br />Gelet op het besluit van de Vlaamse Regering van
 
 ### ART. 1.
 
-De opleidingenstructuur van het experimenteel buitengewoon secundair onderwijs volgens een modulair stelsel, vermeld in artikel 20ter, § 3, van het besluit van de Vlaamse Regering van 6 december 2002 betreffende de organisatie van het buitengewoon secundair onderwijs van opleidingsvorm 3, is als bijlage I tot en met XI bij dit besluit gevoegd.
+De opleidingenstructuur van het experimenteel buitengewoon secundair onderwijs volgens een modulair stelsel, vermeld in artikel 342 van de codificatie betreffende het secundair onderwijs, is als bijlage I tot en met XI bij dit besluit gevoegd.
 
 ### ART. 2.
 
-De competenties voor de modulair georganiseerde leerinhouden, vermeld in artikel 20quater van hetzelfde besluit, zijn als bijlagen XII tot en met XXII bij dit besluit gevoegd.
+De competenties voor de modulair georganiseerde leerinhouden, vermeld in artikel 343 van de codificatie betreffende het secundair onderwijs, zijn als bijlagen XII tot en met XXII bij dit besluit gevoegd.
 
 ### ART. 3.
 
-De modellen van de studiebewijzen, uitgereikt in het experimenteel buitengewoon secundair onderwijs volgens een modulair stelsel, evenals de invulonderrichtingen, vermeld in artikel 20octies van hetzelfde besluit, zijn als bijlagen XXIII tot en met XXVIII bij dit besluit gevoegd.
+De modellen van de studiebewijzen, uitgereikt in het experimenteel buitengewoon secundair onderwijs volgens een modulair stelsel, evenals de invulonderrichtingen, vermeld in artikel 347 van de codificatie betreffende het secundair onderwijs, zijn als bijlagen XXIII tot en met XXVIII bij dit besluit gevoegd.
 
 ### ART. 4.
 
