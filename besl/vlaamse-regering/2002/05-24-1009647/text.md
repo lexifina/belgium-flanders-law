@@ -38,7 +38,7 @@ De personeelsleden die fungeren in de in artikel 5 bedoelde specifieke uren-lera
 
 ### ART. 9.
 
-De werkingstoelagen van het onthaaljaar worden berekend op basis van het aantal regelmatige anderstalige nieuwkomers op 1 februari van het vorige schooljaar. Voor de toepassing van de bepalingen van artikel 3, § 2, van het decreet van 31 juli 1990 betreffende het onderwijs-II, wordt aan de regelmatige anderstalige nieuwkomers het puntengewicht 16 toegekend.<br /><br />Voor het Gemeenschapsonderwijs gelden voor wat de werkingsmiddelen betreft, de bepalingen van artikel 36, 2° van het Bijzonder Decreet van 14 juli 1998.
+De werkingstoelagen van het onthaaljaar worden berekend op basis van het aantal regelmatige anderstalige nieuwkomers op 1 februari van het vorige schooljaar. Er wordt aan de regelmatige anderstalige nieuwkomers het puntengewicht 16 toegekend.<br /><br />Voor het Gemeenschapsonderwijs gelden voor wat de werkingsmiddelen betreft, de bepalingen van artikel 36, 2° van het Bijzonder Decreet van 14 juli 1998.
 
 ## HOOFDSTUK III WIJZIGINGS- EN OPHEFFINGSBEPALINGEN
 
