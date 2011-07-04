@@ -4,13 +4,13 @@
 
 ### ART. 1.
 
-Voor de toepassing van artikel 33, derde lid van de wet van 29 mei 1959, tot wijziging van sommige bepalingen van de onderwijswetgeving, gewijzigd bij de wetten van 11 juli 1973 en 14 juli 1975, het koninklijk besluit nr. 413 van 29 april 1986 en het decreet van 5 juli 1989, wordt onder "gezondheidstoezicht" verstaan het preventief medisch schooltoezicht zoals bepaald in de wet van 21 maart 1964 en zoals het verzekerd wordt door de diensten van het Medisch Schooltoezicht en de Psycho-Medisch-Sociale Centra.
+Voor de toepassing van de bepalingen inzake sociale voordelen wordt onder "gezondheidstoezicht" verstaan het preventief medisch schooltoezicht zoals bepaald in de regelgeving inzake centra voor leerlingenbegeleiding.
 
 ## HOOFDSTUK II DE SOCIALE VOORDELEN
 
 ### ART. 2.
 
-Voor de toepassing van artikel 33, 3e lid, van dezelfde wet wordt onder sociale voordelen verstaan:<br /><br />1° het ochtend- en avondtoezicht buiten de normale aanwezigheid van de leerlingen op school, inzoverre wordt voldaan aan de voorwaarden van dit besluit.<br /><br />Voor de toepassing van dit besluit worden 15 minuten voor de aanvang van de lessen 's morgens en 15 minuten aansluitend op het beëindigen van de laatste les na de middag beschouwd als normale aanwezigheid van de leerlingen;<br /><br />2° het middagtoezicht voor de tijdsduur van maximaal één uur, inzoverre wordt voldaan aan de voorwaarden van dit besluit;<br /><br />3° met uitzondering van de roerende en onroerende goederen uitsluitend bestemd voor de organisatie van het onderwijs ingericht door de gemeenten en provincies, het ter beschikking stellen van de voor het publiek toegankelijke gemeentelijke en provinciale infrastructuur, inzonderheid de sportinfrastructuur.
+Voor de toepassing van de regelgeving betreffende het flankerend onderwijsbeleid op lokaal niveau wordt onder sociale voordelen verstaan:<br /><br />1° het ochtend- en avondtoezicht buiten de normale aanwezigheid van de leerlingen op school, inzoverre wordt voldaan aan de voorwaarden van dit besluit.<br /><br />Voor de toepassing van dit besluit worden 15 minuten voor de aanvang van de lessen 's morgens en 15 minuten aansluitend op het beëindigen van de laatste les na de middag beschouwd als normale aanwezigheid van de leerlingen;<br /><br />2° het middagtoezicht voor de tijdsduur van maximaal één uur, inzoverre wordt voldaan aan de voorwaarden van dit besluit;<br /><br />3° met uitzondering van de roerende en onroerende goederen uitsluitend bestemd voor de organisatie van het onderwijs ingericht door de gemeenten en provincies, het ter beschikking stellen van de voor het publiek toegankelijke gemeentelijke en provinciale infrastructuur, inzonderheid de sportinfrastructuur.
 
 ### ART. 3.
 
