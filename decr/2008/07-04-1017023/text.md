@@ -1313,7 +1313,7 @@ De volgende bepalingen, zoals gewijzigd worden opgeheven :<br />1° artikel 199,
 
 ### ART. XI.6.
 
-Onverminderd de krachtens artikel 146 van de Grondwet door de wet georganiseerde rechtsbescherming, worden de betrekkingen in het ambt van werkmeester, werkplaatsleider, technisch adviseur of technisch adviseur-coördinatordie voor 1 september 2008 werden opgericht of instandgehouden, beschouwd als zijnde opgericht of instandgehouden volgens de bepalingen van artikel 85bis van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs, ingevoegd bij het decreet van 7 juli 2006 en gewijzigd bij het decreet betreffende het onderwijs XVIII.<br /><br />
+Onverminderd de krachtens artikel 146 van de Grondwet door de wet georganiseerde rechtsbescherming, worden de betrekkingen in het ambt van werkmeester, werkplaatsleider, technisch adviseur of technisch adviseur-coördinatordie voor 1 september 2008 werden opgericht of instandgehouden, beschouwd als zijnde opgericht of instandgehouden volgens de bepalingen van artikel 25 van de codificatie betreffende het secundair onderwijs.<br /><br />
 
 ### ART. XI.7.
 
