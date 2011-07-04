@@ -2,11 +2,11 @@
 
 ### ART. 1.
 
-De bepalingen van dit besluit zijn van toepassing op de inrichtende machten van de onderwijsinstellingen en internaten die de toelagen genieten bedoeld in artikel 32 van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving.
+De bepalingen van dit besluit zijn van toepassing op de inrichtende machten van de onderwijsinstellingen en internaten die de toelagen genieten bedoeld in artikel 37 van de codificatie betreffende het secundair onderwijs.
 
 ### ART. 2.
 
-§ 1.Door elke inrichtende macht worden de ontvangsten en uitgaven van de werkingstoelagen chronologisch in een journaalboek bijgehouden hetzij per onderwijsinstelling, hetzij per groep van onderwijsinstellingen, zoals bepaald door de inrichtende macht. De gevolgde methode is vrij, voor zover de naleving van de wettelijke verplichtingen, inzonderheid deze opgelegd bij de artikelen 32 en 36bis van dezelfde wet kan worden nagegaan.<br /><br />§ 2. Indien het thans bestaand boekhoudkundig plan alle gegevens bevat die nodig zijn voor de bij de wet bepaalde controle, mag het verder ongewijzigd worden bijgehouden.<br /><br />§ 3. Op het einde van elk kalenderjaar moet een slotrekening worden opgemaakt volgens het model in bijlage 1.
+§ 1.Door elke inrichtende macht worden de ontvangsten en uitgaven van de werkingstoelagen chronologisch in een journaalboek bijgehouden hetzij per onderwijsinstelling, hetzij per groep van onderwijsinstellingen, zoals bepaald door de inrichtende macht. De gevolgde methode is vrij, voor zover de naleving van de wettelijke verplichtingen, inzonderheid deze opgelegd bij het artikel 37 en artikel 38 van de codificatie betreffende het secundair onderwijs kan worden nagegaan.<br /><br />§ 2. Indien het thans bestaand boekhoudkundig plan alle gegevens bevat die nodig zijn voor de bij de wet bepaalde controle, mag het verder ongewijzigd worden bijgehouden.<br /><br />§ 3. Op het einde van elk kalenderjaar moet een slotrekening worden opgemaakt volgens het model in bijlage 1.
 
 ### ART. 3.
 
