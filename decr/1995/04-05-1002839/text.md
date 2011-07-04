@@ -184,7 +184,7 @@ De LOC's kunnen bemiddelen bij elk geschil of elke betwisting van collectieve aa
 
 ### ART. 37bis.
 
-Er wordt één LOC opgericht per scholengemeenschap,  <span class="reference">(ing. decr. 18 mei 1999, art. 163, I: 15 mei 1999)</span> ] [zoals bedoeld in hoofdstuk VIIIbis van het decreet van 25 februari 1997 betreffende het basisonderwijs en  <span class="reference">(ing. decr. 10 juli 2003, art. 79, I: 1 september 2003)</span> ] [zoals bedoeld in titel VIII van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs. Dit LOC is bevoegd om te onderhandelen over de aangelegenheden waarvoor de scholengemeenschap bevoegd is.  <span class="reference">(ing. decr. 18 mei 1999, art. 163, I: 15 mei 1999)</span> ]
+Er wordt één LOC opgericht per scholengemeenschap, zoals bedoeld in hoofdstuk VIIIbis van het decreet van 25 februari 1997 betreffende het basisonderwijs en zoals bedoeld in de reglementaire bepalingen inzake scholengemeenschappen van de codificatie betreffende het secundair onderwijs. Dit LOC is bevoegd om te onderhandelen over de aangelegenheden waarvoor de scholengemeenschap bevoegd is.
 
 ### ART. 37ter.
 
@@ -270,7 +270,7 @@ Het Centraal Paritair Comité is bevoegd om:<br /><br />1° bemiddelend op te tr
 
 ### ART. 55.
 
-§ 1. De Vlaamse regering kan, na het optreden van of de vaststelling door het Centraal Paritair Comité zoals bedoeld in artikel 54, 1° en 2°, de inrichtende macht en/of vertegenwoordigers van het personeel die de verplichtingen van dit decreet niet naleven, sanctioneren.<br /><br />§ 2. De sanctie voor de inrichtende macht kan een terugvordering van maximum 10 percent van de werkingstoelagen, zoals bedoeld in artikel 32 van de wet van 29 mei 1959 tot wijzigen van sommige bepalingen van de onderwijswetgeving, inhouden.<br /><br />§ 3. De sanctie voor de vertegenwoordigers van het personeel kan inhouden dat de inrichtende macht voor een bepaalde periode en/of voor een bepaalde materie beslissingen kan nemen zonder onderhandelingen in het LOC.
+§ 1. De Vlaamse regering kan, na het optreden van of de vaststelling door het Centraal Paritair Comité zoals bedoeld in artikel 54, 1° en 2°, de inrichtende macht en/of vertegenwoordigers van het personeel die de verplichtingen van dit decreet niet naleven, sanctioneren.<br /><br />§ 2. De sanctie voor de inrichtende macht kan een terugvordering van maximum 10 percent van de werkingstoelagen, zoals bedoeld in artikel 37 van de codificatie betreffende het secundair onderwijs inhouden.<br /><br />§ 3. De sanctie voor de vertegenwoordigers van het personeel kan inhouden dat de inrichtende macht voor een bepaalde periode en/of voor een bepaalde materie beslissingen kan nemen zonder onderhandelingen in het LOC.
 
 ### ART. 56.
 
