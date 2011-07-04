@@ -106,7 +106,7 @@ Als uit het eindverslag blijkt dat minder begeleidingen georganiseerd werden dan
 
 ### ART. 17.
 
-In de loop van het derde jaar na de algemene oproep gebeurt een evaluatie van de projecten, waarbij nagegaan wordt in welke mate de doelstellingen, vermeld in artikel X.3 van het decreet van 22 juni 2007 betreffende het Onderwijs XVII, gerealiseerd werden. De resultaten van die evaluatie worden meegenomen bij de volgende algemene oproep.<br /><br />
+In de loop van het derde jaar na de algemene oproep gebeurt een evaluatie van de projecten, waarbij nagegaan wordt in welke mate de doelstellingen, vermeld in artikel 44 van de codificatie betreffende het secundair onderwijs, gerealiseerd werden. De resultaten van die evaluatie worden meegenomen bij de volgende algemene oproep.<br /><br />
 
 ### ART. 18.
 
