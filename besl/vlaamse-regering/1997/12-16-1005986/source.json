@@ -2,16 +2,16 @@
   "codex_id": 1005986,
   "title": "Besluit van de Vlaamse Regering van 1997-12-16 betreffende de onderbreking van de beroepsloopbaan van de personeelsleden van het onderwijs en de [centra voor leerlingenbegeleiding]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005986/VolledigDocument?datum=2010-09-01",
-  "source_sha256": "b2a885f7021debc7d36f08d05c90b56d16c5e3f692743364bb319dafc2ab0da7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005986/VolledigDocument?datum=2011-07-04",
+  "source_sha256": "9d994279f442e6c6af18676fc106482fa08256ebc602971c66fc1f2fcd8c27c8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005986&param=informatie",
-  "as_of": "2010-09-01",
+  "as_of": "2011-07-04",
   "made": "1997-12-16",
   "gazette": "1998-02-19",
   "numac": 1998035204,
   "document_start": null,
   "document_end": "2011-08-31",
-  "in_force": "2010-09-01",
+  "in_force": "2011-07-04",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2010-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-04; future article versions excluded; article text as the API gives it"
 }
