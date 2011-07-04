@@ -146,7 +146,7 @@ Het decreet van 7 mei 2004 houdende het Nederlandstalig onderwijs in Brussel-Hoo
 
 ### ART. 29.
 
-In afwachting van het in werking treden van het besluit ter uitvoering van dit decreet, blijft het besluit van de Vlaamse Regering van 24 juli 1991 houdende bepaling van de begrippen gezondheidstoezicht en sociale voordelen, bedoeld in artikel 33 van de wet van 29 mei 1959, tot wijziging van sommige bepalingen van de onderwijswetgeving, van toepassing.<br /><br />
+In afwachting van het in werking treden van het besluit ter uitvoering van dit decreet, blijft het besluit van de Vlaamse Regering van 24 juli 1991 houdende bepaling van de begrippen gezondheidstoezicht en sociale voordelen van toepassing.<br /><br />
 
 ## Afdeling III Inwerkingtredingsbepaling
 
