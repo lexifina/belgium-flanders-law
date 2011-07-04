@@ -360,7 +360,7 @@ De dotaties aan het Gemeenschapsonderwijs en de werkingsmiddelen van de scholeng
 
 ### ART. 79.
 
-§ 1. Het bedrag aan werkingsmiddelen van het Gemeenschapsonderwijs zoals bepaald en toegekend overeenkomstig artikel 2, § 1, en artikel 3, § 1, van het decreet van 31 juli 1990 betreffende het onderwijs-II, wordt vanaf 1992 verhoogd met 88,8 miljoen.<br /><br />§ 2. De Autonome raad voor het Gemeenschapsonderwijs int zelf de ontvangsten uit eigen vervoer van niet-rechthebbende leerlingen, voor het gewoon onderwijs.<br /><br />§ 3. (niet opgenomen)<br /><br />(Wijzigt artikel 35 van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving)
+§ 1. Het bedrag aan werkingsmiddelen van het Gemeenschapsonderwijs zoals bepaald en toegekend overeenkomstig wordt vanaf 1992 verhoogd met 88,8 miljoen.<br /><br />§ 2. De Autonome raad voor het Gemeenschapsonderwijs int zelf de ontvangsten uit eigen vervoer van niet-rechthebbende leerlingen, voor het gewoon onderwijs.<br /><br />§ 3. (niet opgenomen)<br /><br />(Wijzigt artikel 35 van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving)
 
 ## AFDELING 4 DE PSYCHO-MEDISCH-SOCIALE CENTRA
 
