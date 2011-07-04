@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° CABO: commissie van advies voor het buitengewoon onderwijs;<br /><br />2° decreet: het decreet basisonderwijs van 25 februari 1997;<br /><br />3° wet: de wet van 6 juli 1970 op het buitengewoon en gentegreerd onderwijs.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° CABO: commissie van advies voor het buitengewoon onderwijs;<br />2° decreet: het decreet basisonderwijs van 25 februari 1997;<br /><br />
 
 ## HOOFDSTUK II BEVOEGDHEID
 
@@ -14,7 +14,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° CABO: co
 
 ### ART. 3.
 
-Met toepassing van artikel 26, § 2, van het decreet en artikel 7, § 2, van de wet neemt de CABO, op verzoek van de ouders, binnen vijftien werkdagen een gemotiveerde beslissing over een tijdelijke of permanente vrijstelling van de leerplicht voor een jongere of de opheffing van deze vrijstelling.
+Met toepassing van artikel 26, § 2, van het decreet en artikel 68, § 2, van de codificatie betreffende het secundair onderwijs neemt de CABO, op verzoek van de ouders, binnen vijftien werkdagen een gemotiveerde beslissing over een tijdelijke of permanente vrijstelling van de leerplicht voor een jongere of de opheffing van deze vrijstelling.
 
 ### ART. 4.
 
@@ -22,15 +22,15 @@ De ouders beschikken over vijftien werkdagen om tegen de beslissing van de commi
 
 ### ART. 5.
 
-De commissie brengt ter uitvoering van artikel 26, § 3, van het decreet en artikel 7, § 1, van de wet, gemotiveerde adviezen uit over vragen die haar worden voorgelegd door de ouders, een meerderjarige met een handicap of zijn wettelijke vertegenwoordiger, een schooldirecteur, een lid van de onderwijsinspectie of een arts belast met het medisch schooltoezicht betreffende:<br /><br />1. het overplaatsen van een leerling die in een school voor gewoon onderwijs is ingeschreven, naar een school voor buitengewoon onderwijs;<br /><br />2. het overplaatsen van een leerling die in het buitengewoon onderwijs is ingeschreven, naar het gewoon onderwijs;<br /><br />3. het overplaatsen van een leerling van de ene school voor buitengewoon onderwijs naar een andere waar een geschikter niveau, type of opleidingsvorm van buitengewoon onderwijs georganiseerd wordt;<br /><br />4. het recht op permanent onderwijs aan huis ter uitvoering van artikel 35 van het decreet, en huisonderwijs zoals bepaald in artikel 20 van de wet.
+De commissie brengt ter uitvoering van artikel 26, § 3, van het decreet en artikel 68, § 1, van de codificatie betreffende het secundair onderwijs gemotiveerde adviezen uit over vragen die haar worden voorgelegd door de ouders, een meerderjarige met een handicap of zijn wettelijke vertegenwoordiger, een schooldirecteur, een lid van de onderwijsinspectie of een arts belast met het medisch schooltoezicht betreffende:<br />1. het overplaatsen van een leerling die in een school voor gewoon onderwijs is ingeschreven, naar een school voor buitengewoon onderwijs;<br />2. het overplaatsen van een leerling die in het buitengewoon onderwijs is ingeschreven, naar het gewoon onderwijs;<br />3. het overplaatsen van een leerling van de ene school voor buitengewoon onderwijs naar een andere waar een geschikter niveau, type of opleidingsvorm van buitengewoon onderwijs georganiseerd wordt;<br />4. het recht op permanent onderwijs aan huis ter uitvoering van artikel 35 van het decreet, en huisonderwijs.
 
 ### ART. 6.
 
-§ 1. De Vlaamse minister, bevoegd voor het onderwijs, of zijn afgevaardigde kan, na eensluidend advies van de CABO, de voordelen zoals bepaald in artikel 4 van de wet toekennen.<br /><br />§ 2. Dezelfde minister kan de CABO's afzonderlijk of gezamenljk vragen hun advies over een door hem bepaald onderwerp te verstrekken of opdrachten te vervullen.
+§ 1. De Vlaamse minister, bevoegd voor het onderwijs, of zijn afgevaardigde kan, na eensluidend advies van de CABO, de voordelen zoals bepaald in artikel 293 van de codificatie betreffende het secundair onderwijs toekennen.<br /><br />§ 2. Dezelfde minister kan de CABO's afzonderlijk of gezamenljk vragen hun advies over een door hem bepaald onderwerp te verstrekken of opdrachten te vervullen.
 
 ### ART. 7.
 
-De subcommissie neemt de bevoegdheid van de CABO, zoals bepaald in artikel 6, § 2, van de wet, over.
+De subcommissie neemt de bevoegdheid van de CABO, zoals bepaald in artikel 67, § 2, van de codificatie betreffende het secundair onderwijs, over.
 
 ## HOOFDSTUK III SAMENSTELLING VAN DE CABO'S
 
@@ -54,7 +54,7 @@ Ondervoorzitter, leden, secretaris en plaatsvervangers worden aangesteld voor ee
 
 ### ART. 12.
 
-Elke subcommissie is in toepassing van artikel 6, § 2, van de wet samengesteld uit de voorzitter van de CABO die tevens voorzitter wordt van de subcommissie, drie leden van de CABO en drie leden die de welzijnssector van de Vlaamse Gemeenschap vertegenwoordigen.
+Elke subcommissie is in toepassing van artikel 67, § 2, van de codificatie betreffende het secundair onderwijs samengesteld uit de voorzitter van de CABO die tevens voorzitter wordt van de subcommissie, drie leden van de CABO en drie leden die de welzijnssector van de Vlaamse Gemeenschap vertegenwoordigen.
 
 ### ART. 13.
 
