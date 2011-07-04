@@ -1470,7 +1470,7 @@ In het Gemeenschapsonderwijs zijn de aldus wederrechtelijke benoemde personeelsl
 
 ### ART. 200.
 
-Vanaf de inwerkingtreding van de besluiten van de Vlaamse regering bedoeld in artikel 12 bis; § 3 van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving dient onder erkenning van de definitieve benoeming, zoals bedoeld in de pensioenwet van 30 januari 1954, voor de personeelsleden bedoeld in de hiervoor bedoelde besluiten worden begrepen, de benoeming in vast verband zoals bedoeld in dezelfde besluiten.
+Vanaf de inwerkingtreding van de besluiten van de Vlaamse regering bedoeld in de reglementaire bepalingen inzake terbeschikkingstelling, reaffectatie en wedertewerkstelling dient onder erkenning van de definitieve benoeming, zoals bedoeld in de pensioenwet van 30 januari 1954, voor de personeelsleden bedoeld in de hiervoor bedoelde besluiten worden begrepen, de benoeming in vast verband zoals bedoeld in dezelfde besluiten.
 
 ### ART. 201.
 
