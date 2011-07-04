@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br /><br />1° de wet: de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving;<br /><br />2° het decreet: het decreet basisonderwijs van 25 februari 1997;<br /><br />3° de aanvraag tot afwijking: de aanvraag tot afwijking voor de ontwikkelingsdoelen en eindtermen, zoals bepaald in de artikelen 6ter van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving en 44bis van het decreet basisonderwijs van 25 februari 1997;<br /><br />4° de minister: het lid van de Vlaamse regering, bevoegd voor het onderwijs;<br /><br />5° de secretaris-generaal: de secretaris-generaal van het departement onderwijs;<br /><br />6° de inspecteur-generaal: de inspecteur-generaal van het basisonderwijs of de inspecteur-generaal van het secundair onderwijs, al naargelang het onderwijsniveau waarop de aanvraag betrekking heeft.
+In dit besluit wordt verstaan onder:<br />1° ...<br />2° het decreet: het decreet basisonderwijs van 25 februari 1997;<br />3° de aanvraag tot afwijking: de aanvraag tot afwijking voor de ontwikkelingsdoelen en eindtermen, zoals bepaald in de artikel 147 van de codificatie betreffende het secundair onderwijs en 44bis van het decreet basisonderwijs van 25 februari 1997;<br />4° de minister: het lid van de Vlaamse regering, bevoegd voor het onderwijs;<br />5° de secretaris-generaal: de secretaris-generaal van het departement onderwijs;<br />6° de inspecteur-generaal: de inspecteur-generaal van het basisonderwijs of de inspecteur-generaal van het secundair onderwijs, al naargelang het onderwijsniveau waarop de aanvraag betrekking heeft.
 
 ### ART. 2.
 
@@ -30,7 +30,7 @@ De aanvrager wordt door de leden van de inspectie die zijn aanvraag onderzoeken 
 
 ### ART. 8.
 
-De leden van de onderwijsinspectie en van de commissie ad hoc leggen, voor de gevallen bepaald in de artikelen 44bis, § 3, van het decreet en 6ter, § 3, van de wet, hun advies uiterlijk op 15 november voor aan de minister.<br /><br />Voor de gevallen bepaald in artikel 6ter, § 4, van de wet, leggen zij dit advies voor uiterlijk op 20 september, wat de ontvankelijkheid betreft, en uiterlijk op 15 januari, wat de gelijkwaardigheid betreft.
+De leden van de onderwijsinspectie en van de commissie ad hoc leggen, voor de gevallen bepaald in de artikelen 44bis, § 3, van het decreet en artikel 147, § 3 van de codificatie betreffende het secundair onderwijs, hun advies uiterlijk op 15 november voor aan de minister.<br /><br />Voor de gevallen bepaald in artikel 147, § 4 van de codificatie betreffende het secundair onderwijs, leggen zij dit advies voor uiterlijk op 20 september, wat de ontvankelijkheid betreft, en uiterlijk op 15 januari, wat de gelijkwaardigheid betreft.
 
 ### ART. 9.
 
