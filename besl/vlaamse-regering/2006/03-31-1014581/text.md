@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° decreet : het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I;<br />2° departement : het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap;<br />3° minister : de Vlaamse minister, bevoegd voor het onderwijs;<br />4° erkende professionele culturele organisatie : een door een overheid erkende organisatie met een kunsteducatieve en/of cultuurspreidende opdracht;<br />5° buurtgerichte organisatie : een door een overheid erkende organisatie met een lokale gemeenschapsbevorderende werking;<br />6° kansarme en/of allochtone minderjarigen : minderjarigen die voldoen aan gelijke kansenindicatoren zoals bepaald in artikel VI.2 § 1, respectievelijk VI.11, § 1 van het decreet.<br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder :<br />1° decreet : het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I;<br />2° departement : het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap;<br />3° minister : de Vlaamse minister, bevoegd voor het onderwijs;<br />4° erkende professionele culturele organisatie : een door een overheid erkende organisatie met een kunsteducatieve en/of cultuurspreidende opdracht;<br />5° buurtgerichte organisatie : een door een overheid erkende organisatie met een lokale gemeenschapsbevorderende werking;<br />6° kansarme en/of allochtone minderjarigen : minderjarigen die voldoen aan gelijke kansenindicatoren zoals bepaald artikel 225, § 1, respectievelijk artikel 233, § 1, van de codificatie betreffende het secundair onderwijs.<br /><br />
 
 ## HOOFDSTUK II Toekenning van de ondersteuning
 
