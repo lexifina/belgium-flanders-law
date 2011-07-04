@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 14 juli 1998 houdende d
 
 ### ART. 1.
 
-Voorstellen van nieuwe structuuronderdelen voltijds secundair onderwijs als vermeld in artikel 7, § 1, eerste lid, van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het Basisonderwijs, kunnen door onderwijsverstrekkers of derden op om het even welk tijdstip worden ingediend bij het Departement Onderwijs en Vorming van het Vlaams Ministerie van Onderwijs en Vorming.<br />
+Voorstellen van nieuwe structuuronderdelen voltijds secundair onderwijs als vermeld in artikel 129, § 1, van de codificatie betreffende het secundair onderwijs, kunnen door onderwijsverstrekkers of derden op om het even welk tijdstip worden ingediend bij het Departement Onderwijs en Vorming van het Vlaams Ministerie van Onderwijs en Vorming.<br />
 
 ### ART. 2.
 
