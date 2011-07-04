@@ -2,6 +2,10 @@
 
 ## DEEL I. INLEIDENDE BEPALINGEN
 
+### ART. 1.
+
+De codificatie van de wettelijke en decretale bepalingen betreffende het secundair onderwijs regelt gemeenschapsaangelegenheden.
+
 ### ART. 2.
 
 § 1. De bepalingen van deel III van de codificatie zijn van toepassing op het door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd voltijds gewoon secundair onderwijs, het buitengewoon secundair onderwijs en het deeltijds beroepssecundair onderwijs.<br /><br />De artikelen 96 tot en met 99 en 116 tot en met 120 gelden niet voor het deeltijds beroepssecundair onderwijs.<br /><br />§ 2. De bepalingen van deel IV van de codificatie zijn van toepassing op het door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd voltijds gewoon secundair onderwijs.<br /><br />De artikelen 216 en 242 tot en met 251 gelden ook voor het deeltijds beroepssecundair onderwijs.<br /><br />§ 3. De bepalingen van deel V van de codificatie zijn van toepassing op het door de Vlaamse Gemeenschap erkend, gefinancierd of gesubsidieerd buitengewoon secundair onderwijs.<br /><br />§ 4. Deel VI bevat een overzicht van de uitwerkingsdatum van de artikelen van de codificatie en deel VII wijzigt de verwijzingen naar artikelen die opgenomen zijn in de codificatie betreffende het secundair onderwijs.<br /><br />§ 5. De codificatie is niet van toepassing op de door de Vlaamse Gemeenschap gefinancierde en gesubsidieerde internaten en semi-internaten. (1)
