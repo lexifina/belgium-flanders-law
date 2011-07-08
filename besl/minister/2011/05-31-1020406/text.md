@@ -1,0 +1,2579 @@
+# Ministerieel besluit van 2011-05-31 tot wijziging van bijlage I van het ministerieel besluit van 19 maart 2004 houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne
+
+### Aanhef
+
+De Vlaamse minister van Leefmilieu, Natuur en Cultuur,<br /><br />Gelet op het decreet van 28 juni 1985 betreffende de milieuvergunning, artikel 20, eerste lid, gewijzigd bij de decreten van 21 december 1990 en 26 maart 2004;<br /><br />Gelet op het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, artikel 1.1.2, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 14 januari 2011, en artikel 5.9.2.1bis, ingevoegd bij het besluit van de Vlaamse Regering van 19 september 2003;<br /><br />Gelet op het ministerieel besluit van 19 maart 2004 houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br /><br />Gelet op advies 49.564/3 van de Raad van State, gegeven op 10 mei 2011, met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973,<br /><br />Besluit : <br /><br />
+
+### ART. 1.
+
+In het ministerieel besluit van 19 maart 2004 houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne wordt bijlage I vervangen door de bijlage, die bij dit besluit is gevoegd.<br /><br />
+
+### ART. 2.
+
+Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.<br /><br />
+
+### BIJLAGE 1
+
+<p>Bijlage I bij het ministerieel besluit van 19 maart 2004 houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne<br>
+<br>
+Bijlage I Lijst van ammoniakemissiearme stallen<br>
+<br>
+HOOFDSTUK 1 Algemene bepalingen<br>
+1.1. Deze bijlage bepaalt de ammoniakemissiearme stalsystemen toepasbaar in varkens- en pluimveestallen. De ammoniakemissiearme stalsystemen voor varkensstallen worden opgenomen in de V-lijst. De ammoniakemissiearme stalsystemen voor pluimveestallen worden opgenomen in de P-lijst. De S-lijst omvat de nageschakelde technieken die uitgaande stallucht zuiveren en kunnen toegepast worden op mechanisch geventileerde varkens- en pluimveestallen. Elk ammoniakemissiearm stalsysteem wordt aangeduid met een unieke letter-cijfer combinatie en een korte omschrijving. Van elk ammoniakemissiearm stalsysteem wordt een beschrijving gegeven van de werking, de eisen aan de uitvoering, de eisen aan het gebruik en de nadere bijzonderheden. In de O-lijst worden de varkens- en pluimveecategorieën waarvoor geen of onvoldoende aan de praktijk getoetste ammoniakemissiearme stalsystemen bestaan, opgelijst.<br>
+1.2. Voor de toepassing van deze bijlage wordt verstaan onder :<br>
+1° Emitterend mestoppervlak : contactoppervlak van de mest in de mestkelder, mestkanaal, mestbak of mestpan, binnen en buiten de afdeling met de stallucht.<br>
+2° Leefruimte : voor de dieren vrij toegankelijk, vrij vloeroppervlak.<br>
+3° Mestafvoersysteem : systeem om de mest uit de mestkanalen of andere (voorlopige) recipiënten af te voeren naar een andere, van voornoemde kanalen of recipiënten afgesloten, externe of dieper gelegen mestopslag.<br>
+4° Breedte van het mestkanaal : de breedte van de rooster boven het mestkanaal, tenzij anders vermeld.<br>
+5° Niet mestaanhechtend materiaal : alle vlakke, gladde, mestbestendige, corrosiebestendige en goed te reinigen materialen waar de mest zich niet aan vasthecht zoals bijvoorbeeld polyester, polyethyleen, polypropyleen, roestvrij staal, vlak beton, materiaal voorzien van een coating, geglazuurde tegels.<br>
+6° Rooster : vloer waarvan de verhouding openingen op de totale oppervlakte van de vloer minstens 15 % bedraagt.<br>
+7° Rooster met verhoogde mestdoorlaat : vloer waarvan de verhouding openingen op de totale oppervlakte minstens 40 % bedraagt en waarbij de vorm van de roosterbalkjes aangepast is zodat deze onderaan smaller zijn dan bovenaan, zoals bij een metalen driekantrooster.<br>
+8° Dichte vloer : vloer die voor 100 % dicht is.<br>
+9° Ziekenboeg : gedeelte van de stal voor het tijdelijk houden van zieke dieren dat aan volgende voorwaarden voldoet :<br>
+a) het aantal dierplaatsen bedraagt niet meer dan 5 % van het totaal aantal dierplaatsen in de stal;<br>
+b) de uitvoering verschilt van deze van de normale afdeling bijvoorbeeld stro versus rooster;<br>
+c) de mogelijkheid is voorzien om de dieren individueel te huisvesten;<br>
+d) een aparte, ingestrooide of van een andere vloerbedekking voorziene ligruimte is aanwezig. Bij het gebruik van stro(oisel), moet na elke bezetting het stro(oise)l-mestpakket volledig worden verwijderd.<br>
+10° Biggen : biggen van spenen tot een leeftijd van 10 weken.<br>
+11° Jonge zeug : vrouwelijk varken, ongeacht de leeftijd, tot het moment van de eerste worp.<br>
+12° Diepte van het mestkanaal : afstand gemeten tussen de onderzijde van de roosters en de bodem van het mestkanaal.<br>
+13° Diepte van het waterkanaal : afstand gemeten tussen de onderzijde van de roosters en de bodem van het waterkanaal.<br>
+14° Afsluiter : automatisch of handmatig bediend systeem waarmee afvoerpunten of afvoerleidingen van mestkanalen, waterkanalen, mestbakken en mestpannen kunnen afgesloten worden.<br>
+15° Helling van een schuine wand : de scherpe hoek die gevormd wordt door de schuine wand en het verlengde van de bodem van het mestkanaal of waterkanaal, tenzij anders vermeld.<br>
+1.3. Wanneer een ammoniakemissiearm stalsysteem grenst aan een niet-ammoniakemissiearm stalsysteem dan mogen de respectievelijke mestopslagen van beide stalsystemen niet met elkaar in verbinding staan.<br>
+1.4. Jonge zeugen worden tot het moment van dekken of insemineren ingedeeld onder de vleesvarkens. Voor jonge zeugen tot het moment van dekken of insemineren zijn dezelfde ammoniakemissiearme stalsystemen van toepassing als voor vleesvarkens.<br>
+1.5. Wanneer de oorspronkelijke plaatsen in de stal ingenomen door de zieke dieren onbezet blijven moet in het gedeelte van de stal dat uitgevoerd is als ziekenboeg geen ammoniakemissiearm stalsysteem toegepast worden.<br>
+1.6. Afsluiters in afvoerpunten of afvoerleidingen van mestkanalen, waterkanalen, mestbakken en mestpannen moeten mestbestendig zijn en moeten in de gesloten positie alle mest vasthouden in het betreffende mestkanaal, waterkanaal, mestbak of mestpan. De afsluiter mag niet door de mestdruk in de onderliggende afvoerleiding worden geopend.<br>
+1.7. Wanneer in een stalsysteem zowel waterkanalen als mestkanalen of mestbakken of mestpannen aanwezig zijn, dan mogen de waterkanalen op dezelfde hoofdafvoerleiding aangesloten worden als de mestkanalen, mestbakken of mestpannen.<br>
+1.8. Controle op vloeistofdichtheid van de afvoerleidingen van mestkanalen, waterkanalen, mestbakken en mestpannen moet gebeuren voor het betonstorten d.m.v. het vullen van de afvoerleidingen met water.<br>
+1.9. Schuine wanden in mest- en waterkanalen moeten gemaakt zijn van een niet mestaanhechtend materiaal.<br>
+1.10. Wanneer schuine wanden worden toegepast moeten deze tot op de bodem van het mest- of waterkanaal worden gemonteerd en steeds vloeistofdicht aansluiten op de wanden en de bodem van het mest- of waterkanaal.<br>
+1.11. Wanneer bij de constructie van een water of mestkanaal hulpstukken in de betonconstructie worden ingestort dan moeten deze vloeistofdicht aansluiten bij de betonconstructie.<br>
+1.12. Het mestkanaal mag niet in open verbinding staan met gelijk welk ander aanwezig water- of luchtkanaal onder de roosters en/of vloeren, alsook niet met de ruimtes onder de schuine putwanden.<br>
+1.13. Het waterkanaal mag niet in open verbinding staan met eventueel toegepaste mestkanalen, kanalen onder de dichte vloer, kanalen onder de dienstgang, werkgang, voergang of de ruimtes onder de schuine putwanden.<br>
+1.14. Daar waar zich een voederbak boven het waterkanaal bevindt, mag over een lengte van maximaal 0,50 m onder de voederbak een afwijkend rooster of afdekking op het waterkanaal toegepast worden.<br>
+1.15. Het reinigingswater van de hokken mag gebruikt worden voor het vullen van waterkanalen.<br>
+<br>
+HOOFDSTUK 2 Maximale emissiefactoren voor ammoniakemissiearme stalsystemen<br>
+<br>
+2.1. De maximale emissiefactoren voor ammoniakemissiearme stalsystemen voor varkens, uitgedrukt in kg NH3 per dierplaats per jaar, bedragen :</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;kg NH<sub>3</sub> per dierplaats per jaar</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Biggen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,30</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Zeugen in kraamhokken</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>4,45</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Zeugen in dek- en drachtstallen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2,60</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Vleesvarkens</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>1,40</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>2.2. De maximale emissiefactoren voor ammoniakemissiearme stalsystemen voor pluimvee, uitgedrukt in kg NH3 per dierplaats per jaar, bedragen :<br>
+&nbsp;</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td colspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>kg NH<sub>3</sub> per dierplaats per jaar</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Opfokpoeljen van legkippen - kooi- of batterijsystemen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,023</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Opfokpoeljen van legkippen - grondhuisvesting</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0.085</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Legkippen incl. (groot)ouderdieren van legrassen - kooi- of batterijsystemen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,050</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Legkippen incl. (groot)ouderdieren van legrassen - grondhuisvesting</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,158</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Slachtkuikenouderdieren</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,290</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Slachtkuikens</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,045</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Opfokpoeljen slachtkuikenouderdieren</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,155</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>HOOFDSTUK 3 V-lijst van ammoniakemissiearme stalsystemen voor varkens<br>
+<br>
+Afdeling 1 Ammoniakemissiearme stalsystemen voor biggen<br>
+<br>
+3.1.1. Systeem V-1.2. Ondiepe mestkelders met water- en mestkanaal<br>
+3.1.1.1. De ammoniakemissie wordt beperkt door verkleining van het emitterend mestoppervlak. Aan de voorkant van het hok bevindt zich een smal waterkanaal en aan de achterkant wordt de mest opgevangen in een breed mestkanaal, beide voorzien van een rooster met verhoogde mestdoorlaat.<br>
+3.1.1.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Mestkanaal :<br>
+a) het emitterend mestoppervlak van het mestkanaal mag maximaal 0,13 m2 per dierplaats bedragen;<br>
+b) het mestkanaal moet voorzien zijn van een rooster met verhoogde mestdoorlaat;<br>
+c) het mestkanaal mag maximaal 0,50 m diep zijn.<br>
+2° Waterkanaal :<br>
+a) het waterkanaal moet een breedte hebben van minimaal 0,30 m;<br>
+b) het waterkanaal moet voorzien zijn van een rooster met verhoogde mestdoorlaat;<br>
+c) het waterkanaal mag maximaal 0,50 m diep zijn.<br>
+3° Hokuitvoering :<br>
+a) van het totale vloeroppervlak in de hokken moet 45 % -55 % dichte vloer zijn. Deze dichte vloer wordt bol uitgevoerd;<br>
+b) de hokbreedte mag maximaal 1,30 m zijn en de diepte/breedte verhouding van het hok moet groter dan of gelijk aan 2,10 zijn;<br>
+c) de tussenhokafscheiding moet dicht uitgevoerd worden met uitzondering van het gedeelte boven het achterste mestkanaal. De hokafscheiding daar is een open hekwerk, waarvan de onderste 0,30 m dicht mag worden uitgevoerd.<br>
+4° Mestafvoer : Verschillende varianten voor de uitvoering van de afvoer van de mest en het water zijn mogelijk. De doorsnede van de afvoeropening moet in alle gevallen minimaal 150 mm zijn.<br>
+3.1.1.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Na elke ronde moeten het water- en mestkanaal afgelaten worden, waarna het hok kan worden gereinigd.<br>
+2° De afsluiters van het mestkanaal moeten beurtelings worden geopend.<br>
+3° Het waterniveau in het waterkanaal moet steeds minimaal 0,05 m bedragen.<br>
+3.1.1.4. De ammoniakemissiefactor bedraagt 0,26 kg NH3 per dierplaats per jaar bij huisvesting met maximaal 0,35 m2 leefruimte per dierplaats.<br>
+3.1.2. Systeem V-1.3. Gescheiden afvoer van mest en urine door middel van een hellende mestband<br>
+3.1.2.1. De ammoniakemissie wordt beperkt door de mest en urine op te vangen op een mestband die zich onder de roosters bevindt. Omdat de mestband zowel in dwarsrichting als in lengterichting schuin is opgesteld, wordt de urine continu uit de stal afgevoerd. De mest wordt uit de stal verwijderd doordat de mestband minstens 10 keer per dag wordt afgedraaid.<br>
+3.1.2.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Het mestkanaal moet voorzien zijn van een rooster met verhoogde mestdoorlaat.<br>
+2° Onder het roosteroppervlak bevindt zich een mestband waarop alle mest en urine terecht moet komen.<br>
+3° De mestband moet van kunststof zijn en een afschot hebben van minimaal 3 % in de dwarsrichting en van 1 % in de lengterichting.<br>
+4° De mestband kan in lengterichting naar voren dan wel naar achteren aflopend geplaatst worden.<br>
+5° De zijkanten van de mestband worden met speciale kunststof platen, die tegen de wanden van het mestkanaal zijn bevestigd, beschermd. De mestband wordt ondersteund door platen of rollen die onder de band in het mestkanaal gemonteerd zijn.<br>
+6° De mestband wordt regelmatig afgedraaid waarbij de mest door middel van een roestvast stalen- of kunststofschraper wordt verwijderd. Deze schraper moet nauw aansluiten bij de mestband. De schraper moet de vaste mest van de mestband zo verwijderen dat geen mestresten op de band achterblijven noch dat de mest over de band uitgesmeerd wordt. Vanwege het afschot van de mestband wordt de urine continu afgevoerd.<br>
+7° Via een transportsysteem moeten faeces en urine buiten de stal worden opgeslagen in een afgesloten mestopslag. Via het transportsysteem mag geen transport van lucht tussen afdelingen en tussen mestopslag en afdelingen plaatsvinden.<br>
+3.1.2.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De mestband moet minstens 10 keer per dag worden afgedraaid. Het afdraaien vindt minstens eenmaal per twee uur plaats in de periode tussen 4.00 en 22.00 uur. In de periode tussen 22.00 en 4.00 uur is het afdraaien van de band niet nodig omdat in die periode weinig of geen mest wordt geproduceerd.<br>
+2° Een automatische tijdklok met terugleesmogelijkheid moet een overzicht kunnen geven van het aantal malen afdraaien van de mestband gedurende de afgelopen 7 dagen. Tevens moet de afdraaitijd geregistreerd worden.<br>
+3° Na afloop van elke ronde moet de mestband met water schoongespoten worden.<br>
+4° De exploitant moet een onderhoudscontract hebben waarbij eenmaal per jaar controle en onderhoud van het systeem plaatsvindt.<br>
+3.1.2.4. De ammoniakemissiefactor bedraagt :<br>
+1° 0,20 kg NH3 per dierplaats en per jaar bij huisvesting met maximaal 0,35 m2 leefruimte per dierplaats.<br>
+2° 0,25 kg NH3 per dierplaats en per jaar bij huisvesting met meer dan 0,35 m2 leefruimte per dierplaats.<br>
+3.1.3. Systeem V-1.4. Koeldeksysteem met 150 % koeloppervlak<br>
+3.1.3.1. De ammoniakemissie wordt beperkt door de mest boven in het mestkanaal te koelen met behulp van drijvende koelelementen. Als koelvloeistof wordt opgepompt grondwater gebruikt.<br>
+3.1.3.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Het mestkanaal moet voorzien zijn van een rooster met verhoogde mestdoorlaat.<br>
+2° Bij huisvesting met een leefruimte van maximaal 0,35 m2 per dierplaats mag het emitterend mestoppervlak van het mestkanaal niet groter zijn dan 0,50 m2 per dierplaats.<br>
+3° Bij huisvesting met een leefruimte van meer dan 0,35 m2 per dierplaats mag het emitterend mestoppervlak van het mestkanaal niet groter zijn dan 0,67 m2 per dierplaats.<br>
+4° In de mestkanalen zijn koelelementen aangebracht, elk bestaande uit een aantal lamellen van 0,14 m breed en gemaakt van hoogwaardige kunststof. De lamellen zijn geplaatst onder een hoek van ongeveer 60° en opgehangen in een drijvend frame. Gevuld met water blijven de lamellen juist onder het mestoppervlak drijven. Het oppervlak van de koelelementen moet minimaal 150 % van het oppervlak van het mestkanaal bedragen.<br>
+5° De oppervlakte van een lamel is gelijk aan de omtrek van de lamel (0,30 m) vermenigvuldigd met de lengte van de lamel.<br>
+6° De koelelementen zijn per mestkanaal in serie verbonden en tussen de mestkanalen volgens het Tichelmann-principe parallel aangesloten op de aan- en afvoerleiding van het water. Hierdoor stroomt door elk mestkanaal een gelijk waterdebiet. Een drukmeter zorgt ervoor dat als er ergens lekkage van water optreedt de watertoevoer direct wordt gestopt.<br>
+7° Als koelvloeistof wordt opgepompt grondwater gebruikt. Het door de koelelementen rondgepompte water wordt vervolgens weer teruggepompt in de grond.<br>
+3.1.3.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De temperatuur van het in de grond teruggepompte water mag maximaal 14 °C bedragen en maximaal 3 °C zijn opgewarmd.<br>
+2° De mesttemperatuur bovenin het mestkanaal mag niet hoger zijn dan 15 °C.<br>
+3° De temperatuur van zowel de mest bovenin het mestkanaal als van het opgepompte en teruggepompte water wordt gemeten en automatisch geregistreerd. Deze registratie moet voorzien in een terugkijkmogelijkheid van minstens 7 dagen.<br>
+4° De hoeveelheid opgepompt grondwater moet geregistreerd worden.<br>
+5° Er moet een onderhoudscontract afgesloten zijn waarbij tweemaal per jaar controle en onderhoud van het systeem plaatsvindt.<br>
+3.1.3.4. De ammoniakemissiefactor bedraagt :<br>
+1° 0,15 kg NH3 per dierplaats per jaar bij huisvesting met maximaal 0,35 m2 leefruimte per dierplaats.<br>
+2° 0,19 kg NH3 per dierplaats per jaar bij huisvesting met meer dan 0,35 m2 leefruimte per dierplaats.<br>
+3.1.4. Systeem V-1.5. Volledig rooster met water-en mestkanalen, eventueel voorzien van schuine putwand(en), emitterend mestoppervlak kleiner dan 0,10 m2<br>
+3.1.4.1. De ammoniakemissie wordt beperkt door verkleining van het emitterend mestoppervlak per dierplaats door het toepassen van water- en mestkanalen.<br>
+3.1.4.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Mestkanaal :<br>
+a) de breedte van het mestkanaal moet minimaal 0,90 m zijn;<br>
+b) het emitterend mestoppervlak in het mestkanaal mag maximaal 0,10 m2 per dierplaats bedragen;<br>
+c) het roosteroppervlak boven het mestkanaal mag maximaal 0,12 m2 per dierplaats bedragen;<br>
+d) het mestkanaal moet voorzien zijn van een rooster met verhoogde mestdoorlaat.<br>
+Indien het mestkanaal wordt uitgevoerd met schuine putwand(en), dan geldt :<br>
+e) de omvang van het emitterend mestoppervlak in het mestkanaal moet worden gewaarborgd door een overloop;<br>
+f) een schuine putwand moet uitgevoerd worden onder een helling van minimaal 45°.<br>
+2° Waterkanaal :<br>
+a) het waterkanaal mag met rechte wand(en) of met schuine wand(en) worden uitgevoerd;<br>
+b) indien het waterkanaal met (een) schuine putwand(en) wordt uitgevoerd dan moet(en) deze een helling hebben van minimaal 45°;<br>
+c) het waterkanaal moet voorzien zijn van een kunststofrooster, maximaal 0,07 m2 per dierplaats van dit kunststofrooster mag uitgevoerd worden als dichte vloerverwarmingsplaat mits de nodige voorzieningen getroffen worden zodat er geen mest op de verwarmingsplaat achterblijft bij incidentele bevuiling.<br>
+3° Hokuitvoering : De voederplaatsen mogen niet boven het mestkanaal van het hok zijn gesitueerd.<br>
+4° Mestafvoer :<br>
+a) voor de afvoer van de mest uit het mestkanaal moet een rioleringssysteem of ander van de lucht af te sluiten afvoersysteem worden aangebracht, zodat de mest frequent en restloos uit de mestkanalen kan worden afgevoerd;<br>
+b) de doorsnede van de afvoeropening moet minimaal 150 mm zijn, de afvoerbuisdiameter minimaal 200 mm;<br>
+c) het rioleringssysteem of ander van de lucht af te sluiten afvoersysteem heeft per mestkanaal een centrale afsluiter;<br>
+d) verder moet de afvoer van mest zodanig gewaarborgd zijn dat het emitterend mestoppervlak nooit groter wordt dan 0,10 m2 per dierplaats. Dit moet worden gerealiseerd middels een overloop met een minimale doorlaat van 75 mm waarvan de instroomopening zichtbaar in het mestkanaal is aangebracht. Voorts moet de overloop zijn voorzien van een stankafsluiter. De overloop mag niet worden aangesloten op de hoofdleiding van het rioleringssysteem of ander van de lucht af te sluiten afvoersysteem;<br>
+e) in het afvoersysteem van het waterkanaal moet een (centrale) afsluiter worden aangebracht.<br>
+3.1.4.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Na elke ronde moeten de water- en mestkanalen afgelaten worden.<br>
+2° De eventueel aanwezige schuine putwand(en) in de mestkanalen moeten na elke ronde gereinigd worden.<br>
+3° Het waterniveau in het waterkanaal moet steeds minimaal 0,05 m bedragen.<br>
+3.1.4.4. De ammoniakemissiefactor bedraagt 0,20 kg NH3 per dierplaats per jaar<br>
+3.1.5. Systeem V-1.6. Gedeeltelijk rooster met een (water- en) mestkanaal, eventueel voorzien van schuine putwand(en)<br>
+3.1.5.1. De ammoniakemissie wordt beperkt door verkleining van het emitterend mestoppervlak per dierplaats door sturing van het mestgedrag en het eventueel toepassen van een waterkanaal en/of schuine putwand(en) in het mestkanaal.<br>
+3.1.5.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Mestkanaal :<br>
+a) de breedte van het mestkanaal moet minimaal 0,60 m zijn;<br>
+b) het emitterend mestoppervlak in het mestkanaal mag maximaal 0,10 m2 per dierplaats bedragen;<br>
+c) het roosteroppervlak boven het mestkanaal mag maximaal 0,15 m2 per dierplaats bedragen;<br>
+d) het mestkanaal moet voorzien zijn van een rooster met verhoogde mestdoorlaat.<br>
+Indien het mestkanaal wordt uitgevoerd met schuine putwand(en), dan geldt :<br>
+e) de omvang van het emitterend mestoppervlak in het mestkanaal moet worden gewaarborgd door een overloop;<br>
+f) een schuine putwand tegen de dichte vloer moet uitgevoerd worden onder een helling van minimaal 45°;<br>
+g) een schuine putwand tegen de achtermuur moet uitgevoerd worden onder een helling van minimaal 60°;<br>
+2° Er zijn twee hokuitvoeringen mogelijk :<br>
+a) het hok wordt uitgevoerd met gedeeltelijk rooster, waarbij het hok vooraan bestaat uit een hellend dicht vloergedeelte. Achterin het hok bevindt zich het roostergedeelte, waaronder zich het mestkanaal bevindt;<br>
+b) het hok wordt uitgevoerd met in het midden een bolle vloer. Aan de voorzijde van het hok bevindt zich een waterkanaal en aan de achterzijde een mestkanaal, waarbij :<br>
+i. het roosteroppervlak boven het waterkanaal nooit groter mag zijn dan het roosteroppervlak boven het mestkanaal;<br>
+ii. de breedte van het wateroppervlak max. 0,60 m is;<br>
+iii. het waterkanaal met rechte wand(en) of met schuine wand(en) mag worden uitgevoerd; indien het waterkanaal met schuine putwand(en) wordt uitgevoerd dan moet(en) deze een helling hebben van minimaal 45°;<br>
+c) voor beide types hokuitvoering geldt :<br>
+i. de voerplaatsen mogen niet boven het mestkanaal van het hok zijn gesitueerd;<br>
+ii. per dierplaats moet een dicht vloeroppervlak van minimaal 0,12 m2 aanwezig zijn.<br>
+3° Mestafvoer :<br>
+a) voor de afvoer van de mest uit het mestkanaal moet een rioleringssysteem of ander van de lucht af te sluiten afvoersysteem worden aangebracht, zodat de mest frequent en restloos uit de mestkanalen kan worden afgevoerd;<br>
+b) de doorsnede van de afvoeropening moet minimaal 150 mm zijn, de afvoerbuisdiameter minimaal 200 mm;<br>
+c) het rioleringssysteem of ander van de lucht af te sluiten afvoersysteem heeft per mestkanaal een centrale afsluiter;<br>
+d) verder moet de afvoer van mest zodanig gewaarborgd zijn dat het emitterend mestoppervlak nooit groter wordt dan 0,10 m2 per dierplaats. Dit moet worden gerealiseerd middels een overloop met een minimale doorlaat van 75 mm waarvan de instroomopening zichtbaar in het mestkanaal is aangebracht. Voorts moet de overloop zijn voorzien van een stankafsluiter. De overloop mag niet worden aangesloten op de hoofdleiding van het rioleringssysteem of ander van de lucht af te sluiten afvoersysteem;<br>
+e) in het afvoersysteem van het waterkanaal moet een (centrale) afsluiter worden aangebracht.<br>
+3.1.5.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Na elke ronde moeten de (water- en) mestkanalen afgelaten worden.<br>
+2° De eventuele schuine wand(en) in de mestkanalen moeten na elke ronde gereinigd worden.<br>
+3° Indien een waterkanaal wordt toegepast, moet het waterniveau in het waterkanaal steeds minimaal 0,05 m bedragen.<br>
+3.1.5.4. De ammoniakemissiefactor bedraagt 0,18 kg NH3 per dierplaats per jaar.<br>
+<br>
+Afdeling 2 Ammoniakemissiearme stalsystemen voor zeugen (incl. biggen tot spenen) in kraamstallen<br>
+<br>
+3.2.1. Systeem V-2.1. Mestkanaal met mestafvoersysteem<br>
+3.2.1.1. De ammoniakemissie wordt beperkt door de mest op te vangen in een mestkanaal onder de roosters en deze mest minstens eens per twee dagen d.m.v. een rioleringssysteem of ander van de lucht af te sluiten afvoersysteem uit de stal te verwijderen.<br>
+3.2.1.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Het mestkanaal moet :<br>
+a) het gehele roosteroppervlak omvatten zodat er vanuit de mestkelder geen ammoniak naar de stal ontwijkt;<br>
+b) voorzien zijn van twee schuine putwanden; de achterwand moet een helling hebben van 60° en de voorwand moet een helling van 45° hebben.<br>
+2° In de vloer van het mestkanaal moeten, op een onderlinge afstand van maximaal 2 meter, afvoerpunten naar de onder het mestkanaal gelegen riolering aanwezig zijn. De mest in het mestkanaal moet afgelaten worden alvorens een mestniveau van 0,10 m is bereikt. Om dit te garanderen wordt tevens een overloop in het mestkanaal voorzien. De overloop moet goed bereikbaar en zichtbaar aangebracht zijn.<br>
+3° Per mestkanaal moet een centrale afsluiter aanwezig zijn en de afgevoerde mest moet opgeslagen worden in een afgesloten mestopslag.<br>
+3.2.1.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Minstens eens per twee dagen moet de mest uit het mestkanaal via het rioleringssysteem of ander van de lucht af te sluiten afvoersysteem verwijderd worden.<br>
+2° Er moet een laagje van circa 0,02 m mest achterblijven om aankoeken van de vaste fractie te voorkomen.<br>
+3.2.1.4. De ammoniakemissiefactor bedraagt 3,20 kg NH3 per dierplaats per jaar.<br>
+3.2.2. Systeem V-2.2. Ondiepe mestkelders met mest- en waterkanaal<br>
+3.2.2.1. De ammoniakemissie wordt beperkt door verkleining van het emitterend mestoppervlak. Onder de roosters wordt de ondiepe mestkelder door middel van een muurtje gesplitst in een waterkanaal met minimaal 0,05 m water en een mestkanaal onder de achterzijde van de zeug.<br>
+3.2.2.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° De mestkelder mag maximaal 1,00 m diep zijn.<br>
+2° De mestkelder wordt door een mestdicht muurtje gescheiden in een breed waterkanaal onder de voorzijde van de zeug en een smal mestkanaal onder de achterzijde van de zeug. De vorm van het mestdicht muurtje is vrij, zolang aan de eisen voor oppervlakte en afmetingen van het mestkanaal en voor situering van het mestdicht muurtje wordt voldaan zoals bepaald in punt 3°, punt 4° en punt 5°.<br>
+3° De oppervlakte van het mestkanaal mag maximaal 0,80 m2 per dierplaats bedragen.<br>
+4° Om het emitterend oppervlak te beperken is de breedte van het mestkanaal niet overal gelijk :<br>
+a) per kraamhok mag het mestkanaal over een lengte van minimaal 0,60 m en maximaal 0,70 m breder zijn dan 0,30 m;<br>
+b) elders is het mestkanaal minimaal 0,20 m en maximaal 0,30 m breed.<br>
+5° Waar het mestkanaal het breedst is, is de afstand van de voorkant van de zeugenbox tot het mestdicht muurtje bij een rechte opstelling maximaal 1,60 m en bij een schuine opstelling maximaal 1,70 m.<br>
+6° Per kraamhok is één aflaatpunt vereist dat zich centraal in het mestkanaal bevindt, tenzij<br>
+a) de kraamboxen staart aan staart gesitueerd zijn, zonder tussenliggende ruimte, in dat geval mogen de 2 mestkanalen als 1 kanaal worden uitgevoerd, met één aflaatpunt per 2 kraamhokken, en waarbij de breedte van dit dubbel mestkanaal, waar het mestkanaal het smalst is, minimaal 0,30 m en maximaal 0,60 m is;<br>
+b) de kraamboxen diagonaal opgesteld zijn, en waarbij 2 naburige zeugen zich staart tegen staart bevinden, volstaat één aflaatpunt per 2 naburige kraamboxen, dit aflaatpunt situeert zich ter hoogte van de tussenwand.<br>
+3.2.2.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De vloeistof in het waterkanaal moet aan het einde van elke kraamperiode middels afsluiters afgelaten worden, waarna het kraamhok gereinigd kan worden.<br>
+2° Het waterniveau in het waterkanaal moet steeds minimaal 0,05 m bedragen.<br>
+3.2.2.4. De ammoniakemissiefactor bedraagt 4,00 kg NH3 per dierplaats per jaar.<br>
+3.2.3. Systeem V-2.3. Schuiven in mestgoot<br>
+3.2.3.1. De ammoniakemissie wordt beperkt door verkleining van het emitterend mestoppervlak in het mestkanaal in combinatie met frequente mestafvoer en beperking van het contact tussen mest en urine. Het mestkanaal is voorzien van schuine wanden en een goot. Door meerdere schuiven wordt de mest van zowel de schuine wanden als in de goot frequent verwijderd.<br>
+3.2.3.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° De kraamhokken moeten voorzien zijn van een gedeelte dichte vloer en een gedeelte met roosters bestaande uit een rooster met verhoogde mestdoorlaat.<br>
+2° Het mestkanaal moet voorzien zijn van schuine wanden met een helling van minimaal 40° ten opzichte van de roosters en onderin een ronde goot met een diameter van 250-300 mm. Het geheel van schuine wanden en goot kan in een prefab kunststof vorm in het mestkanaal worden aangebracht.<br>
+3° Mestschuif : Het schuifsysteem bestaat uit een combinatie van zes schuiven, die bevestigd zijn aan een cilinder. De cilinder is 0,60 m lang en heeft aan beide uiteinden een roestvrij stalen ronde plaat, voorzien van een rubberen ring, die als schuif voor de goot fungeert. De schuine wanden zijn voorzien van elk twee rechte roestvrijstalen strips die gekoppeld zijn aan de cilinder. De strips schrapen de mest van de wand. De schuifcombinatie wordt voortbewogen met behulp van een staalkabel. Eén schuifbeweging bestaat uit een heengaande beweging : bij een volgende schuifbeweging gaat de schuif weer terug.<br>
+4° Mestafvoer : Het grootste deel van de urine moet continu weg stromen via afvoerpunten aan beide uiteinden van het mestkanaal. Bij elke schuifbeweging wordt de vaste mest en het resterende deel van de urine via dezelfde afvoerpunten afgevoerd naar een opslag. De afvoerpunten moeten voorzien zijn van een klep die opengaat als er mest en/of urine op komt en weer dicht gaat als de mest en/of urine afgevoerd is. Kieren van de klep (door bijvoorbeeld bevuiling met mest) mag niet optreden.<br>
+3.2.3.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De mest moet minimaal achtmaal per dag uit de afdeling geschoven worden.<br>
+2° Het besturingssysteem moet een overzicht kunnen geven van het aantal schuifbewegingen gedurende de afgelopen zeven dagen.<br>
+3.2.3.4. De ammoniakemissiefactor bedraagt 2,50 kg NH3 per dierplaats per jaar.<br>
+3.2.4. Systeem V-2.4. Koeldeksysteem met 150 % koeloppervlak<br>
+3.2.4.1. De ammoniakemissie wordt beperkt door de laag mest bovenin het mestkanaal te koelen met behulp van drijvende koelelementen. Als koelvloeistof wordt opgepompt grondwater gebruikt.<br>
+3.2.4.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Het mestkanaal moet voorzien zijn van kunststof- of metalen roosters en het emitterend mestoppervlak per dierplaats mag maximaal 5,0 m2 bedragen.<br>
+2° In de mestkanalen zijn koelelementen aangebracht, elk bestaande uit een aantal lamellen van 14 cm breed en gemaakt van hoogwaardige kunststof. De lamellen zijn geplaatst onder een hoek van ongeveer 60° en opgehangen in een drijvend frame. Gevuld met water blijven de lamellen juist onder het mestoppervlak drijven. Het oppervlak van de koelelementen moet minimaal 150 % van het oppervlak van het mestkanaal bedragen.<br>
+3° De koelelementen zijn per mestkanaal in serie verbonden en tussen de mestkanalen volgens het Tichelmann-principe parallel aangesloten op de aan- en afvoerleiding van het water. Hierdoor stroomt door elk mestkanaal een gelijk waterdebiet. Een drukmeter zorgt ervoor dat als er ergens lekkage van water optreedt, de watertoevoer direct wordt gestopt.<br>
+4° Als koelvloeistof wordt opgepompt grondwater gebruikt. Het door de koelelementen rondgepompte water wordt vervolgens weer teruggepompt in de grond.<br>
+3.2.4.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De temperatuur van het in de grond teruggepompte water mag maximaal 14 °C bedragen en maximaal 3 °C zijn opgewarmd.<br>
+2° De mesttemperatuur bovenin het mestkanaal mag niet hoger zijn dan 15 °C.<br>
+3° De temperatuur van zowel de mest bovenin het mestkanaal als van het opgepompte en teruggepompte water wordt gemeten en automatisch geregistreerd. Deze registratie moet voorzien in een terugkijkmogelijkheid van minstens 7 dagen.<br>
+4° De hoeveelheid opgepompt grondwater moet geregistreerd worden.<br>
+5° De exploitant moet een onderhoudscontract hebben waarbij twee maal per jaar controle en onderhoud plaatsvindt.<br>
+3.2.4.4. De ammoniakemissiefactor bedraagt 2,40 kg NH3 per dierplaats per jaar.<br>
+3.2.5. Systeem V-2.5. Mestbak onder kraamhok<br>
+3.2.5.1. De ammoniakemissie wordt beperkt door verkleining van het emitterend mestoppervlak tot maximaal 1,10 m2 per dierplaats en het aanbrengen van een mestbak.<br>
+3.2.5.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Hokuitvoering :<br>
+a) het emitterend mestoppervlak mag niet groter zijn dan 1,10 m2 per dierplaats;<br>
+b) onder elke kraamzeug wordt een mestbak aangebracht. Een mestbak is een ondiep recipiënt dat onder de roosters wordt gehangen;<br>
+c) het systeem is ook toepasbaar in kraamhokken in schuine opstelling, waarbij van belang is dat het achterwerk van de zeug is gesitueerd boven het diepste deel van de mestbak.<br>
+2° Mestbak :<br>
+a) mestbakken kunnen prefab worden geproduceerd en zijn vervaardigd van glad en goed te reinigen materiaal;<br>
+b) de diepte van de mestbak moet aan de voorzijde minimaal 0,05 m bedragen, gemeten vanaf de onderzijde van de rooster;<br>
+c) de diepte van de mestbak aan de achterzijde bedraagt minimaal 0,20 m;<br>
+d) de mestbak moet het gehele roosteroppervlak omvatten;<br>
+e) de hellingshoek van de mestbak naar het afvoerpunt moet minimaal 3° zijn, door gebruik van een hellende bodemplaat.<br>
+3° Aflaatmoment en aflaatfrequentie :<br>
+a) de mest moet worden afgelaten voor het moment dat het emitterend mestoppervlak groter wordt dan 1,10 m2 per dierplaats. Dit wordt gereguleerd door een overloopbeveiliging;<br>
+b) minimaal elke drie dagen moet de mest automatisch afgelaten worden.<br>
+4° Mestafvoer :<br>
+a) voor de afvoer van de mest uit de mestbak moet een rioleringssysteem of ander van de lucht af te sluiten afvoersysteem worden aangebracht, zodat de mest frequent en restloos kan worden afgevoerd;<br>
+b) de doorsnede van de afvoeropening moet minimaal 90 mm inwendig zijn, de afvoerbuisdiameter minimaal 110 mm tot maximaal 125 mm (tot aan de afsluiter).<br>
+3.2.5.3 Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° In het kader van de controle en handhaafbaarheid moet de frequentie van het aflaten van de mest automatisch worden geregeld.<br>
+2° Er moet een terugkijkmogelijkheid zijn van 7 dagen, waarbij de aflaatmomenten zichtbaar zijn.<br>
+3.2.5.4. De ammoniakemissiefactor bedraagt 2,90 kg NH3 per dierplaats per jaar.<br>
+3.2.6. Systeem V-2.6. Mestpan met water- en mestkanaal onder kraamhok<br>
+3.2.6.1. De ammoniakemissie wordt beperkt door verkleining van het emitterend mestoppervlak tot maximaal 0,80 m2 per dierplaats en het aanbrengen van een mestpan met water- en mestkanaal onder het kraamhok.<br>
+3.2.6.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Hok- en vloeruitvoering :<br>
+a) het emitterend mestoppervlak mag niet groter zijn dan 0,80 m2 per dierplaats;<br>
+b) onder elk kraamhok wordt een mestpan aangebracht. Een mestpan is een ondiep recipiënt dat onder de roosters wordt gehangen. De mestpan is verdeeld in een water- en mestkanaal;<br>
+c) het systeem is toepasbaar in kraamhokken met rechte en schuine opstelling alsmede bij gedeeltelijk en volledig rooster, waarbij het van belang is dat het achterwerk van de kraamzeug is gesitueerd boven het mestkanaal.<br>
+2° Mestpan :<br>
+a) mestpannen kunnen prefab worden geproduceerd en zijn vervaardigd van glad, corrosiebestendig, niet mestaanhechtend en goed te reinigen materiaal;<br>
+b) de mestpan moet het gehele roosteroppervlak omvatten;<br>
+c) het mestkanaal moet minimaal de achterste 0,20 m van de mestpan omvatten, alsmede de mestplaats van de kraamzeug. De rest van de mestpan omvat het waterkanaal.<br>
+3° Afvoer mestpan :<br>
+a) de mest moet worden afgelaten voor het moment dat een mestniveau van 0,12 m is bereikt. Dit wordt gereguleerd door een overloopbeveiliging. De overloopbeveiliging moet goed bereikbaar en zichtbaar aangebracht zijn;<br>
+b) voor de afvoer van de mest en het water uit de mestpan moet een rioleringssysteem of ander van de lucht af te sluiten afvoersysteem worden aangebracht, zodat de mest en het water frequent en restloos kunnen worden afgevoerd;<br>
+c) de doorsnede van de afvoeropening moet minimaal 90 mm inwendig zijn, de afvoerbuisdiameter minimaal 110 mm (tot aan de afsluiter).<br>
+3.2.6.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Na elke ronde moeten de water- en mestkanalen afgelaten worden, waarna het hok gereinigd kan worden.<br>
+2° Het waterniveau in het waterkanaal moet steeds minimaal 0,05 m bedragen.<br>
+3.2.6.4. De ammoniakemissiefactor bedraagt 2,90 kg NH3 per dierplaats per jaar.<br>
+<br>
+Afdeling 3 Ammoniakemissiearme stalsystemen voor zeugen in dek- en drachtstallen<br>
+<br>
+3.3.1. Systeem V-3.1. Smalle mestkanalen met rooster met verhoogde mestdoorlaat (alleen toepasbaar bij individuele huisvesting)<br>
+3.3.1.1. Dit systeem is alleen toegelaten voor het huisvesten van de zeugen in de periode van dekken tot 4 weken erna.<br>
+3.3.1.2. De ammoniakemissie wordt beperkt door in de zeugenbox uitsluitend het vloergedeelte te onderkelderen waar de zeugen mesten en dit mestkanaal te voorzien van een rooster met verhoogde mestdoorlaat. De vloer tussen de rijen boxen is hetzij uitgevoerd als dichte vloer hetzij volledig uitgevoerd als rooster met daaronder een waterkanaal.<br>
+3.3.1.3. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Mestkanaal :<br>
+a) het mestkanaal heeft een breedte van minimaal 0,50 m en maximaal 0,60 m;<br>
+b) het emitterend mestoppervlak in het mestkanaal mag maximaal 0,40 m2 per dierplaats bedragen.<br>
+2° Waterkanaal :<br>
+a) tussen de mestkanalen (met andere woorden tussen de staart-aan-staart opgestelde rijen boxen) wordt al dan niet een waterkanaal voorzien;<br>
+b) indien een waterkanaal toegepast wordt dan moet dit voorzien worden van een rooster;<br>
+c) de maximale oppervlakte van het waterkanaal bedraagt 0,75 m2 per dierplaats;<br>
+d) het waterkanaal moet steeds minimaal 0.05 m water bevatten.<br>
+3° Roosters en mestspleet :<br>
+a) het mestkanaal moet voorzien zijn van een rooster met verhoogde mestdoorlaat met een balkbreedte van 1,0 tot 1,2 cm en een spleetbreedte van minimaal 1,2 en maximaal 2,0 cm, dat tevens voorzien is van een mestspleet van minimaal 10 en maximaal 12 cm;<br>
+b) enkel voor het verplaatsen van dieren kan de mestspleet tijdelijk worden afgesloten.<br>
+3.3.1.4. Voor het gebruik van dit systeem geldt de volgende eis : Indien een waterkanaal wordt toegepast, moet dit waterkanaal minstens zes keer per jaar worden afgelaten.<br>
+3.3.1.5. De ammoniakemissiefactor bedraagt 2,40 kg NH3 per dierplaats per jaar.<br>
+3.3.2. Systeem V-3.2. Mestkanaal met combinatierooster en frequente mestafvoer (alleen toepasbaar bij individuele huisvesting)<br>
+3.3.2.1. Dit systeem is alleen toegelaten voor het huisvesten van de zeugen in de periode van dekken tot 4 weken erna.<br>
+3.3.2.2. De ammoniakemissie wordt beperkt door de mest op te vangen in een mestkanaal onder de roosters en deze mest door middel van een rioleringssysteem of ander van de lucht af te sluiten afvoersysteem frequent uit de stal te verwijderen.<br>
+3.3.2.3. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Het mestkanaal moet :<br>
+a) het gehele roosteroppervlak omvatten zodat er vanuit de mestkelder geen ammoniak naar de stal ontwijkt;<br>
+b) voorzien zijn van twee schuine putwanden waarbij de achterwand een helling van 80° tot 90° en de voorwand een helling van 50° tot 55° moet hebben. Tussen de achterwand en de voorwand is de bodem van het mestkanaal maximaal 0,30 m breed.<br>
+2° In de vloer van het mestkanaal moeten, op een onderlinge afstand van maximaal 2,0 m, afvoerpunten naar de onder het mestkanaal gelegen riolering aanwezig zijn.<br>
+3° Per mestkanaal moet een centrale afsluiter aanwezig zijn en de afgevoerde mest moet opgeslagen worden in een afgesloten mestopslag.<br>
+4° Het combinatierooster moet, aansluitend op het deel dat bestaat uit een rooster met verhoogde mestdoorlaat, een brede spleet (0,10 m) bezitten om de mestdoorlaat te verbeteren. Onder combinatierooster wordt begrepen roosters met achteraan over minimaal 27 % van de breedte een rooster met verhoogde mestdoorlaat.<br>
+3.3.2.4. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Eenmaal per dag moet de mest uit het mestkanaal via het rioleringssysteem of ander van de lucht af te sluiten afvoersysteem verwijderd worden. Hierbij moet een laagje van circa 0,02 m mest achterblijven om aankoeken van de vaste fractie te voorkomen.<br>
+2° Het mestafvoersysteem moet voorzien zijn van een overloop die waarborgt dat het mestkanaal maximaal 0,10 m mest bevat.<br>
+3.3.2.5. De ammoniakemissiefactor bedraagt 1,80 kg NH3 per dierplaats per jaar.<br>
+3.3.3. Systeem V-3.3. Koeldeksysteem met 115 % koeloppervlak<br>
+3.3.3.1. De ammoniakemissie uit de mest wordt beperkt door de laag mest bovenin het mestkanaal te koelen met behulp van drijvende koelelementen. Als koelvloeistof wordt opgepompt grondwater gebruikt.<br>
+3.3.3.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Het mestkanaal moet voorzien zijn van beton-, kunststof- of metalen roosters en het emitterend mestoppervlak per dierplaats mag maximaal 1,0 m2 bedragen.<br>
+2° In de mestkanalen zijn koelelementen aangebracht, elk bestaande uit een aantal lamellen van 0,14 breed en gemaakt van hoogwaardige kunststof. De lamellen zijn geplaatst onder een hoek van ongeveer 60° en opgehangen in een drijvend frame. Gevuld met water blijven de lamellen juist onder het mestoppervlak drijven. Het oppervlak van de koelelementen moet minimaal 115 % van het oppervlak van het mestkanaal bedragen.<br>
+3° De koelelementen zijn per mestkanaal in serie verbonden en tussen de mestkanalen volgens het Tichelmann-principe parallel aangesloten op de aan- en afvoerleiding van het water. Hierdoor stroomt door elk mestkanaal een gelijk waterdebiet. Een drukmeter zorgt ervoor dat als er ergens lekkage van water optreedt, de watertoevoer direct wordt gestopt.<br>
+4° Als koelvloeistof wordt opgepompt grondwater gebruikt. Het door de koelelementen rondgepompte water wordt vervolgens weer teruggepompt in de grond.<br>
+3.3.3.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De temperatuur van het in de grond teruggepompte water mag maximaal 14 °C bedragen, en maximaal 3 °C zijn opgewarmd.<br>
+2° De mesttemperatuur bovenin het mestkanaal mag niet hoger zijn dan 15 °C.<br>
+3° De temperatuur van zowel de mest bovenin het mestkanaal als van het opgepompte en teruggepompte water wordt gemeten en automatisch geregistreerd. Deze registratie moet voorzien in een terugkijkmogelijkheid van minstens 7 dagen.<br>
+4° De hoeveelheid opgepompt grondwater moet geregistreerd worden.<br>
+5° De exploitant van de stal moet een onderhoudscontract hebben waarbij twee maal per jaar controle en onderhoud plaatsvindt.<br>
+3.3.3.4. De ammoniakemissiefactor bedraagt 2,20 kg NH3 per dierplaats per jaar.<br>
+3.3.4. Systeem V-3.4. Koeldeksysteem met 135 % koeloppervlak<br>
+3.3.4.1. De ammoniakemissie uit de mest wordt beperkt door de laag mest bovenin het mestkanaal te koelen met behulp van drijvende koelelementen. Als koelvloeistof wordt opgepompt grondwater gebruikt.<br>
+3.3.4.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Het mestkanaal moet voorzien te zijn van beton-, kunststof- of metalen roosters en het emitterend mestoppervlak mag maximaal 1,10 m2 per dierplaats bedragen.<br>
+2° In de mestkanalen zijn koelelementen aangebracht, elk bestaande uit een aantal lamellen van 0,14 m breed en gemaakt van hoogwaardige kunststof. De oppervlakte per lamel is de omtrek van de lamel (0,30 m) vermenigvuldigd met de lengte van de lamel. De lamellen zijn geplaatst onder een hoek van 90° en opgehangen in een drijvend frame. Gevuld met water blijven de lamellen net onder het mestoppervlak drijven. Het oppervlak van de koelelementen moet minimaal 135 % van het oppervlak van het mestkanaal bedragen.<br>
+3° De koelelementen zijn per mestkanaal in serie verbonden en tussen de mestkanalen volgens het Tichelmann-principe parallel aangesloten op de aan- en afvoerleiding van het water. Hierdoor stroomt door elk mestkanaal een gelijk waterde biet. Een drukmeter zorgt ervoor dat als er ergens lekkage van water optreedt, de watertoevoer direct wordt gestopt.<br>
+4° Als koelvloeistof wordt opgepompt grondwater gebruikt. Het door de koelelementen rondgepompte water wordt vervolgens weer teruggepompt in de grond.<br>
+3.3.4.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De temperatuur van het in de grond teruggepompte water mag maximaal 14 °C bedragen en maximaal 3 °C zijn opgewarmd.<br>
+2° De mesttemperatuur bovenin het mestkanaal mag niet hoger zijn dan 15 °C.<br>
+3° De temperatuur van zowel de mest bovenin het mestkanaal als van het opgepompte en teruggepompte water wordt gemeten en automatisch geregistreerd. Deze registratie moet voorzien in een terugkijkmogelijkheid van minstens 7 dagen.<br>
+4° De hoeveelheid opgepompt grondwater moet geregistreerd worden.<br>
+5° De exploitant van de stal moet een onderhoudscontract hebben waarbij twee maal per jaar controle en onderhoud plaatsvindt.<br>
+3.3.4.4. De ammoniakemissiefactor bedraagt 2,20 kg NH3 per dierplaats per jaar.<br>
+3.3.5. Systeem V-3.5. Groepshuisvestingsysteem, zonder strobed en met schuine putwanden in het mestkanaal<br>
+3.3.5.1. De ammoniakemissie wordt beperkt door verkleining van het emitterend mestoppervlak<br>
+3.3.5.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Er zijn meerdere uitvoeringen mogelijk :<br>
+a) het stalsysteem wordt uitgevoerd met voer(lig)boxen. De ruimte achter de voer(lig)boxen wordt gebruikt als uitloop;<br>
+b) het stalsysteem wordt uitgevoerd met zeugenvoerstation(s) of andere voersystemen en ligplaatsen.<br>
+2° Mestkanalen :<br>
+a) het emitterend mestoppervlak mag maximaal 0,55 m2 per dierplaats bedragen indien een rooster met verhoogde mestdoorlaat voorzien wordt;<br>
+b) het emitterend mestoppervlak maximaal 0,50 m2 per dierplaats bedragen indien een betonrooster voorzien wordt;<br>
+c) het emitterend mestoppervlak van de mestkanalen moet worden beveiligd door een overloop;<br>
+d) de schuine wanden moeten uitgevoerd worden onder een helling van minimaal 45°.<br>
+3° Afvoer mestkanalen :<br>
+a) voor de afvoer van de mest uit de mestkanalen moet een rioleringssysteem of ander van de lucht af te sluiten afvoersysteem worden aangebracht, zodat de mest frequent en restloos uit de mestkanalen kan worden afgevoerd;<br>
+b) de doorsnede van de afvoeropening moet minimaal 150 mm zijn;<br>
+c) de afvoerbuisdiameter is minimaal 200 mm;<br>
+d) de afvoer van mest moet zodanig gewaarborgd zijn dat het emitterend mestoppervlak nooit groter wordt dan 0,55 m2 per dierplaats indien roosters met verhoogde mestdoorlaat gebruikt worden of 0,50 m2 per dierplaats indien betonroosters gebruikt worden. Dit moet worden gerealiseerd middels een overloop met een minimale doorlaat van 75 mm waarvan de instroomopening zichtbaar in het mestkanaal is aangebracht. Voorts moet de overloop zijn voorzien van een stankafsluiter. De overloop mag niet worden aangesloten op de hoofdleiding van het rioleringssysteem of ander van de lucht af te sluiten afvoersysteem;<br>
+e) het rioleringssysteem of ander van de lucht af te sluiten afvoersysteem heeft per mestkanaal een centrale afsluiter.<br>
+3.3.5.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Minimaal éénmaal per twee weken moeten de mestkanalen afgelaten worden.<br>
+2° Wanneer de drachtige zeugenstal eveneens gebruikt wordt als dekstal dan kan dit stalsysteem wanneer het uitgevoerd wordt met voer(lig)boxen eveneens toegepast worden voor individuele huisvesting van de zeugen in de periode van dekken tot 4 weken erna. Zeugen mogen niet in een individueel hok worden opgesloten gedurende een periode die start vanaf 4 weken na dekken tot 7 dagen voor de verwachte worpdatum. Uitzonderlijk mogen individuen die bijzonder agressief zijn, of die aangevallen zijn door andere zeugen, of die ziek of gekwetst zijn, tijdelijk in individuele hokken worden gehouden. Deze individuele hokken moeten toelaten dat de dieren zich gemakkelijk kunnen omdraaien. Wanneer de zeugen in de periode 4 weken na het dekken tot 7 dagen voor de verwachte worpdatum verplaats worden naar een drachtige zeugenstal dan kan dit stalsysteem niet gebruikt worden als systeem voor individuele huisvesting voor de periode vanaf het dekken tot 4 weken na het dekken maar moet een overeenkomstig stalsysteem specifiek voor individuele huisvesting gekozen worden voor de dekstal (systeem V-3.1, systeem V-3.2 of systeem V-3.8).<br>
+3.3.5.4. De ammoniakemissiefactor bedraagt :<br>
+1° 2,30 kg NH3 per dierplaats per jaar bij een emitterend mestoppervlak van 0,55 m2 en bij gebruik van rooster met verhoogde mestdoorlaat.<br>
+2° 2,60 kg NH3 per dierplaats per jaar bij een emitterend mestoppervlak van 0,50 m2 en bij gebruik van betonroosters.<br>
+3.3.6. Systeem V-3.6. Rondloopstal met zeugenvoederstation en strobed<br>
+3.3.6.1. De ammoniakemissie wordt beperkt door verkleining van het emitterend mestoppervlak door sturing van het mestgedrag en door het veranderen van de mestsamenstelling, doordat de zeugen stro opnemen. Dit wordt bereikt door een specifieke stalindeling die erop gericht is om de dagelijkse activiteiten van de zeugen zo ongestoord mogelijk te laten verlopen en door het toepassen van "mest- en stromanagement".<br>
+3.3.6.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Hokuitvoering en roosters :<br>
+a) de stal bestaat uit één ruimte die is onderverdeeld in een ligruimte, voorzien van een strobed en in een activiteitsruimte. De ligruimte is volledig bedekt met een laag stro en wordt door de zeugen gebruikt als rustplaats. Onder de activiteitsruimte wordt de ruimte verstaan waarin de zeugen eten, drinken en mesten. De activiteitsruimte bestaat uit de volgende functionele ruimtes : loopgang, wachtruimte, voerstation(s) en drinkruimte : per groep zeugen moet een duidelijke scheiding tussen ligruimte en activiteitsruimte aangebracht worden;<br>
+b) het totaal beschikbaar hokoppervlak bedraagt maximaal 2,50 m2 per dierplaats. Ruimtes die niet direct beschikbaar zijn voor de zeugen, zoals bijvoorbeeld de separatieruimte, het berenhok, alsmede de ruimte tussen de voerstations, mogen hierbij niet worden meegerekend.<br>
+2° Ligruimte, inclusief strobed :<br>
+a) de vloer is dicht en is volledig ingestrooid met stro zodat een strobed ontstaat;<br>
+b) het beschikbaar ligoppervlak bedraagt minimaal 1,30 m2 en maximaal 1,50 m2 per dierplaats;<br>
+c) in de ligruimte mogen zeer beperkt mestplekken aanwezig zijn;<br>
+d) het strobed heeft een dikte van minimaal 0,15 en maximaal 0,40 m;<br>
+e) de ligruimte mag verdeeld zijn in meerdere vakken of ligbedden;<br>
+f) elk strobed heeft een oppervlak van minimaal 25 m2;<br>
+g) per strobed is één doorgang naar de activiteitsruimte aanwezig;<br>
+h) de doorgang naar de activiteitsruimte is minimaal 2,0 m en maximaal 4,0 m breed;<br>
+i) elk strobed is, behoudens de doorgang naar de activiteitsruimte, volledig omgeven door een dichte hokafscheiding met een hoogte van minimaal 1,0 m, gemeten vanaf de vloer;<br>
+j) de afstand vanaf de rand van de doorgang naar de activiteitsruimte tot aan het verst gelegen punt van de hokafscheiding, gemeten over het strobed, mag niet groter zijn dan 16 m.<br>
+3° Activiteitsruimte, inclusief loopgang :<br>
+a) mag worden voorzien van zowel een rooster als van een dichte vloer;<br>
+b) de loopgang moet minimaal 2,0 m breed zijn, zodat de zeugen elkaar ongehinderd kunnen passeren;<br>
+c) bij de centrale drinkwatervoorziening (kan bestaan uit meerdere drinkbakken of uit drinknippels) is een vrije ruimte van minimaal 3,0 m bij 3,0 m aanwezig;<br>
+d) het emitterend mestoppervlak in de mestkelder in geval van roosters mag maximaal 1,10 m2 per dierplaats bedragen. In geval van dichte vloer is de maximale oppervlakte van de dichte vloer 1,10 m2 per dierplaats.<br>
+4° Mestafvoer :<br>
+a) indien (een gedeelte van) de activiteitsruimte wordt voorzien van een rooster, dan moet zich hieronder een mestkelder bevinden, eventueel voorzien van een mestafvoersysteem;<br>
+b) de mestkelder, eventueel in combinatie met een mestafvoersysteem, moet zodanig aangelegd zijn dat de mest snel en restloos uit de kelder kan worden afgevoerd.<br>
+3.3.6.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Minimaal tweemaal per week moet het strobed in de ligruimte aangevuld worden met vers stro. Minimaal één keer per jaar moet het gehele strobed in de ligruimte vervangen worden.<br>
+2° Elke dag moet de mest verwijderd worden die toch op het strobed of op de dichte vloer van de activiteitsruimte, inclusief de loopgang, terecht is gekomen.<br>
+3.3.6.4. De ammoniakemissiefactor bedraagt 2,60 kg NH3 per dierplaats per jaar.<br>
+3.3.7. Systeem V-3.7. Zeugen in voederligbox op strobed<br>
+3.3.7.1. De verlaagde ammoniakemissie wordt bekomen door het opvangen van de mest in het stro en het regelmatig aanvullen en vervangen van het stro.<br>
+3.3.7.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° De zeugen zijn gehuisvest in compartimenten van 6 tot 12 zeugen. Ieder compartiment bestaat uit 2 delen zijnde de voederligbox en het ligbed op stro.<br>
+2° Voor de voederligbox geldt :<br>
+a) iedere zeug beschikt over een voederligbox geplaatst in volle vloer;<br>
+b) de voederligbox heeft een breedte tussen 0,50 m en 0,65 m;<br>
+c) de minimale lengte van de volle vloer bedraagt 1,55 m.<br>
+3° Voor het ligbed op stro geldt :<br>
+a) het ligbed, gelegen achter de voederligboxen, heeft een minimale oppervlakte van 1,50 m2 per zeugplaats;<br>
+b) de (volle) vloer van het ligbed is 0,30 à 0,40 m gelegen onder het niveau van de vloer van de voederligboxen.<br>
+3.3.7.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Bij de start van iedere ronde wordt het ligbed voldoende ingestrooid (0,30 m à 0,40 m stro). Er moet voldoende stro aanwezig zijn zodanig dat het niveauverschil tussen het strobed en de vloer van de ligboxen maximaal 0,10 m bedraagt.<br>
+2° Minimaal driemaal per week moet het strobed aangevuld worden met vers stro, zodanig dat er geen vuile en vochtige mestplekken ontstaan in het strobed.<br>
+3° Het strobed in de ligruimte wordt om de 5 weken vervangen.<br>
+4° Het stroverbruik wordt geschat op 2 kg per zeug per dag.<br>
+5° Het strobed mag maximaal 0,50 m dik zijn.<br>
+3.3.7.4. De ammoniakemissiefactor bedraagt 1,00 kg NH3 per dierplaats per jaar (op basis van oriënterende metingen).<br>
+3.3.8. Systeem V-3.8. Gescheiden afvoer van mest en urine door middel van een conische mestband (alleen toepasbaar bij individuele huisvesting)<br>
+3.3.8.1. Dit systeem is alleen toegelaten voor het huisvesten van de zeugen in de periode van dekken tot 4 weken erna.<br>
+3.3.8.2. De ammoniakemissie wordt beperkt door de mest en urine op te vangen op een conische mestband die zich onder de roosters bevindt. Door de conische uitvoering van de mestband loopt de urine van de mestband af naar een onderliggende opslag terwijl de vaste mest blijft liggen op de mestband. De vaste mest wordt uit de stal verwijderd naar een gesloten opslag doordat de mestband 10 keer per etmaal wordt afgedraaid.<br>
+3.3.8.3. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Het mestkanaal achter elke rij zeugenboxen moet voorzien zijn van een rooster met verhoogde mestdoorlaat.<br>
+2° Op maximum 40 cm onder het roosteroppervlak bevindt zich een conische mestband waarop alle mest en urine terecht moet komen. De mestband is minstens 20 cm breder dan de breedte van de roosters waaronder ze geplaatst worden. Indien nodig kunnen meerdere overlappende mestbanden voorzien worden, opgesteld op verschillende hoogte (onderliggende afstand max. 40 cm). Deze mestbanden moeten elkaar minstens 20 cm overlappen.<br>
+3° De mestband(en) is (zijn) uitgevoerd in kunststof.<br>
+4° De mestband wordt regelmatig afgedraaid waarbij de mest door middel van een roestvrij stalen- of kunststofschraper verwijderd wordt. Deze schraper moet nauw aansluiten bij de mestband. De schraper moet de vaste mest van de mestband zo verwijderen dat geen mestresten op de band achterblijven noch dat de mest over de band uitgesmeerd wordt.<br>
+5° Langs de zijkanten van de mestband worden roestvrij stalen- of kunststofgeleiders voorzien die zodanig geplaatst worden dat de vaste mest zowel wanneer de band in rust is als tijdens het schrapen niet van de band kan vallen.<br>
+6° De conische vorm van de mestband moet een continue afvoer van de urine garanderen.<br>
+7° Voor de ondersteuning van de band worden platen of rollen onder de band in het mestkanaal gemonteerd.<br>
+8° De vaste mest wordt afgevoerd naar een gesloten mestopslag. Telkens de mestband afgedraaid wordt, moet de vaste mest aanwezig op de banden afgevoerd worden tot buiten de stal. Via een transportsysteem moet de vaste mest naar een gesloten opslag gelegen buiten de stal afgevoerd worden. Indien een deel van het transportsysteem zich buiten de stal bevindt moet dit overkapt en afgesloten zijn. De urine kan in een kelderruimte onder het mestkanaal opgeslagen worden of afgevoerd naar een gesloten mestopslag buiten de stal. Via het transportsysteem mag geen transport van lucht tussen afdelingen en tussen mestopslag en afdelingen plaatsvinden.<br>
+3.3.8.4. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De mestband moet 10 keer per dag worden afgedraaid. Het afraaien van de mestbanden is geregeld via een automatische aandrijving gekoppeld aan een interventieklok. Het afdraaien vindt eenmaal per twee uur plaats in de periode tussen 04.00 en 22.00 uur. In de periode tussen 22.00 en 4.00 uur is het afdraaien van de band niet nodig omdat in die periode weinig of geen mest wordt geproduceerd.<br>
+2° Een automatische tijdklok met terugleesmogelijkheid moet een overzicht kunnen geven van het aantal malen afdraaien van de mestband gedurende de afgelopen 7 dagen. Tevens moet de afdraaitijd geregistreerd worden.<br>
+3° Na afloop van elke ronde moet de mestband met water schoongespoten worden.<br>
+4° De exploitant van de stal moet een onderhoudscontract hebben waarbij eenmaal per jaar controle en onderhoud van het systeem plaatsvindt.<br>
+3.3.8.5. De ammoniakemissiefactor werd niet bepaald via metingen. De verwachte ammoniakemissiefactor wordt geacht vergelijkbaar te zijn met andere systemen voor individuele huisvesting van zeugen gekenmerkt door een frequente mestafvoer (systeem V-3.2).<br>
+<br>
+Afdeling 4 Ammoniakemissiearme stalsystemen voor vleesvarkens<br>
+<br>
+3.4.1. Systeem V-4.1. Mestopvang in en spoelen met beluchte mestvloeistof - hokoppervlak van 0,65 tot en met 0,80 m2<br>
+3.4.1.1. De ammoniakemissie wordt beperkt door de verse mest op te vangen in een vloeistoflaag van beluchte mest van circa 0,10 m. Het mengsel wordt minimaal 1 maal per drie dagen uit de stal verwijderd. Meteen daarna wordt opnieuw beluchte mest toegevoerd zodat continu een vloeistoflaag van circa 0,10 m aanwezig is.<br>
+3.4.1.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Het mestkanaal moet geschikt zijn om de spoelvloeistof, zijnde de beluchte mest, vast te houden en tijdens het spoelen het mengsel van beluchte mest en verse mest goed af te voeren en te vervangen door schone spoelvloeistof.<br>
+2° Behandeling van het mengsel verse mest/beluchte mest :<br>
+a) voorbehandeling met behulp van poly-electroliet, waardoor de organische stof gebonden wordt, en een trommelzeef, waardoor zand en organische bestanddelen uit het mengsel verwijderd worden, zodat het beluchtingsproces efficiënter verloopt;<br>
+b) beluchting, waarbij het actief slib ammoniak omzet, waardoor het ammoniakgehalte in het mengsel daalt;<br>
+c) nabezinking, waarbij het actief slib bezinkt en waarna de bovenstaande laag beluchte mest naar het mestkanaal terug wordt gepompt.<br>
+3.4.1.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Er moet bij gesloten afvoer een laag van minimaal 0,10 m vloeistof aanwezig zijn in het mestkanaal.<br>
+2° Minimaal éénmaal per drie dagen moet de mest in het mestkanaal verwijderd worden. Meteen daarna moet nieuwe beluchte mest toegevoerd worden.<br>
+3° Het goed functioneren van het systeem moet gecontroleerd worden door het ammoniakgehalte te bepalen van zowel de beluchte mest in de nabezinking als van het mengsel dat uit de stal terugkomt. Het ammoniakgehalte in de beluchte mest in de nabezinking moet lager zijn dan 100 mg N per liter. Het ammoniakgehalte in het mengsel dat uit de stal terugkomt, moet lager zijn dan 200 mg N per liter. Met sneltesten, zijnde strookjes of cuvetten, kunnen periodiek indicatieve metingen worden verricht. Eenmaal per kwartaal moet een erkend laboratorium het ammoniakgehalte chemisch analyseren.<br>
+4° Alle processtappen moeten geheel geautomatiseerd verlopen.<br>
+5° Bij de voorbehandelingsunit en de beluchtingsinstallatie moeten een handleiding voor gebruik en een overzicht van de dimensioneringsgrondslagen, beide te leveren door de leverancier, aanwezig zijn.<br>
+6° De exploitant van de stal moet een onderhoudscontract sluiten met de leverancier.<br>
+3.4.1.4. De ammoniakemissiefactor bedraagt 1,40 kg NH3 per dierplaats per jaar.<br>
+3.4.2. Systeem V-4.2. Mestopvang in beluchte mest en vervanging hiervan via een rioleringssysteem of ander van de lucht af te sluiten afvoersysteem - hokoppervlak van 0,65 tot en met 0,80 m2<br>
+3.4.2.1. De ammoniakemissie wordt beperkt door de verse mest op te vangen in een vloeistoflaag van beluchte mest van circa 0,10 m. Het mengsel wordt dagelijks door middel van een rioleringssysteem of ander van de lucht af te sluiten afvoersysteem uit de stal verwijderd. Meteen daarna wordt opnieuw beluchte mest toegevoerd zodat continu een vloeistoflaag van circa 0,10 m aanwezig is.<br>
+3.4.2.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° In de bodem van het mestkanaal moeten, op een onderlinge afstand van maximaal 2,0 m, afvoerpunten naar de onder het mestkanaal gelegen riolering aanwezig zijn. De vloer moet glad afgewerkt zijn.<br>
+2° Behandeling van het mengsel verse mest/beluchte mest :<br>
+a) voorscheiding, waardoor zand en zware organische bestanddelen uit het mengsel verwijderd worden;<br>
+b) beluchting, waarbij het actief slib ammoniak omzet, waardoor het ammoniakgehalte in het mengsel daalt;<br>
+c) nabezinking, waarbij het actief slib bezinkt en waarna de bovenstaande laag beluchte mest naar het mestkanaal terug wordt gepompt.<br>
+3.4.2.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Er moet bij gesloten afvoer een laag van minimaal 0,10 m vloeistof aanwezig zijn in het mestkanaal.<br>
+2° Eénmaal per dag moet de mest in het mestkanaal via het rioleringssysteem of ander van de lucht af te sluiten afvoersysteem verwijderd worden. Meteen daarna moet nieuwe beluchte mest toegevoerd worden.<br>
+3° Het goed functioneren van het systeem moet gecontroleerd worden door het ammoniakgehalte van de beluchte mest in de nabezinking te bepalen : Het ammoniakgehalte moet lager zijn dan 200 mg N per liter. Een ammoniakgehalte van meer dan 500 mg N per liter duidt op een onvoldoende functionerend beluchtingsproces. Met sneltesten, zijnde strookjes of cuvetten, kunnen periodiek indicatieve metingen worden verricht. Eenmaal per kwartaal moet een erkend laboratorium het ammoniakgehalte chemisch analyseren.<br>
+4° Bij de beluchtingsinstallatie moeten een handleiding voor gebruik en een overzicht van de dimensioneringsgrondslagen, beide te leveren door de leverancier, aanwezig zijn.<br>
+5° De exploitant van de stal moet een onderhoudscontract sluiten met de leverancier.<br>
+3.4.2.4. De ammoniakemissiefactor bedraagt 1,40 kg NH3 per dierplaats per jaar.<br>
+3.4.3. Systeem V-4.3. Koeldeksysteem met 170 % koeloppervlak en met rooster met verhoogde mestdoorlaat<br>
+3.4.3.1. De ammoniakemissie uit de mest wordt beperkt door de laag mest bovenin het mestkanaal te koelen met behulp van drijvende koelelementen. Als koelvloeistof wordt opgepompt grondwater gebruikt.<br>
+3.4.3.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Het mestkanaal moet voorzien zijn van roosters met verhoogde mestdoorlaat en het emitterend mestoppervlak per varkensplaats mag maximaal 0,50 m2 bedragen.<br>
+2° De leefruimte bedraagt maximaal 0,80 m2 per varkensplaats.<br>
+3° In de mestkanalen zijn koelelementen aangebracht, elk bestaande uit een aantal lamellen van 0,14 m breed en gemaakt van hoogwaardige kunststof. De lamellen zijn geplaatst onder een hoek van ongeveer 60° en opgehangen in een drijvend frame. Gevuld met water blijven de lamellen juist onder het mestoppervlak drijven. Het oppervlak van de koelelementen moet minimaal 170 % van het oppervlak van het mestkanaal bedragen.<br>
+4° De koelelementen zijn per mestkanaal in serie verbonden en tussen de mestkanalen volgens het Tichelmann-principe parallel aangesloten op de aan- en afvoerleiding van het water. Hierdoor stroomt door elk mestkanaal een gelijk waterdebiet. Een drukmeter zorgt ervoor dat als er ergens lekkage van water optreedt, de watertoevoer direct wordt gestopt.<br>
+5° Als koelvloeistof wordt opgepompt grondwater gebruikt. Het door de koelelementen rondgepompte water wordt vervolgens weer teruggepompt in de grond.<br>
+3.4.3.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De temperatuur van het in de grond teruggepompte water mag maximaal 14 °C bedragen en maximaal 3 °C zijn opgewarmd.<br>
+2° De mesttemperatuur bovenin het mestkanaal mag niet hoger zijn dan 15 °C.<br>
+3° De temperatuur van zowel de mest bovenin het mestkanaal als van het opgepompte en teruggepompte water wordt gemeten en automatisch geregistreerd. Deze registratie moet voorzien in een terugkijkmogelijkheid van minstens 7 dagen.<br>
+4° De hoeveelheid opgepompt grondwater moet geregistreerd worden.<br>
+5° De exploitant van de stal moet een onderhoudscontract hebben waarbij twee maal per jaar controle en onderhoud plaatsvindt.<br>
+3.4.3.4. De ammoniakemissiefactor bedraagt 1,10 kg NH3 per dierplaats per jaar bij een maximaal hokoppervlak van 0,80 m2.<br>
+3.4.4. Systeem V-4.4. Koeldeksysteem met 200 % koeloppervlak en met roosters met verhoogde mestdoorlaat, maximaal 0,80 m2 emitterend mestoppervlak<br>
+3.4.4.1. De ammoniakemissie uit de mest wordt beperkt door de laag mest bovenin het mestkanaal te koelen met behulp van drijvende koelelementen. Als koelvloeistof wordt opgepompt grondwater gebruikt.<br>
+3.4.4.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Het mestkanaal moet voorzien zijn van roosters met een verhoogde mestdoorlaat en het emitterend mestoppervlak per varkensplaats mag maximaal 0,80 m2 bedragen.<br>
+2° In de mestkanalen zijn koelelementen aangebracht, elk bestaande uit een aantal lamellen van 0,14 m breed en gemaakt van hoogwaardige kunststof. De lamellen zijn geplaatst onder een hoek van ongeveer 60° en opgehangen in een drijvend frame. Gevuld met water blijven de lamellen juist onder het mestoppervlak drijven. Het oppervlak van de koelelementen moet minimaal 200 % van het oppervlak van het mestkanaal bedragen.<br>
+3° De koelelementen zijn per mestkanaal in serie verbonden en tussen de mestkanalen volgens het Tichelmann-principe parallel aangesloten op de aan- en afvoerleiding van het water. Hierdoor stroomt door elk mestkanaal een gelijk waterdebiet. Een drukmeter zorgt ervoor dat als er ergens lekkage van water optreedt, de watertoevoer direct wordt gestopt.<br>
+4° Als koelvloeistof wordt opgepompt grondwater gebruikt. Het door de koelelementen rondgepompte water wordt vervolgens weer teruggepompt in de grond.<br>
+3.4.4.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De temperatuur van het in de grond teruggepompte water mag maximaal 14 °C bedragen, en maximaal 3 °C zijn opgewarmd.<br>
+2° De mesttemperatuur bovenin het mestkanaal mag niet hoger zijn dan 15 °C.<br>
+3° De temperatuur van zowel de mest bovenin het mestkanaal als van het opgepompte en teruggepompte water wordt gemeten en automatisch geregistreerd. Deze registratie moet voorzien in een terugkijkmogelijkheid van minstens 7 dagen.<br>
+4° De hoeveelheid opgepompt grondwater moet geregistreerd worden.<br>
+5° De exploitant van de stal moet een onderhoudscontract hebben waarbij twee maal per jaar controle en onderhoud plaatsvindt.<br>
+3.4.4.4. De ammoniakemissiefactor bedraagt 1,20 kg NH3 per dierplaats per jaar.<br>
+3.4.5. Systeem V-4.5. Koeldeksysteem 200 % koeloppervlak en met andere dan roosters met verhoogde mestdoorlaat<br>
+3.4.5.1. De ammoniakemissie uit de mest wordt beperkt door de laag mest bovenin het mestkanaal te koelen met behulp van drijvende koelelementen. Als koelvloeistof wordt opgepompt grondwater gebruikt.<br>
+3.4.5.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Het mestkanaal moet voorzien zijn van roosters andere dan roosters met verhoogde mestdoorlaat en het emitterend mestoppervlak per varkensplaats mag maximaal 0,60 m2 bedragen.<br>
+2° In de mestkanalen zijn koelelementen aangebracht, elk bestaande uit een aantal lamellen van 0,14 m breed en gemaakt van hoogwaardige kunststof. De lamellen zijn geplaatst onder een hoek van ongeveer 60° en opgehangen in een drijvend frame. Gevuld met water blijven de lamellen juist onder het mestoppervlak drijven. Het oppervlak van de koelelementen moet minimaal 200 % van het oppervlak van het mestkanaal bedragen.<br>
+3° De koelelementen zijn per mestkanaal in serie verbonden en tussen de mestkanalen volgens het Tichelmann-principe parallel aangesloten op de aan- en afvoerleiding van het water. Hierdoor stroomt door elk mestkanaal een gelijk waterdebiet. Een drukmeter zorgt ervoor dat als er ergens lekkage van water optreedt, de watertoevoer direct wordt gestopt.<br>
+4° Als koelvloeistof wordt opgepompt grondwater gebruikt. Het door de koelelementen rondgepompte water wordt vervolgens weer teruggepompt in de grond.<br>
+3.4.5.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De temperatuur van het in de grond teruggepompte water mag maximaal 14 °C bedragen, en maximaal 3 °C zijn opgewarmd.<br>
+2° De mesttemperatuur bovenin het mestkanaal mag niet hoger zijn dan 15 °C.<br>
+3° De temperatuur van zowel de mest bovenin het mestkanaal als van het opgepompte en teruggepompte water wordt gemeten en automatisch geregistreerd. Deze registratie moet voorzien in een terugkijkmogelijkheid van minstens 7 dagen.<br>
+4° De hoeveelheid opgepompt grondwater moet geregistreerd worden.<br>
+5° De exploitant van de stal moet een onderhoudscontract hebben waarbij twee maal per jaar controle en onderhoud plaatsvindt.<br>
+3.4.5.4. De ammoniakemissiefactor bedraagt 1,40 kg NH3 per dierplaats per jaar bij een emitterend mestoppervlak van maximaal 0,6 m2.<br>
+3.4.6. Systeem V-4.6. Mestkelders met (water-) en mestkanaal, eventueel voorzien van schuine putwand(en) en met roosters met verhoogde mestdoorlaat<br>
+3.4.6.1. de ammoniakemissie wordt beperkt door verkleining van het mestoppervlak per dierplaats. Aan de achterkant wordt de mest opgevangen in een breed mestkanaal, voorzien van een rooster met verhoogde mestdoorlaat en schuine putwand(en).<br>
+3.4.6.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Mestkanaal :<br>
+a) de breedte van het mestkanaal moet minimaal 1,10 m zijn;<br>
+b) het emitterend mestoppervlak moet kleiner zijn dan 0,27 m2 per dierplaats;<br>
+c) het emitterend mestoppervlak van het mestkanaal moet worden beveiligd door een overloop;<br>
+d) het mestkanaal moet voorzien zijn van een rooster met verhoogde mestdoorlaat;<br>
+e) het roosteroppervlak boven het mestkanaal moet gelijk zijn aan of groter zijn dan het roosteroppervlak boven het waterkanaal;<br>
+f) de wand tegen de bolle vloer moet uitgevoerd worden onder een helling die ligt in de range van 45° tot en met 90°;<br>
+g) de schuine wand tegen de achtermuur is niet vereist, indien wel toegepast moet de wand een helling van minimaal 60° hebben;<br>
+h) ook is het mogelijk om een goot toe te passen om het emitterend mestoppervlak te beperken.<br>
+2° Hokuitvoering :<br>
+a) er zijn twee soorten hokuitvoering mogelijk :<br>
+i. het hok wordt uitgevoerd met gedeeltelijk rooster, waarbij het hok vooraan bestaat uit een dichte vloer. Achterin het hok bevindt zich het mestkanaal;<br>
+ii. het hok wordt uitgevoerd met in het midden een bolle vloer. Aan de voorkant bevindt zich een kanaal voorzien van een rooster. Het is toegestaan om dit kanaal als een zogenaamd waterkanaal uit te voeren;<br>
+b) indien het voorste kanaal als een zogenaamd waterkanaal wordt uitgevoerd, dan geldt :<br>
+i. het roosteroppervlak boven het waterkanaal mag nooit groter zijn dan het roosteroppervlak boven het mestkanaal;<br>
+ii. de breedte van het wateroppervlak mag niet meer bedragen dan 0,60 m. Om dit te realiseren kan het waterkanaal uitgevoerd worden met een schuine wand tegen de bolle vloer. Deze moet uitgevoerd worden onder een helling die ligt in de range van 45° tot en met 90°. Ook is het mogelijk om twee schuine wanden in het waterkanaal te gebruiken of een goot;<br>
+iii. na elke mestronde moet het waterkanaal afgelaten worden waarna het hok gereinigd kan worden;<br>
+iv. het waterniveau in het waterkanaal moet steeds minimaal 0,10 m zijn;<br>
+c) voor beide types hokuitvoering geldt :<br>
+i. het hok mag worden uitgerust met een brij- of droogvoerbak of met een (dwars)trog;<br>
+ii. de hokafscheiding kan open of dicht worden uitgevoerd;<br>
+iii. per dierplaats moet een dicht vloeroppervlak van minimaal 0.30 m2 aanwezig zijn of als de totale vloeroppervlakte per dier minder bedraagt dan 0.65 m2 dan moet de oppervlakte dichte vloer minstens 45 % van deze totale oppervlakte per dier bedragen.<br>
+3° Mestafvoer :<br>
+a) voor de afvoer van de mest uit het mestkanaal moet een rioleringssysteem of ander van de lucht af te sluiten afvoersysteem worden aangebracht, zodat de mest frequent en restloos uit de mestkanalen kan worden afgevoerd;<br>
+b) de doorsnede van de afvoeropening moet minimaal 150 mm zijn, de afvoerbuisdiameter minimaal 200 mm;<br>
+c) verder moet de afvoer van mest zodanig gewaarborgd zijn dat het emitterend mestoppervlak nooit groter wordt dan 0,27 m2 per dierplaats. Dit moet worden gerealiseerd middels een overloop met een minimale doorlaat van 75 mm waarvan de instroomopening zichtbaar in het mestkanaal is aangebracht. Voorts moet de overloop zijn voorzien van een stankafsluiter. De overloop mag niet worden aangesloten op de hoofdleiding van het rioleringssysteem of ander van de lucht af te sluiten afvoersysteem;<br>
+d) in het afvoersysteem van het waterkanaal moet een (centrale) afsluiter worden aangebracht;<br>
+e) het rioleringssysteem of ander van de lucht af te sluiten afvoersysteem heeft per mestkanaal een centrale afsluiter.<br>
+3.4.6.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Na elke ronde moeten de kanalen afgelaten worden, waarna het hok gereinigd kan worden.<br>
+2° De schuine wand(en) in het mestkanaal moeten na elke ronde schoongespoten worden.<br>
+3° Het waterniveau in het waterkanaal moet steeds minimaal 0,10 m bedragen.<br>
+3.4.6.4. De ammoniakemissiefactor bedraagt :<br>
+1° 1,00 kg NH3 per dierplaats per jaar bij maximaal 0,18 m2 emitterend mestoppervlak van het mestkanaal per dierplaats.<br>
+2° 1,40 kg NH3 per dierplaats per jaar bij meer dan 0,18 m2 maar minder dan 0,27 m2 emitterend mestoppervlak van het mestkanaal per dierplaats.<br>
+3.4.7. Systeem V-4.7. Mestkelders met (water-) en mestkanaal, de laatste met schuine putwand(en) en met andere dan roosters met verhoogde mestdoorlaat.<br>
+3.4.7.1. De ammoniakemissie wordt beperkt door verkleining van het mestoppervlak per dierplaats. Aan de achterkant wordt de mest opgevangen in een breed mestkanaal, voorzien van een rooster en schuine putwand(en).<br>
+3.4.7.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Mestkanaal :<br>
+a) de breedte van het mestkanaal moet minimaal 1,10 m zijn;<br>
+b) het emitterend mestoppervlak mag maximaal 0,18 m2 bedragen;<br>
+c) het emitterend mestoppervlak van het mestkanaal moet worden beveiligd door een overloop;<br>
+d) het roosteroppervlak boven het mestkanaal moet gelijk zijn aan of groter zijn dan het roosteroppervlak boven het waterkanaal;<br>
+e) de wand tegen de bolle vloer moet uitgevoerd worden onder een helling die ligt in de range van 45° tot en met 90°;<br>
+f) de schuine wand tegen de achtermuur is niet vereist, indien wel toegepast moet de wand een helling van minimaal 60° hebben;<br>
+g) ook is het mogelijk om een goot toe te passen.<br>
+2° Hokuitvoering :<br>
+a) er zijn twee soorten hokuitvoeringen mogelijk :<br>
+i. het hok wordt uitgevoerd met gedeeltelijk rooster, waarbij het hok vooraan bestaat uit een dichte vloer. Achterin het hok bevindt zich het mestkanaal;<br>
+ii. het hok wordt uitgevoerd met in het midden een bolle vloer. Aan de voorkant bevindt zich een kanaal voorzien van een rooster. Het is toegestaan om dit kanaal als een zogenaamd waterkanaal uit te voeren;<br>
+b) indien het voorste kanaal als een zogenaamd waterkanaal wordt uitgevoerd, dan geldt :<br>
+i. het roosteroppervlak boven het waterkanaal mag nooit groter zijn dan het roosteroppervlak boven het mestkanaal;<br>
+ii. de breedte van het wateroppervlak mag niet meer bedragen dan 0,60 m. Om dit te realiseren kan het waterkanaal worden uitgevoerd met een schuine wand tegen de bolle vloer. Deze moet uitgevoerd worden onder een helling die ligt in de range van 45° tot en met 90°. Ook is het mogelijk om twee schuine wanden in het waterkanaal te gebruiken of een goot;<br>
+iii. na elke mestronde moet het waterkanaal afgelaten worden waarna het hok gereinigd kan worden;<br>
+iv. het waterniveau in het waterkanaal moet minimaal 0,10 m bedragen;<br>
+c) voor beide type hokuitvoering geldt :<br>
+i. het hok mag worden uitgerust met een brij- of droogvoederbak of met een (dwars)trog;<br>
+ii. de hokafscheiding kan open of dicht worden uitgevoerd;<br>
+iii. per dierplaats moet een dicht vloeroppervlak van minimaal 0.30 m2 aanwezig zijn of als de totale vloeroppervlakte per dier minder bedraagt dan 0.65 m2 dan moet de oppervlakte dichte vloer minstens 45 % van deze totale oppervlakte per dier bedragen;<br>
+3° Mestafvoer :<br>
+a) voor de afvoer van de mest uit het mestkanaal moet een rioleringssysteem of ander van de lucht af te sluiten afvoersysteem worden aangebracht, zodat de mest frequent en restloos uit de mestkanalen kan worden afgevoerd;<br>
+b) de doorsnede van de afvoeropening moet minimaal 150 mm zijn, de afvoerbuisdiameter minimaal 200 mm;<br>
+c) verder moet de afvoer van mest zodanig gewaarborgd zijn dat het emitterend mestoppervlak nooit groter wordt dan 0,18 m2 per dierplaats. Dit moet worden gerealiseerd middels een overloop met een minimale doorlaat van 75 mm waarvan de instroomopening zichtbaar in het mestkanaal is aangebracht Voorts moet de overloop zijn voorzien van een stankafsluiter. De overloop mag niet worden aangesloten op de hoofdleiding van het rioleringssysteem of ander van de lucht af te sluiten afvoersysteem;<br>
+d) in het afvoersysteem van het waterkanaal moet een (centrale) afsluiter worden aangebracht;<br>
+e) het rioleringssysteem of ander van de lucht af te sluiten afvoersysteem heeft per mestkanaal een centrale afsluiter.<br>
+3.4.7.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Na elke ronde moeten de kanalen afgelaten worden, waarna het hok gereinigd kan worden.<br>
+2° De schuine wand(en) in het mestkanaal moeten na elke ronde schoongespoten worden.<br>
+3° Het waterniveau in het waterkanaal moet minimaal 0,10 m bedragen.<br>
+3.4.7.4. De ammoniakemissiefactor bedraagt 1,20 kg NH3 per dierplaats per jaar bij een emitterend mestoppervlak van maximaal 0,18 m2.<br>
+<br>
+HOOFDSTUK 4 P-lijst van ammoniakemissiearme stalsystemen voor pluimvee<br>
+<br>
+Afdeling 1 Ammoniakemissiearme kooi- of batterijsystemen voor opfokpoeljen van legkippen<br>
+<br>
+4.1.1. Systeem P-1.1. Mestbandbatterij voor natte mest met afvoer naar een gesloten mestopslag<br>
+4.1.1.1. De ammoniakemissie wordt beperkt door tweemaal per week de mest, die op de mestbanden ligt, uit de stal te verwijderen.<br>
+4.1.1.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Onder de batterijkooien waarin zich de dieren bevinden, zijn mestbanden geplaatst. Op deze mestbanden wordt de door de dieren geproduceerde mest opgevangen.<br>
+2° De mest wordt met behulp van de mestbanden uit de stal verwijderd en vervolgens opgeslagen in een afgesloten mestopslag.<br>
+4.1.1.3. Voor het gebruik van dit systeem geldt de volgende eis : De mest moet minimaal twee maal per week met behulp van de mestbanden uit de stal verwijderd worden.<br>
+4.1.1.4. De ammoniakemissiefactor bedraagt 0,020 kg NH3 per dierplaats per jaar.<br>
+4.1.2. Systeem P-1.2. Compactbatterij met tweemaal per dag afvoer naar een gesloten mestopslag<br>
+4.1.2.1. De ammoniakemissie wordt beperkt door tweemaal per dag de geproduceerde mest uit de stal te verwijderen.<br>
+4.1.2.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Op de batterijen waarin de dieren zich bevinden (uitgezonderd de bovenste batterij), liggen platen. De mest wordt twee maal per dag, tijdens het vullen van de voergoot, van deze platen geschoven met behulp van schuiven die aan de voerhopper zijn bevestigd. Deze platen moeten van een glad en niet mestaanhechtend materiaal vervaardigd zijn. De mest valt tussen de batterijen door op een mestband onder de onderste batterij. De mest valt van de onderste batterij direct op deze mestband.<br>
+2° De mest wordt met behulp van de mestbanden uit de stal verwijderd en vervolgens opgeslagen in een afgesloten mestopslag.<br>
+4.1.2.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De mest moet tweemaal per dag met behulp van mestbanden uit de stal verwijderd worden.<br>
+2° Een pulsteller op de mestbanden onder de batterijen moet een overzicht kunnen geven van de afdraaifrequentie van de mestbanden gedurende de afgelopen zeven dagen.<br>
+4.1.2.4. De ammoniakemissiefactor bedraagt 0,011 kg NH3 per dierplaats per jaar.<br>
+4.1.3. Systeem P-1.3. Mestbandbatterij voor droge mest met geforceerde mestdroging<br>
+4.1.3.1. De ammoniakemissie wordt beperkt door over de mest, die op mestbanden ligt, lucht te blazen. De mest wordt hierdoor droger en geeft minder ammoniakemissie.<br>
+4.1.3.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Onder de batterijkooien waarin zich de dieren bevinden, zijn mestbanden geplaatst. Deze zijn vervaardigd uit polypropyleen of een trevira doek. Op deze mestbanden wordt de door de dieren geproduceerde mest opgevangen.<br>
+2° Tussen of onder de batterijkooien zijn kokers geplaatst waarmee lucht van minimaal 15 °C over de mest op de mestbanden geblazen wordt. Een alternatief vormt het drogen van de mest met behulp van een waaiersysteem. Hiermee wordt met behulp van een waaier in een koker stallucht over de mest op de mestbanden geblazen.<br>
+4.1.3.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De hoeveelheid lucht die door de kokers over de mestbanden geblazen wordt, moet minimaal 0,2 m3 per dier per uur bedragen.<br>
+2° De mest op de mestband moet in een week gedroogd zijn tot minimaal 45 % droge stof en wekelijks uit de stal afgevoerd worden.<br>
+4.1.3.4. De ammoniakemissiefactor bedraagt 0,020 kg NH3 per dierplaats per jaar.<br>
+4.1.4. Systeem P-1.4. Mestbandbatterij met geforceerde mestdroging belucht met 0,4 m3 lucht per dier per uur, mest afdraaien per vijf dagen, de mest heeft dan een droge stofgehalte van minimaal 55 %<br>
+4.1.4.1. De ammoniakemissie wordt beperkt door over de mest, die op mestbanden ligt, continu voorverwarmde lucht van minimaal 17 °C te blazen. De mest wordt éénmaal per 5 dagen uit de stal afgevoerd en bevat dan minimaal 55 % droge stof. Dit stalsysteem is een verdere ontwikkeling van systeem P-1.3. en wordt gekenmerkt door een lagere ammoniakemissie. Het aantal etages kan variëren per mestbandbatterij.<br>
+4.1.4.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Onder de batterijkooien waarin zich de dieren bevinden, zijn mestbanden geplaatst. Op deze mestbanden wordt de door de dieren geproduceerde mest opgevangen.<br>
+2° Tussen of onder de batterijkooien zijn kokers geplaatst waarmee continu lucht van minimaal 17 °C over de mest op de mestbanden wordt geblazen. De mest wordt gedroogd met voorverwarmde lucht uit b.v. een warmtewisselaar of uit een luchtmengkast al dan niet voorzien van een verwarmingseenheid.<br>
+3° De luchttoevoer naar de mestbanden en de temperatuur van deze lucht moeten volautomatisch geregistreerd en gestuurd worden. Per stal moet in het hoofdtoevoerluchtkanaal een luchtsnelheidsmeter geplaatst worden en de temperatuur van de lucht moet afleesbaar zijn, juist voordat deze lucht de koker boven de mestband ingaat. Verder moet een bedrijfsurenteller geplaatst worden die het aantal draaiuren van de ventilator in de luchtmengkast weergeeft. Ook moet geregistreerd worden op welke datum de verschillende koppels de hokken ingaan en uitgaan. Op deze wijze is controle op de vereiste minimale hoeveelheden lucht per dier per uur mogelijk.<br>
+4.1.4.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De hoeveelheid lucht die door de kokers over de mestbanden wordt geblazen, moet minimaal 0,4 m3 per dier per uur bedragen en een temperatuur van minimaal 17 °C hebben.<br>
+2° De mest op de mestband moet in 5 dagen gedroogd zijn tot minimaal 55 % droge stof en éénmaal per vijf dagen uit de stal afgevoerd worden. Indien het niet halen van de 55 % droge stof te wijten is aan een aantoonbare ziektetoestand van de dieren, kan er afgeweken worden van deze eis.<br>
+3° De afdraaifrequentie van de mestbanden moet geregistreerd worden.<br>
+4° Bovenstaande eisen aan het gebruik gelden niet voor de eerste 5 weken van de opfokfase van de dieren omdat de mestproductie dan te gering is.<br>
+4.1.4.4. De ammoniakemissiefactor bedraagt 0,006 kg NH3 per dierplaats per jaar.<br>
+4.1.5. Systeem P-1.5. Mestbandbatterij met geforceerde mestdroging in combinatie met een droogtunnel en/of droogvloer<br>
+4.1.5.1. De ammoniakemissie wordt beperkt door de verse mest op de mestbanden, die zich onder elke etage bevinden, te drogen met stallucht en deze mest naar de bovenliggende droogtunnels en/of de droogvloer te transporteren, alwaar verdere droging plaatsvindt. De mest in de droogtunnels en/of droogvloer wordt gedroogd met stallucht.<br>
+4.1.5.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Staluitvoering :<br>
+a) onder iedere etage loopt een mestband, waarop alle mest van de dieren wordt opgevangen;<br>
+b) de mest die op de mestbanden onder de kooien valt, wordt gedroogd met stallucht.<br>
+2° Droogtunnels :<br>
+a) boven iedere kooi is een droogtunnel geplaatst, geïntegreerd in de stal of achter of naast de stal;<br>
+b) de mest van de etages wordt per kooi naar de droogtunnel boven de kooien getransporteerd. Dit gebeurt aan het achtereinde van iedere kooi;<br>
+c) de droogtunnels van de seperate kooien staan via een pijp met elkaar in verbinding.<br>
+3° Ventilatie :<br>
+a) de ventilatie moet van 1,0 tot 3,2 m3 per dier per uur via de droogtunnel lopen;<br>
+b) de mest moet bij het verlaten van de droogtunnels 50 tot 60 % droge stof bevatten.<br>
+4° Registratie :<br>
+a) er moet een bedrijfscomputer aanwezig zijn, waarin de volgende gegevens worden vastgelegd, die door de veehouder niet kunnen worden veranderd :<br>
+i. de verblijftijd van de mest op de mestbanden in de stal en de verblijftijd van de mest in de droogtunnel;<br>
+ii. de ventilatiecapaciteit van de droogtunnel : deze is ingesteld op minimaal 1 m3 per dier per uur;<br>
+b) er moet een verplaatsingsmeter op de mestbanden worden geïnstalleerd, waarmee de draaisnelheid van de mestbanden wordt aangegeven.<br>
+4.1.5.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De mest op de mestbanden onder de etages wordt in maximaal 6 uur naar de droogtunnels getransporteerd.<br>
+2° De mest in de droogtunnel wordt in maximaal 18 uur gedroogd met stallucht.<br>
+3° Bij het verlaten van de droogtunnels heeft de mest een droge stofgehalte van minimaal 50 %.<br>
+4° De exploitant van de stal moet per stal eens per kwartaal een mestmonster laten analyseren door een erkend laboratorium op droge stofgehalte van de mest die uit de stal wordt verwijderd.<br>
+4.1.5.4. De ammoniakemissiefactor bedraagt 0,010 kg NH3 per dierplaats per jaar.<br>
+<br>
+Afdeling 2 Ammoniakemissiearme niet-kooisystemen voor opfokpoeljen van legkippen<br>
+<br>
+4.2.1. Systeem P-2.1. Volièreopfokhuisvesting, minimaal 50 % van de leefruimte is rooster, met daaronder een mestband, mestbanden minimaal eenmaal per week afdraaien, roosters minimaal in twee etages<br>
+4.2.1.1. De dieren worden gehouden in een stal met geheel of gedeeltelijke strooiselvloeren en etages met roosters. De mest van de roosters valt op de daaronder gelegen mestband en wordt al of niet gedroogd met lucht.<br>
+4.2.1.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Hokuitvoering en roosters :<br>
+a) per m2 bruikbare leefoppervlakte worden in de dierruimte maximaal 16 dieren opgezet;<br>
+b) minimaal 50 % van de bruikbare leefoppervlakte bestaat uit roosters met daaronder een mestband. De roosters minimaal in twee etages. Van het bruikbare leefoppervlak is minimaal 1/3 deel grondoppervlak bedekt met strooisel.<br>
+2° De voer- en drinkwatervoorzieningen zijn boven een rooster aangebracht.<br>
+3° De afvoer van de op de roosters geproduceerde mest vindt plaats via de mestbanden.<br>
+4.2.1.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De mest op de mestbanden moet minimaal een keer per week uit de stal worden verwijderd.<br>
+2° Deze mest wordt of direct van het bedrijf afgevoerd, of maximaal twee weken opgeslagen in een afgedekte container.<br>
+3° Bij toepassing van een mestnadroogsysteem moet de mest minimaal twee keer per week uit de stal verwijderd worden.<br>
+4.2.1.4. De ammoniakemissiefactor bedraagt 0,050 kg NH3 per dierplaats per jaar en is vastgesteld middels een verhoudingsgetal ten opzichte van hetzelfde huisvestingssysteem voor leghennen.<br>
+<br>
+Afdeling 3 Ammoniakemissiearme kooi- of batterijsystemen voor legkippen incl. (groot)ouderdieren van legrassen<br>
+<br>
+4.3.1. Systeem P-3.1. Kooi (indien voor legkippen : verrijkte kooi) voor natte mest met afvoer naar een gesloten mestopslag<br>
+4.3.1.1. De ammoniakemissie wordt beperkt door twee maal per week de mest, die op de mestbanden ligt, uit de stal te verwijderen.<br>
+4.3.1.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Onder de kooien waarin de dieren zich bevinden, zijn mestbanden geplaatst. Deze zijn vervaardigd uit polypropyleen of een trevira doek. Op deze mestbanden wordt de door de dieren geproduceerde mest opgevangen.<br>
+2° De mest wordt met behulp van de mestbanden uit de stal verwijderd en vervolgens opgeslagen in een afgesloten mestopslag.<br>
+4.3.1.3. Voor het gebruik van dit systeem geldt de volgende eis : De mest moet minimaal twee maal per week met behulp van de mestbanden uit de stal verwijderd worden.<br>
+4.3.1.4. De ammoniakemissiefactor bedraagt 0,035 kg NH3 per dierplaats per jaar.<br>
+4.3.2. Systeem P-3.2. Kooi (indien voor legkippen : verrijkte kooi) met tweemaal per dag afvoer naar een gesloten mestopslag<br>
+4.3.2.1. De ammoniakemissie wordt beperkt door twee maal per dag de geproduceerde mest uit de stal te verwijderen.<br>
+4.3.2.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Op de kooien waarin de dieren zich bevinden (uitgezonderd de bovenste kooien), liggen platen. De mest wordt twee maal per dag, tijdens het vullen van de voergoot, van deze platen geschoven met behulp van schuiven die aan de voerhopper zijn bevestigd. Deze platen moeten van een glad en niet mestaanhechtend materiaal vervaardigd zijn. De mest valt tussen de kooien door op een mestband onder de onderste etage. De mest valt van de onderste etage direct op deze mestband.<br>
+2° De mest wordt met behulp van de mestbanden uit de stal verwijderd en vervolgens opgeslagen in een afgesloten mestopslag.<br>
+4.3.2.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De mest moet twee maal per dag met behulp van de mestbanden uit de stal verwijderd worden.<br>
+2° Een pulsteller op de mestbanden onder de kooien moet een overzicht kunnen geven van de afdraaifrequentie van de mestbanden gedurende de afgelopen zeven dagen.<br>
+4.3.2.4. De ammoniakemissiefactor bedraagt 0,020 kg NH3 per dierplaats per jaar.<br>
+4.3.3. Systeem P-3.3. Kooi (indien voor legkippen verrijkte kooi) voor droge mest met geforceerde mestdroging<br>
+4.3.3.1. De ammoniakemissie wordt beperkt door over de mest, die op mestbanden ligt, lucht te blazen. De mest wordt hierdoor droger en geeft minder ammoniakemissie.<br>
+4.3.3.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Onder de kooien waarin de dieren zich bevinden, zijn mestbanden geplaatst. Deze zijn vervaardigd uit polypropyleen of een trevira doek. Op deze mestbanden wordt de door de dieren geproduceerde mest opgevangen.<br>
+2° Tussen of onder de kooien zijn kokers geplaatst waarmee lucht van minimaal 15 °C over de mest op de mestbanden geblazen wordt. Een alternatief vormt het drogen van de mest met behulp van een waaiersysteem. Hiermee wordt met behulp van een waaier in een koker stallucht over de mest op de mestbanden geblazen.<br>
+4.3.3.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De hoeveelheid lucht die door de kokers over de mestbanden geblazen wordt, moet minimaal 0,4 m3 per dier per uur bedragen.<br>
+2° De mest op de mestband moet in een week gedroogd zijn tot minimaal 45 % droge stof en wekelijks uit de stal afgevoerd worden.<br>
+4.3.3.4. De ammoniakemissiefactor bedraagt 0,035 kg NH3 per dierplaats per jaar.<br>
+4.3.4. Systeem P-3.4. Kooi (indien voor legkippen : verrijkte kooi) met geforceerde mestdroging belucht met 0,7 m3 lucht per dier per uur, mest afdraaien per vijf dagen, de mest heeft dan een droge stofgehalte van minimaal 55 %.<br>
+4.3.4.1. De ammoniakemissie wordt beperkt door over de mest, die op mestbanden ligt, continu voorverwarmde lucht van minimaal 17 °C te blazen. De mest wordt éénmaal per 5 dagen uit de stal afgevoerd en bevat dan minimaal 55 % droge stof. Dit stalsysteem is een verdere ontwikkeling van Systeem P-3.3 en wordt gekenmerkt door een lagere ammoniakemissie. Het aantal etages kan variëren.<br>
+4.3.4.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Onder de kooien waarin de dieren zich bevinden, zijn mestbanden geplaatst. Op deze mestbanden wordt de door de dieren geproduceerde mest opgevangen.<br>
+2° Tussen of onder de kooien zijn kokers geplaatst waarmee continu lucht van minimaal 17 °C over de mest op de mestbanden wordt geblazen. De mest wordt gedroogd met voorverwarmde lucht uit b.v. een warmtewisselaar of uit een luchtmengkast al dan niet voorzien van een verwarmingseenheid.<br>
+3° De luchttoevoer naar de mestbanden en de temperatuur van deze lucht moeten volautomatisch geregistreerd en gestuurd worden. Per stal moet in het hoofdtoevoerluchtkanaal een luchtsnelheidsmeter geplaatst worden en de temperatuur van de lucht moet afleesbaar zijn, juist voordat deze lucht de koker boven de mestband ingaat. Verder moet een bedrijfsurenteller geplaatst worden die het aantal draaiuren van de ventilator in de luchtmengkast weergeeft. Ook moet geregistreerd worden op welke datum de verschillende koppels de hokken ingaan en uitgaan. Op deze wijze is controle op de vereiste minimale hoeveelheden lucht per dier per uur mogelijk.<br>
+4.3.4.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De hoeveelheid lucht die door de kokers over de mestbanden wordt geblazen, moet minimaal 0,7 m3 per dier per uur bedragen en een temperatuur van minimaal 17 °C hebben.<br>
+2° De mest op de mestband moet in 5 dagen gedroogd zijn tot minimaal 55 % droge stof en éénmaal per vijf dagen uit de stal afgevoerd worden. Indien het niet halen van de 55 % droge stof te wijten is aan een aantoonbare ziektetoestand van de dieren, kan er afgeweken worden van deze eis.<br>
+3° De afdraaifrequentie van de mestbanden moet geregistreerd worden.<br>
+4.3.4.4. De ammoniakemissiefactor bedraagt 0,010 kg NH3 per dierplaats per jaar.<br>
+4.3.5. Systeem P-3.5. Kooisysteem (indien voor legkippen : verrijkte kooi) met geforceerde mestdroging in combinatie met een droogtunnel en/of droogvloer<br>
+4.3.5.1. De ammoniakemissie wordt beperkt door de verse mest op de mestbanden, die zich onder elke etage bevinden, te drogen met stallucht en deze mest naar de bovenliggende droogtunnels te transporteren, alwaar verdere droging plaatsvindt. De mest in de droogtunnels wordt gedroogd met stallucht.<br>
+4.3.5.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1. Staluitvoering :<br>
+a) onder iedere etage loopt een mestband, waarop alle mest van de dieren wordt opgevangen;<br>
+b) de mest die op de mestbanden onder de kooien valt, wordt gedroogd met stallucht.<br>
+2° Droogtunnels :<br>
+a) boven iedere kooi is een droogtunnel geplaatst, geïntegreerd in de stal of achter of naast de stal;<br>
+b) de mest van de etages wordt per kooi naar de droogtunnel boven de kooien getransporteerd. Dit gebeurt aan het achtereinde van iedere kooi;<br>
+c) de droogtunnels van de seperate kooien staan via een pijp met elkaar in verbinding.<br>
+3° Ventilatie :<br>
+a) de ventilatie moet van 1,0 tot 3,2 m3 per dier per uur via de droogtunnel lopen;<br>
+b) de mest moet bij het verlaten van de droogtunnels 50 tot 60 % droge stof bevatten.<br>
+4° Registratie :<br>
+a) er moet een bedrijfscomputer aanwezig zijn, waarin de volgende gegevens worden vastgelegd, die door de veehouder niet kunnen worden veranderd :<br>
+i. de verblijftijd van de mest op de mestbanden in de stal en de verblijftijd van de mest in de droogtunnel;<br>
+ii. de ventilatiecapaciteit van de droogtunnel : deze is ingesteld op minimaal 1 m3 per dier per uur;<br>
+b) er moet een verplaatsingsmeter op de mestbanden worden geïnstalleerd, waarmee de draaisnelheid van de mestbanden wordt aangegeven.<br>
+4.3.5.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De mest op de mestbanden onder de etages wordt in maximaal 6 uur naar de droogtunnels getransporteerd.<br>
+2° De mest in de droogtunnel wordt in maximaal 18 uur gedroogd met stallucht.<br>
+3° Bij het verlaten van de droogtunnels heeft de mest een droge stofgehalte van minimaal 50 %.<br>
+4° De exploitant van de stal moet per stal eens per kwartaal een mestmonster laten analyseren door een erkend laboratorium op droge stofgehalte van de mest die uit de stal wordt verwijderd.<br>
+4.3.5.4. De ammoniakemissiefactor bedraagt 0,015 kg NH3 per dierplaats per jaar.<br>
+<br>
+Afdeling 4 Ammoniakemissiearme niet-kooisystemen voor legkippen incl. (groot)ouderdieren van legrassen<br>
+<br>
+4.4.1. Systeem P-4.1. Grondhuisvesting met beluchting onder gedeeltelijk verhoogde roosters (perfosysteem)<br>
+4.4.1.1. Onder het roostergedeelte ligt minimaal 10 cm boven de putbodem een geperforeerde schijnvloer. De ammoniakemissie wordt beperkt door vanonder de schijnvloer continu lucht door de perforaties te blazen, waardoor de mest die bovenop het rooster wordt gedeponeerd en op de schijnvloer valt, wordt gedroogd.<br>
+4.4.1.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° De stal heeft een traditionele bovenbouw.<br>
+2° Het strooiseloppervlak verhoudt zich tot het roosteroppervlak als 30 % staat tot 70 % van het bruto-oppervlak, waarbij de legnesten tot het roosteroppervlak worden gerekend.<br>
+3° Onder het roostergedeelte moet een put aanwezig zijn om de mest gedurende een gehele productieperiode op de daarin aanwezige geperforeerde vloer op te kunnen vangen en te drogen. De totale ruimte tussen de perfovloer en het rooster moet minimaal 0,8 m zijn.<br>
+4° De geperforeerde schijnvloer :<br>
+a) de geperforeerde schijnvloer en de ondersteunende constructie kunnen uitgevoerd worden met verschillende soorten materialen (kunststof, hout, metaal of combinaties daarvan), waarbij de constructie belastbaar moet zijn tot 400 kg/m2 (gewicht droge mest + veiligheidsmarge);<br>
+b) de beluchtingsruimte tussen de putbodem en de geperforeerde schijnvloer moet minimaal 0,10 m bedragen;<br>
+c) de schijnvloer moet gelijkmatig zijn geperforeerd met een totaal luchtdoorlatend vloeroppervlak van minimaal 20 %. De vorm van de perforaties is niet relevant. De doorsnede van de openingen mag aan de kortste zijde niet meer dan 5 mm bedragen;<br>
+d) de geperforeerde vloer moet in segmenten worden opgebouwd, waarbij de grootte van de segmenten afhankelijk is van de methode van ontmesten;<br>
+e) voor aanvang van de ronde moet de bovenzijde van de geperforeerde vloer worden ingestrooid met een laagje strooisel van minimaal 40 mm;<br>
+f) eventueel is boven de laatste meter van de putbodem ter hoogte van de buitenmuur geen geperforeerde vloer aanwezig (dit i.v.m. uitmesting).<br>
+5° Beluchting van de geperforeerde vloer :<br>
+a) voor de beluchting van de geperforeerde schijnvloer wordt stallucht gebruikt;<br>
+b) er moeten minimaal twee beluchtingsventilatoren worden geïnstalleerd. In totaal moet een beluchtingscapaciteit met een debiet van minimaal 7 m3 per dier per uur bij 90 Pascal worden geïnstalleerd;<br>
+c) de gekozen ventilatoren moeten hoge drukweerstanden kunnen overwinnen, minimaal 90 Pascal en moeten worden aangestuurd middels een frequentieregelaar;<br>
+d) voor de positionering van de beluchtingsventilatoren zijn er verschillende uitvoeringsmogelijkheden :<br>
+i. plaatsing aan beide uiteinden op de roosters;<br>
+ii. plaatsing verspreid over de roosters aan beide zijden van de legnesten of juist in lijn met de legnesten, waarbij bij de laatste variant gekozen kan worden voor een centraal luchtkanaal onder de legnesten van waaruit de lucht onder de geperforeerde schijnvloer wordt geblazen.<br>
+6° De drinkvoorzieningen (ronddrinkers of drinknippels) moeten boven de roosters gepositioneerd zijn.<br>
+7° Ter controle op het goed functioneren van het stalsysteem moet :<br>
+a) de vereiste minimale beluchtingscapaciteit/-debiet afleesbaar zijn op de frequentieregelaar of klimaatcomputer waarmee de beluchting wordt gestuurd;<br>
+b) het cumulatief aantal bedrijfsuren vanaf de start van de ronde van de beluchting op ieder moment afleesbaar zijn op de frequentieregelaar of klimaatcomputer waarmee de beluchting wordt gestuurd;<br>
+c) het cumulatieve energieverbruik of opgenomen vermogen van de beluchtingsventilatoren vanaf de start van de ronde op elk moment afleesbaar zijn.<br>
+4.4.1.3. Voor het gebruik van dit systeem geldt de volgende eis : het drogestofgehalte van de mest moet minimaal 75 % bedragen.<br>
+4.4.1.4. De ammoniakemissiefactor bedraagt 0,110 kg NH3 per dierplaats per jaar.<br>
+4.4.2. Systeem P-4.2. Grondhuisvesting met mestbeluchting via buizen onder de roosters<br>
+4.4.2.1. Stal voorzien van betonvloer met daarop strooiselmateriaal waarin de dieren los worden gehouden. Een gedeelte van de vloer is verhoogd en voorzien van roosters (hout, kunststof of draadgaas) met daaronder een mestopslag. De ammoniakemissie wordt verminderd door het beluchten van de mest onder de roosters met lucht uit een warmtewisselaar of luchtmengkast.<br>
+4.4.2.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Hokuitvoering en roosters :<br>
+a) bij legkippen worden maximaal 9 dieren per m2 opgezet in de dierruimte, bij (groot)ouderdieren worden maximaal 10 dieren per m2 opgezet in de dierruimte, inclusief de hanen;<br>
+b) de totale bruikbare dieroppervlakte bestaat tot maximaal 2/3 deel uit roosters en minimaal 1/3 deel uit strooiselvloer;<br>
+c) boven de roosters (beun) zijn zitstokken aanwezig.<br>
+2° De voorzieningen voor voer en drinkwater zijn geplaatst boven de roosters.<br>
+3° Beluchting :<br>
+a) onder de roosters zijn buizen aangebracht waardoor lucht wordt aangevoerd;<br>
+b) de buizen zijn evenwijdig aan de legnesten opgehangen en verticaal beweegbaar met het niveau van de mest mee zodat de verticale afstand van de buizen tot de mest circa 200 mm bedraagt;<br>
+c) per dier wordt 0,9 m3 lucht per uur over de mest geblazen, met een minimale temperatuur van 17 °C.<br>
+4° Registratie :<br>
+a) de temperatuur van de lucht in de beluchtingsbuizen moet geregistreerd worden en vastgelegd. Vastgelegde waarden van minimaal een week geleden moeten opvraagbaar zijn. De temperatuur wordt gemeten in het hoofdtoevoerkanaal;<br>
+b) voor controle op aanstaan van de beluchting moet hiervoor geschikte apparatuur (urenteller, kWhmeter, toerenteller of meetventilator) aanwezig zijn, waarmee het in bedrijf zijn van de beluchting afdoende kan worden aangetoond.<br>
+4.4.2.3. De ammoniakemissiefactor bedraagt 0,125 kg NH3 per dierplaats per jaar.<br>
+4.4.3. Systeem P-4.3.Volièrehuisvesting, minimaal 50 % van de leefruimte is rooster met daaronder een mestband, mestbanden minimaal eenmaal per week afdraaien, roosters minimaal in twee etages<br>
+4.4.3.1. De dieren worden gehouden in een stal met geheel of gedeeltelijke strooiselvloeren en etages met roosters. De mest van de roosters valt op de daaronder gelegen mestband en wordt al of niet gedroogd met lucht.<br>
+4.4.3.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Hokuitvoering en roosters :<br>
+a) bij legkippen worden maximaal 9 dier per m2 bruikbaar leefoppervlak opgezet, bij (groot)ouderdieren worden maximaal 10 dieren per m2 bruikbaar leefoppervlak opgezet, inclusief de hanen;<br>
+b) minimaal 50 % van de bruikbare (leef)oppervlakte bestaat uit roosters met daaronder een mestband. De roosters minimaal in twee etages. Van het bruikbare leefoppervlak is minimaal 1/3 deel grondoppervlak, bedekt met strooisel.<br>
+2° De voer- en drinkwatervoorzieningen zijn boven een rooster aangebracht.<br>
+3° De afvoer van de op de roosters geproduceerde mest vindt plaats via de mestbanden.<br>
+4.4.3.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De mest op de mestbanden moet minimaal een keer per week uit de stal worden verwijderd.<br>
+2° Deze mest wordt of direct van het bedrijf afgevoerd, of maximaal twee weken opgeslagen in een afgedekte container.<br>
+3° Bij toepassing van een mestnadroogsysteem de mest minimaal twee keer per week uit de stal verwijderen.<br>
+4.4.3.4. De ammoniakemissiefactor bedraagt 0,09 kg NH3 per dierplaats per jaar.<br>
+<br>
+Afdeling 5 Ammoniakemissiearme stalsystemen voor slachtkuikenouderdieren<br>
+<br>
+4.5.1. Systeem P-5.1. Groepskooi voorzien van mestband en geforceerde mestdroging<br>
+4.5.1.1. De ammoniakemissie wordt beperkt door de mest op de mestbanden te drogen met voorverwarmde lucht en de mest op de mestbanden éénmaal per week af te voeren uit de stal.<br>
+4.5.1.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° De slachtkuikenouderdieren worden gehuisvest in kooien met een volledige rooster.<br>
+2° De mest die op de mestbanden onder de kooien valt, wordt gedroogd met voorverwarmde lucht uit b.v. een luchtmengkast al dan niet voorzien van een verwarmingseenheid.<br>
+3° De dimensionering hiervan moet zodanig zijn dat de mest bij afdraaien van de mestbanden minimaal 50 % droge stof bevat.<br>
+4.5.1.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De mest op de mestbanden moet éénmaal per week uit de stal verwijderd worden en deze mest moet minimaal 50 % droge stof hebben.<br>
+2° De exploitant van de stal moet per stal eens per kwartaal een mestmonster laten analyseren op droge stofgehalte van de mest die uit de stal wordt verwijderd.<br>
+4.5.1.4. De ammoniakemissiefactor bedraagt 0,080 kg NH3 per dierplaats per jaar.<br>
+4.5.2. Systeem P-5.2. Volièrehuisvesting met mestbeluchting<br>
+4.5.2.1. De ammoniakemissie wordt beperkt door de mest op de mestbanden te drogen met voorverwarmde lucht en de mest op de mestbanden minimaal eenmaal per week af te voeren uit de stal.<br>
+4.5.2.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° De slachtkuikenouderdieren worden gehuisvest op etages met roosters en een strooiselvloer.<br>
+2° De mest op de roosters valt op de daaronder gelegen mestband en wordt gedroogd met lucht uit bijvoorbeeld een luchtmengkast of een een verwarmingseenheid.<br>
+3° De dimensionering en bedrijfsvoering hiervan moet zodanig zijn dat de mest bij afdraaien van de mestbanden na één week minimaal 50 % droge stof bevat.<br>
+4.5.2.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De mest op de mestbanden moet éénmaal per week uit de stal verwijderd worden en deze mest moet minimaal 50 % droge stof hebben.<br>
+2° De exploitant van de stal moet per stal eens per kwartaal een mestmonster laten analyseren op droge stofgehalte van de mest die uit de stal wordt verwijderd.<br>
+4.5.2.4. De ammoniakemissiefactor bedraagt 0,17 kg NH3 per dierplaats per jaar.<br>
+4.5.3. Systeem P-5.3. Volièrehuisvesting met geforceerde mest- en strooiseldroging<br>
+4.5.3.1. De ammoniakemissie wordt beperkt door de mest op de mestbanden en op de strooiselvloer te drogen met voorverwarmde lucht en de mest op de mestbanden minimaal eenmaal per week af te voeren uit de stal.<br>
+4.5.3.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° De slachtkuikenouderdieren worden gehuisvest op etages met roosters en een strooiselvloer.<br>
+2° De mest op de roosters valt op de daaronder gelegen mestband en wordt evenals de mest op de strooiselvloer, gedroogd met lucht uit bijvoorbeeld een luchtmengkast of een verwarmingseenheid.<br>
+3° De dimensionering en bedrijfsvoering hiervan moet zodanig zijn dat de mest bij afdraaien van de mestbanden na één week minimaal 50 % droge stof bevat.<br>
+4.5.3.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De mest op de mestbanden moet éénmaal per week uit de stal verwijderd worden en deze mest moet minimaal 50 % droge stof hebben.<br>
+2° De exploitant van de stal moet per stal eens per kwartaal een mestmonster laten analyseren op droge stofgehalte van de mest die uit de stal wordt verwijderd.<br>
+4.5.3.4. De ammoniakemissiefactor bedraagt 0,13 kg NH3 per dierplaats per jaar<br>
+4.5.4. Systeem P-5.4. Grondhuisvesting met mestbeluchting via buizen onder de roosters<br>
+4.5.4.1. Stal voorzien van betonvloer met daarop strooiselmateriaal waarin de dieren los worden gehouden. Een gedeelte van de vloer is verhoogd en voorzien van roosters met daaronder mestopslag. De ammoniakemissie wordt verminderd door het beluchten van de mest onder de roosters met lucht uit een warmtewisselaar of luchtmengkast.<br>
+4.5.4.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Hokuitvoering en roosters :<br>
+a) er worden maximaal 7 tot 8 dieren per m2 opgezet in de dierruimte, inclusief de hanen;<br>
+b) van de totale bruikbare dieroppervlakte mag maximaal 2/3 bestaan uit rooster en is minimaal 1/3 strooiselvloer.<br>
+2° De drinkwatervoorziening is aangebracht boven de roosters.<br>
+3° Beluchting :<br>
+a) onder de roosters zijn buizen aangebracht waardoor lucht wordt aangevoerd;<br>
+b) de buizen zijn evenwijdig aan de legnesten opgehangen en verticaal beweegbaar met het niveau van de mest mee zodat de verticale afstand van de buizen tot de mest circa 200 mm bedraagt;<br>
+c) per dier wordt 1,5 m3 lucht per uur over de mest geblazen, waarvan minimaal 50 % buitenlucht;<br>
+d) de lucht heeft een minimale temperatuur van 20 °C.<br>
+4° Registratie :<br>
+a) de temperatuur van de lucht in de beluchtingsbuizen moet geregistreerd worden en vastgelegd. Vastgelegde waarden van minimaal een week geleden moeten opvraagbaar zijn. De temperatuur moet gemeten worden in het hoofdtoevoerkanaal;<br>
+b) voor controle op aanstaan van de beluchting moet hiervoor geschikte apparatuur (urenteller, kWhmeter, toerenteller of meetventilator) aanwezig zijn, waarmee het in bedrijf zijn van de beluchting afdoende kan worden aangetoond.<br>
+4.5.4.4. De ammoniakemissiefactor bedraagt 0,250 kg NH3 per dierplaats per jaar<br>
+4.5.5. Systeem P-5.5. Grondhuisvesting met beluchting onder gedeeltelijk verhoogde roosters (perfosysteem)<br>
+4.5.5.1. Onder het roostergedeelte ligt minimaal 10 cm boven de putbodem een geperforeerde schijnvloer. De ammoniakemissie wordt beperkt door vanonder de schijnvloer continu lucht door de perforaties te blazen, waardoor de mest die bovenop het rooster wordt gedeponeerd en op de schijnvloer valt, wordt gedroogd.<br>
+4.5.5.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° De slachtkuikenouderdierenstal heeft een traditionele bovenbouw.<br>
+2° Het strooiseloppervlak verhoudt zich tot het roosteroppervlak als 30 % staat tot 70 % van het bruto-oppervlak, waarbij de legnesten tot het roosteroppervlak worden gerekend.<br>
+3° Onder het roostergedeelte moet een put aanwezig zijn om de mest gedurende een gehele productieperiode op de daarin aanwezige geperforeerde vloer op te kunnen vangen en te drogen. De totale ruimte tussen de perfovloer en het rooster moet minimaal 0,8 m zijn.<br>
+4° De geperforeerde schijnvloer :<br>
+a) de geperforeerde schijnvloer en de ondersteunende constructie kunnen uitgevoerd worden met verschillende soorten materialen (kunststof, hout, metaal of combinaties daarvan), waarbij de constructie belastbaar moet zijn tot 400 kg/m2 (gewicht droge mest + veiligheidsmarge);<br>
+b) de beluchtingsruimte tussen de putbodem en de geperforeerde schijnvloer moet minimaal 0,10 m bedragen;<br>
+c) de schijnvloer moet gelijkmatig zijn geperforeerd met een totaal luchtdoorlatend vloeroppervlak van minimaal 20 %. De vorm van de perforaties is niet relevant. De doorsnede van de openingen mag aan de kortste zijde niet meer dan 5 mm bedragen;<br>
+d) de geperforeerde vloer moet in segmenten worden opgebouwd, waarbij de grootte van de segmenten afhankelijk is van de methode van ontmesten;<br>
+e) voor aanvang van de ronde moet de bovenzijde van de geperforeerde vloer worden ingestrooid met een laagje strooisel van minimaal 40 mm;<br>
+f) eventueel is boven de laatste meter van de putbodem ter hoogte van de buitenmuur geen geperforeerde vloer aanwezig (dit i.v.m. uitmesting).<br>
+5° Beluchting van de geperforeerde vloer :<br>
+a) voor de beluchting van de geperforeerde schijnvloer wordt stallucht gebruikt;<br>
+b) er moeten minimaal twee beluchtingsventilatoren worden geïnstalleerd. In totaal moet een beluchtingscapaciteit met een debiet van minimaal 7 m3 per dier per uur bij 90 Pascal worden geïnstalleerd;<br>
+c) de gekozen ventilatoren moeten hoge drukweerstanden kunnen overwinnen, minimaal 90 Pascal en moeten worden aangestuurd middels een frequentieregelaar;<br>
+d) voor de positionering van de beluchtingsventilatoren zijn er verschillende uitvoeringsmogelijkheden :<br>
+i. plaatsing aan beide uiteinden op de roosters;<br>
+ii. plaatsing verspreid over de roosters aan beide zijden van de legnesten of juist in lijn met de legnesten, waarbij bij de laatste variant gekozen kan worden voor een centraal luchtkanaal onder de legnesten van waaruit de lucht onder de geperforeerde schijnvloer wordt geblazen.<br>
+6° Drinkvoorziening : de drinkvoorzieningen (ronddrinkers of drinknippels) moeten boven de roosters gepositioneerd zijn.<br>
+7° Ter controle op het goed functioneren van het stalsysteem moet :<br>
+a) de vereiste minimale beluchtingscapaciteit/-debiet afleesbaar zijn op de frequentieregelaar of klimaatcomputer waarmee de beluchting wordt gestuurd;<br>
+b) het cumulatief aantal bedrijfsuren vanaf de start van de ronde van de beluchting op ieder moment afleesbaar zijn op de frequentieregelaar of klimaatcomputer waarmee de beluchting wordt gestuurd;<br>
+c) het cumulatieve energieverbruik of opgenomen vermogen van de beluchtingsventilatoren vanaf de start van de ronde op elk moment afleesbaar zijn.<br>
+4.5.5.3. Voor het gebruik van dit systeem geldt de volgende eis : het drogestofgehalte van de mest moet minimaal 75 % bedragen.<br>
+4.5.5.4. De ammoniakemissiefactor bedraagt 0,23 kg NH3 per dierplaats per jaar.<br>
+4.5.6. Systeem P-5.6. Grondhuisvesting met dagelijkse mestverwijdering d.m.v. mestschuif onder de gedeeltelijk verhoogde roosters<br>
+4.5.6.1. Stal voorzien van betonvloer met daarop strooiselmateriaal waarin de dieren los worden gehouden. Een gedeelte van de vloer is verhoogd en voorzien van roosters met daaronder tijdelijke mestopvang op een gepolierde betonvloer. De ammoniakemissie wordt verminderd door het dagelijks verwijderen van de mest onder de roosters met behulp van een goed aansluitende mestschuif op de gepolierde vloer. De mest wordt afgevoerd naar een gesloten mestopslag.<br>
+4.5.6.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Hokuitvoering en roosters :<br>
+a) er worden maximaal 7 tot 8 dieren per m2 opgezet in de dierruimte, inclusief de hanen;<br>
+b) van de totale bruikbare dieroppervlakte mag maximaal 2/3 bestaan uit roosters en is minimaal 1/3 tot maximaal 2/3 strooiselvloer.<br>
+2° De drinkwatervoorziening is aangebracht boven de roosters.<br>
+3° Mestverwijdering :<br>
+a) de betonvloer onder de rooster is gepolierd zodat een glad (niet mestaanhechtend) oppervlak is ontstaan;<br>
+b) hierop is een nauwaansluitende mestschuif geïnstalleerd die de volledige breedte van de betonvloer onder de rooster bestrijkt en de volledige oppervlakte onder de roosters bereikt;<br>
+c) voor controle op de dagelijkse mestverwijdering moet hiervoor geschikte apparatuur (urenteller, toerenteller) aanwezig zijn, waarmee het in bedrijf zijn van de mestschuif afdoende kan worden aangetoond.<br>
+4.5.6.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De mestschuif schuift de mest minstens éénmaal per dag naar de gesloten opslag.<br>
+2° Om de emissie van de mest die in de scharrelruimte terechtkomt te minimaliseren, moet het droge stofgehalte van de strooisellaag minstens 65 % bedragen, tenzij uitzonderlijke omstandigheden kunnen worden aangetoond (ziekte, overmacht).<br>
+3° Bij aanvang van de ronde moet minimaal een strooisellaag van 3 cm zuiver strooisel in de scharrelruimte aangebracht worden.<br>
+4.5.6.4. Op basis van metingen uitgevoerd bij een gelijkaardig systeem voor leghennen wordt geschat dat de ammoniakemissiefactor niet meer dan 0.290 kg NH3 per dierplaats en per jaar bedraagt.<br>
+<br>
+Afdeling 6 Ammoniakemissiearme stalsystemen voor slachtkuikens<br>
+<br>
+4.6.1. Systeem P-6.1. Grondhuisvesting met vloerverwarming en vloerkoeling<br>
+4.6.1.1. De ammoniakemissie wordt beperkt door de mest-strooisellaag te verwarmen waardoor ze droogt en de vorming van ammoniak wordt geremd. De koeling heeft tot doel de afbraak van urinezuur en eiwitten te remmen. De stal is voorzien van een betonvloer met daarop strooiselmateriaal waarin de dieren los gehouden wordt. In de vloer zijn op een isolatielaag warmtewisselaars aangebracht voor de verwarming of koeling van de vloer en de mest-strooisellaag.<br>
+4.6.1.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° De stal wordt uitgevoerd met een volledige strooiselvloer.<br>
+2° Vloer :<br>
+a) de vloer bestaat uit een laag isolatiemateriaal, waarin uitsparingen zijn aangebracht voor de warmtewisselaars;<br>
+b) minimaal 56 % van de totale leefoppervlakte is voorzien van warmtewisselaars;<br>
+c) boven op dit geheel wordt een betonvloer aangebracht.<br>
+3° Verwarming en koeling :<br>
+a) de warmtewisselaars in de vloer worden verwarmd en gekoeld met behulp van water (inhoud warmtewisselaars : 6 liter per m2 vloeroppervlakte);<br>
+b) voor een goede verdeling van de temperatuur is aanleg volgens het 'Tichelmann-principe' en het aanbrengen van drukregelaars noodzakelijk.<br>
+4° Registratieapparatuur :<br>
+a) de temperatuur van de vloer moet gemeten worden op 50 mm onder het vloeroppervlak;<br>
+b) de temperatuur van de vloer moet geregistreerd worden in de regelapparatuur en moet gedurende minstens 50 dagen bewaard blijven.<br>
+4.6.1.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De dierbezetting bedraagt maximaal 33, 39 of 42 kg levend gewicht per m2, afhankelijk van de bedrijfssituatie.<br>
+2° In de eerste periode van de ronde (dag 1 tot 21) wordt de vloer verwarmd, na een rustfase wordt de vloer gekoeld. Hiervoor wordt het volgende schema aangehouden voor in te stellen waarden van de vloertemperatuur :<br>
+a) dag 1 tot dag 6 : 32 °C;<br>
+b) dag 7 tot dag 20 : 30 °C;<br>
+c) dag 21 tot dag 27 : 28 °C;<br>
+d) vanaf dag 28 : 26 °C.<br>
+4.6.1.4. De ammoniakemissie bedraagt 0,045 kg NH3 per dierplaats per jaar.<br>
+4.6.2. Systeem P-6.2. Grondhuisvesting met mixluchtventilatie<br>
+4.6.2.1. De ammoniakemissie wordt beperkt door de mest-strooisellaag te drogen door middel van een mixluchtventilatiesysteem. De mixluchtventilatoren zorgen er voor dat de warme lucht van boven uit de stal via kokers naar onderen wordt gebracht en in horizontale richting over het strooisel geblazen wordt. Het effect hiervan is een oppervlaktedroging waardoor de mest-strooisellaag sneller indroogt.<br>
+4.6.2.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° De stal wordt uitgevoerd met een volledige strooiselvloer.<br>
+2° De stal wordt uitgevoerd met zij-inlaat kleppen of ventielen.<br>
+3° De stal wordt uitgevoerd met een anti-mors drinkwatervoorziening.<br>
+4° Het mixluchtsysteem :<br>
+a) een koker bestrijkt maximaal 150 m2 vloeroppervlakte;<br>
+b) de kokers worden voorzien van een regelbare ventilator;<br>
+c) de capaciteit van de ventilator moet zodanig gekozen worden dat aan de uitblaasopening van de koker een werkelijk debiet van minimaal 0,6 m3 per dier per uur gerealiseerd wordt;<br>
+d) de kokers worden evenredig verdeeld over de stal en worden verticaal opgehangen in tenminste twee rijen in de lengterichting van de stal waarbij de kokers in de dwarsrichting van de stal niet op één lijn zijn geplaatst;<br>
+e) de kokers worden zodanig uitgevoerd en geïnstalleerd dat de warmere lucht vanonder het dak of vanuit de nok van de stal naar beneden geleid wordt;<br>
+f) aan de onderkant van de koker bevindt zich een uitblaasopening die voorzien is van een verdeelplaat die zodanig uitgevoerd wordt dat de lucht horizontaal over het strooiseloppervlak wordt geblazen.<br>
+5° De volgende registratieapparatuur moet aanwezig zijn :<br>
+a) apparatuur voor het registreren van het aanstaan van de mixluchtventilatoren (urenteller, kWh-meter, toerenteller of meetventilator);<br>
+b) apparatuur voor het registreren van de instellingen van de regeling van de mixluchtventilatoren;<br>
+c) waarden moet continu geregistreerd worden gedurende de ronde en minstens 50 dagen na de ronde bewaard blijven.<br>
+4.6.2.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De dierbezetting bedraagt maximaal 33, 39 of 42 kg levend gewicht per m2, afhankelijk van de bedrijfssituatie.<br>
+2° De afstand tussen de vloer en de onderzijde van de koker bedraagt maximaal 120 cm.<br>
+3° Voor de in te stellen capaciteit van de mixluchtventilatoren wordt het volgende schema aangehouden :<br>
+a) dag 0 en dag 1 : geen mixluchtventilatie;<br>
+b) vanaf dag 2 neemt de capaciteit geleidelijk aan toe, oplopend van 10 % van het maximum naar 100 % op dag 40;<br>
+c) indien noodzakelijk kan tijdens kortere perioden worden afgeweken van deze instellingen, bijvoorbeeld tijdens ziekten. De reden van de afwijking moet geregistreerd worden in een logboek.<br>
+4° Ten behoeve van een controle op de werking van het systeem moeten de volgende gegevens automatisch geregistreerd worden :<br>
+a) het aan staan van de mixluchtventilatoren;<br>
+b) het gerealiseerde ventilatiedebiet.<br>
+4.6.2.4. De ammoniakemissie bedraagt 0,037 kg NH3 per dierplaats per jaar.<br>
+4.6.3. Systeem P-6.3. Grondhuisvesting met verwarmingssysteem met warmteheaters en ventilatoren<br>
+4.6.3.1. De ammoniakemissie wordt beperkt door het drogen en verwarmen van de mest-strooisellaag door middel van speciale warmteheaters en ventilatoren. Deze zorgen ervoor dat er warme lucht van boven uit de stal naar onderen wordt gebracht. Vervolgens wordt deze lucht opgewarmd door een warmtewisselaar voorzien van een ventilator (heater) en horizontaal over de mest-strooisellaag geblazen. Door het mengen van de stallucht wordt een gelijkmatige temperatuur in de gehele stal bereikt. De mest-strooisellaag wordt gedroogd en de zware CO2 wordt bij de dieren verdreven.<br>
+4.6.3.2 Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° De stal wordt uitgevoerd als een volledige strooiselvloer.<br>
+2° De stal wordt uitgevoerd met zij-inlaat kleppen of ventielen.<br>
+3° De vloer is een betonvloer op zand van 12 cm dikte.<br>
+4° De stal wordt uitgevoerd met een anti-mors drinkwatervoorziening.<br>
+5° Verwarmings- en luchtcirculatiesysteem :<br>
+a) een warmteheater bestrijkt maximaal 450 m2 vloeroppervlakte;<br>
+b) de warmteheaters bestaan uit een convector met ventilator en zijn onderhoudsarm en brandveilig;<br>
+c) de warmteheaters zijn aangesloten op een verwarmingsbron die zich bevindt buiten de ruimte met dieren, of worden uitgevoerd als indirecte gestookte warmteheaters waarvan de aan- en afgevoerde verbrandingslucht rechtstreeks met de buitenlucht verbonden is (via een dubbelwandige schoorsteen);<br>
+d) de warmteheaters zijn aan de bovenzijde voorzien van een schacht. De bovenzijde van deze schacht bevindt zich op maximaal 2 meter afstand van het hoogste punt van het plafond van de stal;<br>
+e) de warmteheaters worden onder de nok verdeeld over de stallengte opgehangen en hangen maximaal 25 meter uit elkaar;<br>
+f) de warmteheaters zijn aan de onderzijde voorzien van een zeskantige verdeelbak voorzien van beweegbare lamellen of van een vierkantige verdeelbak voorzien van zowel verticale als horizontale beweegbare lamellen of van een ronde conische verdeelplaat. De stand van deze lamellen of de uitvoering van de ronde conische verdeelplaat is zodanig dat de lucht horizontaal over het strooiseloppervlak wordt geblazen;<br>
+g) de minimale geïnstalleerde capaciteit van de warmteheaters is 100 Watt per m2 bij 35 °C omgevingstemperatuur;<br>
+h) de capaciteit van de ventilator is minimaal 16 m3 per m2 staloppervlakte per uur.<br>
+6° De volgende registratieapparatuur moet aanwezig zijn :<br>
+a) apparatuur voor het registreren van het aanstaan van de warmetheaters (urenteller);<br>
+b) apparatuur voor het registeren van de gerealiseerde temperatuurcurve;<br>
+c) apparatuur voor het registreren van het gerealiseerd ventilatiedebiet;<br>
+d) waarden moet continu geregistreerd worden gedurende de ronde en minstens 50 dagen na de ronde bewaard blijven.<br>
+4.6.3.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De dierbezetting bedraagt maximaal 33, 39 of 42 kg levend gewicht per m2, afhankelijk van de bedrijfssituatie.<br>
+2° De afstand tussen de vloer en de onderzijde van de warmteheater bedraagt maximaal 150 cm.<br>
+3° De verwarming wordt ingeschakeld naarmate er behoefte is aan extra warmte in de stal, hiervoor wordt de temperatuurcurve gevolgd. De verwarming wordt ingeschakeld wanneer de ruimtetemperatuur 0,5 °C onder de streefwaarde komt.<br>
+4° Instelling van de ventilator in de heater :<br>
+a) wanneer er verwarmd wordt, draait de ventilator in de heater op minimumniveau en gaat 100 % draaien wanneer het retourwater warm genoeg is. Dit is bij 60 °C watertemperatuur;<br>
+b) wanneer er niet verwarmd wordt, schakelt de ventilator over op een frequentie gestuurde regeling dewelke minimaal 20 % van de maximale capaciteit bedraagt.<br>
+5° Ten behoeve van een controle op de werking van het systeem moeten de volgende gegevens automatisch geregistreerd worden :<br>
+a) het aan staan van de heater;<br>
+b) het aan staan van de ventilatoren in de heater als er geen warmtetoevoer is;<br>
+c) de temperatuurcurve;<br>
+d) het ventilatiedebiet of de instelling van de regelaar die ventilatoren aanstuurt.<br>
+4.6.3.4. De ammoniakemissie bedraagt 0,035 kg NH3 per dierplaats en per jaar.<br>
+4.6.4. Systeem P-6.4. Warmtewisselaar met luchtmengsysteem voor droging strooisellaag<br>
+4.6.4.1. De ammoniakemissie wordt beperkt door het drogen en verwarmen van de mest-strooisellaag door middel van een warmtewisselaar en continu draaiende circulatieventilatoren. De warmtewisselaar zorgt ervoor dat warme ventilatielucht vanuit de stal verse lucht opwarmt. De opgewarmde verse ventilatielucht wordt in geval van nok- of combiventilatie midden bovenin de stal in twee richtingen uitgeblazen. Vervolgens wordt deze lucht door circulatieventilatoren vermengd met de warme lucht bovenin de stal en naar de beide staluiteinden gestuwd. In geval van lengteventilatie wordt de opgewarmde verse ventilatielucht door circulatieventilatoren vermengd met de warme stallucht boven in de stal en naar het staluiteinde gedreven dat zich tegenover de ventilatoren bevindt. Via de topgevelwand(en) wordt de lucht terug over de strooisellaag geleid. Door het mengen van de stallucht wordt een gelijkmatige temperatuur in de gehele stal bereikt. De mest-strooisellaag wordt gedroogd en de zware CO2 wordt bij de dieren verdreven.<br>
+4.6.4.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° De stal wordt uitgevoerd als een volledige strooiselvloer.<br>
+2° De stal wordt uitgevoerd met zij-inlaat kleppen of ventielen.<br>
+3° De vloer is een betonvloer op zand met een totale gezamenlijke dikte van minimaal 25 cm.<br>
+4° De stal wordt uitgevoerd met een anti-mors drinkwatervoorziening.<br>
+5° Verwarmings- en luchtcirculatiesystemen :<br>
+a) een onderhoudsvriendelijke warmtewisselaar warmt verse ventilatielucht op;<br>
+b) in geval van nok- of combiventilatie vermengen circulatieventilatoren de opgewarmde lucht met de warme lucht in de nok van de stal en stuwen deze naar beide staluiteinden waar hij via de eindgevels naar beneden geleid wordt en vervolgens goed verdeeld over het strooiseloppervlak geblazen wordt. In geval van uitsluitend lengteventilatie moet de opgewarmde lucht door circulatieventilatoren vermengd worden met de warme stallucht boven in de stal en naar het staluiteinde gedreven worden dat zich tegenover de ventilatoren bevindt;<br>
+c) in de stal kunnen aanvullend warmteheaters aanwezig zijn om de gewenste staltemperatuur te bereiken.<br>
+6° Warmtewisselaar :<br>
+a) de warmtewisselaar staat buiten opgesteld;<br>
+b) de warmtewisselaar warmt verse binnenkomende ventilatielucht op alvorens deze in de stal komt;<br>
+c) het thermisch rendement van de wisselaar is minimaal 70 % bij warmtevraag. Het thermisch rendement word als volgt berekend :</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; vertical-align:top; width:460.6pt">
+			<p>T<sub>inblaas</sub> – T<sub>buiten</sub> / T<sub>afzuig</sub> – T<sub>buiten</sub> x 100 % waarbij T = temperatuur</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>d) het minimaal geïnstalleerde ventilatiedebiet van de warmtewisselaar bedraagt 0,35 m3 per dierplaats per uur (of 8 m3 per m2 staloppervlakte) en is regelbaar met frequentieregelaars;<br>
+e) de minimale geïnstalleerde capaciteit van de warmtewisselaar en heaters is 100 Watt per m2 bij 35 °C omgevingstemperatuur.<br>
+7° Circulatieventilatoren :<br>
+a) de circulatieventilatoren worden bovenin de nok van de stal geplaatst op een onderlinge afstand van maximaal 20 meter en op maximaal 1,5 meter onder de nok van de stal;<br>
+b) de circulatieventilatoren houden continu de luchtbeweging in de stal op gang;<br>
+c) als er extra verwarming nodig is in de stal gebeurt deze met heaters geplaatst voor de circulatieventilatoren;<br>
+d) de minimale geïnstalleerde ventilatorcapaciteit van de circulatieventilatoren is 6000 m3 per uur per ventilator met minimaal 23 m3 per m2 staloppervlakte (of maximaal 260 m2 staloppervlakte per circulatieventilator).<br>
+8° De volgende registratieapparatuur moet aanwezig zijn :<br>
+a) apparatuur voor het registreren van het aan staan van de warmtewisselaar (urenteller);<br>
+b) apparatuur voor het registreren van de gerealiseerde temperatuurcurve, afzuig-, binnen-, inblaas- en buitentemperatuur;<br>
+c) apparatuur voor het registreren van het gerealiseerde ventilatiedebiet in de warmtewisselaar en van de ventilatorcapaciteit-curve van de circulatieventilatoren;<br>
+d) waarden moet continu geregistreerd worden gedurende de ronde en minstens 50 dagen na de ronde bewaard blijven.<br>
+4.6.4.3 Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De dierbezetting bedraagt maximaal 33, 39 of 42 kg levend gewicht per m2, afhankelijk van de bedrijfssituatie.<br>
+2° Instelling temperatuurcurve :<br>
+a) minimaal de eerste 12 dagen van een ronde kan de warmtewisselaar in de volledige minimum ventilatiebehoefte van een stal voorzien;<br>
+b) in deze periode zijn de reguliere ventilatieopeningen gesloten en wordt alle ventilatielucht via de wisselaar af- en aangevoerd;<br>
+c) de verwarming wordt ingeschakeld naarmate er behoefte is aan extra warmte in de stal, hiervoor wordt de temperatuurcurve gevolgd.<br>
+3° Instelling van de ventilator in de warmtewisselaar wanneer er verwarmd wordt :<br>
+a) de hoeveelheid afgevoerde lucht wordt gemeten met een meetwaaier;<br>
+b) de verwarming wordt ingeschakeld wanneer de ruimtetemperatuur 0,5 °C onder de temperatuurcurve komt;<br>
+c) de ventilator in de warmtewisselaar draait bij het begin van de ronde op minimum niveau en gaat 100 % draaien wanneer de ventilatiebehoefte van de dieren hierom vraagt;<br>
+d) de warmtewisselaar mag worden uitgeschakeld als het temperatuurverschil tussen de streefwaarde van de stal en buitentemperatuur kleiner is dan 12 °C.<br>
+4° Wanneer er geen extra warmtebehoefte is en er dus niet bijverwarmd wordt via de warmtewisselaar, mag de capaciteit van de ventilator in de warmtewisselaar worden terug geregeld tot maximaal 50 % van de capaciteit van de ventilator in de warmtewisselaar.<br>
+5° Instelling circulatieventilator :<br>
+a) de circulatieventilatoren draaien bij opleg het begin van de ronde op minimaal 20 % capaciteit;<br>
+b) de circulatieventilatoren worden opgevoerd naar 100 % capaciteit zodra de minimum capaciteit van de warmtewisselaar is bereikt;<br>
+c) de capaciteit mag worden geregeld op basis van de ventilatorcapaciteit voor de totale luchtverversing.<br>
+6° Ten behoeve van een controle op de werking van het systeem moeten de volgende gegevens automatisch worden geregistreerd :<br>
+a) het aan staan van de warmtewisselaar;<br>
+b) het aan staan van de circulatieventilatoren en het verloop over een ronde;<br>
+c) de temperatuurcurve.<br>
+4.6.4.4. De ammoniakemissie bedraagt 0,045 kg NH3 per dierplaats per jaar.<br>
+4.6.5. Systeem P-6.5. Etagesysteem met mestband en strooiseldroging<br>
+4.6.5.1. De ammoniakemissie wordt beperkt door het drogen van de mest-strooisellaag door middel van een efficiënt ventilatiesysteem. Tevens wordt broei in de mest-strooisellaag voorkomen. De vleeskuikens worden gehouden in rijen met meerdere etages. Elke etage is voorzien van een mestband met daarop een laagje strooisel. Langs elke rij met etages is een luchtaanvoergang en een luchtafvoergang aanwezig. De verse lucht stroomt dwars door de rijen waarbij de lucht over het mest-strooiseloppervlak in elke etage wordt gestuurd.<br>
+4.6.5.2 Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° De huisvestingsvorm is een etagesysteem.<br>
+2° De stal wordt uitgevoerd met een anti-mors drinkwatervoorziening.<br>
+3° De etages worden aan de luchtaanvoerzijde dicht uitgevoerd behoudens de luchtinlaatopening (balansklep). Aan de luchtaanvoerzijde worden ze voorzien van een (open) gaasstructuur.<br>
+4° Het leefoppervlak is voorzien van een mestband met daarop een strooisellaag. De mestband is gemaakt van een niet-mestaanhechtend materiaal.<br>
+5° Ventilatie :<br>
+a) de luchtafvoergang staat alleen via de etages in open verbinding met de luchtaanvoergang;<br>
+b) de lucht verplaatst zich dwars door de etages;<br>
+c) de luchtinlaatopening van de etages zorgt voor luchtgeleiding in de richting van het strooisel.<br>
+6 Mestopslag :<br>
+a) de mest wordt of direct van de banden afgevoerd van het bedrijf of gedurende maximaal 14 dagen opgeslagen in een afgedekte container;<br>
+b) langere mestopslag is enkel toegestaan wanneer een mestnadroogsysteem toegepast word.<br>
+4.6.5.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° De dierbezetting bedraagt maximaal 33, 39 of 42 kg levend gewicht per m2, afhankelijk van de bedrijfssituatie.<br>
+2° Afdraaifrequentie van de mestbanden :<br>
+a) het afdraaien van de mestbanden vindt plaats bij het wegladen van de dieren;<br>
+b) tijdens het afdraaien worden mest en dieren gescheiden afgevoerd;<br>
+c) bij het uitladen van de dieren wordt slechts een gedeelte van de mestband afgedraaid. Op het schone gedeelte van de mestband wordt vervolgens nieuw strooisel aangebracht;<br>
+d) bij het wegladen van de dieren wordt alle mest uit de stal afgevoerd;<br>
+e) de mest wordt afgedraaid naar een afgedekte opslagruimte (container) voor kortdurende opslag of naar een mestnadroogsysteem.<br>
+3° Het strooiselverbruik bedraagt 0,4 tot 0,6 kg per m2 bij het begin van de productieronde.<br>
+4.6.5.4. De ammoniakemissie bedraagt 0,020 kg NH3 per dierplaats per jaar.<br>
+4.6.6. Systeem P-6.6. Uitbroeden eieren en opfokken tot 13 dagen in etagestal en emissiearme vervolghuisvesting<br>
+4.6.6.1. De stalbeschrijving is gebaseerd op een uitbroed- en opfokfase in een etagestal en een vervolghuisvestingsfase in een emissiearm stalsysteem voor slachtkuikens binnen hetzelfde bedrijf :<br>
+1° De eieren worden ongeveer 3 dagen voor het uitkomen in het opfokgedeelte van de stal gebracht. Daar uitgekomen kuikens komen terecht op een mestband voorzien van strooisel. Daar is ook voer en drinkwater aanwezig. De kuikens blijven tot een leeftijd van maximaal 13 dagen in dit systeem. Daarna worden ze overgeplaatst naar emissiearm vervolghuisvestingsysteem zoals beschreven onder Systeem P-6.1, Systeem P-6.2, Systeem P-6.3, Systeem P-6.4, Systeem P-6.5.<br>
+2° Terwijl oudere dieren in het vervolghuisvestingsgedeelte worden afgemest, kunnen in het uitbroed-opfokgedeelte weer nieuwe dieren opgezet worden.<br>
+3° Op het bedrijf is de helft van het aantal uitbroed- en opfokplaatsen aanwezig ten opzichte van het aantal vervolghuisvestingsplaatsen (het aantal dierplaatsen heeft een verhouding 1 :2).<br>
+4° Het totaal aantal dierplaatsen op het bedrijf is de som van het aantal dierplaatsen in beide systemen.<br>
+4.6.6.2. Voor de uitvoering van het uitbroed-opfokgedeelte van dit systeem gelden de volgende eisen :<br>
+1° De huisvestingsvorm is een etagesysteem.<br>
+2° De stal wordt uitgevoerd met een anti-mors drinkwatervoorziening.<br>
+3° Etages :<br>
+a) de etages worden aan de luchtaanvoerzijde dicht uitgevoerd behoudens de luchtinlaatopening (balansklep);<br>
+b) de etages worden aan de luchtafvoerzijde voorzien van een (open) gaasstructuur;<br>
+c) de aan- en afvoerzijde kunnen ook omgedraaid worden waarbij aan de luchtaanvoerzijde een (open) gaasstructuur voorzien wordt en de luchtafvoerzijde dicht uitgevoerd wordt met een balansklep.<br>
+4° Mestband :<br>
+a) de eieren worden aangeleverd in uitkomstladen;<br>
+b) na het uitkomen is het leefoppervlak een mestband met daarop een strooisellaag;<br>
+c) de mestband is gemaakt van niet mest-aanhechtend materiaal.<br>
+5° Ventilatie :<br>
+a) de luchtafvoergang staat alleen via de etages in open verbinding met luchtaanvoergang;<br>
+b) de lucht verplaatst zich dwars door de etages;<br>
+c) de luchtinlaatopening van de etages zorgt voor luchtgeleiding in de richting van het strooisel.<br>
+6° Mestopslag :<br>
+a) de mest wordt of direct van de banden afgevoerd van het bedrijf of gedurende maximaal 14 dagen opgeslagen in een afgedekte container;<br>
+b) langere mestopslag is enkel toegestaan wanneer een mestnadroogsysteem toegepast wordt.<br>
+4.6.6.3. Voor het gebruik van het uitbroed-opfokgedeelte van dit systeem gelden de volgende eisen :<br>
+1° De dierbezetting bedraagt maximaal 71 dieren per m2.<br>
+2° Afdraaifrequentie van de mestbanden :<br>
+a) de mestbanden worden afgedraaid bij het overplaatsen van de dieren naar de vervolghuisvesting;<br>
+b) de mest wordt afgedraaid naar een afgedekte opslagruimte (container) voor kortdurende opslag of naar een mestnadroogsysteem.<br>
+4.6.6.4. Voor de uitvoering en het gebruik van de vervolghuisvesting van dit systeem gelden de volgende eisen :<br>
+1° Als vervolghuisvesting kunnen volgend systemen toegepast worden :<br>
+a) Systeem P-6.1 Grondhuisvesting met vloerverwarming en vloerkoeling;<br>
+b) Systeem P-6.2 Grondhuisvesting met mixluchtventilatie;<br>
+c) Systeem P-6.3 Grondhuisvesting met verwarmingssysteem met warmteheaters en ventilatoren;<br>
+d) Systeem P-6.4 Warmtewisselaar met luchtmengsysteem voor droging strooisellaag;<br>
+e) Systeem P-6.5. Etagesysteem met mestband en strooiseldroging.<br>
+2° Er zijn geen verschillen in de eisen aan de uitvoering zoals opgenomen in de beschrijvingen van de betreffende systemen behalve voor Systeem P-6.3 en Systeem P-6.4. Bij deze systemen mag de vereiste minimum te installeren capaciteit van 100 Watt per m2 die gevraagd wordt bij een ruimtetemperatuur van 35 °C in verhouding aangepast worden aan de lagere ruimtetemperatuur die door dieren op een leeftijd van 13 dagen gevraagd wordt.<br>
+3° Er zijn geen verschillen in de eisen aan de werking zoals opgenomen in de beschrijvingen van de betreffende met uitzondering van :<br>
+a) voor Systeem P-6.1. moet voor de temperatuurinstelling van de vloer van bij het begin de in de beschrijving van het systeem opgenomen schema toegepast worden vanaf 13 dagen aangezien de in de beschrijving genoemde dagen de leeftijden van de dieren zijn vanaf het uitkomen;<br>
+b) voor Systeem P-6.2. moet de capaciteit van de ventilatoren in maximaal 5 dagen tijd van 10 % naar de volgens de beschrijving van het systeem vereiste capaciteit voor dieren van een leeftijd van 13 dagen gebracht worden.<br>
+4° De dierbezetting bedraagt maximaal 33, 39 of 42 kg levend gewicht per m2, afhankelijk van de bedrijfssituatie.<br>
+4.6.6.5. De ammoniakemissie bedraagt :<br>
+1° 0,040 kg NH3 per dierplaats per jaar met vervolghuisvesting in Systeem P-6.1.<br>
+2° 0,033 kg NH3 per dierplaats per jaar met vervolghuisvesting in Systeem P-6.2.<br>
+3° 0,031 kg NH3 per dierplaats per jaar met vervolghuisvesting in Systeem P-6.3.<br>
+4° 0,040 kg NH3 per dierplaats per jaar met vervolghuisvesting in Systeem P-6.4.<br>
+5° 0,018 kg NH3 per dierplaats per jaar met vervolghuisvesting in Systeem P-6.5.<br>
+4.6.7. Systeem P-6.7. Uitbroeden eieren en opfokken tot 19 dagen in etagestal en emissiearme vervolghuisvesting<br>
+4.6.7.1. De stalbeschrijving is gebaseerd op een uitbroed- en opfokfase in een etagestal en een vervolghuisvestingsfase in een emissiearm stalsysteem voor slachtkuikens binnen hetzelfde bedrijf :<br>
+1° De eieren worden ongeveer 3 dagen voor het uitkomen in het opfokgedeelte van de stal gebracht. Daar uitgekomen kuikens komen terecht op een mestband voorzien van strooisel. Daar is ook voer en drinkwater aanwezig. De kuikens blijven tot een leeftijd van maximaal 19 dagen in dit systeem. Daarna worden ze overgeplaatst naar emissiearm vervolghuisvestingsysteem zoals beschreven onder Systeem P-6.1, Systeem P-6.2, Systeem P-6.3, Systeem P-6.4, Systeem P-6.5.<br>
+2° Terwijl oudere dieren in het vervolghuisvestingsgedeelte worden afgemest, kunnen in het uitbroed-opfokgedeelte weer nieuwe dieren opgezet worden.<br>
+3° Op het bedrijf is de helft van het aantal uitbroed- en opfokplaatsen aanwezig ten opzichte van het aantal vervolghuisvestingsplaatsen (het aantal dierplaatsen heeft een verhouding 1 :2)<br>
+4° Het totaal aantal dierplaatsen op het bedrijf is de som van het aantal dierplaatsen in beide systemen.<br>
+4.6.7.2. Voor de uitvoering van het uitbroed-opfokgedeelte van dit systeem gelden de volgende eisen :<br>
+1° De huisvestingsvorm is een etagesysteem.<br>
+2° De stal wordt uitgevoerd met een anti-mors drinkwatervoorziening.<br>
+3° Etages :<br>
+a) de etages worden aan de luchtaanvoerzijde dicht uitgevoerd behoudens de luchtinlaatopening (balansklep);<br>
+b) de etages worden aan de luchtafvoerzijde voorzien van een (open) gaasstructuur;<br>
+c) de aan- en afvoerzijde kunnen ook omgedraaid worden waarbij aan de luchtaanvoerzijde een (open) gaasstructuur voorzien wordt en de luchtafvoerzijde dicht uitgevoerd wordt met een balansklep.<br>
+4° Mestband :<br>
+a) de eieren worden aangeleverd in uitkomstladen;<br>
+b) na het uitkomen is het leefoppervlak een mestband met daarop een strooisellaag;<br>
+c) de mestband is gemaakt van niet mest-aanhechtend materiaal.<br>
+5° Ventilatie :<br>
+a) de luchtafvoergang staat alleen via de etages in open verbinding met luchtaanvoergang;<br>
+b) de lucht verplaatst zich dwars door de etages;<br>
+c) de luchtinlaatopening van de etages zorgt voor luchtgeleiding in de richting van het strooisel.<br>
+6° Mestopslag :<br>
+a) de mest wordt of direct van de banden afgevoerd van het bedrijf of gedurende maximaal 14 dagen opgeslagen in een afgedekte container;<br>
+b) langere mestopslag is enkel toegestaan wanneer een mestnadroogsysteem toegepast wordt.<br>
+4.6.7.3. Voor het gebruik van het uitbroed-opfokgedeelte van dit systeem gelden de volgende eisen :<br>
+1° De dierbezetting bedraagt maximaal 71 dieren per m2.<br>
+2° Afdraaifrequentie van de mestbanden :<br>
+a) de mestbanden worden afgedraaid bij het overplaatsen van de dieren naar de vervolghuisvesting;<br>
+b) de mest wordt afgedraaid naar een afgedekte opslagruimte (container) voor kortdurende opslag of naar een mestnadroogsysteem.<br>
+4.6.7.4. Voor de uitvoering en het gebruik van de vervolghuisvesting van dit systeem gelden de volgende eisen :<br>
+1° Als vervolghuisvesting kunnen volgend systemen toegepast worden :<br>
+a) Systeem P-6.1 Grondhuisvesting met vloerverwarming en vloerkoeling;<br>
+b) Systeem P-6.2 Grondhuisvesting met mixluchtventilatie;<br>
+c) Systeem P-6.3 Grondhuisvesting met verwarmingssysteem met warmteheaters en ventilatoren;<br>
+d) Systeem P-6.4 Warmtewisselaar met luchtmengsysteem voor droging strooisellaag;<br>
+e) Systeem P-6.5. Etagesysteem met mestband en strooiseldroging.<br>
+2° Er zijn geen verschillen in de eisen aan de uitvoering zoals opgenomen in de beschrijvingen van de betreffende systemen behalve voor Systeem P-6.3 en Systeem P-6.4. Bij deze systemen mag de vereiste minimum te installeren capaciteit van 100 Watt per m2 die gevraagd wordt bij een ruimtetemperatuur van 35 °C in verhouding aangepast worden aan de lagere ruimtetemperatuur die door dieren op een leeftijd van 19 dagen gevraagd wordt.<br>
+3° Er zijn geen verschillen in de eisen aan de werking zoals opgenomen in de beschrijvingen van de betreffende met uitzondering van :<br>
+a) voor Systeem P-6.1. moet voor de temperatuurinstelling van de vloer van bij het begin de in de beschrijving van het systeem opgenomen schema toegepast worden vanaf 19 dagen aangezien de in de beschrijving genoemde dagen de leeftijden van de dieren zijn vanaf het uitkomen;<br>
+b) voor Systeem P-6.2. moet de capaciteit van de ventilatoren in maximaal 5 dagen tijd van 10 % naar de volgens de beschrijving van het systeem vereiste capaciteit voor dieren van een leeftijd van 19 dagen gebracht worden.<br>
+4° De dierbezetting bedraagt maximaal 33, 39 of 42 kg levend gewicht per m2, afhankelijk van de bedrijfssituatie.<br>
+4.6.7.5 De ammoniakemissie bedraagt :<br>
+1° 0,038 kg NH3 per dierplaats per jaar met vervolghuisvesting in Systeem P-6.1;<br>
+2° 0,033 kg NH3 per dierplaats per jaar met vervolghuisvesting in Systeem P-6.2;<br>
+3° 0,030 kg NH3 per dierplaats per jaar met vervolghuisvesting in Systeem P-6.3;<br>
+4° 0,038 kg NH3 per dierplaats per jaar met vervolghuisvesting in Systeem P-6.4;<br>
+5° 0,015 kg NH3 per dierplaats per jaar met vervolghuisvesting in Systeem P-6.5.<br>
+<br>
+Afdeling 7 Ammoniakemissiearme stalsystemen voor opfokpoeljen slachtkuikenouderdieren<br>
+<br>
+4.7.1. Systeem P-7.1. Grondhuisvesting met vloerverwarming en vloerkoeling<br>
+4.7.1.1. De ammoniakemissie wordt beperkt door de mest-strooisellaag te verwarmen waardoor ze droogt en de vorming van ammoniak wordt geremd. De koeling heeft tot doel de afbraak van urinezuur en eiwitten te remmen. De stal is voorzien van een betonvloer met daarop strooiselmateriaal waarin de dieren los gehouden wordt. In de vloer zijn op een isolatielaag warmtewisselaars aangebracht voor de verwarming of koeling van de vloer en de mest-strooisellaag.<br>
+4.7.1.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° De stal wordt uitgevoerd met een volledige strooiselvloer.<br>
+2° Vloer :<br>
+a) de vloer bestaat uit een laag isolatiemateriaal, waarin uitsparingen zijn aangebracht voor de warmtewisselaars;<br>
+b) minimaal 56 % van de totale leefoppervlakte is voorzien van warmtewisselaars;<br>
+c) boven op dit geheel wordt een betonvloer aangebracht.<br>
+3° Verwarming en koeling :<br>
+a) de warmtewisselaars in de vloer worden verwarmd en gekoeld met behulp van water (inhoud warmtewisselaars : 6 liter per m2 vloeroppervlakte);<br>
+b) voor een goede verdeling van de temperatuur is aanleg volgens het 'Tichelmann-principe' en het aanbrengen van drukregelaars noodzakelijk.<br>
+4° Registratieapparatuur :<br>
+a) de temperatuur van de vloer moet gemeten worden op 50 mm onder het vloeroppervlak;<br>
+b) de temperatuur van de vloer moet geregistreerd worden in de regelapparatuur en moet gedurende minstens 50 dagen na de ronde bewaard blijven.<br>
+4.7.1.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Het leefoppervlak bedraagt minimaal 900 cm2 en maximaal 1.200 cm2 per dier bij opzet (8,3 - 11,1 dieren per m2).<br>
+2° In de eerste periode van de ronde (dag 1 tot 21) wordt de vloer verwarmd, na een rustfase wordt de vloer gekoeld. Hiervoor wordt het volgende schema aangehouden voor in te stellen waarden van de vloertemperatuur :<br>
+a) dag 1 tot dag 6 : : 32 °C;<br>
+b) dag 7 tot dag 20 : 30 °C;<br>
+c) dag 21 tot dag 27 : 28 °C;<br>
+d) vanaf dag 28 : 26 °C.<br>
+4.7.1.4. De ammoniakemissie bedraagt 0,155 kg NH3 per dierplaats per jaar.<br>
+4.7.2. Systeem P-7.2. Grondhuisvesting met mixluchtventilatie<br>
+4.7.2.1. De ammoniakemissie wordt beperkt door de mest-strooisellaag te drogen door middel van een mixluchtventilatiesysteem. De mixluchtventilatoren zorgen er voor dat de warme lucht van boven uit de stal via kokers naar onderen wordt gebracht en in horizontale richting over het strooisel geblazen wordt. Het effect hiervan is een oppervlaktedroging waardoor de mest-strooisellaag sneller indroogt.<br>
+4.7.2.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° De stal wordt uitgevoerd met een volledige strooiselvloer.<br>
+2° De stal wordt uitgevoerd met zij-inlaat kleppen of ventielen.<br>
+3° De stal wordt uitgevoerd met een anti-mors drinkwatervoorziening.<br>
+4° Het mixluchtsysteem :<br>
+a) een koker bestrijkt maximaal 150 m2 vloeroppervlakte;<br>
+b) de kokers worden voorzien van een regelbare ventilator;<br>
+c) de capaciteit van de ventilator moet zodanig gekozen worden dat aan de uitblaasopening van de koker een werkelijk debiet van minimaal 0,6 m3 per dier per uur gerealiseerd wordt;<br>
+d) de kokers worden evenredig verdeeld over de stal en worden verticaal opgehangen in tenminste twee rijen in de lengterichting van de stal waarbij de kokers in de dwarsrichting van de stal niet op één lijn zijn geplaatst;<br>
+e) de kokers worden zodanig uitgevoerd en geïnstalleerd dat de warmere lucht vanonder het dak of vanuit de nok van de stal naar beneden geleid wordt;<br>
+f) aan de onderkant van de koker bevindt zich een uitblaasopening die voorzien is van een verdeelplaat die zodanig uitgevoerd wordt dat de lucht horizontaal over het strooiseloppervlak wordt geblazen.<br>
+5° De volgende registratieapparatuur moet aanwezig zijn :<br>
+a) apparatuur voor het registreren van het aanstaan van de mixluchtventilatoren (urenteller, kWh-meter, toerenteller of meetventilator);<br>
+b) apparatuur voor het registreren van de instellingen van de regeling van de mixluchtventilatoren;<br>
+c) waarden moet continu geregistreerd worden gedurende de ronde en minstens 50 dagen na de ronde bewaard blijven.<br>
+4.7.2.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Het leefoppervlak bedraagt minimaal 900 cm2 en maximaal 1.200 cm2 per dier bij opzet (8,3 - 11,1 dieren per m2).<br>
+2° De afstand tussen de vloer en de onderzijde van de koker bedraagt maximaal 120 cm.<br>
+3° Voor de in te stellen capaciteit van de mixluchtventilatoren wordt het volgende schema aangehouden :<br>
+a) dag 0 en dag 1 : geen mixluchtventilatie;<br>
+b) vanaf dag 2 neemt de capaciteit geleidelijk aan toe, oplopend van 10 % van het maximum naar 100 % op dag 130;<br>
+c) indien noodzakelijk kan tijdens kortere perioden worden afgeweken van deze instellingen, bijvoorbeeld tijdens ziekten. De reden van de afwijking moet geregistreerd worden in een logboek.<br>
+4° Ten behoeve van een controle op de werking van het systeem moeten de volgende gegevens automatisch geregistreerd worden :<br>
+a) het aan staan van de mixluchtventilatoren;<br>
+b) het gerealiseerde ventilatiedebiet.<br>
+4.7.2.4. De ammoniakemissie bedraagt 0,127 kg NH3 per dierplaats per jaar.<br>
+4.7.3. Systeem P-7.3. Grondhuisvesting met verwarmingssysteem met warmteheaters en ventilatoren<br>
+4.7.3.1. De ammoniakemissie wordt beperkt door het drogen en verwarmen van de mest-strooisellaag door middel van speciale warmteheaters en ventilatoren. Deze zorgen ervoor dat er warme lucht van boven uit de stal naar onderen wordt gebracht. Vervolgens wordt deze lucht opgewarmd door een warmtewisselaar voorzien van een ventilator (heater) en horizontaal over de mest-strooisellaag geblazen. Door het mengen van de stallucht wordt een gelijkmatige temperatuur in de gehele stal bereikt. De mest-strooisellaag wordt gedroogd en de zware CO2 wordt bij de dieren verdreven.<br>
+4.7.3.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° De stal wordt uitgevoerd als een volledige strooiselvloer.<br>
+2° De stal wordt uitgevoerd met zij-inlaat kleppen of ventielen.<br>
+3° De vloer is een betonvloer op zand van 12 cm dikte.<br>
+4° De stal wordt uitgevoerd met een anti-mors drinkwatervoorziening.<br>
+5° Verwarmings- en luchtcirculatiesysteem :<br>
+a) een warmteheater bestrijkt maximaal 450 m2 vloeroppervlakte;<br>
+b) de warmteheaters bestaan uit een convector met ventilator en zijn onderhoudsarm en brandveilig;<br>
+c) de warmteheaters zijn aangesloten op een verwarmingsbron die zich bevindt buiten de ruimte met dieren, of worden uitgevoerd als indirecte gestookte warmteheaters waarvan de aan- en afgevoerde verbrandingslucht rechtstreeks met de buitenlucht verbonden is (via een dubbelwandige schoorsteen);<br>
+d) de warmteheaters zijn aan de bovenzijde voorzien van een schacht. De bovenzijde van deze schacht bevindt zich op maximaal 2 meter afstand van het hoogste punt van het plafond van de stal;<br>
+e) de warmteheaters worden onder de nok verdeeld over de stallengte opgehangen en hangen maximaal 25 meter uit elkaar;<br>
+f) de warmteheaters zijn aan de onderzijde voorzien van een zeskantige verdeelbak voorzien van beweegbare lamellen of van een vierkantige verdeelbak voorzien van zowel verticale als horizontale beweegbare lamellen of van een ronde conische verdeelplaat. De stand van deze lamellen of de uitvoering van de ronde conische verdeelplaat is zodanig dat de lucht horizontaal over het strooiseloppervlak wordt geblazen;<br>
+g) de minimale geïnstalleerde capaciteit van de warmteheaters is 100 Watt per m2 bij 35 °C omgevingstemperatuur;<br>
+h) de capaciteit van de ventilator is minimaal 16 m3 per m2 staloppervlakte per uur.<br>
+6° De volgende registratieapparatuur moet aanwezig zijn :<br>
+a) apparatuur voor het registreren van het aanstaan van de warmetheaters (urenteller);<br>
+b) apparatuur voor het registeren van de gerealiseerde temperatuurcurve;<br>
+c) apparatuur voor het registreren van het gerealiseerd ventilatiedebiet;<br>
+d) waarden moet continu geregistreerd worden gedurende de ronde en minstens 50 dagen na de ronde bewaard blijven.<br>
+4.7.3.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Het leefoppervlak bedraagt minimaal 900 cm2 en maximaal 1.200 cm2 per dier bij opzet (8,3 - 11,1 dieren per m2).<br>
+2° De afstand tussen de vloer en de onderzijde van de warmteheater bedraagt maximaal 150 cm.<br>
+3° De verwarming wordt ingeschakeld naarmate er behoefte is aan extra warmte in de stal, hiervoor wordt de temperatuurcurve gevolgd. De verwarming wordt ingeschakeld wanneer de ruimtetemperatuur 0,5 °C onder de streefwaarde komt.<br>
+4° Instelling van de ventilator in de heater :<br>
+a) wanneer er verwarmd wordt, draait de ventilator in de heater op minimumniveau en gaat 100 % draaien wanneer het retourwater warm genoeg is. Dit is bij 60 °C watertemperatuur;<br>
+b) wanneer er niet verwarmd wordt, schakelt de ventilator over op een frequentie gestuurde regeling dewelke minimaal 20 % van de maximale capaciteit bedraagt.<br>
+5° Ten behoeve van een controle op de werking van het systeem moeten de volgende gegevens automatisch geregistreerd worden :<br>
+a) het aan staan van de heater;<br>
+b) het aan staan van de ventilatoren in de heater als er geen warmtetoevoer is,<br>
+c) de temperatuurcurve;<br>
+d) het ventilatiedebiet of de instelling van de regelaar die ventilatoren aanstuurt.<br>
+4.7.3.4. De ammoniakemissie bedraagt 0,120 kg NH3 per dierplaats en per jaar.<br>
+4.7.4. Systeem P-7.4. Warmtewisselaar met luchtmengsysteem voor droging strooisellaag<br>
+4.7.4.1. De ammoniakemissie wordt beperkt door het drogen en verwarmen van de mest-strooisellaag door middel van een warmtewisselaar en continu draaiende circulatieventilatoren. De warmtewisselaar zorgt ervoor dat warme ventilatielucht vanuit de stal verse lucht opwarmt. De opgewarmde verse ventilatielucht wordt in geval van nok- of combiventilatie midden bovenin de stal in twee richtingen uitgeblazen. Vervolgens wordt deze lucht door circulatieventilatoren vermengd met de warme lucht bovenin de stal en naar de beide staluiteinden gestuwd. In geval van lengteventilatie wordt de opgewarmde verse ventilatielucht door circulatieventilatoren vermengd met de warme stallucht boven in de stal en naar het staluiteinde gedreven dat zich tegenover de ventilatoren bevindt. Via de topgevelwand(en) wordt de lucht terug over de strooisellaag geleid. Door het mengen van de stallucht wordt een gelijkmatige temperatuur in de gehele stal bereikt. De mest-strooisellaag wordt gedroogd en de zware CO2 wordt bij de dieren verdreven.<br>
+4.7.4.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° De stal wordt uitgevoerd als een volledige strooiselvloer.<br>
+2° De stal wordt uitgevoerd met zij-inlaat kleppen of ventielen.<br>
+3° De vloer is een betonvloer op zand met een totale gezamenlijke dikte van minimaal 25 cm.<br>
+4° De stal wordt uitgevoerd met een anti-mors drinkwatervoorziening.<br>
+5° Verwarmings- en luchtcirculatiesystemen :<br>
+a) een onderhoudsvriendelijke warmtewisselaar warmt verse ventilatielucht op;<br>
+b) in geval van nok- of combiventilatie vermengen circulatieventilatoren de opgewarmde lucht met de warme lucht in de nok van de stal en stuwen deze naar beide staluiteinden waar hij via de eindgevels naar beneden geleid wordt en vervolgens goed verdeeld over het strooiseloppervlak geblazen wordt. In geval van uitsluitend lengteventilatie moet de opgewarmde lucht door circulatieventilatoren vermengd worden met de warme stallucht boven in de stal en naar het staluiteinde gedreven worden dat zich tegenover de ventilatoren bevindt;<br>
+c) in de stal kunnen aanvullend warmteheaters aanwezig zijn om de gewenste staltemperatuur te bereiken.<br>
+6° Warmtewisselaar :<br>
+a) de warmtewisselaar staat buiten opgesteld;<br>
+b) de warmtewisselaar warmt verse binnenkomende ventilatielucht op alvorens deze in de stal komt;<br>
+c) het thermisch rendement van de wisselaar is minimaal 70 % bij warmtevraag. Het thermisch rendement word als volgt berekend :</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; vertical-align:top; width:460.6pt">
+			<p>T<sub>inblaas</sub> – T<sub>buiten</sub> / T<sub>afzuig</sub> – T<sub>buiten</sub> x 100 % waarbij T = temperatuur</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>d) het minimaal geïnstalleerde ventilatiedebiet van de warmtewisselaar bedraagt 0,35 m3 per dierplaats per uur (of 8 m3 per m2 staloppervlakte) en is regelbaar met frequentieregelaars;<br>
+e) de minimale geïnstalleerde capaciteit van de warmtewisselaar en heaters is 100 Watt per m2 bij 35 °C omgevingstemperatuur.<br>
+7° Circulatieventilatoren :<br>
+a) de circulatieventilatoren worden bovenin de nok van de stal geplaatst op een onderlinge afstand van maximaal 20 meter en op maximaal 1,5 meter onder de nok van de stal;<br>
+b) de circulatieventilatoren houden continu de luchtbeweging in de stal op gang;<br>
+c) als er extra verwarming nodig is in de stal gebeurt deze met heaters geplaatst voor de circulatieventilatoren;<br>
+d) de minimale geïnstalleerde ventilatorcapaciteit van de circulatieventilatoren is 6000 m3 per uur per ventilator met minimaal 23 m3 per m2 staloppervlakte (of maximaal 260 m2 staloppervlakte per circulatieventilator).<br>
+8° De volgende registratieapparatuur moet aanwezig zijn :<br>
+a) apparatuur voor het registreren van het aan staan van de warmtewisselaar (urenteller);<br>
+b) apparatuur voor het registreren van de gerealiseerde temperatuurcurve, afzuig-, binnen-, inblaas- en buitentemperatuur;<br>
+c) apparatuur voor het registreren van het gerealiseerde ventilatiedebiet in de warmtewisselaar en van de ventilatorcapaciteit-curve van de circulatieventilatoren;<br>
+d) waarden moet continu geregistreerd worden gedurende de ronde en minstens 50 dagen na de ronde bewaard blijven.<br>
+4.7.4.3. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Het leefoppervlak bedraagt minimaal 900 cm2 en maximaal 1.200 cm2 per dier bij opzet (8,3 - 11,1 dieren per m2).<br>
+2° Instelling temperatuurcurve :<br>
+a) minimaal de eerste 12 dagen van een ronde kan de warmtewisselaar in de volledige minimum ventilatiebehoefte van een stal voorzien;<br>
+b) in deze periode zijn de reguliere ventilatieopeningen gesloten en wordt alle ventilatielucht via de wisselaar af- en aangevoerd;<br>
+c) de verwarming wordt ingeschakeld naarmate er behoefte is aan extra warmte in de stal, hiervoor wordt de temperatuurcurve gevolgd.<br>
+3° Instelling van de ventilator in de warmtewisselaar wanneer er verwarmd wordt :<br>
+a) de hoeveelheid afgevoerde lucht wordt gemeten met een meetwaaier;<br>
+b) de verwarming wordt ingeschakeld wanneer de ruimtetemperatuur 0,5 °C onder de temperatuurcurve komt;<br>
+c) de ventilator in de warmtewisselaar draait bij het begin van de ronde op minimum niveau en gaat 100 % draaien wanneer de ventilatiebehoefte van de dieren hierom vraagt;<br>
+d) de warmtewisselaar mag worden uitgeschakeld als het temperatuurverschil tussen de streefwaarde van de stal en buitentemperatuur kleiner is dan 12 °C.<br>
+4° Wanneer er geen extra warmtebehoefte is en er dus niet bijverwarmd wordt via de warmtewisselaar, mag de capaciteit van de ventilator in de warmtewisselaar worden terug geregeld tot maximaal 50 % van de capaciteit van de ventilator in de warmtewisselaar.<br>
+5° Instelling circulatieventilator :<br>
+a) de circulatieventilatoren draaien bij opleg het begin van de ronde op minimaal 20 % capaciteit;<br>
+b) de circulatieventilatoren worden opgevoerd naar 100 % capaciteit zodra de minimum capaciteit van de warmtewisselaar is bereikt;<br>
+c) de capaciteit mag worden geregeld op basis van de ventilatorcapaciteit voor de totale luchtverversing.<br>
+6° Ten behoeve van een controle op de werking van het systeem moeten de volgende gegevens automatisch worden geregistreerd :<br>
+a) het aan staan van de warmtewisselaar;<br>
+b) het aan staan van de circulatieventilatoren en het verloop over een ronde;<br>
+c) de temperatuurcurve.<br>
+4.7.4.4. De ammoniakemissie bedraagt 0,155 kg NH3 per dierplaats per jaar.<br>
+<br>
+HOOFDSTUK 5 S-lijst van technieken die de uitgaande stallucht zuiveren<br>
+<br>
+5.1. Systeem S-1. Biologisch luchtwassysteem met 70 % of hogere ammoniakemissiereductie<br>
+5.1.1. De ammoniakemissie wordt beperkt door de stalventilatielucht te behandelen in een biologisch luchtwassysteem. Het luchtwassysteem bestaat uit een filter (kolom met vulmateriaal) of uit een filterpakket dat continu vochtig wordt gehouden met een wasvloeistof en waar de uitgaande stalventilatielucht in tegenstroom, gelijkstroom of dwarsstroom door geleid wordt. Bij passage van de stalventilatielucht door het luchtwassysteem wordt de ammoniak afgevangen in de wasvloeistof, waarna de gereinigde ventilatielucht het luchtwassysteem verlaat. Bacteriën die zich op het vulmateriaal en in de wasvloeistof bevinden zetten de ammoniak om in nitriet en/of nitraat, waarna deze stoffen met het spuiwater worden afgevoerd.<br>
+5.1.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Dimensionering van het luchtwassysteem :<br>
+a) het luchtwassysteem kan de uitgaande stalventilatielucht van één of meerdere afdelingen behandelen. Op het dimensioneringsplan dat onderdeel uitmaakt van de vergunningsaanvraag moet duidelijk aangegeven worden van welke afdeling(en) de uitgaande stalventilatielucht behandeld zal worden in het luchtwassysteem;<br>
+b) de capaciteit van het luchtwassysteem moet minimaal gelijk zijn aan de totale maximale ventilatiebehoefte van de afdeling(en) waarvan het de lucht behandelt. In het dimensioneringsplan dat onderdeel uitmaakt van de vergunningsaanvraag moet dan ook de relatie met het aantal dieren per diercategorie, de maximale ventilatiebehoefte, uitgedrukt in m3 per uur, en de totale capaciteit van het luchtwassysteem in m3 behandelde stallucht per uur opgenomen worden;<br>
+c) het luchtwassysteem moet zodanig gedimensioneerd worden dat ten allen tijde een ammoniakemissiereductie van minstens 70 % gerealiseerd wordt.<br>
+2° Ventilatielucht :<br>
+a) van elke afdeling waarvan het luchtwassysteem de lucht behandelt, moet alle uitgaande stalventilatielucht via het luchtwassysteem uit de stal afgevoerd worden. Noch in het centraal luchtafvoerkanaal, noch in de drukkamer mogen bypasses worden aangebracht die direct op de buitenlucht uitmonden;<br>
+b) bij het gebruik van een centraal luchtafvoerkanaal moet het doorstroomoppervlak van dit kanaal tenminste 1 cm2 per m3 maximale ventilatiecapaciteit, uitgedrukt in m3 per uur, bedragen;<br>
+c) bij een dwarsstroomopstelling moeten de ventilatoren die de stalventilatielucht door het filter(pakket) blazen of trekken gelijkmatig verspreid staan ten opzichte van de aanstroomoppervlakte van het filter(pakket);<br>
+d) voor het filter(pakket) is een drukkamer aanwezig die er voor zorgt dat de stallucht optimaal verdeeld wordt over de gehele aanstroomoppervlakte van het filter(pakket). De minimale afstand tussen de ventilatoren of de uitstroomopeningen van de stalventilatielucht en het filter(pakket) bedraagt 3 meter.<br>
+3° Filter(pakket) :<br>
+a) wanneer de filter bestaat uit een los pakkingsmateriaal moet de volledige aanstroomoppervlakte van het filter(pakket) ten allen tijde volledig bedekt zijn met het pakkingsmateriaal, de filterhouder moet volledig gevuld zijn met het pakkingsmateriaal;<br>
+b) onder het filter(pakket) is een opvangbak of recirculatietank voor de wasvloeistof aanwezig die zodanig uitgevoerd wordt dat al het waswater wordt opgevangen dat uit het filter(pakket) stroomt.<br>
+4° Spuiregeling : het spuien van het waswater moet aangestuurd worden door een automatische regeling. In afwijking hiervan is een manuele spuiregeling toegestaan mits deze gebaseerd wordt op de kwantitatieve bepaling van een determinerende parameter.<br>
+5° Registratie :<br>
+a) continue registratie van het aantal draaiuren van de circulatiepomp van het waswater die het filter(pakket) bevochtigt door middel van een urenteller;<br>
+b) continue registratie van het spuiwaterdebiet door middel van een geijkte waterpulsmeter;<br>
+c) de geregistreerde waarden moeten niet vrij toegankelijk worden opgeslagen.<br>
+6° In de leiding van de circulatiepomp van het waswater naar de sproeiers die het filter(pakket) bevochtigen is een aftappunt aanwezig voor het bemonsteren van het waswater.<br>
+7° Elk luchtwassysteem wordt voorzien van een uniek identificatienummer.<br>
+5.1.3. Voor de technische documentatie van dit systeem gelden de volgende eisen :<br>
+1° De leverancier levert voor elk luchtwassysteem een technische fiche af die minstens volgende specificaties bevat :<br>
+a) werking van de waswaterpomp : continu of niet continu. Bij niet-continue werking van de waswaterpomp moet de werkingsfrequentie en werkingsduur opgegeven worden;<br>
+b) waswaterdebiet in liters per uur en relatie tot de draaiuren van de waswaterpomp;<br>
+c) vereiste waswaterverdeling en sproeibeeld over het filter(pakket);<br>
+d) specifieke grenswaarden met betrekking tot de samenstelling van het waswater en minstens voor de parameters pH, nitraat, nitriet en ammonium;<br>
+e) frequentie waarmee of voorwaarden waaronder voeding aan het waswater moet toegevoegd worden;<br>
+f) ventilatie-instellingen en luchtweerstand van het luchtwassysteem (drukval in Pa over het filter(pakket));<br>
+g) spui-instellingen : het spuiwaterdebiet in liters per uur of liters per spuibeurt, de spuifrequentie waarbij opgegeven wordt of deze op vaste momenten of bij bepaalde waarden van pH, dichtheid, geleidbaarheid, soortelijk gewicht of een andere determinerende parameter gebeurt, de berekening van de spuifrequentie;<br>
+h) de dierbezetting waarvoor de onder a tot g opgegeven specificaties van toepassing zijn.<br>
+2° De leverancier levert voor elk luchtwassysteem een monsternameprotocol af dat minstens de bepalingen zoals opgenomen onder het punt 5.1.7 bevat.<br>
+3° De leverancier levert voor elk luchtwassysteem een bedieningshandleiding af die minstens de bepalingen zoals opgenomen onder het punt 5.1.8 bevat.<br>
+5.1.4. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Het luchtwassysteem moet zodanig gebruikt worden dat ten allen tijde een ammoniakemissiereductie van minimaal 70 % gerealiseerd wordt.<br>
+2° Er moet een onderhoudscontract afgesloten zijn met de leverancier van het luchtwassysteem of een andere deskundige partij. Dit onderhoudscontract bevat minstens de bepaling opgenomen onder het punt 5.1.9.<br>
+3° Er moet een logboek bijgehouden worden met betrekking tot de halfjaarlijkse controle van het waswater, de wekelijkse controle op de goede werking van het luchtwassysteem, het jaarlijks onderhoud en controle uitgevoerd door de leverancier of een andere deskundige partij en de eventuele rendementsmetingen. Zowel het resultaat van deze controles als daaraan gekoppelde acties moeten bijgehouden worden in het logboek. Eventuele storingen, calamiteiten, afwijkingen en incidentele reinigingen en naar aanleiding daarvan ondernomen acties worden eveneens genoteerd in het logboek. Dit logboek mag onder digitale vorm bijgehouden worden.<br>
+4° Controle van het waswater :<br>
+a) elk half jaar moet een monster van het waswater genomen worden zoals bepaald in het monsternameprotocol. Monstername, vervoer en analyse van het waswater en de rapportage over de analyse moeten door een erkend laboratorium uitgevoerd worden;<br>
+b) de exploitant controleert of de analyseresultaten van het waswater binnen de in tabel 1 van punt 5.1.6 aangegeven grenzen liggen. Parameters waarvoor in tabel 1 van punt 5.1.6 geen grenzen opgenomen zijn, moeten binnen de door de leverancier in de technische fiche opgegeven grenswaarden liggen. Indien de analyseresultaten buiten de grenzen opgenomen in tabel 1 van punt 5.1.6 liggen of buiten de grenzen opgegeven door de leverancier in de technische fiche liggen, moet de exploitant of leverancier of andere deskundige partij actie ondernemen om de werking van het luchtwassysteem te optimaliseren;<br>
+c) op het moment van de monstername van het waswater wordt de actuele dierbezetting (gewicht, leeftijd en aantal), stand van de urenteller van de circulatiepomp van het waswater en stand van de waterpulsmeter voor het spuiwaterdebiet door de exploitant genoteerd in het logboek;<br>
+d) de analyseresultaten en eventuele acties worden genoteerd in het logboek.<br>
+5° Wekelijkse controle van de goede werking van het luchtwassysteem :<br>
+a) de exploitant voert wekelijks een controle uit van de goede werking van het luchtwassysteem door het controleren van de parameters zoals opgenomen in de bedieningshandleiding;<br>
+b) de resultaten van de controle moeten binnen de in tabel 1 en tabel 2 van punt 5.1.6 aangegeven grenzen liggen ten opzichte van de door de leverancier opgegeven waarden in de technische fiche. Controleparameters waarvoor in tabel 1 en tabel 2 van punt 5.1.6 geen grenzen opgenomen zijn, moeten binnen de door de leverancier in de technische fiche opgegeven grenswaarden liggen. Indien de controleresultaten buiten de grenzen opgenomen in tabel 1 en tabel 2 van punt 5.1.6 liggen of buiten de grenzen opgegeven door de leverancier in de technische fiche liggen, moet de exploitant of leverancier of andere deskundige partij actie ondernemen om de werking van het luchtwassysteem te optimaliseren;<br>
+c) de resultaten van de wekelijkse controle en eventuele acties worden genoteerd in het logboek.<br>
+6° Door vervuiling van het filterpakket zal de ventilatielucht een hogere weerstand ondervinden. Om deze reden moet het luchtwassysteem minimaal elk jaar gereinigd worden overeenkomstig de bepaling opgenomen in het onderhoudscontract. Incidenteel reinigen van het luchtwassysteem door de exploitant moet uitgevoerd worden volgens de voorschriften bepaald in het onderhoudscontract. Reinigingen worden genoteerd in het logboek.<br>
+7° De bestemming van het spuiwater van het luchtwassysteem moet duidelijk worden aangegeven.<br>
+8° Wanneer de bevoegde overheid een rendementsmeting van het luchtwassysteem voorschrijft dan moet deze uitgevoerd worden zoals bepaald onder het punt 5.1.10. Bij de verplichting tot het uitvoeren van een rendementsmeting moet de datum waarop deze meting is verricht en het resultaat ervan in het logboek worden geregistreerd. In geval de exploitant verplicht wordt om een rendementsmeting uit te laten voeren, is de leverancier van het luchtwassysteem verantwoordelijk voor het laten uitvoeren van deze meting en draagt er de kosten van.<br>
+9° De bedieningshandleiding, de technische fiche, het monsternameprotocol, het logboek, het onderhoudscontract en de analyserapporten moeten op een centrale plaats bij de installatie bewaard worden en ter inzage gehouden worden van de bevoegde overheid.<br>
+5.1.5. Combinatie van het luchtwassysteem met andere luchtwassystemen : het luchtwassysteem mag gecombineerd worden met andere luchtwassystemen, zoals een chemisch luchtwassysteem, een waterwasser of een biofilter voor zoverre het gecombineerde luchtwassysteem ook een ammoniakemissiereductie van minstens 70 % realiseert. De eisen aan de uitvoering en de eisen aan de werking zoals bepaald voor het luchtwassystemen blijven ook voor gecombineerde luchtwassystemen van toepassing.<br>
+5.1.6. Bandbreedte van de controleparameters :<br>
+Tabel 1 : Bandbreedte van de waswateranalyse</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Parameter</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Resultaat</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Actie gebruiker/leverancier/deskundige partij</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>pH</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&lt; 6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Niet waarschijnlijk : verklaring vragen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;&gt; 6 en &lt; 6.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Aandachtspunt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;&gt; 6.5 en &lt; 7.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Geen actie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;&gt; 7.5 en &lt; 8.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Aandachtspunt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;&gt; 8.5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Reparatie/onderhoud</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>N<sub>totaal</sub> (g N/liter)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&lt; 0.8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Reparatie/onderhoud</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;&gt; 3.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Reparatie/onderhoud</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>M<sub>N/N </sub>**</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&lt; 0.8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Komt voor bij sterke afname ammoniakbelasting</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;&gt; 0.8 en &lt; 1.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Geen actie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;&gt; 1.2 en &lt; 3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Aandachtspunt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;&gt; 3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Reparatie/onderhoud</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>NH<sub>4</sub>+ -N (g N/liter) *</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&gt; 0.4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Verklaring vragen indien geen nitrificatie plaatsvindt</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>* Ntotaal = NH4+ -N + NO2- -N + NO3- -N<br>
+** MN/N = NH4+ -N / (NO2- -N + NO3- -N) uitgedrukt in mol<br>
+<br>
+Tabel 2 : Bandbreedte van de controlepunten</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Controlepunt</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Resultaat</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Actie gebruiker/leverancier/<br>
+			deskundige partij</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Sproeibeeld*</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Goed</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Geen actie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Suboptimaal</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Aandachtspunt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Slecht</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Reparatie/onderhoud</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Waswaterdebiet</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Afwijking &lt; 10 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Geen actie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Afwijking &gt; 10 % en &lt; 20 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Aandachtspunt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Afwijking &gt; 20 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Reparatie/onderhoud</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Draaiuren waswaterpomp</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Afwijking &lt; 5 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Geen actie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Afwijking &gt; 5 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Verklaring vragen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Spuiwaterdebiet**</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Afwijking &lt; 10 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Geen actie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Afwijking &gt; 10 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Reparatie/onderhoud</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Drukval over pakket</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Afwijking &lt; 20 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Geen actie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Afwijking &gt; 20 % en &lt; 40 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Aandachtspunt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Afwijking &gt; 40 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Reparatie/onderhoud</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>* goed : waterverdeling is regelmatig en bestrijkt het gehele oppervlak<br>
+suboptimaal : waterverdeling is niet regelmatig of bestrijkt tot circa 80 % van het oppervlak<br>
+slecht : waterverdeling is niet regelmatig en bestrijkt minder dan circa 80 % van het oppervlak<br>
+** De richtwaarden voor minimaal en maximaal spuiwaterdebiet, uitgedrukt in liter/uur/dierplaats en berekend op basis van de emissiefactoren die gelden voor traditionele stallen, bedragen :</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Min.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Max</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- gespeende biggen, leefruimte maximaal 0,35 m<sup>2</sup> per dierplaats . . . . .</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,013</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,05</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- gespeende biggen, leefruimte meer dan 0,35 m<sup>2</sup> per dierplaats . . . . .</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,015</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,06</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- kraamzeugen . . . . .</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,173</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,69</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- guste en dragende zeugen . . . . .</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,088</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,35</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- dekberen . . . . .</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,115</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,46</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- vleesvarkens, gedeeltelijk roostervloer, dierplaats volledig onderkelderd, leefruimte maximaal 0,8 m<sup>2</sup> per dierplaats . . . . .</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,062</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,25</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- vleesvarkens, gedeeltelijk roostervloer, dierplaats volledig onderkelderd, leefruimte meer dan 0,8 m<sup>2</sup> per dierplaats . . . . .</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,083</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,34</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- vleesvarkens, overige huisvestingsystemen, leefruimte maximaal 0,8 m<sup>2</sup> per dierplaats . . . . .</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,052</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,21</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- vleesvarkens, overige huisvestingsystemen, leefruimte meer dan 0,8 m<sup>2</sup> per dierplaats . . . . .</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,069</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,28</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- opfokpoeljen legkippen, niet batterijhuisvesting . . . . .</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,0036</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,014</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- legkippen en (groot)ouderdieren van legrassen, niet batterijhuisvesting . . . . .</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,007</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,026</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- slachtkuikenouderdieren . . . . .</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,012</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,048</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- slachtkuikens . . . . .</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,0017</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,0067</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- opfokpoeljen slachtkuikenouderdieren . . . . .</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,005</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,021</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>Voor specifieke luchtwassystemen, combinaties van het luchtwassysteem met een denitrificatiebassin of voor combinaties met andere luchtwassystemen, kunnen afwijkende waarden voor het minimale en maximale spuiwaterdebiet van toepassing zijn. In dat geval moeten deze waarden opgenomen worden in de technische fiche.<br>
+5.1.7. Monsternameprotocol :<br>
+1° Het waswatermonster wordt genomen aan het voorziene aftappunt in de leiding van de circulatiepomp.<br>
+2° De monstername en conservering van het waswater kunnen op twee manieren plaatsvinden :<br>
+a) de monstername vindt plaats door in een zuiver recipiënt onder het aftappunt circa 2 liter waswater op te vangen. Hieruit wordt 100 ml in een spuit opgezogen en nadat een bacteriefilter op het spuitje is geplaatst, wordt hieruit minimaal 50 ml waswater in een monsterflesje gebracht. Het monster moet zo spoedig mogelijk koel bewaard worden en de analyse moet binnen 48 uur uitgevoerd worden;<br>
+b) de monstername en conservering vinden plaats volgens NEN6800 en NPR6601. Hierbij wordt de pH in situ gemeten en de bacterieactiviteit wordt stilgelegd door verlaging van de zuurtegraad tot pH=2 door zwavelzuur aan het monster toe te voegen. De analyse moet binnen 48 uur uitgevoerd worden.<br>
+3° Het waswater moet door een erkend laboratorium minstens geanalyseerd worden op de volgende parameters : pH, ammoniumstikstof (NH4+-N), nitrietstikstof (NO2--N) en nitraatstikstof (NO3--N).<br>
+4° Onafhankelijke registratie : de monsternemer noteert de standen van de urenteller van de circulatiepomp van het waswater en van de waterpulsmeter voor het spuiwaterdebiet.<br>
+5° Het analyserapport wordt overgemaakt aan de exploitant en de leverancier of andere deskundige partij. Op het analyserapport moeten in ieder geval de volgende gegevens worden vermeld :<br>
+a) resultaat van de pH analyse;<br>
+b) gehalte aan ammoniumstikstof, uitgedrukt in g N per liter;<br>
+c) gehalte aan totale stikstof, zijnde de som van de geanalyseerde ammoniumstikstof, nitraatstikstof en nitrietstikstof, uitgedrukt in g N per liter;<br>
+d) de verhouding van ammoniumstikstof,,uitgedrukt in mol per liter, op de som van nitraatstikstof en nitrietstikstof, uitgedrukt in mol per liter;<br>
+e) identificatienummer van de luchtwasser;<br>
+f) datum van de monstername;<br>
+g) naam, adres en woonplaats van de inrichting waar de luchtwasser is geplaatst;<br>
+h) meterstanden van de urenteller van de circulatiepomp van het waswater en van de waterpulsmeter voor het spuiwaterdebiet;<br>
+i) eventuele opmerkingen.<br>
+5.1.8. Bedieningshandleiding :<br>
+1° De bedieningshandleiding omvat minstens de voorschriften ten behoeve van de exploitant voor de wekelijkse controle van de goede werking van het luchtwassysteem.<br>
+2° Deze voorschriften omvatten de wekelijkse controle van minstens de volgende punten :<br>
+a) pH van het waswater;<br>
+b) werking van de circulatiepomp voor waswater (noteren meterstand urenteller);<br>
+c) waswaterdebiet;<br>
+d) verdeling van het waswater over het filter(pakket) (sproeibeeld);<br>
+e) spuiwaterdebiet (noteren meterstand waterpulsmeter);<br>
+f) ventilatiedebiet en drukval over het filter(pakket);<br>
+g) eventueel bijkomende determinerende parameters.<br>
+5.1.9. Het standaard onderhoudscontract moet minimaal de volgende elementen bevatten :<br>
+1° Jaarlijks onderhoud en controle van het luchtwassysteem : Minimaal eenmaal per jaar moet de leverancier of een andere deskundige partij een onderhoudsbeurt van het luchtwassysteem uitvoeren teneinde de optimale werking van het luchtwassysteem te verzekeren. Naast het technisch nazicht en fysisch onderhoud van het luchtwassysteem worden eveneens de resultaten van de controles van het waswater en van de wekelijkse controle door de exploitant beoordeeld om na te gaan of het luchtwassysteem op goede wijze gefunctioneerd heeft. Over het onderhoud, de beoordeling van de goede werking van het luchtwassysteem en eventuele ondernomen acties ten gevolge van het onderhoud en de controle, wordt gerapporteerd in het logboek.<br>
+2° De voorschriften ten behoeve van de exploitant voor het incidenteel reinigen van het luchtwassysteem.<br>
+3° Storingen, afwijkingen of waarnemingen (bijvoorbeeld in de vorm van plotseling toenemende geuroverlast) opgemerkt door de exploitant die duiden op dreigende calamiteiten of niet optimale werking van het luchtwassysteem, moeten onmiddellijk aan de leverancier of een andere deskundige partij worden gemeld.<br>
+4° In geval de exploitant verplicht wordt om een rendementsmeting uit te laten voeren moet in het onderhoudscontract, wanneer dit afgesloten wordt met de leverancier, vastgelegd worden dat de leverancier voor het laten uitvoeren van deze meting verantwoordelijk is en er de kosten van draagt.<br>
+5.1.10. Rendementsmeting :<br>
+1° De bevoegde overheid kan voorschrijven een rendementsmeting van het luchtwassysteem uit te voeren.<br>
+2° Deze bestaat uit een natchemische bepaling van het ammoniakgehalte in zowel de ventilatielucht voor het luchtwassysteem als de ventilatielucht na het luchtwassysteem.<br>
+3° Dit moet gebeuren gedurende drie maal een meting van een half uur tijdens piekbelasting van het luchtwassysteem (dit betekent voor de veehouderij overdag). Het gemiddelde van deze drie metingen bepaalt het verwijderingsrendement van het luchtwassysteem.<br>
+4° Het gemeten verwijderingsrendment mag maximaal 5 % lager liggen dan het vereiste rendement van 70 %.<br>
+5.2. Systeem S-2. Chemisch luchtwassysteem 70 % of hogere emissiereductie<br>
+5.2.1. De ammoniakemissie wordt beperkt door de stalventilatielucht te behandelen in een chemisch luchtwassysteem. Het luchtwassysteem bestaat uit een filter (kolom met vulmateriaal) of uit een filterpakket dat continu vochtig wordt gehouden met een wasvloeistof aangezuurd met zwavelzuur en waar de uitgaande stalventilatielucht in tegenstroom, gelijkstroom of dwarsstroom door geleid wordt. Bij passage van de stalventilatielucht door het luchtwassysteem wordt de ammoniak afgevangen in de wasvloeistof, waarna de gereinigde ventilatielucht het systeem verlaat. Door toevoeging van zwavelzuur aan de wasvloeistof wordt de ammoniak gebonden als ammoniumsulfaat, waarna deze stof met het spuiwater wordt afgevoerd.<br>
+5.2.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Dimensionering van het luchtwassysteem :<br>
+a) het luchtwassysteem kan de uitgaande stalventilatielucht van één of meerdere afdelingen behandelen. Op het dimensioneringsplan dat onderdeel uitmaakt van de vergunningsaanvraag moet duidelijk aangegeven worden van welke afdeling(en) de uitgaande stalventilatielucht behandeld zal worden in het luchtwassysteem;<br>
+b) de capaciteit van het luchtwassysteem moet minimaal gelijk zijn aan de totale maximale ventilatiebehoefte van de afdeling(en) waarvan het de lucht behandelt. In het dimensioneringsplan dat onderdeel uitmaakt van de vergunningsaanvraag moet dan ook de relatie met het aantal dieren per diercategorie, de maximale ventilatiebehoefte, uitgedrukt in m3 per uur, en de totale capaciteit van het luchtwassysteem in m3 behandelde stallucht per uur opgenomen worden;<br>
+c) het luchtwassysteem moet zodanig gedimensioneerd worden dat ten allen tijde een ammoniakemissiereductie van minstens 70 % gerealiseerd wordt;<br>
+2° Ventilatielucht :<br>
+a) van elke afdeling waarvan het luchtwassysteem de lucht behandelt, moet alle uitgaande stalventilatielucht via het luchtwassysteem uit de stal afgevoerd worden. Noch in het centraal luchtafvoerkanaal, noch in de drukkamer mogen bypasses worden aangebracht die direct op de buitenlucht uitmonden;<br>
+b) bij het gebruik van een centraal luchtafvoerkanaal moet het doorstroomoppervlak van dit kanaal tenminste 1 cm2 per m3 maximale ventilatiecapaciteit, uitgedrukt in m3 per uur, bedragen;<br>
+c) bij een dwarsstroomopstelling moeten de ventilatoren die de stalventilatielucht door het filter(pakket) blazen of trekken gelijkmatig verspreid staan ten opzichte van de aanstroomoppervlakte van het filter(pakket);<br>
+d) voor het filter(pakket) is een drukkamer aanwezig die er voor zorgt dat de stallucht optimaal verdeeld wordt over de gehele aanstroomoppervlakte van het filter(pakket). De minimale afstand tussen de ventilatoren of de uitstroomopeningen van de stalventilatielucht en het filter(pakket) bedraagt 3 meter.<br>
+3° Filter(pakket) :<br>
+a) wanneer de filter bestaat uit een los pakkingsmateriaal moet de volledige aanstroomoppervlakte van het filter(pakket) ten allen tijde volledig bedekt zijn met het pakkingsmateriaal, de filterhouder moet volledig gevuld zijn met het pakkingsmateriaal;<br>
+b) onder het filter(pakket) is een opvangbak of recirculatietank voor de wasvloeistof aanwezig die zodanig uitgevoerd wordt dat al het waswater wordt opgevangen dat uit het (filter)pakket stroomt;<br>
+c) achter het filter(pakket) moet een druppelvanger worden geplaatst tenzij het luchtwassysteem gecombineerd wordt met een biofilter.<br>
+4° Zuur :<br>
+a) het luchtwassysteem is uitgerust met een geautomatiseerd besturingssysteem voor de dosering van het zwavelzuur;<br>
+b) de inhoud van de zuuropslagtank moet snel en accuraat kunnen worden afgelezen. Hiervan kan afgeweken worden wanneer het geautomatiseerd doseringssysteem het totale zuurverbruik registreert.<br>
+5° Spuiregeling : het spuien van het waswater moet aangestuurd worden door een automatische regeling. In afwijking hiervan is een manuele spuiregeling toegestaan mits deze gebaseerd wordt op de kwantitatieve bepaling van een determinerende parameter.<br>
+6° Het spuiwater moet afgevoerd worden naar een aparte vloeistofdichte en zuurbestendige opslag. De spuiwateropslag moet voldoende opslag hebben en mag niet voorzien zijn van een overstort. Afvoer van het spuiwater naar de mestkelder in de stal, die in open verbinding staat met de dieren, is niet toegestaan.<br>
+7° Registratie :<br>
+a) continue registratie van het aantal draaiuren van de circulatiepomp van het waswater die het filter(pakket) bevochtigt door middel van een urenteller;<br>
+b) continue registratie van het spuiwaterdebiet door middel van een geijkte waterpulsmeter;<br>
+c) de geregistreerde waarden moeten niet vrij toegankelijk worden opgeslagen.<br>
+8° In de leiding van de circulatiepomp van het waswater naar de sproeiers die het filter(pakket) bevochtigen, is een aftappunt aanwezig voor het bemonsteren van het waswater.<br>
+9° Elk luchtwassysteem wordt voorzien van een uniek identificatienummer.<br>
+5.2.3. Voor de technische documentatie van dit systeem gelden de volgende eisen :<br>
+1° De leverancier levert voor elk luchtwassysteem een technische fiche af die minstens volgende specificaties bevat :<br>
+a) werking van de waswaterpomp : continu of niet continu. Bij niet-continue werking van de waswaterpomp moet de werkingsfrequentie en werkingsduur opgegeven worden;<br>
+b) waswaterdebiet in liters per uur en relatie tot de draaiuren van de waswaterpomp;<br>
+c) vereiste waswaterverdeling en sproeibeeld over het filter(pakket);<br>
+d) specifieke grenswaarden met betrekking tot de samenstelling van het waswater en minstens voor de parameters pH, ammonium, sulfaat en ammoniumsulfaat. Voor de pH van het waswater wordt zowel de maximale waarde die nooit mag overschreden worden als de maximale waarde van de pH van het waswater direct na verversing opgegeven;<br>
+e) schatting van het zuurverbruik in liter per dag;<br>
+f) ventilatie-instellingen en luchtweerstand van het luchtwassysteem (drukval in Pa over het filter(pakket));<br>
+g) spui-instellingen : het spuiwaterdebiet in liters per uur of liters per spuibeurt, de spuifrequentie waarbij opgegeven wordt of deze op vaste momenten of bij bepaalde waarden van pH, dichtheid, geleidbaarheid, soortelijk gewicht of een andere determinerende parameter gebeurt, de berekening van de spuifrequentie;<br>
+h) de dierbezetting waarvoor de onder a tot g opgegeven specificaties van toepassing zijn.<br>
+2° De leverancier levert voor elk luchtwassysteem een monsternameprotocol af dat minstens de bepalingen zoals opgenomen onder het punt 5.2.7 bevat.<br>
+3° De leverancier levert voor elk luchtwassysteem een bedieningshandleiding af die minstens de bepalingen zoals opgenomen onder het punt 5.2.8 bevat.<br>
+5.2.4. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Het luchtwassysteem moet zodanig gebruikt worden dat ten allen tijde een ammoniakemissiereductie van minimaal 70 % gerealiseerd wordt.<br>
+2° Er moet een onderhoudscontract afgesloten zijn met de leverancier van het luchtwassysteem of een andere deskundige partij. Dit onderhoudscontract bevat minstens de bepaling opgenomen onder het punt 5.2.9.<br>
+3° Er moet een logboek bijgehouden worden met betrekking tot de halfjaarlijkse controle van het waswater, de wekelijkse controle op de goede werking van het luchtwassysteem, het jaarlijks onderhoud en controle uitgevoerd door de leverancier of een andere deskundige partij en de eventuele rendementsmetingen. Zowel het resultaat van deze controles als daaraan gekoppelde acties moeten bijgehouden worden in het logboek. Het tijdstip en de hoeveelheid van het aanvullen van de zuurvoorraad en eventuele storingen, calamiteiten, afwijkingen en incidentele reinigingen en naar aanleiding daarvan ondernomen acties worden eveneens genoteerd in het logboek. Dit logboek mag onder digitale vorm bijgehouden worden.<br>
+4° Controle van het waswater :<br>
+a) elk half jaar moet een monster van het waswater genomen worden zoals bepaald in het monsternameprotocol. Monstername, vervoer en analyse van het waswater en de rapportage over de analyse moeten door een erkend laboratorium uitgevoerd worden;<br>
+b) de exploitant controleert of de analyseresultaten van het waswater binnen de in tabel 1 van punt 5.2.6 aangegeven grenzen liggen ten opzichte van de door de leverancier opgegeven waarden in de technische fiche en of het gehalte aan ammoniumsulfaat maximaal 2,1 mol per liter bedragen. Parameters waarvoor in tabel 1 van punt 5.2.6 geen grenzen opgenomen zijn, moeten binnen de door de leverancier in de technische fiche opgegeven grenswaarden liggen. Indien de analyseresultaten buiten de grenzen opgenomen in tabel 1 van punt 5.2.6 liggen of buiten de grenzen opgegeven door de leverancier in de technische fiche liggen of het gehalte aan ammoniumsulfaat meer dan 2,1 mol per liter bedraagt, moet de exploitant of leverancier of andere deskundige partij actie ondernemen om de werking van het luchtwassysteem te optimaliseren;<br>
+c) op het moment van de monstername van het waswater wordt de dierbezetting over de periode sinds de vorige waswatercontrole (opleg- en afleverdata en aantal dieren), de aanvulling van de zuurvoorraad sinds de vorige waswatercontrole (data, volume zuur), de stand van de urenteller van de circulatiepomp van het waswater en de stand van de waterpulsmeter voor het spuiwaterdebiet door de exploitant genoteerd in het logboek;<br>
+d) de analyseresultaten en eventuele acties worden genoteerd in het logboek.<br>
+5° Wekelijkse controle van de goede werking van het luchtwassysteem :<br>
+a) de exploitant voert wekelijks een controle uit van de goede werking van het luchtwassysteem door het controleren van de parameters zoals opgenomen in de bedieningshandleiding;<br>
+b) de resultaten van de controle moeten binnen de in tabel 1 en tabel 2 van punt 5.2.6 aangegeven grenzen liggen ten opzichte van de door de leverancier opgegeven waarden in de technische fiche. Controleparameters waarvoor in tabel 2 van punt 5.2.6 geen grenzen opgenomen zijn, moeten binnen de door de leverancier in de technische fiche opgegeven grenswaarden liggen. Indien de controleresultaten buiten de grenzen opgenomen in tabel 1 en tabel 2 van punt 5.2.6 liggen of buiten de grenzen opgegeven door de leverancier in de technische fiche liggen, moet de exploitant of leverancier of andere deskundige partij actie ondernemen om de werking van het luchtwassysteem te optimaliseren;<br>
+c) de resultaten van de wekelijkse controle en eventuele acties worden genoteerd in het logboek.<br>
+6° Door vervuiling van het filterpakket zal de ventilatielucht een hogere weerstand ondervinden. Om deze reden moet het luchtwassysteem minimaal elk jaar gereinigd worden overeenkomstig de bepaling opgenomen in het onderhoudscontract. Incidenteel reinigen van het luchtwassysteem door de exploitant moet uitgevoerd worden volgens de voorschriften bepaald in het onderhoudscontract. Reinigingen worden genoteerd in het logboek.<br>
+7° De bestemming van het spuiwater van het luchtwassysteem moet duidelijk worden aangegeven.<br>
+8° Wanneer de bevoegde overheid een rendementsmeting van het luchtwassysteem voorschrijft dan moet deze uitgevoerd worden zoals bepaald onder het punt 5.2.10. Bij de verplichting tot het uitvoeren van een rendementsmeting moet de datum waarop deze meting is verricht en het resultaat ervan in het logboek worden geregistreerd. In geval de exploitant verplicht wordt om een rendementsmeting uit te laten voeren, is de leverancier van het luchtwassysteem verantwoordelijk voor het laten uitvoeren van deze meting en draagt er de kosten van.<br>
+9° De bedieningshandleiding, de technische fiche, het monsternameprotocol, het logboek, het onderhoudscontract en de analyserapporten moeten op een centrale plaats bij de installatie bewaard worden en ter inzage gehouden worden van de bevoegde overheid. Ten behoeve van de controle door de bevoegde overheid moet de exploitant ook gegevens met betrekking tot de dierbezetting (gewicht, leeftijd en aantal dieren) ter beschikking stellen.<br>
+5.2.5. Combinatie van het luchtwassysteem met andere luchtwassystemen : het luchtwassysteem mag gecombineerd worden met andere luchtwassystemen, zoals een biologisch luchtwassysteem, een waterwasser of een biofilter voor zoverre het gecombineerde luchtwassysteem ook een ammoniakemissiereductie van minstens 70 % realiseert. De eisen aan de uitvoering en de eisen aan de werking zoals bepaald voor het luchtwassystemen blijven ook voor gecombineerde luchtwassystemen van toepassing.<br>
+5.2.6. Bandbreedte van de controleparameters :<br>
+Tabel 1 : Bandbreedte van de waswateranalyse</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Component</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Resultaat</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Actie gebruiker/leverancier/<br>
+			deskundige parij</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>pH</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Afwijking &lt; 0.5 pH-eenheid</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Geen actie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Afwijking &gt; 0.5 en &lt; 1 pH-eenheid</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Aandachtspunt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Afwijking &gt; 1 pH-eenheid</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Reparatie/onderhoud</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>M<sub>N/S</sub> *</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Afwijking &lt; 10 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Geen actie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Afwijking &gt; 10 % en &lt; 20 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Aandachtspunt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Afwijking &gt; 20 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Reparatie/onderhoud</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>** MN/S = NH4+ / SO42-<br>
+<br>
+Tabel 2 : Bandbreedte van de controlepunten</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Controlepunt</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Resultaat</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Actie gebruiker/leverancier/<br>
+			deskundige partij</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Sproeibeeld*</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Goed</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Geen actie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Suboptimaal</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Aandachtspunt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Slecht</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Reparatie/onderhoud</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Waswaterdebiet</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Afwijking &lt; 10 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Geen actie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Afwijking &gt; 10 % en &lt; 20 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Aandachtspunt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Afwijking &gt; 20 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Reparatie/onderhoud</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Draaiuren waswaterpomp</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Afwijking &lt; 5 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Geen actie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Afwijking &gt; 5 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Verklaring vragen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Spuiwaterdebiet**</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Afwijking &lt; 10 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Geen actie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Afwijking &gt; 10 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Reparatie/onderhoud</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Drukval over pakket</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Afwijking &lt; 20 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Geen actie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Afwijking &gt; 20 % en &lt; 40 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Aandachtspunt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Afwijking &gt; 40 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Reparatie/onderhoud</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>* goed : waterverdeling is regelmatig en bestrijkt het gehele oppervlak<br>
+suboptimaal : waterverdeling is niet regelmatig of bestrijkt tot circa 80 % van het oppervlak<br>
+slecht : waterverdeling is niet regelmatig en bestrijkt minder dan circa 80 % van het oppervlak<br>
+** De richtwaarden voor het minimale spuiwaterdebiet, uitgedrukt in liter/dierplaats/jaar en berekend op basis van de emissiefactoren die gelden voor traditionele stallen, bedragen :<br>
+- gespeende biggen, leefruimte maximaal 0.35 m2 per dierplaats . . . . . 9<br>
+- gespeende biggen, leefruimte meer dan 0.35 m2 per dierplaats . . . . . 11<br>
+- kraamzeugen . . . . . 125<br>
+- guste en dragende zeugen . . . . . 65<br>
+- dekberen . . . . . 85<br>
+- vleesvarkens, gedeeltelijk roostervloer, dierplaats volledig onderkelderd, leefruimte maximaal 0.8 m2 per dierplaats . . . . . 48<br>
+- vleesvarkens, gedeeltelijk roostervloer, dierplaats volledig onderkelderd, leefruimte meer dan 0.8 m2 per dierplaats . . . . . 74<br>
+- vleesvarkens, overige huisvestingsystemen, leefruimte maximaal 0.8 m2 per dierplaats . . . . . 40<br>
+- vleesvarkens, overige huisvestingsystemen, leefruimte meer dan 0.8 m2 per dierplaats . . . . . 65<br>
+- opfokpoeljen legkippen, niet batterijhuisvesting . . . . . 1,9<br>
+- opfokpoeljen legkippen, batterijhuisvesting . . . . . 0,2<br>
+- legkippen en (groot)ouderdieren van legrassen, niet batterijhuisvesting . . . . . 3,5<br>
+- legkippen en (groot)ouderdieren van legrassen, batterijhuisvesting . . . . . 0,5<br>
+- slachtkuikenouderdieren . . . . . 6,3<br>
+- slachtkuikens . . . . . 0,5<br>
+- opfokpoeljen slachtkuikenouderdieren . . . . . 2,7<br>
+Voor specifieke luchtwassystemen of voor combinaties met andere luchtwassystemen, kunnen afwijkende waarden voor het minimale spuiwaterdebiet van toepassing zijn. In dat geval moeten deze waarden opgenomen worden in de technische fiche.<br>
+5.2.7. Monsternameprotocol :<br>
+1° Het waswatermonster wordt genomen aan het voorziene aftappunt in de leiding van de circulatiepomp.<br>
+2° De monstername vindt plaats door in een zuiver recipiënt onder het aftappunt circa 2 liter waswater op te vangen. Hieruit wordt 100 ml in een monsterflesje gebracht. De analyse moet binnen 48 uur uitgevoerd worden.<br>
+3° Het waswater moet door een erkend laboratorium minstens geanalyseerd worden op de volgende parameters : pH, ammonium (NH4+-N), sulfaat (SO42-) en ammoniumsulfaat ((NH4)2SO4).<br>
+4° Onafhankelijke registratie : de monsternemer noteert de stand van de urenteller van de circulatiepomp van het waswater, de stand van de waterpulsmeter voor het spuiwaterdebiet en de inhoud van de zuuropslagtank of het geregistreerde zuurverbruik.<br>
+5° Het analyserapport wordt overgemaakt aan de exploitant en de leverancier of andere deskundige partij. Op het analyserapport moeten in ieder geval de volgende gegevens vermeld worden :<br>
+a) resultaat van de pH analyse;<br>
+b) gehalte aan ammoniumstikstof, uitgedrukt in g N per liter;<br>
+c) gehalte aan sulfaat, uitgedrukt in g per liter;<br>
+d) de verhouding van ammonium op sulfaat :<br>
+e) gehalte aan ammoniumsulfaat, uitgedrukt in mol per liter;<br>
+f) identificatienummer van de luchtwasser;<br>
+g) datum van de monstername;<br>
+h) naam, adres en woonplaats van de inrichting waar de luchtwasser is geplaatst;<br>
+i) meterstand van de urenteller van de circulatiepomp van het waswater, stand van de waterpulsmeter voor het spuiwaterdebiet en het zuurverbruik;<br>
+j) eventuele opmerkingen.<br>
+5.2.8. Bedieningshandleiding :<br>
+1° De bedieningshandleiding omvat minstens de voorschriften ten behoeve van de exploitant voor de wekelijkse controle van de goede werking van het luchtwassysteem.<br>
+2° Deze voorschriften omvatten de wekelijkse controle van minstens de volgende punten :<br>
+a) pH van het waswater;<br>
+b) werking van de circulatiepomp voor waswater (noteren meterstand urenteller);<br>
+c) waswaterdebiet;<br>
+d) verdeling van het waswater over het filter(pakket) (sproeibeeld);<br>
+e) spuiwaterdebiet (noteren meterstand waterpulsmeter);<br>
+f) ventilatiedebiet en drukval over het filter(pakket);<br>
+g) zuurverbruik;<br>
+h) eventueel bijkomende determinerende parameters.<br>
+5.2.9. Het standaard onderhoudscontract moet minimaal de volgende elementen bevatten :<br>
+1° Jaarlijks onderhoud en controle van het luchtwassysteem : Minimaal eenmaal per jaar moet de leverancier of een andere deskundige partij een onderhoudsbeurt van het luchtwassysteem uitvoeren teneinde de optimale werking van het luchtwassysteem te verzekeren. Naast het technisch nazicht en fysisch onderhoud van het luchtwassysteem worden eveneens de resultaten van de controles van het waswater en van de wekelijkse controle door de exploitant beoordeeld om na te gaan of het luchtwassysteem op goede wijze gefunctioneerd heeft. Over het onderhoud, de beoordeling van de goede werking van het luchtwassysteem en eventuele ondernomen acties ten gevolge van het onderhoud en de controle, wordt gerapporteerd in het logboek.<br>
+2° De voorschriften ten behoeve van de exploitant voor het incidenteel reinigen van het luchtwassysteem.<br>
+3° Storingen, afwijkingen of waarnemingen (bijvoorbeeld in de vorm van plotseling toenemende geuroverlast) opgemerkt door de exploitant die duiden op dreigende calamiteiten of niet optimale werking van het luchtwassysteem, moeten onmiddellijk aan de leverancier of een andere deskundige partij worden gemeld.<br>
+4° In geval de exploitant verplicht wordt om een rendementsmeting uit te laten voeren moet in het onderhoudscontract, wanneer dit afgesloten wordt met de leverancier, vastgelegd worden dat de leverancier voor het laten uitvoeren van deze meting verantwoordelijk is en er de kosten van draagt.<br>
+5.2.10. Rendementsmeting :<br>
+1° De bevoegde overheid kan voorschrijven een rendementsmeting van het luchtwassysteem uit te voeren.<br>
+2° Deze bestaat uit een natchemische bepaling van het ammoniakgehalte in zowel de ventilatielucht voor het luchtwassysteem als de ventilatielucht na het luchtwassysteem.<br>
+3° Dit moet gebeuren gedurende drie maal een meting van een half uur tijdens piekbelasting van het luchtwassysteem (dit betekent voor de veehouderij overdag). Het gemiddelde van deze drie metingen bepaalt het verwijderingsrendement van het luchtwassysteem.<br>
+4° Het gemeten verwijderingsrendment mag maximaal 5 % lager liggen dan het vereiste rendement van 70 %.<br>
+5.3. Systeem S-3. Bio-bed luchtbehandelingsysteem 70 % of hogere emissiereductie<br>
+5.3.1. De ammoniakemissie wordt beperkt door de stalventilatielucht te behandelen in een biologisch luchtzuiveringssysteem met hoge microbiële activiteit. Het luchtzuiveringssysteem bestaat uit een bed van biologisch vulmateriaal dat continu vochtig wordt gehouden en waar de uitgaande stalventilatielucht door geleid wordt. De ventilatielucht wordt eerst bevochtigd, waarbij stofafscheiding plaatsvindt. Bij passage van de ventilatielucht door het luchtzuiveringssysteem wordt de ammoniak afgevangen en door bacteriën die zich op het vulmateriaal bevinden omgezet in nitriet en/of nitraat.<br>
+5.3.2. Voor de uitvoering van dit systeem gelden de volgende eisen :<br>
+1° Dimensionering van het bio-bed :<br>
+a) het bio-bed kan de uitgaande stalventilatielucht van één of meerdere afdelingen behandelen. Op het dimensioneringsplan dat onderdeel uitmaakt van de vergunningsaanvraag moet duidelijk aangegeven worden van welke afdeling(en) de uitgaande stalventilatielucht behandeld zal worden in het bo-bed;<br>
+b) de capaciteit van het bio-bed moet minimaal gelijk zijn aan de totale maximale ventilatiebehoefte van de afdeling(en) waarvan het de lucht behandelt. In het dimensioneringsplan dat onderdeel uitmaakt van de vergunningsaanvraag moet dan ook de relatie met het aantal dieren per diercategorie, de maximale ventilatiebehoefte, uitgedrukt in m3 per uur, en de totale capaciteit van het bio-bed in m3 behandelde stallucht per uur opgenomen worden;<br>
+c) het bio-bed moet een oppervlakte hebben die groter is dan kan berekend worden op basis van een gemiddelde intredesnelheid van 20 cm per seconde voor de te behandelen lucht;<br>
+d) de dikte van het bio-bed moet een verblijftijd toelaten die groter is dan 5 seconden;<br>
+e) het bio-bed moet zodanig gedimensioneerd worden dat ten allen tijde een ammoniakemissiereductie van minstens 70 % gerealiseerd wordt.<br>
+2° Vulmateriaal :<br>
+a) als biologisch vulmateriaal kunnen compost, gedroogd slib, turf, houtsnippers, boomschors, kokosvezels, wortelhout, heide of een mengsel van vorige in aanmerking komen;<br>
+b) het vulmateriaal moet de volledige aanstroomoppervlakte van het bio-bed ten allen tijde volledig bedekken en de filterhouder moet volledig gevuld zijn tot minstens de volgens punt 1°, d) vereiste hoogte;<br>
+c) het bio-bed moet uitgerust zijn met een bevochtigingsysteem dat een homogene bevochtiging van het vulmateriaal toelaat en dat een luchtvochtigheid in het organisch vulmateriaal van 50-70 % garandeert. Het bevochtigingsysteem mag eveneens gebruikt worden voor het spoelen van het vulmateriaal;<br>
+3° Ventilatielucht :<br>
+a) van elke afdeling waarvan het bio-bed de lucht behandelt, moet alle uitgaande stalventilatielucht via het bio-bed uit de stal afgevoerd worden. Er mogen geen bypasses worden aangebracht die direct op de buitenlucht uitmonden;<br>
+b) het bio-bed moet uitgerust zijn met een permanent werkend bevochtigingsysteem voor de ingaande stalventilatielucht (bijvoorbeeld een watergordijn);<br>
+c) onder het bio-bed is een drukkamer aanwezig die er voor zorgt dat de stallucht optimaal verdeeld wordt over de gehele aanstroomoppervlakte van het bio-bed.<br>
+4° Registratie :<br>
+a) continue registratie van het aantal draaiuren van de waspomp die de ingaande stalventilatielucht bevochtigt door middel van een urenteller;<br>
+b) continue registratie van de hoeveelheid water gebruikt voor het bevochtigen en spoelen van het vulmateriaal door middel van een watermeter;<br>
+c) continue registratie van de druk over het vulmateriaal als indicatie voor preferentiële wegen door middel van een drukverschilmeter;<br>
+d) de geregistreerde waarden moeten niet vrij toegankelijk worden opgeslagen.<br>
+5° Elk bio-bed wordt voorzien van een uniek identificatienummer.<br>
+5.3.3. Voor de technische documentatie van dit systeem gelden de volgende eisen :<br>
+1° De leverancier levert voor elk luchtwassysteem een technische fiche af die minstens volgende specificaties bevat :<br>
+a) debiet van de waspomp die de ingaande stalventilatielucht bevochtigt;<br>
+b) spuifrequentie van het waswater voor het bevochtigen van de ingaande stalventilatielucht;<br>
+c) grenswaarden voor de hoeveelheid water, uitgedrukt in liters per week, verbruikt voor het bevochtigen van het vulmateriaal, eventueel gedifferentieerd volgens seizoen;<br>
+d) frequentie voor het spoelen van het vulmateriaal en hoeveelheid water, uitgedrukt in liters per spoelbeurt, verbruikt voor het spoelen van het vulmateriaal;<br>
+e) vereiste waterverdeling en sproeibeeld over het vulmateriaal;<br>
+f) waarde van het drukverschil over het bio-bed vanaf wanneer het vulmateriaal moet opgeschud worden;<br>
+g) vervangingsfrequentie van het vulmateriaal;<br>
+h) ventilatie-instellingen;<br>
+i) de dierbezetting waarvoor de onder a tot h opgegeven specificaties van toepassing zijn.<br>
+2° De leverancier levert voor elk luchtwassysteem een bedieningshandleiding af die minstens de bepalingen zoals opgenomen onder het punt 5.3.6 bevat.<br>
+5.3.4. Voor het gebruik van dit systeem gelden de volgende eisen :<br>
+1° Het bio-bed moet zodanig gebruikt worden dat ten allen tijde een ammoniakemissiereductie van minimaal 70 % gerealiseerd wordt.<br>
+2° Er moet een onderhoudscontract afgesloten zijn met de leverancier van het bio-bed of een andere deskundige partij. Dit onderhoudscontract bevat minstens de bepaling opgenomen onder het punt 5.3.7.<br>
+3° Er moet een logboek bijgehouden worden met betrekking tot de wekelijkse controle op de goede werking van het bio-bed, de jaarlijkse controle en het jaarlijks onderhoud uitgevoerd door de leverancier of een andere deskundige partij en de eventuele rendementsmetingen. Zowel het resultaat van deze controles als daaraan gekoppelde acties moeten bijgehouden worden in het logboek. Het tijdstip van spoelen, opschudden en vervangen van het vulmateriaal wordt genoteerd in het logboek. Eventuele storingen, calamiteiten, afwijkingen en incidentele reinigingen en naar aanleiding daarvan ondernomen acties worden eveneens genoteerd in het logboek. Dit logboek mag onder digitale vorm bijgehouden worden.<br>
+4° Controle van de goede werking van het bio-bed :<br>
+a) er moet jaarlijks een controle gebeuren van het bio-bed door de leverancier of een andere deskundige partij overeenkomstig de voorschriften opgenomen in het onderhoudscontract. Indien de controle aangeeft dat het bio-bed niet goed werkt of gewerkt heeft, moet de exploitant of leverancier of andere deskundige partij actie ondernemen om de werking van het bio-bed te optimaliseren;<br>
+b) de exploitant voert wekelijks een controle uit van de goede werking van het bio-bed door het controleren van de parameters zoals opgenomen in de bedieningshandleiding. De resultaten van de wekelijkse controle moeten binnen de in tabel 1 van punt 5.3.5 aangegeven grenzen liggen desgevallend ten opzichte van de door de leverancier opgegeven waarden in de technische fiche. Controleparameters waarvoor in tabel 1 van punt 5.3.5 geen grenzen opgenomen zijn, moeten binnen de door de leverancier in de technische fiche opgegeven grenswaarden liggen. Indien de controleresultaten buiten de grenzen opgenomen in tabel 1 van punt 5.3.5 liggen of buiten de grenzen opgegeven door de leverancier in de technische fiche liggen, moet de exploitant of leverancier of andere deskundige partij actie ondernemen om de werking van het bio-bed te optimaliseren;<br>
+c) de resultaten van de jaarlijkse en wekelijkse controle en eventuele acties worden genoteerd in het logboek.<br>
+5° Spoelen, opschudden en vervangen van het vulmateriaal :<br>
+a) het vulmateriaal van het bio-bed moet minstens om de zes maanden opgeschud worden om verdichting van het vulmateriaal te voorkomen. Het vulmateriaal moet minstens om de 2 jaar vervangen worden. Het opschudden of vervangen van het vulmateriaal gebeurt frequenter wanneer de drukverschilmeting de waarden zoals opgegeven in de technische fiche overschrijdt;<br>
+b) het vulmateriaal van het bio-bed moet overeenkomstig de frequentie opgenomen in de technische fiche regelmatig gespoeld worden om de afbraakproducten (nitraat, nitriet en gevormde zuren) uit het vulmateriaal te verwijderen;<br>
+c) het tijdstip van spoelen, opschudden en vervangen van het vulmateriaal wordt genoteerd in het logboek.<br>
+6° De bestemming van het gespuide waswater, het spoelwater en het verwijderde vulmateriaal moet duidelijk worden aangegeven.<br>
+7° Wanneer de bevoegde overheid een rendementsmeting van het bio-bed voorschrijft moet deze uitgevoerd worden zoals bepaald onder het punt 5.3.8. Bij de verplichting tot het uitvoeren van een rendementsmeting moet de datum waarop deze meting is verricht en het resultaat ervan in het logboek worden geregistreerd. In geval de exploitant verplicht wordt om een rendementsmeting uit te laten voeren, is de leverancier van het bio-bed verantwoordelijk voor het laten uitvoeren van deze meting en draagt er de kosten van.<br>
+8° De bedieningshandleiding, de technische fiche, het logboek en het onderhoudscontract moeten op een centrale plaats bij de installatie bewaard worden en ter inzage gehouden worden van de bevoegde overheid.<br>
+5.3.5. Bandbreedte van de controleparameters<br>
+Tabel 1 : Bandbreedte van de controleparameters</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Controlepunt</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Resultaat</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Actie exploitant/leverancier/<br>
+			deskundige partij</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Bevochtigingspatroon van het vulmateriaal*</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Goed</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Geen actie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Suboptimaal</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Aandachtspunt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Slecht</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Herstelling/onderhoud</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Stand van de watermeter (hoeveelheid verbruikt bevochtigings/ spoelwater)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Afwijking &lt;= 10 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Geen actie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Afwijking &gt; 10 % en &lt; 20 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Aandachtspunt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Afwijking =&gt; 20 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Herstelling/onderhoud</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Draaiuren waspomp</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>=&gt; 165 h</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Geen actie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;&lt; 165 h</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Verklaring noteren</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Toename van de drukval over het vulmateriaal</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&lt;= 20 Pa</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Geen actie</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&gt; 20 Pa en &lt; 50 Pa</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Aandachtspunt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;=&gt; 50 Pa</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Opschudden**</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>* goed : waterverdeling is regelmatig en bestrijkt het gehele oppervlak<br>
+suboptimaal : waterverdeling is niet regelmatig of bestrijkt tot circa 80 % van het oppervlak<br>
+slecht : waterverdeling is niet regelmatig en bestrijkt minder dan circa 80 % van het oppervlak<br>
+** Indien na het opschudden van het vulmateriaal het drukverval niet beneden de 50 Pa daalt, moet het vulmateriaal vervangen worden.<br>
+5.3.6. Bedieningshandleiding :<br>
+1° De bedieningshandleiding omvat minstens de voorschriften ten behoeve van de exploitant voor de wekelijkse controle van de goede werking van het luchtwassysteem.<br>
+2° Deze voorschriften omvatten de wekelijkse controle van minstens de volgende punten :<br>
+a) werking van de waspomp (noteren meterstand urenteller);<br>
+b) hoeveelheid verbruikt bevochtigings-/spoelwater (noteren stand van de watermeter);<br>
+c) drukval over het vulmateriaal (noteren waarde van de drukverschilmeter);<br>
+d) bevochtigingspatroon van het vulmateriaal.<br>
+5.3.7. Het standaard onderhoudscontract moet minimaal de volgende elementen bevatten :<br>
+1° Minimaal eenmaal per jaar moet de leverancier of een andere deskundige partij een technisch nazicht en fysisch onderhoud van het bio-bed uitvoeren. Over het onderhoud en eventuele ondernomen acties ten gevolge van het onderhoud wordt gerapporteerd in het logboek.<br>
+2° Minimaal eenmaal per jaar moet de leverancier of een andere deskundige partij een controle op de goede werking van het bio-bed uitvoeren. Daarbij worden de resultaten van de wekelijkse controle door de exploitant beoordeeld om na te gaan of het bio-bed op goede wijze gefunctioneerd heeft. Daarnaast worden minstens volgende punten gecontroleerd :<br>
+a) continue werking van de waspomp aan de hand van de stand van de urenteller sinds de vorige jaarlijkse controle;<br>
+b) hoeveelheid gebruikt bevochtigings- en spoelwater voor het vulmateriaal aan de hand van de stand van de watermeter sinds de vorige jaarlijkse controle. Deze moeten binnen de door de leverancier in de technische fiche opgegeven grenswaarden liggen;<br>
+c) luchtvochtigheid in het vulmateriaal. Deze moet minstens 50 % bedragen.<br>
+Indien de controle aangeeft dat het bio-bed niet goed werkt of gewerkt heeft, moet de exploitant of leverancier of andere deskundige partij actie ondernemen om de werking van het bio-bed te optimaliseren.<br>
+Over de beoordeling van de goede werking van het luchtwassysteem en eventuele ondernomen acties ten gevolge van het onderhoud van de controle wordt gerapporteerd in het logboek.<br>
+3° Storingen, afwijkingen of waarnemingen (bijvoorbeeld in de vorm van plotseling toenemende geuroverlast) opgemerkt door de exploitant die duiden op dreigende calamiteiten of niet optimale werking van het luchtwassysteem, moeten onmiddellijk aan de leverancier of een andere deskundige partij worden gemeld.<br>
+4° In geval de exploitant verplicht wordt om een rendementsmeting uit te laten voeren moet in het onderhoudscontract, wanneer dit afgesloten wordt met de leverancier, vastgelegd worden dat de leverancier voor het laten uitvoeren van deze meting verantwoordelijk is en er de kosten van draagt.<br>
+5.3.8. Rendementsmeting :<br>
+1° De bevoegde overheid kan voorschrijven een rendementsmeting van het bio-bed uit te voeren.<br>
+2° Deze bestaat uit een natchemische bepaling van het ammoniakgehalte in zowel de ventilatielucht voor het bio-bed als de ventilatielucht na het bio-bed.<br>
+3° Dit moet gebeuren gedurende drie maal een meting van een half uur tijdens piekbelasting van het bio-bed (dit betekent voor de veehouderij overdag). Het gemiddelde van deze drie metingen bepaalt het verwijderingsrendement van het bio-bed.<br>
+4° Het gemeten verwijderingsrendment mag maximaal 5 % lager liggen dan het vereiste rendement van 70 %.<br>
+<br>
+HOOFDSTUK 6 O-lijst van diercategorieën en productiesystemen waarvoor geen ammoniakemissiearme stalsystemen moeten toegepast worden<br>
+<br>
+6.1. Varkenscategorieën waarvoor geen ammoniakemissiearme stalsystemen moeten toegepast worden : beren.<br>
+6.2. Pluimveecategorieën waarvoor geen ammoniakemissiearme stalsystemen moeten toegepast worden : kalkoenen, eenden, loopvogels, kwartels, parelhoenderen, ganzen, fazanten, vleesduiven, ander pluimvee dat niet in de P-lijst voorkomt.<br>
+6.3. In stallen die overeenkomstig de tabellen opgemaakt in uitvoering van artikel 47, eerste lid, 1° en 4° van het besluit van de Vlaamse Regering van 12 december 2008 betreffende de biologische productie en de etikettering van biologische producten bestemd zijn voor de biologische dierlijke productie, moeten geen emissiearme stalsystemen toegepast worden.<br>
+&nbsp;</p>
