@@ -2,16 +2,16 @@
   "codex_id": 1019360,
   "title": "Decreet van 2010-07-16 houdende diverse bepalingen inzake het beleidsdomein Werk en Sociale Economie",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019360/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "ce9f0eb07d928a67230b018aa4c3f0ace0461fd199ea5259c5f07606c9b2fc00",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019360/VolledigDocument?datum=2011-07-11",
+  "source_sha256": "a2c2b58714e6b1340a5a5bc3d82a5447f4a646539c434aa788dcdaf010f02054",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019360&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2011-07-11",
   "made": "2010-07-16",
   "gazette": "2010-09-06",
   "numac": 2010035550,
   "document_start": "2010-01-01",
   "document_end": null,
-  "in_force": "2010-01-01",
+  "in_force": "2011-07-11",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-11; future article versions excluded; article text as the API gives it"
 }

@@ -78,4 +78,4 @@ De Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding treedt in de recht
 
 ### ART. 15.
 
-Dit decreet heeft uitwerking met ingang van 1 januari 2010, met uitzondering van artikel 3 dat uitwerking heeft met ingang van 1 januari 2006, en artikelen 2, 4, 7, 8, 9, 10 en 11 die uitwerking hebben met ingang van 1 april 2006.
+Dit decreet heeft uitwerking met ingang van 1 januari 2010, met uitzondering van artikel 3 dat uitwerking heeft met ingang van 1 januari 2006, en artikelen 2, 4, 7, 8, 9, 10 en 11 die uitwerking hebben met ingang van 1 april 2006.<br /><br />In afwijking van het eerste lid heeft artikel 14/1, ingevoegd bij het decreet van [...], uitwerking met ingang van 1 april 2006.
