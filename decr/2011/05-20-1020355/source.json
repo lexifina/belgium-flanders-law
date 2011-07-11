@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020355,
+  "title": "Decreet van 2011-05-20 houdende wijziging van het decreet van 16 juli 2010 houdende diverse bepalingen inzake het beleidsdomein Werk en Sociale Economie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020355/VolledigDocument?datum=2011-07-11",
+  "source_sha256": "8e07ffa397c74b0ad5f154442ca546a4708581eda139ecc4dd101f4246998cfc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020355&param=informatie",
+  "as_of": "2011-07-11",
+  "made": "2011-05-20",
+  "gazette": "2011-07-01",
+  "numac": 2011202895,
+  "document_start": "2011-07-11",
+  "document_end": null,
+  "in_force": "2011-07-11",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-07-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
