@@ -2,16 +2,16 @@
   "codex_id": 1013395,
   "title": "Omzendbrief van 2004-07-14 BA-2004/03 Gemeentefiscaliteit - coördinatie van de onderrichtingen",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013395/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "92229a7d7ac3003a160621fcd4a30029ce6cf6bf6ab2cf97b5d9ad1a87a617e8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013395/VolledigDocument?datum=2011-07-14",
+  "source_sha256": "a1554278f3e66fbeae1ab89d65ff9d9e41ea22222cb562f973ecf83175127074",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013395&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-07-14",
   "made": "2004-07-14",
   "gazette": "2004-09-08",
   "numac": 2004036412,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2011-07-14",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-14; future article versions excluded; article text as the API gives it"
 }
