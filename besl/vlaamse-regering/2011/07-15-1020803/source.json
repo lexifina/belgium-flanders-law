@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020803,
+  "title": "Besluit van de Vlaamse Regering van 2011-07-15 houdende toekenning van steun aan de VZW Vlaams Kenniscentrum Water (VLAKWA VZW)",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020803/VolledigDocument?datum=2011-07-15",
+  "source_sha256": "e295154a5bf5ddb831bd5027d6b3cbfc26b109422ba158dcd4f6a414f89a7d03",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020803&param=informatie",
+  "as_of": "2011-07-15",
+  "made": "2011-07-15",
+  "gazette": "2011-09-28",
+  "numac": 2011204792,
+  "document_start": "2011-07-15",
+  "document_end": null,
+  "in_force": "2011-07-15",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2011-07-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
