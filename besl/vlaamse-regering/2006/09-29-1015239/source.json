@@ -2,16 +2,16 @@
   "codex_id": 1015239,
   "title": "Besluit van de Vlaamse Regering van 2006-09-29 tot vaststelling van de nadere regels over de werking van het college van algemeen directeurs van de hogescholen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015239/VolledigDocument?datum=2006-12-15",
-  "source_sha256": "3e6251b5c45a814759b278a4181f81823645386d38884fe67e5c7a5055c0c657",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015239/VolledigDocument?datum=2011-07-17",
+  "source_sha256": "9b6528671141d89d68d785a52d1a365358f491e1993ec90079cae803c29861d4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015239&param=informatie",
-  "as_of": "2006-12-15",
+  "as_of": "2011-07-17",
   "made": "2006-09-29",
   "gazette": "2006-12-05",
   "numac": 2006036780,
   "document_start": "2006-12-15",
   "document_end": null,
-  "in_force": "2006-12-15",
+  "in_force": "2011-07-17",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2006-12-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-17; future article versions excluded; article text as the API gives it"
 }
