@@ -312,55 +312,55 @@ Het verlof voor deeltijdse prestaties wordt voor een periode van vijf jaar gelij
 
 ### ART. 61.
 
-De arrondissementscommissaris heeft recht op de hierna vermelde vormen van loopbaanonderbreking voor palliatief verlof, bijstand aan of verzorging van een zwaar ziek gezins- of familielid en ouderschapsverlof.
+De arrondissementscommissaris met verlof voor loopbaanonderbreking bevindt zich in dienstactiviteit, maar heeft geen recht op salaris.<br /><br />Ziekteverlof of bevallingsverlof maakt geen einde aan de loopbaanonderbreking.<br /><br />De deeltijdse loopbaanonderbreking kan niet gecombineerd worden met verlof voor deeltijdse prestaties.<br /><br />De nadere regelen voor de opname van de deeltijdse loopbaanonderbreking worden bepaald in overleg met de gouverneur en de arrondissementscommissaris.
 
 ### ART. 62.
 
-§ 1. De duur van de loopbaanonderbreking om palliatieve zorgen te verstrekken bedraagt per patiënt één maand, eenmaal verlengbaar met één maand.<br /><br />§ 2. Onder "palliatieve zorgen" wordt begrepen: elke vorm van bijstand en inzonderheid medische, sociale, administratieve en psychologische bijstand en verzorging van personen die lijden aan een ongeneeslijke ziekte en die zich in een terminale fase bevinden.
+De arrondissementscommissaris kan voor een kind geen ouderschapsverlof in de vorm van loopbaanonderbreking meer krijgen, als hij voor hetzelfde kind al in een andere vorm ouderschapsverlof heeft genoten bij dezelfde of een andere werkgever, of als hij deze vorm van loopbaanonderbreking al bij een andere werkgever heeft genomen.
 
 ## HOOFDSTUK 2 [PALLIATIEF VERLOF (verv. BVR 9 september 2011, art. 1)]
 
 ### ART. 63.
 
-De arrondissementscommissaris die loopbaanonderbreking neemt om palliatieve zorgen te verstrek-ken, deelt dit schriftelijk mee aan de gouverneur. Hij voegt bij die mededeling het aanvraagformulier voor onderbrekingsuitkeringen en een attest van de behandelend geneesheer van de persoon die de palliatieve zorgen nodig heeft. Daaruit moet blijken dat de arrondissementscommissaris zich bereid heeft verklaard deze palliatieve zorgen te verstrekken.<br /><br />Dit attest vermeldt de identiteit van de patiënt niet.
+De arrondissementscommissaris heeft recht op voltijdse of halftijdse loopbaanonderbreking om palliatieve verzorging te verstrekken. De duur van de voltijdse en halftijdse loopbaanonderbreking om palliatieve verzorging te verstrekken bedraagt één maand, eenmaal verlengbaar met één maand. Bij verlenging met een maand kan de opnamevorm worden gewijzigd.
 
 ## HOOFDSTUK 3 [BIJSTAND AAN OF VERZORGING VAN EEN ZWAAR ZIEK GEZINS- OF FAMILIELID (ver. BVR 9 september 2011, art. 1)]
 
 ### ART. 64.
 
-De loopbaanonderbreking om palliatieve zorgen te verstrekken kan ingaan op een andere dag dan de eerste van de maand.
+§ 1. De arrondissementscommissaris heeft recht op voltijdse of halftijdse loopbaanonderbreking voor bijstand aan of verzorging van een zwaar ziek gezins- of familielid.<br /><br />De maximumduur per patiënt bedraagt voor de voltijdse loopbaanonderbreking 12 maanden en voor de halftijdse loopbaanonderbreking 24 maanden. <br /><br />Als de arrondissementscommissaris uitsluitend en effectief samenwoont met minstens één kind en het verlof opneemt voor de bijstand aan een zwaar ziek kind van hoogstens 16 jaar, dan bedraagt de maximumduur van de voltijdse loopbaanonderbreking evenwel 24 maanden, en van de halftijdse loopbaanonderbreking 48 maanden.<br /><br />§ 2. De voltijdse en halftijdse loopbaanonderbreking voor de bijstand aan of de verzorging van een zwaar ziek gezins- of familielid kan worden genomen in al dan niet opeenvolgende perioden van minimaal één en maximaal drie maanden. De arrondissementscommissaris kan, bij elke nieuwe periode van loopbaanonderbreking voor de bijstand aan of de verzorging van een zwaar ziek gezins- of familielid veranderen van opnamevorm, overeenkomstig het principe dat één maand voltijdse loopbaanonderbreking gelijkstaat met twee maanden halftijdse loopbaanonderbreking. Het equivalent van, naargelang van het geval, 12 of 24 maanden voltijdse loopbaanonderbreking mag evenwel niet worden overschreden.<br /><br />§ 3. Het equivalent van de 12 of 24 maanden voltijdse loopbaanonderbreking wordt verminderd met de duur van de voltijdse of halftijdse loopbaanonderbrekingen die de arrondissementscommissaris in om het even welke hoedanigheid bij dezelfde of een andere werkgever voor dezelfde patiënt heeft genoten.
 
 ## HOOFDSTUK 4 [OUDERSCHAPSVERLOF (verv. BVR 9 september 2011, art. 1)]
 
 ### ART. 65.
 
-§ 1. De maximumduur van de voltijdse loopbaanonderbreking voor bijstand aan of verzorging van een zwaar ziek gezins- of familielid bedraagt per patiënt 12 maanden; de maximumduur van de halftijdse loopbaanonderbreking voor bijstand aan of verzorging van een zwaar ziek gezins- of familielid per patiënt bedraagt 24 maanden.<br /><br />De maximumduur van 12 maanden of 24 maanden wordt evenwel verminderd met de duur van de voltijdse respectievelijk halftijdse loopbaanonderbrekingen die de arrondissementscommissaris als personeelslid van dezelfde of een andere werkgever heeft genoten voor de bijstand aan of verzorging van dezelfde patiënt.<br /><br />§ 2. De arrondissementscommissaris kan de loopbaanonderbreking voor bijstand aan of verzorging van een zwaar ziek gezins- of familielid nemen met al dan niet opeenvolgende perioden van 1 tot 3 maand.<br /><br />§ 3. Onder "zware ziekte" wordt begrepen elke ziekte of medische ingreep die door de behandelende arts als dusdanig wordt beschouwd, en waarbij deze oordeelt dat elke vorm van sociale, familiale of emotionele bijstand of verzorging noodzakelijk is voor het herstel.<br /><br />§ 4. Onder "gezinslid" wordt begrepen elke persoon die samenwoont met de arrondissementscommissaris.<br /><br />Onder "familielid" wordt begrepen zowel de bloed- als de aanverwant tot de 2e graad.
+§ 1. Elke arrondissementscommissaris heeft recht op loopbaanonderbreking voor ouderschapsverlof, waarvan de duur : <br />1° in geval van voltijdse loopbaanonderbreking, drie maanden per kind bedraagt, op te nemen in periodes van één maand of een veelvoud daarvan;<br />2° in geval van halftijdse loopbaanonderbreking, zes maanden per kind bedraagt, op te nemen in periodes van twee maanden, of een veelvoud daarvan;<br />3° in geval van loopbaanonderbreking met een vijfde, vijftien maanden per kind bedraagt, op te nemen in periodes van vijf maanden of een veelvoud daarvan. <br /><br />§ 2. De arrondissementscommissaris heeft de mogelijkheid om bij ouderschapsverlof in de vorm van loopbaanonderbreking te veranderen van opnamevorm. Het reeds opgenomen ouderschapsverlof wordt in dat geval aangerekend overeenkomstig het principe dat één maand voltijdse loopbaanonderbreking gelijkstaat aan twee maanden halftijdse loopbaanonderbreking en aan vijf maanden loopbaanonderbreking met een vijfde. <br /><br />§ 3. De mannelijke arrondissementscommissaris heeft alleen recht op ouderschapsverlof in de vorm van loopbaanonderbreking als de afstamming van het kind in zijnen hoofde vaststaat, of als het gaat om een kind dat door hem werd geadopteerd.
 
 ### ART. 66.
 
-De arrondissementscommissaris die loopbaanonderbreking neemt om een zwaar ziek gezins- of familielid bij te staan of te verzorgen, deelt dit schriftelijk mee aan de provinciegouverneur. Hierbij voegt hij het aanvraagformulier voor onderbrekingsuitkeringen en een attest van de geneesheer van de persoon die de bijstand of verzorging behoeft. Daaruit moet blijken dat de arrondissementscommissaris zich bereid heeft verklaard om deze bijstand of verzorging te verstrekken. Dit attest vermeldt ook de identiteit van de patiënt.
+Bij geboorte moet het ouderschapsverlof in de vorm van loopbaanonderbreking een aanvang hebben genomen voor het kind zes jaar is.<br /><br />Bij adoptie moet het ouderschapsverlof in de vorm van loopbaanonderbreking opgenomen worden binnen een periode van 4 jaar, die loopt vanaf de inschrijving van het kind als lid van het gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar de arrondissementscommissaris zijn verblijfplaats heeft, uiterlijk tot het kind 8 jaar wordt.<br /><br />Als het kind voor minstens 66 % getroffen is door een vermindering van lichamelijke of geestelijke geschiktheid in de zin van de kinderbijslagregeling, wordt het recht op ouderschapsverlof toegekend uiterlijk tot het kind 8 jaar wordt.
 
 ## [HOOFDSTUK 5 ONDERBREKINGSUITKERINGEN (ing. BVR 9 september 2011, art. 1)]
 
 ### ART. 67.
 
-De loopbaanonderbreking om bijstand of verzorging te verstrekken aan een zwaar ziek gezins- of familielid kan op om het even welke dag van de maand ingaan.
+De arrondissementscommissaris die zijn loopbaan onderbreekt, krijgt onderbrekingsuitkeringen overeenkomstig de federale bepalingen.<br /> <br />Als aan de arrondissementscommissaris onderbrekingsuitkeringen worden geweigerd als gevolg van een beslissing van de directeur van het werkloosheidsbureau, dat bevoegd is voor zijn verblijfplaats, of als hij afziet van die uitkeringen, wordt de loopbaanonderbreking omgezet in non-activiteit, behalve voor de uitzonderingen die bepaald zijn door de federale overheid.
 
 ### ART. 68.
 
-§ 1. De duur van het ouderschapsverlof onder de vorm van voltijdse loopbaanonderbreking bedraagt 3 maanden, die van het ouderschapsverlof onder de vorm van halftijdse loopbaanonderbreking 6 maanden.<br /><br />§ 2. Bij geboorte van een kind moet de arrondissementscommissaris het ouderschapsverlof onder de vorm van loopbaanonderbreking opnemen voor het kind 4 jaar is.<br /><br />Bij adoptie moet de arrondissementscommissaris het ouderschapsverlof onder de vorm van loopbaanonderbreking opnemen binnen een periode van 4 jaar die loopt vanaf de inschrijving van het kind als lid van het gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar de arrondissementscommissaris zijn verblijfplaats heeft, en dit uiterlijk tot het kind 8 jaar wordt.<br /><br />Wanneer het kind voor minstens 66 % getroffen is door een vermindering van lichamelijke of geestelijke geschiktheid in de zin van de kinderbijslagregeling, krijgt de arrondissementscommissaris het recht op ouderschapsverlof uiterlijk tot het kind 8 jaar wordt.<br /><br />§ 3. De arrondissementscommissaris die voor hetzelfde kind al onder dezelfde of een andere vorm ouderschapsverlof heeft genoten als ambtenaar of contractueel personeelslid van dezelfde of een andere werkgever, kan voor dit kind geen ouderschapsverlof onder de vorm van loopbaanonderbreking meer krijgen.
+...
 
 ### ART. 69.
 
-De arrondissementscommissaris kan ouderschapsverlof onder de vorm van loopbaanonderbreking nemen onmiddellijk na het bevallings-, het vaderschaps- of het opvangverlof.
+...
 
 ### ART. 70.
 
-De mannelijke arrondissementscommissaris heeft alleen recht op ouderschapsverlof onder de vorm van loopbaanonderbreking voor zover de afstamming van het kind in zijnen hoofde vaststaat, of wanneer het gaat om een kind dat hij heeft geadopteerd.
+...
 
 ### ART. 71.
 
-Indien de arrondissementscommissaris geen recht heeft op onderbrekingsuitkeringen als gevolg van een beslissing van de directeur van het werkloosheidsbureau bevoegd voor zijn verblijfplaats, of afziet van deze uitkeringen, wordt de loopbaanonderbreking omgezet in non-activiteit behalve voor de uitzonderingen die de federale overheid bepaalt.
+...
 
 ## TITEL 6 VERLOF VOOR OPDRACHT
 
