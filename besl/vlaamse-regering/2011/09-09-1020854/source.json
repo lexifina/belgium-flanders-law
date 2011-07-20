@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020854,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-09 tot wijziging van het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de arrondissementscommissarissen en de adjunct-arrondissementscommissaris, wat betreft de mogelijkheden tot het nemen van loopbaanonderbreking",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020854/VolledigDocument?datum=2011-07-20",
+  "source_sha256": "d5867e07f225f9b1d6de2294e6d2ce5af6f44e01f42cd16a02a50e34eb73294f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020854&param=informatie",
+  "as_of": "2011-07-20",
+  "made": "2011-09-09",
+  "gazette": "2011-10-21",
+  "numac": 2011205216,
+  "document_start": "2011-07-20",
+  "document_end": null,
+  "in_force": "2011-07-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
