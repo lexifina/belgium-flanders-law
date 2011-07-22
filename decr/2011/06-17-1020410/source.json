@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020410,
+  "title": "Decreet van 2011-06-17 tot bekrachtiging van het besluit van de Vlaamse Regering van 18 maart 2011 tot ontvankelijkheid en gelijkwaardigheid van een aanvraag tot afwijking van de eindtermen en ontwikkelingsdoelen voor het basis- en secundair onderwijs",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020410/VolledigDocument?datum=2011-07-22",
+  "source_sha256": "5a958d29a5cea7986d0b54b22105d01042e6cbbb6824fa3978c11d206673116a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020410&param=informatie",
+  "as_of": "2011-07-22",
+  "made": "2011-06-17",
+  "gazette": "2011-07-12",
+  "numac": 2011203449,
+  "document_start": "2011-07-12",
+  "document_end": null,
+  "in_force": "2011-07-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
