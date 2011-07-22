@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020415,
+  "title": "Decreet van 2011-06-17 houdende wijziging van het decreet van 1 juni 2001 houdende toekenning van een klachtrecht ten aanzien van bestuursinstellingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020415/VolledigDocument?datum=2011-07-22",
+  "source_sha256": "ff0a7b6d1d60713f7b8a4f0b0749862d4dbb74983754c02f78e84ef8e8af9f69",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020415&param=informatie",
+  "as_of": "2011-07-22",
+  "made": "2011-06-17",
+  "gazette": "2011-07-12",
+  "numac": 2011203441,
+  "document_start": "2011-07-22",
+  "document_end": null,
+  "in_force": "2011-07-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
