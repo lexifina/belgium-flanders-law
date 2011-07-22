@@ -266,9 +266,117 @@ In artikel 16.4.14 van hetzelfde decreet, ingevoegd bij het decreet van 21 decem
 
 Artikel 16.4.18 van hetzelfde decreet, ingevoegd bij het decreet van 21 december 2007, wordt paragraaf 4 vervangen door wat volgt :<br /><br />« § 4. Tegen de weigering om een bestuurlijke maatregel op te leggen kunnen de personen, vermeld in paragraaf 1, beroep indienen bij de minister. Binnen een termijn van zestig dagen na de ontvangst van het beroep doet de minister erover uitspraak. »
 
+### ART. 61.
+
+In hoofdstuk IV. Bestuurlijke Handhaving van hetzelfde decreet, ingevoegd bij het decreet van 21 december 2007, worden :<br /><br />1° de woorden « Afdeling III. Bestuurlijke geldboeten » vervangen door de woorden « Afdeling III. Het Milieuhandhavingscollege »;<br /><br />2° de woorden « Onderafdeling 1. Milieuhandhavingscollege » vervangen door de woorden « Onderafdeling 1. Algemene bepalingen »;<br /><br />3° de woorden « A. Algemene bepalingen » opgeheven;<br /><br />4° de woorden « B. Samenstelling » vervangen door de woorden « Onderafdeling II. Samenstelling »;<br /><br />5° de woorden « C. Werking » vervangen door de woorden « Onderafdeling III. Werking »;<br /><br />6° voor de woorden « Onderafdeling II. Basisbepalingen » de woorden « Afdeling IV. De Bestuurlijke geldboeten » ingevoegd;<br /><br />7° de woorden « Onderafdeling II. Basisbepalingen » vervangen door de woorden « Onderafdeling I. Basisbepalingen »;<br /><br />8° de woorden « Onderafdeling III. Oplegging van een alternatieve bestuurlijke geldboete » vervangen door de woorden « Onderafdeling II. Oplegging van een alternatieve bestuurlijke geldboete »;<br /><br />9° de woorden « Onderafdeling III. Oplegging van een exclusieve bestuurlijke geldboete » vervangen door de woorden « Onderafdeling IV. Oplegging van een exclusieve bestuurlijke geldboete »;<br /><br />10° de woorden « Onderafdeling V. Beroep bij het Milieuhandhavingscollege » vervangen door de woorden « Afdeling V. Zitting en uitspraak van het Milieuhandhavingscollege »;<br /><br />11° de woorden « A. Bijstand en vertegenwoordiging » opgeheven;<br /><br />12° het woord « B. Aanhangigmaking » opgeheven;<br /><br />13° het woord « C. Termijnen » opgeheven;<br /><br />14° de woorden « D. Samenstelling van het dossier » opgeheven;<br /><br />15° het woord « E. Onderzoek » opgeheven;<br /><br />16° de woorden « F. Zitting en uitspraak » opgeheven. »
+
+### ART. 62.
+
+In artikel 16.4.19 van hetzelfde decreet, ingevoegd bij het decreet van 21 december 2007 en gewijzigd bij het decreet van 30 april 2009, worden de volgende wijzigingen aangebracht :<br /><br />1° aan paragraaf 1 wordt een derde lid toegevoegd, dat luidt als volgt :<br />« Het Milieuhandhavingscollege kan zijn werkzaamheden organiseren in twee kamers, die elk uit drie bestuursrechters bestaan. »;<br /><br />2° paragraaf 2 wordt vervangen door wat volgt :<br />« § 2. Het Milieuhandhavingscollege doet uitspraak over de beroepen die worden ingesteld tegen beslissingen van de gewestelijke entiteit over de oplegging van een alternatieve of een exclusieve bestuurlijke geldboete, en, in voorkomend geval, een voordeelontneming. »;<br /><br />3° paragraaf 3 wordt vervangen door wat volgt :<br />« § 3. De behandeling van het beroep door het Milieuhandhavingscollege leidt tot één van de volgende uitspraken : <br />1° onbevoegdverklaring van het Milieuhandhavingscollege;<br />2° vaststelling van de onontvankelijkheid van het beroep;<br />3° ongegrondverklaring van het beroep;<br />4° gegrondverklaring van het beroep. »;<br /><br />4° er wordt een paragraaf 4 toegevoegd, die luidt als volgt :<br />« § 4. Als het Milieuhandhavingscollege het beroep gegrond verklaart, vernietigt het de bestreden beslissing geheel of gedeeltelijk. Het kan daarenboven zelf een beslissing nemen over het bedrag van de boete en, in voorkomend geval, over de voordeelontneming, en bepalen dat zijn uitspraak daarover de vernietigde beslissing vervangt. »
+
 ### ART. 63.
 
 Artikel 16.4.21 van hetzelfde decreet, ingevoegd bij het decreet van 27 december 2007, wordt vervangen door wat volgt :<br /><br />« Art. 16.4.21. § 1. Het Milieuhandhavingscollege is samengesteld uit de volgende bestuursrechters :<br />1° een voorzitter en een ondervoorzitter;<br />2° vier effectieve en vier plaatsvervangende bestuursrechters.<br /><br />De ambten van voorzitter, ondervoorzitter en effectieve bestuursrechter zijn voltijdse mandaten en zijn onverenigbaar met de uitoefening van om het even welke andere bezoldigde beroepsactiviteit of functie, en met de uitoefening van om het even welk ander mandaat. In afwijking daarvan kan de Vlaamse Regering, na advies van de voorzitter van het Milieuhandhavingscollege, de uitoefening van aanvullende beroepsactiviteiten, functies of mandaten toestaan, als die verenigbaar zijn met de uitoefening van een mandaat in het Milieuhandhavingscollege.<br /><br />§ 2. Het niet-geïndexeerde jaarsalaris, hierna salaris te noemen, van de voorzitter, de ondervoorzitter en de bestuursrechters wordt vastgesteld op grond van de bedragen, vermeld in de lijst van salarisschalen, opgenomen in bijlage V, die bij dit decreet is gevoegd :<br />1° voorzitter : M4;<br />2° ondervoorzitter : M3;<br />3° effectieve en plaatsvervangende bestuursrechters : M2;<br /><br />Het salaris bestaat uit :<br />1° een minimumsalaris;<br />2° salaristrappen, die het resultaat zijn van periodieke salarisverhogingen;<br />3° een maximumsalaris.<br /><br />Het salaris en de periodieke salarisverhogingen worden uitgedrukt in euro.<br /><br />§ 3. De voorzitter, de ondervoorzitter en de bestuursrechters ontvangen in hun schaal op elk moment het salaris dat overeenstemt met hun anciënniteit die het totaal van de in aanmerking komende diensten uitmaakt.<br /><br />De diensten en de ervaring van de voorzitter, de ondervoorzitter en de bestuursrechters worden in aanmerking genomen voor de berekening van hun geldelijke anciënniteit zoals voor de personeelsleden van de diensten van de Vlaamse overheid.<br /><br />§ 4. In afwijking van paragraaf 3, tweede lid, wordt de valorisatie van functierelevante ervaring uit de privésector begrensd tot tien jaar.<br /><br />De Vlaamse Regering beslist over de functierelevantie van de ervaring.<br /><br />§ 5. Boven op het salaris, vermeld in paragraaf 2, ontvangen de voorzitter, de ondervoorzitter en de bestuursrechters een weddebijslag van 589 euro tegen 100 % per jaar, telkens na twaalf, vijftien en achttien jaar ambtsuitoefening.<br /><br />De bijslag, vermeld in het eerste lid, wordt toegekend vanaf de eerste dag van de maand die volgt op de maand waarin het vereiste aantal jaren ambtsuitoefening werd bereikt.<br /><br />§ 6. Voor de betaling van het salaris en de weddebijslag gelden dezelfde regels als de regels vermeld in het Vlaams personeelsstatuut.<br /><br />De plaatsvervangende bestuursrechters ontvangen hun volledig maandsalaris en weddebijslag, vermeld in paragraaf 5, enkel indien zij in de betrokken maand op vraag van de voorzitter volledige arbeidsprestaties ten behoeve van het Milieuhandhavingscollege hebben verricht.<br /><br />Als het maandsalaris niet volledig verschuldigd is, wordt het bedrag van het maandloon berekend volgens de volgende formule M VW/PW x NM, waarbij :<br />1° M = het te betalen maandloon (100 %);<br />2° VW = het aantal gepresteerde werkdagen;<br />3° PW = het aantal werkdagen dat in de betrokken maand kan gepresteerd worden;<br />4° NM = het normale maandsalaris (100 %) = het jaarsalaris/12 (100 % en voor voltijdse prestaties).<br /><br />§ 7. De voorzitter, de ondervoorzitters en de bestuursrechters hebben recht op de volgende toelagen, vergoedingen en sociale voordelen, vermeld in het Vlaams personeelsstatuut :<br />1° vakantiegeld en een eindejaarstoelage, zoals vastgesteld voor de personeelsleden van rang A2 en hoger;<br />2° een reis- en maaltijdvergoeding;<br />3° sociale voordelen.<br /><br />In afwijking van het eerste lid, 3°, hebben de plaatsvervangende bestuursrechters geen recht op maaltijdcheques.<br /><br />§ 8. Artikel VII 83, § 1, tweede lid, van het Vlaams personeelsstatuut van 13 januari 2006 is niet van toepassing op de plaatsvervangende bestuursrechters.<br /><br />§ 9. De Vlaamse Regering bepaalt de criteria waaraan de bestuursrechters van het Milieuhandhavingscollege bij de aanwijzing moeten beantwoorden, en kan ook hun verder geldelijk en administratief statuut regelen.<br /><br />§ 10. De Vlaamse Regering benoemt de bestuursrechters van het Milieuhandhavingscollege, na advies van de Vlaamse Hoge Raad voor de Milieuhandhaving. Hun mandaat heeft een duur van zes jaar, en is hernieuwbaar.<br /><br />Uiterlijk negentig dagen voor hun mandaat verstreken is als bestuursrechter van het Milieuhandhavingscollege, kan de Vlaamse Regering beslissen om het mandaat van een bestuursrechter van het Milieuhandhavingscollege niet te verlengen.<br /><br />De beslissing mag niet indruisen tegen de onafhankelijkheid van het Milieuhandhavingscollege of van de individuele bestuursrechters ervan, noch betrekking hebben op de inhoudelijke aspecten van de door het Milieuhandhavingscollege genomen beslissingen.<br /><br />Als de Vlaamse Regering uiterlijk negentig dagen voor het mandaat verstrijkt geen beslissing neemt om het mandaat niet te verlengen, wordt het mandaat stilzwijgend verlengd.<br /><br />§ 11. Van zodra ze zijn benoemd, leggen de bestuursrechters een eed af. De Vlaamse Regering bepaalt de eedformule alsook de verdere regels met betrekking tot de eedaflegging.<br /><br />De bestuursrechters kunnen op ieder moment ontslag nemen. Ambtshalve wordt een einde gesteld aan het mandaat van de bestuursrechters op hun vijfenzestigste verjaardag. De Vlaamse Regering kan de bestuursrechter in het belang van de werking van het Milieuhandhavingscollege en op zijn gemotiveerd verzoek toestaan om in dienst te blijven tot maximaal de einddatum van het lopende mandaat.<br /><br />De bestuursrechters kunnen alleen door het Milieuhandhavingscollege worden ontzet uit hun ambt of daarin worden geschorst in geval van grove nalatigheid of kennelijk wangedrag. Het mandaat kan ook beëindigd worden als een bestuursrechter niet meer in staat is zijn ambt naar behoren te vervullen wegens zware en blijvende gebrekkigheid. De Vlaamse Regering stelt daarvoor de nadere regels vast.<br /><br />Totdat in hun vervanging is voorzien, blijven de bestuursrechters hun functie uitoefenen bij :<br />1° het aflopen van hun mandaat;<br />2° zelf genomen ontslag. »
+
+### ART. 64.
+
+Artikel 16.4.24 van hetzelfde decreet, ingevoegd bij het decreet van 21 december 2007, wordt vervangen door wat volgt :<br /><br />« Art.16.4.24. Het Milieuhandhavingscollege stelt zijn huishoudelijk reglement op. Dat reglement en de wijzigingen erin worden ter bekrachtiging aan de Vlaamse Regering voorgelegd.<br /><br />De Vlaamse Regering kan de verdere regels vaststellen voor de organisatie en de werking van het Milieuhandhavingscollege.<br /><br />De Vlaamse Regering stelt de verdere regels vast voor de vorm en de ontvankelijkheid van de beroepen en voor de rechtspleging voor het Milieuhandhavingscollege, met inbegrip van regels voor een vereenvoudigde rechtspleging in geval van klaarblijkelijke onbevoegdheid, onontvankelijkheid, ongegrondheid of gegrondheid van de beroepen. »
+
+### ART. 65.
+
+In artikel 16.4.25 van hetzelfde decreet, ingevoegd bij het decreet van 21 december 2007, wordt het tweede lid vervangen door wat volgt :<br /><br />« Een opgelegde bestuurlijke geldboete wordt vermeerderd met de opdeciemen die van toepassing zijn voor de strafrechtelijke geldboeten. Eventueel kunnen bij een bestuurlijke geldboete ook de expertisekosten worden gevoegd die de gewestelijke entiteit heeft moeten maken om zijn besluit te kunnen nemen. »<br />
+
+### ART. 66.
+
+Artikel 16.4.39 van hetzelfde decreet, ingevoegd bij het decreet van 21 december 2007, wordt vervangen door wat volgt :<br /><br />« Art. 16.4.39. Tegen de beslissing waarbij de gewestelijke entiteit een alternatieve bestuurlijke geldboete oplegt, in voorkomend geval met voordeelontneming, kan degene aan wie de boete werd opgelegd beroep indienen bij het Milieuhandhavingscollege. Het beroep schorst de bestreden beslissing. »
+
+### ART. 67.
+
+Artikel 16.4.44 van hetzelfde decreet, ingevoegd bij het decreet van 21 december 2007, wordt vervangen door wat volgt :<br /><br />« Art. 16.4.44. Tegen de beslissing waarbij de gewestelijke entiteit een exclusieve bestuurlijke geldboete oplegt, in voorkomend geval met voordeelontneming, kan degene aan wie de boete werd opgelegd, beroep indienen bij het Milieuhandhavingscollege. Het beroep schorst de bestreden beslissing. »
+
+### ART. 68.
+
+Artikel 16.4.45 van hetzelfde decreet wordt opgeheven.
+
+### ART. 69.
+
+Artikel 16.4.46 van hetzelfde decreet wordt opgeheven.
+
+### ART. 70.
+
+Artikel 16.4.47 van hetzelfde decreet wordt opgeheven.
+
+### ART. 71.
+
+Artikel 16.4.48 van hetzelfde decreet wordt opgeheven.
+
+### ART. 72.
+
+Artikel 16.4.49 van hetzelfde decreet wordt opgeheven.
+
+### ART. 73.
+
+Artikel 16.4.50 van hetzelfde decreet wordt opgeheven.
+
+### ART. 74.
+
+Artikel 16.4.51 van hetzelfde decreet wordt opgeheven.
+
+### ART. 75.
+
+Artikel 16.4.52 van hetzelfde decreet wordt opgeheven.
+
+### ART. 76.
+
+Artikel 16.4.53 van hetzelfde decreet wordt opgeheven.
+
+### ART. 77.
+
+Artikel 16.4.54 van hetzelfde decreet wordt opgeheven.
+
+### ART. 78.
+
+Artikel 16.4.55 van hetzelfde decreet wordt opgeheven.
+
+### ART. 79.
+
+Artikel 16.4.56 van hetzelfde decreet wordt opgeheven.
+
+### ART. 80.
+
+Artikel 16.4.57 van hetzelfde decreet wordt opgeheven.
+
+### ART. 81.
+
+Artikel 16.4.58 van hetzelfde decreet wordt opgeheven.
+
+### ART. 82.
+
+Artikel 16.4.59 van hetzelfde decreet wordt opgeheven.
+
+### ART. 83.
+
+Artikel 16.4.60 van hetzelfde decreet wordt opgeheven.
+
+### ART. 84.
+
+Artikel 16.4.61 van hetzelfde decreet wordt opgeheven.
+
+### ART. 85.
+
+Artikel 16.4.62 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Art. 16.4.62. Het Milieuhandhavingscollege beraadslaagt en beslist bij tweederde meerderheid achter gesloten deuren over zijn arresten. »
+
+### ART. 86.
+
+Artikel 16.4.63 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Art. 16.4.63. § 1. Het Milieuhandhavingscollege spreekt zijn arresten uit in openbare zitting.<br />Elk arrest is gemotiveerd en bevat een beschikkend gedeelte. Het vermeldt :<br />1° de namen van de partijen en van hun raadslieden;<br />2° de namen van de bestuursrechters die het arrest hebben gewezen;<br />3° de dag waarop het arrest in openbare zitting is uitgesproken;<br />4° in voorkomend geval, de beslissing dat het arrest wordt bekendgemaakt op de wijze die het bepaalt.<br /><br />§ 2. De voorzitter of de ondervoorzitter, en de griffier of de adjunct-griffier, ondertekenen het arrest. Bij verhindering van de voorzitter en de ondervoorzitter ondertekent de oudste effectieve bestuursrechter die het arrest mee heeft gewezen. »
+
+### ART. 87.
+
+Artikel 16.4.64 van hetzelfde decreet wordt opgeheven.
+
+### ART. 88.
+
+Artikel 16.4.65 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Art. 16.4.65. Het Milieuhandhavingscollege zorgt voor een geanonimiseerde publicatie van de arresten op zijn website. Onder het gezag van het Milieuhandhavingscollege zorgt het Departement Leefmilieu, Natuur en Energie van de Vlaamse overheid voor de publicatie van een jaarverslag. »
 
 ### ART. 89.
 
