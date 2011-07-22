@@ -8,7 +8,7 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt onder bestuursinstelling verstaan de diensten van de Vlaamse regering en de instellingen, bedoeld in artikel 9 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen die ressorteren onder de Vlaamse Gemeenschap of het Vlaamse Gewest.
+In dit decreet wordt onder bestuursinstelling verstaan de Vlaamse administratie en de overige instellingen, bedoeld in artikel 9 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen die ressorteren onder de Vlaamse Gemeenschap of het Vlaamse Gewest.
 
 ### ART. 3.
 
@@ -16,7 +16,7 @@ Iedereen heeft het recht om kosteloos een klacht in te dienen bij een bestuursin
 
 ### ART. 4.
 
-De bestuursinstelling draagt zorg voor een behoorlijke behandeling van de mondelinge en schriftelijke klachten over haar handelingen en werking. De bestuursinstelling zet daartoe een klachtenvoorziening op. De Vlaamse regering kan, na verzoek van de bestuursinstelling, de instelling vrijstellen van de verplichting een klachtenvoorziening op te zetten.
+De bestuursinstelling draagt zorg voor een behoorlijke behandeling van de mondelinge en schriftelijke klachten over haar handelingen en werking. De bestuursinstelling zet daartoe een klachtenvoorziening op.
 
 ## HOOFDSTUK II DE BEHANDELING VAN KLACHTEN
 
@@ -50,7 +50,7 @@ De bestuursinstelling stelt de klager schriftelijk in kennis van de bevindingen 
 
 ### ART. 12.
 
-De bestuursinstelling brengt jaarlijks vóór [10 februari  <span class="reference">(verv. decr. 20 februari 2004, art. 2, I: 25 maart 2004)</span> ] een schriftelijk verslag uit bij de Vlaamse ombudsman, genoemd in artikel 2 van het decreet van 7 juli 1998 houdende instelling van de Vlaamse ombudsdienst, over de ingekomen klachten en de bevindingen van de behandeling van deze klachten. Dat verslag wordt ook opgenomen in het jaarverslag van de bestuursinstelling.
+De bestuursinstelling brengt jaarlijks vóór [10 februari  <span class="reference">(verv. decr. 20 februari 2004, art. 2, I: 25 maart 2004)</span> ] een schriftelijk verslag uit bij de Vlaamse ombudsman, genoemd in artikel 2 van het decreet van 7 juli 1998 houdende instelling van de Vlaamse ombudsdienst, over de ingekomen klachten en de bevindingen van de behandeling van deze klachten. Dat verslag wordt ook opgenomen in het jaarverslag van de bestuursinstelling.<br /><br />Voor wat de Vlaamse administratie betreft, wordt het schriftelijk verslag telkens globaal uitgebracht door het centraal punt van elk beleidsdomein.
 
 ### ART. 13.
 
