@@ -1894,7 +1894,7 @@ Tegen het besluit houdende bestuurlijke maatregelen kan de vermoedelijke overtre
 
 ### ART. 16.4.19.
 
-§ 1. Er wordt een Milieuhandhavingscollege opgericht.<br /><br />Het Milieuhandhavingscollege is een administratief rechtscollege als vermeld in artikel 161 van de Grondwet.<br /><br />§ 2. Het Milieuhandhavingscollege doet uitspraak over het beroep dat wordt ingesteld tegen een beslissing van de gewestelijke entiteit houdende de oplegging van een alternatieve of een exclusieve bestuurlijke geldboete. Daarbij oordeelt het Milieuhandhavingscollege of de beslissing van de gewestelijke entiteit in overeenstemming is met :<br />1° de bepalingen van deze titel;<br />2° de beginselen van behoorlijk bestuur.<br /><br />§ 3. De behandeling van het beroep door het Milieuhandhavingscollege leidt tot één van de volgende beslissingen :<br />1° de gemotiveerde afwijzing van het beroep op grond van de onontvankelijkheid of de ongegrondheid ervan. Die beslissing houdt de bevestiging in van de door de gewestelijke entiteit opgelegde bestuurlijke geldboete;<br />2° de gemotiveerde gegrondverklaring van het beroep. Die beslissing houdt een vermindering of kwijtschelding in van de door de gewestelijke entiteit opgelegde bestuurlijke geldboete;<br />3° bij niet-overeenstemming van de beslissing overeenkomstig § 2, de gemotiveerde vernietiging van de onrechtmatig genomen beslissing tot oplegging van een bestuurlijke geldboete. In dat geval kan het Milieuhandhavingscollege de gewestelijke entiteit bevelen om een nieuwe beslissing te nemen onder de door het Milieuhandhavingscollege te stellen voorwaarden. Die voorwaarden kunnen inhouden dat :<br />a) in afwachting van een nieuwe beslissing door de gewestelijke entiteit, de overtreder, gelet op de vernietiging van de onrechtmatig genomen beslissing, ontheven is van de verplichting, vermeld in artikel 16.4.25, om de initieel opgelegde bestuurlijke geldboete te betalen;<br />b) welbepaalde onregelmatige of onredelijke motieven bij de totstandkoming van de nieuwe beslissing niet worden betrokken;<br />c) welbepaalde regelmatige en redelijke motieven bij de totstandkoming van de nieuwe beslissing kennelijk in ogenschouw moeten worden genomen.
+§ 1. Er wordt een Milieuhandhavingscollege opgericht.<br /><br />Het Milieuhandhavingscollege is een administratief rechtscollege als vermeld in artikel 161 van de Grondwet.<br /><br />Het Milieuhandhavingscollege kan zijn werkzaamheden organiseren in twee kamers, die elk uit drie bestuursrechters bestaan.<br /><br />§ 2. Het Milieuhandhavingscollege doet uitspraak over de beroepen die worden ingesteld tegen beslissingen van de gewestelijke entiteit over de oplegging van een alternatieve of een exclusieve bestuurlijke geldboete, en, in voorkomend geval, een voordeelontneming.<br /><br />§ 3. De behandeling van het beroep door het Milieuhandhavingscollege leidt tot één van de volgende uitspraken : <br />1° onbevoegdverklaring van het Milieuhandhavingscollege;<br />2° vaststelling van de onontvankelijkheid van het beroep;<br />3° ongegrondverklaring van het beroep;<br />4° gegrondverklaring van het beroep. <br /><br />§ 4. Als het Milieuhandhavingscollege het beroep gegrond verklaart, vernietigt het de bestreden beslissing geheel of gedeeltelijk. Het kan daarenboven zelf een beslissing nemen over het bedrag van de boete en, in voorkomend geval, over de voordeelontneming, en bepalen dat zijn uitspraak daarover de vernietigde beslissing vervangt.
 
 ### ART. 16.4.20.
 
@@ -1918,7 +1918,7 @@ De Vlaamse Regering kan aan de leden van het Milieuhandhavingscollege op geen en
 
 ### ART. 16.4.24.
 
-Het Milieuhandhavingscollege kan een beroep doen op externe deskundigen om bijzondere vraagstukken te onderzoeken.<br /><br />Het Milieuhandhavingscollege stelt zijn huishoudelijk reglement op. Dat reglement en de wijzigingen erin worden ter goedkeuring aan de Vlaamse Regering voorgelegd.<br /><br />De Vlaamse Regering kan de verdere regels vaststellen voor de organisatie en de werking van het Milieuhandhavingscollege.
+Het Milieuhandhavingscollege stelt zijn huishoudelijk reglement op. Dat reglement en de wijzigingen erin worden ter bekrachtiging aan de Vlaamse Regering voorgelegd.<br /><br />De Vlaamse Regering kan de verdere regels vaststellen voor de organisatie en de werking van het Milieuhandhavingscollege.<br /><br />De Vlaamse Regering stelt de verdere regels vast voor de vorm en de ontvankelijkheid van de beroepen en voor de rechtspleging voor het Milieuhandhavingscollege, met inbegrip van regels voor een vereenvoudigde rechtspleging in geval van klaarblijkelijke onbevoegdheid, onontvankelijkheid, ongegrondheid of gegrondheid van de beroepen.
 
 ## [AFDELING IV DE BESTUURLIJKE GELDBOETEN (ing. decr. 23 december 2010, art. 61, I: 22 juli 2011)]
 
@@ -1926,7 +1926,7 @@ Het Milieuhandhavingscollege kan een beroep doen op externe deskundigen om bijzo
 
 ### ART. 16.4.25
 
-De bestuurlijke geldboete is een sanctie waarbij de gewestelijke entiteit een overtreder verplicht een geldsom te betalen.<br /><br />Een opgelegde bestuurlijke geldboete wordt vermeerderd met de opdeciemen die van toepassing zijn voor de strafrechtelijke geldboeten. Eventueel kunnen bij een bestuurlijke geldboete ook de expertisekosten worden gevoegd, die de gewestelijke entiteit heeft moeten maken om het bedrag van de bestuurlijke geldboete te bepalen, alsook de kosten voor het onderzoeken van bijzondere vraagstukken, vermeld in artikel 16.4.24.
+De bestuurlijke geldboete is een sanctie waarbij de gewestelijke entiteit een overtreder verplicht een geldsom te betalen.<br /><br />Een opgelegde bestuurlijke geldboete wordt vermeerderd met de opdeciemen die van toepassing zijn voor de strafrechtelijke geldboeten. Eventueel kunnen bij een bestuurlijke geldboete ook de expertisekosten worden gevoegd die de gewestelijke entiteit heeft moeten maken om zijn besluit te kunnen nemen.
 
 ### ART. 16.4.26.
 
@@ -1984,7 +1984,7 @@ De Vlaamse Regering kan de nadere regels bepalen voor de wijze waarop een dossie
 
 ### ART. 16.4.39.
 
-Tegen de beslissing waarbij de gewestelijke entiteit een alternatieve bestuurlijke geldboete oplegt, kan de overtreder schriftelijk beroep indienen bij het Milieuhandhavingscollege. Het beroep schorst de bestreden beslissing niet.
+Tegen de beslissing waarbij de gewestelijke entiteit een alternatieve bestuurlijke geldboete oplegt, in voorkomend geval met voordeelontneming, kan degene aan wie de boete werd opgelegd beroep indienen bij het Milieuhandhavingscollege. Het beroep schorst de bestreden beslissing.
 
 ## [Onderafdeling III Oplegging van een exclusieve bestuurlijke geldboete (verv. decr. 23 december 2010, art. 61, I: 22 juli 2011)]
 
@@ -2006,7 +2006,7 @@ Binnen een termijn van negentig dagen na de kennisgeving van het bericht beslist
 
 ### ART. 16.4.44.
 
-Tegen de beslissing waarbij de gewestelijke entiteit een exclusieve bestuurlijke geldboete oplegt, kan de overtreder schriftelijk beroep indienen bij het Milieuhandhavingscollege. Het beroep schorst de bestreden beslissing niet.
+Tegen de beslissing waarbij de gewestelijke entiteit een exclusieve bestuurlijke geldboete oplegt, in voorkomend geval met voordeelontneming, kan degene aan wie de boete werd opgelegd, beroep indienen bij het Milieuhandhavingscollege. Het beroep schorst de bestreden beslissing.
 
 ## AFDELING V [... (opgeh. decr. 8 juni 2018, art. 38, I: 12 juli 2018)]
 
@@ -2014,97 +2014,97 @@ Tegen de beslissing waarbij de gewestelijke entiteit een exclusieve bestuurlijke
 
 ### ART. 16.4.45.
 
-De partijen kunnen zich bij een procedure voor het Milieuhandhavingscollege laten bijstaan of vertegenwoordigen door een raadsman.<br />Uiterlijk op de zitting van het Milieuhandhavingscollege legt de raadsman een schriftelijke machtiging voor, behalve als hij :<br />1° ingeschreven is als advocaat of als advocaat-stagiair;<br />2° samen met de betrokken partij op de zitting verschijnt.
+...
 
 ## [... (opgeh. decr. 23 december 2010, art. 61, I: 22 juli 2011)]
 
 ### ART. 16.4.46.
 
-De beroepen tegen de beslissingen van de gewestelijke entiteit houdende de oplegging van een alternatieve of exclusieve bestuurlijke geldboete worden, op straffe van onontvankelijkheid, bij het Milieuhandhavingscollege ingediend binnen een termijn van dertig dagen. Die termijn gaat in op de dag die volgt op de kennisgeving van de beslissing van de gewestelijke entiteit.
+...
 
 ### ART. 16.4.47.
 
-De beroepen worden ingesteld door middel van een verzoekschrift. Het verzoekschrift wordt gedagtekend en, op straffe van onontvankelijkheid, ondertekend door de beroepsindiener of zijn raadsman.<br /><br />Het verzoekschrift vermeldt op straffe van onontvankelijkheid :<br />1° de naam en de woonplaats van de beroepsindiener. Als woonplaatskeuze wordt gedaan bij de raadsman van de beroepsindiener, wordt dat in het verzoekschrift aangegeven;<br />2° de beslissing van de gewestelijke entiteit die het voorwerp is van het beroep;<br />3° een omschrijving van de ingeroepen bezwaren;<br />4° een inventaris van de overtuigingsstukken.<br /><br />De beroepsindiener of zijn raadsman bezorgt het verzoekschrift per aangetekende brief of door afgifte tegen ontvangstbewijs aan de griffie van het Milieuhandhavingscollege. De griffie bezorgt hierop binnen vijf werkdagen een kopie van het verzoekschrift en de bijbehorende overtuigingsstukken hetzij per aangetekende brief, hetzij door afgifte tegen ontvangstbewijs, hetzij per telefax aan de gewestelijke entiteit.
+...
 
 ### ART. 16.4.48.
 
-De beroepsindiener of zijn raadsman voegt aan het verzoekschrift de overtuigingsstukken toe die hij nodig acht.<br /><br />Naderhand kan de beroepsindiener of zijn raadsman slechts aanvullende overtuigingsstukken aan het dossier laten toevoegen, voor zover die hem bij de opmaak van het verzoekschrift nog niet bekend waren. De beroepsindiener of zijn raadsman bezorgt in dat geval die aanvullende overtuigingsstukken per gewone brief aan de griffie van het Milieuhandhavingscollege.<br /><br />De griffie van het Milieuhandhavingscollege bezorgt op de wijze vermeld in artikel 16.4.47, derde lid, onmiddellijk een kopie van die aanvullende overtuigingsstukken aan de gewestelijke entiteit.
+...
 
 ### ART. 16.4.49.
 
-De griffier of de adjunct-griffier schrijft elk ingediend beroep in een register in.
+...
 
 ## [... (opgeh. decr. 23 december 2010, art. 61, I: 22 juli 2011)]
 
 ### ART. 16.4.50.
 
-De Vlaamse Regering stelt de termijnen vast waarbinnen de partijen hun memories, het administratieve dossier of de door de griffie van het Milieuhandhavingscollege gevraagde stukken of inlichtingen moeten indienen.
+...
 
 ## [... (opgeh. decr. 23 december 2010, art. 61, I: 22 juli 2011)]
 
 ### ART. 16.4.51.
 
-§ 1. Na de ontvangst van de kopie van het verzoekschrift stelt de gewestelijke entiteit het Milieuhandhavingscollege binnen de termijn, vermeld in artikel 16.4.50, en op de wijze, vermeld in artikel 16.4.47, derde lid, in het bezit van de stukken op grond waarvan de gewestelijke entiteit haar beslissing heeft genomen.<br /><br />Die stukken omvatten tenminste :<br />1° een afschrift van de processen-verbaal tot vaststelling van het milieumisdrijf, die geleid hebben tot de oplegging van een alternatieve bestuurlijke geldboete;<br />2° een afschrift van de verslagen van vaststelling tot vaststelling van de milieu-inbreuk, die geleid hebben tot de oplegging van een exclusieve bestuurlijke geldboete;<br />3° alle andere stukken en alle nuttige inlichtingen die relevant zijn voor de beoordeling van het verzoekschrift.<br /><br />De gewestelijke entiteit bundelt die stukken en neemt ze op in een inventaris.<br /><br />§ 2. Als de gewestelijke entiteit de stukken, vermeld in § 1, niet binnen de gestelde termijn heeft bezorgd aan het Milieuhandhavingscollege, kan ze door de voorzitter worden aangemaand om daartoe alsnog over te gaan binnen een door hem bepaalde termijn.<br /><br />Als de gewestelijke entiteit de stukken en inlichtingen niet of niet binnen de gestelde termijn overlegt, worden de door de beroepsindiener aangehaalde feiten als bewezen geacht, tenzij die feiten kennelijk onjuist zijn of worden tegengesproken door de door de beroepsindiener overgelegde overtuigingsstukken.
+...
 
 ### ART. 16.4.52.
 
-De griffie is onder het gezag van de voorzitter belast met de samenstelling van het dossier, dat naast de stukken, vermeld in artikel 16.4.51, § 1, ook de overtuigingsstukken bevat die de beroepsindiener bij zijn verzoekschrift heeft gevoegd.
+...
 
 ### ART. 16.4.53.
 
-Zodra het dossier is samengesteld, meldt de griffie dat via het meest gerede communicatiemiddel aan de partijen. De griffie geeft het lokaal aan waar de partijen of hun raadslieden het dossier kunnen inzien en er kopieën van kunnen krijgen.
+...
 
 ## [... (opgeh. decr. 23 december 2010, art. 61, I: 22 juli 2011)]
 
 ### ART. 16.4.54.
 
-De griffier of de adjunct-griffier bezorgt de partijen of hun raadslieden na de samenstelling van het dossier via het meest gerede communicatiemiddel :<br />1° een procedurekalender;<br />2° de datum, het uur en de plaats van de zitting van het Milieuhandhavingscollege;<br />3° de samenstelling van het Milieuhandhavingscollege.<br /><br />De procedurekalender, vermeld in het eerste lid, legt de termijnen vast waarbinnen de partijen hun memories van antwoord en wederantwoord, alsmede de laatste memorie, moeten indienen.
+...
 
 ### ART. 16.4.55.
 
-Binnen de termijn, vermeld in artikel 16.4.50, dient de gewestelijke entiteit een memorie van antwoord in.<br /><br />De voorzitter van het Milieuhandhavingscollege kan bij beschikking de termijn, vermeld in het eerste lid, verlengen.
+...
 
 ### ART. 16.4.56.
 
-Hierop stelt het Milieuhandhavingscollege de beroepsindiener in de gelegenheid om te repliceren door middel van een memorie van wederantwoord. Dat moet gebeuren binnen de termijn, vermeld in artikel 16.4.50.<br /><br />Maakt de beroepsindiener gebruik van de mogelijkheid, vermeld in het eerste lid, dan wordt de gewestelijke entiteit in de gelegenheid gesteld om binnen de termijn, vermeld in artikel 16.4.50, schriftelijk te repliceren door middel van een laatste memorie.
+...
 
 ### ART. 16.4.57.
 
-Het Milieuhandhavingscollege kan de partijen oproepen om in persoon of bij vertegenwoordiging te verschijnen om te worden gehoord, al dan niet voor het geven van inlichtingen. Als niet alle partijen worden opgeroepen, wordt de niet-opgeroepen partij in de gelegenheid gesteld de hoorzitting bij te wonen en een uiteenzetting over de zaak te geven.<br /><br />De griffier stelt een proces-verbaal op van de hoorzitting, dat de voorzitter van het Milieuhandhavingscollege en de griffier samen ondertekenen.
+...
 
 ### ART. 16.4.58.
 
-De partijen kunnen schriftelijk en op gemotiveerde wijze de voorzitter van het Milieuhandhavingscollege verzoeken om getuigen op te roepen en te ondervragen.<br /><br />De partijen of hun raadslieden worden uitgenodigd om het horen van de getuigen bij te wonen. De griffie van het Milieuhandhavingscollege deelt de naam en woonplaats van de getuigen, de plaats en het tijdstip waarop die zullen worden gehoord en de feiten waarop de hoorzitting betrekking zal hebben, tenminste één week vooraf aan de partijen en hun raadslieden mee.
+...
 
 ### ART. 16.4.59.
 
-§ 1. De partijen of hun raadslieden kunnen een of meer leden van het Milieuhandhavingscollege schriftelijk en op gemotiveerde wijze wraken vóór de aanvang van de zitting, tenzij de reden tot wraking later is ontstaan. De voorzitter of, als deze wordt gewraakt, de ondervoorzitter doet onmiddellijk uitspraak over het verzoek tot wraking. Als het verzoek wordt ingewilligd, neemt de plaatsvervangende bijzitter de plaats in van de gewraakte bijzitter.<br /><br />Elk lid van het Milieuhandhavingscollege dat weet dat er een reden tot wraking tegen hem bestaat, moet zich van de zaak onthouden.<br /><br />§ 2. De redenen tot wraking zijn vermeld in artikelen 828, 829, tweede lid, en 830, van het Gerechtelijk Wetboek.
+...
 
 ## [... (opgeh. decr. 23 december 2010, art. 61, I: 22 juli 2011)]
 
 ### ART. 16.4.60.
 
-De voorzitter of, als hij verhinderd is, de ondervoorzitter, leidt de zitting.<br /><br />De zittingen zijn openbaar, behalve als de voorzitter, al dan niet op verzoek van de partijen of op verzoek van één partij, oordeelt dat er belangrijke redenen zijn om de zitting niet openbaar te houden.<br /><br />De behandeling geschiedt op tegenspraak. De partijen pleiten in elkaars aanwezigheid.<br /><br />De voorzitter ondervraagt zo nodig de getuigen die de partijen oproepen.<br /><br />De voorzitter sluit de debatten na de pleidooien en in voorkomend geval na de wederantwoorden.
+...
 
 ### ART. 16.4.61.
 
-Bij regelmatige oproeping belet de afwezigheid van de partijen of de afwezigheid van één partij de geldigheid van een zitting niet.
+...
 
 ### ART. 16.4.62.
 
-Het Milieuhandhavingscollege beraadslaagt en beslist bij tweederde meerderheid achter gesloten deuren over zijn uitspraken.<br /><br />Binnen een termijn van vijfenveertig dagen, die ingaat op de dag na de sluiting van de debatten, doet het Milieuhandhavingscollege uitspraak bij wijze van beslissing.<br /><br />In bijzondere omstandigheden kan het Milieuhandhavingscollege die termijn op gemotiveerde wijze met ten hoogste vijfenveertig dagen verlengen. De griffier of de adjunct-griffier deelt die verlenging mee aan de partijen.
+Het Milieuhandhavingscollege beraadslaagt en beslist bij tweederde meerderheid achter gesloten deuren over zijn arresten.
 
 ### ART. 16.4.63.
 
-§ 1. Het Milieuhandhavingscollege spreekt zijn beslissingen uit in openbare zitting. In zijn beslissingen doet het Milieuhandhavingscollege uitspraak op de grond van het verzoekschrift, de ingediende memories, de andere overgelegde stukken en het onderzoek op de zitting.<br /><br />§ 2. De beslissing vermeldt :<br />1° de namen van de partijen en van hun vertegenwoordigers of gemachtigden;<br />2° de motieven waarop de beslissing steunt;<br />3° de namen van de leden van het Milieuhandhavingscollege die de zaak hebben behandeld;<br />4° de dag waarop de beslissing is uitgesproken.<br /><br />Als de beslissing strekt tot de gegrondverklaring van het beroep, vermeld in artikel 16.4.19, § 3, 2°, of tot de vernietiging van de beslissing van de gewestelijke entiteit, vermeld in artikel 16.4.19, § 3, 3°, wordt in de beslissing opgenomen welke geschreven of ongeschreven rechtsregel of welk algemeen rechtsbeginsel als geschonden moet worden beoordeeld.<br /><br />De voorzitter of, als hij verhinderd is, de ondervoorzitter, en de griffier of, als hij verhinderd is, de adjunct-griffier ondertekenen de beslissing. Als de voorzitter of de griffier verhinderd zijn, wordt dat vermeld in de beslissing.<br /><br />§ 3. Het Milieuhandhavingscollege kan bevelen dat zijn beslissing op kosten van de overtreder wordt bekendgemaakt, op de wijze die het bepaalt.
+§ 1. Het Milieuhandhavingscollege spreekt zijn arresten uit in openbare zitting.<br /><br />Elk arrest is gemotiveerd en bevat een beschikkend gedeelte. Het vermeldt :<br />1° de namen van de partijen en van hun raadslieden;<br />2° de namen van de bestuursrechters die het arrest hebben gewezen;<br />3° de dag waarop het arrest in openbare zitting is uitgesproken;<br />4° in voorkomend geval, de beslissing dat het arrest wordt bekendgemaakt op de wijze die het bepaalt.<br /><br />§ 2. De voorzitter of de ondervoorzitter, en de griffier of de adjunct-griffier, ondertekenen het arrest. Bij verhindering van de voorzitter en de ondervoorzitter ondertekent de oudste effectieve bestuursrechter die het arrest mee heeft gewezen.
 
 ### ART. 16.4.64.
 
-Binnen een termijn van tien dagen na de dagtekening van de beslissing zendt de griffier kosteloos een afschrift van de beslissing naar de partijen.<br /><br />Andere personen dan de partijen kunnen afschriften of uittreksels van de beslissingen van het Milieuhandhavingscollege verkrijgen. Voor een afschrift of uittreksel kan een vergoeding worden gevraagd, waarvan de Vlaamse Regering het bedrag vaststelt. De vergoeding wordt gestort op de rekening van het Minafonds.
+...
 
 ### ART. 16.4.65.
 
-Onder het gezag van het Milieuhandhavingscollege zorgt het Vlaams Ministerie van Leefmilieu, Natuur en Energie voor een geanonimiseerde publicatie van de uitspraken op de website van het ministerie en in een jaarlijks verslagboek.
+Het Milieuhandhavingscollege zorgt voor een geanonimiseerde publicatie van de arresten op zijn website. Onder het gezag van het Milieuhandhavingscollege zorgt het Departement Leefmilieu, Natuur en Energie van de Vlaamse overheid voor de publicatie van een jaarverslag.
 
 ## [HOOFDSTUK V INNING EN INVORDERING VAN VERSCHULDIGDE BEDRAGEN (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
 
