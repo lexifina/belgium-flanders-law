@@ -18,11 +18,11 @@ Dit besluit is van toepassing op de beheerplannen van alle bossen, met uitzonder
 
 ### ART. 4.
 
-§ 1. Het beheerplan van een privé-bos, niet gelegen in het VEN, bevat de gegevens, vermeld in bijlage II.<br /><br />De opsteller van het beheerplan maakt hiervoor gebruik van de formulieren, opgenomen in bijlage III.<br /><br />§ 2. De beheerder van een privé-bos, niet gelegen in het VEN, kan op vrijwillige basis een beheerplan opstellen dat de gegevens bevat, vermeld in bijlage I. Dat beheerplan moet worden opgesteld met inachtneming van het Besluit van de Vlaamse regering van 27 juni 2003 tot vaststelling van de criteria voor duurzaam bosbeheer voor bossen gelegen in het Vlaamse Gewest.
+§ 1. Het beheerplan van een privé-bos, niet gelegen in het VEN, bevat de gegevens, vermeld in bijlage II.<br /><br />De opsteller van het beheerplan maakt hiervoor gebruik van de formulieren, waarvan het model ter beschikking wordt gesteld op de website www.natuurenbos.be van het agentschap voor Natuur en Bos.<br /><br />§ 2. De beheerder van een privé-bos, niet gelegen in het VEN, kan op vrijwillige basis een beheerplan opstellen dat de gegevens bevat, vermeld in bijlage I. Dat beheerplan moet worden opgesteld met inachtneming van het Besluit van de Vlaamse regering van 27 juni 2003 tot vaststelling van de criteria voor duurzaam bosbeheer voor bossen gelegen in het Vlaamse Gewest.
 
 ### ART. 5.
 
-Een of meer beheerders van privé-bossen en/of een of meer openbare boseigenaars kunnen een gezamenlijk beheerplan indienen. Het gezamenlijk beheerplan heeft betrekking op bossen die behoren tot één zelfde boscomplex.<br /><br />Het gezamenlijk beheerplan wordt ingediend door de gevolmachtigde. De gevolmachtigde voegt aan het beheerplan een geschreven volmacht of een verklaring op erewoord toe dat hij gevolmachtigd is om het ontwerp-beheerplan in te dienen. Alle correspondentie in verband met het beheerplan gebeurt via de gevolmachtigde. Wanneer een andere gevolmachtigde wordt aangesteld, wordt dat gemeld aan het Agentschap.<br /><br />Het gezamenlijk beheerplan bevat de gegevens, vermeld in bijlage II.Hiervoor wordt gebruikgemaakt van de formulieren, opgenomen in bijlage III.<br /><br />Wanneer één van de bossen waarvoor een gezamenlijk beheerplan wordt opgemaakt, een openbaar bos is of een privé-bos gelegen in het VEN, moet het volledige gezamenlijke beheerplan worden opgesteld overeenkomstig artikel 3, § 1.
+Een of meer beheerders van privé-bossen en/of een of meer openbare boseigenaars kunnen een gezamenlijk beheerplan indienen. Het gezamenlijk beheerplan heeft betrekking op bossen die behoren tot één zelfde boscomplex.<br /><br />Het gezamenlijk beheerplan wordt ingediend door de gevolmachtigde. De gevolmachtigde voegt aan het beheerplan een geschreven volmacht of een verklaring op erewoord toe dat hij gevolmachtigd is om het ontwerp-beheerplan in te dienen. Alle correspondentie in verband met het beheerplan gebeurt via de gevolmachtigde. Wanneer een andere gevolmachtigde wordt aangesteld, wordt dat gemeld aan het Agentschap.<br /><br />Het gezamenlijk beheerplan bevat de gegevens, vermeld in bijlage II.Hiervoor wordt gebruikgemaakt van de formulieren, waarvan het model ter beschikking wordt gesteld op de website www.natuurenbos.be van het agentschap voor Natuur en Bos.<br /><br />Wanneer één van de bossen waarvoor een gezamenlijk beheerplan wordt opgemaakt, een openbaar bos is of een privé-bos gelegen in het VEN, moet het volledige gezamenlijke beheerplan worden opgesteld overeenkomstig artikel 3, § 1.
 
 ### ART. 6.
 
@@ -82,7 +82,11 @@ Een goedgekeurd beheerplan van een openbaar bos, niet gelegen in VEN, in Vogelri
 
 ### ART. 18.
 
-De Vlaamse minister, bevoegd voor het natuurbehoud, kan bijlage I, bijlage II en bijlage III aanpassen.
+De Vlaamse minister, bevoegd voor het natuurbehoud, kan bijlage I en bijlage II aanpassen.
+
+### ART. 18/1.
+
+Het hoofd van het Agentschap voor Natuur en Bos kan het formulier, vermeld in artikel 4, § 1, tweede lid, en artikel 5, derde lid vaststellen, vervangen of wijzigen.
 
 ### ART. 19.
 
@@ -104,8 +108,4 @@ De Vlaamse minister, bevoegd voor de landinrichting en het natuurbehoud, is bela
 
 ### BIJLAGE III.
 
-Formulier: (niet opgenomen)
-
-### BIJLAGE III.
-
-Formulier: (niet opgenomen)
+...
