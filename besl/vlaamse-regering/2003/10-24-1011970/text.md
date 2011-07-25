@@ -30,7 +30,7 @@ De subsidie wordt alleen toegekend aan de actor indien:<br /><br />1° de werkza
 
 ### ART. 6.
 
-§ 1. De subsidie wordt door de actor aangevraagd op basis van een werkplan, met een formulier waarvan het model gevoegd is als bijlage II.<br /><br />§ 2. In ieder geval wordt in het werkplan vermeld:<br />1° voor welke werkzaamheden doelgroepwerknemers worden ingezet;<br />2° de situering van werkzaamheden op topografische kaart 1/10 000;<br />3° de geschatte personeelskost voor het uitvoeren van de werkzaamheden;<br />4° de tijdsduur nodig om de werkzaamheden uit te voeren;<br />5° het aantal in te zetten doelgroepwerknemers;<br />6° via welke vorm de werkzaamheden worden verricht (invoegbedrijf, invoegafdeling, sociale werkplaats).<br /><br />§ 3. Het werkplan wordt ten laatste op 1 oktober vóór het jaar waarin de werkzaamheden worden verricht, bij aangetekende zending gericht aan het Agentschap.<br /><br />§ 4. De aanvraag wordt binnen de drie weken na ontvangst al dan niet ontvankelijk verklaard door het Agentschap die de actor hiervan op de hoogte brengt.
+§ 1. De subsidie wordt door de actor aangevraagd op basis van een werkplan, met een formulier waarvan het model ter beschikking wordt gesteld op de website www.natuurenbos.be van het agentschap voor Natuur en Bos.<br /><br />§ 2. In ieder geval wordt in het werkplan vermeld:<br />1° voor welke werkzaamheden doelgroepwerknemers worden ingezet;<br />2° de situering van werkzaamheden op topografische kaart 1/10 000;<br />3° de geschatte personeelskost voor het uitvoeren van de werkzaamheden;<br />4° de tijdsduur nodig om de werkzaamheden uit te voeren;<br />5° het aantal in te zetten doelgroepwerknemers;<br />6° via welke vorm de werkzaamheden worden verricht (invoegbedrijf, invoegafdeling, sociale werkplaats).<br /><br />§ 3. Het werkplan wordt ten laatste op 1 oktober vóór het jaar waarin de werkzaamheden worden verricht, bij aangetekende zending gericht aan het Agentschap.<br /><br />§ 4. De aanvraag wordt binnen de drie weken na ontvangst al dan niet ontvankelijk verklaard door het Agentschap die de actor hiervan op de hoogte brengt.
 
 ### ART. 7.
 
@@ -62,7 +62,11 @@ Subsidies worden teruggevorderd, indien de voorwaarden voor toekenning van de su
 
 ### ART. 13.
 
-De minister kan bijlage I en II bij dit besluit aanpassen.
+De minister kan bijlage I bij dit besluit aanpassen.
+
+### ART. 13/1.
+
+Het hoofd van het Agentschap voor Natuur en Bos kan het formulier, vermeld in artikel 6, § 1 vaststellen, vervangen of wijzigen.
 
 ### ART. 14.
 
@@ -82,4 +86,4 @@ De Vlaamse minister, bevoegd voor de Landinrichting en het Natuurbehoud, is bela
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2004/01/16_1.pdf#page=61" title=" werkplan" target="_blank" class="pdf">werkplan</a>
+...
