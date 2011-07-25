@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020435,
+  "title": "Besluit van de Vlaamse Regering van 2011-06-24 tot wijziging van artikel 30 van het besluit van de Vlaamse Regering van 17 mei 2002 betreffende de erkenning en subsidiëring van de vertrouwenscentra kindermishandeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020435/VolledigDocument?datum=2011-07-25",
+  "source_sha256": "31d8c1887f0716f946086ebb8769358c4b1924773ba43e88264e72d1961123e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020435&param=informatie",
+  "as_of": "2011-07-25",
+  "made": "2011-06-24",
+  "gazette": "2011-07-15",
+  "numac": 2011203629,
+  "document_start": "2011-07-25",
+  "document_end": null,
+  "in_force": "2011-07-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-07-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
