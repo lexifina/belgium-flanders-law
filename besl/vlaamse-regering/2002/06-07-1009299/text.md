@@ -6,7 +6,7 @@ De kapvergunning, bedoeld in artikel 62 van het bosdecreet van 13 juni 1990, wor
 
 ### ART. 2.
 
-De kapvergunning wordt opgesteld overeenkomstig het model als bijlage bij dit besluit.<br /><br />Het hoofd van het Agentschap kan de bijlage bij dit besluit vaststellen, vervangen of wijzigen.
+De kapvergunning wordt opgesteld met een formulier, waarvan het model ter beschikking wordt gesteld op de website www.natuurenbos.be van het Agentschap voor Natuur en Bos.<br /><br />Het hoofd van het Agentschap kan dit formulier vaststellen, vervangen of wijzigen.
 
 ### ART. 3.
 
@@ -16,4 +16,4 @@ De Vlaamse minister, bevoegd voor het Leefmilieu, is belast met de uitvoering va
 
 ### BIJLAGE
 
-formulier: (niet opgenomen)
+...
