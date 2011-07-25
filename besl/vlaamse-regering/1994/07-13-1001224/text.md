@@ -18,7 +18,7 @@ De Commissie kan advies geven over de criteria die kunnen worden gebruikt bij de
 
 ### ART. 5.
 
-De houder van het jachtrecht of zijn gemachtigde dient een aanvraag tot toewijzing van het afschotplan in vóór 15 oktober van het jaar voorafgaand aan het jaar waarop de aanvraag betrekking heeft. Die aanvraag wordt aangetekend verstuurd naar de daartoe aangewezen ambtenaar van het Agentschap die bevoegd is voor de provincie waarin het jachtterrein of het grootste deel ervan gelegen is. De aanvraag gebeurt conform het model van bijlage 1.<br /><br />Als het jachtterrein niet overeenkomt met het plan van het jachtterrein dat overeenkomstig artikel 7 van het Jachtdecreet van 24 juli 1991 bij de arrondissementscommissaris door de houder van het jachtrecht moet worden ingediend, moet bij de aanvraag een liggingsplan worden gevoegd van het jachtterrein waarvoor een afschotplan wordt gevraagd.<br /><br />De daartoe aangewezen ambtenaar van het Agentschap schrijft de aanvrager volgens datum van ontvangst in een register in; daarbij mogen geen witte ruimten opengelaten worden en mogen er geen woorden doorgehaald worden.<br /><br />De aanvrager van het afschotplan dient aan de leden van de rijkswacht, de leden van de landelijke politie en de ambtenaren van het Agentschap te allen tijde vrije toegang te verlenen tot het jachtterrein waarop de aanvraag betrekking heeft. Dit geldt zowel voor het verrichten van voorbereidend onderzoek als voor elke vorm van toezicht met betrekking tot de naleving van de voorwaarden, gesteld bij de toewijzing van het plan.<br /><br />Als de vrije toegang van genoemde overheidspersonen wordt geweigerd dan kan geen afschotplan worden toegekend en moet het toegekende afschotplan ambtshalve ingetrokken vanaf de datum van de weigering van de vrije toegang. De weigering wordt vastgesteld, door middel van een proces-verbaal.
+De houder van het jachtrecht of zijn gemachtigde dient een aanvraag tot toewijzing van het afschotplan in vóór 15 oktober van het jaar voorafgaand aan het jaar waarop de aanvraag betrekking heeft. Die aanvraag wordt aangetekend verstuurd naar de daartoe aangewezen ambtenaar van het Agentschap die bevoegd is voor de provincie waarin het jachtterrein of het grootste deel ervan gelegen is. De aanvraag wordt opgemaakt met een formulier, waarvan het model ter beschikking wordt gesteld op de website www.natuurenbos.be van het Agentschap voor Natuur en Bos.<br /><br />Als het jachtterrein niet overeenkomt met het plan van het jachtterrein dat overeenkomstig artikel 7 van het Jachtdecreet van 24 juli 1991 bij de arrondissementscommissaris door de houder van het jachtrecht moet worden ingediend, moet bij de aanvraag een liggingsplan worden gevoegd van het jachtterrein waarvoor een afschotplan wordt gevraagd.<br /><br />De daartoe aangewezen ambtenaar van het Agentschap schrijft de aanvrager volgens datum van ontvangst in een register in; daarbij mogen geen witte ruimten opengelaten worden en mogen er geen woorden doorgehaald worden.<br /><br />De aanvrager van het afschotplan dient aan de leden van de rijkswacht, de leden van de landelijke politie en de ambtenaren van het Agentschap te allen tijde vrije toegang te verlenen tot het jachtterrein waarop de aanvraag betrekking heeft. Dit geldt zowel voor het verrichten van voorbereidend onderzoek als voor elke vorm van toezicht met betrekking tot de naleving van de voorwaarden, gesteld bij de toewijzing van het plan.<br /><br />Als de vrije toegang van genoemde overheidspersonen wordt geweigerd dan kan geen afschotplan worden toegekend en moet het toegekende afschotplan ambtshalve ingetrokken vanaf de datum van de weigering van de vrije toegang. De weigering wordt vastgesteld, door middel van een proces-verbaal.
 
 ### ART. 6.
 
@@ -30,7 +30,7 @@ Het afschotplan bepaalt het maximum en eventueel het minimum aantal te schieten 
 
 ### ART. 8.
 
-De daartoe aangewezen ambtenaar van het Agentschap deelt zijn beslissing vóór 1 december van elk jaar mee per aangetekende brief volgens het model van bijlage 2 bij dit besluit.
+De daartoe aangewezen ambtenaar van het Agentschap deelt zijn beslissing vóór 1 december van elk jaar mee per aangetekende brief met een formulier, waarvan het model ter beschikking wordt gesteld op de website www.natuurenbos.be van het Agentschap voor Natuur en Bos.
 
 ### ART. 9.
 
@@ -42,7 +42,7 @@ Elke geschoten ree moet onmiddellijk worden gemerkt met een label, dat boven het
 
 ### ART. 10.
 
-§ 1. Voor de controle van en het onderzoek naar het reewildafschot wordt het geschoten reewild in de loop van de dag van het afschot aangeboden of gedurende vierentwintig uur ter beschikking gehouden van de aangestelden van het Agentschap bevoegd voor het ambtsgebied waarin het jachtterrein gelegen is. In het laatste geval worden zij daarvan telefonisch of schriftelijk op de hoogte gebracht door de houder van het jachtrecht of zijn gemachtigde.<br /><br />§ 2. Daarnaast vult de houder van het jachtrecht of de door hem overeenkomstig artikel 2 van dit besluit aangewezen gemachtigde, ten behoeve van de commissie een meldingsformulier in conform het model van bijlage 3 bij dit besluit.<br /><br />Het meldingsformulier wordt in tweevoud ingevuld. Het eerste exemplaar wordt naar de bevoegde daartoe aangewezen ambtenaar van het Agentschap gestuurd en een tweede exemplaar blijft in het bezit van de jachtrechthouder.
+§ 1. Voor de controle van en het onderzoek naar het reewildafschot wordt het geschoten reewild in de loop van de dag van het afschot aangeboden of gedurende vierentwintig uur ter beschikking gehouden van de aangestelden van het Agentschap bevoegd voor het ambtsgebied waarin het jachtterrein gelegen is. In het laatste geval worden zij daarvan telefonisch of schriftelijk op de hoogte gebracht door de houder van het jachtrecht of zijn gemachtigde.<br /><br />§ 2. Daarnaast vult de houder van het jachtrecht of de door hem overeenkomstig artikel 2 van dit besluit aangewezen gemachtigde, ten behoeve van de commissie een meldingsformulier in waarvan het model ter beschikking wordt gesteld op de website www.natuurenbos.be van het Agentschap voor Natuur en Bos.<br /><br />Het meldingsformulier wordt in tweevoud ingevuld. Het eerste exemplaar wordt naar de bevoegde daartoe aangewezen ambtenaar van het Agentschap gestuurd en een tweede exemplaar blijft in het bezit van de jachtrechthouder.<br /><br />Het meldingsformulier vermeldt :<br />1° het nummer van het afschotplan;<br />2° de plaats waar de ree geschoten werd;<br />3° het labelnummer;<br />4° de naam en de hoedanigheid van de schutter;<br />5° de datum waarop de ree geschoten werd;<br />6° het type, het gewei en het gewicht van het dier zonder gewei.
 
 ### ART. 10bis
 
@@ -68,16 +68,16 @@ De Vlaamse minister bevoegd voor de landinrichting en het natuurbehoud is belast
 
 ### BIJLAGE 1
 
-Formulier (niet opgenomen)
+...
 
 ## Bijlage 2
 
 ### BIJLAGE 2
 
-Formulier (niet opgenomen)
+...
 
 ## Bijlage 3
 
 ### BIJLAGE 3
 
-Formulier (niet opgenomen)
+...
