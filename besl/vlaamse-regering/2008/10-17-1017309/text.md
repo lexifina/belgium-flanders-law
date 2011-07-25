@@ -18,7 +18,7 @@ Het geheel van de frequenties, vermeld in de tabel in bijlage I, wordt opgevat a
 
 ### ART. 4.
 
-Het geheel van de frequenties, vermeld in de tabel in bijlage I, moet worden ingezet voor het aanbieden van omroeptoepassingen met gebruik van de DVB-technologie.<br /><br />Minstens één van de pakketten van frequenties, vermeld in de tabel in bijlage I, moet worden ingezet voor het aanbieden van omroeptoepassingen met gebruik van de DVB-H technologie.
+Het geheel van de frequenties, vermeld in de tabel in bijlage I, moet worden ingezet voor het aanbieden van omroeptoepassingen met gebruik van de DVB-technologie.
 
 ### ART. 5.
 

@@ -2,16 +2,16 @@
   "codex_id": 1017309,
   "title": "Besluit van de Vlaamse Regering van 2008-10-17 houdende de vastlegging van de pakketten van digitale frequenties die zullen worden vrijgegeven tijdens een eerste vergelijkende toets voor het verkrijgen van een vergunning voor het aanbieden van een radio- of televisieomroepnetwerk en de bijhorende zendvergunningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017309/VolledigDocument?datum=2008-11-21",
-  "source_sha256": "454274c93edf838e1f416c6fe5ec6714da5da685b71c3da9ee8ce159efbbd354",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017309/VolledigDocument?datum=2011-07-25",
+  "source_sha256": "7af532e504a49ef7926b0cccfde050e1b0ceee8f8645047444f9759788c67331",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017309&param=informatie",
-  "as_of": "2008-11-21",
+  "as_of": "2011-07-25",
   "made": "2008-10-17",
   "gazette": "2008-11-21",
   "numac": 2008204086,
   "document_start": "2008-11-21",
   "document_end": null,
-  "in_force": "2008-11-21",
+  "in_force": "2011-07-25",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2008-11-21; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-07-25; future article versions excluded; article text as the API gives it"
 }
