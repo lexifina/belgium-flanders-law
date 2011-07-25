@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020434,
+  "title": "Besluit van de Vlaamse Regering van 2011-06-10 houdende de loskoppeling van formulieren uit de sectorregelgeving van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Natuur en Bos",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020434/VolledigDocument?datum=2011-07-25",
+  "source_sha256": "5958d707be22fe6b3cc58dab0239290208276419125db45b67ee012a9ee031dd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020434&param=informatie",
+  "as_of": "2011-07-25",
+  "made": "2011-06-10",
+  "gazette": "2011-07-15",
+  "numac": 2011035541,
+  "document_start": "2011-07-25",
+  "document_end": null,
+  "in_force": "2011-07-25",
+  "article_versions": 44,
+  "record_form": "consolidated version as in force on 2011-07-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
