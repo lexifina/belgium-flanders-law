@@ -2,16 +2,16 @@
   "codex_id": 1004392,
   "title": "Besluit van de Vlaamse Regering van 1989-05-10 tot uitvoering van artikel 4 van de jachtwet van 28 februari 1882 voor het Vlaamse Gewest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004392/VolledigDocument?datum=2008-05-21",
-  "source_sha256": "fba4bd15e3f5f5aa84a7fa2e8d3662a421780f447192c0ed902905bfba3c4f6e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004392/VolledigDocument?datum=2011-07-25",
+  "source_sha256": "01e091e13ed5e96659be9d17f568f4cb35c04b763166e983e577f1e24d0e776a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004392&param=informatie",
-  "as_of": "2008-05-21",
+  "as_of": "2011-07-25",
   "made": "1989-05-10",
   "gazette": "1989-06-01",
   "numac": 1989029387,
   "document_start": null,
   "document_end": "2014-06-30",
-  "in_force": "2008-05-21",
-  "article_versions": 8,
-  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
+  "in_force": "2011-07-25",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2011-07-25; future article versions excluded; article text as the API gives it"
 }

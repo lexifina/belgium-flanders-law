@@ -6,7 +6,7 @@ Het plan bedoeld in artikel 4 van de jachtwet van 28 februari 1882, bestaat uit 
 
 ### ART. 2.
 
-Dit plan wordt jaarlijks in drievoud of op een door de Vlaamse minister bevoegd inzake de jacht te bepalen aantal exemplaren neergelegd bij de arrondissementscommissaris, vermeld in artikel 4 van de jachtwet van 28 februari 1882, vóór de datum van de opening van het jachtseizoen, of, zo het jachtterrein in de loop van het jachtseizoen wordt gewijzigd, binnen de maand na de wijziging.<br /><br />Zo het jachtterrein geen wijziging onderging ten opzicht van het vroeger neergelegd plan, volstaat de neerlegging van een verklaring daarover, opgesteld in drievoud, door de houder van het jachtrecht.<br /><br />Zo voor eenzelfde jachtterrein verscheidene houders van het jachtrecht zijn, volstaat de neerlegging van het plan, door één der jachtrechthouders, bij de in lid één van dit artikel bedoelde ambtenaar. De overigen dienen een verklaring, opgesteld in drievoud, neer te leggen bij dezelfde ambtenaar waarbij zij mededelen dat zij ook houder zijn van het jachtrecht op dat jachtterrein. Deze verklaring is gelijkvormig aan het model in bijlage bij dit besluit.<br /><br />De in het eerste lid van dit artikel bedoelde ambtenaar geeft één exemplaar van de bij hem neergelegde plannen of verklaringen waarop een melding van ontvangst met datum werd aangebracht aan de houder van het jachtrecht.
+Dit plan wordt jaarlijks in drievoud of op een door de Vlaamse minister bevoegd inzake de jacht te bepalen aantal exemplaren neergelegd bij de arrondissementscommissaris, vermeld in artikel 4 van de jachtwet van 28 februari 1882, vóór de datum van de opening van het jachtseizoen, of, zo het jachtterrein in de loop van het jachtseizoen wordt gewijzigd, binnen de maand na de wijziging.<br /><br />Zo het jachtterrein geen wijziging onderging ten opzicht van het vroeger neergelegd plan, volstaat de neerlegging van een verklaring daarover, opgesteld in drievoud, door de houder van het jachtrecht.<br /><br />Zo voor eenzelfde jachtterrein verscheidene houders van het jachtrecht zijn, volstaat de neerlegging van het plan, door één der jachtrechthouders, bij de in lid één van dit artikel bedoelde ambtenaar. De overigen dienen een verklaring, opgesteld in drievoud, neer te leggen bij dezelfde ambtenaar waarbij zij mededelen dat zij ook houder zijn van het jachtrecht op dat jachtterrein. De verklaring wordt opgemaakt met een formulier, waarvan het model ter beschikking wordt gesteld op de website www.natuurenbos.be van het Agentschap voor Natuur en Bos.<br /><br />De in het eerste lid van dit artikel bedoelde ambtenaar geeft één exemplaar van de bij hem neergelegde plannen of verklaringen waarop een melding van ontvangst met datum werd aangebracht aan de houder van het jachtrecht.
 
 ### ART. 2bis.
 
@@ -22,7 +22,7 @@ Indien het daartoe aangestelde personeelslid van het Agentschap voor Natuur en B
 
 ### ART. 4bis.
 
-Het hoofd van het Agentschap voor Natuur en Bos kan de bijlage bij dit besluit vaststellen, vervangen of wijzigen.
+Het hoofd van het Agentschap voor Natuur en Bos kan het formulier, vermeld in artikel 2<br />vaststellen, vervangen of wijzigen.
 
 ### ART. 5.
 
@@ -31,3 +31,7 @@ Dit besluit treedt in werking de dag waarop het in het Belgisch Staatsblad wordt
 ### ART. 6.
 
 De Vlaamse minister van Leefmilieu, Natuurbehoud en Landinrichting is belast met de uitvoering van dit besluit.
+
+### BIJLAGE
+
+...
