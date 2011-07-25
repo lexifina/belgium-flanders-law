@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020433,
+  "title": "Besluit van de Vlaamse Regering van 2011-06-10 houdende wijziging van het besluit van de Vlaamse Regering van 17 oktober 2008 houdende de vastlegging van de pakketten van digitale frequenties die zullen worden vrijgegeven tijdens een eerste vergelijkende toets voor het verkrijgen van een vergunning voor het aanbieden van een radio- of televisieomroepnetwerk en de bijhorende zendvergunningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020433/VolledigDocument?datum=2011-07-25",
+  "source_sha256": "fdd5dd173309eb72e148b43b23aaa826a28a9a397397153b83515e6ceae641f6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020433&param=informatie",
+  "as_of": "2011-07-25",
+  "made": "2011-06-10",
+  "gazette": "2011-07-15",
+  "numac": 2011203631,
+  "document_start": "2011-07-25",
+  "document_end": null,
+  "in_force": "2011-07-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-07-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
