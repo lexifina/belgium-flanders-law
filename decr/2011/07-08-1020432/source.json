@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020432,
+  "title": "Decreet van 2011-07-08 tot wijziging van diverse bepalingen van de Vlaamse Codex Ruimtelijke Ordening",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020432/VolledigDocument?datum=2011-07-25",
+  "source_sha256": "85104e3eba1e42c2584c676af6db05c2875d55c9d8e666aa889bde3688eef9ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020432&param=informatie",
+  "as_of": "2011-07-25",
+  "made": "2011-07-08",
+  "gazette": "2011-07-15",
+  "numac": 2011035546,
+  "document_start": "2011-07-25",
+  "document_end": null,
+  "in_force": "2011-07-25",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2011-07-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
