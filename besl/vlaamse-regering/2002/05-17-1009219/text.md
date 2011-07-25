@@ -138,6 +138,10 @@ De administratie van Kind en Gezin beslist binnen 15 dagen na ontvangst van het 
 
 Aan de vertrouwenscentra kindermishandeling wordt voor het jaar 2009 een subsidie van 191.802 euro (honderdeenennegentigduizend achthonderd en twee euro) toegekend met het oog op de versterking van de klinische teams.<br /><br />De subsidie wordt gelijk verdeeld onder de zes erkende vertrouwenscentra kindermishandeling zodat het bedrag voor elk vertrouwenscentrum 31.967 euro (eenendertigduizend negenhonderdzevenenzestig euro) bedraagt.
 
+### ART. 30quater.
+
+Aan de vertrouwenscentra kindermishandeling wordt vanaf 2011 jaarlijks een subsidie van 196.780,28 euro (honderdzesennegentigduizend zevenhonderdtachtig euro achtentwintig cent) toegekend met het oog op de versterking van de klinische teams.<br /><br />De subsidie wordt gelijk verdeeld onder de zes erkende vertrouwenscentra kindermishandeling.<br /><br />Het bedrag, vermeld in het eerste lid, is vastgesteld op basis van de gezondheidsindex van december 2010 met basisjaar 2004, namelijk 113,84.
+
 ### ART. 31.
 
 Elk centrum besteedt 70 % tot 85 % van het totale subsidiebedrag, bedoeld in artikel 30, § 1 en § 2, aan personeelskosten en 15 % tot 30 % aan werkingskosten.
