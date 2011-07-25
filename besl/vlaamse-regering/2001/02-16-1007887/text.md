@@ -30,7 +30,7 @@ De bosbehoudsbijdrage is gelijk aan de grootte van de gelijkwaardige compenseren
 
 ### ART. 6.
 
-De aanvrager van de stedenbouwkundige vergunning tot ontbossing voegt bij zijn aanvraag een voorstel tot compensatie dat bestaat uit een van de maatregelen, bedoeld in artikel 3.<br /><br />Behalve in het geval, bedoeld in artikel 3, 4°, wordt bij het voorstel tot compensatie een bebossingsplan gevoegd.<br /><br />Het voorstel tot compensatie moet worden ingevuld op een formulier, waarvan het model gevoegd is in bijlage II, gevoegd bij dit besluit.
+De aanvrager van de stedenbouwkundige vergunning tot ontbossing voegt bij zijn aanvraag een voorstel tot compensatie dat bestaat uit een van de maatregelen, bedoeld in artikel 3.<br /><br />Behalve in het geval, bedoeld in artikel 3, 4°, wordt bij het voorstel tot compensatie een bebossingsplan gevoegd.<br /><br />Het voorstel tot compensatie moet worden ingevuld op een formulier, waarvan het model ter beschikking wordt gesteld op de website www.natuurenbos.be van het Agentschap voor Natuur en Bos.<br /><br />De aanvraag bevat :<br />1° de oppervlakte van het perceel en de stedenbouwkundige bestemming;<br />2° de te ontbossen oppervlakte;<br />3° ingeval de aanvrager een natuurlijk persoon is, een verklaring op erewoord dat de aanvrager op de datum van de aanvraag noch de volle eigendom over een woning heeft, noch een vrijstelling van de compensatieplicht voor het perceel in kwestie of voor een ander perceel heeft verkregen;<br />4° de opgave van de te compenseren oppervlakte;<br />5° de wijze van compensatie;<br />6° als de compensatie geheel of deels via bebossing gebeurt, een bebossingsplan met opgave van boomsoort, oppervlakte, hoeveelheid plantsoen, plantverband, leeftijd en afmeting van het plantsoen;<br />7° als de compensatie geheel of deels via bebossing gebeurt, een verklaring op erewoord dat de bebossingswerken niet in strijd zijn met de erfdienstbaarheden die op de percelen in kwestie rusten, en dat de percelen niet al buiten het kader van artikel 90bis van het Bosdecreet moeten worden bebost of herbebost, ingevolge een gerechtelijke beslissing of een contractuele of eenzijdige verbintenis;<br />8° als de compensatie geheel of deels via bebossing gebeurt, de verbintenis van de aanvrager om ambtenaren van het Agentschap voor Natuur en bos toe te laten zich ter plaatse te begeven om het terrein in kwestie vooraf te onderzoeken of om er de uitgevoerde bebossingen te beoordelen;<br />9° als de compensatie geheel of deels via bebossing gebeurt, de verbintenis van de aanvrager om toe te laten dat het Agentschap voor Natuur en Bos, als het na een controle ter plaatse, binnen vijf jaar na het afleveren van het attest, vermeld in artikel 10, vaststelt dat de aanplanting niet geslaagd is, een beroep kan doen op derden om de bebossing uit te voeren en dat het Agentschap voor Natuur en Bos de kosten voor het uitvoeren van deze werkzaamheden en van het onderhoud gedurende vijf jaar na de aanplanting op de aanvrager kan verhalen;<br />10° als de compensatie geheel of deels via bebossing gebeurt, de volgende bewijsstukken : een kopij van de eigendomstitel, een situeringsplan op schaal 1/25 000, een kopie van het kadastraal plan, een situatieschets van het beplantingsplan (ruimtelijke boomsoortenverdeling), en een kopie van alle wettelijk vereiste vergunningen, adviezen en machtigingen die noodzakelijk zijn om over te gaan tot de bebossing waarop de compenserende bebossing zal worden uitgevoerd.
 
 ### ART. 7.
 
@@ -62,7 +62,7 @@ Het Agentschap voor Natuur en Bos houdt een register bij van de bebossingen in h
 
 ### ART. 13.
 
-De bepalingen van artikel 3 tot en met 12 zijn eveneens van toepassing op de aanvragen van de in artikel 2, tweede lid, bedoelde verkavelingsvergunning met dien verstande dat niet een ontbossing of een te ontbossen oppervlakte gecompenseerd moet worden, maar de beboste delen of de beboste oppervlakte van de verkaveling met uitzondering van de oppervlakte van de in de aanvraag vermelde of als last aan de verkavelaar opgelegde beboste groene ruimten.<br /><br />Het voorstel van compensatie voor de beboste delen van een te verkavelen grond moet worden ingevuld op een geëigend formulier, waarvan het model gevoegd is in bijlage III, gevoegd bij dit besluit.
+De bepalingen van artikel 3 tot en met 12 zijn eveneens van toepassing op de aanvragen van de in artikel 2, tweede lid, bedoelde verkavelingsvergunning met dien verstande dat niet een ontbossing of een te ontbossen oppervlakte gecompenseerd moet worden, maar de beboste delen of de beboste oppervlakte van de verkaveling met uitzondering van de oppervlakte van de in de aanvraag vermelde of als last aan de verkavelaar opgelegde beboste groene ruimten.<br /><br />Het voorstel van compensatie voor de beboste delen van een te verkavelen grond moet worden ingevuld op een formulier, waarvan het model ter beschikking wordt gesteld op de website www.natuurenbos.be van het Agentschap voor Natuur en Bos.<br /><br />De aanvraag bevat :<br />1° de oppervlakte van het perceel en de stedenbouwkundige bestemming;<br />2° de te ontbossen oppervlakte;<br />3° de opgave van de te compenseren oppervlakte;<br />4° de wijze van compensatie;<br />5° als de compensatie geheel of deels via bebossing gebeurt, een bebossingsplan met opgave van boomsoort, oppervlakte, hoeveelheid plantsoen, plantverband, leeftijd en afmeting van het plantsoen;<br />6° als de compensatie geheel of deels via bebossing gebeurt, een verklaring op erewoord dat de bebossingswerken niet in strijd zijn met de erfdienstbaarheden die op de percelen in kwestie rusten, en dat de percelen niet al buiten het kader van artikel 90bis van het Bosdecreet moeten worden bebost of herbebost, ingevolge een gerechtelijke beslissing of een contractuele of eenzijdige verbintenis;<br />7° als de compensatie geheel of deels via bebossing gebeurt, de verbintenis van de aanvrager om ambtenaren van het Agentschap voor Natuur en bos toe te laten zich ter plaatse te begeven om het terrein in kwestie vooraf te onderzoeken of er de uitgevoerde bebossingen te beoordelen;<br />8° als de compensatie geheel of deels via bebossing gebeurt, de verbintenis van de aanvrager om toe te laten dat het Agentschap voor Natuur en Bos, als het na een controle ter plaatse, binnen vijf jaar na het afleveren van het attest, bedoeld in artikel 10, vaststelt dat de aanplanting niet geslaagd is, een beroep kan doen op derden de bebossing uit te voeren, en dat het Agentschap voor Natuur en Bos de kosten voor het uitvoeren van deze werkzaamheden en van het onderhoud gedurende vijf jaar na de aanplanting op de aanvrager kan verhalen;<br />9° als de compensatie geheel of deels via bebossing gebeurt, de volgende bewijsstukken : een kopij van de eigendomstitel, een situeringsplan op schaal 1/25 000, een kopie van het kadastraal plan, een situatieschets van het beplantingsplan (ruimtelijke boomsoortenverdeling), en een kopie van alle wettelijk vereiste vergunningen, adviezen en machtigingen die noodzakelijk zijn om over te gaan tot de bebossing waarop de compenserende bebossing zal worden uitgevoerd.
 
 ## HOOFDSTUK III ONTHEFFING VAN HET VERBOD OP ONTBOSSING
 
@@ -104,7 +104,7 @@ Het decreet van 17 juli 2000 en dit besluit treden in werking op de datum van de
 
 ### ART. 21.
 
-De Vlaamse minister, bevoegd voor het natuurbehoud, wordt gemachtigd de modellen van de formulieren, die gevoegd zijn als bijlagen II en III bij dit besluit, te wijzigen of te vervangen.
+Het hoofd van het Agentschap voor Natuur en Bos wordt gemachtigd de modellen van de formulieren te wijzigen of te vervangen.
 
 ### ART. 22.
 
@@ -244,10 +244,10 @@ De loofboomsoorten zoals vermeld in onderstaande tabel worden beschouwd als inhe
 
 ### BIJLAGE 2
 
-Formulier: (niet opgenomen)
+...
 
 ## Bijlage 3
 
 ### BIJLAGE 3
 
-Formulier: (niet opgenomen)
+...
