@@ -12,7 +12,7 @@ In dit besluit wordt de werkwijze bepaald die moet worden gevolgd bij de openbar
 
 ### ART. 3.
 
-Voor elke verkoop worden de toepasselijke verkoopvoorwaarden vermeld op een document, opgesteld volgens het model opgenomen als bijlage 1, ter inzage gelegd op de plaats waar de verkoop plaatsvindt.
+Voor elke verkoop worden de toepasselijke verkoopvoorwaarden vermeld op met een formulier, waarvan het model ter beschikking wordt gesteld op de website www.natuurenbos.be van het Agentschap voor Natuur en Bos ter inzage gelegd op de plaats waar de verkoop plaatsvindt.
 
 ## HOOFDSTUK II TOEWIJZINGEN
 
@@ -26,7 +26,7 @@ In afwijking van artikel 4. worden loten van reeds gevelde en/of gestapelde bome
 
 ### ART. 6.
 
-§ 1. De toewijzing van de loten gebeurt ofwel bij opbod, ofwel bij afslag, ofwel bij inschrijving, ofwel bij opbod, gevolgd door de opening van de inschrijvingen. De keuze wordt bepaald in de bijzondere verkoopvoorwaarden.<br /><br />§ 2. De inschrijvingen moeten worden opgemaakt volgens het model in bijlage 2. Het adres en het tijdstip waarop ze uiterlijk moeten aankomen, worden bepaald in de bijzondere verkoopvoorwaarden.<br /><br />§ 3. Samenvoeging van loten is enkel toegelaten voor loten van dezelfde eigenaar, en alleen indien dit vastgelegd is in de bijzondere verkoopvoorwaarden.
+§ 1. De toewijzing van de loten gebeurt ofwel bij opbod, ofwel bij afslag, ofwel bij inschrijving, ofwel bij opbod, gevolgd door de opening van de inschrijvingen. De keuze wordt bepaald in de bijzondere verkoopvoorwaarden.<br /><br />§ 2. De inschrijvingen moeten worden opgemaakt met een formulier, waarvan het model ter beschikking wordt gesteld op de website www.natuurenbos.be van het Agentschap voor Natuur en Bos.Het adres en het tijdstip waarop ze uiterlijk moeten aankomen, worden bepaald in de bijzondere verkoopvoorwaarden.<br /><br />§ 3. Samenvoeging van loten is enkel toegelaten voor loten van dezelfde eigenaar, en alleen indien dit vastgelegd is in de bijzondere verkoopvoorwaarden.
 
 ### ART. 7.
 
@@ -38,7 +38,7 @@ De voorzitter houdt de loten in waarvoor het bod onvoldoende is. Die loten worde
 
 ### ART. 9.
 
-§ 1. Iedere koper moet conform artikel 57, eerste lid, van het Bosdecreet op het ogenblik van de toewijzing een borg aanwijzen. Deze borg die hoofdelijk en ondeelbaar met de koper verantwoordelijk is voor alle verplichtingen van de koper dient een natuurlijke persoon te zijn die op het grondgebied van het Vlaamse Gewest woont en die door de voorzitter van de verkoop aanvaard wordt. In het geval van inschrijving moet de borg het model zoals opgenomen in bijlage 2 ondertekenen. In de andere gevallen moet die borgstelling schriftelijk gebeuren volgens het model in bijlage 3.<br /><br />§ 2. Bovendien moet iedere koper op het ogenblik van de toewijzing een belofte tot betalingswaarborg voorleggen. De bedragen beneden de 5.000 euro, de kosten en de BTW niet inbegrepen, zijn daarvan vrijgesteld, met inachtneming van artikel 12, § 1.<br /><br />Die belofte tot betalingswaarborg zal onder de vorm van een bankgarantie komen van een Belgische kredietinstelling of van een kredietinstelling die ressorteert onder een andere lidstaat van de Europese Gemeenschap en die krachtens de wet van 22 maart 1993 op het statuut van de kredietinstellingen gemachtigd is om deze activiteit in België uit te oefenen. De belofte tot betalingswaarborg mag ook geleverd worden onder de vorm van een borgstelling door Belgische verzekeringsondernemingen of door verzekeringsondernemingen die ressorteren onder een andere lidstaat van de Europese Gemeenschap en die krachtens de wet van 9 juli 1975 gemachtigd zijn in België de taak borgstellingsverzekering uit te oefenen. De verzekeringsondernemingen moeten bevoegd zijn zich borg te stellen en daartoe gemachtigd worden door de controledienst voor de verzekeringen. De verzekeringsonderneming zal vooraf het bewijs van machtiging leveren.<br /><br />De schriftelijke belofte, opgesteld volgens het model in bijlage 4, moet de volgende documenten bevatten:<br /><br />1° de verplichting om het verschuldigd bedrag te betalen voor rekening van de in gebreke blijvende koper, bij het eerste verzoek van de ontvanger;<br /><br />2° de verklaring om af te zien van elke betwisting en mogelijke verdeling, evenals van de hypotheek die de verworven goederen zouden kunnen betekenen.<br /><br />Een inschrijving is alleen ontvankelijk als ze vergezeld is van die belofte tot betalingswaarborg.<br /><br />§ 3. Binnen vijf werkdagen na de verkoop deelt de ontvanger aan de instelling of aan de maatschappij die de belofte aanging, het juiste bedrag van de door de koper verschuldigde som mee en de termijn waarvoor de definitieve betalingswaarborg afgesloten moet worden.
+§ 1. Iedere koper moet conform artikel 57, eerste lid, van het Bosdecreet op het ogenblik van de toewijzing een borg aanwijzen. Deze borg die hoofdelijk en ondeelbaar met de koper verantwoordelijk is voor alle verplichtingen van de koper dient een natuurlijke persoon te zijn die op het grondgebied van het Vlaamse Gewest woont en die door de voorzitter van de verkoop aanvaard wordt. In het geval van inschrijving moet de borg het formulier, waarvan sprake in artikel 6, § 2 ondertekenen. In de andere gevallen moet die borgstelling schriftelijk gebeuren met een formulier, waarvan het model ter beschikking wordt gesteld op de website www.natuurenbos.be van het Agentschap voor Natuur en Bos.<br /><br />§ 2. Bovendien moet iedere koper op het ogenblik van de toewijzing een belofte tot betalingswaarborg voorleggen. De bedragen beneden de 5.000 euro, de kosten en de BTW niet inbegrepen, zijn daarvan vrijgesteld, met inachtneming van artikel 12, § 1.<br /><br />Die belofte tot betalingswaarborg zal onder de vorm van een bankgarantie komen van een Belgische kredietinstelling of van een kredietinstelling die ressorteert onder een andere lidstaat van de Europese Gemeenschap en die krachtens de wet van 22 maart 1993 op het statuut van de kredietinstellingen gemachtigd is om deze activiteit in België uit te oefenen. De belofte tot betalingswaarborg mag ook geleverd worden onder de vorm van een borgstelling door Belgische verzekeringsondernemingen of door verzekeringsondernemingen die ressorteren onder een andere lidstaat van de Europese Gemeenschap en die krachtens de wet van 9 juli 1975 gemachtigd zijn in België de taak borgstellingsverzekering uit te oefenen. De verzekeringsondernemingen moeten bevoegd zijn zich borg te stellen en daartoe gemachtigd worden door de controledienst voor de verzekeringen. De verzekeringsonderneming zal vooraf het bewijs van machtiging leveren.<br /><br />De schriftelijke belofte, opgesteld met een formulier, waarvan het model ter beschikking wordt gesteld op de website www.natuurenbos.be van het Agentschap voor Natuur en Bos, moet de volgende documenten bevatten:<br /><br />1° de verplichting om het verschuldigd bedrag te betalen voor rekening van de in gebreke blijvende koper, bij het eerste verzoek van de ontvanger;<br /><br />2° de verklaring om af te zien van elke betwisting en mogelijke verdeling, evenals van de hypotheek die de verworven goederen zouden kunnen betekenen.<br /><br />Een inschrijving is alleen ontvankelijk als ze vergezeld is van die belofte tot betalingswaarborg.<br /><br />§ 3. Binnen vijf werkdagen na de verkoop deelt de ontvanger aan de instelling of aan de maatschappij die de belofte aanging, het juiste bedrag van de door de koper verschuldigde som mee en de termijn waarvoor de definitieve betalingswaarborg afgesloten moet worden.
 
 ### ART. 10.
 
@@ -224,7 +224,7 @@ De bijzondere verkoopvoorwaarden kunnen bepalingen bevatten die alleen van toepa
 
 ### ART. 49bis
 
-Het hoofd van het Agentschap kan de bijlagen 1, 2, 3 en 4 bij dit besluit vaststellen, vervangen of wijzigen.
+Het hoofd van het Agentschap kan de formulieren als vermeld in artikel 3, artikel 6, § 2, en artikel 9, § 1 en § 2 vaststellen, vervangen of wijzigen.
 
 ## HOOFDSTUK V SLOTBEPALINGEN
 
@@ -236,22 +236,22 @@ De Vlaamse minister, bevoegd voor het Leefmilieu, is belast met de uitvoering va
 
 ### BIJLAGE 1
 
-formulier: (niet opgenomen)
+...
 
 ## Bijlage 2
 
 ### BIJLAGE 2
 
-formulier: (niet opgenomen)
+...
 
 ## Bijlage 3
 
 ### BIJLAGE 3
 
-formulier: (niet opgenomen)
+...
 
 ## Bijlage 4
 
 ### BIJLAGE 4
 
-formulier: (niet opgenomen)
+...
