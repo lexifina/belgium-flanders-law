@@ -36,7 +36,7 @@ Voor het begrotingsjaar 1997 worden de vastleggingsmachtigingen, bedoeld in arti
 
 ### ART. 8.
 
-§ 1. (niet opgenomen)<br /><br />(Heft de wet van 27 juni 1956 betreffende het speciaal onderstandsfonds op)<br /><br />§ 2. De in § 1 genoemde wetgeving inzake het speciaal onderstandsfonds blijft van toepassing voor de kosten van onderhoud en behandeling van voor 1 januari 1997 van de behoeftigen die lijden aan een kwaal van tuberculose of kankerachtige oorsprong, voorzover de voorstellen van de adviserende commissies en de facturen respectievelijk voor 1 januari 1998 en 1 januari 1999 in het bezit zijn van de bevoegde administratie.<br /><br />§ 3. De artikelen 11, 12 en 13 van de wet van 27 juni 1956 betreffende het speciaal onderstandsfonds, gewijzigd bij de wet van 3 april 1965, blijven van toepassing op de tegemoetkomingen die werden en worden verleend door het speciaal onderstandsfonds. In voornoemd artikel 13 worden evenwel de woorden "ten bate van het speciaal onderstandsfonds" geschrapt.
+§ 1. (niet opgenomen)<br /><br />(Heft de wet van 27 juni 1956 betreffende het speciaal onderstandsfonds op)<br /><br />§ 2. ...<br /><br />§ 3. ...
 
 ### ART. 9.
 
