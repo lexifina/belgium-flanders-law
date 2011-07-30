@@ -30,6 +30,10 @@ In dit decreet wordt verstaan onder:<br /><br />1° LRM: de naamloze vennootscha
 <br>
 In de vennootschapsstatuten van LRM zal tevens worden bepaald dat de vennootschap alle activiteiten kan verrichten die, rechtstreeks of onrechtstreeks, bijdragen tot de verwezenlijking van haar maatschappelijk doel.
 
+### ART. 4bis.
+
+§ 1. De Vlaamse instrumenterende ambtenaren van de dienst Vastgoedakten, vermeld in artikel 94 van het decreet van 18 december 2009 houdende bepalingen tot begeleiding van de begroting 2010, zijn bevoegd om de akten te verlijden betreffende de organisatie en het intern bestuur van LRM, voor zover het Vlaamse Gewest rechtstreeks of onrechtstreeks enige aandeelhouder is van LRM.<br /><br />§ 2. De Vlaamse instrumenterende ambtenaren van de dienst Vastgoedakten zijn tevens bevoegd om de akten te verlijden betreffende de organisatie en het intern bestuur van de dochterondernemingen van LRM, waarin :<br />1° hetzij LRM enige aandeelhouder is;<br />2° hetzij het Vlaamse Gewest en LRM de enige aandeelhouders zijn;<br />3° hetzij LRM en één/of meer van haar dochtervennootschappen, bedoeld onder § 2, 1° en 2°, de enige aandeelhouders zijn.
+
 ## AFDELING 2 MISSIE, TAKEN EN MAATSCHAPPELIJK DOEL VAN PMV
 
 ### ART. 5.
@@ -44,6 +48,10 @@ In de vennootschapsstatuten van LRM zal tevens worden bepaald dat de vennootscha
 <br>
 In de vennootschapsstatuten van PMV zal tevens worden bepaald dat de vennootschap alle activiteiten kan verrichten die, rechtstreeks of onrechtstreeks, bijdragen tot de verwezenlijking van haar maatschappelijk doel.
 
+### ART. 5bis.
+
+§ 1. De Vlaamse instrumenterende ambtenaren van de dienst Vastgoedakten zijn bevoegd om de akten te verlijden betreffende de organisatie en het intern bestuur van PMV, voor zover het Vlaamse Gewest rechtstreeks of onrechtstreeks enige aandeelhouder is van PMV.<br /><br />§ 2. De Vlaamse instrumenterende ambtenaren van de dienst Vastgoedakten zijn tevens bevoegd om de akten te verlijden betreffende de organisatie en het intern bestuur van de dochterondernemingen van PMV, waarin :<br />1° hetzij PMV enige aandeelhouder is;<br />2° hetzij het Vlaamse Gewest en PMV de enige aandeelhouders zijn;<br />3° hetzij PMV en één/of meer van haar dochtervennootschappen, bedoeld onder § 2, 1° en 2°, de enige aandeelhouders zijn.
+
 ## AFDELING 3 MISSIE, TAKEN EN MAATSCHAPPELIJK DOEL VAN VPM
 
 ### ART. 6.
@@ -57,6 +65,10 @@ In de vennootschapsstatuten van PMV zal tevens worden bepaald dat de vennootscha
 4° het verrichten van alle hoegenaamde handels-, nijverheids-, financiële, roerende en onroerende verrichtingen die rechtstreeks of onrechtstreeks in verband staan met voormelde doelstellingen of die van aard zijn deze te begunstigen.<br>
 <br>
 In de vennootschapsstatuten van VPM zal tevens worden bepaald dat de vennootschap alle activiteiten kan verrichten die, rechtstreeks of onrechtstreeks, bijdragen tot de verwezenlijking van haar maatschappelijk doel.
+
+### ART. 6bis.
+
+§ 1. De Vlaamse instrumenterende ambtenaren van de dienst Vastgoedakten zijn bevoegd om de akten te verlijden betreffende de organisatie en het intern bestuur van VPM, voor zover het Vlaamse Gewest rechtstreeks of onrechtstreeks enige aandeelhouder is van VPM.<br /><br />§ 2. De Vlaamse instrumenterende ambtenaren van de dienst Vastgoedakten zijn tevens bevoegd om de akten te verlijden betreffende de organisatie en het intern bestuur van de dochterondernemingen van VPM, waarin :<br />1° hetzij VPM enige aandeelhouder is;<br />2° hetzij het Vlaamse Gewest en VPM de enige aandeelhouders zijn;<br />3° hetzij VPM en één/of meer van haar dochtervennootschappen, bedoeld onder § 2, 1° en 2°, de enige aandeelhouders zijn.
 
 ## HOOFDSTUK IV SAMENWERKINGSOVEREENKOMST
 
