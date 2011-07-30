@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020444,
+  "title": "Decreet van 2011-07-08 houdende diverse fiscale en financiële bepalingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020444/VolledigDocument?datum=2011-07-30",
+  "source_sha256": "abf9891e57a9ef65f8d21fcf51be186425e315db655ea8a0c78a536ad205ab37",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020444&param=informatie",
+  "as_of": "2011-07-30",
+  "made": "2011-07-08",
+  "gazette": "2011-07-20",
+  "numac": 2011035608,
+  "document_start": "2011-07-30",
+  "document_end": null,
+  "in_force": "2011-07-30",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2011-07-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
