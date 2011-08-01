@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021771,
+  "title": "Besluit van de Vlaamse Regering van 2012-05-04 tot wijziging van het besluit van de Vlaamse Regering van 1 september 2006 houdende de oprichting van de examencommissie van de Vlaamse Gemeenschap voor het voltijds secundair onderwijs wat betreft de vierde afdeling van de examencommissie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021771/VolledigDocument?datum=2011-08-01",
+  "source_sha256": "37132c90f87b1043d660c3b90b09e88b21b5c7bdd895093ad7af02d7d12f7b7b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021771&param=informatie",
+  "as_of": "2011-08-01",
+  "made": "2012-05-04",
+  "gazette": "2012-05-25",
+  "numac": 2012202782,
+  "document_start": "2011-08-01",
+  "document_end": null,
+  "in_force": "2011-08-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2011-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
