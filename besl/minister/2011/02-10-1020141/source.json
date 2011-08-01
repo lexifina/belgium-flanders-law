@@ -2,16 +2,16 @@
   "codex_id": 1020141,
   "title": "Ministerieel besluit van 2011-02-10 tot vastlegging van de frequentie en de elementen van de keuring van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW in gebouwen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020141/VolledigDocument?datum=2011-04-10",
-  "source_sha256": "7c6f11a5cbf3f987b08563faad0cc9994ae32d7502441694732c9a654c986bee",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020141/VolledigDocument?datum=2011-08-01",
+  "source_sha256": "bb780d31a54a920653693d2e3bdc3dc67ff4136a74db9205849338e78614be9e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020141&param=informatie",
-  "as_of": "2011-04-10",
+  "as_of": "2011-08-01",
   "made": "2011-02-10",
   "gazette": "2011-03-31",
   "numac": 2011201464,
   "document_start": "2011-04-10",
   "document_end": "2021-03-06",
-  "in_force": "2011-04-10",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2011-04-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2011-08-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2011-08-01; future article versions excluded; article text as the API gives it"
 }
