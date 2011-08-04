@@ -56,17 +56,49 @@ Artikel 78 van het decreet van 23 december 2010 houdende bepalingen tot begeleid
 
 ## HOOFDSTUK 5. Gezondheidszorg
 
+### ART. 16.
+
+In artikel 2 van het decreet van 7 juli 1998 houdende bepalingen tot begeleiding van de aanpassing van de begroting 1998, vervangen bij het decreet van 19 december 2003, worden de volgende wijzigingen aangebracht :<br /><br />1° in paragraaf 1 wordt tussen de woorden "Brussel-Hoofdstad," en de woorden ", wordt opgericht" de zinsnede "en voor de uitvoering van Europese overeenkomsten" ingevoegd;<br /><br />2° er wordt een paragraaf 2/1 ingevoegd, die luidt als volgt :<br />« § 2/1. Het Fonds wordt gespijsd met middelen die in uitvoering van Europese overeenkomsten worden betaald. »;<br /><br />3° er wordt een paragraaf 3/1 ingevoegd, die luidt als volgt :<br />« § 3/1. Ten laste van dit Fonds worden alle soorten uitgaven van de administratie Zorg en Gezondheid aangerekend, zowel voor personeel, als voor werking of uitrusting voor zover deze uitgaven verband houden met de uitvoering van Europese overeenkomsten. »
+
 ## HOOFDSTUK 6. Knelpuntdossiers VAPH en FJW
+
+### ART. 17.
+
+In artikel 37 van het decreet van 19 december 2008 houdende bepalingen tot begeleiding van de begroting van 2009, gewijzigd bij het decreet van 18 december 2009, wordt de zin "Het experiment heeft een maximum looptijd van drie jaar. » vervangen door de zin "Het experiment heeft een maximale looptijd van vijf jaar. ».
 
 ## HOOFDSTUK 7. Fonds CCP-ECP
 
+### ART. 18.
+
+Bij het departement Cultuur, Jeugd, Sport en Media wordt een fonds, het "Fonds CCP-ECP" genoemd, opgericht, in de zin van artikel 45 van de wetten op de Rijkscomptabiliteit, gecoördineerd op 17 juli 1991.<br /><br />De middelen van het Fonds kunnen uitsluitend aangewend worden voor de kosten die ontstaan in het kader van de werking van het Cultuur Contactpunt (CCP) en het Burgerschapscontactpunt (ECP).<br /><br />Aan het Fonds worden toegewezen de subsidies die in het kader van subsidieovereenkomsten met de Europese Commissie worden ontvangen ter ondersteuning van het Cultuurcontactpunt en het Burgerschapscontactpunt (cofinanciering) en het saldo van de subsidies die de voorgaande jaren werden uitbetaald maar nog niet werden uitgegeven en zich bevinden op de orderekening HBO 8H0400 inclusief eventuele openstaande vorderingen (vastgestelde rechten) op deze orderekening.
+
 ## HOOFDSTUK 8. Fonds voor Landinrichting en Natuurlijke rijkdommen
+
+### ART. 19.
+
+In artikel 23, § 1, van het decreet van 21 december 1990 houdende begrotingstechnische bepalingen alsmede bepalingen tot begeleiding van de begroting 1991, laatst vervangen bij het decreet van 7 juli 1998, wordt aan het tweede lid een punt f) toegevoegd, dat luidt als volgt :<br /><br />« f) de ontvangsten voortvloeiend uit de toepassing van het decreet van 8 mei 2009 betreffende de diepe ondergrond. »<br /><br />
+
+### ART. 20.
+
+In artikel 23, § 1, van hetzelfde decreet, wordt het laatste lid vervangen door wat volgt :<br /><br />« De Vlaamse Regering beschikt over de kredieten van het Fonds voor Landinrichting en Natuurlijke rijkdommen voor al wat kan dienen in het raam van het beleid inzake de verwezenlijking van de eindafwerking van ontginningsgebieden overeenkomstig het Oppervlaktedelfstoffendecreet, de verplichtingen van het Vlaamse Gewest in uitvoering van het decreet van 8 mei 2009 betreffende de diepe ondergrond, ruilverkaveling van landeigendommen en landinrichting, met uitzondering evenwel van de loon- en werkingskosten van de diensten van de Vlaamse Gemeenschap. De effectieve ontvangsten uit gestelde zekerheden kunnen enkel aangewend worden voor uitgaven waarvoor de financiële zekerheden gesteld werden. »
 
 ## HOOFDSTUK 9. Fonds voor de behandeling van de erkenningsaanvragen en de uitoefening van het toezicht op de erkenningen met betrekking tot het leefmilieu
 
+### ART. 21.
+
+§ 1. Er wordt een "Fonds voor de behandeling van de erkenningsaanvragen en de uitoefening van het toezicht op de erkenningen met betrekking tot het leefmilieu" opgericht, hierna genoemd "het Fonds". Het Fonds is een begrotingsfonds in de zin van artikel 45 van de wetten op de Rijkscomptabiliteit, gecoördineerd op 17 juli 1991.<br /><br />§ 2. Het Fonds wordt gespijsd met de retributies voor de behandeling van de aanvraag tot erkenning en de uitoefening van het toezicht op de erkenningen met betrekking tot het leefmilieu die worden geheven in uitvoering van artikel 22novies van het decreet van 28 juni 1985 betreffende de milieuvergunning.<br /><br />§ 3. De inkomsten van het Fonds kunnen aangewend worden voor alle werkingsuitgaven, voor zover deze uitgaven verband houden met de behandeling van de aanvragen tot erkenning en de uitoefening van het toezicht op de erkenningen met betrekking tot het leefmilieu.
+
 ## HOOFDSTUK 10. Overdracht gronden NV Aquafin
 
+### ART. 22.
+
+In afwijking van artikel 1, derde lid, en artikel 2 van de wet van 31 mei 1923 betreffende de vervreemding van onroerende domeingoederen, gewijzigd bij de wetten van 2 juli 1969 en 6 juli 1989 en van toepassing verklaard op het Vlaamse Gewest bij artikel 22 van het decreet van 20 december 1989 houdende bepalingen tot uitvoering van de begroting van de Vlaamse Gemeenschap, is de Vlaamse Regering ertoe gemachtigd de gronden met de daarop aanwezige opstallen hierna opgesomd, te verkopen aan de NV Aquafin :<br />1° RWZI Geraardsbergen, kadastraal gekend als 3e afdeling, sectie A, nrs. 746E, 743E2en 743F2;<br />2° RWZI Boortmeerbeek, kadastraal gekend als 1e afdeling, sectie A, nrs. 76D, 41A, 83F2 en 82F;<br />3° RWZI Grimbergen, kadastraal gekend als 1e afdeling, sectie B, nrs. 151Een 151G; <br />4° RWZI Alken, kadastraal gekend als 2e afdeling, sectie D, nrs. 835e, 850b, 85la en Alken, 2e afdeling, sectie C nr. 11B;<br />5° RWZI Hoeselt, kadastraal gekend als 1e afdeling, sectie G, nr. 700B; <br />6° RWZI Kortemark, kadastraal gekend als 1e afdeling, sectie C, nrs. 1245C en 1233B; <br />7° RWZI Rotselaar, kadastraal gekend als 3e afdeling, sectie A, nr. 12F; <br />8° RWZI Londerzeel, kadastraal gekend als 1e afdeling, sectie A, nrs. 249A, 250A, 542, 543Ben251H;<br />9° RWZI Zichen, kadastraal gekend als 6e afdeling, sectie B, nr. 959R; <br />10° RWZI Deinze, kadastraal gekend als 10e afdeling, sectie C, nrs. 359D en 357B; <br />11° RWZI Parike, kadastraal gekend als 6e afdeling, sectie A, nrs. 1130B, 1131D, 53M en l l32K; <br />12° RWZI Sint-Maria-Lierde, kadastraal gekend als 1e afdeling, sectie B, nrs. 191N en191P; <br />13° RWZI Kampenhout, kadastraal gekend als 1e afdeling, sectie D, nrs. 356A, 358B, 358C, 360Ken361K;<br />14° RWZI Ruisbroek-Puurs, kadastraal gekend als 2e afdeling, sectie C, nr. 401D; <br />15° RWZI Boekhoute, kadastraal gekend als 4e afdeling, sectie A, nrs. 556C, 582A en 583;<br />16° RWZI Steenokkerzeel-Noord, kadastraal gekend als 4e afdeling, sectie D, nr. 701B; <br />17° RWZI Moerbeke, kadastraal gekend als 1e afdeling, sectie E, nr. 415C2; <br />18° RWZI Ruisbroek/Puurs, kadastraal gekend als 2e afdeling, sectie C, nrs. 400B, 399E, 396C en 401C.
+
 ## HOOFDSTUK 11. Rioolwaterzuiveringsinfrastructuur
+
+### ART. 23.
+
+In artikel 10.2.4, § 6, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, ingevoegd bij decreet van 9 juli 2010, worden de woorden "de gronden en de bijhorende bouwwerken van rioolwaterzuiveringsinstallaties" vervangen door de woorden "de rioolwaterzuiveringsinfrastructuur en/of de bijhorende gronden".
 
 ## HOOFDSTUK 12. Brabo II
 
