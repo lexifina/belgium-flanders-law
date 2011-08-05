@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020459,
+  "title": "Decreet van 2011-07-01 houdende instemming met de overeenkomst houdende de tweede wijziging van de partnerschapsovereenkomst tussen de leden van de Groep van Afrika, het Caribische Gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, ondertekend in Cotonou op 23 juni 2000, zoals gewijzigd in Luxemburg op 25 juni 2005, en de slotakte, ondertekend in Ouagadougou op 22 juni 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020459/VolledigDocument?datum=2011-08-05",
+  "source_sha256": "1df181ae0157d1c1db956e0fc317160cfa07202f16e012e86aa3d85e1a48cd3c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020459&param=informatie",
+  "as_of": "2011-08-05",
+  "made": "2011-07-01",
+  "gazette": "2011-07-26",
+  "numac": 2011203759,
+  "document_start": "2011-08-05",
+  "document_end": null,
+  "in_force": "2011-08-05",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-08-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
