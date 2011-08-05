@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020466,
+  "title": "Omzendbrief van 2011-07-01 BB 2011/2. Raadpleging van de bevolkingsregisters voor interne doeleinden",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020466/VolledigDocument?datum=2011-08-05",
+  "source_sha256": "e55607680b42a54dc52caf6f788703832946896df352646d64a49cf7fae9923a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020466&param=informatie",
+  "as_of": "2011-08-05",
+  "made": "2011-07-01",
+  "gazette": "2011-07-26",
+  "numac": 2011203752,
+  "document_start": "2011-08-05",
+  "document_end": null,
+  "in_force": "2011-08-05",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2011-08-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
