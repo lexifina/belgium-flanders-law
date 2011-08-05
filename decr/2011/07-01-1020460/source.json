@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020460,
+  "title": "Decreet van 2011-07-01 houdende instemming met de overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds, tot wijziging van de overeenkomst inzake handel, ontwikkeling en samenwerking, ondertekend in Kleinmond op 11 september 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020460/VolledigDocument?datum=2011-08-05",
+  "source_sha256": "2bc0afb4eb67484000905b10e88fff1e88cf3ea2e016aa39ba018e92ce7e7e81",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020460&param=informatie",
+  "as_of": "2011-08-05",
+  "made": "2011-07-01",
+  "gazette": "2011-07-26",
+  "numac": 2011203760,
+  "document_start": "2011-08-05",
+  "document_end": null,
+  "in_force": "2011-08-05",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-08-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
