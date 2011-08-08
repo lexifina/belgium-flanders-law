@@ -6,8 +6,8 @@ De Vlaamse Minister van Institutionele Hervormingen, Havens, Landbouw, Zeevisser
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° XML of Extensible Markup Language : een standaard om gegevens gestructureerd vast te leggen;<br />2° EDIFACT of Electronic Data Interchange for Administration, Commerce and Transport : standaarden op diverse niveaus om elektronische berichten te definiëren;<br />3° X.400-communicatievoorziening : een standaard voor datacommunicatienetwerken, een beveiligd netwerk dat gebruikt wordt om elektronische berichten te versturen;<br />4° het besluit betreffende de begeleiding van de scheepvaart : het besluit van de Vlaamse Regering van 26 oktober 2007 betreffende de begeleiding van de scheepvaart.<br /><br />
+...
 
 ### ART. 2.
 
-Het elektronisch berichtenverkeer, vermeld in het besluit betreffende de begeleiding van de scheepvaart, maakt gebruik van de volgende syntax en procedures :<br />1° de gegevens worden verzonden, ontvangen en geconverteerd tussen systemen die gebruikmaken van de XML- of EDIFACT-syntax, gebaseerd op internet- of X.400-communicatievoorzieningen;<br />2° het berichtenscenario, de berichtenfuncties en het verband tussen de berichten worden uitgewerkt overeenkomstig het Interface Control Document van de Europese Commissie, waarin ook de tijdsduur en de prestaties van het berichtenverkeer, alsook de voor de gegevensuitwisseling gebruikte protocollen en parameters zijn bepaald.<br />De gegevensinhoud van de vereiste berichtenfuncties wordt bepaald en de berichten worden beschreven overeenkomstig het Interface Control Document van de Europese Commissie;<br />3° als dat praktisch mogelijk is, omvatten de procedures en infrastructuur, vermeld in dit artikel, de verplichtingen inzake melding en gegevensuitwisseling die voortvloeien uit andere Europese richtlijnen.<br /><br />
+...
