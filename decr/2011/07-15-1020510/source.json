@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020510,
+  "title": "Decreet van 2011-07-15 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap NV Vlaams Energiebedrijf",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020510/VolledigDocument?datum=2011-08-10",
+  "source_sha256": "1382221e571a32add49257c8158263f12dc4e67bf096aeed6d8c2f5577197b21",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020510&param=informatie",
+  "as_of": "2011-08-10",
+  "made": "2011-07-15",
+  "gazette": "2011-08-10",
+  "numac": 2011203941,
+  "document_start": "2011-08-10",
+  "document_end": null,
+  "in_force": "2011-08-10",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2011-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
