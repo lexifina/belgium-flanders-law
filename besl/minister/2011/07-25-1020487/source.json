@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020487,
+  "title": "Ministerieel besluit van 2011-07-25 tot hoogdringende onteigening ten algemenen nutte van onroerende goederen bestemd voor de herinrichting van de Noord-Zuidverbinding te Beveren door de Vlaamse Milieumaatschappij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020487/VolledigDocument?datum=2011-08-15",
+  "source_sha256": "a9e686eef34f5cf5e7522dd010cf0d15bbd7700046a2093b54addd2c86b70d55",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020487&param=informatie",
+  "as_of": "2011-08-15",
+  "made": "2011-07-25",
+  "gazette": "2011-08-05",
+  "numac": 2011035644,
+  "document_start": "2011-08-15",
+  "document_end": null,
+  "in_force": "2011-08-15",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2011-08-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
