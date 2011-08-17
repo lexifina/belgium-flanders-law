@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020535,
+  "title": "Ministerieel besluit van 2011-07-20 tot bepaling van de standaard voor de titel van gezinsondersteuner",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020535/VolledigDocument?datum=2011-08-17",
+  "source_sha256": "4a4a5c421154a313a8e128e2d2bc6b99401d684800f0c40032d82b4eb826d188",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020535&param=informatie",
+  "as_of": "2011-08-17",
+  "made": "2011-07-20",
+  "gazette": "2011-08-17",
+  "numac": 2011204028,
+  "document_start": "2011-08-17",
+  "document_end": "2018-12-31",
+  "in_force": "2011-08-17",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-08-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
