@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020493,
+  "title": "Besluit van de Vlaamse Regering van 2011-07-08 houdende indeling bij de gemeentewegen van de gewestweg N78-902 doortocht te Maaseik tussen kmp. 1, 647 en 2, 307 op het grondgebied van de stad Maaseik",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020493/VolledigDocument?datum=2011-08-18",
+  "source_sha256": "0a30142ed604088869a41ae024889a9ed0bba6537e3715799359aa34a92366db",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020493&param=informatie",
+  "as_of": "2011-08-18",
+  "made": "2011-07-08",
+  "gazette": "2011-08-08",
+  "numac": 2011203920,
+  "document_start": "2011-08-18",
+  "document_end": null,
+  "in_force": "2011-08-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-08-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
