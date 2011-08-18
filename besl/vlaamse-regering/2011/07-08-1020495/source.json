@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020495,
+  "title": "Besluit van de Vlaamse Regering van 2011-07-08 houdende indeling bij de gemeentewegen van de gewestweg N470 tussen kmp. 5 710 en 6 130 op het grondgebied van de gemeente Hamme",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020495/VolledigDocument?datum=2011-08-18",
+  "source_sha256": "fea1ae2b40937293e443c61206024a62d62499c96173d5dacfb9785f8960df7e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020495&param=informatie",
+  "as_of": "2011-08-18",
+  "made": "2011-07-08",
+  "gazette": "2011-08-08",
+  "numac": 2011203922,
+  "document_start": "2011-08-18",
+  "document_end": null,
+  "in_force": "2011-08-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-08-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
