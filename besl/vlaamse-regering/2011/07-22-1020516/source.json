@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020516,
+  "title": "Besluit van de Vlaamse Regering van 2011-07-22 houdende goedkeuring van programmaties in het deeltijds kunstonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020516/VolledigDocument?datum=2011-08-22",
+  "source_sha256": "7b58512d2c4c54d99e1057108a45f001d09a2fc9d410e4af988428a19d588e08",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020516&param=informatie",
+  "as_of": "2011-08-22",
+  "made": "2011-07-22",
+  "gazette": "2011-08-12",
+  "numac": 2011204055,
+  "document_start": "2011-08-22",
+  "document_end": null,
+  "in_force": "2011-08-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-08-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
