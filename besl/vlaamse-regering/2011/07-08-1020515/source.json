@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020515,
+  "title": "Besluit van de Vlaamse Regering van 2011-07-08 houdende de herverdeling van het provisioneel krediet, ingeschreven onder de basisallocatie DB0 DB000 0100 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2011",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020515/VolledigDocument?datum=2011-08-22",
+  "source_sha256": "83647e185a1b897312e9dc8200749dd74e7ba1e7dd2635e9fd98d8243c45193c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020515&param=informatie",
+  "as_of": "2011-08-22",
+  "made": "2011-07-08",
+  "gazette": "2011-08-12",
+  "numac": 2011035652,
+  "document_start": "2011-08-22",
+  "document_end": null,
+  "in_force": "2011-08-22",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-08-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
