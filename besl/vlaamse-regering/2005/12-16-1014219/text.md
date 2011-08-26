@@ -4,35 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br>
-<br>
-1° bestanden: beschikbare en toegankelijke levende mariene aquatische soorten, met inbegrip van de anadrome en katadrome soorten tijdens hun mariene levensduur;<br>
-<br>
-2° vissersvaartuig: elk vaartuig dat is uitgerust voor de commerciële exploitatie van bestanden;<br>
-<br>
-3° visvergunning: document dat aan de eigenaar van een vissersvaartuig het recht verleent om een bepaalde capaciteit te gebruiken, uitgedrukt in kW en GT, voor de commerciële exploitatie van bestanden;<br>
-<br>
-4° motorvermogen: het vermogen dat is vermeld in de « Officiële lijst der Belgische vissersvaartuigen », zoals bijgehouden door het departement Maritiem Vervoer van de Federale Overheidsdienst Mobiliteit en Vervoer;<br>
-<br>
-5° bijkomend motorvermogen: het vermogen dat ingevolge samenvoeging van motorvermogens niet benut kan worden en dat bijgeschreven wordt op de visvergunning;<br>
-<br>
-6° groot vlootsegment: alle vissersvaartuigen die volgens de « Officiële lijst der Belgische vissersvaartuigen », zoals bijgehouden door het departement Maritiem Vervoer van de Federale Overheidsdienst Mobiliteit en Vervoer, een motorvermogen hebben van meer dan 221 kW en gelijk aan of minder dan 1200 kW, eventueel met inbegrip van het bijkomende motorvermogen;<br>
-<br>
-7° klein vlootsegment: alle vissersvaartuigen die volgens de « Officiële lijst der Belgische vissersvaartuigen », zoals bijgehouden door het departement Maritiem Vervoer van de Federale Overheidsdienst Mobiliteit en Vervoer, een motorvermogen hebben van 221 kW of minder, eventueel met inbegrip van het bijkomende motorvermogen, met uitsluiting van de vissersvaartuigen die behoren tot het kustvisserssegment;<br>
-<br>
-8° kustvisserssegment: alle vissersvaartuigen die volgens de « Officiële lijst der Belgische vissersvaartuigen », zoals bijgehouden door het departement Maritiem Vervoer van de Federale Overheidsdienst Mobiliteit en Vervoer, een motorvermogen hebben van 221 kW of minder, eventueel met inbegrip van het bijkomende motorvermogen, een tonnenmaat van hoogstens 70 GT, en die zeereizen ondernemen van hoogstens 24 uur waarvan het begin en einde in een Belgische haven is en waarvoor de Dienst gunstig heeft beslist over de aanvraag, vermeld in artikel 8, § 4, eerste lid;<br>
-<br>
-9° communautaire viswateren: de wateren onder de soevereiniteit of jurisdictie van de lidstaten van de Europese Unie;<br>
-<br>
-10° definitieve beëindiging van de activiteit: de beëindiging, vermeld in artikel 7 van Verordening (EG) nr. 2792/1999 van 17 december 1999;<br>
-<br>
-11° kustwateren: de zeewateren die zich tot twaalf zeemijl uitstrekken van de basislijnen vanaf dewelke de territoriale zee op het ogenblik van de totstandkoming van de communautaire regeling voor de instandhouding, het beheer en duurzame exploitatie van de visbestanden werd gemeten;<br>
-<br>
-12° internationale meetbrief: document uitgereikt door het departement Maritiem Vervoer van de Federale Overheidsdienst Mobiliteit en Vervoer krachtens de bepalingen van het internationaal verdrag betreffende de meting van schepen (1969) namens de regering van het koninkrijk België, voor welk land het verdrag in werking is getreden op 18 juli 1982;<br>
-<br>
-13° de Dienst: de dienst Zeevisserij van de afdeling Landbouw- en Visserijbeleid, administratie Land- en Tuinbouw van het ministerie van de Vlaamse Gemeenschap, Vrijhavenstraat 5, 8400 Oostende;<br>
-<br>
-14° de minister: de Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° bestanden: beschikbare en toegankelijke levende mariene aquatische soorten, met inbegrip van de anadrome en katadrome soorten tijdens hun mariene levensduur;<br />2° vissersvaartuig: elk vaartuig dat is uitgerust voor de commerciële exploitatie van bestanden;<br />3° visvergunning: document dat aan de eigenaar van een vissersvaartuig het recht verleent om een bepaalde capaciteit te gebruiken, uitgedrukt in kW en GT, voor de commerciële exploitatie van bestanden;<br />4° motorvermogen: het vermogen dat is vermeld in de « Officiële lijst der Belgische vissersvaartuigen », zoals bijgehouden door het departement Maritiem Vervoer van de Federale Overheidsdienst Mobiliteit en Vervoer;<br />5° bijkomend motorvermogen: het vermogen dat ingevolge samenvoeging van motorvermogens niet benut kan worden en dat bijgeschreven wordt op de visvergunning;<br />6° groot vlootsegment: alle vissersvaartuigen die volgens de « Officiële lijst der Belgische vissersvaartuigen », zoals bijgehouden door het departement Maritiem Vervoer van de Federale Overheidsdienst Mobiliteit en Vervoer, een motorvermogen hebben van meer dan 221 kW en gelijk aan of minder dan 1200 kW, eventueel met inbegrip van het bijkomende motorvermogen;<br />7° klein vlootsegment: alle vissersvaartuigen die volgens de « Officiële lijst der Belgische vissersvaartuigen », zoals bijgehouden door het departement Maritiem Vervoer van de Federale Overheidsdienst Mobiliteit en Vervoer, een motorvermogen hebben van 221 kW of minder, eventueel met inbegrip van het bijkomende motorvermogen, met uitsluiting van de vissersvaartuigen die behoren tot het kustvisserssegment;<br />8° kustvisserssegment: alle vissersvaartuigen die volgens de « Officiële lijst der Belgische vissersvaartuigen », zoals bijgehouden door het departement Maritiem Vervoer van de Federale Overheidsdienst Mobiliteit en Vervoer, een motorvermogen hebben van 221 kW of minder, eventueel met inbegrip van het bijkomende motorvermogen, een tonnenmaat van hoogstens 70 GT, en die zeereizen ondernemen van een door de minister te bepalen maximale duur waarvan het begin en einde in een Belgische haven is en waarvoor de Dienst gunstig heeft beslist over de aanvraag, vermeld in artikel 8, § 4, eerste lid;<br />9° communautaire viswateren: de wateren onder de soevereiniteit of jurisdictie van de lidstaten van de Europese Unie;<br />10° definitieve beëindiging van de activiteit: de beëindiging, vermeld in artikel 7 van Verordening (EG) nr. 2792/1999 van 17 december 1999;<br />11° kustwateren: de zeewateren die zich tot twaalf zeemijl uitstrekken van de basislijnen vanaf dewelke de territoriale zee op het ogenblik van de totstandkoming van de communautaire regeling voor de instandhouding, het beheer en duurzame exploitatie van de visbestanden werd gemeten;<br />12° internationale meetbrief: document uitgereikt door het departement Maritiem Vervoer van de Federale Overheidsdienst Mobiliteit en Vervoer krachtens de bepalingen van het internationaal verdrag betreffende de meting van schepen (1969) namens de regering van het koninkrijk België, voor welk land het verdrag in werking is getreden op 18 juli 1982;<br />13° de Dienst: de dienst Zeevisserij van de afdeling Landbouw- en Visserijbeleid, Departement Landbouw en Visserij van de Vlaamse overheid, Vrijhavenstraat 5, 8400 Oostende;<br />14° de minister: de Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij;<br />15° vangstrechtfactor : de factor die toegepast wordt bij de toewijzing van vangstmogelijkheden op basis van het motorvermogen, en die meer in het bijzonder van toepassing is op het variabele gedeelte van toegekende vangstmogelijkheden per eenheid motorvermogen, eventueel verhoogd met het bijkomend motorvermogen;<br />16° vangstrechtcertificaat : document dat de vangstrechtfactor die verschilt van één, voor een bepaald vissersvaartuig vaststelt door te verwijzen naar het unieke nummer van het vissersvaartuig volgens het communautaire gegevensbestand over de vissersvloot;<br />17° toewijsperiode : de tijdspanne waarin de toegekende vangstmogelijkheden volgens motorvermogen van toepassing zijn. Voor het grote vlootsegment wordt doorgaans met drie periodes gewerkt, namelijk van 1 januari tot en met 30 juni, van 1 juli tot en met 31 oktober en van 1 november tot en met 31 december. Voor het kleine vlootsegment wordt doorgaans met twee periodes gewerkt, namelijk van 1 januari tot en met 31 oktober en van 1 november tot en met 31 december.
 
 ## HOOFDSTUK II Visvergunning
 
@@ -108,32 +80,31 @@ De bepalingen in het eerste lid met betrekking tot de brutotonnenmaat en de leng
 
 ### ART. 8.
 
-§ 1. De eigenaar van een vissersvaartuig waarvoor een visvergunning is uitgereikt en die dat vissersvaartuig aan de vloot onttrekt, kan een aanvraag richten tot de Dienst om het motorvermogen, vermeld op de visvergunning, geheel of gedeeltelijk samen te voegen met het motorvermogen van een of meer bestaande vissersvaartuigen waarvoor een visvergunning werd uitgereikt. Ingevolge samenvoeging van motorvermogens kan het bestaande vissersvaartuig waarop wordt samengevoegd niet veranderen van segment.<br>
-<br>
-Als het gehele of een gedeelte van het motorvermogen vermeld op de visvergunning, niet benut kan worden om technische redenen of zonder belangrijke investeringen aan de motor of aan het vissersvaartuig, kan de eigenaar, vermeld in het eerste lid, een aanvraag richten tot de Dienst om dat motorvermogen als bijkomend motorvermogen te behouden.<br>
-<br>
-De aanvraag, vermeld in het eerste en tweede lid, moet per aangetekende brief gericht worden aan de Dienst op een formulier dat ter beschikking is bij de Dienst en moet ondertekend zijn door alle partijen die betrokken zijn bij de samenvoeging.<br>
-<br>
-De Dienst beslist over de aanvraag binnen een periode van dertig dagen, te rekenen vanaf de datum van ontvangst van een volledig juist ingevuld formulier. De verhoging van het motorvermogen moet uitgevoerd worden binnen zestig dagen vanaf de mededeling van de beslissing van de Dienst. Zo niet komt het samen te voegen motorvermogen ter beschikking van de Dienst.<br>
-<br>
-§ 2. Het motorvermogen, vermeerderd met het samengevoegde motorvermogen en met het bijkomende motorvermogen, mag niet hoger zijn dan 1200 kW voor vissersvaartuigen van het grote vlootsegment. Het gedeelte boven de 1200 kW komt ter beschikking van de Dienst.<br>
-<br>
-Het motorvermogen, vermeerderd met het samengevoegde motorvermogen en met het bijkomende motorvermogen, mag niet hoger zijn dan 221 kW voor vissersvaartuigen van het kleine vlootsegment en het kustvisserssegment. Het gedeelte boven de 221 kW komt ter beschikking van de Dienst.<br>
-<br>
-§ 3. Het gedeelte van het motorvermogen van een vissersvaartuig waarvan de visvergunning komt te vervallen en dat door de Dienst niet samengevoegd kan worden met het motorvermogen van een bestaand vissersvaartuig of dat door de Dienst niet toegekend kan worden als bijkomend motorvermogen komt ter beschikking van de Dienst en vervalt voor de betrokken eigenaar.<br>
-<br>
-§ 4. Als de eigenaar van een vissersvaartuig zijn vissersvaartuig wil laten opnemen in het kustvisserssegment, dient hij daarvoor per aangetekende brief een aanvraag in bij de Dienst op een formulier dat ter beschikking is bij de Dienst. De Dienst beslist over de aanvraag binnen een periode van dertig dagen, te rekenen vanaf de datum van ontvangst van een volledig juist ingevuld formulier.<br>
-<br>
-Het motorvermogen en eventueel het bijkomende motorvermogen van een vissersvaartuig dat is opgenomen in het kustvisserssegment kan vanaf de beslissing van de Dienst voor een periode van vijf jaar niet worden samengevoegd met het motorvermogen van een ander vissersvaartuig.<br>
-§ 5. Met behoud van de toepassing van § 2 tot en met § 4 voegt de Dienst, na voorlegging van de nieuwe internationale meetbrief, het motorvermogen samen met het bestaande motorvermogen op de visvergunning van de betrokken eigenaar, en kent het bijkomende motorvermogen, dat om de redenen, vermeld in § 1, tweede lid niet kan worden benut toe aan de betrokken eigenaar, en schrijft dat bijkomende motorvermogen in op de visvergunning naast het motorvermogen als "+ aantal kW bijkomend motorvermogen".
+§ 1. De eigenaar van een vissersvaartuig waarvoor een visvergunning is uitgereikt en die dat vissersvaartuig aan de vloot onttrekt, kan een aanvraag richten tot de Dienst om het motorvermogen, vermeld op de visvergunning, geheel of gedeeltelijk samen te voegen met het motorvermogen van een of meer bestaande vissersvaartuigen waarvoor een visvergunning werd uitgereikt. Ingevolge samenvoeging van motorvermogens kan het bestaande vissersvaartuig waarop wordt samengevoegd niet veranderen van segment.<br /><br />Als het gehele of een gedeelte van het motorvermogen vermeld op de visvergunning, niet benut kan worden om technische redenen of zonder belangrijke investeringen aan de motor of aan het vissersvaartuig, kan de eigenaar, vermeld in het eerste lid, een aanvraag richten tot de Dienst om dat motorvermogen als bijkomend motorvermogen te behouden.<br /><br />De aanvraag, vermeld in het eerste en tweede lid, moet per aangetekende brief gericht worden aan de Dienst op een formulier dat ter beschikking is bij de Dienst en moet ondertekend zijn door alle partijen die betrokken zijn bij de samenvoeging.<br /><br />De Dienst beslist over de aanvraag binnen een periode van dertig dagen, te rekenen vanaf de datum van ontvangst van een volledig juist ingevuld formulier. De verhoging van het motorvermogen moet uitgevoerd worden binnen zestig dagen vanaf de mededeling van de beslissing van de Dienst. Zo niet komt het samen te voegen motorvermogen ter beschikking van de Dienst.<br /><br />§ 2. Het motorvermogen, vermeerderd met het samengevoegde motorvermogen en met het bijkomende motorvermogen, mag niet hoger zijn dan 1200 kW voor vissersvaartuigen van het grote vlootsegment. Het gedeelte boven de 1200 kW komt ter beschikking van de Dienst.<br /><br />Het motorvermogen, vermeerderd met het samengevoegde motorvermogen en met het bijkomende motorvermogen, mag niet hoger zijn dan 221 kW voor vissersvaartuigen van het kleine vlootsegment en het kustvisserssegment. Het gedeelte boven de 221 kW komt ter beschikking van de Dienst.<br /><br />§ 3. Het gedeelte van het motorvermogen van een vissersvaartuig waarvan de visvergunning vervalt, komt ter beschikking van de Dienst en vervalt voor de betrokken eigenaar, als dat gedeelte : <br />1° door de Dienst niet samengevoegd kan worden met het motorvermogen van een bestaand vissersvaartuig;<br />2° door de Dienst niet toegekend kan worden als bijkomend motorvermogen;<br />3° niet ingeleverd kan worden om de vangstrechtfactor aan te passen.<br /><br />§ 4. Als de eigenaar van een vissersvaartuig zijn vissersvaartuig wil laten opnemen in het kustvisserssegment, dient hij daarvoor per aangetekende brief een aanvraag in bij de Dienst op een formulier dat ter beschikking is bij de Dienst. De Dienst beslist over de aanvraag binnen een periode van dertig dagen, te rekenen vanaf de datum van ontvangst van een volledig juist ingevuld formulier.<br /><br />Het motorvermogen en eventueel het bijkomende motorvermogen van een vissersvaartuig dat is opgenomen in het kustvisserssegment kan vanaf de beslissing van de Dienst voor een periode van vijf jaar niet worden samengevoegd met het motorvermogen van een ander vissersvaartuig.<br />§ 5. Met behoud van de toepassing van § 2 tot en met § 4 voegt de Dienst, na voorlegging van de nieuwe internationale meetbrief, het motorvermogen samen met het bestaande motorvermogen op de visvergunning van de betrokken eigenaar, en kent het bijkomende motorvermogen, dat om de redenen, vermeld in § 1, tweede lid niet kan worden benut toe aan de betrokken eigenaar, en schrijft dat bijkomende motorvermogen in op de visvergunning naast het motorvermogen als "+ aantal kW bijkomend motorvermogen".
 
 ## [HOOFDSTUK IV/1 Aanpassing van de vangstrechtfactor via onttrekking en inlevering van motorvermogens (ing. BVR 22 juli 2011, art. 3)]
 
 ## [Afdeling I. modaliteiten vangstrechtfactor (ing. BVR 22 juli 2011, art. 3)]
 
+### ART. 8/1.
+
+Via een vangstrechtcertificaat kan de vangstrechtfactor, die zonder certificaat 1 is, tot maximaal 1,25 worden opgetrokken.<br /><br />De vangstrechtfactor is vaartuiggebonden en wordt niet mee overgedragen in het kader van samenvoeging van motorvermogens.<br /><br />Een vissersvaartuig kan op hetzelfde ogenblik maar één vangstrechtfactor hebben.<br /><br />Als een vissersvaartuig verschillende vangstrechtfactoren heeft gedurende dezelfde toewijsperiode, is de hoogste vangstrechtfactor van toepassing op voorwaarde dat het vissersvaartuig waarvan motorvermogens worden ingeleverd, niet heeft gevist tijdens de toewijsperiode.
+
 ## [Afdeling II. Inlevering motorvermogens in het kader van motorvervanging (ing. BVR 22 juli 2011, art. 3)]
 
+### ART. 8/2.
+
+Als een vissersvaartuig in het kader van artikel 25, derde lid, punt b) en c), van verordening (EG) nr. 1198/2006 van de Raad van 27 juli 2006 inzake het Europees Visserijfonds ten minste 20 % van het motorvermogen, vermeld in het EG-visserijvlootregister, heeft ingeleverd, wordt voor dat vissersvaartuig een vangstrechtcertificaat met een vangstrechtfactor van 1,25 toegekend. Die vangstrechtfactor is van toepassing op het motorvermogen, inclusief het bijkomend vermogen, vermeld op de visvergunning, eventueel na samenvoeging.
+
 ## [Afdeling III. Inlevering van motorvermogens via onttrekking van bestaande vaartuigen met visvergunning (ing. BVR 22 juli 2011, art. 3)]
+
+### ART. 8/3.
+
+Als voor een vissersvaartuig het maximale motorvermogen, vermeld in artikel 8, § 2, is ingevuld, kan de eigenaar van een vissersvaartuig per aangetekende brief een aanvraag indienen bij de Dienst om de vangstrechtfactor aan te passen. Daarvoor gebruikt hij het formulier dat de Dienst ter beschikking stelt. De Dienst beslist over de aanvraag binnen een periode van dertig dagen, te rekenen vanaf de ontvangstdatum van het volledig ingevulde formulier.<br /><br />Met behoud van de toepassing van artikel 8, § 3, kan de eigenaar van een vissersvaartuig waarvoor een visvergunning is uitgereikt, die dat vissersvaartuig aan de vloot onttrekt, een aanvraag richten tot de Dienst om het motorvermogen, vermeld op de visvergunning, geheel of gedeeltelijk in te leveren, om de vangstrechtfactor van zijn blijvende vissersvaartuig dat voorzien is van het maximale motorvermogen, vermeld in artikel 8, § 2, te verhogen. De vissersvaartuigen die behoren tot het kustvisserssegment, vermeld in artikel 1, 8°, van het te wijzigen besluit van de Vlaamse Regering van 16 december 2005, komen niet in aanmerking voor onttrekking en inlevering. <br /><br />Voor de vissersvaartuigen van het grote vlootsegment kan vanaf 2010 60 kW per jaar ingeleverd worden. Per inlevering van 60 kW verhoogt de vangstrechtfactor met 5 % ten opzichte van één. In 2014 bedraagt het ingeleverde motorvermogen maximaal 300 kW zodat de vangstrechtfactor maximaal 1,25 kan worden. Dat inleveringsrecht van 60 kW per jaar is cumulatief en vervalt niet. De ingeleverde kW's moeten afkomstig zijn van het grote vlootsegment.<br /><br />Voor de vissersvaartuigen van het kleine vlootsegment kan vanaf 2010 11 kW per jaar ingeleverd worden. Per inlevering van 11 kW verhoogt de vangstrechtfactor met 5 % ten opzichte van één. In 2014 bedraagt het ingeleverde motorvermogen maximaal 55 kW zodat de vangstrechtfactor maximaal 1,25 kan worden. Dat inleveringsrecht van 11 kW per jaar is cumulatief en vervalt niet.
+
+### ART. 8/4.
+
+De ingeleverde motorvermogens die ter uitvoering van dit hoofdstuk ter beschikking komen van de dienst, kunnen niet gereactiveerd worden en zijn voor de vloot definitief verloren.
 
 ## HOOFDSTUK V Wijziging van het motorvermogen en de brutotonnenmaat van een bestaand vissersvaartuig
 
@@ -141,11 +112,7 @@ Het motorvermogen en eventueel het bijkomende motorvermogen van een vissersvaart
 
 ### ART. 9.
 
-Als een nieuwe motor wordt geplaatst in een vissersvaartuig, waarvoor een visvergunning werd uitgereikt of als het motorvermogen van een bestaande motor wordt gewijzigd, mag het motorvermogen van de nieuwe motor of het gewijzigde motorvermogen dat van de door de Dienst uitgereikte visvergunning, eventueel met inbegrip van het bijkomende motorvermogen, niet overschrijden.<br>
-<br>
-Als een verlaging van het motorvermogen wordt opgelegd door de dienst Scheepvaartcontrole, Maritiem Vervoer van de Federale Overheidsdienst Mobiliteit en Vervoer, wordt de opgelegde verlaging, uitgedrukt in kW, vermeld als bijkomende motorvermogen op de visvergunning.<br>
-<br>
-De eigenaar levert zijn visvergunning in en krijgt van de Dienst een aangepaste visvergunning op voorwaarde dat voldaan is aan het eerste en het tweede lid.
+Als een nieuwe motor wordt geplaatst in een vissersvaartuig, waarvoor een visvergunning werd uitgereikt of als het motorvermogen van een bestaande motor wordt gewijzigd, mag het motorvermogen van de nieuwe motor of het gewijzigde motorvermogen dat van de door de Dienst uitgereikte visvergunning, eventueel met inbegrip van het bijkomende motorvermogen, niet overschrijden.<br /><br />Als een verlaging van het motorvermogen wordt opgelegd door de dienst Scheepvaartcontrole, Maritiem Vervoer van de Federale Overheidsdienst Mobiliteit en Vervoer, wordt de opgelegde verlaging, uitgedrukt in kW, vermeld als bijkomende motorvermogen op de visvergunning.<br /><br />Als op verzoek van de eigenaar een verlaging van het motorvermogen tot maximaal 20 % wordt geattesteerd door de dienst Scheepvaartcontrole, Maritiem Vervoer van de Federale Overheidsdienst Mobiliteit en Vervoer, wordt de geattesteerde verlaging, uitgedrukt in kW, voor maximaal 80 % vermeld als bijkomend motorvermogen. Het overblijvende motorvermogen van minstens 10 kW komt ter beschikking van de dienst.<br /><br />De eigenaar levert zijn visvergunning in en krijgt van de Dienst een aangepaste visvergunning op voorwaarde dat voldaan is aan het eerste, het tweede en het derde lid.
 
 ## [Afdeling II Wijziging waarbij een beroep wordt gedaan op de capaciteitsreserve die bij de bevoegde entiteit beschikbaar is (verv. BVR 19 december 2014, art. 64, I: 1 januari 2015)]
 
@@ -191,7 +158,7 @@ Het vissersvaartuig in kwestie van de geschorste visvergunning moet gedurende de
 
 ### ART. 13.
 
-Vissersvaartuigen moeten een geïnstalleerd en in werking zijnde satellietvolgapparatuur aan boord hebben volgens de criteria, opgenomen in de Europese en de nationale reglementering terzake. Zo niet wordt de visvergunning geschorst.
+De visvergunning van een vissersvaartuig wordt geschorst als het vissersvaartuig niet voldoet aan de criteria, vermeld in de Europese en de nationale reglementering over het elektronische logboek of satellietvolgsysteem.
 
 ### ART. 14.
 
@@ -209,7 +176,7 @@ Een vervallen of geschorste visvergunning moet binnen 48 uur bij de Dienst worde
 
 ### ART. 17.
 
-Een verzoek tot heroverweging van de beslissingen, vermeld in artikel 5, 6, 7, 8, 9, 12, § 2 en § 4, en in artikel 14, kan bij de minister worden ingediend per aangetekende brief binnen dertig dagen vanaf de mededeling van de beslissing.
+Een verzoek tot heroverweging van de beslissingen, vermeld in artikel 5, 6, 7, 8, 8/1, 8/2, 8/3, 8/4, 9, 12, § 2 en § 4, en in artikel 14, kan bij de minister worden ingediend per aangetekende brief binnen dertig dagen vanaf de mededeling van de beslissing.
 
 ## HOOFDSTUK VII Aanvullende bepalingen
 
@@ -218,6 +185,10 @@ Een verzoek tot heroverweging van de beslissingen, vermeld in artikel 5, 6, 7, 8
 De minister kan alle aanvullende tijdelijke maatregelen nemen voor de uitvoering van de communautaire regeling inzake de instandhouding en de duurzame exploitatie van de visbestanden. Inzonderheid kan hij de zeevisserij op een of meer visbestanden beperken of verbieden, de vaartdagen en de communautaire zeedagen beperken, de visserij-inspanning beperken, de visserijmethoden beperken, de vangst per vissersvaartuig, per categorie van vissersvaartuigen of per twee of meer samenwerkende vissersvaartuigen met het oog op een optimale benutting van de vangstmogelijkheden, beperken, toewijzen of herverdelen, en de visvergunning van een vissersvaartuig beperken of intrekken. Hij kan daarbij onderscheid maken tussen vlootsegmenten en gelijktijdig in meerdere mogelijkheden voorzien voor een bepaald vlootsegment.<br>
 <br>
 De minister kan aanvullende bepalingen vaststellen aangaande de vangstmogelijkheden van vissersvaartuigen die behoren tot het kustvisserssegment.
+
+### ART. 18/1.
+
+De minister kan afwijkende bepalingen over visvergunningen voor een opleidingsvissersvaartuig of voor een vissersvaartuig voor wetenschappelijk onderzoek vaststellen.
 
 ### ART. 19.
 
