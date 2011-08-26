@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020518,
+  "title": "Decreet van 2011-07-08 houdende de wijziging van de wet van 10 maart 1925 op de elektriciteitsvoorziening en het Energiedecreet van 8 mei 2009, wat betreft de omzetting van de Richtlijn 2009/72/EG en de Richtlijn 2009/73/EG",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020518/VolledigDocument?datum=2011-08-26",
+  "source_sha256": "553ca0e9435df083a44bf3bc42b7914d52e53e6a43453c2f7b8a053f62751173",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020518&param=informatie",
+  "as_of": "2011-08-26",
+  "made": "2011-07-08",
+  "gazette": "2011-08-16",
+  "numac": 2011035660,
+  "document_start": "2011-08-26",
+  "document_end": null,
+  "in_force": "2011-08-26",
+  "article_versions": 52,
+  "record_form": "consolidated version as in force on 2011-08-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
