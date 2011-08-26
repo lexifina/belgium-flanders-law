@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020533,
+  "title": "Besluit van de Vlaamse Regering van 2011-07-22 tot wijziging van het besluit van de Vlaamse Regering van 16 december 2005 tot de instelling van een visvergunning en houdende tijdelijke maatregelen voor de uitvoering van de communautaire regeling inzake de instandhouding en de duurzame exploitatie van de visbestanden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020533/VolledigDocument?datum=2011-08-26",
+  "source_sha256": "f020e3d461408a3eb6214c787ec895493f2a1164f4a6ef5f17f187b04321399d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020533&param=informatie",
+  "as_of": "2011-08-26",
+  "made": "2011-07-22",
+  "gazette": "2011-08-16",
+  "numac": 2011204137,
+  "document_start": "2011-08-26",
+  "document_end": null,
+  "in_force": "2011-08-26",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2011-08-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
