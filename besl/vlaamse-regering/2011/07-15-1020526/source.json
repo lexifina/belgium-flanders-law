@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020526,
+  "title": "Besluit van de Vlaamse Regering van 2011-07-15 tot wijziging van artikel 6 van het besluit van de Vlaamse Regering van 28 november 2003 tot vaststelling van de lijst van toelaatbare zonevreemde functiewijzigingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020526/VolledigDocument?datum=2011-08-26",
+  "source_sha256": "6d9e447df1d2a3cdbde96dce52d88023637d22576a57a0265f97d0f314705f2f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020526&param=informatie",
+  "as_of": "2011-08-26",
+  "made": "2011-07-15",
+  "gazette": "2011-08-16",
+  "numac": 2011204046,
+  "document_start": "2011-08-26",
+  "document_end": null,
+  "in_force": "2011-08-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-08-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
