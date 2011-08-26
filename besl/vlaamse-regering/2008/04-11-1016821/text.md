@@ -66,7 +66,7 @@ Het afdelingshoofd van de afdeling waaronder het C.C.V.G. Alden Biesen ressortee
 
 ### ART. 9.
 
-Op het einde van ieder kwartaal worden door de ordonnateur een staat van ontvangsten en een staat van uitgaven opgemaakt.<br /><br />De Vlaamse minister, bevoegd voor de culturele aangelegenheden, legt die staten aan het Rekenhof voor door bemiddeling van de Vlaamse minister, bevoegd voor de financiën en de begrotingen. De bewijsstukken worden ter plaatse bewaard.
+...
 
 ### ART. 10.
 
