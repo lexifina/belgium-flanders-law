@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020543,
+  "title": "Ministerieel besluit van 2011-07-06 houdende bekrachtiging van het districtsraadsbesluit waarbij het wapen en de vlag van het district Berendrecht-Zandvliet-Lillo worden vastgesteld",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020543/VolledigDocument?datum=2011-08-27",
+  "source_sha256": "d29b397f150cfaf8b6e172a057da9aecd1f4a53ffb8c1b363ef0e0626380c4a5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020543&param=informatie",
+  "as_of": "2011-08-27",
+  "made": "2011-07-06",
+  "gazette": "2011-08-17",
+  "numac": 2011035669,
+  "document_start": "2011-08-27",
+  "document_end": null,
+  "in_force": "2011-08-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-08-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
