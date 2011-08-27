@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020544,
+  "title": "Ministerieel besluit van 2011-07-06 houdende bekrachtiging van het districtsraadsbesluit waarbij het wapen en de vlag van het district Antwerpen worden vastgesteld",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020544/VolledigDocument?datum=2011-08-27",
+  "source_sha256": "a66cbde428e8a5786b08d7435bbaf206636d1b1186b43a414fe7c5ec55d980bb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020544&param=informatie",
+  "as_of": "2011-08-27",
+  "made": "2011-07-06",
+  "gazette": "2011-08-17",
+  "numac": 2011204215,
+  "document_start": "2011-08-27",
+  "document_end": null,
+  "in_force": "2011-08-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-08-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
