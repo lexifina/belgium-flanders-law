@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020548,
+  "title": "Besluit van de Vlaamse Regering van 2011-07-15 tot wijziging van het besluit van de Vlaamse Regering van 19 juli 2007 tot het bepalen van de nadere regels voor het vervoer van meststoffen en houdende uitvoering van artikel 8, § 5, 3°, van het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen, wat betreft de invoering van een AGR-GPS-verplichting voor erkende mestvoerders klasse A en klasse E",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020548/VolledigDocument?datum=2011-08-28",
+  "source_sha256": "42bf13f30b208aeb28047ca08a27ecd7be5e56cefe48d4fc542cc7e387dec0fe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020548&param=informatie",
+  "as_of": "2011-08-28",
+  "made": "2011-07-15",
+  "gazette": "2011-08-18",
+  "numac": 2011204244,
+  "document_start": "2011-08-28",
+  "document_end": null,
+  "in_force": "2011-08-28",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-08-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
