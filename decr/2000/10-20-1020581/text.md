@@ -328,11 +328,11 @@ Artikel 73 heeft uitwerking met ingang van 1 april 1999 en artikel 74 heeft uitw
 
 ### ART. 76.
 
-§ 1. Regionale expertisenetwerken zijn allerlei vormen van samenwerking die erop gericht zijn een nascholingsaanbod te ontwikkelen om leerkrachten te leren hoe ze de informatie- en communicatietechnologie in al haar aspecten kunnen integreren in hun lessen.<br /><br />§ 2. De Vlaamse Gemeenschap kan met deze regionale expertisenetwerken een overeenkomst sluiten inzake de door het netwerk te leveren ondersteunings- en nascholingsactiviteiten, onder de volgende voorwaarden :<br />1° het netwerk beschikt over expertise inzake nascholing in de pedagogische, technische en organisatorische aspecten van de introductie van nieuwe media in het onderwijs;<br />2° het netwerk moet voldoende geografisch en/of digitaal uitgebouwd zijn zodat een voldoende aantal scholen er een beroep op kan doen;<br />3° het netwerk is netoverschrijdend samengesteld en heeft een niveau- en netoverschrijdende werking;<br />4° een departement lerarenopleiding van een erkende universiteit en een departement lerarenopleiding van een hogeschool moeten deel uitmaken van het netwerk.<br /><br />§ 3. De Vlaamse regering regelt de verdere voorwaarden en procedures voor het verzekeren via de regionale expertisenetwerken, van een nascholingsaanbod in het kader van het beleid rond informatie- en communicatietechnologie.
+...
 
 ### ART. 77.
 
-Artikel 76 heeft uitwerking met ingang van 1 december 1999.
+...
 
 ## HOOFDSTUK X. Tijdelijke projecten in het secundair onderwijs
 
