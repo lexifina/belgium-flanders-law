@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020913,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-09 tot wijziging van de taken van de commissarissen van de Vlaamse Regering bij de universiteiten en de hogescholen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020913/VolledigDocument?datum=2011-09-01",
+  "source_sha256": "dc39e1a7a119a1ba3a9517c2cdba619595f78fff5ed06181eed423f65c0da003",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020913&param=informatie",
+  "as_of": "2011-09-01",
+  "made": "2011-09-09",
+  "gazette": "2011-11-16",
+  "numac": 2011035931,
+  "document_start": "2011-09-01",
+  "document_end": null,
+  "in_force": "2011-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
