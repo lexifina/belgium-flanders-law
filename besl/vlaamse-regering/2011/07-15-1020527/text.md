@@ -16,6 +16,14 @@ In artikel 18 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Re
 
 ## Hoofdstuk 2 Wijziging van het besluit van de Vlaamse Regering van 3 juli 2009 met betrekking tot de prestatieregeling en de jaarlijkse verlofdagen en feestdagen van de personeelsleden van de Centra voor Basiseducatie
 
+### ART.
+
+Artikel 5 van het besluit van de Vlaamse Regering van 3 juli 2009 met betrekking tot de prestatieregeling en de jaarlijkse verlofdagen en feestdagen van de personeelsleden van de Centra voor Basiseducatie wordt vervangen door wat volgt : <br />"Art. 5. De arbeidsprestaties kunnen op elke dag van de week tussen 7 uur en 23 uur geleverd worden.<br /><br />De arbeidsduur mag in geen geval elf uur per dag overschrijden en mag maximaal twee avondprestaties per week omvatten. <br /><br />De arbeidsprestaties worden in blokken van minstens drie uur aangeboden. De avond- en weekendprestatie(s) samen worden beperkt tot drie prestatieblokken per week waarbij ieder begonnen prestatieblok van drie uur tijdens het weekend wordt beschouwd als één prestatieblok.".<br /><br />
+
+### ART. 3.
+
+Aan artikel 7 van hetzelfde besluit wordt een tweede lid toegevoegd dat luidt als volgt : <br />" Met behoud van de toepassing van het eerste lid worden vanaf het kalenderjaar 2011 vijf extra dagen verlof toegekend aan de personeelsleden die terzelfdertijd voldoen aan de volgende voorwaarden : <br />1° uiterlijk op 31 augustus 2008 de leeftijd van 55 jaar bereikt hebben;<br />2° vóór 1 september 2008 in dienst geweest zijn in een Centrum voor Basiseducatie;<br />3° op 1 september 2008 in dienst zijn in een Centrum voor Basiseducatie.".<br /><br />
+
 ## Hoofdstuk 3 Wijziging van het besluit van de Vlaamse Regering van 24 juli 2009 houdende geldelijke bepalingen voor de personeelsleden van de Centra voor Basiseducatie en tot wijziging van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs en het koninklijk besluit van 1 december 1970 houdende bezoldigingsregeling van het administratief personeel, het meesters-, vak- en dienstpersoneel van de rijksinrichtingen voor kleuteronderwijs, voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs
 
 ### ART. 4.
@@ -27,3 +35,7 @@ In artikel 20, § 1, van het besluit van de Vlaamse Regering van 24 juli 2009 ho
 ### ART. 5.
 
 Dit besluit treedt in werking op 1 september 2011, met uitzondering van de artikelen 1, 2 en 4, die uitwerking hebben met ingang van 1 januari 2011, en met uitzondering van artikel 5 dat uitwerking heeft met ingang van 1 september 2008. <br /><br />
+
+### ART. 6.
+
+De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.<br /><br />
