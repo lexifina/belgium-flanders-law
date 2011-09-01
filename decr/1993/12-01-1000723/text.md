@@ -52,7 +52,7 @@ De administratieve leiding van inspecteurs-adviseurs wordt waargenomen door de �
 
 ### ART. 10.
 
-§ 1. De ambten die de leden van de inspectie en begeleiding van de levensbeschouwelijke vakken mogen uitoefenen, worden als volgt vastgesteld:<br /><br />- inspecteur-adviseur voor het lager onderwijs;<br /><br />- inspecteur-adviseur coördinator voor het lager onderwijs;<br /><br />- inspecteur-adviseur voor het secundair en het pedagogisch hoger onderwijs en de leraren-opleidingen georganiseerd door de hogescholen; [ <span class="reference">(ing. decr. 13 april 1999, art. 56, I: 1 mei 1999)</span> ]<br /><br />- inspecteur-adviseur voor het lager, het secundair en het pedagogisch hoger onderwijs en de leraren-opleidingen georganiseerd door de hogescholen. [ <span class="reference">(ing. decr. 13 april 1999, art. 56, I: 1 mei 1999)</span> ]<br /><br />§ 2. Deze ambten kunnen deeltijds of voltijds uitgeoefend worden.
+§ 1. De ambten die de leden van de inspectie en begeleiding van de   levensbeschouwelijke vakken mogen uitoefenen, worden als volgt vastgesteld :   <BR>- inspecteur-adviseur;<BR>- inspecteur-adviseur voor het lager   onderwijs;<BR>- inspecteur-adviseur coördinator voor het lager onderwijs;<BR>-   inspecteur-adviseur coördinator;<BR>- inspecteur-adviseur voor het secundair en   het pedagogisch hoger onderwijs en de lerarenopleidingen georganiseerd door de   hogescholen;<BR>- inspecteur-adviseur voor het lager, het secundair en het   pedagogisch hoger onderwijs en de lerarenopleidingen georganiseerd door de   hogescholen.<BR><BR>§ 2. Deze ambten kunnen deeltijds of voltijds uitgeoefend   worden.
 
 ## AFDELING 3 WERVING
 

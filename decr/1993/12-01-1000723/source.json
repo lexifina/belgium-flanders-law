@@ -2,16 +2,16 @@
   "codex_id": 1000723,
   "title": "Decreet van 1993-12-01 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000723/VolledigDocument?datum=2011-07-04",
-  "source_sha256": "993dfbe881bfb6bdd139c41ba44067dd89aa6745b1db7675234f02e0d02f6de5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000723/VolledigDocument?datum=2011-09-01",
+  "source_sha256": "124d985f806ab0ed3b57d9a7e577b81b7262d8a0032817e6593001a3ddd7f373",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000723&param=informatie",
-  "as_of": "2011-07-04",
+  "as_of": "2011-09-01",
   "made": "1993-12-01",
   "gazette": "1993-12-21",
   "numac": 1993036529,
   "document_start": "1994-01-01",
   "document_end": null,
-  "in_force": "2011-07-04",
+  "in_force": "2011-09-01",
   "article_versions": 32,
-  "record_form": "consolidated version as in force on 2011-07-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-09-01; future article versions excluded; article text as the API gives it"
 }
