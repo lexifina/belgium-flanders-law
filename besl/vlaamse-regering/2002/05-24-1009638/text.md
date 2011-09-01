@@ -6,21 +6,25 @@
 
 Tenzij anders is bepaald, zijn de bepalingen van dit besluit van toepassing op de tijdelijke en de benoemde personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool, die behoren tot de categorieën van het onderwijzend, het bestuurs- en onderwijzend of van het administratief en technisch personeel.<br /><br />Dit besluit is eveneens van toepassing op de personeelsleden:<br /><br />- die hun ambt op persoonlijke titel hebben behouden met toepassing van de artikelen 326bis, 333, 334, § 1 en 335, § 2 van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap,<br /><br />- bedoeld in artikel 182, § 1, punten 1 tot en met 3 van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap, die benoemd waren aan een hogeschool.
 
+### ART. 1/1.
+
+Voor de toepassing van dit besluit wordt onder gedeeltelijke loopbaanonderbreking verstaan : het halftijds of voor een vijfde onderbreken van de beroepsloopbaan.<br /><br />Bij een halftijdse onderbreking van de beroepsloopbaan blijft het personeelslid een opdracht van 50 % vervullen aan de hogeschool, aan meerdere hogescholen of aan andere onderwijsinstellingen. De nog te verrichten prestaties worden afgerond naar de hogere eenheid.<br /><br />Bij een onderbreking van de beroepsloopbaan met een vijfde blijft het personeelslid een opdracht van 80 % vervullen aan de hogeschool, aan meerdere hogescholen of aan andere onderwijsinstellingen. De nog te verrichten prestaties worden afgerond naar de hogere eenheid.
+
 ## HOOFDSTUK II ONDERBREKING VAN DE BEROEPSLOOPBAAN
 
 ## AFDELING 1 ALGEMENE BEPALINGEN BETREFFENDE DE VOLLEDIGE EN DE GEDEELTELIJKE LOOPBAANONDERBREKING
 
 ### ART. 2.
 
-De benoemde personeelsleden, die belast zijn met ten minste een halftijdse opdracht, mogen hun beroepsloopbaan volledig of gedeeltelijk onderbreken.<br /><br />In geval van een gedeeltelijke loopbaanonderbreking moet het personeelslid een halftijdse opdracht aan de hogeschool of meerdere hogescholen of andere onderwijsinstellingen blijven vervullen. De nog te verrichten prestaties moeten steeds worden afgerond naar de hogere eenheid.
+De personeelsleden die belast zijn met ten minste een halftijdse opdracht mogen hun beroepsloopbaan volledig of gedeeltelijk onderbreken.
 
 ### ART. 3.
 
-De tijdelijke personeelsleden mogen hun beroepsloopbaan volledig of gedeeltelijk onderbreken op voorwaarde dat zij:<br /><br />1° voor het academiejaar voorafgaand aan de loopbaanonderbreking een aanstelling hebben gekregen voor het hele academiejaar in een vacante of niet vacante betrekking;<br /><br />2° bij de aanvang van het academiejaar van de loopbaanonderbreking weer voor een volledig academiejaar worden aangesteld;<br /><br />3° aangesteld zijn voor ten minste een halftijdse opdracht;<br /><br />4° in het geval van gedeeltelijke loopbaanonderbreking een halftijdse opdracht aan de hogeschool of meerdere hogescholen of andere onderwijsinstellingen blijven vervullen. De nog te verrichten prestaties moeten steeds worden afgerond naar de hogere eenheid.<br /><br />Voor tijdelijke personeelsleden die loopbaanonderbreking nemen, eindigt de loopbaanonderbreking in ieder geval als hun aanstelling eindigt.
+Onverminderd het bepaalde in artikel 2, mogen de tijdelijke personeelsleden hun beroepsloopbaan volledig of gedeeltelijk onderbreken op voorwaarde dat zij : <br />1° in het academiejaar voorafgaand aan de loopbaanonderbreking een aanstelling hebben gekregen voor het volledige academiejaar in een vacante of niet-vacante betrekking;<br />2° bij de aanvang van het academiejaar van de loopbaanonderbreking opnieuw voor een volledig academiejaar worden aangesteld.<br /><br />Voor tijdelijke personeelsleden die loopbaanonderbreking nemen, eindigt de loopbaanonderbreking in ieder geval als hun aanstelling eindigt.
 
 ### ART. 4.
 
-De totale duur van de volledige en de gedeeltelijke loopbaanonderbreking mag voor de ganse loopbaan niet meer dan 72 maanden bedragen.
+De totale duur van de volledige loopbaanonderbreking mag voor de hele loopbaan niet meer dan 72 maanden bedragen.<br /><br />De totale duur van de gedeeltelijke loopbaanonderbreking mag voor de hele loopbaan niet meer dan 72 maanden bedragen.
 
 ### ART. 5.
 
@@ -80,7 +84,7 @@ Het personeelslid heeft recht op het ouderschapsverlof : <br />1° naar aanleidi
 
 ### ART. 16.
 
-De onderbrekingsperiodes kunnen enkel opgenomen worden met periodes van minimum één en maximum drie maanden, al dan niet aaneensluitend, tot een maximumperiode van 12 maanden per patiënt.
+De onderbrekingsperiodes kunnen enkel opgenomen worden met periodes van minimum één en maximum drie maanden, al dan niet aaneensluitend, tot een maximumperiode van 12 maanden per patiënt bij een volledige loopbaanonderbreking of 24 maanden per patiënt bij een gedeeltelijke loopbaanonderbreking.
 
 ## [SUBAFDELING 4/1 LOOPBAANONDERBREKING VOOR MANTELZORG (ing. BVR 17 juli 2020, art. 8, I: 1 september 2020)]
 
@@ -88,7 +92,7 @@ De onderbrekingsperiodes kunnen enkel opgenomen worden met periodes van minimum 
 
 ### ART. 17.
 
-§ 1. De benoemde personeelsleden kunnen vanaf 1 september, 1 oktober of 1 november volgend op het bereiken van de leeftijd van vijftig jaar tot uiterlijk het einde van het academiejaar waarin de betrokkenen de leeftijd van zestig jaar bereiken, een gedeeltelijke loopbaanonderbreking krijgen.<br /><br />Die personeelsleden moeten benoemd zijn zowel voor het volume van de opdracht waarvoor zij gedeeltelijke loopbaanonderbreking krijgen, als voor het volume van de opdracht die zij blijven uitoefenen.<br /><br />Voor de berekening van de termijn van 72 maanden voorzien in artikel 4 wordt geen rekening gehouden met de periodes van deeltijdse loopbaanonderbreking vanaf 50 jaar.<br /><br />§ 2. De personeelsleden die van een gedeeltelijke loopbaanonderbreking bedoeld in § 1, genieten en die tijdens vermelde periode hun opdracht opnieuw volledig opnemen, behouden de onderbrekingsuitkeringen die hun werden uitbetaald op grond van artikel 4, § 3, van het koninklijk besluit van 12 augustus 1991 betreffende de toekenning van onderbrekingsuitkeringen aan de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding.<br /><br />De personeelsleden genoemd in voorgaand lid, kunnen niet opnieuw een gedeeltelijke loopbaanonderbreking krijgen zoals bedoeld in § 1 van dit artikel en kunnen niet opnieuw het voordeel krijgen van het artikel 4, § 3 van het voormelde koninklijk besluit van 12 augustus 1991.
+§ 1. De benoemde personeelsleden kunnen vanaf 1 september, 1 oktober of 1 november volgend op het bereiken van de leeftijd van vijftig jaar tot uiterlijk het einde van het academiejaar waarin de betrokkenen de leeftijd van zestig jaar bereiken, een gedeeltelijke loopbaanonderbreking krijgen.<br /><br />Die personeelsleden moeten benoemd zijn zowel voor het volume van de opdracht waarvoor zij gedeeltelijke loopbaanonderbreking krijgen, als voor het volume van de opdracht die zij blijven uitoefenen.<br /><br />Voor de berekening van de termijn van 72 maanden voorzien in artikel 4 wordt geen rekening gehouden met de periodes van deeltijdse loopbaanonderbreking vanaf 50 jaar.<br /><br />§ 2. De personeelsleden die van een gedeeltelijke loopbaanonderbreking bedoeld in § 1, genieten en die tijdens vermelde periode hun opdracht opnieuw volledig opnemen, behouden de onderbrekingsuitkeringen die hun werden uitbetaald op grond van artikel 4, § 3, van het koninklijk besluit van 12 augustus 1991 betreffende de toekenning van onderbrekingsuitkeringen aan de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding.<br /><br />De personeelsleden genoemd in voorgaand lid, kunnen niet opnieuw een gedeeltelijke loopbaanonderbreking krijgen zoals bedoeld in § 1 van dit artikel en kunnen niet opnieuw het voordeel krijgen van het artikel 4, § 3 van het voormelde koninklijk besluit van 12 augustus 1991.<br /><br />§ 3. De personeelsleden die van een gedeeltelijke loopbaanonderbreking genieten, kunnen ieder jaar met ingang van de datum waarop de loopbaanonderbreking ingegaan is, de omvang van de loopbaanonderbreking aanpassen.
 
 ## HOOFDSTUK III PROCEDURE EN ADMINISTRATIEVE VERPLICHTINGEN
 
