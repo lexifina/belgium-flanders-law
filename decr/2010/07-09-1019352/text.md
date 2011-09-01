@@ -128,6 +128,10 @@ In artikel 84bis, § 1, van hetzelfde decreet, ingevoegd bij het decreet van 19 
 
 In artikel 2 van het decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs, wordt in het punt 27°, gewijzigd bij het decreet van 4 juli 2008, onder b) de volgende zin toegevoegd :<br />« Voor wat betreft een optie, georganiseerd als Se-n-Se, wordt evenwel 1 oktober en 1 maart van de twee voorafgaande schooljaren als datum vooropgesteld. ».<br /><br />
 
+### ART. III.16.
+
+In artikel 9, tweede lid, van hetzelfde decreet, toegevoegd bij het decreet van 18 december 2009, worden de woorden « vóór 1 maart » vervangen door de woorden « uiterlijk 30 november ».<br /><br />
+
 ### ART. III.17.
 
 In artikel 28 van hetzelfde decreet, gewijzigd bij de decreten van 7 juli 2006, 22 juni 2007, 4 juli 2008 en 30 april 2009, worden de volgende wijzigingen aangebracht :<br />1° in § 1 wordt in het eerste lid tussen de voorlaatste zin en de laatste zin de volgende zin ingevoegd :<br />« Deze datum is uiterlijk op 30 november voor wat betreft een optie, georganiseerd als Se-n-Se die van start gaat op 1 september daaropvolgend, respectievelijk uiterlijk op 30 juni voor wat betreft een optie, georganiseerd als Se-n-Se die van start gaat op 1 februari daaropvolgend. »;<br /><br />2° aan § 2 wordt de volgende zin toegevoegd :<br />« De beslissing wordt genomen binnen de twee maanden na de in § 1 bedoelde uiterste indieningsdatum, schoolvakanties niet meegerekend. ».<br /><br />
@@ -143,6 +147,10 @@ In artikel 38 van hetzelfde decreet, gewijzigd bij de decreten van 7 juli 2006, 
 ### ART. III.20.
 
 Artikel 39 van hetzelfde decreet wordt opgeheven.<br /><br />
+
+### ART. III.21.
+
+In artikel 42, tweede lid, van hetzelfde decreet, vervangen bij het decreet van 18 december 2009, worden de woorden « vóór 1 maart » vervangen door de woorden « uiterlijk 30 november ».<br /><br />
 
 ### ART. III.22.
 
@@ -210,6 +218,10 @@ Bijlage II van hetzelfde decreet, vervangen door het decreet van 4 juli 2008, wo
 
 ## Afdeling IV Decreet betreffende het stelsel van leren en werken
 
+### ART. III.38.
+
+In artikel 8, § 3, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, toegevoegd bij het decreet van 18 december 2009, worden de woorden « vóór 1 maart » vervangen door de woorden « uiterlijk 30 november ».<br /><br />
+
 ### ART. III.39.
 
 In artikel 10 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° aan § 1 wordt een punt 15° toegevoegd, dat luidt als volgt :<br />« 15° beantwoorden aan de decretale en reglementaire bepalingen betreffende de organisatie van het onderwijs. »;<br /><br />2° § 2 wordt vervangen door wat volgt :<br />« § 2. Uitsluitend voor een centrum voor deeltijds beroepssecundair onderwijs dat wordt opgericht zonder het gevolg te zijn van een herstructurering van bestaande centra, dient het centrumbestuur, voorafgaand aan de oprichting, een aanvraag in bij de bevoegde administratie van het Vlaams ministerie van Onderwijs, tot erkenning door de Vlaamse Regering. Het centrum wordt aan een inspectie onderworpen. De eventuele erkenning kan plaatsvinden vanaf het schooljaar van oprichting van het betrokken centrum. ».<br /><br />
@@ -221,6 +233,10 @@ In artikel 11 van hetzelfde decreet wordt § 2 vervangen door wat volgt :<br />�
 ### ART. 41.
 
 In artikel 19, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 8 mei 2009, worden in punt 6° de volgende woorden toegevoegd :<br />« en zijn uitvoeringsreglementering ».<br /><br />
+
+### ART. III.42.
+
+In artikel 20, § 2, van hetzelfde decreet, toegevoegd bij het decreet van 18 december 2009, worden de woorden « vóór 1 maart » vervangen door de woorden « uiterlijk 30 november ».<br /><br />
 
 ### ART. III.43.
 
