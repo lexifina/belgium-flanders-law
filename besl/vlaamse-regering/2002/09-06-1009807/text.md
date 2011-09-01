@@ -38,7 +38,7 @@ De gewichten van de gelijkekansenindicatoren worden als volgt vastgelegd:<br />1
 
 ### ART. 6.
 
-§ 1. Het aantal punten wordt vermenigvuldigd met:<br />1° een coëfficiënt 1,5, wanneer de school een concentratiegraad van ten minste 55 % heeft;<br />2° een coëfficiënt 1,5, wanneer de school gelegen is in het tweetalig gebied Brussel-Hoofdstad.<br /><br />§ 2. Het aantal punten wordt afgerond:<br />1° naar de hogere eenheid als het eerste cijfer na de komma groter is dan vier;<br />2° naar de lagere eenheid als het eerste cijfer na de komma vier is of kleiner is dan vier.<br /><br />§ 3. Voorafgaand aan de berekening van het aantal punten wordt het aantal leerlingen dat enkel voldoet aan de gelijkekansenindicatoren, vermeld in artikel 225, § 1, 1°, of 1° en 5°, van de codificatie betreffende het secundair onderwijs, vermenigvuldigd met een coëfficiënt 0,4417.
+§ 1. Het aantal punten wordt vermenigvuldigd met:<br />1° een coëfficiënt 1,5, wanneer de school een concentratiegraad van ten minste 55 % heeft;<br />2° een coëfficiënt 1,5, wanneer de school gelegen is in het tweetalig gebied Brussel-Hoofdstad.<br /><br />§ 2. Het aantal punten wordt afgerond:<br />1° naar de hogere eenheid als het eerste cijfer na de komma groter is dan vier;<br />2° naar de lagere eenheid als het eerste cijfer na de komma vier is of kleiner is dan vier.<br /><br />§ 3. Voorafgaand aan de berekening van het aantal punten wordt het aantal leerlingen dat enkel voldoet aan de gelijkekansenindicatoren, vermeld in artikel VI.2, § 1, 1°, of 1° en 5°, van het decreet, vermenigvuldigd met een coëfficiënt 0,4417.
 
 ### ART. 7.
 
@@ -191,7 +191,7 @@ De gewichten van de gelijkekansenindicatoren worden als volgt vastgelegd : <br /
 
 ### ART. 20.
 
-§ 1. Het aantal punten wordt vermenigvuldigd met : <br />1° een coëfficiënt 1,5 als de school een concentratiegraad van ten minste 80 % heeft; <br />2° een coëfficiënt 1,5 als de school in het tweetalige gebied Brussel-Hoofdstad ligt.<br /><br />§ 2. Het aantal punten wordt afgerond : <br />1° naar de hogere eenheid als het eerste cijfer na de komma groter is dan vier;<br />2° naar de lagere eenheid als het eerste cijfer na de komma vier is of kleiner is dan vier.<br /><br />§ 3. Voorafgaand aan de berekening van het aantal punten wordt het aantal leerlingen dat enkel voldoet aan de gelijkekansenindicatoren, vermeld in artikel 233, § 1, of 1° en 5°, van de codificatie betreffende het secundair onderwijs, vermenigvuldigd met een coëfficiënt 0,4417.
+§ 1. Het aantal punten wordt vermenigvuldigd met : <br />1° een coëfficiënt 1,5 als de school een concentratiegraad van ten minste 55 % heeft; <br />2° een coëfficiënt 1,5 als de school in het tweetalige gebied Brussel-Hoofdstad ligt.<br /><br />§ 2. Het aantal punten wordt afgerond : <br />1° naar de hogere eenheid als het eerste cijfer na de komma groter is dan vier;<br />2° naar de lagere eenheid als het eerste cijfer na de komma vier is of kleiner is dan vier.<br /><br />§ 3. Voorafgaand aan de berekening van het aantal punten wordt het aantal leerlingen dat enkel voldoet aan de gelijkekansenindicatoren, vermeld in artikel 233, § 1, of 1° en 5°, van de codificatie betreffende het secundair onderwijs, vermenigvuldigd met een coëfficiënt 0,4417.
 
 ### ART. 21.
 
