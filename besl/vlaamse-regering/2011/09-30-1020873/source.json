@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020873,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-30 houdende de oprichting van een nieuwe vestigingsplaats van een school voor buitengewoon onderwijs voor type 5 met ingang van het schooljaar 2011-2012",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020873/VolledigDocument?datum=2011-09-01",
+  "source_sha256": "e4ed14d217a0f9a1af6568a1c1d00673277d0f51db8baf42a46d88a3b3da97af",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020873&param=informatie",
+  "as_of": "2011-09-01",
+  "made": "2011-09-30",
+  "gazette": "2011-10-26",
+  "numac": 2011205399,
+  "document_start": "2011-09-01",
+  "document_end": null,
+  "in_force": "2011-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
