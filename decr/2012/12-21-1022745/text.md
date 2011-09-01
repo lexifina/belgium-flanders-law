@@ -26,6 +26,14 @@ Het besluit van de Vlaamse Regering van 19 januari 1999 betreffende de   toekenn
 
 ## Afdeling I Codex Secundair Onderwijs
 
+### ART. III.22.
+
+In artikel 226 van dezelfde codex wordt in punt 2° tussen de woorden «   scholen en » en de woorden « ten minste » de woorden « , voor alle graden samen,   » ingevoegd.<BR>
+
+### ART. III.23.
+
+In artikel 234 van dezelfde codex wordt in punt 2° tussen de woorden «   scholen en » en de woorden « ten minste » de woorden « , voor alle graden samen,   » ingevoegd.<BR>
+
 ## Afdeling II Decreet betreffende het stelsel van leren en werken
 
 ## Afdeling III Wijziging van besluiten van de Vlaamse Regering
@@ -75,6 +83,10 @@ Artikel 66 van het decreet van 13 juli 1994 betreffende de hogescholen in   de V
 ## Afdeling I Decreet betreffende de kwaliteit van onderwijs
 
 ## Afdeling II Decreet betreffende de inspectie en begeleiding van de levensbeschouwelijke vakken
+
+### ART. VII.19.
+
+In artikel 10 van het decreet van 1 december 1993 betreffende de inspectie   en de begeleiding van de levensbeschouwelijke vakken, gewijzigd door het decreet   van 1 juli 2011, wordt paragraaf 1 vervangen door wat volgt : <BR>« § 1. De   ambten die de leden van de inspectie en begeleiding van de levensbeschouwelijke   vakken mogen uitoefenen, worden als volgt vastgesteld : <BR>-   inspecteur-adviseur;<BR>- inspecteur-adviseur voor het lager onderwijs;<BR>-   inspecteur-adviseur coördinator voor het lager onderwijs;<BR>-   inspecteur-adviseur coördinator;<BR>- inspecteur-adviseur voor het secundair en   het pedagogisch hoger onderwijs en de lerarenopleidingen georganiseerd door de   hogescholen;<BR>- inspecteur-adviseur voor het lager, het secundair en het   pedagogisch hoger onderwijs en de lerarenopleidingen georganiseerd door de   hogescholen. ».<BR>
 
 ## Afdeling III Inwerkingtreding
 
