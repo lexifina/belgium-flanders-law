@@ -24,6 +24,10 @@ In hetzelfde besluit worden een artikel 3/1 tot en met 3/3 ingevoegd, die luiden
 
 Aan hetzelfde besluit worden een bijlage XIX tot en met XXIV toegevoegd, die als bijlage II tot en met VII bij dit besluit zijn gevoegd.<br /><br />
 
+### ART. 6.
+
+Bijlage VI bij hetzelfde besluit wordt opgeheven.<br /><br />
+
 ### ART. 7.
 
 Artikel 9ter van het besluit van de Vlaamse Regering van 19 juli 2007 betreffende de organisatie van het opleidingsaanbod in het volwassenenonderwijs, ingevoegd bij het besluit van de Vlaamse Regering van 4 september 2009, wordt opgeheven.<br /><br />
