@@ -1002,7 +1002,7 @@ Binnen een termijn van drie maanden na de betekening van de in artikel 28 bedoel
 
 ### ART. 30bis.
 
-Met toepassing van artikel 194quater van het decreet wordt, voor de schooljaren 2008-2009, 2009-2010 en 2010-2011, aan iedere school voor gewoon kleuter-, lager en basisonderwijs die geen deel uitmaakt van een scholengemeenschap jaarlijks de volgende puntenenveloppe voor het voeren van een zorgbeleid toegekend :<br />1° 9 punten voor scholen met minder dan 100 leerlingen;<br />2° 17 punten voor scholen met 100 tot 149 leerlingen;<br />3° 24 punten voor scholen met 150 tot 299 leerlingen;<br />4° 42 punten voor scholen met 300 tot 449 leerlingen;<br />5° 61 punten voor scholen met 450 tot 599 leerlingen;<br />6° 85 punten voor scholen met 600 tot 699 leerlingen;<br />7° 102 punten voor scholen met 700 tot 749 leerlingen;<br />8° 109 punten voor scholen vanaf 750 leerlingen.
+Met toepassing van artikel 194quater van het decreet wordt, voor de   schooljaren 2008-2009, 2009-2010, 2010-2011, 2011-2012, 2012-2013 en 2013-2014,   aan iedere school voor gewoon kleuter-, lager en basisonderwijs die geen deel   uitmaakt van een scholengemeenschap jaarlijks de volgende puntenenveloppe voor   het voeren van een zorgbeleid toegekend :<BR>1° 9 punten voor scholen met minder   dan 100 leerlingen;<BR>2° 17 punten voor scholen met 100 tot 149   leerlingen;<BR>3° 24 punten voor scholen met 150 tot 299 leerlingen;<BR>4° 42   punten voor scholen met 300 tot 449 leerlingen;<BR>5° 61 punten voor scholen met   450 tot 599 leerlingen;<BR>6° 85 punten voor scholen met 600 tot 699   leerlingen;<BR>7° 102 punten voor scholen met 700 tot 749 leerlingen;<BR>8° 109   punten voor scholen vanaf 750 leerlingen.
 
 ### ART. 30ter.
 
