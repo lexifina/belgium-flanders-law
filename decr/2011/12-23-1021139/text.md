@@ -10,6 +10,10 @@
 
 ## Afdeling 3 Stelsel van leren en werken
 
+### ART. 4.
+
+In artikel 95 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, vervangen bij het decreet van 8 juli 2011, worden de volgende wijzigingen aangebracht :<br />1° in paragraaf 1 wordt in 1° een punt c) toegevoegd, dat luidt als volgt : « c) Profo : 15.360; »;<br />2° in paragraaf 1 wordt 14° vervangen door wat volgt :<br />« 14° werkingsgebied regionaal overlegplatform Westhoek :<br />a) Groep Intro : 10.629,10;<br />b) Profo : 7.680; <br />
+
 ## Afdeling 4 Hogescholen
 
 ### ART. 5.
@@ -20,9 +24,17 @@ Artikel 190bis van het decreet van 13 juli 1994 betreffende de hogescholen in de
 
 ## Afdeling 6 Volwassenenonderwijs
 
+### ART. 19.
+
+In het decreet van 15 juni 2007 betreffende het volwassenenonderwijs wordt een artikel 197sexies ingevoegd, dat luidt als volgt :<br />« Art. 197sexies. In afwijking van artikel 31 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, is de inspectie tijdens het schooljaar 2011-2012 bevoegd voor de controle van de criteria, vermeld in artikel 28 van dit decreet, voor de opleidingen van het hoger beroepsonderwijs en de specifieke lerarenopleidingen.<br />
+
 ## Afdeling 7 Financiering hogescholen en universiteiten
 
 ## Afdeling 8 Vzw EPOS
+
+### ART. 25.
+
+In artikel V.4 van het decreet van 16 mei 2007 betreffende dringende maatregelen voor het onderwijs wordt een punt 3° ingevoegd, dat luidt als volgt :<br />« 3° De vzw EPOS dient de niet-aangewende middelen die werden toegekend in het kader van Erasmus mobiliteit met aanvang van het academiejaar 2011-2012 opnieuw in te zetten voor deze actie in de daaropvolgende academiejaren. De vzw zal deze middelen beheren op een uitsluitend daartoe bestemde rekening. ».<br /><br />
 
 ## Afdeling 9 Flankerend onderwijsbeleid
 
