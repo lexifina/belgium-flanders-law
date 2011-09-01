@@ -6,19 +6,19 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied personenzorg, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage I tot en met IV, die bij dit besluit zijn gevoegd.
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied personenzorg, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage I tot en met VIII, die bij dit besluit zijn gevoegd.
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />In afwijking van het eerste lid wordt het opleidingsprofiel voor de modulaire opleiding Begeleider in de kinderopvang uiterlijk tijdens het schooljaar 2008-2009 geëvalueerd. De opleidingsprofielen voor de modulaire opleidingen jeugd- en gehandicaptenzorg en tandartsassistent worden uiterlijk tijdens het schooljaar 2011-2012 geëvalueerd.
+De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />In afwijking van het eerste lid wordt het opleidingsprofiel voor de modulaire opleiding Begeleider in de kinderopvang uiterlijk tijdens het schooljaar 2008-2009 geëvalueerd. De opleidingsprofielen voor de modulaire opleidingen jeugd- en gehandicaptenzorg en tandartsassistent worden uiterlijk tijdens het schooljaar 2011-2012 geëvalueerd. De opleidingsprofielen voor de modulaire opleidingen Interculturele Medewerker, Logistiek Assistent, Verzorgende en Zorgkundige worden uiterlijk tijdens het schooljaar 2014-2015 geëvalueerd.
 
 ### ART. 2/1.
 
-Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding jeugd- en gehandicaptenzorg TSO 3, vermeld in bijlage III bij het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, heeft vanaf 1 februari 2009 ook onderwijsbevoegdheid voor de modulaire opleiding jeugd- en gehandicaptenzorg.
+Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding jeugd- en gehandicaptenzorg TSO 3, vermeld in bijlage III bij het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, heeft vanaf 1 februari 2009 ook onderwijsbevoegdheid voor de modulaire opleiding jeugd- en gehandicaptenzorg.<br /><br />Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Intercultureel werk TSO 3 heeft vanaf 1 september 2011 ook onderwijsbevoegdheid voor de modulaire opleiding Intercultureel Medewerker.<br /><br />Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Polyvalent Verzorgende/Thuis- en Bejaardenzorg BSO 3 heeft vanaf 1 september 2011 ook onderwijsbevoegdheid voor de modulaire opleidingen Logistiek Assistent, Verzorgende en Zorgkundige.
 
 ### ART. 2/2.
 
-De modulaire opleiding jeugd- en gehandicaptenzorg TSO 3 kan, bij wijze van overgangsmaatregel, nog gedurende de schooljaren 2009-2010 en 2010-2011 georganiseerd worden.
+De modulaire opleiding jeugd- en gehandicaptenzorg TSO 3 kan, bij wijze van overgangsmaatregel, nog gedurende de schooljaren 2009-2010 en 2010-2011 georganiseerd worden.<br /><br />De modulaire opleiding Polyvalent verzorgende/thuis- en bejaardenzorg BSO 3 kan, bij wijze van overgangsmaatregel, nog gedurende het schooljaar 2011-2012 georganiseerd worden.
 
 ### ART. 3.
 
@@ -47,3 +47,19 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 ### BIJLAGE IV
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2009/10/21_1.pdf#page=92" title=" Bijlage IV" target="_blank" class="pdf">Bijlage IV</a>
+
+### BIJLAGE V
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/14_1.pdf#page=37" title=" Bijlage 3" target="_blank" class="pdf">Bijlage 3</a>
+
+### BIJLAGE VI
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/14_1.pdf#page=63" title=" Bijlage 4" target="_blank" class="pdf">Bijlage 4</a>
+
+### BIJLAGE VII
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/14_1.pdf#page=80" title=" Bijlage 5" target="_blank" class="pdf">Bijlage 5</a>
+
+### BIJLAGE VIII
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/14_1_2.pdf#page=12" title=" Bijlage 6" target="_blank" class="pdf">Bijlage 6</a>
