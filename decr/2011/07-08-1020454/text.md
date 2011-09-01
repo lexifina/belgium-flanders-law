@@ -18,6 +18,10 @@ Aan artikel 85 van het decreet basisonderwijs van 25 februari 1997 wordt een par
 
 Aan artikel 86 van hetzelfde decreet wordt een paragraaf 6 toegevoegd, die luidt als volgt :<br /><br />« § 6. Indien het decreet houdende de aanpassing van de algemene uitgavenbegroting van het begrotingsjaar waarin de werkingsmiddelen voor het betrokken schooljaar zijn opgenomen aanleiding geeft tot meer middelen voor de schoolbesturen van het gesubsidieerd buitengewoon basisonderwijs of de scholengroepen van het Gemeenschapsonderwijs, dan worden deze bijkomende middelen uitbetaald binnen de twee maanden na de bekrachtiging door de Vlaamse Regering van betrokken decreet. »
 
+### ART. 4.
+
+In artikel 112bis van hetzelfde decreet worden de woorden "en het schooljaar 2010-2011" vervangen door de woorden ", 2010-2011 en 2011-2012".
+
 ## Afdeling 2. Secundair onderwijs
 
 ### ART. 5.
@@ -28,11 +32,27 @@ Aan artikel 249 van de Codex Secundair Onderwijs wordt een paragraaf 6 toegevoeg
 
 Aan artikel 329 van dezelfde codex wordt een paragraaf 6 toegevoegd, die luidt als volgt :<br /><br />« § 6. Indien het decreet houdende de aanpassing van de algemene uitgavenbegroting van het begrotingsjaar waarin de werkingsmiddelen voor het betrokken schooljaar zijn opgenomen aanleiding geeft tot meer middelen voor de schoolbesturen van het gesubsidieerd buitengewoon secundair onderwijs of de scholengroepen van het Gemeenschapsonderwijs, dan worden deze bijkomende middelen uitbetaald binnen de twee maanden na de bekrachtiging door de Vlaamse Regering van betrokken decreet. »
 
+### ART. 7.
+
+In artikel 290 van dezelfde codex worden telkens de woorden "en 2010-2011" vervangen door de woorden ", 2010-2011 en 2011-2012".
+
 ## Afdeling 3. Stelsel van leren en werken
+
+### ART. 8.
+
+In artikel 89 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, gewijzigd bij het decreet van 9 juli 2010, worden de volgende wijzigingen aangebracht :<br /><br />1° in paragraaf 1 worden de getallen "3,80" en "2,85" respectievelijk vervangen door de getallen "3,66" en "2,69";<br /><br />2° paragraaf 3 wordt opgeheven.
+
+### ART. 9.
+
+Artikel 95 van hetzelfde decreet, gewijzigd bij het decreet van 8 mei 2009, wordt vervangen door wat volgt :<br /><br />« Art. 95. § 1. Onverminderd het in paragraaf 2 gestelde, wordt het maximum aantal subsidieerbare en gegarandeerde deelnemersuren per schooljaar voor de organisatie van persoonlijke ontwikkelingstrajecten, voor de respectieve centra voor deeltijdse vorming en gespreid over de werkingsgebieden van de regionale overlegplatformen als vermeld in artikel 103, als volgt bepaald : <br />1° werkingsgebied regionaal overlegplatform Antwerpen :<br />a) Arktos : 56.843,50;<br />b) Lejo : 37.878,00;<br />2° werkingsgebied regionaal overlegplatform Brugge :<br />Groep Intro : 13.593,60;<br />3° werkingsgebied regionaal overlegplatform Brussel :<br />a) Foyer : 42.744,10;<br />b) Groep Intro : 8.310,10;<br />4° werkingsgebied regionaal overlegplatform Gent :<br />a) De Werf : 27.448,10;<br />b) Groep Intro : 24.152,60;<br />c) Lejo : 23.614,60;<br />5° werkingsgebied regionaal overlegplatform Halle-Vilvoorde :<br />Groep Intro : 6.869,10;<br />6° werkingsgebied regionaal overlegplatform Kempen :<br />Arktos : 32.176,40;<br />7° werkingsgebied regionaal overlegplatform Leuven :<br />Arktos : 30.858,50;<br />8° werkingsgebied regionaal overlegplatform Limburg :<br />a) Arktos : 35.687,40;<br />b) Groep Intro : 22.157,80;<br />9° werkingsgebied regionaal overlegplatform Mechelen :<br />Arktos : 22.631,90;<br />10° werkingsgebied regionaal overlegplatform Meetjesland :<br />Groep Intro : 7.664,50;<br />11° werkingsgebied regionaal overlegplatform Midden-West-Vlaanderen :<br />Groep Intro : 6.941,40;<br />12° werkingsgebied regionaal overlegplatform Oostende :<br />Groep Intro : 14.871,60;<br />13° werkingsgebied regionaal overlegplatform Waas & Dender :<br />Groep Intro : 26.247,30;<br />14° werkingsgebied regionaal overlegplatform Westhoek :<br />Groep Intro : 10.629,10;<br />15° werkingsgebied regionaal overlegplatform Zuid-Oost-Vlaanderen :<br />a) De Werf : 10.749,15<br />b) Groep Intro : 19.619,55;<br />16° werkingsgebied regionaal overlegplatform Zuid-West-Vlaanderen :<br />a) Aura : 56.262,10;<br />b) Groep Intro : 5.376,00.<br /><br />§ 2. Indien tijdens een bepaald schooljaar het door een centrum voor deeltijdse vorming georganiseerd aantal deelnemersuren minder dan 85 % bedraagt van het maximum aantal subsidieerbare deelnemersuren, dan kan vanaf het daaropvolgend schooljaar het maximum aantal gesubsidieerde deelnemersuren voor dat centrum verminderd worden tot maximum 85 % van het aantal gegarandeerde deelnemersuren. Het op die wijze vrijgekomen aantal uren kan door de Vlaamse Regering geheel of gedeeltelijk worden aangewend om nieuwe behoeften te dekken bij bestaande of nieuwe centra voor deeltijdse vorming.<br /><br />§ 3. De uitbetaling van de subsidies voor een bepaald schooljaar gebeurt door middel van een eerste schijf in het begin van de maand februari van het schooljaar in kwestie en een tweede schijf in de loop van de maand oktober daaropvolgend.<br /><br />§ 4. De berekening van de subsidies per centrum voor deeltijdse vorming is als volgt : 1° de eerste schijf bedraagt 75 % van het maximum aantal subsidieerbare deelnemersuren, vermenigvuldigd met het door de Vlaamse Regering vastgelegde bedrag per deelnemersuur;<br />2° de tweede schijf wordt berekend door het aantal georganiseerde deelnemersuren te vermenigvuldigen met het door de Vlaamse Regering vastgelegde bedrag per deelnemersuur en dit resultaat te verminderen met het bedrag van de eerste schijf. Indien dit saldo negatief is, wordt tot terugvordering ervan overgegaan.<br /><br />§ 5. Voor de toepassing van dit artikel wordt onder georganiseerd aantal deelnemersuren verstaan : het, voor alle jongeren van een centrum voor deeltijdse vorming samen, totaal aantal uren dat een jongere opgenomen is in een persoonlijk ontwikkelingstraject, te rekenen vanaf de datum van het gemotiveerd verslag van het centrum voor leerlingenbegeleiding als vermeld in artikel 62, tot en met de laatste lesdag waarin het persoonlijk ontwikkelingstraject wordt gevolgd. »
 
 ### ART. 10.
 
 In hetzelfde decreet wordt een artikel 95bis ingevoegd, dat luidt als volgt :<br /><br />« Art. 95bis. Voor het schooljaar 2010-2011 wordt het subsidiebedrag van een centrum voor deeltijdse vorming opgetrokken tot het subsidiebedrag voor het schooljaar 2009-2010 in het geval dat de berekening, met toepassing van de voor het schooljaar 2010-2011 vigerende bepalingen, tot een lager resultaat leidt. »
+
+### ART. 11.
+
+In artikel 106 van hetzelfde decreet worden in punt 5° de woorden "persoonlijke ontwikkelingstrajecten," opgeheven.
 
 ## Afdeling 4. Kwaliteit van onderwijs
 
@@ -41,6 +61,10 @@ In hetzelfde decreet wordt een artikel 95bis ingevoegd, dat luidt als volgt :<br
 In artikel 28 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs worden de volgende wijzigingen aangebracht :<br /><br />1° paragraaf 1/1 wordt vervangen door wat volgt :<br />« § 1/1. Voor 2009, 2010 en 2011 wordt het krediet, vermeld in paragraaf 1, respectievelijk vastgelegd op 748.000 euro, 692.000 euro en 467.000 euro. Vanaf het begrotingsjaar 2012 bedraagt het krediet 622.000 euro (exclusief indexering). »;<br /><br />2° in paragraaf 2 wordt de zin "Het krediet dat vastgelegd werd voor 2011, vermeld in § 1/1, volgt vanaf 2012 de evolutie van de gezondheidsindex. » vervangen door de zin "Het krediet dat vastgelegd wordt vanaf 2012, vermeld in paragraaf 1/1, volgt vanaf 2012 de evolutie van de gezondheidsindex. ».
 
 ## Afdeling 5. Begeleiders autismespectrumstoornissen
+
+### ART. 13.
+
+In artikel XI.8 van het decreet van 4 juli 2008 betreffende het onderwijs XVIII, gewijzigd bij het decreet van 8 mei 2009, worden de woorden "en 2010-2011" vervangen door de woorden ", 2010-2011 en 2011-2012".
 
 ## HOOFDSTUK 3. Vlaams Stedenfonds
 
