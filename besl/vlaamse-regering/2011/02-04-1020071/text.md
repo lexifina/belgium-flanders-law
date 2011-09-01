@@ -6,23 +6,23 @@ De Vlaamse Regering,<br /><br />Gelet op de Richtlijn 2005/36/EG van het Europee
 
 ### ART. 1.
 
-De hogescholen in de Vlaamse Gemeenschap die de opleiding leidende tot de graad bachelor met de kwalificatie verpleegkunde aanbieden, leven bij de vaststelling van het opleidingsprogramma de vastgelegde voorwaarden na van de Europese Richtlijn 2005/36/EC, in het bijzonder artikel 31 over de opleiding tot verantwoordelijk algemeen ziekenverpleger. <br /><br />
+...
 
 ### ART. 2.
 
-De opleiding leidende tot de graad bachelor met de kwalificatie verpleegkunde dat rechtstreeks toegang biedt tot het gereglementeerd beroep verantwoordelijk algemeen ziekenverpleger omvat ten minste 4 600 uur theoretisch en klinisch onderwijs, waarbij de duur van het theoretisch onderwijs ten minste één derde en die van het klinisch onderwijs ten minste de helft van de minimumduur van de opleiding bedraagt.<br /><br />
+...
 
 ### ART. 3.
 
-De hogescholen vermelden de bepalingen van artikel 1 en 2 expliciet in hun onderwijs- en examenreglement en op hun website.<br /><br />
+...
 
 ### ART. 4.
 
-Het klinisch onderwijsgedeelte van de opleiding, zoals bepaald in artikel 31 van de Europese Richtlijn 2005/36/EC, bedraagt ten minste de helft, namelijk 2 300 uur, van de minimumduur van de opleiding en verloopt via contactonderwijs, ongeacht de leerweg die de student gekozen heeft in het hoger onderwijs met toepassing van het decreet van 30 april 2004 betreffende de flexibilisering van het hoger onderwijs in Vlaanderen en houdende dringende hogeronderwijsmaatregelen.<br /><br />
+...
 
 ### ART. 5.
 
-§1 De opleiding leidende tot de graad bachelor met de kwalificatie verpleegkunde omvat tenminste het studieprogramma dat bepaald wordt in bijlage V, punt 5.2.1, van de Europese Richtlijn 2005/36/EC, namelijk :<br />A. Theoretisch onderwijs<br />a) Verpleegkunde<br />- Voorlichting en beroepsethiek<br />- Algemene beginselen van de gezondheid en de verpleegkunde<br />- Beginselen van de verpleegkunde met betrekking tot :<br />- algemene geneeskunde en medische specialismen<br />- algemene chirurgie en chirurgische specialismen<br />- kinderverzorging en pediatrie<br />- hygiëne en verzorging van moeder en pasgeboren kind<br />- geestelijke gezondheid en psychiatrie<br />- verzorging van bejaarden en geriatrie<br />b) Basiswetenschappen<br />- Anatomie en fysiologie<br />- Pathologie<br />- Bacteriologie, virologie en parasitologie<br />- Biofysica, biochemie en radiologie<br />- Voedingsleer<br />- Hygiëne<br />- profylaxe<br />- gezondheidsvoorlichting<br />- Farmacologie<br />c) Sociale wetenschappen<br />- Sociologie<br />- Psychologie<br />- Beginselen van administratie<br />- Beginselen van onderricht<br />- Wettelijke regelingen op sociaal gebied en inzake gezondheidszorg<br />- Juridische aspecten van het beroep<br />B. Klinisch onderwijs<br />Alle onderdelen van de verpleegkunde met betrekking tot :<br />- algemene geneeskunde en medische specialismen<br />- algemene chirurgie en chirurgische specialismen<br />- kinderverzorging en pediatrie<br />- hygiëne en verzorging van moeder en pasgeboren kind<br />- geestelijke gezondheid en psychiatrie<br />- bejaardenverzorging en geriatrie<br />- verzorging thuis<br /><br />§ 2 Eén of meer van deze vakken kunnen als onderdeel van of in samenhang met de overige worden gedoceerd. Het theoretische onderwijs moet in evenwicht gebracht en gecoördineerd worden met het klinische onderwijs zodat de aangegeven kennis en bekwaamheid, vermeld in § 1, op voldoende wijze kunnen worden verworven.<br /><br />
+...
 
 ### ART. 6.
 
