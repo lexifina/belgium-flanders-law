@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020806,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-09 tot tijdelijke erkenning van de masteropleidingen master in de westerse literatuur en \"Master of Western Literature\" van de Katholieke Universiteit Leuven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020806/VolledigDocument?datum=2011-09-01",
+  "source_sha256": "d779f0c0a20350b2f35df16ca0da0370b0d7c2727421025648c5e79ca74d9f35",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020806&param=informatie",
+  "as_of": "2011-09-01",
+  "made": "2011-09-09",
+  "gazette": "2011-09-29",
+  "numac": 2011204770,
+  "document_start": "2011-09-01",
+  "document_end": "2014-08-31",
+  "in_force": "2011-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
