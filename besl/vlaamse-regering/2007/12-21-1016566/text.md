@@ -35,7 +35,7 @@ De lijst van huidige benamingen van beroepenvelden (toestand vanaf 1 september 2
 
 ### ART. 3.
 
-De lijsten van huidige benamingen van opties (toestand vanaf 1 september 2007, tenzij anders vermeld) van de respectieve studiegebieden, zijn als bijlage III tot en met XXXI bij dit besluit gevoegd. In voorkomend geval wordt aangegeven dat een optie specifiek is (symbool S).<br /><br />
+De lijsten van huidige benamingen van opties (toestand vanaf 1 september 2007, tenzij anders vermeld) van de respectieve studiegebieden, zijn als bijlage III tot en met XXXI bij dit besluit gevoegd. In voorkomend geval wordt aangegeven dat een optie specifiek is (symbool S). Tenzij anders vermeld, hebben de opties, ingericht als Se-n-Se, die voorkomen in de bijlagen bij dit besluit, een duurtijd van twee semesters.
 
 ### ART. 4.
 
@@ -56,6 +56,10 @@ Het aanbod van de opties Integrale veiligheid en Veiligheidsberoepen is aan de v
 ### ART. 6ter.
 
 Het aanbod van de optie Duurzaam wonen is aan de volgende beperking onderworpen : <br />1° per provincie kan de optie in maximaal één onderwijsinstelling die behoort tot het officieel onderwijs en één onderwijsinstelling die behoort tot het vrij onderwijs worden georganiseerd;<br />2° voor de toepassing van deze bepaling worden de Nederlandstalige onderwijsinstellingen gelegen in het Brussels Hoofdstedelijk Gewest gerekend tot de provincie Vlaams-Brabant.
+
+### ART. 6quater.
+
+Het aanbod van de optie Onthaal en recreatie is aan de volgende beperking onderworpen : de optie kan in maximaal zes door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstellingen worden georganiseerd, waarvan drie behoren tot het officieel onderwijs en drie tot het vrij onderwijs.<br /><br />Het aanbod van de optie Gespecialiseerd recreatiemedewerker is aan de volgende beperking onderworpen : de optie kan in maximaal zes door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstellingen worden georganiseerd, waarvan drie behoren tot het officieel onderwijs en drie tot het vrij onderwijs.
 
 ### ART. 7.
 
@@ -2234,7 +2238,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:176.4pt">
-			<p>Productie- en procestechnologie (chemie) (vanaf 1 september 2008)</p>
+			<p>Productie- en procestechnologie (chemie) (vanaf 1 september 2008) (tot en met 31 augustus 2011)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:53.9pt">
 			<p>S</p>
@@ -3617,7 +3621,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:176.4pt">
-			<p>Productie- en procestechnologie (hout) (vanaf 1 september 2008)</p>
+			<p>Productie- en procestechnologie (hout) (vanaf 1 september 2008) (tot en met 31 augustus 2011)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:53.9pt">
 			<p>S</p>
@@ -5652,20 +5656,6 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:6cm">
-			<p><strong>&nbsp;</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:1cm">
-			<p><strong>&nbsp;</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:6cm">
-			<p>Vliegtuigtechnicus (vanaf 1 september 2008)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:1cm">
-			<p>S</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:6cm">
 			<p>Audio-video en teletechnieken</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:1cm">
@@ -5816,6 +5806,26 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:1cm">
 			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:6cm">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:1cm">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:6cm">
+			<p>Productie- en procestechnologie (vanaf 1 september 2011)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:1cm">
+			<p>S</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:6cm">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:1cm">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:6cm">
+			<p>Vliegtuigtechnicus (vanaf 1 september 2008)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:1cm">
+			<p>S</p>
 			</td>
 		</tr>
 		<tr>
@@ -7160,7 +7170,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:6cm">
-			<p>Productie- en procestechnologie (textiel) (vanaf 1 september 2008)</p>
+			<p>Productie- en procestechnologie (textiel) (vanaf 1 september 2008) (tot en met 31 augustus 2011)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:1cm">
 			<p>S</p>
@@ -7510,6 +7520,46 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 			<p>&nbsp;</p>
 			</td>
 		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:6cm">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:1cm">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:6cm">
+			<p><strong>Derde graad bso</strong></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:1cm">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:6cm">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:1cm">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:6cm">
+			<p>Onthaal en recreatie (vanaf 1 september 2011)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:1cm">
+			<p>S</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:6cm">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:1cm">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:6cm">
+			<p><strong>Specialisatiejaren bso</strong></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:1cm">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:6cm">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:1cm">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:6cm">
+			<p>Gespecialiseerd recreatiemedewerker (vanaf 1 september 2011)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:1cm">
+			<p>S</p>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -7665,7 +7715,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:6cm">
-			<p>Productie- en procestechnologie (voeding) (vanaf 1 september 2008)</p>
+			<p>Productie- en procestechnologie (voeding) (vanaf 1 september 2008) (tot en met 31 augustus 2011)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:1cm">
 			<p>S</p>
