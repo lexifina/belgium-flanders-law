@@ -2,16 +2,16 @@
   "codex_id": 1017726,
   "title": "Decreet van 2009-02-13 houdende de organisatie van schoolsport",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017726/VolledigDocument?datum=2010-09-01",
-  "source_sha256": "d52e36f005220a726a6733de4d13c0170bf6d18a25f4e9485d2a49881c410cc4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017726/VolledigDocument?datum=2011-09-01",
+  "source_sha256": "5b35cdb77c8d96c067da6421bdb54210b6f8dfd9c131dc90ddd559f60201a002",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017726&param=informatie",
-  "as_of": "2010-09-01",
+  "as_of": "2011-09-01",
   "made": "2009-02-13",
   "gazette": "2009-03-26",
   "numac": 2009201242,
   "document_start": "2009-01-01",
   "document_end": null,
-  "in_force": "2010-09-01",
+  "in_force": "2011-09-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2010-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-09-01; future article versions excluded; article text as the API gives it"
 }
