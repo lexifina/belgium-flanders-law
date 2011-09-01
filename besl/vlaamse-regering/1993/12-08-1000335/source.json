@@ -2,16 +2,16 @@
   "codex_id": 1000335,
   "title": "Besluit van de Vlaamse Regering van 1993-12-08 betreffende de controle op de afwezigheid wegens ziekte",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000335/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "7b8c833ace728c9a61b4f28761c3096685df04ea09073ff3d6c23d771ff99197",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000335/VolledigDocument?datum=2011-09-01",
+  "source_sha256": "9c3242dd9c72d2316ccbdeee59a34c56e1a7d9b92cd6b1f2b195eb7a30f563f7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000335&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-09-01",
   "made": "1993-12-08",
   "gazette": "1994-03-23",
   "numac": 1993120800,
   "document_start": "1994-01-01",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 35,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2011-09-01",
+  "article_versions": 38,
+  "record_form": "consolidated version as in force on 2011-09-01; future article versions excluded; article text as the API gives it"
 }
