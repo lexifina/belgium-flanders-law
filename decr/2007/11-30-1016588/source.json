@@ -2,16 +2,16 @@
   "codex_id": 1016588,
   "title": "Decreet van 2007-11-30 betreffende het flankerend onderwijsbeleid op lokaal niveau",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016588/VolledigDocument?datum=2011-07-04",
-  "source_sha256": "a92ed98a96f7dd0e28d9cfe6a576ecd3ab004152c66d7301c245f6a26705b747",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016588/VolledigDocument?datum=2011-09-01",
+  "source_sha256": "7ffd86f9baf2eca5e065f67ec8c4bb4e742b7738ec4c5f2308f6115ed2be2e4c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016588&param=informatie",
-  "as_of": "2011-07-04",
+  "as_of": "2011-09-01",
   "made": "2007-11-30",
   "gazette": "2008-02-11",
   "numac": 2008035197,
   "document_start": null,
   "document_end": null,
-  "in_force": "2011-07-04",
-  "article_versions": 31,
-  "record_form": "consolidated version as in force on 2011-07-04; future article versions excluded; article text as the API gives it"
+  "in_force": "2011-09-01",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2011-09-01; future article versions excluded; article text as the API gives it"
 }
