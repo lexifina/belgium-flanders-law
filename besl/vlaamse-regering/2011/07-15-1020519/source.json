@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020519,
+  "title": "Besluit van de Vlaamse Regering van 2011-07-15 tot wijziging van artikel 7 en 9 en tot invoeging van artikel 9/1 tot 9/3 in het besluit van de Vlaamse Regering van 29 mei 2009 tot regeling van sommige aspecten van de organisatie en werking van de Raad voor vergunningsbetwistingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020519/VolledigDocument?datum=2011-09-01",
+  "source_sha256": "940133488a18a3dee60578e22cd6b0ab9d6c1054afb97c3322573a1a6bfecb9b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020519&param=informatie",
+  "as_of": "2011-09-01",
+  "made": "2011-07-15",
+  "gazette": "2011-08-16",
+  "numac": 2011204037,
+  "document_start": "2011-09-01",
+  "document_end": null,
+  "in_force": "2011-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2011-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
