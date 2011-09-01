@@ -20,6 +20,10 @@ Artikel 10 van hetzelfde besluit wordt vervangen door wat volgt :<br /><br />« 
 
 In artikel 12 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 18 juli 2003, worden de woorden « het departement » vervangen door de woorden « het Agentschap voor Kwaliteitszorg in Onderwijs en Vorming ».
 
+### ART. 5.
+
+In hetzelfde besluit worden de bijlagen vervangen door de bijlagen, die bij dit besluit zijn gevoegd.
+
 ### ART. 6.
 
 Dit besluit treedt in werking op 1 maart 2011, met uitzondering van artikel 5, dat in werking treedt op 1 september 2011.

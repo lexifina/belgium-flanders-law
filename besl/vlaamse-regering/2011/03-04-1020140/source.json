@@ -2,16 +2,16 @@
   "codex_id": 1020140,
   "title": "Besluit van de Vlaamse Regering van 2011-03-04 tot wijziging van het besluit van de Vlaamse Regering van 24 november 1998 betreffende de regels voor het uitreiken van het getuigschrift van basisonderwijs en het vastleggen van de vorm ervan",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020140/VolledigDocument?datum=2011-03-01",
-  "source_sha256": "88e9b7287fc06ea62181809d2b04b6c3760a041f0b733b03fbfc1b85f21646ab",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020140/VolledigDocument?datum=2011-09-01",
+  "source_sha256": "7a28feb502aae9507ba8a0a41f449193632d5d557631fac7039a4c2d0a96850f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020140&param=informatie",
-  "as_of": "2011-03-01",
+  "as_of": "2011-09-01",
   "made": "2011-03-04",
   "gazette": "2011-03-31",
   "numac": 2011035258,
   "document_start": "2011-03-01",
   "document_end": null,
-  "in_force": "2011-03-01",
-  "article_versions": 9,
-  "record_form": "consolidated version as in force on 2011-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2011-09-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2011-09-01; future article versions excluded; article text as the API gives it"
 }
