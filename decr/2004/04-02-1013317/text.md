@@ -454,7 +454,7 @@ De regering bepaalt de nadere samenstelling van de raden.
 
 ### ART. 79.
 
-De afvaardiging in de raden komt in beginsel tot stand door aanduiding. De vertegenwoordigers van directeurs worden rechtstreeks verkozen. In de algemene raad en de deelraden basisonderwijs, secundair onderwijs en levenslang en levensbreed leren worden telkens twee ervaringsdeskundigen gecoöpteerd.<br /><br />Voor elke afgevaardigde wordt een plaatsvervanger aangesteld. De regering kan nadere regelen inzake de plaatsvervanging bepalen.
+De afvaardiging in de raden komt in beginsel tot stand door aanduiding. De vertegenwoordigers van directeurs worden rechtstreeks verkozen. In de algemene raad en de deelraden basisonderwijs, secundair onderwijs en levenslang en levensbreed leren worden telkens twee ervaringsdeskundigen gecoöpteerd.<br /><br />Voor elke afgevaardigde wordt een plaatsvervanger aangesteld. De regering kan nadere regelen inzake de plaatsvervanging bepalen.<br /><br />Bij uitputting van de lijst van verkozen directeurs wordt de vertegenwoordiging van deze geleding aangeduid in onderling overleg door het Gemeenschapsonderwijs, de representatieve verenigingen van inrichtende machten en de representatieve vakorganisaties.
 
 ### ART. 80.
 
