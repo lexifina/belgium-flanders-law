@@ -466,7 +466,7 @@ De Vlaamse regering bepaalt de voorwaarden waaronder de personeelsleden ter besc
 
 ### ART. 78.
 
-§ 1. In geval van tekortkoming aan hun plichten kan het hogeschoolbestuur de benoemde personeelsleden één van de volgende sancties opleggen:<br /><br />1° de blaam;<br /><br />2° de afhouding van het salaris;<br /><br />3° de schorsing bij tuchtmaatregel;<br /><br />4° de terugkeer tot de tijdelijke aanstelling van het personeelslid dat benoemd is;<br /><br />5° de terugzetting van het benoemd personeelslid in een ambt waaraan een lagere salarisschaal verbonden is;<br /><br />6° het ontslag.<br /><br />Een tuchtmaatregel is definitief indien de termijn waarin is voorzien voor het instellen van een beroep is verstreken, of nadat in beroep een definitieve beslissing werd genomen.<br /><br />§ 2. Feiten uit het privé-leven die geen weerslag hebben op de relatie tussen de student en het personeelslid of op de werking van de hogeschool, kunnen geen aanleiding geven tot een tuchtmaatregel vanwege het hogeschoolbestuur.
+§ 1. In geval van tekortkoming aan hun plichten kan het hogeschoolbestuur de benoemde personeelsleden één van de volgende sancties opleggen:<br />1° de blaam;<br />2° de afhouding van het salaris;<br />3° de schorsing bij tuchtmaatregel;<br />4° de terugkeer tot de tijdelijke aanstelling van het personeelslid dat benoemd is;<br />5° de terugzetting van het benoemd personeelslid in een ambt waaraan een lagere salarisschaal verbonden is;<br />6° het ontslag;<br />7° de afzetting.<br /><br />Een tuchtmaatregel is definitief indien de termijn waarin is voorzien voor het instellen van een beroep is verstreken, of nadat in beroep een definitieve beslissing werd genomen.<br /><br />§ 2. Feiten uit het privé-leven die geen weerslag hebben op de relatie tussen de student en het personeelslid of op de werking van de hogeschool, kunnen geen aanleiding geven tot een tuchtmaatregel vanwege het hogeschoolbestuur.
 
 ### ART. 79.
 
@@ -546,7 +546,7 @@ De bepalingen van deze afdeling zijn niet van toepassing op de gastprofessoren.
 
 ### ART. 94.
 
-Het hogeschoolbestuur kan elk personeelslid zonder opzegging om dringende redenen ontslaan. Onder dringende redenen wordt verstaan de ernstige tekortkoming die het voortduren van de aanstelling of benoeming onmiddellijk en definitief onmogelijk maakt.<br /><br />Het hogeschoolbestuur meldt het ontslag en de dringende redenen die er aanleiding toe geven bij een ter post aangetekende brief aan het betrokken personeelslid, binnen drie werkdagen nadat de feiten bekend werden bij het hogeschoolbestuur.<br /><br />Het betrokken personeelslid kan binnen drie werkdagen te rekenen vanaf de eerste werkdag na de indiening bij de post van bovenvermelde brief, bij aangetekend schrijven een gemotiveerd bezwaarschrift indienen bij het college van beroep inzake tucht bedoeld in artikel 85. Het beroep is niet opschortend. Binnen drie werkdagen te rekenen vanaf de eerste werkdag na de indiening bij de post van het bezwaarschrift bevestigt dit college het ontslag of spreekt het een preventieve schorsing uit met een tuchtprocedure voor gevolg op grond van de feiten vermeld in de brief bedoeld in het tweede lid van dit artikel.<br /><br />Voor de berekening van de termijnen vermeld in dit artikel is de poststempel bewijskrachtig.<br /><br />[Het personeelslid waartegen een preventieve schorsing wordt uitgesproken na ontslag, bevindt zich tijdens de preventieve schorsing in de administratieve stand waarin het zich bevond de dag vóór het ontslag. Tijdens de preventieve schorsing wordt het personeelslid ontheven van de verplichting om dienstprestaties te leveren.  <span class="reference">(ing. decr. 14 juli 1998, art. 52, I: 1 januari 1996)</span> ]
+Het hogeschoolbestuur kan elk personeelslid zonder opzegging om dringende redenen ontslaan. Onder dringende redenen wordt verstaan de ernstige tekortkoming die het voortduren van de aanstelling of benoeming onmiddellijk en definitief onmogelijk maakt.<br /><br />Het hogeschoolbestuur meldt het ontslag en de dringende redenen die er aanleiding toe geven bij een ter post aangetekende brief aan het betrokken personeelslid, binnen drie werkdagen nadat de feiten bekend werden bij het hogeschoolbestuur.<br /><br />Het betrokken personeelslid kan binnen drie werkdagen te rekenen vanaf de eerste werkdag na de indiening bij de post van bovenvermelde brief, bij aangetekend schrijven een gemotiveerd bezwaarschrift indienen bij het college van beroep inzake tucht bedoeld in artikel 85. Het beroep is niet opschortend. Het college van beroep inzake tucht spreekt zich binnen de twintig werkdagen te rekenen vanaf de eerste werkdag na de indiening van het bezwaarschrift bij de post uit over de gegrondheid van het ontslag om dringende redenen.<br /><br />Indien het college van beroep inzake tucht het ontslag om dringende redenen van een benoemd personeelslid ongegrond verklaart, kan het beslissen tot een preventieve schorsing van het personeelslid, met een tuchtprocedure tot gevolg. Het personeelslid wordt in dat geval in de administratieve stand geplaatst waarin het zich de dag voor het ontslag bevond. <br /><br />Voor de berekening van de termijnen vermeld in dit artikel is de poststempel bewijskrachtig.
 
 ### ART. 95.
 
@@ -616,7 +616,7 @@ Het assisterend personeel staat docenten, hoofddocenten, hoogleraren en gewoon h
 
 ### ART. 109.
 
-Een [...  <span class="reference">(geschr. decr. 18 mei 1999, art. II 15, I: 30 juli 1999)</span> ] lid van het onderwijzend personeel uit de groep van lectoren, hoofdlectoren, docenten, hoofddocenten, hoogleraren en gewoon hoogleraren, vult de functie van departementshoofd in bij mandaat voor hernieuwbare periodes van vier jaar. Dit personeelslid blijft gedurende het mandaat verder belast met onderwijsactiviteiten.<br /><br />[In afwijking van het eerste lid kunnen in de departementen bevoegd voor de studiegebieden audio-visuele en beeldende kunst, muziek en dramatische kunst, produktontwikkeling of architectuur, ook personeelsleden uit de groep van assistenten en werkleiders het mandaat van departementshoofd uitoefenen.  <span class="reference">(ing. decr. 19 april 1995, art. 12, I: 30 juli 1995)</span> ]<br /><br />[...  <span class="reference">(opgeh. decr. 18 mei 1999, art. II 15, I: 30 juli 1999)</span> ]
+Een lid van het onderwijzend personeel uit de groep van lectoren, hoofdlectoren, docenten, hoofddocenten, hoogleraren en gewoon hoogleraren, of een lid van het administratief - en technisch personeel vult de functie van departementshoofd in bij mandaat voor hernieuwbare periodes van vier jaar.<br /><br />In afwijking van het eerste lid kunnen in de departementen bevoegd voor de studiegebieden audio-visuele en beeldende kunst, muziek en dramatische kunst, produktontwikkeling of architectuur, ook personeelsleden uit de groep van assistenten en werkleiders het mandaat van departementshoofd uitoefenen. <br /><br />Het hogeschoolbestuur bepaalt bij reglement de voorwaarden en de procedure voor de toekenning van het mandaat van departementshoofd.
 
 ### ART. 110.
 
@@ -659,6 +659,10 @@ Werving en ambtswijziging in de ambten bedoeld in artikel 101 kunnen zowel in ti
 ### ART. 119.
 
 § 1. Het hogeschoolbestuur bepaalt bij reglement de voorwaarden voor aanstelling, benoeming en uitbreiding van aanstelling of benoeming.<br /><br />§ 2. Een werving in een vacante betrekking, met uitzondering van de aanstelling van minder dan één academiejaar, kan slechts gebeuren na een openbare vacature en wordt via ten minste twee openbare informatiekanalen bekendgemaakt.
+
+### ART. 119bis.
+
+Een hogeschool kan een vacante betrekking in het onderwijzend personeel ook invullen via de overname van een benoemd lid van het onderwijzend personeel van een andere hogeschool. Het overgenomen personeelslid behoudt bij de overname de salarisschaal en anciënniteit die het genoot aan de hogeschool waar het benoemd was, tenzij de overnemende hogeschool het personeelslid in een hogere salarisschaal of anciënniteit inschaalt.<br /><br />De overname van een benoemd personeelslid is niet mogelijk zonder de instemming van het betrokken personeelslid.
 
 ### ART. 120.
 
@@ -846,6 +850,10 @@ Het hogeschoolbestuur kan gedurende een periode een premie toekennen aan de lede
 
 § 1. De bezoldiging van de algemeen directeur, lid van het administratief en technisch personeel, bestaat uit:<br /><br />1° ofwel een mandaatsvergoeding gelijk aan het verschil tussen het salaris van gewoon hoogleraar, berekend rekening houdend met de door het personeelslid verworven geldelijke anciënniteit, en het salaris waarop het personeelslid ingevolge zijn betrekking op de personeelsformatic recht heeft, en toe te voegen aan dit salaris;<br /><br />2° ofwel het salaris van gewoon hoogleraar.<br /><br />§ 2. Wanneer het mandaat van het personeelslid dat belast was met de functie van algemeen directeur beëindigd is, en wanneer het zijn betrekking op de personeelsformatie weer opneemt, krijgt het opnieuw de salarisschaal verbonden aan deze betrekking en vervalt het recht op de vergoeding bedoeld in § 1.<br /><br />§ 3. Het personeelslid dat gedurende 10 jaren belast was met het mandaat van algemeen directeur, verwerft bij beëindiging van zijn mandaat de salarisschaal zoals bedoeld in § 1 definitief en behoudt deze salarisschaal als het zijn betrekking op de personeelsformatie opnieuw opneemt. (ing; decr. 19 maart 2004, art. V 56, I: 1 januari 1996)]
 
+### ART. 158ter.
+
+Het departementshoofd, lid van het administratief en technisch personeel wordt bezoldigd met hetzij een mandaatsvergoeding, hetzij een niet verworven salarisschaal. Het hogeschoolbestuur bepaalt vrij het bedrag van de vergoeding dat aan het vervullen van het mandaat verbonden is. Het salaris, met inbegrip van een eventuele mandaatsvergoeding, mag maximaal 20 % hoger zijn dan het salaris dat het personeelslid zou genieten als het niet belast was met het mandaat van departementshoofd.<br /><br />Het personeelslid dat gedurende 10 jaar belast was met het mandaat van departementshoofd, verwerft bij de beëindiging van dit mandaat definitief het in het eerste lid vermelde salaris en behoudt dit salaris als het personeelslid zijn betrekking op de personeelsformatie weer opneemt.
+
 ### ART. 159.
 
 [Het departement Onderwijs van het Ministerie van de Vlaamse Gemeenschap betaalt de salarissen, in voorkomend geval met inbegrip van het vakantiegeld en de eindejaarstoelage, de mandaatsvergoedingen, de premies bedoeld in artikel 157, van de leden van het administratief en technisch personeel, voor zover zij ten laste van de werkingsuitkeringen van de hogeschool worden bezoldigd.  <span class="reference">(verv. decr. 19 april 1995, art. 18, I: 30 juli 1995)</span> ]
@@ -866,7 +874,7 @@ De salarissen worden betaald aan het einde van de maand waarop ze betrekking heb
 
 ### ART. 163.
 
-Het hogeschoolbestuur kan, rekening houdend met de behoeften van de hogeschool, betrekkingen intern of extern vacant verklaren voor de graden waarin in de personeelsformatie van het administratief en technisch personeel werd voorzien.<br /><br />De vacante betrekkingen van het administratief en technisch personeel kunnen worden toegewezen hetzij door werving, hetzij door bevordering [hetzij door ambtswijziging.  <span class="reference">(ing. decr. 18 mei 1999, art. II 20, I: 1 januari 1996)</span> ]
+Het hogeschoolbestuur kan, rekening houdend met de behoeften van de hogeschool, betrekkingen intern of extern vacant verklaren voor de graden waarin in de personeelsformatie van het administratief en technisch personeel werd voorzien.<br /><br />De vacante betrekkingen van het administratief en technisch personeel kunnen worden toegewezen hetzij door werving, hetzij door bevordering hetzij door ambtswijziging.<br /><br />In afwijking van het eerste lid kan een bevordering of een ambtswijziging in een functie van de onmiddellijk hogere graad en van de daaropvolgende graad plaatsvinden zonder interne vacantverklaring en zonder selectie indien dit gebeurt in het kader van een vooraf door het hogeschoolbestuur bepaalde loopbaanplanning. Deze afwijking geldt enkel voor de zeer goed functionerende en presterende personeelsleden. De bevordering of ambtswijziging moet afdoende gemotiveerd worden op basis van een evaluatie van de door het betrokken personeelslid geleverde prestaties.<br /><br />Een eerste bevordering of ambtswijziging in een leidinggevende functie vindt steeds plaats na een interne vacantverklaring en selectie.
 
 ### ART. 164.
 
@@ -879,6 +887,10 @@ Werving is mogelijk in vast of tijdelijk verband, en voor zowel voltijdse als de
 ### ART. 166.
 
 § 1. Het hogeschoolbestuur bepaalt bij reglement de voorwaarden voor aanstelling, benoeming en uitbreiding van aanstelling of benoeming.<br /><br />§ 2. Een werving in een vacante betrekking, met uitzondering van de aanstelling van minder dan één jaar, kan slechts gebeuren na een openbare vacature en wordt via ten minste twee openbare informatiekanalen bekendgemaakt.<br /><br />§ 3. Personeelsleden die bezoldigd worden buiten de werkingsuitkeringen van de Vlaamse Gemeenschap kunnen zonder nieuwe vacature overgeheveld worden naar een betrekking van de personeelsformatie van het administratief en technisch personeel met behoud van hun verworven graad, salarisschaal en anciënniteit op voorwaarde dat :<br />1° zij geworven werden volgens de procedure die beantwoordt aan de in § 1 en § 2 bepaalde wervingseisen;<br />2° zij de graad, anciënniteit en salarisschaal bezitten die zij zouden bekomen hebben indien de voorgaande diensten gepresteerd werden overeenkomstig de wettelijke, decretale en reglementaire bepalingen van toepassing op het personeel ten laste van de jaarlijkse werkingsuitkeringen.
+
+### ART. 166bis.
+
+Een hogeschool kan een vacante betrekking in het administratief en technisch personeel ook invullen via de overname van een benoemd lid van het administratief en technisch personeel van een andere hogeschool. Het overgenomen personeelslid behoudt bij de overname de salarisschaal en anciënniteit die het genoot aan de hogeschool waar het benoemd was, tenzij de overnemende hogeschool het personeelslid in een hogere salarisschaal of anciënniteit inschaalt.<br /><br />De overname van een benoemd personeelslid is niet mogelijk zonder de instemming van het betrokken personeelslid. <br />
 
 ### ART. 167.
 
@@ -984,7 +996,7 @@ De leden van het administratief en technisch personeel die een politiek mandaat 
 
 ### ART. 179.
 
-... <br />12° SLO is bestemd voor de financiering van de initiële lerarenopleiding van academisch niveau en de initiële lerarenopleiding dans en met ingang van het academiejaar 2007-2008 ook voor de specifieke lerarenopleidingen van de hogescholen. De specifieke lerarenopleidingen voor de houders van een professioneel bachelordiploma, met uitzondering van de specifieke lerarenopleiding dans, worden slechts gefinancierd mits goedkeuring door de Vlaamse Regering van een strategisch beleidsplan van een Expertisenetwerk of regionaal platform dat de organisatie en ontwikkeling van de specifieke lerarenopleidingen en de kwaliteitszorg beschrijft.<br /><br />De Vlaamse Regering houdt hierbij rekening met de volgende criteria inzake macrodoelmatigheid : het aanbod van specifieke lerarenopleidingen in het Expertisenetwerk en het aantal studenten in deze specifieke lerarenopleidingen. De Vlaamse Regering kan hierbij het advies inwinnen van de Erkenningscommissie.<br /><br />In 2007 ontvangen de hogescholen voor de organisatie van de specifieke lerarenopleidingen gezamenlijk een bedrag van 883.859 euro. Vanaf 2008 is dit bedrag gelijk aan 1.521.008 euro.<br /><br />Voor het begrotingsjaar 2007 gebeurt de verdeling pro rata de in het academiejaar 2004-2005 uitgereikte diploma's in de lerarenopleiding. Vanaf het begrotingsjaar 2008 gebeurt de verdeling pro rata de in het voorlaatst afgelopen academiejaar verworven credits in de lerarenopleiding.<br /><br />Deze bedragen worden jaarlijks aangepast op de wijze bepaald in artikel 184 van dit decreet.<br />Vóór het begrotingsjaar 2010 wordt deze financieringswijze geëvalueerd.<br />...
+... <br />12° SLO is bestemd voor de financiering van de initiële lerarenopleiding van academisch niveau en de initiële lerarenopleiding dans en met ingang van het academiejaar 2007-2008 ook voor de specifieke lerarenopleidingen van de hogescholen. De specifieke lerarenopleidingen voor de houders van een professioneel bachelordiploma, met uitzondering van de specifieke lerarenopleiding dans, worden slechts gefinancierd mits goedkeuring door de Vlaamse Regering van een strategisch beleidsplan van een Expertisenetwerk of regionaal platform dat de organisatie en ontwikkeling van de specifieke lerarenopleidingen en de kwaliteitszorg beschrijft.<br /><br />De Vlaamse Regering houdt hierbij rekening met de volgende criteria inzake macrodoelmatigheid : het aanbod van specifieke lerarenopleidingen in het Expertisenetwerk en het aantal studenten in deze specifieke lerarenopleidingen. De Vlaamse Regering kan hierbij het advies inwinnen van de Erkenningscommissie.<br /><br />In 2007 ontvangen de hogescholen voor de organisatie van de specifieke lerarenopleidingen gezamenlijk een bedrag van 883.859 euro. Vanaf 2008 is dit bedrag gelijk aan 1.521.008 euro.<br /><br />Voor het begrotingsjaar 2007 gebeurt de verdeling pro rata de in het academiejaar 2004-2005 uitgereikte diploma's in de lerarenopleiding. Vanaf het begrotingsjaar 2008 gebeurt de verdeling pro rata de in het voorlaatst afgelopen academiejaar verworven credits in de lerarenopleiding.<br /><br />Deze bedragen worden jaarlijks aangepast op de wijze bepaald in artikel 9, § 5, van het decreet betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen.<br /><br />Vóór het begrotingsjaar 2012 wordt deze financieringswijze geëvalueerd.<br />...
 
 ### ART. 180.
 
@@ -1152,7 +1164,7 @@ Binnen de perken en volgens de modaliteiten bepaald in dit decreet, draagt de Vl
 
 ### ART. 208.
 
-§ 1. Iedere hogeschool richt een v.z.w. voor het beheer van haar sociale voorzieningen op.<br /><br />§ 2. De sociale toelagen worden toegekend aan de v.z.w.'s bedoeld onder § 1.<br /><br />§ 3. Een v.z.w. zoals bedoeld in § 1 kan voor de organisatie van de sociale voorzieningen in één of meer regionale netwerken participeren. Een regionaal netwerk ontstaat uit een samenwerkingsakkoord tussen de v.z.w.'s bedoeld in § 1. Het samenwerkingsakkoord regelt, op een gezamenlijke basis, de organisatie en het beheer van de sociale voorzieningen. Deze regionale netwerken nemen eveneens de vorm aan van een v.z.w.
+§ 1. Iedere hogeschool richt een v.z.w. voor het beheer van haar sociale voorzieningen op.<br /><br />§ 2. De sociale toelagen worden toegekend aan de v.z.w.'s bedoeld onder § 1.<br /><br />§ 3. Een v.z.w. zoals bedoeld in § 1 kan voor de organisatie van de sociale voorzieningen in één of meer regionale netwerken participeren. Een regionaal netwerk ontstaat uit een samenwerkingsakkoord tussen de v.z.w.'s bedoeld in § 1. Het samenwerkingsakkoord regelt, op een gezamenlijke basis, de organisatie en het beheer van de sociale voorzieningen. Deze regionale netwerken nemen eveneens de vorm aan van een v.z.w.<br /><br />§ 4. In geval van ontbinding van de vzw worden alle activa en passiva van de vzw met behoud van de bestemming overgedragen aan de hogeschool waar de vzw aan verbonden is. De overdracht van de goederen die de VZW rechtstreeks of onrechtstreeks met de sociale toelage heeft verworven, gebeurt om niet.
 
 ### ART. 209.
 
@@ -1276,7 +1288,7 @@ Bij het vaststellen van de jaarlijkse personeelsformatie neemt het hogeschoolbes
 
 ### ART. 231bis.
 
-In afwijking van de bepalingen van artikel 231 kunnen de personeelsleden die de leeftijd van 55 jaar hebben bereikt en de voorwaarden voor vaste benoeming vervullen, op hun verzoek worden benoemd in de vacante betrekking. Deze bepaling geldt ten aanzien van de personeelsleden die op 1 januari 1995 in de hogeschool in dienst waren en ingevolge de uitoefening van een betrekking in vast verband in een instelling voor secundair onderwijs rechten kunnen laten gelden op een pensioen ten laste van de schatkist.  <span class="reference">(ing. decr. 8 juli 1996, art. 116, I: 1 september 1995)</span> ]
+In afwijking van de bepalingen van artikel 231 kunnen de personeelsleden die de leeftijd van 55 jaar hebben bereikt en de voorwaarden voor vaste benoeming vervullen, op hun verzoek worden benoemd in de vacante betrekking. Deze bepaling geldt ten aanzien van de personeelsleden die op 1 januari 1995 in de hogeschool in dienst waren en ingevolge de uitoefening van een betrekking in vast verband in een instelling voor secundair onderwijs rechten kunnen laten gelden op een pensioen ten laste van de schatkist. <br /><br />In afwijking van de bepalingen van artikel 231 kan het hogeschoolbestuur een personeelslid benoemen dat de leeftijd van 55 jaar bereikt heeft en een aanstelling in een vacant ambt heeft. Het hogeschoolbestuur bepaalt bij reglement de voorwaarden waaronder deze benoeming mogelijk is.
 
 ### ART. 231ter.
 
@@ -1532,6 +1544,10 @@ Iedere Vlaamse autonome hogeschool richt een hogeschoolonderhandelingscomité op
 
 ## [AFDELING 3bis DEELNAME AAN LOKALE INSPRAAKVERGADERINGEN EN ANDERE VERGADERINGEN (ing. decr. 1 juli 2011, art.V.16, I: 1 september 2011)]
 
+### ART. 281bis.
+
+Het personeelslid dat zitting heeft in een lokaal inspraakorgaan dat opgericht is door of krachtens een wet of een decreet, krijgt dienstvrij stelling om de vergaderingen bij te wonen. De dienstvrij stelling wordt gelijkgesteld met een periode van dienstactiviteit. Het personeelslid behoudt het recht op een salaris.<br /><br />Op verzoek van een verantwoordelijk bestuurslid van een representatieve vakorganisatie, krijgt een vakbondsafgevaardigde dienstvrij stelling om de vergaderingen van de Vlaamse Onderwijsraad bij te wonen. De dienstvrijstelling wordt gelijkgesteld met een periode van dienstactiviteit. Het personeelslid behoudt het recht op een salaris.
+
 ## AFDELING 4 [... (opgeh. decr. 19 maart 2004, art. II 76)]
 
 ### ART. 282.
@@ -1562,7 +1578,7 @@ Aan de personen die in de hogeschool een bestuursmandaat bekleden, kan een vergo
 
 ### ART. 286.
 
-Het hogeschoolbestuur bepaalt welke departementen de hogeschool omvat en wijst per departement een departementshoofd aan onder de leden van het [...  <span class="reference">(geschr. decr. 18 mei 1999, art. II 27, I: 30 juli 1999)</span> ] onderwijzend personeel die verbonden zijn aan het departement. Het departementshoofd is belast met de dagelijkse leiding van het departement.<br /><br />[...  <span class="reference">(opgeh. decr. 18 mei 1999, art. II 27, I: 30 juli 1999)</span> ]
+Het hogeschoolbestuur bepaalt welke departementen de hogeschool omvat en wijst per departement een departementshoofd aan. Het departementshoofd is belast met de dagelijkse leiding van het departement.
 
 ### ART. 287.
 
@@ -1721,6 +1737,10 @@ Het hogeschoolonderhandelingscomité, respectievelijk het departementaal onderha
 § 1. De afgevaardigden van het personeel in de onderhandelingscomités in de gesubsidieerde vrije hogescholen worden verkozen op door de representatieve vakorganisaties voorgedragen kandidatenlijsten. In geen geval kan het departementshoofd voorgedragen worden als afgevaardigde van het personeel. Het mandaat van de afgevaardigden bedraagt vier academiejaren, tenzij de onderhandelingscomités dit bij reglement anders bepalen, gebeurt de verkiezing van de afgevaardigden op dezelfde wijze als bedoeld bij de artikelen 20, 20bis en 20ter van de wet van 20 september 1948 houdende organisatie van het bedrijfsleven.<br /><br />De afgevaardigden van het personeel in de onderhandelingscomités in de gesubsidieerde officiële hogescholen worden aangeduid door de representatieve vakorganisaties.<br /><br />§ 2. De afgevaardigden van het personeel in de onderhandelingscomités genieten van de nodige faciliteiten om hun mandaat naar behoren te kunnen vervullen. Zij kunnen voor de daden gesteld in de uitoefening van hun mandaat geen tuchtsanctie oplopen.<br /><br />[De hogescholen moeten een kwaliteitsvolle organisatie van de medezeggenschap faciliteren.  <span class="reference">(ing. decr. 15 juli 2005, art. V.6, I : 1 september 2005)</span> ]
 
 ## [AFDELING 4 DEELNAME AAN LOKALE INSPRAAKORGANEN EN ANDERE VERGADERINGEN (ing. decr. 1 juli 2011, art. V.18, I: 1 september 2011)]
+
+### ART. 304bis/1.
+
+Het personeelslid dat zitting heeft in een lokaal inspraakorgaan dat opgericht is door of krachtens een wet of een decreet, krijgt dienstvrijstelling om de vergaderingen bij te wonen. De dienstvrijstelling wordt gelijkgesteld met een periode van dienstactiviteit. Het personeelslid behoudt het recht op een salaris.<br /><br />Op verzoek van een verantwoordelijk bestuurslid van een representatieve vakorganisatie, krijgt een vakbondsafgevaardigde dienstvrijstelling om de vergaderingen van de Vlaamse Onderwijsraad bij te wonen. De dienstvrijstelling wordt gelijkgesteld met een periode van dienstactiviteit. Het personeelslid behoudt het recht op een salaris.
 
 ## [HOOFDSTUK IV BEGELEIDING EN ONDERSTEUNING (ing. decr. 15 juli 1997, art. 50)]
 
@@ -1948,7 +1968,7 @@ In afwijking van artikel 2, 34° kunnen de personeelsleden waarvan de deeltijdse
 
 ### ART. 332.
 
-In afwachting van de door de Vlaamse regering vastgelegde bezoldigingsregeling, zoals bepaald in artikel 135, blijft het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar onderwijs van kracht met uitzondering van de artikelen 4, 5, 16, § 1, B, a), voor wat betreft de werkelijke diensten die een personeelslid heeft verstrekt in het door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde onderwijs met beperkt leerplan, 17 en 41 tot en met 49.
+In afwachting van de door de Vlaamse regering vastgelegde bezoldigingsregeling, zoals bepaald in artikel 135, blijft het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar onderwijs van kracht met uitzondering van de artikelen 4, 5, 17 en 41 tot en met 49.
 
 ### ART. 332bis.
 
