@@ -40,6 +40,10 @@ Voor de structuuronderdelen  <span class="reference">(ing. B.V.R. 30 juni 1998, 
 
 § 1. Voor een instelling die op 1 september van een bepaald schooljaar ontstaat uit fusie, wordt voor de berekening van het aantal uren-leraar, zoals bedoeld in artikel 3, de onderscheiden aantallen aanwendbare uren-leraar en aantallen regelmatige leerlingen, de decretaal bepaalde teldatum of teldata van het voorafgaand schooljaar van de tot de fusie toegetreden instellingen, samengevoegd, waarna de gestelde bewerkingen worden uitgevoerd.<br /><br />§ 2. Voor een instelling die op 1 september van een bepaald schooljaar ontstaat door afsplitsing, alsmede voor de overblijvende instelling, wordt voor de berekening van het aantal uren-leraar zoals bedoeld in artikel 3, de onderscheiden aantallen aanwendbare uren-leraar en aantal regelmatige leerlingen, de decretaal bepaalde teldatum of teldata van het voorafgaand schooljaar van de structuuronderdelen die ingevolge de afsplitsing tot de onderscheiden nieuwe instellingen behoren, in aanmerking genomen, waarna de gestelde bewerkingen worden uitgevoerd.
 
+### ART. 7bis.
+
+In afwijking van artikel 4 en 6 wordt voor het schooljaar 2011-2012 aan de Koninklijke Balletschool Antwerpen een pakket van 481 uren-leraar toegekend.
+
 ## HOOFDSTUK III [SCHOLEN (verv. BVR 7 september 2012, art. 1)] VOOR [ MARITIEM ONDERWIJS (verv. BVR 22 september 2023, art. 2, I: 1 september 2023)]
 
 ### ART. 8.
