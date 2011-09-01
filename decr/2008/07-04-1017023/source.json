@@ -2,16 +2,16 @@
   "codex_id": 1017023,
   "title": "Decreet van 2008-07-04 betreffende het onderwijs XVIII",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017023/VolledigDocument?datum=2011-07-04",
-  "source_sha256": "28fa01acb5212b7ba300cfefcfb1cde7035a3ff25e02e3b4c16c8e8ae517a7b3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017023/VolledigDocument?datum=2011-09-01",
+  "source_sha256": "06124346235b1cb625d79b81859d176b2c7699f2e7c6c856fccb04404a4716bc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017023&param=informatie",
-  "as_of": "2011-07-04",
+  "as_of": "2011-09-01",
   "made": "2008-07-04",
   "gazette": "2008-09-01",
   "numac": 2008036032,
   "document_start": null,
   "document_end": null,
-  "in_force": "2011-07-04",
+  "in_force": "2011-09-01",
   "article_versions": 276,
-  "record_form": "consolidated version as in force on 2011-07-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-09-01; future article versions excluded; article text as the API gives it"
 }
