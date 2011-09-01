@@ -2,31 +2,31 @@
 
 ### ART. 1.
 
-Aan de erkende lokale en regionale dienstencentra met als optionele werkzaamheden het uitlenen van personenalarmtoestellen en het organiseren van de dienstverlening van een personenalarmcentrale kan de subsidie voor het aankopen van personenalarmtoestellen, bedoeld in artikel 7, § 2, van bijlage II en artikel 7, § 3 van bijlage III bij het besluit van de Vlaamse regering van 18 december 1998 houdende de erkenning en de subsidiëring van verenigingen in welzijnsvoorzieningen in de thuiszorg, worden verleend onder de voorwaarden en volgens de modaliteiten, bepaald in dit besluit.
+...
 
 ### ART. 2.
 
-De personenalarmtoestellen moeten aan de volgende technisch-functionele vereisten voldoen :<br />1° een personenalarmtoestel biedt de gebruiker de mogelijkheid om vanuit eender welke ruimte in zijn woning een noodoproep uit te zenden. Door te drukken op de knop van een zender wordt een signaal uitgezonden naar een op het telefoonnet aangesloten ontvanger/automatische selector. Die laatste zal in een bepaalde volgorde telefonisch contact zoeken met een aantal hulpverleners (familie, buren, vrienden) en een centrale oproepen tot een reactie volgt. Een personenalarmtoestel bestaat dus steeds uit een combinatie van zender en ontvanger/automatische selector en kan, zonder afbreuk te doen aan de basisfunctionaliteit van personenalarmering, aangevuld worden met minstens de volgende functionaliteiten : <br />a) valdetectie; <br />b) bewegingsdetectie; <br />c) rook/branddetectie; <br />d) CO-detectie <br />2° de zender beschikt over een spatwaterdichte behuizing, is schokbestendig en is uitgerust met een automatische batterijtest. Het zendbereik van de zender bedraagt minstens 30 meter;<br />3° via een cascadesysteem kan de ontvanger/automatische selector automatisch meerdere telefoonnummers oproepen en annulering van het alarm is mogelijk binnen een vooraf ingestelde tijd. De noodoproep is communicatief, wat betekent dat bij oproep van de centrale een gesprek met de gebruiker mogelijk is. Tot slot is de ontvanger/automatische selector van een noodvoeding voorzien, die toelaat ook te functioneren bij het uitvallen van de elektriciteit;<br />4° op de centrale moeten minstens 2.000 abonnees aangesloten kunnen worden. De centrale zal ofwel 24 uur op 24 uur bemand zijn, ofwel aangesloten zijn op een personenzoeksysteem waarmee bij een noodoproep de centralist opgeroepen wordt. De centrale kan aangesloten worden op een computer en is van een noodvoeding voorzien;<br />5° het personenalarmtoestel beantwoordt aan de vereisten, vermeld in het koninklijk besluit van 28 februari 2007 betreffende de elektromagnetische compatibiliteit.
+...
 
 ### ART. 3.
 
-De organisatie van de dienstverlening van de alarmcentrale bestaat uit het tot stand brengen van het netwerk en de regelmatige aanpassing van het hulpverlenersbestand.
+...
 
 ### ART. 4.
 
-§ 1. Aan een lokaal dienstencentrum, als vermeld in artikel 1, kan een subsidie worden verleend voor maximaal dertig personenalarmtoestellen, waarvan maximaal tien toestellen op jaarbasis.<br /><br />Aan een regionaal dienstencentrum, als vermeld in artikel 1, kan een subsidie worden verleend voor maximaal zestig personenalarmtoestellen, waarvan maximaal vijftien toestellen op jaarbasis.<br /><br />Om voor subsidiëring in aanmerking te komen, moet minstens de helft van de aangekochte toestellen beschikken over ten minste twee van de functionaliteiten, vermeld in artikel 2, 1°. Maximum 20 % van deze toestellen met bijkomende functionaliteiten bescjikt intsluitend over de combinatie van « rook/branddetectie » en « CO-detectie ». <br /><br />Zodra de lokale en regionale dienstencentra hun maximale contingent van respectievelijk dertig en zestig toestellen hebben uitgeput, kunnen de toestellen die eerder werden aangekocht en gesubsidieerd ter uitvoering van dit besluit, vervangen en opnieuw gesubsidieerd worden op voorwaarde dat die toestellen minstens vier jaar oud zijn.<br /><br />§ 2. Lastens de begroting voor het jaar 2007 kunnen in totaal 7560 personenalarmtoestellen gesubsidieerd worden.<br /><br />In afwijking van § 1 kunnen de lokale en regionale dienstencentra, vermeld in artikel 1, in 2007 hun gehele contingent van respectievelijk dertig en zestig toestellen in één beweging aankopen. Na gemotiveerde aanvraag en binnen de perken van de goedgekeurde begrotingskredieten kan dat contingent in 2007 overschreden worden.
+...
 
 ### ART. 5.
 
-§ 1. De erkende lokale en regionale dienstencentra, vermeld in artikel 1, kunnen jaarlijks bij het Vlaams Agentschap Zorg en Gezondheid een subsidie aanvragen voor personenalarmtoestellen die ze willen aankopen in de periode die loopt van april van het jaar van de aanvraag tot en met maart van het daaropvolgende jaar.<br /><br />De aanvraag gebeurt uitsluitend bij middel van een formulier dat jaarlijks door het agentschap ter beschikking wordt gesteld. Om ontvankelijk te zijn moet de aanvraag vóór 1 april naar het agentschap worden verstuurd.<br /><br />§ 2. In afwijking van § 1, kunnen de personenalarmtoestellen die worden gesubsidieerd lastens de begroting van het jaar 2007, aangekocht worden in de periode van 1 oktober 2007 tot en met 30 september 2008. De ontvankelijke aanvraag daartoe moet uiterlijk op 1 november 2009 ingediend worden bij het Vlaams Agentschap Zorg en Gezondheid.
+...
 
 ### ART. 6.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen, beslist over de aanvraag, bedoeld in artikel 5, binnen de goedgekeurde begrotingskredieten en onverminderd de toepassing van artikel 7, § 2, van bijlage II en artikel 7, § 2, van bijlage III van het besluit van de Vlaamse regering van 18 december 1998 houdende de erkenning en de subsidiëring van verenigingen in welzijnsvoorzieningen in de thuiszorg en van artikel 4 van dit besluit.<br /><br />Aan het aanvragende lokaal of regionaal dienstencentrum wordt vóór 1 december van het jaar van de aanvraag meegedeeld hoeveel toestellen bij aankoop kunnen worden gesubsidieerd.
+...
 
 ### ART. 7.
 
-De subsidie wordt uitbetaald nadat het Vlaams Agentschap Zorg en Gezondheid de aankoopfactuur, het bewijs dat wordt voldaan aan de bepalingen van artikel 2, het bewijs van betaling en een EG-typeverklaring van overeenstemming heeft ontvangen en goedgekeurd.<br /><br />De lokale en regionale dienstencentra, waaraan de subsidie werd toegekend, sturen die bewijsstukken naar het Vlaams Agentschap Zorg en Gezondheid vóór 1 september van het jaar dat volgt op het jaar van de aanvraag.<br /><br />In afwijking van het tweede lid worden de bewijsstukken voor de personenalarmtoestellen die worden gesubsidieerd lastens de begroting 2007, uiterlijk op 1 november 2009 aan het agentschap bezorgd.
+...
 
 ### ART. 8.
 
