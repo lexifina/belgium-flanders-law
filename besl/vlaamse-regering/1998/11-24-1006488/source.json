@@ -2,16 +2,16 @@
   "codex_id": 1006488,
   "title": "Besluit van de Vlaamse Regering van 1998-11-24 betreffende de regels [voor de beslissing over het met vrucht beëindigen van het kleuteronderwijs en de uitreiking] van het getuigschrift van basisonderwijs en het vastleggen van de vorm ervan",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006488/VolledigDocument?datum=2011-03-01",
-  "source_sha256": "33700323df4f3aca66a9d7b7edf2b89a880b073a5abbc3f2761b3134b3eb9335",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006488/VolledigDocument?datum=2011-09-01",
+  "source_sha256": "5fe4b41f1d2b2e2ddc101f9c10d1ec4b7601b0c08a0798ae0d2a7b1a9dc8b48f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006488&param=informatie",
-  "as_of": "2011-03-01",
+  "as_of": "2011-09-01",
   "made": "1998-11-24",
   "gazette": "1999-02-05",
   "numac": 1999035081,
   "document_start": null,
   "document_end": null,
-  "in_force": "2011-03-01",
-  "article_versions": 16,
-  "record_form": "consolidated version as in force on 2011-03-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2011-09-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2011-09-01; future article versions excluded; article text as the API gives it"
 }
