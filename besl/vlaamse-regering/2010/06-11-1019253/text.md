@@ -20,6 +20,10 @@ In hetzelfde besluit worden een artikel 2/1 en 2/2 ingevoegd, die luiden als vol
 
 Aan hetzelfde besluit wordt een bijlage XVI toegevoegd, die als bijlage I bij dit besluit is gevoegd.
 
+### ART. 5.
+
+Bijlage XIII en bijlage XIV bij hetzelfde besluit worden opgeheven.
+
 ### ART. 6.
 
 Dit besluit treedt in werking op 1 september 2010, met uitzondering van artikel 5, dat in werking treedt op 1 september 2011.
