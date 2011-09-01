@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021111,
+  "title": "Besluit van de Vlaamse Regering van 2011-12-02 tot vastlegging van de lijst van de bachelor- en masteropleidingen die per instelling worden aangeboden in het hoger onderwijs in Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021111/VolledigDocument?datum=2011-09-01",
+  "source_sha256": "379314d30c3799eaf107cbaa73cb4a6cbc47199748a4328eac59e7dd06685971",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021111&param=informatie",
+  "as_of": "2011-09-01",
+  "made": "2011-12-02",
+  "gazette": "2011-12-21",
+  "numac": 2011036019,
+  "document_start": "2011-09-01",
+  "document_end": "2012-08-31",
+  "in_force": "2011-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2011-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
