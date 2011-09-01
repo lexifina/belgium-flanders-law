@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020350,
+  "title": "Besluit van de Vlaamse Regering van 2011-05-27 tot wijziging van het besluit van de Vlaamse Regering van 9 november 1994 betreffende het opvangverlof voor de personeelsleden van het onderwijs en de psycho-medisch-sociale centra met het oog op adoptie en pleegvoogdij, wat betreft de dienstvrijstelling voor het volgen van het verplichte voorbereidingsprogramma",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020350/VolledigDocument?datum=2011-09-01",
+  "source_sha256": "ff7c2c49cd6ac10cef618fad28f900c821045623e2e92c7b05534fa2d688c22d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020350&param=informatie",
+  "as_of": "2011-09-01",
+  "made": "2011-05-27",
+  "gazette": "2011-06-29",
+  "numac": 2011203118,
+  "document_start": "2011-09-01",
+  "document_end": null,
+  "in_force": "2011-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2011-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
