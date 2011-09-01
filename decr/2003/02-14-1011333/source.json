@@ -2,16 +2,16 @@
   "codex_id": 1011333,
   "title": "Decreet van 2003-02-14 betreffende het onderwijs XIV",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011333/VolledigDocument?datum=2011-07-04",
-  "source_sha256": "1158223c73bca2d043fbbade0ecf022a2bbb367fd56d91f61804bd557930e0cb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011333/VolledigDocument?datum=2011-09-01",
+  "source_sha256": "f4ec2cf3eac809e8afde6ed583aba0f1a856fb5a279bb2c847c880c9aa0465a1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011333&param=informatie",
-  "as_of": "2011-07-04",
+  "as_of": "2011-09-01",
   "made": "2003-02-14",
   "gazette": "2003-07-01",
   "numac": 2003035650,
   "document_start": null,
   "document_end": null,
-  "in_force": "2011-07-04",
+  "in_force": "2011-09-01",
   "article_versions": 332,
-  "record_form": "consolidated version as in force on 2011-07-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-09-01; future article versions excluded; article text as the API gives it"
 }
