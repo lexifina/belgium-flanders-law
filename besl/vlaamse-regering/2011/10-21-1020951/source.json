@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020951,
+  "title": "Besluit van de Vlaamse Regering van 2011-10-21 tot registratie van « The University of Kent » als geregistreerde instelling voor hoger onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020951/VolledigDocument?datum=2011-09-01",
+  "source_sha256": "33e0dfe24c2340cb11805116c7ae659d6dd859d4e1fa7204c0040f02e94ab2ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020951&param=informatie",
+  "as_of": "2011-09-01",
+  "made": "2011-10-21",
+  "gazette": "2011-11-24",
+  "numac": 2011205773,
+  "document_start": "2011-09-01",
+  "document_end": null,
+  "in_force": "2011-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
