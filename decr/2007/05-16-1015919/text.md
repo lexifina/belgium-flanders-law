@@ -98,7 +98,7 @@ Binnen de perken van de begroting van de Vlaamse Gemeenschap draagt de Vlaamse R
 
 ### ART. V.4.
 
-1° De subsidie wordt aangewend voor de werking van de vzw en voor de activiteiten die in Vlaanderen worden ontwikkeld in het kader van de Europese en internationale programma's en acties voor onderwijs, vorming, opleiding en levenslang leren.<br />2° De VZW legt jaarlijks een activiteitenverslag en een financieel verslag aan de Vlaamse Regering voor.<br />
+1° De subsidie wordt aangewend voor de werking van de vzw en voor de activiteiten die in Vlaanderen worden ontwikkeld in het kader van de Europese en internationale programma's en acties voor onderwijs, vorming, opleiding en levenslang leren.<br />2° De VZW legt jaarlijks een activiteitenverslag en een financieel verslag aan de Vlaamse Regering voor.<br />3° De vzw EPOS dient de niet-aangewende middelen die werden toegekend in het kader van Erasmus mobiliteit met aanvang van het academiejaar 2011-2012 opnieuw in te zetten voor deze actie in de daaropvolgende academiejaren. De vzw zal deze middelen beheren op een uitsluitend daartoe bestemde rekening.
 
 ## Afdeling II. Inwerkingtreding
 
