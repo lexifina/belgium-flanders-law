@@ -38,6 +38,10 @@ Deze aanvullende lestijden hebben tot doel de integratie van het grote aantal an
 
 Het aantal aanvullende lestijden dat een school bekomt met toepassing van artikel 4 wordt toegekend voor een periode van drie opeenvolgende schooljaren.<br /><br />De eerste driejaarlijkse cyclus start vanaf het schooljaar 2008-2009.<br /><br />Programmaties, fusies en herstructureringen hebben geen invloed op het toegekende aantal aanvullende lestijden per school.
 
+### ART. 5/1.
+
+In afwijking van artikel 5 behouden de scholen voor gewoon basisonderwijs, tijdens het schooljaar 2011-2012, de aanvullende lestijden voor de integratie van anderstaligen, die ze in het schooljaar 2010-2011 hebben ontvangen.
+
 ### ART. 6.
 
 § 1. In het gewoon basisonderwijs kunnen uit de aanvullende lestijden volgende betrekkingen worden geput :<br />1° het ambt van kleuteronderwijzer;<br />2° het ambt van onderwijzer.<br /><br />§ 2. In het buitengewoon basisonderwijs kunnen uit de aanvullende lestijden volgende betrekkingen worden geput :<br />1° het ambt van kleuteronderwijzer algemene en sociale vorming;<br />2° het ambt van onderwijzer algemene en sociale vorming.<br /><br />
