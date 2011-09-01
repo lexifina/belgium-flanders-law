@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021947,
+  "title": "Decreet van 2012-06-29 tot wijziging van diverse bepalingen van het decreet van 30 november 2007 betreffende het flankerend onderwijsbeleid op lokaal niveau",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021947/VolledigDocument?datum=2011-09-01",
+  "source_sha256": "a840759bbd73742df7562ee25d5bdad667ff422f56b8db5ad403f4784ff5864d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021947&param=informatie",
+  "as_of": "2011-09-01",
+  "made": "2012-06-29",
+  "gazette": "2012-07-19",
+  "numac": 2012035793,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2011-09-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
