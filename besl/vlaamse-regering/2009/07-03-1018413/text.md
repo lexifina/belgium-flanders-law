@@ -26,7 +26,7 @@ De normale wekelijkse arbeidsduur voor de personeelsleden die aangesteld zijn in
 
 ### ART. 5.
 
-De arbeidsprestaties kunnen tussen 7 uur en 23 uur op elke dag van de week geleverd worden.<br /><br />De arbeidsduur mag in geen geval elf uur per dag overschrijden en mag maximaal twee avondprestaties per week omvatten.<br /><br />De arbeidsprestaties moeten minstens in blokken van drie uur aangeboden worden.
+De arbeidsprestaties kunnen op elke dag van de week tussen 7 uur en 23 uur geleverd worden.<br /><br />De arbeidsduur mag in geen geval elf uur per dag overschrijden en mag maximaal twee avondprestaties per week omvatten.<br /><br />De arbeidsprestaties worden in blokken van minstens drie uur aangeboden. De avond- en weekendprestatie(s) samen worden beperkt tot drie prestatieblokken per week waarbij ieder begonnen prestatieblok van drie uur tijdens het weekend wordt beschouwd als één prestatieblok.
 
 ### ART. 6.
 
@@ -36,7 +36,7 @@ De wekelijkse arbeidsduur waarvoor het personeelslid is aangesteld, mag worden o
 
 ### ART. 7.
 
-De personeelsleden, vermeld in artikel 1, hebben recht op 35 jaarlijkse verlofdagen per kalenderjaar.
+De personeelsleden, vermeld in artikel 1, hebben recht op 35 jaarlijkse verlofdagen per kalenderjaar.<br /><br />Met behoud van de toepassing van het eerste lid worden vanaf het kalenderjaar 2011 vijf extra dagen verlof toegekend aan de personeelsleden die terzelfdertijd voldoen aan de volgende voorwaarden : <br />1° uiterlijk op 31 augustus 2008 de leeftijd van 55 jaar bereikt hebben;<br />2° vóór 1 september 2008 in dienst geweest zijn in een Centrum voor Basiseducatie;<br />3° op 1 september 2008 in dienst zijn in een Centrum voor Basiseducatie.
 
 ### ART. 8.
 
