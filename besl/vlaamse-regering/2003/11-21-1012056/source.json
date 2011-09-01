@@ -2,16 +2,16 @@
   "codex_id": 1012056,
   "title": "Besluit van de Vlaamse Regering van 2003-11-21 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012056/VolledigDocument?datum=2009-09-01",
-  "source_sha256": "e4ccbef7cf03ca2b784f6f072c3df7d85cc4927513ae36f3938b05753265ce5d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012056/VolledigDocument?datum=2011-09-01",
+  "source_sha256": "81e46015882121ecfd0dc5031d81366eafc14f1c5aa212c37accccf792b54f68",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012056&param=informatie",
-  "as_of": "2009-09-01",
+  "as_of": "2011-09-01",
   "made": "2003-11-21",
   "gazette": "2004-02-11",
   "numac": 2004035036,
   "document_start": null,
   "document_end": "2018-08-31",
-  "in_force": "2009-09-01",
+  "in_force": "2011-09-01",
   "article_versions": 108,
-  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-09-01; future article versions excluded; article text as the API gives it"
 }
