@@ -330,7 +330,7 @@ Deze titel treedt in werking op 1 september 1990.
 
 ### ART. 54.
 
-...
+§ 1. In het tweede leerjaar van de eerste graad worden tenminste vierentwintig wekelijkse lesuren besteed aan de basisvorming.<br /><br />§ 2. De basisvorming bedoeld in § 1, bestaat uit volgende vakken:<br />- godsdienstleer of niet-confessionele zedenleer;<br />- Nederlands;<br />- Frans;<br />- Engels;<br />- wiskunde;<br />- geschiedenis;<br />- aardrijkskunde;<br />- natuurwetenschappen;<br />- artistieke opvoeding of plastische opvoeding en/of muzikale opvoeding;<br />- lichamelijke opvoeding;<br />- techniek.<br /><br />Deze basisvorming dient voor tenminste veertien wekelijkse lesuren georganiseerd te worden op grond van minstens eenzelfde minimumleerplan dat door alle leerlingen van eenzelfde onderwijsinstelling dient gevolgd te worden.<br /><br />§ 3. In het beroepsvoorbereidend leerjaar worden tenminste zestien wekelijkse lesuren besteed aan de basisvorming, die bestaat uit volgende vakken:<br />- godsdienstleer of niet-confessionele zedenleer;<br />- Nederlands;<br />- wiskunde;<br />- maatschappelijke vorming of geschiedenis en aardrijkskunde;<br />- natuurwetenschappen;<br />- artistieke opvoeding of plastische opvoeding en/of muzikale opvoeding;<br />- lichamelijke opvoeding;<br />- Frans.<br /><br />Twee of meer van deze vakken kunnen worden geintegreerd onder "project algemene vakken". De integratie van het vak Frans onder project algemene vakken vergt altijd het akkoord van het betrokken personeelslid belast met project algemene vakken in het beroepsvoorbereidend leerjaar. <br /><br />§ 4. Op voorwaarde dat hetzelfde studiepeil voor de basisvorming wordt gegarandeerd kan de Vlaamse regering aan onderwijsinstellingen individuele afwijkingen verlenen van het in §§ 1 en 3 vermelde aantal wekelijkse lesuren. De afwijkingen dienen gebaseerd te zijn op de aan de betrokken onderwijsinstellingen eigen programmatische, methodologische of pedagogische inzichten.<br /><br />§ 5. Voor de gesubsidieerde vrije onderwijsinstellingen is het eerste vak van de §§ 2 en 3 als volgt:<br />- "godsdienstleer of niet-confessionele zedenleer of cultuurbeschouwing of eigen cultuur en religie".
 
 ### ART. 54bis.
 
@@ -798,7 +798,11 @@ De specialisatiegraad bestaat uit twee leerjaren.
 
 ### ART. 95ter.
 
-[Er mag geen politieke propaganda gevoerd worden in een instelling voor deeltijds kunstonderwijs.  <span class="reference">(ing. decr. 13 juli 2001, art. V. 16, I: 1 september 2001)</span> ]
+Er mag in een instelling geen politieke propaganda gevoerd worden en er mogen geen politieke activiteiten worden georganiseerd.<br>
+<br>
+In afwijking van het vorige lid kunnen politieke activiteiten in een instelling worden toegelaten buiten de periodes waarin er instellingsactiviteiten zijn en buiten de periode van 90 dagen voorafgaand aan een verkiezing. Personeelsleden en leerlingen worden niet gevraagd of aangezet om aan deze activiteiten deel te nemen. Het instellingsbestuur kan niet betrokken worden bij de organisatie van de politieke activiteit en houdt rekening met het beginsel van gelijke behandeling bij de toepassing van deze bepaling.<br>
+<br>
+Onder politieke activiteiten wordt hier verstaan alle activiteiten die worden georganiseerd door politieke partijen of politieke mandatarissen van politieke partijen, waarvan de standpunten en gedragingen niet in strijd zijn met het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden.
 
 ### ART. 95quater.
 
