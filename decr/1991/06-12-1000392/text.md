@@ -430,7 +430,7 @@ Het besluit tot benoeming of aanstelling van een lid van het zelfstandig academi
 
 ### ART. 91.
 
-Een lid van het zelfstandig academisch personeel met een voltijdse opdracht wordt benoemd.<br /><br />Een lid van het zelfstandig academisch personeel met een deeltijdse opdracht kan ofwel benoemd worden, ofwel tijdelijk worden aangesteld voor hernieuwbare termijnen van ten hoogste zes jaar.<br /><br />[Het universiteitsbestuur kan in geval van eerste benoeming tot lid van het zelfstandig academisch personeel de personen aanstellen in een tijdelijk dienstverband als lid van het zelfstandig academisch personeel voor een periode van ten hoogste drie jaar met uitzicht op een vaste benoeming zonder nieuwe vacature, indien het universiteitsbestuur de prestaties van de betrokkene gunstig beoordeelt.  <span class="reference">(verv. decr. 19 maart 2004, art. V.84, I: 1 oktober 1997)</span> ]
+Een lid van het zelfstandig academisch personeel met een voltijdse opdracht wordt benoemd.<br /><br />Een lid van het zelfstandig academisch personeel met een deeltijdse opdracht kan ofwel benoemd worden, ofwel tijdelijk worden aangesteld voor hernieuwbare termijnen van ten hoogste zes jaar.<br /><br />Het universiteitsbestuur kan in geval van eerste benoeming tot lid van het zelfstandig academisch personeel de personen aanstellen in een tijdelijk dienstverband als lid van het zelfstandig academisch personeel voor een periode van ten hoogste drie jaar met uitzicht op een vaste benoeming zonder nieuwe vacature, indien het universiteitsbestuur de prestaties van de betrokkene gunstig beoordeelt. In geval van zwangerschap of langdurige en ernstige ziekte tijdens de termijn van de aanstelling wordt op verzoek van het betrokken zelfstandig academisch personeelslid de aanstelling met een bijkomende termijn van één jaar verlengd.
 
 ### ART. 91bis.
 
@@ -546,7 +546,7 @@ Onder werving wordt verstaan het aantrekken van personeelsleden na een openbare 
 
 ### ART. 113.
 
-...
+Een universiteit kan een vacante betrekking in het administratief en technisch personeel ook invullen via de overname van een benoemd lid van het administratief en technisch personeel van een andere universiteit. Het overgenomen personeelslid behoudt bij de overname de salarisschaal en anciënniteit die het genoot aan de universiteit waar het benoemd was, tenzij de overnemende universiteit het personeelslid in een hogere salaristrap of salarisschaal inschaalt.<br /><br />De overname van een benoemd personeelslid is niet mogelijk zonder de instemming van het betrokken personeelslid.
 
 ### ART. 114.
 
@@ -672,7 +672,7 @@ Het centraal onderhandelingscomité neemt bij eenparigheid een werkingsreglement
 
 ### ART. 130quater.
 
-§ 1. De universiteiten ontvangen met ingang van het begrotingsjaar 2007 gezamenlijk een bedrag van 2.402.227 euro voor de organisatie van de specifieke lerarenopleiding. Vanaf het begrotingsjaar 2008 ontvangen ze gezamenlijk een bedrag van 4.335.507 euro.<br /><br />§ 2. De gezamenlijke toelage wordt verdeeld pro rata van het aantal uitgereikte diploma's voor de academische initiële lerarenopleiding of volgens het aantal verworven credits.<br />1° Voor het begrotingsjaar 2007 gebeurt de verdeling pro rata de in het academiejaar 2004-2005 uitgereikte diploma's.<br />2° Vanaf het begrotingsjaar 2008 gebeurt de verdeling pro rata de in het voorlaatst afgelopen academiejaar verworven credits in de lerarenopleiding.<br /><br />§ 3. Deze toelagen worden beschouwd als extra werkingsmiddelen. Zij worden maandelijks per twaalfden ter beschikking gesteld van elke universiteit aan het einde van de maand op die waarop het twaalfde betrekking heeft.<br /><br />§ 4. De in § 1 vermelde bedragen gelden tot en met het begrotingsjaar 2009 en worden met ingang van het begrotingsjaar 2007 geïndexeerd volgens de indexformule L1/L0 zoals bepaald in artikel 130, § 6. Vóór het begrotingsjaar 2010 wordt deze financieringswijze geëvalueerd.
+§ 1. De universiteiten ontvangen met ingang van het begrotingsjaar 2007 gezamenlijk een bedrag van 2.402.227 euro voor de organisatie van de specifieke lerarenopleiding. Vanaf het begrotingsjaar 2008 ontvangen ze gezamenlijk een bedrag van 4.335.507 euro.<br /><br />§ 2. De gezamenlijke toelage wordt verdeeld pro rata van het aantal uitgereikte diploma's voor de academische initiële lerarenopleiding of volgens het aantal verworven credits.<br />1° Voor het begrotingsjaar 2007 gebeurt de verdeling pro rata de in het academiejaar 2004-2005 uitgereikte diploma's.<br />2° Vanaf het begrotingsjaar 2008 gebeurt de verdeling pro rata de in het voorlaatst afgelopen academiejaar verworven credits in de lerarenopleiding.<br /><br />§ 3. Deze toelagen worden beschouwd als extra werkingsmiddelen. Zij worden maandelijks per twaalfden ter beschikking gesteld van elke universiteit aan het einde van de maand op die waarop het twaalfde betrekking heeft.<br /><br />§ 4. De in paragraaf 1 vermelde bedragen gelden tot en met het begrotingsjaar 2012 en worden met ingang van het begrotingsjaar 2009 geïndexeerd volgens de bepalingen in artikel 9, § 5, van het decreet betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen.
 
 ### ART. 131.
 
