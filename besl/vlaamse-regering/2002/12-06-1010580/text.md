@@ -18,7 +18,7 @@ Het buitengewoon secundair onderwijs van opleidingsvorm drie verstrekt aan de le
 
 ### ART. 4.
 
-De opleidingsvorm drie omvat drie fasen plus een facultatieve integratiefase:<br />1° de observatiefase: omvat het eerste leerjaar en is beperkt tot één volledig schooljaar;<br />2° de opleidingsfase: omvat ten minste twee schooljaren;<br />3° de kwalificatiefase: omvat ten minste twee schooljaren;<br />4° de facultatieve integratiefase: is bedoeld voor leerling die het getuigschrift van een opleiding hebben behaald. Deze fase omvat één volledig schooljaar in de vorm van een alternerende beroepsopleiding.<br /><br />Bij wijze van uitzondering kan, op gemotiveerd advies van de klassenraad, een leerling die nog geen getuigschrift van de opleiding heeft behaald, toch worden toegelaten tot de integratiefase.
+De opleidingsvorm drie omvat drie fasen plus een facultatieve integratiefase:<br />1° de observatiefase: omvat het eerste jaar en is beperkt tot één volledig schooljaar;<br />2° de opleidingsfase: omvat ten minste twee schooljaren;<br />3° de kwalificatiefase: omvat ten minste twee schooljaren;<br />4° de facultatieve integratiefase: is bedoeld voor leerling die het getuigschrift van een opleiding hebben behaald. Deze fase omvat één volledig schooljaar in de vorm van een alternerende beroepsopleiding. Deze facultatieve integratiefase van één schooljaar kan bij wijze van uitzondering door de klassenraad verlengd worden tot een tweede schooljaar, als een leerling door omstandigheden een lange periode gewettigd afwezig was gedurende het eerste schooljaar van de integratiefase en daardoor geen getuigschrift heeft behaald.<br /><br />Bij wijze van uitzondering kan, op gemotiveerd advies van de klassenraad, een leerling die nog geen getuigschrift van de opleiding heeft behaald, toch worden toegelaten tot de integratiefase.
 
 ### ART. 5.
 
@@ -34,7 +34,41 @@ Op weekbasis worden in de onderscheiden fasen, met uitzondering van de integrati
 
 ### ART. 8.
 
-[§ 1. De volgende opleidingen kunnen in opleidingsvorm 3 op assistentniveau worden georganiseerd:<br /><br />1° plaatslager;<br /><br />2° auto-hulpmechanicien (S-opleiding);<br /><br />3° metselaar;<br /><br />4° vloerder-tegelzetter;<br /><br />5° schilder-decorateur;<br /><br />6° loodgieter;<br /><br />7° hulpdrukker (S-opleiding);<br /><br />8° zeefdrukker (S-opleiding);<br /><br />9° boekbinder (S-opleiding)<br /><br />10° winkelhulp;<br /><br />11° receptiemedewerker;<br /><br />12° magazijnmedewerker;<br /><br />13° werkplaatsschrijnwerker;<br /><br />14° interieurbouwer;<br /><br />15° aluminium- en kunststofschrijnwerker;<br /><br />16° meubelstoffeerder;<br /><br />17° confectiestikker;<br /><br />18° tuinbouwarbeider;<br /><br />19° schoenhersteller (S-opleiding);<br /><br />20° kappersmedewerker (S-opleiding);<br /><br />21° hoeklasser (constructielasser);<br /><br />22° plaatbewerker;<br /><br />23° logistiek assistent in ziekenhuizen en zorginstellingen;<br /><br />24° onderhoudshulp in instellingen en professionele schoonmaak;<br /><br />25° hulpwever;<br /><br />26° wasserijoperator (S-opleiding);<br /><br />27° slagersgast;<br /><br />28° bakkersgast;<br /><br />29° grootkeukenmedewerker;<br /><br />30° onderhoudsassistent.<br /><br />§ 2. Uiterlijk met ingang van 1 september 2005 wordt de opleiding verzorgende progressief, leerjaar na leerjaar, te beginnen met het eerste leerjaar van de opleidingsfase, verplicht afgebouwd. Elke afbouw moet waarborgen dat de opleiding binnen een normaal tijdsbestek volledig kan worden doorlopen.  <span class="reference">(verv. B.V.R. 29 april 2005, art. 1, I: 1 september 2005)</span> ]
+§ 1. De volgende opleidingen kunnen in opleidingsvorm 3 op assistentniveau worden georganiseerd:<br>
+1° plaatslager;<br>
+2° auto-hulpmechanicien (S-opleiding);<br>
+3° metselaar;<br>
+4° vloerder-tegelzetter;<br>
+5° schilder-decorateur;<br>
+6° loodgieter;<br>
+7° hulpdrukker (S-opleiding);<br>
+8° zeefdrukker (S-opleiding);<br>
+9° boekbinder (S-opleiding)<br>
+10° winkelhulp;<br>
+11° receptiemedewerker;<br>
+12° magazijnmedewerker;<br>
+13° werkplaatsschrijnwerker;<br>
+14° interieurbouwer;<br>
+15° aluminium- en kunststofschrijnwerker;<br>
+16° meubelstoffeerder;<br>
+17° confectiestikker;<br>
+18° tuinbouwarbeider;<br>
+19° schoenhersteller (S-opleiding);<br>
+20° kappersmedewerker (S-opleiding);<br>
+21° hoeklasser (constructielasser);<br>
+22° plaatbewerker;<br>
+23° logistiek assistent in ziekenhuizen en zorginstellingen;<br>
+24° onderhoudshulp in instellingen en professionele schoonmaak;<br>
+25° hulpwever;<br>
+26° wasserijoperator (S-opleiding);<br>
+27° slagersgast;<br>
+28° bakkersgast;<br>
+29° grootkeukenmedewerker;<br>
+30° onderhoudsassistent.<br>
+<br>
+§ 2....<br>
+<br>
+<em>[nvdr: dit artikel wordt met ingang van 1 september 2021 progressief opgeheven leerjaar per leerjaar - BVR 1 juni 2018, artikel 4]</em>
 
 ### ART. 9.
 
@@ -52,7 +86,7 @@ De voor iedere opleiding noodzakelijke beroepsgerichte vaardigheden worden bepaa
 
 ### ART. 11.
 
-De invoering in de scholen van de in artikel 8 vermelde opleidingen neemt een aanvang vanaf het schooljaar 2002-2003. Vanaf het schooljaar 2006-2007 kan geen enkele afdeling of kwalificatie van de oude structuur meer worden georganiseerd. Leerlingen die een opleiding zijn gestart in het uitdovende systeem van beroepenvelden, afdelingen en kwalificaties, kunnen deze opleiding in dat systeem beëindigen.
+...
 
 ### ART. 12.
 
@@ -60,13 +94,13 @@ De invoering in de scholen van de in artikel 8 vermelde opleidingen neemt een aa
 
 ### ART. 13.
 
-§ 1. De klassenraad, bijgestaan door de instelling belast met de begeleiding, beslist over:<br />- de toelating van een leerling tot een leerjaar van een opleiding, rekening houdend met het feit dat als bijzondere toelatingsvoorwaarde tot de opleiding grootkeukenmedewerker, bakkersgast en slagersgast, geldt dat de leerling medisch geschikt moet zijn bevonden. Die geschiktheidsverklaring is eenmalig en geldt voor de duur van de opleiding, tenzij er een aanleiding is om de geschiktheid te herevalueren. Een ongeschiktheidsverklaring in de loop van het schooljaar impliceert de beslissing van de betrokken personen om de leerling uiterlijk op het einde van dat schooljaar de opleiding te laten stopzetten;<br />- de overgang van een leerling naar een andere opleiding of naar een ander leerjaar in de loop van het schooljaar;<br />- de vrijstelling van een leerling voor één of meer leerjaren;<br />- de toelating tot het volgen van de alternerende beroepsopleiding van een leerling die een getuigschrift van verworven competenties of een attest van verworven bekwaamheden heeft behaald<br />- de duur van de observatiefase, in functie van de leerling. Zij kan bij gemotiveerde beslissing afwijken van het bij artikel 4, 1° van onderhavig besluit bepaalde;<br />- de duur van de opleidingsfase en de kwalificatiefase.<br />- de toelating van een leerling tot de kwalificatieproef.<br /><br />De beslissingen van de klassenraad moeten gemotiveerd zijn.<br /><br />§ 2. Het verlenen van vrijstelling(en) voor een of meer leerjaren mag niet tot gevolg hebben dat de leerling vóór de leeftijd van 18 jaar zijn opleiding in opleidingsvorm drie beëindigt.<br /><br />§ 3. De vermindering van de studieduur mag niet voor gevolg hebben dat de opleiding na het eerste leerjaar van het secundair onderwijs minder dan vier schooljaren bedraagt. Voor de berekening van deze vier schooljaren wordt de duur van eventuele vrijstellingen volledig in aanmerking genomen.<br /><br />§ 4. Leerlingen in de kwalificatiefase moeten ten minste twee schooljaren in dezelfde opleiding hebben gevolgd.
+§ 1. De klassenraad, bijgestaan door de instelling belast met de begeleiding, beslist over:<br />- de toelating van een leerling tot een jaar van een opleiding, rekening houdend met het feit dat als bijzondere toelatingsvoorwaarde tot de opleiding grootkeukenmedewerker, bakkersgast en slagersgast, geldt dat de leerling medisch geschikt moet zijn bevonden. Die geschiktheidsverklaring is eenmalig en geldt voor de duur van de opleiding, tenzij er een aanleiding is om de geschiktheid te herevalueren. Een ongeschiktheidsverklaring in de loop van het schooljaar impliceert de beslissing van de betrokken personen om de leerling uiterlijk op het einde van dat schooljaar de opleiding te laten stopzetten;<br />- de overgang van een leerling naar een andere opleiding of naar een ander jaar in de loop van het schooljaar;<br />- de vrijstelling van een leerling voor één of meer jaren;<br />- de toelating tot het volgen van de alternerende beroepsopleiding van een leerling die een getuigschrift van verworven competenties of een attest van verworven bekwaamheden heeft behaald<br />- de duur van de observatiefase, in functie van de leerling. Zij kan bij gemotiveerde beslissing afwijken van het bij artikel 4, 1° van onderhavig besluit bepaalde;<br />- de duur van de opleidingsfase en de kwalificatiefase.<br />- de toelating van een leerling tot de kwalificatieproef.<br /><br />De beslissingen van de klassenraad moeten gemotiveerd zijn.<br /><br />§ 2. Het verlenen van vrijstelling(en) voor een of meer jaren mag niet tot gevolg hebben dat de leerling vóór de leeftijd van 18 jaar zijn opleiding in opleidingsvorm drie beëindigt.<br /><br />§ 3. De vermindering van de studieduur mag niet voor gevolg hebben dat de opleiding na het eerste jaar van het secundair onderwijs minder dan vier schooljaren bedraagt. Voor de berekening van deze vier schooljaren wordt de duur van eventuele vrijstellingen volledig in aanmerking genomen.<br /><br />§ 4. Leerlingen in de kwalificatiefase moeten ten minste twee schooljaren in dezelfde opleiding hebben gevolgd.
 
 ## HOOFDSTUK III STUDIESANCTIONERING
 
 ### ART. 14.
 
-§ 1. Voor de leerlingen die tot de kwalificatieproef zijn toegelaten, beslist de kwalificatiecommissie omtrent:<br />- het toekennen van het getuigschrift van de opleiding;<br />- of het toekennen van een getuigschrift van verworven competenties voor een afgerond geheel binnen een opleiding, dat leidt tot reële inzetbaarheid op de arbeidsmarkt. De verworven vaardigheden worden afgeleid uit het opleidingsprofiel;<br />- of het toekennen van een kwalificatiegetuigschrift personenzorg voor de leerlingen die de opleiding verzorgende met vrucht beëindigd hebben;<br />- of het toekennen van een attest van verworven bekwaamheden, voor de leerlingen die niet in aanmerking komen voor de bovenstaande getuigschriften. De verworven bekwaamheden worden afgeleid uit het opleidingsprofiel.<br /><br />§ 2. Aan de leerling die niet in aanmerking komt voor de getuigschriften of het attest, vermeld in paragraaf 1, wordt een attest beroepsonderwijs uitgereikt.<br /><br />§ 3. Aan de leerling die de integratiefase met vrucht heeft doorlopen, wordt een getuigschrift van alternerende beroepsopleiding uitgereikt door het begeleidingsteam.<br /><br />§ 4. Een leerling die de integratiefase niet met vrucht heeft doorlopen of de opleiding vroegtijdig beëindigt, heeft recht op een attest.<br /><br />§ 5. Een leerling die geen getuigschrift van de opleiding behaalde op het einde van de kwalificatiefase en uitzonderlijk op advies van de klassenraad toch werd toegelaten tot de integratiefase, kan op het einde van het schooljaar in de integratiefase opnieuw voor de kwalificatiecommissie komen, als de klassenraad oordeelt dat de werkervaring en de bijkomende vorming op school voldoende aanvullend is bij de reeds gevolgde opleiding.<br /> <br />Deze leerling ontvangt dan van de kwalificatiecommissie, naargelang het geval, ofwel het getuigschrift van de opleiding ofwel het kwalificatiegetuigschrift personenzorg ofwel het getuigschrift van verworven competenties ofwel het attest van verworven bekwaamheden.
+§ 1.De klassenraad beslist over de studiesanctionering van de leerling, en houdt hierbij onder meer rekening met het advies van de kwalificatiecommissie met betrekking tot de kwalificatieproef. De klassenraad beslist omtrent :<br />- het toekennen van het getuigschrift van de opleiding;<br />- of het toekennen van een getuigschrift van verworven competenties voor een afgerond geheel binnen een opleiding, dat leidt tot reële inzetbaarheid op de arbeidsmarkt. De verworven vaardigheden worden afgeleid uit het opleidingsprofiel;<br />-...<br />- of het toekennen van een attest van verworven bekwaamheden, voor de leerlingen die niet in aanmerking komen voor de bovenstaande getuigschriften. De verworven bekwaamheden worden afgeleid uit het opleidingsprofiel;<br />- of het toekennen van het attest beroepsonderwijs, voor de leerlingen die niet in aanmerking komen voor de bovenstaande getuigschriften of het bovenstaande attest.<br /><br />§ 2. ...<br /><br />§ 3. Aan de leerling die de integratiefase met vrucht heeft doorlopen, wordt een getuigschrift van alternerende beroepsopleiding uitgereikt door het begeleidingsteam.<br /><br />§ 4. Een leerling die de integratiefase niet met vrucht heeft doorlopen of de opleiding vroegtijdig beëindigt, heeft recht op een attest.<br /><br />§ 5. Een leerling die geen getuigschrift van de opleiding behaalde op het einde van de kwalificatiefase en uitzonderlijk op advies van de klassenraad toch werd toegelaten tot de integratiefase, kan op het einde van het schooljaar in de integratiefase opnieuw voor de kwalificatiecommissie komen, als de klassenraad oordeelt dat de werkervaring en de bijkomende vorming op school voldoende aanvullend is bij de reeds gevolgde opleiding.<br /> <br />Deze leerling ontvangt dan van de klassenraad, naargelang het geval, ofwel het getuigschrift van de opleiding ofwel het getuigschrift van verworven competenties ofwel het attest van verworven bekwaamheden ofwel het attest beroepsonderwijs. De klassenraad houdt hierbij onder meer rekening met het advies van de kwalificatiecommissie met betrekking tot de kwalificatieproef.
 
 ### ART. 15.
 
@@ -78,7 +112,7 @@ Voor de bekrachtiging van de studies komen uitsluitend de regelmatige leerlingen
 
 ### ART. 17.
 
-De kwalificatiecommissie bestaat uit de directeur of zijn afgevaardigde, uit leden van het onderwijzend personeel en uit deskundigen op het vlak van de te beoordelen kwalificatie, die in aantal het aantal leraren niet mogen overschrijden.<br /><br />De directeur van de school of diens afgevaardigde zit de kwalificatiecommissie voor.<br /><br />De deskundigen worden in de loop van het schooljaar door de inrichtende macht of haar afgevaardigde aangeduid.
+De kwalificatiecommissie bestaat uit de directeur of zijn afgevaardigde, uit leden van het onderwijzend personeel en uit deskundigen op het vlak van de te beoordelen kwalificatie, die in aantal het aantal leraren niet mogen overschrijden.<br /><br />De directeur van de school of diens afgevaardigde zit de kwalificatiecommissie voor.<br /><br />De deskundigen worden in de loop van het schooljaar door de inrichtende macht of haar afgevaardigde aangeduid.<br /><br />De kwalificatiecommissie is verantwoordelijk voor het afnemen van de kwalificatieproef, vermeld in artikel 13, § 1, zevende gedachtestreepje.<br /><br />De kwalificatieproef, wordt georganiseerd in : <br />1° het laatste jaar van de kwalificatiefase, voor de leerlingen die vallen onder de toepassing van artikel 13, § 1;<br />2° de integratiefase, voor de leerlingen die vallen onder de toepassing van artikel 14, § 5, eerste lid.<br /><br />De kwalificatieproef, die ook de vorm van een eindwerk kan aannemen, wordt beoordeeld door de leerkrachten en door de deskundigen op het vlak van de te beoordelen kwalificatie in de kwalificatiecommissie.<br /><br />Het resultaat van de kwalificatieproef en het advies van de kwalificatiecommissie vormen een element in de beslissing van de klassenraad over de studiesanctionering.
 
 ### ART. 18.
 
@@ -136,33 +170,33 @@ De getuigschriften en de attesten van verworven bekwaamheden en de processen-ver
 
 ### ART. 20undecies.
 
-In het geval de kwalificatiecommissie een beslissing neemt die wordt betwist door de betrokken personen, kunnen deze drie werkdagen, volgend op de werkdag waarop hen die beslissing werd meegedeeld, het recht doen gelden op overleg met de afgevaardigde van de inrichtende macht of de voorzitter van de kwalificatiecommissie of zijn afgevaardigde.<br /><br />Bij betwisting maken de betrokken personen hun redenen kenbaar.<br /><br />De afgevaardigde van de inrichtende macht of de voorzitter van de kwalificatiecommissie of zijn afgevaardigde toont, aan de hand van het dossier van de betrokken leerling aan, dat de door de kwalificatiecommissie genomen beslissing gegrond is.
+...
 
 ### ART. 20duodecies.
 
-De afgevaardigde van de inrichtende macht of de voorzitter van de kwalificatiecommissie of zijn afgevaardigde kan na het overleg, vermeld in artikel 20undecies, indien nodig, de kwalificatiecommissie zo spoedig mogelijk opnieuw doen bijeenkomen.
+...
 
 ### ART. 20terdecies.
 
-Onafgezien de al dan niet betwisting door de betrokken personen van de beslissing van de kwalificatiecommissie, wordt de inrichtende macht steeds het recht voorbehouden de kwalificatiecommissie opnieuw te doen samenkomen, teneinde een door de inrichtende macht zelf omstreden beslissing te heroverwegen.
+...
 
 ## [Afdeling 2 De beroepscommissie (ing. BVR 16 juli 2010, art. 3)]
 
 ### ART. 20quaterdecies.
 
-Elke inrichtende macht bepaalt de samenstelling en de procedure van de beroepscommissie.<br /><br />De beroepscommissie bestaat minstens uit drie leden. Met uitzondering van de directeur kunnen de leden van de kwalificatiecommissie er geen deel van uitmaken.
+...
 
 ### ART. 20quinquiesdecies.
 
-De beroepscommissie is bevoegd voor de behandeling van de door de betrokken personen betwiste beslissing van de kwalificatiecommissie.<br /><br />Een beroep kan slechts worden ingesteld na toepassing van artikel 20undecies en binnen een termijn van drie werkdagen nadat het overleg, vermeld in artikel 20undecies, heeft plaatsgevonden of, indien het desbetreffend overleg heeft geleid tot een nieuwe bijeenkomst van de kwalificatiecommissie, binnen een termijn van drie werkdagen nadat het resultaat van deze bijeenkomst aan de betrokken personen werd meegedeeld.
+...
 
 ### ART. 20sexiesdecies.
 
-Het resultaat van het door de beroepscommissie uitgevoerd onderzoek wordt aan de inrichtende macht meegedeeld.<br /><br />Vervolgens beslist de inrichtende macht of de kwalificatiecommissie wel of niet opnieuw dient samen te komen met het oog op het nemen van een definitieve beslissing.
+...
 
 ### ART. 20septiesdecies.
 
-Indien overeenkomstig artikel 20sexies decies de kwalificatiecommissie opnieuw dient samen te komen om een definitieve beslissing ten aanzien van de betrokken leerling te nemen, dient dit te gebeuren uiterlijk op 15 september van het daaropvolgend schooljaar. De betrokken personen worden van deze gemotiveerde beslissing, onverwijld schriftelijk in kennis gesteld.
+...
 
 ## HOOFDSTUK IV WIJZIGINGSBEPALINGEN
 
@@ -1919,15 +1953,15 @@ De ondersteunende kennis en sleutelvaardigheden worden geselecteerd uit de ontwi
 
 ### BIJLAGE 2.
 
-(niet opgenomen) (formulier)
+Bijlage 2. Getuigschrift van de opleiding.<br /><br />1. Model : Formaat A4 (210 x 297 mm)<br /><br />VLAAMSE GEMEENSCHAP - KONINKRIJK BELGIE<br />DEPARTEMENT ONDERWIJS EN VORMING<br />BEROEPSONDERWIJS<br /><br /><br />GETUIGSCHRIFT .......................................... (1)<br />Benaming en adres van de inrichtende macht<br />. . . . . (2)<br />Benaming en adres van de instelling <br />. . . . . <br />Ondergetekende......................................................, directeur van de bovenvermelde instelling, bevestigt dat . . . . . (3), geboren te . . . . . (4) op . . . . . (5), als regelmatige leerling(e) het buitengewoon secundair beroepsonderwijs heeft gevolgd in de opleiding . . . . . (6)<br /><br />Hij/zij bevestigt dat al de wettelijke, decretale en reglementaire voorschriften werden nageleefd.<br /><br />Gegeven te . . . . ., op . . . . . <br /><br />De directeur, <br /><br />De klassenraad,<br /><br />De houder,<br /><br />Stempel van de instelling<br /><br /><br />2. Onderrichtingen voor het invullen<br />(1) benaming van de opleiding; <br />(2) voor VZW's wordt het adres van de zetel van de inrichtende macht vermeld;<br />(3) naam en eerste voornaam van de leerling volgens identiteitskaart of geboorteakte.<br />Aandacht : Indien de identiteit van de titularis erdoor beter tot zijn recht komt, mag uitzonderlijk een tweede voornaam worden vermeld; <br />(4) Ook land vermelden indien niet in België geboren;<br />(5) maand van de geboortedatum voluit in letters.<br />Aandacht : Voor een leerling waarvoor geen officiële geboortedatum en -maand bekend zijn, wordt (conform de regeling toegepast door de dienst vreemdelingenzaken) "1 januari" vermeld;<br />(6) benaming van de opleiding.
 
 ### BIJLAGE 3.
 
-Bijlage 3. Secundair beroepsonderwijs. Getuigschrift van verworven competenties.<br />1. Model : Formaat A4 (210 x 297 mm)<br />VLAAMSE GEMEENSCHAP - KONINKRIJK BELGIE<br />DEPARTEMENT ONDERWIJS EN VORMING<br />GETUIGSCHRIFT VAN VERWORVEN COMPETENTIES BEROEPSONDERWIJS<br />Benaming en adres van de inrichtende macht<br />. . . . . (1)<br />Benaming en adres van de instelling<br />. . . . . <br />Ondergetekende . . . . ., directeur van de bovenvermelde instelling, bevestigt dat . . . . . (2), geboren te . . . . . (3) op . . . . . (4), als regelmatige leerling(e) het buitengewoon secundair beroepsonderwijs heeft gevolgd en de volgende competenties in de opleiding . . . . . (5) <br />heeft verworven :<br />. . . . . <br />. . . . . (6)<br />Hij/zij bevestigt dat al de wettelijke, decretale en reglementaire voorschriften werden nageleefd.<br />Gegeven te . . . . ., op . . . . . <br />De directeur,<br />De kwalificatiecommissie,<br />De houder,<br />Stempel van de instelling<br />2. Onderrichtingen voor het invullen.<br />(1) voor vzw's wordt het adres van de zetel van de inrichtende macht vermeld;<br />(2) naam en eerste voornaam van de leerling volgens identiteitskaart of geboorteakte;<br />Aandacht : Indien de identiteit van de titularis erdoor beter tot zijn recht komt, mag uitzonderlijk een tweede voornaam worden vermeld.<br />(3) ook land vermelden indien niet in België geboren;<br />(4) maand van de geboortedatum voluit in letters;<br />Aandacht : Voor een leerling waarvoor geen officiële geboortedatum en -maand bekend zijn, wordt (conform de regeling toegepast door de dienst vreemdelingenzaken) « 1 januari » vermeld.<br />(5) benaming van de opleiding;<br />(6) alle competenties van het afgerond geheel « de benaming voor het afgerond geheel
+Bijlage 3. Getuigschrift van verworven competenties. <br /><br />1. Model : Formaat A4 (210 x 297 mm)<br /><br />VLAAMSE GEMEENSCHAP - KONINKRIJK BELGIE<br />DEPARTEMENT ONDERWIJS EN VORMING <br />BEROEPSONDERWIJS<br /><br />GETUIGSCHRIFT VAN VERWORVEN COMPETENTIES <br /><br />Benaming en adres van de inrichtende macht<br />. . . . . (1)<br />Benaming en adres van de instelling<br />. . . . . <br /><br />Ondergetekende . . . . ., directeur van de bovenvermelde instelling, bevestigt dat . . . . . (2), geboren te . . . . . (3) op . . . . . (4), als regelmatige leerling(e) het buitengewoon secundair beroepsonderwijs heeft gevolgd in de opleiding . . . . . (5) en alle competenties van het afgerond geheel . . . . . (6) heeft verworven.<br /><br />Hij/zij bevestigt dat al de wettelijke, decretale en reglementaire voorschriften werden nageleefd.<br /><br />Gegeven te . . . . ., op . . . . . <br /><br />De directeur,<br /><br />De klassenraad,<br /><br />De houder,<br /><br />Stempel van de instelling<br /><br /><br />2. Onderrichtingen voor het invullen<br />(1) voor VZW's wordt het adres van de zetel van de inrichtende macht vermeld;<br />(2) naam en eerste voornaam van de leerling volgens identiteitskaart of geboorteakte. <br />Aandacht : Indien de identiteit van de titularis erdoor beter tot zijn recht komt, mag uitzonderlijk een tweede voornaam worden vermeld; <br />(3) ook land vermelden indien niet in België geboren;<br />(4) maand van de geboortedatum voluit in letters.<br />Aandacht : Voor een leerling waarvoor geen officiële geboortedatum en -maand bekend zijn, wordt (conform de regeling toegepast door de dienst vreemdelingenzaken) "1 januari" vermeld;<br />(5) benaming van de opleiding; <br />(6) benaming van het afgerond geheel.<br /><br />
 
 ### BIJLAGE 4.
 
-(niet opgenomen) (formulier)
+Bijlage 4. Attest beroepsonderwijs.<br /><br />1. Model : Formaat A4 (210 x 297 mm)<br /><br />VLAAMSE GEMEENSCHAP - KONINKRIJK BELGIE<br />DEPARTEMENT ONDERWIJS EN VORMING <br />BEROEPSONDERWIJS<br /><br />ATTEST <br /><br />Benaming en adres van de inrichtende macht . . . . . (1)<br />Benaming en adres van de instelling <br />. . . . . <br /><br />Ondergetekende . . . . ., directeur van de bovenvermelde instelling, bevestigt dat . . . . . (2), geboren te . . . . . (3) op . . . . . (4), als regelmatige leerling(e) het buitengewoon secundair beroepsonderwijs heeft gevolgd van . . . . . tot . . . . . (5) <br /><br />Hij/zij bevestigt dat al de wettelijke, decretale en reglementaire voorschriften werden nageleefd.<br /><br />Gegeven te . . . . ., op . . . . . <br /><br />De directeur, <br /><br />De klassenraad,<br /><br />De houder,<br /><br />Stempel van de instelling<br /><br /><br />2. Onderrichtingen voor het invullen<br />(1) voor VZW's wordt het adres van de zetel van de inrichtende macht vermeld;<br />(2) naam en eerste voornaam van de leerling volgens identiteitskaart of geboorteakte.<br />Aandacht : Indien de identiteit van de titularis erdoor beter tot zijn recht komt, mag uitzonderlijk een tweede voornaam worden vermeld; <br />(3) ook land vermelden indien niet in België geboren;<br />(4) de maand van de geboortedatum voluit in letters.<br />Aandacht : Voor een leerling waarvoor geen officiële geboortedatum en -maand bekend zijn, wordt (conform de regeling toegepast door de dienst vreemdelingenzaken) "1 januari" vermeld;<br />(5) laatste dag van regelmatige lesbijwoning.
 
 ### BIJLAGE 5
 
@@ -1939,7 +1973,7 @@ Attest van Alternerende Beroepsleiding.<br />1. Model : Formaat A4 (210 x 297 mm
 
 ### BIJLAGE 7
 
-Attest van verworven bekwaamheden.<br />1. Model : Formaat A4 (210 x 297 mm)<br />VLAAMSE GEMEENSCHAP - KONINKRIJK BELGIE<br />DEPARTEMENT ONDERWIJS EN VORMING<br />ATTEST VAN VERWORVEN BEKWAAMHEDEN<br />Benaming en adres van de inrichtende macht<br />. . . . . (1)<br />Benaming en adres van de instelling<br />. . . . . <br />Ondergetekende . . . . ., directeur van de bovenvermelde instelling, bevestigt dat . . . . . (2), geboren te . . . . . (3) op . . . . . (4), als regelmatige leerling(e) het buitengewoon secundair beroepsonderwijs heeft gevolgd en de volgende bekwaamheden in de opleiding . . . . . (5) <br />heeft verworven :<br />. . . . . <br />. . . . . (6)<br />Hij/zij bevestigt dat al de wettelijke, decretale en reglementaire voorschriften werden nageleefd.<br />Gegeven te . . . . ., op . . . . . <br />De directeur,<br />De kwalificatiecommissie,<br />De houder,<br />Stempel van de instelling<br />2. Onderrichtingen voor het invullen.<br />(1) voor vzw's wordt het adres van de zetel van de inrichtende macht vermeld;<br />(2) naam en eerste voornaam van de leerling volgens identiteitskaart of geboorteakte;<br />Aandacht : Indien de identiteit van de titularis erdoor beter tot zijn recht komt, mag uitzonderlijk een tweede voornaam worden vermeld.<br />(3) ook land vermelden indien niet in België geboren;<br />(4) maand van de geboortedatum voluit in letters;<br />Aandacht : Voor een leerling waarvoor geen officiële geboortedatum en -maand bekend zijn, wordt (conform de regeling toegepast door de dienst vreemdelingenzaken) « 1 januari » vermeld.<br />(5) benaming van de opleiding;<br />(6) opsomming van de bekwaamheden die verworven werden tijdens de opleiding - deze bekwaamheden komen overeen met de bekwaamheden vastgelegd in het opleidingsprofiel.
+Bijlage 7. Attest van verworven bekwaamheden.<br /><br />1. Model : Formaat A4 (210 x 297 mm)<br /><br />VLAAMSE GEMEENSCHAP - KONINKRIJK BELGIE<br />DEPARTEMENT ONDERWIJS EN VORMING <br />BEROEPSONDERWIJS<br /><br />ATTEST VAN VERWORVEN BEKWAAMHEDEN<br /><br />Benaming en adres van de inrichtende macht . . . . . (1)<br />Benaming en adres van de instelling <br />. . . . . <br /><br />Ondergetekende . . . . ., directeur van de bovenvermelde instelling, bevestigt dat . . . . . (2), geboren te . . . . . (3) op......................................(4), als regelmatige leerling(e) het buitengewoon secundair beroepsonderwijs heeft gevolgd en de volgende bekwaamheden in de opleiding . . . . . (5) heeft verworven : <br />. . . . . (6)<br /><br />Hij/zij bevestigt dat al de wettelijke, decretale en reglementaire voorschriften werden nageleefd.<br /><br />Gegeven te . . . . ., op . . . . . <br /><br />De directeur, <br /><br />De klassenraad,<br /><br />De houder,<br /><br />Stempel van de instelling <br /><br /><br />2. Onderrichtingen voor het invullen<br />(1) voor VZW's wordt het adres van de zetel van de inrichtende macht vermeld;<br />(2) naam en eerste voornaam van de leerling volgens identiteitskaart of geboorteakte.<br />Aandacht : Indien de identiteit van de titularis erdoor beter tot zijn recht komt, mag uitzonderlijk een tweede voornaam worden vermeld; <br />(3) ook land vermelden indien niet in België geboren;<br />(4) maand van de geboortedatum voluit in letters.<br />Aandacht : Voor een leerling waarvoor geen officiële geboortedatum en -maand bekend zijn, wordt (conform de regeling toegepast door de dienst vreemdelingenzaken) "1 januari" vermeld.<br />(5) benaming van de opleiding;<br />(6) opsomming van de bekwaamheden die verworven werden tijdens de opleiding - deze bekwaamheden komen overeen met de bekwaamheden vastgelegd in het opleidingsprofiel.
 
 ### BIJLAGE 8.
 
