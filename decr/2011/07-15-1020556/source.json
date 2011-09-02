@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020556,
+  "title": "Decreet van 2011-07-15 houdende instemming met de vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds, ondertekend in Brussel op 6 oktober 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020556/VolledigDocument?datum=2011-09-02",
+  "source_sha256": "78a64b1a14cfa8a2615fd27e012318a73a9925589640c2e93bb8824ad5de315c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020556&param=informatie",
+  "as_of": "2011-09-02",
+  "made": "2011-07-15",
+  "gazette": "2011-08-23",
+  "numac": 2011204292,
+  "document_start": "2011-09-02",
+  "document_end": null,
+  "in_force": "2011-09-02",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-09-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
