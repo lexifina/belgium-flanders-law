@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020557,
+  "title": "Besluit van de Vlaamse Regering van 2011-07-15 tot wijziging van het besluit van de Vlaamse Regering van 9 maart 2007 tot uitvoering van het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen, wat betreft de aflevering van attesten en de invoering van een globale stikstofbalans voor percelen met biologische productie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020557/VolledigDocument?datum=2011-09-02",
+  "source_sha256": "8f22cf6cce7a0c245a5e95eead7058adc35fd74d296d37bacf296752378caf27",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020557&param=informatie",
+  "as_of": "2011-09-02",
+  "made": "2011-07-15",
+  "gazette": "2011-08-23",
+  "numac": 2011035676,
+  "document_start": "2011-09-02",
+  "document_end": null,
+  "in_force": "2011-09-02",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2011-09-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
