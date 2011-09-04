@@ -26,17 +26,7 @@ Dit decreet is van toepassing op alle openbare centra voor maatschappelijk welzi
 
 ### ART. 5.
 
-§ 1. Het openbaar centrum voor maatschappelijk welzijn wordt bestuurd door een raad voor maatschappelijk welzijn die bestaat uit :<br>
-1° negen leden in de gemeenten met niet meer dan 15 000 inwoners;<br>
-2° elf leden in de gemeenten met 15 001 tot en met 50 000 inwoners;<br>
-3° dertien leden in de gemeenten met 50 001 tot en met 150 000 inwoners;<br>
-4° vijftien leden in de gemeenten met meer dan 150 000 inwoners.<br>
-<br>
-[Als het aantal leden van de gemeenteraad van de gemeente die door het openbaar centrum voor maatschappelijk welzijn wordt bediend, minder bedraagt dan het aantal leden, vermeld in het eerste lid, wordt het aantal leden van de raad voor maatschappelijk welzijn teruggebracht tot het aantal leden van de gemeenteraad. (bepaling nog niet in werking getreden)]<br>
-<br>
-§ 2. Uiterlijk op 1 juni van het jaar waarin de gemeenteraadsverkiezingen zullen plaatsvinden, stelt de Vlaamse Regering een lijst op van het aantal te verkiezen leden van de raad voor maatschappelijk welzijn van de gemeente die door het openbaar centrum voor maatschappelijk welzijn wordt bediend op basis van de bevolkingsaantallen van de gemeenten die, overeenkomstig artikel 5, laatste lid, van de Nieuwe Gemeentewet door de Minister van Binnenlandse Zaken worden vastgesteld en in het Belgisch Staatsblad zijn bekendgemaakt, en wordt opdracht gegeven tot bekendmaking van de lijst in het Belgisch Staatsblad. Het in aanmerking te nemen inwonertal is het aantal personen dat ingeschreven is in het rijksregister van de natuurlijke personen die op 1 januari van het jaar van de gemeenteraadsverkiezingen hun hoofdverblijfplaats in de desbetreffende gemeente hadden.<br>
-<br>
-Het bevolkingsaantal op 1 januari, bekendgemaakt in het Belgisch Staatsblad, wordt, met behoud van de toepassing van het eerste lid, vanaf 1 januari volgend op de bekendmaking ervan, in aanmerking genomen als bevolkingscijfer in dit decreet.
+§ 1. Het openbaar centrum voor maatschappelijk welzijn wordt bestuurd door een raad voor maatschappelijk welzijn die bestaat uit :<br />1° negen leden in de gemeenten met niet meer dan 15 000 inwoners;<br />2° elf leden in de gemeenten met 15 001 tot en met 50 000 inwoners;<br />3° dertien leden in de gemeenten met 50 001 tot en met 150 000 inwoners;<br />4° vijftien leden in de gemeenten met meer dan 150 000 inwoners.<br /><br />[Als het aantal leden van de gemeenteraad van de gemeente die door het openbaar centrum voor maatschappelijk welzijn wordt bediend, minder bedraagt dan het aantal leden, vermeld in het eerste lid, wordt het aantal leden van de raad voor maatschappelijk welzijn teruggebracht tot het aantal leden van de gemeenteraad. (bepaling nog niet in werking getreden)]<br /><br />§ 2. Uiterlijk op 1 juni van het jaar waarin de gemeenteraadsverkiezingen zullen plaatsvinden, stelt de Vlaamse Regering een lijst op van het aantal te verkiezen leden van de raad voor maatschappelijk welzijn van de gemeente die door het openbaar centrum voor maatschappelijk welzijn wordt bediend op basis van de bevolkingsaantallen van de gemeenten. Het in aanmerking te nemen inwonertal is het aantal personen dat ingeschreven is in het rijksregister van de natuurlijke personen die op 1 januari van het jaar van de gemeenteraadsverkiezingen hun hoofdverblijfplaats in de desbetreffende gemeente hadden. <br /><br />Het bevolkingsaantal op 1 januari, bekendgemaakt in het Belgisch Staatsblad, wordt, met behoud van de toepassing van het eerste lid, vanaf 1 januari volgend op de bekendmaking ervan, in aanmerking genomen als bevolkingscijfer in dit decreet.
 
 ### ART. 6.
 
@@ -44,7 +34,7 @@ Het bevolkingsaantal op 1 januari, bekendgemaakt in het Belgisch Staatsblad, wor
 
 ### ART. 7.
 
-Om tot werkend lid van een raad voor maatschappelijk welzijn of tot opvolger te kunnen worden verkozen, moet iemand op de dag van de algehele verkiezing van de raad voor maatschappelijk welzijn :<br />1° Belg zijn;<br />2° de volle leeftijd van achttien jaar hebben bereikt;<br />3° ingeschreven zijn in de bevolkingsregisters van de gemeente die door het openbaar centrum voor maatschappelijk welzijn wordt bediend;<br />4° zich niet bevinden in een van de gevallen van onverkiesbaarheid, vermeld in artikel 65 van de Gemeentekieswet.<br /><br />Artikel 65, tweede lid, van de Gemeentekieswet is van toepassing als de inbreuken, vermeld in deze bepaling, werden gepleegd tijdens de uitoefening van een ambt binnen het openbaar centrum voor maatschappelijk welzijn of een gemeenteambt.
+Om tot werkend lid van een raad voor maatschappelijk welzijn of tot opvolger te kunnen worden verkozen, moet iemand op de dag van de algehele verkiezing van de raad voor maatschappelijk welzijn :<br />1° Belg zijn;<br />2° de leeftijd van achttien jaar hebben bereikt;<br />3° ingeschreven zijn in de bevolkingsregisters van de gemeente die door het openbaar centrum voor maatschappelijk welzijn wordt bediend;<br />4° zich niet bevinden in een van de gevallen van onverkiesbaarheid, vermeld in artikel 58 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011.<br /><br />Artikel 58, tweede lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 is van toepassing als de inbreuken, vermeld in deze bepaling, werden gepleegd tijdens de uitoefening van een ambt binnen het openbaar centrum voor maatschappelijk welzijn of een gemeenteambt.
 
 ### ART. 8.
 
