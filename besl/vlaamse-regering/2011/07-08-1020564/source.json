@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020564,
+  "title": "Besluit van de Vlaamse Regering van 2011-07-08 tot uitvoering van diverse bepalingen van het Mestdecreet van 22 december 2006",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020564/VolledigDocument?datum=2011-09-04",
+  "source_sha256": "4de3231e54f5111db2fe435c44891cff2ed8d08457ef281c4706f8eb98859be9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020564&param=informatie",
+  "as_of": "2011-09-04",
+  "made": "2011-07-08",
+  "gazette": "2011-08-25",
+  "numac": 2011035675,
+  "document_start": "2011-09-04",
+  "document_end": "2017-12-31",
+  "in_force": "2011-09-04",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2011-09-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
