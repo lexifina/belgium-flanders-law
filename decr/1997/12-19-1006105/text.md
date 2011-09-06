@@ -26,10 +26,6 @@ Het Vlaams Gewest mag rechtstreeks of onrechtstreeks alle aandelen verwerven in 
 
 § 1. De vennootschap heeft tot doel het uitvoeren van de verplichtingen die voor de concessionaris of de pachter van een concessie voortvloeien uit de aansprakelijkheid bepaald in artikel 58 van de gecordineerde wetten van 15 september 1919 op de mijnen, groeven en graverijen zoals overgedragen aan de vennootschap in uitvoering van hoofdstuk III.<br /><br />§ 2. De vennootschap mag de in de eerste paragraaf bedoelde verplichtingen bovendien uitvoeren voor rekening van elke concessionaris of gewezen concessionaris, mits hieromtrent een overeenkomst wordt afgesloten.<br /><br />De vennootschap kan bovendien met derden overeenkomen dat deze voor rekening van de vennootschap prestaties uitvoeren die bijdragen tot de verwezenlijking van haar doel.<br /><br />§ 3. De vennootschap mag alle administratieve, commerciële, industriële of financiële handelingen verrichten, die rechtstreeks of onrechtstreeks in verband staan met haar doel, met inbegrip van de onteigening en de onderaanneming in het algemeen.<br /><br />§ 4. De vennootschap kan de onroerende goederen waarvan zij eigenaar is, alleen vervreemden volgens de regels zoals die worden vastgelegd in de statuten.<br /><br />§ 5. De vennootschap kan dadingen aangaan.<br /><br />§ 6. De vennootschap mag met machtiging van de Vlaamse regering deelnemen aan instellingen, vennootschappen of verenigingen, maar alleen wanneer hun doel met het eigen doel van de vennootschap rechtstreeks of onrechtstreeks verband houdt.
 
-### ART. 6.
-
-De vennootschap wordt opgericht voor onbepaalde duur. Zij kan worden ontbonden door een besluit van de Vlaamse regering zodra vaststaat dat de vennootschap niet langer kan worden aangesproken voor de vergoeding van bouwtechnische mijnschade op grond van artikel 58 van de gecoördineerde wetten van 15 september 1919 op de mijnen, groeven en graverijen en zij de bemalingsverplichtingen heeft overgedragen.
-
 ### ART. 7.
 
 De maatschappelijke zetel van de vennootschap wordt bepaald in de statuten.
@@ -95,10 +91,6 @@ De vennootschap stelt jaarlijks een ondernemingsplan op voor de eerstkomende dri
 In het kader van zijn opdracht bepaald in artikel 19, § 1, kan de commissaris van de Vlaamse regering het bevoegde bestuursorgaan van de vennootschap verplichten te beraadslagen op de eerstvolgende vergadering over iedere door hem bepaalde aangelegenheid.
 
 ## HOOFDSTUK III OVERDRACHT VAN DE MIJNSCHADEVERPLICHTINGEN EN -AANSPRAKELIJKHEID
-
-### ART. 21.
-
-De N.V. Mijnen, alsook elke concessionaris, gewezen concessionaris of pachter van mijnconcessies, kan krachtens een daartoe afgesloten overeenkomst de aansprakelijkheid inzake mijnschade, zoals bedoeld in artikel 58 van de gecoördineerde wetten van 15 september 1919 op de mijnen, groeven en graverijen, overdragen aan de vennootschap onder de voorwaarden bepaald in dit hoofdstuk.<br /><br />De N.V. Mijnen kan voormelde aansprakelijkheid aan de vennootschap overdragen krachtens de akte houdende inbreng van activa en passiva door de N.V. Mijnen in de vennootschap.<br /><br />De vennootschap kan, bij overdracht zoals bepaald in het vorige lid en mits goedkeuring door de Vlaamse regering, op haar beurt deze aansprakelijkheid geheel of gedeeltelijk overdragen aan een derde onder de voorwaarden bepaald in dit hoofdstuk.
 
 ### ART. 22.
 
