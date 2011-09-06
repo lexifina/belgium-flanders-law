@@ -2,16 +2,16 @@
   "codex_id": 1018090,
   "title": "Decreet van 2009-05-08 betreffende de diepe ondergrond",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018090/VolledigDocument?datum=2009-05-08",
-  "source_sha256": "61c77e519ea2487aaf9b49bfbed1a4575fb7a781c8ca9e641cf6a6b6946d8427",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018090/VolledigDocument?datum=2011-09-06",
+  "source_sha256": "b66ebbcf6c5c58779f1a8a786729728144425079c5af410d56ff0d31d2dd5e12",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018090&param=informatie",
-  "as_of": "2009-05-08",
+  "as_of": "2011-09-06",
   "made": "2009-05-08",
   "gazette": "2009-07-06",
   "numac": 2009202546,
   "document_start": "2011-09-06",
   "document_end": null,
-  "in_force": "2009-05-08",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2009-05-08; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2011-09-06",
+  "article_versions": 79,
+  "record_form": "consolidated version as in force on 2011-09-06; future article versions excluded; article text as the API gives it"
 }
