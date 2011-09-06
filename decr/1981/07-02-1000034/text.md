@@ -84,7 +84,7 @@ De Vlaamse regering kan de bovenvermelde bijzondere afvalstoffen nader omschrijv
 
 ### ART. 4.
 
-Zijn geen afvalstoffen als bedoeld in dit decreet:<br />1° gasvormige effluenten die in de atmosfeer worden uitgestoten;<br />2° dierlijke mest als vermeld in het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen; <br />3° afvalwater, met uitzondering van afvalstoffen in vloeibare toestand; <br />4° bodem, uitgegraven buiten ontginningsgebieden, die overeenkomstig de voorwaarden bepaald in of krachtens het decreet van 22 februari 1995 betreffende de bodemsanering wordt gebruikt. <br />
+Zijn geen afvalstoffen als bedoeld in dit decreet:<br />1° gasvormige effluenten die in de atmosfeer worden uitgestoten en koolstofdioxide dat wordt afgevangen en getransporteerd met het oog op geologische opslag en dat geologisch is opgeslagen overeenkomstig het decreet van 8 mei 2009 betreffende de diepe ondergrond, dan wel op grond van artikel 37, tweede lid, van het decreet van 8 mei 2009 betreffende de diepe ondergrond buiten het toepassingsgebied van dit laatstgenoemde decreet valt;<br />2° dierlijke mest als vermeld in het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen; <br />3° afvalwater, met uitzondering van afvalstoffen in vloeibare toestand; <br />4° bodem, uitgegraven buiten ontginningsgebieden, die overeenkomstig de voorwaarden bepaald in of krachtens het decreet van 22 februari 1995 betreffende de bodemsanering wordt gebruikt. <br />
 
 ## HOOFDSTUK II [DOELSTELLINGEN VAN HET AFVALSTOFFENBELEID (verv. decr. 20 april 1994, art. 4)]
 
