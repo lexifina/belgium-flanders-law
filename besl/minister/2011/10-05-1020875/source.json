@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020875,
+  "title": "Ministerieel besluit van 2011-10-05 tot wijziging van artikel 4 van het ministerieel besluit van 19 augustus 2009 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden voor wat betreft de uitvoering van de gedeelde bevoegdheden met het oog op de inrichting van een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020875/VolledigDocument?datum=2011-09-09",
+  "source_sha256": "9cbe18e22de021eb7d7458273fbe7b56b6916a78ccda8d348da066cdd314c150",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020875&param=informatie",
+  "as_of": "2011-09-09",
+  "made": "2011-10-05",
+  "gazette": "2011-10-26",
+  "numac": 2011205379,
+  "document_start": "2011-09-09",
+  "document_end": null,
+  "in_force": "2011-09-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-09-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
