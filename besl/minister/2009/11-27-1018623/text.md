@@ -36,6 +36,10 @@ Het model van het herkenningsteken voor een vergund toeristisch logies van de su
 
 Het model van het herkenningsteken voor een vergund toeristisch logies van de subcategorie kampeerautoterrein is bepaald in bijlage 8, die bij dit besluit is gevoegd.
 
+### ART. 8/1.
+
+Het model van het herkenningsteken voor een vergund toeristisch logies van de subcategorie vakantiepark is bepaald in bijlage 8/1, die bij dit besluit is gevoegd.
+
 ### ART. 9.
 
 Het model van het herkenningsteken voor een vergund toeristisch logies van de subcategorie trekkershut is bepaald in bijlage 9, die bij dit besluit is gevoegd.
@@ -79,6 +83,10 @@ Dit besluit treedt in werking op 1 januari 2010.
 ### BIJLAGE 8
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/24_1.pdf#page=113" title=" Bijlage 8" target="_blank" class="pdf">Bijlage 8</a>
+
+### BIJLAGE 8/1
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2011/08/30_1.pdf#page=123" title=" Tekening" target="_blank" class="pdf">Tekening</a>
 
 ### BIJLAGE 9
 
