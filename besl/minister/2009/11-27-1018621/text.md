@@ -40,6 +40,10 @@ De classificatienormen inzake het comfort dat wordt aangeboden aan de logerende 
 
 De classificatienormen inzake het comfort dat wordt aangeboden aan de logerende toeristen in een toeristisch logies van de subcategorie kampeerautoterrein, worden bepaald in bijlage 7, die bij dit besluit is gevoegd.
 
+### ART. 6/1.
+
+De classificatienormen inzake het comfort dat wordt aangeboden aan de logerende toeristen in een toeristisch logies van de subcategorie vakantiepark, worden bepaald in bijlage 8, die bij dit besluit is gevoegd.
+
 ### ART. 7.
 
 Een toeristisch logies van de subcategorie trekkershut dat voldoen aan de voorwaarden, vermeld in artikel 7 en 8 van het besluit van de Vlaamse Regering van 15 mei 2009 tot uitvoering van het decreet van 10 juli 2008 betreffende het toeristisch logies, verkrijgt bij de toekenning van de vergunning de comfortclassificatie 'basic'.
@@ -47,6 +51,10 @@ Een toeristisch logies van de subcategorie trekkershut dat voldoen aan de voorwa
 ### ART. 8.
 
 Ter uitvoering van artikel 10, tweede lid, van het besluit van de Vlaamse Regering van 15 mei 2009 tot uitvoering van het decreet van 10 juli 2008 betreffende het toeristische logies worden de classificatienormen voor een toeristisch logies van de subcategorie camping, minicamping en verblijfpark ingedeeld in vier specifieke rubrieken met een eigen comfortclassificatie.
+
+### ART. 8/1.
+
+Ter uitvoering van artikel 10, tweede lid, van het besluit van de Vlaamse Regering van 15 mei 2009 tot uitvoering van het decreet van 10 juli 2008 betreffende het toeristische logies worden de classificatienormen voor een toeristisch logies van de subcategorie vakantiepark dat beschikt over een of meer toeristische kampeerplaatsen, kampeerplaatsen voor kortkampeerders, kampeerautoplaatsen of plaatsen op een tentenweide, ingedeeld in vier specifieke rubrieken met een eigen comfortclassificatie.<br /><br />Ter uitvoering van artikel 10, tweede lid, van het besluit van de Vlaamse Regering van 15 mei 2009 tot uitvoering van het decreet van 10 juli 2008 betreffende het toeristische logies worden de classificatienormen voor een toeristisch logies van de subcategorie vakantiepark dat niet beschikt over een of meer toeristische kampeerplaatsen, kampeerplaatsen voor kortkampeerders, kampeerautoplaatsen of plaatsen op een tentenweide, ingedeeld in drie specifieke rubrieken met een eigen comfortclassificatie.
 
 ### ART. 9.
 
@@ -79,3 +87,7 @@ Dit besluit treedt in werking op 1 januari 2010.
 ### BIJLAGE 7
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/24_1.pdf#page=52" title=" Bijlage 7" target="_blank" class="pdf">Bijlage 7</a>
+
+### BIJLAGE 8
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2011/08/30_1.pdf#page=108" title=" Tabel" target="_blank" class="pdf">Tabel</a> <br />
