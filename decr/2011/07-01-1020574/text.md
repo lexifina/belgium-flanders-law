@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK I Inleidende bepalingen
 
+### ART. I.1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
+
 ## HOOFDSTUK II Basisonderwijs
 
 ### ART. II.1.
