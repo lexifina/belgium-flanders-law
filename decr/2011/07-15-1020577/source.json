@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020577,
+  "title": "Decreet van 2011-07-15 houdende instemming met het aanvullend protocol bij het Europees handvest inzake lokale autonomie betreffende het recht op participatie in de aangelegenheden van lokale autoriteiten, opgemaakt in Utrecht op 16 november 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020577/VolledigDocument?datum=2011-09-10",
+  "source_sha256": "ed7a608db5446004545aedd83691772243cc75837daca968d26ed52651d41c2a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020577&param=informatie",
+  "as_of": "2011-09-10",
+  "made": "2011-07-15",
+  "gazette": "2011-08-31",
+  "numac": 2011035686,
+  "document_start": "2011-09-10",
+  "document_end": null,
+  "in_force": "2011-09-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-09-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
