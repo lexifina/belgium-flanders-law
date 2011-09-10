@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020579,
+  "title": "Besluit van de Vlaamse Regering van 2011-07-15 tot bekrachtiging van de bijkomende selectie en rangschikking van de scholenbouwprojecten die in aanmerking komen voor het DBFM-programma in het kader van de inhaalbeweging voor schoolinfrastructuur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020579/VolledigDocument?datum=2011-09-10",
+  "source_sha256": "48895c69ea6512cd9836b94e2be37c38c17f79a42e2c5eb861a972a5e79f2b76",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020579&param=informatie",
+  "as_of": "2011-09-10",
+  "made": "2011-07-15",
+  "gazette": "2011-08-31",
+  "numac": 2011035688,
+  "document_start": "2011-09-10",
+  "document_end": null,
+  "in_force": "2011-09-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-09-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
