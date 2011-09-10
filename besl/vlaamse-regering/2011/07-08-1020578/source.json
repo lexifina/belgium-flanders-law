@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020578,
+  "title": "Besluit van de Vlaamse Regering van 2011-07-08 houdende indeling bij de gemeentewegen van de gewestwegen N369 - Diksmuidestraat (tussen kmp. 34, 852 en kmp. 35, 842), N325 - Spermaliestraat (tussen kmp. 0, 000 en kmp. 0, 439) en verbindingsweg N369-N325a (lengte : 95 meter) op het grondgebied van de gemeente Middelkerke",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020578/VolledigDocument?datum=2011-09-10",
+  "source_sha256": "c48a9d5a490e0617bd0c783dd9b2a93fa12c711d8f8c93b673663d1446d2cc88",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020578&param=informatie",
+  "as_of": "2011-09-10",
+  "made": "2011-07-08",
+  "gazette": "2011-08-31",
+  "numac": 2011035685,
+  "document_start": "2011-09-10",
+  "document_end": null,
+  "in_force": "2011-09-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-09-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
