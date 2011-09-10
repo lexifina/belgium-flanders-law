@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020580,
+  "title": "Omzendbrief van 2011-07-22 Omzendbrief LNE 2011/1. Milieueffectbeoordeling en vergunningverlening voor bepaalde projecten ten gevolge van het arrest van het Hof van Justitie van 24 maart 2011 (C-435/09, Europese Commissie t. België)",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020580/VolledigDocument?datum=2011-09-10",
+  "source_sha256": "9e137daa51646ce000341682c283d78c21ef351215f235f2517680aeb866403d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020580&param=informatie",
+  "as_of": "2011-09-10",
+  "made": "2011-07-22",
+  "gazette": "2011-08-31",
+  "numac": 2011035714,
+  "document_start": "2011-09-10",
+  "document_end": null,
+  "in_force": "2011-09-10",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2011-09-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
