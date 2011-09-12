@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020585,
+  "title": "Ministerieel besluit van 2011-07-27 houdende vaststelling van het subsidiëringsprogramma voor gemeentelijke rioleringen, KWZI's en individuele waterzuiveringsinstallaties, voor het eerste kwartaalprogramma 2012",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020585/VolledigDocument?datum=2011-09-12",
+  "source_sha256": "8879b10678234c007ea4a0f3c329f9c98dc6bdd711c9c5003333a37d7fff4f82",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020585&param=informatie",
+  "as_of": "2011-09-12",
+  "made": "2011-07-27",
+  "gazette": "2011-09-02",
+  "numac": 2011035715,
+  "document_start": "2011-09-12",
+  "document_end": null,
+  "in_force": "2011-09-12",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-09-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
