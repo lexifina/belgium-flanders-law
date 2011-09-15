@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020587,
+  "title": "Ministerieel besluit van 2011-08-26 tot hoogdringende onteigening ten algemenen nutte van onroerende goederen bestemd voor de verbreding van de uitmonding van de Zwinnevaart in het Leopoldskanaal in Damme door de Vlaamse Milieumaatschappij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020587/VolledigDocument?datum=2011-09-15",
+  "source_sha256": "4f569d6105ed526e5d0bfabb43e307bcf49c4002bfccab0f5662ef5d1d2b232e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020587&param=informatie",
+  "as_of": "2011-09-15",
+  "made": "2011-08-26",
+  "gazette": "2011-09-05",
+  "numac": 2011035718,
+  "document_start": "2011-09-15",
+  "document_end": null,
+  "in_force": "2011-09-15",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2011-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
