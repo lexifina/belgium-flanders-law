@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020832,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-09 tot wijziging van artikelen 9, 13 en 14 van het besluit van de Vlaamse Regering van 2 april 2004 betreffende de erkenning en financiële ondersteuning van toeristisch-recreatieve projecten en strategische plannen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020832/VolledigDocument?datum=2011-09-15",
+  "source_sha256": "a00fdc56c9488ad4ede847cf65844b262e79c7c2dd9c9f04e944f0f425eee901",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020832&param=informatie",
+  "as_of": "2011-09-15",
+  "made": "2011-09-09",
+  "gazette": "2011-10-11",
+  "numac": 2011205001,
+  "document_start": "2011-09-15",
+  "document_end": null,
+  "in_force": "2011-09-15",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2011-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
