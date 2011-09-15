@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020588,
+  "title": "Ministerieel besluit van 2011-08-26 tot hoogdringende onteigening ten algemenen nutte van onroerende goederen bestemd voor de realisatie van visdoorgangen op de Aa in Vorselaar, Lille en Kasterlee door de Vlaamse Milieumaatschappij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020588/VolledigDocument?datum=2011-09-15",
+  "source_sha256": "bc1f80947694b75c6558351ce9488e36a585391e09f71fbab3428e676663a75e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020588&param=informatie",
+  "as_of": "2011-09-15",
+  "made": "2011-08-26",
+  "gazette": "2011-09-05",
+  "numac": 2011035719,
+  "document_start": "2011-09-15",
+  "document_end": null,
+  "in_force": "2011-09-15",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2011-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
