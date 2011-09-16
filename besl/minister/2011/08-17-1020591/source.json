@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020591,
+  "title": "Ministerieel besluit van 2011-08-17 houdende vaststelling van het gedeelte van de leningen of kredieten dat het Vlaams Woningfonds van de Grote Gezinnen in 2011 moet besteden aan de krotbestrijding of aan de sanering, verbetering of aanpassing van woningen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020591/VolledigDocument?datum=2011-09-16",
+  "source_sha256": "e3f98217313dedaebbb835007cdf5444599d79b77f96436213ddf8e9a6c4b59a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020591&param=informatie",
+  "as_of": "2011-09-16",
+  "made": "2011-08-17",
+  "gazette": "2011-09-06",
+  "numac": 2011204404,
+  "document_start": "2011-09-16",
+  "document_end": null,
+  "in_force": "2011-09-16",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-09-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
