@@ -2,16 +2,16 @@
   "codex_id": 1020822,
   "title": "Ministerieel besluit van 2010-12-24 betreffende de verdeling van de Gewestwaarborg toegestaan in 2011 aan de erkende kredietmaatschappijen voor de aflossing van de hoofdsom en de interesten van de kredieten bestemd voor de financiering van sociale leningen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020822/VolledigDocument?datum=2011-05-27",
-  "source_sha256": "d160357450b19dbdfac1b1ca2c9f0c07be70cbae70b52a9cb2496c3e96794864",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020822/VolledigDocument?datum=2011-09-23",
+  "source_sha256": "67b1c08cc3322cbf9c992305abe5129d4b7622b8aa83f44df6c7be28cae76ba4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020822&param=informatie",
-  "as_of": "2011-05-27",
+  "as_of": "2011-09-23",
   "made": "2010-12-24",
   "gazette": "2011-10-07",
   "numac": 2011035805,
   "document_start": "2010-12-24",
   "document_end": null,
-  "in_force": "2011-05-27",
+  "in_force": "2011-09-23",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2011-05-27; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-09-23; future article versions excluded; article text as the API gives it"
 }

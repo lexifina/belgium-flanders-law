@@ -71,7 +71,7 @@ Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen v
 			<p>Sint-Jozefskredietmaatschappij (SJK)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:127.85pt">
-			<p>35.000.000 euro</p>
+			<p>40.000.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen v
 			<p>Klein Eigenaarskrediet</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:127.85pt">
-			<p>2.800.000 euro</p>
+			<p>2.100.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -148,7 +148,7 @@ Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen v
 			<p>Eigen Huis-Thuis Best</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:127.85pt">
-			<p>3.150.000 euro</p>
+			<p>2.350.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -159,7 +159,7 @@ Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen v
 			<p>Eigen Haard</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:127.85pt">
-			<p>2.650.000 euro</p>
+			<p>1.950.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -203,18 +203,7 @@ Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen v
 			<p>Koning In Mijn Woning</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:127.85pt">
-			<p>2.100.000 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; width:91.75pt">
-			<p>22</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:241pt">
-			<p>Eigen Huis Der Durmestreek</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:127.85pt">
-			<p>1.900.000 euro</p>
+			<p>1.550.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -225,7 +214,7 @@ Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen v
 			<p>Kredietmaatschappij voor Sociale Woningen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:127.85pt">
-			<p>5.850.000 euro</p>
+			<p>4.350.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -258,7 +247,7 @@ Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen v
 			<p>Uw Eigen Huis Der Vlaanderen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:127.85pt">
-			<p>1.950.000 euro</p>
+			<p>1.450.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -280,7 +269,7 @@ Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen v
 			<p>Ons Eigen Huis</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:127.85pt">
-			<p>5.450.000 euro</p>
+			<p>4.050.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -313,7 +302,7 @@ Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen v
 			<p>Krediet Voor Eigen Heerd</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:127.85pt">
-			<p>1.800.000 euro</p>
+			<p>1.350.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -324,7 +313,7 @@ Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen v
 			<p>Sociaal Woonkrediet Antwerpen-Kempen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:127.85pt">
-			<p>4.850.000 euro</p>
+			<p>3.600.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -335,7 +324,7 @@ Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen v
 			<p>Fraternitas</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:127.85pt">
-			<p>3.250.000 euro</p>
+			<p>2.400.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -351,17 +340,6 @@ Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen v
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; width:91.75pt">
-			<p>41</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:241pt">
-			<p>Leenmaatschappij voor de arrondissementen Roeselare-Tielt</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:127.85pt">
-			<p>3.000.000 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; width:91.75pt">
 			<p>42</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:241pt">
@@ -369,17 +347,6 @@ Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen v
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:127.85pt">
 			<p>4.150.000 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; width:91.75pt">
-			<p>43</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:241pt">
-			<p>Kredietmaatschappij Sint-Trudo</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:127.85pt">
-			<p>1.800.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -412,7 +379,7 @@ Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen v
 			<p>Volkskrediet De Toren</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:127.85pt">
-			<p>7.050.000 euro</p>
+			<p>5.250.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -434,7 +401,7 @@ Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen v
 			<p>Eigen Woon</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:127.85pt">
-			<p>1.800.000 euro</p>
+			<p>1.350.000 euro</p>
 			</td>
 		</tr>
 		<tr>
@@ -449,20 +416,16 @@ Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen v
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; width:91.75pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; width:91.75pt">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:241pt">
 			<p>Onverdeeld</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:127.85pt">
-			<p>17.900.000 euro</p>
+			<p>30.550.000 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; width:91.75pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; width:91.75pt">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; width:241pt">
 			<p>Totaal</p>
 			</td>
