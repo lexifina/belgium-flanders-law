@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020436,
+  "title": "Besluit van de Vlaamse Regering van 2011-06-24 houdende sluiting van de zitting 2010-2011 van het Vlaams Parlement",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020436/VolledigDocument?datum=2011-09-25",
+  "source_sha256": "6015a9020f81aca162022b96d0d44f2a892fe0b9ab535e1a36b71bd49f98f495",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020436&param=informatie",
+  "as_of": "2011-09-25",
+  "made": "2011-06-24",
+  "gazette": "2011-07-15",
+  "numac": 2011035539,
+  "document_start": "2011-09-25",
+  "document_end": null,
+  "in_force": "2011-09-25",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-09-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
