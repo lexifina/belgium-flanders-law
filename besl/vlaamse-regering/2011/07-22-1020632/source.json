@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020632,
+  "title": "Besluit van de Vlaamse Regering van 2011-07-22 houdende wijziging van het besluit van de Vlaamse Regering van 14 december 2001 houdende vaststelling van het premiestelsel voor restauratiewerkzaamheden aan beschermde monumenten wat betreft het toestandsrapport, het terugbetalen van de restauratiepremie en de invloed van vervreemding of erfpacht na de toekenning van die premie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020632/VolledigDocument?datum=2011-09-26",
+  "source_sha256": "71e5581bd405ff908e6f0423af523e841345d43f00048214278f373d808bcb95",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020632&param=informatie",
+  "as_of": "2011-09-26",
+  "made": "2011-07-22",
+  "gazette": "2011-09-16",
+  "numac": 2011204499,
+  "document_start": "2011-09-26",
+  "document_end": null,
+  "in_force": "2011-09-26",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2011-09-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
