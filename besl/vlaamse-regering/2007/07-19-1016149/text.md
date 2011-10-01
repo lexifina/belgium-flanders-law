@@ -10,7 +10,7 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° administrateur-generaal : de administrateur-generaal van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Ruimtelijke Ordening;<br />2° Brownfielddecreet : het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten;<br />3° derde-belanghebbende : een persoon die op grond van een in artikel 16, § 2, tweede lid, van het Brownfielddecreet vermeld persoonlijk of gebruiksrecht getroffen wordt door de vooropgestelde erfdienstbaarheid tot openbaar nut;<br />4° erfdienstbaarheid tot openbaar nut : een publiekrechtelijke erfdienstbaarheid die krachtens artikel 16, § 1, van het Brownfielddecreet gevestigd wordt op een dienstbaar erf, zoals bijvoorbeeld :<br />a) een bouwverbod;<br />b) een plicht om te gedogen dat graafwerken worden verricht om zoveel aarde, zand, steen en ander materiaal boven te halen als nodig is voor het aanleggen van voor het Brownfieldproject nodige infrastructuur;<br />c) een plicht om te gedogen dat installaties worden opgericht, onder, op of boven het dienstbaar erf;<br />5° minister : de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br />6° ontwerpbeslissing : een in artikel 16, § 2, van het Brownfielddecreet vermeld voornemen van besluit;<br />7° secretaris : de ambtenaar van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Ruimtelijke Ordening die door de administrateur-generaal belast wordt met de in dit besluit omschreven administratieve taken;<br />8° zakelijk gerechtigde : een in artikel 16, § 2, eerste lid, van het Brownfielddecreet, vermelde persoon die getroffen wordt door de vooropgestelde erfdienstbaarheid tot openbaar nut.<br />
+Voor de toepassing van dit besluit wordt verstaan onder :<br />1° leidend ambtenaar : de leidend ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />2° Brownfielddecreet : het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten;<br />3° derde-belanghebbende : een persoon die op grond van een in artikel 16, § 2, tweede lid, van het Brownfielddecreet vermeld persoonlijk of gebruiksrecht getroffen wordt door de vooropgestelde erfdienstbaarheid tot openbaar nut;<br />4° erfdienstbaarheid tot openbaar nut : een publiekrechtelijke erfdienstbaarheid die krachtens artikel 16, § 1, van het Brownfielddecreet gevestigd wordt op een dienstbaar erf, zoals bijvoorbeeld :<br />a) een bouwverbod;<br />b) een plicht om te gedogen dat graafwerken worden verricht om zoveel aarde, zand, steen en ander materiaal boven te halen als nodig is voor het aanleggen van voor het Brownfieldproject nodige infrastructuur;<br />c) een plicht om te gedogen dat installaties worden opgericht, onder, op of boven het dienstbaar erf;<br />5° minister : de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br />6° ontwerpbeslissing : een in artikel 16, § 2, van het Brownfielddecreet vermeld voornemen van besluit;<br />7° secretaris : de ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed die door de leidend ambtenaar belast wordt met de in dit besluit omschreven administratieve taken;<br />8° zakelijk gerechtigde : een in artikel 16, § 2, eerste lid, van het Brownfielddecreet, vermelde persoon die getroffen wordt door de vooropgestelde erfdienstbaarheid tot openbaar nut.<br />
 
 ## Afdeling 2. Bijstand of vertegenwoordiging door een raadsman
 
@@ -40,7 +40,7 @@ Als datum van de in artikel 3 en 4 vermelde kennisgevingen geldt de datum van po
 
 ### ART. 7.
 
-Het maken van bezwaar geschiedt door het indienen van een bezwaarschrift bij de administrateur-generaal, hetzij bij aangetekend schrijven, hetzij tegen ontvangstbewijs.<br /><br />Als datum van het bezwaarschrift geldt de datum van postmerk, respectievelijk de datum vermeld op het ontvangstbewijs.<br />
+Het maken van bezwaar geschiedt door het indienen van een bezwaarschrift bij de leidend ambtenaar, hetzij bij aangetekend schrijven, hetzij tegen ontvangstbewijs.<br /><br />Als datum van het bezwaarschrift geldt de datum van postmerk, respectievelijk de datum vermeld op het ontvangstbewijs.<br />
 
 ### ART. 8.
 
@@ -66,11 +66,11 @@ De secretaris schrijft elk inkomend bezwaarschrift in op een register.<br /><br 
 
 ### ART. 13.
 
-De secretaris bezorgt een ontvangstmelding aan de indiener van het bezwaarschrift.<br /><br />Hij bezorgt een kopie van het bezwaarschrift aan de administrateur-generaal.<br /><br />Hij staat in voor de samenstelling van het dossier.<br />
+De secretaris bezorgt een ontvangstmelding aan de indiener van het bezwaarschrift.<br /><br />Hij bezorgt een kopie van het bezwaarschrift aan de leidend ambtenaar.<br /><br />Hij staat in voor de samenstelling van het dossier.<br />
 
 ### ART. 14.
 
-§ 1. De secretaris toetst de ontvankelijkheid van het bezwaarschrift.<br /><br />Tot onontvankelijkheid kan slechts worden besloten in één der volgende gevallen :<br />1° het bezwaarschrift is laattijdig ingediend;<br />2° het bezwaarschrift gaat niet uit van een zakelijk gerechtigde of van een derde-belanghebbende;<br />3° het bezwaarschrift is niet ondertekend;<br />4° het bezwaarschrift voldoet manifest niet aan artikel 8, eerste lid, 5°.<br /><br />§ 2. Zo de secretaris vaststelt dat een bezwaarschrift onontvankelijk is, deelt hij dit aan de indiener mee. Hij laat tevens weten dat de procedure als afgehandeld wordt beschouwd.<br /><br />§ 3. Zo de secretaris vaststelt dat een bezwaarschrift ontvankelijk is, deelt hij dit mee aan de indiener en aan de administrateur-generaal.<br />
+§ 1. De secretaris toetst de ontvankelijkheid van het bezwaarschrift.<br /><br />Tot onontvankelijkheid kan slechts worden besloten in één der volgende gevallen :<br />1° het bezwaarschrift is laattijdig ingediend;<br />2° het bezwaarschrift gaat niet uit van een zakelijk gerechtigde of van een derde-belanghebbende;<br />3° het bezwaarschrift is niet ondertekend;<br />4° het bezwaarschrift voldoet manifest niet aan artikel 8, eerste lid, 5°.<br /><br />§ 2. Zo de secretaris vaststelt dat een bezwaarschrift onontvankelijk is, deelt hij dit aan de indiener mee. Hij laat tevens weten dat de procedure als afgehandeld wordt beschouwd.<br /><br />§ 3. Zo de secretaris vaststelt dat een bezwaarschrift ontvankelijk is, deelt hij dit mee aan de indiener en aan de leidend ambtenaar.<br />
 
 ## HOOFDSTUK V. Organisatie van een hoorzitting
 
@@ -78,21 +78,21 @@ De secretaris bezorgt een ontvangstmelding aan de indiener van het bezwaarschrif
 
 ### ART. 15.
 
-Indien de indiener van een ontvankelijk bezwaarschrift om een hoorzitting heeft verzocht, zorgt de secretaris voor een tijdige oproeping, die ten minste volgende zaken vermeldt :<br />1° de datum, de plaats en het tijdstip van de hoorzitting;<br />2° het recht om zich te laten bijstaan of vertegenwoordigen door een raadsman;<br />3° het recht om af te zien van de hoorzitting.<br /><br />Indien over eenzelfde ontwerpbeslissing meerdere personen om een hoorzitting hebben verzocht, kan de administrateur-generaal beslissen om een gezamenlijke hoorzitting te organiseren, waarbij deze belanghebbenden in elkaars aanwezigheid worden gehoord.<br /><br />De hoorzitting kan niet eerder plaatsvinden dan vijf kalenderdagen na de verzending van de oproeping. In spoedeisende gevallen kan de hoorzitting vroeger worden gehouden mits uitdrukkelijke toestemming van de indiener van het bezwaarschrift.<br />
+Indien de indiener van een ontvankelijk bezwaarschrift om een hoorzitting heeft verzocht, zorgt de secretaris voor een tijdige oproeping, die ten minste volgende zaken vermeldt :<br />1° de datum, de plaats en het tijdstip van de hoorzitting;<br />2° het recht om zich te laten bijstaan of vertegenwoordigen door een raadsman;<br />3° het recht om af te zien van de hoorzitting.<br /><br />Indien over eenzelfde ontwerpbeslissing meerdere personen om een hoorzitting hebben verzocht, kan de leidend ambtenaar beslissen om een gezamenlijke hoorzitting te organiseren, waarbij deze belanghebbenden in elkaars aanwezigheid worden gehoord.<br /><br />De hoorzitting kan niet eerder plaatsvinden dan vijf kalenderdagen na de verzending van de oproeping. In spoedeisende gevallen kan de hoorzitting vroeger worden gehouden mits uitdrukkelijke toestemming van de indiener van het bezwaarschrift.<br />
 
 ### ART. 16.
 
-Indien de indiener na de oproeping laat weten geen gebruik te willen maken van het recht om mondeling te worden gehoord, deelt de secretaris dit mee aan de administrateur-generaal.<br />
+Indien de indiener na de oproeping laat weten geen gebruik te willen maken van het recht om mondeling te worden gehoord, deelt de secretaris dit mee aan de leidend ambtenaar.<br />
 
 ## Afdeling 2. Zitting
 
 ### ART. 17.
 
-De administrateur-generaal leidt de hoorzitting.<br /><br />De secretaris staat in voor de opmaak van een verslag van de hoorzitting.<br />
+De leidend ambtenaar leidt de hoorzitting.<br /><br />De secretaris staat in voor de opmaak van een verslag van de hoorzitting.<br />
 
 ### ART. 18.
 
-De administrateur-generaal beslist over ieder verzoek tot uitstel, verplaatsing of opschorting van een hoorzitting.<br />
+De leidend ambtenaar beslist over ieder verzoek tot uitstel, verplaatsing of opschorting van een hoorzitting.<br />
 
 ### ART. 19.
 
