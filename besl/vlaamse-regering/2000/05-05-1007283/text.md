@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br />1° de minister: de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br />2° het departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br />3° het agentschap : het agentschap Ruimtelijke Ordening van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed.<br />
+In dit besluit wordt verstaan onder:<br />1° de minister: de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br />2° het departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br />3° ...
 
 ## HOOFDSTUK II HET VOOROVERLEG OVER EEN VOORONTWERP VAN HET RUIMTELIJK STRUCTUURPLAN VLAANDEREN
 
@@ -30,7 +30,7 @@ Het ontwerp van provinciaal ruimtelijk structuurplan wordt ten vroegste de veert
 
 ### ART. 6.
 
-Het college van burgemeester en schepenen stuurt het voorontwerp van gemeentelijk ruimtelijk structuurplan naar het departement, naar het agentschap en naar de bestendige deputatie van de provincie waarin de gemeente gelegen is.<br /><br />Er wordt een plenaire vergadering georganiseerd waarop het agentschap en een afvaardiging van de bestendige deputatie worden uitgenodigd. De plenaire vergadering wordt ten vroegste de veertigste dag na het versturen van het voorontwerp gehouden.<br /><br />Uiterlijk tijdens de plenaire vergadering brengen het agentschap en de bestendige deputatie of haar afgevaardigde, een al dan niet schriftelijk advies uit.<br /><br />Van de plenaire vergadering wordt een schriftelijk verslag opgemaakt. Dit verslag wordt uiterlijk de veertiende dag na de vergadering verstuurd aan het departement, het agentschap en de bestendige deputatie.<br /><br />Eventuele opmerkingen over het verslag worden uiterlijk de veertiende dag na ontvangst van het verslag verstuurd naar het college van burgemeester en schepenen. Het agentschap en de bestendige deputatie kunnen alleen opmerkingen versturen indien zij vertegenwoordigd waren op de plenaire vergadering of tijdig een schriftelijk advies bezorgden.
+Het college van burgemeester en schepenen stuurt het voorontwerp van gemeentelijk ruimtelijk structuurplan naar het departement en naar de bestendige deputatie van de provincie waarin de gemeente gelegen is.<br /><br />Er wordt een plenaire vergadering georganiseerd waarop het departement en een afvaardiging van de bestendige deputatie worden uitgenodigd. De plenaire vergadering wordt ten vroegste de veertigste dag na het versturen van het voorontwerp gehouden.<br /><br />Uiterlijk tijdens de plenaire vergadering brengen het departement en de bestendige deputatie of haar afgevaardigde, een al dan niet schriftelijk advies uit.<br /><br />Van de plenaire vergadering wordt een schriftelijk verslag opgemaakt. Dit verslag wordt uiterlijk de veertiende dag na de vergadering verstuurd aan het departement en de bestendige deputatie.<br /><br />Eventuele opmerkingen over het verslag worden uiterlijk de veertiende dag na ontvangst van het verslag verstuurd naar het college van burgemeester en schepenen. Het departement en de bestendige deputatie kunnen alleen opmerkingen versturen indien zij vertegenwoordigd waren op de plenaire vergadering of tijdig een schriftelijk advies bezorgden.
 
 ### ART. 7.
 
