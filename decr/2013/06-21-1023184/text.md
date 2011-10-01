@@ -20,6 +20,10 @@ In hoofdstuk V van het decreet van 30 maart 1999 houdende de organisatie   van d
 
 ## HOOFDSTUK 8 Samenwerkingsverbanden voor psychiatrische instellingen en diensten en centra voor dagverzorging
 
+### ART. 32.
+
+In artikel 27 van het decreet van 20 maart 2009 houdende diverse   bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin   worden de volgende wijzigingen aangebracht : <BR>1° punt 1° wordt vervangen door   wat volgt : <BR>"1° verzorgingsvoorziening : ziekenhuis, rust- en   verzorgingstehuis, psychiatrisch verzorgingstehuis, initiatief beschut wonen,   samenwerkingsverband van psychiatrische instellingen en diensten of een   onderdeel van die verzorgingsvoorzieningen;";<BR>2° er wordt een punt 7°   toegevoegd, dat luidt als volgt : <BR>"7° samenwerkingsverband van   psychiatrische instellingen en diensten : een samenwerkingsverband van   psychiatrische instellingen en diensten als vermeld in de regelgeving ter   uitvoering van artikel 10 van de wet betreffende de ziekenhuizen en andere   verzorgingsinrichtingen, gecoördineerd op 10 juli 2008.".<BR>
+
 ### ART. 33.
 
 Aan artikel 30 van hetzelfde decreet wordt een paragraaf 4 toegevoegd, die   luidt als volgt : <BR>" § 4. De Vlaamse Regering bepaalt de procedure voor de   erkenning en de intrekking van de erkenning van centra voor dagverzorging als   vermeld in de regelgeving ter uitvoering van artikel 170 van de wet betreffende   de ziekenhuizen en andere verzorgingsinrichtingen, gecoordineerd op 10 juli   2008. Ze bepaalt de duur van de erkenning en regelt het   toezicht.".<BR>
@@ -31,6 +35,10 @@ Aan artikel 30 van hetzelfde decreet wordt een paragraaf 4 toegevoegd, die   lui
 ### ART. 36.
 
 <P>De Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding treedt in de   rechten en verplichtingen, met inbegrip van de rechten en verplichtingen die   voortvloeien uit gerechtelijke procedures, van het Vlaams Fonds voor de Sociale   Integratie van Personen met een Handicap, die betrekking hebben op de taken en   opdrachten van het Vlaams Fonds voor de Sociale Integratie van Personen met een   Handicap die aan die dienst zijn toevertrouwd.<BR></P>  <P>Het Vlaams Subsidieagentschap voor Werk en Sociale Economie treedt in de   rechten en verplichtingen, met inbegrip van de rechten en verplichtingen die   voortvloeien uit gerechtelijke procedures, van het Vlaams Fonds voor de Sociale   Integratie van Personen met een Handicap, die betrekking hebben op de taken en   opdrachten van het Vlaams Fonds voor de Sociale Integratie van Personen met een   Handicap die aan die dienst zijn toevertrouwd.<BR></P>  <P>De roerende goederen waarover de personeelsleden van het Vlaams Fonds voor de   Sociale Integratie van Personen met een Handicap die overgaan naar de Vlaamse   Dienst voor Arbeidsbemiddeling en Beroepsopleiding of naar het Vlaams   Subsidieagentschap voor Werk en Sociale Economie, beschikken, worden   respectievelijk aan de Vlaamse Dienst voor Arbeidsbemiddeling en   Beroepsopleiding en aan het Vlaams Subsidieagentschap voor Werk en Sociale   Economie overgedragen.<BR></P>
+
+### ART. 37.
+
+Aan artikel 8 van het decreet van 7 mei 2004 tot oprichting van het intern   verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor   Personen met een Handicap wordt een punt 6° toegevoegd, dat luidt als volgt :   <BR>"6° het vergunnen, erkennen en subsidiëren van organisaties die   kennisontwikkeling, kennisdoorstroming, kennisuitdraging en expertise   ondersteunen om de deskundigheid van professionelen van de voorzieningen te   bevorderen.".<BR>
 
 ## HOOFDSTUK 11 Interlandelijke adoptie van kinderen
 

@@ -2,16 +2,16 @@
   "codex_id": 1023184,
   "title": "Decreet van 2013-06-21 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023184/VolledigDocument?datum=2010-05-01",
-  "source_sha256": "f5fa2c6e7bcbf052cab99fa7920b4ac49719c2eb8333cc6eb344884d6f63ba1d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023184/VolledigDocument?datum=2011-10-01",
+  "source_sha256": "66dcdf6f0a08927b36cb16d4340feb17b61aac2438242cb81842f74eaafa2a06",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023184&param=informatie",
-  "as_of": "2010-05-01",
+  "as_of": "2011-10-01",
   "made": "2013-06-21",
   "gazette": "2013-08-14",
   "numac": 2013204518,
   "document_start": null,
   "document_end": null,
-  "in_force": "2010-05-01",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2010-05-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2011-10-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2011-10-01; future article versions excluded; article text as the API gives it"
 }
