@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021262,
+  "title": "Besluit van de Vlaamse Regering van 2012-01-13 tot wijziging van artikel 2 van het besluit van de Vlaamse Regering van 9 mei 2008 tot vaststelling van de programmatie van de door het Vlaams Subsidieagentschap voor Werk en Sociale Economie erkende beschutte werkplaatsen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021262/VolledigDocument?datum=2011-10-01",
+  "source_sha256": "09aba6cbf17077a85096f2f76eb1d45f39ec2bf11e3b370193649dbd336f4d6e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021262&param=informatie",
+  "as_of": "2011-10-01",
+  "made": "2012-01-13",
+  "gazette": "2012-02-17",
+  "numac": 2012035150,
+  "document_start": "2011-10-01",
+  "document_end": null,
+  "in_force": "2011-10-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
