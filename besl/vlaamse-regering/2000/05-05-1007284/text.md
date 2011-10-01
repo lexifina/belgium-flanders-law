@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Alle gemeenten leggen een vergunningenregister aan op geïnformatiseerde wijze, conform de technische normen, ter beschikking gesteld van de gemeente door het agentschap Ruimtelijke Ordening van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, hierna het agentschap te noemen.
+Alle gemeenten leggen een vergunningenregister aan op geïnformatiseerde wijze, conform de technische normen, ter beschikking gesteld van de gemeente door het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, hierna het departement te noemen.
 
 ### ART. 2.
 
@@ -12,17 +12,17 @@ De Vlaamse minister, bevoegd voor de ruimtelijke ordening, wordt gemachtigd om m
 
 ### ART. 3.
 
-Op verzoek van de ambtenaren van ruimtelijke ordening als vermeld in artikel 1.4.1, 1.4.3 en 1.4.4 van de Vlaamse Codex Ruimtelijke Ordening drukt de gemeente uittreksels uit het vergunningenregister af en bezorgt ze hen.<br /><br />Voor 15 januari en 15 juli van elk jaar bezorgt de gemeente aan de  gewestelijke stedenbouwkundige ambtenaar ofwel aangetekend, ofwel tegen ontvangstbewijs een digitaal afschrift van de wijzigingen die gedurende de voorbije zes maanden in het vergunningenregister aangebracht zijn, conform de technische normen met betrekking tot het uitwisselingsformaat, ter beschikking gesteld van de gemeente door het agentschap. Voor 15 januari bezorgt de gemeente de wijzigingen van de maanden juli tot en met december. Voor 15 juli bezorgt de gemeente de wijzigingen van de maanden januari tot en met juni.
+Op verzoek van de ambtenaren van ruimtelijke ordening als vermeld in   artikel 1.4.1, 1.4.3 en 1.4.4 van de Vlaamse Codex Ruimtelijke Ordening drukt de   gemeente uittreksels uit het vergunningenregister af en bezorgt ze   hen.<BR><BR>Voor 15 januari en 15 juli van elk jaar bezorgt de gemeente aan de   gewestelijke stedenbouwkundige ambtenaar ofwel aangetekend, ofwel tegen   ontvangstbewijs een digitaal afschrift van de wijzigingen die gedurende de   voorbije zes maanden in het vergunningenregister aangebracht zijn, conform de   technische normen met betrekking tot het uitwisselingsformaat, ter beschikking   gesteld van de gemeente door het departement. Voor 15 januari bezorgt de   gemeente de wijzigingen van de maanden juli tot en met december. Voor 15 juli   bezorgt de gemeente de wijzigingen van de maanden januari tot en met   juni.
 
 ## HOOFDSTUK II DE OPMAAK VAN HET EERSTE VERGUNNINGENREGISTER
 
 ### ART. 4.
 
-Het ontwerp van vergunningenregister bevat de informatie over de in het verleden behandelde dossiers inzake ruimtelijke ordening zoals bepaald in artikel 7.6.2, § 1, van de Vlaamse Codex Ruimtelijke Ordening conform de technische normen, ter beschikking gesteld van de gemeente door het agentschap.
+Het ontwerp van vergunningenregister bevat de informatie over de in het verleden behandelde dossiers inzake ruimtelijke ordening zoals bepaald in artikel 7.6.2, § 1, van de Vlaamse Codex Ruimtelijke Ordening conform de technische normen, ter beschikking gesteld van de gemeente door het departement.
 
 ### ART. 5.
 
-Het college van burgemeester en schepenen bezorgt de gewestelijke stedenbouwkundige ambtenaar het ontwerp van vergunningenregister in digitale vorm. Het verzendt dit per aangetekend schrijven of geeft het af tegen ontvangstbewijs, conform de technische normen met betrekking tot het uitwisselingsformaat, ter beschikking gesteld van de gemeente door het agentschap. Het neemt als bijlage de lijst op van de kadastrale percelen en daaraan gekoppeld het registernummer van de gebouwen en de constructies waarvoor de informatie, vermeld in artikel 7.6.2, § 1, derde en vierde lid, van de Vlaamse Codex Ruimtelijke Ordening, niet werd teruggevonden.
+Het college van burgemeester en schepenen bezorgt de gewestelijke stedenbouwkundige ambtenaar het ontwerp van vergunningenregister in digitale vorm. Het verzendt dit per aangetekend schrijven of geeft het af tegen ontvangstbewijs, conform de technische normen met betrekking tot het uitwisselingsformaat, ter beschikking gesteld van de gemeente door het departement. Het neemt als bijlage de lijst op van de kadastrale percelen en daaraan gekoppeld het registernummer van de gebouwen en de constructies waarvoor de informatie, vermeld in artikel 7.6.2, § 1, derde en vierde lid, van de Vlaamse Codex Ruimtelijke Ordening, niet werd teruggevonden.
 
 ### ART. 6.
 
