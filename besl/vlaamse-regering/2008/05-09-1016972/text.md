@@ -10,7 +10,7 @@ Dit besluit is van toepassing op de beschutte werkplaatsen die een aanvraag tot 
 
 ### ART. 2.
 
-Het aantal voltijds equivalente subsidieerbare arbeidsplaatsen voor werknemers met een handicap in beschutte werkplaatsen wordt binnen de perken van de budgettaire middelen vastgesteld op :<br />1° 14.048 met ingang van 01.01.2008;<br />2° 14.224 met ingang van 01.01.2009.<br /><br />
+Het aantal voltijds equivalente subsidieerbare arbeidsplaatsen voor werknemers met een handicap in beschutte werkplaatsen wordt binnen de perken van de budgettaire middelen vastgesteld op :<br />1° 14.048 met ingang van 01.01.2008;<br />2° 14.224 met ingang van 01.01.2009;<br />3° 14.299 met ingang van 01.10.2011;<br />4° 14.359 met ingang van 01.01.2012. <br /><br />
 
 ### ART. 3.
 

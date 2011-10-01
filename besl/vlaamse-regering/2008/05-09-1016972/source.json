@@ -2,16 +2,16 @@
   "codex_id": 1016972,
   "title": "Besluit van de Vlaamse Regering van 2008-05-09 tot vaststelling van de programmatie van de door het [Departement Werk en Sociale Economie (verv. BVR 20 juni 2014, art. 79, I: 30 oktober 2014)] erkende beschutte werkplaatsen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016972/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "86143d16f7373a985b56d033143da1457c55a60d569ea80ad4423fc0a2026d02",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016972/VolledigDocument?datum=2011-10-01",
+  "source_sha256": "3ccfc88739c7a6f0259a626fcd6558b1329db62b06df27cfccb229390cb40c7a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016972&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2011-10-01",
   "made": "2008-05-09",
   "gazette": "2008-08-20",
   "numac": 2008202752,
   "document_start": "2008-01-01",
   "document_end": null,
-  "in_force": "2008-01-01",
+  "in_force": "2011-10-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-10-01; future article versions excluded; article text as the API gives it"
 }
