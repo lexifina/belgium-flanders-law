@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de minister: de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br />2° het departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br />3° agentschap Ruimtelijke Ordening : het intern verzelfstandigd agentschap Ruimtelijke Ordening van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br />4° Inspectie RWO : het intern verzelfstandigd agentschap Inspectie RWO van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed. <br />
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de minister: de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br />2° het departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br />3° ...<br />4° Inspectie RWO : het intern verzelfstandigd agentschap Inspectie RWO van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed. <br />
 
 ### ART. 2.
 
@@ -34,7 +34,7 @@ Met behoud van de toepassing van artikel 3, eerste lid, zijn de functies van ged
 
 ### ART. 7.
 
-De leidend ambtenaar van agentschap Ruimtelijke Ordening stelt per provincie minstens drie ambtenaren van niveau A uit zijn agentschap aan als gewestelijk stedenbouwkundig ambtenaar.<br /><br />Het aanstellingsbesluit vermeldt een termijn van maximaal zes jaar en het werkgebied van de aangestelde ambtenaren. Het aanstellingsbesluit wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br /><br />De aanstelling is hernieuwbaar. Ze kan op elk ogenblik worden beëindigd, hetzij op verzoek van de betrokkene, hetzij op initiatief van de leidend ambtenaar.<br /><br />
+De leidend ambtenaar van het departement vervult altijd de functie van gewestelijke stedenbouwkundige ambtenaar voor het volledige grondgebied van het Vlaamse Gewest.<br /><br />De leidend ambtenaar van het departement stelt per provincie minstens drie ambtenaren van niveau A uit zijn administratie aan als gewestelijk stedenbouwkundig ambtenaar.<br /><br />Het aanstellingsbesluit vermeldt een termijn van maximaal zes jaar en het werkgebied van de aangestelde ambtenaren. Het aanstellingsbesluit wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br /><br />De aanstelling is hernieuwbaar. Ze kan op elk ogenblik worden beëindigd, hetzij op verzoek van de betrokkene, hetzij op initiatief van de leidend ambtenaar.<br /><br />
 
 ### ART. 8.
 
