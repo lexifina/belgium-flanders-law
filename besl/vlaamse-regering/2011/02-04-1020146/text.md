@@ -61,7 +61,7 @@ Een exemplaar van het charter dat de gebruiker of zijn vertegenwoordiger voor ak
 
 ### ART. 12.
 
-De individuele dienstverleningsovereenkomst wordt schriftelijk opgesteld in overleg met de gebruiker of zijn vertegenwoordiger, op basis van de noden en mogelijkheden van de gebruiker. Het overleg wordt op een wijze georganiseerd die aan de gebruiker is aangepast. De voorziening maakt daarbij gebruik van de ervaringen en inzichten van de gebruiker.<br /><br />Bij een conflict tussen de personen, vermeld in artikel 2, tweede lid, of als geen van die personen de rechten wil uitoefenen, behartigt de voorziening in teamoverleg de belangen van de gebruiker.<br /><br />Voor de diensten voor plaatsing in gezinnen wordt de individuele dienstverleningsovereenkomst opgesteld in overleg met de gebruiker of zijn vertegenwoordiger, het opvanggezin en de dienst voor plaatsing in gezinnen.<br /><br />
+De individuele dienstverleningsovereenkomst wordt schriftelijk opgesteld in overleg met de gebruiker of zijn vertegenwoordiger, op basis van de noden en mogelijkheden van de gebruiker. Het overleg wordt op een wijze georganiseerd die aan de gebruiker is aangepast. De voorziening maakt daarbij gebruik van de ervaringen en inzichten van de gebruiker.<br /><br />Bij een conflict tussen de personen, vermeld in artikel 2, tweede lid, of als geen van die personen de rechten wil uitoefenen, behartigt de voorziening in teamoverleg de belangen van de gebruiker.<br /><br />Voor de diensten voor plaatsing in gezinnen wordt de individuele dienstverleningsovereenkomst opgesteld in overleg met de gebruiker of zijn vertegenwoordiger, het opvanggezin en de dienst voor plaatsing in gezinnen.<br /><br />Voor de diensten Ondersteuningsplan moet geen individuele dienstverleningsovereenkomst opgesteld worden.
 
 ### ART. 13.
 
@@ -143,7 +143,7 @@ Binnen de voorzieningen met residentiële opvang, met uitzondering van de tehuiz
 
 ### ART. 30.
 
-De voorzieningen die met toepassing van artikel 27 geen collectief overlegorgaan hoeven op te richten, organiseren collectieve inspraak voor de gebruikers of hun vertegenwoordigers.<br /><br />In het charter wordt de wijze bepaald waarop die collectieve inspraak georganiseerd wordt.<br /><br />
+De voorzieningen die met toepassing van artikel 27 geen collectief overlegorgaan hoeven op te richten, organiseren collectieve inspraak voor de gebruikers of hun vertegenwoordigers.<br /><br />In het charter wordt de wijze bepaald waarop die collectieve inspraak georganiseerd wordt.<br /><br />De diensten Ondersteuningsplan moeten geen collectieve inspraak organiseren.
 
 ## Afdeling 4 Klachtenbehandeling met betrekking tot dit hoofdstuk
 
@@ -271,7 +271,7 @@ Het gemachtigde personeelslid van het Agentschap Zorginspectie deelt aan de voor
 
 ### ART. 55.
 
-§ 1. Als een voorziening niet voldoet aan de vereisten voor een verantwoorde ondersteuning en de daaruit voortvloeiende verplichtingen zoals die decretaal en reglementair bepaald zijn, stelt het gemachtigde personeelslid van het Agentschap dat vast in het rapport, vermeld in artikel 54. Dat rapport geeft op gemotiveerde wijze aan op welke punten de vereisten voor een verantwoorde ondersteuning en de daaruit voortvloeiende decretaal en reglementair bepaalde verplichtingen niet of onvoldoende nageleefd werden.<br /><br />§ 2. De leidend ambtenaar kan aan de voorziening vragen binnen een te bepalen termijn de nodige maatregelen te nemen om aan de verplichtingen te voldoen. Die termijn bedraagt minstens zes maanden en hoogstens twaalf maanden.<br /><br />De voorziening heeft het recht om tegen dit rapport of tegen die opgelegde termijn schriftelijk bezwaar in te dienen bij de leidend ambtenaar, op straffe van verval binnen veertien dagen na ontvangst van het bericht van de leidend ambtenaar. Na onderzoek van de bezwaren bevestigt of vernietigt de leidend ambtenaar de vraag om de nodige maatregelen te treffen.<br /><br />
+§ 1. Als een voorziening niet voldoet aan de vereisten voor een verantwoorde ondersteuning en de daaruit voortvloeiende verplichtingen zoals die decretaal en reglementair bepaald zijn, stelt het gemachtigde personeelslid van het Agentschap Zorginspectie dat vast in het rapport, vermeld in artikel 54. Dat rapport geeft op gemotiveerde wijze aan op welke punten de vereisten voor een verantwoorde ondersteuning en de daaruit voortvloeiende decretaal en reglementair bepaalde verplichtingen niet of onvoldoende nageleefd werden.<br /><br />§ 2. De leidend ambtenaar kan aan de voorziening vragen binnen een te bepalen termijn de nodige maatregelen te nemen om aan de verplichtingen te voldoen. Die termijn bedraagt minstens zes maanden en hoogstens twaalf maanden.<br /><br />De voorziening heeft het recht om tegen dit rapport of tegen die opgelegde termijn schriftelijk bezwaar in te dienen bij de leidend ambtenaar, op straffe van verval binnen veertien dagen na ontvangst van het bericht van de leidend ambtenaar. Na onderzoek van de bezwaren bevestigt of vernietigt de leidend ambtenaar de vraag om de nodige maatregelen te treffen.<br /><br />
 
 ### ART. 56.
 
