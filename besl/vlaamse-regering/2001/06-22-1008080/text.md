@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° ...<br />2° het agentschap : het agentschap Ruimtelijke Ordening van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />3° gemeentelijke plannen: gemeentelijke plannen van aanleg of gemeentelijke ruimtelijke uitvoeringsplannen en ontwerpen ervan, rooilijnplannen, onteigeningsplannen.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° ...<br />2° het departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />3° gemeentelijke plannen: gemeentelijke plannen van aanleg of gemeentelijke ruimtelijke uitvoeringsplannen en ontwerpen ervan, rooilijnplannen, onteigeningsplannen.
 
 ### ART. 2.
 
@@ -18,7 +18,7 @@ De subsidie voor de opmaak van het eerste vergunningenregister bedraagt 3.718,40
 
 ### ART. 4.
 
-De subsidie voor de opmaak van het eerste vergunningenregister wordt zonder verdere formaliteiten uitbetaald door het agentschap nadat de gewestelijke stedenbouwkundige ambtenaar zijn verslag over het ontwerp van vergunningenregister heeft afgesloten met een gunstige evaluatie, op voorwaarde dat de gemeente het vergunningenregister aan de gewestelijke stedenbouwkundige ambtenaar heeft toegezonden vóór 1 januari 2010.<br /><br />Als de gemeente het eerste vergunningenregister aan de gewestelijke stedenbouwkundige ambtenaar heeft toegezonden voor 1 januari 2009, en de gewestelijke stedenbouwkundige ambtenaar zijn verslag over dat register heeft afgesloten met een gunstige evaluatie, dan zal het agentschap 0,62 euro per aanvullende vergunning, of aanvullend attest of proces-verbaal, waarvan de gegevens op 15 januari 2012 zijn ingevoerd in de aan het agentschap bezorgde actualisatie, aan de gemeente uitbetalen.
+De subsidie voor de opmaak van het eerste vergunningenregister wordt zonder verdere formaliteiten uitbetaald door het departement nadat de gewestelijke stedenbouwkundige ambtenaar zijn verslag over het ontwerp van vergunningenregister heeft afgesloten met een gunstige evaluatie, op voorwaarde dat de gemeente het vergunningenregister aan de gewestelijke stedenbouwkundige ambtenaar heeft toegezonden vóór 1 januari 2010.<br /><br />Als de gemeente het eerste vergunningenregister aan de gewestelijke stedenbouwkundige ambtenaar heeft toegezonden voor 1 januari 2009, en de gewestelijke stedenbouwkundige ambtenaar zijn verslag over dat register heeft afgesloten met een gunstige evaluatie, dan zal het departement 0,62 euro per aanvullende vergunning, of aanvullend attest of proces-verbaal, waarvan de gegevens op 15 januari 2012 zijn ingevoerd in de aan het departement bezorgde actualisatie, aan de gemeente uitbetalen.
 
 ## HOOFDSTUK III SUBSIDIËRING VAN HET EERSTE PLANNENREGISTER
 
@@ -28,7 +28,7 @@ De subsidie voor de opmaak van het eerste plannenregister bedraagt:<br /><br />1
 
 ### ART. 6.
 
-De subsidie voor de opmaak van het eerste plannenregister wordt zonder verdere formaliteiten uitbetaald door het agentschap na de conformverklaring van het eerste plannenregister.<br />
+De subsidie voor de opmaak van het eerste plannenregister wordt zonder verdere formaliteiten uitbetaald door het departement na de conformverklaring van het eerste plannenregister.<br />
 
 ## HOOFDSTUK IV SLOTBEPALINGEN
 
