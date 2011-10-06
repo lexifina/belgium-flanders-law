@@ -14,7 +14,7 @@ In dit besluit wordt verstaan onder : <br />1° gronden met grassen in natuurbeh
 
 ### ART. 2.
 
-Bij de teelt van vezelhennep :<br />1° betreft het enkel vezelhenneprassen die zijn opgenomen in de rassenlijst, vermeld in het Besluit van de Vlaamse Regering van 3 oktober 2003 houdende reglementering van de handel in en de keuring van zaaizaad van oliehoudende planten en vezelgewassen, artikel 1, paragraaf 1, eerste lid, 11°;<br />2° vraagt en verkrijgt de landbouwer voorafgaand aan de inzaai de toestemming tot inzaai van de bevoegde instantie;<br />3° is het zaaizaad van vezelhennep gecertificeerd conform het Besluit van de Vlaamse Regering van 3 oktober 2003 houdende reglementering van de handel in en de keuring van zaaizaad van oliehoudende planten en vezelgewassen, hoofdstuk III;<br />4° deelt de landbouwer de gebruikte dosissen zaaizaden, uitgedrukt in kg/ha, mee aan de bevoegde instantie. De minimale dosis zaaizaad bedraagt 30 kg/ha per variëteit. Als verschillende variëteiten per perceel worden ingezaaid, voegt de landbouwer bij de verzamelaanvraag een schets met de ligging van iedere variëteit.
+...
 
 ### ART. 3.
 
