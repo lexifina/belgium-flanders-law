@@ -2,16 +2,16 @@
   "codex_id": 1010820,
   "title": "Ministerieel besluit van 2003-03-10 houdende aanwijzing van ambtenaren ter uitvoering van het besluit van de Vlaamse regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010820/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "59d784cb8ab0a3467415a9be413522656441235c050f4811b6828680cc95a528",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010820/VolledigDocument?datum=2011-10-11",
+  "source_sha256": "9b9cb503d27bae857d0b2e939a2f42a6116a91649208b0cb82ad0854360f40b1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010820&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-10-11",
   "made": "2003-03-10",
   "gazette": "2003-03-31",
   "numac": 2003200546,
   "document_start": "2003-03-10",
   "document_end": "2011-10-10",
-  "in_force": "2006-06-01",
+  "in_force": "2011-10-11",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-10-11; future article versions excluded; article text as the API gives it"
 }
