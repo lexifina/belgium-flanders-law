@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020829,
+  "title": "Ministerieel besluit van 2011-08-30 tot opheffing van het ministerieel besluit van 10 maart 2003 houdende aanwijzing van ambtenaren ter uitvoering van het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020829/VolledigDocument?datum=2011-10-11",
+  "source_sha256": "bde5cf26204b6a57394c9b783a185398742a132b917fff336719922059d70672",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020829&param=informatie",
+  "as_of": "2011-10-11",
+  "made": "2011-08-30",
+  "gazette": "2011-10-10",
+  "numac": 2011204899,
+  "document_start": "2011-10-11",
+  "document_end": null,
+  "in_force": "2011-10-11",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-10-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
