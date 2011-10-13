@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020810,
+  "title": "Ministerieel besluit van 2011-09-14 betreffende de bekrachtiging van de aanwijzing van de leden van het college van beroep inzake tucht bij de Hogeschool - Universiteit Brussel",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020810/VolledigDocument?datum=2011-10-13",
+  "source_sha256": "254385692dfef6dba8aeecefce46e63fdc69c626463942a1b08b16a0cf90ddea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020810&param=informatie",
+  "as_of": "2011-10-13",
+  "made": "2011-09-14",
+  "gazette": "2011-10-03",
+  "numac": 2011204844,
+  "document_start": "2011-10-13",
+  "document_end": null,
+  "in_force": "2011-10-13",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-10-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
