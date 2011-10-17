@@ -2,16 +2,16 @@
   "codex_id": 1007282,
   "title": "Besluit van de Vlaamse Regering van 2000-05-05 [betreffende de openbare onderzoeken over aanvragen tot stedenbouwkundige vergunning, verkavelingsaanvragen en aanvragen tot verkavelingswijziging (verv. BVR 9 september 2011, art. 1)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007282/VolledigDocument?datum=2010-06-12",
-  "source_sha256": "96f5d5f5da66fccb0482a832c57dc86f3b4f5fd6912337e0875f28c2feb0be02",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007282/VolledigDocument?datum=2011-10-17",
+  "source_sha256": "36558e98b4da19f91db104216e57d1df9beaccfb8baf4355fcb8b5610e9adddf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007282&param=informatie",
-  "as_of": "2010-06-12",
+  "as_of": "2011-10-17",
   "made": "2000-05-05",
   "gazette": "2000-05-20",
   "numac": 2000035506,
   "document_start": "2000-05-01",
   "document_end": "2017-02-22",
-  "in_force": "2010-06-12",
+  "in_force": "2011-10-17",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2010-06-12; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-10-17; future article versions excluded; article text as the API gives it"
 }
