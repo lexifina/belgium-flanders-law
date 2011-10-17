@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020818,
+  "title": "Ministerieel besluit van 2011-08-26 houdende erkenning van bijzondere gebieden in uitvoering van het besluit van de Vlaamse Regering van 6 oktober 1998, betreffende de kwaliteitsbewaking, het recht van voorkoop en het sociaal beheersrecht op woningen, meer bepaald in de gemeente Bornem",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020818/VolledigDocument?datum=2011-10-17",
+  "source_sha256": "2be4b80ed26c56e27c40b83860f936fd5da0a2d00b5199f1afba54e1726971df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020818&param=informatie",
+  "as_of": "2011-10-17",
+  "made": "2011-08-26",
+  "gazette": "2011-10-07",
+  "numac": 2011204907,
+  "document_start": "2011-10-17",
+  "document_end": null,
+  "in_force": "2011-10-17",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-10-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
