@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020826,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-09 tot wijziging van het besluit van de Vlaamse Regering van 16 september 1997 betreffende de controle op de inschrijving van leerlingen in het secundair onderwijs of in het stelsel van leren en werken en het besluit van de Vlaamse Regering van 12 november 1997 betreffende de controle op de inschrijving van leerlingen in het basisonderwijs, wat betreft de invoering van de procedure om het huisonderwijs te mogen hervatten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020826/VolledigDocument?datum=2011-10-20",
+  "source_sha256": "5de716176aa80a7dfd72f450b598971c24b0eaabe35406fc289e26a99079629d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020826&param=informatie",
+  "as_of": "2011-10-20",
+  "made": "2011-09-09",
+  "gazette": "2011-10-10",
+  "numac": 2011204904,
+  "document_start": "2011-10-20",
+  "document_end": null,
+  "in_force": "2011-10-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-10-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
