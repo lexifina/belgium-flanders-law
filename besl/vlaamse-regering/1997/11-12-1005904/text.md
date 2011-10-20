@@ -110,6 +110,18 @@ De jaarlijkse mededeling dat voor huisonderwijs geopteerd wordt, houdt in dat de
 
 De leerplichtige voldoet niet aan de leerplicht wanneer aan het in artikel 10novies van dit besluit gestelde niet is voldaan. In dat geval wordt dezelfde procedure gevolgd zoals bepaald in artikel 9 van dit besluit en is artikel 5 van de wet van 29 juni 1983 betreffende de leerplicht van toepassing. (ing. B.V.R. 9 mei 2003, art. 5, I: 1 augustus 2003) ]
 
+### ART. 10undecies.
+
+Een aanvraag tot het hervatten van huisonderwijs, vermeld in artikel 26ter, § 3, tweede lid, van het decreet basisonderwijs van 25 februari 1997, wordt door de ouders van de leerplichtige leerling ingediend bij de onderwijsinspectie met een aangetekende brief met ontvangstbevestiging.<br /><br />De schriftelijke aanvraag, vermeld in het eerste lid, omvat : <br />1° de volledige identificatie van de betrokken leerplichtigen;<br />2° de gegevens van de school waar de betrokken leerplichtigen momenteel ingeschreven zijn;<br />3° de gegevens over de plaats waar het huisonderwijs zal worden verstrekt;<br />4° de gegevens over de personen die het huisonderwijs zullen verstrekken;<br />5° de motieven om het huisonderwijs te hervatten;<br />6° een omstandige beschrijving van de wijze waarop het huisonderwijs gerealiseerd zal worden, met inbegrip van een beschrijving van de wijze waarop de tekortkomingen, vastgesteld door de onderwijsinspectie die geleid hebben tot haar beslissing dat de leerling zich in een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde school moet inschrijven, zijn of worden weggewerkt.
+
+### ART. 10duodecies.
+
+§ 1. De onderwijsinspectie onderzoekt of er voldoende garanties aanwezig zijn dat het huisonderwijs beantwoordt aan de doelstellingen, vermeld in artikel 26ter, § 3, tweede lid, van het decreet basisonderwijs van 25 februari 1997, en beslist over de mogelijkheid om het huisonderwijs te hervatten.<br /><br />§ 2. Het onderzoek, vermeld in paragraaf 1, wordt uitgevoerd op basis van de schriftelijke aanvraag, vermeld in artikel 10undecies.<br /><br />§ 3. De beslissing, vermeld in paragraaf 1, wordt gemotiveerd en binnen veertien kalenderdagen na de ontvangst van de schriftelijke aanvraag, met een aangetekende brief aan de ouders betekend. De poststempel geldt als datum van de betekening.<br /><br />In afwijking van het eerste lid wordt de termijn waarin de inspectie een beslissing moet nemen, geschorst tijdens en voor de duur van de kerst-, paas- en zomervakantie.<br /><br />§ 4. Een gebrek aan een beslissing binnen de in paragraaf 3 vermelde termijn, wordt geacht een toestemming voor de hervatting van huisonderwijs te zijn.
+
+### ART. 10terdecies.
+
+Met behoud van de toepassing van artikel 10novies kan de hervatting van het huisonderwijs ingaan vanaf een van de volgende tijdstippen : <br />1° de betekening van de toestemming van de inspectie, vermeld in artikel 10duodecies, § 3;<br />2° de vijfde kalenderdag na het verstrijken van de termijn, vermeld in artikel 10duodecies, § 3.
+
 ## HOOFDSTUK III SANCTIES
 
 ### ART. 11.
