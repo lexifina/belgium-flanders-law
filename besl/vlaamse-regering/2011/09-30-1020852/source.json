@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020852,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-30 tot goedkeuring van de wijziging van de statuten van de Vlaamse Maatschappij voor Watervoorziening aangebracht door de algemene vergadering van de Vlaamse Maatschappij voor Watervoorziening op 17 juni 2011",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020852/VolledigDocument?datum=2011-10-20",
+  "source_sha256": "75996abd8bde8c6d5208e09835b45f542f3f71b2a21a07f444b4110a32d68954",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020852&param=informatie",
+  "as_of": "2011-10-20",
+  "made": "2011-09-30",
+  "gazette": "2011-10-20",
+  "numac": 2011205138,
+  "document_start": "2011-10-20",
+  "document_end": null,
+  "in_force": "2011-10-20",
+  "article_versions": 49,
+  "record_form": "consolidated version as in force on 2011-10-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
