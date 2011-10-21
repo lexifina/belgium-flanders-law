@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020836,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-09 tot machtiging van het intern verzelfstandigd agentschap \"Toerisme Vlaanderen\" om ad nominatim subsidies toe te kennen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020836/VolledigDocument?datum=2011-10-21",
+  "source_sha256": "c2324a4623c854bf497e6b5d04f5d45211b3e8c2ccb2a8354305119e0a2ff41f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020836&param=informatie",
+  "as_of": "2011-10-21",
+  "made": "2011-09-09",
+  "gazette": "2011-10-11",
+  "numac": 2011205012,
+  "document_start": "2011-10-21",
+  "document_end": "2012-12-31",
+  "in_force": "2011-10-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-10-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
