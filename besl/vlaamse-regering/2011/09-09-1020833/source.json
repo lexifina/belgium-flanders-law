@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020833,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-09 tot wijziging van artikel 5 van het besluit van de Vlaamse Regering van 16 juli 2010 tot bepaling van handelingen waarvoor geen stedenbouwkundige vergunning nodig is",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020833/VolledigDocument?datum=2011-10-21",
+  "source_sha256": "d5cefc8100b9b701d538c19fe78704c02b14b2e2ac14bffbf12a00a6f2cb740a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020833&param=informatie",
+  "as_of": "2011-10-21",
+  "made": "2011-09-09",
+  "gazette": "2011-10-11",
+  "numac": 2011205005,
+  "document_start": "2011-10-21",
+  "document_end": null,
+  "in_force": "2011-10-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-10-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
