@@ -2,16 +2,16 @@
   "codex_id": 1020208,
   "title": "Decreet van 2011-04-29 houdende wijziging van diverse decreten met betrekking tot wonen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020208/VolledigDocument?datum=2011-05-14",
-  "source_sha256": "be3a05d984f92d54d02fc3ab51e8c289d4802e020243b00ccb3019cc62751985",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020208/VolledigDocument?datum=2011-10-21",
+  "source_sha256": "6478f9503823c31bb076c6b33cfcc1084248e64ce7b762442de1e66ca5216dcd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020208&param=informatie",
-  "as_of": "2011-05-14",
+  "as_of": "2011-10-21",
   "made": "2011-04-29",
   "gazette": "2011-05-04",
   "numac": 2011035341,
   "document_start": "2011-05-14",
   "document_end": null,
-  "in_force": "2011-05-14",
-  "article_versions": 74,
-  "record_form": "consolidated version as in force on 2011-05-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2011-10-21",
+  "article_versions": 76,
+  "record_form": "consolidated version as in force on 2011-10-21; future article versions excluded; article text as the API gives it"
 }

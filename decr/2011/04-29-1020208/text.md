@@ -230,6 +230,14 @@ In artikel 42 van hetzelfde decreet, vervangen bij het decreet van 24 maart 2006
 
 In artikel 43, § 2, 1°, van hetzelfde decreet, ingevoegd bij het decreet van 24 maart 2006, worden de woorden « ter uitvoering van artikel 33, § 1, 6°, » vervangen door de woorden « door het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, opgericht bij artikel 16 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992, ».
 
+### ART. 58.
+
+Artikel 48 van hetzelfde decreet, vervangen bij het decreet van 24 maart 2006, wordt vervangen door wat volgt :<br /><br />« Art. 48. Op eigen initiatief of op verzoek van de toezichthouder kan de Vlaamse Regering een sociale huisvestingsmaatschappij die de opdrachten, opgelegd bij decreet of bij besluit van de Vlaamse Regering, niet behoorlijk uitvoert, die de verbintenissen die ze is aangegaan niet nakomt of waarvan de werking in gebreke blijft, de volgende sancties opleggen :<br />1° de eerstvolgende prestatiebeoordeling, conform de door de Vlaamse Regering vastgestelde procedure voor de beoordeling van de prestaties van sociale huisvestingsmaatschappijen, vervroegen;<br />2° verplichten om een beroep te doen op externe bijstand;<br />3° aanstellen van een bestuurder die geheel of gedeeltelijk in de plaats treedt van het bestuursorgaan van de sociale huisvestingsmaatschappij;<br />4° de activiteiten van de sociale huisvestingsmaatschappij tijdelijk uitbesteden; <br />5° verplichten tot samenwerking met een andere sociale huisvestingsmaatschappij.<br /><br />Met behoud van de persoonlijke en hoofdelijke aansprakelijkheid van de bestuurders kan de Vlaamse Regering, op eigen initiatief of op verzoek van de toezichthouder, een sociale huisvestingsmaatschappij die de opdrachten, opgelegd bij decreet of bij besluit van de Vlaamse Regering, niet behoorlijk uitvoert, die de verbintenissen die ze is aangegaan niet nakomt of waarvan de werking in gebreke blijft, de volgende sancties opleggen :<br />1° verplichten tot fusie met een andere sociale huisvestingsmaatschappij;<br />2° intrekken van de erkenning van de sociale huisvestingsmaatschappij.<br /><br />Met behoud van de toepassing van artikel 49 kan de Vlaamse Regering de nadere regelen en de procedure vaststellen voor het opleggen van de sancties, vermeld in het eerste en het tweede lid. »
+
+### ART. 59.
+
+In artikel 49 van hetzelfde decreet, vervangen bij het decreet van 24 maart 2006, wordt paragraaf 3 opgeheven.
+
 ### ART. 61.
 
 In artikel 57 van hetzelfde decreet, gewijzigd bij het decreet van 24 maart 2006, wordt paragraaf 2 opgeheven.
