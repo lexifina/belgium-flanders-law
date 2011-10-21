@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020835,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-23 betreffende de inwerkingtreding van sommige bepalingen van het decreet van 29 april 2011 houdende wijziging van diverse decreten met betrekking tot wonen en van sommige bepalingen van het besluit van de Vlaamse Regering van 22 oktober 2010 tot vaststelling van de aanvullende voorwaarden en de procedure voor de erkenning als sociale huisvestingsmaatschappij en tot vaststelling van de procedure voor de beoordeling van de prestaties van sociale huisvestingsmaatschappijen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020835/VolledigDocument?datum=2011-10-21",
+  "source_sha256": "bc8cee7c56f9cd99c7c8bb51ddd08f24777b023a35d0d131378bd374cc8eaa16",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020835&param=informatie",
+  "as_of": "2011-10-21",
+  "made": "2011-09-23",
+  "gazette": "2011-10-11",
+  "numac": 2011205004,
+  "document_start": "2011-10-21",
+  "document_end": null,
+  "in_force": "2011-10-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-10-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
