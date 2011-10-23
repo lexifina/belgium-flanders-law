@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020842,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-19 houdende de toekenning van een subsidie voor 2011 aan het Sociaal Fonds voor het Sociaal-Cultureel Werk van de Vlaamse Gemeenschap voor het wegwerken van anomalieën inzake tewerkstelling in de sociaal-culturele sector",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020842/VolledigDocument?datum=2011-10-23",
+  "source_sha256": "3581a67a52b2cfa3f971c86fecfd73b12093002e5237b2c64d9df036433832e5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020842&param=informatie",
+  "as_of": "2011-10-23",
+  "made": "2011-09-19",
+  "gazette": "2011-10-13",
+  "numac": 2011205096,
+  "document_start": "2011-10-23",
+  "document_end": null,
+  "in_force": "2011-10-23",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2011-10-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
