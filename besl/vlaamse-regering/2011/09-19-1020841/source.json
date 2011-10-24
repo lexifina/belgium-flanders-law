@@ -2,16 +2,16 @@
   "codex_id": 1020841,
   "title": "Besluit van de Vlaamse Regering van 2011-09-19 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020841/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "73a0bd91dea7b34a4f1650b7b8c3dd8f4ad30f8de4de29f1f255727171d0d26b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020841/VolledigDocument?datum=2011-10-24",
+  "source_sha256": "8dbafc4e79d3c78f15c918ea30f3df9b27fbe64566f8c84eb55dd32a66c7ebcc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020841&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2011-10-24",
   "made": "2011-09-19",
   "gazette": "2011-10-13",
   "numac": 2011205080,
   "document_start": "2011-10-24",
   "document_end": null,
-  "in_force": "2009-01-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2011-10-24",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2011-10-24; future article versions excluded; article text as the API gives it"
 }
