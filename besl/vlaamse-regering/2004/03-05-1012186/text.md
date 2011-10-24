@@ -82,11 +82,11 @@ De gouverneur deelt zijn verlof vooraf mee aan de minister van Binnenlandse Aang
 
 ### ART. 17.
 
-§ 1. De gouverneur heeft vakantie op de wettelijke en decretale feestdagen en op 2 en 15 november en 26 december.<br /><br />§ 2. Ter vervanging van de in § 1 vermelde vakantiedagen die samenvallen met een zaterdag of zondag, heeft de gouverneur vakantie voor de periode tussen Kerstmis en nieuwjaar.<br /><br />Als hij verplicht wordt om op één van de in § 1 vermelde dagen of in de periode tussen Kerstmis en nieuwjaar te werken ten gevolge van behoeften van de dienst, krijgt hij in evenredige mate vervangende vakantiedagen die hij onder dezelfde voorwaarden als de jaarlijkse vakantiedagen kan nemen.
+§ 1. De gouverneur heeft vakantie op de wettelijke en decretale feestdagen en op 2 en 15 november en 26 december.<br /><br />§ 2. Ter vervanging van de in § 1 vermelde vakantiedagen die samenvallen met een zaterdag of zondag, heeft de gouverneur vakantie voor de periode tussen Kerstmis en nieuwjaar.<br /><br />Als hij verplicht wordt om op één van de in § 1 vermelde dagen of in de periode tussen Kerstmis en nieuwjaar te werken ten gevolge van behoeften van de dienst, krijgt hij in evenredige mate vervangende vakantiedagen die hij onder dezelfde voorwaarden als de jaarlijkse vakantiedagen kan nemen.<br /><br />§ 3. De gouverneur die voor Kerstmis zijn ambt neerlegt ingevolge pensionering, krijgt vervangende vakantiedagen, gelijk aan het aantal feestdagen dat samenvalt met een zaterdag of zondag tijdens het gedeelte van het jaar dat voorafgaat aan zijn pensionering.
 
 ### ART. 18.
 
-De vakantiedagen worden met een periode van dienstactiviteit gelijkgesteld. Zij worden niet opgeschort bij ziekte doch wel bij hospitalisatie van de gouverneur.
+De vakantiedagen worden met een periode van dienstactiviteit gelijkgesteld. Zij worden niet opgeschort bij ziekte doch wel bij hospitalisatie van de gouverneur en de eventueel daarop aansluitende herstelperiode.
 
 ## TITEL III [MOEDERSCHAPSRUST, VADER- OF MEEMOEDERSCHAPSVERLOF, OPVANGVERLOF, PLEEGZORGVERLOF EN PLEEGOUDERVERLOF (verv. BVR 28 juni 2019, art. 37, I: 1 mei 2019)]
 
@@ -94,7 +94,7 @@ De vakantiedagen worden met een periode van dienstactiviteit gelijkgesteld. Zij 
 
 ### ART. 19.
 
-De gouverneur heeft recht op het bevallingsverlof bedoeld in artikel 39 van de arbeidswet van 16 maart 1971. Dit verlof wordt gelijkgesteld met een periode van dienstactiviteit.
+De gouverneur heeft recht op de moederschapsrust bedoeld in artikel 39 van de arbeidswet van 16 maart 1971. Dit verlof wordt gelijkgesteld met een periode van dienstactiviteit.
 
 ### ART. 20.
 
@@ -106,7 +106,7 @@ De periode van bezoldiging van de moederschapsrust mag niet meer dan vijftien we
 
 ### ART. 22.
 
-§ 1. Als de moeder overlijdt, heeft de vader van het kind recht op vaderschapsverlof; de duur daarvan mag het deel van het bevallingsverlof dat de moeder nog niet opgenomen had bij haar overlijden, niet overschrijden.<br /><br />§ 2. Wanneer de moeder in een ziekenhuis opgenomen wordt, heeft de vader van het kind recht op vaderschapsverlof; dit verlof begint ten vroegste vanaf de achtste dag te rekenen vanaf de geboorte van het kind, op voorwaarde dat de opname van de moeder in het ziekenhuis meer dan zeven dagen bedraagt en dat de pasgeborene het ziekenhuis verlaten heeft.<br /><br />Het vaderschapsverlof verstrijkt op het moment dat de opname van de moeder in het ziekenhuis een einde neemt; het vaderschapsverlof verstrijkt ten laatste wanneer de periode verstrijkt die overeenstemt met het deel van het bevallingsverlof dat de moeder op het ogenblik van haar opname in het ziekenhuis nog niet had opgenomen.<br /><br />§ 3. Dit vaderschapsverlof wordt gelijkgesteld met een periode van dienstactiviteit.
+§ 1. Als de moeder overlijdt, heeft de vader of meemoeder van het kind recht op vaderschaps- of meemoederschapsverlof. De duur daarvan mag het deel van de moederschapsrust dat de moeder nog niet opgenomen had bij haar overlijden, niet overschrijden.<br /><br />§ 2. Als de moeder in een ziekenhuis opgenomen wordt, heeft de vader of meemoeder van het kind recht op vaderschaps- of meemoederschapsverlof. Dat verlof begint op zijn vroegst vanaf de achtste dag na de geboorte van het kind, op voorwaarde dat de moeder langer dan zeven kalenderdagen opgenomen wordt in het ziekenhuis en dat de pasgeborene het ziekenhuis verlaten heeft.<br /><br />Het vaderschaps- of meemoederschapsverlof verstrijkt op het moment dat de opname van de moeder in het ziekenhuis een einde neemt. Het vaderschaps- of meemoederschapsverlof stopt uiterlijk als de periode verstreken is die overeenstemt met het deel van de moederschapsrust dat de moeder op het ogenblik van haar opname in het ziekenhuis nog niet had opgenomen.<br /><br />§ 3. Het vaderschaps- of meemoederschapsverlof wordt gelijkgesteld met een periode van dienstactiviteit.
 
 ## HOOFDSTUK II OPVANGVERLOF
 
@@ -128,7 +128,7 @@ Dit verlof wordt gelijkgesteld met een periode van dienstactiviteit.
 
 ### ART. 26.
 
-§ 1. Ziekteverlof wordt toegestaan voor de duur van de afwezigheid naar aanleiding van:<br />1° een arbeidsongeval;<br />2° een ongeval op weg naar en van het werk;<br />3° een beroepsziekte;<br />5° de dagen afwezigheid wegens ziekte die zich voordoen binnen zes weken voor de werkelijke bevallingsdatum. Bij geboorte van een meerling wordt die periode verlengd tot acht weken.<br /><br />§ 2. Is de afwezigheid te wijten aan de in § 1 vermelde redenen of aan een ongeval, veroorzaakt door de schuld van een derde dan ontvangt de gouverneur zijn salaris alleen als voorschot dat betaald wordt op de door de derde verschuldigde vergoeding en dat op de derde te verhalen is.<br /><br />Het Vlaamse Gewest treedt in dit geval van rechtswege in alle rechten, vorderingen en rechtsmiddelen die de getroffene mocht kunnen doen gelden tegen de persoon die verantwoordelijk is voor het ongeval tot het bedrag van het salaris.<br /><br />§ 3. De minister van Binnenlandse Aangelegenheden neemt de juridische beslissing over de erkenning van arbeidsongevallen en van ongevallen op weg naar en van het werk.<br /><br />Hij neemt ook de juridische beslissing over de toekenning van schadevergoeding voor arbeidsongevallen, voor ongevallen op weg naar en van het werk en voor beroepsziekten in de overheidssector.
+§ 1. Ziekteverlof wordt toegestaan voor de duur van de afwezigheid naar aanleiding van:<br />1° een arbeidsongeval;<br />2° een ongeval op weg naar en van het werk;<br />3° een beroepsziekte;<br />4° een ongeval van gemeen recht, veroorzaakt door de schuld van een derde;<br />5° de dagen afwezigheid wegens ziekte die zich voordoen binnen zes weken voor de werkelijke bevallingsdatum. Bij geboorte van een meerling wordt die periode verlengd tot acht weken.<br /><br />§ 2. Is de afwezigheid te wijten aan de in § 1 vermelde redenen of aan een ongeval, veroorzaakt door de schuld van een derde dan ontvangt de gouverneur zijn salaris alleen als voorschot dat betaald wordt op de door de derde verschuldigde vergoeding en dat op de derde te verhalen is.<br /><br />Het Vlaamse Gewest treedt in dit geval van rechtswege in alle rechten, vorderingen en rechtsmiddelen die de getroffene mocht kunnen doen gelden tegen de persoon die verantwoordelijk is voor het ongeval tot het bedrag van het salaris.<br /><br />§ 3. De minister van Binnenlandse Aangelegenheden neemt de juridische beslissing over de erkenning van arbeidsongevallen en van ongevallen op weg naar en van het werk.<br /><br />Hij neemt ook de juridische beslissing over de toekenning van schadevergoeding voor arbeidsongevallen, voor ongevallen op weg naar en van het werk en voor beroepsziekten in de overheidssector.
 
 ## TITEL V [LOOPBAANONDERBREKING IN HET KADER VAN EEN FEDERAAL ZORGVERLOF (verv. BVR 28 juni 2019, art. 41, I: 4 oktober 2019)]
 
@@ -192,9 +192,13 @@ Indien de gouverneur of adjunct van de gouverneur geen recht heeft op onderbreki
 
 ### ART. 38.
 
-§ 1. De gouverneur heeft recht op omstandigheidsverlof naar aanleiding van de gebeurtenissen en binnen de perken zoals hierna vermeld:<br />1° huwelijk van de gouverneur en het afleggen van een verklaring van wettelijke samenwoning door de gouverneur: 4 werkdagen;<br />2° bevalling van de echtgenoot of samenwonende partner: tien werkdagen;<br />3° overlijden van de echtgenoot of samenwonende partner, een bloed- of aanverwant in de eerste graad van de gouverneur, de echtgenoot of de samenwonende partner: 4 werkdagen;<br />4° huwelijk van een kind van de gouverneur, van de echtgenoot of van de samenwonende partner: 2 werkdagen;<br />5° overlijden van een bloed- of aanverwant van de gouverneur of van de samenwonende partner in om het even welke graad maar onder eenzelfde dak wonend als de gouverneur: 2 werkdagen;<br />6° overlijden van een bloed- of aanverwant van de gouverneur of van de samenwonende partner in de tweede graad, een overgrootouder of een achterkleinkind maar niet onder eenzelfde dak wonend als de gouverneur: 1 werkdag;<br />7° huwelijk van een bloed- of aanverwant in de eerste graad, die geen kind is, of in de tweede graad, van de gouverneur, de echtgenoot of de samenwonende partner: de dag van het huwelijk.<br /><br />§ 2. De afwezigheden wegens omstandigheidsverlof worden gelijkgesteld met een periode van dienstactiviteit.
+§ 1. De gouverneur heeft recht op omstandigheidsverlof naar aanleiding van de gebeurtenissen en binnen de perken zoals hierna vermeld:<br />1° huwelijk van de gouverneur en het afleggen van een verklaring van wettelijke samenwoning door de gouverneur: 4 werkdagen;<br />2° bevalling van de echtgenoot of samenwonende partner: tien werkdagen;<br />3° overlijden van de echtgenoot of samenwonende partner, een bloed- of aanverwant in de eerste graad van de gouverneur, de echtgenoot of de samenwonende partner: 4 werkdagen;<br />4° huwelijk van een kind van de gouverneur, van de echtgenoot of van de samenwonende partner: 2 werkdagen;<br />5. overlijden van een bloed- of aanverwant van de gouverneur, de echtgenoot of de samenwonende partner, van om het even welke graad, die onder hetzelfde dak woont als de gouverneur, de echtgenoot of de samenwonende partner : twee werkdagen;<br />6. overlijden van een bloed- of aanverwant van de gouverneur, de echtgenoot of de samenwonende partner in de tweede graad, van een overgrootouder of een achterkleinkind, die niet onder hetzelfde dak wonen als de gouverneur, de echtgenoot of de samenwonende partner : één werkdag;<br />7° huwelijk van een bloed- of aanverwant in de eerste graad, die geen kind is, of in de tweede graad, van de gouverneur, de echtgenoot of de samenwonende partner: de dag van het huwelijk.<br /><br />§ 2. De afwezigheden wegens omstandigheidsverlof worden gelijkgesteld met een periode van dienstactiviteit.
 
 ## [TITEL VII VERVANGING BIJ LANGDURIGE AFWEZIGHEID OF WAARNEMING VAN HET AMBT (verv. BVR 28 juni 2019, art. 47, I: 4 oktober 2019)]
+
+### ART. 38/1.
+
+Bij langdurige afwezigheid kan de Vlaamse Regering de gouverneur vervangen. De vervanger geniet de prerogatieven en het geldelijk statuut van de gouverneur.
 
 ## DEEL V VRIJWILLIG ONTSLAG EN OPRUST- STELLING VAN DE GOUVERNEUR
 
@@ -209,6 +213,10 @@ Het ontslag wordt definitief wanneer de Vlaamse regering dit aanvaardt.
 ### ART. 41.
 
 De gouverneur gaat op rust ten laatste wanneer hij de leeftijd van 65 jaar bereikt.
+
+### ART. 41/1.
+
+De pensioengerechtigde gouverneur kan door de minister van Binnenlandse Aangelegenheden gemachtigd worden de eretitel van zijn ambt te dragen.
 
 ## DEEL VI GELDELIJK STATUUT
 
@@ -317,6 +325,10 @@ De gouverneur geniet een forfaitaire vergoeding voor representatiekosten tijdens
 De gouverneur beschikt voor de uitoefening van zijn taak over een ambtswoning.<br /><br />De bepalingen van het koninklijk besluit van 10 april 1995 houdende de toekenning van een forfaitaire residentievergoeding aan sommige commissarissen van de federale regering, zoals gewijzigd bij koninklijk besluit van 4 december 2001, blijven van toepassing voor de gouverneurs.<br /><br />Deze vergoeding wordt op dezelfde wijze geïndexeerd als het salaris.
 
 ## [HOOFDSTUK V RECHTSBIJSTAND (ing. BVR 9 september 2011, art. 16)]
+
+### ART. 61/1.
+
+De gouverneurs die door derden gerechtelijk vervolgd worden, krijgen daarvoor rechtsbijstand onder de voorwaarden, bepaald door de minister van Binnenlandse Aangelegenheden.
 
 ## DEEL VII OPHEFFINGS-, OVERGANGS- EN SLOTBEPALINGEN
 
