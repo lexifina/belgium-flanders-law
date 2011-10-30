@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020853,
+  "title": "Ministerieel besluit van 2011-09-28 houdende de vastlegging van de nadere regels over de werking van het Samenwerkingsplatform Eerstelijnsgezondheidszorg",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020853/VolledigDocument?datum=2011-10-30",
+  "source_sha256": "a0a7475672520b58facfdb7927e8f3e5bd00654952f059f143959c8fd08651bc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020853&param=informatie",
+  "as_of": "2011-10-30",
+  "made": "2011-09-28",
+  "gazette": "2011-10-20",
+  "numac": 2011035876,
+  "document_start": "2011-10-30",
+  "document_end": null,
+  "in_force": "2011-10-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-10-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
