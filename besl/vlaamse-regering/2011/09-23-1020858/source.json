@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020858,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-23 betreffende het uitstel en de opheffing en niet inning van superheffingen mestverwerking",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020858/VolledigDocument?datum=2011-10-31",
+  "source_sha256": "852e1d766fb712bd315e66c3785236e67d5cbc6d35f539aca7aad0b7e5960f97",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020858&param=informatie",
+  "as_of": "2011-10-31",
+  "made": "2011-09-23",
+  "gazette": "2011-10-21",
+  "numac": 2011205237,
+  "document_start": "2011-10-31",
+  "document_end": null,
+  "in_force": "2011-10-31",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
