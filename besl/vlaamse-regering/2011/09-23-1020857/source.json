@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020857,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-23 tot wijziging van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, wat betreft het toezicht op en de handhaving van de normering van vast opgestelde zendantennes voor elektromagnetische golven tussen 10 MHz en 10 GHz",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020857/VolledigDocument?datum=2011-10-31",
+  "source_sha256": "01cd227622187259c7ee2a1bab99bf1795784050c50884beb8969fa4a5cdcfaf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020857&param=informatie",
+  "as_of": "2011-10-31",
+  "made": "2011-09-23",
+  "gazette": "2011-10-21",
+  "numac": 2011205235,
+  "document_start": "2011-10-31",
+  "document_end": null,
+  "in_force": "2011-10-31",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
