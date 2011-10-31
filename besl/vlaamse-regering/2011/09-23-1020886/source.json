@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020886,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-23 tot wijziging van het besluit van de Vlaamse Regering van 18 december 1992 houdende instelling van een aanpassingspremie en een verbeteringspremie voor woningen en van het Energiebesluit van 19 november 2010",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020886/VolledigDocument?datum=2011-10-31",
+  "source_sha256": "e955df8c057dc55470b13789121223a74b13a6949f95ee714917904944f88d33",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020886&param=informatie",
+  "as_of": "2011-10-31",
+  "made": "2011-09-23",
+  "gazette": "2011-10-31",
+  "numac": 2011205522,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2011-10-31",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
