@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020849,
+  "title": "Ministerieel besluit van 2011-10-06 houdende het verlenen van een afwijking van bepaalde EPB-eisen voor tennishallen vervaardigd uit zeildoeken",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020849/VolledigDocument?datum=2011-11-01",
+  "source_sha256": "6e3f2c005b7e5c33a4e08179b4f99b8142d79f50bf431c23689e1678df17fa30",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020849&param=informatie",
+  "as_of": "2011-11-01",
+  "made": "2011-10-06",
+  "gazette": "2011-10-18",
+  "numac": 2011205155,
+  "document_start": "2011-11-01",
+  "document_end": "2013-04-21",
+  "in_force": "2011-11-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
