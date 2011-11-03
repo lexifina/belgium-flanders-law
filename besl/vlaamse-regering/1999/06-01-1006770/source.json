@@ -2,16 +2,16 @@
   "codex_id": 1006770,
   "title": "Besluit van de Vlaamse Regering van 1999-06-01 houdende vaststelling van de personeelsformatie van de Vlaamse Maatschappij voor Watervoorziening",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006770/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f67ce7c618703698f152aa3d6eb07c82a98a683e3b3de623ac5ef35ccb8d99ba",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006770/VolledigDocument?datum=2011-11-03",
+  "source_sha256": "0139e82f892646e72fdd6d30adc602cc0e9c313890ba8ea49f81b1dac5e2ef04",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006770&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-11-03",
   "made": "1999-06-01",
   "gazette": "1999-07-23",
   "numac": 1999035936,
   "document_start": "1995-01-01",
   "document_end": "2011-11-02",
-  "in_force": "2006-06-01",
+  "in_force": "2011-11-03",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-11-03; future article versions excluded; article text as the API gives it"
 }
