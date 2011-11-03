@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020864,
+  "title": "Besluit van de Vlaamse Regering van 2011-10-07 tot klassering van een deel van de Ontlastingsbeek, onbevaarbare waterloop van tweede categorie, tot onbevaarbare waterloop van eerste categorie in Zaventem",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020864/VolledigDocument?datum=2011-11-03",
+  "source_sha256": "ea60503a45b9773fea919c7f6e21093630705ad1c0890c6d144682d6f1b68831",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020864&param=informatie",
+  "as_of": "2011-11-03",
+  "made": "2011-10-07",
+  "gazette": "2011-10-24",
+  "numac": 2011035875,
+  "document_start": "2011-11-03",
+  "document_end": null,
+  "in_force": "2011-11-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-11-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
