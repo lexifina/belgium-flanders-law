@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020861,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-09 houdende vaststelling van de personeelsformatie van de Vlaamse Maatschappij voor Watervoorziening",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020861/VolledigDocument?datum=2011-11-03",
+  "source_sha256": "89e9fee6c953791d77bcb86a936268d3ab263c86d52e122cdb76142ec00328c3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020861&param=informatie",
+  "as_of": "2011-11-03",
+  "made": "2011-09-09",
+  "gazette": "2011-10-24",
+  "numac": 2011205345,
+  "document_start": "2011-11-03",
+  "document_end": "2016-12-31",
+  "in_force": "2011-11-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-11-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
