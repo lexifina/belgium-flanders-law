@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020863,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-19 tot erkenning van de bachelor-na-bacheloropleiding bachelor in het onderwijs : schoolontwikkeling als nieuwe opleiding van de Katholieke Hogeschool Zuid-West-Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020863/VolledigDocument?datum=2011-11-03",
+  "source_sha256": "4a612bd2cdc2aa9ab77630f20717ff477f054a80cd1e9220416ff22aca28cb77",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020863&param=informatie",
+  "as_of": "2011-11-03",
+  "made": "2011-09-19",
+  "gazette": "2011-10-24",
+  "numac": 2011205368,
+  "document_start": "2011-11-03",
+  "document_end": null,
+  "in_force": "2011-11-03",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-11-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
