@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020874,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-30 tot wijziging van artikelen 2, 3 en 6 van het besluit van de Vlaamse Regering van 29 mei 2009 betreffende personeelsleden in het secundair onderwijs die op bedrijfsstage gaan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020874/VolledigDocument?datum=2011-11-05",
+  "source_sha256": "7a3cfb3e46952ca1ee113e0e0cb4d43f93003d96b4d14e8b81cc8870f8696e3a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020874&param=informatie",
+  "as_of": "2011-11-05",
+  "made": "2011-09-30",
+  "gazette": "2011-10-26",
+  "numac": 2011205401,
+  "document_start": "2011-11-05",
+  "document_end": null,
+  "in_force": "2011-11-05",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-11-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
