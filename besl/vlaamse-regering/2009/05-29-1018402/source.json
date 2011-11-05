@@ -2,16 +2,16 @@
   "codex_id": 1018402,
   "title": "Besluit van de Vlaamse Regering van 2009-05-29 betreffende personeelsleden in het secundair onderwijs die op bedrijfsstage gaan",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018402/VolledigDocument?datum=2010-09-01",
-  "source_sha256": "f62be778fda34d8fc07fa9d78e578464f69cf9cb48dec06c7eee5bbbcde484dd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018402/VolledigDocument?datum=2011-11-05",
+  "source_sha256": "83427880ff17235e93e010a49cdd6725785b47f1bccecb82d29d97a4c069e722",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018402&param=informatie",
-  "as_of": "2010-09-01",
+  "as_of": "2011-11-05",
   "made": "2009-05-29",
   "gazette": "2009-09-24",
   "numac": 2009035907,
   "document_start": "2008-09-01",
   "document_end": "2011-08-31",
-  "in_force": "2010-09-01",
+  "in_force": "2011-11-05",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2010-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-11-05; future article versions excluded; article text as the API gives it"
 }
