@@ -74,7 +74,7 @@ II 9. § 1. De opdrachthouder behoudt tijdens de duur van de opdracht zijn recht
 
 ### ART. II 10.
 
-§ 1. Voor de toepassing van deze titel verstaat men onder hogere functie, elke functie die overeenstemt met de in de personeelsformatie voorkomende betrekking van een graad van hogere rang dan waarvan het statutaire personeelslid titularis is.<br /><br />§ 2. Een statutair personeelslid kan worden aangesteld in een hogere functie voor een betrekking van een graad die tijdelijk of definitief vacant is.
+§ 1. Voor de toepassing van deze titel verstaat men onder hogere functie, elke functie die overeenstemt met de in het personeelsplan voorkomende betrekking van een graad van hogere rang dan waarvan het statutaire personeelslid titularis is.<br /><br />§ 2. Een statutair personeelslid kan worden aangesteld in een hogere functie voor een betrekking van een graad die tijdelijk of definitief vacant is.
 
 ### ART. II 11.
 
@@ -180,7 +180,7 @@ V 1. § 1. Jaarlijks in de maand januari maakt de leidend ambtenaar een verslag 
 
 ### ART. V 2.
 
-V 2. § 1. Onverminderd de mogelijkheid om de personeelsformatie aan te passen, wordt het personeel binnen de Maatschappij in dienst gehouden.<br /><br />§ 2. Het tekort aan personeel in de Maatschappij wordt opgevuld via aanwervingsplannen opgesteld door de directieraad en goedgekeurd door de raad van bestuur.
+§ 1. Onverminderd de mogelijkheid om het personeelsplan aan te passen, wordt het personeel binnen de Maatschappij in dienst gehouden.<br /><br />§ 2. Het tekort aan personeel in de Maatschappij wordt opgevuld via aanwervingsplannen opgesteld door de directieraad en goedgekeurd door de raad van bestuur.
 
 ### ART. V 3.
 
@@ -376,7 +376,7 @@ VI 26. § 1. De gerechtigde op deze titel moet voldoen aan de aanwervingsvoorwaa
 
 ### ART. VI 27.
 
-VI 27. Het contingent personen met een handicap dat prioritair en op basis van de vacatures, binnen het niveau U en W werk krijgt, bedraagt twee procent van het aantal betrekkingen op de personeelsformatie.
+Het contingent personen met een handicap dat prioritair en op basis van de vacatures, binnen het niveau U en W werk krijgt, bedraagt twee procent van het aantal betrekkingen op het personeelsplan.
 
 ### ART. VI 28.
 
@@ -508,11 +508,11 @@ VII 22. Het stagedoende statutaire personeelslid dat tot de stage toegelaten wer
 
 ### ART. VIII 1.
 
-VIII 1. De personeelsformatie is de lijst van het aantal betrekkingen die de Maatschappij nodig heeft om haar maatschappelijke opdracht, zoals bepaald bij het decreet van 28 juni 1983 houdende oprichting van de instelling Vlaamse Maatschappij voor Watervoorziening, zoals gewijzigd bij decreet van 7 juli 1998 tot wijziging en opheffing van sommige bepalingen van decreten en wetten betreffende sommige Vlaamse openbare instellingen en tot opheffing van wettelijke bepalingen inzake prioritaire aanwerving bij de Vlaamse openbare instellingen, uit te voeren.
+Het personeelsplan is de lijst van het aantal functies die de Maatschappij nodig heeft om haar maatschappelijke opdracht, zoals bepaald bij het decreet van 28 juni 1983 houdende oprichting van de instelling Vlaamse Maatschappij voor Watervoorziening, zoals gewijzigd bij decreet van 7 juli 1998 tot wijziging en opheffing van sommige bepalingen van decreten en wetten betreffende sommige Vlaamse openbare instellingen en tot opheffing van wettelijke bepalingen inzake prioritaire aanwerving bij de Vlaamse openbare instellingen, uit te voeren.
 
 ### ART. VIII 2.
 
-VIII 2. § 1. De personeelsformatie stelt het aantal betrekkingen vast per niveau, per graad en per rang.<br /><br />§ 2. De raad van bestuur stelt voor de Maatschappij een organogram op.
+Binnen de grenzen van de door de Vlaamse Regering vastgestelde personeelsformatie, zoals voorzien in artikel 11 van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut, bepaalt de raad van bestuur in het personeelsplan het aantal functies per niveau, per graad en per rang.
 
 ### ART. VIII 3.
 
