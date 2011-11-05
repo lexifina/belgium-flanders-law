@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020872,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-09 tot wijziging van het besluit van de Vlaamse Regering van 1 december 2000 houdende organisatie van de Vlaamse Maatschappij voor Watervoorziening en de regeling van de rechtspositie van het personeel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020872/VolledigDocument?datum=2011-11-05",
+  "source_sha256": "d66439994116b3e79b3fafcc1445a3f6c64901b0f949e22ea14bfd0b1116f9fe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020872&param=informatie",
+  "as_of": "2011-11-05",
+  "made": "2011-09-09",
+  "gazette": "2011-10-26",
+  "numac": 2011205397,
+  "document_start": "2011-11-05",
+  "document_end": null,
+  "in_force": "2011-11-05",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2011-11-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
