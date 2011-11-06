@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020883,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-30 tot vaststelling van de investeringssubsidies voor de beschutte werkplaatsen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020883/VolledigDocument?datum=2011-11-06",
+  "source_sha256": "5b0c98f3601b570b879f89c0cbb756aa1045c0c4c048929d403d2681ed53c8d2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020883&param=informatie",
+  "as_of": "2011-11-06",
+  "made": "2011-09-30",
+  "gazette": "2011-10-27",
+  "numac": 2011205459,
+  "document_start": "2011-11-06",
+  "document_end": null,
+  "in_force": "2011-11-06",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2011-11-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
