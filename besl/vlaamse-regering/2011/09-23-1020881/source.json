@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020881,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-23 houdende de wijziging van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, inzake dampterugwinning in benzinetankstations",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020881/VolledigDocument?datum=2011-11-06",
+  "source_sha256": "ce75207601df49e7200a2b003196b3422ffc72d2aa427ea341b7634ec6d5a355",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020881&param=informatie",
+  "as_of": "2011-11-06",
+  "made": "2011-09-23",
+  "gazette": "2011-10-27",
+  "numac": 2011205458,
+  "document_start": "2011-11-06",
+  "document_end": null,
+  "in_force": "2011-11-06",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2011-11-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
