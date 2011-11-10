@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021178,
+  "title": "Ministerieel besluit van 2011-11-10 tot overschrijving van de vastleggingsmachtigingen en ordonnanceringskredieten van de begroting van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden voor het begrotingsjaar 2011",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021178/VolledigDocument?datum=2011-11-10",
+  "source_sha256": "c2910fb42e5472c43842068a81b773e38a97440734d038a13ff51c60f07c0fb5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021178&param=informatie",
+  "as_of": "2011-11-10",
+  "made": "2011-11-10",
+  "gazette": "2012-01-17",
+  "numac": 2012200108,
+  "document_start": "2011-11-10",
+  "document_end": null,
+  "in_force": "2011-11-10",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2011-11-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
