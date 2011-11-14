@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020896,
+  "title": "Besluit van de Vlaamse Regering van 2011-10-14 houdende indeling bij de gemeentewegen van de gewestwegen-N344 Capucienenstraat (kmp. 0,000 - kmp. 0,882), N8-M. Haiglaan (kmp. 116,816-kmp. 117,616), N308-J. Capronstraat (kmp. 0,004-kmp. 0,076), N379-Diksmuidsestraat (kmp. 0,000-kmp. 0,475), N379-Diksmuidseweg, Oude Veurnestraat (kmp. 0,650-kmp. 1,736) en bedieningswegen A19 : Roeselaarsestraat (lengte : 244 meter), Verlorenhoekstraat (lengte : 922 meter), Verlorenhoekstraat (lengte : 259 meter) op het grondgebied van de stad Ieper",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020896/VolledigDocument?datum=2011-11-14",
+  "source_sha256": "f75c242e5153db09df572cfcb234162f0bc753257927754579a62f8748ff12a0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020896&param=informatie",
+  "as_of": "2011-11-14",
+  "made": "2011-10-14",
+  "gazette": "2011-11-04",
+  "numac": 2011205571,
+  "document_start": "2011-11-14",
+  "document_end": null,
+  "in_force": "2011-11-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-11-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
