@@ -2,16 +2,16 @@
   "codex_id": 1006527,
   "title": "Ministerieel besluit van 1999-02-09 tot vaststelling van een databankstructuur voor vogels en tot vaststelling van de voorwaarden waaronder ringleveringen worden gemeld",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006527/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "52888c60889ebbfa5dc04e266b2f97facda9811c96200b5363468ca9e881ac25",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006527/VolledigDocument?datum=2011-11-15",
+  "source_sha256": "9cd3241b0d375aba3503d33211156efb900ebc5b12aeec669a01269682c645cc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006527&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-11-15",
   "made": "1999-02-09",
   "gazette": "1999-02-20",
   "numac": 1999035215,
   "document_start": null,
   "document_end": "2011-11-14",
-  "in_force": "2006-06-01",
+  "in_force": "2011-11-15",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-11-15; future article versions excluded; article text as the API gives it"
 }
