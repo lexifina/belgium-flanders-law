@@ -2,16 +2,16 @@
   "codex_id": 1000935,
   "title": "Ministerieel besluit van 1981-09-14 waarbij het houden van vogels en een tijdelijke bevoorrading in vogels wordt toegestaan in toepassing van de bepalingen van het koninklijk besluit van 9 september 1981 betreffende de bescherming van vogels in het Vlaamse Gewest",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000935/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f6d82459818f11cdcdce0019d23e60d6d035661a4d61e88c81b97e18086a592f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000935/VolledigDocument?datum=2011-11-15",
+  "source_sha256": "b69e6fb4cfaca3bd96dca5f45ef62d65e8154f160cbed6c4568367f495038c43",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000935&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2011-11-15",
   "made": "1981-09-14",
   "gazette": "1981-11-13",
   "numac": 0,
   "document_start": null,
   "document_end": "2011-11-14",
-  "in_force": "2006-06-01",
+  "in_force": "2011-11-15",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-11-15; future article versions excluded; article text as the API gives it"
 }
