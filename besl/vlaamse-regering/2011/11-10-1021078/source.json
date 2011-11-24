@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021078,
+  "title": "Besluit van de Vlaamse Regering van 2011-11-10 betreffende de overdracht van sommige personeelsleden van het agentschap Toerisme Vlaanderen aan het Departement Diensten voor het Algemeen Regeringsbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021078/VolledigDocument?datum=2011-11-24",
+  "source_sha256": "97f87da0ce5546dfb7bc35ad11937e8c4ecefc44dd8b3da4add8f83910e9f3cf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021078&param=informatie",
+  "as_of": "2011-11-24",
+  "made": "2011-11-10",
+  "gazette": "2011-12-14",
+  "numac": 2011035979,
+  "document_start": "2011-11-24",
+  "document_end": null,
+  "in_force": "2011-11-24",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2011-11-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
