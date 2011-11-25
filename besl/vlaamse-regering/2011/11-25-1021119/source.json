@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021119,
+  "title": "Besluit van de Vlaamse Regering van 2011-11-25 tot wijziging van het besluit van de Vlaamse Regering van 1 september 2006 houdende de voorwaarden van de vaststelling, de uitbetaling en de terugvordering van de subsidies van de zorgkassen in het kader van de zorgverzekering, wat betreft de subsidies voor het project digitaal platform Vlaamse Zorgverzekering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021119/VolledigDocument?datum=2011-11-25",
+  "source_sha256": "47f24aac59b22f1aa883be49e55eb49bb5c984ffc354eb30689e09892de75dea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021119&param=informatie",
+  "as_of": "2011-11-25",
+  "made": "2011-11-25",
+  "gazette": "2011-12-23",
+  "numac": 2011036016,
+  "document_start": "2011-11-25",
+  "document_end": null,
+  "in_force": "2011-11-25",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-11-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
