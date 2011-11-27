@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020914,
+  "title": "Besluit van de Vlaamse Regering van 2011-10-21 tot erkenning van de Master in International Relations, de Master in International Conflict Analysis, de Master in International Political Economy, de LLM in International Law with International Relations, de LLM in International Economic Law als nieuwe opleiding van The University of Kent",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020914/VolledigDocument?datum=2011-11-27",
+  "source_sha256": "62a542dfea3e776ca8e07280ade87a03845bd11d67d97fce62aa60b468397f4f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020914&param=informatie",
+  "as_of": "2011-11-27",
+  "made": "2011-10-21",
+  "gazette": "2011-11-17",
+  "numac": 2011205740,
+  "document_start": "2011-11-27",
+  "document_end": null,
+  "in_force": "2011-11-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-11-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
