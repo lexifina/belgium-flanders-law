@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020906,
+  "title": "Ministerieel besluit van 2011-10-20 tot vaststelling van bepaalde afwijkingen voor het in de handel brengen van zaaizaadmengsels van groenvoedergewassen die bestemd zijn voor gebruik bij het behoud van de natuurlijke omgeving",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020906/VolledigDocument?datum=2011-11-30",
+  "source_sha256": "b610460d443b645126aa866cce3a842c68f07f4ec1fec0aef024c6b9fb972f0f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020906&param=informatie",
+  "as_of": "2011-11-30",
+  "made": "2011-10-20",
+  "gazette": "2011-11-10",
+  "numac": 2011205606,
+  "document_start": "2011-11-30",
+  "document_end": null,
+  "in_force": "2011-11-30",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2011-11-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
