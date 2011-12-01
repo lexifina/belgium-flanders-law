@@ -2,16 +2,16 @@
   "codex_id": 1016994,
   "title": "Decreet van 2008-07-10 betreffende het toeristische logies",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016994/VolledigDocument?datum=2011-01-10",
-  "source_sha256": "0f3e9fc53848191cc0ac8a255e46ae242e3e7794ecdde31c2fcef87a73a2ca74",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016994/VolledigDocument?datum=2011-12-01",
+  "source_sha256": "4e7a0893172990d0220de6c57599f1742ac552ac8331d6156c191e966e6d61f8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016994&param=informatie",
-  "as_of": "2011-01-10",
+  "as_of": "2011-12-01",
   "made": "2008-07-10",
   "gazette": "2008-08-26",
   "numac": 2008202885,
   "document_start": "2010-01-01",
   "document_end": "2017-03-31",
-  "in_force": "2011-01-10",
+  "in_force": "2011-12-01",
   "article_versions": 34,
-  "record_form": "consolidated version as in force on 2011-01-10; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-12-01; future article versions excluded; article text as the API gives it"
 }
