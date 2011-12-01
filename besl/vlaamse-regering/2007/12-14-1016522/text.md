@@ -6,19 +6,19 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 20 maart 1984 houdende 
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° het decreet van 20 maart 1984 : het decreet van 20 maart 1984 houdende het statuut van de logiesverstrekkende bedrijven;<br />2° het decreet van 3 maart 1993 : het decreet van 3 maart 1993 houdende het statuut van de terreinen voor openluchtrecreatieve verblijven;<br />3° het decreet van 18 juli 2003 : het decreet van 18 juli 2003 betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van "Toerisme voor Allen".<br /><br />
+In dit besluit wordt verstaan onder :<br />1° ...<br />2° ...<br />3° het decreet van 18 juli 2003 : het decreet van 18 juli 2003 betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van "Toerisme voor Allen".<br /><br />
 
 ### ART. 2.
 
-Het personeel dat Toerisme Vlaanderen heeft aangewezen, is bevoegd om toezicht en controle uit te oefenen op de naleving van het decreet van 20 maart 1984, het decreet van 3 maart 1993 en het decreet van 18 juli 2003, en op de naleving van de uitvoeringsbesluiten ervan.<br /><br />
+Het personeel dat Toerisme Vlaanderen heeft aangewezen, is bevoegd om toezicht en controle uit te oefenen op de naleving van de bepalingen van het decreet van 18 juli 2003 en de uitvoeringsbesluiten ervan.
 
 ### ART. 3.
 
-Het proces-verbaal, vermeld in artikel 8 van het decreet van 20 maart 1984, in artikel 9 van het decreet van 3 maart 1993 en in artikel 16 van het decreet van 18 juli 2003, bevat ten minste de volgende gegevens :<br />1° de identiteit en de hoedanigheid van de opsteller;<br />2° de datum en plaats van verbalisering;<br />3° de materiële vaststellingen, inclusief de omstandigheden ten tijde van de vaststellingen;<br />4° de handtekening van de opsteller.<br /><br />
+Het proces-verbaal, vermeld in artikel 16 van het decreet van 18 juli 2003, bevat ten minste de volgende gegevens :<br />1° de identiteit en de hoedanigheid van de opsteller;<br />2° de datum en plaats van verbalisering;<br />3° de materiële vaststellingen, inclusief de omstandigheden ten tijde van de vaststellingen;<br />4° de handtekening van de opsteller.<br /><br />
 
 ### ART. 4.
 
-De administratieve geldboeten, vermeld in artikel 7 van het decreet van 20 maart 1984, in artikel 8 van het decreet van 3 maart 1993 en in artikel 15 van het decreet van 18 juli 2003, moeten binnen dertig kalenderdagen betaald worden.<br /><br />
+De administratieve geldboeten, vermeld in artikel 15 van het decreet van 18 juli 2003, moeten binnen dertig kalenderdagen betaald worden.<br /><br />
 
 ### ART. 5.
 
