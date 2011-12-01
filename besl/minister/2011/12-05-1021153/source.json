@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021153,
+  "title": "Ministerieel besluit van 2011-12-05 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan de derde prioritaire groep in 2011",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021153/VolledigDocument?datum=2011-12-01",
+  "source_sha256": "3357616138bcd0f587e73cf368fd0fdf4ec8b1e3aa4cd68fb18c3f1e174c2d43",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021153&param=informatie",
+  "as_of": "2011-12-01",
+  "made": "2011-12-05",
+  "gazette": "2012-01-10",
+  "numac": 2011206510,
+  "document_start": "2011-12-01",
+  "document_end": null,
+  "in_force": "2011-12-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2011-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
