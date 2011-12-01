@@ -485,7 +485,7 @@ De overgangsbepalingen die op de voorzieningen en de verenigingen betrekking heb
 
 ### ART. 80.
 
-Uiterlijk op 1 januari 2012 moeten de voorzieningen en de verenigingen een eerste maal een zelfevaluatie als vermeld in artikel 6, § 2, tweede lid, hebben uitgevoerd.<br /><br />
+Een zelfevaluatie als vermeld in artikel 6, § 2, tweede lid, van dit besluit moet een eerste maal zijn uitgevoerd : <br />1° uiterlijk op 1 januari 2012 door de thuiszorgvoorzieningen en verenigingen die voor 1 januari 2010 erkend waren met toepassing van het decreet van 14 juli 1998 houdende de erkenning en de subsidiëring van verenigingen en welzijnsvoorzieningen in de thuiszorg of van het besluit van de Vlaamse Regering van 21 december 1990 houdende coördinatie en ondersteuning van de thuisverzorging;<br />2° uiterlijk op 31 juli 2013 door de ouderenvoorzieningen die op die datum meer dan een jaar erkend zijn.<br />
 
 ### ART. 81.
 
@@ -939,7 +939,7 @@ Als gedurende twee opeenvolgende jaren de resultaatgerichte indicatoren, vermeld
 
 ### ART. 9.
 
-De diensten die op de datum van de inwerkingtreding van dit besluit erkend zijn als centrum voor algemeen welzijnswerk in het kader van de ziekenfondsen, worden vanaf die datum van rechtswege erkend als dienst maatschappelijk werk van het ziekenfonds. Ze beantwoorden uiterlijk twee jaar na de datum van inwerkingtreding van dit besluit aan de erkenningsvoorwaarden, vermeld in het woonzorgdecreet van 13 maart 2009 en dit besluit.<br /><br />
+De diensten die op de datum van de inwerkingtreding van dit besluit erkend zijn als centrum voor algemeen welzijnswerk in het kader van de ziekenfondsen, worden vanaf die datum van rechtswege erkend als dienst maatschappelijk werk van het ziekenfonds. Ze beantwoorden uiterlijk twee jaar na de datum van inwerkingtreding van dit besluit aan de erkenningsvoorwaarden, vermeld in het woonzorgdecreet van 13 maart 2009 en dit besluit.<br /><br />In afwijking van het eerste lid moeten de diensten de resultaatgerichte indicatoren, vermeld in artikel 3, B, 1°, bereiken vanaf 1 januari 2013.<br /><br />
 
 ### ART. 10.
 
