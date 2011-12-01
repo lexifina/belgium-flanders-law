@@ -183,7 +183,7 @@ In artikel 102bis van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode,
 
 ### ART. 21.
 
-§ 1. Bij het beleidsdomein Mobiliteit en Openbare Werken wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht als bedoeld in artikel 10 van het kaderdecreet. Dit agentschap draagt als naam "Fonds Stationsomgevingen" en wordt hierna het Fonds genoemd.<br /><br />§ 2. Het Fonds heeft als opdracht de infrastructurele kosten van de herinrichting van stationsomgevingen te dragen. Onder de infrastructurele kosten worden zowel de studiekosten, eventuele onteigeningskosten en de effectieve uitvoering verstaan.<br /><br />
+...
 
 ### ART. 22.
 
