@@ -6,92 +6,92 @@ De Vlaamse Minister van Bestuurszaken, Binnenlands Bestuur, Inburgering, Toerism
 
 ### ART. 1.
 
-Het model van het herkenningsteken voor een vergund toeristisch logies van de categorie hotel is bepaald in bijlage 1, die bij dit besluit is gevoegd.
+...
 
 ### ART. 2.
 
-Het model van het herkenningsteken voor een vergund toeristisch logies van de categorie gastenkamer dat beschikt over een comfortclassificatie als vermeld in bijlage 2 van het ministerieel besluit van 27 november 2009 tot bepaling van classificatienormen inzake comfort voor een vergund toeristisch logies, is bepaald in bijlage 2, die bij dit besluit is gevoegd.
+...
 
 ### ART. 3.
 
-Het model van het herkenningsteken voor een vergund toeristisch logies van de categorie gastenkamer dat beschikt over een comfortclassificatie als vermeld in bijlage 3 van het ministerieel besluit van 27 november 2009 tot bepaling van classificatienormen inzake comfort voor een vergund toeristisch logies, is bepaald in bijlage 3, die bij dit besluit is gevoegd.
+...
 
 ### ART. 4.
 
-Het model van het herkenningsteken voor een vergund toeristisch logies van de categorie vakantiewoning is bepaald in bijlage 4, die bij dit besluit is gevoegd.
+...
 
 ### ART. 5.
 
-Het model van het herkenningsteken voor een vergund toeristisch logies van de subcategorie camping is bepaald in bijlage 5, die bij dit besluit is gevoegd.
+...
 
 ### ART. 6.
 
-Het model van het herkenningsteken voor een vergund toeristisch logies van de subcategorie minicamping is bepaald in bijlage 6, die bij dit besluit is gevoegd.
+...
 
 ### ART. 7.
 
-Het model van het herkenningsteken voor een vergund toeristisch logies van de subcategorie verblijfpark is bepaald in bijlage 7, die bij dit besluit is gevoegd.
+...
 
 ### ART. 8.
 
-Het model van het herkenningsteken voor een vergund toeristisch logies van de subcategorie kampeerautoterrein is bepaald in bijlage 8, die bij dit besluit is gevoegd.
+...
 
 ### ART. 8/1.
 
-Het model van het herkenningsteken voor een vergund toeristisch logies van de subcategorie vakantiepark is bepaald in bijlage 8/1, die bij dit besluit is gevoegd.
+...
 
 ### ART. 9.
 
-Het model van het herkenningsteken voor een vergund toeristisch logies van de subcategorie trekkershut is bepaald in bijlage 9, die bij dit besluit is gevoegd.
+...
 
 ### ART. 10.
 
-Het model van het herkenningsteken voor een vergund toeristisch logies van de subcategorie vakantielogies is bepaald in bijlage 10, die bij dit besluit is gevoegd.
+...
 
 ### ART. 11.
 
-Dit besluit treedt in werking op 1 januari 2010.
+...
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/24_1.pdf#page=106" title=" Bijlage 1" target="_blank" class="pdf">Bijlage 1</a>
+...
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/24_1.pdf#page=107" title=" Bijlage 2" target="_blank" class="pdf">Bijlage 2</a>
+...
 
 ### BIJLAGE 3
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/24_1.pdf#page=108" title=" Bijlage 3" target="_blank" class="pdf">Bijlage 3</a>
+...
 
 ### BIJLAGE 4
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/24_1.pdf#page=109" title=" Bijlage 4" target="_blank" class="pdf">Bijlage 4</a>
+...
 
 ### BIJLAGE 5
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/24_1.pdf#page=110" title=" Bijlage 5" target="_blank" class="pdf">Bijlage 5</a>
+...
 
 ### BIJLAGE 6
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/24_1.pdf#page=111" title=" Bijlage 6" target="_blank" class="pdf">Bijlage 6</a>
+...
 
 ### BIJLAGE 7
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/24_1.pdf#page=112" title=" Bijlage 7" target="_blank" class="pdf">Bijlage 7</a>
+...
 
 ### BIJLAGE 8
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/24_1.pdf#page=113" title=" Bijlage 8" target="_blank" class="pdf">Bijlage 8</a>
+...
 
 ### BIJLAGE 8/1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/08/30_1.pdf#page=123" title=" Tekening" target="_blank" class="pdf">Tekening</a>
+...
 
 ### BIJLAGE 9
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/24_1.pdf#page=114" title=" Bijlage 9" target="_blank" class="pdf">Bijlage 9</a>
+...
 
 ### BIJLAGE 10
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/24_1.pdf#page=115" title=" Bijlage 10" target="_blank" class="pdf">Bijlage 10</a>
+...
