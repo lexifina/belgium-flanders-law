@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 7 mei 2004 tot oprichti
 
 ### ART. 1.
 
-Binnen de perken van de daarvoor op de begroting vastgelegde kredieten kan het Vlaams Agentschap voor Personen met een Handicap, hierna het agentschap te noemen, aan maximaal tweehonderd door het agentschap bepaalde personen met een handicap een persoongebonden budget, hierna PGB te noemen, toekennen, voor maximaal twee jaar en bij wijze van experiment.<br /><br />Na afloop van de periode van twee jaar, vermeld in het eerste lid, blijven de personen met een handicap, vermeld in het eerste lid, hun PGB continueren tot op 31 december 2011.
+Binnen de perken van de daarvoor op de begroting vastgelegde kredieten kan het Vlaams Agentschap voor Personen met een Handicap, hierna het agentschap te noemen, aan maximaal tweehonderd door het agentschap bepaalde personen met een handicap een persoongebonden budget, hierna PGB te noemen, toekennen, voor maximaal twee jaar en bij wijze van experiment.<br /><br />Na afloop van de periode van twee jaar, vermeld in het eerste lid, kunnen de personen met een handicap, vermeld in het eerste lid, hun PGB continueren tot op 31 december 2013.
 
 ### ART. 2.
 
@@ -34,7 +34,7 @@ De personen met een handicap en de zorgaanbieders die aan het experiment deelnem
 
 ### ART. 6.
 
-Het agentschap bepaalt de hoogte van het PGB op basis van de resultaten van het voortraject.
+Het agentschap bepaalt de hoogte van het PGB op basis van de resultaten van het voortraject.<br /><br />Het door het agentschap bepaalde PGB, vermeld in het eerste lid, wordt vanaf 1 januari 2012 jaarlijks aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule :<br /><br />bedrag van het jaar x = (bedrag van het jaar x-1 x G-index december jaar x-1)/G-index december jaar x-2<br /><br />Als het overeenkomstig het tweede lid berekende bedrag van het jaar x lager is dan het bedrag van het jaar x-1, wordt de aanpassing van de bedragen, vermeld in het tweede lid, niet toegepast, maar verrekend met de volgende indexaanpassing. In dat geval worden de bedragen, vermeld in het tweede lid, van dat volgende jaar aangepast, rekening houdend met het feit dat de noemer van de breuk gevormd wordt door de noemer die gebruikt wordt voor de berekening van de bedragen van het voorgaande jaar. <br /><br /><br />
 
 ### ART. 7.
 
