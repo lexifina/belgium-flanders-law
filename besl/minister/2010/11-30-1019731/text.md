@@ -6,12 +6,12 @@ De Vlaamse minister van Energie, Wonen, Steden en Sociale Economie,<br /><br />G
 
 ### ART. 1.
 
-De tabel, vermeld in artikel 5.4.7, derde lid van het Energiebesluit van 19 november 2010 gaat als bijlage 1 bij dit besluit.<br /><br />
+...
 
 ### ART. 2.
 
-Dit besluit treedt in werking op 1 december 2010.<br /><br />
+...
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2010/12/03_1.pdf#page=18" title=" Tabel" target="_blank" class="pdf">Tabel</a>
+...
