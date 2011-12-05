@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020960,
+  "title": "Besluit van de Vlaamse Regering van 2011-09-30 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode en tot wijziging van artikel 17 van het besluit van de Vlaamse Regering van 12 oktober 2007 houdende de financiering van de sociale huisvestingsmaatschappijen voor de realisatie van sociale huurwoningen en de daaraan verbonden werkingskosten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020960/VolledigDocument?datum=2011-12-05",
+  "source_sha256": "5920ef432dd512495309249c8cc57ee7f3e1c87eb04bb4d67e23091de80a5b25",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020960&param=informatie",
+  "as_of": "2011-12-05",
+  "made": "2011-09-30",
+  "gazette": "2011-11-25",
+  "numac": 2011035954,
+  "document_start": "2011-12-05",
+  "document_end": null,
+  "in_force": "2011-12-05",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2011-12-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
