@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023465,
+  "title": "Besluit van de Vlaamse Regering van 2013-10-04 tot wijziging van diverse bepalingen betreffende het woonbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023465/VolledigDocument?datum=2011-12-05",
+  "source_sha256": "8e61bcc33e1a8b4871ed655dfef218fe440cf961eb26b773709e2f7eea66e0e8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023465&param=informatie",
+  "as_of": "2011-12-05",
+  "made": "2013-10-04",
+  "gazette": "2013-12-13",
+  "numac": 2013036092,
+  "document_start": "2013-12-23",
+  "document_end": null,
+  "in_force": "2011-12-05",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2011-12-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
