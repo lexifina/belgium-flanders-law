@@ -732,6 +732,10 @@ De Vlaamse Regering bepaalt de categorieën van energiedeskundigen. Ze legt de p
 
 Voor de aflevering van energieprestatiecertificaten bij bouw wordt de verslaggever aangewezen als energiedeskundige.
 
+### ART. 10.1.4.
+
+De Vlaamse Regering kan voorwaarden vastleggen waaraan de opleidingsinstellingen voor de energiedeskundigen of de aannemers, vermeld in artikel 10.1.5, dienen te voldoen.<br /><br />De Vlaamse Regering kan de procedure voor de erkenning van de opleidingsinstellingen en de procedure en voorwaarden voor de schorsing en intrekking van die erkenning vastleggen. De Vlaamse Regering kan ook kwaliteitseisen vastleggen en wijst de instantie aan die belast is met de controle op hun werkzaamheden.<br /><br />De Vlaamse Regering kan tevens de inhoud van de door de erkende opleidingsinstellingen aan de energiedeskundigen en de aannemers te verstrekken opleidingen bepalen.
+
 ## TITEL XI. ENERGIEPRESTATIES VAN GEBOUWEN
 
 ## HOOFDSTUK I. Energieprestaties en binnenklimaat van gebouwen
