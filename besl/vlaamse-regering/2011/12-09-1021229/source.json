@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021229,
+  "title": "Besluit van de Vlaamse Regering van 2011-12-09 houdende tweede verdeling 2011 van het provisioneel krediet voor de uitgaven in het kader van het werkgelegenheids- en investeringsplan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021229/VolledigDocument?datum=2011-12-09",
+  "source_sha256": "a1f6fabaf4ef697610a49d4670281c2746674c5e1bfec54dddf7e6872d23ead0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021229&param=informatie",
+  "as_of": "2011-12-09",
+  "made": "2011-12-09",
+  "gazette": "2012-02-03",
+  "numac": 2012035097,
+  "document_start": "2011-12-09",
+  "document_end": null,
+  "in_force": "2011-12-09",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2011-12-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
