@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021060,
+  "title": "Ministerieel besluit van 2011-11-28 houdende de totale hoeveelheid emissierechten die voor het jaar 2012 wordt toegewezen aan Sia Cargo PTE LTD, de totale hoeveelheid emissierechten die voor de periode 2013-2020 wordt toegewezen aan Sia Cargo PTE LTD en de hoeveelheid emissierechten die voor elk jaar van de periode 2013-2020 aan Sia Cargo PTE LTD wordt toegewezen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021060/VolledigDocument?datum=2011-12-12",
+  "source_sha256": "bc4517afa0a2e44f7b0693bc9317a40bcbb12e66671160b77272e1c17719811b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021060&param=informatie",
+  "as_of": "2011-12-12",
+  "made": "2011-11-28",
+  "gazette": "2011-12-12",
+  "numac": 2011206122,
+  "document_start": "2011-12-12",
+  "document_end": null,
+  "in_force": "2011-12-12",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2011-12-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
