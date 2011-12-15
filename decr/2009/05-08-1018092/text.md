@@ -8,11 +8,11 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ### ART. 1.1.2.
 
-Dit decreet voorziet, voor wat de bevoegdheden van het Vlaamse Gewest betreft, in de omzetting van :<br />1° de Richtlijn 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG;<br />2° de richtlijn 2002/91/EG van het Europees Parlement en de Raad van 16 december 2002 betreffende de energieprestaties van gebouwen;<br />3° de Richtlijn 2009/72/EG betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot intrekking van richtlijn 2003/54/EG; <br />4° de Richtlijn 2009/73/EG van 13 juli 2009 betreffende gemeenschappelijke regels voor de interne markt voor aardgas en tot intrekking van Richtlijn 2003/55/EG; <br />5° de richtlijn 2003/87/EG van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van richtlijn 96/61/EG van de Raad, zoals tot op heden gewijzigd;<br />6° de richtlijn 2004/8/EG van het Europees Parlement en de Raad van 11 februari 2004 inzake de bevordering van warmtekrachtkoppeling op basis van de vraag naar nuttige warmte binnen de interne energiemarkt en tot wijziging van richtlijn 92/42/EEG;<br />7° de richtlijn 2006/32/EG van het Europees Parlement en de Raad van 5 april 2006 betreffende de energie-efficiëntie bij het eindgebruik en energiediensten en houdende intrekking van richtlijn 93/76/EEG van de Raad.
+Dit decreet voorziet, voor wat de bevoegdheden van het Vlaamse Gewest betreft, in de omzetting van :<br />1° de Richtlijn 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG;<br />2° de richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen;<br />3° de Richtlijn 2009/72/EG betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot intrekking van richtlijn 2003/54/EG; <br />4° de Richtlijn 2009/73/EG van 13 juli 2009 betreffende gemeenschappelijke regels voor de interne markt voor aardgas en tot intrekking van Richtlijn 2003/55/EG; <br />5° de richtlijn 2003/87/EG van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van richtlijn 96/61/EG van de Raad, zoals tot op heden gewijzigd;<br />6° de richtlijn 2004/8/EG van het Europees Parlement en de Raad van 11 februari 2004 inzake de bevordering van warmtekrachtkoppeling op basis van de vraag naar nuttige warmte binnen de interne energiemarkt en tot wijziging van richtlijn 92/42/EEG;<br />7° de richtlijn 2006/32/EG van het Europees Parlement en de Raad van 5 april 2006 betreffende de energie-efficiëntie bij het eindgebruik en energiediensten en houdende intrekking van richtlijn 93/76/EEG van de Raad.
 
 ### ART. 1.1.3.
 
-In dit decreet wordt verstaan onder :<br />1° aangifteplichtige : een natuurlijke persoon of rechtspersoon die de EPB-eisen moet naleven;<br />2° aansluitbaarheidsgraad : het aantal ontsloten wooneenheden of gebouwen in verhouding tot het totaal aantal wooneenheden en gebouwen in een bepaald gebied;<br />3° aansluitbare wooneenheid of gebouw : wooneenheid die of gebouw dat nog niet aangesloten is op het aardgasdistributienet, en waarbij aan één van de volgende voorwaarden is voldaan :<br />a) er is een lagedrukleiding aanwezig langs de openbare weg aan dezelfde kant van de weg en ter hoogte van de wooneenheid of het gebouw;<br />b) de wooneenheid of het gebouw is niet gelegen in een gebied dat bestemd is voor bewoning en er is een lagedrukleiding aanwezig langs de openbare weg ter hoogte van de wooneenheid of het gebouw, al of niet aan dezelfde kant van de wooneenheid of het gebouw;<br />c) een middendrukleiding, categorie A of B, is aanwezig langs de openbare weg ter hoogte van de wooneenheid of het gebouw en deze leiding is specifiek aangelegd voor het aansluiten van respectievelijk wooneenheden of gebouwen;<br />4° aansluitingsgraad : het aantal aangesloten wooneenheden en gebouwen in verhouding tot het totaal aantal wooneenheden en gebouwen in een bepaald gebied;<br />5° aardgas : elke gasvormige brandstof van ondergrondse oorsprong die hoofdzakelijk uit methaan bestaat, met inbegrip van vloeibaar aardgas;<br />6° aardgasdistributienet : geheel van onderling verbonden leidingen en de daarmee verbonden hulpmiddelen, die noodzakelijk zijn voor de distributie van aardgas aan afnemers binnen een geografisch afgebakend gebied in het Vlaamse Gewest en dat geen gesloten distributienet, privédistributienet of directe leiding betreft;<br />7° aardgasdistributienetbeheerder : beheerder van een aardgasdistributienet, aangewezen overeenkomstig artikel 4.1.1; <br />8° aardgasinvoerder : iedere natuurlijke persoon of rechtspersoon die aardgas invoert in België;<br />8°/1 ACER : het agentschap, opgericht overeenkomstig verordening nr. 713/2009 van het Europees Parlement en de Raad van 13 juli 2009 tot oprichting van een agentschap voor de samenwerking tussen energieregulators.<br />8°/2 achterliggende afnemer : de natuurlijke persoon of rechtspersoon die elektriciteit of aardgas afneemt van een gesloten distributienet of een privédistributienet;<br />8°/3 achterliggende netgebruiker : natuurlijke persoon of rechtspersoon die elektriciteit of aardgas injecteert op of afneemt van een gesloten distributienet of een privédistributienet;<br />9° actieverplichting : een door de Vlaamse Regering aan de netbeheerders in het kader van een openbaredienstverplichting opgelegde REG-actie;<br />9°/1 aerothermische energie : energie die in de vorm van warmte is opgeslagen in de omgevingslucht;<br />10° afnamepunt : punt waar elektriciteit of aardgas van het net wordt afgenomen en verbruikt;<br />11° afnemer : elke natuurlijke persoon of rechtspersoon die elektriciteit of aardgas afneemt om te voorzien in zijn eigen behoeftes;<br />12° afsluiten : het buiten dienst stellen van de aansluiting of het ontzeggen van de toegang tot het net door de aansluiting af te koppelen van de installaties van de afnemer;<br />13° allocatie : toewijzing van energiehoeveelheden aan de verschillende marktpartijen;<br />14° beschermd volume : het beschermde volume van het gebouw zoals dat gedefinieerd is in de Belgische norm of de door de Vlaamse overheid vastgelegde specificaties;<br />15° bevoegde autoriteit : de instantie aangewezen voor enkele specifieke taken zoals vermeld in verordening (EG) nr. 2216/2004 van de Commissie van 21 december 2004 inzake een gestandaardiseerd en beveiligd registersysteem overeenkomstig richtlijn 2003/87/EG van het Europees Parlement en de Raad en beschikking 280/2004/EG van het Europees Parlement en de Raad zoals gewijzigd bij verordening (EG) nr. 916/2007 van de Commissie van 31 juli 2007, zijnde de afdeling van het departement Leefmilieu, Natuur en Energie, bevoegd voor luchtverontreiniging;<br />16° bevrachter : rechtspersoon die een contract heeft afgesloten met een vervoeronderneming met betrekking tot het vervoer van aardgas tussen een of meer injectiepunten en afnamepunten op het vervoernet;<br />17° bijzondere reserve : 3 % van de totale hoeveelheid toe te wijzen emissierechten in de periode 2013-2020;<br />18° Bijzondere reserve-emissierechtenbesluit : het besluit van de Europese Commissie, bedoeld in artikel 3septies, vijfde lid, van richtlijn 2003/87/EG van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van richtlijn 96/61/EG van de Raad;<br />18°/1 biobrandstoffen : vloeibare of gasvormige brandstof voor vervoer die geproduceerd is uit biomassa;<br />18°/2 biomassa : de biologisch afbreekbare fractie van producten, afvalstoffen en residuen van biologische oorsprong van de landbouw (met inbegrip van plantaardige en dierlijke stoffen), de bosbouw en aanverwante bedrijfstakken, met inbegrip van de visserij en de aquacultuur, alsmede de biologisch afbreekbare fractie van industrieel en huishoudelijk afval;<br />19° BKG-inrichting : een inrichting die in de vierde kolom van de indelingslijst in bijlage I, van titel I, van het VLAREM is aangegeven met de letter Y, en die de vaste technische eenheid omvat waarin de activiteiten en processen, vermeld in de tweede kolom, alsmede andere daarmee rechtstreeks samenhangende activiteiten, plaatsvinden die technisch in verband staan met de op die plaats ten uitvoer gebrachte activiteiten, en die gevolgen kunnen hebben voor de emissies en de verontreiniging;<br />20° brandstofleveranciers : elke natuurlijke persoon of rechtspersoon die aan afnemers aardgas, stookolie, steenkool, methaan, butaan en propaan levert;<br />21° broeikasgassen : koolstofdioxide (CO2), methaan (CH4), distikstofoxide (N2O), onvolledig gefluoreerde koolwaterstoffen (HFK's), perfluorkoolwaterstoffen (PFK's) en zwavelhexafluoride (SF6);<br />22° bruto binnenlands energieverbruik : het primaire energieverbruik verminderd met de geleverde energie aan de internationale lucht- en scheepvaartbunkers;<br />23° budgetmeter : een budgetmeter voor elektriciteit of een budgetmeter voor aardgas;<br />24° budgetmeter voor aardgas : aardgasmeter met hulpkrediet die wordt opgeladen via een systeem van voorafbetaling;<br />25° budgetmeter voor elektriciteit : elektriciteitsmeter met begrenzer op 10 ampère en hulpkrediet die wordt opgeladen met een systeem van voorafbetaling;<br />25°/1 datum van indienstneming : datum waarop een productie-installatie voor het eerst in dienst werd genomen of datum waarop een warmte-krachtinstallatie ingrijpend gewijzigd werd;<br />26° directe lijn : een elektriciteitslijn met een nominale spanning die gelijk is aan of minder is dan 70 kilovolt, die een productieinstallatie met een afnemer verbindt; <br />27° directe leiding : elke leiding voor aardgasdistributie die geen deel uitmaakt van een aardgasdistributienet;<br />28° distributie : de activiteit die erin bestaat elektriciteit via elektrische lijnen met een nominale spanning die gelijk is aan of minder is dan 70 kilovolt, of aardgas via plaatselijke aardgasleidingen te brengen tot bij afnemers, de levering zelf niet inbegrepen; <br />29° distributienet : elektriciteitsdistributienet of aardgasdistributienet;<br />30° distributienetbeheerder : elektriciteitsdistributienetbeheerder of aardgasdistributienetbeheerder;<br />30°/1 eigen site : het kadastrale perceel of de aansluitende kadastrale percelen van dezelfde natuurlijke persoon of rechtspersoon als eigenaar, opstalhouder of concessiehouder; <br />31° eindverbruiksector : ondernemingen en particulieren die energie afnemen of produceren om geheel of overwegend in de eigen energiebehoefte te voorzien;<br />32° elektriciteitsdistributienet : geheel van onderling verbonden elektrische leidingen met een nominale spanning die gelijk is aan of minder is dan 70 kilovolt, en de bijbehorende installaties, die noodzakelijk zijn voor de distributie van elektriciteit aan afnemers binnen een geografisch afgebakend gebied in het Vlaamse Gewest, dat geen gesloten distributienet, privédistributienet of directe lijn is; <br />33° elektriciteitsdistributienetbeheerder : beheerder van een elektriciteitsdistributienet, aangewezen overeenkomstig artikel 4.1.1;<br />34° emissie : emissie van broeikasgassen in de atmosfeer door in een BKG-inrichting aanwezige bronnen, of de emissie door een vliegtuig van CO2 ten gevolge van een luchtvaartactiviteit die nader door de Vlaamse Regering bepaald zal worden;<br />35° emissierecht : een overdraagbaar recht om gedurende een bepaalde periode één ton CO2-equivalent aan broeikasgassen uit te stoten;<br />36° Emissierechtenbesluit : het besluit van de Europese Commissie, bedoeld in artikel 3sexies, derde lid, van richtlijn 2003/87/EG van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van richtlijn 96/61/EG van de Raad;<br />37° energiebeleidsovereenkomst : iedere overeenkomst tussen het Vlaamse Gewest, vertegenwoordigd door de Vlaamse Regering, en een andere partij, waarbij die andere partij zich engageert om binnen een afgesproken termijn een vooropgestelde verbetering inzake energie-efficiëntie te behalen of te stimuleren, tot de wereldtop inzake energie-efficiëntie in haar sector te behoren of een bepaald percentage van het energieverbruik te dekken met behulp van hernieuwbare energietechnologieën of daarvoor stimulansen te verstrekken;<br />38° energieboekhouding : het regelmatig meten, registreren, analyseren en rapporteren van het energiegebruik;<br />39° energiedeskundige : de natuurlijke persoon die onderworpen is aan het sociaal statuut van de zelfstandige of de bezoldigde medewerker van een rechtspersoon, die energieadvies verstrekt;<br />40° energiedrager : kolen en afgeleide producten, petroleumproducten, gas, elektriciteit, hernieuwbare energiebronnen, warmte en nucleaire warmte;<br />41° energiekengetal : het gemiddelde van het energieverbruik in een sector in verhouding tot een parameter die bepalend is voor het energieverbruik in die sector;<br />42° energieplan : een systematische, gedocumenteerde en objectieve evaluatie van het beheer, de organisatie en de uitrusting van de betrokken onderneming, de niet-commerciële instelling of de publiekrechtelijke rechtspersoon op het gebied van energie-efficiëntie, waarbij de mogelijke maatregelen inzake de verbetering van de energie-efficiëntie in kaart worden gebracht;<br />43° energieprestatiecertificaat : een certificaat waarin het resultaat is vermeld van de berekening van de totale energie-efficiëntie van een gebouw, uitgedrukt in een of meer numerieke indicatoren;<br />44° energieprestatiecertificatendatabank : een geïnformatiseerd gegevensbestand waarin informatie met betrekking tot energieprestatiecertificaten wordt opgenomen;<br />45° energieprestatiedatabank : een geïnformatiseerd gegevensbestand waarin informatie met betrekking tot de energieprestaties van de gebouwen waarvoor EPB-eisen gelden, wordt opgenomen;<br />46° energiestudie : studie die aantoont dat een nieuwe of een gewijzigde installatie aan bepaalde criteria van energie-efficiëntie zal voldoen;<br />47° EPB-aangifte : energieprestatie- en binnenklimaataangifte, dat wil zeggen het document waarin de verslaggever alle uitgevoerde maatregelen tot naleving van de EPB-eisen beschrijft en ze al dan niet conform met die eisen verklaart;<br />48° EPB-eisen : eisen op het vlak van de energieprestaties en het binnenklimaat, dat wil zeggen het geheel van voorwaarden waaraan een gebouw inzake energetische prestaties, thermische isolatie, binnenklimaat en ventilatie moet voldoen;<br />49° erkende instelling voor schuldbemiddeling : instelling die erkend is volgens het decreet van 24 juli 1996 houdende de regeling tot erkenning van de instellingen voor schuldbemiddeling in de Vlaamse Gemeenschap;<br />50° evenwichtsverantwoordelijke : rechtspersoon die een contract heeft afgesloten met de beheerder van het transmissienet met betrekking tot de transmissie van elektriciteit tussen een of meer injectiepunten en afnamepunten en die voor een geheel van toegangspunten zorg draagt voor het evenwicht tussen de injectie en de afname van elektriciteit op die toegangspunten;<br />51° exploitant : de houder van de milieuvergunning van een BKG-inrichting;<br />55° fraude : onrechtmatige manipulatie door een afnemer van een aansluiting of meetinstallatie;<br />53° garantie van oorsprong : uniek, verhandelbaar en overdraagbaar elektronisch document dat uitsluitend tot doel heeft om de eindafnemer aan te tonen dat een bepaald aandeel of een bepaalde hoeveelheid energie geproduceerd is op basis van hernieuwbare energiebronnen of kwalitatieve warmte-krachtkoppeling.<br />54° gaswinningsinstallatie : installatie waarmee aardgas wordt gewonnen uit de ondergrond of waarin biogas wordt geproduceerd;<br />55° gebied bestemd voor bewoning : gebied dat volgens het gewestplan of ruimtelijk uitvoeringsplan één van de volgende bestemmingen heeft :<br />a) woongebied;<br />b) woongebied met culturele, historische of esthetische waarde;<br />c) woongebied met landelijk karakter;<br />d) woongebied met landelijk karakter en culturele, historische of esthetische waarde;<br />e) woonuitbreidingsgebied;<br />56° gebouw : voor wat de toepassing van de titels X, XI en de artikelen 13.4.5 tot 13.4.10 betreft, elk gebouw in zijn geheel of delen ervan die zijn ontworpen of aangepast om afzonderlijk te worden gebruikt of een andere bestemming hebben, en waarvoor energie verbruikt wordt om ten behoeve van mensen een specifieke binnentemperatuur te verkrijgen;<br />56°/1 geothermische energie : energie die in de vorm van warmte onder het vaste aardoppervlak is opgeslagen;<br />56°/2 gesloten distributienet : een net dat gebruikt wordt voor de distributie van elektriciteit of aardgas binnen een geografisch afgebakende industriële of commerciële locatie of een geografisch afgebakende locatie met gedeelde diensten, dat, behoudens incidenteel, geen huishoudelijke afnemers van elektriciteit of aardgas voorziet, en dat aan een van de volgende vereisten voldoet :<br />a) om specifieke technische eisen of veiligheidseisen voorziet het in een geïntegreerde exploitatie of een geïntegreerd productieproces van de verschillende gebruikers van het net;<br />b) het distribueert primair elektriciteit of aardgas aan de eigenaar of beheerder van het net of de daarmee verwante bedrijven. <br />57° gestrande kosten : de kosten die ondernemingen moeten dragen ten gevolge van verplichtingen die ze in het verleden zijn aangegaan, maar die ze niet langer kunnen nakomen door de liberalisering van de betrokken sector;<br />58° groene stroom : elektriciteit die geproduceerd is uit een hernieuwbare energiebron;<br />59° groene warmte : warmte die geproduceerd is uit een hernieuwbare energiebron;<br />60° groenestroomcertificaat : uniek, verhandelbaar, elektronisch en overdraagbaar immaterieel goed dat aantoont dat een bepaalde productie-installatie in een bepaalde periode 1 000 kWh elektriciteit heeft opgewekt uit hernieuwbare energiebronnen;<br />61° groenewarmtecertificaat : uniek, verhandelbaar, elektronisch en overdraagbaar immaterieel goed dat aantoont dat een bepaalde productie-installatie in een bepaalde periode 1 000 kWh warmte heeft opgewekt uit hernieuwbare energiebronnen;<br />62° grote onderneming : onderneming die niet ressorteert onder de categorie kleine of middelgrote onderneming;<br />63° haalbaarheidsstudie : studie die de economische, sociale of juridische haalbaarheid van een concreet project onderzoekt;<br />64° heffingsjaar : het kalenderjaar waarvoor de heffing, vermeld in titel XIV, is verschuldigd;<br />65° hernieuwbare energiebronnen : hernieuwbare niet-fossiele en niet-nucleaire energiebronnen, met name wind, zon, aerothermische, geothermische, hydrothermische energie en energie uit de oceanen, waterkracht, biomassa, stortgas, gas van rioolwaterzuiveringsinstallaties en biogas;<br />66° hernieuwbare energietechnologieën : technologieën die gebruikmaken van hernieuwbare energiebronnen;<br />67° huishoudelijke afnemer : elke natuurlijke persoon aangesloten op een aardgasdistributienet of een elektriciteitsdistributienet op een spanning gelijk aan 1 000 volt of minder, die elektriciteit of aardgas afneemt om te voorzien in zijn behoeften of die van de personen die samen met hem in de woning in kwestie gedomicilieerd zijn, behoudens in het geval dat het leveringscontract voor de levering van elektriciteit respectievelijk aardgas op het afnamepunt in kwestie werd gesloten door een onderneming, zoals bedoeld in artikel 2, 3°, van de wet van 16 januari 2003 tot oprichting van een kruispuntbank voor ondernemingen, tot modernisering van het handelsregister, tot oprichting van erkende ondernemingsloketten en houdende diverse bepalingen;<br />68° hulpkrediet : een krediet dat ter beschikking wordt gesteld van een huishoudelijke afnemer, zodra het op de budgetmeter voor elektriciteit of op de budgetmeter voor aardgas opgeladen bedrag opgebruikt is;<br />68°/1 hydrothermische energie : energie die in de vorm van warmte in het oppervlaktewater is opgeslagen;<br />68°/2 ingrijpende wijziging : wijziging van een warmte-krachtinstallatie, waarbij minstens voldaan is aan een van de volgende voorwaarden : <br />a) de relatieve primaire energiebesparing, uitgedrukt in procenteenheden, stijgt met minstens 5 procenteenheden, waarbij de relatieve primaire energiebesparing wordt berekend op basis van de referentierendementen die voor de bestaande warmte-krachtinstallatie werden vastgelegd;<br />b) de warmte-krachtinstallatie vervangt een warmte-krachtinstallatie die ouder is dan tien jaar voor motoren en twintig jaar voor turbines. Daar bij moet minstens de motor of de turbine vervangen worden door een nog niet gebruikte motor of turbine;<br />c) het elektrisch of mechanisch vermogen neemt toe met minstens 25 %, terwijl de relatieve primaire energiebesparing ook toeneemt;<br />69° injecteren : het inbrengen van elektriciteit of aardgas in een distributienet of het plaatselijk vervoernet van elektriciteit, vanuit een net of door een producent;<br />70° injectiepunt : punt waar elektriciteit of aardgas in het net wordt geïnjecteerd;<br />71° internationale luchtvaartbunkers : de hoeveelheid energie die geleverd wordt aan vliegtuigen die op buitenlandse luchthavens vliegen;<br />72° internationale scheepvaartbunkers : de hoeveelheid energie die geleverd wordt aan schepen die op buitenlandse havens varen;<br />73° kaderdecreet Bestuurlijk Beleid : het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br />74° karakteristiek jaarlijks primair energieverbruik : het conventioneel bepaalde jaarlijkse energieverbruik van een gebouw, uitgedrukt in primaire energie-equivalenten;<br />75° kleine onderneming : ondernemingen die cumulatief aan de volgende voorwaarden voldoen :<br />a) minder dan 50 werknemers tewerkstellen;<br />b) een jaaromzet hebben van maximaal 10 miljoen euro of een jaarlijks balanstotaal van maximaal 10 miljoen euro;<br />c) beantwoorden aan het zelfstandigheidscriterium;<br />75°/1 kolencentrale : elektriciteitsproductie-eenheid waar producten met de GN-codes 2701, 2702, 2703 of 2704, zoals bedoeld in de EG-verordening nr. 2031/2001 van de Europese Commissie van 6 augustus 2001 tot wijziging van bijlage I van EEG-Verordening nr. 2658/87 van de Raad met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijke douanetarief, als brandstof worden of werden gebruikt; <br />76° kwalitatieve warmtekrachtinstallatie : warmtekrachtinstallatie waarvan het productieproces voldoet aan de kwaliteitsvoorwaarden die opgelegd zijn overeenkomstig artikel 7.1.2, § 2;<br />77° kwalitatieve warmtekrachtkoppeling : warmtekrachtkoppeling die voldoet aan de kwaliteitsvereisten, opgelegd overeenkomstig artikel 7.1.2, § 2;<br />78° leverancier : elke natuurlijke persoon of rechtspersoon die aan afnemers elektriciteit of aardgas verkoopt;<br />79° lokale adviescommissie : commissie als vermeld in artikel 7 van het decreet van 20 december 1996 tot regeling van het recht op minimumlevering van elektriciteit, gas en water;<br />80° m3(n) : de hoeveelheid gas die, bij een temperatuur van nul graden Celsius en onder absolute druk van 1,01325 bar, een volume van één kubieke meter inneemt;<br />81° marktpartij : producent, aardgasinvoerder, distributienetbeheerder, beheerder van het plaatselijk vervoernet van elektriciteit, beheerder van het transmissienet, de beheerder van het vervoernet, werkmaatschappij, leverancier, tussenpersoon, bevrachter of evenwichtsverantwoordelijke;<br />82° marktintroductieproject : project voor het installeren en monitoren van het gebruik van energiezuinige producten, technieken, systemen of hernieuwbare energietechnologieën die nog niet ruim verspreid zijn in het Vlaamse Gewest, door een particulier, een niet-commerciële instelling, een publiekrechtelijke persoon of een onderneming, die niet de ontwikkelaar, fabrikant of distributeur ervan is;<br />83° melding : de verplichte melding van de handelingen aan het college van burgemeester en schepenen, vermeld in artikel 94 van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening;<br />84° met een onderneming geassocieerde ondernemingen : de ondernemingen, met uitsluiting van de gemeenten en de netbeheerders, waarin de onderneming een deelneming bezit en waarin ze een invloed van betekenis uitoefent op de oriëntatie van het beleid; behoudens tegenbewijs wordt een invloed van betekenis vermoed als de stemrechten die aan deze deelneming verbonden zijn één vijfde of meer vertegenwoordigen van het totaal aantal stemrechten van de aandeel-houders of vennoten van deze ondernemingen;<br />85° met een onderneming verbonden ondernemingen : de ondernemingen, met uitsluiting van de gemeenten en de netbeheerders :<br />a) waarover de onderneming een controlebevoegdheid, vermeld in het Wetboek van vennootschappen, uitoefent;<br />b) die een controlebevoegdheid, vermeld in het Wetboek van vennootschappen, over de onderneming uitoefenen;<br />c) waarmee de onderneming een consortium, vermeld in het Wetboek van vennootschappen, vormt;<br />d) die, bij weten van haar bestuursorgaan, onder de controle staan van de ondernemingen, vermeld in a), b) en c) ;<br />86° middelgrote onderneming : ondernemingen die cumulatief aan de volgende voorwaarden voldoen :<br />a) minder dan 250 werknemers tewerkstellen;<br />b) een jaaromzet hebben van maximaal 50 miljoen euro of een jaarlijks balanstotaal van maximaal 43 miljoen euro;<br />c) beantwoorden aan het zelfstandigheidscriterium;<br />87° minister : de Vlaamse minister, bevoegd voor het energiebeleid;<br />88° nationaal register : het register zoals gedefinieerd in het samenwerkingsakkoord van 18 juni 2008 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de organisatie en het administratief beheer van het gestandaardiseerd en genormaliseerd registersysteem van België overeenkomstig richtlijn 2003/87 van het Europees Parlement en de Raad en beschikking 280/2004/EG van het Europees Parlement en de Raad;<br />89° net : distributienet, plaatselijk vervoernet van elektriciteit, transmissienet, vervoersnet, gesloten distributienet of privédistributienet;<br />90° netbeheerder : een elektriciteitsdistributienetbeheerder, een aardgasdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit;<br />91° neteigenaar : eigenaar van een net;<br />91°/1 netgebruiker : een natuurlijke persoon of rechtspersoon die elektriciteit of aardgas injecteert op of afneemt van een distributienet; <br />92° niet-commerciële instellingen : scholen, universiteiten, verzorgingsinstellingen en andere gemeenschapsdiensten, verenigingen zonder winstoogmerk en feitelijke verenigingen die een filantropisch, wetenschappelijk, technisch of pedagogisch doel nastreven op het gebied van energie, milieubescherming of bestrijding van sociale uitsluiting;<br />92°/1 ombudsdienst voor energie : de ombudsdienst, vermeld in artikel 27 van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt;<br />93° ondernemingen : elke natuurlijke persoon die koopman is of een zelfstandig beroep uitoefent, de vennootschappen die de rechtsvorm van een handelsvennootschap hebben aangenomen, de Europese economische samenwerkingsverbanden en de economische samenwerkingsverbanden die beschikken over een exploitatiezetel in het Vlaamse Gewest of die zich ertoe verbinden in het Vlaamse Gewest een exploitatiezetel te vestigen;<br />94° ondersteunende diensten : alle diensten die door een netbeheerder worden uitgevoerd om het transport van elektriciteit of aardgas over zijn net op een veilige, efficiënte en betrouwbare wijze te waarborgen;<br />95° onrendabele top : het productieafhankelijk gedeelte van de inkomsten dat nodig is om de netto contante waarde van een investering op nul te doen uitkomen en die berekend wordt aan de hand van een cashflowberekening;<br />96° ontsloten wooneenheid of gebouw : wooneenheid die of gebouw dat aangesloten is op een aardgasdistributienet of aansluitbare wooneenheid of gebouw;<br />97° openbaredienstverplichting : verplichting die betrekking heeft op de sociaaleconomische, ecologische of technische aspecten van de energievoorziening;<br />98° peil van globale warmte-isolatie (of K-peil) : peil van de globale warmte-isolatie zoals dat gedefinieerd is volgens de Belgische norm of de door de Vlaamse overheid vastgelegde specificaties;<br />99° peil van primair energieverbruik (of E-peil) : peil dat de globale energetische prestatie weergeeft en uitgedrukt wordt door de verhouding van het karakteristiek jaarlijks primair energieverbruik tot een referentiewaarde;<br />100° plaatselijk vervoernet van elektriciteit : het geheel van elektrische leidingen met een nominale spanning tot en met 70 kilovolt en de bijbehorende installaties, die gelegen zijn in het Vlaamse Gewest, dat voornamelijk gebruikt wordt om het vervoer van elektriciteit naar distributienetten mogelijk te maken en dat wordt vastgesteld overeenkomstig artikel 4.1.2;<br />101° primair energieverbruik : de totale hoeveelheid energie die Vlaanderen nodig heeft om aan de energiebehoefte te voldoen;<br />101°/1 privédistributienet : een elektriciteitslijn, aardgasleiding of net voor distributie van elektriciteit of aardgas dat niet wordt uitgebaat door een door de VREG aangewezen distributienetbeheerder noch door de beheerder van het plaatselijk vervoersnet, en dat geen gesloten distributienet, directe lijn of directe leiding is;<br />102° producent : iedere natuurlijke persoon of rechtspersoon die elektriciteit opwekt, biogas produceert en/of aardgas wint;<br />103° promotor-bouwheer : een natuurlijke persoon of rechtspersoon die als geregelde werkzaamheid heeft om woningen of appartementen op te richten, te laten oprichten of te verbouwen om ze onder bezwarende titel te vervreemden;<br />104° protocol van Kyoto : protocol van Kyoto bij het raamverdrag van de Verenigde Naties inzake klimaatverandering, opgemaakt in Kyoto op 11 december 1997 en goedgekeurd bij het decreet van 22 februari 2002;<br />105° rationeel energiebeheer : het geheel van handelingen die ondernomen worden om het energiegebruik te meten, te analyseren, te verminderen en te volgen met het oog op het verkrijgen van een rationeel energiegebruik, met inbegrip van het volgen van vormingsactiviteiten rond rationeel energiegebruik en het ondernemen van haalbaarheidsstudies voor de installatie van een energiezuinig product, systeem of een energiezuinige techniek;<br />106° rationeel energiegebruik : het zo efficiënt mogelijke gebruik van energie;<br />107° reconciliatie : onderlinge verrekening tussen marktpartijen op basis van het verschil tussen gealloceerde en werkelijk gemeten energiehoeveelheden;<br />108° referentiejaar : met betrekking tot een vliegtuigexploitant die na 1 januari 2006 zijn exploitatie in de Gemeenschap is begonnen, het eerste kalenderjaar van die exploitatie; in alle andere gevallen, het kalenderjaar dat is ingegaan op 1 januari 2006;<br />109° referentieproject : project voor het installeren en monitoren bij een eerste gebruiker, die niet de ontwikkelaar, fabrikant of distributeur is, van voor het Vlaamse Gewest nieuwe energiezuinige producten, technieken, systemen of hernieuwbare energietechnologieën of van voor het Vlaamse Gewest nieuwe toepassingen van energiezuinige producten, technieken, systemen of hernieuwbare energietechnologieën door de ontwikkelaar, fabrikant of distributeur ervan;<br />110° REG-actieplan : actieplan voor de bevordering van het rationeel energiegebruik, waarbij de acties minstens bestaan uit het geven van een financiële stimulans aan de afnemers voor het uitvoeren van maatregelen en uit het verlenen van informatie, waardoor de aandacht op de actie wordt gevestigd en de doelgroep de nodige informatie krijgt over de besparingsmogelijkheden ervan;<br />111° rendabele investeringen : investeringen met een interne rentevoet na belastingen die hoger is dan een minimum, dat vastgelegd is door de Vlaamse Regering;<br />112° richtlijn 2002/91/EG : richtlijn 2002/91/EG van het Europees Parlement en de Raad van 16 december 2002 betreffende de energieprestaties van gebouwen;<br />113° richtlijn 2003/87/EG : richtlijn 2003/87/EG van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van richtlijn 96/61/EG van de Raad;<br />113°/1 slimme meter : een elektronische meter die energiestromen en aanverwante fysische grootheden meet en registreert en die uitgerust is met een tweerichtingscommunicatiemiddel, dat ervoor zorgt dat de gegevens niet alleen lokaal, maar ook op afstand uitgelezen kunnen worden en dat de meter in staat is om op basis van de gegevens die hij lokaal of van op afstand ontvangt bepaalde acties uit te voeren;<br />114° startverklaring : een schriftelijke verklaring met de startdatum van de werkzaamheden en het overzicht van de prestaties inzake EPB-eisen die voor het gebouw worden nagestreefd;<br />115° subsidieovereenkomst : een overeenkomst waarin de rechten en de verplichtingen van de Vlaamse Regering en van de begunstigde van de subsidie worden geregeld;<br />116° technische reglementen : het technisch reglement distributie elektriciteit, het technisch reglement distributie gas en het technisch reglement plaatselijk vervoer van elektriciteit;<br />117° technisch reglement distributie elektriciteit : de technische en operationele regels die verbonden zijn aan het beheer van het elektriciteitsdistributienet, inclusief de regels inzake aansluiting, meting en toegang, vermeld in artikel 4.2.1;<br />118° technisch reglement distributie gas : de technische en operationele regels die verbonden zijn aan het beheer van het aardgasdistributienet, inclusief de regels inzake aansluiting, meting en toegang, vermeld in artikel 4.2.1;<br />119° technisch reglement plaatselijk vervoer van elektriciteit : de technische en operationele regels die verbonden zijn aan het beheer van het plaatselijk vervoernet van elektriciteit, inclusief de regels inzake aansluiting, meting en toegang, vermeld in artikel 4.2.1;<br />120° titularis van een toegangspunt : natuurlijke persoon of rechtspersoon die in het toegangsregister bekend staat als afnemer of producent op het toegangspunt in kwestie;<br />120°/1 toegang tot het net : de mogelijkheid tot injectie of afname van actieve energie op één of meer toegangspunten, met inbegrip van het gebruik van het net en de aansluitingsinstallaties die door de beheerder van het betrokken net worden beheerd, en van diens ondersteunende diensten; <br />121° toegangshouder : natuurlijke persoon of rechtspersoon die een contract heeft gesloten met een netbeheerder, beheerder van het transmissienet of beheerder van het vervoersnet met betrekking tot de toegang tot diens net op een bepaald toegangspunt;<br />122° toegangspunt : afnamepunt of injectiepunt;<br />123° toegangsregister : register met alle toegangspunten van een bepaald net, dat opgesteld en beheerd wordt door de betrokken netbeheerder, beheerder van het transmissienet of beheerder van het vervoernet, en waarin onder meer voor ieder toegangspunt de titularis van het toegangspunt en de toegangshouder worden vermeld;<br />124° ton CO2-equivalent : een metrische ton koolstofdioxide (CO2) of een hoeveelheid van een ander broeikasgas met een gelijkwaardig aardopwarmingspotentieel;<br />125° transmissienet : het transmissienet, vermeld in artikel 2, 7°, van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt;<br />126° tussenpersoon : elke natuurlijke persoon of rechtspersoon die elektriciteit of aardgas koopt met het oog op de doorverkoop aan een andere tussenpersoon of leverancier;<br />127° verslaggever : de natuurlijke persoon, houder van het diploma van architect, burgerlijk ingenieur-architect, burgerlijk ingenieur, industrieel ingenieur, technisch ingenieur of bio-ingenieur of een daarmee gelijkgesteld buitenlands diploma, die in opdracht van de aangifteplichtige de startverklaring overmaakt aan het Vlaams Energieagentschap en de EPB-aangifte opstelt of de rechtspersoon, binnen wiens organisatie in opdracht van de aangifteplichtige de startverklaring overgemaakt wordt aan het Vlaams Energieagentschap en de EPB-aangifte opgesteld wordt door een zaakvoerder, bestuurder of werknemer, houder van het diploma van architect, burgerlijk ingenieur architect, burgerlijk ingenieur, industrieel ingenieur, technisch ingenieur of bio-ingenieur of een daarmee gelijkgesteld buitenlands diploma;<br />128° vervoersnet : het vervoersnet, vermeld in artikel 1, 10°, van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen;<br />129° vervoeronderneming : vervoeronderneming, vermeld in artikel 1, 9°, van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen;<br />130° Vlaams Energieagentschap : het agentschap dat opgericht werd door het besluit van de Vlaamse Regering van 16 april 2004 tot oprichting van het intern verzelfstandigd agentschap, het Vlaamse Energieagentschap;<br />131° vliegtuigexploitant : persoon die een luchtvaartuig exploiteert op het moment dat die een door de Vlaamse Regering nader te bepalen luchtvaartactiviteit uitoefent, of, wanneer die persoon niet bekend is of niet is geïdentificeerd door de eigenaar van het vliegtuig, de eigenaar van het vliegtuig;<br />131°/1 vloeibare biomassa : vloeibare brandstof voor energiedoeleinden andere dan vervoer, waaronder elektriciteit, verwarming en koeling, die geproduceerd is uit biomassa;<br />132° VREG : het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap, dat overeenkomstig artikel 3.1.1 wordt opgericht;<br />133° wanbetaling : de niet-betaling of onvolledige betaling van minstens één elektriciteits- of aardgasfactuur;<br />134° warmtedoorgangscoëfficiënt (of U-waarde) : de warmtedoorgang door een constructieonderdeel per eenheid van oppervlakte, eenheid van tijd en eenheid van temperatuurverschil tussen de omgevingen aan beide zijden van het deel, zoals die gedefinieerd is volgens de Belgische norm of de door de Vlaamse overheid vastgelegde specificaties;<br />135° warmtekrachtcertificaat : uniek, verhandelbaar, elektronisch en overdraagbaar immaterieel goed dat aantoont dat een bepaalde productie-installatie in een bepaalde periode 1 000 kWh primaire energiebesparing heeft gerealiseerd door gebruik te maken van kwalitatieve warmtekrachtkoppeling ten opzichte van een moderne referentiecentrale en een moderne referentieketel en/of 1 000 kWh elektriciteit heeft opgewekt uit kwalitatieve warmtekrachtkoppeling;<br />136° warmtekrachtinstallatie : installatie die in één proces thermische warmte en elektrische of mechanische energie opwekt;<br />137° warmtekrachtkoppeling : gelijktijdige opwekking in één proces van thermische warmte en elektrische of mechanische energie;<br />138° werkmaatschappij : de privaatrechtelijke vennootschap waarin de distributienetbeheerder participeert of de publiekrechtelijke rechtspersoon die participeert in de distributienetbeheerder, die in naam en voor rekening van de distributienetbeheerder belast is met de exploitatie van zijn net en de toepassing van openbaredienstverplichtingen;<br />139° wooneenheid : elke eenheid in een woongebouw die over de nodige woonvoorzieningen beschikt om autonoom te kunnen functioneren.
+In dit decreet wordt verstaan onder :<br />1° aangifteplichtige : een natuurlijke persoon of rechtspersoon die de EPB-eisen moet naleven;<br />2° aansluitbaarheidsgraad : het aantal ontsloten wooneenheden of gebouwen in verhouding tot het totaal aantal wooneenheden en gebouwen in een bepaald gebied;<br />3° aansluitbare wooneenheid of gebouw : wooneenheid die of gebouw dat nog niet aangesloten is op het aardgasdistributienet, en waarbij aan één van de volgende voorwaarden is voldaan :<br />a) er is een lagedrukleiding aanwezig langs de openbare weg aan dezelfde kant van de weg en ter hoogte van de wooneenheid of het gebouw;<br />b) de wooneenheid of het gebouw is niet gelegen in een gebied dat bestemd is voor bewoning en er is een lagedrukleiding aanwezig langs de openbare weg ter hoogte van de wooneenheid of het gebouw, al of niet aan dezelfde kant van de wooneenheid of het gebouw;<br />c) een middendrukleiding, categorie A of B, is aanwezig langs de openbare weg ter hoogte van de wooneenheid of het gebouw en deze leiding is specifiek aangelegd voor het aansluiten van respectievelijk wooneenheden of gebouwen;<br />4° aansluitingsgraad : het aantal aangesloten wooneenheden en gebouwen in verhouding tot het totaal aantal wooneenheden en gebouwen in een bepaald gebied;<br />5° aardgas : elke gasvormige brandstof van ondergrondse oorsprong die hoofdzakelijk uit methaan bestaat, met inbegrip van vloeibaar aardgas;<br />6° aardgasdistributienet : geheel van onderling verbonden leidingen en de daarmee verbonden hulpmiddelen, die noodzakelijk zijn voor de distributie van aardgas aan afnemers binnen een geografisch afgebakend gebied in het Vlaamse Gewest en dat geen gesloten distributienet, privédistributienet of directe leiding betreft;<br />7° aardgasdistributienetbeheerder : beheerder van een aardgasdistributienet, aangewezen overeenkomstig artikel 4.1.1; <br />8° aardgasinvoerder : iedere natuurlijke persoon of rechtspersoon die aardgas invoert in België;<br />8°/1 ACER : het agentschap, opgericht overeenkomstig verordening nr. 713/2009 van het Europees Parlement en de Raad van 13 juli 2009 tot oprichting van een agentschap voor de samenwerking tussen energieregulators.<br />8°/2 achterliggende afnemer : de natuurlijke persoon of rechtspersoon die elektriciteit of aardgas afneemt van een gesloten distributienet of een privédistributienet;<br />8°/3 achterliggende netgebruiker : natuurlijke persoon of rechtspersoon die elektriciteit of aardgas injecteert op of afneemt van een gesloten distributienet of een privédistributienet;<br />9° actieverplichting : een door de Vlaamse Regering aan de netbeheerders in het kader van een openbaredienstverplichting opgelegde REG-actie;<br />9°/1 aerothermische energie : energie die in de vorm van warmte is opgeslagen in de omgevingslucht;<br />10° afnamepunt : punt waar elektriciteit of aardgas van het net wordt afgenomen en verbruikt;<br />11° afnemer : elke natuurlijke persoon of rechtspersoon die elektriciteit of aardgas afneemt om te voorzien in zijn eigen behoeftes;<br />12° afsluiten : het buiten dienst stellen van de aansluiting of het ontzeggen van de toegang tot het net door de aansluiting af te koppelen van de installaties van de afnemer;<br />13° allocatie : toewijzing van energiehoeveelheden aan de verschillende marktpartijen;<br />14° beschermd volume : het beschermde volume van het gebouw zoals dat gedefinieerd is in de Belgische norm of de door de Vlaamse overheid vastgelegde specificaties;<br />15° bevoegde autoriteit : de instantie aangewezen voor enkele specifieke taken zoals vermeld in verordening (EG) nr. 2216/2004 van de Commissie van 21 december 2004 inzake een gestandaardiseerd en beveiligd registersysteem overeenkomstig richtlijn 2003/87/EG van het Europees Parlement en de Raad en beschikking 280/2004/EG van het Europees Parlement en de Raad zoals gewijzigd bij verordening (EG) nr. 916/2007 van de Commissie van 31 juli 2007, zijnde de afdeling van het departement Leefmilieu, Natuur en Energie, bevoegd voor luchtverontreiniging;<br />16° bevrachter : rechtspersoon die een contract heeft afgesloten met een vervoeronderneming met betrekking tot het vervoer van aardgas tussen een of meer injectiepunten en afnamepunten op het vervoernet;<br />16/1° bijna-energieneutraal gebouw : een gebouw met een zeer hoge energieprestatie, waarbij de dichtbij nul liggende of zeer lage hoeveelheid energie die nog vereist is, in zeer aanzienlijke mate wordt geleverd uit hernieuwbare energiebronnen die ter plaatse of dichtbij wordt geproduceerd;<br />17° bijzondere reserve : 3 % van de totale hoeveelheid toe te wijzen emissierechten in de periode 2013-2020;<br />18° Bijzondere reserve-emissierechtenbesluit : het besluit van de Europese Commissie, bedoeld in artikel 3septies, vijfde lid, van richtlijn 2003/87/EG van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van richtlijn 96/61/EG van de Raad;<br />18°/1 biobrandstoffen : vloeibare of gasvormige brandstof voor vervoer die geproduceerd is uit biomassa;<br />18°/2 biomassa : de biologisch afbreekbare fractie van producten, afvalstoffen en residuen van biologische oorsprong van de landbouw (met inbegrip van plantaardige en dierlijke stoffen), de bosbouw en aanverwante bedrijfstakken, met inbegrip van de visserij en de aquacultuur, alsmede de biologisch afbreekbare fractie van industrieel en huishoudelijk afval;<br />19° BKG-inrichting : een inrichting die in de vierde kolom van de indelingslijst in bijlage I, van titel I, van het VLAREM is aangegeven met de letter Y, en die de vaste technische eenheid omvat waarin de activiteiten en processen, vermeld in de tweede kolom, alsmede andere daarmee rechtstreeks samenhangende activiteiten, plaatsvinden die technisch in verband staan met de op die plaats ten uitvoer gebrachte activiteiten, en die gevolgen kunnen hebben voor de emissies en de verontreiniging;<br />20° brandstofleveranciers : elke natuurlijke persoon of rechtspersoon die aan afnemers aardgas, stookolie, steenkool, methaan, butaan en propaan levert;<br />21° broeikasgassen : koolstofdioxide (CO2), methaan (CH4), distikstofoxide (N2O), onvolledig gefluoreerde koolwaterstoffen (HFK's), perfluorkoolwaterstoffen (PFK's) en zwavelhexafluoride (SF6);<br />22° bruto binnenlands energieverbruik : het primaire energieverbruik verminderd met de geleverde energie aan de internationale lucht- en scheepvaartbunkers;<br />23° budgetmeter : een budgetmeter voor elektriciteit of een budgetmeter voor aardgas;<br />24° budgetmeter voor aardgas : aardgasmeter met hulpkrediet die wordt opgeladen via een systeem van voorafbetaling;<br />25° budgetmeter voor elektriciteit : elektriciteitsmeter met begrenzer op 10 ampère en hulpkrediet die wordt opgeladen met een systeem van voorafbetaling;<br />25°/1 datum van indienstneming : datum waarop een productie-installatie voor het eerst in dienst werd genomen of datum waarop een warmte-krachtinstallatie ingrijpend gewijzigd werd;<br />26° directe lijn : een elektriciteitslijn met een nominale spanning die gelijk is aan of minder is dan 70 kilovolt, die een productieinstallatie met een afnemer verbindt; <br />27° directe leiding : elke leiding voor aardgasdistributie die geen deel uitmaakt van een aardgasdistributienet;<br />28° distributie : de activiteit die erin bestaat elektriciteit via elektrische lijnen met een nominale spanning die gelijk is aan of minder is dan 70 kilovolt, of aardgas via plaatselijke aardgasleidingen te brengen tot bij afnemers, de levering zelf niet inbegrepen; <br />29° distributienet : elektriciteitsdistributienet of aardgasdistributienet;<br />30° distributienetbeheerder : elektriciteitsdistributienetbeheerder of aardgasdistributienetbeheerder;<br />30°/1 eigen site : het kadastrale perceel of de aansluitende kadastrale percelen van dezelfde natuurlijke persoon of rechtspersoon als eigenaar, opstalhouder of concessiehouder; <br />31° eindverbruiksector : ondernemingen en particulieren die energie afnemen of produceren om geheel of overwegend in de eigen energiebehoefte te voorzien;<br />32° elektriciteitsdistributienet : geheel van onderling verbonden elektrische leidingen met een nominale spanning die gelijk is aan of minder is dan 70 kilovolt, en de bijbehorende installaties, die noodzakelijk zijn voor de distributie van elektriciteit aan afnemers binnen een geografisch afgebakend gebied in het Vlaamse Gewest, dat geen gesloten distributienet, privédistributienet of directe lijn is; <br />33° elektriciteitsdistributienetbeheerder : beheerder van een elektriciteitsdistributienet, aangewezen overeenkomstig artikel 4.1.1;<br />34° emissie : emissie van broeikasgassen in de atmosfeer door in een BKG-inrichting aanwezige bronnen, of de emissie door een vliegtuig van CO2 ten gevolge van een luchtvaartactiviteit die nader door de Vlaamse Regering bepaald zal worden;<br />35° emissierecht : een overdraagbaar recht om gedurende een bepaalde periode één ton CO2-equivalent aan broeikasgassen uit te stoten;<br />36° Emissierechtenbesluit : het besluit van de Europese Commissie, bedoeld in artikel 3sexies, derde lid, van richtlijn 2003/87/EG van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van richtlijn 96/61/EG van de Raad;<br />37° energiebeleidsovereenkomst : iedere overeenkomst tussen het Vlaamse Gewest, vertegenwoordigd door de Vlaamse Regering, en een andere partij, waarbij die andere partij zich engageert om binnen een afgesproken termijn een vooropgestelde verbetering inzake energie-efficiëntie te behalen of te stimuleren, tot de wereldtop inzake energie-efficiëntie in haar sector te behoren of een bepaald percentage van het energieverbruik te dekken met behulp van hernieuwbare energietechnologieën of daarvoor stimulansen te verstrekken;<br />38° energieboekhouding : het regelmatig meten, registreren, analyseren en rapporteren van het energiegebruik;<br />39° energiedeskundige : de natuurlijke persoon die onderworpen is aan het sociaal statuut van de zelfstandige of de bezoldigde medewerker van een rechtspersoon, die energieadvies verstrekt;<br />40° energiedrager : kolen en afgeleide producten, petroleumproducten, gas, elektriciteit, hernieuwbare energiebronnen, warmte en nucleaire warmte;<br />41° energiekengetal : het gemiddelde van het energieverbruik in een sector in verhouding tot een parameter die bepalend is voor het energieverbruik in die sector;<br />42° energieplan : een systematische, gedocumenteerde en objectieve evaluatie van het beheer, de organisatie en de uitrusting van de betrokken onderneming, de niet-commerciële instelling of de publiekrechtelijke rechtspersoon op het gebied van energie-efficiëntie, waarbij de mogelijke maatregelen inzake de verbetering van de energie-efficiëntie in kaart worden gebracht;<br />43° energieprestatiecertificaat : een certificaat waarin het resultaat is vermeld van de berekening van de totale energie-efficiëntie van een gebouw, uitgedrukt in een of meer numerieke indicatoren;<br />44° energieprestatiecertificatendatabank : een geïnformatiseerd gegevensbestand waarin informatie met betrekking tot energieprestatiecertificaten wordt opgenomen;<br />45° energieprestatiedatabank : een geïnformatiseerd gegevensbestand waarin informatie met betrekking tot de energieprestaties van de gebouwen waarvoor EPB-eisen gelden, wordt opgenomen;<br />46° energiestudie : studie die aantoont dat een nieuwe of een gewijzigde installatie aan bepaalde criteria van energie-efficiëntie zal voldoen;<br />47° EPB-aangifte : energieprestatie- en binnenklimaataangifte, dat wil zeggen het unieke document waarin de verslaggever alle uitgevoerde maatregelen tot naleving van de EPB-eisen beschrijft en ze al dan niet conform met die eisen verklaart;<br />48° EPB-eisen : eisen op het vlak van de energieprestaties en het binnenklimaat, dat wil zeggen het geheel van voorwaarden waaraan een gebouw, een technisch bouwsysteem of de constructieonderdelen inzake energetische prestaties, thermische isolatie, binnenklimaat, systeemeisen en ventilatie moet voldoen; <br />49° erkende instelling voor schuldbemiddeling : instelling die erkend is volgens het decreet van 24 juli 1996 houdende de regeling tot erkenning van de instellingen voor schuldbemiddeling in de Vlaamse Gemeenschap;<br />50° evenwichtsverantwoordelijke : rechtspersoon die een contract heeft afgesloten met de beheerder van het transmissienet met betrekking tot de transmissie van elektriciteit tussen een of meer injectiepunten en afnamepunten en die voor een geheel van toegangspunten zorg draagt voor het evenwicht tussen de injectie en de afname van elektriciteit op die toegangspunten;<br />51° exploitant : de houder van de milieuvergunning van een BKG-inrichting;<br />55° fraude : onrechtmatige manipulatie door een afnemer van een aansluiting of meetinstallatie;<br />53° garantie van oorsprong : uniek, verhandelbaar en overdraagbaar elektronisch document dat uitsluitend tot doel heeft om de eindafnemer aan te tonen dat een bepaald aandeel of een bepaalde hoeveelheid energie geproduceerd is op basis van hernieuwbare energiebronnen of kwalitatieve warmte-krachtkoppeling.<br />54° gaswinningsinstallatie : installatie waarmee aardgas wordt gewonnen uit de ondergrond of waarin biogas wordt geproduceerd;<br />55° gebied bestemd voor bewoning : gebied dat volgens het gewestplan of ruimtelijk uitvoeringsplan één van de volgende bestemmingen heeft :<br />a) woongebied;<br />b) woongebied met culturele, historische of esthetische waarde;<br />c) woongebied met landelijk karakter;<br />d) woongebied met landelijk karakter en culturele, historische of esthetische waarde;<br />e) woonuitbreidingsgebied;<br />56° gebouw : voor wat de toepassing van de titels X, XI en de artikelen 13.4.5 tot 13.4.10 betreft, elk gebouw in zijn geheel of delen ervan die zijn ontworpen of aangepast om afzonderlijk te worden gebruikt of een andere bestemming hebben, en waarvoor energie verbruikt wordt om ten behoeve van mensen een specifieke binnentemperatuur te verkrijgen;<br />56°/1 geothermische energie : energie die in de vorm van warmte onder het vaste aardoppervlak is opgeslagen;<br />56/1° gemeenschappelijk deel : elke eenheid van aangrenzende lokalen die door meerdere subdossiers samen gebruikt wordt en die behoort tot het beschermd volume van het gebouw; <br />56°/2 gesloten distributienet : een net dat gebruikt wordt voor de distributie van elektriciteit of aardgas binnen een geografisch afgebakende industriële of commerciële locatie of een geografisch afgebakende locatie met gedeelde diensten, dat, behoudens incidenteel, geen huishoudelijke afnemers van elektriciteit of aardgas voorziet, en dat aan een van de volgende vereisten voldoet :<br />a) om specifieke technische eisen of veiligheidseisen voorziet het in een geïntegreerde exploitatie of een geïntegreerd productieproces van de verschillende gebruikers van het net;<br />b) het distribueert primair elektriciteit of aardgas aan de eigenaar of beheerder van het net of de daarmee verwante bedrijven. <br />57° gestrande kosten : de kosten die ondernemingen moeten dragen ten gevolge van verplichtingen die ze in het verleden zijn aangegaan, maar die ze niet langer kunnen nakomen door de liberalisering van de betrokken sector;<br />58° groene stroom : elektriciteit die geproduceerd is uit een hernieuwbare energiebron;<br />59° groene warmte : warmte die geproduceerd is uit een hernieuwbare energiebron;<br />60° groenestroomcertificaat : uniek, verhandelbaar, elektronisch en overdraagbaar immaterieel goed dat aantoont dat een bepaalde productie-installatie in een bepaalde periode 1 000 kWh elektriciteit heeft opgewekt uit hernieuwbare energiebronnen;<br />61° groenewarmtecertificaat : uniek, verhandelbaar, elektronisch en overdraagbaar immaterieel goed dat aantoont dat een bepaalde productie-installatie in een bepaalde periode 1 000 kWh warmte heeft opgewekt uit hernieuwbare energiebronnen;<br />62° grote onderneming : onderneming die niet ressorteert onder de categorie kleine of middelgrote onderneming;<br />63° haalbaarheidsstudie : studie die de economische, sociale of juridische haalbaarheid van een concreet project onderzoekt;<br />64° heffingsjaar : het kalenderjaar waarvoor de heffing, vermeld in titel XIV, is verschuldigd;<br />65° hernieuwbare energiebronnen : hernieuwbare niet-fossiele en niet-nucleaire energiebronnen, met name wind, zon, aerothermische, geothermische, hydrothermische energie en energie uit de oceanen, waterkracht, biomassa, stortgas, gas van rioolwaterzuiveringsinstallaties en biogas;<br />66° hernieuwbare energietechnologieën : technologieën die gebruikmaken van hernieuwbare energiebronnen;<br />67° huishoudelijke afnemer : elke natuurlijke persoon aangesloten op een aardgasdistributienet of een elektriciteitsdistributienet op een spanning gelijk aan 1 000 volt of minder, die elektriciteit of aardgas afneemt om te voorzien in zijn behoeften of die van de personen die samen met hem in de woning in kwestie gedomicilieerd zijn, behoudens in het geval dat het leveringscontract voor de levering van elektriciteit respectievelijk aardgas op het afnamepunt in kwestie werd gesloten door een onderneming, zoals bedoeld in artikel 2, 3°, van de wet van 16 januari 2003 tot oprichting van een kruispuntbank voor ondernemingen, tot modernisering van het handelsregister, tot oprichting van erkende ondernemingsloketten en houdende diverse bepalingen;<br />68° hulpkrediet : een krediet dat ter beschikking wordt gesteld van een huishoudelijke afnemer, zodra het op de budgetmeter voor elektriciteit of op de budgetmeter voor aardgas opgeladen bedrag opgebruikt is;<br />68°/1 hydrothermische energie : energie die in de vorm van warmte in het oppervlaktewater is opgeslagen;<br />68°/2 ingrijpende wijziging : wijziging van een warmte-krachtinstallatie, waarbij minstens voldaan is aan een van de volgende voorwaarden : <br />a) de relatieve primaire energiebesparing, uitgedrukt in procenteenheden, stijgt met minstens 5 procenteenheden, waarbij de relatieve primaire energiebesparing wordt berekend op basis van de referentierendementen die voor de bestaande warmte-krachtinstallatie werden vastgelegd;<br />b) de warmte-krachtinstallatie vervangt een warmte-krachtinstallatie die ouder is dan tien jaar voor motoren en twintig jaar voor turbines. Daar bij moet minstens de motor of de turbine vervangen worden door een nog niet gebruikte motor of turbine;<br />c) het elektrisch of mechanisch vermogen neemt toe met minstens 25 %, terwijl de relatieve primaire energiebesparing ook toeneemt;<br />69° injecteren : het inbrengen van elektriciteit of aardgas in een distributienet of het plaatselijk vervoernet van elektriciteit, vanuit een net of door een producent;<br />70° injectiepunt : punt waar elektriciteit of aardgas in het net wordt geïnjecteerd;<br />71° internationale luchtvaartbunkers : de hoeveelheid energie die geleverd wordt aan vliegtuigen die op buitenlandse luchthavens vliegen;<br />72° internationale scheepvaartbunkers : de hoeveelheid energie die geleverd wordt aan schepen die op buitenlandse havens varen;<br />72/1° K-peilvolume : elke eenheid van aaneengesloten lokalen die in hetzelfde gebouw gelegen zijn, die het voorwerp zijn van werken van dezelfde aard en die moeten voldoen aan dezelfde K-peileis;<br />73° kaderdecreet Bestuurlijk Beleid : het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br />74° karakteristiek jaarlijks primair energieverbruik : het conventioneel bepaalde jaarlijkse energieverbruik van een gebouw, uitgedrukt in primaire energie-equivalenten;<br />75° kleine onderneming : ondernemingen die cumulatief aan de volgende voorwaarden voldoen :<br />a) minder dan 50 werknemers tewerkstellen;<br />b) een jaaromzet hebben van maximaal 10 miljoen euro of een jaarlijks balanstotaal van maximaal 10 miljoen euro;<br />c) beantwoorden aan het zelfstandigheidscriterium;<br />75°/1 kolencentrale : elektriciteitsproductie-eenheid waar producten met de GN-codes 2701, 2702, 2703 of 2704, zoals bedoeld in de EG-verordening nr. 2031/2001 van de Europese Commissie van 6 augustus 2001 tot wijziging van bijlage I van EEG-Verordening nr. 2658/87 van de Raad met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijke douanetarief, als brandstof worden of werden gebruikt; <br />76° kwalitatieve warmtekrachtinstallatie : warmtekrachtinstallatie waarvan het productieproces voldoet aan de kwaliteitsvoorwaarden die opgelegd zijn overeenkomstig artikel 7.1.2, § 2;<br />77° kwalitatieve warmtekrachtkoppeling : warmtekrachtkoppeling die voldoet aan de kwaliteitsvereisten, opgelegd overeenkomstig artikel 7.1.2, § 2;<br />78° leverancier : elke natuurlijke persoon of rechtspersoon die aan afnemers elektriciteit of aardgas verkoopt;<br />79° lokale adviescommissie : commissie als vermeld in artikel 7 van het decreet van 20 december 1996 tot regeling van het recht op minimumlevering van elektriciteit, gas en water;<br />80° m3(n) : de hoeveelheid gas die, bij een temperatuur van nul graden Celsius en onder absolute druk van 1,01325 bar, een volume van één kubieke meter inneemt;<br />81° marktpartij : producent, aardgasinvoerder, distributienetbeheerder, beheerder van het plaatselijk vervoernet van elektriciteit, beheerder van het transmissienet, de beheerder van het vervoernet, werkmaatschappij, leverancier, tussenpersoon, bevrachter of evenwichtsverantwoordelijke;<br />82° marktintroductieproject : project voor het installeren en monitoren van het gebruik van energiezuinige producten, technieken, systemen of hernieuwbare energietechnologieën die nog niet ruim verspreid zijn in het Vlaamse Gewest, door een particulier, een niet-commerciële instelling, een publiekrechtelijke persoon of een onderneming, die niet de ontwikkelaar, fabrikant of distributeur ervan is;<br />83° melding : de verplichte melding van de handelingen aan het college van burgemeester en schepenen, vermeld in artikel 94 van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening;<br />84° met een onderneming geassocieerde ondernemingen : de ondernemingen, met uitsluiting van de gemeenten en de netbeheerders, waarin de onderneming een deelneming bezit en waarin ze een invloed van betekenis uitoefent op de oriëntatie van het beleid; behoudens tegenbewijs wordt een invloed van betekenis vermoed als de stemrechten die aan deze deelneming verbonden zijn één vijfde of meer vertegenwoordigen van het totaal aantal stemrechten van de aandeel-houders of vennoten van deze ondernemingen;<br />85° met een onderneming verbonden ondernemingen : de ondernemingen, met uitsluiting van de gemeenten en de netbeheerders :<br />a) waarover de onderneming een controlebevoegdheid, vermeld in het Wetboek van vennootschappen, uitoefent;<br />b) die een controlebevoegdheid, vermeld in het Wetboek van vennootschappen, over de onderneming uitoefenen;<br />c) waarmee de onderneming een consortium, vermeld in het Wetboek van vennootschappen, vormt;<br />d) die, bij weten van haar bestuursorgaan, onder de controle staan van de ondernemingen, vermeld in a), b) en c) ;<br />86° middelgrote onderneming : ondernemingen die cumulatief aan de volgende voorwaarden voldoen :<br />a) minder dan 250 werknemers tewerkstellen;<br />b) een jaaromzet hebben van maximaal 50 miljoen euro of een jaarlijks balanstotaal van maximaal 43 miljoen euro;<br />c) beantwoorden aan het zelfstandigheidscriterium;<br />87° minister : de Vlaamse minister, bevoegd voor het energiebeleid;<br />88° nationaal register : het register zoals gedefinieerd in het samenwerkingsakkoord van 18 juni 2008 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de organisatie en het administratief beheer van het gestandaardiseerd en genormaliseerd registersysteem van België overeenkomstig richtlijn 2003/87 van het Europees Parlement en de Raad en beschikking 280/2004/EG van het Europees Parlement en de Raad;<br />89° net : distributienet, plaatselijk vervoernet van elektriciteit, transmissienet, vervoersnet, gesloten distributienet of privédistributienet;<br />90° netbeheerder : een elektriciteitsdistributienetbeheerder, een aardgasdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit;<br />91° neteigenaar : eigenaar van een net;<br />91°/1 netgebruiker : een natuurlijke persoon of rechtspersoon die elektriciteit of aardgas injecteert op of afneemt van een distributienet; <br />92° niet-commerciële instellingen : scholen, universiteiten, verzorgingsinstellingen en andere gemeenschapsdiensten, verenigingen zonder winstoogmerk en feitelijke verenigingen die een filantropisch, wetenschappelijk, technisch of pedagogisch doel nastreven op het gebied van energie, milieubescherming of bestrijding van sociale uitsluiting;<br />92°/1 ombudsdienst voor energie : de ombudsdienst, vermeld in artikel 27 van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt;<br />93° ondernemingen : elke natuurlijke persoon die koopman is of een zelfstandig beroep uitoefent, de vennootschappen die de rechtsvorm van een handelsvennootschap hebben aangenomen, de Europese economische samenwerkingsverbanden en de economische samenwerkingsverbanden die beschikken over een exploitatiezetel in het Vlaamse Gewest of die zich ertoe verbinden in het Vlaamse Gewest een exploitatiezetel te vestigen;<br />94° ondersteunende diensten : alle diensten die door een netbeheerder worden uitgevoerd om het transport van elektriciteit of aardgas over zijn net op een veilige, efficiënte en betrouwbare wijze te waarborgen;<br />95° onrendabele top : het productieafhankelijk gedeelte van de inkomsten dat nodig is om de netto contante waarde van een investering op nul te doen uitkomen en die berekend wordt aan de hand van een cashflowberekening;<br />96° ontsloten wooneenheid of gebouw : wooneenheid die of gebouw dat aan één van de volgende voorwaarden voldoet :<br />a) de wooneenheid of het gebouw is aangesloten op een aardgasdistributienet;<br />b) het betreft een aansluitbare wooneenheid of gebouw;<br />c) er is langs de openbare weg een biogasnet aanwezig of een warmtenet dat gevoed wordt op basis van restwarmte, hernieuwbare energiebronnen of kwalitatieve warmtekrachtkoppeling;<br />d) de wooneenheid of het gebouw heeft een energieprestatiepeil lager dan E20 of voorziet in zijn volledige verwarmingsbehoefte door middel van hernieuwbare energiebronnen; <br />97° openbaredienstverplichting : verplichting die betrekking heeft op de sociaaleconomische, ecologische of technische aspecten van de energievoorziening;<br />98° peil van globale warmte-isolatie (of K-peil) : peil van de globale warmte-isolatie zoals dat gedefinieerd is volgens de Belgische norm of de door de Vlaamse overheid vastgelegde specificaties;<br />99° peil van primair energieverbruik (of E-peil) : peil dat de globale energetische prestatie weergeeft en uitgedrukt wordt door de verhouding van het karakteristiek jaarlijks primair energieverbruik tot een referentiewaarde;<br />100° plaatselijk vervoernet van elektriciteit : het geheel van elektrische leidingen met een nominale spanning tot en met 70 kilovolt en de bijbehorende installaties, die gelegen zijn in het Vlaamse Gewest, dat voornamelijk gebruikt wordt om het vervoer van elektriciteit naar distributienetten mogelijk te maken en dat wordt vastgesteld overeenkomstig artikel 4.1.2;<br />101° primair energieverbruik : de totale hoeveelheid energie die Vlaanderen nodig heeft om aan de energiebehoefte te voldoen;<br />101°/1 privédistributienet : een elektriciteitslijn, aardgasleiding of net voor distributie van elektriciteit of aardgas dat niet wordt uitgebaat door een door de VREG aangewezen distributienetbeheerder noch door de beheerder van het plaatselijk vervoersnet, en dat geen gesloten distributienet, directe lijn of directe leiding is;<br />102° producent : iedere natuurlijke persoon of rechtspersoon die elektriciteit opwekt, biogas produceert en/of aardgas wint;<br />103° promotor-bouwheer : een natuurlijke persoon of rechtspersoon die als geregelde werkzaamheid heeft om woningen of appartementen op te richten, te laten oprichten of te verbouwen om ze onder bezwarende titel te vervreemden;<br />104° protocol van Kyoto : protocol van Kyoto bij het raamverdrag van de Verenigde Naties inzake klimaatverandering, opgemaakt in Kyoto op 11 december 1997 en goedgekeurd bij het decreet van 22 februari 2002;<br />105° rationeel energiebeheer : het geheel van handelingen die ondernomen worden om het energiegebruik te meten, te analyseren, te verminderen en te volgen met het oog op het verkrijgen van een rationeel energiegebruik, met inbegrip van het volgen van vormingsactiviteiten rond rationeel energiegebruik en het ondernemen van haalbaarheidsstudies voor de installatie van een energiezuinig product, systeem of een energiezuinige techniek;<br />106° rationeel energiegebruik : het zo efficiënt mogelijke gebruik van energie;<br />107° reconciliatie : onderlinge verrekening tussen marktpartijen op basis van het verschil tussen gealloceerde en werkelijk gemeten energiehoeveelheden;<br />108° referentiejaar : met betrekking tot een vliegtuigexploitant die na 1 januari 2006 zijn exploitatie in de Gemeenschap is begonnen, het eerste kalenderjaar van die exploitatie; in alle andere gevallen, het kalenderjaar dat is ingegaan op 1 januari 2006;<br />109° referentieproject : project voor het installeren en monitoren bij een eerste gebruiker, die niet de ontwikkelaar, fabrikant of distributeur is, van voor het Vlaamse Gewest nieuwe energiezuinige producten, technieken, systemen of hernieuwbare energietechnologieën of van voor het Vlaamse Gewest nieuwe toepassingen van energiezuinige producten, technieken, systemen of hernieuwbare energietechnologieën door de ontwikkelaar, fabrikant of distributeur ervan;<br />110° REG-actieplan : actieplan voor de bevordering van het rationeel energiegebruik, waarbij de acties minstens bestaan uit het geven van een financiële stimulans aan de afnemers voor het uitvoeren van maatregelen en uit het verlenen van informatie, waardoor de aandacht op de actie wordt gevestigd en de doelgroep de nodige informatie krijgt over de besparingsmogelijkheden ervan;<br />111° rendabele investeringen : investeringen met een interne rentevoet na belastingen die hoger is dan een minimum, dat vastgelegd is door de Vlaamse Regering;<br />112° richtlijn 2010/31/EU : richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen; <br />113° richtlijn 2003/87/EG : richtlijn 2003/87/EG van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van richtlijn 96/61/EG van de Raad;<br />113°/1 slimme meter : een elektronische meter die energiestromen en aanverwante fysische grootheden meet en registreert en die uitgerust is met een tweerichtingscommunicatiemiddel, dat ervoor zorgt dat de gegevens niet alleen lokaal, maar ook op afstand uitgelezen kunnen worden en dat de meter in staat is om op basis van de gegevens die hij lokaal of van op afstand ontvangt bepaalde acties uit te voeren;<br />114° startverklaring : een schriftelijke verklaring met de startdatum van de werkzaamheden en het overzicht van de prestaties inzake EPB-eisen die voor het gebouw worden nagestreefd;<br />114/1° subdossier : elke eenheid van aangrenzende lokalen die in hetzelfde gebouw gelegen zijn, die het voorwerp zijn van werken van dezelfde aard, die dezelfde bestemming hebben en die ten hoogste één wooneenheid bevatten; <br />115° subsidieovereenkomst : een overeenkomst waarin de rechten en de verplichtingen van de Vlaamse Regering en van de begunstigde van de subsidie worden geregeld;<br />115/1° systeemeisen : eisen in verband met de totale energieprestatie, het adequaat installeren, dimensioneren, afstellen en controleren van de technische bouwsystemen die in nieuwe gebouwen worden geïnstalleerd of in bestaande gebouwen nieuw worden geïnstalleerd, vervangen of verbeterd;<br />115/2° technisch bouwsysteem : de installaties voor energieopwekking, ruimteverwarming, bereiding van sanitair warm water, koeling, ventilatie en verlichting of een combinatie daarvan; <br />116° technische reglementen : het technisch reglement distributie elektriciteit, het technisch reglement distributie gas en het technisch reglement plaatselijk vervoer van elektriciteit;<br />117° technisch reglement distributie elektriciteit : de technische en operationele regels die verbonden zijn aan het beheer van het elektriciteitsdistributienet, inclusief de regels inzake aansluiting, meting en toegang, vermeld in artikel 4.2.1;<br />118° technisch reglement distributie gas : de technische en operationele regels die verbonden zijn aan het beheer van het aardgasdistributienet, inclusief de regels inzake aansluiting, meting en toegang, vermeld in artikel 4.2.1;<br />119° technisch reglement plaatselijk vervoer van elektriciteit : de technische en operationele regels die verbonden zijn aan het beheer van het plaatselijk vervoernet van elektriciteit, inclusief de regels inzake aansluiting, meting en toegang, vermeld in artikel 4.2.1;<br />120° titularis van een toegangspunt : natuurlijke persoon of rechtspersoon die in het toegangsregister bekend staat als afnemer of producent op het toegangspunt in kwestie;<br />120°/1 toegang tot het net : de mogelijkheid tot injectie of afname van actieve energie op één of meer toegangspunten, met inbegrip van het gebruik van het net en de aansluitingsinstallaties die door de beheerder van het betrokken net worden beheerd, en van diens ondersteunende diensten; <br />121° toegangshouder : natuurlijke persoon of rechtspersoon die een contract heeft gesloten met een netbeheerder, beheerder van het transmissienet of beheerder van het vervoersnet met betrekking tot de toegang tot diens net op een bepaald toegangspunt;<br />122° toegangspunt : afnamepunt of injectiepunt;<br />123° toegangsregister : register met alle toegangspunten van een bepaald net, dat opgesteld en beheerd wordt door de betrokken netbeheerder, beheerder van het transmissienet of beheerder van het vervoernet, en waarin onder meer voor ieder toegangspunt de titularis van het toegangspunt en de toegangshouder worden vermeld;<br />124° ton CO2-equivalent : een metrische ton koolstofdioxide (CO2) of een hoeveelheid van een ander broeikasgas met een gelijkwaardig aardopwarmingspotentieel;<br />125° transmissienet : het transmissienet, vermeld in artikel 2, 7°, van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt;<br />126° tussenpersoon : elke natuurlijke persoon of rechtspersoon die elektriciteit of aardgas koopt met het oog op de doorverkoop aan een andere tussenpersoon of leverancier;<br />127° verslaggever : de natuurlijke persoon, houder van het diploma van architect, burgerlijk ingenieur-architect, burgerlijk ingenieur, industrieel ingenieur, technisch ingenieur of bio-ingenieur  of interieurarchitect, afgeleverd vanaf 2011, of een daarmee gelijkgesteld buitenlands diploma, die in opdracht van de aangifteplichtige de startverklaring overmaakt aan het Vlaams Energieagentschap en de EPB-aangifte opstelt of de rechtspersoon, binnen wiens organisatie in opdracht van de aangifteplichtige de startverklaring overgemaakt wordt aan het Vlaams Energieagentschap en de EPB-aangifte opgesteld wordt door een zaakvoerder, bestuurder of werknemer, houder van het diploma van architect, burgerlijk ingenieur architect, burgerlijk ingenieur, industrieel ingenieur, technisch ingenieur of bio-ingenieur of interieurarchitect, afgeleverd vanaf 2011, of een daarmee gelijkgesteld buitenlands diploma;<br />128° vervoersnet : het vervoersnet, vermeld in artikel 1, 10°, van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen;<br />129° vervoeronderneming : vervoeronderneming, vermeld in artikel 1, 9°, van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen;<br />130° Vlaams Energieagentschap : het agentschap dat opgericht werd door het besluit van de Vlaamse Regering van 16 april 2004 tot oprichting van het intern verzelfstandigd agentschap, het Vlaamse Energieagentschap;<br />131° vliegtuigexploitant : persoon die een luchtvaartuig exploiteert op het moment dat die een door de Vlaamse Regering nader te bepalen luchtvaartactiviteit uitoefent, of, wanneer die persoon niet bekend is of niet is geïdentificeerd door de eigenaar van het vliegtuig, de eigenaar van het vliegtuig;<br />131°/1 vloeibare biomassa : vloeibare brandstof voor energiedoeleinden andere dan vervoer, waaronder elektriciteit, verwarming en koeling, die geproduceerd is uit biomassa;<br />132° VREG : het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap, dat overeenkomstig artikel 3.1.1 wordt opgericht;<br />133° wanbetaling : de niet-betaling of onvolledige betaling van minstens één elektriciteits- of aardgasfactuur;<br />134° warmtedoorgangscoëfficiënt (of U-waarde) : de warmtedoorgang door een constructieonderdeel per eenheid van oppervlakte, eenheid van tijd en eenheid van temperatuurverschil tussen de omgevingen aan beide zijden van het deel, zoals die gedefinieerd is volgens de Belgische norm of de door de Vlaamse overheid vastgelegde specificaties;<br />135° warmtekrachtcertificaat : uniek, verhandelbaar, elektronisch en overdraagbaar immaterieel goed dat aantoont dat een bepaalde productie-installatie in een bepaalde periode 1 000 kWh primaire energiebesparing heeft gerealiseerd door gebruik te maken van kwalitatieve warmtekrachtkoppeling ten opzichte van een moderne referentiecentrale en een moderne referentieketel en/of 1 000 kWh elektriciteit heeft opgewekt uit kwalitatieve warmtekrachtkoppeling;<br />136° warmtekrachtinstallatie : installatie die in één proces thermische warmte en elektrische of mechanische energie opwekt;<br />137° warmtekrachtkoppeling : gelijktijdige opwekking in één proces van thermische warmte en elektrische of mechanische energie;<br />138° werkmaatschappij : de privaatrechtelijke vennootschap waarin de distributienetbeheerder participeert of de publiekrechtelijke rechtspersoon die participeert in de distributienetbeheerder, die in naam en voor rekening van de distributienetbeheerder belast is met de exploitatie van zijn net en de toepassing van openbaredienstverplichtingen;<br />139° wooneenheid : elke eenheid in een woongebouw die over de nodige woonvoorzieningen beschikt om autonoom te kunnen functioneren.
 
 ## TITEL II. DOELSTELLINGEN
 
@@ -736,6 +736,10 @@ Voor de aflevering van energieprestatiecertificaten bij bouw wordt de verslaggev
 
 De Vlaamse Regering kan voorwaarden vastleggen waaraan de opleidingsinstellingen voor de energiedeskundigen of de aannemers, vermeld in artikel 10.1.5, dienen te voldoen.<br /><br />De Vlaamse Regering kan de procedure voor de erkenning van de opleidingsinstellingen en de procedure en voorwaarden voor de schorsing en intrekking van die erkenning vastleggen. De Vlaamse Regering kan ook kwaliteitseisen vastleggen en wijst de instantie aan die belast is met de controle op hun werkzaamheden.<br /><br />De Vlaamse Regering kan tevens de inhoud van de door de erkende opleidingsinstellingen aan de energiedeskundigen en de aannemers te verstrekken opleidingen bepalen.
 
+### ART. 10.1.5.
+
+De Vlaamse Regering zorgt voor een certificatieregeling voor aannemers van hernieuwbare energiesystemen en energie-efficientiesystemen, in ieder geval voor kleinschalige warmwaterketels en verwarmingsketels op biomassa, fotovoltaïsche en thermische systemen op zonne-energie, ondiepe geothermische systemen en warmtepompen.<br /><br />De Vlaamse Regering legt de procedure voor de certificering en de procedure en voorwaarden voor de schorsing en intrekking van die certificering vast. De Vlaamse Regering legt ook de kwaliteitseisen vast en wijst de instantie aan die belast is met de controle op hun werkzaamheden.<br /><br />De Vlaamse Regering erkent certificaten als gelijkwaardig die door andere lidstaten of andere gewesten overeenkomstig de criteria van de richtlijn 2009/28/EG zijn afgegeven.
+
 ## TITEL XI. ENERGIEPRESTATIES VAN GEBOUWEN
 
 ## HOOFDSTUK I. Energieprestaties en binnenklimaat van gebouwen
@@ -744,7 +748,7 @@ De Vlaamse Regering kan voorwaarden vastleggen waaraan de opleidingsinstellingen
 
 ### ART. 11.1.1.
 
-§ 1. De Vlaamse Regering bepaalt de EPB-eisen waaraan gebouwen moeten voldoen waarvoor een aanvraag tot het verkrijgen van een stedenbouwkundige vergunning wordt ingediend, als vermeld in artikel 93, § 1, 1°, 6° en 7°, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening.<br /><br />De invoering van de meldingsplicht, vermeld in artikel 94, § 1, van het decreet van mei 1999 houdende de organisatie van de ruimtelijke ordening laat voor de gebouwen, vermeld in het eerste lid, de door de Vlaamse Regering op grond van het eerste lid vastgestelde EPB-eisen onverminderd van toepassing.<br /><br />Bij het vaststellen van de eisen wordt een onderscheid gemaakt tussen nieuwe en bestaande gebouwen. Er kan ook een onderscheid gemaakt worden tussen verschillende categorieën gebouwen.<br /><br />Als op een gebouw EPB-eisen van toepassing zijn, gelden die voor de totaliteit van de werken, handelingen en wijzigingen die aan het gebouw uitgevoerd worden en dus ook voor de werken, handelingen en wijzigingen die op zich niet vergunningsplichtig zijn.<br /><br />§ 2. De Vlaamse Regering bepaalt de EPB-eisen waaraan bestaande gebouwen moeten voldoen als werken, wijzigingen of handelingen uitgevoerd worden die de energieprestatie van het gebouw bepalen en daarvoor geen aanvraag tot stedenbouwkundige vergunning moet worden ingediend, als vermeld in artikel 93, § 1, 1°, 6° en 7°, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening.
+§ 1. De Vlaamse Regering bepaalt de EPB-eisen waaraan gebouwen moeten   voldoen waarvoor een aanvraag tot het verkrijgen van een stedenbouwkundige   vergunning wordt ingediend, als vermeld in artikel 4.2.1, 1°, 6° en 7°, van de   Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.<BR><BR>De invoering van de   meldingsplicht, vermeld in artikel 4.2.2, § 1, van de Vlaamse Codex Ruimtelijke   Ordening van 15 mei 2009 laat voor de gebouwen, vermeld in het eerste lid, de   door de Vlaamse Regering op grond van het eerste lid vastgestelde EPB-eisen   onverminderd van toepassing.<BR><BR>Bij het vaststellen van de eisen wordt een   onderscheid gemaakt tussen nieuwe en bestaande gebouwen. Er kan ook een   onderscheid gemaakt worden tussen verschillende categorieën gebouwen. De Vlaamse   Regering bepaalt welke EPB-eisen overeenkomen met een bijna-energieneutraal   gebouw. De Vlaamse Regering zorgt er in dat kader voor dat :<BR>1° uiterlijk op   1 januari 2021 de EPB-eisen voor alle nieuwe gebouwen overeenkomen met de   EPB-eisen voor bijna-energieneutrale gebouwen;<BR>2° na 31 december 2018 nieuwe   gebouwen waarin overheidsinstanties zijn gehuisvest die eigenaar zijn van deze   gebouwen, bijna-energieneutrale gebouwen zijn.<BR><BR>Als op een gebouw   EPB-eisen van toepassing zijn, gelden die voor de totaliteit van de werken,   handelingen en wijzigingen die aan het gebouw uitgevoerd worden en dus ook voor   de werken, handelingen en wijzigingen die op zich niet vergunningsplichtig   zijn.<BR><BR>Indien een gebouw waarvoor geen energie wordt verbruikt om ten   behoeve van mensen een specifieke binnentemperatuur te verkrijgen, binnen de   twaalf maanden na de ingebruikname van de werken waarvoor conform artikel 4.2.1,   1°, 6° en 7°, en artikel 4.2.2 van de Vlaamse Codex Ruimtelijke Ordening van 15   mei 2009 een stedenbouwkundige vergunning werd aangevraagd of een melding werd   gedaan, wordt aangepast om alsnog energie te verbruiken om ten behoeve van   mensen een specifiek binnenklimaat te creëren, dan moet alsnog worden voldaan   aan de EPB-eisen die van toepassing zouden zijn geweest mocht in het gebouw   vanaf het begin energie zijn verbruikt om ten behoeve van mensen een specifiek   binnenklimaat te creëren.<BR><BR>§ 1/1. In afwijking van paragraaf 1 kunnen de   gemeenten, onder de voorwaarden die bepaald zijn door de Vlaamse Regering, voor   nieuwe wijken strengere eisen vastleggen met betrekking tot het E-peil en het   K-peil. <BR><BR>§ 2. De Vlaamse Regering bepaalt de EPB-eisen waaraan bestaande   gebouwen moeten voldoen als werken, wijzigingen of handelingen uitgevoerd worden   die de energieprestatie van het gebouw bepalen en daarvoor geen aanvraag van een   stedenbouwkundige vergunning moet worden ingediend, als vermeld in artikel   4.2.1, 1°, 6° en 7°, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009,   of geen melding, als vermeld in artikel 4.2.2, § 1, van de Vlaamse Codex   Ruimtelijke Ordening van 15 mei 2009, moet worden gedaan.
 
 ### ART. 11.1.2.
 
@@ -752,27 +756,31 @@ Bij nieuwe gebouwen met een bruikbare vloeroppervlakte groter dan 1 000 m2, word
 
 ### ART. 11.1.3.
 
-De Vlaamse Regering kan nadere regels bepalen over de vorm en de inhoud van de haalbaarheidsstudie, vermeld in artikel 11.1.2.
+De Vlaamse Regering kan bij het bepalen van de EPB-eisen voor nieuwe gebouwen en bestaande gebouwen die ingrijpend worden gerenoveerd, vastleggen dat een minimumniveau van energie uit hernieuwbare energiebronnen moet worden gehaald.
 
 ### ART. 11.1.4.
 
-De Vlaamse Regering kan vrijstellingen of afwijkingen toestaan op de door haar vastgestelde EPB-eisen :<br />1° voor beschermde monumenten of gebouwen die deel uitmaken van een beschermd landschap, stads- of dorpsgezicht of gebouwen die opgenomen zijn in de inventaris van het bouwkundige erfgoed;<br />2° voor gebouwen die worden gebruikt voor erediensten en religieuze activiteiten;<br />3° als voor het verkrijgen van de stedenbouwkundige vergunning de tussenkomst van een architect niet vereist is;<br />4° als het behalen van de EPB-eisen bij bestaande gebouwen en bij nieuwe gebouwen technisch, functioneel of economisch niet haalbaar is;<br />5° voor industriële gebouwen waarin industriële processen plaatsvinden die zelf warmte produceren en waarvoor om die reden in koeling of een geforceerde ventilatie moet worden voorzien ten behoeve van een aanvaardbaar binnenklimaat;<br />6° voor tijdelijke constructies;<br />7° voor alleenstaande gebouwen met een totale bruikbare vloeroppervlakte van minder dan 50 m2.
+De Vlaamse Regering kan vrijstellingen of afwijkingen toestaan op de door haar vastgestelde EPB-eisen :<br />1° voor beschermde monumenten of gebouwen die deel uitmaken van een beschermd landschap, stads- of dorpsgezicht of gebouwen die opgenomen zijn in de inventaris van het bouwkundige erfgoed voor zover de toepassing van bepaalde EPB-eisen hun karakter of aanzicht op onaanvaardbare wijze zou veranderen;<br />2° voor gebouwen die worden gebruikt voor erediensten en religieuze activiteiten;<br />3° als voor het verkrijgen van de stedenbouwkundige vergunning of de melding de tussenkomst van een architect niet vereist is;<br />4° als het behalen van de EPB-eisen bij bestaande gebouwen en bij nieuwe gebouwen technisch, functioneel of economisch niet haalbaar is;<br />5° voor industriële gebouwen waarin industriële processen plaatsvinden die zelf warmte produceren en waarvoor om die reden in koeling of een geforceerde ventilatie moet worden voorzien ten behoeve van een aanvaardbaar binnenklimaat;<br />6° voor tijdelijke constructies;<br />7° voor alleenstaande gebouwen met een totale bruikbare vloeroppervlakte van minder dan 50 m2.<br /><br />Als de Vlaamse Regering wat punt 3° betreft een vrijstelling toestaat, als vermeld in het eerste lid, 3°, dan gelden de EPB-eisen, vermeld in artikel 11.1.1, § 2.
 
 ### ART. 11.1.5.
 
-De Vlaamse Regering legt de berekeningsmethode van de energieprestatie van een gebouw vast op basis van het algemene kader in de bijlage van de richtlijn 2002/91/EG.<br /><br />De Vlaamse Regering kan daarbij bepalen dat gebouwen die gebruikmaken van innovatieve bouwconcepten of technologieën een alternatieve berekeningsmethode mogen toepassen.<br /><br />De energieprestatie van een gebouw wordt op transparante wijze uitgedrukt.
+De Vlaamse Regering legt de berekeningsmethode van de energieprestatie van een gebouw vast op basis van het algemene kader in de bijlage van de richtlijn 2010/31/EG.<br /><br />De Vlaamse Regering kan daarbij bepalen dat gebouwen die gebruikmaken van innovatieve bouwconcepten of technologieën een alternatieve berekeningsmethode mogen toepassen.<br /><br />De energieprestatie van een gebouw wordt op transparante wijze uitgedrukt.
 
 ### ART. 11.1.6.
 
-De Vlaamse Regering evalueert minstens om de twee jaar de berekeningsmethode van de energieprestaties van gebouwen, de te volgen procedures, de EPB-eisen en de administratieve lasten van de regelgeving en past die in voorkomend geval aan.
+De Vlaamse Regering evalueert minstens om de twee jaar de EPB-eisen en de berekeningsmethodiek en om de vier jaar de te volgen procedures en de administratieve lasten van de regelgeving en past die in voorkomend geval aan.
 
 ## [Afdeling I/1. Voorafgaandelijke handelingen (ing. decr. 18 november 2011, art. 12, I: 15 december 2011)]
+
+### ART. 11.1.6/1.
+
+§ 1. Voor werken en handelingen aan gebouwen waarvoor met toepassing van artikel 11.1.1, § 1, EPB-eisen gelden, stelt de aangifteplichtige voor de aanvang van de werken en handelingen een verslaggever aan.<br /><br />Die verslaggever vervult zijn opdracht onafhankelijk, objectief en neutraal ten aanzien van de aangifteplichtige. Tijdens het contact met de aangifteplichtige onthoudt hij zich ervan commerciële voorstellen te doen met betrekking tot energieleveringen aan het gebouw of met betrekking tot de te realiseren maatregelen om te voldoen aan de EPB-eisen.<br /><br />§ 2. Voorafgaand aan de start van de werken dient de verslaggever een berekening te maken met de maatregelen die door de architect en in voorkomend geval, de ontwerper van technische bouwsystemen zijn genomen om de EPB-eisen te halen. De verslaggever maakt de berekening op basis van de materialen en de keuzes die door de architect en de ontwerper van de technische bouwsystemen zijn gemaakt om aan de EPB-eisen te voldoen. De architect en de ontwerper van de technische bouwsystemen zijn ertoe gehouden die gegevens ter beschikking te stellen van de aangifteplichtige en de verslaggever.<br /><br />Als de berekening aantoont dat het ontworpen gebouw niet zal voldoen aan de EPB-eisen, signaleert de verslaggever dat aan de aangifteplichtige en aan de architect. De verslaggever geeft hen één schriftelijk niet-bindend advies over hoe ze kunnen voldoen aan de EPB-eisen. Hij toont aan welke punten kunnen worden bijgestuurd en bakent de probleemzones af. De aangifteplichtige neemt mede op voorstel van de architect, de uiteindelijke beslissing over de maatregelen om te voldoen aan de EPB-eisen en de eventuele noodzakelijke bijsturingen.<br /><br />§ 3. In het kader van de toewijzingsprocedure van een aannemingsopdracht bezorgt de opdrachtgever of de architect aan de gecontracteerde aannemers de beschikbare gegevens over het behalen van de EPB-eisen.
 
 ## Afdeling II. De startverklaring
 
 ### ART. 11.1.7.
 
-§ 1. Voor werken en handelingen aan gebouwen waarvoor met toepassing van artikel 11.1.1, § 1, EPB-eisen gelden, stelt de aangifteplichtige voor de aanvang van de werken en handelingen een verslaggever aan.<br /><br />§ 2. In het kader van de toewijzingsprocedure van een aannemingsopdracht, bezorgt de opdrachtgever of de architect aan de gecontacteerde aannemers de beschikbare gegevens over het behalen van de EPB-eisen. De werken en handelingen mogen pas worden aangevat nadat een startverklaring is ingediend. De startverklaring wordt voor het aanvatten van de werken en handelingen door de verslaggever namens de aangifteplichtige ingediend bij het Vlaams Energieagentschap.<br /><br />De prestaties inzake EPB-eisen die voor het gebouw worden nagestreefd, worden door de architect aan de verslaggever verstrekt, die ze opneemt in de startverklaring. De gegevens die aan de basis liggen van de keuze voor materialen en maatregelen om te voldoen aan de EPB-eisen, zijn opvraagbaar door het Vlaams Energieagentschap en de partijen die bij de werken en handelingen betrokken zijn. De architect stelt die gegevens op eerste verzoek ter beschikking.<br /><br />De gegevens van de materialen en installaties die in het gebouw gebruikt worden en die betrekking hebben op het behalen van de EPB-eisen, zijn opvraagbaar door de verslaggever. De aangifteplichtige, de architect, de aannemer of installateur stellen die gegevens op eerste verzoek ter beschikking.<br /><br />De verslaggever houdt gedurende drie jaar van elke door hem opgestelde startverklaring een papieren afdruk en de bijbehorende gegevens bij zich. Die documenten zijn ondertekend door de verslaggever, de aangifteplichtige en de architect. De verslaggever stelt op eenvoudig verzoek een exemplaar van de papieren afdruk en de bijbehorende gegevens ter beschikking aan het Vlaams Energieagentschap.<br /><br />§ 3. Als er voor het indienen van de EPB-aangifte een verandering van verslaggever plaatsvindt, meldt de nieuw aangestelde verslaggever zijn naam zo snel mogelijk elektronisch aan het Vlaams Energieagentschap.
+§ 1. De werken en handelingen mogen pas worden aangevat nadat een startverklaring is ingediend. De startverklaring wordt voor het aanvatten van de werken en handelingen door de verslaggever namens de aangifteplichtige ingediend bij het Vlaams Energieagentschap.<br /><br />De gegevens die aan de basis liggen van de keuze voor materialen en maatregelen om te voldoen aan de EPB-eisen, zijn opvraagbaar door het Vlaams Energieagentschap en de partijen die bij de werken en handelingen betrokken zijn. De architect en de ontwerper van de technische installatie stellen die gegevens op eerste verzoek ter beschikking.<br /><br />§ 2. De verslaggever houdt gedurende drie jaar van elke door hem opgestelde startverklaring een papieren afdruk en de bijbehorende gegevens bij zich. Die documenten zijn ondertekend door de verslaggever, de aangifteplichtige en de architect. De verslaggever stelt op eenvoudig verzoek een exemplaar van de papieren afdruk en de bijbehorende gegevens ter beschikking aan het Vlaams Energieagentschap.<br /><br />§ 3. Als er voor de indiening van de EPB-aangifte een verandering van verslaggever plaatsvindt, meldt de nieuw aangestelde verslaggever zijn naam zo snel mogelijk elektronisch aan het Vlaams Energieagentschap.
 
 ## Afdeling III. EPB-aangifte
 
@@ -790,7 +798,7 @@ Als er voor een gebouw volgens artikel 11.1.1, § 2, EPB-eisen gelden is de eige
 
 ### ART. 11.1.11.
 
-De verslaggever stelt de EPB-aangifte op conform de uitgevoerde werken. Hij omschrijft de maatregelen die de energieprestaties en het binnenklimaat van het gebouw bepalen en berekent of het gebouw aan de EPB-eisen voldoet. Hij is verantwoordelijk voor de correcte rapportering van de feitelijke toestand van het gebouw in de EPB-aangifte.<br /><br />Als de architect die met de controle op de uitvoering van de werken belast is tijdens de uitvoering vaststelt dat er een ernstig risico bestaat dat de EPB-eisen niet gerespecteerd zullen worden, brengt hij de aangifteplichtige en, als dat een andere persoon dan de architect is, de verslaggever hiervan per aangetekende brief zo snel mogelijk op de hoogte.
+De verslaggever stelt de EPB-aangifte op conform de uitgevoerde werken. Hij omschrijft de maatregelen die de energieprestaties en het binnenklimaat van het gebouw bepalen en berekent of het gebouw aan de EPB-eisen voldoet. Hij is verantwoordelijk voor de correcte rapportering van de feitelijke toestand van het gebouw in de EPB-aangifte.<br /><br />De gegevens van de materialen en installaties die in het gebouw effectief gebruikt worden en die betrekking hebben op het behalen van de EPB-eisen, zijn opvraagbaar door de verslaggever. De aangifteplichtige, de architect of de aannemer stellen die gegevens op eerste verzoek ter beschikking.<br /><br />Als de architect die met de controle op de uitvoering van de werken belast is tijdens de uitvoering vaststelt dat er een ernstig risico bestaat dat de EPB-eisen niet gerespecteerd zullen worden, brengt hij de aangifteplichtige en, als dat een andere persoon dan de architect is, de verslaggever hiervan per aangetekende brief zo snel mogelijk op de hoogte.
 
 ### ART. 11.1.12.
 
@@ -798,13 +806,13 @@ De aangifteplichtige of zijn rechtsopvolgers mogen de in de EPB-aangifte vermeld
 
 ### ART. 11.1.13.
 
-De Vlaamse Regering bepaalt de nadere regels tot vaststelling van de vorm en de inhoud van de startverklaring, de EPB-aangifte, de bijbehorende plannen en bijlagen. De Vlaamse Regering bepaalt de nadere regels voor het indienen van de EPB-aangifte en de startverklaring.
+De Vlaamse Regering bepaalt de nadere regels tot vaststelling van de vorm en de inhoud van de startverklaring, de haalbaarheidsstudie de EPB-aangifte, de bijbehorende plannen en bijlagen. De Vlaamse Regering bepaalt de nadere regels voor het indienen van de startverklaring, de haalbaarheidsstudie en de EPB-aangifte.
 
 ## Afdeling IV. Energieprestatiedatabank
 
 ### ART. 11.1.14.
 
-§ 1. Het Vlaams Energieagentschap houdt een energieprestatiedatabank bij.<br /><br />§ 2. De Vlaamse Regering bepaalt welke gegevens uit de melding, de aanvraag voor de stedenbouwkundige vergunning en de stedenbouwkundige vergunning door de overheid die de stedenbouwkundige vergunning heeft verleend, elektronisch worden bijgehouden. Iedere overheid die bevoegd is om stedenbouwkundige vergunningen te verlenen of meldingen te registreren, bezorgt het Vlaams Energieagentschap maandelijks en elektronisch een lijst van de gemelde, vergunde, geschorste en vernietigde werken, wijzigingen of handelingen waarvoor EPB-eisen gelden. Deze gegevens worden opgenomen in de energieprestatiedatabank. De Vlaamse Regering legt vast in welke vorm die gegevens uitgewisseld worden.
+§ 1. Het Vlaams Energieagentschap houdt een energieprestatiedatabank bij. Het Vlaams Energieagentschap ziet erop toe dat regelmatig bijgewerkte lijsten met geregistreerde verslaggevers ter beschikking worden gesteld.<br /><br />§ 2. De Vlaamse Regering bepaalt welke gegevens uit de melding, de aanvraag voor de stedenbouwkundige vergunning en de stedenbouwkundige vergunning door de overheid die de stedenbouwkundige vergunning heeft verleend, elektronisch worden bijgehouden. Iedere overheid die bevoegd is om stedenbouwkundige vergunningen te verlenen of meldingen te registreren, bezorgt het Vlaams Energieagentschap maandelijks en elektronisch een lijst van de gemelde, vergunde, geschorste en vernietigde werken, wijzigingen of handelingen waarvoor EPB-eisen gelden. Deze gegevens worden opgenomen in de energieprestatiedatabank. De Vlaamse Regering legt vast in welke vorm die gegevens uitgewisseld worden.<br /><br />Wanneer de gemeente strengere eisen vastlegt, als bedoeld in artikel 11.1.1, § 1/1, dan vermeld zij op de lijst, vermeld in het eerste lid, tevens voor welke stedenbouwkundige vergunningen deze strengere eisen van toepassing zijn.<br /><br />Elke aangifteplichtige of verslaggever, woonachtig of met zetel in België, wordt in de energieprestatiedatabank uniek geïdentificeerd aan de hand van het ondernemingnummer, het rijksregisternummer of het vreemdelingennummer. De Vlaamse Regering kan voor aangifteplichtigen of verslaggevers die niet woonachtig zijn of een zetel hebben in België een alternatieve identificatiemethode vastleggen. De Vlaamse Regering bepaalt de manier waarop deze gegevens in de energieprestatiedatabank worden opgenomen.<br /><br />De gegevens in de energieprestatiedatabank zijn alleen toegankelijk voor de diensten van de Vlaamse overheid en de betrokken vergunningverlenende overheid. De verslaggever en de aangifteplichtige hebben alleen toegang tot de gegevens van hun eigen dossiers.
 
 ## [HOOFDSTUK I/1. Gebruik van verwarmingsinstallaties, technische installaties en technische bouwsystemen, gebouwautomatisering en -controlesystemen (ing. Decr 30 oktober 2020, art. 31, I: 5 december 2020)]
 
@@ -812,7 +820,7 @@ De Vlaamse Regering bepaalt de nadere regels tot vaststelling van de vorm en de 
 
 ### ART. 11.2.1.
 
-§ 1. De Vlaamse Regering kan de eigenaars of gebruikers van een gebouw opleggen dat het gebouw over een energieprestatiecertificaat moet beschikken.<br /><br />Het energieprestatiecertificaat bevat referentiewaarden op basis waarvan de energieprestaties van het gebouw kunnen worden beoordeeld en vergeleken met die van andere gebouwen. In het energieprestatiecertificaat worden ook aanbevelingen opgenomen voor de kostenefficiënte verbetering van de energieprestatie van het gebouw of tips voor goed gebruikersgedrag.<br /><br />De Vlaamse Regering bepaalt de berekeningsmethode, de verdere inhoud en de vorm van het energieprestatiecertificaat. De Vlaamse Regering kan ook nadere regels vastleggen voor de labeling van gebouwen.<br /><br />De geldigheidsduur van een energieprestatiecertificaat kan niet langer zijn dan tien jaar. De Vlaamse Regering bepaalt de gevallen waarin een energieprestatiecertificaat kan worden ingetrokken of aangepast.<br /><br />§ 2. In gebouwen met een bruikbare vloeroppervlakte groter dan 1 000 m2 en waarin overheidsdiensten en instellingen gevestigd zijn die aan een groot aantal personen overheidsdiensten verstrekken, en die derhalve vaak door het publiek bezocht worden, wordt een geldig energieprestatiecertificaat aangebracht op een opvallende plaats die duidelijk zichtbaar is voor het publiek.<br /><br />De Vlaamse Regering bepaalt de nadere regels voor de bruikbare vloeroppervlakte.
+§ 1. De Vlaamse Regering kan de eigenaars of gebruikers van een gebouw opleggen dat het gebouw over een energieprestatiecertificaat moet beschikken.<br /><br />Het energieprestatiecertificaat bevat referentiewaarden op basis waarvan de energieprestaties van het gebouw kunnen worden beoordeeld en vergeleken met die van andere gebouwen. In het energieprestatiecertificaat worden ook aanbevelingen opgenomen voor de kostenefficiënte verbetering van de energieprestatie van het gebouw of tips voor goed gebruikersgedrag.<br /><br />De Vlaamse Regering bepaalt de berekeningsmethode, de verdere inhoud en de vorm van het energieprestatiecertificaat. De Vlaamse Regering kan ook nadere regels vastleggen voor de labeling van gebouwen.<br /><br />De geldigheidsduur van een energieprestatiecertificaat kan niet langer zijn dan tien jaar. De Vlaamse Regering bepaalt de gevallen waarin een energieprestatiecertificaat kan worden ingetrokken of aangepast.<br /><br />§ 2. In gebouwen met een bruikbare vloeroppervlakte groter dan 1 000 m2 en waarin overheidsdiensten en instellingen gevestigd zijn die aan een groot aantal personen overheidsdiensten verstrekken, en die derhalve vaak door het publiek bezocht worden, wordt een geldig energieprestatiecertificaat aangebracht op een opvallende plaats die duidelijk zichtbaar is voor het publiek.<br /><br />Vanaf 1 januari 2013 wordt de oppervlaktegrens, vermeld in het eerste lid, verlaagd tot 500 m2 en vanaf 1 januari 2015 tot 250 m2.<br /><br />Met ingang van 1 januari 2013 wordt in niet-residentiële gebouwen met een totale bruikbare vloeroppervlakte van meer dan 500 m2, die frequent door het publiek worden bezocht, een geldig energieprestatiecertificaat aangebracht op een opvallende plaats die duidelijk zichtbaar is voor het publiek.<br /><br />De Vlaamse Regering bepaalt de nadere regels om de bruikbare vloeroppervlakte te bepalen.
 
 ### ART. 11.2.2.
 
@@ -820,13 +828,21 @@ De Vlaamse Regering bepaalt de nadere regels tot vaststelling van de vorm en de 
 
 ### ART. 11.2.3.
 
-§ 1. Het Vlaams Energieagentschap houdt een energieprestatiecertificatendatabank bij. De Vlaamse Regering bepaalt welke gegevens uit het energieprestatiecertificaat worden bijgehouden, doorgestuurd en opgenomen in deze databank.<br /><br />§ 2. De personen die een energieprestatiecertificaat uitreiken, sturen de in § 1 vermelde gegevens elektronisch door naar de energieprestatiecertificatendatabank. De Vlaamse Regering bepaalt de voorwaarden voor het elektronisch indienen van die gegevens.
+§ 1. Het Vlaams Energieagentschap houdt een energieprestatiecertificatendatabank bij. De Vlaamse Regering bepaalt welke gegevens uit het energieprestatiecertificaat worden bijgehouden, doorgestuurd en opgenomen in deze databank.<br /><br />§ 2. De personen die een energieprestatiecertificaat uitreiken, sturen de in § 1 vermelde gegevens elektronisch door naar de energieprestatiecertificatendatabank. Deze personen worden in deze databank uniek geïdentificeerd. De Vlaamse Regering bepaalt de voorwaarden voor het elektronisch indienen van die gegevens en kan nadere regels vastleggen met betrekking tot de unieke identificatie. <br /><br />§ 3. De gegevens in de energieprestatiecertificatendatabank zijn enkel toegankelijk voor de diensten van de Vlaamse overheid, de betrokken gemeente en de instrumenterende ambtenaar. De energiedeskundige en de eigenaar van een gebouw waarvoor een energieprestatiecertificaat is opgesteld hebben alleen toegang tot de gegevens van hun eigen dossiers.<br /><br />Het Vlaams Energieagentschap kan, onder de voorwaarden bepaald door de Vlaamse Regering, een opgemaakt energieprestatiecertificaat aanpassen of wijzigen.
 
 ## [HOOFDSTUK II/1. Renovatieadvies (ing. decr. 16 november 2018, art. 44, I: te bepalen door de Vlaamse Regering)]
 
 ## [HOOFDSTUK II/2. Minimale eisen inzake renovatie bij (ing. Decr. 30 oktober 2020, art. 35, I: 5 december 2020)][residentiële en niet-residentiële gebouwen of niet-residentiële gebouweenheden (verv. Decr. 18 maart 2022, art. 30, I: 9 april 2022)]
 
 ## [HOOFDSTUK III. Retributie (ing. decr. 18 november 2011, art. 19, I: 15 december 2011)]
+
+### ART 11.3.1.
+
+§ 1. De Vlaamse Regering kan de deelname aan examens of opleidingen afhankelijk stellen van de betaling van een retributie.<br>
+<br>
+§ 2. Met inachtneming van de ter zake geldende grondwettelijke regelen bepaalt de Vlaamse Regering het tarief van de retributie alsook de wijze waarop en de instantie waardoor de retributie wordt geïnd.<br>
+<br>
+§ 3. De retributie is hoofdelijk verschuldigd door de verslaggever of de energiedeskundige. De retributie moet binnen de door de Vlaamse Regering bepaalde termijn worden betaald aan de door de Vlaamse Regering aangewezen ontvangers.
 
 ## [TITEL XI/1. ELEKTROMOBILITEIT (ing. Decr. 30 oktober 2020, art. 37, I: 5 december 2020)]
 
@@ -888,7 +904,7 @@ De Vlaamse Regering wijst de ambtenaren van het Vlaams Energieagentschap aan die
 
 ### ART. 13.1.5.
 
-De ambtenaren van het Vlaams Energieagentschap zijn bevoegd om de nodige controles met betrekking tot het energieprestatiecertificaat uit te voeren en om overtredingen van de bepalingen van hoofdstuk II van titel XI en de uitvoeringsbesluiten ervan op te sporen en vast te stellen door een verslag van vaststelling.<br /><br />Om alle nodige opsporingen en vaststellingen te verrichten, hebben de vermelde ambtenaren toegang tot de bouwplaats en de gebouwen. Tot de bewoonde lokalen hebben ze echter alleen toegang als ze aan een van de volgende voorwaarden voldoen :<br />1° ze hebben de voorafgaande en schriftelijke toestemming van de bewoner gekregen;<br />2° ze werden ertoe voorafgaandelijk en schriftelijk gemachtigd door de politierechter.
+§1. De ambtenaren van het Vlaams Energieagentschap zijn bevoegd om de nodige controles met betrekking tot het energieprestatiecertificaat uit te voeren en om overtredingen van de bepalingen van hoofdstuk II van titel XI en de uitvoeringsbesluiten ervan op te sporen en vast te stellen door een verslag van vaststelling.<br /><br />Om alle nodige opsporingen en vaststellingen te verrichten, hebben de vermelde ambtenaren toegang tot de bouwplaats en de gebouwen. Tot de bewoonde lokalen hebben ze echter alleen toegang als ze aan een van de volgende voorwaarden voldoen :<br />1° ze hebben de voorafgaande en schriftelijke toestemming van de bewoner gekregen;<br />2° ze werden ertoe voorafgaandelijk en schriftelijk gemachtigd door de politierechter.<br /><br />§ 2. Op eenvoudig verzoek krijgen de ambtenaren, vermeld in paragraaf 1, van de gemeente, het kadaster en de bewaarder der hypotheken, elk voor hun ambtsgebied, kosteloos toegang tot de documenten betreffende de eigendom en het gebruik van gebouwen, die krachtens artikel 11.2.1, § 1, over een energieprestatiecertificaat dienen te beschikken.
 
 ## Afdeling IV. Toezicht in het kader van de [heffingen vermeld in titel XIV (verv. decr. 19 december 2014, art. 99, I: 1 januari 2015)]
 
@@ -964,15 +980,19 @@ De VREG legt de netbeheerder bij het niet-naleven van de termijnen voor het hera
 
 ### ART. 13.4.5.
 
-§ 1. Als een startverklaring niet voldoet aan de voorwaarden inzake vorm en inhoud die door de Vlaamse Regering werden vastgelegd met toepassing van artikel 11.1.13, maant het Vlaams Energieagentschap de verslaggever aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br /><br />Als de verslaggever bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het Vlaams Energieagentschap de verslaggever een administratieve geldboete op. Die administratieve geldboete bedraagt 250 euro.<br /><br />§ 2. Als een architect niet voldoet aan de ver-plichtingen van artikel 11.1.7, § 2, maant het Vlaams Energieagentschap de architect aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br /><br />Als de architect bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het Vlaamse Energieagentschap de architect een adminis-tratieve geldboete op. Die administratieve geldboete bedraagt 250 euro.<br /><br />§ 3. Als een startverklaring laattijdig of helemaal niet wordt ingediend, maant het Vlaams Energieagentschap de aangifteplichtige aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br /><br />Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het Vlaams Energieagentschap de aangifteplichtige een administratieve geldboete op. Die administratieve geldboete bedraagt 250 euro.<br /><br />§ 4. Als een EPB-aangifte niet voldoet aan de voorwaarden inzake vorm en inhoud die door de Vlaamse Regering werden vastgelegd met toepassing van artikel 11.1.13, maant het Vlaams Energieagentschap de verslaggever aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br /><br />Als de verslaggever bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het Vlaams Energieagentschap de verslaggever een administratieve geldboete op. Die administratieve geldboete bedraagt 250 euro, vermeerderd met 1 euro per kubieke meter nieuw gecreëerd beschermd volume. Het Vlaams Energieagentschap legt ook een nieuwe termijn vast waarbinnen de betreffende verplichting moet worden nageleefd.<br /><br />Als de verslaggever bij het verstrijken van de termijn, vermeld in het tweede lid, in gebreke blijft, legt het Vlaams Energieagentschap de verslaggever een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt 25 euro per kalenderdag dat de in het tweede lid vermelde termijn wordt overschreven.<br /><br />§ 5. Als een EPB-aangifte laattijdig of helemaal niet wordt ingediend, maant het Vlaams Ener-gieagentschap de aangifteplichtige aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br /><br />Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het Vlaams Energieagentschap de aangifteplichtige een administratieve geldboete op. Die administratieve geldboete bedraagt 250 euro, vermeerderd met 1 euro per kubieke meter nieuw gecreëerd beschermd volume. Het Vlaams Energieagentschap legt ook een nieuwe termijn vast waarbinnen de betreffende verplichting moet worden nageleefd.<br /><br />Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het tweede lid, in gebreke blijft, legt het Vlaams Energieagentschap de aangifteplichtige een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt 25 euro per kalenderdag dat de in het tweede lid vermelde termijn wordt overschreden.<br /><br />Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft en uit een controle blijkt dat de EPB-eisen niet werden gerespecteerd, legt het Vlaams Energieagentschap, naast de administratieve geldboete, vermeld in het tweede lid, de aangifteplichtige een administratieve geldboete op die het dubbele bedraagt van de administratieve geldboete die berekend is volgens de bepalingen van artikel 13.4.6. Voor de bepaling van die administratieve geldboete worden daarbij de waarden die vastgesteld zijn in de EPB-aangifte, vervangen door de waarden vastgesteld bij controle.
+§ 1. Als een startverklaring niet voldoet aan de voorwaarden inzake vorm en inhoud die door de Vlaamse Regering werden vastgelegd met toepassing van artikel 11.1.13, legt het Vlaams Energieagentschap de verslaggever een administratieve geldboete op. Die administratieve geldboete bedraagt 250 euro. <br /><br />§ 2. Als een architect niet voldoet aan de ver-plichtingen van artikel 11.1.6/1, § 3, maant het Vlaams Energieagentschap de architect aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br /><br />Als de architect bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het Vlaamse Energieagentschap de architect een adminis-tratieve geldboete op. Die administratieve geldboete bedraagt 250 euro.<br /><br />§ 3. Als een startverklaring laattijdig of helemaal niet wordt ingediend, maant het Vlaams Energieagentschap de aangifteplichtige aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br /><br />Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het Vlaams Energieagentschap de aangifteplichtige een administratieve geldboete op. Die administratieve geldboete bedraagt 250 euro.<br /><br />§ 4. Als een EPB-aangifte niet voldoet aan de voorwaarden inzake vorm en inhoud die door de Vlaamse Regering werden vastgelegd met toepassing van artikel 11.1.13, maant het Vlaams Energieagentschap de verslaggever aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br /><br />Als de verslaggever bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het Vlaams Energieagentschap de verslaggever een administratieve geldboete op. Die administratieve geldboete bedraagt 250 euro, vermeerderd met 1 euro per kubieke meter nieuw gecreëerd beschermd volume. Het Vlaams Energieagentschap legt ook een nieuwe termijn vast waarbinnen de betreffende verplichting moet worden nageleefd.<br /><br />Als de verslaggever bij het verstrijken van de termijn, vermeld in het tweede lid, in gebreke blijft, legt het Vlaams Energieagentschap de verslaggever een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt 25 euro per kalenderdag dat de in het tweede lid vermelde termijn wordt overschreven.<br /><br />§ 5. Als een EPB-aangifte laattijdig of helemaal niet wordt ingediend, maant het Vlaams Ener-gieagentschap de aangifteplichtige aan om binnen een gestelde termijn de betreffende verplichtingen na te leven.<br /><br />Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft, legt het Vlaams Energieagentschap de aangifteplichtige een administratieve geldboete op. Die administratieve geldboete bedraagt 250 euro, vermeerderd met 1 euro per kubieke meter nieuw gecreëerd beschermd volume. Het Vlaams Energieagentschap legt ook een nieuwe termijn vast waarbinnen de betreffende verplichting moet worden nageleefd.<br /><br />Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het tweede lid, in gebreke blijft, legt het Vlaams Energieagentschap de aangifteplichtige een administratieve geldboete op in de vorm van een dwangsom. Die bedraagt 25 euro per kalenderdag dat de in het tweede lid vermelde termijn wordt overschreden.<br /><br />Als de aangifteplichtige bij het verstrijken van de termijn, vermeld in het eerste lid, in gebreke blijft en uit een controle blijkt dat de EPB-eisen niet werden gerespecteerd, legt het Vlaams Energieagentschap, naast de administratieve geldboete, vermeld in het tweede lid, de aangifteplichtige een administratieve geldboete op die het dubbele bedraagt van de administratieve geldboete die berekend is volgens de bepalingen van artikel 13.4.6. Voor de bepaling van die administratieve geldboete worden daarbij de waarden die vastgesteld zijn in de EPB-aangifte, vervangen door de waarden vastgesteld bij controle.<br /><br />§ 6. Als het Vlaams Energieagentschap vaststelt dat een natuurlijke persoon of rechtspersoon in strijd met de voorwaarden, vermeld in artikel 1.1.3, 127°, toch optreedt als verslaggever, maant het Vlaams Energieagentschap die persoon aan om binnen een gestelde termijn die activiteiten te staken en om de dossiers waarin hij actief is over te dragen aan een verslaggever, als vermeld in artikel 1.1.3, 127°. Het Vlaams Energieagentschap ontzegt die persoon tevens alle toegang tot de energieprestatiedatabank.<br /><br />Als deze persoon bij het verstrijken van de termijn, vermeld in het eerste lid in gebreke blijft, legt het Vlaams Energieagentschap hem een boete op van 500 euro per ingediende EPB-aangifte.
 
 ### ART. 13.4.6.
 
-Als uit de EPB-aangifte blijkt dat de EPB-eisen niet werden gerespecteerd, legt het Vlaams Energieagentschap, tot vijf jaar na de indiening van de EPB-aangifte, de aangifteplichtige een administratieve geldboete op van :<br />1° 60 euro per afwijking van 1 W/K op het vlak van de thermische isolatie van de constructie-elementen en het K-peil, zoals bepaald in 1.1.1 en 1.1.2 van de bijlage bij dit decreet;<br />2° 24 eurocent per afwijking van 1 MJ/jaar op het vlak van de globale energetische prestatie, zoals bepaald in 1.2 van de bijlage bij dit decreet;<br />3° 48 eurocent per 1000 Kh en per m3 afwijking op het vlak van het risico op oververhitting, zoals bepaald in 1.3 van de bijlage bij dit decreet;<br />4° 4 euro per afwijking van 1 m3/h op het vlak van de ventilatievoorzieningen, zoals bepaald in 1.4 van de bijlage bij dit decreet.<br /><br />Het Vlaams Energieagentschap vestigt de adminis-tratieve geldboete pas als de totale administratieve geldboete die opgelegd wordt op basis van dit artikel, ten minste 250 euro bedraagt.
+Als uit de EPB-aangifte blijkt dat de EPB-eisen vermeld in artikel 11.1.1, § 1, niet werden gerespecteerd, legt het Vlaams Energieagentschap, tot vijf jaar na de indiening van de EPB-aangifte, de aangifteplichtige een administratieve geldboete op van :<br />1° 60 euro per afwijking van 1 W/K op het vlak van de thermische isolatie van de constructie-elementen en het K-peil, zoals bepaald in 1.1.1 en 1.1.2 van de bijlage bij dit decreet;<br />2° 24 eurocent per afwijking van 1 MJ/jaar op het vlak van de globale energetische prestatie, zoals bepaald in 1.2 van de bijlage bij dit decreet;<br />3° 48 eurocent per 1000 Kh en per m3 afwijking op het vlak van het risico op oververhitting, zoals bepaald in 1.3 van de bijlage bij dit decreet;<br />4° 4 euro per afwijking van 1 m3/h op het vlak van de ventilatievoorzieningen, zoals bepaald in 1.4 van de bijlage bij dit decreet.<br />5° 86 eurocent per afwijking van 1 kWh/jaar op het vlak van de netto-energiebehoefte voor verwarming, zoals bepaald in punt 1.5 van de bijlage, die bij dit decreet is gevoegd. <br /><br />Het Vlaams Energieagentschap vestigt de administratieve geldboete pas als de totale administratieve geldboete die opgelegd wordt op basis van dit artikel, ten minste 250 euro bedraagt.<br /><br />De maximale boete bedraagt 25 euro per m3 nieuw gecreëerd beschermd volume en 10 euro per m3 verbouwd beschermd volume. <br /><br />§ 2. In afwijking van § 1 zal het Vlaams Energieagentschap indien uit de EPB-aangifte blijkt dat zowel aan de EPB-eisen, vermeld in artikel 11.1.1, § 1, als de EPB-eisen, vermeld in § 1/1, niet is voldaan, de sancties, vermeld in § 1, eerste lid, 1°, wat betreft het K-peil, en § 1, eerste lid, 2°, enkel opleggen wanneer de gemeente niet binnen één jaar na het indienen van de EPB-aangifte is overgegaan tot het sanctioneren van de aangifteplichtige op grond van artikel 13.6.1, § 1. Deze sanctie wordt door het Vlaams Energieagentschap vermeerderd met de sanctie, vermeld in artikel 13.6.1, § 1, eerste lid. De maximale boete bedraagt 25 euro per m3 nieuw gecreëerd beschermd volume. <br />
 
 ### ART. 13.4.7.
 
-§ 1. Als bij controle blijkt dat de EPB-aangifte niet met de werkelijkheid overeenstemt, legt het Vlaams Energieagentschap tot vijf jaar na het indienen van de EPB-aangifte de verslaggever een administratieve geldboete op van :<br />1° 60 euro per afwijking van 1 W/K op het vlak van de thermische isolatie van de constructie-elementen en het K-peil, zoals bepaald in 2.1.1 en 2.1.2 van de bijlage bij dit decreet;<br />2° 24 eurocent per afwijking van 1 MJ/jaar op het vlak van de globale energetische prestatie, zoals bepaald in 2.2 van de bijlage bij dit decreet;<br />3° 48 eurocent per 1000 Kh en per m3 afwijking op het vlak van het risico op oververhitting, zoals bepaald in 2.3 van de bijlage bij dit decreet;<br />4° 4 euro per afwijking van 1 m3/h op het vlak van de ventilatievoorzieningen, zoals bepaald in 2.4 van de bijlage bij dit decreet.<br /><br />Een in de EPB-aangifte foutief opgegeven waarde met betrekking tot de ventilatievoorzieningen kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, 1°, 2° en 3°.<br /><br />Een in de EPB-aangifte foutief opgegeven waarde met betrekking tot de thermische isolatie van de constructie-elementen kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, 1°, op grond van afwijkingen op het vlak van het K-peil, of krachtens het eerste lid, 2° en 3°.<br /><br />Een in de EPB-aangifte foutief opgegeven waarde met betrekking tot het K-peil kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, 2° en 3°.<br /><br />Een in de EPB-aangifte foutief opgegeven waarde met betrekking tot het E-peil kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, § 3.<br /><br />Het Vlaams Energieagentschap vestigt de administratieve geldboete pas als de totale administratieve geldboete die opgelegd wordt op basis van dit artikel, ten minste 250 euro bedraagt.<br /><br />De verslaggever dient binnen zestig kalenderdagen na de vestiging van de administratieve geldboete bij het Vlaams Energieagentschap een EPB-aangifte in die in overeenstemming is met de controlevaststellingen.<br /><br />Als een overtreding van de bepaling van het zevende lid wordt vastgesteld, maant het Vlaams Energieagentschap de verslaggever aan om binnen een gestelde termijn de verplichting na te leven. Als de verslaggever bij het verstrijken van die termijn in gebreke blijft, legt het Vlaams Energieagentschap een administratieve geldboete van 500 euro op.<br /><br />§ 2. Voor EPB-aangiften met betrekking tot gebouwen waarvan de startverklaring in 2006 werd ingediend, bedraagt de administratieve geldboete slechts de helft van het bedrag dat op basis van § 1, eerste lid, is verschuldigd, met een minimum van 250 euro.
+§ 1. Als bij controle blijkt dat de EPB-aangifte niet met de werkelijkheid overeenstemt, legt het Vlaams Energieagentschap tot vijf jaar na het indienen van de EPB-aangifte de verslaggever een administratieve geldboete op van :<br />1° 60 euro per afwijking van 1 W/K op het vlak van de thermische isolatie van de constructie-elementen en het K-peil, zoals bepaald in punt 2.1.1 en 2.1.2 van de bijlage die bij dit decreet is gevoegd;<br />2° 24 eurocent per afwijking van 1 MJ/jaar op het vlak van de globale energetische prestatie, zoals bepaald in punt 2.2 van de bijlage die bij dit decreet is gevoegd;<br />3° 48 eurocent per 1000 Kh en per m3 afwijking op het vlak van het risico op oververhitting, zoals bepaald in punt 2.3 van de bijlage die bij dit decreet is gevoegd;<br />4° 4 euro per afwijking van 1 m3/h op het vlak van de ventilatievoorzieningen, zoals bepaald in 2.4 van de bijlage bij dit decreet;<br />5° 86 eurocent per afwijking van 1 kWh/jaar op het vlak van de netto-energiebehoefte voor verwarming, zoals bepaald in punt 2.5 van de bijlage die bij dit decreet is gevoegd;<br />6° 10 euro per m2 niet-gerapporteerd schildeel, met een maximum van 500 euro per niet gerapporteerd schildeel;<br />7° 10 euro per m2 verschil tussen de in de EPB-aangifte opgegeven brutovloeroppervlakte en de bij de controle vastgestelde brutovloeroppervlakte, met een maximum van 500 euro, zoals bepaald in punt 2.6 van de bijlage die bij dit decreet is gevoegd.<br /><br />Een in de EPB-aangifte foutief opgegeven waarde met betrekking tot de ventilatievoorzieningen kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, 1°, 2°, 3° en 5°. <br /><br />Een in de EPB-aangifte vergeten schildeel kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, 1°, 2°, 3° en 5°. <br /><br />Een in de EPB-aangifte foutief opgegeven waarde met betrekking tot de thermische isolatie van de constructie-elementen kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, 1°, op grond van afwijkingen op het vlak van het K-peil, of krachtens het eerste lid, 2°, 3° en 5°. <br /><br />Een in de EPB-aangifte foutief opgegeven waarde met betrekking tot het K-peil kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, 2°, 3° en 5°. <br /><br />Een in de EPB-aangifte foutief opgegeven brutovloeroppervlakte kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, 5°. <br /><br />Een in de EPB-aangifte foutief opgegeven waarde met betrekking tot de netto-energiebehoefte voor verwarming kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, 2° en 3°. <br /><br />Een in de EPB-aangifte foutief opgegeven waarde met betrekking tot het E-peil kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, 3°. <br /><br />Het Vlaams Energieagentschap vestigt de administratieve geldboete pas als de totale administratieve geldboete die opgelegd wordt op basis van dit artikel, ten minste 250 euro bedraagt.<br /><br />§ 2. Voor EPB-aangiften met betrekking tot gebouwen waarvan de startverklaring in 2006 werd ingediend, bedraagt de administratieve geldboete slechts de helft van het bedrag dat op basis van § 1, eerste lid, is verschuldigd, met een minimum van 250 euro.<br /><br />§ 3. De verslaggever dient binnen zestig kalenderdagen na de vestiging van de administratieve geldboete bij het Vlaams Energieagentschap een EPB-aangifte in die in overeenstemming is met de controlevaststellingen.<br /><br />De verslaggever brengt de aangifteplichtige daarvan onmiddellijk op de hoogte en bezorgt hem de nieuw ingediende EPB-aangifte. De kosten voor de herindiening van de EPB-aangifte vallen volledig ten laste van de verslaggever.<br /><br />Als een overtreding van de verplichting, vermeld in het eerste lid, wordt vastgesteld, maant het Vlaams Energieagentschap de verslaggever aan om binnen een vastgestelde termijn de verplichting na te leven. Als de verslaggever bij het verstrijken van die termijn in gebreke blijft, legt het Vlaams Energieagentschap een administratieve geldboete van 500 euro op.<br /><br />§ 4. Als het Vlaams Energieagentschap vaststelt dat het in de EPB-aangifte gerapporteerde E-peil slechter is dan het E-peil bij controle, of als de gerapporteerde brutovloeroppervlakte meer dan 5 procent kleiner is dan de bij de controle vastgestelde brutovloeroppervlakte, verplicht het Vlaams Energieagentschap de verslaggever om binnen de zestig kalenderdagen een nieuwe EPB-aangifte in te dienen die in overeenstemming is met de controlevaststellingen.<br /><br />De verslaggever brengt de aangifteplichtige daarvan onmiddellijk op de hoogte en bezorgt hem de nieuw ingediende EPB-aangifte. De kosten voor de herindiening van de EPB-aangifte vallen volledig ten laste van de verslaggever.<br /><br />Als een overtreding van paragraaf 4, eerste lid, wordt vastgesteld, maant het Vlaams Energieagentschap de verslaggever aan om binnen een vastgestelde termijn de verplichtingen na te leven. Als de verslaggever bij het verstrijken van die termijn in gebreke blijft, legt het Vlaams Energieagentschap een administratieve geldboete op van 500 euro.
+
+### ART. 13.4.7/1.
+
+§ 1. Het Vlaams Energieagentschap kan verslaggevers die blijk geven van kennelijke onbekwaamheid of die activiteiten uitvoeren die in strijd zijn met de bepalingen van artikel 11.1.6, § 1, tweede lid, schorsen in hun activiteiten, vermeld in dit decreet, voor een termijn die het Vlaams Energieagentschap zelf bepaalt.<br /><br />§ 2. Binnen een termijn van dertig kalenderdagen na de betekening van de beslissing van het Vlaams Energieagentschap, kan de betrokken verslaggever bij wege van aangetekend schrijven met ontvangstbewijs beroep aantekenen bij de minister. De verslaggever kan vragen om gehoord te worden.<br /><br />De minister of zijn gemachtigde neemt een beslissing binnen een termijn van dertig kalenderdagen, die ingaat op de dag waarop het beroep is ontvangen.<br /><br />Als de minister of zijn gemachtigde zijn beslissing niet heeft betekend binnen de in het vorige lid bepaalde termijn, wordt ervan uitgegaan dat het beroep werd ingewilligd.
 
 ### ART. 13.4.8.
 
@@ -990,7 +1010,7 @@ Als uit de EPB-aangifte blijkt dat de EPB-eisen niet werden gerespecteerd, legt 
 
 ### ART. 13.4.10.
 
-§ 1. Als bij de controle blijkt dat het energieprestatiecertificaat niet met de werkelijkheid overeenstemt en de betrokkene werd gehoord of naar behoren werd opgeroepen, kan het Vlaams Energieagentschap de energiedeskundige die het energieprestatiecertificaat heeft afgeleverd een administratieve geldboete opleggen, die niet lager mag zijn dan 500 euro, en niet hoger dan 5.000 euro, afhankelijk van het type gebouw, het beschermd volume of de bruikbare vloeroppervlakte.<br /><br />§ 2. Als zou blijken dat de eigenaar of gebruiker van een gebouw die krachtens artikel 11.2.1, § 1, eerste lid, over een energieprestatiecertificaat moet beschikken, niet over een geldig energieprestatiecertificaat beschikt, legt het Vlaams Energieagentschap hem, op voorwaarde dat de eigenaar of gebruiker werd gehoord of naar behoren werd opgeroepen, een administratieve geldboete op die niet lager is dan 500 euro, en niet hoger dan 5.000 euro, afhankelijk van het type gebouw, het beschermd volume of de bruikbare vloeroppervlakte.<br /><br />§ 3. Als bij toepassing van artikel 11.2.2 blijkt dat de eigenaar geen geldig energieprestatiecertificaat aan de koper heeft overgedragen of aan de huurder ter beschikking gesteld heeft, en de betrokkene werd gehoord of naar behoren werd opgeroepen, legt het Vlaams Energieagentschap hem een administratieve geldboete op die niet lager is dan 500 euro, en niet hoger dan 5.000 euro, afhankelijk van het type gebouw, het beschermd volume of de bruikbare vloeroppervlakte.<br /><br />Die administratieve geldboete kan niet worden gecumuleerd met de sanctie vermeld in § 2.<br /><br />§ 4. Het beroep tegen de beslissing tot het opleggen van een administratieve geldboete op grond van §§ 1, 2 en 3 bij de Rechtbank van Eerste Aanleg werkt schorsend.<br /><br />De procedure in artikel 13.4.8 is van overeenkomstige toepassing.
+§ 1. Als bij de controle blijkt dat het energieprestatiecertificaat niet met de werkelijkheid overeenstemt en de betrokkene werd gehoord of naar behoren werd opgeroepen, kan het Vlaams Energieagentschap de energiedeskundige die het energieprestatiecertificaat heeft afgeleverd een administratieve geldboete opleggen, die niet lager mag zijn dan 500 euro, en niet hoger dan 5.000 euro, afhankelijk van het type gebouw, het beschermd volume of de bruikbare vloeroppervlakte.<br /><br />Het Vlaams Energieagentschap verplicht de energiedeskundige om binnen de dertig kalenderdagen een nieuw energieprestatiecertificaat op te maken dat in overeenstemming is met de controlevaststellingen, en om dat nieuwe energieprestatiecertificaat te overhandigen aan de eigenaar of gebruiker van het gebouw. De kosten voor de opmaak van het energieprestatiecertificaat vallen volledig ten laste van de energiedeskundige.<br /><br />Als een overtreding van het tweede lid wordt vastgesteld, maant het Vlaams Energieagentschap de energiedeskundige aan om binnen een vastgestelde termijn de verplichtingen na te leven. Als de energiedeskundige bij het verstrijken van die termijn in gebreke blijft, legt het Vlaams Energieagentschap een administratieve geldboete op van 500 euro.<br /><br />§ 1/1. Als het Vlaams Energieagentschap vaststelt dat een geschorste energiedeskundige in strijd met de schorsingsvoorwaarden toch actief optreedt als energiedeskundige, legt het Vlaams Energieagentschap hem een boete op van 500 euro per ingediend energieprestatiecertificaat.<br /><br />§ 2. Als zou blijken dat de eigenaar of gebruiker van een gebouw die krachtens artikel 11.2.1, § 1, eerste lid, over een energieprestatiecertificaat moet beschikken, niet over een geldig energieprestatiecertificaat beschikt, legt het Vlaams Energieagentschap hem, op voorwaarde dat de eigenaar of gebruiker werd gehoord of naar behoren werd opgeroepen, een administratieve geldboete op die niet lager is dan 500 euro, en niet hoger dan 5.000 euro, afhankelijk van het type gebouw, het beschermd volume of de bruikbare vloeroppervlakte.<br /><br />§ 3. Als bij toepassing van artikel 11.2.2 blijkt dat de eigenaar geen geldig energieprestatiecertificaat aan de koper heeft overgedragen of aan de huurder ter beschikking gesteld heeft, en de betrokkene werd gehoord of naar behoren werd opgeroepen, legt het Vlaams Energieagentschap hem een administratieve geldboete op die niet lager is dan 500 euro, en niet hoger dan 5.000 euro, afhankelijk van het type gebouw, het beschermd volume of de bruikbare vloeroppervlakte.<br /><br />Die administratieve geldboete kan niet worden gecumuleerd met de sanctie vermeld in § 2.<br /><br />§ 3/1. Als bij de controle blijkt dat voor een te koop of te huur gesteld gebouw waarvoor een energieprestatiecertificaat beschikbaar dient te zijn, het kengetal, het adres van het gebouw of de unieke code van het energieprestatiecertificaat niet worden vermeld in de publiciteit die wordt gemaakt, of indien het vermelde kengetal, het vermelde adres van het gebouw of de vermelde unieke code van het energieprestatiecertificaat niet met de werkelijkheid overeenstemt, kan het Vlaams Energieagentschap de eigenaar of gebruiker een administratieve geldboete opleggen, die niet lager mag zijn dan 500 euro, noch hoger dan 5.000 euro, afhankelijk van het type gebouw, het beschermd volume of de bruikbare vloeroppervlakte.<br /><br />In afwijking van het eerste lid legt het Vlaams Energieagentschap de sanctie, vermeld in het eerste lid, op aan de lasthebber of gevolmachtigde in het geval de eigenaar of gebruiker gebruikmaakte van deze lasthebber of gevolmachtigde in het kader van het te koop of te huur stellen van het gebouw.<br /><br />Die administratieve geldboete kan voor de eigenaar of gebruiker niet worden gecumuleerd met de sanctie, vermeld in paragraaf 2 of 3.<br /><br />§ 4. Het beroep tegen de beslissing tot het opleggen van een administratieve geldboete op grond van §§ 1, 2, 3 en 3/1 bij de Rechtbank van Eerste Aanleg werkt schorsend.<br /><br />De procedure in artikel 13.4.8 is van overeenkomstige toepassing.
 
 ## [Afdeling V. Procedure en administratieve geldboete bij niet-naleving van verplichtingen in het kader van het netbeheer (ing. decr. 24 februari 2017, art. 24, I: 1 juni 2017)]
 
@@ -1022,9 +1042,13 @@ Op advies van de bevoegde autoriteit kan de Vlaamse Regering, de Europese Commis
 
 ### ART. 13.6.1.
 
-De inkomsten die voortvloeien uit de opbrengst van de administratieve geldboetes, vermeld in dit decreet, worden rechtstreeks toegewezen aan het Energiefonds, vermeld in artikel 3.2.1.
+§ 1. Als uit de EPB-aangifte blijkt dat de EPB-eisen, vermeld in artikel 11.1.1, § 1/1, niet werden gerespecteerd en onverminderd artikel 13.4.6, legt de gemeente tot een jaar na de indiening van de EPB-aangifte, de aangifteplichtige een administratieve geldboete op van :<br />1° 60 euro per afwijking van 1 W/K op het vlak van het K-peil, zoals bepaald in punt 1.6.1 van de bijlage, die bij dit decreet is gevoegd;<br />2° 24 eurocent per afwijking van 1 MJ/jaar op het vlak van de globale energetische prestatie, zoals bepaald in punt 1.6.2 van de bijlage, die bij dit decreet is gevoegd.<br /><br />Indien uit de EPB-aangifte blijkt dat zowel aan de EPB-eisen, vermeld in artikel 11.1.1, § 1, wat betreft het E-peil en het K-peil, als de EPB-eisen, vermeld in § 1/1 niet is voldaan, wordt de administratieve geldboete, vermeld in het eerste lid, verhoogd met de geldboete, vermeld in artikel 13.4.6, § 1, eerste lid, 1°, wat betreft het K-peil, en artikel 13.4.6, § 1, eerste lid, 2°. <br /><br />De gemeente vestigt de administratieve geldboete pas als de totale administratieve geldboete die opgelegd wordt op basis van dit artikel, ten minste 250 euro bedraagt. De maximale boete bedraagt 25 euro per m3 nieuw gecreëerd beschermd volume.<br /><br />De gemeente deelt onverwijld aan het Vlaams Energieagentschap mee voor welke dossiers zij is overgegaan tot het vestigen van de administratieve sanctie, vermeld in het eerste lid en tweede lid. De Vlaamse Regering kan nadere regels bepalen met betrekking tot de vorm, de inhoud en de wijze waarop deze gegevens worden medegedeeld.<br /><br />§ 2. Het bedrag van de verschuldigde administratieve geldboete wordt aan de betrokkene meegedeeld per aangetekende brief, met vermelding van de redenen waarom de boete wordt opgelegd en met verwijzing naar de artikelen die van toepassing zijn.<br /><br />Als de betrokkene het oneens is met de sanctie kan hij, binnen dertig kalenderdagen na de kennisgeving, vermeld in het eerste lid, de gemeente van zijn tegenargumenten op de hoogte brengen per aangetekende brief. Na het verstrijken van die termijn is de beslissing definitief.<br /><br />De gemeente kan haar beslissing herroepen als die tegenargumenten gegrond blijken te zijn.<br /><br />§ 3. Na de kennisgeving, vermeld in paragraaf 2, moet de administratieve geldboete binnen zestig kalenderdagen betaald worden. De gemeente kan uitstel van betaling verlenen voor een termijn die ze zelf bepaalt.<br /><br />§ 4. Als de betrokkene in gebreke blijft bij de betaling van de administratieve geldboete, wordt de geldboete bij dwangbevel ingevorderd.<br /><br />Het dwangbevel wordt betekend bij gerechtsdeurwaardersexploot of per aangetekende brief. Op het dwangbevel zijn de bepalingen van toepassing van deel V van het Gerechtelijk Wetboek houdende bewarend beslag en middelen tot tenuitvoerlegging.<br /><br />§ 5. De vordering tot betaling van de administratieve geldboete verjaart na verloop van vijf jaar, te rekenen van de dag waarop ze is ontstaan.<br /><br />De verjaring wordt gestuit op de wijze en onder de voorwaarden die bepaald zijn in artikel 2244 en volgende van het Burgerlijk Wetboek.
 
 ## [HOOFDSTUK VII. Inkomsten die voortvloeien uit de opbrengst van de administratieve geldboetes (ing. decr. 18 november 2011, art. 27, I: 15 december 2011)]
+
+### ART. 13.7.1.
+
+De inkomsten die voortvloeien uit de opbrengst van de administratieve geldboetes, vermeld in dit decreet, worden rechtstreeks toegewezen aan het Energiefonds, vermeld in artikel 3.2.1.<br /><br />In afwijking van het eerste lid wordt de opbrengst van de administratieve geldboete, vermeld in artikel 13.6.1, § 1, toegewezen aan de gemeente.
 
 ## TITEL XIV. HEFFINGEN
 
@@ -1125,8 +1149,7 @@ De Vlaamse Regering bepaalt de datum waarop de verschillende bepalingen van dit 
 1.1.1. Afwijking op het vlak van de thermische isolatie van de constructie-elementen<br>
 <br>
 Als de in de EPB-aangifte opgegeven warmtedoorgangscoëfficiënt van een constructie-element de maximaal toegestane waarde overschrijdt, rekening houdend met eventueel van toepassing zijnde uitzonderingsregels, bedraagt de overeenkomstige afwijking voor dat constructie-element, uitgedrukt in W/K:<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1151,8 +1174,7 @@ Als de in de EPB-aangifte opgegeven warmtedoorgangscoëfficiënt van een constru
 <p>&nbsp;</p>
 
 <p>Als de in de EPB-aangifte opgegeven warmteweerstand van een constructie-element kleiner is dan de minimaal toegestane waarde, rekening houdend met eventueel van toepassing zijnde uitzonderingsregels, bedraagt de overeenkomstige afwijking voor dat constructie-element, uitgedrukt in W/K:<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1176,9 +1198,10 @@ Als de in de EPB-aangifte opgegeven warmtedoorgangscoëfficiënt van een constru
 
 <p>&nbsp;</p>
 
-<p>1.1.2 Afwijking op het vlak van de globale thermische isolatie (K-peil)<br>
-Als in de EPB-aangifte wordt opgegeven dat niet voldaan is aan een of meer eisen i.v.m het K-peil, wordt voor elke overschrijding de overeenkomstige afwijking op het vlak van thermische isolatie, uitgedrukt in W/K, als volgt bepaald:<br>
-</p>
+<p>In afwijking van het eerste lid wordt voor een gebouw dat meerdere subdossiers en gemeenschappelijke delen bevat, de boete van een constructie-element dat behoort tot een gemeenschappelijk deel gelijk verdeeld over de verschillende subdossiers.<br>
+<br>
+1.1.2 Afwijking op het vlak van de globale thermische isolatie (K-peil)<br>
+Als in de EPB-aangifte wordt opgegeven dat niet voldaan is aan een of meer eisen i.v.m het K-peil, wordt voor elke overschrijding de overeenkomstige afwijking op het vlak van thermische isolatie, uitgedrukt in W/K, als volgt bepaald:</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1202,10 +1225,70 @@ Als in de EPB-aangifte wordt opgegeven dat niet voldaan is aan een of meer eisen
 
 <p>&nbsp;</p>
 
+<p>In afwijking van het eerste lid wordt voor een gebouw dat meerdere subdossiers bevat, (met uitzondering van « aangrenzende onverwarmde ruimten » en « gemeenschappelijke delen ») de boete verdeeld pro rata van het aandeel van de warmteverliesoppervlakte van elk subdossier in de warmteverliesoppervlakte van het totale K-peilvolume exclusief « gemeenschappelijke delen ». De som van alle effectieve individuele boeten is dan gelijk aan de totale boete berekend voor het geheel.<br>
+Voor elke overschrijding van het K-peil wordt de overeenkomstige afwijking op het vlak van thermische isolatie voor elk subdossier dat deel uitmaakt van hetzelfde K-peilvolume, uitgedrukt in W/K, als volgt bepaald :</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>0.01(K<sub>aangifte</sub> - K<sub>eis</sub>)A<sub>T</sub>, <sub>aangifte</sub>*A<sub>T,subdossier</sub> / (A<sub>T,aangifte</sub> - A<sub>T,GD</sub>)<br>
+			waarin :</p>
+
+			<table border="1" cellpadding="0">
+				<tbody>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>K<sub>aangifte</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de in de EPB-aangifte vermelde waarde van het K-peil;</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>K<sub>eis</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de maximaal toegestane waarde van het K-peil voor het betreffende K-peilvolume;</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>A<sub>T, aangifte</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de in de EPB-aangifte vermelde warmteverliesoppervlakte van het betreffende K-peilvolume, in m<sup>2</sup>;</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>A<sub>T,subdossier</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de in de EPB-aangifte vermelde warmteverliesoppervlakte van het betreffende subdossier, in m<sup>2</sup>;</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>A<sub>T,GD</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de in de EPB-aangifte vermelde warmteverliesoppervlakte van de « gemeenschappelijke delen » binnen het betreffende K-peilvolume, in m<sup>2</sup>;";</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
 <p>1.2. Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van de globale energetische prestatie<br>
 <br>
-Als in de EPB-aangifte wordt opgegeven dat niet voldaan is aan één of meerdere eisen i.v.m het E-peil, dan wordt voor elk de overeenkomstige afwijking op het vlak van de globale energetische prestatie, uitgedrukt in MJ/jaar, als volgt bepaald:<br>
-</p>
+Als in de EPB-aangifte wordt opgegeven dat niet voldaan is aan één of meerdere eisen i.v.m het E-peil, dan wordt voor elk de overeenkomstige afwijking op het vlak van de globale energetische prestatie, uitgedrukt in MJ/jaar, als volgt bepaald:</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1229,8 +1312,7 @@ Als in de EPB-aangifte wordt opgegeven dat niet voldaan is aan één of meerdere
 
 <p>1.3. Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van het risico op oververhitting<br>
 Als in de EPB-aangifte wordt opgegeven dat niet voldaan is aan een of meer eisen i.v.m het risico op oververhitting, wordt voor elk de overeenkomstige afwijking op het vlak van het risico op oververhitting, uitgedrukt in Khm3, als volgt bepaald:<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1256,8 +1338,7 @@ Als in de EPB-aangifte wordt opgegeven dat niet voldaan is aan een of meer eisen
 
 <p>1.4. Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van ventilatie<br>
 1.4.1. Toevoervoorzieningen<br>
-Als in de EPB-aangifte wordt opgegeven dat het totale ontwerptoevoerdebiet in een ruimte kleiner is dan de minimumwaarde zoals die op basis van de EPB-eis voor die ruimte is bepaald in de EPB-aangifte, wordt de overeenkomstige afwijking voor de toevoer in die ruimte, uitgedrukt in m3/h, als volgt bepaald:<br>
-</p>
+Als in de EPB-aangifte wordt opgegeven dat het totale ontwerptoevoerdebiet in een ruimte kleiner is dan de minimumwaarde zoals die op basis van de EPB-eis voor die ruimte is bepaald in de EPB-aangifte, wordt de overeenkomstige afwijking voor de toevoer in die ruimte, uitgedrukt in m3/h, als volgt bepaald:</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1286,8 +1367,7 @@ Als in de EPB-aangifte wordt opgegeven dat het totale ontwerptoevoerdebiet in ee
 °Als het toevoerdebiet met buitenlucht gerealiseerd moet worden, wordt er echter alleen gesommeerd over de toevoervoorzieningen die buitenlucht binnen brengen<br>
 ° Als de regelkarakteristieken van een regelbare toevoeropening niet voldoen aan de gestelde eisen, dan wordt het ontwerp toevoerdebiet gelijkgesteld aan nul voor die opening.<br>
 ° Het debiet van regelbare doorstroomopeningen wordt niet meegerekend.<br>
-° Het debiet van een spleet onder een deur, in m3/h, wordt gegeven door:<br>
-</p>
+° Het debiet van een spleet onder een deur, in m3/h, wordt gegeven door:</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1313,8 +1393,7 @@ Als in de EPB-aangifte wordt opgegeven dat het totale ontwerptoevoerdebiet in ee
 <br>
 1.4.2. Afvoervoorzieningen<br>
 <br>
-Als in de EPB-aangifte wordt opgegeven dat het totale ontwerpafvoerdebiet in een ruimte kleiner is dan de minimumwaarde zoals die op basis van de EPB-eis voor die ruimte is bepaald in de EPB-aangifte, wordt de overeenkomstige afwijking voor de afvoer in die ruimte, uitgedrukt in m3/h, als volgt bepaald:<br>
-</p>
+Als in de EPB-aangifte wordt opgegeven dat het totale ontwerpafvoerdebiet in een ruimte kleiner is dan de minimumwaarde zoals die op basis van de EPB-eis voor die ruimte is bepaald in de EPB-aangifte, wordt de overeenkomstige afwijking voor de afvoer in die ruimte, uitgedrukt in m3/h, als volgt bepaald:</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1344,8 +1423,7 @@ Als in de EPB-aangifte wordt opgegeven dat het totale ontwerpafvoerdebiet in een
 - Zoniet dient het minimum genomen te worden van volgende debieten:<br>
 ° enerzijds het in de EPB-aangifte opgegeven nominale debiet van de regelbare afvoeropening<br>
 ° anderzijds het debiet van het bijbehorende afvoerkanaal, berekend als<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1367,8 +1445,7 @@ Als in de EPB-aangifte wordt opgegeven dat het totale ontwerpafvoerdebiet in een
 
 <p>° Het debiet van regelbare doorstroomopeningen wordt niet meegerekend.<br>
 ° Het debiet van een spleet onder een deur, in m3/h, wordt gegeven door:<br>
-<br>
-</p>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1392,62 +1469,289 @@ Als in de EPB-aangifte wordt opgegeven dat het totale ontwerpafvoerdebiet in een
 
 <p>° In een ruimte met residentiële bestemming waar verplichte toevoer van buitenlucht is en in een woonkamer of analoge ruimte, worden voor de bepaling van het afvoerdebiet alleen de doorstroomopeningen (inclusief spleten van binnendeuren) beschouwd. Als de verticale scheidingsconstructies van de ruimte echter alleen grenzen aan een garage, een gemeenschappelijke gang of trappenhuis, een huisvuilkoker of verzamelruimte voor huisvuil, een liftkoker, een stookplaats, een gasmeterruimte of een brandstofopslagplaats, dan worden voor de bepaling van het afvoerdebiet ook andere afvoeropeningen beschouwd.<br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-&nbsp;</p>
+1.5. Afwijkingen bij niet-conformiteit met de EPB-eisen op het vlak van de netto-energiebehoefte voor verwarming<br>
+Als in de EPB-aangifte opgegeven is dat niet voldaan is aan de eis betreffende de netto-energiebehoefte voor verwarming, dan wordt de overeenkomstige afwijking op het vlak van de netto-energiebehoefte voor verwarming, uitgedrukt in kWh/jaar, als volgt bepaald :<br>
+(Q heat net spec, aangifte- Q heat net spec, eis)Af,gross<br>
+waarin :</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p>(Q <sub>heat net spec, aangifte</sub>- Q<sub> heat net spec, eis)</sub>A<sub>f,gross<br>
+			waarin :</sub></p>
+
+			<table border="1" cellpadding="0">
+				<tbody>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>Q<sub> heat net spec, aangifte-</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de in de EPB-aangifte vermelde waarde van de netto-energiebehoefte voor verwarming per eenheid brutovloeroppervlakte, in kWh/m<sup>2</sup>.jaar;</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>Q<sub> heat net spec, eis</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de maximaal toegestane waarde van de netto-energiebehoefte voor verwarming per eenheid brutovloeroppervlakte, in kWh/ m<sup>2</sup>.jaar;</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>A<sub>f,gross</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de in de EPB-aangifte vermelde brutovloeroppervlakte in m<sup>2</sup>;";</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>1.6. Afwijkingen bij niet-conformiteit met de EPB-eisen die door de gemeente bepaald zijn in uitvoering van artikel 11.1.1, § 1/1<br>
+1.6.1. Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van de globale thermische isolatie (K-peil)<br>
+Als in de EPB-aangifte wordt opgegeven dat niet voldaan is aan de eis met betrekking tot het K-peil, wordt, in het geval Kaangifte groter is dan Keis ter uitvoering van artikel 11.1.1, § 1, voor elke overschrijding de overeenkomstige afwijking op het vlak van thermische isolatie, uitgedrukt in W/K, als volgt bepaald :<br>
+0.01(Keis, Vlaanderen- Keis, gemeente) AT,aangifte<br>
+waarin wordt verstaan onder :</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
+			<p><sub>0.01(Keis, Vlaanderen- Keis, gemeente) AT,aangifte<br>
+			waarin wordt verstaan onder :</sub></p>
+
+			<table border="1" cellpadding="0">
+				<tbody>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>K<sub>eis, Vlaanderen</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de maximaal toegestane waarde van het K-peil voor de betreffende bestemming, bepaald door de Vlaamse Regering in uitvoering van artikel 11.1.1, § 1;</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>K<sub>eis, gemeente</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de maximaal toegestane waarde van het K-peil voor de betreffende bestemming, bepaald door de gemeente in uitvoering van artikel 11.1.1, § 1/1;</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>A<sub>T,aangifte</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de in de EPB-aangifte vermelde warmteverliesoppervlakte die hoort bij het betreffende K-peil, in m<sup>2</sup>.</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<p><br>
+			<sub>Als in de EPB-aangifte wordt opgegeven dat niet voldaan is aan de eis met betrekking tot het K-peil, dan wordt, in het geval Kaangifte kleiner is dan of gelijk is aan Keis ter uitvoering van artikel 11.1.1, § 1, voor elke overschrijding de overeenkomstige afwijking op het vlak van thermische isolatie, uitgedrukt in W/K, als volgt bepaald :<br>
+			0.01(Kaangifte-Keis, gemeente)AT,aangifte<br>
+			waarin wordt verstaan onder : </sub></p>
+
+			<table border="1" cellpadding="0">
+				<tbody>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>K<sub>aangifte</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de in de EPB-aangifte vermelde waarde van het K-peil;</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>K<sub>eis, gemeente</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de maximaal toegestane waarde van het K-peil voor de betreffende bestemming, bepaald door de gemeente in uitvoering van artikel 11.1.1, § 1/1;</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>A<sub>T,aangifte</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de in de EPB-aangifte vermelde warmteverliesoppervlakte die hoort bij het betreffende K-peil, in m<sup>2</sup>.</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<p><br>
+			<sub>In afwijking van het eerste en tweede lid wordt voor een gebouw dat meerdere subdossiers bevat, (met uitzondering van « aangrenzende onverwarmde ruimten » en de « gemeenschappelijke delen ») de boete verdeeld pro rata van het aandeel van de warmte- verliesoppervlakte van elk subdossier in de warmteverliesoppervlakte van het totale K-peilvolume exclusief « gemeenschappelijke delen ». De som van alle effectieve individuele boeten is dan gelijk aan de totale boete berekend voor het geheel.<br>
+			Voor elke overschrijding van het K-peil wordt de overeenkomstige afwijking op het vlak van thermische isolatie voor elk subdossier dat deel uitmaakt van hetzelfde K- peilvolume, uitgedrukt in W/K, als volgt bepaald :<br>
+			0.01(Kaangifte - Keis, gemeente)AT, aangifte*AT,subdossier / (AT,aangifte - AT,GD)<br>
+			waarin : </sub></p>
+
+			<table border="1" cellpadding="0">
+				<tbody>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>K<sub>aangifte</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de in de EPB-aangifte vermelde waarde van het K-peil;</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>K<sub>eis, gemeente</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de maximaal toegestane waarde van het K-peil voor het betreffende K-peilvolume;</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>A<sub>T, aangifte</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de in de EPB-aangifte vermelde warmteverliesoppervlakte van het betreffende K-peilvolume, in m<sup>2</sup>;</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>A<sub>T,subdossier</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de in de EPB-aangifte vermelde warmteverliesoppervlakte van het betreffende subdossier, in m<sup>2</sup>;</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>A<sub>T,GD</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de in de EPB-aangifte vermelde warmteverliesoppervlakte van de « gemeenschappelijke delen » binnen het betreffende K-peilvolume, in m<sup>2</sup>.</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<p><br>
+			<sub>1.6.2. Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van de globale energetische prestatie<br>
+			Als in de EPB-aangifte wordt opgegeven dat niet voldaan is aan één of meer eisen met betrekking tot het E-peil, in het geval Eaangifte groter is dan Eeis in uitvoering van artikel 11.1.1, § 1, wordt voor elke overtreding de overeenkomstige afwijking op het vlak van de globale energetische prestatie, uitgedrukt in MJ/jaar, als volgt bepaald :<br>
+			Ekarakteristiek jaarlijks primair energieverbruik,eis Vlaanderen-Ekarakteristiek jaarlijks primair energieverbruik,eis gemeente<br>
+			waarin wordt verstaan onder :</sub></p>
+
+			<table border="1" cellpadding="0">
+				<tbody>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>E<sub>karakteristiek jaarlijks primair energieverbruik,eis Vlaanderen</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de maximaal toegestane waarde van het karakteristiek jaarlijks primair energieverbruik bepaald door de Vlaamse Regering in uitvoering van artikel 11.1.1, § 1, voor de betreffende bestemming, in MJ/jaar.de in de EPB-aan- gifte vermelde waarde van het karakteristiek jaarlijks primair energieverbruik, in MJ/jaar;</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>E<sub>karakteristiek jaarlijks primair energieverbruik, eis gemeente</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de maximaal toegestane waarde van het karakteristiek jaarlijks primair energieverbruik bepaald door de gemeente in uitvoering van artikel 11.1.1, § 1/1, voor de betreffende bestemming, in MJ/jaar.</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<p><br>
+			<sub>Als in de EPB-aangifte wordt opgegeven dat niet voldaan is aan één of meer eisen met betrekking tot het E-peil, in het geval Eaangifte kleiner is dan of gelijk is aan Eeis ter uitvoering van artikel 11.1.1, § 1, dan wordt voor elke overtreding de overeenkomstige afwijking op het vlak van de globale energetische prestatie, uitgedrukt in MJ/jaar, als volgt bepaald :<br>
+			Ekarakteristiek jaarlijks primair energieverbruik,aangifte -Ekarakteristiek jaarlijks primair energieverbruik,eis gemeente<br>
+			waarin wordt verstaan onder :</sub></p>
+
+			<table border="1" cellpadding="0">
+				<tbody>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>E<sub>karakteristiek jaarlijks primair energieverbruik,aangifte</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de in de EPB-aangifte vermelde waarde van het karakteristiek jaarlijks primair energieverbruik, in MJ/jaar;</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>E<sub>karakteristiek jaarlijks primair energieverbruik,eis gemeente</sub></p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>de maximaal toegestane waarde van het karakteristiek jaarlijks primair energieverbruik bepaald door de gemeente in uitvoering van artikel 11.1.1, § 1/1, voor de betreffende bestemming, in MJ/jaar;".</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 ### deel 2
 
 2 Administratieve geldboeten voor de verslaggever<br>
+<br>
 2.1 Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van thermische isolatie<br>
+<br>
 2.1.1 Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van de thermische isolatie van constructie-elementen<br>
 <br>
-Als bij controle de vastgestelde waarde van de warmtedoorgangscoëfficiënt van een of meer constructie-elementen groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de afwijking op het vlak van thermische isolatie, uitgedrukt in W/K, als volgt bepaald:<br>
-&nbsp;
+Als bij controle de vastgestelde waarde van de warmtedoorgangscoëfficiënt van een of meer constructie-elementen groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de afwijking op het vlak van thermische isolatie, uitgedrukt in W/K, als volgt bepaald:
+<div>
 <table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width: 614px;">(U<sub>vaststelling</sub> – U<sub>aangifte</sub>)A<sub>vaststelling</sub><br>
+			<td style="width: 614px;">(U<sub>vaststelling</sub> - U<sub>aangifte</sub>)A<sub>vaststelling</sub><br>
 			Waarin:<br>
 			U<sub>vaststelling</sub> de bij controle vastgestelde waarde van de warmtedoorgangscoëfficiënt, in W/m<sup>2</sup>K;<br>
 			U<sub>aangifte</sub> de in de EPB-aangifte vermelde waarde van de warmtedoorgangscoëfficiënt van het betreffende constructie-element, in W/m<sup>2</sup>K;<br>
-			&nbsp;A<sub>vaststelling</sub> de bij controle vastgestelde oppervlakte van het betreffende constructie-element, in m<sup>2</sup>.<br>
+			A<sub>vaststelling</sub> de bij controle vastgestelde oppervlakte van het betreffende constructie-element, in m<sup>2</sup>.<br>
 			&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-<br>
-Als bij controle de vastgestelde waarde van de warmteweerstand van een of meer constructie-elementen kleiner blijkt dan in de EPB-aangifte is vermeld, wordt voor elk dergelijk constructie-element de afwijking op het vlak van thermische isolatie, uitgedrukt in W/K, als volgt bepaald:<br>
-&nbsp;
+Als bij controle de vastgestelde waarde van de warmteweerstand van een of meer constructie-elementen kleiner blijkt dan in de EPB-aangifte is vermeld, wordt voor elk dergelijk constructie-element de afwijking op het vlak van thermische isolatie, uitgedrukt in W/K, als volgt bepaald:</div>
+
+<div>
 <table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width: 614px;">(1/R<sub>vaststelling</sub> – 1/R<sub>aangifte</sub>)A<sub>aangifte</sub><br>
+			<td style="width: 614px;">(1/R<sub>vaststelling</sub> - 1/R<sub>aangifte</sub>)A<sub>aangifte</sub><br>
 			Waarin:<br>
-			&nbsp;R<sub>vaststelling</sub> de bij controle vastgestelde waarde van de warmteweerstand van het betreffende constructie-element, in m<sup>2</sup>K/W;<br>
+			R<sub>vaststelling</sub> de bij controle vastgestelde waarde van de warmteweerstand van het betreffende constructie-element, in m<sup>2</sup>K/W;<br>
 			R<sub>aangifte</sub> de in de EPB-aangifte vermelde waarde van de warmteweerstand van het betreffende constructie-element, in m<sup>2</sup>K/W;<br>
 			A<sub>aangifte</sub> de in de EPB-aangifte vermelde oppervlakte van het betreffende constructie-element, uitgedrukt in m<sup>2</sup>.<br>
 			&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-<br>
 2.1.2 Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van de globale thermische isolatie (K-peil)<br>
 <br>
-Als bij controle de vastgestelde waarde van het K-peil voor een of meer bestemmingen groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de afwijking op het vlak van thermische isolatie, uitgedrukt in W/K, als volgt bepaald:<br>
-&nbsp;
+Als bij controle de vastgestelde waarde van het K-peil voor een of meer bestemmingen groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de afwijking op het vlak van thermische isolatie, uitgedrukt in W/K, als volgt bepaald:</div>
+
+<div>
 <table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width: 614px;">0.01(K<sub>vaststelling</sub> – K<sub>aangifte</sub>)A<sub>T, vaststelling</sub><br>
+			<td style="width: 614px;">0.01(K<sub>vaststelling</sub> - K<sub>aangifte</sub>)A<sub>T, vaststelling</sub><br>
 			Waarin:<br>
 			K<sub>vaststelling</sub> de bij controle vastgestelde waarde van het K-peil;<br>
 			K<sub>aangifte</sub> de in de EPB-aangifte vermelde waarde van het K-peil;<br>
@@ -1456,127 +1760,227 @@ Als bij controle de vastgestelde waarde van het K-peil voor een of meer bestemmi
 		</tr>
 	</tbody>
 </table>
-<br>
-2.2 Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van de globale energetische prestatie<br>
-<br>
-Als bij controle de vastgestelde waarde van het E-peil voor één of meerdere bestemmingen groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de afwijking op het vlak van de globale energetische prestatie, uitgedrukt in MJ/jaar, als volgt bepaald:<br>
-&nbsp;
+In afwijking van het eerste lid wordt voor een gebouw dat meerdere subdossiers bevat, (met uitzondering van « aangrenzende onverwarmde ruimten » en de « gemeenschappelijke delen ») de boete verdeeld pro rata van het aandeel van de warmteverliesoppervlakte elk subdossier in de warmteverliesoppervlakte van het totale K-peilvolume exclusief « gemeenschappelijke delen ». De som van alle effectieve individuele boeten is dan gelijk aan de totale boete berekend voor het geheel.<br>
+Voor elke overschrijding van het K-peil wordt de overeenkomstige afwijking op het vlak van thermische isolatie voor elk subdossier dat deel uitmaakt van hetzelfde K- peilvolume, uitgedrukt in W/K, als volgt bepaald :</div>
+
+<div>
 <table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width: 614px;">E<sub>karakteristiek jaarlijks primair energieverbruik, vaststelling</sub> – E<sub>karakteristiek jaarlijks primair energieverbruik, aangifte</sub><br>
+			<td style="width: 614px;"><sub>0.01(Kvaststelling - Kaangifte)AT, vaststelling *AT,subdossier / (AT,vaststelling - AT,GD)<br>
+			waarin :</sub>
+
+			<table border="1" cellpadding="0">
+				<tbody>
+					<tr>
+						<td>K<sub>vaststelling</sub></td>
+						<td>de bij controle vastgestelde waarde van het K-peil;</td>
+					</tr>
+					<tr>
+						<td>K<sub>aangifte</sub></td>
+						<td>de in de EPB-aangifte vermelde waarde van het K-peil;</td>
+					</tr>
+					<tr>
+						<td>A<sub>T, vaststelling</sub></td>
+						<td>de bij de controle vastgestelde warmteverliesoppervlakte van het betreffende K-peilvolume, in m<sup>2</sup>;</td>
+					</tr>
+					<tr>
+						<td>A<sub>T,subdossier</sub></td>
+						<td>de warmteverliesoppervlakte van het betreffende subdossier, in m<sup>2</sup>;</td>
+					</tr>
+					<tr>
+						<td>A<sub>T,GD</sub></td>
+						<td>de warmteverliesoppervlakte van de « gemeenschappelijke delen » binnen het betreffende K-peilvolume, in m<sup>2</sup>.</td>
+					</tr>
+				</tbody>
+			</table>
+			<sub>In de EPB-aangifte gerapporteerde oppervlakten die meer dan 5 % afwijken van de oppervlakten bij vaststelling, worden gecorrigeerd bij de berekening van Kvaststelling.<br>
+			Het verkeerd rapporteren van de grens van het beschermd volume wordt gecorrigeerd bij het berekenen van Kvaststelling. </sub></td>
+		</tr>
+	</tbody>
+</table>
+In de EPB-aangifte gerapporteerde oppervlakten die meer dan 5 % afwijken van de oppervlakten bij vaststelling, worden gecorrigeerd bij de berekening van Kvaststelling.<br>
+<br>
+Het verkeerd rapporteren van de grens van het beschermd volume wordt gecorrigeerd bij het berekenen van Kvaststelling.<br>
+<br>
+2.1.3 Afwijkingen bij de berekening van koudebruggen<br>
+<br>
+Als bij een controle van een EPB-aangifte waarin de invloed van de bouwknopen wordt bepaald aan de hand van een numerieke berekening of de methode van de EPB-aanvaarde bouwknopen, wordt vastgesteld dat de invloed van een of meer bouwknopen foutief werd bepaald of vergeten, dan wordt de invloed per foutieve of ontbrekende bouwknoop voor de berekening van Kvaststelling bepaald aan de hand van de waarden bij ontstentenis voor psie of X) zoals bepaald door de Vlaamse Regering<br>
+&nbsp;</div>
+
+<div>
+<table border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 614px;">- H<sub>Tjunctions,controle</sub><sub> = </sub>H<sub>T </sub><sup>junctions,aangifte</sup><sub> - </sub>H<sub>T </sub><sup>junctions,foutief</sup> + ∑<sup>m</sup><sub>k</sub><sub> = &nbsp;</sub>l<sub>kcontrole</sub> b<sub>kΨ</sub> <sub>e,kcontrole</sub> / n<sub>k</sub> ∑<sup>r</sup><sub>l</sub><sub> = 1 </sub>b<sub>l</sub> χ<sub>e</sub>, l<sub>controle</sub> / n<sub>l </sub>[W/K]</td>
+		</tr>
+		<tr>
+			<td style="width: 614px;"><sub>met :</sub>
+			<table border="1" cellpadding="0">
+				<tbody>
+					<tr>
+						<td>- H<sub>Tjunctions,contrôle</sub></td>
+						<td>de warmteoverdrachtscoëfficiënt door transmissie via de bouwknopen bepaald bij een controle, in W/K;</td>
+					</tr>
+					<tr>
+						<td>- H<sub>Tjunctions,aangifte</sub></td>
+						<td>de warmteoverdrachtscoëfficiënt door transmissie via de bouwknopen zoals bepaald in de EPB-aangifte, in W/K;</td>
+					</tr>
+					<tr>
+						<td>- H<sub>Tunctions,foutief</sub></td>
+						<td>de warmteoverdrachtscoëfficiënt door transmissie via de bouwknopen die foutief werden bepaald in de EPB-aangifte, in W/K. De invloed van een bouwknoop is foutief bepaald in volgende gevallen :<br>
+						- de bouwknoop is foutief gecatalogiseerd als een EPB-aanvaarde bouwknoop;<br>
+						psie<sub>e</sub> of X<sub>e</sub> is foutief berekend;</td>
+					</tr>
+					<tr>
+						<td>- l<sub>k,contrôle</sub></td>
+						<td>de totale lengte van de lineaire bouwknoop waarvan de invloed foutief bepaald of vergeten werd, bepaald met buitenafmetingen, in m;</td>
+					</tr>
+					<tr>
+						<td>- Ψ<sub>e,</sub>controle</td>
+						<td>de waarde bij ontstentenis uit tabel 2 voor de lineaire warmtedoorgangscoëfficiënt van de bouwknoop waarvan de invloed foutief bepaald of vergeten werd, in W/mK;</td>
+					</tr>
+					<tr>
+						<td>- X<sub>e,controle</sub></td>
+						<td>de waarde bij ontstentenis uit tabel 3 voor de puntwarmtedoorgangscoëfficiënt van de bouwknoop waarvan de invloed foutief bepaald of vergeten werd, in W/K;</td>
+					</tr>
+					<tr>
+						<td>- b<sub>k</sub></td>
+						<td>temperatuurreductiefactoren bepaald volgens nadere specificaties vanwege de minister.</td>
+					</tr>
+					<tr>
+						<td>- n<sub>k</sub> en n<sub>l</sub></td>
+						<td>het aantal energiesectoren en delen van het gebouw met een andere bestemming waaraan de lineaire bouwknoop k of puntbouwknoop l grenst.</td>
+					</tr>
+				</tbody>
+			</table>
+			<br>
+			<sub>Als alleen de lengte van een lineaire bouwknoop of de reductiefactor b niet overeenstemt met de uitgevoerde situatie en de psie of Xe correct berekend zijn in de EPB-aangifte, zullen bij de berekening van Kvaststelling de foutieve lengtes waarmee HTjunctions,aangifte werd berekend, worden gecorrigeerd door de vastgestelde lengtes.<br>
+			Als bij een controle van een EPB-aangifte wordt vastgesteld dat de invloed van bouwknopen niet in rekening is gebracht, of als de numerieke berekening niet voldoet aan de bepalingen zoals vastgelegd in het betreffende ministerieel besluit, wordt de invloed van de bouwknopen voor het berekenen van Kvaststelling bepaald aan de hand van de forfaitaire toeslag, vastgesteld door de Vlaamse Regering.<br>
+			De maximale afwijking ten gevolge van een verkeerde berekening van de invloed van bouwknopen kan nooit meer bedragen dan de invloed van de bouwknopen voor het project berekend aan de hand van optie C.</sub></td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;2.2 Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van de globale energetische prestatie<br>
+<br>
+Als bij controle de vastgestelde waarde van het E-peil voor één of meerdere bestemmingen groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de afwijking op het vlak van de globale energetische prestatie, uitgedrukt in MJ/jaar, als volgt bepaald:</div>
+&nbsp;
+
+<div>
+<table border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 614px;">E<sub>karakteristiek</sub><sub> jaarlijks primair energieverbruik, vaststelling</sub> - E<sub>karakteristiek</sub><sub> jaarlijks primair energieverbruik, aangifte</sub><br>
 			Waarin:<br>
-			E<sub>karakteristiek jaarlijks primair energieverbruik, vaststelling</sub> de bij controle vastgestelde waarde van het karakteristiek jaarlijks primair energieverbruik, in MJ/jaar;<br>
-			E<sub>karakteristiek jaarlijks primair energieverbruik, aangifte</sub> de in de EPB-aangifte vermelde waarde van het karakteristiek jaarlijks primair energieverbruik, in MJ/jaar.<br>
+			E<sub>karakteristiek</sub><sub> jaarlijks primair energieverbruik, vaststelling</sub> de bij controle vastgestelde waarde van het karakteristiek jaarlijks primair energieverbruik, in MJ/jaar;<br>
+			E<sub>karakteristiek</sub><sub> jaarlijks primair energieverbruik, aangifte</sub> de in de EPB-aangifte vermelde waarde van het karakteristiek jaarlijks primair energieverbruik, in MJ/jaar.<br>
 			&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-<br>
 2.3 Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van het risico op oververhitting<br>
 <br>
-Als bij controle de vastgestelde waarde voor het risico op oververhitting groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de overeenkomstige afwijking op het vlak van het risico op oververhitting, uitgedrukt in Khm3, als volgt bepaald:<br>
-<br>
-&nbsp;
+Als bij controle de vastgestelde waarde voor het risico op oververhitting groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de overeenkomstige afwijking op het vlak van het risico op oververhitting, uitgedrukt in Khm3, als volgt bepaald:</div>
+
+<div>
 <table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width: 614px;">(I<sub>oververhitting, vaststelling</sub> – I<sub>oververhitting, aangifte</sub>)V<sub>vaststelling</sub><br>
+			<td style="width: 614px;">(I<sub>oververhitting</sub><sub>, vaststelling</sub> - I<sub>oververhitting</sub><sub>, aangifte</sub>)V<sub>vaststelling</sub><br>
 			Waarin:<br>
-			I<sub>oververhitting, vaststelling</sub> de bij controle vastgestelde waarde van de indicator voor oververhitting, in Kh;<br>
-			I<sub>oververhitting, aangifte</sub> de in de EPB-aangifte vermelde waarde van de indicator voor oververhitting, in Kh;<br>
-			V<sub>vaststelling </sub>het bij controle vastgestelde volume van het gebouwdeel waarvoor de evaluatie van het risico op oververhitting gebeurd is, in m<sup>3</sup>.<br>
+			I<sub>oververhitting</sub><sub>, vaststelling</sub> de bij controle vastgestelde waarde van de indicator voor oververhitting, in Kh;<br>
+			I<sub>oververhitting</sub><sub>, aangifte</sub> de in de EPB-aangifte vermelde waarde van de indicator voor oververhitting, in Kh;<br>
+			V<sub>vaststelling</sub> het bij controle vastgestelde volume van het gebouwdeel waarvoor de evaluatie van het risico op oververhitting gebeurd is, in m<sup>3</sup>.<br>
 			&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-<br>
 2.4 Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van ventilatie<br>
+<br>
 2.4.1 Bepaling van de eisen<br>
-Als bij controle vastgesteld wordt dat voor een ruimte het geëiste minimale debiet in de EPB-aangifte te laag werd opgegeven, dan wordt de overeenkomstige afwijking voor die ruimte, uitgedrukt in m3/h, als volgt bepaald:<br>
-&nbsp;
+<br>
+Als bij controle vastgesteld wordt dat voor een ruimte het geëiste minimale debiet in de EPB-aangifte te laag werd opgegeven, dan wordt de overeenkomstige afwijking voor die ruimte, uitgedrukt in m3/h, als volgt bepaald:</div>
+
+<div>
 <table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width: 614px;">V<sub>eis, min, vastgesteld</sub> – V<sub>eis, min, aangifte</sub><br>
+			<td style="width: 614px;">V<sub>eis</sub><sub>, min, vastgesteld</sub> - V<sub>eis</sub><sub>, min, aangifte</sub><br>
 			Waarin:<br>
-			V<sub>eis, min, vastgesteld</sub> het opgelegde minimale nominale debiet voor die ruimte, zoals die op basis van de EPB-eis is bepaald bij controle, in m<sup>3</sup>/h;<br>
-			V<sub>eis, min, aangifte</sub> het opgelegde minimale nominale debiet voor die ruimte, zoals opgegeven in de EPB-aangifte, in m<sup>3</sup>/h.<br>
+			V<sub>eis</sub><sub>, min, vastgesteld</sub> het opgelegde minimale nominale debiet voor die ruimte, zoals die op basis van de EPB-eis is bepaald bij controle, in m<sup>3</sup>/h;<br>
+			V<sub>eis</sub><sub>, min, aangifte</sub> het opgelegde minimale nominale debiet voor die ruimte, zoals opgegeven in de EPB-aangifte, in m<sup>3</sup>/h.<br>
 			&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-<br>
-Als bij controle vastgesteld wordt dat voor een afvoerkanaal de geëiste minimale sectie in de EPB-aangifte te laag werd opgegeven, dan wordt de overeenkomstige afwijking, uitgedrukt in m3/h, als volgt bepaald:<br>
-<br>
-&nbsp;
+Als bij controle vastgesteld wordt dat voor een afvoerkanaal de geëiste minimale sectie in de EPB-aangifte te laag werd opgegeven, dan wordt de overeenkomstige afwijking, uitgedrukt in m3/h, als volgt bepaald:</div>
+
+<div>
 <table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width: 614px;">3600 (A<sub>eis, min, vastgesteld</sub> – A<sub>eis, min, aangifte</sub>)<br>
+			<td style="width: 614px;">3600 (A<sub>eis</sub><sub>, min, vastgesteld</sub> - A<sub>eis</sub><sub>, min, aangifte</sub>)<br>
 			Waarin:<br>
-			A<sub>eis, min, vastgesteld</sub> de opgelegde minimale sectie van het afvoerkanaal, zoals die op basis van de EPB-eis is vastgesteld bij controle, in m<sup>3</sup>/h;<br>
-			A<sub>eis, min, aangifte</sub> de opgelegde minimale sectie van het afvoerkanaal, zoals opgegeven in de EPB-aangifte, in m<sup>3</sup>/h<br>
+			A<sub>eis</sub><sub>, min, vastgesteld</sub> de opgelegde minimale sectie van het afvoerkanaal, zoals die op basis van de EPB-eis is vastgesteld bij controle, in m<sup>3</sup>/h;<br>
+			A<sub>eis</sub><sub>, min, aangifte</sub> de opgelegde minimale sectie van het afvoerkanaal, zoals opgegeven in de EPB-aangifte, in m<sup>3</sup>/h<br>
 			&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-<br>
 2.4.2 Toevoervoorzieningen<br>
 <br>
-Als bij controle vastgesteld wordt dat het totale ontwerptoevoerdebiet in een ruimte in de EPB-aangifte groter is dan in werkelijkheid, dan wordt de overeenkomstige afwijking voor de toevoer in die ruimte, uitgedrukt in m3/h, als volgt bepaald:<br>
-&nbsp;
+Als bij controle vastgesteld wordt dat het totale ontwerptoevoerdebiet in een ruimte in de EPB-aangifte groter is dan in werkelijkheid, dan wordt de overeenkomstige afwijking voor de toevoer in die ruimte, uitgedrukt in m3/h, als volgt bepaald:</div>
+
+<div>
 <table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width: 614px;">V<sub>toevoer, aangifte</sub> - V<sub>toevoer, vastgesteld</sub><br>
+			<td style="width: 614px;">V<sub>toevoer</sub><sub>, aangifte</sub> - V<sub>toevoer</sub><sub>, vastgesteld</sub><br>
 			Waarin:<br>
-			V<sub>toevoer, aangifte</sub> het in de EPB-aangifte opgegeven totale ontwerptoevoerdebiet voor die ruimte, in m<sup>3</sup>/h;<br>
-			V<sub>toevoer, vastgesteld</sub> het bij controle vastgestelde totale ontwerptoevoerdebiet voor die ruimte, bepaald zoals hieronder nader vastgesteld, in m<sup>3</sup>/h.<br>
+			V<sub>toevoer</sub><sub>, aangifte</sub> het in de EPB-aangifte opgegeven totale ontwerptoevoerdebiet voor die ruimte, in m<sup>3</sup>/h;<br>
+			V<sub>toevoer</sub><sub>, vastgesteld</sub> het bij controle vastgestelde totale ontwerptoevoerdebiet voor die ruimte, bepaald zoals hieronder nader vastgesteld, in m<sup>3</sup>/h.<br>
 			&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-<br>
 Bij de vaststelling bij controle van het totale ontwerptoevoerdebiet voor een ruimte gelden de volgende regels:<br>
 ° Er wordt gesommeerd over alle luchttoevoervoorzieningen in die ruimte.<br>
 ° Als het toevoerdebiet met buitenlucht gerealiseerd moet worden, wordt er echter alleen gesommeerd over de toevoervoorzieningen die buitenlucht binnenbrengen.<br>
 ° Als de regelkarakteristieken van een regelbare toevoeropening niet voldoen aan de gestelde eisen, dan wordt het ontwerptoevoerdebiet gelijkgesteld aan nul voor de opening.<br>
 ° Het debiet van regelbare doorstroomopeningen wordt niet meegerekend.<br>
-° Het debiet van een spleet onder een deur, in m3/h, wordt gegeven door:<br>
-<br>
-&nbsp;
+° Het debiet van een spleet onder een deur, in m3/h, wordt gegeven door:</div>
+
+<div>
 <table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width: 614px;">3600 . A<sub>spleet, vastgesteld</sub> voor een drukverschil van 2 Pa<br>
-			8000 . A<sub>spleet, vastgesteld</sub> voor een drukverschil van 10 Pa<br>
+			<td style="width: 614px;">3600 . A<sub>spleet</sub><sub>, vastgesteld</sub> voor een drukverschil van 2 Pa<br>
+			8000 . A<sub>spleet</sub><sub>, vastgesteld</sub> voor een drukverschil van 10 Pa<br>
 			Waarin<br>
-			A<sub>spleet, vastgesteld</sub> de bij controle vastgestelde sectie van de deurspleet, in m<sup>2</sup>.<br>
+			A<sub>spleet</sub><sub>, vastgesteld</sub> de bij controle vastgestelde sectie van de deurspleet, in m<sup>2</sup>.<br>
 			&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-<br>
-° Indien in een ruimte met residentiële bestemming er verplichte afvoer rechtstreeks naar buiten is, dan worden voor de bepaling van het toevoerdebiet enkel de doorstroomopeningen (inclusief spleten van binnendeuren) beschouwd. Als de verticale scheidingsconstructies van de ruimte echter alleen grenzen aan een garage, een gemeenschappelijke gang of trappenhuis, een huisvuilkoker of verzamelruimte voor huisvuil, een liftkoker, een stookplaats, een gasmeterruimte of een brandstofopslagplaats, dan worden voor de bepaling van het toevoerdebiet ook andere toevoeropeningen beschouwd.<br>
+&nbsp;° Indien in een ruimte met residentiële bestemming er verplichte afvoer rechtstreeks naar buiten is, dan worden voor de bepaling van het toevoerdebiet enkel de doorstroomopeningen (inclusief spleten van binnendeuren) beschouwd. Als de verticale scheidingsconstructies van de ruimte echter alleen grenzen aan een garage, een gemeenschappelijke gang of trappenhuis, een huisvuilkoker of verzamelruimte voor huisvuil, een liftkoker, een stookplaats, een gasmeterruimte of een brandstofopslagplaats, dan worden voor de bepaling van het toevoerdebiet ook andere toevoeropeningen beschouwd.<br>
 <br>
 2.4.3 Afvoervoorzieningen<br>
 <br>
-Als bij controle vastgesteld wordt dat het totale ontwerpafvoerdebiet in een ruimte in de EPB-aangifte groter is dan in werkelijkheid, wordt de overeenkomstige afwijking voor de toevoer in die ruimte, uitgedrukt in m3/h, als volgt bepaald:<br>
-&nbsp;
+Als bij controle vastgesteld wordt dat het totale ontwerpafvoerdebiet in een ruimte in de EPB-aangifte groter is dan in werkelijkheid, wordt de overeenkomstige afwijking voor de toevoer in die ruimte, uitgedrukt in m3/h, als volgt bepaald:</div>
+
+<div>
 <table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width: 614px;">V<sub>afvoer, aangifte</sub> – V<sub>afvoer, vastgesteld</sub><br>
+			<td style="width: 614px;">V<sub>afvoer</sub><sub>, aangifte</sub> - V<sub>afvoer</sub><sub>, vastgesteld</sub><br>
 			&nbsp;<br>
 			Hierin zijn:<br>
-			V<sub>afvoer, aangifte</sub> het in de EPB-aangifte opgegeven totale ontwerp afvoerdebiet voor die ruimte, in m<sup>3</sup>/h;<br>
-			&nbsp;V<sub>afvoer, vastgesteld</sub> het bij controle vastgestelde totale ontwerp afvoerdebiet voor die ruimte, bepaald zoals hieronder nader vastgelegd, in m<sup>3</sup>/h.<br>
+			V<sub>afvoer</sub><sub>, aangifte</sub> het in de EPB-aangifte opgegeven totale ontwerp afvoerdebiet voor die ruimte, in m<sup>3</sup>/h;<br>
+			V<sub>afvoer</sub><sub>, vastgesteld</sub> het bij controle vastgestelde totale ontwerp afvoerdebiet voor die ruimte, bepaald zoals hieronder nader vastgelegd, in m<sup>3</sup>/h.<br>
 			&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-<br>
 Bij de vaststelling bij controle van het totale ontwerp toevoerdebiet voor een ruimte gelden de volgende regels:<br>
 ° Er wordt gesommeerd over alle luchtafvoervoorzieningen in die ruimte.<br>
 ° Als er afvoer rechtstreeks naar buiten gerealiseerd moet worden, wordt er echter alleen gesommeerd over de afvoervoorzieningen die de lucht rechtstreeks naar buiten lozen.<br>
@@ -1584,37 +1988,70 @@ Bij de vaststelling bij controle van het totale ontwerp toevoerdebiet voor een r
 • Als de regelkarakteristieken van de regelbare afvoeropening niet voldoen aan de gestelde eisen, dan wordt het ontwerpafvoerdebiet gelijkgesteld aan nul.<br>
 • Zoniet dient het minimum genomen te worden van volgende debieten:<br>
 - enerzijds het vastgestelde nominale debiet van de regelbare afvoeropening<br>
-- anderzijds het vastgestelde debiet van het bijbehorende afvoerkanaal, berekend als<br>
-<br>
-&nbsp;
+- anderzijds het vastgestelde debiet van het bijbehorende afvoerkanaal, berekend als</div>
+
+<div>
 <table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width: 614px;">3600 . A<sub>afvoerkanaal, vastgesteld</sub><br>
+			<td style="width: 614px;">3600 . A<sub>afvoerkanaal</sub><sub>, vastgesteld</sub><br>
 			Met<br>
-			A<sub>afvoerkanaal, vastgesteld</sub> de bij controle vastgestelde sectie van het afvoerkanaal, in m<sup>2</sup>.<br>
+			A<sub>afvoerkanaal</sub><sub>, vastgesteld</sub> de bij controle vastgestelde sectie van het afvoerkanaal, in m<sup>2</sup>.<br>
 			&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-<br>
 ° Het debiet van regelbare doorstroomopeningen wordt niet meegerekend.<br>
-° Het debiet van een spleet onder een deur, in m3/h, wordt gegeven door:<br>
-<br>
-&nbsp;
+° Het debiet van een spleet onder een deur, in m3/h, wordt gegeven door:</div>
+
+<div>
 <table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width: 614px;">3600 . A<sub>spleet, vastgesteld</sub> voor een drukverschil van 2 Pa<br>
-			8000 . A<sub>spleet, vastgesteld</sub> voor een drukverschil van 10 Pa<br>
+			<td style="width: 614px;">3600 . A<sub>spleet</sub><sub>, vastgesteld</sub> voor een drukverschil van 2 Pa<br>
+			8000 . A<sub>spleet</sub><sub>, vastgesteld</sub> voor een drukverschil van 10 Pa<br>
 			Waarin:<br>
-			A<sub>spleet, vastgesteld</sub> de bij controle vastgestelde sectie van de deurspleet, in m<sup>2</sup>.<br>
+			A<sub>spleet</sub><sub>, vastgesteld</sub> de bij controle vastgestelde sectie van de deurspleet, in m<sup>2</sup>.<br>
 			&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
+° In een ruimte met residentiële bestemming waar verplichte toevoer van buitenlucht is en in een woonkamer of analoge ruimte, worden voor de bepaling van het afvoerdebiet alleen de doorstroomopeningen (inclusief spleten van binnendeuren) beschouwd. Als de verticale scheidingsconstructies van de ruimte alleen grenzen aan een garage, een gemeenschappelijke gang of trappenhuis, een huisvuilkoker of verzamelruimte voor huisvuil, een liftkoker, een stookplaats, een gasmeterruimte of een brandstofopslagplaats, dan worden voor de bepaling van het afvoerdebiet ook andere afvoeropeningen beschouwd.<br>
 <br>
-° In een ruimte met residentiële bestemming waar verplichte toevoer van buitenlucht is en in een woonkamer of analoge ruimte, worden voor de bepaling van het afvoerdebiet alleen de doorstroomopeningen (inclusief spleten van binnendeuren) beschouwd. Als de verticale scheidingsconstructies van de ruimte alleen grenzen aan een garage, een gemeenschappelijke gang of trappenhuis, een huisvuilkoker of verzamelruimte voor huisvuil, een liftkoker, een stookplaats, een gasmeterruimte of een brandstofopslagplaats, dan worden voor de bepaling van het afvoerdebiet ook andere afvoeropeningen beschouwd.
+2.5. Afwijkingen bij het bepalen van de brutovloeroppervlakte<br>
+<br>
+Als bij controle de vastgestelde waarde van de brutovloeroppervlakte meer dan 5 procent kleiner blijkt te zijn dan in de EPB-aangifte vermeld is, dan wordt de afwijking, uitgedrukt in m2, als volgt bepaald :<br>
+Abruto aangifte - Abruto vaststelling<br>
+waarin :</div>
+
+<table border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 614px;"><sub>Abruto aangifte - Abruto vaststelling<br>
+			waarin :</sub>
+
+			<table border="1" cellpadding="0">
+				<tbody>
+					<tr>
+						<td>A<sub>bruto aangifte</sub></td>
+						<td>de in de EPB-aangifte vermelde waarde van de bruto-oppervlakte, in m<sup>2</sup>.</td>
+					</tr>
+					<tr>
+						<td>A<sub>bruto vastselling</sub></td>
+						<td>de bij controle vastgestelde bruto-oppervlakte, in m<sup>2</sup>. ».</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
 
 ### deel 3.
 
