@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020506,
+  "title": "Decreet van 2011-11-18 houdende wijziging van het decreet van 8 mei 2009 houdende algemene bepalingen betreffende het energiebeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020506/VolledigDocument?datum=2011-12-15",
+  "source_sha256": "9b1a75c6b8b9dc7b3463fbad20a25c33a071f0fd154d61c04d203a27db3014f8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020506&param=informatie",
+  "as_of": "2011-12-15",
+  "made": "2011-11-18",
+  "gazette": "2011-12-15",
+  "numac": 2011035991,
+  "document_start": "2011-12-15",
+  "document_end": null,
+  "in_force": "2011-12-15",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2011-12-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
