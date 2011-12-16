@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021004,
+  "title": "Besluit van de Vlaamse Regering van 2011-10-07 betreffende de werking en het beheer van het Investeringsfonds voor grond- en woonbeleid voor Vlaams-Brabant en tot wijziging van diverse besluiten tot uitvoering van de Vlaamse Wooncode",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021004/VolledigDocument?datum=2011-12-16",
+  "source_sha256": "77746355b55f099b926e8fcf00784e290e48b21bfc62c33acd67656d45091bce",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021004&param=informatie",
+  "as_of": "2011-12-16",
+  "made": "2011-10-07",
+  "gazette": "2011-12-06",
+  "numac": 2011205978,
+  "document_start": "2011-12-16",
+  "document_end": "2013-12-31",
+  "in_force": "2011-12-16",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2011-12-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
