@@ -2,16 +2,16 @@
   "codex_id": 1017250,
   "title": "Besluit van de Vlaamse Regering van 2008-07-18 tot regeling van de algemene leiding, de werking, het beheer en de vertegenwoordiging van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017250/VolledigDocument?datum=2008-11-09",
-  "source_sha256": "39213fa6168dfa3a122961318eba860e5e03b812c5be20b9be6e285283124dbd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017250/VolledigDocument?datum=2011-12-19",
+  "source_sha256": "5eb2aab05ec432ff8605ffa67a6619f8c3b165c5e7e771d78e0122c52a825e4d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017250&param=informatie",
-  "as_of": "2008-11-09",
+  "as_of": "2011-12-19",
   "made": "2008-07-18",
   "gazette": "2008-10-30",
   "numac": 2008203796,
   "document_start": "2008-11-09",
   "document_end": null,
-  "in_force": "2008-11-09",
+  "in_force": "2011-12-19",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2008-11-09; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2011-12-19; future article versions excluded; article text as the API gives it"
 }
