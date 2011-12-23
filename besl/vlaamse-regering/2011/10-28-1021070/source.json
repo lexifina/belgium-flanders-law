@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021070,
+  "title": "Besluit van de Vlaamse Regering van 2011-10-28 tot opheffing van artikel 9 van het besluit van de Vlaamse Regering van 11 april 2008 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer Beheersdienst van het Koninklijk Museum voor Schone Kunsten Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021070/VolledigDocument?datum=2011-12-23",
+  "source_sha256": "3e47bf5a2fd43fc5fafe2802b77bbd64d0eef403aa962ba4b4d2bc2bac9b9f69",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021070&param=informatie",
+  "as_of": "2011-12-23",
+  "made": "2011-10-28",
+  "gazette": "2011-12-13",
+  "numac": 2011206062,
+  "document_start": "2011-12-23",
+  "document_end": null,
+  "in_force": "2011-12-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-12-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
