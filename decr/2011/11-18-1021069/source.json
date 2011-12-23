@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021069,
+  "title": "Decreet van 2011-11-18 houdende wijziging van het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, wat betreft de taken van het agentschap en het Vlaams Instituut voor het Onroerend Erfgoed en tot opheffing van het Eigen Vermogen van het Vlaams Instituut voor het Onroerend Erfgoed",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021069/VolledigDocument?datum=2011-12-23",
+  "source_sha256": "3afea4b7d6f44e1f91d9ec08bdd86e488301795304fc04a3c6b2413ad6e0079d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021069&param=informatie",
+  "as_of": "2011-12-23",
+  "made": "2011-11-18",
+  "gazette": "2011-12-13",
+  "numac": 2011206141,
+  "document_start": "2011-12-23",
+  "document_end": null,
+  "in_force": "2011-12-23",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2011-12-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
