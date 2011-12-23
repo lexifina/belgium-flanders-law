@@ -66,7 +66,7 @@ De leidend ambtenaar van het agentschap waaronder het Koninklijk Museum voor Sch
 
 ### ART. 9.
 
-Op het einde van ieder kwartaal worden door de ordonnateur een staat van ontvangsten en een staat van uitgaven opgemaakt.<br /><br />De Vlaamse minister, bevoegd voor de Culturele Aangelegenheden, legt die staten aan het Rekenhof voor door bemiddeling van de Vlaamse minister, bevoegd voor de financiën en de begrotingen. De bewijsstukken worden ter plaatse bewaard.
+...
 
 ### ART. 10.
 
