@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021121,
+  "title": "Besluit van de Vlaamse Regering van 2011-12-16 houdende regeling tot het verlenen van een investeringssubsidie voor digitalisering van vertonercomplexen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021121/VolledigDocument?datum=2011-12-24",
+  "source_sha256": "682c8a143dce1b227cf02d2221c84c9431041f3035f8932401834a77418b53c9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021121&param=informatie",
+  "as_of": "2011-12-24",
+  "made": "2011-12-16",
+  "gazette": "2011-12-23",
+  "numac": 2011036011,
+  "document_start": "2011-12-24",
+  "document_end": null,
+  "in_force": "2011-12-24",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2011-12-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
