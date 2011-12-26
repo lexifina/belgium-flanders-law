@@ -28,7 +28,7 @@ De voorzitter van de SARO is een van de onafhankelijke deskundigen. Hij wordt be
 
 ### ART. 6.
 
-De SARO kan, voor het onderzoek van bijzondere vraagstukken en mits ze de Vlaamse Regering ervan op de hoogte brengt, een beroep doen op :<br />1° de Vlaamse Commissie voor Ruimtelijke Ordening, vermeld in het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening;<br />2° de Koninklijke Commissie voor Monumenten en Landschappen, vermeld in het decreet van 3 maart 1976 houdende bescherming van monumenten en stads- en dorpsgezichten, of een van haar afdelingen.<br /><br />Hij kan te allen tijde vragen aan de leidend ambtenaren van het departement en de intern of extern verzelfstandigde agentschappen van het beleidsdomein waartoe het beleid inzake ruimtelijke ordening en onroerend erfgoed behoort, om technische toelichtingen te verschaffen over de aangelegenheden waarover hij advies moet of wil uitbrengen.<br /><br />
+De SARO kan, voor het onderzoek van bijzondere vraagstukken en mits ze de Vlaamse Regering ervan op de hoogte brengt, een beroep doen op de Koninklijke Commissie voor Monumenten en Landschappen, vermeld in het decreet van 3 maart 1976 houdende bescherming van monumenten en stads- en dorpsgezichten, of een van haar afdelingen.<br /><br />Hij kan te allen tijde vragen aan de leidend ambtenaren van het departement en de intern of extern verzelfstandigde agentschappen van het beleidsdomein waartoe het beleid inzake ruimtelijke ordening en onroerend erfgoed behoort, om technische toelichtingen te verschaffen over de aangelegenheden waarover hij advies moet of wil uitbrengen.<br /><br />
 
 ## HOOFDSTUK IV. - Overgangs- en slotbepalingen
 
