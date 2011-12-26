@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021085,
+  "title": "Besluit van de Vlaamse Regering van 2011-10-14 tot wijziging van artikel 13 van het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de besluiten van de Vlaamse Regering van 24 juli 2009, 4 december 2009, 6 juli 2010, 7 juli 2010, 24 september 2010, 19 november 2010, 13 mei 2011, 10 juni 2011 en 8 juli 2011",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021085/VolledigDocument?datum=2011-12-26",
+  "source_sha256": "fabfc393caf358941ccc1870f607d558d471fc3d6a29f0bbdd367cc15c20adcb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021085&param=informatie",
+  "as_of": "2011-12-26",
+  "made": "2011-10-14",
+  "gazette": "2011-12-16",
+  "numac": 2011206142,
+  "document_start": "2011-12-26",
+  "document_end": null,
+  "in_force": "2011-12-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-12-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
