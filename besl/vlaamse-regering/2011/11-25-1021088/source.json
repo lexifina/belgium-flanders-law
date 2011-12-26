@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021088,
+  "title": "Besluit van de Vlaamse Regering van 2011-11-25 houdende de gedeeltelijke herverdeling van het provisioneel krediet, ingeschreven onder basisallocatie HB0 HB001 0100 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2011",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021088/VolledigDocument?datum=2011-12-26",
+  "source_sha256": "180cd71390e8319e3ab280c05364c3e22f6c9848061bc6f9f0bc124a1f43343f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021088&param=informatie",
+  "as_of": "2011-12-26",
+  "made": "2011-11-25",
+  "gazette": "2011-12-16",
+  "numac": 2011206143,
+  "document_start": "2011-12-26",
+  "document_end": null,
+  "in_force": "2011-12-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-12-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
