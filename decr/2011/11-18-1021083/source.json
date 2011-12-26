@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021083,
+  "title": "Decreet van 2011-11-18 tot wijziging van de Vlaamse Codex Ruimtelijke Ordening en van het decreet van 10 maart 2006 houdende de oprichting van de strategische adviesraad Ruimtelijke Ordening - Onroerend Erfgoed, wat betreft de adviesorganen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021083/VolledigDocument?datum=2011-12-26",
+  "source_sha256": "280c469df9b6a1f8356319199ec80b570c232d76f2f61bb97b5ce813c30f5884",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021083&param=informatie",
+  "as_of": "2011-12-26",
+  "made": "2011-11-18",
+  "gazette": "2011-12-16",
+  "numac": 2011206242,
+  "document_start": "2011-12-26",
+  "document_end": null,
+  "in_force": "2011-12-26",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2011-12-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
