@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021086,
+  "title": "Besluit van de Vlaamse Regering van 2011-10-14 inzake onteigeningen ten algemenen nutte ten behoeve van de gemeenten, de provincies, de autonome gemeentebedrijven, de autonome provinciebedrijven, de OCMW's, de intergemeentelijke samenwerkingsverbanden en de provinciale ontwikkelingsmaatschappijen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021086/VolledigDocument?datum=2011-12-26",
+  "source_sha256": "317fb7350d41b5aa82c58114169d6e8155e8dd1b164f42bc32f532027be0efea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021086&param=informatie",
+  "as_of": "2011-12-26",
+  "made": "2011-10-14",
+  "gazette": "2011-12-16",
+  "numac": 2011206211,
+  "document_start": "2011-12-26",
+  "document_end": "2017-12-31",
+  "in_force": "2011-12-26",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2011-12-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
