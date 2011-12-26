@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020285,
+  "title": "Decreet van 2011-05-06 tot wijziging van artikel 4 van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020285/VolledigDocument?datum=2011-12-26",
+  "source_sha256": "9bb6d85145e605b84287a3f6aa31c3880818fe083831685da1ec4944b639eb11",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020285&param=informatie",
+  "as_of": "2011-12-26",
+  "made": "2011-05-06",
+  "gazette": "2011-06-06",
+  "numac": 2011202570,
+  "document_start": "2011-12-26",
+  "document_end": null,
+  "in_force": "2011-12-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-12-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
