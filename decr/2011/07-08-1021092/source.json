@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021092,
+  "title": "Decreet van 2011-07-08 houdende aanpassing van de Middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2011",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021092/VolledigDocument?datum=2011-12-26",
+  "source_sha256": "b9b692c853a41dba08792bad5b46949812e09f0557e48d0d8aaefb975e094841",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021092&param=informatie",
+  "as_of": "2011-12-26",
+  "made": "2011-07-08",
+  "gazette": "2011-12-16",
+  "numac": 2011035950,
+  "document_start": "2011-12-26",
+  "document_end": null,
+  "in_force": "2011-12-26",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2011-12-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
