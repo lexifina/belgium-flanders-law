@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021094,
+  "title": "Besluit van de Vlaamse Regering van 2011-11-25 houdende overheveling van het krediet in het kader van het Vlaams akkoord voor de non-profit/socialprofit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021094/VolledigDocument?datum=2011-12-29",
+  "source_sha256": "e87208332dfc2f4c038fcf5c473fe66110bb7bef517d09e48d3a62689bd2d8d8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021094&param=informatie",
+  "as_of": "2011-12-29",
+  "made": "2011-11-25",
+  "gazette": "2011-12-19",
+  "numac": 2011035998,
+  "document_start": "2011-12-29",
+  "document_end": null,
+  "in_force": "2011-12-29",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2011-12-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
