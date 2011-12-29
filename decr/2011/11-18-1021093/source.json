@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021093,
+  "title": "Decreet van 2011-11-18 tot wijziging van het decreet van 28 juni 1985 betreffende de milieuvergunning en van de Vlaamse Codex Ruimtelijke Ordening inzake de beroepsmogelijkheden",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021093/VolledigDocument?datum=2011-12-29",
+  "source_sha256": "c5e05518a8ba722bb69472d8d89caf3fa4f9b20f8fb04de609ad1aa0b5b5e845",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021093&param=informatie",
+  "as_of": "2011-12-29",
+  "made": "2011-11-18",
+  "gazette": "2011-12-19",
+  "numac": 2011206209,
+  "document_start": "2011-12-29",
+  "document_end": null,
+  "in_force": "2011-12-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2011-12-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
