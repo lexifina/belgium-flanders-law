@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021500,
+  "title": "Besluit van de Vlaamse Regering van 2012-03-23 tot wijziging van de artikelen 9, 9/1 en 9/2 van het besluit van de Vlaamse Regering van 29 mei 2009 tot regeling van sommige aspecten van de organisatie en werking van de Raad voor vergunningsbetwistingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021500/VolledigDocument?datum=2011-12-29",
+  "source_sha256": "594264c0cbfb0707a5dc38b38406a0fc2ee04ec79f71ded9703d5aacefbcaabb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021500&param=informatie",
+  "as_of": "2011-12-29",
+  "made": "2012-03-23",
+  "gazette": "2012-04-24",
+  "numac": 2012202122,
+  "document_start": "2011-12-29",
+  "document_end": null,
+  "in_force": "2011-12-29",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2011-12-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
