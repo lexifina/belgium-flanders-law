@@ -508,6 +508,18 @@ Artikel 93 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Art. 9
 
 In artikel 94, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 13 juli 2001, wordt het eerste lid opgeheven.<br /><br />
 
+### ART. IV.52.
+
+Titel II van hetzelfde decreet, gewijzigd bij de decreten van 13 juli 2001, 14 februari 2003 en 7 mei 2004, wordt opgeheven.<br /><br />
+
+### ART. IV.53.
+
+Het besluit van de Vlaamse Regering van 30 juni 2000 houdende de delegatie van sommige bevoegdheden inzake onderwijs aan de Vlaamse minister, bevoegd voor onderwijs wordt opgeheven.<br /><br />
+
+### ART. IV.54.
+
+Het besluit van de Vlaamse Regering van 8 november 2002 tot regeling van een aantal aangelegenheden van het Begeleid Individueel Studeren wordt opgeheven.<br /><br />
+
 ## Onderafdeling II Inwerkingtreding
 
 ### ART. IV.55.
