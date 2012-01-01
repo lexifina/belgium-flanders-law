@@ -2,16 +2,16 @@
   "codex_id": 1017217,
   "title": "Besluit van de Vlaamse Regering van 2008-07-10 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer Centrum voor Informatie, Communicatie en Vorming in de Welzijnssector",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017217/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "49950030161842164080b4318a271e007f9b8e6dcb04f6307f28141007c4caf6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017217/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "56fbca1fa2208deb20d475c9caeeae620ab6e6ae3d57e893dce0dc0d01ca2ea9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017217&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2012-01-01",
   "made": "2008-07-10",
   "gazette": "2008-10-22",
   "numac": 2008203674,
   "document_start": "2008-01-01",
   "document_end": "2022-08-11",
-  "in_force": "2008-01-01",
+  "in_force": "2012-01-01",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }

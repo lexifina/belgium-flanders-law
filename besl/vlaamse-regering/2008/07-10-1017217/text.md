@@ -30,17 +30,17 @@ In dit besluit wordt verstaan onder :<br />1° de DAB CICOV : de dienst met afzo
 
 ### ART. 2.
 
-De DAB CICOV is onderworpen aan de regels van de administratieve controle en de begrotingscontrole, die gelden binnen de Vlaamse Gemeenschap, en aan de regels voor delegatie van bevoegdheden, die gelden voor leden van de Vlaamse Regering.
+...
 
 ## HOOFDSTUK II. De begroting
 
 ### ART. 3.
 
-De DAB CICOV maakt jaarlijks een begroting op van alle ontvangsten en alle uitgaven volgens de richtlijnen die de Vlaamse Regering verstrekt.<br /><br />Het begrotingsjaar begint op 1 januari en eindigt op 31 december van hetzelfde jaar.
+...
 
 ### ART. 4.
 
-De begroting wordt onderverdeeld in twee delen :<br />1° de ontvangsten;<br />2° de uitgaven.
+...
 
 ### ART. 5.
 
@@ -48,41 +48,41 @@ De raming van de ontvangsten heeft betrekking op :<br />1° het van het vorige b
 
 ### ART. 6.
 
-De ontvangsten en uitgaven moeten kunnen worden gerapporteerd volgens het Europese systeem van nationale en regionale rekeningen in de Gemeenschap (ESR).
+...
 
 ### ART. 7.
 
-Op de begroting van een bepaald jaar worden volgende bedragen aangerekend :<br />1° op het vastleggingskrediet : het bedrag van de verbintenissen die tijdens het betreffende begrotingsjaar ontstaan overeenkomstig de bepalingen van artikel 4;<br />2° op het ordonnanceringskrediet : de sommen die gedurende het begrotingsjaar geordonanceerd worden.<br /><br />Het bedrag van de verbintenissen en het bedrag van de uitgaven worden beperkt door het bedrag van de goedgekeurde limitatieve kredieten en door het bedrag van de reële ontvangsten.
+...
 
 ### ART. 8.
 
-Het begrotingsontwerp van de DAB CICOV wordt ter goedkeuring voorgelegd aan de minister en wordt gevoegd bij het ontwerp van decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.
+...
 
 ### ART. 9.
 
-De minister kan kredietoverschrijvingen en kredietoverschrijdingen toestaan met het akkoord van de Vlaamse minister, bevoegd voor de begroting.<br /><br />Als de kredietoverschrijding een hogere dotatie van de Vlaamse Gemeenschap zou meebrengen dan die welke ingeschreven is in de algemene uitgavenbegroting van de Vlaamse Gemeenschap, moet ze voorafgegaan worden door een overeenstemmende wijziging van die begroting.
+...
 
 ## HOOFDSTUK III. Boekhouding en aflegging van de rekeningen
 
 ### ART. 10.
 
-De secretaris-generaal van het Departement Welzijn, Volksgezondheid en Gezin of zijn plaatsvervanger wordt aangesteld als beheerder en ordonnateur van de DAB CICOV. <br /><br />De bevoegdheden en verantwoordelijkheden van de ordonnateur worden vastgesteld overeenkomstig de regels die gelden voor de diensten van de Vlaamse Regering.<br /><br />De ontvangsten en betalingen gebeuren via de centrale financiële rekening van de Vlaamse Gemeenschap.
+De secretaris-generaal van het Departement Welzijn, Volksgezondheid en Gezin of zijn plaatsvervanger wordt aangesteld als beheerder en ordonnateur van de DAB CICOV. <br /><br />De bevoegdheden en verantwoordelijkheden van de ordonnateur worden vastgesteld overeenkomstig de regels die gelden voor de diensten van de Vlaamse Regering.
 
 ### ART. 11.
 
-Op het einde van ieder kwartaal worden door de ordonnateur een staat van ontvangsten en een staat van uitgaven opgemaakt.<br /><br />De minister legt die staten voor aan het Rekenhof door bemiddeling van de Vlaamse minister, bevoegd voor de begroting. De bewijsstukken worden ter plaatse bewaard.
+...
 
 ### ART. 12.
 
-Op het einde van ieder jaar stelt de ordonnateur de volgende stukken op :<br />1° een uitvoeringsrekening van de begroting; <br />2° een staat van activa en passiva. <br /><br />Uiterlijk op 31 januari na het jaar waarop ze betrekking hebben, stuurt de minister die rekeningen naar de Vlaamse minister, bevoegd voor de begroting, die ze voor 31 maart van hetzelfde jaar aan het Rekenhof bezorgt.
+...
 
 ### ART. 13.
 
-De uitvoeringsrekening van de DAB CICOV wordt gevoegd bij die van het algemeen bestuur van de Vlaamse Gemeenschap.
+...
 
 ### ART. 14.
 
-Er moet een vermogenscomptabiliteit gevoerd worden. Daartoe wordt onder meer een inventaris van het vermogen opgemaakt overeenkomstig de geldende bepalingen.
+...
 
 ## HOOFDSTUK IV. Beheer
 
@@ -104,21 +104,21 @@ Met behoud van de toepassing van de regelen voor delegatie en voor administratie
 
 ### ART. 19.
 
-§ 1. Van het saldo dat op het einde van het begrotingsjaar beschikbaar is, wordt tien procent aangewend voor de vorming van een reservefonds. De minister kan dat percentage aanpassen met goedkeuring van de Vlaamse minister, bevoegd voor de begroting.<br /><br />Het reservefonds wordt gevormd totdat de middelen ervan tien procent bedragen van het gemiddelde van de uitgaven van de drie voorgaande begrotingsjaren, tenzij dat bedrag wordt gewijzigd op voorstel van de minister en met akkoord van de Vlaamse minister, bevoegd voor de begroting.<br /><br />Onder beschikbaar saldo op het einde van het begrotingsjaar wordt verstaan : het begrotingssaldo, namelijk het verschil tussen de aangerekende inkomsten en de aangerekende uitgaven van het boekjaar, vermeerderd met de openstaande vastgestelde rechten en verminderd met de openstaande vastleggingen (of over te dragen verbintenissen).<br /><br />§ 2. Op het einde van het begrotingsjaar worden volgende bedragen overgedragen :<br />1° het gedeelte van het begrotingssaldo dat beschikbaar is na de vorming van het reservefonds, vermeld in § 1;<br />2° de vastgestelde rechten;<br />3° de nog openstaande verbintenissen.<br /><br />§ 3. De middelen van het reservefonds, vermeld in § 1, kunnen met goedkeuring van de minister, of zijn gemachtigde, en met goedkeuring van de Vlaamse minister bevoegd voor de begroting, aangewend worden om uitgaven te dekken die voortvloeien uit onvoorzienbare omstandigheden of uit specifieke doelstellingen van de DAB CICOV.
+...
 
 ### ART. 20.
 
-Bij het begin van het jaar mag het begrotingssaldo gebruikt worden dat beschikbaar was op het einde van het vorige jaar na de vorming van het reservefonds.
+...
 
 ### ART. 21.
 
-De rekenplichtige van de Vlaamse Gemeenschap is ermee belast de waarden te behandelen en te bewaren.<br /><br />De ordonnateur is ermee belast :<br />1° de kwartaalrekening op te stellen;<br />2° de rekening van uitvoering van de begroting op te maken;<br />3° de staat van activa en passiva op te maken;<br />4° de inventaris van het vermogen en van de vermogenscomptabiliteit bij te houden.
+...
 
 ## HOOFDSTUK V. [... (opgeh. BVR 1 juni 2012, art. 20)]
 
 ### ART. 22.
 
-Het Rekenhof en het agentschap Centrale Accounting van het Vlaams Ministerie van Financiën en Begroting kunnen de rekeningen ter plaatse controleren. Ze mogen zich op elk moment alle bewijsstukken, staten, inlichtingen of toelichtingen laten verstrekken over de ontvangsten, de uitgaven, de activa en de passiva.<br /><br />De uitgaven worden vereffend en betaald zonder voorafgaand visum van de controleur van de vastleggingen en het Rekenhof.
+...
 
 ## HOOFDSTUK VI. Slotbepalingen
 
