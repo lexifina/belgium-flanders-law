@@ -2,16 +2,16 @@
   "codex_id": 1014981,
   "title": "Ministerieel besluit van 2006-07-28 betreffende de bepaling en herziening van de referentiegegevens ter uitvoering van de bedrijfstoeslagregeling in de sector ruwe tabak",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014981/VolledigDocument?datum=2005-11-01",
-  "source_sha256": "32b9d04a7137ee6f871369c44d29d1a19bfcf3e7f0af6560a1ea9ca1bad04735",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014981/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "794f404f09103fe395e1340b762c621c8de3120c478f9a3a99d26a5ec13186a8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014981&param=informatie",
-  "as_of": "2005-11-01",
+  "as_of": "2012-01-01",
   "made": "2006-07-28",
   "gazette": "2006-09-22",
   "numac": 2006036377,
   "document_start": "2005-11-01",
   "document_end": "2011-12-31",
-  "in_force": "2005-11-01",
+  "in_force": "2012-01-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2005-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }
