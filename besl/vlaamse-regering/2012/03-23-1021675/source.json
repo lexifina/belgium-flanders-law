@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021675,
+  "title": "Besluit van de Vlaamse Regering van 2012-03-23 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden, tot wijziging van artikel 4 van het besluit van de Vlaamse Regering van 9 februari 2007 houdende bepalingen tot inrichting van een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid, tot opheffing van hoofdstuk III van het besluit van de Vlaamse Regering van 27 januari 2006 tot instelling van bepaalde rundvleespremies, en tot opheffing van diverse regelingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021675/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "a701d4aa9d5519d8466aa6cd03ad817e1e549755e01dcc0a41c20b8e07b495d4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021675&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2012-03-23",
+  "gazette": "2012-05-03",
+  "numac": 2012035466,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
