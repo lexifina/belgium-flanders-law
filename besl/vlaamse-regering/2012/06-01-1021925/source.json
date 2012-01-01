@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021925,
+  "title": "Besluit van de Vlaamse Regering van 2012-06-01 tot wijziging van diverse besluiten van de Vlaamse Regering betreffende de financiën en de begrotingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021925/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "22eeb40e1671360c67d14a6b480488c831ada7574de98da3234bb7b31562e0d4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021925&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2012-06-01",
+  "gazette": "2012-07-12",
+  "numac": 2012203825,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 34,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
