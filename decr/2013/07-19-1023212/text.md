@@ -52,6 +52,14 @@ In artikel 9, eerste lid, van het decreet van 22 februari 1995 betreffende   de 
 
 ## Afdeling VIII Decreet betreffende de financiering van de werking van de hogescholen en de universiteiten
 
+### ART. V.86.
+
+<P>Aan artikel 38 van hetzelfde decreet, gewijzigd bij de decreten van 23   december 2011 en 13 juli 2012, wordt een paragraaf 8 toegevoegd, die luidt als   volgt :<BR>« § 8. Een hogeschool kan ervoor opteren om een gedeelte van de   middelen ter ondersteuning van de academisering onder te brengen in het   Industrieel Onderzoeksfonds, bedoeld in artikel 74bis van het decreet van 20   december 2002 houdende bepalingen tot begeleiding van de begroting 2003, van de   associatie waartoe zij behoort, indien in deze mogelijkheid voorzien is in het   algemeen onderzoeks- en samenwerkingsreglement van de associatie waartoe ze   behoort.<BR></P>  <P>De hogeschool sluit een overeenkomst af met de associatie over de inzet van   deze middelen vanuit het Industrieel Onderzoeksfonds. » .<BR></P>
+
+### ART. V.87.
+
+<P>Aan artikel 38bis van hetzelfde decreet, ingevoegd bij het decreet van 13   juli 2012 en gewijzigd bij het decreet van 21 december 2012, wordt een paragraaf   5 toegevoegd, die luidt als volgt :<BR>« § 5. Een hogeschool kan ervoor opteren   om een gedeelte van de middelen ter ondersteuning van de academisering onder te   brengen in het Industrieel Onderzoeksfonds, bedoeld in artikel 74bis van het   decreet van 20 december 2002 houdende bepalingen tot begeleiding van de   begroting 2003, van de associatie waartoe zij behoort, indien in deze   mogelijkheid voorzien is in het algemeen onderzoeks- en samenwerkingsreglement   van de associatie waartoe ze behoort.<BR></P>  <P>De hogeschool sluit een overeenkomst af met de associatie over de inzet van   deze middelen vanuit het Industrieel Onderzoeksfonds. » .<BR></P>
+
 ## Afdeling IX Decreet betreffende de studentenvoorzieningen
 
 ## Afdeling X Decreet betreffende de kwaliteitszorg en accreditatie
