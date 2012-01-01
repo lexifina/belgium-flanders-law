@@ -21,11 +21,11 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1) het decreet : 
 
 ### ART. 2.
 
-Het Herstelfonds maakt jaarlijks een begroting op van alle ontvangsten en alle uitgaven volgens de richtlijnen van de Vlaamse Regering.<br /><br />Het begrotingsjaar begint op 1 januari en eindigt op 31 december van hetzelfde jaar.<br /><br />
+...
 
 ### ART. 3.
 
-De begroting wordt onderverdeeld in twee delen :<br />1) de ontvangsten;<br />2) de uitgaven.<br /><br />De minister kan de ontvangsten en uitgaven nader indelen in door hem te bepalen economische categorieën.<br /><br />
+...
 
 ### ART. 4.
 
@@ -33,15 +33,15 @@ De raming van de ontvangsten heeft betrekking op :<br />1) het over te dragen sa
 
 ### ART. 5.
 
-De uitgavenbegroting wordt opgemaakt volgens het stelsel van de gesplitste kredieten en bevat :<br />1) vastleggingskredieten ten belope waarvan bedragen kunnen worden vastgelegd voor verbintenissen die ontstaan of worden gesloten tijdens het begrotingsjaar en voor de recurrente verbintenissen, waarvan de gevolgen zich over meerdere jaren voordoen, ten belope van de tijdens het begrotingsjaar opeisbare sommen;<br />2) ordonnanceringskredieten ten belope waarvan tijdens het begrotingsjaar bedragen kunnen worden vereffend uit hoofde van rechten, vastgesteld ter uitvoering van voorafgaandelijk vastgelegde verbintenissen.<br />
+...
 
 ### ART. 6.
 
-Het begrotingsontwerp van het Herstelfonds wordt voor goedkeuring voorgelegd aan de minister en toegevoegd aan het ontwerp van decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.<br /><br />
+...
 
 ### ART. 7.
 
-De minister kan kredietoverschrijvingen en kredietoverschrijdingen toestaan met het akkoord van de Vlaamse minister, bevoegd voor de financiën en de begrotingen.<br /><br />Als de kredietoverschrijdingen in totaal een hogere dotatie zouden meebrengen dan die welke ingeschreven is in de administratieve begroting van de Vlaamse Gemeenschap, moeten ze voorafgegaan worden door een overeenstemmende wijziging van die begroting.<br /><br />
+...
 
 ## HOOFDSTUK III De comptabiliteit en aflegging van de rekeningen
 
@@ -51,27 +51,27 @@ Het hoofd van het agentschap Inspectie RWO van het Vlaams Ministerie van Ruimtel
 
 ### ART. 9.
 
-Op het einde van ieder kwartaal worden een staat van ontvangsten en een staat van uitgaven opgemaakt.<br /><br />De minister legt die staten door bemiddeling van de Vlaamse minister, bevoegd voor de financiën en de begrotingen, voor aan het Rekenhof. De bewijsstukken worden ter plaatse bewaard.<br /><br />
+...
 
 ### ART. 10.
 
-De minister benoemt, in samenspraak met de Vlaamse minister, bevoegd voor de financiën en de begrotingen, de rekenplichtigen voor de verrichtingen van het Herstelfonds. <br /><br />Het hoofd van het agentschap Inspectie RWO bepaalt voor welke verrichtingen, die voortvloeien uit de toepassing van titel V van het decreet, de overeenkomstig het eerste lid benoemde rekenplichtigen hun ambt uitoefenen.<br /><br />
+...
 
 ### ART. 11.
 
-Op het einde van ieder jaar worden de volgende stukken opgesteld :<br />1) een beheersrekening;<br />2) een rekening van uitvoering van de begroting;<br />3) een staat van activa en passiva.<br /><br />Uiterlijk op 31 maart van het jaar dat volgt op het jaar waarop de voormelde stukken betrekking hebben, stuurt de minister ze aan de Vlaamse minister, bevoegd voor de financiën en de begrotingen, die ze voor 30 april van hetzelfde jaar aan het Rekenhof bezorgt.<br /><br />
+...
 
 ### ART. 12.
 
-De uitvoeringsrekening van het Herstelfonds wordt gevoegd bij die van het algemeen bestuur van de Vlaamse Gemeenschap.<br /><br />
+...
 
 ### ART. 13.
 
-Op de begroting van een bepaald jaar worden aangerekend :<br />1) op het vastleggingskrediet : het bedrag van de verbintenissen aangegaan tijdens het begrotingsjaar overeenkomstig de bepalingen van artikel 5;<br />2) op het ordonnanceringskrediet : de sommen die worden geordonnanceerd gedurende het begrotingsjaar.<br /><br />
+...
 
 ### ART. 14.
 
-Er wordt een vermogenscomptabiliteit gevoerd. Daartoe wordt onder meer een inventaris van het vermogen opgemaakt overeenkomstig de ter zake geldende bepalingen.<br /><br />
+...
 
 ## HOOFDSTUK IV Het beheer
 
@@ -177,21 +177,21 @@ Deze machtiging geldt slechts binnen de perken van de geopende kredieten en van 
 
 ### ART. 17
 
-Het bedrag van de uitgaven en het bedrag van de verbintenissen worden beperkt door het bedrag van de goedgekeurde limitatieve kredieten en door het bedrag van de ontvangsten.<br /><br />
+...
 
 ### ART. 18.
 
-Vanaf het begin van het jaar mogen de bij het verstrijken van het vorige jaar beschikbare geldmiddelen gebruikt worden.<br /><br />
+...
 
 ### ART. 19.
 
-De rekenplichtige die tegenover het Rekenhof verantwoording moet afleggen is met betrekking tot de overeenkomstig artikel 10 vastgestelde verrichtingen en overeenkomstig de opdrachten, gedefinieerd in zijn aanstellingsbesluit, belast met :<br />1) het behandelen en bewaren van de gelden en waarden;<br />2) het opstellen en bewaren van de bescheiden, vermeld in artikel 9 en 11;<br />3) het bijhouden van de inventaris van het vermogen en van de vermogenscomptabiliteit.<br /><br />
+...
 
 ## HOOFDSTUK V [... (opgeh. BVR 1 juni 2012, art. 16)]
 
 ### ART. 20.
 
-Het Rekenhof en het agentschap Centrale Accounting van het Vlaams Ministerie van Financiën en Begroting kunnen de rekeningen ter plaatse controleren. Ze mogen te allen tijde alle bewijsstukken, staten, inlichtingen of toelichtingen opvragen die betrekking hebben op de ontvangsten, de uitgaven, de activa en de schulden.<br /><br />De uitgaven worden vereffend en betaald zonder bemiddeling van het Rekenhof en zonder visum van de controleur van de vastleggingen.<br /><br />
+...
 
 ## HOOFDSTUK VI Slotbepalingen
 
