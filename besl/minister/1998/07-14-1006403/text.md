@@ -1387,265 +1387,226 @@ Dit besluit heeft uitwerking met ingang van 1 januari 1997.
 
 ### BIJLAGE III.
 
-<p>&nbsp;</p>
+<p>Voorwaarden van tegemoetkoming van het FIVA (exclusief ecobonus)<br>
+(artikel 1 van het ministerieel besluit van 14 februari 2012 tot wijziging van het ministerieel besluit van 14 juli 1998 betreffende steun aan de investeringen en aan de installatie in de visserij- en aquicultuursector)</p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
-			<p>MODALITEITEN VAN TUSSENKOMST VAN HET FIVA<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
-
-			<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-				<tbody>
-					<tr>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.6pt">
-						<p>INVESTERING</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:81.3pt">
-						<p>MAXIMALE DUUR RENTETOELAGE</p>
-
-						<p>(1)</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:65.7pt">
-						<p>MAXIMALE DUUR WAARBORG</p>
-
-						<p>(1)</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:163.8pt">
-						<p>VOORWAARDEN</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.6pt">
-						<p>. bouw van vissersvaartuigen door bestaande rederijen</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81.3pt">
-						<p>15*</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:65.7pt">
-						<p>15*</p>
-						</td>
-						<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:163.8pt">
-						<p>&nbsp;</p>
-
-						<p>rederij minstens 2 jaar opgericht</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.6pt">
-						<p>2. Modernisering van vissersvaartuigen</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81.3pt">
-						<p>7</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:65.7pt">
-						<p>10</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.6pt">
-						<p>3. Aankoop van een vissersvaartuig door bestaande rederij (°)</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81.3pt">
-						<p>7</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:65.7pt">
-						<p>10</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:163.8pt">
-						<p>aankoop uitsluitend ter vervanging van een vaartuig dat aan de vloot werd onttrokken</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.6pt">
-						<p>4. Aankoop van een vaartuig als eerste installatie (°)</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81.3pt">
-						<p>10***</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:65.7pt">
-						<p>10***</p>
-						</td>
-						<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:163.8pt">
-						<p>aanvraag binnen de 2 jaar na vestiging als reder</p>
-
-						<p>fiscaal en sociaal statuut aannemen van reder in hoofdberoep</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.6pt">
-						<p>5. Bouw van een vaartuig als eerste installatie</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81.3pt">
-						<p>15*</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:65.7pt">
-						<p>15*</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.6pt">
-						<p>6. Modernisering van een vaartuig bij eerste installatie</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81.3pt">
-						<p>10***</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:65.7pt">
-						<p>10***</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.6pt">
-						<p>7. Overname viskweekbedrijf</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81.3pt">
-						<p>10</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:65.7pt">
-						<p>10</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:163.8pt">
-						<p>beperkt tot overname bedrijfsbekleding binnen de 2 jaar na 1<sup>e</sup> vestiging</p>
-
-						<p>fiscaal en sociaal statuut aannemen van viskweker in hoofdberoep</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.6pt">
-						<p>8. Aankoop bedrijfsgebouwen</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81.3pt">
-						<p>10</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:65.7pt">
-						<p>10</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:163.8pt">
-						<p>&nbsp;</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.6pt">
-						<p>9. Modernisering van aquicultuurbedrijven</p>
-
-						<p>- gebouwen</p>
-
-						<p>- installaties</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81.3pt">
-						<p>&nbsp;</p>
-
-						<p>&nbsp;</p>
-
-						<p>10</p>
-
-						<p>7</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:65.7pt">
-						<p>&nbsp;</p>
-
-						<p>&nbsp;</p>
-
-						<p>10</p>
-
-						<p>7</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:163.8pt">
-						<p>&nbsp;</p>
-						</td>
-					</tr>
-					<tr>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.6pt">
-						<p>10. Steun aan coöperaties</p>
-
-						<p>- gebouwen</p>
-
-						<p>- milieuinvesteringen</p>
-
-						<p>- machines</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:81.3pt">
-						<p>&nbsp;</p>
-
-						<p>10</p>
-
-						<p>10</p>
-
-						<p>7</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:65.7pt">
-						<p>&nbsp;</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:163.8pt">
-						<p>&nbsp;</p>
-
-						<p>10</p>
-
-						<p>10</p>
-
-						<p>10</p>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-
-			<p>* plus eventueel 1 jaar vrijstelling zonder verlenging van de tussenkomst;</p>
-
-			<p>** plus eventueel 1 jaar vrijstelling met verlenging van de tussenkomst binnen 2 jaar na 1<sup>e</sup> installatie door aankoop van het vaartuig</p>
-
-			<p>*** plus eventueel 1 jaar vrijstelling met verlenging van de tussenkomst.</p>
-
-			<p>(°) De steun moet betrekking hebben op vaartuigen die in voldoende goede staat zijn om nog gedurende ten minste tien jaar te worden gebruikt, waarbij voor vaartuigen ouder dan 10 jaar uit een individueel onderzoek zal moeten blijken dat minstens een activiteitsduur verzekerd wordt overeenkomend met de duur van de overheidswaarborg.</p>
-
-			<p>(1) De steun zal beperkt worden:</p>
-
-			<p>- rekening houdend met navolgende investeringsplafonds:</p>
-
-			<p>Aankoop vaartuig of nieuwbouw vaartuig: voor vissersvaartuigen in staal of glasvezel (omrekeningskoers 1 Ecu = 40,2657):</p>
-
-			<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-				<tbody>
-					<tr>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-						<p>&lt; 10 GT</p>
-
-						<p>10 – 25 GT</p>
-
-						<p>25 – 100 GT</p>
-
-						<p>100 – 300 GT</p>
-
-						<p>300 – 500 GT</p>
-
-						<p>+ 500 GT</p>
-						</td>
-						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-						<p>93.013 F. + 630.138 F./GT</p>
-
-						<p>3.216.726 F. + 317.797 F./GT</p>
-
-						<p>4.340.642 F. + 272.840 F./GT</p>
-
-						<p>13.424.987 F. + 181.996 F./GT</p>
-
-						<p>23.563.487 F. + 148.201 F./GT</p>
-
-						<p>57.164.710 F. + 80.999 F./GT</p>
-						</td>
-					</tr>
-				</tbody>
-			</table>
-
-			<p>(voor vaartuigen in andere materialen zijn de plafonds een factor 1,4 lager)</p>
-
-			<p>Modernisering van een vaartuig: 50 % van voormelde bedragen.</p>
-
-			<p>- bij aankoop van een vaartuig en in geval van gecombineerde steun FIOV/FIVA wordt de regionale steun beperkt tot maximaal 20 % van voormelde plafonds.</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Investeringen<br>
+			gefinancierd <!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
 			</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Met leningen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Met eigen<br>
+			middelen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Voorwaarden</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Investering</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Maximale duur<br>
+			rentetoelage (1)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Maximale duur<br>
+			waarborg (1)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>Overeenkomende<br>
+			kapitaalpremie</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>1. Modernisering van<br>
+			vissersvaartuigen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>15 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>rederij minstens 2 jaar opgericht</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2. Aankoop van een vaartuig als eerste installatie (° )</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>10*</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>10*</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>20 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>aanvraag binnen de 2 jaar na vestiging als reder fiscaal en sociaal statuut aannemen van reder in hoofdberoep</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>3. Modernisering van een vaartuig bij eerste installatie (met uitsluiting van investeringen die betrekking hebben op de hoofdmotor of op een toename van de tonnenmaat)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>10**</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>10**</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>20 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>4. Bouw en aankoop bedrijfsgebouwen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>25 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>5. Inrichting en modernisering van aquicultuurbedrijven</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- gebouwen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>25 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- installaties</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>15 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>6. Steun aan coöperaties</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- gebouwen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>25 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>- machines</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>15 %</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
+<p>* plus eventueel één jaar vrijstelling met verlenging van de tegemoetkoming<br>
+** plus eventueel één jaar vrijstelling met verlenging van de tegemoetkoming binnen twee jaar na vestiging als<br>
+zelfstandig reder in hoofdberoep<br>
+(° ) • van kracht voor vissers jonger dan 35 jaar die - het beroep ten minste vijf jaar uitoefenen als loontrekkende of een gelijkwaardige opleiding hebben genoten - voor de eerste maal een vissersvaartuig in gedeeltelijke of volledige eigendom verwerven<br>
+• voorwaarden, gesteld aan vissersvaartuig :<br>
+- lengte over alles tussen tussen 7 en 24 meter<br>
+- tussen vijf en dertig jaar oud zijn op het moment van verwerving<br>
+- een geldige visvergunning bezitten<br>
+(1) 1° 2xS = maximaal betoelaagbaar investeringsbedrag per vaartuig gedurende hele EVF-periode (2007-2013), met S bepaald door de volgende formule :<br>
+- Voor vissersvaartuigen met een motorvermogen van ten hoogste 221 kW :<br>
+S = (550 x aantal kW's) + (4.000 x aantal BT's) - (*)<br>
+- Voor vissersvaartuigen met een motorvermogen groter dan 221 kW :<br>
+S = (500 x aantal kW's) + (2.000 x aantal BT's) - (*)<br>
+- (*) kW's en BT's van het vissersvaartuig zoals vermeld in het Europese communautaire vlootregister van de vissersvloot op het ogenblik van de aanvraag tot tegemoetkoming voor investeringen aan boord van vissersvaartuigen en selectiviteit.<br>
+Correctiefactoren :<br>
+- Voor vissersvaartuigen die tussen 16 en 29 jaar oud zijn, wordt het berekende bedrag op basis van de BT's verminderd met 1,5 % per jaar dat het vissersvaartuig ouder is dan 15 jaar.<br>
+- Voor vissersvaartuigen die 30 jaar oud of ouder zijn, wordt het berekende bedrag op basis van de BT's verminderd met 22,5 %.<br>
+2° in geval van gecombineerde steun EVF/FIVA wordt de regionale steun beperkt tot maximaal 25 % van de voormelde plafonds;<br>
+3° bij aankoop van een vaartuig bedraagt de gecombineerde steun EVF/FIVA maximaal 15 % van de aankoopprijs met een maximum van 50.000 euro, 50 % uit het FIVA en 50 % uit het EVF.<br>
+De steun moet pro rata temporis worden terugbetaald als de door de begunstigde verworven eigendom wordt overgedragen of als het vaartuig binnen vijf jaar na toekenning van de premie definitief uit de vaart wordt genomen.</p>
