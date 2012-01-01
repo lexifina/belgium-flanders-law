@@ -16,6 +16,14 @@ In de rechterkolom van de tabel van artikel VII 71 van hetzelfde besluit,   inge
 
 Aan artikel VII 164, § 1, van hetzelfde besluit, ingevoegd bij het besluit   van de Vlaamse Regering van 8 juni 2012, wordt een tweede lid toegevoegd, dat   luidt als volgt :<BR>« De toelage vermeld in het eerste lid, wordt aan de   personeelsleden van het Instituut voor de Aanmoediging van Innovatie door   Wetenschap en Technologie in Vlaanderen, ook toegekend voor de periode van 1   januari 2010 tot en met 30 november 2012. ». <BR>
 
+### ART. 26.
+
+In artikel X 28, § 1, van hetzelfde besluit, vervangen bij het besluit van   de Vlaamse Regering van 6 juli 2007, worden de woorden « 72 maanden » vervangen   door de woorden « 60 maanden ».<BR>
+
+### ART. 28.
+
+In deel X, titel 6, hoofdstuk 1, van hetzelfde besluit wordt een artikel X   28ter ingevoegd, dat luidt als volgt :<BR>« Art. X 28ter. In afwijking van   artikel X 28, § 1 bedraagt de maximumduur voor voltijdse en deeltijdse   loopbaanonderbreking 72 maanden voor :<BR>1° de loopbaanonderbrekingen en de   verlengingen van loopbaanonderbreking die ingingen voor 1 januari 2012;<BR>2° de   loopbaanonderbrekingen en de verlengingen van loopbaanonderbreking die aan de   drie volgende voorwaarden voldoen :<BR>a) de werkgever werd schriftelijk op de   hoogte gesteld voor 28 november 2011;<BR>b) de RVA ontving de aanvraag voor 2   maart 2012;<BR>de loopbaanonderbreking vangt voor 3 april 2012 aan.   ».<BR>
+
 ### ART. 34.
 
 In hetzelfde besluit wordt bijlage 4, vervangen bij het besluit van de   Vlaamse Regering van 29 mei 2009 en gewijzigd bij de besluiten van de Vlaamse   Regering van 22 januari 2010 en 29 april 2011, vervangen door bijlage 1, die bij   dit besluit is gevoegd.<BR>
