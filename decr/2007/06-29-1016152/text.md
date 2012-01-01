@@ -187,19 +187,19 @@ In artikel 102bis van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode,
 
 ### ART. 22.
 
-De Vlaamse Regering regelt de werking van het Fonds.<br />
+...<br />
 
 ### ART. 23.
 
-De middelen van het Fonds zijn :<br />a) een dotatie lastens de begroting van het Vlaamse Gewest;<br />b) een dotatie lastens de begroting van de VVM;<br />c) het gebeurlijke saldo op het einde van het voor gaande begrotingsjaar op het Fonds;<br />d) de ontvangsten voortvloeiend uit terugvorderingen;<br />e) opbrengsten van renten en intresten.<br /><br />
+...
 
 ### ART. 24.
 
-Behoudens andersluidende bepalingen, worden de begroting en de rekening opgemaakt en goedgekeurd en de controle door het Rekenhof uitgevoerd overeenkomstig de bepalingen van de wet van 16 maart 1954 betreffende de controle op de instellingen van openbaar nut van categorie A.<br /><br />
+...
 
 ### ART. 25.
 
-De middelen van het Fonds kunnen aangewend voor :<br />1° infrastructurele kosten voor de herinrichting van stationsomgevingen;<br />2° de werkingskosten eigen aan het Fonds.<br /><br />
+...
 
 ## HOOFDSTUK X Fonds voor de subsidiëring van zorgvernieuwingsprojecten
 
@@ -294,6 +294,10 @@ Aan artikel 41 van het decreet van 23 december 2005 houdende bepalingen tot bege
 ...
 
 ### ART. 45.
+
+...
+
+### ART. 46.
 
 ...
 
