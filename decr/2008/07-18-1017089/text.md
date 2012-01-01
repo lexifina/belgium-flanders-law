@@ -202,7 +202,7 @@ Aan de Jeugdraad, het steunpunt jeugd, VIP Jeugd, het kenniscentrum kinderrechte
 
 ### ART. 46.
 
-De jaarlijks toe te kennen kredieten voor de subsidiëring van :<br />1° de landelijk georganiseerde jeugdverenigingen;<br />2° de Jeugdraad;<br />3° het kenniscentrum kinderrechten;<br />4° het steunpunt jeugd;<br />5° de ondersteuningsorganisatie "gemeentelijk en provinciaal jeugdbeleid";<br />6° Jint;<br />7° VIP Jeugd;<br />8° het experimenteel jeugdwerk;<br />9° de verenigingen en projecten "participatie en informatie";<br />10° de internationale initiatieven;<br />11° de cultuureducatieve verenigingen en de initiatieven bedoeld in artikel 39;<br />worden op afzonderlijke basisallocaties ingeschreven in de algemene uitgavenbegroting van de Vlaamse Gemeenschap.<br /><br />De verenigingen waarvan werd vastgesteld dat zij aan alle voorwaarden voldoen voor de toekenning van een werkingssubsidie, ontvangen per kwartaal een voorschot ten bedrage van 22,5 percent van het voor dat jaar toe te kennen subsidiebedrag. Het saldo wordt uitbetaald voor 1 juli van het volgende jaar.<br /><br />De Vlaamse Regering bepaalt de nadere voorwaarden inzake de uitbetaling in het geval van voorschotten bij projectsubsidies.
+De verenigingen waarvan werd vastgesteld dat zij aan alle voorwaarden voldoen voor de toekenning van een werkingssubsidie, ontvangen per kwartaal een voorschot ten bedrage van 22,5 percent van het voor dat jaar toe te kennen subsidiebedrag. Het saldo wordt uitbetaald voor 1 juli van het volgende jaar.<br /><br />De Vlaamse Regering bepaalt de nadere voorwaarden inzake de uitbetaling in het geval van voorschotten bij projectsubsidies.
 
 ### ART. 47.
 
