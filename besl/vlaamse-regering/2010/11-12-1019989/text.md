@@ -203,9 +203,61 @@ In afwijking van artikel 27/3, § 1, van het Integratiedecreet start het eerste 
 
 ## Afdeling 1 [... (opgeh. BVR 29 januari 2016, art. 70, I: 29 februari 2016)]
 
+### ART. 36.
+
+Ter uitvoering van artikel 27/2 van het Integratiedecreet vervult het hoofdstedelijk integratiecentrum de taken, vermeld in artikel 27/2, § 2, 1° tot en met 10°, van het Integratiedecreet, rekening houdend met de regierol van de Vlaamse Gemeenschapscommissie en in overleg en in samenwerking met het VLEMI.<br /><br />
+
+### ART. 37.
+
+Ter uitvoering van artikel 27/3, § 1, van het Integratiedecreet maakt het hoofdstedelijk integratiecentrum een voorstel van meerjarenconvenant op voor vijf jaar, op basis van de beleidsopties van het college van de Vlaamse Gemeenschapscommissie met betrekking tot het Vlaamse integratiebeleid in het tweetalige gebied Brussel - Hoofdstad.<br /><br />In het voorstel van meerjarenconvenant geeft het hoofdstedelijk integratiecentrum aan op welke wijze de beleidsopties van het college van de Vlaamse Gemeenschapscommissie werden geïntegreerd.<br /><br />Het hoofdstedelijk integratiecentrum houdt bij de opmaak van zijn meerjarenconvenant ook rekening met het strategische planningskader van het VLEMI.<br /><br />Het meerjarenconvenant wordt na drie jaar geactualiseerd.<br /><br />
+
+### ART. 38.
+
+Met behoud van toepassing van de bepalingen van artikel 27/3, § 1, van het Integratiedecreet, gelden de volgende aanvullende bepalingen voor het voorstel van meerjarenconvenant :<br />1° per doelstelling wordt de keuze verantwoord op basis van de beschrijving van de bestaande situatie;<br />2° de strategische en operationele doelstellingen worden opgegeven, dat wil zeggen minstens de doelstellingen voor de uitvoering van het Vlaamse integratiebeleid in het tweetalige gebied Brussel - Hoofdstad, gebaseerd op de beleidsprioriteiten van de VGC;<br />3° voor het derde jaar en het laatste jaar van het convenant wordt bepaald welke resultaten behaald moeten zijn op 30 juni van het betreffende jaar;<br />4° per operationele doelstelling wordt aangegeven met welke organisaties of voorzieningen er een samenwerking wordt gepland voor de uitvoering van de doelstelling;<br />5° per operationele doelstelling wordt de eventuele samenwerking met het onthaalbureau, het VLEMI en de Vlaamse Gemeenschapscommissie aangegeven.<br /><br />
+
+### ART. 39.
+
+Ter uitvoering van artikel 27/3 van het Integratiedecreet bezorgt het hoofdstedelijk integratiecentrum het voorstel van meerjarenconvenant, en de actualisering ervan na drie jaar, uiterlijk acht maanden voor de inwerkingtreding ervan ter goedkeuring aan het college van de Vlaamse Gemeenschapscommissie. Bij niet-goedkeuring bezorgt de Vlaamse Gemeenschapscommissie haar opmerkingen aan het hoofdstedelijk integratiecentrum dat zijn meerjarenconvenant op basis daarvan aanpast. Het aangepaste meerjarenconvenant wordt opnieuw ter goedkeuring voorgelegd aan het college van de Vlaamse Gemeenschapscommissie. <br /><br />Het hoofdstedelijk integratiecentrum dient het voorstel van meerjarenconvenant drie maanden voor de inwerkingtreding in bij het Agentschap, samen met het collegebesluit van de Vlaamse Gemeenschapscommissie. Bij de indiening van het eerste meerjarenconvenant kan die termijn ingekort worden.<br /><br />
+
+### ART. 40.
+
+Bij het voorstel van meerjarenconvenant worden de volgende documenten gevoegd :<br />1° een nota met de evaluatie over alle jaren van het voorbije meerjarenconvenant;<br />2° een nota waarin wordt aangetoond dat het hoofdstedelijk integratiecentrum, nog altijd, voldoet aan de erkenningsvoorwaarden, vermeld in artikel 27/2, § 2, van het Integratiedecreet en in artikel 45, eerste lid, van dit besluit;<br />3° een nota met een motivatie hoe het integratiecentrum bijgedragen heeft aan de gezamenlijke omgevingsanalyse;<br />4° het collegebesluit van de Vlaamse Gemeenschapscommissie waarin het voorstel van meerjarenconvenant wordt goedgekeurd;<br />5° een ontwerp van samenwerkingsovereenkomst met de Vlaamse Gemeenschapscommissie, goedgekeurd door het college.<br /><br />
+
+### ART. 41.
+
+Het door het hoofdstedelijk integratiecentrum ondertekende convenant wordt goedgekeurd door de Raad van de Vlaamse Gemeenschapscommissie en bezorgd aan de minister.<br /><br />
+
 ## Afdeling 2 [... (opgeh. BVR 29 januari 2016, art. 70, I: 29 februari 2016)]
 
+### ART. 42.
+
+In overeenstemming met artikel 27/3, § 2, van het Integratiedecreet dient het hoofdstedelijk integratiecentrum jaarlijkse operationele plannen in die zijn goedgekeurd door het college van de Vlaamse Gemeenschapscommissie. Die jaarlijkse operationele plannen bevatten de elementen, vermeld in artikel 27/3, § 2, van het Integratiedecreet en worden ingediend voor 1 november voorafgaand aan het jaar waarop ze betrekking hebben.<br /><br />
+
+### ART. 43.
+
+Als voor de eerste drie jaar van het meerjarenconvenant alle elementen van de jaarlijkse operationele plannen, vermeld in artikel 27/3, § 2, van het Integratiedecreet, opgenomen zijn, hoeven er geen afzonderlijke plannen meer te worden ingediend voor die betreffende jaren. De jaarlijkse operationele plannen worden dan beschouwd als geïntegreerd in het meerjarenconvenant.<br /><br />Voor de actualisering na drie jaar, vermeld in artikel 37, geldt dezelfde bepaling over het jaarlijkse operationele plan.<br /><br />
+
+### ART. 44.
+
+Het hoofdstedelijk integratiecentrum sluit, in overeenstemming met artikel 27/2, § 2, 9°, van het Integratiedecreet, een samenwerkingsovereenkomst met de Vlaamse Gemeenschapscommissie. <br /><br />De samenwerkingsovereenkomst bevat minstens de volgende elementen :<br />1° de opdrachten van het hoofdstedelijk integratiecentrum voor de uitvoering van het Vlaamse integratiebeleid in het tweetalige gebied Brussel - Hoofdstad, gesubsidieerd door de Vlaamse overheid;<br />2° de eventuele aanvullende opdrachten van het hoofdstedelijk integratiecentrum voor de uitvoering van het Vlaamse integratiebeleid, rekening houdend met de specificiteit in het tweetalige gebied Brussel - Hoofdstad, gesubsidieerd met middelen van de Vlaamse Gemeenschapscommissie;<br />3° de regeling voor samenwerking en overleg;<br />4° de regeling voor evaluatie;<br />5° de regeling voor financiering.<br /><br />
+
 ## Afdeling 3 [... (opgeh. BVR 29 januari 2016, art. 70, I: 29 februari 2016)]
+
+### ART. 45.
+
+Ter uitvoering van artikel 27/4 van het Integratiedecreet erkent de minister het hoofdstedelijk integratiecentrum op basis van het eerste meerjarenconvenant, vermeld in artikel 27/3, § 1, onder de volgende voorwaarden :<br />1° het hoofdstedelijk integratiecentrum is een vereniging zonder winstoogmerk;<br />2° in de algemene vergadering is maximaal twee derde van de leden van hetzelfde geslacht. De algemene vergadering bestaat uit : <br />a) twee waarnemers van de Vlaamse Gemeenschapscommissie;<br />b) minstens één expert van het VLEMI;<br />c) minstens één expert van het onthaalbureau inburgering;<br />d) minstens één expert van het Huis van het Nederlands;<br />e) experten op het gebied van integratiebeleid van de relevante maatschappelijke sectoren;<br />f) personen als vermeld in artikel 3, eerste lid, 1° en 2°, of ervaringsdeskundigen die aangewezen zijn door de participatieorganisatie;<br />3° de raad van bestuur bestaat minstens uit vijf personen en de twee waarnemers van de Vlaamse Gemeenschapscommissie;<br />4° het hoofdstedelijk integratiecentrum voldoet aan de voorwaarden van het Kwaliteitsdecreet.<br /><br />
+
+### ART. 46.
+
+Een aanvraag tot erkenning is alleen ontvankelijk als ze door het hoofdstedelijk integratiecentrum wordt ingediend bij het Agentschap en als ze de volgende gegevens en stukken bevat :<br />1° het voorstel van meerjarenconvenant, opgemaakt volgens de bepalingen van artikel 27/3, § 1, van het Integratiedecreet en de bepalingen van artikel 37 tot 41 van dit besluit;<br />2° een beschrijving van de interne organisatiestructuur;<br />3° een verklaring dat de organisatie beschikt over een kwaliteitshandboek, met een beschrijving van het kwaliteitsbeleid, het kwaliteitsmanagementsysteem en de zelfevaluatie, vermeld in artikel 5 van het Kwaliteitsdecreet.<br /><br />De erkenning kan alleen worden toegekend als de statuten en de samenstelling van de raad van bestuur en van de algemene vergadering in het Staatsblad zijn gepubliceerd en als de ledenlijst bij de griffie van de rechtbank van eerste aanleg is ingediend.<br /><br />
+
+### ART. 47.
+
+Zolang aan de voorwaarden vermeld in dit hoofdstuk is voldaan, geldt de erkenning, vermeld in artikel 46, voor onbepaalde duur. <br /><br />
+
+### ART. 48.
+
+Bij de goedkeuring van het nieuwe meerjarenconvenant wordt het lopende meerjarenconvenant opgeheven.<br /><br />
 
 ## TITEL 6 [... (opgeh. BVR 29 januari 2016, art. 71, I: 29 februari 2016)]
 
