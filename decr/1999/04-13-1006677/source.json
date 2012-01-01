@@ -2,16 +2,16 @@
   "codex_id": 1006677,
   "title": "Decreet van 1999-04-13 tot regeling van de rechtspositie van het statutair en het contractueel personeel van het VRT-Filharmonisch orkest en het VRT-koor",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006677/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "84886dd4435399ccb46fbe2a8b748ca32369882f3df1edb7339cfbf6ac796771",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006677/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "050669e99b8692393d7b4bcda85f320a45146bbbd7180991c742fd57cba5d56f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006677&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2012-01-01",
   "made": "1999-04-13",
   "gazette": "1999-06-11",
   "numac": 1999035668,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2012-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }
