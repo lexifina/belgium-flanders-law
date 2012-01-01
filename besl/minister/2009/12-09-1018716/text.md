@@ -6,16 +6,16 @@ De Vlaamse minister van Welzijn, Gezondheid en Gezin,<br /><br />Gelet op de dec
 
 ### ART. 1.
 
-Voor het Nederlandse taalgebied worden de resultaten van de bevolkingsprojectie voor de afzonderlijke kalenderjaren 2015 tot en met 2019, zoals vervat in de « SVR-2005 bevolkingsprojecties per gemeente voor de periode 2004-2025 » die door het toenmalige Centrum Voor Bevolkings- en Gezinsstudies van het departement Welzijn, Volksgezondheid en Cultuur, thans Studiedienst van de Vlaamse Regering, werd uitgevoerd, vastgelegd voor de toepassing voor de jaren 2010 tot en met 2015 van het programmacijfer voor de serviceflatgebouwen en woningcomplexen met dienstverlening, vermeld in artikel 3, 2°, van het besluit van de Vlaamse Regering van 17 maart 1998 houdende de vaststelling van het programma voor serviceflatgebouwen, woningcomplexen met dienstverlening en rusthuizen.<br /><br />
+...
 
 ### ART. 2.
 
-Voor het tweetalige gebied Brussel-Hoofdstad wordt 30 % van de resultaten van de bevolkingsprojectie voor de afzonderlijk kalenderjaren 2015 tot en met 2019 zoals vervat in « Bevolkingsvooruitzichten 2007-2060 » van het Nationaal Instituut voor de Statistiek en het Federaal Planbureau vastgelegd voor de jaren 2010 tot en met 2014 voor de toepassing van het programmacijfer voor serviceflatgebouwen en woningcomplexen met dienstverlening als vermeld in artikel 3, 2°, van het besluit van de Vlaamse Regering van 17 maart 1998 houdende de vaststelling van het programma voor serviceflatgebouwen, woningcomplexen met dienstverlening en rusthuizen.<br /><br />Van de aldus berekende programmaruimte van het tweetalige gebied Brussel-Hoofdstad wordt 70 % toegewezen aan volgende drie zones van het tweetalige gebied Brussel-Hoofdstad : <br />1° de zone Noord-Oost met de gemeenten Schaarbeek, Evere, Sint-Joost-ten-Node, Haren, de zogenaamde scharnierzone Neder-Over-Heembeek; en de gemeenten Koekelberg en Sint-Jans-Molenbeek;<br />2° de zone Noord-West met de gemeenten Sint-Agatha-Berchem Ganshoren, Jette, Laken en met als uitbreiding de gemeenten Koekelberg en Sint-Jans-Molenbeek;<br />3° de zone Zuid-West met de gemeente Anderlecht.<br /><br />De overige 30 % van de aldus berekende programmaruimte van het tweetalige gebied Brussel-Hoofdstad wordt toegewezen aan de overige gemeenten van het tweetalige gebied Brussel-Hoofdstad.<br /><br />
+...
 
 ### ART. 3.
 
-Het ministerieel besluit van 9 april 2009 houdende de vastlegging van bevolkingsprojecties zoals bedoeld in artikel 4 van het besluit van de Vlaamse Regering van 17 maart 1998 houdende vaststelling van het programma voor serviceflatgebouwen, woningcomplexen met dienstverlening, en rusthuizen, wordt opgeheven.<br /><br />
+...
 
 ### ART. 4.
 
-Dit besluit treedt in werking op 1 januari 2010.<br /><br />
+...
