@@ -31,8 +31,11 @@ De ministers kunnen nadere regels bepalen voor de identificatie bij het overneme
 § 1. De verzamelaanvraag is de basis voor :<br>
 1° de aanvraag tot definitieve vaststelling van de toeslagrechten;<br>
 2° de activering van de toeslagrechten;<br>
-3° de aanvraag voor andere oppervlaktegebonden steunregelingen als vermeld in titel IV, bijlage I en V van Verordening (EG) nr. 1782/2003 van de Raad;<br>
-4° de aangifte van landbouwgronden in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan.<br>
+3° de aanvraag voor andere oppervlaktegebonden steunregelingen als vermeld in titel III, bijlage I en VI van Verordening (EG) nr. 73/2009 van de Raad van 19 januari 2009 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers, tot wijziging van Verordeningen (EG) nr. 1290/2005, (EG) nr. 247/2006, (EG) nr. 378/2007 en tot intrekking van Verordening (EG) nr. 1782/2003;<br>
+4° de aangifte van landbouwgronden in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan;<br>
+5° de steunaanvraag of de uitbetalingsaanvraag voor de volgende maatregelen, als de Vlaamse Regering heeft beslist dat de verzamelaanvraag voor die maatregelen als steunaanvraag of betalingsaanvraag gebruikt wordt :<br>
+a) steunmaatregelen als vermeld in voormelde Verordening (EG) nr. 73/2009, andere dan de steunmaatregelen vermeld in punt 1° tot en met 3° ;<br>
+b) steunmaatregelen als vermeld in Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO).<br>
 <br>
 De ministers kunnen, ieder wat zijn of haar bevoegdheid betreft, bepalen dat de verzamelaanvraag de basis is voor de steunaanvraag en de uitbetalingaanvraag voor oppervlaktegebonden agro-milieumaatregelen als vermeld in artikel 36, punten a),ii), a), iii), a),iv) en b),i) van Verordening (EG) nr. 1698/2005 of voor oppervlaktegebonden milieumaatregelen als vermeld in artikel 13, 23 en 31 van Verordening (EG) nr. 1257/1999.<br>
 <br>
