@@ -118,7 +118,7 @@ De boekhouding van de VRT wordt gevoerd volgens de wetgeving op de boekhouding e
 
 ### ART. 24.
 
-Het decreet van 7 mei 2004 houdende regeling van de begrotingen, de boekhouding, de controle inzake subsidies, en de controle door het Rekenhof is van toepassing op de VRT.
+Het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof is van toepassing op de VRT.
 
 ### ART. 25.
 
