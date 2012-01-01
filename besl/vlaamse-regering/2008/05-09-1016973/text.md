@@ -196,48 +196,14 @@ Uiterlijk zestig dagen na de ontvangst van het inspectieverslag beslist Kind en 
 
 ### ART. 43.
 
-Voor de voorschoolse opvang wordt een forfaitair subsidiebedrag van   11.019,55 euro toegekend door Kind en Gezin per plaats op jaarbasis.<BR><BR>Het   forfaitaire subsidiebedrag geldt voor minimaal 200 openingsdagen en voor   minimaal 9 openingsuren per dag. Het bedrag wordt verhoudingsgewijs verlaagd als   niet aan die minima voldaan is.<BR><BR>Het forfaitaire subsidiebedrag wordt   toegekend per kalenderjaar, na verrekening van de gefactureerde financiële   bijdrage van de gezinnen die de lokale dienst ingevolge artikel 21, 1°,   int.
+De forfaitaire subsidie, toegekend door Kind en Gezin, bedraagt per plaats   op jaarbasis in 2012 voor voorschoolse opvang :<BR>1° georganiseerd door een   openbaar bestuur : 11.495,47 euro;<BR>2° georganiseerd door een privaat bestuur   : 11.554,06 euro. <BR><BR>Het forfaitaire subsidiebedrag geldt voor minimaal 200   openingsdagen en voor minimaal 9 openingsuren per dag. Het bedrag wordt   verhoudingsgewijs verlaagd als niet aan die minima voldaan is.<BR><BR>Het   forfaitaire subsidiebedrag wordt toegekend per kalenderjaar, na verrekening van   de gefactureerde financiële bijdrage van de gezinnen die de lokale dienst   ingevolge artikel 21, 1°, int.
 
 ### ART. 44.
 
-<p>Voor de buitenschoolse opvang wordt een forfaitair subsidiebedrag toegekend door Kind en Gezin per plaats op jaarbasis :<br>
+<p>De forfaitaire subsidie, toegekend door Kind en Gezin, bedraagt per plaats op jaarbasis in 2012 voor buitenschoolse opvang :<br>
+1° georganiseerd door een openbaar bestuur : 6.930,47 euro;<br>
+2° georganiseerd door een privaat bestuur : 6.956,16 euro.<br>
 <br>
-</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:115.15pt">
-			<p><!--?xml:namespace prefix         = o ns = "urn:schemas-microsoft-com:office:office"         /-->&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:115.15pt">
-			<p>2008</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:115.15pt">
-			<p>2009</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:115.15pt">
-			<p>2010</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>Buitenschools</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>6.216,10 euro</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>6.277,48 euro</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>6.339,27 euro</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p><br>
 Dat basisbedrag geldt voor minimaal 200 openingsdagen en voor minimaal 9 openingsuren op vakantiedagen, voor minimaal 5 uur op woensdagmiddagen en voor 2 openingsuren op schooldagen. Het bedrag wordt verhoudingsgewijs verlaagd als niet aan die minima voldaan is.<br>
 &nbsp;</p>
 
@@ -295,7 +261,7 @@ De toestemming en de bijhorende subsidiëring voor een lokale dienst is mogelijk
 
 ### ART. 56.
 
-De subsidiebedragen, vermeld in artikel 43, 44, 46 en 48, worden elk jaar op 1 januari verhoogd met de procentuele stijging van de gezondheidsindex tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar. In 2011 worden de bedragen, vermeld in dit besluit, op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het kalenderjaar 2008 en 1 november van het kalenderjaar 2010.<br /><br />
+De subsidiebedragen, vermeld in artikel 43, 44, 46 en 48, worden elk jaar   op 1 januari verhoogd met de procentuele stijging van de gezondheidsindex tussen   1 november van het vorige kalenderjaar en 1 november van het daaraan   voorafgaande kalenderjaar. In 2011 worden de bedragen, vermeld in dit besluit,   op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer   tussen 1 november van het kalenderjaar 2008 en 1 november van het kalenderjaar   2010.<BR><BR>In afwijking van het eerste lid worden de subsidiebedragen, vermeld   in artikel 43, eerste lid, 1°, en artikel 44, eerste lid, 1°, niet geïndexeerd   in 2012, en worden de subsidiebedragen, vermeld in artikel 43, eerste lid, 2°,   en artikel 44, eerste lid, 2°, niet geïndexeerd in 2012 en   2013.<BR><BR>
 
 ### ART. 57.
 
