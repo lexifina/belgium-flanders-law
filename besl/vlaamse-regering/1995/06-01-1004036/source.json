@@ -2,16 +2,16 @@
   "codex_id": 1004036,
   "title": "Besluit van de Vlaamse Regering van 1995-06-01 betreffende het financieel en materieel beheer van de dienst met afzonderlijk beheer Schoonmaak",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004036/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "78fb1f41ffc80467e9266c667a4c0069c2f7f37f9ac6254292fd03c4796fb1ab",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004036/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "62a650cbf47bab9dd9ed8c6c6628cdab3d469dc8700cadb6d32ba8128bb9c990",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004036&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2012-01-01",
   "made": "1995-06-01",
   "gazette": "1995-10-04",
   "numac": 1995036140,
   "document_start": "1995-01-01",
   "document_end": "2017-01-01",
-  "in_force": "2006-06-01",
+  "in_force": "2012-01-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }

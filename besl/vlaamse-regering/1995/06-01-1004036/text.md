@@ -4,17 +4,17 @@
 
 ### ART. 1.
 
-§ 1. Dit besluit regelt het financieel en materieel beheer van de dienst met afzonderlijk beheer Schoonmaak.<br /><br />§ 2. De bepalingen betreffende de rijkscomptabiliteit zijn van toepassing op de dienst met afzonderlijk beheer Schoonmaak, tenzij in dit besluit anders is bepaald.
+§ 1. Dit besluit regelt het financieel en materieel beheer van de dienst met afzonderlijk beheer Schoonmaak.<br /><br />§ 2. ...
 
 ## HOOFDSTUK II DE BEGROTING
 
 ### ART. 2.
 
-De dienst met afzonderlijk beheer Schoonmaak maakt jaarlijks een begroting op van alle ontvangsten en alle uitgaven, volgens de richtlijnen verstrekt door de Vlaamse regering.<br /><br />Het begrotingsjaar begint op 1 januari en eindigt op 31 december van hetzelfde jaar.
+...
 
 ### ART. 3.
 
-De begroting wordt onderverdeeld in twee delen:<br /><br />- de ontvangsten,<br /><br />- de uitgaven.
+...
 
 ### ART. 4.
 
@@ -22,19 +22,19 @@ De ramingen van de ontvangsten hebben betrekking op:<br /><br />1° het over te 
 
 ### ART. 5.
 
-[De uitgavenbegroting wordt opgemaakt volgens het stelsel van de gesplitste kredieten en bevat:<br /><br />1° vastleggingskredieten ten belope waarvan bedragen kunnen worden vastgelegd uit hoofde van verbintenissen die ontstaan of worden gesloten tijdens het begrotingsjaar, en voor de recurrente verbintenissen waarvan de gelvolgen zich over meerdere jaren voordoen, ten belope van de tijdens het begrotingsjaar opeisbare sommen;<br /><br />2° ordonnanceringskredieten ten belope waarvan tijdens het begrotingsjaar bedragen kunnen worden vereffend uit hoofde van rechten vastgesteld in uitvoering van voorafgaandelijk vastgelegde verbintenissen.  <span class="reference">(verv. B.V.R. 19 april 2002, art. 1, I: 1 januari 2002)</span> ]
+...
 
 ### ART. 6.
 
-Het begrotingsontwerp van de dienst met afzonderlijk beheer Schoonmaak wordt voor goedkeuring voorgelegd aan de Vlaamse minister bevoegd voor de logistiek in het ministerie van de Vlaamse Gemeenschap en toegevoegd aan het ontwerp van decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.
+...
 
 ### ART. 7.
 
-De begroting van de dienst met afzonderlijk beheer Schoonmaak is goedgekeurd door de afkondiging van het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.<br /><br />Als de begroting van de Vlaamse Gemeenschap niet is goedgekeurd voor de aanvang van het begrotingsjaar mogen dezelfde verrichtingen als diegene die voor de vorige begroting waren toegestaan, naar rato van een twaalfde per maand uitgevoerd worden vanaf 1 januari.
+...
 
 ### ART. 8.
 
-Kredietoverschrijvingen en kredietoverschrijdingen kunnen worden toegestaan door de Vlaamse minister bevoegd voor de logistiek in het ministerie van de Vlaamse Gemeenschap met het akkoord van de Vlaamse minister bevoegd voor financiën en begroting.<br /><br />Indien de kredietoverschrijding in totaal een hogere dotatie van de Vlaamse Gemeenschap zou medebrengen dan die ingeschreven in de administratieve begroting van de Vlaamse Gemeenschap, moet zij voorafgegaan worden door een overeenstemmende wijziging van deze begroting.
+...
 
 ## HOOFDSTUK III DE COMPTABILITEIT EN AFLEGGING DER REKENINGEN
 
@@ -44,27 +44,27 @@ Het afdelingshoofd van de afdeling Logistieke Dienstverlening bij de administrat
 
 ### ART. 10.
 
-Op het einde van ieder kwartaal wordt een staat van ontvangsten en een staat van uitgaven opgemaakt.<br /><br />Deze staten worden door de Vlaamse minister bevoegd voor de logistiek in het ministerie van de Vlaamse Gemeenschap aan het Rekenhof voorgelegd door bemiddeling van de Vlaamse minister bevoegd voor financiën en begroting. De verantwoordingsstukken worden ter plaatse bewaard.
+...
 
 ### ART. 11.
 
-Op het einde van ieder jaar worden door de rekenplichtige opgesteld:<br /><br />- een beheersrekening<br /><br />- een rekening van uitvoering van de begroting,<br /><br />- een staat van activa en passiva.<br /><br />Uiterlijk op 31 maart na het jaar waarop ze betrekking hebben, worden deze rekeningen door de Vlaamse minister bevoegd voor de logistiek in het ministerie van de Vlaamse Gemeenschap aan de Vlaamse minister bevoegd voor financiën en begroting gezonden, die ze voor 30 april van hetzelfde jaar aan het Rekenhof bezorgt.
+...
 
 ### ART. 12.
 
-Op het ogenblik van de uitdiensttreding van de rekenplichtige moeten dezelfde rekenplichtige bescheiden opgesteld worden als genoemd in artikel 11.
+...
 
 ### ART. 13.
 
-De uitvoeringsrekening van de dienst met afzonderlijk beheer Schoonmaak wordt gevoegd bij die van het algemeen bestuur van de Vlaamse Gemeenschap.
+...
 
 ### ART. 14.
 
-[Op de begroting van een bepaald jaar worden aangerekend:<br /><br />1° op het vastleggingskrediet: het bedrag van de verbintenissen aangegaan tijdens het begrotingsjaar overeenkomstig de bepalingen van artikel 5;<br /><br />2° op het ordonnanceringskrediet: de sommen geordonnanceerd gedurende het begrotingsjaar.  <span class="reference">(verv. B.V.R. 19 april 2002, art. 2, I: 1 januari 2002)</span> ]
+...
 
 ### ART. 15.
 
-Een vermogenscomptabiliteit moet gevoerd worden. Hiertoe wordt ondermeer een inventaris van het vermogen opgemaakt overeenkomstig de terzake geldende bepalingen.
+...
 
 ## HOOFDSTUK IV BEHEER
 
@@ -78,25 +78,25 @@ De beheerder is bevoegd om bestekken voor werken, leveringen of diensten of de b
 
 ### ART. 18.
 
-Het bedrag van de uitgaven en het bedrag van de verbintenissen wordt beperkt door het bedrag van de goedgekeurde limitatieve kredieten en door het bedrag van de ontvangsten.
+...
 
 ### ART. 19.
 
-§ 1. Van het op het einde van het begrotingsjaar beschikbare saldo wordt 10 pct. aangewend voor de vorming van een reservefonds; dit percentage kan worden aangepast door de Vlaamse minister bevoegd voor de logistiek in het ministerie van de Vlaamse Gemeenschap met het akkoord van de Vlaamse minister bevoegd voor financiën en begroting.<br /><br />Deze voorafname gebeurt totdat de middelen van het reservefonds 10 procent bedragen van het gemiddelde van de uitgaven van de drie voorgaande begrotingsjaren.<br /><br />Onder beschikbaar saldo wordt verstaan: het kassaldo, vermeerderd met het nog te innen vastgestelde rechten, verminderd met de nog openstaande verbintenissen.<br /><br />Op het einde van het begrotingsjaar worden overgedragen:<br /><br />1° het gedeelte van het kassaldo dat beschikbaar is na vorming van het reservefonds;<br /><br />2° de vastgestelde rechten;<br /><br />3° de nog openstaande verbintenissen.<br /><br />§ 2. De middelen van het reservefonds kunnen met het akkoord van de Vlaamse minister bevoegd voor de logistiek in het ministerie van de Vlaamse Gemeenschap of zijn gemachtigde en met het akkoord van de Vlaamse minister bevoegd voor financiën en begroting aangewend worden voor het dekken van uitgaven voortvloeiende uit specifieke doelstellingen van de dienst met afzonderlijk beheer Schoonmaak.
+...
 
 ### ART. 20.
 
-Met ingang van het jaar mogen de bij het verstrijken van het vorige jaar beschikbare geldmiddelen gebruikt worden.
+...
 
 ### ART. 21.
 
-De tegenover het Rekenhof verantwoordelijke rekenplichtige is overeenkomstig de opdrachten gedefinieerd in zijn aanstellingsbesluit belast met:<br /><br />1° het behandelen en bewaren van de gelden en waarden;<br /><br />2° het opstellen en bewaren van de in de artikelen 10 en 11 bedoelde bescheiden;<br /><br />3° het bijhouden van de inventaris van het vermogen en van de vermogenscomptabiliteit.
+...
 
 ## HOOFDSTUK V [... (opgeh. BVR 1 juni 2012, art. 10)]
 
 ### ART. 22.
 
-Het Rekenhof en de Administratie Financiën en Begroting van het Ministerie van de Vlaamse Gemeenschap kunnen de rekeningen ter plaatse controleren. Zij mogen zich te allen tijde alle verantwoordingsstukken, staten, inlichtingen of toelichtingen doen verstrekken betreffende de ontvangsten, de uitgaven, de activa en de schulden.<br /><br />De uitgaven worden vereffend en betaald zonder bemiddeling van het Rekenhof.
+...
 
 ## HOOFDSTUK VI SLOTBEPALINGEN
 
