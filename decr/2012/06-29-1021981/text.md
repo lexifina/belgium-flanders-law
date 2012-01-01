@@ -20,6 +20,10 @@ Aan artikel 254 van dezelfde codex, gewijzigd bij het decreet van 1 juli 2011, w
 
 ## Afdeling I. Decreet betreffende de hogescholen
 
+### ART. V.1.
+
+In artikel 340sexies van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap, ingevoegd bij decreet van 23 december 2005, wordt paragraaf 5 vervangen door wat volgt :<br /><br />« § 5. In afwijking van het bepaalde in § 3 kunnen de lopende beheersovereenkomsten met ten hoogste één jaar verlengd worden in geval de evaluatie van de wijze waarop de aflopende beheersovereenkomst werd uitgevoerd, onvoldoende positief is om een nieuwe beheersovereenkomst met een looptijd van vijf jaar te sluiten. ».
+
 ## Afdeling II. Decreet betreffende de herstructurering van het hoger onderwijs
 
 ## Afdeling III. Inwerkingtreding
