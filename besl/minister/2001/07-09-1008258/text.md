@@ -86,157 +86,10 @@ De toestemming voor het organiseren van buitenschoolse opvang in aparte lokalen 
 <br>
 § 4. Een verlenging van de subsidiÙring loopt altijd over vier kwartalen.<br>
 <br>
-§ 5. De forfaitaire subsidiëring gebeurt jaarlijks per veertien plaatsen en wordt voor een capaciteit van minder dan veertien plaatsen of meer dan veertien plaatsen pro rata berekend. Het forfaitaire bedrag per veertien plaatsen bedraagt :<br>
+§ 5. De forfaitaire subsidiëring gebeurt jaarlijks per veertien plaatsen en wordt voor een capaciteit van minder dan veertien plaatsen of meer dan veertien plaatsen pro rata berekend.<br>
 <br>
-2006
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
-			<p>2006</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
-			<p>2007</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
-			<p>2008</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.15pt">
-			<p>2009</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.15pt">
-			<p>Vanaf 2010</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.1pt">
-			<p>23.142,36 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
-			<p>23.434,43 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
-			<p>23.726,46 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
-			<p>24.016,54 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
-			<p>24.308,57 euro</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
+In 2012 bedraagt het forfaitaire bedrag per veertien plaatsen, georganiseerd door een openbaar bestuur, 27.565,32 euro en bedraagt het forfaitaire bedrag per veertien plaatsen, georganiseerd door een privaat bestuur, 27.803,72 euro.<br>
 <br>
-<br>
-§ 6. Een aanvullende ondersteuning in het kader van de werkdrukvermindering wordt toegekend voor elk door Kind en Gezin gesubsidieerd personeelslid in de erkende kinderdagverblijven en diensten voor opvanggezinnen, voor elke coördinator en elke kindbegeleid(st)er in de initiatieven voor buitenschoolse opvang, voor de gesubsidieerde personeelsleden binnen het experimentele kader van projecten voor kinderopvang in buurt- en nabijheidsdiensten en voor de personeelsleden met een gewezen DAC-statuut, die op 1 januari van het betreffende subsidiejaar 45 jaar of ouder zijn, naar rato van de arbeidsprestaties, en voor zover het gaat om opvangvoorzieningen die worden georganiseerd door een VZW.<br>
-<br>
-Die aanvullende ondersteuning wordt voor ieder werkingsjaar apart berekend op basis van het bedrag van 2.294.924,30 euro voor alle opvangvoorzieningen, georganiseerd door een VZW, vanaf 2010. Voor de jaren 2006, 2007, 2008 en 2009 zijn de volgende bedragen vastgesteld :<br>
-2006
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
-			<p>2006</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
-			<p>2007</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
-			<p>2008</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.15pt">
-			<p>2009</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.15pt">
-			<p>Vanaf 2010</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.1pt">
-			<p>511.607,33 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
-			<p>1.023.214,66 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
-			<p>1.480.006,91 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
-			<p>1.881.984,10 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
-			<p>2.294.924,30 euro</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-<br>
-<br>
-Per jaar wordt nagegaan hoeveel personeelsleden in voorzieningen, georganiseerd door een VZW, in aanmerking komen. Voor de personeelsleden met een gesco-statuut in initiatieven voor buitenschoolse opvang wordt de ondersteuning beperkt tot dat gedeelte dat niet in de gesco-premie opgenomen is. Het vastgelegde bedrag wordt dan omgerekend per voltijds personeelslid, waarbij de volgende voorwaarden gelden :<br>
-1° een personeelslid dat 45 jaar is of ouder maar jonger dan 50 jaar telt voor één eenheid;<br>
-2° een personeelslid dat 50 jaar is of ouder maar jonger dan 55 jaar geldt voor twee eenheden;<br>
-3° een personeelslid dat 55 jaar is of ouder telt voor drie eenheden;<br>
-<br>
-De hiervoor vermelde bedragen worden verhoogd in het daaropvolgende jaar met een nader te bepalen bedrag dat voor de weerslag van deze maatregel voorzien wordt in het subsidiebedrag per plaats of per schijf van zeven opvanggezinnen in een dienst voor opvanggezinnen, met betrekking tot de principiële akkoorden met subsidiegarantie die na 1 januari 2006 zijn toegekend voor voorzieningen georganiseerd door een VZW.
-
-### ART. 17.
-
-§ 1. Bij de toekenning van de subsidiÙring wordt er een subsidietermijn en een subsidiebedrag vastgelegd.<br>
-<br>
-§ 2. De subsidietermijn bestrijkt bij een eerste toekenning minimaal één jaar en maximaal twee jaar vanaf de startdatum.<br>
-<br>
-§ 3. De einddatum van de subsidietermijn is 31 maart.<br>
-<br>
-§ 4. Een verlenging van de subsidiÙring loopt altijd over vier kwartalen.<br>
-<br>
-§ 5. De forfaitaire subsidiëring gebeurt jaarlijks per veertien plaatsen en wordt voor een capaciteit van minder dan veertien plaatsen of meer dan veertien plaatsen pro rata berekend. Het forfaitaire bedrag per veertien plaatsen bedraagt :<br>
-<br>
-2006
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
-			<p>2006</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
-			<p>2007</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.1pt">
-			<p>2008</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.15pt">
-			<p>2009</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:92.15pt">
-			<p>Vanaf 2010</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:92.1pt">
-			<p>23.142,36 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
-			<p>23.434,43 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.1pt">
-			<p>23.726,46 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
-			<p>24.016,54 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:92.15pt">
-			<p>24.308,57 euro</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
 § 6. Een aanvullende subsidie in het kader van de werkdrukvermindering wordt toegekend, naar rato van de arbeidsprestaties, voor elk door Kind en Gezin gesubsidieerd personeelslid (1VTE) in de erkende kinderdagverblijven en diensten voor onthaalouders, voor elke coördinator en elke kindbegeleider in de initiatieven voor buitenschoolse opvang, voor elke door Kind en Gezin gesubsidieerde begeleider in de buitenschoolse opvang in aparte lokalen in kinderdagverblijven, voor de door Kind en Gezin gesubsidieerde personeelsleden binnen het experimentele kader van projecten voor kinderopvang in buurt- en nabijheidsdiensten en in lokale diensten van buurtgerichte opvang, voor de personeelsleden met een gewezen DAC-statuut en voor elk door Kind en Gezin gesubsidieerd personeelslid in een gemandateerde voorziening.<br>
 <br>
 Die aanvullende subsidie wordt voor ieder werkingsjaar apart berekend op basis van specifieke bedragen zoals voorzien in de begroting, voor alle opvangvoorzieningen.<br>
@@ -280,7 +133,7 @@ Kind en Gezin neemt na onderzoek van het beroep uiterlijk vijfenveertig dagen na
 
 ### ART. 24.
 
-Het forfaitaire bedrag, vermeld in dit besluit, wordt elk jaar op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar. Onder gezondheidsindexcijfer wordt het prijsindexcijfer verstaan dat berekend wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende sociale bepalingen. In 2011 worden de bedragen, vermeld in dit besluit, op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het kalenderjaar 2008 en 1 november van het kalenderjaar 2010.
+Het forfaitaire bedrag, vermeld in dit besluit, wordt elk jaar op 1   januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer   tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan   voorafgaande kalenderjaar. Onder gezondheidsindexcijfer wordt het   prijsindexcijfer verstaan dat berekend wordt voor de toepassing van artikel 2   van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6   januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij   de wet van 30 maart 1994 houdende sociale bepalingen. In 2011 worden de   bedragen, vermeld in dit besluit, op 1 januari verhoogd met de procentuele   stijging van het gezondheidsindexcijfer tussen 1 november van het kalenderjaar   2008 en 1 november van het kalenderjaar 2010.<BR><BR>In afwijking van het eerste   lid wordt het forfaitair bedrag voor plaatsen, georganiseerd door een openbaar   bestuur, vermeld in artikel 17, § 5, niet geïndexeerd in 2012 en wordt het   forfaitair bedrag voor plaatsen, georganiseerd door een privaat bestuur, vermeld   in artikel 17, § 5, niet geïndexeerd in 2012 en in 2013.
 
 ### ART. 25.
 
