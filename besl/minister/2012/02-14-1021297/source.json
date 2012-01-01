@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021297,
+  "title": "Ministerieel besluit van 2012-02-14 tot wijziging van het ministerieel besluit van 14 juli 1998 betreffende steun aan de investeringen en aan de installatie in de visserij- en aquicultuursector",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021297/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "fdb8b08fa37bf30b8a73274013584cd6bf6d856d82d858a05d9e13f814849fd9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021297&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2012-02-14",
+  "gazette": "2012-02-28",
+  "numac": 2012035204,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
