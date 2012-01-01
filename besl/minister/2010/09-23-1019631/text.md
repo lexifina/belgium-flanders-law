@@ -6,8 +6,8 @@ De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-De erkende voedselkwaliteitsregelingen vermeld in artikel 1, 4°, van het ministerieel besluit van 23 september 2010 houdende regeling van de specifieke steun aan landbouwers ter verbetering van de kwaliteit van landbouwproducten die voldoen aan de voorwaarden, vermeld in artikel 2decies, tweede lid, van het besluit van de Vlaamse Regering van 8 juli 2005 en aan de bepalingen van artikel 41, tweede lid, van de verordening (EG) nr. 1120/2009 zijn :<br />1° Belplume, integrale kwaliteitsbeheersing braadkip;<br />2° Belgian Controlled Veal;<br />3° Certus, kwaliteitslabel voor varkensvlees;<br />4° Meritus, kwaliteitslabel voor rundvlees.<br /><br />De erkende centra, vermeld in artikel 4 van het ministerieel besluit van 23 september 2010 houdende regeling van de specifieke steun aan landbouwers ter verbetering van de kwaliteit van landbouwproducten zijn :<br />1° Belbeef VZW;<br />2° Belplume VZW;<br />3° Belpork VZW;<br />4° Promotie Belgisch Kalfsvlees VZW.
+...
 
 ### ART. 2.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2010.
+...

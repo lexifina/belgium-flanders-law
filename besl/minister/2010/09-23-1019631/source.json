@@ -2,16 +2,16 @@
   "codex_id": 1019631,
   "title": "Ministerieel besluit van 2010-09-23 houdende aanwijzing van erkende voedselkwalteitsregelingen voor de specifieke steun aan landbouwers ter verbetering van de kwaliteit van landbouwproducten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019631/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "f02f856132ec89b9f01db9ab6f4737121b24a0d7d0863dd3970e4f740b9ddaba",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019631/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "d702cd445e059801c878cfed17b8ab7651d42ece8ce46f10c176e0350c31c628",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019631&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2012-01-01",
   "made": "2010-09-23",
   "gazette": "2010-10-28",
   "numac": 2010205065,
   "document_start": "2010-01-01",
   "document_end": "2011-12-31",
-  "in_force": "2010-01-01",
+  "in_force": "2012-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }
