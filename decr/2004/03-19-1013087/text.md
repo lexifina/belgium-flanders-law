@@ -1164,27 +1164,11 @@ Artikel V.101 heeft uitwerking met ingang van 1 oktober 1964.
 
 ### ART. VI.9bis.
 
-Deze titel is van toepassing op de associaties en op de universiteiten en hogescholen die partner zijn bij een associatie.
+...
 
 ### ART. VI.9ter.
 
-§ 1. Voor de begrotingsjaren 2006, 2007, 2008, 2009, 2010 en 2011 wordt in een ondersteuning voorzien ten bate van de versteviging van de onderzoeksbetrokkenheid van academisch gerichte hogeschoolopleidingen, daaronder begrepen het versterken van de onderzoeks- en innovatiecapaciteit, het bewerkstelligen van de interdisciplinariteit en transdisciplinariteit van het gevoerde onderzoek, en de bevordering van de valorisatie van onderzoeksresultaten en de samenwerking met het bedrijfsleven.<br /><br />In het begrotingsjaar 2006 wordt ten behoeve van de in het eerste lid bedoelde ondersteuningsmaatregel een bedrag van 2 miljoen euro vastgelegd. De Vlaamse Regering bepaalt, binnen de beschikbare begrotingskredieten, het bedrag dat in de begrotingsjaren 2007, 2008, 2009, 2010 en 2011 ten behoeve van deze ondersteuningsmaatregel wordt vastgelegd, met dien verstande dat dit bedrag ten minste gelijk is aan 2 miljoen euro, geïndexeerd overeenkomstig artikel 184, § 1, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap. <br /><br />§ 2. Het aandeel van elke hogeschool in het in § 1 bedoelde globaal bedrag wordt in 2006, in 2007, in 2008, in 2009, in 2010 en in 2011 berekend a rato van het aantal financierbare studenten, ingeschreven op 1 februari 2005 in de academisch gerichte hogeschoolopleidingen. Voor de toepassing van deze bepaling wordt onder financierbare studenten verstaan : de studenten als bedoeld in artikel 177 van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap.
-
-### ART. VI.9quater.
-
-De op grond van artikel VI.9ter, § 2, per hogeschool berekende ondersteuningsmiddelen worden op het niveau van de associatie samengeteld en toegewezen aan het Industrieel Onderzoeksfonds, als bedoeld in artikel 74bis van het decreet van 20 december 2002 houdende bepalingen tot begeleiding van de begroting 2003, indien dit fonds beheerd wordt door het betrokken associatiebestuur. In dat geval wordt de generieke wijze waarop de middelen worden aangewend geregeld door het algemeen onderzoeks- en samenwerkingsreglement van de associatie, als bedoeld in artikel 101bis van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen.<br /><br />In het andere geval worden de ondersteuningsmiddelen rechtstreeks toegewezen aan de hogeschool.<br /><br />
-
-### ART. VI.9quinquies.
-
-§ 1. Ter aanwending van de ondersteuningsmiddelen worden in de schoot van een associatie samenwerkingsovereenkomsten gesloten tussen één of meer hogescholen en de betrokken universiteit.<br /><br />Deze samenwerkingsovereenkomsten regelen de wijze waarop personen worden aangeworven of ingezet voor onderzoeksopdrachten en -activiteiten die bijdragen aan de doelstellingen, als bedoeld in artikel VI.9ter, § 1, eerste lid.<br /><br />§ 2. Samen kan ten hoogste 10 procent van de ondersteuningsmiddelen worden besteed aan projectkostenvergoedingen ter ondersteuning van :<br />1° de werkingskosten van de onderzoeksopdrachten en -activiteiten, als bedoeld in § 1, tweede lid;<br />2° de aanschaf en afschrijving van wetenschappelijke uitrusting die nodig is voor de uitvoering van deze onderzoeksopdrachten en -activiteiten.<br /><br />§ 3. Ten minste 75 procent van de ondersteuningsmiddelen wordt aangewend ter dekking van de personele kosten verbonden aan de uitvoering van onderzoeks-taken.<br /><br />§ 4. De aan de hogeschool of de associatie toekomende ondersteuningsmiddelen die na afloop van het betrokken kalenderjaar niet zijn toegewezen, kunnen met behoud van bestemming worden overgedragen naar de begroting van de hogeschool of de associatie van het daaropvolgende jaar.
-
-### ART. VI.9sexies.
-
-Op het einde van elke maand wordt aan iedere hogeschool of, naargelang het geval, iedere associatie, één twaalfde van het bedrag van de ondersteuningsmiddelen ter beschikking gesteld.
-
-### ART. VI.9septies.
-
-Artikel VI.9quinquies geldt als subsidiëringsvoorwaarde.<br /><br />Indien de commissaris van de hogescholen, of, naargelang het geval, de regeringscommissaris of commissaris, belast met het toezicht op de associatie, een overtreding van de subsidiëringsvoorwaarde vaststelt, voegt hij bij het beroepschrift een advies om, wat betreft de in het kader van deze titel toegekende middelen, toepassing te maken van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.<br />
+...
 
 ## [TITEL IVter HERCULUSFINANCIERING (ing. decr. 22 december 2006, art. 75)]
 
