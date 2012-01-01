@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022275,
+  "title": "Ministerieel besluit van 2012-09-03 bepaling van de diensten voor logistieke hulp die in aanmerking komen voor subsidiëring en tot bepaling van het aantal vte per functiecategorie en per dienst voor het jaar 2012",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022275/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "741014e9103d85de86c745afa19929af8576c86611bb3d9c257b7ff2d9d632d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022275&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2012-09-03",
+  "gazette": "2012-09-19",
+  "numac": 2012036017,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
