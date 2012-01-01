@@ -2,16 +2,16 @@
   "codex_id": 1000916,
   "title": "Besluit van de Vlaamse Regering van 1993-06-09 betreffende het financieel en materieel beheer van het Fonds voor de financiering van het urgentieplan voor de sociale huisvesting",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000916/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "0f45cdc4bf5036dfe7c61ecd56293fb5f6a8a49195514461a79ac608a5fa5949",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000916/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "bad4870b05a9aaf23261e2c83969ca966bcfcf61efc2f09043878ebcf912a80c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000916&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2012-01-01",
   "made": "1993-06-09",
   "gazette": "1993-10-22",
   "numac": 1993036215,
   "document_start": "1993-01-08",
   "document_end": "2022-12-31",
-  "in_force": "2006-07-01",
+  "in_force": "2012-01-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }
