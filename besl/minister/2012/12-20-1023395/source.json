@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023395,
+  "title": "Ministerieel besluit van 2012-12-20 tot wijziging van de subsidiebedragen in diverse ministeriële besluiten voor kinderopvang ter uitvoering van het vierde Vlaamse Intersectoraal Akkoord",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023395/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "1baf7fcaf6cc813f535e66de3b890ffd7c169459116178f092c7875dec649cbd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023395&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2012-12-20",
+  "gazette": "2013-11-22",
+  "numac": 2013036083,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
