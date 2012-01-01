@@ -6,32 +6,32 @@ De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-Aan het artikel 10 van het ministerieel besluit van 22 december 2010 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, worden met ingang van 1 oktober 2011 volgende wijzigingen aangebracht :<br /><br />1° in § 1 wordt het getal "150" vervangen door het getal "160"; <br /><br />2° een § 10 wordt toegevoegd, luidend als volgt :<br />« Vissersvaartuigen krijgen 24 vereveningsdagen, die opgeteld kunnen worden bij de maximum aantallen zeedagen, namelijk 180 en 160, vermeld in § 2. »
+...
 
 ### ART. 2.
 
-In het artikel 7 van hetzelfde besluit worden de woorden "kabeljauw : 50 cm aanvoerlengte" geschrapt.
+...
 
 ### ART. 3.
 
-Aan het artikel 14 van hetzelfde besluit, gewijzigd bij ministerieel besluit van 29 juni 2011 worden volgende wijzigingen aangebracht :<br /><br />1° in de § 3 wordt het getal "45" vervangen door het getal "50" en wordt het getal "3 500" vervangen door het getal "4 500";<br /><br />2° in de § 4, lid 3, wordt het getal "3 000" vervangen door het getal "4 000" en wordt het getal "15" vervangen door het getal "17".
+...
 
 ### ART. 4.
 
-Aan het artikel 15 van hetzelfde besluit gewijzigd bij ministerieel besluit van 29 juni 2011 worden volgende wijzigingen aangebracht :<br /><br />1° in § 3 wordt het getal "140" vervangen door het getal "150";<br /><br />2° de § 4, lid 2, wordt het getal "90" vervangen door het getal "100".
+...
 
 ### ART. 5.
 
-In het artikel 18 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 29 juni 2011, worden volgende wijzigingen aangebracht :<br /><br />1° in § 4 wordt het getal "10" vervangen door het getal "15";<br /><br />2° in § 5, lid 2, wordt het getal "12" vervangen door de woorden "2 000 kg verhoogd met 12".
+...
 
 ### ART. 6.
 
-Aan het artikel 23 van hetzelfde besluit, gewijzigd bij de ministeriële besluiten van 26 januari 2011 en 29 juni 2011 worden volgende wijzigingen met ingang van 1 oktober 2011 aangebracht.<br /><br />1° in § 3 en § 4 wordt het woord "december" vervangen door het woord "september";<br /><br />2° aan § 3 wordt een tweede lid toegevoegd, luidend als volgt : <br />« In de periode van 1 oktober 2011 tot en met 31 december 2011 is het in het i.c.e.s.-gebied VIId voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden, die gelijk is aan 350 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het betreffende i.c.e.s.-gebied. »; <br /><br />3° aan § 4 wordt een tweede lid toegevoegd, luidend als volgt :<br />« In de periode van 1 oktober 2011 tot en met 31 december 2011 is het in het i.c.e.s.-gebied VIId voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden, die gelijk is aan 700 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het betreffende i.c.e.s.-gebied. »
+...
 
 ### ART. 7.
 
-In het artikel 25 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 29 juni 2011, worden volgende wijzigingen aangebracht : <br /><br />1° in § 1, lid 3, § 2, lid 3 en § 3, lid 3, wordt het woord "december" vervangen door het woord "september";<br /><br />2° aan § 1 wordt een vierde lid toegevoegd, dat luidt als volgt :<br />« In de periode van 1 oktober 2011 tot en met 31 december 2011 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van 221 kW of minder, en dat volgens de Officiële lijst der Belgische vissersvaartuigen 2011 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden. »;<br /><br />3° aan § 2 wordt een vierde lid toegevoegd, dat luidt als volgt :<br />« In de periode van 1 oktober 2011 tot en met 31 december 2011 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, en dat volgens de Officiële lijst der Belgische vissersvaartuigen 2011 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 500 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden. »; <br /><br />4° aan § 3 wordt een vierde lid toegevoegd, dat luidt als volgt :<br />« In de periode van 1 oktober 2011 tot en met 31 december 2011 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2011 niet is uitgerust met de boomkor, verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden. »
+...
 
 ### ART. 8.
 
-Dit besluit treedt in werking op 1 oktober 2011 en houdt op van kracht te zijn op 1 januari 2012.
+...
