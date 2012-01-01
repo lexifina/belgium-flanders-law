@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021300,
+  "title": "Besluit van de Vlaamse Regering van 2011-10-14 betreffende de boekhoudregels en de aanrekeningsregels die van toepassing zijn op de Vlaamse ministeries [en de diensten met afzonderlijk beheer (ing. BVR 1 juni 2012, art. 3)] en betreffende de controle op de vastleggingskredieten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021300/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "43e179fc0cca499173359cec425a69105eb697de9b6d243742b5ee825cc809ad",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021300&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2011-10-14",
+  "gazette": "2012-03-01",
+  "numac": 2012035190,
+  "document_start": "2012-01-01",
+  "document_end": "2019-12-31",
+  "in_force": "2012-01-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
