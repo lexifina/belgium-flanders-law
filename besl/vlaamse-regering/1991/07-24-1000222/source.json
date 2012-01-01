@@ -2,16 +2,16 @@
   "codex_id": 1000222,
   "title": "Besluit van de Vlaamse Regering van 1991-07-24 betreffende het financieel en materieel beheer van het Fonds voor Preventie en Sanering inzake Leefmilieu en Natuur, afgekort MINA-fonds",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000222/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "93282f3f9d3c59bf30eba4c1cb3975ffc07377fd34512fae416978fae3eedb07",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000222/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "676c67ef93c1a7a44893d43301d42cfea26a5a975b498078126a62d3705c3d5d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000222&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2012-01-01",
   "made": "1991-07-24",
   "gazette": "1991-11-27",
   "numac": 1991036466,
   "document_start": "1991-01-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2012-01-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }
