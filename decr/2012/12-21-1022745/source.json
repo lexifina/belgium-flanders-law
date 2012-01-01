@@ -2,16 +2,16 @@
   "codex_id": 1022745,
   "title": "Decreet van 2012-12-21 betreffende het onderwijs XXII",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022745/VolledigDocument?datum=2011-09-01",
-  "source_sha256": "15ed79174d3c1b2cc141a4762d6a176a40b20f4a783965a301290d90e3087959",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022745/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "dc82efd631fb93676de59f5bd122687425028fae26e0e40af0da8e5589e70e8e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022745&param=informatie",
-  "as_of": "2011-09-01",
+  "as_of": "2012-01-01",
   "made": "2012-12-21",
   "gazette": "2013-02-19",
   "numac": 2013035167,
   "document_start": null,
   "document_end": null,
-  "in_force": "2011-09-01",
-  "article_versions": 11,
-  "record_form": "consolidated version as in force on 2011-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-01-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }
