@@ -590,7 +590,7 @@ Voor het begrotingsjaar 2009, dat de kredieten omvat voor het schooljaar 2008-20
 
 ### ART. 20/1.
 
-In afwijking van artikel 20 is de A2-coëfficiënt voor het jaar 2010 gelijk aan 1.
+In afwijking van artikel 20 is de A2-coëfficiënt voor het jaar 2010 en voor het jaar 2012 gelijk aan 1.
 
 ## HOOFDSTUK V. Evaluatie
 
