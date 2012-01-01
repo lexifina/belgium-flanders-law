@@ -1,0 +1,17 @@
+# Ministerieel besluit van 2011-12-14 tot intrekking van de machtiging als schietsportfederatie van de Federatie van Vlaamse Historische Schuttersgilden vzw
+
+### Aanhef
+
+De Vlaamse minister van Financien, Begroting, Werk, Ruimtelijke Ordening en Sport,<br /><br />Gelet op artikel 13, § 2, van het decreet van 11 mei 2007 houdende het statuut van de sportschutter, gewijzigd bij het decreet van 4 juli 2008;<br /><br />Gelet op artikel 18, § 5, van het besluit van de Vlaamse Regering van 1 juni 2007 houdende de uitvoering van het decreet van 11 mei 2007 houdende het statuut van de sportschutter;<br /><br />Gelet op het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de besluiten van de Vlaamse Regering van 24 juli 2009, 4 december 2009, 6 juli 2010, 7 juli 2010, 24 september 2010, 19 november 2010, 13 mei 2011, 10 juni 2011, 8 juli 2011 en 9 september 2011;<br /><br />Gelet op het ministerieel besluit van 12 juni 2008 houdende de machtiging van de Federatie van Vlaamse Historische Schuttersgilden vzw;<br /><br />Overwegende dat de Federatie van Vlaamse Historische Schuttersgilden vzw door het besluit van de Vlaamse Regering van 28 oktober 2011 houdende de subsidiëring van landelijke cultureel-erfgoedorganisaties voor volkscultuur en landelijke expertisecentra voor cultureel erfgoed voor de beleidsperiode 2012-2016, vanaf 1 januari 2012 niet langer erkend is of gesubsidieerd wordt op basis van het decreet van 27 oktober 1998 houdende de erkenning en subsidiëring van organisaties voor volkscultuur en de oprichting van het Vlaams Centrum voor Volkscultuur of gesubsidieerd wordt op basis van artikel 26 van het decreet van 23 mei 2008 houdende de ontwikkeling, de organisatie en de subsidiëring van het Vlaams cultureel-erfgoedbeleid, <br /><br />Besluit :
+
+### ART. 1.
+
+De machtiging van de Federatie van Vlaamse Historische Schuttersgilden vzw als schietsportfederatie voor het verlenen, intrekken, schorsen en beperken van sportschutterslicenties en van voorlopige sportschutterslicenties en voor de organisatie van de theoretische en praktische proeven wordt ingetrokken.<br />
+
+### ART. 2.
+
+De personen die via een schuttersvereniging lid zijn van de Federatie van Vlaamse Historische Schuttersgilden vzw of de houders van een sportschutterslicentie of van een voorlopige sportschutterslicentie uitgereikt door de Federatie van Vlaamse Historische Schuttersgilden vzw, die geen lid zijn van een andere gemachtigde schietsportfederatie hebben tot 14 februari 2012 de tijd om:<br />1° ofwel zich aan te sluiten bij een gemachtigde schietsportfederatie, indien zij het sportschieten actief wensen te beoefenen. In dat geval wordt het lidmaatschap van een schietsportfederatie geacht ononderbroken te zijn;<br />2° ofwel afstand te doen van hun sportschutterslicentie of voorlopige sportschutterslicentie door ze terug te sturen naar het agentschap Kunsten en Erfgoed. <br /><br />De personen, vermeld in het eerste lid, maken ten laatste op 14 februari 2012 hun keuze kenbaar aan het agentschap Kunsten en Erfgoed. <br /><br />Vanaf 15 februari 2012 worden sportschutterslicenties en de voorlopige sportschutterslicenties van de personen die hun keuze, zoals vermeld in dit artikel niet hebben kenbaar gemaakt onmiddellijk ingetrokken door het agentschap Kunsten en Erfgoed.
+
+### ART. 3.
+
+Dit besluit treedt in werking op 1 januari 2012.
