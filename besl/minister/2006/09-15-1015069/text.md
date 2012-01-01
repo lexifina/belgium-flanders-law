@@ -6,20 +6,20 @@ De Vlaamse minister van Institutionele Hervormingen, Landbouw, Zeevisserij en Pl
 
 ### ART. 1.
 
-Het Agentschap voor Landbouw en Visserij is de bevoegde instantie voor de registratie van met landbouwers uit andere lidstaten afgesloten teeltcontracten, voor de controle op de levering van ruwe tabak uit andere lidstaten en voor de controle op de erkenningvoorwaarden van de bedrijven voor eerste bewerking van ruwe tabak.<br /><br />
+...
 
 ### ART. 2.
 
-De minister erkent de bedrijven voor eerste bewerking van ruwe tabak die daartoe, aan de hand van het formulier « Aanvraag van het statuut van eerste bewerker van tabaksbladeren », een aanvraag hebben ingediend bij het Agentschap voor Landbouw en Visserij.<br /><br />
+...
 
 ### ART. 3.
 
-Om erkend te worden overeenkomstig artikel 171quater ter, 1, eerste lid, van Verordening (EG) nr. 1973/2004 moet een bedrijf voor eerste bewerking van ruwe tabak aan de definities, vermeld in artikel 171quater, c) en d), van die verordening, en aan de hierna volgende voorwaarden voldoen :<br />1° de ruwe tabaksbladeren tot niet aan bederf onderhevige tabak bewerken en conditioneren in homogene partijen en verpakkingen die aan de wensen van de tabaksnijverheid beantwoorden. De verpakking is verplicht tot bij de levering aan de eindgebruiker;<br />2° over de nodige installaties beschikken om de verrichtingen, vermeld in 1°, tot een goed einde te brengen. Het bedrijf beschikt in het bijzonder over :<br />a) ingerichte lokalen, op een passende oppervlakte en met een voldoende volume om de toegang, de opslag, het verkeer en de behandeling van de tabak die er is opgeslagen, onafhankelijk van alle omstandigheden of werkzaamheden, te waarborgen;<br />b) behandelingsapparatuur voor de partijen tabaksbladeren of verpakte tabak;<br />c) een door de Metrologische Dienst van de Federale Overheidsdienst voor Economie, KMO, Middenstand en Energie erkende weegapparatuur;<br />d) bewerkingsapparatuur, om de tabaksbladeren naargelang van de aard van de bewerking om te zetten in een stabiel product dat verpakt kan worden. Het verouderingsprocédé wordt als een eerste bewerking beschouwd;<br />3° de partijen tabak van verschillende oorsprong en variëteit, en in het bijzonder communautaire tabak en tabak uit derde landen, duidelijk gescheiden en goed identificeerbaar opslaan;<br />4° een voorraadboekhouding voeren waarin dagelijks de hoeveelheden tabak in het bedrijf in elk stadium van de bewerking worden aangegeven. De volgende stadia worden onderscheiden : ingeslagen onbewerkte tabak, bewerkte tabak, verpakte tabak, tabak in voorraad en verzonden tabak. Op elk ogenblik moet elke hoeveelheid tabak die in de voorraadboekhouding is opgenomen fysiek aangeduid kunnen worden;<br />5° voldoen aan de voorwaarde van vermarkting, vermeld in 171quater ter, 1, tweede lid, van Verordening (EG) nr. 1973/2004;<br />6° jaarlijks, voor 30 juni van het oogstjaar in kwestie, de volgende informatie aan het Agentschap voor Landbouw en Visserij bezorgen, per lidstaat waar de tabak werd geproduceerd :<br />a) het aantal geregistreerde teeltcontracten;<br />b) de onder de contracten vallende hoeveelheid tabak, uitgedrukt in ton, met het in bijlage XXVIII bij Verordening (EG) nr. 1973/2004 bepaalde vochtgehalte;<br />c) de totale onder de contracten vallende oppervlakte, uitgedrukt in hectare;<br />d) de in de teeltcontracten overeengekomen maximumprijs, uitgedrukt in euro per kilogram, exclusief belastingen en andere heffingen, met vermelding van de referentiekwaliteit;<br />e) de in de teeltcontracten overeengekomen minimumprijs, uitgedrukt in euro per kilogram, exclusief belastingen en andere heffingen, met vermelding van de referentiekwaliteit;<br />7° jaarlijks, voor 31 mei van het jaar na het oogstjaar in kwestie, de volgende informatie aan het Agentschap voor Landbouw en Visserij bezorgen, per lidstaat waar de tabak werd geproduceerd :<br />a) per soortengroep, de werkelijk geleverde hoeveelheid ruwe tabak van de minimumkwaliteit, uitgedrukt in ton, voor het gewicht aangepast wordt aan de hand van het vochtgehalte;<br />b) per soortengroep, de gemiddelde door het bedrijf voor eerste bewerking betaalde prijs, uitgedrukt in euro per kilogram, exclusief belastingen en andere heffingen;<br />8° jaarlijks, voor 30 juni van het jaar na het oogstjaar in kwestie, de informatie over de ontwikkeling van de voorraden, uitgedrukt in ton, zoals vermeld in bijlage III van Verordening (EG) nr. 2095/2005, aan het Agentschap voor Landbouw en Visserij bezorgen.<br /><br />
+...
 
 ### ART. 4.
 
-Overeenkomstig artikel 171quater ter, 2, van Verordening (EG) nr. 1973/2004 van de Commissie van 29 oktober 2004 trekt de minister de erkenning van een bedrijf voor eerste bewerking in als het bedrijf niet langer aan de erkenningsvoorwaarden voldoet.<br /><br />
+...
 
 ### ART. 5.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2006.<br /><br />
+...
