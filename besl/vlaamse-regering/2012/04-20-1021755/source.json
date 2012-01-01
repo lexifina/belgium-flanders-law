@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021755,
+  "title": "Besluit van de Vlaamse Regering van 2012-04-20 houdende de toekenning van de subsidie voor 2012 aan de levensbeschouwelijke verenigingen die erkend zijn om televisieprogramma's op de VRT te verzorgen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021755/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "62780ad61d85c96f5d733bf876853ef48b24bdbdf1a6d4b2368c7ae272474b23",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021755&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2012-04-20",
+  "gazette": "2012-05-22",
+  "numac": 2012035514,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
