@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021298,
+  "title": "Besluit van de Vlaamse Regering van 2011-12-23 houdende de overdracht van sommige personeelsleden van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed aan het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021298/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "8fa2b90f58aa19b33d146cd56c50c80ff72049e986bdf3b01d0299be96128010",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021298&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2011-12-23",
+  "gazette": "2012-02-28",
+  "numac": 2012035145,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
