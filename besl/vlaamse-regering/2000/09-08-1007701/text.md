@@ -8,7 +8,7 @@ Dit besluit regelt de uitbouw van een meerwaardeneconomie in Vlaanderen.
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de minister: de Vlaamse minister bevoegd voor de sociale economie; <br />2° Subsidieagentschap : het Vlaams Subsidieagentschap voor Werk en Sociale Economie, opgericht bij het besluit van de Vlaamse Regering van 21 oktober 2005;<br />3° kansengroepen: bevolkingsgroepen die op een niet evenredige wijze vertegenwoordigd zijn op de arbeidsmarkt; <br />4° charter van de meerwaardeneconomie: een verklaring op eer waarin de aanvrager of onderneming de volgende beginselen onderschrijft:<br />a) maximaal inspanningen leveren om kansengroepen aan te werven en gelijkwaardige kansen te bieden in de onderneming;<br />b) duurzame werkgelegenheid creëren waarbij aandacht gaat naar billijke arbeidsvoorwaarden, arbeidsomstan-digheden, arbeidsinhoud en arbeidsverhoudingen. Via maximale participatie van de werknemers streven naar een optimale individuele en collectieve ontwikkeling;<br />c) op een evenwichtige manier voldoen aan de respectieve belangen van de stakeholders, dit is al wie betrokken is bij de activiteiten van de onderneming;<br />d) voorrang geven aan activiteiten, producten en productiemethoden die op korte en op lange termijn het leefmilieu respecteren;<br />e) gelijktijdig streven naar meerwaarden op economisch en sociaal vlak;<br />5° doorlichtingsteam: team erkend door de minister zoals bedoeld in Titel V van dit besluit;<br />6° adviescommissie: adviescommissie sociale economie zoals bedoeld in Titel VII van dit besluit;<br />7° VOMEC: het Vlaams overlegplatform meerwaardeneconomie, zoals bedoeld in Titel IX van dit besluit;<br />8° VIZO: het Vlaams Instituut voor het Zelfstandig Ondernemen zoals opgericht bij decreet van 23 januari 1991;<br />9° Waarborgfonds: Waarborgfonds voor de Sociale Economie van de Vlaamse overheid, geregeld bij Besluit van de Vlaamse Regering van 23 november 1994 tot regeling van een toekenning van een waarborg aan financiers die actief zijn in de sector van de sociale economie;<br />10° trajectmatig begeleidingsacties: geheel van acties georganiseerd door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding of de door deze dienst erkende derden waarbij de werkzoekende volgens een stappenplan door een trajectbegeleider naar een duurzame tewerkstelling wordt begeleid;<br />11° dienstenchequeonderneming: onderneming die erkend is in het kader van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen; <br />12° maatschappelijk verantwoord ondernemen, hierna MVO te noemen: ondernemen waarbij men in een permanente dialoog met iedereen die invloed uitoefent of ondervindt van de onderneming (stakeholders) gaat streven naar een maximale toegevoegde waarde én voor de onderneming én voor haar werknemers én voor de maatschappij én voor het milieu;<br />13° monitoringsysteem: het systematisch volgen via indicatoren van de economische leefbaarheid, de invulling van het concept MVO en de begeleiding en ondersteuning van de invoegwerknemers met als doel de werking van concrete initiatieven en de efficiëntie van de maatregel in zijn geheel zowel op korte als op lange termijn te volgen, te evalueren en bij te sturen;<br />14° RESOC: het Regionaal Sociaal-economische Overlegcomité, vermeld in artikel 18 van het decreet van 7 mei 2004 betreffende het statuut, de werking, de taken en de bevoegdheden van de erkende regionale samenwerkingsverbanden, de sociaal-economische raden van de regio en de regionale sociaal-economische overlegcomités.
+Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de minister: de Vlaamse minister bevoegd voor de sociale economie; <br />2° Subsidieagentschap : het Vlaams Subsidieagentschap voor Werk en Sociale Economie, opgericht bij het besluit van de Vlaamse Regering van 21 oktober 2005;<br />3° kansengroepen: bevolkingsgroepen die op een niet evenredige wijze vertegenwoordigd zijn op de arbeidsmarkt; <br />4° charter van de meerwaardeneconomie: een verklaring op eer waarin de aanvrager of onderneming de volgende beginselen onderschrijft:<br />a) maximaal inspanningen leveren om kansengroepen aan te werven en gelijkwaardige kansen te bieden in de onderneming;<br />b) duurzame werkgelegenheid creëren waarbij aandacht gaat naar billijke arbeidsvoorwaarden, arbeidsomstan-digheden, arbeidsinhoud en arbeidsverhoudingen. Via maximale participatie van de werknemers streven naar een optimale individuele en collectieve ontwikkeling;<br />c) op een evenwichtige manier voldoen aan de respectieve belangen van de stakeholders, dit is al wie betrokken is bij de activiteiten van de onderneming;<br />d) voorrang geven aan activiteiten, producten en productiemethoden die op korte en op lange termijn het leefmilieu respecteren;<br />e) gelijktijdig streven naar meerwaarden op economisch en sociaal vlak;<br />5° ...<br />6° adviescommissie: adviescommissie sociale economie zoals bedoeld in Titel VII van dit besluit;<br />7° VOMEC: het Vlaams overlegplatform meerwaardeneconomie, zoals bedoeld in Titel IX van dit besluit;<br />8° VIZO: het Vlaams Instituut voor het Zelfstandig Ondernemen zoals opgericht bij decreet van 23 januari 1991;<br />9° Waarborgfonds: Waarborgfonds voor de Sociale Economie van de Vlaamse overheid, geregeld bij Besluit van de Vlaamse Regering van 23 november 1994 tot regeling van een toekenning van een waarborg aan financiers die actief zijn in de sector van de sociale economie;<br />10° trajectmatig begeleidingsacties: geheel van acties georganiseerd door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding of de door deze dienst erkende derden waarbij de werkzoekende volgens een stappenplan door een trajectbegeleider naar een duurzame tewerkstelling wordt begeleid;<br />11° dienstenchequeonderneming: onderneming die erkend is in het kader van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen; <br />12° maatschappelijk verantwoord ondernemen, hierna MVO te noemen: ondernemen waarbij men in een permanente dialoog met iedereen die invloed uitoefent of ondervindt van de onderneming (stakeholders) gaat streven naar een maximale toegevoegde waarde én voor de onderneming én voor haar werknemers én voor de maatschappij én voor het milieu;<br />13° monitoringsysteem: het systematisch volgen via indicatoren van de economische leefbaarheid, de invulling van het concept MVO en de begeleiding en ondersteuning van de invoegwerknemers met als doel de werking van concrete initiatieven en de efficiëntie van de maatregel in zijn geheel zowel op korte als op lange termijn te volgen, te evalueren en bij te sturen;<br />14° RESOC: het Regionaal Sociaal-economische Overlegcomité, vermeld in artikel 18 van het decreet van 7 mei 2004 betreffende het statuut, de werking, de taken en de bevoegdheden van de erkende regionale samenwerkingsverbanden, de sociaal-economische raden van de regio en de regionale sociaal-economische overlegcomités.
 
 ## TITEL II INVOEGBEDRIJVEN EN INVOEGAFDELINGEN
 
@@ -130,19 +130,19 @@ De aanvrager of onderneming die invoegwerknemers wenst aan te werven, richt een 
 
 ### ART. 25.
 
-De aanvraag wordt door de zorg van het Vlaams Subsidieagentschap voor Werk en Sociale Economie bezorgd aan het doorlichtingsteam, dat de aanvraag onderzoekt op elk van de erkenningscriteria; op elk punt een exhaustieve uitleg met appreciatie geeft en binnen de dertig dagen hierover een rapport opstelt en bezorgt aan het Vlaams Subsidieagentschap voor Werk en Sociale Economie.<br /><br />Als het doorlichtingsteam aanvullende informatie die noodzakelijk is voor het onderzoek aan de onderneming vraagt en niet dadelijk kan verkrijgen, en als de onderneming het doorlichtingsteam niet kan ontvangen binnen een termijn van veertien dagen na het verzenden van de aanvraag, wordt de adviesperiode op grond van een gemotiveerd verzoek van het doorlichtingsteam door het Vlaams Subsidieagentschap voor Werk en Sociale Economie geschorst. De schorsing wordt opgeheven zodra het doorlichtingsteam meldt dat de noodzakelijke informatie werd verkregen.
+Het Subsidieagentschap onderzoekt de aanvraag en stelt daarover een rapport op binnen een termijn van dertig dagen. <br /><br />Het Subsidieagentschap kan bij de aanvrager noodzakelijke aanvullende informatiegegevens inwinnen. Tot zolang de aanvrager die noodzakelijke informatiegegevens niet verstrekt, wordt de aanvraagprocedure geschorst.
 
 ### ART. 26.
 
-Het advies van het Regionaal Sociaal-economisch Overlegcomité en het rapport van het doorlichtingsteam worden gebundeld door het Vlaams Subsidieagentschap voor Werk en Sociale Economie en voorgelegd aan de adviescommissie.
+Het Subsidieagentschap legt zijn rapport samen met het advies van het RESOC voor aan de adviescommissie.
 
 ### ART. 27.
 
-De adviescommissie formuleert een advies met betrekking tot de erkenning op basis van het voorliggend rapport van het doorlichtingsteam en het advies van het Regionaal Sociaal-economisch Overlegcomité. Het advies wordt door de zorg van het Vlaams Subsidieagentschap voor Werk en Sociale Economie aan de minister bezorgd.
+De adviescommissie formuleert op basis van het advies van het RESOC en het rapport van het Subsidieagentschap een advies over de erkenningsaanvraag.<br /><br />Het Subsidieagentschap bezorgt dat advies aan de minister.
 
 ### ART. 28.
 
-Aan de hand van het advies van het [Regionaal Sociaal-economisch Overlegcomité,  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 9, I: 15 juli 2005)</span> ] het rapport van het doorlichtingsteam en het advies van de adviescommissie beslist de minister om een invoegbedrijf of een invoegafdeling al dan niet te erkennen.
+Aan de hand van de adviezen van het RESOC en van de adviescommissie en op basis van het rapport van het Subsidieagentschap beslist de minister over de erkenning.
 
 ### ART. 29.
 
@@ -154,7 +154,7 @@ De minister deelt de erkenningsbeslissing mee aan de Vlaamse Dienst voor Arbeids
 
 ### ART. 31.
 
-De minister deelt de beslissing tot erkenning of niet-erkenning mee aan het [Regionaal Sociaal-eco-nomisch Overlegcomité  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 9, I: 15 juli 2005)</span> ], aan het doorlichtingsteam en aan de advies-commissie en motiveert wanneer het advies niet werd gevolgd of geacht werd te zijn uitgebracht.
+De minister betekent zijn beslissing aan de aanvrager. De minister deelt die beslissing mee aan de adviescommissie en het RESOC.
 
 ### ART. 32.
 
@@ -170,7 +170,7 @@ De minister stelt het bedrag vast dat het Vlaams Subsidieagentschap voor Werk en
 
 ### ART. 35.
 
-Enkel indien het noodzakelijk is voor de economische leefbaarheid van het bedrijf, kan de werkgever het aantal tewerkgestelde invoegwerknemers verminderen. Hij richt hiertoe voorafgaandelijk via aangetekend schrijven een gemotiveerd verzoek aan het Subsidieagentschap. Het Subsidieagentschap maakt het verzoek over aan het doorlichtingsteam dat binnen de veertien kalenderdagen rapporteert aan het Subsidieagentschap over de economische leefbaarheid van het bedrijf en over de invloed hierop van een niet-vermindering van het aantal tewerkgestelde invoegwerknemers. De minister deelt binnen de dertig kalenderdagen de toelating tot of de weigering van de vermindering van het aantal tewerkgestelde invoegwerknemers mee aan de werkgever, aan het doorlichtingsteam en aan de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.
+De werkgever kan het aantal tewerkgestelde invoegnemers verminderen als dat noodzakelijk is voor de economische leefbaarheid van de onderneming. De werkgever motiveert zijn voornemen tot vermindering en deelt het met een aangetekende brief aan het Subsidieagentschap mee.<br /><br />Het Subsidieagentschap onderzoekt de motieven tot vermindering van de werkgever en bezorgt daarover een advies aan de minister binnen een termijn van veertien dagen.<br /><br />De minister deelt zijn toestemming of weigering met betrekking tot de vermindering mee aan de werkgever en aan de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding binnen een termijn van dertig dagen.
 
 ### ART. 36.
 
@@ -240,23 +240,23 @@ De aanvraag wordt aan het advies onderworpen van het [Regionaal Sociaal-economis
 
 ### ART. 47.
 
-De aanvraag tot erkenning wordt overgemaakt aan het doorlichtingsteam, dat de aanvraag onderzoekt op elk van de erkenningscriteria vermeld in artikel 44 van dit besluit, op elk punt een exhaustieve uitleg met appreciatie geeft en binnen de dertig kalenderdagen hierover een rapport opstelt en overmaakt aan het Subsidieagentschap.
+Het Subsidieagentschap onderzoekt aan de hand van de erkenningsaanvraag of de onderneming voldoet aan de voorwaarden, vermeld in artikel 44, en stelt daarover een rapport op binnen een termijn van 30 dagen.
 
 ### ART. 48.
 
-Het advies van het Regionaal Sociaal-economisch Overlegcomité  en het rapport van het doorlichtingsteam worden gebundeld door het Vlaams Subsidieagentschap voor Werk en Sociale Economie en voorgelegd aan de adviescommissie.
+Het Subsidieagentschap legt zijn rapport, samen met het advies van het RESOC, voor aan de adviescommissie.
 
 ### ART. 49.
 
-De adviescommissie formuleert een advies met betrekking tot de erkenning op basis van het voorliggend rapport van het doorlichtingsteam en het advies van het bevoegde [Regionaal Sociaal-economisch Overleg-comité.  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 9, I: 15 juli 2005)</span> ]
+De adviescommissie formuleert op basis van het advies van het RESOC en het rapport van het Subsidieagentschap een advies over de erkenningsaanvraag.
 
 ### ART. 50.
 
-Aan de hand van het advies van het [Regionaal Sociaal-economisch Overlegcomité,  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 9, I: 15 juli 2005)</span> ] het eindrapport van het doorlichtingsteam en het advies van de adviescommissie beslist de minister om een regionaal incubatiecentra voor de sociale economie al dan niet te erkennen.
+Aan de hand van de adviezen van het RESOC en van de adviescommissie en op basis van het rapport van het Subsidieagentschap beslist de minister over de erkenning.
 
 ### ART. 51.
 
-§ 1. De minister betekent zijn beslissing aan het regionaal incubatiecentrum voor de sociale econo-mie.<br /><br />§ 2. Hij deelt deze beslissing mee aan het [Regionaal Sociaal-economisch Overlegcomité,  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 9, I: 15 juli 2005)</span> ] aan het doorlichtingsteam en aan de adviescommissie sociale economie en motiveert wanneer het advies niet werd gevolgd of geacht werd te zijn uitgebracht.
+De minister betekent zijn beslissing aan de aanvrager. De minister deelt die beslissing mee aan de adviescommissie en het RESOC.
 
 ## HOOFDSTUK IV [... (opgeh. BVR 4 april 2014, art. 10, I: 9 juni 2014)]
 
@@ -374,37 +374,37 @@ De financiële tegemoetkoming in het optreden van het erkende adviesbureau voor 
 
 ### ART. 70.
 
-§ 1. Het doorlichtingsteam wordt samengesteld uit minstens twee verschillende erkende adviesbu-reaus in de sociale economie.<br /><br />§ 2. Het doorlichtingsteam dient zo samengesteld dat de leden van het team als werkingsterrein het hele Vlaamse Gewest bestrijken.
+...
 
 ### ART. 71.
 
-De minister erkent het doorlichtingsteam.
+...
 
 ## HOOFDSTUK II OPDRACHT
 
 ### ART. 72.
 
-§ 1. Het doorlichtingsteam heeft volgende taken:<br /><br />1° het toetsen van de aanvragen van invoegbedrijven, invoegafdelingen en regionale incubatiecentra voor de sociale economie op de erkenningscriteria;<br /><br />2° het geven van een advies aan de adviescommissie betreffende al dan niet erkenning;<br /><br />3° het toetsen van uitbreidingsvragen en andere vragen van erkende invoegbedrijven, erkende invoegafdelingen en erkende incubatiecentra waarvoor het doorlichtingsteam een advies dient te verstrekken aan de minister en geven van een advies hieromtrent;<br /><br />4° het geven van eerstelijnsinformatie aan geïnteresseerde ondernemingen;<br /><br />5° het signaleren van knelpunten aan de minister.<br /><br />§ 2. Het doorlichtingsteam kan deze opdrachten enkel vervullen met de medewerking van alle leden van het team. Dit betekent dat iedere vervulde opdracht dient te worden goedgekeurd door alle in het doorlichtingsteam opgenomen erkende adviesbureaus voor de sociale economie.
+...
 
 ## HOOFDSTUK III PROCEDURE
 
 ### ART. 73.
 
-§ 1. Voor de erkenningsaanvraag wordt een dossier ingediend bij het Subsidieagentschap, waaruit blijkt dat aan de voorwaarden vermeld in artikel 70 van dit besluit voldaan is en waarin wordt toegelicht op welke wijze de opdracht vermeld in artikel 72, § 1 van dit besluit zal worden vervuld.<br /><br />§ 2. De minister betekent zijn beslissing aan het doorlichtingsteam.
+...
 
 ## HOOFDSTUK IV SUBSIDIËRING
 
 ### ART. 74.
 
-[§ 1. Het doorlichtingsteam ontvangt een bedrag van 2000 euro per advies dat uitgebracht is ten aanzien van de adviescommissie, zoals bepaald in artikel 72, § 1, 2°.<br /><br />§ 2. Het doorlichtingsteam ontvangt een bedrag van 1000 euro per advies voor een uitbreidingsaanvraag, zoals bepaald in artikel 72, § 1, 3°.  <span class="reference">(verv. B.V.R. 1 juli 2005, art. 22, I: 1 juli 2005)</span> ]
+...
 
 ### ART. 75.
 
-Het doorlichtingsteam bezorgt aan het Subsidieagentschap per betrokken adviesbureau per kwartaal een overzicht van de invoegbedrijven, de invoegafdelingen en de regionale incubatiecentra voor de sociale economie die werden doorgelicht en het te ontvangen bedrag dat daarmee overeenstemt.
+...
 
 ### ART. 76.
 
-Als wordt vastgesteld dat het doorlichtingsteam in de sociale economie niet meer aan de vereiste voorwaarden voldoet, beroep doet op een dubbele financiering, als misbruiken worden vastgesteld of als blijk wordt gegeven van kennelijke onbekwaamheid, kan de minister de erkenning intrekken.
+...
 
 ## TITEL VI MAATSCHAPPELIJK VERANTWOORD ONDERNEMERSCHAP
 
@@ -470,7 +470,7 @@ Er wordt een adviescommissie sociale economie samengesteld. Deze adviescommissie
 
 ### ART. 81.
 
-§ 1. De adviescommissie wordt samengesteld uit stemgerechtigde en niet-stemgerechtigde leden.<br /><br />§ 2. Stemgerechtigde leden zijn een vertegenwoordiger van de minister, een vertegenwoordiger van de Vlaamse minister bevoegd voor het Economisch Beleid, een vertegenwoordiger van de Vlaamse minister bevoegd voor de Financiën en de Begroting, drie vertegenwoordigers van de meest representatieve werkgeversorganisaties en drie vertegenwoordigers van de meest representatieve werknemersorganisaties.<br /><br />§ 3. Niet-stemgerechtigde leden zijn een vertegenwoordiger van VOMEC, een vertegenwoordiger van het doorlichtingsteam, een vertegenwoordiger van het Waarborgfonds, een vertegenwoordiger van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, een vertegenwoordiger van het VIZO, een vertegenwoordiger van het Departement Economie, Wetenschap en Innovatie, en een vertegenwoordiger van het Vlaams Subsidieagentschap voor Werk en Sociale Economie.<br /><br />§ 4. De vertegenwoordiger van de minister neemt het voorzitterschap waar.<br /><br />Een personeelslid van het Subsidieagentschapfungeert als secretaris.<br /><br />§ 5. In de adviescommissie wordt een consensus nagestreefd. Bij ontstentenis hiervan wordt een meerderheids- en minderheidsstandpunt medegedeeld.
+§ 1. De adviescommissie wordt samengesteld uit stemgerechtigde en niet-stemgerechtigde leden.<br /><br />§ 2. Stemgerechtigde leden zijn een vertegenwoordiger van de minister, een vertegenwoordiger van de Vlaamse minister bevoegd voor het Economisch Beleid, een vertegenwoordiger van de Vlaamse minister bevoegd voor de Financiën en de Begroting, drie vertegenwoordigers van de meest representatieve werkgeversorganisaties en drie vertegenwoordigers van de meest representatieve werknemersorganisaties.<br /><br />§ 3. Niet-stemgerechtigde leden zijn een vertegenwoordiger van VOMEC, een vertegenwoordiger van het Waarborgfonds, een vertegenwoordiger van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, een vertegenwoordiger van het Departement Economie, Wetenschap en Innovatie, en een vertegenwoordiger van het Vlaams Subsidieagentschap voor Werk en Sociale Economie.<br /><br />§ 4. De vertegenwoordiger van de minister neemt het voorzitterschap waar.<br /><br />Een personeelslid van het Subsidieagentschapfungeert als secretaris.<br /><br />§ 5. In de adviescommissie wordt een consensus nagestreefd. Bij ontstentenis hiervan wordt een meerderheids- en minderheidsstandpunt medegedeeld.
 
 ## HOOFDSTUK III [... (opgeh. BVR 4 april 2014, art. 10, I: 9 juni 2014)]
 
@@ -550,7 +550,7 @@ Als wordt vastgesteld dat het Vlaams overlegplatform voor de meerwaardeneconomie
 
 ### ART. 96.
 
-Tot op datum van de erkenning van het doorlichtingsteam zoals bepaald in artikel 71 van dit besluit vervult het Samenwerkingsverband Sociale Economie de opdrachten van het doorlichtingsteam zoals bepaald in artikel 72 van dit besluit.
+...
 
 ### ART. 96bis.
 
