@@ -6,8 +6,8 @@ De Vlaamse minister van Cultuur, Jeugd, Sport en Brussel,<br /><br />Gelet op he
 
 ### ART. 1.
 
-Volgende artsen worden voor de periode van 1 april 2009 tot 31 december 2011 erkend als keuringsarts inzake medisch verantwoorde sportbeoefening : <br />PAUWELS, Frank, Oppuurs.<br />VANHOUDT, Robin, Mechelen.<br />DEPAMELAERE, Christophe, Wingene.
+...
 
 ### ART. 2.
 
-Dit besluit heeft uitwerking met ingang van 1 april 2009.
+...
