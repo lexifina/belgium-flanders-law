@@ -2,16 +2,16 @@
   "codex_id": 1018609,
   "title": "Besluit van de Vlaamse Regering van 2009-07-24 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018609/VolledigDocument?datum=2011-12-01",
-  "source_sha256": "e43b56cff1be19189eb657b4c698ab7a6064c5f2b094ad10d7e7ba545b838771",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018609/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "2d943f530af190416cdd9ad58efba7b21b8e8d3c03f605194536006461740c51",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018609&param=informatie",
-  "as_of": "2011-12-01",
+  "as_of": "2012-01-01",
   "made": "2009-07-24",
   "gazette": "2009-12-17",
   "numac": 2009036117,
   "document_start": "2010-01-01",
   "document_end": "2019-12-31",
-  "in_force": "2011-12-01",
-  "article_versions": 342,
-  "record_form": "consolidated version as in force on 2011-12-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-01-01",
+  "article_versions": 359,
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }
