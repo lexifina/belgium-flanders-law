@@ -30,7 +30,7 @@ De uitreiking en het behoud van een attest van toezicht is mogelijk als de opvan
 
 ### ART. 6.
 
-De opvangvoorziening met een attest van toezicht heeft een crisisbeleid en meldt elke gevaarsituatie aan Kind en Gezin, volgens de bepalingen die de minister vastlegt.
+De opvangvoorziening met een attest van toezicht heeft een crisisbeleid en meldt elke gevaarsituatie, inbegrepen het geval dat er grensoverschrijdend gedrag is ten aanzien van het kind aan Kind en Gezin, volgens de bepalingen die de minister vastlegt.
 
 ### ART. 7.
 
