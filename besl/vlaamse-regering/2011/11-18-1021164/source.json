@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021164,
+  "title": "Besluit van de Vlaamse Regering van 2011-11-18 tot wijziging van het besluit van de Vlaamse Regering van 8 september 2000 houdende een impuls- en ondersteuningsprogramma van de meerwaardeneconomie en tot wijziging van het besluit van de Vlaamse Regering van 15 juli 2005 betreffende de erkenning en financiering van de invoegbedrijven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021164/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "476c0f262eca65e5e06e832fb965763f3b80a2c31f7cd07a4ebc807440536799",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021164&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2011-11-18",
+  "gazette": "2012-01-13",
+  "numac": 2011036082,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
