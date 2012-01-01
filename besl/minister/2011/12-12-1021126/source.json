@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021126,
+  "title": "Ministerieel besluit van 2011-12-12 houdende erkenning van artsen als keuringsarts inzake medisch verantwoorde sportbeoefening",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021126/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "161b6f8f59c953e4a0c3f58607b66cd7d0c1b458a602d5e41fa074038c659394",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021126&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2011-12-12",
+  "gazette": "2011-12-23",
+  "numac": 2011206339,
+  "document_start": "2012-01-01",
+  "document_end": "2014-12-31",
+  "in_force": "2012-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
