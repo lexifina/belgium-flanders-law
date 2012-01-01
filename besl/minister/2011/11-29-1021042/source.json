@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021042,
+  "title": "Ministerieel besluit van 2011-11-29 inzake de rapportering van de elektriciteitsdistributienetbeheerders betreffende de uitvoering van hun REG-actieplannen 2011",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021042/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "871cd2c216ddaa63e5575663053d602d275c3bfb1bb1bd83a2f37f8fe4ead5d0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021042&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2011-11-29",
+  "gazette": "2011-12-09",
+  "numac": 2011035986,
+  "document_start": "2012-01-01",
+  "document_end": "2014-12-31",
+  "in_force": "2012-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
