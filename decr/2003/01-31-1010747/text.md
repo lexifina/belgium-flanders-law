@@ -39,7 +39,7 @@ De inkomsten van het EVFH worden gevormd door:<br>
 
 ### ART. 9.
 
-§ 1. Ieder jaar stelt de beheerscommissie de begroting vast van de uitgaven voor het volgende begrotingsjaar, alsmede de middelen van het EVFH om die uitgaven te dekken. Voor het indienen van de begroting volgt de beheerscommissie de nadere regelen zoals vastgesteld in de begrotingsinstructies tot de opmaak van de algemene uitgaven- en middelenbegroting.<br /><br />Ieder jaar, vóór 15 maart, stelt de beheerscommissie de rekening van het EVFH van het vorige begrotingsjaar op. <br /><br />De begroting en de rekening, alsmede elke desbetreffende wijziging, worden ter goedkeuring voorgelegd aan de Vlaamse regering, samen met het advies van de Inspectie van Financiën.<br /><br />§ 2. Behoudens indien de Beheerscommissie beslist om het batig saldo van een begrotingsjaar over te dragen aan het Vlaamse Gewest, kan het EVFH dat saldo tijdens het volgende begrotingsjaar vrij aanwenden voor het verwezenlijken van zijn doel.<br /><br />§ 3. Behoudens andersluidende beslissing van de Beheerscommissie, worden de niet-geldelijke werkingsmiddelen die door het EVFH in het raam van een derden-opdracht werden verworven, bij het einde van de desbetreffende opdracht automatisch in eigendom overgedragen aan het Vlaamse Gewest, om er verder bij de administratie Waterwegen en Zeewezen te worden aangewend.
+...
 
 ### ART. 10.
 
