@@ -462,15 +462,31 @@ Voor de uitvoering van de individuele beroepsopleiding wordt tussen de VDAB, de 
 
 De VDAB rapporteert aan de SERR's over het stelsel van de individuele beroepsopleiding.
 
+### ART. 98/1.
+
+In deze afdeling wordt verstaan onder curatieve IBO : de individuele beroepsopleiding, vermeld in artikel 90, die verstrekt wordt aan :<br />1° de niet-werkende werkzoekende jonger dan 25 jaar die ten minste gedurende 12 maanden onmiddellijk voorafgaand aan de start van de curatieve IBO bij de VDAB als zodanig is ingeschreven;<br />2° de niet-werkende werkzoekende ouder dan 25 jaar die ten minste gedurende 24 maanden onmiddellijk voorafgaand aan de start van de curatieve IBO bij de VDAB als zodanig is ingeschreven.
+
+### ART. 98/2.
+
+De VDAB bepaalt de opleidingsduur van de curatieve IBO. De opleidingsduur bedraagt ten minste 4 weken en ten hoogste 52 weken.
+
+### ART. 98/3.
+
+De cursist die een individuele beroepsopleiding volgt, krijgt een premie die met elke productieve arbeid overeenkomt. Het bedrag van die productiviteitspremie wordt uitgedrukt als een percentage van het verschil tussen het normale loon van het beroep en het inkomen waarop de cursist recht heeft op grond van werkloosheid, leefloon of financiële maatschappelijke dienstverlening.<br /><br />Voor opleidingen van vier tot 26 weken bedragen de percentages, vermeld in het eerste lid :<br />1° laatste maand van de opleiding : 100 %;<br />2° voorlaatste maand van de opleiding : 95 %;<br />3° derde laatste maand van de opleiding : 90 %;<br />4° vierde laatste maand van de opleiding : 85 %;<br />5° vijfde laatste maand van de opleiding : 80 %;<br />6° zesde laatste maand van de opleiding : 75 %.<br /><br />Als de opleiding langer dan zes maanden duurt, bedraagt het percentage 100% voor elke extra maand.<br /><br />De VDAB betaalt maandelijks de productiviteitspremie aan de cursist. De VDAB geeft de cursist een overzicht met vermelding van de premie en de vergoedingen die aan hem werden uitbetaald.<br /><br />De onderneming, vereniging zonder winstoogmerk of administratieve overheid waar de cursist de curatieve IBO volgt, is gedurende de eerste zes maanden van de opleiding geen maandelijks bedrag verschuldigd. Vanaf de zevende maand van de opleiding is de onderneming, vereniging zonder winstoogmerk of administratieve overheid aan de VDAB maandelijks een bedrag verschuldigd dat overeenstemt met de percentages van het verschil tussen het normale loon van het beroep en de gemiddelde werkloosheidsuitkering. De gemiddelde werkloosheidsuitkering wordt jaarlijks door de raad van bestuur bepaald met het oog op de budgettaire neutraliteit tussen de betaalde productiviteitspremie en het bedrag dat gefactureerd wordt aan de werkgever.
+
+### ART. 98/4.
+
+Artikel 91, 93, § 2, 94, eerste, tweede, derde en vijfde lid, en artikel 95 tot en met 98 zijn van toepassing op de curatieve IBO.
+
 ## Afdeling II. [... (opgeh. BVR 6 juli 2018, art. 30, I: 1 september 2018)]
 
 ### ART. 99.
 
-In deze afdeling wordt verstaan onder instapopleiding : de individuele beroepsopleiding, vermeld in artikel 90, die verstrekt wordt aan :<br />1° de jonge werknemer die aan de volgende drie voorwaarden voldoet :<br />a) bij de VDAB ingeschreven als niet-werkende werkzoekende en in wachttijd zitten overeenkomstig artikel 36, § 1, eerste lid, 4°, van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering;<br />b) de instapopleiding starten binnen vier maanden na de inschrijving als werkzoekende bij de VDAB;<br />c) ten hoogste een van de volgende diploma's of studiebewijzen hebben :<br />1) algemeen secundair onderwijs van de eerste graad;<br />2) technisch secundair of kunstsecundair onderwijs van de derde graad;<br />3) het eerste jaar van de vierde graad van het beroepssecundair onderwijs;<br />4) middenstandsopleiding;<br />5) deeltijds beroepssecundair onderwijs;<br />6) buitengewoon secundair onderwijs;<br />7) secundair alternerend beroepsonderwijs;<br />2° de volledig werkloze, vermeld in artikel 1 van het ministerieel besluit van 26 november 1991 houdende de toepassingsregelen van de werkloosheidsreglementering, die een beroepsopleiding als vermeld in artikel 61, van minstens 400 uur heeft gevolgd binnen de periode van negen maanden voor de instapstage, vermeld in artikel 36quater van het koninklijk besluit van 25 november 1991, op voorwaarde dat de instapstage start binnen de periode van vier maanden na het einde van de beroepsopleiding.<br /><br />De VDAB kan een instapopleiding weigeren aan een werkgever en beslist als enige over de verlenging of de voortijdige beëindiging van de instapopleiding.
+In deze afdeling wordt verstaan onder instapopleiding : de individuele beroepsopleiding, vermeld in artikel 90, die verstrekt wordt aan :<br />1° de jonge werknemer die aan de volgende drie voorwaarden voldoet :<br />a) bij de VDAB ingeschreven zijn als niet-werkende werkzoekende en in de wachttijd zitten overeenkomstig artikel 36, § 1, eerste lid, 4°, van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering;<br />b) de instapopleiding starten binnen vier maanden na de inschrijving als werkzoekende bij de VDAB;<br />c) een studiebewijs hebben met een kwalificatie van niveau één tot en met vijf als vermeld in het decreet van 30 april 2009 betreffende de kwalificatiestructuur;<br />2° de volledig werkloze, vermeld in artikel 1 van het ministerieel besluit van 26 november 1991 houdende de toepassingsregelen van de werkloosheidsreglementering, die een beroepsopleiding als vermeld in artikel 61, van minstens 400 uur heeft gevolgd binnen de periode van negen maanden voor de instapstage, vermeld in artikel 36quater van het koninklijk besluit van 25 november 1991, op voorwaarde dat de instapstage start binnen de periode van vier maanden na het einde van de beroepsopleiding en de volledig werkloze ten hoogste een diploma of getuigschrift heeft van de derde graad van het algemeen, technisch of kunstsecundair onderwijs of van de vierde graad van het beroepssecundair onderwijs.<br /><br />De VDAB kan een instapopleiding weigeren aan een werkgever en beslist als enige over de verlenging of de voortijdige beëindiging van de instapopleiding.
 
 ### ART. 100.
 
-De duur van de instapopleiding bedraagt negen weken.
+De duur van de instapopleiding bedraagt twee maanden.
 
 ### ART. 101.
 
