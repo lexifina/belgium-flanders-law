@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021901,
+  "title": "Decreet van 2012-06-01 houdende wijziging van het decreet van 7 mei 2004 betreffende de Huizen van het Nederlands",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021901/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "de7ab055cbe68ef60eba63604f712d6b081ad733d19ab47ea485ec9c05efa439",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021901&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2012-06-01",
+  "gazette": "2012-07-05",
+  "numac": 2012035692,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
