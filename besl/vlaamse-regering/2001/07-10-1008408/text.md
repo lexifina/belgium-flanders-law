@@ -41,7 +41,7 @@ Het toezicht over de krachtens dit besluit bepaalde initiatiefnemers wordt uitge
 
 ### ART. 6.
 
-De subsidies die in dit besluit worden gedefinieerd, worden elk jaar op 1 januari verhoogd met de procentuele stijging van de index van de consumptieprijzen tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar. In 2011 worden de bedragen, vermeld in dit besluit, op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het kalenderjaar 2008 en 1 november van het kalenderjaar 2010.
+De subsidies die in dit besluit worden gedefinieerd, worden elk jaar op 1   januari verhoogd met de procentuele stijging van de index van de   consumptieprijzen tussen 1 november van het vorige kalenderjaar en 1 november   van het daaraan voorafgaande kalenderjaar. In 2011 worden de bedragen, vermeld   in dit besluit, op 1 januari verhoogd met de procentuele stijging van het   gezondheidsindexcijfer tussen 1 november van het kalenderjaar 2008 en 1 november   van het kalenderjaar 2010.<BR><BR>In afwijking van het eerste lid worden de   subsidies, vermeld in artikel 2, § 4, in 2012 en 2013 niet   geïndexeerd.
 
 ### ART. 7.
 
