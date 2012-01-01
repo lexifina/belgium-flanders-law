@@ -282,11 +282,11 @@ De marktwaarde van de woningen die niet tot het representatief staal behoren, wo
 
 ### ART. 42.
 
-Overeenkomstig iedere marktwaarde wordt een minimale huurprijs vastgelegd. Die minimale huurprijs varieert recht evenredig met de marktwaarde en ligt tussen 100 euro en 200 euro. Voor de vaststelling ervan kan rekening gehouden worden met het type woning en de regio. De minister stelt de wijze van bepaling van de minimale huurprijs vast, na mededeling aan de Vlaamse Regering.<br />
+Overeenkomstig iedere marktwaarde wordt een minimale huurprijs vastgesteld. Voor een woning met marktwaarde lager dan of gelijk aan 250 euro is de minimale huurprijs gelijk aan 100 euro. Voor een woning met marktwaarde hoger dan of gelijk aan 650 euro is de minimale huurprijs gelijk aan 200 euro. Voor woningen met andere marktwaarden varieert de minimale huurprijs recht evenredig met de marktwaarde en is de minimale huurprijs gelijk aan het resultaat van de volgende formule, afgerond naar het dichtstbijzijnde gehele getal : <br />minimale huurprijs = 100 euro + ((marktwaarde - 250 euro)/(650 euro - 250 euro) x 100 euro).
 
 ### ART. 43.
 
-Overeenkomstig iedere marktwaarde wordt een patrimoniumkorting vastgesteld. Die patrimoniumkorting varieert omgekeerd evenredig met de marktwaarde en ligt tussen 0 euro en 150 euro. Voor de vaststelling ervan kan rekening gehouden worden met het type woning en de regio. De minister stelt de wijze van bepaling van de patrimoniumkorting vast, na mededeling aan de Vlaamse Regering.<br />
+Overeenkomstig iedere marktwaarde wordt een patrimoniumkorting vastgesteld. Voor een woning met marktwaarde lager dan of gelijk aan 250 euro is de patrimoniumkorting gelijk aan 115 euro. Voor een woning met marktwaarde hoger dan of gelijk aan 650 euro is de patrimoniumkorting gelijk aan 0 euro. Voor woningen met andere marktwaarden varieert de patrimoniumkorting omgekeerd evenredig met de marktwaarde en is de patrimoniumkorting gelijk aan het resultaat van de volgende formule, afgerond naar het dichtstbijzijnde gehele getal : <br />patrimoniumkorting = 115 euro x (650 euro - marktwaarde)/(650 euro - 250 euro).
 
 ### ART. 44.
 
@@ -356,7 +356,7 @@ De leidend ambtenaar van het agentschap Inspectie Ruimtelijke Ordening, Woonbele
 
 ### ART. 56.
 
-Alle bedragen in dit besluit worden jaarlijks op 1 januari aangepast aan de evolutie van de gezondheidsindex (basis 2004), naar het gezondheidsindexcijfer van de maand juni van het voorgaande jaar en met als basis het gezondheidsindexcijfer van 105,28 voor juni 2007. Het resultaat wordt afgerond naar het eerstvolgende natuurlijke getal.<br />
+Alle bedragen, met uitzondering van de bedragen 250 euro en 650 euro, vermeld in artikel 42 en 43, in dit besluit worden jaarlijks op 1 januari aangepast aan de evolutie van de gezondheidsindex (basis 2004), naar het gezondheidsindexcijfer van de maand juni van het voorgaande jaar en met als basis het gezondheidsindexcijfer van 105,28 voor juni 2007. Het resultaat wordt afgerond naar het eerstvolgende natuurlijke getal.<br /><br />De bedragen 250 euro en 650 euro, vermeld in artikel 42 en 43, worden geactualiseerd overeenkomstig artikel 40. Ze worden daartoe beschouwd als geschatte marktwaarden, waarvan de schatting is uitgevoerd in het jaar 2011.
 
 ## HOOFDSTUK XII. Wijzigingsbepalingen
 
@@ -418,7 +418,7 @@ De volgende besluiten worden opgeheven :<br />1° het besluit van de Vlaamse Reg
 
 ### ART. 70.
 
-<p>§ 1. Met behoud van de toepassing van paragrafen 2, 3 en 4, wordt voor de jaren 2008 tot en met 2011 de huurprijs voor de sociale huisvestingsmaatschappijen en de VMSW berekend op basis van artikel 38 tot en met 50, met dien verstande dat :<br>
+§ 1. Met behoud van de toepassing van paragrafen 2, 3 en 4, wordt voor de jaren 2008 tot en met 2011 de huurprijs voor de sociale huisvestingsmaatschappijen en de VMSW berekend op basis van artikel 38 tot en met 50, met dien verstande dat :<br>
 1° de basishuurprijs, vermeld in artikel 38, eerste lid, voor huurovereenkomsten die gesloten voor de inwerkingtreding van dit besluit, voorlopig vastgesteld wordt op 1 januari 2008 en op 1 januari 2009, en definitief vastgesteld wordt op 1 januari 2010;<br>
 2° de actualisatie van de basishuurprijs, vermeld in artikel 49, tweede lid, in huurovereenkomsten die gesloten zijn voor de inwerkingtreding van dit besluit, wordt uitgevoerd op 1 januari van het negende jaar na de definitieve vaststelling van de basishuurprijs, vermeld in 1°;<br>
 3° de voorlopige basishuurprijs op 1 januari 2009, gelijk is aan de marktwaarde die wordt vastgesteld op basis van artikel 41, met dien verstande dat de verhuurder die waarde voor de toepassing in 2010 nog kan aanpassen in overleg met de VMSW en na evaluatie van de vaststelling door de VMSW;<br>
@@ -433,7 +433,8 @@ b) in 2010 met een derde van het verschil tussen de in 2010 geldende basishuurpr
 <br>
 De minister geeft richtlijnen, onder meer met betrekking tot de minimale waarden voor de referentiehuurprijzen, die de verhuurder in staat moeten stellen om door middel van de vaststelling van de referentiehuurprijs de aangepaste huurprijs, vermeld in paragraaf 3, te laten evolueren naar de aangepaste huurprijs, vermeld in artikel 46.<br>
 <br>
-§ 3. In afwijking van artikel 46 is de aangepaste huurprijs voor de jaren 2008 tot en met 2011 gelijk aan het resultaat van de volgende formule :</p>
+§ 3. In afwijking van artikel 46 is de aangepaste huurprijs voor de jaren 2008 tot en met 2011 gelijk aan het resultaat van de volgende formule :
+<p>&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -577,7 +578,27 @@ Als de aangepaste huurprijs, vermeld in artikel 46, na de toepassing van paragra
 1° het maximum van 5 % van de oorspronkelijke huurprijs en 20 euro in 2008;<br>
 2° het maximum van 10 % van de oorspronkelijke huurprijs en 40 euro in 2009;<br>
 3° het maximum van 15 % van de oorspronkelijke huurprijs en 60 euro in 2010;<br>
-4° het maximum van 20 % van de oorspronkelijke huurprijs en 80 euro in 2011.</p>
+4° het maximum van 20 % van de oorspronkelijke huurprijs en 80 euro in 2011.<br>
+<br>
+§ 5. In de jaren 2012 en 2013 heeft de verhuurder de mogelijkheid om een sterke verhoging van de huurprijs ten opzichte van het voorgaande jaar af te zwakken, overeenkomstig de hierna vermelde voorwaarden.<br>
+<br>
+De huurprijs, berekend overeenkomstig artikel 38 tot en met 50, wordt vergeleken met de overgangshuurprijs. Die overgangshuurprijs is het resultaat van de berekening van de aangepaste huurprijs overeenkomstig paragraaf 3, waarbij de volgende regels in acht worden genomen :<br>
+1° er wordt rekening gehouden met de gezinssamenstelling en het inkomen van de huurder, zoals dat in het jaar van toepassing voor de huurprijsberekening gebeurt;<br>
+2° er wordt rekening gehouden met de referentiehuurprijs die in 2011 voor de huurprijsberekening werd gebruikt, geïndexeerd op basis van de gezondheidsindex van de maand juni 2010 naar de maand juni voorafgaand aan het jaar van toepassing. Het resultaat wordt afgerond naar het dichtstbijzijnde gehele getal;<br>
+3° de bedragen A, B, C en D zijn de bedragen die van toepassing zijn voor de jaren 2010 en 2011, geïndexeerd overeenkomstig artikel 56;<br>
+4° de begrenzing die geldt, is de begrenzing, vermeld in paragraaf 3, tweede lid, 3°.<br>
+<br>
+Als de aangepaste huurprijs, vermeld in artikel 46, in 2012 ten opzichte van de overgangshuurprijs sterker stijgt dan het hoogste bedrag van 5 % van de overgangshuurprijs en 20 euro, kan de verhuurder de stijging afzwakken door een huurvermindering aan de huurder toe te kennen. De huurvermindering bedraagt niet meer dan het kleinste van de volgende bedragen :<br>
+1° het bedrag in de stijging dat 5 % van de overgangshuurprijs overschrijdt;<br>
+2° het bedrag in de stijging dat 20 euro overschrijdt;<br>
+3° twee derde van het verschil tussen de overgangshuurprijs en de aangepaste huurprijs, vermeld in artikel 46.<br>
+<br>
+Als de aangepaste huurprijs, vermeld in artikel 46, in 2013 ten opzichte van de overgangshuurprijs sterker stijgt dan het hoogste bedrag van 10 % van de overgangshuurprijs en 40 euro, kan de verhuurder de stijging afzwakken door een huurvermindering aan de huurder toe te kennen. De huurvermindering bedraagt niet meer dan het kleinste van de volgende bedragen :<br>
+1° het bedrag in de stijging dat 10 % van de overgangshuurprijs overschrijdt;<br>
+2° het bedrag in de stijging dat 40 euro overschrijdt;<br>
+3° een derde van het verschil tussen de overgangshuurprijs en de aangepaste huurprijs, vermeld in artikel 46.<br>
+<br>
+§ 6. In afwijking van artikel 42 en 43, worden de minimale huurprijs en de patrimoniumkorting voor de huurovereenkomsten die gesloten zijn voor 1 januari 2012, berekend op basis van de basishuurprijs, geïndexeerd overeenkomstig artikel 49, in plaats van op basis van de marktwaarde. Vanaf 2013 worden de minimale huurprijs en patrimoniumkorting jaarlijks aangepast aan de evolutie van de gezondheidsindex (basis 2004) naar het gezondheidsindexcijfer van de maand juni van het voorgaande jaar en met als basis het gezondheidsindexcijfer van juni 2011 (116,43). Vanaf het moment dat de basishuurprijs wordt aangepast overeenkomstig artikel 49, geldt de indexatie, vermeld in artikel 49.</p>
 
 ### ART. 71.
 
