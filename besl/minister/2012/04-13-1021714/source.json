@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021714,
+  "title": "Ministerieel besluit van 2012-04-13 betreffende de bepaling en de herziening van de referentiegegevens bij integratie van de slachtpremie kalveren in de bedrijfstoeslag",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021714/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "65b807bf9b377d838d3078caea5fa311676758dd44e50458c560270623b75e15",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021714&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2012-04-13",
+  "gazette": "2012-05-10",
+  "numac": 2012035493,
+  "document_start": "2012-01-01",
+  "document_end": "2014-12-31",
+  "in_force": "2012-01-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
