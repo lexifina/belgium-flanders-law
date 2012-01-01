@@ -160,7 +160,7 @@ Het EV INBO kan voor de verwezenlijking van zijn doel vrij contracten sluiten, r
 
 ### ART. 32.
 
-§ 1. Ieder jaar stelt de beheerscommissie de begroting vast van de uitgaven voor het volgende begrotingsjaar, alsmede de middelen van het EV INBO om die uitgaven te dekken. Voor het indienen van de begroting volgt de beheerscommissie de nadere regelen zoals vastgesteld in de begrotingsinstructies tot de opmaak van de algemene uitgaven- en middelenbegroting.<br /><br />Ieder jaar, voor 15 maart, stelt de beheerscommissie de rekening van het EV INBO van het vorige begrotingsjaar op. <br /><br />De begroting en de rekening, alsmede elke wijziging ervan, worden ter goedkeuring voorgelegd aan de Vlaamse Regering, samen met het advies van de Inspectie van Financiën.<br /><br />§ 2. Het EV INBO kan het saldo tijdens het volgende begrotingsjaar vrij aanwenden voor het verwezenlijken van zijn doel.
+...
 
 ### ART. 33.
 
