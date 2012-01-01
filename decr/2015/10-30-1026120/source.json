@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026120,
+  "title": "Decreet van 2015-10-30 houdende instemming met het zetelakkoord, met uitwisseling van brieven, tussen het Koninkrijk België en de Internationale Organisatie voor Criminele Politie - INTERPOL (O.I.C.P. - INTERPOL), ondertekend te Lyon op 14 oktober 2014 en te Brussel op 24 oktober 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026120/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "167a07d6012a57831d8f88e9bd5cee0de19f068e297c241649fb7a9d04abaf53",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026120&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2015-10-30",
+  "gazette": "2015-11-26",
+  "numac": 2015036443,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
