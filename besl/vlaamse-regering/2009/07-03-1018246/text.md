@@ -14,11 +14,11 @@ Dit besluit regelt het financiële en materiële beheer van de dienst met afzond
 
 ### ART. 2.
 
-De DAB maakt jaarlijks een begroting op van alle ontvangsten en alle uitgaven volgens de richtlijnen, verstrekt door de Vlaamse Regering. Het begrotingsjaar begint op 1 januari en eindigt op 31 december van hetzelfde jaar.
+...
 
 ### ART. 3.
 
-De begroting wordt onderverdeeld in twee delen : <br />1° de ontvangsten; <br />2° de uitgaven.
+...
 
 ### ART. 4.
 
@@ -26,41 +26,41 @@ De ramingen van de ontvangsten hebben betrekking op : <br />1° het over te drag
 
 ### ART. 5.
 
-De uitgavenbegroting wordt opgemaakt volgens het stelsel van de gesplitste kredieten en bevat : <br />1° vastleggingskredieten waarvoor bedragen kunnen worden vastgelegd uit hoofde van verbintenissen die ontstaan of worden gesloten tijdens het begrotingsjaar, en voor de recurrente verbintenissen waarvan de gevolgen zich over meerdere jaren voordoen, voor de tijdens het begrotingsjaar opeisbare sommen; <br />2° ordonnanceringskredieten waarvoor tijdens het begrotingsjaar bedragen kunnen worden vereffend uit hoofde van rechten, vastgesteld ter uitvoering van voorafgaandelijk vastgelegde verbintenissen.
+...
 
 ### ART. 6.
 
-Het begrotingsontwerp van de DAB wordt ter goedkeuring voorgelegd aan de Vlaamse minister, bevoegd voor de bestuurszaken, en wordt gevoegd bij het ontwerp van decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.
+...
 
 ### ART. 7.
 
-De Vlaamse minister, bevoegd voor de bestuurszaken, kan, met het akkoord van de Vlaamse minister, bevoegd voor de financiën en de begrotingen, kredietoverschrijvingen en kredietoverschrijdingen toestaan. Als de kredietoverschrijding in totaal een hogere dotatie van de Vlaamse Gemeenschap zou meebrengen dan die welke is ingeschreven in de administratieve begroting van de Vlaamse Gemeenschap, moet ze voorafgegaan worden door een overeenstemmende wijziging van de begroting.
+...
 
 ## Hoofdstuk III De comptabiliteit en aflegging van de rekeningen
 
 ### ART. 8.
 
-De administrateur-generaal van het Agentschap voor Overheidspersoneel, of zijn plaatsvervanger, wordt aangesteld als beheerder en ordonnateur van de DAB. De bevoegdheden en verantwoordelijkheden van de ordonnateur worden vastgesteld overeenkomstig de regels die gelden voor de diensten van de Vlaamse Regering.<br /><br />De ontvangsten en uitgaven verlopen via de centrale financiële rekening van de Vlaamse Gemeenschap.
+De administrateur-generaal van het Agentschap voor Overheidspersoneel, of zijn plaatsvervanger, wordt aangesteld als beheerder en ordonnateur van de DAB. De bevoegdheden en verantwoordelijkheden van de ordonnateur worden vastgesteld overeenkomstig de regels die gelden voor de diensten van de Vlaamse Regering.
 
 ### ART. 9.
 
-Op het einde van ieder kwartaal wordt door de ordonnateur een staat van ontvangsten en een staat van uitgaven opgemaakt. De Vlaamse minister, bevoegd voor de bestuurszaken, legt die staten aan het Rekenhof voor door bemiddeling van de Vlaamse minister, bevoegd voor de financiën en de begrotingen. De bewijsstukken worden ter plaatse bewaard.
+...
 
 ### ART. 10.
 
-Op het einde van ieder jaar stelt de ordonnateur de volgende documenten op : <br />1° een rekening van uitvoering van de begroting; <br />2° een staat van activa en passiva. <br /><br />Uiterlijk op 31 januari na het jaar waarop ze betrekking hebben, stuurt de Vlaamse minister, bevoegd voor de bestuurszaken, die rekeningen naar de Vlaamse minister, bevoegd voor de financiën en de begrotingen, die ze voor 31 maart van hetzelfde jaar aan het Rekenhof bezorgt.
+...
 
 ### ART. 11.
 
-De uitvoeringsrekening van de DAB wordt gevoegd bij die van het algemeen bestuur van de Vlaamse Gemeenschap.
+...
 
 ### ART. 12.
 
-Op de begroting van een bepaald jaar worden de volgende bedragen aangerekend : <br />1° op het vastleggingskrediet : het bedrag van de verbintenissen, aangegaan tijdens het begrotingsjaar overeenkomstig de bepalingen van artikel 5; <br />2° op het ordonnanceringskrediet : de sommen, geordonnanceerd gedurende het begrotingsjaar.
+...
 
 ### ART. 13.
 
-Er moet een vermogenscomptabiliteit gevoerd worden. Daartoe wordt onder meer een inventaris van het vermogen opgemaakt overeenkomstig de geldende bepalingen.
+...
 
 ## Hoofdstuk IV Beheer
 
@@ -150,29 +150,29 @@ De bedragen, vermeld in het tweede lid, zijn exclusief de belasting over de toeg
 
 ### ART. 15.
 
-Het bedrag van de uitgaven wordt beperkt door het bedrag van de goedgekeurde limitatieve kredieten en door het bedrag van de ontvangsten.
+...
 
 ### ART. 16.
 
-§ 1. Van het op het einde van het begrotingsjaar beschikbare saldo wordt 10 procent aangewend voor de vorming van een reservefonds. De Vlaamse minister, bevoegd voor de bestuurszaken kan dat percentage aanpassen met het akkoord van de Vlaamse minister, bevoegd voor de financiën en de begrotingen. <br /><br />De voorafname gebeurt totdat de middelen van het reservefonds 10 procent bedragen van het gemiddelde van de uitgaven van de drie voorafgaande begrotingsjaren, tenzij dat bedrag wordt gewijzigd op voorstel van de bevoegde minister, met het akkoord van de begrotingsminister. <br /><br />Onder beschikbaar saldo op het einde van het begrotingsjaar wordt verstaan : het begrotingssaldo, namelijk het verschil tussen de aangerekende inkomsten en de aangerekende uitgaven van het boekjaar, vermeerderd met de openstaande vastgestelde rechten, verminderd met de openstaande vastleggingen (of over te dragen verbintenissen).<br /><br />Op het einde van het begrotingsjaar worden de volgende bedragen overgedragen : <br />1° het gedeelte van het begrotingssaldo dat beschikbaar is na de vorming van het reservefonds;<br />2° de vastgestelde rechten; <br />3° de nog openstaande verbintenissen. <br /><br />§ 2. De middelen van het reservefonds kunnen met het akkoord van de Vlaamse minister, bevoegd voor de bestuurszaken, of zijn gemachtigde, en met het akkoord van de Vlaamse minister, bevoegd voor de financiën en de begrotingen, aangewend worden om uitgaven te dekken die voortvloeien uit onvoorziene omstandigheden of uit specifieke doelstellingen van de DAB.
+...
 
 ### ART. 17.
 
-Vanaf het begin van het jaar mag het begrotingssaldo dat beschikbaar was op het einde van het vorige jaar na de vorming van het reservefonds, gebruikt worden.
+...
 
 ### ART. 18.
 
-De ordonnateur is belast met : <br />1° het behandelen en bewaren van de waarden; <br />2° het opstellen en bewaren van de bescheiden, vermeld in artikel 9 en 10;
+...
 
 ## Hoofdstuk V [... (opgeh. BVR 1 juni 2012, art. 29, I: 1 januari 2012)]
 
 ### ART. 19.
 
-Het Rekenhof en het IVA Centrale Accounting van het Vlaams Ministerie van Financiën en Begroting kunnen de rekeningen ter plaatse controleren. Zij kunnen op elk moment alle bewijsstukken, staten, inlichtingen of toelichtingen opvragen over de ontvangsten, de uitgaven, de activa en de schulden.
+...
 
 ### ART. 20.
 
-De uitgaven worden vereffend en betaald zonder het voorafgaande visum van de controleur van de vastleggingen en het Rekenhof.
+...
 
 ## Hoofdstuk VI Slotbepalingen
 
