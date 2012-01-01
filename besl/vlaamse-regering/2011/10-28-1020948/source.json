@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020948,
+  "title": "Besluit van de Vlaamse Regering van 2011-10-28 tot aanpassing van de gegarandeerde minimumbedragen van de Hogeschool voor Wetenschap en Kunst, Lessius Mechelen en Hogeschool Sint-Lukas Brussel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020948/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "183fafd56af4b356a9f58095d70aa677f25d788e88075a29725b749d425ef906",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020948&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2011-10-28",
+  "gazette": "2011-11-23",
+  "numac": 2011205788,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
