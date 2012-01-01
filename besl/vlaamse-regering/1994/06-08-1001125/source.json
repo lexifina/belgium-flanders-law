@@ -2,16 +2,16 @@
   "codex_id": 1001125,
   "title": "Besluit van de Vlaamse Regering van 1994-06-08 betreffende het financiële en materiële beheer van de diensten met afzonderlijk beheer Luchthaven Antwerpen en Luchthaven Oostende",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001125/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "848d16649b12bab28913943deb7c0e971273dec8d4c9991a21ba009b952cfa00",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001125/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "29ecf2334f00dc522b2a4e9d1e0cc3bc4d77bbaa016cdaaa060e4168c64466a6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001125&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2012-01-01",
   "made": "1994-06-08",
   "gazette": "1994-10-20",
   "numac": 1994036122,
   "document_start": null,
   "document_end": "2017-08-03",
-  "in_force": "2006-06-01",
+  "in_force": "2012-01-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }
