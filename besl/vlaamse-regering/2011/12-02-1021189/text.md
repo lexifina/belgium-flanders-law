@@ -173,6 +173,10 @@ In artikel VII 30, § 1 van hetzelfde besluit, ingevoegd bij besluit van de Vlaa
 
 Aan artikel VII 109septies, ingevoegd bij het besluit van de Vlaamse Regering van 29 april 2011, worden de volgende wijzigingen aangebracht :<br /><br />1° paragraaf 1 wordt geschrapt;<br /><br />2° paragraaf 3 wordt vervangen als volgt :<br />« § 3. In afwijking van paragraaf 2 wordt de kinderbijslag per overschrijving aan de bijslagtrekkende betaald op het einde van de maand waarop de kinderbijslag betrekking heeft. ».
 
+### ART. 10.
+
+Aan artikel VII 126, § 2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt een tweede en derde lid toegevoegd, die luiden als volgt :<br /><br />« De personeelsleden met de functie van chauffeur en de personeelsleden die een dienstvoertuig permanent ter beschikking hebben, hebben geen recht op deze toelage.<br /><br />In afwijking van het vorige lid behouden de personeelsleden van het agentschap Natuur en Bos en van het departement LNE, die een dienstvoertuig permanent ter beschikking hebben, het recht op deze toelage indien zij deze toelage ontvangen vóór 2 december 2011. ».
+
 ### ART. 11.
 
 Artikel VII 156 en VII 157 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 april 2011, worden vervangen door wat volgt :<br /><br />« Art. VII 156. In artikel VII 157 tot en met VII 163 wordt onder de woorden de van de Federale Overheidsdienst Financiën overgehevelde ambtenaar en de woorden het van de Federale Overheidsdienst overgehevelde personeelslid verstaan : de op 16 november 2010, 1 december 2010 of 1 januari 2011 van de Federale Overheidsdienst Financiën overgehevelde ambtenaren of personeelsleden.<br /><br />Art. VII 157. De geldelijke anciënniteit van het van de Federale Overheidsdienst Financiën overgehevelde personeelslid is gelijk aan de werkelijke geldelijke anciënniteit, in voorkomend geval verhoogd met de federale diagonale inschaling. ».
