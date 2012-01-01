@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Het departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, vertegenwoordigd door het hoofd van dit departement of bij delegatie zijn vertegenwoordiger, wordt gemachtigd om voor het Vlaamse Gewest, deel te nemen aan de werking en het beheer van de internationale vereniging zonder winstoogmerk Europae Archaeologiae Consilium.<br /><br />
+Het agentschap Onroerend Erfgoed, vertegenwoordigd door het hoofd van dat agentschap of bij delegatie zijn vertegenwoordiger, wordt gemachtigd om voor het Vlaamse Gewest, deel te nemen aan de werking en het beheer van de internationale vereniging zonder winstoogmerk Europae Archaeologiae Consilium.<br /><br />
 
 ### ART. 2.
 
