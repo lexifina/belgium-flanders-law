@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° afdeling Woonbeleid : de afdeling Woonbeleid van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />2° besluit Lokale Diensteneconomie : het besluit van de Vlaamse Regering van 5 oktober 2007 betreffende de lokale diensteneconomie;<br />3° decreet : het decreet van 22 december 2006 houdende de lokale diensteneconomie;<br />4° doelgroepwerknemers : werknemers als vermeld in artikel 2 van het besluit Lokale Diensteneconomie;<br />5° SHM : de erkende sociale huisvestingsmaatschappij, vermeld in artikel 40 van de Vlaamse Wooncode;<br />6° Subsidieagentschap : Vlaams Subsidieagentschap voor Werk en Sociale Economie, als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 21 oktober 2005 tot oprichting van het Vlaams Subsidieagentschap voor Werk en Sociale Economie;<br />7° toezichthouder : de toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis van de Vlaamse Wooncode;<br />8° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.
+In dit besluit wordt verstaan onder :<br />1° ...<br />2° besluit Lokale Diensteneconomie : het besluit van de Vlaamse Regering van 5 oktober 2007 betreffende de lokale diensteneconomie;<br />3° decreet : het decreet van 22 december 2006 houdende de lokale diensteneconomie;<br />4° doelgroepwerknemers : werknemers als vermeld in artikel 2 van het besluit Lokale Diensteneconomie;<br />5° SHM : de erkende sociale huisvestingsmaatschappij, vermeld in artikel 40 van de Vlaamse Wooncode;<br />6° Subsidieagentschap : Vlaams Subsidieagentschap voor Werk en Sociale Economie, als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 21 oktober 2005 tot oprichting van het Vlaams Subsidieagentschap voor Werk en Sociale Economie;<br />7° toezichthouder : de toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis van de Vlaamse Wooncode;<br />8° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.
 
 ## HOOFDSTUK II. Toepassingsgebied
 
@@ -34,13 +34,13 @@ De Vlaamse minister bevoegd voor de huisvesting en de Vlaamse minister bevoegd v
 
 ### ART. 6.
 
-§ 1. Met behoud van de toepassing van de bepalingen in § 2 en § 3, verloopt de procedure tot erkenning, hernieuwing of weigering zoals bepaald in hoofdstuk IV van het besluit Lokale Diensteneconomie.<br /><br />§ 2. Het modelformulier en de handleiding, vermeld in artikel 6, tweede lid, van het besluit Lokale Diensteneconomie, worden specifiek voor de toepassing van dit besluit aangepast en ter beschikking gesteld.<br /><br />Het Subsidieagentschap werkt in overleg met de afdeling Woonbeleid dit modelformulier en de handleiding uit.<br /><br />§ 3. In afwijking van artikel 7, § 3, eerste lid, van het besluit Lokale Diensteneconomie wordt de aanvraag eveneens voor advies bezorgd aan de afdeling Woonbeleid. <br /><br />Het advies van de afdeling Woonbeleid wordt gegeven binnen een termijn van dertig kalenderdagen na de ontvangst van de ontvankelijk verklaarde aanvraag.
+De procedure tot erkenning, hernieuwing of weigering verloopt zoals bepaald in hoofdstuk IV van het besluit Lokale Diensteneconomie.<br /><br />Het modelformulier en de handleiding, vermeld in artikel 6, tweede lid van hetzelfde besluit, worden specifiek voor de toepassing van dit besluit aangepast, na overleg met het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, en ter beschikking gesteld van de SHM's.
 
 ## HOOFDSTUK V. Informatiedoorstroming
 
 ### ART. 7.
 
-De afdeling Woonbeleid bezorgt de informatie over de inhoudelijke uitvoering van de initiatieven huisbewaarder in de sociale huisvesting in het kader van de lokale diensteneconomie, waarover zij beschikt, jaarlijks aan het Subsidieagentschap.<br /><br />Het Subsidieagentschap bezorgt jaarlijks een verslag, overeenkomstig artikel 22 van het besluit Lokale Diensteneconomie, over de initiatieven huisbewaarder in de sociale huisvesting in het kader van de lokale diensteneconomie aan de afdeling Woonbeleid.
+Het Subsidieagentschap bezorgt jaarlijks een verslag, overeenkomstig artikel 22 van het besluit Lokale Diensteneconomie, over de initiatieven huisbewaarder in de sociale huisvesting in het kader van de lokale diensteneconomie aan het agentschap, vermeld in artikel 6, tweede lid.
 
 ## HOOFDSTUK VI. Toezicht
 
