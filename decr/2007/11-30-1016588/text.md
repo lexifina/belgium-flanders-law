@@ -88,7 +88,7 @@ Iedere centrumstad kan een lokaal onderwijsplan opmaken. Dat onderwijsplan bevat
 
 ### ART. 18.
 
-Binnen de beschikbare begrotingskredieten worden middelen voorzien voor projecten binnen de centrumsteden die het Vlaams onderwijsbeleid versterken. Samen met de middelen voorzien voor projecten vermeld onder hoofdstuk V bedraagt dit budget 1.929.000 euro.
+Binnen de beschikbare begrotingskredieten wordt in subsidies voorzien voor projecten in de gemeenten die het Vlaamse onderwijsbeleid versterken. Het bedrag dat hiervoor wordt ingeschreven in de begroting 2012 in uitvoering van het decreet flankerend onderwijsbeleid wordt vanaf het begrotingsjaar 2012 aangepast aan de evolutie van de gezondheidindex.
 
 ### ART. 19.
 
