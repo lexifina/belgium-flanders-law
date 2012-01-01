@@ -250,7 +250,7 @@ De Vlaamse regering kan de bepalingen van de decreten betreffende de Dienst voor
 
 ### ART. 48.
 
-Tot de inwerkingtreding van het decreet van 7 mei 2004 houdende regeling van de begrotingen, de boekhouding, de controle inzake subsidies, en de controle door het Rekenhof, zijn de artikelen 2, 3, 4, 5, 6 en 6bis van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut van toepassing op De Scheepvaart. Voor de toepassing van voormelde wetsbepalingen wordt De Scheepvaart beschouwd als een organisme van categorie B.
+Tot de inwerkingtreding van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, zijn de artikelen 2, 3, 4, 5, 6 en 6bis van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut van toepassing op De Scheepvaart. Voor de toepassing van voormelde wetsbepalingen wordt De Scheepvaart beschouwd als een organisme van categorie B.
 
 ### ART. 48bis.
 
