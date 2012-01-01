@@ -62,7 +62,7 @@ Een strategische adviesraad beschikt over een jaarlijkse dotatie.
 
 ### ART. 14.
 
-De strategische adviesraad stelt jaarlijks een begroting en een rekening op en voert een boekhouding volgens de wijze zoals door de Vlaamse regering bepaald.<br /><br />Het Rekenhof is gemachtigd om de rekening van de strategische adviesraad te controleren.<br /><br />De met de financiële controle en certificering belaste instantie, kan een toezicht ter plaatse uitvoeren op de comptabiliteit en de verrichtingen van de strategische adviesraad. Ze mogen te allen tijde alle bewijsstukken, staten, inlichtingen of toelichtingen opvragen die betrekking hebben op de ontvangsten, de uitgaven, de activa en de schulden.
+...
 
 ### ART. 15.
 
