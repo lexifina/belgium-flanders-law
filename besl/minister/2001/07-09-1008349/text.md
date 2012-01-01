@@ -20,95 +20,18 @@ Een initiatief kan door K&G forfaitair gesubsidieerd worden om het basisaanbod t
 <br>
 § 3. K&amp;G beslist voor hoeveel erkende plaatsen subsidie wordt toegekend en de startdatum waarop de subsidiëring ingaat.<br>
 <br>
-§ 4. Het forfaitaire subsidiebedrag per erkende plaats is vastgelegd per plaats voor de eerste 21 plaatsen van een nieuw initiatief, per extra plaats vanaf 22 plaatsen en per extra plaats vanaf 232 plaatsen. Die bedragen gelden voor een initiatief met een openingsduur van minstens 230 dagen, waarvan 50 volle (vakantie)dagen. Hiervoor worden volgende bedragen in euro vastgelegd :<br>
+§ 4. Het forfaitaire subsidiebedrag per erkende plaats is vastgelegd per plaats voor de eerste 21 plaatsen van een nieuw initiatief, per extra plaats vanaf 22 plaatsen en per extra plaats vanaf 232 plaatsen. Die bedragen gelden voor een initiatief met een openingsduur van minstens 230 dagen, waarvan minstens 50 volle dagen zijn.<br>
 <br>
-2006
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-width:1.0pt; vertical-align:top; width:76.75pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:76.75pt">
-			<p>2006</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:76.75pt">
-			<p>2007</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:76.75pt">
-			<p>2008</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:76.8pt">
-			<p>2009</p>
-			</td>
-			<td style="border-color:black; border-left:none; border-style:solid; border-width:1.0pt; vertical-align:top; width:76.8pt">
-			<p>Vanaf 2010</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:76.75pt">
-			<p>Eerste 21 pl.</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.75pt">
-			<p>2.077,77 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.75pt">
-			<p>2.087,57 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.75pt">
-			<p>2.097,37 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.8pt">
-			<p>2.107,10 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.8pt">
-			<p>2.116,90 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:76.75pt">
-			<p>Vanaf 22 pl.</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.75pt">
-			<p>1.369,86 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.75pt">
-			<p>1.379,66 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.75pt">
-			<p>1.389,46 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.8pt">
-			<p>1.399,19 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.8pt">
-			<p>1.408,99 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:black; border-style:solid; border-top:none; border-width:1.0pt; vertical-align:top; width:76.75pt">
-			<p>Vanaf 232 pl.</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.75pt">
-			<p>1.206,49 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.75pt">
-			<p>1.216,29 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.75pt">
-			<p>1.226,09 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.8pt">
-			<p>1.235,85 euro</p>
-			</td>
-			<td style="border-bottom:solid windowtext 1.0pt; border-left:none; border-right:solid windowtext 1.0pt; border-top:none; vertical-align:top; width:76.8pt">
-			<p>1.245,62 euro</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
+Het forfaitaire subsidiebedrag per erkende plaats in een initiatief, georganiseerd door een openbaar bestuur, bedraagt in 2012 :<br>
+1° voor de eerste 21 plaatsen : 2.410,63 euro;<br>
+2° vanaf de 22e plaats : 1.602,81 euro;<br>
+3° vanaf de 232e plaats : 1.415,87 euro.<br>
+<br>
+Het forfaitaire subsidiebedrag per erkende plaats in een initiatief, georganiseerd door een privaat bestuur, bedraagt in 2012 :<br>
+1° voor de eerste 21 plaatsen : 2.420,46 euro;<br>
+2° vanaf de 22e plaats : 1.608,63 euro;<br>
+3° vanaf de 232e plaats : 1.421,02 euro.<br>
+<br>
 §5. Een aanvullende subsidie in het kader van de werkdrukvermindering wordt toegekend, naar rato van de arbeidsprestaties, voor elk door Kind en Gezin gesubsidieerd personeelslid (1VTE) in de erkende kinderdagverblijven en diensten voor onthaalouders, voor elke coördinator en elke kindbegeleider in de initiatieven voor buitenschoolse opvang, voor elke door Kind en Gezin gesubsidieerde begeleider in de buitenschoolse opvang in aparte lokalen in kinderdagverblijven, voor de door Kind en Gezin gesubsidieerde personeelsleden binnen het experimentele kader van projecten voor kinderopvang in buurt- en nabijheidsdiensten en in lokale diensten van buurtgerichte opvang, voor de personeelsleden met een gewezen DAC-statuut en voor elk door Kind en Gezin gesubsidieerd personeelslid in een gemandateerde voorziening.<br>
 <br>
 Die aanvullende subsidie wordt voor ieder werkingsjaar apart berekend op basis van specifieke bedragen zoals voorzien in de begroting, voor alle opvangvoorzieningen.<br>
@@ -120,7 +43,19 @@ Voor een vzw geldt het volgende : op 1 januari van het subsidiejaar in kwestie w
 <br>
 Voor een openbaar bestuur geldt het volgende : op 1 januari van het subsidiejaar in kwestie wordt voor elk gesubsidieerd personeelslid (1 VTE) in kinderdagverblijven en diensten voor onthaalouders, georganiseerd door een openbaar bestuur, een forfaitair subsidiebedrag werkdrukvermindering voorzien. Voor gesubsidieerde plaatsen op 1 januari van het subsidiejaar in kwestie binnen een initiatief voor buitenschoolse opvang of een buitenschoolse opvang verbonden aan een kinderdagverblijf, georganiseerd door een openbaar bestuur, geldt volgende omzettingsregel : 1 plaats betekent 0,040 fractie van het voorziene subsidiebedrag werkdrukvermindering per VTE voor een initiatief voor buitenschoolse opvang en 1 plaats betekent 0,125 fractie van de voorziene werkdrukvermindering per VTE voor een plaats binnen een buitenschoolse opvang verbonden aan een kinderdagverblijf. Voor een plaats in een buurt- en nabijheidsdienst en een lokale dienst van buurtgerichte opvang geldt volgende omzettingsregel : 1 plaats in een lokale dienst voor voorschoolse opvang komt overeen met 0,175 VTE, 1 plaats buitenschools komt overeen met 0,125 VTE.<br>
 <br>
-Voor de gemandateerde voorziening, georganiseerd door een openbaar bestuur, wordt per VTE daartoe door Kind en Gezin gesubsidieerd personeelslid een forfaitair bedrag toegekend.
+Voor de gemandateerde voorziening, georganiseerd door een openbaar bestuur, wordt per VTE daartoe door Kind en Gezin gesubsidieerd personeelslid een forfaitair bedrag toegekend.<br>
+<br>
+§ 6. Kind en Gezin bepaalt per initiatief op basis van het personeelsregister met FCUD gesubsidieerde personeelsleden, het equivalent aan FCUD-plaatsen.<br>
+<br>
+In 2012 ontvangt een initiatief, georganiseerd door een openbaar bestuur, per FCUD-plaats :<br>
+1° voor de eerste 21 FCUD-plaatsen : 10,12 euro;<br>
+2° vanaf de 22e FCUD-plaats : 5,06 euro;<br>
+3° vanaf de 232e<sup> </sup>FCUD-plaats : 3,37 euro.<br>
+<br>
+In 2012 ontvangt een initiatief, georganiseerd door een privaat bestuur, per FCUD-plaats :<br>
+1° voor de eerste 21 FCUD-plaatsen : 30,25 euro;<br>
+2° vanaf de 22e FCUD-plaats : 17,64 euro;<br>
+3° vanaf de 232e FCUD-plaats : 15,28 euro.
 
 ### ART. 4.
 
@@ -138,7 +73,7 @@ Voor de gemandateerde voorziening, georganiseerd door een openbaar bestuur, word
 
 ### ART. 7.
 
-De forfaitaire bedragen, vermeld in dit besluit, worden elk jaar op 1 januari verhoogd met de procentuele stijging van de index van de consumptieprijzen tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar. In 2011 worden de bedragen, vermeld in dit besluit, op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het kalenderjaar 2008 en 1 november van het kalenderjaar 2010.
+De forfaitaire bedragen, vermeld in dit besluit, worden elk jaar op 1   januari verhoogd met de procentuele stijging van de index van de   consumptieprijzen tussen 1 november van het vorige kalenderjaar en 1 november   van het daaraan voorafgaande kalenderjaar. In 2011 worden de bedragen, vermeld   in dit besluit, op 1 januari verhoogd met de procentuele stijging van het   gezondheidsindexcijfer tussen 1 november van het kalenderjaar 2008 en 1 november   van het kalenderjaar 2010.<BR><BR>In afwijking van het eerste lid worden de   forfaitaire bedragen, vermeld in artikel 3, § 4 en § 6, niet geïndexeerd in 2012   en 2013.
 
 ### ART. 8.
 
