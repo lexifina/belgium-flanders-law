@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022473,
+  "title": "Besluit van de Vlaamse Regering van 2012-10-12 tot wijziging van de artikelen 20, 21 en 35 van het besluit van de Vlaamse Regering van 12 oktober 2001 ter uitvoering van het decreet van 19 december 1997 betreffende het algemeen welzijnswerk",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022473/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "96c2d9731b1483d20b09724e99cc3b9ad2ab30aca9cc5d19ecbce742eede85a7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022473&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2012-10-12",
+  "gazette": "2012-11-21",
+  "numac": 2012206499,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
