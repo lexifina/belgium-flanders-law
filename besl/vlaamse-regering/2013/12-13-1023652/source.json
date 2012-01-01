@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023652,
+  "title": "Besluit van de Vlaamse Regering van 2013-12-13 tot wijziging van diverse bepalingen met het oog op de uitvoering van VIA 4, de interne staatshervorming en de versterking van de omkadering in de diensten voor oppashulp",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023652/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "65943c496d257468dab14ac7b53d3154506ace2621d3121d7d6484d2b4800a7e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023652&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2013-12-13",
+  "gazette": "2014-01-24",
+  "numac": 2014035037,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
