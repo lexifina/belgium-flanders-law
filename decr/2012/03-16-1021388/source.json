@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021388,
+  "title": "Decreet van 2012-03-16 houdende wijziging van het kaderdecreet bestuurlijk beleid van 18 juli 2003 wat betreft beleidsondersteunende taken binnen een intern verzelfstandigd agentschap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021388/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "26a71922807fba7d6e9fd8c6dfc13793b286a5200b49a2bc702fbb6f80c1a7fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021388&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2012-03-16",
+  "gazette": "2012-03-30",
+  "numac": 2012035357,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
