@@ -34,7 +34,7 @@ Het zelfstandig kinderdagverblijf en de zelfstandige buitenschoolse opvangvoorzi
 
 ### ART. 6.
 
-De financiële basisondersteuning bedraagt 543,51 euro per opvangplaats op jaarbasis en is beperkt tot maximaal 28 opvangplaatsen per opvangvoorziening.<br /><br />
+De financiële basisondersteuning bedraagt 543,51 euro per opvangplaats op jaarbasis en is beperkt tot maximaal :<br />1° 28 opvangplaatsen per zelfstandige buitenschoolse opvangvoorziening;<br />2° 50 opvangplaatsen per zelfstandig kinderdagverblijf. <br /><br /><br />
 
 ### ART. 7.
 
@@ -60,7 +60,7 @@ De verantwoordelijken en/of de medewerkers van het zelfstandig kinderdagverblijf
 
 ### ART. 12.
 
-Het zelfstandig kinderdagverblijf en de zelfstandige buitenschoolse opvangvoorziening beantwoorden aan een kwaliteitsnorm in de dienstverlening door te voldoen aan de hiernavolgende voorwaarden : <br />1° ze behalen per KWAPOI-afname gemiddeld minimaal 4;<br />2° ze evalueren zichzelf jaarlijks met het Z-KWAPOI of ZiKo.<br /><br />
+Het zelfstandig kinderdagverblijf en de zelfstandige buitenschoolse opvangvoorziening beantwoorden aan een kwaliteitsnorm in de dienstverlening door te voldoen aan de hiernavolgende voorwaarden : <br />1° ze behalen per KWAPOI-afname gemiddeld minimaal 4;<br />2° ze evalueren zichzelf jaarlijks met het Z-KWAPOI of ZiKo.<br /><br />Kind en Gezin kan uitzonderlijk en eenmalig beslissen dat de financiële ondersteuning toch behouden blijft bij een lagere KWAPOI-score. In dat geval zal Kind en Gezin specifieke voorwaarden opleggen.<br /><br />
 
 ### ART. 13.
 

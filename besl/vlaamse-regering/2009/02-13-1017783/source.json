@@ -2,16 +2,16 @@
   "codex_id": 1017783,
   "title": "Besluit van de Vlaamse Regering van 2009-02-13 houdende de voorwaarden inzake financiële ondersteuning van zelfstandige opvangvoorzieningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017783/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "47e49d37a47c8cc8b2d4506f465a17e82ee0d3b9b7d14ab5894ef3467acd85cc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017783/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "d0edf836bc8f7b48cda5e2fd52228d8bc3b6a4620fd01fa0b812eb3e56a861d9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017783&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2012-01-01",
   "made": "2009-02-13",
   "gazette": "2009-04-09",
   "numac": 2009201520,
   "document_start": "2009-01-01",
   "document_end": "2014-03-31",
-  "in_force": "2011-01-01",
+  "in_force": "2012-01-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }
