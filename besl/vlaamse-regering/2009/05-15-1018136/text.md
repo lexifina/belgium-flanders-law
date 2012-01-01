@@ -102,7 +102,7 @@ Als het Vlaams Netwerk de subsidie-enveloppe in het jaar waarvoor die enveloppe 
 
 ### ART. 22.
 
-De subsidie-enveloppe aan het Vlaams Netwerk wordt geïndexeerd op de wijze die bepaald is in de wet van 1 maart 1977 houdende de inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen worden gekoppeld. Die koppeling aan het indexcijfer wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br /><br />
+<P>De subsidie-enveloppe aan het Vlaams Netwerk wordt geïndexeerd op de wijze   die bepaald is in de wet van 1 maart 1977 houdende de inrichting van een stelsel   waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de   consumptieprijzen worden gekoppeld. Die koppeling aan het indexcijfer wordt   berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24   december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's   lands concurrentievermogen.</P>  <P>Binnen de perken van de begrotingskredieten wordt de subsidie voor de jaren   2012 en 2013 aangepast met toepassing van de Vlaamse Intersectorale Akkoorden   voor de Socialprofitsector, ook voor de personeelsleden met een gesco- en   sociale-maribelstatuut.<BR><BR></P>
 
 ## Afdeling II Verenigingen waar armen het woord nemen
 
@@ -160,7 +160,7 @@ Om in aanmerking te komen voor een subsidie moeten de verenigingen voor 1 oktobe
 
 ### ART. 35.
 
-De subsidie aan de verenigingen wordt geïndexeerd op de wijze, vermeld in artikel 22.<br /><br />
+<P>De subsidie aan de verenigingen wordt geïndexeerd op de wijze, vermeld in   artikel 22.</P>  <P>Binnen de perken van de begrotingskredieten wordt de subsidie voor de jaren   2012 en 2013 aangepast met toepassing van de Vlaamse Intersectorale Akkoorden   voor de Socialprofitsector, ook voor de personeelsleden met een gesco- en   sociale-maribelstatuut.<BR><BR></P>
 
 ### ART. 36.
 
@@ -238,7 +238,7 @@ Als de opleidingsorganisatie de subsidie-enveloppe in het jaar waarvoor die enve
 
 ### ART. 52.
 
-De subsidie wordt geïndexeerd op de wijze vermeld in artikel 22.<br /><br />
+<P>De subsidie wordt geïndexeerd op de wijze vermeld in artikel 22.</P>  <P>Binnen de perken van de begrotingskredieten wordt de subsidie voor de jaren   2012 en 2013 aangepast met toepassing van de Vlaamse Intersectorale Akkoorden   voor de Socialprofitsector, ook voor de personeelsleden met een gesco- en   sociale-maribelstatuut.<BR><BR></P>
 
 ### ART. 53.
 
