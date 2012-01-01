@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022475,
+  "title": "Besluit van de Vlaamse Regering van 2012-10-12 tot wijziging van de regelgeving betreffende de loopbaanonderbreking van de personeelsleden van het onderwijs, de centra voor leerlingenbegeleiding en de hogescholen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022475/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "ee3ac8952abb992cdf4ff2533d828b1ab18d478e1d4082f81a8ab5f6d4fb2ce9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022475&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2012-10-12",
+  "gazette": "2012-11-21",
+  "numac": 2012206465,
+  "document_start": "2012-09-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
