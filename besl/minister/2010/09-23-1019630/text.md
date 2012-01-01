@@ -6,32 +6,32 @@ De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° specifieke steun : specifieke steunmaatregelen als vermeld in artikel 68, lid 1, a), ii), van Verordening (EG) nr. 73/2009; <br />2° erkende voedselkwaliteitsregeling : voedselkwaliteitsregeling erkend overeenkomstig artikel 7 van het besluit van de Vlaamse Regering van 25 november 2005 betreffende de erkenning van voedselkwaliteitsregelingen met toepassing van Verordening (EG) nr. 1257/1999; 3° erkend centrum : erkend centrum als vermeld in artikel 1, 4° van het besluit van de Vlaamse Regering van 25 november 2005 betreffende de erkenning van voedselkwaliteitsregelingen met toepassing van Verordening (EG) nr. 1257/1999;<br />4° landbouwernummer : het landbouwernummer vermeld in artikel 1, 9°, van het ministerieel besluit van 15 maart 2006 betreffende het autonome beheer van land- en tuinbouwbedrijven en het kunstmatig creëren van betalingsvoorwaarden;<br />5° bevoegde entiteit : het Agentschap voor Landbouw en Visserij;<br />6° besluit van de Vlaamse Regering van 8 juli 2005 : het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden;<br />7° Verordening (EG) nr. 73/2009 : Verordening (EG) nr. 73/2009 van de Raad van 19 januari 2009 tot vaststelling van de gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers tot wijziging van Verordeningen (EG) nr. 1290/2005, (EG) nr. 247/2006, (EG) nr. 378/2007 en tot intrekking van Verordening (EG) nr. 1782/2003;<br />8° Verordening (EG) nr. 1122/2009 : Verordening (EG) nr. 1122/2009 van de Commissie van 30 november 2009 houdende bepalingen ter uitvoering van Verordening (EG) nr. 73/2009 van de Raad wat betreft de randvoorwaarden, de modulatie en het geïntegreerd beheers- en controlesysteem in het kader van de bij die verordening ingestelde regelingen inzake rechtstreekse steunverlening aan landbouwers en ter uitvoering van Verordening (EG) nr. 1234/2007 van de Raad wat betreft de randvoorwaarden in het kader van de steunregeling voor de wijnsector.
+...
 
 ### ART. 2.
 
-Voor de specifieke steun voor de verbetering van de kwaliteit van landbouwproducten, vermeld in artikel 2decies van het besluit van de Vlaamse Regering van 8 juli 2005, bedraagt de totale beschikbare enveloppe 2.000.000 euro in de kalenderjaren 2010 en 2011.
+...
 
 ### ART. 3.
 
-§ 1. De landbouwer die in aanmerking wil komen voor specifieke steun, dient uiterlijk op 30 september van het kalenderjaar in kwestie een steunaanvraag in bij de bevoegde entiteit. <br /><br />De steunaanvraag bevat ten minste de volgende gegevens :<br />1° de identificatiegegevens van de aanvrager :<br />a) de naam en de voornaam. Als de aanvrager een rechtspersoon is, bevat de aanvraag de benaming van de rechtspersoon en de naam en de voornaam van de persoon die de rechtspersoon vertegenwoordigt;<br />b) het adres of de maatschappelijke zetel;<br />c) het landbouwernummer;<br />2° een verklaring van de landbouwer dat hij lid is van een of meer erkende voedselkwaliteitsregelingen;<br />3° een verklaring van de landbouwer dat hij heeft kennisgenomen van de voorwaarden voor de specifieke steun;<br />4° de toestemming van de landbouwer aan de erkende centra om identificatie- en controlegegevens uit te wisselen met de bevoegde entiteit als de bevoegde entiteit daarom vraagt. <br /><br />De bevoegde entiteit stelt formulieren voor de steunaanvraag ter beschikking. <br /><br />§ 2. Als een landbouwer op 30 juni van het kalenderjaar in kwestie ingeschreven is bij een erkende voedselkwaliteitsregeling en er daarna een bedrijfsovername plaatsvindt, wordt de specifieke steun uitbetaald aan de landbouwer die de steunaanvraag indient. <br /><br />Als de steunaanvraag wordt ingediend door de overnemer, moet de overnemer op 31 december over het certificaat beschikken. <br /><br />Als de steunaanvraag wordt ingediend door de overlater, moet de overlater op de datum van overname over het certificaat beschikken.
+...
 
 ### ART. 4.
 
-Met toepassing van artikel 20, derde lid, van Verordening (EG) nr. 1122/2009 vraagt de bevoegde entiteit bij de erkende centra de bewijsstukken op die bij de steunaanvraag gevoegd moeten worden. Overeenkomstig artikel 29, tweede lid, en artikel 46, tweede lid, van Verordening (EG) nr. 1122/2009 bezorgt elk erkend centrum aan de bevoegde entiteit een bestand van alle landbouwers die zich in het kalenderjaar in kwestie uiterlijk op 30 juni bij haar hebben ingeschreven en op 31 december het certificaat van de voedselkwaliteitsregeling hebben behaald, waarbij een verklaring gevoegd is dat de gegevens betrouwbaar en juist zijn. <br /><br />Het bestand, vermeld in het eerste lid, bevat ten minste de volgende gegevens :<br />1° de naam en het adres van de landbouwer;<br />2° het landbouwernummer en exploitatienummer van de landbouwer;<br />3° het bewijs van inschrijving;<br />4° de datum waarop de controle op de naleving van de lastenboeken verbonden aan de erkende voedselkwaliteitsregeling is uitgevoerd en het resultaat van die controle.
+...
 
 ### ART. 5.
 
-Het steunbedrag wordt berekend overeenkomstig artikel 2decies van het besluit van de Vlaamse Regering van 8 juli 2005. De premie bedraagt ten hoogste 500 euro per landbouwer en per label en mag niet hoger zijn dan de werkelijke kosten. De werkelijke kosten omvatten de jaarlijkse deelname- en controlekosten en de jaarlijkse kosten verbonden aan het naleven van de bovenwettelijke eisen uit het lastenboek dat verbonden is aan de erkende voedselkwaliteitsregeling.
+...
 
 ### ART. 6.
 
-Overeenkomstig artikel 50, lid 1, van Verordening (EG) nr. 1122/2009 onderwerpt de bevoegde entiteit minstens 1 % van de landbouwers die een steunaanvraag indienen aan controles op de naleving van de randvoorwaarden. <br /><br />Overeenkomstig artikel 30, lid 2, e), van Verordening (EG) nr. 1122/2009 controleert de bevoegde entiteit 10 % van de derde instanties waar een beroep op gedaan wordt. Overeenkomstig artikel 69 van voormelde verordening sluit de bevoegde entiteit bij vaststelling van een grove nalatigheid of het met opzet doorgeven van foute gegevens de derde instantie minstens een jaar uit van dienstverlening.
+...
 
 ### ART. 7.
 
-Overtredingen van de bepalingen van dit besluit worden opgespoord, vastgesteld en bestraft overeenkomstig de bepalingen van de wet van 28 maart 1975 betreffende de handel in landbouw-, tuinbouw- en zeevisserijproducten.
+...
 
 ### ART. 8.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2010, met uitzondering van artikel 7 dat in werking treedt de dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad.
+...
