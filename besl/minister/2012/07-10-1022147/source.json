@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022147,
+  "title": "Ministerieel besluit van 2012-07-10 houdende de voorwaarden van de geformaliseerde samenwerkingsverbanden van multidisciplinaire teams die erkend en gesubsidieerd worden door het Vlaams Agentschap voor Personen met een Handicap",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022147/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "c8ae03749a18152e474fb909b4217f23f5179f54b69c14433e71635fcb6f0416",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022147&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2012-07-10",
+  "gazette": "2012-08-23",
+  "numac": 2012204637,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
