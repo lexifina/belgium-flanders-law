@@ -2,16 +2,16 @@
   "codex_id": 1020562,
   "title": "Ministerieel besluit van 1998-11-27 houdende vaststelling van de bijstandsvelden inzake sociale integratie van personen met een handicap",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020562/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "e0aab049976d2311049b423f1e30df7944c011be004b0518155b422a7a0bb941",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020562/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "3f0ac7483202c0dc74c055304c7e026aadb74201be1562034e6751b976635ef8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020562&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2012-01-01",
   "made": "1998-11-27",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": null,
   "document_end": "2011-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2012-01-01",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }
