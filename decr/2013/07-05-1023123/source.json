@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023123,
+  "title": "Decreet van 2013-07-05 houdende wijziging van diverse bepalingen van het decreet van 13 april 1999 tot regeling van de rechtspositie van het statutair en het contractueel personeel van het VRT-Filharmonisch Orkest en het VRT-koor",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023123/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "73d1363e806b2b209563d67050badfc53dd455ad44a4d720b13170f6fa1b95b3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023123&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2013-07-05",
+  "gazette": "2013-07-29",
+  "numac": 2013035657,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
