@@ -1094,7 +1094,7 @@ De subsidie-enveloppes worden vastgesteld door het aantal bedden voor dag-   en 
 
 ### ART. X. 5.
 
-§ 1. De Vlaamse regering kent de subsidie-enveloppes toe binnen de beschikbare begrotingskre-dieten.<br /><br />De som van de subsidie-enveloppes op jaarbasis kan nooit minder bedragen dan 718.000 euro. Dit bedrag wordt jaarlijks aangepast aan de gezondheidsindex van 2002.<br /><br />§ 2. De Vlaamse regering kan nadere regelen met betrekking tot de toekenning van de subsidie-enveloppes vastleggen en de bepalingen van artikel X. 3 verder preciseren.
+§ 1. De Vlaamse Regering kent de subsidie-enveloppes toe binnen de beschikbare begrotingskredieten.<br /><br />Voor 2012 bedraagt de subsidie-enveloppe 899.000 euro. Vanaf 2013 wordt dit bedrag jaarlijks geïndexeerd op basis van de gezondheidsindex. De som van de subsidie-enveloppes op jaarbasis kan nooit minder bedragen dan 899.000 euro. <br /><br />§ 2. De Vlaamse regering kan nadere regelen met betrekking tot de toekenning van de subsidie-enveloppes vastleggen en de bepalingen van artikel X. 3 verder preciseren.
 
 ## ONDERAFDELING 3 WERKING
 
