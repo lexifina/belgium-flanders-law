@@ -74,7 +74,7 @@ Er wordt een Investeringsfonds voor grond- en woonbeleid voor Vlaams Brabant opg
 
 ### ART. 17.
 
-Het Investeringsfonds voor grond- en woonbeleid voor Vlaams Brabant heeft rechtspersoonlijkheid. Het wordt opgericht als een instelling van categorie A in de zin van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut. De bepalingen van die wet zijn op het fonds van toepassing voor zover er in dit decreet niet wordt van afgeweken.
+<P>Het Investeringsfonds voor grond- en woonbeleid voor Vlaams-Brabant heeft   rechtspersoonlijkheid. Het wordt opgericht als een Vlaamse openbare instelling   van het type A in de zin van het decreet van 8 juli 2011 houdende regeling van   de begroting, de boekhouding, de toekenning van subsidies en de controle op de   aanwending ervan, en de controle door het Rekenhof. De bepalingen van het   voormelde decreet zijn op het fonds van toepassing voor zover er in dit decreet   niet wordt van afgeweken.</P>
 
 ### ART. 18.
 
