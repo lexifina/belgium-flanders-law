@@ -526,7 +526,7 @@ Alle statutaire personeelsleden die op het ogenblik van het afsluiten van de ove
 
 ### ART. 68.
 
-§ 1. Zolang het decreet van 7 mei 2004 houdende regeling van de begrotingen, de boekhouding, de controle inzake subsidies, en de controle door het Rekenhof niet in werking is getreden, zijn artikelen 2, 3, 4, 5 en 6, van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut van toepassing op de LOM Oostende-Brugge, op de LOM Kortrijk-Wevelgem en op de LOM Antwerpen. <br /><br />§ 2. Voor de toepassing van bepalingen, vermeld in § 1, worden de LOM Oostende-Brugge, de LOM Kortrijk-Wevelgem en de LOM Antwerpen beschouwd als instellingen van categorie B.
+...
 
 ### ART. 69.
 
