@@ -52,13 +52,13 @@ De Vlaamse minister voor Economie, Buitenlands beleid, Landbouw en Plattelandsbe
 
 ### ART. 10.
 
-§ 1. De toekenning van visserijinspanning aan inspanningsgroepen gebeurt door toewijzing van zeedagen. Voor volgende inspanningsgroepen kan visserijinspanning worden toegekend :<br />i.c.e.s.-gebieden IV en VIId : TR1, TR2, BT1, BT2, GN1 en GT1<br />i.c.e.s.-gebied VIIa : TR2 en BT2<br /><br />Tijdens dezelfde visreis is het verboden vistuig te gebruiken dat tot verschillende inspanningsgroepen behoort.<br /><br />§ 2. Het is voor vissersvaartuigen verboden in de periode 1 februari 2010 tot en met 31 januari 2011 meer dan 180 zeedagen te presteren in de i.c.e.s.-gebieden IV, VIId en VIIa. Van die toegekende hoeveelheid mogen vaartuigen met een motorvermogen groter dan 221 kW met vistuig bodemtrawls en zegen (TR2) of boomkor (BT1 en BT2) maximaal 150 zeedagen presteren in de i.c.e.s.-gebieden IV en VIId. Van deze laatste toegekende hoeveelheid mogen vaartuigen met vistuig bodemtrawls en zegen (TR1) maximaal 75 zeedagen presteren in de i.c.e.s.-gebieden IV en VIId.<br /><br />§ 3. Het aantal toegekende zeedagen in de kabeljauwherstelgebieden, voor de periode 1 februari 2010 tot en met 31 januari 2011 wordt verminderd met de overschrijdingen van het aantal zeedagen toegekend conform artikel 10 van het ministerieel besluit van 17 december 2008.<br /><br />§ 4. Het wordt niet toegestaan dat tussen individuele vissersvaartuigen zeedagen in de kabeljauwherstelgebieden worden overgedragen.<br /><br />§ 5. Bij de overschrijding van de grenzen van de i.c.e.s.-gebieden, vermeld in § 1, registreren de kapiteins van vissersvaartuigen in hun logboek, de dag, het tijdstip en de positie van overschrijding.<br /><br />§ 6. Vissersvaartuigen waarvoor een of meer vistuigen conform bijlage IIa worden gemeld, krijgen een overeenkomstig speciaal visdocument 2010 voor de kabeljauwherstelgebieden IV en VIId. De vissersvaartuigen die dit speciaal visdocument niet hebben, mogen niet in de i.c.e.s.-gebieden IV en VIId vissen.<br /><br />§ 7. Vissersvaartuigen die in 2006 of in 2007 of in 2008 gevist hebben in het i.c.e.s.-gebied VIIa krijgen een speciaal visdocument 2010 voor het kabeljauwherstelgebied VIIa. De vissersvaartuigen die dit speciaal visdocument niet hebben, mogen niet in het i.c.e.s.-gebied VIIa vissen.<br /><br />§ 8. Teneinde een speciaal visdocument te kunnen ontvangen, dienen reders voor 22 januari 2010 de keuze van de door hun vaartuig te gebruiken vistuigen in de periode 1 februari 2010 tot en met 31 januari 2011, bij de dienst aan te melden. Veranderingen van vistuig binnen die beheersperiode dienen eveneens aangemeld te worden.<br /><br />§ 9. De visvergunning van vissersvaartuigen die hun aantal zeedagen overschrijden, kan voor vijf opeenvolgende dagen worden ingetrokken. Het toegekende aantal zeedagen in de kabeljauwherstelgebieden wordt in 2011 overeenkomstig gekort.<br /><br />§ 10. Vissersvaartuigen krijgen 24 vereveningsdagen, die opgeteld kunnen worden bij de maximum aantallen zeedagen, namelijk 180 en 150, vermeld in § 2.
+...
 
 ## Afdeling II. Communautaire zeedagen tongherstelgebied (ices-gebied VIIe)
 
 ### ART. 11.
 
-§ 1. Het systeem van beperking van aantal zeedagen in het gebied VIIe ingesteld overeenkomstig bijlage IIc van verordening (EG) 43/2009 van de Raad van 16 januari 2009 is van toepassing in januari 2010. Het wordt vanaf 1 februari 2010 vervangen door het systeem dat wordt ingesteld overeenkomstig bijlage IIc van de quotaverordening (EG) 2010 van de Raad van december 2009.<br /><br />§ 2. Het aantal zeedagen in het gebied VIIe, vermeld in tabel I van bijlage IIc, toegekend voor de periode 1 februari 2010 tot en met 31 januari 2011, wordt verminderd met de overschrijding van het aantal zeedagen toegekend conform artikel 11 van het ministerieel besluit van 17 december 2008.<br /><br />§ 3. Het wordt niet toegestaan dat tussen individuele vissersvaartuigen zeedagen in gebied VIIe worden overgedragen.<br /><br />§ 4. Vissersvaartuigen die of in 2002, of in 2003, of in 2004, of in 2005, of in 2006, of in 2007, of in 2008, of in 2009 met de boomkor gevist hebben in VIIe krijgen een speciaal visdocument VIIe 2010.<br /><br />§ 5. Bij de overschrijding van de grenzen in het i.c.e.s.-gebied VIIe registreren de kapiteins van vissersvaartuigen in hun logboek de dag, het tijdstip en de positie van overschrijding.<br /><br />§ 6. De visvergunning van vissersvaartuigen die hun aantal zeedagen in het gebied VIIe overschrijden, kan voor vijf opeenvolgende dagen worden ingetrokken. Het speciaal visdocument VIIe, afgeleverd overeenkomstig bijlage IIc, wordt in 2011 voor maar zes maanden toegekend.
+...
 
 ## Afdeling III. Vaartdagen
 
@@ -68,7 +68,7 @@ De Vlaamse minister voor Economie, Buitenlands beleid, Landbouw en Plattelandsbe
 
 ### ART. 13.
 
-Zodra een vissersvaartuig het maximaal aantal toegelaten vaartdagen, vermeld in artikel 12, overschrijdt met twee vaartdagen worden die vaartdagen in mindering gebracht van het maximaal toegestane aantal vaartdagen dat vanaf 1 januari 2011 aan dat vissersvaartuig zal worden toegekend. Het aantal in mindering te brengen dagen wordt vermeerderd met één vaartdag per twee vaartdagen overschrijding.
+...
 
 ## TITEL II. Bijzondere bepalingen
 
@@ -178,11 +178,11 @@ Zodra een vissersvaartuig het maximaal aantal toegelaten vaartdagen, vermeld in 
 
 ### ART. 30.
 
-§ 1. In geval van overtredingen van artikel 10 tot en met 12, van artikelen 14 tot en met 21 en van artikel 23 tot en met 28, of van de beperkingen aangebracht aan de visvergunningen, kan de visvergunning die aan het vissersvaartuig werd afgeleverd voor een periode van minimaal vijf opeenvolgende dagen worden ingetrokken.<br /><br />De periode van intrekking van de visvergunning treedt in werking op de derde dag die volgt op die van de notificatie van de intrekking van de visvergunning die de dienst met een aangetekende brief aan de eigenaar van het vissersvaartuig in kwestie heeft gestuurd. Tijdens die periode moet het vissersvaartuig inactief liggen in een Belgische vissershaven. Het maximale aantal vaartdagen, zoals bepaald in artikel 12, wordt verminderd met het aantal dagen van intrekking van de visvergunningen.<br /><br />§ 2. Als de toegewezen vangstmogelijkheden, vermeld in artikel 14 tot en met 20, door het vissersvaartuig worden overschreden, wordt de overschrijding, vermenigvuldigd met een coëfficiënt van 1,2 in mindering gebracht op de vangstmogelijkheden die aan dat vaartuig zullen worden toegewezen in de overeenkomstige periode van het jaar 2011.
+...
 
 ### ART. 31.
 
-Overtredingen van de bepalingen van dit besluit en van de beperkingen aangebracht aan de visvergunningen worden opgespoord, vastgesteld en gestraft overeenkomstig de bepalingen van de wet van 12 april 1957, waarbij de koning wordt gemachtigd maatregelen voor te schrijven ter bescherming van de biologische hulpbronnen van de zee en van de wet van 28 maart 1975 betreffende de handel in landbouw-, tuinbouw- en zeevisserijproducten.
+...
 
 ### ART. 32.
 
