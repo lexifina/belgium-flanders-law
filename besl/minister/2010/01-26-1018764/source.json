@@ -2,16 +2,16 @@
   "codex_id": 1018764,
   "title": "Ministerieel besluit van 2010-01-26 houdende de vastlegging van bevolkingsprojecties voor de toepassing van de programmacijfers voor de diensten voor gezinszorg en aanvullende thuiszorg en de diensten voor oppashulp",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018764/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "715ee9e27668e232849bbfd69a3f18161a5796a82f7bf3bbbfe7755584957c0e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018764/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "760b2178b7738954e5a78c21df2aa8a158a0500439882bdae3f18e1c3bd45147",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018764&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2012-01-01",
   "made": "2010-01-26",
   "gazette": "2010-02-15",
   "numac": 2010200560,
   "document_start": "2010-01-01",
   "document_end": "2011-12-31",
-  "in_force": "2010-01-01",
+  "in_force": "2012-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }

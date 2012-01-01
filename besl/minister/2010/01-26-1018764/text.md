@@ -6,16 +6,16 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° het besluit van de Vlaamse Regering van 24 juli 2009 : het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers;<br />2° de SVR-2005 bevolkingsprojecties : de SVR-2005 bevolkingsprojecties per gemeente voor de periode 2004-2025, die werden uitgevoerd door het toenmalige Centrum voor Bevolkings- en Gezinsstudies van het departement Welzijn, Volksgezondheid en Cultuur, thans Studiedienst van de Vlaamse Regering;<br />3° de Bevolkingsvooruitzichten 2007-2060 : de bevolkingsvooruitzichten 2000-2050 van het Nationaal Instituut voor de Statistiek en het Federaal Planbureau.<br /><br />
+...
 
 ### ART. 2.
 
-Voor het Nederlandse taalgebied worden de resultaten voor de afzonderlijke kalenderjaren 2011 tot en met 2015 van de SVR-2005 bevolkingsprojecties vastgelegd voor de toepassing van de programmacijfers voor gezinszorg, vermeld in artikel 2 van bijlage I bij het besluit van de Vlaamse Regering van 24 juli 2009.<br /><br />Voor het tweetalige gebied Brussel-Hoofdstad wordt 30 % van de resultaten voor de afzonderlijk kalenderjaren 2011 tot en met 2015 van de bevolkingsprojectie, zoals vervat in de Bevolkingsvooruitzichten 2007-2060, vastgelegd voor de toepassing van de programmacijfers voor gezinszorg, vermeld in het eerste lid.<br /><br />
+...
 
 ### ART. 3.
 
-Voor het Nederlandse taalgebied worden de resultaten voor de afzonderlijke kalenderjaren 2015 tot en met 2019 van de SVR-2005 bevolkingsprojecties vastgelegd voor de toepassing van de programmacijfers voor de diensten voor oppashulp, vermeld in artikel 3 van bijlage III bij het besluit van de Vlaamse Regering van 24 juli 2009.<br /><br />Voor het tweetalige gebied Brussel-Hoofdstad wordt 30 % van de resultaten voor de afzonderlijk kalenderjaren 2015 tot en met 2019 van de bevolkingsprojectie, zoals vervat in de Bevolkingsvooruitzichten 2007-2060, vastgelegd voor de toepassing van de programmacijfers voor de diensten voor oppashulp, vermeld in het eerste lid.<br /><br />
+...
 
 ### ART. 4.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2010.<br /><br />
+...
