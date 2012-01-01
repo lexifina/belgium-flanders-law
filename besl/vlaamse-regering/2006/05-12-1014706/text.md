@@ -6,56 +6,56 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 3 maart 1993 houdende h
 
 ### ART. 1.
 
-§ 1. Binnen de perken van de daartoe bestemde kredieten, ingeschreven op zijn begroting, kan Toerisme Vlaanderen een premie toekennen om gebouwen, installaties, inrichtingen en voorzieningen op te richten of te moderniseren voor de exploitatie van een openluchtrecreatief terrein, met uitzondering van private gedeelten, restaurant en drankgelegenheden.<br /><br />§ 2. De vermelde subsidiabele uitgaven hebben betrekking op :<br />1° brandveiligheidswerkzaamheden;<br />2° sanitaire installaties;<br />3° elektriciteits-, verlichtingsvoorzieningen en andere nutsleidingen;<br />4° riolering, waterzuivering, drainering en waterleidingsnet;<br />5° wegenaanleg, verhardingen en afsluitingen (met inbegrip van inheemse groenafsluitingen);<br />6° onroerende (of onroerend door bestemming) sport- en spelinfrastructuur;<br />7° (onroerende) installaties voor de verzameling en het selectief sorteren van afval;<br />8° bouw en (onroerende) inrichting receptieruimte.<br /><br />De Vlaamse minister, bevoegd voor het toerisme, bepaalt de subsidiabele uitgaven nader.<br /><br />
+...
 
 ### ART. 2.
 
-§ 1. De premieaanvraag gebeurt bij een ter post aangetekende brief, per fax of elektronisch, mits dit een ontvangstbewijs oplevert vanwege de geadresseerde, gericht aan Toerisme Vlaanderen. De premie kan op straffe van onontvankelijkheid enkel worden aangevraagd door :<br />1° de eigenaar. Als die niet de exploitant is, moet hij schriftelijk bewijzen dat de exploitant gedurende minstens vijf jaar een recht op exploitatie heeft.<br />2° de exploitant. Als die niet de eigenaar is, moet hij schriftelijk bewijzen dat de eigenaar akkoord gaat met de uit te voeren werkzaamheden.<br /><br />§ 2. Op straffe van onontvankelijkheid wordt de premie aangevraagd voor de exploitatie van :<br />1° een nieuw op te richten openluchtrecreatief terrein, waarvoor een vergunning zal worden aangevraagd op grond van het decreet van 10 juli 2008 betreffende het toeristische logies;<br />2° een openluchtrecreatief terrein dat beschikt over een vergunning op grond van het decreet van 10 juli 2008 betreffende het toeristische logies;<br />3° een openluchtrecreatief terrein als vermeld in artikel 3, § 2, 4°, van het decreet van 10 juli 2008 betreffende het toeristische logies, waarvoor een vergunning zal worden aangevraagd op grond van het decreet van 10 juli 2008 betreffende het toeristische logies;<br />4° een openluchtrecreatief terrein dat op 31 december 2009 beschikte over een vergunning op grond van het decreet van 3 maart 1993 houdende het statuut van de terreinen voor openluchtrecreatieve verblijven en waarvoor de vergunningsprocedure, vermeld in artikel 30, § 1, van het decreet van 10 juli 2008 betreffende het toeristische logies, nog niet is afgelopen.<br /><br />§ 3. De formulieren waarmee de premieaanvraag ingediend moet worden, worden op eenvoudig verzoek door Toerisme Vlaanderen ter beschikking gesteld.<br /><br />§ 4. Op straffe van onontvankelijkheid moeten de volgende documenten aan de premieaanvraag worden toegevoegd :<br />1° een plan op schaal van het te verrichten werk;<br />2° een duidelijke omschrijving van de uit te voeren werkzaamheden;<br />3° een kostenraming met beschrijvende opmeting en eenheidsprijzen of een opgave van de overwogen aankopen met offertes en eenheidsprijzen;<br />4° een kopie van de aanvraag van de stedenbouwkundige vergunning, zoals vermeld in artikel 4.2.1 van de Vlaamse Codex Ruimtelijke Ordening, als het gaat om een ontwerp waarvoor een stedenbouwkundige vergunning vereist is of een attest waaruit blijkt dat er voor de werkzaamheden geen stedenbouwkundige vergunning vereist is;<br />5° de schriftelijke bewijsstukken, vermeld in artikel 2, § 1;<br />6° een ondertekende verklaring op erewoord, met toepassing van artikel 5, § 2, 3°, waarvan het model door Toerisme Vlaanderen wordt bepaald.<br /><br />§ 5. Onvolledige premieaanvragen die vijfenzeventig dagen na een verzoek van Toerisme Vlaanderen bij een ter post aangetekende brief, per fax of elektronisch, mits dit een ontvangstbewijs oplevert vanwege de geadresseerde, tot aanvulling van de aanvraag niet zijn vervolledigd, vervallen van rechtswege en zonder enige kennisgeving. Toerisme Vlaanderen kan na gemotiveerde aanvraag een verlenging van die termijn toestaan.<br /><br />
+...
 
 ### ART. 3.
 
-Zodra de premieaanvraag volledig is, krijgt de aanvrager van Toerisme Vlaanderen een ontvangstmelding bij een ter post aangetekende brief, per fax of elektronisch, mits dit een ontvangstbewijs oplevert vanwege de geadresseerde.<br /><br />Binnen zestig dagen na de datum van de ontvangstmelding, vermeld in het eerste lid,  wordt de aanvrager door Toerisme Vlaanderen, bij een ter post aangetekende brief, per fax of elektronisch, mits dit een ontvangstbewijs oplevert vanwege de geadresseerde, in kennis gesteld of hij al dan niet in aanmerking komt voor de toekenning van een premie, met in bevestigend geval de vermelding van de maximale premie en van de werkzaamheden en aankopen die niet voor een premie in aanmerking komen.<br /><br />De kennisgeving, vermeld in het tweede lid, houdt enkel de beslissing in dat de aanvrager in aanmerking komt voor de toekenning van een premie. Ze houdt geen toekenning van premie in en vervalt in ieder geval van rechtswege als in de loop van de twee kalenderjaren die volgen op het jaar van de premieaanvraag de facturen en betaalbewijzen van de werkzaamheden en aankopen die voor een premie in aanmerking komen en, in voorkomend geval, een kopie van de stedenbouwkundige vergunning, vermeld in artikel 2, § 4, 4°, niet aan Toerisme Vlaanderen werden verzonden of als de exploitatie van het terrein, vermeld in artikel 2, § 2, waarvoor de premie wordt aangevraagd niet of niet meer vergund is als een openluchtrecreatief terrein. Toerisme Vlaanderen kan na gemotiveerde aanvraag een verlenging van de termijn toestaan.<br /><br />
+...
 
 ### ART. 4.
 
-Op straffe van verval van de beslissing, vermeld in artikel 3, tweede lid, moet Toerisme Vlaanderen ten minste twintig dagen voor het begin van de werkzaamheden bij een ter post aangetekende brief, per fax of elektronisch, mits dit een ontvangstbewijs oplevert vanwege de geadresseerde, in kennis gesteld worden van de datum waarop de werkzaamheden aangevat worden die in aanmerking komen voor een premie.<br /><br />
+...
 
 ### ART. 5.
 
-1. Binnen vijf en zeventig dagen na het ontvangen van de facturen en betaalbewijzen, vermeld in artikel 3, derde lid, in voorkomend geval van een kopie van de stedenbouwkundige vergunning, vermeld in artikel 2, § 4, 4°, en op basis van een controle van Toerisme Vlaanderen van de uitgevoerde werkzaamheden en aankopen, wordt de premieaanvrager bij een ter post aangetekende brief, per fax of elektronisch, mits dit een ontvangstbewijs oplevert vanwege de geadresseerde, in kennis gesteld van de beslissing van de administrateur-generaal van het agentschap Toerisme Vlaanderen tot gehele of gedeeltelijke voorlopige toekenning of weigering van de premie. De beslissing vermeldt uitdrukkelijk het bedrag van de voorlopig toegekende premie evenals de aankopen en werkzaamheden waarvoor een premie wordt toegekend.<br /><br />§ 2. De premie wordt voorlopig toegekend onder de volgende voorwaarden :<br />1° de werkzaamheden en aankopen die voor de toekenning van een premie in aanmerking komen, voldoen aan de desbetreffende reglementeringen. Toerisme Vlaanderen kan de nodige attesten en keuringsbewijzen opvragen;<br />2° de premieaanvrager verbindt zich ertoe het bedrag van de premie terug te betalen als, zonder toestemming van Toerisme Vlaanderen, de bestemming van de aankopen of het werk verandert in de loop van een termijn van vijf jaar die ingaat op 1 januari van het jaar dat volgt op het jaar waarin de premie werd toegekend of als binnen dezelfde periode de premieaanvrager zijn hoedanigheid verliest zoals omschreven in artikel 2, § 1, 1° en 2°. Het bedrag van de terugbetaling van de premie wordt berekend naar rato van x aantal vijfde van de uitbetaalde premie, waarbij x gelijk is aan het aantal jaren dat volgt op het jaar waarin de hoedanigheid van de premieaanvrager of de bestemming van de aankopen of de werkzaamheden veranderd is;<br />3° het eventuele gecumuleerde subsidiepercentage bedraagt maximaal 85 % als ook andere overheidsinstanties de subsidiabele uitgaven, vermeld in artikel 1, § 2, financieren.<br /><br />§ 3. Indien wordt vastgesteld dat tijdens een begrotingsjaar het geheel van de voorlopig toegekende premies de daartoe bestemde kredieten op de begroting niet overstijgt, dan worden de voorlopig toegekende premies van rechtswege geacht definitief te zijn.<br /><br />Indien wordt vastgesteld dat tijdens het begrotingsjaar het geheel van de voorlopig toegekende premies de daartoe bestemde kredieten wel overstijgt, dan wordt de voorlopig toegekende premie herberekend volgens de volgende formule :<br />Definitief toegekende premie =<br />Voorlopig toegekende premie x totaal bestemde kredieten op de begroting van het begrotingsjaar <br />--------------------------------------------------------------------------------------------------------------------------------------------------------<br />Totaal aan voorlopig toegekende premies tijdens het begrotingsjaar<br /><br />De premieaanvrager wordt bij een ter post aangetekende brief, per fax of elektronisch, mits dit een ontvangstbewijs oplevert vanwege de geadresseerde, in kennis gesteld van deze herberekening.<br /><br />§ 4. De premie wordt op de begroting vastgelegd na definitieve toekenning. In ieder geval wordt de premie pas uitbetaald nadat de premieaanvrager, met toepassing van paragraaf 2, 2°, een verbintenis heeft ondertekend waarvan het model door Toerisme Vlaanderen wordt bepaald.<br />
+...
 
 ### ART. 6.
 
-De premie bedraagt 20 % van de kostprijs van de aankopen en van het uitgevoerde werk waarvoor de premie wordt voorlopig toegekend en kan nooit hoger zijn dan 60.000 euro. Er wordt geen premie voorlopig toegekend als de kostprijs van de aankopen en van het uitgevoerde werk lager is dan 6.000 euro.<br /><br />Het percentage, vermeld in het eerste lid, wordt verhoogd tot 30 % als de aankopen en werkzaamheden verwezenlijkt worden op een camping, een minicamping, een kampeerautoterrein of een vakantiepark.<br /><br />Voor aankopen en werkzaamheden in het kader van bedrijfsinterne milieuzorg met het oog op het verminderen van energie- en afvalkosten, worden de percentages in het eerste en tweede lid aanvullend met 10 % verhoogd.<br /><br />De Vlaamse minister, bevoegd voor het toerisme, bepaalt deze subsidiabele uitgaven nader.<br /><br /><br />
+...
 
 ### ART. 7.
 
-De premie die aan een openluchtrecreatief terrein wordt voorlopig toegekend, zoals bepaald in artikel 5, § 1, mag, opgeteld bij het bedrag van de premies die aan hetzelfde openluchtrecreatief terrein werden voorlopig toegekend op grond van eerdere premieaanvragen tijdens de twee jaar voor de huidige voorlopige toekenning, nooit meer bedragen dan 60.000 euro, zelfs niet bij verandering van eigenaar of exploitant.<br /><br />
+...
 
 ### ART. 8.
 
-Door een premieaanvraag in te dienen, stemt de premieaanvrager ermee in dat Toerisme Vlaanderen haar personeelsleden ter plaatse het nuttig of nodig geoordeelde onderzoek laat verrichten. Het onderzoek heeft alleen overdag plaats tussen 9 en 18 uur en mag zich niet tot in door gasten bewoonde verblijven uitstrekken. Het onderzoek mag de exploitatie niet hinderen of de gasten niet storen.<br /><br />
+...
 
 ### ART. 9.
 
-Premieaanvragen, in het kader van het besluit van de Vlaamse Regering van 8 maart 1995 tot vaststelling van de voorwaarden waaronder premies kunnen worden toegekend aan kampeerterreinen en kampeerverblijfparken, ingediend bij Toerisme Vlaanderen vóór de inwerkingtreding van dit besluit, worden verder afgehandeld volgens de procedure en bepalingen van het besluit van de Vlaamse Regering van 8 maart 1995 tot vaststelling van de voorwaarden waaronder premies kunnen worden toegekend aan kampeerterreinen en kampeerverblijfparken.<br /><br />
+...
 
 ### ART. 10.
 
-Het besluit van de Vlaamse Regering van 8 maart 1995 tot vaststelling van de voorwaarden waaronder premies kunnen worden toegekend aan kampeerterreinen en kampeerverblijfparken, gewijzigd bij de besluiten van de Vlaamse Regering van 8 juni 1999 en 23 april 2004, wordt opgeheven.<br /><br />
+...
 
 ### ART. 11.
 
-De Vlaamse minister, bevoegd voor het toerisme, is belast met de uitvoering van dit besluit.<br /><br />
+...
 
 ## Bijlage I Model van verklaring op erewoord te ondertekenen door diegene die de premie aanvraagt met toepassing van artikel 2, § 4, 6°, en artikel 5, § 2, 3°
 
 ### BIJLAGE I.
 
-...<br />
+...
 
 ## Bijlage II Model van de verbintenis te ondertekenen door diegene waaraan de premie wordt toegekend met toepassing van artikel 5, § 2, 2°, en artikel 5, § 3.
 
 ### BIJLAGE II.
 
-...<br />
+...
