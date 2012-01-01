@@ -1316,7 +1316,7 @@ XI 43. [Het studieverlof dient door het statutaire personeelslid schriftelijk te
 
 ### ART. XI 44.
 
-§ 1. Het statutaire personeelslid heeft het recht om zijn loopbaan te onderbreken met al dan niet opeenvolgende periodes van ten minste zes maanden en ten hoogste twaalf maanden.<br /><br />Het statutaire personeelslid kan zijn loopbaan in totaal tweeënzeventig maanden voltijds en tweeënzeventig maanden half-tijds onderbreken. Een voltijdse loopbaanonderbreking kan onmiddellijk aansluiten bij een halftijdse en omgekeerd.<br /><br />De maximumduur om voltijdse of halftijdse loopbaanonderbreking te krijgen, wordt evenwel verminderd met de duur van de voltijdse respectievelijk halftijdse loopbaanonderbrekingen die het statutaire personeelslid als statutair of contractueel personeelslid van dezelfde of een andere werkgever heeft genoten.<br /><br />§ 2. In afwijking van § 1 heeft een statutair personeelslid van minstens 50 jaar oud het recht om halftijdse loopbaanonderbreking te nemen tot aan zijn pensionering, op voorwaarde dat hij schriftelijk zich ertoe verbindt deze halftijdse loopbaanonderbreking niet voor zijn pensionering stop te zetten.<br /><br />Het statutaire personeelslid van minstens 50 jaar kan halftijdse loopbaanonderbreking tot aan de pensionering nemen, ongeacht de totale duur van de loopbaanonderbrekingen die hij heeft genomen voor het begin van de halftijdse loopbaanonderbreking tot aan de pensionering.<br /><br />§ 3. In afwijking van § 1 en § 2 is het verlof voor loopbaanonderbreking een gunst voor het statutaire personeelslid dat een leidinggevende functie (niveau K en de hoofden van een sectoraal dienstencentrum) uitoefent, zodat het aan laatstgenoemden, mits motivering, kan worden geweigerd in het belang van de dienst.<br /><br />Het in het eerste lid bedoelde personeelslid aan wie een verlof voor loopbaanonderbreking wordt geweigerd, kan tegen deze beslissing hoger beroep instellen overeenkomstig de procedure bepaald in artikel XI 28, § 3.<br /><br />§ 4. De bepalingen van dit artikel zijn niet van toepassing op de stagedoende statutaire personeelsleden.
+§ 1. Het statutaire personeelslid heeft het recht om zijn loopbaan te   onderbreken met al dan niet opeenvolgende periodes van ten minste zes maanden en   ten hoogste twaalf maanden.<BR><BR>Het statutaire personeelslid kan zijn   loopbaan in totaal zestig maanden voltijds en zestig maanden halftijds   onderbreken. Een voltijdse loopbaanonderbreking kan onmiddellijk aansluiten bij   een halftijdse en omgekeerd.<BR><BR>In afwijking van het voorgaande lid bedraagt   de maximumduur voor voltijdse en halftijdse loopbaanonderbreking tweeënzeventig   maanden voor:<BR>1° de loopbaanonderbrekingen en de verlengingen van   loopbaanonderbreking die ingingen voor 1 januari 2012;<BR>2° de   loopbaanonderbrekingen en de verlengingen van loopbaanonderbreking die aan de   drie volgende voorwaarden voldoen:<BR>a) de werkgever werd schriftelijk op de   hoogte gesteld voor 28 november 2011;<BR>b) de RVA ontving de aanvraag voor 2   maart 2012;<BR>c) de loopbaanonderbreking vangt voor 3 april 2012 aan.<BR><BR>De   maximumduur om voltijdse of halftijdse loopbaanonderbreking te krijgen, wordt   evenwel verminderd met de duur van de voltijdse respectievelijk halftijdse   loopbaanonderbrekingen die het statutaire personeelslid als statutair of   contractueel personeelslid van dezelfde of een andere werkgever heeft   genoten.<BR><BR>§ 2. In afwijking van § 1 heeft een statutair personeelslid van   minstens 50 jaar oud het recht om halftijdse loopbaanonderbreking te nemen tot   aan zijn pensionering, op voorwaarde dat hij schriftelijk zich ertoe verbindt   deze halftijdse loopbaanonderbreking niet voor zijn pensionering stop te   zetten.<BR><BR>Het statutaire personeelslid van minstens 50 jaar kan halftijdse   loopbaanonderbreking tot aan de pensionering nemen, ongeacht de totale duur van   de loopbaanonderbrekingen die hij heeft genomen voor het begin van de halftijdse   loopbaanonderbreking tot aan de pensionering.<BR><BR>§ 3. In afwijking van § 1   en § 2 is het verlof voor loopbaanonderbreking een gunst voor het statutaire   personeelslid dat een leidinggevende functie (niveau K en de hoofden van een   sectoraal dienstencentrum) uitoefent, zodat het aan laatstgenoemden, mits   motivering, kan worden geweigerd in het belang van de dienst.<BR><BR>Het in het   eerste lid bedoelde personeelslid aan wie een verlof voor loopbaanonderbreking   wordt geweigerd, kan tegen deze beslissing hoger beroep instellen overeenkomstig   de procedure bepaald in artikel XI 28, § 3.<BR><BR>§ 4. De bepalingen van dit   artikel zijn niet van toepassing op de stagedoende statutaire   personeelsleden.
 
 ### ART. XI 44bis.
 
@@ -1348,7 +1348,7 @@ XI 45. [§ 1. In afwijking van artikel XI 44, § 1 bedraagt de duur van de loopb
 
 ### ART. XI 45bis.
 
-Loopbaanonderbreking om palliatieve zorgen te verstrekken, wordt niet   meegeteld in de 72 maanden voltijdse en de 72 maanden halftijdse   loopbaanonderbreking die het statutaire personeelslid maximaal kan nemen.  <span class="reference">(ing. B.V.R. 19   september 2003, art. 11, I: 1 november 2000)</span> ]
+<P>Loopbaanonderbreking om palliatieve zorgen te verstrekken, wordt niet   meegeteld in de 60 maanden voltijdse en de 60 maanden halftijdse   loopbaanonderbreking die het statutaire personeelslid maximaal kan   nemen.</P>
 
 ### ART. XI 45ter.
 
@@ -1366,7 +1366,7 @@ XI 45quinquies. § 1. In afwijking van artikel XI 44 § 1 bedraagt de maximumduu
 
 ### ART. XI 45sexies.
 
-Loopbaanonderbreking voor bijstand aan of verzorging van een zwaar ziek   gezins- of familielid wordt niet meegeteld in de 72 maanden voltijdse en de 72   maanden halftijdse loopbaanonderbreking die het statutaire personeelslid   maximaal kan nemen.  <span class="reference">(ing. B.V.R. 19 september 2003, art. 11, I: 1 november 2000)</span> ]
+<P>Loopbaanonderbreking voor bijstand aan of verzorging van een zwaar ziek   gezins- of familielid wordt niet meegeteld in de 60 maanden voltijdse en de 60   maanden halftijdse loopbaanonderbreking die het statutaire personeelslid   maximaal kan nemen.</P>
 
 ### ART. XI 45septies.
 
@@ -1388,7 +1388,7 @@ Het ouderschapsverlof onder de vorm van loopbaanonderbreking telt niet mee   voo
 
 ### ART. XI 45undecies.
 
-Ouderschapsverlof onder de vorm van loopbaanonderbreking kan worden   genomen onmiddellijk aansluitend op het bevallings-, het vaderschaps- of het   opvangverlof.  <span class="reference">(ing. B.V.R. 19 september 2003, art. 11, I: 1 november 2000)</span> ]
+<P>Het ouderschapsverlof in de vorm van loopbaanonderbreking wordt niet   meegeteld in de 60 maanden voltijdse en de 60 maanden halftijdse   loopbaanonderbreking die het statutaire personeelslid maximaal kan   nemen.</P>
 
 ### ART. XI 45duodecies.
 
