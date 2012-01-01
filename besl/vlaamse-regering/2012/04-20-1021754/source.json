@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021754,
+  "title": "Besluit van de Vlaamse Regering van 2012-04-20 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 21 december 2007 tot het verlenen van subsidies voor de uitvoering van agromilieumaatregelen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021754/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "0f591d7840de4a607f0ab470b22e90521e4edd1aea0f98de6027d3f3c05328cb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021754&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2012-04-20",
+  "gazette": "2012-05-22",
+  "numac": 2012035512,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
