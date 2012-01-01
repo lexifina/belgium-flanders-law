@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021909,
+  "title": "Besluit van de Vlaamse Regering van 2012-06-08 betreffende het bevallingsverlof voor bepaalde personeelsleden van het onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021909/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "1bf6e89735d976bbba6c5800ae016cfddad6ada74762d9c5084a27f465b57a5c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021909&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2012-06-08",
+  "gazette": "2012-07-09",
+  "numac": 2012035738,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
