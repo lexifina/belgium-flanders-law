@@ -70,7 +70,7 @@ Voor het bepalen van het aantal prestatie-eenheden, vermeld in artikel 5, eerste
 
 ### ART. 12.
 
-§ 1. Een loopbaanonderbreking wordt toegestaan voor een periode die begint op 1 september of 1 oktober van het school- of dienstjaar en eindigt op 31 augustus van hetzelfde school- of dienstjaar voor alle personeelsleden vermeld in artikel 1, met uitzondering van de personeelsleden vermeld in paragraaf 2 van dit artikel.<br /><br />§ 2. Een loopbaanonderbreking wordt toegestaan voor periodes van ten minste zes maanden en van ten hoogste één jaar aan : <br />1° de leden van het administratief personeel;<br />2° de leden van het statutair meesters-, vak- en dienstpersoneel;<br />3° de administratief medewerker van het ondersteunend personeel;<br />4° de administratief medewerker van het beleids- en ondersteunend personeel.<br /><br />Deze periodes, vermeld in het eerste lid, moeten altijd aanvangen op de eerste dag van de maand.<br /><br />§ 3. In afwijking van paragraaf 1 en paragraaf 2 eindigt de volledige of de gedeeltelijke loopbaanonderbreking ook als ze de maximumduur van 72 maanden heeft bereikt.<br /><br />
+§ 1. Een loopbaanonderbreking wordt toegestaan voor een periode die begint   op 1 september of 1 oktober van het school- of dienstjaar en eindigt op 31   augustus van hetzelfde school- of dienstjaar voor alle personeelsleden vermeld   in artikel 1, met uitzondering van de personeelsleden vermeld in paragraaf 2 van   dit artikel.<BR><BR>§ 2. Een loopbaanonderbreking wordt toegestaan voor periodes   van ten minste zes maanden en van ten hoogste één jaar aan : <BR>1° de leden van   het administratief personeel;<BR>2° de leden van het statutair meesters-, vak-   en dienstpersoneel;<BR>3° de administratief medewerker van het ondersteunend   personeel;<BR>4° de administratief medewerker van het beleids- en ondersteunend   personeel.<BR><BR>Deze periodes, vermeld in het eerste lid, moeten altijd   aanvangen op de eerste dag van de maand.<BR><BR>§ 3. In afwijking van paragraaf   1 en paragraaf 2 eindigt de volledige of de gedeeltelijke loopbaanonderbreking   ook als ze de maximumduur van 60 maanden heeft bereikt.<BR><BR>
 
 ### ART. 13.
 
@@ -84,11 +84,11 @@ Elke loopbaanonderbreking eindigt uiterlijk op de vooravond van de pensionering.
 
 ### ART. 15.
 
-De totale duur van de volledige loopbaanonderbreking mag voor de hele loopbaan niet meer dan 72 maanden bedragen.<br /><br />
+De totale duur van de volledige loopbaanonderbreking mag voor de hele   loopbaan niet meer dan 60 maanden bedragen.<BR><BR>
 
 ### ART. 16.
 
-De totale duur van de gedeeltelijke loopbaanonderbreking mag voor de hele loopbaan niet meer dan 72 maanden bedragen. De periodes van gedeeltelijke loopbaanonderbreking vanaf de leeftijd van vijftig jaar zoals vermeld in artikel 9 worden daarbij niet meegerekend.<br /><br />
+De totale duur van de gedeeltelijke loopbaanonderbreking mag voor de hele   loopbaan niet meer dan&nbsp;60 maanden bedragen. De periodes van gedeeltelijke   loopbaanonderbreking vanaf de leeftijd van vijftig jaar zoals vermeld in artikel   9 worden daarbij niet meegerekend.<BR><BR>
 
 ## Onderafdeling 4 Toekenning van de loopbaanonderbreking
 
@@ -178,7 +178,7 @@ De volledige loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand
 
 ### ART. 34.
 
-Voor de berekening van de termijn van 72 maanden voorzien in artikel 15 en artikel 16 wordt geen rekening gehouden met de periodes van loopbaanonderbreking voor ouderschapsverlof, voor medische bijstand of voor palliatieve zorgen. <br /><br />
+Voor de berekening van de termijn van 60 maanden voorzien in artikel 15 en   artikel 16 wordt geen rekening gehouden met de periodes van loopbaanonderbreking   voor ouderschapsverlof, voor medische bijstand of voor palliatieve zorgen.   <BR><BR>
 
 ### ART. 35.
 
