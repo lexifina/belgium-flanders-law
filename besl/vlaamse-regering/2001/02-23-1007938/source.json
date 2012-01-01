@@ -2,16 +2,16 @@
   "codex_id": 1007938,
   "title": "Besluit van de Vlaamse Regering van 2001-02-23 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor [onthaalouders]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007938/VolledigDocument?datum=2011-07-01",
-  "source_sha256": "357025de3de0c7d6bd65231c0160327546fd164c841c120fda498fa497cbb39a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007938/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "d2f0cc5453727c2ac81464a0cdcd4470fcffcb81edd0dfe5a9e15d0ec42bb494",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007938&param=informatie",
-  "as_of": "2011-07-01",
+  "as_of": "2012-01-01",
   "made": "2001-02-23",
   "gazette": "2001-04-19",
   "numac": 2001035370,
   "document_start": "2001-01-01",
   "document_end": "2014-03-31",
-  "in_force": "2011-07-01",
+  "in_force": "2012-01-01",
   "article_versions": 43,
-  "record_form": "consolidated version as in force on 2011-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }
