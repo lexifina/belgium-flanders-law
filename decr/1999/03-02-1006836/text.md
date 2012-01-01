@@ -540,7 +540,7 @@
 
 ### ART. 87.
 
-§ 1. Deze titel regelt de ondersteuning verleend aan cursisten die volledig zelfstandig leren hierna het zelfgestuurd leren genoemd, georganiseerd door het departement Onderwijs en gefinancierd door de Vlaamse Gemeenschap.<br /><br />De Vlaamse regering bepaalt de naam waaronder het zelfgestuurd leren word bekend gemaakt. Deze naam kan door geen andere onderwijs- of opleidingsinstelling worden gedragen.<br /><br />§ 2. Voor de toepassing van deze titel wordt onder cursist de persoon verstaan die inschrijft voor het zelfgestuurd leren.<br /><br />(Zie: B.V.R. 8 november 2002, B.S., 24 december 2002)
+...
 
 ### ART. 87bis.
 
@@ -552,49 +552,49 @@
 
 ### ART. 88.
 
-§ 1. Bij het zelfgestuurd leren worden de leerinhouden op verzoek van de cursist en volgens het door de cursist aangegeven tempo, schriftelijk of via andere media ter beschikking gesteld. Zelfgestuurd leren is gestoeld op het principe van zelfstandig en individueel leren, inzake plaats, tijd en tempo onafhankelijk van de mentor of van medecursisten, zodat direct contact tussen de cursist en de mentor of de medecursist uitzonderlijk is.<br /><br />§ 2. Het zelfgestuurd leren heeft in het bijzonder tot doel de cursist de kans te bieden kennis en vaardigheden te verwerven en hem voor te bereiden op examens, georganiseerd door onderwijsinstellingen, door de examencommissie van de Vlaamse Gemeenschap voor het voltijds secundair onderwijs zoals bedoeld in het besluit van de Vlaamse regering van 9 oktober 1991 houdende inrichting van de examencommissie van de Vlaamse Gemeenschap voor het voltijds secundair onderwijs en op examens van het openbaar ambt.<br /><br />[Binnen het zelfgestuurd leren worden geen erkende studiebewijzen voor secundair onderwijs uitgereikt.  <span class="reference">(verv. decr. 13 juli 2001, art. VI. 24, I: 1 september 2001)</span> ]
+...
 
 ### ART. 89.
 
-De vakken die de regering erkent als onderdeel van de studiegebieden algemene vorming, bedrijfs-beheer, handel en administratie, Nederlands tweede taal en talen, zoals bepaald in artikel 5 van dit decreet, kunnen worden aangeboden. Als de noodzaak daartoe bestaat, kan de regering beslissen om vakken van de andere studiegebieden of categorieën, genoemd in artikel 5, aan te bieden.<br /><br />Bovendien kunnen vakken die voorbereiden op de examens van het openbaar ambt, op het functioneren binnen het openbaar ambt en op het mandaat van mentor aangeboden worden.<br /><br />De vakken kunnen ingedeeld worden in cursussen en/of lespakketten.
+...
 
 ### ART. 90.
 
-Het departement Onderwijs staat in voor de planning van de vakken, de kwaliteit van het aanbod en van de begeleiding, de ontwikkeling en productie van de eigen cursussen, de verwerving van rechten op cursussen, ontwikkeld door derden, de verspreiding van het aanbod, de werving en inschrijving van de cursisten en hun pedagogische begeleiding.<br /><br />De cursussen, ontwikkeld door het departement Onderwijs, zijn eigendom van de Vlaamse Gemeenschap.
+...
 
 ### ART. 91.
 
-§ 1. De mentor evalueert welke vorderingen de cursist maakt en geeft pedagogisch advies aan de cursist.<br /><br />De Vlaamse Regering stelt de mentor aan voor een termijn van bepaalde duur die uiterlijk afloopt op 1 januari 2012. <br /><br />§ 2. De mentoren worden gekozen uit de leraren die gedurende twee jaar ten minste halftijds onderricht hebben gegeven in een erkende onderwijsinstelling, of uit de opleiders die gedurende twee jaar ten minste halftijds onderricht hebben gegeven in een door de Vlaamse Gemeenschap opgerichte of erkende opleidingsinstelling. Bij ontstentenis van kandidaten met ervaring in een onderwijs- of opleidingsinstelling, kunnen ook andere deskundigen worden aangesteld.<br /><br />Voor de voorbereiding op examens van het openbaar ambt kunnen zij ook gekozen worden uit ambtenaren van niveau A - of daaraan gelijkgesteld - van een openbaar bestuur.<br /><br />§ 3. De regering bepaalt de vergoeding en de prestatieregeling van de mentor.
+...
 
 ### ART. 92.
 
-De regering regelt de kwaliteitsbewaking van het begeleidingswerk van de mentoren en van de cursussen.
+...
 
 ### ART. 92bis.
 
-De cursist heeft recht op begeleiding door een mentor, zoals bedoeld in artikel 91, tot en met 31 december 2011.
+...
 
 ### ART. 93.
 
-Uitsluitend volgende cursisten kunnen zich inschrijven :<br />1° cursisten die zich voorbereiden op de examens ingericht door de examencommissie van de Vlaamse Gemeenschap;<br />2° cursisten die op het ogenblik van hun inschrijving voor een bepaalde cursus gedetineerd zijn en het bewijs hiervan leveren door een attest afgeleverd door de directeur van de strafinrichting.<br /><br />Inschrijvingen zijn mogelijk tot en met 31 december 2010.
+...
 
 ### ART. 94.
 
-§ 1. Voor de cursussen die op een andere wijze worden aangeboden bedraagt het inschrijvingsgeld 4,50 euro - tot en met 31 december 2001: 150 Belgische frank - per lespakket.<br /><br />De bedragen kunnen door de Vlaamse regering worden verhoogd en aangepast aan de index van de consumptieprijzen.<br /><br />De Vlaamse regering bepaalt de uitvoeringsmodaliteiten van deze bepaling. <br /><br />§ 2. ...<br /><br />§ 3. ...<br /><br />§ 4. ...<br /><br />§ 5. ...
+...
 
 ### ART. 94bis.
 
-De regering kan met betrekking tot het zelfgestuurd leren alle nuttige beslissingen nemen om aan onderwijs- en vormingsverstrekkers:<br /><br />- tegen vergoeding het exploitatierecht op cursussen te verlenen;<br /><br />- databanken en ondersteunende administratieve en technische systemen ter beschikking te stellen of te vervreemden.<br /><br />De regering oefent deze bevoegdheden uit binnen een model van publiek-publieke en/of publiek-private samenwerking waarin de rechten van de betrokken cursisten inzake inschrijvingsgelden en studievoortgang, evenals de rechten van de betrokken mentoren worden gewaarborgd. De samenwerking waarborgt tevens de kwaliteit van de aangeboden cursussen.  <span class="reference">(ing. decr. 14 februari 2003, art. IV. 17, I: 1 juni 2002)</span> ]
+...
 
 ### ART. 95.
 
-Het departement Onderwijs kan attesten uitreiken waaruit blijkt dat de cursist een cursus of lespakket gevolgd heeft.
+...
 
 ## HOOFDSTUK II OPHEFFINGSBEPALINGEN
 
 ### ART. 96.
 
-(niet opgenomen)<br /><br />(De volgende regelingen worden opgeheven:<br /><br />1° de wet van 5 maart 1965 op het schriftelijk onderwijs;<br /><br />2° het koninklijk besluit van 13 april 1965 tot inrichting van schriftelijke rijksleergangen;<br /><br />3° het koninklijk besluit van 16 april 1965 tot oprichting van schriftelijke rijksleergangen;<br /><br />4° het koninklijk besluit van 20 april 1965 houdende het organiek reglement van de Verbeteringsraad voor het schriftelijk onderwijs;<br /><br />5° het koninklijk besluit van 15 maart 1966 houdende vaststelling van de vergoedingen toegekend aan de leraars van de schriftelijke rijksleergangen, alsmede de toegelaten maximum prestaties;<br /><br />6° het koninklijk besluit van 5 augustus 1967 houdende de voorwaarden tot aanstelling bij de schriftelijke rijksleergangen van in rust of in disponibiliteit gestelde leerkrachten;<br /><br />7° het koninklijk besluit van 9 november 1971 tot oprichting van schriftelijke rijksleergangen ter voorbereiding van administratieve examens)
+...
 
 ### ART. 96bis.
 
