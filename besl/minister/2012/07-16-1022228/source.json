@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022228,
+  "title": "Ministerieel besluit van 2012-07-16 tot vaststelling van de subsidiëringswijze van de diensten voor gastopvang",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022228/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "b4b6b58eaced0b85db648ad8274b9f5c7110fd8d178dcdd6b0002fe701ed30ae",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022228&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2012-07-16",
+  "gazette": "2012-09-06",
+  "numac": 2012204751,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
