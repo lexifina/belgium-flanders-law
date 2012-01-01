@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° minister: de Vlaamse minister, bevoegd voor de huisvesting;<br />2° departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />3° bescheiden woning: de woning zoals omschreven in artikel 1, § 1, 9°, van het besluit van de Vlaamse regering van 29 juni 2007 houdende de voorwaarden betreffende sociale leningen met gewestwaarborg voor het bouwen, kopen, verbouwen of behouden van woningen;<br />4° gewestwaarborg: de waarborg zoals bepaald in artikel 78, §1, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br />5° kredietinstelling: de hypotheekonderneming zoals bedoeld in artikel 43 en 43bis van de wet van 4 augustus 1992 op het hypothecair krediet;<br />6° kredietmaatschappij: de hypothecaire kredietmaatschappij voor sociaal woonkrediet waaraan een erkenning is verleend door de Vlaamse regering overeenkomstig artikel 78, §1, eerste lid, 1°, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br />7° toezichthouder : de toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode. <br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° minister: de Vlaamse minister, bevoegd voor de huisvesting;<br />2° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br />3° bescheiden woning: de woning zoals omschreven in artikel 1, § 1, 9°, van het besluit van de Vlaamse regering van 29 juni 2007 houdende de voorwaarden betreffende sociale leningen met gewestwaarborg voor het bouwen, kopen, verbouwen of behouden van woningen;<br />4° gewestwaarborg: de waarborg zoals bepaald in artikel 78, §1, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br />5° kredietinstelling: de hypotheekonderneming zoals bedoeld in artikel 43 en 43bis van de wet van 4 augustus 1992 op het hypothecair krediet;<br />6° kredietmaatschappij: de hypothecaire kredietmaatschappij voor sociaal woonkrediet waaraan een erkenning is verleend door de Vlaamse regering overeenkomstig artikel 78, §1, eerste lid, 1°, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br />7° toezichthouder : de toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode. <br /><br />
 
 ## HOOFDSTUK II DE KREDIETMAATSCHAPPIJEN
 
@@ -24,11 +24,11 @@ Om de erkenning te verkrijgen en te behouden moeten de kredietmaatschappijen vol
 
 ### ART. 5.
 
-De aanvraag tot erkenning wordt met een aangetekend schrijven bij het departement ingediend en moet minstens vergezeld zijn van het dossier met stukken en bescheiden zoals ingediend bij de Commissie voor het Bank-, Financie- en Assurantiewezen met het oog op de inschrijving van de vennootschap als hypotheekonderneming overeenkomstig artikel 43, § 1, van de Wet van 4 augustus 1992 op het Hypothecair Krediet.
+De aanvraag tot erkenning wordt met een aangetekend schrijven bij het agentschap ingediend en moet minstens vergezeld zijn van het dossier met stukken en bescheiden zoals ingediend bij de Commissie voor het Bank-, Financie- en Assurantiewezen met het oog op de inschrijving van de vennootschap als hypotheekonderneming overeenkomstig artikel 43, § 1, van de Wet van 4 augustus 1992 op het Hypothecair Krediet.
 
 ### ART. 6.
 
-De kredietmaatschappijen verstrekken op eigen initiatief of op verzoek alle nuttige informatie aan het departement.
+De kredietmaatschappijen verstrekken op eigen initiatief of op verzoek alle nuttige informatie aan het agentschap.
 
 ### ART. 7.
 
