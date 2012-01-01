@@ -18,7 +18,7 @@ Binnen de groep van personen vermeld in artikel 1, komen de personen die in de p
 
 ### ART. 4.
 
-Gedurende de eerste twaalf maanden van de effectieve aanwending van het PAB wordt de budgethoogte beperkt tot 80 % van het door de deskundigencommissie, vermeld in artikel 20 van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap, toegekende budget.<br /><br />Het eerste lid is niet van toepassing op overeenkomstig artikel 8bis van hetzelfde besluit toegekende persoonlijke-assistentiebudgetten.<br /><br />
+...
 
 ### ART. 5.
 

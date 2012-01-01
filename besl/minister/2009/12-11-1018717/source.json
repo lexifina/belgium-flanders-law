@@ -2,16 +2,16 @@
   "codex_id": 1018717,
   "title": "Ministerieel besluit van 2009-12-11 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget en beperking van de budgethoogte gedurende het eerste jaar van effectieve aanwending van het persoonlijke assistentiebudget",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018717/VolledigDocument?datum=2009-09-01",
-  "source_sha256": "6eaddcb0bf1c62a234a356486e6b551a1c1d155698254e0fe9a4d1d72528d2a1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018717/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "956a9f0db7158ceb877426277899d7015cf7d6a54b1dd56e1a30143972756931",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018717&param=informatie",
-  "as_of": "2009-09-01",
+  "as_of": "2012-01-01",
   "made": "2009-12-11",
   "gazette": "2010-01-25",
   "numac": 2010200172,
   "document_start": "2009-01-01",
   "document_end": null,
-  "in_force": "2009-09-01",
+  "in_force": "2012-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }
