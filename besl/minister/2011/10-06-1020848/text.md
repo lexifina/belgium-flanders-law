@@ -1222,7 +1222,7 @@ Gegevens die Wonen-Vlaanderen minimaal ter beschikking dient te stellen van het 
 		</tr>
 		<tr>
 			<td style="border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:medium none; width:296pt">
-			<p>Huurachterstal (openstaande vordering op een sociale huurder op het einde van de maand waarin de uiterste betaaldatum van de vordering valt) in euro</p>
+			<p>Huurachterstal (openstaande vorderingen op huurders en vertrokken huurders op balansdatum) in euro</p>
 			</td>
 			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; width:92.15pt">
 			<p>Jaarlijks</p>
@@ -1255,7 +1255,7 @@ Gegevens die Wonen-Vlaanderen minimaal ter beschikking dient te stellen van het 
 		</tr>
 		<tr>
 			<td style="border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:medium none; width:296pt">
-			<p>Liquiditeitsratio</p>
+			<p>Gecorrigeerde liquiditeitsratio in enge zin</p>
 			</td>
 			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; width:92.15pt">
 			<p>Jaarlijks</p>
@@ -1266,7 +1266,7 @@ Gegevens die Wonen-Vlaanderen minimaal ter beschikking dient te stellen van het 
 		</tr>
 		<tr>
 			<td style="border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:medium none; width:296pt">
-			<p>Netto vrije cashflow marge uit de gewone bedrijfsvoering</p>
+			<p>Netto vrije cashflow-marge uit de gewone bedrijfsuitoefening</p>
 			</td>
 			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; width:92.15pt">
 			<p>Jaarlijks</p>
@@ -1277,7 +1277,7 @@ Gegevens die Wonen-Vlaanderen minimaal ter beschikking dient te stellen van het 
 		</tr>
 		<tr>
 			<td style="border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:medium none; width:296pt">
-			<p>Netto winstmarge</p>
+			<p>Netto winstmarge uit de gewone bedrijfsuitoefening &nbsp;</p>
 			</td>
 			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; width:92.15pt">
 			<p>Jaarlijks</p>
@@ -1288,14 +1288,6 @@ Gegevens die Wonen-Vlaanderen minimaal ter beschikking dient te stellen van het 
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-<br>
-&nbsp;<br>
-<!-- #RightPane --><!-- #MySplitter --><!-- #Splitter-container --><!-- #detailContent --><br>
-<!--inhoud en informatie tabs -->
 
 ### BIJLAGE
 
