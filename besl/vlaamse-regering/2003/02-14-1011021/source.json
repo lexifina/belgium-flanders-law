@@ -2,16 +2,16 @@
   "codex_id": 1011021,
   "title": "Besluit van de Vlaamse Regering van 2003-02-14 tot regeling van het beheer en de werking van het Vlaams-Brussel Fonds",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011021/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "e5b3fc23e2541c892c0a4b9882fe9dc1007ef83bfdb6dd9b825fc253e1c4df8d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011021/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "eb79d0490076800c5675b3ac09655c609b0c43e3272d9bfed1f01332bd679901",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011021&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2012-01-01",
   "made": "2003-02-14",
   "gazette": "2003-05-21",
   "numac": 2003035506,
   "document_start": "2002-12-31",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2012-01-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }

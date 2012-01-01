@@ -18,7 +18,7 @@ De leidend ambtenaar is belast met de leiding en het dagelijkse en financiële b
 
 ### ART. 4.
 
-Onder het dagelijkse en financiële beheer van het Fonds wordt verstaan:<br /><br />1° het ondertekenen van de dagelijkse briefwisseling, de nota's, de ambtberichten en de documenten met betrekking tot het Fonds;<br /><br />2° het ontvangen van de gewone en de aangetekende zendingen, inclusief de dagvaardingen betekend aan het Fonds;<br /><br />3° het eensluidend verklaren van uittreksels en afschriften van documenten;<br /><br />4° het geven van alle goedkeuringen en het nemen van alle beslissingen die voor de afhandeling van de dossiers noodzakelijk zijn, met inbegrip van de ontvangst, het nazicht, het doorsturen en de voortgangsbewaking van de dossiers, maar met uitzondering van het nemen van de subsidiebeslissing;<br /><br />5° het terugvorderen van ten onrechte gedane betalingen;<br /><br />6° het opstellen van de jaarlijkse uitvoeringsrekening van de begroting, de balans- en de resultatenrekening.
+De leidend ambtenaar van het Vlaams-Brussel Fonds heeft delegatie van beslissingsbevoegdheid voor de aangelegenheden, vermeld in artikel 8, 9, 13, 14, 14bis, 15 en 16, van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid.<br /><br />Naast de delegaties voor de aangelegenheden, vermeld in het eerste lid, worden aan de leidend ambtenaar van het Vlaams-Brussel Fonds de volgende specifieke delegaties verleend : <br />1° bij financiële instellingen rekeningen openen en beheren; <br />2° het vrij- en overmaken van de middelen van het Vlaams-Brussel Fonds plannen en organiseren, naar de bestemming en volgens het ritme, bepaald door de Vlaamse Regering.
 
 ### ART. 5.
 
@@ -26,7 +26,7 @@ De leidend ambtenaar kan de taken, genoemd in artikel 4, geheel of gedeeltelijk 
 
 ### ART. 6.
 
-De leidend ambtenaar beslist welke personeelsleden, uitrusting en installaties ter beschikking worden gesteld van het Fonds.
+De secretaris-generaal van het departement van de Diensten voor het Algemeen Regeringsbeleid beslist welke personeelsleden, uitrusting en installaties ter beschikking worden gesteld van het Fonds.
 
 ### ART. 7.
 
