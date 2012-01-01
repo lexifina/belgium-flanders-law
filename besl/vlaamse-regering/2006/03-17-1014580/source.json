@@ -2,16 +2,16 @@
   "codex_id": 1014580,
   "title": "Besluit van de Vlaamse Regering van 2006-03-17 betreffende de regie van de zorg en bijstand tot sociale integratie van personen met een handicap en betreffende de erkenning en subsidiëring van een Vlaams Platform van verenigingen van personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014580/VolledigDocument?datum=2010-03-01",
-  "source_sha256": "9d093745564d7a90686e0876cad9f721784fb9023ff51f14821d98650fb45cb2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014580/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "2b0e752897658f352952d30f68763be7dde950b6e1d3fe252a8ebe9cfdc27d03",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014580&param=informatie",
-  "as_of": "2010-03-01",
+  "as_of": "2012-01-01",
   "made": "2006-03-17",
   "gazette": "2006-06-16",
   "numac": 2006035891,
   "document_start": "2006-03-01",
   "document_end": "2017-12-31",
-  "in_force": "2010-03-01",
+  "in_force": "2012-01-01",
   "article_versions": 73,
-  "record_form": "consolidated version as in force on 2010-03-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }
