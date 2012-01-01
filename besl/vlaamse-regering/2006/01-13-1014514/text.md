@@ -14,7 +14,7 @@ De voorzieningen die opgericht zijn door een vereniging zonder winstoogmerk of e
 
 ### ART. 4.
 
-De voorzieningen die opgericht zijn door een openbaar centrum voor maatschappelijk welzijn, voeren een boekhouding volgens de bepalingen van het besluit van de Vlaamse Regering van 17 december 1997 betreffende de boekhouding en de administratieve organisatie van de openbare centra voor maatschappelijk welzijn.
+De voorzieningen die opgericht zijn door een Openbaar Centrum voor Maatschappelijk Welzijn, voeren een boekhouding volgens de regelgeving die van toepassing is op de openbare centra voor maatschappelijk welzijn.
 
 ### ART. 5.
 
