@@ -2,16 +2,16 @@
   "codex_id": 1000371,
   "title": "Besluit van de Vlaamse Regering van 1993-11-17 tot bepaling van de algemene voorschriften inzake instandhouding en onderhoud van monumenten en stads- en dorpsgezichten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000371/VolledigDocument?datum=2011-07-01",
-  "source_sha256": "b4319f39a0806e2456b684d978e5fd76123be1abb073bfbc71d414b940027d6c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000371/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "cf6ab858eed0a5647a32305ca3a7b26505b055c0750c26e955742d70f80490ae",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000371&param=informatie",
-  "as_of": "2011-07-01",
+  "as_of": "2012-01-01",
   "made": "1993-11-17",
   "gazette": "1994-03-10",
   "numac": 1994035269,
   "document_start": null,
   "document_end": "2014-12-31",
-  "in_force": "2011-07-01",
+  "in_force": "2012-01-01",
   "article_versions": 49,
-  "record_form": "consolidated version as in force on 2011-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }
