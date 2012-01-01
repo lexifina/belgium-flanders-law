@@ -110,7 +110,7 @@ De Vlaamse Regering gaat slechts over tot het sluiten van een samenwerkingsovere
 
 ### ART. 10.
 
-§ 1. Tot andersluidende bepaling, wordt de controle door het Rekenhof ten aanzien van de investe-ringsmaatschappijen uitgeoefend overeenkomstig dit artikel, onverminderd specifieke wettelijke of decretale regelingen.<br /><br />Het Rekenhof oefent op budgettair en boekhoudkundig vlak een informatieopdracht uit ten behoeve van het Vlaams Parlement. Het Vlaams Parlement kan het Rekenhof gelasten de wettigheid en de regelmatigheid van sommige uitgaven te onderzoeken, alsook financile audits en onderzoeken van beheer uit te voeren.<br /><br />Het Rekenhof heeft permanent en onmiddellijk toegang tot de boekhoudkundige verrichtingen. Het kan zich te allen tijde alle documenten en inlichtingen, van welke aard ook, doen verstrekken die betrekking hebben op het beheer en het budgettair en comptabel proces, of die het nodig acht om zijn opdrachten te kunnen vervullen. Het Rekenhof kan een controle ter plaatse organiseren.<br /><br />Het Rekenhof stelt zich rechtstreeks in verbinding met de bevoegde minister. De bevoegde overheid is verplicht binnen een termijn van ten hoogste één maand te antwoorden op de opmerkingen van het Rekenhof. Deze termijn kan verlengd worden door het Rekenhof.<br /><br />Het Rekenhof kan de rekeningen van de investeringsmaatschappijen in zijn Boek van Opmerkingen publiceren.<br /><br />§ 2. Binnen de twee maanden na goedkeuring ervan bezorgen de investeringsmaatschappijen hun jaarrekeningen, opgesteld en goedgekeurd in overeenstemming met de bepalingen van het van toepassing zijnde private vennootschaps- of verenigingrecht, aan het Rekenhof.
+...
 
 ### ART. 11.
 
