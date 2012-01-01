@@ -2484,6 +2484,10 @@ In artikel 44, § 1, van hetzelfde decreet, worden de volgende wijzigingen aange
 
 Aan artikel 47 van hetzelfde decreet, gewijzigd bij decreet van 23 december 2010, wordt een § 5 toegevoegd, die luidt als volgt :<br /><br />« § 5. De landbouwer die meststoffen vanuit zijn exploitatie overbrengt naar een naast gelegen mestverwerker, zonder dat deze meststoffen over de openbare weg vervoerd worden, moet hiervoor een overdrachtsdocument opmaken en overmaken aan de Mestbank.<br /><br />De Vlaamse Regering bepaalt nadere regels, onder meer wat betreft de inhoud van dit overdrachtsdocument en de wijze waarop dit overgemaakt moet worden aan de Mestbank. ».
 
+### ART. 18.
+
+In artikel 48, § 3, van hetzelfde decreet, gewijzigd bij het decreet van 19 december 2008, worden het vijfde en het zesde lid vervangen door wat volgt :<br /><br />« Voor elk vervoer van dierlijke mest of andere meststoffen moet de erkend mestvoerder gebruik maken van een systeem van onlinepositiebepaling. <br /><br />De Vlaamse Regering stelt nadere regels vast, onder meer betreffende de wijze waarop het systeem van onlinepositiebepaling gebruikt moet worden. ».
+
 ### ART. 20.
 
 In artikel 59 van hetzelfde decreet, gewijzigd bij het decreet van 23 december 2010, wordt de zinsnede « de forfaitaire, door de Vlaamse Regering vastgelegde, » vervangen door het woord « forfaitaire ».
