@@ -2,16 +2,16 @@
   "codex_id": 1016820,
   "title": "Besluit van de Vlaamse Regering van 2008-04-11 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer Beheersdienst van het kasteeldomein van Gaasbeek",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016820/VolledigDocument?datum=2011-08-26",
-  "source_sha256": "5f2634d558dc1424f9ce73493e631de4fa62ed28908e01bef0ff816dd176aeda",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016820/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "9a5fae137abe6fd972e27ebdcaf17de1e28d423aa54356dbde707463d56243cd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016820&param=informatie",
-  "as_of": "2011-08-26",
+  "as_of": "2012-01-01",
   "made": "2008-04-11",
   "gazette": "2008-06-11",
   "numac": 2008202000,
   "document_start": "2008-01-01",
   "document_end": "2018-06-30",
-  "in_force": "2011-08-26",
+  "in_force": "2012-01-01",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2011-08-26; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }
