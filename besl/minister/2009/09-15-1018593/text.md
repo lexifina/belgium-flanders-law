@@ -44,6 +44,10 @@ Het Vlaams Energieagentschap bepaalt vanaf wanneer de primaire energiebesparing 
 
 ## [HOOFDSTUK III/1. Inrekening van een combilus in het kader van de energieprestatieregelgeving (ing. MB 12 december 2011, art. 4)]
 
+### ART. 5/1.
+
+Voor gebouwen die gebruik maken van een combilus, waarvoor de berekeningswijze, vermeld in het Energiebesluit van 19 november 2010, niet kan worden toegepast, wordt de alternatieve berekeningswijze, gevoegd in bijlage I, gebruikt.<br /><br />In afwijking van het eerste lid is deze berekeningswijze niet van toepassing wanneer er een elektrische weerstand in een opslagvat of afleverset aanwezig is. Deze systemen dienen op basis van gelijkwaardigheid, vermeld in hoofdstuk 2, behandeld te worden. De methode, vermeld in het eerste lid, is wel van toepassing wanneer een elektrische bijverwarming in de warmteopwekker zelf aanwezig is.<br /><br />Als de warmteopwekker zich buiten het gebouw bevindt, is de methode, vermeld in het eerste lid, enkel van toepassing voor het gedeelte van de combilus dat zich binnen het gebouw bevindt. Het gedeelte dat zich buiten het gebouw bevindt, moet via externe warmtelevering ingerekend worden.
+
 ## [HOOFDSTUK III/2. Inrekening van warmtepompen in het kader van de energieprestatieregelgeving (ing. MB 30 november 2012, art. 9)]
 
 ## HOOFDSTUK IV. Gemeenschappelijke bepalingen
@@ -61,3 +65,7 @@ Het Vlaams Energieagentschap kan technische richtsnoeren vastleggen met betrekki
 ### ART. 8.
 
 Het ministerieel besluit van 10 april 2007 betreffende de vaststelling van de gelijkwaardigheid van innoverende bouwconcepten en technologieën in het kader van de energieprestatieregelgeving wordt opgeheven.
+
+### BIJLAGE 1
+
+<P> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/12/19_2.pdf#page=87" title=" Bijlage   1" target="_blank" class="pdf">Bijlage   1</a> </P>
