@@ -4,17 +4,17 @@
 
 ### ART. 1.
 
-§ 1. Dit besluit regelt het financiële en materiële beheer van de dienst met afzonderlijk beheer Grondfonds, bedoeld in artikel 144 van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, hierna te noemen "Grondfonds".<br /><br />§ 2. De bepalingen betreffende de rijkscomptabiliteit en de begrotingscontrole zijn van toepassing op het Grondfonds, tenzij in dit besluit anders is bepaald.<br /><br />§ 3. Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° het decreet: het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening;<br /><br />2° de Vlaamse minister: het lid van de Vlaamse regering, bevoegd voor de ruimtelijke ordening.
+§ 1. Dit besluit regelt het financiële en materiële beheer van de dienst met afzonderlijk beheer Grondfonds, bedoeld in artikel 144 van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, hierna te noemen "Grondfonds".<br /><br />§ 2. ...<br /><br />§ 3. Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° het decreet: het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening;<br /><br />2° de Vlaamse minister: het lid van de Vlaamse regering, bevoegd voor de ruimtelijke ordening.
 
 ## HOOFDSTUK II DE BEGROTING
 
 ### ART. 2.
 
-Het Grondfonds maakt jaarlijks een begroting op van alle ontvangsten en alle uitgaven, volgens de richtlijnen van de Vlaamse regering.<br /><br />Het begrotingsjaar begint op 1 januari en eindigt op 31 december van hetzelfde jaar.
+...
 
 ### ART. 3.
 
-De begroting wordt onderverdeeld in twee delen:<br /><br />1° de ontvangsten,<br /><br />2° de uitgaven.<br /><br />De Vlaamse minister kan de ontvangsten en uitgaven nader indelen in door hem te bepalen economische categorieën.
+...
 
 ### ART. 4.
 
@@ -22,19 +22,19 @@ De raming van de ontvangsten heeft betrekking op:<br /><br />1° het over te dra
 
 ### ART. 5.
 
-De uitgaven slaan op de bedragen die tijdens het begrotingsjaar verschuldigd zijn voor het aangaan en betalen van verbintenissen ontstaan tijdens het begrotingsjaar en voor het betalen van verbintenissen die werden aangegaan binnen de goedgekeurde limitatieve kredieten van vorige begrotingsjaren.
+...
 
 ### ART. 6.
 
-Het begrotingsontwerp van het Grondfonds wordt voor goedkeuring voorgelegd aan de Vlaamse minister en toegevoegd aan het ontwerp van decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.
+...
 
 ### ART. 7.
 
-De begroting van het Grondfonds is goedgekeurd door de afkondiging van het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap.<br /><br />Als de begroting van de Vlaamse Gemeenschap niet is goedgekeurd voor het begin van het begrotingsjaar mogen dezelfde verrichtingen worden uitgevoerd als die welke voor de vorige begroting waren toegestaan, naar rato van één twaalfde per maand vanaf 1 januari.
+...
 
 ### ART. 8.
 
-De Vlaamse minister kan kredietoverschrijvingen en kredietoverschrijdingen toestaan met het akkoord van de Vlaamse minister, bevoegd voor de financiën en de begroting.<br /><br />Indien de kredietoverschrijdingen in totaal een hogere dotatie van de Vlaamse Gemeenschap zouden meebrengen dan die ingeschreven in de administratieve begroting van de Vlaamse Gemeenschap, moeten zij voorafgegaan worden door een overeenstemmende wijziging van deze begroting.
+...
 
 ## HOOFDSTUK III DE COMPTABILITEIT EN AFLEGGING DER REKENINGEN
 
@@ -48,23 +48,23 @@ Op het einde van ieder kwartaal wordt een staat van ontvangsten en een staat van
 
 ### ART. 11.
 
-§ 1. De Vlaamse minister benoemt, in samenspraak met de Vlaamse minister, bevoegd voor de financiën en de begroting, de rekenplichtigen voor de verrichtingen van het Grondfonds, andere dan de verrichtingen met betrekking tot de planbaten, bedoeld in Titel II, hoofdstuk VIII van het decreet.<br /><br />De leidend ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed bepaalt voor welke verrichtingen, voortvloeiend uit de toepassing van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996 en uit de toepassing van het decreet, de krachtens het eerste lid benoemde rekenplichtigen hun ambt uitoefenen.<br /><br />§ 2. De Vlaamse minister, bevoegd voor de financiën en de begroting benoemt, na overleg met de Vlaamse minister, de rekenplichtige voor alle verrichtingen met betrekking tot de planbaten, bedoeld in Titel II, hoofdstuk VIII van het decreet.
+...
 
 ### ART. 12.
 
-Op het einde van ieder jaar worden de volgende stukken opgesteld:<br /><br />1° een beheersrekening;<br /><br />2° een rekening van uitvoering van de begroting;<br /><br />3° een staat van activa en passiva.<br /><br />Uiterlijk op 15 februari na het jaar waarop ze betrekking hebben, stuurt de Vlaamse minister deze rekeningen aan de Vlaamse minister, bevoegd voor de financiën en de begroting, die ze vóór 30 april van hetzelfde jaar aan het Rekenhof bezorgt.
+...
 
 ### ART. 13.
 
-De uitvoeringsrekening van het Grondfonds wordt gevoegd bij die van het algemeen bestuur van de Vlaamse Gemeenschap.
+...
 
 ### ART. 14.
 
-De boekhouding wordt gevoerd overeenkomstig de aanrekeningregels vervat in het koninklijk besluit van 1 juli 1964 tot vaststelling van de regels van aanrekening van de budgettaire ontvangsten en uitgaven van de diensten van algemeen bestuur van de staat, met uitzondering van de in artikel 5, 6, § 2, en 9 van voornoemd besluit bedoelde bepalingen.
+...
 
 ### ART. 15.
 
-Er wordt een vermogenscomptabiliteit gevoerd. Hiertoe wordt onder meer een inventaris van het vermogen opgemaakt overeenkomstig de ter zake geldende bepalingen.
+...
 
 ## HOOFDSTUK IV BEHEER
 
@@ -171,21 +171,21 @@ b) verrekeningen, andere dan voormelde herzieningen, ramingstaten en de hieraan 
 
 ### ART. 18.
 
-Het bedrag van de uitgaven en het bedrag van de verbintenissen wordt beperkt door het bedrag van de goedgekeurde limitatieve kredieten en door het bedrag van de ontvangsten.
+...
 
 ### ART. 19.
 
-Bij het begin van het jaar mogen de bij het verstrijken van het vorige jaar beschikbare geldmiddelen gebruikt worden.
+...
 
 ### ART. 20.
 
-De rekenplichtige die tegenover het Rekenhof verantwoording moet afleggen, is met betrekking tot de overeenkomstig artikel 11, § 1, vastgestelde verrichtingen en overeenkomstig de opdrachten gedefinieerd in zijn aanstellingsbesluit belast met:<br /><br />1° het behandelen en bewaren van de gelden en waarden;<br /><br />2° het opstellen en bewaren van de in artikel 10 en 12 bedoelde bescheiden;<br /><br />3° het bijhouden van de inventaris van het vermogen en van de vermogenscomptabiliteit.
+...
 
 ## HOOFDSTUK V [... (opgeh. BVR 1 juni 2012, art. 11)]
 
 ### ART. 21.
 
-Het Rekenhof en het agentschap Centrale Accounting van het Vlaams Ministerie van Financiën en Begroting kunnen de rekeningen ter plaatse controleren. Ze mogen te allen tijde alle stukken ter verantwoording, staten, inlichtingen of toelichtingen opvragen die betrekking hebben op de ontvangsten, de uitgaven, de activa en de schulden.<br /><br />De uitgaven worden vereffend en betaald zonder bemiddeling van het Rekenhof en zonder visum van de controleur van de vastleggingen.
+...
 
 ## HOOFDSTUK VI SLOTBEPALINGEN
 

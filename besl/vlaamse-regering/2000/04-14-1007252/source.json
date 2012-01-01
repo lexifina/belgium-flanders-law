@@ -2,16 +2,16 @@
   "codex_id": 1007252,
   "title": "Besluit van de Vlaamse Regering van 2000-04-14 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer [\"BRV-fonds\"]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007252/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "076b05d89331ba86c0138f91177c0467c951db1606a1291d17101155525e93d2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007252/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "ec1007b368e495ebc095c00af649a4a079e93d545fb9291404a0b0570fd42f9d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007252&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2012-01-01",
   "made": "2000-04-14",
   "gazette": "2000-05-13",
   "numac": 2000035453,
   "document_start": "2000-05-01",
   "document_end": null,
-  "in_force": "2006-07-01",
+  "in_force": "2012-01-01",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }
