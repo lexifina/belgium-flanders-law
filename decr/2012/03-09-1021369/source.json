@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021369,
+  "title": "Decreet van 2012-03-09 houdende wijziging van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, wat betreft de beleidsondersteunende opdracht voor het beleidsveld Woonbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021369/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "3df018d203f03cfe5aeff51799f5c149e735f45833f7dc387c825f8622991a16",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021369&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2012-03-09",
+  "gazette": "2012-03-22",
+  "numac": 2012035318,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
