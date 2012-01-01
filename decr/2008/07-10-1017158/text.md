@@ -44,6 +44,10 @@ Scholengroep 13 Zuid-Limburg organiseert vanaf 1 september 2009 gedurende vier s
 
 ## [HOOFDSTUK IIter Pilootprojecten hervorming deeltijds kunstonderwijs (ing. decr. 23 december 2011, art. 3, I: 1 januari 2012)]
 
+### ART. 8ter.
+
+In de periode van 1 januari 2012 tot 31 augustus 2014 kan de Vlaamse Regering subsidies toekennen aan pilootprojecten ter voorbereiding op de hervorming van het deeltijds kunstonderwijs. De projecten worden georganiseerd door een of meer pedagogische begeleidingsdiensten en/of één of meer specifieke lerarenopleidingen die aansluiten op een vakinhoudelijke opleiding in de kunsten en/of één of meer geïntegreerde lerarenopleidingen in de onderwijsvakken muzikale opvoeding, plastische opvoeding of project kunstvakken.<br /><br />De Vlaamse Regering bepaalt nadere inhoudelijke, organisatorische en procedurele regels met betrekking tot de afbakening van de thema's, de doelstellingen, de selectie van projecten en de toekenning van subsidies. Zij treft de nodige maatregelen om de transfer van de projectresultaten naar het brede werkveld te realiseren.
+
 ## [HOOFDSTUK IIquater Stopzetting en organieke omzetting van experimenten en tijdelijke projecten (ing. decr. 19 december 2014, art. 2, I: 30 augustus 2014)]
 
 ## HOOFDSTUK III Wijzigingen aan het decreet van 31 juli 1990 betreffende het onderwijs II
