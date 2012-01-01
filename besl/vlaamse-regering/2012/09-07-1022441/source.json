@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022441,
+  "title": "Besluit van de Vlaamse Regering van 2012-09-07 houdende de wijziging van artikel 6 en 14 van het besluit van de Vlaamse Regering van 16 juni 1998 tot regeling van de erkenning en de subsidiëring van de centra voor ontwikkelingsstoornissen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022441/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "b265611100202e0d6f3b861b134aeb5d8d8a55c835df60a65c512b4928b07650",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022441&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2012-09-07",
+  "gazette": "2012-11-07",
+  "numac": 2012036154,
+  "document_start": "2012-01-01",
+  "document_end": null,
+  "in_force": "2012-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
