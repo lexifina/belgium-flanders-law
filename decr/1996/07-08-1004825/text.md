@@ -26,11 +26,11 @@
 
 ### ART. 5.
 
-Alle publiekrechtelijke instellingen die afhangen van de Vlaamse Gemeenschap of het Vlaamse Gewest, met uitzondering van:<br />- de Gewestelijke Investeringsmaatschappij voor Vlaanderen;<br />- Gimvindus;<br />- de Vlaamse Milieuholding;<br />- de Limburgse Reconversiemaatschappij;<br />- de Universiteit Gent;<br />- het Universitair Centrum Antwerpen;<br />- de Universitaire Instelling Antwerpen;<br />- het Limburgs Universitair Centrum;<br />- de Autonome Raad voor het Gemeenschapsonderwijs;<br />- de Vlaamse Autonome Hogescholen;<br />- het Universitair Ziekenhuis Gent;<br />- de Openbare Psychiatrische Ziekenhuizen Geel/Rekem,<br />voeren een geïntegreerde budgettaire en economische boekhouding overeenkomstig de regels en een plan opgelegd door de Vlaamse regering
+...
 
 ### ART. 6.
 
-De Vlaamse regering dient uiterlijk op 15 maart van het jaar na het begrotingsjaar te beschikken over de jaarrekeningen van de publiekrechtelijke instellingen die afhangen van de Vlaamse Gemeenschap of het Vlaamse Gewest waarop artikel 5 van toepassing is.  <br /><br />De Vlaamse regering kan bepalen wat voor de toepassing van dit artikel onder jaarrekeningen moet verstaan worden.
+...
 
 ### ART. 7.
 

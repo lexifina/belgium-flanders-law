@@ -2,16 +2,16 @@
   "codex_id": 1004825,
   "title": "Decreet van 1996-07-08 houdende bepalingen tot begeleiding van de aanpassing van de begroting 1996",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004825/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "da83a1534156450c0ce4806d1173e22aa1ea395632fbc26289860425a139d497",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004825/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "761c184ca5b93ff85613cc6cc34ac336fbd84fab9ba1bd90cec029d49e48e045",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004825&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2012-01-01",
   "made": "1996-07-08",
   "gazette": "1996-10-19",
   "numac": 1996036119,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2012-01-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
 }
