@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021339,
+  "title": "Besluit van de Vlaamse Regering van 2012-03-02 tot uitvoering van de artikelen 140quinquies en 140sexies van het Wetboek der Registratie-, Hypotheek- en Griffierechten en de artikelen 60/4 en 60/5 van het Wetboek der Successierechten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021339/VolledigDocument?datum=2012-01-01",
+  "source_sha256": "7b93caa450c5cb26affd7f8a2a15c3da306b25598e923be75a40c85e31a8167e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021339&param=informatie",
+  "as_of": "2012-01-01",
+  "made": "2012-03-02",
+  "gazette": "2012-03-14",
+  "numac": 2012035290,
+  "document_start": "2012-01-01",
+  "document_end": "2014-12-31",
+  "in_force": "2012-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
