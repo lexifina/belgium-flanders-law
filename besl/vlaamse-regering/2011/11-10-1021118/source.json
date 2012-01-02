@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021118,
+  "title": "Besluit van de Vlaamse Regering van 2011-11-10 houdende de vaststelling van specifieke maatregelen voor de co-existentie van genetisch gemodificeerde aardappelgewassen met conventionele aardappelgewassen en biologische aardappelgewassen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021118/VolledigDocument?datum=2012-01-02",
+  "source_sha256": "f7a641687e033f3bad54207ecc854647fffa56897c16cd4a8b8ddf11c6002e78",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021118&param=informatie",
+  "as_of": "2012-01-02",
+  "made": "2011-11-10",
+  "gazette": "2011-12-23",
+  "numac": 2011206077,
+  "document_start": "2012-01-02",
+  "document_end": null,
+  "in_force": "2012-01-02",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2012-01-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
