@@ -6,12 +6,12 @@ De Vlaamse minister voor Economie, Buitenlands beleid, Landbouw en Plattelandsbe
 
 ### ART. 1.
 
-In artikel 23 van het ministerieel besluit van 22 december 2010 houdende tijdelijke aanvullende maatregelen voor het behoud van de visbestanden in zee, worden volgende wijzigingen aangebracht : <br />1° aan § 1 wordt een volgend lid toegevoegd : <br />"In afwijking van vorig lid is het in het i.c.e.s.-gebied VIIa voor een vissersvaartuig met een motorvermogen van 221 kW of minder, gedurende de periode 1 februari 2011 tot 65 % van het quotum is benut vóór 30 juni 2011, verboden bij de tongvangst per zeereis een hoeveelheid te overschrijden, die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in het desbetreffende i.c.e.s.-gebied."<br /><br />2° aan § 2 wordt een volgend lid toegevoegd : <br />"In de periode 1 februari 2011 tot 65 % van het quotum is benut vóór 30 juni 2011, wordt het getal in lid 1 met 120 kg verhoogd."<br /><br />
+...
 
 ### ART. 2.
 
-Aan het artikel 24 van hetzelfde besluit worden volgende wijzigingen met ingang van 1 februari 2011 aangebracht : <br />1° in § 1 wordt het getal "300" vervangen door het getal "350",<br />2° in § 2 wordt het getal "600" vervangen door het getal "700".<br /><br />
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking op 1 februari 2011 en houdt op van kracht te zijn op 1 januari 2012.<br /><br />
+...
