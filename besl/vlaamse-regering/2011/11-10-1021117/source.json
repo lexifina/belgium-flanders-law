@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021117,
+  "title": "Besluit van de Vlaamse Regering van 2011-11-10 houdende de vaststelling van specifieke maatregelen voor de co-existentie van genetisch gemodificeerde suikerbieten met conventionele suikerbieten en biologische suikerbieten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021117/VolledigDocument?datum=2012-01-02",
+  "source_sha256": "29b4a167cce010fd373b63781a66be66c4974238125232c5db2be430d4ffc984",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021117&param=informatie",
+  "as_of": "2012-01-02",
+  "made": "2011-11-10",
+  "gazette": "2011-12-23",
+  "numac": 2011206076,
+  "document_start": "2012-01-02",
+  "document_end": null,
+  "in_force": "2012-01-02",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2012-01-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
