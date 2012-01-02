@@ -6,20 +6,20 @@ De Vlaamse minister voor Economie, Buitenlands beleid, Landbouw en Plattelandsbe
 
 ### ART. 1.
 
-In artikel 12 van het ministerieel besluit van 22 december 2010 houdende tijdelijke aanvullende maatregelen voor het behoud van de visbestanden in zee, wordt het getal "260" vervangen door het getal "265". <br /><br />
+...
 
 ### ART. 2.
 
-In artikel 19 § 1 van hetzelfde besluit wordt het getal "4" vervangen door de woorden "3000 kg, vermeerderd met een hoeveelheid gelijk aan 4"; <br /><br />
+...
 
 ### ART. 3.
 
-Het artikel 21 van hetzelfde besluit wordt aangevuld met volgende paragrafen : <br />" § 2. In afwijking van § 1 is het vanaf 8 juni 2011 om 00.00 uur, alleen voor de vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne 2011" voorkomen, toegestaan om in de i.c.e.s.-gebieden VIIIa,b aanwezig te zijn.<br /><br />Om aan de lijst, vermeld in het eerste lid, toegevoegd te kunnen worden, moeten de eigenaars van vissersvaartuigen vóór 19 mei 2011 met een aangetekende brief of per fax een aanvraag tot de dienst richten.<br /><br />Ingeval het aantal ingeschreven vaartuigen te hoog is in verhouding tot de beschikbare tongquota of beschikbare brutotonnage, zal via loting dat aantal worden beperkt.<br /><br />§ 3. Vanaf 8 juni 2011 tot en met 31 juli 2011 is het verboden dat in de i.c.e.s.-gebieden VIIIa,b de tongvangst van een vissersvaartuig, dat voorkomt op de lijst vermeld in § 2, een hoeveelheid overschrijdt die gelijk is aan 15 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Als uitgangspunt wordt de situatie op 1 mei 2011 genomen.<br /><br />De onbenutte hoeveelheden op 31 juli 2011 komen voor herverdeling in aanmerking.<br /><br />§ 4. Ingeval de hoeveelheden tong, vermeld in § 3, worden overschreden, worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in mindering gebracht op de hoeveelheid tong die aan het vissersvaartuig wordt toegekend voor 2012.<br /><br />§ 5. Voor de vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne 2011" voorkomen, wordt het aantal dagen in de i.c.e.s.-gebieden IV, VIId en VIIa vermeld in artikel 10 § 2, verminderd met 20. Bovendien wordt voor de vissersvaartuigen in kwestie de toe te kennen hoeveelheid tong II, IV overeenkomstig artikel 14, voor de periode 1 juli 2011 tot 31 oktober 2011 verminderd met 3 kg per kW.<br /><br />§ 6. Voor de vissersvaartuigen die de bepalingen van § 1 of § 2 niet naleven, wordt het aantal dagen, vermeld in artikel 10 § 2 en artikel 12, verminderd met 10.<br /><br />Bovendien zullen de vissersvaartuigen in kwestie niet aanwezig mogen zijn in de i.c.e.s.-gebieden VIIIa,b gedurende het jaar 2012."<br /><br />
+...
 
 ### ART. 4.
 
-In artikel 28 van hetzelfde besluit worden met ingang van 16 april 2011 de volgende wijzigingen aangebracht : <br />1° in § 4, § 5 en § 6 worden de woorden "31 december" vervangen door de woorden "15 april",<br />2° aan § 4 wordt een tweede lid toegevoegd, dat luidt als volgt : <br />"In afwijking van het eerste lid is het voor een vissersvaartuig, in de periode van 16 april 2011 tot en met 31 december 2011 zolang geen 60 % van het quotum is benut, verboden bij de bot- en scharvangsten per zeereis in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) een hoeveelheid te overschrijden die gelijk is aan 1.100 kg, vermenigvuldigd met het aantal vaardagen die tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden worden gerealiseerd".<br />3° aan § 5 wordt een tweede lid toegevoegd dat luidt als volgt : <br />"In de periode van 16 april 2011 tot en met 31 december 2011 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de tongschar en witjevangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 500 kg, vermenigvuldigd met het aantal vaartdagen die tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden worden gerealiseerd."<br />4° aan § 6 wordt een tweede lid toegevoegd, dat luidt als volgt : <br />"In de periode van 16 april 2011 tot en met 31 december 2011 is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de tongschar en witjevangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 1.000 kg, vermenigvuldigd met het aantal vaartdagen die tijdens die zeereis in de desbetreffende i.c.e.s.-gebieden worden gerealiseerd."<br /><br />
+...
 
 ### ART. 5.
 
-Dit besluit treedt in werking op 16 april 2011 en houdt op van kracht te zijn op 1 januari 2012.<br /><br />
+...
