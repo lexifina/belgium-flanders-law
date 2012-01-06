@@ -18,6 +18,10 @@ Ter uitvoering van artikel 59, § 1, 2°, van het Fokkerijbesluit van 19 maart 2
 
 Ter uitvoering van artikel 59, § 1, 3°, van het Fokkerijbesluit van 19 maart 2010 zijn de volgende verenigingen erkend : <br />1° de vzw Vlaamse Confederatie van het Paard, met ondernemingsnummer 478.828.820, voor het opnemen van coördinerende taken in de fokkerij van paardachtigen;<br />2° de vzw Vlaams Interprovinciaal Verbond van Fokkers van Neerhofdieren, met ondernemingsnummer 447.471.886, voor het opnemen van coördinerende taken in de fokkerij van pluimvee en konijnen;<br />3° de vzw Vlaamse Bedrijfspluimvee- en Konijnenhouders, met ondernemingsnummer 463.941.397, voor het opnemen van coördinerende taken in de fokkerij van bedrijfspluimvee en -konijnen.<br /><br />
 
+### ART. 3/1.
+
+Ter uitvoering van artikel 7 van het Fokkerijbesluit van 19 maart 2010 is de volgende vereniging erkend : vzw het Steunpunt Levend Erfgoed, met ondernemingsnummer 450.819.178, voor het vereenvoudigd beheer voor de fokkerij van Belgische rassen van pluimvee en konijnen.
+
 ## HOOFDSTUK 2 Slotbepalingen
 
 ### ART. 4.
