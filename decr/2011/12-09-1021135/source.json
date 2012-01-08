@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021135,
+  "title": "Decreet van 2011-12-09 houdende wijziging van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging, wat de bestemming van de asurne betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021135/VolledigDocument?datum=2012-01-08",
+  "source_sha256": "ea63b49d96a100c1611a6ef2cb2e94fcf817a198ce3d4e578d1cc4d3a282b0a7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021135&param=informatie",
+  "as_of": "2012-01-08",
+  "made": "2011-12-09",
+  "gazette": "2011-12-29",
+  "numac": 2011036077,
+  "document_start": "2012-01-08",
+  "document_end": null,
+  "in_force": "2012-01-08",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-01-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
