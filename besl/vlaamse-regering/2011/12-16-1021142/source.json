@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021142,
+  "title": "Besluit van de Vlaamse Regering van 2011-12-16 tot vaststelling van de statuten van de Vlaamse Vervoermaatschappij - De Lijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021142/VolledigDocument?datum=2012-01-15",
+  "source_sha256": "8bab4b972297c925f3fa651035906ee218b8b7cc6eefd99e453bf07facbe27a7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021142&param=informatie",
+  "as_of": "2012-01-15",
+  "made": "2011-12-16",
+  "gazette": "2012-01-05",
+  "numac": 2011036091,
+  "document_start": "2012-01-15",
+  "document_end": "2023-09-17",
+  "in_force": "2012-01-15",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2012-01-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
