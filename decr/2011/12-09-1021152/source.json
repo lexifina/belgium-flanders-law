@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021152,
+  "title": "Decreet van 2011-12-09 houdende instemming met het protocol tot wijziging van het verdrag van 9 februari 1994 inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, teneinde 1) te voldoen aan Richtlijn 2006/38/EG van het Europees Parlement en de Raad van 17 mei 2006 tot wijziging van Richtlijn 1999/62/EG betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen en 2) de introductie overeen te komen tussen de regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en het Koninkrijk Zweden van een papierloos vignetsysteem in hun gemeenschappelijk stelsel voor de heffing van het gebruiksrecht, ondertekend in Brussel op 20 oktober 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021152/VolledigDocument?datum=2012-01-20",
+  "source_sha256": "2bce9f041044ee5a0eaff0fd850e098df0c2aef9e2b33a24172e632bccb9662e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021152&param=informatie",
+  "as_of": "2012-01-20",
+  "made": "2011-12-09",
+  "gazette": "2012-01-10",
+  "numac": 2011036081,
+  "document_start": "2012-01-20",
+  "document_end": null,
+  "in_force": "2012-01-20",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-01-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
