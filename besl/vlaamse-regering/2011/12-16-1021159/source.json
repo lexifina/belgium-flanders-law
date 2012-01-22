@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021159,
+  "title": "Besluit van de Vlaamse Regering van 2011-12-16 tot erkenning van de Master of European Union Policy als nieuwe opleiding van het Vesalius College",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021159/VolledigDocument?datum=2012-01-22",
+  "source_sha256": "059ec919382d766634d367f1b23335fcfc5b44bae8371d94b5b645d70bb18c86",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021159&param=informatie",
+  "as_of": "2012-01-22",
+  "made": "2011-12-16",
+  "gazette": "2012-01-12",
+  "numac": 2012035011,
+  "document_start": "2012-01-22",
+  "document_end": null,
+  "in_force": "2012-01-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-01-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
