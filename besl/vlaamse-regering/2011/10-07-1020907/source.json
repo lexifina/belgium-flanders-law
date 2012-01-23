@@ -2,16 +2,16 @@
   "codex_id": 1020907,
   "title": "Besluit van de Vlaamse Regering van 2011-10-07 houdende de aanwijzing van de leden van het Samenwerkingsplatform Eerstelijnsgezondheidszorg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020907/VolledigDocument?datum=2011-11-20",
-  "source_sha256": "372dbb74771187f5ee73aea9fd99cb8cd3ca60b70f9faf3357b19fe275b194e5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020907/VolledigDocument?datum=2012-01-23",
+  "source_sha256": "a19363e9d1463fd07243dbf0edd711b37b35f3fe0541e52011e4517066d6f59f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020907&param=informatie",
-  "as_of": "2011-11-20",
+  "as_of": "2012-01-23",
   "made": "2011-10-07",
   "gazette": "2011-11-10",
   "numac": 2011205588,
   "document_start": "2011-11-20",
   "document_end": "2019-03-28",
-  "in_force": "2011-11-20",
-  "article_versions": 17,
-  "record_form": "consolidated version as in force on 2011-11-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-01-23",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2012-01-23; future article versions excluded; article text as the API gives it"
 }
