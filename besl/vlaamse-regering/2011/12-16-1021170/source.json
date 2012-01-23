@@ -2,16 +2,16 @@
   "codex_id": 1021170,
   "title": "Besluit van de Vlaamse Regering van 2011-12-16 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne en het besluit van de Vlaamse Regering van 19 november 2010 wat betreft de normering van vast en tijdelijk opgestelde zendantennes voor elektromagnetische golven tussen 10 MHz en 10 GHz",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021170/VolledigDocument?datum=2011-01-23",
-  "source_sha256": "c8421201643e06827631b46a9c59a7d852e7e2d077569858d17416c8c3e13904",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021170/VolledigDocument?datum=2012-01-23",
+  "source_sha256": "30b12dc9e3e58baceca5b93546a8f5577090094164161e31d58ffcac69257f8e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021170&param=informatie",
-  "as_of": "2011-01-23",
+  "as_of": "2012-01-23",
   "made": "2011-12-16",
   "gazette": "2012-01-13",
   "numac": 2012035006,
   "document_start": "2012-01-23",
   "document_end": null,
-  "in_force": "2011-01-23",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2011-01-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-01-23",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2012-01-23; future article versions excluded; article text as the API gives it"
 }

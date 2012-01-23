@@ -6,6 +6,14 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ## HOOFDSTUK 1. Wijzigingen in titel II van het Vlarem
 
+### ART. 1.
+
+Dit besluit strekt er onder meer toe de Richtlijn 2006/7/EG van het Europees Parlement en de Raad van 15 februari 2006 betreffende het beheer van de zwemwaterkwaliteit en tot intrekking van Richtlijn 76/160/EEG, gedeeltelijk om te zetten.
+
+### ART. 2.
+
+In artikel 1.1.2 van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 14 januari 2011, worden in « DEFINITIES OPPERVLAKTEWATER- EN GRONDWATERBESCHERMING (INTEGRAAL WATERBELEID), Zwemwaterkwaliteit » de volgende wijzigingen aangebracht :<br /><br />1° in punt 8° wordt de zinsnede « artikel 2.3.7.3.2, 2.3.7.3.4 » vervangen door de zinsnede « artikel 2.3.7.5.2, 2.3.7.5.3 en 2.3.7.5.4 »;<br /><br />2° in punt 11° wordt de zinsnede « artikel 1, § 4 », vervangen door de zinsnede « artikel 4 »;<br /><br />3° in punt 14° wordt de zinsnede « artikel 3 » vervangen door de zinsnede « artikel 4 ». <br />
+
 ### ART. 3.
 
 In artikel 1.1.2 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 14 januari 2011, worden in « DEFINITIES ELEKTROMAGNETISCHE GOLVEN » de volgende wijzigingen aangebracht :<br /><br />1° in het opschrift wordt de zinsnede « hoofdstuk 2.14 en 6.9 » vervangen door de zinsnede « hoofdstuk 2.14 en 6.10 »;<br /><br />2° in punt 10° worden de zinsnede « hoofdstuk 6.9, afdeling 6.9.2 » vervangen door de zinsnede « hoofdstuk 6.10, afdeling 6.10.2 »;<br /><br />3° in punt 12° worden de zinsnede « hoofdstuk 6.9 » vervangen door de zinsnede « hoofdstuk 6.10 ».
@@ -422,4 +430,16 @@ Art. 6.10.3.4. Bestaande vast opgestelde zendantennes voldoen :<br>
 
 ## HOOFDSTUK 2. Wijziging in het besluit van de Vlaamse Regering van 19 november 2010 tot wijziging van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne wat betreft de normering van vast en tijdelijk opgestelde zendantennes voor elektromagnetische golven tussen 10 MHz en 10 GHz
 
+### ART. 7.
+
+Artikel 4 van het besluit van de Vlaamse Regering van 19 november 2010 tot wijziging van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne wat betreft de normering van vast en tijdelijk opgestelde zendantennes voor elektromagnetische golven tussen 10 MHz en 10 GHz, wordt ingetrokken.<br />
+
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART. 8.
+
+Artikel 3 tot en met artikel 6 hebben uitwerking met ingang van 23 januari 2011.
+
+### ART. 9.
+
+De Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, is belast met de uitvoering van dit besluit.
