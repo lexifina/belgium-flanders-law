@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021163,
+  "title": "Decreet van 2011-12-16 houdende instemming met de stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Servië, anderzijds, en de slotakte, ondertekend in Luxemburg op 29 april 2008",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021163/VolledigDocument?datum=2012-01-23",
+  "source_sha256": "da0bf96430a17fd7190aa12d8e5b687b6fe272601d0d9f30e3227490b14240c5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021163&param=informatie",
+  "as_of": "2012-01-23",
+  "made": "2011-12-16",
+  "gazette": "2012-01-13",
+  "numac": 2012035000,
+  "document_start": "2012-01-23",
+  "document_end": null,
+  "in_force": "2012-01-23",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-01-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
