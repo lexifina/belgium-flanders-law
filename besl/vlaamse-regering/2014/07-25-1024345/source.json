@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024345,
+  "title": "Besluit van de Vlaamse Regering van 2014-07-25 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024345/VolledigDocument?datum=2012-01-25",
+  "source_sha256": "1dc884e5cae0181ad17e000e377a3a9c8fb4a82310a776b9587eba391e3fb332",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024345&param=informatie",
+  "as_of": "2012-01-25",
+  "made": "2014-07-25",
+  "gazette": "2014-08-01",
+  "numac": 2014036475,
+  "document_start": "2014-07-25",
+  "document_end": null,
+  "in_force": "2012-01-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-01-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
