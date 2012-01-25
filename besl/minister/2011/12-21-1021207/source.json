@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021207,
+  "title": "Ministerieel besluit van 2011-12-21 tot opschorting van sommige bepalingen van de wet van 28 december 1967 betreffende de onbevaarbare waterlopen in het westelijk deel van het ruilverkavelingsblok Zondereigen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021207/VolledigDocument?datum=2012-01-25",
+  "source_sha256": "d64aa4f9037f4f85c2284b426d9d44b51e6e0c2e211bc5f8b33ca4649dab9978",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021207&param=informatie",
+  "as_of": "2012-01-25",
+  "made": "2011-12-21",
+  "gazette": "2012-01-25",
+  "numac": 2012035061,
+  "document_start": "2012-01-25",
+  "document_end": null,
+  "in_force": "2012-01-25",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-01-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
