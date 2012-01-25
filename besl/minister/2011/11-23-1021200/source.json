@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021200,
+  "title": "Ministerieel besluit van 2011-11-23 houdende de vastlegging van het steunpercentage en van het aandeel van de steun aan praktijkonderzoek, in uitvoering van artikel 6 resp. artikel 17 van het besluit van de Vlaamse Regering van 18 februari 2005 betreffende de projectmatige financiering van toegepast collectief onderzoek voor de land- en tuinbouwsector",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021200/VolledigDocument?datum=2012-01-25",
+  "source_sha256": "319bc5d03e9337709b04936d0c2fc3fbd068fdbada2aafb7a4749a115d9b83c7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021200&param=informatie",
+  "as_of": "2012-01-25",
+  "made": "2011-11-23",
+  "gazette": "2012-01-25",
+  "numac": 2012200295,
+  "document_start": "2012-01-25",
+  "document_end": null,
+  "in_force": "2012-01-25",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2012-01-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
