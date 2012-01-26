@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021174,
+  "title": "Besluit van de Vlaamse Regering van 2011-12-16 met betrekking tot het project Outreach vanuit het PC Sleidinge naar de Bijzondere Jeugdbijstand",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021174/VolledigDocument?datum=2012-01-26",
+  "source_sha256": "025aebeb267997dff14febf541f65c9b7001ae3b473d08715608b9a300457cef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021174&param=informatie",
+  "as_of": "2012-01-26",
+  "made": "2011-12-16",
+  "gazette": "2012-01-16",
+  "numac": 2012035007,
+  "document_start": "2012-01-26",
+  "document_end": null,
+  "in_force": "2012-01-26",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2012-01-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
