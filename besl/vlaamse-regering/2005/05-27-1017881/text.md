@@ -26,7 +26,11 @@
 
 ### ART. 2.
 
-Hoogstens vier keer per jaar doet de minister namens de Vlaamse Regering de oproep, bedoeld in artikel 8, § 1, van het Waarborgdecreet.<br /><br />De oproep wordt gepubliceerd in ten minste een Nederlandstalig financieel-economisch dagblad en in ten minste een Nederlandstalig vakblad dat zich richt tot de rechtspersonen die in aanmerking komen om, naar aanleiding van de oproep, de hoedanigheid van waarborghouder te verwerven.<br /><br />De minister kan beslissen om naast de bovengenoemde oproepkanalen ook gebruik te maken van andere kanalen om ruchtbaarheid aan de oproep te geven.
+Hoogstens vier keer per jaar doet de minister namens de Vlaamse Regering de oproep, bedoeld in artikel 8, § 1, van het Waarborgdecreet.<br>
+<br>
+De oproep wordt gepubliceerd in ten minste een Nederlandstalig financieel-economisch dagblad dat zich richt tot de rechtspersonen die in aanmerking komen om, naar aanleiding van de oproep, de hoedanigheid van waarborghouder te verwerven.<br>
+<br>
+De minister kan beslissen om naast de bovengenoemde oproepkanalen ook gebruik te maken van andere kanalen om ruchtbaarheid aan de oproep te geven.
 
 ### ART. 3.
 
@@ -59,7 +63,13 @@ De minister beslist of en op welke wijze bij de toekenning van een waarborg aan 
 
 ### ART. 6.
 
-§ 1. De minister deelt aan de waarborghouder mee ten belope van welk bedrag en onder welke voorwaarden en modaliteiten, hem in voorkomend geval een waarborg toegekend wordt.<br /><br />In voorkomend geval deelt de minister aan kandidaat-waarborghouders waaraan geen waarborg verleend wordt, de beslissing van weigering mee onder vermelding van de motivering van die weigering.<br /><br />§ 2. De minister maakt de wijze van verdeling van het totaal bedrag dat per oproep wordt toebedeeld, bekend in het Belgisch Staatsblad.<br /><br />§ 3. De minister brengt de beslissingen, bedoeld in § 1, ter kennis van Waarborgbeheer NV.
+§ 1. De minister deelt aan de waarborghouder mee ten belope van welk bedrag en onder welke voorwaarden en modaliteiten, hem in voorkomend geval een waarborg toegekend wordt.<br>
+<br>
+In voorkomend geval deelt de minister aan kandidaat-waarborghouders waaraan geen waarborg verleend wordt, de beslissing van weigering mee onder vermelding van de motivering van die weigering.<br>
+<br>
+§ 2. De minister maakt de wijze van verdeling van het totaal bedrag dat per oproep wordt toebedeeld en herbepaald, bekend in het Belgisch Staatsblad.<br>
+<br>
+§ 3. De minister brengt de beslissingen, bedoeld in § 1, ter kennis van Waarborgbeheer NV.
 
 ## HOOFDSTUK III. Categorieën van financieringsovereenkomsten en andere verrichtingen waarvan verbintenissen van de KMO onder toepassing van een waarborg kunnen worden gebracht en de criteria waaraan ze moeten voldoen
 
@@ -221,7 +231,13 @@ Waarborgbeheer NV verifieert tevens of de berekeningwijze bedoeld in artikel 21,
 
 ### ART. 23.
 
-§ 1. Binnen de termijn, bedoeld in artikel 22, § 2, beslist Waarborgbeheer NV om al dan niet over te gaan tot een voorlopige betaalbaarstelling van het bedrag van de afroep.<br /><br />Waarborgbeheer NV kan naar aanleiding van een onderzoek van het dossier, er tevens toe beslissen om het bedrag van de afroep slechts ten dele voorlopig betaalbaar te stellen.<br /><br />§ 2. De waarborghouder wordt, door middel van een aangetekende brief, onverwijld op de hoogte gebracht van een beslissing als bedoeld in § 1.<br /><br />§ 3. De betaalbaarstelling van een waarborg en elke betaling die daarop volgt, bevrijden de KMO niet van haar verbintenissen tegenover de waarborghouder, die voortvloeien uit de financieringsovereenkomst of andere verrichting in kwestie.
+§ 1. Binnen de termijn, bedoeld in artikel 22, § 2 en § 3, beslist Waarborgbeheer NV om al dan niet over te gaan tot een voorlopige betaalbaarstelling van het bedrag van de afroep.<br>
+<br>
+Waarborgbeheer NV kan naar aanleiding van een onderzoek van het dossier, er tevens toe beslissen om het bedrag van de afroep slechts ten dele voorlopig betaalbaar te stellen.<br>
+<br>
+§ 2. De waarborghouder wordt, door middel van een aangetekende brief, onverwijld op de hoogte gebracht van een beslissing als bedoeld in § 1.<br>
+<br>
+§ 3. De betaalbaarstelling van een waarborg en elke betaling die daarop volgt, bevrijden de KMO niet van haar verbintenissen tegenover de waarborghouder, die voortvloeien uit de financieringsovereenkomst of andere verrichting in kwestie.
 
 ### ART. 24.
 
