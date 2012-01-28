@@ -28,7 +28,9 @@ Besluit :
 
 ### ART. 2.
 
-Minstens een keer en hoogstens vier keer per jaar lanceert de minister, namens de Vlaamse Regering, de oproep, vermeld in artikel 8, § 1, van het Waarborgdecreet.<br /><br />De oproep, vermeld in het eerste lid, wordt gepubliceerd in ten minste een Nederlandstalig financieel-economisch dagblad en in ten minste een Nederlandstalig vakblad dat zich richt tot de rechtspersonen die in aanmerking komen om, naar aanleiding van de oproep, de hoedanigheid van waarborghouder te verwerven. De minister kan beslissen om naast de voormelde oproepkanalen tevens gebruik te maken van andere kanalen om ruchtbaarheid aan de oproep te geven.
+Minstens een keer en hoogstens vier keer per jaar lanceert de minister, namens de Vlaamse Regering, de oproep, vermeld in artikel 8, § 1, van het Waarborgdecreet.<br>
+<br>
+De oproep, vermeld in het eerste lid, wordt gepubliceerd in ten minste een Nederlandstalig financieel-economisch dagblad dat zich richt tot de rechtspersonen die in aanmerking komen om, naar aanleiding van de oproep, de hoedanigheid van waarborghouder te verwerven. De minister kan beslissen om naast de voormelde oproepkanalen tevens gebruik te maken van andere kanalen om ruchtbaarheid aan de oproep te geven.
 
 ### ART. 3.
 
@@ -60,7 +62,13 @@ De minister beslist of en op welke wijze bij de toekenning van een waarborg aan 
 
 ### ART. 6.
 
-De minister deelt aan de waarborghouder mee voor welk bedrag, onder welke voorwaarden en volgens welke procedure, hem in voorkomend geval een waarborg toegekend wordt.<br /><br />In voorkomend geval deelt de minister aan kandidaat-waarborghouders waaraan geen waarborg verleend wordt, de beslissing van weigering mee met vermelding van de motivering van die weigering.<br /><br />De minister maakt de wijze van verdeling van het totaalbedrag dat per oproep wordt toegewezen, bekend in het Belgisch Staatsblad.<br /><br />De minister brengt de beslissingen, vermeld in het eerste lid, ter kennis van Waarborgbeheer NV.
+De minister deelt aan de waarborghouder mee voor welk bedrag, onder welke voorwaarden en volgens welke procedure, hem in voorkomend geval een waarborg toegekend wordt.<br>
+<br>
+In voorkomend geval deelt de minister aan kandidaat-waarborghouders waaraan geen waarborg verleend wordt, de beslissing van weigering mee met vermelding van de motivering van die weigering.<br>
+<br>
+De minister maakt de wijze van verdeling van het totaalbedrag dat per oproep wordt toegewezen en herbepaald, bekend in het Belgisch Staatsblad.<br>
+<br>
+De minister brengt de beslissingen, vermeld in het eerste lid, ter kennis van Waarborgbeheer NV.
 
 ## HOOFDSTUK III. [Categorieën van leasingovereenkomsten waarvan verbintenissen van de kredietnemer onder toepassing van een waarborg kunnen worden gebracht, alsook de criteria waaraan ze moeten voldoen (verv. BVR 10/6/2011, art. 14)]
 
@@ -252,7 +260,13 @@ Als er aanwijzingen zijn dat het bedrag van de afroep niet voorlopig betaalbaar 
 
 ### ART. 30.
 
-Binnen de termijn, vermeld in artikel 29, tweede lid, beslist Waarborgbeheer NV om al dan niet over te gaan tot een voorlopige betaalbaarstelling van het bedrag van de afroep.<br /><br />Waarborgbeheer NV kan, naar aanleiding van haar onderzoek van het dossier, tevens beslissen om het bedrag van de afroep slechts ten dele voorlopig betaalbaar te stellen.<br /><br />De waarborghouder wordt, met een aangetekende brief, onverwijld op de hoogte gebracht van een beslissing als vermeld in het eerste lid.<br /><br />De betaalbaarstelling van een waarborg en elke betaling die daarop volgt, stellen de kredietnemer niet vrij van haar verbintenissen tegenover de waarborghouder, die voortvloeien uit de leasingovereenkomst in kwestie.
+Binnen de termijn, vermeld in artikel 29, tweede lid en derde lid, beslist Waarborgbeheer NV om al dan niet over te gaan tot een voorlopige betaalbaarstelling van het bedrag van de afroep.<br>
+<br>
+Waarborgbeheer NV kan, naar aanleiding van haar onderzoek van het dossier, tevens beslissen om het bedrag van de afroep slechts ten dele voorlopig betaalbaar te stellen.<br>
+<br>
+De waarborghouder wordt, met een aangetekende brief, onverwijld op de hoogte gebracht van een beslissing als vermeld in het eerste lid.<br>
+<br>
+De betaalbaarstelling van een waarborg en elke betaling die daarop volgt, stellen de kredietnemer niet vrij van haar verbintenissen tegenover de waarborghouder, die voortvloeien uit de leasingovereenkomst in kwestie.
 
 ### ART. 31.
 
