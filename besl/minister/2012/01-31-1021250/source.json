@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021250,
+  "title": "Ministerieel besluit van 2012-01-31 houdende delegatie van bevoegdheid tot het uitoefenen van de aandeelhoudersrechten van de Vlaamse Gemeenschap en het Vlaamse Gewest op de algemene vergaderingen van de T-Groep NV",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021250/VolledigDocument?datum=2012-01-31",
+  "source_sha256": "42f5fa0d7181fd2a4768c4110c364874c0c0c675a27aa374bd676601dea137cc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021250&param=informatie",
+  "as_of": "2012-01-31",
+  "made": "2012-01-31",
+  "gazette": "2012-02-13",
+  "numac": 2012200768,
+  "document_start": "2012-01-31",
+  "document_end": null,
+  "in_force": "2012-01-31",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-01-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
