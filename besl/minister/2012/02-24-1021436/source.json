@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021436,
+  "title": "Ministerieel besluit van 2012-02-24 tot goedkeuring van de algemene reisvoorwaarden en de tarieven van de Vlaamse Vervoermaatschappij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021436/VolledigDocument?datum=2012-02-01",
+  "source_sha256": "77465be2ba34a0115e95af402e3757eb347000eb0dca0320b713866996a15013",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021436&param=informatie",
+  "as_of": "2012-02-01",
+  "made": "2012-02-24",
+  "gazette": "2012-04-05",
+  "numac": 2012035398,
+  "document_start": "2012-02-01",
+  "document_end": "2013-08-28",
+  "in_force": "2012-02-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2012-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
