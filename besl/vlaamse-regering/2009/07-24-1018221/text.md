@@ -50,7 +50,7 @@ Binnen de perken van de kabinetsbegroting kunnen de leden van de Vlaamse Regerin
 
 ### ART. 9.
 
-Bij het kabinet van de minister-president en de viceminister-presidenten bestaat het aanvullend personeel uit maximaal vijf personeelsleden, met uitsluiting van het bepaalde in het tweede lid.<br /><br />Bij het kabinet van de Vlaamse minister bestaat het aanvullend personeel uit maximaal drie personeelsleden.<br /><br />Ambtenaren van niveau A en titularissen van gelijkwaardige graden die behoren tot andere openbare diensten of tot de gesubsidieerde onderwijsinrichtingen, mogen geen deel uitmaken van het aanvullend personeel.
+Bij het kabinet van de minister-president en de viceminister-presidenten bestaat het aanvullend personeel uit maximaal vijf personeelsleden, met uitsluiting van het bepaalde in het tweede lid.<br /><br />Bij het kabinet van de Vlaamse minister bestaat het aanvullend personeel uit maximaal drie personeelsleden.<br /><br />Mits een gemotiveerd besluit van de minister-president kan een viceminister-president functies van aanvullend personeelslid afstaan en toewijzen aan een kabinet van een Vlaamse minister.<br /><br />Ambtenaren van niveau A en titularissen van gelijkwaardige graden die behoren tot andere openbare diensten of tot de gesubsidieerde onderwijsinrichtingen, mogen geen deel uitmaken van het aanvullend personeel.
 
 ### ART. 10.
 
