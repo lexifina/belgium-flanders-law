@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021450,
+  "title": "Ministerieel besluit van 2012-03-15 betreffende de erkenning van Proefcentrum Fruitteelt vzw als centrum voor bedrijfsbegeleiding in de biologische landbouw",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021450/VolledigDocument?datum=2012-02-01",
+  "source_sha256": "1c533c070a13fdbc5b9ce73c09031adc5725e37f31d439eefcf876a1f4cebf2d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021450&param=informatie",
+  "as_of": "2012-02-01",
+  "made": "2012-03-15",
+  "gazette": "2012-04-11",
+  "numac": 2012035417,
+  "document_start": "2012-02-01",
+  "document_end": null,
+  "in_force": "2012-02-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
