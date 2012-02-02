@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021122,
+  "title": "Besluit van de Vlaamse Regering van 2011-10-28 houdende de subsidiëring van landelijke cultureel-erfgoedorganisaties voor volkscultuur en landelijke expertisecentra voor cultureel erfgoed voor de beleidsperiode 2012-2016",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021122/VolledigDocument?datum=2012-02-02",
+  "source_sha256": "feb04a686def4b0ab7bd78317acca79294c41dcff1fe5a402d1c137b8b46e529",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021122&param=informatie",
+  "as_of": "2012-02-02",
+  "made": "2011-10-28",
+  "gazette": "2011-12-23",
+  "numac": 2011036027,
+  "document_start": "2012-02-02",
+  "document_end": null,
+  "in_force": "2012-02-02",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2012-02-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
