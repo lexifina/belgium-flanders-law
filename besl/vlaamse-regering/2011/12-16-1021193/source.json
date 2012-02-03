@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021193,
+  "title": "Besluit van de Vlaamse Regering van 2011-12-16 tot wijziging van het besluit van de Vlaamse Regering van 17 mei 2002 betreffende de erkenning en subsidiëring van de vertrouwenscentra kindermishandeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021193/VolledigDocument?datum=2012-02-03",
+  "source_sha256": "8be61e6a48e261ca7b363743122454101a727b1d29551985649840743cfa146d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021193&param=informatie",
+  "as_of": "2012-02-03",
+  "made": "2011-12-16",
+  "gazette": "2012-01-24",
+  "numac": 2012035048,
+  "document_start": "2012-02-03",
+  "document_end": null,
+  "in_force": "2012-02-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-02-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
