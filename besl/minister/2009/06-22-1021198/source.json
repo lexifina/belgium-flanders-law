@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021198,
+  "title": "Ministerieel besluit van 2009-06-22 betreffende de machtiging tot onteigening voor het Gemeenschapsonderwijs voor een onroerend goed gelegen in de gemeente Mechelen, Pastorijstraat 84",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021198/VolledigDocument?datum=2012-02-04",
+  "source_sha256": "de346f95f9ef5b3d1d5e70437e11360abe4cbdc0f62624f9dac7f5490b83ce23",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021198&param=informatie",
+  "as_of": "2012-02-04",
+  "made": "2009-06-22",
+  "gazette": "2012-01-25",
+  "numac": 2012035088,
+  "document_start": "2012-02-04",
+  "document_end": null,
+  "in_force": "2012-02-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-02-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
