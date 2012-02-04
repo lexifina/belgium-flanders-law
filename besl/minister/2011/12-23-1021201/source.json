@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021201,
+  "title": "Ministerieel besluit van 2011-12-23 betreffende de definitieve opname van roerende goederen in de lijst van het cultureel erfgoed van de Vlaamse Gemeenschap",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021201/VolledigDocument?datum=2012-02-04",
+  "source_sha256": "b43f7c9966e503f65d27b1fed8a1be77a57c816179fd10b6c20aaa4c8f602ab1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021201&param=informatie",
+  "as_of": "2012-02-04",
+  "made": "2011-12-23",
+  "gazette": "2012-01-25",
+  "numac": 2012200177,
+  "document_start": "2012-02-04",
+  "document_end": null,
+  "in_force": "2012-02-04",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2012-02-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
