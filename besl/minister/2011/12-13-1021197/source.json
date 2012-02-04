@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021197,
+  "title": "Ministerieel besluit van 2011-12-13 houdende de herverdeling van basisallocaties van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2011",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021197/VolledigDocument?datum=2012-02-04",
+  "source_sha256": "0debbfe2b9e6c7f99b923dc9daf84b360f778be924544351f92256ae85be8c7f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021197&param=informatie",
+  "as_of": "2012-02-04",
+  "made": "2011-12-13",
+  "gazette": "2012-01-25",
+  "numac": 2012035053,
+  "document_start": "2012-02-04",
+  "document_end": null,
+  "in_force": "2012-02-04",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-02-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
