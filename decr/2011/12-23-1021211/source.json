@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021211,
+  "title": "Decreet van 2011-12-23 houdende tweede aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2011",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021211/VolledigDocument?datum=2012-02-05",
+  "source_sha256": "ff1522cd57e176e12acf9ae46096e2c33d66e247cf49c810079749f7651ae53d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021211&param=informatie",
+  "as_of": "2012-02-05",
+  "made": "2011-12-23",
+  "gazette": "2012-01-26",
+  "numac": 2012035049,
+  "document_start": "2012-02-05",
+  "document_end": null,
+  "in_force": "2012-02-05",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-02-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
