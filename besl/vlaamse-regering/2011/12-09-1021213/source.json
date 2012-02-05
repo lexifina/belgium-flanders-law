@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021213,
+  "title": "Besluit van de Vlaamse Regering van 2011-12-09 houdende verdeling van het provisioneel krediet ingeschreven onder basisallocatie CB0 CB011 0100 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2011",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021213/VolledigDocument?datum=2012-02-05",
+  "source_sha256": "f0c11bee14cda3db502a339715021f19ce4b610cf801baf3f79a502fc5150ac1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021213&param=informatie",
+  "as_of": "2012-02-05",
+  "made": "2011-12-09",
+  "gazette": "2012-01-26",
+  "numac": 2012035045,
+  "document_start": "2012-02-05",
+  "document_end": null,
+  "in_force": "2012-02-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-02-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
