@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021212,
+  "title": "Decreet van 2011-12-23 houdende tweede aanpassing van de Middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2011",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021212/VolledigDocument?datum=2012-02-05",
+  "source_sha256": "a70fb1d8d2624287b8218e9b6a3005b849b2d17a6317da37459cb0fb3131334e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021212&param=informatie",
+  "as_of": "2012-02-05",
+  "made": "2011-12-23",
+  "gazette": "2012-01-26",
+  "numac": 2012035050,
+  "document_start": "2012-02-05",
+  "document_end": null,
+  "in_force": "2012-02-05",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-02-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
