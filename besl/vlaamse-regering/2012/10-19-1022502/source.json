@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022502,
+  "title": "Besluit van de Vlaamse Regering van 2012-10-19 tot wijziging van de regelgeving met betrekking tot de kredietregeling, vermeld in artikel 4.1.16 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022502/VolledigDocument?datum=2012-02-06",
+  "source_sha256": "545db02ac1bfa1a3ba2f7cd5c03d51f90a04c21cd8bbff93e0a479cf6d1bfcf8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022502&param=informatie",
+  "as_of": "2012-02-06",
+  "made": "2012-10-19",
+  "gazette": "2012-11-30",
+  "numac": 2012036196,
+  "document_start": "2012-02-06",
+  "document_end": null,
+  "in_force": "2012-02-06",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2012-02-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
