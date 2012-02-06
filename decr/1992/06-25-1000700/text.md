@@ -88,6 +88,10 @@ Het fonds neemt voor zijn rekening de uitgaven met betrekking tot:<br />1° het 
 
 Het fonds kan voor het vervullen van zijn taak onroerende goederen verwerven, ze vervreemden of er zakelijke rechten op vestigen. Het kan tot onteigening ten algemene nutte overgaan, na machtiging van de Vlaamse regering. [ <span class="reference">(ing. decr. 22 december 1995, art. 3, I: 1 januari 1996)</span> ]
 
+### ART. 19ter.
+
+Voor de toepassing van het Wetboek der registratie-, hypotheek- en griffierechten en van de regelgeving inzake de belasting over de toegevoegde waarde, telkens als die refereren aan de sociale huisvestingsmaatschappijen die conform gewestelijke regelgeving erkend zijn, worden woningen die deel uitmaken van woonprojecten met sociaal karakter waarbij een erkende sociale huisvestingsmaatschappij in de zin van artikel 40 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode optreedt als initiatiefnemer, erkend als sociale woningen gerealiseerd door die sociale huisvestingsmaatschappij.
+
 ### ART. 20.
 
 Het fonds wordt beheerd door de Vlaamse regering. Tussen het fonds en de Vlaamse Maatschappij voor Sociaal Wonen wordt een overeenkomst gesloten met betrekking tot het ter beschikking stellen aan het fonds van de nodige diensten, uitrusting, installaties en personeelsleden. De Vlaamse Maatschappij voor Sociaal Wonen ontvangt hiervoor jaarlijks een kostenvergoeding lastens de begroting van het fonds.
