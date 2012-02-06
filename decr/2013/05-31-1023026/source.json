@@ -2,16 +2,16 @@
   "codex_id": 1023026,
   "title": "Decreet van 2013-05-31 houdende wijziging van diverse decreten met betrekking tot wonen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023026/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "0ce1346fa96268835df1007cbe7694029a06c6737293b7bab0cf31970cf0d477",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023026/VolledigDocument?datum=2012-02-06",
+  "source_sha256": "200f7ad1ece56b722ec4654ef1c3fbbc35112243cb37681e991c01da9f85cd06",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023026&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2012-02-06",
   "made": "2013-05-31",
   "gazette": "2013-07-11",
   "numac": 2013203797,
   "document_start": "2013-07-21",
   "document_end": null,
-  "in_force": "2012-01-01",
-  "article_versions": 8,
-  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-02-06",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2012-02-06; future article versions excluded; article text as the API gives it"
 }
