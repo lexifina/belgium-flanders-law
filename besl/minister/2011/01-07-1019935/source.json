@@ -2,16 +2,16 @@
   "codex_id": 1019935,
   "title": "Ministerieel besluit van 2011-01-07 houdende de vaststelling van het Compendium voor Monsterneming en Analyse",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019935/VolledigDocument?datum=2011-01-30",
-  "source_sha256": "0ca7e571c7ff138785de7af32fcbc75a0bc6f1be241e88bd5d6e4659cc6ae326",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019935/VolledigDocument?datum=2012-02-06",
+  "source_sha256": "39dc5a31db69f6dc140582e14771af9f8ec84dec6dc4abe25c7427174af63d61",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019935&param=informatie",
-  "as_of": "2011-01-30",
+  "as_of": "2012-02-06",
   "made": "2011-01-07",
   "gazette": "2011-01-20",
   "numac": 2011035042,
   "document_start": "2011-01-30",
   "document_end": "2012-02-05",
-  "in_force": "2011-01-30",
+  "in_force": "2012-02-06",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2011-01-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-02-06; future article versions excluded; article text as the API gives it"
 }
