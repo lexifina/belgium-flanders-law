@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021242,
+  "title": "Ministerieel besluit van 2012-02-06 tot instelling van een tijdelijk jachtverbod omwille van langdurige vorst",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021242/VolledigDocument?datum=2012-02-08",
+  "source_sha256": "6be7ad4b4cea3ecd1a3c07492763b8a68208fcb7286ea90a88d3c56e596c2d0d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021242&param=informatie",
+  "as_of": "2012-02-08",
+  "made": "2012-02-06",
+  "gazette": "2012-02-08",
+  "numac": 201235124,
+  "document_start": "2012-02-08",
+  "document_end": null,
+  "in_force": "2012-02-08",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-02-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
