@@ -2,16 +2,16 @@
   "codex_id": 1017079,
   "title": "Besluit van de Vlaamse Regering van 2008-07-18 houdende bepaling van de specifieke regels voor het toezicht op de sociale woonactoren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017079/VolledigDocument?datum=2008-10-03",
-  "source_sha256": "a924e78f5d93cc5bec2fb43bc9f74c44163a1930c2aa6963e2470f78f3c6690e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017079/VolledigDocument?datum=2012-02-12",
+  "source_sha256": "afcc15b3c843374e66a44c7dd4bca0380dbe5af133913ed983c6a34893128866",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017079&param=informatie",
-  "as_of": "2008-10-03",
+  "as_of": "2012-02-12",
   "made": "2008-07-18",
   "gazette": "2008-09-23",
   "numac": 2008036079,
   "document_start": "2008-10-03",
   "document_end": "2012-02-11",
-  "in_force": "2008-10-03",
+  "in_force": "2012-02-12",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2008-10-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-02-12; future article versions excluded; article text as the API gives it"
 }
