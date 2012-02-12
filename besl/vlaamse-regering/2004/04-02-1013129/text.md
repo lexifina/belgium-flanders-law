@@ -46,7 +46,7 @@ Als de erkende kredietmaatschappij haar erkenning verliest, vervalt de gewestwaa
 
 ### ART. 10.
 
-Zonder afbreuk te doen aan de controle door de commissaris, zoals bedoeld in artikel 4, 10°, ziet de toezichthouder erop toe dat de erkende kredietmaatschappij handelt ter uitvoering van de haar toegekende opdrachten en dit in overeenstemming met de wetten, decreten, reglementen en statuten.
+...
 
 ### ART. 11.
 
