@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021225,
+  "title": "Ministerieel besluit van 2011-12-12 betreffende de rapportering over de toepassing van de bepalingen uit het besluit van de Vlaamse Regering houdende bepalingen van rechten en plichten van de exploitanten van een openbaar waterdistributienetwerk en hun klanten met betrekking tot de levering van water bestemd voor menselijke consumptie, de uitvoering van de saneringsverplichting en het algemeen waterverkoopreglement",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021225/VolledigDocument?datum=2012-02-12",
+  "source_sha256": "2e666866fd6dac19af5f11abf7b99bdfc0a30a12022d1ecbacaf83905a83dfa9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021225&param=informatie",
+  "as_of": "2012-02-12",
+  "made": "2011-12-12",
+  "gazette": "2012-02-02",
+  "numac": 2012035078,
+  "document_start": "2012-02-12",
+  "document_end": "2015-03-31",
+  "in_force": "2012-02-12",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2012-02-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
