@@ -2,16 +2,16 @@
   "codex_id": 1015854,
   "title": "Decreet van 2007-03-30 betreffende de Brownfieldconvenanten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015854/VolledigDocument?datum=2011-04-21",
-  "source_sha256": "ff9429a7d4aef1da8fb5d1554bf12bf979fafd7bb48b1c4ee562771e9947fb5f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015854/VolledigDocument?datum=2012-02-13",
+  "source_sha256": "1340bd95f93d18e0912851462e3feb30e8d4ad4c836380d82b0132fb6e1da02e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015854&param=informatie",
-  "as_of": "2011-04-21",
+  "as_of": "2012-02-13",
   "made": "2007-03-30",
   "gazette": "2007-06-19",
   "numac": 2007035750,
   "document_start": "2007-06-19",
   "document_end": null,
-  "in_force": "2011-04-21",
-  "article_versions": 29,
-  "record_form": "consolidated version as in force on 2011-04-21; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-02-13",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2012-02-13; future article versions excluded; article text as the API gives it"
 }
