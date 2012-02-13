@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021228,
+  "title": "Decreet van 2011-12-23 tot wijziging van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021228/VolledigDocument?datum=2012-02-13",
+  "source_sha256": "1708cb0ec3d505ab384749aee008a9316b7a2b38b40b2d87f91dd813cb4dc983",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021228&param=informatie",
+  "as_of": "2012-02-13",
+  "made": "2011-12-23",
+  "gazette": "2012-02-03",
+  "numac": 2012035096,
+  "document_start": "2012-02-13",
+  "document_end": null,
+  "in_force": "2012-02-13",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2012-02-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
