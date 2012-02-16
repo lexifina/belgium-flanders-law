@@ -183,7 +183,15 @@ De woning of het perceel bestemd voor woningbouw, verworven door de uitoefening 
 
 ### ART. 28.
 
-De volgende gebieden worden als bijzonder gebied in de zin van artikel 85, § 1, tweede lid, 3°, van de Vlaamse Wooncode, beschouwd:<br /><br />1° de woonvernieuwingsgebieden zoals bepaald door het besluit van de Vlaamse regering van 7 april 1998 houdende de afbakening van de woonvernieuwings- en woningbouwgebieden, waarin het aandeel sociale huurwoningen op het totaal aantal woningen niet meer bedraagt dan 20 %. De minister erkent deze gebieden als bijzonder gebied;<br /><br />2° de woningbouwgebieden zoals bepaald in het besluit vermeld in 1°, die op gemotiveerd voorstel van de gemeente, door de minister, als een bijzonder gebied worden erkend. Als er in een gemeente weinig woningbouw- of woonverniewingsgebieden zijn, kunnen statistische sectoren gelegen in of nabij de stads-of dorpskernen eveneens op gemotiveerd voorstel van de gemeente door de minister, als een bijzonder gebied worden erkend;<br /><br />3° de woonvernieuwings- en woningbouwgebieden in de volgende 26 gemeenten: Asse, Beersel, Bertem, Bever, Dilbeek, Drogenbos, Grimbergen, Hoeilaart, Huldenberg, Kortenberg, Kraainem, Linkebeek, Machelen, Meise, Merchtem, Mesen, Overijse, Ronse, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Tervuren, Vilvoorde, Voeren, Wemmel, Wezembeek-Oppem en Zaventem.
+De volgende gebieden worden als bijzonder gebied in de zin van artikel 85, § 1, tweede lid, 3°, van de Vlaamse Wooncode, beschouwd:<br>
+<br>
+1° de woonvernieuwingsgebieden zoals bepaald door het besluit van de Vlaamse regering van 7 april 1998 houdende de afbakening van de woonvernieuwings- en woningbouwgebieden, waarin het aandeel sociale huurwoningen op het totaal aantal woningen niet meer bedraagt dan 20 %. De minister erkent deze gebieden als bijzonder gebied;<br>
+<br>
+2° de woningbouwgebieden zoals bepaald in het besluit vermeld in 1°, die op gemotiveerd voorstel van de gemeente, door de minister, als een bijzonder gebied worden erkend. Als er in een gemeente weinig woningbouw- of woonverniewingsgebieden zijn, kunnen statistische sectoren gelegen in of nabij de stads-of dorpskernen eveneens op gemotiveerd voorstel van de gemeente door de minister, als een bijzonder gebied worden erkend;<br>
+<br>
+3° de woonvernieuwings- en woningbouwgebieden in de volgende 26 gemeenten: Asse, Beersel, Bertem, Bever, Dilbeek, Drogenbos, Grimbergen, Hoeilaart, Huldenberg, Kortenberg, Kraainem, Linkebeek, Machelen, Meise, Merchtem, Mesen, Overijse, Ronse, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Tervuren, Vilvoorde, Voeren, Wemmel, Wezembeek-Oppem en Zaventem.<br>
+<br>
+4° de gebieden die in hoofdzaak bestemd zijn voor wonen en aan het wonen verwante activiteiten en voorzieningen, en de gebieden met een ondergeschikte bestemming voor wonen, gelegen in het Vlaams Strategisch Gebied rond Brussel.
 
 ## AFDELING 3 BIJKOMENDE BEPALINGEN INZAKE DE VOLGORDE EN DE KENNISGEVING
 
