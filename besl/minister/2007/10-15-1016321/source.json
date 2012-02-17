@@ -2,16 +2,16 @@
   "codex_id": 1016321,
   "title": "Ministerieel besluit van 2007-10-15 tot uitvoering van het besluit van de Vlaamse Regering van 27 april 2007 betreffende steun aan investeringen in de omkaderingssector van land- en tuinbouw",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016321/VolledigDocument?datum=2007-11-18",
-  "source_sha256": "600d1bb69d63cdfa4fffe0d8f4bf2f4b701fe54e3de8a3befec0f040d60997f6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016321/VolledigDocument?datum=2012-02-17",
+  "source_sha256": "d92cf6616a1dd67dbf7a9b40ae16c686b5077788677714ad0e38a3f1e38a7949",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016321&param=informatie",
-  "as_of": "2007-11-18",
+  "as_of": "2012-02-17",
   "made": "2007-10-15",
   "gazette": "2007-11-08",
   "numac": 2007036914,
   "document_start": "2007-11-18",
   "document_end": null,
-  "in_force": "2007-11-18",
+  "in_force": "2012-02-17",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2007-11-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-02-17; future article versions excluded; article text as the API gives it"
 }
