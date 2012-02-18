@@ -24,15 +24,23 @@ In aanvulling op artikel I 2 van het VPS, wordt voor de toepassing van dit beslu
 
 ### ART. 3.
 
-De ambtenaar met de vroegere graad van inspecteur-generaal, behoudt zijn titel van inspecteur-generaal.<br /><br />
+De agentschapsspecifieke graad van centraal adviserend arts is ingedeeld bij rang A1.
+
+### ART. 3/1.
+
+De agentschapsspecifieke graad van adviseur-hoofdarts is ingedeeld bij rang A2.
 
 ## [Afdeling II. De functionele loopbaan (ing. BVR 23 december 2011, art. 1, I: 18 februari 2012)]
 
 ### ART. 4.
 
-De ambtenaar die vóór 1 juni 1995 titularis was van de begingraad (rang 10) in de vlakke loopbaan van informaticus heeft in afwijking van artikel VI 109, §1, 1° van het VPS, een functionele loopbaan in de graad van informaticus, bestaande uit de salarisschalen A131, A125, A126 en A127. De tweede, derde en vierde salarisschaal wordt bereikt na respectievelijk 6 jaar, 12 jaar en 4 jaar schaalanciënniteit.<br /><br />
+Voor de graad van centraal adviserend arts en adviseur-hoofdarts wordt een functionele loopbaan ingesteld, respectievelijk in rang A1 en A2.<br /><br />De functionele loopbaan in rang A1 bestaat uit de salarisschalen A121C, A122C en A123C. De tweede en derde salarisschaal worden bereikt na respectievelijk zes jaar en twaalf jaar schaalanciënniteit.<br /><br />De functionele loopbaan in rang A2 bestaat uit de salarisschaal A221P en A222P. De tweede salarisschaal wordt bereikt na tien jaar schaalanciënniteit in salarisschaal A221P.
 
 ## [Afdeling III. Overgangsbepaling inzake functionele loopbaan (ing. BVR 23 december 2011, art. 1, I: 18 februari 2012)]
+
+### ART. 4/1.
+
+De ambtenaar die voor 1 juni 1995 titularis was van de begingraad in de vlakke loopbaan van informaticus, heeft in afwijking van artikel VI 109, § 1, 1°, van het VPS een functionele loopbaan in de graad van informaticus, die bestaat uit de salarisschalen A131, A125, A126 en A127. De tweede, derde en vierde salarisschaal worden bereikt na respectievelijk zes jaar, twaalf jaar en vier jaar schaalanciënniteit.
 
 ## HOOFDSTUK III Verloning
 
@@ -40,7 +48,13 @@ De ambtenaar die vóór 1 juni 1995 titularis was van de begingraad (rang 10) in
 
 ### ART. 5.
 
-De lijst van activiteiten die als gevaarlijk, ongezond of hinderlijk worden beschouwd, wordt als bijlage I bij dit besluit gevoegd.<br /><br />
+Aan de agentschapsspecifieke graden worden de volgende salarisschalen verbonden :<br />centraal adviserend arts : A121 C;<br />na zes jaar schaalancienniteit in A121 C : A122 C;<br />na twaalf jaar schaalancienniteit in A122 C : A123 C;<br />adviseur-hoofdarts : A221 P;<br />na tien jaar schaalanciënniteit in A221 P : A222 P.
+
+### ART. 5/1.
+
+De salarisschalen A121C, A122C, A123C, A221P en A222P zijn opgenomen in bijlage IV, die bij dit besluit is gevoegd.
+
+## Afdeling II [Toelage voor backofficemedewerkers (verv. BVR 23 december 2011, art. 2, I: 18 februari 2012)]
 
 ### ART. 6.
 
@@ -50,21 +64,21 @@ De lijst van activiteiten die als gevaarlijk, ongezond of hinderlijk worden besc
 
 ### ART. 7.
 
-De ambtenaar van rang A1 of A2 die in december 1994 het salariscomplement genoot bedoeld in artikel 13 van het besluit van de Vlaamse Executieve van 14 oktober 1992 tot vaststelling van de weddeschalen van het ministerie van de Vlaamse Gemeenschap, ontvangt een toelage van 20 % van het geïndexeerd salaris voor zover hij de taken van informaticus daadwerkelijk en uitsluitend in een informaticadienst blijft uitoefenen.<br /><br />Het recht op deze toelage vervalt zo de ambtenaar bevordert in rang of in salarisschaal. Desgevallend wordt voor de toepassing van artikel VII 3, § 1 VPS dit salariscomplement samen met het salaris in de berekening opgenomen.<br /><br />De toelage wordt maandelijks en na verlopen termijn betaald; eventueel wordt zij verminderd overeenkomstig de bepalingen van artikel VII 6, § 1 VPS.<br /><br />
+Voor de toepassing van de wet van 3 juli 1967 betreffende de preventie van of de schadevergoeding voor arbeidsongevallen, voor ongevallen op de weg naar en van het werk, en voor beroepsziekten in de overheidssector wordt de rente, in geval van blijvende invaliditeit en in geval van overlijden, die wordt toegekend naar aanleiding van een arbeidsongeval of een ongeval op de weg naar en van het werk, en die berekend wordt op basis van de jaarlijkse bezoldiging van het personeelslid, beperkt tot 123.946,76 euro per jaar en per persoon.
 
 ## [Afdeling IV. Overgangsbepaling (ing. BVR 23 december 2011, art. 4, I: 18 februari 2012)]
 
 ### ART. 8.
 
-De jaarlijkse bezoldiging, vermeld in artikel 6 van dit besluit bedraagt 5 000 000 BEF voor de periode van 1 oktober 2000 tot 31 december 2001.<br /><br />
+De salarisschaal A221P is opgenomen in bijlage II bij dit besluit.
 
 ### ART. 9.
 
-De salarisschaal A221P is opgenomen in bijlage II bij dit besluit.<br /><br />
+...<br /><br />
 
 ### ART. 10.
 
-De salarisschalen A121P, A122P, B211K en B212K zijn opgenomen in bijlage III bij dit besluit.<br /><br />
+...
 
 ## HOOFDSTUK IV Algemene slotbepalingen
 
