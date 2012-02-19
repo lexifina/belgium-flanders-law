@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021245,
+  "title": "Ministerieel besluit van 2011-12-28 tot wijziging van het ministerieel besluit van 17 augustus 2011 tot erkenning van centra voor rundvee ter uitvoering van artikelen 35 en 59, § 2, van het Fokkerijbesluit van 19 maart 2010",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021245/VolledigDocument?datum=2012-02-19",
+  "source_sha256": "bf9bd4027e9df44a3bd609fd7bdaaf6595d6707fc663c43db3ab1dcdcaa7918b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021245&param=informatie",
+  "as_of": "2012-02-19",
+  "made": "2011-12-28",
+  "gazette": "2012-02-09",
+  "numac": 201235116,
+  "document_start": "2012-02-19",
+  "document_end": null,
+  "in_force": "2012-02-19",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-02-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
