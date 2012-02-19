@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021244,
+  "title": "Besluit van de Vlaamse Regering van 2011-12-23 tot wijziging van het besluit van de Vlaamse Regering van 21 september 2007 houdende subsidiëring van projecten ter ondersteuning van het lokaal woonbeleid wat de hernieuwing betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021244/VolledigDocument?datum=2012-02-19",
+  "source_sha256": "66bef58018b913bb0b7e7f617e28191478c166b88ce5029ac660d32395de266f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021244&param=informatie",
+  "as_of": "2012-02-19",
+  "made": "2011-12-23",
+  "gazette": "2012-02-09",
+  "numac": 201235119,
+  "document_start": "2012-02-19",
+  "document_end": null,
+  "in_force": "2012-02-19",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-02-19; oldest version available; future article versions excluded; article text as the API gives it"
+}

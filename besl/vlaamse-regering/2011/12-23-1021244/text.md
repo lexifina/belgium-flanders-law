@@ -1,0 +1,13 @@
+# Besluit van de Vlaamse Regering van 2011-12-23 tot wijziging van het besluit van de Vlaamse Regering van 21 september 2007 houdende subsidiëring van projecten ter ondersteuning van het lokaal woonbeleid wat de hernieuwing betreft
+
+### Aanhef
+
+De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, artikel 28, § 2, derde en vierde lid, ingevoegd bij het decreet van 29 juni 2007; <br /><br />Gelet op het besluit van de Vlaamse Regering van 21 september 2007 houdende subsidiëring van projecten ter ondersteuning van het lokaal woonbeleid;<br /><br />Gelet op het akkoord van de Vlaamse minister bevoegd voor de begroting, gegeven op 26 oktober 2011; <br /><br />Gelet op advies nr. 50.584/3 van de Raad van State, gegeven op 6 december 2011, met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;<br /><br />Op voorstel van de Vlaamse minister van Energie, Wonen, Steden en Sociale Economie; <br /><br />Na beraadslaging, <br /><br />Besluit :
+
+### ART. 1.
+
+Aan artikel 22/1 van het besluit van de Vlaamse Regering van 21 september 2007 houdende subsidiëring van projecten ter ondersteuning van het lokaal woonbeleid, ingevoegd bij het besluit van de Vlaamse Regering van 10 december 2010, wordt een paragraaf 4 toegevoegd, die luidt als volgt :<br />« § 4. In afwijking van paragraaf 2 kan de minister de duur van de hernieuwing beperken tot achttien maanden als uit het evaluatieverslag van het agentschap blijkt dat het project bijgestuurd moet worden. De hernieuwingsbeslissing maakt uitdrukkelijk melding van de doelstellingen en activiteiten waarvoor bijsturing noodzakelijk is en van de manier waarop de bijsturing geconcretiseerd moet worden.<br />Als het eerste lid toegepast wordt, bepaalt de minister de termijnen die gelden voor de indiening en de goedkeuring van het financieel verslag en het activiteitenverslag, vermeld in artikel 20, en de regeling voor de betaling van het subsidiebedrag voor het tweede werkingsjaar.<br />De minister neemt voor het verstrijken van de vijftiende maand na de hernieuwing met toepassing van het eerste lid, een beslissing over de voortzetting van het project voor de resterende periode, vermeld in de oorspronkelijke hernieuwingsaanvraag. De minister houdt daarbij rekening met de beoordeling, door het agentschap, van het resultaat van de bijsturing, vermeld in het eerste lid.<br />Als het project niet voortgezet wordt, vervalt het tweede subsidievoorschot, vermeld in artikel 17, voor het werkingsjaar in kwestie. ».
+
+### ART. 2.
+
+De Vlaamse minister, bevoegd voor de huisvesting, is belast met de uitvoering van dit besluit.
