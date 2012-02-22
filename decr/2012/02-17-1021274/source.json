@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021274,
+  "title": "Decreet van 2012-02-17 tot wijziging van het decreet van 2 maart 2007 houdende het statuut van de reisbureaus",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021274/VolledigDocument?datum=2012-02-22",
+  "source_sha256": "9bf894ab9d37bb4cd582a0eb0118b4cc27c7f32643d2b903c4a7328e6d97d410",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021274&param=informatie",
+  "as_of": "2012-02-22",
+  "made": "2012-02-17",
+  "gazette": "2012-02-22",
+  "numac": 2012035165,
+  "document_start": "2012-02-22",
+  "document_end": null,
+  "in_force": "2012-02-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-02-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
