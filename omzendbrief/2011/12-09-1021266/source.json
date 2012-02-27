@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021266,
+  "title": "Omzendbrief van 2011-12-09 RO 2011/01 Afwegingskader voor grootschalige detailhandel",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021266/VolledigDocument?datum=2012-02-27",
+  "source_sha256": "d95faac0a1a80cd6d9b2ca07e2353398fd5002ceeff056dfcb056246edfd4476",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021266&param=informatie",
+  "as_of": "2012-02-27",
+  "made": "2011-12-09",
+  "gazette": "2012-02-17",
+  "numac": 2012035135,
+  "document_start": "2012-02-27",
+  "document_end": null,
+  "in_force": "2012-02-27",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2012-02-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
