@@ -6,7 +6,7 @@ In dit besluit wordt verstaan onder:<br /><br />1° het decreet: het decreet van
 
 ### ART. 2.
 
-De gewestelijke waterbeheerders kunnen de toestemming geven om aan de waterkeringen, overstromingsbekkens, wachtbekkens en toegangswegen wijzigingen aan te brengen, zoals bedoeld in artikel 11 van het decreet.
+De gewestelijke waterbeheerders kunnen de toestemming geven om aan de waterkeringen, overstromingsbekkens, wachtbekkens en toegangswegen wijzigingen aan te brengen, zoals bedoeld in artikel 11 van het decreet.<br /><br />Als de gewestelijke waterbeheerders over een aanvraag tot stedenbouwkundige vergunning of een verkavelingsaanvraag een gunstig advies uitbrengen, wordt dat beschouwd als de toestemming, vermeld in het eerste lid. Artikel 3 is dan niet van toepassing.
 
 ### ART. 3.
 
