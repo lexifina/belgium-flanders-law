@@ -3512,7 +3512,7 @@ XVII 1. [...  <span class="reference">(opgeh. B.V.R. 19 september 2003, art. 35,
 
 ### ART. XVII 2.
 
-XVII 2. [...  <span class="reference">(opgeh. B.V.R. 19 september 2003, art. 34, I: 1 januari 1997)</span> ]
+<P>Aan de mandaatfunctie van leidend ambtenaar wordt een mandaattoelage   toegekend van 13.420 euro op jaarbasis aan 100 %. Deze toelage wordt geïndexeerd   overeenkomstig artikel XIII 22 van dit besluit. </P>
 
 ### ART. XVII 3.
 
