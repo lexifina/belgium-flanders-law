@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021268,
+  "title": "Ministerieel besluit van 2012-02-03 tot hoogdringende onteigening ten algemene nutte van onroerende goederen bestemd voor de uitvoering van waterbeheersingswerken langs de Handzamevaart te Kortemark door de Vlaamse Milieumaatschappij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021268/VolledigDocument?datum=2012-03-01",
+  "source_sha256": "91a53bc472614fad54e0c8c88b1b11601d58e48c9e2d803ad6d32575da54b10b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021268&param=informatie",
+  "as_of": "2012-03-01",
+  "made": "2012-02-03",
+  "gazette": "2012-02-20",
+  "numac": 2012035155,
+  "document_start": "2012-03-01",
+  "document_end": null,
+  "in_force": "2012-03-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2012-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
