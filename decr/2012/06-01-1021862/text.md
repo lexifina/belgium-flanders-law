@@ -148,6 +148,10 @@ In artikel 78 van het decreet van 23 december 2010 houdende bepalingen tot begel
 
 ## HOOFDSTUK 6. Belasting op de inverkeerstelling op grond van milieukenmerken
 
+### ART. 32.
+
+In artikel 97quater van het Wetboek van de met inkomstenbelastingen gelijkgestelde belastingen wordt de zin « Het percentage in de onderstaande tabel wordt toegepast volgens de term LC in de formules vermeld in artikel 97quater; » vervangen door de zin « De factor LC in de formule vermeld in artikel 97ter is gelijk aan het met de ouderdom overeenstemmende percentage in onderstaande tabel. ».
+
 ## HOOFDSTUK 7. Slotbepalingen
 
 ### ART. 33.
