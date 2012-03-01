@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021718,
+  "title": "Ministerieel besluit van 2012-04-24 houdende de toewijzing van een commissaris van de Vlaamse Regering bij de investeringsdiensten van de hogescholen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021718/VolledigDocument?datum=2012-03-01",
+  "source_sha256": "78d09d149d5c379698ffeb5d1ae5866887fcc924941dd01130760a2f16311aff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021718&param=informatie",
+  "as_of": "2012-03-01",
+  "made": "2012-04-24",
+  "gazette": "2012-05-10",
+  "numac": 2012202442,
+  "document_start": "2012-03-01",
+  "document_end": null,
+  "in_force": "2012-03-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
