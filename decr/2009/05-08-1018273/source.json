@@ -2,16 +2,16 @@
   "codex_id": 1018273,
   "title": "Decreet van 2009-05-08 betreffende de kwaliteit van onderwijs",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018273/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "83fc73c7747008beb6de068b49fe12505408c8a9d249d51867ec4bae71e5e502",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018273/VolledigDocument?datum=2012-03-01",
+  "source_sha256": "cca40fda5520d8a2e73f82ba72505f27e41bf0bb9c09889c1480796002742c62",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018273&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2012-03-01",
   "made": "2009-05-08",
   "gazette": "2009-08-28",
   "numac": 2009035790,
   "document_start": "2009-09-01",
   "document_end": null,
-  "in_force": "2012-01-01",
+  "in_force": "2012-03-01",
   "article_versions": 226,
-  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-03-01; future article versions excluded; article text as the API gives it"
 }
