@@ -98,6 +98,14 @@ In artikel 30 van hetzelfde decreet, gewijzigd bij het decreet van 1 juli   2011
 
 <P>Artikel 47 van hetzelfde decreet, gewijzigd bij het decreet van 18 december   2009, wordt vervangen door wat volgt :<BR>« Art. 47. Binnen de perken van de   begrotingskredieten stelt de Vlaamse Gemeenschap jaarlijks middelen ter   beschikking voor de salarissen en voor de werkingskosten van de   onderwijsinspectie.<BR></P>  <P>De uitgaven voor de salarissen bedragen minimaal 80 procent van de jaarlijkse   middelen. Het aandeel voor de salarissen volgt de evolutie van de   gezondheidsindex aan 100 %. Het aandeel voor de werkingskosten volgt 75 % van de   evolutie van de gezondheidsindex. ».<BR></P>
 
+### ART. VII.14.
+
+In artikel 63 van hetzelfde decreet worden de volgende wijzigingen   aangebracht :<BR>1° de bestaande tekst wordt paragraaf 1;<BR>2° er wordt een   paragraaf 2 toegevoegd, die luidt als volgt :<BR>« § 2. In afwijking van § 1,   1°, kan, in geval van dringende tekorten voor bepaalde concrete   functieprofielen, zoals vermeld in artikel 65, § 1, een aangepaste eerste fase   van de selectieprocedure opgestart worden. Het betreft een doelgroepgerichte   oproep voor de test van de generieke competenties in geval de specifieke   wervingsreserve voor een concreet functieprofiel uitgeput is of niet kan   aangelegd worden bij gebrek aan kandidaten. ». <BR>
+
+### ART. VII.15.
+
+In artikel 64 van hetzelfde decreet worden de volgende wijzigingen   aangebracht : <BR>1° in paragraaf 1 worden de woorden « De oproep voor de test »   vervangen door de woorden « De ruime of doelgerichte oproep voor de test   »;<BR>2° in paragraaf 5 wordt tussen de woorden « zijn rechtsopvolger stelt » en   de woorden « een lijst » de woorden « per oproep » ingevoegd.<BR>
+
 ## Afdeling II Decreet betreffende de inspectie en begeleiding van de levensbeschouwelijke vakken
 
 ### ART. VII.19.
