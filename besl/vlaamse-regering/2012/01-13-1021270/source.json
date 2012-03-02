@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021270,
+  "title": "Besluit van de Vlaamse Regering van 2012-01-13 houdende opheffing van het koninklijk besluit van 4 maart 1976 betreffende de kledij van het personeel van het Bestuur van Waters en Bossen en wijziging van het besluit van de Vlaamse Regering van 23 juli 1998 tot vaststelling van nadere regels ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021270/VolledigDocument?datum=2012-03-02",
+  "source_sha256": "6e315cdce03a33a9a18cf62b9cedb2eea5cea87ce27719d59f0f086e0aab053f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021270&param=informatie",
+  "as_of": "2012-03-02",
+  "made": "2012-01-13",
+  "gazette": "2012-02-21",
+  "numac": 2012201008,
+  "document_start": "2012-03-02",
+  "document_end": null,
+  "in_force": "2012-03-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-03-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
