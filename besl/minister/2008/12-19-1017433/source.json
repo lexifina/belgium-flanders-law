@@ -2,16 +2,16 @@
   "codex_id": 1017433,
   "title": "Ministerieel besluit van 2008-12-19 tot bepaling van de voorwaarden voor verhuring buiten sociaal huurstelsel en terbeschikkingstelling van sociale huurwoningen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017433/VolledigDocument?datum=2009-01-12",
-  "source_sha256": "b1fa29ce18962cd0fd4488d07135865ce3aa516e829aae63c812a6c989ca3a7b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017433/VolledigDocument?datum=2012-03-03",
+  "source_sha256": "7a9ba7695aba45438129089f5c29e72571734d53e5d60219f5d3b44092289ccb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017433&param=informatie",
-  "as_of": "2009-01-12",
+  "as_of": "2012-03-03",
   "made": "2008-12-19",
   "gazette": "2009-01-12",
   "numac": 2008204799,
   "document_start": "2009-01-12",
   "document_end": "2013-12-22",
-  "in_force": "2009-01-12",
+  "in_force": "2012-03-03",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2009-01-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-03-03; future article versions excluded; article text as the API gives it"
 }

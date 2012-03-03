@@ -36,7 +36,7 @@ De bestaande huurovereenkomsten buiten het sociaal huurstelsel die niet in overe
 
 ### ART. 7.
 
-Als een verhuurder een woning aankoopt die meteen te huur kan worden aangeboden en op het ogenblik van verwerving is er al een zittende huurder, worden de volgende regels in acht genomen. <br /><br />Als de huurder voldoet aan de toelatingsvoorwaarden, vermeld in artikel 14 van het kaderbesluit sociale huur, wordt hem een sociale huurovereenkomst als vermeld in artikel 31 van het kaderbesluit sociale huur, aangeboden. <br /><br />Als de huurder niet voldoet aan de toelatingsvoorwaarden, vermeld in artikel 14 van het kaderbesluit sociale huur, blijft de lopende huurovereenkomst doorlopen en wordt de opzeg betekend zodra dit mogelijk is, rekening houdend met de contractuele verbintenissen.
+...
 
 ## HOOFDSTUK IV. Terbeschikkingstelling van een sociale huurwoning
 
