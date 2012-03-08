@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021319,
+  "title": "Decreet van 2012-02-17 houdende wijziging van het decreet van 30 mei 2008 betreffende de vestiging, de invordering en de geschillenprocedure van provincie- en gemeentebelastingen, wat de termijnberekening in artikelen 7 en 9 betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021319/VolledigDocument?datum=2012-03-08",
+  "source_sha256": "c352e3ff84aa98187ce0dc3cf48bb3807d3b374fcc0d3283bc1418a6c83ea7aa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021319&param=informatie",
+  "as_of": "2012-03-08",
+  "made": "2012-02-17",
+  "gazette": "2012-03-07",
+  "numac": 2012201310,
+  "document_start": "2012-03-08",
+  "document_end": null,
+  "in_force": "2012-03-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-03-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
