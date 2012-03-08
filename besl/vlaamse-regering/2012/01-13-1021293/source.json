@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021293,
+  "title": "Besluit van de Vlaamse Regering van 2012-01-13 tot wijziging van het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning, inzake de beroepsmogelijkheden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021293/VolledigDocument?datum=2012-03-08",
+  "source_sha256": "2dd66250255b6c038031dcb265a71261e9959e5a5b000d51afd60abf353a5d6e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021293&param=informatie",
+  "as_of": "2012-03-08",
+  "made": "2012-01-13",
+  "gazette": "2012-02-27",
+  "numac": 2012035174,
+  "document_start": "2012-03-08",
+  "document_end": null,
+  "in_force": "2012-03-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-03-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
