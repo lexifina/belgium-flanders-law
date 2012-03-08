@@ -8,6 +8,10 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ## HOOFDSTUK 2 Wijzigingen van het decreet van 28 juni 1985 betreffende de milieuvergunning
 
+### ART. 2.
+
+In artikel 24 van het decreet van 28 juni 1985 betreffende de milieuvergunning, gewijzigd bij decreten van 18 mei 1999, 26 maart 2004, 19 mei 2006 en 12 december 2008, worden volgende wijzigingen aangebracht : <br />1° paragraaf 1, punt 3°, wordt vervangen door wat volgt : <br />« 3° de leidend ambtenaar van de adviesverlenende overheidsorganen, of bij afwezigheid diens gemachtigde; »;<br />2° paragraaf 1, punt 7°, wordt opgeheven;<br />3° aan paragraaf 1 wordt een tweede lid toegevoegd, dat luidt als volgt : <br />« Als, in het geval vermeld in het eerst lid, 3°, het adviesverlenend overheidsorgaan een entiteit of afdeling binnen het departement of agentschap is, wordt de bevoegdheid om beroep in te stellen gelegd bij de leidend ambtenaar van het departement of agentschap of bij afwezigheid diens gemachtigde. »;<br />4° in paragraaf 3 worden de woorden "adviesverlenende overheidsorganen en de gewestelijk stedenbouwkundig ambtenaar" telkens vervangen door de woorden "de leidend ambtenaar van een adviesverlenend overheidsorgaan of bij afwezigheid diens gemachtigde."
+
 ## HOOFDSTUK 3 Wijzigingen van de Vlaamse Codex Ruimtelijke Ordening
 
 ### ART. 3.
