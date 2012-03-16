@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021733,
+  "title": "Besluit van de Vlaamse Regering van 2012-03-16 houdende de delegatie van sommige bevoegdheden inzake de organisatie van de gemeenteraadsverkiezingen, de stadsdistrictsraadsverkiezingen, de verkiezingen van de raad voor maatschappelijk welzijn en de provincieraadsverkiezingen aan de Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021733/VolledigDocument?datum=2012-03-16",
+  "source_sha256": "450ce6f6b43cceea2ba19453a0b19d921e37ee0603adbec6836b7257299f02a9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021733&param=informatie",
+  "as_of": "2012-03-16",
+  "made": "2012-03-16",
+  "gazette": "2012-05-15",
+  "numac": 2012035528,
+  "document_start": "2012-03-16",
+  "document_end": "2017-08-10",
+  "in_force": "2012-03-16",
+  "article_versions": 37,
+  "record_form": "consolidated version as in force on 2012-03-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
