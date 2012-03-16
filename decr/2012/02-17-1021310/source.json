@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021310,
+  "title": "Decreet van 2012-02-17 houdende wijziging van het decreet van 28 februari 2003 betreffende het Vlaamse inburgeringsbeleid, wat de verplichte inburgering van asielzoekers betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021310/VolledigDocument?datum=2012-03-16",
+  "source_sha256": "8cb620572d05ba6e81aced53cfbc87d6371320cbf8e7a7badb4d7e48e11c1f44",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021310&param=informatie",
+  "as_of": "2012-03-16",
+  "made": "2012-02-17",
+  "gazette": "2012-03-06",
+  "numac": 2012201307,
+  "document_start": "2012-03-16",
+  "document_end": null,
+  "in_force": "2012-03-16",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-03-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
