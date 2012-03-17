@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021317,
+  "title": "Decreet van 2012-02-17 houdende instemming met het Statuut van het Internationaal Agentschap voor hernieuwbare energie (IRENA), gedaan te Bonn op 26 januari 2009, en met de bijhorende Verklaring van de Conferentie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021317/VolledigDocument?datum=2012-03-17",
+  "source_sha256": "f68f3036a86fbc8a75b1920b5a75af39a626e864d0776679e302bf221e95badd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021317&param=informatie",
+  "as_of": "2012-03-17",
+  "made": "2012-02-17",
+  "gazette": "2012-03-07",
+  "numac": 2012201309,
+  "document_start": "2012-03-17",
+  "document_end": null,
+  "in_force": "2012-03-17",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-03-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
