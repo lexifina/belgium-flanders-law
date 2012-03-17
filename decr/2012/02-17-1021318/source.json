@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021318,
+  "title": "Decreet van 2012-02-17 houdende instemming met het samenwerkingsakkoord van 5 juni 2009 tussen de Vlaamse Gemeenschap en het Waalse Gewest betreffende de professionele integratie van personen met een handicap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021318/VolledigDocument?datum=2012-03-17",
+  "source_sha256": "008874bc521e7dd9ff0eb3f40ee4f37e0903bdb58634ded4de854916e1ea7893",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021318&param=informatie",
+  "as_of": "2012-03-17",
+  "made": "2012-02-17",
+  "gazette": "2012-03-07",
+  "numac": 2012201308,
+  "document_start": "2012-03-17",
+  "document_end": null,
+  "in_force": "2012-03-17",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-03-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
