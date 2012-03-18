@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021322,
+  "title": "Besluit van de Vlaamse Regering van 2012-02-10 houdende indeling bij de gemeentewegen van de gewestweg N463 genaamd Doornzeelsestraat en Doornzele Dries tussen kmp. 0.000 en 3.830 op het grondgebied van de gemeente Evergem",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021322/VolledigDocument?datum=2012-03-18",
+  "source_sha256": "74c08ee499afb47baed1b375b20061f62b71b1c544edcc99031ea5ded01d6f96",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021322&param=informatie",
+  "as_of": "2012-03-18",
+  "made": "2012-02-10",
+  "gazette": "2012-03-08",
+  "numac": 2012035201,
+  "document_start": "2012-03-18",
+  "document_end": null,
+  "in_force": "2012-03-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-03-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
