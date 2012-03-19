@@ -96,6 +96,18 @@ In artikel 18, eerste lid, van bijlage 1 bij hetzelfde besluit worden de cijfers
 
 In bijlage 3 bij het ministerieel besluit van 6 oktober 2011 met betrekking tot de werking van het digitaal prestatieregister gekoppeld aan de Prestatiedatabank worden de volgende wijzigingen aangebracht :<br />1° in de kolom « Data », rubriek « Huurachterstal », worden de woorden « vordering op een sociale huurder op het einde van de maand waarin de uiterste betaaldatum van de vordering valt » vervangen door de woorden « vorderingen op huurders en vertrokken huurders op balansdatum »;<br />2° in de kolom « Data » wordt rubriek « Liquiditeitsratio » vervangen door rubriek « Gecorrigeerde liquiditeitsratio in enge zin »;<br />3° in de kolom « Data » wordt rubriek « Netto vrije cashflow marge uit de gewone bedrijfsvoering » vervangen door de rubriek « Netto vrije cashflow-marge uit de gewone bedrijfsuitoefening »;<br />4° in de kolom « Data » worden aan de rubriek « Netto winstmarge » de woorden « uit de gewone bedrijfsuitoefening » toegevoegd.
 
+### ART. 24.
+
+Aan artikel 2 van het ministerieel besluit van 3 januari 2012 houdende vaststelling van de vergoeding van de visitatoren die de prestaties van de sociale huisvestingsmaatschappijen beoordelen wordt een tweede lid toegevoegd dat luidt als volgt :<br />« De vergoeding voor de voorzitter van de visitatieraad, vermeld in artikel 22, § 2, derde lid, van het besluit van 22 oktober 2010, wordt forfaitair vastgesteld op 4.375 euro per kwartaal. Als de voorzitter van de visitatieraad optreedt als voorzitter van een visitatiecommissie dekt die forfaitaire vergoeding eveneens de aanvullende vergoedingen van de voorzitter van een visitatiecommissie, vermeld in het eerste lid, 1° en 2°. ».<br />
+
+### ART. 25.
+
+In artikel 3 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid wordt de zinsnede « artikel 2, 1° en 2° » vervangen door de zinsnede « artikel 2, eerste lid, 1° en 2° »;<br />2° in het tweede lid wordt de zinsnede « artikel 2, 3° » vervangen door de zinsnede « artikel 2, eerste lid, 3° »;<br />3° er wordt een derde lid toegevoegd dat luidt als volgt :<br />« De vergoeding, vermeld in artikel 2, tweede lid, wordt per kwartaal betaalbaar gesteld na vervallen termijn. ».
+
+### ART. 26.
+
+In artikel 4, tweede lid, van hetzelfde besluit wordt de zinsnede « artikel 2, 1° en 2°, zijn inclusief alle kosten die de visitatoren hebben « vervangen door de zinsnede « artikel 2, eerste lid, 1° en 2°, en tweede lid, zijn inclusief alle kosten die de visitatoren en de voorzitter van de visitatieraad hebben ».
+
 ### ART. 27.
 
 Dit besluit heeft uitwerking met ingang van 1 januari 2012, met uitzondering van artikel 24, 25 en 26, die in werking treden op de datum van dit besluit.
