@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021505,
+  "title": "Ministerieel besluit van 2012-03-30 tot wijziging van het ministerieel besluit van 25 juni 2010 houdende de toekenning van doelgroepwerknemers aan initiatieven voor buitenschoolse opvang en buitenschoolse opvang in aparte lokalen in het kader van het generatiepact in Vlaanderen en het Brussels Hoofdstedelijk Gewest, wat betreft het aantal VTE doelgroepwerknemers",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021505/VolledigDocument?datum=2012-04-01",
+  "source_sha256": "5b42b0ef055c40fb4c2470efd56d740049269807e515f0bf8e288f6d91a48620",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021505&param=informatie",
+  "as_of": "2012-04-01",
+  "made": "2012-03-30",
+  "gazette": "2012-04-24",
+  "numac": 2012202144,
+  "document_start": "2012-04-01",
+  "document_end": null,
+  "in_force": "2012-04-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2012-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
