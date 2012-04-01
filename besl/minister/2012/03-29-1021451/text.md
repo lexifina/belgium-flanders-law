@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2012-03-29 houdende wijziging van het ministerieel besluit van 18 mei 2006 houdende oprichting van het orgaan dat de bevoegdheden uitoefent inzake de rechtspositie van het personeel voor het extern verzelfstandigd agentschap Vlaamse Landmaatschappij
+
+### Aanhef
+
+De Vlaamse minister van Leefmilieu, Natuur en Cultuur,<br /><br />Gelet op het kaderdecreet bestuurlijk beleid van 18 juli 2003, het laatst gewijzigd bij decreet van 19 december 2008;<br /><br />Gelet op het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid, inzonderheid artikel I 8.;<br /><br />Gelet op het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, het laatst gewijzigd bij besluit van de Vlaamse Regering van 24 juli 2009;<br /><br />Gelet op het ministerieel besluit van 18 mei 2006 houdende oprichting van het orgaan dat de bevoegdheden uitoefent inzake de rechtspositie van het personeel voor het extern verzelfstandigd agentschap Vlaamse Landmaatschappij;<br /><br />Overwegende dat bij de VLM de directieraad werd opgericht als het orgaan dat de bevoegdheden uitoefent inzake de rechtspositie van het personeel; <br /><br />Overwegende dat de huidige directieraad naast de gedelegeerd bestuurder, de algemeen directeur en de staffunctie interne controle, samengesteld is uit de afdelingshoofden,<br /><br />Overwegende dat de VLM een reorganisatieproject uitvoert waardoor vanaf 1 april het aantal mandaten met als functiebenaming afdelingshoofd verminderd wordt en een aantal mandaten met als functiebenaming projectleider N-1 worden toegevoegd waaraan de samenstelling van de directieraad dient te worden aangepast;<br /><br />Na beraadslaging in de Beleidsraad Leefmilieu, Natuur en Energie van 21 maart 2012,<br /><br />Besluit :
+
+### ART. 1.
+
+In artikel 2 van het ministerieel besluit van 18 mei 2006 houdende oprichting van het orgaan dat de bevoegdheden uitoefent inzake de rechtspositie van het personeel voor het extern verzelfstandigd agentschap Vlaamse Landmaatschappij, wordt het eerste lid vervangen door wat volgt :<br /><br />« De directieraad, voorgezeten door de gedelegeerd bestuurder van de Vlaamse Landmaatschappij, is samengesteld uit :<br />1° de gedelegeerd bestuurder;<br />2° de algemene directeur;<br />3° de afdelingshoofden en de projectleiders N-1 (incl. waarnemende managementfuncties van N-1 niveaus);<br />4° de staffunctie Interne controle. »
+
+### ART. 2.
+
+Dit besluit treedt in werking op 1 april 2012.
