@@ -2,16 +2,16 @@
   "codex_id": 1019229,
   "title": "Ministerieel besluit van 2010-06-25 houdende de toekenning van doelgroepwerknemers aan initiatieven voor buitenschoolse opvang en buitenschoolse opvang in aparte lokalen in het kader van het generatiepact in Vlaanderen en het Brussels Hoofdstedelijk Gewest",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019229/VolledigDocument?datum=2010-07-01",
-  "source_sha256": "3caecffe4b2d34571f46349a3216aac3167a512ef8a1c05cdfbc0b1dcfe51bd0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019229/VolledigDocument?datum=2012-04-01",
+  "source_sha256": "c1cb885cb56572b1263f433c45e9047f9be7b54f925c29cf7cadb8e766530186",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019229&param=informatie",
-  "as_of": "2010-07-01",
+  "as_of": "2012-04-01",
   "made": "2010-06-25",
   "gazette": "2010-07-22",
   "numac": 201035493,
   "document_start": "2010-07-01",
   "document_end": null,
-  "in_force": "2010-07-01",
+  "in_force": "2012-04-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2010-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-04-01; future article versions excluded; article text as the API gives it"
 }
