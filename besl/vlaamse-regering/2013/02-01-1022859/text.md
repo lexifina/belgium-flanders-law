@@ -8,9 +8,17 @@
 
 In de tabel van artikel VII 46 van hetzelfde besluit, ingevoegd bij het   besluit van de Vlaamse Regering van 16 maart 2007, wordt tussen het woord « rang   » en het woord « A2 » de woorden « A2E, A2M en » ingevoegd.<BR>
 
+### ART. 11.
+
+In artikel VII 65 van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering van 16 maart 2007, en gewijzigd bij de besluiten van de Vlaamse   Regering van 23 mei 2008, 29 mei 2009 en 29 april 2011, worden de volgende   wijzigingen aangebracht :<BR>1° in paragraaf 1, derde lid, worden tussen het   woord « worden » en het woord « verminderd », de woorden « voor de   personeelsleden die een maaltijdcheque ontvangen » ingevoegd;<BR>2° paragraaf 3   wordt geschrapt;<BR>3° in paragraaf 6 wordt de zin « Als de voeding aan boord   niet ten laste is van het personeelslid, wordt het dagbedrag verminderd met het   bedrag vermeld in § 3. » geschrapt. <BR>
+
 ### ART. 13.
 
 In de rechterkolom van de tabel van artikel VII 71 van hetzelfde besluit,   ingevoegd bij het besluit van de Vlaamse Regering van 17 maart 2006, worden de   woorden « bijzondere toelageregeling voor het loodspersoneel (VII 60 - 62) »   vervangen door de woorden « bijzondere toelageregeling voor het loodspersoneel   (VII 60 - 64) ».<BR>
+
+### ART. 21.
+
+In artikel VII 109bis van hetzelfde besluit, ingevoegd bij het besluit van   de Vlaamse Regering van 23 mei 2008, worden de volgende wijzigingen aangebracht   :<BR>1° in het tweede lid, 1°, worden de woorden « , stuurman of kapitein van de   loodsboot » opgeheven;<BR>2° er wordt een punt 6° toegevoegd, dat luidt als   volgt :<BR>« 6° personeelsleden voor de dagen dat ze voeding aan boord van een   vaartuig ten laste van de begroting van de Vlaamse Overheid krijgen. »;<BR>3° Er   wordt een vierde lid toegevoegd, dat luidt als volgt :<BR>« De Vlaamse minister   bevoegd voor de bestuurszaken bepaalt tevens de uitreikingsmodaliteiten van de   maaltijdcheques ».<BR>
 
 ### ART. 23.
 
