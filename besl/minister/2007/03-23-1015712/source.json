@@ -2,16 +2,16 @@
   "codex_id": 1015712,
   "title": "Ministerieel besluit van 2007-03-23 houdende machtiging van instanties tot het uitvoeren van de acceptatietesten, de jaarlijkse testen en de halfjaarlijkse testen en tot het opvolgen van de dagelijkse en wekelijkse kwaliteitscontroles van mammografische eenheden in het kader van het Vlaams bevolkingsonderzoek naar borstkanker",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015712/VolledigDocument?datum=2008-11-04",
-  "source_sha256": "eab3489a959104b0c1e0c1d420a45805553f25c0ef7668a59ad23205e05712e8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015712/VolledigDocument?datum=2012-04-02",
+  "source_sha256": "7694c385b0ed8d4ae7f3fd1ef34cd8b3b0ce2a6c2c8ace829f21a9c2f7cc49e5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015712&param=informatie",
-  "as_of": "2008-11-04",
+  "as_of": "2012-04-02",
   "made": "2007-03-23",
   "gazette": "2007-04-16",
   "numac": 2007035537,
   "document_start": "2007-04-01",
   "document_end": "2012-04-01",
-  "in_force": "2008-11-04",
+  "in_force": "2012-04-02",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2008-11-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-04-02; future article versions excluded; article text as the API gives it"
 }
