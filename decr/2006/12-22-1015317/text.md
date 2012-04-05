@@ -407,7 +407,7 @@ Aan hetzelfde decreet wordt een hoofdstuk IIIbis toegevoegd, dat luidt als volgt
 
 ### ART. 53.
 
-§ 1. Onder het beheer van de Vlaamse minister bevoegd voor de Sociale Economie wordt een Fonds ter Bevordering van de Sociale Economie in Vlaanderen opgericht, hierna te noemen « het Fonds ».<br /><br />§ 2. Het Fonds is een begrotingsfonds type B in de zin van artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit.<br /><br />§ 3. Aan het Fonds worden toegewezen alle ontvang-sten voortvloeiende uit dividenden uitgekeerd door de naamloze vennootschap T-Groep aan de Vlaamse overheid als aandeelhouder.<br /><br />§ 4. De Vlaamse Regering beschikt voor de financiering van vernieuwende projecten die de sociale economie in Vlaanderen bevorderen over de kredieten van het Fonds.<br /><br />
+...<br />
 
 ### ART. 54.
 
