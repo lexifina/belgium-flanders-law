@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021383,
+  "title": "Besluit van de Vlaamse Regering van 2012-02-17 tot wijziging van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, wat betreft het maximaal geluidsniveau van muziek in inrichtingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021383/VolledigDocument?datum=2012-04-08",
+  "source_sha256": "1e643086a56468269d5db928543fb351e59673eb0d6853156834e03f7856f82d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021383&param=informatie",
+  "as_of": "2012-04-08",
+  "made": "2012-02-17",
+  "gazette": "2012-03-29",
+  "numac": 2012035280,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2012-04-08",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-04-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
