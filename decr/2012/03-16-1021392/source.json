@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021392,
+  "title": "Decreet van 2012-03-16 houdende diverse bepalingen inzake energie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021392/VolledigDocument?datum=2012-04-12",
+  "source_sha256": "26d87bdc3f4e66eb7420c83f76b938c6b3a88ce87d81b1674a0ec0cbfd6b343a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021392&param=informatie",
+  "as_of": "2012-04-12",
+  "made": "2012-03-16",
+  "gazette": "2012-04-02",
+  "numac": 2012035384,
+  "document_start": "2012-04-12",
+  "document_end": null,
+  "in_force": "2012-04-12",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2012-04-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
