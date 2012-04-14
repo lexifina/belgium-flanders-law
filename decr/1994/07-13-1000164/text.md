@@ -78,7 +78,7 @@ Wanneer de langstlevende of de uit de echt gescheiden echtgenoot afziet van de v
 
 ### ART. 15.
 
-Alle voor de berekening van de pensioenen verstrekte diensten worden in aanmerking genomen volgens hun werkelijke duur wanneer het gaat om diensten met volledige opdracht en, wanneer het gaat om diensten met onvolledige opdracht, ten belope van het gedeelte dat zij vertegenwoordigen in verhouding tot dezelfde diensten met volledige opdracht.<br /><br />Wanneer de berekende verhouding gelijk is aan of hoger is dan 8/10, wordt zij geacht gelijk te zijn aan de eenheid.<br /><br />Wanneer een personeelslid verlof voor verminderde prestaties gewettigd door sociale of familiale redenen heeft verkregen, dan wordt het geacht gedurende dit verlof zijn onmiddellijke voorafgaande aktiviteit te hebben voortgezet.
+Alle voor de berekening van de pensioenen verstrekte diensten worden in aanmerking genomen volgens hun werkelijke duur wanneer het gaat om diensten met volledige opdracht en, wanneer het gaat om diensten met onvolledige opdracht, tot beloop van het gedeelte dat zij vertegenwoordigen in verhouding tot dezelfde diensten met volledige opdracht.<br /><br />De perioden van al dan niet voltijdse afwezigheid, die voldoen aan de in de andere artikelen van dit decreet gestelde voorwaarden voor in aanmerkingneming voor pensioenberekening, worden voor de uiteindelijke berekening van het pensioen slechts in aanmerking genomen tot beloop van een bepaald percentage van het totaal van de werkelijk gepresteerde diensten. Dit percentage is gelijk aan het percentage dat voor hetzelfde type van afwezigheden en onder dezelfde omstandigheden geldig is voor de berekening van de sta- tutaire pensioenen van de personeelsleden van de federale overheidsdiensten.<br /><br />De perioden van verlof voorafgaand aan pensionering en van dienstvrijstelling voorafgaand aan pensionering waarin uiterlijk ingestapt is op 1 juli 2011 vallen niet onder de toepassing van het tweede lid.
 
 ### ART. 16.
 
@@ -125,6 +125,10 @@ Voor de berekening van de pensioenen wordt, voor de diensten die door het person
 ### ART. 25.
 
 In afwijking van het bepaalde in artikel 23, 11° worden de periodes tijdens welke het personeelslid een activiteit heeft uitgeoefend uit hoofde waarvan het effectief aanspraak kan maken op hetzij een rente verleend krachtens het decreet van 28 juni 1957 houdende statuut van de Koloniale Verzekeringskas, hetzij een pensioen verleend krachtens de wet van 16 juni 1960 dat de organismen belast met het beheer van de sociale zekerheid van de werknemers van Belgisch-Kongo en Ruanda-Urundi onder de controle en de waarborg van de Belgische Staat plaatst, en dat waarborg draagt door de Belgische Staat van de maatschappelijke prestaties ten gunste van deze werknemers verzekerd, of krachtens de wet van 17 juli 1963 betreffende de overzeese sociale zekerheid, niet in aanmerking genomen voor de berekening van het BRTN pensioen, tenzij het door de BRTN gewaarborgde pensioen voor dezelfde periodes hoger is.
+
+### ART. 25bis.
+
+Voor de berekening van de pensioenen wordt geen rekening gehouden met de diensttijd en de gelijkgestelde perioden waarvan het in aanmerking nemen nadelig zou zijn voor de betrokkene.
 
 ## AFDELING 3 IN AANMERKING TE NEMEN DIPLOMA'S EN STUDIEPERIODEN
 
@@ -184,7 +188,7 @@ Voor de berekening van de pensioenen worden eveneens de volgende perioden in aan
 
 ### ART. 37.
 
-De pensioenen worden berekend op grond van de gemiddelde totale brutobezoldiging van de laatste twee jaar van de BRTN-loopbaan van het personeelslid, of van de volledige loopbaan als die minder dan twee jaar geduurd heeft.<br /><br />Maken deel uit van de totale brutobezoldiging: de hoofdwedde, de haard- en standplaatstoelage, de toelage voor uitoefening van hogere funkties, de premie "verantwoordelijke bediening", de direktievergoeding, het vakantiegeld, en, voor de personeelsleden in dienst uiterlijk op 30 juni 1967, de buitengewone toelage en de compensatietoelage.<br /><br />De in dit artikel bedoelde bezoldiging wordt berekend volgens de schalen en regels die gelden voor de personeelsleden in actieve dienst met dezelfde graad als de betrokkene, rekening houdend met de door hem verkregen anciënniteit op het ogenblik dat zijn dienst een einde heeft genomen.
+De pensioenen worden berekend op grond van de gemiddelde totale brutobezoldiging van de laatste twee jaar van de BRTN-loopbaan van het personeelslid, of van de volledige loopbaan als die minder dan twee jaar geduurd heeft.<br /><br />Maken deel uit van de totale brutobezoldiging: de hoofdwedde, de haard- en standplaatstoelage, de toelage voor uitoefening van hogere funkties, de premie "verantwoordelijke bediening", de direktievergoeding, het vakantiegeld, en, voor de personeelsleden in dienst uiterlijk op 30 juni 1967, de buitengewone toelage en de compensatietoelage.<br /><br />Met ingang van 1 januari 2009 wordt op de rust- en overlevingspensioenen de perequatie toegepast overeenkomstig de bepalingen voorzien in hoofdstuk IV van de wet van 25 april 2007 betreffende de pensioenen van de openbare sector. Het toegekende perequatiepercentage is daarbij gelijk aan datgene wat geldt voor de perequatiekorf van de Vlaamse ministeries, de intern verzelfstandigde agentschappen met rechtspersoonlijkheid, de extern verzelfstandigde agentschappen en de Vlaamse Gemeenschapscommissie van het Brusselse Hoofdstedelijke Gewest. Bij wijziging van deze bepalingen in de toekomst, wordt voor de rust- en overlevingspensioenen het perequatiemechanisme toegepast zoals het zal gelden voor het pensioen van de personeelsleden van de Vlaamse ministeries.
 
 ### ART. 37bis.
 
@@ -247,6 +251,10 @@ Indien het personeelslid, na eerst tijdelijk op pensioen te zijn gesteld wegens 
 ### ART. 48.
 
 Aan het vastbenoemd personeelslid dat overeenkomstig de artikelen 3 tot en met 6 van dit decreet geen recht op een rustpensioen kan laten gelden, waarborgt de BRTN te zijnen laste, voor de door het personeelslid bij de BRTN als vastbenoemd personeelslid gepresteerde diensten, de uitbetaling van de voordelen die de betrokkene zou genieten mocht de wettelijke pensioenregeling voor arbeiders en bedienden van de private sector van toepassing zijn geweest.<br /><br />Met ingang van de datum waarop de wet van 5 augustus 1968 tot vaststelling van een zeker verband tussen de pensioenstelsels van de openbare sector en die van de privé-sector op de BRTN van toepassing wordt, wordt dit artikel opgeheven.
+
+### ART. 48bis.
+
+Het nominaal bedrag van het rustpensioen wordt verhoogd met een complement wegens leeftijd overeenkomstig de bepalingen en onder de voorwaarden die gelden voor de rustpensioenen toegekend aan de personeelsleden van de federale overheidsdiensten. Deze bepaling heeft uitwerking voor alle rustpensioenen die ingaan vanaf 1 januari 2007, met terugwerking tot op 1 januari 2007.
 
 ## AFDELING 3 HET PENSIOEN VAN DE LANGSTLEVENDE ECHTGENOOT
 
@@ -327,6 +335,10 @@ Voor de toepassing van de artikelen 63 en 64, wordt onder een gepensioneerde met
 ### ART. 66.
 
 De aan de langstlevende echtgenoot toegekende overlevingspensioenen mogen niet minder bedragen dan 75 % van het gewaarborgd minimumloon voor de vastbenoemde ambtenaren.<br /><br />Dit artikel is niet van toepassing op de tijdelijke pensioenen, bedoeld bij artikel 8, § 3 van dit decreet.
+
+### ART. 66bis.
+
+De bepalingen van de overige artikelen van dit hoofdstuk hebben uitwerking voor alle aanvragen tot overdracht die werden ontvangen tot 31 december 2001. De afhandeling van aanvragen tot overdracht ontvangen vanaf 1 januari 2002, worden behandeld overeenkomstig de bepalingen en onder de voorwaarden die vanaf die datum gelden voor de rust- en overlevingspensioenen toegekend aan de personeelsleden van de federale overheidsdiensten en hun rechtverkrijgenden.
 
 ## HOOFDSTUK VI VERBAND TUSSEN DE BRTN PENSIOENREGELING EN DIE VAN INSTELLINGEN VAN INTERNATIONAAL PUBLIEK RECHT EN PROCEDURE EN WERKWIJZE VOOR DE OVERDRACHT VAN HET PENSIOENBEDRAG
 
@@ -511,6 +523,10 @@ De persoon die gebruik heeft gemaakt van de bij artikel 103 bepaalde mogelijkhei
 ### ART. 105.
 
 Wanneer artikel 104 werd toegepast, mag de betrokkene nogmaals gebruik maken van de bij artikel 102 bepaalde mogelijkheid. In dat geval is die tweede afstand echter onherroepelijk.
+
+### ART. 105bis.
+
+Elke gerechtigde op een ter uitvoering van dit decreet toegekend pensioen kan afstand doen van het statutair pensioenrecht voor door hem duidelijk omschreven dienst- of gelijkgestelde perioden.<br /><br />Deze afstand, die definitief is, moet met een aangetekende brief worden meegedeeld aan de gedelegeerd bestuurder van de VRT voor de ingangsdatum van het pensioen.
 
 ## HOOFDSTUK VIII OVERGANGS- EN SLOTBEPALINGEN
 
