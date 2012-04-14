@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021427,
+  "title": "Besluit van de Vlaamse Regering van 2012-03-02 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de vaststelling van een rentesubsidie voor de leningen toegestaan aan de Lokale Entiteiten die een overeenkomst hebben gesloten met het Fonds ter reductie van de globale energiekost",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021427/VolledigDocument?datum=2012-04-14",
+  "source_sha256": "f788c250024268e500fb4f584c6c332574a8bda927092af97d004005c610da1a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021427&param=informatie",
+  "as_of": "2012-04-14",
+  "made": "2012-03-02",
+  "gazette": "2012-04-04",
+  "numac": 2012035402,
+  "document_start": "2012-04-14",
+  "document_end": null,
+  "in_force": "2012-04-14",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2012-04-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
