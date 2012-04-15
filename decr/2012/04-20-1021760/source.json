@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021760,
+  "title": "Decreet van 2012-04-20 tot bekrachtiging van het besluit van de Vlaamse Regering van 20 januari 2012 tot aanpassing van de eindtermen voor het leergebied informatie- en communicatietechnologie van de basiseducatie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021760/VolledigDocument?datum=2012-04-15",
+  "source_sha256": "7681e98c124b13fcf2de939689459015f200fd9af106f8927978e28823175f05",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021760&param=informatie",
+  "as_of": "2012-04-15",
+  "made": "2012-04-20",
+  "gazette": "2012-05-24",
+  "numac": 2012035517,
+  "document_start": "2012-04-15",
+  "document_end": null,
+  "in_force": "2012-04-15",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-04-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
