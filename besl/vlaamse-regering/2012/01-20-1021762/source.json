@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021762,
+  "title": "Besluit van de Vlaamse Regering van 2012-01-20 tot aanpassing van de eindtermen voor het leergebied informatie- en communicatietechnologie van de basiseducatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021762/VolledigDocument?datum=2012-04-15",
+  "source_sha256": "01dbba411a7fb82f5c78f526ce1d8f52b0da131fc1d31bf6078093275999acc7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021762&param=informatie",
+  "as_of": "2012-04-15",
+  "made": "2012-01-20",
+  "gazette": "2012-05-24",
+  "numac": 2012035136,
+  "document_start": "2012-04-15",
+  "document_end": null,
+  "in_force": "2012-04-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2012-04-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
