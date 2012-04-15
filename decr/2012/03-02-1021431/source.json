@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021431,
+  "title": "Decreet van 2012-03-02 houdende wijziging van het decreet van 8 mei 2009 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap NV Vlaamse Havens en houdende wijziging van het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021431/VolledigDocument?datum=2012-04-15",
+  "source_sha256": "c9290a63880d49c6b09cd526cf6386a1c05dabfbe1e555d035a78a8945255b2c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021431&param=informatie",
+  "as_of": "2012-04-15",
+  "made": "2012-03-02",
+  "gazette": "2012-04-05",
+  "numac": 2012035393,
+  "document_start": "2012-04-15",
+  "document_end": null,
+  "in_force": "2012-04-15",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-04-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
