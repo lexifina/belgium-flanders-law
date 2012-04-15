@@ -6,19 +6,19 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied personenzorg, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage I tot en met VIII, die bij dit besluit zijn gevoegd.
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied personenzorg, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage I tot en met IX, die bij dit besluit zijn gevoegd.
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />In afwijking van het eerste lid wordt het opleidingsprofiel voor de modulaire opleiding Begeleider in de kinderopvang uiterlijk tijdens het schooljaar 2008-2009 geëvalueerd. De opleidingsprofielen voor de modulaire opleidingen jeugd- en gehandicaptenzorg en tandartsassistent worden uiterlijk tijdens het schooljaar 2011-2012 geëvalueerd. De opleidingsprofielen voor de modulaire opleidingen Interculturele Medewerker, Logistiek Assistent, Verzorgende en Zorgkundige worden uiterlijk tijdens het schooljaar 2014-2015 geëvalueerd.
+De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />In afwijking van het eerste lid wordt het opleidingsprofiel voor de modulaire opleiding Begeleider in de kinderopvang uiterlijk tijdens het schooljaar 2008-2009 geëvalueerd. De opleidingsprofielen voor de modulaire opleidingen jeugd- en gehandicaptenzorg en tandartsassistent worden uiterlijk tijdens het schooljaar 2011-2012 geëvalueerd. De opleidingsprofielen voor de modulaire opleidingen Interculturele Medewerker, Logistiek Assistent, Verzorgende en Zorgkundige worden uiterlijk tijdens het schooljaar 2014-2015 geëvalueerd. Het opleidingsprofiel voor de modulaire opleiding Begeleider-animator voor Bejaarden wordt uiterlijk tijdens het schooljaar 2015-2016 geëvalueerd.
 
 ### ART. 2/1.
 
-Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding jeugd- en gehandicaptenzorg TSO 3, vermeld in bijlage III bij het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, heeft vanaf 1 februari 2009 ook onderwijsbevoegdheid voor de modulaire opleiding jeugd- en gehandicaptenzorg.<br /><br />Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Intercultureel werk TSO 3 heeft vanaf 1 september 2011 ook onderwijsbevoegdheid voor de modulaire opleiding Intercultureel Medewerker.<br /><br />Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Polyvalent Verzorgende/Thuis- en Bejaardenzorg BSO 3 heeft vanaf 1 september 2011 ook onderwijsbevoegdheid voor de modulaire opleidingen Logistiek Assistent, Verzorgende en Zorgkundige.
+Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding jeugd- en gehandicaptenzorg TSO 3, vermeld in bijlage III bij het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, heeft vanaf 1 februari 2009 ook onderwijsbevoegdheid voor de modulaire opleiding jeugd- en gehandicaptenzorg.<br /><br />Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Intercultureel werk TSO 3 heeft vanaf 1 september 2011 ook onderwijsbevoegdheid voor de modulaire opleiding Intercultureel Medewerker.<br /><br />Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Polyvalent Verzorgende/Thuis- en Bejaardenzorg BSO 3 heeft vanaf 1 september 2011 ook onderwijsbevoegdheid voor de modulaire opleidingen Logistiek Assistent, Verzorgende en Zorgkundige.<br /><br />Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Begeleider-animator voor Bejaarden TSO3, heeft vanaf 15 april 2012 ook onderwijsbevoegdheid voor de modulaire opleiding Begeleider-animator voor Bejaarden.
 
 ### ART. 2/2.
 
-De modulaire opleiding jeugd- en gehandicaptenzorg TSO 3 kan, bij wijze van overgangsmaatregel, nog gedurende de schooljaren 2009-2010 en 2010-2011 georganiseerd worden.<br /><br />De modulaire opleiding Polyvalent verzorgende/thuis- en bejaardenzorg BSO 3 kan, bij wijze van overgangsmaatregel, nog gedurende het schooljaar 2011-2012 georganiseerd worden.
+De modulaire opleiding jeugd- en gehandicaptenzorg TSO 3 kan, bij wijze van overgangsmaatregel, nog gedurende de schooljaren 2009-2010 en 2010-2011 georganiseerd worden.<br /><br />De modulaire opleiding Polyvalent verzorgende/thuis- en bejaardenzorg BSO 3 kan, bij wijze van overgangsmaatregel, nog gedurende het schooljaar 2011-2012 georganiseerd worden.<br /><br />Overeenkomstig artikel 180, tweede lid, 2°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs kan de modulaire opleiding Begeleider-animator voor Bejaarden TSO3 bij wijze van overgangsmaatregel, nog gedurende het schooljaar 2011-2012 georganiseerd worden.
 
 ### ART. 3.
 
@@ -63,3 +63,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 ### BIJLAGE VIII
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/14_1_2.pdf#page=12" title=" Bijlage 6" target="_blank" class="pdf">Bijlage 6</a>
+
+### BIJLAGE IX
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2012/05/30_1.pdf#page=39" title=" Bijlage IX" target="_blank" class="pdf">Bijlage IX</a>
