@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021982,
+  "title": "Besluit van de Vlaamse Regering van 2012-06-01 tot wijziging van het besluit van de Vlaamse Regering van 7 oktober 1997 betreffende de nuttige ervaring als bekwaamheidsbewijs voor personeelsleden van het onderwijs, tot wijziging van het besluit van de Vlaamse Regering van 1 september 2006 betreffende de ambtshalve concordantie, tot wijziging van het besluit van de Vlaamse Regering van 19 maart 2010 betreffende de individuele concordantie in het secundair volwassenenonderwijs en tot wijziging van het besluit van de Vlaamse Regering van 23 april 2010 betreffende de bekwaamheidsbewijzen en de salarisschalen voor de personeelsleden van de centra voor volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021982/VolledigDocument?datum=2012-04-15",
+  "source_sha256": "45a89086bd230eb52b6b67b12b59cf45875ba7b34f5d833232b6ddf2b1f45828",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021982&param=informatie",
+  "as_of": "2012-04-15",
+  "made": "2012-06-01",
+  "gazette": "2012-07-27",
+  "numac": 2012035770,
+  "document_start": "2012-04-15",
+  "document_end": null,
+  "in_force": "2012-04-15",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2012-04-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
