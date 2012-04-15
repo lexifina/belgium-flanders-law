@@ -40,7 +40,7 @@ De NV Vlaamse Havens en de Vlaamse Regering sluiten een samenwerkingsovereenkoms
 
 ### ART. 8.
 
-De Vlaamse Regering kan bij afzonderlijk besluit aan bepaalde leningen aangegaan door, obligaties uitgegeven door of schulden van de NV Vlaamse Havens en haar dochterondernemingen een gewestwaarborg toekennen. In afwijking van artikel 8 van het decreet van 7 mei 2004 houdende bepalingen inzake kas-, schuld-, en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse Gewest wordt de Vlaamse Regering gemachtigd om onder meer de verbrekingskosten op te nemen in deze waarborg.
+De Vlaamse Regering kan bij afzonderlijk besluit aan bepaalde leningen aangegaan door, obligaties uitgegeven door of schulden van de NV Vlaamse Havens en haar dochterondernemingen een gewestwaarborg toekennen. In afwijking van artikel 6 van het decreet van 7 mei 2004 houdende bepalingen inzake kas-, schuld-, en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse Gewest wordt de Vlaamse Regering gemachtigd om onder meer de verbrekingskosten op te nemen in deze waarborg.
 
 ## Afdeling IV. Aandeelhouderschap
 
