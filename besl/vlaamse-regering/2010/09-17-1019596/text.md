@@ -10,11 +10,11 @@ Ter uitvoering van artikel 10 van het decreet van 15 juni 2007 betreffende het v
 
 ### ART. 2.
 
-Ter uitvoering van artikel 24, § 1, van hetzelfde decreet worden de opleidingsprofielen voor de modulaire structuur van het experimenteel nieuw studiegebied bibliotheek-, archief- en documentatiekunde, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage I en II, die bij dit besluit zijn gevoegd.
+Ter uitvoering van artikel 24, § 1, van hetzelfde decreet worden de opleidingsprofielen voor de modulaire structuur van het experimenteel nieuw studiegebied bibliotheek-, archief- en documentatiekunde, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage I tot en met III, die bij dit besluit zijn gevoegd.
 
 ### ART. 3.
 
-De opleidingsprofielen, vermeld in artikel 2, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.
+De opleidingsprofielen, vermeld in artikel 2, worden uiterlijk tijdens het schooljaar 2015-2016 <br />geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.
 
 ### ART. 4.
 
@@ -38,8 +38,12 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE
 
-De modulaire opleiding "bibliotheek-, archief- en documentatiekunde"<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2010/10/22_2.pdf#page=122" title=" " target="_blank" class="pdf"></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2012/05/30_1.pdf#page=76" title=" Bijlage I" target="_blank" class="pdf">Bijlage I</a>
 
 ### BIJLAGE
 
-De modulaire opleiding initiatie archiefkunde<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2010/10/22_2.pdf#page=131" title=" " target="_blank" class="pdf"></a> <br /><br />
+<a href="http://www.ejustice.just.fgov.be/mopdf/2012/05/30_1.pdf#page=92" title=" Bijlage II" target="_blank" class="pdf">Bijlage II</a>
+
+### BIJLAGE III
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2012/05/30_1.pdf#page=103" title=" Bijlage III" target="_blank" class="pdf">Bijlage III</a>
