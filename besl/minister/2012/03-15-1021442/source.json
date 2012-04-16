@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021442,
+  "title": "Ministerieel besluit van 2012-03-15 houdende bekrachtiging van het districtsraadsbesluit waarbij het wapen en de vlag van het district Berchem worden vastgesteld",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021442/VolledigDocument?datum=2012-04-16",
+  "source_sha256": "e9819044d63ad26f2aaadfacd85f70e5c634fdd65e164c190ad58456c214c67c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021442&param=informatie",
+  "as_of": "2012-04-16",
+  "made": "2012-03-15",
+  "gazette": "2012-04-06",
+  "numac": 2012201930,
+  "document_start": "2012-04-16",
+  "document_end": null,
+  "in_force": "2012-04-16",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-04-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
