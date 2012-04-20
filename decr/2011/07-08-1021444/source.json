@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021444,
+  "title": "Decreet van 2011-07-08 houdende aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2011",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021444/VolledigDocument?datum=2012-04-20",
+  "source_sha256": "da150cce555279b2c1c17174e73ebd853929848ae9a1079ffc596e0b0d264583",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021444&param=informatie",
+  "as_of": "2012-04-20",
+  "made": "2011-07-08",
+  "gazette": "2012-04-10",
+  "numac": 2012035051,
+  "document_start": "2012-04-20",
+  "document_end": null,
+  "in_force": "2012-04-20",
+  "article_versions": 74,
+  "record_form": "consolidated version as in force on 2012-04-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
