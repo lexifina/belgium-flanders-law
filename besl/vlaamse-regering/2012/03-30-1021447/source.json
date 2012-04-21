@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021447,
+  "title": "Besluit van de Vlaamse Regering van 2012-03-30 tot wijziging van artikel 52bis van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021447/VolledigDocument?datum=2012-04-21",
+  "source_sha256": "94bea378bd2fb7cde78aa74c1d180bece9d17718bbcb8119191336b311ec71be",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021447&param=informatie",
+  "as_of": "2012-04-21",
+  "made": "2012-03-30",
+  "gazette": "2012-04-11",
+  "numac": 2012035415,
+  "document_start": "2012-04-21",
+  "document_end": null,
+  "in_force": "2012-04-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-04-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
