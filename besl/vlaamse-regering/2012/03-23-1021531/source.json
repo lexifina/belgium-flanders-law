@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021531,
+  "title": "Besluit van de Vlaamse Regering van 2012-03-23 houdende de voordracht van vier bijkomende bestuurders bij de vzw I-Cleantech Vlaanderen - Innovatie in Cleantech (vzw ICTV)",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021531/VolledigDocument?datum=2012-04-26",
+  "source_sha256": "1976fd983974b82e9243d91a9bd22a7b9744ae01c3c7a4f96fe2c2b81a65f9ad",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021531&param=informatie",
+  "as_of": "2012-04-26",
+  "made": "2012-03-23",
+  "gazette": "2012-04-26",
+  "numac": 2012035442,
+  "document_start": "2012-04-26",
+  "document_end": null,
+  "in_force": "2012-04-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-04-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
