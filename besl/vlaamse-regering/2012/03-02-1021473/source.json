@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021473,
+  "title": "Besluit van de Vlaamse Regering van 2012-03-02 tot uitvoering van hoofdstuk VI van het decreet van 20 maart 2009 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021473/VolledigDocument?datum=2012-04-27",
+  "source_sha256": "71eaf3857a8203343aea497cd4d547ed34a68df8006c841791c7c511f64fdc20",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021473&param=informatie",
+  "as_of": "2012-04-27",
+  "made": "2012-03-02",
+  "gazette": "2012-04-17",
+  "numac": 2012035407,
+  "document_start": "2012-04-27",
+  "document_end": "2014-09-06",
+  "in_force": "2012-04-27",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2012-04-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
