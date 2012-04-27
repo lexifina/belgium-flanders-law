@@ -132,7 +132,23 @@ Voor de aangelegenheden, vermeld in artikel 5, § 1, I, 1°, van de bijzondere w
 
 ## Afdeling IV Maatregelen bij niet-naleving van erkenningsnormen
 
+### ART. 31.
+
+Zolang door de verzorgingsvoorziening niet verholpen is aan de vastgestelde inbreuken op de erkenningsnormen, kan de Vlaamse Regering aan die voorziening concrete maatregelen opleggen in een met redenen omkleed bevel. In dat bevel is de termijn bepaald waarbinnen de maatregelen gelden en is omschreven welke voorwaarden vervuld moeten zijn om de vastgestelde gebreken te verhelpen.<br /><br />
+
+### ART. 32.
+
+Als in het geval, vermeld in artikel 31, het nemen van maatregelen om redenen van veiligheid of gezondheid van de gebruiker niet uitgesteld kan worden, kan de persoon, belast met het toezicht, aan de verzorgingsvoorziening bepaalde maatregelen opleggen die maximaal zeven dagen gelden. Die maatregelen kunnen door de Vlaamse Regering worden verlengd, conform artikel 31.<br /><br />
+
+### ART. 33.
+
+De Vlaamse Regering bepaalt na overleg met de sector de voorwaarden en de procedure die gelden bij de toepassing van artikelen 31 en 32.<br /><br />De maatregelen, vermeld in artikelen 31 en 32, kunnen ook inhouden dat geen nieuwe gebruikers mogen worden opgenomen.<br /><br />
+
 ## Afdeling V Maatregelen in geval van illegale exploitatie van een psychiatrisch verzorgingstehuis of een initiatief beschut wonen
+
+### ART. 34.
+
+§ 1. De exploitatie van een psychiatrisch verzorgingstehuis of van een initiatief beschut wonen, onder welke benaming ook, zonder te beschikken over de door de wet of het decreet vereiste planningsvergunning en erkenning, is niet toegelaten.<br /><br />§ 2. Als een psychiatrisch verzorgingstehuis of een initiatief beschut wonen, onder welke benaming ook, wordt geëxploiteerd zonder dat het beschikt over de door de wet of het decreet vereiste planningsvergunning en erkenning, kan de Vlaamse Regering een bevel tot sluiting van die verzorgingsvoorziening geven.<br /><br />Als dat sluitingsbevel niet wordt nageleefd, neemt de Vlaamse Regering de nodige maatregelen om tot een gedwongen sluiting van de verzorgingsvoorziening over te gaan. De burgemeester van de plaats waar de voorziening gevestigd is, gaat over tot uitvoering van het sluitingsbevel, met behoud van de door andere regelgeving aan de burgemeester verleende bevoegdheid.<br /><br />De burgemeester beveelt dan de stopzetting van de activiteiten en, in voorkomend geval, de ontruiming van de gebouwen. Hij verzegelt de gebouwen. Die maatregelen kunnen worden uitgevoerd op kosten en op risico van de uitbater van de voorziening.<br /><br />De Vlaamse Regering regelt de procedure en bepaalt de nadere regels inzake het sluitingsbevel. Ze bepaalt de maatregelen en regelt de procedure van gedwongen sluiting.<br /><br />
 
 ## Afdeling VI Strafbepalingen
 
