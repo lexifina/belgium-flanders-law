@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020359,
+  "title": "Decreet van 2011-06-17 betreffende het beheer van de verkeersveiligheid van weginfrastructuur",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020359/VolledigDocument?datum=2012-04-29",
+  "source_sha256": "a6866f5982656f5d45d7b14a6d781c24daa52adbacb21399a5a0c0c950349ed0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020359&param=informatie",
+  "as_of": "2012-04-29",
+  "made": "2011-06-17",
+  "gazette": "2011-07-04",
+  "numac": 2011035520,
+  "document_start": "2012-04-29",
+  "document_end": null,
+  "in_force": "2012-04-29",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2012-04-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
