@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021489,
+  "title": "Besluit van de Vlaamse Regering van 2012-02-03 houdende de uitvoering van het decreet van 17 juni 2011 betreffende het beheer van de verkeersveiligheid van weginfrastructuur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021489/VolledigDocument?datum=2012-04-29",
+  "source_sha256": "1695db6afb90e6df47dbb9b1d40d4c06ef5f319c70e368cea682e3861c316254",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021489&param=informatie",
+  "as_of": "2012-04-29",
+  "made": "2012-02-03",
+  "gazette": "2012-04-19",
+  "numac": 2012035420,
+  "document_start": "2012-04-29",
+  "document_end": null,
+  "in_force": "2012-04-29",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2012-04-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
