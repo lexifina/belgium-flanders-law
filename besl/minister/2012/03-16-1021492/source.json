@@ -2,16 +2,16 @@
   "codex_id": 1021492,
   "title": "Ministerieel besluit van 2012-03-16 tot uitvoering van het besluit van de Vlaamse Regering van 16 december 2005 tot de instelling van een visvergunning en houdende tijdelijke maatregelen voor de uitvoering van de communautaire regeling inzake de instandhouding en de duurzame exploitatie van de visbestanden, wat betreft het kustvisserssegment en de opdeling van bestaande visvergunningen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021492/VolledigDocument?datum=2011-08-16",
-  "source_sha256": "235e85e4c99a495353c33488d7c31957812f60bc2b31709f52f8fe2ef1ad5019",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021492/VolledigDocument?datum=2012-04-29",
+  "source_sha256": "adf3e58b230fac1774dde51b858b4b5c398ae11b933f025971690e7ece6eafa3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021492&param=informatie",
-  "as_of": "2011-08-16",
+  "as_of": "2012-04-29",
   "made": "2012-03-16",
   "gazette": "2012-04-19",
   "numac": 2012035409,
   "document_start": "2012-04-29",
   "document_end": null,
-  "in_force": "2011-08-16",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2011-08-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-04-29",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2012-04-29; future article versions excluded; article text as the API gives it"
 }
