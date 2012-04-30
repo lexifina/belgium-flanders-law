@@ -608,7 +608,7 @@ De beslissing wordt overeenkomstig hoofdstuk III van het decreet van 26 maart 20
 
 ### ART. 4.3.1.
 
-Voorgenomen projecten worden, alvorens een vergunning kan worden aangevraagd voor de ver-gunningsplichtige activiteit die het voorwerp uitmaakt van het project, aan een milieueffectrapportage onderworpen in de gevallen bepaald in dit hoofdstuk.  <span class="reference">(ing. decr. 18 december 2002, art. 4, I: 13 februari 2003)</span> ]
+Voorgenomen projecten worden, alvorens een vergunning kan worden verleend voor de ver-gunningsplichtige activiteit die het voorwerp uitmaakt van het project, aan een milieueffectrapportage onderworpen in de gevallen bepaald in dit hoofdstuk.
 
 ### ART. 4.3.2.
 
