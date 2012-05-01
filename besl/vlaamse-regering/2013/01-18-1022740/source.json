@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022740,
+  "title": "Besluit van de Vlaamse Regering van 2013-01-18 tot wijziging van het besluit van de Vlaamse Regering van 1 december 2000 houdende organisatie van de Vlaamse Maatschappij voor Watervoorziening en de regeling van de rechtspositie van het personeel, wat de mandaatfunctie voor de leidend ambtenaar betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022740/VolledigDocument?datum=2012-05-01",
+  "source_sha256": "e2344e9487ab199a39e0cb5ed732af43bce6329acee24568eeb2dd5f7c8a4c68",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022740&param=informatie",
+  "as_of": "2012-05-01",
+  "made": "2013-01-18",
+  "gazette": "2013-02-18",
+  "numac": 2013200918,
+  "document_start": "2013-02-28",
+  "document_end": null,
+  "in_force": "2012-05-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
