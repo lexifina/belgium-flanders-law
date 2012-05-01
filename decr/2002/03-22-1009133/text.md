@@ -34,7 +34,7 @@ Indien de Vlaamse Regering een subsidie toekent voor een project, kan een regie-
 
 ### ART. 7.
 
-De door de Vlaamse regering goedgekeurde projecten monden uit in een overeenkomst tussen de Vlaamse regering en de stad of de Vlaamse Gemeenschapscommissie.
+De op de begroting vanaf het begrotingsjaar 2012 aangerekende en door de Vlaamse Regering goedgekeurde projecten ontvangen een toelage. De Vlaamse Regering bepaalt het bedrag van de toelage.
 
 ### ART. 8.
 
