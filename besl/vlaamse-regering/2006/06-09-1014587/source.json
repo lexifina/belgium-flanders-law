@@ -2,16 +2,16 @@
   "codex_id": 1014587,
   "title": "Besluit van de Vlaamse Regering van 2006-06-09 tot vaststelling van het aantal te verkiezen provincieraadsleden per provincie van het Vlaamse Gewest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014587/VolledigDocument?datum=2006-06-16",
-  "source_sha256": "978e02904b6dac1a2bd9f2778e255a63bca61997eba3bbf90bdda54a45d3bab7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014587/VolledigDocument?datum=2012-05-01",
+  "source_sha256": "a162448f52ae1b73752193c6fec4b4ee43fe6ef2b4a545d5f13c45a1c56bc058",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014587&param=informatie",
-  "as_of": "2006-06-16",
+  "as_of": "2012-05-01",
   "made": "2006-06-09",
   "gazette": "2006-06-16",
   "numac": 2006035918,
   "document_start": "2006-06-16",
   "document_end": "2012-04-30",
-  "in_force": "2006-06-16",
+  "in_force": "2012-05-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-05-01; future article versions excluded; article text as the API gives it"
 }
