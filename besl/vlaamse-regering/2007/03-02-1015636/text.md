@@ -38,7 +38,7 @@ De bewoner mag naast de woning die het voorwerp van de aanvraag uitmaakt, geen k
 
 ### ART. 7.
 
-Binnen drie maanden nadat de aanvraag volledig is, betekent het agentschap de beslissing tot het verlenen of weigeren van de tegemoetkoming aan de aanvrager.<br /><br />Tegen de beslissing of tegen het stilzitten van het agentschap kan met een aangetekende brief beroep worden ingesteld bij de administrateur-generaal van het agentschap, binnen een maand na de betekening van de beslissing of na het verstrijken van de termijn, vermeld in het eerste lid.<br /><br />De beslissing in beroep wordt schriftelijk meegedeeld binnen een termijn van orde van drie maanden na de datum van de aangetekende brief, vermeld in het tweede lid, en bevat een verwijzing naar de bevoegde instantie bij betwisting.<br />
+...
 
 ### ART. 8.
 
@@ -46,7 +46,7 @@ Binnen drie maanden nadat de aanvraag volledig is, betekent het agentschap de be
 
 ### ART. 9.
 
-Het agentschap betaalt de tegemoetkoming uit binnen vier maanden na de beslissing tot het verlenen ervan, vermeld in artikel 7, eerste lid, of na de inwilliging van het beroep overeenkomstig artikel 7, derde lid.<br /><br />De tegemoetkoming wordt uitbetaald aan de aanvrager. Als daartoe met het sociaal verhuurkantoor een overeenkomst werd gesloten als vermeld in artikel 6, § 1, tweede lid, 6°, wordt de tegemoetkoming uitbetaald aan het sociaal verhuurkantoor dat de uitvoering van de werkzaamheden op zich genomen heeft.<br />
+Binnen de zeven maanden nadat de aanvraag volledig is, betekent het agentschap de beslissing tot het verlenen of weigeren van de tegemoetkoming aan de aanvrager en betaalt het de premie uit.<br /><br />De tegemoetkoming wordt uitbetaald aan de aanvrager. Als daartoe met het sociaal verhuurkantoor een overeenkomst werd gesloten als vermeld in artikel 6, § 1, tweede lid, 6°, wordt de tegemoetkoming uitbetaald aan het sociaal verhuurkantoor dat de uitvoering van de werkzaamheden op zich genomen heeft.
 
 ## HOOFDSTUK V Cumulatiebeperking, controle en sancties
 
