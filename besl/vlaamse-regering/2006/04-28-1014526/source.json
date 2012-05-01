@@ -2,16 +2,16 @@
   "codex_id": 1014526,
   "title": "Besluit van de Vlaamse Regering van 2006-04-28 tot vaststelling van het aantal te verkiezen gemeenteraadsleden per gemeente, het aantal te verkiezen leden van de raden voor maatschappelijk welzijn van de randgemeenten en van de gemeente Voeren, het aantal te verkiezen districtsraadsleden in Antwerpen en van het aantal te begeven schepenmandaten per gemeente en het aantal leden van de districtscolleges in Antwerpen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014526/VolledigDocument?datum=2006-12-15",
-  "source_sha256": "e732eff0c20d6f6d6679ddf4c311eabe54afc879ddbe93c46b190439eae81fa1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014526/VolledigDocument?datum=2012-05-01",
+  "source_sha256": "e436b236b4dcddda3211405159c330535e6e0527fd19ee2dc6167e9e99c008b5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014526&param=informatie",
-  "as_of": "2006-12-15",
+  "as_of": "2012-05-01",
   "made": "2006-04-28",
   "gazette": "2006-05-19",
   "numac": 2006035765,
   "document_start": "2006-05-19",
   "document_end": "2012-04-30",
-  "in_force": "2006-12-15",
+  "in_force": "2012-05-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2006-12-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-05-01; future article versions excluded; article text as the API gives it"
 }
