@@ -146,6 +146,10 @@ In artikel 78 van het decreet van 23 december 2010 houdende bepalingen tot begel
 
 ## HOOFDSTUK 5. Stadsvernieuwingsprojecten
 
+### ART. 31.
+
+Artikel 7 van het decreet van 22 maart 2002 houdende de ondersteuning van stadsvernieuwingsprojecten wordt vervangen door wat volgt : <br /><br />« Art. 7. De op de begroting vanaf het begrotingsjaar 2012 aangerekende en door de Vlaamse Regering goedgekeurde projecten ontvangen een toelage. De Vlaamse Regering bepaalt het bedrag van de toelage. ».
+
 ## HOOFDSTUK 6. Belasting op de inverkeerstelling op grond van milieukenmerken
 
 ### ART. 32.
