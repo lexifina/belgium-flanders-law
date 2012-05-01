@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021779,
+  "title": "Besluit van de Vlaamse Regering van 2012-04-27 houdende de voorwaarden voor een attest van toezicht van Kind en Gezin voor vakantieopvang van kleuters en lagere schoolkinderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021779/VolledigDocument?datum=2012-05-01",
+  "source_sha256": "012cc05a3c74c129446421f58e21660cd7b843e7abd22c4813cbfd48e7e6470b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021779&param=informatie",
+  "as_of": "2012-05-01",
+  "made": "2012-04-27",
+  "gazette": "2012-05-29",
+  "numac": 2012035543,
+  "document_start": "2012-05-01",
+  "document_end": "2014-03-31",
+  "in_force": "2012-05-01",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2012-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
