@@ -2,16 +2,16 @@
   "codex_id": 1021393,
   "title": "Besluit van de Vlaamse Regering van 2012-03-16 tot wijziging van het besluit van de Vlaamse Regering van 2 maart 2007 tot instelling van een tegemoetkoming in de kosten voor de renovatie van een woning aangaande buitenschrijnwerk en van het Energiebesluit van 19 november 2010 wat betreft de REG-premie van de netbeheerder aangaande zonneboilers op woongebouwen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021393/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "36b97d34229cdf2d5a6fbca656df95285efe59308f0d706c5021d70f5f8706ad",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021393/VolledigDocument?datum=2012-05-01",
+  "source_sha256": "2cb769d4c180c8a7b3949cbb2dc60527f836bdad60ab78cbcf64cb813df32cd7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021393&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2012-05-01",
   "made": "2012-03-16",
   "gazette": "2012-04-02",
   "numac": 2012201906,
   "document_start": null,
   "document_end": null,
-  "in_force": "2012-01-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-05-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2012-05-01; future article versions excluded; article text as the API gives it"
 }
