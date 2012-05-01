@@ -24,6 +24,10 @@ In artikel VII 109bis van hetzelfde besluit, ingevoegd bij het besluit van   de 
 
 Aan artikel VII 164, § 1, van hetzelfde besluit, ingevoegd bij het besluit   van de Vlaamse Regering van 8 juni 2012, wordt een tweede lid toegevoegd, dat   luidt als volgt :<BR>« De toelage vermeld in het eerste lid, wordt aan de   personeelsleden van het Instituut voor de Aanmoediging van Innovatie door   Wetenschap en Technologie in Vlaanderen, ook toegekend voor de periode van 1   januari 2010 tot en met 30 november 2012. ». <BR>
 
+### ART. 25.
+
+In artikel X 9 van hetzelfde besluit, gewijzigd bij de besluiten van de   Vlaamse Regering van 16 maart 2007, 23 mei 2008 en 29 april 2011, wordt   paragraaf 3 vervangen door wat volgt :<BR>« § 3. In afwijking van paragraaf 1   hebben de volgende personeelsleden van het agentschap Jongerenwelzijn die in een   gemeenschapsinstelling of in een gesloten federaal centrum werken, recht op het   hierna vermelde aantal jaarlijkse verlofdagen : de personeelsleden van niveau D,   C en B met de functie van begeleider, leraar of nachtwaker. Personeelsleden met   de graad van leidinggevend hoofddeskundige worden uitgesloten van dit   voordeel.<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Leeftijd       <TD>aantal verlofdagen<BR>    <TR>      <TD>van 45 tot en met 49 jaar       <TD>36 dagen<BR>    <TR>      <TD>van 50 tot en met 54 jaar       <TD>48 dagen<BR>    <TR>      <TD>van 55 tot en met 64 jaar       <TD>60 dagen. ».<BR></TD></TR></TBODY></TABLE><BR>
+
 ### ART. 26.
 
 In artikel X 28, § 1, van hetzelfde besluit, vervangen bij het besluit van   de Vlaamse Regering van 6 juli 2007, worden de woorden « 72 maanden » vervangen   door de woorden « 60 maanden ».<BR>
