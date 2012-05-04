@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021501,
+  "title": "Besluit van de Vlaamse Regering van 2012-03-23 tot wijziging van het besluit van de Vlaamse Regering van 18 januari 1995 betreffende de organisatie van het jachtexamen, van het besluit van de Vlaamse Regering van 30 mei 2008 betreffende de jachtopeningstijden in het Vlaamse Gewest voor de periode van 1 juli 2008 tot en met 30 juni 2013 en van het besluit van de Vlaamse Regering van 30 mei 2008 houdende vaststelling van de voorwaarden waaronder de jacht kan worden uitgeoefend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021501/VolledigDocument?datum=2012-05-04",
+  "source_sha256": "c7866b264f2eb01a767c1d0257883b8892a37e3f61bd80a5cde45f65ebfbdd77",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021501&param=informatie",
+  "as_of": "2012-05-04",
+  "made": "2012-03-23",
+  "gazette": "2012-04-24",
+  "numac": 2012202132,
+  "document_start": "2012-05-04",
+  "document_end": null,
+  "in_force": "2012-05-04",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2012-05-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
