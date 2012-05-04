@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021503,
+  "title": "Besluit van de Vlaamse Regering van 2012-03-30 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft het corporategovernancecomité van de netbeheerders",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021503/VolledigDocument?datum=2012-05-04",
+  "source_sha256": "77729b9f358ff7b51d03bfdd656aece5987e4768016e90a349d349c6a3ffe309",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021503&param=informatie",
+  "as_of": "2012-05-04",
+  "made": "2012-03-30",
+  "gazette": "2012-04-24",
+  "numac": 2012202123,
+  "document_start": "2012-05-04",
+  "document_end": null,
+  "in_force": "2012-05-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-05-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
