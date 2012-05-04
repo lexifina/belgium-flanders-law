@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021504,
+  "title": "Ministerieel besluit van 2012-03-30 tot vaststelling van de subsidiabele uitgaven voor de oproep voor de indiening van aanvragen voor de toekenning van investeringssubsidies aan vergunde toeristische logiezen om gebouwen, installaties, inrichtingen en voorzieningen op te richten of te moderniseren voor het jaar 2012",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021504/VolledigDocument?datum=2012-05-04",
+  "source_sha256": "2994c66fcd7bc610d47dc62fbc7a154f4b424a2282c60e778415b7014335013f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021504&param=informatie",
+  "as_of": "2012-05-04",
+  "made": "2012-03-30",
+  "gazette": "2012-04-24",
+  "numac": 2012202125,
+  "document_start": "2012-05-04",
+  "document_end": null,
+  "in_force": "2012-05-04",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-05-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
