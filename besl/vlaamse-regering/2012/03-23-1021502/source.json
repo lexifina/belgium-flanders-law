@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021502,
+  "title": "Besluit van de Vlaamse Regering van 2012-03-23 houdende goedkeuring van overhevelingen, omvormingen, programmatie van structuuronderdelen van het voltijds secundair onderwijs en de programmatie van opleidingen in het deeltijds beroepssecundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021502/VolledigDocument?datum=2012-05-04",
+  "source_sha256": "227b8ae06a3e11719a1e1688feaf8c9a1378e9b9879c61c188966d50042a618e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021502&param=informatie",
+  "as_of": "2012-05-04",
+  "made": "2012-03-23",
+  "gazette": "2012-04-24",
+  "numac": 2012202133,
+  "document_start": "2012-05-04",
+  "document_end": null,
+  "in_force": "2012-05-04",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-05-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
