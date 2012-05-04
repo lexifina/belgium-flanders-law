@@ -2,16 +2,16 @@
   "codex_id": 1013163,
   "title": "Besluit van de Vlaamse Regering van 2004-05-07 tot het aannemen van de statuten van het agentschap Waterwegen en Zeekanaal",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013163/VolledigDocument?datum=2008-11-03",
-  "source_sha256": "4376dbf620c6c0af36d98ce5201569816c00f54a82bb5ef86c73d18fedc7021e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013163/VolledigDocument?datum=2012-05-04",
+  "source_sha256": "5e5ca3df7066a1350a8639b583f238eb0af1cce14038308ec9619b5a15a7b139",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013163&param=informatie",
-  "as_of": "2008-11-03",
+  "as_of": "2012-05-04",
   "made": "2004-05-07",
   "gazette": "2004-06-30",
   "numac": 2004035981,
   "document_start": null,
   "document_end": null,
-  "in_force": "2008-11-03",
+  "in_force": "2012-05-04",
   "article_versions": 55,
-  "record_form": "consolidated version as in force on 2008-11-03; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-05-04; future article versions excluded; article text as the API gives it"
 }
