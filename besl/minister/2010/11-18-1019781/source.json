@@ -2,16 +2,16 @@
   "codex_id": 1019781,
   "title": "Ministerieel besluit van 2010-11-18 tot erkenning van verenigingen, organisaties en ondernemingen ter uitvoering van artikel 59, § 1, van het besluit van de Vlaamse Regering van 19 maart 2010 betreffende de organisatie van de fokkerij van voor de landbouw nuttige huisdieren",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019781/VolledigDocument?datum=2011-07-01",
-  "source_sha256": "d2756d01e9ebbd494417159fa832a73c8bd180b659b1089feb566e2b5395d884",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019781/VolledigDocument?datum=2012-05-07",
+  "source_sha256": "a6d0de31cc6140821b0d8c81daf2dcd7065a2f093532a09e09f5f0ec4598cd24",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019781&param=informatie",
-  "as_of": "2011-07-01",
+  "as_of": "2012-05-07",
   "made": "2010-11-18",
   "gazette": "2010-12-15",
   "numac": 2010035921,
   "document_start": "2011-01-01",
   "document_end": "2012-05-06",
-  "in_force": "2011-07-01",
+  "in_force": "2012-05-07",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2011-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-05-07; future article versions excluded; article text as the API gives it"
 }

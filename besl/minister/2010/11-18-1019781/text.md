@@ -6,7 +6,7 @@ De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-Ter uitvoering van artikel 59, § 1, eerste lid, 1°, van het besluit van de Vlaamse Regering van 19 maart 2010 betreffende de organisatie van de fokkerij van voor de landbouw nuttige huisdieren worden de volgende fokkersverenigingen of organisaties van fokkers erkend :<br />1° de VZW Vlaamse Rundveeteeltvereniging, met ondernemingsnummer 440.734.841, voor het bijhouden van een stamboek voor de rassen :<br />a) Holstein;<br />b) Belgisch Witblauw;<br />c) Witrood;<br />d) Rood;<br />e) Vlaams Blonde d'Aquitaine;<br />2° tot 26° ...
+...
 
 ### ART. 2.
 
@@ -18,4 +18,4 @@ Ter uitvoering van artikel 59, § 1, eerste lid, 1°, van het besluit van de Vla
 
 ### ART. 4.
 
-Dit besluit treedt in werking op 1 januari 2011.
+...
