@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021591,
+  "title": "Ministerieel besluit van 2012-03-15 tot wijziging van het ministerieel besluit van 27 september 2011 tot erkenning van verenigingen, organisaties en ondernemingen ter uitvoering van artikelen 4, 5, 6, 7 en 59, § 1, van het Fokkerijbesluit van 19 maart 2010, betreffende de erkenning van vzw Vlaamse Rundveeteeltvereniging voor het bijhouden van stamboeken en tot opheffing van het ministerieel besluit van 18 november 2010 tot erkenning van verenigingen, organisaties en ondernemingen ter uitvoering van artikel 59, § 1, van het besluit van de Vlaamse Regering betreffende de organisatie van de fokkerij van voor de landbouw nuttige huisdieren",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021591/VolledigDocument?datum=2012-05-07",
+  "source_sha256": "33f7da509fd4a4c16b121abf565e115293fe7c35320598297b2c54584811a4cf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021591&param=informatie",
+  "as_of": "2012-05-07",
+  "made": "2012-03-15",
+  "gazette": "2012-04-27",
+  "numac": 2012202126,
+  "document_start": "2012-05-07",
+  "document_end": null,
+  "in_force": "2012-05-07",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-05-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
