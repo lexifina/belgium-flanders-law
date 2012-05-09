@@ -62,11 +62,11 @@ Dit besluit treedt in werking op 1 januari 2010.
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/24_1.pdf#page=12" title=" Bijlage 1" target="_blank" class="pdf">Bijlage 1</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2012/05/09_1.pdf#page=68" title=" Bijlage 1" target="_blank" class="pdf">Bijlage 1</a>
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/24_1.pdf#page=19" title=" Bijlage 2" target="_blank" class="pdf">Bijlage 2</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2012/05/09_1.pdf#page=75" title=" Bijlage 2" target="_blank" class="pdf">Bijlage 2</a>
 
 ### BIJLAGE 3
 
@@ -74,7 +74,7 @@ Dit besluit treedt in werking op 1 januari 2010.
 
 ### BIJLAGE 4
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/12/24_1.pdf#page=27" title=" Bijlage 4" target="_blank" class="pdf">Bijlage 4</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2012/05/09_1.pdf#page=81" title=" Bijlage 4" target="_blank" class="pdf">Bijlage 4</a>
 
 ### BIJLAGE 5
 
