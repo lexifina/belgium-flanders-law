@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021731,
+  "title": "Ministerieel besluit van 2012-05-07 houdende oprichting van het orgaan dat de bevoegdheden uitoefent inzake de rechtspositie van het personeel voor het Agentschap voor Natuur en Bos",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021731/VolledigDocument?datum=2012-05-12",
+  "source_sha256": "d717251cc34d6c3829dcc5019bfca74a8e52965ddd510f8dbb6e3afc60eb44f7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021731&param=informatie",
+  "as_of": "2012-05-12",
+  "made": "2012-05-07",
+  "gazette": "2012-05-11",
+  "numac": 2012035495,
+  "document_start": "2012-05-12",
+  "document_end": null,
+  "in_force": "2012-05-12",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2012-05-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
