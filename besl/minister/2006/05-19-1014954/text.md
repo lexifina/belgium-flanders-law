@@ -6,7 +6,7 @@ De Vlaamse minister van Binnenlands Bestuur, Stedenbeleid, Wonen en Inburgering,
 
 ### ART. 1.
 
-Bij de gemeenteraadsverkiezingen van 8 oktober 2006 wordt voor de voordracht van kandidaten door kiezers het formulier G26a gebruikt dat als bijlage 1 bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 2.
 
@@ -14,11 +14,11 @@ Bij de gemeenteraadsverkiezingen van 8 oktober 2006 wordt voor de voordracht van
 
 ### ART. 3.
 
-Bij de gemeenteraadsverkiezingen van 8 oktober 2006 wordt voor de voordracht van kandidaten door aftredende gemeenteraadskiezers het formulier G27a gebruikt dat als bijlage 3 bij dit besluit is gevoegd.<br />
+...
 
 ### ART. 4.
 
-Bij de gemeenteraadsverkiezingen van 8 oktober 2006 wordt voor de voordracht van kandidaten door kiezers in gemeenten met minder dan 5 000 inwoners het formulier G28a gebruikt dat als bijlage 4 bij dit besluit is gevoegd.<br />
+...
 
 ### ART. 5.
 
@@ -26,11 +26,11 @@ Bij de gemeenteraadsverkiezingen van 8 oktober 2006 wordt voor de voordracht van
 
 ### ART. 6.
 
-Bij de gemeenteraadsverkiezingen van 8 oktober 2006 wordt voor de voordracht van kandidaten door aftredende gemeenteraadskiezers in gemeenten met minder dan 5 000 inwoners het formulier G29a gebruikt dat als bijlage 6 bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 7.
 
-Bij de districtraadsverkiezingen van 8 oktober 2006 wordt voor de voordracht van kandidaten door kiezers het formulier D26a gebruikt dat als bijlage 7 bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 8.
 
@@ -38,11 +38,11 @@ Bij de districtraadsverkiezingen van 8 oktober 2006 wordt voor de voordracht van
 
 ### ART. 9.
 
-Bij de districtraadsverkiezingen van 8 oktober 2006 wordt voor de voordracht van kandidaten door aftredende districtraadsleden het formulier D27a gebruikt dat als bijlage 9 bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 10.
 
-Bij de provincieraadsverkiezingen van 8 oktober 2006 wordt voor de voordracht van kandidaten door kiezers het formulier P26a gebruikt dat als bijlage 10 bij dit besluit is gevoegd.<br />
+...
 
 ### ART. 11.
 
@@ -50,17 +50,17 @@ Bij de provincieraadsverkiezingen van 8 oktober 2006 wordt voor de voordracht va
 
 ### ART. 12
 
-Bij de provincieraadsverkiezingen van 8 oktober 2006 wordt voor de voordracht van kandidaten door aftredende provincieraadsleden het formulier P27a gebruikt dat als bijlage 12 bij dit besluit is gevoegd.<br />
+...
 
 ### ART. 13.
 
-Dit besluit treedt in werking op de dag van de bekendmaking in het Belgisch Staatsblad.<br /><br />
+...
 
 ## Bijlage 1
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/18_1.pdf#page=10" title=" bijlage 1" target="_blank" class="pdf">bijlage 1</a>
+...
 
 ## Bijlage 2
 
@@ -72,13 +72,13 @@ Dit besluit treedt in werking op de dag van de bekendmaking in het Belgisch Staa
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/18_1.pdf#page=32" title=" bijlage 3" target="_blank" class="pdf">bijlage 3</a>
+...
 
 ## Bijlage 4
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/18_1.pdf#page=54" title=" bijlage 4" target="_blank" class="pdf">bijlage 4</a>
+...
 
 ## Bijlage 5
 
@@ -90,13 +90,13 @@ Dit besluit treedt in werking op de dag van de bekendmaking in het Belgisch Staa
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/18_1.pdf#page=65" title=" bijlage 6" target="_blank" class="pdf">bijlage 6</a>
+...
 
 ## Bijlage 7
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/18_1.pdf#page=76" title=" bijlage 7" target="_blank" class="pdf">bijlage 7</a>
+...
 
 ## Bijlage 8
 
@@ -108,13 +108,13 @@ Dit besluit treedt in werking op de dag van de bekendmaking in het Belgisch Staa
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/18_1.pdf#page=91" title=" bijlage 9" target="_blank" class="pdf">bijlage 9</a>
+...
 
 ## Bijlage 10
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/18_1.pdf#page=106" title=" bijlage 10" target="_blank" class="pdf">bijlage 10</a>
+...
 
 ## Bijlage 11
 
@@ -126,4 +126,4 @@ Dit besluit treedt in werking op de dag van de bekendmaking in het Belgisch Staa
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/18_1.pdf#page=124" title=" bijlage 12" target="_blank" class="pdf">bijlage 12</a>
+...
