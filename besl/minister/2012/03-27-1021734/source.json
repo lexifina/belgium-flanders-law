@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021734,
+  "title": "Ministerieel besluit van 2012-03-27 houdende de vaststelling van het model van het volmachtformulier voor de verkiezingen van 14 oktober 2012, van de attesten die door de burgemeester worden afgegeven aan de kiezers die het beroep van schipper, marktkramer of kermisreiziger uitoefenen, en aan de kiezers die op de dag van de verkiezingen tijdelijk in het buitenland verblijven, en de vaststelling van het model van de verklaring op erewoord van die kiezers",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021734/VolledigDocument?datum=2012-05-15",
+  "source_sha256": "2ae52bf29718f3b85112b47b224aab988c28dda4e713c81663bba059be76f635",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021734&param=informatie",
+  "as_of": "2012-05-15",
+  "made": "2012-03-27",
+  "gazette": "2012-05-15",
+  "numac": 2012035430,
+  "document_start": "2012-05-15",
+  "document_end": "2018-02-09",
+  "in_force": "2012-05-15",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2012-05-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
