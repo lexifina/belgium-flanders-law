@@ -50,7 +50,7 @@ De gedelegeerd bestuurder van het agentschap wijst een controleorgaan aan dat ge
 
 ### ART. 10.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad en houdt op van kracht te zijn zes jaar na de datum van inwerkingtreding.
+Dit besluit treedt in werking op de dag van de bekendmaking ervan in het   Belgisch Staatsblad en houdt op van kracht te zijn&nbsp;negen jaar na de datum   van inwerkingtreding.
 
 ### ART. 11.
 

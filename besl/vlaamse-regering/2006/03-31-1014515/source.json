@@ -2,16 +2,16 @@
   "codex_id": 1014515,
   "title": "Besluit van de Vlaamse Regering van 2006-03-31 tot toekenning van subsidies voor haalbaarheidsstudies met betrekking tot bouw- en milieuprojecten in het buitenland met Vlaamse betrokkenheid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014515/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "34e1ed586e182dd4d167b911d136c1925264823352e982684910b4a231ac0379",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014515/VolledigDocument?datum=2012-05-15",
+  "source_sha256": "a386f2389234b277206120bbd8b2c927882f5c0602e3bc053b406d4b487fd652",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014515&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2012-05-15",
   "made": "2006-03-31",
   "gazette": "2006-05-16",
   "numac": 2006035746,
   "document_start": "2006-05-16",
   "document_end": "2012-05-16",
-  "in_force": "2006-06-01",
+  "in_force": "2012-05-15",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-05-15; future article versions excluded; article text as the API gives it"
 }
