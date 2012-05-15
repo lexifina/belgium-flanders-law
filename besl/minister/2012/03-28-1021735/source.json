@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021735,
+  "title": "Ministerieel besluit van 2012-03-28 houdende de vastlegging van de modellen van voordrachtsakten en van verbeteringsakten voor de lokale en provinciale verkiezingen van 14 oktober 2012, met inbegrip van de individuele geschreven en te ondertekenen verklaring van de niet-Belgische kandidaten die onderdaan zijn van een lidstaat van de Europese Unie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021735/VolledigDocument?datum=2012-05-15",
+  "source_sha256": "7bc29627a50e60f3c1147a51b4206f3c167808838d4000fbff6042ffc45afdfb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021735&param=informatie",
+  "as_of": "2012-05-15",
+  "made": "2012-03-28",
+  "gazette": "2012-05-15",
+  "numac": 2012035456,
+  "document_start": "2012-05-15",
+  "document_end": "2018-03-26",
+  "in_force": "2012-05-15",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2012-05-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
