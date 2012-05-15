@@ -6,42 +6,42 @@ De Vlaamse minister van Binnenlands Bestuur, Stedenbeleid, Wonen en Inburgering,
 
 ### ART. 1.
 
-Bij de verkiezingen van 8 oktober 2006 wordt het volmachtformulier gebruikt dat als bijlage I bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 2.
 
-In het geval, vermeld in artikel 42bis, § 1, 3°, van de Gemeentekieswet, gecoördineerd op 4 augustus 1932, en van artikel 9ter, § 1, 3°, van de wet van 19 oktober 1921 tot regeling van de provincieraadsverkiezingen, wordt het attest, uitgereikt door de burgemeester aan kiezers die het beroep van schipper, marktkramer of kermisreiziger uitoefenen of de gezinsleden die met hen samenwonen, opgemaakt volgens het model, dat als bijlage II bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 3.
 
-In het geval, vermeld in artikel 42bis, § 1, 7°, van de Gemeentekieswet, gecoördineerd op 4 augustus 1932, en van artikel 9ter, § 1, 7°, van de wet van 19 oktober 1921 tot regeling van de provincieraadsverkiezingen, wordt het attest, uitgereikt door de burgemeester aan kiezers en hun familieleden die op de dag van de verkiezingen om andere dan dienst- of beroepsredenen in het buitenland verblijven, opgemaakt volgens het model, dat als bijlage III bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 4.
 
-Als verschillende verkiezingen gelijktijdig worden georganiseerd, geldt hetzelfde volmachtformulier voor het geheel van die verkiezingen en mag er niet meer dan één gemachtigde worden aangewezen.<br /><br />
+...
 
 ### ART. 5.
 
-Het koninklijk besluit van 12 augustus 2000 tot vaststelling van het volmachtformulier voor de provincie- en gemeenteraadsverkiezingen, wordt opgeheven.<br /><br />
+...
 
 ### ART. 6.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad. <br /><br />
+...
 
 ## Bijlage I Volmacht
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/07/17_1.pdf#page=106" title=" bijlage I" target="_blank" class="pdf">bijlage I</a>
+...
 
 ## Bijlage II Attest van uitoefening van het beroep van schipper, marktkramer of kermisreiziger
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/07/17_1.pdf#page=108" title=" bijlage II" target="_blank" class="pdf">bijlage II</a>
+...
 
 ## Bijlage III Attest van tijdelijk verblijf in het buitenland
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/07/17_1.pdf#page=109" title=" bijlage III" target="_blank" class="pdf">bijlage III</a>
+...
