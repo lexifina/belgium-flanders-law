@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021699,
+  "title": "Besluit van de Vlaamse Regering van 2012-03-30 tot wijziging van het koninklijk besluit van 29 november 1968 houdende vaststelling van de procedure bij de onderzoeken de commodo et incommodo, voorgeschreven door de wet van 28 december 1967 betreffende de onbevaarbare waterlopen en tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 24 juli 2009 tot uitvoering van de onteigening ten algemene nutte, het recht van voorkoop, de aankoopplicht en de vergoedingsplicht van titel I van het decreet integraal waterbeleid van 18 juli 2003 en tot aanvulling ervan met een regeling voor de afbakening van overstromingsgebieden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021699/VolledigDocument?datum=2012-05-19",
+  "source_sha256": "133b048d3e40595df0c1e47a62d5fbd019bb67b67fb9494ae2ee21275f34ca29",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021699&param=informatie",
+  "as_of": "2012-05-19",
+  "made": "2012-03-30",
+  "gazette": "2012-05-09",
+  "numac": 2012035488,
+  "document_start": "2012-05-19",
+  "document_end": null,
+  "in_force": "2012-05-19",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2012-05-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
