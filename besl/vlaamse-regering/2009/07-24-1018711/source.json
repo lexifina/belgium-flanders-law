@@ -2,16 +2,16 @@
   "codex_id": 1018711,
   "title": "Besluit van de Vlaamse Regering van 2009-07-24 tot uitvoering van de onteigening ten algemene nutte, het recht van voorkoop, de aankoopplicht [, de vergoedingsplicht en de afbakening van overstromingsgebieden (verv. BVR 30 maart 2012, art. 2)] van titel I van het decreet integraal waterbeleid van 18 juli 2003 [, gecoördineerd op 15 juni 2018 (ing. BVR 26 april 2019, art. 84, I: 1 januari 2019)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018711/VolledigDocument?datum=2010-02-01",
-  "source_sha256": "944ac1f84f3bf080968acc4283f1f7b21b5f75989df3fee33d7e00eeb4179323",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018711/VolledigDocument?datum=2012-05-19",
+  "source_sha256": "4ec3cdac44a0f314828f0345d5ba40957fa015762c16a01b897369c4bc56cb25",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018711&param=informatie",
-  "as_of": "2010-02-01",
+  "as_of": "2012-05-19",
   "made": "2009-07-24",
   "gazette": "2010-01-22",
   "numac": 2010035060,
   "document_start": "2010-02-01",
   "document_end": null,
-  "in_force": "2010-02-01",
-  "article_versions": 28,
-  "record_form": "consolidated version as in force on 2010-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-05-19",
+  "article_versions": 35,
+  "record_form": "consolidated version as in force on 2012-05-19; future article versions excluded; article text as the API gives it"
 }
