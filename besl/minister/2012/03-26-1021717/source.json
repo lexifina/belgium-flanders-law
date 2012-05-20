@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021717,
+  "title": "Ministerieel besluit van 2012-03-26 tot wijziging van bijlage I van het ministerieel besluit van 19 maart 2004 houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021717/VolledigDocument?datum=2012-05-20",
+  "source_sha256": "e4554bf29dfe14ddb877ab1ffb78c551d6c572827ade1ed9578cd3ac476f463b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021717&param=informatie",
+  "as_of": "2012-05-20",
+  "made": "2012-03-26",
+  "gazette": "2012-05-10",
+  "numac": 2012035457,
+  "document_start": "2012-05-20",
+  "document_end": null,
+  "in_force": "2012-05-20",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-05-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
