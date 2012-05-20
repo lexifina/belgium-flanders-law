@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2012-04-20 tot wijziging van het ministerieel besluit van 4 juli 2011 tot aanwijzing van de sociaalrechtelijke inspecteurs en de ambtenaren bevoegd voor het opleggen van de administratieve geldboeten
+
+### Aanhef
+
+De Vlaamse minister van Financiën, Begroting, Werk, Ruimtelijke Ordening en Sport,<br /><br />Gelet op het decreet van 30 april 2004 tot uniformisering van de toezicht-, sanctie- en strafbepalingen die zijn opgenomen in de regelgeving van de sociaalrechtelijke aangelegenheden, waarvoor de Vlaamse Gemeenschap en het Vlaamse Gewest bevoegd zijn, gewijzigd bij de decreten van 22 december 2006, 9 maart 2007, 9 juli 2010 en 10 december 2010;<br /><br />Gelet op het besluit van de Vlaamse Regering van 14 januari 2005 tot uitvoering van het decreet van 30 april 2004 tot uniformisering van de toezichts-, sanctie- en strafbepalingen die zijn opgenomen in de regelgeving van de sociaalrechtelijke aangelegenheden, waarvoor de Vlaamse Gemeenschap en het Vlaamse Gewest bevoegd zijn, gewijzigd bij het besluit van de Vlaamse Regering van 10 juli 2008, artikel 4 en 7;<br /><br />Gelet op het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 19 november 2010;<br /><br />Gelet op het ministerieel besluit van 4 juli 2011 tot aanwijzing van de sociaalrechtelijke inspecteurs en de ambtenaren bevoegd voor het opleggen van de administratieve geldboeten, het laatst gewijzigd bij het ministerieel besluit van 9 december 2011,<br /><br />Besluit :<br /><br />
+
+### ART. Enig.
+
+In het ministerieel besluit van 4 juli 2011 tot aanwijzing van de sociaalrechtelijke inspecteurs en de ambtenaren bevoegd voor het opleggen van de administratieve geldboeten wordt de bijlage vervangen door de bijlage die bij dit besluit is gevoegd.
+
+### BIJLAGE
+
+De sociaalrechtelijke inspecteurs van de afdeling Inspectie Werk en Sociale Economie van het Departement Werk en Sociale Economie zijn:<br /><br />Lorette Aerts<br />Jean-Marc Bergiers<br />Willy Bieseman<br />Kristof Botteldoom<br />Charles Brees<br />Katleen Breynaert<br />Nicky Caestecker<br />Conny Costermans<br />Luc Cretskens<br />Evelien Decraene<br />Bedwig De Wilde<br />Jurgen De Wit<br />Steven Dhaeze<br />Nathalie Dhondt<br />Lise Gijsel<br />Raymond Graindor<br />Guy Joosten<br />Ann Lambrechts<br />Thalassa Marchand<br />Evi Martens<br />David Matthys<br />Hans Peeraer<br />Thomas Rossie<br />Tom Segers<br />Elke Smits<br />Chris Vandaele<br />Martine Van Den Bossche<br />Stefanie Vandenbussche<br />Myriam Vander Stadt<br />Elke Van Neygen<br />Koen Van Osselaer<br />Willem Van Parys<br />Jelle Verhaegen<br />Marc Willems
