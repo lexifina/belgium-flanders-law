@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021720,
+  "title": "Ministerieel besluit van 2012-04-23 tot wijziging van de samenstelling van de natuurinrichtingsprojectcomités Biscopveld, Averbode Bos en Heide en West-Vlaamse Scheldemeersen en tot wijziging van de samenstelling van de natuurinrichtingsprojectcommissies Latemse Meersen, Osbroek-Gerstjens, Biscopveld, Zwarte Beek en West-Vlaamse Scheldemeersen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021720/VolledigDocument?datum=2012-05-20",
+  "source_sha256": "e7f301579545ed6608c116d43435b003ed631836cce6694d1b48d340a4f32588",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021720&param=informatie",
+  "as_of": "2012-05-20",
+  "made": "2012-04-23",
+  "gazette": "2012-05-10",
+  "numac": 2012202491,
+  "document_start": "2012-05-20",
+  "document_end": null,
+  "in_force": "2012-05-20",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2012-05-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
