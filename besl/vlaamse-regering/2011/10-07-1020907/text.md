@@ -73,7 +73,7 @@ Op voordracht van de Diensten Maatschappelijk werk van de Ziekenfondsen worden d
 
 ### ART. 12.
 
-Op voordracht van de Vereniging van Vlaamse Steden en Gemeenten, Paviljoenstraat 9, 1030 Brussel, worden de volgende personen benoemd tot respectievelijk effectief en plaatsvervangend lid : mevrouw Sabine Van Cauwenberge en mevrouw Liesbet Noé.<br /><br />
+Op voordracht van de Vereniging van Vlaamse Steden en Gemeenten,   Paviljoenstraat 9, 1030 Brussel, worden de volgende personen benoemd tot   respectievelijk effectief en plaatsvervangend lid : mevrouw Veerle Cortebeeck en   mevrouw Liesbet Noé.<BR><BR>
 
 ### ART. 13.
 
