@@ -36,7 +36,16 @@ De jacht op overig wild is open :<br />1° op konijnen en op houtduiven : van 15
 
 ### ART. 7.
 
-Ter voorkoming van belangrijke schade aan gewassen, weiden of eigendommen, voor het natuurbeheer of als dat noodzakelijk is voor de veiligheid van het luchtverkeer, en op plaatsen waar geen andere bevredigende oplossing bestaat, kunnen er, in afwijking van artikelen 2 tot en met 6, ook binnen de volgende aanvullende openingstijden jachtactiviteiten worden uitgeoefend, hierna bijzondere bejaging genoemd :<br />1° op edelherten, damherten, moeflons en wilde zwijnen : van 1 januari tot en met 30 september;<br />2° op grauwe ganzen : van 15 juli tot en met 14 augustus;<br />3° op Canadese ganzen : van 1 februari tot en met 28 of 29 februari en van 15 juli tot en met 14 augustus;<br />4° op wilde eenden : van 15 juli tot en met 31 augustus;<br />5° op kieviten : van 1 juli tot en met 30 juni;<br />6° op houtduiven en konijnen : van 1 maart tot en met 14 september.<br /><br />Deze bijzondere bejaging gebeurt onder de voorwaarden die in dat verband gesteld worden in het besluit van de Vlaamse Regering van 30 mei 2008 houdende vaststelling van de voorwaarden waaronder de jacht kan worden uitgeoefend.
+Ter voorkoming van belangrijke schade aan gewassen, weiden of eigendommen, voor het natuurbeheer of als dat noodzakelijk is voor de veiligheid van het luchtverkeer, en op plaatsen waar geen andere bevredigende oplossing bestaat, kunnen er, in afwijking van artikelen 2 tot en met 6, ook binnen de volgende aanvullende openingstijden jachtactiviteiten worden uitgeoefend, hierna bijzondere bejaging genoemd :<br>
+1° op edelherten, damherten, moeflons en wilde zwijnen : van 1 januari tot en met 30 september;<br>
+2° op grauwe ganzen : van 15 juli tot en met 14 augustus;<br>
+3° op Canadese ganzen : van 1 februari tot en met 28 of 29 februari en van 15 juli tot en met 14 augustus;<br>
+4° op wilde eenden : van 15 juli tot en met 31 augustus;<br>
+5° op kieviten : van 1 juli tot en met 30 juni;<br>
+6° op houtduiven en konijnen : van 1 maart tot en met 14 september;<br>
+7° [... <em>(vernietigd bij <a href="http://www.raadvst-consetat.be/Arresten/233000/700/233797.pdf#xml=http://www.raadvst-consetat.be/apps/dtsearch/getpdf.asp?DocId=35042&amp;Index=c%3a%5csoftware%5cdtsearch%5cindex%5carrets%5fnl%5c&amp;HitCount=16&amp;hits=1298+1389+138a+138b+138c+138d+1398+1399+139a+139b+139c+13ab+13ac+13ad+13ae+13af+&amp;042992020179">arrest RvSt&nbsp;nr. 233.797 van 11 februari 2016</a></em>)]<br>
+<br>
+Deze bijzondere bejaging gebeurt onder de voorwaarden die in dat verband gesteld worden in het besluit van de Vlaamse Regering van 30 mei 2008 houdende vaststelling van de voorwaarden waaronder de jacht kan worden uitgeoefend.
 
 ## HOOFDSTUK IV. Andere bepalingen met betrekking tot openingstijden
 
