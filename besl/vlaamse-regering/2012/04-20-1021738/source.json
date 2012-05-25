@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021738,
+  "title": "Besluit van de Vlaamse Regering van 2012-04-20 houdende indeling bij de gemeentewegen van de gewestweg N779-0 tussen kmp. 1.731 en 2.578 op het grondgebied van de stad Genk",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021738/VolledigDocument?datum=2012-05-25",
+  "source_sha256": "5685b64e6e676a07b261b98a2c2e64402469c0c5fa44473958b44ff5bf35d277",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021738&param=informatie",
+  "as_of": "2012-05-25",
+  "made": "2012-04-20",
+  "gazette": "2012-05-15",
+  "numac": 2012035504,
+  "document_start": "2012-05-25",
+  "document_end": null,
+  "in_force": "2012-05-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-05-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
