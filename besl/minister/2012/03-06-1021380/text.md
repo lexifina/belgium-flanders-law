@@ -27,7 +27,7 @@ Dit besluit treedt in werking op de datum van ondertekening ervan.<br /><br />
 ### BIJLAGE 1
 
 Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen voor het jaar 2012<br>
-<br>
+&nbsp;
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
