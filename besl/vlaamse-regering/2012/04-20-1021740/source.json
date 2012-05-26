@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021740,
+  "title": "Besluit van de Vlaamse Regering van 2012-04-20 tot verdeling van de trekkingsrechten uit het Stedenfonds voor het jaar 2012",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021740/VolledigDocument?datum=2012-05-26",
+  "source_sha256": "44c33984a555f8501f7147b610ae604254b3cac7b4ad73821ce45874c66d2e9b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021740&param=informatie",
+  "as_of": "2012-05-26",
+  "made": "2012-04-20",
+  "gazette": "2012-05-16",
+  "numac": 2012035505,
+  "document_start": "2012-05-26",
+  "document_end": null,
+  "in_force": "2012-05-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-05-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
