@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021818,
+  "title": "Ministerieel besluit van 2012-05-29 tot wijziging van het ministerieel besluit van 30 juni 2006 houdende de delegatie van sommige bevoegdheden inzake financiën en begroting aan de leidende ambtenaren van het Vlaams ministerie van Financiën en Begroting",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021818/VolledigDocument?datum=2012-05-29",
+  "source_sha256": "47f657d4dd3040aa965fbda5852c3b8d2d40fa68a3b0a82164263aecc88b2b95",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021818&param=informatie",
+  "as_of": "2012-05-29",
+  "made": "2012-05-29",
+  "gazette": "2012-06-13",
+  "numac": 2012203045,
+  "document_start": "2012-05-29",
+  "document_end": null,
+  "in_force": "2012-05-29",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2012-05-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
