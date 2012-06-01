@@ -936,6 +936,10 @@ De salarisschaal, het bekwaamheidsbewijs en de geldelijke anciënniteit die tuss
 
 § 1. Een personeelslid dat werd aangesteld op basis van artikel 15 van de wet van 30 juli 1963 houdende taalregeling in het onderwijs of op basis van artikel 27 van de gecoördineerde wetten van 18 juli 1966 op het gebruik van talen in bestuurszaken kan na 1 september 2009 opnieuw worden aangesteld in een zelfde ambt en voldoet vanaf 1 september 2009 aan de taalvereisten zoals bepaald in de artikelen 19bis tot en met 19quater.<br /><br />§ 2. Een personeelslid dat de grondige kennis van de tweede taal bewees en werd aangesteld op basis van artikel 15 van de wet van 30 juli 1963 houdende taalregeling in het onderwijs kan na 1 september 2009 opnieuw worden aangesteld in een zelfde ambt en voldoet vanaf 1 september 2009 aan de taalvereisten voor de wettelijk of decretaal verplichte tweede taal zoals bepaald in artikel 19quinquies.<br /><br />§ 3. Een personeelslid dat tot en met het academiejaar 2009-2010 een diploma behaalt of behaald heeft dat beschouwd wordt als een vereist bekwaamheidsbewijs voor het ambt van onderwijzer in het basisonderwijs, wordt geacht aan de voorwaarde van artikel 19quinquies te voldoen voor een aanstelling in het ambt van onderwijzer in een basisschool gelegen in het Vlaamse Gewest.
 
+### ART. 84octiesdecies.
+
+De vastbenoemde personeelsleden van het Hoger Instituut voor Readaptatiewetenschappen Leuven die bij de overname van de opleiding Sociale readaptatiewetenschappen door de Katholieke Hogeschool Leuven onder de voorwaarden vallen van artikel 307sexies van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap en geen gebruik wensen te maken van dit artikel, blijven personeelslid van het CVO HIRL en worden op het ogenblik van de overdracht van deze opleiding ter beschikking gesteld wegens ontstentenis van betrekking.
+
 ## TITEL III ANDERE BEPALINGEN
 
 ### ART. 85.
