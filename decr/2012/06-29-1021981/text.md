@@ -32,6 +32,10 @@ In artikel 340sexies van het decreet van 13 juli 1994 betreffende de hogescholen
 
 ## HOOFDSTUK VII. Decreet betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding
 
+### ART. VII.2.
+
+Aan titel II, hoofdstuk XI van hetzelfde decreet, laatst gewijzigd bij het decreet van 9 juli 2010, wordt een artikel 84octiesdecies toegevoegd, dat luidt als volgt :<br /><br />'Art. 84octiesdecies. De vastbenoemde personeelsleden van het Hoger Instituut voor Readaptatiewetenschappen Leuven die bij de overname van de opleiding Sociale readaptatiewetenschappen door de Katholieke Hogeschool Leuven onder de voorwaarden vallen van artikel 307sexies van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap en geen gebruik wensen te maken van dit artikel, blijven personeelslid van het CVO HIRL en worden op het ogenblik van de overdracht van deze opleiding ter beschikking gesteld wegens ontstentenis van betrekking. ».
+
 ## HOOFDSTUK VIII. Andere bepalingen
 
 ## Afdeling I. Decreet betreffende het onderwijs XVIII
