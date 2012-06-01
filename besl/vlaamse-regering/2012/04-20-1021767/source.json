@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021767,
+  "title": "Besluit van de Vlaamse Regering van 2012-04-20 betreffende de aanwijzing van een persoon die de minderjarige bijstaat bij de uitoefening van zijn rechten in de integrale jeugdhulp wanneer de minderjarige en zijn ouders tegenstrijdige belangen hebben en de minderjarige niet in staat is om zelf een [vertrouwenspersoon (verv. BVR 21 februari 2014, art. 128, I: 28 februari 2014)] aan te wijzen of niemand het ouderlijk gezag uitoefent",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021767/VolledigDocument?datum=2012-06-01",
+  "source_sha256": "fe8c5f7619b1d79730619d8da0e257388654fa6b0efc20172ff6ed4f8e9f9ede",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021767&param=informatie",
+  "as_of": "2012-06-01",
+  "made": "2012-04-20",
+  "gazette": "2012-05-25",
+  "numac": 2012035537,
+  "document_start": "2012-06-01",
+  "document_end": null,
+  "in_force": "2012-06-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2012-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
