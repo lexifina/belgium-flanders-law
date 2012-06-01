@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021748,
+  "title": "Besluit van de Vlaamse Regering van 2012-04-20 tot erkenning van de beroepskwalificatie dispatcher goederenvervoer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021748/VolledigDocument?datum=2012-06-01",
+  "source_sha256": "4e0e538962bd86bbc7501e3af5335a3553f3a10fb997a969dfd1b6239ff33539",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021748&param=informatie",
+  "as_of": "2012-06-01",
+  "made": "2012-04-20",
+  "gazette": "2012-05-22",
+  "numac": 2012035526,
+  "document_start": "2012-06-01",
+  "document_end": null,
+  "in_force": "2012-06-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
