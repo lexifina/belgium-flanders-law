@@ -2,16 +2,16 @@
   "codex_id": 1007259,
   "title": "Besluit van de Vlaamse Regering van 2000-03-17 houdende vaststelling van het verwijderingsplan voor PCB-houdende apparaten en de daarin aanwezige PCB's",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007259/VolledigDocument?datum=2008-05-21",
-  "source_sha256": "54f536d8cc6389f578c1a14f1fa86bf4250c6ca3c792f6e8294d17b3df1f4193",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007259/VolledigDocument?datum=2012-06-01",
+  "source_sha256": "b0a038fd6d1fe49b24e7f7a59821159c84f6ac6a053fabf444ae38f7c91bb942",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007259&param=informatie",
-  "as_of": "2008-05-21",
+  "as_of": "2012-06-01",
   "made": "2000-03-17",
   "gazette": "2000-05-17",
   "numac": 2000035462,
   "document_start": "2000-05-17",
   "document_end": "2012-05-31",
-  "in_force": "2008-05-21",
+  "in_force": "2012-06-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-06-01; future article versions excluded; article text as the API gives it"
 }
