@@ -2,16 +2,16 @@
   "codex_id": 1000034,
   "title": "Decreet van 1981-07-02 betreffende de voorkoming en het beheer van afvalstoffen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000034/VolledigDocument?datum=2011-09-06",
-  "source_sha256": "e257f252c7fa3d8495416de079493e32b513806b4cfc2d72e6888b03cf53f882",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000034/VolledigDocument?datum=2012-06-01",
+  "source_sha256": "fa3b3243f4b3c115c3216a145b77b317e9a8335b2cfa567bb2df42c5d03de195",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000034&param=informatie",
-  "as_of": "2011-09-06",
+  "as_of": "2012-06-01",
   "made": "1981-07-02",
   "gazette": "1981-07-25",
   "numac": 1981001184,
   "document_start": null,
   "document_end": "2012-06-01",
-  "in_force": "2011-09-06",
+  "in_force": "2012-06-01",
   "article_versions": 88,
-  "record_form": "consolidated version as in force on 2011-09-06; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-06-01; future article versions excluded; article text as the API gives it"
 }
