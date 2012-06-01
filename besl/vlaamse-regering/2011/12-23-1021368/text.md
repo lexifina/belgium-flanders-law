@@ -1456,6 +1456,86 @@ motoren met inwendige verbranding opgesteld op een bouwplaats voor de uitvoering
 <br>
 60° in rubriek 59 wordt tussen het opschrift van de rubriek « Activiteiten die gebruik maken van organische oplosmiddelen » en het opschrift van rubriek 59.1 « Drukken » de zin « De in deze rubriek vermelde activiteiten omvatten de reiniging van de procesapparatuur, maar niet de reiniging van de producten tenzij andersluidende vermeldingen zijn opgenomen. » ingevoegd.</p>
 
+### ART. 22.
+
+In bijlage 3.A van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 24 april 2009, wordt aan deel F een punt F5 toegevoegd, dat luidt als volgt :<br /><br />« Rubriek 17.2.2 van de VLAREM-indelingslijst (hogedrempel-Seveso-inrichtingen)<br /><br />F5 Als de mededeling betrekking heeft op een verandering in een hogedrempel-Seveso-inrichting, ofwel van de hoeveelheid of de fysische vorm van de gevaarlijke stoffen, ofwel van de processen of de installaties waarbij gevaarlijke stoffen worden gebruikt, die het voorwerp heeft uitgemaakt van een veiligheidsnota die door een erkende VR-deskundige, vermeld in artikel 6, 1°, e), van het VLAREL, en door de afdeling, bevoegd voor veiligheidsrapportering, is goedgekeurd, voegt u de voormelde veiligheidsnota als bijlage F5 bij dit formulier. ».<br /> F5<br /><br />
+
+### ART. 23.
+
+In bijlage 3.C van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 24 april 2009, worden de punten C8 en E2 opgeheven.
+
+### ART. 24.
+
+<p>In bijlage 4.A van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 24 april 2009, worden de volgende wijzigingen aangebracht :<br>
+1° in het deel A wordt het punt A9 vervangen door wat volgt :<br>
+</p>
+
+<table border="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:1cm">
+			<p>A9 <!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:388.35pt">
+			<p>Voeg bij dit formulier als bijlage A9 een kopie van de documenten waaruit ondubbelzinnig blijkt op basis van welke gebruikstitel u als exploitant de beschikking hebt over (onderdelen van) de inrichting en over de percelen waarop de exploitatie plaatsvindt of gepland is en waarvan u geen eigenaar bent. Als deze aanvraag betrekking heeft op een of meer windturbines, voegt u aanvullend bij bijlage A9 de overeenkomst met de eigenaars van de percelen waarboven de wieken van de windturbines kunnen draaien.</p>
+
+			<p>Als u over een ongeschreven gebruikstitel beschikt, voegt u als bijlage A9 bij dit formulier minstens een verklaring op erewoord, waarin staat dat u beschikt over een gebruiksrecht van de inrichting en de percelen in kwestie.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:35.4pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:1cm">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:388.35pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:35.4pt">
+			<p>□ A9</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>2° in punt C2 wordt de zin « Ja maar de lopende vergunning loopt uiterlijk op 1 september 2011 af en de aanvraag wordt niet meer dan 48 maanden voor het verstrijken van de lopende vergunning aangevraagd. » vervangen door de zin « Ja, maar het betreft de vroegtijdige indiening van een milieuvergunningsaanvraag, conform artikel 45bis, § 1, van het decreet van 28 juni 1985 betreffende de milieuvergunning, die tot doel heeft een nieuwe vergunning te verkrijgen voor de exploitatie van een inrichting die geheel of gedeeltelijk wordt geregeld door een vergunning als vermeld in artikel 43 of 44, eerste lid, van het voormelde decreet. »;<br>
+<br>
+3° aan het deel F wordt een punt F14 toegevoegd, dat luidt als volgt :<br>
+</p>
+
+<table border="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:1cm">
+			<p>F14</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:388.35pt">
+			<p>Als deze aanvraag betrekking heeft op een of meer windturbines, voegt u bij dit formulier als bijlage F14 de gegevens en documenten die vermeld worden in punt F14 van de toelichtingsbijlage (van toepassing bij rubriek 20.1.6).</p>
+
+			<p>Als de in het eerste lid vermelde windturbine of windturbines waarop de aanvraag betrekking heeft tevens milieueffectrapportageplichtig is of zijn, wordt voldaan aan de verplichting, vermeld in het eerste lid, door het toevoegen bij dit formulier van de volgende documenten:</p>
+
+			<p>1° ofwel het goedgekeurde milieueffectrapport, ofwel het gemotiveerde verzoek tot ontheffing van de milieueffectrapportageplicht samen met de gunstige beslissing van de afdeling Milieu-, Natuur- en Energiebeleid hierover;</p>
+
+			<p>2° in voorkomend geval de aanvullende veiligheidsstudie, vermeld in punt 2 van punt F14 van de toelichtingsbijlage.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:35.4pt">
+			<p>□ F14</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>4° in punt G1 worden de letters « D2 » vervangen door de letters « G2 »;<br>
+<br>
+5° in punt H6 worden onder het aankruisvak «  F13 » een aankruisvak «  F14 » toegevoegd.</p>
+
+### ART. 25.
+
+In bijlage 4.B van hetzelfde besluit, ingevoegd bij besluit van de Vlaamse Regering van 24 april 2009 en gewijzigd bij het besluit van de Vlaamse Regering van 21 mei 2010, worden de volgende wijzigingen aangebracht :<br /><br />1° in punt F8 wordt de zinsnede « hoofdstuk I en II van het besluit van de Vlaamse Regering van 14 mei 2004 inzake energieplanning voor ingedeelde energie-intensieve inrichtingen » telkens vervangen door de zinsnede « artikel 6.5.1 tot en met 6.5.8 van het Energiebesluit »;<br /><br />2° er wordt een punt F14 toegevoegd, dat luidt als volgt :<br />F14 WINDTURBINES<br /><br />In de toelichtingsbijlage wordt verstaan onder :<br />a) slagschaduw : schaduw die afkomstig is van een bewegende rotor van een windturbine als de intensiteit van het ingestraalde zonlicht hoger is dan 120 W/m2 op een vlak loodrecht op de invalsrichting van de zon;<br />b) slagschaduwgevoelig object : een binnenruimte waar slagschaduw van windturbines hinder kan veroorzaken;<br />c) verwachte slagschaduw : het aantal uren slagschaduw dat aan de hand van de hieronder vermelde aannames verwacht mag worden.<br /><br />1. een slagschaduwstudie, als er zich een slagschaduwgevoelig object bevindt binnen de contour van vier uur verwachte slagschaduw per jaar van een windturbine. De slagschaduwstudie bevat een berekening van de verwachte slagschaduw en minstens de volgende gegevens :<br />a) de maximale rotordiameter en de maximale tiphoogte van de weerhouden windturbinetypes;<br />b) de inplanting van de windturbines, weergegeven in lambertcoördinaten;<br />c) de hoogtelijnen van de site;<br />d) de representatieve slagschaduwgevoelige objecten, weergegeven in lambertcoördinaten, die binnen de contour van vier uur verwachte slagschaduw per jaar van de windturbine liggen;<br />e) een weergave van de isocontouren voor verwachte slagschaduw van respectievelijk 4, 8, 16 en 32 uren per jaar op een topografische kaart en op een luchtfoto, conform de hieronder vermelde aannames;<br />f) een slagschaduwkalender per windturbine op grafiek, waarin de astronomisch maximaal mogelijke slagschaduwduur voor de representatieve slagschaduwgevoelige objecten binnen de contour van vier uur verwachte slagschaduw per jaar wordt weergegeven;<br />g) een slagschaduwkalender voor de representatieve slagschaduwgevoelige objecten binnen de contour van vier uur verwachte slagschaduw per jaar op grafiek, waarin de astronomisch maximaal mogelijke slagschaduwduur veroorzaakt door elke windturbine wordt weergegeven.<br /><br />De verwachte slagschaduw wordt berekend met de volgende aannames :<br />a) slagschaduw wordt berekend vanaf het moment dat de zon hoger staat dan een hoek van 3° ten opzichte van de horizon (het maaiveld);<br />b) er bevinden zich geen obstakels tussen de turbine en slagschaduwgevoelige objecten;<br />c) als slagschaduwreceptor wordt een standaardraam op 1 m boven het maaiveld met een breedte van 5 m en een hoogte van 2 m genomen of de reële situatie ter plaatse;<br />d) een woning wordt beschouwd als een object dat licht ontvangt uit alle richtingen;<br />e) er wordt gerekend met de klimatologische maandnormalen van het gemiddeld aantal uren zonneschijn, de gemiddelde windsnelheid en de overheersende windrichting.<br /><br />2. een veiligheidsstudie, waarin de veiligheidsaspecten worden verduidelijkt, conform het door de Vlaamse overheid aanvaard beoordelingskader. Ook wordt een aanvullende veiligheidsstudie, uitgevoerd door een erkende VR-deskundige, vermeld in artikel 6, 1°, e), van het VLAREL, indien één van de volgende situaties zich voordoet :<br />a) één of meerdere criteria uit bovenvermeld beoordelingskader worden niet gerespecteerd;<br />b) er bevinden zich Seveso-plichtige inrichtingen of andere inrichtingen met installaties met Seveso-stoffen, die het externe risico significant kunnen verhogen binnen de effectafstand voor bladbreuk bij overtoeren. In dit geval wordt een gemotiveerde beoordeling opgesteld waarin de impact van de windturbine(s) op het externe risico van deze inrichtingen geëvalueerd wordt;<br />c) er kan een gemiddelde aanwezigheid zijn van meer dan tien personen op 24-uursbasis binnen de effectafstand voor mastbreuk;<br />d) er vindt wiekoverslag plaats boven een verharde, openbare weg, een spoorweg of een bevaarbare waterloop.<br /><br />3. een geluidsstudie. Deze bevat een immissieberekening volgens ISO 9613-2 (1996), uitgevoerd door een erkende milieudeskundige in de discipline geluid en trillingen, deeldomein geluid, vermeld in artikel 6, 1°, c), van het VLAREL.<br /><br />Het gebruik van internationaal gangbare softwarepakketten is toegestaan, voor zover ze een berekening uitvoeren conform de uitgebreide methode van ISO 9613-2 :1996.<br /><br />Voor de immissieberekening gelden de volgende randvoorwaarden :<br />a) windturbines worden gemodelleerd als puntbronnen op masthoogte;<br />b) het geluid wordt berekend in tertsbanden (of octaafbanden als die gegevens niet beschikbaar zijn) vanaf 50 Hz (of 63 Hz bij octaafbanden);<br />c) de immissiehoogte van de ontvanger is 4 m, tenzij de specifieke situatie een andere hoogte vereist. In het laatste geval wordt een motivering toegevoegd;<br />d) gevelreflectie wordt niet berekend, tenzij dat aangewezen is vanwege de lokale situatie;<br />e) standaardaannames voor atmosferische omstandigheden zijn temperatuur 10° C, luchtvochtigheid 70 %. Voor elk immissiepunt wordt gerekend met de in de ISO ingebouwde lichte meewindvoorwaarden. Het gebruik van windrichtingsafhankelijke correctiefactoren is niet toegestaan;<br />f) binnen de ISO-9613-2 :1996-norm wordt gekozen voor de frequentieafhankelijke formule voor de bodemterm;<br />g) het gebruik vaneen meteocorrectieterm (Cmeteo) is niet toegestaan (Cmeteo = 0 volgens de formules);<br />h) de gehanteerde waarden voor parameters van het ISO 9613-2 (1996)-model worden in het geluidsrapport vermeld;<br />i) de bodemabsorptiefactor G = 1 geldt bij absolute absorptie, en de bodemabsorptiefactor G = 0 geldt bij absolute reflectie (omvangrijke wateroppervlakken in de buurt van het immissiepunt). In een agrarische omgeving wordt standaard gerekend met een bodemabsorptiefactor G = 0,8. In omgevingen waarin nabij het immissiepunt veel verharde oppervlakken zijn, wordt G = 0,2. De vegetatie (bomen, struiken, gewassen) wordt niet meegenomen in de bepaling van de absorptie omdat ze geen gegarandeerd blijvende en onveranderlijke elementen bevat. Andere waarden voor de grondabsorptie mogen worden aangewend als ze verantwoord worden;<br />j) indien bij de berekening ter hoogte van een woning een immissieniveau bereikt wordt dat minder dan 3 dB(A) verschilt van de geluidsnorm, worden de detailgegevens expliciet vermeld. De waarden voor de bodemabsorptiefactoren worden expliciet berekend;<br />k) de invloed van individuele woningen en andere gebouwen wordt niet meegerekend, tenzij er vermoed wordt dat ze een belangrijke invloed hebben. In dat geval wordt gerekend met reflecties van de eerste orde;<br />l) de invloed van de aanwezigheid van bomen, struiken en andere gewassen wordt niet meegenomen;<br />m) alleen als de hoogteverschillen relevant zijn ten opzichte van de bronhoogte, wordt dat aspect mee in rekening gebracht. Anders wordt er gerekend zonder diffractie op de hoogtelijnen;<br />n) de eventuele tonaliteit wordt beschouwd conform dit besluit;<br />o) In geval meerdere types windturbines worden aangevraagd, gebeurt de berekening minstens voor de worst-case situatie.<br /><br />Voor de bepaling van het brongeluid van windturbines, gemeten volgens de IEC-61400-11 norm, wordt een verslag van een geaccrediteerd bureau aanvaard. Dat verslag moet voorgelegd worden ten laatste op het moment dat de bouw van de windturbine start.<br /><br />Het brongeluid wordt bepaald bij 95% van het nominale vermogen van de windturbine. De technische fiche bevat ook de geluidsvermogens bij een lager productievermogen, alsook de gegevens in terts- en octaafbanden.<br /><br />Bij de opgave van het geluidsvermogen wordt een tolerantieband vermeld. Standaard is de tolerantieband +1 dB(A). Als de constructeur zelf een grotere tolerantieband of onzekerheidsfactor aangeeft, zal die bij het vermelde brongeluid (95% nominaal vermogen) worden bijgeteld, verminderd met de tolerantieband van 1 dB(A).<br /><br />Indien het specifiek geluid van de windturbine hoger ligt dan de richtwaarde vermeld in bijlage 5.20.6.1, bevat de geluidsstudie tevens een uitgebreide toelichting met betrekking tot de meetcampagne voor de bepaling van het LA95 van het oorspronkelijke omgevingsgeluid. De duurtijd van de meetcampagne kan bepaald worden in overleg met de vergunningverlenende overheid. ».
+
 ### ART. 26.
 
 In bijlage 8, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 3 juni 2005 en gewijzigd bij het besluit van de Vlaamse Regering van 5 maart 2010, in bijlage 8bis, ingevoegd bij het besluit van de Vlaamse Regering van 3 juni 2005 en gewijzigd bij het besluit van de Vlaamse Regering van 5 maart 2010, in bijlage 10, vervangen bij het besluit van de Vlaamse Regering van 3 juni 2005 en gewijzigd bij het besluit van de Vlaamse Regering van 5 maart 2010, en in bijlage 10bis, ingevoegd bij het besluit van de Vlaamse Regering van 3 juni 2005 en gewijzigd bij de besluiten van de Vlaamse Regering van 24 april 2009 en 5 maart 2010, van hetzelfde besluit worden de woorden « bestendige deputatie van de provincieraad » telkens vervangen door het woord « deputatie ».
