@@ -16,7 +16,7 @@ Binnen de perken van de daartoe voorziene kredieten op begroting van het Vlaamse
 
 ### ART. 3.
 
-De subsidieerbare materies ter uitvoering van de algemene bepalingen van de plannen en uitvoerings-plannen die van toepassing zijn, overeenkomstig artikelen 35 en 36 van het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen, zijn de volgende:<br /><br />1° voorzieningen voor de preventie van afvalstoffen;<br /><br />2° bouwen, uitbreiden, aanpassen en vernieuwen van installaties voor afvalstoffenbeheer die ondermeer tot doel hebben: selectie en tijdelijke opslag, overslag, volumereductie, recyclage en hergebruik van afvalstoffen.
+De subsidieerbare materies ter uitvoering van de algemene bepalingen van de plannen en uitvoerings-plannen die van toepassing zijn, oovereenkomstig artikel 18 van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, zijn de volgende:<br />1° voorzieningen voor de preventie van afvalstoffen;<br />2° bouwen, uitbreiden, aanpassen en vernieuwen van installaties voor afvalstoffenbeheer die ondermeer tot doel hebben: selectie en tijdelijke opslag, overslag, volumereductie, recyclage en hergebruik van afvalstoffen.
 
 ## HOOFDSTUK IV BEDRAG VAN DE SUBSIDIES
 
