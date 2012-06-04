@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021773,
+  "title": "Besluit van de Vlaamse Regering van 2012-05-04 tot goedkeuring van de wijziging van de statuten van het agentschap Waterwegen en Zeekanaal",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021773/VolledigDocument?datum=2012-06-04",
+  "source_sha256": "7b6fa75a31226454a08f7b4f9f9fd1d9420d7e10aa3538682678f4afb4640341",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021773&param=informatie",
+  "as_of": "2012-06-04",
+  "made": "2012-05-04",
+  "gazette": "2012-05-25",
+  "numac": 2012202795,
+  "document_start": "2012-06-04",
+  "document_end": null,
+  "in_force": "2012-06-04",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-06-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
