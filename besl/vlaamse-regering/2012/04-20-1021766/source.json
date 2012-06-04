@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021766,
+  "title": "Besluit van de Vlaamse Regering van 2012-04-20 tot erkenning van de beroepskwalificatie winkelmanager klein en middelgroot verkooppunt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021766/VolledigDocument?datum=2012-06-04",
+  "source_sha256": "89eaaa478f9306d37ad0785fd46be1d6d3e7b206fe6d28fff6d4ac10153737bd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021766&param=informatie",
+  "as_of": "2012-06-04",
+  "made": "2012-04-20",
+  "gazette": "2012-05-25",
+  "numac": 2012035534,
+  "document_start": "2012-06-04",
+  "document_end": null,
+  "in_force": "2012-06-04",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-06-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
