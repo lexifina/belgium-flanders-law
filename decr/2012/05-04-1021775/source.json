@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021775,
+  "title": "Decreet van 2012-05-04 houdende instemming met het derde protocol bij de Europese kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten betreffende Euregionale samenwerkingsverbanden (ESV's), opgemaakt in Utrecht op 16 november 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021775/VolledigDocument?datum=2012-06-08",
+  "source_sha256": "9f029ffb294caaa0c7c6d765fff851c86e02c60e0c2cb19bade1e9edd42a7674",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021775&param=informatie",
+  "as_of": "2012-06-08",
+  "made": "2012-05-04",
+  "gazette": "2012-05-29",
+  "numac": 2012035548,
+  "document_start": "2012-06-08",
+  "document_end": null,
+  "in_force": "2012-06-08",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-06-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
