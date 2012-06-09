@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021782,
+  "title": "Besluit van de Vlaamse Regering van 2012-05-04 tot goedkeuring van de wijziging van de statuten van het agentschap De Scheepvaart",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021782/VolledigDocument?datum=2012-06-09",
+  "source_sha256": "21ba980038aefc528b6e6a871202ad65dd0ec695515e4faa4c81cbb6a13a53a1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021782&param=informatie",
+  "as_of": "2012-06-09",
+  "made": "2012-05-04",
+  "gazette": "2012-05-30",
+  "numac": 2012202796,
+  "document_start": "2012-06-09",
+  "document_end": null,
+  "in_force": "2012-06-09",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-06-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
