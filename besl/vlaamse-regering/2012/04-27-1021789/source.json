@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021789,
+  "title": "Besluit van de Vlaamse Regering van 2012-04-27 tot klassering van de niet-geklasseerde bovenloop van de Boesdaalheidebeek tot onbevaarbare waterloop van derde categorie in Roosdaal",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021789/VolledigDocument?datum=2012-06-11",
+  "source_sha256": "8eb47a9e4c0219b897e47a86ac34977451c6790520008c6fd07609e2bf212495",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021789&param=informatie",
+  "as_of": "2012-06-11",
+  "made": "2012-04-27",
+  "gazette": "2012-06-01",
+  "numac": 2012035558,
+  "document_start": "2012-06-11",
+  "document_end": null,
+  "in_force": "2012-06-11",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2012-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
