@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021787,
+  "title": "Besluit van de Vlaamse Regering van 2012-04-27 houdende afschaffing van een deel van de Grote Leibeek, onbevaarbare waterloop van tweede categorie, en klassering van een niet-geklasseerde zijloop van de Grote Leibeek tot onbevaarbare waterloop van derde categorie in Holsbeek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021787/VolledigDocument?datum=2012-06-11",
+  "source_sha256": "a0dcbc964663d53452b46aa852bbff4b86d4541e1a1cce0ae57d00fd643f76ef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021787&param=informatie",
+  "as_of": "2012-06-11",
+  "made": "2012-04-27",
+  "gazette": "2012-06-01",
+  "numac": 2012035553,
+  "document_start": "2012-06-11",
+  "document_end": null,
+  "in_force": "2012-06-11",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2012-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
