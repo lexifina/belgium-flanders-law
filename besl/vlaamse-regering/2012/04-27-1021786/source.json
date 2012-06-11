@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021786,
+  "title": "Besluit van de Vlaamse Regering van 2012-04-27 tot klassering van een deel van de Horstloop, onbevaarbare waterloop van derde categorie, en een niet-geklasseerde waterloop tot onbevaarbare waterloop van tweede categorie in Holsbeek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021786/VolledigDocument?datum=2012-06-11",
+  "source_sha256": "e5b205a6d3702448bb4c342d4e92760f9ae7c99ca569826a8a22b7bebf675130",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021786&param=informatie",
+  "as_of": "2012-06-11",
+  "made": "2012-04-27",
+  "gazette": "2012-06-01",
+  "numac": 2012035554,
+  "document_start": "2012-06-11",
+  "document_end": null,
+  "in_force": "2012-06-11",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2012-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
