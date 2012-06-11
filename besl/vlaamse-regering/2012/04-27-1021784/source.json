@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021784,
+  "title": "Besluit van de Vlaamse Regering van 2012-04-27 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 6 juni 2008 betreffende het sluiten van beheersovereenkomsten en het toekennen van vergoedingen ter uitvoering van Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021784/VolledigDocument?datum=2012-06-11",
+  "source_sha256": "7a2cc61151a78f419a3a5a812869d9f11d133ddab54163ff5071dbeb2ca9ed52",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021784&param=informatie",
+  "as_of": "2012-06-11",
+  "made": "2012-04-27",
+  "gazette": "2012-06-01",
+  "numac": 2012202976,
+  "document_start": "2012-06-11",
+  "document_end": null,
+  "in_force": "2012-06-11",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2012-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
