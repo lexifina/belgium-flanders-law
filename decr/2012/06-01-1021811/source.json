@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021811,
+  "title": "Decreet van 2012-06-01 houdende wijziging van het CRAB-decreet van 8 mei 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021811/VolledigDocument?datum=2012-06-12",
+  "source_sha256": "bdbc22b47c8ae15b74f495c57b993205ef023b9178dfa744022c1b61a5b44974",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021811&param=informatie",
+  "as_of": "2012-06-12",
+  "made": "2012-06-01",
+  "gazette": "2012-06-12",
+  "numac": 2012035645,
+  "document_start": "2012-06-12",
+  "document_end": null,
+  "in_force": "2012-06-12",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2012-06-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
