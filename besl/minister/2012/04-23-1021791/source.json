@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021791,
+  "title": "Ministerieel besluit van 2012-04-23 tot herbevestiging van de Reductieprogramma gevaarlijke stoffen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021791/VolledigDocument?datum=2012-06-14",
+  "source_sha256": "6569591c7393e1235934d65fc4e2b8aa29139d1d66cc51724f457471178ce220",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021791&param=informatie",
+  "as_of": "2012-06-14",
+  "made": "2012-04-23",
+  "gazette": "2012-06-04",
+  "numac": 2012035557,
+  "document_start": "2012-06-14",
+  "document_end": null,
+  "in_force": "2012-06-14",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-06-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
