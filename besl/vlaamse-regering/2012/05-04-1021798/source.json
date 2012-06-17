@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021798,
+  "title": "Besluit van de Vlaamse Regering van 2012-05-04 tot vaststelling van de vergoedingen van de leden van de raden voor verkiezingsbetwistingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021798/VolledigDocument?datum=2012-06-17",
+  "source_sha256": "d94fa1c2ce98e2f541f3a4a3eb75d55537c6011c308b8b91eee880e912da50b4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021798&param=informatie",
+  "as_of": "2012-06-17",
+  "made": "2012-05-04",
+  "gazette": "2012-06-07",
+  "numac": 2012035576,
+  "document_start": "2012-06-17",
+  "document_end": null,
+  "in_force": "2012-06-17",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2012-06-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
