@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021802,
+  "title": "Decreet van 2012-05-25 houdende de organisatie van de digitale stemming bij de lokale en provinciale verkiezingen (citeeropschrift: \"het Digitaal Kiesdecreet van 25 mei 2012\")",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021802/VolledigDocument?datum=2012-06-18",
+  "source_sha256": "ccd35b8273bbc62ef8fefebcfd5268e082a9ea35e657a167daa4bdb2442f0a33",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021802&param=informatie",
+  "as_of": "2012-06-18",
+  "made": "2012-05-25",
+  "gazette": "2012-06-08",
+  "numac": 2012203157,
+  "document_start": "2012-06-18",
+  "document_end": null,
+  "in_force": "2012-06-18",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2012-06-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
