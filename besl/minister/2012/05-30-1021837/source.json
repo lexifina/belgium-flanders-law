@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021837,
+  "title": "Ministerieel besluit van 2012-05-30 tot vaststelling van het model en de afmetingen van de stembiljetten bij de lokale en provinciale verkiezingen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021837/VolledigDocument?datum=2012-06-19",
+  "source_sha256": "e32f8ea751a14f069da44b6599d86c1c5bdedcfca9558312e78af31790f063a4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021837&param=informatie",
+  "as_of": "2012-06-19",
+  "made": "2012-05-30",
+  "gazette": "2012-06-19",
+  "numac": 2012035659,
+  "document_start": "2012-06-19",
+  "document_end": "2018-05-13",
+  "in_force": "2012-06-19",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2012-06-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
