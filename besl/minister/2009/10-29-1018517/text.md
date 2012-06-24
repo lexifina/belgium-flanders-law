@@ -10,7 +10,7 @@ In dit besluit wordt onder het besluit van 15 mei 2009 verstaan : het besluit va
 
 ### ART. 2.
 
-Voor een vereniging die opgedeeld is in subsidiecategorie 1 als vermeld in artikel 31, eerste lid, 1°, van het besluit van 15 mei 2009, bedraagt de jaarlijkse subsidie 24.500 euro.<br /><br />
+Voor een vereniging die opgedeeld is in subsidiecategorie 1 als vermeld in artikel 31, eerste lid, 1°, van het besluit van 15 mei 2009, bedraagt de subsidie voor het werkingsjaar 2012 36.639,82.<br /><br />
 
 ### ART. 3.
 
