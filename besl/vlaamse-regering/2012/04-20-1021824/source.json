@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021824,
+  "title": "Besluit van de Vlaamse Regering van 2012-04-20 houdende de algemene regels voor het aanbrengen van verkiezingsaffiches en het organiseren van gemotoriseerde optochten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021824/VolledigDocument?datum=2012-06-24",
+  "source_sha256": "72e3b2b58a099600507bd84622c4498bd38bdd980444a8a1a50f79fb46be1cc2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021824&param=informatie",
+  "as_of": "2012-06-24",
+  "made": "2012-04-20",
+  "gazette": "2012-06-14",
+  "numac": 2012035652,
+  "document_start": "2012-06-24",
+  "document_end": null,
+  "in_force": "2012-06-24",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2012-06-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
