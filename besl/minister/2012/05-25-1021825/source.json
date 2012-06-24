@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021825,
+  "title": "Ministerieel besluit van 2012-05-25 betreffende de wijziging en opheffing van het ministerieel besluit van 29 oktober 2009 houdende nadere regels betreffende de subsidiëring van verenigingen waar armen het woord nemen en tot opheffing van het ministerieel besluit van 25 mei 2009 houdende nadere regels betreffende de werking van verenigingen waar armen het woord nemen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021825/VolledigDocument?datum=2012-06-24",
+  "source_sha256": "39a53cbca4bf5a829e2d62586ca3a36d427f627cb29fe2207d74a4b39f016620",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021825&param=informatie",
+  "as_of": "2012-06-24",
+  "made": "2012-05-25",
+  "gazette": "2012-06-14",
+  "numac": 2012203172,
+  "document_start": "2012-06-24",
+  "document_end": null,
+  "in_force": "2012-06-24",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-06-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
