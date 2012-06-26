@@ -29,7 +29,7 @@ Gelet op hun rol als academicus en voorzitter van een van de voorbereidende werk
 
 ### ART. 3.
 
-Op voordracht van het Vlaams Patiëntenplatform, Groenveldstraat 15, 3001 Heverlee worden de volgende personen benoemd tot respectievelijk effectief en plaatsvervangend lid : mevrouw Ilse Weeghmans en mevrouw Anita Duprez. <br /><br />
+Op voordracht van het Vlaams Patiëntenplatform, Groenveldstraat 15, 3001   Heverlee worden de volgende personen benoemd tot respectievelijk effectief en   plaatsvervangend lid : mevrouw Ilse Weeghmans en mevrouw Else Tambuyzer.   <BR><BR>
 
 ### ART. 3/1.
 
