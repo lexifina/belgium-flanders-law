@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021877,
+  "title": "Ministerieel besluit van 2012-05-21 tot wijziging van het ministerieel besluit van 21 juni 2010 tot vaststelling van een keurings- en certificeringsreglement van zaaizaden van landbouw- en groentegewassen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021877/VolledigDocument?datum=2012-06-30",
+  "source_sha256": "8751e0e7aa805c90e8101745257a3dc772a3f19e9a8ed27a3b48da48a5201e9c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021877&param=informatie",
+  "as_of": "2012-06-30",
+  "made": "2012-05-21",
+  "gazette": "2012-06-27",
+  "numac": 2012035667,
+  "document_start": "2012-06-30",
+  "document_end": null,
+  "in_force": "2012-06-30",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2012-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
