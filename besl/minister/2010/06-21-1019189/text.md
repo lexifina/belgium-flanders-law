@@ -60,6 +60,14 @@ De specifieke voorwaarden en normen waaraan het bietenzaad van landbouwrassen mo
 
 De specifieke voorwaarden en normen waaraan het zaaizaad van oliehoudende planten en vezelgewassen, met uitzondering van vezelvlas, moet voldoen bij keuring en certificering, worden vastgesteld in bijlage 5, die bij dit besluit is gevoegd.
 
+### ART. 5/1.
+
+De specifieke voorwaarden en normen waaraan het zaaizaad van vezelvlas, moet voldoen bij keuring en certificering, worden vastgesteld in bijlage 6, die bij dit besluit is gevoegd.
+
+### ART. 5/2.
+
+De specifieke voorwaarden en normen waaraan het zaaizaad van groenten en van cichorei voor de industrie, moet voldoen bij keuring en certificering, worden vastgesteld in bijlage 7, die bij dit besluit is gevoegd.
+
 ### ART. 6.
 
 Worden opgeheven :<br />1° bijlage I en II bij het ministerieel besluit van 21 december 2001 tot vaststelling van een keurings- en certificeringsreglement van zaaizaden van oliehoudende planten en vezelgewassen, gewijzigd bij de ministeriële besluiten van 19 mei 2006 en 25 oktober 2006;<br />2° bijlage I bij het ministerieel besluit van 21 december 2001 tot vaststelling van een keurings- en certificeringsreglement van zaaizaden van groenten en van cichorei voor de industrie, gewijzigd bij de ministeriële besluiten van 19 mei 2006 en 25 oktober 2006.
@@ -239,6 +247,8 @@ Als er verschillende vermeerderingscycli zijn, wordt de categorie gecertificeerd
 1.4.1.6. Zaaizaad van instandhoudingsrassen : zaad van landrassen en rassen in de landbouw dat zich op een natuurlijke wijze heeft aangepast aan de lokale en regionale omstandigheden en dat door genetische erosie wordt bedreigd. Dat zaaizaad wordt niet onderverdeeld in categorieën.<br>
 <br>
 1.4.1.7. Zaaizaad van mengrassen : zaden van een aan een certificeringsautoriteit gemeld mengsel van gecertificeerd zaad van een bepaalde bestuiverafhankelijke hybride die officieel is toegelaten overeenkomstig het besluit van de Vlaamse Regering van 16 december 2008 betreffende de toelating van de rassen van landbouwgewassen en groentegewassen tot en het behoud ervan op de rassenlijsten van landbouwgewassen en groentegewassen, met gecertificeerd zaad van een of meer bepaalde, eveneens toegelaten bestuivers, dat mechanisch is samengesteld in een door de personen die voor de instandhouding van de componenten verantwoordelijk zijn, gezamenlijk bepaalde verhouding.<br>
+<br>
+1.4.1.8. Zaaizaad van voor teelt onder bijzondere omstandigheden ontwikkelde rassen (= zaaizaad van amateurrassen) : rassen die geen intrinsieke waarde hebben voor de commerciële productie van gewassen, maar die ontwikkeld zijn voor teelt onder bijzondere omstandigheden. Dat zaaizaad wordt niet onderverdeeld in categorieën.<br>
 <br>
 1.4.2. Zaaizaden van buiten de EU<br>
 <br>
@@ -738,9 +748,11 @@ De vraag tot opwaardering kan alleen aanvaard worden als de veldkeuringen in nor
 <br>
 Ingeschreven percelen die niet meer voor veldkeuring in aanmerking kunnen komen of waarvoor de veldkeuring niet meer wordt gewenst, moeten door de inschrijvingsnemer bij de bevoegde entiteit schriftelijk worden gemeld, met opgave van de bestemming van het zaad dat er mogelijk van kan voortkomen.<br>
 <br>
-5.5. Bijzonderheden voor de inschrijving van de instandhoudingsrassen, vermeld in de rassenlijst voor landbouwgewassen<br>
+5.5. Bijzonderheden voor de inschrijving van de instandhoudingsrassen<br>
 <br>
-Bij de aanvaarding van de teeltinschrijving wordt rekening gehouden met de kwantitatieve beperkingen die vastgelegd zijn in artikel 15 van het ministerieel besluit van 2 juni 2009 tot vaststelling van bepaalde afwijkingen voor de toelating van landrassen en rassen in de landbouw die zich op natuurlijke wijze hebben aangepast aan de lokale en regionale omstandigheden en die door genetische erosie worden bedreigd, en voor het in de handel brengen van zaaizaad en pootaardappelen van die landrassen en rassen.<br>
+Bij de aanvaarding van de teeltinschrijving wordt rekening gehouden met de kwantitatieve beperkingen die<br>
+- voor de rassen, vermeld in de rassenlijst voor landbouwgewassen, vastgelegd zijn in artikel 15 van het ministerieel besluit van 2 juni 2009 tot vaststelling van bepaalde afwijkingen voor de toelating van landrassen en rassen in de landbouw die zich op natuurlijke wijze hebben aangepast aan de lokale en regionale omstandigheden en die door genetische erosie worden bedreigd, en voor het in de handel brengen van zaaizaad en pootaardappelen van die landrassen en rassen, en<br>
+- voor de rassen, vermeld in de rassenlijst voor groentegewassen, vastgelegd zijn in artikel 16 van het ministerieel besluit van 2 december 2010 tot vaststelling van bepaalde afwijkingen voor de toelating van landrassen en rassen van groenten die van oudsher op bepaalde plaatsen en in bepaalde gebieden worden gekweekt en die door genetische erosie worden bedreigd, en van groenterassen die geen intrinsieke waarde hebben voor de commerciële productie van gewassen, maar die ontwikkeld zijn voor teelt onder bijzondere omstandigheden, en voor het in de handel brengen van zaaizaad van die landrassen en rassen.<br>
 <br>
 HOOFDSTUK 6. - Veldkeuring<br>
 <br>
@@ -820,7 +832,7 @@ De bevoegde entiteit moet de veldkeuringsverslagen uiterlijk op de hiernavolgend
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:170.85pt">
-			<p>Soort<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			<p>Soort</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
 			<p>Uiterste ontvangstdatum</p>
@@ -1062,7 +1074,14 @@ Het officiële certificaat moet voorzien zijn van een uniek nummer, en van het l
 - al dan niet ontsmet; het chemische product mag vermeld worden als het voorafgegaan wordt door de formule 'volgens verklaring';<br>
 - identificatie van de partij;<br>
 - erkenningsnummer van de leverancier;<br>
-- datum van de officiële bemonstering of officiële sluiting (maand - jaar).<br>
+- datum van de officiële bemonstering of officiële sluiting (maand - jaar);<br>
+- bij rassen die hybriden of ingeteelde stammen zijn :<br>
+- voor basiszaad waarvan de hybride of de ingeteelde stam waartoe het zaad behoort, officieel aanvaard is in de nationale rassencatalogi : de naam van de kruisingspartner, waaronder het officieel is aanvaard, met of zonder verwijzing naar het uiteindelijke ras, waaraan, in geval van hybriden of ingeteelde stammen die uitsluitend bestemd zijn voor gebruik als kruisingspartner voor de uiteindelijke rassen. Het woord « kruisingspartner » wordt toegevoegd;<br>
+- voor basiszaad in andere gevallen :<br>
+de naam van de kruisingspartner waartoe het basiszaad behoort, die in code mag worden gegeven, met daarbij een verwijzing naar het uiteindelijke ras, met of zonder vermelding van de functie (mannelijk of vrouwelijk), waaraan het woord « kruisingspartner » wordt toegevoegd;<br>
+- voor gecertificeerd zaad :<br>
+de naam van het ras waartoe het zaad behoort, met daarbij het woord « hybride ».<br>
+<br>
 <br>
 Bij rassen die in procedure van inschrijving zijn op de nationale rassenlijst en waarvoor toestemming werd gegeven om partijen ervan in de handel te brengen (zie punt 1.3.2), moeten de volgende gegevens ook op het etiket vermeld worden :<br>
 - bij de rasbenaming : de referentie van de kweker, de voorgestelde benaming of de goedgekeurde benaming, en, in voorkomend geval, het officiële nummer van de aanvraag tot opname van het ras in de nationale rassenlijst;<br>
@@ -1131,15 +1150,15 @@ Dat etiket is niet nodig als de gegevens onuitwisbaar op de verpakking zijn aang
 Bij zaaizaad van instandhoudingsrassen moet de verantwoordelijke de verpakkingen voorzien van een eigen etiket of van een gedrukte of gestempelde tekst met de volgende gegevens :<br>
 - 'EG-voorschriften en -normen';<br>
 - de naam en het adres of het identificatiemerk van de persoon die verantwoordelijk is voor het aanbrengen van de etiketten;<br>
-- het jaar van sluiting, aangegeven als volgt : gesloten in ...' (jaar) of, het jaar van de laatste monstername voor het testen van de kiemkracht, aangegeven als volgt : monster, genomen in ...' (jaar);<br>
+- het jaar van sluiting, aangegeven als volgt : 'gesloten in ...' (jaar) of, het jaar van de laatste monstername voor het testen van de kiemkracht, aangegeven als volgt : 'monster, genomen in ...' (jaar);<br>
 - de soort;<br>
 - de benaming van het instandhoudingsras;<br>
-- 'Instandhoudingsras';<br>
+- hetzij 'instandhoudingsras' bij de rassen, vermeld in de rassenlijst voor landbouwgewassen hetzij « gecertificeerd zaad van een instandhoudingsras » of « standaardzaad van een instandhoudingsras bij de rassen », vermeld in de rassenlijst voor groentegewassen;<br>
 - het gebied van oorsprong;<br>
 - als het zaadteeltgebied niet het gebied van oorsprong is, de aanduiding van het zaadteeltgebied;<br>
 - het referentienummer van de partij, toegekend door de persoon die verantwoordelijk is voor het aanbrengen van de etiketten;<br>
 - het opgegeven netto- of brutogewicht of het opgegeven aantal zaden;<br>
-- als het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de aard van de chemische behandeling of het toevoegingsmiddel, alsook de verhouding, bij benadering, tussen het gewicht van de kluwens zuivere zaden en het totale gewicht.<br>
+als het gewicht wordt vermeld en er korrelvormige bestrijdingsmiddelen, omhullingen of andere toevoegingsmiddelen in vaste staat worden gebruikt, de aard van de chemische behandeling of het toevoegingsmiddel, alsook de verhouding, bij benadering, tussen het gewicht van de kluwens zuivere zaden en het totale gewicht.<br>
 <br>
 8.2.4. Kleur van de certificaten<br>
 <br>
