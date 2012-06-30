@@ -2,16 +2,16 @@
   "codex_id": 1014814,
   "title": "Ministerieel besluit van 2001-12-21 tot vaststelling van een keurings- en certificeringsreglement van zaaizaden van oliehoudende planten en vezelgewassen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014814/VolledigDocument?datum=2010-06-30",
-  "source_sha256": "06058c7901d438da8aa2ce91ea6063dcc7c41ced43ff80ffc56e3eafd033fefa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014814/VolledigDocument?datum=2012-06-30",
+  "source_sha256": "9e645d02b6db53693e2ac2c59b893cf77682fde8b15b73b0c14cd2d9bd8fe600",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014814&param=informatie",
-  "as_of": "2010-06-30",
+  "as_of": "2012-06-30",
   "made": "2001-12-21",
   "gazette": "2002-03-06",
   "numac": 0,
   "document_start": "2002-03-06",
   "document_end": "2012-06-29",
-  "in_force": "2010-06-30",
+  "in_force": "2012-06-30",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2010-06-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-06-30; future article versions excluded; article text as the API gives it"
 }
