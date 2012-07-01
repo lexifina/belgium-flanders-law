@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021907,
+  "title": "Besluit van de Vlaamse Regering van 2012-06-15 tot wijziging van het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een Handicap, wat betreft de duur van vergunning en erkenning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021907/VolledigDocument?datum=2012-07-01",
+  "source_sha256": "3bf6f4ec2290be10cd42b6fb5e57b57d65b8949863e12d6ef7c45ad1c8794e2a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021907&param=informatie",
+  "as_of": "2012-07-01",
+  "made": "2012-06-15",
+  "gazette": "2012-07-09",
+  "numac": 2012035727,
+  "document_start": "2012-07-01",
+  "document_end": null,
+  "in_force": "2012-07-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2012-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
