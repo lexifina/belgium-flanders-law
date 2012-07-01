@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021434,
+  "title": "Besluit van de Vlaamse Regering van 2012-03-09 betreffende de niet-geregulariseerde DAC-projecten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021434/VolledigDocument?datum=2012-07-01",
+  "source_sha256": "8c774bc472d02b28f7e0d6316267731d91254ff88558ccc578d5da8521d45983",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021434&param=informatie",
+  "as_of": "2012-07-01",
+  "made": "2012-03-09",
+  "gazette": "2012-04-05",
+  "numac": 2012035371,
+  "document_start": "2012-07-01",
+  "document_end": null,
+  "in_force": "2012-07-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
