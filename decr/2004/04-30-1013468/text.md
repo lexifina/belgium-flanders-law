@@ -28,7 +28,17 @@ Een opleiding heeft een studieomvang van 60 studiepunten of een veelvoud daarvan
 
 ### ART. 5.
 
-Het instellingsbestuur bepaalt voor elke opleiding een opleidingsprogramma dat bestaat uit een samenhangend geheel van opleidingsonderdelen.<br /><br />Bij de vaststelling van het opleidingsprogramma leeft het instellingsbestuur de bij of krachtens de wet, het decreet of de Europese richtlijnen vastgelegde voorwaarden na die de toegang tot bepaalde ambten of beroepen reguleren.<br /><br />De Vlaamse Regering kan bij besluit nadere regels vastleggen voor de toepassing van deze bepalingen.<br /><br />Wat betreft de opleidingen die leiden tot de beroepen van arts, huisarts, verantwoordelijk algemeen ziekenverple(e)g(st)er, tandarts, dierenarts, vroedvrouw, apotheker en architect leeft het instellingsbestuur bij de vaststelling van het opleidingsprogramma de vereisten na bepaald in de Europese Richtlijn 2005/36/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties. De instellingsbesturen geven in hun onderwijsregeling duidelijk aan hoe zij in hun opleidingsprogramma's beantwoorden aan de voorwaarden uiteengezet in de richtlijn.<br /><br />Het accreditatieorgaan bevestigt in zijn accreditatierapport en in zijn accreditatiebesluit, bedoeld in artikel 60 van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen, of het instellingsbestuur bij het vaststellen van de opleidingsprogramma's de betreffende Europese Richtlijn al dan niet heeft nageleefd. Het accreditatieorgaan neemt dat besluit op grond van de gepubliceerde externe beoordeling van de opleiding.<br /><br />De Vlaamse Regering publiceert de Europese Richtlijn 2005/36/EG van 7 september 2005 betreffende de erkenning van beroepskwalificaties, inclusief de bijlagen in het Belgisch Staatsblad.
+Het instellingsbestuur bepaalt voor elke opleiding een opleidingsprogramma dat bestaat uit een samenhangend geheel van opleidingsonderdelen.<br>
+<br>
+Bij de vaststelling van het opleidingsprogramma leeft het instellingsbestuur de bij of krachtens de wet, het decreet of de Europese richtlijnen vastgelegde voorwaarden na die de toegang tot bepaalde ambten of beroepen reguleren.<br>
+<br>
+De Vlaamse Regering kan bij besluit nadere regels vastleggen voor de toepassing van deze bepalingen.<br>
+<br>
+Wat betreft de opleidingen die leiden tot de beroepen van arts, huisarts, verantwoordelijk algemeen ziekenverple(e)g(st)er, tandarts, dierenarts, vroedvrouw, apotheker en architect leeft het instellingsbestuur bij de vaststelling van het opleidingsprogramma de vereisten na bepaald in de Europese Richtlijn 2005/36/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties. De instellingsbesturen geven in hun onderwijsregeling duidelijk aan hoe zij in hun opleidingsprogramma's beantwoorden aan de voorwaarden uiteengezet in de richtlijn.<br>
+<br>
+De accreditatieorganisatie bevestigt in zijn accreditatierapport en in zijn accreditatiebesluit, bedoeld in artikel 60 van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen, of het instellingsbestuur bij het vaststellen van de opleidingsprogramma's de betreffende Europese Richtlijn al dan niet heeft nageleefd. De accreditatieorganisatie neemt dat besluit op grond van de gepubliceerde externe beoordeling van de opleiding.<br>
+<br>
+De Vlaamse Regering publiceert de Europese Richtlijn 2005/36/EG van 7 september 2005 betreffende de erkenning van beroepskwalificaties, inclusief de bijlagen in het Belgisch Staatsblad.
 
 ### ART. 5bis.
 
