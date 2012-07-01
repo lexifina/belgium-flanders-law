@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021872,
+  "title": "Ministerieel besluit van 2012-06-12 houdende wijziging van de samenstelling van de adviescommissie voor uitzendactiviteiten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021872/VolledigDocument?datum=2012-07-01",
+  "source_sha256": "0acb0ecda891c0118ccb9da79b9278cd2cda61b580d1d6ec073e76edb4e8628f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021872&param=informatie",
+  "as_of": "2012-07-01",
+  "made": "2012-06-12",
+  "gazette": "2012-06-25",
+  "numac": 2012203384,
+  "document_start": "2012-07-01",
+  "document_end": null,
+  "in_force": "2012-07-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
