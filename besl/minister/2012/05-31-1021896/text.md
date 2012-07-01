@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2012-05-31 houdende wijziging van de refertelijst inzake individuele materiële bijstand
+
+### Aanhef
+
+De Vlaamse Minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, artikel 8, 3° ;<br /><br />Gelet op het besluit van de Vlaamse Regering van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiële bijstand voor de sociale integratie van personen met een handicap, artikel 17 en de refertelijst;<br /><br />Gelet op het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de besluiten van de Vlaamse Regering van 24 juli 2009, 4 december 2009, 6 juli 2010, 7 juli 2010, 24 september 2010, 19 november 2010, 13 mei 2011, 10 juni 2011, 9 september 2011 en 14 oktober 2011;<br /><br />Gelet op het advies van de inspectie van financiën, gegeven op 15 mei 2012;<br /><br />Gelet op de wetten op de Raad van State, gecoördineerd op 12 januari 1973, artikel 3, § 1;<br /><br />Gelet op de dringende noodzakelijkheid;<br /><br />Overwegende dat het dringend noodzakelijk is om een aantal refertebedragen aan te passen aan de reële kosten teneinde een tegemoetkoming te kunnen verlenen die de daadwerkelijke meerkosten voor de persoon met een handicap dekt,<br /><br />Besluit :
+
+### ART. 1.
+
+In bijlage I bij het besluit van de Vlaamse Regering van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiële bijstand voor de sociale integratie van personen met een handicap, vervangen bij het ministerieel besluit van 22 december 2011, worden de volgende wijzigingen aangebracht :<br />1° in tabel 3 Aanvulling onderste ledematen, Domein 1-Ombouwen/aanbouwen van de woning en aanvullende uitrusting, Verbouwingen sanitair : bad, douche, wastafel..., wordt het refertebedrag « 1239,00 » vervangen door het refertebedrag « 2320,57 »;<br />2° in tabel 4 Vervanging onderste ledematen, Domein 1-Ombouwen/aanbouwen van de woning en aanvullende uitrusting, Badkamer wordt het refertebedrag « 2588,00 » vervangen door het refertebedrag « 3672,35 »;<br />3° in tabel 9 Vervanging zicht, Domein 4 - Hulpmiddelen dagelijks leven, wordt het hulpmiddel sprekende labelpen geschrapt.
+
+### ART. 2.
+
+Dit besluit treedt in werking op 1 juli 2012.<br /><br />Artikel 1, 3°, heeft uitwerking met ingang van 1 januari 2012.

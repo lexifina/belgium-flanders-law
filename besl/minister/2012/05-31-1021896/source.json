@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021896,
+  "title": "Ministerieel besluit van 2012-05-31 houdende wijziging van de refertelijst inzake individuele materiële bijstand",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021896/VolledigDocument?datum=2012-07-01",
+  "source_sha256": "75b0cb204c349f3947d2395e5bb75923c4c9d52447ee1b9ab5b6064a0a5129e2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021896&param=informatie",
+  "as_of": "2012-07-01",
+  "made": "2012-05-31",
+  "gazette": "2012-07-04",
+  "numac": 2012035705,
+  "document_start": "2012-07-01",
+  "document_end": null,
+  "in_force": "2012-07-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
