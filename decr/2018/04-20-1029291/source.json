@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029291,
+  "title": "Decreet van 2018-04-20 houdende instemming met de regeling tussen het Koninkrijk België en de Noord-Atlantische Verdragsorganisatie betreffende de rechtspositie van sommige personeelscategorieën van de agentschappen van de NAVO die op het grondgebied van het Koninkrijk België gevestigd zijn, ondertekend te Brussel op 20 mei 2016",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029291/VolledigDocument?datum=2012-07-01",
+  "source_sha256": "7432dc02e47dc4a644e8d927cc8fcf9ebf2258e796ec125b11c95dbccd30c217",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029291&param=informatie",
+  "as_of": "2012-07-01",
+  "made": "2018-04-20",
+  "gazette": "2018-05-16",
+  "numac": 2018012000,
+  "document_start": "2012-07-01",
+  "document_end": null,
+  "in_force": "2012-07-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
