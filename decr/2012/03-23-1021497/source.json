@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021497,
+  "title": "Decreet van 2012-03-23 tot overname van personeelsleden van de vzw Vlaams Overleg Bewonersbelangen door de VMSW en het Agentschap Wonen-Vlaanderen en houdende wijziging van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode wat de huurdiensten betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021497/VolledigDocument?datum=2012-07-01",
+  "source_sha256": "6c376bf5eb69e46c3e659770b6603a74f096f3a0307e1dc3bd2223db32c5f633",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021497&param=informatie",
+  "as_of": "2012-07-01",
+  "made": "2012-03-23",
+  "gazette": "2012-04-20",
+  "numac": 2012202120,
+  "document_start": "2012-07-01",
+  "document_end": null,
+  "in_force": "2012-07-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2012-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
