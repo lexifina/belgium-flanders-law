@@ -1102,823 +1102,823 @@ Refertelijst<br>
 
 ### BIJLAGE
 
-Refertelijst
+&nbsp;
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:373.95pt">
-			<p>INTERVENTIENIVEAU – FUNCTIEBEPERKINGEN<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:373.95pt">
+			<p>INTERVENTIENIVEAU – FUNCTIEBEPERKINGEN</p>
 
 			<p>3. AANVULLING – ONDERSTE LEDEMATEN</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:62.25pt">
 			<p>Refertetermijn</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:5cm">
 			<p>Referentiebedrag in EUR</p>
 
 			<p>BTW inbegrepen</p>
 
 			<p>01.01.2002</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:4cm">
 			<p>Basiskost</p>
 
 			<p>01.01.2002</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 1 – Ombouwen / aanbouwen van de woning en aanvullende uitrusting</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Ombouwen / aanbouwen van de woning:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="5" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td rowspan="5" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Drempelbruggen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>868,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Hellingbanen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>992,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Verbouwingen sanitair: bad, douche, wastafel, …</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
-			<p>1.239,00</p>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
+			<p>2320,57</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Andere</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.200,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Traplift</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>12</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>7.387,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
+			<td colspan="2" rowspan="2" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:11cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:11cm">
 			<p>Onderhoudskosten voor traplift</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>165,67 per onderhoudsbeurt (max. 1 onderhoudsbeurt per jaar)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:11cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:11cm">
 			<p>Herstellingskosten traplift</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>20 % van het refertebedrag</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Aanvullende uitrusting van de woning:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="5" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td rowspan="5" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Automatische garagepoortopener (uitgezonderd bij nieuwbouw)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>461,78</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Handgrepen – beugels*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>175,00/stuk (max. 4 stuks)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Aanvullende trapleuning</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>672,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Elektrificatie rolluiken (uitgezonderd bij nieuwbouw)*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>195,84/stuk (max. 2 stuks)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Aanpassing keuken:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" rowspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.1pt">
+			<td colspan="2" rowspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:11cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:11cm">
 			<p>Onderrijdbaar werkvlak</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>839,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:11cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:11cm">
 			<p>In hoogte verstelbaar werkvlak</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>839,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:11cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:11cm">
 			<p>Aanpassing keukenkasten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.343,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:11cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:11cm">
 			<p>Onderrijdbare gootsteen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>839,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:11cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:11cm">
 			<p>In hoogte verstelbare gootsteen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>839,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:11cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:11cm">
 			<p>Uitschuifbaar werkvlak</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>504,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Andere (uitgezonderd losse elementen en gadgets)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>2.000,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 2 – Mobiliteit</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Zie bijlage II. Rolstoelen</p>
 
 			<p>Aanpassing auto:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="8" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td rowspan="8" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Gas en remmen aan of op het stuur</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.471,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Verplaatsing gaspedaal*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>299,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Draaizetel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.011,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Automatische en semi-automatische transmissie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>685,46</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Rolstoelopbergsysteem voor manuele rolstoel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.239,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Oprijgoten (1 paar) of oprijplaat</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>496,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Andere noodzakelijke aanpassingen auto</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.239,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Herstellingskosten aanpassing auto</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>20 % van de refertebedragen voor aanpassingen aan de auto met een totaal maximum bedrag van 1.152,21 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Aanvullende rijlessen om een rijbewijs te behalen of te behouden</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>-</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>489,61</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Standaard tweewieltandem bestuurder vooraan of duofiets</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.136,03</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>Tot 12 jr: 185,00; ouder dan 12 jaar 369,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Tweewieltandem bestuurder achteraan</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.893,38</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>Tot 12jr: 185,00; ouder dan 12 jaar 369,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Driewieltandem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>2.366,73</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>Tot 12 jr: 185,00; ouder dan 12 jaar 369,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Aankoppelwiel voor de rolwagen – (lig)fiets met handtrappers</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>8</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>2.059,05</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Aanhangfiets met twee wielen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>-</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>734,42</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>184,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Rolstoel-fiets verbinding</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>489,61</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Rolstoelhulpmotor voor de begeleider</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>8</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.321,95</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 3 – Toilet-stoelen</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Toiletstoel*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>319,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 4 – Douchestoelen</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Douchestoel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>386,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 5 – Specifieke zetel voor personen met de ziekte van Huntington</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Specifieke zetel voor personen met de ziekte van Huntington</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>-</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>555,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 6 – Aangepaste stoelen en tafels</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Meerkost van een aan de functiebeperkingen aangepaste kinderstoel met positioneringsvoorzieningen (inclusief bijbehorend voorzettafeltje)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>-</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>705,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>69,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Meerkost van een aan de functiebeperkingen aangepaste werk- of bureaustoel voor volwassenen, voorzien van een of meer van de volgende functies of aanpassingen: arthrodesezitting, duo-back, specifieke polstering, abductiebalk, pelottes voor zijwaartse steun</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>839,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>92,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 7 – Transferhulpmiddelen</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Hoog/laag badzit – zittend model</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.224,03</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Herstellingskosten hoog/laag badzit – zittend model</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>20 % van het refertebedrag</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Vastopgesteld optrektoestel op voet of met muurbevestiging*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>235,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 8 – Hulpmiddelen dagelijks leven</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Draaischijf*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>142,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 9 – Speciale bedden</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Aanpassing en toebehoren voor een bed:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td rowspan="2" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Verhoging van een bed</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>200,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Per elektrisch regelbaar gedeelte (hoofdgedeelte, ruggedeelte, bovenbeengedeelte, onderbeengedeelte)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>125,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:medium none; border-top:medium none">&nbsp;</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:medium none; border-top:medium none">&nbsp;</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:medium none; border-top:medium none">&nbsp;</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:medium none; border-top:medium none">&nbsp;</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:medium none; border-top:medium none">&nbsp;</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:medium none; border-top:medium none">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
@@ -1927,1409 +1927,1410 @@ Refertelijst
 
 ### BIJLAGE
 
-Refertelijst
+&nbsp;
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:373.95pt">
-			<p>INTERVENTIENIVEAU – FUNCTIEBEPERKINGEN<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:373.95pt">
+			<p>INTERVENTIENIVEAU – FUNCTIEBEPERKINGEN</p>
 
 			<p>4 VERVANGING – ONDERSTE LEDEMATEN</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:62.25pt">
 			<p>refertetermijn</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:5cm">
 			<p>Referentiebedrag in EUR</p>
 
 			<p>BTW inbegrepen</p>
 
 			<p>01.01.2002</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:4cm">
 			<p>Basiskost</p>
 
 			<p>01.01.2002</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 1 – Ombouwen / aanbouwen van de woning en aanvullende uitrusting</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Ombouwen / aanbouwen van de woning (in functie van rolstoelgebruik binnenshuis of bij volledige zorgafhankelijkheid):</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="8" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td rowspan="8" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Toegang tot woning</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.294,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Leefruimte (keuken en living)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>2.588,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Badkamer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
-			<p>2.588,00</p>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
+			<p>3.672,35</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Toiletruimte</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>2.588,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Slaapkamer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>2.588,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Garage</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.294,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Circulatieomgeving (o.a. gang …)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>2.588,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Traplift</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>12</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>7.387,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:69.2pt">
+			<td colspan="2" rowspan="2" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:69.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:304.75pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:304.75pt">
 			<p>Onderhoudskosten voor traplift</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>165,67 per onderhoudsbeurt (max. 1 onderhoudsbeurt per jaar)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:304.75pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:304.75pt">
 			<p>Herstellingskosten traplift</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>20 % van het refertebedrag</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Plateaulift</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>12</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>10.071,32</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:69.2pt">
+			<td colspan="2" rowspan="2" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:69.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:304.75pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:304.75pt">
 			<p>Onderhoudskosten voor plateaulift</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>165,67 per onderhoudsbeurt (max. 2 onderhoudsbeurten per jaar)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:304.75pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:304.75pt">
 			<p>Herstellingskosten plateaulift</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>20 % van het refertebedrag</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Kokerlift</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>25</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>17.772,92</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:69.2pt">
+			<td colspan="2" rowspan="2" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:69.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:304.75pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:304.75pt">
 			<p>Onderhoudskosten voor kokerlift</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>165,67 per onderhoudsbeurt (max. 3 onderhoudsbeurten per jaar)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:304.75pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:304.75pt">
 			<p>Herstellingskosten kokerlift</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>20 % van het refertebedrag</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Aanvullende uitrusting van de woning:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td rowspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Handgrepen – beugels*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>175,00/stuk (max. 4 stuks)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Automatische garagepoortopener (uitgezonderd bij nieuwbouw)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>461,78</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Elektrificatie rolluiken (uitgezonderd bij nieuwbouw)*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>195,84/stuk (max. 2 stuks)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Aanpassing keuken:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td rowspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Onderrijdbaar werkvlak</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>839,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>In hoogte verstelbaar werkvlak</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>839,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Aanpassing keukenkasten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.343,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Onderrijdbare gootsteen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>839,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>In hoogte verstelbare gootsteen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>839,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Uitschuifbaar werkvlak</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>504,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Automatische deuropener</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>2.183,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Herstellingskosten automatische deuropener</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>460,88</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Badstoel met positioneringsvoorzieningen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>832,34</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Verzorgingstafel*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>336,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Verzorgingstafel in hoogte verstelbaar</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.343,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Oprijgoten (1 paar)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>12</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>496,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Andere (uitgezonderd losse elementen en gadgets)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>2.000,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 2 – Mobiliteit</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Zie bijlage II. Rolstoelen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Aankoppelwiel voor de rolwagen – (lig)fiets met handtrappers</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>8</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>2.059,05</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Rolstoelfiets</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>839,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Aanpassing auto:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="12" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td rowspan="12" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Gas en remmen aan of op het stuur</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.471,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Draaizetel/transferstoel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.011,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Automatische en semi-automatische transmissie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>685,46</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Oprijgoten (1 paar) of oprijplaat</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>496,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Schuifdeur/telescopische deur</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.239,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Rolstoelopbergsysteem voor manuele rolstoel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.239,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Rolstoelplateaulift</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>4.500,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Rolstoelvergrendeling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>620,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Noodz. aanpassingen aan het koetswerk (verhoogd dak, verlaagde instap, …)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>3.718,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Doorzaksysteem voor toegang tot de wagen met een manuele rolwagen, elektronische rolstoel of scooter</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>9.422,41</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Andere noodzakelijke aanpassingen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.239,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Herstellingskosten aanpassing auto</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>20 % van de refertebedragen voor aanpassingen aan de auto met een totaal maximum bedrag van 1.152,21 euro</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Aanvullende rijlessen om een rijbewijs te behalen of te behouden</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>-</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>489,61</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Rolstoel-fiets verbinding</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>489,61</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Rolstoelhulpmotor voor de begeleider</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>8</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.321,95</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 3 – Speciale bedden</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Hoog-laag verzorgingsbed of hoog-laag bed-in-bed systeem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.302,94</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Herstellingskosten hoog-laag verzorgingsbed of hoog-laag bed-ion-bed systeem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>460,88</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Aanpassing en toebehoren voor een bed:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td rowspan="2" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Verhoging van een bed</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>200,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Per elektrisch regelbaar gedeelte (hoofdgedeelte, ruggedeelte, bovenbeengedeelte, onderbeengedeelte)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>125,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 4 – Anti-decubitusmateriaal</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Anti-decubituskussen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>369,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Anti-decubitusmatras:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td rowspan="2" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Statische matras</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>392,51</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Wisseldrukmatras</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>923,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:69.2pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:69.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:304.75pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:304.75pt">
 			<p>Herstellingskosten wisseldrukmatras</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>460,88</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Wisseldrukmatras van het type PRI &gt; 50 % 11 cm<sup>(1)</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.239,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:69.2pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:69.2pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:304.75pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:304.75pt">
 			<p>Herstellingskosten wisseldrukmatras van het type PRI &gt; 50 % 11 cm<sup>(1)</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>599,15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 5 -Transferhulpmiddelen</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Vastopgesteld optrekstoestel op voet of met muurbevestiging*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>235,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Hoog/laag badzit – zittend model</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.224,03</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Herstellingskosten hoog/laag badzit – zittend model</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>20 % van het refertebedrag</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Elektrisch aangedreven lifter op wieltjes (excl. tildoek of tilband)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>2.745,46</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Herstellingskosten elektrisch aangedreven lifter op wieltjes (excl. tildoek of tilband)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>20 % van het refertebedrag</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Til- en verplaatsingssystemen voor gebruik in één ruimte (rail- of wandliftsysteem) (excl. tildoek of tilband)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>5.263,46</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Hertellingskosten til- en verplaatsingssystemen voor gebruik in één ruimte (rail- of wandliftsysteem) (excl. tildoek of tilband)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>20 % van het refertebedrag</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Til- en verplaatsingssysteem voor gebruik in meerdere ruimten (rail- of wandliftsysteem) (excl. tildoek of tilband)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>8.017,45</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:40.85pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:40.85pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:333.1pt">
+			<td colspan="2" style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:333.1pt">
 			<p>Herstellingskosten til- en verplaatsingssysteem voor gebruik in meerdere ruimten (rail- of wandliftsysteem) (excl. tildoek of tilband)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>20 % van het refertebedrag</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Tilband of tildoek</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>276,53</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Onderhoudskosten (el. Lifter op wieltjes, til- en verplaatsingssystemen (één of meerder ruimten))</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>165,67 per onderhoudsbeurt (max. 1 onderhoudsbeurt per jaar)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 6 – Toilet-stoelen</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Toiletstoel*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>319,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Douche- en/of toiletstoel met positioneringsvoorziening</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.982,93</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 7 – Douchestoel, doucheraam, douchebrancard, douchewagen</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Douchestoel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>386,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Doucheraam of douchebrancard (zonder hoogteregeling)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.158,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Douchebrancard (met hoogteregeling) of douchewagen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>2.854,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Douche- en/of toiletstoel met positioneringsvoorziening</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>1.982,93</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 8 – Specifieke zetel voor personen die lijden aan de ziekte van Huntington</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Specifieke zetel voor personen met de ziekte van Huntington</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>-</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>555,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 9 – Aangepaste stoelen en tafels</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Meerkost van een aan de functiebeperkingen aangepaste kinderstoel met positioneringsvoorzieningen (inclusief bijbehorend voorzettafeltje)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>-</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>705,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>69,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Meerkost van een aan de functiebeperkingen aangepaste tafel of bureau voorzien van volgende functies of aanpassingen: hoogteverstelling (rolstoelonderrijdbaar), buikuitsparing, kantelbaar blad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>441,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>92,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Meerkost van een aan de functiebeperkingen aangepaste werk- of bureaustoel voor volwassenen, voorzien van een of meer van de volgende functies of aanpassingen: arthrodesezitting, duo-back, specifieke polstering, abductiebalk, pelottes voor zijwaartse steun</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>839,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>92,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>Domein 10 – Hulpmiddelen dagelijks leven</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:373.95pt">
+			<td colspan="3" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:373.95pt">
 			<p>Draaischijf*</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:62.25pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:62.25pt">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:5cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:5cm">
 			<p>142,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:4cm">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:4cm">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:691.35pt">
+			<td colspan="6" style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:691.35pt">
 			<p>(1)&nbsp;&nbsp;&nbsp; Drukontlastingsindex PRI (10 min.) minstens 50 % onder 20 mm Hg t.h.v. sacrum / hoogte van de cellen 11 cm of meer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:medium none; border-top:medium none">&nbsp;</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:medium none; border-top:medium none">&nbsp;</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:medium none; border-top:medium none">&nbsp;</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:medium none; border-top:medium none">&nbsp;</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:medium none; border-top:medium none">&nbsp;</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:medium none; border-top:medium none">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
 
 <p>&nbsp;</p>
+<br>
 
 ### BIJLAGE
 

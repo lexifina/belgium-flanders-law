@@ -2,16 +2,16 @@
   "codex_id": 1021774,
   "title": "Ministerieel besluit van 2011-12-22 houdende vervanging van de refertelijst inzake individuele materiële bijstand",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021774/VolledigDocument?datum=2012-02-01",
-  "source_sha256": "ca07d4445af9f2a8814b6636df904f454bbfb0d51d88f8743ebe9ef56bf866e7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021774/VolledigDocument?datum=2012-07-01",
+  "source_sha256": "6afaeac90c1b20d771c307a805e9f956c0a74ce2874a65b8daf335a7c6d7e952",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021774&param=informatie",
-  "as_of": "2012-02-01",
+  "as_of": "2012-07-01",
   "made": "2011-12-22",
   "gazette": "2012-05-25",
   "numac": 2012035532,
   "document_start": "2012-02-01",
   "document_end": null,
-  "in_force": "2012-02-01",
+  "in_force": "2012-07-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2012-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-07-01; future article versions excluded; article text as the API gives it"
 }
