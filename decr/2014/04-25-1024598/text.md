@@ -44,6 +44,10 @@ In artikel 101 van hetzelfde decreet, gewijzigd bij het   decreet van 19 juli 20
 
 ## Afdeling I. Codex Hoger Onderwijs
 
+### ART. VI.7.
+
+In   artikel II.122 van dezelfde codex wordt een paragraaf 9 toegevoegd, die luidt   als volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"   § 9. De bepalingen in dit artikel zijn ook van toepassing op de specifieke   lerarenopleidingen, met uitzondering van deze aangaande de accreditatie van   opleidingen voor de specifieke lerarenopleidingen georganiseerd door de centra   voor volwassenenonderwijs, de hogescholen en de universiteiten, en deze over de   instellingsreview als voor de specifieke lerarenopleidingen georganiseerd door   de centra voor volwassenenonderwijs.".
+
 ## Afdeling II. Decreet houdende bepalingen tot begeleiding van de begroting 2014
 
 ## Afdeling III. Decreet houdende het statuut van de Universiteit Hasselt en de Hoge Raad voor het Hoger Onderwijs in Limburg
