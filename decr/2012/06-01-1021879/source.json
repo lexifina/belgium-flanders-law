@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021879,
+  "title": "Decreet van 2012-06-01 houdende wijziging van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021879/VolledigDocument?datum=2012-07-09",
+  "source_sha256": "fc035c6f28e0cf0880b374d8bef89cd723152d357cf3ad96ba4f3eddc50fac0f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021879&param=informatie",
+  "as_of": "2012-07-09",
+  "made": "2012-06-01",
+  "gazette": "2012-06-29",
+  "numac": 2012203423,
+  "document_start": "2012-07-09",
+  "document_end": null,
+  "in_force": "2012-07-09",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2012-07-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
