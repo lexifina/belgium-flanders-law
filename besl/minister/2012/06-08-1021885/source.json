@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021885,
+  "title": "Ministerieel besluit van 2012-06-08 tot wijziging van het ministerieel besluit van 7 maart 2008 tot uitvoering van het besluit van de Vlaamse Regering van 19 oktober 2007 betreffende de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen en de gegarandeerde traditionele specialiteiten voor landbouwproducten en levensmiddelen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021885/VolledigDocument?datum=2012-07-12",
+  "source_sha256": "1f27214d46b2d99d55603b5610ee2cfc62a871c7e7561dbbd009a656e17fe3e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021885&param=informatie",
+  "as_of": "2012-07-12",
+  "made": "2012-06-08",
+  "gazette": "2012-07-02",
+  "numac": 2012035714,
+  "document_start": "2012-07-12",
+  "document_end": null,
+  "in_force": "2012-07-12",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
