@@ -6,15 +6,15 @@ De Vlaamse minister van Institutionele Hervormingen, Havens, Landbouw, Zeevisser
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder het besluit : het besluit van de Vlaamse Regering van 19 oktober 2007 betreffende de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen en de gegarandeerde traditionele specialiteiten voor landbouwproducten en levensmiddelen.<br /><br />
+In dit besluit wordt verstaan onder het besluit van 19 oktober 2007: het besluit van de Vlaamse Regering van 19 oktober 2007 betreffende de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen en de gegarandeerde traditionele specialiteiten voor landbouwproducten en levensmiddelen.<br /><br />
 
 ### ART. 2.
 
-De bevoegde entiteit, vermeld in artikel 1, 1°, van het besluit, is de afdeling Duurzame Landbouwontwikkeling van het Departement Landbouw en Visserij. <br /><br />
+De bevoegde entiteit, vermeld in artikel 1, 1°, van het besluit van 19 oktober 2007 en vermeld in dit besluit, is het Departement Landbouw en Visserij. Het hoofd van het departement kan een afdeling van het departement aanwijzen als bevoegde entiteit.
 
 ### ART. 3.
 
-De adviescommissie, vermeld in artikel 1, 9°, van het besluit, bestaat uit zes stemgerechtigde leden. <br /><br />De commissie is samengesteld als volgt :<br />1° de voorzitter, secretaris-generaal van het Departement Landbouw en Visserij;<br />2° de ondervoorzitter, vertegenwoordiger van het Vlaams Centrum voor Agro- en Visserijmarketing;<br />3° drie leden, vertegenwoordigers van de afdeling Duurzame Landbouwontwikkeling van het Departement Landbouw en Visserij;<br />4° een lid, vertegenwoordiger van het secretariaat-generaal van het Departement Landbouw en Visserij.<br /><br />Er worden evenveel plaatsvervangende leden als effectieve leden benoemd. <br /><br />De organisaties, vermeld in het tweede lid, 2°, 3° en 4°, zorgen elk voor wat hen betreft voor de voordracht van de effectieve en plaatsvervangende leden. De afdeling Duurzame Landbouwontwikkeling zorgt voor de voordracht van de plaatsvervangende voorzitter.<br /><br />De adviezen worden uitgebracht bij meerderheid van stemmen.<br /><br />De adviescommissie kan een of meer experten met raadgevende stem aan haar werkzaamheden laten deelnemen.<br /><br />
+De adviescommissie, vermeld in artikel 1, 9°, van het besluit van 19 oktober 2007, bestaat uit vijf stemgerechtigde leden. <br /><br />De commissie is samengesteld als volgt :<br />1° de voorzitter, secretaris-generaal van het Departement Landbouw en Visserij;<br />2° de ondervoorzitter, vertegenwoordiger van het Vlaams Centrum voor Agro- en Visserijmarketing;<br />3° drie leden, vertegenwoordigers van het Departement Landbouw en Visserij.<br /><br />Er worden evenveel plaatsvervangende leden als effectieve leden benoemd. <br /><br />De organisaties, vermeld in het tweede lid, 2° en 3°, zorgen elk voor wat hen betreft voor de voordracht van de effectieve en plaatsvervangende leden. Het Departement Landbouw en Visserij zorgt voor de voordracht van de plaatsvervangende voorzitter.<br /><br />De adviezen worden uitgebracht bij meerderheid van stemmen.<br /><br />De adviescommissie kan een of meer experten met raadgevende stem aan haar werkzaamheden laten deelnemen.<br /><br />
 
 ### ART. 4.
 
