@@ -22,7 +22,7 @@ De thema's van de innovatieprojecten worden bepaald in functie van het verhogen 
 
 ### ART. 4.
 
-De minister bepaalt jaarlijks, vóór 15 maart, de thema's van de innovatieprojecten. In het jaar 2011 zal dit gebeuren voor 15 september.
+De minister bepaalt jaarlijks voor 1 september de thema's van de   innovatieprojecten.
 
 ## HOOFDSTUK 3. Oproep tot en selectie innovatieprojecten
 
