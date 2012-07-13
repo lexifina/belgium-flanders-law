@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021889,
+  "title": "Besluit van de Vlaamse Regering van 2012-06-08 houdende indeling bij de gemeentewegen van de oude tramzate met fietspad gelegen tussen de gewestweg N46 en Sint-Rochusstraat op het grondgebied van de gemeente Herzele",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021889/VolledigDocument?datum=2012-07-13",
+  "source_sha256": "c356fda7ba58769a153f2663b97695304f01eb318e773874eb0326f835051018",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021889&param=informatie",
+  "as_of": "2012-07-13",
+  "made": "2012-06-08",
+  "gazette": "2012-07-03",
+  "numac": 2012035709,
+  "document_start": "2012-07-13",
+  "document_end": null,
+  "in_force": "2012-07-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
