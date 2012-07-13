@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021891,
+  "title": "Besluit van de Vlaamse Regering van 2012-06-08 houdende indeling bij de gemeentewegen van het fietspad t.h.v. Rollegemsestraat (lengte : 927 meter) op het grondgebied van de stad Kortrijk",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021891/VolledigDocument?datum=2012-07-13",
+  "source_sha256": "e44d8d1ca321cd545cf93bb5f859bd6ebe2c9214f93ea8ae7225999777196997",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021891&param=informatie",
+  "as_of": "2012-07-13",
+  "made": "2012-06-08",
+  "gazette": "2012-07-03",
+  "numac": 2012035711,
+  "document_start": "2012-07-13",
+  "document_end": null,
+  "in_force": "2012-07-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
