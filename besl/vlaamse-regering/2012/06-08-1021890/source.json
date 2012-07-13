@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021890,
+  "title": "Besluit van de Vlaamse Regering van 2012-06-08 houdende indeling bij de gemeentewegen van de gewestweg N323b - President Kennedylaan (tussen kmp. 0,985 en 1,468) op het grondgebied van de stad Kortrijk",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021890/VolledigDocument?datum=2012-07-13",
+  "source_sha256": "19cb7007c53c1102a75a5cbc73bf21d74f34fd48b7ded6b5d7db9ade424b1d39",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021890&param=informatie",
+  "as_of": "2012-07-13",
+  "made": "2012-06-08",
+  "gazette": "2012-07-03",
+  "numac": 2012035710,
+  "document_start": "2012-07-13",
+  "document_end": null,
+  "in_force": "2012-07-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
