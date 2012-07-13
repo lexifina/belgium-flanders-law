@@ -18,9 +18,331 @@
 
 ## HOOFDSTUK 1 Wijzigingen in het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap
 
+### ART. 71.
+
+Aan artikel 2 van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap, het laatst gewijzigd bij het decreet van 8 mei 2009, worden een punt k) tot en met m) toegevoegd, die luiden als volgt : <br />« k) Hogescholendecreet : het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap;<br />l) integratiekader : het geheel van personeelsleden, opgenomen in een lijst die bekrachtigd is door de Vlaamse Regering, zoals vermeld in artikel 171decies van het Hogescholendecreet;<br />m) academische hogeschoolopleidingen : de academische opleidingen die tot en met het academiejaar 2012-2013 aangeboden worden door de hogescholen en die met ingang van het academiejaar 2013-2014 geïntegreerd worden in de universiteiten. ».<br /><br />
+
+### ART. 72.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt na artikel 121bis een hoofdstuk Vbis ingevoegd, dat luidt als volgt :<br />« Hoofdstuk Vbis. - De integratie in de universiteiten van het hogescholenpersoneel dat verbonden is aan een of meerdere academische hogeschoolopleidingen ».<br /><br />
+
+### ART. 73.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan hoofdstuk Vbis, ingevoegd bij artikel 72, een afdeling 1 toegevoegd, die luidt als volgt :<br />« Afdeling 1. - Personeelsleden in het integratiekader ».<br /><br />
+
+### ART. 74.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan afdeling 1, toegevoegd bij artikel 73, een artikel 121ter toegevoegd, dat luidt als volgt :<br />« Art. 121ter. Een universiteit die academische hogeschoolopleidingen integreert, neemt met ingang van 1 oktober 2013 de personeelsleden in het integratiekader over van die hogeschool of hogescholen die academische opleidingen overdragen aan de desbetreffende universiteit, en dit voor de omvang van de opdracht, zoals opgenomen in de lijst vermeld in artikel 171decies, § 7, 7°, van het Hogescholendecreet.<br /><br />De personeelsleden in het integratiekader worden vanaf 1 oktober 2013 personeelsleden van de desbetreffende universiteit, en dit voor de omvang van de opdracht, zoals opgenomen in de lijst vermeld in artikel 171decies, § 7, 7°, van het Hogescholendecreet.<br /><br />De universiteit treedt ten opzichte van de personeelsleden in het integratiekader vanaf 1 oktober 2013 in de rechten en verplichtingen van de hogeschool die voor de integratie de betrokken personeelsleden tewerkstelde. In deze overdracht zijn inbegrepen alle rechten en verplichtingen verbonden aan hangende en toekomstige procedures. ».<br /><br />
+
+### ART. 75.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde af- deling 1 een artikel 121quater toegevoegd, dat luidt als volgt :<br />« Art. 121quater. De rechtspositieregeling, zoals vastgelegd bij of krachtens het Hogescholendecreet, blijft, met behoud van toepassing van de bepalingen van dit hoofdstuk, van toepassing op de personeelsleden in het integratiekader. Ze behouden hun hoedanigheid van personeel van het niet-universitair onderwijs.<br /><br />Het universiteitsbestuur oefent tegenover de personeelsleden in het integratiekader de bevoegdheden uit die overeenkomstig de rechtspositieregeling, zoals vastgelegd bij of krachtens het Hogescholendecreet, toegewezen zijn aan het bestuursorgaan van de hogeschool dat door of krachtens de wet, het decreet of de statuten is aangewezen om de door of krachtens het Hogescholendecreet toegewezen bevoegdheden uit te oefenen. ».<br /><br />
+
+### ART. 76.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde af- deling 1 een artikel 121quinquies toegevoegd, dat luidt als volgt :<br />« Art. 121quinquies. § 1. De personeelsleden in het integratiekader oefenen na de integratie in de universiteit de opdracht uit die ze voor de integratie aan de hogeschool uitoefenden.<br /><br />§ 2. Het universiteitsbestuur kan na de integratie de opdracht en de taakomschrijving van de leden van het onderwijzend personeel in het integratiekader wijzigen op het vlak van inhoud en aard onder de volgende voorwaarden :<br />1° het universiteitsbestuur heeft bij reglement de regels vastgelegd volgens dewelke de opdrachten van de personeelsleden worden gewijzigd;<br />2° het orgaan of de organen waaraan de opdrachten verbonden zijn heeft advies gegeven over de wijziging;<br />3° het betrokken personeelslid heeft ingestemd met de wijziging of het betrokken personeelslid is gehoord door het adviesgevende orgaan.<br /><br />Het universiteitsbestuur kan na de integratie de opdracht en de taakomschrijving van de leden van het administratief en technisch personeel in het integratiekader wijzigen conform de reglementen die van toepassing zijn binnen de universiteit. ».<br /><br />
+
+### ART. 77.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde afdeling 1 een artikel 121sexies toegevoegd, dat luidt als volgt :<br />« Art. 121sexies. § 1. De regelingen en reglementen, opgesteld door het hogeschoolbestuur overeenkomstig het Hogescholendecreet en de daaruit volgende uitvoeringsbesluiten, of overeenkomstig andere wettelijke of decretale bepalingen, blijven na de integratie in de universiteit van toepassing op de personeelsleden in het integratiekader.<br /><br />§ 2. Het universiteitsbestuur kan na de integratie een eigen regeling of reglement uitwerken voor de personeelsleden in het integratiekader. Bij de uitwerking van deze aangepaste regelingen of reglementen neemt het universiteitsbestuur de bepalingen, vermeld in het Hogescholendecreet en de daaruit voortvloeiende bepalingen, in acht, alsook alle andere bij wet of decreet opgelegde voorwaarden.<br /><br />Deze regelingen of reglementen zijn het voorwerp van onderhandelingen in de bestaande medezeggenschapsorganen binnen de universiteit of worden onderhandeld in het kader van het afsluiten van een collectieve arbeidsovereenkomst binnen de universiteit. Voor deze onderhandelingen is de afvaardiging van het personeel samengesteld overeenkomstig artikel 122, § 2, derde lid, c.q. voor ten minste de helft samengesteld uit afgevaardigden van het personeel in het integratiekader.<br /><br />Bij de inwerkingtreding van de nieuwe reglementen of regelingen, zijn de initiële reglementen of regelingen, vermeld in paragraaf 1, niet langer van toepassing op de personeelsleden in het integratiekader. ».<br /><br />
+
+### ART. 78.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde af- deling 1 een artikel 121septies toegevoegd, dat luidt als volgt :<br />« Art. 121septies. Het universiteitsbestuur kan een mandaat, vermeld in artikel 2, 37°, van het Hogescholendecreet, of een mandaat van departementshoofd of bibliothecaris, vermeld in artikel 109 en 110 van het Hogescholendecreet, toegekend aan een personeelslid in het integratiekader voor de integratie in de universiteit, vroegtijdig stopzetten als de bijzondere opdracht of de functie van departementshoofd of bibliothecaris binnen de universiteit zonder voorwerp is.<br /><br />Met behoud van de toepassing van artikel 136, § 3, artikel 158, § 3, en artikel 158ter, tweede lid, van het Hogescholendecreet, vervallen in dat geval, vanaf de datum van de beslissing, de mandaatsvergoeding of de niet-verworven salarisschaal, verbonden aan het mandaat. ».<br /><br />
+
+### ART. 79.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde af- deling 1 een artikel 121octies toegevoegd, dat luidt als volgt :<br />« Art. 121octies. Een universiteit kan in het integratiekader geen nieuwe personeelsleden aanstellen of benoemen. Nieuwe personeelsleden zijn personeelsleden die op 1 februari 2013 niet opgenomen zijn in het integratiekader. Personeelsleden die overeenkomstig artikel 171vicies quater van het Hogescholendecreet overgedragen worden naar het integratiekader worden niet beschouwd als nieuwe personeelsleden in het integratiekader.<br /><br />Een personeelslid dat op 1 februari 2013 een titularis in een betrekking vervangt, kan na beeindiging van die aanstelling niet opnieuw aangesteld worden in het integratiekader. ».<br /><br />
+
+### ART. 80.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde afdeling 1 een artikel 121novies toegevoegd, dat luidt als volgt :<br />« Art. 121novies. Statutair tijdelijk aangestelde lectoren in het integratiekader, met een dienstanciënniteit van 10 jaar in de hogescholen op 30 september 2013, berekend overeenkomstig artikel 98 van het Hogescholendecreet, worden door de universiteit bij een gunstige evaluatie benoemd in het ambt van assistent in het integratiekader. ».<br /><br />
+
+### ART. 81.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde af- deling 1 een artikel 121decies toegevoegd, dat luidt als volgt :<br />« Art. 121decies. Statutair tijdelijk aangestelde leden van het administratief en technisch personeel in het integratiekader, met een dienstanciënniteit van 5 jaar in de hogescholen op 30 september 2013, berekend overeenkomstig artikel 169, 1°, van het Hogescholendecreet, worden door de universiteit bij een gunstige evaluatie benoemd in het integratiekader. ».<br /><br />
+
+### ART. 82.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde af- deling 1 een artikel 121undecies toegevoegd, dat luidt als volgt :<br />« Art. 121undecies. Na de integratie geeft de universiteit de wijzigingen, vermeld in artikel 171undecies van het Hogescholendecreet, door aan het Vlaams Ministerie van Onderwijs en Vorming volgens de geldende afspraken of regelgeving.<br /><br />De Vlaamse Regering maakt jaarlijks een aangepaste lijst van de personeelsleden in het integratiekader kenbaar die de situatie op 1 januari van dat jaar weergeeft. ».<br /><br />
+
+### ART. 83.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde af- deling 1 een artikel 121duodecies toegevoegd, dat luidt als volgt :<br />« Art. 121duodecies. Het universiteitsbestuur kan met het Vlaams Ministerie van Onderwijs en Vorming een overeenkomst sluiten over de betaling van de salarissen, in voorkomend geval met inbegrip van het vakantiegeld en de eindejaarstoelage, de mandaatsvergoedingen, de premies en vergoedingen vermeld in artikel 141 en 157 van het Hogescholendecreet, de vergoedingen vermeld in artikel 14Ibis van het Hogescholendecreet, van de personeelsleden in het integratiekader.<br /><br />In voorkomend geval verzorgt het Vlaams Ministerie van Onderwijs en Vorming de betalingen voor de personeelsleden in het integratiekader overeenkomstig de artikelen 143, 144, 145, 159, 160 en 161, van het Hogescholendecreet. De betaling gebeurt op basis van de gegevens verstrekt door het universiteitsbestuur en onder zijn verantwoordelijkheid.<br /><br />De eerste overeenkomst heeft een minimale looptijd van 5 jaar. ».<br /><br />
+
+### ART. 84.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan hoofdstuk Vbis, ingevoegd bij artikel 72, een afdeling 2 toegevoegd, die luidt als volgt :<br />« Afdeling 2. - Rangschikking in het kader van het zelfstandig academisch personeel of van het administratief en technisch personeel ».<br /><br />
+
+### ART. 85.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan afdeling 2, toegevoegd bij artikel 84, een artikel 121ter decies toegevoegd, dat luidt als volgt :<br />« Art. 121ter decies. § 1. Het universiteitsbestuur kan de leden van het onderwijzend personeel van groep 3 in het integratiekader vanaf het begin van het academiejaar 2013-2014 rangschikken in een graad van het zelfstandig academisch personeel of van het administratief en technisch personeel in het universitaire kader. De universiteit stelt daartoe een reglement op voor 1 april 2013. Bij de onderhandelingen over dit reglement wordt de samenstelling van de personeelsafgevaardigden, zoals vastgelegd in artikel 121sexies, § 2, gerespecteerd.<br /><br />In afwijking van artikel 88 en artikel 112 is voor een rangschikking in het universitaire kader van een personeelslid van groep 3 uit het integratiekader geen voorafgaande openbare vacature vereist.<br /><br />§ 2. Bij de vaststelling van de voorwaarden en criteria, vermeld in artikel 86 en 87, houdt het universiteitsbestuur rekening met het profiel van het vakgebied van de overgenomen opleiding.<br /><br />§ 3. De vast benoemde personeelsleden van groep 3 die, overeenkomstig paragraaf 1, gerangschikt worden in een van de graden van het zelfstandig academisch personeel, worden benoemd als lid van het zelfstandig academisch personeel.<br /><br />Bij de tijdelijk aangestelde personeelsleden van groep 3 die, overeenkomstig paragraaf 1, gerangschikt worden in een van de graden van het zelfstandig academisch personeel, wordt de periode die het betrokken personeelslid in het integratiekader tewerkgesteld is vanaf 1 oktober 2013 meegerekend voor het berekenen van de periode van aanstelling in tijdelijk dienstverband met uitzicht op een vaste benoeming, vermeld in artikel 91 van het Universiteiten decreet.<br /><br />De vast benoemde personeelsleden van groep 3 die, overeenkomstig paragraaf 1, gerangschikt worden in een van de graden van het administratief en technisch personeel aan de Universiteit Gent, de Universiteit Hasselt en de Universiteit Antwerpen, worden benoemd als lid van het administratief en technisch personeel.<br /><br />§ 4. De personeelsleden die gerangschikt worden in een van de graden van het zelfstandig academisch personeel, verkrijgen in de salarisschaal die verbonden is aan hun graad, ten minste het jaarsalaris dat gelijk is aan of onmiddellijk hoger is dan het jaarsalaris aan 100 % dat ze genoten in hun vorige dienstverband.<br /><br />De personeelsleden die gerangschikt worden in een van de graden van het administratief en technisch personeel, verkrijgen in de salarisschaal die verbonden is aan hun graad, ten minste het jaarsalaris dat gelijk is aan of onmiddellijk hoger is dan het jaarsalaris aan 100 % dat ze genoten in hun vorige dienstverband. ».<br /><br />
+
+### ART. 86.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde af- deling 2 een artikel 121quater decies toegevoegd, dat luidt als volgt :<br />« Art. 121quater decies. § l.Tijdelijke assistenten van het onderwijzend personeel van groep 2 in het integratiekader kunnen door het universiteitsbestuur bij de verlenging van hun mandaat gerangschikt worden in de graad van assistent in het universitaire kader.<br /><br />Doctorassistenten van het onderwijzend personeel van groep 2 in het integratiekader kunnen bij de verlenging van hun mandaat gerangschikt worden in de graad van doctor-assistent in het universitaire kader.<br /><br />§ 2. Voor de berekening van de maximale duur van een aanstelling als tijdelijk assistent of doctor-assistent in het universitaire kader, als vermeld in artikel 92, worden voor de personeelsleden vermeld in paragraaf 1, de gepresteerde jaren als assistent of doctor-assistent aan een hogeschool of in het integratiekader mee in rekening gebracht.<br /><br />Een personeelslid dat aan een hogeschool of in het integratiekader het volledige mandaat voltooid heeft, kan niet aangesteld worden als tijdelijke assistent of doctor-assistent in het universitaire kader.<br /><br />§ 3. Het universiteitsbestuur kan de werkleiders en vast benoemde assistenten van het onderwijzend personeel van groep 2 in het integratiekader vanaf het begin van het academiejaar 2013-2014 rangschikken in een graad van het administratief en technisch personeel in het universitaire kader. In afwijking van artikel 112 zijn in dat geval geen openbare vacature en vergelijkende selectieprocedure vereist.<br /><br />De in het eerste lid vermelde personeelsleden die gerangschikt worden in een van de graden van het administratief en technisch personeel, verkrijgen in de salarisschaal die verbonden is aan hun graad, ten minste het jaarsalaris dat gelijk is aan of onmiddellijk hoger is dan het jaarsalaris aan 100 % dat ze in hun vorige dienstverband genoten.<br /><br />De vast benoemde personeelsleden van groep 2 die, overeenkomstig het eerste lid, gerangschikt worden in een van de graden van het administratief en technisch personeel aan de Universiteit Gent, de Universiteit Hasselt en de Universiteit Antwerpen, worden benoemd als lid van het administratief en technisch personeel. ».<br /><br />
+
+### ART. 87.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde afdeling 2 een artikel 121quinquies decies toegevoegd, dat luidt als volgt :<br />« Art. 121quinquies decies. Het universiteitsbestuur kan de leden van het administratief en technisch personeel in het integratiekader vanaf het begin van het academiejaar 2013-2014 rangschikken in een graad van het administratief en technisch personeel in het universitaire kader, alsook de leden van het administratief en technisch personeel, vermeld in artikel 171vicies quater van het Hogescholendecreet. In afwijking van artikel 112 zijn in dat geval geen openbare vacature en vergelijkende selectieprocedure vereist.<br /><br />De vast benoemde leden van het administratief en technisch personeel die, overeenkomstig het eerste lid, gerangschikt worden in een van de graden van het administratief en technisch personeel aan de Universiteit Gent, de Universiteit Hasselt en de Universiteit Antwerpen, worden benoemd als lid van het administratief en technisch personeel.<br /><br />De in het eerste lid vermelde personeelsleden die gerangschikt worden in een van de graden van het administratief en technisch personeel, verkrijgen in de salarisschaal die verbonden is aan hun graad ten minste het jaarsalaris dat gelijk is aan of onmiddellijk hoger is dan het jaarsalaris aan 100 % dat ze in hun vorig dienstverband genoten. ».<br /><br />
+
+### ART. 88.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde afdeling 2 een artikel 121sexies decies toegevoegd, dat luidt als volgt :<br />« Art. 121sexies decies. Een rangschikking in het universitaire kader van een personeelslid van het integratiekader of van een personeelslid opgenomen in de lijst vermeld in artikel 171vicies ter van het Hogescholendecreet vereist de instemming van het betrokken personeelslid.<br /><br />De personeelsleden die gerangschikt worden in het universitaire kader, worden geschrapt van de lijst, vermeld in artikel 171decies van het Hogescholen decreet of van de lijst, vermeld in artikel 171vicies ter van het Hogescholendecreet. De rechtspositieregeling zoals vastgelegd in dit decreet is vanaf de rangschikking in het universitaire kader op deze personeelsleden van toepassing. ».<br /><br />
+
+### ART. 89.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan hoofdstuk Vbis, toegevoegd bij artikel 72, een afdeling 3 toegevoegd, die luidt als volgt :<br />« Afdeling 3. - Contractuele personeelsleden verbonden aan de academische hogeschoolopleidingen ».<br /><br />
+
+### ART. 90.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan afdeling 3, toegevoegd bij artikel 89, een artikel 121septies decies toegevoegd, dat luidt als volgt :<br />« Art. 121septies decies. De arbeidsovereenkomst van de personeelsleden die op het ogenblik van de integratie verbonden zijn aan een academische opleiding die met ingang van het academiejaar 2013-2014 integreert in een universiteit of aan een onderzoeksproject gerelateerd aan een dergelijke opleiding, wordt met ingang van 1 oktober 2013 overgenomen door de desbetreffende universiteit. ».<br /><br />
+
+### ART. 91.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde afdeling 3 een artikel 121duodevicies toegevoegd, dat luidt als volgt :<br />« Art. 121duodevicies. Personeelsleden waarvan de universiteit de arbeidsovereenkomst overgenomen heeft en die overeenkomstig artikel 166 van het Hogescholendecreet voldeden aan de voorwaarden om binnen de hogeschool zonder nieuwe vacature overgeheveld te worden naar een betrekking van de personeelsformatie van het administratief en technisch personeel met behoud van hun verworven graad, salarisschaal en ancienniteit, worden binnen de universiteit geacht te voldoen aan de voorwaarden vastgelegd in artikel 117 van dit decreet. ».<br /><br />
+
 ## HOOFDSTUK 2 Wijzigingen in het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap
 
+### ART. 92.
+
+Aan artikel 2 van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap, het laatst gewijzigd bij het decreet van 8 mei 2009, worden een punt 57° tot en met 61° toegevoegd, die luiden als volgt : <br />« 57° integratiekader : het geheel van personeelsleden, opgenomen in een lijst die bekrachtigd is door de Vlaamse Regering, zoals vermeld in artikel 171decies;<br />58° kunstopleidingen : de professioneel gerichte bacheloropleidingen en de academisch gerichte bachelor- en masteropleidingen in de volgende studiegebieden :<br />a) Audiovisuele en beeldende kunst;<br />b) Muziek en podiumkunsten;<br />59° School of Arts : een organisatorische eenheid binnen een hogeschool of over verschillende hogescholen heen waarin, conform artikel 8bis van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen, de professioneel gerichte bacheloropleidingen of de academisch gerichte bachelor- en masteropleidingen in de studiegebieden Audiovisuele en beeldende kunst, of Muziek en podiumkunsten aangeboden worden. Een hogeschool die overeenkomstig artikel 8bis van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen overwegend kunstopleidingen en kunstgerelateerde opleidingen aanbiedt, wordt in het kader van dit decreet beschouwd als een School of Arts;<br />60° Financieringsdecreet : het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen;<br />61° Universiteitendecreet : het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap. ». <br /><br />
+
+### ART. 93.
+
+Aan titel III van hetzelfde decreet, het laatst gewijzigd bij het decreet van 1 juli 2011, wordt een hoofdstuk IV toegevoegd, dat luidt als volgt :<br />« HOOFDSTUK IV. - Personeel dat verbonden is aan de academische opleidingen die met ingang van het academiejaar 2013-2014 geïntegreerd worden in de universiteiten ».<br /><br />
+
+### ART. 94.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan hoofdstuk IV, toegevoegd bij artikel 93, een afdeling 1 toegevoegd, die luidt als volgt :<br />« Afdeling 1. - Toepassingsgebied ».<br /><br />
+
+### ART. 95.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan afdeling 1, toegevoegd bij artikel 94, een artikel 171octies toegevoegd, dat luidt als volgt :<br />« Art. 171octies. De bepalingen van afdeling 2 zijn van toepassing op de volgende personeelscategorieën die bezoldigd worden ten laste van de werkingsuitkeringen, verschaft door de Vlaamse Gemeenschap :<br />1° de leden van het onderwijzend personeel van groep 2 en 3 en de leden van het administratief en technisch personeel van de hogescholen, die op 1 februari 2013 aangesteld of benoemd zijn in het kader van een academische opleiding die met ingang van het academiejaar 2013-2014 geïntegreerd wordt in een universiteit;<br />2° de leden van het onderwijzend personeel van groep 1 die belast zijn met een opdracht van praktijkgericht onderwijs in een academische opleiding, die met ingang van het academiejaar 2013-2014 geïntegreerd wordt in een universiteit.<br /><br />De bepalingen van afdeling 3 zijn van toepassing op de contractuele personeelsleden die op het ogenblik van de integratie van de academische opleidingen in een universiteit verbonden zijn aan een dergelijke academische opleiding of tewerkgesteld zijn in het kader van een onderzoeksproject gerelateerd aan een dergelijke academische opleiding.<br /><br />De bepalingen van afdeling 4 zijn van toepassing op de personeelsleden die op 1 februari 2013 tewerkgesteld zijn in een centrale dienst van de hogeschool of in een departement of andere structurele eenheid waarin zowel academische als professionele opleidingen worden aangeboden, en die aldus niet eenduidig kunnen worden toegewezen noch aan een academische opleiding die met ingang van het academiejaar 2013-2014 integreert in een universiteit, noch aan een professionele opleiding of aan een kunstopleiding. Onder deze groep van personeelsleden bevinden zich : <br />1° leden van het onderwijzend personeel bezoldigd ten laste van de werkingsuitkeringen en uitsluitend belast met administratieve taken;<br />2° leden van het administratief en technisch personeel bezoldigd ten laste van de werkingsuitkeringen;<br />3° contractuele personeelsleden;<br />4° het opvoedend hulppersoneel;<br />5° de leden van het administratief en technisch personeel ten laste van de sociale toelage of waarvan de bezoldiging doorgerekend wordt op de sociale toelage van de hogeschool;<br />6° de contractuele personeelsleden bezoldigd ten laste van de sociale toelage van de hogeschool. ».<br /><br />
+
+### ART. 96.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan hoofdstuk IV, toegevoegd bij artikel 93, een afdeling 2 toegevoegd, die luidt als volgt :<br />« Afdeling 2. - Het integratiekader ».<br /><br />
+
+### ART. 97.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 1 juli 2011, wordt aan afdeling 2, toegevoegd bij artikel 96, een artikel 171novies toegevoegd, dat luidt als volgt :<br />« Art. 171novies. Alle leden van het onderwijzend personeel en van het administratief en technisch personeel die op 1 februari 2013 aangesteld of benoemd zijn in het kader van een of meerdere academische opleidingen, die met ingang van het academiejaar 2013-2014 geïntegreerd worden in een universiteit, of die aan een dergelijke academische opleiding toegewezen zijn, worden opgenomen in de lijst, vermeld in artikel 171decies. Ze maken deel uit van het integratiekader van de desbetreffende hogeschool.<br /><br />Een personeelslid dat niet opgenomen wil worden in het integratiekader, deelt deze beslissing uiterlijk op 31 januari 2013 mee aan het hogeschoolbestuur. In dat geval beeindigt het hogeschoolbestuur de aanstelling of benoeming van het betrokken personeelslid. Tenzij bij onderlinge overeenkomst een andere afspraak wordt gemaakt, blijft het betrokken personeelslid zijn werkzaamheden aan de hogeschool vervullen tot het einde van het academiejaar 2012-2013. Het hogeschoolbestuur kent aan het personeelslid een opzeggingstermijn toe die ingaat op 1 februari 2013 en waarvan de duur wordt vastgesteld volgens het aantal arbeidsdagen dat vereist is om aanspraak te kunnen maken op uitkeringen in het kader van de werkloosheidsreglementering en van de verplichte ziekte- en invaliditeitsverzekering. In ieder geval eindigt deze opzeggingstermijn als het betrokken personeelslid de pensioengerechtigde leeftijd bereikt. Een benoemd personeelslid wordt tijdens de opzeggingstermijn geacht als tijdelijk te zijn aangesteld.<br /><br />Indien de opzeggingstermijn die aan het personeelslid moet toegekend worden opdat het personeelslid aanspraak zou kunnen maken op uitkeringen in het kader van de werkloosheidsreglementering en van de verplichte ziekte- en invaliditeitsverzekering, het einde van het academiejaar 2012-2013 overschrijdt, wordt het betrokken personeelslid op het einde van het academiejaar 2012-2013 onmiddellijk ontslagen met uitbetaling van een opzeggingsvergoeding overeenstemmend met de resterende duur van de opzeggingstermijn die aan het personeelslid werd toegekend. ».<br /><br />
+
+### ART. 98.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde afdeling 2 een artikel 171decies toegevoegd, dat luidt als volgt :<br />« Art. 171decies. § 1. Een hogeschool die academische opleidingen aanbiedt die met ingang van het academiejaar 2013-2014 geïntegreerd worden in een universiteit, stelt een nominatieve lijst vast van alle leden van het onderwijzend personeel en van het administratief en technisch personeel die op 1 februari 2013 aangesteld of benoemd zijn in het kader van, of belast zijn met een opdracht in een of meerdere van dergelijke academische opleidingen. De lijst wordt goedgekeurd door de universiteit die de academische opleidingen integreert. De lijst wordt samen met het akkoord van beide instellingen uiterlijk op 1 april 2013 bezorgd aan de Vlaamse minister, bevoegd voor het onderwijs. De commissaris van de Vlaamse Regering bij de betrokken hogeschool, verleent zijn visum op de lijst uiterlijk op 15 juni 2013. De Vlaamse Regering keurt de lijst goed voor 15 juli 2013.<br /><br />De lijst bevat zowel de titularissen als de personeelsleden die op 1 februari 2013 een titularis vervangen.<br /><br />In het geval er geen goedgekeurde lijst is op 1 april 2013 stelt de Vlaamse Regering uiterlijk op 15 juli 2013 een lijst samen, op basis van een voorstel van de commissarissen van de Vlaamse Regering bij de betrokken hogeschool en universiteit.<br /><br />§ 2. De hogeschool informeert de betrokken personeelsleden tijdig en voorziet in een procedure om administratieve onjuistheden recht te zetten. De leden van het hogeschoolonderhandelingscomite krijgen inzage in de lijst. Administratieve onjuistheden kunnen door de hogeschool rechtgezet worden tot op het ogenblik dat de regeringscommissaris zijn visum verleend heeft over de lijst, zoals vermeld in paragraaf 1.<br /><br />§ 3. In afwijking van paragraaf 1 worden de volgende personeelsleden niet opgenomen in de lijst :<br />1° de personeelsleden die voltijds ter beschikking zijn gesteld wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen;<br />2° de personeelsleden die volledig betaald worden via het Centraal Fonds, conform artikel 35 en 36 van het Financieringsdecreet, met uitzondering van de personeelsleden bedoeld in artikel 36, § 1, 6° ;<br />3° de personeelsleden die volledig centraal betaald worden door de Vlaamse Gemeenschap, conform artikel 37 van het Financieringsdecreet;<br />4° de personeelsleden van het meester-, vak- en dienstpersoneel, vermeld in artikel 333 van dit decreet;<br />5° de inkomende personeelsleden die op basis van een samenwerkingsakkoord, vermeld in artikel 95 van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen of in artikel 106 van dit decreet, een opdracht uitoefenen binnen de hogeschool in het kader van een academische opleiding.<br /><br />De samenwerkingsovereenkomsten, vermeld in het eerste lid, 5°, kunnen met instemming van de instellingen die de samenwerkingsovereenkomst hebben afgesloten, en de universiteit of universiteiten die de desbetreffende academische opleiding met ingang van het academiejaar 2013-2014 integreren, aangepast worden, rekening houdend met de nieuwe opleidingenstructuur en in het belang van de tewerkstelling van de betrokken personeelsleden.<br /><br />§ 4. In afwijking van paragraaf 1 kan de hogeschool beslissen om een lid van het onderwijzend personeel van groep 1, dat op 1 februari 2013 belast is met een onderwijsopdracht in een academische bacheloropleiding, niet op te nemen in de lijst als de omvang van de opdracht niet meer bedraagt dan 20 %. De instemming van het betrokken personeelslid en van de universiteit die de opleiding integreert, is daarvoor vereist.<br /><br />§ 5. In afwijking van paragraaf 1 worden de personeelsleden, vermeld in artikel 171vicies ter, niet opgenomen in de lijst.<br /><br />§ 6. In afwijking van paragraaf 1 en in het geval dat er een overeenkomst is tussen de hogeschool, de universiteit en het betrokken personeelslid, worden de personeelsleden die verbonden zijn aan een academische opleiding die afgebouwd wordt, niet opgenomen in de lijst. Deze personeelsleden blijven personeelslid van de hogeschool. In deze overeenkomst worden ook de afspraken vastgelegd waardoor het personeelslid zijn opdracht in de opleiding in afbouw verder zet aan de universiteit, dit in het kader van een samenwerkingsovereenkomst overeenkomstig artikel 95 van het Structuurdecreet.<br /><br />§ 7. De lijst is opgesplitst in onderwijzend personeel enerzijds en administratief en technisch personeel anderzijds en bevat van ieder personeelslid, voor wat betreft de tewerkstelling in het kader van de academische opleidingen, de volgende gegevens :<br />1° de voor- en achternaam;<br />2° het stamboeknummer;<br />3° het ambt, verleend aan een lid van het onderwijzend personeel;<br />4° de graad, bekleed door een lid van het administratief en technisch personeel;<br />5° het statuut (aangesteld of benoemd);<br />6° de aanduiding « titularis » of « vervanger van een titularis »;<br />7° de omvang van de opdracht, verbonden aan het ambt of de graad, in de academische opleidingen, uitgedrukt in procenten, op 1 februari 2013;<br />8° de werkelijk uitgeoefende omvang van de opdracht, verbonden aan het ambt of de graad, in de betrokken academische opleidingen, uitgedrukt in procenten, op 1 februari 2013, met vermelding van het eventuele verlofstelsel.<br /><br />Als het betrokken personeelslid meerdere ambten bekleedt in het kader van een academische opleiding, dan worden de verschillende ambten opgenomen in de lijst, samen met het statuut, de omvang van de opdracht en de werkelijk uitgeoefende omvang, verbonden aan de verschillende ambten.<br /><br />Als het betrokken personeelslid geen titularis van een ambt is, bevat de lijst ook :<br />1° de voornaam, de achternaam en het stamboeknummer van de titularis die het personeelslid vervangt;<br />2° de vastgelegde einddatum van de aanstelling. ».<br /><br />
+
+### ART. 99.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde afdeling 2 een artikel 171undecies toegevoegd, dat luidt als volgt :<br />« Art. 171undecies. Na 1 februari 2013 worden de volgende wijzigingen aangebracht in de lijst, vermeld in artikel 171decies : <br />1° schrappen van personeelsleden :<br />a) bij het beëindigen van de aanstelling van rechtswege, op initiatief van de instelling of op eigen initiatief van het personeelslid;<br />b) bij een definitieve ambtsneerlegging, overeenkomstig artikel 93, of op eigen initiatief van het personeelslid;<br />c) bij het ter beschikking stellen wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen;<br />d) bij rangschikking in het universitaire kader, overeenkomstig hoofdstuk Vbis, afdeling 2, van het Universiteitendecreet;<br />e) doctor-assistenten bij niet verlenging van de periode van de aanstelling, of na afloop van de maximale duur van de aanstelling;<br />f) tijdelijke assistenten bij niet verlenging van de periode van de aanstelling, of na afloop van de maximale duur van de aanstelling, vermeld in artikel 122 van dit decreet;<br />2° wijzigen van gegevens :<br />a) verandering van statuut;<br />b) verandering van ambt;<br />c) verandering van graad;<br />d) wijzigingen in de omvang van de opdracht, verbonden aan het ambt of de graad, in de academische opleidingen;<br />e) wijzigingen in de werkelijk uitgeoefende omvang van de opdracht, verbonden aan het ambt of de graad, in de betrokken academische opleidingen, met vermelding van het verlofstelsel indien van toepassing;<br />3° toevoegen van personeelsleden :<br />a) de personeelsleden, vermeld in artikel 171vicies quater, § 2, eerste lid.<br /><br />Een wijziging in de omvang van de opdracht, zoals vermeld in punt 2°, d), is alleen mogelijk in de volgende gevallen :<br />1° het hogeschoolbestuur heeft ingestemd met het verzoek van een lid van het onderwijzend personeel om de voltijdse opdracht terug te brengen naar een deeltijdse opdracht, overeenkomstig artikel 114;<br />2° de opdracht van een lid van het onderwijzend personeel, belast met een voltijdse opdracht, wordt ambtshalve deeltijds, overeenkomstig artikel 148, § 1;<br />3° het voltijds benoemde lid van het onderwijzend personeel dat op zijn verzoek of ambtshalve in een deeltijdse opdracht wordt geplaatst, verkrijgt opnieuw een voltijdse opdracht overeenkomstig artikel 148, § 4;<br />4° de uitbreiding van de opdracht door ambtswijziging van een personeelslid dat al een deeltijds ambt als werkleider bekleedt, met vrijstelling van de ancienniteitsvoorwaarde, vermeld in artikel 130, eerste lid, 1°. <br /><br />De wijzigingen worden door de hogeschool doorgegeven aan het Vlaams Ministerie van Onderwijs en Vorming volgens de geldende afspraken of regelgeving. ».<br /><br />
+
+### ART. 100.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde afdeling 2 een artikel 171duodecies toegevoegd, dat luidt als volgt :<br />« Art. 171duodecies. § 1. Een hogeschool kan in het kader van een academische opleiding die met ingang van het academiejaar 2013-2014 integreert in een universiteit, na 1 februari 2013 geen andere personeelsleden aanstellen of benoemen dan de personeelsleden die op dat ogenblik opgenomen zijn in het integratiekader.<br /><br />In afwijking van het eerste lid kan de hogeschool een personeelslid in het integratiekader tijdelijk vervangen op voorwaarde dat deze vervanging eindigt voor het einde van het academiejaar 2012-2013, in het uiterste geval op 30 september 2013. Deze vervangingen worden niet opgenomen in het integratiekader.<br /><br />§ 2. Een personeelslid dat op 1 februari 2013 een titularis in een betrekking vervangt en aldus opgenomen is in het integratiekader, kan na beeindiging van die aanstelling niet opnieuw aangesteld worden in het integratiekader. ».<br /><br />
+
+### ART. 101.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde af- deling 2 een artikel 171ter decies toegevoegd, dat luidt als volgt :<br />« Art. 171ter decies. Tot en met 30 september 2013 blijft de hogeschool de werkgever van de personeelsleden in het integratiekader. Met ingang van 1 oktober 2013 worden deze personeelsleden in het integratiekader overgedragen naar de universiteit die de academische opleidingen van de betrokken hogeschool integreert.<br /><br />De personeelsleden in het integratiekader bevinden zich in de administratieve stand dienstactiviteit, behalve bij een uitdrukkelijke bepaling die het personeelslid van rechtswege of bij beslissing van het hogeschoolbestuur in een andere administratieve stand plaatst.<br /><br />De rechtspositieregeling, zoals vastgelegd bij of krachtens dit decreet, is, met behoud van de toepassing van de bepalingen van dit hoofdstuk, van toepassing op de personeelsleden in het integratiekader. Ze behouden hun hoedanigheid van personeel van het niet-universitaire onderwijs. ».<br /><br />
+
+### ART. 102.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde afdeling 2 een artikel 171quater decies toegevoegd, dat luidt als volgt :<br />« Art. 171quater decies. In afwijking van artikel 101 kan een hogeschool na 1 februari 2013 geen lid van het onderwijzend personeel van groep 1 belasten met praktijkgericht onderwijs in een academische bacheloropleiding die met ingang van het academiejaar 2013-2014 integreert in een universiteit, als dat nog niet het geval was voor die datum, tenzij in het kader van een samenwerkingsovereenkomst overeenkomstig artikel 95 van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen. ».<br /><br />
+
+### ART. 103.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde af- deling 2 een artikel 171quinquies decies toegevoegd, dat luidt als volgt :<br />« Art. 171quinquies decies. In afwijking van artikel 104 kan het hogeschoolbestuur na 1 februari 2013 de titel van praktijkassistent niet verlenen aan leden van het assisterend personeel in het integratiekader. ».<br /><br />
+
+### ART. 104.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde af- deling 2 een artikel 171sexies decies toegevoegd, dat luidt als volgt :<br />« Art. 171sexies decies. In afwijking van artikel 117 en artikel 163 kan het hogeschoolbestuur na 1 februari 2013 geen vacante betrekking in het integratiekader toewijzen door werving. ».<br /><br />
+
+### ART. 105.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde af- deling 2 een artikel 171septies decies toegevoegd, dat luidt als volgt :<br />« Art. 171septies decies. Artikel 122, § 2, is niet van toepassing op de assistenten in het integratiekader. ».<br /><br />
+
+### ART. 106.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde af- deling 2 een artikel 171duodevicies toegevoegd, dat luidt als volgt :<br />« Art. 171duodevicies. In afwijking van artikel 123 kunnen doctor-assistenten in het integratiekader na een gunstige evaluatie voor een derde periode van ten hoogste drie jaar aangesteld worden. ».<br /><br />
+
+### ART. 107.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde af- deling 2 een artikel 171undevicies toegevoegd, dat luidt als volgt :<br />« Art. 171undevicies. Artikel 126 is vanaf 1 februari 2013 niet van toepassing op het onderwijzend personeel in het integratiekader. ».<br /><br />
+
+### ART. 108.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde af- deling 2 een artikel 171vicies toegevoegd, dat luidt als volgt :<br />« Art. 171vicies. In de overgangsperiode van 1 februari 2013 tot 30 september 2013 kunnen beslissingen ten aanzien van een individueel personeelslid in het integratiekader die fmanciele repercussies hebben na 30 september 2013 uitsluitend genomen worden door het hogeschoolbestuur na akkoord van de universiteit die het personeelslid integreert. ».<br /><br />
+
+### ART. 109.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde afdeling 2 een artikel 171vicies semel toegevoegd, dat luidt als volgt :<br />« Art. 171vicies semel. De universiteit en de hogeschool sluiten voor de overgangsperiode van 1 februari 2013 tot en met 30 september 2013 een overeenkomst waarin ten minste de volgende afspraken gemaakt worden :<br />1° de praktische regeling in verband met beslissingen over individuele personeelsaangelegenheden van personeelsleden in het integratiekader;<br />2° de praktische afhandeling van de personeelsdossiers in het integratiekader;<br />3° afspraken over de uitwisseling van gegevens van de personeelsleden in het integratiekader;<br />4° afspraken over de behandeling van mogelijke conflicten tussen de universiteit en de hogeschool over personeelsleden in het integratiekader. ».<br /><br />
+
+### ART. 110.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan hoofdstuk IV, toegevoegd bij artikel 93, een afdeling 3 toegevoegd, die luidt als volgt :<br />« Afdeling 3. - Contractuele personeelsleden verbonden aan een academische opleiding die met ingang van het academiejaar 2013-2014 integreert in een universiteit of aan een onderzoeksproject gerelateerd aan een dergelijke academische opleiding ».<br /><br />
+
+### ART. 111.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan afdeling 3, toegevoegd bij artikel 110, een artikel 171vicies bis toegevoegd, dat luidt als volgt :<br />« Art. 171vicies bis. De arbeidsovereenkomst van de contractuele personeelsleden die op het ogenblik van de integratie verbonden zijn aan een academische opleiding die met ingang van het academiejaar 2013-2014 integreert in een universiteit, of aan een onderzoeksproject gerelateerd aan een dergelijke academische opleiding, wordt met ingang van 1 oktober 2013 overgenomen door de desbetreffende universiteit.<br /><br />De hogeschool kan na 1 februari 2013 geen contractuele personeelsleden aanwerven voor de academische opleidingen die met ingang van het academiejaar 2013-2014 integreren in een universiteit of voor onderzoeksprojecten gerelateerd aan een dergelijke academische opleiding, tenzij :<br />1° het contract van het betrokken personeelslid afloopt voor het einde van het academiejaar 2012-2013, en uiterlijk op 30 september 2013; of<br />2° de universiteit hiertoe haar akkoord gegeven heeft. ».<br /><br />
+
+### ART. 112.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan hoofdstuk IV, toegevoegd bij artikel 93, een afdeling 4 toegevoegd, die luidt als volgt :<br />« Afdeling 4. - Personeelsleden die op 1 februari 2013 niet eenduidig kunnen toegewezen worden noch aan een academische opleiding die met ingang van het academiejaar 2013-2014 integreert in een universiteit, noch aan een professionele opleiding of aan een kunstopleiding ».<br /><br />
+
+### ART. 113.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan afdeling 4, toegevoegd bij artikel 112, een artikel 171vicies ter toegevoegd, dat luidt als volgt :<br />« Art. 171vicies ter. § 1. Een hogeschool die academische opleidingen aanbiedt die met ingang van het academiejaar 2013-2014 integreren in een universiteit, stelt een nominatieve lijst op van de personeelsleden die op 1 februari 2013 tewerkgesteld zijn in een centrale dienst of in een gemengd departement of gelijkaardige structurele indeling en die niet eenduidig kunnen worden toegewezen noch aan een academische opleiding die integreert in een universiteit, noch aan een kunstopleiding of aan een professionele opleiding, en die niet opgenomen worden in het integratiekader. De lijst is opgesplitst in de volgende vier deellijsten :<br />1° een deellijst die de leden van het administratief en technisch personeel bevat, bezoldigd ten laste van de werkingsuitkeringen;<br />2° een deellijst die de leden van het onderwijzend personeel bevat die belast zijn met administratieve taken en bezoldigd zijn ten laste van de werkingsuitkeringen;<br />3° een deellijst die de contractuele personeelsleden bevat, in zoverre de arbeidsovereenkomst van deze personeelsleden niet afloopt voor 1 oktober 2013;<br />4° een deellijst die het opvoedend hulppersoneel bevat;<br />5° een deellijst die de leden van het administratief en technisch personeel bevat waarvan de bezoldiging doorgerekend wordt op de sociale toelage van de hogeschool;<br />6° een deellijst die de contractuele personeelsleden bevat bezoldigd ten laste van de sociale toelage van de hogeschool.<br /><br />De lijst wordt goedgekeurd door de universiteit die de academische opleidingen integreert. De lijst wordt samen met het akkoord van beide instellingen uiterlijk op 1 april 2013 bezorgd aan de Vlaamse minister, bevoegd voor het onderwijs. De commissaris van de Vlaamse Regering bij de betrokken hogeschool verleent zijn visum op de lijst uiterlijk op 15 juni 2013. De Vlaamse Regering keurt de lijst goed voor 15 juli 2013.<br /><br />De lijst bevat zowel de titularissen als de plaatsvervangers die op 1 februari 2013 een titularis vervangen.<br /><br />In het geval er geen goedgekeurde lijst is op 1 april 2013 stelt de Vlaamse Regering uiterlijk op 15 juli 2013 een lijst samen, op basis van een voorstel van de commissarissen van de Vlaamse Regering bij de betrokken hogeschool en universiteit.<br /><br />§ 2. De hogeschool informeert de betrokken personeelsleden tijdig en voorziet in een procedure om administratieve onjuistheden recht te zetten. De leden van het hogeschoolonderhandelingscomite krijgen inzage in de lijst. Administratieve onjuistheden kunnen door de hogeschool rechtgezet worden tot op het ogenblik dat de regeringscommissaris zijn visum verleend heeft over de lijst, vermeld in paragraaf 1.<br /><br />§ 3. In afwijking van paragraaf 1 worden de personeelsleden, vermeld in artikel 171decies, § 2, niet opgenomen in de lijst.<br /><br />§ 4. De lijst bevat van ieder personeelslid de volgende gegevens :<br />1° de voor- en achternaam;<br />2° het stamboeknummer, indien van toepassing;<br />3° de graad, bekleed door het personeelslid;<br />4° het statuut (aangesteld of benoemd), indien van toepassing;<br />5° de aanduiding « titularis » of « vervanger van een titularis »;<br />6° de omvang van de opdracht, verbonden aan de graad, uitgedrukt in procenten, op 1 februari 2013;<br />7° de werkelijk uitgeoefende omvang van de opdracht, verbonden aan de graad, uitgedrukt in procenten, op 1 februari 2013, met vermelding van het eventuele verlofstelsel.<br /><br />Als het betrokken personeelslid geen titularis is, bevat de lijst ook :<br />1° de voornaam, achternaam en het stamboeknummer van de titularis die het personeelslid vervangt; 2° de vastgelegde einddatum van de aanstelling. ».<br /><br />
+
+### ART. 114.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde afdeling 4 een artikel 171vicies quater toegevoegd, dat luidt als volgt :<br />« Art. 171vicies quater. § 1. De personeelsleden die opgenomen zijn in de lijst, vermeld in artikel 171vicies ter, blijven personeelsleden van de hogeschool. Op de leden van het administratief en technisch personeel en op de leden van het onderwijzend personeel blijft de rechtspositieregeling, zoals vastgelegd bij of krachtens dit decreet, van toepassing.<br /><br />§ 2. Mits instemming van het betrokken personeelslid, de hogeschool en de universiteit kunnen leden van het administratief en technisch personeel en van het onderwijzend personeel, opgenomen in een deellijst, vermeld in artikel 171vicies ter, 1° en 2°, overgedragen worden naar het integratiekader.<br /><br />Met instemming van het betrokken personeelslid kunnen leden van het administratief en technisch personeel en van het onderwijzend personeel, opgenomen in een deellijst, vermeld in artikel 171vicies ter, 1° en 2°, gerangschikt worden in het universitaire kader, overeenkomstig de bepalingen vermeld in hoofdstuk Vbis, afdeling 2, van het Universiteitendecreet.<br /><br />Met instemming van het betrokken personeelslid en de hogeschool kan de universiteit het arbeidscontract overnemen van een contractueel personeelslid, opgenomen in de deellijst, vermeld in artikel 171vicies ter, 3°. ».<br /><br />
+
+### ART. 115.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde af- deling 4 een artikel 171vicies quinquies toegevoegd, dat luidt als volgt :<br />Art. 171vicies quinquies. Na 1 februari 2013 kunnen de volgende wijzigingen aangebracht worden in de lijst, vermeld in artikel 171vicies ter : <br />1° schrappen van personeelsleden :<br />a) bij het beeindigen van de aanstelling van rechtswege, op initiatief van de instelling of op eigen initiatief van het personeelslid;<br />b) bij een definitieve ambtsneerlegging, overeenkomstig artikel 93, of op eigen initiatief van het personeelslid;<br />c) bij het ter beschikking stellen wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen;<br />d) bij de beëindiging van de arbeidsovereenkomst;<br />e) bij rangschikking in het universitaire kader, overeenkomstig hoofdstuk Vbis, afdeling 2, van het Universiteitendecreet;<br />f) bij een wijziging van het takenpakket binnen de hogeschool, waarbij het personeelslid volledig toegewezen wordt aan een professionele opleiding of aan een kunstopleiding binnen een School of Arts;<br />g) bij opname in het integratiekader, zoals bedoeld in artikel 171vicies quater;<br />h) bij overname van de arbeidsovereenkomst door de universiteit, zoals bedoeld in artikel 171vicies quater;<br />2° wijzigen van gegevens :<br />a) verandering van statuut;<br />b) verandering van graad;<br />c) wijzigingen in de werkelijk uitgeoefende omvang van de opdracht, verbonden aan de graad.<br /><br />De wijzigingen worden door de hogeschool doorgeven aan het Vlaams Ministerie van Onderwijs en Vorming volgens de geldende afspraken of regelgeving. De Vlaamse Regering maakt jaarlijks een aangepaste lijst kenbaar die de situatie op 1 januari van dat jaar weergeeft. ».<br /><br />
+
+### ART. 116.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde afdeling 4 een artikel 171vicies sexies toegevoegd, dat luidt als volgt :<br />« Art. 171vicies sexies. De hogeschool en universiteit werken in gezamenlijk overleg een regeling uit voor de personeelsleden, vermeld in artikel 171vicies ter. Die overeenkomst bevat minimaal :<br />1° de opdracht, de taakomschrijving en de organisatorische eenheid waar het betrokken personeelslid zijn opdracht uitvoert;<br />2° de manier waarop de personeelskosten verdeeld worden tussen de hogeschool en de universiteit;<br />3° het bedrag van de werkingsuitkering van de universiteit dat jaarlijks toegevoegd wordt aan de werkingsuitkering van de hogeschool voor het dekken van de personeelskosten, vermeld in punt 2.<br /><br />De overeenkomst wordt voor 15 juli 2013 ter kennisgeving voorgelegd aan de Vlaamse Regering.<br /><br />Jaarlijks kan een aangepaste of nieuwe overeenkomst voor 15 juli ter kennisgeving voorgelegd worden aan de Vlaamse Regering. ».<br /><br />
+
+### ART. 117.
+
+<p>In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde af deling 4 een artikel 171vicies septies toegevoegd, dat luidt als volgt :<br>
+« Art. 171vicies septies. Bij gebrek aan een overeenkomst, vermeld in artikel 171vicies sexies, wordt de volgende regeling toegepast :<br>
+1° in de periode vanaf het begrotingsjaar 2014 tot en met het begrotingsjaar 2019 :<br>
+a) de personeelskosten van de personeelsleden opgenomen in de lijst, vermeld in artikel 171vicies ter worden jaarlijks verdeeld naar rato van het aantal financieringspunten van de academische opleidingen die met ingang van het academiejaar 2013-2014 integreren in de universiteit, berekend voor het begrotingsjaar 2011, in de hogeschool ten opzichte van het aantal financieringspunten in de professionele opleidingen en de kunstopleidingen;<br>
+b) het bedrag van de kosten berekend op basis van het aandeel van de academische opleidingen, vermeld in punt 1°, a) wordt in het begrotingsjaar 2014 afgetrokken van de werkingsuitkering van de universiteit, berekend conform artikel 32 van het Financieringsdecreet, en toegevoegd aan de werkingsuitkering van de hogeschool;<br>
+c) vanaf het begrotingsjaar 2015 wordt het bedrag van de kosten berekend op basis van het aandeel van de academische opleidingen, vermeld in punt 1°, b), afgebouwd overeenkomstig het volgende schema :</p>
+&nbsp;
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2015</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>92,5 % van het berekende bedrag</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2016</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>85 % van het berekende bedrag</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2017</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>77,5 % van het berekende bedrag</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2018</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>70 % van het berekende bedrag</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2019</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>62,5 % van het berekende bedrag</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>d) vanaf het begrotingsjaar 2015 wordt het bedrag van de personeelskosten jaarlijks geïndexeerd aan de hand van de indexformule vermeld in artikel 9, § 5, van het Financieringsdecreet;<br>
+2° in het begrotingsjaar 2019 wordt, op basis van de wijzigingen aangebracht aan de lijst, overeenkomstig artikel 171vicies quinquies, een geactualiseerde lijst vastgesteld van de niet eenduidig toewijsbare personeelsleden. Deze lijst wordt vanaf het begrotingsjaar 2020 jaarlijks aangepast aan de wijzigingen vermeld in artikel 171vicies quinquies;<br>
+3° in de periode vanaf het begrotingsjaar 2020 tot en met het begrotingsjaar 2024 :<br>
+a) vanaf het begrotingsjaar 2020 worden de personeelskosten van de personeelsleden<br>
+opgenomen op de jaarlijks geactualiseerde lijst verdeeld overeenkomstig de regeling, vermeld in 1°, a);<br>
+b) vanaf het begrotingsjaar 2020 wordt het bedrag van de kosten berekend op basis van het aandeel van de academische opleidingen, vermeld in punt 3°, a), afgebouwd overeenkomstig het volgende schema :</p>
+&nbsp;
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2020</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>100 % van het berekende bedrag, tenzij het aldus berekende bedrag groter is dan het bedrag berekend voor het begrotingsjaar 2019. In dat geval wordt het bedrag berekend voor het begrotingsjaar 2019 genomen.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2021</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>80 % van het berekende bedrag</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2022</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>60 % van het berekende bedrag</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2023</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>40 % van het berekende bedrag</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2024</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>20 % van het berekende bedrag</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>c) vanaf het begrotingsjaar 2020 wordt het bedrag van de personeelskosten jaarlijks geïndexeerd aan de hand van de indexformule vermeld in artikel 9, § 5, van het Financieringsdecreet.<br>
+<br>
+Die regeling gaat in vanaf het begrotingsjaar 2014. De financieringspunten zijn de financieringspunten, berekend overeenkomstig artikel 14 van het Financieringsdecreet, berekend voor het begrotingsjaar 2011.<br>
+<br>
+De Vlaamse Regering kan de percentages vermeld in 3°, b), aanpassen. ».<br>
+<br>
+<br>
+<br>
+&nbsp;</p>
+
+### ART. 118.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2011, wordt aan dezelfde afdeling 4 een artikel 171duodetricies toegevoegd, dat luidt als volgt :<br />« Art. 171duodetricies. De assistenten die niet opgenomen zijn in het integratiekader of toegewezen aan een School of Arts behouden hun ambt van assistent ten persoonlijken titel. ».<br /><br />
+
 ## HOOFDSTUK 3 Andere wijzigingen
+
+### ART. 119.
+
+In artikel 122, § 2, van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap wordt een derde lid toegevoegd, dat luidt als volgt :<br />« In afwijking van het vorige lid bedraagt in het kader van de onderhandelingen vermeld in artikel 121sexies, § 2, het aantal effectieve afgevaardigden vier leden per representatieve vakorganisatie, waarbij twee leden afgevaardigden zijn van het personeel in het integratiekader. ».<br /><br />
+
+### ART. 120.
+
+In artikel 230 van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap, gewijzigd bij het decreet van 8 juli 1996, wordt het eerste lid vervangen door wat volgt :<br />« Het hogeschoolbestuur bepaalt samen met de begroting de formatie per ambt van het onderwijzend personeel en per graad van het administratief en technisch personeel dat ten laste van de werkingsuitkering wordt bezoldigd voor het volgende begrotingsjaar. De hogeschool stelt een afzonderlijke formatie op voor de personeelsleden toegewezen aan de Schools of Arts en voor de andere personeelsleden. Het deelt deze personeelsformaties binnen veertien dagen mee aan de Vlaamse Regering. De ambten op de personeelsformatie worden uitgedrukt in eenheden die overeenstemmen met voltijdse betrekkingen. De Vlaamse Regering kan hieromtrent nadere regels opstellen. ».<br /><br />
+
+### ART. 121.
+
+Artikel 231, § 1, van hetzelfde decreet, gewijzigd bij de decreten van 19 april 1995, 21 december 2001, 22 juni 2007 en 4 juli 2008, wordt vervangen door wat volgt :<br />« § 1. Bij het vaststellen van de jaarlijkse personeelsformaties neemt het hogeschoolbestuur met betrekking tot het onderwijzend personeel, uitgedrukt in voltijdse eenheden, de volgende regels in acht :<br />1° voor de personeelsformaties die betrekking hebben op de personeelsleden verbonden aan de professionele opleidingen en op de personeelsleden toegewezen aan de Schools of Arts : het aantal betrekkingen van hoofdpraktijklector en hoofdlector samen bedraagt ten hoogste 20 % van het aantal betrekkingen van praktijklector, hoofdpraktijklector, lector en hoofdlector samen;<br />2° voor de personeelsformatie die betrekking heeft op de personeelsleden toegewezen aan een School of Arts : het aantal betrekkingen van het assisterend personeel bedraagt ten minste 15 % van het aantal betrekkingen van assistent, doctor-assistent, werkleider, docent, hoofddocent, hoogleraar en gewoon hoogleraar samen verbonden aan de academische kunstopleidingen. Dit percentage van 15 % wordt herbekeken op het ogenblik dat er een generieke regeling is uitgewerkt voor de uitoefening van nevenactiviteiten in het hoger onderwijs;<br />3° voor de personeelsformaties die betrekking hebben op de personeelsleden verbonden aan de professionele opleidingen en op de personeelsleden toegewezen aan de Schools of Arts : het aantal vastbenoemde personeelsleden, uitgedrukt in voltijdse eenheden, bedraagt ten hoogste 72 % van het aantal leden van het onderwijzend personeel uitgedrukt in voltijdse eenheden. Hierbij wordt de bevordering of ambtswijziging van een reeds in de hogeschool benoemd personeelslid niet beschouwd als een nieuwe benoeming.<br /><br />Een benoeming of aanstelling in een ambt van het onderwijzend personeel is slechts mogelijk met inachtneming van bovenvermelde aantallen. ».<br /><br />
 
 ## TITEL 4 Wijzigingen in de financiering
 
