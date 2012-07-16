@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021905,
+  "title": "Ministerieel besluit van 2012-06-25 tot vaststelling van de modellen van de oproepingsbrieven voor de lokale en provinciale verkiezingen van 14 oktober 2012",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021905/VolledigDocument?datum=2012-07-16",
+  "source_sha256": "335d8cea76f35e0245ec82e1d7ed2e2ca22f9f64b3058c0441424eec07a00885",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021905&param=informatie",
+  "as_of": "2012-07-16",
+  "made": "2012-06-25",
+  "gazette": "2012-07-06",
+  "numac": 2012035750,
+  "document_start": "2012-07-16",
+  "document_end": "2018-07-18",
+  "in_force": "2012-07-16",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2012-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
