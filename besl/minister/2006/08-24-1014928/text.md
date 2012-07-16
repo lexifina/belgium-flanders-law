@@ -6,88 +6,88 @@ Bestuurszaken<br /><br />De Vlaamse minister van Binnenlands Bestuur, Stedenbele
 
 ### ART. 1.
 
-De oproepingsbrief voor deelname aan de verkiezing van de gemeenteraad in geval van manuele stemming wordt opgesteld overeenkomstig het model I, dat als bijlage I bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 2.
 
-De oproepingsbrief voor deelname aan de verkiezing van de gemeenteraad in geval van geautomatiseerde stemming wordt opgesteld overeenkomstig het model II, dat als bijlage II bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 3.
 
-De oproepingsbrief voor deelname aan de gelijktijdige verkiezing van de gemeenteraad en de provincieraad in geval van manuele stemming wordt opgesteld overeenkomstig het model III, dat als bijlage III bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 4.
 
-De oproepingsbrief voor deelname aan de gelijktijdige verkiezing van de gemeenteraad en de provincieraad in geval van geautomatiseerde stemming wordt opgesteld overeenkomstig het model IV, dat als bijlage IV bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 5.
 
-De oproepingsbrief voor deelname aan de gelijktijdige verkiezing van de gemeenteraad, de raad voor maatschappelijk welzijn en de provincieraad in geval van manuele stemming wordt opgesteld overeenkomstig het model V, dat als bijlage V bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 6.
 
-De oproepingsbrief voor deelname aan de gelijktijdige verkiezing van de gemeenteraad, de raad voor maatschappelijk welzijn en de provincieraad in geval van geautomatiseerde stemming wordt opgesteld overeenkomstig het model VI, dat als bijlage VI bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 7.
 
-De oproepingsbrief voor deelname aan de gelijktijdige verkiezing van de gemeenteraad, de districtsraad en de provincieraad in geval van geautomatiseerde stemming wordt opgesteld overeenkomstig het model VII, dat als bijlage VII bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 8.
 
-De oproepingsbrief voor deelname aan de gelijktijdige verkiezing van de gemeenteraad en de districtsraad in geval van geautomatiseerde stemming wordt opgesteld overeenkomstig het model VIII, dat als bijlage VIII bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 9.
 
-Het koninklijk besluit van 12 augustus 2000 tot vaststelling van het model van de oproepingsbrieven voor de verkiezingen van de provincieraden en de gemeenteraden, voor de verkiezing van de districtsraden en voor de rechtstreekse verkiezing van de raden voor maatschappelijk welzijn wordt opgeheven.<br /><br />
+...
 
 ### ART. 10.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.<br /><br />
+...
 
 ## Bijlage I
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/18_1.pdf#page=164" title=" bijlage 1" target="_blank" class="pdf">bijlage 1</a>
+...
 
 ## Bijlage II.
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/18_1.pdf#page=166" title=" bijlage 2" target="_blank" class="pdf">bijlage 2</a>
+...
 
 ## Bijlage III.
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/18_1.pdf#page=168" title=" bijlage 3" target="_blank" class="pdf">bijlage 3</a>
+...
 
 ## Bijlage IV.
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/18_1.pdf#page=170" title=" bijlage 4" target="_blank" class="pdf">bijlage 4</a>
+...
 
 ## Bijlage V.
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/18_1.pdf#page=172" title=" bijlage 5" target="_blank" class="pdf">bijlage 5</a>
+...
 
 ## Bijlage VI.
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/18_1.pdf#page=174" title=" bijlage 6" target="_blank" class="pdf">bijlage 6</a>
+...
 
 ## Bijlage VII.
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/18_1.pdf#page=176" title=" bijlage 7" target="_blank" class="pdf">bijlage 7</a>
+...
 
 ## Bijlage VIII.
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/18_1.pdf#page=178" title=" bijlage 8" target="_blank" class="pdf">bijlage 8</a>
+...

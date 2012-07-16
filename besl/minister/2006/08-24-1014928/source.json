@@ -2,16 +2,16 @@
   "codex_id": 1014928,
   "title": "Ministerieel besluit van 2006-08-24 tot vaststelling van de modellen van de oproepingsbrieven voor de verkiezingen van 8 oktober 2006",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014928/VolledigDocument?datum=2006-09-05",
-  "source_sha256": "0157771bb3875d598f2ac21504ce1f817566fe1924dc50a94e30431c72eb1a8c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014928/VolledigDocument?datum=2012-07-16",
+  "source_sha256": "3eebd19648b34cef701a5a69e96e5295925786d36f0de9909a3d88949ae994bb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014928&param=informatie",
-  "as_of": "2006-09-05",
+  "as_of": "2012-07-16",
   "made": "2006-08-24",
   "gazette": "2006-09-05",
   "numac": 2006036346,
   "document_start": "2006-09-05",
   "document_end": "2012-07-15",
-  "in_force": "2006-09-05",
+  "in_force": "2012-07-16",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2006-09-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-07-16; future article versions excluded; article text as the API gives it"
 }
