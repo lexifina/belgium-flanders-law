@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022399,
+  "title": "Ministerieel besluit van 2012-07-19 houdende wijziging van het ministerieel besluit van 5 april 2006 houdende toekenning van aanvullende en specifieke delegaties aan het hoofd van het departement Leefmilieu, Natuur en Energie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022399/VolledigDocument?datum=2012-07-19",
+  "source_sha256": "f29994696b39c05b7b1af81cf2797eeb1fa73079471d84a54ff93b184cdf23ae",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022399&param=informatie",
+  "as_of": "2012-07-19",
+  "made": "2012-07-19",
+  "gazette": "2012-10-18",
+  "numac": 2012205280,
+  "document_start": "2012-07-19",
+  "document_end": null,
+  "in_force": "2012-07-19",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
