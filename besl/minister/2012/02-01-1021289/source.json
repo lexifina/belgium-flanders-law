@@ -2,16 +2,16 @@
   "codex_id": 1021289,
   "title": "Ministerieel besluit van 2012-02-01 houdende de erkenning en subsidiëring van de VZW Vlaams Overleg Bewonersbelangen als samenwerkings- en overlegstructuur voor de erkende huurdiensten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021289/VolledigDocument?datum=2012-03-05",
-  "source_sha256": "3246fd0b9166649bfa2eac0b47736ceb857d7e39a5f69a7047aaaccbd9887c3e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021289/VolledigDocument?datum=2012-07-20",
+  "source_sha256": "ff422ffeaa1db9f1d7a9e6f6ca1da01b5d01045f23464c5f91bdb4e7bfe0da14",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021289&param=informatie",
-  "as_of": "2012-03-05",
+  "as_of": "2012-07-20",
   "made": "2012-02-01",
   "gazette": "2012-02-24",
   "numac": 2012035168,
   "document_start": "2012-03-05",
   "document_end": null,
-  "in_force": "2012-03-05",
+  "in_force": "2012-07-20",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2012-03-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-07-20; future article versions excluded; article text as the API gives it"
 }
