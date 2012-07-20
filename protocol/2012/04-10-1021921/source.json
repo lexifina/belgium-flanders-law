@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021921,
+  "title": "Protocol van 2012-04-10 tussen de Federale Regering en de in artikelen 128, 130 en 135 van de grondwet bedoelde overheden inzake de organisatie en financiering van een gezondheidsenquête",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021921/VolledigDocument?datum=2012-07-20",
+  "source_sha256": "e09d296003abe04ceacc87d35408a5bf2fbf0689cf4d0e63d3013d232487fadb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021921&param=informatie",
+  "as_of": "2012-07-20",
+  "made": "2012-04-10",
+  "gazette": "2012-07-10",
+  "numac": 2012024228,
+  "document_start": "2012-07-20",
+  "document_end": null,
+  "in_force": "2012-07-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
