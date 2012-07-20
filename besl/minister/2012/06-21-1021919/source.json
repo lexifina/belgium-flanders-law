@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021919,
+  "title": "Ministerieel besluit van 2012-06-21 tot wijziging van het ministerieel besluit van 1 februari 2012 houdende de toekenning van een facultatieve subsidie aan de vzw Vlaams Overleg Bewonersbelangen voor de ondersteuning van sociale verhuurkantoren op het vlak van woningkwaliteit en van het ministerieel besluit van 1 februari 2012 houdende de erkenning en subsidiëring van de vzw Vlaams Overleg Bewonersbelangen als samenwerkings- en overlegstructuur voor de erkende huurdiensten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021919/VolledigDocument?datum=2012-07-20",
+  "source_sha256": "617f7baa4234043bc30e509cc2ed19c45e8d95fd89866039e1e91de0dc6ed6af",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021919&param=informatie",
+  "as_of": "2012-07-20",
+  "made": "2012-06-21",
+  "gazette": "2012-07-10",
+  "numac": 2012203766,
+  "document_start": "2012-07-20",
+  "document_end": null,
+  "in_force": "2012-07-20",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
