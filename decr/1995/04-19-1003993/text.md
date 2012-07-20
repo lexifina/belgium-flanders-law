@@ -160,7 +160,15 @@ In de Inventaris wordt de datum vermeld van de aanvaarding van het vernieuwingsv
 
 ## [SUBAFDELING 1/1 OPSCHORTING INGEVOLGE EEN DEFINITIEF GESLOTEN BROWNFIELDCONVENANT (ing. Decr. 22 juni 2012, art. 2, I: 20 juli 2012)]
 
+### ART. 35/1.
+
+§ 1. De heffing kan op verzoek van de eigenaar(s) opgeschort worden voor de onroerende goederen die het voorwerp uitmaken van een brownfieldconvenant, definitief gesloten overeenkomstig hoofdstuk III van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten, voor zover de eigenaar actor is bij het brownfieldconvenant.<br /><br />§ 2. De opschorting kan worden toegekend voor een termijn die loopt vanaf de datum van de aanvraag van de opschorting tot aan de beëindiging van het brownfieldconvenant, overeenkomstig artikel 10, § 3, van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten. Op het einde van deze periode moet de verwaarlozing en/of de leegstand zijn beëindigd.<br /><br />§ 3. De heffing wordt opgeschort voor de onroerende goederen waarvoor op de datum van de vestiging van de heffing een opschorting ingevolge paragrafen 1 en 2 geldt.<br /><br />§ 4. De Vlaamse Regering kan de voorwaarden bepalen voor indiening en aanvaarding van het verzoek tot opschorting.
+
 ## [SUBAFDELING 1/2 OPSCHORTING INGEVOLGE EEN CONFORM VERKLAARD BODEMSANERINGSPROJECT (ing. Decr. 22 juni 2012, art. 4, I: 20 juli 2012)]
+
+### ART. 35/2.
+
+§ 1. De heffing kan op verzoek van de eigenaar(s) opgeschort worden voor de onroerende goederen die het voorwerp uitmaken van een door de OVAM conform verklaard bodemsaneringsproject overeenkomstig titel III, hoofdstuk V, van het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming.<br /><br />§ 2. De opschorting kan worden toegekend voor een termijn die loopt vanaf de datum van de aanvraag van de opschorting tot aan de datum van de eindverklaring van de OVAM overeenkomstig artikel 68 van het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming, evenwel met een maximumtermijn van vijf jaar vanaf de conformverklaring van het bodemsaneringsproject. Op het einde van deze periode moet de verwaarlozing en/of de leegstand zijn beëindigd.<br /><br />§ 3. De heffing wordt opgeschort voor de onroerende goederen waarvoor op de datum van de vestiging van de heffing een opschorting ingevolge paragrafen 1 en 2 geldt.<br /><br />§ 4. De Vlaamse Regering kan de voorwaarden bepalen voor indiening en aanvaarding van het verzoek tot opschorting.
 
 ## SUBAFDELING 2 OPSCHORTING VOOR NIEUWE EIGENAARS
 
@@ -192,7 +200,7 @@ Indien de eigenaar krachtens artikel 12 een aanvraag tot schrapping uit de Inven
 
 ### ART. 41.
 
-§ 1. [Indien de krachtens artikelen 34, 36 en 38 toegestane opschortingen bij het verstrijken van de toegestane opschortingstermijnen niet resulteren in een beëindiging van de vernieuwing en/of de leegstand, is de opgeschorte heffing alsnog verschuldigd voor deze termijnen vermeerderd met de intresten.<br /><br />§ 2. Indien de eigenaar aan wie een opschorting van de heffing krachtens artikelen 34, 36 of 38 is toegestaan, overgaat tot overdracht van het aan de heffing onderworpen goed, is de opgeschorte heffing, vermeerderd met de intresten, voor de termijn waarvoor de opschorting werd verkregen tot de datum van de authentieke akte van overdracht, alsnog verschuldigd.<br /><br />§ 3. Indien de eigenaar aan wie een opschorting van de heffing krachtens artikel 40 is toegestaan, overgaat tot overdracht van het aan de heffing onderworpen goed, is de opgeschorte heffing, vermeerderd met de intresten, alsnog verschuldigd vanaf de datum van betekening met een aangetekende brief zoals vermeld onder artikel 12.  <span class="reference">(verv. decr. 19 december 2003, art. 70, I: 1 januari 2004)</span> ]
+§ 1. Indien de krachtens artikelen 34, 35/1, 35/2, 36 en 38 toegestane opschortingen bij het verstrijken van de toegestane opschortingstermijnen niet resulteren in een beëindiging van de verwaarlozing en/of de leegstand, is de opgeschorte heffing alsnog verschuldigd voor deze termijnen vermeerderd met de intresten.<br /><br />§ 2. Indien de eigenaar aan wie een opschorting van de heffing krachtens artikelen 34, 35/1, 35/2, 36 of 38 is toegestaan, overgaat tot overdracht van het aan de heffing onderworpen goed, is de opgeschorte heffing, vermeerderd met de intresten, voor de termijn waarvoor de opschorting werd verkregen tot de datum van de authentieke akte van overdracht, alsnog verschuldigd.<br /><br />§ 3. Indien de eigenaar aan wie een opschorting van de heffing krachtens artikel 40 is toegestaan, overgaat tot overdracht van het aan de heffing onderworpen goed, is de opgeschorte heffing, vermeerderd met de intresten, alsnog verschuldigd vanaf de datum van betekening met een aangetekende brief zoals vermeld onder artikel 12.
 
 ### ART. 42.
 
