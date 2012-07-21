@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021954,
+  "title": "Decreet van 2012-06-22 houdende wijziging van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021954/VolledigDocument?datum=2012-07-21",
+  "source_sha256": "b641ab2bed454d1dc253157853cb0737c15a720e16ba1e676d5dedcb90c817af",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021954&param=informatie",
+  "as_of": "2012-07-21",
+  "made": "2012-06-22",
+  "gazette": "2012-07-20",
+  "numac": 2012035798,
+  "document_start": "2012-07-21",
+  "document_end": null,
+  "in_force": "2012-07-21",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2012-07-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
