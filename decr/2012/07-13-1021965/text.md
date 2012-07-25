@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK 1. Algemeen
 
+### ART. 1.
+
+Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
+
 ## HOOFDSTUK 2. Onderwijs
 
 ## Afdeling 1. Deeltijds Kunstonderwijs en Secundair Onderwijs
@@ -48,9 +52,29 @@ In artikel 18 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderw
 
 ## HOOFDSTUK 3. Vlaams Klimaatfonds
 
+### ART. 14.
+
+§ 1. Er wordt een 'Vlaams Klimaatfonds' opgericht, hierna 'genoemd het Fonds'. Het Fonds is een begrotingsfonds, in de zin van artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br /><br />§ 2. Met betrekking tot de Kyotoperiode worden aan het Fonds de volgende inkomsten toegewezen :<br />- de opbrengsten uit de veiling van emissierechten uit de toewijzingsreserve voor de eerste verbintenisperiode, zoals bedoeld in het besluit van de Vlaamse Regering van 7 december 2007 inzake verhandelbare emissierechten voor broeikasgassen;<br />- de opbrengsten van de administratieve geldboete vermeld in artikel 13.5.1. van het Energiedecreet van 8 mei 2009.<br /><br />§ 3. Met betrekking tot de Kyotoperiode mogen de inkomsten van het Fonds aangewend worden voor :<br />- de uitvoering van het Vlaamse beleid inzake de flexibiliteitsmechanismen van het Protocol van Kyoto;<br />- alle beleidskosten die verband houden met de voorbereiding, organisatie of bijdragen in het kader van klimaatveilingen;<br />- de in paragraaf 5 vermelde activiteiten, indien er na de eindafrekening voor de Kyotoperiode nog inkomsten resteren die niet benut werden voor deze eindafrekening.<br /><br />§ 4. Met betrekking tot de periodes na 2012 worden aan het Fonds de volgende inkomsten toegewezen :<br />- de opbrengsten voor Vlaanderen uit de veiling van emissierechten voor luchtvaartoperatoren vanaf 2012;<br />- de opbrengsten voor Vlaanderen uit de veiling van emissierechten voor BKG-inrichtingen vanaf 2012, met uitzondering van deze vermeld onder paragraaf 2;<br />- de opbrengsten van de administratieve geldboete vermeld in artikel 13.5.1. van het Energiedecreet van 8 mei 2009.<br /><br />§ 5. Met betrekking tot de periodes na 2012 mogen de inkomsten van het Fonds aangewend worden voor :<br />- de uitvoering van intern Vlaams klimaatbeleid met het oog op het behalen van de Vlaamse broeikasgasemissiereductiedoelstellingen;<br />- de uitvoering van het Vlaamse beleid inzake de flexibiliteitsmechanismen van het Protocol van Kyoto of zoals uitgewerkt in Europese of internationale wetgeving of akkoorden;<br />- de uitvoering van Vlaamse bijdrage(n) in het kader van de internationale steun aan ontwikkelingslanden in hun strijd tegen klimaatverandering in overeenstemming met de beslissingen van de United Nations Framework Convention on Climate Change (UNFCCC);<br />- de remediëring van competitiviteitsverlies bij de Vlaamse bedrijven ten gevolge van Europees of internationaal klimaatbeleid;<br />- alle beleidskosten die verband houden met de voorbereiding, organisatie of bijdragen in het kader van klimaatveilingen.<br /><br />§ 6. De Vlaamse Regering beschikt over de kredieten van het Fonds voor de financiering van de onder paragraaf 3 en paragraaf 5 vermelde taken.
+
 ## HOOFDSTUK 4. Wijzigingen aan het Energiedecreet van 8 mei 2009
 
+### ART. 15.
+
+In paragraaf 3 van artikel 3.2.1. van het Energiedecreet van 8 mei 2009 worden de woorden « en haar beleid inzake de flexibele mechanismen van het Protocol van Kyoto » opgeheven.<br />
+
+### ART. 16.
+
+In artikel 13.5.1. van hetzelfde decreet wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt :<br /><br />« De administratieve geldboete, vermeld in het eerste lid, wordt vanaf 1 januari 2014 overeenkomstig het Europese indexcijfer van de consumptieprijzen verhoogd. »
+
+### ART. 17.
+
+In artikel 13.7.1. van hetzelfde decreet worden na de woorden « vermeld in dit decreet » de volgende woorden ingevoegd « met uitzondering van de administratieve geldboete vermeld in artikel 13.5.1. »
+
 ## HOOFDSTUK 5. Bossencompensatiefonds
+
+### ART. 18.
+
+Aan artikel 17, § 2, van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, gewijzigd bij het decreet van 12 december 2008, wordt de volgende zinsnede toegevoegd :<br /><br />« en ontvangsten van niet aangewende middelen toegekend vanuit het Fonds voor de compenserende bebossing aan de Vlaamse Landmaatschappij of aan openbare besturen, natuurlijke personen en privaatrechtelijke rechtspersonen die bebossen. ».
 
 ## HOOFDSTUK 6. Drinkwater
 
@@ -60,13 +84,41 @@ In artikel 6bis, § 2, van het decreet van 24 mei 2002 betreffende water bestemd
 
 ## HOOFDSTUK 7. Fonds voor Landinrichting en Natuurlijke rijkdommen
 
+### ART. 20.
+
+Aan artikel 23 van het decreet van 21 december 1990 houdende begrotingstechnische bepalingen alsmede bepalingen tot begeleiding van de begroting 1991, het laatst gewijzigd bij het decreet van 8 juli 2011, worden aan het tweede lid van de eerste paragraaf een punt g) en een punt h) toegevoegd, die luiden als volgt :<br /><br />« g) de ontvangsten voortvloeiend uit de toepassing van artikel 6, artikel 31, artikel 57 en artikel 76 van de wet van 12 juli 1976 houdende bijzondere maatregelen inzake ruilverkaveling van landeigendommen uit kracht van de wet bij de uitvoering van grote infrastructuurwerken;<br />h) de ontvangsten voortvloeiend uit de toepassing van artikel 7 en artikel 52 van de wet van 10 januari 1978 houdende bijzondere maatregelen inzake ruilverkaveling van landeigendommen in der minne. ».
+
 ## HOOFDSTUK 8. Bekrachtiging van de gewijzigde verplichte bijdragen bestemd voor de promotie en afzetbevordering van de Vlaamse producten van de sectoren
+
+### ART. 21.
+
+Het besluit van de Vlaamse Regering van 9 september 2011 tot wijziging van bijlagen IV, VI en IX van het besluit van de Vlaamse Regering van 4 februari 1997 betreffende de verplichte bijdragen bestemd voor de promotie en afzetbevordering van de Vlaamse producten van de sectoren landbouw, tuinbouw en visserij wordt bekrachtigd overeenkomstig artikel 11, derde lid, van het decreet van 7 mei 2004 tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap « Vlaams Centrum voor Agro- en Visserijmarketing ».
+
+### ART. 22.
+
+Het besluit van de Vlaamse Regering van 30 maart 2012 tot wijziging van bijlage III van het besluit van de Vlaamse Regering van 4 februari 1997 betreffende de verplichte bijdragen bestemd voor de promotie en afzetbevordering van de Vlaamse producten van de sectoren landbouw, tuinbouw en visserij wordt bekrachtigd overeenkomstig artikel 11, derde lid, van het decreet van 7 mei 2004 tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap « Vlaams Centrum voor Agro- en Visserijmarketing ».
 
 ## HOOFDSTUK 9. Co-existentie van genetisch gemodificeerde suikerbieten en aardappelen met conventionele suikerbieten en aardappelgewassen, en biologische suikerbieten en aardappelgewassen
 
+### ART. 23.
+
+Artikel 2 van het besluit van de Vlaamse Regering van 10 november 2011 houdende de vaststelling van specifieke maatregelen voor de co-existentie van genetisch gemodificeerde suikerbieten met conventionele suikerbieten en biologische suikerbieten, dat het bedrag vastlegt van de verplichte bijdrage aan het Fonds voor Landbouw en Visserij voor de teelt van genetisch gemodificeerde suikerbieten, wordt bekrachtigd overeenkomstig artikel 7, § 3, van het decreet van 3 april 2009 houdende de organisatie van co-existentie van genetisch gemodificeerde gewassen met conventionele gewassen en biologische gewassen.
+
+### ART. 24.
+
+Artikel 2 van het besluit van de Vlaamse Regering van 10 november 2011 houdende de vaststelling van specifieke maatregelen voor de co-existentie van genetisch gemodificeerde aardappelgewassen met conventionele aardappelgewassen en biologische aardappelgewassen, dat het bedrag vastlegt van de verplichte bijdrage aan het Fonds voor Landbouw en Visserij voor de teelt van genetisch gemodificeerde aardappelgewassen, wordt bekrachtigd overeenkomstig artikel 7, § 3, van het decreet van 3 april 2009 houdende de organisatie van co-existentie van genetisch gemodificeerde gewassen met conventionele gewassen en biologische gewassen.
+
 ## HOOFDSTUK 10. Onderhoudspremie voor beschermde monumenten en stads- en dorpsgezichten
 
+### ART. 25.
+
+Aan de heer Joseph Haentjens wordt een premie van 9.367,65 euro toegekend, vastgelegd en uitbetaald voor de uitgevoerde onderhoudswerken aan het beschermd pand, gelegen Pontstraat 21 te 9300 Aalst. Deze premie wordt aangerekend op het begrotingsartikel NF0/1NF-C-2-G/WT (werking en toelagen - monumentenzorg).
+
 ## HOOFDSTUK 11. Gewezen DAC-statuut in de sportsector
+
+### ART. 26.
+
+De Vlaamse Regering wordt gemachtigd om voor de initiatieven in de sportsector die worden gesubsidieerd voor de loonkost van de personeelsleden in een gewezen DAC-statuut een regeling vast te leggen die de mogelijkheid voorziet om de subsidie voor de werknemers die na 31 december 2002 in dienst zijn gekomen uit te laten doven.
 
 ## HOOFDSTUK 12. Registratierechten
 
@@ -84,4 +136,12 @@ In artikel 212ter van hetzelfde wetboek worden de volgende wijzigingen aangebrac
 
 ## [HOOFDSTUK 13. DAB Audit Vlaanderen (verv. decr. 5 juli 2013, art. 17)]
 
+### ART. 30.
+
+Er wordt een dienst met afzonderlijk beheer opgericht, zoals bedoeld in artikel 3 van het decreet van 8 juli 2011 houdende de regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof met als naam DAB IAVA die belast wordt met het uitvoeren van auditopdrachten.<br /><br />De Vlaamse Regering bepaalt de organieke regels die van toepassing zijn op het financieel en materieel beheer van de dienst met afzonderlijk beheer IAVA.
+
 ## HOOFDSTUK 14. Slotbepalingen
+
+### ART. 31.
+
+Dit decreet treedt in werking op de dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van :<br />- artikelen 2, 3, 5, 7, 8 en 13, die uitwerking hebben met ingang van 1 januari 2012;<br />- artikelen 4, 6, 9, 10, 2°, 11, 6° en 7° en 12, die in werking treden op 1 september 2012;<br />- artikelen 10, 1°, 3° en 4° en 11, 1° tot en met 5°, die in werking treden op 1 januari 2013;<br />- artikel 19, dat uitwerking heeft met ingang van 1 januari 2010;<br />- artikelen 27 tot en met 29, die uitwerking hebben met ingang van 1 januari 2011.
