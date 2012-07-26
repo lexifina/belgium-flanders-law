@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021931,
+  "title": "Ministerieel besluit van 2012-06-25 tot vaststelling van nadere regels ter voorkoming van verstruiking van grasland met ongewenste vegetatie, ter uitvoering van artikel 11, 4°, eerste lid, van het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021931/VolledigDocument?datum=2012-07-26",
+  "source_sha256": "128ff8cac1f2213e0ed7f49d6235c9f41be52c9aa8ba968518973771ee87c413",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021931&param=informatie",
+  "as_of": "2012-07-26",
+  "made": "2012-06-25",
+  "gazette": "2012-07-16",
+  "numac": 2012203863,
+  "document_start": "2012-07-26",
+  "document_end": "2014-12-31",
+  "in_force": "2012-07-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-07-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
