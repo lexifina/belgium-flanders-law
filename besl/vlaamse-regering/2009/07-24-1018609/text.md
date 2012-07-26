@@ -521,13 +521,13 @@ In deze bijlage wordt verstaan onder :<br />1° de dienst : de dienst voor gezin
 
 ### ART. 2.
 
-De programmatie voor gezinszorg bestaat uit programmacijfers voor de uren persoonsverzorging en huishoudelijke hulp, verstrekt door de erkende diensten voor gezinszorg en aanvullende thuiszorg.<br /><br />De programmacijfers, vermeld in het eerste lid, worden voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad, op basis van de leeftijd van de inwoners als volgt vastgelegd :<br />1° per inwoner van de leeftijdsgroep tot 59 jaar : 0,62 uur per jaar; <br />2° per inwoner van de leeftijdsgroep vanaf 60 tot en met 64 jaar : 1,68 uur per jaar;<br />3° per inwoner van de leeftijdsgroep vanaf 65 tot en met 74 jaar : 4,58 uur per jaar;<br />4° per inwoner van de leeftijdsgroep vanaf 75 tot en met 84 jaar : 17,5 uur per jaar; <br />5° per inwoner van de leeftijdsgroep vanaf 85 jaar : 40 uur per jaar. <br /><br />Voor de toepassing van de programmacijfers wordt uitgegaan van de bevolkingsprojectie van het jaar dat volgt op het jaar waarop de programmatie betrekking heeft. Die bevolkingsprojectie wordt door de minister vastgelegd en moet ten minste aan de volgende voorwaarden voldoen : <br />1° ze is afzonderlijk per kalenderjaar opgesteld; <br />2° ze is specifiek voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad berekend.<br /><br />
+De programmatie voor de diensten voor gezinszorg en aanvullende thuiszorg bestaat uit programmacijfers voor de uren persoonsverzorging en huishoudelijke hulp, verstrekt door de erkende diensten voor gezinszorg en aanvullende thuiszorg.<br /><br />De programmacijfers, vermeld in het eerste lid, worden voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad, op basis van de leeftijd van de inwoners als volgt vastgelegd :<br />1° per inwoner van de leeftijdsgroep tot 59 jaar : 0,62 uur per jaar; <br />2° per inwoner van de leeftijdsgroep vanaf 60 tot en met 64 jaar : 1,68 uur per jaar;<br />3° per inwoner van de leeftijdsgroep vanaf 65 tot en met 74 jaar : 4,58 uur per jaar;<br />4° per inwoner van de leeftijdsgroep vanaf 75 tot en met 84 jaar : 17,5 uur per jaar; <br />5° per inwoner van de leeftijdsgroep vanaf 85 jaar : 40 uur per jaar. <br /><br />Voor de toepassing van de programmacijfers wordt uitgegaan van de bevolkingsprojectie van het jaar dat volgt op het jaar waarop de programmatie betrekking heeft. Die bevolkingsprojectie wordt door de minister vastgelegd en moet ten minste aan de volgende voorwaarden voldoen : <br />1° ze is afzonderlijk per kalenderjaar opgesteld; <br />2° ze is specifiek voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad berekend.<br /><br />
 
 ## Afdeling II [... (opgeh. BVR 22 juni 2012, art. 1, I: 26 juli 2012)]
 
 ### ART. 3.
 
-De programmatie aanvullende thuiszorg bestaat uit 2.331,07 VTE logistiek personeel en 227,64 VTE doelgroepwerknemers, wat overeenstemt met 3.866.129,26 uren aanvullende thuiszorg. <br /><br />Die programmatie omvat tevens de uren voor de diensten voor logistieke hulp, vermeld in bijlage II.<br /><br />
+...<br /><br />
 
 ## HOOFDSTUK III Specifieke erkenningsvoorwaarden
 
@@ -759,7 +759,7 @@ In deze bijlage wordt verstaan onder :<br />1° logistiek personeel : personen, 
 
 ### ART. 2.
 
-Voor de diensten voor logistieke hulp geldt geen afzonderlijke programmatie. De programmatie aanvullende thuiszorg, vermeld in artikel 3 van bijlage I, omvat tevens het aantal VTE logistiek personeel en het aantal VTE doelgroepwerknemers voor de diensten voor logistieke hulp. <br /><br />
+Het maximale aantal te erkennen diensten voor logistieke hulp wordt bepaald op twee diensten voor logistieke hulp per gemeente.<br />
 
 ## HOOFDSTUK III Specifieke erkenningsvoorwaarden
 
