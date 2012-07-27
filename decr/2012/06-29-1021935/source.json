@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021935,
+  "title": "Decreet van 2012-06-29 houdende instemming met het Samenwerkingsakkoord van 17 oktober 2011 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH)",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021935/VolledigDocument?datum=2012-07-27",
+  "source_sha256": "ad28df49c05cc0f4ad56ce92bde93336d1bae4a413f0d03c5bf8e98e7dd585c6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021935&param=informatie",
+  "as_of": "2012-07-27",
+  "made": "2012-06-29",
+  "gazette": "2012-07-17",
+  "numac": 2012035785,
+  "document_start": "2012-07-27",
+  "document_end": null,
+  "in_force": "2012-07-27",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-07-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
