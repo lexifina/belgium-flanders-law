@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021940,
+  "title": "Besluit van de Vlaamse Regering van 2012-06-15 tot erkenning van de professioneel gerichte bacheloropleiding bachelor in de integrale veiligheid als nieuwe opleiding van de Plantijn-Hogeschool van de provincie Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021940/VolledigDocument?datum=2012-07-27",
+  "source_sha256": "24d38d7594a6d668cca5785eb16476ad550bed1f25c13c5e9a7b8644963ac77c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021940&param=informatie",
+  "as_of": "2012-07-27",
+  "made": "2012-06-15",
+  "gazette": "2012-07-17",
+  "numac": 2012035789,
+  "document_start": "2012-07-27",
+  "document_end": null,
+  "in_force": "2012-07-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-07-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
