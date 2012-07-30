@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021988,
+  "title": "Decreet van 2012-07-13 houdende wijziging van het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021988/VolledigDocument?datum=2012-07-30",
+  "source_sha256": "2e7e476149d13dcadba0557551f622675b455fdd3bfe9191fc85419897c873aa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021988&param=informatie",
+  "as_of": "2012-07-30",
+  "made": "2012-07-13",
+  "gazette": "2012-07-30",
+  "numac": 2012035872,
+  "document_start": "2012-07-30",
+  "document_end": null,
+  "in_force": "2012-07-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-07-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
