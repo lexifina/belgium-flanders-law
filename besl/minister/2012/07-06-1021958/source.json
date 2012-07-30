@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021958,
+  "title": "Ministerieel besluit van 2012-07-06 tot wijziging van artikel 2 van het ministerieel besluit van 15 oktober 2007 tot uitvoering van het besluit van de Vlaamse Regering van 27 april 2007 betreffende steun aan investeringen in de omkaderingssector van land- en tuinbouw",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021958/VolledigDocument?datum=2012-07-30",
+  "source_sha256": "6ef0c29b1d4ebc7ed4b91737f9fe1d07054b18cd36153e4a74fa46e245e86730",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021958&param=informatie",
+  "as_of": "2012-07-30",
+  "made": "2012-07-06",
+  "gazette": "2012-07-20",
+  "numac": 2012204028,
+  "document_start": "2012-07-30",
+  "document_end": null,
+  "in_force": "2012-07-30",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-07-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
