@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021956,
+  "title": "Besluit van de Vlaamse Regering van 2012-06-29 houdende de gedeeltelijke herverdeling van de provisionele kredieten ingeschreven onder begrotingsartikel FB0/1FB-I-2-Z/PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2012",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021956/VolledigDocument?datum=2012-07-30",
+  "source_sha256": "2ca3ffbbda90add01e0bf1705e3136dc072d98e57c40959e45cebee751e1fd4c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021956&param=informatie",
+  "as_of": "2012-07-30",
+  "made": "2012-06-29",
+  "gazette": "2012-07-20",
+  "numac": 2012203967,
+  "document_start": "2012-07-30",
+  "document_end": null,
+  "in_force": "2012-07-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-07-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
