@@ -6,8 +6,8 @@ De Vlaamse Minister van Cultuur, Jeugd, Sport en Brussel, <br /><br />Gelet op h
 
 ### ART. 1.
 
-Het intern tuchtreglement inzake dopingpraktijken gepleegd door elitesporters of begeleiders van de vzw Vlaamse Tennisvereniging, wordt erkend vanaf de datum van ondertekening van dit besluit voor een termijn van drie jaar.
+...
 
 ### ART. 2.
 
-Dit besluit wordt bekendgemaakt in het Belgisch Staatsblad.
+...
