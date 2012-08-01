@@ -36,6 +36,10 @@ In artikel X 28, § 1, van hetzelfde besluit, vervangen bij het besluit van   de
 
 In deel X, titel 6, hoofdstuk 1, van hetzelfde besluit wordt een artikel X   28ter ingevoegd, dat luidt als volgt :<BR>« Art. X 28ter. In afwijking van   artikel X 28, § 1 bedraagt de maximumduur voor voltijdse en deeltijdse   loopbaanonderbreking 72 maanden voor :<BR>1° de loopbaanonderbrekingen en de   verlengingen van loopbaanonderbreking die ingingen voor 1 januari 2012;<BR>2° de   loopbaanonderbrekingen en de verlengingen van loopbaanonderbreking die aan de   drie volgende voorwaarden voldoen :<BR>a) de werkgever werd schriftelijk op de   hoogte gesteld voor 28 november 2011;<BR>b) de RVA ontving de aanvraag voor 2   maart 2012;<BR>de loopbaanonderbreking vangt voor 3 april 2012 aan.   ».<BR>
 
+### ART. 29.
+
+Aan X 36, § 1, van hetzelfde besluit, vervangen bij het besluit van de   Vlaamse Regering van 6 juli 2007 worden de volgende wijzigingen aangebracht   :<BR>1° in punt 1° worden de woorden « drie maanden » vervangen door de woorden   « vier maanden »;<BR>2° in punt 2° worden de woorden « zes maanden » vervangen   door de woorden « acht maanden »;<BR>3° in punt 3° worden de woorden « vijftien   maanden » vervangen door de woorden « twintig maanden ».<BR>
+
 ### ART. 34.
 
 In hetzelfde besluit wordt bijlage 4, vervangen bij het besluit van de   Vlaamse Regering van 29 mei 2009 en gewijzigd bij de besluiten van de Vlaamse   Regering van 22 januari 2010 en 29 april 2011, vervangen door bijlage 1, die bij   dit besluit is gevoegd.<BR>
