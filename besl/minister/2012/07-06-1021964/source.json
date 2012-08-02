@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021964,
+  "title": "Ministerieel besluit van 2012-07-06 houdende de vaststelling van de inrichting van de stemlokalen en van het kiesmaterieel voor de stembureaus in de gemeenten waar met een digitaal stemsysteem wordt gestemd",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021964/VolledigDocument?datum=2012-08-02",
+  "source_sha256": "4227aadd5ac740e5eb6bbd5aa8f8f012cf029281a8080f3fbc23b5ff11168b3f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021964&param=informatie",
+  "as_of": "2012-08-02",
+  "made": "2012-07-06",
+  "gazette": "2012-07-23",
+  "numac": 2012035814,
+  "document_start": "2012-08-02",
+  "document_end": "2018-09-20",
+  "in_force": "2012-08-02",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2012-08-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
