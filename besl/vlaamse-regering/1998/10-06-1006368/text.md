@@ -90,7 +90,7 @@ De voorwaarden inzake herhuisvesting, bedoeld in artikel 18, § 2, tweede lid, v
 
 ### ART. 17.
 
-De conformiteit van de woningen met de vereisten inzake veiligheid, gezondheid, woonkwaliteit, brandveiligheid en woningbezetting kan gecontroleerd worden, in zoverre de controle gebeurt met het oog op de afgifte of de intrekking van een conformiteitsattest, door de door de burgemeester aangewezen technische ambtenaren van de gemeente, waar de woning die als hoofdverblijfplaats gelegen is, onverminderd het bepaalde in artikel 2.
+De conformiteit van de woningen met de vereisten inzake veiligheid, gezondheid, woonkwaliteit, brandveiligheid en woningbezetting kan gecontroleerd worden, in zoverre de controle gebeurt met het oog op de afgifte of de intrekking van een conformiteitsattest, door de woningcontroleurs die de burgemeester van de gemeente waarin de woning ligt aanwijst, onverminderd het bepaalde in artikel 2.
 
 ## AFDELING 2 NORMEN INZAKE NIET-CONFORMITEIT
 
