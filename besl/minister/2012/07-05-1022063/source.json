@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022063,
+  "title": "Ministerieel besluit van 2012-07-05 houdende vaststelling van het draaiboek voor de prestatiebeoordeling van sociale huisvestingsmaatschappijen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022063/VolledigDocument?datum=2012-08-10",
+  "source_sha256": "84f028700a1ae681cbee75c2db9db9f9967beb3ad5be1d88cf919852dc0f0761",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022063&param=informatie",
+  "as_of": "2012-08-10",
+  "made": "2012-07-05",
+  "gazette": "2012-08-10",
+  "numac": 2012203954,
+  "document_start": "2012-08-10",
+  "document_end": "2017-06-24",
+  "in_force": "2012-08-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
