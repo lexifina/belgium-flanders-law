@@ -2,16 +2,16 @@
   "codex_id": 1016315,
   "title": "Besluit van de Vlaamse Regering van 2007-10-26 betreffende het Maritiem Reddings- en Coördinatiecentrum",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016315/VolledigDocument?datum=2007-11-18",
-  "source_sha256": "46ee475d57b35129ab9f9497159f0d1e630db89b6d3f1c1c0a77554e402e7cd0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016315/VolledigDocument?datum=2012-08-11",
+  "source_sha256": "235dd4208febedee440519974cdf92b407b97083852c89bf484595a21ceeac92",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016315&param=informatie",
-  "as_of": "2007-11-18",
+  "as_of": "2012-08-11",
   "made": "2007-10-26",
   "gazette": "2007-11-08",
   "numac": 2007036934,
   "document_start": "2007-11-18",
   "document_end": null,
-  "in_force": "2007-11-18",
-  "article_versions": 15,
-  "record_form": "consolidated version as in force on 2007-11-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-08-11",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2012-08-11; future article versions excluded; article text as the API gives it"
 }
