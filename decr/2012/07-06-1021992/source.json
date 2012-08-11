@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021992,
+  "title": "Decreet van 2012-07-06 tot wijziging van diverse bepalingen van het decreet van 16 juni 2006 betreffende de begeleiding van de scheepvaart op de maritieme toegangswegen naar de havens en de organisatie van het Maritiem Reddings- en Coördinatiecentrum",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021992/VolledigDocument?datum=2012-08-11",
+  "source_sha256": "e86ed0c1848f2bd42a1820baff5c506d3ba8b0b8ef764dabd772cbf0e4a05d8c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021992&param=informatie",
+  "as_of": "2012-08-11",
+  "made": "2012-07-06",
+  "gazette": "2012-08-01",
+  "numac": 2012035899,
+  "document_start": "2012-08-11",
+  "document_end": null,
+  "in_force": "2012-08-11",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2012-08-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
