@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021996,
+  "title": "Besluit van de Vlaamse Regering van 2012-07-13 tot wijziging van verscheidene besluiten bij het Scheepvaartbegeleidingsdecreet",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021996/VolledigDocument?datum=2012-08-11",
+  "source_sha256": "a5981ec036033941c0207d8c184dd8b59454104f3c98ccae6567c60d36e166cf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021996&param=informatie",
+  "as_of": "2012-08-11",
+  "made": "2012-07-13",
+  "gazette": "2012-08-01",
+  "numac": 2012035891,
+  "document_start": "2012-08-11",
+  "document_end": null,
+  "in_force": "2012-08-11",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2012-08-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
