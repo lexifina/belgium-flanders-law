@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 16 juni 2006 betreffend
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° decreet : het decreet van 16 juni 2006 betreffende de begeleiding van de scheepvaart op de maritieme toegangswegen en de organisatie van het Maritiem Reddings- en Coördinatiecentrum;<br />2° centraal beheersysteem : het centraal beheersysteem, vermeld in artikel 13 en 14 van het decreet;<br />3° SafeSeaNet : het communautaire systeem voor de uitwisseling van maritieme informatie, dat door de Europese Commissie in samenwerking met de lidstaten is ontwikkeld ter uitvoering van de Monitoringrichtlijn;<br />4° nationaal bevoegde autoriteit, afgekort NCA : de autoriteit die belast is met de gegevensuitwisseling met SafeSeaNet.<br />
+In dit besluit wordt verstaan onder :<br />1° decreet : het decreet van 16 juni 2006 betreffende de begeleiding van de scheepvaart op de maritieme toegangswegen en de organisatie van het Maritiem Reddings- en Coördinatiecentrum;<br />2° centraal beheersysteem : het centraal beheersysteem, vermeld in artikel 13 en 14 van het decreet;<br />3° SafeSeaNet : het communautaire systeem voor de uitwisseling van maritieme informatie, dat door de Europese Commissie in samenwerking met de lidstaten is ontwikkeld ter uitvoering van de Europeesrechtelijke regelgeving;<br />4° nationaal bevoegde autoriteit, afgekort NCA : de autoriteit die belast is met de gegevensuitwisseling met SafeSeaNet.<br />
 
 ## HOOFDSTUK II. De beheerder van het centraal beheersysteem
 
