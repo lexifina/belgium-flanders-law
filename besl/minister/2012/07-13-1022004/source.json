@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022004,
+  "title": "Ministerieel besluit van 2012-07-13 houdende de toekenning van een kapitaalsubsidie aan de Vlaamse Maatschappij voor Sociaal Wonen (VMSW) ter financiering van het deelprogramma NFS2 van het uitvoeringsprogramma 2012 en ter financiering van het programma Bijzondere Sociale Leningen VMSW van 2012 en houdende de uitbetalingsmodaliteiten van de toegekende kapitaalsubsidies in de huur- en de eigendomssector ingevolge het betalingsplan 2012",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022004/VolledigDocument?datum=2012-08-13",
+  "source_sha256": "a469b532b459e95fcbc4e7ff011e86ac3504d680d1d45401569198f5e93ccbf9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022004&param=informatie",
+  "as_of": "2012-08-13",
+  "made": "2012-07-13",
+  "gazette": "2012-08-03",
+  "numac": 2012035888,
+  "document_start": "2012-08-13",
+  "document_end": null,
+  "in_force": "2012-08-13",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2012-08-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
