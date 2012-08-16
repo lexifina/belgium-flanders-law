@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022009,
+  "title": "Ministerieel besluit van 2012-07-05 tot wijziging van het ministerieel besluit van 26 juli 2011 tot erkenning van centra voor varkens ter uitvoering van artikelen 35 en 59, § 2, van het Fokkerijbesluit van 19 maart 2010, wat betreft de opheffing van de erkenning van Bart Thienpont en Jos Frantsen als centrum voor de winning en opslag van sperma van varkens, de erkenning van Bart Thienpont als centrum voor de opslag van sperma van varkens en de wijziging van de gegevens van de centra Bropa Bvba, Bvba Peter Bonny, cv VKIV- Bevel, Erwin Daelman en Luc Ingels",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022009/VolledigDocument?datum=2012-08-16",
+  "source_sha256": "1f02101751ecf58206e4725d699fe953bd2c0f5dbcd506d3102af7cb4ad14ae6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022009&param=informatie",
+  "as_of": "2012-08-16",
+  "made": "2012-07-05",
+  "gazette": "2012-08-06",
+  "numac": 2012204235,
+  "document_start": "2012-08-16",
+  "document_end": null,
+  "in_force": "2012-08-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-08-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
