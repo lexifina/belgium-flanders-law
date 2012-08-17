@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022023,
+  "title": "Ministerieel besluit van 2012-07-12 tot bepaling van de datum van inwerkingtreding van artikel 1 van het besluit van de Vlaamse Regering van 23 maart 2012 tot wijziging van het besluit van de Vlaamse Regering van 18 januari 1995 betreffende de organisatie van het jachtexamen, van het besluit van de Vlaamse Regering van 30 mei 2008 betreffende de jachtopeningstijden in het Vlaamse Gewest voor de periode van 1 juli 2008 tot en met 30 juni 2013 en van het besluit van de Vlaamse Regering van 30 mei 2008 houdende vaststelling van de voorwaarden waaronder de jacht kan worden uitgeoefend",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022023/VolledigDocument?datum=2012-08-17",
+  "source_sha256": "6c67605b6c2787ae48fa6fa982df3f1683009a2d40f2762ac2efd7991f0c1209",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022023&param=informatie",
+  "as_of": "2012-08-17",
+  "made": "2012-07-12",
+  "gazette": "2012-08-07",
+  "numac": 2012204238,
+  "document_start": "2012-08-17",
+  "document_end": null,
+  "in_force": "2012-08-17",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-08-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
