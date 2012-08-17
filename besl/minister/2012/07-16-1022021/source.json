@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022021,
+  "title": "Ministerieel besluit van 2012-07-16 houdende de samenstelling van de jachtexamencommissie voor de periode 2012-2015",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022021/VolledigDocument?datum=2012-08-17",
+  "source_sha256": "05f066cdb7c2ed0ab801c60c8fcb66f91ff30e2ffde8a6bc3cab8ed74bad7ea5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022021&param=informatie",
+  "as_of": "2012-08-17",
+  "made": "2012-07-16",
+  "gazette": "2012-08-07",
+  "numac": 2012204271,
+  "document_start": "2012-08-17",
+  "document_end": "2015-08-16",
+  "in_force": "2012-08-17",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-08-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
