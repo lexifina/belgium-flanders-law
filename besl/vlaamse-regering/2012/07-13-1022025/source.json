@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022025,
+  "title": "Besluit van de Vlaamse Regering van 2012-07-13 tot afschaffing van delen van onbevaarbare waterlopen en klassering van delen van onbevaarbare waterlopen tot onbevaarbare waterlopen van eerste en tweede categorie in Lummen, Herk-de-Stad en Halen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022025/VolledigDocument?datum=2012-08-17",
+  "source_sha256": "6e346cb3f143cc2fe4054b0fc30165651a4c4e2643a2b294fd911473a16d103b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022025&param=informatie",
+  "as_of": "2012-08-17",
+  "made": "2012-07-13",
+  "gazette": "2012-08-07",
+  "numac": 2012204237,
+  "document_start": "2012-08-17",
+  "document_end": null,
+  "in_force": "2012-08-17",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2012-08-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
