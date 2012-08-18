@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022040,
+  "title": "Besluit van de Vlaamse Regering van 2012-07-20 tot voorlopige vaststelling van het ontwerp van gewestelijk ruimtelijk uitvoeringsplan voor de afbakening van de gebieden van de natuurlijke en agrarische structuur, regio Kust-Polders-Westhoek \"Zwin en Zwinbosjes\"",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022040/VolledigDocument?datum=2012-08-18",
+  "source_sha256": "bb28a2952bdc45138211ab1effbcfc01c23aa9b09cc9f5f6c027721b30662c76",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022040&param=informatie",
+  "as_of": "2012-08-18",
+  "made": "2012-07-20",
+  "gazette": "2012-08-08",
+  "numac": 2012204348,
+  "document_start": "2012-08-18",
+  "document_end": null,
+  "in_force": "2012-08-18",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-08-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
