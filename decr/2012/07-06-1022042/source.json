@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022042,
+  "title": "Decreet van 2012-07-06 betreffende de machtiging tot oprichting van een Vlaamse vereniging voor ICT-personeel",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022042/VolledigDocument?datum=2012-08-18",
+  "source_sha256": "bae339a0880387fb346ab127b891358dfab2aeb9b44c4a5de69eb39cb637487c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022042&param=informatie",
+  "as_of": "2012-08-18",
+  "made": "2012-07-06",
+  "gazette": "2012-08-08",
+  "numac": 2012035902,
+  "document_start": "2012-08-18",
+  "document_end": null,
+  "in_force": "2012-08-18",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2012-08-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
