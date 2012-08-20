@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022060,
+  "title": "Besluit van de Vlaamse Regering van 2012-07-20 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 24 maart 1993 tot vaststelling van de modaliteiten voor de subsidiëring van de aankoop van apparatuur voor geluidsmetingen door provincie- en gemeentebesturen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022060/VolledigDocument?datum=2012-08-20",
+  "source_sha256": "a4616ba674d940171938f5d6c50e7a85aa3dc2ff555b8cdf9b19c565e6cc0cdd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022060&param=informatie",
+  "as_of": "2012-08-20",
+  "made": "2012-07-20",
+  "gazette": "2012-08-10",
+  "numac": 2012204353,
+  "document_start": "2012-08-20",
+  "document_end": null,
+  "in_force": "2012-08-20",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2012-08-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
