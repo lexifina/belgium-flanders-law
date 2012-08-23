@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022072,
+  "title": "Besluit van de Vlaamse Regering van 2012-07-20 tot vermindering van de studieomvang van de masteropleiding master in de geneeskunde in het hoger onderwijs in Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022072/VolledigDocument?datum=2012-08-23",
+  "source_sha256": "461842d3ab0f889467e492130cb06137ba71dc5bbcd98ebaf1762ecdad4c4e0a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022072&param=informatie",
+  "as_of": "2012-08-23",
+  "made": "2012-07-20",
+  "gazette": "2012-08-13",
+  "numac": 2012035933,
+  "document_start": "2012-08-23",
+  "document_end": null,
+  "in_force": "2012-08-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-08-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
