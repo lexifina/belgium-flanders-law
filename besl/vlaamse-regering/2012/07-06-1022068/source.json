@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022068,
+  "title": "Besluit van de Vlaamse Regering van 2012-07-06 tot wijziging van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake het milieubeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022068/VolledigDocument?datum=2012-08-23",
+  "source_sha256": "2791f7c1d153ab5f420aa24521ea965a6e017e258f392b1a88c9673ba4f24c76",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022068&param=informatie",
+  "as_of": "2012-08-23",
+  "made": "2012-07-06",
+  "gazette": "2012-08-13",
+  "numac": 2012204440,
+  "document_start": "2012-08-23",
+  "document_end": null,
+  "in_force": "2012-08-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-08-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
