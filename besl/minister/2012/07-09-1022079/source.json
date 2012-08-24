@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022079,
+  "title": "Ministerieel besluit van 2012-07-09 tot wijziging van diverse bepalingen van het ministerieel besluit van 11 juni 2008 betreffende het sluiten van beheersovereenkomsten en het toekennen van vergoedingen ter uitvoering van Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022079/VolledigDocument?datum=2012-08-24",
+  "source_sha256": "e410bf481f21dd4e91c54f87d109b7e07d776600d41f66e2ab113d77c6ef40eb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022079&param=informatie",
+  "as_of": "2012-08-24",
+  "made": "2012-07-09",
+  "gazette": "2012-08-14",
+  "numac": 2012204545,
+  "document_start": "2012-08-24",
+  "document_end": null,
+  "in_force": "2012-08-24",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2012-08-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
