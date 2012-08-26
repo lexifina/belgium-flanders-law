@@ -164,17 +164,17 @@ De steunintensiteit wordt berekend als een percentage van de in aanmerking komen
 
 ### ART. 27.
 
-De Vlaamse Regering kan steun verlenen aan publiekrechtelijke rechtspersonen die aangewezen zijn door de Vlaamse Regering voor de (her)uitrusting en (her)aanleg van terreinen en de oprichting, uitbreiding en modernisering van gebouwen in het Vlaamse Gewest, met het oog op het ter beschikking stellen van ondernemingen, onder de voorwaarden, vermeld in dit decreet en de uitvoeringsbesluiten.<br /><br />De Vlaamse Regering kan steun verlenen aan ondernemingen voor de (her)uitrusting en (her)aanleg van terreinen in het Vlaamse Gewest, met het oog op het ter beschikking stellen van ondernemingen, onder de voorwaarden, vermeld in dit decreet en de uitvoeringsbesluiten.
+...
 
 ## [Afdeling 2. Steunintensiteit (verv. decr. 20 november 2015, art. 29, I: 10 december 2015)]
 
 ### ART. 28.
 
-De steunintensiteit wordt berekend als een percentage van de in aanmerking komende kosten en investeringen.<br /><br />De Vlaamse Regering bepaalt welke kosten en investeringen voor de (her)uitrusting en (her)aanleg van terreinen en de oprichting, uitbreiding en modernisering van gebouwen, met het oog op het ter beschikking stellen van ondernemingen, in aanmerking komen.
+...
 
 ### ART. 29.
 
-De Vlaamse Regering bepaalt de steunpercentages voor de (her)uitrusting en (her)aanleg van terreinen en de oprichting, uitbreiding en modernisering van gebouwen, met het oog op het ter beschikking stellen van ondernemingen.
+...
 
 ## HOOFDSTUK 8. Steun voor de sanering van vervuilde bedrijventerreinen en bedrijfsgebouwen
 
@@ -182,29 +182,29 @@ De Vlaamse Regering bepaalt de steunpercentages voor de (her)uitrusting en (her)
 
 ### ART. 30.
 
-Voor de toepassing van dit hoofdstuk wordt verstaan onder vervuiler : degene die direct of indirect schade toebrengt aan het milieu of die de voorwaarden schept die deze schade veroorzaken.
+...
 
 ## Afdeling 2. Toepassingsgebied
 
 ### ART. 31.
 
-De Vlaamse Regering kan steun verlenen aan ondernemingen en publiekrechtelijke rechtspersonen die aangewezen zijn door de Vlaamse Regering voor de sanering van een vervuild terrein of gebouw in het Vlaamse Gewest, als de vervuiler niet bekend is of niet aansprakelijk kan worden gesteld, met het oog op het ter beschikking stellen van ondernemingen, onder de voorwaarden, vermeld in dit decreet en de uitvoeringsbesluiten.
+...
 
 ## Afdeling 3. Steunintensiteit
 
 ### ART. 32.
 
-De steunintensiteit wordt berekend als een percentage van de in aanmerking komende kosten en investeringen.<br /><br />De Vlaamse Regering kan de kosten van de sanering, verminderd met de waardestijging van het terrein in aanmerking nemen. Alle uitgaven die door de onderneming voor de sanering van het terrein worden gedaan, worden beschouwd als in aanmerking komende investeringen, ongeacht of zij boekhoudkundig als vaste activa kunnen worden geboekt.
+...
 
 ### ART. 33.
 
-De Vlaamse Regering kan steun verlenen tot maximaal 100 % van de in aanmerking komende kosten.<br /><br />Het totale bedrag van de steun kan in geen geval hoger zijn dan de daadwerkelijke uitgaven van de onderneming.
+...
 
 ## HOOFDSTUK 9. Verwerving van gronden en gebouwen
 
 ### ART. 34.
 
-Ter ondersteuning van zijn economisch beleid, in het kader van de opwaardering van de stedelijke gebieden, ter bestrijding van de leegstand van verlaten bedrijfssites of om strategische redenen, kan het Vlaamse Gewest gebouwen en gronden aankopen met het oog op het ter beschikking stellen van ondernemingen.<br /><br />Om de doelstelling, vermeld in het eerste lid, te realiseren, kan het Vlaamse Gewest de opdracht geven tot het ontwikkelen en saneren van bedrijventerreinen, alsook om bedrijfsgebouwen op te richten, herin te richten of te saneren.
+...
 
 ## HOOFDSTUK 10. Steun aan ondernemingen die getroffen worden door een openbare ramp of crisis
 
