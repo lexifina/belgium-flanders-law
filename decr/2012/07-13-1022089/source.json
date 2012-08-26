@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022089,
+  "title": "Decreet van 2012-07-13 tot wijziging van diverse bepalingen van het decreet van 13 december 2002 houdende de oprichting van de naamloze vennootschap van publiekrecht Beheersmaatschappij Antwerpen Mobiel (BAM)",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022089/VolledigDocument?datum=2012-08-26",
+  "source_sha256": "a6fa690afe3bd18cb2243e5f4267d14975ebfb4698996e1b05bb847dda3305ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022089&param=informatie",
+  "as_of": "2012-08-26",
+  "made": "2012-07-13",
+  "gazette": "2012-08-16",
+  "numac": 2012035954,
+  "document_start": "2012-08-26",
+  "document_end": null,
+  "in_force": "2012-08-26",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2012-08-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
