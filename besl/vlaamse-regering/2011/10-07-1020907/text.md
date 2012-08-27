@@ -69,7 +69,7 @@ Op voordracht van het Steunpunt voor Algemeen Welzijnswerk, Diksmuidelaan 36a, 2
 
 ### ART. 11/1.
 
-Op voordracht van de Diensten Maatschappelijk werk van de Ziekenfondsen worden de volgende personen benoemd tot respectievelijk effectief en plaatsvervangend lid: Mevr. Marleen Vanhees, Landsbond der Christelijke Mutualiteiten, Haachtsesteenweg 579, bus 40, 1031 Brussel en de heer Luc De Tavernier, Landsbond van de Onafhankelijke Ziekenfondsen, Sint-Huibrechtsstraat 19, 1150 Brussel.
+Op voordracht van de Diensten Maatschappelijk werk van de Ziekenfondsen   worden de volgende personen benoemd tot respectievelijk effectief en   plaatsvervangend lid: Mevr. Katrien Van Kets, Landsbond der Christelijke   Mutualiteiten, Haachtsesteenweg 579, bus 40, 1031 Brussel en de heer Luc De   Tavernier, Landsbond van de Onafhankelijke Ziekenfondsen, Sint-Huibrechtsstraat   19, 1150 Brussel.
 
 ### ART. 12.
 
