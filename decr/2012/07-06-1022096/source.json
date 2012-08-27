@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022096,
+  "title": "Decreet van 2012-07-06 houdende instemming met het besluit van de Europese Raad van 25 maart 2011 tot wijziging van artikel 136 van het verdrag betreffende de werking van de Europese Unie met betrekking tot een stabiliteitsmechanisme voor de lidstaten die de euro als munt hebben",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022096/VolledigDocument?datum=2012-08-27",
+  "source_sha256": "6bb0c2f467c14f9b7d498571ee148b8ca5e220529bb9b133c316f960434cfc87",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022096&param=informatie",
+  "as_of": "2012-08-27",
+  "made": "2012-07-06",
+  "gazette": "2012-08-17",
+  "numac": 2012204505,
+  "document_start": "2012-08-27",
+  "document_end": null,
+  "in_force": "2012-08-27",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-08-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
