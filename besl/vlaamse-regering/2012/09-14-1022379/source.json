@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022379,
+  "title": "Besluit van de Vlaamse Regering van 2012-09-14 tot bestendiging van de regelgeving betreffende gepensioneerden die in het onderwijs in dienst treden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022379/VolledigDocument?datum=2012-08-30",
+  "source_sha256": "2d4018e62ff8ecdb34e79968866aff531da81258dbfebcaca975254a96eb0887",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022379&param=informatie",
+  "as_of": "2012-08-30",
+  "made": "2012-09-14",
+  "gazette": "2012-10-15",
+  "numac": 2012205658,
+  "document_start": "2012-08-30",
+  "document_end": null,
+  "in_force": "2012-08-30",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2012-08-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
