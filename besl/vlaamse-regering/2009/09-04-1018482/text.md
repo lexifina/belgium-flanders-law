@@ -102,7 +102,7 @@ De gepensioneerde krijgt het salaris of de salaristoelage waarop het aanspraak k
 
 ### ART. 16.
 
-De bepalingen van dit hoofdstuk worden driejaarlijks geëvalueerd.<br /><br />
+...<br /><br />
 
 ## HOOFDSTUK VI Maximale bezoldiging van prestaties in het onderwijs
 
@@ -233,7 +233,7 @@ Artikel 77 van de wet van 24 december 1976 betreffende de budgettaire voorstelle
 
 ### ART. 30.
 
-Dit besluit treedt in werking op 1 september 2009. Hoofdstuk V van dit besluit houdt op van kracht te zijn op 31 augustus 2012.<br /><br />
+Dit besluit treedt in werking op 1 september 2009.<br /><br />
 
 ### ART. 31.
 
