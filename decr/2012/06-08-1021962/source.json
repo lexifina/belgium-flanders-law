@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021962,
+  "title": "Decreet van 2012-06-08 houdende technische en praktische aanpassingen aan het decreet betreffende het inschrijvingsrecht",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021962/VolledigDocument?datum=2012-08-31",
+  "source_sha256": "36080a5326d652a9bcb820101c367d05968a52b728c45f6bc1600aacef17d643",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021962&param=informatie",
+  "as_of": "2012-08-31",
+  "made": "2012-06-08",
+  "gazette": "2012-07-23",
+  "numac": 2012203962,
+  "document_start": "2012-08-31",
+  "document_end": null,
+  "in_force": "2012-08-31",
+  "article_versions": 40,
+  "record_form": "consolidated version as in force on 2012-08-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
