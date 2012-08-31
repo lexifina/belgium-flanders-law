@@ -16,6 +16,10 @@ Aan artikel 254 van dezelfde codex, gewijzigd bij het decreet van 1 juli 2011, w
 
 ## HOOFDSTUK IV. Decreet Volwassenenonderwijs
 
+### ART. IV.7.
+
+In hetzelfde decreet wordt een artikel 181ter ingevoegd, dat luidt als volgt :<br /><br />« Art. 181ter. In afwijking van artikel 181, tweede lid, wordt de onderwijsbevoegdheid van de opleidingen Biochemie TSO3, Diamantbewerking BSO3, Marketing en Verkoopsbeleid TSO3, Tuinbouw BSO3, Toerisme en Onthaal TSO3, Grime TSO3, Schoonheids-verzorging TSO3, Restauratievakman meubelen BSO3, Agogische bijscholing TSO3, Technische bijscholing voor de welzijnssector BSO3, Maritieme opleiding dek en motoren TSO3, Kunststoftechnieken TSO3, Handweven - kleding BSO3, Handweven - vervolmaking BSO3, Handweven - woning BSO3 en Handweven BSO3, opgeheven op 1 september 2013. ».
+
 ## HOOFDSTUK V. Hoger onderwijs
 
 ## Afdeling I. Decreet betreffende de hogescholen
