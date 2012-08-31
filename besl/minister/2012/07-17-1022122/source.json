@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022122,
+  "title": "Ministerieel besluit van 2012-07-17 tot wijziging van het ministerieel besluit van 4 november 2011 tot erkenning van centra voor paarden ter uitvoering van artikelen 35 en 59, § 2, van het Fokkerijbesluit van 19 maart 2010, wat betreft de erkenning van de centra Broekwinning, Hof 't Elshout, DAP De Lovaart, DAP Fleterna, Schoukens Training Center bvba en IPS Horse Group Belgium nv en de opheffing van de erkenning van de centra DAP Fleterna, Hendrik Van Brempt, Stoeterij de Noordermeershoeve, Betulae bvba en IPS Horse Group Belgium nv",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022122/VolledigDocument?datum=2012-08-31",
+  "source_sha256": "2622ee0eae07006097bafc3b63fe21983cd525d4621d87112b7603ed7bfb16ed",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022122&param=informatie",
+  "as_of": "2012-08-31",
+  "made": "2012-07-17",
+  "gazette": "2012-08-21",
+  "numac": 2012204595,
+  "document_start": "2012-08-31",
+  "document_end": null,
+  "in_force": "2012-08-31",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-08-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
