@@ -2,16 +2,16 @@
   "codex_id": 1009657,
   "title": "Decreet van 2002-06-28 betreffende gelijke onderwijskansen-I",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009657/VolledigDocument?datum=2011-09-01",
-  "source_sha256": "0894a09d446f090ab24fc154ebddc2048599637edf5409975d10672c58d1fdd2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009657/VolledigDocument?datum=2012-08-31",
+  "source_sha256": "6a649138d6bd850c149279a4cbc3ab5c35dcfe1554209db70d1c33b75918a8e8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009657&param=informatie",
-  "as_of": "2011-09-01",
+  "as_of": "2012-08-31",
   "made": "2002-06-28",
   "gazette": "2002-09-14",
   "numac": 2002036137,
   "document_start": null,
   "document_end": null,
-  "in_force": "2011-09-01",
+  "in_force": "2012-08-31",
   "article_versions": 95,
-  "record_form": "consolidated version as in force on 2011-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-08-31; future article versions excluded; article text as the API gives it"
 }
