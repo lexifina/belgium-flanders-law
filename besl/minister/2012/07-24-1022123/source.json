@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022123,
+  "title": "Ministerieel besluit van 2012-07-24 tot wijziging van het ministerieel besluit van 27 september 2011 tot erkenning van verenigingen, organisaties en ondernemingen ter uitvoering van artikelen 4, 5, 6, 7 en 59, § 1, van het Fokkerijbesluit van 19 maart 2010, wat betreft de erkenning van vzw Belgisch Arabische Paardenstamboek voor het bijhouden van stamboeken",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022123/VolledigDocument?datum=2012-08-31",
+  "source_sha256": "4e57398e649d89f0e74d5521644e9ea3096bbf498c641421c1606831608d36a4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022123&param=informatie",
+  "as_of": "2012-08-31",
+  "made": "2012-07-24",
+  "gazette": "2012-08-21",
+  "numac": 2012204600,
+  "document_start": "2012-08-31",
+  "document_end": null,
+  "in_force": "2012-08-31",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-08-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
