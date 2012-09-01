@@ -55,7 +55,7 @@ Het aanbod van de opties Integrale veiligheid en Veiligheidsberoepen is aan de v
 
 ### ART. 6ter.
 
-Het aanbod van de optie Duurzaam wonen is aan de volgende beperking onderworpen : <br />1° per provincie kan de optie in maximaal één onderwijsinstelling die behoort tot het officieel onderwijs en één onderwijsinstelling die behoort tot het vrij onderwijs worden georganiseerd;<br />2° voor de toepassing van deze bepaling worden de Nederlandstalige onderwijsinstellingen gelegen in het Brussels Hoofdstedelijk Gewest gerekend tot de provincie Vlaams-Brabant.
+Het aanbod van de opties Duurzaam wonen en Bio-ecologische bouwafwerking is aan de volgende beperking onderworpen : <br />1° per provincie kan de optie in maximaal één onderwijsinstelling die behoort tot het officieel onderwijs en één onderwijsinstelling die behoort tot het vrij onderwijs worden georganiseerd;<br />2° voor de toepassing van deze bepaling worden de Nederlandstalige onderwijsinstellingen gelegen in het Brussels Hoofdstedelijk Gewest gerekend tot de provincie Vlaams-Brabant.
 
 ### ART. 6quater.
 
@@ -1788,7 +1788,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:176.4pt">
-			<p>Bouw constrcutie- en planningstechnieken</p>
+			<p>Bouw constructie- en planningstechnieken</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:53.9pt">
 			<p>S</p>
@@ -2134,6 +2134,20 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
 			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:176.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:53.9pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:171.1pt">
+			<p>Bio-ecologische bouwafwerking (vanaf 1 september 2012)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.2pt">
+			<p>S</p>
 			</td>
 		</tr>
 	</tbody>
