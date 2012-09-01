@@ -118,6 +118,10 @@ In artikel 4.4.4 van dezelfde codex worden de volgende wijzigingen aangebracht :
 
 In artikel 4.4.7 van dezelfde codex worden de volgende wijzigingen aangebracht :<br /><br />1° in paragraaf 1, punt 2°, wordt de zinsnede « , het agentschap » opgeheven;<br /><br />2° in paragraaf 2 worden het eerste en het tweede lid vervangen door wat volgt :<br /><br />« In een vergunning voor handelingen van algemeen belang die een ruimtelijk beperkte impact hebben, mag worden afgeweken van stedenbouwkundige voorschriften en verkavelingsvoorschriften. Handelingen van algemeen belang kunnen een ruimtelijk beperkte impact hebben vanwege hun aard of omvang, of omdat ze slechts een wijziging of uitbreiding van bestaande of geplande infrastructuren of voorzieningen tot gevolg hebben.<br /><br />De Vlaamse Regering bepaalt welke handelingen van algemeen belang onder het toepassingsgebied van het eerste lid vallen. Ze kan ook de regels bepalen op basis waarvan kan worden beslist dat niet door haar opgesomde handelingen toch onder het toepassingsgebied van het eerste lid vallen. ».
 
+### ART. 28.
+
+In dezelfde codex wordt een artikel 4.4.7/1 ingevoegd, dat luidt als volgt :<br /><br />« Art. 4.4.7/1. Bij de beoordeling van aanvragen voor een stedenbouwkundige vergunning of verkavelingsaanvragen kan geen toepassing worden gemaakt van artikel 20 van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerp-gewestplannen en de gewestplannen. ».
+
 ### ART. 29.
 
 In artikel 4.4.25, § 6, van dezelfde codex wordt tussen het derde en het vierde lid een nieuw lid ingevoegd, dat luidt als volgt :<br /><br />« Indien de Vlaamse Regering het beroep verwerpt, wordt de schorsing opgeheven en krijgt het planologische attest, zoals het werd afgegeven door het bevoegde bestuursorgaan, uitwerking. Indien de Vlaamse Regering het beroep inwilligt, wordt het planologische attest vernietigd, en moet de deputatie of het college van burgemeester en schepenen opnieuw beslissen over de aanvraag tot planologisch attest, rekening houdend met de motieven voor de inwilliging van het beroep. ».

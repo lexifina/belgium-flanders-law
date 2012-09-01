@@ -2,16 +2,16 @@
   "codex_id": 1021793,
   "title": "Decreet van 2012-05-11 houdende wijziging van diverse bepalingen van de Vlaamse Codex Ruimtelijke Ordening en wijziging van de regelgeving wat de opheffing van het agentschap Ruimtelijke Ordening betreft",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021793/VolledigDocument?datum=2012-06-16",
-  "source_sha256": "bfea4e8644adbbf6abcd80cac990d80019c2ed6ee3928af412fa8b52dbd313fd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021793/VolledigDocument?datum=2012-09-01",
+  "source_sha256": "a93ce78237cb8d379aea200d356beb07f4f914b1014aeac9bc3d147eb5a57e2b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021793&param=informatie",
-  "as_of": "2012-06-16",
+  "as_of": "2012-09-01",
   "made": "2012-05-11",
   "gazette": "2012-06-06",
   "numac": 2012035590,
   "document_start": "2012-06-16",
   "document_end": null,
-  "in_force": "2012-06-16",
-  "article_versions": 36,
-  "record_form": "consolidated version as in force on 2012-06-16; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-09-01",
+  "article_versions": 37,
+  "record_form": "consolidated version as in force on 2012-09-01; future article versions excluded; article text as the API gives it"
 }
