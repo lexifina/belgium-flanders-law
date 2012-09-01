@@ -160,7 +160,7 @@ Voor de toepassing van artikelen 21 en 24 wordt voor opleidingen, gevolgd in het
 
 ### ART. 32.
 
-In afwijking van artikel 27 deelt de student die een opleiding volgt in het kader van verticale mobiliteit alle gegevens in verband met de in de andere gemeenschap of in het buitenland gevolgde opleiding en de behaalde resultaten aan de dienst mee op basis van inschrijvingsbewijzen, diploma's en attesten, uitgereikt door de bevoegde overheid in de gemeenschap of in het land in kwestie.<br /><br />
+In afwijking van artikel 27 deelt de student die een opleiding volgt in   het kader van verticale mobiliteit alle gegevens in verband met de in de andere   gemeenschap of in het buitenland gevolgde opleiding en de behaalde resultaten   aan de&nbsp;afdeling Studietoelagen&nbsp;mee op basis van inschrijvingsbewijzen,   diploma's en attesten, uitgereikt door de bevoegde overheid in de gemeenschap of   in het land in kwestie.<BR><BR>
 
 ## TITEL IV Financiële voorwaarden
 
