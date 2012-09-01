@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° decreet : het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br />2° Syntra Vlaanderen : het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, opgericht bij artikel 3 van het decreet;<br />3° centra : de centra voor vorming van zelfstandigen en kleine of middelgrote ondernemingen, vermeld in artikel 36 tot en met 38 van het decreet;<br />4° lesgevers : de lesgevers, vermeld in artikel 41 van het decreet;<br />5° gecertificeerde opleiding : het geheel van de ondernemersopleiding, vermeld in artikel 31 tot en met 33 van het decreet, en de bijscholing, vermeld in artikel 35 van het decreet, als die na evaluatie recht geeft op een attest, erkend door de Vlaamse overheid.
+Voor de toepassing van dit besluit wordt verstaan onder :<br />1° decreet : het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br />2° Syntra Vlaanderen : het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, opgericht bij artikel 3 van het decreet;<br />3° centra : de centra voor vorming van zelfstandigen en kleine of middelgrote ondernemingen, vermeld in artikel 36 tot en met 38 van het decreet;<br />4° lesgevers : de lesgevers, vermeld in artikel 41 van het decreet;<br />5° ondernemerschapstraject : het traject, vermeld in artikel 31 tot en met 33 van het decreet.
 
 ### ART. 2.
 
@@ -18,7 +18,7 @@ De lesgevers in de leertijd en in de gecertificeerde opleidingen worden door de 
 
 ### ART. 5.
 
-§ 1. De lesgevers worden vergoed per lesuur. De examenuren van de examens die niet binnen de lesuren worden georganiseerd, en de uren besteed aan de bijscholing van de lesgevers en bepaalde taken van pedagogische organisatie en coördinatie, die door Syntra Vlaanderen worden bepaald, komen eveneens als lesuren in aanmerking.<br /><br />§ 2. Voor zover de in artikel 2 vermelde cursussen zijn erkend en gesubsidieerd keert Syntra Vlaanderen aan de lesgevers de volgende vergoeding per lesuur uit:<br />1. voor de leertijd: 17,60 euro; <br />2. voor de ondernemersopleiding: 21,32 euro; <br />3. ... <br />4. voor de bijscholing: 27,27 euro. <br /><br />In afwijking van het eerste lid kan de raad van bestuur van Syntra Vlaanderen voor welomschreven cursussen, als vermeld in punt 2° en 4°, een hogere vergoeding per lesuur vastleggen.<br /><br />§ 3. ...<br /><br />§ 4. In afwijking van de bepalingen van de toepasselijke CAO inzake de tegemoetkoming van de werkgever in de vervoerskosten wordt, indien de plaatselijke omstandigheden dit vereisen, bijgedragen in de betaling van de reiskosten van de lesgevers voor de bijscholing en de omscholing volgens de geldende spoorwegtarieven 1ste klasse en voor zover een heen- en terugreis 20 km overschrijdt.
+§ 1. De lesgevers worden vergoed per lesuur. De examenuren van de examens die niet binnen de lesuren worden georganiseerd, en de uren besteed aan de bijscholing van de lesgevers en bepaalde taken van pedagogische organisatie en coördinatie, die door Syntra Vlaanderen worden bepaald, komen eveneens als lesuren in aanmerking.<br /><br />§ 2. Voor zover de in artikel 2 vermelde cursussen zijn erkend en gesubsidieerd keert Syntra Vlaanderen aan de lesgevers de volgende vergoeding per lesuur uit:<br />1. voor de leertijd: 17,60 euro; <br />2. voor de ondernemerschapstrajecten: 21,32 euro; <br />3. ... <br />4. ... <br /><br />In afwijking van het eerste lid kan de raad van bestuur van Syntra Vlaanderen voor welomschreven cursussen, als vermeld in punt 2°, een hogere vergoeding per lesuur vastleggen.<br /><br />§ 3. ...<br /><br />§ 4. In afwijking van de bepalingen van de toepasselijke CAO inzake de tegemoetkoming van de werkgever in de vervoerskosten wordt, indien de plaatselijke omstandigheden dit vereisen, bijgedragen in de betaling van de reiskosten van de lesgevers voor de bijscholing en de omscholing volgens de geldende spoorwegtarieven 1ste klasse en voor zover een heen- en terugreis 20 km overschrijdt.
 
 ### ART. 6.
 
@@ -69,7 +69,7 @@ De lesuren worden als anderhalf arbeidsuur per lesuur in aanmerking genomen en m
 
 ### ART. 7.
 
-§ 1. Syntra Vlaanderen betaalt voor de lesgevers in de leertijd en in de gecertificeerde opleidingen van de in artikel 5, § 2 en artikel 6, § 4, bedoelde vergoedingen en salarissen de verschuldigde lasten, zijnde:<br />a) R.S.Z.-werkgeversbijdragen;<br />b) verzekeringspremies tegen arbeidsongevallen;<br />c) het vakantiegeld krachtens de wetgeving op het vakantiegeld van de werknemers;<br />d) andere vergoedingen ter uitvoering van de vigerende collectieve arbeidsovereenkomsten.<br /><br />§ 2. De nettobezoldigingen van de lesgevers bedoeld in § 1 worden rechtstreeks door Syntra Vlaanderen aan de lesgevers uitbetaald; wat betreft de R.S.Z.-bijdragen en de verzekeringspremies tegen arbeidsongevallen, treedt Syntra Vlaanderen op als derde betalende voor de tewerkstelling in het kader van de erkende vorming in de centra.
+§ 1. Syntra Vlaanderen neemt de administratieve kosten van de betaling van de lesgevers op zich en betaalt voor de lesgevers in de leertijd en in de ondernemerschapstrajecten van de in artikel 5, § 2 en artikel 6, § 4, bedoelde vergoedingen en salarissen de verschuldigde lasten, zijnde:<br />a) R.S.Z.-werkgeversbijdragen;<br />b) verzekeringspremies tegen arbeidsongevallen;<br />c) het vakantiegeld krachtens de wetgeving op het vakantiegeld van de werknemers;<br />d) andere vergoedingen ter uitvoering van de vigerende collectieve arbeidsovereenkomsten.<br /><br />§ 2. De nettobezoldigingen van de lesgevers bedoeld in § 1 worden rechtstreeks door Syntra Vlaanderen aan de lesgevers uitbetaald; wat betreft de R.S.Z.-bijdragen en de verzekeringspremies tegen arbeidsongevallen, treedt Syntra Vlaanderen op als derde betalende voor de tewerkstelling in het kader van de erkende vorming in de centra.
 
 ### ART. 8.
 
@@ -99,6 +99,10 @@ Onverminderd de strafvervolging waartoe zij aanleiding zou geven, brengt elke va
 ### ART. 10.
 
 (niet opgenomen)<br /><br />(Wijzigt de artikelen 5, 7 en 21bis van het ministerieel besluit van 27 maart 1979 houdende bepaling van de rijkstoelagen voor het stelsel van de voortdurende vorming geregeld bij het koninklijk besluit van 4 oktober 1976 betreffende de voortdurende vorming)
+
+### ART. 10/1.
+
+De lesgevers in de gecertificeerde bijscholingen kunnen tot en met 31 augustus 2013 worden vergoed overeenkomstig de regels van dit besluit die van toepassing zijn op 31 augustus 2012.<br /><br />Onder gecertificeerde bijscholing wordt verstaan : een door Syntra Vlaanderen op 31 augustus 2012 erkende bijscholing die na evaluatie recht geeft op een attest.
 
 ### ART. 11.
 
