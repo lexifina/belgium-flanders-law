@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021870,
+  "title": "Besluit van de Vlaamse Regering van 2012-06-15 tot erkenning van de masteropleiding master in de veiligheidswetenschappen als nieuwe opleiding van de Universiteit Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021870/VolledigDocument?datum=2012-09-01",
+  "source_sha256": "f04a9f4429ee04fe98d8f624ec15476aee4f1575880539c53cf26fafbff9efd8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021870&param=informatie",
+  "as_of": "2012-09-01",
+  "made": "2012-06-15",
+  "gazette": "2012-07-16",
+  "numac": 2012035792,
+  "document_start": "2012-09-01",
+  "document_end": null,
+  "in_force": "2012-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
