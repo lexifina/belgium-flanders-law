@@ -2,16 +2,16 @@
   "codex_id": 1012145,
   "title": "Besluit van de Vlaamse Regering van 2003-12-05 houdende de voorwaarden van subsidiëring van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, als bedoeld bij het besluit van de Vlaamse regering van 14 december 2001 betreffende de erkenning en de subsidiëring van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012145/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "869b68016365894ff360028d777bc0ebaeee36e53d9fd9041ce5fc0bac1aece5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012145/VolledigDocument?datum=2012-09-01",
+  "source_sha256": "e5bff23c4fde665bb0dde9b4fffa48c606d3385c9541bab4de373764c87dc57c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012145&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2012-09-01",
   "made": "2003-12-05",
   "gazette": "2004-03-04",
   "numac": 2004035329,
   "document_start": null,
   "document_end": "2013-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2012-09-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-09-01; future article versions excluded; article text as the API gives it"
 }
