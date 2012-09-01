@@ -922,6 +922,18 @@ De Vlaamse regering bepaalt op basis van het aantal regelmatige leerlingen op we
 
 ## [HOOFDSTUK V/1 PERSONEEL TEN LASTE VAN DE WERKINGSMIDDELEN OF VAN DE EIGEN MIDDELEN (ing. decr. 21 december 2012, art. IV.2.)]
 
+### ART. 100/1.
+
+De inrichtende macht kan ten laste van de werkingsmiddelen, vermeld in artikel 3quater, in artikel 20 van het decreet van 4 juli 2008 betreffende de werkingsbudgetten in het secundair onderwijs en tot wijziging van het decreet basisonderwijs van 25 februari 1997 wat de werkingsbudgetten betreft of van de eigen middelen, personeel aanwerven. In het gemeenschapsonderwijs kan een inrichtende macht voormeld principe aanwenden voor de personeelscategorieën van toepassing in het deeltijds kunstonderwijs vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 rechtspositie personeelsleden gemeenschapsonderwijs, met uitzondering van het statutaire meesters-, vak- en dienstpersoneel. In het gesubsidieerd onderwijs kan een inrichtende macht voormeld principe aanwenden voor de personeelscategorieën van toepassing in het deeltijds kunstonderwijs vermeld in artikel 4, § 1, a), van het decreet van 27 maart 1991 rechtspositie personeelsleden gesubsidieerd onderwijs.<br>
+<br>
+De betrekking die met deze middelen wordt ingericht kan niet worden vacant verklaard en de inrichtende macht kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekking.<br>
+<br>
+Het personeelslid dat door een inrichtende macht van een onderwijsinstelling in het gemeenschapsonderwijs wordt aangeworven, wordt altijd als tijdelijk personeelslid aangesteld. Het decreet van 27 maart 1991 rechtspositie personeelsleden gemeenschapsonderwijs is op hem van toepassing.<br>
+<br>
+Het personeelslid dat door een inrichtende macht van een onderwijsinstelling in het gesubsidieerd onderwijs wordt aangeworven, wordt altijd als tijdelijk personeelslid aangesteld. Het decreet van 27 maart 1991 rechtspositie personeelsleden gesubsidieerd onderwijs is op hem van toepassing.<br>
+<br>
+Het Agentschap voor Onderwijsdiensten betaalt het salaris of salaristoelage rechtstreeks aan de betrokken personeelsleden. Diezelfde dienst vordert het brutosalaris of de brutosalaristoelage, verhoogd met de vergoedingen, bijslagen, vakantiegeld, eindejaarspremie en werkgeversbijdrage, van de inrichtende macht terug.
+
 ## [HOOFDSTUK VBIS INSCHRIJVINGSGELD (ing. decr. 13 juli 2001, art. VI.4)]
 
 ### ART. 100bis.
