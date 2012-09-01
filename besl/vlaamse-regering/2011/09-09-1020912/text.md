@@ -32,19 +32,19 @@ De thema's van de innovatieprojecten worden zonder uitstel bekendgemaakt aan all
 
 ### ART. 6.
 
-De voorstellen van innovatieprojecten worden op elektronische wijze ingediend vóór 30 april in de vorm van een projectfiche waarvan het model door de minister wordt bepaald. In het jaar 2011 valt de deadline voor het indienen van projecten op 30 oktober 2011. Het model van projectfiche wordt bij de bekendmaking van de thema's voor de innovatieprojecten meegedeeld.<br /><br />De ingediende voorstellen worden beoordeeld op basis van volgende criteria :<br />1° de relevantie ten aanzien van de vastgestelde beleidsprioriteiten;<br />2° de kwaliteit van het ingediende project, inzonderheid voor wat betreft de gebruikte methode, de verwachte output, de interne evaluatie en de verspreiding naar andere initiële lerarenopleidingen toe;<br />3° de relevantie en de overdraagbaarheid van de resultaten voor andere initiële lerarenopleidingen toe.<br /><br />Een innovatieproject kan ingediend worden door één of meerdere initiële lerarenopleidingen, één of meerdere Expertisenetwerken of regionaal platform, of een combinatie daarvan.<br /><br />Als de administratie de projectfiche ontvangt, verbindt ze zich ertoe binnen de twee werkdagen, via e-mail aan de indiener een ontvangstbewijs te sturen.
+<P>De voorstellen van de innovatieprojecten, m.b.t. het volgende kalenderjaar,   worden op elektronische wijze ingediend voor 15 oktober in de vorm van een   projectfiche waarvan het model door de minister wordt bepaald. Het model van   projectfiche wordt bij de bekendmaking van de thema's voor de innovatieprojecten   meegedeeld.<BR><BR>De ingediende voorstellen worden beoordeeld op basis van   volgende criteria :<BR>1° de relevantie ten aanzien van de vastgestelde   beleidsprioriteiten;<BR>2° de kwaliteit van het ingediende project, inzonderheid   voor wat betreft de gebruikte methode, de verwachte output, de interne evaluatie   en de verspreiding naar andere initiële lerarenopleidingen toe;<BR>3° de   relevantie en de overdraagbaarheid van de resultaten voor andere initiële   lerarenopleidingen toe;<BR>4° de doelmatigheid van het projectvoorstel.</P>  <P>Projecten hebben een looptijd van één jaar, van 1 januari tot en met 31   december.<BR><BR>Een innovatieproject kan ingediend worden door één of meerdere   initiële lerarenopleidingen, één of meerdere Expertisenetwerken of regionaal   platform, of een combinatie daarvan.<BR><BR>Als de administratie de projectfiche   ontvangt, verbindt ze zich ertoe binnen de twee werkdagen, via e-mail aan de   indiener een ontvangstbewijs te sturen.</P>
 
 ### ART. 7.
 
-Een commissie, die bestaat uit ambtenaren en externen en die samengesteld is door de minister, maakt vóór 30 juni een gemotiveerde rangschikking van de voorstellen op grond van de criteria, vermeld in artikel 6, tweede lid. In het jaar 2011 valt de deadline voor het rangschikken van de voorstellen op 20 november 2011.<br /><br />De commissie, vermeld in het eerste lid, beoordeelt ook de aangevraagde financiële middelen. Per project kan maximaal 125.000 euro toegekend worden.
+<P>Een commissie die bestaat uit ambtenaren en externen en die is samengesteld   door de minister, maakt voor 20 november een gemotiveerde rangschikking van de   voorstellen op grond van de criteria, vermeld in artikel 6, tweede lid.</P>  <P>De commissie, vermeld in het eerste lid, beoordeelt ook de aangevraagde   financiële middelen. Per project kan maximaal 125.000 euro toegekend   worden.</P>
 
 ### ART. 8.
 
-Op basis van de rangschikking stelt de minister vóór 15 juli bij ministerieel besluit de projecten vast die voor financiering in aanmerking komen. In het jaar 2011 valt de deadline op 10 december. De minister kan alleen projecten kiezen die op grond van zowel het criterium vermeld in artikel 6, tweede lid, 1°, als het criterium vermeld in artikel 6, tweede lid, 2°, gunstig werden beoordeeld. Als de keuze afwijkt van de volgorde die de commissie heeft voorgesteld, moet de minister die afwijking bovendien motiveren.
+Op basis van de rangschikking stelt de minister voor 10 december bij   ministerieel besluit de projecten vast die voor financiering in aanmerking   komen. De minister kan alleen projecten kiezen die op grond van zowel het   criterium vermeld in artikel 6, tweede lid, 1°, als het criterium vermeld in   artikel 6, tweede lid, 2°, gunstig werden beoordeeld. Als de keuze afwijkt van   de volgorde die de commissie heeft voorgesteld, moet de minister die afwijking   bovendien motiveren.
 
 ### ART. 9.
 
-De minister deelt vóór eind juli de selectie van de goedgekeurde projecten mee aan de indieners van de innovatieprojecten. In het jaar 2011 valt de deadline voor het meedelen van de goedgekeurde projecten voor eind december.
+De minister deelt voor eind december de selectie van de goedgekeurde   projecten mee aan de indieners van de innovatieprojecten.
 
 ## HOOFDSTUK 4. Financiering en verslaggeving
 
@@ -54,7 +54,7 @@ Bij de goedkeuring van de projecten kent de minister het budget ervoor toe, na v
 
 ### ART. 11.
 
-De verslaggeving gebeurt elektronisch en voor 15 oktober van het jaar volgend op de goedkeuring van het project. Voor de projecten die goedgekeurd worden in 2011 valt de deadline voor het indienen van de verslaggeving op 15 maart 2013. De vormelijke en de inhoudelijke elementen van de verslaggeving worden bezorgd aan de goedgekeurde projecten.
+De verslaggeving gebeurt elektronisch en voor 15 maart van het jaar dat   volgt op de start van het project. Voor de projecten die goedgekeurd zijn in   2012, is de deadline voor het indienen van de verslaggeving 15 april 2013. De   vormelijke en de inhoudelijke elementen van de verslaggeving worden bezorgd aan   de goedgekeurde projecten.
 
 ## HOOFDSTUK 5. Slotbepalingen
 
