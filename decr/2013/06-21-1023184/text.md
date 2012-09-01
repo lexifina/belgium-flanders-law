@@ -42,6 +42,10 @@ Aan artikel 8 van het decreet van 7 mei 2004 tot oprichting van het intern   ver
 
 ## HOOFDSTUK 11 Interlandelijke adoptie van kinderen
 
+### ART. 42.
+
+In artikel 20 van hetzelfde decreet worden de volgende wijzigingen   aangebracht : <BR>1° in paragraaf 3 worden de woorden "het Vlaams Centrum voor   Adoptie" vervangen door de woorden "Kind en Gezin";<BR>2° paragraaf 6 wordt   opgeheven.<BR>
+
 ## HOOFDSTUK 12 Zorg- en bijstandsverlening
 
 ## HOOFDSTUK 13 Woonzorg
