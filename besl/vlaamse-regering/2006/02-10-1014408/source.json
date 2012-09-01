@@ -2,16 +2,16 @@
   "codex_id": 1014408,
   "title": "Besluit van de Vlaamse Regering van 2006-02-10 houdende de erkennings- en subsidiëringsvoorwaarden voor de samenwerkings- en overlegstructuur voor de erkende huurdiensten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014408/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "2a46b6197744fc038a75a28a9967fa2d253a57eaee5921e4d5174e9c24025a89",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014408/VolledigDocument?datum=2012-09-01",
+  "source_sha256": "d6d4fefd3e864aed62f95bf98d16874ecd3d5d37ccdc98fc0b76315de64d012b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014408&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2012-09-01",
   "made": "2006-02-10",
   "gazette": "2006-04-06",
   "numac": 2006035479,
   "document_start": "2006-01-01",
   "document_end": "2012-08-31",
-  "in_force": "2012-01-01",
+  "in_force": "2012-09-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-09-01; future article versions excluded; article text as the API gives it"
 }
