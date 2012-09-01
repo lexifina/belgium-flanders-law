@@ -6,8 +6,8 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 14 juli 1998 houdende d
 
 ### ART. 1.
 
-Aan de scholengemeenschap, Steinerscholen Secundair Onderwijs, Kasteelstraat 54, te 9000 Gent, wordt, met ingang van 1 september 2006, voor de duur van zes schooljaren een afwijking toegestaan op de multisectoraliteitsverplichting vastgelegd bij decreet van 14 juli 1998 houdende diverse maatregelen met betrekking tot het secundair onderwijs en tot wijziging van het decreet van 25 februari 1997 betreffende het basisonderwijs.<br /><br />
+...
 
 ### ART. 2.
 
-De Vlaamse minister, bevoegd voor Onderwijs is belast met de uitvoering van dit besluit.<br /><br />
+...
