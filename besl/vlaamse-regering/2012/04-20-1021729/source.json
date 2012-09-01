@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021729,
+  "title": "Besluit van de Vlaamse Regering van 2012-04-20 tot erkenning van de master-na-masteropleiding Master of Plant Biotechnology als nieuwe opleiding van de Universiteit Gent",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021729/VolledigDocument?datum=2012-09-01",
+  "source_sha256": "686c265513b2f8ffbe3075b540c94d196d1045a09575d35794980c16b7418fe2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021729&param=informatie",
+  "as_of": "2012-09-01",
+  "made": "2012-04-20",
+  "gazette": "2012-05-11",
+  "numac": 2012202534,
+  "document_start": "2012-09-01",
+  "document_end": null,
+  "in_force": "2012-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
