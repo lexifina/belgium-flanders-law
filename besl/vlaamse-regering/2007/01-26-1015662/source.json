@@ -2,16 +2,16 @@
   "codex_id": 1015662,
   "title": "Besluit van de Vlaamse Regering van 2007-01-26 betreffende de modulaire structuur van het secundair onderwijs voor sociale promotie voor het studiegebied Algemene Vorming",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015662/VolledigDocument?datum=2006-09-01",
-  "source_sha256": "04a012939f2643f00012113223ec3519e85e189ad0f44d0f1bb824eb81676965",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015662/VolledigDocument?datum=2012-09-01",
+  "source_sha256": "a2fda85b7dc5f9525be1ffba042d7b534a01e9dfc0e8ceecd388e641f1ddcb69",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015662&param=informatie",
-  "as_of": "2006-09-01",
+  "as_of": "2012-09-01",
   "made": "2007-01-26",
   "gazette": "2007-03-29",
   "numac": 2007035332,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-09-01",
+  "in_force": "2012-09-01",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2006-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-09-01; future article versions excluded; article text as the API gives it"
 }
