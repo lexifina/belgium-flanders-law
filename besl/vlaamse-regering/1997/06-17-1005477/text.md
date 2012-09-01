@@ -341,11 +341,11 @@ Met toepassing van artikel 102 van het decreet kan een school tijdens haar eerst
 
 ### ART. 8.
 
-Onverminderd de toepassing van artikel 174 van het decreet worden de misbruiken bij het tellen van de regelmatige leerlingen voor rationalisatie en programmatienormen die vastgesteld zijn door het departement met toepassing van artikel 177, § 1, 9° van het decreet, bij aangetekend schrijven meegedeeld aan het betrokken schoolbestuur. De mededeling bevat een verwijzing naar de mogelijke sancties.
+Onverminderd de toepassing van artikel 174 van het decreet worden de   misbruiken bij het tellen van de regelmatige leerlingen voor rationalisatie en   programmatienormen die vastgesteld zijn door het Agentschap voor   Onderwijsdiensten met toepassing van artikel 177, § 1, 9° van het decreet, bij   aangetekend schrijven meegedeeld aan het betrokken schoolbestuur. De mededeling   bevat een verwijzing naar de mogelijke sancties.
 
 ### ART. 9.
 
-§ 1. Binnen een termijn van 30 kalenderdagen na de betekening van het aangetekend schrijven kan het schoolbestuur bij het departement een verweerschrift indienen.<br /><br />De betekening wordt geacht te gebeuren de derde werkdag na het versturen van het aangetekend schrijven. De herfstvakantie, kerstvakantie, krokusvakantie, paasvakantie en zomervakantie schorten de termijn van 30 kalenderdagen op.<br /><br />§ 2. Na ontvangst van het verweerschrift, en uiterlijk na 60 kalenderdagen na de betekening van het aangetekend schrijven bedoeld in § 1 legt het departement Onderwijs desgevallend een dossier met een voorstel tot sanctie voor aan de minister.
+§ 1. Binnen een termijn van 30 kalenderdagen na de betekening van het   aangetekend schrijven kan het schoolbestuur bij het Agentschap voor   Onderwijsdiensten een verweerschrift indienen.<BR><BR>De betekening wordt geacht   te gebeuren de derde werkdag na het versturen van het aangetekend schrijven. De   herfstvakantie, kerstvakantie, krokusvakantie, paasvakantie en zomervakantie   schorten de termijn van 30 kalenderdagen op.<BR><BR>§ 2. Na ontvangst van het   verweerschrift, en uiterlijk na 60 kalenderdagen na de betekening van het   aangetekend schrijven bedoeld in § 1 legt het Agentschap voor Onderwijsdiensten   desgevallend een dossier met een voorstel tot sanctie voor aan de   minister.
 
 ### ART. 10.
 
