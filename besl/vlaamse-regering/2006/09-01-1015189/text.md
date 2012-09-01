@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet Basisonderwijs van 25 febru
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de door de Vlaamse Gemeenschap gefinancierde en gesubsidieerde Nederlandstalige scholen van het basisonderwijs in de rand- en taalgrensgemeenten, op de door de Vlaamse Gemeenschap gefinancierde en gesubsidieerde scholen van het basisonderwijs in de gemeenten die grenzen aan de randgemeenten en op de door de Vlaamse Gemeenschap gefinancierde en gesubsidieerde scholen in de gemeenten die grenzen aan het Brussels Hoofdstedelijk Gewest.<br /><br />
+<P>Dit besluit is van toepassing op de door de Vlaamse Gemeenschap gefinancierde   en gesubsidieerde Nederlandstalige scholen van het buitengewoon basisonderwijs   in de rand- en taalgrensgemeenten, op de door de Vlaamse Gemeenschap   gefinancierde en gesubsidieerde scholen van het buitengewoon basisonderwijs in   de gemeenten die grenzen aan de randgemeenten, en op de door de Vlaamse   Gemeenschap gefinancierde en gesubsidieerde scholen van het buitengewoon   basisonderwijs in de gemeenten die grenzen aan het Brusselse Hoofdstedelijke   Gewest.</P>
 
 ### ART. 2.
 
@@ -40,11 +40,11 @@ Het aantal aanvullende lestijden dat een school bekomt met toepassing van artike
 
 ### ART. 5/1.
 
-In afwijking van artikel 5 behouden de scholen voor gewoon basisonderwijs, tijdens het schooljaar 2011-2012, de aanvullende lestijden voor de integratie van anderstaligen, die ze in het schooljaar 2010-2011 hebben ontvangen.
+<P>...</P>
 
 ### ART. 6.
 
-§ 1. In het gewoon basisonderwijs kunnen uit de aanvullende lestijden volgende betrekkingen worden geput :<br />1° het ambt van kleuteronderwijzer;<br />2° het ambt van onderwijzer.<br /><br />§ 2. In het buitengewoon basisonderwijs kunnen uit de aanvullende lestijden volgende betrekkingen worden geput :<br />1° het ambt van kleuteronderwijzer algemene en sociale vorming;<br />2° het ambt van onderwijzer algemene en sociale vorming.<br /><br />
+<P>§ 1. ...</P>  <P>§ 2. In het buitengewoon basisonderwijs kunnen uit de aanvullende lestijden   volgende betrekkingen worden geput :<BR>1° het ambt van kleuteronderwijzer   algemene en sociale vorming;<BR>2° het ambt van onderwijzer algemene en sociale   vorming.<BR><BR></P>
 
 ## HOOFDSTUK III Sancties
 
@@ -52,7 +52,7 @@ In afwijking van artikel 5 behouden de scholen voor gewoon basisonderwijs, tijde
 
 Onverminderd de toepassing van artikel 174 van het decreet, kunnen misbruiken bij de telling van de regelmatige leerlingen TNN aanleiding geven tot sancties overeenkomstig artikel 178 van het decreet.<br>
 <br>
-De door het departement vastgestelde overtredingen worden bij aangetekend schrijven meegedeeld aan het betrokken schoolbestuur. De mededeling verwijst naar de mogelijke sancties.<br>
+De door het&nbsp;het Agentschap voor Onderwijsdiensten&nbsp;vastgestelde overtredingen worden bij aangetekend schrijven meegedeeld aan het betrokken schoolbestuur. De mededeling verwijst naar de mogelijke sancties.<br>
 &nbsp;
 
 ### ART. 8.
