@@ -88,6 +88,50 @@ Artikel 63 van dezelfde codex wordt opgeheven.
 
 ## HOOFDSTUK 6. Wijziging van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding
 
+### ART. 20.
+
+In artikel 38 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, gewijzigd bij de decreten van 18 mei 1999, 14 februari 2003 en 8 mei 2009, worden de volgende wijzigingen aangebracht : <br /><br />1° § 1 wordt vervangen door wat volgt : <br /><br />" § 1. De school en het centrum stellen op 1 september 2012 een gezamenlijk beleidsplan op als ze tot hetzelfde bestuur behoren of een gezamenlijk beleidscontract in het andere geval, dat de samenwerking regelt voor een duur van twee jaar.<br /><br />In afwijking van het eerste lid stellen de school en het centrum met ingang van 1 september 2014 om de zes jaar een gezamenlijk beleidsplan op als ze tot hetzelfde bestuur behoren of een gezamenlijk beleidscontract in het andere geval, dat de samenwerking regelt voor een duur van zes jaar.<br /><br />Uiterlijk op 31 maart voorafgaand aan het schooljaar waarop het beleidsplan of beleidscontract ingaat, deelt elk centrum aan de bevoegde diensten van de Vlaamse Regering mee met welke scholen het een beleidsplan of beleidscontract zal afsluiten of heeft afgesloten.";<br /><br />2° er wordt een § 1/1 ingevoegd, die luidt als volgt : <br /><br />" § 1/1. De looptijd van het beleidsplan of beleidscontract dat gesloten wordt tussen enerzijds een school die na de start van de periodes van beleidsplannen en beleidscontracten, vermeld in § 1, opgenomen wil worden in de erkenning en anderzijds een CLB, is beperkt tot het einde van de duur van het beleidsplan of beleidscontract, vermeld in § 1.";<br /><br />3° in § 3 worden de volgende wijzigingen aangebracht : <br /><br />a) het tweede lid wordt vervangen door wat volgt : <br />"Het beleidscontract of beleidsplan met het nieuwe centrum is beperkt tot het einde van de duur van het beleidsplan of beleidscontract, vermeld in § 1.";<br /><br />b) er wordt een lid toegevoegd, dat luidt als volgt : <br />"Indien de duur van de beleidsplannen en beleidscontracten, vermeld in het tweede lid of in § 1/1, minstens drie jaar bedraagt, worden de beleidsplannen en beleidscontracten uiterlijk op 31 maart voorafgaand aan de eerstvolgende periode waarvoor de omkadering, vermeld in artikel 67, zal worden vastgesteld, aan de bevoegde diensten van de Vlaamse Regering meegedeeld.";<br /><br />4° in § 4 wordt het eerste lid vervangen door wat volgt : <br /><br />"Indien een scholengemeenschap gevormd wordt wanneer de duur van het beleidsplan of het beleidscontract nog niet verstreken is, kunnen de centra die de scholen van de scholengemeenschap begeleiden een tijdelijk samenwerkingsverband aangaan tot het einde van de lopende periode waarvoor de omkadering werd vastgesteld, vermeld in artikel 67.".
+
+### ART. 21.
+
+In artikel 58, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 14 februari 2003, worden in de tweede zin de woorden "drie jaar" vervangen door de woorden "de duur van de periode waarvoor de omkadering wordt vastgesteld, vermeld in artikel 67,".
+
+### ART. 22.
+
+In artikel 60, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 14 februari 2003, wordt de zinsnede "Om de drie jaar" vervangen door de zinsnede "Bij de start van elke nieuwe periode waarvoor de omkadering wordt vastgesteld, vermeld in artikel 67,".
+
+### ART. 23.
+
+In artikel 61, eerste lid, van hetzelfde decreet, wordt de zinsnede "Om de drie jaar" vervangen door de zinsnede "Bij de start van elke nieuwe periode waarvoor de omkadering wordt vastgesteld, vermeld in artikel 67,".
+
+### ART. 24.
+
+Artikel 65 van hetzelfde decreet, gewijzigd bij het decreet van 14 februari 2003, wordt vervangen door wat volgt : <br /><br />"Art. 65. Om gefinancierd of gesubsidieerd te blijven tijdens de eerstvolgende periode waarvoor overeenkomstig artikel 67 de omkadering opnieuw wordt vastgesteld, moet het gewogen leerlingenaantal van een centrum, geteld op de eerste schooldag van februari van het kalenderjaar dat voorafgaat aan deze nieuwe periode, de rationalisatienorm bereiken. Als dit niet het geval is, wordt het centrum vanaf 1 september van het daarop volgende kalenderjaar niet langer gefinancierd of gesubsidieerd.".
+
+### ART. 25.
+
+In artikel 67 van hetzelfde decreet, gewijzigd bij het decreet van 14 februari 2003, worden de volgende wijzigingen aangebracht : <br /><br />1° tussen het tweede en het derde lid wordt een nieuw lid ingevoegd, dat luidt als volgt : <br />"In afwijking van het eerste en het tweede lid, wordt het omkaderingsgewicht voor het schooljaar 2012-2013 vastgesteld voor een periode van twee jaar. Met ingang van schooljaar 2014-2015 wordt het omkaderingsgewicht opnieuw vastgesteld, telkens voor een periode van drie jaar.";<br /><br />2° in het derde lid wordt de zinsnede "gedurende de drie schooljaren waarvoor het omkaderingsgewicht wordt vastgesteld" vervangen door de zinsnede "gedurende de periode waarvoor het omkaderingsgewicht reeds werd vastgesteld".
+
+### ART. 26.
+
+Artikel 68 van hetzelfde decreet, gewijzigd bij het decreet van 14 februari 2003, wordt vervangen door wat volgt : <br /><br />"Art. 68. Onverminderd de toepassing van artikel 59, § 3, is het gewogen leerlingenaantal van een centrum voor de periode waarvoor de omkadering wordt vastgesteld, vermeld in artikel 67, gelijk aan het aantal regelmatige leerlingen in de scholen begeleid door het centrum, geteld op de eerste schooldag van februari van het kalenderjaar dat voorafgaat aan de start van het eerste jaar van de periode waarvoor de omkadering wordt vastgesteld, vermeld in artikel 67, vermenigvuldigd met de overeenkomstige coëfficiënt, bedoeld in artikel 69.".
+
+### ART. 27.
+
+In artikel 72, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 14 februari 2003, worden de woorden "voor de volgende drie schooljaren" vervangen door de woorden "voor de periode, vermeld in artikel 67".<br />
+
+### ART. 28.
+
+In artikel 88, § 2, van hetzelfde decreet, gewijzigd bij het decreet van 14 februari 2003, wordt het woord "driejaarlijks" vervangen door de woorden "in het eerste jaar en voor de duur van de periode waarvoor de omkadering wordt vastgesteld, vermeld in artikel 67,".<br />
+
+### ART. 29.
+
+In artikel 89, derde lid, van hetzelfde decreet, gewijzigd bij het decreet van 14 februari 2003, wordt het woord "driejaarlijks" vervangen door de woorden "in het eerste jaar en voor de duur van de periode waarvoor de omkadering wordt vastgesteld, vermeld in artikel 67,".
+
+### ART. 30.
+
+In artikel 90, § 1, van hetzelfde decreet, vervangen bij het decreet van 7 juli 2006, wordt het woord "driejaarlijks" vervangen door de woorden "in het eerste jaar en voor de duur van de periode waarvoor de omkadering wordt vastgesteld, vermeld in artikel 67,".
+
 ## HOOFDSTUK 7. Wijziging van het decreet van 14 februari 2003 betreffende het onderwijs XIV
 
 ### ART. 31.
