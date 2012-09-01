@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022073,
+  "title": "Besluit van de Vlaamse Regering van 2012-07-20 tot wijziging van het besluit van de Vlaamse Regering van 5 mei 2000 tot aanwijzing van de handelingen in de zin van artikel 4.1.1, 5°, artikel 4.4.7, § 2, en artikel 4.7.1, § 2, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening en tot regeling van het vooroverleg met de Vlaamse Bouwmeester",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022073/VolledigDocument?datum=2012-09-01",
+  "source_sha256": "002c0755c79b09cdfc72bd548c5c43f00e6fe73c0d43db075b84b207efdff0fe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022073&param=informatie",
+  "as_of": "2012-09-01",
+  "made": "2012-07-20",
+  "gazette": "2012-08-13",
+  "numac": 2012035959,
+  "document_start": "2012-09-01",
+  "document_end": null,
+  "in_force": "2012-09-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2012-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
