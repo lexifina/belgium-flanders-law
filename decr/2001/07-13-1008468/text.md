@@ -598,7 +598,32 @@ Dit hoofdstuk is van toepassing op:<br />1° de personeelsleden, bedoeld in arti
 
 ### ART. IX. 2.
 
-§ 1. Het jaarsalaris of de jaarsalaristoelage, hierna salaris genoemd, van   de personeelsleden ge-noemd in artikel IX. 1 wordt vastgesteld in een   salarisschaal die bestaat uit:<BR>1° een minimumsalaris;<BR>2° salaristrappen   die het resultaat zijn van periodieke salarisverhogingen;<BR>3° een   maximumsalaris.<BR><BR>Voor sommige ambten kan de salarisschaal vervangen worden   door een vast bedrag.<BR><BR>Het minimumsalaris, de periodieke   salarisverhogingen en het maximumsalaris worden uitgedrukt in een aantal   munteenheden.<BR><BR>Het salaris, verhoogd met de eventuele haard- of   standplaatstoelage, is nooit lager dan de gewaarborgde   minimumbezoldiging.<BR><BR>§ 2. De Vlaamse Regering bepaalt voor elk ambt de   salarisschaal. Hierbij kan ze rekening houden met : <BR>1° de aard van het ambt;   <BR>2° het onderwijsniveau; <BR>3° de onderwijsvorm; <BR>4° de graad; <BR>5° het   hoger beroepsonderwijs van kwalificatieniveau 5;<BR>6° de cyclus of de   opleidingsvorm waar het ambt wordt uitgeoefend; <BR>7° de bekwaamheidsbewijzen   die er toegang toe verlenen;<BR>8° het te onderwijzen vak, de specialiteit, de   opleiding of de module;<BR>9° het aantal leerlingen in de school in het   basisonderwijs waar het ambt van directeur wordt uitgeoefend.<BR><BR>Ze deelt de   salarisschalen in en bepaalt hoe ze worden aangegeven.<BR><BR>§ 3. De Vlaamse   regering bepaalt de voorwaarden van overgang naar de trappen binnen eenzelfde   salarisschaal, met inbegrip van de anciënniteitvoorwaarden.
+§ 1. Het jaarsalaris of de jaarsalaristoelage, hierna salaris genoemd, van de personeelsleden ge-noemd in artikel IX. 1 wordt vastgesteld in een salarisschaal die bestaat uit:<br>
+1° een minimumsalaris;<br>
+2° salaristrappen die het resultaat zijn van periodieke salarisverhogingen;<br>
+3° een maximumsalaris.<br>
+<br>
+Voor sommige ambten kan de salarisschaal vervangen worden door een vast bedrag.<br>
+<br>
+Het minimumsalaris, de periodieke salarisverhogingen en het maximumsalaris worden uitgedrukt in een aantal munteenheden.<br>
+<br>
+Het salaris, verhoogd met de eventuele haard- of standplaatstoelage, is nooit lager dan de gewaarborgde minimumbezoldiging.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt voor elk ambt de salarisschaal. Hierbij kan ze rekening houden met :<br>
+1° de aard van het ambt;<br>
+2° het onderwijsniveau;<br>
+3° de onderwijsvorm;<br>
+4° de graad;<br>
+5° het hoger beroepsonderwijs van kwalificatieniveau 5;<br>
+6° de cyclus of de opleidingsvorm waar het ambt wordt uitgeoefend;<br>
+7° de bekwaamheidsbewijzen die er toegang toe verlenen;<br>
+8° het te onderwijzen vak, de specialiteit, de opleiding of de module;<br>
+9° het aantal leerlingen in de school in het basisonderwijs waar het ambt van directeur wordt uitgeoefend.<br>
+10° het volgen van een opleiding.<br>
+<br>
+Ze deelt de salarisschalen in en bepaalt hoe ze worden aangegeven.<br>
+<br>
+§ 3. De Vlaamse regering bepaalt de voorwaarden van overgang naar de trappen binnen eenzelfde salarisschaal, met inbegrip van de anciënniteitvoorwaarden.
 
 ### ART. IX. 3.
 
