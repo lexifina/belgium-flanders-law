@@ -2,16 +2,16 @@
   "codex_id": 1018926,
   "title": "Besluit van de Vlaamse Regering van 2010-02-26 tot tijdelijke erkenning van de opleiding bachelor in de bouw van de Hogeschool Sint-Lukas Brussel",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018926/VolledigDocument?datum=2010-09-01",
-  "source_sha256": "222c292dc453c0501d6c0965a63bd9772064adff145048217c2892266bc89d19",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018926/VolledigDocument?datum=2012-09-01",
+  "source_sha256": "454384ab6f8796d364b75c2d178c945ecb1059351493652a5b8808b44382291e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018926&param=informatie",
-  "as_of": "2010-09-01",
+  "as_of": "2012-09-01",
   "made": "2010-02-26",
   "gazette": "2010-04-09",
   "numac": 2010035257,
   "document_start": "2010-09-01",
   "document_end": "2012-08-31",
-  "in_force": "2010-09-01",
+  "in_force": "2012-09-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2010-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-09-01; future article versions excluded; article text as the API gives it"
 }

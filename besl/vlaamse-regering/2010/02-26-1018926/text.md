@@ -6,8 +6,8 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 4 april 2003 betreffend
 
 ### ART. 1.
 
-De opleiding bachelor in de bouw van de Hogeschool Sint-Lukas Brussel krijgt een tijdelijke erkenning.<br /><br />Die tijdelijke erkenning geldt voor een periode van twee jaar, die ingaat vanaf het begin van het academiejaar 2010-2011 en vervalt op het einde van het academiejaar 2011-2012.<br />
+...
 
 ### ART. 2.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.
+...
