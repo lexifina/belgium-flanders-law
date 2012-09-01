@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022472,
+  "title": "Besluit van de Vlaamse Regering van 2012-10-12 tot wijziging van het besluit van de Vlaamse Regering van 15 december 1993 tot uitvoering van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken en van het besluit van de Vlaamse Regering van 21 november 2003 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022472/VolledigDocument?datum=2012-09-01",
+  "source_sha256": "bcab0bf52cc1ba9aca705eb190d15fe9342afc2a0b238765ee94b6e0137c2eb0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022472&param=informatie",
+  "as_of": "2012-09-01",
+  "made": "2012-10-12",
+  "gazette": "2012-11-21",
+  "numac": 2012036178,
+  "document_start": "2012-09-01",
+  "document_end": null,
+  "in_force": "2012-09-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2012-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
