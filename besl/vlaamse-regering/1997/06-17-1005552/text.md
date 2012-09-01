@@ -24,6 +24,10 @@ De volgende taken behoren niet tot het taken- en opdrachtenpakket van het person
 
 De taken vermeld onder artikel 4, eerste lid, 5° tot en met 10°, kunnen in uitzonderlijke omstandigheden en op een niet-systematische wijze opgelegd worden aan de personeelsleden. <br /><br />De toepassing van het eerste lid is afhankelijk van de onderhandelingen in het lokaal comité met betrekking tot de invulling van de begrippen "op niet-systematische wijze" en "in uitzonderlijke omstandigheden".
 
+### ART. 4ter.
+
+Voor- en naschools toezicht buiten de normale aanwezigheid van de   leerlingen en zelfstandig uitvoeren van een lesopdracht mogen in geen geval deel   uitmaken van de opdracht van kinderverzorgers in het gewoon   kleuteronderwijs.
+
 ## HOOFDSTUK III DIRECTIE
 
 ### ART. 5.
