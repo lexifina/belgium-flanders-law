@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022264,
+  "title": "Ministerieel besluit van 2012-08-30 tot opheffing van het ministerieel besluit van 2 juli 1984 houdende de omschrijving van de zone Opwijk waarin leerlingenvervoer wordt verzekerd in uitvoering van de wet van 15 juli 1983 houdende de oprichting van de Nationale Dienst voor Leerlingenvervoer",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022264/VolledigDocument?datum=2012-09-01",
+  "source_sha256": "398853b24717008f875b337143128d4e97a32ac06e7340a7fbe8394d428c6c75",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022264&param=informatie",
+  "as_of": "2012-09-01",
+  "made": "2012-08-30",
+  "gazette": "2012-09-14",
+  "numac": 2012036020,
+  "document_start": "2012-09-01",
+  "document_end": null,
+  "in_force": "2012-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
