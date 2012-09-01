@@ -6,15 +6,15 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs wordt het opleidingsprofiel voor de modulaire structuur van het studiegebied juwelen, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage 1, die bij dit besluit is gevoegd.<br /><br />
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied juwelen, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage 1 tot en met 5, die bij dit besluit zijn gevoegd.
 
 ### ART. 2.
 
-Het opleidingsprofiel, vermeld in artikel 1, wordt uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />
+Het opleidingsprofiel, vermeld in artikel 1, wordt uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />In afwijking van het eerste lid worden de opleidingsprofielen, vastgelegd in bijlage 2 tot en met 5, uiterlijk tijdens het schooljaar 2015-2016 geëvalueerd.<br />
 
 ### ART. 3.
 
-Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Uurwerkmaken BSO 3 heeft vanaf 1 september 2011 ook onderwijsbevoegdheid voor de modulaire opleiding Uurwerkmaker.<br /><br />
+Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Uurwerkmaken BSO 3 heeft vanaf 1 september 2011 ook onderwijsbevoegdheid voor de modulaire opleiding Uurwerkmaker.<br /><br />Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Goudsmederij BSO3 of de lineaire opleidingen Juwelenherstelling BSO3 of Edelsteenzetten BSO3 heeft vanaf 1 september 2012 onderwijsbevoegdheid voor de modulaire opleidingen Edelsteenzetter, Goudsmid, Juwelenhersteller en Zilversmid.
 
 ### ART. 4.
 
@@ -31,3 +31,19 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 ### BIJLAGE 1
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_2.pdf#page=45" title=" Bijlage" target="_blank" class="pdf">Bijlage</a>
+
+### BIJLAGE 2.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2012/11/22_1_3.pdf#page=19" title=" Bijlage 11" target="_blank" class="pdf">Bijlage 11</a>
+
+### BIJLAGE 3.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2012/11/22_1_3.pdf#page=38" title=" Bijlage 12" target="_blank" class="pdf">Bijlage 12</a>
+
+### BIJLAGE 4.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2012/11/22_1_3.pdf#page=49" title=" Bijlage 13" target="_blank" class="pdf">Bijlage 13</a>
+
+### BIJLAGE 5.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2012/11/22_1_3.pdf#page=62" title=" bijlage 14" target="_blank" class="pdf">bijlage 14</a>
