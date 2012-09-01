@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de benoemde personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool.<br /><br />Dit besluit is eveneens van toepassing op de personeelsleden bedoeld in artikel 182, § 1, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap, die benoemd waren aan een hogeschool.
+Dit besluit is van toepassing op de benoemde personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool.<br /><br />Dit besluit is eveneens van toepassing op de personeelsleden bedoeld in artikel 36, § 1 en artikel 37 van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen, die benoemd waren aan een hogeschool.
 
 ### ART. 2.
 
@@ -24,7 +24,7 @@ De terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan he
 
 ### ART. 5.
 
-De personeelsleden bedoeld in artikel 1 kunnen een volledige terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen krijgen als zij op de vooravond van de terbeschikkingstelling voldoen aan de volgende voorwaarden:<br /><br />1° de leeftijd van 58 jaar hebben bereikt. Voor de personeelsleden die geboren zijn vóór 1 oktober 1947 geldt de leeftijd van 55 jaar;<br /><br />2° ten minste 20 dienstjaren tellen die in aanmerking komen voor de opening van het recht op een rustpensioen ten laste van de Schatkist.<br /><br />Daarenboven mogen de personeelsleden met ingang van de terbeschikkingstelling:<br /><br />1° geen aanspraak kunnen maken op een rustpensioen ten laste van de Schatkist;<br /><br />2° geen prestaties meer uitoefenen in het onderwijs of centra voor leerlingenbegeleiding, georganiseerd, gesubsidieerd of gefinancierd door de Vlaamse Gemeenschap, met uitzondering van prestaties als gastprofessor in een hogeschool die niet betaald worden door het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap.<br /><br />Deze terbeschikkingstelling wordt toegekend tot de vooravond van de dag waarop het personeelslid op een rustpensioen ten last van de Schatkist aanspraak kan maken.
+§1. De personeelsleden bedoeld in artikel 1 kunnen een volledige terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen krijgen als zij op de vooravond van de terbeschikkingstelling voldoen aan de volgende voorwaarden:<br />1° de leeftijd van 58 jaar hebben bereikt. Voor de personeelsleden die geboren zijn vóór 1 oktober 1947 geldt de leeftijd van 55 jaar;<br />2° ten minste 20 dienstjaren tellen die in aanmerking komen voor de opening van het recht op een rustpensioen ten laste van de Schatkist.<br /><br />Daarenboven mogen de personeelsleden met ingang van de terbeschikkingstelling:<br />1° geen aanspraak kunnen maken op een rustpensioen ten laste van de Schatkist;<br />2° geen prestaties meer uitoefenen in het onderwijs of centra voor leerlingenbegeleiding, georganiseerd, gesubsidieerd of gefinancierd door de Vlaamse Gemeenschap, met uitzondering van prestaties als gastprofessor in een hogeschool die niet betaald worden door het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap.<br /><br />Deze terbeschikkingstelling wordt toegekend tot de vooravond van de dag waarop het personeelslid op een rustpensioen ten last van de Schatkist aanspraak kan maken.<br /><br />§ 2. In afwijking van paragraaf 1, eerste lid, 1°, kan de terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen voor personeelsleden die voor 1 januari 1957 geboren zijn op zijn vroegst twee jaar voor de leeftijd waarop de betrokken personeelsleden aanspraak kunnen maken op een rustpensioen ten laste van de Schatkist, ingaan.<br /><br />In afwijking van paragraaf 1, eerste lid, 1°, kan de terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen voor personeelsleden die in het jaar 1957 geboren zijn, op zijn vroegst een jaar voor de leeftijd waarop de betrokken personeelsleden aanspraak kunnen maken op een rustpensioen ten laste van de Schatkist, ingaan.
 
 ### ART. 6.
 
@@ -33,6 +33,10 @@ De terbeschikkingstelling vangt aan op 1 oktober, 1 januari of 1 april, hierna d
 ### ART. 7.
 
 § 1. Het personeelslid dat overeenkomstig deze afdeling een volledige terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen krijgt, geniet een wachtgeld.<br /><br />Het bedrag van dit wachtgeld is gedurende de hele periode van deze terbeschikkingstelling, gelijk aan zoveel vijftigsten, vijfenvijftigsten of zestigsten van het laatste activiteitssalaris als het personeelslid op de datum van zijn terbeschikkingstelling dienstjaren telt, naargelang de voor de berekening van het pensioen in aanmerking te nemen breuk 1/50, 1/55 of 1/60 is.<br /><br />§ 2. Voor de toepassing van dit artikel worden, ongeacht het volume ervan de diensten in aanmerking genomen die meetellen voor de berekening van het rustpensioen, met uitsluiting van de bonificaties wegens studies, en van andere perioden, vergoed wegens diensten die voor de vaststelling van het salaris meetellen.<br /><br />§ 3. In afwachting dat de berekening van het wachtgeld wordt vastgesteld voor de personeelsleden die geboren zijn na 30 september 1952, blijven de paragrafen 1 en 2 van toepassing.
+
+### ART. 7/1.
+
+De personeelsleden die geboren zijn vanaf 1 april 1954 ontvangen een wachtgeld, vastgesteld met toepassing van artikel 7, maar vermenigvuldigd met een percentage dat als volgt is bepaald : <br />1° 77,5 %, wanneer de terbeschikkingstelling wordt opgenomen voor een periode die minstens een jaar korter is dan de volledige periode waarop het personeelslid recht heeft;<br />2° 75 %, wanneer de terbeschikkingstelling wordt opgenomen voor een periode die minder dan een jaar korter is dan de volledige periode waarop het personeelslid recht heeft.<br /><br />Met volledige periode waarop het personeelslid recht heeft, wordt de periode van twee of een jaar vermeld in artikel 5, § 2, bedoeld.
 
 ## AFDELING 2 HET UITZONDERINGSSTELSEL
 
@@ -124,7 +128,7 @@ Het hogeschoolbestuur of het organisme dat het personeelslid tewerkstelt, kan aa
 
 ### ART. 28.
 
-§ 1. Het personeelslid dat een deeltijdse terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen geniet, ontvangt de volgende vergoedingen:<br /><br />1° het salaris verbonden aan de opdracht die hij nog werkelijk uitoefent;<br /><br />2° een wachtgeld voor het gedeelte van de opdracht waarvoor de deeltijdse terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen verleend wordt.<br /><br />§ 2. Vanaf de maand die volgt op de zestigste verjaardag van het personeelslid, krijgt dat personeelslid geen salaris en geen wachtgeld meer.
+§ 1. Het personeelslid dat een deeltijdse terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen geniet, ontvangt de volgende vergoedingen:<br />1° het salaris verbonden aan de opdracht die hij nog werkelijk uitoefent;<br />2° een wachtgeld voor het gedeelte van de opdracht waarvoor de deeltijdse terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen verleend wordt.<br /><br />§ 2. Vanaf de maand die volgt op de dag waarop het betrokken personeelslid aanspraak kan maken op een pensioen ten laste van de Schatkist, krijgt dat personeelslid geen salaris en geen wachtgeld meer.
 
 ### ART. 29.
 
@@ -143,6 +147,10 @@ Vanaf 1 oktober 2002 tot 30 september 2007 wordt de toepassing van de bepalingen
 ### ART. 32.
 
 § 1. Voor de toepassing van dit besluit moet eveneens rekening gehouden worden met de prestaties verstrekt in instellingen van de andere onderwijsniveaus.<br /><br />§ 2. Indien het personeelslid op de vooravond van de terbeschikkingstelling benoemd is voor een opdracht zowel in een hogeschool als in een instelling van een ander onderwijsniveau en deze benoemde opdracht overschrijdt een ambt met volledige prestaties, wordt voor de vaststelling van het laatste activiteitssalaris voor een voltijdse betrekking eerst het salaris genomen verbonden aan de opdracht bezoldigd op grond van de hoogste salarisschaal.
+
+### ART. 32/1.
+
+Voor personeelsleden die vanaf 1 januari 1958 geboren zijn, vervalt het recht op een voltijdse terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen.
 
 ## HOOFDSTUK V SLOTBEPALINGEN
 
