@@ -72,7 +72,7 @@ Rekening houdend met de schoolcontext en de kenmerken van de schoolpopulatie gaa
 
 ### ART. 14.
 
-In toepassing van artikel 177 van het decreet kunnen misbruiken bij de telling van de regelmatige leerlingen die aan gelijkekansenindicatoren beantwoorden of bij het aanwenden van de aanvullende lestijden aanleiding geven tot sancties overeenkomstig artikel 178 van het decreet. Misbruiken bij de telling van leerlingen worden vastgesteld bij wijze van steekproef.<br /><br />De door het departement vastgestelde overtredingen worden bij aangetekend schrijven meegedeeld aan het betrokken schoolbestuur. De mededeling verwijst naar de mogelijke sancties.<br /><br />
+In toepassing van artikel 177 van het decreet kunnen misbruiken bij de   telling van de regelmatige leerlingen die aan gelijkekansenindicatoren   beantwoorden of bij het aanwenden van de aanvullende lestijden aanleiding geven   tot sancties overeenkomstig artikel 178 van het decreet. Misbruiken bij de   telling van leerlingen worden vastgesteld bij wijze van steekproef.<BR><BR>De   door het&nbsp;Agentschap voor Onderwijsdiensten&nbsp;vastgestelde overtredingen   worden bij aangetekend schrijven meegedeeld aan het betrokken schoolbestuur. De   mededeling verwijst naar de mogelijke sancties.<BR><BR>
 
 ### ART. 15.
 
