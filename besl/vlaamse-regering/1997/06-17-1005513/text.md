@@ -36,7 +36,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° cursus: 
 
 ### ART. 6.
 
-§ 1. Met toepassing van artikel 132 van het decreet worden de lestijden volgens de schalen jaarlijks per type vastgesteld volgens de tabellen in de bijlagen 1, 2 en 3 bij dit besluit.<br /><br />§ 2. Voor de berekening van het aantal lestijden bij een leerlingenaantal hoger dan voorzien in de respectieve tabellen, worden voor bijkomende leerlingen de drie laatste verhogingen van het aantal lestijden in die tabel telkens herhaald.
+§ 1. Met toepassing van artikel 137ter van het decreet worden de lestijden   volgens de schalen jaarlijks per type vastgesteld volgens de tabellen in de   bijlagen 1, 2 en 3 bij dit besluit.<BR><BR>§ 2. Voor de berekening van het   aantal lestijden bij een leerlingenaantal hoger dan voorzien in de respectieve   tabellen, worden voor bijkomende leerlingen de drie laatste verhogingen van het   aantal lestijden in die tabel telkens herhaald.
 
 ### ART. 7.
 
@@ -52,7 +52,7 @@ De omrekening van de lestijden volgens de schalen naar de gefinancierde of gesub
 
 ### ART. 10.
 
-Voor de toepassing van artikel 132, § 6 van het decreet is het gemiddeld aantal onderwijsdagen per kind gelijk aan 10.
+Voor de toepassing van artikel 137bis, § 5&nbsp;van het decreet is het   gemiddeld aantal onderwijsdagen per kind gelijk aan 10.
 
 ### ART. 11.
 
@@ -556,11 +556,11 @@ Uit de puntenenveloppe, verkregen volgens artikel 25ter of artikel 25quater, kan
 
 ### ART. 26.
 
-Onverminderd de bepalingen van artikel 174 van het decreet, worden met toepassing van artikel 177, § 1, 9° en 10° van het decreet de misbruiken bij het tellen van de regelmatige leerlingen voor het lestijden- en urenpakket, en de misbruiken bij het berekenen en aanwenden van het lestijden- en urenpakket die vastgesteld worden door het departement, bij aangetekend schrijven meegedeeld aan het betrokken schoolbestuur. De mededeling verwijst naar de mo-gelijke sancties.
+Onverminderd de bepalingen van artikel 174 van het decreet, worden met   toepassing van artikel 177, § 1, 9° en 10° van het decreet de misbruiken bij het   tellen van de regelmatige leerlingen voor het lestijden- en urenpakket, en de   misbruiken bij het berekenen en aanwenden van het lestijden- en urenpakket die   vastgesteld worden door het Agentschap voor Onderwijsdiensten, bij aangetekend   schrijven meegedeeld aan het betrokken schoolbestuur. De mededeling verwijst   naar de mogelijke sancties.
 
 ### ART. 27.
 
-§ 1. Binnen een termijn van 30 kalenderdagen na de betekening van het aangetekend schrijven kan het schoolbestuur bij het departement een verweerschrift indienen. De betekening wordt geacht te gebeuren de derde werkdag na het versturen van het aangetekend schrijven. De herfstvakantie, kerstvakantie, krokusvakantie, paasvakantie en zomervakantie schorten de termijn van 30 kalenderdagen op.<br /><br />§ 2. Na ontvangst van het verweerschrift, en uiterlijk 60 kalenderdagen na de betekening van het aangetekend schrijven, legt het departement eventueel een dossier met een voorstel tot sanctie voor aan de Vlaamse minister, bevoegd voor onder-wijs.
+§ 1. Binnen een termijn van 30 kalenderdagen na de betekening van het   aangetekend schrijven kan het schoolbestuur bij het Agentschap voor   Onderwijsdiensten een verweerschrift indienen. De betekening wordt geacht te   gebeuren de derde werkdag na het versturen van het aangetekend schrijven. De   herfstvakantie, kerstvakantie, krokusvakantie, paasvakantie en zomervakantie   schorten de termijn van 30 kalenderdagen op.<BR><BR>§ 2. Na ontvangst van het   verweerschrift, en uiterlijk 60 kalenderdagen na de betekening van het   aangetekend schrijven, legt het Agentschap voor Onderwijsdiensten eventueel een   dossier met een voorstel tot sanctie voor aan de Vlaamse minister, bevoegd voor   onderwijs.
 
 ### ART. 28.
 
