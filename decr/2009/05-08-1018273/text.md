@@ -330,7 +330,7 @@ Het personeelslid is ertoe gehouden het ambtsgeheim te bewaren.
 
 ### ART. 58.
 
-De plichten worden nader toegelicht in een deontologische code, vastgesteld door de Vlaamse Regering.
+De plichten worden nader toegelicht in een deontologische code, vastgesteld door de Vlaamse Regering. De Vlaamse Regering stelt een deontologische adviescommissie aan die zal toezien op de toepassing en de interpretatie van de deontologische code.
 
 ## Afdeling II. Onverenigbaarheden
 
@@ -766,11 +766,11 @@ De Vlaamse Regering bepaalt de voorwaarden waaronder een personeelslid ter besch
 
 ### ART. 150.
 
-Voor zover dat niet anders is bepaald, geven de volgende situaties voor een tijdelijk aangesteld, tot de proeftijd toegelaten en een vastbenoemd personeelslid eveneens aanleiding tot definitieve ambtsneerlegging of tot beëindiging van de tijdelijke aanstelling :<br />1° het vrijwillige ontslag. De opzeggingstermijn bedraagt vijftien kalenderdagen, tenzij bij onderlinge overeenkomst een andere termijn wordt overeengekomen. Het personeelslid deelt het vrijwillig ontslag mee per aangetekende brief; <br />2° de pensionering wegens het bereiken van de leeftijdsgrens.
+Voor zover dat niet anders is bepaald, geven de volgende situaties voor   een tijdelijk aangesteld, tot de proeftijd toegelaten en een vastbenoemd   personeelslid eveneens aanleiding tot definitieve ambtsneerlegging of tot   beëindiging van de tijdelijke aanstelling :<BR>1° het vrijwillige ontslag. De   opzeggingstermijn bedraagt vijftien kalenderdagen, tenzij bij onderlinge   overeenkomst een andere termijn wordt overeengekomen. Het personeelslid deelt   het vrijwillig ontslag mee per aangetekende brief; <BR>2° de pensionering wegens   het bereiken van de leeftijdsgrens.<BR><BR>In afwijking van artikel 150, eerste   lid, 2°, en zonder afbreuk te doen aan de bepalingen van artikel 62, § 2 en § 3,   eindigt de aanstelling niet na het bereiken van de leeftijdsgrens indien het   betrokken personeelslid en de inspecteur-generaal overeenkomen de aanstelling te   verlengen. Dergelijke verlenging van de aanstelling geldt telkens enkel voor de   duur van maximum één jaar.
 
 ### ART. 151.
 
-Voor zover dat niet anders is bepaald, geven de volgende situaties voor een personeelslid dat een mandaat bekleedt, eveneens aanleiding tot beëindiging van het mandaat :<br />1° het vrijwillige ontslag. De opzeggingstermijn zoals vermeld in artikel 87, § 1, moet worden nageleefd; <br />2° de pensionering wegens het bereiken van de leeftijdsgrens.
+Voor zover dat niet anders is bepaald, geven de volgende situaties voor   een personeelslid dat een mandaat bekleedt, eveneens aanleiding tot beëindiging   van het mandaat :<BR>1° het vrijwillige ontslag. De opzeggingstermijn zoals   vermeld in artikel 87, § 1, moet worden nageleefd; <BR>2° de pensionering wegens   het bereiken van de leeftijdsgrens.<BR><BR>In afwijking van artikel 151, eerste   lid, 2°, en zonder afbreuk te doen aan de bepalingen van artikel 62, § 2 en § 3,   eindigt het mandaat niet na het bereiken van de leeftijdsgrens indien het   betrokken personeelslid en de inspecteur-generaal overeenkomen het mandaat te   verlengen. Dergelijke verlenging van het mandaat geldt telkens enkel voor de   duur van maximum één jaar.
 
 ### ART. 152.
 
