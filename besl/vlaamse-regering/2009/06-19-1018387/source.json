@@ -2,16 +2,16 @@
   "codex_id": 1018387,
   "title": "Besluit van de Vlaamse Regering van 2009-06-19 houdende vaststelling van de lijst van gemeenten in de zin van artikel 5.1.1, eerste lid, van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018387/VolledigDocument?datum=2009-09-01",
-  "source_sha256": "692948e9584db785c85772169d2ab6c849310092e9215622a639a1ee3ccef9fd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018387/VolledigDocument?datum=2012-09-01",
+  "source_sha256": "ec668d95fbf9e297cacb5ed05c65c153810b50c350e83f16fe51b168d5e73d9c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018387&param=informatie",
-  "as_of": "2009-09-01",
+  "as_of": "2012-09-01",
   "made": "2009-06-19",
   "gazette": "2009-09-22",
   "numac": 2009035875,
   "document_start": "2009-09-01",
   "document_end": "2012-08-31",
-  "in_force": "2009-09-01",
+  "in_force": "2012-09-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-09-01; future article versions excluded; article text as the API gives it"
 }
