@@ -58,7 +58,7 @@ Het opvangverlof bedraagt : <br />1° ten hoogste zes weken als het opgenomen ki
 
 ### ART. 8/4.
 
-Het opvangverlof begint op de datum waarop het kind effectief in het gezin wordt opgenomen. Het bewijs van de opname wordt geleverd door een door het gemeentebestuur uitgereikt getuigschrift van domiciliëring.<br /><br />In afwijking van het eerste lid kan het opvangverlof ook beginnen op de dag van de afreis van het personeelslid naar het buitenland, op voorwaarde dat de adoptie bij de terugkeer in België tot stand is gekomen. <br /><br />Als blijkt dat er bij de terugkeer geen adoptie heeft plaatsgevonden, wordt het opvangverlof omgezet in een terbeschikkingstelling wegens persoonlijke aangelegenheden. Die terbeschikkingstelling neemt een einde bij het verstrijken van de periode waarvoor het opvangverlof was aangevraagd.
+Het opvangverlof moet een aanvang nemen binnen twee maanden volgend op de datum waarop het kind effectief in het gezin wordt opgenomen. Het bewijs van de opname wordt geleverd door een door het gemeentebestuur uitgereikt getuigschrift van domiciliëring.<br /><br />In afwijking van het eerste lid kan het opvangverlof ook beginnen op de dag van de afreis van het personeelslid naar het buitenland, op voorwaarde dat de adoptie bij de terugkeer in België tot stand is gekomen. <br /><br />Als blijkt dat er bij de terugkeer geen adoptie heeft plaatsgevonden, wordt het opvangverlof omgezet in een terbeschikkingstelling wegens persoonlijke aangelegenheden. Die terbeschikkingstelling neemt een einde bij het verstrijken van de periode waarvoor het opvangverlof was aangevraagd.
 
 ### ART. 8/5.
 
