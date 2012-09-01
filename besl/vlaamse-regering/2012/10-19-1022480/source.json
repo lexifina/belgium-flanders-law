@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022480,
+  "title": "Besluit van de Vlaamse Regering van 2012-10-19 betreffende de subsidiëring van voortrajecten binnen het stelsel van leren en werken in de Vlaamse Gemeenschap voor het schooljaar 2012-2013",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022480/VolledigDocument?datum=2012-09-01",
+  "source_sha256": "6d003fbc61c9ebad402123b3ebfd3d33466f75539852d58cec99d074a1a71500",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022480&param=informatie",
+  "as_of": "2012-09-01",
+  "made": "2012-10-19",
+  "gazette": "2012-11-22",
+  "numac": 2012206606,
+  "document_start": "2012-09-01",
+  "document_end": "2016-12-31",
+  "in_force": "2012-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2012-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
