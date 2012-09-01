@@ -2,16 +2,16 @@
   "codex_id": 1010113,
   "title": "Besluit van de Vlaamse Regering van 2002-07-19 betreffende het geïntegreerd ondersteuningsaanbod in het gewoon basisonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010113/VolledigDocument?datum=2008-09-01",
-  "source_sha256": "5a0ac762cc607e81164fd859b136278954ab1306cc19c214a57e8b20e097c611",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010113/VolledigDocument?datum=2012-09-01",
+  "source_sha256": "8ef06cb7dde041b79473a4d3cda8eeb8ab834cab60f5d7b2250ecdf4b1c404a2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010113&param=informatie",
-  "as_of": "2008-09-01",
+  "as_of": "2012-09-01",
   "made": "2002-07-19",
   "gazette": "2002-12-04",
   "numac": 2002036473,
   "document_start": "2002-09-01",
   "document_end": "2012-08-31",
-  "in_force": "2008-09-01",
+  "in_force": "2012-09-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-09-01; future article versions excluded; article text as the API gives it"
 }
