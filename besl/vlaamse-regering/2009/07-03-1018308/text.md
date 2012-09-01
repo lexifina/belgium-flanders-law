@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 ### ART. 1.
 
-Dit besluit is uitsluitend van toepassing op de personeelsleden vermeld in artikel 127, § 1, 1°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.
+<P>Dit besluit is uitsluitend van toepassing op de personeelsleden vermeld in   artikel 127, § 1, 1°, van het decreet van 15 juni 2007 betreffende het   volwassenenonderwijs die op 31 augustus 2012 genieten van een verlof voor   onderbreking of voor vermindering van de arbeidsprestaties in toepassing van   artikel 3, 6, 9, 21, 23 of 28 van dit besluit.</P>  <P>Voor de personeelsleden die op 31 augustus 2012 genieten van een verlof voor   vermindering van de arbeidsprestaties vanaf de leeftijd van 50 jaar, zoals   vermeld in artikel 9 van dit besluit, is het besluit van toepassing tot op de   vooravond van de eerste instapdatum volgend op hun 55e   verjaardag.</P>
 
 ## HOOFDSTUK II. Terminologie
 
