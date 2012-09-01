@@ -2,16 +2,16 @@
   "codex_id": 1020531,
   "title": "Besluit van de Vlaamse Regering van 2011-07-22 tot wijziging van het besluit van de Vlaamse Regering van 31 juli 1990 tot vastlegging van het pakket \"uren-leraar\" in het voltijds secundair onderwijs wat betreft de Koninklijke Balletschool Antwerpen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020531/VolledigDocument?datum=2011-09-01",
-  "source_sha256": "75696cff2eb31012d98a327ac7d9344a97deff8da9cc88a95ed1b5abbdd9f7fa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020531/VolledigDocument?datum=2012-09-01",
+  "source_sha256": "8408981c91a69bdbf589be614fafd1f5091ce453e0f0f911b3532bb9d6790be9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020531&param=informatie",
-  "as_of": "2011-09-01",
+  "as_of": "2012-09-01",
   "made": "2011-07-22",
   "gazette": "2011-08-16",
   "numac": 2011204057,
   "document_start": "2011-09-01",
   "document_end": "2012-08-31",
-  "in_force": "2011-09-01",
+  "in_force": "2012-09-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2011-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-09-01; future article versions excluded; article text as the API gives it"
 }

@@ -6,12 +6,12 @@ De Vlaamse Regering,<br /><br />Gelet op de codex secundair onderwijs, artikel 2
 
 ### ART. 1.
 
-In het besluit van de Vlaamse Regering van 31 juli 1990 tot vastlegging van het pakket "uren-leraar" in het voltijds secundair onderwijs wordt een artikel 7bis ingevoegd, dat luidt als volgt : <br />"Art. 7bis. In afwijking van artikel 4 en 6 wordt voor het schooljaar 2011-2012 aan de Koninklijke Balletschool Antwerpen een pakket van 481 uren-leraar toegekend.".<br /><br />
+...
 
 ### ART. 2.
 
-Dit besluit treedt in werking op 1 september 2011 en houdt op uitwerking te hebben op 31 augustus 2012. <br /><br />
+...
 
 ### ART. 3.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.<br /><br />
+...
