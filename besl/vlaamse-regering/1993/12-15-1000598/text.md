@@ -4,12 +4,14 @@
 
 ### ART. 1.
 
-§ 1. De personeelsformatie van de inspectie en de begeleiding van de levensbeschouwelijke vakken wordt vastgesteld als volgt: 
+<p>§ 1. De personeelsformatie van de inspectie en de begeleiding van de levensbeschouwelijke vakken wordt vastgesteld als volgt:</p>
+
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td colspan="2" style="vertical-align:top; width:401.4pt">
-			<p>1° voor de katholieke godsdienst:</p>
+			<p><br>
+			1° voor de katholieke godsdienst:</p>
 			</td>
 		</tr>
 		<tr>
@@ -38,36 +40,23 @@
 		</tr>
 		<tr>
 			<td colspan="2" style="vertical-align:top; width:401.4pt">
-			<p>2° voor de niet-confessionele zedenleer:</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="vertical-align:top; width:341.4pt">
-			<p>- inspecteur-adviseur voor het lager onderwijs:</p>
-			</td>
-			<td style="vertical-align:top; width:60pt">
-			<p>4,5</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="vertical-align:top; width:341.4pt">
-			<p>- inspecteur-adviseur coördinator voor het lager onderwijs:</p>
-			</td>
-			<td style="vertical-align:top; width:60pt">
-			<p>1</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="vertical-align:top; width:341.4pt">
-			<p>- inspecteur-adviseur voor het secundair en het pedagogisch hoger onderwijs:</p>
-			</td>
-			<td style="vertical-align:top; width:60pt">
-			<p>3</p>
+			<p><br>
+			2°&nbsp;voor de niet-confessionele zedenleer :<br>
+			a) inspecteur-adviseur voor het lager onderwijs : 4,5;<br>
+			b) inspecteur-adviseur coördinator voor het lager onderwijs : 1;<br>
+			c) inspecteur-adviseur voor het secundair en het pedagogisch hoger onderwijs : 3.<br>
+			<br>
+			Eén ambt van inspecteur-adviseur coördinatorkan georganiseerdworden, als de organisatie ervan geen boventalligheid tot gevolg heeft en de toegekende personeelsformatie als volgt wordt aangepast.<br>
+			<br>
+			Als het ambt wordt vervuld door een personeelslid met een bekwaamheidsbewijs van tenminste master, wordt één ambt van inspecteur-adviseur coördinator voor het lager onderwijs ingeleverd en bijkomend één functie van inspecteur-adviseur voor het secundair en het pedagogisch hoger onderwijs geschrapt. Om het aantal personeelsleden binnen de personeelsformatie gelijk te houden, wordt één bijkomende functie van inspecteur-adviseur voor het lager onderwijs toegekend.<br>
+			<br>
+			Als het ambt wordt vervuld door een personeelslid met een ander bekwaamheidsbewijs, wordt alleen het ambt van inspecteur-adviseur coördinator voor het lager onderwijs ingeleverd</p>
 			</td>
 		</tr>
 		<tr>
 			<td colspan="2" style="vertical-align:top; width:401.4pt">
-			<p>3° voor de protestantse godsdienst:</p>
+			<p><br>
+			3° voor de protestantse godsdienst:</p>
 			</td>
 		</tr>
 		<tr>
@@ -88,7 +77,8 @@
 		</tr>
 		<tr>
 			<td colspan="2" style="vertical-align:top; width:401.4pt">
-			<p>4° voor de anglicaanse godsdienst:</p>
+			<p><br>
+			4° voor de anglicaanse godsdienst:</p>
 			</td>
 		</tr>
 		<tr>
@@ -101,7 +91,8 @@
 		</tr>
 		<tr>
 			<td colspan="2" style="vertical-align:top; width:401.4pt">
-			<p>5° voor de israëlitische en de orthodoxe godsdienst:</p>
+			<p><br>
+			5° voor de israëlitische en de orthodoxe godsdienst:</p>
 			</td>
 		</tr>
 		<tr>
@@ -114,7 +105,8 @@
 		</tr>
 		<tr>
 			<td colspan="2" style="vertical-align:top; width:401.4pt">
-			<p>6° voor de islamitische godsdienst:</p>
+			<p><br>
+			6° voor de islamitische godsdienst:</p>
 			</td>
 		</tr>
 		<tr>
@@ -136,9 +128,16 @@
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
+<p>§ 2. Ter uitvoering van artikel 6, § 4, tweede lid, van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken, hierna te noemen het decreet van 1 december 1993, wordt het maximum aantal personeelsleden dat aan de in § 1 vermelde personeelsformatie toegevoegd kan worden, vastgesteld als volgt:<br>
 <br>
-§ 2. Ter uitvoering van artikel 6, § 4, tweede lid, van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken, hierna te noemen het decreet van 1 december 1993, wordt het maximum aantal personeelsleden dat aan de in § 1 vermelde personeelsformatie toegevoegd kan worden, vastgesteld als volgt: voor de inspectie en de begeleiding van: 1° de katholieke godsdienst: 2 2° de protestantse godsdienst: - 3° de israëlitische godsdienst: - 4° de anglicaanse godsdienst: - 5° de islamitische godsdienst: - 6° de orthodoxe godsdienst: - 7° de niet-confessionele zedenleer: 1
+voor de inspectie en de begeleiding van:<br>
+1° de katholieke godsdienst: 2<br>
+2° de protestantse godsdienst: -<br>
+3° de israëlitische godsdienst:&nbsp;-<br>
+4° de anglicaanse godsdienst:&nbsp;-<br>
+5° de islamitische godsdienst:&nbsp;-<br>
+6° de orthodoxe godsdienst:-<br>
+7° de niet-confessionele zedenleer: 1</p>
 
 ## TITEL II RECHTSPOSITIEREGELING
 
@@ -338,14 +337,7 @@ Voor de toepassing van de bepalingen van artikel 25, § 1, van het decreet van 1
 
 ### ART. 8.
 
-§ 1. De salarisschalen die verbonden zijn aan de ambten, vermeld in artikel 10 van het decreet van 1 december 1993, worden vastgesteld als volgt :<br>
-1° inspecteur-adviseur voor het lager onderwijs : 167;<br>
-2° inspecteur-adviseur coördinator voor het lager onderwijs : 166;<br>
-3° inspecteur-adviseur voor het lager en het secundair onderwijs of inspecteur-adviseur voor het secundair onderwijs :<br>
-a) houder van een bekwaamheidsbewijs van tenminste master, als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs en in artikel 8 van het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen en de bezoldigingsregeling in het buitengewoon onderwijs : 541;<br>
-b) houder van andere bekwaamheidsbewijzen : 354.<br>
-<br>
-§ 2. De salarisschalen, vermeld in § 1, worden met ingang van 1 september 2007 vastgesteld bij het besluit van de Vlaamse Regering van 21 november 2003 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.
+<P>§ 1. De salarisschalen die verbonden zijn aan de ambten, vermeld in artikel   10 van het decreet van 1 december 1993, worden vastgesteld als volgt :<BR>1°   inspecteur-adviseur voor het lager onderwijs : 167;<BR>1° /1 inspecteur-adviseur   coördinator voor het lager onderwijs: 166;<BR>2° inspecteur-adviseur coördinator   : <BR>a) houder van een bekwaamheidsbewijs van ten minste master als vermeld in   artikel 7 van het besluit van de Vlaamse Regering van 14 juni 1989 betreffende   de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de   bezoldigingsregeling in het secundair onderwijs :604;<BR>b) houder van een ander   bekwaamheidsbewijs dan een bekwaamheidsbewijs als vermeld in punt a) :   166.<BR>3° inspecteur-adviseur voor het lager en het secundair onderwijs of   inspecteur-adviseur voor het secundair onderwijs :<BR>a) houder van een   bekwaamheidsbewijs van tenminste master, als vermeld in artikel 7 van het   besluit van de Vlaamse Regering van 14 juni 1989 betreffende de   bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de   bezoldigingsregeling in het secundair onderwijs en in artikel 8 van het besluit   van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de   salarisschalen en de bezoldigingsregeling in het buitengewoon onderwijs :   541;<BR>b) houder van andere bekwaamheidsbewijzen : 354.<BR><BR>§ 2. De   salarisschalen, vermeld in § 1, worden met ingang van 1 september 2007   vastgesteld bij het besluit van de Vlaamse Regering van 21 november 2003   houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.   </P>
 
 ### ART. 9.
 
