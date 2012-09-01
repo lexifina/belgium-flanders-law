@@ -4,9 +4,33 @@
 
 ## HOOFDSTUK II Basisonderwijs
 
+### ART. II.4.
+
+In artikel 13 van hetzelfde decreet, vervangen bij het decreet van 20   maart 2009 en gewijzigd bij het decreet van 9 juli 2010, worden de volgende   wijzigingen aangebracht :<BR>1° aan paragraaf 1, 2°, wordt een zin toegevoegd,   die luidt als volgt :<BR>« Indien de taalproef niet afgenomen is tegen de eerste   schooldag van september, dan wordt de taalproef afgenomen uiterlijk binnen   dertig kalenderdagen na de eerste dag aanwezigheid in het gewoon lager   onderwijs; »;<BR>2° in paragraaf 1, 3°, worden de woorden "onderwijs heeft   genoten in een Nederlandstalige onderwijsinstelling uit een lidstaat van de   Nederlandse Taalunie" vervangen door de woorden "Nederlandstalig onderwijs heeft   genoten in een onderwijsinstelling buiten België".<BR>
+
+### ART. II.5.
+
+Aan artikel 18, § 1, eerste lid, van hetzelfde decreet, gewijzigd bij de   decreten van 9 juli 2010, wordt een punt 3° toegevoegd, dat luidt als volgt   :<BR>« 3° beschikken over een bewijs dat hij het voorafgaande schooljaar   Nederlandstalig onderwijs heeft genoten in een onderwijsinstelling buiten   België. » .<BR>
+
+### ART. II.20.
+
+In artikel 37vicies quater, § 2, van hetzelfde decreet, ingevoegd bij het   decreet van 25 november 2011 en vervangen bij het decreet van 8 juni 2012,   worden de volgende wijzigingen aangebracht :<BR>1° in het tweede lid wordt   tussen de woorden "combinatie van ordeningscriteria" en de woorden "eerstvolgend   gerangschikte leerling", de volgende zinsnede ingevoegd :<BR>« , en in het   tweetalige gebied Brussel-Hoofdstad met inachtname van artikel 37sexies, § 4,   »;<BR>2° in het achtste lid wordt tussen de woorden "combinatie van   ordeningscriteria" en de woorden "eerstvolgend gerangschikte leerlingen" de   volgende zinsnede ingevoegd :<BR>« , en in het tweetalige gebied   Brussel-Hoofdstad, met inachtname van artikel 37sexies, § 4,   ».<BR>
+
 ## HOOFDSTUK III Secundair onderwijs
 
 ## Afdeling I Codex Secundair Onderwijs
+
+### ART. III.1.
+
+In artikel 2, § 1, van de Codex Secundair Onderwijs, gewijzigd bij de   decreten van 1 juli 2011 en 25 november 2011, wordt een vierde lid toegevoegd,   dat luidt als volgt :<BR>« De artikelen 110/1 tot en met 110/27 gelden niet voor   het hoger beroepsonderwijs. » .<BR>
+
+### ART. III.12.
+
+In artikel 110/15, § 1, van dezelfde codex, ingevoegd bij het decreet van   25 november 2001 en vervangen bij het decreet van 8 juni 2012, wordt tussen de   zinsnede "artikel 110/10" en de zinsnede "of 110/11" de zinsnede ", § 2,"   ingevoegd.<BR>
+
+### ART. III.15.
+
+In artikel 110/24, paragraaf 2, van dezelfde codex, ingevoegd bij het   decreet van 25 november 2011 en vervangen bij het decreet van 8 juni 2012,   worden de volgende wijzigingen aangebracht :<BR>1° in het tweede lid worden aan   de laatste zin na de woorden "combinatie van ordeningscriteria" de volgende   woorden ingevoegd :<BR>« , en in het tweetalige gebied Brussel-Hoofdstad met   inachtname van artikel 110/5, § 4, »;<BR>2° in het achtste lid worden aan de   eerste zin na de woorden "combinatie van ordeningscriteria" de volgende woorden   ingevoegd :<BR>« , en in het tweetalige gebied Brussel-Hoofdstad, met inachtname   van artikel 110/5, § 4, ».<BR>
 
 ### ART. III.20.
 
