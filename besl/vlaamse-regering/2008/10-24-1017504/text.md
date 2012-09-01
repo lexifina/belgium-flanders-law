@@ -34,7 +34,7 @@ De lijst van de centra voor deeltijds beroepssecundair onderwijs die bij de inwe
 
 ### ART. 6.
 
-De lijst van opleidingen van het deeltijds beroepssecundair onderwijs respectievelijk de leertijd, vermeld in artikel 22 van het decreet, is opgenomen : <br />1°voor het schooljaar 2008-2009 : in bijlage III, die bij dit besluit is gevoegd;<br />2° voor het schooljaar 2009-2010 : in bijlage III/1, die bij dit besluit is gevoegd;<br />3° voor het schooljaar 2010-2011 : in bijlage III/2, die bij dit besluit is gevoegd;<br />4° voor het schooljaar 2011-2012 : in bijlage III/3, die bij dit besluit is gevoegd. <br /> <br />Als de lijst, vermeld in het eerste lid, een indeling in rubrieken bevat, strekt die indeling er alleen toe om de screening, vermeld in artikel 23, § 1, van het decreet, mogelijk te maken.
+De lijst van opleidingen van het deeltijds beroepssecundair onderwijs   respectievelijk de leertijd, vermeld in artikel 22 van het decreet, is opgenomen   : <BR>1°voor het schooljaar 2008-2009 : in bijlage III, die bij dit besluit is   gevoegd;<BR>2° voor het schooljaar 2009-2010 : in bijlage III/1, die bij dit   besluit is gevoegd;<BR>3° voor het schooljaar 2010-2011 : in bijlage III/2, die   bij dit besluit is gevoegd;<BR>4° voor het schooljaar 2011-2012 : in bijlage   III/3, die bij dit besluit is gevoegd;<BR>5° voor het schooljaar 2012-2013 : in   bijlage III/4, die bij dit besluit is gevoegd. <BR><BR>Als de lijst, vermeld in   het eerste lid, een indeling in rubrieken bevat, strekt die indeling er alleen   toe om de screening, vermeld in artikel 23, § 1, van het decreet, mogelijk te   maken.
 
 ### ART. 7.
 
@@ -44,7 +44,7 @@ De Vlaamse Regering beslist uiterlijk op 31 mei over een voorstel van nieuwe opl
 
 ### ART. 8.
 
-§ 1. Het geactualiseerde opleidingsaanbod, vermeld in artikel 23, § 1, wordt ingevoerd : <br />1° per 1 september 2009 : voor de opleidingen die behoren tot de rubrieken bouw, decoratie, hout;<br />2° per 1 september 2010 : voor de opleidingen die behoren tot de rubrieken handel en administratie, voeding-horeca;<br />3° per 1 september 2011 : alleszins voor de opleidingen die behoren tot de rubrieken distributie, elektriciteit-elektronica;<br />4° per 1 september 2012 : alleszins voor de opleidingen die behoren tot de rubriek metaal en kunststoffen, transport;<br />5° per 1 september 2013 : in elk geval voor de opleidingen die behoren tot de rubriek land- en tuinbouw, milieu, zeevisserij, kleding en confectie, textiel.<br /><br />Met het oog op die invoering vindt een screening plaats van de bestaande opleidingen, als vermeld in artikel 23, § 1, van het decreet, op basis van alleszins de referentiekaders, vermeld in artikel 30, § 1, en artikel 32, § 1, van het decreet, die volledig zijn opgenomen in bijlage IV, die bij dit besluit is gevoegd.<br /><br />§ 2. In bijlage V tot en met V/4, die bij dit besluit zijn gevoegd, worden voor elke afzonderlijke opleiding van het geactualiseerde opleidingsaanbod van het deeltijds beroepssecundair onderwijs de volgende elementen bepaald : <br />1° de overeenstemmende referentiekaders, geput uit de bijlage IV, die bij dit besluit is gevoegd;<br />2° de opleidingenstructuur, vermeld in artikel 28, § 1, van het decreet;<br />3° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 30, § 1, van het decreet.<br /><br />§ 3. In bijlage VI, die bij dit besluit is gevoegd, worden voor elke afzonderlijke opleiding van het geactualiseerde opleidingsaanbod van de leertijd de volgende elementen bepaald : <br />1° de overeenstemmende referentiekaders, geput uit de bijlage IV, die bij dit besluit is gevoegd;<br />2° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 32, § 1, van het decreet.
+<P>§ 1. Het geactualiseerde opleidingsaanbod, vermeld in artikel 23, § 1, wordt   ingevoerd : <BR>1° per 1 september 2009 : voor de opleidingen die behoren tot de   rubrieken bouw, decoratie, hout;<BR>2° per 1 september 2010 : voor de   opleidingen die behoren tot de rubrieken handel en administratie,   voeding-horeca;<BR>3° per 1 september 2011 : alleszins voor de opleidingen die   behoren tot de rubrieken distributie, elektriciteit-elektronica;<BR>4° per 1   september 2012 : alleszins voor de opleidingen die behoren tot de rubriek metaal   en kunststoffen, transport;<BR>5° per 1 september 2013 : in elk geval voor de   opleidingen die behoren tot de rubriek land- en tuinbouw, milieu, zeevisserij,   kleding en confectie, textiel;<BR>6° per 1 september 2014 : in elk geval voor de   opleidingen waarvoor een beroepskwalificatie bestaat en die behoren tot een nog   niet omgeschakelde rubriek.</P>  <P><BR>Met het oog op die invoering vindt een screening plaats van de bestaande   opleidingen, als vermeld in artikel 23, § 1, van het decreet, op basis van   alleszins de referentiekaders, vermeld in artikel 30, § 1, en artikel 32, § 1,   van het decreet, die volledig zijn opgenomen in bijlage IV, die bij dit besluit   is gevoegd.<BR><BR>§ 2. In bijlage V tot en met V/4, die bij dit besluit zijn   gevoegd, worden voor elke afzonderlijke opleiding van het geactualiseerde   opleidingsaanbod van het deeltijds beroepssecundair onderwijs de volgende   elementen bepaald : <BR>1° de overeenstemmende referentiekaders, geput uit de   bijlage IV, die bij dit besluit is gevoegd;<BR>2° de opleidingenstructuur,   vermeld in artikel 28, § 1, van het decreet;<BR>3° de doelen voor de   beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel   30, § 1, van het decreet.<BR><BR>§ 3. In bijlage VI, die bij dit besluit is   gevoegd, worden voor elke afzonderlijke opleiding van het geactualiseerde   opleidingsaanbod van de leertijd de volgende elementen bepaald : <BR>1° de   overeenstemmende referentiekaders, geput uit de bijlage IV, die bij dit besluit   is gevoegd;<BR>2° de doelen voor de beroepsgerichte vorming, afgeleid van de   referentiekaders, vermeld in artikel 32, § 1, van het decreet.   </P>
 
 ### ART. 8bis.
 
@@ -61,7 +61,7 @@ c) voor werkplekleren komen uitsluitend de erkende kinderopvangsector en de zelf
 
 ### ART. 9.
 
-De instapvereisten tot modules in het deeltijds beroepssecundair onderwijs, vermeld in artikel 41, eerste lid, van het decreet, zijn de volgende :<br />1° de vastgelegde volgordes waarin modules, die zich sequentieel tot elkaar verhouden, moeten worden doorlopen zoals in de opleidingenstructuur zal worden bepaald;<br />2° een medische geschiktheidsverklaring : voor de eerste module van een opleiding waarin de jongere rechtstreeks met voedingswaren of -stoffen in aanraking komt en die waren kan verontreinigen of besmetten. Die geschiktheidsverklaring is eenmalig en geldt voor de duur van de opleiding, tenzij er aanleiding is om de geschiktheid opnieuw te evalueren. Een ongeschiktheidsverklaring in de loop van een opleiding impliceert dat de jongere uiterlijk op het einde van de module die hij volgt, de opleiding in kwestie stopzet;<br />3° een medische geschiktheidsverklaring : voor de eerste module van een van de volgende opleidingen waarin die geschiktheid noodzakelijk is voor de uitoefening van het beroep :<br />a) bouwplaatsmachinist;<br />b) dakafdichter;<br />c) dakdekker;<br />d) dakdekker leien en pannen;<br />e) dakdekker metalen daken;<br />f) dakdekker rieten daken;<br />g) daktimmerman;<br />h) magazijnmedewerker;<br />i) machinist mobiele kraan;<br />j) rigger-monteerder;<br />k) torenkraanbestuurder;<br />l) vrachtwagenchauffeur;<br />m) matroos;<br />n) motorist 221 kW;<br />o) roerganger;<br />p) schipper beperkt vaargebied;<br />q) bestuurder heftruck;<br />r) bestuurder reachtruck;<br />s) installateur fotovoltaïsche systemen.<br />4° a) een jongere kan alleen worden toegelaten tot de opleiding Industrieel Maaltijdbereider als hij houder is van een van de volgende studiebewijzen :<br />1) een oriënteringsattest van een leerjaar van de derde graad van het secundair onderwijs, uitgereikt in een opleiding die is gerangschikt in het studiegebied voeding van het voltijds secundair onderwijs;<br />2) een certificaat, uitgereikt in de opleiding Productiemedewerker Voeding van het deeltijds beroepssecundair onderwijs of de leertijd;<br />b) een jongere kan alleen worden toegelaten tot de opleiding Industrieel Vleesproductenbereider als hij houder is van een van de volgende studiebewijzen : <br />1) een oriënteringsattest van een leerjaar van de derde graad van het secundair onderwijs, uitgereikt in een opleiding die is gerangschikt in het studiegebied voeding van het voltijds secundair onderwijs;<br />2) een certificaat, uitgereikt in de opleiding Industrieel Vleesbewerker van het deeltijds beroepssecundair onderwijs of de leertijd.<br /><br />Die geschiktheidsverklaring is eenmalig en geldt voor de duur van de opleiding. Ze is eveneens vereist voor de eerste toelating tot een van de opleidingen, vermeld in punt 2° en 3°, die in de overgangsperiode niet-modulair worden georganiseerd.
+De instapvereisten tot modules in het deeltijds beroepssecundair   onderwijs, vermeld in artikel 41, eerste lid, van het decreet, zijn de volgende   :<BR>1° de vastgelegde volgordes waarin modules, die zich sequentieel tot elkaar   verhouden, moeten worden doorlopen zoals in de opleidingenstructuur zal worden   bepaald;<BR>2° een medische geschiktheidsverklaring : voor de eerste module van   een opleiding waarin de jongere rechtstreeks met voedingswaren of -stoffen in   aanraking komt en die waren kan verontreinigen of besmetten. Die   geschiktheidsverklaring is eenmalig en geldt voor de duur van de opleiding,   tenzij er aanleiding is om de geschiktheid opnieuw te evalueren. Een   ongeschiktheidsverklaring in de loop van een opleiding impliceert dat de jongere   uiterlijk op het einde van de module die hij volgt, de opleiding in kwestie   stopzet;<BR>3° een medische geschiktheidsverklaring : voor de eerste module van   een van de volgende opleidingen waarin die geschiktheid noodzakelijk is voor de   uitoefening van het beroep :<BR>a) bouwplaatsmachinist;<BR>b)   dakafdichter;<BR>c) dakdekker;<BR>d) dakdekker leien en pannen;<BR>e) dakdekker   metalen daken;<BR>f) dakdekker rieten daken;<BR>g) daktimmerman;<BR>h)   magazijnmedewerker;<BR>i) machinist mobiele kraan;<BR>j)   rigger-monteerder;<BR>k) torenkraanbestuurder;<BR>l)&nbsp; bestuurder mobiele   kraan;;<BR>m) matroos;<BR>n) motorist 221 kW;<BR>o) roerganger;<BR>p) schipper   beperkt vaargebied;<BR>q) bestuurder heftruck;<BR>r) bestuurder   reachtruck;<BR>s) installateur fotovoltaïsche systemen;<BR>t) matroos   binnenvaart;<BR>u) matroos motordrijver binnenvaart;<BR>v) stellingbouwer;   <BR>4° a) een jongere kan alleen worden toegelaten tot de opleiding Industrieel   Maaltijdbereider als hij houder is van een van de volgende studiebewijzen   :<BR>1) een oriënteringsattest van een leerjaar van de derde graad van het   secundair onderwijs, uitgereikt in een opleiding die is gerangschikt in het   studiegebied voeding van het voltijds secundair onderwijs;<BR>2) een   certificaat, uitgereikt in de opleiding Productiemedewerker Voeding van het   deeltijds beroepssecundair onderwijs of de leertijd;<BR>b) een jongere kan   alleen worden toegelaten tot de opleiding Industrieel Vleesproductenbereider als   hij houder is van een van de volgende studiebewijzen : <BR>1) een   oriënteringsattest van een leerjaar van de derde graad van het secundair   onderwijs, uitgereikt in een opleiding die is gerangschikt in het studiegebied   voeding van het voltijds secundair onderwijs;<BR>2) een certificaat, uitgereikt   in de opleiding Industrieel Vleesbewerker van het deeltijds beroepssecundair   onderwijs of de leertijd.<BR><BR>Die geschiktheidsverklaring is eenmalig en   geldt voor de duur van de opleiding. Ze is eveneens vereist voor de eerste   toelating tot een van de opleidingen, vermeld in punt 2° en 3°, die in de   overgangsperiode niet-modulair worden georganiseerd.
 
 ## HOOFDSTUK VII. [... (opgeh. BVR 18 december 2020, art. 62, I: 1 januari 2021)]
 
@@ -247,7 +247,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE I
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1.pdf#page=4" title=" bijlage 1" target="_blank" class="pdf">bijlage 1</a>
+<P> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1.pdf#page=4" title=" Bijlage   1" target="_blank" class="pdf">Bijlage   1</a> </P>
 
 ### BIJLAGE II
 
@@ -1305,33 +1305,69 @@ Visbereider
 
 <a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1.pdf#page=9" target="_blank" title=" Bijlage 2">Bijlage III/3</a>
 
+### BIJLAGE III/4
+
+<a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1.pdf#page=7" target="_blank" title=" bijlage   2">bijlage III/4</a>
+
 ### BIJLAGE IV
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1.pdf#page=21" title=" Bijlage 3" target="_blank" class="pdf">Bijlage 3</a>
+<P> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1.pdf#page=18" title=" Bijlage   3" target="_blank" class="pdf">Bijlage   3</a> </P>
 
 ### BIJLAGE V
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1.pdf#page=34" title=" Bijlage 4" target="_blank" class="pdf">Bijlage 4</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1_2.pdf#page=1" title=" Bijlage 4" target="_blank" class="pdf">Bijlage 4</a>
+<p><a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1.pdf#page=35" target="_blank" title=" Bijlage   4">Bijlage 4</a></p>
 
 ### BIJLAGE V/1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1_2.pdf#page=76" title=" Bijlage 5" target="_blank" class="pdf">Bijlage 5</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1_3.pdf#page=1" title=" Bijlage 5" target="_blank" class="pdf">Bijlage 5</a>
+<p><a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1.pdf#page=90" target="_blank" title=" Bijlage   5">Bijlage V/1</a><br>
+<br>
+<a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_2.pdf#page=1" target="_blank" title=" vervolg   bijlage 5">vervolg bijlage V/1</a><br>
+<br>
+<a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_3.pdf#page=1" target="_blank" title=" vervolg   bijlage 5">vervolg bijlage V/1</a></p>
 
 ### BIJLAGE V/2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1_3.pdf#page=82" title=" Bijlage 6" target="_blank" class="pdf">Bijlage 6</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1_4.pdf#page=1" title=" Bijlage 6" target="_blank" class="pdf">Bijlage 6</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1_5.pdf#page=1" title=" Bijlage 6" target="_blank" class="pdf">Bijlage 6</a>
+<p><a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_3.pdf#page=4" target="_blank" title=" bijlage   6">bijlage V/2</a><br>
+<br>
+<a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_4.pdf#page=1" target="_blank" title=" vervolg   bijlage 6">vervolg bijlage V/2</a></p>
 
 ### BIJLAGE V/3
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1_5.pdf#page=8" title=" Bijlage 7" target="_blank" class="pdf">Bijlage 7</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1_6.pdf#page=1" title=" Bijlage 7" target="_blank" class="pdf">Bijlage 7</a>
+<p><a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_4.pdf#page=20" target="_blank" title=" Bijlage   7">Bijlage V/3</a><br>
+<br>
+<a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_5.pdf#page=1" target="_blank" title=" vervolg   bijlage 7">vervolg bijlage V/3</a></p>
 
 ### BIJLAGE V/4
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1_6.pdf#page=66" title=" Bijlage 8" target="_blank" class="pdf">Bijlage 8</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1_7.pdf#page=1" title=" Bijlage 8" target="_blank" class="pdf">Bijlage 8</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1_8.pdf#page=1" title=" Bijlage 8" target="_blank" class="pdf">Bijlage 8</a>
+<p><a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_5.pdf#page=15" target="_blank" title=" Bijlage   8">Bijlage V/4</a><br>
+<br>
+<a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_6.pdf#page=1" target="_blank" title=" vervolg   bijlage 8">vervolg bijlage V/4</a></p>
+
+### BIJLAGE V/5
+
+<a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_6.pdf#page=96" target="_blank" title=" Bijlage   9">Bijlage V/5</a><br>
+<br>
+<a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_7.pdf#page=1" target="_blank" title=" vervolg   bijlage 9">vervolg bijlage V/5</a><br>
+<br>
+<a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_8.pdf#page=1" target="_blank" title=" vervolg   bijlage 9">vervolg bijlage V/5</a><br>
+<br>
+<a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_9.pdf#page=1" target="_blank" title=" vervolg   bijlage 9">vervolg bijlage V/5</a>
+
+### BIJLAGE V/6
+
+<a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_9.pdf#page=38" target="_blank" title=" Bijlage   10">Bijlage V/6</a><br>
+<br>
+<a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_10.pdf#page=1" target="_blank" title=" vervolg   bijlage 10">vervolg bijlage V/6</a>
+
+### BIJLAGE V/7
+
+<a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_10.pdf#page=89" target="_blank" title=" Bijlage   V/7">Bijlage V/7</a><br>
+<br>
+<a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_11.pdf#page=1" target="_blank" title=" vervolg   bijlage 11">vervolg bijlage V/7</a>
 
 ### BIJLAGE VI
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1_8.pdf#page=48" title=" Bijlage 9" target="_blank" class="pdf">Bijlage 9</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1_9.pdf#page=1" title=" Bijlage 9" target="_blank" class="pdf">Bijlage 9</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1_10.pdf#page=1" title=" Bijlage 9" target="_blank" class="pdf">Bijlage 9</a> <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1_11.pdf#page=1" title=" Bijlage 9" target="_blank" class="pdf">Bijlage 9</a>
+<P> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_11.pdf#page=80" title=" Bijlage   12" target="_blank" class="pdf">Bijlage   12</a> <BR><BR> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_12.pdf#page=1" title=" vervolg   bijlage 12" target="_blank" class="pdf">vervolg   bijlage 12</a> <BR><BR> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_13.pdf#page=1" title=" vervolg   bijlage 12" target="_blank" class="pdf">vervolg   bijlage 12</a> <BR><BR> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_14.pdf#page=1" title=" vervolg   bijlage 12" target="_blank" class="pdf">vervolg   bijlage 12</a> <BR><BR> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_15.pdf#page=1" title=" vervolg   bijlage 12" target="_blank" class="pdf">vervolg   bijlage 12</a> <BR><BR> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_16.pdf#page=1" title=" vervolg   bijlage 12" target="_blank" class="pdf">vervolg   bijlage 12</a> </P>
 
 ### BIJLAGE VII
 
@@ -1363,7 +1399,7 @@ Getuigschrift over de basiskennis van het bedrijfsbeheer (deeltijds   beroepssec
 
 ### BIJLAGE XIV
 
-<a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2011/11/04_1_11.pdf#page=40" target="_blank" title=" Bijlage 10">Bijlage 14</a>
+<p><a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_16.pdf#page=4" target="_blank" title=" Bijlage   13">Bijlage 14</a></p>
 
 ### BIJLAGE XV
 
