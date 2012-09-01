@@ -42,7 +42,7 @@ Voor de structuuronderdelen  <span class="reference">(ing. B.V.R. 30 juni 1998, 
 
 ### ART. 7bis.
 
-In afwijking van artikel 4 en 6 wordt voor het schooljaar 2011-2012 aan de Koninklijke Balletschool Antwerpen een pakket van 481 uren-leraar toegekend.
+Bovenop het volgens artikel 4 en 6 berekend pakket uren-leraar, wordt voor het schooljaar 2012-2013 aan de Koninklijke Balletschool Antwerpen een forfaitair pakket van 100 uren-leraar toegekend, onder de volgende gezamenlijke voorwaarden : <br />1) het schoolbestuur of een derde partner verleent een co-financiering van minimaal 191.678,- euro;<br />2) de betrokken uren-leraar mogen uitsluitend worden aangewend voor de organisatie van lessen of lesgebonden activiteiten in het ambt van leraar of als voordrachtgever, voorbehouden voor de leerlingen van de balletopleiding binnen het voltijds secundair onderwijs.
 
 ## HOOFDSTUK III [SCHOLEN (verv. BVR 7 september 2012, art. 1)] VOOR [ MARITIEM ONDERWIJS (verv. BVR 22 september 2023, art. 2, I: 1 september 2023)]
 
