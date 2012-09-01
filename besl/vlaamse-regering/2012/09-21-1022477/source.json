@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022477,
+  "title": "Besluit van de Vlaamse Regering van 2012-09-21 tot wijziging van de indeling van studiegebieden in opleidingen van het secundair volwassenenonderwijs en van de regelgeving betreffende de studiebekrachtiging en de modulaire structuur van het secundair volwassenenonderwijs voor de studiegebieden bijzondere educatieve noden, bouw, handel, hout, juwelen en mechanica-elektriciteit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022477/VolledigDocument?datum=2012-09-01",
+  "source_sha256": "3d12f973efdae02c4d15711f9128f3204c6a378562cbb26a8018503b3931afe7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022477&param=informatie",
+  "as_of": "2012-09-01",
+  "made": "2012-09-21",
+  "gazette": "2012-11-22",
+  "numac": 2012036133,
+  "document_start": "2012-09-01",
+  "document_end": null,
+  "in_force": "2012-09-01",
+  "article_versions": 45,
+  "record_form": "consolidated version as in force on 2012-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
