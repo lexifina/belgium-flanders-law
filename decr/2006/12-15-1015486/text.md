@@ -98,7 +98,7 @@ In artikel 93 van hetzelfde decreet, zoals gewijzigd door artikel V.20, 2°, van
 
 ### ART. 20.
 
-De Vlaamse Regering evalueert deze regelgeving en legt het evaluatieverslag voor aan het Vlaams Parlement uiterlijk voor december 2012.<br /><br />
+De Vlaamse Regering evalueert deze regelgeving en legt het   evaluatieverslag voor aan het Vlaams Parlement uiterlijk voor juni   2013.<BR><BR>
 
 ### ART. 21.
 
