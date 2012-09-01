@@ -10,6 +10,10 @@
 
 ## Afdeling 1 Wijzigingen in het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen
 
+### ART. 44.
+
+Aan artikel 53/1 van hetzelfde decreet, ingevoegd bij het decreet van 1 juli 2011, wordt een paragraaf 4 toegevoegd, die luidt als volgt :<br />« § 4. In afwijking van het krachtens dit artikel vastgelegde besluit is :<br />1° de vestiging van de professioneel gerichte bacheloropleiding « Bachelor in de grafische en digitale media », aangeboden door de Artesis Hogeschool Antwerpen vanaf het academiejaar 2012-2013 Antwerpen;<br />2° de vestiging van de professioneel gerichte bacheloropleiding « Bachelor in het vastgoed », aangeboden door de Artesis Hogeschool Antwerpen vanaf het academiejaar 2014-2015 Antwerpen;<br />3° de vestiging van de professioneel gerichte bacheloropleiding « Bachelor in de elektromechanica », aangeboden door de Plantijn-Hogeschool van de provincie Antwerpen vanaf het academiejaar 2014-2015 Antwerpen. ».<br /><br />
+
 ## Afdeling 2 Wijzigingen in het decreet van 30 april 2004 betreffende de flexibilisering van het hoger onderwijs in Vlaanderen en houdende dringende hogeronderwijsmaatregelen
 
 ## HOOFDSTUK 3 Wijzigingen in de taalregeling
