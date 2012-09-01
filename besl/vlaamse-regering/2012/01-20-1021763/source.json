@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021763,
+  "title": "Besluit van de Vlaamse Regering van 2012-01-20 tot aanpassing van de eindtermen voor de opleiding Aanvullende Algemene Vorming van het studiegebied algemene vorming van het secundair volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021763/VolledigDocument?datum=2012-09-01",
+  "source_sha256": "ce86a8046e00e6189b7df50291a3cdae72b76ab40a98fb64bb765c0f0f8d92e1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021763&param=informatie",
+  "as_of": "2012-09-01",
+  "made": "2012-01-20",
+  "gazette": "2012-05-24",
+  "numac": 2012035261,
+  "document_start": "2012-09-01",
+  "document_end": null,
+  "in_force": "2012-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2012-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
