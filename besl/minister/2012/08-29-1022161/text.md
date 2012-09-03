@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2012-08-29 houdende het verbod van het gebruik van sommige lijstnamen voor de provincie- gemeente- en stadsdistrictsraadsverkiezingen
+
+### Aanhef
+
+De Vlaamse minister van Bestuurszaken, Binnenlands Bestuur, Inburgering, Toerisme en Vlaamse Rand,<br /><br />Gelet op het decreet van 8 juli 2011 houdende de organisatie van de lokale en provinciale verkiezingen en houdende wijziging van het Gemeentedecreet van 15 juli 2005, het Provinciedecreet van 9 december 2005 en het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn, inzonderheid op artikel 62;<br /><br />Gelet op de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, inzonderheid op artikel 17bis, ingevoegd bij de wet van 9 augustus 1988 en gewijzigd bij de wet van 16 juni 1989;<br /><br />Gelet op het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de besluiten van de Vlaamse Regering van 24 juli 2009, 4 december 2009, 6 juli 2010, 7 juli 2010, 24 september 2010, 19 november 2010, 13 mei 2011, 10 juni 2011, 8 juli 2011 en 9 september 2011;<br /><br />Gelet op het besluit van de Vlaamse Regering van 16 maart 2012 houdende de delegatie van sommige bevoegdheden inzake de organisatie van de gemeenteraadsverkiezingen, de stadsdistrictsraadsverkiezingen, de verkiezingen van de raad voor maatschappelijk welzijn en de provincieraadsverkiezingen aan de Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden,<br /><br />Besluit :
+
+### ART. 1.
+
+Het gebruik van de hierna volgende lijstnamen wordt verboden voor de provincie- gemeente- en stadsdistrictsraadsverkiezingen van 14 oktober 2012, ongeacht of zij geschreven zijn in hoofd- of kleine letters :<br />1° op gemotiveerd verzoek van de partij Open Vlaamse Liberalen en Democraten (Open Vld), de lijstnaam P.V.V.;<br />2° op gemotiveerd verzoek van de partij Socialistische Partij Anders (sp.a), de lijstnamen BSP, SP en sp.a-spirit;<br />3° op gemotiveerd verzoek van de partij Christen-Democratisch & Vlaams (CD&V), de lijstnamen C.V.P. en E.V.P.;<br />4° op gemotiveerd verzoek van de partij GROEN, de lijstnamen Agalev, Groen!, Spirit, VlaamsProgressieven en SLP;<br />5° op gemotiveerd verzoek van de partij Nieuw-Vlaamse Alliantie (N-VA), de lijstnamen VU, VU-EVA, VU-ID en EVA;<br />6° op gemotiveerd verzoek van de partij Vlaams Belang, de lijstnamen VL.BLOK en VLAAMS BLOK.
+
+### ART. 2.
+
+Dit besluit treedt in werking de dag waarop het in het Belgisch Staatsblad wordt bekendgemaakt.
