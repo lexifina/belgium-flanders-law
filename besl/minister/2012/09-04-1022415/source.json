@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022415,
+  "title": "Ministerieel besluit van 2012-09-04 houdende de lijst met materialen, afkomstig van en bestemd voor metallurgische productieprocessen voor non-ferrometalen, en de lijst met materialen, afkomstig van metallurgische productieprocessen voor ferrometalen, die als grondstoffen worden gebruikt",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022415/VolledigDocument?datum=2012-09-04",
+  "source_sha256": "eae7bd4b23c576cd6457109fe02d5554c51eb951050522845d017bc57267d2e2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022415&param=informatie",
+  "as_of": "2012-09-04",
+  "made": "2012-09-04",
+  "gazette": "2012-10-24",
+  "numac": 2012036108,
+  "document_start": "2012-09-04",
+  "document_end": "2024-02-08",
+  "in_force": "2012-09-04",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2012-09-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
