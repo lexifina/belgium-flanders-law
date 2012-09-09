@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022157,
+  "title": "Decreet van 2012-07-13 houdende instemming met :1° de overeenkomst tussen het Koninkrijk België en de Bondsrepubliek Duitsland tot voorkoming van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen van inkomen en van vermogen met inbegrip van de ondernemingsbelasting en de grondbelastingen, en van het Slotprotocol, ondertekend te Brussel op 11 april 1967, zoals gewijzigd door de aanvullende overeenkomst, ondertekend te Brussel op 5 november 2002, en door het Protocol, ondertekend te Brussel op 21 januari 2010;2° het Protocol tot wijziging van de overeenkomst en het Slotprotocol, zoals gewijzigd, vermeld onder 1°, ondertekend te Brussel op 21 januari 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022157/VolledigDocument?datum=2012-09-09",
+  "source_sha256": "85f0b043d3d168ddf4f5b1edb1458b7f08781cfa2bf971610665b072358662bb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022157&param=informatie",
+  "as_of": "2012-09-09",
+  "made": "2012-07-13",
+  "gazette": "2012-08-30",
+  "numac": 2012204755,
+  "document_start": "2012-09-09",
+  "document_end": null,
+  "in_force": "2012-09-09",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-09-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
