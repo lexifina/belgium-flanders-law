@@ -8,6 +8,10 @@
 
 In artikel 3 van hetzelfde besluit wordt de naam "Anita Duprez" met ingang   van 26 juni 2012 vervangen door de naam "Else Tambuyzer".<BR>
 
+### ART. 3.
+
+In artikel 4, 10°, van hetzelfde besluit, vervangen bij het besluit van de   Vlaamse Regering van 16 december 2011, wordt de naam "Lucas Dieleman" met ingang   van 11 september 2012 vervangen door de naam "Dirk Verleyen" en wordt de naam   "Dirk Verleyen" met ingang van 11 september 2012 vervangen door de naam "Peter   Bruynooghe".<BR>
+
 ### ART. 6.
 
 &nbsp;In artikel 11/1 van hetzelfde besluit, ingevoegd bij het besluit van   de Vlaamse Regering van 16 december 2011, wordt de naam "Marleen Vanhees" met   ingang van 27 augustus 2012 vervangen door de naam "Katrien Van   Kets".<BR>
