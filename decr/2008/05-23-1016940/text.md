@@ -4,15 +4,15 @@
 
 ### ART. 1.
 
-Dit decreet regelt een gemeenschapsaangelegenheid.
+...
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder :<br />1° cultureel erfgoed : roerend en immaterieel erfgoed dat als betekenisdrager uit het verleden gemeenschappelijke betekenissen verkrijgt binnen een cultureel referentiekader;<br />2° zorg voor het cultureel erfgoed : het voor de gemeenschap bewaren en onderzoeken van het cultureel erfgoed;<br />3° ontsluiting van het cultureel erfgoed : het voor een zo breed mogelijk publiek zichtbaar maken van het cultureel erfgoed, het toegankelijk maken van de betekenissen van het cultureel erfgoed voor de gemeenschap en het voortdurend actualiseren van die betekenissen;<br />4° cultureel-erfgoedorganisatie : een organisatie met een publiek- of privaatrechtelijke rechtspersoonlijkheid zonder winstgevend doel die de zorg voor of de ontsluiting van het cultureel erfgoed als kerntaak heeft;<br />5° cultureel-erfgoedgemeenschap : een gemeenschap die bestaat uit organisaties en personen die een bijzondere waarde hechten aan het cultureel erfgoed of specifieke aspecten ervan, en die het cultureel erfgoed of aspecten ervan door publieke actie wil behouden en doorgeven aan toekomstige generaties;<br />6° interculturaliteit : dialoog, wederzijdse verkenning of ontmoeting met of tussen bevolkingsgroepen van diverse etnisch-culturele achtergrond;<br />7° personen met een etnisch-cultureel diverse achtergrond : in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad verblijvende burgers met een sociaal-culturele herkomst die verbonden is aan een niet-Beneluxland;<br />8° werkingssubsidie : een subsidie toegekend ter ondersteuning van de personeels- en werkingskosten die voortvloeien uit een structurele activiteit die een continu of permanent karakter vertoont;<br />9° projectsubsidie : een subsidie toegekend ter ondersteuning van een activiteit die zowel qua opzet of doelstelling als in de tijd kan worden afgebakend;<br />10° volkscultuur : breed gedragen cultuurverschijnselen in hun historische, sociale en geografische dimensies, waarbij die dimensies worden opgevat als dynamische, groepsgebonden processen van betekenisgeving en toe-eigening;<br />11° Flandrica : alle publicaties die in Vlaanderen of door Vlamingen in het buitenland worden uitgegeven, evenals alle relevante buitenlandse publicaties die in hoofdzaak over Vlaanderen handelen;<br />12° het decreet op de Volkscultuur van 1998 : het decreet van 27 oktober 1998 houdende de erkenning en subsidiëring van organisaties voor volkscultuur en de oprichting van het Vlaams Centrum voor Volkscultuur, gewijzigd bij het decreet van 15 juli 2005;<br />13° het Archiefdecreet van 2002 : het decreet van 19 juli 2002 houdende de privaatrechtelijke culturele archiefwerking, gewijzigd bij de decreten van 19 december 2003, 7 mei 2004, 15 juli 2005 en 23 december 2005;<br />14° het Erfgoeddecreet van 2004 : het decreet van 7 mei 2004 houdende de organisatie en subsidiëring van een cultureel-erfgoedbeleid, gewijzigd bij het decreet van 15 juli 2005;<br />15° DAC : derde arbeidscircuit, tewerkstelling op basis van het koninklijk besluit nr. 25 van 24 maart 1982 tot opzetting van een programma ter bevordering van de werkgelegenheid in de niet-commerciële sector, gewijzigd bij het koninklijk besluit nr. 473 van 28 oktober 1986;<br />16° DAC-project : een tewerkstellingsproject dat op basis van het koninklijk besluit nr. 25 van 24 maart 1982 tot opzetting van een programma ter bevordering van de werkgelegenheid in de niet-commerciële sector, gewijzigd bij het koninklijk besluit nr. 473 van 28 oktober 1986, aan een organisatie werd toegewezen en vanaf de regularisatie valt onder de bevoegdheid van de Vlaamse minister, bevoegd voor de Culturele Aangelegenheden;<br />17° DAC-promotor : een organisatie die tot de DAC-regularisatie een DAC-project kreeg toegewezen; <br />18° geregulariseerde DAC'er : een werknemer in een DAC-project die op het moment van de regularisatie met de DAC-promotor een arbeidsovereenkomst van onbepaalde duur had.
+...
 
 ### ART. 3.
 
-§ 1. Dit decreet heeft tot doel :<br />1° een cultureel-erfgoedbeleid uit te bouwen, namelijk vanuit een geïntegreerde aanpak een kwaliteitsvolle en duurzame zorg voor en ontsluiting van het cultureel erfgoed te stimuleren; <br />2° een netwerk van erfgoedorganisaties tot stand te brengen om de cultureel-erfgoedbeleving bij burgers te cultiveren, te representeren, te erkennen en te valoriseren; <br />3° een verdere ontwikkeling van de verschillende cultureel-erfgoedpraktijken, de museologie, de archiefwetenschap en het hedendaags documentenbeheer, de informatie- en bibliotheekwetenschap en de etnologie te stimuleren;<br />4° binnen het cultureel-erfgoedbeleid de nodige aandacht voor interculturaliteit te ontwikkelen.<br />Daartoe voorziet het decreet in :<br />1° de subsidiëring van een steunpunt voor cultureel erfgoed;<br />2° de toekenning van een kwaliteitslabel aan collectiebeherende cultureel-erfgoedorganisaties;<br />3° de indeling van erkende musea en culturele archief-instellingen bij het Vlaamse niveau;<br />4° de subsidiëring van landelijke cultureel-erfgoedorganisaties;<br />5° de subsidiëring van een regionaal depotbeleid voor cultureel erfgoed;<br />6° de subsidiëring van gemeentelijke overheden, intergemeentelijke samenwerkingsverbanden van omliggende gemeenten en de Vlaamse Gemeenschapscommissie als vermeld in artikel 67, § 1, om een geïntegreerd en integraal lokaal cultureel-erfgoedbeleid te voeren;<br />7° de subsidiëring van cultureel-erfgoedprojecten.<br /><br />§ 2. Het beleid voor het cultureel erfgoed en het beleid voor het onroerend erfgoed worden door de Vlaamse Regering op elkaar afgestemd. Hiertoe wordt tussen de respectievelijke beleidsdomeinen in het eerste jaar van de legislatuur van het Vlaams Parlement een protocol gesloten.
+...
 
 ## TITEL II. Organisatie en subsidiëring van het Vlaams cultureel-erfgoedbeleid
 
@@ -20,23 +20,23 @@ In dit decreet wordt verstaan onder :<br />1° cultureel erfgoed : roerend en im
 
 ### ART. 4.
 
-§ 1. De Vlaamse Regering kan een jaarlijkse werkingssubsidie toekennen aan een steunpunt voor cultureel erfgoed. Een steunpunt is een dienstverlenende organisatie die een intermediaire rol vervult tussen het cultureel-erfgoedveld en de overheid, en die als doel heeft cultureel-erfgoedorganisaties, lokale en provinciale besturen en beheerders van cultureel erfgoed te ondersteunen en de ontwikkeling van het cultureel-erfgoedveld te stimuleren met het oog op de doelstellingen, vermeld in dit decreet.<br /><br />§ 2. Het steunpunt realiseert dat door middel van zijn kerntaken :<br />1° praktijkondersteuning : het leveren van een actieve dienstverlening op het vlak van deskundigheidsbevordering, kwaliteitszorg, informatie en documentatie, management, publieksopbouw en -participatie, internationale samenwerking;<br />2° praktijkontwikkeling : het leveren van een bijdrage aan een continue ontwikkeling van het cultureel-erfgoedveld en het overheidsbeleid op basis van evaluatie en toegepast onderzoek;<br />3° beeldvorming en communicatie : het organiseren en coördineren van activiteiten en initiatieven die de kennis over het cultureel erfgoed en de cultureel-erfgoedorganisaties in het cultureel-erfgoedveld, bij de publieke opinie, de overheid en in het buitenland bevorderen, en die bijdragen tot een kwantitatief en kwalitatief ruimere cultuurparticipatie.<br /><br />Het steunpunt realiseert zijn kerntaken in samenspraak met andere steunpunten en binnen een netwerk van cultureel-erfgoedactoren.<br /><br />§ 3. De werkingssubsidie wordt toegekend voor het geheel van de werking en is een bijdrage in de loon- en werkingskosten van het steunpunt.
+...
 
 ### ART. 5.
 
-Om in aanmerking te komen voor een werkingssubsidie, moet het steunpunt :<br />1° beschikken over een privaatrechtelijke rechtspersoonlijkheid zonder winstgevend doel;<br />2° zijn zetel en zijn werking hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br />3° een beleidsplan indienen voor de beleidsperiode. Het beleidsplan slaat op een periode van vijf jaar die begint op 1 januari van het derde volledige jaar van de legislatuur van het Vlaams Parlement en eindigt op 31 december van het tweede volledige jaar van de volgende legislatuur van het Vlaams Parlement;<br />4° aanwijsbare inspanningen leveren voor de opname in de raad van bestuur van personen met een etnisch-cultureel diverse achtergrond;<br />5° aanwijsbare inspanningen leveren voor de aanwerving van personen met een etnisch-cultureel diverse achtergrond op staf- of middenkaderniveau.
+...
 
 ### ART. 6.
 
-§ 1. Een aanvraag voor een werkingssubsidie wordt ingediend uiterlijk op 1 februari van het tweede volledige jaar van de legislatuur van het Vlaams Parlement.<br /><br />§ 2. De aanvraag voor een werkingssubsidie bestaat uit een beleidsplan. Het beleidsplan bevat de missie en visie die het steunpunt hanteert in zijn werking, het bevat een omgevingsanalyse en het beschrijft beknopt alle doelstellingen, werkmethodes en middelen. Het beleidsplan bevat eveneens een meerjarenplanning en meerjarenbegroting.<br /><br />In zijn doelstellingen neemt het steunpunt op hoe het zijn doel zal bereiken door zijn kerntaken uit te voeren. Voor de ontwikkeling van zijn werking vertrekt het steunpunt vanuit de behoeften van het cultureel-erfgoedveld. Het beleidsplan wordt gedragen door het cultureel-erfgoedveld.<br /><br />Als het steunpunt inzet op digitalisering moet dit gebeuren volgens de algemeen aanvaarde internationale en desgevallend door de Vlaamse Regering opgelegde standaarden.
+...
 
 ### ART. 7.
 
-§ 1. De Vlaamse Regering beslist uiterlijk op 1 oktober van het jaar waarin de aanvraag voor een werkingssubsidie is ingediend, over de toekenning en het bedrag van de werkingssubsidie. <br /><br />De jaarlijkse werkingssubsidie wordt toegekend voor de beleidsperiode waarop het beleidsplan betrekking heeft.<br /><br />§ 2. Uiterlijk op 31 december van het jaar waarin de Vlaamse Regering een beslissing heeft genomen als vermeld in § 1, wordt een beheersovereenkomst gesloten met het steunpunt, die betrekking heeft op :<br />1° de invulling van de kerntaken, vermeld in artikel 4, § 2, eerste lid, vertaald naar doelstellingen en resultaatgebieden;<br />2° de evaluatie van en het toezicht op de uitvoering van het beleidsplan en de beheersovereenkomst.<br /><br />Het bedrag van de jaarlijkse werkingssubsidie wordt in de beheersovereenkomst opgenomen.<br /><br />De beheersovereenkomst wordt gesloten voor de beleidsperiode waarop het beleidsplan betrekking heeft.
+...
 
 ### ART. 8.
 
-De Vlaamse Regering bepaalt de nadere regels met betrekking tot de aanvraag, de procedure en het sluiten van de beheersovereenkomst.
+...
 
 ## HOOFDSTUK II. De toekenning van een kwaliteitslabel aan collectiebeherende cultureel-erfgoedorganisaties en de indeling van musea en culturele archiefinstellingen bij het Vlaamse niveau
 
@@ -44,77 +44,77 @@ De Vlaamse Regering bepaalt de nadere regels met betrekking tot de aanvraag, de 
 
 ### ART. 9.
 
-De Vlaamse Regering overlegt in het eerste volledige jaar van de legislatuur van het Vlaams Parlement met de representatieve organisaties die de belangen behartigen van de Vlaamse provincies, steden en gemeenten over de procedures, de nadere specificaties van de voorwaarden voor de toekenning van een kwaliteitslabel vermeld in artikel 10, eerste lid, en de nadere specificaties van de criteria vermeld in artikel 19, § 2, eerste lid, voor indeling bij het lokale, regionale of Vlaamse niveau. <br /><br />Van het eventuele akkoord dat wordt bereikt tussen de Vlaamse Regering en de voormelde representatieve organisaties wordt een protocol van akkoord opgesteld. Indien het niet tot een akkoord komt, worden de verschillende standpunten weergegeven. Desgewenst kunnen in het protocol ook andere aspecten in verband met een complementair cultureel-erfgoedbeleid aan bod komen.
+...
 
 ## Afdeling II. De toekenning van een kwaliteitslabel aan collectiebeherende cultureel-erfgoedorganisaties
 
 ### ART. 10.
 
-Om een kwaliteitslabel te kunnen ontvangen en behouden, moet een collectiebeherende cultureel-erfgoedorganisatie voldoen aan de volgende voorwaarden :<br />1° een permanente organisatie zijn ten dienste van de gemeenschap en haar ontwikkeling, die toegankelijk is voor het publiek, niet gericht is op het maken van winst en die cultureel erfgoed verzamelt, beheert, behoudt, wetenschappelijk onderzoekt, presenteert en daarover informeert voor doeleinden van studie, educatie en genoegen. Er wordt een onderscheid gemaakt tussen een museum, een culturele archiefinstelling en een erfgoedbibliotheek :<br />a) een museum ontplooit een werking die past in de hedendaagse praktijk en theorie van de museologie;<br />b) een culturele archiefinstelling ontplooit een werking die past in de hedendaagse praktijk en theorie van de archiefwetenschap en het hedendaags documentenbeheer, en beheert een collectie cultureel erfgoed die voornamelijk tot stand komt door overdracht van archiefbestanden;<br />c) een erfgoedbibliotheek ontplooit een werking die past in de hedendaagse praktijk en theorie van de informatie- en bibliotheekwetenschap, en beheert een collectie cultureel erfgoed die loopt van de oudste schriftmaterialen en eerste gedrukte werken tot de moderne en hedendaagse gedrukte en digitale publicaties;<br />2° beschikken over een collectie cultureel erfgoed die door haar onderlinge samenhang en profiel, de verbanden en de context, de mogelijke uniciteit of de materiële waarde door en voor een cultureel-erfgoedgemeenschap voldoende belangrijk wordt geacht om in een collectiebeherende cultureel-erfgoedorganisatie te worden ondergebracht;<br />3° de verzamelfunctie, de behoud- en beheerfunctie, de onderzoeksfunctie en de publieksgerichte functie, hierna de basisfuncties te noemen, vervullen. Om de basisfuncties te vervullen, kan de collectiebeherende cultureel-erfgoedorganisatie samenwerken met andere cultureel-erfgoedorganisaties. In voorkomend geval bepaalt de collectiebeherende cultureel-erfgoedorganisatie die een kwaliteitslabel aanvraagt mee het beleid voor die functionele samenwerking;<br />4° een duidelijke visie hebben op de totaliteit van de werking van de collectiebeherende cultureel-erfgoedorganisatie, waarbij de basisfuncties op elkaar zijn afgestemd;<br />5° aan het cultureel erfgoed aangepaste, algemeen aanvaarde standaarden en kwaliteitsvolle, dynamische werkvormen en -methoden hanteren. Voor digitaliseringinitiatieven moet dit gebeuren volgens de algemeen aanvaarde internationale en desgevallend door de Vlaamse Regering opgelegde standaarden;<br />6° voldoende garanties geven op het vlak van toegankelijkheid, infrastructuur en financiële en personele middelen zodat de basisfuncties, binnen het kader van de visie, vervuld kunnen worden;<br />7° voldoende garanties geven over het in de toekomst blijven bestaan van de collectiebeherende cultureel-erfgoedorganisatie en de bewaring en toegankelijkheid van het cultureel erfgoed voor een langere periode kunnen verzekeren;<br />8° de algemeen aanvaarde deontologische regels in acht nemen;<br />9° beheerd worden door een publiekrechtelijke of een privaatrechtelijke rechtspersoon zonder winstgevend doel;<br />10° haar zetel en haar werking hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad.<br /><br />Rekening houdend met het protocol, vermeld in artikel 9, maar zonder hiertoe te zijn gebonden, bepaalt de Vlaamse Regering uiterlijk 31 december van het eerste volledige jaar van de legislatuur van het Vlaams Parlement nadere specificaties van de voorwaarden, vermeld in het eerste lid.<br /><br />Als er geen protocol van akkoord wordt gesloten voor 1 oktober van het eerste volledige jaar van de legislatuur van het Vlaams Parlement bepaalt de Vlaamse Regering uiterlijk 31 december van hetzelfde jaar de nadere specificaties van de voorwaarden, vermeld in het eerste lid, voor het toekennen van het kwaliteitslabel.
+...
 
 ### ART. 11.
 
-Een aanvraag voor een kwaliteitslabel voor een collectiebeherende cultureel-erfgoedorganisatie kan elk jaar uiterlijk op 15 januari worden ingediend door de publiek- of privaatrechtelijke rechtspersoon die de collectiebeherende cultureel-erfgoedorganisatie beheert. <br /><br />Een kwaliteitslabel wordt aangevraagd op basis van een leidraad die door de dienst die de Vlaamse Regering heeft aangeduid is opgesteld. In de aanvraag geeft de publiek- of privaatrechtelijke rechtspersoon die de collectiebeherende cultureel-erfgoedorganisatie beheert, aan op welke wijze de collectiebeherende cultureel-erfgoedorganisatie voldoet aan de voorwaarden, vermeld in artikel 10.
+...
 
 ### ART. 12.
 
-Een visitatiecommissie als vermeld in artikel 80, onderzoekt ter plaatse de aanvraag voor het kwaliteitslabel en toetst de inhoud en de werking van de collectiebeherende cultureel-erfgoedorganisatie met het oog op het toekennen van het kwaliteitslabel, aan de voorwaarden, vermeld in artikel 10, eerste lid, en de nadere specificaties van die voorwaarden als vermeld in artikel 10, tweede lid, of de nadere specificaties van die voorwaarden als vermeld in artikel 10, derde lid.<br /><br />De visitatiecommissie stelt een advies op over de toekenning van het kwaliteitslabel en bezorgt dat aan de Vlaamse Regering.
+...
 
 ### ART. 13.
 
-§ 1. De Vlaamse Regering beslist uiterlijk zes maanden na de uiterste indiendatum over de toekenning van het kwaliteitslabel aan de collectiebeherende cultureel-erfgoedorganisatie.<br /><br />De Vlaamse Regering kent de collectiebeherende cultureel-erfgoedorganisatie één van de volgende labels toe :<br />1° door de Vlaamse overheid erkend museum;<br />2° door de Vlaamse overheid erkende culturele archiefinstelling;<br />3° door de Vlaamse overheid erkende erfgoedbibliotheek.<br /><br />De Vlaamse Regering kan bijkomende labels toekennen voor deelaspecten van de werking. <br /><br />De Vlaamse Regering neemt de collectiebeherende cultureel-erfgoedorganisaties die een kwaliteitslabel mogen dragen op in het register van erkende collectiebeherende cultureel-erfgoedorganisaties.<br /><br />§ 2. Het kwaliteitslabel mag gedragen worden vanaf de datum van de beslissing van de Vlaamse Regering.<br /><br />De collectiebeherende cultureel-erfgoedorganisatie mag het kwaliteitslabel dragen zolang ze voldoet aan de voorwaarden, vermeld in artikel 10, eerste lid, en de nadere specificaties van die voorwaarden als vermeld in artikel 10, tweede lid, of de nadere specificaties van die voorwaarden als vermeld in artikel 10, derde lid.<br /><br />§ 3. Als de Vlaamse Regering beslist het kwaliteitslabel niet toe te kennen, kan de publiek- of privaatrechtelijke rechtspersoon die de collectiebeherende cultureel-erfgoedorganisatie beheert voor de collectiebeherende cultureel-erfgoedorganisatie, een nieuwe aanvraag voor een kwaliteitslabel indienen op voorwaarde dat aangetoond wordt dat de reden voor de weigering niet langer bestaat.
+...
 
 ### ART. 14.
 
-Alleen een collectiebeherende cultureel-erfgoedorganisatie die op basis van artikel 13 een kwaliteitslabel kreeg toegekend, mag de naam "door de Vlaamse overheid erkend museum", "door de Vlaamse overheid erkende culturele archiefinstelling" of "door de Vlaamse overheid erkende erfgoedbibliotheek" dragen.<br /><br />De Vlaamse Regering bepaalt het herkenningsteken van :<br />1° door de Vlaamse overheid erkend museum;<br />2° door de Vlaamse overheid erkende culturele archiefinstelling;<br />3° door de Vlaamse overheid erkende erfgoedbibliotheek.<br /><br />Een collectiebeherende cultureel-erfgoedorganisatie die een kwaliteitslabel ontvangt als vermeld in artikel 13, moet in alle gedrukte en digitale communicatie, bij elke mededeling, verklaring, publicatie en presentatie het herkenningsteken vermelden.
+...
 
 ### ART. 15.
 
-Minstens eenmaal per vijf jaar wordt geëvalueerd of de collectiebeherende cultureel-erfgoedorganisatie nog steeds voldoet aan de voorwaarden, vermeld in artikel 10, eerste lid, en de nadere specificaties van die voorwaarden als vermeld in artikel 10, tweede lid, of de nadere specificaties van die voorwaarden als vermeld in artikel 10, derde lid.<br /><br />Een visitatiecommissie kan op elk moment gevraagd worden de werking van de collectiebeherende cultureel-erfgoedorganisatie te evalueren met het oog op het intrekken van het kwaliteitslabel.<br /><br />De Vlaamse Regering kan het kwaliteitslabel, na advies van de visitatiecommissie, intrekken als niet meer voldaan is aan de voorwaarden, vermeld in artikel 10, eerste lid, en de nadere specificaties van die voorwaarden als vermeld in artikel 10, tweede lid, of de nadere specificaties van die voorwaarden als vermeld in artikel 10, derde lid.
+...
 
 ### ART. 16.
 
-§ 1. Rekening houdend met het protocol, vermeld in artikel 9, maar zonder hiertoe gebonden te zijn, bepaalt de Vlaamse Regering uiterlijk 31 december van het eerste volledige jaar van de legislatuur van het Vlaams Parlement nadere regels met betrekking tot de aanvraag, de procedure en de toekenning van het kwaliteitslabel.<br /><br />Als er geen protocol als vermeld in artikel 9, wordt gesloten voor 1 oktober van het eerste volledige jaar van de legislatuur van het Vlaams Parlement bepaalt de Vlaamse Regering uiterlijk 31 december van hetzelfde jaar de nadere regels met betrekking tot de aanvraag, de procedure en de toekenning van het kwaliteitslabel. <br /><br />§ 2. De Vlaamse Regering bepaalt de nadere regels met betrekking tot het toezicht, de evaluatie en de procedure voor de intrekking van het kwaliteitslabel.
+...
 
 ## Afdeling III. Instellingen van de Vlaamse Gemeenschap
 
 ### ART. 17.
 
-§ 1. De Vlaamse Regering kan collectiebeherende cultureel-erfgoedorganisaties die opgericht zijn of beheerd worden door de Vlaamse Gemeenschap aanduiden als instelling van de Vlaamse Gemeenschap. <br /><br />§ 2. De instellingen van de Vlaamse Gemeenschap, vermeld in § 1, moeten voldoen aan de voorwaarden, vermeld in artikel 10.<br /><br />§ 3. De Vlaamse Regering kent aan de instellingen van de Vlaamse Gemeenschap een van de labels vermeld in artikel 13, § 1, tweede lid, toe. De Vlaamse Regering neemt de instellingen van de Vlaamse Gemeenschap op in het register als vermeld in artikel 13, § 1, vierde lid. <br /><br />Een instelling van de Vlaamse Gemeenschap wordt gelijkgesteld met een door de Vlaamse overheid erkend museum, een door de Vlaamse overheid erkende culturele archiefinstelling of een door de Vlaamse overheid erkende erfgoedbibliotheek, en mag de naam en het herkenningsteken, vermeld in artikel 14, dragen.
+...
 
 ### ART. 18.
 
-§ 1. Met een instelling van de Vlaamse Gemeenschap die de Vlaamse Regering niet zelf beheert, sluit de Vlaamse Regering na advies van de beoordelingscommissie vermeld in artikel 82, tweede lid, een beheersovereenkomst.<br /><br />Die beheersovereenkomst bevat : <br />1° de missie en doelstellingen;<br />2° de resultaatgebieden;<br />3° het bedrag van de jaarlijkse werkingssubsidie;<br />4° de wijze waarop de evaluatie van en het toezicht op de uitvoering van het beleidsplan en de beheersovereenkomst zal gebeuren. <br /><br />Met musea die aangeduid zijn als instellingen van de Vlaamse Gemeenschap kan de Vlaamse Regering in de beheersovereenkomst de toegang voor min 26-jarigen voor maximaal 1 euro opnemen.<br /><br />De beheersovereenkomst slaat op een periode van maximaal vijf jaar, die steeds eindigt op 31 december van het tweede volledige kalenderjaar van de legislatuur van het Vlaams Parlement.<br /><br />§ 2. Ter voorbereiding van de beheersovereenkomst dienen de instellingen van de Vlaamse Gemeenschap, vermeld in § 1, op 1 april van het jaar dat volgt op de aanduiding als instelling van de Vlaamse Gemeenschap als vermeld in artikel 17, § 1, en telkens uiterlijk op 1 april van het tweede volledige jaar van de legislatuur van het Vlaams Parlement, een beleidsplan in.<br /><br />Het beleidsplan bevat de missie en visie die de instelling van de Vlaamse Gemeenschap, vermeld in § 1, hanteert in haar werking, bevat een omgevingsanalyse en beschrijft beknopt alle doelstellingen, werkmethodes en middelen. Het beleidsplan bevat eveneens een meerjarenplanning en een meerjarenbegroting. In haar doelstellingen neemt de instelling van de Vlaamse Gemeenschap op hoe ze haar dienstverlening naar haar cultureel-erfgoedgemeenschap zal uitbouwen en hoe ze de expertise die ze bezit ter beschikking zal stellen van die cultureel-erfgoedgemeenschap. De instelling van de Vlaamse Gemeenschap verankert die netwerkfunctie in de volledige werking.<br /><br />§ 3. Een instelling van de Vlaamse Gemeenschap als vermeld in § 1, voldoet minstens aan de volgende bijkomende voorwaarden :<br />1° aanwijsbare inspanningen leveren voor de opname in de raad van bestuur van personen met een etnisch-cultureel diverse achtergrond;<br />2° aanwijsbare inspanningen leveren voor de aanwerving van personen met een etnisch-cultureel diverse achtergrond op staf- of middenkaderniveau.
+...
 
 ## Afdeling IV. Indelen van musea en culturele archiefinstellingen bij het Vlaamse niveau
 
 ### ART. 19.
 
-§ 1. Een museum of een culturele archiefinstelling moet, om ingedeeld te kunnen worden bij het Vlaamse niveau, een kwaliteitslabel als vermeld in artikel 13, § 1, tweede lid, 1°, of artikel 13, § 1, tweede lid, 2°, toegekend hebben gekregen en gerechtigd zijn om dit te dragen.<br /><br />§ 2. Om een museum of een culturele archiefinstelling in te delen bij het Vlaamse niveau, worden de inhoud en de werking ervan getoetst aan de volgende criteria :<br />1° het belang van het cultureel erfgoed en de geografische reikwijdte van het thema waarop het museum of de culturele archiefinstelling focust;<br />2° een werking uitbouwen met een landelijke reikwijdte die relevant is voor Vlaanderen. Het museum of de culturele archiefinstelling moeten zich met die werking binnen een internationale context begeven en internationale expertise binnenbrengen in de cultureel-erfgoedgemeenschap;<br />3° de culturele en maatschappelijke verantwoordelijkheid die het museum of de culturele archiefinstelling op zich neemt;<br />4° de inhoud van en de wijze waarop de kennis en expertise op een actieve en receptieve manier ter beschikking gesteld worden van de cultureel-erfgoedgemeenschap;<br />5° de kwaliteit van de uitvoering van de basisfuncties. De programmatorische vrijheid van de conservator of archivaris dient gegarandeerd te worden;<br />6° de kwaliteit van het beheer van het museum of de culturele archiefinstelling;<br />7° de geografische reikwijdte van het publieksbereik;<br />8° de inspanningen inzake interculturaliteit op het vlak van programmering, participatie, personeelsbeleid en bestuur;<br />9° de positionering, samenwerking en netwerkvorming.<br /><br />Als bijkomend criterium voor de culturele archief-instellingen geldt dat zij om ingedeeld te kunnen worden bij het Vlaamse niveau archiefbestanden met een geografische spreiding over Vlaanderen moeten verzamelen.<br /><br />Rekening houdend met het protocol, vermeld in artikel 9, maar zonder hiertoe gebonden te zijn, bepaalt de Vlaamse Regering uiterlijk 31 december van het eerste volledige jaar van de legislatuur van het Vlaams Parlement nadere specificaties van de criteria vermeld in het eerste lid, voor de indeling bij het Vlaamse niveau. Bij het bepalen van de nadere specificaties wordt rekening gehouden met de specifieke kenmerken van de museologie alsook de archiefwetenschap en het hedendaags documentenbeheer.<br /><br />Als er geen protocol van akkoord wordt gesloten voor 1 oktober van het eerste volledige jaar van de legislatuur van het Vlaams Parlement bepaalt de Vlaamse Regering uiterlijk 31 december van hetzelfde jaar de nadere specificaties van de criteria, vermeld in het eerste lid, voor de indeling van musea en culturele archiefinstellingen bij het Vlaamse niveau. Bij het bepalen van de nadere specificaties wordt rekening gehouden met de specifieke kenmerken van de museologie alsook de archiefwetenschap en het hedendaags documentenbeheer.
+...
 
 ### ART. 20.
 
-Gelijktijdig met het indienen van een aanvraag voor het kwaliteitslabel, als vermeld in artikel 11, kan de publiek- of privaatrechtelijke rechtspersoon die een museum of een culturele archiefinstelling beheert, een aanvraag indienen voor een indeling bij het Vlaamse niveau.
+...
 
 ### ART. 21.
 
-Een visitatiecommissie als vermeld in artikel 80, onderzoekt ter plaatse de aanvraag voor een indeling en toetst de inhoud en de werking van het museum of de culturele archiefinstelling met het oog op de indeling bij het Vlaamse niveau, aan de criteria, vermeld in artikel 19, § 2, eerste en tweede lid, en de nadere specificaties van die criteria als vermeld in artikel 19, § 2, derde lid, of de nadere specificaties van die criteria als vermeld in artikel 19, § 2, vierde lid.<br /><br />De visitatiecommissie stelt een advies op over de indeling en bezorgt dat aan de Vlaamse Regering.
+...
 
 ### ART. 22.
 
-De door de Vlaamse Regering aangewezen dienst en de bevoegde beoordelingscommissie, vermeld in artikel 82, toetsen, met het oog op het opstellen van een geïntegreerd advies aan de Vlaamse Regering over de indeling bij het Vlaamse niveau, de inhoud en de werking van de musea en de culturele archiefinstellingen die een kwaliteitslabel als vermeld in artikel 13, § 1, tweede lid, 1° of 2°, hebben gekregen en gerechtigd zijn om dat te dragen, aan de criteria, vermeld in artikel 19, § 2, eerste en tweede lid, en de nadere specificaties van de criteria, vermeld in artikel 19, § 2, derde lid, of de nadere specificaties van die criteria, vermeld in artikel 19, § 2, vierde lid.<br /><br />Het toetsen gebeurt : <br />1° in het tweede jaar dat voorafgaat aan de beleidsperiode, vermeld in artikel 24, voor alle erkende musea en erkende culturele archiefinstellingen ingedeeld bij het Vlaamse niveau en voor alle erkende musea en culturele archiefinstellingen die uiterlijk op 15 juli van het tweede jaar dat voorafgaat aan de beleidsperiode, vermeld in artikel 24, een aanvraag voor een indeling bij het Vlaamse niveau indienen bij de door de Vlaamse Regering aangewezen dienst;<br />2° in het tweede jaar van de beleidsperiode, vermeld in artikel 24, voor musea of culturele archiefinstellingen die uiterlijk op 15 juli van het tweede jaar van de beleidsperiode, vermeld in artikel 24, een aanvraag voor een indeling bij het Vlaamse niveau indienen bij de door de Vlaamse Regering aangewezen dienst.<br /><br />De door de Vlaamse Regering aangewezen dienst en de beoordelingscommissie kunnen daarvoor alle initiatieven nemen die ze nodig achten.
+...
 
 ### ART. 23.
 
-De Vlaamse Regering beslist uiterlijk op 1 december van het jaar waarin ze het geïntegreerd advies, vermeld in artikel 22, heeft ontvangen welke, op basis van artikel 13, § 1, tweede lid, door de Vlaamse overheid erkende musea en door de Vlaamse overheid erkende culturele archiefinstellingen op basis van de criteria, vermeld in artikel 19, § 2, eerste en tweede lid, en de nadere specificaties van die criteria als vermeld in artikel 19, § 2, derde lid, of de nadere specificaties van die criteria als vermeld in artikel 19, vierde lid, ingedeeld worden bij het Vlaamse niveau en aldus in aanmerking komen voor subsidiëring als vermeld in artikel 32, § 1, 1°, of artikel 32, § 1, 2°.<br /><br />De door de Vlaamse Regering aangewezen dienst bezorgt het museum of de culturele archiefinstelling en de betrokken provincie- en gemeentebesturen uiterlijk op 31 december van hetzelfde jaar de beslissing van de Vlaamse Regering.
+...
 
 ### ART. 24.
 
-De beleidsperiode voor musea ingedeeld bij het Vlaamse niveau duurt vijf jaar, begint op 1 januari van het laatste jaar van de legislatuur van het Vlaams Parlement en eindigt op 31 december van het vierde volledige jaar van de volgende legislatuur van het Vlaams Parlement.<br /><br />De beleidsperiode voor culturele archiefinstellingen ingedeeld bij het Vlaamse niveau duurt vijf jaar, begint op 1 januari van het vierde volledige jaar van de legislatuur van het Vlaams Parlement en eindigt op 31 december van het derde volledige jaar van de volgende legislatuur van het Vlaams Parlement.
+...
 
 ### ART. 25.
 
-Rekening houdend met het protocol, vermeld in artikel 9, maar zonder hiertoe gebonden te zijn, bepaalt de Vlaamse Regering uiterlijk 31 december van het eerste volledige jaar van de legislatuur van het Vlaams Parlement nadere regels inzake de aanvraag en de procedure voor de indeling van musea en culturele archiefinstellingen bij het Vlaamse niveau.<br /><br />Als er geen protocol als vermeld in artikel 9, wordt gesloten voor 1 oktober van het eerste volledige jaar van de legislatuur van het Vlaams Parlement bepaalt de Vlaamse Regering uiterlijk op 31 december van hetzelfde jaar de nadere regels inzake de aanvraag en de procedure voor de indeling van musea en culturele archiefinstellingen bij het Vlaamse niveau.
+...
 
 ## HOOFDSTUK III. Het subsidiëren van landelijke cultureel-erfgoedorganisaties
 
@@ -122,157 +122,157 @@ Rekening houdend met het protocol, vermeld in artikel 9, maar zonder hiertoe geb
 
 ### ART. 26.
 
-§ 1. De Vlaamse Regering kan een jaarlijkse werkingssubsidie toekennen aan volgende landelijke cultureel-erfgoedorganisaties :<br />1° landelijke cultureel-erfgoedorganisaties voor volkscultuur;<br />2° landelijke expertisecentra voor cultureel erfgoed.<br /><br />§ 2. De werkingssubsidie wordt toegekend voor het geheel van de werking en is een bijdrage in de loon- en werkingskosten van de landelijke cultureel-erfgoedorganisatie.<br /><br />De jaarlijkse werkingssubsidie bedraagt ten minste 75.000 euro.
+...
 
 ### ART. 27.
 
-Om in aanmerking te komen voor een werkingssubsidie moet de landelijke cultureel-erfgoedorganisatie, vermeld in artikel 26, § 1, voldoen aan de volgende voorwaarden :<br />1° beschikken over een privaatrechtelijke rechtspersoonlijkheid zonder winstgevend doel;<br />2° haar zetel en haar werking hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br />3° een beleidsplan indienen voor de beleidsperiode. Het beleidsplan slaat op een periode van maximaal vijf jaar, die steeds eindigt op 31 december van het tweede volledige jaar van de legislatuur van het Vlaams Parlement;<br />4° een werking uitbouwen met een landelijke reikwijdte die representatief is voor de cultureel-erfgoedgemeenschap en voor Vlaanderen. De landelijke cultureel-erfgoedorganisatie moet zich met die werking binnen een internationale context begeven om internationale expertise binnen te brengen in de cultureel-erfgoedgemeenschap;<br />5° de cultureel-erfgoedgemeenschap organiseren en activeren. Daaruit blijkt het draagvlak van de landelijke cultureel-erfgoedorganisatie;<br />6° een dienstverlenende en kennisdelende functie op zich nemen, zowel op een receptieve als op een actieve manier;<br />7° personen, organisaties en verenigingen begeleiden die deel uitmaken van de cultureel-erfgoedgemeenschap en voorbeeldprojecten stimuleren binnen de cultureel-erfgoedgemeenschap;<br />8° haar werking afstemmen op de werking van het steunpunt, vermeld in artikel 4, en samenwerken met relevante actoren binnen het maatschappelijke veld;<br />9° beschikken over een goede zakelijke en beheersmatige onderbouw van de landelijke cultureel-erfgoedorganisatie en rekening houden met de principes van kwaliteitszorg;<br />10° als de cultureel-erfgoedorganisatie inzet op digitalisering moet dit gebeuren volgens de algemeen aanvaarde internationale en desgevallend door de Vlaamse Regering opgelegde standaarden.<br /><br />Om in aanmerking te komen voor een werkingssubsidie, moet de landelijke cultureel-erfgoedorganisatie voor volkscultuur, vermeld in artikel 26, § 1, 1°, voldoen aan de volgende aanvullende voorwaarden :<br />1° de cultureel-erfgoedgemeenschap, vermeld in het eerste lid, 4° en 5°, is een cultureel-erfgoedgemeenschap binnen het domein van de volkscultuur met specifieke kenmerken : het is een gemeenschap als vermeld in artikel 2, 5°, waarin vrijwilligerswerking, een netwerk van verenigingen verspreid over Vlaanderen en het delen van expertise binnen dat netwerk centraal staan;<br />2° ervoor zorgen dat het cultureel erfgoed waarvoor de cultureel-erfgoedgemeenschap en de landelijke organisatie voor volkscultuur een verantwoordelijkheid op zich nemen, bewaard blijft, gedocumenteerd wordt, onderzocht wordt, ter harte wordt genomen, en voor het publiek wordt ontsloten.<br /><br />Om in aanmerking te komen voor een werkingssubsidie, moet het landelijke expertisecentrum voor cultureel erfgoed, vermeld in artikel 26, § 1, 2°, voldoen aan de volgende aanvullende voorwaarde : in de bestuursorganen een vertegenwoordiging van collectiebeherende cultureel-erfgoedorganisaties opnemen als het landelijke expertisecentrum voor cultureel erfgoed expertise die aanwezig is in die collectiebeherende cultureel-erfgoedorganisaties bundelt en versterkt.<br /><br />De Vlaamse Regering kan nadere specificaties van de voorwaarden vermeld in het eerste, tweede en derde lid bepalen.
+...
 
 ### ART. 28.
 
-§ 1. Een aanvraag voor een werkingssubsidie als landelijke cultureel-erfgoedorganisatie vermeld in artikel 26, § 1, wordt ingediend uiterlijk op 1 april. <br /><br />§ 2. De aanvraag voor een werkingssubsidie bestaat uit een beleidsplan voor de beleidsperiode.<br /><br />Het beleidsplan bevat de missie en visie die de landelijke cultureel-erfgoedorganisatie, vermeld in artikel 26, § 1, hanteert in haar werking, bevat een omgevingsanalyse en beschrijft beknopt alle doelstellingen, werkmethodes en middelen. Het beleidsplan bevat eveneens een meerjarenplanning en een meerjarenbegroting. In haar doelstellingen neemt de landelijke cultureel-erfgoedorganisatie op hoe ze haar dienstverlening naar haar cultureel-erfgoedgemeenschap zal uitbouwen en hoe ze de expertise die ze bezit ter beschikking zal stellen van die cultureel-erfgoedgemeenschap. De landelijke cultureel-erfgoedorganisatie verankert die netwerkfunctie in de volledige werking.<br /><br />In het beleidsplan geeft de landelijke cultureel-erfgoedorganisatie aan op welke wijze ze voldoet aan de voorwaarden, vermeld in artikel 27.
+...
 
 ### ART. 29.
 
-§ 1. De door de Vlaamse Regering aangewezen dienst en de bevoegde beoordelingscommissie, vermeld in artikel 82, onderzoeken of de landelijke cultureel-erfgoedorganisatie voldoet aan de voorwaarden, vermeld in artikel 27, en toetsen het beleidsplan en de werking van de organisatie, met het oog op het opstellen van een geïntegreerd advies aan de Vlaamse Regering over de toekenning en het bedrag van de jaarlijkse werkingssubsidie, aan de volgende criteria :<br />1° het belang van de cultureel-erfgoedgemeenschap;<br />2° de geografische reikwijdte van de werking van de landelijke cultureel-erfgoedorganisatie en de omvang van de netwerkstructuur;<br />3° de uitbouw, de kwaliteit van de werking en de schaalgrootte van de dienstverlening van de landelijke cultureel-erfgoedorganisatie;<br />4° de culturele en maatschappelijke verantwoordelijkheid die door de landelijke cultureel-erfgoedorganisatie wordt opgenomen;<br />5° de kwaliteit van het zakelijke beheer en van de organisatiestructuur van de landelijke cultureel-erfgoedorganisatie;<br />6° de inspanningen inzake interculturaliteit op het vlak van programmering, participatie, personeelsbeleid en bestuur;<br />7° de haalbaarheid en het realiteitsgehalte van de begroting.<br /><br />De Vlaamse Regering kan nadere specificaties van die criteria bepalen. <br /><br />§ 2. De door de Vlaamse Regering aangewezen dienst en de beoordelingscommissie kunnen daarvoor alle initiatieven nemen die ze nodig achten.
+...
 
 ### ART. 30.
 
-§ 1. De Vlaamse Regering beslist uiterlijk op 1 oktober van het jaar waarin de aanvraag is ingediend, op basis van de criteria, vermeld in artikel 29, § 1, over de toekenning en het bedrag van de jaarlijkse werkingssubsidie voor de landelijke cultureel-erfgoedorganisaties, vermeld in artikel 26, § 1, voor de uitbouw van een representatieve werking voor hun cultureel-erfgoedgemeenschap.<br /><br />De Vlaamse Regering kan voor een expertise slechts één landelijke cultureel-erfgoedorganisatie als vermeld in artikel 26, § 1, of een museum ingedeeld bij het Vlaamse niveau als vermeld in artikel 32, § 1, 1°, of een culturele archiefinstelling ingedeeld bij het Vlaamse niveau als vermeld in artikel 32, § 1, 2°, subsidiëren. <br /><br />De jaarlijkse werkingssubsidie wordt toegekend voor de beleidsperiode waarop het beleidsplan betrekking heeft.<br /><br />§ 2. De Vlaamse Regering sluit uiterlijk op 31 december van het jaar waarin ze een beslissing heeft genomen over de toekenning en het bedrag van de jaarlijkse werkingssubsidie, een beheersovereenkomst met een landelijke cultureel-erfgoedorganisatie als vermeld in artikel 26, § 1. Die beheersovereenkomst bepaalt de opdracht die de Vlaamse Gemeenschap geeft aan de landelijke cultureel-erfgoedorganisatie voor de versterking van de cultureel-erfgoedgemeenschap. In de beheersovereenkomst wordt deze opdracht vertaald naar doelstellingen en resultaatgebieden. <br /><br />Het bedrag van de jaarlijkse werkingssubsidie wordt in de beheersovereenkomst opgenomen.<br /><br />De beheersovereenkomst wordt gesloten voor de beleidsperiode waarop het beleidsplan betrekking heeft.
+...
 
 ### ART. 31.
 
-De Vlaamse Regering bepaalt de nadere regels met betrekking tot de aanvraag, de procedure en het sluiten van de beheersovereenkomst.
+...
 
 ## Afdeling II. Het subsidiëren van collectiebeherende cultureel-erfgoedorganisaties
 
 ### ART. 32.
 
-§ 1. De Vlaamse Regering kan een jaarlijkse werkingssubsidie toekennen aan volgende collectiebeherende cultureel-erfgoedorganisaties :<br />1° musea, ingedeeld bij het Vlaamse niveau, als vermeld in hoofdstuk II, afdeling IV;<br />2° culturele archiefinstellingen, ingedeeld bij het Vlaamse niveau, als vermeld in hoofdstuk II, afdeling IV;<br />3° privaatrechtelijke Nederlandstalige culturele archiefinstellingen in het tweetalige gebied Brussel-Hoofdstad die het culturele leven in het tweetalige gebied Brussel-Hoofdstad documenteren en die een kwaliteitslabel als bedoeld in dit decreet toegekend hebben gekregen en die gerechtigd zijn om dit te dragen.<br /><br />§ 2. De werkingssubsidie wordt toegekend voor het geheel van de werking en is een bijdrage in de loon- en werkingskosten van de collectiebeherende cultureel-erfgoedorganisatie.<br /><br />De jaarlijkse werkingssubsidie bedraagt :<br />1° ten minste 200.000 euro voor musea, ingedeeld bij het Vlaamse niveau, als vermeld in § 1, 1°;<br />2° ten minste 100.000 euro voor culturele archiefinstellingen, ingedeeld bij het Vlaamse niveau, als vermeld in § 1, 2°, en voor Nederlandstalige culturele archiefinstellingen in het tweetalige gebied Brussel-Hoofdstad, als vermeld in § 1, 3°.
+...
 
 ### ART. 33.
 
-Om in aanmerking te komen voor een werkingssubsidie, moet een collectiebeherende cultureel-erfgoedorganisatie als vermeld in artikel 32, een beleidsplan indienen voor de beleidsperiode.<br /><br />Voor musea, ingedeeld bij het Vlaamse niveau, als vermeld in artikel 32, § 1, 1°, slaat het beleidsplan op een periode van vijf jaar die begint op 1 januari van het laatste jaar van de legislatuur van het Vlaams Parlement en eindigt op 31 december van het vierde volledige jaar van de volgende legislatuur van het Vlaams Parlement.<br /><br />Voor culturele archiefinstellingen, ingedeeld bij het Vlaamse niveau, als vermeld in artikel 32, § 1, 2°, en voor Nederlandstalige culturele archiefinstellingen als vermeld in artikel 32, § 1, 3°, slaat het beleidsplan op een periode van vijf jaar die begint op 1 januari van het vierde volledige jaar van de legislatuur van het Vlaams Parlement en eindigt op 31 december van het derde volledige jaar van de volgende legislatuur van het Vlaams Parlement.<br /><br />In het derde jaar van de beleidsperiode kan een collectiebeherende cultureel-erfgoedorganisatie als vermeld in artikel 32, § 1, 1° en 2°, een beleidsplan voor een verkorte beleidsperiode indienen, wanneer het museum of de culturele archiefinstelling ingedeeld wordt bij het Vlaamse niveau in het tweede jaar van de beleidsperiode. Deze verkorte beleidsperiode staat gelijk aan de laatste twee jaar van de beleidsperiode, vermeld in het tweede of derde lid.
+...
 
 ### ART. 34.
 
-§ 1. Een aanvraag voor een werkingssubsidie voor een collectiebeherende cultureel-erfgoedorganisatie als vermeld in artikel 32, § 1, wordt uiterlijk op 1 april van het jaar dat voorafgaat aan de beleidsperiode, vermeld in artikel 33, tweede of derde lid, of de verkorte beleidsperiode, vermeld in artikel 33, vierde lid, ingediend door de publiek- of privaatrechtelijke rechtspersoon die de collectiebeherende cultureel-erfgoedorganisatie beheert.<br /><br />§ 2. De aanvraag voor een werkingssubsidie bestaat uit een beleidsplan voor de beleidsperiode, vermeld in artikel 33, tweede of derde lid, of de verkorte beleidsperiode, vermeld in artikel 33, vierde lid, dat is goedgekeurd door de publiek- of privaatrechtelijke rechtspersoon die de collectiebeherende cultureel-erfgoedorganisatie beheert.<br /><br />Het beleidsplan bevat de missie en visie die een collectiebeherende cultureel-erfgoedorganisatie als vermeld in artikel 32, § 1, hanteert in haar werking, bevat een omgevingsanalyse en beschrijft beknopt alle doelstellingen, werkmethodes en middelen. Het beleidsplan bevat eveneens een meerjarenplanning en meerjarenbegroting. In haar doelstellingen neemt de collectiebeherende cultureel-erfgoedgemeenschap op hoe ze haar dienstverlening voor haar cultureel-erfgoedgemeenschap zal uitbouwen en hoe ze de expertise die ze bezit, ter beschikking zal stellen van de cultureel-erfgoedgemeenschap. De collectiebeherende cultureel-erfgoedorganisatie verankert die netwerkfunctie in de volledige werking.
+...
 
 ### ART. 35.
 
-De door de Vlaamse Regering aangewezen dienst en de bevoegde beoordelingscommissie, vermeld in artikel 82, toetsen het beleidsplan en de werking van de collectiebeherende cultureel-erfgoedorganisatie, met het oog op het opstellen van een geïntegreerd advies aan de Vlaamse Regering over de toekenning en het bedrag van de jaarlijkse werkingssubsidie, aan de criteria voor indeling bij het Vlaamse niveau, vermeld in artikel 19, en aan de haalbaarheid en het realiteitsgehalte van de begroting.<br /><br />Artikel 19, § 2, 2°, is niet van toepassing voor de beoordeling van Nederlandstalige culturele archief-instellingen als vermeld in artikel 32, § 1, 3°.<br /><br />De door de Vlaamse Regering aangewezen dienst en de beoordelingscommissie kunnen daarvoor alle initiatieven nemen die ze nodig achten.
+...
 
 ### ART. 36.
 
-§ 1. De Vlaamse Regering beslist uiterlijk op 1 oktober van het jaar dat voorafgaat aan de beleidsperiode, vermeld in artikel 33, eerste of tweede lid, of uiterlijk op 1 oktober van het jaar dat voorafgaat aan de verkorte beleidsperiode, vermeld in artikel 33, vierde lid, op basis van de criteria, vermeld in artikel 35, eerste lid, over de toekenning en het bedrag van de jaarlijkse werkingssubsidie voor de collectiebeherende cultureel-erfgoedorganisaties, vermeld in artikel 32, § 1.<br /><br />Voor culturele archiefinstellingen als vermeld in artikel 32, § 1, 2° en 3°, bedraagt de werkingssubsidie, vermeld in artikel 32, § 2, tweede lid, 2°, ten minste 90 % van de werkingssubsidie die werd toegekend op basis van het vorige beleidsplan, tenzij de door de Vlaamse Regering aangewezen dienst bij de voortgangscontrole en evaluatie van de voorbije beleidsperiode ernstige gebreken heeft vastgesteld bij de uitvoering van het beleidsplan. <br /><br />De jaarlijkse werkingssubsidie wordt toegekend voor de beleidsperiode of de verkorte beleidsperiode waarop het beleidsplan betrekking heeft. <br /><br />§ 2. De Vlaamse Regering sluit uiterlijk op 31 december van het jaar waarin de Vlaamse Regering een beslissing heeft genomen over de toekenning en het bedrag van de jaarlijkse werkingssubsidie, een beheersovereenkomst met een collectiebeherende cultureel-erfgoedorganisatie, als vermeld in artikel 32, § 1. Die beheersovereenkomst bepaalt de opdracht die de Vlaamse Gemeenschap geeft aan de collectiebeherende cultureel-erfgoedorganisatie voor de versterking van de cultureel-erfgoedgemeenschap. In de beheersovereenkomst wordt die opdracht vertaald naar doelstellingen en resultaatgebieden.<br /><br />Voor musea, ingedeeld bij het Vlaamse niveau, kan de Vlaamse Regering in de beheersovereenkomst de toegang voor min 26-jarigen voor maximaal 1 euro opnemen. Desgevallend wordt de jaarlijkse werkingssubsidie vermeld in § 1, eerste lid, verhoogd ter compensatie van het inkomstenverlies door het opnemen in de beheersovereenkomst van de toegang voor min 26-jarigen voor maximaal 1 euro.<br /><br />Het bedrag van de jaarlijkse werkingssubsidie wordt in de beheersovereenkomst opgenomen.<br /><br />De beheersovereenkomst wordt gesloten voor de beleidsperiode waarop het beleidsplan betrekking heeft.
+...
 
 ### ART. 37.
 
-De Vlaamse Regering bepaalt de nadere regels met betrekking tot de aanvraag, de procedure en het sluiten van de beheersovereenkomst.
+...
 
 ## Afdeling III. Het subsidiëren van de Vlaamse Erfgoedbibliotheek
 
 ### ART. 38.
 
-§ 1. De Vlaamse Regering kan een jaarlijkse werkingssubsidie toekennen aan een samenwerkingsverband van een representatieve groep van erfgoedbibliotheken, hierna de Vlaamse Erfgoedbibliotheek te noemen.<br /><br />§ 2. De werkingssubsidie wordt toegekend voor het geheel van de werking en is een bijdrage in de loon- en werkingskosten van de Vlaamse Erfgoedbibliotheek. <br /><br />De jaarlijkse werkingssubsidie bedraagt ten minste 300.000 euro.
+...
 
 ### ART. 39.
 
-Om in aanmerking te komen voor een werkingssubsidie, moet de Vlaamse Erfgoedbibliotheek, vermeld in artikel 38, § 1, voldoen aan de volgende voorwaarden :<br />1° beschikken over een privaatrechtelijke of publiekrechtelijke rechtspersoonlijkheid zonder winstgevend doel;<br />2° haar zetel en haar werking hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br />3° een beleidsplan indienen voor de beleidsperiode. Het beleidsplan slaat op een beleidsperiode van vijf jaar die begint op 1 januari van het vierde volledige jaar van de legislatuur van het Vlaams Parlement en eindigt op 31 december van het derde volledige jaar van de volgende legislatuur van het Vlaams Parlement.
+...
 
 ### ART. 40.
 
-§ 1. Een aanvraag voor een werkingssubsidie voor de Vlaamse Erfgoedbibliotheek wordt uiterlijk ingediend op 1 april van het derde volledige jaar van de legislatuur van het Vlaams Parlement. <br /><br />§ 2. De aanvraag voor een werkingssubsidie bestaat uit een door de Vlaamse Erfgoedbibliotheek goedgekeurd beleidsplan voor de beleidsperiode.<br /><br />In het beleidsplan wordt een beschrijving van de wijze waarop de Vlaamse Erfgoedbibliotheek de volgende doelstellingen zal verwezenlijken opgenomen :<br />1° het afstemmen van het passieve collectiebeleid van de verschillende partners. Daarbij wordt gewerkt met thema- en zwaartepuntcollecties;<br />2° het uitbouwen van een actief collectiebeleid voor Flandrica en meer bepaald voor publicaties die vanuit cultureel en historisch oogpunt of vanwege hun cultureel-erfgoedwaarde voor Vlaanderen van belang zijn. Ook hier kunnen onderlinge afspraken over collectievorming en het aanwinstenbeleid gemaakt worden;<br />3° het opbouwen en verspreiden van expertise over de conservering van het cultureel erfgoed in kwestie. Die taak omvat eveneens het opstellen van een schade-inventaris en een calamiteitenplan;<br />4° het bibliografisch ontsluiten van cultureel-erfgoedcollecties, onder meer door middel van databanken en digitalisering. Het opbouwen en verspreiden van expertise over metadata en standaarden met betrekking tot erfgoedcollecties van erfgoedbibliotheken maakt daar deel van uit;<br />5° het digitaliseren van cultureel-erfgoedcollecties van erfgoedbibliotheken;<br />6° et organiseren van een duurzame bewaring en terbeschikkingstelling van gedigitaliseerde cultureel-erfgoedcollecties en digitale publicaties;<br />7° het organiseren, meewerken aan en ontwikkelen van communicatie- en publieksinitiatieven om de zichtbaarheid van het veld van Vlaamse erfgoedbibliotheken te verhogen en expertise er over op te bouwen.<br /><br />Alle initiatieven met betrekking tot digitalisering gebeuren volgens de algemeen aanvaarde internationale en desgevallend door de Vlaamse Regering opgelegde standaarden.<br /><br />De Vlaamse Erfgoedbibliotheek vertaalt die doelstellingen naar een meerjarenplanning en meerjarenbegroting, die deel uitmaken van het beleidsplan. In het beleidsplan omschrijft de Vlaamse Erfgoedbibliotheek hoe de projecten die ze ontwikkelt, ten goede komen van haar cultureel-erfgoedgemeenschap.<br /><br />§ 3. Om deze doelstellingen te verwezenlijken overlegt de Vlaamse Erfgoedbibliotheek met het steunpunt, vermeld in artikel 4, en werkt de Vlaamse Erfgoedbibliotheek samen met de Nederlandse Taalunie en met relevante actoren binnen het maatschappelijke veld.
+...
 
 ### ART. 41.
 
-§ 1. De door de Vlaamse Regering aangewezen dienst en de bevoegde beoordelingscommissie, vermeld in artikel 82, onderzoeken de aanvraag voor een werkingssubsidie en toetsen het beleidsplan en de werking van de Vlaamse Erfgoedbibliotheek, met het oog op het opstellen van een geïntegreerd advies aan de Vlaamse Regering over de toekenning en het bedrag van de werkingssubsidie, aan de volgende criteria :<br />1° de kwaliteit van het zakelijke beheer en van de organisatiestructuur van de Vlaamse Erfgoedbibliotheek;<br />2° de kwaliteit van de inhoudelijke werking, de uitbouw en de schaalgrootte van de dienstverlening van de Vlaamse Erfgoedbibliotheek;<br />3° de culturele en maatschappelijke verantwoordelijkheden die door de Vlaamse Erfgoedbibliotheek worden opgenomen;<br />4° de inspanningen inzake interculturaliteit op het vlak van programmering, participatie, personeelsbeleid en bestuur;<br />5° de haalbaarheid en het realiteitsgehalte van de begroting.<br /><br />De Vlaamse Regering kan nadere specificaties van die criteria bepalen. <br /><br />§ 2. De door de Vlaamse Regering aangewezen dienst en de beoordelingscommissie kunnen daarvoor alle initiatieven nemen die ze nodig achten.
+...
 
 ### ART. 42.
 
-§ 1. De Vlaamse Regering beslist uiterlijk op 1 oktober van het derde volledige jaar van de legislatuur van het Vlaams Parlement op basis van de criteria, vermeld in artikel 41, § 1, over de toekenning en het bedrag van de jaarlijkse werkingssubsidie voor de Vlaamse Erfgoedbibliotheek.<br /><br />De jaarlijkse werkingssubsidie wordt toegekend voor de beleidsperiode waarop het beleidsplan betrekking heeft.<br /><br />§ 2. De Vlaamse Regering sluit uiterlijk op 31 december van het jaar waarin ze een beslissing heeft genomen over de toekenning en het bedrag van de jaarlijkse werkingssubsidie, een beheersovereenkomst met de Vlaamse Erfgoedbibliotheek, vermeld in artikel 38, § 1. Die beheersovereenkomst bepaalt de opdracht die de Vlaamse Gemeenschap geeft aan de Vlaamse Erfgoedbibliotheek. In de beheersovereenkomst wordt die opdracht vertaald naar doelstellingen en resultaatgebieden.<br /><br />Het bedrag van de jaarlijkse werkingssubsidie wordt in die beheersovereenkomst opgenomen.<br /><br />De beheersovereenkomst wordt gesloten voor de beleidsperiode waarop het beleidsplan betrekking heeft.
+...
 
 ### ART. 43.
 
-De Vlaamse Regering bepaalt de nadere regels met betrekking tot de aanvraag, de procedure en het sluiten van de beheersovereenkomst.
+...
 
 ## Afdeling IV. Het subsidiëren van een samenwerkingsverband voor het beheer van de Archiefbank Vlaanderen
 
 ### ART. 44.
 
-§ 1. De Vlaamse Regering kan een jaarlijkse werkingssubsidie toekennen aan een samenwerkingsverband van een representatieve groep van culturele archief-instellingen, ingedeeld bij het Vlaamse niveau, als vermeld in hoofdstuk II, afdeling IV, voor het beheer van de Archiefbank Vlaanderen. <br /><br />De Archiefbank Vlaanderen is een geautomatiseerd register van Vlaams privaat archivalisch cultureel-erfgoed, met als doel dat te vrijwaren en de publieksgerichte en wetenschappelijke valorisatie ervan te optimaliseren. In de Archiefbank Vlaanderen worden private archieven vermeld, voor zover de personen en instanties die er eigenaar van zijn dat wensen. De Archiefbank Vlaanderen is eigendom van de Vlaamse Gemeenschap. De databanken die in dat kader worden opgemaakt, zijn openbaar. <br /><br />§ 2. De werkingssubsidie is een bijdrage in de loon- en werkingskosten van het samenwerkingsverband voor het beheer van Archiefbank Vlaanderen. <br /><br />De jaarlijkse werkingssubsidie bedraagt ten minste 270.000 euro.<br />
+...
 
 ### ART. 45.
 
-Om in aanmerking te komen voor een werkingssubsidie moet het samenwerkingsverband, vermeld in artikel 44, § 1, voldoen aan de volgende voorwaarden :<br />1° beschikken over een publiekrechtelijke of privaatrechtelijke rechtspersoonlijkheid zonder winstgevend doel;<br />2° zijn zetel en zijn werking hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br />3° een beleidsplan indienen voor de beleidsperiode. Het beleidsplan slaat op een periode van vijf jaar die begint op 1 januari van het vierde volledige jaar van de legislatuur van het Vlaams Parlement en eindigt op 31 december van het derde volledige jaar van de legislatuur van het Vlaams Parlement.
+...
 
 ### ART. 46.
 
-§ 1. Een aanvraag voor een werkingssubsidie voor het beheer van de Archiefbank Vlaanderen wordt door de publiek- of privaatrechtelijke rechtspersoon uiterlijk op 1 april van het derde volledige jaar van de legislatuur van het Vlaams Parlement ingediend. <br /><br />§ 2. De aanvraag voor een werkingssubsidie bestaat uit een door het samenwerkingsverband goedgekeurd beleidsplan voor de beleidsperiode.<br /><br />Het beleidsplan bevat de missie en visie die het samenwerkingsverband, vermeld in artikel 44, § 1, hanteert in zijn werking, bevat een omgevingsanalyse en beschrijft beknopt alle doelstellingen, werkmethodes en instrumenten om het doel van de Archiefbank Vlaanderen, vermeld in artikel 44, § 1, tweede lid, te verwezenlijken. Het beleidsplan bevat eveneens een meerjarenplanning en meerjarenbegroting.
+...
 
 ### ART. 47.
 
-§ 1. De door de Vlaamse Regering aangewezen dienst en de bevoegde beoordelingscommissie, vermeld in artikel 82, onderzoeken de aanvraag voor een werkingssubsidie en toetsen het beleidsplan met het oog op het opstellen van een geïntegreerd advies aan de Vlaamse Regering over de toekenning en het bedrag van de werkingssubsidie, aan de volgende criteria :<br />1° de kwaliteit van het zakelijke beheer en van de organisatiestructuur van het samenwerkingsverband;<br />2° de wijze waarop het samenwerkingsverband de Archiefbank Vlaanderen beheert;<br />3° de kennis en expertise die het samenwerkingsverband bezit inzake registratie van private archieven. Het samenwerkingsverband hanteert hiervoor de algemeen aanvaarde internationale en desgevallend door de Vlaamse overheid opgelegde standaarden;<br />4° de wijze waarop het samenwerkingsverband vorming geeft over en sensibiliseert voor het beheer en de registratie van private archieven;<br />5° de wijze waarop het samenwerkingsverband zich positioneert in internationale netwerken met het oog op het uitwisselen van informatie over private archieven;<br />6° de wijze waarop communicatie en publieksinitiatieven worden opgezet om de zichtbaarheid van de private archieven in Vlaanderen te vergroten;<br />7° de inspanningen inzake interculturaliteit op het vlak van programmering, participatie, personeelsbeleid en bestuur;<br />8° de haalbaarheid en het realiteitsgehalte van de begroting.<br /><br />De Vlaamse Regering kan nadere specificaties van die criteria bepalen.<br /><br />§ 2. De door de Vlaamse Regering aangewezen dienst en de beoordelingscommissie kunnen daarvoor alle initiatieven nemen die ze nodig achten.
+...
 
 ### ART. 48.
 
-§ 1. De Vlaamse Regering beslist uiterlijk op 1 oktober van het derde volledige jaar van de legislatuur van het Vlaams Parlement, op basis van de criteria, vermeld in artikel 47, § 1, over de toekenning en het bedrag van de jaarlijkse werkingssubsidie aan het samenwerkingsverband voor het beheer van de Archiefbank Vlaanderen, vermeld in artikel 44, § 1.<br /><br />§ 2. De Vlaamse Regering sluit uiterlijk op 31 december van het jaar waarin ze een beslissing heeft genomen over de toekenning en het bedrag van de jaarlijkse werkingssubsidie, een beheersovereenkomst met het samenwerkingsverband voor het beheer van de Archiefbank Vlaanderen. <br /><br />Het bedrag van de jaarlijkse werkingssubsidie wordt in die beheersovereenkomst opgenomen.<br /><br />De beheersovereenkomst wordt gesloten voor de beleidsperiode waarop het beleidsplan betrekking heeft.
+...
 
 ### ART. 49.
 
-De Vlaamse Regering bepaalt de nadere regels met betrekking tot de aanvraag, de procedure en het sluiten van de beheersovereenkomst.
+...
 
 ## Afdeling V. Het subsidiëren van samenwerkingsverbanden met het oog op de versterking van de internationale profilering van kunstcollecties
 
 ### ART. 50.
 
-§ 1. De Vlaamse Regering kan een jaarlijkse werkingssubsidie toekennen aan samenwerkingsverbanden oude en hedendaagse kunst met het oog op de versterking van de internationale positionering en profilering van de kunstcollecties.<br /><br />§ 2. De werkingssubsidie wordt toegekend voor het geheel van de werking en is een bijdrage in de loon- en werkingskosten van het samenwerkingsverband. <br /><br />De jaarlijkse werkingssubsidie bedraagt ten minste 125.000 euro.
+...
 
 ### ART. 51.
 
-Om in aanmerking te komen voor een werkingssubsidie, moet het samenwerkingsverband, vermeld in artikel 50, § 1, voldoen aan de volgende voorwaarden :<br />1° beschikken over een publiekrechtelijke of privaatrechtelijke rechtspersoonlijkheid zonder winstgevend doel;<br />2° zijn zetel en zijn werking hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br />3° een beleidsplan indienen voor de beleidsperiode. Het beleidsplan slaat op een periode van vijf jaar die begint op 1 januari van het laatste jaar van de legislatuur van het Vlaams Parlement en eindigt op 31 december van het vierde volledige jaar van de volgende legislatuur van het Vlaams Parlement;<br />4° een samenwerkingsverband zijn van collectiebeherende cultureel-erfgoedorganisaties waarvan de collecties thematisch bij elkaar aansluiten;<br />5° een gespecialiseerde relevante expertise hebben ontwikkeld, die bijdraagt tot de versterking van de internationale positionering en profilering van de betrokken collectiebeherende cultureel-erfgoedorganisaties.<br /><br />Als het samenwerkingsverband inzet op digitalisering moet dit gebeuren volgens de algemeen aanvaarde internationale en desgevallend door de Vlaamse Regering opgelegde standaarden.
+...
 
 ### ART. 52.
 
-§ 1. Een aanvraag voor een werkingssubsidie als samenwerkingsverband als vermeld in artikel 50, § 1, wordt uiterlijk op 1 april van het vierde volledige jaar van de legislatuur van het Vlaams Parlement ingediend. <br /><br />§ 2. De aanvraag voor een werkingssubsidie bestaat uit een door het samenwerkingsverband goedgekeurd beleidsplan voor de beleidsperiode.<br /><br />Het beleidsplan bevat de missie en visie die het samenwerkingsverband, vermeld in artikel 50, § 1, hanteert in haar werking, bevat een omgevingsanalyse en beschrijft beknopt alle doelstellingen, werkmethodes en middelen. Het beleidsplan bevat eveneens een meerjarenplanning en meerjarenbegroting. In het beleidsplan geeft het samenwerkingsverband aan op welke wijze ze voldoet aan de voorwaarden, vermeld in artikel 51, eerste lid, 4° en 5°.
+...
 
 ### ART. 53.
 
-§ 1. De door de Vlaamse Regering aangewezen dienst en de bevoegde beoordelingscommissie, vermeld in artikel 82, onderzoeken de aanvraag voor een werkingssubsidie en toetsen het beleidsplan en de werking van het samenwerkingsverband met het oog op het opstellen van een geïntegreerd advies aan de Vlaamse Regering over de toekenning en het bedrag van de werkingssubsidie, aan de volgende criteria :<br />1° het internationale belang van het cultureel erfgoed;<br />2° de gespecialiseerde internationaal relevante expertise voor het geheel of voor deelgebieden van de werking;<br />3° de visie en de doelstellingen van het samenwerkingsverband;<br />4° de samenwerking met andere cultureel-erfgoedactoren;<br />5° de verantwoordelijkheid die het samenwerkingsverband op zich neemt voor het cultureel erfgoed;<br />6° de versterking van de internationale positionering en profilering;<br />7° de inspanningen inzake interculturaliteit op het vlak van programmering, participatie, personeelsbeleid en bestuur;<br />8° de haalbaarheid en het realiteitsgehalte van de begroting.<br /><br />De Vlaamse Regering kan nadere specificaties van die criteria bepalen.<br /><br />§ 2. De door de Vlaamse Regering aangewezen dienst en de beoordelingscommissie kunnen daarvoor alle initiatieven nemen die ze nodig achten.
+...
 
 ### ART. 54.
 
-§ 1. De Vlaamse Regering beslist uiterlijk op 1 oktober van het vierde jaar van de legislatuur van het Vlaams Parlement, op basis van de criteria, vermeld in artikel 53, § 1, over de toekenning en het bedrag van de jaarlijkse werkingssubsidie voor het samenwerkingsverband, vermeld in artikel 50, § 1, voor de versterking van de internationale profilering en positionering van het cultureel erfgoed.<br /><br />De jaarlijkse werkingssubsidie wordt toegekend voor de beleidsperiode waarop het beleidsplan betrekking heeft.<br /><br />§ 2. De Vlaamse Regering sluit uiterlijk op 31 december van het jaar waarin ze een beslissing heeft genomen over de toekenning en het bedrag van de jaarlijkse werkingssubsidie, een beheersovereenkomst met het samenwerkingsverband, vermeld in artikel 50, § 1. Die beheersovereenkomst bepaalt de opdracht die de Vlaamse Gemeenschap geeft aan het samenwerkingsverband. <br /><br />Het bedrag van de jaarlijkse werkingssubsidie wordt in die beheersovereenkomst opgenomen.<br /><br />De beheersovereenkomst wordt gesloten voor de beleidsperiode waarop het beleidsplan betrekking heeft.
+...
 
 ### ART. 55.
 
-De Vlaamse Regering bepaalt de nadere regels met betrekking tot de aanvraag, de procedure en het sluiten van de beheersovereenkomst.
+...
 
 ## Afdeling VI. Het subsidiëren van periodieke cultureel-erfgoedpublicaties
 
 ### ART. 56.
 
-§ 1. De Vlaamse Regering kan een jaarlijkse werkingssubsidie toekennen aan uitgevers voor de uitgave van een periodieke cultureel-erfgoedpublicatie, ongeacht de drager.<br /><br />§ 2. De volgende publicaties komen niet in aanmerking voor de subsidiëring, vermeld in § 1 :<br />1° publicaties die gesubsidieerd worden op basis van een ander decreet;<br />2° publicaties van publiekrechtelijke of privaatrechtelijke rechtspersonen, die een werkingssubsidie ontvangen op grond van titel II, hoofdstuk I, hoofdstuk II, afdeling III, en hoofdstuk III, afdelingen I, II, III, IV en V.<br /><br />§ 3. De werkingssubsidie is een tegemoetkoming in de loon- en werkingskosten voor het uitgeven van de periodieke publicatie.<br /><br />De jaarlijkse werkingssubsidie bedraagt ten minste 7.500 euro.
+...
 
 ### ART. 57.
 
-§ 1. Om in aanmerking te komen voor een werkingssubsidie moet de uitgever, vermeld in artikel 56, § 1, voldoen aan de volgende voorwaarden :<br />1° beschikken over een publiekrechtelijke of privaatrechtelijke rechtspersoon;<br />2° zijn zetel en zijn werking hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br />3° voldoende expertise kunnen voorleggen met betrekking tot het uitgeven en distribueren van publicaties, of kunnen aantonen dat hij daarop afdoende een beroep kan doen;<br />4° een publicatieplan voorleggen voor de beleidsperiode. Het publicatieplan slaat op een periode van maximaal vijf jaar, die steeds eindigt op 31 december van het tweede volledige jaar van de legislatuur van het Vlaams Parlement.<br /><br />§ 2. Om in aanmerking te komen voor een werkingssubsidie moet de periodieke publicatie :<br />1° minstens tweemaal per jaar verschijnen in dezelfde reeks;<br />2° verkrijgbaar zijn en gedistribueerd worden in heel Vlaanderen.
+...
 
 ### ART. 58.
 
-§ 1. Een aanvraag voor een werkingssubsidie als vermeld in artikel 56, § 1, wordt uiterlijk op 1 april ingediend door de uitgever. <br /><br />§ 2. De aanvraag voor een werkingssubsidie bestaat uit een publicatieplan.<br /><br />Het publicatieplan bevat de conclusies van een omgevingsanalyse, een beschrijving van de periodieke publicatie en een beschrijving van de doelgroep. Het publicatieplan bevat eveneens een meerjarenbegroting.
+...
 
 ### ART. 59.
 
-§ 1. De door de Vlaamse Regering aangewezen dienst en de bevoegde beoordelingscommissie, vermeld in artikel 82, onderzoeken de aanvraag voor een werkingssubsidie en toetsen het publicatieplan, met het oog op het opstellen van een geïntegreerd advies aan de Vlaamse Regering over de toekenning en het bedrag van de werkingssubsidie aan de volgende criteria :<br />1° de inhoudelijke relevantie van de periodieke publicatie voor het cultureel-erfgoedveld in Vlaanderen;<br />2° de kwaliteit van de publicatie, zowel naar inhoud, taal als vormgeving;<br />3° de publieksgerichtheid van de publicatie;<br />4° de haalbaarheid en het realiteitsgehalte van de begroting.<br /><br />De Vlaamse Regering kan nadere specificaties van die criteria bepalen.<br /><br />§ 2. De door de Vlaamse Regering aangewezen dienst en de beoordelingscommissie kunnen daarvoor alle initiatieven nemen die ze nodig achten.
+...
 
 ### ART. 60.
 
-De Vlaamse Regering beslist uiterlijk op 1 oktober van het jaar waarop de aanvraag is ingediend, op basis van de criteria, vermeld in artikel 59, § 1, over de toekenning en het bedrag van de jaarlijkse werkingssubsidie aan de uitgever voor het uitgeven van een periodieke publicatie als vermeld in artikel 56, § 1.
+...
 
 ### ART. 61.
 
-De Vlaamse Regering bepaalt de nadere regels met betrekking tot de aanvraag, en de procedure.
+...
 
 ## HOOFDSTUK IV. Het subsidiëren van de Vlaamse Gemeenschapscommissie, provincie- en gemeentebesturen met het oog op het realiseren van een complementair cultureel-erfgoedbeleid
 
@@ -280,53 +280,53 @@ De Vlaamse Regering bepaalt de nadere regels met betrekking tot de aanvraag, en 
 
 ### ART. 62.
 
-§ 1. De Vlaamse Regering kan aan de provinciebesturen of aan de rechtspersonen die rechtstreeks of onrechtstreeks onder determinerende invloed staan van de provinciebesturen een jaarlijkse werkingssubsidie toekennen voor de uitvoering van een cultureel-erfgoedbeleid.<br /><br />§ 2. De werkingssubsidie wordt toegekend voor :<br />1° minstens de ondersteuning van musea die een kwaliteitslabel als vermeld in artikel 13 toegekend hebben gekregen en gerechtigd zijn om dit te dragen en die door de provinciebesturen bij het regionale niveau worden ingedeeld; <br />2° desgewenst de uitbouw van een regionaal depotbeleid, in overleg met de lokale besturen en de cultureel-erfgoedorganisaties, dat tegemoet komt aan de noden van het cultureel erfgoed dat aanwezig is op het grondgebied.<br /><br />§ 3. De werkingssubsidie wordt toegekend voor de beleidsperiode. De beleidsperiode voor provinciebesturen en de rechtspersonen vermeld in artikel 62, § 1, bedraagt zes jaar en gaat van start op 1 januari van het derde volledige jaar van de provinciale beleidsperiode en eindigt op 31 december van het tweede volledige jaar van de provinciale beleidsperiode.<br /><br />§ 4. De Vlaamse Gemeenschap voorziet voor de werkingssubsidies vermeld in § 1, jaarlijks minstens 1.140.000 euro op de uitgavenbegroting. Dat bedrag wordt verdeeld over de provinciebesturen en de rechtspersonen als vermeld in artikel 62, § 1, naar rato van het aantal inwoners in de respectievelijke provincies.
+...
 
 ### ART. 63.
 
-Een aanvraag voor een werkingssubsidie als vermeld in artikel 62, § 1, wordt door de provinciebesturen of de rechtspersonen vermeld in artikel 62, § 1, uiterlijk op 1 april van het jaar dat voorafgaat aan de beleidsperiode, vermeld in artikel 62, § 3, ingediend. <br /><br />De aanvraag voor een werkingssubsidie bestaat uit een door de provinciebesturen of de rechtspersonen vermeld in artikel 62, § 1, goedgekeurd cultureel-erfgoedbeleidsplan. <br /><br />Het cultureel-erfgoedbeleidsplan bevat de missie en de visie die het provinciebestuur of de rechtspersoon als vermeld in artikel 62, § 1, heeft op het te voeren cultureel-erfgoedbeleid zoals bedoeld in artikel 62, § 2. Het beschrijft beknopt de doelstellingen, werkmethodes en middelen. Het beleidsplan bevat eveneens een meerjarenplanning en meerjarenbegroting.
+...
 
 ### ART. 64.
 
-§ 1. De door de Vlaamse Regering aangewezen dienst en de bevoegde beoordelingscommissie, vermeld in artikel 82, toetsen, met het oog op het opstellen van een geïntegreerd advies aan de Vlaamse Regering over de toekenning van de werkingssubsidie, de aanvraag aan de volgende criteria :<br />1° de visie op het cultureel-erfgoedbeleid zoals bedoeld in artikel 62, § 2;<br />2° de haalbaarheid en het realiteitsgehalte van de begroting.<br /><br />De Vlaamse Regering kan nadere specificaties van deze criteria bepalen.<br /><br />§ 2. De door de Vlaamse Regering aangewezen dienst en de beoordelingscommissie kunnen daarvoor alle initiatieven nemen die ze nodig achten.<br /><br />§ 3. De Vlaamse Regering beslist uiterlijk op 1 oktober van het jaar dat voorafgaat aan de beleidsperiode, vermeld in artikel 62, § 3, op basis van de criteria, vermeld in § 1, over de toekenning en het bedrag van de jaarlijkse werkingssubsidie.
+...
 
 ### ART. 65.
 
-De Vlaamse Regering sluit uiterlijk op 31 december van het jaar dat voorafgaat aan de beleidsperiode met de provinciebesturen of rechtspersonen vermeld in artikel 62, § 1, een cultureel-erfgoedconvenant voor de beleidsperiode. <br /><br />Het bedrag van de werkingssubsidie wordt in het cultureel-erfgoedconvenant opgenomen.<br /><br />De aanvullende subsidies voor tewerkstelling, toegekend aan provinciebesturen op basis van artikel 102, worden opgenomen in een addendum bij het cultureel-erfgoedconvenant op voorwaarde dat in het door het provinciebestuur of de rechtspersoon vermeld in artikel 62, § 1, goedgekeurd cultureel-erfgoedbeleidsplan wordt ingezet op het in artikel 62, § 2, 2°, vermelde regionaal depotbeleid.
+...
 
 ### ART. 66.
 
-De Vlaamse Regering bepaalt de nadere regels met betrekking tot de aanvraag, de procedure en het sluiten van het cultureel-erfgoedconvenant.
+...
 
 ## Afdeling II. Het subsidiëren van het lokale cultureel-erfgoedbeleid door een cultureel-erfgoedconvenant te sluiten
 
 ### ART. 67.
 
-§ 1. De Vlaamse Regering kan een jaarlijkse werkingssubsidie voor de uitvoering van een geïntegreerd en integraal lokaal cultureel-erfgoedbeleid toekennen aan :<br />1° gemeentelijke overheden, zijnde gemeenten of rechtspersonen, die rechtstreeks of onrechtstreeks onder determinerende invloed staan van een gemeente;<br />2° intergemeentelijk samenwerkingsverbanden van omliggende gemeenten;<br />3° de Vlaamse Gemeenschapscommissie.<br /><br />§ 2. De werkingssubsidie wordt toegekend voor :<br />1° de werking van de cultureel-erfgoedcel die het lokale cultureel-erfgoedveld door projectmatig werken en door de uitwisseling van kennis en expertise versterkt en mede het maatschappelijk draagvlak voor het cultureel erfgoed vergroot;<br />2° de uitbouw van een Cultureel-erfgoedforum als de Vlaamse Regering een beslissing heeft genomen als vermeld in artikel 71, 2°;<br />3° de ondersteuning van de lokale cultureel-erfgoedactoren door logistieke, financiële en personele middelen te verstrekken.<br /><br />Een Cultureel-erfgoedforum is een cultureel-erfgoedorganisatie : <br />a) waar een integraal en geïntegreerd cultureel-erfgoedbeleid naar voor komt. Integraal betekent dat er met alle aspecten van de zorg voor en de ontsluiting van het cultureel erfgoed rekening wordt gehouden. Geïntegreerd betekent dat de omgang met het cultureel erfgoed verankerd is in andere beleidsdomeinen;<br />b) die het verhaal van de stad, gemeente of streek vertelt en aldus lokaal verankerd is. De cultureel-erfgoedorganisatie maakt daarvoor gebruik van het cultureel erfgoed dat op het grondgebied van de stad, gemeente of streek wordt bewaard en neemt daarvoor een verantwoordelijkheid op;<br />c) die in haar werking onder meer gebruik maakt van de verschillende cultureel-erfgoedpraktijken, de museologie, de archiefwetenschap en het hedendaags documentenbeheer, de informatie- en bibliotheekwetenschap en de etnologie.<br /><br />Specifieke onderdelen van een Cultureel-erfgoedforum kunnen een kwaliteitslabel als vermeld in artikel 13 toegekend krijgen wanneer ze voldoen aan de voorwaarden vermeld in artikel 10.<br /><br />§ 3. De werkingssubsidie bedraagt : <br />1° 100.000 euro per jaar voor een gemeentelijke overheid of intergemeentelijk samenwerkingsverband van omliggende gemeenten met een werkingsgebied van meer dan 20 000 inwoners en minder dan 35 000 inwoners;<br />2° ten minste 200.000 euro per jaar voor een gemeentelijke overheid of intergemeentelijk samenwerkingsverband van omliggende gemeenten met een werkingsgebied van meer dan 35 000 inwoners en minder dan 100 000 inwoners;<br />3° ten minste 300.000 euro per jaar voor een gemeentelijke overheid of intergemeentelijk samenwerkingsverband van omliggende gemeenten met een werkingsgebied van meer dan 100 000 inwoners of voor de Vlaamse Gemeenschapscommissie.<br /><br />Voor de Vlaamse Gemeenschapscommissie kan de werkingssubsidie worden verhoogd als de Vlaamse Gemeenschapscommissie een regionaal depotbeleid ontwikkelt dat tegemoetkomt aan de behoeften van de lokale besturen, de Nederlandstalige cultureel-erfgoedorganisaties en het cultureel erfgoed dat aanwezig is op het grondgebied van het tweetalige gebied Brussel-Hoofdstad.
+...
 
 ### ART. 68.
 
-§ 1. Om in aanmerking te komen voor een werkingssubsidie, moet de gemeentelijke overheid vermeld in artikel 67, § 1, 1°, voldoen aan de volgende voorwaarden :<br />1° in het Vlaamse Gewest liggen;<br />2° beschikken over een inwonersaantal binnen haar werkingsgebied van meer dan 20 000 inwoners;<br />3° een cultureel-erfgoedbeleidsplan indienen als hoofdstuk van of addendum bij het cultuurbeleidsplan als vermeld in artikel 4 van het decreet van 13 juli 2001 houdende het stimuleren van een kwalitatief en integraal lokaal cultuurbeleid. Het cultureel-erfgoedbeleidsplan slaat op een periode van maximaal zes jaar, die steeds eindigt op 31 december van het tweede jaar van de gemeentelijke beleidsperiode. <br /><br />§ 2. Om in aanmerking te komen voor een werkingssubsidie, moet het intergemeentelijke samenwerkingsverband van omliggende gemeenten vermeld in artikel 67, § 1, 2°, voldoen aan de volgende voorwaarden :<br />1° beschikken over rechtspersoonlijkheid in overeenstemming met het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br />2° in het Vlaamse Gewest liggen;<br />3° beschikken over een inwonersaantal binnen haar werkingsgebied van meer dan 20 000 inwoners;<br />4° een cultureel-erfgoedbeleidsplan indienen in voorkomend geval als hoofdstuk van of addendum bij het cultuurbeleidsplan als vermeld in artikel 4 van het decreet van 13 juli 2001 houdende het stimuleren van een kwalitatief en integraal lokaal cultuurbeleid of de cultuurnota van het intergemeentelijke samenwerkingsverband als vermeld in artikel 51, § 1, 4°, van het decreet van 13 juli 2001 houdende het stimuleren van een kwalitatief en integraal lokaal cultuurbeleid. Dat cultureel-erfgoedbeleidsplan is, in voorkomend geval, afgestemd op de cultuurbeleidsplannen van de gemeenten die deelnemen aan het intergemeentelijke samenwerkingsverband. Het cultureel-erfgoedbeleidsplan slaat op een periode van maximaal zes jaar, die steeds eindigt op 31 december van het tweede jaar van de gemeentelijke beleidsperiode.<br /><br />Een gemeente kan slechts deel uitmaken van één intergemeentelijk samenwerkingsverband van omliggende gemeenten voor een werkingssubsidie als vermeld in artikel 67, § 1. <br /><br />§ 3. Om in aanmerking te komen voor een werkingssubsidie, moet de Vlaamse Gemeenschapscommissie vermeld in artikel 67, § 1, 3°, voldoen aan de volgende voorwaarden :<br />1° een cultureel-erfgoedbeleidsplan opstellen in overleg met de lokale besturen van het tweetalig gebied Brussel-Hoofdstad;<br />2° dat cultureel-erfgoedbeleidsplan indienen als hoofdstuk van het cultuurbeleidsplan of als addendum bij het cultuurbeleidsplan als vermeld in artikel 4 van het decreet van 13 juli 2001 houdende het stimuleren van een kwalitatief en integraal lokaal cultuurbeleid. Het cultureel-erfgoedbeleidsplan slaat op een periode van maximaal vijf jaar, die steeds eindigt op 31 december van het tweede volledige jaar van de legislatuur van het Vlaams Parlement.
+...
 
 ### ART. 69.
 
-§ 1. Een aanvraag voor een eerste werkingssubsidie voor de uitvoering van een geïntegreerd en integraal lokaal cultureel-erfgoedbeleid wordt uiterlijk op 31 december ingediend door de gemeentelijke overheid vermeld in artikel 67, § 1, 1°, of door het intergemeentelijke samenwerkingsverband van omliggende gemeenten vermeld in artikel 67, § 1, 2°.<br /><br />Een aanvraag voor een volgende werkingssubsidie voor de uitvoering van een geïntegreerd en integraal lokaal cultureel-erfgoedbeleid wordt ingediend :<br />1° door de gemeentelijke overheid of het intergemeentelijke samenwerkingsverband van omliggende gemeenten, uiterlijk op 31 december van het eerste jaar van de gemeentelijke beleidsperiode;<br />2° door de Vlaamse Gemeenschapscommissie uiterlijk op 31 december van het eerste jaar van de legislatuur van het Vlaams Parlement.<br /><br />§ 2. De aanvraag voor een werkingssubsidie bestaat uit een door de aanvrager goedgekeurd cultureel-erfgoedbeleidsplan. <br /><br />Het cultureel-erfgoedbeleidsplan bevat de missie en de visie die de aanvrager heeft op het te voeren geïntegreerde en integrale lokale cultureel-erfgoedbeleid. Het beschrijft beknopt alle doelstellingen, werkmethodes en middelen. Het beleidsplan bevat eveneens een meerjarenplanning en meerjarenbegroting. In het cultureel-erfgoedbeleidsplan van een intergemeentelijk samenwerkingsverband van omliggende gemeenten worden, wat betreft artikel 67, § 2, eerste lid, 3°, ten minste de gemeenschappelijke acties opgesomd voor de ondersteuning van de lokale cultureel-erfgoedactoren door logistieke, financiële en personele middelen te verstrekken.
+...
 
 ### ART. 70.
 
-§ 1. De door de Vlaamse Regering aangewezen dienst en de bevoegde beoordelingscommissie, vermeld in artikel 82, onderzoeken de aanvraag voor een werkingssubsidie en toetsen het beleidsplan, met het oog op het opstellen van een geïntegreerd advies aan de Vlaamse Regering over de toekenning en het bedrag van de werkingssubsidie aan de volgende criteria :<br />1° het belang van het aanwezige cultureel erfgoed en de cultureel-erfgoedactoren in de betrokken gemeente(n);<br />2° de kwaliteit van de visie op en doelstellingen van een geïntegreerd en integraal lokaal cultureel-erfgoedbeleid;<br />3° de wijze waarop dat beleid uitgevoerd zal worden;<br />4° de wijze waarop extra personeel, binnen een cultureel-erfgoedcel, ingezet zal worden om de reeds aanwezige expertise samen te brengen met het oog op een betere zorg voor en ontsluiting van het cultureel erfgoed;<br />5° de spreiding van de cultureel-erfgoedconvenants in Vlaanderen;<br />6° de wijze waarop de verschillende cultureel-erfgoedgemeenschappen door de gemeentelijke overheid, het intergemeentelijke samenwerkingsverband van omliggende gemeenten of de Vlaamse Gemeenschapscommissie binnen het tweetalige gebied Brussel-Hoofdstad worden betrokken bij het lokale cultureel-erfgoedbeleid;<br />7° de inspanningen inzake interculturaliteit op het vlak van programmering, participatie, personeelsbeleid en bestuur;<br />8° de haalbaarheid en het realiteitsgehalte van de begroting;<br />9° de inbreng van middelen door de betrokken overheid in het lokale cultureel-erfgoedbeleid.<br /><br />De Vlaamse Regering kan nadere specificaties van die criteria bepalen.<br /><br />§ 2. De door de Vlaamse Regering aangewezen dienst en de beoordelingscommissie kunnen daarvoor alle initiatieven nemen die ze nodig achten.
+...
 
 ### ART. 71.
 
-De Vlaamse Regering beslist uiterlijk op 1 oktober van het jaar dat volgt op het jaar waarin de aanvraag is ingediend op basis van de criteria, vermeld in artikel 70, § 1 :<br />1° aan welke gemeentelijke overheden als vermeld in artikel 67, § 1, 1°, en intergemeentelijke samenwerkingsverbanden als vermeld in artikel 67, § 1, 2°, een werkingssubsidie wordt toegekend voor de uitvoering van het geïntegreerde en integrale lokale cultureel-erfgoedbeleid. De Vlaamse Regering bepaalt eveneens het bedrag van de werkingssubsidie;<br />2° voor welke gemeentelijke overheden of intergemeentelijk samenwerkingsverband de uitbouw van een Cultureel-erfgoedforum vervat wordt in de werkingssubsidie;<br />3° over het bedrag van de werkingssubsidie die wordt toegekend aan de Vlaamse Gemeenschapscommissie voor de uitvoering van het geïntegreerde en integrale lokale cultureel-erfgoedbeleid met betrekking tot het cultureel erfgoed in het tweetalige gebied Brussel-Hoofdstad en of de uitbouw van een Cultureel-erfgoedforum vervat wordt in deze werkingssubsidie.
+...
 
 ### ART. 72.
 
-De Vlaamse Regering sluit uiterlijk op 31 december van het jaar waarin ze een beslissing heeft genomen als vermeld in artikel 71, een cultureel-erfgoedconvenant voor de beleidsperiode met de gemeentelijke overheid, het intergemeentelijke samenwerkingsverband of de Vlaamse Gemeenschapscommissie waaraan een werkingssubsidie wordt toegekend voor de uitvoering van het geïntegreerde en integrale lokale cultureel-erfgoedbeleid. <br /><br />Het cultureel-erfgoedconvenant bevat de doelstellingen die de gemeentelijke overheid, het intergemeentelijke samenwerkingsverband of de Vlaamse Gemeenschapscommissie moet bereiken met het oog op een betere zorg voor en ontsluiting van het cultureel erfgoed op het grondgebied van de gemeente, de verschillende gemeenten die deelnemen aan het intergemeentelijke samenwerkingsverband van omliggende gemeenten of de gemeenten binnen het tweetalige gebied Brussel-Hoofdstad voor de Vlaamse Gemeenschapscommissie.<br /><br />De aanvullende subsidie voor tewerkstelling, toegekend aan de Vlaamse Gemeenschapscommissie op basis van artikel 102, wordt opgenomen in een addendum bij het cultureel-erfgoedconvenant op voorwaarde dat in het door de Vlaamse Gemeenschapscommissie goedgekeurd cultureel-erfgoedbeleidsplan wordt ingezet op het in artikel 67, § 3, tweede lid, vermelde regionaal depotbeleid.
+...
 
 ### ART. 73.
 
-De Vlaamse Regering bepaalt de nadere regels met betrekking tot de aanvraag, de procedure en het sluiten van het cultureel-erfgoedconvenant.
+...
 
 ## HOOFDSTUK V. Het subsidiëren van projecten cultureel erfgoed
 
@@ -334,29 +334,29 @@ De Vlaamse Regering bepaalt de nadere regels met betrekking tot de aanvraag, de 
 
 ### ART. 74.
 
-De Vlaamse Regering kan, na advies van de bevoegde beoordelingscommissie, vermeld in artikel 82, een projectsubsidie toekennen aan een publiekrechtelijke of een privaatrechtelijke rechtspersoon zonder winstgevend doel voor :<br />1° een ontwikkelingsgericht project met het oog op de zorg voor en de ontsluiting van het cultureel erfgoed;<br />2° internationale projecten met het oog op de zorg voor en de ontsluiting van het cultureel erfgoed.<br /><br />De volgende projecten komen niet in aanmerking voor de subsidiëring als vermeld in het eerste lid :<br />1° projecten die gesubsidieerd worden met toepassing van andere decreten;<br />2° projecten van organisaties die een werkingssubsidie ontvangen als vermeld in titel II, hoofdstuk I, hoofdstuk II, afdeling III, en hoofdstuk III;<br />3° projecten van overheden en rechtspersonen vermeld in artikel 62, § 1, met het oog op regionaal depotbeleid als vermeld in artikel 62;<br />4° lokale projecten in het toepassingsgebied van een cultureel-erfgoedconvenant als vermeld in artikel 72.<br /><br />De kredieten die jaarlijks door het Vlaams Parlement worden goedgekeurd, bepalen het maximale bedrag aan subsidies dat jaarlijks aan de begunstigden, vermeld in het eerste lid, toegekend kan worden.
+...
 
 ### ART. 75.
 
-§ 1. Om de hoogte van het subsidiebedrag te bepalen, wordt het project getoetst aan de volgende criteria :<br />1° de kwaliteit van het inhoudelijke concept en de concrete uitwerking;<br />2° de voorbeeldwerking;<br />3° de samenwerking en netwerking met andere culturele actoren in het binnen- en in het buitenland;<br />4° de haalbaarheid;<br />5° gedegen zakelijk beheer, financiële onderbouw en realiteitsgehalte van de begroting.<br /><br />§ 2. Voor ontwikkelingsgerichte projecten als vermeld in artikel 74, eerste lid, 1°, gelden de volgende aanvullende criteria :<br />1° de landelijke relevante dimensie;<br />2° de interactie met het publiek of een duidelijk omschreven doelgroep.<br /><br />Voor organisaties die de zorg voor en de ontsluiting van het cultureel erfgoed niet als kerntaak hebben, is samenwerking nodig met een erkende collectiebeherende cultureel-erfgoedorganisatie als vermeld in titel II, hoofdstuk II, afdelingen II en III, of met een landelijke, gesubsidieerde cultureel-erfgoedorganisatie als vermeld in titel II, hoofdstuk III, afdelingen I tot en met V. Voor cultureel-erfgoedorganisaties sluit het project aan bij de permanente werking.<br /><br />§ 3. Voor internationale projecten als vermeld in artikel 74, eerste lid, 2°, gelden de volgend aanvullende criteria :<br />1° het internationale belang van het project of van de partners binnen het werkterrein;<br />2° de bevordering van de internationale samenwerking, uitwisseling en expertise;<br />3° de relevantie van het project voor het cultureel-erfgoedveld in Vlaanderen.<br /><br />§ 4. De Vlaamse Regering kan op basis van de maatschappelijke noden en de noden in het cultureel-erfgoedveld beleidsprioriteiten stellen en prioritaire landen afbakenen. De beleidsnota en de beleidsbrieven Cultuur zijn hiervoor richtinggevend.<br /><br />Ontwikkelingsgerichte projecten, als vermeld in artikel 74, eerste lid, 1°, die de toetsing aan de criteria vermeld in artikel 75, §§ 1 en 2, doorstaan en die beantwoorden aan de beleidsprioriteiten krijgen voorrang als de door het Vlaams Parlement goedgekeurde kredieten het niet toelaten alle projecten die beantwoorden aan de criteria te subsidiëren.<br /><br />Internationale projecten, als vermeld in artikel 74, eerste lid, 2°, die de toetsing aan de criteria vermeld in artikel 75, §§ 1 en 3, doorstaan en die plaats vinden in een prioritair land, in samenwerking met een prioritair land of die georganiseerd worden door een organisatie uit een prioritair land krijgen voorrang als de door het Vlaams Parlement goedgekeurde kredieten het niet toelaten alle projecten die beantwoorden aan de criteria te subsidiëren.
+...
 
 ### ART. 76.
 
-De Vlaamse Regering bepaalt de nadere regels met betrekking tot de criteria, de aanvraag, de procedure en de toekenning van de projectsubsidies.
+...
 
 ## Afdeling II. Projectsubsidies voor eenmalige publicaties
 
 ### ART. 77.
 
-De Vlaamse Regering kan, na advies van de bevoegde beoordelingscommissie, vermeld in artikel 82, een projectsubsidie toekennen aan een publiekrechtelijke of een privaatrechtelijke rechtspersoon voor de uitgave van een eenmalige publicatie over cultureel erfgoed, ongeacht de drager.<br /><br />De volgende projecten komen niet in aanmerking voor de subsidiëring, vermeld in het eerste lid :<br />1° eenmalige publicaties die gesubsidieerd kunnen worden met toepassing van andere decreten;<br />2° eenmalige publicaties van organisaties die een werkingssubsidie ontvangen als vermeld in titel II, hoofdstuk I, hoofdstuk II, afdeling III en hoofdstuk III, afdelingen I tot en met V;<br />3° eenmalige publicaties van overheden en rechtspersonen vermeld in artikel 62, § 1, over regionaal depotbeleid, vermeld in artikel 62;<br />4° lokale eenmalige publicaties in het toepassingsgebied van een cultureel-erfgoedconvenant als vermeld in artikel 72.<br /><br />De kredieten die jaarlijks door het Vlaams Parlement worden goedgekeurd, bepalen het maximale bedrag aan subsidies dat jaarlijks aan de begunstigden, vermeld in het eerste lid, toegekend kan worden.
+...
 
 ### ART. 78.
 
-§ 1. Om de hoogte van het subsidiebedrag te bepalen, wordt de publicatie getoetst aan de volgende criteria :<br />1° de kwaliteit van het inhoudelijk concept en de concrete uitwerking;<br />2° de inhoudelijke relevantie van de publicatie en de bijdrage aan het debat en de reflectie over het cultureel-erfgoedbeleid in Vlaanderen;<br />3° de landelijke dimensie;<br />4° het publieksgerichte concept en het beogen van de communicatie en distributie;<br />5° de haalbaarheid;<br />6° gedegen zakelijk beheer en financiële onderbouw.<br /><br />§ 2. De Vlaamse Regering kan op basis van de maatschappelijke noden en de noden in het cultureel-erfgoedveld beleidsprioriteiten stellen. De beleidsnota en de beleidsbrieven Cultuur zijn hiervoor richtinggevend. <br /><br />Eenmalige publicaties, als vermeld in artikel 77 die de toetsing aan de criteria vermeld in § 1, doorstaan en die beantwoorden aan de beleidsprioriteiten krijgen voorrang als de door het Vlaams Parlement goedgekeurde kredieten het niet toelaten alle projecten die beantwoorden aan de criteria te subsidiëren.
+...
 
 ### ART. 79.
 
-De Vlaamse Regering bepaalt de nadere regels met betrekking tot de criteria, de aanvraag, de procedure en de toekenning van de projectsubsidies.
+...
 
 ## TITEL III. Organisatie van de advisering
 
@@ -364,25 +364,25 @@ De Vlaamse Regering bepaalt de nadere regels met betrekking tot de criteria, de 
 
 ### ART. 80.
 
-Rekening houdend met het protocol vermeld in artikel 9, maar zonder hierdoor gebonden te zijn, stelt de Vlaamse Regering uiterlijk 31 december van het eerste volledige jaar van de legislatuur van het Vlaams Parlement een pool van deskundigen samen. Uit deze pool worden de visitatiecommissies samengesteld met het oog op de toekenning van het kwaliteitslabel als vermeld in artikel 12 en de advisering over de indeling bij het Vlaamse niveau als vermeld in artikel 21. <br /><br />Als er geen protocol van akkoord wordt gesloten voor 1 oktober van het eerste volledige jaar van de legislatuur van het Vlaams Parlement stelt de Vlaamse Regering uiterlijk 31 december van hetzelfde jaar een pool van deskundigen samen waaruit de visitatiecommissies worden samengesteld met het oog op de toekenning van het kwaliteitslabel als vermeld in artikel 12 en de advisering over de indeling bij het Vlaamse niveau als vermeld in artikel 21.
+...
 
 ## HOOFDSTUK II. De adviescommissie cultureel erfgoed en de beoordelingscommissies
 
 ### ART. 81.
 
-§ 1. De Vlaamse Regering richt een adviescommissie op voor de kwaliteitsbeoordeling inzake het beleidsveld cultureel erfgoed.<br /><br />§ 2. De kerntaken van de adviescommissie zijn :<br />1° toezien op een kwaliteitsvolle organisatie van de interne werking van de beoordelingscommissies van het beleidsveld;<br />2° beleidsgericht advies formuleren op basis van de kwaliteitsbeoordeling in de beoordelingscommissies van het beleidsveld;<br />3° kwaliteitsbeoordeling van transversale dossiers voor zover die niet worden behandeld door een beoordelingscommissie.<br /><br />§ 3. De leden van de adviescommissie hebben een totaalvisie op het beleidsveld. De adviescommissie wordt samengesteld uit deskundigen uit de verschillende onderdelen van het beleidsveld. Maximaal twee derde van de leden van de adviescommissie mag van hetzelfde geslacht zijn. Bij de samenstelling van de adviescommissie wordt ten minste één persoon opgenomen die vertrouwd is met het Brusselse cultureel-erfgoedveld en ten minste één persoon met een etnisch-cultureel diverse achtergrond.<br /><br />De leden van de beoordelingscommissies kunnen lid zijn van de adviescommissie.
+...
 
 ### ART. 82.
 
-De Vlaamse Regering richt beoordelingscommissies op voor het kwalitatieve, inhoudelijke advies over indelings- en subsidieaanvragen als vermeld in titel II. Die beoordelingscommissies worden samengesteld voor onderdelen van het beleidsveld cultureel erfgoed of voor transversale beleidsaspecten.<br /><br />Voor de beoordeling van de instellingen van de Vlaamse Gemeenschap die ze niet zelf beheert, vermeld in artikel 18, kan de Vlaamse Regering afzonderlijke beoordelingscommissies oprichten. Die commissies worden samengesteld uit drie leden van de betrokken reguliere beoordelingscommissie en drie buitenlandse experts. De voorzitter van de adviescommissie is tevens de voorzitter van die afzonderlijke beoordelingscommissies.<br /><br />De leden van de beoordelingscommissies worden aangesteld omwille van hun expertise over of betrokkenheid bij het te beoordelen onderdeel van het beleidsveld. De beoordelingscommissies worden op evenwichtige wijze samengesteld uit leden die de verschillende aspecten van het te beoordelen onderdeel van het beleidsveld vertegenwoordigen. Maximaal twee derde van de leden van de beoordelingscommissies mag van hetzelfde geslacht zijn. Bij de samenstelling van de beoordelingscommissie wordt ten minste één persoon opgenomen die vertrouwd is met het Brusselse cultureel-erfgoedveld en ten minste één persoon met een etnisch-cultureel diverse achtergrond.<br /><br />Een persoon kan slechts lid zijn van één beoordelingscommissie die wordt samengesteld voor onderdelen van het beleidsveld cultureel erfgoed of voor transversale beleidsaspecten.
+...
 
 ### ART. 83.
 
-Het lidmaatschap van een adviescommissie of een beoordelingscommissie is onverenigbaar met een mandaat in het Europees Parlement, de Kamer van volksvertegenwoordigers, de Senaat, het Vlaams Parlement en het Brussels Hoofdstedelijk Parlement, met het ambt van minister, staatssecretaris en kabinetslid, met de hoedanigheid van personeelslid in dienst van de Vlaamse Gemeenschap of in dienst van instellingen van de Vlaamse overheid, dat in het kader van zijn functie betrokken is bij de uitvoering van dit decreet, met de hoedanigheid van personeelslid van het Vlaams Parlement, en van personeelslid en lid van de raad van bestuur van het steunpunt en van belangenbehartigers uit de betreffende sector. Zij kunnen wel op uitnodiging van de betreffende adviescommissie of beoordelingscommissie met raadgevende stem deelnemen aan zijn vergaderingen.
+...
 
 ### ART. 84.
 
-Elk jaar leggen de beoordelingscommissies en de adviescommissie een verslag met de evaluatie van hun werking voor aan de Vlaamse Regering.<br /><br />De Vlaamse Regering bepaalt de algemene procedure voor de beoordeling van de dossiers.<br /><br />De Vlaamse Regering voorziet, binnen de perken van de door het Vlaams Parlement goedgekeurde kredieten, een bedrag waarmee de werkzaamheden van de adviescommissie en de beoordelingscommissies kunnen worden vergoed.<br /><br />De Vlaamse Regering bepaalt de nadere regels voor de samenstelling, de aanstelling en het ontslag van de leden van de adviescommissie en de beoordelingscommissies, alsook de vergoeding.
+...
 
 ## TITEL IV. Algemene bepalingen over subsidiëring, toezicht en evaluatie
 
@@ -390,85 +390,85 @@ Elk jaar leggen de beoordelingscommissies en de adviescommissie een verslag met 
 
 ### ART. 85.
 
-De in dit decreet bepaalde werkings- en projectsubsidies worden toegekend binnen de perken van de door het Vlaams Parlement goedgekeurde kredieten.
+...
 
 ### ART. 86.
 
-De in dit decreet bepaalde werkings- en projectsubsidies worden in de vorm van voorschotten beschikbaar gesteld. De Vlaamse Regering bepaalt hoe de voorschotten berekend en uitbetaald worden.<br /><br />Met behoud van de toepassing van artikelen 41 en 50 van de wetten op de Rijkscomptabiliteit, gecoördineerd op 17 juli 1991, worden voorschotten ten belope van maximaal 90 procent van de toegekende subsidies, vrijgesteld van het voorafgaande visum van het Rekenhof.
+...
 
 ### ART. 87.
 
-De werkingssubsidies, vermeld in artikel 4, § 1, artikel 18, § 1, artikelen 26, 32, 38, 44, 50, 56, 62, 67, en het maximale subsidiebedrag van 35.500 euro vermeld in artikel 101, eerste lid, en artikel 102, § 1, derde lid, worden jaarlijks gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen.<br /><br />Voor het gedeelte werkingskost van de in het eerste lid vermelde werkingssubsidie wordt het prijsindexcijfer beperkt tot 75 percent tenzij een ander percentage door de Vlaamse Regering wordt bepaald.
+...
 
 ### ART. 88.
 
-§ 1. Met uitzondering van de rechtspersonen, vermeld in § 4, kan een privaatrechtelijke of publiekrechtelijke rechtspersoon, die een werkingssubsidie ontvangt als vermeld in artikel 4, § 1, artikel 18, § 1, en artikelen 26, 32, 38, 44, 50 en 56, gedurende de beleidsperiode onbeperkt een reserve aanleggen met eigen inkomsten en subsidies.<br /><br />Een reserve wordt in de balans van een privaatrechtelijke of publiekrechtelijke rechtspersoon opgenomen als een onderdeel van het eigen vermogen en bestaat uit de volgende rekeningen, vermeld in de minimumindeling van het algemene rekeningenstelsel, als bijlage gevoegd bij het koninklijk besluit van 19 december 2003 betreffende de boekhoudkundige verplichtingen en de openbaarmaking van de jaarrekening van bepaalde verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk en stichtingen :<br />1° rekening 13 : bestemde fondsen;<br />2° rekening 14 : overgedragen resultaat.<br /><br />De reserve moet aangewend worden voor de realisatie van het beleidsplan, vermeld in artikelen 6, § 2, 18, § 2, 27, 33, 39, 45 en 51, of van het publicatieplan, vermeld in artikel 57.<br /><br />§ 2. Als de privaatrechtelijke of publiekrechtelijke rechtspersoon, vermeld in § 1, op het einde van de beleidsperiode nog beschikt over een reserve, aangelegd overeenkomstig § 1, kan die reserve overgedragen worden naar een volgende beleidsperiode op voorwaarde dat, ten opzichte van de bestaande reserve in het begin van de subsidieperiode, de aangroei niet meer bedraagt dan twintig percent van de gemiddelde jaarlijkse personeels- en werkingskosten, berekend over de beleidsperiode. <br /><br />De personeels- en werkingskosten omvatten alle kosten die betrekking hebben op de uitvoering en de realisatie van het beleidsplan, vermeld in artikelen 6, § 2, 18, § 2, 27, 33, 39, 45 en 51, of het publicatieplan, vermeld in artikel 57 en die in de voorbije beleidsperiode tot stand zijn gekomen. De personeels- en werkingskosten zijn de som van alle kosten, met uitzondering van de afschrijvingen op kapitaalsubsidies.<br /><br />De Vlaamse Regering kan, na advies van de Inspectie van Financiën, een afwijking toestaan van het percentage, vermeld in het eerste lid, op voorwaarde dat de privaatrechtelijke of publiekrechtelijke rechtspersoon daartoe een gemotiveerd bestedingsplan voorlegt voor de te veel opgebouwde reserve of voor de gehele reserve, in te dienen bij de administratie.<br /><br />De overgedragen reserve, vermeld in het eerste en tweede lid, wordt aangewend voor de realisatie van het beleidsplan, vermeld in artikelen 6, § 2, 18, § 2, 27, 33, 39, 45 en 51, of van het publicatieplan, vermeld in artikel 57.<br /><br />§ 3. Als bij de afrekening van het laatste werkingsjaar van de beleidsperiode de aangroei van de reserve meer bedraagt dan hetgeen bepaald werd in § 2, dan wordt het teveel ingehouden van het nog uit te keren saldo van de werkingssubsidie, toegekend aan de privaatrechtelijke of publiekrechtelijke rechtspersoon, vermeld in § 1, en wordt het eventueel daarna nog resterende bedrag in mindering gebracht op de voorschotten, toegekend voor het eerste werkingsjaar van de nieuwe beleidsperiode, tot een maximum van de werkingssubsidie toegekend voor het laatste jaar van de vorige beleidsperiode. <br /><br />Als aan een privaatrechtelijke of publiekrechtelijke rechtspersoon als vermeld in § 1, na afloop van de beleidsperiode waarop het beleidsplan, vermeld in artikelen 6, § 2, 18, § 2, 27, 33, 39, 45 en 51, of het publicatieplan, vermeld in artikel 57, betrekking heeft, geen werkingssubsidie meer wordt verleend, dan is de privaatrechtelijke of publiekrechtelijke rechtspersoon verplicht een gemotiveerd bestedingsplan voor de aangelegde reserve, aangelegd overeenkomstig § 1, in te dienen bij de dienst, aangewezen door de Vlaamse Regering. De reserve wordt in voorkomend geval prioritair aangewend voor het voldoen van de arbeidsrechtelijke verplichtingen. <br /><br />§ 4. Een werkingssubsidie als vermeld in artikel 18, § 1, artikelen 32, 56, 62, 67, die toegekend wordt aan een gemeentelijke overheid als vermeld in artikel 67, § 1, 1°, een intergemeentelijk samenwerkingsverband, de Vlaamse Gemeenschapscommissie, een provinciebestuur of rechtspersonen vermeld in artikel 62, § 1, die onder hun determinerende invloed staan, wordt verantwoord op basis van de personeels- en werkingskosten.<br /><br />Binnen de beleidsperiode waarop het beleidsplan, vermeld in artikel 18, § 2, artikelen 33, 62 en 68, of het publicatieplan, vermeld in artikel 57, betrekking heeft, kan de werkingssubsidie onbeperkt overgedragen worden naar het volgende werkingsjaar.<br /><br />Als de gemeentelijke overheid als vermeld in artikel 67, § 1, 1°, het intergemeentelijke samenwerkingsverband, de Vlaamse Gemeenschapscommissie, het provinciebestuur of rechtspersonen vermeld in artikel 62, § 1, die onder hun determinerende invloed staan op het einde van de beleidsperiode nog beschikt over een overgedragen werkingssubsidie, overeenkomstig § 4, tweede lid, kan die overgedragen worden naar een volgende beleidsperiode op voorwaarde dat, ten opzichte van de overgedragen werkingssubsidie in het begin van de beleidsperiode, de aangroei niet meer bedraagt dan twintig percent van de gemiddelde jaarlijkse werkingssubsidie, berekend over de beleidsperiode.<br /><br />De Vlaamse Regering kan, na advies van de Inspectie van Financiën, een afwijking toestaan van het percentage, vermeld in het derde lid, op voorwaarde dat de gemeentelijke overheid, het intergemeentelijk samenwerkingsverband, de Vlaamse Gemeenschapscommissie, het provinciebestuur of rechtspersonen vermeld in artikel 62, § 1, die onder hun determinerende invloed staan daartoe een gemotiveerd bestedingsplan voor de te veel overgedragen werkingssubsidie, indient bij de door de Vlaamse Regering aangewezen dienst. <br /><br />De overgedragen werkingssubsidie, vermeld in het tweede en derde lid, wordt aangewend voor de realisatie van het beleidsplan, vermeld in artikel 18, § 2, artikelen 33, 63 en 68, of van het publicatieplan, vermeld in artikel 57.<br /><br />§ 5. Als bij de afrekening van het laatste werkingsjaar van de beleidsperiode de aangroei van de overgedragen werkingssubsidie meer bedraagt dan hetgeen bepaald werd in § 4, derde lid en vierde lid, dan wordt het teveel ingehouden van het nog uit te keren saldo van de werkingssubsidie, toegekend aan de gemeentelijke overheid, het intergemeentelijke samenwerkingsverband, de Vlaamse Gemeenschapscommissie, het provinciebestuur of rechtspersonen vermeld in artikel 62, § 1, die onder hun determinerende invloed staan, en wordt het eventueel daarna nog resterende bedrag in mindering gebracht op de voorschotten, toegekend voor het eerste werkingsjaar van de nieuwe beleidsperiode tot een maximum van de werkingssubsidie toegekend voor het laatste jaar van de vorige beleidsperiode. <br /><br />Als aan een gemeentelijke overheid, een intergemeentelijk samenwerkingsverband, de Vlaamse Gemeenschapscommissie, een provinciebestuur of rechtspersonen vermeld in artikel 62, die onder hun determinerende invloed staan na afloop van de beleidsperiode waarop het beleidsplan, vermeld in artikel 18, § 2, artikelen 33, 63 en 68, of het publicatieplan, vermeld in artikel 57, betrekking heeft, geen werkingssubsidie meer wordt verleend, dan is de gemeentelijke overheid, het intergemeentelijk samenwerkingsverband, de Vlaamse Gemeenschapscommissie, het provinciebestuur of rechtspersonen vermeld in artikel 62, § 1, die onder hun determinerende invloed staan verplicht een gemotiveerd bestedingsplan voor de overgedragen werkingssubsidie in te dienen bij de door de Vlaamse Regering aangewezen dienst. De overgedragen werkingssubsidie wordt in voorkomend geval prioritair aangewend voor het voldoen van de arbeidsrechtelijke verplichtingen.<br /><br />§ 6. De Vlaamse Regering bepaalt de nadere regels met betrekking tot de reserve en overdracht van werkingssubsidies.
+...
 
 ### ART. 89.
 
-Voor de aanwending van een werkingssubsidie als vermeld in artikelen 62 en 67, die toegekend wordt aan een gemeentelijke overheid, een intergemeentelijk samenwerkingsverband, de Vlaamse Gemeenschapscommissie, een provinciebestuur of rechtspersonen vermeld in artikel 62, § 1, die onder hun determinerende invloed staan, komen kosten van ondersteunende aard niet in aanmerking.<br /><br />De Vlaamse Regering bepaalt welke kosten al dan niet van ondersteunende aard zijn.
+...
 
 ### ART. 90.
 
-Cultureel-erfgoedorganisaties die een werkingssubsidie ontvangen als vermeld in artikelen 26, 32, 38, 44 en 50, uitgevers die een werkingssubsidie ontvangen als vermeld in artikel 56, provinciebesturen of rechtspersonen vermeld in artikel 62, § 1, die een werkingssubsidie ontvangen als vermeld in artikel 62, en gemeentelijke overheden, intergemeentelijke samenwerkingsverbanden of de Vlaamse Gemeenschapscommissie die een werkingssubsidie ontvangen als vermeld in artikel 67, moeten in alle gedrukte en digitale communicatie, bij elke mededeling, verklaring, publicatie en presentatie de steun van de Vlaamse Gemeenschap vermelden door de standaardlogo's en de bijbehorende tekst en baselines te gebruiken die zijn vastgesteld door de Vlaamse Regering.<br /><br />Organisaties die een projectsubsidie ontvangen als vermeld in artikelen 74 of 77, moeten in alle gedrukte en digitale communicatie, bij elke mededeling, verklaring, publicatie en presentatie die verband houdt met het project waarvoor een projectsubsidie is toegekend, de steun van de Vlaamse overheid vermelden door de standaardlogo's en de bijbehorende tekst en baselines te gebruiken die zijn vastgelegd door de Vlaamse Regering.
+...
 
 ## HOOFDSTUK II. Algemene bepalingen over het toezicht en de evaluatie
 
 ### ART. 91.
 
-§ 1. Voor het steunpunt voor cultureel erfgoed, vermeld in artikel 4, § 1, voor de gesubsidieerde landelijke cultureel-erfgoedorganisaties voor volkscultuur vermeld in artikel 26, § 1, 1°, voor de landelijke expertisecentra voor cultureel erfgoed vermeld in artikel 26, § 1, 2°, voor de musea, ingedeeld bij het Vlaamse niveau vermeld in artikel 32, § 1, 1°, voor de culturele archiefinstellingen, ingedeeld bij het Vlaamse niveau vermeld in artikel 32, § 1, 2°, voor de Nederlandstalige culturele archiefinstellingen in het tweetalige gebied Brussel-Hoofdstad vermeld in artikel 32, § 1, 3°, voor de Vlaamse Erfgoedbibliotheek vermeld in artikel 38, § 1, voor het samenwerkingsverband vermeld in artikel 44, § 1, voor het samenwerkingsverband als vermeld in artikel 50, § 1, voor de uitgevers als vermeld in artikel 56, § 1, voor de overheden en rechtspersonen als vermeld in artikel 62, § 1, voor de overheden en rechtspersonen als vermeld in artikel 67, § 1, zal :<br />1° het toezicht gebeuren door de door de Vlaamse Regering aangewezen dienst op basis van een jaarlijkse controle van de begroting en de bijhorende toelichting, en op basis van een jaarlijkse controle van het jaarverslag;<br />2° de evaluatie van de werking door de door de Vlaamse Regering aangewezen dienst gebeurt op maximaal twee momenten in de beleidsperiode :<br />a) een tussentijdse evaluatie in de eerste helft van de beleidsperiode. Ze deelt de resultaten van de evaluatie uiterlijk halverwege de beleidsperiode mee aan de gesubsidieerde organisatie;<br />b) een eindevaluatie, in de tweede helft van de beleidsperiode. Ze deelt de resultaten van de evaluatie uiterlijk jzes maanden voor het indienen van een aanvraag voor een werkingssubsidie voor een volgende beleidsperiode mee aan de gesubsidieerde organisatie. <br /><br />De door de Vlaamse Regering aangewezen dienst kan alle initiatieven nemen die ze nodig acht om toezicht te houden en om de werking op adequate wijze te evalueren. Ze kan onder meer het bevoegde gezag horen, documenten en gegevens opvragen en een bezoek ter plaatse brengen. Ze kan eveneens een of meerdere leden van de bevoegde beoordelingscommissie vermeld in artikel 82 of de adviescommissie als vermeld in artikel 81 betrekken bij de evaluatie van de werking. <br /><br />§ 2. De resultaten van de evaluatie vermeld in § 1, 2°, b), worden door de gesubsidieerde organisatie meegenomen bij de voorbereiding van de aanvraag voor een werkingssubsidie voor een volgende beleidsperiode.
+...
 
 ### ART. 92.
 
-De Vlaamse Regering bepaalt de nadere regels met betrekking tot het toezicht en de evaluatie van gesubsidieerde organisaties als vermeld in artikel 4, § 1, artikel 26, § 1, artikel 32, § 1, artikel 38, § 1, artikel 44, § 1, artikel 50, § 1, artikel 56, § 1, artikel 62, § 1, en artikel 67, § 1.
+...
 
 ### ART. 93.
 
-De door de Vlaamse Regering aangewezen dienst houdt toezicht op en evalueert de projectsubsidies vermeld in artikelen 74 en 77 door controle van het eindverslag en de financiële afrekening van het project.
+...
 
 ### ART. 94.
 
-De Vlaamse Regering bepaalt de nadere regels met betrekking tot het toezicht en de evaluatie van de gesubsidieerde projecten als vermeld in artikelen 74 en 77.
+...
 
 ## [TITEL IV/1 Interbestuurlijke samenwerking met het oog op de zorg voor en de ontsluiting van het cultureel erfgoed (ing. Decr. 13 maart 2009, art. 7)]
 
 ### ART. 94/1.
 
-§ 1. Een of meer gemeenten en een of meer provincies kunnen toetreden tot een rechtspersoon zoals bepaald in de wet van 27 juli 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen, of deelnemen aan de oprichting ervan, voor : <br />1° het beheer van een instelling van de Vlaamse Gemeenschap als vermeld in artikel 17;<br />2° het beheer van een museum of een culturele archiefinstelling die een werkingssubsidie als vermeld in artikel 32, § 1, 1° of 2°, aanvraagt;<br />3° het beheer van een samenwerkingsverband dat een werkingssubsidie als vermeld in de artikelen 38, 44 en 50 aanvraagt.<br /><br />§ 2. De Vlaamse Regering wordt gemachtigd om met betrekking tot de instellingen van de Vlaamse Gemeenschap die ze zelf beheert, zoals vermeld in artikel 17, toe te treden tot of mee te werken aan de oprichting van een rechtspersoon als vermeld in § 1. <br /><br />§ 3. Ook andere publiekrechtelijke of privaatrechtelijke rechtspersonen mogen deel uitmaken van de rechtspersonen, vermeld in § 1.<br /><br />Gemeenten, provincies en de Vlaamse Gemeenschap mogen statutair personeel van de gemeente, de provincie of de Vlaamse Gemeenschap ter beschikking stellen en infrastructuur overdragen aan deze rechtspersoon.<br /><br />§ 4. Als aan de rechtspersoon binnen drie jaar na de oprichting door de Vlaamse Regering geen werkingssubsidie als vermeld in de artikelen 32, 38, 44 of 50 is toegekend of als de Vlaamse Regering, ter uitvoering van artikel 17, de collectiebeherende cultureel-erfgoedorganisatie niet heeft aangewezen als instelling van de Vlaamse Gemeenschap, wordt de rechtspersoon van rechtswege ontbonden.
+...
 
 ## TITEL V. Aanvullende subsidies voor tewerkstelling
 
 ### ART. 95.
 
-De Vlaamse Regering duidt aan welke organisaties die een aanvullende subsidie voor tewerkstelling ontvangen in 2007 tot de cultureel-erfgoedsector behoren.
+...
 
 ### ART. 96.
 
-De subsidies voor DAC-projecten binnen de cultureel-erfgoedsector worden omgezet in reguliere personeelssubsidies aan cultureel-erfgoedorganisaties. <br /><br />De DAC-projecten van de in 2002 door de Vlaamse Gemeenschap erkende of gesubsidieerde cultureel-erfgoedorganisaties en van hun ondersteunende organisaties of van stichtende leden worden geregulariseerd vanaf 1 januari 2002.<br /><br />De DAC-projecten van de niet-erkende of niet-gesubsidieerde cultureel-erfgoedorganisaties worden geregulariseerd vanaf 1 januari 2003.
+...
 
 ### ART. 97.
 
-De werkingssubsidie van een cultureel-erfgoedorganisatie toegekend krachtens dit decreet of krachtens het decreet op de Volkscultuur van 1998 of krachtens het Archiefdecreet van 2002 wordt in 2009 verhoogd met de aanvullende subsidie voor tewerkstelling die in 2007 werd uitbetaald aan :<br />1° deze cultureel-erfgoedorganisatie;<br />2° een ondersteunende organisatie of een stichtend lid van deze cultureel-erfgoedorganisatie.
+...
 
 ### ART. 98.
 
-Rekening houdend met de aanduiding vermeld in artikel 95, met uitzondering van de cultureel-erfgoedorganisaties vermeld in artikel 97, wordt bepaald hoeveel middelen er voor aanvullende subsidies voor tewerkstelling ter beschikking zijn.
+...
 
 ### ART. 99.
 
-Een cultureel-erfgoedorganisatie, met uitzondering van de cultureel-erfgoedorganisaties vermeld in artikel 97, die een geregulariseerde DAC'er in dienst heeft, ontvangt een subsidie als tussenkomst in de loonkost zoals ingeschaald bij de regularisatie vermeld in artikel 96, van dat personeelslid. Dit recht op subsidie blijft behouden zolang een geregulariseerde DAC'er in dienst is.
+...
 
 ### ART. 100.
 
-De beleidsperiode voor aanvullende subsidies voor tewerkstelling duurt zes jaar. De eerste beleidsperiode duurt vier jaar en gaat van start op 1 januari 2011 en eindigt op 31 december 2014.
+...
 
 ### ART. 101.
 
-Cultureel-erfgoedorganisaties die een kwaliteitslabel als vermeld in artikel 13 toegekend hebben gekregen en gerechtigd zijn om dit te dragen kunnen voor elke beleidsperiode, als vermeld in artikel 100, een aanvraag indienen voor het behoud van de subsidie voor aanvullende tewerkstelling voor de vervangers van de geregulariseerde DAC'ers. De aanvullende subsidie voor tewerkstelling voor de vervangers van de geregulariseerde DAC'ers bedraagt maximum 35.500 euro per voltijds equivalent.<br /><br />De aanvraag voor het behoud van de subsidie voor aanvullende tewerkstelling bestaat uit een tewerkstellingsnota en wordt uiterlijk op 1 april van het jaar dat voorafgaat aan de beleidsperiode vermeld in artikel 100, ingediend door de rechtspersoon die de erkende cultureel-erfgoedorganisatie beheert.<br /><br />De Vlaamse Regering beslist uiterlijk op 1 juli van hetzelfde jaar op basis van volgend criterium of de subsidie voor aanvullende tewerkstelling behouden blijft : de opdracht draagt wezenlijk bij aan de ontwikkeling van de cultureel-erfgoedorganisatie, de medewerker wordt ingezet op de zorg voor en de ontsluiting van het cultureel erfgoed dat door de cultureel-erfgoedorganisatie wordt beheerd.
+...
 
 ### ART. 102.
 
-§ 1. De middelen voor aanvullende subsidies voor tewerkstelling die beschikbaar zijn voor herverdeling worden toegekend voor tewerkstelling in het kader van het regionale depotbeleid zoals bedoeld in artikel 62, § 2, 2°, en artikel 67, § 3, tweede lid. De aanvullende subsidie voor tewerkstelling in het kader van dit regionale depotbeleid wordt voor de provinciebesturen opgenomen in een addendum bij het cultureel-erfgoedconvenant als vermeld in artikel 65 of voor de Vlaamse Gemeenschapscommissie in een addendum bij het cultureel-erfgoedconvenant als vermeld in artikel 72.<br /><br />De aanvullende subsidie voor tewerkstelling wordt steeds toegekend voor de rest van de beleidsperiode als bedoeld in artikel 100.<br /><br />De aanvullende subsidie voor tewerkstelling bedraagt maximaal 35.500 euro per voltijds equivalent. De subsidie wordt verdeeld a rato van minimaal een halftijds equivalent en naar rato van het aantal inwoners over de vijf provincies en het tweetalige gebied Brussel-Hoofdstad. Om de hoogte van de subsidie voor het regionaal depotbeleid in het tweetalig gebied Brussel-Hoofdstad te bepalen, worden 300.000 inwoners in rekening gebracht. Wat de toekenning van de subsidie aan de vijf provincies en aan de Vlaamse Gemeenschapscommissie betreft, gebeurt de verdeling over de provincies en het tweetalig gebied Brussel-Hoofdstad in eerste instantie gelijk totdat aan elke provincie en aan de Vlaamse Gemeenschapscommissie twee voltijdse equivalenten toegekend werden.<br /><br />§ 2. Om in aanmerking te komen voor een aanvullende subsidie voor tewerkstelling moet :<br />1° het provinciebestuur of de rechtspersoon die rechtstreeks of onrechtstreeks onder determinerende invloed staat van een provinciebestuur in haar cultureel-erfgoedbeleidsplan vermeld in artikel 63, inzetten op een regionaal depotbeleid als vermeld in artikel 62, § 2, 2°;<br />2° de Vlaamse Gemeenschapscommissie in haar cultureel-erfgoedbeleidsplan vermeld in artikel 68, § 3, inzetten op een regionaal depotbeleid als vermeld in artikel 67, § 3, tweede lid. <br /><br />§ 3. De Vlaamse Regering bepaalt de nadere regels met betrekking tot het toezicht en de evaluatie.
+...
 
 ## TITEL VI. Slotbepalingen
 
@@ -476,98 +476,98 @@ Cultureel-erfgoedorganisaties die een kwaliteitslabel als vermeld in artikel 13 
 
 ### ART. 103.
 
-Artikel 9, § 1, van het Erfgoeddecreet van 2004 wordt vervangen door wat volgt :<br />« De Vlaamse Regering deelt, na advies van de bevoegde beoordelingscommissie als vermeld in artikel 44, de erkende musea in bij het Vlaamse niveau, het regionale niveau of het lokale niveau. »<br /><br />Artikel 10, § 1, eerste lid, van het Erfgoeddecreet van 2004 wordt vervangen door wat volgt :<br />« Om in aanmerking te komen voor indeling, bedoeld in artikel 9, § 1, moet het erkende museum een beleidsplan indienen als vermeld in artikel 5, § 1. »<br /><br />Artikel 11 van het Erfgoeddecreet van 2004 wordt vervangen door wat volgt :<br />« Artikel 11. § 1. De Vlaamse Regering kan na advies van de bevoegde beoordelingscommissie als vermeld in artikel 44, een jaarlijkse werkingssubsidie toekennen aan de erkende musea ingedeeld bij het Vlaamse niveau.<br /><br />De werkingssubsidie bevat de financiële middelen voor de ondersteuning van de basisfuncties en voor de ondersteuning van de cultureel-erfgoedgemeenschap en bedraagt per museum ten minste 200.000 euro per jaar.<br /><br />§ 2. De werkingssubsidie wordt toegekend voor de beleidsperiode 2009-2013. »
+...
 
 ## HOOFDSTUK II. Opheffingsbepalingen
 
 ### ART. 104.
 
-§ 1. Het decreet op de Volkscultuur van 1998 wordt opgeheven.<br /><br />§ 2. Artikelen 1 tot en met 10 en de artikelen 16 tot en met 28 van het Archiefdecreet van 2002 worden opgeheven.<br /><br />Artikelen 11 tot en met 15 van het Archiefdecreet van 2002 worden opgeheven op 1 september 2008.<br /><br />§ 3. Artikelen 1 tot en met 4, artikelen 6 tot en met 8, artikelen 12 tot en met 28, de artikelen 38 tot en met 42 en artikelen 47 tot en met 59 van het Erfgoeddecreet van 2004 worden opgeheven. <br /><br />Artikelen 29 tot en met 37 van het Erfgoeddecreet worden opgeheven op 1 september 2008.<br /><br />Artikel 5, artikelen 9 tot en met 11 en artikelen 43 tot en met 46 van het Erfgoeddecreet van 2004 worden opgeheven op 1 januari 2009.
+...
 
 ### ART. 105.
 
-Het decreet van 7 mei 2004 houdende aanvullende subsidies voor tewerkstelling in de culturele sector wordt opgeheven voor die organisaties die in uitvoering van artikel 95 tot de cultureel-erfgoedsector behoren.
+...
 
 ## HOOFDSTUK III. Overgangsbepalingen
 
 ### ART. 106.
 
-In afwijking van artikel 3, § 2, wordt een eerste protocol gesloten in 2008 tot het einde van 2009.
+...
 
 ### ART. 107.
 
-In afwijking van artikel 5, 3°, wordt een eerste beleidsplan ingediend voor een beleidsperiode van drie jaar die begint op 1 januari 2009 en eindigt op 31 december 2011.<br /><br />In afwijking van artikel 6, § 1, wordt een aanvraag voor een werkingssubsidie voor de eerste beleidsperiode, vermeld in het eerste lid, door het steunpunt ingediend op 1 september 2008. De Vlaamse Regering neemt in afwijking van artikel 7, § 1, uiterlijk op 1 december van hetzelfde jaar een beslissing over de toekenning en het bedrag van de werkingssubsidie.<br /><br />De hoogte van de werkingssubsidie voor het steunpunt bedraagt voor de eerste beleidsperiode ten minste de som van de werkingssubsidies, toegekend voor het werkingsjaar 2007 op basis van het Erfgoeddecreet van 2004 aan Culturele Biografie Vlaanderen vzw, en van de werkingssubsidie, toegekend voor het werkingsjaar 2007 op basis van het decreet op de Volkscultuur van 1998 aan het Vlaams Centrum voor Volkscultuur VZW.
+...
 
 ### ART. 108.
 
-In afwijking van artikel 9 overlegt de Vlaamse Regering in 2008 met de representatieve organisaties die de belangen behartigen van de Vlaamse provincies, steden en gemeenten over een eerste protocol van akkoord voor de periode 2009-2010.<br /><br />Als er in afwijking van artikel 9 uiterlijk 1 september 2008 geen protocol is gesloten bepaalt de Vlaamse Regering uiterlijk 31 december 2008 de procedures, de nadere specificaties van de voorwaarden voor de toekenning van het kwaliteitslabel als vermeld in artikel 10, eerste lid, en de nadere specificaties van de criteria voor indeling bij het Vlaamse niveau als vermeld in artikel 19, § 2, eerste lid.
+...
 
 ### ART. 109.
 
-In afwijking van artikel 13, § 1, worden de musea, erkend op 1 mei 2008 met toepassing van het Erfgoeddecreet van 2004, gelijkgesteld met een door de Vlaamse overheid erkend museum als vermeld in artikel 13. Deze musea worden opgenomen in het register, vermeld in artikel 13, § 1, vierde lid.<br /><br />De eerste periode van vijf jaar, vermeld in artikel 15, eerste lid, gaat voor de musea van start op 1 januari 2009 en eindigt op 31 december 2013.
+...
 
 ### ART. 110.
 
-§ 1. In afwijking van artikel 13, § 1, worden de culturele archiefinstellingen, erkend op 31 december 2007 met toepassing van het Archiefdecreet van 2002, gelijkgesteld met een door de Vlaamse overheid erkende culturele archiefinstelling als vermeld in artikel 13. Die culturele archiefinstellingen worden opgenomen in het register, vermeld in artikel 13, § 1, vierde lid.<br /><br />In afwijking van artikel 15, eerste lid, duurt de eerste periode voor de culturele archiefinstellingen vier jaar. Ze gaat van start op 1 januari 2009 en eindigt op 31 december 2012. <br /><br />§ 2. De werkingssubsidie toegekend in 2007 op basis van artikel 7 van het Archiefdecreet van 2002 opgeteld bij de subsidie toegekend in 2007 op basis van artikel 8 van het Archiefdecreet van 2002 kan verhoogd worden op basis van een addendum bij het beleidsplan 2008-2012. Het addendum kan worden ingediend uiterlijk op 1 september 2008. De Vlaamse Regering beslist over deze verhoging uiterlijk op 31 december 2008.
+...
 
 ### ART. 111.
 
-In afwijking van artikel 13, § 1, worden de culturele archiefinstellingen, gesubsidieerd op 31 december 2007 op basis van artikel 24, tweede lid, van het Archiefdecreet van 2002, gelijkgesteld met een door de Vlaamse overheid erkende culturele archiefinstelling, als vermeld in artikel 13. Die culturele archief-instellingen worden opgenomen in het register, vermeld in artikel 13, § 1, vierde lid.<br /><br />In afwijking van artikel 15 duurt de eerste periode voor de culturele archiefinstellingen als vermeld in het eerste lid vier jaar. Ze gaat van start op 1 januari 2009 en eindigt op 31 december 2012.
+...
 
 ### ART. 112.
 
-De musea die op basis van het Erfgoeddecreet van 2004 zijn aangeduid als instellingen van de Vlaamse Gemeenschap, behouden hun aanduiding. In afwijking van artikel 17 behouden de instellingen van de Vlaamse Gemeenschap hun gelijkstelling met een erkend museum als vermeld in artikel 13. Die musea worden opgenomen in het register, vermeld in artikel 13, § 1, vierde lid.
+...
 
 ### ART. 113.
 
-In afwijking van artikel 28 wordt een aanvraag voor een werkingssubsidie voor een landelijke cultureel-erfgoedorganisatie als vermeld in artikel 26, ingediend door de privaatrechtelijke rechtspersoon op 1 september 2008. De Vlaamse Regering neemt in afwijking van artikel 30, § 1, uiterlijk op 1 december van hetzelfde jaar een beslissing over de hoogte van de werkingssubsidie.<br /><br />In afwijking van het eerste lid kunnen landelijke organisaties voor volkscultuur, erkend en gesubsidieerd op basis van het decreet op de volkscultuur van 1998 voor de beleidsperiode 2007-2011 uiterlijk op 1 september 2008 een addendum bij het lopende beleidsplan indienen met het oog op een werkingssubsidie als bedoeld in artikel 26.
+...
 
 ### ART. 114.
 
-In afwijking van artikel 39, 3°, duurt de eerste beleidsperiode vier jaar, begint ze op 1 januari 2009 en eindigt ze op 31 december 2012.<br /><br />In afwijking van artikel 40 wordt een aanvraag voor een werkingssubsidie voor de eerste beleidsperiode als vermeld in het eerste lid, voor de Vlaamse Erfgoedbibliotheek, vermeld in artikel 38, ingediend door de privaatrechtelijke rechtspersoon op 1 september 2008. De Vlaamse Regering neemt in afwijking van artikel 42, § 1, uiterlijk op 1 december van hetzelfde jaar een beslissing over de hoogte van de werkingssubsidie.
+...
 
 ### ART. 115.
 
-In afwijking van artikel 45, 3°, duurt de eerste beleidsperiode vier jaar, begint ze op 1 januari 2009 en eindigt ze op 31 december 2012.<br /><br />In afwijking van artikel 46 wordt een aanvraag voor een werkingssubsidie voor de eerste beleidsperiode, vermeld in het eerste lid, voor het beheer van de Archiefbank Vlaanderen, vermeld in artikel 44, ingediend door de privaatrechtelijke rechtspersoon op 1 september 2008. De Vlaamse Regering neemt in afwijking van artikel 48, § 1, uiterlijk op 1 december van hetzelfde jaar een beslissing over de hoogte van de werkingssubsidie.
+...
 
 ### ART. 116.
 
-In afwijking van artikel 52 wordt een aanvraag voor een werkingssubsidie voor de eerste beleidsperiode die start op 1 april 2009 en eindigt op 31 december 2013 voor een samenwerkingsverband als vermeld in artikel 50, ingediend door de publiekrechtelijke of privaatrechtelijke rechtspersoon op 1 december 2008. De Vlaamse Regering neemt in afwijking van artikel 54, § 1, uiterlijk op 1 maart 2009 een beslissing over de hoogte van de werkingssubsidie.
+...
 
 ### ART. 117.
 
-In afwijking van artikel 58 wordt een aanvraag voor een werkingssubsidie voor de eerste beleidsperiode die eindigt op 31 december 2011 voor het uitgeven van een periodieke cultureel-erfgoedpublicatie als vermeld in artikel 56, ingediend door de publiekrechtelijke of privaatrechtelijke rechtspersoon op 1 september 2008. De Vlaamse Regering neemt in afwijking van artikel 60, uiterlijk op 1 december van hetzelfde jaar een beslissing over de hoogte van de werkingssubsidie.
+...
 
 ### ART. 118.
 
-In afwijking van artikel 62, § 4, zijn de werkingssubsidies voor de provinciebesturen voor de eerste beleidsperiode vermeld in artikel 62, § 3, de volgende :<br />1° voor het provinciebestuur van de provincie Antwerpen : ten minste 250.000 euro;<br />2° voor het provinciebestuur van de provincie Limburg : ten minste 150.000 euro;<br />3° voor het provinciebestuur van de provincie Oost-Vlaanderen : ten minste 300.000 euro;<br />4° voor het provinciebestuur van de provincie Vlaams-Brabant : ten minste 200.000 euro;<br />5° voor het provinciebestuur van de provincie West-Vlaanderen : ten minste 200.000 euro.<br /><br />Het subsidiebedrag vermeld in artikel 62, § 4, verminderd met de bedragen uit het eerste lid, wordt in de eerste beleidsperiode in eerste instantie verdeeld onder de provinciebesturen die een werkingssubsidie ontvangen die lager is dan de werkingssubsidie die zou worden toegekend volgens de verdeelsleutel naar rato van het aantal inwoners. Pas in tweede instantie, wanneer alle provinciebesturen een werkingssubsidie ontvangen die minstens gelijk is aan de subsidie die de provinciebesturen zouden ontvangen volgens de verdeelsleutel naar rato van het aantal inwoners, wordt de subsidie verder naar rato van het aantal inwoners verdeeld.<br /><br />De werkingssubsidie vermeld in het eerste lid moet door de provinciebesturen gedurende de eerste beleidsperiode vermeld in artikel 62, § 3, gebruikt worden voor de ondersteuning van musea die een kwaliteitslabel als vermeld in artikel 13 toegekend hebben gekregen en gerechtigd zijn om dit te dragen en die door de provinciebesturen bij het regionale niveau zijn ingedeeld als vermeld in artikel 62, § 2, 1°.<br /><br />In afwijking van artikel 63, eerste lid, wordt een aanvraag voor een werkingssubsidie voor de eerste beleidsperiode ingediend door de provinciebesturen of door rechtspersonen die rechtstreeks of onrechtstreeks onder determinerende invloed staan van de provinciebesturen op 31 december 2008. De Vlaamse Regering neemt in afwijking van artikel 64, § 3, uiterlijk op 31 maart van het daaropvolgende jaar een beslissing over de hoogte van de werkingssubsidie.<br /><br />In afwijking van artikel 65, eerste lid, sluit de Vlaamse Regering uiterlijk 30 april 2009 met de provinciebesturen of rechtspersonen vermeld in artikel 62, § 1, een cultureel-erfgoedconvenant voor de beleidsperiode.
+...
 
 ### ART. 119.
 
-In afwijking van artikel 71, 2°, kan de Vlaamse Regering voor de eerste beleidsperiode die start op 1 januari 2009 en eindigt op 31 december 2014 enkel beslissen dat voor de steden Antwerpen, Brugge en Gent een extra subsidie voor de uitbouw van een Cultureel-erfgoedforum toegevoegd wordt aan de werkingssubsidie.<br /><br />In afwijking van artikel 71, 3°, kan de Vlaamse Regering in 2008 beslissen dat, voor de beleidsperiode die eindigt op 31 december 2011, aan de Vlaamse Gemeenschapscommissie een extra subsidie voor de uitbouw van een Cultureel-erfgoedforum als vermeld in artikel 67, § 2, eerste lid, 2°, en voor de ontwikkeling van een regionaal depotbeleid vermeld in artikel 67, § 3, tweede lid, toegevoegd wordt aan de werkingssubsidie. Hiervoor dient de Vlaamse Gemeenschapscommissie uiterlijk op 31 december 2008 een addendum in bij het cultureel-erfgoedbeleidsplan 2007-2011.<br /><br />De Vlaamse Regering neemt uiterlijk op 31 maart 2009 een beslissing over de hoogte van de extra subsidie voor de uitbouw van een cultureel-erfgoedforum en de ontwikkeling van een regionaal depotbeleid voor het tweetalige gebied Brussel-Hoofdstad.<br /><br />In afwijking van artikel 72, eerste lid, sluit de Vlaamse Regering uiterlijk op 30 april 2009 met de Vlaamse Gemeenschapscommissie een addendum bij het cultureel-erfgoedconvenant voor de rest van de lopende beleidsperiode.
+...
 
 ### ART. 120.
 
-De musea, ingedeeld bij het basisniveau op 1 oktober 2008 op basis van het Erfgoeddecreet van 2004, ontvangen een werkingssubsidie als vermeld in artikel 11, § 1, 3°, van het Erfgoeddecreet van 2004 tot en met 2014 als het museum niet in een gemeente ligt waarmee de Vlaamse Gemeenschap een cultureel-erfgoedconvenant, als vermeld in artikel 72, heeft gesloten voor de beleidsperiode 2009-2014. Als het museum wel in een gemeente ligt waarmee een cultureel-erfgoedconvenant is gesloten als vermeld in artikel 72, wordt de werkingssubsidie verhoogd met 12.500 euro om het cultureel-erfgoedconvenant, vermeld in artikel 72, uit te voeren.
+...
 
 ### ART. 121.
 
-Een vereniging die voor 1 januari 2008 op basis van het decreet op de Volkscultuur van 1998 een projectsubsidie heeft ontvangen voor het uitgeven van een periodieke wetenschappelijke publicatie over volkscultuur en geschiedenis die verschenen is tussen 1 augustus 2006 en 31 juli 2007 en waarvan de projectsubsidie lager is dan 3.000 euro, ontvangt jaarlijks dezelfde projectsubsidie tot en met 2014 als ze niet in een gemeente ligt waarmee de Vlaamse Gemeenschap een cultureel-erfgoedconvenant als vermeld in artikel 72, heeft gesloten voor de beleidsperiode 2009-2014 en mits de vereniging jaarlijks een verantwoordingsnota indient. <br /><br />Als een vereniging die de publicatie uitgeeft wel in een gemeente ligt waarmee een cultureel-erfgoedconvenant is gesloten als vermeld in artikel 72, wordt de projectsubsidie voor het uitvoeren van het cultureel-erfgoedconvenant voor de eerste beleidsperiode 2009-2014 als vermeld in artikel 67, verhoogd met het bedrag van de projectsubsidie die de vereniging heeft ontvangen voor de publicatie die verschenen is tussen de zomer van 2006 en de zomer van 2007.
+...
 
 ### ART. 122.
 
-In afwijking van artikel 74, tweede lid, 2°, komen projecten van archief- en documentatiecentra die op basis van het Archiefdecreet van 2002 een werkingssubsidie ontvangen, in aanmerking voor projectsubsidies als vermeld in artikel 74.
+...
 
 ### ART. 123.
 
-In afwijking van artikel 104, blijven de decreten, vermeld in artikel 104, in verband met de uitbetaling en het toezicht van kracht voor :<br />1° organisaties volkscultuur, erkend en gesubsidieerd op basis van het decreet op de Volkscultuur van 1998, voor de beleidsperiode die start op 1 januari 2007 en eindigt op 31 december 2011;<br />2° archief- en documentatiecentra op basis van maatschappelijk-filosofische stromingen, erkend en gesubsidieerd op basis van het Archiefdecreet van 2002, voor de beleidsperiode die start op 1 januari 2008 en eindigt op 31 december 2012;<br />3° archief- en documentatiecentra op basis van culturele thema's gesubsidieerd op basis van het Archiefdecreet van 2002, voor de beleidsperiode die start op 1 januari 2008 en eindigt op 31 december 2012;<br />4° Nederlandstalige archieven in Brussel gesubsidieerd op basis van het Archiefdecreet van 2002, voor de beleidsperiode die start op 1 januari 2008 en eindigt op 31 december 2012;<br />5° erkende en ingedeelde musea gesubsidieerd op basis van het Erfgoeddecreet van 2004, voor de beleidsperiode die eindigt op 31 december 2008;<br />6° overkoepelende samenwerkingsverbanden gesubsidieerd op basis van artikel 12 of artikel 13 van het Erfgoeddecreet van 2004, voor de beleidsperiode die eindigt op 31 december 2011;<br />7° erfgoedconvenants, gesloten met gemeenten of samenwerkingsverbanden van omliggende gemeenten op basis van het Erfgoeddecreet van 2004, voor de beleidsperiode die eindigt op 31 december 2008;<br />8° het erfgoedconvenant, gesloten met de Vlaamse Gemeenschapscommissie op basis van het Erfgoeddecreet van 2004, voor beleidsperiode die start op 1 januari 2007 en eindigt op 31 december 2011;<br />9° projectsubsidies, toegekend in 2007 en 2008.
+...
 
 ## HOOFDSTUK IV. Slotbepalingen
 
 ### ART. 124.
 
-Dit decreet wordt aangehaald als : het Cultureel-erfgoeddecreet.
+...
 
 ### ART. 125.
 
-Dit decreet treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.
+...
