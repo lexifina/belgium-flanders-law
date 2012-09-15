@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022398,
+  "title": "Besluit van de Vlaamse Regering van 2012-09-14 tot officiële naamswijziging van de Hogeschool voor Wetenschap en Kunst",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022398/VolledigDocument?datum=2012-09-15",
+  "source_sha256": "eee75ad6efa0dc7dc4eda3ce27de970a1e4c52f63445d35767f5803e7cc91fe2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022398&param=informatie",
+  "as_of": "2012-09-15",
+  "made": "2012-09-14",
+  "gazette": "2012-10-18",
+  "numac": 2012205740,
+  "document_start": "2012-09-15",
+  "document_end": null,
+  "in_force": "2012-09-15",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2012-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
