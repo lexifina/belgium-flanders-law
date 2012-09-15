@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022220,
+  "title": "Ministerieel besluit van 2012-03-08 tot goedkeuring van de aanvullende voorwaarden bij het algemeen waterverkoopreglement van Scherpenheuvel-Zichem van 10 november 2011",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022220/VolledigDocument?datum=2012-09-15",
+  "source_sha256": "241251d2dc84889bdb650574d0e8489e773113b98ef73f20c04ea52b04354654",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022220&param=informatie",
+  "as_of": "2012-09-15",
+  "made": "2012-03-08",
+  "gazette": "2012-09-05",
+  "numac": 2012204786,
+  "document_start": "2012-09-15",
+  "document_end": null,
+  "in_force": "2012-09-15",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+}

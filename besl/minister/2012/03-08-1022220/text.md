@@ -1,0 +1,9 @@
+# Ministerieel besluit van 2012-03-08 tot goedkeuring van de aanvullende voorwaarden bij het algemeen waterverkoopreglement van Scherpenheuvel-Zichem van 10 november 2011
+
+### Aanhef
+
+De Vlaamse minister van Leefmilieu, Natuur en Cultuur,<br /><br />Gelet op het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending, artikel 16, § 2; <br /><br />Gelet op het besluit van de Vlaamse Regering van 8 april 2011 houdende bepalingen van rechten en plichten van de exploitanten van een openbaar waterdistributienetwerk en hun klanten met betrekking tot de levering van water bestemd voor menselijke consumptie, de uitvoering van de saneringsverplichting en het algemeen waterverkoopreglement, artikel 24; <br /><br />Overwegende dat aanvullende voorwaarden van Scherpenheuvel-Zichem werden ontvangen op 10 november 2011;<br /><br />Overwegende dat de betrokken aanvullende voorwaarden conform artikel 24 van het besluit van de Vlaamse Regering van 8 april 2011 houdende bepalingen van rechten en plichten van de exploitanten van een openbaar waterdistributienetwerk en hun klanten met betrekking tot de levering van water bestemd voor menselijke consumptie, de uitvoering van de saneringsverplichting en het algemeen waterverkoopreglement voor advies werden overgemaakt aan de toezichthoudende ambtenaar, de ecologisch toezichthouder en de economisch toezichthouder op 16 november 2011;<br /><br />Overwegende het advies van de ecologisch toezichthouder d.d. 26 januari 2011;<br /><br />Overwegende dat het advies van de ecologisch toezichthouder gunstig was en er geen strijdigheid met het algemeen waterverkoopreglement opgemerkt werd,<br /><br />Besluit :
+
+### ART. Enig.
+
+De aanvullende voorwaarden van Scherpenheuvel-Zichem die werden ingediend op 10 november 2011 zijn niet strijdig met het algemeen waterverkoopreglement en worden derhalve goedgekeurd.
