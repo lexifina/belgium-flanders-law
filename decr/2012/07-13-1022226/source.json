@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022226,
+  "title": "Decreet van 2012-07-13 houdende instemming met : 1° het Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, met protocollen I en II, ondertekend te Luxemburg op 5 juni 2001, zoals gewijzigd door het protocol, ondertekend te Berlijn op 23 juni 2009, 2° het protocol tot wijziging van het Verdrag en de protocollen, vermeld onder 1°, ondertekend te Berlijn op 23 juni 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022226/VolledigDocument?datum=2012-09-16",
+  "source_sha256": "28aebcbf11d4e4c61b4ee4cc79fa182f79b29f33a55d5a33518fe0706233993d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022226&param=informatie",
+  "as_of": "2012-09-16",
+  "made": "2012-07-13",
+  "gazette": "2012-09-06",
+  "numac": 2012204745,
+  "document_start": "2012-09-16",
+  "document_end": null,
+  "in_force": "2012-09-16",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-09-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
