@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022227,
+  "title": "Decreet van 2012-07-13 houdende instemming met : 1° de Overeenkomst tussen het Koninkrijk België en het Groothertogdom Luxemburg tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en naar het vermogen, en het desbetreffende Slotprotocol, ondertekend te Luxemburg op 17 september 1970, zoals gewijzigd door de Avenanten van 11 december 2002 en 16 juli 2009; 2° het Avenant tot wijziging van de Overeenkomst, zoals eerder gewijzigd, vermeld onder 1°, met de daarbij gevoegde briefwisseling, ondertekend te Brussel op 16 juli 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022227/VolledigDocument?datum=2012-09-16",
+  "source_sha256": "e281333fca6d6f3e8ce244459b13c346584ffb551fe526aa1ab3433bdffa57ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022227&param=informatie",
+  "as_of": "2012-09-16",
+  "made": "2012-07-13",
+  "gazette": "2012-09-06",
+  "numac": 2012204756,
+  "document_start": "2012-09-16",
+  "document_end": null,
+  "in_force": "2012-09-16",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-09-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
