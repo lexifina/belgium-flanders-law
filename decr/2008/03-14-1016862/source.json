@@ -2,16 +2,16 @@
   "codex_id": 1016862,
   "title": "Decreet van 2008-03-14 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016862/VolledigDocument?datum=2012-09-15",
-  "source_sha256": "49a224c13a2f0664e977e3e9c94e0e07a88e9db286069a51e445b0c91c335dd0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016862/VolledigDocument?datum=2012-09-17",
+  "source_sha256": "3412b417ef42da93b96349acc65970c66209c5173d28c858d1471265e3e905d7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016862&param=informatie",
-  "as_of": "2012-09-15",
+  "as_of": "2012-09-17",
   "made": "2008-03-14",
   "gazette": "2008-06-26",
   "numac": 200835636,
   "document_start": "2008-01-01",
   "document_end": "2013-09-30",
-  "in_force": "2012-09-15",
+  "in_force": "2012-09-17",
   "article_versions": 101,
-  "record_form": "consolidated version as in force on 2012-09-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-09-17; future article versions excluded; article text as the API gives it"
 }

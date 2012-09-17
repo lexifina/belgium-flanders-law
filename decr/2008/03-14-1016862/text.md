@@ -1771,7 +1771,7 @@ Vanaf het begrotingsjaar 2008 worden deze bedragen geïndexeerd aan de hand van 
 		</tr>
 		<tr>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
-			<p>10° Katholieke Hogeschool Kempen</p>
+			<p>10° Thomas More Kempen</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>31.364.082,66</p>
@@ -1916,7 +1916,9 @@ Vanaf het begrotingsjaar 2008 worden deze bedragen geïndexeerd aan de hand van 
 	</tbody>
 </table>
 
-<p>&nbsp;§ 3. De bedragen, vermeld in § 2, worden vanaf het begrotingsjaar 2008 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5.</p>
+<p>&nbsp;</p>
+
+<p>§ 3. De bedragen, vermeld in § 2, worden vanaf het begrotingsjaar 2008 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5.</p>
 
 <p>§ 4. Vanaf het begrotingsjaar 2011 wordt de werkingsuitkering per hogeschool en universiteit, berekend overeenkomstig de bepalingen van afdeling IV van dit decreet met inbegrip van de bedragen bedoeld in artikel 35, § 6, met 1,27 % verminderd.</p>
 
@@ -2260,7 +2262,7 @@ Zowel het aantal opgenomen studiepunten als het aantal uitgereikte diploma's wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:198.7pt">
-			<p>Katholieke Hogeschool Kempen</p>
+			<p>Thomas More Kempen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:111.9pt">
 			<p>0,00</p>
