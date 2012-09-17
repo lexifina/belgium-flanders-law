@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022231,
+  "title": "Ministerieel besluit van 2012-08-31 betreffende de inwerkingtreding van de verplichting om te slagen in een centraal examen voor de erkenning als energiedeskundige type A en type C en tot wijziging van het ministerieel besluit van 11 maart 2008 betreffende de opleidingen tot energiedeskundige type A en type B",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022231/VolledigDocument?datum=2012-09-17",
+  "source_sha256": "34cce17ab9f5bdd872667a75890444ba4b323503888ba90c8c6ec0ec76a5362d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022231&param=informatie",
+  "as_of": "2012-09-17",
+  "made": "2012-08-31",
+  "gazette": "2012-09-07",
+  "numac": 2012204923,
+  "document_start": "2012-09-17",
+  "document_end": null,
+  "in_force": "2012-09-17",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2012-09-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
