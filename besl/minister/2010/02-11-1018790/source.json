@@ -2,16 +2,16 @@
   "codex_id": 1018790,
   "title": "Ministerieel besluit van 2010-02-11 tot aanwijzing van de ambtenaren, vermeld in artikel 94 van het decreet van 18 december 2009 houdende bepalingen tot begeleiding van de begroting 2010",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018790/VolledigDocument?datum=2012-04-17",
-  "source_sha256": "e8a3f410af33d584b22e5643f637b9cd60111f0d9b7fa05c1a7a9e37f792a0ef",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018790/VolledigDocument?datum=2012-09-19",
+  "source_sha256": "8ea71e252c95bd3df770f70c708796f0e77159bef29dc8b9048c9579bc1981b3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018790&param=informatie",
-  "as_of": "2012-04-17",
+  "as_of": "2012-09-19",
   "made": "2010-02-11",
   "gazette": "2010-02-26",
   "numac": 2010200875,
   "document_start": "2010-02-11",
   "document_end": "2015-01-11",
-  "in_force": "2012-04-17",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2012-04-17; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-09-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-09-19; future article versions excluded; article text as the API gives it"
 }
