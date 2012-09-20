@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022233,
+  "title": "Decreet van 2012-07-13 houdende instemming met : 1° de Overeenkomst tussen België en Frankrijk tot voorkoming van dubbele belasting en tot regeling van wederzijdse administratieve en juridische bijstand inzake inkomstenbelastingen, ondertekend te Brussel op 10 maart 1964 en gewijzigd door de avenanten van 15 februari 1971, 8 februari 1999, 12 december 2008 en 7 juli 2009, 2° het Avenant tot wijziging van de Overeenkomst, zoals eerder gewijzigd, vermeld onder 1°, ondertekend te Brussel op 7 juli 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022233/VolledigDocument?datum=2012-09-20",
+  "source_sha256": "24f42532c7680525075ee7b4d6c383b4bd19c34229447190587c9c3a6620e97a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022233&param=informatie",
+  "as_of": "2012-09-20",
+  "made": "2012-07-13",
+  "gazette": "2012-09-10",
+  "numac": 2012204827,
+  "document_start": "2012-09-20",
+  "document_end": null,
+  "in_force": "2012-09-20",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-09-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
