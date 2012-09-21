@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022243,
+  "title": "Decreet van 2012-07-13 houdende instemming met het facultatief protocol bij het verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing, opgemaakt in New York op 18 december 2002",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022243/VolledigDocument?datum=2012-09-21",
+  "source_sha256": "e6dd87af625b8f74b914fb127f87730a611eeaa0b24c51682c25c3192c9d53c0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022243&param=informatie",
+  "as_of": "2012-09-21",
+  "made": "2012-07-13",
+  "gazette": "2012-09-11",
+  "numac": 2012204830,
+  "document_start": "2012-09-21",
+  "document_end": null,
+  "in_force": "2012-09-21",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-09-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
