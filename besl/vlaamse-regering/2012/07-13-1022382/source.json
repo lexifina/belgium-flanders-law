@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022382,
+  "title": "Besluit van de Vlaamse Regering van 2012-07-13 houdende sluiting van de zitting 2011-2012 van het Vlaams Parlement",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022382/VolledigDocument?datum=2012-09-23",
+  "source_sha256": "9d006d2639305f21bf266ae751065b8dc8b63e0791eed73ec06acb04cf647ec4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022382&param=informatie",
+  "as_of": "2012-09-23",
+  "made": "2012-07-13",
+  "gazette": "2012-10-16",
+  "numac": 2012205604,
+  "document_start": "2012-09-23",
+  "document_end": null,
+  "in_force": "2012-09-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-09-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
