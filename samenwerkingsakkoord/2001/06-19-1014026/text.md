@@ -2,28 +2,28 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit samenwerkingsakkoord wordt verstaan onder:<br /><br />1° Raad: de Coördinatieraad inzake medisch verantwoorde sportbeoefening;<br /><br />2° Regeringen of College: de Regeringen van de Vlaamse Gemeenschap, van de Franse Gemeenschap, van de Duitstalige Gemeenschap of het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie;<br /><br />3° Sportmanifestatie: initiatief dat personen de mogelijkheid biedt om sport op een georganiseerde wijze te beoefenen;<br /><br />4° Akkoordsluitende partijen: de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapsconunissie;<br /><br />5° Sportbeoefenaar: persoon die zich ofwel individueel, ofwel in een collectief kader voorbereidt, met het oog op een sportactiviteit die vrij is of georganiseerd is in de vorm van een wedstrijd of ontspanning of die eraan deelneemt;<br /><br />6° medisch verantwoorde sportheoefening: beoefening van sport met inachtneming van het geheel van de maatregelen, bepalingen en aanbevelingen die tot doel hebben de sportbeoefenaars te beschermen en bij te dragen tot hun lichamelijk en psychisch welzijn.
+...
 
 ### ART. 2.
 
-Dit samenwerkingsakkoord is geldig voor een onbepaalde duur.<br /><br />Het kan te allen tijde worden opgezegd door elke akkoordsluitende parmits vooropzeg van één jaar die van kracht wordt na de datum van kennisgeving van de beslissing
+...
 
 ### ART. 3.
 
-§ 1. De samenwerking tussen de akkoordsluitende partijen, op het gebied van medisch verantwoorde sportbeoefening, heeft tot doel:<br /><br />1° te zorgen voor een regelmatige uitwisseling van informatie, documentatie, deskundigen en diensten;<br /><br />2° een identieke procedure te bepalen betreffende de monsterneming voor de controle op het gebruik, door de sportbeoefenaars, van de producten, substanties en middelen bedoeld onder 5°;<br /><br />3° voor de sportbeoefenaars die op doping worden betrapt, de strafsancties te vervangen door tuchtstancties;<br /><br />4° voor bepaalde sporttakken, betreffende de minimumleeftijden voor deelneming, een overleg vast te leggen over de medische criteria voor toelating tot de sportmanifestaties;<br /><br />5° een identieke lijst vast te stellen van de verboden producten alsook van de substanties en middelen die als dopingpraktijk worden beschouwd, op grond van de internationaal erkende lijst;<br /><br />6° gemeenschappelijk acties te voeren inzake gezondheidspromotie op sportgebied en preventie inzake dopingpraktijk;<br /><br />7° bilaterale protocolakkoorden te kunnen sluiten, met het oog op het laten verrichten van dopingcontroles door de erkende artsen van een akkoordsluitende partij.<br /><br />§ 2. De akkoordsluitende partijen verbinden er zich toe een procedure in te voeren voor de onderlinge mededeling van de tuchtsancties en van de beslissingen die worden genomen op het gebied van medisch verantwoorde sportbeoefening, met het oog op de aanmoediging tot de wederzijdse erkenning en de toepassing ervan.<br /><br />§ 3. De akkoordsluitende partijen erkennen wederzijds de resultaten en conclusies van de internationaal erkende laboratoria die belast zijn met de ontleding van de monsters die bij de dopingscontroles werden genomen.
+...
 
 ### ART. 4.
 
-§ 1. Er wordt een Raad opgericht om de aangepaste uitvoering van dit akkoord te bevorderen.<br /><br />Te dien einde, brengt de Raad, op eigen initiatef of op aanvraag van één van de akkoordsluitende partijen, adviezen uit over elke vraag bedoeld in artikel 3.<br /><br />Het advies van de Raad wordt van rechtswege vereist voor de ontwerpen van teksten die de in artikel 3, § 1, 5°, bedoelde lijst vaststellen.<br /><br />§ 2. De Raad is, voor elk van de akkoordsluitende partijen, samengesteld uit hoogstens vier leden die bevoegd zijn inzake gezondheid of sport, die voor een mandaat van vier jaar door hun Regering of College worden aangewezen.<br /><br />Voor elk lid dat overeenkomstig lid 1 wordt aangewezen, wordt een plaatsvervangend lid aangewezen.<br /><br />Bij ontslag van een lid in de loop van het mandaat of bij verlies van de hoedanigheid volgens welke het lid werd aangewezen, wordt in zijn vervanging voorzien voor de overblijvende duur van het mandaat.<br /><br />§ 3. Het voorzitterschap van de Raad wordt beurtelings uitgeoefend door elke akkoordsluitende partij voor een duur van twee jaar. De Voorzitter wordt door zijn Regering aangewezen.<br /><br />Het secretariaat van de Raad wordt waargenomen door de administratie van de akkoordsluitende partij belast met het voorzitterschap.<br /><br />De Raad vergadert ten minste drie keer per jaar.<br /><br />De Raad stelt een huishoudelijk reglement vast waarin de nadere regels voor zijn werking worden bepaald. Hij kan werkcommissies oprichten en, voor bepaalde dossiers, een beroep doen op externe deskundigen.<br /><br />De beslissingen in verband met de adviezen bedoeld in artikel 4, § 1, worden volgens het principe van de consensus getroffen. Bij ontstentenis daarvan, worden de verschillende adviezen in de notulen van de vergadering opgenomen.
+...
 
 ### ART. 5.
 
-De internationale vertegenwoordiging van België in de vergaderingen in verband met de aangelegenheden bedoeld bij dit samenwerkingsakkoord wordt geregeld als volgt:<br /><br />1° elke akkoordsluitende partij kan de vergadering bijwonen; het stemrecht is weggelegd voor de partij die het voorzitterschap waarneemt;<br /><br />2° als er een consensus bestaat tussen elke akkoordsluitende partij, dan is de stemming toegelaten; bij onenigheid is onthouding de regel.
+...
 
 ### ART. 6.
 
-(Heft op:<br /><br />1° het samenwerkingsakkoord van 9 november 1990 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende de medisch verantwoorde sportbeoefening;<br /><br />2° het samenwerkingsakkoord van 11 december 1991 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap inzake medisch verantwoorde sportbeoefening)
+...
 
 ### ART. 7.
 
-Dit akkoord wordt opgemaakt in vier drietalige exemplaren, waarbij de Nerderlandse, Franse en Duitse tekst in gelijke mate rechtsgeldig zijn. Elk akkoordsluitende partij verklaart in het bezit te zijn van een exemplaar.<br /><br />Elke akkoordsluitende partij wijst de ministers aan die door haar Regering ertoe worden gemachtigd dit akkoord te ondertekenen.
+...
