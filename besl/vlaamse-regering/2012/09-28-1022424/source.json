@@ -2,16 +2,16 @@
   "codex_id": 1022424,
   "title": "Besluit van de Vlaamse Regering van 2012-09-28 tot officiële naamswijziging van de Katholieke Hogeschool Kempen, Lessius Antwerpen en Lessius Mechelen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022424/VolledigDocument?datum=2012-09-17",
-  "source_sha256": "390f48a56f6b8509493f64fa38db2486a407e97743b3dcce02088bd2a46ed1e1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022424/VolledigDocument?datum=2012-09-24",
+  "source_sha256": "cbf4e1f2d75fe91463174bdf7cad4a59bf3b1e5aac51164acdb7f6234986c92d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022424&param=informatie",
-  "as_of": "2012-09-17",
+  "as_of": "2012-09-24",
   "made": "2012-09-28",
   "gazette": "2012-10-29",
   "numac": 2012205995,
   "document_start": null,
   "document_end": null,
-  "in_force": "2012-09-17",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2012-09-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-09-24",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2012-09-24; future article versions excluded; article text as the API gives it"
 }

@@ -42,6 +42,16 @@ In artikel 5 van het decreet van 4 april 2003 betreffende de herstructurering va
 In artikel 45 van hetzelfde decreet, gewijzigd bij de decreten van 19 maart 2004 en 16 juni 2006, worden de woorden "Katholieke Hogeschool Kempen" vervangen door de woorden "Thomas More Kempen".<br>
 &nbsp;
 
+### ART. 3.
+
+In artikel 48 van hetzelfde decreet, gewijzigd bij het decreet van 9 juli 2010 en het besluit van de Vlaamse Regering van 10 september 2010, worden de woorden "Lessius Mechelen" vervangen door de woorden "Thomas More Mechelen".<br>
+&nbsp;
+
+### ART. 4.
+
+In artikel 51 van hetzelfde decreet, gewijzigd bij het besluit van de Vlaamse Regering van 10 september 2010, worden de woorden "Lessius Antwerpen" vervangen door de woorden "Thomas More Antwerpen".<br>
+&nbsp;
+
 ### ART. 5.
 
 In artikel 31, § 2, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en universiteiten in Vlaanderen, vervangen bij het decreet van 21 november 2008 en gewijzigd bij het besluit van de Vlaamse Regering van 10 september 2010, worden de volgende wijzigingen aangebracht :<br>
