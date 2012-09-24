@@ -1795,7 +1795,7 @@ Vanaf het begrotingsjaar 2008 worden deze bedragen geïndexeerd aan de hand van 
 		</tr>
 		<tr>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
-			<p>13° Lessius Mechelen</p>
+			<p>13° Thomas More Mechelen</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>19.961.758,26</p>
@@ -1819,7 +1819,7 @@ Vanaf het begrotingsjaar 2008 worden deze bedragen geïndexeerd aan de hand van 
 		</tr>
 		<tr>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
-			<p>16° Lessius Antwerpen</p>
+			<p>16°&nbsp;Thomas More&nbsp;Antwerpen</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>13.008.546,51</p>
@@ -2295,7 +2295,7 @@ Zowel het aantal opgenomen studiepunten als het aantal uitgereikte diploma's wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:198.7pt">
-			<p>Lessius Mechelen</p>
+			<p>Thomas More Mechelen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:111.9pt">
 			<p>0,00</p>
@@ -2328,7 +2328,7 @@ Zowel het aantal opgenomen studiepunten als het aantal uitgereikte diploma's wor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:198.7pt">
-			<p>Lessius Hogeschool</p>
+			<p>Thomas More Antwerpen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:111.9pt">
 			<p>0,00</p>
