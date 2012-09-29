@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022272,
+  "title": "Besluit van de Vlaamse Regering van 2012-05-11 tot wijziging van artikel 1 van het besluit van de Vlaamse Regering van 16 mei 1995 betreffende de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren, en van artikel 1 van het besluit van de Vlaamse Regering van 16 mei 1995 betreffende de invordering van niet-fiscale schuldvorderingen voor het Vlaamse Gewest en de instellingen die eronder ressorteren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022272/VolledigDocument?datum=2012-09-29",
+  "source_sha256": "806fe15abfaeeee35118bced46ecc56c4b38fed8c6c3d8c346ebe4fa8428bef0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022272&param=informatie",
+  "as_of": "2012-09-29",
+  "made": "2012-05-11",
+  "gazette": "2012-09-19",
+  "numac": 2012204924,
+  "document_start": "2012-09-29",
+  "document_end": null,
+  "in_force": "2012-09-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-09-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
