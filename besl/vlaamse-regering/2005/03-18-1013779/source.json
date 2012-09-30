@@ -2,16 +2,16 @@
   "codex_id": 1013779,
   "title": "Besluit van de Vlaamse Regering van 2005-03-18 houdende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013779/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "400c357505b9d9351decda3e369b196e0e8b51ad298a0f039647dd901f777138",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013779/VolledigDocument?datum=2012-09-30",
+  "source_sha256": "7666d0b5fc37aaae2e39820b70aa2229b080674027a751208e2b83847022b7ec",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013779&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2012-09-30",
   "made": "2005-03-18",
   "gazette": "2005-05-12",
   "numac": 2005035507,
   "document_start": "2005-05-12",
   "document_end": "2012-09-29",
-  "in_force": "2006-06-01",
+  "in_force": "2012-09-30",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-09-30; future article versions excluded; article text as the API gives it"
 }
