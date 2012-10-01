@@ -2,16 +2,16 @@
   "codex_id": 1012120,
   "title": "Ministerieel besluit van 2004-01-23 tot vaststelling van de toepassingsvoorwaarden voor de indeling van geslachte varkens",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012120/VolledigDocument?datum=2011-09-19",
-  "source_sha256": "e70d612885e91a77da86cbcb7c0a06534c4adae6ad3683e2dc16236eb9797da2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012120/VolledigDocument?datum=2012-10-01",
+  "source_sha256": "83a6a37f9508e7d07476578e03bf278e234b7bb73d54c27b393988641f759dc5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012120&param=informatie",
-  "as_of": "2011-09-19",
+  "as_of": "2012-10-01",
   "made": "2004-01-23",
   "gazette": "2004-02-24",
   "numac": 2004035207,
   "document_start": "2004-02-24",
   "document_end": "2023-12-31",
-  "in_force": "2011-09-19",
-  "article_versions": 33,
-  "record_form": "consolidated version as in force on 2011-09-19; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-10-01",
+  "article_versions": 36,
+  "record_form": "consolidated version as in force on 2012-10-01; future article versions excluded; article text as the API gives it"
 }
