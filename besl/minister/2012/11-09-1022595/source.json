@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022595,
+  "title": "Ministerieel besluit van 2012-11-09 houdende samenstelling van de bezwaarcommissie in het kader van de zorgverzekering en tot opheffing van het ministerieel besluit van 24 januari 2002 houdende samenstelling van de bezwaarcommissie in het kader van de zorgverzekering",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022595/VolledigDocument?datum=2012-10-01",
+  "source_sha256": "6f81b25d7ed00babe2f6cc1112ed7bb3825b8b736d0150b90a8c05744e195f14",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022595&param=informatie",
+  "as_of": "2012-10-01",
+  "made": "2012-11-09",
+  "gazette": "2013-01-04",
+  "numac": 2012207437,
+  "document_start": "2012-10-01",
+  "document_end": null,
+  "in_force": "2012-10-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2012-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
