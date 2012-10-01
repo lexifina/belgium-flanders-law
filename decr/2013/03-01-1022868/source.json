@@ -2,16 +2,16 @@
   "codex_id": 1022868,
   "title": "Decreet van 2013-03-01 houdende diverse bepalingen inzake landbouw, leefmilieu en natuur en ruimtelijke ordening",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022868/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "164196a68472c100dcc02163b006ea04ab232141651465b95421916d4a0041ae",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022868/VolledigDocument?datum=2012-10-01",
+  "source_sha256": "490412a6d242a77bc03444fcc1eedc69320d9419f688c747c1208630753a7a72",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022868&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2012-10-01",
   "made": "2013-03-01",
   "gazette": "2013-04-15",
   "numac": 2013035339,
   "document_start": "2013-04-25",
   "document_end": null,
-  "in_force": "2011-01-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-10-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-10-01; future article versions excluded; article text as the API gives it"
 }
