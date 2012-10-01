@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022636,
+  "title": "Besluit van de Vlaamse Regering van 2012-12-21 tot wijziging van het besluit van de Vlaamse Regering van 20 juli 1994 houdende vaststelling van de regels volgens dewelke het Vlaams Agentschap voor Personen met een Handicap de kosten van bijstand door tolken voor doven en slechthorenden ten laste nemen, wat betreft de werkingskosten van het centraal tolkenbureau en de vergoeding van de tolken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022636/VolledigDocument?datum=2012-10-01",
+  "source_sha256": "59cf2b12a8491e5850dc0d472453a972ebfad5c30de5a66834127a5d744ce177",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022636&param=informatie",
+  "as_of": "2012-10-01",
+  "made": "2012-12-21",
+  "gazette": "2013-01-18",
+  "numac": 2013035064,
+  "document_start": "2012-12-31",
+  "document_end": null,
+  "in_force": "2012-10-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
