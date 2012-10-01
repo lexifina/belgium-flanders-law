@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022380,
+  "title": "Besluit van de Vlaamse Regering van 2012-09-21 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft het aanwerven van kandidaten met competenties, verworven buiten hun diploma",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022380/VolledigDocument?datum=2012-10-01",
+  "source_sha256": "69d28346e8e990e236d055f47b0bc8320ab390e136b44413f6ac3f22563280e1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022380&param=informatie",
+  "as_of": "2012-10-01",
+  "made": "2012-09-21",
+  "gazette": "2012-10-15",
+  "numac": 2012036087,
+  "document_start": "2012-10-01",
+  "document_end": null,
+  "in_force": "2012-10-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2012-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
