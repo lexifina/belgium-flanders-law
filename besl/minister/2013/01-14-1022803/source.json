@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022803,
+  "title": "Ministerieel besluit van 2013-01-14 tot wijziging van diverse bepalingen van het ministerieel besluit van 23 januari 2004 tot vaststelling van de toepassingsvoorwaarden voor de indeling van geslachte varkens",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022803/VolledigDocument?datum=2012-10-01",
+  "source_sha256": "62d73e3cdb5531540bbc9abe27ddaf38f8a8af980876842b0305a77cc5657ccd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022803&param=informatie",
+  "as_of": "2012-10-01",
+  "made": "2013-01-14",
+  "gazette": "2013-03-20",
+  "numac": 2013035252,
+  "document_start": "2012-10-01",
+  "document_end": null,
+  "in_force": "2012-10-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2012-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
