@@ -2,16 +2,16 @@
   "codex_id": 1014301,
   "title": "Besluit van de Vlaamse Regering van 2005-12-09 [betreffende de modulering in de integrale jeugdhulp]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014301/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "eb43db43a7edf5da214ce9c7b76279c85e7e42316faf2cc0a04ba0584b6147a5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014301/VolledigDocument?datum=2012-10-01",
+  "source_sha256": "9832edf4b951403b337cd56d7c320e9c507651d1319a5b74ee62b6a713a4ba2c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014301&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2012-10-01",
   "made": "2005-12-09",
   "gazette": "2006-02-23",
   "numac": 2006035210,
   "document_start": "2006-01-01",
   "document_end": null,
-  "in_force": "2008-01-01",
+  "in_force": "2012-10-01",
   "article_versions": 28,
-  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-10-01; future article versions excluded; article text as the API gives it"
 }

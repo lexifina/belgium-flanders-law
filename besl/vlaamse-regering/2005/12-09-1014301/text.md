@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br /><br />1° decreet Integrale Jeugdhulp: het decreet van 7 mei 2004 betreffende de integrale jeugdhulp;<br /><br />2° minderjarige: elke natuurlijke persoon die jonger is dan achttien jaar;<br /><br />3° ouders: de natuurlijke personen die titularis zijn van het ouderlijk gezag of, bij ontstentenis van die personen, de wettelijke vertegenwoordigers;<br /><br />4° opvoedingsverantwoordelijken: de natuurlijke personen, andere dan de ouders, die de minderjarige op duurzame wijze in feite onder hun bewaring hebben of bij wie de minderjarige geplaatst is door bemiddeling of ten laste van een openbare overheid;<br /><br />5° leefomgeving: de natuurlijke personen, met uitzondering van de ouders en de opvoedingsverantwoordelijken, die bij de minderjarige inwonen of met de minderjarige een bijzondere affectieve band hebben, evenals de natuurlijke personen die in de buurt van de minderjarige wonen of met wie de minderjarige geregeld contact heeft, onder meer bij het schoolgaan of tijdens de vrijetijdsbesteding;<br /><br />6° jeugdhulpverlening: de hulp- en zorgverlening die zich richt tot minderjarigen, of tot minderjarigen en hun ouders, hun opvoedingsverantwoordelijken of personen uit hun leefomgeving;<br /><br />7° jeugdhulpaanbieder: een natuurlijke persoon of een voorziening die jeugdhulpverlening aanbiedt als vermeld in artikel 4 van het decreet Integrale Jeugdhulp;<br /><br />8° jeugdhulpvoorziening: een voorziening die jeugdhulpverlening aanbiedt als vermeld in artikel 4 van het decreet Integrale Jeugdhulp;<br /><br />9° dienst voor pleegzorg: een van de volgende diensten:<br /><br />a) een dienst voor pleegzorg, als vermeld in artikel 10 van het besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand;<br /><br />b) een dienst voor plaatsing in gezinnen, als vermeld in artikel 3, § 1, van het koninklijk besluit nr. 81 van 10 november 1967 tot instelling van een Fonds voor Medische, Sociale en Pedagogische Zorg voor Gehandicapten;<br /><br />c) een dienst voor gezinsondersteunende pleegzorg, gesubsidieerd in het raam van artikel 5, § 2, tweede lid, c), van het decreet van 29 mei 1984 houdende de oprichting van de instelling Kind en Gezin;<br /><br />10° netwerk RTJ: een netwerk rechtstreeks toegankelijke jeugdhulpverlening als vermeld in hoofdstuk VI, afdeling 1, van het decreet Integrale Jeugdhulp;<br /><br />11° netwerk CJ: een netwerk crisisjeugdhulpverlening als vermeld in hoofdstuk VI, afdeling 2, van het decreet Integrale Jeugdhulp;<br /><br />12° ministers: de Vlaamse minister, bevoegd voor het onderwijs, de Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br /><br />13° regio: een regio integrale jeugdhulp als vermeld in artikel 9 van het besluit van de Vlaamse Regering van 11 juni 2004 tot afbakening van het toepassingsgebied van de integrale jeugdhulp en van de regio's integrale jeugdhulp en tot regeling van de beleidsafstemming integrale jeugdhulp;<br /><br />14° regionale stuurgroep: een regionale stuurgroep integrale jeugdhulp als vermeld in artikel 44 van het decreet Integrale Jeugdhulp;<br /><br />15° regioplan: het regioplan integrale jeugdhulp, vermeld in artikel 40 van het decreet Integrale Jeugdhulp;<br /><br />16° Managementcomité: het Managementcomité Integrale Jeugdhulp, vermeld in artikel 41 van het decreet Integrale Jeugdhulp;<br /><br />17° sector: een bevoegdheidsdomein dat geregeld wordt door een regelgeving, als vermeld in artikel 4, § 1, van het decreet Integrale Jeugdhulp, of toepasselijk verklaard wordt krachtens artikel 4, § 2, van dat decreet;<br /><br />18° netwerkstuurgroep: het sturend orgaan van een netwerk RTJ of een netwerk CJ, vermeld in artikel 17;<br /><br />19° module: een duidelijk afgelijnde eenheid van jeugdhulpverlening die afzonderlijk of samen met andere eenheden kan worden aangeboden;<br /><br />20° typemodule: een door een sectorale administratie duidelijk omschreven en afgelijnde eenheid van jeugdhulpverlening;<br /><br />21° functie: een algemeen aangeduide hulpactiviteit, gericht op een bepaald doel;<br /><br />22° hulpprogramma: een voorzieningenoverstijgend en gecoördineerd geheel van jeugdhulpverleningsaanbod dat bestaat uit een combinatie van modules of delen van modules;<br /><br />23° Adviesraad: de Adviesraad Integrale Jeugdhulp, vermeld in artikel 35 van het decreet Integrale Jeugdhulp.<br /><br />24° sectorale administratie: de administratieve entiteit die instaat voor het opvolgen van de erkenning en/of de subsidiëring en/of de werking van een voorziening of een initiatief die behoort tot haar sector.
+In dit besluit wordt verstaan onder:<BR>1° decreet Integrale Jeugdhulp:   het decreet van 7 mei 2004 betreffende de integrale jeugdhulp;<BR>2°   minderjarige: elke natuurlijke persoon die jonger is dan achttien jaar;<BR>3°   ouders: de natuurlijke personen die titularis zijn van het ouderlijk gezag of,   bij ontstentenis van die personen, de wettelijke vertegenwoordigers;<BR>4°   opvoedingsverantwoordelijken: de natuurlijke personen, andere dan de ouders, die   de minderjarige op duurzame wijze in feite onder hun bewaring hebben of bij wie   de minderjarige geplaatst is door bemiddeling of ten laste van een openbare   overheid;<BR>5° leefomgeving: de natuurlijke personen, met uitzondering van de   ouders en de opvoedingsverantwoordelijken, die bij de minderjarige inwonen of   met de minderjarige een bijzondere affectieve band hebben, evenals de   natuurlijke personen die in de buurt van de minderjarige wonen of met wie de   minderjarige geregeld contact heeft, onder meer bij het schoolgaan of tijdens de   vrijetijdsbesteding;<BR>6° jeugdhulpverlening: de hulp- en zorgverlening die   zich richt tot minderjarigen, of tot minderjarigen en hun ouders, hun   opvoedingsverantwoordelijken of personen uit hun leefomgeving;<BR>7°   jeugdhulpaanbieder: een natuurlijke persoon of een voorziening die   jeugdhulpverlening aanbiedt als vermeld in artikel 4 van het decreet Integrale   Jeugdhulp;<BR>8° jeugdhulpvoorziening: een voorziening die jeugdhulpverlening   aanbiedt als vermeld in artikel 4 van het decreet Integrale Jeugdhulp;<BR>9°   dienst voor pleegzorg: een van de volgende diensten:<BR>a) een dienst voor   pleegzorg, als vermeld in artikel 10 van het besluit van de Vlaamse Regering van   13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de   voorzieningen van de bijzondere jeugdbijstand;<BR>b) een dienst voor plaatsing   in gezinnen, als vermeld in artikel 3, § 1, van het koninklijk besluit nr. 81   van 10 november 1967 tot instelling van een Fonds voor Medische, Sociale en   Pedagogische Zorg voor Gehandicapten;<BR>c) een dienst voor gezinsondersteunende   pleegzorg, gesubsidieerd in het raam van artikel 5, § 2, tweede lid, c), van het   decreet van 29 mei 1984 houdende de oprichting van de instelling Kind en   Gezin;<BR>10° netwerk RTJ: een netwerk rechtstreeks toegankelijke   jeugdhulpverlening als vermeld in hoofdstuk VI, afdeling 1, van het decreet   Integrale Jeugdhulp;<BR>11° netwerk CJ: een netwerk crisisjeugdhulpverlening als   vermeld in hoofdstuk VI, afdeling 2, van het decreet Integrale Jeugdhulp;<BR>12°   ministers: de Vlaamse minister, bevoegd voor het onderwijs, de Vlaamse minister,   bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het   gezondheidsbeleid;<BR>13° regio: een regio integrale jeugdhulp als vermeld in   artikel 9 van het besluit van de Vlaamse Regering van 11 juni 2004 tot   afbakening van het toepassingsgebied van de integrale jeugdhulp en van de   regio's integrale jeugdhulp en tot regeling van de beleidsafstemming integrale   jeugdhulp;<BR>14° regionale stuurgroep: een regionale stuurgroep integrale   jeugdhulp als vermeld in artikel 44 van het decreet Integrale Jeugdhulp;<BR>15°   regioplan: het regioplan integrale jeugdhulp, vermeld in artikel 40 van het   decreet Integrale Jeugdhulp;<BR>16° Managementcomité: het Managementcomité   Integrale Jeugdhulp, vermeld in artikel 41 van het decreet Integrale   Jeugdhulp;<BR>17° sector: een bevoegdheidsdomein dat geregeld wordt door een   regelgeving, als vermeld in artikel 4, § 1, van het decreet Integrale Jeugdhulp,   of toepasselijk verklaard wordt krachtens artikel 4, § 2, van dat   decreet;<BR>18° netwerkstuurgroep: het sturend orgaan van een netwerk RTJ of een   netwerk CJ, vermeld in artikel 17;<BR>19° module: een duidelijk afgelijnde   eenheid van jeugdhulpverlening die afzonderlijk of samen met andere eenheden kan   worden aangeboden;<BR>20° typemodule : een intersectoraal opgemaakte en   afgestemde afgelijnde eenheid van jeugdhulpverlening die van toepassing is op   één of meerdere sectoren en die maximaal één functie omvat;<BR>21° functie : een   specifiek kernproces van jeugdhulpverlening dat de hoofdactiviteit of   hulpactiviteit van de typemodule weergeeft;<BR>22° hulpprogramma: een   voorzieningenoverstijgend en gecoördineerd geheel van jeugdhulpverleningsaanbod   dat bestaat uit een combinatie van modules of delen van modules;<BR>23°   Adviesraad: de Adviesraad Integrale Jeugdhulp, vermeld in artikel 35 van het   decreet Integrale Jeugdhulp.<BR>24° sectorale administratie: de administratieve   entiteit die instaat voor het opvolgen van de erkenning en/of de subsidiëring   en/of de werking van een voorziening of een initiatief die behoort tot haar   sector.
 
 ## HOOFDSTUK II Modulering
 
@@ -18,11 +18,11 @@ Bijlage I bij dit besluit legt de lijst van functies vast die relevant zijn in h
 
 ### ART. 4.
 
-De sectorale administraties beschrijven, in overleg met de hulpaanbieders van hun sector, het jeugdhulpverleningsaanbod in typemodules aan de hand van een werkblad. Het Managementcomité legt de vorm van het werkblad vast. Het bevat minstens de volgende gegevensvelden: functie(s), een minimale set van acties, een beschrijving van de doelgroep en een positionering in verband met het onderscheid, vermeld in hoofdstuk III.<br /><br />Het Managementcomité keurt, op basis van een intersectorale voorbereiding door de sectorale administraties en op basis van een advies van de Adviesraad, uiterlijk op 1 juli 2006 de typemodules goed. Het Managementcomité keurt, eveneens op basis van een intersectorale voorbereiding door de sectorale administraties en een advies van de Adviesraad, wijzigingen of uitbreidingen van de typemodules goed. Het doet dat maximaal twee keer per kalenderjaar om de consistentie van de wijzigingen of uitbreidingen te kunnen garanderen. De goedkeuring van een typemodule bevat altijd een beslissing over de positionering ervan in verband met het onderscheid, conform het bepaalde in hoofdstuk III.
+<P>De sectorale administraties beschrijven, in overleg met de   jeugdhulpaanbieders van hun sector, het jeugdhulpverleningsaanbod in   typemodules. Een typemodule bevat minstens de volgende gegevens : de functie,   een minimale set van acties, een beschrijving van de doelgroep en een   positionering in verband met het onderscheid, vermeld in hoofdstuk III. Het   managementcomité kan de bijkomende inhoud van de typemodule bepalen. <BR><BR>Het   Managementcomité keurt, op basis van een intersectorale voorbereiding door de   sectorale administraties en op basis van een advies van de Adviesraad, de   typemodules goed. Het Managementcomité keurt, eveneens op basis van een   intersectorale voorbereiding door de sectorale administraties en een advies van   de Adviesraad, wijzigingen of uitbreidingen van de typemodules goed. Het doet   dat maximaal twee keer per kalenderjaar om de consistentie van de wijzigingen of   uitbreidingen te kunnen garanderen. De goedkeuring van een typemodule bevat   altijd een beslissing over de positionering ervan in verband met het   onderscheid, conform het bepaalde in hoofdstuk III.</P>  <P>De sectorale administraties kunnen projecttypemodules opmaken in functie van   projectmatige of experimentele jeugdhulp. De projecttypemodules zijn beperkt in   de tijd en hoeven niet intersectoraal afgestemd en door het managementcomité   goedgekeurd te worden. Het managementcomité bepaalt de geldigheidsduur van de   projecttypemodules.</P>
 
 ### ART. 5.
 
-Elke jeugdhulpvoorziening beschrijft haar jeugdhulpverleningsaanbod in modules, conform de sectorale typemodules. De sectorale administratie keurt de door jeugdhulpvoorzieningen beschreven modules goed binnen twee maanden na het voorstel van de jeugdhulpvoorziening, alsook wijzigingen of uitbreidingen ervan voorzover de gewijzigde of uitgebreide modules nog steeds binnen de typemodules vallen.<br /><br />In geval van afwijking van die typemodules maakt de jeugdhulpvoorziening gebruik van de lijst van functies. Als een jeugdhulpvoorziening een module beschrijft die afwijkt van een typemodule, kan het Managementcomité, op voorstel van de sectorale administratie, die goedkeuren binnen twee maanden na het voorstel van de jeugdhulpvoorziening.<br /><br />Bij afwijking van typemodules, als vermeld in het tweede lid na 1 maart 2007 kan de goedkeuring van een module door het Managementcomité alleen na advies van de regionale stuurgroep.<br /><br />Het aanbod in modules wordt beschreven aan de hand van een werkblad. Het werkblad wordt vastgelegd door het Managementcomité. Het werkblad bevat gegevensvelden die op basis van de typemodules ingevuld zijn en gegevensvelden die door de voorziening verder aangevuld, verfijnd of vrij ingevuld kunnen worden.
+Elke jeugdhulpvoorziening beschrijft haar jeugdhulpverleningsaanbod in   modules, conform de typemodules. De sectorale administratie keurt modules die de   jeugdhulpvoorzieningen hebben beschreven, alsook wijzigingen of uitbreidingen   ervan, binnen twee maanden na het voorstel van de jeugdhulpvoorziening goed. Een   module bevat minstens de volgende gegevens : alle gegevens uit de typemodule,   extra acties, indiceerbare condities die werden geselecteerd uit een door de   sectorale administratie goedgekeurde lijst.
 
 ### ART. 6.
 
@@ -32,7 +32,7 @@ Uiterlijk op 1 maart 2007 hebben alle jeugdhulpvoorzieningen, erkend op 1 juli 2
 
 ### ART. 7.
 
-De indeling in rechtstreeks toegankelijke en niet rechtstreeks toegankelijke modules gebeurt aan de hand van een initiële weging en een kwalitatieve evaluatie van de typemodule zoals bepaald in artikel 9.<br /><br />Voor modules die afwijken van typemodules en voor aanvragen om regionale uitzonderingen op de indeling neemt het Managementcomité een individuele beslissing over de indeling.
+De indeling in rechtstreeks toegankelijke en niet rechtstreeks   toegankelijke modules gebeurt aan de hand van een initiële weging en een   kwalitatieve evaluatie van de typemodule zoals bepaald in artikel   9.
 
 ### ART. 8.
 
@@ -48,11 +48,11 @@ Elke typemodule geeft aan of ze rechtstreeks of niet rechtstreeks toegankelijk i
 
 ### ART. 11.
 
-De modules nemen de indeling, vermeld in artikel 10, over van de typemodules.<br /><br />Als een module afwijkt van een typemodule, voert de betrokken jeugdhulpvoorziening de initiële weging, conform artikel 8, door bij de beschrijving van die module. Het Managementcomité neemt een beslissing over de indeling als het de module goedkeurt conform artikel 5, tweede lid.
+De modules nemen de indeling, vermeld in artikel 10, over van de   typemodules.
 
 ### ART. 12.
 
-De regionale stuurgroep evalueert het effect van de weging en het daaruit voortvloeiende onderscheid tussen rechtstreeks toegankelijke en niet rechtstreeks toegankelijke jeugdhulpverlening voor het aanbod en de verdeling van de jeugdhulpverlening in de regio in kwestie.<br /><br />Op basis van de evaluatie, vermeld in het eerste lid, kunnen regionale of subregionale uitzonderingen op het onderscheid worden aangevraagd door de regionale stuurgroep. De aanvraag wordt gemotiveerd door aan te geven op welke manier de uitzondering tegemoetkomt aan regiospecifieke behoeften. De aanvraag vermeldt eveneens op welke modules en welke jeugdhulpvoorzieningen ze betrekking heeft en voor welke duur de uitzondering wordt aangevraagd.<br /><br />Regionale uitzonderingen kunnen door het Managementcomité worden toegestaan. Het Managementcomité neemt een beslissing over de uitzondering binnen vier maanden na de aanvraag en bepaalt in voorkomend geval de termijn van de uitzondering, met een maximum van twee jaar. Het Managementcomité houdt bij het nemen van zijn beslissing in elk geval rekening met de effecten ervan op de sector in kwestie in zijn totaliteit en op de minderjarigen, ouders, opvoedingsverantwoordelijken en personen uit de leefomgeving. Het Managementcomité houdt ook rekening met de effecten op lange termijn van regionale uitzonderingen.
+...
 
 ## HOOFDSTUK IV De netwerken rechtstreeks toegankelijke jeugdhulpverlening en crisisjeugdhulpverlening
 
@@ -126,216 +126,105 @@ De Vlaamse minister, bevoegd voor het Onderwijs, de Vlaamse minister, bevoegd vo
 
 ### Tekst
 
-1. Onthaal.<br /><br />Doel:<br /><br />Op een laagdrempelige manier is een eerste beeld gevormd van een aanmeldingssignaal op basis waarvan mogelijk wordt overgegaan tot vraagverheldering of verwijzing naar andere vormen van hulp.<br /><br />Activiteit:<br /><br />Eerste contact met de cliënt en het beluisteren van het aanmeldingssignaal. Indien nodig aansluiting bieden met al dan niet zelf aangeboden vraagverheldering of andere vormen van hulp.<br /><br />2. Vraagverheldering.<br /><br />Doel:<br /><br />De cliënt en de hulpverlener hebben een beter inzicht in de aard van de problemen en mogelijke oplossingsperspectieven.<br /><br />Activiteit:<br /><br />Samen met de cliënt de problemen inventariseren, systematisch in kaart brengen, ontrafelen, oplossingsalternatieven verkennen en, zo nodig, toetsen aan een mogelijk aanbod.<br /><br />3. Diagnostiek.<br /><br />Doel:<br /><br />Vanuit een specifieke deskundigheid is een geobjectiveerd beeld gevormd van de hulpvraag, de problematiek en de daarmee samenhangende factoren, alsook van de aangrijpingspunten voor mogelijke oplossingen. Al die elementen zijn in een zinvol onderling verband gebracht, met als resultaat een gemotiveerd oordeel over de benodigde hulp.<br /><br />Activiteit:<br /><br />Het op systematische wijze opbouwen van een objectiveerbaar en gedetailleerd beeld van de problematiek van de cliënt, gebruikmakend van specifieke methoden. De hulpvraag van de cliënt wordt geëxploreerd in al zijn facetten en in een ruimere context geplaatst. Op basis daarvan worden oplossingsalternatieven geformuleerd.<br /><br />4. Signaaldetectie.<br /><br />Doel:<br /><br />Signalen van een mogelijk problematische ontwikkeling bij een (groep van) minderjarige(n) of zijn (hun) directe leefomgeving zijn tijdig gedetecteerd.<br /><br />Activiteit:<br /><br />Het volgens een gerichte methodiek tijdig opvangen en evalueren van signalen met het oog op een mogelijke toeleiding naar een hulpaanbod.<br /><br />5. Begeleiding.<br /><br />Doel:<br /><br />Een of meer van de volgende doelen zijn bereikt: de cliënt heeft een beter inzicht in de eigen situatie, een terugval is voorkomen, een problematische situatie of toestand is draaglijk gemaakt, er is praktische ondersteuning geboden, de draagkracht is vergroot, de autonomie en zelfstandigheid zijn toegenomen.<br /><br />Activiteit:<br /><br />Het bieden van een breedsporige, generalistische ondersteuning, in eerste instantie gefocust op het samen met de cliënt zoeken naar antwoorden en oplossingen voor de problematische situatie.<br /><br />6. Behandeling.<br /><br />Doel:<br /><br />Het functioneren van de cliënt is in positieve zin veranderd of is hersteld. Als dat niet haalbaar is, is verdere achteruitgang voorkomen of vertraagd.<br /><br />Activiteit:<br /><br />Het op een specialistische of therapeutische wijze beïnvloeden van het problematisch (psychisch, sociaal of somatisch) functioneren van de cliënt of zijn nabije context.<br /><br />7. Training.<br /><br />Doel:<br /><br />De cliënt heeft de beoogde vaardigheden verworven.<br /><br />Activiteit:<br /><br />Het systematisch aanleren en inoefenen van specifieke vaardigheden (bv. - socialevaardigheidstraining, pedagogische vaardigheden, training van taal-, spraak- en motorische vaardigheden, specifieke cognitieve of schoolse vaardigheden, algemene beroeps- en huishoudelijke vaardigheden).<br /><br />8. Verblijf.<br /><br />Doel:<br /><br />Er is voorzien in een aangepaste woon- en leefomgeving of leefruimte en in Bed-Bad-Brood (BBB).<br /><br />Activiteit:<br /><br />Het aanbieden van accommodatie voor een bepaalde duur, steeds met inbegrip van overnachting.<br /><br />9. Opvoedende relatie.<br /><br />Doel: De cliënt kan bogen op een opvoedende relatie die hem toelaat zich op psychoaffectief vlak volwaardig te ontplooien.<br /><br />Activiteit: De opvoedende relatie tussen de cliënt en zijn ouders of opvoedingsverantwoordelijken wordt, voor zover noodzakelijk, tijdelijk aangevuld of vervangen.<br /><br />10. Toezicht.<br /><br />Doel:<br /><br />Er is een veilige situatie gecreëerd waarin de jongere eigen activiteiten zelfstandig kan uitvoeren of waarin hij beschermd wordt tegen externe negatieve invloeden of tegen zichzelf.<br /><br />Activiteit:<br /><br />Het observerend aanwezig zijn, klaar om begeleidend, verzorgend of bewakend op te treden als daar behoefte aan is.<br /><br />11. Verzorging.<br /><br />Doel:<br /><br />Er is voorzien in de lichamelijke basisbehoeften van de cliënt.<br /><br />Activiteit:<br /><br />Bij algemene dagelijkse levensverrichtingen wordt hulp geboden die noodzakelijk is gezien de beperkingen en functionele stoornissen van de cliënt.<br /><br />12. Dagbesteding.<br /><br />Doel: Als alternatief voor onderwijs wordt een zinvolle dagbesteding georganiseerd voor cliënten die, om tal van redenen, zoals leeftijd, gedragsproblemen, handicap, niet kunnen deelnemen aan het reguliere onderwijs.<br /><br />Activiteit: Er worden gestructureerde dagdeelactiviteiten georganiseerd. Dat kan inhouden dat binnen de jeugdhulp geïntegreerde scholing wordt aangeboden, dus buiten het reguliere onderwijs. <br /><br />13. Bemiddeling.<br /><br />Doel:<br /><br />Een conflict is hanteerbaar geworden of opgelost, of een relatie is tot stand gebracht. Het kan zowel over relaties tussen cliënten onderling gaan als over relaties tussen cliënten en derden.<br /><br />Activiteit:<br /><br />Het op neutrale wijze met elkaar in contact brengen van verschillende partijen, zodat een conflict wordt opgelost of hanteerbaar gemaakt, of zodat een relatie tussen mensen tot stand wordt gebracht.<br /><br />14. Informatie en advies.<br /><br />Doel:<br /><br />De cliënt beschikt over meer kennis en daarmee over een stevige basis voor zijn inzichten, keuzen en gedragsalternatieven.<br /><br />Activiteit:<br /><br />De cliënt op een geëigende manier informeren en adviseren over keuzemogelijkheden, gedragsalternatieven en eventueel bepaalde hulp aanraden.
+<P>Bijlage 1. - Functielijst<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Functie       <TD>Beschrijving<BR>    <TR>      <TD>Brede Instap       <TD>aanbieden van de instapprocedure (onthaal, vraagverheldering,         aanbodsverheldering, hulpverleningsvoorstel, verwijzing), korte hulp en         informatieverstrekking<BR>    <TR>      <TD>Info&amp; Advies       <TD>vrijblijvend aanbieden van praktische, algemene wegwijs-informatie<BR>    <TR>      <TD>Diagnostiek       <TD>erkende diagnostiek aanleveren voor de toegangspoort of diagnostiek         los van aanmelding of begeleidingsaanbod<BR>    <TR>      <TD>Begeleiding       <TD>breedsporige ondersteuning<BR>    <TR>      <TD>Behandeling       <TD>specialistische of therapeutische hulp<BR>    <TR>      <TD>Bemiddeling       <TD>neutraal in contact brengen van verschillende partijen zodanig dat een         conflict opgelost of hanteerbaar wordt<BR>    <TR>      <TD>Training       <TD>pakket om specifieke vaardigheden aan te leren<BR>    <TR>      <TD>Hulpcontinuïteit       <TD>nastreven van de hulpcontinuïteit onafhankelijk van lopende         hulpverlening <BR>    <TR>      <TD>Verblijf       <TD>aanbieden van aangepaste woon- en leefomgeving<BR>    <TR>      <TD>Dagopvang       <TD>opvang zonder   overnachting<BR></TD></TR></TBODY></TABLE><BR></P>
 
 ## Bijlage II Weginginstrument
 
 ### Tekst
 
-<p>&nbsp;</p>
+<p>Bijlage 2. - Weginginstrument</p>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:15cm">
+<table border="1">
 	<tbody>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:5cm">
-			<p>Frequentie<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:5cm">
-			<p>Intensiteit</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:14.2pt; width:5cm">
-			<p>Duur</p>
-			</td>
+			<td colspan="2">Frequentie</td>
+			<td colspan="2">Intensiteit</td>
+			<td colspan="2">Duur</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>Gemiddelde</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:2cm">
-			<p>Gewicht</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>Gemiddelde</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:2cm">
-			<p>Gewicht</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>Gemiddelde</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:2cm">
-			<p>Gewicht</p>
-			</td>
+			<td>Gewicht</td>
+			<td>Gemiddelde</td>
+			<td>Gewicht</td>
+			<td>Gemiddelde</td>
+			<td>Gewicht</td>
+			<td>Gemiddelde</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>Eenmalig</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:2cm">
-			<p>10</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>1/2 uur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:2cm">
-			<p>10</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>2 dagen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:2cm">
-			<p>10</p>
-			</td>
+			<td>0</td>
+			<td>eenmalig</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>0</td>
+			<td>1 dag</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>Tweemaandelijks</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:2cm">
-			<p>20</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>1 uur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:2cm">
-			<p>20</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>1 week</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:2cm">
-			<p>20</p>
-			</td>
+			<td>10</td>
+			<td>tweejaarlijks</td>
+			<td>10</td>
+			<td>&lt; 1 uur</td>
+			<td>10</td>
+			<td>3 dagen</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>Maandelijks</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:2cm">
-			<p>30</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>2 uur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:2cm">
-			<p>40</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>1 maand</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:2cm">
-			<p>30</p>
-			</td>
+			<td>20</td>
+			<td>tweemaandelijks</td>
+			<td>20</td>
+			<td>1 uur</td>
+			<td>20</td>
+			<td>2 weken</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>Wekelijks</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:2cm">
-			<p>50</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>3 uur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:2cm">
-			<p>50</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>3 maanden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:2cm">
-			<p>40</p>
-			</td>
+			<td>30</td>
+			<td>maandelijks</td>
+			<td>40</td>
+			<td>2 uur</td>
+			<td>30</td>
+			<td>1 maand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>2 keer per week</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:2cm">
-			<p>60</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>6 uur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:2cm">
-			<p>70</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>1/2 jaar</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:2cm">
-			<p>50</p>
-			</td>
+			<td>50</td>
+			<td>wekelijks</td>
+			<td>50</td>
+			<td>3 uur</td>
+			<td>40</td>
+			<td>3 maanden</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:3cm">
-			<p>3 keer per week</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:2cm">
-			<p>70</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>8 uur</p>
-
-			<p>(dag of nacht)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:2cm">
-			<p>80</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:3cm">
-			<p>1 jaar</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:2cm">
-			<p>80</p>
-			</td>
+			<td>60</td>
+			<td>2/week</td>
+			<td>70</td>
+			<td>4 uur</td>
+			<td>50</td>
+			<td>6 maanden</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:3cm">
-			<p>5 keer per week (werkdagen)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:2cm">
-			<p>80</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:3cm">
-			<p>16 uur</p>
-
-			<p>(buiten de schooluren)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:2cm">
-			<p>90</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:3cm">
-			<p>20 maanden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:2cm">
-			<p>100</p>
-			</td>
+			<td>70</td>
+			<td>3/week</td>
+			<td>80</td>
+			<td>8 uur<br>
+			(dag of nacht)</td>
+			<td>80</td>
+			<td>1 jaar</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>Dagelijks (de hele week)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:2cm">
-			<p>100</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:3cm">
-			<p>24 uur</p>
-
-			<p>(dag en nacht)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:2cm">
-			<p>100</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:3cm">
-			<p>2 jaar</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; vertical-align:top; width:2cm">
-			<p>180</p>
-			</td>
+			<td>80</td>
+			<td>werkdagen</td>
+			<td>90</td>
+			<td>16 uur<br>
+			(buiten schooluren)</td>
+			<td>100</td>
+			<td>20 maanden</td>
+		</tr>
+		<tr>
+			<td>100</td>
+			<td>volledige week</td>
+			<td>100</td>
+			<td>24 uur<br>
+			(dag en nacht)</td>
+			<td>180</td>
+			<td>+ 2 jaar</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
