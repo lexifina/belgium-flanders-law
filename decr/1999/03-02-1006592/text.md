@@ -56,7 +56,7 @@ De havenbedrijven zijn gemachtigd om werken uit te voeren die nodig zijn voor de
 
 ### ART. 12.
 
-Onverminderd artikel 9 van de wet van 19 juni 1978 betreffende het beheer van het linkerscheldeoevergebied ter hoogte van Antwerpen en houdende maatregelen voor het beheer en de exploitatie van de haven van Antwerpen, gewijzigd bij koninklijk besluit nr. 523 van 31 maart 1987, wordt een recht van voorkoop gevestigd ten voordele van het havenbedrijf op private onroerende eigendommen gelegen in een havengebied.<br /><br />De Vlaamse regering bepaalt de nadere regelen voor de uitoefening van dit recht.<br /><br />De bepalingen van titel IV, hoofdstukken I, II en VI, van het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen is van toepassing op dit recht van voorkoop.
+Onverminderd artikel 9 van de wet van 19 juni 1978 betreffende het beheer van het linkerscheldeoevergebied ter hoogte van Antwerpen en houdende maatregelen voor het beheer en de exploitatie van de haven van Antwerpen, gewijzigd bij koninklijk besluit nr. 523 van 31 maart 1987, wordt een recht van voorkoop gevestigd ten voordele van het havenbedrijf op private onroerende eigendommen gelegen in een havengebied.<br /><br />De Vlaamse regering bepaalt de nadere regelen voor de uitoefening van dit recht.<br /><br />De bepalingen van titel IV, hoofdstukken I, II en VI, van het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen is van toepassing op dit recht van voorkoop.<br /><br />Het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten is van toepassing op dit recht van voorkoop.
 
 ### ART. 13.
 

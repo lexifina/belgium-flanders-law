@@ -2,16 +2,16 @@
   "codex_id": 1006592,
   "title": "Decreet van 1999-03-02 houdende het beleid en het beheer van de zeehavens",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006592/VolledigDocument?datum=2012-05-20",
-  "source_sha256": "c257ea852b014e4c7006a189d4b3ce63bfe58f1e706f036a7e856255e780fa51",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006592/VolledigDocument?datum=2012-10-01",
+  "source_sha256": "8f864d3859ede5cb67699a9d3046ebbd2836d971f66ed438973bd003cd036489",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006592&param=informatie",
-  "as_of": "2012-05-20",
+  "as_of": "2012-10-01",
   "made": "1999-03-02",
   "gazette": "1999-04-08",
   "numac": 1999035415,
   "document_start": null,
   "document_end": null,
-  "in_force": "2012-05-20",
+  "in_force": "2012-10-01",
   "article_versions": 55,
-  "record_form": "consolidated version as in force on 2012-05-20; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-10-01; future article versions excluded; article text as the API gives it"
 }
