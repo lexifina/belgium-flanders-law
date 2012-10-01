@@ -2,16 +2,16 @@
   "codex_id": 1015262,
   "title": "Besluit van de Vlaamse Regering van 2006-09-01 houdende de oprichting van de examencommissie van de Vlaamse Gemeenschap voor het voltijds secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015262/VolledigDocument?datum=2011-08-01",
-  "source_sha256": "8a4e821ec4d2b90ab9f311288b8c18cd67a433b0a4035c25584e2b758a5d140b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015262/VolledigDocument?datum=2012-10-01",
+  "source_sha256": "3eb91d0a711d238b0777b9505a0c1453b7981709605d2d5fe99508243afd1f59",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015262&param=informatie",
-  "as_of": "2011-08-01",
+  "as_of": "2012-10-01",
   "made": "2006-09-01",
   "gazette": "2006-12-08",
   "numac": 2006036914,
   "document_start": "2006-01-01",
   "document_end": "2012-09-30",
-  "in_force": "2011-08-01",
+  "in_force": "2012-10-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2011-08-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-10-01; future article versions excluded; article text as the API gives it"
 }
