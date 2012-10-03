@@ -70,6 +70,22 @@ De minister neemt binnen de termijn, vermeld in artikel 126ter, derde lid,   van
 
 ## HOOFDSTUK 4. Contractuele onderhandelingen
 
+### ART. 15.
+
+Schriftelijke contracten als vermeld in artikel 185septies van verordening   (EG) nr. 1234/2007 zijn niet verplicht.
+
+### ART. 16.
+
+Onderhandelingen voor de afzet van producten kunnen gevoerd worden door   een erkende producentenorganisatie of een erkende unie van   producentenorganisaties op voorwaarde dat voldaan is aan de voorwaarden, vermeld   in artikel 126quater van verordening (EG) nr. 1234/2007.
+
+### ART. 17.
+
+<P>Voor de onderhandeling plaats vindt, moeten de producentenorganisaties of de   unies van producentenorganisaties de bevoegde autoriteiten van de lidstaat of   regio waarin de melk geproduceerd wordt, en de lidstaat of regio waar de melk   verhandeld wordt, op de hoogte brengen van het volume rauwe melk waarover ze   willen onderhandelen en de periode waarin de levering zal plaatsvinden,   overeenkomstig artikel 2 van uitvoeringsverordening (EU) nr. 511/2012.<BR></P>  <P>Voor 31 januari van elk kalenderjaar dient elke producentenorganisatie en   unie van producentenorganisaties overeenkomstig artikel 2, derde lid, van   uitvoeringsverordening (EU) nr. 511/2012, een melding te doen van het volume dat   effectief geleverd is onder contracten door de producentenorganisatie tijdens   het afgelopen kalenderjaar.</P>
+
+### ART. 18.
+
+De minister zal regels uitwerken voor een periodieke aanlevering van   leveringsgegevens van individuele melkveehouders om de bevoegde dienst in de   mogelijkheid te stellen de onderhandelingsplafonds, vermeld in artikel   126quater, tweede lid, c), van verordening (EG) nr. 1234/2007 te controleren. De   periodieke aanlevering zal maximaal maandelijks en minimaal jaarlijks   zijn.
+
 ## HOOFDSTUK 5. Aanbodregulering van producten met een beschermde oorsprongsbenaming of een beschermde geografische aanduiding
 
 ### ART. 19.
