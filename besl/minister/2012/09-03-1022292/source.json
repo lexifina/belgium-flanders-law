@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022292,
+  "title": "Ministerieel besluit van 2012-09-03 betreffende de vaststelling van de evaluatiecriteria met betrekking tot de programmatie van de diensten voor oppashulp",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022292/VolledigDocument?datum=2012-10-07",
+  "source_sha256": "3e76ae127696c9d65cc9b92e10208f9ab820e005b7284b95ba4702571ec80e21",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022292&param=informatie",
+  "as_of": "2012-10-07",
+  "made": "2012-09-03",
+  "gazette": "2012-09-27",
+  "numac": 2012205343,
+  "document_start": "2012-10-07",
+  "document_end": "2017-07-12",
+  "in_force": "2012-10-07",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2012-10-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
