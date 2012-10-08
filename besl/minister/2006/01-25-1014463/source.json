@@ -2,16 +2,16 @@
   "codex_id": 1014463,
   "title": "Ministerieel besluit van 2006-01-25 houdende de erkenning van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014463/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "38f843aed7a6225e363df6eca15cf1245980fb02cb66a3144fa00a1f9bd1a566",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014463/VolledigDocument?datum=2012-10-08",
+  "source_sha256": "efe5f8eb876d4257b371fa9b1fb64244abc85bce0c16e5bc3713e0e78b02c63a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014463&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2012-10-08",
   "made": "2006-01-25",
   "gazette": "2006-04-26",
   "numac": 2006035589,
   "document_start": "2006-05-06",
   "document_end": "2012-10-07",
-  "in_force": "2006-06-01",
+  "in_force": "2012-10-08",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-10-08; future article versions excluded; article text as the API gives it"
 }
