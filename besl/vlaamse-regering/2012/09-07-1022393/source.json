@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022393,
+  "title": "Besluit van de Vlaamse Regering van 2012-09-07 betreffende de inwerkingtreding van diverse bepalingen van het decreet van 29 juni 2012 tot wijziging van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn en van diverse bepalingen van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn en betreffende de uitvoering van artikel 280, § 1, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022393/VolledigDocument?datum=2012-10-18",
+  "source_sha256": "9f8413a97186c65087677db7cbd9e3c0c725e3802498d391ef852ffbc486450b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022393&param=informatie",
+  "as_of": "2012-10-18",
+  "made": "2012-09-07",
+  "gazette": "2012-10-18",
+  "numac": 2012036095,
+  "document_start": "2012-10-18",
+  "document_end": null,
+  "in_force": "2012-10-18",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2012-10-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
