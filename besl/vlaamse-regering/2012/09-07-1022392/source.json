@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022392,
+  "title": "Besluit van de Vlaamse Regering van 2012-09-07 betreffende de inwerkingtreding van diverse bepalingen van het Provinciedecreet van 9 december 2005, het decreet van 30 april 2009 tot wijziging van het Provinciedecreet en van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking en het decreet van 29 juni 2012 tot wijziging van het Provinciedecreet van 9 december 2005",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022392/VolledigDocument?datum=2012-10-18",
+  "source_sha256": "38d901a433ad631d4c6c6096969fd5ed3f086e48f22239412140ece5e137ba57",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022392&param=informatie",
+  "as_of": "2012-10-18",
+  "made": "2012-09-07",
+  "gazette": "2012-10-18",
+  "numac": 2012036094,
+  "document_start": "2012-10-18",
+  "document_end": null,
+  "in_force": "2012-10-18",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2012-10-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
