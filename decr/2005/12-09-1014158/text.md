@@ -298,7 +298,7 @@ De provinciegouverneur is belast met de handhaving van de openbare orde in de pr
 
 ### ART. 67.
 
-De Vlaamse Regering kent de eretitels toe onder de voorwaarden die ze vaststelt, en bepaalt de ambtskledij en de onderscheidingstekens van de gedeputeerden.
+De provincieraad kent de eretitels toe aan de gedeputeerden onder de voorwaarden die hij bepaalt. De Vlaamse Regering bepaalt de ambtskledij en de onderscheidingstekens van de gedeputeerden.
 
 ### ART. 68.
 
@@ -1074,7 +1074,7 @@ Onder voorbehoud van de toepassing van andere wettelijke of decretale bepalingen
 
 ### ART. 221.
 
-De beslissing tot oprichting van of deelname in een provinciaal extern   verzelfstandigd agentschap kan niet worden genomen in de loop van een periode   van twaalf maanden voor de datum van de volledige vernieuwing van de   provincieraden.<BR><BR>Elk provinciaal extern verzelfstandigd agentschap legt in   de loop van het eerste jaar na de volledige vernieuwing van de provincieraden   een evaluatieverslag voor aan de provincieraad over de uitvoering van de   beheers- of samenwerkingsovereenkomst sinds de inwerkingtreding ervan. Dat   verslag omvat ook een evaluatie van de verzelfstandiging, waarover de   provincieraad zich binnen drie maanden uitspreekt.<BR><BR>De deputatie houdt een   volledig en geactualiseerd overzicht bij van alle extern verzelfstandigde   agentschappen van de provincie, hun statuten en hun overeenkomsten met de   provincie.
+De beslissing tot oprichting van of deelname in een provinciaal extern   verzelfstandigd agentschap kan niet worden genomen in de loop van een periode   van twaalf maanden voor de datum van de volledige vernieuwing van de   provincieraden. Deze bepaling slaat niet op de omvorming van bestaande   structuren conform artikel 266 van dit decreet, tenzij hierdoor bijkomende taken   van provinciaal belang extern zouden worden verzelfstandigd.<BR><BR>Elk   provinciaal extern verzelfstandigd agentschap legt in de loop van het eerste   jaar na de volledige vernieuwing van de provincieraden een evaluatieverslag voor   aan de provincieraad over de uitvoering van de beheers- of   samenwerkingsovereenkomst sinds de inwerkingtreding ervan. Dat verslag omvat ook   een evaluatie van de verzelfstandiging, waarover de provincieraad zich binnen   drie maanden uitspreekt.<BR><BR>De deputatie houdt een volledig en   geactualiseerd overzicht bij van alle extern verzelfstandigde agentschappen van   de provincie, hun statuten en hun overeenkomsten met de provincie.
 
 ### ART. 222.
 
