@@ -304,7 +304,7 @@ Op verzoek van de burgemeester roept de voorzitter van de gemeenteraad de gemeen
 
 ### ART. 69.
 
-De Vlaamse Regering kent de eretitels toe onder de voorwaarden die ze vaststelt, en bepaalt de ambtskledij en de onderscheidingstekens van de burgemeester en de schepenen.
+De Vlaamse Regering kent de eretitels toe aan de burgemeester onder de voorwaarden die ze bepaalt. De gemeenteraad kent de eretitels toe aan de schepenen onder de voorwaarden die hij bepaalt. De Vlaamse Regering bepaalt de ambtskledij en de onderscheidingstekens van de burgemeester en de schepenen.
 
 ### ART. 70.
 
@@ -1068,7 +1068,7 @@ Onder voorbehoud van de toepassing van andere wettelijke of decretale bepalingen
 
 ### ART. 227.
 
-De beslissing tot oprichting van of deelname in een gemeentelijk extern   verzelfstandigd agentschap kan niet worden genomen in de loop van een periode   van twaalf maanden voor de datum van de volledige vernieuwing van de   gemeenteraden.<BR><BR>Elk gemeentelijk extern verzelfstandigd agentschap legt in   de loop van het eerste jaar na de volledige vernieuwing van de gemeenteraden een   evaluatieverslag voor aan de gemeenteraad over de uitvoering van de beheers- of   samenwerkingsovereenkomst sinds de inwerkingtreding ervan. Dat verslag omvat ook   een evaluatie van de verzelfstandiging, waarover de gemeenteraad zich binnen   drie maanden uitspreekt.<BR><BR>Het college van burgemeester en schepenen houdt   een volledig en geactualiseerd overzicht bij van alle extern verzelfstandigde   agentschappen van de gemeente, hun statuten en hun overeenkomsten met de   gemeente.
+<P>De beslissing tot oprichting van of deelname in een gemeentelijk extern   verzelfstandigd agentschap kan niet worden genomen in de loop van een periode   van twaalf maanden voor de datum van de volledige vernieuwing van de   gemeenteraden. Deze bepaling slaat niet op de omvorming van bestaande structuren   conform artikel 310 van dit decreet, tenzij hierdoor bijkomende taken van   gemeentelijk belang extern zouden worden verzelfstandigd.<BR><BR>Elk   gemeentelijk extern verzelfstandigd agentschap legt in de loop van het eerste   jaar na de volledige vernieuwing van de gemeenteraden een evaluatieverslag voor   aan de gemeenteraad over de uitvoering van de beheers- of   samenwerkingsovereenkomst sinds de inwerkingtreding ervan. Dat verslag omvat ook   een evaluatie van de verzelfstandiging, waarover de gemeenteraad zich binnen   drie maanden uitspreekt.</P>  <P>Het college van burgemeester en schepenen houdt een volledig en   geactualiseerd overzicht bij van alle extern verzelfstandigde agentschappen van   de gemeente, hun statuten en hun overeenkomsten met de   gemeente.</P>
 
 ### ART. 228.
 
