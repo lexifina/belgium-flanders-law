@@ -296,7 +296,7 @@ De bevoegdheden die uitdrukkelijk door of krachtens de wet of het decreet worden
 
 ### ART. 67.
 
-De Vlaamse Regering kent de eretitels toe van de voorzitter van de raad voor maatschappelijk welzijn onder de voorwaarden die ze vaststelt, en bepaalt de ambtskledij en de onderscheidingstekens van de voorzitter van de raad voor maatschappelijk welzijn.
+Voor de randgemeenten bedoeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966, en de gemeente Voeren kent de Vlaamse Regering de eretitel toe van de voorzitters van de raad voor maatschappelijk welzijn onder de voorwaarden die ze vaststelt. De raad voor maatschappelijk welzijn kent de eretitels toe van de voorzitter van de raad voor maatschappelijk welzijn en de ondervoorzitter of ondervoorzitters van de raad voor maatschappelijk welzijn, onder de voorwaarden die hij bepaalt.<br /><br />De Vlaamse Regering bepaalt de ambtskledij en de onderscheidingstekens van de voorzitter van de raad voor maatschappelijk welzijn.
 
 ### ART. 68.
 
