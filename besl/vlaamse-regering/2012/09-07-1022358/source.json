@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022358,
+  "title": "Besluit van de Vlaamse Regering van 2012-09-07 tot wijziging van de artikelen houdende het afsluiten van overeenkomsten van het besluit van de Vlaamse Regering van 16 maart 2007 betreffende de subsidiëring van stadsvernieuwingsprojecten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022358/VolledigDocument?datum=2012-10-19",
+  "source_sha256": "a38eba5f784c7d4fa98defbceadde4024da6d5b1bf353c6d9650b7179dcf8177",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022358&param=informatie",
+  "as_of": "2012-10-19",
+  "made": "2012-09-07",
+  "gazette": "2012-10-09",
+  "numac": 2012205517,
+  "document_start": "2012-10-19",
+  "document_end": null,
+  "in_force": "2012-10-19",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2012-10-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
