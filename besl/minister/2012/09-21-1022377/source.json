@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022377,
+  "title": "Ministerieel besluit van 2012-09-21 houdende de toekenning van een tussenkomst aan het Garantiefonds Sociale Huisvesting voor 2012",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022377/VolledigDocument?datum=2012-10-22",
+  "source_sha256": "d49b02b80670fe277978b7fd5600cd7f3ce5be90a82eb317e0c37e90205c409b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022377&param=informatie",
+  "as_of": "2012-10-22",
+  "made": "2012-09-21",
+  "gazette": "2012-10-12",
+  "numac": 2012205595,
+  "document_start": "2012-10-22",
+  "document_end": null,
+  "in_force": "2012-10-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-10-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
