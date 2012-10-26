@@ -360,6 +360,10 @@ De domeinbeheerder kan om redenen van algemeen belang op elk moment voorwaarden 
 
 De Vlaamse Regering kan, na advies van de VREG, iedere leverancier die elektriciteit of aardgas levert aan afnemers in het Vlaamse Gewest openbaredienstverplichtingen opleggen met betrekking tot :<br />1° de facturatie van het elektriciteits- en aardgasverbruik;<br />2° de informatieverlening;<br />3° de behandeling van klachten van hun klanten;<br />4° maatregelen van sociale aard, zoals beschermingsmaatregelen bij wanbetaling en opzegging van het leveringscontract.
 
+### ART. 4.3.2/1.
+
+Behoudens in de gevallen bepaald door de Vlaamse Regering kan een leverancier niet weigeren een huishoudelijke afnemer te beleveren.<br /><br />Dit artikel treedt in werking op een door de Vlaamse Regering vast te stellen datum.
+
 ## [Afdeling III. Noodleverancier (ing. decr. 16 november 2018, art. 17, I: 24 december 2018)]
 
 ## [Afdeling IV. Gebruik van persoonlijke gegevens door de leverancier (ing. decr. 23 december 2022, art. 17, I: 8 januari 2023)]
