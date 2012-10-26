@@ -2,16 +2,16 @@
   "codex_id": 1022381,
   "title": "Besluit van de Vlaamse Regering van 2012-09-07 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de sociale openbaredienstverplichtingen en de energiescans, en het besluit van de Vlaamse Regering van 23 september 2011 tot wijziging van het besluit van de Vlaamse Regering van 18 december 1992 houdende instelling van een aanpassingspremie en een verbeteringspremie voor woningen en van het Energiebesluit van 19 november 2010",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022381/VolledigDocument?datum=2012-10-01",
-  "source_sha256": "20a195cfdc50a752723639e92742122c5ca2c3b2f5f639fcccdb035108dcb164",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022381/VolledigDocument?datum=2012-10-26",
+  "source_sha256": "1c0921f508edd3996deb28218af35d17bd36573b8e4cd9526d8d26892a5a70e5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022381&param=informatie",
-  "as_of": "2012-10-01",
+  "as_of": "2012-10-26",
   "made": "2012-09-07",
   "gazette": "2012-10-16",
   "numac": 2012205606,
   "document_start": "2012-10-26",
   "document_end": null,
-  "in_force": "2012-10-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2012-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-10-26",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2012-10-26; future article versions excluded; article text as the API gives it"
 }
