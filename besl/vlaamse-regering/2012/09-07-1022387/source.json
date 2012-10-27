@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022387,
+  "title": "Besluit van de Vlaamse Regering van 2012-09-07 tot wijziging van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en tot opheffing van het besluit van de Vlaamse Regering van 7 november 1984 tot aanwijzing, voor het Vlaamse Gewest, van ambtenaren die bevoegd zijn voor het opsporen en vaststellen van de inbreuken op de regelen ter bestrijding van de geluidshinder",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022387/VolledigDocument?datum=2012-10-27",
+  "source_sha256": "cd5e2eec0d7d470a3f2d2d7318b752f6728243ec52574d952bea5cbef6b9ccbd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022387&param=informatie",
+  "as_of": "2012-10-27",
+  "made": "2012-09-07",
+  "gazette": "2012-10-17",
+  "numac": 2012205636,
+  "document_start": "2012-10-27",
+  "document_end": null,
+  "in_force": "2012-10-27",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2012-10-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
