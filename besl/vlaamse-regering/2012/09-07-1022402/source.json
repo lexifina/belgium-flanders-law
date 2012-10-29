@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022402,
+  "title": "Besluit van de Vlaamse Regering van 2012-09-07 tot wijziging van artikelen 76 en 77 van het besluit van de Vlaamse Regering van 19 januari 2007 houdende het statuut van de lokale en provinciale mandataris",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022402/VolledigDocument?datum=2012-10-29",
+  "source_sha256": "1fa2139cfad7275bfa4e9ec3f6ff4da77e897f534e8682e988670ecd30ce9f5c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022402&param=informatie",
+  "as_of": "2012-10-29",
+  "made": "2012-09-07",
+  "gazette": "2012-10-19",
+  "numac": 2012036091,
+  "document_start": "2012-10-29",
+  "document_end": null,
+  "in_force": "2012-10-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-10-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
