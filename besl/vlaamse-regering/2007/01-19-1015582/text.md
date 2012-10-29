@@ -429,11 +429,11 @@ Het lid van de deputatie draagt een sjerp met franjes op een achtergrond met de 
 
 ### ART. 76.
 
-De mannelijke mandatarissen dragen de sjerp om hun middel, waarbij het zwart zich bovenaan bevindt. De vrouwelijke mandatarissen dragen de sjerp over hun rechterschouder met de knoop in hun linkerzijde, waarbij het zwart zich het dichtst bij de hals bevindt.<br /><br />
+De mandatarissen dragen de sjerp om hun middel, waarbij het zwart zich bovenaan bevindt, hetzij over hun rechterschouder, met de knoop in hun linkerzijde, waarbij het zwart zich het dichtst bij de hals bevindt.<br />
 
 ### ART. 77.
 
-De modaliteiten en voorwaarden met betrekking tot de sjerp en het dragen ervan door de burgemeesters en schepenen kunnen nader bepaald worden in een ministerieel besluit.<br /><br />De breedte van de sjerp bedraagt minimum 10 centimeter en maximum 12 centimeter. Het insigne waarin de Vlaamse leeuw is aangebracht en die aangebracht wordt op de sjerp, bedraagt minimum 7 centimeter en maximum 9,5 centimeter in de hoogte en minimum 6 centimeter en maximum 7 centimeter in de breedte. De bovenkant van het insigne wordt aangebracht op 15 centimeter boven de kwast, voor de heren en op 17 centimeter onder de schouder, voor de vrouwen.<br /><br />
+De modaliteiten en voorwaarden met betrekking tot de sjerp en het dragen ervan door de burgemeesters en schepenen kunnen nader bepaald worden in een ministerieel besluit.<br /><br />De breedte van de sjerp bedraagt minimaal 10 centimeter en maximaal 12 centimeter. Het insigne waarin de Vlaamse leeuw is aangebracht en dat aangebracht wordt op de sjerp, bedraagt minimaal 7 centimeter en maximaal 9,5 centimeter in de hoogte en minimaal 6 centimeter en maximaal 7 centimeter in de breedte. De bovenkant van het insigne wordt aangebracht ofwel op 15 centimeter boven de kwast ofwel op 17 centimeter onder de schouder.<br />
 
 ### ART. 78.
 
