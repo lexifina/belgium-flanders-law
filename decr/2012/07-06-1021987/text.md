@@ -1,0 +1,15 @@
+# Decreet van 2012-07-06 tot wijziging van diverse bepalingen van het decreet van 28 april 1998 betreffende het Vlaamse integratiebeleid en het decreet van 30 april 2009 tot wijziging van het decreet van 28 april 1998 inzake het Vlaamse beleid ten aanzien van etnisch-culturele minderheden
+
+## HOOFDSTUK 1. Inleidende bepaling
+
+## HOOFDSTUK 2. Wijzigingsbepalingen
+
+### ART. 14.
+
+Artikel 22 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Art. 22. Artikel 29 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Art. 29. Binnen de beschikbare begrotingskredieten kan de Vlaamse Regering aan steden en gemeenten een integratiesubsidie toekennen.<br /><br />De integratiesubsidie wordt toegekend voor de realisatie van de doelstellingen van het integratiebeleid, zoals vermeld in artikel 4 en 5. De Vlaamse Regering verduidelijkt die doelstellingen en maakt ze bekend als Vlaamse beleidsprioriteiten. ». ».
+
+### ART. 15.
+
+Artikel 23 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Art. 23. Artikel 30 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Art. 30. § 1. De Vlaamse Regering kan voor de toekenning van een integratiesubsidie op basis van de strategische meerjarenplanning van de steden en gemeenten, een prioriteitsstelling opmaken, die met de volgende elementen rekening houdt :<br />1° de aanwezigheid en concentratie van de personen vermeld, in artikel 3, eerste lid, 1° en 2° ;<br />2° de mate waarin een achterstellings- en achterstandsproblematiek voorkomen.<br /><br />De Vlaamse Regering bepaalt objectieve criteria voor de prioriteitsstelling.<br /><br />§ 2. De Vlaamse Regering bepaalt de minimale aanwezigheid en/of concentratie van de personen vermeld in artikel 3, eerste lid, 1° en 2°, om in aanmerking te komen voor de toekenning van een integratiesubsidie.<br /><br />§ 3. De Vlaamse Regering maakt de lijst met de steden en gemeenten die in aanmerking komen voor een integratiesubsidie, bekend. Bij de aanvang van de meerjarenplanning 2014-2019 komen alleen steden en gemeenten, die in het verleden al een subsidie voor een integratiedienst of voor het opstarten van een integratiedienst hebben ontvangen, voor een integratiesubsidie in aanmerking.<br /><br />Bijkomende steden en gemeenten dan die, vermeld in het eerste lid, kunnen alleen voor subsidiëring in aanmerking komen voor zover er voldoende extra middelen op de begroting beschikbaar zijn.<br /><br />In aanvulling op het Planlastendecreet wordt in de mogelijkheid voorzien om, in afwijking van de zesjaarlijkse lokale beleidscyclus tussentijds in te stappen. De Vlaamse Regering bepaalt daartoe de verdere procedure.<br /><br />§ 4. De Vlaamse Regering kan voor de bepaling van het bedrag van de integratiesubsidie regels opstellen die minstens rekening houden met de volgende elementen :<br />1° de aanwezigheid en concentratie van personen als vermeld in artikel 3, eerste lid, 1° en 2° ;<br />2° de mate waarin een achterstellingsen achterstandsproblematiek voorkomen. ». »
+
+## HOOFDSTUK 3. Slotbepalingen
