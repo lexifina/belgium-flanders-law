@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022076,
+  "title": "Decreet van 2012-07-13 tot wijziging van het decreet van 19 maart 2004 betreffende het lokaal sociaal beleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022076/VolledigDocument?datum=2012-10-30",
+  "source_sha256": "2fe088a9a2cf9bf2eb3512b1ef70f5ec799a95e3032833482167bf6ef125decc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022076&param=informatie",
+  "as_of": "2012-10-30",
+  "made": "2012-07-13",
+  "gazette": "2012-08-14",
+  "numac": 2012035953,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2012-10-30",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2012-10-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
