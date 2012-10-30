@@ -198,11 +198,29 @@ De lokale besturen zijn verantwoordelijk voor de uitwerking, de coördinatie en 
 
 ### ART. 29.
 
-§ 1. Binnen de beschikbare begrotingskredieten verleent de Vlaamse regering een subsidie voor de integratiedienst aan de lokale besturen uit het Nederlandse taalgebied, rekening houdende met de concentratie van de doelgroepen, de samenstelling van de bevolking en de aard van de problematiek, op voorwaarde dat de gemeente:<br /><br />1° een ambtenaar aanstelt, die verantwoordelijk is voor het minderhedenbeleid;<br /><br />2° een schepen aanwijst die bevoegd is voor het minderhedenbeleid;<br /><br />3° een gemeentelijk beleidsplan voor lokaal minderhedenbeleid opstelt;<br /><br />4° overleg organiseert binnen de diensten van de gemeentelijke administratie en met de betrokken externe actoren;<br /><br />5° een samenwerkingsovereenkomst afsluit met het provinciale integratiecentrum, of in het voorkomend geval met het lokale integratiecentrum. In deze overeenkomst wordt onder meer een taakverdeling bepaald tussen de integratiedienst en het lokale steunpunt of het provinciale of lokale integratiecentrum, en wordt de onderlinge samenwerking uitgewerkt;<br /><br />6° de participatie van de doelgroepen organiseert;<br /><br />7° een financiële inbreng heeft in de kosten van de werking van de integratiedienst;<br /><br />8° aan de bevolking en aan de doelgroepen informatie verstrekt over het gevoerde beleid;<br /><br />9° een overleg organiseert, waarbij de betrokken doelgroepen een advies uitbrengen over het lokale minderhedenbeleid.<br /><br />§ 2. De gemeenteraad van de gemeente met een erkende integratiedienst of waar een lokaal steunpunt wordt opgericht, brengt advies uit over het meerjarenplan van het integratiecentrum dat voor haar territorium bevoegd is.<br /><br />Het openbaar centrum voor maatschappelijk welzijn kan het initiatief nemen tot de oprichting en het beheer van een integratiedienst met inachtneming van artikel 28 en § 1 van dit artikel en mits het sluiten van een overeenkomst met de gemeente aangaande de uitvoering van het lokale minderhedenbeleid. In dit geval staat het openbaar centrum voor maatschappelijk welzijn in voor de in § 1, 7°, van dit artikel bedoelde financiële inbreng.<br /><br />Een integratiedienst kan een resultaatgerichte groepswerking met de doelgroepen opzetten in afspraak met het integratiecentrum dat voor zijn territorium bevoegd is en mits deze werking in het beleidsplan van de integratiedienst wordt opgenomen.
+Binnen de beschikbare begrotingskredieten kan de Vlaamse Regering aan steden en gemeenten een integratiesubsidie toekennen.<br>
+<br>
+De integratiesubsidie wordt toegekend voor de realisatie van de doelstellingen van het integratiebeleid, zoals vermeld in artikel 4 en 5. De Vlaamse Regering verduidelijkt die doelstellingen en maakt ze bekend als Vlaamse beleidsprioriteiten.
 
 ### ART. 30.
 
-§ 1. Het gemeentelijk beleidsplan voor lokaal minderhedenbeleid wordt opgemaakt op basis van een grondige analyse van de behoeften in de gemeente met opgave van prioriteiten en te behalen resultaten. Het vormt een geïntegreerd geheel met de bestaande beleidsplannen inzake het bestrijden van achterstelling en het verhogen van het welzijn en de leefkwaliteit in de gemeente en met het jeugdwerkbeleidsplan. Het beleidsplan vermeldt tevens hoe voldaan wordt aan de bepalingen van artikel 29, § 1.<br /><br />§ 2. Het beleidsplan wordt opgemaakt voor een periode van drie jaar, in overleg met de vertegenwoordigers van de doelgroepen en hun organisaties, het lokale steunpunt of het provinciale integratiecentrum, in voorkomend geval het lokale integratiecentrum, en de relevante lokale actoren.<br /><br />§ 3. Over het beleidsplan wordt advies gegeven door het provinciale integratiecentrum, in voorkomend geval in overleg met het lokale steunpunt, of door het lokale integratiecentrum en het wordt goedgekeurd door de gemeenteraad.<br /><br />§ 4. De Vlaamse regering bepaalt de nadere regels voor het gemeentelijk beleidsplan, het intern en extern overleg, de samenwerkingsovereenkomst, de participatie van de doelgroepen en de cofinanciering van de integratiedienst.
+§ 1. De Vlaamse Regering kan voor de toekenning van een integratiesubsidie op basis van de strategische meerjarenplanning van de steden en gemeenten, een prioriteitsstelling opmaken, die met de volgende elementen rekening houdt :<br>
+1° de aanwezigheid en concentratie van de personen vermeld, in artikel 3, eerste lid, 1° en 2° ;<br>
+2° de mate waarin een achterstellings- en achterstandsproblematiek voorkomen.<br>
+<br>
+De Vlaamse Regering bepaalt objectieve criteria voor de prioriteitsstelling.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de minimale aanwezigheid en/of concentratie van de personen vermeld in artikel 3, eerste lid, 1° en 2°, om in aanmerking te komen voor de toekenning van een integratiesubsidie.<br>
+<br>
+§ 3. De Vlaamse Regering maakt de lijst met de steden en gemeenten die in aanmerking komen voor een integratiesubsidie, bekend. Bij de aanvang van de meerjarenplanning 2014-2019 komen alleen steden en gemeenten, die in het verleden al een subsidie voor een integratiedienst of voor het opstarten van een integratiedienst hebben ontvangen, voor een integratiesubsidie in aanmerking.<br>
+<br>
+Bijkomende steden en gemeenten dan die, vermeld in het eerste lid, kunnen alleen voor subsidiëring in aanmerking komen voor zover er voldoende extra middelen op de begroting beschikbaar zijn.<br>
+<br>
+In aanvulling op het Planlastendecreet wordt in de mogelijkheid voorzien om, in afwijking van de zesjaarlijkse lokale beleidscyclus tussentijds in te stappen. De Vlaamse Regering bepaalt daartoe de verdere procedure.<br>
+<br>
+§ 4. De Vlaamse Regering kan voor de bepaling van het bedrag van de integratiesubsidie regels opstellen die minstens rekening houden met de volgende elementen :<br>
+1° de aanwezigheid en concentratie van personen als vermeld in artikel 3, eerste lid, 1° en 2° ;<br>
+2° de mate waarin een achterstellingsen achterstandsproblematiek voorkomen.
 
 ### ART. 31.
 
