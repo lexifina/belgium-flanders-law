@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022526,
+  "title": "Besluit van de Vlaamse Regering van 2012-11-09 houdende bepaling van de Vlaamse beleidsprioriteiten voor het gemeentelijk jeugdbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022526/VolledigDocument?datum=2012-10-30",
+  "source_sha256": "3f6fb6e37fcb03f300b6adfea1cac7908fd0fdac5443114e3bb4d7ed283cc6c8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022526&param=informatie",
+  "as_of": "2012-10-30",
+  "made": "2012-11-09",
+  "gazette": "2012-12-11",
+  "numac": 2012206898,
+  "document_start": "2012-10-30",
+  "document_end": "2015-12-31",
+  "in_force": "2012-10-30",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2012-10-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
