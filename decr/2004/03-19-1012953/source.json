@@ -2,16 +2,16 @@
   "codex_id": 1012953,
   "title": "Decreet van 2004-03-19 betreffende het lokaal sociaal beleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012953/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "db2d3725fa2b91d547e5c42c20c4e6ddd996f305e32aab7ac5532ba26ee52e4a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012953/VolledigDocument?datum=2012-10-30",
+  "source_sha256": "20f61c292cb377ae5dc2821b0769d03ee39a8b1814924b03c56834070f8053bf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012953&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2012-10-30",
   "made": "2004-03-19",
   "gazette": "2004-05-12",
   "numac": 2004035638,
   "document_start": null,
   "document_end": "2999-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2012-10-30",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-10-30; future article versions excluded; article text as the API gives it"
 }

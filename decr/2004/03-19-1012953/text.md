@@ -38,7 +38,7 @@ De Vlaamse regering bepaalt in dit verband de nadere regels.
 
 ### ART. 8.
 
-Het lokaal sociaal beleid is gericht op een maximale toegankelijkheid van de dienstverlening voor elke burger en een optimaal bereik van de beoogde doelgroep in het kader van het lokaal sociaal beleid zoals omschreven in artikel 3, 1°.
+Het lokaal sociaal beleid is gericht op een maximale toegankelijkheid van de dienstverlening voor elke burger en een optimaal bereik van de beoogde doelgroep in het kader van het lokaal sociaal beleid zoals omschreven in artikel 3, 1°. De Vlaamse Regering kan deze doelstelling specifieren in de Vlaamse beleidsprioriteiten.
 
 ### ART. 9.
 
