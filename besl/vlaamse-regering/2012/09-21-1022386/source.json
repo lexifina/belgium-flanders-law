@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022386,
+  "title": "Besluit van de Vlaamse Regering van 2012-09-21 tot uitvoering van het decreet van 13 december 2002 tot vaststelling van de regels inzake de werking en de verdeling van het Vlaams Stedenfonds",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022386/VolledigDocument?datum=2012-10-30",
+  "source_sha256": "25098330866b9e0eb7204b0faa7dbd3903a1b76f9f1f29c948f790e7af40d5f0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022386&param=informatie",
+  "as_of": "2012-10-30",
+  "made": "2012-09-21",
+  "gazette": "2012-10-16",
+  "numac": 2012205603,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2012-10-30",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-10-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
