@@ -12,7 +12,7 @@ In dit decreet wordt verstaan onder:<br />1° trekkingsrecht: het recht van een 
 
 ### ART. 3.
 
-§ 1. Er wordt een Stedenfonds ingesteld dat de opdracht heeft om steden en de VGC te ondersteunen bij het voeren van een duurzaam stedenbeleid waarbij stedelijkheid in al zijn dimensies aan bod kan komen.<br /><br />§ 2. De Vlaamse regering voert een stedenbeleid dat erop gericht is de stadsvlucht te stoppen en het democratisch draagvlak in de steden te verhogen. Ze voert dit beleid om, in samenwerking met de steden en de VGC, volgende doelstellingen te bereiken:<br />1° een verhoging van de leefbaarheid van de steden, zowel op stadsniveau als op wijkniveau;<br />2° het tegengaan van dualisering;<br />3° het verhogen van de kwaliteit van het bestuur.
+§ 1. Er wordt een Stedenfonds ingesteld dat de opdracht heeft om steden en de VGC te ondersteunen bij het voeren van een duurzaam stedenbeleid waarbij stedelijkheid in al zijn dimensies aan bod kan komen.<br /><br />§ 2. De Vlaamse regering voert een stedenbeleid dat erop gericht is de stadsvlucht te stoppen en het democratisch draagvlak in de steden te verhogen. Ze voert dit beleid om, in samenwerking met de steden en de VGC, volgende doelstellingen te bereiken:<br />1° een verhoging van de leefbaarheid van de steden, zowel op stadsniveau als op wijkniveau;<br />2° het tegengaan van dualisering;<br />3° het verhogen van de kwaliteit van het bestuur.<br /><br />§ 3. De Vlaamse Regering kan die doelstellingen verduidelijken en bekendmaken als Vlaamse beleidsprioriteiten.
 
 ### ART. 4.
 
