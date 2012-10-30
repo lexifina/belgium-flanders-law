@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022429,
+  "title": "Besluit van de Vlaamse Regering van 2012-10-05 houdende beëindiging van de subsidiëring van loonkosten aan bepaalde initiatieven in de sportsector, die werknemers tewerkstellen in een gewezen DAC-statuut",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022429/VolledigDocument?datum=2012-10-30",
+  "source_sha256": "0c56aa2e516adeaca03799b66c661b1197e6ee624d7812c3510ca649effb3aa0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022429&param=informatie",
+  "as_of": "2012-10-30",
+  "made": "2012-10-05",
+  "gazette": "2012-10-30",
+  "numac": 2012036134,
+  "document_start": "2012-10-30",
+  "document_end": null,
+  "in_force": "2012-10-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-10-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
