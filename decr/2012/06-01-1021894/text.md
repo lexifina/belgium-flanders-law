@@ -4,6 +4,10 @@
 
 ## HOOFDSTUK 2. Wijzigingen in het decreet van 13 december 2002 tot vaststelling van de regels inzake de werking en de verdeling van het Vlaams Stedenfonds
 
+### ART. 4.
+
+Aan artikel 3 van hetzelfde decreet wordt een paragraaf 3 toegevoegd, die luidt als volgt :<br /><br />« § 3. De Vlaamse Regering kan die doelstellingen verduidelijken en bekendmaken als Vlaamse beleidsprioriteiten. ».
+
 ## HOOFDSTUK 3. Slotbepalingen
 
 ### ART. 22.
