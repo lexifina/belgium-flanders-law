@@ -1012,15 +1012,12 @@ De VREG legt de netbeheerder bij het niet-naleven van de termijnen voor het hera
 a) 125 euro per groenestroomcertificaat dat de certificaatplichtige tot en met 31 maart 2012 te weinig heeft ingediend bij de VREG in het kader van de certificatenverplichting, vermeld in artikel 7.1.10;<br>
 b) 118 euro per groenestroomcertificaat dat de certificaatplichtige op 31 maart 2013 te weinig heeft ingediend bij de VREG in het kader van de certificatenverplichting, vermeld in artikel 7.1.10;<br>
 c) 100 euro per groenestroomcertificaat dat de certificaatplichtige na 31 maart 2013 te weinig heeft ingediend bij de VREG in het kader van de certificatenverplichting, vermeld in artikel 7.1.10;<br>
-2° een boete van 41 euro per warmte-krachtcertificaat dat de certificaatplichtige op 31 maart 2013 te weinig heeft ingediend bij de VREG in het kader van de certificatenverplichting, vermeld in artikel 7.1.11, en een boete van 38 euro per warmte-krachtcertificaat dat de certificaatplichtige na 31 maart 2015 te weinig heeft ingediend bij de VREG in het kader van de certificatenverplichting, vermeld in artikel 7.1.11;<br>
+2° een boete van :<br>
+a) 41 euro per warmtekrachtcertificaat dat de certificaatplichtige tot en met 31 maart 2015 te weinig heeft ingediend bij de VREG in het kader van de certificatenverplichting, vermeld in artikel 7.1.11;<br>
+b) 38 euro per warmtekrachtcertificaat dat de certificaatplichtige na 31 maart 2015 te weinig heeft ingediend bij de VREG in het kader van de certificatenverplichting, vermeld in artikel 7.1.11.<br>
 3° een boete van 125 euro per groenewarmtecertificaat dat de certificaatplichtige te weinig heeft ingediend bij de VREG in het kader van de certificatenverplichting, vermeld in artikel 7.2.3.<br>
 <br>
-§ 1/1. <strong><em>[noot: §1/1 werd vernietigd bij arrest Grondwettelijk Hof nr. 154/2013 van 13 november 2013</em></strong>]<br>
-Wanneer de VREG vaststelt dat een leverancier de verplichting, vermeld in artikel 7.1.15, niet respecteert, dan meldt hij dit aan de CREG. Van haar beslissing over het al dan niet behandelen van de melding, bericht de CREG aan de VREG. Een beslissing van de CREG houdende behandeling van het dossier sluit het opleggen van een administratieve geldboete door de VREG uit.<br>
-<br>
-Wanneer de CREG echter te kennen geeft geen stappen te willen ondernemen in reactie op de melding of wanneer de CREG binnen de twaalf maanden volgende op de melding niet reageert, dan start de VREG de procedure voor de eventuele oplegging van een administratieve geldboete, vermeld in het derde lid.<br>
-<br>
-Bij niet-naleving van de verplichting, vermeld in artikel 7.1.15, legt de VREG de betrokken leverancier in dat geval een boete op die gelijk is aan de te veel doorgerekende of de te hoge, op de factuur vermelde kosten, vermenigvuldigd met twee.<br>
+§ 1/1. [...&nbsp;<u>vernietigd bij <a href="https://nl.const-court.be/public/n/2013/2013-154n.pdf">arrest Grondwettelijk Hof nr. 154/2013 van 13 november 2013</a>]</u>.<br>
 <br>
 § 2. De betrokkene kan, indien hij het oneens is met de berekening van de administratieve boete, op straffe van verval binnen de dertig kalenderdagen na de kennisgeving, vermeld in artikel 13.3.1, § 3, de VREG per aangetekende brief op de hoogte brengen van de materiële vergissingen of rekenfouten die bij de berekening gemaakt zouden zijn. Dit bezwaar schorst de termijn bedoeld in artikel 13.3.1, § 4, tot de beslissing van de VREG over het bezwaar, bedoeld in het volgend lid.<br>
 <br>
