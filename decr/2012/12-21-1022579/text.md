@@ -40,6 +40,10 @@
 
 ## HOOFDSTUK 9 Energie
 
+### ART. 44.
+
+In artikel 13.3.5, § 1, van het Energiedecreet van 8 mei 2009 wordt punt   2° vervangen door wat volgt :<BR>« 2° een boete van :<BR>a) 41 euro per   warmtekrachtcertificaat dat de certificaatplichtige tot en met 31 maart 2015 te   weinig heeft ingediend bij de VREG in het kader van de certificatenverplichting,   vermeld in artikel 7.1.11;<BR>b) 38 euro per warmtekrachtcertificaat dat de   certificaatplichtige na 31 maart 2015 te weinig heeft ingediend bij de VREG in   het kader van de certificatenverplichting, vermeld in artikel 7.1.11.   ».<BR>
+
 ## HOOFDSTUK 10 Duurzaam beheer van materiaalkringlopen en afvalstoffen
 
 ## HOOFDSTUK 11 Fonds Waterhuishouding
