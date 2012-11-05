@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022423,
+  "title": "Besluit van de Vlaamse Regering van 2012-10-05 houdende indeling bij de gemeentewegen van de opritten van de bruggen B66, B68, B72, B73 en B77 tussen mp. 66.5 en 77.5 op het grondgebied van de stad Hasselt",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022423/VolledigDocument?datum=2012-11-05",
+  "source_sha256": "cdd0c6011c7215348eb4e5dfb28c00271e4c44009f46d1184a6095555614b0f5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022423&param=informatie",
+  "as_of": "2012-11-05",
+  "made": "2012-10-05",
+  "gazette": "2012-10-26",
+  "numac": 2012205997,
+  "document_start": "2012-11-05",
+  "document_end": null,
+  "in_force": "2012-11-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-11-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
