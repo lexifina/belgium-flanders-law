@@ -67,3 +67,14 @@ In artikel 38, § 5, van hetzelfde decreet, vervangen bij het decreet van 13 jul
 2° de woorden "Lessius Mechelen" worden vervangen door de woorden "Thomas More Mechelen";<br>
 3° de woorden "Lessius Hogeschool" worden vervangen door de woorden "Thomas More Antwerpen".<br>
 &nbsp;
+
+### ART. 7.
+
+Artikel 1, 1°, artikel 2, artikel 5, 1° en artikel 6, 1°, treden in werking op 17 september 2012.<br>
+Artikel 1, 2° en 3°, artikel 3 en 4, artikel 5, 2° en 3°, en artikel 6, 2° en 3°, treden in werking op 24 september 2012.<br>
+&nbsp;
+
+### ART. 8.
+
+De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.<br>
+&nbsp;
