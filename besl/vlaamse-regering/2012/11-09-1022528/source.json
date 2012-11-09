@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022528,
+  "title": "Besluit van de Vlaamse Regering van 2012-11-09 tot toekenning van steun aan audiovisuele werken van het type lange fictie-, documentaire- of animatiefilm, of van animatiereeksen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022528/VolledigDocument?datum=2012-11-09",
+  "source_sha256": "9f238360e81ae7a8e360a24f74f846db9af7dd1e6fdc054875976544352ad3b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022528&param=informatie",
+  "as_of": "2012-11-09",
+  "made": "2012-11-09",
+  "gazette": "2012-12-12",
+  "numac": 2012036231,
+  "document_start": "2012-11-09",
+  "document_end": "2018-02-22",
+  "in_force": "2012-11-09",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2012-11-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
