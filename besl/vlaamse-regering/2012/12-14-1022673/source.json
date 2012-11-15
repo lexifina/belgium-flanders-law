@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022673,
+  "title": "Besluit van de Vlaamse Regering van 2012-12-14 houdende de voorwaarden van de vaststelling en de uitbetaling van de subsidies van de zorgkassen in het kader van de Vlaamse sociale bescherming",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022673/VolledigDocument?datum=2012-11-15",
+  "source_sha256": "5998bfc10980ee00d909d9e44a9ab8b05b9e694ddc516fb51137d80bceee302c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022673&param=informatie",
+  "as_of": "2012-11-15",
+  "made": "2012-12-14",
+  "gazette": "2013-01-25",
+  "numac": 2013200237,
+  "document_start": "2012-11-15",
+  "document_end": null,
+  "in_force": "2012-11-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2012-11-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
