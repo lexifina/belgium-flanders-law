@@ -807,7 +807,7 @@ De Vlaamse Regering zorgt voor een certificatieregeling voor aannemers van herni
 
 ### ART. 11.1.2.
 
-Bij nieuwe gebouwen met een bruikbare vloeroppervlakte groter dan 1 000 m2, wordt voordat met de bouw gestart wordt, de technische, milieutechnische en economische haalbaarheid in aanmerking genomen van alternatieve systemen zoals :<br />1° gedecentraliseerde systemen voor energievoorziening die gebaseerd zijn op hernieuwbare energiebronnen;<br />2° kwalitatieve warmtekrachtinstallatie;<br />3° stads- of blokverwarming of -koeling, indien beschikbaar;<br />4° warmtepompen.<br /><br />De Vlaamse Regering bepaalt de nadere regels voor de bruikbare vloeroppervlakte.
+Bij nieuwe gebouwen wordt, voordat met de bouw gestart wordt, de technische, milieutechnische en economische haalbaarheid in aanmerking genomen van alter- natieve systemen zoals :<br />1° gedecentraliseerde systemen voor energievoorziening die gebaseerd zijn op hernieuwbare energiebronnen;<br />2° kwalitatieve warmte-krachtinstallatie;<br />3° stads- of blokverwarming of -koeling, indien beschikbaar;<br />4° warmtepompen.<br /><br />De Vlaamse Regering kan bepalen dat die haalbaarheidsstudie kan worden verricht voor afzonderlijke gebouwen of groepen van soortgelijke gebouwen of voor soortgelijke ge- bouwen in hetzelfde gebied.
 
 ### ART. 11.1.3.
 
