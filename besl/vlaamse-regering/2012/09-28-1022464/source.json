@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022464,
+  "title": "Besluit van de Vlaamse Regering van 2012-09-28 houdende wijziging van het Energiebesluit van 19 november 2010",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022464/VolledigDocument?datum=2012-11-16",
+  "source_sha256": "4e63fff83ce08c0f2fef6f8a159794a7c66f8be5ef62602c5feec5b08d54320a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022464&param=informatie",
+  "as_of": "2012-11-16",
+  "made": "2012-09-28",
+  "gazette": "2012-11-16",
+  "numac": 2012036160,
+  "document_start": "2012-11-16",
+  "document_end": null,
+  "in_force": "2012-11-16",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2012-11-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
