@@ -1,0 +1,9 @@
+# Ministerieel besluit van 2012-10-10 tot bepaling van het percentage van de anciënniteitsontwikkeling voor de wijziging van de subsidie voor de centra voor kinderzorg en gezinsondersteuning voor 2012
+
+### Aanhef
+
+De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, artikel 8, § 1, gewijzigd bij het decreet van 22 december 2006, artikel 11, eerste lid, artikel 13, § 1, en artikel 13, § 3, gewijzigd bij het decreet van 2 juni 2006;<br /><br />Gelet op het decreet van 23 december 2011 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2012, artikel 150;<br /><br />Gelet op het besluit van de Vlaamse Regering van 1 maart 2002 betreffende de erkenning en de subsidiëring van de centra voor kinderzorg en gezinsondersteuning, artikel 49bis, gewijzigd bij het besluit van de Vlaamse Regering van 28 mei 2004;<br /><br />Gelet op het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de besluiten van de Vlaamse Regering van 24 juli 2009, 4 december 2009, 6 juli 2010, 7 juli 2010, 24 september 2010, 19 november 2010, 13 mei 2011, 10 juni 2011, 9 september 2011 en 24 oktober 2011;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 24 september 2012,<br /><br />Besluit :
+
+### Enig artikel.
+
+Het percentage van de anciënniteitsontwikkeling over de voorbije vijf jaar voor de wijziging van de subsidie voor 2012, vermeld in artikel 48bis, § 4, artikel 49bis, § 1, 4°, en in artikel 49bis, § 2, 4°, van het besluit van de Vlaamse Regering van 1 maart 2002 betreffende de erkenning en de subsidiëring van de centra voor kinderzorg en gezinsondersteuning, wordt bepaald op 0,4923 %.
