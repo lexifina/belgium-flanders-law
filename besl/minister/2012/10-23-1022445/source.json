@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022445,
+  "title": "Ministerieel besluit van 2012-10-23 tot toekenning van een tussenkomst aan de Vlaamse Maatschappij voor Sociaal Wonen met betrekking tot loonlasten voortvloeiend uit akkoorden met de Vlaamse Regering inzake sectorale programmatie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022445/VolledigDocument?datum=2012-11-17",
+  "source_sha256": "abbce48592a521bc72fb1e49da3e80e63c0cbd48c3d42978f07408aa7a0722e0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022445&param=informatie",
+  "as_of": "2012-11-17",
+  "made": "2012-10-23",
+  "gazette": "2012-11-07",
+  "numac": 2012206192,
+  "document_start": "2012-11-17",
+  "document_end": null,
+  "in_force": "2012-11-17",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2012-11-17; oldest version available; future article versions excluded; article text as the API gives it"
+}

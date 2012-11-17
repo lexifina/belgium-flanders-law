@@ -1,0 +1,9 @@
+# Ministerieel besluit van 2012-10-23 tot toekenning van een tussenkomst aan de Vlaamse Maatschappij voor Sociaal Wonen met betrekking tot loonlasten voortvloeiend uit akkoorden met de Vlaamse Regering inzake sectorale programmatie
+
+### Aanhef
+
+De Vlaamse minister van Energie, Wonen, Steden en Sociale Economie,<br /><br />Gelet op het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br /><br />Gelet op het decreet van 23 december 2011 houdende algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2012, gewijzigd bij het decreet van 1 juni 2012 houdende eerste aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2012, het laatst gewijzigd bij het decreet van 13 juli 2012 houdende tweede aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2012;<br /><br />Gelet op het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 14 oktober 2011;<br /><br />Gelet op het besluit van de Vlaamse Regering van 20 juli 2012 houdende de toekenning van rendementsondersteuning voor de tewerkstelling van personen met een arbeidshandicap van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2012;<br /><br />Gelet op het gunstig advies van de Inspectie van Financiën, gegeven op 7 september 2012,<br /><br />Besluit :
+
+### ART. Enig.
+
+Aan de Vlaamse Maatschappij voor Sociaal Wonen wordt een subsidie toegekend van 8.608,00 euro voor het begrotingsjaar 2012. Dit bedrag wordt door het agentschap Wonen-Vlaanderen uitbetaald op rekeningnummer 363-0880144-06 van de Vlaamse Maatschappij voor Sociaal Wonen. De subsidie wordt aangerekend op het begrotingsartikel NE0-1NEF2Z-IS, basisallocatie NE0 NE235 4141 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2012.
