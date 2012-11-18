@@ -2259,3 +2259,7 @@ In artikel 2 van het decreet van 20 februari 2009 betreffende de Hogere Zeevaart
 In het decreet van 19 maart 2004 betreffende de rechtspositieregeling van de student, de medezeggenschap in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs in Vlaanderen worden de volgende artikelen opgeheven :<br />1° artikel VI.9bis, ingevoegd bij het decreet van 22 december 2006;<br />2° artikel VI.9ter, ingevoegd bij het decreet van 22 december 2006 en gewijzigd bij de decreten van 29 juni 2007, 21 december 2007 en 23 december 2010; 3° artikel VI.9quater tot en met VI.9septies, ingevoegd bij het decreet van 22 december 2006.<br /><br />
 
 ## TITEL 6 Inwerkingtreding
+
+### ART. 161.
+
+§ 1. Titel 1 en titel 2 van dit decreet treden in werking vanaf het academiejaar 2013-2014, met uitzondering van artikel 44 dat in werking treedt met ingang van het academiejaar 2012-2013. Titel 3 treedt in werking op de datum van de bekrachtiging door de Vlaamse Regering. Titel 4 en titel 5 treden in werking op 1 januari 2012, met uitzondering van artikel 136 dat in werking treedt op 1 januari 2013.<br /><br />§ 2. Bij ontstentenis van de bekrachtiging van een wet die de onderwijsniveaus wijzigt, op de in paragraaf 1 vermelde data van inwerkingtreding, treedt dit decreet pas in werking op de dag van bekrachtiging van deze wet, met uitzondering van artikel 44 dat zeker in werking treedt met ingang van het academiejaar 2012-2013.<br /><br />
