@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022456,
+  "title": "Besluit van de Vlaamse Regering van 2012-10-05 tot wijziging van het Tweede Waarborgbesluit van 18 februari 2005, het Derde Waarborgbesluit van 27 mei 2005, het Vierde Waarborgbesluit van 27 maart 2009 en het Vijfde Waarborgbesluit van 16 december 2011",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022456/VolledigDocument?datum=2012-11-22",
+  "source_sha256": "1a7b632c05dbd0df9ed4c0db9f14db54634981231ce40303dcdd625d220be268",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022456&param=informatie",
+  "as_of": "2012-11-22",
+  "made": "2012-10-05",
+  "gazette": "2012-11-12",
+  "numac": 2012036137,
+  "document_start": "2012-11-22",
+  "document_end": null,
+  "in_force": "2012-11-22",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2012-11-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
