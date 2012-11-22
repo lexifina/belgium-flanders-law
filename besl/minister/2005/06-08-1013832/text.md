@@ -4,7 +4,14 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° werkdag : elke dag waarop in België de bankkantoren geopend zijn, behalve zaterdag, zondag of een wettelijke feestdag;<br />2° eerdere oproepen : één of meerdere oproepen die binnen een termijn van twintig maanden voor de publicatie van de desbetreffende oproep gepubliceerd werden en die gericht waren op ondernemingen die tot de doelgroep van de desbetreffende oproep behoren;<br />3° toegekend waarborgbedrag : het voorwaardelijke waarborgbedrag dat ter uitvoering van een bepaalde oproep aan een waarborghouder wordt toegekend, rekening houdend met de verdeling en eventuele latere terugname en/of herverdelingen, zoals gepubliceerd in het Belgisch Staatsblad ;<br />4° nieuwe kandidaat-waarborghouder : een kandidaat-waarborghouder aan wie naar aanleiding van eerdere oproepen nog geen waarborgen werden toegekend;<br />5° gebruikt waarborgbedrag : het totale bedrag aan verbintenissen van K.M.O.'s waarvoor door een bepaalde waarborghouder een formulier B is ingediend, dat door Waarborgbeheer NV is ontvangen en dat op een in dit besluit te bepalen datum niet de status « geweigerd » of « zonder voorwerp » heeft.<br /><br />De definities, vermeld in artikel 2 van het Waarborgdecreet, in artikel 1 en 31 van het Derde Waarborgbesluit, en in artikel 1, punt 2, van de de-minimisverordening, zijn ook van toepassing in dit besluit.
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° werkdag : elke dag waarop in België de bankkantoren geopend zijn, behalve zaterdag, zondag of een wettelijke feestdag;<br>
+2° eerdere oproepen : één of meerdere oproepen die binnen een termijn van vierentwintig maanden voor de publicatie van de desbetreffende oproep gepubliceerd werden en die gericht waren op ondernemingen die tot de doelgroep van de desbetreffende oproep behoren;<br>
+3° toegekend waarborgbedrag : het voorwaardelijke waarborgbedrag dat ter uitvoering van een bepaalde oproep aan een waarborghouder wordt toegekend, rekening houdend met de verdeling en eventuele latere terugname en/of herverdelingen, zoals gepubliceerd in het Belgisch Staatsblad ;<br>
+4° nieuwe kandidaat-waarborghouder : een kandidaat-waarborghouder aan wie naar aanleiding van eerdere oproepen nog geen waarborgen werden toegekend;<br>
+5° gebruikt waarborgbedrag : het totale bedrag aan verbintenissen van K.M.O.'s waarvoor door een bepaalde waarborghouder een formulier B is ingediend, dat door Waarborgbeheer NV is ontvangen en dat op een in dit besluit te bepalen datum niet de status « geweigerd » of « zonder voorwerp » heeft.<br>
+<br>
+De definities, vermeld in artikel 2 van het Waarborgdecreet, in artikel 1 en 31 van het Derde Waarborgbesluit, en in artikel 1, punt 2, van de de-minimisverordening, zijn ook van toepassing in dit besluit.
 
 ### ART. 2.
 
