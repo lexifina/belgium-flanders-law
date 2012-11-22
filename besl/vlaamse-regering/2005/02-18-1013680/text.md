@@ -4,7 +4,21 @@
 
 ### ART. 1.
 
-§ 1. Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de-minimisverordening : verordening (EG) nr. 1998/2006 van de Commissie van 15 december 2006, gepubliceerd in het Publicatieblad van de Europese Unie op 28 december 2006 in L379/5, betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun, de latere wijzigingen ervan en elke latere akte die deze verordening vervangt;<br />2° Waarborgdecreet : het decreet van 6 februari 2004 betreffende een waarborgregeling voor kleine, middelgrote en grote ondernemingen, met inbegrip van alle latere wijzigingen;<br />3° minister: de Vlaamse minister, bevoegd voor het Economisch Beleid;<br />4° premie: een premie als bedoeld in artikel 6, § 1, van het Waarborgdecreet;<br />5° raamovereenkomst: bilaterale overeenkomst tussen de waarborghouder en Waarborgbeheer N.V. waarin, rekening houdend met de bepalingen van het Waarborgdecreet en de uitvoeringsmaatregelen ervan, nadere voorwaarden voor de waarborgen worden geregeld;<br />6° onder toepassing van een waarborg brengen: de mededeling door een waarborghouder aan Waarborgbeheer N.V. dat, wat hem betreft, een financieringsovereenkomst of andere verrichting voldoet aan de voorwaarden bepaald in het Waarborgdecreet en de uitvoeringsmaatregelen ervan, zodat, op het ogenblik dat de kredietnemer in gebreke blijft om de uit die financieringsovereenkomst of andere verrichting voortvloeiende verbintenissen aan de waarborghouder te betalen, op grond van de waarborg, de betaling vanwege het Vlaamse Gewest van de verbintenissen van de kredietnemer kan worden gevorderd, gevolgd door de registratie van die mededeling en de premiebetaling in overeenstemming met de bepalingen van dit besluit;<br />7° een afroep van een waarborg: het onder toepassing van een waarborg, formeel vorderen van de betaling vanwege het Vlaamse Gewest van verbintenissen die voortvloeien uit hetzij een financieringsovereenkomst, hetzij een andere verrichting als bedoeld in dit besluit;<br />8° wet van 16 januari 2003: wet van 16 januari 2003 tot oprichting van een Kruispuntbank van Ondernemingen, tot modernisering van het handelsregister, tot oprichting van erkende ondernemingsloketten en houdende diverse bepalingen;<br />9° de totale verbintenissen van de kredietnemer: het geheel van de verbintenissen van de kredietnemer die voortvloeien uit een financieringsovereenkomst of andere verrichting;<br />10° verbintenissen van de kredietnemer: het gedeelte van de totale verbintenissen van de kredietnemer dat overeenstemt met het percentage dat de waarborghouder met toepassing van dit besluit meedeelt aan Waarborgbeheer N.V.;<br />11° kredietnemer : een kleine, middelgrote en grote onderneming. <br /><br />§ 2. De definities, vermeld in artikel 1, punt 2 van de de-minimisverordening en in artikel 2 van het Waarborgdecreet, zijn eveneens van toepassing in dit besluit.
+§ 1. Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° de-minimisverordening : verordening (EG) nr. 1998/2006 van de Commissie van 15 december 2006, gepubliceerd in het Publicatieblad van de Europese Unie op 28 december 2006 in L379/5, betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun, de latere wijzigingen ervan en elke latere akte die deze verordening vervangt;<br>
+2° Waarborgdecreet : het decreet van 6 februari 2004 betreffende een waarborgregeling voor kleine, middelgrote en grote ondernemingen, met inbegrip van alle latere wijzigingen;<br>
+3° minister: de Vlaamse minister, bevoegd voor het Economisch Beleid;<br>
+4° premie: een premie als bedoeld in artikel 6, § 1, van het Waarborgdecreet;<br>
+5° raamovereenkomst: bilaterale overeenkomst tussen de waarborghouder en Waarborgbeheer N.V. waarin, rekening houdend met de bepalingen van het Waarborgdecreet en de uitvoeringsmaatregelen ervan, nadere voorwaarden voor de waarborgen worden geregeld;<br>
+6° onder toepassing van een waarborg brengen: de mededeling door een waarborghouder aan Waarborgbeheer N.V. dat, wat hem betreft, een financieringsovereenkomst of andere verrichting voldoet aan de voorwaarden bepaald in het Waarborgdecreet en de uitvoeringsmaatregelen ervan, zodat, op het ogenblik dat de kredietnemer in gebreke blijft om de uit die financieringsovereenkomst of andere verrichting voortvloeiende verbintenissen aan de waarborghouder te betalen, op grond van de waarborg, de betaling vanwege het Vlaamse Gewest van de verbintenissen van de kredietnemer kan worden gevorderd, gevolgd door de registratie van die mededeling en de premiebetaling in overeenstemming met de bepalingen van dit besluit;<br>
+7° een afroep van een waarborg: het onder toepassing van een waarborg, formeel vorderen van de betaling vanwege het Vlaamse Gewest van verbintenissen die voortvloeien uit hetzij een financieringsovereenkomst, hetzij een andere verrichting als bedoeld in dit besluit;<br>
+8° wet van 16 januari 2003: wet van 16 januari 2003 tot oprichting van een Kruispuntbank van Ondernemingen, tot modernisering van het handelsregister, tot oprichting van erkende ondernemingsloketten en houdende diverse bepalingen;<br>
+9° de totale verbintenissen van de kredietnemer: het geheel van de verbintenissen van de kredietnemer die voortvloeien uit een financieringsovereenkomst of andere verrichting;<br>
+10° verbintenissen van de kredietnemer: het gedeelte van de totale verbintenissen van de kredietnemer dat overeenstemt met het percentage dat de waarborghouder met toepassing van dit besluit meedeelt aan Waarborgbeheer N.V.;<br>
+11° kredietnemer : een kleine, middelgrote en grote onderneming;<br>
+12° bijkomend financieel risico : bijkomende toegestane omloop op de onderneming die gecreëerd wordt door het toekennen van een nieuwe financieringsovereenkomst, of andere verrichting of door een verlenging of verhoging van een nieuwe financieringsovereenkomst of andere verrichting.<br>
+<br>
+§ 2. De definities, vermeld in artikel 1, punt 2 van de de-minimisverordening en in artikel 2 van het Waarborgdecreet, zijn eveneens van toepassing in dit besluit.
 
 ## HOOFDSTUK II MODALITEITEN EN PROCEDURE VAN TOEKENNING VAN WAARBORGEN
 
@@ -71,6 +85,26 @@ De verbintenissen van de kredietnemer, voortvloeiend uit financieringsovereenkom
 <br>
 Een herorganisatie of herschikking van reeds bestaande of toegestane kredieten waarbij het risico verplaatst wordt ten nadele van het Vlaamse Gewest, kan niet onder de toepassing van de waarborg gebracht worden.
 
+### ART. 7/1.
+
+Met behoud van de toepassing van de bepalingen van het Waarborgdecreet en van de bepalingen van artikel 7, § 2, tweede lid, van dit besluit, kunnen de verbintenissen van de kredietnemer die voortvloeien uit de onderstaande categorieën van financieringsovereenkomsten, die voldoen aan de voorwaarden in het Waarborgdecreet en de uitvoeringsmaatregelen ervan, onder toepassing van een waarborg worden gebracht :<br>
+1° financieringsovereenkomsten of andere verrichtingen die zijn toegestaan met het oog op het herstel of de wedersamenstelling van het bedrijfskapitaal en die bestemd zijn voor de betaling van leveranciersschulden die maximaal twaalf maanden voor de ondertekening van de authentieke akte of, bij ontstentenis daarvan, van de onderhandse akte of andere documenten waarin ze zijn vervat, zijn ontstaan;<br>
+2° financieringsovereenkomsten of andere verrichtingen die betrekking hebben op bedrijfskapitaal en die zijn toegestaan als een verlenging van een bestaande financieringsovereenkomst of andere verrichting waarvoor al een waarborg werd toegekend vanaf het verstrijken van de duurtijd ervan;<br>
+3° financieringsovereenkomsten of andere verrichtingen die betrekking hebben op bedrijfskapitaal en die zijn toegestaan als een verhoging van een bestaande financieringsovereenkomst of andere verrichting;<br>
+4° financieringsovereenkomsten of andere verrichtingen waarvoor al een waarborg werd toegekend met toepassing van hoofdstuk II van het Waarborgdecreet en die worden vervangen door een nieuwe overeenkomst, waarbij de oorspronkelijke risicoverdeling, de duurtijd van de oorspronkelijke waarborg en het waarborgbedrag gelijk blijven;<br>
+5° financieringsovereenkomsten of andere verrichtingen die strekken tot de verlenging van een financieringsovereenkomst of andere verrichting waarvoor al een waarborg werd toegekend met toepassing van hoofdstuk II van het Waarborgdecreet en die bij punt 2° niet kunnen worden ondergebracht.<br>
+<br>
+Voor de waarborg voor de verbintenissen van de kredietnemer die voortvloeien uit financieringsovereenkomsten of andere verrichtingen als vermeld in het eerste lid, gelden de volgende termijnen :<br>
+1° de waarborg, vermeld in het eerste lid, 1°, wordt toegestaan voor de duur van de toegestane financiering en de totale periode van de waarborg kan maximaal vijf jaar bedragen;<br>
+2° de waarborg, vermeld in het eerste lid, 2°, 3° en 5°, wordt toegestaan voor de periode waarvoor de verlenging of verhoging wordt toegestaan. De totale periode van de waarborg kan in totaal maximaal vijf jaar bedragen, eerdere periodes van verlenging of verhoging inbegrepen;<br>
+3° de waarborg, vermeld in het eerste lid, 4°, wordt toegestaan voor de duur van de toegestane financiering.<br>
+<br>
+De verbintenissen van de kredietnemer die voortvloeien uit de categorieën van financieringsovereenkomsten of andere verrichtingen, vermeld in het eerste lid, kunnen alleen onder toepassing van een waarborg worden gebracht in geval van crisis die bij besluit van de Vlaamse Regering als dusdanig is erkend als vermeld in artikel 6, § 3, van het Waarborgdecreet. De Vlaamse Regering bepaalt per specifieke doelgroep de soort van financieringsovereenkomsten of andere verrichtingen als vermeld in het eerste lid, waaraan een waarborg kan gehecht worden.<br>
+<br>
+Opdat de verbintenissen van de kredietnemer die voortvloeien uit de financieringsovereenkomsten of andere verrichtingen, vermeld in het eerste lid, onder de toepassing van een waarborg zouden kunnen worden gebracht, moet de waarborghouder een bijkomend financieel risico op de kredietnemer nemen.<br>
+<br>
+Opdat de verbintenissen van de kredietnemer die voortvloeien uit de financieringsovereenkomsten of andere verrichtingen, vermeld in het eerste lid, 2° tot en met 5°, onder de toepassing van een waarborg zouden kunnen worden gebracht, moeten alle gevestigde waarborgen uit de oorspronkelijke overeenkomst behouden blijven, tenzij er een voorafgaand akkoord is van Waarborgbeheer NV.
+
 ### ART. 8.
 
 § 1. De verbintenissen van de kredietnemer kunnen slechts onder toepassing van een waarborg worden gebracht, indien ze voortvloeien uit financieringsovereenkomsten of andere verrichtingen die voldoen aan de volgende voorwaarden:<br>
@@ -114,25 +148,41 @@ Het modelformulier bedoeld in het eerste lid moet ervoor zorgen dat over een aan
 
 ### ART. 10.
 
-Om verbintenissen van de kredietnemer onder de toepassing van zijn waarborg te brengen, meldt de waarborghouder de financieringsovereenkomst of een andere verrichting aan binnen een termijn van drie maanden na de ondertekening van de authentieke akte en, bij ontstentenis daarvan, van de onderhandse akte of de andere documenten waarin ze zijn vervat. De aanmelding gebeurt bij Waarborgbeheer NV door middel van een correct ingevuld formulier als vermeld in artikel 9.<br /><br />De minister bepaalt de praktische wijze van indiening van het formulier, vermeld in artikel 9.
+Om verbintenissen van de kredietnemer onder de toepassing van zijn waarborg te brengen, meldt de waarborghouder de financieringsovereenkomst of andere verrichting aan binnen een termijn van drie maanden na de ondertekening van de authentieke akte en, bij ontstentenis daarvan, van de onderhandse akte of de andere documenten waarin ze zijn vervat. De aanmelding gebeurt bij Waarborgbeheer NV door middel van een correct ingevuld formulier als vermeld in artikel 9, of via een gewijzigd delgingsprogramma, voor de financieringsovereenkomsten of andere verrichtingen, vermeld in artikel 7/1, eerste lid, 2°, 4° en 5°.<br>
+<br>
+De minister bepaalt de praktische wijze van indiening van het formulier, vermeld in artikel 9 of van het gewijzigde delgingsprogramma, voor de financieringsovereenkomsten of andere verrichtingen, vermeld in artikel 7/1, eerste lid, 2°, 4° en 5°.
 
 ### ART. 11.
 
-§ 1. Onverminderd het bepaalde in het Waarborgdecreet en de uitvoeringsmaatregelen ervan vermeldt het ingediende formulier ten minste de volgende gegevens:<br />1° de identificatie van de waarborg van de waarborghouder, onder toepassing waarvan verbintenissen van de kredietnemer worden gebracht;<br />2° het bedrag, in hoofdsom, van de totale verbintenissen van de kredietnemer;<br />3° het door de waarborghouder gekozen percentage op basis waarvan de verbintenissen van de kredietnemer, in hoofdsom, die onder toepassing van de waarborg zullen worden gebracht, berekend worden;<br />4° het bedrag van de verbintenissen van de kredietnemer, in hoofdsom, dat, rekening houdend met de voorgaande elementen, volgens de berekening van de waarborghouder, onder toepassing van de waarborg zal worden gebracht;<br />5° de duurtijd waarvoor verbintenissen van de kredietnemer onder toepassing van de waarborg worden gebracht en die in geen geval langer kan zijn dan de resterende geldingsduur van de waarborg van de waarborghouder;<br />6° het totale bedrag van de verbintenissen van de kredietnemer dat, rekening houdend met de voorgaande elementen, volgens de berekening van de waarborghouder, onder toepassing van de waarborg zal worden gebracht;<br />7° de duurtijd van de financieringsovereenkomst of andere verrichting;<br />8° het delgingsprogramma gehanteerd in het kader van de financieringsovereenkomst of andere verrichting.<br /><br />§ 2. In geval van neerlegging van een kaderovereenkomst, zoals bedoeld in artikel 7, § 1, 4°, dient het totale bedrag van alle betrokken voorwerpen te worden vermeld, alsmede voor elk betrokken voorwerp de gegevens, vermeld in § 1.<br /><br />§ 3. Het percentage, bedoeld in § 1, 3° bedraagt ten hoogste 75 %.
+§ 1. Onverminderd het bepaalde in het Waarborgdecreet en de uitvoeringsmaatregelen ervan vermeldt het ingediende formulier ten minste de volgende gegevens:<br>
+1° de identificatie van de waarborg van de waarborghouder, onder toepassing waarvan verbintenissen van de kredietnemer worden gebracht;<br>
+2° het bedrag, in hoofdsom, van de totale verbintenissen van de kredietnemer;<br>
+3° het door de waarborghouder gekozen percentage op basis waarvan de verbintenissen van de kredietnemer, in hoofdsom, die onder toepassing van de waarborg zullen worden gebracht, berekend worden;<br>
+4° het bedrag van de verbintenissen van de kredietnemer, in hoofdsom, dat, rekening houdend met de voorgaande elementen, volgens de berekening van de waarborghouder, onder toepassing van de waarborg zal worden gebracht;<br>
+5° de duurtijd waarvoor verbintenissen van de kredietnemer onder toepassing van de waarborg worden gebracht en die in geen geval langer kan zijn dan de resterende geldingsduur van de waarborg van de waarborghouder;<br>
+6° het totale bedrag van de verbintenissen van de kredietnemer dat, rekening houdend met de voorgaande elementen, volgens de berekening van de waarborghouder, onder toepassing van de waarborg zal worden gebracht;<br>
+7° de duurtijd van de financieringsovereenkomst of andere verrichting;<br>
+8° het delgingsprogramma gehanteerd in het kader van de financieringsovereenkomst of andere verrichting.<br>
+<br>
+§ 2. In geval van neerlegging van een kaderovereenkomst, zoals bedoeld in artikel 7, § 1, 4°, dient het totale bedrag van alle betrokken voorwerpen te worden vermeld, alsmede voor elk betrokken voorwerp de gegevens, vermeld in § 1.<br>
+<br>
+§ 3. De minister kan per specifieke doelgroep of per soort van financieringsovereenkomst of andere verrichting het percentage, vermeld in paragraaf 1, 3°, bepalen. Het percentage, vermeld in paragraaf 1, 3°, bedraagt ten hoogste 75 %.
 
 ## AFDELING 2 ADMINISTRATIEVE VERWERKING VAN DE AANGEMELDE DOSSIERS DOOR WAARBORGBEHEER N.V.
 
 ### ART. 12.
 
-Waarborgbeheer N.V. gaat na of het formulier, bedoeld in artikel 9, vanuit formeel oogpunt volledig en correct is ingevuld. Daarnaast onderzoekt Waarborgbeheer N.V. of de registratie van de financieringsovereenkomst of andere verrichting niet tot gevolg zou hebben dat het maximumbedrag, bedoeld in artikel 8, § 5, overschreden wordt. In voorkomend geval wordt de registratie geweigerd en wordt de reden hiervan meegedeeld aan de waarborghouder. Hij kan vervolgens de financieringsovereenkomst of andere verrichting opnieuw aanmelden, op voorwaarde dat door de registratie van die nieuwe melding het voormelde maximumbedrag niet overschreden wordt.
+Waarborgbeheer NV gaat na of het formulier, vermeld in artikel 9, of het gewijzigde delgingsprogramma, vermeld in artikel 10, vanuit formeel oogpunt volledig en correct zijn ingevuld. Daarnaast onderzoekt Waarborgbeheer NV of de registratie van de financieringsovereenkomst of andere verrichting niet tot gevolg zou hebben dat het maximumbedrag, vermeld in artikel 8, § 5, overschreden wordt. In voorkomend geval wordt de registratie geweigerd en wordt de reden daarvan meegedeeld aan de waarborghouder. Hij kan vervolgens de financieringsovereenkomst of andere verrichting opnieuw aanmelden, op voorwaarde dat door de registratie van die nieuwe melding het voormelde maximumbedrag niet overschreden wordt.
 
 ### ART. 13.
 
-Waarborgbeheer N.V. beschikt over een periode van tien werkdagen, te rekenen vanaf de ontvangst van het formulier, bedoeld in artikel 9, om een van de beslissingen bedoeld in artikel 12 te nemen en die, op de wijze die de minister bepaalt, aan de waarborghouder mee te delen.
+Waarborgbeheer NV beschikt over een periode van tien werkdagen, te rekenen vanaf de ontvangst van het formulier, vermeld in artikel 9, of het gewijzigde delgingsprogramma, vermeld in artikel 10, om een van de beslissingen, vermeld in artikel 12, te nemen en die, op de wijze die de minister bepaalt, aan de waarborghouder mee te delen.
 
 ### ART. 14.
 
-Nadat is beslist dat een met toepassing van artikel 10 aangemelde financieringsovereenkomst of andere verrichting wordt geregistreerd, opent Waarborgbeheer N.V. een dossier over die financieringsovereenkomst of andere verrichting.<br /><br />Aan elk dossier als bedoeld in het eerste lid wordt een apart volgnummer toegekend.
+Nadat is beslist dat een met toepassing van artikel 10 aangemelde financieringsovereenkomst of andere verrichting wordt geregistreerd, opent Waarborgbeheer N.V. een dossier over die financieringsovereenkomst of andere verrichting.<br>
+<br>
+Aan elk dossier als vermeld in het eerste lid, wordt een apart volgnummer toegekend, behalve als de aanmelding alleen gebeurde op basis van een gewijzigd delgingsprogramma. Het volgnummer van de financieringsovereenkomsten of andere verrichtingen die al onder de toepassing van de waarborg vallen, wordt in die gevallen behouden.
 
 ## AFDELING 3 PREMIES INZAKE DE GEREGISTREERDE DOSSIERS
 
@@ -140,11 +190,15 @@ Nadat is beslist dat een met toepassing van artikel 10 aangemelde financieringso
 
 ### ART. 15.
 
-Voor elke geregistreerde financieringsovereenkomst of andere verrichting als bedoeld in artikel 14 is de waarborghouder een premie verschuldigd.
+Voor elke geregistreerde financieringsovereenkomst of andere verrichting als vermeld in artikel 14, is de waarborghouder een premie verschuldigd. Voor de financieringsovereenkomsten of andere verrichtingen, vermeld in artikel 7/1, eerste lid, 4°, is de waarborghouder geen premie verschuldigd.
 
 ### ART. 16.
 
-§ 1. De minister legt de premie, vermeld in artikel 15, vast per soort van financieringsovereenkomst en andere verrichting en, in voorkomend geval, per specifieke doelgroep.<br /><br />§ 2. De premie mag minimum 0,25% en maximum 0,75 % van het resultaat van de volgende formule bedragen: (het bedrag, bedoeld in artikel 11, § 1, 4°) X (de duurtijd in jaren, bedoeld in artikel 11, § 1, 5°)<br /><br />Ingeval de duurtijd in jaren, bedoeld in artikel 11, § 1, 5°, meer bedraagt dan 10, wordt in de voormelde formule slechts 10 jaar in rekening gebracht.
+§ 1. De minister legt het premiepercentage vast per specifieke doelgroep of per soort van financieringsovereenkomst of andere verrichting.<br>
+<br>
+§ 2. De premie is het resultaat van de volgende formule : het premiepercentage, vermeld in paragraaf 1, vermenigvuldigd met het bedrag, vermeld in artikel 11, § 1, 4°, vermenigvuldigd met de duurtijd in jaren, vermeld in artikel 11, § 1, 5°.<br>
+<br>
+Als de duurtijd in jaren, vermeld in artikel 11, § 1, 5°, meer bedraagt dan tien, wordt in de formule, vermeld in het eerste lid, maar tien jaar in rekening gebracht.
 
 ## ONDERAFDELING 2 VOORWAARDEN VAN BETALING VAN DE PREMIE
 
@@ -156,13 +210,23 @@ De minister bepaalt de nadere voorwaarden van de betaling van de premie, bedoeld
 
 ### ART. 18.
 
-§ 1. Indien een kredietnemer in gebreke is gebleven om zijn verbintenissen die onder toepassing van een waarborg werden gebracht, na te komen, is de waarborghouder in kwestie pas gerechtigd om de waarborg af te roepen, mits hij binnen een maand na de registratie van de financieringsovereenkomst of andere verrichting in kwestie de premie met betrekking tot die financieringsovereenkomst, of andere verrichting, heeft betaald.<br /><br />De waarborghouder kan binnen de termijn van een maand, bedoeld in het eerste lid, op gemotiveerde wijze, bij Waarborgbeheer N.V., om een eenmalige verlenging van die termijn verzoeken.<br /><br />Waarborgbeheer N.V. bepaalt zelf de duurtijd van de verlenging, bedoeld in het tweede lid, die evenwel niet meer dan zes maanden mag bedragen.<br /><br />Onverminderd het bepaalde in § 2, tweede lid, wordt ingeval de verlenging wordt geweigerd, bij het verstrijken van de termijn, bedoeld in het eerste lid, de neerlegging van het formulier, bedoeld in artikel 9 zonder voorwerp.<br /><br />§ 2. Indien Waarborgbeheer N.V. de betaling van de premie niet heeft ontvangen binnen de termijn, bedoeld in § 1, eerste lid, rekening houdend met een eventuele verlenging ervan, en de waarborghouder evenmin tijdig om de verlenging van de termijn heeft verzocht, wordt de indiening van het formulier, bedoeld in artikel 9 zonder voorwerp.<br /><br />In een dergelijk geval kan de waarborghouder de verbintenissen van de kredietnemer slechts onder toepassing van zijn waarborg brengen door de indiening van een nieuw ingevuld formulier volgens de procedure bepaald in dit besluit.
+§ 1. Indien een kredietnemer in gebreke is gebleven om zijn verbintenissen die onder toepassing van een waarborg werden gebracht, na te komen, is de waarborghouder in kwestie pas gerechtigd om de waarborg af te roepen, mits hij binnen een maand na de registratie van de financieringsovereenkomst of andere verrichting in kwestie de premie met betrekking tot die financieringsovereenkomst, of andere verrichting, heeft betaald.<br>
+<br>
+De waarborghouder kan binnen de termijn van een maand, bedoeld in het eerste lid, op gemotiveerde wijze, bij Waarborgbeheer N.V., om een eenmalige verlenging van die termijn verzoeken.<br>
+<br>
+Waarborgbeheer N.V. bepaalt zelf de duurtijd van de verlenging, bedoeld in het tweede lid, die evenwel niet meer dan zes maanden mag bedragen.<br>
+<br>
+Met behoud van de toepassing van paragraaf 2, tweede lid, worden ingeval de verlenging wordt geweigerd, bij het verstrijken van de termijn, vermeld in het eerste lid van deze paragraaf, de neerlegging van het formulier, vermeld in artikel 9, of het gewijzigde delgingsprogramma, vermeld in artikel 10, zonder voorwerp.<br>
+<br>
+§ 2. Als Waarborgbeheer NV de betaling van de premie niet heeft ontvangen binnen de termijn, vermeld in paragraaf 1, eerste lid, rekening houdend met een eventuele verlenging ervan, en als de waarborghouder evenmin tijdig om de verlenging van de termijn heeft verzocht, worden de indiening van het formulier, vermeld in artikel 9, of het gewijzigde delgingsprogramma, vermeld in artikel 10, zonder voorwerp.<br>
+<br>
+In een dergelijk geval kan de waarborghouder de verbintenissen van de kredietnemer slechts onder toepassing van zijn waarborg brengen door de indiening van een nieuw ingevuld formulier volgens de procedure bepaald in dit besluit.
 
 ## AFDELING 4 RECHTSGEVOLGEN VAN EEN GEREGISTREERDE FINANCIERINGSOVEREENKOMST OF ANDERE VERRICHTING NA BETALING VAN DE PREMIE
 
 ### ART. 19.
 
-De verbintenissen van een kredietnemer worden beschouwd als zijnde onder de toepassing van de waarborg van een waarborghouder zodra de waarborghouder bij Waarborgbeheer NV een volledig ingevuld formulier heeft ingediend als vermeld in artikel 9, Waarborgbeheer NV tot de registratie daarvan heeft beslist en het Vlaamse Gewest de betaling van de toepasselijke premie, vermeld in artikel 15, heeft ontvangen.
+De verbintenissen van een kredietnemer worden beschouwd als verbintenissen die vallen onder de toepassing van de waarborg van een waarborghouder zodra de waarborghouder bij Waarborgbeheer NV het volledig ingevulde formulier, vermeld in artikel 9, of het gewijzigde delgingsprogramma, vermeld in artikel 10, heeft ingediend, Waarborgbeheer NV tot de registratie daarvan heeft beslist en het Vlaamse Gewest de betaling van de toepasselijke premie, vermeld in artikel 15, heeft ontvangen.
 
 ## AFDELING 5 SCHRAPPEN VAN EEN REGISTRATIE
 
@@ -176,7 +240,14 @@ Een schrapping van een registratie als bedoeld in het eerste lid heeft tot gevol
 
 ### ART. 21.
 
-De minister kan, in één van de gevallen, bedoeld in het tweede lid, een waarborghouder de toestemming verlenen om, op verzoek van die waarborghouder, met betrekking tot een gegeven kredietnemer, verbintenissen van de kredietnemer onder toepassing van de waarborg te brengen met als gevolg dat het maximumbedrag, bedoeld in artikel 8, § 5, wordt overschreden.<br /><br />De gevallen bedoeld in het eerste lid zijn:<br />1° de verbintenissen die onder de toepassing van de waarborg worden gebracht en die tot gevolg hebben dat het maximumbedrag, vermeld in artikel 8, § 5, wordt overschreden, zijn het gevolg van een financiering van bijkomende investeringen of van een financiering van bijkomende activiteiten die worden verricht om een eerder verrichte investering of een eerder verrichte activiteit beter te laten renderen;<br />2° de verbintenissen die onder toepassing van de waarborg worden gebracht en die tot gevolg hebben dat het maximumbedrag, bedoeld in artikel 8, § 5, wordt overschreden, vloeien voort uit een project met een hoge toegevoegde waarde op één of meerdere van de volgende vlakken: technologische vooruitgang, tewerkstelling, economische ontwikkeling of het bieden van een oplossing voor specifieke sociale problemen;<br />3° de verbintenissen die onder toepassing van de waarborg worden gebracht en die tot gevolg hebben dat het maximumbedrag, bedoeld in artikel 8, § 5, wordt overschreden, vloeien voort uit investeringen of activiteiten binnen sectoren waarbinnen geen of onvoldoende toereikende alternatieve financieringsbronnen voorhanden zijn;<br />4° de verbintenissen die onder toepassing van de waarborg worden gebracht en die tot gevolg hebben dat het maximumbedrag, bedoeld in artikel 8, § 5, wordt overschreden, vloeien voort uit een project dat is opgezet in cofinanciering door, in samenwerking met, of anderszins met de steun van een overheid.
+De minister kan, in één van de gevallen, bedoeld in het tweede lid, een waarborghouder de toestemming verlenen om, op verzoek van die waarborghouder, met betrekking tot een gegeven kredietnemer, verbintenissen van de kredietnemer onder toepassing van de waarborg te brengen met als gevolg dat het maximumbedrag, bedoeld in artikel 8, § 5, wordt overschreden.<br>
+<br>
+De gevallen bedoeld in het eerste lid zijn:<br>
+1° de verbintenissen die onder de toepassing van de waarborg worden gebracht en die tot gevolg hebben dat het maximumbedrag, vermeld in artikel 8, § 5, wordt overschreden, zijn het gevolg van een financiering van bijkomende investeringen of van een financiering van bijkomende activiteiten die worden verricht om een eerder verrichte investering of een eerder verrichte activiteit beter te laten renderen;<br>
+2° de verbintenissen die onder toepassing van de waarborg worden gebracht en die tot gevolg hebben dat het maximumbedrag, bedoeld in artikel 8, § 5, wordt overschreden, vloeien voort uit een project met een hoge toegevoegde waarde op één of meerdere van de volgende vlakken: technologische vooruitgang, tewerkstelling, economische ontwikkeling of het bieden van een oplossing voor specifieke sociale problemen;<br>
+3° de verbintenissen die onder toepassing van de waarborg worden gebracht en die tot gevolg hebben dat het maximumbedrag, bedoeld in artikel 8, § 5, wordt overschreden, vloeien voort uit investeringen of activiteiten binnen sectoren waarbinnen geen of onvoldoende toereikende alternatieve financieringsbronnen voorhanden zijn;<br>
+4° de verbintenissen die onder toepassing van de waarborg worden gebracht en die tot gevolg hebben dat het maximumbedrag, bedoeld in artikel 8, § 5, wordt overschreden, vloeien voort uit een project dat is opgezet in cofinanciering door, in samenwerking met, of anderszins met de steun van een overheid;<br>
+5° de verbintenissen, die voortvloeien uit de financieringsovereenkomsten of andere verrichtingen, vermeld in artikel 7/1, eerste lid, die onder de toepassing van de waarborg worden gebracht en die tot gevolg hebben dat het maximumbedrag, vermeld in artikel 8, § 5, wordt overschreden.
 
 ### ART. 22.
 
@@ -214,7 +285,12 @@ Het maximumbedrag van de verbintenissen van de kredietnemer ten belope waarvan d
 
 ### ART. 28.
 
-Voor de toepassing van dit besluit en de uitvoeringsmaatregelen ervan, gelden als onder toepassing van de waarborg gebrachte verbintenissen van de kredietnemer, waarvoor de waarborghouder de hem toegekende waarborg kan afroepen:<br />1° de verbintenis tot terugbetaling, in hoofdsom, op de datum van opzegging, van de gelden die de waarborghouder hetzij aan de kredietnemer zelf, hetzij aan een derde, heeft uitbetaald;<br />2° de verbintenis tot de betaling van achterstallige interesten berekend op de verbintenis, bedoeld in punt 1°, over een periode van ten hoogste het laatste jaar dat voorafgaat aan de datum van opzegging van de aangemelde overeenkomst of andere verrichting;<br />3° de door de minister nader te bepalen kosten van inning van de voormelde verbintenissen.
+Voor de toepassing van dit besluit en de uitvoeringsmaatregelen ervan, gelden als onder toepassing van de waarborg gebrachte verbintenissen van de kredietnemer, waarvoor de waarborghouder de hem toegekende waarborg kan afroepen:<br>
+1° de verbintenis tot terugbetaling, in hoofdsom, op de datum van opzegging, van de gelden die de waarborghouder hetzij aan de kredietnemer zelf, hetzij aan een derde, heeft uitbetaald;<br>
+2° de verbintenis tot de betaling van achterstallige interesten berekend op de verbintenis, bedoeld in punt 1°, over een periode van ten hoogste het laatste jaar dat voorafgaat aan de datum van opzegging van de aangemelde overeenkomst of andere verrichting;<br>
+3° de door de minister nader te bepalen kosten van inning van de voormelde verbintenissen.<br>
+<br>
+Voor de waarborg, die werd verleend voor de verbintenissen van de kredietnemer die voortvloeien uit de financieringsovereenkomsten of andere verrichtingen, vermeld in artikel 7/1, eerste lid, 3°, kan de waarborghouder de waarborg alleen, pondspondsgewijs afroepen, ten belope van het gedeelte van de financieringsovereenkomst of andere verrichting dat onder de waarborg werd gebracht.
 
 ## AFDELING 2 REGELS VOOR DE AFROEP
 
@@ -352,13 +428,42 @@ De minister kan nader bepalen op welke wijze Waarborgbeheer N.V. onderzoekt of e
 
 ### ART. 37.
 
-§ 1. Om na te gaan of de informatie, vermeld in artikel 11, zoals die wordt ingevuld op het formulier, vermeld in artikel 9, correct is, alsmede om na te gaan of een financieringsovereenkomst of een andere verrichting voldoet aan de voorwaarden, vermeld in § 3 en in artikel 7 en 8, is de waarborghouder ertoe gehouden om, op verzoek van Waarborgbeheer NV, de boeken open te leggen voor de onderdelen die betrekking hebben op de kredietnemer waarvoor binnen Waarborgbeheer NV een dossier is geopend.<br /><br />§ 2. Voor de doelstellingen bedoeld in § 1 kan Waarborgbeheer N.V. te allen tijde inzage nemen in de krediet- of andere overeenkomsten die de waarborghouder heeft gesloten met de kredietnemer waarvan verbintenissen onder de toepassing van een waarborg van de waarborghouder werden gebracht.<br /><br />Voor de doelstellingen bedoeld in § 1 kan Waarborgbeheer N.V. kopieën maken en bijhouden van alle stukken en documenten die zich bevinden in het kredietdossier of ander dossier dat de waarborghouder aangaande de krediet- of andere overeenkomsten, bedoeld in het eerste lid, heeft aangelegd.<br /><br />§ 3. De waarborghouder waakt erover dat de financieringsovereenkomsten of andere verrichtingen ten gunste van de kredietnemer gewag maken van het bepaalde in dit artikel, wat een voorwaarde is om ze onder toepassing van de waarborg te kunnen brengen.<br /><br />§ 4. In de raamovereenkomst wordt vastgelegd op welke wijze Waarborgbeheer N.V. kan nagaan of de mededelingen, bedoeld in artikel 35, § 3, op correcte wijze gebeurd zijn.
+§ 1. Om na te gaan of de informatie, vermeld in artikel 11, die wordt ingevuld op het formulier, vermeld in artikel 9, of het gewijzigde delgingsprogramma, vermeld in artikel 10, correct is, alsook om na te gaan of een financieringsovereenkomst of een andere verrichting voldoet aan de voorwaarden, vermeld in paragraaf 3 en in artikel 7, 7/1 en 8, is de waarborghouder ertoe gehouden om, op verzoek van Waarborgbeheer NV, de boeken open te leggen voor de onderdelen die betrekking hebben op de kredietnemer waarvoor bij Waarborgbeheer NV een dossier is geopend.<br>
+<br>
+§ 2. Voor de doelstellingen bedoeld in § 1 kan Waarborgbeheer N.V. te allen tijde inzage nemen in de krediet- of andere overeenkomsten die de waarborghouder heeft gesloten met de kredietnemer waarvan verbintenissen onder de toepassing van een waarborg van de waarborghouder werden gebracht.<br>
+<br>
+Voor de doelstellingen bedoeld in § 1 kan Waarborgbeheer N.V. kopieën maken en bijhouden van alle stukken en documenten die zich bevinden in het kredietdossier of ander dossier dat de waarborghouder aangaande de krediet- of andere overeenkomsten, bedoeld in het eerste lid, heeft aangelegd.<br>
+<br>
+§ 3. De waarborghouder waakt erover dat de financieringsovereenkomsten of andere verrichtingen ten gunste van de kredietnemer gewag maken van het bepaalde in dit artikel, wat een voorwaarde is om ze onder toepassing van de waarborg te kunnen brengen.<br>
+<br>
+§ 4. In de raamovereenkomst wordt vastgelegd op welke wijze Waarborgbeheer N.V. kan nagaan of de mededelingen, bedoeld in artikel 35, § 3, op correcte wijze gebeurd zijn.
 
 ## HOOFDSTUK VII ALGEMENE BEPALINGEN AANGAANDE DE RAAMOVEREENKOMSTEN
 
 ### ART. 38.
 
-§ 1. Een instelling als bedoeld in artikel 4 van het Waarborgdecreet kan slechts waarborghouder worden na de sluiting van een raamovereenkomst.<br /><br />In de in het eerste lid bedoelde raamovereenkomst wordt nader uitgewerkt op welke wijze de waarborghouder en Waarborgbeheer N.V. uitvoering geven aan de bepalingen van het Waarborgdecreet en de uitvoeringsmaatregelen ervan.<br /><br />De in het eerste lid bedoelde raamovereenkomst regelt in elk geval de volgende punten:<br />1° de wijze waarop en de vorm waarin de waarborghouder rapporteert over het gebruik van de toegekende waarborgen;<br />2° de inhoudelijke en vormelijke afspraken over de informatievoorziening door Waarborgbeheer N.V. aan de waarborghouder en de dienstverlening die de waarborghouder van Waarborgbeheer N.V. mag verwachten, inzonderheid, zij het niet beperkt tot, een omschrijving van de helpdeskfunctie en de bereikbaarheid van Waarborgbeheer N.V.;<br />3° procedures inzake het afsluiten van financieringsovereenkomsten en andere verbintenissen waarvan het de bedoeling is deze onder de waarborg te brengen;<br />4° regels en criteria voor de beoordeling van de kredietwaardigheid en de solvabiliteit van de onderneming;<br />5° de inhoudelijke en vormelijke procedures die gelden inzake de neerlegging van een formulier als bedoeld in Afdeling I van Hoofdstuk IV en inzake de berekening en de betaling van de verschuldigde premie;<br />6° de door de waarborghouder te hanteren procedures inzake het beheer van de aangemelde dossiers vóór opzegging;<br />7° de door de waarborghouder te hanteren procedures inzake de opzegging en opeisbaarstelling van een onder de waarborg gebrachte verbintenis;<br />8° procedures inzake de afroep van de waarborg, alsmede inzake het berekenen van en het aanvragen van de provisie;<br />9° procedures inzake het behandelen van de provisieaanvraag en de uitbetaling daarvan;<br />10° regels inzake de uitwinning van waarborgen en inzake het toerekenen van recuperaties en kosten na opzegging;<br />11° procedures inzake het aanvragen van de afsluiting van een dossier en inzake de afsluiting van een dossier;<br />12° regels inzake de beschikbaarheid en de toegankelijkheid van dossiers en relevante gegevens teneinde Waarborgbeheer N.V. toe te laten relevante gegevens te verifiëren en de naleving te toetsen aan de bepalingen van het Waarborgdecreet, de uitvoeringsbesluiten en de raamovereenkomst zelf;<br />13° regels inzake het melden, door de waarborghouder, van afwijkingen op de bepalingen van het Waarborgdecreet, de uitvoeringsmaatregelen en het raamakkoord waarvoor een meldingsplicht geldt;<br />14° regels inzake het vooraf aanvragen van de goedkeuring voor voorgenomen afwijkingen aan de bevoegde instantie;<br />15° regels inzake een eventuele herziening of wijziging van de raamovereenkomst.
+§ 1. Een instelling als bedoeld in artikel 4 van het Waarborgdecreet kan slechts waarborghouder worden na de sluiting van een raamovereenkomst.<br>
+<br>
+In de in het eerste lid bedoelde raamovereenkomst wordt nader uitgewerkt op welke wijze de waarborghouder en Waarborgbeheer N.V. uitvoering geven aan de bepalingen van het Waarborgdecreet en de uitvoeringsmaatregelen ervan.<br>
+<br>
+De in het eerste lid bedoelde raamovereenkomst regelt in elk geval de volgende punten:<br>
+1° de wijze waarop en de vorm waarin de waarborghouder rapporteert over het gebruik van de toegekende waarborgen;<br>
+2° de inhoudelijke en vormelijke afspraken over de informatievoorziening door Waarborgbeheer N.V. aan de waarborghouder en de dienstverlening die de waarborghouder van Waarborgbeheer N.V. mag verwachten, inzonderheid, zij het niet beperkt tot, een omschrijving van de helpdeskfunctie en de bereikbaarheid van Waarborgbeheer N.V.;<br>
+3° procedures inzake het afsluiten van financieringsovereenkomsten en andere verbintenissen waarvan het de bedoeling is deze onder de waarborg te brengen;<br>
+4° regels en criteria voor de beoordeling van de kredietwaardigheid en de solvabiliteit van de onderneming;<br>
+5° de inhoudelijke en vormelijke procedures die gelden inzake de neerlegging van een formulier als bedoeld in Afdeling I van Hoofdstuk IV en inzake de berekening en de betaling van de verschuldigde premie;<br>
+6° de door de waarborghouder te hanteren procedures inzake het beheer van de aangemelde dossiers vóór opzegging;<br>
+7° de door de waarborghouder te hanteren procedures inzake de opzegging en opeisbaarstelling van een onder de waarborg gebrachte verbintenis;<br>
+8° procedures inzake de afroep van de waarborg, alsmede inzake het berekenen van en het aanvragen van de provisie;<br>
+9° procedures inzake het behandelen van de provisieaanvraag en de uitbetaling daarvan;<br>
+10° regels inzake de uitwinning van waarborgen en inzake het toerekenen van recuperaties en kosten na opzegging;<br>
+11° procedures inzake het aanvragen van de afsluiting van een dossier en inzake de afsluiting van een dossier;<br>
+12° regels inzake de beschikbaarheid en de toegankelijkheid van dossiers en relevante gegevens teneinde Waarborgbeheer N.V. toe te laten relevante gegevens te verifiëren en de naleving te toetsen aan de bepalingen van het Waarborgdecreet, de uitvoeringsbesluiten en de raamovereenkomst zelf;<br>
+13° regels inzake het melden, door de waarborghouder, van afwijkingen op de bepalingen van het Waarborgdecreet, de uitvoeringsmaatregelen en het raamakkoord waarvoor een meldingsplicht geldt;<br>
+14° regels inzake het vooraf aanvragen van de goedkeuring voor voorgenomen afwijkingen aan de bevoegde instantie;<br>
+15° regels inzake een eventuele herziening of wijziging van de raamovereenkomst;<br>
+16° in geval van financieringsovereenkomsten of andere verrichtingen als vermeld in artikel 7/1, eerste lid, het moment waarop het oorspronkelijke en het bijkomende financieel risico voor de waarborghouder wordt berekend;<br>
+17° in geval van financieringsovereenkomsten of andere verrichtingen als vermeld in artikel 7/1, eerste lid, de bijkomende stukken die bij de aanvraag moeten worden gevoegd.
 
 ## HOOFDSTUK VIII DIVERSE BEPALINGEN
 
