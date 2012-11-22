@@ -134,7 +134,19 @@ De minister bepaalt de praktische wijze van indiening van het formulier, vermeld
 
 ### ART. 11.
 
-§ 1. Onverminderd het bepaalde in het Waarborgdecreet en de uitvoeringsmaatregelen ervan vermeldt het ingediende formulier ten minste de volgende gegevens :<br />1° de identificatie van de waarborg van de waarborghouder, onder toepassing waarvan verbintenissen van de KMO worden gebracht;<br />2° het bedrag, in hoofdsom, van de totale verbintenissen van de KMO;<br />3° het door de waarborghouder gekozen percentage op basis waarvan de verbintenissen van de KMO in hoofdsom, die onder toepassing van de waarborg zullen worden gebracht, berekend worden;<br />4° het bedrag van de verbintenissen van de KMO in hoofdsom, dat rekening houdend met de voorgaande elementen, volgens de berekening van de waarborghouder, onder toepassing van de waarborg zal worden gebracht;<br />5° de duurtijd waarvoor verbintenissen van de KMO onder toepassing van de waarborg worden gebracht en die in geen geval langer kan zijn dan de resterende geldingsduur van de waarborg van de waarborghouder;<br />6° het totale bedrag van de verbintenissen van de KMO dat, rekening houdend met de voorgaande elementen, volgens de berekening van de waarborghouder, onder toepassing van de waarborg zal worden gebracht;<br />7° de duurtijd van de financieringsovereenkomst of andere verrichting;<br />8° het delgingsprogramma, gehanteerd in het kader van de financieringsovereenkomst of andere verrichting.<br /><br />§ 2. Ingeval van neerlegging van een kaderovereenkomst, als bedoeld in artikel 7, § 1, 3°, dient het totale bedrag van alle betrokken voorwerpen te worden vermeld, alsmede voor elk betrokken voorwerp de gegevens, vermeld in § 1.<br /><br />§ 3. Het percentage, bedoeld in § 1, 3°, bedraagt ten hoogste 75 %.
+§ 1. Onverminderd het bepaalde in het Waarborgdecreet en de uitvoeringsmaatregelen ervan vermeldt het ingediende formulier ten minste de volgende gegevens :<br>
+1° de identificatie van de waarborg van de waarborghouder, onder toepassing waarvan verbintenissen van de KMO worden gebracht;<br>
+2° het bedrag, in hoofdsom, van de totale verbintenissen van de KMO;<br>
+3° het door de waarborghouder gekozen percentage op basis waarvan de verbintenissen van de KMO in hoofdsom, die onder toepassing van de waarborg zullen worden gebracht, berekend worden;<br>
+4° het bedrag van de verbintenissen van de KMO in hoofdsom, dat rekening houdend met de voorgaande elementen, volgens de berekening van de waarborghouder, onder toepassing van de waarborg zal worden gebracht;<br>
+5° de duurtijd waarvoor verbintenissen van de KMO onder toepassing van de waarborg worden gebracht en die in geen geval langer kan zijn dan de resterende geldingsduur van de waarborg van de waarborghouder;<br>
+6° het totale bedrag van de verbintenissen van de KMO dat, rekening houdend met de voorgaande elementen, volgens de berekening van de waarborghouder, onder toepassing van de waarborg zal worden gebracht;<br>
+7° de duurtijd van de financieringsovereenkomst of andere verrichting;<br>
+8° het delgingsprogramma, gehanteerd in het kader van de financieringsovereenkomst of andere verrichting.<br>
+<br>
+§ 2. Ingeval van neerlegging van een kaderovereenkomst, als bedoeld in artikel 7, § 1, 3°, dient het totale bedrag van alle betrokken voorwerpen te worden vermeld, alsmede voor elk betrokken voorwerp de gegevens, vermeld in § 1.<br>
+<br>
+§ 3. De minister kan per specifieke doelgroep of per soort van financieringsovereenkomst of andere verrichting het percentage, vermeld in paragraaf 1, 3°, bepalen. Het percentage, vermeld in paragraaf 1, 3°, bedraagt ten hoogste 75 %.
 
 ## Afdeling II. Administratieve verwerking van de aangemelde dossiers door Waarborgbeheer NV
 

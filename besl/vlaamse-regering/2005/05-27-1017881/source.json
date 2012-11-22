@@ -2,16 +2,16 @@
   "codex_id": 1017881,
   "title": "Besluit van de Vlaamse Regering van 2005-05-27 betreffende bepaalde procedurele aspecten van de waarborgregeling voor kleine en middelgrote ondernemingen die hinder ondervinden als gevolg van openbare werken (citeeropschrift: \"het Derde Waarborgbesluit\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017881/VolledigDocument?datum=2012-01-28",
-  "source_sha256": "77aa0e509fc5364661d8f4dab7901243299bebd13ca20f31919f86c7c7de769d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017881/VolledigDocument?datum=2012-11-22",
+  "source_sha256": "7d4226cc1ac01ad7a274206bf89708afd5699ac079cd43a5177a581d54ae1d4b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017881&param=informatie",
-  "as_of": "2012-01-28",
+  "as_of": "2012-11-22",
   "made": "2005-05-27",
   "gazette": "2005-06-10",
   "numac": 2005035658,
   "document_start": "2005-06-10",
   "document_end": "2023-01-27",
-  "in_force": "2012-01-28",
+  "in_force": "2012-11-22",
   "article_versions": 33,
-  "record_form": "consolidated version as in force on 2012-01-28; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-11-22; future article versions excluded; article text as the API gives it"
 }
