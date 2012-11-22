@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022458,
+  "title": "Ministerieel besluit van 2012-10-12 tot wijziging van het ministerieel besluit van 22 februari 2005 tot uitvoering van bepaalde bepalingen van het Tweede Waarborgbesluit van 18 februari 2005, van het ministerieel besluit van 8 juni 2005 tot uitvoering van bepaalde bepalingen van het Derde Waarborgbesluit van 27 mei 2005, van het ministerieel besluit van 6 mei 2009 tot uitvoering van bepaalde bepalingen van het Vierde Waarborgbesluit van 27 maart 2009 en van het ministerieel besluit van 13 januari 2012 tot uitvoering van bepaalde bepalingen van het Vijfde Waarborgbesluit van 16 december 2011",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022458/VolledigDocument?datum=2012-11-22",
+  "source_sha256": "dbc21cc2c60bfc0fe0a48f9777373d1d01fd3f830a5f0b3d143a2c3153af83a0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022458&param=informatie",
+  "as_of": "2012-11-22",
+  "made": "2012-10-12",
+  "gazette": "2012-11-12",
+  "numac": 2012036156,
+  "document_start": "2012-11-22",
+  "document_end": null,
+  "in_force": "2012-11-22",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2012-11-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
