@@ -18,7 +18,14 @@ Besluit :
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° werkdag : elke dag waarop in België de bankkantoren geopend zijn, behalve zaterdag, zondag of een wettelijke feestdag;<br />2° eerdere oproepen : één of meerdere oproepen die binnen een termijn van twintig maanden voor de publicatie van de desbetreffende oproep gepubliceerd werden en die gericht waren op ondernemingen die tot de doelgroep van de desbetreffende oproep behoren;<br />3° toegekend waarborgbedrag : het voorwaardelijke waarborgbedrag dat ter uitvoering van een bepaalde oproep aan een waarborghouder wordt toegekend, rekening houdend met de verdeling en eventuele latere terugname en/of herverdelingen, zoals gepubliceerd in het Belgisch Staatsblad ;<br />4° nieuwe kandidaat-waarborghouder : een kandidaat-waarborghouder aan wie naar aanleiding van eerdere oproepen nog geen waarborgen werden toegekend;<br />5° gebruikt waarborgbedrag : het totale bedrag aan verbintenissen van kredietnemers, waarvoor door een bepaalde waarborghouder een formulier B voor de leasingmaatschappijen is ingediend, dat door Waarborgbeheer nv is ontvangen en dat op een in dit besluit te bepalen datum niet de status "geweigerd" of "zonder voorwerp" heeft.<br /><br />De definities, vermeld in artikel 2 van het Waarborgdecreet, in artikel 1 en 39 van het Vierde Waarborgbesluit, en in artikel 1, punt 2, van de de-minimisverordening, zijn ook van toepassing in dit besluit.
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° werkdag : elke dag waarop in België de bankkantoren geopend zijn, behalve zaterdag, zondag of een wettelijke feestdag;<br>
+2° eerdere oproepen : één of meerdere oproepen die binnen een termijn van vierentwintig maanden voor de publicatie van de desbetreffende oproep gepubliceerd werden en die gericht waren op ondernemingen die tot de doelgroep van de desbetreffende oproep behoren;<br>
+3° toegekend waarborgbedrag : het voorwaardelijke waarborgbedrag dat ter uitvoering van een bepaalde oproep aan een waarborghouder wordt toegekend, rekening houdend met de verdeling en eventuele latere terugname en/of herverdelingen, zoals gepubliceerd in het Belgisch Staatsblad ;<br>
+4° nieuwe kandidaat-waarborghouder : een kandidaat-waarborghouder aan wie naar aanleiding van eerdere oproepen nog geen waarborgen werden toegekend;<br>
+5° gebruikt waarborgbedrag : het totale bedrag aan verbintenissen van kredietnemers, waarvoor door een bepaalde waarborghouder een formulier B voor de leasingmaatschappijen is ingediend, dat door Waarborgbeheer nv is ontvangen en dat op een in dit besluit te bepalen datum niet de status "geweigerd" of "zonder voorwerp" heeft.<br>
+<br>
+De definities, vermeld in artikel 2 van het Waarborgdecreet, in artikel 1 en 39 van het Vierde Waarborgbesluit, en in artikel 1, punt 2, van de de-minimisverordening, zijn ook van toepassing in dit besluit.
 
 ### ART. 2.
 
@@ -168,7 +175,13 @@ Een afwijking als vermeld in het eerste lid moet nader worden gemotiveerd in het
 
 ### ART. 8.
 
-§ 1. Om een nieuwe verbintenis onder toepassing van de waarborg te brengen, maakt de waarborghouder gebruik van formulier B voor de leasingmaatschappijen, waarvan de inhoud is vastgesteld in bijlage II.<br /><br />Formulier B voor de leasingmaatschappijen wordt ter beschikking gesteld door Waarborgbeheer nv, die het op een gepaste wijze lay-out. <br /><br />§ 2. Formulier B voor de leasingmaatschappijen moet volledig en correct ingevuld aangetekend of elektronisch met een digitaal certificaat naar Waarborgbeheer nv worden gestuurd. De bijlagen die eventueel bij formulier B voor de leasingmaatschappijen moeten worden gevoegd, moeten samen met formulier B voor de leasingmaatschappijen naar Waarborgbeheer nv worden gestuurd. De bijlagen kunnen desgewenst aangetekend worden verstuurd.<br /><br />Waarborgbeheer nv kan de indieningswijze nader regelen en gemotiveerde afwijkingen toestaan van de gestelde regels voor de wijze van indiening van het formulier en de bijlagen.
+§ 1. Om een leasingovereenkomst of andere verrichting onder toepassing van de waarborg te brengen, vermeld in artikel 7, eerste lid en artikel 7/1, eerste lid, 1°, van het Vierde Waarborgbesluit van 27 maart 2009, maakt de waarborghouder gebruik van het formulier B voor de leasingmaatschappijen, waarvan de inhoud is vastgesteld in bijlage II. Om de leasingovereenkomsten of andere verrichtingen, vermeld in artikel 7/1, eerste lid, 2°, van het Vierde Waarborgbesluit van 27 maart 2009 onder toepassing van de waarborg te brengen, maakt de waarborghouder gebruik van het gewijzigde delgingsprogramma, waarvan de inhoud is vastgesteld in bijlage IV.<br>
+<br>
+Het formulier B voor de leasingmaatschappijen of het gewijzigde delgingsprogramma worden ter beschikking gesteld door Waarborgbeheer nv, die het van een gepaste vormgeving moet voorzien.<br>
+<br>
+§ 2. Het formulier B voor de leasingmaatschappijen of het gewijzigde delgingsprogramma moeten volledig en correct ingevuld aangetekend of elektronisch met een digitaal certificaat naar Waarborgbeheer nv worden gestuurd. De bijlagen die eventueel bij het formulier B voor de leasingmaatschappijen of het gewijzigde delgingsprogramma moeten worden gevoegd, moeten samen met het formulier B voor de leasingmaatschappijen of het gewijzigde delgingsprogramma naar Waarborgbeheer nv worden gestuurd. De bijlagen kunnen desgewenst aangetekend worden verstuurd.<br>
+<br>
+Waarborgbeheer nv kan de indieningswijze nader regelen en gemotiveerde afwijkingen toestaan van de gestelde regels voor de wijze van indiening van het formulier of het gewijzigde delgingsprogramma en de bijlagen.
 
 ### ART. 9.
 
@@ -355,3 +368,12 @@ In formulier C voor de leasingmaatschappijen moet erin voorzien worden dat de ka
 3° het nog openstaande kapitaal bij opzegging, met inbegrip van het kapitaalsgedeelte van de restwaarde of van het kapitaalsgedeelte van de aankoopoptie, van alle op dat moment bestaande leasingovereenkomsten, vermeerderd met maximaal de interest over het aan de opzegging voorafgaande jaar. Het openstaande kapitaal mag maximaal één jaar achterstand in kapitaal bevatten;<br>
 4° een berekening van de verdeelsleutel van de recuperaties;<br>
 5° het bankrekeningnummer waarop een eventueel voorlopig bedrag moet worden uitbetaald.
+
+### BIJLAGE IV.
+
+Het gewijzigde delgingsschema moet minimaal volgende gegevens bevatten :<br>
+1° Het verbintenisnummer dat toegekend werd door Waarborgbeheer nv aan deze verbintenis, zoals meegedeeld aan de waarborghouder;<br>
+2° Het totale bedrag in hoofdsom van de verbintenis (= het totaal af te lossen kapitaal);<br>
+3° Aantal delgingen;<br>
+4° Begindatum van de delgingen (= begindatum waarop de onderneming start met het aflossen van kapitaal);<br>
+5° Per delging, het afgeloste bedrag in kapitaal.
