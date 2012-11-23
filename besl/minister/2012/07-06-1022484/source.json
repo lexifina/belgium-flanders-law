@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022484,
+  "title": "Ministerieel besluit van 2012-07-06 tot wijziging van het ministerieel besluit van 1 maart 2012 houdende vaststelling van de ondersteuningsvelden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022484/VolledigDocument?datum=2012-11-23",
+  "source_sha256": "a68fa93961461e5c2b04c96f6724535c61b937809e7a91594cfdd555e66848c4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022484&param=informatie",
+  "as_of": "2012-11-23",
+  "made": "2012-07-06",
+  "gazette": "2012-11-23",
+  "numac": 2012036180,
+  "document_start": "2012-11-23",
+  "document_end": null,
+  "in_force": "2012-11-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-11-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
