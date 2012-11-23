@@ -2,16 +2,16 @@
   "codex_id": 1018564,
   "title": "Besluit van de Vlaamse Regering van 2009-09-11 tot vaststelling van de specifieke brandveiligheidsnormen waaraan het toeristische logies moet voldoen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018564/VolledigDocument?datum=2011-12-01",
-  "source_sha256": "0faca811364d5636a109507138c9fce3fad194a6e10f91a821152e62cbaeb5fa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018564/VolledigDocument?datum=2012-11-23",
+  "source_sha256": "03f5811e4edefecbcb4ef09ea964f0cbfe6a91c1192f4594f73a4ee1b0d34e50",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018564&param=informatie",
-  "as_of": "2011-12-01",
+  "as_of": "2012-11-23",
   "made": "2009-09-11",
   "gazette": "2009-12-10",
   "numac": 2009036100,
   "document_start": "2010-01-01",
   "document_end": "2017-03-31",
-  "in_force": "2011-12-01",
-  "article_versions": 77,
-  "record_form": "consolidated version as in force on 2011-12-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-11-23",
+  "article_versions": 81,
+  "record_form": "consolidated version as in force on 2012-11-23; future article versions excluded; article text as the API gives it"
 }
