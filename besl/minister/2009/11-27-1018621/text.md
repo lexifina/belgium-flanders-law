@@ -46,7 +46,7 @@ De classificatienormen inzake het comfort dat wordt aangeboden aan de logerende 
 
 ### ART. 7.
 
-Een toeristisch logies van de subcategorie trekkershut dat voldoen aan de voorwaarden, vermeld in artikel 7 en 8 van het besluit van de Vlaamse Regering van 15 mei 2009 tot uitvoering van het decreet van 10 juli 2008 betreffende het toeristisch logies, verkrijgt bij de toekenning van de vergunning de comfortclassificatie 'basic'.
+...
 
 ### ART. 8.
 
