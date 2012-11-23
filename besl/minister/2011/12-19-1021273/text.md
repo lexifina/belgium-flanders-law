@@ -72,7 +72,7 @@ Het model van het herkenningsteken voor een vergund toeristisch logies van de su
 
 ### ART. 12.
 
-Het model van het herkenningsteken voor een vergund toeristisch logies van de subcategorie trekkershut is bepaald in bijlage 12, die bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 13.
 
@@ -136,7 +136,7 @@ Bijlage 11. Model van het herkenningsteken voor vergunde vakantieparken als verm
 
 ### BIJLAGE
 
-Bijlage 12. Model van het herkenningsteken voor vergunde trekkershutten als vermeld in artikel 12<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/02/22_2.pdf#page=24" title=" Bijlage 12" target="_blank" class="pdf">Bijlage 12</a>
+<P>...</P>
 
 ### BIJLAGE
 
