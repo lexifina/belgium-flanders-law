@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022563,
+  "title": "Ministerieel besluit van 2012-11-26 houdende goedkeuring van de lijst van gemeenten die in het kader van de voortgangstoets 2012 in categorie 2b ondergebracht zijn",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022563/VolledigDocument?datum=2012-11-26",
+  "source_sha256": "3a0bfb1199ecd233b0f81c16b5ec34534cac61c622ee13e5462343b52c210d38",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022563&param=informatie",
+  "as_of": "2012-11-26",
+  "made": "2012-11-26",
+  "gazette": "2012-12-20",
+  "numac": 2012207122,
+  "document_start": "2012-11-26",
+  "document_end": null,
+  "in_force": "2012-11-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2012-11-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
