@@ -474,7 +474,7 @@ De Vlaamse instrumenterende ambtenaren hoeven bij de uitoefening van hun bevoegd
 
 ### ART. 97.
 
-De Vlaamse instrumenterende ambtenaren oefenen hun ambt uit binnen het volledige Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad.<br /><br />
+De Vlaamse instrumenterende ambtenaren oefenen hun ambt uit binnen het volledige Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad.<br /><br />De Dienst Vastgoedakten kan de aanduiding van landmeters en/of experten bij de afhandeling van vastgoeddossiers in het algemeen en minnelijke onteigeningen in het bijzonder coordineren.<br /><br />
 
 ## Afdeling II Fonds Vastgoedakten
 
