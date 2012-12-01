@@ -662,7 +662,7 @@ Elke arrondissementscommissaris heeft per effectieve werkdag recht op één maal
 
 ### ART. 117/4.
 
-De nominale waarde van de maaltijdcheque bedraagt 5,00 euro, waarvan 1,09 euro werknemersbijdrage en 3,91 euro werkgeversbijdrage.
+De nominale waarde van de maaltijdcheque bedraagt 7,00 euro, waarvan 1,09 euro werknemersbijdrage en 5,91 euro werkgeversbijdrage.
 
 ### ART. 117/5.
 
