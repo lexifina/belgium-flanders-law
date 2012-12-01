@@ -24,7 +24,7 @@ De rente toegekend in geval van blijvende invaliditeit en in geval van overlijde
 
 ### ART. 4.
 
-Aan de personeelsleden van het agentschap worden overeenkomstig de geldende federale reglementeringen maaltijdcheques toegekend. <br /><br />De werkgeversbijdrage bedraagt 4,91 euro en de werknemersbijdrage 1,09 euro.<br /><br />
+...
 
 ## HOOFDSTUK IV Sociale Dienst
 
