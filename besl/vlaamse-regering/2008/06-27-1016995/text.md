@@ -47,7 +47,7 @@ Voor de toepassing van dit besluit wordt verstaan onder "het agentschap" : de Vl
 
 ### ART. 3.
 
-Aan de personeelsleden van het agentschap worden overeenkomstig de geldende federale reglementering maaltijdcheques toegekend. De werkgeversbijdrage bedraagt 4,91 euro, de werknemersbijdrage 1,09 euro. Deze maaltijdchequeregeling is niet cumuleerbaar met de maaltijdchequeregeling in uitvoering van het sectoraal akkoord 2005-2007.<br /><br />
+...
 
 ## HOOFSTUK II Verhoogde rente in geval van arbeidsongeval en ongeval op de weg naar en van het werk
 
