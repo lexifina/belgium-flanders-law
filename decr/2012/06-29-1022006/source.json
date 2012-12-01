@@ -2,16 +2,16 @@
   "codex_id": 1022006,
   "title": "Decreet van 2012-06-29 tot wijziging van het Provinciedecreet van 9 december 2005",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022006/VolledigDocument?datum=2012-10-18",
-  "source_sha256": "961f792810bbc42aa0b0ca25ff5e791a2f6ac468a29779d523cc5da9f9b9c30a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022006/VolledigDocument?datum=2012-12-01",
+  "source_sha256": "7a80e819c627b6a9755c64f4b938aa5f0a04d3f6f272f1ef279d2d650e24b785",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022006&param=informatie",
-  "as_of": "2012-10-18",
+  "as_of": "2012-12-01",
   "made": "2012-06-29",
   "gazette": "2012-08-03",
   "numac": 2012035889,
   "document_start": "3000-01-01",
   "document_end": null,
-  "in_force": "2012-10-18",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2012-10-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-12-01",
+  "article_versions": 68,
+  "record_form": "consolidated version as in force on 2012-12-01; future article versions excluded; article text as the API gives it"
 }
