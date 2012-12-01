@@ -167,7 +167,7 @@ XIII 3. De lijst van werken die als gevaarlijk, ongezond of hinderlijk worden be
 
 ### ART. XIII 4.
 
-XIII 4. Aan de personeelsleden van de instelling kunnen in uitvoering van de desbetreffende reglemen-tering en inzonderheid deze van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders maaltijdcheques worden toegekend.<br /><br />Deze regeling is niet cumuleerbaar met de maaltijdvergoeding bedoeld in artikel XIII 104novies van het stambesluit van 30 juni 2000.
+...
 
 ## TITEL 4 VERHOOGDE RENTE IN GEVAL VAN ARBEIDSONGEVAL EN ONGEVAL OP DE WEG NAAR EN VAN HET WERK
 
