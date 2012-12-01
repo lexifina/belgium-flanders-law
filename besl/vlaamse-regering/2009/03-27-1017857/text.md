@@ -210,7 +210,7 @@ Het bedrag van de toelagen en vergoedingen vermeld in de bovenstaande artikelen 
 
 ### ART. 22.
 
-§ 1. Aan de personeelsleden van het agentschap worden volgens de reglementaire bepalingen terzake maaltijdcheques toegekend. De werkgeversbijdrage bedraagt 4,91 euro en het aandeel van de werknemer bedraagt 1,09 euro .<br /><br />Deze maaltijdcheques zijn niet cumuleerbaar met de regeling van de maaltijdcheques, bepaald in het sectoraal akkoord 2005-2007.<br /><br />§ 2. Voor de berekening van de maaltijdcheques doet het agentschap een beroep op de alternatieve telling; het aantal maaltijdcheques dat het personeelslid ontvangt is gelijk aan het aantal effectief gepresteerde uren per kwartaal gedeeld door 7,6.
+...
 
 ## HOOFDSTUK 14. Ambtenaar op proef
 
