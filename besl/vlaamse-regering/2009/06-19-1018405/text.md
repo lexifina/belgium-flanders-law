@@ -128,7 +128,7 @@ Aan de hieronder vermelde graden worden de salarisschalen verbonden die overeenk
 
 ### ART. 10.
 
-Aan de personeelsleden van het agentschap wordt per effectieve werkdag één maaltijdcheque toegekend, ongeacht de duur van de arbeidsprestaties.<br /><br />De nominale waarde van de maaltijdcheque bedraagt 6,00 euro, waarvan 1,09 euro werknemersbijdrage en 4,91 euro werkgeversbijdrage.<br /><br />In afwijking van het tweede lid bedraagt in de periode van 1 april 2006 tot en met 31 augustus 2008 de werknemersbijdrage 1,54 euro en de werkgeversbijdrage 4,46 euro.<br /><br />De personeelsleden van het agentschap ontvangen tijdens de periode van 1 september 2008 tot 30 april 2009 een compenserende toelage waarvan het maandbedrag 17 euro voor statutaire personeelsleden en 18,50 euro voor contractuele personeelsleden bedraagt. Deze toelage wordt maandelijks na vervallen termijn samen met het salaris pro rata van de prestaties betaald, overeenkomstig artikel VII 6, § 1 en VII 15 van het Vlaams Personeelsstatuut.<br /><br />
+...
 
 ### ART. 11.
 

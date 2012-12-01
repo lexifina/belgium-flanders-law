@@ -2,16 +2,16 @@
   "codex_id": 1018405,
   "title": "Besluit van de Vlaamse Regering van 2009-06-19 houdende de agentschapsspecifieke regeling van de rechtspositie van het personeel van het Vlaams Agentschap voor Ondernemersvorming - SYNTRA Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018405/VolledigDocument?datum=2009-09-24",
-  "source_sha256": "0e580273f11042698c6565198d5c6d6bbe1464835e9bdf05d0d5f6d7d218c1dd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018405/VolledigDocument?datum=2012-12-01",
+  "source_sha256": "d091c2b41e22d1193affafeb1294e907a4eb8ca3d80aa199ae7e8e3275022396",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018405&param=informatie",
-  "as_of": "2009-09-24",
+  "as_of": "2012-12-01",
   "made": "2009-06-19",
   "gazette": "2009-09-24",
   "numac": 2009035909,
   "document_start": "2009-09-24",
   "document_end": "2020-12-31",
-  "in_force": "2009-09-24",
+  "in_force": "2012-12-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2009-09-24; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-12-01; future article versions excluded; article text as the API gives it"
 }
