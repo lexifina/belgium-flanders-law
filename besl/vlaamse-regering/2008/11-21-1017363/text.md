@@ -56,7 +56,7 @@ Onverminderd de activiteiten opgenomen in bijlage 7 van het VPS worden de in bij
 
 ### ART. 10.
 
-De personeelsleden van het agentschap ontvangen maaltijdcheques overeenkomstig de geldende federale reglementering.
+...
 
 ## DEEL IV. OPHEFFINGS-, OVERGANGS- EN SLOTBEPALINGEN
 
