@@ -2,16 +2,16 @@
   "codex_id": 1016534,
   "title": "Besluit van de Vlaamse Regering van 2007-12-14 houdende de agentschapspecifieke regeling van de rechtspositie van het personeel van het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap De Scheepvaart",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016534/VolledigDocument?datum=2008-02-03",
-  "source_sha256": "7ec720e2d6ef2b990a2f9f60a5394692efecdc39bcc701adfc67c55cd425350f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016534/VolledigDocument?datum=2012-12-01",
+  "source_sha256": "66f87fe17013e378401545d0b65bf4412c66eb703ef99ba36aded2aea91b9e78",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016534&param=informatie",
-  "as_of": "2008-02-03",
+  "as_of": "2012-12-01",
   "made": "2007-12-14",
   "gazette": "2008-01-24",
   "numac": 2008035071,
   "document_start": "2008-02-03",
   "document_end": "2020-04-16",
-  "in_force": "2008-02-03",
+  "in_force": "2012-12-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2008-02-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-12-01; future article versions excluded; article text as the API gives it"
 }

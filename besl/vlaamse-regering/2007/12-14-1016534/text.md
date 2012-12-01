@@ -111,11 +111,11 @@ De toelage wordt jaarlijks op het eind van de maand oktober uitbetaald.<br /><br
 
 ### ART. 22.
 
-Aan de personeelsleden van het agentschap worden volgens de reglementaire bepalingen terzake maaltijdcheques toegekend. De toekenning van maaltijdcheques is niet onderworpen aan de regeling welke dienaangaande is opgenomen in het sectoraal akkoord 2005-2007 van 6 juli 2006, afgesloten door het Sectorcomité XVII Vlaamse Gemeenschap en Vlaamse Gewest.<br /><br />
+...
 
 ### ART. 23.
 
-Het aantal maaltijdcheques dat het personeelslid ontvangt, moet gelijk zijn aan het aantal dagen waarop het personeelslid effectief arbeidsprestaties levert.<br /><br />
+...
 
 ### ART. 24.
 
