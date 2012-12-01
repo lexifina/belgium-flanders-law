@@ -70,53 +70,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 januari 1991 betreff
 
 ### ART. 14.
 
-periode
-<p>§ 1. Het personeel krijgt maaltijdcheques overeenkomstig de federale bepalingen. De werkgeversbijdrage wordt bepaald op 4,91 euro en de werknemersbijdrage op 1,09 euro.<br>
-<br>
-§ 2. De maaltijdchequeregeling kan niet worden gecumuleerd met de maaltijdchequeregeling die is overeengekomen in het Vlaams sectoraal akkoord 2005-2007 van 6 juli 2006. Met uitzondering van de compensatieregeling kan die maaltijdchequeregeling evenmin worden gecumuleerd met de maaltijdchequeregeling die werd overeengekomen in het Vlaams sectoraal akkoord 2008-2009 van 3 juli 2008.<br>
-<br>
-§ 3. De personeelsleden van het IWT ontvangen een compenserende toelage waarvan het bedrag als volgt wordt bepaald :</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:6cm">
-			<p>periode</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
-			<p>bedrag vastbenoemden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
-			<p>bedrag contractuelen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:6cm">
-			<p>1 september 2008 tot en met 30 april 2009</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
-			<p>30,50 euro</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
-			<p>33,50 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:6cm">
-			<p>Vanaf 1 mei 2009</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
-			<p>43,00 euro</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
-			<p>47,50 euro</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p><br>
-§ 4. Deze toelage wordt maandelijks pro rata van de prestaties en overeenkomstig artikel VII 15 van het Vlaams personeelsstatuut na vervallen termijn samen met het salaris betaald.</p>
+...
 
 ## HOOFDSTUK 7. De rechtspositie van het contractuele personeelslid
 
