@@ -1354,7 +1354,7 @@ Indien de Vlaamse regering oordeelt dat de begroting strijdig is met het bij of 
 
 ### ART. 229.
 
-Het departement Onderwijs van het Ministerie van de Vlaamse Gemeenschap stelt in het eerste, tweede en derde kwartaal werkingsuitkeringen ter beschikking aan de hogeschool. Het bedrag is als volgt berekend:<br /><br />[0,95 x 4/12 (W-L) in het eerste kwartaal<br /><br />0,95 x 3/12 (W-L) in het tweede kwartaal<br /><br />0,95 x 4/12 (W-L) in het derde kwartaal.  <span class="reference">(verv. decr. 8 juli 1996, art. 115, I: 1 januari 1996)</span> ]<br /><br />waarbij:<br /><br />- W gelijk is aan de jaarlijkse werkingsuitkering;<br /><br />- L gelijk is aan de geraamde salariskosten te betalen door het departement [tijdens het begrotingsjaar.  <span class="reference">(verv. decr. 8 juli 1996, art. 115, I: 1 september 1995)</span> ]<br /><br />Op het einde van het begrotingsjaar ontvangt de hogeschool het saldo van de jaarlijkse werkingsuitkering.
+<P>De bevoegde dienst van de Vlaamse Gemeenschap stelt in het eerste, tweede en   derde kwartaal werkingsuitkeringen ter beschikking aan de hogeschool. Het bedrag   is als volgt berekend :<BR>0,95 x 4/12 (W-L) in het eerste kwartaal<BR>0,95 x   3/12 (W-L) in het tweede kwartaal<BR>0,95 x 4/12 (W-L) in het derde   kwartaal<BR>waarbij :<BR>- W gelijk is aan de jaarlijkse werkingsuitkering;<BR>-   L gelijk is aan de door de bevoegde dienst van de Vlaamse Gemeenschap geraamde   salariskosten aangerekend tijdens het begrotingsjaar.<BR><BR>Uiterlijk op 31   januari van het volgend begrotingsjaar ontvangt de hogeschool het saldo van de   jaarlijkse werkingsuitkering.</P>
 
 ## AFDELING 4 VASTSTELLING VAN DE PERSONEELSFORMATIE
 
