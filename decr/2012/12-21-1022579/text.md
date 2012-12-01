@@ -16,6 +16,10 @@
 
 ## Afdeling 6 Hoger Onderwijs
 
+### ART. 17.
+
+<P>Artikel 229 van het decreet van 13 juli 1994 betreffende de hogescholen in de   Vlaamse Gemeenschap wordt vervangen door wat volgt :<BR>« Art. 229. De bevoegde   dienst van de Vlaamse Gemeenschap stelt in het eerste, tweede en derde kwartaal   werkingsuitkeringen ter beschikking aan de hogeschool. Het bedrag is als volgt   berekend :<BR>0,95 x 4/12 (W-L) in het eerste kwartaal<BR>0,95 x 3/12 (W-L) in   het tweede kwartaal<BR>0,95 x 4/12 (W-L) in het derde kwartaal<BR>waarbij :<BR>-   W gelijk is aan de jaarlijkse werkingsuitkering;<BR>- L gelijk is aan de door de   bevoegde dienst van de Vlaamse Gemeenschap geraamde salariskosten aangerekend   tijdens het begrotingsjaar.<BR></P>  <P>Uiterlijk op 31 januari van het volgend begrotingsjaar ontvangt de hogeschool   het saldo van de jaarlijkse werkingsuitkering. ».<BR></P>
+
 ## Afdeling 7 [Begrotingsfonds Dienstverlening AHOVOKS (verv. decr. 8 juli 2016, art. 21, I: 1 juli 2015)]
 
 ## Afdeling 8 Volwassenenonderwijs
