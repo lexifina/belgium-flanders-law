@@ -6,19 +6,59 @@
 
 ## Afdeling 1 De informatiesessie
 
+### ART. 4.
+
+De kandidaat-adoptanten dienen de informatiesessie te volgen bij het Steunpunt Adoptie. Het Vlaams Centrum voor Adoptie stelt in samenspraak met het adviescomité het programma en de werkwijze vast van de informatiesessie volgens de bepalingen van de Vlaamse Regering.<br /><br />
+
 ## Afdeling 2 De voorbereiding
+
+### ART. 5.
+
+De voorbereiding, vermeld in artikel 346.2, eerste lid, en artikel 361.1, tweede lid, van het Burgerlijk Wetboek wordt gevolgd in het door de Vlaamse Regering erkende Steunpunt Adoptie.<br /><br />Na zijn aanmelding verwijst het Vlaams Centrum voor Adoptie de adoptant, rekening houdende met het principe van instroombeheer, door naar het Steunpunt Adoptie. De voorbereiding wordt gegeven binnen een redelijke termijn nadat de adoptant zich bij het Steunpunt Adoptie aangeboden heeft. Aan het einde van de voorbereiding geeft het Steunpunt Adoptie aan de adoptant een attest waaruit blijkt dat hij de voorbereiding heeft gevolgd. Indien de adoptant niet binnen het jaar het verzoekschrift, vermeld in artikel 1231-27 van het Gerechtelijk Wetboek, ontvankelijk neerlegt op de griffie van de jeugdrechtbank, vervalt het voorbereidingsattest.<br /><br />De Vlaamse Regering legt de principes voor het instroombeheer vast.<br /><br />
+
+### ART. 6.
+
+De Vlaamse Regering bepaalt de algemene inhoud en de minimumduur van de voorbereiding.<br /><br />Het Vlaams Centrum voor Adoptie keurt de voorbereidingsprogramma's goed en bepaalt de momenten waarop de voorbereiding wordt gegeven.<br /><br />Het Vlaams Centrum voor Adoptie kan nadere richtlijnen vastleggen met betrekking tot het voorbereidingsprogramma en het volgen ervan door kandidaat-adoptanten.<br /><br />
 
 ## Afdeling 3 Erkenning van het Steunpunt Adoptie
 
+### ART. 7.
+
+§ 1. De Vlaamse Regering erkent het Steunpunt Adoptie op advies van het   Vlaams Centrum voor Adoptie.<BR><BR>De erkenning wordt verleend voor minimaal   twee jaar en maximaal vijf jaar en kan voor dezelfde termijnen worden   verlengd.<BR><BR>§ 2. Het Steunpunt Adoptie heeft de volgende taken :<BR>1°   informatie verstrekken aan de adoptanten over alle aspecten van adoptie;<BR>2°   optreden als informatiepunt inzake nazorg en expertise rond adoptie bevorderen   bij het bestaande hulpverleningsaanbod;<BR>3° fungeren als aanspreek- en   oriëntatiepunt voor geadopteerden, adoptanten en afstandsouders;<BR>4° fungeren   als vormings- en expertisecentrum;<BR>5° een documentatie- en informatiecentrum   uitbouwen;<BR>6° het organiseren van de voorbereiding, vermeld in artikel   5.<BR><BR>§ 3. Om erkend te worden, moet het Steunpunt Adoptie aan de volgende   voorwaarden voldoen :<BR>1° uitsluitend doelstellingen zonder winstoogmerk   nastreven;<BR>2° beschikken over een team dat is samengesteld zoals bepaald door   de Vlaamse Regering;<BR>3° zich engageren om regelmatig in het overleg tussen de   verschillende actoren interlandelijke adoptie te participeren;<BR>4° voorzien in   bijscholing voor de hulpverleners;<BR>5° de persoonlijke levenssfeer van de   adoptant eerbiedigen en, zonder enige vorm van discriminatie, zijn ideologische,   godsdienstige en filosofische overtuiging respecteren.<BR><BR>§ 4. Het erkende   Steunpunt Adoptie moet, om erkend te blijven of een verlenging van zijn   erkenning te verkrijgen, de volgende voorschriften naleven :<BR>1° de discretie   en het beroepsgeheim in acht nemen ten aanzien van de informatie die over de   adoptanten wordt verkregen;<BR>2° elke adoptant die door het Vlaams Centrum voor   Adoptie wordt doorverwezen voor het volgen van een voorbereidingsprogramma   aanvaarden en registreren;<BR>3° een jaarverslag opmaken en het in de loop van   het eerste trimester dat volgt op het einde van elk boekjaar bezorgen aan het   Vlaams Centrum voor Adoptie. De Vlaamse Regering bepaalt de inhoud van het   jaarverslag.<BR><BR>§ 5. De Vlaamse Regering kan bijkomende voorwaarden   en&nbsp;nadere bepalingen vastleggen met betrekking tot paragraaf 3 en paragraaf   4.<BR><BR>§ 6. De Vlaamse Regering legt de procedure vast voor de erkenning en   verlenging van erkenning van het Steunpunt Adoptie en voorziet in een   beroepsprocedure.<BR><BR>
+
+### ART. 8.
+
+De erkenning van het Steunpunt Adoptie kan door de Vlaamse Regering worden ingetrokken of geschorst voor de termijn die ze bepaalt als de bepalingen van dit decreet niet worden nageleefd. Bij stopzetting van de activiteiten wordt de erkenning ambtshalve geschrapt.<br /><br />De Vlaamse Regering bepaalt de procedure inzake intrekking en schorsing van de erkenning.<br /><br />
+
 ## Afdeling 4 Kosten van de voorbereiding en subsidiëring van het Steunpunt Adoptie
+
+### ART. 9.
+
+Een deel van de kostprijs van de voorbereiding is ten laste van de adoptant. De Vlaamse Regering bepaalt het bedrag dat de adoptant bijdraagt aan de voorbereiding.<br /><br />Het Steunpunt Adoptie ontvangt een jaarlijkse subsidie voor personeels- en werkingskosten.<br /><br />De Vlaamse Regering bepaalt de nadere regels voor de subsidiëring van het Steunpunt Adoptie.<br /><br />
 
 ## HOOFDSTUK 3 Maatschappelijk onderzoek
 
 ## Afdeling 1 Het maatschappelijk onderzoek
 
+### ART. 10.
+
+Het maatschappelijk onderzoek dat krachtens artikel 346.2 van het Burgerlijk Wetboek en artikel 1231.29, eerste lid, van het Gerechtelijk Wetboek door de jeugdrechtbank wordt bevolen, wordt gevoerd door een door de Vlaamse Regering erkende dienst voor maatschappelijk onderzoek inzake interlandelijke adoptie.<br /><br />Nadat de jeugdrechtbank de opdracht tot maatschappelijk onderzoek heeft bevolen, verwijst het Vlaams Centrum voor Adoptie de adoptant door naar een dienst voor maatschappelijk onderzoek inzake interlandelijke adoptie. Deze dienst neemt onverwijld contact op met de adoptant. De dienst meldt elke nieuwe aanvraag aan het Vlaams Centrum voor Adoptie.<br /><br />Het Vlaams Centrum voor Adoptie kan nadere richtlijnen bepalen inzake de wijze waarop het maatschappelijk onderzoek gevoerd wordt conform artikel 1231.29 van het Gerechtelijk Wetboek en de bepalingen van het samenwerkingsakkoord.<br /><br />
+
 ## Afdeling 2 De erkenning van de [dienst (verv. decr. 16 maart 2018, art. 4, I: 1 september 2018)] voor maatschappelijk onderzoek inzake interlandelijke adoptie
 
+### ART. 11.
+
+§ 1. De Vlaamse Regering erkent diensten voor maatschappelijk onderzoek inzake interlandelijke adoptie op advies van het Vlaams Centrum voor Adoptie.<br /><br />§ 2. Om erkend te worden, moet de dienst voor maatschappelijk onderzoek inzake interlandelijke adoptie aan de volgende voorwaarden voldoen :<br />1° beschikken over een team dat is samengesteld zoals bepaald door de Vlaamse Regering;<br />2° de persoonlijke levenssfeer van de adoptant eerbiedigen en, zonder enige vorm van discriminatie, zijn ideologische, godsdienstige en filosofische overtuiging respecteren;<br />3° de vraagstelling beperken tot de informatie die relevant is voor het bekomen van een beginseltoelating tot interlandelijke adoptie;<br />4° naleven van wetenschappelijk onderbouwde criteria;<br />5° zich engageren om regelmatig in het overleg tussen de verschillende actoren interlandelijke adoptie te participeren.<br /><br />§ 3. De erkenning wordt verleend voor minimaal twee jaar en maximaal vijf jaar en kan voor dezelfde termijnen worden verlengd. De erkende dienst voor maatschappelijk onderzoek inzake interlandelijke adoptie moet, om erkend te blijven of opnieuw erkend te worden, de volgende verplichtingen naleven :<br />1° de discretie en het beroepsgeheim in acht nemen ten aanzien van de informatie die over de adoptanten wordt verkregen;<br />2° iedereen die zich voor het maatschappelijk onderzoek aanbiedt, registreren;<br />3° de vraagstelling beperken tot de informatie die relevant is voor het bekomen van een geschiktheidsvonnis tot interlandelijke adoptie;<br />4° de werking continu bijsturen in functie van wetenschappelijk onderbouwde criteria, conform de richtlijnen van het Vlaams Centrum voor Adoptie;<br />5° een jaarverslag opmaken en het in de loop van het eerste trimester dat volgt op het einde van elk boekjaar toesturen aan het Vlaams Centrum voor Adoptie. De inhoud van het jaarverslag wordt door de Vlaamse Regering bepaald;<br />6° de taken, vermeld in artikel 10 van dit decreet, kwaliteitsvol uitvoeren.<br /><br />§ 4. De Vlaamse Regering stelt de procedure vast voor de aanvraag en de hernieuwing van de erkenning van de diensten voor maatschappelijk onderzoek inzake interlandelijke adoptie. Tevens voorziet ze in een beroepsprocedure.<br /><br />§ 5. De Vlaamse Regering stelt een programmering van de diensten voor maatschappelijk onderzoek inzake interlandelijke adoptie op.<br /><br />
+
+### ART. 12.
+
+De erkenning van een dienst voor maatschappelijk onderzoek inzake interlandelijke adoptie kan door de Vlaamse Regering worden ingetrokken of geschorst voor de termijn die ze bepaalt als de bepalingen van dit decreet niet worden nageleefd. Bij stopzetting van de activiteiten wordt de erkenning ambtshalve geschrapt.<br /><br />De Vlaamse Regering bepaalt de procedure inzake intrekking en schorsing van de erkenning.<br /><br />
+
 ## Afdeling 3 De subsidiëring van de [dienst (verv. decr. 16 maart 2018, art. 7, I: 1 september 2018)] voor maatschappelijk onderzoek inzake interlandelijke adoptie
+
+### ART. 13.
+
+De erkende diensten voor maatschappelijk onderzoek inzake interlandelijke adoptie ontvangen de volgende subsidies :<br />1° een jaarlijkse subsidie voor personeels- en werkingskosten;<br />2° een jaarlijkse subsidie op basis van het aantal gerealiseerde onderzoeken.<br /><br />De Vlaamse Regering bepaalt de nadere regelen voor de subsidiëring van de dienst voor maatschappelijk onderzoek inzake interlandelijke adoptie.<br /><br />
 
 ## HOOFDSTUK 4 Adoptiebemiddeling
 
@@ -48,6 +88,18 @@
 
 ## HOOFDSTUK 9 Het toezicht
 
+### ART. 26.
+
+§ 1. Het Vlaams Centrum voor Adoptie oefent het toezicht uit op de naleving van de bepalingen van dit decreet. Het Steunpunt Adoptie, de diensten voor maatschappelijk onderzoek, de adoptiediensten en de trefgroepen verlenen hun medewerking aan de uitoefening van het toezicht.<br /><br />§ 2. Het toezicht ter plaatse gebeurt door de personeelsleden van het intern verzelfstandigd agentschap Zorginspectie, opgericht bij besluit van de Vlaamse Regering van 26 maart 2004. Zij krijgen daartoe de vrije toegang tot de lokalen van deze diensten. Zij hebben het recht alle administratieve stukken te raadplegen en krijgen op hun verzoek toegang tot de individuele dossiers en wachtlijsten.<br /><br />§ 3. De Vlaamse Regering kan boekhoudkundige regels vastleggen.<br /><br />§ 4. De Vlaamse Regering kan de regels voor het toezicht en de bevoegdheid van het Vlaams Centrum voor Adoptie nader bepalen.<br /><br />
+
 ## HOOFDSTUK 10 Strafbepalingen
 
 ## HOOFDSTUK 11 Slotbepalingen
+
+### ART. 29.
+
+De Vlaamse Regering bepaalt de maatregelen die nodig zijn om de overgang van het in artikel 28 vermelde decreet naar dit decreet op een coherente manier te laten verlopen.<br /><br />
+
+### ART. 30.
+
+Dit decreet treedt in werking op een door de Vlaamse Regering vast te stellen datum en uiterlijk op 1 januari 2013.<br /><br />
