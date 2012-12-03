@@ -12,83 +12,83 @@ In dit besluit wordt verstaan onder:<br />1° minister: de Vlaamse minister, bev
 
 ### ART. 2.
 
-Het voorbereidingsprogramma omvat de volgende thema's:<br /><br />1° de stappen in de procedure, de juridische en andere gevolgen van de adoptie, de mogelijkheden en het nut van de nazorg na de adoptie, vastgelegd in artikel 346-2 van het Burgerlijk Wetboek;<br /><br />2° verlieservaring en rouwproces, hechting, voorgeschiedenis van adoptiekinderen, ontwikkeling van opgroeiende adoptiekinderen, risico's die verbonden zijn aan adoptie, omgaan met diversiteit en discriminatie. Al die thema's worden benaderd vanuit de adoptiedriehoek geboorteouders, adoptiekinderen en adoptieouders.<br /><br />Een voorbereidingssessie duurt minstens twintig uur in een groep van minstens acht kandidaat-adoptiegezinnen en wordt volledig door de adoptant gevolgd. De Vlaamse Centrale Autoriteit kan het voorbereidingscentrum toestaan om een voorbereidingssessie met minder dan acht kandidaat-adoptiegezinnen te houden als dat nodig is om binnen een redelijke termijn na aanmelding voorbereiding te kunnen aanbieden.
+...
 
 ## Afdeling II Erkenningsprocedure en subsidiëring van de voorbereidingscentra
 
 ### ART. 3.
 
-Er kunnen maximaal twee voorbereidingscentra erkend worden die in onderlinge afspraak zorgen voor een vormingsaanbod in elke provincie. Kind en Gezin  verleent de erkenning. Om door Kind en Gezin erkend te worden, moet een voorbereidingscentrum voldoen aan de erkenningsvoorwaarden opgenomen in afdeling III en aan de bijkomende minimale kwaliteitseisen opgenomen in hoofdstuk V.
+...
 
 ### ART. 4.
 
-§ 1. Het voorbereidingscentrum richt zijn aanvraag tot erkenning per aangetekende brief aan de Vlaamse Centrale Autoriteit. Bij die brief zitten alle nodige stukken waaruit blijkt dat het centrum aan de gestelde voorwaarden voldoet.<br /><br />§ 2. De Vlaamse Centrale Autoriteit onderzoekt de aanvraag, eventueel na opvraging van extra stukken of inlichtingen. Kind en Gezin neemt binnen drie maanden na ontvangst van de aanvraag een gemotiveerde beslissing, op advies van de Vlaamse Centrale Autoriteit.<br /><br />§ 3. Het voorbereidingscentrum wordt onmiddellijk van de beslissing over de erkenning op de hoogte gebracht, nog voor de erkenningstermijn verlopen is. <br /><br />§ 4. Het voorbereidingscentrum wordt erkend voor een hernieuwbare termijn van maximaal vijf jaar. Het voorbereidingscentrum moet zijn aanvraag tot hernieuwing van de erkenning indienen uiterlijk drie maanden voor het verstrijken van de erkenningstermijn, en dit op de wijze, vermeld in § 1. <br />
+...<br />
 
 ### ART. 5.
 
-Als het voorbereidingscentrum niet meer aan alle erkenningsvoorwaarden voldoet, kan Kind en Gezin de erkenning van het voorbereidingscentrum intrekken of voor een bepaalde termijn schorsen. <br /><br />De Vlaamse Centrale Autoriteit brengt het voorbereidingscentrum vooraf per aangetekende brief op de hoogte van de intrekking of schorsing. Het voorbereidingscentrum kan binnen veertien dagen na ontvangst van de brief verzoeken om te worden gehoord.<br />
+...<br />
 
 ### ART. 6.
 
-De kostprijs voor deelname aan de voorbereiding op interlandelijke adoptie bedraagt 25 euro, te betalen door de adoptant aan de Vlaamse Centrale Autoriteit. De Vlaamse Centrale Autoriteit stuurt de aanvraag pas door naar het voorbereidingscentrum na ontvangst van de betaling.
+...
 
 ### ART. 7.
 
-Het voorbereidingscentrum dat door Kind en Gezin wordt erkend wordt gesubsidieerd voor personeelskosten en werkingskosten.<br /><br />Het voorbereidingscentrum ontvangt voor personeels- en werkingskosten een basissubsidiëring van 132.416,38 euro per jaar binnen de beschikbare kredieten. Als het aantal gerealiseerde voorbereidingssessies gedurende twee opeenvolgende jaren minder dan dertien sessies bedraagt, wordt de basissubsidie evenredig met de gemiddelde daling onder de dertien sessies verminderd.<br /><br />Daarnaast wordt aan het voorbereidingscentrum, binnen de beschikbare kredieten, vanaf de veertiende gerealiseerde voorbereidingssessie een extra subsidie per sessie toegekend van 5.368,14 euro.<br /><br />Als de subsidie die krachtens dit besluit toegekend is, meer bedraagt dan de reële uitgaven, vermeld in het tweede lid, moet het centrum met het saldo reserves opbouwen. Die reserves moeten worden aangewend voor dezelfde doeleinden en onder dezelfde voorwaarden als de subsidie, uitgekeerd volgens dit besluit. Reserves, opgebouwd na 1 januari 2006, die op het ogenblik van het afsluiten van het boekjaar meer bedragen dan 10 % van de jaarlijkse jaarsubsidie, worden integraal teruggestort aan de Vlaamse Centrale Autoriteit. Bovendien mogen de reserves cumulatief maximum 20 % bedragen van het gemiddelde van de jaarsubsidie van de voorbije 3 jaar.<br /><br />De subsidiebedragen worden jaarlijks aangepast aan de ontwikkeling van de gezondheidsindex van december 2004, namelijk 114,25.<br /><br />De subsidiëring wordt bepaald en uitbetaald door de Vlaamse Centrale Autoriteit.
+...
 
 ### ART. 8.
 
-De Vlaamse Centrale Autoriteit ziet toe op de naleving van de bepalingen van dit besluit en controleert de correcte besteding van de uitbetaalde bedragen.<br /><br />Het toezicht op de naleving van regelgeving wordt op stukken of ter plaatse uitgeoefend. Het toezicht ter plaatse gebeurt door de personeelsleden van het intern verzelfstandigd agentschap Zorginspectie, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004. Zij krijgen daartoe de vrije toegang tot de lokalen van die diensten. Zij hebben het recht alle administratieve stukken te raadplegen en krijgen op hun verzoek toegang tot de individuele dossiers en de wachtlijsten. <br />
+...<br />
 
 ## Afdeling III Voorwaarden tot erkenning van de voorbereidingscentra
 
 ### ART. 9.
 
-Het voorbereidingscentrum beschikt over een team dat bestaat uit een coördinator en teamleden die voldoende competent en professioneel zijn voor de opdrachten die zij moeten vervullen overeenkomstig artikel 14, en die beantwoorden aan de door het voorbereidingsteam opgestelde profielomschrijving.<br /><br />De coördinator stuurt de dagelijkse werking en de kwaliteitszorg. Hij biedt voldoende informatie, begeleiding en inspraak aan alle teamleden.<br /><br />Met het oog op participatie in het adoptiebeleid neemt de coördinator op geregelde tijdstippen deel aan een door de Vlaamse Centrale Autoriteit gecreëerde overlegstructuur.
+...
 
 ### ART. 10.
 
-Alle teamleden hebben een duidelijke taakomschrijving. Die vormt het uitgangspunt voor systematische en geregelde evaluatie- en functioneringsgesprekken.
+...
 
 ### ART. 11.
 
-Het voorbereidingscentrum heeft een vormingsbeleid dat in samenspraak met alle teamleden is opgesteld.
+...
 
 ### ART. 12.
 
-In het personeelsbeleid worden de voorwaarden gecreëerd voor een goed samenwerkingsklimaat.
+...
 
 ### ART. 13.
 
-Het voorbereidingscentrum beschikt over een aangepaste accommodatie voor teamleden en adoptanten.
+...
 
 ### ART. 14.
 
-Het voorbereidingscentrum voert binnen de beschikbare middelen een gezond financieel beleid.
+...
 
 ### ART. 15.
 
-Het voorbereidingscentrum heeft een duidelijk afgebakend dienstverleningsaanbod dat bestaat uit een kwalitatieve voorbereiding van adoptanten. De voorbereiding moet bijdragen tot een verantwoorde en bewuste keuze van de deelnemers zelf om al dan niet een kind te willen adopteren.
+...
 
 ### ART. 16.
 
-Het voorbereidingscentrum geeft de deelnemers aan het voorbereidingsprogramma tijdig correcte, volledige en duidelijke informatie zowel voor als tijdens het voorbereidingsprogramma.
+...
 
 ### ART. 17.
 
-Het voorbereidingscentrum treft maatregelen die respect voor de basisrechten en de gebruikersrechten waarborgen en die conform de internationale, federale en gemeenschapsreglementeringen zijn.<br /><br />De teamleden geven, zonder toestemming van de adoptant, op geen enkele wijze informatie over de adoptant door aan derden. Daarvan kan enkel worden afgeweken als de fysieke of de psychische integriteit van te plaatsen minderjarigen wordt bedreigd.<br /><br />De teamleden zijn gehouden aan het beroepsgeheim en de naleving van de fundamentele rechten van het kind.<br /><br />De teamleden behandelen de adoptant met respect voor zijn levensvisie en integriteit.
+...
 
 ### ART. 18.
 
-Het voorbereidingscentrum beschikt over een klachtenprocedure die aan de gebruiker kenbaar wordt gemaakt en een antwoord binnen een redelijke termijn garandeert.
+...
 
 ### ART. 19.
 
-Het voorbereidingscentrum signaleert op een systematische wijze tekorten, behoeften, knelpunten en ontwikkelingen in het voorbereidingsaanbod en formuleert voorstellen met betrekking tot de verbetering ervan aan de Vlaamse Centrale Autoriteit.
+...
 
 ### ART. 20.
 
-Bij het begin van elk nieuw kalenderjaar legt het voorbereidingscentrum aan de Vlaamse Centrale Autoriteit zijn jaarverslag voor.<br /><br />Het jaarverslag omvat een activiteitenoverzicht, een overzicht van de uitgereikte voorbereidingsattesten, een financieel overzicht, een lijst met de leden van het voorbereidingsteam en hun diploma's.
+...
 
 ## HOOFDSTUK III Het maatschappelijk onderzoek
 
@@ -96,73 +96,73 @@ Bij het begin van elk nieuw kalenderjaar legt het voorbereidingscentrum aan de V
 
 ### ART. 21.
 
-Per provincie kan maximaal één dienst voor maatschappelijk onderzoek erkend worden voor het voeren van maatschappelijke onderzoeken in het kader van de procedure houdende vaststelling van de geschiktheid om te adopteren voor de jeugdrechtbank. De erkenning wordt door Kind en Gezin verleend.<br /><br />Om erkend te worden voor het vervullen van de opdracht, vermeld in het eerste lid, moet een dienst voor maatschappelijk onderzoek voldoen aan de erkenningsvoorwaarden opgenomen in afdeling II en de bijkomende minimale kwaliteitseisen opgenomen in hoofdstuk V.
+...
 
 ### ART. 22.
 
-§ 1. De dienst voor maatschappelijk onderzoek richt zijn aanvraag tot erkenning per aangetekende brief aan de Vlaamse Centrale Autoriteit. Bij die brief zitten de statuten van de dienst en alle nodige stukken waaruit blijkt dat aan de gestelde erkenningsvoorwaarden is voldaan. <br /><br />§ 2. De Vlaamse Centrale Autoriteit onderzoekt de aanvraag, eventueel na opvraging van extra stukken of inlichtingen. Kind en Gezin neemt binnen drie maanden na ontvangst van de aanvraag een gemotiveerde beslissing, op advies van de Vlaamse Centrale Autoriteit.<br /><br />§ 3. De dienst voor maatschappelijk onderzoek wordt onmiddellijk van de beslissing over de erkenning op de hoogte gebracht, nog voor de erkenningstermijn verlopen is. <br /><br />§ 4. De dienst voor maatschappelijk onderzoek wordt erkend voor een hernieuwbare termijn van maximaal vijf jaar. De dienst voor maatschappelijk onderzoek moet zijn aanvraag tot hernieuwing van de erkenning indienen uiterlijk drie maanden voor het verstrijken van de erkenningstermijn, en dit op de wijze, vermeld in § 1.<br />
+...
 
 ### ART. 23.
 
-Als de dienst voor maatschappelijk onderzoek niet meer aan alle erkenningsvoorwaarden voldoet, kan Kind en Gezin de erkenning van de dienst intrekken of voor een bepaalde termijn schorsen. <br /><br />De Vlaamse Centrale Autoriteit brengt de dienst voor maatschappelijk onderzoek hiervan vooraf per aangetekende brief op de hoogte. De dienst voor maatschappelijk onderzoek kan binnen veertien dagen na ontvangst van de brief verzoeken om te worden gehoord.<br />
+...<br />
 
 ### ART. 24.
 
-De door Kind en Gezin erkende dienst voor maatschappelijk onderzoek wordt gesubsidieerd voor de personeelskosten en de werkingskosten.<br /><br />De dienst voor maatschappelijk onderzoek ontvangt voor personeels- en werkingskosten een basissubsidiëring van 163.815 euro per jaar binnen de beschikbare kredieten. Als het totaal aantal gerealiseerde gezinsonderzoeken door alle diensten voor maatschappelijk onderzoek samen gedurende twee opeenvolgende jaren minder dan 330 bedraagt, wordt de basissubsidie evenredig met de gemiddelde daling onder de 330 verminderd.<br /><br />Daarnaast wordt aan de dienst voor maatschappelijk onderzoek, per gerealiseerd maatschappelijk onderzoek boven de 66 per team op jaarbasis en binnen de beschikbare kredieten een extra subsidie toegekend van 1.537 euro.<br /><br />Als de subsidie die krachtens dit besluit toegekend is, meer bedraagt dan de reële uitgaven, vermeld in het tweede lid, moet de dienst voor maatschappelijk onderzoek met het saldo reserves opbouwen. Die reserves moeten worden aangewend voor dezelfde doeleinden en onder dezelfde voorwaarden als de subsidie, uitgekeerd volgens dit besluit. Reserves, opgebouwd na 1 januari 2006, die op het ogenblik van het afsluiten van het boekjaar meer bedragen dan 10 % van de jaarlijkse jaarsubsidie, worden integraal teruggestort aan de Vlaamse Centrale Autoriteit. Bovendien mogen de reserves cumulatief maximum 20 % bedragen van het gemiddelde van de jaarsubsidie van de voorbije 3 jaar.<br /><br />De subsidiebedragen worden jaarlijks aangepast aan de ontwikkeling van de gezondheidsindex van december 2004, namelijk 114,25.<br /><br />De gerealiseerde gezinsonderzoeken die worden uitgevoerd tijdens de procedure tot verlenging van de termijn van geschiktheid om te adopteren, vermeld in artikel 1231.33/3 van het Gerechtelijk Wetboek, gelden voor drie vierde van een gezinsonderzoek als vermeld in artikel 1231.29 van het Gerechtelijk Wetboek. <br /><br />De subsidiëring wordt bepaald en uitbetaald door de Vlaamse Centrale Autoriteit.<br /><br />De subsidiëring, vermeld in artikel 24, tweede en derde lid, wordt in 2008 aangepast op de volgende wijze :<br />1° CAW De Mare : 265.243 euro;<br />2° CAW De Viersprong : 163.815 euro;<br />3° CAW Mozaïek : 214.529 euro;<br />4° CAW Sonar : 214.529 euro;<br />5° CAW De Visserij : 214.529 euro.<br />Daarnaast wordt aan de dienst voor maatschappelijk onderzoek, per in 2008 gerealiseerd maatschappelijk onderzoek boven op het hieronder bepaalde aantal op jaarbasis en binnen de beschikbare kredieten een extra subsidie toegekend van 1.537 euro (duizend vijfhonderd zevenendertig euro) :<br />1° CAW De Mare : 132;<br />2° CAW De Viersprong : 66;<br />3° CAW Mozaïek : 99;<br />4° CAW Sonar : 99;<br />5° CAW De Visserij : 99.
+...
 
 ### ART. 25.
 
-De Vlaamse Centrale Autoriteit ziet toe op de naleving van de bepalingen van dit hoofdstuk en controleert de correcte besteding van de uitbetaalde bedragen.<br /><br />Het toezicht op de naleving van de regelgeving wordt op stukken of ter plaatse uitgeoefend. Het toezicht ter plaatse gebeurt door de personeelsleden van het intern verzelfstandigd agentschap Zorginspectie, opgericht bij besluit van de Vlaamse Regering van 26 maart 2004. Zij krijgen daartoe de vrije toegang tot de lokalen van die diensten. Zij hebben het recht alle administratieve stukken te raadplegen en krijgen op hun verzoek toegang tot de individuele dossier en de wachtlijsten.<br />
+...<br />
 
 ## Afdeling II Voorwaarden tot erkenning van de diensten voor maatschappelijk onderzoek
 
 ### ART. 26.
 
-De dienst voor maatschappelijk onderzoek heeft een personeelsbezetting die bestaat uit een coördinator en teamleden die voldoende competent en professioneel zijn voor de opdracht die zij moeten vervullen en die beantwoorden aan de door de dienst voor maatschappelijk onderzoek opgestelde profielomschrijving.<br /><br />De dienst voor maatschappelijk onderzoek bestaat uit ten minste twee maatschappelijke assistenten en twee psychologen, of uit personen met een gelijkgesteld diploma.<br /><br />De coördinator stuurt de dagelijkse werking en de kwaliteitszorg. Hij biedt voldoende informatie, begeleiding en inspraak aan alle teamleden.<br /><br />Met het oog op participatie in het adoptiebeleid neemt de coördinator op geregelde tijdstippen deel aan een door de Vlaamse Centrale Autoriteit gecreëerde overlegstructuur.
+...
 
 ### ART. 27.
 
-De teamleden hebben een duidelijke, geïndividualiseerde taakomschrijving. Die vormt het uitgangspunt voor systematische en geregelde evaluatie- en functioneringsgesprekken.
+...
 
 ### ART. 28.
 
-De dienst voor maatschappelijk onderzoek heeft een vormingsbeleid, met specifieke aandacht voor intervisie, dat voor alle teamleden in samenspraak met hen is opgesteld.
+...
 
 ### ART. 29.
 
-In het personeelsbeleid worden de voorwaarden gecreëerd voor een goed samenwerkingsklimaat.
+...
 
 ### ART. 30.
 
-De dienst voor maatschappelijk onderzoek beschikt over een aangepaste infrastructuur om de gesprekken met de adoptant te laten verlopen met maximale garanties voor de privacy.
+...
 
 ### ART. 31.
 
-De dienst voor maatschappelijk onderzoek voert met de beschikbare middelen een gezond financieel beleid.
+...
 
 ### ART. 32.
 
-§ 1. De dienst voor maatschappelijk onderzoek heeft een duidelijk afgebakend dienstverleningsaanbod dat bestaat uit het voeren van een maatschappelijk onderzoek om de jeugdrechter in staat te stellen de geschiktheid van de adoptant om een kind te adopteren na te gaan. Dat maatschappelijk onderzoek verloopt volgens de afspraken beschreven in het draaiboek en volgens de normen en waarden, opgenomen in de kwaliteitsvisietekst, vermeld in artikel 69, en moet resulteren in een verslag over de adoptant dat neergelegd wordt ter griffie binnen twee maanden na het vonnis waarbij het is bevolen.<br /><br />Het maatschappelijk onderzoek moet ten minste betrekking hebben op de thema's, vermeld in artikel 4, 1°, van het samenwerkingsakkoord.<br /><br />§ 2 De verslagen van de gerealiseerde gezinsonderzoeken die worden uitgevoerd tijdens de procedure tot verlening van de termijn van geschiktheid om te adopteren, vermeld in artikel 1231.33/3 van het Gerechtelijk Wetboek, worden neergelegd ter griffie binnen twee maanden nadat de Vlaamse Centrale Autoriteit de opdracht tot onderzoek aan de dienst voor maatschappelijk onderzoek heeft gegeven.<br />
+...<br />
 
 ### ART. 33.
 
-De dienst voor maatschappelijk onderzoek verstrekt de adoptant duidelijke informatie over zijn professionele dienstverlening, zowel voor, tijdens als na het maatschappelijk onderzoek.
+...
 
 ### ART. 34.
 
-De dienst voor maatschappelijk onderzoek treft maatregelen die respect voor de basisrechten en de gebruikersrechten waarborgen en die conform de internationale, federale en gemeenschapsreglementeringen zijn.<br /><br />De teamleden hebben een discretieplicht en zijn gehouden aan het beroepsgeheim en de naleving van de fundamentele rechten van het kind.<br /><br />De teamleden behandelen de adoptant met respect voor zijn levensvisie en integriteit.
+...
 
 ### ART. 35.
 
-De dienst voor maatschappelijk onderzoek beschikt over een klachtenprocedure die aan de gebruiker kenbaar wordt gemaakt en een antwoord binnen een redelijke termijn garandeert.
+...
 
 ### ART. 36.
 
-De dienst voor maatschappelijk onderzoek signaleert op een systematische wijze tekorten, behoeften, knelpunten en ontwikkelingen van het maatschappelijk onderzoek en formuleert voorstellen voor de verbetering ervan aan de Vlaamse Centrale Autoriteit.
+...
 
 ### ART. 37.
 
-Bij het begin van elk nieuw kalenderjaar legt de dienst voor maatschappelijk onderzoek aan de Vlaamse Centrale Autoriteit zijn jaarverslag over.<br /><br />Het jaarverslag omvat een activiteitenoverzicht, een overzicht van de opgestelde verslagen, een financieel overzicht en een lijst met de personeelsleden van de dienst voor maatschappelijk onderzoek en hun diploma's.
+...
 
 ## HOOFDSTUK IV Adoptiebemiddeling
 
