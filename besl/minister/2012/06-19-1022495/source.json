@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022495,
+  "title": "Ministerieel besluit van 2012-06-19 tot goedkeuring van het bijzonder waterverkoopreglement van Vivaqua 6 maart 2012 in uitvoering van artikel 16, § 2 van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022495/VolledigDocument?datum=2012-12-07",
+  "source_sha256": "a7e8c7ba2f7615c4cfb13f13a0e0e3884c36ba95d9b0e2fb5c658ff4c8046671",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022495&param=informatie",
+  "as_of": "2012-12-07",
+  "made": "2012-06-19",
+  "gazette": "2012-11-27",
+  "numac": 2012206633,
+  "document_start": "2012-12-07",
+  "document_end": null,
+  "in_force": "2012-12-07",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-12-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
