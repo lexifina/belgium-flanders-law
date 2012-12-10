@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022506,
+  "title": "Ministerieel besluit van 2012-07-16 tot goedkeuring van het bijzonder waterverkoopreglement van AWW in uitvoering van artikel 16, § 2 van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022506/VolledigDocument?datum=2012-12-10",
+  "source_sha256": "4aed5f5b1dafae83c3171857f8a8184804bc23b93c9f47b7d358e282b79092d6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022506&param=informatie",
+  "as_of": "2012-12-10",
+  "made": "2012-07-16",
+  "gazette": "2012-11-30",
+  "numac": 2012206630,
+  "document_start": "2012-12-10",
+  "document_end": null,
+  "in_force": "2012-12-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-12-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
