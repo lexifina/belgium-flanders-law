@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022509,
+  "title": "Besluit van de Vlaamse Regering van 2012-10-26 tot toekenning van de middelen in het kader van de Vlaamse Intersectorale Akkoorden voor de non-profit en social-profit binnen het preventieve gezondheidsbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022509/VolledigDocument?datum=2012-12-14",
+  "source_sha256": "87b51b812a51abc3cf2d9a57f991df4b6d7caa2a2d2786ed0df778bb5e369e41",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022509&param=informatie",
+  "as_of": "2012-12-14",
+  "made": "2012-10-26",
+  "gazette": "2012-12-04",
+  "numac": 2012036209,
+  "document_start": "2012-12-14",
+  "document_end": null,
+  "in_force": "2012-12-14",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2012-12-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
