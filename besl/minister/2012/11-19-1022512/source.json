@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022512,
+  "title": "Ministerieel besluit van 2012-11-19 tot wijziging van het ministerieel besluit van 16 mei 2012 betreffende de aanwijzing van gewestelijke toezichthouders, gewestelijke milieuopsporingsambtenaren en gemachtigde ambtenaren bij het Agentschap voor Natuur en Bos van het Vlaams ministerie van Leefmilieu, Natuur en Energie overeenkomstig het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022512/VolledigDocument?datum=2012-12-14",
+  "source_sha256": "c1196570cb0a137543e883d8adc7d4b7ca3f667c47e547bafd84c25d9d94decc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022512&param=informatie",
+  "as_of": "2012-12-14",
+  "made": "2012-11-19",
+  "gazette": "2012-12-04",
+  "numac": 2012206764,
+  "document_start": "2012-12-14",
+  "document_end": null,
+  "in_force": "2012-12-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-12-14; oldest version available; future article versions excluded; article text as the API gives it"
+}

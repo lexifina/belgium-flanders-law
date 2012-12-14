@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2012-11-19 tot wijziging van het ministerieel besluit van 16 mei 2012 betreffende de aanwijzing van gewestelijke toezichthouders, gewestelijke milieuopsporingsambtenaren en gemachtigde ambtenaren bij het Agentschap voor Natuur en Bos van het Vlaams ministerie van Leefmilieu, Natuur en Energie overeenkomstig het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid
+
+### Aanhef
+
+<P>De Vlaamse minister van Leefmilieu, Natuur en Cultuur,<BR></P>  <P>Gelet op het decreet van 5 april 1995 houdende algemene bepalingen inzake   milieubeleid, artikel 16.3.1, § 1, 1°, ingevoegd bij het decreet van 21 december   2007, gewijzigd bij het decreet van 30 april 2009; <BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 12 december 2008 tot   uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene   bepalingen inzake milieubeleid, artikel 12, 5° en 5°/2, gewijzigd bij het   besluit van 30 april 2009;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling   van de bevoegdheden van de leden van de Vlaamse Regering, artikel 2, § 8, 1°,   laatst gewijzigd bij het besluit van de Vlaamse Regering van 7 juli 2010, en   artikel 6, 1°; </P>  <P><BR>Gelet op het ministerieel besluit van 16 mei 2012 betreffende de   aanwijzing van gewestelijke toezichthouders, gewestelijke   milieuopsporingsambtenaren en gemachtigde ambtenaren bij het Agentschap voor   Natuur en Bos van het Vlaams ministerie van Leefmilieu, Natuur en Energie   overeenkomstig het besluit van de Vlaamse Regering van 12 december 2008 tot   uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene   bepalingen inzake milieubeleid, <BR></P>  <P>Besluit : <BR></P>
+
+### ART. 1.
+
+In artikel 1 van het ministerieel besluit van 16 mei 2012 betreffende de   aanwijzing van gewestelijke toezichthouders, gewestelijke   milieuopsporingsambtenaren en gemachtigde ambtenaren bij het Agentschap voor   Natuur en Bos van het Vlaams ministerie van Leefmilieu, Natuur en Energie   overeenkomstig het besluit van de Vlaamse Regering van 12 december 2008 tot   uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene   bepalingen inzake milieubeleid, worden tussen de woorden "Paul Vandamme," en de   woorden "Mathieu Foré" de woorden "Bram Vlaeminck," ingevoegd.<BR>
+
+### ART. 2.
+
+In artikel 3 van hetzelfde besluit worden de woorden "Harry De Boeck"   vervangen door de woorden "Maarten Van den Eynde, Bart Van der   Aa".<BR>
