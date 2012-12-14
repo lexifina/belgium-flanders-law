@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022507,
+  "title": "Besluit van de Vlaamse Regering van 2012-10-19 tot subsidiëring van stadsvernieuwingsprojecten in het kader van de oproep 2012",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022507/VolledigDocument?datum=2012-12-14",
+  "source_sha256": "71745fe595d1460f23cd504514d2c6907f8304cf16342546d7b8a8a844dc5527",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022507&param=informatie",
+  "as_of": "2012-12-14",
+  "made": "2012-10-19",
+  "gazette": "2012-12-04",
+  "numac": 2012036214,
+  "document_start": "2012-12-14",
+  "document_end": null,
+  "in_force": "2012-12-14",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2012-12-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
