@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022516,
+  "title": "Ministerieel besluit van 2012-11-05 tot wijziging van het ministerieel besluit van 9 oktober 2012 tot goedkeuring van het bijzonder waterverkoopreglement van VMW in uitvoering van artikel 16, § 2 van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022516/VolledigDocument?datum=2012-12-16",
+  "source_sha256": "9d8f69e9439c406468f56b75c6aa79caa9f35418d472066d85d91f0ca7b2c506",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022516&param=informatie",
+  "as_of": "2012-12-16",
+  "made": "2012-11-05",
+  "gazette": "2012-12-06",
+  "numac": 2012206879,
+  "document_start": "2012-12-16",
+  "document_end": null,
+  "in_force": "2012-12-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-12-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
