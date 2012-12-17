@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022521,
+  "title": "Decreet van 2012-11-09 houdende wijziging van het decreet van 7 juli 1998 houdende instelling van de Vlaamse ombudsdienst",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022521/VolledigDocument?datum=2012-12-17",
+  "source_sha256": "2567d54cf27b4bd1c687f62b5b039a41cd5caa4b08acf1dff6a81edb456ae469",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022521&param=informatie",
+  "as_of": "2012-12-17",
+  "made": "2012-11-09",
+  "gazette": "2012-12-07",
+  "numac": 2012206772,
+  "document_start": "2012-12-17",
+  "document_end": null,
+  "in_force": "2012-12-17",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2012-12-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
