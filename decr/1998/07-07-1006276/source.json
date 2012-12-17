@@ -2,16 +2,16 @@
   "codex_id": 1006276,
   "title": "Decreet van 1998-07-07 houdende instelling van de Vlaamse Ombudsdienst",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006276/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "774f41d6abc4327e7d9a04c9971d9e24880ace75b23a04c458e3897028b252c0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006276/VolledigDocument?datum=2012-12-17",
+  "source_sha256": "e10026bb9839be4d73d0984657b4a56b2f70532e79ace2a004c88eb3e72505fa",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006276&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2012-12-17",
   "made": "1998-07-07",
   "gazette": "1998-08-25",
   "numac": 1998035966,
   "document_start": "1998-09-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2012-12-17",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2012-12-17; future article versions excluded; article text as the API gives it"
 }
