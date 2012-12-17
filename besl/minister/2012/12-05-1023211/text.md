@@ -1,0 +1,21 @@
+# Ministerieel besluit van 2012-12-05 tot wijziging van artikel 2, 5 en 6, van het ministerieel besluit van 3 november 2011 houdende precisering voor de ouderenvoorzieningen en de centra voor herstelverblijf van de regels met betrekking tot de ontvankelijkheid van een aanvraag voor een voorafgaande vergunning en voor een aanpassing van de voorafgaande vergunning
+
+### Aanhef
+
+<P style="MARGIN: 0cm 0cm 0pt 9.1pt" class=MsoBodyText>De Vlaamse minister van   Welzijn, Volksgezondheid en Gezin,<BR><BR>Gelet op het Woonzorgdecreet van 13   maart 2009, artikel 58;</P>  <P   style="LINE-HEIGHT: 14pt; MARGIN: 0.6pt 0cm 0pt; mso-line-height-rule: exactly"   class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 104%; TEXT-INDENT: 0.45pt; MARGIN: 0cm 7.45pt 0pt 8.85pt"   class=MsoBodyText>Gelet op het ministerieel besluit van 3 november 2011 houdende   precisering voor de ouderenvoorzieningen en de centra voor herstelverblijf van   de regels met betrekking tot de ontvankelijkheid van een aanvraag voor een   voorafgaande vergunning en voor een aanpassing van de voorafgaande vergunning,   artikel 2, eerste lid, artikel 5, eerste lid, en artikel 6, 2°;</P>  <P   style="LINE-HEIGHT: 13pt; MARGIN: 0.75pt 0cm 0pt; mso-line-height-rule: exactly"   class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 104%; TEXT-INDENT: 0.45pt; MARGIN: 0cm 20.8pt 0pt 8.85pt"   class=MsoBodyText>Gelet op het besluit van de Vlaamse Regering van 13 juli 2009   tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd   bij de besluiten van de Vlaamse Regering van 24 juli 2009 en 4 december 2009, 6   juli 2010, 7 juli 2010, 24 september 2010, 19 november 2010, 13 mei 2011, 10   juni 2011, 9 september 2011 en 14 oktober 2011;</P>  <P   style="LINE-HEIGHT: 14pt; MARGIN: 0.1pt 0cm 0pt; mso-line-height-rule: exactly"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt 9.3pt" class=MsoBodyText>Gelet op het advies van   de Inspectie van Financiën, gegeven op 29 november   2012.<BR><BR>Besluit:</P>
+
+### ART. 1.
+
+<P style="LINE-HEIGHT: 104%; TEXT-INDENT: 0.2pt; MARGIN: 0cm 6.25pt 0pt 8.85pt"   class=MsoBodyText>Aan artikel 2, eerste lid, van het ministerieel besluit van 3 november 2011 houdende precisering voor   de ouderenvoorzieningen en   de centra voor herstelverblijf van   de regels met   betrekking tot de ontvankelijkheid van   een aanvraag voor een voorafgaande vergunning en   voor een aanpassing van   de voorafgaande vergunning, wordt een punt 7°   toegevoegd, dat luidt als volgt:<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="LINE-HEIGHT: 104%; TEXT-INDENT: 3.1pt; MARGIN: 0cm 19.05pt 0pt 9.55pt"   class=MsoBodyText>"7° in afwijking van   punt 4°   moet het zakelijk recht of   het genotsrecht voor   de realisatie van   een   dagverzorgingscentrum   niet verleend zijn   voor de duur van   de boekhoudkundige afschrijvingstermijn van   de gebouwen die   erop gepland zijn, dus niet in   elk geval voor   minstens twintig jaar;".</P>
+
+### ART. 2.
+
+<P   style="LINE-HEIGHT: 102%; TEXT-INDENT: -0.5pt; MARGIN: 3.35pt 0.6pt 0pt 6.4pt"   class=MsoBodyText>Aan artikel 5, eerste lid,   van hetzelfde besluit wordt een   pünt 7° toegevoegd, dat   luidt als volgt:<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P   style="LINE-HEIGHT: 13.55pt; MARGIN: 0cm 0cm 0pt 9.75pt; mso-line-height-rule: exactly"   class=MsoBodyText>"7° in afwijking van   punt 4° moet het   zakelijk recht of   het genotsrecht voor de realisatie van   een   dagverzorgingscentrum   niet verleend zijn voor de   duur van de boekhoudkundige   afschrijvingstermijn van de   gebouwen die erop gepland zijn, dus niet in   elk geval voor minstens twintig jaar;".</P>
+
+### ART. 3.
+
+<P style="LINE-HEIGHT: 105%; TEXT-INDENT: -0.5pt; MARGIN: 0cm 14.35pt 0pt 6.4pt"   class=MsoBodyText>In artikel 6,   punt 2°, van   hetzelfde besluit worden   tussen het woord "dagprijs" en het woord "gewijzigd" de   woorden "of prijs   per uur" ingevoegd.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office"   /></P>
+
+### ART. 4.
+
+<P style="MARGIN: 0cm 0cm 0pt 5.95pt" class=MsoNormal>Dit besluit treedt in   werking op 17 december 2012.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
