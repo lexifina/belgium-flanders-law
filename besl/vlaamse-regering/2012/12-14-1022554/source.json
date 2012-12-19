@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022554,
+  "title": "Besluit van de Vlaamse Regering van 2012-12-14 betreffende de vastlegging van een tijdspad en quota voor het toegankelijk maken van omroepprogramma's en betreffende het verstrekken van subsidies ter uitvoering van artikel 151 van het decreet van 27 maart 2009 betreffende radio-omroep en televisie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022554/VolledigDocument?datum=2012-12-19",
+  "source_sha256": "2314435a1de637c14670874d618f247610e1d798bc9dd4d467126626e500eb54",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022554&param=informatie",
+  "as_of": "2012-12-19",
+  "made": "2012-12-14",
+  "gazette": "2012-12-19",
+  "numac": 2012036273,
+  "document_start": "2012-12-19",
+  "document_end": "2099-12-31",
+  "in_force": "2012-12-19",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2012-12-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
