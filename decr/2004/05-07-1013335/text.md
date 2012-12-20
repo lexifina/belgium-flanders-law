@@ -34,7 +34,7 @@ De resultaten van het uitgevoerde onderzoek van het Vredesinstituut worden door 
 
 ### ART. 6.
 
-Het Vredesinstituut formuleert op eigen initiatief of op verzoek van het Vlaams Parlement adviezen over vredesvraagstukken, bedoeld in artikel 2.<br /><br />Het Vredesinstituut brengt advies uit aan het Vlaams Parlement over het jaarlijkse verslag van de Vlaamse Regering aan het Vlaams Parlement over de toepassing van de wet van 5 augustus 1991 betreffende de in-, uit- en doorvoer van wapens, munitie en speciaal voor militair gebruik of voor ordehandhaving dienstig materieel en daaraan verbonden technologie.<br /><br />Het Vredesinstituut verstrekt de adviezen binnen een termijn van dertig dagen, nadat het de adviesaanvraag, bedoeld in het eerste lid of het jaarlijkse verslag, bedoeld in het tweede lid ontvangen heeft.<br /><br />De adviezen van het Vredesinstituut worden collegiaal uitgebracht volgens de procedure van de consensus. Als er geen consensus kan worden bereikt, wordt er gestemd en wordt de stemmenverhouding in het advies vermeld. Er kan een minderheidsnota aan het advies worden toegevoegd. <br /><br />De adviezen van het Vredesinstituut zijn openbaar.
+Het Vredesinstituut formuleert op eigen initiatief of op verzoek van het   Vlaams Parlement adviezen over vredesvraagstukken, bedoeld in artikel 2. De   verzoeken vanwege het Vlaams Parlement worden geformuleerd op de door het   Reglement van het Vlaams Parlement bepaalde wijze.<BR><BR>Het Vredesinstituut   brengt advies uit aan het Vlaams Parlement over het jaarlijkse verslag van de   Vlaamse Regering aan het Vlaams Parlement zoals bedoeld in het decreet van 15   juni 2012 betreffende de in-, uit-, doorvoer en overbrenging van   defensiegerelateerde producten, ander voor militair gebruik dienstig materiaal,   ordehandhavingsmateriaal, civiele vuurwapens, onderdelen en munitie.<BR><BR>Het   Vredesinstituut verstrekt de adviezen binnen een termijn van dertig dagen, nadat   het de adviesaanvraag, bedoeld in het eerste lid of het jaarlijkse verslag,   bedoeld in het tweede lid ontvangen heeft.<BR><BR>De adviezen van het   Vredesinstituut worden collegiaal uitgebracht volgens de procedure van de   consensus. Als er geen consensus kan worden bereikt, wordt er gestemd en wordt   de stemmenverhouding in het advies vermeld. Er kan een minderheidsnota aan het   advies worden toegevoegd. <BR><BR>De adviezen van het Vredesinstituut zijn   openbaar.
 
 ## HOOFDSTUK III ORGANISATIE EN WERKING
 
@@ -54,7 +54,7 @@ Het Vredesinstituut formuleert op eigen initiatief of op verzoek van het Vlaams 
 
 ### ART. 9.
 
-§ 1. De directeur is belast met het dagelijks beheer en regelt de samenwerking tussen de Raad van Bestuur, de Wetenschappelijke Raad en het Wetenschappelijk Secretariaat, voorzover dat niet in het huishoudelijk reglement bepaald is.<br /><br />[§ 2. Het Vlaams Parlement benoemt de directeur na een openbare oproep tot kandidaatstelling en op basis van een vergelijkende selectie, voor een termijn van zes jaar. De selectievoorwaarden en de selectieprocedure worden vastgesteld door het Vlaams Parlement op voorstel van de raad van bestuur. De selectie wordt uitgevoerd door of in opdracht van het Vlaams Parlement.<br /><br />Een persoon kan maximaal gedurende twee termijnen, al dan niet aaneensluitend, het ambt van directeur bekleden.<br /><br />§ 3. De directeur moet aan de volgende voorwaarden voldoen :<br /><br />1° Belg of onderdaan van een lid-Staat van de Europese Economische Ruimte zijn;<br /><br />2° van onberispelijk gedrag zijn;<br /><br />3° de burgerlijke en politieke rechten genieten;<br /><br />4° houder zijn van een diploma dat toegang verleent tot een ambt van niveau A bij de diensten van het Vlaams Parlement;<br /><br />5° ten minste vijf jaar nuttige beroepservaring hebben.  <span class="reference">(verv. decr. 15 juli 2005, art. 27, I : 19 september 2005)</span> ]<br /><br />[§ 4. Bij de eerste benoeming doorloopt de directeur een proefperiode van 1 jaar, te rekenen vanaf de dag waarop de betrokkene het ambt effectief opneemt.<br /><br />Uiterlijk vijfenveertig dagen voor het verstrijken van de proefperiode evalueert het Vlaams Parlement de directeur, na hierover tijdig het advies van de raad van bestuur ingewonnen te hebben. Bij ontstentenis van een evaluatie op dat ogenblik wordt de evaluatie geacht gunstig te zijn.<br /><br />§ 5. Uiterlijk negentig dagen voor het verstrijken van het mandaat evalueert het Vlaams Parlement de directeur, na hierover tijdig het advies van de raad van bestuur ingewonnen te hebben.<br /><br />Indien de directeur gunstig geëvalueerd wordt, wordt zijn mandaat van rechtswege eenmaal verlengd met een nieuwe termijn van zes jaar.<br /><br />Bij ontstentenis van een evaluatie negentig dagen voor het verstrijken van het mandaat, wordt de evaluatie geacht gunstig te zijn.  <span class="reference">(ing. decr. 15 juli 2005, art. 27, I : 19 september 2005)</span> ]
+§ 1. De directeur is belast met het goed beheer van de instelling en   regelt de samenwerking tussen de Raad van Bestuur, de Wetenschappelijke Raad en   het Wetenschappelijk Secretariaat, voorzover dat niet in het huishoudelijk   reglement bepaald is.<BR><BR>§ 2. Het Vlaams Parlement benoemt de directeur na   een openbare oproep tot kandidaatstelling en op basis van een vergelijkende   selectie, voor een termijn van zes jaar. De selectievoorwaarden en de   selectieprocedure worden vastgesteld door het Vlaams Parlement op voorstel van   de raad van bestuur. De selectie wordt uitgevoerd door of in opdracht van het   Vlaams Parlement.<BR><BR>Een persoon kan maximaal gedurende twee termijnen, al   dan niet aaneensluitend, het ambt van directeur bekleden.<BR><BR>§ 3. De   directeur moet aan de volgende voorwaarden voldoen :<BR>1° Belg of onderdaan van   een lid-Staat van de Europese Economische Ruimte zijn;<BR>2° van onberispelijk   gedrag zijn;<BR>3° de burgerlijke en politieke rechten genieten;<BR>4° houder   zijn van een diploma dat toegang verleent tot een ambt van niveau A bij de   diensten van het Vlaams Parlement;<BR>5° ten minste vijf jaar nuttige   beroepservaring hebben. <BR><BR>§ 4. Bij de eerste benoeming doorloopt de   directeur een proefperiode van 1 jaar, te rekenen vanaf de dag waarop de   betrokkene het ambt effectief opneemt.<BR><BR>Uiterlijk vijfenveertig dagen voor   het verstrijken van de proefperiode evalueert het Vlaams Parlement de directeur,   na hierover tijdig het advies van de raad van bestuur ingewonnen te hebben. Bij   ontstentenis van een evaluatie op dat ogenblik wordt de evaluatie geacht gunstig   te zijn.<BR><BR>§ 5. Uiterlijk negentig dagen voor het verstrijken van het   mandaat evalueert het Vlaams Parlement de directeur, na hierover tijdig het   advies van de raad van bestuur ingewonnen te hebben.<BR><BR>Indien de directeur   gunstig geëvalueerd wordt, wordt zijn mandaat van rechtswege eenmaal verlengd   met een nieuwe termijn van zes jaar.<BR><BR>Bij ontstentenis van een evaluatie   negentig dagen voor het verstrijken van het mandaat, wordt de evaluatie geacht   gunstig te zijn.
 
 ### ART. 9bis.
 
@@ -82,6 +82,18 @@ De personeelsleden van het Wetenschappelijk Secretariaat vervullen hun opdracht 
 
 Om zijn opdrachten uit te oefenen heeft het Vredesinstituut het recht om officiële documenten en rapporten op te vragen met betrekking tot zijn opdrachten. Het Vredesinstituut kan een beroep doen op ad hoc commissies van experts en projecten uitbesteden.
 
+### ART. 11bis.
+
+Het Vredesinstituut is verantwoordelijk voor de zorg en organiseert het   beheer van het archief van het Vredesinstituut.<BR><BR>De archiefzorg en de   uitvoering van het archiefbeheer, alsook de toegang tot de archiefdocumenten   verlopen volgens de standaarden en praktijken die het Vlaams Parlement hanteert   voor zijn archief.<BR><BR>De archiefselectielijsten worden op voorstel van het   Vredesinstituut goedgekeurd door het Vlaams Parlement of een door het Vlaams   Parlement aangewezen orgaan.
+
+### ART. 11ter.
+
+Voor de geschillen en de handelingen waarvan het voorwerp tot de bevoegdheid behoort van het Vredesinstituut wordt de Vlaamse Gemeenschap of het Vlaamse Gewest in en buiten rechte vertegenwoordigd door het Vredesinstituut, overeenkomstig zijn huishoudelijk reglement.
+
+### ART. 11quater.
+
+Het Vredesinstituut en het Vlaams Parlement kunnen onderling samenwerken.   Die samenwerking mag geen afbreuk doen aan de autonome werking van het   Vredesinstituut. De inhoud van de samenwerking wordt vastgelegd in een door   beide partijen ondertekend protocol.
+
 ### ART. 12.
 
 De directeur brengt ten minste éénmaal per jaar vóór 1 oktober schriftelijk verslag uit bij het Vlaams Parlement over de werkzaamheden van het Vredesinstituut. Dat verslag bevat de aanbevelingen die het Vredesinstituut nuttig acht. Het verslag van het Vredesinstituut wordt door het Vlaams Parlement openbaar gemaakt.
@@ -95,6 +107,10 @@ Het Vredesinstituut kan, al dan niet op eigen verzoek, te allen tijde door het V
 ### ART. 14.
 
 [Het Vlaams Parlement keurt jaarlijks, op voorstel van de raad van bestuur, de begroting en de rekeningen van het Instituut goed.  <span class="reference">(verv. decr. 15 juli 2005, art. 32, I : 19 september 2005)</span> ]
+
+### ART. 14bis.
+
+Het Vredesinstituut is onderworpen aan een interne audit waarvan de   modaliteiten vastgelegd worden door het Vlaams Parlement.
 
 ### ART. 15.
 
