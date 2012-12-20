@@ -24,6 +24,10 @@
 
 ## Afdeling 4. Successierechten - stiefkinderen
 
+### ART. 17.
+
+<P>In artikel 50 van het Wetboek der Successierechten, gewijzigd bij de decreten   van 21 december 2001 en 20 december 2002, worden de volgende wijzigingen   aangebracht :<BR></P>  <P>1° in het eerste lid wordt tussen de woorden « die met een ouder van de   erflater samenwoont en de erflater. » en de woorden « In het laatste geval van   gelijkstelling » de zin « In het tweede geval van gelijkstelling moet het gaan   om samenwonenden in de zin van artikel 48, § 2, laatste lid. »   ingevoegd;<BR></P>  <P>2° aan het eerste lid worden de volgende zinnen toegevoegd : « De   gelijkstelling geldt ook als de verkrijging plaatsvindt na het overlijden van   diegene die met de erflater samenwoonde of na het overlijden van de ouder van de   erflater. In het laatste geval geldt dezelfde vereiste van samenwonen, maar dan   op het ogenblik van het vooroverlijden van de ouder. ».<BR></P>
+
 ## HOOFDSTUK 4. Budgettaire en financiële controle
 
 ### ART. 18.
