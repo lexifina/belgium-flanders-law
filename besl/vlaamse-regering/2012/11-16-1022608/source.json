@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022608,
+  "title": "Besluit van de Vlaamse Regering van 2012-11-16 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 17 december 2010 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022608/VolledigDocument?datum=2012-12-20",
+  "source_sha256": "29245b8227461c37e4385a98d99fe9a08d435c12941c6bb3ead4f34c873a41bb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022608&param=informatie",
+  "as_of": "2012-12-20",
+  "made": "2012-11-16",
+  "gazette": "2013-01-08",
+  "numac": 2012036278,
+  "document_start": "2012-12-20",
+  "document_end": null,
+  "in_force": "2012-12-20",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2012-12-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
