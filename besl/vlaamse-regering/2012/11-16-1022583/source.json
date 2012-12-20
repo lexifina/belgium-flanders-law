@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022583,
+  "title": "Besluit van de Vlaamse Regering van 2012-11-16 tot toekenning van steun aan ondernemingen voor strategische ecologie-investeringen in het Vlaamse Gewest",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022583/VolledigDocument?datum=2012-12-20",
+  "source_sha256": "77cb1dc4f78f10b0643e8a3de5e6e49275db0b8c8f64dcb958187941bc599677",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022583&param=informatie",
+  "as_of": "2012-12-20",
+  "made": "2012-11-16",
+  "gazette": "2013-01-03",
+  "numac": 2012207281,
+  "document_start": "2012-12-20",
+  "document_end": "2024-06-30",
+  "in_force": "2012-12-20",
+  "article_versions": 48,
+  "record_form": "consolidated version as in force on 2012-12-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
