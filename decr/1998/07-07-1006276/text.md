@@ -128,9 +128,13 @@ De Vlaamse ombudsman kan al dan niet op eigen verzoek te allen tijde door het Vl
 
 [Het Vlaams Parlement keurt jaarlijks op voorstel van de ombudsman de begroting en de rekeningen van de Vlaamse ombudsdienst goed.  <span class="reference">(verv. decr. 15 juli 2005, art. 10, I : 19 september 2005)</span> ]
 
+### ART. 20bis.
+
+De Vlaamse ombudsdienst is onderworpen aan een interne audit waarvan de   modaliteiten vastgelegd worden door het Vlaams Parlement.
+
 ### ART. 21.
 
-De personeelsformatie en het statuut van het personeel van de ombudsdienst worden door het Vlaams Parlement vastgesteld op voorstel van de ombudsman.<br /><br />De personeelsleden van de ombudsdienst vervullen hun opdracht onder leiding van de ombudsman.<br /><br />De personeelsleden van de ombudsdienst hebben in de uitoefening van ombudstaken dezelfde bevoegdheden als de Vlaamse ombudsman.
+De personeelsformatie en het statuut van het personeel van de ombudsdienst   worden door het Vlaams Parlement vastgesteld op voorstel van de   ombudsman.<BR><BR>De personeelsleden van de ombudsdienst vervullen hun opdracht   onder leiding van de ombudsman.<BR><BR>De Vlaamse ombudsman is belast met het   goed beheer van de Vlaamse ombudsdienst.<BR><BR>De personeelsleden van de   ombudsdienst hebben in de uitoefening van ombudstaken dezelfde bevoegdheden als   de Vlaamse ombudsman.
 
 ### ART. 22.
 
@@ -139,6 +143,18 @@ De Vlaamse ombudsman stelt een huishoudelijk reglement op voor de werking van zi
 ### ART. 22bis.
 
 Het Vlaams Parlement bepaalt de vestigingsplaats van de Vlaamse ombudsdienst.  <span class="reference">(ing. decr. 15 juli 2005, art. 11, I : 19 september 2005)</span> ]
+
+### ART. 22ter.
+
+De Vlaamse ombudsdienst en het Vlaams Parlement kunnen onderling   samenwerken. Die samenwerking mag geen afbreuk doen aan de autonome werking van   de Vlaamse ombudsdienst. De inhoud van de samenwerking wordt vastgelegd in een   door beide partijen ondertekend protocol.
+
+### ART. 22quater.
+
+De Vlaamse ombudsman is verantwoordelijk voor de zorg en organiseert het   beheer van het archief van de ombudsdienst.<BR><BR>De archiefzorg en de   uitvoering van het archiefbeheer, alsook de toegang tot de archiefdocumenten   verlopen volgens de standaarden en praktijken die het Vlaams Parlement hanteert   voor zijn archief.<BR><BR>De archiefselectielijsten worden op voorstel van de   Vlaamse ombudsman goedgekeurd door het Vlaams Parlement of een door het Vlaams   Parlement aangewezen orgaan.
+
+### ART. 22quinquies.
+
+Voor de geschillen en de handelingen waarvan het voorwerp tot de   bevoegdheid behoort van de Vlaamse ombudsman wordt de Vlaamse Gemeenschap of het   Vlaamse Gewest in en buiten rechte vertegenwoordigd door de Vlaamse   ombudsman.
 
 ### ART. 23.
 
