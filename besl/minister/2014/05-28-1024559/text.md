@@ -11,3 +11,7 @@ In artikel 13, § 2, van het besluit van de Vlaamse Regering van 16 mei   2007 t
 ### ART. 2.
 
 In artikel 19, eerste lid, van het besluit van de Vlaamse Regering van 17   december 2010 tot toekenning van steun aan ondernemingen voor   ecologie-investeringen in het Vlaamse Gewest, gewijzigd bij het besluit van de   Vlaamse Regering van 16 november 2012, wordt punt 7° vervangen door wat   volgt:<BR>"7° de ecologie-investeringen, met uitzondering van oplaadsystemen   voor elektrische of hybride vaartuigen of voertuigen, die gratis of onder   bezwarende titel ter beschikking worden gesteld aan derden;".<BR>
+
+### ART. 3.
+
+&nbsp;In artikel 17, eerste lid, van het besluit van de Vlaamse Regering   van 16 november 2012 tot toekenning van steun aan ondernemingen voor   strategische ecologie-investeringen in het Vlaamse Gewest wordt punt 4°   vervangen door wat volgt:<BR>"4° de ecologie-investeringen, met uitzondering van   oplaadsystemen voor elektrische of hybride vaartuigen of voertuigen, die gratis   of onder bezwarende titel ter beschikking worden gesteld aan   derden;".<BR>
