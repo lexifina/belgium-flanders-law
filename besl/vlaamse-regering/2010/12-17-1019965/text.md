@@ -29,33 +29,37 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br />1° decreet van 31 januari 2003: het decreet van 31 januari 2003 betreffende het economisch ondersteuningsbeleid;<br />2° minister: de Vlaamse minister, bevoegd voor de economie;<br />3° onderneming: een onderneming als vermeld in artikel 3, 1°, van het decreet van 31 januari 2003;<br />4° kleine, middelgrote en grote onderneming: een onderneming als vermeld in artikel 3, 2°, 3° en 4°, van het decreet van 31 januari 2003;<br />5° steun : de steun, vermeld in artikel 3, 5°, van het decreet van 31 januari 2003;<br />6° indieningsdatum van de steunaanvraag : de datum waarop het Agentschap Ondernemen de steunaanvraag elektronisch ontvangt;<br />7° start van de ecologie-investeringen : de vroegste datum, hetzij van de eerste factuur, hetzij van de akte bij verwerving van een onroerend goed, hetzij van de leasingovereenkomst;<br />8° beëindiging van de ecologie-investeringen : de laatste datum, hetzij van de laatste factuur, hetzij van de akte bij verwerving van een onroerend goed, hetzij van de leasingovereenkomst;<br />9° ecologie-investeringen : milieu-investeringen en investeringen op energiegebied; <br />10° milieu-investeringen : de investeringen, gericht op milieubescherming, vermeld in artikel 12, 2°, van het decreet van 31 januari 2003;<br />11° investeringen op energiegebied : de investeringen, vermeld in artikel 15, § 1, 3°, van het decreet van 31 januari 2003;<br />12° auditconvenant : het auditconvenant over energie-efficiëntie in de industrie, goedgekeurd door de Vlaamse Regering op 10 juni 2005;<br />13° benchmarkingconvenant : het benchmarkingconvenant over energie-efficiëntie in de industrie, goedgekeurd door de Vlaamse Regering op 29 november 2002;<br />14° middelgrote vestiging : een vestiging met een energiegebruik van ten minste 0,1 en minder dan 0,5 petajoule (PJ) per jaar op het ogenblik van toetreding tot het auditconvenant;<br />15° grote energie-intensieve vestiging : een vestiging met een energieverbruik van ten minste 0,5 petajoule (PJ) per jaar op het ogenblik van toetreding tot het benchmarkingconvenant;<br />16° Europese norm : de communautaire norm, vermeld in artikel 12, 1°, van het decreet van 31 januari 2003;<br />17° Vlaamse normen : de regelgeving die van toepassing is in het Vlaamse Gewest, met uitzondering van de Europese normen;<br />18° steunintensiteit : de intensiteit, vermeld in artikel 3, 6°, van het decreet van 31 januari 2003;<br />19° ecologiegetal : het getal dat de performantie uitdrukt van een technologie op de limitatieve technologieënlijst;<br />20° ecoklassen : de klassen die de technologieën op de limitatieve technologieënlijst indelen op basis van het ecologiegetal;<br />21° website : de website van het Agentschap Ondernemen;<br />22° elektriciteitsdecreet : het decreet van 17 juli 2000 houdende de organisatie van de elektriciteitsmarkt of zijn rechtsopvolger;<br />23° bedrijvencentrum : het bedrijvencentrum, vermeld in artikel 1, 1°, van het besluit van de Vlaamse Regering van 11 mei 2007 houdende subsidiëring van bedrijvencentra en doorgangsgebouwen;<br />24° doorgangsgebouw : het doorgangsgebouw, vermeld in artikel 1, 2°, van het besluit van de Vlaamse Regering van 11 mei 2007 houdende subsidiëring van bedrijvencentra en doorgangsgebouwen.<br /><br />
+In dit besluit wordt verstaan onder:<BR>1° decreet van 16 maart 2012 : het   decreet van 16 maart 2012 betreffende het economisch ondersteuningsbeleid;<BR>1°   /1 algemene groepsvrijstellingsverordening : verordening (EG) nr. 800/2008 van   de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van   de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt   verenigbaar worden verklaard (Publicatieblad van 9 augustus 2008, L 214);<BR>2°   minister: de Vlaamse minister, bevoegd voor de economie;<BR>3° onderneming: een   onderneming als vermeld in artikel 3, 1°, van het decreet van 16 maart 2012   ;<BR>4° kleine, middelgrote en grote onderneming: een onderneming als vermeld in   artikel 3, 2°, 3° en 4°, van het decreet van 16 maart 2012 ;<BR>5° steun : de   steun, vermeld in artikel 3, 5°, van het decreet van 16 maart 2012 ;<BR>6°   indieningsdatum van de steunaanvraag : de datum waarop het Agentschap Ondernemen   de steunaanvraag elektronisch ontvangt;<BR>7° start van de   ecologie-investeringen : de vroegste datum, hetzij van de eerste factuur, hetzij   van de akte bij verwerving van een onroerend goed, hetzij van de   leasingovereenkomst;<BR>8° beëindiging van de ecologie-investeringen : de   laatste datum, hetzij van de laatste factuur, hetzij van de akte bij verwerving   van een onroerend goed, hetzij van de leasingovereenkomst;<BR>9°   ecologie-investeringen : milieu-investeringen en investeringen op energiegebied;   <BR>10° milieu-investeringen : de investeringen, gericht op milieubescherming   als vermeld in artikel 17, punt 1, van de algemene   groepsvrijstellingsverordening;<BR>11° investeringen op energiegebied : de   investeringen, vermeld in artikel 15, § 4, van het decreet van 16 maart 2012   ;<BR>11° /1 energiebeleidsovereenkomst : de overeenkomst, vermeld in artikel   7.7.1 van het Energiedecreet;<BR>12° ...;<BR>13° ...;<BR>14° ...;<BR>15°   ...;<BR>16° Europese norm : de communautaire norm, vermeld in artikel 17, punt   3, van de algemene groepsvrijstellingsverordening;<BR>17° Vlaamse normen : de   regelgeving die van toepassing is in het Vlaamse Gewest, met uitzondering van de   Europese normen;<BR>18° steunintensiteit : de intensiteit, vermeld in artikel 3,   6°, van het decreet van 16 maart 2012;<BR>19° ecologiegetal : het getal dat de   performantie uitdrukt van een technologie op de limitatieve   technologieënlijst;<BR>20° ecoklassen : de klassen die de technologieën op de   limitatieve technologieënlijst indelen op basis van het ecologiegetal;<BR>21°   website : de website van het Agentschap Ondernemen;<BR>22° Energiedecreet : het   decreet van 8 mei 2009 houdende algemene bepalingen betreffende het   energiebeleid;<BR>23° bedrijvencentrum : het bedrijvencentrum, vermeld in   artikel 1, 1°, van het besluit van de Vlaamse Regering van 11 mei 2007 houdende   subsidiëring van bedrijvencentra en doorgangsgebouwen;<BR>24° doorgangsgebouw :   het doorgangsgebouw, vermeld in artikel 1, 2°, van het besluit van de Vlaamse   Regering van 11 mei 2007 houdende subsidiëring van bedrijvencentra en   doorgangsgebouwen.<BR><BR>
 
 ## Afdeling 2 Definitie van kleine en middelgrote ondernemingen
 
 ### ART. 2.
 
-De grootte van de onderneming, bepaald in de door de Europese Commissie vastgestelde definitie van kleine en middelgrote ondernemingen, vermeld in bijlage I van verordening (EG) nr. 800/2008 van de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard, wordt vastgesteld op basis van een verklaring op erewoord van de onderneming en op basis van artikel 3 en 4.<br /><br />
+De grootte van de onderneming, bepaald in de definitie van kleine en   middelgrote ondernemingen die de Europese Commissie heeft vastgesteld in bijlage   I vande algemene groepsvrijstellingsverordening, wordt vastgesteld op basis van   een verklaring op erewoord van de onderneming en op basis van artikel   3.<BR>
 
 ### ART. 3.
 
-De gegevens voor de berekening van de jaaromzet en het balanstotaal worden   vastgesteld op basis van de laatst bij de Nationale Bank van België neergelegde   jaarrekening voor de indieningsdatum van de steunaanvraag, die beschikbaar is   via een centrale databank. <BR><BR>Om de omzet te berekenen, wordt een boekjaar   van meer of minder dan twaalf maanden herberekend tot een periode van twaalf   maanden. <BR><BR>Voor ondernemingen die geen jaarrekening hoeven op te maken,   worden de gegevens vastgesteld op basis van de laatste aangifte bij de directe   belastingen voor de indieningsdatum van de steunaanvraag.<BR><BR>Bij recent   opgerichte ondernemingen, waarvan de eerste jaarrekening nog niet is neergelegd   en de eerste fiscale aangifte nog niet is uitgevoerd, worden de gegevens   vastgesteld op basis van een financieel plan van het eerste   productiejaar.<BR><BR>
+De gegevens voor de berekening van de jaaromzet, het balanstotaal en het   aantal werkzame personen worden vastgesteld op basis van de laatste jaarrekening   die bij de Nationale Bank van België is neergelegd voor de indieningsdatum van   de steunaanvraag, en die beschikbaar is via een centrale databank. <BR><BR>Om de   omzet te berekenen, wordt een boekjaar van meer of minder dan twaalf maanden   herberekend tot een periode van twaalf maanden. <BR><BR>Voor ondernemingen die   geen jaarrekening moeten opmaken, worden de gegevens voor de berekening van de   jaaromzet vastgesteld op basis van de laatste aangifte bij de directe   belastingen voor de indieningsdatum van de steunaanvraag. De gegevens voor de   berekening van het aantal werkzame personen worden in dat geval vastgesteld aan   de hand van het aantal werknemers die in de onderneming waren tewerkgesteld   gedurende de laatste vier kwartalen die de Rijksdienst voor Sociale Zekerheid   kan attesteren voor de indieningsdatum van de steunaanvraag.<BR><BR>Bij recent   opgerichte ondernemingen, waarvan de eerste jaarrekening nog niet is neergelegd   en de eerste fiscale aangifte nog niet is uitgevoerd, worden de gegevens   vastgesteld op basis van een financieel plan van het eerste   productiejaar.<BR><BR>
 
 ### ART. 4.
 
-De gegevens voor de berekening van het aantal werkzame personen worden vastgesteld aan de hand van het aantal werknemers dat in de onderneming was tewerkgesteld gedurende de laatste vier kwartalen die de Rijksdienst voor Sociale Zekerheid kan attesteren voor de indieningsdatum van de steunaanvraag, en die beschikbaar zijn via een centrale databank.<br /><br />Bij recent opgerichte ondernemingen, waarvoor de Rijksdienst voor Sociale Zekerheid nog geen attest van het aantal werknemers kan afleveren, worden de gegevens vastgesteld op basis van een financieel plan van het eerste productiejaar.<br /><br />
+<P>...</P>
 
 ## Afdeling 3 Europese regelgeving
 
 ### ART. 5.
 
-Deze regelgeving valt onder de toepassing van verordening (EG) nr. 800/2008 van de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard (PB L 214 van 9 augustus 2008, blz. 3).<br /><br />
+Deze regelgeving valt onder de toepassing van de algemene   groepsvrijstellingsverordening.<BR><BR>
 
 ## Afdeling 4 Algemene voorwaarden
 
+### ART. 5/1.
+
+Ter uitvoering van artikel 4, tweede lid, van het decreet van 16 maart   2012 is er een verbod om de steun, verleend in het kader van dit besluit, te   cumuleren met de steun, verleend in het kader van het besluit van de Vlaamse   Regering van 16 november 2012 tot toekenning van steun aan ondernemingen voor   strategische ecologie-investeringen in het Vlaamse Gewest.
+
 ### ART. 6.
 
-Er wordt alleen steun verleend aan ondernemingen die voldoen aan de regelgeving die van toepassing is in het Vlaamse Gewest. De onderneming moet aan die regelgeving blijven voldoen tot vijf jaar na de beëindiging van de ecologie-investeringen.<br /><br />De onderneming mag op de indieningsdatum van de steunaanvraag geen achterstallige schulden hebben bij de Rijksdienst voor Sociale Zekerheid.<br /><br />
+Er wordt alleen steun verleend aan ondernemingen die voldoen aan de   regelgeving die van toepassing is in het Vlaamse Gewest. De onderneming moet aan   die regelgeving blijven voldoen tot vijf jaar na de beëindiging van de   ecologie-investeringen.<BR><BR>De onderneming mag op de indieningsdatum van de   steunaanvraag geen achterstallige schulden hebben bij de Rijksdienst voor   Sociale Zekerheid en geen procedure op basis van Europees of nationaal recht   hebben lopen waarbij een toegekende steun wordt   teruggevorderd.<BR><BR>
 
 ### ART. 7.
 
@@ -63,19 +67,19 @@ De ecologie-investeringen moeten starten binnen zes maanden na de beslissing tot
 
 ### ART. 8.
 
-De termijn van vijf jaar, vermeld in artikel 7 van het decreet van 31 januari 2003, gaat in vanaf de beëindiging van de ecologie-investeringen.<br /><br />
+De termijn van vijf jaar, vermeld in artikel 7 van het decreet van 16   maart 2012 , gaat in vanaf de beëindiging van de   ecologie-investeringen.<BR><BR>
 
 ### ART. 9.
 
-Er kan geen steun worden verleend aan ondernemingen als een administratieve overheid, als vermeld in artikel 14 van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, op de indieningsdatum van de steunaanvraag een dominerende invloed heeft. Er is een vermoeden van dominerende invloed als de onderneming voor 50 % of meer van het kapitaal of de stemrechten rechtstreeks of onrechtstreeks in handen is van de administratieve overheid.<br /><br />Dat vermoeden kan worden weerlegd als de onderneming kan aantonen dat de administratieve overheid, vermeld in het eerste lid, in werkelijkheid geen dominerende invloed uitoefent op het beleid van de onderneming. De minister beslist daarover.<br /><br />
+Er kan geen steun verleend worden aan ondernemingen als een   administratieve overheid als vermeld in artikel 14 van de gecoördineerde wetten   op de Raad van State of een buitenlandse vergelijkbare administratieve overheid   op de indieningsdatum van de steunaanvraageen dominerende invloed heeft. Er is   een vermoeden van dominerende invloed als de onderneming voor 50 % of meer van   het kapitaal of de stemrechten rechtstreeks of onrechtstreeks in handen is van   de administratieve overheid.<BR><BR>Dat vermoeden kan worden weerlegd als de   onderneming kan aantonen dat de administratieve overheid, vermeld in het eerste   lid, in werkelijkheid geen dominerende invloed uitoefent op het beleid van de   onderneming. De minister beslist daarover.<BR><BR>
 
 ### ART. 10.
 
-Er wordt alleen steun verleend aan ondernemingen met een of meer middelgrote vestigingen in het Vlaamse Gewest als ze voor de indieningsdatum van de steunaanvraag zijn toegetreden tot het auditconvenant en als ze voldoen aan de verplichtingen ten gevolge van de toetreding.<br /><br />Er wordt alleen steun verleend aan ondernemingen met een of meer grote energie-intensieve vestigingen in het Vlaamse Gewest als ze voor de indieningsdatum van de steunaanvraag zijn toegetreden tot het benchmarkingconvenant en als ze voldoen aan de verplichtingen ten gevolge van de toetreding.<br /><br />
+Er wordt alleen steun verleend aan ondernemingen in het Vlaamse Gewest als   ze voor de indieningsdatum van de steunaanvraag zijn toegetreden tot de   energiebeleidsovereenkomst die voor de onderneming van toepassing is op de   indieningsdatum van de steunaanvraag.<BR><BR>
 
 ### ART. 11.
 
-De toegekende steun moet een stimulerend effect hebben.<br /><br />Dat betekent dat de ecologie-investeringen op zijn vroegst mogen starten na de indieningsdatum van de steunaanvraag.<br /><br />Grote ondernemingen moeten bijkomend het stimulerende effect van de steun voor het investeringsproject bewijzen.<br /><br />Het stimulerende effect wordt aangetoond op basis van een van de volgende punten :<br />1° een wezenlijke toename van de omvang van het investeringsproject of van de activiteit van de onderneming als gevolg van de toekenning van de steun;<br />2° een wezenlijke toename van de reikwijdte van het investeringsproject of van de activiteit van de onderneming als gevolg van de toekenning van de steun;<br />3° een wezenlijke toename van de totale uitgaven van de onderneming voor het investeringsproject als gevolg van de toekenning van de steun.<br /><br />Het vierde lid houdt concreet in dat het stimulerende effect wordt bewezen door het volgende aan te tonen :<br />1° welke technisch vergelijkbare ecologie-investering met een lager niveau van milieubescherming in elk geval uitgevoerd zal worden;<br />2° welke ecologie-investeringen de onderneming bereid is boven op de ecologie-investeringen, vermeld in punt 1°, uit te voeren.<br /><br />
+De toegekende steun moet een stimulerend effect hebben.<BR><BR>Dat   betekent dat de ecologie-investeringen op zijn vroegst mogen starten na de   indieningsdatum van de steunaanvraag. De steun vervalt volledig als de   ecologie-investeringen starten voor of op de indieningsdatum.<BR><BR>Grote   ondernemingen moeten bijkomend het stimulerende effect van de steun voor het   investeringsproject bewijzen.<BR><BR>Het stimulerende effect wordt aangetoond op   basis van een van de volgende punten :<BR>1° een wezenlijke toename van de   omvang van het investeringsproject of van de activiteit van de onderneming als   gevolg van de toekenning van de steun;<BR>2° een wezenlijke toename van de   reikwijdte van het investeringsproject of van de activiteit van de onderneming   als gevolg van de toekenning van de steun;<BR>3° een wezenlijke toename van de   totale uitgaven van de onderneming voor het investeringsproject als gevolg van   de toekenning van de steun;<BR>4° een wezenlijke toename van de snelheid waarmee   het betrokken investeringsproject wordt voltooid.<BR><BR>Het vierde lid houdt   concreet in dat het stimulerende effect wordt bewezen door het volgende aan te   tonen :<BR>1° welke technisch vergelijkbare ecologie-investering met een lager   niveau van milieubescherming in elk geval uitgevoerd zal worden;<BR>2° welke   ecologie-investeringen de onderneming bereid is boven op de   ecologie-investeringen, vermeld in punt 1°, uit te voeren.<BR><BR>
 
 ### ART. 12.
 
@@ -85,7 +89,7 @@ De minister bepaalt de aanvullende uitvoeringsvoorwaarden.<br /><br />
 
 ### ART. 13.
 
-Er wordt steun verleend aan ondernemingen voor ecologie-investeringen die worden uitgevoerd in het Vlaamse Gewest onder de voorwaarden, vermeld in het decreet van 31 januari 2003, dit besluit en de uitvoeringsbesluiten van dit besluit.<br /><br />
+Er wordt steun verleend aan ondernemingen voor ecologie-investeringen die   worden uitgevoerd in het Vlaamse Gewest onder de voorwaarden, vermeld in het   decreet van 16 maart 2012, dit besluit en de uitvoeringsbesluiten van dit   besluit.<BR><BR>
 
 ### ART. 14.
 
@@ -99,19 +103,19 @@ Ecologie-investeringen komen in aanmerking voor steun als ze voorkomen op de lim
 
 ### ART. 16.
 
-Als bepaalde ecologie-investeringen die voorkomen op de limitatieve technologieënlijst, voor bepaalde ondernemingen niet beantwoorden aan de doelstellingen, vermeld in artikel 15, tweede lid, komen die ecologie-investeringen niet in aanmerking voor steun voor die ondernemingen. <br /><br />Bepaalde sectorgebonden ecologie-investeringen die voorkomen op de limitatieve technologieënlijst, komen alleen in aanmerking voor steun voor ondernemingen waarvan de hoofdactiviteit op de indieningsdatum van de steunaanvraag behoort tot de desbetreffende sector.<br /><br />De volgende ecologie-investeringen kunnen niet voorkomen op de limitatieve technologieënlijst :<br />1° ecologie-investeringen die in aanmerking komen voor steunverlening via warmtekrachtcertificaten als vermeld in het elektriciteitsdecreet;<br />2° ecologie-investeringen die in aanmerking komen voor steunverlening via groenestroomcertificaten als vermeld in het elektriciteitsdecreet. <br /><br />
+Als bepaalde ecologie-investeringen die voorkomen op de limitatieve   technologieënlijst, voor bepaalde ondernemingen niet beantwoorden aan de   doelstellingen, vermeld in artikel 15, tweede lid, komen die   ecologie-investeringen niet in aanmerking voor steun voor die ondernemingen.   <BR><BR>Bepaalde sectorgebonden ecologie-investeringen die voorkomen op de   limitatieve technologieënlijst, komen alleen in aanmerking voor steun voor   ondernemingen waarvan de hoofdactiviteit op de indieningsdatum van de   steunaanvraag behoort tot de desbetreffende sector.<BR><BR>De volgende   ecologie-investeringen kunnen niet voorkomen op de limitatieve   technologieënlijst :<BR>1° ecologie-investeringen die in aanmerking komen voor   steunverlening via warmtekrachtcertificaten als vermeld in het titel,VII,   hoofdstuk I, van het Energiedecreet;<BR>2° ecologie-investeringen die in   aanmerking komen voor steunverlening via groenestroomcertificaten als vermeld in   het titel,VII, hoofdstuk I, van het Energiedecreet. <BR><BR>
 
 ### ART. 17.
 
-De essentiële investeringscomponenten, vermeld in artikel 15, eerste lid, kunnen alleen de volgende materiële en immateriële investeringen bevatten :<br />1° installaties en uitrustingen die erop gericht zijn vervuiling of hinder te beperken of te beëindigen of de productiemethoden aan te passen met het oog op de bescherming van het milieu;<br />2° immateriële investeringen als vermeld in artikel 14, § 2, van het decreet van 31 januari 2003.<br /><br />
+<P>...</P>
 
 ### ART. 18.
 
-De ecologie-investeringen kunnen ook uitgevoerd worden door een patrimoniumvennootschap, die behoort tot dezelfde groep als de steunaanvragende onderneming. Beide vennootschappen behoren tot dezelfde groep in een van de volgende gevallen :<br />1° de patrimoniumvennnootschap participeert voor ten minste 25 % in de steunaanvragende onderneming;<br />2° de steunaanvragende onderneming participeert voor ten minste 25 % in de patrimoniumvennootschap;<br />3° een natuurlijke of rechtspersoon participeert voor ten minste 25 % in beide vennootschappen.<br /><br />Ter uitvoering van artikel 7 van het decreet van 31 januari 2003 moeten de ecologie-investeringen door de patrimoniumvennootschap, vermeld in het eerste lid, gedurende 5 jaar ter beschikking worden gesteld aan de steunaanvragende onderneming. <br /><br />
+De ecologie-investeringen kunnen ook uitgevoerd worden door een   patrimoniumvennootschap, die behoort tot dezelfde groep als de steunaanvragende   onderneming. Beide vennootschappen behoren tot dezelfde groep in een van de   volgende gevallen :<BR>1° de patrimoniumvennnootschap participeert voor ten   minste 25 % in de steunaanvragende onderneming;<BR>2° de steunaanvragende   onderneming participeert voor ten minste 25 % in de   patrimoniumvennootschap;<BR>3° een natuurlijke of rechtspersoon participeert   voor ten minste 25 % in beide vennootschappen.<BR><BR>Ter uitvoering van artikel   7 van het decreet van 16 maart 2012 moeten de ecologie-investeringen door de   patrimoniumvennootschap, vermeld in het eerste lid, gedurende 5 jaar ter   beschikking worden gesteld aan de steunaanvragende onderneming.   <BR><BR>
 
 ### ART. 19.
 
-De volgende ecologie-investeringen komen niet in aanmerking :<BR>1° de   ecologie-investeringen, voorheen geactiveerd en opgenomen in de   afschrijvingstabel, die verworven worden van :<BR>a) een onderneming waarin de   steunaanvragende onderneming rechtstreeks of onrechtstreeks participeert;<BR>b)   een onderneming die rechtstreeks of onrechtstreeks participeert in de   steunaanvragende onderneming;<BR>c) een verwante patrimoniumvennootschap;<BR>2°   de ecologie-investeringen die verworven worden van een zaakvoerder, een   bestuurder of een aandeelhouder van de steunaanvragende onderneming;<BR>3° de   ecologie-investeringen die in geval van aankoop niet verworven worden in volle   eigendom;<BR>4° de ecologie-investeringen met betrekking tot de exploitatie van   een bedrijvencentrum of een doorgangsgebouw;<BR>5° de ecologie-investeringen die   op een periode van minder dan drie jaar worden afgeschreven;<BR>6° de   ecologie-investeringen die een onderdeel uitmaken van de ecologie-investeringen,   vermeld in artikel 16, derde lid, van het besluit van de Vlaamse Regering van 17   december 2010;<BR>7° de ecologie-investeringen, met uitzondering van   oplaadsystemen voor elektrische of hybride vaartuigen of voertuigen, die gratis   of onder bezwarende titel ter beschikking worden gesteld aan derden;<BR><BR>De   minister kan, overeenkomstig de bedoeling van het decreet van 31 januari 2003 en   dit besluit, de opsomming van de niet in aanmerking komende   ecologie-investeringen, vermeld in het eerste lid,   aanpassen.<BR><BR>
+De volgende ecologie-investeringen komen niet in aanmerking :<BR>1° de   ecologie-investeringen, voorheen geactiveerd en opgenomen in de   afschrijvingstabel, die verworven worden van :<BR>a) een onderneming waarin de   steunaanvragende onderneming rechtstreeks of onrechtstreeks participeert;<BR>b)   een onderneming die rechtstreeks of onrechtstreeks participeert in de   steunaanvragende onderneming;<BR>c) een verwante patrimoniumvennootschap;<BR>2°   de ecologie-investeringen die verworven worden van een zaakvoerder, een   bestuurder of een aandeelhouder van de steunaanvragende onderneming;<BR>3° de   ecologie-investeringen die in geval van aankoop niet verworven worden in volle   eigendom;<BR>4° de ecologie-investeringen met betrekking tot de oprichting,   uitbreiding en modernisering&nbsp;van een bedrijvencentrum of een   doorgangsgebouw;<BR>5° de ecologie-investeringen die op een periode van minder   dan drie jaar worden afgeschreven;<BR>6° de ecologie-investeringen die een   onderdeel uitmaken van de ecologie-investeringen, vermeld in artikel 16, derde   lid, van het besluit van de Vlaamse Regering van 17 december 2010;<BR>7° de   ecologie-investeringen, met uitzondering van oplaadsystemen voor elektrische of   hybride vaartuigen of voertuigen, die gratis of onder bezwarende titel ter   beschikking worden gesteld aan derden.<BR><BR>De minister kan, overeenkomstig de   bedoeling van het decreet van 16 maart 2012 en dit besluit, de opsomming van de   niet in aanmerking komende ecologie-investeringen, vermeld in het eerste lid,   aanpassen.<BR><BR>
 
 ## HOOFDSTUK 4 Steunintensiteit
 
@@ -121,11 +125,12 @@ De steun wordt toegekend in de vorm van een subsidie.<br /><br />
 
 ### ART. 21.
 
-De subsidie wordt berekend als een percentage van de subsidiabele investeringen. Dat zijn de extra investeringen van de essentiële investeringscomponenten, vermeld in artikel 15, eerste lid, en artikel 17.<br /><br />De extra investeringen, vermeld in artikel 14, § 3, van het decreet van 31 januari 2003, worden berekend door de ecologie-investering te vergelijken met een klassieke investering die in technisch opzicht ermee vergelijkbaar is, maar waarmee niet hetzelfde niveau van milieubescherming of energie-efficiëntie kan worden bereikt. De vergelijking moet uitgevoerd worden op basis van een gelijke productiecapaciteit van de klassieke investering en de geplande ecologie-investering.<br /><br />
+De subsidie wordt berekend als een percentage van de subsidiabele   investeringen. Dat zijn de extra investeringen, exclusief btw, van de essentiële   investeringscomponenten, vermeld in artikel 15, eerste lid.<BR><BR>De extra   investeringen, vermeld in artikel 16, § 3, van het decreet van 16 maart 2012 ,   worden berekend door de ecologie-investering te vergelijken met een klassieke   investering die in technisch opzicht ermee vergelijkbaar is, maar waarmee niet   hetzelfde niveau van milieubescherming of energie-efficiëntie kan worden   bereikt. De vergelijking moet uitgevoerd worden op basis van een gelijke   productiecapaciteit van de klassieke investering en de geplande   ecologie-investering.<BR><BR>Voor de investeringen ten behoeve van   energiebesparende maatregelen worden de besparingen of opbrengsten in mindering   gebracht op de extra investeringen gedurende de volgende termijnen :<BR>1° de   eerste 3 jaar voor kleine en middelgrote ondernemingen;<BR>2° de eerste 4 jaar   voor grote ondernemingen die niet aan het EU-systeem inzake   CO<SUB>2</SUB>-emissiehandel deelnemen;<BR>3° de eerste 5 jaar voor grote   ondernemingen die wel aan het EU-systeem inzake CO<SUB>2</SUB>-emissiehandel   deelnemen.<BR><BR>
 
 ### ART. 22.
 
 § 1. Het maximale bedrag van de subsidie wordt bepaald op basis van de ecoklasse, op basis van de aard van de ecologie-investering en op basis vande grootte van de onderneming op de indieningsdatum van de steunaanvraag overeenkomstig de volgende tabel :<br>
+<br>
 &nbsp;
 <table border="1">
 	<tbody>
@@ -133,28 +138,30 @@ De subsidie wordt berekend als een percentage van de subsidiabele investeringen.
 			<td colspan="4">1° milieu-investering</td>
 		</tr>
 		<tr>
-			<td>Ecoklasse</td>
+			<td>ecoklasse</td>
 			<td>ecologiegetal</td>
-			<td>kleine en middelgrote ondernemingen</td>
-			<td>grote ondernemingen</td>
+			<td>kleine en<br>
+			middelgrote ondernemingen</td>
+			<td>grote<br>
+			ondernemingen</td>
 		</tr>
 		<tr>
 			<td>A</td>
 			<td>9 - 6</td>
+			<td>35 %</td>
 			<td>25 %</td>
-			<td>12,5 %</td>
 		</tr>
 		<tr>
 			<td>B</td>
 			<td>4 - 3</td>
-			<td>10 %</td>
-			<td>5 %</td>
+			<td>25 %</td>
+			<td>15 %</td>
 		</tr>
 		<tr>
 			<td>C</td>
 			<td>2</td>
+			<td>15 %</td>
 			<td>5 %</td>
-			<td>0 %</td>
 		</tr>
 		<tr>
 			<td>D</td>
@@ -163,7 +170,7 @@ De subsidie wordt berekend als een percentage van de subsidiabele investeringen.
 			<td>0 %</td>
 		</tr>
 		<tr>
-			<td colspan="4">2° investering op energiegebied:</td>
+			<td colspan="4">2° investering op energiegebied :</td>
 		</tr>
 		<tr>
 			<td colspan="4">a) investering ten behoeve van energiebesparende maatregelen</td>
@@ -171,26 +178,28 @@ De subsidie wordt berekend als een percentage van de subsidiabele investeringen.
 		<tr>
 			<td>ecoklasse</td>
 			<td>ecologiegetal</td>
-			<td>kleine en middelgrote ondernemingen</td>
-			<td>grote ondernemingen</td>
+			<td>kleine en<br>
+			middelgrote ondernemingen</td>
+			<td>grote<br>
+			ondernemingen</td>
 		</tr>
 		<tr>
 			<td>A</td>
 			<td>9 - 6</td>
-			<td>25 %</td>
-			<td>12,5 %</td>
+			<td>60 %</td>
+			<td>50 %</td>
 		</tr>
 		<tr>
 			<td>B</td>
 			<td>4 - 3</td>
-			<td>10 %</td>
-			<td>5 %</td>
+			<td>40 %</td>
+			<td>30 %</td>
 		</tr>
 		<tr>
 			<td>C</td>
 			<td>2</td>
-			<td>5 %</td>
-			<td>0 %</td>
+			<td>20 %</td>
+			<td>10 %</td>
 		</tr>
 		<tr>
 			<td>D</td>
@@ -202,28 +211,30 @@ De subsidie wordt berekend als een percentage van de subsidiabele investeringen.
 			<td colspan="4">b) investering ten behoeve van energie uit hernieuwbare energiebronnen of hoogrenderende warmte-krachtkoppeling</td>
 		</tr>
 		<tr>
-			<td>Ecoklasse</td>
+			<td>ecoklasse</td>
 			<td>ecologiegetal</td>
-			<td>kleine en middelgrote ondernemingen</td>
-			<td>grote ondernemingen</td>
+			<td>kleine en<br>
+			middelgrote ondernemingen</td>
+			<td>grote<br>
+			ondernemingen</td>
 		</tr>
 		<tr>
 			<td>A</td>
 			<td>9 - 6</td>
-			<td>25 %</td>
-			<td>12,5 %</td>
+			<td>45 %</td>
+			<td>35 %</td>
 		</tr>
 		<tr>
 			<td>B</td>
 			<td>4 - 3</td>
-			<td>10 %</td>
-			<td>5 %</td>
+			<td>30 %</td>
+			<td>20 %</td>
 		</tr>
 		<tr>
 			<td>C</td>
 			<td>2</td>
+			<td>15 %</td>
 			<td>5 %</td>
-			<td>0 %</td>
 		</tr>
 		<tr>
 			<td>D</td>
@@ -304,11 +315,15 @@ De steunaanvraag wordt door de onderneming ingediend via de website en wordt ele
 
 ## [HOOFDSTUK 5/1 Beslissingsbevoegdheid (ing. BVR 16 november 2012, art. 17)]
 
+### ART. 23/1.
+
+De minister heeft beslissingsbevoegdheid met betrekking tot de   steuntoekenning.
+
 ## HOOFDSTUK 6 Uitbetaling en verjaring
 
 ### ART. 24.
 
-De subsidie wordt aan de onderneming uitbetaald in drie schijven :<br />1° 30 % op zijn vroegst dertig dagen na de beslissing tot toekenning van de subsidie op voorwaarde dat de onderneming de volgende twee voorwaarden vervult :<br />a) de onderneming vraagt de uitbetaling van de schijf aan;<br />b) de onderneming heeft de ecologie-investeringen gestart;<br />2° 30 % op zijn vroegst dertig dagen na de beslissing tot toekenning van de subsidie op voorwaarde dat de onderneming de volgende twee voorwaarden vervult :<br />a) de onderneming vraagt de uitbetaling van de schijf aan;<br />b) de onderneming heeft de ecologie-investeringen voor 60 % uitgevoerd;<br />3° 40 % op zijn vroegst dertig dagen na de beslissing tot toekenning van de subsidie en na de beëindiging van de ecologie-investeringen op voorwaarde dat de onderneming de volgende vier voorwaarden vervult :<br />a) de onderneming vraagt de uitbetaling van de schijf aan;<br />b) de onderneming heeft de ecologie-investeringen volledig uitgevoerd en exploiteert de ecologie-investeringen in de onderneming;<br />c) de onderneming heeft geen achterstallige schulden bij de Rijksdienst voor Sociale Zekerheid of in het kader van subsidiemaatregelen met toepassing van het decreet van 31 januari 2003. Als er achterstallige schulden zijn, wordt de uitbetaling opgeschort tot de onderneming het bewijs levert dat die schulden werden aangezuiverd; <br />d) de onderneming voldoet aan alle voorwaarden, vermeld in het decreet van 31 januari 2003, dit besluit en de uitvoeringsbesluiten.<br /><br />
+De subsidie wordt aan de onderneming uitbetaald in drie schijven :<BR>1°   30 % op zijn vroegst dertig dagen na de beslissing tot toekenning van de   subsidie op voorwaarde dat de onderneming de volgende twee voorwaarden vervult   :<BR>a) de onderneming vraagt de uitbetaling van de schijf aan;<BR>b) de   onderneming heeft de ecologie-investeringen gestart;<BR>2° 30 % op zijn vroegst   dertig dagen na de beslissing tot toekenning van de subsidie op voorwaarde dat   de onderneming de volgende twee voorwaarden vervult :<BR>a) de onderneming   vraagt de uitbetaling van de schijf aan;<BR>b) de onderneming heeft de   ecologie-investeringen voor 60 % uitgevoerd;<BR>3° 40 % op zijn vroegst dertig   dagen na de beslissing tot toekenning van de subsidie en na de beëindiging van   de ecologie-investeringen op voorwaarde dat de onderneming de volgende vier   voorwaarden vervult :<BR>a) de onderneming vraagt de uitbetaling van de schijf   aan;<BR>b) de onderneming heeft de ecologie-investeringen volledig uitgevoerd en   exploiteert de ecologie-investeringen in de onderneming;<BR>c) de onderneming   heeft geen achterstallige schulden bij de Rijksdienst voor Sociale Zekerheid of   in het kader van subsidiemaatregelen met toepassing van het decreet van 16 maart   2012 . Als er achterstallige schulden zijn, wordt de uitbetaling opgeschort tot   de onderneming het bewijs levert dat die schulden werden aangezuiverd; <BR>d) de   onderneming voldoet aan alle voorwaarden, vermeld in het decreet van 16 maart   2012 , dit besluit en de uitvoeringsbesluiten.<BR><BR>
 
 ### ART. 25.
 
@@ -322,7 +337,7 @@ De aanvraag tot uitbetaling wordt door de onderneming ingediend via de website e
 
 ### ART. 27.
 
-De subsidie kan geheel of gedeeltelijk teruggevorderd worden binnen tien jaar na de indieningsdatum van de steunaanvraag, met behoud van de toepassing van de wetten op de Rijkscomptabiliteit, gecoördineerd op 17 juli 1991, en de wet van 7 juni 1994 tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaringen te doen in verband met subsidies, vergoedingen en toelagen van elke aard, die geheel of gedeeltelijk ten laste zijn van de Staat, in geval van :<br />1° faillissement, vereffening, boedelafstand, ontbinding, vrijwillige of gerechtelijke verkoop, sluiting in het kader van een sociaaleconomische herstructureringsoperatie met tewerkstellingsafbouw tot gevolg, als die feiten zich voordoen binnen vijf jaar na de beëindiging van de ecologie-investeringen;<br />2° niet-naleving van de wettelijke informatie- en raadplegingsprocedures bij collectief ontslag binnen vijf jaar na de beëindiging van de ecologie-investeringen;<br />3° niet-naleving van de bij het decreet van 31 januari 2003, dit besluit of de uitvoeringsbesluiten opgelegde voorwaarden.<br /><br />
+De subsidie wordt teruggevorderd binnen tien jaar na de indieningsdatum   van de steunaanvraag in geval van :<BR>1° faillissement, vereffening,   boedelafstand, ontbinding, vrijwillige of gerechtelijke verkoop, sluiting in het   kader van een sociaaleconomische herstructureringsoperatie met   tewerkstellingsafbouw tot gevolg, als die feiten zich voordoen binnen vijf jaar   na de beëindiging van de ecologie-investeringen;<BR>2° niet-naleving van de   wettelijke informatie- en raadplegingsprocedures bij collectief ontslag binnen   vijf jaar na de beëindiging van de ecologie-investeringen;<BR>3° niet-naleving   van de voorwaarden die zijn opgelegd bij het decreet van 16 maart 2012, dit   besluit of de uitvoeringsbesluiten binnen een periode van vijf jaar na de   beëindiging van de ecologie-investeringen.
 
 ### ART. 28.
 
