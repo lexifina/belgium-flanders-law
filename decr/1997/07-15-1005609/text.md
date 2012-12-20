@@ -14,7 +14,7 @@ In dit decreet wordt verstaan onder:<br /><br />1° het Verdrag: het Verdrag inz
 
 ### ART. 3.
 
-1. Het ambt van Kinderrechtencommissaris, hierna Commissaris genoemd, wordt ingesteld.<br /><br />2. De Commissaris wordt benoemd door het Vlaams Parlement.<br /><br />3. De personeelsformatie en het statuut van het personeel van het Kinderrechtencommissariaat worden door het Vlaams Parlement vastgesteld op voorstel van de Commissaris.<br /><br />[De personeelsleden van het Kinderrechtencommissariaat vervullen hun opdracht onder leiding van de Commissaris.<br /><br />De personeelsleden van het Kinderrechtencommissariaat hebben in de uitoefening van hun taken dezelfde bevoegdheden als de Commissaris.  <span class="reference">(ing. decr. 15 juli 2005, art. 12, I : 19 september 2005)</span> ]
+1. Het ambt van Kinderrechtencommissaris, hierna Commissaris genoemd,   wordt ingesteld.<BR><BR>2. De Commissaris wordt benoemd door het Vlaams   Parlement.<BR><BR>3. De personeelsformatie en het statuut van het personeel van   het Kinderrechtencommissariaat worden door het Vlaams Parlement vastgesteld op   voorstel van de Commissaris.<BR><BR>De personeelsleden van het   Kinderrechtencommissariaat vervullen hun opdracht onder leiding van de   Commissaris.<BR><BR>De Commissaris is belast met het goed beheer van de   instelling.<BR><BR>De personeelsleden van het Kinderrechtencommissariaat hebben   in de uitoefening van hun taken dezelfde bevoegdheden als de   Commissaris.
 
 ### ART. 4.
 
@@ -22,7 +22,7 @@ De Commissaris verdedigt de rechten en behartigt de belangen van het kind.<br />
 
 ### ART. 5.
 
-Bij de uitoefening van de in artikel 4 bepaalde opdrachten besteedt de Commissaris, met het Verdrag als leidraad, in het bijzonder aandacht aan:<br /><br />1° de dialoog met het kind en met de organisaties actief rond individuele en collectieve dienstverlening aan of belangenbehartiging van het kind;<br /><br />2° de maatschappelijke participatie van het kind en de toegankelijkheid voor het kind van alle diensten en organisaties die met het kind te maken hebben;<br /><br />3° het toezicht op de conformiteit met het Verdrag van de wetten, decreten, besluiten en verordeningen, met inbegrip van de procedurele regels welke een aangelegenheid regelen waarvoor de Vlaamse Gemeenschap of het Vlaamse Gewest bevoegd is;<br /><br />4° de verspreiding van informatie over de inhoud van het verdrag, in het bijzonder ten behoeve van het kind.<br /><br />De Commissaris kan hiertoe onder meer een beroep doen op de wetenschappelijke expertise en ervaring van het Vlaams Centrum voor de Bevordering van het Welzijn van Kinderen en Gezinnen, voor zover geen afbreuk gedaan wordt aan het geheel van de opdrachten van het Centrum.
+Bij de uitoefening van de in artikel 4 bepaalde opdrachten besteedt de   Commissaris, met het Verdrag als leidraad, in het bijzonder aandacht aan:<BR>1°   de dialoog met het kind en met de organisaties actief rond individuele en   collectieve dienstverlening aan of belangenbehartiging van het kind;<BR>2° de   maatschappelijke participatie van het kind en de toegankelijkheid voor het kind   van alle diensten en organisaties die met het kind te maken hebben;<BR>3° het   toezicht op de conformiteit met het Verdrag van de wetten, decreten, besluiten   en verordeningen, met inbegrip van de procedurele regels welke een   aangelegenheid regelen waarvoor de Vlaamse Gemeenschap of het Vlaamse Gewest   bevoegd is;<BR>4° de verspreiding van informatie over de inhoud van het verdrag,   in het bijzonder ten behoeve van het kind.
 
 ### ART. 6.
 
@@ -84,6 +84,14 @@ Bij het openvallen van het ambt van Commissaris start het Vlaams Parlement zo sp
 
 § 1. De overheid stelt de Commissaris alle informatie ter beschikking die voor het volbrengen van zijn opdrachten vereist is. Op eenvoudig verzoek van de Commissaris verstrekt zij alle dienstige inlichtingen en documenten.<br /><br />§ 2. De Commissaris kan, in uitvoering van zijn opdrachten, het advies inwinnen van de overheid.<br /><br />§ 3. Onverminderd artikel 15 van de Grondwet, heeft de Commissaris vrije toegang tot alle overheidsgebouwen en tot de voorzieningen. De verantwoordelijken en de personeelsleden zijn ertoe gehouden aan de Commissaris de stukken en de informatie die hij noodzakelijk acht, mee te delen, met uitzondering van die welke door het medisch geheim beschermd zijn of waarvan ze kennis hebben genomen in hun hoedanigheid van noodzakelijke vertrouwenspersoon.
 
+### ART. 10bis.
+
+De Commissaris is verantwoordelijk voor de zorg en organiseert het beheer   van het archief van het Kinderrechtencommissariaat.<BR><BR>De archiefzorg en de   uitvoering van het archiefbeheer, alsook de toegang tot de archief-documenten   verlopen volgens de standaarden en praktijken die het Vlaams Parlement hanteert   voor zijn archief.<BR><BR>De archiefselectielijsten worden op voorstel van de   Commissaris goedgekeurd door het Vlaams Parlement of een door het Vlaams   Parlement aangewezen orgaan.
+
+### ART. 10ter.
+
+Voor de geschillen en de handelingen waarvan het voorwerp tot de   bevoegdheid behoort van het Kinderrechtencommissariaat wordt de Vlaamse   Gemeenschap of het Vlaamse Gewest in en buiten rechte vertegenwoordigd door de   Commissaris.
+
 ### ART. 11.
 
 Artikel 458 van het Strafwetboek is van toepassing op de Commissaris en zijn personeelsleden.
@@ -96,9 +104,17 @@ Artikel 458 van het Strafwetboek is van toepassing op de Commissaris en zijn per
 
 [Het Vlaams Parlement keurt jaarlijks op voorstel van de Commissaris de begroting en de rekeningen van het Kinderrechtencommissariaat goed.  <span class="reference">(verv. decr. 15 juli 2005, art. 17, I : 19 september 2005)</span> ]
 
+### ART. 13bis.
+
+Het Kinderrechtencommissariaat is onderworpen aan een interne audit   waarvan de modaliteiten vastgelegd worden door het Vlaams   Parlement.
+
 ### ART. 14.
 
 Binnen zes maanden na zijn benoeming, stelt de Commissaris een voorstel van huishoudelijk reglement op. Dat reglement en de wijzigingen erin worden goedgekeurd door het Vlaams Parlement en bekendgemaakt in het Belgisch Staatsblad.
+
+### ART. 14bis.
+
+Het Kinderrechtencommissariaat en het Vlaams Parlement kunnen onderling   samenwerken. Die samenwerking mag geen afbreuk doen aan de autonome werking van   het Kinderrechtencommissariaat. De inhoud van de samenwerking wordt vastgelegd   in een door beide partijen ondertekend protocol.
 
 ### ART. 15.
 
