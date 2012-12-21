@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022651,
+  "title": "Besluit van de Vlaamse Regering van 2012-12-14 houdende laatste herverdeling 2012 van het provisioneel krediet JB0/1JB-G-2-Z/PR tot dekking van de uitgaven in het kader van de adequate aanpak van problemen betreffende de werkzekerheid en voor de uitgaven in het kader van het werkgelegenheids- en investeringsplan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022651/VolledigDocument?datum=2012-12-21",
+  "source_sha256": "95ae29cf73f19d647dbb2c542cda5f8fbfcf9c2b2f90401a3a2944d225bc00ec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022651&param=informatie",
+  "as_of": "2012-12-21",
+  "made": "2012-12-14",
+  "gazette": "2013-01-23",
+  "numac": 2013035034,
+  "document_start": "2012-12-21",
+  "document_end": null,
+  "in_force": "2012-12-21",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2012-12-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
