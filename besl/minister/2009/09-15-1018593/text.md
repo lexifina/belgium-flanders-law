@@ -50,6 +50,10 @@ Voor gebouwen die gebruik maken van een combilus, waarvoor de berekeningswijze, 
 
 ## [HOOFDSTUK III/2. Inrekening van warmtepompen in het kader van de energieprestatieregelgeving (ing. MB 30 november 2012, art. 9)]
 
+### ART. 5/2.
+
+Voor gebouwen die gebruik maken van warmtepompen met directe   warmtewisseling en/of warmtepompen met oppervlaktewater als warmtebron, waarvoor   de testomstandigheden voor het bepalen van de COP<SUB>test </SUB>en de bepaling   van de SPF, vermeld in het Energiebesluit van 19 november 2010, niet kunnen   toegepast worden, worden de specificaties gevoegd in bijlage 2, gebruikt.
+
 ## HOOFDSTUK IV. Gemeenschappelijke bepalingen
 
 ### ART. 6.
@@ -68,4 +72,8 @@ Het ministerieel besluit van 10 april 2007 betreffende de vaststelling van de ge
 
 ### BIJLAGE 1
 
-<P> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/12/19_2.pdf#page=87" title=" Bijlage   1" target="_blank" class="pdf">Bijlage   1</a> </P>
+<P> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/12/19_2.pdf#page=87" title=" Bijlage   1" target="_blank" class="pdf">Bijlage   1</a> </P>  <P>&nbsp;</P>  <P>Bij MB van 30 november 2012, B.S. 17 december 2012 worden met ingang van 27   december 2012 de volgende wijzigingen aangebracht in bijlage 1:</P>  <P>1° in punt 2.1 worden de woorden « volgens 9.2.1 van bijlage V bij het   Energiebesluit van 19 november 2010 » vervangen door de woorden « volgens   paragraaf 1.2 van deze tekst » :<BR>2° in punt 2.2 worden de woorden « volgens   9.2.1 van bijlage V bij het Energiebesluit van 19 november 2010 » telkens   vervangen door de woorden « volgens paragraaf 1.2 van deze tekst ».<BR>3° in   punt 2.3 worden de woorden « volgens 9.2.1 van bijlage V bij het Energiebesluit   van 19 november 2010 » telkens vervangen door de woorden « volgens paragraaf 1.2   van deze tekst »;<BR>4° in punt 2.4 worden de zinnen « Het opwekkingsrendement   voor warm tapwater voor een WKK-installatie is identiek aan het thermisch   omzettingsrendement voor verwarming, zoals bepaald in bijlage A.2 van bijlage VI   bij het Energiebesluit van 19 november 2010. Het opwekkingsrendement voor een   collectieve installatie dat zich buiten het gebouw bevindt, is het   opwekkingsrendement voor externe warmtelevering. » geschrapt.</P>
+
+### BIJLAGE 2
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2012/12/17_1.pdf#page=61">Bijlage   2</A>
