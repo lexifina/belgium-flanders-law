@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022540,
+  "title": "Ministerieel besluit van 2012-11-30 houdende wijziging van het ministerieel besluit van 13 januari 2006 betreffende de vorm en inhoud van de startverklaring, het ministerieel besluit van 2 april 2007 betreffende de vastlegging van de vorm en de inhoud van de EPB-aangifte en het model van het energieprestatiecertificaat bij de bouw en het ministerieel besluit van 15 september 2009 betreffende de vaststelling van de gelijkwaardigheid van innovatieve systemen, bouwconcepten of technologieën in het kader van de energieprestatieregelgeving",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022540/VolledigDocument?datum=2012-12-27",
+  "source_sha256": "8b0f864dc9f8cf85808e2fba65fdf1b85341a835958f0c1fa3c594e3774e81d4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022540&param=informatie",
+  "as_of": "2012-12-27",
+  "made": "2012-11-30",
+  "gazette": "2012-12-17",
+  "numac": 2012036241,
+  "document_start": "2012-12-27",
+  "document_end": null,
+  "in_force": "2012-12-27",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2012-12-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
