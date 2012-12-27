@@ -30,4 +30,4 @@ Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisc
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/12/19_2.pdf#page=54" title=" Bijlage 1" target="_blank" class="pdf">Bijlage 1</a>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2012/12/17_1.pdf#page=5">Bijlage</A></P>
