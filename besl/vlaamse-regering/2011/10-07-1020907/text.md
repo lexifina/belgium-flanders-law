@@ -25,7 +25,7 @@ De leidend ambtenaar van het Vlaams Agentschap Zorg en Gezondheid neemt de funct
 
 ### ART. 2.
 
-Gelet op hun rol als academicus en voorzitter van een van de voorbereidende werkgroepen van de Conferentie Eerstelijnsgezondheidszorg van 11 december 2010, worden de volgende personen benoemd tot respectievelijk effectief en plaatsvervangend lid :<br />1° de heer Jan de Maeseneer en de heer Bruno Art, Universiteit Gent, De Pintelaan 185, 9000 Gent;<br />2° de heer Jan De Lepeleire en de heer Frank Buntinx, Academisch Centrum voor Huisartsgeneeskunde, Kapucijnenvoer 33, blok j, bus 7001, 3000 Leuven;<br />3° mevrouw Chantal Van Audenhove en mevrouw Evelien Coppens, Katholieke Universiteit Leuven - LUCAS, Kapucijnenvoer 39, bus 5310, 3000 Leuven;<br />4° de heer Bernard Himpens en de heer Dominique Declerck, Katholieke Universiteit Leuven, Herestraat 49, bus 400, 3000 Leuven.<br /><br />
+Gelet op hun rol als academicus en voorzitter van een van de   voorbereidende werkgroepen van de Conferentie Eerstelijnsgezondheidszorg van 11   december 2010, worden de volgende personen benoemd tot respectievelijk effectief   en plaatsvervangend lid :<BR>1° de heer Jan de Maeseneer en de heer Bruno Art,   Universiteit Gent, De Pintelaan 185, 9000 Gent;<BR>2° de heer Jan De Lepeleire   en de heer Frank Buntinx, Academisch Centrum voor Huisartsgeneeskunde,   Kapucijnenvoer 33, blok j, bus 7001, 3000 Leuven;<BR>3° mevrouw Chantal Van   Audenhove en mevrouw Evelien Coppens, Katholieke Universiteit Leuven - LUCAS,   Kapucijnenvoer 39, bus 5310, 3000 Leuven;<BR>4° de heer Bernard Himpens en mevr.   Dominique Declerck, Katholieke Universiteit Leuven, Herestraat 49, bus 400, 3000   Leuven.<BR><BR>
 
 ### ART. 3.
 
@@ -49,7 +49,7 @@ Op voordracht van het Rijksinstituut voor Ziekte- en Invaliditeitsverzekering, T
 
 ### ART. 7.
 
-Op voordracht van de Samenwerkingsinitiatieven Eerstelijnsgezondheidszorg, worden de volgende personen benoemd tot respectievelijk effectief en plaatsvervangend lid : <br />1° mevrouw Patricia Lepla, SEL Noord-West-Vlaanderen, Ruddershove 4, 8000 Brugge en mevrouw Julie Descamps, SEL Zuid-West-Vlaanderen, Stasegemsesteenweg 110, 8500 Kortrijk;<br />2° mevrouw Nele Van Meer en mevrouw Kristel Vanden Driessche, SEL Hasselt, A. Rodenbachstraat 29, bus 1, 3500 Hasselt.<br /><br />
+Op voordracht van de Samenwerkingsinitiatieven Eerstelijnsgezondheidszorg,   worden de volgende personen benoemd tot respectievelijk effectief en   plaatsvervangend lid : <BR>1° mevrouw Patricia Lepla, SEL Noord-West-Vlaanderen,   Ruddershove 4, 8000 Brugge en mevrouw Julie Descamps, SEL Zuid-West-Vlaanderen,   Stasegemsesteenweg 110, 8500 Kortrijk;<BR>2° mevrouw Nele van Meer en mevrouw   Kristel Vanden Driessche, SEL Hasselt, A. Rodenbachstraat 29, bus 1, 3500   Hasselt.<BR><BR>
 
 ### ART. 8.
 
@@ -61,7 +61,7 @@ Op voordracht van de Strategische Adviesraad Welzijn, Volksgezondheid en Gezin, 
 
 ### ART. 10.
 
-Op voordracht van het Vlaams Netwerk van verenigingen waar armen het woord nemen, Vooruitgangstraat 323, b 6, 1030 Brussel, wordt mevrouw Griet Briels benoemd tot effectief lid. Er wordt geen plaatsvervangend lid benoemd.<br /><br />
+Op voordracht van het Vlaams Netwerk van verenigingen waar armen het woord   nemen, Vooruitgangstraat 323, bus 6, 1030 Brussel, worden de volgende personen   benoemd tot respectievelijk effectief en plaatsvervangend lid : Mevr. Griet   Briels en de heer Frederic Vanhauwaert.
 
 ### ART. 11.
 
