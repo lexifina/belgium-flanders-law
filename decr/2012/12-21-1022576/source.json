@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022576,
+  "title": "Decreet van 2012-12-21 betreffende de wederzijdse bijstand inzake de invordering van schuldvorderingen die voortvloeien uit belastingen, rechten en andere maatregelen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022576/VolledigDocument?datum=2012-12-29",
+  "source_sha256": "9ae5616550c2c79929568c0cac42a17cc313d76a9a561bce8face9f5dcdf128f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022576&param=informatie",
+  "as_of": "2012-12-29",
+  "made": "2012-12-21",
+  "gazette": "2012-12-28",
+  "numac": 2012036306,
+  "document_start": "2012-12-29",
+  "document_end": null,
+  "in_force": "2012-12-29",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2012-12-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
