@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024029,
+  "title": "Besluit van de Vlaamse Regering van 2014-03-21 betreffende de wederzijdse bijstand inzake de invordering van schuldvorderingen die voortvloeien uit belastingen, rechten en andere maatregelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024029/VolledigDocument?datum=2012-12-29",
+  "source_sha256": "69b9177075d516410d5aae39d8a50cc7ff8a0b4c095081b0a54fa7dbb5afd521",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024029&param=informatie",
+  "as_of": "2012-12-29",
+  "made": "2014-03-21",
+  "gazette": "2014-04-18",
+  "numac": 2014202409,
+  "document_start": "2012-12-29",
+  "document_end": null,
+  "in_force": "2012-12-29",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2012-12-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
