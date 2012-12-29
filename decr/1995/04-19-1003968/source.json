@@ -2,16 +2,16 @@
   "codex_id": 1003968,
   "title": "Decreet van 1995-04-19 [betreffende de organisatie en de werking van de loodsdienst van het Vlaamse Gewest en betreffende de brevetten van havenloods, bootman en diepzeeloods]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003968/VolledigDocument?datum=2012-08-11",
-  "source_sha256": "42f82f874b6f6620398933e3978234b519ed61777629e13bfa45a56825fee605",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003968/VolledigDocument?datum=2012-12-29",
+  "source_sha256": "815ae8350fdb0dfa1120cca106e89990e1f374e4c613054789afdfb21f676e50",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003968&param=informatie",
-  "as_of": "2012-08-11",
+  "as_of": "2012-12-29",
   "made": "1995-04-19",
   "gazette": "1995-09-05",
   "numac": 1995036105,
   "document_start": null,
   "document_end": null,
-  "in_force": "2012-08-11",
-  "article_versions": 29,
-  "record_form": "consolidated version as in force on 2012-08-11; future article versions excluded; article text as the API gives it"
+  "in_force": "2012-12-29",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2012-12-29; future article versions excluded; article text as the API gives it"
 }
