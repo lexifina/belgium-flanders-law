@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022504,
+  "title": "Besluit van de Vlaamse Regering van 2012-10-19 tot wijziging van het besluit van de Vlaamse Regering van 14 mei 2004 houdende de definitieve regularisatie en toekenning van een subsidie aan bepaalde initiatieven binnen polders, wateringen, milieu- en natuurverenigingen die personeelsleden tewerkstellen in een gewezen DAC-statuut, wat betreft de delegatie voor het toekennen van de subsidie en het verloop van de procedure voor het toekennen ervan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022504/VolledigDocument?datum=2012-12-31",
+  "source_sha256": "6f62110469f975336013077f501ad1f201b6923c8193a16a51249f118f821be6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022504&param=informatie",
+  "as_of": "2012-12-31",
+  "made": "2012-10-19",
+  "gazette": "2012-11-30",
+  "numac": 2012036187,
+  "document_start": "2012-12-31",
+  "document_end": null,
+  "in_force": "2012-12-31",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2012-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
