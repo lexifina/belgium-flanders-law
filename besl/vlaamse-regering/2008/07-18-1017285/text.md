@@ -80,10 +80,6 @@ De verrichtingen, vermeld in artikel 1, eerste lid, 11°, a), waarvoor een finan
 
 ## Afdeling III De uitvoering van de andere verrichtingen
 
-### ART. 15.
-
-De bepalingen, vermeld in deze afdeling, zijn van toepassing op andere verrichtingen dan de verrichtingen, vermeld in artikel 1, eerste lid, 11°, a), waarvoor een financiering als vermeld in hoofdstuk IV, afdeling I, of een tenlasteneming of een subsidie als vermeld in hoofdstuk IV, afdeling II, is aangevraagd.<br /><br />In afwijking van het eerste lid is artikel 19 niet van toepassing op de verrichtingen, vermeld in het eerste lid, waarvoor een financiering als vermeld in hoofdstuk IV, afdeling I, is aangevraagd.<br /><br />
-
 ### ART. 16.
 
 Als voor een verrichting een stedenbouwkundige studie of de aanleg of aanpassing van wooninfrastructuur vereist is, kan de VMSW een of meer overeenkomsten sluiten met ontwerpers stedenbouw of met ontwerpers wegen- en rioleringswerken of omgevingswerken van zodra de verrichting aangemeld is. De erelonen van die ontwerpers worden vastgelegd op de begroting van de Vlaamse Gemeenschap binnen de perken van de daartoe beschikbare kredieten in de enveloppe, vermeld in artikel 8, tweede lid, 3°.<br /><br />De minister kan de kwalificaties vaststellen waaraan de ontwerpers, vermeld in het eerste lid, moeten voldoen.<br /><br />De VMSW en de initiatiefnemer sturen, in onderling overleg, de door hen aangestelde ontwerpers en architecten aan met het oog op een optimale afstemming tussen de verschillende verrichtingen. De ontwerpers en architecten stellen hun studies en voorontwerpen op in onderling overleg. Als de VMSW overeenkomstig het eerste lid een ontwerper stedenbouw heeft aangesteld, treedt die tijdens de ontwerpfase op als coördinator tussen de verschillende ontwerpers en architecten.<br /><br />
