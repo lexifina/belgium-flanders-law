@@ -20,17 +20,17 @@ Een initiatief kan door K&G forfaitair gesubsidieerd worden om het basisaanbod t
 <br>
 § 3. K&amp;G beslist voor hoeveel erkende plaatsen subsidie wordt toegekend en de startdatum waarop de subsidiëring ingaat.<br>
 <br>
-§ 4. Het forfaitaire subsidiebedrag per erkende plaats is vastgelegd per plaats voor de eerste 21 plaatsen van een nieuw initiatief, per extra plaats vanaf 22 plaatsen en per extra plaats vanaf 232 plaatsen. Die bedragen gelden voor een initiatief met een openingsduur van minstens 230 dagen, waarvan minstens 50 volle dagen zijn.<br>
+&nbsp;§ 4. Het forfaitaire subsidiebedrag per erkende plaats is vastgelegd per plaats voor de eerste 21 plaatsen van een nieuw initiatief, per extra plaats vanaf 22 plaatsen en per extra plaats vanaf 232 plaatsen. Die bedragen gelden voor een initiatief met een openingsduur van minstens 230 dagen, waarvan minstens vijftig volle dagen zijn.<br>
 <br>
-Het forfaitaire subsidiebedrag per erkende plaats in een initiatief, georganiseerd door een openbaar bestuur, bedraagt in 2012 :<br>
-1° voor de eerste 21 plaatsen : 2.410,63 euro;<br>
-2° vanaf de 22e plaats : 1.602,81 euro;<br>
-3° vanaf de 232e plaats : 1.415,87 euro.<br>
+Het forfaitaire subsidiebedrag per erkende plaats in een initiatief, georganiseerd door een openbaar bestuur, bedraagt in 2013 :<br>
+1° voor de eerste 21 plaatsen : 2.472,17 euro;<br>
+2° vanaf de 22e plaats : 1.641,98 euro;<br>
+3° vanaf de 232e plaats : 1.449,35 euro.<br>
 <br>
-Het forfaitaire subsidiebedrag per erkende plaats in een initiatief, georganiseerd door een privaat bestuur, bedraagt in 2012 :<br>
-1° voor de eerste 21 plaatsen : 2.420,46 euro;<br>
-2° vanaf de 22e plaats : 1.608,63 euro;<br>
-3° vanaf de 232e plaats : 1.421,02 euro.<br>
+Het forfaitaire subsidiebedrag per erkende plaats in een initiatief, georganiseerd door een privaat bestuur, bedraagt in 2013 :<br>
+1° voor de eerste 21 plaatsen : 2.507,99 euro;<br>
+2° vanaf de 22e plaats : 1.663,19 euro;<br>
+3° vanaf de 232e plaats : 1.468,12 euro.<br>
 <br>
 §5. Een aanvullende subsidie in het kader van de werkdrukvermindering wordt toegekend, naar rato van de arbeidsprestaties, voor elk door Kind en Gezin gesubsidieerd personeelslid (1VTE) in de erkende kinderdagverblijven en diensten voor onthaalouders, voor elke coördinator en elke kindbegeleider in de initiatieven voor buitenschoolse opvang, voor elke door Kind en Gezin gesubsidieerde begeleider in de buitenschoolse opvang in aparte lokalen in kinderdagverblijven, voor de door Kind en Gezin gesubsidieerde personeelsleden binnen het experimentele kader van projecten voor kinderopvang in buurt- en nabijheidsdiensten en in lokale diensten van buurtgerichte opvang, voor de personeelsleden met een gewezen DAC-statuut en voor elk door Kind en Gezin gesubsidieerd personeelslid in een gemandateerde voorziening.<br>
 <br>
@@ -45,17 +45,17 @@ Voor een openbaar bestuur geldt het volgende : op 1 januari van het subsidiejaar
 <br>
 Voor de gemandateerde voorziening, georganiseerd door een openbaar bestuur, wordt per VTE daartoe door Kind en Gezin gesubsidieerd personeelslid een forfaitair bedrag toegekend.<br>
 <br>
-§ 6. Kind en Gezin bepaalt per initiatief op basis van het personeelsregister met FCUD gesubsidieerde personeelsleden, het equivalent aan FCUD-plaatsen.<br>
+§ 6. Kind en Gezin bepaalt per initiatief op basis van het personeelsregister met door het FCUD gesubsidieerde personeelsleden, het equivalent aan FCUD-plaatsen.<br>
 <br>
-In 2012 ontvangt een initiatief, georganiseerd door een openbaar bestuur, per FCUD-plaats :<br>
-1° voor de eerste 21 FCUD-plaatsen : 10,12 euro;<br>
-2° vanaf de 22e FCUD-plaats : 5,06 euro;<br>
-3° vanaf de 232e<sup> </sup>FCUD-plaats : 3,37 euro.<br>
+In 2013 ontvangt een initiatief, georganiseerd door een openbaar bestuur, per FCUD-plaats :<br>
+1° voor de eerste 21 FCUD-plaatsen : 20,85 euro;<br>
+2° vanaf de 22e FCUD-plaats : 10,42 euro;<br>
+3° vanaf de 232e<sup> </sup>FCUD-plaats : 6,95 euro.<br>
 <br>
-In 2012 ontvangt een initiatief, georganiseerd door een privaat bestuur, per FCUD-plaats :<br>
-1° voor de eerste 21 FCUD-plaatsen : 30,25 euro;<br>
-2° vanaf de 22e FCUD-plaats : 17,64 euro;<br>
-3° vanaf de 232e FCUD-plaats : 15,28 euro.
+In 2013 ontvangt een initiatief, georganiseerd door een privaat bestuur, per FCUD-plaats :<br>
+1° voor de eerste 21 FCUD-plaatsen : 94,25 euro;<br>
+2° vanaf de 22e FCUD-plaats : 56,30 euro;<br>
+3° vanaf de 232e FCUD-plaats : 48,32 euro.
 
 ### ART. 4.
 
@@ -73,7 +73,7 @@ In 2012 ontvangt een initiatief, georganiseerd door een privaat bestuur, per FCU
 
 ### ART. 7.
 
-De forfaitaire bedragen, vermeld in dit besluit, worden elk jaar op 1   januari verhoogd met de procentuele stijging van de index van de   consumptieprijzen tussen 1 november van het vorige kalenderjaar en 1 november   van het daaraan voorafgaande kalenderjaar. In 2011 worden de bedragen, vermeld   in dit besluit, op 1 januari verhoogd met de procentuele stijging van het   gezondheidsindexcijfer tussen 1 november van het kalenderjaar 2008 en 1 november   van het kalenderjaar 2010.<BR><BR>In afwijking van het eerste lid worden de   forfaitaire bedragen, vermeld in artikel 3, § 4 en § 6, niet geïndexeerd in 2012   en 2013.
+De forfaitaire bedragen voor 2013, vermeld in artikel 3, § 4 en artikel 3,   § 6, worden niet geïndexeerd in 2013.
 
 ### ART. 8.
 
