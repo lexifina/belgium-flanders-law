@@ -22,6 +22,10 @@ In hoofdstuk XIII van hetzelfde besluit, gewijzigd bij het besluit van de Vlaams
 
 ## Afdeling 1 Wijzigingen van het dispositief
 
+### ART. 4.
+
+Aan artikel 3, vijfde lid, van het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, ingevoegd bij het besluit van de Vlaamse Regering van 25 februari 2011, wordt de zinsnede ", en aan de specifieke erkenningsvoorwaarden in verband met het systeem van elektronische gegevensuitwisseling, vermeld in artikel 5, C, 13°, van bijlage III" toegevoegd.<br /><br />
+
 ### ART. 5.
 
 In artikel 6, § 1, tweede lid, van hetzelfde besluit wordt het jaartal "2013" vervangen door het jaartal "2015".<br /><br />
@@ -76,6 +80,10 @@ In artikel 32, § 2, van bijlage I bij hetzelfde besluit, gewijzigd bij het besl
 
 In artikel 35 van bijlage I bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 16 december 2011, wordt de zinsnede "van 22,5 % " vervangen door de zinsnede "van maximaal 22,5 % ".<br /><br />
 
+### ART. 18.
+
+In artikel 35/1, § 1, van bijlage I bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 17 december 2010 en gewijzigd bij het besluit van de Vlaamse Regering van 16 december 2011, worden de volgende wijzigingen aangebracht : <br />1° het tweede lid wordt vervangen door wat volgt : <br />"De veiligheidsconsulent, vermeld in het eerste lid, is verantwoordelijk voor het informatieveiligheidsbeleid van alle erkende diensten voor gezinszorg en aanvullende thuiszorg, alle erkende diensten voor logistieke hulp, vermeld in bijlage II, en alle erkende diensten voor oppashulp, vermeld in bijlage III, waarvoor het koninklijk besluit van 14 april 1988 tot regeling van het gebruik van het identificatienummer van het Rijksregister van de natuurlijke personen, wat de openbare centra voor maatschappelijk welzijn betreft, of het koninklijk besluit van 5 december 1986 tot regeling van de toegang tot de informatiegegevens en van het gebruik van het identificatienummer van het Rijksregister van de natuurlijke personen in hoofde van instellingen die, in het kader van de wetgeving betreffende de ziekte- en invaliditeitsverzekering, opdrachten van algemeen belang vervullen, niet van toepassing is. Daardoor zijn die diensten gemachtigd om het identificatienummer van de sociale zekerheid (INSZ-nummer) te gebruiken binnen Vesta of binnen het systeem voor elektronische gegevensuitwisseling, vermeld in artikel 5, C, 13°, van bijlage III.";<br /><br />2° in het derde lid wordt de zinsnede "beraadslaging nr. 36/2008 en nr. 01/2009 van het Sectoraal comité van het Rijksregister, gegeven op 30 juli 2008 en 21 januari 2009" vervangen door de zinsnede "beraadslaging nr. 36/2008, nr. 01/2009 en nr. 01/2012 van het Sectoraal comité van het Rijksregister, gegeven op 30 juli 2008, 21 januari 2009 en 11 januari 2012".<br /><br />
+
 ## Afdeling 3 Wijzigingen van bijlage II
 
 ### ART. 19.
@@ -115,6 +123,10 @@ In artikel 1 van bijlage III bij het besluit van de Vlaamse Regering van 24 juli
 ### ART. 27.
 
 In artikel 5, A, van bijlage III bij hetzelfde besluit worden de volgende wijzigingen aangebracht : <br />1° in punt 1° worden de woorden "de dienst zorgt" vervangen door de zinsnede "vanaf het tweede kalenderjaar dat hij voor subsidiëring in aanmerking komt, zorgt de dienst"; <br /><br />2° punt 5° wordt vervangen door wat volgt : <br />"5° de dienst vordert van de gebruiker een gebruikersbijdrage voor de aangeboden vrijwilligersoppas, die maximaal 2,50 euro per uur bedraagt. Dit bedrag is gekoppeld aan de spilindex 103,14 (basis 1996 = 100) en varieert zoals bepaald bij de wet van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarmee rekening dient gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der arbeiders, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen, aan het indexcijfer van de consumptieprijzen worden gekoppeld;";<br /><br />3° er wordt een punt 11° toegevoegd, dat luidt als volgt : <br />"11° alvorens vrijwilligersoppas aan te bieden, zorgt de dienst ervoor dat hij beschikt over het identificatienummer van de sociale zekerheid (INSZ-nummer) van de gebruiker en de vrijwilliger.".<br /><br />
+
+### ART. 28.
+
+Aan artikel 5, C, van bijlage III bij hetzelfde besluit wordt een punt 13° toegevoegd, dat luidt als volgt : <br />"13° elke dienst moet gebruikmaken van het systeem van elektronische gegevensuitwisseling tussen het agentschap en de diensten voor oppashulp, om de gegevens over zijn gebruikers en vrijwilligers die nodig zijn voor het berekenen van de subsidies en voor het genereren van operationele en beleidsinformatie, aan het agentschap te bezorgen. Dat gebeurt volgens de richtlijnen die het agentschap ter beschikking heeft gesteld. De dienst is verantwoordelijk voor het veiligheidsbeleid bij het doorsturen van de gegevens.".<br /><br />
 
 ## Afdeling 5 Wijzigingen van bijlage V
 
