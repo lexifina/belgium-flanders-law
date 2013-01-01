@@ -2,16 +2,16 @@
   "codex_id": 1020532,
   "title": "Besluit van de Vlaamse Regering van 2011-07-22 betreffende de maatregelen bij een overschrijding van de nitraatresidudrempelwaarde, als vermeld in artikel 14 van het Mestdecreet van 22 december 2006",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020532/VolledigDocument?datum=2011-08-26",
-  "source_sha256": "9220b9160c9fb87cf00c0aaf7642d042ac0efdadbeb55242ecc1e9a8d5be3890",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020532/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "1f74046ff6ff6b787de9df5d6f76ded25d5565fae7480155bd5accefdff8c193",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020532&param=informatie",
-  "as_of": "2011-08-26",
+  "as_of": "2013-01-01",
   "made": "2011-07-22",
   "gazette": "2011-08-16",
   "numac": 2011204066,
   "document_start": "2011-08-26",
   "document_end": null,
-  "in_force": "2011-08-26",
+  "in_force": "2013-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2011-08-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
