@@ -8,39 +8,39 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° de minister : de Vlaamse minister, bevoegd voor de culturele aangelegenheden;<br />2° de administratie : het agentschap Sociaal-cultureel Werk voor Jeugd en Volwassenen, opgericht bij het besluit van de Vlaamse Regering van 11 juni 2004 houdende de oprichting van het intern verzelfstandigd agentschap Sociaal-cultureel Werk;<br />3° het decreet van 18 juli 2008 : het decreet van 18 juli 2008 houdende het voeren van een Vlaams jeugd- en kinderrechtenbeleid.<br /><br />
+...
 
 ## HOOFDSTUK 2 Erkenning van de landelijk georganiseerde jeugdverenigingen
 
 ### ART. 2.
 
-§ 1. Een erkenningsaanvraag wordt voor 1 juni bij de administratie ingediend, volgens de leidraad die de administratie ter beschikking stelt. Samen met die aanvraag bezorgt de vereniging een activiteitenkalender voor de maanden juni en juli van het jaar waarin de aanvraag wordt ingediend, met vermelding van de aard van de activiteit, alsook plaats, datum, begin- en einduur van de activiteit. Ze bezorgt een dergelijke activiteitenkalender gedurende de hele erkenningsprocedure volgens een vaste frequentie, in overleg met de administratie. <br /><br />Als vastgesteld wordt dat een aanvraag onvolledig is en nog vervolledigd kan worden, vraagt de administratie de aanvullende gegevens op voor 15 juni. De vereniging vervolledigt haar dossier voor 1 juli.<br /><br />De administratie brengt voor 1 september alle verenigingen die een aanvraag tot erkenning hebben ingediend, ervan op de hoogte of hun aanvraag al dan niet ontvankelijk is.<br /><br />§ 2. Overeenkomstig artikel 30, § 1, van het decreet van 18 juli 2008 begeleidt en controleert de administratie alle verenigingen die een ontvankelijke aanvraag tot erkenning hebben ingediend, door informatie en documentatie te verstrekken en door hun activiteiten te controleren. Er heeft ten minste één algemene controle plaats op de zetel van de vereniging. <br /><br />§ 3. Een eventueel voornemen van niet-erkenning wordt aan de aanvragende vereniging formeel betekend voor 1 november. De vereniging kan daartegen voor 20 november schriftelijk bezwaar indienen. Als het bezwaarschrift onontvankelijk is, wordt de vereniging daarvan voor 1 december op de hoogte gebracht.<br /><br />§ 4. De beslissing om over te gaan tot al dan niet erkennen wordt aan de vereniging meegedeeld voor 31 december.<br /><br />§ 5. Een landelijk georganiseerde jeugdvereniging kan worden gesubsidieerd vanaf het kalenderjaar na het jaar waarin werd beslist de vereniging te erkennen.<br /><br />
+...
 
 ## HOOFDSTUK 3 Toekenning van werkingssubsidies
 
 ### ART. 3.
 
-§ 1. De erkende landelijk georganiseerde jeugdverenigingen die voor variabele subsidies in aanmerking willen komen, dienen uiterlijk op 1 januari van het jaar dat voorafgaat aan de driejarige periode waarvoor de subsidie wordt gevraagd, een beleidsnota in bij de administratie.<br /><br />§ 2. Vooraleer zij een ontwerp van advies uitbrengen, kunnen de administratie en de adviescommissie de verenigingen om aanvullende inlichtingen verzoeken. De verenigingen bezorgen binnen vijftien dagen nadat die vraag verstuurd is, de gevraagde inlichtingen aan de administratie. Deze termijn begint te lopen twee dagen nadat het bericht bij aangetekend schrijven verzonden werd. Indien de aanvullende inlichtingen niet tijdig worden verstrekt, dan hoeft hiermee geen rekening gehouden te worden in de adviezen van de administratie en de adviescommissie.<br /><br />De adviescommissie en de administratie stellen een ontwerp van advies op dat door de administratie naar de aanvragers wordt gestuurd voor 15 mei. De aanvragers kunnen tot 1 juni hun repliek daarop schriftelijk indienen. <br /><br />Na onderzoek formuleren de adviescommissie en de administratie een definitief advies. In dit advies wordt eventueel gemotiveerd waarom de adviescommissie en de administratie niet of slechts gedeeltelijk het standpunt van de aanvrager bijtreden. De administratie bezorgt het definitieve advies van de adviescommissie, samen met haar eigen gemotiveerde advies, aan de minister voor 15 juli. <br /><br />§ 3. De minister deelt de betrokken verenigingen zonder winstoogmerk zijn beslissing mee uiterlijk op 15 september. Bij een voor de vereniging gunstige beslissing wordt tevens het jaarlijks toe te kennen subsidiebedrag meegedeeld. Als de beslissing niet tijdig wordt meegedeeld, ontvangt de vereniging de volgende drie jaar ten minste het bedrag dat haar werd toegekend voor het lopende jaar.<br /><br />§ 4. Voor 1 april van het eerste jaar van de driejarige periode sluiten de administratie en de te subsidiëren vereniging de in artikel 33 van het decreet van 18 juli 2009 bedoelde driejaarlijkse overeenkomst af.<br /><br />
+...
 
 ### ART. 4.
 
-§ 1. De verenigingen zonder winstoogmerk, vermeld in artikel 35 en 36 van het decreet van 18 juli 2008, dienen uiterlijk op 1 januari van het jaar dat voorafgaat aan de driejarige periode waarvoor de subsidie wordt gevraagd, een beleidsnota in bij de administratie. Verenigingen die nog geen werkingssubsidies ontvangen op basis van het decreet van 18 juli 2008, leveren tegelijk het bewijs van een jaar werking.<br /><br />§ 2. Vooraleer zij een ontwerp van advies uitbrengen, kunnen de adviescommissie en de administratie de verenigingen om aanvullende inlichtingen verzoeken. De verenigingen bezorgen binnen vijftien dagen nadat die vraag verstuurd is, de gevraagde inlichtingen aan de administratie.<br /><br />De adviescommissie en de administratie stellen een ontwerp van advies op dat door de administratie naar de aanvragers wordt gestuurd voor 15 mei. De aanvragers kunnen tot 1 juni hun repliek daarop schriftelijk indienen. Deze termijn begint te lopen twee dagen nadat het bericht bij aangetekend schrijven verzonden werd. Indien de aanvullende inlichtingen niet tijdig worden verstrekt, dan hoeft hiermee geen rekening gehouden te worden in de adviezen van de administratie en de adviescommissie.<br /><br />Na onderzoek formuleren de adviescommissie en de administratie een definitief advies. In dat advies wordt eventueel gemotiveerd waarom de adviescommissie en de administratie niet of slechts gedeeltelijk het standpunt van de aanvrager bijtreden. De administratie bezorgt het definitieve advies van de adviescommissie, samen met haar eigen gemotiveerde advies, aan de minister voor 15 juli.<br /><br />§ 3. De minister deelt de betrokken verenigingen zonder winstoogmerk zijn beslissing mee uiterlijk op 15 september. Bij een voor de vereniging gunstige beslissing wordt tevens het jaarlijks toe te kennen subsidiebedrag meegedeeld. Als de beslissing niet tijdig wordt meegedeeld, ontvangt de vereniging de volgende drie jaar ten minste het bedrag dat haar werd toegekend voor het lopende jaar.<br /><br />Voor 1 april van het eerste jaar van de driejarige periode sluiten de administratie en de te subsidiëren vereniging de in artikel 33 van het decreet van 18 juli 2009 bedoelde driejaarlijkse overeenkomst af. <br /><br />
+...
 
 ### ART. 5.
 
-§ 1. De instellingen voor het jeugdbeleid, vermeld in artikel 13 van het decreet van 18 juli 2008, dienen uiterlijk op 1 januari van het laatste jaar dat voorafgaat aan de driejarige periode waarvoor de subsidie wordt gevraagd, een beleidsnota in bij de administratie. <br /><br />§ 2. De minister deelt de betrokken verenigingen zonder winstoogmerk zijn beslissing mee uiterlijk op 30 juni. Bij een voor de vereniging gunstige beslissing wordt tevens het jaarlijks toe te kennen subsidiebedrag meegedeeld. Als de beslissing niet tijdig wordt meegedeeld, ontvangt de vereniging de volgende drie jaar ten minste het bedrag dat haar werd toegekend voor het lopende jaar.<br /><br />Voor 1 januari van het eerste jaar van de driejarige periode sluiten de administratie en de te subsidiëren vereniging de in artikel 33 van het decreet van 18 juli 2009 bedoelde driejaarlijkse overeenkomst af.<br /><br />
+...
 
 ### ART. 6.
 
-De Vlaamse Jeugdraad dient uiterlijk op 1 juli van het jaar dat voorafgaat aan de driejarige periode waarvoor de subsidie wordt gevraagd, een beleidsnota in bij de administratie. <br /><br />De minister deelt de Vlaamse Jeugdraad zijn beslissing mee uiterlijk op 31 oktober. Als de beslissing niet tijdig wordt meegedeeld, ontvangt de vereniging de volgende drie jaar ten minste het bedrag dat haar werd toegekend voor het lopende jaar.<br /><br />
+...
 
 ### ART. 7.
 
-De beleidsnota, vermeld in artikelen 3, 4, 5 en 6, wordt opgesteld overeenkomstig de leidraad die de administratie ter beschikking stelt. <br /><br />
+...
 
 ### ART. 8.
 
-De verenigingen die op basis van het decreet van 18 juli 2008 een werkingssubsidie ontvangen, dienen uiterlijk op 31 maart een werkings- en financieel verslag over het voorbije jaar in bij de administratie.<br /><br />Het werkings- en financieel verslag worden opgesteld overeenkomstig de leidraad die de administratie ter beschikking stelt.<br /><br />
+...
 
 ## HOOFDSTUK 4 Toekenning van projectsubsidies
 
@@ -48,13 +48,13 @@ De verenigingen die op basis van het decreet van 18 juli 2008 een werkingssubsid
 
 ### ART. 9.
 
-Om voor projectsubsidies in aanmerking te komen, wordt de aanvraag opgesteld overeenkomstig de leidraad die de administratie ter beschikking stelt.<br /><br />
+...
 
 ## Afdeling 2 Landelijk georganiseerd jeugdwerk
 
 ### ART. 10.
 
-§ 1. Ter uitvoering van artikel 34 van het decreet van 18 juli 2008 kan elke erkende landelijk georganiseerde jeugdvereniging jaarlijks een subsidieaanvraag voor de realisatie van een project indienen bij de administratie. De aanvraag wordt ingediend bij de administratie uiterlijk op 1 september. Ze bevat alle financiële, organisatorische en inhoudelijke aspecten die een beoordeling van het project mogelijk maken. <br /><br />§ 2. De adviescommissie en de administratie formuleren hun gemotiveerde advies. In dat advies wordt eventueel gemotiveerd waarom de adviescommissie en de administratie niet of slechts gedeeltelijk het standpunt van de aanvrager bijtreedt. Die adviezen worden door de administratie aan de minister bezorgd voor 1 november. <br /><br />De minister beslist over de toekenning van de subsidies uiterlijk op 30 november.<br /><br />
+...
 
 ## Afdeling 3 Internationale initiatieven
 
@@ -62,90 +62,90 @@ Om voor projectsubsidies in aanmerking te komen, wordt de aanvraag opgesteld ove
 
 ### ART. 11.
 
-Ter uitvoering van artikel 40 van het decreet van 18 juli 2008 worden subsidies toegekend aan verenigingen zonder winstoogmerk, die ontvangstprogramma's in Vlaanderen organiseren voor jongeren onder de achttien jaar, uit regio's die getroffen werden door rampspoed.<br /><br />De vereniging zonder winstoogmerk bouwt een samenwerking uit met een publieke of private partner uit de regio waarmee een project wordt opgezet. Via dat partnerschap zorgt de vereniging, na beëindiging van het project, voor de voortgang ter plaatse.<br /><br />Projecten van verenigingen die ter uitvoering van het decreet van 18 juli 2008 een werkingssubsidie ontvangen, komen niet in aanmerking.<br /><br />
+...
 
 ### ART. 12.
 
-De maximale jaarlijkse subsidie bedraagt 25.000 euro per vereniging.<br />Alleen de volgende kosten komen geheel of gedeeltelijk in aanmerking voor subsidiëring : <br />1° reis- en verblijfkosten gemaakt voor het halen en brengen van de kinderen en hun begeleiders;<br />2° verzekeringskosten van het project;<br />3° kosten, gemaakt voor vertalers en tolken;<br />4° kosten gemaakt voor begeleiders gedurende het verblijf van de kinderen;<br />5° kosten voor visa en paspoorten, inclusief kosten voor kopieën en foto's;<br />6° kosten voor telefoon, fax, e-mail en post.<br /><br />Bij verenigingen die op jaarbasis minimaal vijftig kinderen opvangen, kunnen aanvullend volgende kosten in aanmerking worden genomen : <br />1° reis- en verblijfkosten ter voorbereiding van de ontvangst van de kinderen;<br />2° secretariaatskosten.<br /><br />
+...
 
 ### ART. 13.
 
-Subsidieaanvragen voor humanitaire projecten worden uiterlijk op 1 december ingediend bij de administratie met het formulier dat ze daarvoor ter beschikking stelt. De indiener van de subsidieaanvraag geeft in zijn aanvraag aan waarom de gekozen regio moet worden beschouwd als een regio die getroffen werd door rampspoed.<br /><br />Na onderzoek formuleert de adviescommissie een definitief advies. In dat advies wordt eventueel gemotiveerd waarom de adviescommissie niet of slechts gedeeltelijk het standpunt van de aanvrager bijtreedt. De administratie bezorgt het definitieve advies van de adviescommissie, samen met haar eigen gemotiveerde advies, aan de minister voor 15 februari. Uiterlijk op 15 maart wordt de aanvrager geïnformeerd over de beslissing van de minister.<br /><br />
+...
 
 ### ART. 14.
 
-De projectsubsidies voor humanitaire projecten worden als volgt beschikbaar gesteld : <br />1° een voorschot van 80 procent van de subsidie wordt uitbetaald na de ondertekening van het besluit, waarin de subsidie wordt toegekend;<br />2° het saldo van maximaal 20 procent van de subsidie wordt uitbetaald nadat de administratie heeft vastgesteld dat de voorwaarden waaronder de subsidie toegekend werd, nageleefd werden en dat de subsidie aangewend werd voor de doeleinden waarvoor ze werd verleend. Dat moet blijken uit het financieel en werkingsverslag.<br /><br />Als de nettokosten, dat zijn de aangetoonde kosten, verminderd met de uit de realisatie van het project of product voortvloeiende inkomsten, minder bedragen dan de ontvangen subsidie, wordt het verschil teruggevorderd.<br /><br />De vereniging stuurt na afloop van het project een financieel en werkingsverslag naar de administratie, volgens de door de administratie geformuleerde voorwaarden. Het financieel verslag maakt afzonderlijk melding van de kosten die voor de subsidie in aanmerking komen. Uit het werkingsverslag blijkt hoe het project werd gerealiseerd. <br /><br />
+...
 
 ## Onderafdeling 2 Internationale jongerenprojecten
 
 ### ART. 15.
 
-Ter uitvoering van artikel 40 van het decreet van 18 juli 2008 worden subsidies toegekend aan niet- commerciële initiatiefnemers uit de publieke of private sector voor internationale jongerenprojecten die : <br />1° jongeren de kans bieden op een buitenlandse ervaring, waarbij intercultureel leren en bewustmaking van de problemen van ontwikkelingslanden centraal staat. Daarvoor kunnen Vlaamse jongeren een project in het buitenland opzetten of buitenlandse jongeren in Vlaanderen uitgenodigd worden in het kader van een project;<br />2° zich inhoudelijk profileren als duidelijk verschillend van louter toeristische activiteiten.<br /><br />De internationale jongerenprojecten moeten worden georganiseerd in groepen van minimaal drie en maximaal twintig jongeren.<br /><br />Internationale jongerenprojecten worden gerealiseerd in of met de landen die zijn opgenomen in de lijst van ontwikkelingslanden, opgesteld door het Ontwikkelingscomité van de Organisatie Economische Samenwerking en Ontwikkeling.<br /><br />
+...
 
 ### ART. 16.
 
-§ 1. Alleen internationale projecten voor jongeren die ten minste vijftien jaar en ten hoogste vijfentwintig jaar oud zijn op de vertrekdatum, komen in aanmerking. <br /><br />De minimale duur van het verblijf in het buitenland bedraagt vier weken, de maximale duur dertien weken. De minimumduur kan tot twee weken verkort worden als met het project maatschappelijk kwetsbare jongeren bereikt worden. De indiener van de subsidieaanvraag geeft in zijn aanvraag aan waarom de deelnemende jongeren moeten worden beschouwd als maatschappelijk kwetsbaar.<br /><br />§ 2. De volgende internationale jongerenprojecten komen niet in aanmerking voor subsidiëring : <br />1° projecten die als hoofddoel hebben een opleiding in het buitenland te volgen;<br />2° projecten met de bedoeling betaald te werken of werk te zoeken in het buitenland;<br />3° projecten met een toeristisch programma;<br />4° stages in het kader van een opleiding; <br />5° wetenschappelijk onderzoek;<br />6° projecten die gerealiseerd worden in een land of regio waar de veiligheid onvoldoende gegarandeerd kan worden. <br /><br />
+...
 
 ### ART. 17.
 
-De aanvrager voorziet in een degelijke voorbereiding en nawerking, zowel voor de realisatie van de geplande actie, als voor de interculturele ervaring tijdens het project. De indieners maken vooraf duidelijk hoe ze hun voorbereiding en vorming zullen aanpakken. De jongeren die aan het internationaal jongerenproject deelnemen, zijn actief betrokken bij alle fasen van het project. <br /><br />Als bij de samenwerking met een buitenlandse partner buitenlandse jongeren naar het Nederlands taalgebied of het tweetalige gebied Brussel-Hoofdstad worden uitgenodigd, zorgt de uitnodigende Vlaamse vereniging voor een programma dat voldoende garanties biedt voor de voorbereiding, vorming en begeleiding van de jongeren. <br /><br />Het internationale jongerenproject moet zinvol zijn en opgebouwd worden rond een concrete doelstelling. <br /><br />In elk internationaal jongerenproject wordt samengewerkt met plaatselijke partners, jongeren, instellingen en verenigingen, zodat het ruime kansen biedt tot intercultureel contact. Het is de bedoeling dat de jongere de samenleving waarin hij terechtkomt leert te begrijpen. Het project brengt respect op voor de culturele eigenheid van het land van bestemming en is verzoenbaar met het streven naar duurzame ecologische en economische ontwikkeling. <br /><br />Als tegenprestatie zorgt elke indiener ervoor dat de ervaringen uit het project gedeeld worden met geïnteresseerden. Die tegenprestatie heeft als doel om een groter draagvlak te creëren voor de problemen in ontwikkelingslanden. Alle deelnemers aan het project worden bij de realisatie van de tegenprestatie betrokken. De indiener geeft bij het indienen van de aanvraag aan op welke manier en wanneer dat zal gebeuren.<br /><br />
+...
 
 ### ART. 18.
 
-§ 1. De aanvragen worden bij de administratie ingediend uiterlijk op 1 februari, 1 juni of 1 oktober.<br /><br />De administratie bezorgt het advies van de adviescommissie, samen met haar eigen advies, aan de minister voor 15 maart, 15 juli of 15 november. In dat advies wordt eventueel gemotiveerd waarom de adviescommissie niet of slechts gedeeltelijk het standpunt van de aanvrager bijtreedt.<br /><br />De minister beslist over de toekenning van de subsidies uiterlijk op 1 mei, 1 september of 20 december.<br /><br />§ 2 Bij de beoordeling van het internationaal jongerenproject wordt beoordeeld rekening houdend met : <br />1° de mogelijkheden tot interculturele contacten;<br />2° de kwaliteit van het partnerschap; <br />3° de degelijkheid en uitwerking van de voorbereiding, vorming en nawerking van de deelnemers;<br />4° de aanvaardbaarheid van de tegenprestatie; <br />5° de mate waarin het project maatschappelijk kwetsbare jongeren bereikt; <br />6° de expertise van de indieners en de kwaliteit van de begeleiders van het project;<br />7° de betrokkenheid van jongeren gedurende het hele project;<br />8° de mate waarin het project bijdraagt tot een sterkere bewustwording van jongeren voor de problemen van ontwikkelingslanden.<br /><br />§ 3. Binnen de perken van het beschikbare begrotingskrediet kunnen goedgekeurde internationale jongerenprojecten een subsidie krijgen, die wordt bepaald als volgt : <br />1° per deelnemer maximaal 75 procent van de internationale reiskosten van en naar één land van bestemming, op basis van een zo laag mogelijk tarief;<br />2° een forfaitair bedrag van 75 euro per week per deelnemer voor verblijf- en andere kosten; <br />3° een bedrag voor de werving, de begeleiding van de deelnemers en de partnerorganisatie, de organisatie van de vorming, de begeleiding, realisatie en de voortgangscontrole van de tegenprestatie. Dat bedrag is gebaseerd op de reële kosten, maar bedraagt ten hoogste 20 % van de ingediende begroting. <br /><br />Het bedrag, toegekend op basis van punt 1°, kan nooit meer bedragen dan 800 euro per deelnemer.<br /><br />Verenigingen die op basis van het decreet van 18 juli 2008 een werkingssubsidie ontvangen, komen niet in aanmerking voor subsidiëring van de kosten, vermeld in het eerste lid, 3°.<br /><br />
+...
 
 ### ART. 19.
 
-De subsidies voor internationale jongerenprojecten worden als volgt beschikbaar gesteld : <br />1° een voorschot van 80 procent van de subsidie wordt uitbetaald na ondertekening van het besluit, waarin de subsidie wordt toegekend;<br />2° het saldo van maximaal 20 procent van de subsidie wordt uitbetaald nadat de administratie heeft vastgelegd dat de voorwaarden waaronder de subsidie toegekend werd, nageleefd werden en dat de subsidie aangewend werd voor de doeleinden waarvoor ze werd verleend. Dat moet blijken uit het financieel- en werkingsverslag.<br /><br />Als de nettokosten, dat zijn de aangetoonde kosten, verminderd met de uit de realisatie van het project voortvloeiende inkomsten, minder bedragen dan de ontvangen subsidie, wordt het verschil teruggevorderd.<br /><br />Alleen kosten die gemaakt zijn na de toekenning van het subsidiebedrag, komen in aanmerking.<br /><br />De indiener stuurt na afloop van het internationaal jongerenproject een financieel en werkingsverslag naar de administratie, volgens de door de administratie geformuleerde voorwaarden.<br /><br />
+...
 
 ## Onderafdeling 3 Algemene bepalingen
 
 ### ART. 20.
 
-De initiatiefnemers, vermeld in artikelen 11 en 15, sluiten voor alle jongeren die deelnemen aan een internationaal project, een verzekering inzake burgerlijke aansprakelijkheid af, alsook een bijstandsverzekering inzake ziekte, ongeval en repatriëring. Ze bezorgen een kopie van die documenten aan de administratie.<br /><br />
+...
 
 ## Afdeling 4 Andere bepalingen over projectsubsidies en de toekenning van de prijs aan de gemeentebesturen
 
 ### ART. 21.
 
-De aanvragen voor projectsubsidies, vermeld in artikelen 37, 38 en 39 van het decreet van 18 juli 2008, worden bij de administratie ingediend uiterlijk op 1 februari, 1 juni of 1 oktober.<br /><br />De administratie bezorgt het advies van de adviescommissie, samen met haar eigen advies, aan de minister voor 15 maart, 15 juli of 15 november. In dat advies wordt eventueel gemotiveerd waarom de adviescommissie niet of slechts gedeeltelijk het standpunt van de aanvrager bijtreedt.<br /><br />De minister beslist over de toekenning van de subsidies uiterlijk op 1 mei, 1 september of 20 december.<br /><br />
+...
 
 ### ART. 22.
 
-De projectsubsidies, vermeld in artikelen 34, 37, 38 en 39 van het decreet van 18 juli 2008, worden als volgt beschikbaar gesteld : <br />1° een voorschot van 80 procent van de subsidie wordt uitbetaald na de ondertekening van het besluit waarin de subsidie wordt toegekend;<br />2° het saldo van maximaal 20 procent van de subsidie wordt uitbetaald nadat de administratie heeft vastgelegd dat de voorwaarden waaronder de subsidie toegekend werd, nageleefd werden en dat de subsidie aangewend werd voor de doeleinden waarvoor ze werd verleend. Dat moet blijken uit het financieel en werkingsverslag.<br /><br />Als de nettokosten, zijnde de aangetoonde kosten verminderd met de uit de realisatie van het project of product voortvloeiende inkomsten, minder bedragen dan de ontvangen subsidie dan wordt het verschil teruggevorderd.<br /><br />Alleen kosten die gemaakt zijn na de toekenning van het subsidiebedrag, komen in aanmerking.<br /><br />De indiener stuurt na afloop van het project een financieel en werkingsverslag naar de administratie, volgens de door de administratie geformuleerde voorwaarden.<br /><br />
+...
 
 ### ART. 23.
 
-§ 1. Ter uitvoering van artikel 39 van het decreet van 18 juli 2008 worden subsidies toegekend aan jongeren die een artistiek product of een artistiek project realiseren en aan verenigingen die een artistiek product of artistiek project voor en door jongeren realiseren.<br /><br />§ 2. De volgende natuurlijke en rechtspersonen komen in aanmerking voor de subsidiëring : <br />1° jongeren die op de startdatum van hun project ten minste veertien en ten hoogste vijfentwintig jaar oud zijn;<br />2° verenigingen zonder winstoogmerk.<br /><br />Projecten of producten die gerealiseerd zijn in schoolverband, zoals schooltaken, themadagen of afstudeerwerken, komen niet in aanmerking voor subsidiëring op basis van artikel 39 van het decreet van 18 juli 2008.<br /><br />§ 3. Als twee of meer jongeren samenwerken, wordt de subsidie aan de hoofdaanvrager uitgekeerd. Als de hoofdaanvrager minderjarig is, wordt de subsidieaanvraag mee ondertekend door een van zijn ouders of voogden.<br /><br />§ 4. Bij de beoordeling van de subsidieaanvragen wordt voorrang gegeven aan : <br />1° artistieke projecten of producten die blijk geven van een eigen artistieke en creatieve aanpak;<br />2° artistieke projecten of producten die voor de Vlaamse Gemeenschap een uitzonderlijke relevantie bezitten.<br /><br />§ 5. Het bedrag dat maximaal toegekend wordt aan jongeren, vermeld in § 2, 1°, kan nooit meer bedragen dan 5.300 euro per project.<br /><br />
+...
 
 ### ART. 24.
 
-Om de twee jaar kunnen de gemeentelijke jeugdraden hun gemeentebestuur voordragen voor de toekenning van de prijs, vermeld in artikel 42 van het decreet van 18 juli 2008.<br /><br />Voor de toekenning van de prijs wordt het door de gemeentelijke jeugdraad ingediende dossier getoetst aan al de volgende criteria : <br />1° de vernieuwende en wervende kwaliteiten van het gemeentelijke jeugdbeleid;<br />2° de actieve betrokkenheid en de concrete participatie van de jeugd;<br />3° het bereik van grote, brede, nieuwe en diverse doelgroepen;<br />4° de duurzame effecten van het jeugdbeleid op het vlak van infrastructuur en openbaar domein;<br />5° de duurzame effecten van het jeugdbeleid op het vlak van ontsluiting van en toeleiding naar voorzieningen.<br /><br />Het bekroonde gemeentebestuur mag zich twee jaar lang jeugdgemeente, dan wel jeugdstad van Vlaanderen noemen. De gemeentelijke jeugdraad ontvangt tevens een geldprijs van 20.000 euro.<br /><br />De jeugdraden dienen hun gemotiveerde voordracht via een kandidaatsformulier uiterlijk op 1 september in. De minister beslist over de toekenning van de prijs voor 31 december.<br /><br />
+...
 
 ## HOOFDSTUK 5 Algemene bepalingen over de erkenning en subsidiëring
 
 ### ART. 25.
 
-Onder informatiedragers, als vermeld in artikel 3, § 2, 2°, van het decreet van 18 juli 2008, worden verstaan : publicaties, affiches, uitnodigingen, brochures, advertenties, audiovisuele boodschappen, websites en andere relevante externe communicatiekanalen.<br /><br />
+...
 
 ### ART. 26.
 
-De procedure tot intrekking van de erkenning of stopzetting van de subsidiëring verloopt als volgt.<br /><br />De begunstigde die het bericht krijgt van het voornemen van de administratie om de erkenning in te trekken of de subsidiëring stop te zetten, kan daartegen een gemotiveerd beroep aantekenen bij de minister binnen dertig dagen na de verzending van het bericht. Deze termijn begint te lopen twee dagen nadat het bericht bij aangetekend schrijven verzonden werd.<br /><br />De vereniging wordt uiterlijk twee maanden na de ontvangst van het gemotiveerde beroepschrift door de administratie op de hoogte gebracht van de beslissing van de minister over de intrekking van de erkenning of de stopzetting van de subsidiëring.<br /><br />
+...
 
 ## HOOFDSTUK 6 Slotbepalingen
 
 ### ART. 27.
 
-De volgende regelingen worden opgeheven : <br />1° het besluit van de Vlaamse Regering van 7 juni 2002 betreffende uitvoering van het decreet op het Vlaamse jeugdbeleid;<br />2° het besluit van de Vlaamse Regering van 14 oktober 2005 houdende subsidiëring van jeugdculturele en internationale initiatieven voor de jeugd.<br /><br />
+...
 
 ### ART. 28.
 
-§ 1. In afwijking van artikel 5 dient het Vlaams Informatiepunt Jeugd de beleidsnota 2010-2012 in uiterlijk op 1 juli 2009. <br /><br />Voor 1 april 2010 sluiten de administratie en het VIP Jeugd de in artikel 33 van het decreet van 18 juli 2009 bedoelde driejaarlijkse overeenkomst af. <br /><br />§ 2. In afwijking van artikel 13 worden subsidieaanvragen voor humanitaire projecten voor subsidiëring in 2010 uiterlijk op 1 januari 2010 ingediend bij de administratie.<br /><br />De administratie bezorgt het definitieve advies van de adviescommissie, samen met haar eigen gemotiveerde advies, aan de minister voor 15 maart. Uiterlijk op 15 april 2010 wordt de aanvrager geïnformeerd over de beslissing van de minister.<br /><br />
+...
 
 ### ART. 29.
 
-Dit besluit treedt in werking op 1 januari 2010, met uitzondering van artikel 10 en artikel 28, die in werking treden op 1 juli 2009.<br /><br />
+...
 
 ### ART. 30.
 
-De Vlaamse minister, bevoegd voor de culturele aangelegenheden, is belast met de uitvoering van dit besluit.<br /><br />
+...
