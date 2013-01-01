@@ -26,343 +26,187 @@ Dit besluit heeft uitwerking met ingang van 1 januari 2012.<br /><br />
 
 ### BIJLAGE
 
-Lijst van subsidiabele groenbedekkers als vermeld in artikel 3<br>
-&nbsp;
-<table border="1" cellpadding="0">
+<p>Lijst van subsidiabele groenbedekkers, vermeld in artikel 3</p>
+
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gewas <!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zaaidichtheid</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>voorwaarde</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gunstig voor...</p>
-			</td>
+			<td>gewas</td>
+			<td>zaaidichtheid</td>
+			<td>voorwaarde</td>
+			<td>gunstig voor</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Alexandrijnse klaver</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>25 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bijenbestand</p>
-			</td>
+			<td>Alexandrijnse klaver</td>
+			<td>25 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>bijenbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>witte of rode klaver</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>10 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bijenbestand en wildbestand</p>
-			</td>
+			<td>Witte of rode klaver</td>
+			<td>10 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>bijenbestand - wildbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>andere klavers</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>15 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bijenbestand</p>
-			</td>
+			<td>Andere klavers</td>
+			<td>15 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>bijenbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Italiaans raaigras</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>30 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wildbestand</p>
-			</td>
+			<td>Italiaans raaigras</td>
+			<td>30 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>wildbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wikken</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>90 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bijenbestand</p>
-			</td>
+			<td>Wikken</td>
+			<td>90 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>bijenbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Westerwolds raaigras</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>30 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wildbestand</p>
-			</td>
+			<td>Westerwolds raaigras</td>
+			<td>30 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>wildbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Engels raaigras</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>30 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wildbestand</p>
-			</td>
+			<td>Engels raaigras</td>
+			<td>30 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>wildbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>hybride raaigras</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>30 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wildbestand</p>
-			</td>
+			<td>Hybride raaigras</td>
+			<td>30 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>wildbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Festulolium</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>30 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wildbestand</p>
-			</td>
+			<td>Festulolium</td>
+			<td>30 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>wildbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>snijrogge</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>100 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad of eigen gewonnen zaaizaad geschoond door erkende loontrieerder</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wildbestand</p>
-			</td>
+			<td>Snijrogge</td>
+			<td>100 kg/ha</td>
+			<td>gecertificeerd zaaizaad of eigen gewonnen zaaizaad geschoond door erkende loontrieerder</td>
+			<td>wildbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zomerhaver</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>100 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad of eigen gewonnen zaaizaad geschoond door erkende loontrieerder</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wildbestand</p>
-			</td>
+			<td>Zomerhaver</td>
+			<td>100 kg/ha</td>
+			<td>gecertificeerd zaaizaad of eigen gewonnen zaaizaad geschoond door erkende loontrieerder</td>
+			<td>wildbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Japanse haver</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>60 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wildbestand</p>
-			</td>
+			<td>Japanse haver</td>
+			<td>40 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>wildbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bladkool</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>8 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wildbestand</p>
-			</td>
+			<td>Bladkool</td>
+			<td>8 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>wildbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bladrammenas</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>12 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bijenbestand en Wildbestand</p>
-			</td>
+			<td>Bladrammenas</td>
+			<td>12 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>bijenbestand - wildbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gele mosterd</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>10 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bijenbestand en wildbestand</p>
-			</td>
+			<td>Gele mosterd</td>
+			<td>10 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>bijenbestand - wildbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>lupinen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>150 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bijenbestand en wildbestand</p>
-			</td>
+			<td>Lupinen</td>
+			<td>150 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>bijenbestand - wildbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Phacelia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>8 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bijenbestand en wildbestand</p>
-			</td>
+			<td>Phacelia</td>
+			<td>8 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>bijenbestand - wildbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tagetes</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>3 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
+			<td>Tagetes</td>
+			<td>3 kg/ha</td>
+			<td>handelszaaizaad</td>
+			<td>bijenbestand - aaltjesbestrijding</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>nootzoetraapzaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>20 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bijenbestand</p>
-			</td>
+			<td>Nootzoetraapzaad</td>
+			<td>3 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>bijenbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>komkommerkruid</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>10 kg/ha</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bijenbestand</p>
-			</td>
+			<td>Komkommerkruid</td>
+			<td>10 kg/ha</td>
+			<td>handelszaaizaad</td>
+			<td>bijenbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>mengsels groenbedekkers, &gt; 50 % grassen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>proportioneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wildbestand</p>
-			</td>
+			<td>Veldbonen</td>
+			<td>120 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>bijenbestand - wildbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>mengsel groenbedekkers, &gt; 50 % vlinderbloemigen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>proportioneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wildbestand</p>
-			</td>
+			<td>Boekweit</td>
+			<td>40 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>bijenbestand - wildbestand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>mengsel groenbedekkers, &gt; 50 % andere</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>proportioneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gecertificeerd zaaizaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wildbestand</p>
-			</td>
+			<td>Soedangras</td>
+			<td>30kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>wildbestand</td>
+		</tr>
+		<tr>
+			<td>Sarepta mosterd</td>
+			<td>10 kg/ha</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>bijenbestand - aaltjes-<br>
+			bestrijding</td>
+		</tr>
+		<tr>
+			<td>Zwaardherik</td>
+			<td>6 kg/ha</td>
+			<td>handelszaaizaad</td>
+			<td>bijenbestand - aaltjes-<br>
+			bestrijding</td>
+		</tr>
+		<tr>
+			<td>Mengsel groenbedekkers, &gt; 50 % grassen</td>
+			<td>proportioneel</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>wildbestand</td>
+		</tr>
+		<tr>
+			<td>Mengsel groenbedekkers, &gt; 50 % vlinderbloemigen</td>
+			<td>proportioneel</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>wildbestand</td>
+		</tr>
+		<tr>
+			<td>Mengsel groenbedekkers, &gt; 50 % andere</td>
+			<td>proportioneel</td>
+			<td>gecertificeerd zaaizaad</td>
+			<td>wildbestand</td>
 		</tr>
 	</tbody>
 </table>
+
+<p>&nbsp;</p>

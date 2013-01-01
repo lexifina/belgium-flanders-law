@@ -2,16 +2,16 @@
   "codex_id": 1021932,
   "title": "Ministerieel besluit van 2012-06-25 houdende regeling van specifieke steunmaatregelen die een meerwaarde opleveren voor het landbouwmilieu ter uitvoering van artikel 2decies tot en met 2duodecies van het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021932/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "af222a35b4411fa4904f7754d1b98507d0993307aa20236270084c697308e0ab",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021932/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "97b5589ac52bf10422d2611b3409aab10b919ca3ec832dddde88a4b6c1cb974a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021932&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2013-01-01",
   "made": "2012-06-25",
   "gazette": "2012-07-16",
   "numac": 2012203959,
   "document_start": "2012-01-01",
   "document_end": "2014-12-31",
-  "in_force": "2012-01-01",
+  "in_force": "2013-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
