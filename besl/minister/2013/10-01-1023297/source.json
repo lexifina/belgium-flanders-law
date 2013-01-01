@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023297,
+  "title": "Ministerieel besluit van 2013-10-01 betreffende de vaststelling van het model van werkingsverslag voor de aanvraag tot erkenning als vereniging waar armen het woord nemen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023297/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "3d8c15c388d41f399485bbf90ba79ed911ca1046b3ab24fcbb7b98dc6f0ee6de",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023297&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2013-10-01",
+  "gazette": "2013-10-11",
+  "numac": 2013035859,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
