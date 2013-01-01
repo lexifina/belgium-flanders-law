@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022065,
+  "title": "Decreet van 2012-07-13 houdende wijziging van de wet van 10 april 1995 betreffende de herverdeling van de arbeid in de openbare sector en tot opheffing van regelgeving houdende de uitvoering van artikel 14 en 27, § 4, van dezelfde wet",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022065/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "2025a10931b0cd48334a57ff3c2e34bb573338d41d1d6b0a6c3e3917a98ba996",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022065&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2012-07-13",
+  "gazette": "2012-08-13",
+  "numac": 2012204441,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
