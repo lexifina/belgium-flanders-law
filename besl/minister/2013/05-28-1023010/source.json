@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023010,
+  "title": "Ministerieel besluit van 2013-05-28 houdende vaststelling van nadere regels voor de subsidiëring van bepaalde werken, leveringen en diensten die in het Vlaamse Gewest door of op initiatief van lagere besturen of ermee gelijkgestelde rechtspersonen worden uitgevoerd",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023010/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "9352c0692547a8461cf412815616b2328b8a880fdc6559028fce0b1687528b67",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023010&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2013-05-28",
+  "gazette": "2013-06-28",
+  "numac": 2013203535,
+  "document_start": "2013-01-01",
+  "document_end": "2013-12-31",
+  "in_force": "2013-01-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
