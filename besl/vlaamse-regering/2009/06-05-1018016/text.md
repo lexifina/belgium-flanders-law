@@ -603,7 +603,7 @@ De gemeenteraad kan gemotiveerd afwijken van de percentages, vermeld in artikel 
 
 ### ART. 6.
 
-§ 1. De wedde wordt maandelijks betaald.<br /><br />Als de wedde van de maand niet volledig is verschuldigd, wordt ze in dertigsten verdeeld.<br /><br />Als de mandataris in de loop van de maand overlijdt, wordt de wedde voor de volledige maand betaald.<br /><br />§ 2. Bij al de verrichtingen voor de betaalbaarstelling en de betaling van de wedden, worden de bedragen in euro afgerond tot twee cijfers na de komma.
+§ 1. De wedde wordt maandelijks betaald.<BR><BR>Als de wedde van de maand   niet volledig is verschuldigd, wordt ze in dertigsten verdeeld.<BR><BR>Als de   mandataris in de loop van de maand overlijdt, wordt de wedde voor de volledige   maand betaald.<BR><BR>Als de pensioengerechtigde mandataris effectief een   aanvraag tot pensionering heeft ingediend en geen nieuw mandaat opneemt bij de   algehele vernieuwing van de raden, kan hem de wedde van de laatste maand van het   mandaat, waarin de algehele vernieuwing van de raden plaatsvindt, worden betaald   op voorwaarde dat hij geen beroepsinkomen of vervangingsinkomen geniet.<BR><BR>§   2. Bij al de verrichtingen voor de betaalbaarstelling en de betaling van de   wedden, worden de bedragen in euro afgerond tot twee cijfers na de   komma.
 
 ### ART. 7.
 
