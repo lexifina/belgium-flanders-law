@@ -2,16 +2,16 @@
   "codex_id": 1017928,
   "title": "Ministerieel besluit van 2009-05-07 tot bepaling van de inkomsten en uitgaven die bijkomend in aanmerking worden genomen voor de berekening van de Gewestelijke Sociale Correctie (GSC)",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017928/VolledigDocument?datum=2009-05-07",
-  "source_sha256": "c089b73a91bff879b9f77df86734c6b9d755da8761388fcf390ad7ec50bbe257",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017928/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "e3e57389a096c5fe8e90bfce8774ca48b630f7f536f03163fd31701352eca014",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017928&param=informatie",
-  "as_of": "2009-05-07",
+  "as_of": "2013-01-01",
   "made": "2009-05-07",
   "gazette": "2009-05-28",
   "numac": 2009035437,
   "document_start": "2009-05-07",
   "document_end": "2012-12-31",
-  "in_force": "2009-05-07",
+  "in_force": "2013-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2009-05-07; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
