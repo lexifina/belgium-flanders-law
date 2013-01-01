@@ -122,11 +122,11 @@ Een gemeente kan ervoor kiezen projecten te laten uitvoeren door een vereniging 
 
 ### ART. 22.
 
-§ 1. De VZW Voorrangsbeleid Brussel komt in aanmerking voor de subsidie-enveloppe, vermeld in § 2 voor zover ze voldoet aan volgende voorwaarden :<br />1° ze stelt zich tot doel een netoverschrijdende structuur uit te bouwen ter ondersteuning van de Nederlandstalige basisscholen in het tweetalige gebied Brussel-Hoofdstad. Die netoverschrijdende structuur is gericht op het creëren van een omgeving waarin de leerlingen :<br />a) positief kunnen functioneren op schoolniveau;<br />b) de nodige inzichten en vaardigheden verwerven om goed maatschappelijk te kunnen functioneren;<br />c) goed toegerust worden voor de ontwikkeling van hun professionele loopbaan;<br />2° ze legt uiterlijk op de eerste dag van de zesde maand na afsluiting van het boekjaar de jaarrekening en het jaarverslag van de VZW Voorrangsbeleid Brussel ter kennisgeving voor aan de Vlaamse Regering.<br /><br />§ 2. De Vlaamse Regering subsidieert tot 31 december 2011 de loonkosten van de personeelsleden en de werkingsmiddelen binnen de door de Vlaamse Gemeenschap vastgestelde begrotingskredieten.<br /><br />§ 3. De vzw VBB kan geen verbintenissen aangaan die uitvoering hebben na 31 december 2011.
+<P>...</P>
 
 ### ART. 23.
 
-§ 1. De VZW Werkgroep Immigratie komt in aanmerking voor de subsidie-enveloppe, vermeld in § 2, voor zover ze voldoet aan de volgende voorwaarden :<br />1° ze stelt zich tot doel het verschaffen aan Nederlandstalige scholen in het tweetalige gebied Brussel-Hoofdstad van :<br />a) de structurele en inhoudelijke ondersteuning van het project 'Onderwijs in Eigen Taal en Cultuur' en andere initiatieven met betrekking tot meertalig onderwijs en talensensibilisering;<br />b) een vormingsaanbod voor leerkrachten, leerlingen en hun ouders;<br />2° ze legt uiterlijk op de eerste dag van de zesde maand na de afsluiting van het boekjaar de jaarrekening en het jaarverslag van de VZW Werkgroep Immigratie ter kennisgeving voor aan de Vlaamse Regering.<br /><br />§ 2. De Vlaamse Regering subsidieert tot 31 augustus 2010 de loonkosten van de personeelsleden en de werkingsmiddelen, binnen de door de Vlaamse Gemeenschap vastgestelde begrotingskredieten.<br /><br />
+<P>...</P>
 
 ## Afdeling II Algemene bepalingen met betrekking tot de ondersteuning van het Brussels onderwijs
 
