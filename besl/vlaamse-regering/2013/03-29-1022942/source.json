@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022942,
+  "title": "Besluit van de Vlaamse Regering van 2013-03-29 houdende de toekenning van de voorschotten op de subsidies voor 2013 aan de levensbeschouwelijke verenigingen die erkend zijn om televisieprogramma's op de VRT te verzorgen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022942/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "6c5fc14586a364143fdcbed811e447101a6fbe5437557845e5acac1cefff97c3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022942&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2013-03-29",
+  "gazette": "2013-05-31",
+  "numac": 2013035424,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
