@@ -2,16 +2,16 @@
   "codex_id": 1019981,
   "title": "Besluit van de Vlaamse Regering van 2010-12-17 tot wijziging van artikel 3 van het besluit van de Vlaamse Regering van 28 juni 2002 betreffende de lokale overlegplatforms inzake gelijke onderwijskansen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019981/VolledigDocument?datum=2010-12-31",
-  "source_sha256": "3025aa7e99ea57024ff6bc5462ea5664c70ed917212ec67f1fe053adc75c55fc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019981/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "6668b60f961318138830d3e48716afed7ae0f2b8f57d583b0449a82930c7a328",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019981&param=informatie",
-  "as_of": "2010-12-31",
+  "as_of": "2013-01-01",
   "made": "2010-12-17",
   "gazette": "2011-02-03",
   "numac": 2011035079,
   "document_start": "2010-12-31",
   "document_end": null,
-  "in_force": "2010-12-31",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2010-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
