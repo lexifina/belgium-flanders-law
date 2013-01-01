@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022534,
+  "title": "Ministerieel besluit van 2012-11-26 houdende de erkenning van een arts als controlearts",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022534/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "4b122cd677f10cb6033e4c8030ca30152843430f632f6d52c5f65bd25e0b624f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022534&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2012-11-26",
+  "gazette": "2012-12-14",
+  "numac": 2012206987,
+  "document_start": "2013-01-01",
+  "document_end": "2013-12-31",
+  "in_force": "2013-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
