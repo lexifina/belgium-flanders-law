@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022624,
+  "title": "Besluit van de Vlaamse Regering van 2012-11-30 houdende wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 21 mei 2010 betreffende de vergunning, erkenning en subsidiëring van een pilootproject diensten Inclusieve Ondersteuning door het Vlaams Agentschap voor Personen met een Handicap en houdende wijziging van het besluit van de Vlaamse Regering van 17 november 2006 betreffende de goedkeuring en subsidiëring van geïntegreerde woonprojecten voor personen met een handicap, wat betreft de werkingsduur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022624/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "c7295a74cf88fefe882abaeac6c1b731b2efbb5697af271eddd7f503d333c44a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022624&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2012-11-30",
+  "gazette": "2013-01-15",
+  "numac": 2012036295,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
