@@ -2,16 +2,16 @@
   "codex_id": 1015138,
   "title": "Besluit van de Vlaamse Regering van 2006-10-13 houdende het algemeen reglement op de boekhouding van de besturen van de erkende erediensten en van de centrale besturen van de erkende erediensten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015138/VolledigDocument?datum=2008-09-25",
-  "source_sha256": "fe19923f9e82fd3865277d72096dc500616b0b348dfe96a194239c4291c9247b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015138/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "f458104e792b1acb7adadd6a9416721c1ca17d9715c9ab193b91ef3eab7b50ea",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015138&param=informatie",
-  "as_of": "2008-09-25",
+  "as_of": "2013-01-01",
   "made": "2006-10-13",
   "gazette": "2006-11-13",
   "numac": 2006036804,
   "document_start": "2007-01-01",
   "document_end": null,
-  "in_force": "2008-09-25",
-  "article_versions": 60,
-  "record_form": "consolidated version as in force on 2008-09-25; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-01-01",
+  "article_versions": 61,
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }

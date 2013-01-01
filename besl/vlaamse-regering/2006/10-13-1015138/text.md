@@ -42,11 +42,7 @@ In afwijking van het tweede lid zijn beleggingen in kredietoverschrijding mogeli
 
 ### ART. 3.
 
-In afwijking van artikel 2, tweede lid, kan het bestuursorgaan zonder voorafgaande budgetwijziging voorzien in uitgaven die door dwingende en onvoorziene omstandigheden worden vereist, op voorwaarde dat het daartoe een met redenen omkleed besluit neemt.<br>
-<br>
-In dezelfde omstandigheden en als het geringste uitstel onbetwistbare schade zou veroorzaken, kunnen de voorzitter en de secretaris op eigen verantwoordelijkheid in de uitgave voorzien, als het bestuursorgaan dat in zijn beheersregels heeft opgenomen. De voorzitter brengt het bestuursorgaan daarvan onverwijld op de hoogte.<br>
-<br>
-In de gevallen, vermeld in het eerste en tweede lid, worden de nodige kredieten onverwijld ingeschreven door een budgetwijziging. De betaling mag evenwel worden uitgevoerd zonder de budgetwijziging af te wachten.
+<P>...</P>
 
 ### ART. 4.
 
@@ -64,7 +60,7 @@ Niet-zelfbedruipende besturen kunnen enkel overboekingen doen als hierover overe
 
 ### ART. 6.
 
-Het meerjarenplan bestaat uit een strategische nota, een financiële nota en een opsomming van de afspraken met de gemeente of provincie. <br /><br />
+Het meerjarenplan bestaat uit een strategische nota, een financiële nota   en in voorkomend geval een opsomming van de afspraken met de gemeente of   provincie. <BR><BR>
 
 ### ART. 7.
 
@@ -80,7 +76,7 @@ In elk van de financiële boekjaren waarop het meerjarenplan of de wijziging van
 
 ### ART. 10.
 
-De afspraken, vermeld in artikel 6, kunnen beperkingen bevatten voor de aanwending van de in het meerjarenplan opgenomen kredieten, afspraken over het tijdstip en de wijze van uitbetaling van de toelagen en aanvullende voorwaarden voor het doorvoeren van interne kredietaanpassingen. Die opsomming is niet limitatief.
+De afspraken, vermeld in artikel 6, en de afspraken, vermeld in artikel   33/1, 113/1, 149/1, 185/1, 221/1 en 264/1 van het decreet&nbsp;kunnen   beperkingen bevatten voor de aanwending van de in het meerjarenplan opgenomen   kredieten, afspraken over het tijdstip en de wijze van uitbetaling van de   toelagen en aanvullende voorwaarden voor het doorvoeren van interne   kredietaanpassingen. Die opsomming is niet limitatief.<BR><BR>
 
 ### ART. 11.
 
@@ -90,28 +86,22 @@ De strategische nota, vermeld in artikel 6, geeft minstens uitleg over de beleid
 
 ### ART. 12.
 
-Telkens als een budget wordt vastgesteld en telkens als een budgetwijziging wordt doorgevoerd, wordt het meerjarenplan geactualiseerd, tenzij het tegelijkertijd gewijzigd wordt.<br>
-<br>
-De actualisering bestaat uit het vervangen van de cijfers van de desbetreffende kolommen van het meerjarenplan door de cijfers van de intussen vastgestelde budgetten, in voorkomend geval inclusief budgetwijzigingen, of jaarrekeningen. Met behoud van de toepassing van artikel 13, derde lid, en van artikel 14 kan hierbij voor het overige niets gewijzigd worden aan het meerjarenplan.<br>
-<br>
-Het geactualiseerde meerjarenplan vormt een verplichte bijlage bij elk budget en elke budgetwijziging.
+<P>...</P>
 
 ## Afdeling III Wijzigingen van het meerjarenplan
 
 ### ART. 13.
 
-Het meerjarenplan wordt gewijzigd als in de financiële nota de gemeentelijke of provinciale exploitatietoelage wordt vermeerderd of als de afspraken, vermeld in artikel 6 en 10, worden gewijzigd.<br>
-<br>
+Het meerjarenplan wordt gewijzigd als in de financiële nota de gemeentelijke of provinciale exploitatietoelage wordt vermeerderd of als de afspraken, vermeld in artikel 6, worden gewijzigd.<br>
 Het meerjarenplan wordt eveneens gewijzigd als in de financiële nota het totaal van de uitgaven van een van de hoofdfuncties van de investeringen wordt vermeerderd of als de financieringswijze van een investering definitief wordt gewijzigd.<br>
-<br>
-In afwijking van het tweede lid wordt het meerjarenplan niet verplicht gewijzigd als de vermeerdering van het totaal van de uitgaven van een van de hoofdfuncties van de investeringen enkel het gevolg is van verdisconteringen of van terugbetalingen van renteloze thesaurievoorschotten of als het beleggingen betreft die gecompenseerd worden door extra investeringsontvangsten..<br>
-&nbsp;
+In afwijking van het tweede lid wordt het meerjarenplan niet verplicht gewijzigd als de vermeerdering van het totaal van de uitgaven van een van de hoofdfuncties van de investeringen enkel het gevolg is van verdisconteringen of van terugbetalingen van renteloze thesaurievoorschotten of als het beleggingen betreft die gecompenseerd worden door extra investeringsontvangsten.
 
 ### ART. 14.
 
 In afwijking van artikel 13 geeft de verschuiving van een investeringsuitgave, van een daarmee samenhangende overboeking of van een daarmee samenhangende ontvangst naar het daaropvolgende financieel boekjaar dat deel uitmaakt van hetzelfde meerjarenplan, geen aanleiding tot een wijziging van het meerjarenplan.<br>
 <br>
-De verschuiving, vermeld in het eerste lid, moet wel worden opgenomen en toegelicht bij de actualisering van het meerjarenplan.
+De verschuiving, vermeld in het eerste lid, moet wel worden opgenomen in en toegelicht bij het budget of de budgetwijziging van het financieel boekjaar waarnaar de kredieten worden verschoven.<br>
+&nbsp;
 
 ### ART. 15.
 
@@ -131,7 +121,7 @@ Het budget bestaat uit een financiële nota en een beleidsnota. <br /><br />
 
 ### ART. 18.
 
-De financiële nota van het budget maakt een onderscheid tussen de ontvangsten en uitgaven, inclusief overboekingen, die betrekking hebben op de exploitatie enerzijds en op de investeringen anderzijds.<br /><br />Het budget geeft de kredieten weer voor alle ontvangsten en uitgaven, inclusief overboekingen, die tijdens dat financieel boekjaar kunnen worden verricht, met uitzondering van de geldverrichtingen die enkel betrekking hebben op de beschikbare kasvoorraad.<br /><br />Het budget geeft daarnaast de cijfers van de laatst vastgestelde jaarrekening, de cijfers van het laatst vastgestelde budget en de voor dat financieel boekjaar opgenomen cijfers uit het niet-geactualiseerde meerjarenplan.<br /><br />De minister bepaalt de nadere regels voor de vorm en de inhoud van het budget.<br /><br />
+De financiële nota van het budget maakt een onderscheid tussen de   ontvangsten en uitgaven, inclusief overboekingen, die betrekking hebben op de   exploitatie enerzijds en op de investeringen anderzijds.<BR><BR>Het budget geeft   de kredieten weer voor alle ontvangsten en uitgaven, inclusief overboekingen,   die tijdens dat financieel boekjaar kunnen worden verricht, met uitzondering van   de geldverrichtingen die enkel betrekking hebben op de beschikbare   kasvoorraad.<BR><BR>Het budget geeft daarnaast de cijfers van de laatst   vastgestelde jaarrekening, de cijfers van het laatst vastgestelde budget en de   voor dat financieel boekjaar opgenomen cijfers uit het meerjarenplan.<BR><BR>De   minister bepaalt de nadere regels voor de vorm en de inhoud van het   budget.<BR><BR>
 
 ### ART. 19.
 
@@ -148,7 +138,11 @@ De zelfbedruipende besturen mogen gemotiveerd afwijken van de bepalingen van dit
 
 ### ART. 21.
 
-De beleidsnota verwoordt het beleid dat het bestuur van de eredienst gedurende het desbetreffende financieel boekjaar zal voeren en verantwoordt minimaal de wijzigingen ten opzichte van de cijfers voor dat financieel boekjaar uit het niet-geactualiseerde meerjarenplan.<br /><br />
+De beleidsnota verwoordt het beleid dat het bestuur van de eredienst   gedurende het desbetreffende financieel boekjaar zal voeren en verantwoordt   minimaal de wijzigingen ten opzichte van de cijfers voor dat financieel boekjaar   uit het&nbsp;meerjarenplan.<BR><BR>
+
+### ART. 21/1.
+
+Een budget past in het goedgekeurde meerjarenplan als het in vergelijking   met dat meerjarenplan geen wijzigingen bevat die, met toepassing van artikel 13,   aanleiding geven tot een wijziging van het meerjarenplan.
 
 ## Afdeling VI Budgetwijzigingen
 
@@ -182,7 +176,8 @@ Als een centraal bestuur werd opgericht, dient dat centraal bestuur de budgetten
 
 ### ART. 26.
 
-Het bestuursorgaan kan binnen een hoofdfunctie van het exploitatiebudget de kredieten verschuiven met een interne kredietaanpassing zolang het totaal van de ontvangsten en de uitgaven van de hoofdfuncties gelijk blijft, geen kredieten opgenomen worden op artikelen van het budget voor uitgaven waarop geen kredieten opgenomen waren en de afspraken, vermeld in artikel 6 en 10, worden gerespecteerd.
+Het bestuursorgaan kan binnen een hoofdfunctie van het exploitatiebudget de kredieten verschuiven met een interne kredietaanpassing zolang het totaal van de ontvangsten en de uitgaven van de hoofdfuncties gelijk blijft, en de afspraken, vermeld in artikel 6 en 10&nbsp;, worden gerespecteerd.<br>
+&nbsp;
 
 ### ART. 27.
 
@@ -239,7 +234,10 @@ Voor elk gepland investeringsproject wordt een investeringsfiche opgemaakt, waar
 <br>
 Voor investeringsprojecten die betrekking hebben op gebouwen, wordt op de investeringsfiches vermeld of het gebouw al dan niet beschermd is, in de zin van artikel 34, derde lid.<br>
 <br>
-De minister bepaalt de nadere regels voor de vorm en de inhoud van de investeringsfiche.
+In afwijking van het eerste lid moet er geen investeringsfiche worden opgemaakt voor de investeringen waarvan alle ontvangsten en uitgaven in hetzelfde financiële boekjaar vallen.<br>
+<br>
+De minister bepaalt de nadere regels voor de vorm en de inhoud van de investeringsfiche.<br>
+&nbsp;
 
 ### ART. 37.
 
@@ -313,11 +311,9 @@ De penningmeester is verantwoordelijk voor de aan hem toevertrouwde akten, boeke
 
 ### ART. 49.
 
-Enkel beleggingsvormen in euro met volledige kapitaalsgarantie bij erkende instellingen zijn toegestaan. Hiermee worden gelijkgesteld de beleggingsvormen in euro die door de minister als voldoende veilig zijn erkend. Onder erkende instellingen worden die instellingen verstaan die erkend zijn overeenkomstig de wet van 22 maart 1993 op het statuut van en het toezicht op de kredietinstellingen.<br>
-<br>
 De penningmeester kan beschikbare kasvoorraad beleggen, op voorwaarde dat de werking van het bestuur van de eredienst hierdoor niet in het gedrang komt. Die beleggingen moeten niet in het budget worden opgenomen.<br>
 <br>
-Met behoud van de toepassing van artikel 2, derde lid, kunnen alle beleggingen op een termijn van langer dan één jaar en de beleggingen op een kortere termijn die door het bestuursorgaan gemotiveerd als een investeringsbelegging worden aangewezen, enkel worden uitgevoerd door de penningmeester na beslissing van het bestuursorgaan en nadat de nodige kredieten in het meerjarenplan en het budget zijn ingeschreven.
+Met behoud van de toepassing van artikel 2, derde lid, kunnen alle beleggingen op een termijn van langer dan één jaar en de beleggingen op een kortere termijn die door het bestuursorgaan gemotiveerd als een investeringsbelegging worden aangewezen, enkel worden uitgevoerd door de penningmeester na beslissing van het bestuursorgaan en nadat de nodige kredieten in het meerjarenplan en het budget zijn ingeschreven
 
 ### ART. 50.
 
