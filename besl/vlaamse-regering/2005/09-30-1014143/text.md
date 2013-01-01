@@ -38,9 +38,45 @@ De Vlaamse Regering neemt een beslissing bij gemotiveerd besluit. Dit erkennings
 
 ## [HOOFDSTUK IV/1 Wijziging van de gebiedsomschrijving van erkende plaatselijke kerk- of geloofsgemeenschappen (ing. BVR 21 december 2012, art. 1)]
 
+### ART. 7/1.
+
+Om de gebiedsomschrijving van erkende plaatselijke kerk- of   geloofsgemeenschappen te kunnen wijzigen, moet de aanvrager een gemotiveerde   aanvraag met een ter post aangetekende brief indienen bij de Vlaamse   Regering.<BR><BR>Het dossier voor de aanvraag moet tenminste de volgende   inlichtingen en stukken bevatten : <BR>1° de beslissing volgens de eigen   regelgeving van de eredienst in kwestie, waarbij de gebiedsomschrijving van de   volgens die eigen regelgeving erkende entiteit van de eredienst wordt gewijzigd;   <BR>2° een duidelijke beschrijving van de oorspronkelijke en de voorgestelde   wijziging van de gebiedsomschrijving, voor zover mogelijk met plan; <BR>3° een   motivering door de aanvrager voor de wijziging van de gebiedsomschrijving;<BR>4°   het advies van het bestuursorgaan van de erkende plaatselijke kerk- of   geloofsgemeenschap; <BR>5° de opgave van alle gemeenten of provincies die   bijdragen aan het budget van de erkende plaatselijke kerk- of   geloofsgemeenschap, met vermelding van de eventuele   verdeelsleutel.
+
+### ART. 7/2.
+
+§ 1. De Vlaamse Regering stuurt een afschrift van de aanvraag aan de   minister van Justitie.<BR><BR>§ 2. Voor de Vlaamse Regering haar beslissing   neemt over de wijziging van de gebiedsomschrijving van de erkende plaatselijke   kerk- of geloofsgemeenschap, wint ze het advies in van de gemeenteraden of de   provincieraden, vermeld in artikel 7/1, tweede lid, 5°. <BR><BR>Als de   gemeenteraad of provincieraad zijn advies niet naar de Vlaamse Regering heeft   gestuurd binnen een termijn van vier maanden nadat de Vlaamse Regering hem de   vraag om advies heeft toegezonden, wordt de gemeenteraad of de provincieraad   geacht een gunstig advies over de wijziging van de gebiedsomschrijving te hebben   uitgebracht.
+
+### ART. 7/3.
+
+Het besluit van de Vlaamse Regering bevat in voorkomend geval de   gewijzigde verdeelsleutel van de kosten tussen de openbare besturen die   betrokken zijn bij grensoverschrijdende plaatselijke kerk- of   geloofsgemeenschappen, na het inwinnen van hun advies ter zake. <BR><BR>De   Vlaamse Regering brengt, met een ter post aangetekende brief, de aanvrager op de   hoogte van dat besluit. Ze stuurt ook een afschrift ervan aan de minister van   Justitie, aan de betrokken erkende plaatselijke kerk- of geloofsgemeenschap en,   naargelang van het geval, aan de betrokken gemeenten of   provincies;
+
 ## [HOOFDSTUK IV/2 Samenvoeging van twee of meer erkende plaatselijke kerk- of geloofsgemeenschappen (ing. BVR 21 december 2012, art. 2)]
 
+### ART. 7/4.
+
+Om twee of meer erkende plaatselijke kerk- of geloofsgemeenschappen samen   te kunnen voegen, moet de aanvrager een gemotiveerde aanvraag met een ter post   aangetekende brief indienen bij de Vlaamse Regering.<BR><BR>Het dossier voor de   aanvraag moet tenminste de volgende inlichtingen en stukken bevatten : <BR>1° de   beslissing volgens de eigen regelgeving van de eredienst in kwestie, waarbij de   erkenning van de entiteit of entiteiten van de eredienst, toegekend volgens die   eigen regelgeving, wordt opgeheven en waarbij die entiteit of entiteiten worden   samengevoegd met een andere erkende entiteit; <BR>2° een duidelijke beschrijving   van de oorspronkelijke gebiedsomschrijving van de samen te voegen plaatselijke   kerk- en geloofsgemeenschappen en de gebiedsomschrijving van de samengevoegde   plaatselijke kerk- of geloofsgemeenschap(pen), voor zover mogelijk met plan;   <BR>3° een motivering van de samenvoeging door de aanvrager;<BR>4° het advies   van het bestuursorgaan van de samen te voegen erkende plaatselijke kerk- of   geloofsgemeenschappen; <BR>5° de opgave van alle gemeenten of provincies die   bijdragen aan het budget van de erkende plaatselijke kerk- of   geloofsgemeenschap, met vermelding van de eventuele verdeelsleutel; <BR>6° een   geactualiseerde inventaris van de goederen en de staat van het vermogen van de   samen te voegen erkende plaatselijke kerk- of geloofsgemeenschappen, op basis   van de laatste jaarrekening en eventueel aangevuld met mogelijke latere   wijzigingen.
+
+### ART. 7/5.
+
+§ 1. De Vlaamse Regering stuurt een afschrift van de aanvraag aan de   Minister van Justitie.<BR><BR>§ 2. Voor de Vlaamse Regering haar beslissing   neemt over de wijziging van de gebiedsomschrijving van de erkende plaatselijke   kerk- of geloofsgemeenschap, wint ze het advies in van de gemeenteraden of de   provincieraden, vermeld in artikel 7/4, tweede lid, 5°. <BR><BR>Als de   gemeenteraad of provincieraad zijn advies niet naar de Vlaamse Regering heeft   gestuurd binnen een termijn van vier maanden nadat de Vlaamse Regering hem de   vraag om advies heeft toegezonden, wordt de gemeenteraad of de provincieraad   geacht een gunstig advies over de wijziging van de gebiedsomschrijving te hebben   uitgebracht.
+
+### ART. 7/6.
+
+Het besluit van de Vlaamse Regering bevat in voorkomend geval de   gewijzigde verdeelsleutel van de kosten tussen de openbare besturen die   betrokken zijn bij grensoverschrijdende plaatselijke kerk- of   geloofsgemeenschappen, na het inwinnen van hun advies ter zake. Dat besluit   bevat daarnaast de geactualiseerde inventaris van de goederen en de staat van   het vermogen van de samen te voegen erkende plaatselijke kerk- of   geloofsgemeenschappen.<BR><BR>De Vlaamse Regering brengt, met een ter post   aangetekende brief, de aanvrager op de hoogte van dat besluit. Ze stuurt ook een   afschrift ervan aan de minister van Justitie, aan de betrokken erkende   plaatselijke kerk- of geloofsgemeenschappen en, naargelang van het geval, aan de   betrokken gemeenten of provincies.
+
 ## [HOOFDSTUK IV/3 Opheffing van de erkenning van annexe-kerken en kapelanijen (ing. BVR 21 december 2012, art. 3)]
+
+### ART. 7/7.
+
+Om de erkenning van een annexe-kerk of een kapelanij te kunnen opheffen,   moet het bisdom een gemotiveerde aanvraag met een ter post aangetekende brief   indienen bij de Vlaamse Regering.<BR><BR>Het dossier voor de aanvraag moet   tenminste de volgende inlichtingen en stukken bevatten : <BR>1° een motivering   door het bisdom voor de opheffing van de erkenning;<BR>2° het besluit tot   erkenning van de annexe-kerk of kapelanij;<BR>3° het advies van het   bestuursorgaan van de kerkfabriek waaronder de annexe-kerk of kapelanij   ressorteert; <BR>4° een opgave van alle gemeenten die bijdragen aan het budget   van de kerkfabriek waaronder de annexe-kerk of kapelanij ressorteert.
+
+### ART. 7/8.
+
+Voor de Vlaamse Regering haar beslissing neemt over de opheffing van de   erkenning van de annexe-kerk of kapelanij, wint ze het advies in van de   gemeenteraden, vermeld in artikel 7/7, tweede lid, 4°. <BR><BR>Als de   gemeenteraad zijn advies niet naar de Vlaamse Regering heeft gestuurd binnen een   termijn van vier maanden nadat de Vlaamse Regering hem de vraag om advies heeft   toegezonden, wordt de gemeenteraad geacht een gunstig advies over de opheffing   van de erkenning van de annexe-kerk of kapelanij te hebben   uitgebracht.
+
+### ART. 7/9.
+
+De Vlaamse Regering brengt, met een ter post aangetekende brief, het   bisdom op de hoogte van haar besluit. Ze stuurt ook een afschrift ervan aan de   betrokken gemeenten en aan de kerkfabriek waaronder de annexe-kerk of kapelanij   ressorteert.
 
 ## HOOFDSTUK V Slotbepalingen
 
