@@ -8,6 +8,10 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin, <br /><br />Gelet op 
 
 In artikel 2 van het ministerieel besluit van 29 oktober 2009 houdende nadere regels betreffende de subsidiëring van verenigingen waar armen het woord nemen, gewijzigd bij het ministerieel besluit van 21 april 2010, wordt de zinsnede "jaarlijkse subsidie 24.500" vervangen door de zinsnede "subsidie voor het werkingsjaar 2012 36.639,82".
 
+### ART. 2.
+
+De volgende besluiten worden opgeheven : <br />1° het ministerieel besluit van 25 mei 2009 houdende nadere regels betreffende de werking van verenigingen waar armen het woord nemen;<br />2° het ministerieel besluit van 29 oktober 2009 houdende nadere regels betreffende de subsidiëring van verenigingen waar armen het woord nemen, gewijzigd bij de ministeriële besluiten van 21 april 2010 en 25 mei 2012.<br />
+
 ### ART. 3.
 
 Artikel 2 van dit besluit treedt in werking op 1 januari 2013.
