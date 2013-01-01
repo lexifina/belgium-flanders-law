@@ -1057,11 +1057,11 @@ Als uit de EPB-aangifte blijkt dat de EPB-eisen vermeld in artikel 11.1.1, § 1,
 
 ### ART. 13.4.7.
 
-§ 1. Als bij controle blijkt dat de EPB-aangifte niet met de werkelijkheid overeenstemt, legt het Vlaams Energieagentschap tot vijf jaar na het indienen van de EPB-aangifte de verslaggever een administratieve geldboete op van :<br />1° 60 euro per afwijking van 1 W/K op het vlak van de thermische isolatie van de constructie-elementen en het K-peil, zoals bepaald in punt 2.1.1 en 2.1.2 van de bijlage die bij dit decreet is gevoegd;<br />2° 24 eurocent per afwijking van 1 MJ/jaar op het vlak van de globale energetische prestatie, zoals bepaald in punt 2.2 van de bijlage die bij dit decreet is gevoegd;<br />3° 48 eurocent per 1000 Kh en per m3 afwijking op het vlak van het risico op oververhitting, zoals bepaald in punt 2.3 van de bijlage die bij dit decreet is gevoegd;<br />4° 4 euro per afwijking van 1 m3/h op het vlak van de ventilatievoorzieningen, zoals bepaald in 2.4 van de bijlage bij dit decreet;<br />5° 86 eurocent per afwijking van 1 kWh/jaar op het vlak van de netto-energiebehoefte voor verwarming, zoals bepaald in punt 2.5 van de bijlage die bij dit decreet is gevoegd;<br />6° 10 euro per m2 niet-gerapporteerd schildeel, met een maximum van 500 euro per niet gerapporteerd schildeel;<br />7° 10 euro per m2 verschil tussen de in de EPB-aangifte opgegeven brutovloeroppervlakte en de bij de controle vastgestelde brutovloeroppervlakte, met een maximum van 500 euro, zoals bepaald in punt 2.6 van de bijlage die bij dit decreet is gevoegd.<br /><br />Een in de EPB-aangifte foutief opgegeven waarde met betrekking tot de ventilatievoorzieningen kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, 1°, 2°, 3° en 5°. <br /><br />Een in de EPB-aangifte vergeten schildeel kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, 1°, 2°, 3° en 5°. <br /><br />Een in de EPB-aangifte foutief opgegeven waarde met betrekking tot de thermische isolatie van de constructie-elementen kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, 1°, op grond van afwijkingen op het vlak van het K-peil, of krachtens het eerste lid, 2°, 3° en 5°. <br /><br />Een in de EPB-aangifte foutief opgegeven waarde met betrekking tot het K-peil kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, 2°, 3° en 5°. <br /><br />Een in de EPB-aangifte foutief opgegeven brutovloeroppervlakte kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, 5°. <br /><br />Een in de EPB-aangifte foutief opgegeven waarde met betrekking tot de netto-energiebehoefte voor verwarming kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, 2° en 3°. <br /><br />Een in de EPB-aangifte foutief opgegeven waarde met betrekking tot het E-peil kan geen aanleiding geven tot verdere beboeting krachtens het eerste lid, 3°. <br /><br />Het Vlaams Energieagentschap vestigt de administratieve geldboete pas als de totale administratieve geldboete die opgelegd wordt op basis van dit artikel, ten minste 250 euro bedraagt.<br /><br />§ 2. Voor EPB-aangiften met betrekking tot gebouwen waarvan de startverklaring in 2006 werd ingediend, bedraagt de administratieve geldboete slechts de helft van het bedrag dat op basis van § 1, eerste lid, is verschuldigd, met een minimum van 250 euro.<br /><br />§ 3. De verslaggever dient binnen zestig kalenderdagen na de vestiging van de administratieve geldboete bij het Vlaams Energieagentschap een EPB-aangifte in die in overeenstemming is met de controlevaststellingen.<br /><br />De verslaggever brengt de aangifteplichtige daarvan onmiddellijk op de hoogte en bezorgt hem de nieuw ingediende EPB-aangifte. De kosten voor de herindiening van de EPB-aangifte vallen volledig ten laste van de verslaggever.<br /><br />Als een overtreding van de verplichting, vermeld in het eerste lid, wordt vastgesteld, maant het Vlaams Energieagentschap de verslaggever aan om binnen een vastgestelde termijn de verplichting na te leven. Als de verslaggever bij het verstrijken van die termijn in gebreke blijft, legt het Vlaams Energieagentschap een administratieve geldboete van 500 euro op.<br /><br />§ 4. Als het Vlaams Energieagentschap vaststelt dat het in de EPB-aangifte gerapporteerde E-peil slechter is dan het E-peil bij controle, of als de gerapporteerde brutovloeroppervlakte meer dan 5 procent kleiner is dan de bij de controle vastgestelde brutovloeroppervlakte, verplicht het Vlaams Energieagentschap de verslaggever om binnen de zestig kalenderdagen een nieuwe EPB-aangifte in te dienen die in overeenstemming is met de controlevaststellingen.<br /><br />De verslaggever brengt de aangifteplichtige daarvan onmiddellijk op de hoogte en bezorgt hem de nieuw ingediende EPB-aangifte. De kosten voor de herindiening van de EPB-aangifte vallen volledig ten laste van de verslaggever.<br /><br />Als een overtreding van paragraaf 4, eerste lid, wordt vastgesteld, maant het Vlaams Energieagentschap de verslaggever aan om binnen een vastgestelde termijn de verplichtingen na te leven. Als de verslaggever bij het verstrijken van die termijn in gebreke blijft, legt het Vlaams Energieagentschap een administratieve geldboete op van 500 euro.
+§ 1. Als bij controle blijkt dat de EPB-aangifte niet met de werkelijkheid   overeenstemt, legt het Vlaams Energieagentschap tot vijf jaar na het indienen   van de EPB-aangifte de verslaggever een administratieve geldboete op van :<BR>1°   60 euro per afwijking van 1 W/K op het vlak van de thermische isolatie van de   constructie-elementen en het K-peil, zoals bepaald in punt 2.1.1 en 2.1.2 van de   bijlage die bij dit decreet is gevoegd;<BR>2° 24 eurocent per afwijking van 1   MJ/jaar op het vlak van de globale energetische prestatie, zoals bepaald in punt   2.2 van de bijlage die bij dit decreet is gevoegd;<BR>3° 48 eurocent per 1000 Kh   en per m3 afwijking op het vlak van het risico op oververhitting, zoals bepaald   in punt 2.3 van de bijlage die bij dit decreet is gevoegd;<BR>4° 4 euro per   afwijking van 1 m3/h op het vlak van de ventilatievoorzieningen, zoals bepaald   in 2.4 van de bijlage bij dit decreet;<BR>5° 86 eurocent per afwijking van 1   kWh/jaar op het vlak van de netto-energiebehoefte voor verwarming, zoals bepaald   in punt 2.6 van de bijlage die bij dit decreet is gevoegd;<BR>6° 10 euro per m2   niet-gerapporteerd schildeel, met een maximum van 500 euro per niet   gerapporteerd schildeel;<BR>7° 10 euro per m2 verschil tussen de in de   EPB-aangifte opgegeven brutovloeroppervlakte en de bij de controle vastgestelde   brutovloeroppervlakte, met een maximum van 500 euro, zoals bepaald in punt 2.5   van de bijlage die bij dit decreet is gevoegd.<BR><BR>Een in de EPB-aangifte   foutief opgegeven waarde met betrekking tot de ventilatievoorzieningen kan geen   aanleiding geven tot verdere beboeting krachtens het eerste lid, 1°, 2°, 3° en   5°. <BR><BR>Een in de EPB-aangifte vergeten schildeel kan geen aanleiding geven   tot verdere beboeting krachtens het eerste lid, 1°, 2°, 3° en 5°. <BR><BR>Een in   de EPB-aangifte foutief opgegeven waarde met betrekking tot de thermische   isolatie van de constructie-elementen kan geen aanleiding geven tot verdere   beboeting krachtens het eerste lid, 1°, op grond van afwijkingen op het vlak van   het K-peil, of krachtens het eerste lid, 2°, 3° en 5°. <BR><BR>Een in de   EPB-aangifte foutief opgegeven waarde met betrekking tot het K-peil kan geen   aanleiding geven tot verdere beboeting krachtens het eerste lid, 2°, 3° en 5°.   <BR><BR>Een in de EPB-aangifte foutief opgegeven brutovloeroppervlakte kan geen   aanleiding geven tot verdere beboeting krachtens het eerste lid, 5°. <BR><BR>Een   in de EPB-aangifte foutief opgegeven waarde met betrekking tot de   netto-energiebehoefte voor verwarming kan geen aanleiding geven tot verdere   beboeting krachtens het eerste lid, 2° en 3°. <BR><BR>Een in de EPB-aangifte   foutief opgegeven waarde met betrekking tot het E-peil kan geen aanleiding geven   tot verdere beboeting krachtens het eerste lid, 3°. <BR><BR>Het Vlaams   Energieagentschap vestigt de administratieve geldboete pas als de totale   administratieve geldboete die opgelegd wordt op basis van dit artikel, ten   minste 250 euro bedraagt.<BR><BR>§ 2. Voor EPB-aangiften met betrekking tot   gebouwen waarvan de startverklaring in 2006 werd ingediend, bedraagt de   administratieve geldboete slechts de helft van het bedrag dat op basis van § 1,   eerste lid, is verschuldigd, met een minimum van 250 euro.<BR><BR>§ 3. De   verslaggever dient binnen zestig kalenderdagen na de vestiging van de   administratieve geldboete bij het Vlaams Energieagentschap een EPB-aangifte in   die in overeenstemming is met de controlevaststellingen.<BR><BR>De verslaggever   brengt de aangifteplichtige daarvan onmiddellijk op de hoogte en bezorgt hem de   nieuw ingediende EPB-aangifte. De kosten voor de herindiening van de   EPB-aangifte vallen volledig ten laste van de verslaggever.<BR><BR>Als een   overtreding van de verplichting, vermeld in het eerste lid, wordt vastgesteld,   maant het Vlaams Energieagentschap de verslaggever aan om binnen een   vastgestelde termijn de verplichting na te leven. Als de verslaggever bij het   verstrijken van die termijn in gebreke blijft, legt het Vlaams Energieagentschap   een administratieve geldboete van 500 euro op.<BR><BR>§ 4. Als het Vlaams   Energieagentschap vaststelt dat het in de EPB-aangifte gerapporteerde E-peil   slechter is dan het E-peil bij controle, of als de gerapporteerde   brutovloeroppervlakte meer dan 5 procent kleiner is dan de bij de controle   vastgestelde brutovloeroppervlakte, verplicht het Vlaams Energieagentschap de   verslaggever om binnen de zestig kalenderdagen een nieuwe EPB-aangifte in te   dienen die in overeenstemming is met de controlevaststellingen.<BR><BR>De   verslaggever brengt de aangifteplichtige daarvan onmiddellijk op de hoogte en   bezorgt hem de nieuw ingediende EPB-aangifte. De kosten voor de herindiening van   de EPB-aangifte vallen volledig ten laste van de verslaggever.<BR><BR>Als een   overtreding van paragraaf 4, eerste lid, wordt vastgesteld, maant het Vlaams   Energieagentschap de verslaggever aan om binnen een vastgestelde termijn de   verplichtingen na te leven. Als de verslaggever bij het verstrijken van die   termijn in gebreke blijft, legt het Vlaams Energieagentschap een administratieve   geldboete op van 500 euro.
 
 ### ART. 13.4.7/1.
 
-§ 1. Het Vlaams Energieagentschap kan verslaggevers die blijk geven van kennelijke onbekwaamheid of die activiteiten uitvoeren die in strijd zijn met de bepalingen van artikel 11.1.6, § 1, tweede lid, schorsen in hun activiteiten, vermeld in dit decreet, voor een termijn die het Vlaams Energieagentschap zelf bepaalt.<br /><br />§ 2. Binnen een termijn van dertig kalenderdagen na de betekening van de beslissing van het Vlaams Energieagentschap, kan de betrokken verslaggever bij wege van aangetekend schrijven met ontvangstbewijs beroep aantekenen bij de minister. De verslaggever kan vragen om gehoord te worden.<br /><br />De minister of zijn gemachtigde neemt een beslissing binnen een termijn van dertig kalenderdagen, die ingaat op de dag waarop het beroep is ontvangen.<br /><br />Als de minister of zijn gemachtigde zijn beslissing niet heeft betekend binnen de in het vorige lid bepaalde termijn, wordt ervan uitgegaan dat het beroep werd ingewilligd.
+§ 1. Het Vlaams Energieagentschap kan verslaggevers die blijk geven van   kennelijke onbekwaamheid of die activiteiten uitvoeren die in strijd zijn met de   bepalingen van artikel 11.1.6/1, § 1, tweede lid, schorsen in hun activiteiten,   vermeld in dit decreet, voor een termijn die het Vlaams Energieagentschap zelf   bepaalt.<BR><BR>§ 2. Binnen een termijn van dertig kalenderdagen na de   betekening van de beslissing van het Vlaams Energieagentschap, kan de betrokken   verslaggever bij wege van aangetekend schrijven met ontvangstbewijs beroep   aantekenen bij de minister. De verslaggever kan vragen om gehoord te   worden.<BR><BR>De minister of zijn gemachtigde neemt een beslissing binnen een   termijn van dertig kalenderdagen, die ingaat op de dag waarop het beroep is   ontvangen.<BR><BR>Als de minister of zijn gemachtigde zijn beslissing niet heeft   betekend binnen de in het vorige lid bepaalde termijn, wordt ervan uitgegaan dat   het beroep werd ingewilligd.
 
 ### ART. 13.4.8.
 
@@ -1889,7 +1889,7 @@ Als bij een controle van een EPB-aangifte waarin de invloed van de bouwknopen wo
 <table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width: 614px;">- H<sub>Tjunctions,controle</sub><sub> = </sub>H<sub>T </sub><sup>junctions,aangifte</sup><sub> - </sub>H<sub>T </sub><sup>junctions,foutief</sup> + ∑<sup>m</sup><sub>k</sub><sub> = &nbsp;</sub>l<sub>kcontrole</sub> b<sub>kΨ</sub> <sub>e,kcontrole</sub> / n<sub>k</sub> ∑<sup>r</sup><sub>l</sub><sub> = 1 </sub>b<sub>l</sub> χ<sub>e</sub>, l<sub>controle</sub> / n<sub>l </sub>[W/K]</td>
+			<td style="width: 614px;">- H<sub>Tjunctions,controle</sub><sub> = </sub>H<sub>T </sub><sup>junctions,aangifte</sup><sub> - </sub>H<sub>T </sub><sup>junctions,foutief</sup> +∑<sup>m</sup><sub>k</sub><sub> = </sub>l<sub>kcontrole</sub> b<sub>kΨ</sub><sub>e,kcontrole</sub> / n<sub>k</sub>∑<sup>r</sup><sub>l</sub><sub> = 1 </sub>b<sub>l</sub>χ<sub>e</sub>, l<sub>controle</sub> / n<sub>l </sub>[W/K]</td>
 		</tr>
 		<tr>
 			<td style="width: 614px;"><sub>met :</sub>
@@ -1938,7 +1938,7 @@ Als bij een controle van een EPB-aangifte waarin de invloed van de bouwknopen wo
 		</tr>
 	</tbody>
 </table>
-&nbsp;2.2 Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van de globale energetische prestatie<br>
+2.2 Afwijking bij niet-conformiteit met de EPB-eisen op het vlak van de globale energetische prestatie<br>
 <br>
 Als bij controle de vastgestelde waarde van het E-peil voor één of meerdere bestemmingen groter blijkt dan in de EPB-aangifte is vermeld, wordt voor elke overschrijding de afwijking op het vlak van de globale energetische prestatie, uitgedrukt in MJ/jaar, als volgt bepaald:</div>
 &nbsp;
@@ -2039,7 +2039,7 @@ Bij de vaststelling bij controle van het totale ontwerptoevoerdebiet voor een ru
 		</tr>
 	</tbody>
 </table>
-&nbsp;° Indien in een ruimte met residentiële bestemming er verplichte afvoer rechtstreeks naar buiten is, dan worden voor de bepaling van het toevoerdebiet enkel de doorstroomopeningen (inclusief spleten van binnendeuren) beschouwd. Als de verticale scheidingsconstructies van de ruimte echter alleen grenzen aan een garage, een gemeenschappelijke gang of trappenhuis, een huisvuilkoker of verzamelruimte voor huisvuil, een liftkoker, een stookplaats, een gasmeterruimte of een brandstofopslagplaats, dan worden voor de bepaling van het toevoerdebiet ook andere toevoeropeningen beschouwd.<br>
+° Indien in een ruimte met residentiële bestemming er verplichte afvoer rechtstreeks naar buiten is, dan worden voor de bepaling van het toevoerdebiet enkel de doorstroomopeningen (inclusief spleten van binnendeuren) beschouwd. Als de verticale scheidingsconstructies van de ruimte echter alleen grenzen aan een garage, een gemeenschappelijke gang of trappenhuis, een huisvuilkoker of verzamelruimte voor huisvuil, een liftkoker, een stookplaats, een gasmeterruimte of een brandstofopslagplaats, dan worden voor de bepaling van het toevoerdebiet ook andere toevoeropeningen beschouwd.<br>
 <br>
 2.4.3 Afvoervoorzieningen<br>
 <br>
@@ -2050,7 +2050,7 @@ Als bij controle vastgesteld wordt dat het totale ontwerpafvoerdebiet in een rui
 	<tbody>
 		<tr>
 			<td style="width: 614px;">V<sub>afvoer</sub><sub>, aangifte</sub> - V<sub>afvoer</sub><sub>, vastgesteld</sub><br>
-			&nbsp;<br>
+			<br>
 			Hierin zijn:<br>
 			V<sub>afvoer</sub><sub>, aangifte</sub> het in de EPB-aangifte opgegeven totale ontwerp afvoerdebiet voor die ruimte, in m<sup>3</sup>/h;<br>
 			V<sub>afvoer</sub><sub>, vastgesteld</sub> het bij controle vastgestelde totale ontwerp afvoerdebiet voor die ruimte, bepaald zoals hieronder nader vastgelegd, in m<sup>3</sup>/h.<br>
@@ -2101,6 +2101,7 @@ Als bij controle de vastgestelde waarde van de brutovloeroppervlakte meer dan 5 
 Abruto aangifte - Abruto vaststelling<br>
 waarin :</div>
 
+<div>
 <table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
@@ -2123,6 +2124,38 @@ waarin :</div>
 		</tr>
 	</tbody>
 </table>
+
+<div>
+<h3>&nbsp;</h3>
+
+<p>2.6. Afwijkingen op het vlak van de netto-energiebehoefte voor verwarming<br>
+Als bij controle wordt vastgesteld dat de netto-energiebehoefte in de EPB-aangifte groter is dan in werkelijkheid, dan wordt de overeenkomstige afwijking op het vlak van de netto-energiebehoefte voor verwarming, uitgedrukt in kWh/jaar, als volgt bepaald :<br>
+(Q <sub>heat net spec, vastgesteld</sub> - Q<sub>heat net spec, aangifte)</sub> A<sub>f,gross vastgesteld</sub><br>
+waarin :<br>
+Q<sub>heat net spec, aangifte-</sub>de in de EPB-aangifte vermelde waarde van de netto-energiebehoefte voor verwarming per eenheid brutovloeroppervlakte, in kWh/m<sup>2</sup>.jaar;<br>
+Q <sub>heat net spec, vastgesteld</sub> de bij controle vastgestelde netto-energiebehoefte voor verwarming per eenheid brutovloeroppervlakte, in kWh/ m<sup>2</sup>.jaar;<br>
+A<sub>f,gross vastgesteld</sub> de bij controle vastgestelde brutovloeroppervlakte in m<sup>2</sup>.</p>
+
+<h3><br>
+<br>
+<br>
+&nbsp;</h3>
+</div>
+</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
 
 <div>&nbsp;</div>
 
