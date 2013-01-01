@@ -2,6 +2,18 @@
 
 ## HOOFDSTUK 1 Algemene bepalingen en definities
 
+### ART. 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
+
+### ART. 2.
+
+Dit decreet is van toepassing op de interlandelijke adoptie van een kind, zijnde een persoon van minder dan achttien jaar.<br /><br />
+
+### ART. 3.
+
+In dit decreet wordt verstaan onder :<br />1° interlandelijke adoptie : de adoptie zoals omschreven in artikel 360.2 van het Burgerlijk Wetboek;<br />2° adoptant : een persoon of personen zoals vermeld in artikel 343, § 1, van het Burgerlijk Wetboek;<br />3° afstandsouder : een ouder die voor zichzelf heeft uitgemaakt een kind af te staan;<br />4° adoptiebemiddeling : elke activiteit van een tussenpersoon die ertoe strekt een adoptie van een kind te realiseren;<br />5° adoptiedienst : een door de Vlaamse Regering erkende instelling die aan adoptiebemiddeling doet en de eerste nazorg verstrekt;<br />6° buitenlands kanaal : een instantie, instelling of persoon in het herkomstland van het kind die bij interlandelijke adoptie bemiddelt;<br />7° zelfstandige adoptie : de adoptie waarbij de adoptant geen beroep doet op een adoptiedienst en de adoptie zelfstandig tot stand brengt;<br />8° Vlaams Centrum voor Adoptie : de afdeling aangewezen binnen Kind en Gezin, die zal optreden als centrale autoriteit en belast is met de nakoming van de door het Haags Verdrag opgelegde verplichtingen en opdrachten, vermeld in dit decreet;<br />9° Vlaamse adoptieambtenaar : de ambtenaar, benoemd binnen het Vlaams Centrum voor Adoptie, die de taken vervult die hem door dit decreet toegewezen worden;<br />10° Haags Verdrag : het verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie, ondertekend in Den Haag op 29 mei 1993;<br />11° samenwerkingsakkoord : het samenwerkingsakkoord van 12 december 2005 tussen de federale staat, de Vlaamse Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie inzake de tenuitvoerlegging van de wet van 24 april 2003 tot hervorming van de adoptie;<br />12° Steunpunt Adoptie : een door de Vlaamse Regering erkende instelling die de taken, vermeld in artikel 7, § 2, uitvoert.<br /><br />
+
 ## HOOFDSTUK 2 De informatie en voorbereiding door het Steunpunt Adoptie
 
 ## Afdeling 1 De informatiesessie
@@ -64,11 +76,35 @@ De erkende diensten voor maatschappelijk onderzoek inzake interlandelijke adopti
 
 ## Afdeling 1 Keuze van de adoptant
 
+### ART. 14.
+
+De adoptant van wie in het kader van een interlandelijke adoptie overeenkomstig artikel 1231.31 van het Gerechtelijk Wetboek de bekwaamheid en de geschiktheid om te adopteren is vastgesteld, kan voor adoptiebemiddeling een beroep doen op een erkende adoptiedienst of kan de adoptie zelfstandig tot stand brengen. De adoptant deelt zijn keuze mee aan het Vlaams Centrum voor Adoptie.<br /><br />
+
 ## Afdeling 2 Taken van de adoptiediensten
+
+### ART. 15.
+
+§ 1. Een adoptiedienst treedt op als tussenpersoon inzake adoptie met als   taak te informeren, te bemiddelen en de eerste nazorg te verstrekken.<BR><BR>§   2. De taken inzake adoptiebemiddeling zijn :<BR>1° mede op grond van de   kindstudie, de juridische en sociaal-psychologische adopteerbaarheid van het   kind nagaan;<BR>2° de adoptanten voorbereiden op de komst van het kind;<BR>3° de   voortgang van de individuele adoptiedossiers begeleiden;<BR>4° een   adoptiesamenwerking aangaan met de buitenlandse kanalen die goedgekeurd zijn   door het Vlaams Centrum voor Adoptie;<BR>5° de adoptie opvolgen zoals bepaald is   in de voorschriften en de wettelijke bepalingen van de staat van herkomst;<BR>6°   de aankomst van het kind in België melden bij het Vlaams Centrum voor   Adoptie;<BR>7° voorzien in gestructureerde verkenningssessies voor de adoptanten   in de voorbereidingsfase en op vraag van de adoptanten een schriftelijk verslag   van deze sessie overmaken aan het Vlaams Centrum voor Adoptie, dat dit toevoegt   aan het verslag van het maatschappelijk onderzoek dat aan de jeugdrechter wordt   bezorgd;<BR>8° voorstellen voor mogelijke adoptiesamenwerking aanbrengen bij het   Vlaams Centrum voor Adoptie;<BR>9° de adoptiewerking periodiek evalueren en   hierover rapporteren aan het Vlaams Centrum voor Adoptie.<BR><BR>§ 3. De taak   inzake informeren is de kandidaat-adoptanten, gedurende de voorbereidingssessie   en in samenspraak met het Steunpunt Adoptie, informeren over de herkomstlanden   waarmee een lopende adoptiesamenwerking bestaat.<BR><BR>§ 4. De taken inzake de   eerste nazorg zijn :<BR>1° de adoptant en het geadopteerde kind bijstaan na de   komst van de geadopteerde in het gezin en nazorg verlenen gedurende de eerste   fase van hechting en integratie;<BR>2° de adoptant op de hoogte stellen van de   bestaande nazorg voor adopties.<BR><BR>§ 5. De adoptiedienst stelt een   schriftelijke overeenkomst op met elke adoptant waarvoor hij bemiddelt. In die   overeenkomst wordt zo exact mogelijk de procedure, de kostprijs, de duur en de   gewaarborgde dienstverlening omschreven.<BR><BR>§ 6. Van ieder adoptiedossier   moet de adoptiedienst, binnen de vier maanden na de totstandkoming van de   adoptie, een kopie bezorgen aan de Vlaamse adoptieambtenaar.<BR><BR>§ 7. De   Vlaamse Regering kan de taken, bepaald in § 2 tot § 6, nader bepalen.   <BR><BR>
 
 ## Afdeling 3 Erkenning van de adoptiediensten
 
+### ART. 16.
+
+§ 1. De Vlaamse Regering erkent de adoptiediensten op advies van het Vlaams Centrum voor Adoptie volgens de regels bepaald in dit decreet.<br /><br />§ 2. Om erkend te worden, moet de adoptiedienst aan de volgende voorwaarden voldoen :<br />1° optreden als een vereniging zonder winstoogmerk of als een publiekrechtelijke rechtspersoon;<br />2° adoptiebemiddeling en het verstrekken van de eerste nazorg als voornaamste taak hebben;<br />3° beschikken over of een beroep kunnen doen op een interdisciplinair team dat is samengesteld zoals bepaald door de Vlaamse Regering;<br />4° geleid worden door een persoon die beschikt over kwalificaties zoals bepaald door de Vlaamse Regering;<br />5° beschikken over voldoende infrastructuur om de opgelegde verplichtingen uit te voeren en de continuïteit van de dienst te verzekeren;<br />6° de persoonlijke levenssfeer van de adoptant eerbiedigen en, zonder enige vorm van discriminatie, zijn ideologische, godsdienstige en filosofische overtuiging respecteren;<br />7° voorstellen doen tot kanaalonderzoek en deze, na proactieve goedkeuring door het Vlaams Centrum voor Adoptie, binnen een redelijke termijn afronden.<br /><br />§ 3. De erkenning wordt verleend voor een periode van minimaal twee jaar en maximaal vijf jaar en kan voor dezelfde termijnen worden verlengd. De erkende adoptiedienst moet, om erkend te blijven of opnieuw erkend te worden, de volgende verplichtingen naleven :<br />1° elke aanvraag van een adoptant die aan de voorwaarden, vermeld in artikel 14, voldoet, aanvaarden;<br />2° de taken, vermeld in artikel 15 van dit decreet, kwaliteitsvol uitvoeren;<br />3° een jaarverslag opmaken en het in de loop van het eerste trimester dat volgt op het einde van elk boekjaar toesturen aan het Vlaams Centrum voor Adoptie. De inhoud van het jaarverslag wordt door de Vlaamse Regering bepaald;<br />4° regelmatig participeren in het overleg tussen de verschillende actoren in interlandelijke adoptie.<br /><br />§ 4. De Vlaamse Regering stelt de procedure vast voor de aanvraag en de hernieuwing van de erkenning van de adoptiediensten. Tevens voorziet ze in een beroepsprocedure.<br /><br />§ 5. De Vlaamse Regering stelt een programmering van de adoptiediensten op.<br /><br />
+
+### ART. 17.
+
+§ 1. De erkenning van de adoptiediensten kan door de Vlaamse Regering worden ingetrokken of geschorst voor de termijn die ze bepaalt als de bepalingen van dit decreet niet worden nageleefd of als een ernstig vermoeden bestaat dat de adoptiebemiddeling niet gebeurt in het belang van het kind. Bij intrekking of schorsing van de erkenning of wanneer een adoptiedienst zijn activiteit stopzet, treft het Vlaams Centrum voor Adoptie maatregelen in verband met afwerking en overdracht van dossiers.<br /><br />§ 2. De Vlaamse Regering bepaalt de procedure inzake intrekking en schorsing van de erkenning.<br /><br />
+
 ## Afdeling 4 Kosten van adoptiebemiddeling en subsidiëring van de adoptiediensten
+
+### ART. 18.
+
+§ 1. De adoptant die voor adoptiebemiddeling een beroep doet op een erkende adoptiedienst, betaalt hiervoor een vergoeding aan de adoptiedienst.<br /><br />§ 2. De Vlaamse Regering bepaalt de verdere regels en voorwaarden voor de aanrekening van de bijdragen in de kosten van een adoptie.<br /><br />
+
+### ART. 19.
+
+De erkende adoptiediensten ontvangen de volgende subsidies :<br />1° een jaarlijkse subsidie voor personeels- en werkingskosten;<br />2° een jaarlijkse subsidie voor de dossierkosten.<br /><br />De Vlaamse Regering bepaalt de nadere regelen voor de subsidiëring van de adoptiedienst.<br /><br />
 
 ## HOOFDSTUK 5 Het Vlaams Centrum voor Adoptie en de Vlaamse adoptieambtenaar
 
@@ -82,9 +118,25 @@ De erkende diensten voor maatschappelijk onderzoek inzake interlandelijke adopti
 
 ## HOOFDSTUK 6 Nazorg
 
+### ART. 22.
+
+§ 1. De Vlaamse Regering kan, na advies van het Vlaams Centrum voor Adoptie, een vereniging met als leden adoptanten of geadopteerden of een combinatie van deze personen, als trefgroep erkennen. Om als trefgroep te worden erkend, moet zij voldoen aan de volgende voorwaarden :<br />1° de vorm aannemen van een vereniging zonder winstoogmerk;<br />2° in haar beheersorgaan respectievelijk adoptanten of geadopteerden de meerderheid laten uitmaken;<br />3° als doelstelling hebben respectievelijk adoptanten of geadopteerden te ondersteunen en hun belangen te onderkennen en te behartigen.<br /><br />
+
+### ART. 23.
+
+§ 1. De Vlaamse Regering stelt de procedure vast voor de aanvraag en de verlenging van de erkenning van de trefgroepen. Tevens voorziet zij in een beroepsprocedure. De Vlaamse Regering kan bijkomende erkenningsvoorwaarden opleggen.<br /><br />§ 2. De erkenning kan door de Vlaamse Regering worden ingetrokken of geschorst voor de termijn die zij bepaalt indien de bepalingen van dit decreet niet worden nageleefd. Bij de stopzetting van de activiteiten wordt de erkenning ambtshalve geschrapt. De Vlaamse Regering bepaalt de procedure inzake intrekking en schorsing van de erkenning.<br /><br />
+
 ## HOOFDSTUK 7 De zelfstandige adoptie
 
+### ART. 24.
+
+§ 1. Na het vonnis waaruit blijkt dat hij bekwaam en geschikt is om een interlandelijke adoptie aan te gaan, meldt de zelfstandige adoptant zich aan bij het Vlaams Centrum voor Adoptie. Hierbij doet hij, met het oog op de goedkeuring ervan, aangifte van het buitenlands kanaal dat bij de adoptie bemiddelt.<br /><br />§ 2. De adoptant draagt de verantwoordelijkheid voor het goede verloop van de procedure. Binnen vier maanden na de adoptie bezorgt de adoptant een kopie van het adoptiedossier met de gegevens over de afkomst van het kind, namelijk de gegevens over de identiteit van de ouders en de gegevens over het medische verleden van het kind en zijn familie, aan de Vlaamse adoptieambtenaar.<br /><br />§ 3. De kosten van de vertaling en de verzending van het dossier vallen ten laste van de adoptant.<br /><br />§ 4. De Vlaamse Regering kan nadere regels vaststellen inzake de zelfstandige adoptie, met inbegrip van het bepalen van de bijdrage in de kosten van het Vlaams Centrum voor Adoptie.<br /><br />
+
 ## HOOFDSTUK 8 Inzagerecht
+
+### ART. 25.
+
+§ 1. Dit artikel is van toepassing op de dossiergegevens die geen persoonsgegevens betreffende gezondheid uitmaken.<br /><br />§ 2. De geadopteerde kan van elke bij dit decreet erkende trefgroep informatie, vraagverheldering en toeleiding inzake inzagerecht verkrijgen.<br /><br />§ 3. Vanaf de leeftijd van twaalf jaar heeft de geadopteerde recht op inzage van zijn adoptiedossier. Over het verzoek tot inzage van een geadopteerde die de leeftijd van twaalf jaar nog niet heeft bereikt, wordt door de Vlaamse adoptieambtenaar beslist, rekening houdend met de maturiteit van de verzoeker. Elke verzoeker kan zich bij inzage laten bijstaan door een vertrouwenspersoon.<br /><br />§ 4. De minderjarige heeft recht op toegang tot de gegevens die hem betreffen.<br /><br />De minderjarige heeft recht op toelichting bij de gegevens waartoe hij toegang heeft. Als bepaalde gegevens ook een derde betreffen en volledige inzage in de gegevens door de minderjarige afbreuk zou doen aan het recht van de derde op bescherming van zijn persoonlijke levenssfeer, wordt de toegang tot deze gegevens verstrekt via een gesprek, gedeeltelijke inzage of rapportage.<br /><br />§ 5. Elke inzage moet schriftelijk aan de Vlaamse adoptieambtenaar worden gevraagd. Binnen één maand na ontvangst van de aanvraag verleent de Vlaamse adoptieambtenaar inzage van het dossier of geeft hij aan de verzoeker kennis van zijn gemotiveerde weigering. Een kind kan zijn adoptiedossier alleen inzien onder begeleiding.<br /><br />§ 6. Elke geadopteerde kan de Vlaamse adoptieambtenaar verzoeken om verdere informatie over zichzelf op te vragen.<br /><br />§ 7. Er kan beroep aangetekend worden tegen de beslissing van de Vlaamse adoptieambtenaar zoals bepaald in het decreet van 1 juni 2001, gewijzigd bij het decreet van 17 juni 2011, houdende toekenning van een klachtrecht ten aanzien van bestuursinstellingen.<br /><br />
 
 ## HOOFDSTUK 9 Het toezicht
 
@@ -94,7 +146,15 @@ De erkende diensten voor maatschappelijk onderzoek inzake interlandelijke adopti
 
 ## HOOFDSTUK 10 Strafbepalingen
 
+### ART. 27.
+
+§ 1. Elke persoon die bij adoptie bemiddelt in de zin van dit decreet, zonder in het bezit te zijn van de vereiste erkenning, wordt gestraft met een gevangenisstraf van een tot vijf jaar en met een geldboete van 12,50 euro tot 620 euro.<br /><br />§ 2. Elke persoon die enig ongeoorloofd materieel voordeel haalt uit de tussenkomst in een adoptie of die met kennis van zaken een persoon heeft geholpen of bijgestaan om de overtreding te plegen, wordt gestraft met een gevangenisstraf van een maand tot een jaar en met een geldboete van 2,5 euro tot 25 euro of met een van beide straffen.<br /><br />§ 3. De adoptant die in het kader van een zelfstandige adoptie niet binnen vier maanden na de totstandkoming van de adoptie een kopie van de gegevens over de afkomst van het kind, namelijk gegevens over de identiteit van de ouders en gegevens over het medische verleden van het kind en zijn familie, aan de Vlaamse adoptieambtenaar bezorgt, wordt gestraft met een gevangenisstraf van een maand of met een geldboete van 2,5 euro tot 25 euro.<br /><br />§ 4. Iedereen die in het bezit is van een adoptiedossier van een derde en dit dossier niet aan het Vlaams Centrum voor Adoptie heeft bezorgd na de inwerkingtreding van dit decreet, wordt gestraft met een gevangenisstraf van één maand of met een geldboete van 2,5 tot 25 euro.<br /><br />
+
 ## HOOFDSTUK 11 Slotbepalingen
+
+### ART. 28.
+
+Het decreet van 15 juli 2005 tot regeling van de interlandelijke adoptie van kinderen wordt opgeheven.<br /><br />
 
 ### ART. 29.
 
