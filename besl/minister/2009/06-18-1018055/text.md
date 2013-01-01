@@ -130,14 +130,6 @@ Dit besluit heeft uitwerking met ingang van 1 januari 2009.<br /><br />
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
-			<p>jaarlijks forfait per atleet voor begeleiding en bespreking</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
-			<p>150 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>eenmalig individueel medisch advies met bespreking</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
@@ -155,5 +147,6 @@ Dit besluit heeft uitwerking met ingang van 1 januari 2009.<br /><br />
 		</tr>
 	</tbody>
 </table>
+
 
 <p>&nbsp;</p>
