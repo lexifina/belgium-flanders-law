@@ -6,28 +6,28 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 
 ### ART. 1.
 
-In dit besluit wordt onder het besluit armoedebestrijding verstaan : het besluit van de Vlaamse Regering van 15 mei 2009 betreffende het decreet van 18 juli 2008 tot wijziging van het decreet van 21 maart 2003 betreffende de armoedebestrijding.<br /><br />
+...
 
 ### ART. 2.
 
-Dit besluit bepaalt de minimumvereisten waaraan de werking van een vereniging, vermeld in artikel 23, § 1, eerste lid, 2°, van het besluit armoedebestrijding, moet voldoen opdat de vereniging erkend kan worden als vereniging waar armen het woord nemen.<br /><br />
+...
 
 ### ART. 3.
 
-De vereniging betrekt op regelmatige basis minstens vijftien armen in haar werking, conform artikel 23, § 1, eerste lid, 2°, van het besluit armoedebestrijding. <br /><br />
+...
 
 ### ART. 4.
 
-Conform artikel 23, § 1, eerste lid, 2°, d), van het besluit armoedebestrijding werkt de vereniging aan de maatschappelijke participatie van mensen in armoede. Hiervoor organiseert de vereniging jaarlijks de volgende activiteiten : <br />1° minstens drie infosessies of vormingen over maatschappelijke thema's voor armen, zodat armen beter hun rechten leren kennen;<br />2° minstens drie infosessies of vormingen voor externen om de mentaliteit en het denken over armoede te veranderen.<br /><br />
+...
 
 ### ART. 5.
 
-Conform artikel 23, § 1, eerste lid, 2°, e) en f), van het besluit armoedebestrijding werkt de vereniging rond maatschappelijke thema's en werkt ze samen met maatschappelijke partners. De vereniging stelt daarvoor jaarlijks zelf minstens één beleidsdossier op, met toepassing van de zes criteria, vermeld in artikel 8, eerste lid, 4°, van het decreet van 21 maart 2003 betreffende de armoedebestrijding (bijvoorbeeld via de dialoogmethode), en ze licht dit uitgebreid toe in het werkingsverslag.<br /><br />
+...
 
 ### ART. 6.
 
-Als er al andere verenigingen waar armen het woord nemen erkend zijn binnen dezelfde zorgregio, moet de vereniging bij de erkenningsaanvraag aangeven hoe ze zal samenwerken met die erkende verenigingen binnen de zorgregio, conform artikel 23, § 1, eerste lid, 3°, van het besluit armoedebestrijding. <br /><br />
+...
 
 ### ART. 7.
 
-Dit besluit treedt in werking op de dag van de bekendmaking van het besluit van de Vlaamse Regering van 15 mei 2009 betreffende het decreet van 18 juli 2008 tot wijziging van het decreet van 21 maart 2003 betreffende de armoedebestrijding.<br /><br />
+...
