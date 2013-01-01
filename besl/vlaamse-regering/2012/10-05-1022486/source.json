@@ -2,16 +2,16 @@
   "codex_id": 1022486,
   "title": "Besluit van de Vlaamse Regering van 2012-10-05 tot wijziging van verschillende besluiten inzake het toeristische logies en het statuut van de reisbureaus",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022486/VolledigDocument?datum=2012-11-23",
-  "source_sha256": "c172ffb8c7414944c7b1e2ae9cb3c05c476426d18267fdfa68917a76e5790eb0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022486/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "eb3953069f7d42d9858a9884d3e594fbae1364f05d664f264043a27930cd6f2e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022486&param=informatie",
-  "as_of": "2012-11-23",
+  "as_of": "2013-01-01",
   "made": "2012-10-05",
   "gazette": "2012-11-23",
   "numac": 2012036190,
   "document_start": "2012-11-23",
   "document_end": null,
-  "in_force": "2012-11-23",
-  "article_versions": 31,
-  "record_form": "consolidated version as in force on 2012-11-23; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-01-01",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
