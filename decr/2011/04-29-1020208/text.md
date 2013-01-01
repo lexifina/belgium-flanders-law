@@ -246,6 +246,10 @@ Artikel 48 van hetzelfde decreet, vervangen bij het decreet van 24 maart 2006, w
 
 In artikel 49 van hetzelfde decreet, vervangen bij het decreet van 24 maart 2006, wordt paragraaf 3 opgeheven.
 
+### ART. 60.
+
+In artikel 56, § 3, van hetzelfde decreet, vervangen bij het decreet van 24 maart 2006, wordt de zin « De bepalingen van artikel 47 zijn van overeenkomstige toepassing op de huurdiensten. » opgeheven.
+
 ### ART. 61.
 
 In artikel 57 van hetzelfde decreet, gewijzigd bij het decreet van 24 maart 2006, wordt paragraaf 2 opgeheven.
