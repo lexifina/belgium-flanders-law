@@ -16,250 +16,137 @@ Dit besluit heeft uitwerking met ingang van 1 januari 1993.
 
 ### Tekst
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<p>Bijlage 1 bij het ministerieel besluit tot uitvoering, voor wat de gehandicaptensector betreft, van artikel 12 van het besluit van de Vlaamse Regering van 15 december 1993 houdende de subsidiëring van de personeelskosten in bepaalde voorzieningen van de welzijnssector<br>
+&nbsp;</p>
+
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:299.35pt">
-			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:79.15pt">
-			<p>Aanvangsleeftijd</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:85.9pt">
-			<p>Weddeschaal met ingang van 1/11/93</p>
-			</td>
+			<td>&nbsp;</td>
+			<td>Weddeschaal met ingang van 1/11/93</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:299.35pt">
-			<p>Logistiek personeel klasse 4</p>
-
-			<p>Logistiek personeel klasse 3</p>
-
-			<p>Logistieke personeel klasse <!--?xml:namespace prefix         = st1 ns = "urn:schemas-microsoft-com:office:smarttags"         /-->3 in dienst voor 1/11/93</p>
-
-			<p>Logistiek personeel klasse 2</p>
-
-			<p>Logistiek personeel klasse 2 in dienst voor 1/11/93</p>
-
-			<p>Logistiek personeel klasse 1</p>
-
-			<p>Administratief personeel klasse 3</p>
-
-			<p>Administratief personeel klasse 2</p>
-
-			<p>Administratief personeel klasse 1</p>
-
-			<p>Begeleidend personeel klasse 3</p>
-
-			<p>Begeleidend personeel klasse 2B ADL-assistent</p>
-
-			<p>Begeleidend personeel klasse 2A</p>
-
-			<p>Begeleidend personeel klasse 1</p>
-
-			<p>Hoofdopvoeder</p>
-
-			<p>Opvoeder groepschef</p>
-
-			<p>Sociaal, paramedisch en therapeutisch personeel</p>
-
-			<p>Gebrevetteerd verpleger</p>
-
-			<p>Licentiaten</p>
-
-			<p>Geneesheer-specialist</p>
-
-			<p>Geneesheer-omnipracticus</p>
-
-			<p>Verantwoordelijke diensten begeleid wonen en zelfstandig wonen</p>
-
-			<p>Directeurs:</p>
-
-			<p>Capaciteit 6-12</p>
-
-			<p>Capaciteit 13-29</p>
-
-			<p>Dienst plaatsing in gezinnen</p>
-
-			<p>Capaciteit 30-59</p>
-
-			<p>Capaciteit 60-89</p>
-
-			<p>Capaciteit vanaf 90</p>
-
-			<p>Onderdirecteurs</p>
-
-			<p>Personeel in dienst voor 1/12/91</p>
-
-			<p>Logistiek personeel:</p>
-
-			<p>Onderhoud cat. II</p>
-
-			<p>Onderhoud cat. III</p>
-
-			<p>Onderhoud cat. IV</p>
-
-			<p>Onderhoud cat. V</p>
-
-			<p>Administratief personeel:</p>
-
-			<p>Boekhouder klasse 2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:79.15pt">
-			<p>18</p>
-
-			<p>18</p>
-
-			<p>18</p>
-
-			<p>20</p>
-
-			<p>20</p>
-
-			<p>21</p>
-
-			<p>18</p>
-
-			<p>20</p>
-
-			<p>21</p>
-
-			<p>18</p>
-
-			<p>20</p>
-
-			<p>20</p>
-
-			<p>21</p>
-
-			<p>21</p>
-
-			<p>21</p>
-
-			<p>21</p>
-
-			<p>21</p>
-
-			<p>22</p>
-
-			<p>24</p>
-
-			<p>24</p>
-
-			<p>21</p>
-
-			<p>&nbsp;</p>
-
-			<p>22</p>
-
-			<p>22</p>
-
-			<p>22</p>
-
-			<p>22</p>
-
-			<p>22</p>
-
-			<p>22</p>
-
-			<p>22</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>18</p>
-
-			<p>18</p>
-
-			<p>18</p>
-
-			<p>20</p>
-
-			<p>&nbsp;</p>
-
-			<p>20</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:85.9pt">
-			<p>L4</p>
-
-			<p>L3</p>
-
-			<p>L3a</p>
-
-			<p>L2</p>
-
-			<p>A2</p>
-
-			<p>A1</p>
-
-			<p>A3</p>
-
-			<p>A2</p>
-
-			<p>A1</p>
-
-			<p>B3</p>
-
-			<p>B2b</p>
-
-			<p>B2a</p>
-
-			<p>B1c</p>
-
-			<p>B1b</p>
-
-			<p>B1a</p>
-
-			<p>MV1</p>
-
-			<p>MV2</p>
-
-			<p>L1</p>
-
-			<p>GS</p>
-
-			<p>G1</p>
-
-			<p>B1a</p>
-
-			<p>&nbsp;</p>
-
-			<p>K5</p>
-
-			<p>K5</p>
-
-			<p>K5</p>
-
-			<p>K3</p>
-
-			<p>K2</p>
-
-			<p>K1</p>
-
-			<p>K5</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>L4 ond. II</p>
-
-			<p>L4 ond. III</p>
-
-			<p>L3 ond. IV</p>
-
-			<p>L2 ond. V</p>
-
-			<p>&nbsp;</p>
-
-			<p>A2 boekh. Kl. II</p>
-			</td>
+			<td>Logistiek personeel klasse 4</td>
+			<td>L4</td>
+		</tr>
+		<tr>
+			<td>Logistiek personeel klasse 3</td>
+			<td>L3</td>
+		</tr>
+		<tr>
+			<td>Logistiek personeel klasse 3 in dienst vóór 1/11/93</td>
+			<td>L3a</td>
+		</tr>
+		<tr>
+			<td>Logistiek personeel klasse 2</td>
+			<td>L2</td>
+		</tr>
+		<tr>
+			<td>Logistiek personeel klasse 2 in dienst vóór 1/11/93 en administratief personeel klasse 2</td>
+			<td>A2</td>
+		</tr>
+		<tr>
+			<td>Logistiek en administratief personeel klasse 1</td>
+			<td>A1</td>
+		</tr>
+		<tr>
+			<td>Administratief personeel klasse</td>
+			<td>A3</td>
+		</tr>
+		<tr>
+			<td>Begeleidend en verzorgend personeel klasse 3</td>
+			<td>B3</td>
+		</tr>
+		<tr>
+			<td>Begeleidend en verzorgend personeel kasse 2B en ADL-assistent</td>
+			<td>B2b</td>
+		</tr>
+		<tr>
+			<td>Begeleidend en verzorgend personeel klasse 2A</td>
+			<td>B2a</td>
+		</tr>
+		<tr>
+			<td>Opvoedend personeel klasse 1</td>
+			<td>B1c</td>
+		</tr>
+		<tr>
+			<td>Hoofdopvoeder en diensthoofd</td>
+			<td>B1b</td>
+		</tr>
+		<tr>
+			<td>Opvoeder groepschef, tussenkader, verantwoordelijke en coördinator</td>
+			<td>B1a</td>
+		</tr>
+		<tr>
+			<td>Sociaal, paramedisch en therapeutisch personeel</td>
+			<td>MV1</td>
+		</tr>
+		<tr>
+			<td>Verzorgend personeel</td>
+			<td>MV2</td>
+		</tr>
+		<tr>
+			<td>Licentiaten/masters + tandarts</td>
+			<td>L1</td>
+		</tr>
+		<tr>
+			<td>Geneesheer-specialist</td>
+			<td>GS</td>
+		</tr>
+		<tr>
+			<td>Geneesheer-omnipracticus</td>
+			<td>G1</td>
+		</tr>
+		<tr>
+			<td>Directeur capaciteit 6-29, onderdirecteur, verantwoordelijke en directiemedewerker</td>
+			<td>K5</td>
+		</tr>
+		<tr>
+			<td>Directeur capaciteit 30-59</td>
+			<td>K3</td>
+		</tr>
+		<tr>
+			<td>Directeur capaciteit 60-89</td>
+			<td>K2</td>
+		</tr>
+		<tr>
+			<td>Directeur capaciteit vanaf 90</td>
+			<td>K1</td>
+		</tr>
+		<tr>
+			<td>Personeel in dienst vóór 1/12/91:</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Logistiek personeel:</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Onderhoud cat. II</td>
+			<td>L4 ond. II</td>
+		</tr>
+		<tr>
+			<td>Onderhoud cat. III</td>
+			<td>L4 ond. III</td>
+		</tr>
+		<tr>
+			<td>Onderhoud cat. IV</td>
+			<td>L3 ond. IV</td>
+		</tr>
+		<tr>
+			<td>Onderhoud cat. V</td>
+			<td>L2 ond. V</td>
+		</tr>
+		<tr>
+			<td>Administratief personeel:</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Boekhouder klasse 2</td>
+			<td>A2 boekh. Kl. II</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
