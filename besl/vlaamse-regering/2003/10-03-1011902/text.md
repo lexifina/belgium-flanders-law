@@ -16,15 +16,15 @@ De door de burgemeester aangestelde technische ambtenaren, alsmede de ambtenaren
 
 ### ART. 3.
 
-§ 1. De kwaliteits- en veiligheidsnormen, bedoeld in artikel 4, 6, 7 en 8 van het Kamerdecreet, worden beoordeeld aan de hand van het technisch verslag, gevoegd als bijlage I bij dit besluit.<br /><br />§ 2. De procedure om de kwaliteit en veiligheid van de (studenten)kamer of de kamerwoning, het studenten- of studentengemeenschapshuis te beoordelen, verloopt overeenkomstig de bepalingen van hoofdstuk III of IV van titel III van de Vlaamse Wooncode.<br /><br />§ 3. Als een controleverslag van de brandweer uitwijst dat er ernstige brandveiligheidsproblemen zijn, wordt dat opgenomen en meegerekend in het technisch verslag.<br /><br />Als er nog geen controleverslag van de brandweer is opgemaakt, maar er zijn vermoedens dat de kamerwoning ernstige brandveiligheidsproblemen vertoont of dat de kamerwoning wegens brandveiligheidsproblemen ontruimd moet worden, vermeldt de gewestelijke ambtenaar dat in zijn advies aan de burgemeester. Die kan hiermee rekening houden bij de opmaak van zijn besluit.<br />
+§ 1. De kwaliteits- en veiligheidsnormen, bedoeld in artikel 4, 6, 7 en 8 van het Kamerdecreet, worden beoordeeld aan de hand van het technisch verslag, gevoegd als bijlage I bij dit besluit.<br /><br />De kwaliteits- en veiligheidsnormen, vermeld in artikel 7quater, 7quinquies en 7sexies van het Kamerdecreet, worden beoordeeld aan de hand van het technisch verslag, opgenomen in bijlage V, die bij dit besluit is gevoegd. <br /><br />§ 2. De procedure om de kwaliteit en veiligheid van de (studenten)kamer of de kamerwoning, het studenten- of studentengemeenschapshuis te beoordelen, verloopt overeenkomstig de bepalingen van hoofdstuk III of IV van titel III van de Vlaamse Wooncode.<br /><br />§ 3. Als een controleverslag van de brandweer uitwijst dat er ernstige brandveiligheidsproblemen zijn, wordt dat opgenomen en meegerekend in het technisch verslag.<br /><br />Als er nog geen controleverslag van de brandweer is opgemaakt, maar er zijn vermoedens dat de kamerwoning ernstige brandveiligheidsproblemen vertoont of dat de kamerwoning wegens brandveiligheidsproblemen ontruimd moet worden, vermeldt de gewestelijke ambtenaar dat in zijn advies aan de burgemeester. Die kan hiermee rekening houden bij de opmaak van zijn besluit.<br /><br />Als de kamer, de studentenkamer of de gemeenschappelijke kookruimte niet uitgerust is met een rookmelder als vermeld in het decreet van 1 juni 2012 houdende de beveiliging van woningen door optische rookmelders, wordt dat opgenomen in een opmerking bij deel C of deel D, naargelang het geval, van het technisch verslag.
 
 ### ART. 4.
 
-§ 1. De gewestelijke ambtenaar stelt in zijn advies, zoals bedoeld in artikel 15, § 1, eerste lid, van de Vlaamse Wooncode, aan de burgemeester voor om de (studenten)kamer ongeschikt te verklaren als:<br />1° de (studenten)kamer volgens deel E van het technisch verslag een eindscore van minstens 15 punten behaalt;<br />2° de kamer of studentenkamer volgens deel F van het technisch verslag niet aangepast is aan de vereisten inzake woonbezetting voor één persoon;<br />3° de kamer minder dan 12 m2 bedraagt, met behoud van de toepassing van artikel 8, tweede lid van het kamerdecreet <br /><br />§ 2. Het advies van de gewestelijke ambtenaar wordt aangevuld met een omstandig verslag als de (studenten) kamer, de kamerwoning, het studenten- of studentengemeenschapshuis een ernstig veiligheids- en/ of gezondheidsrisico inhoudt.
+§ 1. De gewestelijke ambtenaar stelt in zijn advies, zoals bedoeld in artikel 15, § 1, eerste lid, van de Vlaamse Wooncode, aan de burgemeester voor om de (studenten)kamer ongeschikt te verklaren als:<br />1° de (studenten)kamer volgens deel E van het technisch verslag een eindscore van minstens 15 punten behaalt;<br />2° ...<br />3° ...<br /><br />§ 2. Het advies van de gewestelijke ambtenaar wordt aangevuld met een omstandig verslag als de (studenten) kamer, de kamerwoning, het studenten- of studentengemeenschapshuis een ernstig veiligheids- en/ of gezondheidsrisico inhoudt.
 
 ### ART. 5.
 
-De kamerwoning, het studenten- of studentengemeenschapshuis wordt niet-conform bevonden als volgens deel B van het technisch verslag een eindscore van 15 punten of meer wordt behaald, waarbij een gebrek van categorie I geldt voor 1 punt, van categorie II voor 3 punten, van categorie III voor 9 punten en van categorie IV voor 15 punten.<br /><br />De (studenten)kamer wordt niet conform bevonden:<br />1° als ze volgens deel E van het technisch verslag een eindscore van minstens 15 punten behaalt;<br />2° als ze volgens deel F niet aangepast is aan de vereisten inzake woonbezetting;<br />3° als ze minder dan 12 m2 bedraagt, met behoud van de toepassing van artikel 8, § 1, tweede lid, van het kamerdecreet. <br />
+De kamerwoning, het studenten- of studentengemeenschapshuis wordt niet-conform bevonden als volgens deel B van het technisch verslag een eindscore van 15 punten of meer wordt behaald, waarbij een gebrek van categorie I geldt voor 1 punt, van categorie II voor 3 punten, van categorie III voor 9 punten en van categorie IV voor 15 punten.<br /><br />De kamerwoning, het studentenhuis of het studentengemeenschapshuis wordt niet-conform bevonden als de kamerwoning, het studentenhuis of het studentengemeenschapshuis niet minstens op elke bouwlaag en in elke gemeenschappelijke kookruimte uitgerust is met een rookmelder als vermeld in het decreet van 1 juni 2012 houdende de beveiliging van woningen door optische rookmelders.<br /><br />De kamer of de studentenkamer wordt niet conform bevonden : <br />1° als ze volgens deel E van het technisch verslag een eindscore van minstens 15 punten behaalt;<br />2° als ze niet uitgerust is met een rookmelder als vermeld in het decreet van 1 juni 2012 houdende de beveiliging van woningen door optische rookmelders.<br /><br />De bepalingen van het tweede en het derde lid, 2°, gelden niet zolang de termijn, vermeld in artikel 4, derde lid, van het decreet van 1 juni 2012 houdende de beveiliging van woningen door optische rookmelders, niet verstreken is.
 
 ## HOOFDSTUK IV AANVULLENDE GEMEENTELIJKE NORMEN
 
@@ -102,7 +102,7 @@ De Vlaamse minister, bevoegd voor de Huisvesting, is belast met de uitvoering va
 
 ### BIJLAGE I.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/07/14_2.pdf#page=36" title=" bijlage 1" target="_blank" class="pdf">bijlage 1</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2011/12/05_1.pdf#page=64" title=" formulier" target="_blank" class="pdf">formulier</a>
 
 ### BIJLAGE II.
 
@@ -115,3 +115,7 @@ De Vlaamse minister, bevoegd voor de Huisvesting, is belast met de uitvoering va
 ### BIJLAGE IV.
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2011/06/17_1.pdf#page=35" title=" bijlage IV" target="_blank" class="pdf">bijlage IV</a>
+
+### BIJLAGE V
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2011/12/05_1.pdf#page=74" title=" formulier" target="_blank" class="pdf">formulier</a>
