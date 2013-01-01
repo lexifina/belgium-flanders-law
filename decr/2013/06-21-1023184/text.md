@@ -46,9 +46,17 @@ Aan artikel 8 van het decreet van 7 mei 2004 tot oprichting van het intern   ver
 
 In artikel 7, § 5, van het decreet van 20 januari 2012 houdende regeling   van de interlandelijke adoptie van kinderen worden tussen het woord "kan" en het   woord "nadere" de woorden "bijkomende voorwaarden en"   ingevoegd.<BR>
 
+### ART. 41.
+
+&nbsp;In artikel 15 van hetzelfde decreet worden de volgende wijzigingen   aangebracht : <BR>1° in paragraaf 2, 7°, wordt het woord "bevolen" vervangen   door het woord "bezorgd";<BR>2° in paragraaf 3 wordt het woord   "voorbereidingscentrum" vervangen door de woorden "Steunpunt   Adoptie".<BR>
+
 ### ART. 42.
 
 In artikel 20 van hetzelfde decreet worden de volgende wijzigingen   aangebracht : <BR>1° in paragraaf 3 worden de woorden "het Vlaams Centrum voor   Adoptie" vervangen door de woorden "Kind en Gezin";<BR>2° paragraaf 6 wordt   opgeheven.<BR>
+
+### ART. 43.
+
+Aan artikel 25 van hetzelfde decreet wordt een paragraaf 8 toegevoegd, die   luidt als volgt : <BR>" § 8. De Vlaamse Regering bepaalt de nadere voorwaarden   voor de uitoefening van het inzagerecht.".<BR>
 
 ## HOOFDSTUK 12 Zorg- en bijstandsverlening
 
