@@ -8,6 +8,10 @@ De Vlaamse Regering,<br /><br />Gelet op het Woonzorgdecreet van 13 maart 2009, 
 
 Aan artikel 18, derde lid, van het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers worden de volgende zinnen toegevoegd :<br />« Als de aanvraag tot wijziging van de erkenning van een dienst voor gezinszorg en aanvullende thuiszorg of een dienst voor logistieke hulp gevolgen heeft voor de subsidiëring van die dienst, wordt die wijziging doorgevoerd met ingang van 1 januari van het jaar dat volgt op het jaar waarin de ontvankelijke aanvraag is ingediend. Die aanvraag moet voor 1 augustus ingediend worden. <br />
 
+### ART. 2.
+
+In artikel 3 van het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, gewijzigd bij het besluit van de Vlaamse Regering van 25 februari 2011, worden de volgende wijzigingen aangebracht :<br />1° aan het derde lid wordt de zinsnede «, en aan de specifieke erkenningsvoorwaarden in verband met Vesta, vermeld in artikel 4, D, van bijlage I » toegevoegd;<br />2° aan het vierde lid wordt de zinsnede «, en aan de specifieke erkenningsvoorwaarden in verband met Vesta, vermeld in artikel 3, D, van bijlage II » toegevoegd.<br /><br />
+
 ### ART. 3.
 
 In artikel 1 van bijlage I bij hetzelfde besluit wordt punt 19° vervangen door wat volgt:<br />« 19° Vesta: het systeem van elektronische gegevensuitwisseling waarvan elke dienst voor gezinszorg en aanvullende thuiszorg moet gebruikmaken om de gegevens over zijn personeel en zijn gebruikers, die nodig zijn om de subsidies te berekenen en om operationele en beleidsinformatie te genereren, aan het agentschap te bezorgen; <br />
