@@ -590,13 +590,13 @@ Voor het begrotingsjaar 2009, dat de kredieten omvat voor het schooljaar 2008-20
 
 ### ART. 20/1.
 
-In afwijking van artikel 20 is de A2-coëfficiënt voor het jaar 2010 en voor het jaar 2012 gelijk aan 1.
+In afwijking van artikel 20 is de A2-coëfficiënt voor het jaar 2010 en   voor het jaar 2012 en voor het jaar 2013 gelijk aan 1.
 
 ## HOOFDSTUK V. Evaluatie
 
 ### ART. 21.
 
-In 2012 wordt het nieuwe financieringssysteem door de Vlaamse Regering geëvalueerd. Deze evaluatie zal de doelmatige aanwending van de toegekende werkingsmiddelen beoordelen. Uitgangspunten van deze evaluatie zijn :<br />- de gelijke behandeling van elk kind met dezelfde noden;<br />- gelijke middelen voor elke school in eenzelfde situatie;<br />- het voeren van een gelijkekansenbeleid;<br />- transparantie, voorspelbaarheid en stabiliteit van het mechanisme;<br />- evolutie van de schoolloopbanen, met bijzondere aandacht voor gelijke kansen en talentontwikkeling.
+In 2013 en 2014&nbsp;wordt het nieuwe financieringssysteem door de Vlaamse   Regering geëvalueerd. Deze evaluatie zal de doelmatige aanwending van de   toegekende werkingsmiddelen beoordelen. Uitgangspunten van deze evaluatie zijn   :<BR>- de gelijke behandeling van elk kind met dezelfde noden;<BR>- gelijke   middelen voor elke school in eenzelfde situatie;<BR>- het voeren van een   gelijkekansenbeleid;<BR>- transparantie, voorspelbaarheid en stabiliteit van het   mechanisme;<BR>- evolutie van de schoolloopbanen, met bijzondere aandacht voor   gelijke kansen en talentontwikkeling.
 
 ## HOOFDSTUK VI. Slotbepalingen
 
