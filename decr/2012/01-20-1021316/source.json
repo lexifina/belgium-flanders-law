@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021316,
+  "title": "Decreet van 2012-01-20 houdende een vernieuwd jeugd- en kinderrechtenbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021316/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "a32f387cf4783b25aa0a81ad8b1071b16395dc558ef0aa2eef5bb09f672c84f1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021316&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2012-01-20",
+  "gazette": "2012-03-07",
+  "numac": 2012035198,
+  "document_start": "2013-01-01",
+  "document_end": "2023-12-31",
+  "in_force": "2013-01-01",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
