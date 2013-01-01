@@ -90,6 +90,10 @@ In hetzelfde decreet wordt een artikel 14bis ingevoegd, dat luidt als   volgt : 
 
 ## HOOFDSTUK 5 Opheffing van het decreet van 17 juli 2000 houdende de oprichting van een Instituut Samenleving en Technologie
 
+### ART. 21.
+
+Het decreet van 17 juli 2000 houdende de oprichting van een Instituut   Samenleving en Technologie, gewijzigd bij de decreten van 28 februari 2003 en 5   december 2008, wordt opgeheven.<BR>
+
 ### ART. 22.
 
 De archiefdocumenten van het Instituut Samenleving en Technologie worden   in goede, geordende en toegankelijke staat overgedragen aan het Vlaams   Parlement.<BR>
