@@ -40,6 +40,10 @@ De financiële basisondersteuning bedraagt 543,51 euro per opvangplaats op jaarb
 
 De financiële basisondersteuning wordt volledig toegekend als het zelfstandig kinderdagverblijf en de zelfstandige buitenschoolse opvangvoorziening gedurende minimaal 220 dagen per kalenderjaar, 5 uur per dag, kinderen opvangen. De ondersteuning wordt verhoudingsgewijs verlaagd als ze minder dan 220 dagen per kalenderjaar, 5 uur per dag, kinderen opvangen.<br /><br />
 
+### ART. 7/1.
+
+Zelfstandige voorzieningen met een attest van toezicht op 31 december 2012   van een organisator met minstens één werknemer in het vierde kwartaal van 2012   hebben recht op de volgende aanvullende bedragen per plaats : <BR>1° voor 2012 :   een bedrag van 2,3 euro per plaats in een zelfstandig kinderdagverblijf en 0,7   euro per plaats in een zelfstandige buitenschoolse opvangvoorziening;<BR>2° voor   2013 : een bedrag van 6 euro per plaats in een zelfstandig kinderdagverblijf en   1,7 euro per plaats in een zelfstandige buitenschoolse   opvangvoorziening.
+
 ## Afdeling 2 Voorwaarden
 
 ### ART. 8.
@@ -126,7 +130,7 @@ De bepalingen van artikel 9, tweede lid, zijn niet van toepassing voor de opvang
 
 ### ART. 26.
 
-De bedragen van de basisondersteuning en de financiële ondersteuning flexibele opvang worden elk jaar op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar, en voor het eerst op 1 januari 2010. In 2011 worden de bedragen, vermeld in dit besluit, op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het kalenderjaar 2008 en 1 november van het kalenderjaar 2010.<br /><br />
+De bedragen van de basisondersteuning en de financiële ondersteuning   flexibele opvang worden elk jaar op 1 januari verhoogd met de procentuele   stijging van het gezondheidsindexcijfer tussen 1 november van het vorige   kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar, en voor   het eerst op 1 januari 2010. In 2011 worden de bedragen, vermeld in dit besluit,   op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer   tussen 1 november van het kalenderjaar 2008 en 1 november van het kalenderjaar   2010.<BR><BR>In afwijking van het eerste lid worden de subsidies, vermeld in   artikel 7/1, niet geïndexeerd.<BR><BR>
 
 ### ART. 27.
 
