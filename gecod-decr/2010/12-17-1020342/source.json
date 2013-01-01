@@ -2,16 +2,16 @@
   "codex_id": 1020342,
   "title": "Gecodificeerd Decreet van 2010-12-17 betreffende het secundair onderwijs [citeeropschrift: \"Codex Secundair Onderwijs\"]",
   "type": "Gecodificeerd Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020342/VolledigDocument?datum=2012-10-01",
-  "source_sha256": "2b4785d604afaaa477cd187922581888d5a9eb8dcec6d9318a3395c47aae3993",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020342/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "472eccd9c9b2de4ec60bfd8e7e6cfae1bbbb6cfe93da405db263567bd925bd02",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020342&param=informatie",
-  "as_of": "2012-10-01",
+  "as_of": "2013-01-01",
   "made": "2010-12-17",
   "gazette": "2011-06-24",
   "numac": 2011035474,
   "document_start": null,
   "document_end": null,
-  "in_force": "2012-10-01",
+  "in_force": "2013-01-01",
   "article_versions": 426,
-  "record_form": "consolidated version as in force on 2012-10-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
