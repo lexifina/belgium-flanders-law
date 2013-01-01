@@ -2,16 +2,16 @@
   "codex_id": 1000388,
   "title": "Decreet van 1991-03-27 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding (citeeropschrift: \"decreet rechtspositie personeelsleden gesubsidieerd onderwijs\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000388/VolledigDocument?datum=2012-09-01",
-  "source_sha256": "3cd2354be47720d10e669e453dd822287fd35d4a439075872325d58b149f1183",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000388/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "c66c711ca2932acc1c62ea825bd193ad559000a8d78c9a07a8dec23b3861536b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000388&param=informatie",
-  "as_of": "2012-09-01",
+  "as_of": "2013-01-01",
   "made": "1991-03-27",
   "gazette": "1991-05-25",
   "numac": 1991035653,
   "document_start": null,
   "document_end": null,
-  "in_force": "2012-09-01",
+  "in_force": "2013-01-01",
   "article_versions": 191,
-  "record_form": "consolidated version as in force on 2012-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
