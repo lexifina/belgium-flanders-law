@@ -234,21 +234,25 @@ De besluiten van de gemeenteraad betreffende de jaarrekeningen en de staten van 
 
 ## HOOFDSTUK V ALGEMEEN ADMINISTRATIEF TOEZICHT [... (geschr. decr. 15 juli 2002, art. 15)]
 
+### ART. 28.
+
+...<BR><BR>
+
 ### ART. 29.
 
-...<br /><br />(opegeheven behoudens wat het toezicht op de gemeentebedrijven betreft)
+...
 
 ### ART. 30.
 
-...<br /><br />(opgeheven behoudens wat het toezicht op de binnengemeentelijke territoriale organen en de gemeentebedrijven betreft)
+...
 
 ### ART. 31.
 
-...<br /><br />(opgeheven behoudens wat het toezicht op de binnengemeentelijke territoriale organen betreft)
+...
 
 ### ART. 32.
 
-...<br /><br />(opgeheven behoudens wat het toezicht op de binnnegemeentelijke territoriale organen betreft)
+...<BR><BR>
 
 ### ART. 33.
 
