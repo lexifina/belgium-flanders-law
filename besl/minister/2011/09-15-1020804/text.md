@@ -6,8 +6,8 @@ De Vlaamse minister van Financiën, Begroting, Werk, Ruimtelijke Ordening en Spo
 
 ### ART. 1.
 
-Volgende centra word tot 31 december 2012 erkend als keuringscentrum inzake medisch verantwoorde sportbeoefening : <br />H.-Hartziekenhuis Roeselare-Menen VZW;<br />AZ Portaels Vilvoorde VZW.
+...
 
 ### ART. 2.
 
-Dit besluit heeft uitwerking met ingang van 1 september 2011.
+...
