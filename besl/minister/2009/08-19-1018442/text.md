@@ -14,15 +14,19 @@ Het referentieperceel, vermeld in artikel 2, 27, van de verordening, wordt uniek
 
 ### ART. 3.
 
-Voor de agro-milieumaatregelen en andere plattelandsmaatregelen, vermeld in punt 1 van bijlage I, geldt de verzamelaanvraag als betalingsaanvraag. Voor de agro-milieumaatregelen en andere plattelandsmaatregelen, vermeld in punt 2 van bijlage I, geldt de verzamelaanvraag als melding voor percelen. Percelen waarop de in bijlage I vermelde agro-milieumaatregelen en andere plattelandsmaatregelen worden aangevraagd, moeten apart worden aangegeven in de verzamelaanvraag.<br /><br />
+Voor de agromilieumaatregelen en andere plattelandsmaatregelen, vermeld in   punt 1 van bijlage I, geldt de verzamelaanvraag als betalingsaanvraag. Voor de   agromilieumaatregelen en andere plattelandsmaatregelen, vermeld in punt 2 van   bijlage I, geldt de verzamelaanvraag als melding voor percelen. Percelen waarop   de in bijlage I vermelde agromilieumaatregelen en andere plattelandsmaatregelen   worden aangevraagd, moeten als apart perceel worden aangegeven in de   verzamelaanvraag.<BR><BR>
+
+### ART. 3/1.
+
+De landbouwer moet alle percelen landbouwgrond van zijn bedrijf aanduiden   in de verzamelaanvraag.<BR><BR>Gronden die door hun aard, gebruik, ligging of   historische achtergrond primair niet als landbouwgrond te beschouwen zijn, mogen   niet aangegeven worden in de verzamelaanvraag, met uitzondering van stallen en   gebouwen, andere gebouwen, poelen met een oppervlakte van meer dan   100m<SUP>2</SUP>, houtkanten en houtwallen met een oppervlakte van meer dan 100   m<SUP>2</SUP>, begraasde niet-landbouwgronden met gebruiksovereenkomst,   niet-begraasde natuurgronden en gronden waarvoor steun wordt aangevraagd in het   kader van verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005   inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor   Plattelandsontwikkeling (ELFPO).<BR><BR>Voor de toepassing van het tweede lid,   wordt verstaan onder :<BR>1° stallen en gebouwen : stallen, ongeacht hun ligging   ten opzichte van het erf, en gebouwen die aan het erf grenzen en waarin niet   geproduceerd wordt;<BR>2° andere gebouwen : gebouwen, andere dan stallen, waar   niet geproduceerd wordt en die niet rechtstreeks aan het erf grenzen.<BR><BR>Als   wordt vastgesteld dat de verzamelaanvraag wordt gebruikt om kunstmatig een   voordeel te verkrijgen dat in strijd is met de doelstellingen van de regelgeving   vermeld in artikel 4, § 1, van het decreet van 22 december 2006 houdende   inrichting van een gemeenschappelijke identificatie van landbouwers,   exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het   landbouwbeleid, wordt de verzamelaanvraag geweigerd voor de betrokken   landbouwer.
 
 ### ART. 4.
 
-§ 1. Ter uitvoering van artikel 4, §1, van het decreet van 22 december 2006 houdende inrichting van een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid, dient de landbouwer jaarlijks de verzamelaanvraag in overeenkomstig artikel 10 tot en met 14 van de verordening.<br /><br />De verzamelaanvraag, die als bijlage II bij dit besluit is gevoegd, wordt naar behoren ingevuld met alle vereiste informatie, ondertekend en ingediend met een van de volgende middelen : <br />1° een gepersonaliseerde verzamelaanvraag die door ALV aan de landbouwer wordt toegestuurd;<br />2° een blanco exemplaar van de verzamelaanvraag, dat ter beschikking gesteld is door de buitendiensten;<br />3° ...;<br />4° een elektronisch formulier dat door ALV via het e-loket Landbouw en Visserij ter beschikking wordt gesteld.<br /><br />In alle gevallen moet de verzamelaanvraag voorzien zijn van de nodige bewijsstukken, vermeld in de toelichting bij de verzamelaanvraag. Bij aangiftes via het e-loket Landbouw en Visserij worden de bewijsstukken nagestuurd overeenkomstig de instructies die zijn opgenomen in het elektronische formulier in kwestie of ingediend via het e-loket.<br /><br />Ter uitvoering van artikel 12 en 23 van de verordening wordt, in het geval van een niet naar behoren ingevulde verzamelaanvraag of bij het ontbreken van de bewijsstukken, vermeld in het derde lid, de steunwaardigheid van de betrokken steunaanvraag pas door het ALV beoordeeld nadat de landbouwer gevolg heeft gegeven aan de verzoeken om aanvullende inlichtingen of bewijsstukken vanwege het ALV.<br /><br />§ 2. De verzamelaanvraag wordt uiterlijk op 21 april van het aangiftejaar ingediend bij de buitendiensten. De verzamelaanvraag wordt tegen ontvangstbewijs afgegeven uiterlijk om 17 uur op die datum of wordt aangetekend verzonden. De postdatum geldt als bewijs. Als het formulier wordt ingediend via het e-loket, geldt het in de ALV-databank geregistreerde tijdstip van elektronisch ontvangst als indieningsdatum. De bewijsstukken worden ingediend tegen de datum die is opgenomen in bijlage III, gevoegd bij dit besluit.<br /><br />§ 3. Overeenkomstig artikel 14 van de verordening mogen, na de uiterste limietdatum voor de indiening van de verzamelaanvraag toevoegingen van individuele, voor de landbouw gebruikte percelen en toeslagrechten die nog niet in de verzamelaanvraag waren aangegeven, evenals wijzigingen met betrekking tot het gebruik ervan, aangebracht worden. De wijzigingen die na 31 mei van het aangiftejaar worden meegedeeld, worden overeenkomstig artikel 23, artikel 24 en artikel 15, 1, van de verordening behandeld.<br /><br />§ 4. De landbouwer deelt elke wijziging aan zijn ingediende verzamelaanvraag mee aan het ALV, uiterlijk op 31 oktober van het aangiftejaar en vooraleer een controle werd aangekondigd of uitgevoerd.<br /><br />Na 31 oktober van het aangiftejaar kunnen geen wijzigingen meer worden aangebracht aan een ingediende verzamelaanvraag, behalve als de landbouwer kan aantonen dat zijn aangifte door overmacht of administratieve vergissing, zonder nalatigheid of fout van de landbouwer, niet overeenstemt met een aantoonbare realiteit. De landbouwer dient daartoe een gemotiveerd verzoekschrift in bij de bevoegde buitendienst van het ALV.<br /><br />§ 5. Een landbouwer die voor 2011 in aanmerking wil komen voor de steun voor deelname aan de voedselkwaliteitsregeling die is ingesteld bij Verordening (EG) nr. 834/2007, vermeld in artikel 3 van besluit van de Vlaamse Regering van 9 september 2011 tot het verlenen van steun met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor deelname aan Europees erkende voedselkwaliteitsregelingen en voor bijhorende afzetbevorderingsacties, of voor de steun voor deelname aan de voedselkwaliteitsregelingen die zijn ingesteld bij Verordening (EG) nr. 509/2006 en Verordening (EG) nr. 510/2006, vermeld in artikel 8 van het voormelde besluit, dient de steunaanvraag en de betalingsaanvraag in door een wijziging van de verzamelaanvraag. <br />In afwijking van artikel 4, § 4, eerste lid, kan een landbouwer de steun, vermeld in het eerste lid, aanvragen tot en met 31 december 2011. Artikel 4, § 4, tweede lid, is niet van toepassing op de wijziging van de verzamelaanvraag die uitsluitend betrekking heeft op de aanvraag van die steun.<br />De aanvraag tot wijziging van de verzamelaanvraag, vermeld in het eerste lid, bevat ten minste de volgende gegevens : <br />1° de identificatiegegevens van de landbouwer die de steun aanvraagt, namelijk : <br />a) de voornaam en de achternaam. Als de aanvrager een rechtspersoon is bevat de aanvraag de benaming van de rechtspersoon en de voornaam en de achternaam van de persoon die de rechtspersoon vertegenwoordigt;<br />b) het adres of de maatschappelijke zetel;<br />c) het landbouwernummer;<br />2° een verklaring dat de landbouwer in 2011 aan één of meer voedselkwaliteitsregelingen, vermeld in deze paragraaf, heeft deelgenomen en steun aanvraagt overeenkomstig dit artikel.
+§ 1. Ter uitvoering van artikel 4, §1, van het decreet van 22 december   2006 houdende inrichting van een gemeenschappelijke identificatie van   landbouwers, exploitaties en landbouwgrond in het kader van het   meststoffenbeleid en van het landbouwbeleid, dient de landbouwer jaarlijks de   verzamelaanvraag in overeenkomstig artikel 10 tot en met 14 van de   verordening.<BR><BR>De verzamelaanvraag, die als bijlage II bij dit besluit is   gevoegd, wordt naar behoren ingevuld met alle vereiste informatie, ondertekend   en ingediend met een van de volgende middelen : <BR>1° een gepersonaliseerde   verzamelaanvraag die door ALV op aanvraag aan de landbouwer wordt   toegestuurd;<BR>2° een blanco exemplaar van de verzamelaanvraag, dat ter   beschikking gesteld is door de buitendiensten;<BR>3° ...;<BR>4° een elektronisch   formulier dat door ALV via het e-loket Landbouw en Visserij ter beschikking   wordt gesteld.<BR><BR>In alle gevallen moet de verzamelaanvraag voorzien zijn   van de nodige bewijsstukken, vermeld in de toelichting bij de verzamelaanvraag.   Bij aangiftes via het e-loket Landbouw en Visserij worden de bewijsstukken   nagestuurd overeenkomstig de instructies die zijn opgenomen in het elektronische   formulier in kwestie of ingediend via het e-loket.<BR><BR>Ter uitvoering van   artikel 12 en 23 van de verordening wordt, in het geval van een niet naar   behoren ingevulde verzamelaanvraag of bij het ontbreken van de bewijsstukken,   vermeld in het derde lid, de steunwaardigheid van de betrokken steunaanvraag pas   door het ALV beoordeeld nadat de landbouwer gevolg heeft gegeven aan de   verzoeken om aanvullende inlichtingen of bewijsstukken vanwege het ALV.<BR><BR>§   2. De verzamelaanvraag wordt uiterlijk op 21 april van het aangiftejaar   ingediend via het e-loket of bij de buitendiensten. Als het formulier wordt   ingediend via het e-loket, geldt het in de ALV-databank geregistreerde tijdstip   van elektronische ontvangst als indieningsdatum. De verzamelaanvraag kan ook   tegen ontvangstbewijs afgegeven worden bij de buitendiensten uiterlijk om 17 uur   op de laatste werkdag voor de uiterste indieningsdatum of ten laatste op de   uiterste indieningsdatum aangetekend verzonden worden naar de buitendienst. De   postdatum geldt dan als bewijs. De bewijsstukken worden ingediend tegen de datum   die is opgenomen in bijlage III, gevoegd bij dit besluit.<BR><BR>§ 3.   Overeenkomstig artikel 14 van de verordening mogen, na de uiterste limietdatum   voor de indiening van de verzamelaanvraag toevoegingen van individuele, voor de   landbouw gebruikte percelen en toeslagrechten die nog niet in de   verzamelaanvraag waren aangegeven, evenals wijzigingen met betrekking tot het   gebruik ervan, aangebracht worden. De wijzigingen die na 31 mei van het   aangiftejaar worden meegedeeld, worden overeenkomstig artikel 23, artikel 24 en   artikel 15, 1, van de verordening behandeld.<BR><BR>§ 4. De landbouwer deelt   elke wijziging aan zijn ingediende verzamelaanvraag mee aan het ALV, uiterlijk   op 31 oktober van het aangiftejaar en vooraleer een controle werd aangekondigd   of uitgevoerd. Na 31 oktober van het aangiftejaar kunnen geen wijzigingen meer   worden aangebracht aan percelen ingediend via de verzamelaanvraag. <BR><BR>In   afwijking van het eerste lid :<BR>1° kunnen wijzigingen van de nateelt zonder   bewijsstukken ingediend worden tot en met 15 februari van het volgende   aangiftejaar;<BR>2° dienen wijzigingen in het kader van de specifieke steun voor   groenbedekkers, vermeld in artikel 2decies, eerste lid, van het Besluit van de   Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling   en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot   toepassing van de randvoorwaarden, voor percelen gelegen in de landbouwstreek de   Polders of de Leemstreek uiterlijk op 14 september van het aangiftejaar   ingediend te worden.<BR><BR>Als de landbouwer kan aantonen dat zijn aangifte   door overmacht of administratieve vergissing, zonder nalatigheid of fout van de   landbouwer, niet overeenstemt met een aantoonbare realiteit, kunnen in afwijking   van het eerste en tweede lid toch nog wijzigingen in de teelt- of ingebruikname   worden aangebracht. De landbouwer dient daartoe een gemotiveerd verzoekschrift   in bij de bevoegde buitendienst van het ALV.<BR><BR>§ 5. Een landbouwer die voor   2011 in aanmerking wil komen voor de steun voor deelname aan de   voedselkwaliteitsregeling die is ingesteld bij Verordening (EG) nr. 834/2007,   vermeld in artikel 3 van besluit van de Vlaamse Regering van 9 september 2011   tot het verlenen van steun met toepassing van het Vlaams Programma voor   Plattelandsontwikkeling voor deelname aan Europees erkende   voedselkwaliteitsregelingen en voor bijhorende afzetbevorderingsacties, of voor   de steun voor deelname aan de voedselkwaliteitsregelingen die zijn ingesteld bij   Verordening (EG) nr. 509/2006 en Verordening (EG) nr. 510/2006, vermeld in   artikel 8 van het voormelde besluit, dient de steunaanvraag en de   betalingsaanvraag in door een wijziging van de verzamelaanvraag. <BR>In   afwijking van artikel 4, § 4, eerste lid, kan een landbouwer de steun, vermeld   in het eerste lid, aanvragen tot en met 31 december 2011. Artikel 4, § 4, tweede   lid, is niet van toepassing op de wijziging van de verzamelaanvraag die   uitsluitend betrekking heeft op de aanvraag van die steun.<BR>De aanvraag tot   wijziging van de verzamelaanvraag, vermeld in het eerste lid, bevat ten minste   de volgende gegevens : <BR>1° de identificatiegegevens van de landbouwer die de   steun aanvraagt, namelijk : <BR>a) de voornaam en de achternaam. Als de   aanvrager een rechtspersoon is bevat de aanvraag de benaming van de   rechtspersoon en de voornaam en de achternaam van de persoon die de   rechtspersoon vertegenwoordigt;<BR>b) het adres of de maatschappelijke   zetel;<BR>c) het landbouwernummer;<BR>2° een verklaring dat de landbouwer in   2011 aan één of meer voedselkwaliteitsregelingen, vermeld in deze paragraaf,   heeft deelgenomen en steun aanvraagt overeenkomstig dit artikel.
 
 ### ART. 4/1.
 
-De volgende steunmaatregelen kunnen alleen met een elektronisch formulier als vermeld in artikel 4, § 1, tweede lid, 4°, op het e-loket worden aangevraagd :<br />1° steun voor deelname aan communautaire voedselkwaliteitsregelingen als vermeld in hoofdstuk 2 van het besluit van de Vlaamse Regering van 9 september 2011 tot het verlenen van steun met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor deelname aan Europees erkende voedselkwaliteitsregelingen en voor bijhorende afzetbevorderingsacties;<br />2° nieuwe verbintenissen in het kader van de agromilieumaatregel behoud van met uitsterven bedreigde lokale veerassen en variëteiten van hoogstamboomgaarden, als vermeld in artikel 7/1 en artikel 8 van het besluit van de Vlaamse Regering van 21 december 2007 tot het verlenen van subsidies voor de uitvoering van agromilieumaatregelen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling;<br />3° subsidie voor boslandbouwsystemen, als vermeld in het besluit van de Vlaamse Regering van 22 juli 2011 betreffende het verlenen van subsidies voor boslandbouwsystemen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de programmeringsperiode 2007-2013;<br />4° specifieke steun voor de instandhouding van het Piétrainras in de varkenssector, als vermeld in artikel 2decies van het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden.
+De volgende steunmaatregelen kunnen alleen met een elektronisch formulier   als vermeld in artikel 4, § 1, tweede lid, 4°, op het e-loket worden aangevraagd   :<BR>1° steun voor deelname aan communautaire voedselkwaliteitsregelingen als   vermeld in hoofdstuk 2 van het besluit van de Vlaamse Regering van 9 september   2011 tot het verlenen van steun met toepassing van het Vlaams Programma voor   Plattelandsontwikkeling voor deelname aan Europees erkende   voedselkwaliteitsregelingen en voor bijhorende afzetbevorderingsacties;<BR>2°   nieuwe verbintenissen in het kader van de agromilieumaatregelen, vermeld in   artikel 2 van het besluit van de Vlaamse Regering van 21 december 2007 tot het   verlenen van subsidies voor de uitvoering van agromilieumaatregelen met   toepassing van het Vlaams Programma voor Plattelandsontwikkeling;<BR>3° subsidie   voor boslandbouwsystemen, als vermeld in het besluit van de Vlaamse Regering van   22 juli 2011 betreffende het verlenen van subsidies voor boslandbouwsystemen met   toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de   programmeringsperiode 2007-2013;<BR>4° specifieke steun voor de instandhouding   van het Piétrainras in de varkenssector, als vermeld in artikel 2decies van het   besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een   bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor   landbouwers en tot toepassing van de randvoorwaarden.
 
 ### ART. 5.
 
@@ -34,350 +38,187 @@ Dit besluit heeft uitwerking met ingang van 1 januari 2009.<br /><br />
 
 ### BIJLAGE I.
 
-<p>Agromilieumaatregelen en andere plattelandsmaatregelen als vermeld in artikel 3<br>
-<br>
-1. Agromilieumaatregelen en andere plattelandsmaatregelen waarvoor een verzamelaanvraag dient als betalingsaanvraag<br>
-</p>
+<p>Bijlage I. Agromilieumaatregelen en andere plattelandsmaatregelen als vermeld in artikel 3<br>
+1. Agromilieumaatregelen en andere plattelandsmaatregelen waarvoor een verzamelaanvraag dient als betalingsaanvraag</p>
 
-<table border="1" cellpadding="0">
+<p><br>
+&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>code <!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>categorie</p>
-			</td>
+			<td>code</td>
+			<td>Categorie</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>BIO</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>biologische productiemethode</p>
-			</td>
+			<td>BIO</td>
+			<td>biologische productiemethode</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>MOB</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>mechanische onkruidbestrijding</p>
-			</td>
+			<td>MOB</td>
+			<td>mechanische onkruidbestrijding</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>VLI</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>vlinderbloemige gewassen</p>
-			</td>
+			<td>VLI</td>
+			<td>vlinderbloemige gewassen</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>SI2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>intensieve sierteelt</p>
-			</td>
+			<td>SI2, SE2 of SB2</td>
+			<td>sierteelt (intensieve sierteelt, extensieve sierteelt, beschutte sierteelt)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>SE2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>extensieve sierteelt</p>
-			</td>
+			<td>VER</td>
+			<td>verwarringstechniek bij pitfruitteelt</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>SB2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>beschutte sierteelt</p>
-			</td>
+			<td>BOS</td>
+			<td>bebossing van landbouwgrond - onderhoud en inkomenscompensatie</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>VER</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>verwarringstechniek bij pitfruitteelt</p>
-			</td>
+			<td>HSB</td>
+			<td>behoud genetische diversiteit hoogstambomen</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>BOS</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>bebossing van landbouwgrond - onderhoud en inkomenscompensatie</p>
-			</td>
+			<td>-</td>
+			<td>behoud genetische diversiteit runderen</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>HSB</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>behoud genetische diversiteit hoogstambomen</p>
-			</td>
+			<td>-</td>
+			<td>behoud genetische diversiteit schapen</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>GDR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>behoud genetische diversiteit runderen</p>
-			</td>
+			<td>BLS</td>
+			<td>boslandbouwsystemen</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>GDS</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>behoud genetische diversiteit schapen</p>
-			</td>
+			<td>-</td>
+			<td>controlekost biologische landbouw</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>BLS</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>boslandbouwsystemen</p>
-			</td>
+			<td>-</td>
+			<td>Brussels grondwitloof - BGA</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>-</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>controlekost biologische landbouw</p>
-			</td>
+			<td>-</td>
+			<td>Vlaams-Brabantse tafeldruif - BOB</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>-</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>Brussels grondwitloof - BGA</p>
-			</td>
+			<td>AV1</td>
+			<td>akkervogelbeheer - leeuwerikvlakjes</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>-</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>Vlaams-Brabantse tafeldruif - BOB</p>
-			</td>
+			<td>AV2</td>
+			<td>akkervogelbeheer - faunaranden</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>AV1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>akkervogelbeheer - leeuwerikvlakjes</p>
-			</td>
+			<td>AV3</td>
+			<td>akkervogelbeheer - graanranden</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>AV2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>akkervogelbeheer - faunaranden</p>
-			</td>
+			<td>AV4</td>
+			<td>akkervogelbeheer - winterstoppel</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>AV3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>akkervogelbeheer - graanranden</p>
-			</td>
+			<td>BW3</td>
+			<td>verminderde bemesting in kwetsbare zones water</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>AV4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>akkervogelbeheer - winterstoppel</p>
-			</td>
+			<td>DI2</td>
+			<td>erosiebestrijding - directe inzaai</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>BW3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>verminderde bemesting in kwetsbare zones water</p>
-			</td>
+			<td>NK2</td>
+			<td>erosiebestrijding - niet-kerende bodembewerking</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>DI2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>erosiebestrijding - directe inzaai</p>
-			</td>
+			<td>WV1</td>
+			<td>weidevogelbeheer met vluchtstroken</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>NK2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>erosiebestrijding - niet-kerende bodembewerking</p>
-			</td>
+			<td>VNA</td>
+			<td>vergoeding natuur</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>WV1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>weidevogelbeheer met vluchtstroken</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:71.65pt">
-			<p>VNA</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>vergoeding natuur</p>
-			</td>
+			<td>HAM</td>
+			<td>Hamsterbescherming - graanstrook en luzernestrook</td>
 		</tr>
 	</tbody>
 </table>
 
 <p>&nbsp;</p>
 
+<p><br>
+2. Agromilieumaatregelen en andere plattelandsmaatregelen waarvoor een verzamelaanvraag dient als melding van percelen</p>
+
 <p>&nbsp;</p>
 
-<p>2. Agromilieumaatregelen en andere plattelandsmaatregelen waarvoor een verzamelaanvraag dient als melding van percelen<br>
-<br>
-</p>
-
-<table border="1" cellpadding="0">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:68.25pt">
-			<p>ER</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>erosiebestrijding - aanleg en onderhoud grasbufferstrook en grasgang</p>
-			</td>
+			<td>ER</td>
+			<td>erosiebestrijding - aanleg en onderhoud grasbufferstrook en grasgang</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:68.25pt">
-			<p>BB</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>botanisch beheer - grasland en akkerland</p>
-			</td>
+			<td>BB</td>
+			<td>botanisch beheer - grasland en akkerland</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:68.25pt">
-			<p>HAM</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>hamsterbescherming - graanstrook en luzernestrook</p>
-			</td>
+			<td>HKW</td>
+			<td>kleine landschapselementen - aanplant en onderhoud van houtkant/wal</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:68.25pt">
-			<p>HKW</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>kleine landschapselementen - aanplant en onderhoud van houtkant/wal</p>
-			</td>
+			<td>POE</td>
+			<td>kleine landschapselementen - (her)aanleg en onderhoud van poelen &gt; 100 m2</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:68.25pt">
-			<p>POE</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>kleine landschapselementen - (her)aanleg en onderhoud van poelen &gt; 100 m<sup>2</sup></p>
-			</td>
+			<td>PRB</td>
+			<td>perceelsrandenbeheer</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:68.25pt">
-			<p>PRB</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>perceelsrandenbeheer</p>
-			</td>
+			<td>AKV</td>
+			<td>akkervogelbeheer - vogelvoedselgewas en (opgeploegde) gemengde grasstrook</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:68.25pt">
-			<p>AKV</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>akkervogelbeheer - vogelvoedselgewas en (opgeploegde) gemengde grasstrook</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:68.25pt">
-			<p>WV</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:323.75pt">
-			<p>weidevogelbeheer - (omzetten akkerland en) beweiden en maaien</p>
-			</td>
+			<td>WV</td>
+			<td>weidevogelbeheer - (omzetten akkerland en) beweiden en maaien</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
 ### BIJLAGE II.
 
-Voorbeeldformulier verzamelaanvraag 2012 als vermeld in artikel 4, § 1 <br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/06/08_1.pdf#page=99" title=" bijlage II" target="_blank" class="pdf">bijlage II</a>
+<P>Voorbeeldformulier verzamelaanvraag 2013 als vermeld in artikel 4, §   1<BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/03/28_1.pdf#page=81">Bijlage   II</A></P>
 
 ### BIJLAGE III.
 
-<p>Uiterste datums voor de indiening van de bewijsstukken, vermeld in artikel 4, § 2<br>
-<br>
-</p>
+<p>Uiterste datums voor de indiening van de bewijsstukken, vermeld in artikel 4, § 2</p>
 
-<table border="1" cellpadding="0">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:202.9pt">
-			<p>steun die wordt aangevraagd <!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:189.85pt">
-			<p>aanvullend document</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:61.55pt">
-			<p>uiterste indienings-datum</p>
-			</td>
+			<td>steun die wordt aangevraagd</td>
+			<td>aanvullend document</td>
+			<td>uiterste indienings-datum</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:202.9pt">
-			<p>DIRECTE STEUN, AGROMILIEUMAATREGELEN (ALV-verbintenissen en VLM-beheersovereenkomsten), ANDERE PLATTELANDSMAATREGELEN en AANGIFTEPLICHT MESTBANK</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:189.85pt">
-			<p>origineel van de verzamelaanvraag* + originele fotoplannen of topografische kaarten*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:61.55pt">
-			<p>21 april 2012</p>
-			</td>
+			<td>DIRECTE STEUN, AGROMILIEUMAATREGELEN (ALV-verbintenissen en VLM-beheersovereenkomsten), ANDERE PLATTELANDSMAATREGELEN en AANGIFTEPLICHT MESTBANK</td>
+			<td>origineel van de verzamelaanvraag* + originele fotoplannen of topografische kaarten*</td>
+			<td>21 april 2013</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:202.9pt">
-			<p>DIRECTE STEUN, AGROMILIEUMAATREGELEN (ALV-verbintenissen en VLM-beheersovereenkomsten) en ANDERE PLATTELANDSMAATREGELEN</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:189.85pt">
-			<p>formulier 1 van de handleiding bij de verzamelaanvraag : « Toevoegen, splitsen, wijzigen of schrappen van percelen »</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:61.55pt">
-			<p>31 mei 2012</p>
-			</td>
+			<td>DIRECTE STEUN, AGROMILIEUMAATREGELEN (ALV-verbintenissen en VLM-beheersovereenkomsten) en ANDERE PLATTELANDSMAATREGELEN</td>
+			<td>formulier 1 van de handleiding bij de verzamelaanvraag : « Toevoegen, splitsen, wijzigen of schrappen van percelen »</td>
+			<td>31 mei 2013</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>* De aanvullende documenten moeten ingediend worden l via het e-loket van Landbouw en Visserij of bij de buitendienst van het ALV, afdeling MIB. De documenten die tegen afgifte van ontvangstbewijs op de buitendienst van het ALV, afdeling MIB ingediend worden, moeten bezorgd worden vóór 17 uur op de opgegeven uiterste indieningsdatum, of vóór 17 uur op de werkdag ervoor als de uiterste indieningsdatum op een feestdag, een zaterdag of een zondag valt.<br>
+<br>
+* De aanvullende documenten moeten ingediend worden via het e-loket van Landbouw en Visserij of bij de buitendienst van het ALV, afdeling MIB. De documenten die tegen afgifte van ontvangstbewijs op de buitendienst van het ALV, afdeling MIB ingediend worden, moeten bezorgd worden vóór 17 uur op de opgegeven uiterste indieningsdatum, of vóór 17 uur op de werkdag ervoor als de uiterste indieningsdatum op een feestdag, een zaterdag of een zondag valt.<br>
 ** Bij gebruik van percelen in het Waalse Gewest moet, in het kader van het gescheiden beheer :<br>
-1° een interregionale Vlaamse landbouwer (met hoofdbeherende dienst in Vlaanderen) het Vlaamse en Waalse gedeelte van de verzamelaanvraag indienen uiterlijk op 21 april 2012;<br>
-2° een interregionale Waalse landbouwer (met hoofdbeherende buitendienst in Wallonië) het Waalse en Vlaamse gedeelte van de verzamelaanvraag indienen uiterlijk op 31 maart 2012.</p>
+1° een interregionale Vlaamse landbouwer (met hoofdbeherende dienst in Vlaanderen) het Vlaamse en Waalse gedeelte van de verzamelaanvraag indienen uiterlijk op 21 april 2013;<br>
+2° een interregionale Waalse landbouwer (met hoofdbeherende buitendienst in Wallonië) het Waalse en Vlaamse gedeelte van de verzamelaanvraag indienen uiterlijk op 31 maart 2013.
+<p>&nbsp;</p>
