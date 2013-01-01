@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025224,
+  "title": "Ministerieel besluit van 2011-11-29 houdende de bepaling van resultaatsgerichte indicatoren voor de diensten maatschappelijk werk van de ziekenfondsen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025224/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "a45dd6e8f164ce6cfa171756c2ce1734d827c15fe8ef9a47136a52c1577e96fd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025224&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2011-11-29",
+  "gazette": "2011-12-19",
+  "numac": 0,
+  "document_start": "2013-01-01",
+  "document_end": "2019-12-31",
+  "in_force": "2013-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
