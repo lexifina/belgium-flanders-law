@@ -2,16 +2,16 @@
   "codex_id": 1013971,
   "title": "Decreet van 2005-07-15 betreffende het onderwijs XV",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013971/VolledigDocument?datum=2007-09-01",
-  "source_sha256": "8743cb319e1491cf51e1dc2a5c399436035ba3ee805e5deaacec794b44ac2a90",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013971/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "4053e007e7e220ef99a5728af77cce71e46cf9fb178b94907a5afe5e284637d6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013971&param=informatie",
-  "as_of": "2007-09-01",
+  "as_of": "2013-01-01",
   "made": "2005-07-15",
   "gazette": "2005-09-16",
   "numac": 2005036093,
   "document_start": null,
   "document_end": null,
-  "in_force": "2007-09-01",
-  "article_versions": 102,
-  "record_form": "consolidated version as in force on 2007-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-01-01",
+  "article_versions": 103,
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
