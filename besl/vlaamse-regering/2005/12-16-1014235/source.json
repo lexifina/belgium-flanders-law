@@ -2,16 +2,16 @@
   "codex_id": 1014235,
   "title": "Besluit van de Vlaamse Regering van 2005-12-16 betreffende het financiële en materiële beheer van de Dienst Afzonderlijk Beheer (DAB) Waarborgfonds Microfinanciering",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014235/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "798df47300711e0bc55ad21cc2eff5e23ea4b63ccde85fa8d86533fa85fbdb70",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014235/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "8fc1b87d8f84d46e5b59b6de7fa0aab761e9346f018a956fac87665a7420ab22",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014235&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2013-01-01",
   "made": "2005-12-16",
   "gazette": "2006-01-30",
   "numac": 2006035061,
   "document_start": null,
   "document_end": "2012-12-31",
-  "in_force": "2012-01-01",
+  "in_force": "2013-01-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
