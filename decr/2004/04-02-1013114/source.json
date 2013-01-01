@@ -2,16 +2,16 @@
   "codex_id": 1013114,
   "title": "Decreet van 2004-04-02 inzake ontwikkelingseducatie",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013114/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "bf49f04b2d6ce765c8ef13cbf45eaf9efa693d515422c6ae4f18a1c4657538a3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013114/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "7a0a125c2575435480f0391be3c59b85cde1aa0564749bdadd91f4e082a922b5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013114&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2013-01-01",
   "made": "2004-04-02",
   "gazette": "2004-06-14",
   "numac": 2004035891,
   "document_start": "2005-01-01",
   "document_end": "2999-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2013-01-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
