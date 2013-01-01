@@ -72,7 +72,7 @@ Binnen de perken van het daartoe bestemde begrotingskrediet bedraagt, voor de de
 
 ### ART. 14.
 
-§ 1. De minister kent binnen de perken van het daartoe bestemde begrotingskrediet een nazorgvergoeding toe aan de leerwerkbedrijven voor elke doelgroepwerknemer die bij het leerwerkbedrijf de inschakelingsmodule heeft gevolgd en die zes maanden na het einde van de werkervaring minstens twee maanden ononderbroken in het reguliere arbeidscircuit gewerkt heeft.<br /><br />§ 2. Het bedrag van die vergoeding wordt vastgesteld op 1.000 euro.<br /><br />§ 3. Alleen de uitgaven voor de nazorg van de doelgroepwerknemers, waarvoor een bewijs wordt geleverd en die voor het leerwerkbedrijf een meerkost betekenen, worden aanvaard.<br /><br />Het leerwerkbedrijf bezorgt op straffe van terugvordering de bewijzen van de inschakelingsuitgaven van ieder kalenderjaar aan het Subsidieagentschap voor 31 januari van het daaropvolgende burgerlijk jaar.<br /><br />Het bedrag van de nazorgvergoeding evolueert op dezelfde wijze en in dezelfde mate als de gezondheidsindex.<br /><br />
+§ 1. De minister kent binnen de perken van het daartoe bestemde begrotingskrediet een nazorgvergoeding toe aan de leerwerkbedrijven voor elke doelgroepwerknemer die bij het leerwerkbedrijf de inschakelingsmodule heeft gevolgd en die zes maanden na het einde van de werkervaring minstens twee maanden ononderbroken in het reguliere arbeidscircuit gewerkt heeft.<br /><br />§ 1bis. De minister kent de in de eerste paragraaf bedoelde nazorgvergoeding eveneens toe voor elke doelgroepwerknemer die bij het leerwerkbedrijf de inschakelingsmodule heeft gevolgd en die zes maanden na het einde van de werkervaring minstens twee maanden ononderbroken via het stelsel van de individuele beroepsopleiding in opleiding is geweest bij een werkgever uit het reguliere arbeidscircuit. <br /><br />Het leerwerkbedrijf toont aan dat de individuele beroepsopleiding verder bouwt op de opgedane competenties en bijdraagt tot de uitstroom naar werk. <br /><br />De VDAB kent de individuele beroepsopleiding toe, overeenkomstig de bepalingen van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding.<br /><br />§ 2. Het bedrag van die vergoeding wordt vastgesteld op 1.000 euro.<br /><br />§ 3. Alleen de uitgaven voor de nazorg van de doelgroepwerknemers, waarvoor een bewijs wordt geleverd en die voor het leerwerkbedrijf een meerkost betekenen, worden aanvaard.<br /><br />Het leerwerkbedrijf bezorgt op straffe van terugvordering de bewijzen van de inschakelingsuitgaven van ieder kalenderjaar aan het Subsidieagentschap voor 31 januari van het daaropvolgende burgerlijk jaar.<br /><br />Het bedrag van de nazorgvergoeding evolueert op dezelfde wijze en in dezelfde mate als de gezondheidsindex.<br /><br />
 
 ### ART. 15.
 
@@ -107,6 +107,10 @@ De minister houdt in zijn beslissing rekening met een evenredige spreiding van d
 ### ART. 22.
 
 De beslissing tot goedkeuring van het werkervaringsproject geldt voor een periode van vier jaar.<br /><br />
+
+### ART. 22/1.
+
+De minister kan beslissen om reeds goedgekeurde werkervaringsprojecten te verlengen met één jaar, zonder dat de promotor hierbij een nieuwe aanvraag overeenkomstig artikel 19 moet doen.
 
 ### ART. 23.
 
