@@ -28,4 +28,20 @@ In artikel 7, § 2, van hetzelfde besluit wordt de zinsnede « artikel 2,   4°,
 
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse Regering van 24 mei 1995 houdende vaststelling van de regelen betreffende de werking en het beheer van het Vlaams Fonds voor de Lastendelging
 
+### ART. 6.
+
+In artikel 1, § 1, 4°, van het besluit van de Vlaamse Regering van 24 mei   1995 houdende vaststelling van de regelen betreffende de werking en het beheer   van het Vlaams Fonds voor de Lastendelging, ingevoegd bij het besluit van de   Vlaamse Regering van 27 januari 2012, wordt tussen de zinsnede « het bedrag van   de schuld zonder kosten, vergoedingen, interesten en boeten. » en de woorden «   In geval van » de zin « In geval van samenvoeging van schadedossiers wordt dat   bedrag bepaald per afzonderlijk dossier. » ingevoegd.
+
+### ART. 7.
+
+<P>In artikel 1, § 2, 1°, van hetzelfde besluit, vervangen bij het besluit van   de Vlaamse Regering van 15 juni 2007, wordt de inleidende zin vervangen door wat   volgt :<BR></P>  <P>« Met uitzondering van de schadedossiers die in hoofdsom 200.000 euro of   minder bedragen, kunnen de lasten, vermeld in artikel 53, § 2, tweede lid, 1° en   2°, van het decreet van 21 december 1994 houdende bepalingen tot begeleiding van   de begroting 1995, op het Fonds worden aangerekend binnen de volgende grenzen :   ».</P>
+
+### ART. 8.
+
+<P>In artikel 1/3 van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering van 27 januari 2012, wordt de inleidende zin vervangen door wat   volgt :<BR></P>  <P>« Met uitzondering van de schadedossiers die in hoofdsom 200.000 euro of   minder bedragen, kan een schadedossier dat niet op de inventaris, vermeld in   artikel 1/1 van dit besluit, voorkomt, of dat wél op de inventaris voorkomt maar   conform artikel 1/1 van dit besluit laattijdig gemeld werd, als last van het   verleden als vermeld in artikel 53, § 2, tweede lid, 2°, van het decreet van 21   december 1994 houdende bepalingen tot begeleiding van de begroting 1995, worden   aangeduid, met het oog op de tussenkomst van het Fonds, binnen de volgende   grenzen : ».</P>
+
+### ART. 9.
+
+<P>In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van   23 juni 2006, 15 juni 2007 en 27 januari 2012, wordt een artikel 1/5 ingevoegd,   dat luidt als volgt :<BR><BR>« Art. 1/5. De Vlaamse Regering kan beslissen een   door de entiteit in kwestie gedane betaling voor een schadedossier aan te wijzen   als last van het verleden als vermeld in artikel 53, § 2, tweede lid, 2°, van   het decreet van 21 december 1994 houdende bepalingen tot begeleiding van de   begroting 1995, zodat de gedane betaling als zodanig door het Fonds kan worden   aanvaard. ». </P>
+
 ## HOOFDSTUK 3. Slotbepalingen
