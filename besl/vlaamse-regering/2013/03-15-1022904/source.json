@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022904,
+  "title": "Besluit van de Vlaamse Regering van 2013-03-15 houdende diverse bepalingen betreffende financiën en begroting",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022904/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "31209db87d76c8a1766c4757f536f531717b0feabecf5e38fc75918425082168",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022904&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2013-03-15",
+  "gazette": "2013-05-06",
+  "numac": 2013202231,
+  "document_start": "2013-05-16",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
