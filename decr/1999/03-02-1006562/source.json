@@ -2,16 +2,16 @@
   "codex_id": 1006562,
   "title": "Decreet van 1999-03-02 [houdende machtiging tot deelneming in (verv. decr. 29 mei 2015, art. 2, I: 1 mei 2015)] een coöperatieve vennootschap met beperkte aansprakelijkheid [bevoegd (verv. decr. 29 mei 2015, art. 2, I: 1 mei 2015)] voor de uitvoering van opdrachten met betrekking tot de werving en selectie van overheidspersoneel",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006562/VolledigDocument?datum=2008-09-01",
-  "source_sha256": "01bb8833ced8c35fd40cdb0db77bd7f65b55af3b7a1de7a132fe849242d9ab56",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006562/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "6f25d9187afec1fcfb8c04d2d3085f4717e3ba6ce241b73135834fb3bbc9f866",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006562&param=informatie",
-  "as_of": "2008-09-01",
+  "as_of": "2013-01-01",
   "made": "1999-03-02",
   "gazette": "1999-03-23",
   "numac": 1999035356,
   "document_start": "1999-03-23",
   "document_end": null,
-  "in_force": "2008-09-01",
+  "in_force": "2013-01-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }

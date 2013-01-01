@@ -34,7 +34,7 @@ De financiële tegemoetkoming van de Vlaamse Gemeenschap en van het Vlaamse Gewe
 
 ### ART. 5bis.
 
-§ 1. Het agentschap ontvangt een dotatie van de Vlaamse Regering met het oog op de uitvoering van volgende taken : <br />1° de in artikel 3, § 1, 1°, opgenomen taken die het agentschap uitoefent ten behoeve van de Vlaamse ministeries, wat betreft de statutaire personeelsleden;<br />2° de taken vermeld in artikel 3, § 1, 2°, die het agentschap uitoefent ten behoeve van de Vlaamse ministeries;<br />3° de taken vermeld in artikel 3, § 1, 3° tot 8°.<br /><br />§ 2. Naast deze dotatie is de Vlaamse Regering gemachtigd om statutair personeel, gebouwen en infrastructuur ter beschikking te stellen van het Agentschap. De terbeschikkingstelling geldt slechts tot wederopzegging zonder dat hieruit schadeloosstelling jegens het Vlaamse Gewest of de Vlaamse Gemeenschap kan worden geëist door het Agentschap.
+<P>§ 1. ...</P>  <P>§ 2.&nbsp;De Vlaamse Regering kan&nbsp;statutair personeel, gebouwen en   infrastructuur ter beschikking te stellen van het Agentschap. De   terbeschikkingstelling geldt slechts tot wederopzegging zonder dat hieruit   schadeloosstelling jegens het Vlaamse Gewest of de Vlaamse Gemeenschap kan   worden geëist door het Agentschap. </P>
 
 ## Hoofdstuk V Slotbepalingen
 
