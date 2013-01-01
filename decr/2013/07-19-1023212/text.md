@@ -48,17 +48,37 @@ In artikel 110/24, paragraaf 2, van dezelfde codex, ingevoegd bij het   decreet 
 
 ## Afdeling II Decreet Volwassenenonderwijs
 
+### ART. IV.17.
+
+<P>In hetzelfde decreet wordt er een artikel 197octies ingevoegd, dat luidt als   volgt :<BR>« Art. 197octies. § 1. In afwijking van artikel 47, § 2, wordt de in   2008 afgesloten vijfjaarlijkse samenwerkingsovereenkomst tussen de Vlaamse   Regering en het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs over   de uitvoering van de opdrachten, vermeld in artikel 45, en de aanwending van de   toegekende middelen, vermeld in artikel 47, § 1, verlengd tot uitvoering is   gegeven aan de evaluatie, vermeld in artikel 51. Deze verlenging kan maximum   twee jaar duren.<BR></P>  <P>§ 2. In afwijking van artikel 50, § 2, wordt de in 2008 afgesloten   vijfjaarlijkse samenwerkingsovereenkomst tussen de Vlaamse Regering en het   Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs enerzijds en de   pedagogische begeleidingsdiensten anderzijds over de aanwending van de middelen   en de uitvoering van de opdrachten, vermeld in artikel 49, verlengd tot   uitvoering is gegeven aan de evaluatie, vermeld in artikel 51. Deze verlenging   kan maximum twee jaar duren.<BR></P>  <P>§ 3. In afwijking van artikel 77, § 2, wordt de in 2008 afgesloten   vijfjaarlijkse samenwerkingsovereenkomst tussen de Vlaamse Regering en elk   consortium volwassenenonderwijs over de uitvoering van de opdrachten, vermeld in   artikel 75, en de aanwending van de toegekende subsidie, vermeld in artikel 77,   § 1, verlengd tot uitvoering is gegeven aan de evaluatie, vermeld in artikel 79.   Deze verlenging kan maximum twee jaar duren. » .<BR></P>
+
 ## Afdeling III Inwerkingtreding
 
 ## HOOFDSTUK V Hoger onderwijs
 
 ## Afdeling I Decreet betreffende de universiteiten
 
+### ART. V.14.
+
+Aan artikel 152 van hetzelfde decreet, gewijzigd bij de decreten van 21   december 1994 en 8 juli 1996, wordt een tweede lid toegevoegd, dat luidt als   volgt :<BR>« Vóór 1 juli bezorgt de Vlaamse Regering aan elke universiteit een   raming van de werkingsmiddelen, de sociale toelage en de investeringsmiddelen   nodig voor het opmaken van de begroting, vermeld in artikel 153. »   .<BR>
+
 ### ART. V.15.
 
 Aan artikel 153 van hetzelfde decreet, vervangen bij het decreet van 4   april 2003, worden de volgende wijzigingen aangebracht :<BR>1° er wordt een   nieuw eerste lid ingevoegd, dat luidt als volgt :<BR>« Het universiteitsbestuur   bezorgt vóór 15 september aan de Vlaamse Regering een begroting opgemaakt   volgens het schema van het Europees systeem van nationale en regionale   rekeningen in de Europese Unie, in navolging van de verordening (EG) nr. 2223/96   van de Raad van 25 juni 1996 inzake het Europees systeem van nationale en   regionale rekeningen in de Gemeenschap. » ;<BR>2° het bestaande tweede lid, dat   het derde lid wordt, wordt vervangen door wat volgt :<BR>« Samen met de   beleidsbegroting dient het universiteitsbestuur een meerjarenbegroting in voor   de komende vijf begrotingsjaren. Die meerjarenbegroting houdt rekening met het   beleid van de universiteit ten minste op de volgende gebieden :<BR>1° algemeen   financieel beleid;<BR>2° personeelsbestand en personeelsbeleid;<BR>3°   onderwijsaanbod;<BR>4° wetenschappelijk onderzoek, maatschappelijke en   wetenschappelijke dienstverlening en transfer van kennis;<BR>5°   investeringen;<BR>6° kwaliteitszorg. » .<BR>
 
 ## Afdeling II Decreet betreffende de hogescholen
+
+### ART. V.27.
+
+Aan artikel 223 van hetzelfde decreet wordt een tweede lid toegevoegd, dat   luidt als volgt :<BR>« Vóór 1 juli bezorgt de Vlaamse Regering aan elke   hogeschool een raming van de werkingsmiddelen en de sociale toelage nodig voor   het opmaken van de begroting, vermeld in artikel 224. » .<BR>
+
+### ART. V.28.
+
+In artikel 224 van hetzelfde decreet wordt een nieuw eerste lid ingevoegd,   dat luidt als volgt :<BR>« Het hogeschoolbestuur bezorgt vóór 15 september aan   de Vlaamse Regering een begroting opgemaakt volgens het schema van het Europees   systeem van nationale en regionale rekeningen in de Europese Unie, in navolging   van de verordening (EG) nr. 2223/96 van de Raad van 25 juni 1996 inzake het   Europees systeem van nationale en regionale rekeningen in de Gemeenschap. »   .<BR>
+
+### ART. V.33.
+
+In artikel 340sexies van hetzelfde decreet, ingevoegd bij het decreet van   20 april 2001 en het laatst gewijzigd bij het decreet van 21 december 2012,   worden de volgende wijzigingen aangebracht :<BR>1° in paragraaf 3, zesde   streepje, worden de woorden "de commissaris van de Vlaamse Regering bij de   hogescholen en" opgeheven;<BR>2° in paragraaf 4 wordt het eerste lid   opgeheven;<BR>3° paragraaf 5 wordt vervangen door wat volgt :<BR>« § 5. In   afwijking van het bepaalde in paragraaf 3 kunnen lopende beheersovereenkomsten   maximaal twee keer met ten hoogste één jaar verlengd worden, in geval de   evaluatie van de wijze waarop de lopende beheersovereenkomst werd uitgevoerd,   onvoldoende positief is om een nieuwe beheersovereenkomst met een looptijd van   vijf jaar af te sluiten. Indien na deze verlenging(en) naar het oordeel van de   Vlaamse Regering de betrokken instelling een deugdelijk beleidsplan heeft   voorgelegd, kan een nieuwe beheersovereenkomst met een looptijd van maximaal   vier jaar worden gesloten. » .<BR>
 
 ## Afdeling III Decreet betreffende de wetenschappelijke of maatschappelijke dienstverlening van het hoger onderwijs
 
@@ -83,6 +103,10 @@ In artikel 9, eerste lid, van het decreet van 22 februari 1995 betreffende   de 
 ### ART. V.87.
 
 <P>Aan artikel 38bis van hetzelfde decreet, ingevoegd bij het decreet van 13   juli 2012 en gewijzigd bij het decreet van 21 december 2012, wordt een paragraaf   5 toegevoegd, die luidt als volgt :<BR>« § 5. Een hogeschool kan ervoor opteren   om een gedeelte van de middelen ter ondersteuning van de academisering onder te   brengen in het Industrieel Onderzoeksfonds, bedoeld in artikel 74bis van het   decreet van 20 december 2002 houdende bepalingen tot begeleiding van de   begroting 2003, van de associatie waartoe zij behoort, indien in deze   mogelijkheid voorzien is in het algemeen onderzoeks- en samenwerkingsreglement   van de associatie waartoe ze behoort.<BR></P>  <P>De hogeschool sluit een overeenkomst af met de associatie over de inzet van   deze middelen vanuit het Industrieel Onderzoeksfonds. » .<BR></P>
+
+### ART. 90.
+
+In artikel 59, tweede lid, van hetzelfde decreet, wordt na de tweede zin   een zin toegevoegd, die luidt als volgt :<BR>« Deze termijn kan door het college   worden hernieuwd. » .<BR>
 
 ## Afdeling IX Decreet betreffende de studentenvoorzieningen
 
@@ -113,6 +137,10 @@ Het besluit van de Vlaamse Regering van 8 maart 1995 houdende vaststelling   van
 ## Afdeling V Inwerkingtreding
 
 ## HOOFDSTUK VII Kwaliteit van onderwijs
+
+### ART. VII.12.
+
+Aan artikel 217 van hetzelfde decreet wordt een tweede lid toegevoegd, dat   luidt als volgt :<BR>« In afwijking van artikel 28, § 4, wordt de in 2008   afgesloten vijfjaarlijkse samenwerkingsovereenkomst tussen de Vlaamse Regering   en de pedagogische begeleidingsdiensten over de aanwending van de toegekende   middelen en de uitvoering van de opdrachten, vermeld in artikel 28, § 1,   verlengd tot uitvoering is gegeven aan de evaluatie, zoals vermeld in artikel   30. Deze verlenging kan maximum twee jaar duren. » .<BR>
 
 ## HOOFDSTUK VIII Decreet betreffende de kwalificatiestructuur
 
