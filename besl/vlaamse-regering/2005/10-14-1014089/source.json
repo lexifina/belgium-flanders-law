@@ -2,16 +2,16 @@
   "codex_id": 1014089,
   "title": "Besluit van de Vlaamse Regering van 2005-10-14 betreffende de uitvoering wat betreft het landelijk georganiseerd jeugdwerk van het decreet van 7 mei houdende aanvullende subsidies voor tewerkstelling in de culturele sector",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014089/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f31d3188e468244a6a1bbb0f366bdf5f12a96a6b051fbcb79b377a8c5c725c82",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014089/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "9803b4866093cd8d922ad7fe32b5cd4c78c12505b8d16958708a1f8325f4cd25",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014089&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2013-01-01",
   "made": "2005-10-14",
   "gazette": "2005-11-25",
   "numac": 2005036409,
   "document_start": "2005-10-14",
   "document_end": "2024-01-19",
-  "in_force": "2006-06-01",
+  "in_force": "2013-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }

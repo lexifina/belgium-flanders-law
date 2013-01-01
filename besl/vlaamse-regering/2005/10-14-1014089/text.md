@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br /><br />1° de minister : de Vlaamse minister, bevoegd voor het jeugdbeleid;<br /><br />2° de administratie : de entiteit bevoegd voor de uitvoering van het jeugdbeleid;<br /><br />3° het decreet : het decreet van 7 mei 2004 houdende aanvullende subsidies voor tewerkstelling in de culturele sector;<br /><br />4° de adviescommissie : de commissie samengesteld volgens artikel 59 van het decreet op het Vlaamse Jeugdbeleid van 29 maart 2002.
+In dit besluit wordt verstaan onder :<br />1° de minister : de Vlaamse minister, bevoegd voor het jeugdbeleid;<br />2° de administratie : de entiteit bevoegd voor de uitvoering van het jeugdbeleid;<br />3° het decreet : het decreet van 7 mei 2004 houdende aanvullende subsidies voor tewerkstelling in de culturele sector;<br />4° de adviescommissie : de commissie samengesteld volgens artikel 17, § 3, van het decreet van 20 januari 2012 houdende het voeren van een vernieuwd jeugd- en kinderrechtenbeleid, belast met de advisering over de toekenning van variabele subsidies aan de landelijk georganiseerde jeugdverenigingen.
 
 ### ART. 2.
 
