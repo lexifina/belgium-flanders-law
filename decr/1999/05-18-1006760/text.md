@@ -166,6 +166,10 @@ De regering organiseert het toezicht op en de adviesverlening aan de centra voor
 
 Met het oog op de optimalisering van de zorgverlening en van het beheer van het centrum voor geestelijke gezondheidszorg, wordt elk centrum voor geestelijke gezondheidszorg minimaal zesjaarlijks doorgelicht door een visitatiecommissie. Deze visitatiecommissie is minstens samengesteld uit ambtenaren aangevuld met externe deskundigen. De regering bepaalt de opdrachten, de samenstelling en de werking van de visitatiecommissie.
 
+### ART. 35/1.
+
+Onverminderd artikel 13 van de wet van 16 mei 2003 tot vaststelling van de   algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies   en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de   organisatie van de controle door het Rekenhof en onverminderd artikel 21 van het   decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg kunnen, bij   een inbreuk op dit decreet of haar uitvoeringsbesluiten, de subsidies van het   volgende werkjaar proportioneel verminderd worden in verhouding tot de ernst van   de inbreuk en de grootte van de enveloppe.
+
 ## HOOFDSTUK X [... (verv. decr. 5 april 2019, art. 52, I: 8 augustus 2024)]
 
 ### ART. 36.
