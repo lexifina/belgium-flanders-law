@@ -2,16 +2,16 @@
   "codex_id": 1017089,
   "title": "Decreet van 2008-07-18 houdende het voeren van een Vlaams jeugd- en kinderrechtenbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017089/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "85afc2b8f02705e1a10a9331e3d4cf46c4282bc56f157db1f74b87cef1ce1b1c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017089/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "ee1c0c17328f406ceb6bf94da4d1dca69988b8b7d000d68d3947405ff61797a3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017089&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2013-01-01",
   "made": "2008-07-18",
   "gazette": "2008-09-26",
   "numac": 2008036105,
   "document_start": "2009-01-01",
   "document_end": "2012-12-31",
-  "in_force": "2012-01-01",
+  "in_force": "2013-01-01",
   "article_versions": 56,
-  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
