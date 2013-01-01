@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023637,
+  "title": "Ministerieel besluit van 2013-11-05 betreffende de vaststelling van het model van basisregistratie voor de erkende instellingen voor schuldbemiddeling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023637/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "6a90e16b46e0004ed8c993db59354990ea2a5335f32addbd160873210a3c8686",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023637&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2013-11-05",
+  "gazette": "2014-01-21",
+  "numac": 2013207404,
+  "document_start": "2013-01-01",
+  "document_end": "2019-05-16",
+  "in_force": "2013-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
