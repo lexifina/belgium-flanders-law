@@ -2,16 +2,16 @@
   "codex_id": 1016120,
   "title": "Besluit van de Vlaamse Regering van 2007-07-19 betreffende de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied bijzondere educatieve noden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016120/VolledigDocument?datum=2012-09-01",
-  "source_sha256": "6f06f604316c4fa8f48a2c64ed6bf147d3f750700a155f07078e65bb570443c5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016120/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "e10485cb1f3878eb95b3391fdcb7436ff8180aaf05935f38d6896181d499bb79",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016120&param=informatie",
-  "as_of": "2012-09-01",
+  "as_of": "2013-01-01",
   "made": "2007-07-19",
   "gazette": "2007-08-31",
   "numac": 2007036454,
   "document_start": "2007-09-01",
   "document_end": null,
-  "in_force": "2012-09-01",
+  "in_force": "2013-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2012-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
