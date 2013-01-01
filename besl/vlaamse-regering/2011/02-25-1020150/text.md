@@ -16,6 +16,10 @@ In artikel 4, tweede lid, 1°, van het besluit van de Vlaamse Regering van 10 ok
 
 In artikel 7, tweede lid, 1°, artikel 12, tweede lid, 1°, en artikel 18, eerste lid, 1°, van het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers wordt het woord « beheersinstantie » telkens vervangen door het woord « initiatiefnemer ».<br /><br />
 
+### ART. 4.
+
+Aan artikel 3 van het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers worden een derde, een vierde en een vijfde lid toegevoegd, die luiden als volgt :<br />« In afwijking van het eerste lid, 2°, b), moet een dienst voor gezinszorg en aanvullende thuiszorg vanaf de ingangsdatum van zijn erkenning voldoen aan de specifieke erkenningsvoorwaarden in verband met de persoonlijke bijdrage die aangerekend moet worden aan de gebruiker, vermeld in artikel 4, A, 9° en 10°, van bijlage I.<br /><br />In afwijking van het eerste lid, 2°, b), moet een dienst voor logistieke hulp vanaf de ingangsdatum van zijn erkenning voldoen aan de specifieke erkenningsvoorwaarden in verband met de persoonlijke bijdrage die aangerekend moet worden aan de gebruiker, vermeld in artikel 3, A, 6°, van bijlage II.<br /><br />In afwijking van het eerste lid, 2°, b), moet een dienst voor oppashulp vanaf de ingangsdatum van zijn erkenning voldoen aan de specifieke erkenningsvoorwaarden in verband met de onkostenvergoeding die aangerekend moet worden aan de gebruiker, vermeld in artikel 5, A, 5°, van bijlage III. <br />
+
 ### ART. 5.
 
 In artikel 17 van hetzelfde besluit worden tussen de woorden « De thuiszorgvoorziening » en de woorden « of de vereniging » de woorden «, met uitzondering van de dienst voor thuisverpleging, » ingevoegd.<br /><br />
