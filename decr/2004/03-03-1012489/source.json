@@ -2,16 +2,16 @@
   "codex_id": 1012489,
   "title": "Decreet van 2004-03-03 [houdende subsidiëring van hostels, jeugdverblijfcentra, ondersteuningsstructuren en de vzw Algemene Dienst voor Jeugdtoerisme]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012489/VolledigDocument?datum=2009-01-27",
-  "source_sha256": "6b2c2c97f355c1e4c2227a9c6777ce4118e9594b72b234ff94d9973497784d15",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012489/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "5be362f50e257f97af0f5a153efa37d9f355a4c532fac101a2b389a343e8d43b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012489&param=informatie",
-  "as_of": "2009-01-27",
+  "as_of": "2013-01-01",
   "made": "2004-03-03",
   "gazette": "2004-04-02",
   "numac": 2004035458,
   "document_start": "2004-01-01",
   "document_end": "2012-12-31",
-  "in_force": "2009-01-27",
+  "in_force": "2013-01-01",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2009-01-27; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
