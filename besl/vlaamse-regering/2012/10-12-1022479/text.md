@@ -82,11 +82,75 @@ De verdere voorbereiding duurt minstens vierentwintig uur en wordt in een groep 
 
 ## Afdeling 1 De erkenning van het Steunpunt Adoptie
 
+### ART. 16.
+
+Kind en Gezin erkent één Steunpunt Adoptie, voor een hernieuwbare periode van minimaal twee en maximaal vijf jaar, volgens de procedures, vermeld in hoofdstuk 6.<br /><br />
+
+### ART. 17.
+
+Om erkend te worden voldoet het Steunpunt Adoptie, naast de voorwaarden, vermeld in artikel 7, § 3, van het decreet van 20 januari 2012, aan de volgende voorwaarden : <br />1° het beschikt over voldoende en voldoende opgeleid personeel om de taken vermeld in artikel 7, § 2, van het decreet van 20 januari 2012, kwaliteitsvol te kunnen uitvoeren;<br />2° het heeft een duidelijk afgebakend dienstverleningsaanbod dat bestaat uit het kwaliteitsvol organiseren van de informatiesessie, de voorbereiding van kandidaat-adoptanten en een kwaliteitsvol aanbod van nazorg, informatie, expertise en vorming aan alle adoptiebetrokkenen.<br /><br />
+
+### ART. 18.
+
+Om erkend te blijven of opnieuw erkend te worden moet het Steunpunt Adoptie voldoen aan : <br />1° de voorwaarden vermeld in artikel 17 van dit besluit;<br />2° de erkenningsvoorschriften vermeld in artikel 7, § 4, van het decreet van 20 januari 2012;<br />3° de erkenningsvoorschriften vermeld in artikelen 19 tot en met 24 van dit besluit.<br /><br />
+
+### ART. 19.
+
+Het Steunpunt Adoptie voorziet in een laagdrempelig ondersteuningsprogramma inzake nazorg voor alle adoptiebetrokkenen. <br /><br />Het laagdrempelige ondersteuningsprogramma bestaat minstens uit : <br />1° adviesverlening;<br />2° gerichte doorverwijzing naar adoptiealerte hulpverlening;<br />3° ondersteuning. <br /><br />
+
+### ART. 20.
+
+Het Steunpunt Adoptie biedt regelmatig op eigen initiatief of op verzoek vorming aan alle partijen en hulpverleners die bij adoptie betrokken zijn.<br /><br />
+
+### ART. 21.
+
+Het Steunpunt Adoptie betrekt vrijwilligers bij zijn werking, zorgt voor een passend onthaal en passende vorming en ondersteuning van de vrijwilligers zodat ze het vrijwilligerswerk op een kwaliteitsvolle wijze kunnen verrichten.<br /><br />
+
+### ART. 22.
+
+Het Steunpunt Adoptie bewaakt dat zijn medewerkers van goed zedelijk gedrag zijn en vraagt daarvoor minstens bij de aanwerving aan elke nieuwe medewerker een uittreksel uit het strafregister type twee.<br /><br />
+
+### ART. 23.
+
+Het Steunpunt Adoptie bezorgt jaarlijks, uiterlijk op 31 maart een jaarverslag aan het Vlaams Centrum voor Adoptie. Het jaarverslag bevat : <br />1° een activiteitenoverzicht, inclusief een overzicht van de georganiseerde informatiesessie, van de gestarte voorbereidingen en de uitgereikte voorbereidingsattesten, van de verstrekte nazorg en van de activiteiten op het vlak van vorming en expertise, informatie en documentatie;<br />2° een lijst met de personeelsleden van het Steunpunt Adoptie en hun diploma's.<br /><br />
+
+### ART. 24.
+
+Om de kwaliteit van de dienstverlening te garanderen en te bestendigen voldoet, het Steunpunt Adoptie aan de bepalingen van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen. De minister legt de nadere bepalingen vast met betrekking tot de uitvoering en inwerkingtreding van dat decreet.<br /><br />
+
 ## Afdeling 2 Subsidiëring van het Steunpunt Adoptie
 
 ## Onderafdeling 1 Algemene bepalingen
 
+### ART. 25.
+
+Het erkende Steunpunt Adoptie ontvangt jaarlijks, binnen de marge van de begrotingskredieten, een subsidie van 500.000 euro voor personeels- en werkingskosten.<br /><br />Het Steunpunt Adoptie behoudt zijn recht op subsidie zolang het erkend is door Kind en Gezin en voldoet aan de subsidievoorschriften, vermeld in artikelen 27 tot en met 31.<br /><br />
+
+### ART. 26.
+
+§ 1. Per kwartaal en uiterlijk op het einde van de eerste maand van het kwartaal in kwestie keert Kind en Gezin aan het Steunpunt Adoptie een voorschot uit. Het bedrag van dat voorschot bedraagt een vierde van 90 % van de jaarsubsidie. <br /><br />Het saldo van 10 % van de jaarsubsidie wordt uitbetaald in de loop van het daaropvolgende jaar.<br /><br />§ 2. Als het Steunpunt Adoptie ertoe aangemaand wordt om de tekorten weg te werken, als vermeld in artikelen 55 en 56, kan de uitbetaling van de subsidie geheel of gedeeltelijk opgeschort worden.<br /><br />
+
 ## Onderafdeling 2 Subsidievoorschriften
+
+### ART. 27.
+
+Het Steunpunt Adoptie voert een financieel beleid zodat de beschikbare middelen ingezet worden, zowel voor een continue doeltreffende hulp- en dienstverlening, als voor een doelmatige inzet van medewerkers, infrastructuur, uitrusting en goederen. <br /><br />De ontvangen subsidies kunnen niet aangewend worden ter persoonlijke verrijking van de bestuurders, personeelsleden of anderen die betrokken zijn bij de werking van het Steunpunt Adoptie. <br /><br />
+
+### ART. 28.
+
+Het Steunpunt Adoptie houdt een boekhouding bij volgens de toepasselijke regelgeving. <br /><br />Het Steunpunt Adoptie kan voor de taken vermeld in artikelen 19 en 20, een bijdrage vragen. De bijdragen worden vastgelegd in samenspraak met het Vlaams Centrum voor Adoptie en het raadgevend comité van het Vlaams Centrum voor Adoptie.<br /><br />
+
+### ART. 29.
+
+Ten minste 70 % van de subsidie-enveloppe moet besteed worden aan personeelskosten.<br /><br />Onder personeelskosten worden verstaan : <br />1° brutosalaris met inbegrip van wettelijk verplichte werkgeversbijdragen;<br />2° vakantiegeld;<br />3° eindejaarspremie;<br />4° woon-werkverkeer;<br />5° eventueel de volgende extralegale voordelen, als ze opgenomen zijn in de loonfiche : maaltijdcheques, bedrijfswagen, groeps- en hospitalisatieverzekering, gsm, laptop, internet;<br />6° opleidingen, als het gaat om opleidingen die rechtstreeks verband houden met de werking van het Steunpunt Adoptie;<br />7° andere kosten, zoals arbeidsongevallenverzekering, bedrijfsgeneeskundige dienst.<br /><br />
+
+### ART. 30.
+
+Als de reële uitgaven van het Steunpunt Adoptie in een boekjaar minder bedragen dan de subsidie die toegekend is met toepassing van dit besluit, en de bijdragen, vermeld in artikel 28, tweede lid, worden met dat overschot reserves opgebouwd. Die reserves mogen alleen aangewend worden voor dezelfde doeleinden en onder dezelfde voorwaarden als de subsidie.<br /><br />Als de reserves, opgebouwd sedert 1 januari 2013, 50 % van de jaarsubsidie van het Steunpunt Adoptie overschrijden, wordt het bedrag in meer aan Kind en Gezin teruggestort. Jaarlijks kan er maximaal 20 % van de jaarsubsidie als reserve worden opgebouwd. Als de opgebouwde reserves dat percentage overschrijden, wordt het bedrag in meer teruggestort aan Kind en Gezin.<br /><br />Als het Steunpunt Adoptie zijn werking vrijwillig stop zet of zijn erkenning verliest, worden de reserves die overblijven na aftrek van ontslagpremies en van kosten, goedgekeurd door Kind en Gezin, integraal teruggestort. <br /><br />
+
+### ART. 31.
+
+Het is het Steunpunt Adoptie niet toegestaan om te beleggen in effecten, fondsen of andere waardepapieren zonder kapitaalgarantie.<br /><br />
 
 ## HOOFDSTUK 4 De diensten voor maatschappelijk onderzoek [... (opgeh. decr. 3 juli 2015, art. 37, I: 1 juli 2016)]
 
