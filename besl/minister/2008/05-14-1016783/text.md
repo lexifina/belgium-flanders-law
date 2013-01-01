@@ -8,9 +8,13 @@ De Vlaamse minister van Bestuurszaken, Buitenlands Beleid, Media en Toerisme,<br
 
 De bijkomende of specifieke opdrachten bij de diensten van de Vlaamse overheid, zijn de contractuele betrekkingen, vermeld in de bijlage 1 bij dit besluit.<br />
 
+### ART. 1bis.
+
+Contractuele schoonmaak- en/of cateringfuncties die in het kader van   kabinetsondersteuning worden uitgeoefend, zijn bijkomende of specifieke   opdrachten.
+
 ### ART. 2.
 
-§ 1. Voor de contractuele betrekkingen, vermeld in de bijlage 1 bij dit besluit, waarvan de geldelijke regeling niet is bepaald door het Vlaams personeelsstatuut, zoals dit zal worden gewijzigd of vervangen, of door een andere reglementering, geldt de geldelijke regeling, zoals bepaald in de bijlage 1 bij dit besluit.<br /><br />§ 2. Ingeval de geldelijke regeling, zoals bepaald in de bijlage 1 bij dit besluit, de overgang naar een volgende salarisschaal afhankelijk stelt van een aantal jaren effectieve of daarmee gelijk gestelde prestaties in een betrekking of in een salarisschaal, gelden als « gelijkgestelde prestaties », de prestaties of afwezigheidsperioden die voor de geldelijke anciënniteit in aanmerking worden genomen.<br /><br />§ 3. De barema's verbonden aan de salarisschalen A121P, A122P, A255, B101, B102 en B103 zijn de barema's zoals gedefinieerd in de bijlage 2 bij dit besluit.<br /><br />§ 4. De assimilatietabel waarnaar in de bijlage 1 bij dit besluit verwezen wordt met betrekking tot de betrekkingen van occasionele medewerker met een sporttechnische, -pedagogische of -organisatorische kwalificatie bij het Agentschap voor de Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie, is de tabel zoals opgenomen in de bijlage 3 bij dit besluit.
+<P>§ 1. Voor de contractuele betrekkingen, vermeld in de bijlage 1 bij dit   besluit, waarvan de geldelijke regeling niet is bepaald door het Vlaams   personeelsstatuut, zoals dit zal worden gewijzigd of vervangen, of door een   andere reglementering, geldt de geldelijke regeling, zoals bepaald in de bijlage   1 bij dit besluit.</P>  <P>§ 2. Het contractuele personeelslid met een bijkomende of specifieke opdracht   « schoonmaak » en/of « catering », en met één van de salarisschalen die in de   bijlage 1 aan een bijkomende of specifieke opdracht « schoonmaak » en/of «   catering » zijn verbonden, gaat over naar de eerstvolgende salarisschaal waarop   een ambtenaar met dezelfde salarisschaal in het kader van zijn functionele   loopbaan recht heeft, na evenveel jaren als voor deze ambtenaar vereist,   overeenkomstig artikel VI 109, § 1 van het Vlaams personeelsstatuut zoals dit   zal worden gewijzigd of vervangen.</P>  <P>Voor de berekening van het aantal jaren dat nodig is voor de overgang naar de   eerstvolgende salarisschaal tellen mee :<BR>1° voor de personeelsleden die op 1   januari 2013 in dienst zijn met een contract voor een bijkomende of specifieke   opdracht « schoonmaak » en/of « catering » : de perioden van tewerkstelling tot   en met 31 december 2012 bij een overheid zoals gedefinieerd in artikel VI 8, § 3   van het Vlaams personeelsstatuut van 13 januari 2006, zonder herleiding pro rata   van de prestaties, maar berekend aan 1/3 voor de eerste 12 jaar en aan 2/3 voor   het aantal jaren boven de 12 jaar;<BR>2° voor de periode vanaf 1 januari 2013 :   de effectieve of daarmee gelijkgestelde prestaties in een bijkomende of   specifieke opdracht « schoonmaak » en/of « catering » met dezelfde   rangindicie.</P>  <P>Voor de toepassing van dit besluit gelden als « gelijkgestelde prestaties »,   de prestaties of afwezigheidsperioden die voor de geldelijke anciënniteit in   aanmerking worden genomen. </P>  <P>§ 3. De barema's verbonden aan de salarisschalen A121P, A122P, A255, B101,   B102 en B103 zijn de barema's zoals gedefinieerd in de bijlage 2 bij dit   besluit.<BR><BR>§ 4. De assimilatietabel waarnaar in de bijlage 1 bij dit   besluit verwezen wordt met betrekking tot de betrekkingen van occasionele   medewerker met een sporttechnische, -pedagogische of -organisatorische   kwalificatie bij het Agentschap voor de Bevordering van de Lichamelijke   Ontwikkeling, de Sport en de Openluchtrecreatie, is de tabel zoals opgenomen in   de bijlage 3 bij dit besluit.</P>
 
 ### ART. 3.
 
@@ -38,7 +42,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
+			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
 			<p>1.1 Departement Bestuurszaken</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
@@ -55,6 +59,10 @@ Dit besluit treedt in werking op 1 juni 2008.
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
 			<p>&nbsp;</p>
 			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">IT-adviseur e-IB</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">A286</td>
 		</tr>
 		<tr>
 			<td rowspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
@@ -107,25 +115,6 @@ Dit besluit treedt in werking op 1 juni 2008.
 			<p>C121</p>
 			</td>
 		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>1.3 Agentschap voor Binnenlands Bestuur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>projectleider E3POS</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
-			<p>58.112 euro (100%)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>adjunct van de directeur E3POS</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
-			<p>A111</p>
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -139,7 +128,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:131.4pt">
-			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:225pt">
 			<p>B/S-opdrachten</p>
@@ -191,7 +180,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:131.4pt">
-			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:174.2pt">
 			<p>B/S-opdrachten</p>
@@ -580,22 +569,11 @@ Dit besluit treedt in werking op 1 juni 2008.
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
 			<p>3.4 Vlaams Agentschap voor Internationale Samenwerking</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>directeur buitenland</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A211</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>adjunct van de directeur buitenland (kantootverantwoordelijke)</p>
+			<p>adjunct van de directeur buitenland</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
 			<p>&nbsp;</p>
@@ -606,18 +584,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>adjunct van de directeur buitenland (uitdovend stelsel)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A112</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>deskundige buitenland</p>
+			<p>ondersteunend personeel van de vertegenwoordigers in het buitenland die belast zijn met de uitvoering van het Vlaams beleid inzake internationale&nbsp;samenwerking</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
 			<p>&nbsp;</p>
@@ -639,7 +606,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:131.4pt">
-			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:174.2pt">
 			<p>B/S-opdrachten</p>
@@ -759,7 +726,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:131.4pt">
-			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:174.2pt">
 			<p>B/S-opdrachten</p>
@@ -769,33 +736,11 @@ Dit besluit treedt in werking op 1 juni 2008.
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>5.1 Departement Welzijn, Volksgezondheid en Gezin</p>
-			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>adviseur beheersmonitoring</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A211</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>na 6 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A252</p>
-			</td>
-		</tr>
-		<tr>
 			<td rowspan="8" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>5.2 Kind en Gezin</p>
+			<p>5.1 Kind en Gezin</p>
 			</td>
 			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>medische kwaliteitscoördinator</p>
+			<p>provinciaal adviserend arts</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
 			<p>&nbsp;</p>
@@ -874,7 +819,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>5.3 Vlaams Agentschap voor Personen met een Handicap</p>
+			<p>5.2 Vlaams Agentschap voor Personen met een Handicap</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
 			<p>chauffeur beheer en directie</p>
@@ -887,24 +832,19 @@ Dit besluit treedt in werking op 1 juni 2008.
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0">
-			<p>5.4 Zorg en Gezondheid</p>
-			</td>
+			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">5.3 Zorg en Gezondheid</td>
 			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
 			<p>deskundige (gezondheidswerker of verpleegkundige – VRGT-taken)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:228.75pt">
 			<p>B111</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
 			<p>na 8 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>B112</p>
 			</td>
 		</tr>
@@ -914,6 +854,27 @@ Dit besluit treedt in werking op 1 juni 2008.
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>B211</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">5.4 OPZ Rekem</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">project coördinator Forensich kenniscentrum (KeFor)</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:228.75pt">
+			<p>A285</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">wetenschappelijk medewerker senior&nbsp;Forensich kenniscentrum (KeFor)</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:228.75pt">
+			<p>A211</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
+			<p>wetenschappelijk medewerker junior&nbsp; Forensich kenniscentrum (KeFor)</p>
+			</td>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:228.75pt">
+			<p>A111</p>
 			</td>
 		</tr>
 	</tbody>
@@ -929,7 +890,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:131.4pt">
-			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:174.2pt">
 			<p>B/S-opdrachten</p>
@@ -939,7 +900,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
 			<p>6.1 Departement Cultuur, jeugd, Sport en Media</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
@@ -953,29 +914,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>technisch beheerder VCC De Brakke Grond</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
-			<p>C221</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>medewerker (baliebediende) VCC De Brakke Grond</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
-			<p>C111</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="8" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
+			<td rowspan="11" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
 			<p>6.2 Agentschap ter Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
@@ -1012,7 +951,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>specialist ruiterij Bloso-centra</p>
+			<p>specialist ruiterij</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
 			<p>C121</p>
@@ -1034,12 +973,10 @@ Dit besluit treedt in werking op 1 juni 2008.
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>redder Bloso-centra</p>
+			<p>redder</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>HSO-diploma: C121</p>
-
-			<p>geen HSO-diploma: D121</p>
+			<p>C121</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
@@ -1047,18 +984,33 @@ Dit besluit treedt in werking op 1 juni 2008.
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>de contractuele betrekkingen van kok en restaurantpersoneel</p>
+			<p>assistent redder</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>D131</p>
+			<p>D121</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">assistent kok</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">D131</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">kok</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">C121</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">schoonmaak- en cateringpersoneel</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">D111</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">&nbsp;</td>
+		</tr>
+		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:67pt; vertical-align:top; width:174.2pt">
-			<p>occasioneel medewerker met een sporttechnische, sportpedagogische of sportorganisatorische kwalificatie afdelingen Sportkader-opleiding, Sportpromotie en Inspectie en Bloso-centra</p>
+			<p>occasioneel medewerker met&nbsp;sporttechnische, sportpedagogische of sportorganisatorische kwalificatie afdelingen Sportkader-opleiding, Sportpromotie en Inspectie en Bloso-centra</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:67pt; vertical-align:top; width:153pt">
 			<p>verloning overeenkomstig de assimilatietabel als bijlage 3</p>
@@ -1081,6 +1033,24 @@ Dit besluit treedt in werking op 1 juni 2008.
 			<p>&nbsp;</p>
 			</td>
 		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">6.4 KMSKA</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">beeldbeheerder</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">C211</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">schoonmaak- en cateringpersoneel</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">D111</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">6.5 Agentschap Kunsten en Erfgoed</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">schoonmaak- en cateringpersoneel</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">D111</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">&nbsp;</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -1094,7 +1064,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:131.4pt">
-			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:174.2pt">
 			<p>B/S-opdrachten</p>
@@ -1224,7 +1194,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 			<p>7.3 Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>schoonmaak- een bediening in restaurants</p>
+			<p>schoonmaak- en bediening in restaurants</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
 			<p>D111</p>
@@ -1279,7 +1249,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:131.4pt">
-			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:174.2pt">
 			<p>B/S-opdrachten</p>
@@ -1322,13 +1292,11 @@ Dit besluit treedt in werking op 1 juni 2008.
 
 ### BIJLAGE
 
-<p>&nbsp;</p>
-
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:136.8pt">
-			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:174.2pt">
 			<p>B/S-opdrachten</p>
@@ -1379,142 +1347,37 @@ Dit besluit treedt in werking op 1 juni 2008.
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
-			<p>9.2 Agentschap voor Natuur en Bos</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
+			<p>9.2 Instituut voor Natuur- en Bosonderzoek</p>
 			</td>
 			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>schoonmaakpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>uitvoerende functie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>werf- en sectorverantwoordelijke</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D211</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>cateringpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>kok</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D132</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>keukenpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D111</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="5" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
-			<p>9.3 Instituut voor Natuur- en Bosonderzoek</p>
-			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>schoonmaakpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>uitvoerende functie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>werf- en sectorverantwoordelijke</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D211</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>cateringpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>kok</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D132</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>keukenpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
 			<p>gespecialiseerde betrekkingen uitgeoefend door het wetenschappelijk personeel voor de uitvoering van onderzoeksprogramma’s</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
+			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
 			<p>A165, tenzij voldaan is aan de voorwaarden vermeld in artikel VI109, § 2 van het Vlaams personeelsstatuut van 13.01.2006</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
-			<p>9.4 Vlaamse Landmaatschappij</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
+			<p>9.3 Vlaamse Landmaatschappij</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>schoonmaakpersoneel</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
+			<p>schoonmaak- en cateringpersoneel (uitvoerende functie)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>uitvoerende functie</p>
-			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">D111</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>werf- en sectorverantwoordelijke</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D211</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>cateringpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>kok</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D132</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>keukenpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D111</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
 			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
-			<p>9.5 Vlaamse Milieumaatschappij</p>
+			<p>9.4 Vlaamse Milieumaatschappij</p>
 			</td>
 			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
 			<p>schoonmaakpersoneel</p>
@@ -1536,10 +1399,10 @@ Dit besluit treedt in werking op 1 juni 2008.
 		</tr>
 		<tr>
 			<td rowspan="9" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
-			<p>9.6 Vlaamse Regulator van de Electriciteits- en Gasmarkt</p>
+			<p>9.5 Vlaamse Regulator van de Electriciteits- en Gasmarkt</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>juridisch directeur</p>
+			<p>directeur organisatie en beleidsondersteuning</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
 			<p>A224</p>
@@ -1550,7 +1413,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>sociaal-economisch directeur</p>
+			<p>directeur netbeheer</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
 			<p>A224</p>
@@ -1561,7 +1424,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>technisch directeur</p>
+			<p>directeur marktwerking</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
 			<p>A224</p>
@@ -1572,7 +1435,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>technisch toezichthouder</p>
+			<p>toezichthouder netbeheer</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
 			<p>A255</p>
@@ -1583,7 +1446,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>sociaal-economisch toezichthouder</p>
+			<p>toezichthouder marktwerking</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
 			<p>A255</p>
@@ -1594,7 +1457,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>juridisch toezichthouder</p>
+			<p>toezichthouder groene stroom en WKK</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
 			<p>A255</p>
@@ -1605,7 +1468,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 		</tr>
 		<tr>
 			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>kantoorcoördinator</p>
+			<p>celhoofd personeel en financiën</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
 			<p>&nbsp;</p>
@@ -1684,7 +1547,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:136.8pt">
-			<p><!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office"   /-->&nbsp;</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:174.2pt">
 			<p>B/S-opdrachten</p>
@@ -1749,33 +1612,8 @@ Dit besluit treedt in werking op 1 juni 2008.
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
-			<p>10.2 De Scheepvaart</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>adviseur informatie en PR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>A212</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0">
-			<p>conciërge</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>D111</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="9" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
-			<p>10.3 Waterwegen en Zeekanaal</p>
+			<td rowspan="8" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
+			<p>10.2 Waterwegen en Zeekanaal</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
 			<p>schoonmaak- en restaurantpersoneel</p>
@@ -1789,10 +1627,10 @@ Dit besluit treedt in werking op 1 juni 2008.
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>commercieel medewerker afdeling commercieel beheer</p>
+			<p>commercieel medewerker (A2)afdeling commercieel beheer</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
-			<p>C211</p>
+			<p>A211</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
@@ -1825,7 +1663,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 			<p>ICT-manager (A2)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>A211</p>
+			<p>A221</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
 			<p>&nbsp;</p>
@@ -1834,17 +1672,6 @@ Dit besluit treedt in werking op 1 juni 2008.
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
 			<p>regieverantwoordelijke (A2)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>A211</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>commercieel medewerker (A2)afdeling commercieel beheer</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
 			<p>A211</p>
@@ -1959,6 +1786,45 @@ Dit besluit treedt in werking op 1 juni 2008.
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
+
+### BIJLAGE
+
+<table style="width: 100%;" border="1" cellspacing="2" cellpadding="1">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<p>B/S-opdrachten</p>
+			</td>
+			<td>
+			<p>Verloning</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3">12.1. Agentschap voor Innovatie door Wetenschap en Technologie</td>
+			<td>wetenschappelijk adviseur (uitdovend)</td>
+			<td>
+			<p>A282</p>
+			</td>
+		</tr>
+		<tr>
+			<td>directeur financiën en logistiek (uitdovend)</td>
+			<td>
+			<p>A212</p>
+			</td>
+		</tr>
+		<tr>
+			<td>directeur personeel en juridische zaken (uitdovend)</td>
+			<td>
+			<p>A212</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### BIJLAGE
+
+<TABLE border=1 cellSpacing=2 cellPadding=1 width="100%" cols=3>    <TBODY>    <TR>      <TD></TD>      <TD>B/S-opdrachten</TD>      <TD>        <P align=center>Verloning</P></TD></TR>    <TR>      <TD>Administratieve diensten van het Gemeenschapsonderwijs</TD>      <TD>schoonmaak- en restaurantpersoneel</TD>      <TD>        <P align=center>D111</P></TD></TR></TBODY></TABLE>
 
 ## Bijlage 2: barema's salarisschalen
 
