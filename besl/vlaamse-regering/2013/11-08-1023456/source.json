@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023456,
+  "title": "Besluit van de Vlaamse Regering van 2013-11-08 tot vaststelling van het totale aantal subsidiabele uren logistieke hulp voor de diensten voor logistieke hulp voor het jaar 2013",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023456/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "f17726c6e27b14a97f5adbb46b7d8fbca47694c5f61d86c48c1bec37429c53f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023456&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2013-11-08",
+  "gazette": "2013-12-10",
+  "numac": 2013206735,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
