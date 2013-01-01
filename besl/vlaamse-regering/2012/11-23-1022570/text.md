@@ -26,6 +26,10 @@ Aan artikel 121 van hetzelfde besluit wordt een paragraaf 3 toegevoegd,   die lu
 
 <P>Artikel 164 van hetzelfde besluit wordt vervangen door wat volgt :<BR>« Art.   164. Een maandelijkse fietsvergoeding kan worden toegekend aan het personeelslid   dat de verplaatsing van en naar het werk volledig of gedeeltelijk met de fiets   aflegt.<BR></P>  <P>De raad bepaalt het bedrag dat per kilometer wordt toegekend. Dat bedrag is   minimaal gelijk aan 0,15 euro per kilometer en maximaal gelijk aan het bedrag   dat op grond van de fiscale wetgeving en socialezekerheidswetgeving is   vrijgesteld van belasting en sociale bijdragen. ».<BR></P>
 
+### ART. 34.
+
+In artikel 164, eerste lid, van hetzelfde besluit worden de woorden « kan   worden » vervangen door het woord « wordt ».<BR>
+
 ## HOOFDSTUK 2 Wijziging van het besluit van de Vlaamse Regering van 12 november 2010 houdende de minimale voorwaarden voor de personeelsformatie en het mandaatstelsel van het personeel van de openbare centra voor maatschappelijk welzijn en houdende de minimale voorwaarden voor sommige aspecten van de rechtspositieregeling van bepaalde personeelsgroepen van de openbare centra voor maatschappelijk welzijn
 
 ### ART. 50.
