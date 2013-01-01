@@ -87,6 +87,46 @@ In artikel VII 22, § 2 van het Vlaams personeelsstatuut van 13 januari 2006, in
 
 In Deel VII, Titel 2, Hoofdstuk 3, van hetzelfde besluit, wordt afdeling 19, bestaande uit artikel VII 70quater, ingevoegd bij het besluit van de Vlaamse Regering van 9 januari 2009 en gewijzigd bij het besluit van de Vlaamse Regering van 29 mei 2009, opgeheven.<br /><br />
 
+### ART. 3.
+
+In artikel VII 80, § 1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en vervangen bij het besluit van de Vlaamse Regering van 29 mei 2009, wordt de tabel vervangen door wat volgt :<br>
+<br>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp; <!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>&nbsp;Bedrag per kilometer</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>motorvoertuig</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>€ 0,3352 (vanaf 1 juli 2011)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>fiets</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>€ 0,21</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+### ART. 4.
+
+Artikel VII 81 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij besluit van de Vlaamse Regering van 23 mei 2008, wordt opgeheven.<br /><br />
+
 ### ART. 5.
 
 In artikel VII 88, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse Regering van 5 september 2008, wordt de tabel vervangen door wat volgt :<br>
@@ -130,9 +170,17 @@ In artikel VII 88, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de
 
 <p>&nbsp;</p>
 
+### ART. 6.
+
+In artikel VII 90, § 3, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 5 september 2008 en gewijzigd bij het besluit van de Vlaamse Regering van 29 mei 2009, worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid worden de woorden « voor dienstverplaatsingen tussen de woonplaats en de standplaats » opgeheven;<br />2° in het eerste lid wordt de zinsnede « VII 81, § 1 » vervangen door de zinsnede « VII 80, § 1 ».<br />3° in het tweede lid worden de woorden « woonplaats-standplaats » opgeheven.<br /><br />
+
 ### ART. 7.
 
 In artikel VII 91bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 mei 2008 en gewijzigd bij het besluit van de Vlaamse Regering van 9 januari 2009, worden de volgende wijzigingen aangebracht :<br />1° in het eerste lid wordt het getal « 68,50 » vervangen door het getal « 103,50 »;<br />2° het tweede lid wordt opgeheven. <br /><br />
+
+### ART. 8.
+
+In artikel VII 102, § 2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt het getal « 0,15 » vervangen door het getal « 0,21 ».<br /><br />
 
 ### ART. 9.
 
@@ -169,6 +217,10 @@ Artikel 158nonies van hetzelfde besluit, ingevoegd bij het besluit van de Vlaams
 In artikel 158decies van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 14 november 2008, worden paragraaf 1, 3, 4 en 5 opgeheven. <br /><br />
 
 ## HOOFDSTUK 3 Wijziging van het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de arrondissementscommissarissen en de adjunct-arrondissementscommissaris
+
+### ART. 17.
+
+In artikel 117/2, § 2 van het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de arrondissementscommissarissen en de adjunct-arrondissementscommissaris, ingevoegd bij het besluit van de Vlaamse Regering van 18 juni 2010, wordt het getal « 0,15 » vervangen door het getal » 0,21 ».<br /><br />
 
 ### ART. 18.
 
