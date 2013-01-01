@@ -10,7 +10,7 @@ Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffend
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />In afwijking van het eerste lid wordt het opleidingsprofiel voor de modulaire opleiding Begeleider in de kinderopvang uiterlijk tijdens het schooljaar 2008-2009 geëvalueerd. De opleidingsprofielen voor de modulaire opleidingen jeugd- en gehandicaptenzorg en tandartsassistent worden uiterlijk tijdens het schooljaar 2011-2012 geëvalueerd. De opleidingsprofielen voor de modulaire opleidingen Interculturele Medewerker, Logistiek Assistent, Verzorgende en Zorgkundige worden uiterlijk tijdens het schooljaar 2014-2015 geëvalueerd. Het opleidingsprofiel voor de modulaire opleiding Begeleider-animator voor Bejaarden wordt uiterlijk tijdens het schooljaar 2015-2016 geëvalueerd.
+De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar   na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die   evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het   decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<BR><BR>In   afwijking van het eerste lid wordt het opleidingsprofiel voor de modulaire   opleiding Begeleider in de kinderopvang uiterlijk tijdens het schooljaar   2008-2009 geëvalueerd. De opleidingsprofielen voor de modulaire opleidingen   jeugd- en gehandicaptenzorg en tandartsassistent worden uiterlijk tijdens het   schooljaar 2011-2012 geëvalueerd. De opleidingsprofielen voor de modulaire   opleidingen Interculturele Medewerker, Logistiek Assistent, Verzorgende en   Zorgkundige worden uiterlijk tijdens het schooljaar 2014-2015 geëvalueerd. Het   opleidingsprofiel voor de modulaire opleiding Begeleider-animator voor Bejaarden   wordt uiterlijk tijdens het schooljaar 2015-2016 geëvalueerd. De   uitbreidingsmodules van het opleidingsprofiel, vastgelegd in bijlage III, worden   uiterlijk tijdens het schooljaar 2016-2017 geëvalueerd.
 
 ### ART. 2/1.
 
@@ -42,7 +42,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE III
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/10/21_1.pdf#page=58" title=" Bijlage III" target="_blank" class="pdf">Bijlage III</a>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/05_1.pdf#page=47">Bijlage   III</A></P>
 
 ### BIJLAGE IV
 
