@@ -25,7 +25,7 @@ Besluit :<br>
 
 ### ART. 1.
 
-Een voorontwerp van decreet waarvoor de verplichting geldt, bedoeld in artikel 6 van het decreet van 18 juli 2008 houdende het voeren van een Vlaams jeugd- en kinderrechtenbeleid, kan door de Vlaamse Regering enkel worden goedgekeurd als het vergezeld is van een kind- en jongere-effectrapport dat is opgesteld overeenkomstig de bepalingen van het decreet. De minister, bevoegd voor de coördinatie van de rechten van het kind, verstrekt daartoe een methodiek en ziet toe op de naleving van de kind- en jongere-effectrapportageverplichting. Wanneer een reguleringsimpactanalyse wordt gemaakt, wordt het kind- en jongere-effectrapport geïntegreerd in deze reguleringsimpactanalyse. <br /><br />
+Een voorontwerp van decreet waarvoor de verplichting geldt, bedoeld in artikel 4 van het decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid, kan door de Vlaamse Regering enkel worden goedgekeurd als het vergezeld is van een kind- en jongere-effectrapport dat is opgesteld overeenkomstig de bepalingen van het decreet. De minister, bevoegd voor de coördinatie van de rechten van het kind, verstrekt daartoe een methodiek en ziet toe op de naleving van de kind- en jongere-effectrapportageverplichting. Wanneer een reguleringsimpactanalyse wordt gemaakt, wordt het kind- en jongere-effectrapport geïntegreerd in deze reguleringsimpactanalyse. <br /><br />
 
 ### ART. 2.
 
