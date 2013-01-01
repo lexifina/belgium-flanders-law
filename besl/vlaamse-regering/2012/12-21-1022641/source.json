@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022641,
+  "title": "Besluit van de Vlaamse Regering van 2012-12-21 houdende de vaststelling van de wijze van communicatie in het kader van het bestuurlijk toezicht op de lokale en provinciale besturen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022641/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "f1a12e3c01aa73e12666608fce4df3a2ac190df2539e427e9ba1a3239dbdad00",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022641&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2012-12-21",
+  "gazette": "2013-01-22",
+  "numac": 2013035039,
+  "document_start": null,
+  "document_end": "2014-12-31",
+  "in_force": "2013-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
