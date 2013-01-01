@@ -2,16 +2,16 @@
   "codex_id": 1017371,
   "title": "Besluit van de Vlaamse Regering van 2008-10-10 betreffende de mestverwerking",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017371/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "e0ba606a95e03fa9e41a9d96a76445e64fa0f607bc139e92833b3a924758ff9f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017371/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "2c08782aef5b687d8a60979190852d7f32ede69aae06d9f3ed210682ff600974",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017371&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2013-01-01",
   "made": "2008-10-10",
   "gazette": "2008-12-19",
   "numac": 200836443,
   "document_start": "2007-01-01",
   "document_end": "2016-12-31",
-  "in_force": "2009-01-01",
+  "in_force": "2013-01-01",
   "article_versions": 34,
-  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
