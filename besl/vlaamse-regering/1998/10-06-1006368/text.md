@@ -20,7 +20,7 @@ De ambtenaren van het agentschap oefenen de bevoegdheden uit die verbonden zijn 
 
 ### ART. 3.
 
-De vereisten, bedoeld in artikel 5, § 1, eerste en tweede lid, van de Vlaamse Wooncode, worden beoordeeld aan de hand van de delen B en C van het technisch verslag, gevoegd als bijlage I bij dit besluit. Als de woning voor 1 februari 2008 gebouwd of vergund is als een studio, dan wordt de netto-vloeroppervlakte van een afzonderlijke bad- of doucheruimte, met een maximum van 3m2, opgeteld bij de totale netto-vloeroppervlakte van de woonlokalen, vermeld in deel C, rubriek 23, van het technisch verslag.<br /><br />De gewestelijk ambtenaar stelt in zijn advies, bedoeld in artikel 15, § 1, eerste lid, van de Vlaamse Wooncode, aan de burgemeester voor de woning ongeschikt te verklaren als de woning volgens het technisch verslag een eindscore van minstens 15 punten behaalt, waarbij een gebrek van categorie I geldt voor 1 punt, van categorie II voor 3 punten, van categorie III voor 9 punten en van categorie IV voor 15 punten.<br /><br />Als een controleverslag van de brandweer uitwijst dat er ernstige brandveiligheidsproblemen zijn, wordt dit opgenomen en meegerekend in het technisch verslag. Als er nog geen controleverslag van de brandweer is opgemaakt, maar er zijn vermoedens dat de woning ernstige brandveiligheidsproblemen vertoont of dat de woning wegens brandveiligheidsproblemen ontruimd moet worden, vermeldt de gewestelijke ambtenaar dat in zijn advies aan de burgemeester. Die kan hiermee rekening houden bij de opmaak van zijn besluit.<br />
+De vereisten, bedoeld in artikel 5, § 1, eerste en tweede lid, van de Vlaamse Wooncode, worden beoordeeld aan de hand van de delen B en C van het technisch verslag, gevoegd als bijlage I bij dit besluit.<br /><br />De gewestelijk ambtenaar stelt in zijn advies, bedoeld in artikel 15, § 1, eerste lid, van de Vlaamse Wooncode, aan de burgemeester voor de woning ongeschikt te verklaren als de woning volgens het technisch verslag een eindscore van minstens 15 punten behaalt, waarbij een gebrek van categorie I geldt voor 1 punt, van categorie II voor 3 punten, van categorie III voor 9 punten en van categorie IV voor 15 punten.<br /><br />Als een controleverslag van de brandweer uitwijst dat er ernstige brandveiligheidsproblemen zijn, wordt dit opgenomen en meegerekend in het technisch verslag. Als er nog geen controleverslag van de brandweer is opgemaakt, maar er zijn vermoedens dat de woning ernstige brandveiligheidsproblemen vertoont of dat de woning wegens brandveiligheidsproblemen ontruimd moet worden, vermeldt de gewestelijke ambtenaar dat in zijn advies aan de burgemeester. Die kan hiermee rekening houden bij de opmaak van zijn besluit.<br /><br />Als de woning niet op elke bouwlaag uitgerust is met een rookmelder als vermeld in het decreet van 1 juni 2012 houdende de beveiliging van woningen door optische rookmelders, wordt dat opgenomen in een opmerking bij deel C van het technisch verslag.
 
 ### ART. 4.
 
@@ -96,7 +96,7 @@ De conformiteit van de woningen met de vereisten inzake veiligheid, gezondheid, 
 
 ### ART. 18.
 
-De conformiteit van een woning als vermeld in artikel 7, eerste lid, van de Vlaamse Wooncode, wordt beoordeeld aan de hand van de delen B, C, en D van het technisch verslag, gevoegd als bijlage I bij dit besluit.<br /><br />Onverminderd de toepassing van artikel 10 van de Vlaamse Wooncode, wordt de woning niet conform bevonden:<br />1° als ze volgens het technisch verslag een eindscore van 15 punten of meer behaalt, waarbij een gebrek van categorie I geldt voor 1 punt, van categorie II voor 3 punten, van categorie III voor 9 punten en van categorie IV voor 15 punten;<br />2° als de omvang van de woning niet voldoet aan de vereisten inzake woningbezetting, bedoeld in artikel 5.
+De conformiteit van een woning als vermeld in artikel 5, § 2, en artikel 7, eerste lid, van de Vlaamse Wooncode, wordt beoordeeld aan de hand van de delen B, C, en D van het technisch verslag, gevoegd als bijlage I bij dit besluit.<br /><br />Onverminderd de toepassing van artikel 10 van de Vlaamse Wooncode, wordt de woning niet conform bevonden:<br />1° als ze volgens het technisch verslag een eindscore van 15 punten of meer behaalt, waarbij een gebrek van categorie I geldt voor 1 punt, van categorie II voor 3 punten, van categorie III voor 9 punten en van categorie IV voor 15 punten;<br />2° als de omvang van de woning niet voldoet aan de vereisten inzake woningbezetting, bedoeld in artikel 5;<br />3° als ze niet op elke bouwlaag uitgerust is met een rookmelder als vermeld in het decreet van 1 juni 2012 houdende de beveiliging van woningen door optische rookmelders.<br /><br />De bepaling van het tweede lid, 3°, geldt niet zolang de termijn, vermeld in artikel 4, tweede of derde lid, van het decreet van 1 juni 2012 houdende de beveiliging van woningen door optische rookmelders, niet verstreken is.
 
 ## AFDELING 3 PROCEDURE VOOR HET VERKRIJGEN VAN EEN CONFORMITEITSATTEST
 
@@ -285,7 +285,7 @@ De Vlaamse minister bevoegd voor huisvesting, is belast met de uitvoering van di
 
 ### BIJLAGE 1
 
-(niet opgenomen)
+<a href="http://www.ejustice.just.fgov.be/mopdf/2011/12/05_1.pdf#page=59" title=" Formulier" target="_blank" class="pdf">Formulier</a>
 
 ### BIJLAGE II.
 
