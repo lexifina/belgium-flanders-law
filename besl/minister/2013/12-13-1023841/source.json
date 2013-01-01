@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023841,
+  "title": "Ministerieel besluit van 2013-12-13 tot wijziging van de subsidiebedragen voor kinderopvang in diverse ministeriële besluiten ter uitvoering van het vierde Vlaams Intersectoraal Akkoord voor 2013",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023841/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "14c78d1be032c6da361da47fff14402b27d40b8008ad207fd41e06a2d559e813",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023841&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2013-12-13",
+  "gazette": "2014-02-17",
+  "numac": 2014200914,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
