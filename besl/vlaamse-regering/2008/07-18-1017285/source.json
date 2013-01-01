@@ -2,16 +2,16 @@
   "codex_id": 1017285,
   "title": "Besluit van de Vlaamse Regering van 2008-07-18 houdende de procedure voor de planning, de vaststelling en de goedkeuring van de uitvoeringsprogramma's in het kader van de planmatige realisatie van sociale woonprojecten [... (opgeh. BVR 21 december 2012, art. 43, I: 1 januari 2013)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017285/VolledigDocument?datum=2012-12-31",
-  "source_sha256": "7dda58d0dc1f2cf06b4321a2900ab4e498a69c387a0535c337798643ed6992bd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017285/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "1a90b1d75e7cc1105d4c989d49c34e6159c17670d27dbaca492e9ff9582448ea",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017285&param=informatie",
-  "as_of": "2012-12-31",
+  "as_of": "2013-01-01",
   "made": "2008-07-18",
   "gazette": "2008-11-13",
   "numac": 2008204011,
   "document_start": "2008-11-23",
   "document_end": "2013-12-31",
-  "in_force": "2012-12-31",
-  "article_versions": 67,
-  "record_form": "consolidated version as in force on 2012-12-31; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-01-01",
+  "article_versions": 70,
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
