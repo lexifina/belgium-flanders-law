@@ -2,16 +2,16 @@
   "codex_id": 1008258,
   "title": "Ministerieel besluit van 2001-07-09 houdende de voorwaarden voor het organiseren van en de bepalingen over de toestemming voor en de subsidiëring van buitenschoolse opvang in aparte lokalen in kinderdagverblijven",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008258/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "347f70c8187cd2056b02ba3ef1b33bdb2d69597abc46f4c5253bff54c163ff7f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008258/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "42306c5e33b5ae1e70b8da292282d86b542655a292d451902c701adaf00f8df9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008258&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2013-01-01",
   "made": "2001-07-09",
   "gazette": "2001-08-29",
   "numac": 2001035974,
   "document_start": "2001-01-01",
   "document_end": "2014-03-31",
-  "in_force": "2012-01-01",
+  "in_force": "2013-01-01",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }

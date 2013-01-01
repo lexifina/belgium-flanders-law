@@ -86,9 +86,9 @@ De toestemming voor het organiseren van buitenschoolse opvang in aparte lokalen 
 <br>
 § 4. Een verlenging van de subsidiÙring loopt altijd over vier kwartalen.<br>
 <br>
-§ 5. De forfaitaire subsidiëring gebeurt jaarlijks per veertien plaatsen en wordt voor een capaciteit van minder dan veertien plaatsen of meer dan veertien plaatsen pro rata berekend.<br>
+§ 5. De forfaitaire subsidiëring gebeurt jaarlijks per veertien plaatsen en wordt voor een capaciteit van minder dan veertien plaatsen of van meer dan veertien plaatsen pro rata berekend.<br>
 <br>
-In 2012 bedraagt het forfaitaire bedrag per veertien plaatsen, georganiseerd door een openbaar bestuur, 27.565,32 euro en bedraagt het forfaitaire bedrag per veertien plaatsen, georganiseerd door een privaat bestuur, 27.803,72 euro.<br>
+In 2013 bedraagt het forfaitaire bedrag per veertien plaatsen, georganiseerd door een openbaar bestuur, 28.148,74 euro en bedraagt het forfaitaire bedrag per veertien plaatsen, georganiseerd door een privaat bestuur, 28.994,77 euro.<br>
 <br>
 § 6. Een aanvullende subsidie in het kader van de werkdrukvermindering wordt toegekend, naar rato van de arbeidsprestaties, voor elk door Kind en Gezin gesubsidieerd personeelslid (1VTE) in de erkende kinderdagverblijven en diensten voor onthaalouders, voor elke coördinator en elke kindbegeleider in de initiatieven voor buitenschoolse opvang, voor elke door Kind en Gezin gesubsidieerde begeleider in de buitenschoolse opvang in aparte lokalen in kinderdagverblijven, voor de door Kind en Gezin gesubsidieerde personeelsleden binnen het experimentele kader van projecten voor kinderopvang in buurt- en nabijheidsdiensten en in lokale diensten van buurtgerichte opvang, voor de personeelsleden met een gewezen DAC-statuut en voor elk door Kind en Gezin gesubsidieerd personeelslid in een gemandateerde voorziening.<br>
 <br>
@@ -133,7 +133,7 @@ Kind en Gezin neemt na onderzoek van het beroep uiterlijk vijfenveertig dagen na
 
 ### ART. 24.
 
-Het forfaitaire bedrag, vermeld in dit besluit, wordt elk jaar op 1   januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer   tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan   voorafgaande kalenderjaar. Onder gezondheidsindexcijfer wordt het   prijsindexcijfer verstaan dat berekend wordt voor de toepassing van artikel 2   van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6   januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij   de wet van 30 maart 1994 houdende sociale bepalingen. In 2011 worden de   bedragen, vermeld in dit besluit, op 1 januari verhoogd met de procentuele   stijging van het gezondheidsindexcijfer tussen 1 november van het kalenderjaar   2008 en 1 november van het kalenderjaar 2010.<BR><BR>In afwijking van het eerste   lid wordt het forfaitair bedrag voor plaatsen, georganiseerd door een openbaar   bestuur, vermeld in artikel 17, § 5, niet geïndexeerd in 2012 en wordt het   forfaitair bedrag voor plaatsen, georganiseerd door een privaat bestuur, vermeld   in artikel 17, § 5, niet geïndexeerd in 2012 en in 2013.
+<P>Het forfaitaire bedrag voor 2013, vermeld in artikel 17, § 5, voor plaatsen,   georganiseerd door een openbaar bestuur, en het forfaitaire bedrag voor 2013,   vermeld in artikel 17, § 5, voor plaatsen, georganiseerd door een privaat   bestuur, worden niet geïndexeerd in 2013.</P>
 
 ### ART. 25.
 
