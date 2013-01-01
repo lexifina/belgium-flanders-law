@@ -2,16 +2,16 @@
   "codex_id": 1014107,
   "title": "Besluit van de Vlaamse Regering van 2005-10-28 tot oprichting van het intern verzelfstandigd agentschap Vlaams Agentschap voor Internationale Samenwerking",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014107/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "fec638c73ed2ed59d79cc5538989ba0bdb763ea205f6c17c1de1c28b967c2138",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014107/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "caea380076da184d945f6e199979d6e53b831e6a41d8722f06fa678b3d45beb6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014107&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2013-01-01",
   "made": "2005-10-28",
   "gazette": "2005-11-30",
   "numac": 2005036455,
   "document_start": "2006-04-01",
   "document_end": "2014-03-31",
-  "in_force": "2006-06-01",
+  "in_force": "2013-01-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }

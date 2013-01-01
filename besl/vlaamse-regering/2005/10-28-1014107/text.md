@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Binnen het Vlaams ministerie van Buitenlands Beleid, Buitenlandse Handel, Internationale Samenwerking en Toerisme wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de naam Vlaams Agentschap voor Internationale Samenwerking.<br /><br />Het Vlaams Agentschap voor Internationale Samenwerking wordt opgericht voor de uitvoering van het beleid inzake internationale samenwerking.<br /><br />Het agentschap behoort tot het beleidsdomein Buitenlands Beleid, Buitenlandse Handel, Internationale Samenwerking en Toerisme.
+Binnen het Vlaams ministerie internationaal Vlaanderen wordt een intern   verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de naam   Vlaams Agentschap voor Internationale Samenwerking.<BR><BR>Het Vlaams Agentschap   voor Internationale Samenwerking wordt opgericht voor de uitvoering van het   beleid inzake internationale samenwerking.<BR><BR>Het agentschap behoort tot het   beleidsdomein internationaal Vlaanderen.
 
 ### ART. 2.
 
