@@ -594,6 +594,10 @@ In artikel 2 van het decreet van 4 april 2003 betreffende de herstructurering va
 
 In artikel 3 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2004, 16 juni 2006, 29 juni 2007 en van 30 april 2009, wordt het dertiende streepje vervangen door wat volgt :<br />« - specificatie van een graad : de toevoeging van de woorden « of Arts », « of Science », « of Laws », « of Medicine », « of Veterinary Science », « of Veterinary Medicine » of « of Philosophy » aan een graad; ».<br /><br />
 
+### ART. V.26.
+
+In artikel 5 van hetzelfde decreet wordt punt 9° opgeheven.<br /><br />
+
 ### ART. V.27.
 
 In artikel 9bis, eerste lid, van hetzelfde decreet wordt het punt 5°, gewijzigd bij het decreet van 16 juni 2006, opgeheven.<br /><br />
@@ -743,6 +747,10 @@ In artikel 7, § 1, 2°, f), van het decreet van 14 maart 2008 betreffende de fi
 ### ART. V.62.
 
 In hetzelfde decreet wordt een artikel 25ter ingevoegd, dat luidt als volgt :<br />« Art. 25ter. De toepassing van de bepalingen van artikel 24, § 1 tot met § 4, en van artikel 25, § 1, 1°, 2° en 3°, wordt opgeschort ten aanzien van de beslissingen die instellingen nemen met betrekking tot de afbouw of de stopzetting van opleidingen of met betrekking tot herstructurering zoals bedoeld in artikel 25, die uitwerking hebben met ingang van de academiejaren 2011-2012 en 2012-2013. ».<br /><br />
+
+### ART. V.63.
+
+In artikel 38, § 1, van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° punt 5° wordt opgeheven;<br />2° in punt 6°, gewijzigd bij het decreet van 18 december 2009, wordt het bedrag « 1.545.521,92 » vervangen door het bedrag « 1.962.442,72 ».<br /><br />
 
 ### ART. V.64.
 
