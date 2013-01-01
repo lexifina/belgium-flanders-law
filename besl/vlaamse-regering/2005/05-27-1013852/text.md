@@ -4,35 +4,35 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br /><br />1° de minister: het lid van de Vlaamse regering, bevoegd voor het toerisme;<br /><br />2° het decreet: het decreet van 30 juni 2000 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2000, inzonderheid op art. 24, zoals gewijzigd door het decreet van 24 december 2004 houdende bepalingen tot begeleiding van de begroting 2005, inzonderheid artikel 11;<br /><br />3° overheid: elk openbaar bestuur op lokaal, provinciaal, gewestelijk, federaal of supranationaal niveau of een door een dergelijk bestuur opgerichte rechtspersoon;<br /><br />4° begunstigde: de ontvanger van de toegekende subsidie. Hij mag voor de realisatie van het project een samenwerkingsverband aangaan met andere overheden en rechtspersonen, al of niet begunstigden, zonder dat dit samenwerkingsverband evenwel in de plaats treedt van de erin coöpererende begunstigde of begunstigden;<br /><br />5° project: de realisatie, conform de doelstellingen van het decreet, zoals beschreven in de aanvraag. Die realisatie kan onder meer de handelingen en het personeel bevatten die noodzakelijk zijn om het project voor te bereiden, te ontwerpen, te begeleiden, te realiseren en te coördineren, daarin worden de handelingen begrepen en het personeel dat nodig is voor studies, prospecties, onderzoeken, consultancy en promotie;<br /><br />6° projectsubsidie: de subsidie die toegekend wordt ter ondersteuning van de specifieke kosten die voortvloeien uit het project;<br /><br />7° toegekende subsidie: het bedrag van de projectsubsidie dat maximaal kan worden uitbetaald wanneer voldaan is aan alle voorwaarden van dit besluit en de subsidiebeslissing;<br /><br />8° verantwoorde subsidie: het bedrag van de projectsubsidie dat definitief kan worden uitbetaald na controle van het verantwoordingsdossier;<br /><br />9° eigen financiële inbreng: al de financiële middelen die door de begunstigde worden ingebracht als cofinanciering van het gesubsidieerde project met uitzondering van andere subsidies die ten laste komen van de begroting van de Vlaamse overheid. De financiële middelen die door een derde, hetzij een overheid of een andere rechtspersoon, worden bestemd om zelf een deel van het project te realiseren, al of niet in het kader van een samenwerkingsverband, worden gelijkgesteld met de eigen financiële inbreng;<br /><br />10° resultatenrekening: een boekhoudkundig overzicht van alle opbrengsten en kosten betreffende het project;<br /><br />11° Toerisme Vlaanderen: het Intern verzelfstandigd agentschap Toerisme Vlaanderen opgericht bij decreet van 19 maart 2004;<br /><br />12° het strategisch plan van de kust: het Strategisch Beleidsplan voor Toerisme en Recreatie aan de Kust (2002), zoals goedgekeurd door de Provincieraad van West-Vlaanderen op 31 januari 2002 en de Raad van Bestuur van de VOI Toerisme Vlaanderen op 6 februari 2002;<br /><br />13° de Stuurgroep: de Stuurgroep opgericht bij artikel 3, § 4 van dit besluit;<br /><br />14° het Kustactieplan: het programma tot toekenning van subsidies overeenkomstig de bepalingen van dit besluit;<br /><br />15° de subsidiabele kosten: de projectkosten die voor een subsidie in het kader van dit besluit in aanmerking komen<br /><br />16° het kustlogo: het logo gecreëerd door v.z.w. Westtoerisme, ter uitvoering van artikel 22, § 2, 1°, b) 1) van het Besluit van de Vlaamse Regering van 8 december 2000 houdende vaststelling van de nadere regels betreffende de subsidieverlening voor projecten in het kader van het Kustactieplan.
+...
 
 ## HOOFDSTUK II OPROEP, AANVRAAG EN SELECTIECRITERIA
 
 ### ART. 2.
 
-§ 1. Jaarlijks wordt door Toerisme Vlaanderen, in direct overleg met de Stuurgroep, een brede oproep geformuleerd tot indiening van projecten in het kader van dit besluit. De oproep vermeldt uitdrukkelijk de uiterste indieningsdatum, de uit artikel 2 van dit besluit volgende ontvankelijkheidsvoorwaarden, de thema's die dat jaar zullen betoelaagd worden en de specifieke aandachtspunten voor de indiening van de projecten.<br /><br />De oproep kan zich richten tot elke overheid, private rechtspersoon of tot een specifieke groep van begunstigden.<br /><br />§ 2. Kandidaat-projecten hebben betrekking op het doelgebied Vlaamse Kust, dit zijn op de eerste plaats de tien Vlaamse kustgemeenten.<br /><br />Kandidaat-projecten kunnen ook worden toegewezen aan het geografisch ruimere hinterland van de Vlaamse kust, zijnde de stad Brugge en de toeristische regio's Westhoek' en Brugs Ommeland'. Deze uitbreiding geldt enkel mits een duidelijk kustgerelateerd karakter van het kandidaat-project én de evaluatie ervan als versterkende troef voor het kusttoerisme.<br /><br />§ 3. Elke aanvrager van een subsidie moet bij zijn aanvraag alle gegevens vermelden of toevoegen die voor de evaluatie van het project relevant zijn.<br /><br />Volgende gegevens dienen vermeld te worden:<br /><br />- de identiteit van de aanvrager;<br /><br />- de specifiëring van het doelgebied waarop het project van toepassing is;<br /><br />- een beknopte beschrijving van de concreet geformuleerde doelstellingen en het belang van het project waarvoor de subsidie wordt aangewend;<br /><br />- de periode van realisatie en de verwachte duur van het project;<br /><br />- een omschrijving van de werkzaamheden; bij bouwinitiatieven : plannen, gedetailleerde ramingen, zo mogelijk gestaafd met offertes. Er wordt een totale raming van het project verwacht en een raming van de betoelaagbare delen; een projectplan of stappenplan met timing vanaf beslissing tot realisatie van het project;<br /><br />- een beschrijving van het gewenste en verifieerbare eindresultaat;<br /><br />- een financieringsplan waaruit de bestemming van de aangevraagde financiële steun blijkt, de financierders moeten verifieerbaar zijn in de begroting en de jaarrekeningen op afzonderlijke posten;<br /><br />- een begroting waarin voor het project in kwestie een zo gedetailleerd mogelijk overzicht wordt gegeven van a) alle geraamde kosten; b) alle verwachte opbrengsten, inclusief alle reeds verkregen, aangevraagde of nog aan te vragen subsidies van om het even welke overheid. Dit tezamen met een overzicht van de eigen financiële inbreng én het duidelijk aangeven van de gevraagde subsidie;<br /><br />- indien de aanvrager rechtspersoonlijkheid naar privaat recht bezit: een exemplaar van de statuten en, voor zover van toepassing, van de balansen, resultatenrekeningen, jaarverslagen van de laatste twee jaren;<br /><br />- indien een samenwerkingsverband wordt opgezet: de vermelding van de personen, verenigingen of instanties waarmee dit gebeurt, evenals de onderlinge afspraken over de uitvoering en de financiering van de activiteit;<br /><br />- indien er een of meerdere co-financierders zijn: een lijst van alle co-financierders en een afschrift van de overeenkomst tussen deze co-financierders en de aanvrager;<br /><br />- indien de aanvrager voor de opmaak van het plan overheidssubsidies van een andere instelling dan Toerisme Vlaanderen ontvangt: de vermelding van deze andere subsidiërende overheidsinstelling of overheidsinstellingen en de subsidiebedragen die door deze instellingen worden toegekend;<br /><br />- indien de aanvraag tot financiële steun betrekking heeft op infrastructuursubsidies: een afschrift van de eigendomstitel en eventuele huurcontracten, plus een verklaring van het college van burgemeester en schepenen waaruit blijkt dat aan de stedenbouwkundige voorschriften voldaan is. Voor subsidies beneden 50.000 euro volstaat een attest voor boven de 50.000 euro zijn een attest en later een bouwvergunning noodzakelijk;<br /><br />- indien de aanvraag tot financiële steun betrekking heeft op personeelssubsidies: een ingevuld en ondertekend toelichtingsformulier ter beschikking gesteld door Toerisme Vlaanderen<br /><br />§ 4. Toerisme Vlaanderen moet de in § 3 genoemde gegevens, die door deze als relevant beschouwd worden voor de beoordeling van de aanvraag, maar die niet spontaan door de aanvrager werden ingediend, zelf opvragen binnen een periode van dertig kalenderdagen vanaf de ontvangst van de aanvraag. De aanvrager voldoet daaraan binnen een periode van vijftien kalenderdagen.<br /><br />Naast de in § 3 genoemde gegevens kan Toerisme Vlaanderen bovendien alle aanvullende inlichtingen vragen die zij nodig acht om de aanvraag te beoordelen.
+...
 
 ### ART. 3.
 
-§ 1. De aanvragen worden voorgelegd aan een jury, die is samengesteld uit acht deskundigen, aangeduid door de minister op basis van hun onafhankelijkheid en multidisciplinaire achtergrond. Het Hoofd van het Agentschap Toerisme Vlaanderen wordt als werkend lid aan de jury toegevoegd.<br /><br />De voorzitter van de jury wordt door de minister onder de leden van de jury aangeduid.<br /><br />Er wordt door de juryleden een intern reglement van werking en deontologie opgemaakt en ter goedkeuring voorgelegd aan de minister.<br /><br />In de jury worden, op aanduiding door de minister, tevens een aantal waarnemers opgenomen, zonder stemrecht bij de door de jury te nemen beslissingen: de projectcoördinator Kustactieplan bij het IVA Toerisme Vlaanderen en een afgevaardigde van de minister - kabinetsmedewerker. Het secretariaat wordt uitgeoefend door Toerisme Vlaanderen.<br /><br />§ 2. Toerisme Vlaanderen bezorgt de ontvankelijk verklaarde aanvragen aan de minister én aan de voorzitter van de jury met het verzoek aan de jury om de minister advies uit te brengen binnen de dertig kalenderdagen. Toerisme Vlaanderen bezorgt de voorzitter van de jury en de minister tegelijkertijd ook een gemotiveerd overzicht van de eventueel door Toerisme Vlaanderen niet-ontvankelijk verklaarde aanvragen. De lijst van niet-ontvankelijk verklaarde aanvragen wordt, inclusief een motivatie, op haar eerste vergadering als proces-verbaal aan de jury ter goedkeuring voorgelegd.<br /><br />Het advies van de jury aan de minister omvat een gemotiveerde bespreking van de ingediende aanvragen, een voorstel van rangorde en quotering van te selecteren projecten en een voorstel van verdeling van de subsidies over de geselecteerde projecten, in acht genomen de bepalingen van artikel 5.<br /><br />De voorzitter van de jury kan de aanvrager uitnodigen om zijn aanvraag mondeling te komen toelichten.<br /><br />§ 3. De selectiecriteria, op basis waarvan de jury de aanvragen beoordeelt, hebben betrekking op de volgende gegevens:<br /><br />1° het beantwoorden aan de doelstellingen, zoals bepaald in het decreet en, in bijkomende orde, het Strategisch Beleidsplan voor Toerisme en Recreatie aan de Kust;<br /><br />2° de algemene kwaliteit van het project en van de aanvrager;<br /><br />3° de wijze waarop het project bijdraagt aan diverse elementen die van belang zijn voor de bevordering van het kusttoerisme. Hierbij wordt vooral verwezen naar volgende selectie- en evaluatiecriteria:<br /><br />a) structuurbepalend en integrerend zijn;<br /><br />b) de toeristische bestemming Vlaamse Kust consequent herpositioneren;<br /><br />c) kwaliteitsversterkend zijn, met name inzake belevingswaarde;<br /><br />d) de samenwerking stimuleren;<br /><br />e) getuigen van kostenefficiëntie;<br /><br />f) het concrete beeld van de projectindiener.<br /><br />§ 4. De volledige uitvoering van het Kustactieplan wordt opgevolgd en begeleid door een Stuurgroep. Deze Stuurgroep wordt door de minister samengesteld op basis van de volgende structuur:<br /><br />- 2 vertegenwoordigers van het IVA Toerisme Vlaanderen;<br /><br />- 2 vertegenwoordigers van Westtoer a.p.b.;<br /><br />- 2 vertegenwoordigers van de private toeristische actoren aan de Vlaamse Kust;<br /><br />- 1 vertegenwoordiger van de kustgemeenten (de voorzitter van het kustburgemeestersoverleg);<br /><br />- 1 vertegenwoordiger van de minister - kabinetsmedewerker.<br /><br />De Stuurgroep heeft tot taak te zorgen voor de brede begeleiding van het Kustactieplan en te waken over de volledige uitvoering van het Kustactieplan. Dit in het bijzonder voor wat betreft aspecten van integratie en synergie, het verlenen van advies aan de minister bij voorstellen tot bijsturing van de projecten, het mee verzekeren van de controle op de functionele, financiële en communicatieve verslaggeving van de projecten, het actief mee sturen van de projectcoördinatie die door Toerisme Vlaanderen wordt vastgelegd, het geven van input voor de jaarlijkse oproep door Toerisme Vlaanderen tot indiening van projecten in het kader van dit besluit én het per project verzekeren van de afstemming met de betrokken beleidsdomeinen en administraties.
+...
 
 ## HOOFDSTUK III TOEKENNING EN VOORWAARDEN VAN DE SUBSIDIES
 
 ### ART. 4.
 
-§ 1. Binnen de perken van de begrotingskredieten beslist de minister, op voorstel van de jury, over de aanvragen die in aanmerking komen voor een projectsubsidie en over het bedrag van de toegekende subsidie. Hij kan enkel op gemotiveerde wijze afwijken van het voorstel van de jury.<br /><br />Elke beslissing tot toekenning van de subsidie moet in het beschikkende gedeelte duidelijk melding maken van:<br /><br />1° de begunstigde; in voorkomend geval, het samenwerkingsverband waarin de begunstigde of begunstigden actief zijn;<br /><br />2° de omschrijving van het project waarvoor de projectsubsidie wordt toegekend;<br /><br />3° de periode waarin het project uitgevoerd wordt, met vermelding van begin- en einddatum, onverminderd de toepassing van artikel 7;<br /><br />4° het bedrag van de toegekende subsidie, onverminderd de toepassing van artikel 5;<br /><br />5° de betalingsvoorwaarden, onverminderd de toepassing van artikel 6;<br /><br />6° de voorwaarden volgens dewelke de begunstigden verantwoording moeten afleggen voor het functionele, financiële en communicatieve gebruik van de projectsubsidie, voorzover de minister afwijkt van hoofdstuk IV.<br /><br />§ 2. Tenzij reeds vermeld in de oorspronkelijke subsidiebeslissing of wanneer het de rechtsopvolger van de begunstigde betreft, kan de daarin vermelde begunstigde vervangen worden door een nieuwe begunstigde wanneer deze laatste het project, vóór of in de loop van de uitvoering ervan, overneemt van de eerstgenoemde begunstigde onder dezelfde voorwaarden als vermeld in de oorspronkelijke subsidiebeslissing.<br /><br />Deze overdracht moet het voorwerp uitmaken van een wijzigende beslissing door de minister, waarbij tevens de verdeling van de toegekende subsidie over de oorspronkelijke en de nieuwe begunstigde wordt bepaald.<br /><br />§ 3. De toegekende subsidie moet worden aangewend voor de realisatie van het project, zoals beschreven in de aanvraag en de documenten die ter beoordeling van het project werden ingediend. Wijzigingen van de inhoud van het project kunnen enkel na gemotiveerd verzoek, ingediend bij de minister die advies vraagt aan de Stuurgroep, zoals bepaald in artikel 3.<br /><br />De wijziging moet het voorwerp uitmaken van een wijzigende beslissing van de minister.<br /><br />§ 4. Bij de toekenning van de subsidie verbindt de begunstigde zich ertoe:<br /><br />- in alle communicatie gebruik te maken van het kustlogo;<br /><br />- steeds te verwijzen naar de "steun van de Vlaamse Regering in het kader van het Kustactieplan 2005-2009";<br /><br />- steeds de terminologie de Vlaamse Kust' te hanteren;<br /><br />- alsook alle beschikbare onderzoeksresultaten ter beschikking te stellen van de Stuurgroep.
+...
 
 ### ART. 5.
 
-Het totaal van de toegekende subsidie mag niet hoger zijn dan 70 % van de totale subsidiabele kosten van het project.<br /><br />Aan één project kan nooit meer dan 40 % van de beschikbare subsidies van het begrotingsjaar worden toegekend.<br /><br />De kosten voor overhead (exclusief lonen) mogen maximaal 15 % van de door de projectbeheerder in het kader van het subsidiedossier ingediende subsidiabele kosten bedragen.
+...
 
 ### ART. 6.
 
-§ 1. De minister kent in zijn beslissing een eerste voorschot toe van maximaal 30 %, uit te betalen onmiddellijk na voorlegging aan Toerisme Vlaanderen van een ondertekend timingdocument dat bewijst dat het project van start is gegaan.<br /><br />Een tweede voorschot van maximaal 40 % wordt door de minister toegekend, na afrekening van de eerste 25% van de kosten van het project. Het saldo van minimaal 30 % zal worden uitbetaald na het einde van het project, mits volledige verantwoording van de uitgaven en uiterlijk zes maanden na het indienen van de verslagen vermeld in hoofdstuk IV.<br /><br />§ 2. Elke uitbetaling door het Ministerie van de Vlaamse Gemeenschap gebeurt op basis van een schuldvordering van de begunstigde, gericht aan Toerisme Vlaanderen en met kopie aan het Ministerie van de Vlaamse Gemeenschap. De uitbetaling van de voorschotten kan pas plaatsgrijpen nacontrole door Toerisme Vlaanderen bij de begunstigde, dat het project normaal verloopt.<br /><br />Het saldo kan pas worden uitbetaald na controle door Toerisme Vlaanderen van de verslagen, vermeld in hoofdstuk IV.<br /><br />Met het oog op elke uitbetaling door het Ministerie van de Vlaamse Gemeenschap rapporteert Toerisme Vlaanderen - na uitdrukkelijke raadpleging van de Stuurgroep - haar evaluatie van de financiële, functionele en communicatieve verantwoording van de projecten.
+...
 
 ### ART. 7.
 
-De einddatum van een project is bepaald op maximaal vier jaar, te rekenen vanaf de startdatum. De minister kan, in uitzonderlijke gevallen en na advies van de Stuurgroep vermeld in artikel 3, de einddatum van het project verlengen.
+...
 
 ## HOOFDSTUK IV VERANTWOORDING VAN DE SUBSIDIES
 
@@ -40,82 +40,82 @@ De einddatum van een project is bepaald op maximaal vier jaar, te rekenen vanaf 
 
 ### ART. 8.
 
-De verantwoording over het gebruik van de toegekende subsidies omvat:<br /><br />1° een functionele verantwoording waarbij aangetoond wordt dat het project waarvoor de subsidie werd toegekend, gerealiseerd is;<br /><br />2° een financiële verantwoording op basis van facturen en betalingsbewijzen waarbij aangetoond wordt welke kosten werden gemaakt voor de realisatie van het project waarvoor de subsidie werd toegekend en welke eventuele opbrengsten de begunstigde in het kader daarvan heeft verworven. Voor de financiële verantwoording van de personeelskost zal Toerisme Vlaanderen een verantwoordingsformulier ter beschikking stellen;<br /><br />3° een communicatieve verantwoording waarbij aangetoond wordt dat alle rechtstreekse communicatie door de projectindiener over het project beantwoordt aan art. 4, § 4.
+...
 
 ## AFDELING 2 FUNCTIONELE VERANTWOORDING VAN SUBSIDIES
 
 ### ART. 9.
 
-De functionele verantwoording door de begunstigde en de beoordeling ervan door Toerisme Vlaanderen en door de Stuurgroep moeten gebeuren op basis van een halfjaarlijks werkingsverslag, toegestuurd aan de minister met kopie naar Toerisme Vlaanderen en de Stuurgroep, dat de volgende zaken omvat:<br /><br />1° een omschrijving van het verloop van het project;<br /><br />2° een kritische beschouwing en toetsing van de vooropgestelde doelstellingen;<br /><br />3° een beschrijving van de beoogde en behaalde resultaten en eventueel een opgave van de redenen waarom deze resultaten niet of slechts gedeeltelijk zijn gehaald.
+...
 
 ### ART. 10.
 
-Indien de financiële steun betrekking heeft op nieuwbouw, werkzaamheden aan infrastructuur of de aankoop van een onroerend goed, dan zijn de begunstigden er toe gehouden in uitvoering van het project de infrastructuur zonder bestemmingswijzigingen in stand te houden gedurende:<br /><br />- een periode van minimum 15 jaar indien de financiële steun voor de nieuwbouw of werkzaamheden minstens 50.000 euro bedraagt;<br /><br />- een periode van minimum 5 jaar indien de financiële steun voor de nieuwbouw of werkzaamheden minder dan 50.000 euro bedraagt.<br /><br />Deze termijnen kunnen enkel ingekort worden na voorafgaande toestemming van de minister.<br /><br />Er wordt geen financiële steun verleend voor nieuwbouw, werkzaamheden aan infrastructuur of de aankoop van een onroerend goed die op grond van andere decreten of besluiten kan worden verleend, behalve indien vast staat dat de nieuwbouw, de werkzaamheden of de aankoop niet gerealiseerd kunnen worden zonder bijkomende financiële steun.
+...
 
 ## AFDELING 3 FINANCIËLE VERANTWOORDING VAN SUBSIDIES
 
 ### ART. 11.
 
-De financiële verantwoording door de begunstigde en de beoordeling ervan door Toerisme Vlaanderen en door de Stuurgroep moeten gebeuren op basis van een halfjaarlijks financieel verslag, toegestuurd aan de minister met kopie naar Toerisme Vlaanderen en de Stuurgroep.<br /><br />Het eindverslag van de financiële verantwoording van de projectsubsidie moet ingediend worden uiterlijk drie maand na het beëindigen van het project.
+...
 
 ### ART. 12.
 
-§ 1. Het financiële verantwoordingsdossier voor de eindafrekening van de projectsubsidie moet bestaan uit een resultatenrekening voor het volledige project en een toelichting.<br /><br />De verantwoordingsstukken die betrekking hebben op de te verantwoorden subsidie, worden voor nazicht ter beschikking gehouden van Toerisme Vlaanderen en de Stuurgroep.<br /><br />§ 2. De resultatenrekening moet alle opbrengsten en kosten met betrekking tot het project omvatten, ongeacht het werkingsjaar waarin ze werden geboekt.
+...
 
 ### ART. 13.
 
-Ter aanvulling van het in artikel 12 beschreven dossier kunnen Toerisme Vlaanderen en de Stuurgroep zich alle aanvullende inlichtingen laten verschaffen die nodig zijn voor de definitieve vaststelling van de verantwoorde subsidie.
+...
 
 ### ART. 14.
 
-§ 1. De in artikel 12, § 2, bedoelde kosten omvatten:<br /><br />1° direct betaalbare sommen, met inbegrip van financiële lasten, die betrekking hebben op de periode waarover verantwoording wordt afgelegd;<br /><br />2° voorzieningen voor uitgaven die op een later ogenblik verschuldigd zullen zijn maar die rechtstreeks voortvloeien uit het project tijdens de periode waarover verantwoording wordt afgelegd;<br /><br />3° afschrijvingen op materiële vaste activa.<br /><br />§ 2. Wanneer de activiteiten van een begunstigde bestaan uit meerdere projecten mogen de in § 1 vermelde kosten, die niet direct kunnen worden toegewezen aan een specifiek project en daarom te beschouwen zijn als overheadkosten, verdeeld worden over de verschillende projecten volgens een objectieve verdeelsleutel die door de begunstigde moet worden verantwoord.
+...
 
 ### ART. 15.
 
-De datum van een verantwoordingsstuk moet liggen in de periode waarover verantwoording wordt afgelegd, behalve wat betreft:<br /><br />1° afschrijvingskosten;<br /><br />2° in overeenstemming met artikel 14, § 1 toegestane voorzieningen voor betalingen die op een later ogenblik uitgevoerd moeten worden;<br /><br />3° wanneer het verantwoordingsstuk bestaat uit een factuur of schuldvordering waaruit duidelijk blijkt dat de aangerekende prestatie ligt in de periode waarover verantwoording wordt afgelegd, en die betrekking heeft op het project.
+...
 
 ### ART. 16.
 
-Een projectsubsidie mag enkel aangewend worden om de kosten te dekken die uit het project voortvloeien, beperkt tot het bedrag van de toegekende subsidie. Deze kosten worden bepaald op basis van de resultatenrekening met dien verstande dat, wanneer het project over meerdere jaren loopt, de maximaal subsidieerbare kosten bepaald worden op het einde van het volledige project, tenzij het in de subsidiebeslissing anders is bepaald.
+...
 
 ### ART. 17.
 
-Wanneer bij toepassing van artikel 4, § 2, een project en de hiervoor toegekende subsidie wordt overgedragen van de oorspronkelijke naar een nieuwe begunstigde, die niet de rechtsopvolger is van de oorspronkelijke, moeten beide begunstigden zich afzonderlijk verantwoorden over hun respectieve aandeel in het gesubsidieerde project.
+...
 
 ### ART. 18.
 
-Als een begunstigde meerdere projecten uitvoert, moet er voor elke beslissing een afzonderlijke inbreng zijn. Eenzelfde inbreng mag niet tegelijk voor meerdere subsidiebeslissingen in rekening gebracht worden.
+...
 
 ## AFDELING 4 COMMUNICATIEVE VERANTWOORDING VAN DE SUBSIDIES
 
 ### ART. 19.
 
-De communicatieve verantwoording door de begunstigde en de beoordeling ervan door Toerisme Vlaanderen en de Stuurgroep moeten gebeuren op basis van een halfjaarlijks werkingsverslag, toegestuurd aan de minister met kopie naar Toerisme Vlaanderen en de Stuurgroep, dat uitvoerige informatie én illustratie bevat van alle rechtstreekse en onrechtstreekse communicatie-uitingen omtrent het project door de projectindiener.
+...
 
 ## HOOFDSTUK V CONTROLE EN SANCTIES
 
 ### ART. 20.
 
-Onverminderd de bepalingen van het koninklijk besluit van 26 april 1968 tot inrichting en co÷rdinatie van de controles op de toekenning en op de aanwending van de toelagen kunnen controles ter plaatse ook uitgevoerd worden door het Rekenhof.
+...
 
 ### ART. 21.
 
-Wanneer de begunstigde nalaat de in artikel 8 bepaalde verantwoording volledig in te dienen, vervalt de beslissing tot toekenning van de subsidie voor het niet-verantwoorde gedeelte.<br /><br />In het geval dat in het vorig lid bedoeld wordt, moet van eventueel reeds uitbetaalde voorschotten het niet-verantwoorde gedeelte worden terugbetaald.
+...
 
 ### ART. 22.
 
-Indien de begunstigde één jaar na de startdatum van het project niet effectief begonnen is met de uitvoering ervan, kan de minister beslissen dat de projectsubsidie vervallen is.<br /><br />In dat geval kan de Vlaamse Regering, op voorstel van de minister en naadvies van de jury, vermeld in artikel 3, de toegekende subsidie herverdelen over de andere begunstigden zonder dat echter het percentage van 40 % van de beschikbare subsidies wordt overschreden, zoals vermeld in artikel 5.
+...
 
 ## HOOFDSTUK VI SLOTBEPALINGEN
 
 ### ART. 23.
 
-Voor het begrotingsjaar 2005 kan de minister de startdatum van de projecten vaststellen op datum van indiening van het project.
+...
 
 ### ART. 24.
 
-Dit besluit treedt heden in werking en is van toepassing op alle projecten ingediend vanaf de inwerkingtreding van dit besluit tot en met 31 december 2009.
+...
 
 ### ART. 25.
 
-De Vlaamse minister, bevoegd voor het toerisme, is belast met de uitvoering van dit besluit.
+...

@@ -2,16 +2,16 @@
   "codex_id": 1013852,
   "title": "Besluit van de Vlaamse Regering van 2005-05-27 houdende vaststelling van de nadere regels betreffende de subsidieverlening voor projecten in het kader van het Kustactieplan 2005-2009, afgekort KAP III",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013852/VolledigDocument?datum=2009-12-31",
-  "source_sha256": "73742edb76c3d470c34bd6f7e6c1e5686ade58b14037dc6b0c9f034f7bb350f4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013852/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "a32db8feff20926cb6344874b3c4a4c563c6fa9dc33e1219f978b1493b8835bc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013852&param=informatie",
-  "as_of": "2009-12-31",
+  "as_of": "2013-01-01",
   "made": "2005-05-27",
   "gazette": "2005-07-08",
   "numac": 2005035786,
   "document_start": "2005-05-27",
   "document_end": "2012-12-31",
-  "in_force": "2009-12-31",
+  "in_force": "2013-01-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2009-12-31; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
