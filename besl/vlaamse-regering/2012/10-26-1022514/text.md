@@ -40,13 +40,61 @@ Het cultuurcentrum moet, naargelang de categorie waarin het wordt   opgenomen in
 
 ## Afdeling 1 Algemene bepalingen
 
+### ART. 15.
+
+<P>Ter uitvoering van artikel 18 van het decreet van 6 juli 2012 zijn de   organisaties verplicht met een batig saldo in de resultatenrekening een   financiële reserve op te bouwen. Die reserve moet worden aangewend ter   financiering van uitgaven die bijdragen tot de realisatie van de doelstellingen   van de organisatie.<BR></P>  <P>Een reserve wordt in de balans opgenomen als onderdeel van het eigen vermogen   en bestaat uit de rekening bestemde fondsen en de rekening overgedragen   resultaat.<BR></P>  <P>Bij de jaarlijkse subsidie is een jaarlijkse reservevorming van maximaal 20 %   tegen over de jaarlijkse toegekende subsidie mogelijk. Eventuele meerontvangsten   tegenover de in de begroting voorziene eigen ontvangsten mogen volledig   gereserveerd worden.<BR></P>  <P>Gecumuleerd kan er een maximum van 50 % reserve worden toegestaan tegenover   de jaarlijks toegekende subsidie. Gecumuleerde meerontvangsten tegenover de in   de jaarlijks begroting voorziene eigen ontvangsten mogen ook volledig   gereserveerd worden.<BR></P>
+
+### ART. 16.
+
+De organisaties, vermeld in artikelen 20, 22, 28, 31, 34 en 36 van het   decreet van 6 juli 2012, beschikken uiterlijk op 31 december 2016 over een   website waaraan het AnySurfer-label is toegekend.<BR>
+
+### ART. 17.
+
+De organisaties, vermeld in artikelen 20, 22, 28, 31, 34 en 36 van het   decreet van 6 juli 2012, zullen in hun werking de basisprincipes van   duurzaamheid en ecologisch bewustzijn inbouwen. Dat behelst onder meer constante   aandacht voor de ecologische impact van de ontwikkelde producten, het gebruik   van energie en uitrusting voor algemene werking, de promotie van en communicatie   over de activiteiten en het kantoorbeheer. Het behelst ook een duurzame werking,   met kennisborging naast kennisdeling.<BR>
+
+### ART. 18.
+
+Bij de uitvoering van de opdrachten zullen de organisaties, vermeld in   artikelen 20, 22, 28, 31, 34 en 36 van het decreet van 6 juli 2012, de steun van   de Vlaamse Gemeenschap duidelijk vermelden door het gebruik van de   standaardlogo's en de bijbehorende tekst, zoals ze door de Vlaamse Regering zijn   vastgelegd op alle publicaties, mededelingen, verklaringen en presentaties   ongeacht de drager.<BR>
+
 ## Afdeling 2 [ ... (opgeh. decr. 23 juni 2023, art. 22, I: 1 januari 2024)]
+
+### ART. 19.
+
+Voor de uitvoering van de opdrachten, vermeld in artikel 21 van het   decreet van 6 juli 2012, kent de Vlaamse Regering aan de organisatie, vermeld in   artikel 20 van het voormelde decreet, met ingang van 1 januari 2013 een   jaarlijkse subsidie toe van 2.880.000 euro. Maximaal 40 % van die subsidie,   vermeerderd met de eigen inkomsten, mag worden besteed aan de structurele   personeelskosten, uitgezonderd de personeelskosten van tijdelijke aanwervingen   ter ondersteuning van projecten.<BR>
+
+### ART. 20.
+
+Voor de uitvoering van de opdrachten, vermeld in artikel 21 van het   decreet van 6 juli 2012, worden onder openbare bibliotheken zowel de   gemeentelijke bibliotheken verstaan als de speciale bibliotheken, vermeld in   artikel 22 van het decreet van 6 juli 2012.<BR>
 
 ## Afdeling 3 Voorzieningen voor bijzondere doelgroepen
 
+### ART. 21.
+
+Voor de uitvoering van de opdrachten, vermeld in artikel 23 van het   decreet van 6 juli 2012, kent de Vlaamse Regering aan de speciale bibliotheek,   vermeld in artikel 22, eerste lid, van het voormelde decreet, met ingang van 1   januari 2013 een jaarlijkse subsidie toe van 1.086.000 euro. <BR>
+
+### ART. 22.
+
+Voor de uitvoering van de opdrachten, vermeld in artikel 26 van het   decreet van 6 juli 2012, kent de Vlaamse Regering aan de speciale bibliotheek,   vermeld in artikel 22, tweede lid, van het voormelde decreet, met ingang van 1   januari 2013 een jaarlijkse subsidie toe van 720.000 euro. <BR>
+
+### ART. 23.
+
+<P>Voor de aanmaak van lectuur in aangepaste leesvormen kent de Vlaamse Regering   aan de organisaties, vermeld in artikel 28 van het decreet van 6 juli 2012, een   jaarlijkse personeels- en werkingssubsidie toe van 1.455.000 euro op basis van   de begrotingen, vermeld in artikel 16 van het voormelde decreet, en de   overeenkomsten, vermeld in artikel 25 van het voormelde decreet.<BR></P>  <P>Van dat subsidiebedrag maakt 40 % het voorwerp uit van de overeenkomsten die   de speciale bibliotheek, vermeld in artikel 22, eerste lid, van het voormelde   decreet, sluit met de organisaties, vermeld in artikel 28 van het voormelde   decreet, met het oog op de uitbouw van haar collectie. <BR></P>
+
 ## Afdeling 4 Het steunpunt voor het lokaal cultuurbeleid
 
+### ART. 24.
+
+Voor de uitvoering van de opdrachten, vermeld in artikel 32 van het   decreet van 6 juli 2012, kent de Vlaamse Regering aan de organisatie, vermeld in   artikel 31 van het voormelde decreet, met ingang van 1 januari 2013 een   jaarlijkse subsidie toe van 1.457.000 euro. Maximaal 75 % van die subsidie,   vermeerderd met de eigen inkomsten, mag worden besteed aan de structurele   personeelskosten, uitgezonderd de personeelskosten van tijdelijke aanwervingen   ter ondersteuning van projecten.<BR>
+
 ## Afdeling 5 Sectoraal overleg
+
+### ART. 25.
+
+Voor de uitvoering van de opdrachten die geconcretiseerd zijn in een   meerjarenplan als vermeld in artikel 35 van het decreet van 6 juli 2012, kent de   Vlaamse Regering aan de organisatie, vermeld in artikel 34 van het voormelde   decreet, met ingang van 1 januari 2013 een jaarlijkse subsidie toe van 114.000   euro.<BR>
+
+### ART. 26.
+
+Voor de uitvoering van de opdrachten die geconcretiseerd zijn in een   meerjarenplan als vermeld in artikel 37 van het decreet van 6 juli 2012, kent de   Vlaamse Regering aan de organisatie, vermeld in artikel 36 van het voormelde   decreet, met ingang van 1 januari 2013 een jaarlijkse subsidie toe van 100.000   euro.<BR>
 
 ## Hoofdstuk 6 Intergemeentelijke samenwerking voor afstemming van het cultuuraanbod en de communicatie
 
