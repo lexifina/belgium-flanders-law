@@ -2,16 +2,16 @@
   "codex_id": 1019346,
   "title": "Besluit van de Vlaamse Regering van 2010-07-23 houdende uitvoering van de compensatie voor de gederfde opbrengsten uit de gemeentelijke en de provinciale opcentiemen op de onroerende voorheffing op materieel en outillage en op energiezuinige gebouwen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019346/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "719fe619f2d5ddb905708cd5f68f978f1d14dca5e3e1661745f367e2b4ab470f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019346/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "518018c9e1b4a48946636fd0651b4cd6b986172c66977be9769579762f740253",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019346&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2013-01-01",
   "made": "2010-07-23",
   "gazette": "2010-08-30",
   "numac": 2010204472,
   "document_start": "2009-01-01",
   "document_end": "2013-12-31",
-  "in_force": "2009-01-01",
+  "in_force": "2013-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }

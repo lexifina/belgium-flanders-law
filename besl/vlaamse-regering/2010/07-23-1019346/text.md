@@ -6,19 +6,19 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 mei 2008 houdende be
 
 ### ART. 1.
 
-De vergoeding, vermeld in artikel 7, § 1, van het decreet van 23 mei 2008 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2008, wordt uiterlijk op 31 mei van het jaar dat volgt op het aanslagjaar in kwestie berekend op basis van de door het kadaster aangeleverde informatie over materieel en outillage, en op basis van de door het Vlaams Energieagentschap aangeleverde informatie over de energiezuinige woningen en gebouwen, ingevolge de toepassing van artikelen 3 tot en met 6 van het decreet van 23 mei 2008 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2008.<br /><br />
+<P>De vergoeding, vermeld in artikel 7, § 1, van het decreet van 23 mei 2008   houdende bepalingen tot begeleiding van de aanpassing van de begroting 2008 en   artikel 6 van het decreet van 21 december 2012 tot wijziging van artikel 257,   258 en 376 van het Wetboek van de Inkomstenbelastingen 1992 en artikel 7 van het   decreet van 23 mei 2008 houdende bepalingen tot begeleiding van de aanpassing   van de begroting 2008, wat de vermindering van de onroerende voorheffing voor   energiezuinige gebouwen betreft, wordt uiterlijk op 31 mei van het jaar dat   volgt op het aanslagjaar in kwestie berekend op basis van de door het kadaster   aangeleverde informatie over materieel en outillage, en op basis van de door het   Vlaams Energieagentschap aangeleverde informatie over de energiezuinige woningen   en gebouwen, ingevolge de toepassing van artikel 3 van het decreet van 23 mei   2008 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2008   en artikel 2 tot en met 4 van het decreet van 21 december 2012 tot wijziging van   artikelen 257, 258 en 376 van het Wetboek van de Inkomstenbelastingen 1992 en   artikel 7 van het decreet van 23 mei 2008 houdende bepalingen tot begeleiding   van de aanpassing van de begroting 2008, wat de vermindering van de onroerende   voorheffing voor energiezuinige gebouwen betreft.</P>
 
 ### ART. 2.
 
-De vergoeding, vermeld in artikel 1, wordt verrekend met het saldo van de opcentiemen, vermeld in artikel 29, § 4, van het decreet van 6 juli 2001 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2001.<br /><br />Het saldo van de verrekening, vermeld in het eerste lid, wordt uiterlijk gestort op de laatste bankwerkdag van de maand juli van het jaar dat volgt op het aanslagjaar in kwestie.<br /><br />
+De vergoeding, vermeld in artikel 1 van dit besluit, wordt uitbetaald   samen met het saldo van de opcentiemen, vermeld in artikel 29, § 4, van het   decreet van 6 juli 2001 houdende bepalingen tot begeleiding van de aanpassing   van de begroting 2001, en wordt uiterlijk gestort op de laatste bankwerkdag van   de maand juli van het jaar dat volgt op het aanslagjaar in   kwestie.
 
 ### ART. 3.
 
-Als wordt vastgesteld dat het saldo, vermeld in artikel 2, negatief is, wordt overeenkomstig artikel 29, § 6, van het decreet van 6 juli 2001 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2001, het voorschot van het eerstvolgende aanslagjaar met dat negatieve saldo verminderd. In voorkomend geval worden de definitief verworven opcentiemen van het eerstvolgende aanslagjaar met hetzelfde negatieve saldo verminderd.<br /><br />
+<P>...</P>
 
 ### ART. 4.
 
-Gederfde opbrengsten die definitief worden verworven na het tijdstip, vermeld in artikel 2, tweede lid, van dit besluit, worden halfjaarlijks, namelijk in de maand december en in de maand juni, doorgestort of verrekend samen met de maandelijkse afrekeningen, vermeld in artikel 29, § 5, van het decreet van 6 juli 2001 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2001.<br /><br />
+<P>...</P>
 
 ### ART. 5.
 
