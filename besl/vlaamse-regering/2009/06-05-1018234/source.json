@@ -2,16 +2,16 @@
   "codex_id": 1018234,
   "title": "Besluit van de Vlaamse Regering van 2009-06-05 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018234/VolledigDocument?datum=2012-11-01",
-  "source_sha256": "e23abbfdf6e0322eddc1f44b499ee9fb7fd30cb49d1e98d0466b746f10df6216",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018234/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "448f8963b03f9b2d9cba5d0d9f4bf5277b85747ccfe294deea50e884ccd19056",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018234&param=informatie",
-  "as_of": "2012-11-01",
+  "as_of": "2013-01-01",
   "made": "2009-06-05",
   "gazette": "2009-08-14",
   "numac": 2009203683,
   "document_start": null,
   "document_end": "2024-08-31",
-  "in_force": "2012-11-01",
+  "in_force": "2013-01-01",
   "article_versions": 51,
-  "record_form": "consolidated version as in force on 2012-11-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
