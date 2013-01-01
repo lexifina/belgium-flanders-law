@@ -2,16 +2,16 @@
   "codex_id": 1019852,
   "title": "Decreet van 2010-12-23 houdende bepalingen tot begeleiding van de begroting 2011",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019852/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "add64b1a0dee9f4dec65e1ef720ef556a450a64d252c8c79408eb9019590e01b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019852/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "e8a1d1739696b10f28f466fdf3f134eb9a1a535fd876a96fb9a3f66929f6092d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019852&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2013-01-01",
   "made": "2010-12-23",
   "gazette": "2010-12-31",
   "numac": 2010036008,
   "document_start": "2011-01-01",
   "document_end": null,
-  "in_force": "2012-01-01",
+  "in_force": "2013-01-01",
   "article_versions": 88,
-  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
