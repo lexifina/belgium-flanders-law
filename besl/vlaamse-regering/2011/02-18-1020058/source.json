@@ -2,16 +2,16 @@
   "codex_id": 1020058,
   "title": "Besluit van de Vlaamse Regering van 2011-02-18 over de subsidiëring van stages bij internationale organisaties",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020058/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "b02b978b90169be455dd0ac3bbc7d459c712e78dc066340a83624c0188f5c8fd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020058/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "aedf4599bfd507073911ae4b0baf8f41e8ff0eb236ddb37b804742fa56fa4716",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020058&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2013-01-01",
   "made": "2011-02-18",
   "gazette": "2011-02-23",
   "numac": 2011035139,
   "document_start": "2011-01-01",
   "document_end": "2016-12-31",
-  "in_force": "2011-01-01",
+  "in_force": "2013-01-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
