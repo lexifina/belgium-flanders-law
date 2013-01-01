@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022953,
+  "title": "Besluit van de Vlaamse Regering van 2013-03-29 houdende de vaststelling van de zendtijd voor 2013 voor de levensbeschouwelijke verenigingen die erkend zijn om televisieprogramma's op de VRT te verzorgen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022953/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "80b9f40b8836679436c6596110d98269215bcfd0ed9660825eeaeef4c03c4651",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022953&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2013-03-29",
+  "gazette": "2013-06-04",
+  "numac": 2013035419,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
