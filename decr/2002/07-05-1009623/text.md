@@ -12,7 +12,7 @@ De jaarlijkse dotatie aan het Vlaams Gemeentefonds wordt uitgetrokken op de begr
 
 ### ART. 3.
 
-§ 1. Elk jaar wordt de dotatie van het Vlaams Gemeentefonds vastgesteld op een bedrag dat minstens gelijk is aan de dotatie van het vorige jaar, aangepast met een in § 2 bedoeld evolutiepercentage.<br /><br />§ 2. [Vanaf het begrotingsjaar 2005 bedraagt het evolutiepercentage 3,5 %.  <span class="reference">(verv. decr. 24 december 2004, art. 57, I: 1 januari 2005)</span> ]<br /><br />§ 3. In afwijking van § 1 bedraagt de dotatie voor 2003 1.542.979.000 euro.<br /><br />§ 4. De berekende dotatie wordt afgerond op het hogere duizendtal.
+<P>§ 1. Elk jaar wordt de dotatie van het Vlaams Gemeentefonds vastgesteld op   een bedrag dat minstens gelijk is aan de dotatie van het vorige jaar, aangepast   met een in § 2 bedoeld evolutiepercentage.<BR><BR>§ 2. Vanaf het begrotingsjaar   2005 bedraagt het evolutiepercentage 3,5 %. </P>  <P>§ 3. In afwijking van § 1 bedraagt de dotatie voor 2003 1.542.979.000   euro.</P>  <P>§ 3/1. In afwijking van paragraaf 1 wordt de krachtens paragraaf 1 en   paragraaf 2 berekende dotatie in 2013 verminderd met 261.000 euro, in 2014   verminderd met 522.000 euro, in 2015 verminderd met 783.000 euro en in 2016   verminderd met 1.044.000 euro. De in mindering gebrachte bedragen worden telkens   als structurele cofinanciering toegevoegd aan de kredieten die voor de   financiering van de externe audit van de lokale overheden worden ingeschreven in   de algemene uitgavenbegroting van de Vlaamse Gemeenschap.<BR><BR>§ 4. De   berekende dotatie wordt afgerond op het hogere duizendtal.</P>
 
 ### ART. 4.
 
