@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022397,
+  "title": "Besluit van de Vlaamse Regering van 2012-09-14 tot wijziging van bijlage IX van het besluit van de Vlaamse Regering van 4 februari 1997 betreffende de verplichte bijdragen bestemd voor de promotie en afzetbevordering van de Vlaamse producten van de sectoren landbouw, tuinbouw en visserij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022397/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "c8992840c4d603b4c12706767407129a07b8a942926ec144abd7a94d965cb0ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022397&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2012-09-14",
+  "gazette": "2012-10-18",
+  "numac": 2012036114,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
