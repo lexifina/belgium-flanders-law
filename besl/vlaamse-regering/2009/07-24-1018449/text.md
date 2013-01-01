@@ -10,15 +10,15 @@ Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007   betreffe
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied textiel, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage I en II, die bij dit besluit zijn gevoegd.<br /><br />
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007   betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de   modulaire structuur van het studiegebied textiel, dat behoort tot het secundair   volwassenenonderwijs, vastgelegd in bijlage I tot en met&nbsp;III, die bij dit   besluit zijn gevoegd.<BR><BR>
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />
+De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar   na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die   evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het   decreet van 15 juni 2007 betreffende het volwassenenonderwijs. Het   opleidingsprofiel, vastgelegd in bijlage III, wordt uiterlijk tijdens het   schooljaar 2016-2017 geëvalueerd.<BR><BR>
 
 ### ART. 3.
 
-Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de lineaire opleiding montage van textielmachines BSO 3, vermeld in bijlage III bij het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, heeft vanaf 1 april 2009 ook onderwijsbevoegdheid voor de modulaire opleiding kwaliteitswisselaar platweverij.<br /><br />
+Het bestuur van een Centrum voor Volwassenenonderwijs dat   onderwijsbevoegdheid heeft voor de lineaire opleiding montage van   textielmachines BSO 3, vermeld in bijlage III bij het decreet van 15 juni 2007   betreffende het volwassenenonderwijs, heeft vanaf 1 april 2009 ook   onderwijsbevoegdheid voor de modulaire opleiding kwaliteitswisselaar   platweverij.<BR><BR>Het bestuur van een Centrum voor Volwassenenonderwijs dat   onderwijsbevoegdheid heeft voor de lineaire opleidingen Handweven BSO3,   Handweven - woning BSO3, Handweven - vervolmaking BSO3 of Handweven - Kleding   BSO3 heeft vanaf 1 februari 2013 onderwijsbevoegdheid voor de modulaire   opleiding Handwever. <BR><BR>
 
 ### ART. 4.
 
@@ -41,3 +41,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 <a href="http://www.ejustice.just.fgov.be/mopdf/2009/10/15_1.pdf#page=53" title=" Bijage 2" target="_blank" class="pdf">Bijage 2</a>
 
 ## BIJLAGE 3
+
+### BIJLAGE 3.
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/05_1_2.pdf#page=74">Bijlage   3</A>
