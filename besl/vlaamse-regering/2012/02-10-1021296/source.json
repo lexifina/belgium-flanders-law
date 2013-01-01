@@ -2,16 +2,16 @@
   "codex_id": 1021296,
   "title": "Besluit van de Vlaamse Regering van 2012-02-10 tot wijziging van het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding, wat betreft de erkenning en de subsidiëring van verenigingen waar armen het woord nemen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021296/VolledigDocument?datum=2012-03-09",
-  "source_sha256": "d8eada2ac9704b6fb173fb6a435d97b9e23ef3c38b425a45894b58d248f7273d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021296/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "4b38c913e36b6d7a2ab06a3d1185aeddacd97fb40693047317a198245f518d7b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021296&param=informatie",
-  "as_of": "2012-03-09",
+  "as_of": "2013-01-01",
   "made": "2012-02-10",
   "gazette": "2012-02-28",
   "numac": 2012035195,
   "document_start": "2012-03-09",
   "document_end": null,
-  "in_force": "2012-03-09",
-  "article_versions": 12,
-  "record_form": "consolidated version as in force on 2012-03-09; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-01-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
