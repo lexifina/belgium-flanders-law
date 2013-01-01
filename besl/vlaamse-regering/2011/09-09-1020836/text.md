@@ -6,8 +6,8 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 19 maart 2004 tot opric
 
 ### ART. 1.
 
-Het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Toerisme Vlaanderen" wordt gemachtigd om een subsidie toe te kennen aan : <br />1° de VZW Tafelen in Vlaanderen;<br />2° de VZW Centrum Ronde van Vlaanderen;<br />3° de Katholieke Universiteit Leuven voor de organisatie van de masteropleiding toerisme;<br />4° de VZW Toeristische Attracties;<br />5° de VZW de Hondsjaren;<br />6° de VZW Grote Routepaden.<br /><br />
+...
 
 ### ART. 2.
 
-De Vlaamse minister bevoegd voor toerisme is belast met de uitvoering van dit besluit.<br /><br />
+...
