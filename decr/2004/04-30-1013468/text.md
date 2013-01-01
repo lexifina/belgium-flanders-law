@@ -170,7 +170,7 @@ Een student die nog niet in het bezit is van een bachelorsdiploma dat al dan nie
 
 ### ART. 24.
 
-Een student die nog niet in het bezit is van een bachelors- of mastersdiploma dat al dan niet recht-streeks toelating verleent tot een (masters-na-) mastersopleiding, kan onder de voorwaarden, bepaald door het instellingsbestuur, toegelaten worden tot de inschrijving voor bedoelde (masters-na-) mastersopleiding en/of het daaraan voorafgaande voorbereidings- en/of schakelprogramma.<br /><br />Voor het behalen van het diploma van bedoelde (masters-na-)mastersopleiding is het bezit van het diploma van de bachelorsopleiding of de onderliggende mastersopleiding evenwel noodzakelijk. De bevoegde examencommissies kunnen daartoe opeenvolgend delibereren.
+Een student die al dan niet in het bezit is van een bachelors- of   mastersdiploma, kan onder de voorwaarden, bepaald door het instellingsbestuur,   toegelaten worden tot de inschrijving voor bedoelde (masters-na-)   mastersopleiding en/of het daaraan voorafgaande voorbereidings- en/of   schakelprogramma.<BR><BR>Voor het behalen van het diploma van bedoelde   (masters-na-)mastersopleiding is het bezit van het diploma van de   bachelorsopleiding of de onderliggende mastersopleiding evenwel noodzakelijk. De   bevoegde examencommissies kunnen daartoe opeenvolgend delibereren.<BR><BR>Alle   beslissingen van instellingsbesturen die voor 1 januari 2013 zijn genomen en   waarbij de gelijktijdige inschrijving voor een schakelprogramma en een   masteropleiding ook voor studenten die reeds in het bezit waren van het   bachelordiploma toegelaten werd, worden geacht rechtmatig te zijn.
 
 ## HOOFDSTUK V DIPLOMA-, CREDIT- EN EXAMENCONTRACT
 
