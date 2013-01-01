@@ -55,6 +55,10 @@ De Vlaamse Regering bepaalt de bestedingspercentages voor de Vlaamse beleidsprio
 
 ## Afdeling 3 De sportraad [van de Vlaamse Gemeenschapscommissie (ing. decr. 22 december 2017, art. 35, I: 1 januari 2018)]
 
+### ART. 15.
+
+§ 1. Het gemeentebestuur en de Vlaamse Gemeenschapscommissie beschikken over een sportraad die, op eigen initiatief of op verzoek, autonoom advies geeft aan de overheid, over alle aangelegenheden die de sportraad belangrijk acht in het kader van het sportbeleid.<br /><br />De schepen of het collegelid, bevoegd voor sport, kan als waarnemer de vergaderingen bijwonen.<br /><br />Het lidmaatschap van de sportraad kan niet als voorwaarde voor subsidiëring worden gesteld.<br /><br />§ 2. Het gemeentebestuur moet aantonen dat ze de sportraad heeft betrokken bij de opmaak van de strategische meerjarenplanning met betrekking tot het beleidsveld sport en dat het om advies heeft gevraagd over de strategische meerjarenplanning met betrekking tot het beleidsveld sport. De sportraad bespreekt ook jaarlijks de door de gemeente opgemaakte jaarrekening met betrekking tot het beleidsveld sport.<br /><br />De Vlaamse Gemeenschapscommissie moet aantonen dat ze de sportraad heeft betrokken bij de planning met betrekking tot het sportbeleid en dat ze om advies heeft gevraagd over de planningsdocumenten met betrekking tot het Sport voor Allen- beleid in het kader van de Vlaamse beleidsprioriteiten Sport voor Allen. De sportraad bespreekt ook jaarlijks de door de Vlaamse Gemeenschapscommissie opgemaakte rapporteringsdocumenten met betrekking tot het Sport voor Allenbeleid in het kader van de Vlaamse beleidsprioriteiten Sport voor Allen.<br /><br />§ 3. Het bestuur motiveert bij het nemen van beslissingen eventuele afwijkingen op de uitgebrachte adviezen aan de sportraad.<br /><br />
+
 ## HOOFDSTUK 3 Bevoegdheden van de provincies inzake sport en de subsidiëring van de Vlaamse beleidsprioriteit Sport voor Allen voor de provincies
 
 ### ART. 17.
@@ -65,6 +69,10 @@ De Vlaamse beleidsprioriteit Sport voor Allen voor de provincies is het stimuler
 
 De Vlaamse Regering bepaalt de nadere voorwaarden waaraan moet worden voldaan om voor subsidiëring voor de Vlaamse beleidsprioriteit, vermeld in artikel 17, in aanmerking te komen.<br /><br />
 
+### ART. 19.
+
+Het provinciebestuur moet aantonen dat ze lokale belanghebbenden heeft betrokken bij de opmaak van de strategische meerjarenplanning met betrekking tot het beleidsveld sport en bij de bespreking van de jaarrekening met betrekking tot het beleidsveld sport. Ze betrekt hierbij in het bijzonder personen met een handicap in functie van de Vlaamse beleidsprioriteit Sport voor Allen.<br /><br />
+
 ## HOOFDSTUK 4 Begeleiding, coördinatie en monitoring van de besturen in het kader van [het lokaal Sport voor Allen-beleid (verv. decr. 22 december 2017, art. 37, I: 1 januari 2018)]
 
 ## Afdeling 1 Erkenning en subsidiëring van een organisatie voor de begeleiding van de gemeenten en de Vlaamse Gemeenschapscommissie in het kader van [het lokaal Sport voor Allen-beleid (verv. decr. 22 december 2017, art. 38, I: 1 januari 2018)]
@@ -74,3 +82,7 @@ De Vlaamse Regering bepaalt de nadere voorwaarden waaraan moet worden voldaan om
 ## Afdeling 3 Monitoring van het lokale sportbeleid
 
 ## HOOFDSTUK 5 Slotbepalingen
+
+### ART. 37.
+
+In afwijking van artikel 32 van het decreet van 9 maart 2007 houdende de subsidiëring van gemeente- en provinciebesturen en de Vlaamse Gemeenschapscommissie voor het voeren van een Sport voor Allen-beleid voorziet de Vlaamse Regering voor het jaar 2013 in een voorafname van 150.000 euro voor de voorbereiding van de begeleiding van de besturen in het kader van de Vlaamse beleidsprioriteiten Sport voor Allen zoals bepaald in dit decreet.<br /><br />In afwijking van artikel 33 van het decreet van 9 maart 2007 houdende de subsidiëring van gemeente- en provinciebesturen en de Vlaamse Gemeenschapscommissie voor het voeren van een Sport voor Allen-beleid voorziet de Vlaamse Regering voor het jaar 2013 in een voorafname van 75.000 euro voor de voorbereiding van de coördinatie en de begeleiding van een pool van professionele begeleiders in de sport in het kader van de Vlaamse beleidsprioriteiten Sport voor Allen zoals bepaald in dit decreet.<br /><br />
