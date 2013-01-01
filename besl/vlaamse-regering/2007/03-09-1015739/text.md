@@ -404,7 +404,9 @@ verstaan onder :<br>
 19° Overige staltypes opfokpoeljen slachtkuikenouderdieren : een pluimveestal die niet van het type Systeem P-7.1, P-7.2, P-7.3 of P-7.4, als vermeld in de P-lijst, is;<br>
 20° Emissiearm, systeem P-5.1, P-5.2, P-5.3, P-5.4, P-5.5 en P-5.6 : een emissiearme pluimveestal van het type Systeem P-5.1, P-5.2, P-5.3, P-5.4,P-5.5 of P-5.6, als vermeld in de P-lijst;<br>
 21° Overige staltypes slachtkuikenouderdieren : een pluimveestal die niet van het type Systeem P-5.1, P-5.2, P-5.3, P-5.4, P-5.5 of P-5.6, als vermeld in de P-lijst, is;<br>
-22° P-lijst : de lijst, als vermeld in hoofdstuk 4 P-lijst van ammoniakemissiearme stalsystemen voor pluimvee van bijlage I bij het ministerieel besluit van 19 maart 2004 houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne.
+22° P-lijst : de lijst, als vermeld in hoofdstuk 4 P-lijst van ammoniakemissiearme stalsystemen voor pluimvee van bijlage I bij het ministerieel besluit van 19 maart 2004 houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne.<br>
+<br>
+§ 4. In afwijking van paragraaf 1 of 2 wordt, als voor een bedrijf, voor een of meerdere diercategorieën het nettogehalte van stikstof in dierlijke mest op het ogenblik van de afzet, berekend conform paragraaf 1 of 2, kleiner is dan 25 % van de voor die diercategorie van toepassing zijnde forfaitaire N-uitscheiding, vermeld in artikel 27, § 1, van het Mestdecreet, het nettogehalte van stikstof in dierlijke mest op het ogenblik van de afzet voor het bedrijf in kwestie en voor de diercategorie of diercategorieën in kwestie, bepaald op 25 % van de voor die diercategorie van toepassing zijnde forfaitaire N-uitscheiding, vermeld in artikel 27, § 1, van het Mestdecreet.
 <p>&nbsp;</p>
 
 ## Afdeling 2 [... (opgeh. BVR 22 december 2017, art. 2, I: 1 januari 2018)]
