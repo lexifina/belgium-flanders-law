@@ -2,16 +2,16 @@
   "codex_id": 1000465,
   "title": "Decreet van 1994-07-13 betreffende de hogescholen in de Vlaamse Gemeenschap",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000465/VolledigDocument?datum=2012-12-01",
-  "source_sha256": "8bc2ec17afbdb123ff687b67cae4b17d08fa37a3e32487c26179cf37fbba163e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000465/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "34b282fc05ccbdf954b4a86db84698753507db5827b0d6ff00d43226a0737c45",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000465&param=informatie",
-  "as_of": "2012-12-01",
+  "as_of": "2013-01-01",
   "made": "1994-07-13",
   "gazette": "1994-08-31",
   "numac": 1994036049,
   "document_start": null,
   "document_end": "2013-09-30",
-  "in_force": "2012-12-01",
+  "in_force": "2013-01-01",
   "article_versions": 494,
-  "record_form": "consolidated version as in force on 2012-12-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
