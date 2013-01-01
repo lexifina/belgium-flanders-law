@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022533,
+  "title": "Decreet van 2012-11-16 tot aanvulling van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid met een titel VI « Milieubeleidsovereenkomsten »",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022533/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "dea3ded6d5f7dd596748aafc0a18155e4c072d0990928bcd9ee7f5e84895a204",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022533&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2012-11-16",
+  "gazette": "2012-12-14",
+  "numac": 2012036234,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
