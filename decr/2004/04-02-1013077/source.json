@@ -2,16 +2,16 @@
   "codex_id": 1013077,
   "title": "Decreet van 2004-04-02 betreffende de microfinanciering in ontwikkelingslanden door middel van waarborgverlening aan ontwikkelingsfondsen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013077/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "adfdfa9eb3602249f3dac30e2efcf3b8109040581e414a686af87e9176f181c3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013077/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "601b2ce164cb688279163cff1c2bfb74d4b157c842f54de0cd7706864635de37",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013077&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2013-01-01",
   "made": "2004-04-02",
   "gazette": "2004-06-09",
   "numac": 2004035798,
   "document_start": null,
   "document_end": "2999-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2013-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
