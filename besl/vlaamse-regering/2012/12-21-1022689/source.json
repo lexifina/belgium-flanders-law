@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022689,
+  "title": "Besluit van de Vlaamse Regering van 2012-12-21 houdende de wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 30 september 2005 houdende vaststelling van de criteria voor de erkenning van de plaatselijke kerk- en geloofsgemeenschappen van de erkende erediensten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022689/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "031d5379b36cf85081b2dde86aa813a133e9c2566f64d923c8210be90b2edd4e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022689&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2012-12-21",
+  "gazette": "2013-01-29",
+  "numac": 2013200358,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
