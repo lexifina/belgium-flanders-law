@@ -60,7 +60,7 @@ De Vlaamse Regering kan, in het kader van de doelstellingen van dit decreet, aan
 
 ### ART. 13.
 
-Voor de uitvoering van de opdrachten, vermeld in artikel 11, sluit de Vlaamse Regering met het VLEMI een meerjarenconvenant voor een periode van vijf jaar. De vijfjarige periode start op 1 januari van het tweede jaar dat volgt op de verkiezing van het Vlaams Parlement. Dat convenant bevat minstens de volgende elementen :<br />1° een beschrijving van de bestaande situatie;<br />2° een opgave van de strategische en operationele doelstellingen;<br />3° een opgave van de te bereiken resultaten en de bijbehorende indicatoren;<br />4° een beschrijving van de samenwerking met de integratiecentra, de integratiediensten, de huizen van diversiteit, de participatieorganisatie en de Vereniging van Vlaamse Steden en Gemeenten.<br /><br />De Vlaamse Regering bepaalt de verdere inhoud van het meerjarenconvenant en de wijze waarop het tot stand komt.
+Voor de uitvoering van de opdrachten, vermeld in artikel 11, sluit de Vlaamse Regering met het VLEMI een meerjarenconvenant voor een periode van vijf jaar. De vijfjarige periode start op 1 januari van het tweede jaar dat volgt op de verkiezing van het Vlaams Parlement. Dat convenant bevat minstens de volgende elementen :<br />1° een beschrijving van de bestaande situatie;<br />2° een opgave van de strategische en operationele doelstellingen;<br />3° een opgave van de te bereiken resultaten en de bijbehorende indicatoren;<br />4° een beschrijving van de samenwerking met de integratiecentra, de steden en gemeenten, de participatieorganisatie en de Vereniging van Vlaamse Steden en Gemeenten.<br /><br />De Vlaamse Regering bepaalt de verdere inhoud van het meerjarenconvenant en de wijze waarop het tot stand komt.
 
 ### ART. 14.
 
@@ -297,6 +297,14 @@ De Vlaamse regering kan de in artikel 3, eerste lid, 1° en 2°, vermelde person
 ## HOOFDSTUK VII/1 [... (opgeh. BVR 29 januari 2016. art. 64, I: 29 februari 2016)]
 
 ## [AFDELING 1 [... (opgeh. BVR 29 januari 2016. art. 64, I: 29 februari 2016)]
+
+### ART. 45/1.
+
+§ 1. De Vlaamse Regering erkent en subsidieert een Vlaamse centrale dienst voor sociaal telefoontolken en sociaal vertalen die belast is met het sociaal telefoontolken en die voorziet in een centraal aanbod aan sociaal vertalen. In het kader daarvan vervult die dienst de volgende algemene opdrachten :<br />1° telefonische tolkhulp bieden aan de gebruikers die behoefte hebben aan een sociaal telefoontolk;<br />2° vanuit een centrale loketfunctie voor de gebruikers documenten vertalen waarvan het belang het lokale of provinciale niveau overstijgt.<br /><br />De Vlaamse Regering bepaalt de voorwaarden en procedure van de erkenning.<br /><br />§ 2. Voor het uitvoeren van de opdrachten, vermeld in § 1, sluit de Vlaamse Regering met de Vlaamse centrale dienst voor sociaal telefoontolken en sociaal vertalen een overeenkomst voor een periode van vijf jaar. De overeenkomst bevat minstens de volgende elementen :<br />1° een beschrijving van de bestaande werking van de dienst conform het kwaliteitstraject;<br />2° een beschrijving van de huidige tolk- en vertaalprestaties, opgesplitst per gebruikersoverheid;<br />3° een opgave van de geplande werking van de dienst in de komende periode;<br />4° een prognose van de vraag naar sociaal telefoontolken en sociaal vertalen in de komende periode, opgesplitst per gebruikersoverheid.<br /><br />De Vlaamse Regering bepaalt de verdere inhoud van de overeenkomst.<br /><br />§ 3. De overeenkomst, vermeld in § 2, wordt geconcretiseerd in een jaarlijks operationeel plan waarin de elementen uit de overeenkomst geconcretiseerd worden voor het komende jaar.<br /><br />De Vlaamse Regering bepaalt de verdere inhoud van het jaarlijks operationeel plan.
+
+### ART. 45/3.
+
+Binnen de beschikbare begrotingskredieten kent de Vlaamse Regering een subsidie toe aan de erkende diensten voor sociaal tolken en vertalen. De subsidie wordt toegekend op basis van de overeenkomst die tussen de Vlaamse Regering en de diensten voor sociaal tolken en vertalen, vermeld in artikel 45/1, § 2, of artikel 45/2, § 2, tweede lid, naargelang van het geval, werd gesloten.<br /><br />De subsidie dient als tegemoetkoming in de volgende kosten :<br />1° de kosten van personeel, infrastructuur en werking van de Vlaamse centrale dienst voor sociaal telefoontolken en sociaal vertalen;<br />2° de kosten van het personeel van de decentrale diensten voor sociaal tolken en vertalen.<br /><br />De Vlaamse Regering bepaalt de nadere regels voor de toekenning en vereffening van de subsidies.<br /><br />De respectieve gebruikersoverheden betalen de te presteren tolk- en vertaalprestaties. De Vlaamse Regering bepaalt de nadere regels voor betaling.
 
 ### ART. 45/4.
 
