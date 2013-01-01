@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023457,
+  "title": "Besluit van de Vlaamse Regering van 2013-11-08 tot vastlegging van een subsidie voor de optimalisering van de omkadering voor de leertijd in 2013",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023457/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "386acbca3a635b7fcb0fc126aac8a096717644e658b3e1b53e3c592e2fa521a6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023457&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2013-11-08",
+  "gazette": "2013-12-10",
+  "numac": 2013206738,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
