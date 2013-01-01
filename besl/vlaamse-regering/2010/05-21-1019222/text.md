@@ -54,7 +54,7 @@ De dienst Inclusieve Ondersteuning legt op basis van het ondersteuningsplan in d
 
 ### ART. 11.
 
-§ 1. De gebruiker heeft nood aan de handicapspecifieke ondersteuning van een door het agentschap erkende voorziening.<br /><br />De gebruiker moet, op basis van de inschaling met het zorgzwaarte-instrument en rekening houdend met zijn volledige ondersteuningsplan, bij de aanvang van de ondersteuning minstens een beroep kunnen doen op ondersteuning, geleverd door de dienst Inclusieve Ondersteuning, die equivalent is aan de waarde P3 en B2, vermeld in bijlage 2, die bij dit besluit is gevoegd.<br /><br />§ 2. De woonondersteuning kan alleen geboden worden op de plaats van domicilie van de gebruiker. Die voorwaarde moet vervuld zijn met ingang van het tweede jaar van de ondersteuning.<br /><br />De gebruikers mogen niet hoofdzakelijk verblijven bij personen die over hen in rechte of in feite de ouderlijke macht uitoefenen.<br /><br />§ 3. De gebruikers zijn verantwoordelijk voor hun eigen woon- en leefkosten.
+§ 1. De gebruiker heeft nood aan de handicapspecifieke ondersteuning van   een door het agentschap erkende voorziening.<BR><BR>De gebruiker moet, op basis   van de inschaling met het zorgzwaarte-instrument en rekening houdend met zijn   volledige ondersteuningsplan, bij de aanvang van de ondersteuning minstens een   beroep kunnen doen op ondersteuning, geleverd door de dienst Inclusieve   Ondersteuning, die equivalent is aan de waarde P3 en B2, vermeld in bijlage 2,   die bij dit besluit is gevoegd.<BR><BR>§ 2. De gebruikers mogen niet   hoofdzakelijk verblijven bij personen die over hen in rechte of in feite de   ouderlijke macht uitoefenen.<BR><BR>§ 3. De gebruikers zijn verantwoordelijk   voor hun eigen woon- en leefkosten.
 
 ### ART. 12.
 
@@ -164,7 +164,7 @@ In artikel 16 van het besluit van de Vlaamse Regering van 17 november 2006 betre
 
 ### ART. 35.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2010, met uitzondering van :<br />1° artikel 29 en 30 die in werking treden op 1 januari 2011;<br />2° artikel 34 dat in werking treedt op 1 januari 2013.
+Dit besluit heeft uitwerking met ingang van 1 januari 2010, met   uitzondering van :<BR>1° artikel 29 en 30 die in werking treden op 1 januari   2011;<BR>2° artikel 34 dat in werking treedt op 1 januari 2014.
 
 ### ART. 36.
 
