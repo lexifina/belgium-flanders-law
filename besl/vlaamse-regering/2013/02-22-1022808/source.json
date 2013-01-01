@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022808,
+  "title": "Besluit van de Vlaamse Regering van 2013-02-22 houdende de wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 17 december 1996 betreffende de erkenning en subsidiëring van thuisbegeleidingsdiensten voor personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022808/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "53c2b320c984f3a9b443beccfce2c65dd1a76a1963bd712e385dd8a62676180a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022808&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2013-02-22",
+  "gazette": "2013-03-22",
+  "numac": 2013035267,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
