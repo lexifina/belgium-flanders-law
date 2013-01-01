@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023254,
+  "title": "Ministerieel besluit van 2013-04-23 tot bepaling van de diensten voor gezinszorg en aanvullende thuiszorg die in aanmerking komen voor subsidiëring van aanvullende thuiszorg en tot bepaling van het aantal vte per functiecategorie en per dienst voor het jaar 2013",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023254/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "a9cd442243ff86ec54ed36a1630383e04977041f563e569964728779a2444880",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023254&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2013-04-23",
+  "gazette": "2013-10-01",
+  "numac": 2013035839,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
