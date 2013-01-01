@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022943,
+  "title": "Besluit van de Vlaamse Regering van 2013-04-19 houdende wijziging van artikel 6 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de bezoldigingsregeling van de lokale en provinciale mandataris",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022943/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "643d951837d5c37cdc418c74924b3089a155345b594269f4f15a42ec6f6c9814",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022943&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2013-04-19",
+  "gazette": "2013-05-31",
+  "numac": 2013203157,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
