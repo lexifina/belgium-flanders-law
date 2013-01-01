@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022396,
+  "title": "Besluit van de Vlaamse Regering van 2012-09-21 tot wijziging van het besluit van de Vlaamse Regering van 14 december 2007 houdende vaststelling van het Vlaams reglement betreffende de bodemsanering en de bodembescherming, wat betreft de bodempreventie- en bodembeheersplicht en de bodemsaneringsorganisaties",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022396/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "d3520fd1870b26e4dfb213d8d551d1ae2b2bf6c0460f731d7123b1e6e1981ce5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022396&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2012-09-21",
+  "gazette": "2012-10-18",
+  "numac": 2012036092,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
