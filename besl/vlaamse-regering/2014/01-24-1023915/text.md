@@ -52,6 +52,10 @@ In artikel 30, § 1, van hetzelfde besluit wordt het derde lid vervangen   door 
 
 &nbsp;In artikel 31, eerste lid, 14°, van hetzelfde besluit worden de   volgende wijzigingen aangebracht : <BR>1° de woorden "aanmelding van het   project" worden vervangen door de woorden "kennisgeving van de gunning van het   project";<BR>2° de volgende zin wordt toegevoegd : <BR>« Dit sociale woonproject   heeft betrekking op één locatie en vormt een geografisch en technisch   samenhangend geheel; ».<BR>
 
+### ART. 20.
+
+In artikel 86, derde lid, van hetzelfde besluit wordt de zinsnede "van 100   euro" vervangen door de zinsnede "van 10 euro". <BR>
+
 ## HOOFDSTUK 5 Wijzigingen van het Fundingbesluit van de VMSW van 21 december 2012
 
 ## HOOFDSTUK 6 Wijziging van het besluit van de Vlaamse Regering van 11 oktober 2013 tot wijziging van diverse besluiten betreffende het woonbeleid
