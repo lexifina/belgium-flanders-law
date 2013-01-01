@@ -6,15 +6,15 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied chemie, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage 1 en 2, die bij dit besluit zijn gevoegd.
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007   betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de   modulaire structuur van het studiegebied chemie, dat behoort tot het secundair   volwassenenonderwijs, vastgelegd in bijlage 1&nbsp;tot en met&nbsp;6, die bij   dit besluit zijn gevoegd.
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br />
+De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar   na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die   evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het   decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<BR><BR>De   opleidingsprofielen vastgelegd in bijlagenn 3 tot en met 6 worden uiterlijk   tijdens het schooljaar 2016-2017 geëvalueerd.
 
 ### ART. 3.
 
-Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Farmaceutisch Technisch Assistent TSO 3 heeft vanaf 1 september 2011 ook onderwijsbevoegdheid voor de modulaire opleiding Farmaceutisch Technisch Assistent.
+Het bestuur van een Centrum voor Volwassenenonderwijs dat   onderwijsbevoegdheid heeft voor de modulaire opleiding Farmaceutisch Technisch   Assistent TSO 3 heeft vanaf 1 september 2011 ook onderwijsbevoegdheid voor de   modulaire opleiding Farmaceutisch Technisch Assistent.<BR><BR>Het bestuur van   een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de   modulaire opleiding Biochemie TSO3 heeft vanaf 1 februari 2013   onderwijsbevoegdheid voor de modulaire opleidingen Technicus in   fermentatieprocessen - bieren, Technicus in fermentatieprocessen - wijnen,   Technicus in fermentatieprocessen - destillaten en likeuren en Technicus in   fermentatieprocessen - zuivel.
 
 ### ART. 4.
 
@@ -35,3 +35,19 @@ Modulaire opleiding Procesoperator Chemie<br /><br /> <a href="http://www.ejusti
 ### BIJLAGE
 
 Modulaire opleiding Farmaceutisch Technisch Assistent <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/10/31_1.pdf#page=64" title=" " target="_blank" class="pdf"></a>
+
+### BIJLAGE
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/05_1_3.pdf#page=79">Bijlage   3</A>
+
+### BIJLAGE
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/05_1_3.pdf#page=91">Bijlage   4</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/05_1_4.pdf#page=1">Bijlage   4 (deel 2)</A><BR><BR>
+
+### BIJLAGE
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/05_1_4.pdf#page=2">Bijlage   5</A>
+
+### BIJLAGE
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/05_1_4.pdf#page=13">Bijlage   6</A>
