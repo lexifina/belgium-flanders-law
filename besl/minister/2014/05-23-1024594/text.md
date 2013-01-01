@@ -1,0 +1,17 @@
+# Ministerieel besluit van 2014-05-23 tot wijziging van het ministerieel besluit van 12 januari 1994 tot uitvoering, voor wat de gehandicaptensector betreft, van artikel 12 van het besluit van de Vlaamse Regering van 15 december 1993 houdende de subsidiëring van de personeelskosten in bepaalde voorzieningen van de welzijnssector, wat betreft de opheffing van de leeftijdsdiscriminatie
+
+### Aanhef
+
+<P>De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<BR></P>  <P>Besluit :<BR></P>
+
+### ART. 1.
+
+In het ministerieel besluit van 12 januari 1994 tot uitvoering, voor wat   de gehandicaptensector betreft, van artikel 12 van het besluit van de Vlaamse   Regering van 15 december 1993 houdende de subsidiëring van de personeelskosten   in bepaalde voorzieningen van de welzijnssector wordt de bijlage vervangen door   de bijlage die bij dit besluit is gevoegd.<BR>
+
+### ART. 2.
+
+Dit besluit heeft uitwerking met ingang van 1 januari   2013.<BR>
+
+### BIJLAGE 1
+
+Bijlage 1 bij het ministerieel besluit tot uitvoering, voor wat de   gehandicaptensector betreft, van artikel 12 van het besluit van de Vlaamse   Regering van 15 december 1993 houdende de subsidiëring van de personeelskosten   in bepaalde voorzieningen van de welzijnssector<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>      <TD>Weddeschaal met ingang van 1/11/93<BR>    <TR>      <TD>Logistiek personeel klasse 4       <TD>L4<BR>    <TR>      <TD>Logistiek personeel klasse 3       <TD>L3<BR>    <TR>      <TD>Logistiek personeel klasse 3 in dienst vóór 1/11/93       <TD>L3a<BR>    <TR>      <TD>Logistiek personeel klasse 2       <TD>L2<BR>    <TR>      <TD>Logistiek personeel klasse 2 in dienst vóór 1/11/93 en administratief         personeel klasse 2       <TD>A2<BR>    <TR>      <TD>Logistiek en administratief personeel klasse 1       <TD>A1<BR>    <TR>      <TD>Administratief personeel klasse       <TD>A3<BR>    <TR>      <TD>Begeleidend en verzorgend personeel klasse 3       <TD>B3<BR>    <TR>      <TD>Begeleidend en verzorgend personeel kasse 2B en ADL-assistent       <TD>B2b<BR>    <TR>      <TD>Begeleidend en verzorgend personeel klasse 2A       <TD>B2a<BR>    <TR>      <TD>Opvoedend personeel klasse 1       <TD>B1c<BR>    <TR>      <TD>Hoofdopvoeder en diensthoofd       <TD>B1b<BR>    <TR>      <TD>Opvoeder groepschef, tussenkader, verantwoordelijke en coördinator       <TD>B1a<BR>    <TR>      <TD>Sociaal, paramedisch en therapeutisch personeel       <TD>MV1<BR>    <TR>      <TD>Verzorgend personeel       <TD>MV2<BR>    <TR>      <TD>Licentiaten/masters + tandarts       <TD>L1<BR>    <TR>      <TD>Geneesheer-specialist       <TD>GS<BR>    <TR>      <TD>Geneesheer-omnipracticus       <TD>G1<BR>    <TR>      <TD>Directeur capaciteit 6-29, onderdirecteur, verantwoordelijke en         directiemedewerker       <TD>K5<BR>    <TR>      <TD>Directeur capaciteit 30-59       <TD>K3<BR>    <TR>      <TD>Directeur capaciteit 60-89       <TD>K2<BR>    <TR>      <TD>Directeur capaciteit vanaf 90       <TD>K1<BR>    <TR>      <TD>Personeel in dienst vóór 1/12/91:       <TD><BR>    <TR>      <TD>Logistiek personeel:       <TD><BR>    <TR>      <TD>Onderhoud cat. II       <TD>L4 ond. II<BR>    <TR>      <TD>Onderhoud cat. III       <TD>L4 ond. III<BR>    <TR>      <TD>Onderhoud cat. IV       <TD>L3 ond. IV<BR>    <TR>      <TD>Onderhoud cat. V       <TD>L2 ond. V<BR>    <TR>      <TD>Administratief personeel:       <TD><BR>    <TR>      <TD>Boekhouder klasse 2       <TD>A2 boekh. Kl. II<BR></TD></TR></TBODY></TABLE><BR>
