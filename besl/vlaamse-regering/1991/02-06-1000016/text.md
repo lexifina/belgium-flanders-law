@@ -974,35 +974,35 @@ B = Inrichting waarvoor conform het Bodemdecreet en het Vlareboeen oriënterend 
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:35.55pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:7cm">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:7cm">
 			<p>Omschrijving en subrubrieken</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:42.55pt">
 			<p>Klasse</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:56.55pt">
 			<p>Bemerkingen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:42.55pt">
 			<p>Coördi-nator</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:42.55pt">
 			<p>Audit</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:48.3pt">
 			<p>Jaarverslag</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:11.35pt; width:42.55pt">
 			<p>Vlarebo</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p><strong>2.</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p><strong>Afvalstoffen</strong></p>
 
 			<p>Inrichtingen voor de verwerking van afvalstoffen overeenkomstig het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen en zijn uitvoeringsbesluiten.</p>
@@ -1035,60 +1035,60 @@ B = Inrichting waarvoor conform het Bodemdecreet en het Vlareboeen oriënterend 
 
 			<p>Kringloopcentra, e.d. met name inrichtingen waar tweedehands huishoudelijke goederen en hiermee vergelijkbare bedrijfsgoederen die in aanmerking komen voor productiegebruik (zoals kleding, boeken, meubelen, huisraad, speelgoed, elektrische en elektronische apparatuur) worden opgeslagen, gesorteerd, gereinigd en/of hersteld, zijn geen inrichtingen voor de verwerking van afvalstoffen.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p><u>Opslag en overslag van afvalstoffen</u></p>
 
 			<p>Opmerking:</p>
 
 			<p>De opslag en overslag van dierlijke bijproducten die worden beschouwd als afvalstoffen zoals bedoeld in het <em>decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen</em>, zijn ingedeeld onder de subrubriek 2.2.4 en vallen niet onder deze subrubriek 2.1.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.1.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Opslag van afvalstoffen niet aan een verwerking van de afvalstoffen verbonden</p>
 
 			<p><em><u>Uitzondering:</u></em></p>
@@ -1103,584 +1103,584 @@ B = Inrichting waarvoor conform het Bodemdecreet en het Vlareboeen oriënterend 
 
 			<p>Deze opslag kan wel ingedeeld zijn volgens een andere rubriek (zie o.a. rubriek 30).</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.1.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Opslag en overslag van afvalstoffen die niet aan verwerking verbonden zijn, met een opslagcapaciteit van (overslag van afvalstoffen is het bijeenvoegen van gelijksoortige afvalstoffen in grotere recipiënten en/of transportmiddelen met het oog op een rendabeler transport ervan):</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>a) maximaal 1 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>b) meer dan 1 ton voor afvalstoffen die ook asbestafval als bedoeld sub c) kunnen omvatten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>c) meer dan 1 ton voor asbestafval bestaande uit asbestcement of andere asbesthoudende bouwmaterialen waarin asbest in gebonden vorm aanwezig is</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.1.3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Tussentijdse opslagplaats voor uitgegraven bodem die niet voldoet aan een toepassing als vermeld in het Bodemdecreet en Vlarebo.</p>
 
 			<p>Bijhorende beperkte mechanische activiteiten, zoals het sorteren en/of zeven van uitgegraven bodem zijn inbegrepen in deze rubriek.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>a) met een capaciteit van maximaal 10.000 m<sup>2</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>A, O</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>b) met een capaciteit van meer dan 10.000 m<sup>2</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p><u>Opslag en nuttige toepassing van afvalstoffen</u></p>
 
-			<p><em>Alle inrichtingen onder 2.2. zijn inrichtingen waarin handelingen gebeuren waardoor nuttige toepassing van het merendeel van de afvalstoffen mogelijk wordt.</em> Het verbranden van afvalstoffen al of niet met terugwinning van <!--?xml:namespace prefix = st1         ns = "urn:schemas-microsoft-com:office:smarttags" /-->energie en/of stoffen alsook het reinigen van recipiënten door uitbranden zijn ingedeeld onder 2.3.</p>
+			<p><em>Alle inrichtingen onder 2.2. zijn inrichtingen waarin handelingen gebeuren waardoor nuttige toepassing van het merendeel van de afvalstoffen mogelijk wordt.</em> Het verbranden van afvalstoffen al of niet met terugwinning van energie en/of stoffen alsook het reinigen van recipiënten door uitbranden zijn ingedeeld onder 2.3.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.2.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Opslag en sortering van:</p>
 
 			<p><em>Sorteren is de afvalstoffen manueel of met lichte gereedschappen soort bij soort voegen. Indien het sorteren deel is van andere ingedeelde handelingen op afvalstoffen valt 2.2.1. weg.</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>a) inerte afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>b) selectief ingezamelde huishoudelijke afvalstoffen, en met huishoudelijke afvalstoffen vergelijkbare bedrijfsafvalstoffen met inbegrip van klein gevaarlijk afval (containerpark)</p>
 
 			<p>Het is een inrichting van een exploitant die belast is met de inzameling van huishoudelijke afvalstoffen.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>A, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>c) niet gevaarlijke afvalstoffen bestaande uit papier en karton, hout, textiel, kunststoffen, metaal, glas, rubber, bouw- en sloopafval, met een opslagcapaciteit van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° maximaal 100 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° meer dan 100 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>d) andere niet gevaarlijke afvalstoffen, met een opslagcapaciteit van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° maximaal 100 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° meer dan 100 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>e) gevaarlijke afvalstoffen, uitgezonderd de in subrubriek 2.2.1, b) ingedeelde inrichtingen, met een opslagcapaciteit van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° maximaal 1 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° meer dan 1 ton voor afvalstoffen andere dan asbestafval bestaande uit asbestcement of andere asbesthoudende bouwmaterialen waarin asbest in gebonden vorm aanwezig is</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 3° meer dan 1 ton voor asbestafval bestaande uit asbestcement of andere asbesthoudende bouwmaterialen waarin asbest in gebonden vorm aanwezig is</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.2.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Opslag en mechanische behandeling van:</p>
 
 			<p><em>Mechanisch behandelen is het behandelen van de afvalstoffen met werktuigen, zonder de chemische eigenschappen van de afvalstoffen te veranderen. Het is o.m. het breken, demonteren, hakselen, klieven, knippen, kuisen, persen, pletten, scheiden, shredderen, snijbranden, stralen, wassen, zagen, zeven.</em></p>
@@ -1689,290 +1689,290 @@ B = Inrichting waarvoor conform het Bodemdecreet en het Vlareboeen oriënterend 
 
 			<p><em>Het mechanisch behandelen op de bouwplaats zelf, op percelen waarop de stedenbouwkundige vergunning voor het bouwwerk betrekking heeft, van inerte stoffen die bij de uitvoering van wegeniswerken ontstaan, wordt in deze context evenmin als een behandeling van afvalstoffen beschouwd indien die stoffen nuttig worden aangewend op die bouwplaats zelf. De nuttige toepassing moet blijken uit het feit dat indien de restanten niet zouden gebruikt worden, een alternatief met vergelijkbare eigenschappen zou moeten aangevoerd worden als grondstof.</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>a) inerte afvalstoffen, met een opslagcapaciteit van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° maximaal 1.000 m<sup>3</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° meer dan 1.000 m<sup>3</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>b) niet gevaarlijke afvalstoffen uit 2.2.1.c., met een opslagcapaciteit van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° maximaal 100 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° meer dan 100 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>c) schroot met een opslagcapaciteit van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° maximaal 10 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° meer dan 10 ton en met 100 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 3° meer dan 100 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>d) voertuigwrakken of afgedankte voertuigen, met een opslagcapaciteit van:</p>
 
 			<p>Uitzonderingen:</p>
@@ -1983,806 +1983,806 @@ B = Inrichting waarvoor conform het Bodemdecreet en het Vlareboeen oriënterend 
 
 			<p>3° De opslag van voertuigwrakken of afgedankte voertuigen ontstaan uit de aanvaardingsplicht, terugnameplicht of de vrijwillige terugname, is niet ingedeeld in onderhavige rubriek 2.2.2.d) indien de opslag gebeurt bij de eindverkoper, tussenhandelaar, producent of invoerder van de stoffen en indien de opslag gebeurt in functie van een regelmatige afvoer.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° maximaal 25 ton of 25 voertuigwrakken of afgedankte voertuigen die noch vloeistoffen, noch andere gevaarlijke onderdelen bevatten (deze afgedankte voertuigen zijn enkel afkomstig van erkende centra voor depollutie, demontage en vernietiging van afgedankte voertuigen),</p>
 
 			<p>en/of</p>
 
 			<p>maximaal 5 ton of 5 voertuigwrakken of afgedankte voertuigen die wel nog vloeistoffen en/of andere gevaarlijke onderdelen bevatten,</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° meer dan 25 ton of 25 voertuigwrakken of afgedankte voertuigen tot maximaal 100 ton of 100 voertuigwrakken of afgedankte voertuigen die noch vloeistoffen, noch andere gevaarlijke onderdelen bevatten (deze afgedankte voertuigen zijn enkel afkomstig van erkende centra voor depollutie, demontage en vernietiging van afgedankte voertuigen),</p>
 
 			<p>en/of</p>
 
 			<p>meer dan 5 ton of 5 voertuigwrakken of afgedankte voertuigen tot maximaal 100 ton of 100 voertuigwrakken of afgedankte voertuigen die wel nog vloeistoffen en/of andere gevaarlijke onderdelen bevatten,</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 3° meer dan 100 ton of 100 voertuigwrakken of afgedankte voertuigen die al dan niet vloeistoffen of andere gevaarlijke onderdelen bevatten (afgedankte voertuigen die noch vloeistoffen, noch andere gevaarlijke onderdelen bevatten zijn enkel afkomstig van erkende centra voor depollutie, demontage en vernietiging van afgedankte voertuigen).</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>e) scheepssloperijen en sloperijen andere dan bedoeld onder c) en d)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>f) andere niet gevaarlijke afvalstoffen met een opslagcapaciteit van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° maximaal 100 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° meer dan 100 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>g) andere gevaarlijke afvalstoffen, met een opslagcapaciteit van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° maximaal 1 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° meer dan 1 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>h) afvalstoffen afkomstig van één specifiek bouw- en sloopwerf of wegenwerk, waarbij minstens 50 % van de stoffen na behandeling nuttig worden aangewend op de plaats van ontstaan, waarbij de inrichting niet langer dan één jaar in exploitatie zal zijn en waarbij de inrichting zich op maximaal 1 000 m van het wegenwerk bevindt of ter plaatse (op het perceel zelf of op een aangrenzend perceel) van de bouw- en sloopwerf</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.2.3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Opslag en biologische behandeling van:</p>
 
 			<p>nuttige toepassing op de plaats van productie, inclusief thuiscompostering, alsook boerderijcompostering wanneer er gewerkt wordt met uitsluitend bedrijfseigen uitgangsmateriaal en de compost uitsluitend bestemd is voor de eigen percelen, wordt niet als opslag of behandeling van afvalstoffen beschouwd</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>a) compostering van uitsluitend groenafval met:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° opslag en/of composteerruimte van maximaal 25m<sup>3</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° opslag en/of composteerruimte van meer dan 25 m<sup>3</sup> tot en met 2.000 m<sup>3</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>A, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 3° opslag en/of composteerruimte van meer dan 2.000 m<sup>3</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>b) compostering van groente-, fruit- en tuinafval (GFT-afval) met:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° opslag en/of composteerruimte, inclusief wijkcompostering, compostpaviljoen, e.d., van maximaal 25m<sup>3</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° opslag en/of composteerruimte van meer dan 25 m<sup>3</sup> tot en met 2.000 m<sup>3</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>A, M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 3° opslag en/of composteerruimte van meer dan 2.000 m<sup>3</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>c) compostering van organisch-biologische bedrijfsafvalstoffen:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° opslag en/of composteerruimte van maximaal 25 m<sup>3</sup> uitsluitend bedrijfseigen uitgangsmateriaal</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp; 2° opslag en/of composteerruimte, andere dan deze bedoeld onder 1°, van maximaal 2 000 m<sup>3</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>A, M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp; 3° opslag en/of composteerruimte van meer dan 2 000 m<sup>3</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>d) opslag en voorbehandeling van maaisel in afwachting van een nuttige toepassing met een opslagcapaciteit:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° tot en met 1.000 m<sup>3</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° meer dan 1.000 m<sup>3</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>e) vergisting van niet gevaarlijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>f) andere biologische behandeling van niet gevaarlijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>g) biologische behandeling van gevaarlijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.2.4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p><em>Dierlijke bijproducten niet bestemd voor menselijke consumptie die worden beschouwd als afvalstoffen zoals bedoeld in het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen. Voor dierlijke bijproducten niet bestemd voor menselijke consumptie, andere dan afvalstoffen: zie inzonderheid indelingsrubriek 45.18. De be- en verwerking van dierlijke mest valt onder de toepassing van de rubriek 28.3.</em></p>
 
 			<p><em>Voor de toepassing van deze subrubriek gelden de volgende definities conform de EU-verordening 1774/2002 van 3 oktober 2002 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten:</em></p>
@@ -2807,214 +2807,214 @@ B = Inrichting waarvoor conform het Bodemdecreet en het Vlareboeen oriënterend 
 
 			<p><em>10° “technisch bedrijf”: een bedrijf waar dierlijke bijproducten worden gebruikt voor de vervaardiging van technische producten waarbij onder “technische producten” wordt verstaan rechtstreeks van bepaalde dierlijke bijproducten vervaardigde producten die niet voor menselijke consumptie of diervoeding bestemd zijn, zoals gelooide en behandelde huiden, jachttrofeeën, bewerkte wol, haar, varkenshaar, veren en delen van veren, serum van paardachtigen, bloedproducten, farmaceutische producten, medische hulpmiddelen, cosmetische producten, beenderproducten voor porselein, gelatine en lijm, biologische meststoffen, bodemverbeteraars, gesmolten vet, vetderivaten, verwerkte mest en melk van producten op basis van melk.</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>a) opslagbedrijf</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>b) intermediair categorie 3-bedrijf</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>A, G, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>c) intermediair categorie 1- of categorie 2-bedrijf</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>d) verwerkingsbedrijf van categorie 3-materiaal</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>A, G, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>e) verwerkingsbedrijf van categorie 2-materiaal</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>f) verwerkingsbedrijf van categorie 1-materiaal</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>g) installaties voor de destructie of verwerking van kadavers en dierlijk afval met een verwerkingscapaciteit van meer dan 10 ton per dag.</p>
 
 			<p>Er kan overlapping zijn met deelrubriek 2.2.4, c), d) of e).</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, M, O, T, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.2.5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Opslag en fysisch-chemische behandeling al of niet in combinatie met een mechanische behandeling van:</p>
 
 			<p><em>Fysisch-chemisch behandelen van afvalstoffen is de chemische eigenschappen, de chemische samenstelling of de aggregatietoestand van de afvalstoffen wijzigen. Het is o.m. het decanteren, distilleren, extraheren, mengen, neerslaan, neutraliseren, ontwateren, oxideren, raffineren, reduceren, regenereren, smelten, solidifiëren. </em></p>
@@ -3023,1002 +3023,1002 @@ B = Inrichting waarvoor conform het Bodemdecreet en het Vlareboeen oriënterend 
 
 			<p><em>Het afscheiden van vuil en van verontreinigende stoffen uit water, rioolwater en/of afvalwater door middel van vuilroosters, roostergoedpers, zandvangers, vetvangers, voorbezinktanks, beluchtingsbassins, nabezinktanks, voorindikkers, na-indikkers, centrifugeren en/of persen, en andere procesmatige onderdelen van afvalwaterzuiveringsinstallaties als bedoeld in rubriek 3.6 en van drinkwaterzuiveringsinstallaties, betreft geen inrichting voor de verwerking van afvalstoffen en is dus niet ingedeeld onder onderhavige rubriek 2.</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>a) niet gevaarlijke slibs, met een opslagcapaciteit van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° tot en met 1 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>A, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° meer dan 1 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>b) gevaarlijke slibs, met een opslagcapaciteit van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° tot en met 1 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>A, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° meer dan 1 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>c) afgewerkte olie, met een opslagcapaciteit van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° tot en met 1 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>A, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° meer dan 1 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>d) organische oplosmiddelen, met een opslagcapaciteit van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° tot en met 1 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>A, G, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° meer dan 1 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>e) andere niet gevaarlijke afvalstoffen, met een opslagcapaciteit van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° tot en met 1 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>A, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° meer dan 1 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>f) andere gevaarlijke afvalstoffen, met een opslagcapaciteit van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° tot en met 1 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>A, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
-			<p>&nbsp;&nbsp; 2° meer dan 1 ton</p>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
+			<p>&nbsp; &nbsp;2° meer dan 1 ton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.2.6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Opslag en reiniging van recipiënten (verpakkingen en containers) door inwendig wassen van:</p>
 
 			<p><em>Containers zijn laadkisten voor vervoer, maar ook tankwagens, bulkwagens, spoorwegwagens, scheepsruimen.</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>a) recipiënten die stoffen hebben bevat die als afvalstoffen bij de inerte afvalstoffen zijn gerangschikt</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>b) recipiënten die biologische stoffen hebben bevat die als afvalstoffen bij de niet-gevaarlijke biologische afvalstoffen zijn gerangschikt</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>c) recipiënten die stoffen hebben bevat die als afvalstoffen bij de andere niet-gevaarlijke afvalstoffen zijn gerangschikt</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>d) recipiënten die stoffen hebben bevat die als afvalstoffen bij de gevaarlijke afvalstoffen zijn gerangschikt</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p><em>Uitzondering: het wassen - bij de vuller of gebruiker - van verpakkingen die bestemd en ontworpen zijn om binnen hun levensduur een aantal omlopen te maken, dat wil zeggen die opnieuw gevuld of gebruikt worden voor hetzelfde doel als waarvoor zij zijn ontworpen, is geen inrichting voor de verwerking van afvalstoffen.</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.2.7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Installaties voor de nuttige toepassing van gevaarlijke afvalstoffen, met een capaciteit van meer dan 10 ton per dag, in de zin van de bijlage II B (handelingen R1, R5, R6, R8 en R9) bij EG-richtlijn 75/442/EEG, met name:</p>
 
 			<p>(er kan een overlapping zijn met andere deelrubrieken van rubriek 2.2)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>R1&nbsp;&nbsp; Hoofdgebruik als brandstof of een andere wijze van energieopwekking</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>E, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>R5&nbsp;&nbsp; Recycling/terugwinning van andere anorganische stoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>R6&nbsp;&nbsp; Terugwinning van zuren of basen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>R8&nbsp;&nbsp; Terugwinning van bestanddelen uit katalysatoren</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>R9&nbsp;&nbsp; Herraffinage van olie en andere hergebruik van olie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.2.8</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Opslag en behandeling van baggerspecie afkomstig van het ruimen, verdiepen en/of verbreden van bevaarbare en onbevaarbare waterlopen behorende tot het openbaar hydrografisch net en/of van de aanleg van nieuwe waterinfrastructuur:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>a) opslag in afwachting van behandeling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>b) mechanische, fysisch-chemische en/of biologische behandeling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p><u>Opslag en verwijdering van afvalstoffen</u></p>
 
 			<p><em>Alle inrichtingen onder 2.3. zijn inrichtingen waarin handelingen gebeuren die leiden tot de vernietiging of de definitieve opslag in of op de bodem van afvalstoffen, met uitzondering van subrubriek 2.3.11.</em></p>
 
 			<p><em>Het verbranden en meeverbranden van afvalstoffen al of niet met terugwinning van energie en/of stoffen alsook het reinigen van recipiënten door uitbranden, zijn gerangschikt onder deze rubriek 2.3.</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.3.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Opslag en mechanische behandeling, andere dan deze bedoeld in rubriek 2.3.7. van:</p>
 
 			<p><em>Mechanisch behandelen is het behandelen van afvalstoffen met werktuigen, zonder de chemische eigenschappen van de afvalstoffen te veranderen. Het is o.m. het breken, demonteren, hakselen, klieven, knippen, kuisen, persen, pletten, scheiden, shredderen, snijbranden, stralen, wassen, zagen, zeven.</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>a) niet-gevaarlijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>b) gevaarlijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.3.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Opslag en fysisch-chemische behandeling, al of niet in combinatie met mechanische behandeling, andere dan deze bedoeld in rubriek 2.3.7. van:</p>
 
 			<p><em>Fysisch-chemisch behandelen van afvalstoffen is de chemische eigenschappen, de chemische samenstelling of de aggregatietoestand van de afvalstoffen wijzigen. Het is o.m. het decanteren, distilleren, extraheren, mengen, neerslaan, neutraliseren, ontwateren, oxideren, raffineren, regenereren, reduceren, smelten, solidifiëren.</em></p>
@@ -4029,346 +4029,346 @@ B = Inrichting waarvoor conform het Bodemdecreet en het Vlareboeen oriënterend 
 
 			<p><em>Het afscheiden van vuil en van verontreinigende stoffen uit water, rioolwater en/of afvalwater door middel van vuilroosters, roostergoedpers, zandvangers, vetvangers, voorbezinktanks, beluchtingsbassins, nabezinktanks, voorindikkers, na-indikkers, centrifugeren en/of persen, en andere procesmatige onderdelen van afvalwaterzuiveringsinstallaties als bedoeld in rubriek 3.6 en van drinkwaterzuiveringsinstallaties, betreft geen inrichting voor de verwerking van afvalstoffen en is dus niet ingedeeld onder onderhavige rubriek 2.</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>a) niet-gevaarlijke slibs</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>b) gevaarlijke slibs</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>c) afgewerkte olie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>d) organische oplosmiddelen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>e) andere niet-gevaarlijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>f) andere gevaarlijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.3.3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Opslag en biologische behandeling, andere dan deze bedoeld in rubriek 2.3.7. van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>a) niet-gevaarlijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>b) gevaarlijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.3.4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Opslag en verbranding of meeverbranding, al dan niet als experiment, met of zonder energiewinning en met of zonder terugwinning van stoffen van:</p>
 
 			<p><em>Uitzondering:</em></p>
 
 			<p><em>het verbranden van onbehandeld stukhout in houtkachels voor de verwarming van woonverblijven en werkplaatsen, in sfeerverwarmers en gelijksoortige toestellen met een nominaal thermisch vermogen van maximaal 300 kW, is geen inrichting voor de verwerking van afvalstoffen.</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.3.4.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Opslag en verbranding van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>a) biomassa-afval:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° - plantaardig afval van land- en bosbouw</p>
 
 			<p>&nbsp;&nbsp; - plantaardig afval van de levensmiddelenindustrie</p>
@@ -4383,432 +4383,432 @@ B = Inrichting waarvoor conform het Bodemdecreet en het Vlareboeen oriënterend 
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp; 2) meer dan 5 MW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:42.55pt">
 			<p>2</p>
 
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:56.55pt">
 			<p>A, O, T</p>
 
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° niet verontreinigd behandeld houtafval, met een nominaal thermisch vermogen van:</p>
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp; 1) tot en met 5MW</p>
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp; 2) meer dan 5 MW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:42.55pt">
 			<p>2</p>
 
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:56.55pt">
 			<p>A, M, O, T</p>
 
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>b) verontreinigd behandeld houtafval</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>c) afgewerkte olie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>d) opgeheven</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>e) niet-gevaarlijke huishoudelijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>f) niet-gevaarlijke bedrijfsafvalstoffen die vergelijkbaar zijn met huishoudelijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>g) vast niet-risicohoudend medisch afval</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>h) risicohoudend medisch afval en vloeibaar en pasteus niet-risicohoudend medisch afval</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>i) krengen in dierencrematoria</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>j) andere niet-gevaarlijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>k) andere gevaarlijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>l) dierlijk afval met uitzondering van krengen in dierencrematoria</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>m) waterzuiveringsslib</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.3.4.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Opslag en verbranding van:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>a) biomassa-afval:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1° - plantaardig afval van land- en bosbouw</p>
 
 			<p>&nbsp;&nbsp; - plantaardig afval van de levensmiddelenindustrie</p>
@@ -4819,1431 +4819,1431 @@ B = Inrichting waarvoor conform het Bodemdecreet en het Vlareboeen oriënterend 
 
 			<p>&nbsp;&nbsp; - onbehandeld houtafval, met een nominaal thermisch vermogen van:</p>
 
-			<p>&nbsp;&nbsp;&nbsp;&nbsp; 1) tot en met 5MW</p>
+			<p>&nbsp;&nbsp;&nbsp; &nbsp;1) tot en met 5MW</p>
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp; 2) meer dan 5 MW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:42.55pt">
 			<p>2</p>
 
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:56.55pt">
 			<p>A, O, T</p>
 
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2° niet verontreinigd behandeld houtafval, met een nominaal thermisch vermogen van:</p>
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp; 1) tot en met 5MW</p>
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp; 2) meer dan 5 MW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:42.55pt">
 			<p>2</p>
 
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:56.55pt">
 			<p>A, M, O, T</p>
 
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:bottom; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:bottom; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>b) verontreinigd behandeld houtafval</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>c) afgewerkte olie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>d) andere niet-gevaarlijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>e) andere gevaarlijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>f) dierlijk afval met uitzondering van krengen in dierencrematoria</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>g) waterzuiveringsslib</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.3.4.3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Experimentele verbranding of meeverbranding waar minder dan 50 ton afval per jaar wordt verbrand of meeverbrand. Wanneer minder dan 50 ton afval per jaar wordt verbrand of meeverbrand zijn de rubrieken 2.3.4.1 of 2.3.4.2 niet van toepassing. Wanneer meer dan 50 ton afval per jaar wordt verbrand of meeverbrand, wordt de inrichting ingedeeld onder 2.3.4.1 of 2.3.4.2.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.3.4.4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Installaties voor de verbranding van huishoudelijk afval, afval van commerciële bedrijven, kantoren, ondernemingen en andere afvalstoffen die gezien hun aard of hun samenstelling met huishoudelijk afval kunnen worden gelijkgesteld (EG-richtlijn 2000/76/EG van 4 december 2000 betreffende de verbranding van afval) met een capaciteit van meer dan 3 ton per uur (er kan een overlapping zijn met andere deelrubrieken van rubriek 2.3)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>E, O, M, T, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.3.5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Opslag en reiniging van metalen recipiënten door uitbranden</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>M, O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.3.6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Stortplaatsen, andere dan die vermeld in rubriek 2.3.7, van:</p>
 
 			<p>het rechtstreeks terugstorten op de plaats van ontginning, van materialen of stoffen in hun natuurlijke staat, voorzover ze afkomstig zijn van geologische afzettingen die tot het tertiaire of het kwartaire tijdperk behoren (zand-, klei-, leem, mergel en grindafzettingen) is geen stortactiviteit.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>a) categorie 3: stortplaats voor inerte afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1) stortplaats voor inerte afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, W</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2) monostortplaats voor inerte afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, W</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>b) categorie 2: stortplaats voor niet gevaarlijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1) stortplaats voor gemengde niet-gevaarlijke huishoudelijke vaste afvalstoffen met hoog gehalte aan organisch/bioafbreekbaar en anorganisch afval</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, W</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2) stortplaats voor voornamelijk organisch niet-gevaarlijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, W</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 3) stortplaats voor anorganische niet-gevaarlijke afvalstoffen met laag organisch/bioafbreekbaar gehalte</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, W</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 4) monostortplaats voor niet-gevaarlijke afvalstoffen, andere dan inerte afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, W</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 5) stortplaats voor niet-gevaarlijke afvalstoffen van iedere andere oorsprong die voldoen aan de criteria voor de aanvaarding van afvalstoffen op stortplaatsen voor niet gevaarlijk afval (criteria: zie afdeling 5.2.4 van titel II van het VLAREM)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, W</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 6) stortplaats voor stabiele, niet-reactieve gevaarlijke afvalstoffen (bij voorbeeld verharde of verglaasde afvalstoffen) met een uitlooggedrag dat gelijkwaardig is aan dat van de onder 5° vermelde niet gevaarlijke afvalstoffen, en die voldoen aan de relevante aanvaardingscriteria (criteria: zie afdeling 5.2.4 van titel II van het VLAREM); die gevaarlijke afvalstoffen worden niet gestort in cellen die voor biologisch afbreekbare niet gevaarlijke afvalstoffen bestemd zijn</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, W</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>c) categorie 1: stortplaats voor gevaarlijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 1) stortplaats voor gevaarlijke afvalstoffen die voldoen aan de criteria voor de aanvaarding van afvalstoffen op stortplaatsen voor gevaarlijke afvalstoffen (criteria: zie afdeling 5.2.4 van titel II van het VLAREM)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, W</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 2) monostortplaats voor gevaarlijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, W</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 3) monostortplaatsen voor gevaarlijke afvalstoffen die bestaan uit asbestcement of andere asbesthoudende bouwmaterialen waarin asbest in gebonden vorm aanwezig is</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, W</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>&nbsp;&nbsp; 4) ondergrondse opslagplaats voor gevaarlijke afvalstoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>N, G, O, W</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>P</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.3.7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Opslag, behandeling en verwijdering van baggerspecie met uitzondering van het ter plaatse uitspreiden van niet-verontreinigde ruimingsspecie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>a) monostortplaatsen voor baggerspecie en/of ruimingsspecie afkomstig van het ruimen, verdiepen en/of verbreden van bevaarbare en onbevaarbare waterlopen behorende tot het openbaar hydrografisch net en/of van de aanleg van nieuwe waterinfrastructuur</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>N, O, W</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>b) terugstorten van sub a) bedoelde baggerspecie en/of ruimingsspecie in de waterloop waaruit deze afkomstig is</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>c) opslag van sub a) bedoelde baggerspecie en/of ruimingsspecie in afwachting van behandeling</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>d) mechanische, fysisch-chemische en/of biologische behandeling van sub a) bedoelde baggerspecie en/of ruimingsspecie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.3.8</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Installaties voor de verwijdering van gevaarlijke afvalstoffen, met een capaciteit van meer dan 10 ton per dag, in de zin van de bijlage II A bij EG-richtlijn 75/442/EEG en in de zin van EG-richtlijn 75/439/EEG van de Raad van 16 juni 1975 inzake de verwijdering van afgewerkte olie, namelijk :<br>
 			(er kan een overlapping zijn met andere deelrubrieken van rubriek 2.3)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>D1 Storten op of in de bodem (bv. - op een vuilstortplaats)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>N, G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>D2 Uitrijden (bv. - biodegradatie van vloeibaar of slibachtig afval in de bodem)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>N, G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>D3 Injectie in de diepe ondergrond (bv. - injectie van verpompbare afvalstoffen in putten, zoutkoepels of natuurlijk gevormde holten)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>N, G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>D4 Opslag in waterbekkens (bv. - het lozen van vloeibaar of slibachtig afval in putten, vijvers of lagunen)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>D5 Verwijderen op speciaal ingerichte locaties (bv. - in afzonderlijke beklede, afgedekte cellen die onderling en van de omgeving afgeschermd zijn)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>D6 Lozen in wateren, behalve zeeën en oceanen;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>D7 Verwijderen in zeeën en oceanen, inclusief inbrengen in de bodem</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>N, G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>D8 Biologische behandeling op een niet elders in dit artikel aangegeven wijze waardoor verbindingen of mengsels ontstaan die worden verwijderd op een van de methodes, vermeld in D1 tot en met D12</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>D9 Fysisch-chemische behandeling op een niet elders in dit artikel aangegeven wijze waardoor verbindingen of mengsels ontstaan die worden verwijderd op een van de methodes, vermeld in D1 tot en met D12 (bv. - verdampen, drogen, calcineren)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>D10 Verbranding op het land</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>D11 Verbranding op zee</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>D12 Permanente opslag (bv. - plaatsen van houders in mijnen)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>N, G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>D13 Vermengen vóór een van de handelingen, vermeld in D1 tot en met D12;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>D14 Herverpakken vóór een van de handelingen, vermeld in D1 tot en met D13</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>D15 Opslag in afwachting van een van de behandelingen, vermeld in D1 tot en met D14 (met uitsluiting van voorlopige opslag die voorafgaat aan inzameling op de plaats van productie)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>D16 Installaties voor de verwijdering van afgewerkte olie (EG-richtlijn 75/439/EEG van 16 juni 1975 inzake de verwijdering van afgewerkte olie)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.3.9</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Installaties voor de verwijdering van niet gevaarlijke afvalstoffen, met een capaciteit van meer dan 50 ton per dag (er kan een overlapping zijn met andere deelrubrieken van rubriek 2.3)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>a) installaties voor de verwijdering van niet gevaarlijke afvalstoffen, met een capaciteit van meer dan 50 ton per dag, met uitzondering van de installaties bedoeld onder b) en c)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>b) installaties voor de verwijdering van niet gevaarlijke afvalstoffen, met een capaciteit van meer dan 50 ton per dag, als vermeld in artikel 4.2.1. van het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen; rubriek D8, met name:</p>
 
 			<p>biologische behandeling op een niet elders in de bijlage II A (zie verwijderingsbehandelingen D1 tot en met D15 in subrubriek 2.3.8) aangegeven wijze waardoor verbindingen of mengsels ontstaan die worden verwijderd op een van de onder D1 tot en met D12 onder rubriek 2.3.8 vermelde methodes</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>c) installaties voor de verwijdering van niet gevaarlijke afvalstoffen, met een capaciteit van meer dan 50 ton per dag, als vermeld in artikel 4.2.1. van het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, rubriek D9, met name:</p>
 
 			<p>fysisch-chemische behandeling op een niet elders in bijlage II A (zie verwijderingsbehandelingen D1 tot en met D15 in subrubriek 2.3.8) aangegeven wijze waardoor verbindingen of mengsels ontstaan die worden verwijderd op een van de onder D1 tot en met D12 onder rubriek 2.3.8 vermelde methodes (vb. verdampen, drogen, calcineren, enz.)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.3.10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Stortplaatsen die meer dan 10 ton per dag ontvangen of een totale capaciteit van meer dan 25 000 ton hebben, met uitzondering van stortplaatsen voor inerte afvalstoffen (er kan een overlapping zijn met andere deelrubrieken van rubriek 2.3.6)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, O, X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>E</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.3.11</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Het verzamelen of storten van winningsafval op een terrein, ongeacht of dat afval zich in vaste vorm, in een oplossing, in een suspensie, of in vloeibare toestand bevindt, gedurende de volgende termijnen:</p>
 
 			<p>Uitzondering: het volgende valt niet onder subrubriek 2.3.11:</p>
@@ -6262,178 +6262,209 @@ B = Inrichting waarvoor conform het Bodemdecreet en het Vlareboeen oriënterend 
 
 			<p>Opmerking: de definities, vermeld in titel II van het VLAREM onder “Afval van winningsindustrieën”, zijn tevens van toepassing</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>a) geen termijn voor afvalvoorzieningen van categorie A en voorzieningen voor in het afvalbeheersplan als gevaarlijk gekarakteriseerd afval</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, M, N, O</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>b) een termijn van meer dan zes maanden voor voorzieningen voor gevaarlijk afval dat onverwacht wordt gegenereerd</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>G, M, N, O</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>J</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>c) een termijn van meer dan één jaar voor voorzieningen voor niet-gevaarlijk niet-inert afval</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>A, G, M, N, O</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>d) een termijn van meer dan drie jaar voor voorzieningen voor niet-gevaarlijk afval uit prospectie, afval uit de winning, de behandeling en de opslag van turf en inert afval</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>A, G, M, N, O</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Tot dergelijke voorzieningen worden dammen of andere structuren gerekend voor het bevatten, vasthouden, beperken of anderszins ondersteunen van een dergelijke voorziening,, alsmede, maar niet uitsluitend, afvalbergen en bekkens, maar met uitzondering van uitgravingen waarin afval wordt teruggeplaatst na extractie van het mineraal met het oog op rehabilitatie- en bouwdoeleinden.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:35.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p>2.3.12</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:7cm">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>Dierenbegraafplaatsen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:56.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p>O, W</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:48.3pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.35pt; vertical-align:top; width:42.55pt">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
+			<p>Uitzonderingen :<br>
+			De opslag van heel kleine huishoudelijke afgedankte elektrische en elektronische apparaten als vermeld in artikel 1.2.1, § 2, 94°, van het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, met uitzondering van lampen en rookmelders, is geen inrichting voor de verwerking van afvalstoffen als er cumulatief aan de volgende voorwaarden wordt voldaan :<br>
+			1° de opslag vindt plaats in een geschikt recipiënt op een plaats waar maximaal twee maal per jaar gedurende maximaal zeven aansluitende kalenderdagen heel kleine huishoudelijke afgedankte elektrische en elektronische apparaten worden opgeslagen;<br>
+			2° uiterlijk drie werkdagen na de afsluiting van de periode, vermeld in punt 1°, wordt alles opgehaald door een geregistreerd inzamelaar, afvalstoffenhandelaar of -makelaar, die daarover een overeenkomst heeft gesloten met een beheersorganisme ter uitvoering van een milieubeleidsovereenkomst of met een producent die beschikt over een goedgekeurd individueel afvalpreventie- en afvalbeheerplan;<br>
+			3° het afgiftebewijs wordt door de exploitant van de inrichting verzonden aan het beheersorganisme of de producent met een goedgekeurd afvalpreventie- en afvalbeheerplan, waarmee wordt samengewerkt;<br>
+			4° de actie wordt gekoppeld aan educatieve acties inzake preventie, hergebruik en verwerking van afgedankte elektrische en elektronische apparaten.</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
@@ -32117,204 +32148,264 @@ B = Inrichting waarvoor conform het Bodemdecreet en het Vlareboeen oriënterend 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
+			<p>Rubriek</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
 			<p>Klasse</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:57.6pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:57.6pt">
 			<p>Bemerkingen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
 			<p>Coördi-nator</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
 			<p>Audit</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:48.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:48.3pt">
 			<p>Jaarverslag</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
 			<p>Vlarebo</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p><strong>32.</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p><strong>Ontspanningsinrichtingen en schietstanden</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>32.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Feestzalen en lokalen, wanneer deze een dansgelegenheid omvatten en de totale oppervlakte van de voor het publiek toegankelijke lokalen 100 m<sup>2</sup> of meer bedraagt</p>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>Inrichtingen met muziekactiviteiten:</p>
 
-			<p><em>Vallen niet onder deze indelingrubriek:</em></p>
-
-			<p><em>∙ in tenten georganiseerde dansactiviteiten met een maximale duur van drie opeenvolgende dagen, maximaal tweemaal per jaar, op hetzelfde perceel of dezelfde percelen;</em></p>
-
-			<p><em>∙ feestzalen of lokalen waarin enkel dansactiviteiten gekoppeld aan bijzondere gelegenheden worden georganiseerd; onder “bijzondere gelegenheden” wordt hierbij verstaan: er moet een bijzondere reden zijn om deze dansactiviteit te organiseren. Voorbeelden van dergelijke bijzondere reden zijn: kermissen, carnavals, schoolfeesten, jaarfeesten van een vereniging, huwelijksfeesten, jubileumvieringen, e.d. Het betreft hier feestzalen of lokalen waarin slechts occasioneel dansactiviteiten plaatsgrijpen. Dit houdt in dat ook steeds samen aan de volgende criteria dient te worden voldaan:</em></p>
-
-			<p><em>∙ maximaal 12 gelegenheden per jaar;</em></p>
-
-			<p><em>∙ maximaal 2 gelegenheden per maand;</em></p>
-
-			<p><em>∙ de sommatie van deze gelegenheden mag zich maximaal over 24 kalenderdagen per jaar spreiden (in geval een dansgelegenheid&nbsp; avonduren alsook morgenuren van de daarop volgende kalenderdag omvat, dienen 2 kalenderdagen geteld)</em></p>
+			<p>1° feestzalen en lokalen waar muziek geproduceerd wordt en het geluidsniveau van muziek in de inrichting &gt; 85 dB(A)L<sub>Aeq</sub><sub>,15min </sub>en &lt;= 95 dB(A)L<sub>Aeq</sub><sub>,15min</sub>;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>2</p>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+
+			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
+			<p>&nbsp;</p>
+
 			<p>T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>32.2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Schouwspelzalen:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">&nbsp;</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>2° feestzalen, lokalen en schouwspelzalen waar muziek geproduceerd wordt en het geluidsniveau van muziek in de inrichting &gt; 95 dB(A)L<sub>Aeq</sub><sub>,15min </sub>en &lt;= 100 dB(A)L<sub>Aeq</sub><sub>,60min</sub>.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>1° bioscopen, schouwburgen, variététheaters, zalen voor sportmanifestaties andere dan onder 2°, polyvalente zalen en feestzalen met een speelruimte</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>2° zalen voor gemotoriseerde sportmanifestaties met gebruik van verbrandingsmotoren (indoorcarting e.d.)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>A, G, T</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">&nbsp;</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>32.3</p>
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">&nbsp;</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p><em>Vallen niet onder deze indelingsrubriek : inrichtingen met muziekactiviteiten die beschikken over een toelating als vermeld in artikel 5.32.2.2.bis, § 1, 4°, 5.32.3.10, § 4 en artikel 6.7.3, § 3 van titel II van het VLAREM.</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Geautomatiseerde kegelbanen</p>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">&nbsp;</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">&nbsp;</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
+			<p>32.2</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>Andere schouwspelzalen dan die welke, vermeld in rubriek 32.1.2°</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>1° Bioscopen</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>2° Schouwburgen, variététheaters, andere zalen voor sportmanifestaties dan die welke, vermeld in 3°, polyvalente zalen en feestzalen met een speelruimte</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>3</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
+			<p>A, G, T</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>3° Zalen voor gemotoriseerde sportmanifestaties met gebruik van verbrandingsmotoren (indoor-karting e.d.)</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>2</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">&nbsp;</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
+			<p>32.3</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>Geautomatiseerde kegelbanen</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>3</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>32.4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Rijscholen, inrichtingen voor ruiter-, draf-, ren- en mensport, inrichtingen voor verhuur en africhting van paarden en andere zadeldieren<br>
 			Uitzondering : vallen niet onder deze indelingsrubriek :<br>
 			particulier gebruik;<br>
@@ -32322,136 +32413,136 @@ B = Inrichting waarvoor conform het Bodemdecreet en het Vlareboeen oriënterend 
 			activiteiten die georganiseerd worden ter gelegenheid van bijzondere gelegenheden, zoals kermissen, carnavals;<br>
 			hippotherapie met maximaal twee paarden.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>32.5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Lunaparken waar meer dan dertig speelautomaten zijn opgesteld</p>
 
 			<p><em>Vallen niet onder indelingsrubriek: lunaparken gekoppeld aan bijzondere gelegenheden zoals carnavals, kermissen; e.d.</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>32.6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Modelvliegtuigen: terreinen gebruikt als opstijg- en landingsplaats waarbij wordt gevlogen met ten minste:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° drie modelzweefvliegtuigen of modelvliegtuigen aangedreven door een elektrische motor</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° één modelvliegtuig aangedreven door een motor met inwendige verbranding</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>32.7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Schietstanden</p>
 
 			<p><em>uitzondering: vallen niet onder deze indelingsrubriek:</em></p>
@@ -32462,318 +32553,318 @@ B = Inrichting waarvoor conform het Bodemdecreet en het Vlareboeen oriënterend 
 
 			<p><em>∙ maximum tweemaal per jaar op hetzelfde perceel of dezelfde percelen georganiseerde schietwedstrijd, elk met een maximale duur van 4 opeenvolgende dagen</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° voor wapens met veren of perslucht, paintball shooting</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° voor kleiduifschieten met vuurwapens</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>A, T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>3° voor vuurwapens, uitgezonderd paintball shooting en kleiduifschieten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>O</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>32.8</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Baden en watercreatie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>32.8.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Baden: alle hierna vermelde inrichtingen, met inbegrip van baden verbonden aan of behorende tot privé-clubs, campings, scholen en dergelijke, voor zover ze bestaan uit een vaste constructie:</p>
 
 			<p><em>Uitzondering: vallen niet onder deze indelingsrubriek: inrichtingen verbonden aan privé-woningen die niet voor het publiek worden opengesteld, noch gratis, noch tegen enige directe of indirecte vergoeding</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° zwembaden, al dan niet overdekt met een oppervlakte:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; a) tot 50 m<sup>2</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) van 50 tot 300 m<sup>2</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; c) van ten minste 300 m<sup>2</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° Hot Whirlpools, dompelbaden, plonsbaden</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>3° therapiebaden</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>32.8.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Zwemgelegenheden en watersportzones in vijvers, meren en niet-openbare waterlopen, alsook inrichtingen voor watersport waar één of meer van de volgende activiteiten op regelmatige wijze worden beoefend, met uitzondering van zeebadzones:</p>
 
 			<p>a) windsurfen</p>
@@ -32784,317 +32875,315 @@ B = Inrichting waarvoor conform het Bodemdecreet en het Vlareboeen oriënterend 
 
 			<p>d) duiken</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>32.8.3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Watersportzones in vijvers, meren en niet-openbare waterlopen, alsook inrichtingen voor watersport waar waterskiracing en jetski op regelmatige wijze worden beoefend, met uitzondering van zeebadzones</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>G</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>32.9</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Omloop voor wedstrijden, test- en oefenritten, of test- en oefenvaarten, met motorvoertuigen of motorvaartuigen, met inbegrip van recreatief gebruik alsook van waterskiën andere dan bedoeld in subrubriek 32.8.2, in andere dan zeebadzones, niet volledig gelegen op de openbare weg of op openbare waterwegen:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1° omlopen waarop per jaar hoogstens één wedstrijd plaatsvindt of waarop met maximum één voertuig of boot gelijktijdig wordt gereden respectievelijk gevaren, inclusief bijhorende oefenritten of oefenvaarten, kan gespreid zijn over maximum twee aaneensluitende kalenderdagen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2° omlopen waarop per jaar twee of drie wedstrijden plaatsvinden; een wedstrijd, inclusief bijhorende oefenritten of oefenvaarten, kan gespreid zijn over maximum twee aaneensluitende kalenderdagen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>3° permanente omlopen voor gemotoriseerde vaar- en/of voertuigen met een geluidsemissie van maximum 98 dB (A) en voor outdoorcartings:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; a) gebruikt voor recreatie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; b) race en testbanen voor gemotoriseerde voertuigen, met inbegrip van oefenritten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp; c) waarop meer dan drie wedstrijden per jaar plaatsinden; een wedstrijd, inclusief bijhorende oefenritten of oefenvaarten, kan gespreid zijn over maximum twee aaneensluitende kalenderdagen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>&nbsp;&nbsp; d) waarop een combinatie van voormelde activiteiten (a tot en met c) plaatsvindt</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>4° permanente omlopen voor gemotoriseerde vaar- en/of voertuigen met een geluidsemissie van meer dan 98 dB(A), uitgezonderd outdoorcartings</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>5° permanente race- en testbanen voor gemotoriseerde voertuigen met een oppervlakte van 5 ha of meer.</p>
 
 			<p>Er kan een overlapping zijn met andere deelrubrieken van subrubriek 32.9</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>N</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:48.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
