@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022488,
+  "title": "Besluit van de Vlaamse Regering van 2012-10-26 tot wijziging van het besluit van de Vlaamse Regering van 18 december 1992 houdende instelling van een aanpassingspremie en een verbeteringspremie voor woningen en tot wijziging van het besluit van de Vlaamse Regering van 2 maart 2007 tot instelling van een tegemoetkoming in de kosten van de renovatie van een woning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022488/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "85b82a8aa233f7cab5023e52ee729721315271b93b5a2d7d1d79730d8fc9f04d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022488&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2012-10-26",
+  "gazette": "2012-11-26",
+  "numac": 2012206604,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
