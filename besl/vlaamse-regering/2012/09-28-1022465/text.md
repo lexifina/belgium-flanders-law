@@ -156,6 +156,14 @@ De voorwaarden, vermeld in hoofdstuk 3, afdeling 4, onderafdeling 2, van bijlage
 
 ## HOOFDSTUK 4. Subsidiëring
 
+### ART. 22.
+
+De erkende dagverzorgingscentra voor palliatieve verzorging komen in aanmerking voor een jaarlijks subsidiebedrag dat berekend wordt op basis van de gemiddelde bezettingsgraad.<br /><br />De dagverzorgingscentra voor palliatieve verzorging die een gemiddelde bezettingsgraad van minimaal tien gebruikers realiseren, komen in aanmerking voor een subsidiebedrag van 35.000 euro per jaar. De gemiddelde bezettingsgraad is het totale aantal gefactureerde aanwezigheidsdagen per kalenderjaar, gedeeld door 250.<br /><br />De dagverzorgingscentra voor palliatieve verzorging die een gemiddelde bezettingsgraad van minder dan tien gebruikers maar van minimaal vier hebben, kunnen evenredig aan de gerealiseerde gemiddelde bezettingsgraad een subsidiebedrag ontvangen van 33.200 euro, 31.400 euro, 29.600 euro, 27.800 euro, 26.000 euro of 24.200 euro, naargelang ze een gemiddelde bezettingsgraad hebben van minstens 9, 8, 7, 6, 5 of 4.<br /><br />In afwijking van artikel 14 van het besluit zijn de bedragen, vermeld in het tweede en derde lid, uitgedrukt tegen 100 % op basis van de spilindex die van toepassing is op 1 januari 2012.<br /><br />De minister bepaalt de nadere subsidievoorwaarden en legt de overgangsbepalingen vast.
+
+### ART. 23.
+
+Ongeacht de gerealiseerde gemiddelde bezettingsgraad kunnen dagverzorgingscentra voor palliatieve verzorging die voor het eerst erkend worden, gedurende de eerste drie jaar waarin ze voor subsidiëring in aanmerking komen, een subsidiebedrag ontvangen dat gelijk kan zijn aan het hoogste subsidiebedrag.
+
 ## HOOFDSTUK 5. Overgangsbepaling
 
 ### ART. 24.
