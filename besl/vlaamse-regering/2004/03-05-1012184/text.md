@@ -652,7 +652,7 @@ De werkgever neemt de kosten van een abonnement op het openbaar vervoer naar en 
 
 ### ART. 117/2.
 
-§ 1. De arrondissementscommissaris die ten minste 80 % van het effectieve aantal te werken dagen per maand het volledige of een gedeelte van het woon-werktraject met de fiets aflegt, ontvangt een maandelijkse fietsvergoeding.<br /><br />§ 2. De vergoeding is gelijk aan 0,15 euro per kilometer.<br /><br />§ 3. De vergoeding is niet verschuldigd als de afstand minder dan 1 kilometer per dag bedraagt (enkele rit).<br /><br />§ 4. De vergoeding wordt betaald op basis van het arbeidsregime van de arrondissementscommissaris.<br /><br />§ 5. De vergoeding wordt niet toegekend voor de volledige kalendermaanden waarin geen prestaties worden geleverd.
+§ 1. De arrondissementscommissaris die ten minste 80 % van het effectieve aantal te werken dagen per maand het volledige of een gedeelte van het woon-werktraject met de fiets aflegt, ontvangt een maandelijkse fietsvergoeding.<br /><br />§ 2. De vergoeding is gelijk aan 0,21 euro per kilometer.<br /><br />§ 3. De vergoeding is niet verschuldigd als de afstand minder dan 1 kilometer per dag bedraagt (enkele rit).<br /><br />§ 4. De vergoeding wordt betaald op basis van het arbeidsregime van de arrondissementscommissaris.<br /><br />§ 5. De vergoeding wordt niet toegekend voor de volledige kalendermaanden waarin geen prestaties worden geleverd.
 
 ## [HOOFDSTUK 7 MAALTIJDCHEQUES (ing. BVR 18 juni 2010, art. 27, I: 1/5/2009)]
 
