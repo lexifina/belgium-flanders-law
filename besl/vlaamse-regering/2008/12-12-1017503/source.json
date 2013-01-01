@@ -2,16 +2,16 @@
   "codex_id": 1017503,
   "title": "Besluit van de Vlaamse Regering van 2008-12-12 houdende de facultatieve subsidiëring van sociale huisvestingsmaatschappijen voor proefprojecten sociale passiefwoningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017503/VolledigDocument?datum=2008-12-12",
-  "source_sha256": "3e4d9f826de7ac4bbd4797e2ae19df7cf0973fd2caef5532073ece30861e4bf5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017503/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "02cbfd54b8e01920c57d9c506b1d0f716d8258781598337e866270dbb1743931",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017503&param=informatie",
-  "as_of": "2008-12-12",
+  "as_of": "2013-01-01",
   "made": "2008-12-12",
   "gazette": "2009-01-22",
   "numac": 2009200059,
   "document_start": "2008-12-12",
   "document_end": "2020-12-31",
-  "in_force": "2008-12-12",
+  "in_force": "2013-01-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2008-12-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }

@@ -36,7 +36,7 @@ Alle gerealiseerde woningen, vermeld in artikel 3, tweede lid, dienen passiefwon
 
 ### ART. 5.
 
-De projecten voor passiefwoningen zijn subsidiabele verrichtingen als vermeld in hoofdstuk III van het besluit van de Vlaamse Regering van 12 oktober 2007 houdende de financiering van de sociale huisvestingsmaatschappijen voor de realisatie van sociale huurwoningen en de daaraan verbonden werkingskosten. <br /><br />De kosten van de projecten voor passiefwoningen die de bij de subsidieerbare verrichtingen gehanteerde prijsnormering overschrijden, worden aangerekend op de basisallocatie, vermeld in artikel 2, totdat het ter beschikking gestelde totaalbedrag is opgebruikt.
+De projecten voor passiefwoningen zijn subsidiabele verrichtingen als   vermeld in hoofdstuk 2 van het Financieringsbesluit. <BR><BR>De kosten van de   projecten voor passiefwoningen die de bij de subsidieerbare verrichtingen   gehanteerde prijsnormering overschrijden, worden aangerekend op de   basisallocatie, vermeld in artikel 2, totdat het ter beschikking gestelde   totaalbedrag is opgebruikt.
 
 ### ART. 6.
 
