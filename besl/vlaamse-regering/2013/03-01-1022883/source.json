@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022883,
+  "title": "Besluit van de Vlaamse Regering van 2013-03-01 tot wijziging van het besluit van de Vlaamse Regering van 12 december 2003 tot vaststelling van de bekwaamheidsbewijzen en de salarisschalen van de personeelsleden van de centra voor leerlingenbegeleiding, wat de bekwaamheidsbewijzen voor artsen in een CLB betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022883/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "d17cba3f768cb457f48636781ddab7963ede6d7673e8ac8780d0d702281bc2da",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022883&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2013-03-01",
+  "gazette": "2013-04-19",
+  "numac": 2013035310,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
