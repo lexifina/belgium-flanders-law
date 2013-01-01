@@ -166,6 +166,10 @@ De interne auditor onderhoudt de nodige contacten en werkt zo nodig samen met de
 
 De Vlaamse minister, bevoegd voor financiën, stelt jaarlijks een rapport op voor het Vlaams Parlement en de Vlaamse regering over het gevoerde eleid inzake kas-, schuld- en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse Gewest. Dit rapport wordt overgemaakt aan het Vlaams arlement, ten laatste op 15 mei van elk jaar.
 
+### ART. 21/1.
+
+<P>&nbsp;De Vlaamse Regering kan alle entiteiten die, in overeenstemming met het   Europees systeem van nationale en regionale rekeningen, vermeld in verordening   (EG) nr. 2223/96 van de Raad van 25 juni 1996 betreffende het Europees systeem   van de nationale en regionale rekeningen in de Gemeenschap, institutionele   eenheden in handen van de overheid zijn, modaliteiten opleggen inzake verplichte   rapportering en het beheersen van risico inzake het kas-, schuld- en   waarborgbeheer.<BR><BR>In afwijking van het eerste lid kan de Vlaamse Regering   alle eenheden vermeld in het eerste lid, die volgens de ESR-regels als   marktproducent worden beschouwd geen modaliteiten opleggen inzake het beheersen   van risico inzake het kas-, schuld- en waarborgbeheer. </P>
+
 ## HOOFDSTUK X SLOTBEPALINGEN
 
 ### ART. 22.
