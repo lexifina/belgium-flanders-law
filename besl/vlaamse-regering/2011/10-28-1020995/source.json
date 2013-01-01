@@ -1,0 +1,17 @@
+{
+  "codex_id": 1020995,
+  "title": "Besluit van de Vlaamse Regering van 2011-10-28 tot wijziging van het besluit van de Vlaamse Regering van 6 oktober 1998 betreffende de kwaliteitsbewaking, het recht van voorkoop en het sociaal beheersrecht op woningen en van het besluit van de Vlaamse Regering van 3 oktober 2003 betreffende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers en tot vaststelling van de inwerkingtreding van artikel 32, 3°, van het decreet van 29 april 2011 houdende wijziging van diverse decreten met betrekking tot wonen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020995/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "10d05be96881e48156f8381a7daa9b2762077623409e258fa618a4634617c4dc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020995&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2011-10-28",
+  "gazette": "2011-12-05",
+  "numac": 2011035951,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
