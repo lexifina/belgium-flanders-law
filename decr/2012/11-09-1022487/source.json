@@ -2,16 +2,16 @@
   "codex_id": 1022487,
   "title": "Decreet van 2012-11-09 houdende diverse bepalingen betreffende financiën en begroting",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022487/VolledigDocument?datum=2012-11-27",
-  "source_sha256": "d20495f2790635860c90e556671c1c931d4ef1f50ef9af2b5d65f69c9df35782",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022487/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "ce2599e6fa9a5220a9cc3207971f7b13ecc0c468e1d6695c997d596074ee100f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022487&param=informatie",
-  "as_of": "2012-11-27",
+  "as_of": "2013-01-01",
   "made": "2012-11-09",
   "gazette": "2012-11-26",
   "numac": 2012036205,
   "document_start": "2012-11-27",
   "document_end": null,
-  "in_force": "2012-11-27",
-  "article_versions": 17,
-  "record_form": "consolidated version as in force on 2012-11-27; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-01-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
 }
