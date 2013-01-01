@@ -196,13 +196,13 @@ Uiterlijk zestig dagen na de ontvangst van het inspectieverslag beslist Kind en 
 
 ### ART. 43.
 
-De forfaitaire subsidie, toegekend door Kind en Gezin, bedraagt per plaats   op jaarbasis in 2012 voor voorschoolse opvang :<BR>1° georganiseerd door een   openbaar bestuur : 11.495,47 euro;<BR>2° georganiseerd door een privaat bestuur   : 11.554,06 euro. <BR><BR>Het forfaitaire subsidiebedrag geldt voor minimaal 200   openingsdagen en voor minimaal 9 openingsuren per dag. Het bedrag wordt   verhoudingsgewijs verlaagd als niet aan die minima voldaan is.<BR><BR>Het   forfaitaire subsidiebedrag wordt toegekend per kalenderjaar, na verrekening van   de gefactureerde financiële bijdrage van de gezinnen die de lokale dienst   ingevolge artikel 21, 1°, int.
+De forfaitaire subsidie, toegekend door Kind en Gezin, bedraagt per plaats   op jaarbasis in 2013 voor voorschoolse opvang : <BR>1° georganiseerd door een   openbaar bestuur : 11.738,77 euro;<BR>2° georganiseerd door een privaat bestuur   : 11.926,57 euro. <BR><BR>Het forfaitaire subsidiebedrag geldt voor minimaal 200   openingsdagen en voor minimaal 9 openingsuren per dag. Het bedrag wordt   verhoudingsgewijs verlaagd als niet aan die minima voldaan is.<BR><BR>Het   forfaitaire subsidiebedrag wordt toegekend per kalenderjaar, na verrekening van   de gefactureerde financiële bijdrage van de gezinnen die de lokale dienst   ingevolge artikel 21, 1°, int.
 
 ### ART. 44.
 
-<p>De forfaitaire subsidie, toegekend door Kind en Gezin, bedraagt per plaats op jaarbasis in 2012 voor buitenschoolse opvang :<br>
-1° georganiseerd door een openbaar bestuur : 6.930,47 euro;<br>
-2° georganiseerd door een privaat bestuur : 6.956,16 euro.<br>
+<p>De forfaitaire subsidie, toegekend door Kind en Gezin, bedraagt per plaats op jaarbasis in 2013 voor buitenschoolse opvang :<br>
+1° georganiseerd door een openbaar bestuur : 7077,15 euro;<br>
+2° georganiseerd door een privaat bestuur : 7179,34 euro.<br>
 <br>
 Dat basisbedrag geldt voor minimaal 200 openingsdagen en voor minimaal 9 openingsuren op vakantiedagen, voor minimaal 5 uur op woensdagmiddagen en voor 2 openingsuren op schooldagen. Het bedrag wordt verhoudingsgewijs verlaagd als niet aan die minima voldaan is.<br>
 &nbsp;</p>
@@ -261,7 +261,7 @@ De toestemming en de bijhorende subsidiëring voor een lokale dienst is mogelijk
 
 ### ART. 56.
 
-De subsidiebedragen, vermeld in artikel 43, 44, 46 en 48, worden elk jaar   op 1 januari verhoogd met de procentuele stijging van de gezondheidsindex tussen   1 november van het vorige kalenderjaar en 1 november van het daaraan   voorafgaande kalenderjaar. In 2011 worden de bedragen, vermeld in dit besluit,   op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer   tussen 1 november van het kalenderjaar 2008 en 1 november van het kalenderjaar   2010.<BR><BR>In afwijking van het eerste lid worden de subsidiebedragen, vermeld   in artikel 43, eerste lid, 1°, en artikel 44, eerste lid, 1°, niet geïndexeerd   in 2012, en worden de subsidiebedragen, vermeld in artikel 43, eerste lid, 2°,   en artikel 44, eerste lid, 2°, niet geïndexeerd in 2012 en   2013.<BR><BR>
+De subsidiebedragen voor 2013, vermeld in artikel 43, eerste lid en   artikel 44, eerste lid, worden niet geïndexeerd in 2013.<BR><BR>
 
 ### ART. 57.
 
