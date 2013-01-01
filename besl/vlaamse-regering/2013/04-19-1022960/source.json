@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022960,
+  "title": "Besluit van de Vlaamse Regering van 2013-04-19 tot wijziging van het besluit van de Vlaamse Regering van 30 april 2009 houdende regeling van inkomensgerelateerde opvang bij zelfstandige opvangvoorzieningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022960/VolledigDocument?datum=2013-01-01",
+  "source_sha256": "086c4ca037273c5d146bdf90511414231fa7d8e2e815c450128ca692638487c5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022960&param=informatie",
+  "as_of": "2013-01-01",
+  "made": "2013-04-19",
+  "gazette": "2013-06-07",
+  "numac": 2013035486,
+  "document_start": "2013-01-01",
+  "document_end": null,
+  "in_force": "2013-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
