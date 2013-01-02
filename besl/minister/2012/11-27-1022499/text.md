@@ -6,12 +6,12 @@ De Vlaamse minister van Economie, Buitenlands beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-Aan het artikel 15 van het ministerieel besluit van 23 december 2011, houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee, gewijzigd bij de ministeriële besluiten van 11 april 2012, 5 juli 2012 en 29 oktober 2012, worden volgende wijzigingen aangebracht : <br />1° in § 2 lid 2 en § 3 lid 3 worden de woorden "1 november" vervangen door de woorden "11 december",<br /><br />2° in § 2 lid 2 worden de woorden "25 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW" vervangen door "6 000 kg",<br /><br />3° in § 3 lid 3 worden de woorden "50 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW" vervangen door "15 000 kg".<br /><br />
+...
 
 ### ART. 2.
 
-In artikel 24 van hetzelfde besluit, gewijzigd bij de ministeriële besluiten van 11 april 2012, 5 juli 2012 en 29 oktober 2012 worden volgende wijzigingen met ingang van 1 december 2012 aangebracht : <br />1° indien er op 30 november 2012 geen 40 ton kabeljauw in de i.c.e.s.-gebieden II, IV meer beschikbaar is, wordt in § 1 lid 1 het getal "150" vervangen door het getal "100",<br />2° indien er op 30 november 2012 geen 40 ton kabeljauw in de i.c.e.s.-gebieden II, IV meer beschikbaar is, wordt in § 2 lid 3 het getal "300" vervangen door het getal "200",<br />3° indien er op 30 november 2012 geen 40 ton kabeljauw in de i.c.e.s.-gebieden II, IV meer beschikbaar is, wordt in § 3 lid 3 het getal "400" vervangen door het getal "300",<br />4° met ingang van 15 november 2012 wordt in § 5 het getal "50" vervangen door het getal "100",<br />5° indien er op 30 november 2012 geen 40 ton kabeljauw in de i.c.e.s.-gebieden II, IV meer beschikbaar is, wordt in § 6 lid 2 het getal "31" vervangen door het getal "1".<br /><br />
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking op 15 november 2012 en houdt op van kracht te zijn op 1 januari 2013. <br /><br />
+...
