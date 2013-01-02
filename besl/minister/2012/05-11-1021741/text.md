@@ -6,16 +6,16 @@ De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-In het artikel 19 van het ministerieel besluit van 23 december 2011 houdende tijdelijke aanvullende maatregelen voor het behoud van de visbestanden in zee, wordt het getal « 3 000 » vervangen door het getal « 5 500 ».
+...
 
 ### ART. 2.
 
-Het artikel 26, § 2, van hetzelfde besluit wordt aangevuld met een vierde lid :<br /><br />« In afwijking van leden 1 en 2 worden in de periode vanaf 16 mei 2012 tot 30 juni 2012 voor de vaartuigen, die volgens de officiële lijst der Belgische vissersvaartuigen 2012 uitsluitend uitgerust zijn met de passieve visserij, de maximaal toegelaten vangsthoeveelheden verdubbeld. »<br />
+...
 
 ### ART. 3.
 
-In artikel 27 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 11 april 2012, wordt met ingang van 16 mei 2012 de volgende wijzigingen aangebracht :<br /><br />1° in lid 3 worden de woorden « lid 2 » vervangen door de woorden « leden 2 en 4 »,<br /><br />2° § 8 wordt met leden 4 en 5 aangevuld :<br /><br />« In afwijking van het eerste lid is het voor een vissersvaartuig, met een motorvermogen van 221 kW of minder in de periode van 16 mei 2012 tot en met 31 december 2012 zolang geen 80 % van het quotum is benut, verboden bij de wijtingbijvangsten per zeereis in de ICES-gebieden VIIb-k een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br /><br />In afwijking van het tweede lid is het voor een vissersvaartuig, met een motorvermogen van meer dan 221 kW in de periode van 16 mei 2012 tot en met 31 december 2012 zolang geen 80 % van het quotum is benut, verboden bij de wijtingbijvangsten per zeereis in de ICES-gebieden VIIb-k een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden. »
+...
 
 ### ART. 4.
 
-Dit besluit treedt in werking op 16 mei 2012 en houdt op van kracht te zijn op 1 januari 2013.
+...
