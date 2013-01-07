@@ -198,7 +198,7 @@ Artikelen 301 en 303, 1°, van het Gemeentedecreet worden opgeheven.<br /><br />
 
 ### ART. 50.
 
-Artikel 19, wat het ontworpen artikel 25, § 4, tweede lid, laatste zin betreft, artikelen 21, 22, 23, 26, 2°, 29, 43, 45, wat de invoeging van artikel 104bis betreft, 46, 47 en 49 treden niet in werking ten aanzien van de openbare centra voor maatschappelijk welzijn van gemeenten die overeenkomstig artikel 312 van het Gemeentedecreet hebben beslist om, bij de eerstvolgende volledige vernieuwing van de gemeenteraden, niet te voorzien in de toevoeging van de voorzitter van de raad voor maatschappelijk welzijn aan het college van burgemeester en schepenen.<br /><br />
+...<br /><br />
 
 ### ART. 51.
 

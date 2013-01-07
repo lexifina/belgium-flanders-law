@@ -2,16 +2,16 @@
   "codex_id": 1014895,
   "title": "Decreet van 2006-07-07 tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014895/VolledigDocument?datum=2006-11-24",
-  "source_sha256": "7d4f62114a3fc581031456c1cabed5a660a3c24f0207d9ec46d3081bd165ede1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014895/VolledigDocument?datum=2013-01-07",
+  "source_sha256": "27fef1ce7ecf15ecd60bc410bed19188d21eef0978da7f11b66e8f863a1df959",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014895&param=informatie",
-  "as_of": "2006-11-24",
+  "as_of": "2013-01-07",
   "made": "2006-07-07",
   "gazette": "2006-08-30",
   "numac": 2006036303,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-11-24",
+  "in_force": "2013-01-07",
   "article_versions": 53,
-  "record_form": "consolidated version as in force on 2006-11-24; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-07; future article versions excluded; article text as the API gives it"
 }
