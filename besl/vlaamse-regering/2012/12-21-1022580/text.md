@@ -45,3 +45,11 @@ In artikel 1, § 1, 4°, van het besluit van de Vlaamse Regering van 24 mei   19
 <P>In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van   23 juni 2006, 15 juni 2007 en 27 januari 2012, wordt een artikel 1/5 ingevoegd,   dat luidt als volgt :<BR><BR>« Art. 1/5. De Vlaamse Regering kan beslissen een   door de entiteit in kwestie gedane betaling voor een schadedossier aan te wijzen   als last van het verleden als vermeld in artikel 53, § 2, tweede lid, 2°, van   het decreet van 21 december 1994 houdende bepalingen tot begeleiding van de   begroting 1995, zodat de gedane betaling als zodanig door het Fonds kan worden   aanvaard. ». </P>
 
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART. 10.
+
+<P>Hoofdstuk 1 heeft uitwerking vanaf 27 november 2012.<BR></P>  <P>Hoofdstuk 2 treedt in werking op 1 januari 2013.</P>
+
+### ART. 11.
+
+De Vlaamse minister, bevoegd voor de financiën en de begrotingen, is   belast met de uitvoering van dit besluit.
