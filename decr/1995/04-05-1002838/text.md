@@ -1728,7 +1728,7 @@ Bij verhindering van krachtens artikel 16.3.1, § 1, 3°, 4° en 5°, aangewezen
 
 ### ART. 16.3.9.
 
-§ 1. De toezichthouders zien toe op de naleving van de milieuwetgeving, vermeld in artikel 16.1.1, eerste lid.<br /><br />§ 2. De Vlaamse Regering bepaalt voor elke categorie toezichthouders de toezichtopdrachten.<br /><br />Toezichthouders hebben een legitimatiebewijs bij zich en tonen dat desgevraagd onmiddellijk.<br /><br />De Vlaamse Regering bepaalt wie het legitimatiebewijs verleent alsook het model en de inhoud ervan.
+§ 1. De toezichthouders zien toe op de naleving van de milieuwetgeving, vermeld in artikel 16.1.1, eerste lid.<br /><br />§ 2. De Vlaamse Regering bepaalt voor elke categorie toezichthouders de toezichtopdrachten.<br /><br />Toezichthouders hebben een legitimatiebewijs bij zich en tonen dat desgevraagd onmiddellijk.<br /><br />De Vlaamse Regering bepaalt wie het legitimatiebewijs verleent alsook het model en de inhoud ervan.<br /><br />§ 3. De Vlaamse Regering kan nadere regels bepalen omtrent de wijze waarop de toezichthouders hun toezichtsopdrachten, vermeld in § 2, uitoefenen.
 
 ## [AFDELING III TOEZICHTRECHTEN (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
 
@@ -1862,7 +1862,7 @@ Bij het opleggen van bestuurlijke maatregelen of bestuurlijke geldboeten zorgen 
 
 ### ART. 16.4.5.
 
-Na de vaststelling van een milieu-inbreuk of milieumisdrijf kunnen bestuurlijke maatregelen worden opgelegd.
+Na de vaststelling van een milieu-inbreuk of milieumisdrijf kunnen bestuurlijke maatregelen worden opgelegd.<br /><br />De Vlaamse Regering kan bepalen in welke omstandigheden bestuurlijke maatregelen moeten worden opgelegd.
 
 ### ART. 16.4.6.
 
@@ -2304,7 +2304,7 @@ De verjaring van de herstelmaatregel neemt een aanvang vanaf het verstrijken van
 
 ### ART. 16.7.1.
 
-Veiligheidsmaatregelen zijn maatregelen waarbij de personen, vermeld in artikel 16.4.6, alle handelingen kunnen stellen of opleggen die zij onder de gegeven omstandigheden nodig achten om een aanzienlijk risico voor mens of milieu uit te schakelen, tot een aanvaardbaar niveau in te perken of te stabiliseren.<br /><br />De burgemeester en de provinciegouverneur kunnen de veiligheidsmaatregelen ambtshalve nemen of op verzoek van een toezichthouder.
+§ 1. De volgende personen kunnen veiligheidsmaatregelen nemen in geval van een aanzienlijk risico voor mens of milieu : <br />1° toezichthouders, voor de milieuwetgeving waarop hun toezichtopdracht betrekking heeft;<br />2° de gouverneur van een provincie of zijn plaatsvervanger;<br />3° de burgemeester of zijn plaatsvervanger.<br /><br />§ 2. Veiligheidsmaatregelen zijn maatregelen waarbij de personen, vermeld in § 1, alle handelingen kunnen stellen of opleggen die zij onder de gegeven omstandigheden nodig achten om een aanzienlijk risico voor mens of milieu uit te schakelen, tot een aanvaardbaar niveau in te perken of te stabiliseren.<br /><br />De burgemeester en de provinciegouverneur kunnen de veiligheidsmaatregelen ambtshalve nemen of op verzoek van een toezichthouder.<br /><br />§ 3. De Vlaamse Regering kan bepalen in welke gevallen de veiligheidsmaatregelen, vermeld in § 1, moeten worden genomen en kan vaststellen wie van de personen, vermeld in § 1, die maatregelen moet nemen.
 
 ### ART. 16.7.2.
 
@@ -2328,7 +2328,7 @@ Kosten die gemaakt zijn voor de tenuitvoerlegging van veiligheidsmaatregelen val
 
 ### ART. 16.7.6.
 
-Wie veiligheidsmaatregelen neemt, is ook bevoegd om ze op te heffen.<br /><br />De veiligheidsmaatregelen kunnen ambtshalve opgeheven worden of op verzoek van personen ten aanzien van wie de veiligheidsmaatregelen zijn genomen.<br /><br />De opheffing van veiligheidsmaatregelen kan gepaard gaan met het opleggen van nieuwe veiligheidsmaatregelen.
+Wie veiligheidsmaatregelen neemt, is ook bevoegd om ze op te heffen.<br /><br />De veiligheidsmaatregelen kunnen ambtshalve opgeheven worden of op verzoek van personen ten aanzien van wie de veiligheidsmaatregelen zijn genomen.<br /><br />De opheffing van veiligheidsmaatregelen kan gepaard gaan met het nemen van nieuwe veiligheidsmaatregelen.
 
 ### ART. 16.7.7.
 
