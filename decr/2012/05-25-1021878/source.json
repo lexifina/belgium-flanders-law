@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021878,
+  "title": "Decreet van 2012-05-25 tot wijziging van het decreet van 28 juni 1985 betreffende de milieuvergunning, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming met het oog op de omzetting van de Richtlijn 2010/75/EU van het Europees Parlement en de Raad van 24 november 2010 inzake industriële emissies (geïntegreerde preventie en bestrijding van verontreiniging)",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021878/VolledigDocument?datum=2013-01-07",
+  "source_sha256": "152081a8360e29634b0223be390ace62d44b4b288687cc0691ff435e21ff2818",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021878&param=informatie",
+  "as_of": "2013-01-07",
+  "made": "2012-05-25",
+  "gazette": "2012-06-28",
+  "numac": 2012203386,
+  "document_start": "2013-01-07",
+  "document_end": null,
+  "in_force": "2013-01-07",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2013-01-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
