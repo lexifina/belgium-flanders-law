@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022584,
+  "title": "Besluit van de Vlaamse Regering van 2012-11-23 houdende de herverdeling van begrotingsartikels van de begroting van de DAB Minafonds voor het begrotingsjaar 2012",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022584/VolledigDocument?datum=2013-01-13",
+  "source_sha256": "04cf2657cc1e531957c66549070095218bfeb828156fd2a0a71079526914cadd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022584&param=informatie",
+  "as_of": "2013-01-13",
+  "made": "2012-11-23",
+  "gazette": "2013-01-03",
+  "numac": 2012036266,
+  "document_start": "2013-01-13",
+  "document_end": null,
+  "in_force": "2013-01-13",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-01-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
