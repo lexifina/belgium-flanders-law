@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022604,
+  "title": "Ministerieel besluit van 2012-11-16 tot oprichting van de Vlaamse werkgroep Bevolkingsonderzoek naar aangeboren aandoeningen bij pasgeborenen via een bloedstaal",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022604/VolledigDocument?datum=2013-01-18",
+  "source_sha256": "fa7c3d040e3716bfb412ad9c07bfc30cdeedd75c2e8b13ae9f0a94bf11408813",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022604&param=informatie",
+  "as_of": "2013-01-18",
+  "made": "2012-11-16",
+  "gazette": "2013-01-08",
+  "numac": 2012207570,
+  "document_start": "2013-01-18",
+  "document_end": null,
+  "in_force": "2013-01-18",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2013-01-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
