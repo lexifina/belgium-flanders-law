@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022610,
+  "title": "Besluit van de Vlaamse Regering van 2012-11-23 tot onderwerping van delen van het grondgebied van de gemeenten Zaventem, Tervuren, Kraainem en Wezembeek-Oppem aan landinrichting",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022610/VolledigDocument?datum=2013-01-19",
+  "source_sha256": "ee359b228c8065e7c29cb5acc936a3837cb20d55b9e3b00f865fac8d87e12959",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022610&param=informatie",
+  "as_of": "2013-01-19",
+  "made": "2012-11-23",
+  "gazette": "2013-01-09",
+  "numac": 2012036267,
+  "document_start": "2013-01-19",
+  "document_end": null,
+  "in_force": "2013-01-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-01-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
