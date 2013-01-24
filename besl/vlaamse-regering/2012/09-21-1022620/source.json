@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022620,
+  "title": "Besluit van de Vlaamse Regering van 2012-09-21 tot erkenning en subsidiëring van dagverzorgingscentra voor palliatieve verzorging",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022620/VolledigDocument?datum=2013-01-24",
+  "source_sha256": "bfc3d81526f75643f1452812a9bd550c9a05700d80852231bd69c465add96ba1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022620&param=informatie",
+  "as_of": "2013-01-24",
+  "made": "2012-09-21",
+  "gazette": "2013-01-14",
+  "numac": 2013035010,
+  "document_start": "2013-01-24",
+  "document_end": null,
+  "in_force": "2013-01-24",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2013-01-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
