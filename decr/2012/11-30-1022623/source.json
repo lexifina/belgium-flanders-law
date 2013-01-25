@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022623,
+  "title": "Decreet van 2012-11-30 tot instemming met het zetelakkoord tussen het Koninkrijk België en de Internationale Federatie van Rode Kruis- en Rode Halvemaanverenigingen, ondertekend in Brussel op 29 juni 2012 en in Genève op 9 juli 2012",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022623/VolledigDocument?datum=2013-01-25",
+  "source_sha256": "e3b1c73719b136f14b670948b98acc581023638dcd5fd548e06f0cb9c5b48aa8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022623&param=informatie",
+  "as_of": "2013-01-25",
+  "made": "2012-11-30",
+  "gazette": "2013-01-15",
+  "numac": 2012036294,
+  "document_start": "2013-01-25",
+  "document_end": null,
+  "in_force": "2013-01-25",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-01-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
