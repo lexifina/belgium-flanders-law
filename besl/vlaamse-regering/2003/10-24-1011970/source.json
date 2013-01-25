@@ -2,16 +2,16 @@
   "codex_id": 1011970,
   "title": "Besluit van de Vlaamse Regering van 2003-10-24 houdende toekenning van een subsidie aan uiteenlopende actoren voor het natuur-, bos- en groenbeheer via groene, duurzame jobs toegankelijk voor doelgroepwerknemers",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011970/VolledigDocument?datum=2011-07-25",
-  "source_sha256": "a31ad07012b3cdf896390372e6e1dd323bb52853bd405038d4eaac9e2295b463",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011970/VolledigDocument?datum=2013-01-25",
+  "source_sha256": "3649c83111529eeb1fd4e8883e102a42429dd6ae0035b49b7c45e37f99eabab9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011970&param=informatie",
-  "as_of": "2011-07-25",
+  "as_of": "2013-01-25",
   "made": "2003-10-24",
   "gazette": "2004-01-16",
   "numac": 2004035031,
   "document_start": null,
   "document_end": "2013-12-31",
-  "in_force": "2011-07-25",
+  "in_force": "2013-01-25",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2011-07-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-01-25; future article versions excluded; article text as the API gives it"
 }
