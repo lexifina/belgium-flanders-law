@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022633,
+  "title": "Besluit van de Vlaamse Regering van 2012-12-14 tot onderwerping van delen van het grondgebied van de gemeenten Zaventem, Machelen en Kraainem aan landinrichting",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022633/VolledigDocument?datum=2013-01-27",
+  "source_sha256": "56f4e1582a972cc0ea70ea69d8c9aca0c42735603eb6e3d147db3fdc4ed2b229",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022633&param=informatie",
+  "as_of": "2013-01-27",
+  "made": "2012-12-14",
+  "gazette": "2013-01-17",
+  "numac": 2013035015,
+  "document_start": "2013-01-27",
+  "document_end": null,
+  "in_force": "2013-01-27",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-01-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
