@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022771,
+  "title": "Ministerieel besluit van 2013-02-19 tot vaststelling van de lijst van erkende diploma's of getuigschriften per niveau ter uitvoering van artikel 11, § 2, tweede lid, van het besluit van de Vlaamse Regering van 7 december 2007 houdende de minimale voorwaarden voor de personeelsformatie, de rechtspositieregeling en het mandaatstelsel van het gemeentepersoneel en het provinciepersoneel en houdende enkele bepalingen betreffende de rechtspositie van de secretaris en de ontvanger van de openbare centra voor maatschappelijk welzijn",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022771/VolledigDocument?datum=2013-02-01",
+  "source_sha256": "3c18d20c2f6ea02da5e5adec24851a989cd5a0c67d18e9d2be2a8d013a1f099e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022771&param=informatie",
+  "as_of": "2013-02-01",
+  "made": "2013-02-19",
+  "gazette": "2013-03-04",
+  "numac": 2013035227,
+  "document_start": "2013-02-01",
+  "document_end": "2023-03-17",
+  "in_force": "2013-02-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
