@@ -482,19 +482,23 @@ Artikel 91, 93, § 2, 94, eerste, tweede, derde en vijfde lid, en artikel 95 tot
 
 ### ART. 99.
 
-In deze afdeling wordt verstaan onder instapopleiding : de individuele beroepsopleiding, vermeld in artikel 90, die verstrekt wordt aan :<br />1° de jonge werknemer die aan de volgende drie voorwaarden voldoet :<br />a) bij de VDAB ingeschreven zijn als niet-werkende werkzoekende en in de wachttijd zitten overeenkomstig artikel 36, § 1, eerste lid, 4°, van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering;<br />b) de instapopleiding starten binnen vier maanden na de inschrijving als werkzoekende bij de VDAB;<br />c) een studiebewijs hebben met een kwalificatie van niveau één tot en met vijf als vermeld in het decreet van 30 april 2009 betreffende de kwalificatiestructuur;<br />2° de volledig werkloze, vermeld in artikel 1 van het ministerieel besluit van 26 november 1991 houdende de toepassingsregelen van de werkloosheidsreglementering, die een beroepsopleiding als vermeld in artikel 61, van minstens 400 uur heeft gevolgd binnen de periode van negen maanden voor de instapstage, vermeld in artikel 36quater van het koninklijk besluit van 25 november 1991, op voorwaarde dat de instapstage start binnen de periode van vier maanden na het einde van de beroepsopleiding en de volledig werkloze ten hoogste een diploma of getuigschrift heeft van de derde graad van het algemeen, technisch of kunstsecundair onderwijs of van de vierde graad van het beroepssecundair onderwijs.<br /><br />De VDAB kan een instapopleiding weigeren aan een werkgever en beslist als enige over de verlenging of de voortijdige beëindiging van de instapopleiding.
+<P>In deze afdeling wordt verstaan onder instapstage de beroepsopleiding op de   werkvloer, die tijdens de beroepsinschakelingstijd verstrekt wordt aan de   niet-werkende werkzoekende jonger dan 25 jaar die geen diploma heeft van het   secundair onderwijs. De instapstage begint ten vroegste op de   honderdzesenvijftigste dag van de beroepsinschakelingstijd, vermeld in artikel   36, § 1, 4° van het koninklijk besluit van 25 november 1991 houdende de   werkloosheidsreglementering, en ten laatste op de driehonderdentiende   dag.</P>
 
 ### ART. 100.
 
-De duur van de instapopleiding bedraagt twee maanden.
+<P>De instapstage is halftijds of voltijds. De duur van de instapstage bedraagt   drie maanden. De jonge niet-werkende werkzoekende kan hoogstens twee   instapstages volgen, waarvan maximaal één stage bij dezelfde werkgever.   <BR><BR>De VDAB beslist over voortijdige beëindiging van de instapstage. Als de   VDAB de beslissing tot voortijdige beëindiging van de instapstage neemt, is hij   geen enkele vergoeding verschuldigd aan de cursist, de onderneming, de   vereniging zonder winstoogmerk of de administratieve overheid.<BR><BR>Als de   VDAB oordeelt dat de voortijdige beëindiging van de instapstage onvoldoende   gerechtvaardigd is en te wijten is aan de onderneming, vereniging zonder   winstoogmerk of administratieve overheid dan moet die aan de cursist de   vergoeding betalen, vermeld in artikel 101, eerste lid, voor de resterende duur   van de instapstage. <BR></P>
 
 ### ART. 101.
 
-De cursist die een instapopleiding volgt, ontvangt een premie die met elke productieve arbeid overeenkomt. Het bedrag van de productiviteitspremie wordt uitgedrukt als het verschil tussen het normale loon van het beroep en de werkloosheids-, stage-, of wachtuitkering of leefloon.<br /><br />De VDAB betaalt maandelijks de productiviteitspremie aan de cursist. De VDAB geeft de cursist een overzicht met vermelding van de premie en de vergoedingen die aan hem werden uitbetaald.<br /><br />De onderneming, vereniging zonder winstoogmerk of administratieve overheid is aan de VDAB maandelijks een bedrag verschuldigd dat overeenstemt met het verschil tussen het normale loon van het beroep en de gemiddelde werkloosheidsuitkering. De gemiddelde werkloosheidsuitkering wordt jaarlijks door de raad van bestuur bepaald met het oog op de budgettaire neutraliteit tussen de betaalde productiviteitspremie en het bedrag dat gefactureerd wordt aan de werkgever.
+<P>De cursist die een instapstage volgt krijgt ten laste van de onderneming,   vereniging zonder winstoogmerk of administratieve overheid waar de cursist de   instapstage volgt, een maandelijkse productiviteitspremie waarvan het bedrag   gelijk is aan de vergoeding, vermeld in artikel 36quater, § 1, eerste lid, 8°   van het koninklijk besluit van 25 november 1991 houdende de   werkloosheidsreglementering. Het bedrag van de vergoeding wordt gehalveerd voor   een halftijdse instapstage. <BR><BR>De onderneming, vereniging zonder   winstoogmerk of administratieve overheid geeft de cursist maandelijks een   overzicht met vermelding van de premie en de vergoedingen die aan hem werden   uitbetaald.<BR></P>
 
 ### ART. 102.
 
-Artikel 94, eerste lid tot en met derde lid, en artikelen 95 tot en met 98 zijn van toepassing op de instapopleiding.
+<P>De onderneming, de vereniging zonder winstoogmerk of de administratieve   overheid verbindt er zich toe de cursist een attest met de vermelding van de   verworven competenties te geven bij het einde van de instapstage.   </P>
+
+### ART. 102/1.
+
+Artikel 91, eerste tot en met derde lid, artikel 95, 97 en 98 zijn van   overeenkomstige toepassing op de instapstage.
 
 ## Afdeling III. [... (opgeh. BVR 6 juli 2018, art. 30, I: 1 september 2018)]
 
