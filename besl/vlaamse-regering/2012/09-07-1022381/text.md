@@ -10,6 +10,10 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 In artikel 1.1.1, § 2, van het Energiebesluit van 19 november 2010, laatst gewijzigd bij besluit van de Vlaamse Regering van 2 maart 2012, wordt punt 38° vervangen door wat volgt : <br />"38° energiescan een doorlichting die, op basis van een bezoek ter plaatse, een eerste beeld geeft van de energiesituatie en het energiebesparingspotentieel op het vlak van gebouwschil, verwarming, sanitair warm water, verlichting, elektrische apparaten en gedrag, en waarbij tijdens het eerste bezoek de energiefactuur kan worden gescreend in functie van optimalisatie op basis van onder meer een leveranciersvergelijking, premies voor energiebesparende investeringen kunnen worden toegelicht en op de plaatsen waar dit zinvol wordt geacht, spaarlampen, een spaardouchekop, radiatorfolie, buisisolatie, tochtstrips, een timer voor een waterboiler, een stroomverdeeldoos met schakelaar kunnen worden geplaatst en radiatoren kunnen ontlucht worden, of een voortgangscontrolebezoek waarbij deze en andere energiebesparende maatregelen kunnen worden uitgevoerd;".
 
+### ART. 2.
+
+Aan artikel 5.2.2, § 3, van hetzelfde besluit wordt de volgende zin toegevoegd : <br />"De distributienetbeheerder vermeldt in die brief, voor zover deze gericht is aan niet-beschermde afnemers, ook de indicatieve totale kosten op jaarbasis voor elektriciteit en/of gas van een gezin met een gemiddeld verbruik aangerekend tegen zowel het tarief van de distributienetbeheerder als tegen het laagste tarief van de commerciële leveranciers.".
+
 ### ART. 3.
 
 Aan artikel 5.3.12 van hetzelfde besluit wordt een paragraaf 4 toegevoegd, die luidt als volgt : <br />" § 4. De distributienetbeheerders bezorgen de huishoudelijke afnemers die ze beleveren minstens jaarlijks een transparant overzicht van de totale schulden voor niet-betaald elektriciteitsverbruik en voor de kosten die gerelateerd zijn aan onbetaalde verbruiksfacturen voor elektriciteit die ze bij de distributienetbeheerder hebben.".
