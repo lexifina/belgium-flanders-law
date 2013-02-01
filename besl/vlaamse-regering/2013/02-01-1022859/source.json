@@ -2,16 +2,16 @@
   "codex_id": 1022859,
   "title": "Besluit van de Vlaamse Regering van 2013-02-01 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de integratie van de gewestelijk ontvangers, het zeewezen en andere bepalingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022859/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "75208bc0daae2d08521dbfb21df44ce6b8c6d9b97e5820976f97292a48888a0f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022859/VolledigDocument?datum=2013-02-01",
+  "source_sha256": "a7ae63359e147fdfee6416b534ed9153bbb388be3f457b3fe37eaedb9918bce1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022859&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2013-02-01",
   "made": "2013-02-01",
   "gazette": "2013-04-10",
   "numac": 2013035282,
   "document_start": "2013-02-01",
   "document_end": null,
-  "in_force": "2013-01-01",
-  "article_versions": 23,
-  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-02-01",
+  "article_versions": 41,
+  "record_form": "consolidated version as in force on 2013-02-01; future article versions excluded; article text as the API gives it"
 }

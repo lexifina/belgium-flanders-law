@@ -4,13 +4,37 @@
 
 <P>De Vlaamse Regering,<BR></P>  <P>Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der   instellingen, artikel 87, § 1 en § 3, vervangen bij de wet van 8 augustus   1988;<BR></P>  <P>Gelet op het bijzonder decreet van 14 juli 1998 betreffende het   Gemeenschapsonderwijs, artikel 67, § 2;<BR></P>  <P>Gelet op het kaderdecreet bestuurlijk beleid van 18 juli 2003, artikel   5;<BR></P>  <P>Gelet op het decreet van 18 juli 2003 tot regeling van strategische   adviesraden, artikel 12, derde lid;<BR></P>  <P>Gelet op het Gemeentedecreet van 15 juli 2005, artikel 76, § 4, tweede lid,   ingevoegd bij het decreet van 23 januari 2009;<BR></P>  <P>Gelet op het decreet van 19 december 2008 betreffende de organisatie van de   openbare centra voor maatschappelijk welzijn, artikel 75, § 4, tweede   lid;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 11 juni 2004 tot   vaststelling van het statuut van de gewestelijk ontvangers;<BR></P>  <P>Gelet op het Vlaams personeelsstatuut van 13 januari 2006;<BR></P>  <P>Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting,   gegeven op 19 juli 2012;<BR></P>  <P>Gelet op protocol nr 316.1011 van 30 november 2012 van het Sectorcomité XVIII   Vlaamse Gemeenschap - Vlaams Gewest; <BR></P>  <P>Gelet op het akkoord van de federale minister, bevoegd voor de pensioenen,   gegeven op 11 januari 2013;<BR></P>  <P>Gelet op advies 52.584/3 van de Raad van State, gegeven op 16 januari 2013,   met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de Raad van   State, gecoördineerd op 12 januari 1973;<BR></P>  <P>Op voorstel van de Vlaamse minister van Bestuurszaken, Binnenlands Bestuur,   Inburgering, Toerisme en Vlaamse Rand;<BR></P>  <P>Na beraadslaging,<BR></P>  <P>Besluit : <BR></P>
 
+### ART. 1.
+
+Aan artikel I 2, 10°, van het Vlaams Personeelsstatuut van 13 januari   2006, wordt de volgende zin toegevoegd : <BR>« De gouverneur is de lijnmanager   voor de personeelsleden van de dienst van de gouverneurs. ».<BR>
+
+### ART. 4.
+
+In artikel IV 6 van hetzelfde besluit, gewijzigd bij de besluiten van de   Vlaamse Regering van 23 mei 2008 en 29 mei 2009, worden het tweede en derde lid   vervangen door wat volgt : <BR>« Ongunstige feiten worden schriftelijk   vastgesteld, indien mogelijk na een gesprek. Het te evalueren personeelslid kan   opmerkingen toevoegen aan het document. Het personeelslid bezorgt het document,   gebeurlijk met zijn opmerkingen, ondertekend terug binnen de 15 kalenderdagen na   het ontvangen van het document. ».<BR>
+
+### ART. 5.
+
+&nbsp;In artikel V 43, § 3, van hetzelfde besluit, vervangen bij het   besluit van de Vlaamse Regering van 16 maart 2007, wordt het woord « (mandaat) »   opgeheven.<BR>
+
 ### ART. 6.
 
 Aan deel VI, titel 10, van hetzelfde besluit, het laatst gewijzigd bij het   besluit van de Vlaamse Regering van 3 februari 2012, wordt een artikel VI 151   toegevoegd, dat luidt als volgt :<BR>« Art. VI 151. De vastbenoemde gewestelijk   ontvanger die overgedragen wordt van het Vlaams Gewest, wordt met ingang van 1   januari 2013 ambtshalve benoemd in de graad van adviseur, en heeft in de   salarisschaal die verbonden is aan die graad een schaalanciënniteit die gelijk   is aan :<BR>1° een derde van zijn graadanciënniteit in zijn oude graad van   gewestelijk ontvanger, voor de graadanciënniteit tussen nul en twaalf   jaar;<BR>2° twee derde van zijn graadanciënniteit in zijn oude graad van   gewestelijk ontvanger voor de graadanciënniteit boven de twaalf jaar.<BR>Het   resultaat van die berekening wordt uitgedrukt in volledige maanden.   ».<BR>
 
+### ART. 7.
+
+In artikel VII 2, § 5, van hetzelfde besluit, vervangen bij het besluit   van de Vlaamse Regering van 27 januari 2009, worden de woorden « per   rondzendbrief » opgeheven.<BR>
+
+### ART. 8.
+
+In artikel VII 12, § 1, van hetzelfde besluit, gewijzigd bij de besluiten   van de Vlaamse Regering van 23 mei 2008, 29 mei 2009 en 22 januari 2010 worden   de volgende wijzigingen aangebracht :<BR>1° in punt 1° :<BR>a) worden de woorden   « Afdelingshoofd (mandaat) A285 vanaf 2e mandaat als afdelingshoofd A286 »   vervangen door de woorden « Afdelingshoofd (mandaat) A285 na zes jaar   schaalanciënniteit in A285 A286 »;<BR>b) worden de woorden « Projectleider N-1   (mandaat) A285 vanaf 2<SUP>de</SUP> mandaat als projectleider N-1 A286 »   vervangen door de woorden « Projectleider N-1 (mandaat) A285 na zes jaar   schaalanciënniteit in A285 A286 »;<BR>c) worden de woorden « loods op proef :   salaris à 80 % van de schaal A141 of A144 zoals hieronder is bepaald »,   vervangen door de woorden « loods op proef : salaris à 80 % van de salarisschaal   verbonden aan de functie zoals hieronder is bepaald ».<BR>2° in punt 5°, worden   tussen de salarisbepaling van « Adviseur benoemd vóór 1 januari 2008 (...) » en   de salarisbepaling van « Ingenieur, arts en informaticus (...) » de woorden «   Adviseur (de gewestelijk ontvanger die op 1 januari 2013 overgedragen werd   ingevolge artikel VI 151 of artikel VII 165) - A 218 »   ingevoegd.<BR>
+
 ### ART. 9.
 
 In de tabel van artikel VII 46 van hetzelfde besluit, ingevoegd bij het   besluit van de Vlaamse Regering van 16 maart 2007, wordt tussen het woord « rang   » en het woord « A2 » de woorden « A2E, A2M en » ingevoegd.<BR>
+
+### ART. 10.
+
+Artikel VII 60, § 3 van hetzelfde besluit, ingevoegd bij het besluit van   de Vlaamse Regering van 16 maart 2007, wordt vervangen als volgt :<BR>« Voor het   personeelslid met de functie van chefloods, stuurman of kapitein die na   aanwerving of functiewijziging de functie van operationele loods uitoefent,   wordt de in § 1 benodigde graadanciënniteit verhoogd met het aantal jaren en   maanden gedurende dewelke de functie van chefloods, stuurman of kapitein   uitgeoefend werd ».<BR>
 
 ### ART. 11.
 
@@ -24,9 +48,41 @@ In artikel VII 70bis van hetzelfde besluit, ingevoegd bij het besluit van   de V
 
 In de rechterkolom van de tabel van artikel VII 71 van hetzelfde besluit,   ingevoegd bij het besluit van de Vlaamse Regering van 17 maart 2006, worden de   woorden « bijzondere toelageregeling voor het loodspersoneel (VII 60 - 62) »   vervangen door de woorden « bijzondere toelageregeling voor het loodspersoneel   (VII 60 - 64) ».<BR>
 
+### ART. 14.
+
+Aan artikel VII 73 van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering 16 maart 2007 en gewijzigd bij de besluiten van de Vlaamse   Regering van 5 september 2008, 29 mei 2009 en 4 december 2009, wordt een   paragraaf 5 toegevoegd, die luidt als volgt :<BR>« § 5. Paragraaf 3 is van   toepassing op de betaling van forfaitaire vergoedingen bij een afwezigheid   ingevolge een arbeidsongeval van meer dan 35 werkdagen. ».<BR>
+
+### ART. 15.
+
+&nbsp;In artikel VII 83, § 4, van hetzelfde besluit, ingevoegd bij het   besluit van de Vlaamse Regering van 16 maart 2007, worden de woorden « bij   omzendbrief » opgeheven.<BR>
+
+### ART. 16.
+
+Artikel VII 91 van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse   Regering van 29 mei 2009, wordt vervangen door wat volgt :<BR>« Art. VII 91.   Tenzij het reglementair anders bepaald is, hebben de personeelsleden die   Vlaanderen in het buitenland vertegenwoordigen en de andere personeelsleden van   niveau A van het Departement Internationaal Vlaanderen die uitgezonden zijn naar   een diplomatieke post in het buitenland, recht op de volgende vergoedingen,   toelagen en voordelen waarvan het bedrag en de toekenningsvoorwaarden worden   bepaald door de Vlaamse minister, bevoegd voor het algemeen beleid inzake   personeel en organisatieontwikkeling in de Vlaamse administratie, in overleg met   de functionele minister :<BR>1° een postvergoeding;<BR>2° een   terugkeertoelage;<BR>3° een vergoeding voor dienstreizen;<BR>4° een vergoeding   voor een verlofreis naar België;<BR>5° een vergoeding voor verhuiskosten;<BR>6°   een vergoeding voor de huur van een woning in het buitenland;<BR>7° een   vergoeding voor schoolkosten;<BR>8° een verzekering voor medische kosten en   repatriatie;<BR>9° een inrichtingsvergoeding;<BR>10° een vergoeding voor   beveiliging van een woning en de inwonenden. ».<BR>
+
+### ART. 17.
+
+In artikel VII 102, § 7, van hetzelfde besluit, ingevoegd bij het besluit   van de Vlaamse Regering van 16 maart 2007, worden de woorden « bij rondzendbrief   » opgeheven. <BR>
+
+### ART. 18.
+
+&nbsp;In artikel VII 105 van hetzelfde besluit, ingevoegd bij het besluit   van de Vlaamse Regering van 16 maart 2007, worden de woorden « vermeld in een   omzendbrief van » vervangen door de woorden « bepaald door ».<BR>
+
+### ART. 19.
+
+In artikel VII 106 van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering van 16 maart 2007, worden de woorden « vermeld in een   omzendbrief van » vervangen door de woorden « bepaald door ».<BR>
+
+### ART. 20.
+
+In artikel VII 107 van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering van 16 maart 2007, worden de woorden « vermeld in een   omzendbrief van » vervangen door de woorden « bepaald door ».<BR>
+
 ### ART. 21.
 
 In artikel VII 109bis van hetzelfde besluit, ingevoegd bij het besluit van   de Vlaamse Regering van 23 mei 2008, worden de volgende wijzigingen aangebracht   :<BR>1° in het tweede lid, 1°, worden de woorden « , stuurman of kapitein van de   loodsboot » opgeheven;<BR>2° er wordt een punt 6° toegevoegd, dat luidt als   volgt :<BR>« 6° personeelsleden voor de dagen dat ze voeding aan boord van een   vaartuig ten laste van de begroting van de Vlaamse Overheid krijgen. »;<BR>3° Er   wordt een vierde lid toegevoegd, dat luidt als volgt :<BR>« De Vlaamse minister   bevoegd voor de bestuurszaken bepaalt tevens de uitreikingsmodaliteiten van de   maaltijdcheques ».<BR>
+
+### ART. 22.
+
+&nbsp;In artikel VII 109octies, eerste lid, van hetzelfde besluit,   ingevoegd bij het besluit van de Vlaamse Regering van 29 april 2011, worden de   woorden « , § 1, » opgeheven. <BR>
 
 ### ART. 23.
 
@@ -60,9 +116,17 @@ Aan X 36, § 1, van hetzelfde besluit, vervangen bij het besluit van de   Vlaams
 
 &nbsp;In artikel XI 1, § 3, van hetzelfde statuut, vervangen bij het   besluit van de Vlaamse Regering van 3 februari 2012, wordt het eerste lid   vervangen door wat volgt :<BR>« § 3. In afwijking van paragraaf 2, kan de   benoemende overheid een ambtenaar na het einde van de maand waarin hij de   leeftijd van 65 jaar bereikt nog verder in dienst houden voor een periode van   maximaal één jaar, telkens verlengbaar met maximaal één jaar. Hij behoudt zolang   zijn hoedanigheid van ambtenaar. »<BR>
 
+### ART. 31.
+
+&nbsp;In artikel XII 2, § 1, van hetzelfde besluit, gewijzigd bij de   besluiten van de Vlaamse Regering van 16 maart 2007 en 29 mei 2009, worden punt   3°, 5°, 6°, 7°, 10° en 11° opgeheven.<BR>
+
 ### ART. 32.
 
 In artikel XII 3 van hetzelfde besluit, gewijzigd bij de besluiten van de   Vlaamse Regering van 16 maart 2007, 29 mei 2009, 29 april 2011 en 2 december   2011, wordt een derde lid toegevoegd, dat luidt als volgt :<BR>« - het besluit   van de Vlaamse Regering van 11 juni 2004 tot vaststelling van het statuut van de   gewestelijk ontvangers, gewijzigd bij de besluiten van de Vlaamse Regering van   17 februari 2006, 14 november 2008, 3 april 2009, 4 september 2009, 26 maart   2010. ».<BR>
+
+### ART. 33.
+
+In bijlage 2 van hetzelfde besluit, vervangen bij het besluit van de   Vlaamse Regering van 16 maart 2007 en gewijzigd bij de besluiten van de Vlaamse   Regering van 23 mei 2008, 29 mei 2009 en 2 december 2011, worden de volgende   wijzigingen aangebracht :<BR>1° aan punt 1 worden onder niveau A, waarvan de   bestaande tekst punt a) wordt, een punt b) en c) toegevoegd, die luiden als   volgt :<BR>« b) diploma's of getuigschriften van mastersopleidingen of   master-na-masteropleidingen die erkend en geaccrediteerd zijn door de NVAO   (Nederlands-Vlaamse Accreditatieorganisatie); <BR>c) diploma's van doctor.   ».<BR>2° aan punt 1 wordt onder niveau B, waarvan de bestaande tekst onder punt   b) de tekst onder punt c) wordt, een punt b) toegevoegd dat luidt als volgt   :<BR>« b) diploma's of getuigschriften van bacheloropleidingen of   bachelor-na-bacheloropleidingen die erkend en geaccrediteerd zijn door de NVAO   (Nederlands-Vlaamse Accreditatieorganisatie);<BR>3° aan punt 2 wordt een derde   lid toegevoegd, dat luidt als volgt :<BR>« De in overeenstemming met een   buitenlandse regeling behaalde diploma's en studiegetuigschriften die, krachtens   verdragen of internationale overeenkomsten of met toepassing van de procedure   voor het verlenen van de gelijkwaardigheid, voorgeschreven bij het decreet   betreffende het onderwijs XXI van 1 juli 2011, gelijkwaardig worden verklaard   met één van de in deze lijst bedoelde diploma's of studiegetuigschriften worden   eveneens in aanmerking genomen. ».<BR>
 
 ### ART. 34.
 
@@ -71,6 +135,14 @@ In hetzelfde besluit wordt bijlage 4, vervangen bij het besluit van de   Vlaamse
 ### ART. 35.
 
 In hetzelfde besluit wordt in bijlage 5, het laatst gewijzigd bij het   besluit van de Vlaamse Regering van 29 mei 2009, de salarisschaal A218,   opgenomen in bijlage 2 bij dit besluit, ingevoegd tussen de salarisschalen A 215   en A 221.<BR>
+
+### ART. 36.
+
+Dit besluit treedt in werking op de datum van goedkeuring ervan, met   uitzondering van :<BR>1° artikel 13 dat uitwerking heeft met ingang van 16 maart   2007;<BR>2° artikel 23 dat uitwerking heeft met ingang van 1 januari 2010;<BR>3°   artikel 9 dat uitwerking heeft met ingang van 1 juli 2011;<BR>4° artikel 34 dat   uitwerking heeft met ingang van 2 december 2011;<BR>5° artikel 26 en 28 die   uitwerking hebben met ingang van 1 januari 2012;<BR>6° artikel 11 en 21 die   uitwerking hebben met ingang van 1 april 2012;<BR>7° artikel 29 dat uitwerking   heeft met ingang van 1 augustus 2012;<BR>8° artikel 27 dat uitwerking heeft met   ingang van 1 september 2012;<BR>9° artikel 25 dat uitwerking heeft met ingang   van 1 mei 2012;<BR>10° artikel 30 dat uitwerking heeft met ingang van 30   november 2012;<BR>11° artikel 6, 8, 2°, 12, 24, 32 en 35 die uitwerking hebben   met ingang van 1 januari 2013;<BR>12° artikel 2 dat in werking treedt 6 maanden   na de datum van inwerkingtreding van de omzendbrief « Kwaliteitscriteria voor   selectoren en selecties »;<BR>13° artikel 3 dat in werking treedt op de datum   van inwerkingtreding van de omzendbrief « Kwaliteitscriteria voor selectoren en   selecties. »<BR>
+
+### ART. 37.
+
+De Vlaamse minister, bevoegd voor het algemeen beleid inzake personeel en   organisatieontwikkeling in de Vlaamse administratie, is belast met de uitvoering   van dit besluit.<BR>
 
 ### BIJLAGE 1, A
 
