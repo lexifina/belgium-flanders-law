@@ -14,13 +14,133 @@
 
 ## HOOFDSTUK 1 Wijziging van het besluit van de Vlaamse Regering van 7 december 2007 houdende de minimale voorwaarden voor de personeelsformatie, de rechtspositieregeling en het mandaatstelsel van het gemeentepersoneel en het provinciepersoneel en houdende enkele bepalingen betreffende de rechtspositie van de secretaris en de ontvanger van de openbare centra voor maatschappelijk welzijn
 
+### ART. 1.
+
+In artikel 11, § 2, van het besluit van de Vlaamse Regering van 7 december   2007 houdende de minimale voorwaarden voor de personeelsformatie, de   rechtspositieregeling en het mandaatstelsel van het gemeentepersoneel en het   provinciepersoneel en houdende enkele bepalingen betreffende de rechtspositie   van de secretaris en de ontvanger van de openbare centra voor maatschappelijk   welzijn worden de volgende wijzigingen aangebracht :<BR>1° het tweede lid wordt   vervangen door wat volgt :<BR>« De lijst van erkende diploma's of   getuigschriften per niveau wordt door de Vlaamse minister, bevoegd voor de   binnenlandse aangelegenheden, vastgesteld. Alleen de erkende diploma's of   getuigschriften op die lijst komen bij aanwerving in aanmerking. »;<BR>2° in het   derde lid worden de woorden « De raad » vervangen door de woorden « De   aanstellende overheid. ».<BR>
+
+### ART. 2.
+
+<P>Artikel 12 van hetzelfde besluit wordt vervangen door wat volgt :<BR>« Art.   12. In afwijking van artikel 11, § 2, eerste lid, 1°, en 2°, a), kan de raad   bepalen dat kandidaten die niet voldoen aan de diplomavereiste die als   aanwervingsvoorwaarde geldt voor de functies van niveaus A, B en C, in   aanmerking komen voor aanwerving. Die afwijking van de diplomavereiste is   uitzonderlijk en op grond van vooraf vastgestelde, objectieve criteria, mogelijk   als de functie noch op basis van de functiebeschrijving, noch krachtens een   reglementering van de hogere overheid een diploma vergt.<BR></P>  <P>Voor de toepassing van het eerste lid komt een kandidaat die niet over het   vereiste diploma beschikt, in aanmerking als hij, ofwel :<BR>1° voldoet aan een   vereiste inzake relevante beroepservaring en slaagt voor een niveau- of   capaciteitstest;<BR>2° beschikt over een op de functie afgestemd   ervaringsbewijs, uitgereikt overeenkomstig de Vlaamse regelgeving over de titels   van beroepsbekwaamheid;<BR>3° beschikt over een op de functie afgestemd attest   van een beroepsopleiding die hij gevolgd heeft bij een door de Vlaamse Regering   erkende instelling voor beroepsopleiding.<BR></P>  <P>In voorkomend geval beslist de aanstellende overheid voor de vacantverklaring   van de functie of kandidaten die niet aan de diplomavereiste beantwoorden, in   aanmerking komen voor aanwerving. ».<BR></P>
+
+### ART. 3.
+
+In artikel 19, § 2, van hetzelfde besluit worden de volgende wijzigingen   aangebracht :<BR>1° het tweede lid wordt vervangen door wat volgt :<BR>« De   niveau- of capaciteitstest, vermeld in artikel 12, tweede lid, 1°, onderzoekt of   de kandidaat in staat is te functioneren op het niveau waarin de functie is   gesitueerd. »;<BR>2° er wordt een derde lid toegevoegd, dat luidt als volgt   :<BR>« De kandidaat die een attest of getuigschrift voorlegt waaruit blijkt dat   hij voor dezelfde of voor een vergelijkbare functie bij dezelfde of bij een   andere overheid al eerder geslaagd is voor een niveau- of capaciteitstest als   vermeld in het tweede lid, behoudt het gunstige resultaat daarvan en wordt   vrijgesteld van een nieuwe deelname aan een niveau- of capaciteitstest. De raad   bepaalt de maximale duur van de vrijstellingen. ».<BR>
+
+### ART. 4.
+
+In artikel 20 van hetzelfde besluit worden de volgende wijzigingen   aangebracht :<BR>1° in het eerste lid wordt het woord « erkend »   opgeheven;<BR>2° het tweede lid wordt opgeheven.<BR>
+
+### ART. 5.
+
+In artikel 24, § 1, tweede lid, van hetzelfde besluit, wordt het woord «   erkend » opgeheven.<BR>
+
+### ART. 6.
+
+In artikel 28 van hetzelfde besluit wordt de zinsnede « Ten minste 2 % van   het totale aantal betrekkingen binnen het bestuur wordt vervuld door » vervangen   door de zinsnede « Ten minste 2 % van het totale aantal personeelsleden binnen   het bestuur, uitgedrukt in voltijds equivalenten, bestaat uit   ».<BR>
+
+### ART. 7.
+
+&nbsp;In artikel 29 van hetzelfde besluit worden de volgende wijzigingen   aangebracht :<BR>1° de zin « De raad bepaalt het aantal functies in   overeenstemming met het percentage vermeld in artikel 28. » wordt vervangen door   de zin « Het uitvoerend orgaan van het bestuur of, als hij daartoe gemachtigd is   in het kader van het dagelijks personeelsbeheer, het hoofd van het personeel   bepaalt het aantal voltijds equivalenten in overeenstemming met het percentage,   vermeld in artikel 28. »;<BR>2° de woorden « Hij kan bepalen » worden vervangen   door de woorden « De raad kan bepalen ».<BR>
+
+### ART. 8.
+
+Aan artikel 36, derde lid, van hetzelfde besluit wordt de volgende zin   toegevoegd :<BR>« De aanstellende overheid hoort het personeelslid vooraf.   ».<BR>
+
+### ART. 9.
+
+Aan artikel 45, § 1, tweede lid, van hetzelfde besluit wordt de volgende   zin toegevoegd :<BR>« De evaluator ondertekent het evaluatieverslag en tekent,   in voorkomend geval, voor kennisneming de opmerkingen van het personeelslid.   ».<BR>
+
+### ART. 10.
+
+In titel III van hetzelfde besluit wordt het opschrift van hoofdstuk V   vervangen door wat volgt :<BR>« HOOFDSTUK V. - Specifieke bepalingen voor de   evaluatie van de gemeentesecretaris, de adjunct-gemeentesecretaris, de   financieel beheerder van de gemeente, de provinciegriffier en de financieel   beheerde van de provincie en voor de evaluatie van de ombudsman van de gemeente   en van de provincie » <BR>
+
+### ART. 11.
+
+<P>In hetzelfde besluit wordt een artikel 51bis ingevoegd, dat luidt als volgt   :<BR>« Art. 51bis. Met behoud van de toepassing van artikel 115, tweede lid, van   het Gemeentedecreet en van artikel 111, tweede lid, van het Provinciedecreet,   bepaalt de raad voor de evaluatie van de ombudsman de volgende elementen :<BR>1°   de evaluatie tijdens de proeftijd;<BR>2° de duur van de evaluatieperiodes;<BR>3°   de evaluatiecriteria;<BR>4° de evaluatieresultaten en de mogelijke gevolgen   ervan.<BR></P>  <P>De evaluatiecriteria worden vastgesteld na overleg tussen de ombudsman en het   college van burgemeester en schepenen of de deputatie en rekening houdend met de   taken van de ombudsman zoals vastgesteld in het ombudsreglement. <BR></P>  <P>De onafhankelijkheid waarmee de ombudsman de zaken die aan hem worden   voorgelegd, behandelt, mag niet het voorwerp zijn van evaluatie. ».   <BR></P>
+
+### ART. 12.
+
+Aan artikel 52 van hetzelfde besluit wordt een tweede lid toegevoegd, dat   luidt als volgt :<BR>« De raad regelt de wijze waarop de ombudsman tussentijds   feedback krijgt van het college van burgemeester en schepenen of de deputatie   over zijn wijze van functioneren. ».<BR>
+
+### ART. 13.
+
+In artikel 58, tweede lid, van hetzelfde besluit wordt tussen het woord «   onbezoldigde » en het woord « afwezigheid » het woord « volledige »   ingevoegd.<BR>
+
+### ART. 14.
+
+In artikel 59 van hetzelfde besluit wordt paragraaf 1 vervangen door wat   volgt :<BR>« § 1. Onder overheid wordt in artikel 55 en 57 verstaan :<BR>1° de   provincies, de gemeenten en de OCMW's van België, de publiekrechtelijke   verenigingen waarvan ze deel uitmaken en de instellingen die eronder   ressorteren;<BR>2° de diensten en instellingen van de federale overheid, van de   gemeenschappen en gewesten en de internationale instellingen waarvan ze lid   zijn;<BR>3° de diensten en instellingen en de lokale overheden van een lidstaat   van de Europese Unie of van de Europese Economische Ruimte;<BR>4° de   gesubsidieerde vrije onderwijsinstellingen of de gesubsidieerde vrije centra   voor leerlingenbegeleiding;<BR>5° de publiekrechtelijke en vrije   universiteiten;<BR>6° elke andere instelling naar Belgisch recht of naar het   recht van een lidstaat van de Europese Economische Ruimte die beantwoordt aan   collectieve behoeften van algemeen of lokaal belang en waarbij in de oprichting   of bijzondere leiding ervan het overwicht van de overheid tot uiting komt.   ».<BR>
+
+### ART. 15.
+
+In artikel 63 van hetzelfde besluit worden punt 1° en 2° vervangen door   wat volgt : <BR>« 1° voor graden van rang Av als vermeld in artikel 7, tweede   lid, ofwel :<BR>a)voor alle graden van die rang binnen het bestuur ofwel de   functionele loopbaan A1a-A2a-A3a, ofwel de functionele loopbaan   A1a-A1b-A2a;<BR>b) voor sommige graden van die rang binnen het bestuur de   functionele loopbaan A1a-A2a-A3a en voor andere graden van die rang binnen het   bestuur de functionele loopbaan A1a-A1b-A2a, op basis van een vergelijking van   de functiebeschrijvingen :<BR>1) A1a-A2a-A3a : van A1a naar A2a na vier jaar   schaalanciënniteit in A1a en een gunstig evaluatieresultaat, en van A2a naar A3a   na achttien jaar gecumuleerde schaalanciënniteit in A1a en A2a en een gunstig   evaluatieresultaat;<BR>2) A1a-A1b-A2a : van A1a naar A1b na vier jaar   schaalanciënniteit in A1a en een gunstig evaluatieresultaat, en van A1b naar A2a   na achttien jaar gecumuleerde schaalanciënniteit in A1a en A1b en een gunstig   evaluatieresultaat;<BR>2° voor graden van rang Avb als vermeld in artikel 7,   tweede lid, ofwel :<BR>a) voor alle graden van die rang binnen het bestuur ofwel   de functionele loopbaan A6a-A7a-A7b, ofwel de functionele loopbaan A6a-A6b-A7a;   <BR>b) voor sommige graden van die rang binnen het bestuur de functionele   loopbaan A6a-A7a-A7b en voor andere graden van die rang binnen het bestuur de   functionele loopbaan A6a-A6b-A7a, op basis van een vergelijking van de   functiebeschrijvingen : <BR>1) A6a-A7a-A7b : van A6a naar A7a na vier jaar   schaalanciënniteit in A6a en een gunstig evaluatieresultaat, en van A7a naar A7b   na achttien jaar gecumuleerde schaalanciënniteit in A6a en A7a en een gunstig   evaluatieresultaat; <BR>2) A6a-A6b-A7a : van A6a naar A6b na vier jaar   schaalanciënniteit in A6a en een gunstig evaluatieresultaat, en van A6b naar A7a   na achttien jaar gecumuleerde schaalanciënniteit in A6a en A6b en een gunstig   evaluatieresultaat; ».<BR>
+
 ### ART. 16.
 
 In artikel 65, 1°, van hetzelfde besluit wordt punt b) vervangen door wat   volgt :<BR>« b) voor de begeleider in de erkende kinderdagverblijven en de   begeleider in de initiatieven voor buitenschoolse kinderopvang in dit niveau   :<BR>C1-C2 : van C1 naar C2 na vier jaar schaalanciënniteit in C1 en een gunstig   evaluatieresultaat; ».<BR>
 
+### ART. 17.
+
+Aan artikel 79, eerste lid, van hetzelfde besluit worden de volgende   zinnen toegevoegd :<BR>« Het personeelslid dat heraangesteld wordt in een   functie waarmee een andere functionele loopbaan met andere salarisschalen   verbonden is, behoudt zijn schaalanciënniteit en wordt met die   schaalanciënniteit ingeschaald in de overeenstemmende salarisschaal van de   nieuwe functionele loopbaan. Het personeelslid dat als gevolg van die inschaling   een lager jaarsalaris zou krijgen, behoudt zijn vorige jaarsalaris op   persoonlijke titel zolang dat gunstiger is. ».<BR>
+
+### ART. 18.
+
+Aan artikel 106, § 1, van hetzelfde besluit wordt een tweede lid   toegevoegd, dat luidt als volgt :<BR>« De raad kan bepalen dat het statutaire   personeelslid op proef dat tijdens de proeftijd na aanwerving in totaal   gedurende drie maanden afwezig is wegens ziekte of invaliditeit, ontslagen kan   worden. ».<BR>
+
+### ART. 19.
+
+&nbsp;In artikel 107 van hetzelfde besluit wordt het vierde lid   opgeheven.<BR>
+
+### ART. 20.
+
+Aan artikel 108, § 1, van hetzelfde besluit wordt een derde lid   toegevoegd, dat luidt als volgt :<BR>« De raad stelt de regels vast voor het   ontslag wegens ziekte of invaliditeit, vermeld in artikel 106, § 1, tweede lid,   rekening houdend met de totale duur van de proeftijd. Het ontslag wordt met een   aangetekende brief, die de datum van uitwerking vermeldt, betekend.   »<BR>
+
+### ART. 21.
+
+In artikel 112, vijfde lid, van hetzelfde besluit worden de woorden « Het   hoofd van het personeel » vervangen door de zinsnede « Het uitvoerend orgaan van   het bestuur of, als hij daartoe door de raad in het kader van het dagelijks   personeelsbeheer gemachtigd is, het hoofd van het personeel,   ».<BR>
+
+### ART. 22.
+
+Artikel 113 van hetzelfde besluit wordt vervangen door wat volgt :<BR>«   Art. 113. Voor de toekenning van periodieke salarisverhogingen komen alleen de   werkelijke diensten in statutair of contractueel verband in aanmerking die het   personeelslid als titularis van een bezoldigde betrekking heeft geleverd in   dienst van :<BR>1° de provincies, de gemeenten en de OCMW's van België, de   publiekrechtelijke verenigingen waarvan ze deel uitmaken en de instellingen die   eronder ressorteren;<BR>2° de diensten en instellingen van de federale overheid,   van de gemeenschappen en gewesten en de internationale instellingen waarvan ze   lid zijn;<BR>3° de diensten en instellingen en de lokale overheden van een   lidstaat van de Europese Unie of van de Europese Economische Ruimte;<BR>4° de   gesubsidieerde vrije onderwijsinstellingen of de gesubsidieerde vrije centra   voor leerlingenbegeleiding;<BR>5° de publiekrechtelijke en vrije   universiteiten;<BR>6° elke andere instelling naar Belgisch recht of naar het   recht van een lidstaat van de Europese Economische Ruimte die beantwoordt aan   collectieve behoeften van algemeen of lokaal belang, en waarbij in de oprichting   of bijzondere leiding ervan het overwicht van de overheid tot uiting komt.   ».<BR>
+
+### ART. 23.
+
+Artikel 114 van hetzelfde besluit wordt vervangen door wat volgt :<BR>«   Art. 114. Voor de toepassing van artikel 113 wordt onder werkelijke diensten   verstaan : alle diensten die recht geven op een salaris of die bij ontstentenis   van een salaris krachtens de rechtspositieregeling toch in aanmerking worden   genomen voor de vaststelling van het salaris. ».<BR>
+
+### ART. 24.
+
+In artikel 117, eerste lid, van hetzelfde besluit worden de woorden « Het   hoofd van het personeel » vervangen door de zinsnede « Het uitvoerend orgaan van   het bestuur of, als hij daartoe door de raad in het kader van het dagelijks   personeelsbeheer gemachtigd is, het hoofd van het personeel,   ».<BR>
+
 ### ART. 25.
 
 Aan artikel 121 van hetzelfde besluit wordt een paragraaf 3 toegevoegd,   die luidt als volgt :<BR>« De minimale salarisverhoging, vermeld in paragraaf 1   en 2, is een integraal onderdeel van het jaarsalaris. ». <BR>
+
+### ART. 26.
+
+Aan artikel 122 van hetzelfde besluit, vervangen bij het besluit van de   Vlaamse Regering van 16 januari 2009, en gewijzigd bij het besluit van de   Vlaamse Regering van 3 april 2009, waarvan de bestaande tekst paragraaf 1 zal   vormen, wordt een paragraaf 2 toegevoegd, die luidt als volgt :<BR>« § 2. De   raad kan bepalen dat het jaarsalaris van de gemeentesecretaris die met   toepassing van artikel 75 en 271 van het decreet van 19 december 2008   betreffende de organisatie van de openbare centra voor maatschappelijk welzijn   ook de functie van OCMW-secretaris uitoefent, verhoogd wordt met maximaal 30 %.   De raad bepaalt welk percentage van toepassing is. ». <BR>
+
+### ART. 27.
+
+Aan artikel 124 van hetzelfde besluit, vervangen bij het besluit van de   Vlaamse Regering van 16 januari 2009 en gewijzigd bij het besluit van de Vlaamse   Regering van 3 april 2009, wordt een vijfde lid toegevoegd, dat luidt als volgt   :<BR>« De raad kan bepalen dat het jaarsalaris van de financieel beheerder van   de gemeente die met toepassing van artikel 75 en 271 van het decreet van 19   december 2008 betreffende de organisatie van de openbare centra voor   maatschappelijk welzijn ook de functie van financieel beheerder van het OCMW   uitoefent, verhoogd wordt met maximaal 30 %. De raad bepaalt welk percentage van   toepassing is, met dien verstande dat het percentage niet hoger mag zijn dan het   percentage dat in voorkomend geval is vastgesteld voor de verhoging van het   jaarsalaris van de gemeentesecretaris die ook de functie van OCMW-secretaris   uitoefent. ». <BR>
+
+### ART. 28.
+
+In artikel 135, tweede lid, van hetzelfde besluit, vervangen bij het   besluit van de Vlaamse Regering van 16 januari 2009, wordt punt 1° vervangen   door wat volgt :<BR>« 1° het forfaitaire gedeelte :<BR>a) het forfaitaire   gedeelte bedraagt voor het jaar 2011 349,73 euro;<BR>b) vanaf 2012 wordt het   forfaitaire gedeelte dat toegekend is tijdens het vorige jaar, telkens   vermeerderd met een breuk waarvan de noemer gelijk is aan het   gezondheidsindexcijfer van de maand oktober van het vorige jaar en de teller   gelijk is aan het gezondheidsindexcijfer van de maand oktober van het in   aanmerking te nemen jaar. Het resultaat daarvan wordt berekend tot op twee   decimalen nauwkeurig;<BR>c) het bedrag dat het resultaat is van de berekening,   vermeld in punt b), wordt verhoogd met 698,74 euro;<BR>d) voor het jaar 2012   wordt het bedrag dat het resultaat is van de berekening, vermeld in punt c),   voor alle personeelsleden verhoogd met 100 euro;<BR>e) vanaf het jaar 2013 wordt   het bedrag dat het resultaat is van de berekening, vermeld in punt c), voor alle   personeelsleden verhoogd met 200 euro; ».<BR>
+
+### ART. 29.
+
+In artikel 139, § 1, van hetzelfde besluit wordt het tweede lid vervangen   door wat volgt :<BR>« Als berekeningsbasis voor de toeslag geldt het   bruto-uursalaris, eventueel verhoogd met de haard- of standplaatstoelage, de   toelage voor het waarnemen van een hogere functie, de gegarandeerde   salarisverhoging na bevordering, de toelage voor opdrachthouderschap of de   mandaattoelage. ».<BR>
+
+### ART. 30.
+
+In artikel 141, § 2, van hetzelfde besluit wordt het derde lid vervangen   door wat volgt :<BR>« Als berekeningsbasis voor het overloon geldt het   bruto-uursalaris, eventueel verhoogd met de haard- of standplaatstoelage, de   toelage voor het waarnemen van een hogere functie, de gegarandeerde   salarisverhoging na bevordering, de toelage voor opdrachthouderschap of de   mandaattoelage. ».<BR>
+
+### ART. 31.
+
+&nbsp;In artikel 142 van hetzelfde besluit worden de volgende wijzigingen   aangebracht :<BR>1° het tweede lid wordt vervangen door wat volgt :<BR>« Als   berekeningsbasis voor de toeslag geldt het bruto-uursalaris, eventueel verhoogd   met de haard- of standplaatstoelage, de toelage voor het waarnemen van een   hogere functie, de gegarandeerde salarisverhoging na bevordering, de toelage   voor opdrachthouderschap of de mandaattoelage. »;<BR>2° tussen het tweede en het   derde lid wordt een lid ingevoegd, dat luidt als volgt :<BR>« De raad kan   bepalen dat de verstoringstoelage wordt of kan worden omgezet in inhaalrust.   »;<BR>3° het bestaande derde lid, dat het vierde lid wordt, wordt vervangen door   wat volgt :<BR>« De verstoringstoelage kan gecumuleerd worden met de toeslag   voor onregelmatige prestaties, vermeld in artikel 139, en met de toeslag voor   overuren, vermeld in artikel 141. ».<BR>
+
+### ART. 32.
+
+<P>Artikel 151 van hetzelfde besluit wordt vervangen door wat volgt :<BR>« Art.   151. De toelage voor het opdrachthouderschap die de raad met toepassing van   artikel 94 instelt, is gelijk aan een van de volgende bedragen :<BR>1° maximaal   5 % van het geïndexeerde jaarsalaris van het personeelslid;<BR>2° het   geïndexeerde bedrag van de minimale salarisverhoging, vermeld in artikel 121, §   1, eerste lid, 1° tot en met 4°, dat overeenkomt met het niveau van de functie   die de opdrachthouder bekleedt. <BR></P>  <P>Voor alle gevallen van opdrachthouderschap bepaalt de raad het bedrag van de   toelage hetzij op de wijze bepaald in het eerste lid, 1°, hetzij op de wijze   bepaald in het eerste lid, 2°. Bij de keuze voor de wijze, vermeld in het eerste   lid, 1°, bepaalt de raad het percentage dat van toepassing is. De toelage wordt   maandelijks samen met het salaris betaald.<BR></P>  <P>Opdrachthouders in een lopende opdracht, die als gevolg van de plaatselijke   uitvoering van de bepalingen van het eerste en het tweede lid een lagere   opdrachthouderstoelage zouden krijgen, behouden hun toelage op persoonlijke   titel voor de verdere duur van hun lopende opdracht. ». <BR></P>
 
 ### ART. 33.
 
@@ -30,10 +150,106 @@ Aan artikel 121 van hetzelfde besluit wordt een paragraaf 3 toegevoegd,   die lu
 
 In artikel 164, eerste lid, van hetzelfde besluit worden de woorden « kan   worden » vervangen door het woord « wordt ».<BR>
 
+### ART. 35.
+
+&nbsp;In artikel 165 van hetzelfde besluit wordt de zinsnede « Het   personeelslid dat minstens 66 % arbeidsongeschikt is, » vervangen door de   zinsnede « Het personeelslid dat aan de voorwaarden voldoet voor de toekenning   van een parkeerkaart door de bevoegde hogere overheid, ».<BR>
+
+### ART. 36.
+
+Artikel 215 van hetzelfde besluit wordt vervangen door wat volgt :<BR>«   Art. 215. Het personeelslid krijgt, maximaal tien keer per jaar,   dienstvrijstelling op de dag waarop het bloed, plasma of bloedplaatjes geeft. De   dienstvrijstelling geldt voor de tijd die nodig is voor de gift, waarin   inbegrepen de tijd die naargelang het geval nodig is voor de verplaatsing naar   en van het afnamecentrum. ».<BR>
+
+### ART. 37.
+
+In artikel 219 van hetzelfde besluit, vervangen bij het besluit van de   Vlaamse Regering van 16 januari 2009, en gewijzigd bij het besluit van de   Vlaamse Regering van 3 april 2009, worden de volgende wijzigingen aangebracht   :<BR>1° aan paragraaf 1 wordt een derde lid toegevoegd, dat luidt als volgt   :<BR>« De raad kan bepalen dat het jaarsalaris van de OCMW-secretaris die met   toepassing van artikel 76 en 271 van het Gemeentedecreet van 15 juli 2005 ook de   functie van gemeentesecretaris uitoefent, verhoogd wordt met maximaal 30 %. De   raad bepaalt welk percentage van toepassing is. »;<BR>2° aan paragraaf 2 wordt   een derde lid toegevoegd, dat luidt als volgt :<BR>« De raad kan bepalen dat het   jaarsalaris van de financieel beheerder van het OCMW die met toepassing van   artikel 76 en artikel 271 van het Gemeentedecreet ook de functie van financieel   beheerder van de gemeente uitoefent, verhoogd wordt met maximaal 30 %. De raad   bepaalt welk percentage van toepassing is, met dien verstande dat het percentage   niet hoger mag zijn dan het percentage dat in voorkomend geval is vastgesteld   voor de verhoging van het jaarsalaris van de OCMW-secretaris die ook de functie   van gemeentesecretaris uitoefent. ».<BR>
+
 ## HOOFDSTUK 2 Wijziging van het besluit van de Vlaamse Regering van 12 november 2010 houdende de minimale voorwaarden voor de personeelsformatie en het mandaatstelsel van het personeel van de openbare centra voor maatschappelijk welzijn en houdende de minimale voorwaarden voor sommige aspecten van de rechtspositieregeling van bepaalde personeelsgroepen van de openbare centra voor maatschappelijk welzijn
+
+### ART. 38.
+
+In artikel 23 van het besluit van de Vlaamse Regering van 12 november 2010   houdende de minimale voorwaarden voor de personeelsformatie en het   mandaatstelsel van het personeel van de openbare centra voor maatschappelijk   welzijn en houdende de minimale voorwaarden voor sommige aspecten van de   rechtspositieregeling van bepaalde personeelsgroepen van de openbare centra voor   maatschappelijk welzijn wordt de zinsnede « Ten minste 2 % van het totale aantal   betrekkingen binnen het OCMW wordt vervuld door » vervangen door de zinsnede «   Ten minste 2 % van het totale aantal personeelsleden binnen het bestuur,   uitgedrukt in voltijds equivalenten, bestaat uit ».<BR>
+
+### ART. 39.
+
+In artikel 24 van hetzelfde besluit worden de volgende wijzigingen   aangebracht :<BR>1° de zin « De raad bepaalt het aantal functies in   overeenstemming met het percentage vermeld in artikel 23. » wordt vervangen door   de zin « Het uitvoerend orgaan van het bestuur of, als hij daartoe gemachtigd is   in het kader van het dagelijks personeelsbeheer, het hoofd van het personeel   bepaalt het aantal voltijds equivalenten in overeenstemming met het percentage,   vermeld in artikel 23. »;<BR>2° de woorden « Hij kan bepalen » worden vervangen   door de woorden « De raad kan bepalen ».<BR>
+
+### ART. 40.
+
+In artikel 31, § 2, van hetzelfde besluit worden de volgende wijzigingen   aangebracht :<BR>1° het tweede lid wordt vervangen door wat volgt :<BR>« Alleen   de diploma's of getuigschriften, vermeld op de lijst van erkende diploma's of   getuigschriften per niveau die vastgesteld is ter uitvoering van artikel 11 van   het besluit van de Vlaamse Regering van 7 december 2007 houdende de minimale   voorwaarden voor de personeelsformatie, de rechtspositieregeling en het   mandaatstelsel van het gemeentepersoneel en het provinciepersoneel en houdende   enkele bepalingen betreffende de rechtspositie van de secretaris en de ontvanger   van de openbare centra voor maatschappelijk welzijn, komen bij aanwerving in   aanmerking. »;<BR>2° in het derde lid worden de woorden « De raad » vervangen   door de woorden « De aanstellende overheid. »;<BR>3° het vierde lid wordt   opgeheven.<BR>
+
+### ART. 41.
+
+<P>Artikel 32 van hetzelfde besluit wordt vervangen door wat volgt :<BR>« Art.   32. In afwijking van artikel 31, § 2, eerste lid, 1°, en 2°, a), kan de raad   bepalen dat kandidaten die niet voldoen aan de diplomavereiste die als   aanwervingsvoorwaarde geldt voor de functies van niveau A, B en C, in aanmerking   komen voor aanwerving. Die afwijking van de diplomavereiste is uitzonderlijk en   op grond van vooraf vastgestelde, objectieve criteria, mogelijk als de functie   noch op basis van de functiebeschrijving, noch krachtens een reglementering van   de hogere overheid een diploma vergt.<BR></P>  <P>Voor de toepassing van het eerste lid komt een kandidaat die niet over het   vereiste diploma beschikt, in aanmerking als hij, ofwel :<BR>1° voldoet aan een   vereiste inzake relevante beroepservaring en slaagt voor een niveau- of   capaciteitstest;<BR>2° beschikt over een op de functie afgestemd   ervaringsbewijs, uitgereikt overeenkomstig de Vlaamse regelgeving over de titels   van beroepsbekwaamheid;<BR>3° beschikt over een op de functie afgestemd attest   van een beroepsopleiding die hij gevolgd heeft bij een door de Vlaamse Regering   erkende instelling voor beroepsopleiding.<BR></P>  <P>In voorkomend geval beslist de aanstellende overheid voor de vacantverklaring   van de functie of kandidaten die niet aan de diplomavereiste beantwoorden, in   aanmerking komen voor aanwerving. ».<BR></P>
+
+### ART. 42.
+
+&nbsp;In artikel 38, § 2, van hetzelfde besluit worden de volgende   wijzigingen aangebracht :<BR>1° het tweede lid wordt vervangen door wat volgt   :<BR>« De niveau- of capaciteitstest, vermeld in artikel 32, tweede lid, 1°,   onderzoekt of de kandidaat in staat is te functioneren op het niveau waarin de   functie is gesitueerd. »;<BR>2° er wordt een derde lid toegevoegd, dat luidt als   volgt :<BR>« De kandidaat die een attest of getuigschrift voorlegt waaruit   blijkt dat hij voor dezelfde of voor een vergelijkbare functie bij dezelfde of   bij een andere overheid al eerder geslaagd is voor een niveau- of   capaciteitstest als vermeld in het tweede lid, behoudt het gunstige resultaat   daarvan en wordt vrijgesteld van een nieuwe deelname aan een niveau- of   capaciteitstest. De raad bepaalt de maximale duur van de vrijstellingen.   ».<BR>
+
+### ART. 43.
+
+In artikel 39 worden de volgende wijzigingen aangebracht :<BR>1° in het   eerste lid wordt het woord « erkend » opgeheven;<BR>2° het tweede lid wordt   opgeheven.<BR>
+
+### ART. 44.
+
+In artikel 43, § 1, tweede lid, van hetzelfde besluit wordt het woord «   erkend » opgeheven.<BR>
+
+### ART. 45.
+
+&nbsp;In artikel 57 van hetzelfde besluit worden punt 1° en punt 2°   vervangen door wat volgt :<BR>« 1° voor graden van rang Av als vermeld in   artikel 7, tweede lid, ofwel :<BR>a) voor alle graden van die rang binnen het   bestuur ofwel de functionele loopbaan A1a-A2a-A3a, ofwel de functionele loopbaan   A1a-A1b-A2a;<BR>b) voor sommige graden van die rang binnen het bestuur de   functionele loopbaan A1a-A2a-A3a en voor andere graden van die rang binnen het   bestuur de functionele loopbaan A1a-A1b-A2a, op basis van een vergelijking van   de functiebeschrijvingen :<BR>1) A1a-A2a-A3a : van A1a naar A2a na vier jaar   schaalanciënniteit in A1a en een gunstig evaluatieresultaat, en van A2a naar A3a   na achttien jaar gecumuleerde schaalanciënniteit in A1a en A2a en een gunstig   evaluatieresultaat;<BR>2) A1a-A1b-A2a : van A1a naar A1b na vier jaar   schaalanciënniteit in A1a en een gunstig evaluatieresultaat, en van A1b naar A2a   na achttien jaar gecumuleerde schaalanciënniteit in A1a en A1b en een gunstig   evaluatieresultaat;<BR>2° voor graden van rang Avb als vermeld in artikel 7,   tweede lid, ofwel :<BR>a) voor alle graden van die rang binnen het bestuur,   ofwel de functionele loopbaan A6a-A7a-A7b, ofwel de functionele loopbaan   A6a-A6b-A7a; <BR>b) voor sommige graden van die rang binnen het bestuur de   functionele loopbaan A6a-A7a-A7b en voor andere graden van die rang binnen het   bestuur, de functionele loopbaan A6a-A6b-A7a, op basis van een vergelijking van   de functiebeschrijvingen : <BR>1) A6a-A7a-A7b : van A6a naar A7a na vier jaar   schaalanciënniteit in A6a en een gunstig evaluatieresultaat, en van A7a naar A7b   na achttien jaar gecumuleerde schaalanciënniteit in A6a en A7a en een gunstig   evaluatieresultaat; <BR>2) A6a-A6b-A7a : van A6a naar A6b na vier jaar   schaalanciënniteit in A6a en een gunstig evaluatieresultaat, en van A6b naar A7a   na achttien jaar gecumuleerde schaalanciënniteit in A6a en A6b en een gunstig   evaluatieresultaat; ».<BR>
+
+### ART. 46.
+
+Aan artikel 71, eerste lid, van hetzelfde besluit wordt de volgende zin   toegevoegd :<BR>« Het personeelslid dat als gevolg van die inschaling een lager   jaarsalaris zou krijgen, behoudt zijn vorige jaarsalaris op persoonlijke titel   zolang dat gunstiger is. ».<BR>
+
+### ART. 47.
+
+Aan artikel 74, § 1, van hetzelfde besluit wordt een derde lid toegevoegd,   dat luidt als volgt :<BR>« De raad kan bepalen dat het statutaire personeelslid   op proef dat tijdens de proeftijd na aanwerving in totaal gedurende drie maanden   afwezig is wegens ziekte of invaliditeit, ontslagen kan worden. In voorkomend   geval stelt de raad de regels vast voor het ontslag wegens ziekte of   invaliditeit, rekening houdend met de totale duur van de proeftijd. Het ontslag   wordt met een aangetekende brief, die de datum van uitwerking vermeldt, betekend   ».<BR>
+
+### ART. 48.
+
+Artikel 79 van hetzelfde besluit wordt vervangen door wat volgt :<BR>«   Art. 79. Voor de toekenning van periodieke salarisverhogingen komen alleen de   werkelijke diensten in statutair of contractueel verband in aanmerking die het   personeelslid als titularis van een bezoldigde betrekking heeft geleverd in   dienst van :<BR>1° de provincies, de gemeenten en de OCMW's van België, de   publiekrechtelijke verenigingen waarvan ze deel uitmaken en de instellingen die   eronder ressorteren;<BR>2° de diensten en instellingen van de federale overheid,   van de gemeenschappen en gewesten en de internationale instellingen waarvan ze   lid zijn;<BR>3° de diensten en instellingen en de lokale overheden van een   lidstaat van de Europese Unie of van de Europese Economische Ruimte;<BR>4° de   gesubsidieerde vrije onderwijsinstellingen of de gesubsidieerde vrije centra   voor leerlingenbegeleiding;<BR>5° de publiekrechtelijke en vrije   universiteiten;<BR>6° elke andere instelling naar Belgisch recht of naar het   recht van een lidstaat van de Europese Economische Ruimte die beantwoordt aan   collectieve behoeften van algemeen of lokaal belang, en waarbij in de oprichting   of bijzondere leiding ervan het overwicht van de overheid tot uiting komt.   ».<BR>
+
+### ART. 49.
+
+Artikel 80 van hetzelfde besluit wordt vervangen door wat volgt :<BR>«   Art. 80. Voor de toepassing van artikel 113 wordt onder werkelijke diensten   verstaan : alle diensten die recht geven op een salaris of die bij ontstentenis   van een salaris krachtens de rechtspositieregeling toch in aanmerking worden   genomen voor de vaststelling van het salaris. ».<BR>
 
 ### ART. 50.
 
 Aan artikel 87 van hetzelfde besluit wordt een paragraaf 3 toegevoegd, die   luidt als volgt :<BR>« De minimale salarisverhoging, vermeld in paragraaf 1 en   2, is een integraal onderdeel van het jaarsalaris. ». <BR>
 
+### ART. 51.
+
+In artikel 98, tweede lid, van hetzelfde besluit wordt punt 1°, vervangen   door wat volgt :<BR>« 1° het forfaitaire gedeelte :<BR>a) het forfaitaire   gedeelte bedraagt voor het jaar 2011 349,73 euro;<BR>b) vanaf 2012 wordt het   forfaitaire gedeelte dat toegekend is tijdens het vorige jaar, telkens   vermeerderd met een breuk waarvan de noemer gelijk is aan het   gezondheidsindexcijfer van de maand oktober van het vorige jaar en de teller   gelijk is aan het gezondheidsindexcijfer van de maand oktober van het in   aanmerking te nemen jaar. Het resultaat daarvan wordt berekend tot op twee   decimalen nauwkeurig;<BR>c) het bedrag dat het resultaat is van de berekening,   vermeld in punt b), wordt verhoogd met 698,74 euro;<BR>d) voor het jaar 2012   wordt het bedrag dat het resultaat is van de berekening, vermeld in punt c),   voor alle personeelsleden verhoogd met 100 euro;<BR>e) vanaf het jaar 2013 wordt   het bedrag dat het resultaat is van de berekening, vermeld in punt c), voor alle   personeelsleden verhoogd met 200 euro; ».<BR>
+
+### ART. 52.
+
+&nbsp;In artikel 102, § 1, van hetzelfde besluit wordt het tweede lid   vervangen door wat volgt :<BR>« Als berekeningsbasis voor de toeslag geldt het   bruto-uursalaris, eventueel verhoogd met de haard- of standplaatstoelage, de   toelage voor het waarnemen van een hogere functie, de gegarandeerde   salarisverhoging na bevordering, de toelage voor opdrachthouderschap of de   mandaattoelage. ».<BR>
+
+### ART. 53.
+
+In artikel 105, § 2, van hetzelfde besluit wordt het derde lid vervangen   door wat volgt :<BR>« Als berekeningsbasis voor de toeslag geldt het   bruto-uursalaris, eventueel verhoogd met de haard- of standplaatstoelage, de   toelage voor het waarnemen van een hogere functie, de gegarandeerde   salarisverhoging na bevordering, de toelage voor opdrachthouderschap of de   mandaattoelage. ».<BR>
+
+### ART. 54.
+
+&nbsp;In artikel 106 van hetzelfde besluit worden de volgende wijzigingen   aangebracht :<BR>1° het tweede lid wordt vervangen door wat volgt :<BR>« Als   berekeningsbasis voor de toeslag geldt het bruto-uursalaris, eventueel verhoogd   met de haard- of standplaatstoelage, de toelage voor het waarnemen van een   hogere functie, de gegarandeerde salarisverhoging na bevordering, de toelage   voor opdrachthouderschap of de mandaattoelage. »;<BR>2° tussen het tweede en het   derde lid wordt een lid ingevoegd, dat luidt als volgt :<BR>« De raad kan   bepalen dat de verstoringstoelage wordt of kan worden omgezet in inhaalrust.   »;<BR>3° het bestaande derde lid, dat het vierde lid wordt, wordt vervangen door   wat volgt :<BR>« De verstoringstoelage kan gecumuleerd worden met de toeslag   voor onregelmatige prestaties, vermeld in artikel 102 en met de toeslag voor   overuren, vermeld in artikel 105. ».<BR>
+
+### ART. 55.
+
+In artikel 114, tweede lid, van hetzelfde besluit worden de volgende   wijzigingen aangebracht :<BR>1° tussen de woorden « regels voor het   opdrachthouderschap » en het woord « vast » worden de woorden « en voor de   toelage voor opdrachthouderschap » ingevoegd;<BR>2° de zin « De toelage is   gelijk aan de toelage die het personeelslid zou ontvangen als het een functie   van de naasthogere graad, zoals vastgesteld in artikel 7, zou waarnemen. » wordt   opgeheven.<BR>
+
+### ART. 56.
+
+In artikel 128 van hetzelfde besluit wordt de zinsnede « Het personeelslid   dat minstens 66 % arbeidsongeschikt is, » vervangen door de zinsnede « Het   personeelslid dat aan de voorwaarden voldoet voor de toekenning van een   parkeerkaart door de bevoegde hogere overheid, ».<BR>
+
 ## HOOFDSTUK 3 Slotbepalingen
+
+### ART. 57.
+
+Bijlage I bij het besluit van de Vlaamse Regering van 7 december 2007   houdende de minimale voorwaarden voor de personeelsformatie, de   rechtspositieregeling en het mandaatstelsel van het gemeentepersoneel en het   provinciepersoneel en houdende enkele bepalingen betreffende de rechtspositie   van de secretaris en de ontvanger van de openbare centra voor maatschappelijk   welzijn wordt opgeheven.<BR>
+
+### ART. 58.
+
+Dit besluit treedt in werking op de eerste dag van de tweede maand die   volgt op de dag van bekendmaking in het Belgisch Staatsblad, met uitzondering   van : <BR>1° artikel 16, dat uitwerking heeft met ingang van 1 juli 2011;<BR>2°   artikel 25, dat uitwerking heeft met ingang van 1 januari 2008;<BR>3° artikel   33, dat uitwerking heeft met ingang van 1 januari 2010;<BR>4° artikel 34, dat in   werking treedt op 1 januari 2013;<BR>5° artikel 50, dat uitwerking heeft met   ingang van 1 januari 2011.<BR>
+
+### ART. 59.
+
+De Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden, is   belast met de uitvoering van dit besluit. <BR>
