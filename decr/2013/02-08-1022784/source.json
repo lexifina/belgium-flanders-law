@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022784,
+  "title": "Decreet van 2013-02-08 tot bekrachtiging van het besluit van de Vlaamse Regering van 30 november 2012 tot aanpassing van de eindtermen voor het leergebied Nederlands van de basiseducatie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022784/VolledigDocument?datum=2013-02-01",
+  "source_sha256": "00f671f4c4c5e13c900d79926ce33c7abb2f299ecfbfa9f840c95bade57f095f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022784&param=informatie",
+  "as_of": "2013-02-01",
+  "made": "2013-02-08",
+  "gazette": "2013-03-13",
+  "numac": 2013201483,
+  "document_start": "2013-02-01",
+  "document_end": null,
+  "in_force": "2013-02-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
