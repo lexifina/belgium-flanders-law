@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022665,
+  "title": "Decreet van 2012-12-21 tot instemming met het Verdrag inzake stabiliteit, coördinatie en bestuur in de Economische en Monetaire Unie tussen het Koninkrijk België, de Republiek Bulgarije, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland en het Koninkrijk Zweden, de notulen en de verklaringen, ondertekend in Brussel op 2 maart 2012",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022665/VolledigDocument?datum=2013-02-03",
+  "source_sha256": "14b1fb2b249c1927e52114be6ba6cdb57c9afb2c9357cef020fd4a362e9b70d2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022665&param=informatie",
+  "as_of": "2013-02-03",
+  "made": "2012-12-21",
+  "gazette": "2013-01-24",
+  "numac": 2013035061,
+  "document_start": "2013-02-03",
+  "document_end": null,
+  "in_force": "2013-02-03",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-02-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
