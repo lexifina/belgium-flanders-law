@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022671,
+  "title": "Decreet van 2012-12-14 houdende instemming met het Facultatief Protocol bij het Verdrag inzake de Rechten van het Kind inzake een mededelingsprocedure, aangenomen in New York op 19 december 2011 en ondertekend in Genève op 28 februari 2012",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022671/VolledigDocument?datum=2013-02-04",
+  "source_sha256": "b88d6a1fce008faa5a312177f462bd4bcf95e30c3e18dc9a8c207ae60ee6c9b8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022671&param=informatie",
+  "as_of": "2013-02-04",
+  "made": "2012-12-14",
+  "gazette": "2013-01-25",
+  "numac": 2013035007,
+  "document_start": "2013-02-04",
+  "document_end": null,
+  "in_force": "2013-02-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-02-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
