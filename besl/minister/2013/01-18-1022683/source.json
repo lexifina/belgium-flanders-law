@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022683,
+  "title": "Ministerieel besluit van 2013-01-18 houdende de inwerkingtreding van de artikelen 2 en 11 van het besluit van de Vlaamse Regering van 7 september 2012 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de sociale openbaredienstverplichtingen en de energiescans, en het besluit van de Vlaamse Regering van 23 september 2011 tot wijziging van het besluit van de Vlaamse Regering van 18 december 1992 houdende instelling van een aanpassingspremie en een verbeteringspremie voor woningen en van het Energiebesluit van 19 november 2010",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022683/VolledigDocument?datum=2013-02-04",
+  "source_sha256": "f6b869e6adb4c595454c852f7289396d4175af03d1be56120b48586d3106b206",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022683&param=informatie",
+  "as_of": "2013-02-04",
+  "made": "2013-01-18",
+  "gazette": "2013-01-25",
+  "numac": 2013035088,
+  "document_start": "2013-02-04",
+  "document_end": null,
+  "in_force": "2013-02-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-02-04; oldest version available; future article versions excluded; article text as the API gives it"
+}

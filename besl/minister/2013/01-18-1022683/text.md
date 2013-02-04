@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2013-01-18 houdende de inwerkingtreding van de artikelen 2 en 11 van het besluit van de Vlaamse Regering van 7 september 2012 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de sociale openbaredienstverplichtingen en de energiescans, en het besluit van de Vlaamse Regering van 23 september 2011 tot wijziging van het besluit van de Vlaamse Regering van 18 december 1992 houdende instelling van een aanpassingspremie en een verbeteringspremie voor woningen en van het Energiebesluit van 19 november 2010
+
+### Aanhef
+
+<P>De Vlaamse minister van Energie, Wonen, Steden en Sociale Economie,<BR></P>  <P>Gelet op het Energiedecreet van 8 mei 2009, artikel 4.1.22;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling   van de bevoegdheden van de leden van de Vlaamse Regering, laatst gewijzigd bij   besluit van de Vlaamse Regering van 14 oktober 2011;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 7 september 2012 tot   wijziging van het Energiebesluit van 19 november 2010, wat betreft de sociale   openbarediensverplichtingen en de energiescans, en het besluit van de Vlaamse   Regering van 23 september 2011 tot wijziging van het besluit van de Vlaamse   Regering van 18 december 1992 houdende instelling van een aanpassingspremie en   een verbeteringspremie voor woningen en van het Energiebesluit van 19 november   2010, artikel 19;<BR></P>  <P>Gelet op advies nr. 52.602/3 van de Raad van State, gegeven op 10 januari   2013, met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de   Raad van State, gecoördineerd op 12 januari 1973,<BR></P>  <P>Besluit :</P>
+
+### ART. 1.
+
+Artikel 2 van het besluit van de Vlaamse Regering van 7 september 2012 tot   wijziging van het Energiebesluit van 19 november 2010, wat betreft de sociale   openbaredienstverplichtingen en de energiescans, en het besluit van de Vlaamse   Regering van 23 september 2011 tot wijziging van het besluit van de Vlaamse   Regering van 18 december 1992 houdende instelling van een aanpassingspremie en   een verbeteringspremie voor woningen en van het Energiebesluit van 19 november   2010, treedt in werking op 1 februari 2013.
+
+### ART. 2.
+
+Artikel 11 van het besluit van de Vlaamse Regering van 7 september 2012   tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de   sociale openbaredienstverplichtingen en de energiescans, en het besluit van de   Vlaamse Regering van 23 september 2011 tot wijziging van het besluit van de   Vlaamse Regering van 18 december 1992 houdende instelling van een   aanpassingspremie en een verbeteringspremie voor woningen en van het   Energiebesluit van 19 november 2010, treedt in werking op 1 juli   2013.
