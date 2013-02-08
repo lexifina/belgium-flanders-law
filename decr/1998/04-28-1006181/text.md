@@ -280,11 +280,7 @@ Binnen de beschikbare begrotingskredieten kent de Vlaamse regering aan het lokal
 
 ### ART. 43.
 
-§ 1. De Vlaamse Regering wendt ten minste 5 percent van het totale budget dat jaarlijks wordt vastgelegd voor de uitvoering van dit decreet, aan om experimentele, aanvullende of vernieuwende projecten te subsidiëren gericht op het versterken van het integratiebeleid.<br /><br />§ 2. De Vlaamse Regering kan de voorwaarden voor de toekenning van een projectsubsidie nader bepalen. De Vlaamse Regering bepaalt voor de algemene projectoproep de nadere voorwaarden voor het indienen van de subsidieaanvragen, evenals voor de beoordeling van de aanvragen, de toekenning en de uitbetaling van de subsidie, het toezicht op de naleving van de subsidiëringsvoorwaarden en de evaluatie van de gevoerde projecten.<br /><br />De Vlaamse Regering brengt tweejaarlijks verslag uit aan het Vlaams Parlement over de goedgekeurde projecten en de evaluatie ervan.
-
-### ART. 43.
-
-§ 1. De Vlaamse regering wendt ten hoogste 10% van het totale budget dat jaarlijks wordt vastgelegd voor de uitvoering van dit decreet, aan om projecten met een experimenteel, aanvullend en/of vernieuwend karakter te ondersteunen.<br /><br />§ 2. Deze projecten kunnen zowel door de categoriale sector als door andere sectoren worden uitgevoerd. De Vlaamse regering kan met dit budget ook specifieke opdrachten laten uitvoeren.<br /><br />§ 3. De Vlaamse regering bepaalt de voorwaarden voor de toekenning van deze projectsubsidie.
+§ 1. De Vlaamse Regering wendt ten hoogste 10 % van het totale budget dat jaarlijks wordt vastgelegd voor de uitvoering van dit decreet, aan om experimentele, aanvullende of vernieuwende projecten te subsidiëren gericht op het versterken van het integratiebeleid.<br /><br />§ 2. De Vlaamse Regering kan de voorwaarden voor de toekenning van een projectsubsidie nader bepalen. De Vlaamse Regering bepaalt voor de algemene projectoproep de nadere voorwaarden voor het indienen van de subsidieaanvragen, evenals voor de beoordeling van de aanvragen, de toekenning en de uitbetaling van de subsidie, het toezicht op de naleving van de subsidiëringsvoorwaarden en de evaluatie van de gevoerde projecten.<br /><br />De Vlaamse Regering brengt tweejaarlijks verslag uit aan het Vlaams Parlement over de goedgekeurde projecten en de evaluatie ervan.
 
 ### ART. 44.
 
