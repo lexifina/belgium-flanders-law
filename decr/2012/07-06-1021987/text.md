@@ -4,6 +4,10 @@
 
 ## HOOFDSTUK 2. Wijzigingsbepalingen
 
+### ART. 10.
+
+Artikel 43 van hetzelfde decreet, gewijzigd bij het decreet van 23 december 2010, wordt vervangen door wat volgt :<br /><br />« Art. 43. § 1. De Vlaamse Regering wendt ten hoogste 10 % van het totale budget dat jaarlijks wordt vastgelegd voor de uitvoering van dit decreet, aan om experimentele, aanvullende of vernieuwende projecten te subsidiëren gericht op het versterken van het integratiebeleid.<br /><br />§ 2. De Vlaamse Regering kan de voorwaarden voor de toekenning van een projectsubsidie nader bepalen. De Vlaamse Regering bepaalt voor de algemene projectoproep de nadere voorwaarden voor het indienen van de subsidieaanvragen, evenals voor de beoordeling van de aanvragen, de toekenning en de uitbetaling van de subsidie, het toezicht op de naleving van de subsidiëringsvoorwaarden en de evaluatie van de gevoerde projecten.<br /><br />De Vlaamse Regering brengt tweejaarlijks verslag uit aan het Vlaams Parlement over de goedgekeurde projecten en de evaluatie ervan. ».
+
 ### ART. 14.
 
 Artikel 22 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Art. 22. Artikel 29 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Art. 29. Binnen de beschikbare begrotingskredieten kan de Vlaamse Regering aan steden en gemeenten een integratiesubsidie toekennen.<br /><br />De integratiesubsidie wordt toegekend voor de realisatie van de doelstellingen van het integratiebeleid, zoals vermeld in artikel 4 en 5. De Vlaamse Regering verduidelijkt die doelstellingen en maakt ze bekend als Vlaamse beleidsprioriteiten. ». ».
