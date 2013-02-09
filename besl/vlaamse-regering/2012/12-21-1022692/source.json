@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022692,
+  "title": "Besluit van de Vlaamse Regering van 2012-12-21 tot wijziging van artikelen 11, 13, 15 en 17 van het besluit van de Vlaamse Regering van 3 februari 2012 houdende de uitvoering van het decreet van 17 juni 2011 betreffende het beheer van de verkeersveiligheid van weginfrastructuur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022692/VolledigDocument?datum=2013-02-09",
+  "source_sha256": "406338f6fb8db23654107b4158bef1dcd61fa1dd2291c3932683d708f7a784ae",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022692&param=informatie",
+  "as_of": "2013-02-09",
+  "made": "2012-12-21",
+  "gazette": "2013-01-30",
+  "numac": 2013035057,
+  "document_start": "2013-02-09",
+  "document_end": null,
+  "in_force": "2013-02-09",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2013-02-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
