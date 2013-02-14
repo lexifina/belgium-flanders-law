@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022701,
+  "title": "Besluit van de Vlaamse Regering van 2013-01-18 houdende de definitieve vaststelling van de afbakening van het deelgebied 11 « Boterakker » van de speciale beschermingszone BE2200037 'Uiterwaarden langs de Limburgse Maas en Vijverbroek' als speciale beschermingszone in toepassing van de Habitatrichtlijn 92/43/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022701/VolledigDocument?datum=2013-02-14",
+  "source_sha256": "79d5d9e1c6843321d0874dd19a68bf82ae1e02d39ff972daa4de4e3ce366964d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022701&param=informatie",
+  "as_of": "2013-02-14",
+  "made": "2013-01-18",
+  "gazette": "2013-02-04",
+  "numac": 2013035120,
+  "document_start": "2013-02-14",
+  "document_end": null,
+  "in_force": "2013-02-14",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2013-02-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
