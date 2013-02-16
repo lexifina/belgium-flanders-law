@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022704,
+  "title": "Besluit van de Vlaamse Regering van 2012-12-14 tot wijziging van het besluit van de Vlaamse Regering van 2 april 2004 houdende de voorwaarden waaronder kredietmaatschappijen erkend kunnen worden door de Vlaamse regering en ter bepaling van de kredietinstellingen erkend door de Vlaamse Regering, ter uitvoering van artikel 78 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022704/VolledigDocument?datum=2013-02-16",
+  "source_sha256": "c871c17c94dc696c8d9c85830922c04ba531fd54f1a55d720c2951e456e8f407",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022704&param=informatie",
+  "as_of": "2013-02-16",
+  "made": "2012-12-14",
+  "gazette": "2013-02-06",
+  "numac": 2013025121,
+  "document_start": "2013-02-16",
+  "document_end": null,
+  "in_force": "2013-02-16",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2013-02-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
