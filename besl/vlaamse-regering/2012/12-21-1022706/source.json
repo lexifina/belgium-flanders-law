@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022706,
+  "title": "Besluit van de Vlaamse Regering van 2012-12-21 houdende tweede gedeeltelijke herverdeling van de provisie voor de toekenning van rendementsondersteuning voor de tewerkstelling van personen met een arbeidshandicap van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2012",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022706/VolledigDocument?datum=2013-02-17",
+  "source_sha256": "4a36a2cb9f1a0959a93987c1e2521d8f3a90bafd56ca45f610f0f2ffc684975f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022706&param=informatie",
+  "as_of": "2013-02-17",
+  "made": "2012-12-21",
+  "gazette": "2013-02-07",
+  "numac": 2013035076,
+  "document_start": "2013-02-17",
+  "document_end": null,
+  "in_force": "2013-02-17",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-02-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
