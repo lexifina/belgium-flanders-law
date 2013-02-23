@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-§ 1. Dit besluit regelt het financiële en materiële beheer van de dienst met afzonderlijk beheer Grondfonds, bedoeld in artikel 144 van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, hierna te noemen "Grondfonds".<br /><br />§ 2. ...<br /><br />§ 3. Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° het decreet: het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening;<br /><br />2° de Vlaamse minister: het lid van de Vlaamse regering, bevoegd voor de ruimtelijke ordening.
+§ 1. Dit besluit regelt het financiële en materiële beheer van de dienst   met afzonderlijk beheer Grondfonds, bedoeld in artikel 5.6.3. van de Vlaamse   Codex Ruimtelijke Ordening, hierna te noemen "Grondfonds".<BR><BR>§ 2.   ...<BR><BR>§ 3. Voor de toepassing van dit besluit wordt verstaan onder:<BR>1°   ...;<BR>2° de Vlaamse minister: het lid van de Vlaamse regering, bevoegd voor de   ruimtelijke ordening.
 
 ## HOOFDSTUK II DE BEGROTING
 
@@ -18,7 +18,7 @@
 
 ### ART. 4.
 
-De raming van de ontvangsten heeft betrekking op:<br /><br />1° het over te dragen saldo;<br /><br />2° de dotaties;<br /><br />3° de bedragen die het Grondfonds ontvangt krachtens titel II, hoofdstuk VIII, afdeling 2 van het decreet;<br /><br />4° de bedragen die het Grondfonds gedurende het begrotingsjaar in kwestie zal ontvangen.
+De raming van de ontvangsten heeft betrekking op:<BR>1° het over te dragen   saldo;<BR>2° de dotaties;<BR>3° de bedragen die het Grondfonds ontvangt   krachtens titel II, hoofdstuk VI, afdeling 2, van de Vlaamse Codex Ruimtelijke   Ordening;<BR>4° de bedragen die het Grondfonds gedurende het begrotingsjaar in   kwestie zal ontvangen.
 
 ### ART. 5.
 
@@ -40,7 +40,7 @@ De raming van de ontvangsten heeft betrekking op:<br /><br />1° het over te dra
 
 ### ART. 9.
 
-De leidend ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed wordt aangesteld als inhoudelijk ordonnateur van het Grondfonds voor de betaalbaarstelling van kredieten, andere dan voor de verrichtingen inzake de planbatenheffing als vermeld in artikel 87 tot en met 91 van het decreet. Hij kan zijn bevoegdheid delegeren aan ambtenaren van niveau A van het departement.<br /><br />De leidend ambtenaar van de Vlaamse Belastingsdienst wordt aangesteld als inhoudelijk ordonnateur voor de betaalbaarstelling van kredieten voor de verrichtingen inzake de planbatenheffing. Hij wordt tevens belast met de inning van de planbatenheffingen. Hij kan zijn bevoegdheid delegeren aan ambtenaren van niveau A van het agentschap. <br />
+De leidend ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid   en Onroerend Erfgoed wordt aangesteld als inhoudelijk ordonnateur van het   Grondfonds voor de betaalbaarstelling van kredieten, andere dan voor de   verrichtingen inzake de planbatenheffing als vermeld in titel II, hoofdstuk VI,   afdeling 2 van de Vlaamse Codex Ruimtelijke Ordening. Hij kan zijn bevoegdheid   delegeren aan ambtenaren van niveau A van het departement.<BR><BR>De leidend   ambtenaar van de Vlaamse Belastingsdienst wordt aangesteld als inhoudelijk   ordonnateur voor de betaalbaarstelling van kredieten voor de verrichtingen   inzake de planbatenheffing. Hij wordt tevens belast met de inning van de   planbatenheffingen. Hij kan zijn bevoegdheid delegeren aan ambtenaren van niveau   A van het agentschap. <BR>
 
 ### ART. 10.
 
