@@ -15,7 +15,7 @@ Besluit :
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1) het decreet : het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening;<br />2) de minister : de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br />3) het Herstelfonds : de dienst met afzonderlijk beheer Herstelfonds, vermeld in artikel 159bis van het decreet.<br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder :<BR>1) ...;<BR>2)   de minister : de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<BR>3)   het Herstelfonds : de dienst met afzonderlijk beheer Herstelfonds, vermeld in   artikel 6.1.56. van de Vlaamse Codex Ruimtelijke Ordening.<BR><BR>
 
 ## HOOFDSTUK II De begroting
 
@@ -29,7 +29,7 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1) het decreet : 
 
 ### ART. 4.
 
-De raming van de ontvangsten heeft betrekking op :<br />1) het over te dragen saldo;<br />2) de eventuele dotaties;<br />3) de bedragen die het Herstelfonds ontvangt krachtens titel V, hoofdstuk I, van het decreet;<br />4) de bedragen die het Herstelfonds gedurende het begrotingsjaar in kwestie zal ontvangen.<br /><br />
+De raming van de ontvangsten heeft betrekking op :<BR>1) het over te   dragen saldo;<BR>2) de eventuele dotaties;<BR>3) de bedragen die het   Herstelfonds ontvangt krachtens titel VI van de Vlaamse Codex Ruimtelijke   Ordening;<BR>4) de bedragen die het Herstelfonds gedurende het begrotingsjaar in   kwestie zal ontvangen.<BR><BR>
 
 ### ART. 5.
 
