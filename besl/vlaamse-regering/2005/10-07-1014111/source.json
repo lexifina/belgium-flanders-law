@@ -2,16 +2,16 @@
   "codex_id": 1014111,
   "title": "Besluit van de Vlaamse Regering van 2005-10-07 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid [Agentschap Wegen en Verkeer]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014111/VolledigDocument?datum=2007-12-13",
-  "source_sha256": "46fb735cdd2441ef6f8af854d8bbe2059451f0022665624eb2c3e9fcfaa909a3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014111/VolledigDocument?datum=2013-02-23",
+  "source_sha256": "630063630d24311d50945d73dbf05304b414d7d9c3787df9b15efb7c0a5dc861",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014111&param=informatie",
-  "as_of": "2007-12-13",
+  "as_of": "2013-02-23",
   "made": "2005-10-07",
   "gazette": "2005-12-01",
   "numac": 2005036483,
   "document_start": "2006-04-01",
   "document_end": null,
-  "in_force": "2007-12-13",
+  "in_force": "2013-02-23",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2007-12-13; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-02-23; future article versions excluded; article text as the API gives it"
 }
