@@ -102,7 +102,7 @@ De hoorzitting is openbaar, behoudens indien de indiener van het bezwaarschrift 
 
 ### ART. 20.
 
-Het afdelingshoofd van de Afdeling Juridische Dienstverlening van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, of zijn gemachtigde, formuleert omtrent een ontvankelijk bezwaarschrift een juridisch advies, rekening houdend met het verslag van de hoorzitting indien deze heeft plaatsgevonden.<br />
+De leidinggevende binnen de subentiteit van het Departement Ruimtelijke   Ordening, Woonbeleid en Onroerend Erfgoed die belast is met de taken van   juridische dienstverlening, of zijn gemachtigde, formuleert omtrent een   ontvankelijk bezwaarschrift een juridisch advies, rekening houdend met het   verslag van de hoorzitting indien deze heeft plaatsgevonden.<BR>
 
 ### ART. 21.
 
