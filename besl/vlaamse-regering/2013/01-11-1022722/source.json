@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022722,
+  "title": "Besluit van de Vlaamse Regering van 2013-01-11 tot wijziging van diverse besluiten ingevolge de reorganisatie van het beleidsveld Ruimtelijke Ordening en de totstandkoming van de Vlaamse Codex Ruimtelijke Ordening",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022722/VolledigDocument?datum=2013-02-23",
+  "source_sha256": "897df5f4ef32f0831b06d2e46ede2562da76e64038a25294d71ee6915df9bdea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022722&param=informatie",
+  "as_of": "2013-02-23",
+  "made": "2013-01-11",
+  "gazette": "2013-02-13",
+  "numac": 2013200632,
+  "document_start": "2013-02-23",
+  "document_end": null,
+  "in_force": "2013-02-23",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2013-02-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
