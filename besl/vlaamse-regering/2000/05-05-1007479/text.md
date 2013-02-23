@@ -4,13 +4,13 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° de minister: de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br /><br />2° het departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br /><br />3° het decreet: het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening.
+Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° de   minister: de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<BR>2° het   departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend   Erfgoed;&nbsp;<BR>
 
 ## HOOFDSTUK II HET REGISTER VAN RUIMTELIJKE PLANNERS
 
 ### ART. 2.
 
-Er wordt voor het hele grondgebied van het Vlaamse gewest een register aangelegd en bijgehouden van natuurlijke personen die conform het decreet als ruimtelijk planner worden beschouwd.
+Er wordt voor het hele grondgebied van het Vlaamse gewest een register   aangelegd en bijgehouden van natuurlijke personen die conform de Vlaamse Codex   Ruimtelijke Ordening als ruimtelijk planner worden beschouwd.
 
 ### ART. 3.
 
@@ -30,11 +30,7 @@ Binnen 45 dagen na ontvangst van de aanvraag wordt de aanvrager die voldoet aan 
 
 ### ART. 7.
 
-De opname in het register geldt conform het decreet voor drie jaar. Het bericht van opname vermeldt een begin- en einddatum.<br>
-<br>
-De persoon die is opgenomen in het register en na afloop van de driejarige termijn wenst opgenomen te blijven in dit register, moet een nieuwe aanvraag indienen uiterlijk 60 dagen voor de einddatum, genoemd in het eerste lid. Deze aanvraag wordt op dezelfde manier behandeld als de eerste aanvraag. Er hoeven echter geen nieuwe afschriften van diploma's of getuigschriften te worden toegevoegd. De begindatum van de nieuwe termijn van opname is de dag volgend op de einddatum van de afgelopen termijn.<br>
-<br>
-Aanvragen voor een hernieuwde opname die niet ingediend worden uiterlijk 60 dagen voor de einddatum, genoemd in het eerste lid, moeten ofwel opnieuw [kopieën van diploma's (verv. B.V.R. 23 april 2004, art. 21, I: 31 maart 2004) ] of getuigschriften bevatten, ofwel een [kopie (verv. B.V.R. 23 april 2004, art. 21, I: 31 maart 2004) ] van het recentste bericht van opname, genoemd in het eerste lid.
+De opname in het register geldt conform de Vlaamse Codex Ruimtelijke   Ordening voor drie jaar. Het bericht van opname vermeldt een begin- en   einddatum.<BR><BR>De persoon die is opgenomen in het register en na afloop van   de driejarige termijn wenst opgenomen te blijven in dit register, moet een   nieuwe aanvraag indienen uiterlijk 60 dagen voor de einddatum, genoemd in het   eerste lid. Deze aanvraag wordt op dezelfde manier behandeld als de eerste   aanvraag. Er hoeven echter geen nieuwe afschriften van diploma's of   getuigschriften te worden toegevoegd. De begindatum van de nieuwe termijn van   opname is de dag volgend op de einddatum van de afgelopen   termijn.<BR><BR>Aanvragen voor een hernieuwde opname die niet ingediend worden   uiterlijk 60 dagen voor de einddatum, genoemd in het eerste lid, moeten ofwel   opnieuw kopieën van diploma's&nbsp;of getuigschriften bevatten, ofwel een   kopie&nbsp;van het recentste bericht van opname, genoemd in het eerste   lid.
 
 ### ART. 8.
 
@@ -48,31 +44,17 @@ Een ontwerp van gewestelijk, provinciaal en gemeentelijk ruimtelijk structuurpla
 
 ### ART. 10.
 
-Personen die overeenkomstig hoofdstuk IV van titel I van het decreet als ambtenaar van ruimtelijke ordening zijn aangesteld, kunnen niet als ruimtelijk planner verantwoordelijk zijn voor de opmaak van een ruimtelijk structuurplan of ruimtelijk uitvoeringsplan, tenzij dat plan geheel of gedeeltelijk opgemaakt wordt door het departement of door de desbetreffende provinciale of gemeentelijke administratie.<br />
+Personen die overeenkomstig hoofdstuk IV van titel I van de Vlaamse Codex   Ruimtelijke Ordening als ambtenaar van ruimtelijke ordening zijn aangesteld,   kunnen niet als ruimtelijk planner verantwoordelijk zijn voor de opmaak van een   ruimtelijk structuurplan of ruimtelijk uitvoeringsplan, tenzij dat plan geheel   of gedeeltelijk opgemaakt wordt door het departement of door de desbetreffende   provinciale of gemeentelijke administratie.<BR>
 
 ## HOOFDSTUK IV OVERGANGS- EN SLOTBEPALINGEN
 
 ### ART. 11.
 
-De natuurlijke personen die de dag vóór de inwerkingtreding van het decreet vermeld waren in de openbare registers die door de gouverneurs van de provincies werden aangelegd op basis van artikel 19 van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996, en die niet voldoen aan de diplomavereisten vermeld in artikel 5, kunnen op hun aanvraag worden opgenomen in het register van ruimtelijke planners dat wordt aangelegd overeenkomstig artikel 2.<br>
-<br>
-De aanvraag moet de identiteit en het adres van de aanvrager vermelden en moet een door de provinciegouverneur of de daartoe door hem gemachtigde ambtenaar ondertekend attest bevatten waaruit blijkt dat de aanvrager op bovenvermelde datum was vermeld in het openbaar register.<br>
-<br>
-De aanvraag moet verstuurd worden uiterlijk 180 dagen na de inwerkingtreding van dit besluit. Ze wordt afgehandeld binnen dezelfde termijnen en op dezelfde manier als de aanvragen bedoeld in hoofdstuk II.
+De natuurlijke personen die de dag vóór de inwerkingtreding van het   decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening   vermeld waren in de openbare registers die door de gouverneurs van de provincies   werden aangelegd op basis van artikel 19 van het decreet betreffende de   ruimtelijke ordening, gecoördineerd op 22 oktober 1996, en die niet voldoen aan   de diplomavereisten vermeld in artikel 5, kunnen op hun aanvraag worden   opgenomen in het register van ruimtelijke planners dat wordt aangelegd   overeenkomstig artikel 2.<BR><BR>De aanvraag moet de identiteit en het adres van   de aanvrager vermelden en moet een door de provinciegouverneur of de daartoe   door hem gemachtigde ambtenaar ondertekend attest bevatten waaruit blijkt dat de   aanvrager op bovenvermelde datum was vermeld in het openbaar register.<BR><BR>De   aanvraag moet verstuurd worden uiterlijk 180 dagen na de inwerkingtreding van   dit besluit. Ze wordt afgehandeld binnen dezelfde termijnen en op dezelfde   manier als de aanvragen bedoeld in hoofdstuk II.
 
 ### ART. 12.
 
-De natuurlijke personen die op de datum van inwerkingtreding van dit besluit hetzij als werknemer, hetzij als werknemer, vennoot of lid verbonden zijn met een natuurlijke persoon, respectievelijk een rechtspersoon die de dag vóór de inwerkingtreding van het decreet vermeld was in de openbare registers die door de gouverneurs van de provincies werden aangelegd op basis van artikel 19 van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996, en die niet voldoen aan de diplomavereisten vermeld in artikel 5, kunnen op hun aanvraag worden opgenomen in het register van ruimtelijke planners dat wordt aangelegd overeenkomstig artikel 2.<br>
-<br>
-Zij moeten wel beschikken over een diploma van het universitair onderwijs of van het hoger onderwijs van één of twee cycli. Hun eerste aanvraag moet een [kopie (verv. B.V.R. 23 april 2004, art. 21, I: 31 maart 2004) ] van dat diploma bevatten.<br>
-<br>
-De aanvraag moet de identiteit en het adres van de aanvrager vermelden en moet vergezeld zijn van stukken die staven dat:<br>
-<br>
-1° hij gedurende minstens drie jaar, eventuele onderbrekingen niet meegerekend, voorafgaand aan de datum van inwerkingtreding van het decreet, hetzij werknemer, hetzij werknemer, vennoot of lid is geweest van één of meer natuurlijke personen, respectievelijk rechtspersonen opgenomen in de registers, genoemd in het eerste lid;<br>
-<br>
-2° hij gedurende de periode, vermeld in 1°, voor rekening van de betrokken natuurlijke personen of rechtspersonen verantwoordelijk geweest is voor de opmaak van ruimtelijke structuurplannen, ruimtelijke uitvoeringsplannen of plannen van aanleg die voorlopig en/of definitief door de betrokken overheid werden vastgesteld; of minstens rechtstreeks heeft samengewerkt met personen die dergelijke verantwoordelijkheid hebben uitgeoefend.<br>
-<br>
-De aanvraag moet verstuurd worden uiterlijk 180 dagen na de inwerkingtreding van dit besluit. Ze wordt afgehandeld binnen dezelfde termijnen en op dezelfde manier als de aanvragen bedoeld in hoofdstuk II.
+De natuurlijke personen die op de datum van inwerkingtreding van dit   besluit hetzij als werknemer, hetzij als werknemer, vennoot of lid verbonden   zijn met een natuurlijke persoon, respectievelijk een rechtspersoon die de dag   vóór de inwerkingtreding van het decreet van 18 mei 1999 houdende de organisatie   van de ruimtelijke ordening vermeld was in de openbare registers die door de   gouverneurs van de provincies werden aangelegd op basis van artikel 19 van het   decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996,   en die niet voldoen aan de diplomavereisten vermeld in artikel 5, kunnen op hun   aanvraag worden opgenomen in het register van ruimtelijke planners dat wordt   aangelegd overeenkomstig artikel 2.<BR><BR>Zij moeten wel beschikken over een   diploma van het universitair onderwijs of van het hoger onderwijs van één of   twee cycli. Hun eerste aanvraag moet een kopie&nbsp;van dat diploma   bevatten.<BR><BR>De aanvraag moet de identiteit en het adres van de aanvrager   vermelden en moet vergezeld zijn van stukken die staven dat:<BR>1° hij gedurende   minstens drie jaar, eventuele onderbrekingen niet meegerekend, voorafgaand aan   de datum van inwerkingtreding van het decreet van 18 mei 1999 houdende de   organisatie van de ruimtelijke ordening, hetzij werknemer, hetzij werknemer,   vennoot of lid is geweest van één of meer natuurlijke personen, respectievelijk   rechtspersonen opgenomen in de registers, genoemd in het eerste lid;<BR>2° hij   gedurende de periode, vermeld in 1°, voor rekening van de betrokken natuurlijke   personen of rechtspersonen verantwoordelijk geweest is voor de opmaak van   ruimtelijke structuurplannen, ruimtelijke uitvoeringsplannen of plannen van   aanleg die voorlopig en/of definitief door de betrokken overheid werden   vastgesteld; of minstens rechtstreeks heeft samengewerkt met personen die   dergelijke verantwoordelijkheid hebben uitgeoefend.<BR><BR>De aanvraag moet   verstuurd worden uiterlijk 180 dagen na de inwerkingtreding van dit besluit. Ze   wordt afgehandeld binnen dezelfde termijnen en op dezelfde manier als de   aanvragen bedoeld in hoofdstuk II.
 
 ### ART. 13.
 
@@ -80,11 +62,7 @@ In afwijking van artikel 5 kunnen tenslotte ook personen die beschikken over een
 
 ### ART. 14.
 
-De opname in het register verkregen door toepassing van artikel 11, 12 of 13, geldt conform het decreet voor drie jaar. Het bericht van opname vermeldt een begin- en einddatum.<br>
-<br>
-De persoon die is opgenomen in het register door toepassing van artikel 11, 12 of 13 en na afloop van de eerste driejarige termijn wenst opgenomen te blijven in dit register, moet een nieuwe aanvraag indienen uiterlijk 60 dagen voor de einddatum, genoemd in het eerste lid. Deze aanvraag moet echter vergezeld zijn van bewijsstukken voor de beroepservaring vereist overeenkomstig artikel 15. De begindatum van de nieuwe termijn van opname is de dag volgend op de einddatum van de afgelopen termijn.<br>
-<br>
-De vereiste van toevoeging van bewijsstukken voor beroepservaring en de vereiste dat een hernieuwingsaanvraag wordt ingediend uiterlijk 60 dagen voor de einddatum van de lopende opname, gelden niet meer vanaf een tweede hernieuwingsaanvraag. Evenwel moet de persoon die dergelijke hernieuwingsaanvraag niet indient uiterlijk 60 dagen voor de einddatum van de lopende opname, een [kopie (verv. B.V.R. 23 april 2004, art. 21, I: 31 maart 2004) ] van het recentste bericht van opname bij zijn nieuwe aanvraag voegen.
+De opname in het register verkregen door toepassing van artikel 11, 12 of   13, geldt conform de Vlaamse Codex Ruimtelijke Ordening voor drie jaar. Het   bericht van opname vermeldt een begin- en einddatum.<BR><BR>De persoon die is   opgenomen in het register door toepassing van artikel 11, 12 of 13 en na afloop   van de eerste driejarige termijn wenst opgenomen te blijven in dit register,   moet een nieuwe aanvraag indienen uiterlijk 60 dagen voor de einddatum, genoemd   in het eerste lid. Deze aanvraag moet echter vergezeld zijn van bewijsstukken   voor de beroepservaring vereist overeenkomstig artikel 15. De begindatum van de   nieuwe termijn van opname is de dag volgend op de einddatum van de afgelopen   termijn.<BR><BR>De vereiste van toevoeging van bewijsstukken voor   beroepservaring en de vereiste dat een hernieuwingsaanvraag wordt ingediend   uiterlijk 60 dagen voor de einddatum van de lopende opname, gelden niet meer   vanaf een tweede hernieuwingsaanvraag. Evenwel moet de persoon die dergelijke   hernieuwingsaanvraag niet indient uiterlijk 60 dagen voor de einddatum van de   lopende opname, een kopie&nbsp;van het recentste bericht van opname bij zijn   nieuwe aanvraag voegen.
 
 ### ART. 15.
 
