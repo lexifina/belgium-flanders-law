@@ -2,16 +2,16 @@
   "codex_id": 1011567,
   "title": "Besluit van de Vlaamse Regering van 2003-06-27 tot vaststelling van de voorwaarden voor de erkenning van natuurreservaten en van terreinbeherende natuurverenigingen en houdende toekenning van subsidies",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011567/VolledigDocument?datum=2011-07-25",
-  "source_sha256": "9c18d20636d1f493aae539a55a8357d635de1df5370501db221966ae89fc4073",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011567/VolledigDocument?datum=2013-02-23",
+  "source_sha256": "23b23ef54766598c4a1ef4f39f1f8a77409b2ec6042bab07181ea35b3e2595d7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011567&param=informatie",
-  "as_of": "2011-07-25",
+  "as_of": "2013-02-23",
   "made": "2003-06-27",
   "gazette": "2003-09-12",
   "numac": 2003036008,
   "document_start": "2004-01-01",
   "document_end": "2023-10-27",
-  "in_force": "2011-07-25",
+  "in_force": "2013-02-23",
   "article_versions": 35,
-  "record_form": "consolidated version as in force on 2011-07-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-02-23; future article versions excluded; article text as the API gives it"
 }
