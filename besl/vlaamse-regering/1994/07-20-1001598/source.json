@@ -2,16 +2,16 @@
   "codex_id": 1001598,
   "title": "Besluit van de Vlaamse Regering van 1994-07-20 tot uitvoering van het decreet van 14 juli 1993 tot oprichting van het Grindfonds en tot regeling van de grindwinning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001598/VolledigDocument?datum=2010-06-07",
-  "source_sha256": "97872669835aae276077c0c63b3bd979412f829021e42bed96bc165b8a50ba2f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001598/VolledigDocument?datum=2013-02-25",
+  "source_sha256": "b83296a9f5e7c91c704f8ae2bb4890e719abeeb5aa622cbe04afbde5c8688cb3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001598&param=informatie",
-  "as_of": "2010-06-07",
+  "as_of": "2013-02-25",
   "made": "1994-07-20",
   "gazette": "1994-12-29",
   "numac": 1994936523,
   "document_start": "1995-01-01",
   "document_end": null,
-  "in_force": "2010-06-07",
+  "in_force": "2013-02-25",
   "article_versions": 32,
-  "record_form": "consolidated version as in force on 2010-06-07; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-02-25; future article versions excluded; article text as the API gives it"
 }

@@ -58,7 +58,7 @@ De volgende publieke rechtspersonen die rechtstreeks verbonden zijn bij het wete
 
 ### ART. 12.
 
-De gemeenten Kinrooi, Maaseik, Dilsen-Stokkem en Maasmechelen worden aangewezen als grind-gemeente zoals bedoeld in artikel 7, § 3, van het decreet.<br /><br />Voor de toepassing van hoofdstuk IIIbis van het decreet worden de gemeenten Lanaken en As aanvullend aangewezen als grindgemeente zoals bedoeld in artikel 7, § 3, van het decreet.
+De gemeenten As,&nbsp;Kinrooi, Maaseik, Dilsen-Stokkem en Maasmechelen   worden aangewezen als grind-gemeente zoals bedoeld in artikel 7, § 3, van het   decreet.<BR><BR>Voor de toepassing van hoofdstuk IIIbis van het decreet wordt de   gemeente Lanaken aanvullend aangewezen als grindgemeente zoals bedoeld in   artikel 7, § 3, van het decreet.
 
 ## HOOFDSTUK VII [... (opgeh. BVR 21 mei 2021, art. 7, I: 11 juli 2021)]
 
