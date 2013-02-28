@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022735,
+  "title": "Decreet van 2013-01-18 tot instemming met het zetelakkoord tussen het Koninkrijk België en de « International Management Group », ondertekend in Brussel op 13 juni 2012",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022735/VolledigDocument?datum=2013-02-28",
+  "source_sha256": "9eed01a0c1fcbd287015a5b704a4affb930092085eace8f278b8efe370c067b3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022735&param=informatie",
+  "as_of": "2013-02-28",
+  "made": "2013-01-18",
+  "gazette": "2013-02-18",
+  "numac": 2013035168,
+  "document_start": "2013-02-28",
+  "document_end": null,
+  "in_force": "2013-02-28",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-02-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
