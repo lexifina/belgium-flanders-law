@@ -2407,7 +2407,7 @@ XIII 60. De statutaire personeelsleden die een functie uitoefenen waaraan een gr
 
 ### ART. XIII 61.
 
-XIII 61. § 1. De leidend ambtenaar, de adjunct-leidend ambtenaren en de afdelingshoofden met een rang K2 kunnen een managementstoelage ontvangen tussen 0 en 20 % van hun salaris als zij de concrete korte-termijndoel-stellingen die hun bij het begin van de evaluatieperiode waren opgelegd, hebben bereikt, en als uit hun functione-ringsevaluatie blijkt dat zij tijdens de evaluatieperiode beter hebben gepresteerd dan normaliter kon worden verwacht van die functie.<br /><br />Onder salaris zoals bedoeld in het eerste lid, wordt verstaan het geïndexeerd jaarsalaris, van toepassing in de maand december van het evaluatiejaar en in voorkomend geval het bedrag van de toelage voor het uitoefenen van een hogere functie.
+§ 1. De leidend ambtenaar, de adjunct-leidend ambtenaren en de   afdelingshoofden met een rang K2 kunnen een managementstoelage ontvangen tussen   0 en 20 % van hun salaris als zij de concrete korte-termijndoel-stellingen die   hun bij het begin van de evaluatieperiode waren opgelegd, hebben bereikt, en als   uit hun functione-ringsevaluatie blijkt dat zij tijdens de evaluatieperiode   beter hebben gepresteerd dan normaliter kon worden verwacht van die   functie.<BR><BR>Onder salaris zoals bedoeld in het eerste lid, wordt verstaan   het geïndexeerd jaarsalaris, van toepassing in de maand december van het   evaluatiejaar en in voorkomend geval het bedrag van de toelage voor het   uitoefenen van een hogere functie. en de mandaattoelage.
 
 ### ART. XIII 62.
 
@@ -3512,7 +3512,7 @@ XVI 1. Elk personeelslid krijgt een exemplaar van dit besluit en van de wijzigin
 
 ### ART. XVII 1.
 
-XVII 1. [...  <span class="reference">(opgeh. B.V.R. 19 september 2003, art. 35, I: 1 januari 1997)</span> ]
+<P>Met behoud van de toepassing van de overige bepalingen van dit besluit, is de   functie van leidend ambtenaar een mandaatfunctie met een duur van maximaal zes   jaar, die hernieuwbaar is met toepassing van artikel XVII 6. </P>
 
 ### ART. XVII 2.
 
@@ -3520,19 +3520,27 @@ XVII 1. [...  <span class="reference">(opgeh. B.V.R. 19 september 2003, art. 35,
 
 ### ART. XVII 3.
 
-XVII 3. [...  <span class="reference">(opgeh. B.V.R. 19 september 2003, art. 34, I: 1 januari 1998)</span> ]
+<P>De vervanger van de leidend ambtenaar geniet de bezoldiging en de toelagen,   vermeld in artikel XVII 2, voor zover de vervanging drie maanden of langer   duurt.</P>
 
 ### ART. XVII 4.
 
-XVII 4. [...  <span class="reference">(opgeh. B.V.R. 19 september 2003, art. 36, I: 1 januari 1999)</span> ]
+<P>§ 1.Uiterlijk zes maanden voor het einde van het mandaat wordt een globale   eindevaluatie opgemaakt met het oog op het opnemen van een volgend mandaat. De   Vlaamse Regering verleent de eindevaluatie op voorstel van de raad van bestuur.   Er wordt rekening gehouden met de jaarlijkse evaluaties. <BR><BR>§ 2. Bij een   evaluatie die eindigt met de uitspraak "onvoldoende", gelden de bepalingen,   vermeld in artikel VIII 21. Als een evaluatie niet resulteert in de uitspraak   "onvoldoende", wordt ze geacht positief te zijn.</P>
 
 ### ART. XVII 5.
 
-XVII 5. [...  <span class="reference">(opgeh. B.V.R. 19 september 2003, art. 36, I: 1 januari 1999)</span> ]
+<P>De mandaatfunctie eindigt in de volgende gevallen : <BR>1° bij een evaluatie   die eindigt met de uitspraak "onvoldoende";<BR>2° in beginsel na twaalf jaar met   behoud van de toepassing van artikel XVII 7;<BR>3° in onderling overleg met de   Vlaamse Regering; <BR>4° op verzoek van de betrokkene zelf. </P>
 
 ### ART. XVII 6.
 
-XVII 6. [...  <span class="reference">(opgeh. B.V.R. 19 september 2003, art. 37, I: 1 januari 2000)</span> ]
+<P>Als de eindevaluatie, vermeld in artikel XVII 5, niet resulteert in een   einduitspraak "onvoldoende", wordt de titularis van het mandaat in zijn mandaat   hernieuwd, zonder dat opnieuw een beroep op de mededinging wordt gedaan, voor   een bijkomende eenmalige termijn van zes jaar. </P>
+
+### ART. XVII 7.
+
+De leidend ambtenaar van wie het mandaat ten einde loopt en van wie het   mandaat niet wordt hernieuwd, wordt in een passende functie met de terugvalgraad   van directeur-generaal herplaatst. <BR><BR>Deze regeling is van toepassing in   alle gevallen vermeld in artikel XVII 5 tenzij de betrokken statutaire   mandaathouder zelf ontslag neemt of met pensioen gaat of ontslag krijgt via de   tuchtstraf 'ontslag van ambtswege' of de tuchtstraf 'afzetting'. <BR><BR>Als hij   de mandaatfunctie verder uitoefent in afwachting van de aanstelling van een   nieuwe titularis, geniet hij de mandaattoelage, vermeld in artikel XVII 2.   <BR><BR>De persoon, vermeld in het eerste lid, behoudt de salarisschaal   verbonden aan de graad van directeur-generaal. De graad van directeur-generaal   blijft op persoonlijke titel behouden.
+
+### ART. XVII 8.
+
+De bepalingen van artikel XVII 1 tot en met 7 zijn niet van toepassing op   de leidend ambtenaar die door de Vlaamse Regering is benoemd voor de   inwerkingtreding van deel XVII.
 
 ## DEEL XVIII SLOTBEPALINGEN
 
