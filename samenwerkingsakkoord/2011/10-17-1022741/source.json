@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022741,
+  "title": "Samenwerkingsakkoord van 2011-10-17 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH)",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022741/VolledigDocument?datum=2013-03-01",
+  "source_sha256": "ab5dac8aa21e599a5ddbd482c057c9d227b7dc7e12957156ab5940959154f030",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022741&param=informatie",
+  "as_of": "2013-03-01",
+  "made": "2011-10-17",
+  "gazette": "2013-02-19",
+  "numac": 0,
+  "document_start": "2013-03-01",
+  "document_end": null,
+  "in_force": "2013-03-01",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2013-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
