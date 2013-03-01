@@ -62,7 +62,7 @@ Het aantal begeleidingen, vermeld in de erkenningsbeslissing kan   ambtshalve do
 
 ### ART. 14.
 
-Onverminderd de bepalingen van artikel 4, § 2, van voormeld decreet van 7 mei 2004, mag de dienst geen begeleiding weigeren op grond van geografische verwijdering van het te begeleiden gezin.
+Onverminderd de bepalingen van artikel 4, § 2, van voormeld decreet van 7   mei 2004, mag de dienst binnen de provincie of provincies waar hij werkzaam is   geen begeleiding weigeren op grond van geografische verwijdering van het te   begeleiden gezin.
 
 ## HOOFDSTUK V SUBSIDIERING
 
