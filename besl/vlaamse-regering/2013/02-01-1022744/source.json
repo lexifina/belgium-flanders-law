@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022744,
+  "title": "Besluit van de Vlaamse Regering van 2013-02-01 houdende indeling bij de gemeentewegen van de gewestweg N1 verbinding met de Abeelstraat tussen de kilometerpunten 0, 000 en 0, 217 op het grondgebied van de stad Vilvoorde",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022744/VolledigDocument?datum=2013-03-01",
+  "source_sha256": "d9b343b18941280abc4eba99da148d7c33e01b119451281242ee7056bb5d54fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022744&param=informatie",
+  "as_of": "2013-03-01",
+  "made": "2013-02-01",
+  "gazette": "2013-02-19",
+  "numac": 2013200959,
+  "document_start": "2013-03-01",
+  "document_end": null,
+  "in_force": "2013-03-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
