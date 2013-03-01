@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK I Inleidende bepalingen
 
+### ART. I.1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid. <BR>
+
 ## HOOFDSTUK II Basisonderwijs
 
 ## Afdeling I Decreet basisonderwijs
@@ -293,6 +297,10 @@ Aan artikel 40 van hetzelfde decreet, worden de volgende wijzigingen   aangebrac
 ### ART. VI.1.
 
 <P>Aan het decreet van 1 december 1998 betreffende de centra voor   leerlingenbegeleiding wordt een artikel 79/1 toegevoegd, dat luidt als volgt :   <BR>« Art. 79/1. Het bestuur kan ten laste van het werkingsbudget, vermeld in   artikel 50 of van de Vlaamse ondersteuningspremie uitgekeerd door de VDAB,   personeel aanwerven. In het gemeenschapsonderwijs kan een bestuur voormeld   principe aanwenden voor de personeelscategorieën van toepassing in de centra   voor leerlingenbegeleiding vermeld in artikel 2, § 1, van het decreet van 27   maart 1991 rechtspositie personeelsleden gemeen- schapsonderwijs, met   uitzondering van het statutaire meesters-, vak- en dienstpersoneel. In het   gesubsidieerd onderwijs kan een bestuur voormeld principe aanwenden voor de   personeelscategorieën van toepassing in de centra voor leerlingenbegeleiding   vermeld in artikel 4, § 1, a), van het decreet van 27 maart 1991 rechtspositie   personeelsleden gesubsidieerd onderwijs.<BR></P>  <P>De betrekking die met deze middelen wordt ingericht kan niet worden vacant   verklaard en het bestuur kan in geen geval een personeelslid vast benoemen,   affecteren of muteren in deze betrekking.<BR></P>  <P>Het personeelslid dat door een bestuur in het gemeenschapsonderwijs wordt   aangeworven, wordt altijd als tijdelijk personeelslid aangesteld. Het decreet   van 27 maart 1991 rechtspositie personeelsleden gemeenschapsonderwijs is op hem   van toepassing.<BR></P>  <P>Het personeelslid dat door een bestuur in het gesubsidieerd onderwijs wordt   aangeworven, wordt altijd als tijdelijk personeelslid aangesteld. Het decreet   van 27 maart 1991 rechtspositie personeelsleden gesubsidieerd onderwijs is op   hem van toepassing.<BR></P>  <P>Het Agentschap voor Onderwijsdiensten betaalt het salaris of salaristoelage   rechtstreeks aan de betrokken personeelsleden. Diezelfde dienst vordert het   brutosalaris of de brutosalaristoelage, verhoogd met de vergoedingen, bijslagen,   vakantiegeld, eindejaarspremie en werkgeversbijdrage, van het bestuur terug.   ».<BR></P>
+
+### ART. VI.2.
+
+Artikel VI.1 heeft uitwerking met ingang van 1 september   2012.<BR>
 
 ## HOOFDSTUK VII Onderwijsinspectie en pedagogische begeleidingsdiensten
 
@@ -681,3 +689,7 @@ Artikel X.6 en X.7, zoals gewijzigd, van het decreet van 22 juni 2007   betreffe
 ### ART. XI.1.
 
 <P>§ 1. Een raad van bestuur van een scholengroep in het gemeenschapsonderwijs   kan ten laste van de werkingsmiddelen toegekend voor een autonoom internaat of   een internaat verbonden aan een school voor gewoon basis- of secundair   onderwijs, vermeld in artikel 3ter van het decreet betreffende het onderwijs-II   van 31 juli 1990, artikel 32 van de wet van 29 mei 1959 tot wijziging van   sommige bepalingen van de onderwijswetgeving of met de Vlaamse   ondersteuningspremie uitgekeerd door de VDAB, personeel aanwerven in die   internaten. Een raad van bestuur kan voormeld principe aanwenden voor de   personeelscategorieën van toepassing in deze internaten vermeld in artikel 2, §   1, van het decreet van 27 maart 1991 rechtspositie personeelsleden   gemeenschapsonderwijs, met uit zondering van het statutaire meesters-, vak- en   dienstpersoneel. <BR></P>  <P>De betrekking die met deze middelen wordt ingericht kan niet worden vacant   verklaard en het schoolbestuur kan in geen geval een personeelslid vast   benoemen, affecteren of muteren in deze betrekking.<BR></P>  <P>Het personeelslid dat door de raad van bestuur wordt aangeworven, wordt   altijd als tijdelijk personeelslid aangesteld. Het decreet van 27 maart 1991   rechtspositie personeelsleden gemeenschapsonderwijs is op hem van   toepassing.<BR></P>  <P>Het Agentschap voor Onderwijsdiensten betaalt het salaris rechtstreeks aan de   betrokken personeelsleden. Dezelfde dienst vordert het brutosalaris, verhoogd   met de vergoedingen, bijslagen, vakantiegeld, eindejaarspremie en   werkgeversbijdrage, van de raad van bestuur terug.<BR></P>  <P>§ 2. De inrichtende macht in het gesubsidieerd onderwijs kan ten laste van de   werkingsmiddelen toegekend voor een autonoom internaat of een internaat   verbonden aan een school voor gewoon basis- of secundair onderwijs, vermeld in   artikel 3ter van het decreet betreffende het onderwijs-II van 31 juli 1990,   artikel 32 van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van   de onderwijswetgeving of met de Vlaamse ondersteuningspremie uitgekeerd door de   VDAB, personeel aanwerven in die internaten. Een inrichtende macht kan voormeld   principe aanwenden voor de personeelscategorieën van toepassing in deze   internaten vermeld in artikel 4, § 1, a), van het decreet van 27 maart 1991   rechtspositie personeelsleden gesubsidieerd onderwijs.<BR></P>  <P>De betrekking die met deze middelen wordt ingericht kan niet worden vacant   verklaard en het schoolbestuur kan in geen geval een personeelslid vast   benoemen, affecteren of muteren in deze betrekking.<BR></P>  <P>Het personeelslid dat door een inrichtende macht wordt aangeworven, wordt   altijd als tijdelijk personeelslid aangesteld. Het decreet van 27 maart 1991   rechtspositie personeelsleden gesubsidieerd onderwijs is op hem van   toepassing.<BR></P>  <P>Het Agentschap voor Onderwijsdiensten betaalt de salaristoelage rechtstreeks   aan de betrokken personeelsleden. Diezelfde dienst vordert de   brutosalaristoelage, verhoogd met de vergoedingen, bijslagen, vakantiegeld,   eindejaarspremie en werkgeversbijdrage, van de inrichtende macht terug.   ».<BR></P>
+
+### ART. XI.2.
+
+Artikel XI.1 heeft uitwerking met ingang van 1 september   2012.<BR>
