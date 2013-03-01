@@ -2,16 +2,16 @@
   "codex_id": 1021356,
   "title": "Decreet van 2012-02-10 houdende wijziging van het decreet van 20 maart 2009 betreffende het mobiliteitsbeleid en opheffing van het decreet van 20 april 2001 betreffende de mobiliteitsconvenants",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021356/VolledigDocument?datum=2012-03-30",
-  "source_sha256": "7894c4a738670604263428ac2de3859837783fc95f002215c307f4b4f08694ee",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021356/VolledigDocument?datum=2013-03-01",
+  "source_sha256": "cdaa042b520834d9dbb584b28330b4b61655220424ddb26b37b3e2bf469f9501",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021356&param=informatie",
-  "as_of": "2012-03-30",
+  "as_of": "2013-03-01",
   "made": "2012-02-10",
   "gazette": "2012-03-20",
   "numac": 2012201517,
   "document_start": "2012-03-30",
   "document_end": null,
-  "in_force": "2012-03-30",
-  "article_versions": 6,
-  "record_form": "consolidated version as in force on 2012-03-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-03-01",
+  "article_versions": 40,
+  "record_form": "consolidated version as in force on 2013-03-01; future article versions excluded; article text as the API gives it"
 }
