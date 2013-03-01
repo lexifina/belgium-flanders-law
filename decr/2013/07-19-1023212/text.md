@@ -90,6 +90,10 @@ In artikel 9, eerste lid, van het decreet van 22 februari 1995 betreffende   de 
 
 ## Afdeling V Decreet betreffende de herstructurering van het hoger onderwijs
 
+### ART. V.64.
+
+In artikel 91quater van hetzelfde decreet, ingevoegd bij het decreet van   13 juli 2012, wordt in paragraaf 1 de laatste volzin vervangen door wat volgt   :<BR>« Uiterlijk op 1 april van hetzelfde academiejaar wordt het advies van de   Vlaamse Universiteiten en Hogescholenraad over de gevraagde afwijking toegevoegd   aan het dossier. » .<BR>
+
 ## Afdeling VI Decreet betreffende de rechtspositieregeling van de student
 
 ## Afdeling VII Decreet betreffende de flexibilisering van het hoger onderwijs
