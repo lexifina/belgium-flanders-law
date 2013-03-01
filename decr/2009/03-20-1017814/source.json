@@ -2,16 +2,16 @@
   "codex_id": 1017814,
   "title": "Decreet van 2009-03-20 betreffende het mobiliteitsbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017814/VolledigDocument?datum=2012-03-30",
-  "source_sha256": "3c03a6cf6939d003d61d13df140fbbf3fa3a545433b520f9cbdd0b93f9c69371",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017814/VolledigDocument?datum=2013-03-01",
+  "source_sha256": "cf9cbcf923e76ee3886617bfe29c9413d9cea0827f444bd47fda340d4ce947e1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017814&param=informatie",
-  "as_of": "2012-03-30",
+  "as_of": "2013-03-01",
   "made": "2009-03-20",
   "gazette": "2009-04-20",
   "numac": 2009201673,
   "document_start": "2009-04-30",
   "document_end": "2019-06-21",
-  "in_force": "2012-03-30",
-  "article_versions": 30,
-  "record_form": "consolidated version as in force on 2012-03-30; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-03-01",
+  "article_versions": 43,
+  "record_form": "consolidated version as in force on 2013-03-01; future article versions excluded; article text as the API gives it"
 }
