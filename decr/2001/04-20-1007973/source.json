@@ -2,16 +2,16 @@
   "codex_id": 1007973,
   "title": "Decreet van 2001-04-20 betreffende de mobiliteitsconvenants",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007973/VolledigDocument?datum=2009-04-30",
-  "source_sha256": "ccecaf7397f3942fe4024a886296df4735686d4dff3a67b595a183d9e38a3cd5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007973/VolledigDocument?datum=2013-03-01",
+  "source_sha256": "01f7239254b6d35269a03b3b8e3a021b2f4b99d18eeec4f217b3032631728c61",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007973&param=informatie",
-  "as_of": "2009-04-30",
+  "as_of": "2013-03-01",
   "made": "2001-04-20",
   "gazette": "2001-05-24",
   "numac": 2001035554,
   "document_start": null,
   "document_end": "2999-12-31",
-  "in_force": "2009-04-30",
+  "in_force": "2013-03-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2009-04-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-03-01; future article versions excluded; article text as the API gives it"
 }
