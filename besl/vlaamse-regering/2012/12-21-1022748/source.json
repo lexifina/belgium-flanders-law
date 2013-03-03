@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022748,
+  "title": "Besluit van de Vlaamse Regering van 2012-12-21 houdende de herverdeling van begrotingsartikelen van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het jaar 2012",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022748/VolledigDocument?datum=2013-03-03",
+  "source_sha256": "446b4f28fff45d4e55f76cdc27d0916b4d5352682ce55ddcf775b16bcb2cbc77",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022748&param=informatie",
+  "as_of": "2013-03-03",
+  "made": "2012-12-21",
+  "gazette": "2013-02-21",
+  "numac": 2013035176,
+  "document_start": "2013-03-03",
+  "document_end": null,
+  "in_force": "2013-03-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-03-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
