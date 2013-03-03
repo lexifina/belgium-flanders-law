@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022749,
+  "title": "Besluit van de Vlaamse Regering van 2013-02-01 houdende indeling bij de gemeentewegen van de verlaten wegvakken N470a tussen kmp 0,000 en 0,806 (Loystraat) en tussen kmp 0,970 en 1,585 (Drapstraat) op het grondgebied van de gemeente Hamme",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022749/VolledigDocument?datum=2013-03-03",
+  "source_sha256": "5e639b3099239cf9c9f929699b7b19578c6dc09866c2d0f3c26509157829200d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022749&param=informatie",
+  "as_of": "2013-03-03",
+  "made": "2013-02-01",
+  "gazette": "2013-02-21",
+  "numac": 2013035177,
+  "document_start": "2013-03-03",
+  "document_end": null,
+  "in_force": "2013-03-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-03-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
