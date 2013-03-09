@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022761,
+  "title": "Besluit van de Vlaamse Regering van 2013-02-01 tot erkenning van de masteropleiding « Master of Comparative Vertebrate Morphology » als nieuwe opleiding van de Universiteit Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022761/VolledigDocument?datum=2013-03-09",
+  "source_sha256": "41faf752397206334ee2f38708590f96af2dd007e1ebd7b456d175755ec277d4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022761&param=informatie",
+  "as_of": "2013-03-09",
+  "made": "2013-02-01",
+  "gazette": "2013-02-27",
+  "numac": 2013035196,
+  "document_start": "2013-03-09",
+  "document_end": null,
+  "in_force": "2013-03-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-03-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
