@@ -24,6 +24,10 @@ De financiële nota van de budgetwijzigingen van de besturen van de eredienst wo
 
 De financiële nota van het meerjarenplan van de besturen van de eredienst wordt opgesteld volgens het model, opgenomen als bijlage IV, die bij dit besluit is gevoegd.<br /><br />
 
+### ART. 5/1.
+
+In het financiële gedeelte van de jaarrekening en in de financiële nota   van het budget, de budgetwijzigingen en het meerjarenplan van de besturen van de   eredienst mogen die lijnen die niet nuttig zijn voor het bestuur worden   weggelaten, behalve in het onderdeel 'overschot/tekort' en het onderdeel   'overzicht, evenwicht en exploitatietoelage'.
+
 ### ART. 6.
 
 De staat van het vermogen van de besturen van de eredienst wordt opgesteld volgens het model, opgenomen als bijlage V, die bij dit besluit is gevoegd.<br /><br />
