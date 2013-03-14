@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023908,
+  "title": "Decreet van 2014-02-07 tot instemming met het zetelakkoord tussen het Koninkrijk België en de Wereldorganisatie voor Diergezondheid, ondertekend te Brussel op 14 maart 2013",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023908/VolledigDocument?datum=2013-03-14",
+  "source_sha256": "8829d2cc93a45eb3e8fd46d66b1989cd8b6d68bb545c69a5a3d72cd6a82a3218",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023908&param=informatie",
+  "as_of": "2013-03-14",
+  "made": "2014-02-07",
+  "gazette": "2014-03-14",
+  "numac": 2014035217,
+  "document_start": "2013-03-14",
+  "document_end": null,
+  "in_force": "2013-03-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-03-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
