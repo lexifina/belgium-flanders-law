@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022794,
+  "title": "Ministerieel besluit van 2013-03-11 tot verlenging van de periode waarin gedurende de winter 2012-2013 de toevoer van elektriciteit en aardgas niet mag worden afgesloten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022794/VolledigDocument?datum=2013-03-14",
+  "source_sha256": "f99d8e50389572a604f67e53e8f0f71e6b141a35fa15a7c75ac2ac38aea733fd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022794&param=informatie",
+  "as_of": "2013-03-14",
+  "made": "2013-03-11",
+  "gazette": "2013-03-14",
+  "numac": 2013035264,
+  "document_start": "2013-03-14",
+  "document_end": null,
+  "in_force": "2013-03-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-03-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
