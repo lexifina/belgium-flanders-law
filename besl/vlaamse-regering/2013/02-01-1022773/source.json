@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022773,
+  "title": "Besluit van de Vlaamse Regering van 2013-02-01 tot uitvoering van de wet van 1 juli 1954 op de riviervisserij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022773/VolledigDocument?datum=2013-03-15",
+  "source_sha256": "3de11edc35bef230f8d4c348730594e13d4e2e22f189941abb49d1aec1cee8d2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022773&param=informatie",
+  "as_of": "2013-03-15",
+  "made": "2013-02-01",
+  "gazette": "2013-03-05",
+  "numac": 2013035218,
+  "document_start": "2013-03-15",
+  "document_end": null,
+  "in_force": "2013-03-15",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2013-03-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
