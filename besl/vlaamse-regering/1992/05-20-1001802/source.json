@@ -2,16 +2,16 @@
   "codex_id": 1001802,
   "title": "Besluit van de Vlaamse Regering van 1992-05-20 tot uitvoering van de wet van 1 juli 1954 op de riviervisserij",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001802/VolledigDocument?datum=2010-04-08",
-  "source_sha256": "2b7856475068a05af65be161a841fb64ad1320b7184965eecc0e2ae49fdc24b2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001802/VolledigDocument?datum=2013-03-15",
+  "source_sha256": "1ed7414b34988a1e139460a04804d93c727d423e703f5674529e31568e489a4c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001802&param=informatie",
-  "as_of": "2010-04-08",
+  "as_of": "2013-03-15",
   "made": "1992-05-20",
   "gazette": "1992-09-04",
   "numac": 1992035938,
   "document_start": null,
   "document_end": "2013-03-14",
-  "in_force": "2010-04-08",
+  "in_force": "2013-03-15",
   "article_versions": 47,
-  "record_form": "consolidated version as in force on 2010-04-08; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-03-15; future article versions excluded; article text as the API gives it"
 }
