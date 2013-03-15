@@ -80,6 +80,10 @@ Aan artikel 8, § 4, van hetzelfde decreet wordt de volgende zin toegevoegd   : 
 
 ## HOOFDSTUK 20 Zorgvernieuwingsprojecten
 
+### ART. 77.
+
+De Vlaamse Regering kan onder de voorwaarden die ze bepaalt, en binnen de   beschikbare begrotingskredieten subsidies verlenen voor   zorgvernieuwingsprojecten.<BR>
+
 ## HOOFDSTUK 21 Kinderopvang van baby's en peuters
 
 ## HOOFDSTUK 22 Kind en Gezin
