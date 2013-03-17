@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022777,
+  "title": "Ministerieel besluit van 2013-02-18 houdende de oprichting en de samenstelling van de beoordelingscommissie bedoeld in artikel 17 van het besluit van de Vlaamse Regering van 3 februari 2012 houdende de uitvoering van het decreet van 17 juni 2011 betreffende het beheer van de verkeersveiligheid van weginfrastructuur",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022777/VolledigDocument?datum=2013-03-17",
+  "source_sha256": "62e3a6b7c53ec39d466849f922156faf3e935c0adb9d97b09db8b4721c868145",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022777&param=informatie",
+  "as_of": "2013-03-17",
+  "made": "2013-02-18",
+  "gazette": "2013-03-07",
+  "numac": 2013035226,
+  "document_start": "2013-03-17",
+  "document_end": null,
+  "in_force": "2013-03-17",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-03-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
