@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022780,
+  "title": "Ministerieel besluit van 2013-02-18 houdende de uitvoering van artikel 11 en 13 van het besluit van de Vlaamse Regering van 3 februari 2012 houdende de uitvoering van het decreet van 17 juni 2011 betreffende het beheer van de verkeersveiligheid van weginfrastructuur",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022780/VolledigDocument?datum=2013-03-21",
+  "source_sha256": "8c24993d0ae90ce9921de3567fd95832564ed503cdeee5deb7138429241a2ea9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022780&param=informatie",
+  "as_of": "2013-03-21",
+  "made": "2013-02-18",
+  "gazette": "2013-03-11",
+  "numac": 2013201316,
+  "document_start": "2013-03-21",
+  "document_end": null,
+  "in_force": "2013-03-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-03-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
