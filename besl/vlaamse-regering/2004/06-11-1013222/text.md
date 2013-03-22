@@ -20,6 +20,10 @@ Het agentschap heeft als missie het verstrekken van facilitaire dienstverlening 
 
 Het agentschap heeft tot taak de operationele ondersteuning en uitvoering van facilitaire diensten in de diverse beleidsdomeinen. Dit omvat de volgende activiteiten:<br /><br />1° het uitvoeren van het portefeuille-, ruimte- en projectbeheer, alsook het optreden als technische studiecel, voor het vastgoed van de Vlaamse administratie;<br /><br />2° het leveren van ondersteunende gebouwgebonden diensten op het vlak van technisch onderhoud, verhuizingen, bekabeling, energiebeheer, beheer van meubilair, beveiliging, catering, schoonmaak, beheer van vergaderzalen, reprografie, postbedeling, afvalverwerking binnen de gebouwen van de Vlaamse administratie;<br /><br />3° het leveren van niet-gebouwgebonden facilitaire diensten op het vlak van aankoop en beheer van roerende goederen.
 
+### ART. 4/1.
+
+Het agentschap kan als opdrachtencentrale raamovereenkomsten met   betrekking tot werken, leveringen of diensten sluiten waarvan ook de overheden,   vermeld in artikel 4 van het decreet van 26 maart 2004 betreffende de   openbaarheid van bestuur, en de Vlaamse Gemeenschapscommissie op eigen   verantwoordelijkheid kunnen afnemen.
+
 ### ART. 5.
 
 Overeenkomstig artikel 9, § 1, 1°, van het kaderdecreet bestuurlijk beleid van 18 juli 2003, regelt de beheersovereenkomst de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.
