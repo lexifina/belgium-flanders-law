@@ -14,7 +14,7 @@ Aan de leden van de raad van bestuur kan, per effectief bijgewoonde zitting, een
 
 ### ART. 4.
 
-Aan de leden van het statutair bepaalde directiecomité kan, per effectief bijgewoonde zitting, eenzelfde presentiegeld worden toegekend als aan de leden van de raad van bestuur.
+Aan de leden van het statutair bepaalde directiecomité of de statutair   bepaalde regionale bestuurscomités kan, per effectief bijgewoonde zitting,   hetzelfde presentiegeld worden toegekend als aan de leden van de raad van   bestuur.
 
 ### ART. 5.
 
@@ -22,11 +22,11 @@ Aan de leden van de overige statutair bepaalde organen en aan de leden die de ve
 
 ### ART. 6.
 
-Aan de voorzitter en ondervoorzitters van de raad van bestuur kan, onverminderd de toepassing van artikel 11, een dubbel presentiegeld worden toegekend voor zover zij verkozen zijn uit de vertegenwoordigers van de aangesloten gemeenten en deel uitmaken van de gemeenteraad of districtsraad.<br /><br />Onder dezelfde voorwaarden kan aan de voorzitter en ondervoorzitter van het directiecomité een dubbel presentiegeld worden toegekend, indien zij niet reeds een dubbel presentiegeld krijgen op grond van hun functie in de raad van bestuur.<br /><br />Aan de voorzitters en ondervoorzitters die een uitvoerend mandaat bekleden bij de deelnemer op wiens voordracht zij zijn benoemd, kan uitsluitend een enkelvoudig presentiegeld worden toegekend.
+<P>Aan de voorzitter van de raad van bestuur kan, met behoud van de toepassing   van artikel 11 een dubbel presentiegeld worden toegekend. Aan de overige leden   van de raad van bestuur kan een dubbel presentiegeld worden toegekend voor de   vergaderingen waarvan zij het voorzitterschap effectief uitoefenen als de   titulaire voorzitter niet beschikbaar is.<BR><BR>Aan de voorzitter van het   directiecomité of de regionale bestuurscomités kan een dubbel presentiegeld   worden toegekend als dat niet al toegekend wordt op grond van het   voorzitterschap in de raad van bestuur. Aan de overige leden van het   directiecomité of de regionale bestuurscomités kan een dubbel presentiegeld   worden toegekend onder dezelfde voorwaarden als vermeld in het eerste   lid.<BR><BR>Aan de voorzitters en aan de eventuele vervangende leden die een   uitvoerend mandaat bekleden bij de deelnemer op voordracht van wie zij zijn   benoemd, kan uitsluitend een enkelvoudig presentiegeld worden   toegekend.</P>
 
 ### ART. 7.
 
-Aan de voorzitter, de ondervoorzitter(s) en vereffenaar(s) kunnen ten hoogste dezelfde presentiegelden worden toegekend als aan de voorzitter, de ondervoorzitter(s) en leden van de raad van bestuur van dezelfde vereniging voordat die vereniging in vereffening werd gesteld.
+Aan de voorzitter, zijn vervanger en de vereffenaars kunnen ten hoogste   dezelfde presentiegelden worden toegekend als de presentiegelden die toegekend   zijn aan de voorzitter en de leden van de raad van bestuur van dezelfde   vereniging voor die vereniging in vereffening werd gesteld.
 
 ### ART. 8.
 
@@ -46,7 +46,7 @@ De cumulatie in verschillende dienstverlenende of opdrachthoudende verenigingen 
 
 ### ART. 12.
 
-Het aantal bezoldigbare vergaderingen van de verschillende organen is   bepalend voor de presentiegel-den waarop de leden overeenkomstig de criteria,   vastgesteld in dit besluit, aanspraak kunnen maken, met dien verstande dat het   aantal bezoldigbare vergaderingen per boekjaar en per lid begrensd is op:<BR>1°   12 voor de organen, bedoeld in artikel 3;<BR>2° 24 voor de organen, bedoeld in   artikel 4;<BR>3° 18 voor de organen, bedoeld in artikel 5.<BR><BR>In   verenigingen die niet overgaan tot de oprichting van een directiecomité, wordt   het aantal bezoldigbare vergaderingen van de raad van bestuur verhoogd tot 24   per boekjaar.
+Het aantal bezoldigbare vergaderingen van de verschillende organen is   bepalend voor de presentiegel-den waarop de leden overeenkomstig de criteria,   vastgesteld in dit besluit, aanspraak kunnen maken, met dien verstande dat het   aantal bezoldigbare vergaderingen per boekjaar en per lid begrensd is op:<BR>1°   12 voor de organen, bedoeld in artikel 3;<BR>2° 24 voor de organen, bedoeld in   artikel 4;<BR>3° 18 voor de organen, bedoeld in artikel 5.<BR><BR>In   verenigingen die noch een directiecomité noch regionale bestuurscomités   oprichten, kan het aantal bezoldigbare vergaderingen van de raad van bestuur   verhoogd worden tot 24 per boekjaar.
 
 ### ART. 13.
 
