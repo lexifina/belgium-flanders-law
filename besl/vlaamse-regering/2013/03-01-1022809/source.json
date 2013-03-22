@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022809,
+  "title": "Besluit van de Vlaamse Regering van 2013-03-01 tot wijziging van het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het intern verzelfstandigd agentschap \"Agentschap voor Facilitair Management\", wat betreft de mogelijkheid voor de overheden, vermeld in artikel 4 van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, en de Vlaamse Gemeenschapscommissie om toe te treden tot raamovereenkomsten die gesloten zijn door het agentschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022809/VolledigDocument?datum=2013-03-22",
+  "source_sha256": "26efb8ace2153163acfe5beec63b5f211a8a2831758c5048a4cec0dc3822bedd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022809&param=informatie",
+  "as_of": "2013-03-22",
+  "made": "2013-03-01",
+  "gazette": "2013-03-22",
+  "numac": 2013201562,
+  "document_start": "2013-03-22",
+  "document_end": null,
+  "in_force": "2013-03-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-03-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
