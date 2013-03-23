@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022790,
+  "title": "Ministerieel besluit van 2013-02-19 houdende de vaststelling van het Compendium voor Monsterneming en Analyse",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022790/VolledigDocument?datum=2013-03-23",
+  "source_sha256": "7a199f4d78048ea253ec6788fcb67f49eb3966e87f8d0caf72fbf84ae67ccfe2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022790&param=informatie",
+  "as_of": "2013-03-23",
+  "made": "2013-02-19",
+  "gazette": "2013-03-13",
+  "numac": 2013035225,
+  "document_start": "2013-03-23",
+  "document_end": "2014-04-12",
+  "in_force": "2013-03-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-03-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
