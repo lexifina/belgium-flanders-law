@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022791,
+  "title": "Besluit van de Vlaamse Regering van 2013-02-22 tot wijziging van artikel 1, 3 en 8 van het besluit van de Vlaamse Regering van 9 september 2011 tot het verlenen van steun met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor deelname aan Europees erkende voedselkwaliteitsregelingen en voor bijhorende afzetbevorderingsacties",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022791/VolledigDocument?datum=2013-03-24",
+  "source_sha256": "a8e77c991e8e797adf05304b24bdfbef6cf7d3339d54849f96809d8f18d3c7ef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022791&param=informatie",
+  "as_of": "2013-03-24",
+  "made": "2013-02-22",
+  "gazette": "2013-03-14",
+  "numac": 2013201381,
+  "document_start": "2013-03-24",
+  "document_end": null,
+  "in_force": "2013-03-24",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-03-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
