@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022795,
+  "title": "Decreet van 2013-02-22 houdende wijziging van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging, wat de vermelding van het bestaan van een uitvaartcontract in de wilsbeschikking betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022795/VolledigDocument?datum=2013-03-25",
+  "source_sha256": "c0a80eae524a6b11c25cbfe8d96ec6cff264de1dd4b849a22b52854afd4cc1a3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022795&param=informatie",
+  "as_of": "2013-03-25",
+  "made": "2013-02-22",
+  "gazette": "2013-03-15",
+  "numac": 2013035246,
+  "document_start": "2013-03-25",
+  "document_end": null,
+  "in_force": "2013-03-25",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-03-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
