@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022800,
+  "title": "Besluit van de Vlaamse Regering van 2013-03-01 tot wijziging van het besluit van de Vlaamse Regering van 24 juli 2009 tot aanwijzing van de leden, plaatsvervangende leden en onafhankelijke deskundigen van de strategische adviesraad \"Milieu- en Natuurraad van Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022800/VolledigDocument?datum=2013-03-28",
+  "source_sha256": "6c4d5fc22b0ad97750a27e6b04cf4425b52cd088aa735776a3ac696f910da4fd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022800&param=informatie",
+  "as_of": "2013-03-28",
+  "made": "2013-03-01",
+  "gazette": "2013-03-18",
+  "numac": 2013201511,
+  "document_start": "2013-03-28",
+  "document_end": null,
+  "in_force": "2013-03-28",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-03-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
