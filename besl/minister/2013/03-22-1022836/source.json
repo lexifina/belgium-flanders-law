@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022836,
+  "title": "Ministerieel besluit van 2013-03-22 houdende vastlegging van de bandingfactoren van groenestroomcertificaten en warmte-krachtcertificaten voor 2013 II",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022836/VolledigDocument?datum=2013-03-29",
+  "source_sha256": "0f0b6b8bc3409877818b1753e4ec831d93fbef961a82a11e55bdbcce23a636bf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022836&param=informatie",
+  "as_of": "2013-03-29",
+  "made": "2013-03-22",
+  "gazette": "2013-03-29",
+  "numac": 2013035303,
+  "document_start": "2013-03-29",
+  "document_end": null,
+  "in_force": "2013-03-29",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-03-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
