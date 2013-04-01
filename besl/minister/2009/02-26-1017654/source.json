@@ -2,16 +2,16 @@
   "codex_id": 1017654,
   "title": "Ministerieel besluit van 2009-02-26 houdende aanwijzing van de persoon die zal instaan voor de bij de administratie aangevraagde administratieve herziening of voorlopige hoorzitting",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017654/VolledigDocument?datum=2011-10-01",
-  "source_sha256": "39051478b94f2fe8e1b437bf5d869cc7824897e2b61e942a25f01691d40c7b87",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017654/VolledigDocument?datum=2013-04-01",
+  "source_sha256": "e6a0fbc00123e03f0ac3eb7a15561ae0310fe337998c49909e8039b840eea07e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017654&param=informatie",
-  "as_of": "2011-10-01",
+  "as_of": "2013-04-01",
   "made": "2009-02-26",
   "gazette": "2009-03-06",
   "numac": 2009035221,
   "document_start": "2009-02-26",
   "document_end": "2013-03-31",
-  "in_force": "2011-10-01",
+  "in_force": "2013-04-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2011-10-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-04-01; future article versions excluded; article text as the API gives it"
 }

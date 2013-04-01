@@ -6,16 +6,16 @@ De Vlaamse Minister van Cultuur, Jeugd, Sport en Brussel,<br /><br />Gelet op he
 
 ### ART. 1.
 
-Ter uitvoering van artikel 57, § 3, van het besluit van de Vlaamse Regering van 20 juni 2008 houdende uitvoering van het decreet van 13 juli 2007 inzake medisch en ethisch verantwoorde sportbeoefening, wordt de heer Herman Huygens, wonende te 9100 Sint-Niklaas, Regentieplein 5, aangewezen om de in dat artikel vermelde voorlopige hoorzitting uit te voeren die werd aangevraagd door de sporter aan wie door de administratie de in dat artikel vermelde voorlopige schorsing is opgelegd.<br /><br />Bij verhindering van de persoon, vermeld in het eerste lid, wordt die taak uitgevoerd door de heer Erik Van de Sijpe, wonende koophandelsplein 23, in 9000 Gent.
+...
 
 ### ART. 2.
 
-Ter uitvoering van artikel 11.6.2.d van de Internationale Standaard voor Dopingtests, wordt de heer Herman Huygens, wonende te 9100 Sint-Niklaas, Regentieplein 5, aangesteld om de in dat artikel vermelde administratieve herziening uit te voeren die werd aangevraagd door de sporter die door de administratie werd meegedeeld dat er een vermeend aangifteverzuim tegen hem of haar zal worden geregistr eerd.<br /><br />Ter uitvoering van artikel 11.6.3.e van de Internationale Standaard voor Dopingtests, wordt de heer Herman Huygens, wonende te 9100 Sint-Niklaas, Regentieplein 5, aangesteld om de in dat artikel vermelde administratieve herziening uit te voeren die werd aangevraagd door de sporter die door de administratie werd meegedeeld dat er een vermeende gemiste dopingtest tegen hem of haar zal worden geregistreerd.<br /><br />Bij verhindering van de persoon, vermeld in het eerste en tweede lid, wordt die taak uitgevoerd door de heer Erik Van de Sijpe, wonende koophandelsplein 23, in 9000 Gent.
+...
 
 ### ART. 3.
 
-De personen, vermeld in dit besluit, maken per zitting aanspraak op :<br />1° een presentiegeld van 100 euro;<br />2° de terugbetaling van hun reis- en verblijfkosten volgens dezelfde voorwaarden als die voor de ambtenaren van de administratie.<br /><br />De bedragen, vermeld in het eerste lid, volgen de ontwikkeling van het gezondheidsindexcijfer overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld. De bedragen worden jaarlijks aangepast volgens de onderstaande formule :<br />gezondheidsindex x (op 1 januari) / gezondheidsindex x-1 (op 1 januari)<br /><br />
+...
 
 ### ART. 4.
 
-Dit besluit wordt bekendgemaakt in het Belgisch Staatsblad en heeft uitwerking op datum van ondertekening ervan.<br /><br />
+...
