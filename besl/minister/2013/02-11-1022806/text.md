@@ -1,0 +1,21 @@
+# Ministerieel besluit van 2013-02-11 tot wijziging van artikel 8 en 18 van het ministerieel besluit van 27 mei 2011 tot vaststelling van productievoorschriften betreffende de biologische productie
+
+### Aanhef
+
+<P>De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en   Plattelandsbeleid,<BR></P>  <P>Gelet op Verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de   biologische productie en de etikettering van biologische producten en tot   intrekking van Verordening (EEG) nr. 2092/91, het laatst gewijzigd bij de   Verordening (EG) nr. 967/2008 van de Raad van 29 september 2008;<BR></P>  <P>Gelet op Verordening (EG) nr. 889/2008 van de Commissie van 5 september 2008   tot vaststelling van bepalingen ter uitvoering van Verordening(EG) nr. 834/2007   van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering   van biologische producten, wat de biologische productie, de etikettering en de   controle betreft, het laatst gewijzigd bij de Uitvoeringsverordening (EU) nr.   505/2012 van de Commissie van 14 juni 2012;<BR></P>  <P>Gelet op Verordening (EG) nr. 1235/2008 van de Commissie van 8 december 2008   houdende bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad   wat de regeling voor de invoer van biologische producten uit derde landen   betreft, het laatst gewijzigd bij de Uitvoeringsverordening (EU) nr. 508/2012   van de Commissie van 20 juni 2012;<BR></P>  <P>Gelet op de wet van 28 maart 1975 betreffende de handel in landbouw-,   tuinbouw- en zeevisserijproducten, artikel 3, § 1, 1°, vervangen bij de wet van   29 december 1990, en 2°, ingevoegd bij de wet van 29 december 1990;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 12 december 2008 betreffende   de biologische productie en de etikettering van biologische producten, artikel   10, § 6;<BR></P>  <P>Gelet op het ministerieel besluit van 27 mei 2011 tot vaststelling van   productievoorschriften betreffende de biologische productie;<BR></P>  <P>Gelet op het overleg tussen de gewestregeringen in de permanente werkgroep   van het Intergewestelijk Ministerieel Overleg (PW-IMO) op 12 juli 2012;<BR></P>  <P>Gelet op het advies van de Inspectie van Financiën, gegeven op 22 november   2012;<BR></P>  <P>Gelet op advies 52.669/3 van de Raad van State, gegeven op 28 januari 2013,   met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de Raad van   State, gecoördineerd op 12 januari 1973,<BR></P>  <P>Besluit : <BR></P>
+
+### ART. 1.
+
+<P>Artikel 8 van het ministerieel besluit van 27 mei 2011 tot vaststelling van   productievoorschriften betreffende de biologische productie wordt vervangen door   wat volgt :<BR>« Art. 8. Met toepassing van artikel 15 van verordening 889/2008   wordt de veebezetting in functie van de maximale stikstofuitscheiding afgeleid   uit de cijfers, inbegrepen de N-emissieverliezen, vermeld in hoofdstuk IV van   het Mestdecreet van 22 december 2006.<BR></P>  <P>In afwijking van het eerste lid geldt voor de categorieën dieren, vermeld in   bijlage 2, die bij dit besluit is gevoegd, het aantal vee-eenheden, vermeld in   bijlage 2.<BR></P>  <P>De afdeling DLO maakt het toegelaten aantal vee-eenheden bekend op de website   van het beleidsdomein Landbouw en Visserij. ».<BR></P>
+
+### ART. 2.
+
+Artikel 18 van hetzelfde besluit wordt vervangen door wat volgt :<BR>«   Art. 18. Met toepassing van artikel 39 van verordening 889/2008 wordt onder   klein bedrijf verstaan : een bedrijf dat minder dan vijftig aanbindplaatsen   bezit. ».<BR>
+
+### ART. 3.
+
+Aan hetzelfde besluit wordt een bijlage 2 toegevoegd, die bij dit besluit   is gevoegd.<BR>
+
+### BIJLAGE
+
+<P>Bijlage 2 bij het ministerieel besluit van 27 mei 2011 tot vaststelling van   productievoorschriften betreffende de biologische productie</P>  <P><BR>Bijlage 2. - Maximaal aantal dieren per hectare als vermeld in artikel   8<BR></P>  <TABLE border=1>    <TBODY>    <TR>      <TD>categorie of soort       <TD>maximumaantal dieren per ha<BR>dat overeenkomt met 170 kgN/ha/jaar<BR>    <TR>      <TD>1° melkkoeien       <TD>2;<BR>    <TR>      <TD>3° slachtkippen       <TD>580;<BR>    <TR>      <TD>4° vrouwelijke fokkonijnen       <TD>100.<BR></TD></TR></TBODY></TABLE><BR>
