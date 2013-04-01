@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022811,
+  "title": "Ministerieel besluit van 2013-02-28 houdende aanwijzing van de persoon die belast zal worden met de voor de bij de NADO aangevraagde administratieve herziening of voorlopige hoorzitting",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022811/VolledigDocument?datum=2013-04-01",
+  "source_sha256": "b3f13c44cc29ac4b88608666ead7a9df72a1ff4025468a48ad429289afc9b8b1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022811&param=informatie",
+  "as_of": "2013-04-01",
+  "made": "2013-02-28",
+  "gazette": "2013-03-22",
+  "numac": 2013201559,
+  "document_start": "2013-04-01",
+  "document_end": null,
+  "in_force": "2013-04-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
