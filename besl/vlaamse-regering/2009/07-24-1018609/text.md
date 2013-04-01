@@ -1649,7 +1649,7 @@ De minister legt de nadere subsidievoorwaarden en de overgangsbepalingen vast.
 
 ### ART. 19.
 
-De stijging van de programmacijfers van de centra voor kortverblijf, die   voor het jaar 2013 voortvloeit uit de toepassing van artikel 2, gaat pas in op 1   april 2013.
+De stijging van de programmacijfers van de centra voor kortverblijf, die   voor het jaar 2013 voortvloeit uit de toepassing van artikel 2, gaat pas in op 1   juni 2013.
 
 ## BIJLAGE XII Woonzorgcentra
 
@@ -1932,7 +1932,7 @@ De aanvragen tot voorafgaande vergunning voor een rusthuis waarover op de datum 
 
 ### ART. 51.
 
-De stijging van de programmacijfers van de woonzorgcentra, die voor het   jaar 2013 voortvloeit uit de toepassing van artikel 3, gaat pas in op 1 april   2013.
+De stijging van de programmacijfers van de woonzorgcentra, die voor het   jaar 2013 voortvloeit uit de toepassing van artikel 3, gaat pas in op 1 juni   2013.
 
 ## BIJLAGE XIII Verenigingen van gebruikers en mantelzorgers
 
