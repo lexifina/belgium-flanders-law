@@ -2,16 +2,16 @@
   "codex_id": 1012957,
   "title": "Besluit van de Vlaamse Regering van 2004-04-23 houdende vaststelling van het aantal te verkiezen Vlaamse Volksvertegenwoordigers per kieskring",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012957/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "5b2fafdb8ac81f6a60ebec8d5882490079815ff071e7a450600515401e5139c0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012957/VolledigDocument?datum=2013-04-01",
+  "source_sha256": "8e342f64d8dd57c74a7ff34372402204d7a7086e436bae9ffc6fc0f77d8ad1db",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012957&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2013-04-01",
   "made": "2004-04-23",
   "gazette": "2004-05-12",
   "numac": 2004035707,
   "document_start": null,
   "document_end": "2013-03-31",
-  "in_force": "2006-06-01",
+  "in_force": "2013-04-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-04-01; future article versions excluded; article text as the API gives it"
 }
