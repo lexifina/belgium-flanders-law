@@ -70,7 +70,7 @@ Met toepassing van artikel 14, 1, van verordening 889/2008 mag maximaal 50 % van
 
 ### ART. 8.
 
-Met toepassing van artikel 15,van verordening 889/2008 wordt de veebezetting in functie van de maximale stikstofuitscheiding afgeleid uit de cijfers, vermeld in hoofdstuk IV van het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen.<br /><br />De afdeling DLO maakt het toegelaten aantal vee-eenheden bekend op de website van het beleidsdomein Landbouw en Visserij.
+Met toepassing van artikel 15 van verordening 889/2008 wordt de   veebezetting in functie van de maximale stikstofuitscheiding afgeleid uit de   cijfers, inbegrepen de N-emissieverliezen, vermeld in hoofdstuk IV van het   Mestdecreet van 22 december 2006.<BR><BR>In afwijking van het eerste lid geldt   voor de categorieën dieren, vermeld in bijlage 2, die bij dit besluit is   gevoegd, het aantal vee-eenheden, vermeld in bijlage 2.<BR><BR>De afdeling DLO   maakt het toegelaten aantal vee-eenheden bekend op de website van het   beleidsdomein Landbouw en Visserij.
 
 ## HOOFDSTUK 7. Ingrepen bij dieren
 
@@ -124,7 +124,7 @@ Met toepassing van en in de gevallen, vermeld in artikel 39 van Verordening 889/
 
 ### ART. 18.
 
-Met toepassing van artikel 39 van Verordening 889/2008 wordt onder klein bedrijf verstaan : een bedrijf dat gemiddeld minder dan vijftig runderen ouder dan twee jaar bezit.
+&nbsp;Met toepassing van artikel 39 van verordening 889/2008 wordt onder   klein bedrijf verstaan : een bedrijf dat minder dan vijftig aanbindplaatsen   bezit.
 
 ## HOOFDSTUK 14. Gelijktijdige productie
 
@@ -363,3 +363,7 @@ Huisvestingsvoorschriften, vermeld in artikel 31<br>
 </table>
 
 <p>&nbsp;</p>
+
+### BIJLAGE 2.
+
+<P>Bijlage 2. - Maximaal aantal dieren per hectare als vermeld in artikel   8<BR></P>  <TABLE border=1>    <TBODY>    <TR>      <TD>categorie of soort       <TD>maximumaantal dieren per ha<BR>dat overeenkomt met 170 kgN/ha/jaar<BR>    <TR>      <TD>1° melkkoeien       <TD>2;<BR>    <TR>      <TD>3° slachtkippen       <TD>580;<BR>    <TR>      <TD>4° vrouwelijke fokkonijnen       <TD>100.<BR></TD></TR></TBODY></TABLE>
