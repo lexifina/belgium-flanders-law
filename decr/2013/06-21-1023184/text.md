@@ -62,6 +62,10 @@ Aan artikel 25 van hetzelfde decreet wordt een paragraaf 8 toegevoegd, die   lui
 
 ## HOOFDSTUK 13 Woonzorg
 
+### ART. 50.
+
+In artikel 59 van hetzelfde decreet worden de volgende wijzigingen   aangebracht : <BR>1° aan het eerste lid wordt de volgende zin toegevoegd :   <BR>"De Vlaamse Regering kan bepalen dat voor de types van ouderenvoorzieningen   die ze aanwijst, de voorafgaande vergunning wordt verleend op basis van een   oproep met het oog op de realisatie van die voorzieningen in het geografische   gebied dat in de oproep wordt aangewezen.";<BR>2° aan het tweede lid wordt de   volgende zin toegevoegd : <BR>"De Vlaamse Regering kan aanvullende voorwaarden   bepalen voor het verlenen van de voorafgaande vergunning.";<BR>3° tussen het   tweede en het derde lid wordt een lid ingevoegd, dat luidt als volgt : <BR>"Het   eerste en tweede lid zijn niet van toepassing op de groepen van   assistentiewoningen zolang de Vlaamse Regering voor die voorzieningen geen   programmatie heeft bepaald ter uitvoering van artikel 58, § 1, derde   lid.".<BR>
+
 ## HOOFDSTUK 14 Pleegzorg
 
 ## HOOFDSTUK 15 Klachtrecht betreffende de openbare psychiatrische zorgcentra
