@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024700,
+  "title": "Ministerieel besluit van 2013-10-24 houdende afwijking van artikel 6, eerste lid, 2° van het besluit van de Vlaamse Regering van 8 november 2002 houdende de voorwaarden tot toekenning van subsidies afkomstig van de over de Vlaamse Gemeenschap verdeelde winst van de Nationale Loterij, wat betreft de project- of investeringssubsidies en de subsidies voor prijzen en beurzen in de sector cultuur",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024700/VolledigDocument?datum=2013-04-01",
+  "source_sha256": "b09cd1b1d6f3eea274fd6a1014b942978defc8f1963b8e376e89e41503ddd21f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024700&param=informatie",
+  "as_of": "2013-04-01",
+  "made": "2013-10-24",
+  "gazette": "2014-10-28",
+  "numac": 2014036640,
+  "document_start": "2013-04-01",
+  "document_end": "2024-08-03",
+  "in_force": "2013-04-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
