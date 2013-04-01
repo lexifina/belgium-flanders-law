@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022832,
+  "title": "Besluit van de Vlaamse Regering van 2013-03-22 tot wijziging van het besluit van de Vlaamse Regering van 5 juni 2009 tot vaststelling van de regels voor het verlenen van de voorafgaande vergunning voor sommige woonzorgvoorzieningen en van bijlagen XI en XII bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, wat de verlenging van de tijdelijke opschorting van het verlenen van voorafgaande vergunningen voor centra voor kortverblijf en woonzorgcentra betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022832/VolledigDocument?datum=2013-04-01",
+  "source_sha256": "f482c252274d91b2a3b2aa21cf687e4eac6d37fe538a7e418840de3fe7aa60ca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022832&param=informatie",
+  "as_of": "2013-04-01",
+  "made": "2013-03-22",
+  "gazette": "2013-03-29",
+  "numac": 2013035299,
+  "document_start": "2013-04-01",
+  "document_end": null,
+  "in_force": "2013-04-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2013-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
