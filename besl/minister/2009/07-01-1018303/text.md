@@ -6,12 +6,12 @@ De Vlaamse minister van Institutionele Hervormingen, Bestuurszaken, Buitenlands 
 
 ### ART. 1.
 
-Aan het hoofd van het Departement Internationaal Vlaanderen wordt delegatie verleend om de betrokkenen te horen : <br />1° bij een beroep bij de Vlaamse minister, bevoegd voor het toerisme, tegen de beslissing tot weigering, intrekking of schorsing van een erkenning als verblijf, vereniging of ondersteuningspunt in het kader van "Toerisme voor Allen" als vermeld in artikel 14 van het decreet van 18 juli 2003 betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van "Toerisme voor Allen";<br />2° bij een beroep bij de Vlaamse minister, bevoegd voor het toerisme, tegen de beslissing tot weigering van de goedkeuring van een toeristisch-recreatief project of bij ontstentenis van enig bericht over de goedkeuring binnen drie maanden na de aanvraag, vermeld in artikel 24 van het besluit van de Vlaamse Regering van 2 april 2004 betreffende de erkenning en financiële ondersteuning van toeristisch-recreatieve projecten en strategische plannen;<br />3° voorafgaand aan de eventuele bekrachtiging door de Vlaamse minister, bevoegd voor het toerisme, van het bevel tot onmiddellijke stopzetting van de exploitatie van een toeristisch logies als vermeld in artikel 21 van het decreet van 10 juli 2008 betreffende het toeristische logies;<br />4° ...<br />5° voorafgaand aan de eventuele de bekrachtiging door de Vlaamse minister, bevoegd voor het toerisme, van het bevel tot onmiddellijke stopzetting van de exploitatie van een reisbureau als vermeld in artikel 10 van het decreet van 2 maart 2007 houdende het statuut van de reisbureaus.
+...
 
 ### ART. 2.
 
-Het hoofd van het departement kan de aangelegenheid, vermeld in artikel 1, verder subdelegeren aan personeelsleden van het departement die onder zijn hiërarchisch gezag staan. Die subdelegatie wordt vastgelegd in een besluit van het hoofd van het departement waarvan een afschrift aan de minister, bevoegd voor het toerisme, wordt bezorgd.
+...
 
 ### ART. 3.
 
-Van de hoorzitting wordt een proces-verbaal opgemaakt, dat onverwijld aan de Vlaamse minister, bevoegd voor het toerisme, wordt bezorgd.
+...
