@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022818,
+  "title": "Ministerieel besluit van 2013-02-28 houdende de goedkeuring van de benoemingen van prominenten van het Belgische Rode Kruis",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022818/VolledigDocument?datum=2013-04-05",
+  "source_sha256": "714b8bfec52904bc39319945a9da3f7c33d19feab929e75ffa3c16ed36ef8c4e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022818&param=informatie",
+  "as_of": "2013-04-05",
+  "made": "2013-02-28",
+  "gazette": "2013-03-26",
+  "numac": 2013035298,
+  "document_start": "2013-04-05",
+  "document_end": null,
+  "in_force": "2013-04-05",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-04-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
