@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022825,
+  "title": "Ministerieel besluit van 2013-03-04 tot hoogdringende onteigening ten algemene nutte van onroerende goederen bestemd voor de heraanleg van de historische loop van de Demer te Diest door de Vlaamse Milieumaatschappij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022825/VolledigDocument?datum=2013-04-06",
+  "source_sha256": "38f57c11d8392a3422bf43cfb5510e56e0c107b781a748c85b962406bc29e4e0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022825&param=informatie",
+  "as_of": "2013-04-06",
+  "made": "2013-03-04",
+  "gazette": "2013-03-27",
+  "numac": 2013201646,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2013-04-06",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2013-04-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
