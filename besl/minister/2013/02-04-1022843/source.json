@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022843,
+  "title": "Ministerieel besluit van 2013-02-04 betreffende de aanwijzing van zwemwateren voor het badseizoen 2013",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022843/VolledigDocument?datum=2013-04-13",
+  "source_sha256": "2c3009b8829f5c3afba0f6b22dd13292dc53a4f6359b4ae4147c39b169181245",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022843&param=informatie",
+  "as_of": "2013-04-13",
+  "made": "2013-02-04",
+  "gazette": "2013-04-03",
+  "numac": 2013035294,
+  "document_start": "2013-04-13",
+  "document_end": null,
+  "in_force": "2013-04-13",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-04-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
