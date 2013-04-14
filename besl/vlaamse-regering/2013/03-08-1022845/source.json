@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022845,
+  "title": "Besluit van de Vlaamse Regering van 2013-03-08 houdende indeling bij de gemeentewegen van de gewestweg N75-0 Hasselt-Genk-Dilsen (Eerste Cyclistenlaan en Albert Remansstraat) tussen de kilometerpunten 10.969 en 11.922 op het grondgebied van de stad Genk",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022845/VolledigDocument?datum=2013-04-14",
+  "source_sha256": "67942cf53cf3ddcb9b7c0390a4d7c0f8e1d5ba7bc6e2defc8b71a529625279ce",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022845&param=informatie",
+  "as_of": "2013-04-14",
+  "made": "2013-03-08",
+  "gazette": "2013-04-04",
+  "numac": 2013201991,
+  "document_start": "2013-04-14",
+  "document_end": null,
+  "in_force": "2013-04-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-04-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
