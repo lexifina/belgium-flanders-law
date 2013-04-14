@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022844,
+  "title": "Decreet van 2013-03-08 houdende instemming met de overeenkomst inzake de Internationale Opsporingsdienst en met de partnerschapsovereenkomst inzake de relaties tussen de Federale Archieven van de Bondsrepubliek Duitsland en de Internationale Opsporingsdienst, ondertekend in Berlijn op 9 december 2011",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022844/VolledigDocument?datum=2013-04-14",
+  "source_sha256": "8d23219b6516d5489368825517860859b28d2569121acee264ef2c79463e0aa4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022844&param=informatie",
+  "as_of": "2013-04-14",
+  "made": "2013-03-08",
+  "gazette": "2013-04-04",
+  "numac": 2013201992,
+  "document_start": "2013-04-14",
+  "document_end": null,
+  "in_force": "2013-04-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-04-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
