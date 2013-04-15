@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022851,
+  "title": "Besluit van de Vlaamse Regering van 2013-03-08 tot erkenning van de bachelor-na-bacheloropleiding bachelor in de interdisciplinaire ouderenzorg als nieuwe opleiding van de Provinciale Hogeschool Limburg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022851/VolledigDocument?datum=2013-04-15",
+  "source_sha256": "9a4e3ffc834f29129313b934476bbfc4c98cc8db5ea66419dcd7f9658c3ffc32",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022851&param=informatie",
+  "as_of": "2013-04-15",
+  "made": "2013-03-08",
+  "gazette": "2013-04-05",
+  "numac": 2013035292,
+  "document_start": "2013-04-15",
+  "document_end": null,
+  "in_force": "2013-04-15",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-04-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
