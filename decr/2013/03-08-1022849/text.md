@@ -1,0 +1,9 @@
+# Decreet van 2013-03-08 tot instemming met het verdrag tussen het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (lidstaten van de Europese Unie) en de Republiek Kroatië betreffende de toetreding van de Republiek Kroatië tot de Europese Unie, en met de Slotakte, ondertekend in Brussel op 9 december 2011
+
+### ART. 1.
+
+Dit decreet regelt een gemeenschaps- en een   gewestaangelegenheid.<BR>
+
+### ART. 2.
+
+Het verdrag tussen het Koninkrijk België, de Republiek Bulgarije, de   Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland,   de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de   Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek   Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek   Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek   Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek   Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden en   het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (lidstaten van de   Europese Unie) en de Republiek Kroatië betreffende de toetreding van de   Republiek Kroatië tot de Europese Unie, en met de slotakte, ondertekend in   Brussel op 9 december 2011, zullen volkomen gevolg hebben.<BR>

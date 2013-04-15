@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022849,
+  "title": "Decreet van 2013-03-08 tot instemming met het verdrag tussen het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (lidstaten van de Europese Unie) en de Republiek Kroatië betreffende de toetreding van de Republiek Kroatië tot de Europese Unie, en met de Slotakte, ondertekend in Brussel op 9 december 2011",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022849/VolledigDocument?datum=2013-04-15",
+  "source_sha256": "fd347b080c46a42deb09fd537ac3e2a0b2439029006b3a00061666d1d835a4a9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022849&param=informatie",
+  "as_of": "2013-04-15",
+  "made": "2013-03-08",
+  "gazette": "2013-04-05",
+  "numac": 2013201993,
+  "document_start": "2013-04-15",
+  "document_end": null,
+  "in_force": "2013-04-15",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-04-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
