@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022881,
+  "title": "Ministerieel besluit van 2013-04-06 tot wijziging van het ministerieel besluit van 28 november 2008 tot aanwijzing van de leden van het Raadgevend Comité van het Instituut voor Landbouw- en Visserijonderzoek (ILVO)",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022881/VolledigDocument?datum=2013-04-18",
+  "source_sha256": "01f73c9a2af5e122720b5e94ebe28b4639af824222c1f5578d8197d44294be04",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022881&param=informatie",
+  "as_of": "2013-04-18",
+  "made": "2013-04-06",
+  "gazette": "2013-04-18",
+  "numac": 2013035350,
+  "document_start": "2013-04-18",
+  "document_end": null,
+  "in_force": "2013-04-18",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2013-04-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
