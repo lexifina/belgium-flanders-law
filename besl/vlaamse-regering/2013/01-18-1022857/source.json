@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022857,
+  "title": "Besluit van de Vlaamse Regering van 2013-01-18 tot wijziging van artikel 1 en bijlage 4 van het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning en diverse bepalingen van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022857/VolledigDocument?datum=2013-04-19",
+  "source_sha256": "4c45acb533e2d6d830b4876c73fe9febbfae4b0d501b4898ba284c19b5c89461",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022857&param=informatie",
+  "as_of": "2013-04-19",
+  "made": "2013-01-18",
+  "gazette": "2013-04-09",
+  "numac": 2013035274,
+  "document_start": "2013-04-19",
+  "document_end": null,
+  "in_force": "2013-04-19",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2013-04-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
