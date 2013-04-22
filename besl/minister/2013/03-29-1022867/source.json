@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022867,
+  "title": "Ministerieel besluit van 2013-03-29 houdende het verlenen van algemene afwijkingen en algemene vrijstellingen van bepaalde EPB-eisen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022867/VolledigDocument?datum=2013-04-22",
+  "source_sha256": "d050d12bc5d6eae1127d2a182b2109610ceb8a1d23913628f37ce3f919e6a8bd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022867&param=informatie",
+  "as_of": "2013-04-22",
+  "made": "2013-03-29",
+  "gazette": "2013-04-12",
+  "numac": 2013202175,
+  "document_start": "2013-04-22",
+  "document_end": "2018-12-31",
+  "in_force": "2013-04-22",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-04-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
