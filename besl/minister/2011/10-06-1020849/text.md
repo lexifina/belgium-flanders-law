@@ -6,8 +6,8 @@ De Vlaamse minister van Energie, Wonen, Steden en Sociale Economie,<br /><br />G
 
 ### ART. 1.
 
-In afwijking van de EPB-eisen, opgenomen in het Energiebesluit van 19 november 2010 voldoen nieuw op te richten tennishallen vervaardigd uit zeildoeken aan de volgende eisen : <br />1° ze beschikken over ventilatievoorzieningen, vermeld in bijlage X van het Energiebesluit van 19 november 2010;<br />2° de binnentemperatuur : <br />a) kan niet hoger ingesteld worden dan 13 °C;<br />b) wordt 's nachts automatisch verlaagd naar maximaal 5 °C;<br />c) wordt automatisch teruggeregeld naar 5 °C door middel van aanwezigheidsdetectie als er gedurende 15 minuten geen spelers aanwezig zijn op de terreinen;<br />3° de wanden zijn minstens dubbelwandig of de U-waarde van de wanden is kleiner dan of gelijk aan 2,8 W/m2K.<br /><br />In geval van luchthallen dienen de luchtlekken tussen de verwarmde binnenruimte en de buitenomgeving beperkt te worden door het verwezenlijken van een continue verbinding van de zeilen aan de grond. <br /><br />
+...
 
 ### ART. 2.
 
-Dit besluit treedt in werking op 1 november 2011.<br /><br />
+...
