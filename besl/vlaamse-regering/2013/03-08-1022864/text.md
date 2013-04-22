@@ -1,0 +1,13 @@
+# Besluit van de Vlaamse Regering van 2013-03-08 tot verdeling van de trekkingsrechten uit het Stedenfonds voor het jaar 2013
+
+### Aanhef
+
+<P>De Vlaamse Regering,<BR></P>  <P>Gelet op het decreet van 13 december 2002 tot vaststelling van de regels   inzake de werking en de verdeling van het Vlaams Stedenfonds, zoals gewijzigd op   19 december 2003, op 24 december 2004, op 20 mei 2005, op 21 december 2007, op   23 december 2010, op 8 juli 2011, op 23 december 2011 en op 1 juni 2012;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 17 januari 2003 tot   uitvoering van het decreet van 13 december 2002 tot vaststelling van de regels   inzake de werking en de verdeling van het Vlaams Stedenfonds, zoals gewijzigd op   11 december 2009;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 21 september 2012 tot   uitvoering van het decreet van 13 december 2002 tot vaststelling van de regels   inzake de werking en de verdeling van het Vlaams Stedenfonds;<BR></P>  <P>Gelet op het decreet van 21 december 2012 houdende de algemene   uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2013,   inzonderheid het programma Stedenbeleid, artikel BD0/1BI-F-2-C/WT WERKING EN   TOELAGEN - STEDENFONDS (Basisallocatie BI 306);<BR></P>  <P>Op voorstel van de Vlaamse minister van Energie, Wonen, Steden en Sociale   Economie;<BR></P>  <P>Na beraadslaging,<BR></P>  <P>Besluit :</P>
+
+### ART. 1.
+
+Overeenkomstig de bepalingen in artikel 6, § 2, van het decreet tot   vaststelling van de regels inzake de werking en de verdeling van het Vlaams   Stedenfonds wordt aan de Vlaamse Gemeenschapscommissie een trekkingsrecht   toegekend van 14.236.300 euro.
+
+### ART. 2.
+
+De trekkingsrechten uit het Stedenfonds voor het jaar 2013 worden   overeenkomstig de artikelen 8 en 9 van het decreet als volgt verdeeld : <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>      <TD>Trekkingsrecht in euro <BR>    <TR>      <TD>ANTWERPEN       <TD>61.587.312 <BR>    <TR>      <TD>GENT       <TD>30.528.155 <BR>    <TR>      <TD>AALST       <TD>2.902.614 <BR>    <TR>      <TD>BRUGGE       <TD>4.114.358 <BR>    <TR>      <TD>GENK       <TD>5.467.773 <BR>    <TR>      <TD>HASSELT       <TD>2.593.906 <BR>    <TR>      <TD>KORTRIJK       <TD>2.721.123 <BR>    <TR>      <TD>LEUVEN       <TD>3.573.547 <BR>    <TR>      <TD>MECHELEN       <TD>3.781.211 <BR>    <TR>      <TD>OOSTENDE       <TD>4.134.015 <BR>    <TR>      <TD>ROESELARE       <TD>2.045.655 <BR>    <TR>      <TD>SINT-NIKLAAS       <TD>2.534.612 <BR>    <TR>      <TD>TURNHOUT       <TD>1.512.419 <BR>    <TR>      <TD>Totaal       <TD>127.496.700<BR></TD></TR></TBODY></TABLE><BR>

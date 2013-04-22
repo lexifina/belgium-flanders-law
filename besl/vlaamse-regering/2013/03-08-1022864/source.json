@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022864,
+  "title": "Besluit van de Vlaamse Regering van 2013-03-08 tot verdeling van de trekkingsrechten uit het Stedenfonds voor het jaar 2013",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022864/VolledigDocument?datum=2013-04-22",
+  "source_sha256": "0562bcb2ac8310422eb49cbfd5dd766b9b60c4fe33e144cac18e568e9f1946e0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022864&param=informatie",
+  "as_of": "2013-04-22",
+  "made": "2013-03-08",
+  "gazette": "2013-04-12",
+  "numac": 2013202212,
+  "document_start": "2013-04-22",
+  "document_end": null,
+  "in_force": "2013-04-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-04-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
