@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022885,
+  "title": "Besluit van de Vlaamse Regering van 2013-04-19 tot wijziging van artikel 22 van het besluit van de Vlaamse Regering van 24 oktober 2008 tot uitvoering van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand en het kaderdecreet Bestuurlijk Beleid van 18 juli 2003",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022885/VolledigDocument?datum=2013-04-23",
+  "source_sha256": "0b41630fe1ab6f1b24fbc080dec3843d9c5818de9b8f19953b7cef1bdefe2cd7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022885&param=informatie",
+  "as_of": "2013-04-23",
+  "made": "2013-04-19",
+  "gazette": "2013-04-23",
+  "numac": 2013035390,
+  "document_start": "2013-04-23",
+  "document_end": null,
+  "in_force": "2013-04-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-04-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
