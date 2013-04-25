@@ -46,7 +46,7 @@ Artikel 8 van dezelfde wet wordt opgeheven.
 
 ### ART. 9.
 
-In artikel 12 van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer worden het derde en het vierde lid vervangen door wat volgt :<br /><br />« Het nemen van monsters en hun ontleding wordt verricht door een laboratorium dat daartoe in het Vlaamse Gewest is erkend met toepassing van de bepalingen van hoofdstuk IIIbis van het decreet van 28 juni 1985 betreffende de milieuvergunning.<br /><br />De Vlaamse Regering bepaalt, onder vrijwaring van de rechten van de verdediging, de wijze waarop de monsters worden genomen. Ze kan eveneens de ontledingsmethodes vaststellen. »
+<P>...</P>
 
 ## Afdeling IV. Wijzigingen van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid
 
