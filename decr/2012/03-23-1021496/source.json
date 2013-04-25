@@ -2,16 +2,16 @@
   "codex_id": 1021496,
   "title": "Decreet van 2012-03-23 houdende wijziging van het decreet van 28 juni 1985 betreffende de milieuvergunning, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en van de Vlaamse Codex Ruimtelijke Ordening",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021496/VolledigDocument?datum=2012-04-30",
-  "source_sha256": "f36bcf3cd217575bd917e4bffa8334d86080bb83375ae19c9d19935c772a5301",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021496/VolledigDocument?datum=2013-04-25",
+  "source_sha256": "e4dfba9bb503d2221f0171a47769677faa2d19aa347151c2ad797d3adbb91d7d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021496&param=informatie",
-  "as_of": "2012-04-30",
+  "as_of": "2013-04-25",
   "made": "2012-03-23",
   "gazette": "2012-04-20",
   "numac": 2012202117,
   "document_start": "2012-04-30",
   "document_end": null,
-  "in_force": "2012-04-30",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2012-04-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-04-25",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2013-04-25; future article versions excluded; article text as the API gives it"
 }

@@ -29,3 +29,11 @@ In artikel 4.7.14, § 2, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 20
 In artikel 4.7.26 van dezelfde codex worden de volgende wijzigingen aangebracht : <br /><br />1° in paragraaf 1, 1°, wordt de zinsnede « een milieueffectrapportage, of in aanmerking komt voor een gemotiveerd verzoek tot ontheffing van deze verplichting » vervangen door de woorden « een milieueffectrapport »;<br /><br />2° in paragraaf 3 wordt het woord « veertien » vervangen door het woord « dertig ».
 
 ## [HOOFDSTUK 5. Slotbepalingen (ing. decr. 1 maart 2013, art. 59)]
+
+### ART. 13.
+
+&nbsp;§ 1. Milieuvergunningsaanvragen waarvoor een vergunningsaanvraag   werd verzonden aan de bevoegde overheid voor de datum van de inwerkingtreding   van de artikelen 2, 2°, 3, 5 tot 8, 10 en 12 van dit decreet, worden uitgevoerd   overeenkomstig de procedure die van toepassing was op dat ogenblik.<BR><BR>§ 2.   Stedenbouwkundige vergunningsaanvragen waarvoor een vergunningsaanvraag werd   verzonden aan de bevoegde overheid voor de datum van inwerkingtreding van de   artikelen 2, 2°, 3, 5 tot 8, 10 en 12 van dit decreet, worden uitgevoerd   overeenkomstig de procedure die van toepassing was op dat   ogenblik.
+
+### ART. 14.
+
+De artikelen 2, 2°, 3, 5 tot 8, 10 en 12, van dit decreet treden in   werking op een door de Vlaamse Regering vast te stellen datum.
