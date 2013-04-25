@@ -117,7 +117,7 @@ De vennootschap oefent haar bevoegdheden uit:<br /><br />1° voor wat betreft he
 
 ### ART. 19.
 
-§ 1. De vennootschap kan alle voor de uitoefening van haar bevoegdheden nodige roerende en onroerende goederen verwerven.<br /><br />§ 2. Na machtiging door de Vlaamse regering kan de vennootschap overeenkomstig de wetgeving betreffende de onteigening ten algemene nutte in eigen naam en voor eigen rekening onroerende goederen onteigenen die nodig zijn voor de verwezenlijking van haar maatschappelijk doel.<br /><br />§ 3. De vennootschap kan de onroerende goederen waarvan zij eigenaar is, slechts vervreemden mits machtiging van de Vlaamse regering.
+§ 1. De vennootschap kan alle voor de uitoefening van haar bevoegdheden   nodige roerende en onroerende goederen verwerven.<BR><BR>§ 2. Na machtiging door   de Vlaamse regering kan de vennootschap overeenkomstig de wetgeving betreffende   de onteigening ten algemene nutte in eigen naam en voor eigen rekening   onroerende goederen onteigenen die nodig zijn voor de verwezenlijking van haar   maatschappelijk doel.<BR><BR>§ 3. De vennootschap kan de onroerende goederen   waarvan zij eigenaar is, slechts verkopen mits machtiging van de Vlaamse   regering.
 
 ### ART. 20.
 
@@ -129,7 +129,7 @@ In afwijking van de artikelen 546, 547 en 551 tot 564 van het Burgerlijk Wetboek
 
 ### ART. 22.
 
-§ 1. De vennootschap kan de in de artikelen 18 tot en met 20 bedoelde goederen voor hernieuwbare periodes van bepaalde duur, telkens ten hoogste voor vijfenzeventig jaar, ter beschikking stellen aan derden, hetzij middels een domeinconcessie of concessie van bouwwerken, hetzij door het verlenen van erfpacht-, opstal- of huurrechten.<br /><br />§ 2. De voorwaarden waaronder de vennootschap deze goederen ter beschikking van derden stelt, worden vastgesteld door de Raad van Bestuur.<br /><br />§ 3. Bij ontbinding van de vennootschap dient de verdere naleving van de rechten en verplichtingen met inbegrip van de concessies van openbare dienst te worden gewaarborgd.
+§ 1. De vennootschap kan de in de artikelen 18 tot en met 20 bedoelde   goederen voor hernieuwbare periodes van bepaalde duur, telkens ten hoogste voor   vijfenzeventig jaar, ter beschikking stellen aan derden, hetzij middels een   domeinconcessie of concessie van bouwwerken, hetzij door het verlenen van   erfpacht-, opstal- of huurrechten of andere zakelijke rechten.<BR><BR>§ 2. De   voorwaarden waaronder de vennootschap deze goederen ter beschikking van derden   stelt, worden vastgesteld door de Raad van Bestuur.<BR><BR>§ 3. Bij ontbinding   van de vennootschap dient de verdere naleving van de rechten en verplichtingen   met inbegrip van de concessies van openbare dienst te worden   gewaarborgd.
 
 ## AFDELING 4 BIJZONDERE ADMINISTRATIEVE POLITIE
 
