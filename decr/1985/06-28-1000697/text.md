@@ -88,7 +88,7 @@ Bij gemotiveerd besluit kan de vergunningsverlenende overheid de termijnen waarb
 
 ### ART. 11.
 
-§ 1. Behoudens andersluidende bepalingen, wordt elke beslissing over een vergunningsaanvraag voorafgegaan door een openbaar onderzoek dat wordt ingesteld volgens de modaliteiten en binnen de termijnen bepaald door de Vlaamse Regering.<br /><br />§ 2. Op initiatief van het college van burgemeester en schepenen kan voor alle vergunningsplichtige inrichtingen een informatievergadering worden georganiseerd.<br /><br />Voor de inrichtingen van de eerste klasse waarvoor een milieueffect- of veiligheidsrapport wordt vereist, moet ten minste één informatievergadering worden georganiseerd.<br /><br />De Vlaamse Regering bepaalt de nadere regels in verband met de organisatie van deze vergadering.
+§ 1. Behoudens andersluidende bepalingen, wordt elke beslissing over een   vergunningsaanvraag voorafgegaan door een openbaar onderzoek dat wordt ingesteld   volgens de modaliteiten en binnen de termijnen bepaald door de Vlaamse   Regering.<BR><BR>§ 2. Op initiatief van het college van burgemeester en   schepenen kan voor alle vergunningsplichtige inrichtingen een   informatievergadering worden georganiseerd.<BR><BR>Voor de inrichtingen van de   eerste klasse waarvoor een milieueffect- of veiligheidsrapport wordt vereist,   moet ten minste één informatievergadering worden georganiseerd. Een   informatievergadering is niet vereist als door de overheid bij wie de aanvraag   is ingediend of de afdeling, bevoegd voor milieueffectrapportage, beslist wordt   dat er geen milieueffectrapport vereist is.<BR><BR>De Vlaamse Regering bepaalt   de nadere regels in verband met de organisatie van deze   vergadering.
 
 ### ART. 12.
 
