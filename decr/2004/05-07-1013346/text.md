@@ -42,7 +42,7 @@ Bij een fusie of splitsing van organisaties die een of meer geregulariseerde DAC
 
 ### ART. 9.
 
-De middelen die voor de aanvullende subsidie voor tewerkstelling binnen de culturele sector beschik-baar zijn, worden met ingang van de in artikel 16 opgenomen termijnen verdeeld over de verschillende sectoren naar rato van de verdeling van de middelen die werden overgeheveld door de VDAB naar de sectoren op het moment van de regularisatie. De middelen worden concreet verdeeld over de volgende sectoren:<br /><br />1° lokaal cultuurbeleid;<br /><br />2° gemeentelijk jeugdwerkbeleid;<br /><br />3° sociaal-cultureel volwassenenwerk;<br /><br />4° landelijk jeugdwerk;<br /><br />5° musea.
+De middelen die voor de aanvullende subsidie voor tewerkstelling binnen de   culturele sector beschik-baar zijn, worden met ingang van de in artikel 16   opgenomen termijnen verdeeld over de verschillende sectoren naar rato van de   verdeling van de middelen die werden overgeheveld door de VDAB naar de sectoren   op het moment van de regularisatie. De middelen worden concreet verdeeld over de   volgende sectoren:<BR>1° lokaal cultuurbeleid;<BR>2° gemeentelijk   jeugdwerkbeleid;<BR>3° sociaal-cultureel volwassenenwerk;<BR>4° landelijk   jeugdwerk;<BR>5° musea.<BR><BR>De middelen, beschikbaar voor de sector   gemeentelijk jeugdwerkbeleid, worden verdeeld over de volgende subsectoren   :<BR>1° lokaal jeugdwerk met maatschappelijk kwetsbare kinderen en jongeren   conform artikel 4, § 1, eerste lid, 2°, van het decreet van 6 juli 2012 houdende   de ondersteuning en stimulering van het lokaal jeugdbeleid en de bepaling van   het provinciaal jeugdbeleid;<BR>2° ander jeugdwerk, ter ondersteuning van het   jeugdhuiswerk.
 
 ### ART. 10.
 
@@ -54,7 +54,13 @@ De subsidies voor de loonkosten kunnen nooit meer bedragen dan 35.510 euro per v
 
 ### ART. 12.
 
-Op basis van objectieve parameters bepaalt de Vlaamse regering, telkens voor het begin van een nieuwe beleidsplanperiode, welke gemeentebesturen in aanmerking komen voor subsidies in het kader van het gemeentelijk jeugdwerkbeleidsplan en gemeentelijk cultuurbeleidsplan en wat de omvang is van het contingent waarop de gemeentebesturen een beroep mogen doen.<br /><br />Op basis van objectieve parameters wordt, telkens voor het begin van een nieuwe beleidsplanperiode, de omvang bepaald van het contingent waarop de organisaties een beroep mogen doen in het kader van hun beleidsplan.<br /><br />De Vlaamse regering legt de objectieve parameters vast en bepaalt de nadere regels met betrekking tot de verdeling van de middelen binnen elke sector na voorafgaand advies van de betrokken adviesraden en na consultatie van de sociale partners.
+Op basis van objectieve parameters bepaalt de Vlaamse regering, telkens voor het begin van een nieuwe beleidsplanperiode, welke gemeentebesturen in aanmerking komen voor subsidies in het kader van het gemeentelijk jeugdwerkbeleidsplan en gemeentelijk cultuurbeleidsplan en wat de omvang is van het contingent waarop de gemeentebesturen een beroep mogen doen.<br>
+<br>
+Op basis van objectieve parameters wordt, telkens voor het begin van een nieuwe beleidsplanperiode, de omvang bepaald van het contingent waarop de organisaties een beroep mogen doen in het kader van hun beleidsplan.<br>
+<br>
+De Vlaamse regering legt de objectieve parameters vast en bepaalt de nadere regels met betrekking tot de verdeling van de middelen binnen elke sector na voorafgaand advies van de betrokken adviesraden en na consultatie van de sociale partners.<br>
+<br>
+De Vlaamse Regering bepaalt na consultatie van de sociale partners en na advies van de Vlaamse Jeugdraad en van de Sectorraad Sociaal-Cultureel Werk van de Strategische Adviesraad voor Cultuur, Jeugd, Sport en Media de nadere regels voor de verdeling van de middelen voor de subsector ander jeugdwerk.
 
 ### ART. 13.
 
