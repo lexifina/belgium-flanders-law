@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022874,
+  "title": "Decreet van 2013-03-22 houdende wijziging van het decreet van 7 mei 2004 houdende aanvullende subsidies voor tewerkstelling in de culturele sector, wat de verdeling betreft van de middelen voor de aanvullende subsidie voor tewerkstelling binnen de sector gemeentelijk jeugdwerkbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022874/VolledigDocument?datum=2013-04-26",
+  "source_sha256": "e932a23a87ded2cf0a6b3b27645a4872f9a7c1b9ac12385073a0aa92feb45a7a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022874&param=informatie",
+  "as_of": "2013-04-26",
+  "made": "2013-03-22",
+  "gazette": "2013-04-16",
+  "numac": 2013035343,
+  "document_start": "2013-04-26",
+  "document_end": null,
+  "in_force": "2013-04-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-04-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
