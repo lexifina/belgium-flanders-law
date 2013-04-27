@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2013-03-18 betreffende de wijziging van het ministerieel besluit van 9 september 2011 tot opsomming van de aangelegenheden waarvoor na het gunstige advies van de Inspecteur van Financiën geen begrotingsakkoord meer vereist is, vermeld in artikel 8bis van het besluit van de Vlaamse Regering van 19 januari 2001 houdende regeling van de begrotingscontrole en -opmaak
+
+### Aanhef
+
+<P>De Vlaamse minister van Financiën, Begroting, Werk, Ruimtelijke Ordening en   Sport,<BR></P>  <P>Gelet op het bijzonder decreet van 7 juli 2006 over de Vlaamse instellingen,   artikel 21, eerste lid;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 19 januari 2001 houdende   regeling van de begrotingscontrole en -opmaak, artikel 8bis, ingevoegd bij het   besluit van de Vlaamse Regering van 10 december 2010;<BR></P>  <P>Gelet op het ministerieel besluit van 9 september 2011 tot opsomming van de   aangelegenheden waarvoor na het gunstige advies van de Inspecteur van Financiën   geen begrotingsakkoord meer vereist is, vermeld in artikel 8bis van het besluit   van de Vlaamse Regering van 19 januari 2001 houdende regeling van de   begrotingscontrole en -opmaak;<BR></P>  <P>Gelet op het advies van de Inspectie van Financiën, gegeven op 6 november   2012;<BR></P>  <P>Gelet op het advies 52.505/1 van de Raad van State, gegeven op 13 december   2012, met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de   Raad van State, gecoördineerd op 12 januari 1973,<BR></P>  <P>Besluit : </P>
+
+### ART. 1.
+
+<P>In het enig artikel van het ministerieel besluit van 9 september 2011 tot   opsomming van de aangelegenheden waarvoor na het gunstige advies van de   Inspecteur van Financiën geen begrotingsakkoord meer vereist is, vermeld in   artikel 8bis van het besluit van de Vlaamse Regering van 19 januari 2001   houdende regeling van de begrotingscontrole en -opmaak worden de volgende   wijzigingen aangebracht : <BR></P>  <P>1° in de inleidende zin worden tussen het woord "gunstige" en het woord   "advies" de woorden "en onvoorwaardelijke" ingevoegd;<BR></P>  <P>2° aan punt 5° wordt de zinsnede ", behalve als de toekenning van de   facultatieve subsidie verbonden is aan de goedkeuring van een meerjarige   overeenkomst" toegevoegd;<BR></P>  <P>3° een punt 6° wordt toegevoegd, dat luidt als volgt : <BR>« 6° de   vacantverklaring van de functies opgesomd in artikel 7, 7°, van het besluit van   de Vlaamse Regering van 13 juli 2009 tot bepaling van de bevoegdheden van de   leden van de Vlaamse Regering. ».</P>
+
+### ART. 2.
+
+Dit besluit treedt in werking op de dag die volgt op de bekendmaking ervan   in het Belgisch Staatsblad.
