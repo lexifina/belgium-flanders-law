@@ -2,16 +2,16 @@
   "codex_id": 1020802,
   "title": "Ministerieel besluit van 2011-09-09 tot opsomming van de aangelegenheden waarvoor na het gunstige advies van de Inspecteur van Financiën geen begrotingsakkoord meer vereist is, vermeld in artikel 8bis van het besluit van de Vlaamse Regering van 19 januari 2001 houdende regeling van de begrotingscontrole en -opmaak",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020802/VolledigDocument?datum=2011-10-08",
-  "source_sha256": "b569d6fef5cbe97d9ac3cb2174c8e0002b7f436a9a44da8716eeb5f0eeb7545f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020802/VolledigDocument?datum=2013-04-27",
+  "source_sha256": "3fee33534e155a164df01e73aa9026d7933b9a7422d84ea192ce55254ad2848d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020802&param=informatie",
-  "as_of": "2011-10-08",
+  "as_of": "2013-04-27",
   "made": "2011-09-09",
   "gazette": "2011-09-28",
   "numac": 2011204778,
   "document_start": "2011-10-08",
   "document_end": null,
-  "in_force": "2011-10-08",
+  "in_force": "2013-04-27",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2011-10-08; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-04-27; future article versions excluded; article text as the API gives it"
 }
