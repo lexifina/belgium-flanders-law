@@ -6,7 +6,7 @@ Dit besluit is toepasselijk op de bermen gelegen langs wegen, waterlopen en spoo
 
 ### ART. 2.
 
-Het gebruik van biociden op bermen is verboden.
+...
 
 ### ART. 3.
 
