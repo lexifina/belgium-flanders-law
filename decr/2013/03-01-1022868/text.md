@@ -78,6 +78,10 @@ Aan artikel 9, § 5bis, tweede lid, van het decreet van 28 juni 1985   betreffen
 
 Aan artikel 11, § 2, tweede lid, van hetzelfde decreet, wordt de volgende   zin toegevoegd :<BR>« Een informatievergadering is niet vereist als door de   overheid bij wie de aanvraag is ingediend of de afdeling, bevoegd voor   milieueffectrapportage, beslist wordt dat er geen milieueffectrapport vereist   is. ».<BR>
 
+### ART. 17.
+
+Aan artikel 18, § 3, vierde lid, van hetzelfde decreet, worden de volgende   zinnen toegevoegd :<BR>« Op gemotiveerd verzoek van de exploitant kan deze   termijn van zes maanden door de bevoegde overheid maximaal tweemaal verlengd   worden met telkens drie maanden. De Vlaamse Regering kan nadere regels   vaststellen in verband met de modaliteiten van dit verzoek. ».<BR>
+
 ## HOOFDSTUK 8 Decreet houdende oprichting van de Vlaamse Landmaatschappij
 
 ### ART. 18.
@@ -129,6 +133,10 @@ Aan artikel 12 van hetzelfde decreet, gewijzigd bij de decreten van 6 juli   200
 ### ART. 28.
 
 In artikel 4.1.1, § 1, van het decreet van 5 april 1995 houdende algemene   bepalingen inzake milieubeleid, ingevoegd bij het decreet van 18 december 2002   en gewijzigd bij de decreten van 27 april 2007, 12 december 2010 en 23 december   2010, wordt punt 10° /1 vervangen door wat volgt :<BR>« 10° /1 veiligheidsnota :   een openbaar document waarin aangetoond wordt dat de verandering van een   vergunde inrichting geen bijkomend aanzienlijk risico van zware ongevallen voor   mens en milieu meebrengt ten opzichte van de bestaande toestand zoals die   beschreven is in een voor die inrichting goedgekeurd   omgevingsveiligheidsrapport, en waarbij met betrekking tot die verandering wordt   aangetoond welke maatregelen getroffen werden of getroffen kunnen worden om   zware ongevallen te voorkomen en om de gevolgen ervan voor mens en milieu te   beperken; ».<BR>
+
+### ART. 29.
+
+In artikel 4.2.3, § 2, 1°, van het decreet van 5 april 1995 houdende   algemene bepalingen inzake milieubeleid, ingevoegd bij het decreet van 18   december 2002 en vervangen bij het decreet van 27 april 2007, worden de woorden   « bijlagen I en II » vervangen door de woorden « bijlagen I, II en III   ».<BR>
 
 ### ART. 30.
 
@@ -239,6 +247,10 @@ In artikel 13.5.1 van hetzelfde decreet wordt het woord « exploitant »   verva
 ### ART. 53.
 
 Aan de artikelen 4.7.14, § 2, en 4.7.26, § 3, tweede lid, van de Vlaamse   Codex Ruimtelijke Ordening van 15 mei 2009, gewijzigd bij het decreet van 23   maart 2012, worden telkens de volgende zinnen toegevoegd :<BR>« Bij gebreke   hieraan wordt de procedure voortgezet. In dat geval doet de vergunningverlenende   overheid uitdrukkelijk uitspraak in haar beslissing of er een   milieueffectrapport over het project moet worden opgesteld. Zo ja, dan weigert   ze de aangevraagde vergunning toe te kennen. ».<BR>
+
+### ART. 54.
+
+In de artikelen 4.7.14/1, § 2, en 4.7.26/1, § 2, van dezelfde codex,   ingevoegd bij het decreet van 23 maart 2012, worden telkens de volgende   wijzigingen aangebracht :<BR>1° aan punt 1) wordt de zinsnede « en een   project-MER redelijkerwijze geen nieuwe of bijkomende gegevens over aanzienlijke   milieueffecten kan bevatten » toegevoegd;<BR>2° in punt 2) wordt tussen de   woorden « vroeger al » en de woorden « een project-MER werd goedgekeurd » de   zinsnede « een plan-MER werd goedgekeurd betreffende een plan of programma   waarin een project met vergelijkbare effecten beoordeeld werd of » ingevoegd, en   wordt het woord « aanvullende » vervangen door het woord « bijkomende   ».<BR>
 
 ### ART. 55.
 
