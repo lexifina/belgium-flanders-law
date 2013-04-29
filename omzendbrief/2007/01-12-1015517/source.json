@@ -2,16 +2,16 @@
   "codex_id": 1015517,
   "title": "Omzendbrief van 2007-01-12 BB-2007/01 betreffende de boekhouding van de besturen van de eredienst",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015517/VolledigDocument?datum=2007-02-12",
-  "source_sha256": "5fd09488429d6b7cb743c3150afd678fcfa78ef578b0005638cafd06a16c63b8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015517/VolledigDocument?datum=2013-04-29",
+  "source_sha256": "624b42d5971b9f7ae393a42b596ad1f170b734dbcc19b4ce59c546a358b7226b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015517&param=informatie",
-  "as_of": "2007-02-12",
+  "as_of": "2013-04-29",
   "made": "2007-01-12",
   "gazette": "2007-02-12",
   "numac": 2007035187,
   "document_start": "2007-02-12",
   "document_end": null,
-  "in_force": "2007-02-12",
+  "in_force": "2013-04-29",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2007-02-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-04-29; future article versions excluded; article text as the API gives it"
 }
