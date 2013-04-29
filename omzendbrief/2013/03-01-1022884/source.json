@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022884,
+  "title": "Omzendbrief van 2013-03-01 BB 2013/01 - Boekhouding besturen van de eredienst",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022884/VolledigDocument?datum=2013-04-29",
+  "source_sha256": "d77ce4f3632c73dc5df0cd72e53143f05b39dec0c87e5f86aaddbd816ecb3f3a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022884&param=informatie",
+  "as_of": "2013-04-29",
+  "made": "2013-03-01",
+  "gazette": "2013-04-19",
+  "numac": 2013035301,
+  "document_start": "2013-04-29",
+  "document_end": null,
+  "in_force": "2013-04-29",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2013-04-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
