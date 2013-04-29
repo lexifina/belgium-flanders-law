@@ -478,7 +478,7 @@ Volgend plan of programma valt niet onder het toepassingsgebied van dit decreet 
 § 1. Het plan of programma, dat overeenkomstig artikel 4.2.1, onder het toepassingsgebied van dit hoofdstuk valt, wordt, alvorens het kan worden goedgekeurd, aan een milieueffectrapportage onderworpen in de gevallen bepaald in dit hoofdstuk.<br>
 <br>
 § 2. Voor een plan of programma, dat overeenkomstig artikel 4.2.1, eerste lid, onder het toepassingsgebied van dit hoofdstuk valt, en dat niet het gebruik bepaalt van een klein gebied op lokaal niveau, noch een kleine wijziging inhoudt, moet een plan-MER worden opgemaakt, wanneer :<br>
-1° het plan of programma betrekking heeft op landbouw, bosbouw, visserij, energie, industrie, vervoer, afvalstoffenbeheer, waterbeheer, telecommunicatie, toerisme, ruimtelijke ordening of grondgebruik, en het kader vormt voor de toekenning van een vergunning voor een project opgesomd in bijlagen I en II van het besluit van de Vlaamse Regering van 10 december 2004 houdende vaststelling van categorieën van projecten onderworpen aan milieueffectrapportage;<br>
+1° het plan of programma betrekking heeft op landbouw, bosbouw, visserij, energie, industrie, vervoer, afvalstoffenbeheer, waterbeheer, telecommunicatie, toerisme, ruimtelijke ordening of grondgebruik, en het kader vormt voor de toekenning van een vergunning voor een project opgesomd in bijlagen I, II en III&nbsp;van het besluit van de Vlaamse Regering van 10 december 2004 houdende vaststelling van categorieën van projecten onderworpen aan milieueffectrapportage;<br>
 2° voor een ander plan of programma dan deze vermeld onder 1°, de initiatiefnemer aan de hand van de criteria die worden omschreven in bijlage I, die bij dit decreet is gevoegd, niet aantoont dat dit plan of programma geen aanzienlijke milieueffecten kan hebben. De Vlaamse Regering kan nadere regels vaststellen betreffende de beoordeling van de aanwezigheid van aanzienlijke milieueffecten.<br>
 <br>
 § 3. Voor een plan of programma, dat overeenkomstig artikel 4.2.1, onder het toepassingsgebied van dit hoofdstuk valt, en dat het gebruik bepaalt van een klein gebied op lokaal niveau of een kleine wijziging inhoudt, moet geen plan-MER worden opgemaakt voor zover de initiatiefnemer aan de hand van de criteria die worden omschreven in bijlage I, die bij dit decreet is gevoegd, aantoont dat het plan of programma geen aanzienlijke milieueffecten kan hebben. De Vlaamse Regering kan nadere regels vaststellen betreffende de beoordeling van de aanwezigheid van aanzienlijke milieueffecten.<br>
@@ -612,43 +612,30 @@ Voorgenomen projecten worden, alvorens een vergunning kan worden verleend voor d
 
 ### ART. 4.3.2.
 
-§ 1. De Vlaamse regering wijst, aan de hand van de criteria die worden   omschreven in de bij dit decreet gevoegde bijlage II, de categorieën van   projecten aan die worden onderworpen aan de in dit hoofdstuk bedoelde vorm van   milieueffectrapportage.<BR><BR>De verplichting tot het uitvoeren van een   project-m.e.r. geldt ook indien wegens het verstrijken van de lopende vergunning   van het project een nieuwe vergunning moet worden aangevraagd.<BR><BR>§ 2. De   Vlaamse regering wijst, aan de hand van de criteria die worden omschreven in de   bij dit decreet gevoegde bijlage II, de andere dan in § 1 bedoelde categorieën   van projecten aan waarvoor overeenkomstig dit hoofdstuk al dan niet een   milieueffectrapport moet worden opgesteld op grond van een beslissing, geval per   geval, van de administratie.<BR><BR>Deze mogelijkheid geldt ook indien wegens   het verstrijken van de lopende vergunning van het project een nieuwe vergunning   moet worden aangevraagd.<BR><BR>§ 3. De Vlaamse regering wijst, aan de hand van   de criteria die worden omschreven in bijlage II, aan voor welke veranderingen   aan reeds bestaande projecten van de categorieën, bedoeld in §§ 1 en 2,   overeenkomstig dit hoofdstuk al dan niet een milieueffectrapport moet worden   opgesteld op grond van een beslissing, geval per geval, van de   administratie.<BR><BR>§ 4. De Vlaamse regering stelt, aan de hand van de   criteria die worden omschreven in bijlage II, de selectiecriteria vast op grond   waarvan de administratie geval per geval beslist of voor de in §§ 2 en 3   bedoelde projecten overeenkomstig dit hoofdstuk al dan niet een   milieueffectrapport moet worden opgesteld. Deze selectiecriteria moeten toelaten   uit te maken of aan een bepaald project, dan wel aan een verandering daarvan, al   dan niet aanzienlijke milieueffecten verbonden kunnen zijn.<BR><BR>Bij een   beslissing overeenkomstig §§ 1, 2 of 3 duidt de Vlaamse regering eveneens de   administraties, overheidsinstellingen en openbare besturen aan die,   overeenkomstig artikel 4.3.4, § 4, een afschrift van de kennisgeving moeten   ontvangen.<BR><BR>De selectiecriteria worden minstens om de vijf jaar herzien   maar blijven geldig tot ze vervangen zijn door nieuwe. Ze worden meegedeeld aan   de Europese Commissie.  <span class="reference">(ing. decr. 18 december 2002, art. 4, I: 13 februari 2003)</span> ]
+§ 1. De Vlaamse Regering wijst, aan de hand van de criteria die worden omschreven in de bij dit decreet gevoegde bijlage II, de categorieën van projecten aan waarvoor overeenkomstig dit hoofdstuk een project-MER moet worden opgesteld.<br /><br />De verplichting tot het opstellen van een project-MER, vermeld in het eerste lid, geldt ook indien wegens het verstrijken van de lopende vergunning van het project een nieuwe vergunning moet worden aangevraagd<br /><br />§ 2. De Vlaamse Regering wijst, aan de hand van de criteria die worden omschreven in de bij dit decreet gevoegde bijlage II, de andere dan in paragraaf 1 vermelde categorieën van projecten aan waarvoor overeenkomstig dit hoofdstuk een project-MER of een gemotiveerd verzoek tot ontheffing van de rapportageverplichting moet worden opgesteld.<br /><br />Die verplichting geldt ook indien wegens het verstrijken van de lopende vergunning van het project een nieuwe vergunning moet worden aangevraagd.<br /><br />§ 2bis. De Vlaamse Regering wijst, aan de hand van de criteria die worden omschreven in de bij dit decreet gevoegde bijlage II, de andere dan in paragrafen 1 en 2 vermelde categorieën van projecten aan waarvoor overeenkomstig dit hoofdstuk een project-MER of een project-m.e.r.-screeningsnota moet worden opgesteld.<br /><br />Die verplichting geldt ook indien wegens het verstrijken van de lopende vergunning van het project een nieuwe vergunning moet worden aangevraagd.<br /><br />§ 3. De Vlaamse Regering wijst, aan de hand van de criteria die worden omschreven in de bij dit decreet gevoegde bijlage II, aan voor welke veranderingen aan reeds bestaande projecten van de categorieën, vermeld in paragrafen 1 en 2, overeenkomstig dit hoofdstuk al dan niet een project-MER moet worden opgesteld op grond van een beslissing, geval per geval, van de administratie.<br /><br />§ 3bis. De Vlaamse Regering wijst, aan de hand van de criteria die worden omschreven in de bij dit decreet gevoegde bijlage II, aan voor welke veranderingen aan reeds bestaande projecten van de categorieën, vermeld in paragrafen 2 en 2bis, overeenkomstig dit hoofdstuk al dan niet een project-MER moet worden opgesteld op grond van een beslissing, geval per geval, van de overheid die beslist over de ontvankelijkheid en volledigheid van de vergunningsaanvraag.<br /><br />§ 4. De Vlaamse Regering kan de criteria die worden omschreven in de bij dit decreet gevoegde bijlage II, nader definiëren. Op grond van die criteria moet het mogelijk zijn uit te maken of aan een bepaald project, dan wel aan een verandering daarvan, al dan niet aanzienlijke milieueffecten verbonden kunnen zijn.<br /><br />Bij de aanwijzing van categorieën van projecten overeenkomstig paragrafen 1, 2, 2bis, 3 of 3bis kan de Vlaamse Regering eveneens de administraties, overheidsinstellingen en openbare besturen aanwijzen die, overeenkomstig artikel 4.3.4, § 4, een afschrift van de kennisgeving moeten ontvangen.<br /><br />Elke vaststelling of vervanging van de criteria, vermeld in het eerste lid, wordt meegedeeld aan de Europese Commissie.
 
 ### ART. 4.3.3.
 
-§ 1. Onverminderd § 5 kan de Vlaamse regering op gemotiveerd verzoek van de initiatiefnemer een welbepaald project dat overeenkomstig artikel 4.3.2 en dit artikel aan milieueffectrapportage moet worden onderworpen, vrijstellen van milieueffectrapportage als de bescherming van het algemeen belang noodzakelijk maakt dat op uitzonderlijke omstandigheden wordt gereageerd met het onverwijld uitvoeren van het project.<br>
+§ 1. De Vlaamse Regering kan op gemotiveerd verzoek van de initiatiefnemer een welbepaald project dat overeenkomstig artikel 4.3.2 en dit artikel aan milieueffectrapportage moet worden onderworpen, vrijstellen van milieueffectrapportage als de bescherming van het algemeen belang noodzakelijk maakt dat op uitzonderlijke omstandigheden wordt gereageerd met het onverwijld uitvoeren van het project.<br>
 <br>
 De Vlaamse Regering gaat in dat geval na of er geen andere vorm van beoordeling geschikt is en stelt de aldus verzamelde informatie ter beschikking van het publiek.<br>
 <br>
-§ 2. Onverminderd § 5 neemt de administratie op gemotiveerd verzoek van de initiatiefnemer een beslissing over de toepassing van de rapportageverplichting, bedoeld in artikel 4.3.2, §§ 2, 3 en 4.<br>
+§ 2. In de gevallen, vermeld in artikel 4.3.2, § 2bis en § 3bis, waarvoor een project-m.e.r.-screeningsnota werd opgesteld, neemt de overheid die beslist over de ontvankelijkheid en volledigheid van de vergunningsaanvraag, een beslissing of er een project-MER moet worden opgesteld. Zij doet dat op het ogenblik van en als onderdeel van de beslissing over de ontvankelijkheid en volledigheid van de vergunningsaanvraag. De beslissing dat al dan niet een project-MER moet worden opgesteld, wordt ter beschikking van het publiek gesteld op de wijze, bepaald door de Vlaamse Regering. De Vlaamse Regering kan verder inzake de project-m.e.r.-screening nadere regels vaststellen en kan de vorm en de inhoudelijke elementen van de project-m.e.r.-screeningsnota bepalen.<br>
 <br>
-§ 3. In de gevallen bedoeld in artikel 4.3.2 kan de initiatiefnemer een gemotiveerd verzoek tot ontheffing van de rapportageverplichting indienen bij de administratie.<br>
+§ 3. In de gevallen , vermeld in artikel 4.3.2, § 2 en § 3, kan de initiatiefnemer een gemotiveerd verzoek tot ontheffing van de rapportageverplichting indienen bij de administratie.<br>
 <br>
-Onverminderd § 5 en voor zover het voorgenomen project niet valt onder de toepassing van de lijst van projecten die door de Vlaamse regering overeenkomstig artikel 4.3.2., § 1, is vastgesteld, kan de administratie een project toch ontheffen van milieueffectrapportage als ze oordeelt dat:<br>
-<br>
-1° vroeger al een plan-MER werd goedgekeurd betreffende een plan of programma waarin een project&nbsp;met&nbsp;vergelijkbare effecten beoordeeld werd&nbsp;of een project-MER werd goedgekeurd betreffende een project waarvan het voorgenomen initiatief een herhaling, voortzetting of alternatief is, en een nieuw project-MER redelijkerwijze geen nieuwe of bijkomende gegevens over aanzienlijke milieueffecten kan bevatten; of<br>
-<br>
+Voor zover het voorgenomen project niet valt onder de toepassing van de lijst van projecten die door de Vlaamse regering overeenkomstig artikel 4.3.2., § 1, is vastgesteld, kan de administratie een project toch ontheffen van de verplichting tot het opstellen van een project-MER als ze oordeelt dat:<br>
+1° vroeger al een plan-MER werd goedgekeurd betreffende een plan of programma waarin een project met vergelijkbare effecten beoordeeld werd of een project-MER werd goedgekeurd betreffende een project waarvan het voorgenomen initiatief een herhaling, voortzetting of alternatief is, en een nieuw project-MER redelijkerwijze geen nieuwe of bijkomende gegevens over aanzienlijke milieueffecten kan bevatten; of<br>
 2° een toetsing aan de criteria van bijlage II uitwijst dat het voorgenomen project geen aanzienlijke gevolgen kan hebben voor het milieu en een project-MER redelijkerwijze geen nieuwe of bijkomende gegevens over aanzienlijke milieueffecten kan bevatten.<br>
 <br>
-§ 4. Het verzoek, bedoeld in §§ 1, 2 of 3, bevat ten minste:<br>
-<br>
+§ 4. Het verzoek, vermeld in paragraaf 1 of 3, bevat ten minste:<br>
 1° een beschrijving en verduidelijking van het voorgenomen project met inbegrip van de ruimtelijke situering ervan; de ruimtelijke situering bevat minstens een uittreksel van de ruimtelijke uitvoeringsplannen of de vigerende plannen van aanleg en van de topografische kaarten van de omgeving;<br>
-<br>
-2° in voorkomend geval de gegevens die de administratie nodig heeft voor het aanvangen van de grensoverschrijdende informatie-uitwisseling, bedoeld in § 5;<br>
-<br>
+2° ...<br>
 3° de verantwoording voor het verzoek en alle relevante gegevens ter staving ervan.<br>
 <br>
 De initiatiefnemer bezorgt het verzoek aan de administratie door betekening of tegen ontvangstbewijs.<br>
 <br>
-§ 5. Als het project aanzienlijke effecten kan hebben voor mens of milieu in andere lidstaten van de Europese Unie en/of in verdragspartijen bij het Verdrag inzake milieueffectrapportage in grensoverschrijdend verband ondertekend in Espoo op 25 februari 1991 en/of in andere gewesten of als de bevoegde autoriteiten van deze lidstaten, verdragspartijen en/of gewesten daarom verzoeken, bezorgt de administratie onverwijld de volgende informatie aan de bevoegde autoriteiten van de betrok-ken lidstaten, verdragspartijen en/of gewesten:<br>
-<br>
-1° een afschrift van het verzoek, bedoeld in §§ 1, 2 of 3;<br>
-<br>
-2° een beschrijving van de rapportageprocedure die op het voorgenomen project van toepassing is;<br>
-<br>
-3° een aanduiding van de vergunningsplicht waaraan het voorgenomen project is onderworpen en een beschrijving van het doel ervan, alsook van de toepasselijke vergunningsprocedure(s).<br>
-<br>
-De zending bevat de vermelding dat de bevoegde autoriteiten binnen een termijn van dertig dagen na de verzending van het afschrift, hun commentaar aan de administratie kunnen meedelen.<br>
+§ 5. ...<br>
 <br>
 § 6. De Vlaamse regering, respectievelijk de administratie, neemt onverwijld en uiterlijk binnen een termijn van zestig dagen na ontvangst van het verzoek een beslissing. In voorkomend geval bevat de beslissing tevens de voorwaarden die aan de vrijstelling of de ontheffing zijn verbonden.<br>
 <br>
@@ -658,17 +645,15 @@ De ontheffing, bedoeld in § 3, wordt verleend voor een beperkte duur. Ze verval
 <br>
 De beslissing wordt binnen een termijn van zeventig dagen na ontvangst van het verzoek bekendgemaakt, ter inzage gelegd bij de administratie en aan de initiatiefnemer betekend. In voorkomend geval maakt de initiatiefnemer de beslissing over aan het Comité voor de Preventie en Bescherming op het Werk en de milieucoördinator.<br>
 <br>
-§ 7. De initiatiefnemer kan een gemotiveerd verzoek tot heroverweging van de beslissing, bedoeld in §§ 2 of 3, aan de administratie betekenen of afgeven tegen ontvangstbewijs. Artikel 4.6.4 is van overeenkomstige toepassing.<br>
+§ 7. De initiatiefnemer kan een gemotiveerd verzoek tot heroverweging van de beslissing, vermeld in paragraaf 3, aan de administratie betekenen of afgeven tegen ontvangstbewijs. Artikel 4.6.4 is van overeenkomstige toepassing.<br>
 <br>
 § 8. De definitieve beslissing wordt door de initiatiefnemer gevoegd bij de vergunningsaanvraag.<br>
 <br>
 § 9. De administratie zorgt ervoor dat een afschrift van de definitieve beslissing onverwijld en in ieder geval voor de vergunningsbeslissing wordt verstuurd naar:<br>
+1° in de gevallen, vermeld in paragraaf 1, de Commissie van de Europese Gemeenschap;<br>
+2°...<br>
 <br>
-1° in de gevallen bedoeld in §§ 1 en 3, de Commissie van de Europese Gemeenschap;<br>
-<br>
-2° in voorkomend geval de bevoegde autoriteiten van de gewesten, lidstaten en verdragspartijen, bedoeld in § 5.<br>
-<br>
-§ 10. De Vlaamse regering kan nadere regelen vaststellen inzake de vrijstelling, de ontheffing en de toepassing van de rapportageverplichting. (ing. decr. 18 december 2002, art. 4, I: 13 februari 2003) ]
+§ 10. De Vlaamse regering kan nadere regelen vaststellen inzake de vrijstelling en de ontheffing van de verplichting tot het opstellen van een project-MER.
 
 ## [AFDELING 2 AANMELDING EN INHOUDSAFBAKENING VAN HET VOORGENOMEN PROJECT-MER (verv. decr. 25 april 2014, art. 157, I: 23 februari 2017)]
 
@@ -918,23 +903,18 @@ Op de erkenning van deskundigen en coördinatoren zijn de bepalingen van hoofdst
 
 § 1. Op gemotiveerd verzoek van de initiatiefnemer kan de administratie na advies van een adviescommissie de door de initiatiefnemer gespecificeerde elementen van volgende beslissingen in heroverweging nemen:<br>
 1° inzake milieueffectrapportage :<br>
-a) het toepassen van de verplichting tot het opstellen van een project-MER, bedoeld in artikel 4.3.3, §§ 2 en 3;<br>
+a) het toepassen van de verplichting tot het opstellen van een project-MER,vermeld in artikel 4.3.3, § 3;<br>
 b) de inhoudelijke vereisten en de verstrekte richtlijnen betreffende f project-MER, bedoeld in respectievelijk artikel 4.3.5, § 1;<br>
 c) de afkeuring van het plan-MER of project-MER, bedoeld in respectievelijk artikel 4.2.10, § 2, en artikel 4.3.8, § 2;<br>
-<br>
 2° inzake veiligheidsrapportage:<br>
-<br>
 a) de inhoudelijke vereisten en de verstrekte richtlijnen betreffende het omgevingsveiligheidsrapport, bedoeld in artikel 4.5.3, § 1;<br>
-<br>
 b) de afkeuring van het ruimtelijk veiligheidsrapport of het omgevingsveiligheidsrapport, bedoeld in respectievelijk artikel 4.4.4 en artikel 4.5.7.<br>
 <br>
 <br>
 § 2. De verzoeker betekent zijn verzoek aan de administratie, of geeft het af tegen ontvangstbewijs, binnen een termijn van twintig dagen na ontvangst van de beslissing, bedoeld in 1.<br>
 <br>
 § 3. Binnen een termijn van twintig dagen na ontvangst van het verzoek, bedoeld in § 2, wijst de leidend ambtenaar van de administratie drie of vijf leden van de adviescommissie aan. Deze leden zijn:<br>
-<br>
 1° ofwel, deskundigen met ervaring op het gebied van de beoordeling van milieueffecten of risico's op zware ongevallen die geen rapporten opstellen overeenkomstig dit decreet; ze kunnen wel actief zijn in andere gewesten, in het kader van federale regelgeving of in het buitenland;<br>
-<br>
 2° ofwel, deskundigen op het vlak van de problematiek die aan de adviescommissie wordt voorgelegd die evenwel geen erkende deskundigen zijn.<br>
 <br>
 De leden van de adviescommissie wijzen een voorzitter aan.<br>
@@ -952,12 +932,10 @@ In alle andere gevallen neemt de administratie een beslissing onverwijld en binn
 De administratie keurt het rapport goed of af. Als de administratie het rapport afkeurt, geeft ze alle punten aan waarop het tekortschiet.<br>
 <br>
 § 6. De administratie bezorgt de beslissing onverwijld en binnen een termijn van tachtig dagen na ontvangst van het verzoek, bedoeld in § 2, aan:<br>
-<br>
 1° de initiatiefnemer en de verzoeker, door betekening;<br>
-<br>
 2° in voorkomend geval de door de Vlaamse regering aangewezen betrokkenen.<br>
 <br>
-§ 7. De Vlaamse regering kan nadere regelen vaststellen betreffende de instelling, de vergoeding en de werking van de adviescommissie. (ing. decr. 18 december 2002, art. 4, I: 13 februari 2003) ]
+§ 7. De Vlaamse regering kan nadere regelen vaststellen betreffende de instelling, de vergoeding en de werking van de adviescommissie.
 
 ## [HOOFDSTUK VII TOEZICHTS- EN STRAFBEPALINGEN (ing. decr. 18 december 2002, art. 4)]
 
@@ -2404,7 +2382,7 @@ De criteria overeenkomstig artikel 4.2.3, § 2, 2°, en artikel 4.2.3, § 3 zijn
 
 ### BIJLAGE 2
 
-De criteria overeenkomstig artikel 4.3.2, §§ 1, 2, 3 en 4, en artikel 4.3.3., § 2 zijn:<br /><br />1. kenmerken van de projecten. Bij de kenmerken van de projecten moeten in het bijzonder de volgende aspecten in overweging worden genomen:<br /><br />a. de omvang van het project;<br /><br />b. de cumulatie met andere projecten;<br /><br />c. het gebruik van natuurlijke hulpbronnen;<br /><br />d. de productie van afvalstoffen;<br /><br />e. verontreiniging en hinder;<br /><br />f. risico op ongevallen, met name gelet op de gebruikte stoffen of technologieën;<br /><br />2. plaats van de projecten. Bij de mate van kwetsbaarheid van het milieu in de gebieden waarop de projecten van invloed kunnen zijn moeten in het bijzonder de volgende aspecten in overweging worden genomen:<br /><br />a. het bestaande grondgebruik;<br /><br />b. de relatieve rijkdom aan en de kwaliteit en het regeneratievermogen van de natuurlijke hulpbronnen van het gebied;<br /><br />c. het opnamevermogen van het natuurlijke milieu, met in het bijzonder aandacht voor de volgende typen gebieden:<br /><br />- wetlands;<br /><br />- kustgebieden;<br /><br />- berg- en bosgebieden;<br /><br />- reservaten en natuurparken;<br /><br />- gebieden die in de wetgeving van de lidstaten zijn aangeduid of door die wetgeving worden beschermd; speciale beschermingszones, door de lidstaten aangewezen krachtens Richtlijn 79/409/EEG en Richtlijn 92/43/EEG;<br /><br />- gebieden waarin de normen inzake milieukwaliteit die door de communautaire wetgeving zijn vastgesteld, al worden overschreden;<br /><br />- gebieden met een hoge bevolkingsdichtheid;<br /><br />- landschappen van historisch, cultureel of archeologisch belang;<br /><br />3. kenmerken van het potentiële effect. Bij de potentiële aanzienlijke effecten van het project moeten in samenhang met de criteria van de punten 1 en 2 in het bijzonder de volgende aspecten in overweging worden genomen:<br /><br />a. het bereik van het effect (geografische zone en omvang van de getroffen bevolking);<br /><br />b. het grensoverschrijdende karakter van het effect;<br /><br />c. de orde van grootte en de complexiteit van het effect;<br /><br />d. de waarschijnlijkheid van het effect;<br /><br />e. de duur, de frequentie en de omkeerbaarheid van het effect.  <span class="reference">(ing. decr. 18 december 2002, art. 5, I: 13 februari 2003)</span> ]
+De criteria overeenkomstig artikel 4.3.2, § 1, § 2, § 2bis, § 3, § 3bis en § 4, zijn : <br />1. kenmerken van de projecten. Bij de kenmerken van de projecten moeten in het bijzonder de volgende aspecten in overweging worden genomen:<br />a. de omvang van het project;<br />b. de cumulatie met andere projecten;<br />c. het gebruik van natuurlijke hulpbronnen;<br />d. de productie van afvalstoffen;<br />e. verontreiniging en hinder;<br />f. risico op ongevallen, met name gelet op de gebruikte stoffen of technologieën;<br />2. plaats van de projecten. Bij de mate van kwetsbaarheid van het milieu in de gebieden waarop de projecten van invloed kunnen zijn moeten in het bijzonder de volgende aspecten in overweging worden genomen:<br />a. het bestaande grondgebruik;<br />b. de relatieve rijkdom aan en de kwaliteit en het regeneratievermogen van de natuurlijke hulpbronnen van het gebied;<br />c. het opnamevermogen van het natuurlijke milieu, met in het bijzonder aandacht voor de volgende typen gebieden:<br />- wetlands;<br />- kustgebieden;<br />- berg- en bosgebieden;<br />- reservaten en natuurparken;<br />- gebieden die in de wetgeving van de lidstaten zijn aangeduid of door die wetgeving worden beschermd; speciale beschermingszones, door de lidstaten aangewezen krachtens Richtlijn 79/409/EEG en Richtlijn 92/43/EEG;<br />- gebieden waarin de normen inzake milieukwaliteit die door de communautaire wetgeving zijn vastgesteld, al worden overschreden;<br />- gebieden met een hoge bevolkingsdichtheid;<br />- landschappen van historisch, cultureel of archeologisch belang;<br />3. kenmerken van het potentiële effect. Bij de potentiële aanzienlijke effecten van het project moeten in samenhang met de criteria van de punten 1 en 2 in het bijzonder de volgende aspecten in overweging worden genomen:<br />a. het bereik van het effect (geografische zone en omvang van de getroffen bevolking);<br />b. het grensoverschrijdende karakter van het effect;<br />c. de orde van grootte en de complexiteit van het effect;<br />d. de waarschijnlijkheid van het effect;<br />e. de duur, de frequentie en de omkeerbaarheid van het effect.
 
 ## [BIJLAGE IIbis INFORMATIE OP TE NEMEN IN HET PROJECT-MER ALS VERMELD IN ARTIKEL 4.3.7, § 1 (ing. decr. 23 december 2016, art. 13, I: te bepalen door de Vlaamse Regering)]
 
