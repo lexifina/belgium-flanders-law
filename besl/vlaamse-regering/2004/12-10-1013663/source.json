@@ -2,16 +2,16 @@
   "codex_id": 1013663,
   "title": "Besluit van de Vlaamse Regering van 2004-12-10 houdende vaststelling van de categorieën van projecten onderworpen aan milieueffectrapportage",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013663/VolledigDocument?datum=2011-09-06",
-  "source_sha256": "a96e43a98a6c6d5d80ec51041cb7ed58c531b10679e693bdf91fa7cabb0e5782",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013663/VolledigDocument?datum=2013-04-29",
+  "source_sha256": "4c923196f96e339bba02ebb8349622f349df62ab570b42a8a92b05e403f0bdcd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013663&param=informatie",
-  "as_of": "2011-09-06",
+  "as_of": "2013-04-29",
   "made": "2004-12-10",
   "gazette": "2005-02-17",
   "numac": 2005035170,
   "document_start": "2005-02-27",
   "document_end": "2025-11-30",
-  "in_force": "2011-09-06",
-  "article_versions": 6,
-  "record_form": "consolidated version as in force on 2011-09-06; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-04-29",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2013-04-29; future article versions excluded; article text as the API gives it"
 }
