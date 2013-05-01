@@ -1,0 +1,13 @@
+# Besluit van de Vlaamse Regering van 2013-11-08 tot wijziging van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke- assistentiebudget aan personen met een handicap, wat betreft het programmatiecijfer, rechtzetting materiële vergissing en overeenstemming met VIA4-akkoord
+
+### Aanhef
+
+<P>De Vlaamse Regering,<BR></P>  <P>Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der   instellingen, artikel 20, gewijzigd bij de bijzondere wet van 16 juli   1993;<BR></P>  <P>Gelet op het decreet van 7 mei 2004 tot oprichting van het intern   verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor   Personen met een Handicap, artikel 7, artikel 8, gewijzigd bij het decreet van   21 juni 2013, en artikel 19, vervangen bij het decreet van 20 maart   2009;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 15 december 2000 houdende   vaststelling van de voorwaarden van toekenning van een persoonlijke-   assistentiebudget aan personen met een handicap; <BR></P>  <P>Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting,   gegeven op 7 november 2013;<BR></P>  <P>Gelet op de wetten op de Raad van State, gecoördineerd op 12 januari 1973,   artikel 3, § 1; <BR></P>  <P>Gelet op de dringende noodzakelijkheid; <BR></P>  <P>Overwegende dat het programmatiecijfer dringend moet worden verhoogd om de   PAB-budgetten die vastgelegd zijn voor 2013, te kunnen toekennen;<BR></P>  <P>Overwegende dat het PAB-besluit dringend aangepast moet worden om het   VIA4-akkoord zijn uitwerking te kunnen geven;<BR></P>  <P>Op voorstel van de Vlaamse minister van Welzijn, Volksgezondheid en Gezin;   <BR></P>  <P>Na beraadslaging,<BR></P>  <P>Besluit : <BR></P>
+
+### ART. 1.
+
+In artikel 4, eerste lid, van het besluit van de Vlaamse Regering van 15   december 2000 houdende vaststelling van de voorwaarden van toekenning van een   persoonlijke-assistentiebudget aan personen met een handicap, vervangen bij het   besluit van de Vlaamse Regering van 18 juli 2003, en gewijzigd bij het besluit   van de Vlaamse Regering van 6 september 2013, wordt het getal "2200" vervangen   door het getal "2600".<BR>
+
+### ART. 3.
+
+In artikel 10 van hetzelfde besluit, het laatst gewijzigd bij het besluit   van de Vlaamse Regering van 19 oktober 2012, worden de volgende wijzigingen   aangebracht: <BR>1° aan paragraaf 3, 6°, worden de woorden "met uitzondering van   woon- werkverkeer van de persoonlijke assistent, tewerkgesteld met een   arbeidsovereenkomst als vermeld in artikel 12, eerste lid, 1°. "   toegevoegd;<BR>2° in paragraaf 4, vijfde lid, worden de woorden "derde lid"   vervangen door de woorden "vierde lid".<BR>
