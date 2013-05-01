@@ -369,7 +369,7 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>NACEBEL 2008 <!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			<p>NACEBEL 2008</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Activiteit</p>
@@ -512,12 +512,72 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			</td>
 		</tr>
 		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10110</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Verwerking en conservering van vlees, exclusief vlees van gevogelte</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10120</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Verwerking en conservering van gevogelte</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10130</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Vervaardiging van producten van vlees of van vlees van gevogelte</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10200</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Verwerking en conservering van vis en van schaal- en weekdieren</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10311</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Verwerking en conservering van aardappelen, exclusief productie van diepgevroren aardappelbereidingen</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10312</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Productie van diepgevroren aardappelbereidingen</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10320</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Vervaardiging van groente- en fruitsappen</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10391</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Verwerking en conservering van groenten, exclusief productie van diepgevroren groenten</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10392</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Verwerking en conservering van fruit, exclusief productie van diepgevroren fruit</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10393</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Productie van diepgevroren groenten en fruit</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10410</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Vervaardiging van oliën en vetten</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10420</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Vervaardiging van margarine en andere spijsvetten</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10510</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Zuivelfabrieken en kaasmakerijen</td>
+		</tr>
+		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>10520</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Vervaardiging van consumptie-ijs</p>
 			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10610</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Vervaardiging van maalderijproducten</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10620</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Vervaardiging van zetmeel en zetmeelproducten</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
@@ -552,6 +612,10 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			</td>
 		</tr>
 		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10810</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Vervaardiging van suiker</td>
+		</tr>
+		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>10820</p>
 			</td>
@@ -560,11 +624,19 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			</td>
 		</tr>
 		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10830</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Verwerking van thee en koffie</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10840</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Vervaardiging van specerijen, sauzen en kruiderijen</td>
+		</tr>
+		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>10850</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Vervaardiging van bereide maaltijden en schotels (enkel vervaardiging van voorgebakken pizza (van industriële bakkerijen))</p>
+			<p>Vervaardiging van bereide maaltijden en schotels</p>
 			</td>
 		</tr>
 		<tr>
@@ -584,6 +656,14 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			</td>
 		</tr>
 		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10910</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Vervaardiging van veevoeders</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">10920</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Vervaardiging van voeders voor huisdieren</td>
+		</tr>
+		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>11010</p>
 			</td>
@@ -592,12 +672,28 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			</td>
 		</tr>
 		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">11020</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Vervaardiging van wijn uit druiven</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">11030</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Vervaardiging van cider en van andere vruchtenwijnen</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">11040</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Vervaardiging van andere niet-gedistilleerde gegiste dranken</td>
+		</tr>
+		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>11050</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Vervaardiging van bier</p>
 			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">11060</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">Vervaardiging van mout</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
@@ -3092,7 +3188,7 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			<p>46211</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Groothandel in granen en zaden (*)</p>
+			<p>Groothandel in granen en zaden</p>
 			</td>
 		</tr>
 		<tr>
@@ -3100,7 +3196,7 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			<p>46212</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Groothandel in veevoeders (*)</p>
+			<p>Groothandel in veevoeders</p>
 			</td>
 		</tr>
 		<tr>
@@ -3116,7 +3212,7 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			<p>46214</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Groothandel in andere akkerbouwproducten (*)</p>
+			<p>Groothandel in andere akkerbouwproducten</p>
 			</td>
 		</tr>
 		<tr>
@@ -3132,7 +3228,7 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			<p>46216</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Groothandel in akkerbouwproducten en veevoeders, algemeen assortiment (*)</p>
+			<p>Groothandel in akkerbouwproducten en veevoeders, algemeen assortiment</p>
 			</td>
 		</tr>
 		<tr>
@@ -3140,7 +3236,7 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			<p>46220</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Groothandel in bloemen en planten (*)</p>
+			<p>Groothandel in bloemen en planten</p>
 			</td>
 		</tr>
 		<tr>
@@ -3148,7 +3244,7 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			<p>46231</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Groothandel in levend vee (*)</p>
+			<p>Groothandel in levend vee</p>
 			</td>
 		</tr>
 		<tr>
@@ -3156,7 +3252,7 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			<p>46232</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Groothandel in levende dieren, m.u.v. levend vee (*)</p>
+			<p>Groothandel in levende dieren, m.u.v. levend vee</p>
 			</td>
 		</tr>
 		<tr>
@@ -3172,7 +3268,7 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			<p>46311</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Groothandel in consumptieaardappelen (*)</p>
+			<p>Groothandel in consumptieaardappelen</p>
 			</td>
 		</tr>
 		<tr>
@@ -3180,7 +3276,7 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			<p>46319</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Groothandel in groenten en fruit, m.u.v. consumptieaardappelen (*)</p>
+			<p>Groothandel in groenten en fruit, m.u.v. consumptieaardappelen</p>
 			</td>
 		</tr>
 		<tr>
@@ -3188,7 +3284,7 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			<p>46321</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Groothandel in vlees en vleesproducten, uitgezonderd vlees van wild en van gevogelte (*)</p>
+			<p>Groothandel in vlees en vleesproducten, uitgezonderd vlees van wild en van gevogelte</p>
 			</td>
 		</tr>
 		<tr>
@@ -3196,7 +3292,7 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			<p>46322</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Groothandel in vlees van wild en van gevogelte (*)</p>
+			<p>Groothandel in vlees van wild en van gevogelte</p>
 			</td>
 		</tr>
 		<tr>
@@ -3204,7 +3300,7 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			<p>46331</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Groothandel in zuivelproducten en eieren (*)</p>
+			<p>Groothandel in zuivelproducten en eieren</p>
 			</td>
 		</tr>
 		<tr>
@@ -3260,7 +3356,7 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			<p>46381</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Groothandel in vis en schaal- en weekdieren (*)</p>
+			<p>Groothandel in vis en schaal- en weekdieren</p>
 			</td>
 		</tr>
 		<tr>
@@ -3268,7 +3364,7 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			<p>46382</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Groothandel in aardappelproducten (*)</p>
+			<p>Groothandel in aardappelproducten</p>
 			</td>
 		</tr>
 		<tr>
@@ -5852,7 +5948,7 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 			<p>82300</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Organisatie van congressen en beurzen (met uitzondering van markten, veilingen, salons, tentoonstellingen en beurzen inzake landbouw-, tuinbouw- en visserijproducten)</p>
+			<p>Organisatie van congressen en beurzen</p>
 			</td>
 		</tr>
 		<tr>
@@ -6332,7 +6428,5 @@ De Vlaamse minister, bevoegd voor de economie, is belast met de uitvoering van d
 
 <p>&nbsp;</p>
 
-<p>Nota<br>
-(*) : In de productieketen wordt de scheidingslijn tussen de bevoegdheidsdomeinen Economie en Landbouw gelegd op het moment van de productie en verwerking van de landbouwproducten. Groothandelsactiviteiten i.v.m. het toeleveren aan de verwerkende industrie behoren tot het bevoegdheidsdomein Landbouw. Groothandelsactiviteiten die betrekking hebben op de verdeling van afgewerkte producten naar de detailhandel of consument toe, behoren tot het bevoegdheidsdomein Economie.<br>
-<br>
+<p><br>
 &nbsp;</p>
