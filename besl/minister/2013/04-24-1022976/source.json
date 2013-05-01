@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022976,
+  "title": "Ministerieel besluit van 2013-04-24 tot wijziging van de bijlage bij het besluit van de Vlaamse Regering van 17 december 2010 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022976/VolledigDocument?datum=2013-05-01",
+  "source_sha256": "22d34ed7dca56f63c98e5161ce9deb57ea3082790a1aee05f9b9636e95ba8ba9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022976&param=informatie",
+  "as_of": "2013-05-01",
+  "made": "2013-04-24",
+  "gazette": "2013-06-12",
+  "numac": 2013035425,
+  "document_start": "2013-05-01",
+  "document_end": null,
+  "in_force": "2013-05-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
