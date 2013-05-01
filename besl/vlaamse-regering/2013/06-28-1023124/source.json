@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023124,
+  "title": "Besluit van de Vlaamse Regering van 2013-06-28 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 24 november 1998 betreffende de regels voor het uitreiken van het getuigschrift basisonderwijs en het vastleggen van de vorm ervan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023124/VolledigDocument?datum=2013-05-01",
+  "source_sha256": "b54b9a1a0242c10b97f59043827be4cbd071bf89361a213d0315022c6a990cfb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023124&param=informatie",
+  "as_of": "2013-05-01",
+  "made": "2013-06-28",
+  "gazette": "2013-07-29",
+  "numac": 2013035656,
+  "document_start": "2013-05-01",
+  "document_end": null,
+  "in_force": "2013-05-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2013-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
