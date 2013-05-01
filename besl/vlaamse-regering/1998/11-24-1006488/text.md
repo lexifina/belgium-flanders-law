@@ -22,19 +22,19 @@ Om in toepassing van artikel 54 van het decreet de onderwijsinspectie toe te lat
 
 ### ART. 6.
 
-Op basis van artikel 56 van het decreet worden volgende scholen aangeduid om als examencommissie op te treden voor leerplichtigen die lager onderwijs volgen via huisonderwijs of in een niet-erkende school en voor iedereen die tenminste 9 jaar is - behoudens, in uitzonderlijke omstandigheden, afwijking verleend wordt door de Vlaamse minister bevoegd voor het onderwijs, hierna deelnemer genoemd,:<br />- gemeentelijke basisschool, Onderwijsstraat 19, te 2540 Hove;<br />- gesubsidieerde vrije basisschool, Kasteelpleinstraat 31 te 2000 Antwerpen; <br />- basisschool van het gemeenschapsonderwijs, Hoogveldweg 5, te 3012 Wilsele; <br />- gesubsidieerde vrije basisschool, Halleweg 220, te 1500 Halle;<br />- gesubsidieerde basisschool van het gemeenschapsonderwijs, Sacramentstraat 70, te 3700 Tongeren;<br />- gesubsidieerde vrije lagere school, Kloosterstraat 6, 3930 Hamont-Achel;<br />- stedelijke lagere school, Neermeerskaai 2, te 9000 Gent;<br />- gesubsidieerde vrije basisschool, Sas 38, te 9200 Dendermonder;<br />- gemeentelijke basisschool, Dorpsstraat 4, te 8670 Oostduinkerke;<br />- gesubsidieerde vrije basisschool, Fortuinstraat 29, te 8310 Brugge.
+De examencommissies vermeld in artikel 56 van het decreet, zijn   toegankelijk voor iedereen die ten minste negen jaar is.
 
 ### ART. 7.
 
-De in artikel 6 bedoelde scholen engageren zich om via examens na te gaan of de deelnemer het getuig-schrift basisonderwijs kan bekomen; de organiserende school staat tijdens de examenperiode in voor het toezicht op de deelnemers van het examen en reikt een getuigschrift basisonderwijs uit aan de geslaagden.
+De examencommissies vermeld in artikel 56 van het decreet engageren zich   om via examens na te gaan of de deelnemer het getuig-schrift basisonderwijs kan   bekomen; de organiserende school staat tijdens de examenperiode in voor het   toezicht op de deelnemers van het examen en reikt een getuigschrift   basisonderwijs uit aan de geslaagden.
 
 ### ART. 8.
 
-Het Agentschap voor Kwaliteitszorg in Onderwijs en Vorming laat elk schooljaar vóór 15 mei een mededeling van het examen verschijnen, met de vermelding van de twee schooladressen per provincie, in het Belgisch Staatsblad en in tenminste twee kranten.
+Het Agentschap voor Kwaliteitszorg in Onderwijs en Vorming laat elk   schooljaar vóór 15 mei een mededeling van het examen verschijnen, met de   vermelding van de twee schooladressen per provincie, in het Belgisch Staatsblad   en ten minste op de website van dit agentschap.
 
 ### ART. 9.
 
-De deelnemer zelf of in voorkomend geval de ouder, deelt uiterlijk op 1 juni bij aangetekend schrijven aan de schooldirectie van de gekozen school mee dat hij of zij, in voorkomend geval dat zijn/haar kind wenst deel te nemen aan het examen voor het behalen van het getuigschrift basisonderwijs.
+De deelnemer zelf of in voorkomend geval de ouder, deelt uiterlijk op 1   juni schriftelijk aan de schooldirectie van de gekozen school mee dat hij of   zij, in voorkomend geval dat zijn/haar kind wenst deel te nemen aan het examen   voor het behalen van het getuigschrift basisonderwijs.
 
 ### ART. 10.
 
