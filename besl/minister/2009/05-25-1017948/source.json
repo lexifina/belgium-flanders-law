@@ -2,16 +2,16 @@
   "codex_id": 1017948,
   "title": "Ministerieel besluit van 2009-05-25 betreffende indexatie van de bedragen van de tegemoetkoming in de huurprijs",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017948/VolledigDocument?datum=2009-05-01",
-  "source_sha256": "1dbbf254fb34446283a9224b94ce75b92e2e4d4650a71ccef9e16cd8fe998ffd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017948/VolledigDocument?datum=2013-05-01",
+  "source_sha256": "d1047956f43ce3119d957c8d600c542d0318075c2c4f745d5ff3baf12ded7a60",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017948&param=informatie",
-  "as_of": "2009-05-01",
+  "as_of": "2013-05-01",
   "made": "2009-05-25",
   "gazette": "2009-06-05",
   "numac": 2009035503,
   "document_start": "2009-05-01",
   "document_end": "2013-04-30",
-  "in_force": "2009-05-01",
+  "in_force": "2013-05-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2009-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-05-01; future article versions excluded; article text as the API gives it"
 }

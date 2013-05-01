@@ -6,56 +6,8 @@ De Vlaamse minister van Binnenlands Bestuur, Stedenbeleid, Wonen en Inburgering,
 
 ### ART. 1.
 
-De bedragen van 100, 80 en 60 euro, vermeld in artikel 8, § 1, eerste lid, van het besluit van de Vlaamse Regering van 2 februari 2007 tot instelling van een tegemoetkoming in de huurprijs voor woonbehoeftige huurders, en de bedragen van 60 en 360 euro, vermeld in artikel 9, § 2, eerste lid, van hetzelfde besluit, worden aangepast in verhouding tot de evolutie van het gezondheidsindexcijfer.<br>
-<br>
-De geïndexeerde bedragen worden opgenomen in onderstaande tabel en staan tegenover het oorspronkelijk bedrag zonder indexatie.
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; width:144.75pt">
-			<p>Oorspronkelijk bedrag<!--?xml:namespace prefix = o ns         = "urn:schemas-microsoft-com:office:office" /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; width:5cm">
-			<p>Bedrag na indexatie</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; width:144.75pt">
-			<p>100 euro</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; width:5cm">
-			<p>106,50 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; width:144.75pt">
-			<p>80 euro</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; width:5cm">
-			<p>85,20 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; width:144.75pt">
-			<p>60 euro</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; width:5cm">
-			<p>63,90 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; width:144.75pt">
-			<p>360 euro</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; width:5cm">
-			<p>383,40 euro</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
+...
 
 ### ART. 2.
 
-Dit besluit treedt in werking op 1 mei 2009.
+...
