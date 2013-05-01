@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023069,
+  "title": "Besluit van de Vlaamse Regering van 2013-05-17 betreffende de loopbaanbegeleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023069/VolledigDocument?datum=2013-05-01",
+  "source_sha256": "57d1b70992392408ea8ae472c349828443df117f157c4433c986282f81da13a4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023069&param=informatie",
+  "as_of": "2013-05-01",
+  "made": "2013-05-17",
+  "gazette": "2013-07-11",
+  "numac": 201335615,
+  "document_start": "2013-07-01",
+  "document_end": "2028-06-30",
+  "in_force": "2013-05-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2013-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
