@@ -162,10 +162,6 @@ Dit hoofdstuk is niet van toepassing op erkenningen van rechtswege.<br /><br />
 
 ## Afdeling 5 Bekendmaking van de beslissing
 
-### ART. 30.
-
-De beslissing wordt binnen een termijn van veertien dagen, te rekenen   vanaf de dag na de datum van de ondertekening van de beslissing, betekend door   de afdeling met een aangetekende brief of, als de aanvraag elektronisch werd   ingediend, met een elektronisch bericht van het één-loket.
-
 ## HOOFDSTUK 6 Gelijkwaardigheid van titels ten aanzien van erkenningen
 
 ### ART. 31.
