@@ -2,16 +2,16 @@
   "codex_id": 1013938,
   "title": "Ministerieel besluit van 2005-06-28 houdende bepaling van de analysepaketten waarvoor laboratoria kunnen erkend worden",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013938/VolledigDocument?datum=2009-03-01",
-  "source_sha256": "a9859e6cf8ac75558d6359624287ce8b4b1e0b4954065f48172b1bc0426bc35a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013938/VolledigDocument?datum=2013-05-03",
+  "source_sha256": "ad1360b1791d4a2b91d09d89f54ccbcd2ae029c624c63cea4debe0e97ee6f70d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013938&param=informatie",
-  "as_of": "2009-03-01",
+  "as_of": "2013-05-03",
   "made": "2005-06-28",
   "gazette": "2005-08-24",
   "numac": 2005035969,
   "document_start": "2004-12-01",
   "document_end": "2013-05-02",
-  "in_force": "2009-03-01",
+  "in_force": "2013-05-03",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2009-03-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-05-03; future article versions excluded; article text as the API gives it"
 }
