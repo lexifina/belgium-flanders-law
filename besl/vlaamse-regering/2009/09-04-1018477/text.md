@@ -8,11 +8,11 @@ De Vlaamse Regering,<br /><br />Gelet op Verordening (EG) nr. 2037/2000 van het 
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br />1° koelinstallatie: het geheel van de onderdelen en apparaten die nodig zijn voor de werking van een koelsysteem. Luchtconditioneringsinstallaties en warmtepompen die een koelsysteem bevatten, worden ook als koelinstallaties beschouwd;<br />2° titel II van het VLAREM : het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne en de latere wijzigingen ervan;<br />3° ozonafbrekende stoffen: de stoffen, vermeld in bijlage I van Verordening (EG) nr. 2037/2000 van het Europees Parlement en de Raad van 29 juni 2000 betreffende de ozonlaag afbrekende stoffen en de latere wijzigingen ervan, afzonderlijk of in een mengsel;<br />4° gefluoreerde broeikasgassen: de stoffen, vermeld in bijlage I van Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van 17 mei 2006 inzake bepaalde gefluoreerde broeikasgassen en de latere wijzigingen ervan, afzonderlijk of in een mengsel;<br />5° werkzaamheden aan koelinstallaties : werkzaamheden aan koelinstallaties waarbij er een mogelijk risico op emissies van ozonafbrekende stoffen of gefluoreerde broeikasgassen bestaat. Hiermee wordt de uitvoering van de volgende activiteiten bedoeld :<br />a) installatie;<br />b) onderhoud of revisie;<br />c) terugwinning voor recycling, regeneratie of vernietiging van ozonafbrekende stoffen of gefluoreerde broeikasgassen;<br />d) controle op lekkage;<br />6° installatie : aaneenkoppeling van twee of meer apparatuuronderdelen of circuits die ozonafbrekende stoffen of gefluoreerde broeikasgassen als koelmiddel bevatten of daarvoor bestemd zijn, met het oog op het monteren van een systeem op de locatie waar het zal functioneren, inclusief de handeling waarbij koelmiddelleidingen van een systeem worden aaneengekoppeld om een koelcircuit te voltooien, ongeacht de noodzaak het systeem na montage te vullen;<br />7° onderhoud of revisie : alle activiteiten, exclusief terugwinning en lekkagecontroles, waarbij de circuits die ozonafbrekende stoffen of gefluoreerde broeikasgassen bevatten of daarvoor bestemd zijn, worden geopend, namelijk het vullen van het systeem met ozonafbrekende stoffen of gefluoreerde broeikasgassen, het wegnemen van een of meer circuit- of apparatuuronderdelen, het hermonteren van twee of meer circuit- of apparatuuronderdelen en het herstellen van lekken;<br />8° terugwinning : het verzamelen en opslaan van ozonafbrekende stoffen of gefluoreerde broeikasgassen, bijvoorbeeld uit machines, apparatuur en houders;<br />9° controle op lekkage : de lekdichtheidscontroles, vermeld in artikel 5.16.3.3, § 6 en § 7, van titel II van het VLAREM;<br />10° gecertificeerde technicus in de koeltechniek : een natuurlijk persoon die beschikt over een geldig certificaat om werkzaamheden aan koelinstallaties uit te voeren;<br />11° certificaat : het certificaat dat uitgereikt is overeenkomstig de bepalingen van 5, 6 en 7 voor een bedrijf, artikel 14 en 15 voor een technicus, en artikel 18, 19 en 20 voor een examencentrum;<br />12° de Commissieverordening : Verordening (EG) nr. 303/2008 van de Commissie van 2 april 2008 tot instelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning voor de certificering van bedrijven en personeel betreffende stationaire koel-, klimaatregelings- en warmtepompapparatuur die bepaalde gefluoreerde broeikasgassen bevat;<br />13° gecertificeerd koeltechnisch bedrijf : een bedrijf dat gecertificeerd is overeenkomstig de bepalingen van artikel 5, 6 en 7;<br />14° bevoegde koeltechnicus : de bevoegde koeltechnicus zoals gedefinieerd in artikel 1.1.2 van titel II van het VLAREM;<br />15° keuringsinstelling : een instelling als vermeld in artikel 26 of 27;<br />16° de afdeling : de afdeling, bevoegd voor erkenningen, namelijk de afdeling Milieuvergunningen van het Departement Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;<br />17° koelinstallatiebeheersysteem : een koelinstallatiebeheersysteem dat is opgezet om werkzaamheden aan koelinstallaties uit te voeren;<br />18° gecertificeerd examencentrum : een examencentrum dat gecertificeerd is overeenkomstig de bepalingen van artikel 18, 19 en 20;<br />19° examensysteem : een examensysteem dat is opgezet om examens te organiseren als vermeld in artikel 23, § 1 en § 2.<br /><br />
+In dit besluit wordt verstaan onder:<BR>1° koelinstallatie: het geheel van   de onderdelen en apparaten die nodig zijn voor de werking van een koelsysteem.   Luchtconditioneringsinstallaties en warmtepompen die een koelsysteem bevatten,   worden ook als koelinstallaties beschouwd;<BR>2° titel II van het VLAREM : het   besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale   bepalingen inzake milieuhygiëne;<BR>3° ozonafbrekende stoffen : de stoffen,   vermeld in bijlage I van Verordening (EG) nr. 1005/2009 van het Europees   Parlement en de Raad van 16 september 2009 betreffende de ozonlaag afbrekende   stoffen, met inbegrip van de isomeren ervan, afzonderlijk of in een mengsel,   ongeacht of het nieuw geproduceerde, teruggewonnen, gerecycleerde of   gegenereerde stoffen betreft;<BR>4° gefluoreerde broeikasgassen: de stoffen,   vermeld in bijlage I van Verordening (EG) nr. 842/2006 van het Europees   Parlement en de Raad van 17 mei 2006 inzake bepaalde gefluoreerde broeikasgassen   en de latere wijzigingen ervan, afzonderlijk of in een mengsel;<BR>5°   werkzaamheden aan koelinstallaties : werkzaamheden aan koelinstallaties waarbij   er een mogelijk risico op emissies van ozonafbrekende stoffen of gefluoreerde   broeikasgassen bestaat. Hiermee wordt de uitvoering van de volgende activiteiten   bedoeld :<BR>a) installatie;<BR>b) onderhoud of revisie;<BR>c) terugwinning voor   recycling, regeneratie of vernietiging van ozonafbrekende stoffen of   gefluoreerde broeikasgassen;<BR>d) controle op lekkage;<BR>6° installatie :   aaneenkoppeling van twee of meer apparatuuronderdelen of circuits die   ozonafbrekende stoffen of gefluoreerde broeikasgassen als koelmiddel bevatten of   daarvoor bestemd zijn, met het oog op het monteren van een systeem op de locatie   waar het zal functioneren, inclusief de handeling waarbij koelmiddelleidingen   van een systeem worden aaneengekoppeld om een koelcircuit te voltooien, ongeacht   de noodzaak het systeem na montage te vullen;<BR>7° onderhoud of revisie : alle   activiteiten, exclusief terugwinning en lekkagecontroles, waarbij de circuits   die ozonafbrekende stoffen of gefluoreerde broeikasgassen bevatten of daarvoor   bestemd zijn, worden geopend, namelijk het vullen van het systeem met   ozonafbrekende stoffen of gefluoreerde broeikasgassen, het wegnemen van een of   meer circuit- of apparatuuronderdelen, het hermonteren van twee of meer circuit-   of apparatuuronderdelen en het herstellen van lekken;<BR>8° terugwinning : het   verzamelen en opslaan van ozonafbrekende stoffen of gefluoreerde broeikasgassen,   bijvoorbeeld uit machines, apparatuur en houders;<BR>9° controle op lekkage : de   lekdichtheidscontroles, vermeld in artikel 5.16.3.3, § 6 en § 7, van titel II   van het VLAREM;<BR>10° gecertificeerde technicus in de koeltechniek : een   natuurlijk persoon die beschikt over een geldig certificaat om werkzaamheden aan   koelinstallaties uit te voeren;<BR>11° certificaat : het certificaat dat   uitgereikt is overeenkomstig de bepalingen van 5, 6 en 7 voor een bedrijf,   artikel 14 en 15 voor een technicus, en artikel 18, 19 en 20 voor een   examencentrum;<BR>12° de Commissieverordening : Verordening (EG) nr. 303/2008   van de Commissie van 2 april 2008 tot instelling, ingevolge Verordening (EG) nr.   842/2006 van het Europees Parlement en de Raad, van minimumeisen en de   voorwaarden voor wederzijdse erkenning voor de certificering van bedrijven en   personeel betreffende stationaire koel-, klimaatregelings- en   warmtepompapparatuur die bepaalde gefluoreerde broeikasgassen bevat;<BR>13°   gecertificeerd koeltechnisch bedrijf : een bedrijf dat gecertificeerd is   overeenkomstig de bepalingen van artikel 5, 6 en 7;<BR>14° bevoegde   koeltechnicus : de bevoegde koeltechnicus zoals gedefinieerd in artikel 1.1.2   van titel II van het VLAREM;<BR>15° keuringsinstelling : een instelling als   vermeld in artikel 26 of 27;<BR>16° de afdeling : de afdeling, bevoegd voor   erkenningen, namelijk de afdeling Milieuvergunningen van het Departement   Leefmilieu, Natuur en Energie, zoals thans bepaald met toepassing van artikel 10   van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de   delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de   Vlaamse ministeries;<BR>17° koelinstallatiebeheersysteem : een   koelinstallatiebeheersysteem dat is opgezet om werkzaamheden aan   koelinstallaties uit te voeren;<BR>18° gecertificeerd examencentrum : een   examencentrum dat gecertificeerd is overeenkomstig de bepalingen van artikel 18,   19 en 20;<BR>19° examensysteem : een examensysteem dat is opgezet om examens te   organiseren als vermeld in artikel 23, § 1 en § 2;<BR>20° het één-loket : het   ondernemersloket, vermeld in het besluit van de Vlaamse Regering van 11 december   2009 tot gedeeltelijke omzetting van artikel 6 en 8 van Richtlijn 2006/123/EG   van het Europees Parlement en de Raad van 12 december 2006 betreffende diensten   op de interne markt.<BR><BR>
 
 ### ART. 2.
 
-De bepalingen van dit besluit zijn van toepassing op koelinstallaties als vermeld in artikel 5.16.3.3 en artikel 6.8.0 van titel II van het VLAREM en die ozonafbrekende stoffen of gefluoreerde broeikasgassen bevatten.<br /><br />
+De bepalingen van dit besluit zijn van toepassing op koelinstallaties als   vermeld in&nbsp;titel II van het VLAREM en die ozonafbrekende stoffen of   gefluoreerde broeikasgassen bevatten.<BR><BR>
 
 ### ART. 3.
 
@@ -32,11 +32,11 @@ Een koeltechnisch bedrijf wordt gecertificeerd als het koelinstallatiebeheersyst
 
 ### ART. 6.
 
-§ 1. De keuring, vermeld in artikel 5, wordt door een keuringsinstelling uitgevoerd. In geval van certificering kent de keuringsinstelling een certificaat toe namens de afdeling en bezorgt ze het certificaat binnen twee maanden na de keuring aan het bedrijf. In geval van niet-certificering deelt ze binnen twee maanden na de keuring de redenen daarvoor mee aan het bedrijf. <br /><br />Het certificaat bevat ten minste de gegevens, vermeld in bijlage II. Voor de opmaak van het certificaat volgt de keuringinstelling de instructies van de afdeling. Het model van keuringscertificaat wordt ter goedkeuring aan de afdeling voorgelegd. <br /><br />§ 2. Het certificaat voor een bedrijf vervalt :<br />1° na een periode van 24 maanden vanaf de datum van de uitreiking van het certificaat bij een bedrijf dat personeel als vermeld in artikel 14, § 1, 1°, in dienst heeft;<br />2° na een periode van vijf jaar vanaf de datum van de uitreiking van het certificaat bij een bedrijf dat personeel als vermeld in artikel 14, § 1, 2°, 3° of 4°, in dienst heeft.<br /><br />
+§ 1. De keuring, vermeld in artikel 5, wordt door een keuringsinstelling   uitgevoerd. In geval van certificering kent de keuringsinstelling een   certificaat toe namens de afdeling en bezorgt ze het certificaat binnen twee   maanden na de keuring aan het bedrijf. In geval van niet-certificering deelt ze   binnen twee maanden na de keuring de redenen daarvoor mee aan het bedrijf.   <BR><BR>Het certificaat bevat ten minste de gegevens, vermeld in bijlage II.   Voor de opmaak van het certificaat volgt de keuringsinstelling de instructies   van de afdeling. Het model van keuringscertificaat wordt ter goedkeuring aan de   afdeling voorgelegd. <BR><BR>§ 2. Het certificaat voor een bedrijf vervalt   :<BR>1° na een periode van 24 maanden vanaf de datum van de uitreiking van het   certificaat bij een bedrijf dat personeel als vermeld in artikel 14, § 1, 1°, in   dienst heeft dat werkzaamheden aan koelinstallaties uitvoert die alleen door   personeel als vermeld in artikel 14, § 1, 1°, uitgevoerd mogen worden;<BR>2° na   een periode van vijf jaar vanaf de datum van de uitreiking van het certificaat   bij een bedrijf dat personeel als vermeld in artikel 14, § 1, 1° of 2°, in   dienst heeft dat werkzaamheden aan koelinstallaties uitvoert die ten minste   uitgevoerd moeten worden door personeel als vermeld in artikel 14, § 1,   2°.
 
 ### ART. 7.
 
-§ 1. De geldigheid van het certificaat voor een bedrijf wordt automatisch verlengd voor een periode van 24 maanden bij een bedrijf dat personeel als vermeld in artikel 14, § 1, 1°, in dienst heeft, of voor een periode van vijf jaar bij een bedrijf dat personeel als vermeld in artikel 14, § 1, 2°, 3° of 4°, in dienst heeft, als het bedrijf in de periode van zes maanden voor de vervaldatum van het lopende certific aat de keuring, vermeld in artikel 9, met goed gevolg heeft doorstaan en als de tekortkomingen die werden vastgesteld bij de vorige keuring, in voldoende mate weggewerkt zijn. <br /><br />§ 2. In geval van verlenging van de geldigheid van het certificaat bezorgt de keuringsinstelling het nieuwe certificaat binnen twee maanden na de keuring aan het bedrijf. Het certificaat is opgesteld volgens de voorwaarden, vermeld in artikel 6, § 1, tweede lid. In geval van niet-certificering deelt de keuringsinstelling de redenen daarvoor binnen twee maanden na de keuring mee aan het bedrijf. <br /><br />
+§ 1. De geldigheid van het certificaat voor een bedrijf wordt automatisch   verlengd voor een periode van 24 maanden bij een bedrijf dat personeel als   vermeld in artikel 14, § 1, 1°, in dienst heeft dat werkzaamheden aan   koelinstallaties uitvoert die alleen door personeel als vermeld in artikel 14, §   1, 1°, uitgevoerd mogen worden , of voor een periode van vijf jaar bij een   bedrijf dat personeel als vermeld in artikel 14, § 1, 1° of 2°, in dienst heeft   dat werkzaamheden aan koelinstallaties uitvoert die ten minste moeten worden   uitgevoerd door personeel als vermeld in artikel 14, § 1, 2°, als het bedrijf in   de periode van zes maanden voor de vervaldatum van het lopende certific aat de   keuring, vermeld in artikel 9, met goed gevolg heeft doorstaan en als de   tekortkomingen die werden vastgesteld bij de vorige keuring, in voldoende mate   weggewerkt zijn. <BR><BR>§ 2. In geval van verlenging van de geldigheid van het   certificaat bezorgt de keuringsinstelling het nieuwe certificaat binnen twee   maanden na de keuring aan het bedrijf. Het certificaat is opgesteld volgens de   voorwaarden, vermeld in artikel 6, § 1, tweede lid. In geval van   niet-certificering deelt de keuringsinstelling de redenen daarvoor binnen twee   maanden na de keuring mee aan het bedrijf. <BR><BR>
 
 ## Afdeling II Procedure van keuring van het koelinstallatiebeheersysteem
 
@@ -58,7 +58,7 @@ Het gecertificeerde koeltechnische bedrijf moet :<br />1° minstens één gecert
 
 ### ART. 11.
 
-§ 1. Het gecertificeerde koeltechnische bedrijf voert alle werkzaamheden aan koelinstallaties uit conform de norm NBN-EN 378 of een gelijkwaardige code van goede praktijk, en respecteert daarbij de geldende milieuwetgeving.<br /><br />§ 2. Het gecertificeerde koeltechnische bedrijf neemt de nodige maatregelen om lekkage van koelmiddelen te voorkomen of tot een minimum te beperken, en licht het betrokken personeel in over nieuwe technologieën en nieuwe relevante milieuregelgeving met betrekking tot koeltechniek.<br /><br />§ 3. Het gecertificeerde koeltechnische bedrijf zorgt ervoor dat bevoegde koeltechnici gedurende werkzaamheden aan koelinstallaties beschikken over de nodige en in goede staat verkerende apparatuur. Die apparatuur omvat gekalibreerde meetapparatuur en ten minste het materiaal, vermeld in bijlage IV.<br /><br />§ 4. Bij werkzaamheden aan een koelinstallatie noteert het gecertificeerde koeltechnische bedrijf de volgende zaken :<br />1° als lekdichtheidscontroles als vermeld in artikel 5.16.3.3, § 7, van titel II van het VLAREM worden uitgevoerd : een beschrijving en de resultaten van de uitgevoerde controles;<br />2° als koelmiddel werd verbruikt of bijgevuld aan een koelinstallatie : het type, de hoeveelheid en de reden van bijvulling (nieuwbouw, uitbreiding, retrofit of lekkage), de datum, de naam van de klant en de locatie van de koelinstallatie;<br />3° als koelmiddel werd afgetapt van een koelinstallatie : het type, de hoeveelheid en de reden van aftapping, de datum, de naam van de klant en de locatie van de koelinstallatie.<br /><br />Als uit de koelmiddelregistratie blijkt dat uit een koelinstallatie een relatief lekverlies optreedt waarbij overeenkomstig artikel 5.16.3.3, § 6, van titel II van het VLAREM maatregelen moeten worden getroffen, moet het gecertificeerde koeltechnische bedrijf ten minste de eigenaar van de installatie schriftelijk op de hoogte brengen van de vastgestelde lekkage, en moet het een voorstel van te nemen maatregelen formuleren. <br /><br />Het gecertificeerde koeltechnische bedrijf moet minstens één afschrift van de registraties aan de eigenaar of beheerder van de koelinstallatie bezorgen en, indien van toepassing, in het installatiegebonden logboek of register noteren.<br /><br />Het gecertificeerde koeltechnische bedrijf houdt de gegevens, vermeld in deze paragraaf, gecentraliseerd bij, met vermelding van de plaats en de datum van de uitgevoerde werkzaamheden.<br /><br />§ 5. Het gecertificeerde koeltechnische bedrijf houdt bovendien de volgende zaken gecentraliseerd bij :<br />1° de hoeveelheid koelmiddel die werd bijgevuld in elke koelinstallatie op basis van de registraties, vermeld in paragraaf 4;<br />2° de hoeveelheid koelmiddel die werd afgetapt van elke koelinstallatie op basis van de registraties, vermeld in paragraaf 4;<br />3° de hoeveelheid koelmiddel die werd aangekocht, met vermelding van de datum van aankoop en de naam van de leverancier;<br />4° de hoeveelheid koelmiddel die werd afgevoerd, met vermelding van de datum van afvoer en de naam van de ophaler van de koelmiddelen.<br /><br />§ 6. Het gecertificeerde koeltechnische bedrijf bewaart de geregistreerde gegevens van de activiteiten, vermeld in dit artikel, minstens vijf jaar.<br /><br />
+§ 1. Het gecertificeerde koeltechnische bedrijf voert alle werkzaamheden   aan koelinstallaties uit conform de norm NBN-EN 378 of een gelijkwaardige code   van goede praktijk, en respecteert daarbij de geldende milieuwetgeving.<BR><BR>§   2. Het gecertificeerde koeltechnische bedrijf neemt de nodige maatregelen om   lekkage van koelmiddelen te voorkomen of tot een minimum te beperken, en licht   het betrokken personeel in over nieuwe technologieën en nieuwe relevante   milieuregelgeving met betrekking tot koeltechniek.<BR><BR>§ 3. Het   gecertificeerde koeltechnische bedrijf zorgt ervoor dat bevoegde koeltechnici   gedurende werkzaamheden aan koelinstallaties beschikken over de nodige en in   goede staat verkerende apparatuur. Die apparatuur omvat gekalibreerde   meetapparatuur en ten minste het materiaal, vermeld in bijlage IV.<BR><BR>§ 4.   Bij werkzaamheden aan een koelinstallatie noteert het gecertificeerde   koeltechnische bedrijf de volgende zaken :<BR>1° als lekdichtheidscontroles als   vermeld in artikel 5.16.3.3, § 7, artikel 5bis.15.5.4.5.6 en 5bis.19.8.4.8.6 van   titel II van het VLAREM worden uitgevoerd : een beschrijving en de resultaten   van de uitgevoerde controles;<BR>2° als koelmiddel werd verbruikt of bijgevuld   aan een koelinstallatie : het type, de hoeveelheid en de reden van bijvulling   (nieuwbouw, uitbreiding, retrofit of lekkage), de datum, de naam van de klant en   de locatie van de koelinstallatie;<BR>3° als koelmiddel werd afgetapt van een   koelinstallatie : het type, de hoeveelheid en de reden van aftapping, de datum,   de naam van de klant en de locatie van de koelinstallatie.<BR><BR>Als uit de   koelmiddelregistratie blijkt dat met betrekking tot het relatieve lekverlies,   vermeld in artikel 5.16.3.3, § 6, artikel 5bis.15.5.4.5.5 en artikel   5bis.19.8.4.8.5 van titel II van het VLAREM maatregelen moeten worden getroffen,   moet het gecertificeerde koeltechnische bedrijf ten minste de eigenaar van de   installatie schriftelijk op de hoogte brengen van de vastgestelde lekkage, en   moet het een voorstel van te nemen maatregelen formuleren. <BR><BR>Het   gecertificeerde koeltechnische bedrijf moet minstens één afschrift van de   registraties aan de eigenaar of beheerder van de koelinstallatie bezorgen en,   indien van toepassing, in het installatiegebonden logboek of register   noteren.<BR><BR>Het gecertificeerde koeltechnische bedrijf houdt de gegevens,   vermeld in deze paragraaf, gecentraliseerd bij, met vermelding van de plaats en   de datum van de uitgevoerde werkzaamheden.<BR><BR>§ 5. Het gecertificeerde   koeltechnische bedrijf houdt bovendien de volgende zaken gecentraliseerd bij   :<BR>1° de hoeveelheid koelmiddel die werd bijgevuld in elke koelinstallatie op   basis van de registraties, vermeld in paragraaf 4;<BR>2° de hoeveelheid   koelmiddel die werd afgetapt van elke koelinstallatie op basis van de   registraties, vermeld in paragraaf 4;<BR>3° de hoeveelheid koelmiddel die werd   aangekocht, met vermelding van de datum van aankoop en de naam van de   leverancier;<BR>4° de hoeveelheid koelmiddel die werd afgevoerd, met vermelding   van de datum van afvoer en de naam van de ophaler van de koelmiddelen.<BR><BR>§   6. Het gecertificeerde koeltechnische bedrijf bewaart de geregistreerde gegevens   van de activiteiten, vermeld in dit artikel, minstens vijf   jaar.<BR><BR>
 
 ### ART. 12.
 
@@ -130,7 +130,7 @@ Bij de keuring van het examensysteem moet worden nagegaan of aan de taken en ver
 
 ### ART. 24.
 
-Het gecertificeerde examencentrum moet :<br />1° beschikken over degelijke examenprocedures die de praktische voorwaarden voor de inschrijving voor en de organisatie van de examens, vermeld in artikel 23, § 1 en § 2, bevatten;<br />2° beschikken over de nodige en in goede staat verkerende infrastructuur, apparatuur, instrumenten en materialen om de examens te organiseren. Voor het praktische gedeelte zijn de nodige apparatuur, instrumenten en materialen, vermeld in bijlage VIII, aanwezig;<br />3° als een examen wordt georganiseerd, een examenjury samenstellen die ten minste aan de volgende voorwaarden voldoet :<br />a) de voorzitter van de examenjury is master in de ingenieurswetenschappen, master in de bio-ingenieurswetenschappen, master in de industriële wetenschappen, bachelor in de elektromechanica met afstudeerrichting klimatisering, of een persoon met minstens drie jaar aantoonbare ervaring in het afnemen van examens over koeltechniek; <br />b) minstens drie leden van de examenjury bezitten een geldig certificaat als vermeld in artikel 14 en 15;<br />c) minstens een van de leden van de examenjury is extern aan het examencentrum en actief in de koelsector.<br />Die samenstelling van de examenjury is niet van toepassing bij het plaatsvinden van een actualisatie-examen, op voorwaarde dat er minstens één persoon aanwezig is die in het bezit is van een geldig certificaat als vermeld in artikel 14 en 15, en dat die persoon optreedt als examenjurylid. Die persoon garandeert onafhankelijkheid en onpartijdigheid bij de uitvoering van zijn taken;<br />4° ervoor zorgen dat de examenjuryleden goed op de hoogte zijn van de relevante examenmethoden en examendocumenten;<br />5° een register bijhouden waarin de individuele en algemene resultaten van de examinering worden gedocumenteerd;<br />6° binnen een maand na elk examen een verslag van de examenzitting bezorgen aan de afdeling. Dat verslag wordt ondertekend door de aanwezige juryleden en bevat ten minste de gegevens, vermeld in bijlage IX;<br />7° de afdeling minstens een maand voor het examen plaatsvindt, op de hoogte brengen van de plaats en het tijdstip van het examen. Het gecertificeerde examencentrum moet, als hierom wordt gevraagd door ambtenaren van de afdeling, ambtenaren de mogelijkheid bieden om de examens bij te wonen;<br />8° zijn activiteiten op een onafhankelijke en onpartijdige wijze uitvoeren;<br />9° gemotiveerde klachten van ambtenaren van de afdeling behandelen en onderzoeken;<br />10° aan de afdeling alle inlichtingen en documenten verstrekken die ze vraagt en het materiaal tonen dat gebruikt wordt bij het afnemen van de examens;<br />11° de afdeling binnen een maand op de hoogte brengen van elke wijziging in de gegevens die verband houden met de certificering;<br />12° zich richten naar de instructies van de afdeling.<br /><br />
+Het gecertificeerde examencentrum moet :<BR>1° beschikken over degelijke   examenprocedures die de praktische voorwaarden voor de inschrijving voor en de   organisatie van de examens, vermeld in artikel 23, § 1 en § 2, bevatten;<BR>2°   beschikken over de nodige en in goede staat verkerende infrastructuur,   apparatuur, instrumenten en materialen om de examens te organiseren. Voor het   praktische gedeelte zijn de nodige apparatuur, instrumenten en materialen,   vermeld in bijlage VIII, aanwezig;<BR>3° als een examen wordt georganiseerd, een   examenjury samenstellen die ten minste aan de volgende voorwaarden voldoet   :<BR>a) de voorzitter van de examenjury is master in de ingenieurswetenschappen,   master in de bio-ingenieurswetenschappen, master in de industriële   wetenschappen, bachelor in de elektromechanica met afstudeerrichting   klimatisering, of een persoon met minstens drie jaar aantoonbare ervaring in het   afnemen van examens over koeltechniek;&nbsp;<BR> b) minstens drie leden van de   examenjury bezitten een geldig certificaat als vermeld in artikel 14 en 15. In   afwijking daarvan bezitten minstens twee leden van de examenjury een geldig   certificaat als vermeld in artikel 14 en 15, als een examen georganiseerd wordt   om een certificaat van categorie IV te behalen;<BR>c) minstens een van de leden   van de examenjury is extern aan het examencentrum en actief in de   koelsector.<BR>Die samenstelling van de examenjury is niet van toepassing bij   het plaatsvinden van een actualisatie-examen, op voorwaarde dat er minstens één   persoon aanwezig is die in het bezit is van een geldig certificaat als vermeld   in artikel 14 en 15, en dat die persoon optreedt als examenjurylid. Die persoon   garandeert onafhankelijkheid en onpartijdigheid bij de uitvoering van zijn   taken;<BR>4° ervoor zorgen dat de examenjuryleden goed op de hoogte zijn van de   relevante examenmethoden en examendocumenten;<BR>5° een register bijhouden   waarin de individuele en algemene resultaten van de examinering worden   gedocumenteerd;<BR>6° binnen een maand na elk examen een verslag van de   examenzitting bezorgen aan de afdeling. Dat verslag wordt ondertekend door de   aanwezige juryleden en bevat ten minste de gegevens, vermeld in bijlage   IX;<BR>7° de afdeling minstens een maand voor het examen plaatsvindt, op de   hoogte brengen van de plaats en het tijdstip van het examen. Het gecertificeerde   examencentrum moet, als hierom wordt gevraagd door ambtenaren van de afdeling,   ambtenaren de mogelijkheid bieden om de examens bij te wonen;<BR>8° zijn   activiteiten op een onafhankelijke en onpartijdige wijze uitvoeren;<BR>9°   gemotiveerde klachten van ambtenaren van de afdeling behandelen en   onderzoeken;<BR>10° aan de afdeling alle inlichtingen en documenten verstrekken   die ze vraagt en het materiaal tonen dat gebruikt wordt bij het afnemen van de   examens;<BR>11° de afdeling binnen een maand op de hoogte brengen van elke   wijziging in de gegevens die verband houden met de certificering;<BR>12° zich   richten naar de instructies van de afdeling.<BR><BR>
 
 ## Afdeling V Schorsing en opheffing van het certificaat van een examencentrum
 
@@ -142,7 +142,7 @@ De afdeling kan het certificaat van een examencentrum schorsen of opheffen als h
 
 ### ART. 26.
 
-Een keuringsinstelling is een instelling die de koelinstallatiebeheersystemen en examensystemen, vermeld in dit besluit, keurt en daarvoor is geaccrediteerd door het Belgische Accreditatiesysteem, overeenkomstig de wet van 20 juli 1990 betreffende de accreditatie van certificatie- en keuringsinstellingen alsmede van beproevingslaboratoria.<br /><br />
+Een keuringsinstelling is een instelling die de   koelinstallatiebeheersystemen en examensystemen, vermeld in dit besluit, keurt   en voor die activiteiten geaccrediteerd is als keuringsinstelling van het type A   op basis van de criteria van de norm ISO/IEC 17020.
 
 ### ART. 27.
 
@@ -150,7 +150,11 @@ Een keuringsinstelling is een instelling die de koelinstallatiebeheersystemen en
 
 ### ART. 28.
 
-§ 1. De aanvraag tot erkenning als keuringsinstelling, vermeld in artikel 27, wordt door de instelling aangetekend naar de afdeling gestuurd. Die aanvraag bevat ten minste de gegevens, vermeld in bijlage X.<br /><br />Bij de erkenningsaanvraag wordt een kopie van de accreditatieaanvraag gevoegd.<br /><br />§ 2. De afdeling onderzoekt de aanvraag en neemt een beslissing tot erkenning of niet-erkenning binnen een termijn van twee maanden na de aanvraag. In geval van erkenning stuurt de afdeling het erkenningsbewijs aangetekend naar de keuringsinstelling. In geval van niet-erkenning deelt ze de redenen daarvoor aangetekend mee.<br /><br />
+§ 1. De aanvraag tot erkenning als keuringsinstelling, vermeld in artikel   27, wordt aangetekend, tegen afgifte van ontvangstbewijs of elektronisch via het   één-loket ingediend bij de afdeling. Die aanvraag bevat ten minste de gegevens,   vermeld in bijlage X.<BR><BR>Bij de erkenningsaanvraag wordt een kopie van de   accreditatieaanvraag gevoegd.<BR><BR>§ 2. De afdeling onderzoekt de aanvraag en   neemt een beslissing tot erkenning of niet-erkenning binnen een termijn van twee   maanden na de aanvraag. In geval van erkenning stuurt de afdeling het   erkenningsbewijs aangetekend naar de keuringsinstelling. In geval van   niet-erkenning deelt ze de redenen daarvoor aangetekend   mee.<BR><BR>
+
+### ART. 28/1.
+
+De keuringsinstelling richt zich naar de instructies die door de afdeling   worden gegeven.
 
 ### ART. 29.
 
@@ -224,341 +228,332 @@ De Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, is belast m
 
 ### BIJLAGE 1
 
-titel
-<p>A. Inhoud theoretisch onderdeel met betrekking tot koeltechniek<br>
-</p>
-
+titelA. Inhoud theoretisch onderdeel met betrekking tot koeltechniek
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>titel<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
+			<p>titel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>onderwerpen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>kennisniveau</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>milieu-impact ten gevolge van het gebruik van koelmiddelen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>1. emissies van ozonafbrekende stoffen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>implicaties van de koelmiddelproblematiek kennen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;2. directe en indirecte emissies van broeikasgassen (koelmiddelproblematiek en energieverbruik)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>koelmiddelen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>1. gereglementeerde koelmiddelen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>zeer goede kennis van de eigenschappen van koelmiddelen en van de wetgeving die van toepassing is</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;2. toegestane koelmiddelen en oliën</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;3. eigenschappen en toepassingsgebied van koelmiddelen en oliën</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>lekdichtheid</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>1. lekdichtheidsbepaling, kennis van lekdichtheidsbeproevingstechnieken en wetgeving inzake lekdetectie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>zeer goede kennis</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;2. kennis van maatregelen om emissies van koelmiddelen te reduceren met betrekking tot ontwerp, onderhoud en herstellingen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;3. kennis van risico's op lekkage van bepaalde onderdelen van een koelinstallatie naargelang van type verbinding, compressor...</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>B. Inhoud praktisch onderdeel met betrekking tot handelingen met gefluoreerde broeikasgassen of ozonafbrekende stoffen en met betrekking tot een hardsoldeerproef<br>
-<br>
-</p>
+<p>B. Inhoud praktisch onderdeel met betrekking tot handelingen met gefluoreerde broeikasgassen of ozonafbrekende stoffen en met betrekking tot een hardsoldeerproef</p>
 
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>titel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>onderwerpen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>kennisniveau</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>montage</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>1. braseren en het aaneenhechten van de verschillende onderdelen : leidingen in koper (met koper, met staal, met messing), met afsluiters, expansieventielen ...</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>zeer goede praktische realisaties</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;2. buig- en plooitechnieken van koper en staal, en bevestigings- en isolatietechnieken</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;3. onder druk brengen met stikstof</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;4. verifiëren van de lekdichtheid</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;5. verifiëren van de brasering door ze door te zagen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>installatiecontrole</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>controle van alle benodigde documenten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>zeer goede kennis van de te realiseren controles</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>ingebruikname</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>1. het onder druk brengen met behulp van een inert gas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>uitstekende praktische realisaties</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;2. verifiëren van de lekdichtheid</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;3. vacumeren met een tweetrapsvacuümpomp en controle door middel van een vacuümmeter</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;4. het vullen van de installatie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;5. wegen en noteren van de gebruikte hoeveelheden</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;6. de inwerkingtreding, de regeling en de controles van goede functionering</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>onderhoud</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>1. controle van de lekdichtheid met een elektronische lekdetector</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>uitstekende praktische realisaties</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;2. controle van goed functioneren</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>terugwinning van koelmiddelen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>1. terugwinning</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>uitstekende praktische realisaties</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;2. wegen en noteren van de afgetapte hoeveelheden</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;3. opnieuw vullen van dezelfde installatie met het afgetapte gas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;4. herhaling van de terugwinning met maximale koelmiddelrecuperatie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>periodieke controle</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;zeer goede kennis van de te realiseren controles</p>
 			</td>
 		</tr>
@@ -567,82 +562,76 @@ titel
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>C. Inhoud onderdeel met betrekking tot de kennis van de wetgeving en Nederlandstalige terminologie inzake koeltechniek<br>
-<br>
-</p>
+<p><br>
+C. Inhoud onderdeel met betrekking tot de kennis van de wetgeving en Nederlandstalige terminologie inzake koeltechniek</p>
 
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>titel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>onderwerpen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>kennisniveau</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>relevante milieuwetgeving (gewestelijk, federaal en internationaal)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>1. protocol van Montreal (1) en federale wetgeving</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>implicaties van de koelmiddelproblematiek kennen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;2. fundamentele kennis : EU-Verordening 2037/2000 betreffende ozonafbrekende stoffen (2), VLAREM en VLAREA (3)</p>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
+			<p>&nbsp;2. fundamentele kennis : Verordening (EG) nr. 1005/2009(2), titel I en II van het VLAREM en VLAREMA(3)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>&nbsp;3. de Europese regelgeving met betrekking tot machines, elektrisch materiaal, bestemd voor gebruik binnen bepaalde spanningsgrenzen, en drukapparatuur</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>elementaire kennis van de toepassingsprincipes op het domein van de koeltechniek</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>normen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>NBN-EN 378, deel 1-4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>goede kennis van de inhoud</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Nota's<br>
-1 protocol van Montreal betreffende stoffen die de ozonlaag afbreken, opgemaakt in Montreal op 16 september 1987, en de latere wijzigingen ervan<br>
-2 Verordening (EG) nr. 2037/2000 van het Europees Parlement en de Raad van 29 juni 2000 betreffende de ozonlaag afbrekende stoffen, en de latere wijzigingen ervan<br>
-3 besluit van de Vlaamse Regering van 5 december 2003 tot vaststelling van het Vlaams reglement inzake afvalvoorkoming en -beheer, en de latere wijzigingen ervan<br>
 <br>
-&nbsp;</p>
+<br>
+Nota's<br>
+1 protocol van Montreal betreffende stoffen die de ozonlaag afbreken, opgemaakt in Montreal op 16 september 1987, en de latere wijzigingen ervan<br>
+2 Verordening (EG) nr. 1005/2009 van het Europees Parlement en de Raad van 16 september 2009 betreffende de ozonlaag afbrekende stoffen<br>
+3 besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen<br>
+&nbsp;
+<p>&nbsp;</p>
 
 ## Bijlage II Lijst met minimumgegevens voor het certificaat voor een koeltechnisch bedrijf, vermeld in artikel 6, § 1
 
