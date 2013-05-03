@@ -16,7 +16,7 @@ De bepalingen van dit besluit zijn van toepassing op de centrale stooktoestellen
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° de minister : de Vlaamse minister, bevoegd voor het leefmilieu;<br />2° de afdeling : de afdeling van het Departement Leefmilieu, Natuur en Energie bevoegd voor erkenningen;<br />3° titel I van het Vlarem : het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning;<br />4° titel II van het Vlarem : het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br />5° de toezichthoudende ambtenaar : de ambtenaar, bedoeld in artikel 38, § 1, die door de minister aangewezen zijn om toezicht te houden op de naleving van de bepalingen van dit besluit;<br />6° stooktoestel : technisch toestel waarin vaste, vloeibare of gasvormige brandstof verbrand wordt om de gegenereerde warmte te gebruiken voor ruimteverwarming of voor de aanmaak van warm verbruikswater;<br />7° stooktoestel type B (open stooktoestel) : een stooktoestel, bestemd om te worden aangesloten op een schoorsteen of rookgasafvoerkanaal, waarbij de verbrandingslucht ontnomen wordt uit het stooklokaal;<br />8° stooktoestel type C (gesloten stooktoestel) : stooktoestel waarvan de verbrandingskamer gesloten is ten opzichte van het stooklokaal. De leidingen voor de aanvoer van de verbrandingslucht en de afvoer van de rookgassen en het eindstuk vormen een geheel met het toestel;<br />9° centraal stooktoestel : een stooktoestel met een centrale stookketel, en, optioneel, een aparte brander, waarbij de gegenereerde warmte via een geleid en gekanaliseerd transportsysteem gedistribueerd wordt naar meerdere, afzonderlijke ruimten en, optioneel, naar een voorziening voor de productie van warm verbruikswater;<br />10° nieuw centraal stooktoestel : een centraal stooktoestel dat na de inwerkingtreding van dit besluit een van onderstaande handelingen heeft ondergaan :<br />a) het stooktoestel werd voor het eerst in gebruik genomen; <br />b) de ketel of brander van het stooktoestel werd vervangen; <br />c) het stooktoestel werd verbouwd;<br />d) het stooktoestel werd verplaatst.<br />11° bestaand centraal stooktoestel : een centraal stooktoestel dat niet beantwoordt aan de definitie van een nieuw centraal stooktoestel;<br />12° gasvormige brandstof : elke brandstof die bij een temperatuur van 15 °C onder een druk van 1 bar (0,1 MPa) in een gasvormige toestand verkeert;<br />13° gastoestel : een centraal stooktoestel, gevoed met gasvormige brandstof;<br />14° categorie : categorie waartoe een gastoestel behoort naargelang de gebruikte gasvormige brandstof en de technologische kenmerken, overeenkomstig de Europese norm EN 437 en addendum 1 - 1993;<br />15° atmosferische gasketel : centraal stooktoestel type B, gevoed met gasvormige brandstof;<br />16° gasunit : centraal stooktoestel type C, gevoed met gasvormige brandstof;<br />17° gasketel met ventilatorbrander : centraal stooktoestel, gevoed met gasvormige brandstof, met aangeblazen gasbrander;<br />18° schoorsteen : constructie, bedoeld voor het afvoeren van de rookgassen;<br />19° stooklokaal : het lokaal waarin het stooktoestel zich bevindt;<br />20° bouwjaar : Het bouwjaar van het toestel, bepaald uit de informatie vermeld op de kenplaat van de ketel of brander. Indien geen kenplaat aanwezig is of indien de kenplaat onleesbaar is, dan wordt het bouwjaar van het toestel afgeleid uit de factuur van plaatsing, uit het keuringsrapport of uit de technische documentatie van de ketel. Indien het bouwjaar van de ketel verschilt van het bouwjaar van de brander, wordt het bouwjaar van het stooktoestel gelijkgesteld aan het bouwjaar van de ketel; <br />21° rookgassen (of verbrandingsproducten) : de gasvormige uitstoot van een stooktoestel als resultaat van de verbranding, met daarin vaste, vloeibare en gasvormige emissies;<br />22° controleproeven omtrent de goede werking : de controleproeven, beschreven in bijlage I bij dit besluit;<br />23° rookindex : maat voor de zwarting van de rookgassen van een stooktoestel, gevoed met vloeibare brandstof; het getal dat met de rookindexpomp wordt gemeten tijdens de controleproeven omtrent de goede staat van werking;<br />24° verbrandingsrendement : het verbrandingsrendement, berekend volgens de formule van Siegert;<br />25° code van goede praktijk : een geheel van geschreven en publiek toegankelijke regels over de bouw, de plaatsing, de aansluiting, het gebruik en het onderhoud van stooktoestellen, met inbegrip van de <br />toepasselijke productnormen en de algemeen aanvaarde regels van goed vakmanschap bij de beroepscategorieën in kwestie. Als code van goede praktijk gelden in elk geval : <br />a) de toepasselijke bepalingen in Belgische wetten en koninklijke besluiten, en in Vlaamse decreten en besluiten; <br />b) de bij het Belgisch Instituut voor Normalisatie geregistreerde toepasselijke normen; <br />c) de toepasselijke Europese normen;<br />d) de regels, uitgegeven door de beroepsfederaties van de fabrikanten en distributeurs van stooktoestellen.<br />Bij tegenstrijdigheden is de opgegeven volgorde bepalend;<br />26° erkende technicus vloeibare brandstof : een technicus erkend volgens het besluit van de Vlaamse Regering tot vaststelling van het Vlaams reglement van 19 november 2010 inzake erkenningen met betrekking tot het leefmilieu, voor verbrandingscontrole en onderhoud van centrale stooktoestellen, gevoed met vloeibare brandstof;<br />27° erkend opleidingscentrum vloeibare brandstof : een opleidingscentrum erkend volgens het besluit van de Vlaamse Regering tot vaststelling van het Vlaams reglement van 19 november 2010 inzake erkenningen met betrekking tot het leefmilieu, voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake vloeibare brandstof;<br />28° erkende technicus gasvormige brandstof : een technicus erkend volgens het besluit van de Vlaamse Regering tot vaststelling van het Vlaams reglement van 19 november 2010 inzake erkenningen met betrekking tot het leefmilieu, voor verbrandingscontrole en onderhoud van centrale stooktoestellen, gevoed met gasvormige brandstof;<br />29° erkend opleidingscentrum gasvormige brandstof : een opleidingscentrum erkend volgens het besluit van de Vlaamse Regering tot vaststelling van het Vlaams reglement van 19 november 2010 inzake erkenningen met betrekking tot het leefmilieu, voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake gasvormige brandstof;<br />30° erkende technicus verwarmingsaudit : een technicus erkend volgens het besluit van de Vlaamse Regering tot vaststelling van het Vlaams reglement van 19 november 2010 inzake erkenningen met betrekking tot het leefmilieu, voor het uitvoeren van een verwarmingsaudit;<br />31° erkend opleidingscentrum verwarmingsaudit : een opleidingscentrum erkend volgens het besluit van de Vlaamse Regering tot vaststelling van het Vlaams reglement van 19 november 2010 inzake erkenningen met betrekking tot het leefmilieu, voor het uitreiken van het certificaat van bekwaamheid en bijscholing inzake de verwarmingsaudit;<br />32° reinigingsattest : het attest overeenkomstig het toepasselijke model in bijlage III bij dit besluit, dat opgemaakt wordt na het beëindigen van de reinigingsbeurt van het stooktoestel;<br />33° verbrandingsattest : het attest overeenkomstig het toepasselijke model in bijlage III bij dit besluit, dat opgemaakt wordt na de verbrandingscontrole van een stooktoestel;<br />34° keuringsrapport : verslag van de keuring voor de eerste ingebruikname van een nieuw centraal stooktoestel, dat minstens de toepasselijke gegevens uit bijlage III bij dit besluit bevat;<br />35° verwarmingsauditrapport : verslag van de verwarmingsaudit van de gehele verwarmingsinstallatie, dat advies bevat over vervanging van de ketel, over andere wijzigingen van het verwarmingssysteem en alternatieve oplossingen die een significante energiebesparing kunnen realiseren;<br />36° geaccrediteerde keuringsinstelling : een onafhankelijke instelling die geaccrediteerd is als keuringsinstelling van het type A op basis van de criteria van de NBN-EN ISO/IEC 17020 voor de activiteiten voorzien in dit besluit, overeenkomstig het accreditatiesysteem ingesteld in toepassing van de wet van 20 juli 1990 betreffende de accreditatie van certificatie- en keuringsinstellingen alsmede van beproevingslaboratoria, of die geaccrediteerd is door een evenwaardige organisatie die de naleving oplegt van criteria die gelijkwaardige garanties bieden als het voormelde accreditatiesysteem;<br />37° schoorsteenveger : persoon, die vakbekwaam is in het reinigen en controleren van de schoorsteen van een stooktoestel;<br />38° geschoold vakman : persoon die vakbekwaam is in het onderhouden van een centraal stooktoestel, gevoed met vaste brandstof;<br />39° energieaudit : audit uitgevoerd conform het besluit van de Vlaamse Regering van 11 januari 2008 houdende de invoering van het energieprestatiecertificaat residentiële gebouwen bij verkoop en verhuur en de uitvoering van de energieaudit.<br />
+Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° de   minister : de Vlaamse minister, bevoegd voor het leefmilieu;<BR>2° de afdeling :   de afdeling van het Departement Leefmilieu, Natuur en Energie bevoegd voor   erkenningen;<BR>3° titel I van het Vlarem : het besluit van de Vlaamse Regering   van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende   de milieuvergunning;<BR>4° titel II van het Vlarem : het besluit van de Vlaamse   Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake   milieuhygiëne;<BR>5° de toezichthoudende ambtenaar : de toezichthouder, vermeld   in het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van   titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake   milieubeleid, die het toezicht uitoefent op de toepassing van de wet van 28   december 1964 betreffende de bestrijding van de luchtverontreiniging;<BR>6°   stooktoestel : technisch toestel waarin vaste, vloeibare of gasvormige brandstof   verbrand wordt om de gegenereerde warmte te gebruiken voor ruimteverwarming of   voor de aanmaak van warm verbruikswater;<BR>7° stooktoestel type B (open   stooktoestel) : een stooktoestel, bestemd om te worden aangesloten op een   schoorsteen of rookgasafvoerkanaal, waarbij de verbrandingslucht ontnomen wordt   uit het stooklokaal;<BR>8° stooktoestel type C (gesloten stooktoestel) :   stooktoestel waarvan de verbrandingskamer gesloten is ten opzichte van het   stooklokaal. De leidingen voor de aanvoer van de verbrandingslucht en de afvoer   van de rookgassen en het eindstuk vormen een geheel met het toestel;<BR>9°   centraal stooktoestel : een stooktoestel met een centrale stookketel, en,   optioneel, een aparte brander, waarbij de gegenereerde warmte via een geleid en   gekanaliseerd transportsysteem gedistribueerd wordt naar meerdere, afzonderlijke   ruimten en, optioneel, naar een voorziening voor de productie van warm   verbruikswater;<BR>10° nieuw centraal stooktoestel : een centraal stooktoestel   dat na de inwerkingtreding van dit besluit een van onderstaande handelingen   heeft ondergaan :<BR>a) het stooktoestel werd voor het eerst in gebruik genomen;   <BR>b) de ketel of brander van het stooktoestel werd vervangen; <BR>c) het   stooktoestel werd verbouwd;<BR>d) het stooktoestel werd verplaatst.<BR>11°   bestaand centraal stooktoestel : een centraal stooktoestel dat niet beantwoordt   aan de definitie van een nieuw centraal stooktoestel;<BR>12° gasvormige   brandstof : elke brandstof die bij een temperatuur van 15 °C onder een druk van   1 bar (0,1 MPa) in een gasvormige toestand verkeert;<BR>13° gastoestel : een   centraal stooktoestel, gevoed met gasvormige brandstof;<BR>14° categorie :   categorie waartoe een gastoestel behoort naargelang de gebruikte gasvormige   brandstof en de technologische kenmerken, overeenkomstig de Europese norm EN 437   en addendum 1 - 1993;<BR>15° atmosferische gasketel : centraal stooktoestel type   B, gevoed met gasvormige brandstof;<BR>16° gasunit : centraal stooktoestel type   C, gevoed met gasvormige brandstof;<BR>17° gasketel met ventilatorbrander :   centraal stooktoestel, gevoed met gasvormige brandstof, met aangeblazen   gasbrander;<BR>18° schoorsteen : constructie, bedoeld voor het afvoeren van de   rookgassen;<BR>19° stooklokaal : het lokaal waarin het stooktoestel zich   bevindt;<BR>20° bouwjaar : Het bouwjaar van het toestel, bepaald uit de   informatie vermeld op de kenplaat van de ketel of brander. Indien geen kenplaat   aanwezig is of indien de kenplaat onleesbaar is, dan wordt het bouwjaar van het   toestel afgeleid uit de factuur van plaatsing, uit het keuringsrapport of uit de   technische documentatie van de ketel. Indien het bouwjaar van de ketel verschilt   van het bouwjaar van de brander, wordt het bouwjaar van het stooktoestel   gelijkgesteld aan het bouwjaar van de ketel; <BR>21° rookgassen (of   verbrandingsproducten) : de gasvormige uitstoot van een stooktoestel als   resultaat van de verbranding, met daarin vaste, vloeibare en gasvormige   emissies;<BR>22° controleproeven omtrent de goede werking : de controleproeven,   beschreven in bijlage I bij dit besluit;<BR>23° rookindex : maat voor de   zwarting van de rookgassen van een stooktoestel, gevoed met vloeibare brandstof;   het getal dat met de rookindexpomp wordt gemeten tijdens de controleproeven   omtrent de goede staat van werking;<BR>24° verbrandingsrendement : het   verbrandingsrendement, berekend volgens de formule van Siegert;<BR>25° code van   goede praktijk : een geheel van geschreven en publiek toegankelijke regels over   de bouw, de plaatsing, de aansluiting, het gebruik en het onderhoud van   stooktoestellen, met inbegrip van de <BR>toepasselijke productnormen en de   algemeen aanvaarde regels van goed vakmanschap bij de beroepscategorieën in   kwestie. Als code van goede praktijk gelden in elk geval : <BR>a) de   toepasselijke bepalingen in Belgische wetten en koninklijke besluiten, en in   Vlaamse decreten en besluiten; <BR>b) de bij het Belgisch Instituut voor   Normalisatie geregistreerde toepasselijke normen; <BR>c) de toepasselijke   Europese normen;<BR>d) de regels, uitgegeven door de beroepsfederaties van de   fabrikanten en distributeurs van stooktoestellen.<BR>Bij tegenstrijdigheden is   de opgegeven volgorde bepalend;<BR>26° erkende technicus vloeibare brandstof :   een technicus erkend volgens het besluit van de Vlaamse Regering tot   vaststelling van het Vlaams reglement van 19 november 2010 inzake erkenningen   met betrekking tot het leefmilieu, voor verbrandingscontrole en onderhoud van   centrale stooktoestellen, gevoed met vloeibare brandstof;<BR>27° erkend   opleidingscentrum vloeibare brandstof : een opleidingscentrum erkend volgens het   besluit van de Vlaamse Regering tot vaststelling van het Vlaams reglement van 19   november 2010 inzake erkenningen met betrekking tot het leefmilieu, voor het   uitreiken van het certificaat van bekwaamheid en bijscholing inzake vloeibare   brandstof;<BR>28° erkende technicus gasvormige brandstof : een technicus erkend   volgens het besluit van de Vlaamse Regering tot vaststelling van het Vlaams   reglement van 19 november 2010 inzake erkenningen met betrekking tot het   leefmilieu, voor verbrandingscontrole en onderhoud van centrale stooktoestellen,   gevoed met gasvormige brandstof;<BR>29° erkend opleidingscentrum gasvormige   brandstof : een opleidingscentrum erkend volgens het besluit van de Vlaamse   Regering tot vaststelling van het Vlaams reglement van 19 november 2010 inzake   erkenningen met betrekking tot het leefmilieu, voor het uitreiken van het   certificaat van bekwaamheid en bijscholing inzake gasvormige brandstof;<BR>30°   erkende technicus verwarmingsaudit : een technicus erkend volgens het besluit   van de Vlaamse Regering tot vaststelling van het Vlaams reglement van 19   november 2010 inzake erkenningen met betrekking tot het leefmilieu, voor het   uitvoeren van een verwarmingsaudit;<BR>31° erkend opleidingscentrum   verwarmingsaudit : een opleidingscentrum erkend volgens het besluit van de   Vlaamse Regering tot vaststelling van het Vlaams reglement van 19 november 2010   inzake erkenningen met betrekking tot het leefmilieu, voor het uitreiken van het   certificaat van bekwaamheid en bijscholing inzake de verwarmingsaudit;<BR>32°   reinigingsattest : het attest overeenkomstig het toepasselijke model in bijlage   III bij dit besluit, dat opgemaakt wordt na het beëindigen van de   reinigingsbeurt van het stooktoestel of de schoorsteen;<BR>33°   verbrandingsattest : het attest overeenkomstig het toepasselijke model in   bijlage III bij dit besluit, dat opgemaakt wordt na de verbrandingscontrole van   een stooktoestel;<BR>34° keuringsrapport : verslag van de keuring voor de eerste   ingebruikname van een nieuw centraal stooktoestel, dat minstens de toepasselijke   gegevens uit bijlage III bij dit besluit bevat;<BR>35° verwarmingsauditrapport :   verslag van de verwarmingsaudit van de gehele verwarmingsinstallatie, dat een   beoordeling van het rendement van de ketel en van de ketelgrootte vergeleken met   de verwarmingsbehoeften van het gebouw bevat, alsook het advies over vervanging   van de ketel, over andere wijzigingen van het verwarmingssysteem en alternatieve   oplossingen die een significante energiebesparing kunnen realiseren;<BR>36°   ...;<BR>37° schoorsteenveger : persoon, die vakbekwaam is in het reinigen en   controleren van de schoorsteen van een stooktoestel;<BR>38° geschoold vakman :   persoon die vakbekwaam is in het onderhouden van een centraal stooktoestel,   gevoed met vaste brandstof;<BR>39° energieaudit : audit uitgevoerd conform het   besluit van de Vlaamse Regering van 11 januari 2008 houdende de invoering van   het energieprestatiecertificaat residentiële gebouwen bij verkoop en verhuur en   de uitvoering van de energieaudit;<BR>40° gebouw : een overdekte constructie met   muren waarvoor energie gebruikt wordt om het binnenklimaat te regelen;<BR>41°   nominaal vermogen : het maximale verwarmingsvermogen, uitgedrukt in kW, dat door   de fabrikant voor continu gebruik is aangegeven en gegarandeerd, waarbij het   door hem aangegeven nuttig rendement wordt gehaald.<BR>
 
 ### ART. 3.
 
@@ -438,70 +438,68 @@ Keuring voor de eerste ingebruikname van een nieuw centraal stooktoestel<br /><b
 
 ### ART. 8.
 
-<p>Gebruik en onderhoud van een centraal stooktoestel<br>
+Gebruik en onderhoud van een centraal stooktoestel<br>
 <br>
 De gebruiker van een centraal stooktoestel moet :<br>
 1° uitsluitend de brandstof gebruiken waarvoor dit toestel gebouwd en afgesteld is;<br>
 2° het nodige doen om dit toestel steeds in goede en veilige staat van werking te houden;<br>
 3° de gebruikersinstructies van de fabrikant van het centrale stooktoestel respecteren;<br>
-4° Het centraal stooktoestel periodiek een onderhoudsbeurt laten geven in overeenstemming met de bepalingen in onderstaande tabel :<br>
-</p>
-
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:447.65pt">
+4° Het centraal stooktoestel periodiek een onderhoudsbeurt laten geven in overeenstemming met de bepalingen in onderstaande tabel :
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:447.65pt">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:24pt; width:89.4pt">
-			<p>Centraal stooktoestel gevoed met<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			<td style="border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:24pt; width:89.4pt">
+			<p>Centraal stooktoestel gevoed met</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:24pt; width:90pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:black 1pt solid; height:24pt; width:90pt">
 			<p>Nominaal vermogen V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:24pt; width:90pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:black 1pt solid; height:24pt; width:90pt">
 			<p>Onderhoudsfrequentie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:24pt; width:178.25pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:black 1pt solid; height:24pt; width:178.25pt">
 			<p>Onderhoud moet worden uitgevoerd door</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:89.4pt">
+			<td style="border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:89.4pt">
 			<p>Vaste brandstof</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:90pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:90pt">
 			<p>Alle</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:90pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:90pt">
 			<p>Jaarlijks</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:178.25pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:178.25pt">
 			<p>geschoold vakman</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:89.4pt">
+			<td style="border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:89.4pt">
 			<p>Vloeibare brandstof</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:90pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:90pt">
 			<p>&gt;= 20 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:90pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:90pt">
 			<p>Jaarlijks</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:178.25pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:178.25pt">
 			<p>erkende technicus vloeibare brandstof</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:38.5pt; vertical-align:top; width:89.4pt">
+			<td style="border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:medium none; height:38.5pt; vertical-align:top; width:89.4pt">
 			<p>Gasvormige brandstof</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:38.5pt; vertical-align:top; width:90pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:38.5pt; vertical-align:top; width:90pt">
 			<p>&gt;= 20 kW</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:38.5pt; vertical-align:top; width:90pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:38.5pt; vertical-align:top; width:90pt">
 			<p>Twee-jaarlijks</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:38.5pt; width:178.25pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:38.5pt; width:178.25pt">
 			<p>erkend technicus gasvormige brandstof</p>
 
 			<p>atmosferische gasketels: niveau G1, G2 of G3</p>
@@ -513,14 +511,15 @@ De gebruiker van een centraal stooktoestel moet :<br>
 		</tr>
 	</tbody>
 </table>
-
-<p>De tijd tussen twee opeenvolgende onderhoudsbeurten mag niet langer zijn dan de weergegeven onderhoudsfrequentie, vermeerderd met 3 maanden.<br>
+<br>
+De tijd tussen twee opeenvolgende onderhoudsbeurten mag niet langer zijn dan de weergegeven onderhoudsfrequentie, vermeerderd met 3 maanden. Die vermeerdering verstoort de onderhoudsfrequentie, vermeld in het eerste lid, niet.<br>
 Het reinigen en het controleren van de schoorsteen mag steeds door een schoorsteenveger uitgevoerd worden;<br>
-5° zodanig stoken dat de hinder en de uitstoot aan verontreinigende stoffen zo klein mogelijk is.</p>
+Als bij de onderhoudsbeurt, vermeld in artikel 13, de schoorsteen gereinigd en gecontroleerd moet worden, zal dat voorafgaand aan de reinigingsbeurt van het centrale stooktoestel gebeuren. Als de technicus de reiniging en controle van de schoorsteen niet zelf uitvoert, zal het reinigingsattest daarvan aan de erkende technicus worden voorgelegd.<br>
+5° zodanig stoken dat de hinder en de uitstoot aan verontreinigende stoffen zo klein mogelijk is.
 
 ### ART. 9.
 
-Eenmalige verwarmingsaudit<br /><br />§ 1. De eigenaar van een centraal stooktoestel, met een nominaal totaal geïnstalleerd vermogen van meer dan 20 kW, moet eenmalig een verwarmingsaudit laten uitvoeren van de gehele verwarmingsinstallatie binnen een termijn van twee jaar nadat het toestel 15 jaar oud is geworden.<br /><br />In afwijking van het bepaalde in het eerste lid laat de eigenaar van een centraal stooktoestel gevoed met gasvormige brandstof, met een nominaal totaal geïnstalleerd vermogen van meer dan 20 kW, dat 15 jaar oud is geworden tussen 1 juni 2007 en 1 juni 2008, een verwarmingsaudit uitvoeren van de gehele verwarmingsinstallatie voor 1 juni 2010.<br /><br />§ 2. De verwarmingsaudit, bedoeld in § 1, wordt uitgevoerd door :<br />1° Een erkende technicus vloeibare brandstof, indien het centraal stooktoestel wordt gevoed met vloeibare brandstof en een nominaal totaal geïnstalleerd vermogen heeft kleiner of gelijk aan 100 kW;<br />2° Een erkende technicus gasvormige brandstof, indien het centraal stooktoestel wordt gevoed met gasvormige brandstof en een nominaal totaal geïnstalleerd vermogen heeft kleiner of gelijk aan 100 kW;<br />3° Een erkende technicus verwarmingsaudit, in de volgende gevallen :<br />a) het centraal stooktoestel, gevoed met vloeibare of gasvormige brandstof, heeft een totaal geïnstalleerd nominaal vermogen groter dan 100 kW;<br />b) het centraal stooktoestel wordt gevoed met vaste brandstof;<br />c) de verwarmingsinstallatie bestaat uit meerdere ketels.<br /><br />§ 3. Indien een verwarmingsinstallatie, met een nominaal vermogen kleiner of gelijk aan 100 kW, die minstens 13 jaar oud is, werd onderzocht in het kader van een energieaudit van een woning, dan wordt dit tevens aanvaard als verwarmingsaudit. <br />
+Verwarmingsaudit<BR><BR>§ 1. De eigenaar van een centraal stooktoestel met   een nominaal vermogen van 20 kW of meer laat telkens een verwarmingsaudit   uitvoeren samen met de eerstvolgende onderhoudsbeurt, vermeld in artikel 8, 4°,   nadat het toestel vijf jaar oud is geworden en nadien vijfjaarlijks.<BR><BR>In   afwijking van het eerste lid, laat de eigenaar van een centraal stooktoestel met   een nominaal vermogen van meer dan 100 kW een verwarmingsaudit uitvoeren met de   volgende frequentie :<BR>1° tweejaarlijks in het geval van een centraal   stooktoestel gevoed met vloeibare brandstof;<BR>2° vierjaarlijks in het geval   van een centraal stooktoestel gevoed met gasvormige brandstof.<BR><BR>§ 2. De   verwarmingsaudit, bedoeld in § 1, wordt uitgevoerd door :<BR>1° Een erkende   technicus vloeibare brandstof, indien het centraal stooktoestel wordt gevoed met   vloeibare brandstof en een nominaal totaal geïnstalleerd vermogen heeft kleiner   of gelijk aan 100 kW;<BR>2° Een erkende technicus gasvormige brandstof, indien   het centraal stooktoestel wordt gevoed met gasvormige brandstof en een nominaal   totaal geïnstalleerd vermogen heeft kleiner of gelijk aan 100 kW;<BR>3° Een   erkende technicus verwarmingsaudit, in de volgende gevallen :<BR>a) het centraal   stooktoestel, gevoed met vloeibare of gasvormige brandstof, heeft een totaal   geïnstalleerd nominaal vermogen groter dan 100 kW;<BR>b) het centraal   stooktoestel wordt gevoed met vaste brandstof;<BR>c) de verwarmingsinstallatie   bestaat uit meerdere ketels.<BR><BR>§ 3. Indien een verwarmingsinstallatie, met   een nominaal vermogen kleiner of gelijk aan 100 kW, die minstens 13 jaar oud is,   werd onderzocht in het kader van een energieaudit van een woning, dan wordt dit   tevens aanvaard als verwarmingsaudit. <BR>
 
 ### ART. 10.
 
@@ -534,7 +533,7 @@ Ter beschikking houden van attesten en rapporten<br /><br />§ 1. De eigenaar va
 
 ### ART. 12.
 
-Keuring vóór eerste ingebruikname van een nieuw centraal stooktoestel<br /><br />§ 1. De keuring van een nieuw centraal stooktoestel, bedoeld in art. 7, bestaat uit : <br />1° het onderzoek van de goede en veilige staat van werking van het stooktoestel, met inbegrip van de controleproeven omtrent de goede staat van werking;<br />2° het onderzoek van de algemene staat van het centrale stooktoestel, inzonderheid de goede verbinding tussen de brander en de centrale stookketel indien van toepassing; <br />3° de controle van de schoorsteen, met inbegrip van de goede werking ervan, en het onderzoek naar de geschiktheid van de schoorsteen voor het stooktoestel waarmee hij verbonden is;<br />4° de controle op de aanwezigheid van de gebruikers- en onderhoudsinstructies;<br />5° het controleren van de verluchting van het stooklokaal en de aanvoer van verbrandingslucht.<br /><br />§ 2. Een nieuw centraal stooktoestel, gevoed met vloeibare of gasvormige brandstof, moet voorzien zijn van meetopeningen aan rookgaszijde voor het uitvoeren van de controleproeven omtrent de goede staat van werking.<br />
+Keuring vóór eerste ingebruikname van een nieuw centraal   stooktoestel<BR><BR>§ 1. De keuring van een nieuw centraal stooktoestel, bedoeld   in art. 7, bestaat uit : <BR>1° het onderzoek van de goede en veilige staat van   werking van het stooktoestel, met inbegrip van de controleproeven omtrent de   goede staat van werking;<BR>2° het onderzoek van de algemene staat van het   centrale stooktoestel, inzonderheid de goede verbinding tussen de brander en de   centrale stookketel indien van toepassing; <BR>3° de controle van de   schoorsteen, met inbegrip van de goede werking ervan, en het onderzoek naar de   geschiktheid van de schoorsteen voor het stooktoestel waarmee hij verbonden   is;<BR>4° de controle op de aanwezigheid van de gebruikers- en   onderhoudsinstructies;<BR>5° het controleren van de verluchting van het   stooklokaal en de aanvoer van verbrandingslucht.<BR><BR>§ 2. Een nieuw centraal   stooktoestel, gevoed met vloeibare of gasvormige brandstof, moet voorzien zijn   van meetopeningen aan rookgaszijde voor het uitvoeren van de controleproeven   omtrent de goede staat van werking.<BR><BR>§ 3. De technicus voert na de   uitvoering van de keuring een verbrandingscontrole uit als vermeld in artikel   13.<BR>
 
 ### ART. 13.
 
@@ -546,7 +545,7 @@ Uitvoeren verwarmingsaudit<br /><br />§ 1. De verwarmingsaudit, bedoeld in arti
 
 ### ART. 15.
 
-Afgeven en ter beschikking houden van attesten en rapporten<BR><BR>§ 1. De   persoon die de keuring van een nieuw centraal stooktoestel, bedoeld in artikel   7, uitvoert, overhandigt aan de eigenaar een behoorlijk ingevuld   keuringsrapport.<BR><BR>§ 2. De persoon die de gedeeltelijke of de volledige   onderhoudsbeurt van artikel 8, 4°, heeft uitgevoerd overhandigt aan de gebruiker   van het centrale stooktoestel het behoorlijk ingevulde reinigingsattest en/of   het behoorlijk ingevulde verbrandingsattest. Een duplicaat ervan houdt hij   gedurende minstens één jaar ter beschikking van de afdeling of van de   toezichthoudende ambtenaar.<BR><BR>§ 3. De persoon die de verwarmingsaudit,   bedoeld in artikel 9, heeft uitgevoerd, overhandigt aan de eigenaar van het   centrale stooktoestel een verwarmingsauditrapport.<BR><BR>§ 4. ....<BR><BR>§ 5.   Een behoorlijk ingevuld reinigingsattest, verbrandingsattest, keuringsrapport of   verwarmingsauditrapport bevat minstens de gegevens, gevraagd in het   toepasselijke model uit bijlage III in duidelijk leesbare alfanumerieke tekens.   Een rapport of attest is enkel geldig indien het behoorlijk werd   ingevuld.<BR><BR>§ 6. Indien voor het uitreiken van een rapport of attest een   erkenning vereist is, dient de technicus op het moment van uitreiken van dit   rapport of attest over deze erkenning te beschikken. In afwachting van zijn   erkenning mag een technicus rapporten of attesten uitschrijven, voor zover hij   geslaagd is in de toepasselijke proef uit artikel 25 en zijn erkenningsaanvraag   bij de afdeling in behandeling is. In afwachting van de beslissing van de   afdeling noteert de technicus tijdens de behandelingsperiode op elk door hem   uitgeschreven attest of rapport de woorden "erkenningsnummer in   aanvraag".<BR>
+Afgeven en ter beschikking houden van attesten en rapporten<BR><BR>§ 1. De   persoon die de keuring van een nieuw centraal stooktoestel, bedoeld in artikel   7, uitvoert, overhandigt aan de eigenaar een behoorlijk ingevuld keuringsrapport   en een verbrandingsattest.<BR><BR>§ 2. De persoon die de gedeeltelijke of de   volledige onderhoudsbeurt van artikel 8, 4°, heeft uitgevoerd overhandigt aan de   gebruiker van het centrale stooktoestel het behoorlijk ingevulde   reinigingsattest en/of het behoorlijk ingevulde verbrandingsattest. Een   duplicaat ervan houdt hij gedurende minstens één jaar ter beschikking van de   afdeling of van de toezichthoudende ambtenaar.<BR><BR>§ 3. De persoon die de   verwarmingsaudit, bedoeld in artikel 9, heeft uitgevoerd, overhandigt aan de   eigenaar van het centrale stooktoestel een verwarmingsauditrapport.<BR><BR>§ 4.   ....<BR><BR>§ 5. Een behoorlijk ingevuld reinigingsattest, verbrandingsattest,   keuringsrapport of verwarmingsauditrapport bevat minstens de gegevens, gevraagd   in het toepasselijke model uit bijlage III in duidelijk leesbare alfanumerieke   tekens. Een rapport of attest is enkel geldig indien het behoorlijk werd   ingevuld.<BR><BR>§ 6. Indien voor het uitreiken van een rapport of attest een   erkenning vereist is, dient de technicus op het moment van uitreiken van dit   rapport of attest over deze erkenning te beschikken.
 
 ## HOOFDSTUK V Erkenning van een technicus vloeibare brandstof, een technicus gasvormige brandstof of een technicus verwarmingsaudit
 
@@ -628,7 +627,7 @@ Overgangsbepaling eenmalige verwarmingsaudit van een bestaand centraal stooktoes
 
 ### ART. 34.
 
-Overgangsbepalingen erkenning technicus vloeibare brandstof<br /><br />§ 1. De technicus die met toepassing van het koninklijk besluit van 6 januari 1978 tot voorkoming van luchtverontreiniging bij het verwarmen van gebouwen met vaste of vloeibare brandstof werd erkend als bevoegde technicus, is, voor de toepassing van dit besluit, erkend als technicus vloeibare brandstof tot uitdoving of intrekking van zijn erkenning, behalve voor het uitvoeren van de verwarmingsaudit, bedoeld in artikel 9, § 2, 1°. Deze technicus is tot uitdoving of intrekking van zijn erkenning automatisch erkend voor het uitvoeren van de verwarmingsaudit uit artikel 9, § 2, 1° indien hij de uitbreidingsmodule verwarmingsaudit, bedoeld in bijlage 1, hoofdstuk 3, afdeling 3 van het besluit van de Vlaamse Regering van 19 november 2010 tot vaststelling van het Vlaams reglement inzake erkenningen met betrekking tot het leefmilieu, heeft gevolgd in een erkend opleidingscentrum verwarmingsaudit en slaagt in de bijhorende proef. Het erkende opleidingscentrum verwarmingsaudit meldt aan de afdeling welke erkende technici deze proef met succes hebben afgelegd.<br /><br />§ 2. De in § 1 vermelde uitbreidingsmodule verwarmingsaudit kan alleen door een erkend opleidingscentrum georganiseerd worden.
+<P>...</P>
 
 ### ART. 35.
 
@@ -644,11 +643,11 @@ Overgangsbepaling technische eisen meetapparatuur<br /><br />De technische eisen
 
 ### ART. 38.
 
-Handhaving <br /><br />§ 1. ...<br /><br />§ 2 De afdeling wordt belast met de controle op de bepalingen van dit besluit met inbegrip van de controle op de naleving van de verplichtingen inzake het dossierrecht zoals bepaald in artikel 40.<br /><br />§ 3. De minister en de afdeling kunnen een door een erkende technicus onderhouden stooktoestel op ieder moment onderwerpen aan een controle door een geaccrediteerde keuringsinstelling. De minister kan de erkenning van de technicus altijd intrekken, wanneer niet meer aan de erkenningsvoorwaarden is voldaan, of indien is gebleken dat de technicus de taken waarmee hij is belast niet reglementair, niet objectief of niet naar behoren heeft uitgevoerd. Tot 1 juni 2010 kan de minister keuringsinstellingen, die niet geaccrediteerd zijn voor de activiteiten voorzien in dit besluit, aanwijzen voor het uitvoeren van de controle op de technici.<br /><br />§ 4. ...<br />
+<P>...</P>
 
 ### ART. 39.
 
-Geaccrediteerde keuringsinstelling<br /><br />§ 1. Om aangewezen te worden als keuringsinstelling, moet een instelling aan de volgende voorwaarden voldoen :<br />1° beschikken over rechtspersoonlijkheid;<br />2° keurders aanduiden die een geldig certificaat van bekwaamheid inzake verwarmingsaudit, vloeibare en gasvormige brandstof hebben en beschikken over 3 jaar praktijkervaring in de verwarmingssector;<br />3° geaccrediteerd zijn als keuringsinstelling van het type A op basis van de criteria van de norm NBN-EN ISO/IEC 17020 voor de activiteiten voorzien in dit besluit, overeenkomstig het accreditatiesysteem ingesteld in toepassing van de wet van 20 juli 1990 betreffende de accreditatie van certificatie- en keuringsinstellingen alsmede van beproevingslaboratoria, of geaccrediteerd zijn door een evenwaardige organisatie die de naleving oplegt van criteria die gelijkwaardige garanties bieden als het voormelde accreditatiesysteem. <br /><br />De minister wijst een keuringsinstelling aan voor een periode van maximaal drie jaar.<br /><br />§ 2. De minister kan de aanwijzing van de keuringsinstelling intrekken :<br />1° wanneer de keuringsinstelling niet meer voldoet aan de voorwaarden bepaald in § 1 van dit artikel;<br />2° wanneer de accreditatie van de keuringsinstelling wordt ingetrokken voor de activiteiten voorzien in dit besluit;<br />3° wanneer herhaaldelijke fouten zijn vastgesteld bij de uitoefening van haar opdrachten.<br /><br />De beslissing tot intrekking wordt pas genomen nadat de instelling behoorlijk door de minister of zijn afgevaardigde werd gehoord.<br /><br />§ 3. De keuringsinstelling is belast met het uitoefenen van de volgende opdrachten :<br />1° steekproefsgewijze en periodieke controle op de conformiteit van het onderhouden, nazien en keuren van verwarmingsinstallaties met de vereisten bepaald in dit besluit, op aanvraag van de minister of de afdeling;<br />2° Een verslag van de keuring bezorgen aan de afdeling en aan de gebruiker van het stooktoestel. <br /><br />§ 4. Indien uit de controle op het werk van de erkende technicus, uitgeoefend door de geaccrediteerde keuringsinstelling, blijkt dat de technicus de taken waarmee hij werd belast niet reglementair, niet objectief of niet naar behoren heeft uitgevoerd, waardoor een herkeuring in aanwezigheid van beide partijen noodzakelijk wordt, dan zullen de kosten welke deze herkeuring met zich meebrengt, en ingeval de technicus niet in staat is de installatie opnieuw reglementair af te stellen, te zijnen laste komen te vallen. Slaagt hij er wel in de installatie correct af te stellen dan worden hem voor deze herkeuring geen kosten ten laste gelegd.<br />
+<P>...</P>
 
 ### ART. 40.
 
@@ -773,114 +772,115 @@ Het uiteinde van de meetsensor/monsternameslang wordt via de daartoe bestemde me
 <br>
 Het stooktoestel wordt al dan niet in goede staat van werking verklaard op basis van de resultaten van de eindmeetreeks.<br>
 <br>
+Het verbrandingsattest vermeldt de waarden, gemeten met het elektronische rookgasanalysetoestel. De afdruk van het toestel wordt opgenomen in de daarvoor bestemde ruimte.<br>
+<br>
 HOOFDSTUK II. - Technische vereisten meetapparatuur<br>
 <br>
-Voor het opmeten van de verschillende parameters worden uitsluitend meettoestellen gebruikt die voldoen aan de volgende minimale technische specificaties :</p>
+Voor het opmeten van de verschillende parameters worden uitsluitend meettoestellen gebruikt die voldoen aan de volgende minimale technische specificaties :<br>
+</p>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:447.9pt">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:447.9pt">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:22.7pt; width:173.15pt">
-			<p>Parameter<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			<td style="border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; height:22.7pt; width:173.15pt">
+			<p>Parameter</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:22.7pt; width:172pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:black 1pt solid; height:22.7pt; width:172pt">
 			<p>Toestel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:22.7pt; width:51.25pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:black 1pt solid; height:22.7pt; width:51.25pt">
 			<p>Resolutie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; height:22.7pt; width:51.5pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:black 1pt solid; height:22.7pt; width:51.5pt">
 			<p>Absolute fout</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:173.15pt">
+			<td style="border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:medium none; height:14.2pt; width:173.15pt">
 			<p>Rookindex</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:172pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:14.2pt; width:172pt">
 			<p>Een lekdichte rookindexpomp, filterpapier, referentieschaal</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.25pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:14.2pt; width:51.25pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.5pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:14.2pt; width:51.5pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:173.15pt">
+			<td style="border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:173.15pt">
 			<p>Zuurstof (O<sub>2</sub>)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:172pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:172pt">
 			<p>Een zuurstofanalysator</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:51.25pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:51.25pt">
 			<p>0,1 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:51.5pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:51.5pt">
 			<p>±0,3 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:173.15pt">
+			<td style="border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:173.15pt">
 			<p>Koolstofdioxide (C O<sub>2</sub>)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:172pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:172pt">
 			<p>Een koolstofdioxideanalysator</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:51.25pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:51.25pt">
 			<p>0,1 %</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:51.5pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:51.5pt">
 			<p>± 0,3 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:173.15pt">
+			<td style="border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:173.15pt">
 			<p>Koolstofmonoxide (CO)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:172pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:172pt">
 			<p>Een koolstofmonoxide-analysator</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:51.25pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:51.25pt">
 			<p>1 ppm</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:51.5pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:51.5pt">
 			<p>± 20 ppm</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:173.15pt">
+			<td style="border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:173.15pt">
 			<p>Rookgastemperatuur Omgevingstemperatuur</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:172pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:172pt">
 			<p>Een thermometer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:51.25pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:51.25pt">
 			<p>1 °C</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:13.5pt; width:51.5pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:13.5pt; width:51.5pt">
 			<p>± 3 °C</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:173.15pt">
+			<td style="border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:medium none; height:14.2pt; width:173.15pt">
 			<p>Onderdruk / trek</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:172pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:14.2pt; width:172pt">
 			<p>Een onderdrukmeter</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.25pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:14.2pt; width:51.25pt">
 			<p>1 Pa</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; height:14.2pt; width:51.5pt">
+			<td style="border-bottom:black 1pt solid; border-left:medium none; border-right:black 1pt solid; border-top:medium none; height:14.2pt; width:51.5pt">
 			<p>± 2 Pa</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -1119,7 +1119,7 @@ Eenheden, conversies en berekeningsformules<br>
 
 ### Tekst
 
-Modellen van attesten en rapporten<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2007/04/27_2.pdf#page=88" title=" " target="_blank" class="pdf"></a> <br /><br />III. Inhoud van het keuringsrapport<br /><br />Het verslag van de keuring voor de eerste ingebruikname van een nieuw stooktoestel, bevat minstens de volgende gegevens en elementen bevat in duidelijk leesbare alfanumerieke tekens :<br />a) de naam en het adres van de eigenaar van het stooktoestel, of van<br />zijn aangestelde;<br />b) het adres van de plaats waar het stooktoestel staat;<br />c) de kenmerken van het stooktoestel;<br />d) een overzicht van de verschillende delen van de keuring met de<br />vermelding van het resultaat;<br />e) de volledige eindbeoordeling van het stooktoestel, de schoorsteen<br />en het stooklokaal (conform / niet conform);<br />f) de datum van de keuring;<br />g) de naam en de handtekening van de keurder;<br />h) het erkenningsnummer;<br />i) de naam van het keuringsbedrijf, het adres, het handelsregisternummer en het BTW-nummer;<br />j) vastgestelde gebreken en noodzakelijke maatregelen om deze weg te werken<br />k) de handtekening van de eigenaar van het stooktoestel, of van zijn<br />aangestelde, voorafgegaan door de vermelding "voor kennisname".<br />
+<P>Modellen van attesten en rapporten<BR><BR>I. Model van het   reiningingsattest<BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2007/04/27_2.pdf#page=88">Bijlage   III Model I</A><BR><BR>[<EM>Bij besluit van de Vlaamse Regering van 1 maart 2013   worden aan het model van reinigingsattest volgende wijzigingen aangebracht:   <BR>1° de zinsnede « schoorsteenonderdruk (hPa of mbar) : » wordt vervangen door   de zinsnede « druk schoorsteen (Pa) : »;<BR>2° de woorden « Vlaamse regering »   worden vervangen door de zinsnede « Vlaamse Regering van 8 december 2006   »;<BR>3° tussen de woorden « nazicht van » en het woord « stooktoestellen »   wordt het woord « centrale » ingevoegd.<BR>Zie BVR 1 maart 2013, art.   44&nbsp;B.S. 23 april 2013, I: 3 mei 2013</EM>)]</P>  <P><BR>II. Model van het verbrandingsattest</P>  <P><A   href="http://www.ejustice.just.fgov.be/mopdf/2007/04/27_2.pdf#page=89">Bijlage   III Model II</A><BR><BR>[<EM>Bij besluit van de Vlaamse Regering van 1 maart   2013 worden aan het model van verbrandingsattest volgende wijzigingen   aangebracht:<BR>1° de rijen<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>pompdruk       <TD>MPa (of bar)       <TD>1       <TD>&nbsp;       <TD>&nbsp;<BR>    <TR>      <TD>Gasdruk       <TD>MPa of bar       <TD>2       <TD>&nbsp;       <TD>&nbsp;<BR>    <TR>      <TD>onderdruk schoorsteen       <TD>hPa (of mbar)       <TD>1, 2       <TD>&nbsp;       <TD>&nbsp;<BR></TD></TR></TBODY></TABLE><BR>worden vervangen door de volgende   rijen :<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>pompdruk       <TD>bar       <TD>1       <TD>&nbsp;       <TD>&nbsp;<BR>    <TR>      <TD>gasdruk       <TD>mbar       <TD>2       <TD>&nbsp;       <TD>&nbsp;<BR>    <TR>      <TD>druk schoorsteen       <TD>Pa       <TD>1, 2       <TD>&nbsp;       <TD>&nbsp;<BR></TD></TR></TBODY></TABLE><BR>2° de zinsnede « EINDBEOORDELING :   (kruis aan wat van toepassing is) O Het stooktoestel werkt goed O het toestel   werkt niet goed » wordt vervangen door de volgende zinsnede :<BR>«   EINDBEOORDELING : Het stooktoestel werkt :<BR>(Kruis aan wat van toepassing   is.)O goed O niet goed<BR>O veilig O niet veilig »;<BR>3° de woorden « Vlaamse   regering » worden vervangen door de zinsnede « Vlaamse Regering van 8 december   2006 »;<BR>4° tussen de woorden « nazicht van » en het woord « stooktoestellen »   wordt het woord « centrale » ingevoegd. Zie BVR 1 maart 2013, art. 45&nbsp;B.S.   23 april 2013, I: 3 mei 2013)]<BR><BR></EM>III. Inhoud van het   keuringsrapport<BR><BR>Het verslag van de keuring voor de eerste ingebruikname   van een nieuw stooktoestel, bevat minstens de volgende gegevens en elementen   bevat in duidelijk leesbare alfanumerieke tekens :<BR>a) de naam en het adres   van de eigenaar van het stooktoestel, of van<BR>zijn aangestelde;<BR>b) het   adres van de plaats waar het stooktoestel staat;<BR>c) de kenmerken van het   stooktoestel;<BR>d) een overzicht van de verschillende delen van de keuring met   de<BR>vermelding van het resultaat;<BR>e) de volledige eindbeoordeling van het   stooktoestel, de schoorsteen<BR>en het stooklokaal (conform / niet   conform);<BR>f) de datum van de keuring;<BR>g) de naam en de handtekening van de   keurder;<BR>h) het erkenningsnummer;<BR>i) de naam van het keuringsbedrijf, het   adres, het handelsregisternummer en het BTW-nummer;<BR>j) vastgestelde gebreken   en noodzakelijke maatregelen om deze weg te werken<BR>k) de handtekening van de   eigenaar van het stooktoestel, of van zijn<BR>aangestelde, voorafgegaan door de   vermelding "voor kennisname".<BR></P>
 
 ## Bijlage IV. Erkenning van een opleidingscentrum : Lijst van de technische toestellen en de didactische uitrusting
 
