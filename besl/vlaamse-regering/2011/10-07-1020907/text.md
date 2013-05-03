@@ -77,7 +77,7 @@ Op voordracht van de Vereniging van Vlaamse Steden en Gemeenten,   Paviljoenstra
 
 ### ART. 13.
 
-Op voordracht van de koepelorganisaties van de woonzorgcentra worden de volgende personen benoemd tot respectievelijk effectief en plaatsvervangend lid : <br />de heer Tarsi Windey, Zorgnet, Guimardstraat 1, 1040 Brussel en de heer Jean-Luc Griep, Federatie Onafhankelijke Seniorenzorg, Brandekensweg 9, 2627 Schelle. <br /><br />
+Op voordracht van de koepelorganisaties van de woonzorgcentra worden de   volgende personen benoemd tot respectievelijk effectief en plaatsvervangend lid   : <BR>de heer Tarsi Windey, Zorgnet, Guimardstraat 1, 1040 Brussel en de heer   Jean-Luc Griep, Vlaams Onafhankelijk Zorgnetwerk, Brandekensweg 9, 2627 Schelle.   <BR><BR>
 
 ### ART. 14.
 
