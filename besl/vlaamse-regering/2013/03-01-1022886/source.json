@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022886,
+  "title": "Besluit van de Vlaamse Regering van 2013-03-01 tot wijziging van het VLAREL en tot wijziging van diverse andere besluiten wat betreft erkenningen met betrekking tot het leefmilieu",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022886/VolledigDocument?datum=2013-05-03",
+  "source_sha256": "08a848b33032301254a5510ec9198f049287c4591c601d1c6e81d7e3816b2aab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022886&param=informatie",
+  "as_of": "2013-05-03",
+  "made": "2013-03-01",
+  "gazette": "2013-04-23",
+  "numac": 2013035346,
+  "document_start": "2013-05-03",
+  "document_end": null,
+  "in_force": "2013-05-03",
+  "article_versions": 214,
+  "record_form": "consolidated version as in force on 2013-05-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
