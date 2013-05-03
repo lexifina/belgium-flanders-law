@@ -184,6 +184,14 @@ Artikel 16quinquies, § 4, eerste lid, van hetzelfde decreet, ingevoegd bij het 
 
 ## HOOFDSTUK 14 Bodemdecreet
 
+### ART. 40.
+
+Artikel 8 van het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming, gewijzigd bij het decreet van 12 december 2008, wordt vervangen door wat volgt :<br />« Art. 8. Op de erkenning als bodemsaneringsdeskundige zijn de bepalingen van hoofdstuk IIIbis van het decreet van 28 juni 1985 betreffende de milieuvergunning van toepassing.<br /><br />De OVAM is erkend als bodemsaneringsdeskundige. De Vlaamse Instelling voor Technologisch Onderzoek is erkend als bodemsaneringsdeskundige voor de taken die ze in opdracht van de OVAM uitvoert in het kader van dit decreet. De bepalingen van hoofdstuk IIIbis van het decreet van 28 juni 1985 betreffende de milieuvergunning zijn niet van toepassing op de erkenning van de OVAM en de VITO. »<br /><br />
+
+### ART. 41.
+
+In artikel 162, § 5, van hetzelfde decreet wordt het woord « bodemsaneringsdeskundige » opgeheven.<br /><br />
+
 ## HOOFDSTUK 15 Slotbepalingen
 
 ### ART. 42.
