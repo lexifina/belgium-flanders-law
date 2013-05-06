@@ -2,16 +2,16 @@
   "codex_id": 1018259,
   "title": "Besluit van de Vlaamse Regering van 2009-05-29 tot regeling van sommige aspecten van de organisatie en werking van de Raad voor vergunningsbetwistingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018259/VolledigDocument?datum=2012-09-01",
-  "source_sha256": "65938bd465059015082f2d3bc0b7cae70013988b3fa721d7f47b022fc4e33c79",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018259/VolledigDocument?datum=2013-05-06",
+  "source_sha256": "95a35b38749101611f0dd6375068d1bac8de7b73d13f72246546c741d50b4043",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018259&param=informatie",
-  "as_of": "2012-09-01",
+  "as_of": "2013-05-06",
   "made": "2009-05-29",
   "gazette": "2009-08-26",
   "numac": 2009035776,
   "document_start": "2009-09-01",
   "document_end": "2013-05-05",
-  "in_force": "2012-09-01",
+  "in_force": "2013-05-06",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2012-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-05-06; future article versions excluded; article text as the API gives it"
 }
